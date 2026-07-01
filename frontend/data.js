@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openclaw-is-finally-available-on-android-and-ios",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenClaw is finally available on Android and iOS",
+    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "pubDate": "Tue, 30 Jun 2026 21:53:28 +0000",
+    "slides": [
+      "OpenClaw hits mobile, but can it beat the originals?",
+      "It brings the classic 2000s sidescroller to your phone",
+      "No one expected the touch controls to work this well",
+      "Your saved progress syncs across devices instantly",
+      "Download now and test the first level for free"
+    ],
+    "thread_text": [
+      "1. Can touch controls really work?\n\nThe developers bet the port on a single risky input method. Most mobile adaptations fail here.",
+      "2. What made the 2000s original special?\n\nTight pixel-perfect platforming that punished even tiny mistakes. The phone version had to rebuild that feel from scratch.",
+      "3. Cloud saves aren't just backup.\n\nStart a level on your phone, finish it on your tablet. The game tracks your exact position and state.",
+      "4. The first level is a trap.\n\nIt's free and easy on purpose. The real challenge appears right after you hit \"buy\".",
+      "5. Download the free level today.\n\nPlay it through once. Then ask yourself: would you pay for the rest?"
+    ],
+    "video_script": [
+      "Classic 2000s sidescroller now on mobile.",
+      "Touch controls work surprisingly well.",
+      "Progress syncs instantly across devices.",
+      "Test the first level for free.",
+      "Download now and see for yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can touch controls really work?\n\nThe developers bet the port on a single risky input method. Most mobile adaptations fail here.",
+          "2. What made the 2000s original special?\n\nTight pixel-perfect platforming that punished even tiny mistakes. The phone version had to rebuild that feel from scratch.",
+          "3. Cloud saves aren't just backup.\n\nStart a level on your phone, finish it on your tablet. The game tracks your exact position and state.",
+          "4. The first level is a trap.\n\nIt's free and easy on purpose. The real challenge appears right after you hit \"buy\".",
+          "5. Download the free level today.\n\nPlay it through once. Then ask yourself: would you pay for the rest?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Classic 2000s sidescroller now on mobile.",
+          "Touch controls work surprisingly well.",
+          "Progress syncs instantly across devices.",
+          "Test the first level for free.",
+          "Download now and see for yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenClaw brought its pixel-perfect 2000s platforming to mobile, and the touch controls actually feel right.\n\nThe entire port hinged on rebuilding that punishing, frame-tight feel for a touchscreen—most attempts fail, but here the jump distance, ledge grabs, and enemy timing all translate cleanly.\n\nYour progress syncs live between phone and tablet, even mid-level.\n\nThe free first level is intentionally easy; the real challenge starts after you tap \"buy.\"\n\nYou've played the free level—would you pay for the rest? 💀"
+      }
+    },
+    "instagram_caption": "OpenClaw brought its pixel-perfect 2000s platforming to mobile, and the touch controls actually feel right.\n\nThe entire port hinged on rebuilding that punishing, frame-tight feel for a touchscreen—most attempts fail, but here the jump distance, ledge grabs, and enemy timing all translate cleanly.\n\nYour progress syncs live between phone and tablet, even mid-level.\n\nThe free first level is intentionally easy; the real challenge starts after you tap \"buy.\"\n\nYou've played the free level—would you pay for the rest? 💀",
+    "carousel_slides": [
+      {
+        "hook": "Can touch controls actually work?",
+        "description": "The developers bet everything on one risky input method. Most mobile ports fail here.",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone touch screen"
+      },
+      {
+        "hook": "2000s precision, rebuilt for mobile.",
+        "description": "Pixel-perfect platforming that punished tiny mistakes. The phone version had to recreate that feel.",
+        "visual_hint": "Pixel art character jumping",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "retro video game",
+        "image": "https://images.pexels.com/photos/4511372/pexels-photo-4511372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your progress syncs across devices.",
+        "description": "Start a level on phone, finish on tablet. The game tracks your exact position and state.",
+        "visual_hint": "Two screens showing same game",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cloud sync icon",
+        "image": "https://images.pexels.com/photos/36871518/pexels-photo-36871518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The first level is a trap.",
+        "description": "It's free and easy on purpose. The real challenge appears right after you hit buy.",
+        "visual_hint": "Spikes hidden behind coin",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "video game controller",
+        "image": "https://images.pexels.com/photos/11382204/pexels-photo-11382204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Download the free level now.",
+        "description": "Play it through once, then ask yourself: would you pay for the rest?",
+        "visual_hint": "Phone with download button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "app store icon",
+        "image": "https://images.pexels.com/photos/15378959/pexels-photo-15378959.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
+    "savedAt": "2026-07-01T08:04:29.353Z",
+    "sourceId": "be61e7a52c8152dc480f41b9f165813c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "trump-drops-restrictions-on-anthropic-s-mythos-and",
     "prompt_version": "1.0.0",
     "status": "published",
