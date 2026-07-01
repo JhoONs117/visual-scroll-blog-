@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "netflix-is-using-an-ai-generated-gene-wilder-voice",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "pubDate": "2026-06-30T17:19:15.000Z",
+    "slides": [
+      "Netflix cloned Gene Wilder's voice — did they get permission?",
+      "The family and estate were not consulted beforehand.",
+      "AI voices can now mimic deceased actors without consent.",
+      "Your favorite rewatched films may shift ownership overnight.",
+      "Demand ethical AI clauses before signing any streaming deal."
+    ],
+    "thread_text": [
+      "1. They cloned his voice\n\nThe family of Gene Wilder says Netflix never asked for permission before using AI to recreate his voice in a recent project.",
+      "2. No consent needed\n\nCurrent laws in many places don't require approval from estates when AI mimics a dead actor's voice.",
+      "3. Your favorites at risk\n\nStreaming deals now let studios alter or replace performances in classic films without notice to the original actors.",
+      "4. Rewatch could reset\n\nA film you've watched ten times might look or sound different tomorrow if a studio swaps the original track.",
+      "5. Check your next contract\n\nBefore you sign any new streaming subscription or deal, demand a clause that limits AI cloning of performers without consent."
+    ],
+    "video_script": [
+      "Netflix cloned Gene Wilder's voice without asking.",
+      "The family found out after it was done.",
+      "Laws don't protect dead actors from AI.",
+      "Your favorite films can be changed overnight.",
+      "Demand ethical clauses before you subscribe."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They cloned his voice\n\nThe family of Gene Wilder says Netflix never asked for permission before using AI to recreate his voice in a recent project.",
+          "2. No consent needed\n\nCurrent laws in many places don't require approval from estates when AI mimics a dead actor's voice.",
+          "3. Your favorites at risk\n\nStreaming deals now let studios alter or replace performances in classic films without notice to the original actors.",
+          "4. Rewatch could reset\n\nA film you've watched ten times might look or sound different tomorrow if a studio swaps the original track.",
+          "5. Check your next contract\n\nBefore you sign any new streaming subscription or deal, demand a clause that limits AI cloning of performers without consent."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Netflix cloned Gene Wilder's voice without asking.",
+          "The family found out after it was done.",
+          "Laws don't protect dead actors from AI.",
+          "Your favorite films can be changed overnight.",
+          "Demand ethical clauses before you subscribe."
+        ]
+      },
+      "instagram": {
+        "caption": "Netflix cloned Gene Wilder’s voice for a Willy Wonka show — they didn’t tell his family first.\n\nNo law stopped them. In most places, you can mimic a dead actor’s voice without asking the estate. 🎬\n\nYour favorite film can be silently swapped: new voice, new take, old title. No notice needed. 🎞️\n\nIf you create voice or video content, a contract today can let a studio replace your performance tomorrow.\n\nWho in your contract right now has the right to clone your voice after you’re gone? ⚖️"
+      }
+    },
+    "instagram_caption": "Netflix cloned Gene Wilder’s voice for a Willy Wonka show — they didn’t tell his family first.\n\nNo law stopped them. In most places, you can mimic a dead actor’s voice without asking the estate. 🎬\n\nYour favorite film can be silently swapped: new voice, new take, old title. No notice needed. 🎞️\n\nIf you create voice or video content, a contract today can let a studio replace your performance tomorrow.\n\nWho in your contract right now has the right to clone your voice after you’re gone? ⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Your favorite actor's voice cloned without consent?",
+        "description": "Netflix used AI to recreate Gene Wilder's voice, but his family was never asked for permission.",
+        "visual_hint": "Gene Wilder portrait",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Gene Wilder portrait"
+      },
+      {
+        "hook": "No permission needed by law",
+        "description": "Current laws in many places do not require estates' approval for AI mimicking deceased actors' voices.",
+        "visual_hint": "Law documents gavel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "law books gavel",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your classic films can be altered overnight",
+        "description": "Streaming deals let studios swap performances in classic films without notifying original actors.",
+        "visual_hint": "Film reel alteration",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "film reel closeup",
+        "image": "https://images.pexels.com/photos/34084882/pexels-photo-34084882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rewatched films may change without warning",
+        "description": "A film you've seen ten times might sound different tomorrow if the studio replaces the original track.",
+        "visual_hint": "Watching TV surprise",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "remote control hand",
+        "image": "https://images.pexels.com/photos/36410718/pexels-photo-36410718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sign now? Demand an ethical AI clause first",
+        "description": "Before signing any streaming deal, insist on a clause limiting AI cloning of performers without consent.",
+        "visual_hint": "Contract signature closeup",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "contract signature pen",
+        "image": "https://images.pexels.com/photos/8470836/pexels-photo-8470836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-07-01T12:27:53.028Z",
+    "sourceId": "cda80fe152fa66c65b25b2df0553906d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openclaw-is-finally-available-on-android-and-ios",
     "prompt_version": "1.0.0",
     "status": "published",
