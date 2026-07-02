@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "boeing-owned-wisk-aero-accused-of-firing-manager-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+  "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+  "pubDate": "Thu, 02 Jul 2026 17:30:04 +0000",
+  "slides": [
+    "Wisk fired a manager — was it for raising safety alarms?",
+    "The manager flagged risks in autonomous flight testing.",
+    "Wisk claims poor performance, not whistleblowing, was cause.",
+    "You can now question whether your firm silences safety voicers.",
+    "Audit your reporting channels; silence costs more than complaints."
+  ],
+  "thread_text": [
+    "1. Fired for speaking up?\n\nWisk let go a manager after he flagged autonomous flight testing risks. Now he's suing.",
+    "2. What the manager saw\n\nHe identified safety gaps in how AI handled real-time flight decisions. Wisk's drones fly near people.",
+    "3. Wisk's defense\n\nThe company claims poor performance, not whistleblowing. The timing says otherwise.",
+    "4. Your turn to check\n\nDoes your firm have a channel that actually protects safety voicers? Or does it silence them?",
+    "5. Audit today\n\nPull your internal incident reports from the last 6 months. Count how many led to changes—not just acknowledgments."
+  ],
+  "video_script": [
+    "A manager flagged AI flight risks.",
+    "Then Wisk fired him.",
+    "They call it poor performance.",
+    "Could your firm do the same?",
+    "Audit your reporting channels now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Fired for speaking up?\n\nWisk let go a manager after he flagged autonomous flight testing risks. Now he's suing.",
+        "2. What the manager saw\n\nHe identified safety gaps in how AI handled real-time flight decisions. Wisk's drones fly near people.",
+        "3. Wisk's defense\n\nThe company claims poor performance, not whistleblowing. The timing says otherwise.",
+        "4. Your turn to check\n\nDoes your firm have a channel that actually protects safety voicers? Or does it silence them?",
+        "5. Audit today\n\nPull your internal incident reports from the last 6 months. Count how many led to changes—not just acknowledgments."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A manager flagged AI flight risks.",
+        "Then Wisk fired him.",
+        "They call it poor performance.",
+        "Could your firm do the same?",
+        "Audit your reporting channels now."
+      ]
+    },
+    "instagram": {
+      "caption": "A manager flagged risks in autonomous flight testing—where AI makes real-time decisions near people—and was fired.\n\nWisk, owned by Boeing, says it was for poor performance. The timing of the termination suggests otherwise. 🛩️\n\nIf your tools or content involve AI decisions affecting safety, the people who report problems need protection, not punishment. 🔍\n\nDoes your company have a reporting channel that actually leads to change—or just silence?"
+    }
+  },
+  "instagram_caption": "A manager flagged risks in autonomous flight testing—where AI makes real-time decisions near people—and was fired.\n\nWisk, owned by Boeing, says it was for poor performance. The timing of the termination suggests otherwise. 🛩️\n\nIf your tools or content involve AI decisions affecting safety, the people who report problems need protection, not punishment. 🔍\n\nDoes your company have a reporting channel that actually leads to change—or just silence?",
+  "carousel_slides": [
+    {
+      "hook": "Fired for flagging safety risks?",
+      "description": "Wisk Aero fired a manager after he warned about risks in autonomous flight tests near people.",
+      "visual_hint": "Fired document on desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "airplane factory"
+    },
+    {
+      "hook": "AI flight flaws ignored?",
+      "description": "He identified gaps in AI real-time decisions during drone flights with no pilot onboard.",
+      "visual_hint": "Drone flying over city",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "autonomous drone",
+      "image": "https://images.pexels.com/photos/18966321/pexels-photo-18966321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wisk says poor performance.",
+      "description": "Company claims firing was performance-based, but timing of safety report contradicts that.",
+      "visual_hint": "Courtroom gavel",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "courtroom documents",
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Does your firm silence voicers?",
+      "description": "If whistleblowers are fired, safety failures stay hidden—until disaster strikes.",
+      "visual_hint": "Hand holding phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office silence",
+      "image": "https://images.pexels.com/photos/7256302/pexels-photo-7256302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this safety audit checklist.",
+      "description": "Review your last 6 months of incident reports. Count how many led to real changes.",
+      "visual_hint": "Checklist clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?resize=1200,675",
+  "savedAt": "2026-07-02T17:55:09.078Z",
+  "sourceId": "4d59738c612c92a7b1329b7713de1470"
+}

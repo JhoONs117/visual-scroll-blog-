@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rivian-raises-ev-sales-forecast-as-q2-production-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+  "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+  "pubDate": "Thu, 02 Jul 2026 12:30:00 +0000",
+  "slides": [
+    "Rivian forecasts more sales—but can it deliver profit?",
+    "Q2 production is ramping faster than expected",
+    "Yet supply chain issues still threaten that pace",
+    "You might get your R1T or R1S sooner now",
+    "Check delivery timelines: your wait may shrink"
+  ],
+  "thread_text": [
+    "1. Can Rivian finally profit?\n\nQ2 production is already beating internal targets, but costs still outpace revenue.",
+    "2. Supply chains could break the run\n\nComponent shortages are still unpredictable, threatening to cut the new pace short.",
+    "3. Your R1T or R1S may ship earlier\n\nDelivery estimates are tightening — some orders just moved up by weeks.",
+    "4. Faster ramp, tighter margins\n\nMore vehicles built means more cash burn unless parts and logistics stabilize soon.",
+    "5. Check your delivery window today\n\nLog into your Rivian account and see if your estimated date has shrunk this week."
+  ],
+  "video_script": [
+    "Rivian raised production targets for this quarter.",
+    "But supply chain problems still loom large.",
+    "Faster output could hurt profit margins more.",
+    "Your truck or SUV might arrive earlier.",
+    "Check your delivery date now for good news."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Rivian finally profit?\n\nQ2 production is already beating internal targets, but costs still outpace revenue.",
+        "2. Supply chains could break the run\n\nComponent shortages are still unpredictable, threatening to cut the new pace short.",
+        "3. Your R1T or R1S may ship earlier\n\nDelivery estimates are tightening — some orders just moved up by weeks.",
+        "4. Faster ramp, tighter margins\n\nMore vehicles built means more cash burn unless parts and logistics stabilize soon.",
+        "5. Check your delivery window today\n\nLog into your Rivian account and see if your estimated date has shrunk this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rivian raised production targets for this quarter.",
+        "But supply chain problems still loom large.",
+        "Faster output could hurt profit margins more.",
+        "Your truck or SUV might arrive earlier.",
+        "Check your delivery date now for good news."
+      ]
+    },
+    "instagram": {
+      "caption": "Rivian is shipping R1T and R1S trucks faster than expected—your delivery window might have just shrunk by weeks. 🔍\n\nQ2 production is ramping ahead of internal targets, beating Rivian's own forecasts. But supply chain snags still threaten the pace.\n\nMore vehicles built faster means your wait could end sooner, but Rivian is still burning cash on each one. 📦\n\nCheck your Rivian account: Has your estimated delivery date changed this week? ⏳"
+    }
+  },
+  "instagram_caption": "Rivian is shipping R1T and R1S trucks faster than expected—your delivery window might have just shrunk by weeks. 🔍\n\nQ2 production is ramping ahead of internal targets, beating Rivian's own forecasts. But supply chain snags still threaten the pace.\n\nMore vehicles built faster means your wait could end sooner, but Rivian is still burning cash on each one. 📦\n\nCheck your Rivian account: Has your estimated delivery date changed this week? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Can Rivian finally profit?",
+      "description": "Q2 production beats targets, but costs still outpace revenue, squeezing margins.",
+      "visual_hint": "Production graph trending up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory production line"
+    },
+    {
+      "hook": "Supply chains could break the run",
+      "description": "Component shortages stay unpredictable, threatening to slash the new production pace.",
+      "visual_hint": "Broken gear or chain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "container ship port",
+      "image": "https://images.pexels.com/photos/27402391/pexels-photo-27402391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your R1T may ship earlier",
+      "description": "Delivery estimates are tightening; some orders just moved up by weeks.",
+      "visual_hint": "Calendar with moved date",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Rivian R1T truck",
+      "image": "https://images.pexels.com/photos/31239241/pexels-photo-31239241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster ramp, tighter margins",
+      "description": "More vehicles built means more cash burn unless parts and logistics stabilize soon.",
+      "visual_hint": "Dollar signs decreasing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot arm car",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your delivery window today",
+      "description": "Log into your Rivian account and see if your estimated date has shrunk this week.",
+      "visual_hint": "Smartphone with Rivian app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Rivian smartphone app",
+      "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900",
+  "savedAt": "2026-07-02T17:55:44.615Z",
+  "sourceId": "4a60561ca8dccba29bd74316fe45f15f"
+}

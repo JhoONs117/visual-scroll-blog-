@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "rivian-raises-ev-sales-forecast-as-q2-production-r",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "pubDate": "Thu, 02 Jul 2026 12:30:00 +0000",
+      "slides": [
+        "Rivian forecasts more sales—but can it deliver profit?",
+        "Q2 production is ramping faster than expected",
+        "Yet supply chain issues still threaten that pace",
+        "You might get your R1T or R1S sooner now",
+        "Check delivery timelines: your wait may shrink"
+      ],
+      "thread_text": [
+        "1. Can Rivian finally profit?\n\nQ2 production is already beating internal targets, but costs still outpace revenue.",
+        "2. Supply chains could break the run\n\nComponent shortages are still unpredictable, threatening to cut the new pace short.",
+        "3. Your R1T or R1S may ship earlier\n\nDelivery estimates are tightening — some orders just moved up by weeks.",
+        "4. Faster ramp, tighter margins\n\nMore vehicles built means more cash burn unless parts and logistics stabilize soon.",
+        "5. Check your delivery window today\n\nLog into your Rivian account and see if your estimated date has shrunk this week."
+      ],
+      "video_script": [
+        "Rivian raised production targets for this quarter.",
+        "But supply chain problems still loom large.",
+        "Faster output could hurt profit margins more.",
+        "Your truck or SUV might arrive earlier.",
+        "Check your delivery date now for good news."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Rivian finally profit?\n\nQ2 production is already beating internal targets, but costs still outpace revenue.",
+            "2. Supply chains could break the run\n\nComponent shortages are still unpredictable, threatening to cut the new pace short.",
+            "3. Your R1T or R1S may ship earlier\n\nDelivery estimates are tightening — some orders just moved up by weeks.",
+            "4. Faster ramp, tighter margins\n\nMore vehicles built means more cash burn unless parts and logistics stabilize soon.",
+            "5. Check your delivery window today\n\nLog into your Rivian account and see if your estimated date has shrunk this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rivian raised production targets for this quarter.",
+            "But supply chain problems still loom large.",
+            "Faster output could hurt profit margins more.",
+            "Your truck or SUV might arrive earlier.",
+            "Check your delivery date now for good news."
+          ]
+        },
+        "instagram": {
+          "caption": "Rivian is shipping R1T and R1S trucks faster than expected—your delivery window might have just shrunk by weeks. 🔍\n\nQ2 production is ramping ahead of internal targets, beating Rivian's own forecasts. But supply chain snags still threaten the pace.\n\nMore vehicles built faster means your wait could end sooner, but Rivian is still burning cash on each one. 📦\n\nCheck your Rivian account: Has your estimated delivery date changed this week? ⏳"
+        }
+      },
+      "instagram_caption": "Rivian is shipping R1T and R1S trucks faster than expected—your delivery window might have just shrunk by weeks. 🔍\n\nQ2 production is ramping ahead of internal targets, beating Rivian's own forecasts. But supply chain snags still threaten the pace.\n\nMore vehicles built faster means your wait could end sooner, but Rivian is still burning cash on each one. 📦\n\nCheck your Rivian account: Has your estimated delivery date changed this week? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Can Rivian finally profit?",
+          "description": "Q2 production beats targets, but costs still outpace revenue, squeezing margins.",
+          "visual_hint": "Production graph trending up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory production line"
+        },
+        {
+          "hook": "Supply chains could break the run",
+          "description": "Component shortages stay unpredictable, threatening to slash the new production pace.",
+          "visual_hint": "Broken gear or chain",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "container ship port",
+          "image": "https://images.pexels.com/photos/27402391/pexels-photo-27402391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your R1T may ship earlier",
+          "description": "Delivery estimates are tightening; some orders just moved up by weeks.",
+          "visual_hint": "Calendar with moved date",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Rivian R1T truck",
+          "image": "https://images.pexels.com/photos/31239241/pexels-photo-31239241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Faster ramp, tighter margins",
+          "description": "More vehicles built means more cash burn unless parts and logistics stabilize soon.",
+          "visual_hint": "Dollar signs decreasing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot arm car",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your delivery window today",
+          "description": "Log into your Rivian account and see if your estimated date has shrunk this week.",
+          "visual_hint": "Smartphone with Rivian app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Rivian smartphone app",
+          "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900",
+      "savedAt": "2026-07-02T17:55:44.615Z",
+      "sourceId": "4a60561ca8dccba29bd74316fe45f15f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-launches-its-own-ai-deployment-company-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "slides": [
+        "Microsoft just committed $2.5 billion—to what end?",
+        "It launches a dedicated AI deployment company.",
+        "The twist: it targets slow enterprise adoption.",
+        "This means faster AI integration for your business.",
+        "Your move: assess your deployment readiness now."
+      ],
+      "thread_text": [
+        "1. A quiet $2.5B bet\n\nMicrosoft just transferred that sum into a new unit, not a product launch.",
+        "2. It's a company, not a feature\n\nThe subsidiary will build custom AI factories for single clients only.",
+        "3. Why the rush?\n\nEnterprise buyers are placing bets but not deploying them at scale.",
+        "4. Pressure shifts to you\n\nVendors will no longer wait for your readiness—they will build around you.",
+        "5. Test your weakest process\n\nFeed it to ChatGPT-4 with deployment constraints. Does the output hold? Try today."
+      ],
+      "video_script": [
+        "Microsoft spent $2.5 billion on what?",
+        "A new company just for AI deployment.",
+        "Enterprises are slow—so they speed up.",
+        "They will build AI around your business.",
+        "Test your weakest process with AI now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A quiet $2.5B bet\n\nMicrosoft just transferred that sum into a new unit, not a product launch.",
+            "2. It's a company, not a feature\n\nThe subsidiary will build custom AI factories for single clients only.",
+            "3. Why the rush?\n\nEnterprise buyers are placing bets but not deploying them at scale.",
+            "4. Pressure shifts to you\n\nVendors will no longer wait for your readiness—they will build around you.",
+            "5. Test your weakest process\n\nFeed it to ChatGPT-4 with deployment constraints. Does the output hold? Try today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft spent $2.5 billion on what?",
+            "A new company just for AI deployment.",
+            "Enterprises are slow—so they speed up.",
+            "They will build AI around your business.",
+            "Test your weakest process with AI now."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft is pouring $2.5 billion into a new subsidiary that builds custom AI factories for single clients.\n\nThis isn't a product launch. It's a company designed to bypass slow enterprise adoption by building infrastructure tailored to one client at a time. 💼\n\nIf you’re creating or publishing content, your company’s readiness is no longer optional—vendors will build around your delays. 🚀\n\nWhat's the weakest step in your current workflow? Give it a specific constraint and see if your tools still hold up. 🧪"
+        }
+      },
+      "instagram_caption": "Microsoft is pouring $2.5 billion into a new subsidiary that builds custom AI factories for single clients.\n\nThis isn't a product launch. It's a company designed to bypass slow enterprise adoption by building infrastructure tailored to one client at a time. 💼\n\nIf you’re creating or publishing content, your company’s readiness is no longer optional—vendors will build around your delays. 🚀\n\nWhat's the weakest step in your current workflow? Give it a specific constraint and see if your tools still hold up. 🧪",
+      "carousel_slides": [
+        {
+          "hook": "Is your business ready for the AI shift?",
+          "description": "Microsoft bets $2.5B on a new company because enterprises aren't deploying AI at scale yet.",
+          "visual_hint": "Bill Gates silhouette thinking",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Bill Gates portrait"
+        },
+        {
+          "hook": "A company, not a product.",
+          "description": "Microsoft's subsidiary builds custom AI factories for single clients only—no off-the-shelf solution.",
+          "visual_hint": "Factory with AI robots",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot assembly",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why the rush?",
+          "description": "Enterprise buyers place bets but don't deploy at scale. Microsoft is forcing readiness now.",
+          "visual_hint": "Hand hovering over server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pressure shifts to you.",
+          "description": "Vendors will build around you if you're not ready. No more waiting for your timeline.",
+          "visual_hint": "Hand pressed against glass",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pressing glass",
+          "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your weakest process today.",
+          "description": "Feed it to ChatGPT-4 with deployment constraints. See if the output holds. Try now.",
+          "visual_hint": "Person testing on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard typing",
+          "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6517342/pexels-photo-6517342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-02T17:55:32.850Z",
+      "sourceId": "86d262543960e8925c54a41e313bb2a7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "us-government-says-it-got-hacked-again",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "US government says it got hacked — again",
+      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+      "pubDate": "Thu, 02 Jul 2026 14:22:36 +0000",
+      "slides": [
+        "Who hacked the US government this time?",
+        "A breach hit the Treasury Department's systems.",
+        "But officials say no evidence of data theft yet.",
+        "Your agency may need to recheck all third-party access.",
+        "Audit your vendor connections before the next attack."
+      ],
+      "thread_text": [
+        "Who got inside Treasury?\n\nA breach hit the Treasury Department's systems from an unknown source.",
+        "No data stolen yet?\n\nOfficials still can't confirm what the hackers accessed or for how long.",
+        "Third-party risk exposed.\n\nEvery contractor connection becomes a potential backdoor if left unchecked.",
+        "Your agency is next.\n\nRecheck all vendor access now — before auditors force you to.",
+        "Audit your vendors today.\n\nDo you know which third parties still have keys to your systems? List them this week."
+      ],
+      "video_script": [
+        "A breach hit Treasury systems.",
+        "No stolen data found yet.",
+        "Check all third-party connections.",
+        "Your vendors could be a backdoor.",
+        "Audit them before the next attack."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Who got inside Treasury?\n\nA breach hit the Treasury Department's systems from an unknown source.",
+            "No data stolen yet?\n\nOfficials still can't confirm what the hackers accessed or for how long.",
+            "Third-party risk exposed.\n\nEvery contractor connection becomes a potential backdoor if left unchecked.",
+            "Your agency is next.\n\nRecheck all vendor access now — before auditors force you to.",
+            "Audit your vendors today.\n\nDo you know which third parties still have keys to your systems? List them this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A breach hit Treasury systems.",
+            "No stolen data found yet.",
+            "Check all third-party connections.",
+            "Your vendors could be a backdoor.",
+            "Audit them before the next attack."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone got inside the US Treasury Department’s systems again.\n\nNo one knows who the hackers are. Officials still can’t say if any data was stolen or how long the attackers were inside.\n\nEvery contractor tool with access is a potential backdoor—and yours might be next.\n\nYou need to audit every vendor connection you use for publishing or monitoring today.\n\nDo you have a current list of every third party that still holds a key to your systems? 🔑⚠️📉🔍"
+        }
+      },
+      "instagram_caption": "Someone got inside the US Treasury Department’s systems again.\n\nNo one knows who the hackers are. Officials still can’t say if any data was stolen or how long the attackers were inside.\n\nEvery contractor tool with access is a potential backdoor—and yours might be next.\n\nYou need to audit every vendor connection you use for publishing or monitoring today.\n\nDo you have a current list of every third party that still holds a key to your systems? 🔑⚠️📉🔍",
+      "carousel_slides": [
+        {
+          "hook": "No data stolen yet?",
+          "description": "Treasury breach from unknown source — officials still can't confirm what was accessed or for how long.",
+          "visual_hint": "American flag on dark screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "treasury building washington"
+        },
+        {
+          "hook": "Third party backdoor risk",
+          "description": "Every contractor connection becomes a potential backdoor if left unchecked — recheck all vendor access now.",
+          "visual_hint": "Hacker silhouette on laptop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your agency could be next",
+          "description": "Unknown hackers targeted Treasury systems — audit every third-party link before auditors force you to.",
+          "visual_hint": "Cybersecurity dashboard alert",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who still has your keys?",
+          "description": "List every third party with system access this week — before the next breach hits your network.",
+          "visual_hint": "Lock and key on keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers desks",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this checklist now",
+          "description": "Audit your vendor connections today — write down all third-party access and remove unused credentials.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels roof",
+          "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
+      "savedAt": "2026-07-02T17:55:20.739Z",
+      "sourceId": "8748acd54281a285f532cf1d0a13af38"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "boeing-owned-wisk-aero-accused-of-firing-manager-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+      "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+      "pubDate": "Thu, 02 Jul 2026 17:30:04 +0000",
+      "slides": [
+        "Wisk fired a manager — was it for raising safety alarms?",
+        "The manager flagged risks in autonomous flight testing.",
+        "Wisk claims poor performance, not whistleblowing, was cause.",
+        "You can now question whether your firm silences safety voicers.",
+        "Audit your reporting channels; silence costs more than complaints."
+      ],
+      "thread_text": [
+        "1. Fired for speaking up?\n\nWisk let go a manager after he flagged autonomous flight testing risks. Now he's suing.",
+        "2. What the manager saw\n\nHe identified safety gaps in how AI handled real-time flight decisions. Wisk's drones fly near people.",
+        "3. Wisk's defense\n\nThe company claims poor performance, not whistleblowing. The timing says otherwise.",
+        "4. Your turn to check\n\nDoes your firm have a channel that actually protects safety voicers? Or does it silence them?",
+        "5. Audit today\n\nPull your internal incident reports from the last 6 months. Count how many led to changes—not just acknowledgments."
+      ],
+      "video_script": [
+        "A manager flagged AI flight risks.",
+        "Then Wisk fired him.",
+        "They call it poor performance.",
+        "Could your firm do the same?",
+        "Audit your reporting channels now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Fired for speaking up?\n\nWisk let go a manager after he flagged autonomous flight testing risks. Now he's suing.",
+            "2. What the manager saw\n\nHe identified safety gaps in how AI handled real-time flight decisions. Wisk's drones fly near people.",
+            "3. Wisk's defense\n\nThe company claims poor performance, not whistleblowing. The timing says otherwise.",
+            "4. Your turn to check\n\nDoes your firm have a channel that actually protects safety voicers? Or does it silence them?",
+            "5. Audit today\n\nPull your internal incident reports from the last 6 months. Count how many led to changes—not just acknowledgments."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A manager flagged AI flight risks.",
+            "Then Wisk fired him.",
+            "They call it poor performance.",
+            "Could your firm do the same?",
+            "Audit your reporting channels now."
+          ]
+        },
+        "instagram": {
+          "caption": "A manager flagged risks in autonomous flight testing—where AI makes real-time decisions near people—and was fired.\n\nWisk, owned by Boeing, says it was for poor performance. The timing of the termination suggests otherwise. 🛩️\n\nIf your tools or content involve AI decisions affecting safety, the people who report problems need protection, not punishment. 🔍\n\nDoes your company have a reporting channel that actually leads to change—or just silence?"
+        }
+      },
+      "instagram_caption": "A manager flagged risks in autonomous flight testing—where AI makes real-time decisions near people—and was fired.\n\nWisk, owned by Boeing, says it was for poor performance. The timing of the termination suggests otherwise. 🛩️\n\nIf your tools or content involve AI decisions affecting safety, the people who report problems need protection, not punishment. 🔍\n\nDoes your company have a reporting channel that actually leads to change—or just silence?",
+      "carousel_slides": [
+        {
+          "hook": "Fired for flagging safety risks?",
+          "description": "Wisk Aero fired a manager after he warned about risks in autonomous flight tests near people.",
+          "visual_hint": "Fired document on desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "airplane factory"
+        },
+        {
+          "hook": "AI flight flaws ignored?",
+          "description": "He identified gaps in AI real-time decisions during drone flights with no pilot onboard.",
+          "visual_hint": "Drone flying over city",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "autonomous drone",
+          "image": "https://images.pexels.com/photos/18966321/pexels-photo-18966321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wisk says poor performance.",
+          "description": "Company claims firing was performance-based, but timing of safety report contradicts that.",
+          "visual_hint": "Courtroom gavel",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "courtroom documents",
+          "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Does your firm silence voicers?",
+          "description": "If whistleblowers are fired, safety failures stay hidden—until disaster strikes.",
+          "visual_hint": "Hand holding phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office silence",
+          "image": "https://images.pexels.com/photos/7256302/pexels-photo-7256302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this safety audit checklist.",
+          "description": "Review your last 6 months of incident reports. Count how many led to real changes.",
+          "visual_hint": "Checklist clipboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Wisk_Aero_Media_Kit_Gen6_4.jpg?resize=1200,675",
+      "savedAt": "2026-07-02T17:55:09.078Z",
+      "sourceId": "4d59738c612c92a7b1329b7713de1470"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-floats-giving-trump-administration-5-percen",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-says-it-got-hacked-again",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US government says it got hacked — again",
+  "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+  "pubDate": "Thu, 02 Jul 2026 14:22:36 +0000",
+  "slides": [
+    "Who hacked the US government this time?",
+    "A breach hit the Treasury Department's systems.",
+    "But officials say no evidence of data theft yet.",
+    "Your agency may need to recheck all third-party access.",
+    "Audit your vendor connections before the next attack."
+  ],
+  "thread_text": [
+    "Who got inside Treasury?\n\nA breach hit the Treasury Department's systems from an unknown source.",
+    "No data stolen yet?\n\nOfficials still can't confirm what the hackers accessed or for how long.",
+    "Third-party risk exposed.\n\nEvery contractor connection becomes a potential backdoor if left unchecked.",
+    "Your agency is next.\n\nRecheck all vendor access now — before auditors force you to.",
+    "Audit your vendors today.\n\nDo you know which third parties still have keys to your systems? List them this week."
+  ],
+  "video_script": [
+    "A breach hit Treasury systems.",
+    "No stolen data found yet.",
+    "Check all third-party connections.",
+    "Your vendors could be a backdoor.",
+    "Audit them before the next attack."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who got inside Treasury?\n\nA breach hit the Treasury Department's systems from an unknown source.",
+        "No data stolen yet?\n\nOfficials still can't confirm what the hackers accessed or for how long.",
+        "Third-party risk exposed.\n\nEvery contractor connection becomes a potential backdoor if left unchecked.",
+        "Your agency is next.\n\nRecheck all vendor access now — before auditors force you to.",
+        "Audit your vendors today.\n\nDo you know which third parties still have keys to your systems? List them this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A breach hit Treasury systems.",
+        "No stolen data found yet.",
+        "Check all third-party connections.",
+        "Your vendors could be a backdoor.",
+        "Audit them before the next attack."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone got inside the US Treasury Department’s systems again.\n\nNo one knows who the hackers are. Officials still can’t say if any data was stolen or how long the attackers were inside.\n\nEvery contractor tool with access is a potential backdoor—and yours might be next.\n\nYou need to audit every vendor connection you use for publishing or monitoring today.\n\nDo you have a current list of every third party that still holds a key to your systems? 🔑⚠️📉🔍"
+    }
+  },
+  "instagram_caption": "Someone got inside the US Treasury Department’s systems again.\n\nNo one knows who the hackers are. Officials still can’t say if any data was stolen or how long the attackers were inside.\n\nEvery contractor tool with access is a potential backdoor—and yours might be next.\n\nYou need to audit every vendor connection you use for publishing or monitoring today.\n\nDo you have a current list of every third party that still holds a key to your systems? 🔑⚠️📉🔍",
+  "carousel_slides": [
+    {
+      "hook": "No data stolen yet?",
+      "description": "Treasury breach from unknown source — officials still can't confirm what was accessed or for how long.",
+      "visual_hint": "American flag on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "treasury building washington"
+    },
+    {
+      "hook": "Third party backdoor risk",
+      "description": "Every contractor connection becomes a potential backdoor if left unchecked — recheck all vendor access now.",
+      "visual_hint": "Hacker silhouette on laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your agency could be next",
+      "description": "Unknown hackers targeted Treasury systems — audit every third-party link before auditors force you to.",
+      "visual_hint": "Cybersecurity dashboard alert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who still has your keys?",
+      "description": "List every third party with system access this week — before the next breach hits your network.",
+      "visual_hint": "Lock and key on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desks",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist now",
+      "description": "Audit your vendor connections today — write down all third-party access and remove unused credentials.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels roof",
+      "image": "https://images.pexels.com/photos/13223714/pexels-photo-13223714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
+  "savedAt": "2026-07-02T17:55:20.739Z",
+  "sourceId": "8748acd54281a285f532cf1d0a13af38"
+}

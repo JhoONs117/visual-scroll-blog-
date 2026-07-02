@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-launches-its-own-ai-deployment-company-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+  "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+  "pubDate": "Thu, 02 Jul 2026 13:53:00 +0000",
+  "slides": [
+    "Microsoft just committed $2.5 billion—to what end?",
+    "It launches a dedicated AI deployment company.",
+    "The twist: it targets slow enterprise adoption.",
+    "This means faster AI integration for your business.",
+    "Your move: assess your deployment readiness now."
+  ],
+  "thread_text": [
+    "1. A quiet $2.5B bet\n\nMicrosoft just transferred that sum into a new unit, not a product launch.",
+    "2. It's a company, not a feature\n\nThe subsidiary will build custom AI factories for single clients only.",
+    "3. Why the rush?\n\nEnterprise buyers are placing bets but not deploying them at scale.",
+    "4. Pressure shifts to you\n\nVendors will no longer wait for your readiness—they will build around you.",
+    "5. Test your weakest process\n\nFeed it to ChatGPT-4 with deployment constraints. Does the output hold? Try today."
+  ],
+  "video_script": [
+    "Microsoft spent $2.5 billion on what?",
+    "A new company just for AI deployment.",
+    "Enterprises are slow—so they speed up.",
+    "They will build AI around your business.",
+    "Test your weakest process with AI now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A quiet $2.5B bet\n\nMicrosoft just transferred that sum into a new unit, not a product launch.",
+        "2. It's a company, not a feature\n\nThe subsidiary will build custom AI factories for single clients only.",
+        "3. Why the rush?\n\nEnterprise buyers are placing bets but not deploying them at scale.",
+        "4. Pressure shifts to you\n\nVendors will no longer wait for your readiness—they will build around you.",
+        "5. Test your weakest process\n\nFeed it to ChatGPT-4 with deployment constraints. Does the output hold? Try today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft spent $2.5 billion on what?",
+        "A new company just for AI deployment.",
+        "Enterprises are slow—so they speed up.",
+        "They will build AI around your business.",
+        "Test your weakest process with AI now."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft is pouring $2.5 billion into a new subsidiary that builds custom AI factories for single clients.\n\nThis isn't a product launch. It's a company designed to bypass slow enterprise adoption by building infrastructure tailored to one client at a time. 💼\n\nIf you’re creating or publishing content, your company’s readiness is no longer optional—vendors will build around your delays. 🚀\n\nWhat's the weakest step in your current workflow? Give it a specific constraint and see if your tools still hold up. 🧪"
+    }
+  },
+  "instagram_caption": "Microsoft is pouring $2.5 billion into a new subsidiary that builds custom AI factories for single clients.\n\nThis isn't a product launch. It's a company designed to bypass slow enterprise adoption by building infrastructure tailored to one client at a time. 💼\n\nIf you’re creating or publishing content, your company’s readiness is no longer optional—vendors will build around your delays. 🚀\n\nWhat's the weakest step in your current workflow? Give it a specific constraint and see if your tools still hold up. 🧪",
+  "carousel_slides": [
+    {
+      "hook": "Is your business ready for the AI shift?",
+      "description": "Microsoft bets $2.5B on a new company because enterprises aren't deploying AI at scale yet.",
+      "visual_hint": "Bill Gates silhouette thinking",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Bill Gates portrait"
+    },
+    {
+      "hook": "A company, not a product.",
+      "description": "Microsoft's subsidiary builds custom AI factories for single clients only—no off-the-shelf solution.",
+      "visual_hint": "Factory with AI robots",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot assembly",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why the rush?",
+      "description": "Enterprise buyers place bets but don't deploy at scale. Microsoft is forcing readiness now.",
+      "visual_hint": "Hand hovering over server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pressure shifts to you.",
+      "description": "Vendors will build around you if you're not ready. No more waiting for your timeline.",
+      "visual_hint": "Hand pressed against glass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pressing glass",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your weakest process today.",
+      "description": "Feed it to ChatGPT-4 with deployment constraints. See if the output holds. Try now.",
+      "visual_hint": "Person testing on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard typing",
+      "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/6517342/pexels-photo-6517342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-02T17:55:32.850Z",
+  "sourceId": "86d262543960e8925c54a41e313bb2a7"
+}
