@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-fredda-con-feta-e-pomodorini",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta fredda con feta e pomodorini",
+    "link": "https://ricette.giallozafferano.it/Pasta-fredda-con-feta-e-pomodorini.html",
+    "pubDate": "Thu, 02 Jul 2026 14:50:00 +0200",
+    "content": "Pasta fredda con feta e pomodorini: cremosa, facile e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta fredda con feta e pomodorini /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 15 min Cottura: 10 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta fredda con feta e pomodorini è un primo piatto estivo fresco, colorato e ricco di gusto! La scelta ideale per un pranzo leggero a casa o in ufficio, al mare o a un picnic. In questa ricetta i pomodorini vengono utilizzati in due consistenze: una parte viene frullata a crudo per creare una crema che avvolge la pasta, mentre gli altri vengono semplicemente tagliati a spicchi, regalando freschezza e vivacità al piatto. La nota sapida della feta sbriciolata e delle olive taggiasche dà al sapore una marcia in più, mentre il basilico completa il condimento con il suo profumo mediterraneo. Facilissima da preparare anche in anticipo, questa pasta fredda con feta e pomodorini è la soluzione che cercavate per le giornate più calde! Scoprite altre sfiziose insalate di pasta con la feta : Pasta fredda melanzane e feta Pasta fredda alle zucchine Insalata di pastina senza glutine Insalata di pasta con le pesche INGREDIENTI Pennoni rigati 320 g Pomodorini ciliegino gialli e rossi 300 g Pomodorini datterini 300 g Feta 200 g Olive taggiasche 100 g Basilico q.b. Olio extravergine d'oliva q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta fredda con feta e pomodorini Per preparare la pasta fredda con feta e pomodorini, per prima cosa cuocete la pasta in acqua bollente salata 1 . Nel frattempo mettete i datterini in un mixer 2 e salate 3 . Aggiungete anche l’olio 4 e frullate fino ad ottenere una purea liscia e omogenea 5 , poi versatela in una ciotola capiente 6 . Scolate la pasta al dente e trasferitela nella ciotola 7 , mescolate bene 8 e lasciate raffreddare per qualche minuto. Intanto tagliate i pomodorini rossi e gialli in 4 parti 9 . Aggiungete i pomodorini freschi nella ciotola 10 , poi unite le olive taggiasche 11 e la feta sbriciolata con le mani 12 . Amalgamate delicatamente il tutto 13 , poi impiattate e completate con qualche fogliolina di basilico 14 . La vostra pasta fredda con feta e pomodorini è pronta per essere servita 15 ! Conservazione La pasta fredda con feta e pomodorini si può conservare in frigorifero per un giorno al massimo. Consiglio Potete aromatizzare la pasta fredda con feta e pomodorini anche con qualche fogliolina di menta. Aggiungete della frutta secca come mandorle o pinoli per una nota croccante. Se vi è piaciuto questo abbinamento, non perdetevi anche la ricetta della pasta con feta e pomodorini al forno ! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Feta Olive in salamoia Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti freddi , Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta fredda con feta e pomodorini Cheesecake alle albicocche senza lattosio 5.0 Gazpacho con salsa di pomodoro 5.0 SCOPRI Pasta con pomodorini Pasta fredda con zucchine Pasta fredda con pesto Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta fredda cremosa con feta e pomodorini.",
+      "Pennoni, feta, pomodorini, olive taggiasche.",
+      "Frulla pomodorini datterini con olio e sale.",
+      "Mescola pasta cotta con purea di pomodorini.",
+      "Sbriciola feta, aggiungi olive e basilico."
+    ],
+    "instagram_caption": "Il risultato è una pasta fredda che sa d'estate: cremosa, freschissima e pronta in un attimo. Pennoni al dente avvolti da una purea di pomodorini datterini frullati con olio e sale, poi feta sbriciolata, olive taggiasche e basilico. Ogni forchettata è un equilibrio tra sapidità e dolcezza. Niente cotture lunghe, niente fornelli accesi: perfetta per le giornate calde. Provala questo weekend 🌿🍅",
+    "formats": {
+      "instagram": {
+        "caption": "Il risultato è una pasta fredda che sa d'estate: cremosa, freschissima e pronta in un attimo. Pennoni al dente avvolti da una purea di pomodorini datterini frullati con olio e sale, poi feta sbriciolata, olive taggiasche e basilico. Ogni forchettata è un equilibrio tra sapidità e dolcezza. Niente cotture lunghe, niente fornelli accesi: perfetta per le giornate calde. Provala questo weekend 🌿🍅"
+      },
+      "tiktok": {
+        "script": [
+          "Pennoni, feta, pomodorini e olive pronte.",
+          "Frullo i datterini con olio e sale.",
+          "Mescolo la pasta con la purea.",
+          "Sbriciolo la feta fresca sopra.",
+          "Aggiungo olive e basilico, fatto!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta fredda che ti salva l'estate: cremosa senza panna, pronta in 10 minuti. Il segreto è tutto nella feta e in una purea che non ti aspetti. 🍝",
+          "Pennoni, feta, pomodorini datterini, olive taggiasche e basilico. Pochi ingredienti, ma ognuno deve essere quello giusto. Non si scherza.",
+          "Frulla i pomodorini datterini con un giro d'olio e un pizzico di sale. Ottieni una purea fresca che veste la pasta senza appesantirla. È la base di tutto.",
+          "Cuoci i pennoni al dente, scolali e mantecali ancora caldi con la purea di pomodorini. Poi lasciali raffreddare: la magia è nell'amido che lega tutto.",
+          "Sbriciola la feta a freddo, aggiungi le olive taggiasche e il basilico fresco. Un giro d'olio crudo e hai un piatto che vola. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pennoni, feta, pomodorini e olive pronte.",
+      "Frullo i datterini con olio e sale.",
+      "Mescolo la pasta con la purea.",
+      "Sbriciolo la feta fresca sopra.",
+      "Aggiungo olive e basilico, fatto!"
+    ],
+    "thread_text": [
+      "La pasta fredda che ti salva l'estate: cremosa senza panna, pronta in 10 minuti. Il segreto è tutto nella feta e in una purea che non ti aspetti. 🍝",
+      "Pennoni, feta, pomodorini datterini, olive taggiasche e basilico. Pochi ingredienti, ma ognuno deve essere quello giusto. Non si scherza.",
+      "Frulla i pomodorini datterini con un giro d'olio e un pizzico di sale. Ottieni una purea fresca che veste la pasta senza appesantirla. È la base di tutto.",
+      "Cuoci i pennoni al dente, scolali e mantecali ancora caldi con la purea di pomodorini. Poi lasciali raffreddare: la magia è nell'amido che lega tutto.",
+      "Sbriciola la feta a freddo, aggiungi le olive taggiasche e il basilico fresco. Un giro d'olio crudo e hai un piatto che vola. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta fredda cremosa in 10 minuti",
+        "description": "Un primo fresco e saporito, perfetto per l'estate: cremoso senza panna, pronto in un attimo.",
+        "visual_hint": "Ciotola con pasta, feta e basilico",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory cold pasta feta"
+      },
+      {
+        "hook": "Pennoni, feta, pomodorini, olive",
+        "description": "Solo 4 ingredienti base per un piatto ricco di gusto: pasta, feta, pomodorini e olive taggiasche.",
+        "visual_hint": "Ingredienti allineati su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients feta",
+        "image": "https://images.pexels.com/photos/1373915/pexels-photo-1373915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frulla pomodorini con olio e sale",
+        "description": "Crea una crema vellutata frullando pomodorini datterini con un filo d'olio e un pizzico di sale.",
+        "visual_hint": "Mani che frullano in un mixer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory blending tomatoes blender",
+        "image": "https://images.pexels.com/photos/8357682/pexels-photo-8357682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola pasta cotta con purea",
+        "description": "Condisci la pasta ancora tiepida con la purea di pomodorini per un sapore uniforme.",
+        "visual_hint": "Pasta che si mescola in una ciotola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory mixing pasta bowl",
+        "image": "https://images.pexels.com/photos/9475290/pexels-photo-9475290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sbriciola feta, aggiungi olive e basilico",
+        "description": "Completa con feta sbriciolata, olive taggiasche e basilico fresco. Servi freddo o a temperatura ambiente.",
+        "visual_hint": "Pasta impiattata con feta e basilico",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory feta pasta plate",
+        "image": "https://images.pexels.com/photos/11957660/pexels-photo-11957660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "feta",
+      "pomodorini",
+      "olive taggiasche"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36398/Pasta-fredda-con-feta-e-pomodorini_650x433_wm.jpg",
+    "savedAt": "2026-07-02T13:44:47.848Z",
+    "sourceId": "8eebe26e9eb0131f555e54eab5bde693"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-e-patate-con-provola",
     "prompt_version": "1.0.0",
     "status": "published",
