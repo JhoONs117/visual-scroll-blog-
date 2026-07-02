@@ -2,6 +2,208 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-floats-giving-trump-administration-5-percen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "pubDate": "2026-07-02T10:23:27.000Z",
+    "slides": [
+      "OpenAI offered Trump 5%—but why now?",
+      "The proposal ties policy favors to profit",
+      "Such a deal would reshape federal AI rules",
+      "Companies must decide if political ties matter",
+      "Watch whose hands your future revenue lands in"
+    ],
+    "thread_text": [
+      "1. Why 5% now?\n\nOpenAI approached Trump with a stake offer while federal AI rules are still unwritten.",
+      "2. Profit for policy favors\n\nThe deal ties revenue share directly to regulatory changes favorable to the company.",
+      "3. Reshaping federal AI rules\n\nA single corporate deal could set the default for how all AI firms are regulated.",
+      "4. Political ties matter now\n\nEvery AI company must decide if lobbying or partnering with the administration is worth it.",
+      "5. Whose hands get your revenue?\n\nCheck your AI provider's lobbying disclosures this week. If you haven't, start there."
+    ],
+    "video_script": [
+      "OpenAI offered Trump a 5% stake.",
+      "It ties profit to policy favors.",
+      "This deal could rewrite federal AI rules.",
+      "Companies must choose their political alliances.",
+      "Watch whose hands get your future revenue."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why 5% now?\n\nOpenAI approached Trump with a stake offer while federal AI rules are still unwritten.",
+          "2. Profit for policy favors\n\nThe deal ties revenue share directly to regulatory changes favorable to the company.",
+          "3. Reshaping federal AI rules\n\nA single corporate deal could set the default for how all AI firms are regulated.",
+          "4. Political ties matter now\n\nEvery AI company must decide if lobbying or partnering with the administration is worth it.",
+          "5. Whose hands get your revenue?\n\nCheck your AI provider's lobbying disclosures this week. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI offered Trump a 5% stake.",
+          "It ties profit to policy favors.",
+          "This deal could rewrite federal AI rules.",
+          "Companies must choose their political alliances.",
+          "Watch whose hands get your future revenue."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI offered the Trump administration a 5% stake in the company, tying revenue cuts to favorable policy changes before federal AI rules are set.\n\nThis deal would let a single corporate partner dictate how every AI firm gets regulated. Profit for policy favors is the core swap.\n\nFor anyone creating content, your tools’ future costs and how your work is governed could be locked in by a backroom deal—not public debate.\n\n🔍 Check your AI provider's lobbying disclosures today. Whose hands are actually on your revenue stream?"
+      }
+    },
+    "instagram_caption": "OpenAI offered the Trump administration a 5% stake in the company, tying revenue cuts to favorable policy changes before federal AI rules are set.\n\nThis deal would let a single corporate partner dictate how every AI firm gets regulated. Profit for policy favors is the core swap.\n\nFor anyone creating content, your tools’ future costs and how your work is governed could be locked in by a backroom deal—not public debate.\n\n🔍 Check your AI provider's lobbying disclosures today. Whose hands are actually on your revenue stream?",
+    "carousel_slides": [
+      {
+        "hook": "A 5% stake in AI regulation?",
+        "description": "OpenAI offered Trump a revenue share while federal AI rules remain unwritten, tying policy favors to profit.",
+        "visual_hint": "OpenAI logo with 5%",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "OpenAI headquarters"
+      },
+      {
+        "hook": "Profit for policy favors.",
+        "description": "The deal directly links revenue share to regulatory changes favorable to the company, reshaping federal AI rules.",
+        "visual_hint": "Money and gavel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One deal could set the default.",
+        "description": "A single corporate agreement may determine how all AI firms are regulated, reshaping the industry's future.",
+        "visual_hint": "AI decision flowchart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Political ties matter now.",
+        "description": "Every AI company must decide if lobbying or partnering with the administration is worth the cost.",
+        "visual_hint": "Handshake in office",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your AI provider's ties.",
+        "description": "Look up your AI provider's lobbying disclosures this week to see whose hands your revenue lands in.",
+        "visual_hint": "Lobbying disclosure form",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "government building"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-02T10:30:45.550Z",
+    "sourceId": "3afaca491ac0206acc39c27e6dc1eb27"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cloudflare-s-new-policy-pushes-ai-companies-to-pay",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "pubDate": "Wed, 01 Jul 2026 17:48:37 +0000",
+    "slides": [
+      "Cloudflare just flipped the table on AI companies.",
+      "Its new policy blocks crawlers unless publishers are paid.",
+      "Even Google and OpenAI now face paywalls for scraping.",
+      "Your content becomes a licensed asset, not free data.",
+      "Audit your site's crawler rules before next month."
+    ],
+    "thread_text": [
+      "1. They flipped the table\n\nCloudflare just blocked all AI crawlers unless publishers get paid. Google and OpenAI are now behind a paywall.",
+      "2. What changed overnight\n\nYour blog posts are now licensed assets. The era of free data for AI training just ended.",
+      "3. The real target\n\nThis isn't about small sites. It's a direct hit on Google's knowledge graph and OpenAI's training pipeline.",
+      "4. Who benefits most\n\nPublishers with high-traffic archives just gained leverage. Small creators might get squeezed in negotiations.",
+      "5. Check your robots.txt\n\nOpen your site's crawler rules today. If you haven't set payment terms, do it before next month."
+    ],
+    "video_script": [
+      "Cloudflare just blocked AI crawlers unless paid.",
+      "Google and OpenAI now face paywalls for scraping.",
+      "Your content becomes a licensed asset now.",
+      "Audit your site's crawler rules immediately.",
+      "This shifts power to publishers with archives."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They flipped the table\n\nCloudflare just blocked all AI crawlers unless publishers get paid. Google and OpenAI are now behind a paywall.",
+          "2. What changed overnight\n\nYour blog posts are now licensed assets. The era of free data for AI training just ended.",
+          "3. The real target\n\nThis isn't about small sites. It's a direct hit on Google's knowledge graph and OpenAI's training pipeline.",
+          "4. Who benefits most\n\nPublishers with high-traffic archives just gained leverage. Small creators might get squeezed in negotiations.",
+          "5. Check your robots.txt\n\nOpen your site's crawler rules today. If you haven't set payment terms, do it before next month."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cloudflare just blocked AI crawlers unless paid.",
+          "Google and OpenAI now face paywalls for scraping.",
+          "Your content becomes a licensed asset now.",
+          "Audit your site's crawler rules immediately.",
+          "This shifts power to publishers with archives."
+        ]
+      },
+      "instagram": {
+        "caption": "Cloudflare just blocked all AI crawlers unless publishers get paid — Google and OpenAI are now behind a paywall for scraping your content. ⚡\n\nYour blog posts just became licensed assets. The era of free data for AI training ended overnight.\n\nPublishers with high-traffic archives just gained leverage — but small creators might get squeezed in negotiations.\n\nOpen your site's robots.txt today. If you haven't set payment terms, do it before next month. 🔍"
+      }
+    },
+    "instagram_caption": "Cloudflare just blocked all AI crawlers unless publishers get paid — Google and OpenAI are now behind a paywall for scraping your content. ⚡\n\nYour blog posts just became licensed assets. The era of free data for AI training ended overnight.\n\nPublishers with high-traffic archives just gained leverage — but small creators might get squeezed in negotiations.\n\nOpen your site's robots.txt today. If you haven't set payment terms, do it before next month. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your content just became a paid asset.",
+        "description": "Cloudflare blocked all AI crawlers unless publishers get paid. Google and OpenAI now face a paywall.",
+        "visual_hint": "AI robot hitting a paywall",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "paywall screen"
+      },
+      {
+        "hook": "Free data era is over overnight.",
+        "description": "Your blog posts are now licensed assets. The era of free data for AI training just ended.",
+        "visual_hint": "Blog post with price tag",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "blog website"
+      },
+      {
+        "hook": "This is a direct hit on Google and OpenAI.",
+        "description": "It targets Google's knowledge graph and OpenAI's training pipeline, not small sites.",
+        "visual_hint": "Google and OpenAI logos blocked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Google logo"
+      },
+      {
+        "hook": "Publishers gain leverage, creators get squeezed.",
+        "description": "High-traffic archives benefit. Small creators might struggle in negotiations.",
+        "visual_hint": "Scale tipping with coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale"
+      },
+      {
+        "hook": "Check your robots.txt before next month.",
+        "description": "Open your site's crawler rules today. Set payment terms or block all AI bots now.",
+        "visual_hint": "File with red warning",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code editor"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+    "savedAt": "2026-07-02T10:30:15.336Z",
+    "sourceId": "af371092847a9aad96672ed0d11b29d3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "indian-tech-tycoon-bets-30m-of-his-own-money-to-bu",
     "prompt_version": "1.0.0",
     "status": "published",

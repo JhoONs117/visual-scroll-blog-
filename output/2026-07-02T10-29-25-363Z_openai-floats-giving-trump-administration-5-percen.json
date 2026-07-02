@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-floats-giving-trump-administration-5-percen",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+  "pubDate": "2026-07-02T10:23:27.000Z",
+  "slides": [
+    "OpenAI offered Trump 5%—but why now?",
+    "The proposal ties policy favors to profit",
+    "Such a deal would reshape federal AI rules",
+    "Companies must decide if political ties matter",
+    "Watch whose hands your future revenue lands in"
+  ],
+  "thread_text": [
+    "1. Why 5% now?\n\nOpenAI approached Trump with a stake offer while federal AI rules are still unwritten.",
+    "2. Profit for policy favors\n\nThe deal ties revenue share directly to regulatory changes favorable to the company.",
+    "3. Reshaping federal AI rules\n\nA single corporate deal could set the default for how all AI firms are regulated.",
+    "4. Political ties matter now\n\nEvery AI company must decide if lobbying or partnering with the administration is worth it.",
+    "5. Whose hands get your revenue?\n\nCheck your AI provider's lobbying disclosures this week. If you haven't, start there."
+  ],
+  "video_script": [
+    "OpenAI offered Trump a 5% stake.",
+    "It ties profit to policy favors.",
+    "This deal could rewrite federal AI rules.",
+    "Companies must choose their political alliances.",
+    "Watch whose hands get your future revenue."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why 5% now?\n\nOpenAI approached Trump with a stake offer while federal AI rules are still unwritten.",
+        "2. Profit for policy favors\n\nThe deal ties revenue share directly to regulatory changes favorable to the company.",
+        "3. Reshaping federal AI rules\n\nA single corporate deal could set the default for how all AI firms are regulated.",
+        "4. Political ties matter now\n\nEvery AI company must decide if lobbying or partnering with the administration is worth it.",
+        "5. Whose hands get your revenue?\n\nCheck your AI provider's lobbying disclosures this week. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI offered Trump a 5% stake.",
+        "It ties profit to policy favors.",
+        "This deal could rewrite federal AI rules.",
+        "Companies must choose their political alliances.",
+        "Watch whose hands get your future revenue."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI offered the Trump administration a 5% stake in the company, tying revenue cuts to favorable policy changes before federal AI rules are set.\n\nThis deal would let a single corporate partner dictate how every AI firm gets regulated. Profit for policy favors is the core swap.\n\nFor anyone creating content, your tools’ future costs and how your work is governed could be locked in by a backroom deal—not public debate.\n\n🔍 Check your AI provider's lobbying disclosures today. Whose hands are actually on your revenue stream?"
+    }
+  },
+  "instagram_caption": "OpenAI offered the Trump administration a 5% stake in the company, tying revenue cuts to favorable policy changes before federal AI rules are set.\n\nThis deal would let a single corporate partner dictate how every AI firm gets regulated. Profit for policy favors is the core swap.\n\nFor anyone creating content, your tools’ future costs and how your work is governed could be locked in by a backroom deal—not public debate.\n\n🔍 Check your AI provider's lobbying disclosures today. Whose hands are actually on your revenue stream?",
+  "carousel_slides": [
+    {
+      "hook": "A 5% stake in AI regulation?",
+      "description": "OpenAI offered Trump a revenue share while federal AI rules remain unwritten, tying policy favors to profit.",
+      "visual_hint": "OpenAI logo with 5%",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "OpenAI headquarters"
+    },
+    {
+      "hook": "Profit for policy favors.",
+      "description": "The deal directly links revenue share to regulatory changes favorable to the company, reshaping federal AI rules.",
+      "visual_hint": "Money and gavel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One deal could set the default.",
+      "description": "A single corporate agreement may determine how all AI firms are regulated, reshaping the industry's future.",
+      "visual_hint": "AI decision flowchart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Political ties matter now.",
+      "description": "Every AI company must decide if lobbying or partnering with the administration is worth the cost.",
+      "visual_hint": "Handshake in office",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI provider's ties.",
+      "description": "Look up your AI provider's lobbying disclosures this week to see whose hands your revenue lands in.",
+      "visual_hint": "Lobbying disclosure form",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "government building"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-02T10:30:45.550Z",
+  "sourceId": "3afaca491ac0206acc39c27e6dc1eb27"
+}

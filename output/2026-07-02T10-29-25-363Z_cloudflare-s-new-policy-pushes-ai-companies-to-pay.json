@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cloudflare-s-new-policy-pushes-ai-companies-to-pay",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+  "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+  "pubDate": "Wed, 01 Jul 2026 17:48:37 +0000",
+  "slides": [
+    "Cloudflare just flipped the table on AI companies.",
+    "Its new policy blocks crawlers unless publishers are paid.",
+    "Even Google and OpenAI now face paywalls for scraping.",
+    "Your content becomes a licensed asset, not free data.",
+    "Audit your site's crawler rules before next month."
+  ],
+  "thread_text": [
+    "1. They flipped the table\n\nCloudflare just blocked all AI crawlers unless publishers get paid. Google and OpenAI are now behind a paywall.",
+    "2. What changed overnight\n\nYour blog posts are now licensed assets. The era of free data for AI training just ended.",
+    "3. The real target\n\nThis isn't about small sites. It's a direct hit on Google's knowledge graph and OpenAI's training pipeline.",
+    "4. Who benefits most\n\nPublishers with high-traffic archives just gained leverage. Small creators might get squeezed in negotiations.",
+    "5. Check your robots.txt\n\nOpen your site's crawler rules today. If you haven't set payment terms, do it before next month."
+  ],
+  "video_script": [
+    "Cloudflare just blocked AI crawlers unless paid.",
+    "Google and OpenAI now face paywalls for scraping.",
+    "Your content becomes a licensed asset now.",
+    "Audit your site's crawler rules immediately.",
+    "This shifts power to publishers with archives."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They flipped the table\n\nCloudflare just blocked all AI crawlers unless publishers get paid. Google and OpenAI are now behind a paywall.",
+        "2. What changed overnight\n\nYour blog posts are now licensed assets. The era of free data for AI training just ended.",
+        "3. The real target\n\nThis isn't about small sites. It's a direct hit on Google's knowledge graph and OpenAI's training pipeline.",
+        "4. Who benefits most\n\nPublishers with high-traffic archives just gained leverage. Small creators might get squeezed in negotiations.",
+        "5. Check your robots.txt\n\nOpen your site's crawler rules today. If you haven't set payment terms, do it before next month."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cloudflare just blocked AI crawlers unless paid.",
+        "Google and OpenAI now face paywalls for scraping.",
+        "Your content becomes a licensed asset now.",
+        "Audit your site's crawler rules immediately.",
+        "This shifts power to publishers with archives."
+      ]
+    },
+    "instagram": {
+      "caption": "Cloudflare just blocked all AI crawlers unless publishers get paid — Google and OpenAI are now behind a paywall for scraping your content. ⚡\n\nYour blog posts just became licensed assets. The era of free data for AI training ended overnight.\n\nPublishers with high-traffic archives just gained leverage — but small creators might get squeezed in negotiations.\n\nOpen your site's robots.txt today. If you haven't set payment terms, do it before next month. 🔍"
+    }
+  },
+  "instagram_caption": "Cloudflare just blocked all AI crawlers unless publishers get paid — Google and OpenAI are now behind a paywall for scraping your content. ⚡\n\nYour blog posts just became licensed assets. The era of free data for AI training ended overnight.\n\nPublishers with high-traffic archives just gained leverage — but small creators might get squeezed in negotiations.\n\nOpen your site's robots.txt today. If you haven't set payment terms, do it before next month. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your content just became a paid asset.",
+      "description": "Cloudflare blocked all AI crawlers unless publishers get paid. Google and OpenAI now face a paywall.",
+      "visual_hint": "AI robot hitting a paywall",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "paywall screen"
+    },
+    {
+      "hook": "Free data era is over overnight.",
+      "description": "Your blog posts are now licensed assets. The era of free data for AI training just ended.",
+      "visual_hint": "Blog post with price tag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "blog website"
+    },
+    {
+      "hook": "This is a direct hit on Google and OpenAI.",
+      "description": "It targets Google's knowledge graph and OpenAI's training pipeline, not small sites.",
+      "visual_hint": "Google and OpenAI logos blocked",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Google logo"
+    },
+    {
+      "hook": "Publishers gain leverage, creators get squeezed.",
+      "description": "High-traffic archives benefit. Small creators might struggle in negotiations.",
+      "visual_hint": "Scale tipping with coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "balance scale"
+    },
+    {
+      "hook": "Check your robots.txt before next month.",
+      "description": "Open your site's crawler rules today. Set payment terms or block all AI bots now.",
+      "visual_hint": "File with red warning",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code editor"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+  "savedAt": "2026-07-02T10:30:15.336Z",
+  "sourceId": "af371092847a9aad96672ed0d11b29d3"
+}
