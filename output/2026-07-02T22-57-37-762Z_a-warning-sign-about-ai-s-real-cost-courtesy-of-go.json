@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-warning-sign-about-ai-s-real-cost-courtesy-of-go",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+  "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+  "pubDate": "Thu, 02 Jul 2026 19:14:46 +0000",
+  "slides": [
+    "Google and Amazon just revealed AI's hidden expense. What is it?",
+    "Running advanced models now costs 10 times more than expected.",
+    "But the biggest cost isn't compute—it's the data pipeline.",
+    "Your AI budget must double to cover storage and cleaning.",
+    "Audit your data flow today before your projection explodes."
+  ],
+  "thread_text": [
+    "1. AI's hidden expense exposed\n\nGoogle and Amazon now report running advanced models costs 10x more than projected.",
+    "2. Compute isn't the culprit\n\nThe biggest cost isn't chips—it's the data pipeline swallowing your budget.",
+    "3. Storage and cleaning double costs\n\nYour AI budget must double just to cover data storage and cleaning alone.",
+    "4. Pipeline costs scale without warning\n\nData flow expenses explode silently while you focus on model performance.",
+    "5. Audit your data flow today\n\nPull your last month's data pipeline costs. Does it still fit your original projection?"
+  ],
+  "video_script": [
+    "AI's hidden cost just surfaced.",
+    "Running models costs ten times more.",
+    "Data pipeline is the real budget killer.",
+    "Storage and cleaning double your spend.",
+    "Audit your data flow before it explodes."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI's hidden expense exposed\n\nGoogle and Amazon now report running advanced models costs 10x more than projected.",
+        "2. Compute isn't the culprit\n\nThe biggest cost isn't chips—it's the data pipeline swallowing your budget.",
+        "3. Storage and cleaning double costs\n\nYour AI budget must double just to cover data storage and cleaning alone.",
+        "4. Pipeline costs scale without warning\n\nData flow expenses explode silently while you focus on model performance.",
+        "5. Audit your data flow today\n\nPull your last month's data pipeline costs. Does it still fit your original projection?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI's hidden cost just surfaced.",
+        "Running models costs ten times more.",
+        "Data pipeline is the real budget killer.",
+        "Storage and cleaning double your spend.",
+        "Audit your data flow before it explodes."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI budget just got 10x more expensive, according to Google and Amazon’s latest data 📊\n\nThe hidden cost isn’t the chips—it’s the data pipeline. Storage and cleaning alone will force you to double your spend 💸\n\nThat means every model you run is silently eating into your projected margins through data flow you can’t see.\n\nPause right now: pull last month’s data pipeline costs. Does it still fit your original projection? 🔍"
+    }
+  },
+  "instagram_caption": "Your AI budget just got 10x more expensive, according to Google and Amazon’s latest data 📊\n\nThe hidden cost isn’t the chips—it’s the data pipeline. Storage and cleaning alone will force you to double your spend 💸\n\nThat means every model you run is silently eating into your projected margins through data flow you can’t see.\n\nPause right now: pull last month’s data pipeline costs. Does it still fit your original projection? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI budget is lying to you.",
+      "description": "Google and Amazon reveal running advanced models costs 10 times more than projected.",
+      "visual_hint": "money burning in flames",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Compute isn't the real villain.",
+      "description": "The biggest cost is the data pipeline, silently swallowing your budget.",
+      "visual_hint": "data pipes with money",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Storage and cleaning double costs.",
+      "description": "Your AI budget must double just to cover data storage and cleaning alone.",
+      "visual_hint": "stack of hard drives",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hard drives",
+      "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pipeline costs explode silently.",
+      "description": "Data flow expenses scale without warning while you focus on model performance.",
+      "visual_hint": "bar chart skyrocketing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this or your budget blows up.",
+      "description": "Pull last month's data pipeline costs. Audit your flow today before it explodes.",
+      "visual_hint": "clipboard and magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1136629211.jpg?resize=1200,798",
+  "savedAt": "2026-07-02T22:57:47.834Z",
+  "sourceId": "5e09c7f5462328eb24b45b318c80be51"
+}

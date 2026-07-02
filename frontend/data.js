@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-proposed-donating-5-of-its-equity-to-a-us-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "pubDate": "Thu, 02 Jul 2026 15:20:51 +0000",
+    "slides": [
+      "OpenAI offered 5% equity to a US fund—why?",
+      "This shifts future profits from Sam Altman's control.",
+      "Most tech founders would never give away ownership.",
+      "Future AI profits may now partly fund public projects.",
+      "Watch which other AI firms follow this ownership model."
+    ],
+    "thread_text": [
+      "1. Why give away equity?\n\nOpenAI sold 5% to a US fund, shifting future profits away from Sam Altman—an unusual move for any founder.",
+      "2. Founders cling to control.\n\nMost tech founders would never give up ownership like this. It signals a deliberate, not desperate, strategy.",
+      "3. Public projects funded.\n\nA portion of future AI profits could now support public projects via this equity deal—a rare twist in private AI funding.",
+      "4. Who follows next?\n\nWatch which other AI firms adopt this ownership model. It could reshape how AI profits are distributed beyond founders.",
+      "5. Simulate the impact.\n\nTake a prompt on ChatGPT and simulate what happens if 5% of future AI profits went to public projects. Does it change your view?"
+    ],
+    "video_script": [
+      "OpenAI sold 5% to a fund.",
+      "Future profits leave Altman’s control.",
+      "Founders rarely give up ownership.",
+      "AI profits may fund public projects.",
+      "Watch which firms follow this model."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why give away equity?\n\nOpenAI sold 5% to a US fund, shifting future profits away from Sam Altman—an unusual move for any founder.",
+          "2. Founders cling to control.\n\nMost tech founders would never give up ownership like this. It signals a deliberate, not desperate, strategy.",
+          "3. Public projects funded.\n\nA portion of future AI profits could now support public projects via this equity deal—a rare twist in private AI funding.",
+          "4. Who follows next?\n\nWatch which other AI firms adopt this ownership model. It could reshape how AI profits are distributed beyond founders.",
+          "5. Simulate the impact.\n\nTake a prompt on ChatGPT and simulate what happens if 5% of future AI profits went to public projects. Does it change your view?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI sold 5% to a fund.",
+          "Future profits leave Altman’s control.",
+          "Founders rarely give up ownership.",
+          "AI profits may fund public projects.",
+          "Watch which firms follow this model."
+        ]
+      },
+      "instagram": {
+        "caption": "A 5% chunk of OpenAI’s future profits is now going to a US sovereign wealth fund.\n\nThis cuts into Sam Altman’s control: founders normally hoard equity, but this forces a share of AI’s winnings toward public projects. It’s a deliberate shift, not a desperate one.\n\nFor anyone publishing content with tools like ChatGPT, a sliver of your subscription or usage fees could now indirectly fund public infrastructure 🏗️.\n\nIf a portion of every AI tool you use goes to a government fund, do you trust it to spend that money better than a tech founder would? 💰🔄"
+      }
+    },
+    "instagram_caption": "A 5% chunk of OpenAI’s future profits is now going to a US sovereign wealth fund.\n\nThis cuts into Sam Altman’s control: founders normally hoard equity, but this forces a share of AI’s winnings toward public projects. It’s a deliberate shift, not a desperate one.\n\nFor anyone publishing content with tools like ChatGPT, a sliver of your subscription or usage fees could now indirectly fund public infrastructure 🏗️.\n\nIf a portion of every AI tool you use goes to a government fund, do you trust it to spend that money better than a tech founder would? 💰🔄",
+    "carousel_slides": [
+      {
+        "hook": "Most founders would never do this",
+        "description": "OpenAI gave 5% equity to a US fund, shifting profits away from Sam Altman—an unusual move.",
+        "visual_hint": "OpenAI logo and equity chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "OpenAI headquarters"
+      },
+      {
+        "hook": "Why give away ownership?",
+        "description": "Founders cling to control. This signals a deliberate, not desperate, strategy for AI profits.",
+        "visual_hint": "Hand signing document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "contract signing table",
+        "image": "https://images.pexels.com/photos/8470836/pexels-photo-8470836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Future profits could fund public projects",
+        "description": "A portion of future AI profits may now support public projects via this equity deal.",
+        "visual_hint": "Money flowing to public buildings",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "government building",
+        "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which AI firm follows next?",
+        "description": "Watch other AI companies adopt this ownership model—it could reshape profit distribution.",
+        "visual_hint": "Silhouette of AI robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your feed",
+        "description": "ChatGPT: simulate 5% of AI profits going to public projects. Does it change your view?",
+        "visual_hint": "ChatGPT interface on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "ChatGPT app screen",
+        "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
+    "savedAt": "2026-07-02T22:58:00.079Z",
+    "sourceId": "638b856bf5e432b0b80af86a6529f99f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "a-warning-sign-about-ai-s-real-cost-courtesy-of-go",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+    "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+    "pubDate": "Thu, 02 Jul 2026 19:14:46 +0000",
+    "slides": [
+      "Google and Amazon just revealed AI's hidden expense. What is it?",
+      "Running advanced models now costs 10 times more than expected.",
+      "But the biggest cost isn't compute—it's the data pipeline.",
+      "Your AI budget must double to cover storage and cleaning.",
+      "Audit your data flow today before your projection explodes."
+    ],
+    "thread_text": [
+      "1. AI's hidden expense exposed\n\nGoogle and Amazon now report running advanced models costs 10x more than projected.",
+      "2. Compute isn't the culprit\n\nThe biggest cost isn't chips—it's the data pipeline swallowing your budget.",
+      "3. Storage and cleaning double costs\n\nYour AI budget must double just to cover data storage and cleaning alone.",
+      "4. Pipeline costs scale without warning\n\nData flow expenses explode silently while you focus on model performance.",
+      "5. Audit your data flow today\n\nPull your last month's data pipeline costs. Does it still fit your original projection?"
+    ],
+    "video_script": [
+      "AI's hidden cost just surfaced.",
+      "Running models costs ten times more.",
+      "Data pipeline is the real budget killer.",
+      "Storage and cleaning double your spend.",
+      "Audit your data flow before it explodes."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI's hidden expense exposed\n\nGoogle and Amazon now report running advanced models costs 10x more than projected.",
+          "2. Compute isn't the culprit\n\nThe biggest cost isn't chips—it's the data pipeline swallowing your budget.",
+          "3. Storage and cleaning double costs\n\nYour AI budget must double just to cover data storage and cleaning alone.",
+          "4. Pipeline costs scale without warning\n\nData flow expenses explode silently while you focus on model performance.",
+          "5. Audit your data flow today\n\nPull your last month's data pipeline costs. Does it still fit your original projection?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI's hidden cost just surfaced.",
+          "Running models costs ten times more.",
+          "Data pipeline is the real budget killer.",
+          "Storage and cleaning double your spend.",
+          "Audit your data flow before it explodes."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI budget just got 10x more expensive, according to Google and Amazon’s latest data 📊\n\nThe hidden cost isn’t the chips—it’s the data pipeline. Storage and cleaning alone will force you to double your spend 💸\n\nThat means every model you run is silently eating into your projected margins through data flow you can’t see.\n\nPause right now: pull last month’s data pipeline costs. Does it still fit your original projection? 🔍"
+      }
+    },
+    "instagram_caption": "Your AI budget just got 10x more expensive, according to Google and Amazon’s latest data 📊\n\nThe hidden cost isn’t the chips—it’s the data pipeline. Storage and cleaning alone will force you to double your spend 💸\n\nThat means every model you run is silently eating into your projected margins through data flow you can’t see.\n\nPause right now: pull last month’s data pipeline costs. Does it still fit your original projection? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI budget is lying to you.",
+        "description": "Google and Amazon reveal running advanced models costs 10 times more than projected.",
+        "visual_hint": "money burning in flames",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Compute isn't the real villain.",
+        "description": "The biggest cost is the data pipeline, silently swallowing your budget.",
+        "visual_hint": "data pipes with money",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Storage and cleaning double costs.",
+        "description": "Your AI budget must double just to cover data storage and cleaning alone.",
+        "visual_hint": "stack of hard drives",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hard drives",
+        "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pipeline costs explode silently.",
+        "description": "Data flow expenses scale without warning while you focus on model performance.",
+        "visual_hint": "bar chart skyrocketing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this or your budget blows up.",
+        "description": "Pull last month's data pipeline costs. Audit your flow today before it explodes.",
+        "visual_hint": "clipboard and magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1136629211.jpg?resize=1200,798",
+    "savedAt": "2026-07-02T22:57:47.834Z",
+    "sourceId": "5e09c7f5462328eb24b45b318c80be51"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "rivian-raises-ev-sales-forecast-as-q2-production-r",
     "prompt_version": "1.0.0",
     "status": "published",
