@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "indian-tech-tycoon-bets-30m-of-his-own-money-to-bu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "pubDate": "Thu, 02 Jul 2026 05:30:00 +0000",
+    "slides": [
+      "One man bets $30M on an Office killer—why?",
+      "He built it for India, not Silicon Valley.",
+      "It processes local languages most AI cannot.",
+      "Your documents now work offline with voice commands.",
+      "Test it today—before your subscription renews."
+    ],
+    "thread_text": [
+      "1. $30M on an Office killer?\n\nHe risked his entire savings because AI assistants ignore 90% of India’s languages.",
+      "2. Built for India first.\n\nSilicon Valley optimizes for English. This model was trained on audio from 22 regional languages—before adding English.",
+      "3. Works offline with voice.\n\nYour documents edit by speaking. No cloud required. Commands process on-device in real time.",
+      "4. Languages most AI misses.\n\nBengali, Marathi, Tamil—understood. Not translated, but executed. Grammar and intent handled natively.",
+      "5. Test it before renewal.\n\nOpen an old report and ask it to rewrite your invoice section. Does it save you one edit pass?"
+    ],
+    "video_script": [
+      "One man bet thirty million on an office killer.",
+      "He built it for India, not Silicon Valley.",
+      "It handles local languages most AI cannot.",
+      "Your documents work offline with voice commands.",
+      "Test it today before your subscription renews."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $30M on an Office killer?\n\nHe risked his entire savings because AI assistants ignore 90% of India’s languages.",
+          "2. Built for India first.\n\nSilicon Valley optimizes for English. This model was trained on audio from 22 regional languages—before adding English.",
+          "3. Works offline with voice.\n\nYour documents edit by speaking. No cloud required. Commands process on-device in real time.",
+          "4. Languages most AI misses.\n\nBengali, Marathi, Tamil—understood. Not translated, but executed. Grammar and intent handled natively.",
+          "5. Test it before renewal.\n\nOpen an old report and ask it to rewrite your invoice section. Does it save you one edit pass?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One man bet thirty million on an office killer.",
+          "He built it for India, not Silicon Valley.",
+          "It handles local languages most AI cannot.",
+          "Your documents work offline with voice commands.",
+          "Test it today before your subscription renews."
+        ]
+      },
+      "instagram": {
+        "caption": "A tech founder just risked $30M of his own money to build an Office alternative for India's languages. 🎤\n\nMost AI tools ignore Bengali, Marathi, and Tamil. His version understands them natively—grammar, intent, and all. It also works completely offline with voice commands, no cloud required.\n\nFor creators who write or edit in regional languages, that means editing documents by speaking without losing connectivity or accuracy.\n\nOpen an old report and ask it to rewrite your invoice section. Does it save you one edit pass? 🔧"
+      }
+    },
+    "instagram_caption": "A tech founder just risked $30M of his own money to build an Office alternative for India's languages. 🎤\n\nMost AI tools ignore Bengali, Marathi, and Tamil. His version understands them natively—grammar, intent, and all. It also works completely offline with voice commands, no cloud required.\n\nFor creators who write or edit in regional languages, that means editing documents by speaking without losing connectivity or accuracy.\n\nOpen an old report and ask it to rewrite your invoice section. Does it save you one edit pass? 🔧",
+    "carousel_slides": [
+      {
+        "hook": "He risked everything on AI",
+        "description": "One man bet $30M of his own savings because existing AI assistants ignore 90% of India's languages.",
+        "visual_hint": "Man looking at server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Built for India, not the Valley",
+        "description": "This model trained on 22 regional languages. Silicon Valley optimized for English first.",
+        "visual_hint": "Map of India with tech",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "India map",
+        "image": "https://images.pexels.com/photos/7235900/pexels-photo-7235900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your voice edits documents offline",
+        "description": "Commands process on-device in real time. No cloud needed for editing by speech.",
+        "visual_hint": "Hand speaking to tablet",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "voice assistant",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It understands languages AI misses",
+        "description": "Bengali, Marathi, Tamil executed natively. Grammar and intent handled without translation.",
+        "visual_hint": "Script letters in different colors",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Indian scripts",
+        "image": "https://images.pexels.com/photos/15235034/pexels-photo-15235034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save before your next renewal",
+        "description": "Open an old report and ask it to rewrite your invoice. Does it save you one edit pass?",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone calendar",
+        "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
+    "savedAt": "2026-07-02T07:23:25.598Z",
+    "sourceId": "f23d1aa63f1a4526ff965951ee346fa1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "whatsapp-usernames-are-already-raising-impersonati",
     "prompt_version": "1.0.0",
     "status": "published",
