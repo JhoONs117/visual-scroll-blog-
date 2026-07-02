@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "whatsapp-usernames-are-already-raising-impersonati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "WhatsApp usernames are already raising impersonation red flags",
+    "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+    "pubDate": "Wed, 01 Jul 2026 22:02:24 +0000",
+    "slides": [
+      "Why are WhatsApp usernames creating new security risks?",
+      "Users can now pick any handle without verification.",
+      "Impersonators are already registering known brand names.",
+      "Your contacts can no longer rely on phone numbers alone.",
+      "Verify identities outside WhatsApp before trusting any message."
+    ],
+    "thread_text": [
+      "1. Your brand name is up for grabs.\n\nSomeone already registered your handle on WhatsApp. No verification needed.",
+      "2. Impersonators are one step ahead.\n\nKnown brands are being taken by strangers. Your contacts will see a fake account before yours.",
+      "3. Phone numbers lost their safety net.\n\nYour friends can't trust your number alone anymore. Scammers use these usernames to look legit.",
+      "4. The real risk is inside your chats.\n\nA trusted username can carry a malicious message. WhatsApp doesn't verify who owns it.",
+      "5. Verify before you trust.\n\nCheck the sender through a separate channel today. Can you afford to assume it's real?"
+    ],
+    "video_script": [
+      "WhatsApp usernames now available without verification.",
+      "Impersonators are already claiming brand names.",
+      "Your phone number no longer proves identity.",
+      "Scammers can send fake messages with ease.",
+      "Verify every sender outside WhatsApp before trusting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your brand name is up for grabs.\n\nSomeone already registered your handle on WhatsApp. No verification needed.",
+          "2. Impersonators are one step ahead.\n\nKnown brands are being taken by strangers. Your contacts will see a fake account before yours.",
+          "3. Phone numbers lost their safety net.\n\nYour friends can't trust your number alone anymore. Scammers use these usernames to look legit.",
+          "4. The real risk is inside your chats.\n\nA trusted username can carry a malicious message. WhatsApp doesn't verify who owns it.",
+          "5. Verify before you trust.\n\nCheck the sender through a separate channel today. Can you afford to assume it's real?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "WhatsApp usernames now available without verification.",
+          "Impersonators are already claiming brand names.",
+          "Your phone number no longer proves identity.",
+          "Scammers can send fake messages with ease.",
+          "Verify every sender outside WhatsApp before trusting."
+        ]
+      },
+      "instagram": {
+        "caption": "Anyone can now register your brand name on WhatsApp — no ID check required. 🚩\n\nImpersonators are already grabbing company handles before the real owners can. Your contacts see a fake profile first, and phone numbers alone no longer prove identity. Scammers use these verified-looking usernames to send malicious messages inside your chats.\n\nFor anyone managing a brand or a public profile: your name is no longer protected by your number. Someone else can own it right now. ⚠️\n\nDid you check whether your brand handle is already taken?"
+      }
+    },
+    "instagram_caption": "Anyone can now register your brand name on WhatsApp — no ID check required. 🚩\n\nImpersonators are already grabbing company handles before the real owners can. Your contacts see a fake profile first, and phone numbers alone no longer prove identity. Scammers use these verified-looking usernames to send malicious messages inside your chats.\n\nFor anyone managing a brand or a public profile: your name is no longer protected by your number. Someone else can own it right now. ⚠️\n\nDid you check whether your brand handle is already taken?",
+    "carousel_slides": [
+      {
+        "hook": "Your brand name is already taken",
+        "description": "WhatsApp usernames require no verification. Impersonators registered your brand handle before you could.",
+        "visual_hint": "Fake brand profile on phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone fake profile screen"
+      },
+      {
+        "hook": "Impersonators already registered brands",
+        "description": "Known brands are being scooped up by strangers. Your contacts see a fake account before yours.",
+        "visual_hint": "Username registration without checkmark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "registration form computer",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Phone numbers are no longer safe",
+        "description": "Scammers use usernames to look legit. Your friends can't trust your number alone anymore.",
+        "visual_hint": "Phone number crossed out",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "red warning sign phone",
+        "image": "https://images.pexels.com/photos/8499634/pexels-photo-8499634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A trusted username can carry malware",
+        "description": "WhatsApp doesn't verify who owns a username. Malicious messages hide behind trusted handles.",
+        "visual_hint": "Chat bubble with virus icon",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "hand holding smartphone chat",
+        "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify identities before trusting any message",
+        "description": "Check the sender through a separate channel today. Can you afford to assume it's real?",
+        "visual_hint": "Two-step verification process",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "verification checkmark shield",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/whatsapp-usernames-reservation-rollout.jpg?resize=1200,800",
+    "savedAt": "2026-07-02T02:30:16.114Z",
+    "sourceId": "d4e5be8476b7a0dc9c84f68a7cc0734f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-hide-my-email-feature-has-a-bug-that-s-bee",
     "prompt_version": "1.0.0",
     "status": "published",
