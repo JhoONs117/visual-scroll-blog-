@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "popular-tv-tracking-app-tv-time-is-shutting-down-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+    "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+    "pubDate": "Thu, 02 Jul 2026 15:14:03 +0000",
+    "slides": [
+      "What happens to your watch history when TV Time dies?",
+      "The app transitions users to an AI-driven platform.",
+      "Your data will not be wiped — but it will be repurposed.",
+      "You can export your logs before the switch closes.",
+      "Back up your lists now or lose them forever."
+    ],
+    "thread_text": [
+      "Your TV Time is dying.\n\nThe app is shutting down its old interface. Your watch history stays, but it is being moved to an AI-powered system with no opt-out.",
+      "Your data survives, but not as you know it.\n\nThe company will repurpose your logs for machine learning models. Privacy controls may not survive the transition.",
+      "You can still export everything.\nA manual export option is open for a limited window. After that, your logs become part of the training set permanently.",
+      "Your curated lists are at risk.\nThe AI platform may not import your custom categories. Favorite shows and rankings you built could vanish.",
+      "Back up your lists right now.\nOpen the app today, locate the export button, and save your CSV. If you wait past the deadline, those lists are gone for good."
+    ],
+    "video_script": [
+      "TV Time is shutting down.",
+      "Your history moves to an AI system.",
+      "You can export your logs now.",
+      "Custom lists might not transfer.",
+      "Back up your lists before it ends."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your TV Time is dying.\n\nThe app is shutting down its old interface. Your watch history stays, but it is being moved to an AI-powered system with no opt-out.",
+          "Your data survives, but not as you know it.\n\nThe company will repurpose your logs for machine learning models. Privacy controls may not survive the transition.",
+          "You can still export everything.\nA manual export option is open for a limited window. After that, your logs become part of the training set permanently.",
+          "Your curated lists are at risk.\nThe AI platform may not import your custom categories. Favorite shows and rankings you built could vanish.",
+          "Back up your lists right now.\nOpen the app today, locate the export button, and save your CSV. If you wait past the deadline, those lists are gone for good."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "TV Time is shutting down.",
+          "Your history moves to an AI system.",
+          "You can export your logs now.",
+          "Custom lists might not transfer.",
+          "Back up your lists before it ends."
+        ]
+      },
+      "instagram": {
+        "caption": "Your TV Time watch history is being turned into AI training data — with no way to stop it.\n\nThe app is shutting down its current interface and shifting everything to an AI-driven platform. You can still export your logs manually, but only for a limited window. After that, your curated lists and custom categories may vanish or become permanent training material.\n\nIf you track shows or rank episodes for work or personal reviews, your saved structure could be lost. The new system may not import your categories 🗂️.\n\nOpen the app now, find the export button, and save your CSV file 📥. Miss the deadline, and those lists are gone for good ⏳.\n\nWhat’s your plan: export today or let your data train the next model?"
+      }
+    },
+    "instagram_caption": "Your TV Time watch history is being turned into AI training data — with no way to stop it.\n\nThe app is shutting down its current interface and shifting everything to an AI-driven platform. You can still export your logs manually, but only for a limited window. After that, your curated lists and custom categories may vanish or become permanent training material.\n\nIf you track shows or rank episodes for work or personal reviews, your saved structure could be lost. The new system may not import your categories 🗂️.\n\nOpen the app now, find the export button, and save your CSV file 📥. Miss the deadline, and those lists are gone for good ⏳.\n\nWhat’s your plan: export today or let your data train the next model?",
+    "carousel_slides": [
+      {
+        "hook": "Your watch history becomes AI fuel.",
+        "description": "TV Time reboots into an AI platform. Your logs train machine learning models with no opt-out.",
+        "visual_hint": "data stream flowing into AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Your data is repurposed permanently.",
+        "description": "Company keeps your logs but redirects them to AI training. Privacy controls may not survive the transition.",
+        "visual_hint": "data repurposed for AI",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Export your logs before it’s too late.",
+        "description": "Manual export is open for a limited window. After that, your logs are locked into the training set forever.",
+        "visual_hint": "export button close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Custom lists risk disappearing forever.",
+        "description": "AI platform may not import your categories. Favorite shows and rankings you built could vanish.",
+        "visual_hint": "list icons fading away",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save your lists now. Comment DONE.",
+        "description": "Open the app today, find the export button, and download your CSV before the deadline.",
+        "visual_hint": "download button highlighted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "download arrow",
+        "image": "https://images.pexels.com/photos/32474577/pexels-photo-32474577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/TV-Time-app-2024.jpg?resize=1200,842",
+    "savedAt": "2026-07-03T13:44:58.362Z",
+    "sourceId": "9f0e96eaebd6a093778bd19e5d9d5957"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "takeda-signs-us-600m-ai-drug-discovery-deal-with-i",
     "prompt_version": "1.0.0",
     "status": "published",
