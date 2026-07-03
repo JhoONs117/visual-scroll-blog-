@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "travel-app-hopper-to-pay-35m-in-ftc-settlement-ove",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+    "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+    "pubDate": "Thu, 02 Jul 2026 18:39:14 +0000",
+    "slides": [
+      "Hopper promised cheap flights. Did it hide costs?",
+      "The FTC says it added fees after booking started.",
+      "The settlement is $35M—but not for refunds.",
+      "You now have the right to see all fees upfront.",
+      "Before booking, check for buried surcharges first."
+    ],
+    "thread_text": [
+      "1. Did you really save?\n\nHopper promised cheap flights but hid fees until after booking, costing users millions.",
+      "2. FTC catches the trap.\n\nThe Federal Trade Commission says Hopper tacked on undisclosed fees after you already committed.",
+      "3. $35M changes nothing.\n\nThe settlement money goes to the government, not to the customers who overpaid.",
+      "4. Now you can see everything.\n\nA new rule forces Hopper to show you the full price before you click confirm.",
+      "5. Check for buried costs first.\n\nBefore your next booking, scroll to the bottom of the price breakdown. Have you ever missed a hidden fee?"
+    ],
+    "video_script": [
+      "Hopper promised cheap flights, then added fees.",
+      "The FTC caught them hiding costs.",
+      "The $35M settlement won't refund you.",
+      "Now you have the right to see fees upfront.",
+      "Always check for buried surcharges before booking."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Did you really save?\n\nHopper promised cheap flights but hid fees until after booking, costing users millions.",
+          "2. FTC catches the trap.\n\nThe Federal Trade Commission says Hopper tacked on undisclosed fees after you already committed.",
+          "3. $35M changes nothing.\n\nThe settlement money goes to the government, not to the customers who overpaid.",
+          "4. Now you can see everything.\n\nA new rule forces Hopper to show you the full price before you click confirm.",
+          "5. Check for buried costs first.\n\nBefore your next booking, scroll to the bottom of the price breakdown. Have you ever missed a hidden fee?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hopper promised cheap flights, then added fees.",
+          "The FTC caught them hiding costs.",
+          "The $35M settlement won't refund you.",
+          "Now you have the right to see fees upfront.",
+          "Always check for buried surcharges before booking."
+        ]
+      },
+      "instagram": {
+        "caption": "You booked a “cheap” flight on Hopper, then got hit with fees you never saw upfront. 💸  \n\nThe FTC just fined Hopper $35 million for hiding those surcharges until after you committed.  \nThe money goes to the government, not to the people who overpaid.  \n\nFrom now on, Hopper must show you the full price before you hit confirm.  \n\nBefore your next booking, scroll to the bottom of the price breakdown. Have you ever been burned by a hidden fee? 🕵️"
+      }
+    },
+    "instagram_caption": "You booked a “cheap” flight on Hopper, then got hit with fees you never saw upfront. 💸  \n\nThe FTC just fined Hopper $35 million for hiding those surcharges until after you committed.  \nThe money goes to the government, not to the people who overpaid.  \n\nFrom now on, Hopper must show you the full price before you hit confirm.  \n\nBefore your next booking, scroll to the bottom of the price breakdown. Have you ever been burned by a hidden fee? 🕵️",
+    "carousel_slides": [
+      {
+        "hook": "The price you saw wasn't real.",
+        "description": "Hopper lured users with low fares, then secretly added fees after booking started. Millions overpaid before anyone noticed.",
+        "visual_hint": "airplane on runway",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "airplane runway"
+      },
+      {
+        "hook": "FTC exposed the hidden fees.",
+        "description": "The Federal Trade Commission found Hopper unfairly tacked on charges after users committed. The trap is now public.",
+        "visual_hint": "FTC building exterior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government building",
+        "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "$35M goes to the government.",
+        "description": "The settlement money won't refund overcharged customers. It flows to the Treasury, not to those who were cheated.",
+        "visual_hint": "money piles falling",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Full price now forced upfront.",
+        "description": "A new rule requires Hopper to show you all fees before you click confirm. No more surprises after checkout.",
+        "visual_hint": "hand confirming phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next booking.",
+        "description": "Scroll to the bottom of any Hopper price breakdown and look for buried surcharges before you pay.",
+        "visual_hint": "phone with price breakdown",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone payment screen",
+        "image": "https://images.pexels.com/photos/7621358/pexels-photo-7621358.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1140153524.jpg?resize=1200,800",
+    "savedAt": "2026-07-03T06:54:52.053Z",
+    "sourceId": "486a24bdd694756eb6247f84736c0fa1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "iqm-europe-s-first-public-quantum-company-admits-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+    "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+    "pubDate": "Thu, 02 Jul 2026 20:42:48 +0000",
+    "slides": [
+      "IQM went public, but can quantum computing deliver?",
+      "Most qubits need near-absolute zero to function.",
+      "Europe’s first quantum IPO still hasn’t found a killer app.",
+      "Your encryption might break sooner than you think.",
+      "Audit your crypto-systems for quantum threats today."
+    ],
+    "thread_text": [
+      "Your encryption dies next.\n\nIQM went public at $1.2B — no quantum app has ever earned a dollar.",
+      "Qubits freeze at –273°C.\n\nEvery machine needs a supercooled lab, not a server rack.",
+      "Still no killer app.\n\nEurope’s first quantum IPO has zero customers paying for quantum compute.",
+      "Shor’s algorithm is real.\n\nIt can break RSA-2048 in hours once 4000 logical qubits exist.",
+      "Audit your crypto now.\n\nRun a post-quantum risk scan on your TLS certificates this week."
+    ],
+    "video_script": [
+      "Quantum IPO raised a billion with zero revenue.",
+      "Most qubits need temperatures near absolute zero.",
+      "Europe’s first quantum IPO has no killer app.",
+      "Shor’s algorithm can break your encryption soon.",
+      "Audit your crypto-systems for quantum threats today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your encryption dies next.\n\nIQM went public at $1.2B — no quantum app has ever earned a dollar.",
+          "Qubits freeze at –273°C.\n\nEvery machine needs a supercooled lab, not a server rack.",
+          "Still no killer app.\n\nEurope’s first quantum IPO has zero customers paying for quantum compute.",
+          "Shor’s algorithm is real.\n\nIt can break RSA-2048 in hours once 4000 logical qubits exist.",
+          "Audit your crypto now.\n\nRun a post-quantum risk scan on your TLS certificates this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Quantum IPO raised a billion with zero revenue.",
+          "Most qubits need temperatures near absolute zero.",
+          "Europe’s first quantum IPO has no killer app.",
+          "Shor’s algorithm can break your encryption soon.",
+          "Audit your crypto-systems for quantum threats today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your encryption keys could be broken in hours once quantum computers hit 4,000 logical qubits — and we’re closer than headlines suggest. 😶\n\nIQM just went public at $1.2 billion without a single paying customer for quantum compute. Every current machine needs supercooling to near absolute zero, and no “killer app” exists yet. But Shor’s algorithm is real, and RSA-2048 is vulnerable.\n\nIf you manage TLS certificates or publish encrypted content, that future arrives sooner than your last patch cycle. 🧊🔐\n\nHave you run a post-quantum risk scan on your certificates this week?"
+      }
+    },
+    "instagram_caption": "Your encryption keys could be broken in hours once quantum computers hit 4,000 logical qubits — and we’re closer than headlines suggest. 😶\n\nIQM just went public at $1.2 billion without a single paying customer for quantum compute. Every current machine needs supercooling to near absolute zero, and no “killer app” exists yet. But Shor’s algorithm is real, and RSA-2048 is vulnerable.\n\nIf you manage TLS certificates or publish encrypted content, that future arrives sooner than your last patch cycle. 🧊🔐\n\nHave you run a post-quantum risk scan on your certificates this week?",
+    "carousel_slides": [
+      {
+        "hook": "Your encryption dies next.",
+        "description": "IQM went public at $1.2B, yet no quantum app has ever earned a dollar — the threat is real.",
+        "visual_hint": "Broken lock icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken padlock"
+      },
+      {
+        "hook": "Qubits freeze at -273°C.",
+        "description": "Every machine needs a supercooled lab, not a server rack — scaling is years away.",
+        "visual_hint": "Supercooled lab machine",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laboratory refrigerator",
+        "image": "https://images.pexels.com/photos/29336185/pexels-photo-29336185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No killer app yet.",
+        "description": "Europe’s first quantum IPO has zero customers paying for quantum compute — the hype is ahead.",
+        "visual_hint": "Empty revenue chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Shor’s algorithm is real.",
+        "description": "It can break RSA-2048 in hours once 4,000 logical qubits exist — your keys are at risk.",
+        "visual_hint": "Cracked encryption key",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cracked key",
+        "image": "https://images.pexels.com/photos/29102198/pexels-photo-29102198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before it’s too late.",
+        "description": "Run a post-quantum risk scan on your TLS certificates this week — act now.",
+        "visual_hint": "Audit checklist icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?resize=1200,675",
+    "savedAt": "2026-07-03T06:54:40.056Z",
+    "sourceId": "b15817faca23105f6b959f7a84b40f74"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-",
     "prompt_version": "1.0.0",
     "status": "published",

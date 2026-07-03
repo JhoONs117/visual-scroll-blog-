@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "iqm-europe-s-first-public-quantum-company-admits-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+  "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+  "pubDate": "Thu, 02 Jul 2026 20:42:48 +0000",
+  "slides": [
+    "IQM went public, but can quantum computing deliver?",
+    "Most qubits need near-absolute zero to function.",
+    "Europe’s first quantum IPO still hasn’t found a killer app.",
+    "Your encryption might break sooner than you think.",
+    "Audit your crypto-systems for quantum threats today."
+  ],
+  "thread_text": [
+    "Your encryption dies next.\n\nIQM went public at $1.2B — no quantum app has ever earned a dollar.",
+    "Qubits freeze at –273°C.\n\nEvery machine needs a supercooled lab, not a server rack.",
+    "Still no killer app.\n\nEurope’s first quantum IPO has zero customers paying for quantum compute.",
+    "Shor’s algorithm is real.\n\nIt can break RSA-2048 in hours once 4000 logical qubits exist.",
+    "Audit your crypto now.\n\nRun a post-quantum risk scan on your TLS certificates this week."
+  ],
+  "video_script": [
+    "Quantum IPO raised a billion with zero revenue.",
+    "Most qubits need temperatures near absolute zero.",
+    "Europe’s first quantum IPO has no killer app.",
+    "Shor’s algorithm can break your encryption soon.",
+    "Audit your crypto-systems for quantum threats today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your encryption dies next.\n\nIQM went public at $1.2B — no quantum app has ever earned a dollar.",
+        "Qubits freeze at –273°C.\n\nEvery machine needs a supercooled lab, not a server rack.",
+        "Still no killer app.\n\nEurope’s first quantum IPO has zero customers paying for quantum compute.",
+        "Shor’s algorithm is real.\n\nIt can break RSA-2048 in hours once 4000 logical qubits exist.",
+        "Audit your crypto now.\n\nRun a post-quantum risk scan on your TLS certificates this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Quantum IPO raised a billion with zero revenue.",
+        "Most qubits need temperatures near absolute zero.",
+        "Europe’s first quantum IPO has no killer app.",
+        "Shor’s algorithm can break your encryption soon.",
+        "Audit your crypto-systems for quantum threats today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your encryption keys could be broken in hours once quantum computers hit 4,000 logical qubits — and we’re closer than headlines suggest. 😶\n\nIQM just went public at $1.2 billion without a single paying customer for quantum compute. Every current machine needs supercooling to near absolute zero, and no “killer app” exists yet. But Shor’s algorithm is real, and RSA-2048 is vulnerable.\n\nIf you manage TLS certificates or publish encrypted content, that future arrives sooner than your last patch cycle. 🧊🔐\n\nHave you run a post-quantum risk scan on your certificates this week?"
+    }
+  },
+  "instagram_caption": "Your encryption keys could be broken in hours once quantum computers hit 4,000 logical qubits — and we’re closer than headlines suggest. 😶\n\nIQM just went public at $1.2 billion without a single paying customer for quantum compute. Every current machine needs supercooling to near absolute zero, and no “killer app” exists yet. But Shor’s algorithm is real, and RSA-2048 is vulnerable.\n\nIf you manage TLS certificates or publish encrypted content, that future arrives sooner than your last patch cycle. 🧊🔐\n\nHave you run a post-quantum risk scan on your certificates this week?",
+  "carousel_slides": [
+    {
+      "hook": "Your encryption dies next.",
+      "description": "IQM went public at $1.2B, yet no quantum app has ever earned a dollar — the threat is real.",
+      "visual_hint": "Broken lock icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken padlock"
+    },
+    {
+      "hook": "Qubits freeze at -273°C.",
+      "description": "Every machine needs a supercooled lab, not a server rack — scaling is years away.",
+      "visual_hint": "Supercooled lab machine",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laboratory refrigerator",
+      "image": "https://images.pexels.com/photos/29336185/pexels-photo-29336185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No killer app yet.",
+      "description": "Europe’s first quantum IPO has zero customers paying for quantum compute — the hype is ahead.",
+      "visual_hint": "Empty revenue chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Shor’s algorithm is real.",
+      "description": "It can break RSA-2048 in hours once 4,000 logical qubits exist — your keys are at risk.",
+      "visual_hint": "Cracked encryption key",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cracked key",
+      "image": "https://images.pexels.com/photos/29102198/pexels-photo-29102198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it’s too late.",
+      "description": "Run a post-quantum risk scan on your TLS certificates this week — act now.",
+      "visual_hint": "Audit checklist icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/IQM-Nasdaq-Tower.jpg?resize=1200,675",
+  "savedAt": "2026-07-03T06:54:40.056Z",
+  "sourceId": "b15817faca23105f6b959f7a84b40f74"
+}
