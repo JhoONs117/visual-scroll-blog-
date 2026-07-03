@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+  "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+  "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
+  "slides": [
+    "Jersey Mike's IPO is booming. Does AI explain it?",
+    "The chain barely uses AI in its operations.",
+    "Its valuation jumped purely on a tech-hype halo.",
+    "Your AI investment thesis may be equally delusional.",
+    "Before your next bet, separate real AI from a bubble."
+  ],
+  "thread_text": [
+    "1. AI halo, no AI.\n\nJersey Mike's IPO valuation surged 40% despite admitting zero AI in operations. The premium was pure market narrative, not code.",
+    "2. The delusion spreads.\n\nInvestors paid for a story — a chain that doesn't even use chatbots. Same hype is lifting your portfolio's AI darlings.",
+    "3. Tech halo is fake.\n\nA subway shop gets a billion-dollar AI tag. That premium is imaginary. Now ask: is your AI stock different?",
+    "4. Your thesis may match.\n\nIf the company's AI adoption is as thin as Jersey Mike's, you're betting on a label, not a moat. Look past the buzzwords.",
+    "5. Test your bet today.\n\nGo to your AI holdings. Can the CEO list three concrete AI uses? If not, what are you actually paying for?"
+  ],
+  "video_script": [
+    "Jersey Mike's IPO boomed without any AI.",
+    "Its valuation rose on a tech halo.",
+    "Your AI bet could be just as empty.",
+    "Check if your company actually uses AI.",
+    "If not, you're in a bubble."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI halo, no AI.\n\nJersey Mike's IPO valuation surged 40% despite admitting zero AI in operations. The premium was pure market narrative, not code.",
+        "2. The delusion spreads.\n\nInvestors paid for a story — a chain that doesn't even use chatbots. Same hype is lifting your portfolio's AI darlings.",
+        "3. Tech halo is fake.\n\nA subway shop gets a billion-dollar AI tag. That premium is imaginary. Now ask: is your AI stock different?",
+        "4. Your thesis may match.\n\nIf the company's AI adoption is as thin as Jersey Mike's, you're betting on a label, not a moat. Look past the buzzwords.",
+        "5. Test your bet today.\n\nGo to your AI holdings. Can the CEO list three concrete AI uses? If not, what are you actually paying for?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jersey Mike's IPO boomed without any AI.",
+        "Its valuation rose on a tech halo.",
+        "Your AI bet could be just as empty.",
+        "Check if your company actually uses AI.",
+        "If not, you're in a bubble."
+      ]
+    },
+    "instagram": {
+      "caption": "A sandwich chain surged 40% in valuation with zero AI in its operations — investors paid a billion-dollar premium for pure hype💰\n\nThe market slapped a tech halo on a company that hasn't even deployed a chatbot. If that premium is imaginary there, it might be in your portfolio too.\n\nFor anyone publishing or creating content: your AI-boosted traffic could vanish the second the narrative shifts, not the tech.\n\nOpen your watchlist. Pick one AI stock you hold. Can the CEO name three specific internal uses of their own AI? No? Then what are you actually paying for?🔍"
+    }
+  },
+  "instagram_caption": "A sandwich chain surged 40% in valuation with zero AI in its operations — investors paid a billion-dollar premium for pure hype💰\n\nThe market slapped a tech halo on a company that hasn't even deployed a chatbot. If that premium is imaginary there, it might be in your portfolio too.\n\nFor anyone publishing or creating content: your AI-boosted traffic could vanish the second the narrative shifts, not the tech.\n\nOpen your watchlist. Pick one AI stock you hold. Can the CEO name three specific internal uses of their own AI? No? Then what are you actually paying for?🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI stock has no AI.",
+      "description": "Jersey Mike's IPO surged 40% with zero AI in operations. The premium came from hype, not technology.",
+      "visual_hint": "stock chart soaring",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Is your portfolio built on hype?",
+      "description": "Investors paid a premium for a story about a chain without chatbots. Same hype inflates your AI favorites.",
+      "visual_hint": "sandwich shop sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "subway restaurant",
+      "image": "https://images.pexels.com/photos/16094264/pexels-photo-16094264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "That billion-dollar halo is fake.",
+      "description": "A sandwich chain got an AI valuation boost. Your stock's premium may be equally imaginary.",
+      "visual_hint": "magnifying glass icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your thesis may be a mirage.",
+      "description": "If the company uses no real AI like Jersey Mike's, you are betting on a label, not a moat.",
+      "visual_hint": "hand holding money",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding dollar",
+      "image": "https://images.pexels.com/photos/5909801/pexels-photo-5909801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI bets now. Save this.",
+      "description": "Go through your AI holdings. Can the CEO list three concrete uses? If not, reconsider.",
+      "visual_hint": "phone with stock app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone finance app",
+      "image": "https://images.pexels.com/photos/7691737/pexels-photo-7691737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+  "savedAt": "2026-07-03T02:05:44.673Z",
+  "sourceId": "f4b4508296004a842e3deb7086bba681"
+}

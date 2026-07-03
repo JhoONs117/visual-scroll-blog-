@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "jersey-mike-s-ipo-illustrates-how-bad-the-ai-hype-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "pubDate": "Thu, 02 Jul 2026 20:11:59 +0000",
+      "slides": [
+        "Jersey Mike's IPO is booming. Does AI explain it?",
+        "The chain barely uses AI in its operations.",
+        "Its valuation jumped purely on a tech-hype halo.",
+        "Your AI investment thesis may be equally delusional.",
+        "Before your next bet, separate real AI from a bubble."
+      ],
+      "thread_text": [
+        "1. AI halo, no AI.\n\nJersey Mike's IPO valuation surged 40% despite admitting zero AI in operations. The premium was pure market narrative, not code.",
+        "2. The delusion spreads.\n\nInvestors paid for a story — a chain that doesn't even use chatbots. Same hype is lifting your portfolio's AI darlings.",
+        "3. Tech halo is fake.\n\nA subway shop gets a billion-dollar AI tag. That premium is imaginary. Now ask: is your AI stock different?",
+        "4. Your thesis may match.\n\nIf the company's AI adoption is as thin as Jersey Mike's, you're betting on a label, not a moat. Look past the buzzwords.",
+        "5. Test your bet today.\n\nGo to your AI holdings. Can the CEO list three concrete AI uses? If not, what are you actually paying for?"
+      ],
+      "video_script": [
+        "Jersey Mike's IPO boomed without any AI.",
+        "Its valuation rose on a tech halo.",
+        "Your AI bet could be just as empty.",
+        "Check if your company actually uses AI.",
+        "If not, you're in a bubble."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI halo, no AI.\n\nJersey Mike's IPO valuation surged 40% despite admitting zero AI in operations. The premium was pure market narrative, not code.",
+            "2. The delusion spreads.\n\nInvestors paid for a story — a chain that doesn't even use chatbots. Same hype is lifting your portfolio's AI darlings.",
+            "3. Tech halo is fake.\n\nA subway shop gets a billion-dollar AI tag. That premium is imaginary. Now ask: is your AI stock different?",
+            "4. Your thesis may match.\n\nIf the company's AI adoption is as thin as Jersey Mike's, you're betting on a label, not a moat. Look past the buzzwords.",
+            "5. Test your bet today.\n\nGo to your AI holdings. Can the CEO list three concrete AI uses? If not, what are you actually paying for?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jersey Mike's IPO boomed without any AI.",
+            "Its valuation rose on a tech halo.",
+            "Your AI bet could be just as empty.",
+            "Check if your company actually uses AI.",
+            "If not, you're in a bubble."
+          ]
+        },
+        "instagram": {
+          "caption": "A sandwich chain surged 40% in valuation with zero AI in its operations — investors paid a billion-dollar premium for pure hype💰\n\nThe market slapped a tech halo on a company that hasn't even deployed a chatbot. If that premium is imaginary there, it might be in your portfolio too.\n\nFor anyone publishing or creating content: your AI-boosted traffic could vanish the second the narrative shifts, not the tech.\n\nOpen your watchlist. Pick one AI stock you hold. Can the CEO name three specific internal uses of their own AI? No? Then what are you actually paying for?🔍"
+        }
+      },
+      "instagram_caption": "A sandwich chain surged 40% in valuation with zero AI in its operations — investors paid a billion-dollar premium for pure hype💰\n\nThe market slapped a tech halo on a company that hasn't even deployed a chatbot. If that premium is imaginary there, it might be in your portfolio too.\n\nFor anyone publishing or creating content: your AI-boosted traffic could vanish the second the narrative shifts, not the tech.\n\nOpen your watchlist. Pick one AI stock you hold. Can the CEO name three specific internal uses of their own AI? No? Then what are you actually paying for?🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your AI stock has no AI.",
+          "description": "Jersey Mike's IPO surged 40% with zero AI in operations. The premium came from hype, not technology.",
+          "visual_hint": "stock chart soaring",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Is your portfolio built on hype?",
+          "description": "Investors paid a premium for a story about a chain without chatbots. Same hype inflates your AI favorites.",
+          "visual_hint": "sandwich shop sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "subway restaurant",
+          "image": "https://images.pexels.com/photos/16094264/pexels-photo-16094264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "That billion-dollar halo is fake.",
+          "description": "A sandwich chain got an AI valuation boost. Your stock's premium may be equally imaginary.",
+          "visual_hint": "magnifying glass icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your thesis may be a mirage.",
+          "description": "If the company uses no real AI like Jersey Mike's, you are betting on a label, not a moat.",
+          "visual_hint": "hand holding money",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding dollar",
+          "image": "https://images.pexels.com/photos/5909801/pexels-photo-5909801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI bets now. Save this.",
+          "description": "Go through your AI holdings. Can the CEO list three concrete uses? If not, reconsider.",
+          "visual_hint": "phone with stock app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone finance app",
+          "image": "https://images.pexels.com/photos/7691737/pexels-photo-7691737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+      "savedAt": "2026-07-03T02:05:44.673Z",
+      "sourceId": "f4b4508296004a842e3deb7086bba681"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mark-zuckerberg-tells-staff-that-ai-agents-haven-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000",
+      "slides": [
+        "Mark Zuckerberg admits his AI timeline might be off.",
+        "He told staff agents aren't advancing fast enough yet.",
+        "They're succeeding internally but failing in real-world tests.",
+        "That means your workflow won't get an AI agent soon.",
+        "Assume no reliable agent exists—build manual processes instead."
+      ],
+      "thread_text": [
+        "1. Zuckerberg just admitted it\n\nHe told staff their AI agents aren't advancing fast enough. The timeline is off.",
+        "2. Internal vs. real world\n\nInside Meta, demos look great. Outside, the agents fail. That gap is the real problem.",
+        "3. Your workflow won't change soon\n\nDon't expect a reliable AI agent to ship this year. The promised automation is delayed.",
+        "4. The old way wins again\n\nManual processes still beat waiting for AI. No agent can replace your current system yet.",
+        "5. Build for no AI today\n\nTake one task you wanted to automate. Can you do it faster by hand right now? Test that this week."
+      ],
+      "video_script": [
+        "Zuckerberg admitted his AI timeline is off.",
+        "Agents work internally but fail in tests.",
+        "Your workflow won't get an agent soon.",
+        "Assume no reliable agent exists yet.",
+        "Build manual processes instead of waiting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Zuckerberg just admitted it\n\nHe told staff their AI agents aren't advancing fast enough. The timeline is off.",
+            "2. Internal vs. real world\n\nInside Meta, demos look great. Outside, the agents fail. That gap is the real problem.",
+            "3. Your workflow won't change soon\n\nDon't expect a reliable AI agent to ship this year. The promised automation is delayed.",
+            "4. The old way wins again\n\nManual processes still beat waiting for AI. No agent can replace your current system yet.",
+            "5. Build for no AI today\n\nTake one task you wanted to automate. Can you do it faster by hand right now? Test that this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Zuckerberg admitted his AI timeline is off.",
+            "Agents work internally but fail in tests.",
+            "Your workflow won't get an agent soon.",
+            "Assume no reliable agent exists yet.",
+            "Build manual processes instead of waiting."
+          ]
+        },
+        "instagram": {
+          "caption": "Mark Zuckerberg told Meta staff that their AI agents still fail in the real world after looking great internally. ⏳  \n\nHe admitted the timeline is off. Agents aren't advancing fast enough for daily work. Manual processes still win. 🧑‍💻  \n\nIf you were hoping to hand off a content workflow to an AI agent this year, don’t. Your current system stays. 📝  \n\nWhich manual task in your publishing process would you test against an AI agent **today**—and bet on yourself to do faster?"
+        }
+      },
+      "instagram_caption": "Mark Zuckerberg told Meta staff that their AI agents still fail in the real world after looking great internally. ⏳  \n\nHe admitted the timeline is off. Agents aren't advancing fast enough for daily work. Manual processes still win. 🧑‍💻  \n\nIf you were hoping to hand off a content workflow to an AI agent this year, don’t. Your current system stays. 📝  \n\nWhich manual task in your publishing process would you test against an AI agent **today**—and bet on yourself to do faster?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI timeline is wrong.",
+          "description": "Zuckerberg admits AI agents aren't advancing fast enough, even after internal demos succeed.",
+          "visual_hint": "Calendar with date crossed out",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "calendar crossed date"
+        },
+        {
+          "hook": "Why demos lie to you.",
+          "description": "Internal tests impress, but real-world agents fail. That gap delays automation.",
+          "visual_hint": "Robot hand failing at door",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot failing door",
+          "image": "https://images.pexels.com/photos/17325393/pexels-photo-17325393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your workflow stays manual.",
+          "description": "Don't expect reliable AI agents this year—real-world results aren't ready for your processes.",
+          "visual_hint": "Factory worker with clipboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory worker clipboard",
+          "image": "https://images.pexels.com/photos/7018656/pexels-photo-7018656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual still beats waiting.",
+          "description": "Old manual processes outperform delayed AI promises. No agent replaces your current system yet.",
+          "visual_hint": "Handwriting on paper checklist",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand writing checklist",
+          "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test by hand first.",
+          "description": "Pick one task you'd automate. Do it manually this week—see if you really need AI.",
+          "visual_hint": "Checkmark on to-do list",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "to-do list check",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+      "savedAt": "2026-07-03T02:05:27.879Z",
+      "sourceId": "bbb33a2166fa0050d407eb6a6a9b7fbf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-proposed-donating-5-of-its-equity-to-a-us-s",
       "prompt_version": "1.0.0",
       "status": "published",

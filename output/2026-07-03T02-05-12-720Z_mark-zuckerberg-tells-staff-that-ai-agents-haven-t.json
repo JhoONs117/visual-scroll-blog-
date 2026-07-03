@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mark-zuckerberg-tells-staff-that-ai-agents-haven-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+  "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+  "pubDate": "Thu, 02 Jul 2026 23:38:10 +0000",
+  "slides": [
+    "Mark Zuckerberg admits his AI timeline might be off.",
+    "He told staff agents aren't advancing fast enough yet.",
+    "They're succeeding internally but failing in real-world tests.",
+    "That means your workflow won't get an AI agent soon.",
+    "Assume no reliable agent exists—build manual processes instead."
+  ],
+  "thread_text": [
+    "1. Zuckerberg just admitted it\n\nHe told staff their AI agents aren't advancing fast enough. The timeline is off.",
+    "2. Internal vs. real world\n\nInside Meta, demos look great. Outside, the agents fail. That gap is the real problem.",
+    "3. Your workflow won't change soon\n\nDon't expect a reliable AI agent to ship this year. The promised automation is delayed.",
+    "4. The old way wins again\n\nManual processes still beat waiting for AI. No agent can replace your current system yet.",
+    "5. Build for no AI today\n\nTake one task you wanted to automate. Can you do it faster by hand right now? Test that this week."
+  ],
+  "video_script": [
+    "Zuckerberg admitted his AI timeline is off.",
+    "Agents work internally but fail in tests.",
+    "Your workflow won't get an agent soon.",
+    "Assume no reliable agent exists yet.",
+    "Build manual processes instead of waiting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Zuckerberg just admitted it\n\nHe told staff their AI agents aren't advancing fast enough. The timeline is off.",
+        "2. Internal vs. real world\n\nInside Meta, demos look great. Outside, the agents fail. That gap is the real problem.",
+        "3. Your workflow won't change soon\n\nDon't expect a reliable AI agent to ship this year. The promised automation is delayed.",
+        "4. The old way wins again\n\nManual processes still beat waiting for AI. No agent can replace your current system yet.",
+        "5. Build for no AI today\n\nTake one task you wanted to automate. Can you do it faster by hand right now? Test that this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zuckerberg admitted his AI timeline is off.",
+        "Agents work internally but fail in tests.",
+        "Your workflow won't get an agent soon.",
+        "Assume no reliable agent exists yet.",
+        "Build manual processes instead of waiting."
+      ]
+    },
+    "instagram": {
+      "caption": "Mark Zuckerberg told Meta staff that their AI agents still fail in the real world after looking great internally. ⏳  \n\nHe admitted the timeline is off. Agents aren't advancing fast enough for daily work. Manual processes still win. 🧑‍💻  \n\nIf you were hoping to hand off a content workflow to an AI agent this year, don’t. Your current system stays. 📝  \n\nWhich manual task in your publishing process would you test against an AI agent **today**—and bet on yourself to do faster?"
+    }
+  },
+  "instagram_caption": "Mark Zuckerberg told Meta staff that their AI agents still fail in the real world after looking great internally. ⏳  \n\nHe admitted the timeline is off. Agents aren't advancing fast enough for daily work. Manual processes still win. 🧑‍💻  \n\nIf you were hoping to hand off a content workflow to an AI agent this year, don’t. Your current system stays. 📝  \n\nWhich manual task in your publishing process would you test against an AI agent **today**—and bet on yourself to do faster?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI timeline is wrong.",
+      "description": "Zuckerberg admits AI agents aren't advancing fast enough, even after internal demos succeed.",
+      "visual_hint": "Calendar with date crossed out",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "calendar crossed date"
+    },
+    {
+      "hook": "Why demos lie to you.",
+      "description": "Internal tests impress, but real-world agents fail. That gap delays automation.",
+      "visual_hint": "Robot hand failing at door",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot failing door",
+      "image": "https://images.pexels.com/photos/17325393/pexels-photo-17325393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workflow stays manual.",
+      "description": "Don't expect reliable AI agents this year—real-world results aren't ready for your processes.",
+      "visual_hint": "Factory worker with clipboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory worker clipboard",
+      "image": "https://images.pexels.com/photos/7018656/pexels-photo-7018656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual still beats waiting.",
+      "description": "Old manual processes outperform delayed AI promises. No agent replaces your current system yet.",
+      "visual_hint": "Handwriting on paper checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand writing checklist",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test by hand first.",
+      "description": "Pick one task you'd automate. Do it manually this week—see if you really need AI.",
+      "visual_hint": "Checkmark on to-do list",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "to-do list check",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+  "savedAt": "2026-07-03T02:05:27.879Z",
+  "sourceId": "bbb33a2166fa0050d407eb6a6a9b7fbf"
+}
