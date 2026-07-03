@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-5-minuti-cocco-e-mirtilli",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta 5 minuti cocco e mirtilli",
+    "link": "https://ricette.giallozafferano.it/Torta-5-minuti-cocco-e-mirtilli.html",
+    "pubDate": "Fri, 03 Jul 2026 10:44:00 +0200",
+    "content": "Torta 5 minuti al cocco e mirtilli: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti cocco e mirtilli /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 40 min Dosi per: 6 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta 5 minuti cocco e mirtilli è un dolce semplice e goloso che si prepara in pochissimo tempo: bastano una ciotola e una frusta a mano per ottenere un impasto soffice e profumato, senza bisogno di montare gli ingredienti o utilizzare strumenti particolari. L'abbinamento tra il cocco rapè e i mirtilli è fresco e delicato, perfetto per gli amanti della frutta e dei sapori tropicali. L'utilizzo dell’ olio di cocco al posto del burro o dell’olio di semi, inoltre, dona una consistenza morbida e umida e un aroma ancora più intenso. Se avete poco tempo, ma non volete rinunciare a una torta fatta in casa per la colazione o la merenda, questa ricetta è la scelta ideale… il suo gusto genuino e irresistibile la farà diventare una delle preferite in famiglia! Dopo aver provato la torta 5 minuti cocco e mirtilli, non perdetevi anche queste varianti di torta 5 minuti : Torta 5 minuti alla ricotta Torta 5 minuti alle fragole Muffin 5 minuti Torta 5 minuti salata INGREDIENTI Per uno stampo da 20 cm Farina 00 210 g Zucchero di canna 130 g Mirtilli 130 g Olio di cocco 120 g Latte intero 110 g Cocco rapè 90 g Uova 3 Lievito in polvere per dolci 10 g Sale fino 1 pizzico Per spolverizzare Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti cocco e mirtilli Per preparare la torta cocco e mirtilli, per prima cosa scaldate l’olio di cocco e lasciatelo intiepidire. Intanto versate in una ciotola le uova, lo zucchero di canna 1 e il sale 2 , poi lavorate con una frusta a mano fino a sciogliere completamente lo zucchero 3 . Unite l’olio di cocco intiepidito 4 e mescolate ancora. Setacciate il lievito 5 e la farina direttamente nella ciotola, aggiungendoli poco per volta 6 . Amalgamate le polveri con la frusta 7 , alternandole con il latte 8 . Incorporate anche il cocco rapé 9 . In ultimo unite i mirtilli 10 e mescolate delicatamente con una marisa 11 per ottenere un impasto omogeneo 12 . Versate l’impasto in uno stampo del diametro di 20 cm, imburrato e infarinato 13 . Cuocete in forno statico preriscaldato a 180ç per circa 40 minuti. Fate la prova stecchino prima di sfornare, poi lasciate raffreddare completamente la torta nello stampo. Una volta raffreddata, spolverizzate con zucchero a velo a piacere 14 . La vostra torta 5 minuti cocco e mirtilli è pronta per essere gustata 15 ! Conservazione La torta 5 minuti cocco e mirtilli si può conservare in frigorifero per 2 giorni. Potete congelarla a fette. Consiglio Al posto della farina potete utilizzare il cocco rapé per ricoprire lo stampo! Se non avete l’olio di cocco potete sostituirlo con la stessa dose di olio di semi di girasole, ma il risultato sarà meno aromatico. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Olio di cocco Mirtilli Latte Uovo Cocco Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta 5 minuti cocco e mirtilli Benessere Pastella per fiori di zucca 4.0 Pasta fredda con feta e pomodorini 5.0 SCOPRI Torta al cocco Torta ai mirtilli Torta cinque minuti Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice al cocco e mirtilli",
+      "Farina, zucchero, cocco rapè, mirtilli, olio",
+      "Mescola uova, zucchero e sale con frusta",
+      "Cuoci in forno statico a 180° per 40 minuti",
+      "Spolverizza con zucchero a velo prima di servire"
+    ],
+    "instagram_caption": "Una nuvola di cocco che si scioglie in bocca, con l'esplosione acidula dei mirtilli. 🌸 Sembra uscita da una pasticceria, e invece bastano 5 minuti per prepararla: mescoli uova, zucchero, un pizzico di sale, farina, cocco rapè e olio, poi aggiungi i mirtilli freschi. In forno a 180° per 40 minuti e il gioco è fatto. Al momento di servire, una spolverata di zucchero a velo la rende ancora più irresistibile. Soffice, profumata e perfetta per una colazione o una merenda speciale. 😍 Provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "Una nuvola di cocco che si scioglie in bocca, con l'esplosione acidula dei mirtilli. 🌸 Sembra uscita da una pasticceria, e invece bastano 5 minuti per prepararla: mescoli uova, zucchero, un pizzico di sale, farina, cocco rapè e olio, poi aggiungi i mirtilli freschi. In forno a 180° per 40 minuti e il gioco è fatto. Al momento di servire, una spolverata di zucchero a velo la rende ancora più irresistibile. Soffice, profumata e perfetta per una colazione o una merenda speciale. 😍 Provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Pronti per una torta velocissima?",
+          "Mescolo uova, zucchero e un pizzico di sale.",
+          "Aggiungo farina, cocco e mirtilli, giro.",
+          "Verso in teglia e inforno a 180° per 40 minuti.",
+          "Spolvero con zucchero a velo... ed è pronta!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Soffice come una nuvola, profuma di cocco e scoppia di mirtilli. Questa torta si prepara in 5 minuti e sparisce in 2. Il segreto? Pochi ingredienti e un gesto che fa tutta la differenza. 🍰",
+          "Farina, zucchero, cocco rapè, una manciata di mirtilli freschi (o surgelati) e olio. Niente burro, niente latte: resta leggera ma umida al punto giusto. Gli ingredienti li hai già in dispensa.",
+          "Il gesto chiave: monta uova, zucchero e un pizzico di sale con la frusta a mano. Niente sbattitore elettrico, solo energia e un minuto di movimento. L’impasto deve diventare gonfio e cremoso.",
+          "Via in forno statico a 180° per 40 minuti. I mirtilli affonderanno da soli creando un cuore viola che contrasta con la crosta dorata. Non aprite lo sportello prima dei 35 minuti, o crolla.",
+          "Spolvera con zucchero a velo quando è ancora tiepida: sembra neve sul cocco. Tagliala a fette e mangiala da sola o con una pallina di gelato. Provala e dimmi com’è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pronti per una torta velocissima?",
+      "Mescolo uova, zucchero e un pizzico di sale.",
+      "Aggiungo farina, cocco e mirtilli, giro.",
+      "Verso in teglia e inforno a 180° per 40 minuti.",
+      "Spolvero con zucchero a velo... ed è pronta!"
+    ],
+    "thread_text": [
+      "Soffice come una nuvola, profuma di cocco e scoppia di mirtilli. Questa torta si prepara in 5 minuti e sparisce in 2. Il segreto? Pochi ingredienti e un gesto che fa tutta la differenza. 🍰",
+      "Farina, zucchero, cocco rapè, una manciata di mirtilli freschi (o surgelati) e olio. Niente burro, niente latte: resta leggera ma umida al punto giusto. Gli ingredienti li hai già in dispensa.",
+      "Il gesto chiave: monta uova, zucchero e un pizzico di sale con la frusta a mano. Niente sbattitore elettrico, solo energia e un minuto di movimento. L’impasto deve diventare gonfio e cremoso.",
+      "Via in forno statico a 180° per 40 minuti. I mirtilli affonderanno da soli creando un cuore viola che contrasta con la crosta dorata. Non aprite lo sportello prima dei 35 minuti, o crolla.",
+      "Spolvera con zucchero a velo quando è ancora tiepida: sembra neve sul cocco. Tagliala a fette e mangiala da sola o con una pallina di gelato. Provala e dimmi com’è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta 5 minuti: cocco e mirtilli",
+        "description": "Una torta soffice e profumata, pronta in 5 minuti di preparazione. Perfetta per colazione o merenda.",
+        "visual_hint": "Torta intera su piatto bianco",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "coconut blueberry cake"
+      },
+      {
+        "hook": "4 ingredienti chiave",
+        "description": "Farina, zucchero, cocco rapè e mirtilli: bastano pochi elementi per un dolce dal sapore unico.",
+        "visual_hint": "Ingredienti disposti sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cake ingredients bowl",
+        "image": "https://images.pexels.com/photos/7965966/pexels-photo-7965966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola tutto a mano",
+        "description": "In una ciotola, mescola uova, zucchero e sale con una frusta a mano fino a ottenere un composto liscio.",
+        "visual_hint": "Frusta che mescola in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand whisking batter",
+        "image": "https://images.pexels.com/photos/6578894/pexels-photo-6578894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "40 minuti in forno",
+        "description": "Cuoci in forno statico a 180° per 40 minuti: la torta sarà dorata e soffice.",
+        "visual_hint": "Teglia nel forno acceso",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cake baking oven",
+        "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera di zucchero a velo",
+        "description": "Prima di servire, spolverizza con zucchero a velo per un tocco elegante e dolce.",
+        "visual_hint": "Mano che spolvera zucchero",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "powdered sugar dusting cake",
+        "image": "https://images.pexels.com/photos/9815779/pexels-photo-9815779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "cocco rapè",
+      "mirtilli",
+      "olio di semi"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36400/Torta-5-minuti-cocco-e-mirtilli_650x433_wm.jpg",
+    "savedAt": "2026-07-03T10:31:58.655Z",
+    "sourceId": "5a432d5085cf1771df06845e3a413d90"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-fredda-con-feta-e-pomodorini",
     "prompt_version": "1.0.0",
     "status": "published",

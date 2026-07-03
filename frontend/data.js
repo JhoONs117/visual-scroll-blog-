@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "takeda-signs-us-600m-ai-drug-discovery-deal-with-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+    "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "pubDate": "Fri, 03 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "Takeda bets $600M on AI — can it deliver new drugs?",
+      "Insilico found a lung fibrosis target without wet lab",
+      "But its AI still fails on half of preclinical tests",
+      "Takeda now funds Phase I for that one candidate",
+      "Check Insilico's clinical trial results before betting"
+    ],
+    "thread_text": [
+      "1. $600M bet on AI\n\nTakeda just wrote a check for $600 million to back an AI drug from Insilico. The candidate: a lung fibrosis treatment.",
+      "2. AI discovered the target\n\nInsilico's platform found the fibrosis target without a single wet lab experiment. Pure digital pattern recognition.",
+      "3. But half the AI drugs fail\n\nInsilico's own AI still fails on about 50% of preclinical tests. The algorithm is not a guarantee.",
+      "4. Phase I starts now\n\nTakeda is funding the first human trial for that one Insilico candidate. Real risk shifts to the clinic.",
+      "5. Check the trial results\n\nBefore you assume the AI bet pays off, look up Insilico's past clinical trial outcomes. Have any passed Phase II?"
+    ],
+    "video_script": [
+      "Takeda bets 600 million on AI drugs.",
+      "The AI found a target without lab work.",
+      "Yet half of AI drugs fail preclinical tests.",
+      "Takeda now funds the first human trial.",
+      "Check Insilico's past trial results first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $600M bet on AI\n\nTakeda just wrote a check for $600 million to back an AI drug from Insilico. The candidate: a lung fibrosis treatment.",
+          "2. AI discovered the target\n\nInsilico's platform found the fibrosis target without a single wet lab experiment. Pure digital pattern recognition.",
+          "3. But half the AI drugs fail\n\nInsilico's own AI still fails on about 50% of preclinical tests. The algorithm is not a guarantee.",
+          "4. Phase I starts now\n\nTakeda is funding the first human trial for that one Insilico candidate. Real risk shifts to the clinic.",
+          "5. Check the trial results\n\nBefore you assume the AI bet pays off, look up Insilico's past clinical trial outcomes. Have any passed Phase II?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Takeda bets 600 million on AI drugs.",
+          "The AI found a target without lab work.",
+          "Yet half of AI drugs fail preclinical tests.",
+          "Takeda now funds the first human trial.",
+          "Check Insilico's past trial results first."
+        ]
+      },
+      "instagram": {
+        "caption": "A Japanese pharma giant just put $600M behind an AI-discovered drug for lung fibrosis — but Insilico’s own algorithm still fails half its preclinical tests. 🧪\n\nThe AI found that target using zero wet-lab experiments — pure pattern recognition. Takeda is now funding Phase I human trials for that one candidate. 💊\n\nIf you’re a biotech writer or analyst, this deal doesn’t prove AI works — it proves the risk just moved to the clinic. 📉\n\nHave you checked Insilico’s past Phase II results? One survivor yet? 🔍"
+      }
+    },
+    "instagram_caption": "A Japanese pharma giant just put $600M behind an AI-discovered drug for lung fibrosis — but Insilico’s own algorithm still fails half its preclinical tests. 🧪\n\nThe AI found that target using zero wet-lab experiments — pure pattern recognition. Takeda is now funding Phase I human trials for that one candidate. 💊\n\nIf you’re a biotech writer or analyst, this deal doesn’t prove AI works — it proves the risk just moved to the clinic. 📉\n\nHave you checked Insilico’s past Phase II results? One survivor yet? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Half of AI drugs fail.",
+        "description": "Insilico's own AI misses 50% of preclinical tests. Takeda just bet $600M on one candidate anyway.",
+        "visual_hint": "Failing graph arrow down",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "AI found target without lab.",
+        "description": "Insilico's platform identified a lung fibrosis target using pure digital pattern recognition. No wet lab needed.",
+        "visual_hint": "Digital brain network",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why does AI still fail?",
+        "description": "Insilico's algorithm fails on about 50% of preclinical tests. The algorithm is no guarantee of success.",
+        "visual_hint": "Microscope with question",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laboratory equipment",
+        "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Phase I starts now.",
+        "description": "Takeda funds the first human trial for that one Insilico candidate. Real risk now shifts to the clinic.",
+        "visual_hint": "Clinician holding tablet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check clinical trial results.",
+        "description": "Search Insilico's past Phase II outcomes online. Have any succeeded? Don't assume the AI bet pays off.",
+        "visual_hint": "Search bar with magnifier",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "futuristic city skyline",
+        "image": "https://images.pexels.com/photos/35014191/pexels-photo-35014191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-03T10:27:13.666Z",
+    "sourceId": "edad82dcc6d19154ef4b64355951f37f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "travel-app-hopper-to-pay-35m-in-ftc-settlement-ove",
     "prompt_version": "1.0.0",
     "status": "published",
