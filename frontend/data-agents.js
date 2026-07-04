@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "what-is-mistral-ai-everything-to-know-about-the-op",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "slides": [
+        "Can a French startup beat OpenAI at its own game?",
+        "Mistral AI was founded by former Meta and Google researchers.",
+        "Their first model outperformed GPT-3 on several benchmarks.",
+        "You can run Mistral models locally on your own hardware.",
+        "Download a model today and test its reasoning yourself."
+      ],
+      "thread_text": [
+        "1. Can Mistral beat OpenAI?\n\nTheir first model already outperformed GPT-3 on multiple benchmarks.",
+        "2. Built by ex-Meta and Google researchers.\n\nThese are not garage coders — they shipped state-of-the-art models from day one.",
+        "3. Runs locally on your hardware.\n\nNo cloud dependency, no data leaving your machine. Full privacy and offline inference.",
+        "4. You can download it today.\n\nTest the same reasoning that topped benchmarks — right on your own laptop.",
+        "5. Take a prompt from ChatGPT and run it on Mistral.\n\nIf the local model's answer matches, why pay per token?"
+      ],
+      "video_script": [
+        "French startup challenges OpenAI with new model.",
+        "Founded by ex-Meta and Google researchers.",
+        "It outperformed GPT-3 on several benchmarks.",
+        "You can run Mistral locally on your hardware.",
+        "Download a model and test its reasoning now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Mistral beat OpenAI?\n\nTheir first model already outperformed GPT-3 on multiple benchmarks.",
+            "2. Built by ex-Meta and Google researchers.\n\nThese are not garage coders — they shipped state-of-the-art models from day one.",
+            "3. Runs locally on your hardware.\n\nNo cloud dependency, no data leaving your machine. Full privacy and offline inference.",
+            "4. You can download it today.\n\nTest the same reasoning that topped benchmarks — right on your own laptop.",
+            "5. Take a prompt from ChatGPT and run it on Mistral.\n\nIf the local model's answer matches, why pay per token?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "French startup challenges OpenAI with new model.",
+            "Founded by ex-Meta and Google researchers.",
+            "It outperformed GPT-3 on several benchmarks.",
+            "You can run Mistral locally on your hardware.",
+            "Download a model and test its reasoning now."
+          ]
+        },
+        "instagram": {
+          "caption": "A Mistral model already beat GPT-3 on several benchmarks, and you can run it right now on your own laptop.\n\nThis French startup was built by ex-Meta and Google researchers, so their first model wasn't a garage experiment 🤖. They shipped competitive performance without locking you into a cloud.\n\nSince the model runs locally on your hardware, no data leaves your machine and you get full privacy offline.\n\nTake a prompt you usually send to ChatGPT and run it on Mistral instead. If the answer matches, why keep paying per token for a cloud service? 💻🔓"
+        }
+      },
+      "instagram_caption": "A Mistral model already beat GPT-3 on several benchmarks, and you can run it right now on your own laptop.\n\nThis French startup was built by ex-Meta and Google researchers, so their first model wasn't a garage experiment 🤖. They shipped competitive performance without locking you into a cloud.\n\nSince the model runs locally on your hardware, no data leaves your machine and you get full privacy offline.\n\nTake a prompt you usually send to ChatGPT and run it on Mistral instead. If the answer matches, why keep paying per token for a cloud service? 💻🔓",
+      "carousel_slides": [
+        {
+          "hook": "Can a startup beat OpenAI?",
+          "description": "First Mistral model already outperformed GPT-3 on multiple key benchmarks.",
+          "visual_hint": "racing track with two runners",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "racing track"
+        },
+        {
+          "hook": "Ex-Google and Meta researchers.",
+          "description": "Founders shipped state-of-the-art models day one, not garage coders.",
+          "visual_hint": "lab coats over code screens",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "research lab computers",
+          "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Runs entirely on your hardware.",
+          "description": "No cloud needed, full privacy and offline inference on local machine.",
+          "visual_hint": "laptop with no cloud icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop desk",
+          "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Download and test it today.",
+          "description": "Run the same benchmark-topping reasoning right on your own laptop.",
+          "visual_hint": "finger pressing download button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pressing button",
+          "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and try Mistral now.",
+          "description": "Download a model today and compare its answers to ChatGPT for free.",
+          "visual_hint": "link icon with download arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "download arrow icon",
+          "image": "https://images.pexels.com/photos/9876381/pexels-photo-9876381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+      "savedAt": "2026-07-04T16:55:03.242Z",
+      "sourceId": "a00e4ef278625b986a9fcbd765e84ef4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-fanfiction-community-is-at-war-with-ai-and-its",
       "prompt_version": "1.0.0",
       "status": "published",
