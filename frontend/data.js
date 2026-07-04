@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-only-ai-glossary-you-ll-need-this-year",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The only AI glossary you’ll need this year",
+    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000",
+    "slides": [
+      "Why is everyone speaking a new AI language?",
+      "Most terms like 'LLM' are just buzzwords to you.",
+      "One concept, 'embeddings', actually powers all chatbots.",
+      "Your next search tool will think in vectors, not keywords.",
+      "Learn embeddings today, or stay lost tomorrow."
+    ],
+    "thread_text": [
+      "1. Why a new AI language?\n\nYour search for 'best pizza' returns pages with exact match. Embeddings return pizzerias that serve marinara, even if the word 'pizza' never appears.",
+      "2. Embeddings are the engine.\n\nEvery chatbot you talk to converts your words into a list of numbers — a vector. That vector captures meaning, not just spelling.",
+      "3. Think in vectors.\n\nInstead of matching keywords, your next search tool will find documents whose vectors point in the same direction as your query's vector. No keywords needed.",
+      "4. You already use them.\n\nEvery time ChatGPT finishes your sentence, it's deploying embeddings. They let the model guess the next most likely word based on semantic proximity.",
+      "5. Learn embeddings today.\n\nPull up any chatbot and ask: 'What's the nearest word to 'fast' in your embedding space?' If it says 'quick', you just witnessed the core mechanism."
+    ],
+    "video_script": [
+      "Embeddings make chatbots understand meaning, not just words.",
+      "They turn each word into a set of numbers.",
+      "Those numbers find related concepts without exact matches.",
+      "Your next search will use them instead of keywords.",
+      "Test it now: ask a chatbot for a nearby word."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why a new AI language?\n\nYour search for 'best pizza' returns pages with exact match. Embeddings return pizzerias that serve marinara, even if the word 'pizza' never appears.",
+          "2. Embeddings are the engine.\n\nEvery chatbot you talk to converts your words into a list of numbers — a vector. That vector captures meaning, not just spelling.",
+          "3. Think in vectors.\n\nInstead of matching keywords, your next search tool will find documents whose vectors point in the same direction as your query's vector. No keywords needed.",
+          "4. You already use them.\n\nEvery time ChatGPT finishes your sentence, it's deploying embeddings. They let the model guess the next most likely word based on semantic proximity.",
+          "5. Learn embeddings today.\n\nPull up any chatbot and ask: 'What's the nearest word to 'fast' in your embedding space?' If it says 'quick', you just witnessed the core mechanism."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Embeddings make chatbots understand meaning, not just words.",
+          "They turn each word into a set of numbers.",
+          "Those numbers find related concepts without exact matches.",
+          "Your next search will use them instead of keywords.",
+          "Test it now: ask a chatbot for a nearby word."
+        ]
+      },
+      "instagram": {
+        "caption": "Your search for \"best pizza\" will now rank a pizzeria that serves marinara sauce, even if the word \"pizza\" never appears on the page. 🍕\n\nThat's because every modern chatbot converts your words into a list of numbers — a vector — capturing meaning, not exact spelling. Your next search tool will find documents whose vectors point in the same direction as your query, no keywords required. 🔍\n\nIf you publish content, your old SEO strategy of repeating exact phrases just died. You now need to write for semantic meaning, not word-matching.\n\nWhat word does your own chatbot consider closest to \"fast\" — and is your content pointing in the same direction as your audience's questions?"
+      }
+    },
+    "instagram_caption": "Your search for \"best pizza\" will now rank a pizzeria that serves marinara sauce, even if the word \"pizza\" never appears on the page. 🍕\n\nThat's because every modern chatbot converts your words into a list of numbers — a vector — capturing meaning, not exact spelling. Your next search tool will find documents whose vectors point in the same direction as your query, no keywords required. 🔍\n\nIf you publish content, your old SEO strategy of repeating exact phrases just died. You now need to write for semantic meaning, not word-matching.\n\nWhat word does your own chatbot consider closest to \"fast\" — and is your content pointing in the same direction as your audience's questions?",
+    "carousel_slides": [
+      {
+        "hook": "AI speaking a new language?",
+        "description": "Keyword search looks for exact words. Embeddings find meaning, even if keywords are missing.",
+        "visual_hint": "pizza slice with search bar",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "pizza slice search bar"
+      },
+      {
+        "hook": "Embeddings are the engine.",
+        "description": "Chatbots convert your words into numbered vectors. That vector captures meaning, not just spelling.",
+        "visual_hint": "numbers flowing into speech bubble",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "speech bubble numbers",
+        "image": "https://images.pexels.com/photos/8015677/pexels-photo-8015677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Think in vectors, not keywords.",
+        "description": "Next-gen search finds documents with vectors pointing same direction as your query. No keywords needed.",
+        "visual_hint": "arrow pointing to matching arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "two arrows matching",
+        "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You use them every day.",
+        "description": "When ChatGPT finishes your sentence, embeddings predict the next word based on semantic proximity.",
+        "visual_hint": "hand typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to learn embeddings.",
+        "description": "Ask any chatbot: 'What's the nearest word to fast?' If it says quick, you saw embeddings work.",
+        "visual_hint": "chatbot reply saying quick",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chatbot response quick",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+    "savedAt": "2026-07-04T02:03:17.017Z",
+    "sourceId": "eeb0f69b3cf9f1b86a6b14e70444304a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "popular-tv-tracking-app-tv-time-is-shutting-down-a",
     "prompt_version": "1.0.0",
     "status": "published",
