@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "new-google-commercial-imagines-a-declaration-of-in",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "pubDate": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "slides": [
+        "Should America's founding documents be co-written by AI?",
+        "Google's new ad envisions a machine-aided Declaration.",
+        "But it was an unauthorized edit that sparked the most outrage.",
+        "You now must decide where human authorship ends.",
+        "Test your own drafts against AI before anyone else does."
+      ],
+      "thread_text": [
+        "1. AI rewrote the Declaration.\n\nGoogle released an ad showing AI helping draft the founding documents. But the backlash came from something else entirely.\n\nThe unauthorized edit was worse than the ad itself.",
+        "2. The edit no one signed.\n\nThe outrage wasn't about AI writing history. It was about someone changing the text without permission. The line between tool and author blurred.\n\nThat edit became the real story. No one asked who pressed delete.",
+        "3. Who owns the last word?\n\nIf a machine suggests changes, and a human clicks accept, who is the author? The answer determines copyright, accountability, and truth.\n\nCourts haven't ruled on this yet.",
+        "4. Your draft vs. the machine.\n\nThe slides invite you to test your own writing against AI. Not for curiosity—for proof. The gap might be smaller than you think.\n\nTry it once and the question becomes personal.",
+        "5. Run your own test today.\n\nOpen a draft you wrote. Paste it into ChatGPT. Ask for three edits to make it more persuasive. Does it feel like yours anymore?\n\nIf not, where do you draw the line?"
+      ],
+      "video_script": [
+        "AI helped draft the Declaration.",
+        "But an unauthorized edit sparked outrage.",
+        "Who decides where human authorship ends?",
+        "Test your drafts against AI now.",
+        "Where do you draw the line?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI rewrote the Declaration.\n\nGoogle released an ad showing AI helping draft the founding documents. But the backlash came from something else entirely.\n\nThe unauthorized edit was worse than the ad itself.",
+            "2. The edit no one signed.\n\nThe outrage wasn't about AI writing history. It was about someone changing the text without permission. The line between tool and author blurred.\n\nThat edit became the real story. No one asked who pressed delete.",
+            "3. Who owns the last word?\n\nIf a machine suggests changes, and a human clicks accept, who is the author? The answer determines copyright, accountability, and truth.\n\nCourts haven't ruled on this yet.",
+            "4. Your draft vs. the machine.\n\nThe slides invite you to test your own writing against AI. Not for curiosity—for proof. The gap might be smaller than you think.\n\nTry it once and the question becomes personal.",
+            "5. Run your own test today.\n\nOpen a draft you wrote. Paste it into ChatGPT. Ask for three edits to make it more persuasive. Does it feel like yours anymore?\n\nIf not, where do you draw the line?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI helped draft the Declaration.",
+            "But an unauthorized edit sparked outrage.",
+            "Who decides where human authorship ends?",
+            "Test your drafts against AI now.",
+            "Where do you draw the line?"
+          ]
+        },
+        "instagram": {
+          "caption": "A Google ad just showed an AI helping draft the Declaration of Independence — and the backlash wasn’t about the machine, but about someone editing that draft without permission.\n\nThe unauthorized edit became the real story. The question isn’t whether AI can write, but who gets to press delete. Courts still haven’t ruled on where human authorship ends.\n\nIf you use AI to polish a draft, and accept a suggestion, is it still yours? 📜⚖️\n\nOpen something you wrote. Ask ChatGPT for three edits to make it more persuasive. Does it still feel like yours? Where do you draw that line? ✍️🤖"
+        }
+      },
+      "instagram_caption": "A Google ad just showed an AI helping draft the Declaration of Independence — and the backlash wasn’t about the machine, but about someone editing that draft without permission.\n\nThe unauthorized edit became the real story. The question isn’t whether AI can write, but who gets to press delete. Courts still haven’t ruled on where human authorship ends.\n\nIf you use AI to polish a draft, and accept a suggestion, is it still yours? 📜⚖️\n\nOpen something you wrote. Ask ChatGPT for three edits to make it more persuasive. Does it still feel like yours? Where do you draw that line? ✍️🤖",
+      "carousel_slides": [
+        {
+          "hook": "Who really owns your words?",
+          "description": "Google's ad showed AI drafting the Declaration. The real outrage came from an unauthorized edit to the text.",
+          "visual_hint": "quill pen deleted",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer keyboard quill"
+        },
+        {
+          "hook": "The edit no one approved.",
+          "description": "The backlash wasn't AI writing history. It was someone changing text without permission. Authorship blurred.",
+          "visual_hint": "hand pressing delete",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "delete key closeup",
+          "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Does AI own your final draft?",
+          "description": "If a machine suggests changes and you click accept, who is the author? Courts haven't ruled yet.",
+          "visual_hint": "courtroom seal gavel",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "courtroom judge gavel",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your draft against AI.",
+          "description": "Paste your writing into ChatGPT. Ask for three persuasive edits. Does it still feel like yours?",
+          "visual_hint": "ChatGPT screen edit",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop ChatGPT screen",
+          "image": "https://images.pexels.com/photos/16037278/pexels-photo-16037278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run your own test now.",
+          "description": "Open a draft you wrote. Ask AI to edit it. If it no longer feels yours, where do you draw the line?",
+          "visual_hint": "hand holding phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone ChatGPT app",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+      "savedAt": "2026-07-04T22:49:43.563Z",
+      "sourceId": "4aeb7d2c2c2424535911a393be0f1bfb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "midjourney-wants-hollywood-studios-to-reveal-the-d",
       "prompt_version": "1.0.0",
       "status": "published",
