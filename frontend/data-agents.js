@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-fanfiction-community-is-at-war-with-ai-and-its",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "pubDate": "2026-07-04T12:00:00.000Z",
+      "slides": [
+        "Who decided AI owns fanfiction's soul?",
+        "A platform just banned AI works outright.",
+        "But most 'human' writers already use AI tools.",
+        "Your next favorite story may be a lie.",
+        "Pick a side before you post again."
+      ],
+      "thread_text": [
+        "1. Who owns your story?\n\nA platform just banned all AI-generated works outright, drawing a hard line in the sand.",
+        "2. But the line is blurry.\n\nMost 'human' writers already rely on AI tools for grammar, structure, and plot ideas.",
+        "3. The real twist.\n\nYour next favorite novel might be written by a model you don't even know exists.",
+        "4. Trust is the casualty.\n\nEvery new story now carries a hidden question: was this written or generated?",
+        "5. Pick a side today.\n\nTake your next writing session and simulate ChatGPT drafting a full paragraph. Then compare your editing time to the time saved."
+      ],
+      "video_script": [
+        "A platform just banned all AI writing.",
+        "But most human writers already use AI.",
+        "Your next favorite story could be fake.",
+        "Trust in storytelling is now broken.",
+        "Simulate it yourself before you post."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who owns your story?\n\nA platform just banned all AI-generated works outright, drawing a hard line in the sand.",
+            "2. But the line is blurry.\n\nMost 'human' writers already rely on AI tools for grammar, structure, and plot ideas.",
+            "3. The real twist.\n\nYour next favorite novel might be written by a model you don't even know exists.",
+            "4. Trust is the casualty.\n\nEvery new story now carries a hidden question: was this written or generated?",
+            "5. Pick a side today.\n\nTake your next writing session and simulate ChatGPT drafting a full paragraph. Then compare your editing time to the time saved."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A platform just banned all AI writing.",
+            "But most human writers already use AI.",
+            "Your next favorite story could be fake.",
+            "Trust in storytelling is now broken.",
+            "Simulate it yourself before you post."
+          ]
+        },
+        "instagram": {
+          "caption": "A major fanfiction platform just banned all AI-generated works, drawing a clear line in the sand.\n\nBut here’s the problem: many writers already lean on AI for grammar, structure, or plot ideas. The line between \"human\" and \"machine\" isn't just blurred—it’s invisible.\n\nNow, every new story comes with a hidden question: was this created or generated? 🖋️\n\nTrust is the casualty here 😶. For creators, it means your next favorite novel might be written by a model you never knew existed.\n\nNext time you sit down to write ✍️, ask yourself: would I still stand by my story if I learned it was half-written by a tool I didn't disclose?"
+        }
+      },
+      "instagram_caption": "A major fanfiction platform just banned all AI-generated works, drawing a clear line in the sand.\n\nBut here’s the problem: many writers already lean on AI for grammar, structure, or plot ideas. The line between \"human\" and \"machine\" isn't just blurred—it’s invisible.\n\nNow, every new story comes with a hidden question: was this created or generated? 🖋️\n\nTrust is the casualty here 😶. For creators, it means your next favorite novel might be written by a model you never knew existed.\n\nNext time you sit down to write ✍️, ask yourself: would I still stand by my story if I learned it was half-written by a tool I didn't disclose?",
+      "carousel_slides": [
+        {
+          "hook": "Your next favorite story is a lie.",
+          "description": "A platform banned AI works, but most writers already use AI for grammar and plots.",
+          "visual_hint": "fingers typing on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hands typing keyboard"
+        },
+        {
+          "hook": "Who owns your story now?",
+          "description": "A major platform draws a hard line, banning AI-generated works completely.",
+          "visual_hint": "parchment with red stamp",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "document red stamp",
+          "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The line between human and AI is blurry.",
+          "description": "Most human writers already use AI for grammar, structure, and plot ideas.",
+          "visual_hint": "blurry text on monitor",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen text",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every new story hides a question.",
+          "description": "Trust erodes as readers wonder: was this written or generated?",
+          "visual_hint": "question mark on page",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "open book question",
+          "image": "https://images.pexels.com/photos/28426413/pexels-photo-28426413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Comment your side before you scroll.",
+          "description": "Simulate ChatGPT drafting a paragraph. Compare your editing time to time saved.",
+          "visual_hint": "phone with comment icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chat bubbles",
+          "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-04T13:03:07.764Z",
+      "sourceId": "f87cfe76151d6d28d3b19b0060f0c3e5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-only-ai-glossary-you-ll-need-this-year",
       "prompt_version": "1.0.0",
       "status": "published",
