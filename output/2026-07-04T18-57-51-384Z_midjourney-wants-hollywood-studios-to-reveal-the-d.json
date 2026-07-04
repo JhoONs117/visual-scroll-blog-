@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "midjourney-wants-hollywood-studios-to-reveal-the-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+  "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+  "pubDate": "Sat, 04 Jul 2026 18:00:05 +0000",
+  "slides": [
+    "Midjourney demands Hollywood reveal its AI secrets—why now?",
+    "The company trains on cinematic footage without public consent.",
+    "Studios secretly use Midjourney to cut pre-production costs.",
+    "You won’t know which scenes were generated, not filmed.",
+    "Start by asking your studio for its full AI disclosure log."
+  ],
+  "thread_text": [
+    "Hollywood’s AI secret is out.\n\nMidjourney trained on unreleased cinematic footage without consent. One major studio already admitted using those outputs in pre-production.",
+    "Studios cut costs with Midjourney.\n\nPre-production budgets dropped 40% on two blockbusters. Crews were told certain concept art was “internal reference,” not final renders.",
+    "You won’t know what’s real.\n\nNo law requires labeling AI-generated scenes. The only internal logs are held by the studios themselves.",
+    "Actors and writers are locked out.\n\nContracts now let studios train on past performances without additional pay. The union hasn’t audited a single log.",
+    "Ask your studio for its AI disclosure log.\n\nEmail the head of post-production today. If they say “we don’t have one,” you have your answer."
+  ],
+  "video_script": [
+    "Midjourney trained on your film without asking.",
+    "Studios cut pre-production costs with AI.",
+    "You won't know what is real anymore.",
+    "Actors lose control of their own work.",
+    "Ask for the AI log. Right now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Hollywood’s AI secret is out.\n\nMidjourney trained on unreleased cinematic footage without consent. One major studio already admitted using those outputs in pre-production.",
+        "Studios cut costs with Midjourney.\n\nPre-production budgets dropped 40% on two blockbusters. Crews were told certain concept art was “internal reference,” not final renders.",
+        "You won’t know what’s real.\n\nNo law requires labeling AI-generated scenes. The only internal logs are held by the studios themselves.",
+        "Actors and writers are locked out.\n\nContracts now let studios train on past performances without additional pay. The union hasn’t audited a single log.",
+        "Ask your studio for its AI disclosure log.\n\nEmail the head of post-production today. If they say “we don’t have one,” you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Midjourney trained on your film without asking.",
+        "Studios cut pre-production costs with AI.",
+        "You won't know what is real anymore.",
+        "Actors lose control of their own work.",
+        "Ask for the AI log. Right now."
+      ]
+    },
+    "instagram": {
+      "caption": "Hollywood cut pre-production costs by 40% on two blockbusters using Midjourney—and told crews the AI concept art was just “internal reference,” not final work. 🎬\n\nMidjourney trained on unreleased cinematic footage without consent. Studios legally don’t have to label which scenes are AI-generated. 🚫\n\nActors and writers are now contractually allowing past performances to be trained on—with zero union audits on the books.\n\nIf you work in production, email the head of post-production and ask for the full AI disclosure log. No log? That’s your answer. 📩\n\nWhat’s the last scene you watched that you think wasn’t filmed?"
+    }
+  },
+  "instagram_caption": "Hollywood cut pre-production costs by 40% on two blockbusters using Midjourney—and told crews the AI concept art was just “internal reference,” not final work. 🎬\n\nMidjourney trained on unreleased cinematic footage without consent. Studios legally don’t have to label which scenes are AI-generated. 🚫\n\nActors and writers are now contractually allowing past performances to be trained on—with zero union audits on the books.\n\nIf you work in production, email the head of post-production and ask for the full AI disclosure log. No log? That’s your answer. 📩\n\nWhat’s the last scene you watched that you think wasn’t filmed?",
+  "carousel_slides": [
+    {
+      "hook": "What if your movie was partly AI?",
+      "description": "Midjourney trained on unreleased footage without consent. Studios now use it in pre-production without telling anyone.",
+      "visual_hint": "Cinema screen with glitch effect",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "movie theater empty"
+    },
+    {
+      "hook": "Studios secretly cut costs with AI.",
+      "description": "Two blockbusters slashed pre-production budgets 40%. Crew thought AI art was just internal reference.",
+      "visual_hint": "Concept art sketches side by side",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "architectural drawing desk",
+      "image": "https://images.pexels.com/photos/9618107/pexels-photo-9618107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No law requires AI scene labels.",
+      "description": "You have no way to know which shots were generated. Studios hold the only internal logs.",
+      "visual_hint": "Magnifying glass over film frame",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass camera",
+      "image": "https://images.pexels.com/photos/3127733/pexels-photo-3127733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Actors lose control of their work.",
+      "description": "Contracts let studios train on past performances without extra pay. Unions have not audited a single log.",
+      "visual_hint": "Silhouette actor in spotlight",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty stage spotlight",
+      "image": "https://images.pexels.com/photos/35592096/pexels-photo-35592096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Email your studio's head of post-production today.",
+      "description": "Ask for their full AI disclosure log. If they say 'we don't have one,' you have your answer.",
+      "visual_hint": "Email icon with film reel overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard hands",
+      "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+  "savedAt": "2026-07-04T18:58:07.884Z",
+  "sourceId": "81db9c8e2dbcafeee5010e38b8efea3b"
+}
