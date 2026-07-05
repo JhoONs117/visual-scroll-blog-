@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "infuriating-google-commercial-imagines-the-foundin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+  "pubDate": "2026-07-05T14:23:11.000Z",
+  "slides": [
+    "That Google ad with the founding fathers—why does it infuriate so many?",
+    "It shows Washington and Jefferson using AI to draft the Constitution.",
+    "Historians actually say the founders feared centralized power, not embraced it.",
+    "Your own historical arguments now risk being dismissed as outdated.",
+    "Check the ad's source material before citing AI in your next debate."
+  ],
+  "thread_text": [
+    "1. Why the ad infuriates\n\nHistorians say the founders actually feared centralized power, not embraced it.",
+    "2. Google’s historical rewrite\n\nThe ad shows Washington and Jefferson using AI to draft the Constitution — a myth.",
+    "3. Your arguments at risk\n\nIf you cite that ad, your historical claims get dismissed as outdated.",
+    "4. The real cost of shortcuts\n\nUsing AI without checking sources can destroy your credibility instantly.",
+    "5. Check before you cite\n\nOpen the ad’s source material and compare it to the founding documents. Have you?"
+  ],
+  "video_script": [
+    "Founding fathers ad angers historians.",
+    "They feared centralized power, not loved it.",
+    "Your historical arguments risk being dismissed.",
+    "AI without source check kills credibility.",
+    "Check the ad before you debate."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the ad infuriates\n\nHistorians say the founders actually feared centralized power, not embraced it.",
+        "2. Google’s historical rewrite\n\nThe ad shows Washington and Jefferson using AI to draft the Constitution — a myth.",
+        "3. Your arguments at risk\n\nIf you cite that ad, your historical claims get dismissed as outdated.",
+        "4. The real cost of shortcuts\n\nUsing AI without checking sources can destroy your credibility instantly.",
+        "5. Check before you cite\n\nOpen the ad’s source material and compare it to the founding documents. Have you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Founding fathers ad angers historians.",
+        "They feared centralized power, not loved it.",
+        "Your historical arguments risk being dismissed.",
+        "AI without source check kills credibility.",
+        "Check the ad before you debate."
+      ]
+    },
+    "instagram": {
+      "caption": "A founding father who handed Washington a quill might be rolling in his grave — because Google’s ad shows them drafting the U.S. Constitution with AI. Historians actually say the founders feared centralized power, not enthusiastically outsourced the country’s founding to it 📜\n\nThe ad rewrites a core historical truth to sell a product. If you cite that commercial as a shortcut, your own claims get dismissed as outdated or fabricated.\n\nYour reputation depends on source-checking, not vibes. Have you opened the ad’s citations and compared them to federalist papers — or just hit ‘post’? 🔍"
+    }
+  },
+  "instagram_caption": "A founding father who handed Washington a quill might be rolling in his grave — because Google’s ad shows them drafting the U.S. Constitution with AI. Historians actually say the founders feared centralized power, not enthusiastically outsourced the country’s founding to it 📜\n\nThe ad rewrites a core historical truth to sell a product. If you cite that commercial as a shortcut, your own claims get dismissed as outdated or fabricated.\n\nYour reputation depends on source-checking, not vibes. Have you opened the ad’s citations and compared them to federalist papers — or just hit ‘post’? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Founding fathers feared AI?",
+      "description": "Historians note the founders feared centralized power, not embraced AI for drafting the Constitution.",
+      "visual_hint": "Founding fathers statue debating",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "founding fathers statue"
+    },
+    {
+      "hook": "Google rewrote history.",
+      "description": "The ad shows Washington and Jefferson using AI to draft the Constitution — a dangerous myth.",
+      "visual_hint": "Google logo with quill",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Google office building",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your arguments get dismissed.",
+      "description": "Citing that ad in debates labels your historical claims as outdated and unreliable.",
+      "visual_hint": "Person shrugging at screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person sitting desk",
+      "image": "https://images.pexels.com/photos/7580752/pexels-photo-7580752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Shortcuts destroy credibility.",
+      "description": "Using AI without source checks can instantly ruin your reputation in any discussion.",
+      "visual_hint": "Broken chain on documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check sources first.",
+      "description": "Open the ad's source material and compare it to the founding documents right now.",
+      "visual_hint": "Hand tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-07-05T19:03:21.808Z",
+  "sourceId": "c597736af88d2090bd3e25e61afaf5e6"
+}
