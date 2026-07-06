@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "vercel-ceo-guillermo-rauch-on-the-fight-to-split-o",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "pubDate": "Mon, 06 Jul 2026 19:49:10 +0000",
+      "slides": [
+        "Why does Vercel's CEO want to split models from agents?",
+        "Agents today bundle reasoning with execution tightly.",
+        "Rauch argues models should stay pure, agents should act.",
+        "Decoupling lets each layer evolve independently and faster.",
+        "Your next app's agent can swap models without rewriting."
+      ],
+      "thread_text": [
+        "1. Split models from agents?\n\nVercel's CEO argues bundling them is the bottleneck holding AI back.",
+        "2. Reasoning tied to execution\n\nAgents today can't swap brains without breaking their hands.",
+        "3. Keep models pure\n\nLet them think. Let agents act. Separate the two layers entirely.",
+        "4. Decouple to accelerate\n\nEach layer evolves on its own clock, not stuck waiting for the other.",
+        "5. Swap models without rewrites\n\nTake your current agent, swap its brain, and keep the actions. Test it this week."
+      ],
+      "video_script": [
+        "Why separate models from agents?",
+        "Agents bundle thinking with doing.",
+        "Keep models pure, agents act.",
+        "Decoupling speeds up each layer.",
+        "Swap models without rewriting code."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Split models from agents?\n\nVercel's CEO argues bundling them is the bottleneck holding AI back.",
+            "2. Reasoning tied to execution\n\nAgents today can't swap brains without breaking their hands.",
+            "3. Keep models pure\n\nLet them think. Let agents act. Separate the two layers entirely.",
+            "4. Decouple to accelerate\n\nEach layer evolves on its own clock, not stuck waiting for the other.",
+            "5. Swap models without rewrites\n\nTake your current agent, swap its brain, and keep the actions. Test it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Why separate models from agents?",
+            "Agents bundle thinking with doing.",
+            "Keep models pure, agents act.",
+            "Decoupling speeds up each layer.",
+            "Swap models without rewriting code."
+          ]
+        },
+        "instagram": {
+          "caption": "If you build an AI agent, you can now swap its model without rewriting all the code.  \n\nVercel’s CEO argues agents today bundle thinking with doing — and that’s slowing everything down 🧠🔗⚙️. He wants the “model” layer kept pure (reasoning) and the “agent” layer to handle actions separately.  \n\nDecoupling means each part updates at its own pace — no more waiting for the other to catch up 🧩.  \n\nYour next app can test GPT-5 this week, then swap to Claude 6 without touching its actions.  \n\nWhich model are you locking your current agent into?"
+        }
+      },
+      "instagram_caption": "If you build an AI agent, you can now swap its model without rewriting all the code.  \n\nVercel’s CEO argues agents today bundle thinking with doing — and that’s slowing everything down 🧠🔗⚙️. He wants the “model” layer kept pure (reasoning) and the “agent” layer to handle actions separately.  \n\nDecoupling means each part updates at its own pace — no more waiting for the other to catch up 🧩.  \n\nYour next app can test GPT-5 this week, then swap to Claude 6 without touching its actions.  \n\nWhich model are you locking your current agent into?",
+      "carousel_slides": [
+        {
+          "hook": "Why split models from agents?",
+          "description": "Bundling reasoning with execution limits AI. Rauch says decoupling is the bottleneck.",
+          "visual_hint": "Split puzzle pieces",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "puzzle pieces separated"
+        },
+        {
+          "hook": "Agents can't swap brains",
+          "description": "Tight coupling today breaks agents when models change. Decoupling fixes that.",
+          "visual_hint": "Robot with detachable head",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "disassembled robot",
+          "image": "https://images.pexels.com/photos/821642/pexels-photo-821642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Keep models pure thinkers",
+          "description": "Models reason. Agents act. Separate layers for faster independent evolution.",
+          "visual_hint": "Brain floating above robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "brain and robot hand",
+          "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decouple to speed progress",
+          "description": "Each layer evolves on its own clock, not waiting for the other.",
+          "visual_hint": "Two gears spinning separately",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "two gears mechanism",
+          "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Swap models without rewrites",
+          "description": "Test a new model with your current agent this week. No code changes needed.",
+          "visual_hint": "Arrow swapping brain in robot",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "robot brain replacement",
+          "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
+      "savedAt": "2026-07-06T21:22:43.446Z",
+      "sourceId": "b96d9864f8685e0e9c57c58ed8bab2a1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "takeda-signs-600m-ai-drug-discovery-deal-with-insi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+      "pubDate": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "Can AI find drugs Takeda couldn't?",
+        "Takeda just paid $600 million for it.",
+        "Insilico’s platform found targets humans missed.",
+        "You can now screen molecules in weeks.",
+        "Start testing AI against your toughest target."
+      ],
+      "thread_text": [
+        "1. AI found what Takeda missed.\n\nTakeda paid $600M for Insilico's platform after it hit a target their own team overlooked for years.",
+        "2. Screens in weeks.\n\nInsilico’s AI cut molecule screening from years to weeks. No cell lines needed upfront.",
+        "3. The hidden target.\n\nThe platform flagged a protein humans had no reason to suspect. No prior literature pointed to it.",
+        "4. $600M bet.\n\nTakeda didn't license a drug. They bought the ability to repeat the discovery in other disease areas.",
+        "5. Test it.\n\nPick your hardest protein target left untested. Feed it to an AI platform this quarter. What do you get?"
+      ],
+      "video_script": [
+        "AI found a drug Takeda missed.",
+        "Takeda paid six hundred million for it.",
+        "Insilico spotted targets humans overlooked.",
+        "Now you can screen in weeks.",
+        "Test AI on your toughest target."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI found what Takeda missed.\n\nTakeda paid $600M for Insilico's platform after it hit a target their own team overlooked for years.",
+            "2. Screens in weeks.\n\nInsilico’s AI cut molecule screening from years to weeks. No cell lines needed upfront.",
+            "3. The hidden target.\n\nThe platform flagged a protein humans had no reason to suspect. No prior literature pointed to it.",
+            "4. $600M bet.\n\nTakeda didn't license a drug. They bought the ability to repeat the discovery in other disease areas.",
+            "5. Test it.\n\nPick your hardest protein target left untested. Feed it to an AI platform this quarter. What do you get?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI found a drug Takeda missed.",
+            "Takeda paid six hundred million for it.",
+            "Insilico spotted targets humans overlooked.",
+            "Now you can screen in weeks.",
+            "Test AI on your toughest target."
+          ]
+        },
+        "instagram": {
+          "caption": "A target your drug hunters missed for years? 🧬\n\nTakeda just paid $600 million for Insilico’s AI after it flagged a protein no literature even linked to the disease. Their platform now screens molecules in weeks instead of years — no cell lines required.\n\nIf you work in drug discovery, your competitor just bought the ability to repeat that miss in every other disease area they touch.\n\n🧪 Pick your hardest untested protein target. Feed it to an AI engine this quarter. What do you get back?"
+        }
+      },
+      "instagram_caption": "A target your drug hunters missed for years? 🧬\n\nTakeda just paid $600 million for Insilico’s AI after it flagged a protein no literature even linked to the disease. Their platform now screens molecules in weeks instead of years — no cell lines required.\n\nIf you work in drug discovery, your competitor just bought the ability to repeat that miss in every other disease area they touch.\n\n🧪 Pick your hardest untested protein target. Feed it to an AI engine this quarter. What do you get back?",
+      "carousel_slides": [
+        {
+          "hook": "What if AI beat your best scientists?",
+          "description": "Insilico's AI flagged a protein Takeda's team overlooked for years. No one suspected it.",
+          "visual_hint": "AI eye scanning molecule",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "Screens in weeks, not years.",
+          "description": "Insilico cut molecule screening from years to weeks without needing cell lines upfront.",
+          "visual_hint": "Calendar pages flying",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "lab robot pipette",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A target with zero literature.",
+          "description": "The platform found a protein with no prior research linking it to disease—no human bias.",
+          "visual_hint": "Blank research paper",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dna double helix",
+          "image": "https://images.pexels.com/photos/11868601/pexels-photo-11868601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Takeda bought the engine.",
+          "description": "Takeda paid $600M to replicate Insilico's discovery model across multiple diseases forever.",
+          "visual_hint": "Stack of cash",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake contract",
+          "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test AI on your hardest target.",
+          "description": "Pick your toughest protein target. Feed it to an AI platform this quarter and see results.",
+          "visual_hint": "Target with arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-06T21:22:24.526Z",
+      "sourceId": "edad82dcc6d19154ef4b64355951f37f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "if-you-use-google-you-re-training-its-ai-here-s-ho",
       "prompt_version": "1.0.0",
       "status": "published",
