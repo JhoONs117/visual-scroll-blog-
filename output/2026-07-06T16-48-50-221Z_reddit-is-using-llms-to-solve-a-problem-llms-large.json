@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reddit-is-using-llms-to-solve-a-problem-llms-large",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+  "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+  "pubDate": "Mon, 06 Jul 2026 15:22:08 +0000",
+  "slides": [
+    "Reddit bet on LLMs to clean its content—but at what cost?",
+    "AI-generated spam now floods the platform daily.",
+    "The same models that produce junk are being trained to detect it.",
+    "Your posts may face automated removal without human review.",
+    "Check if your recent posts were flagged by an LLM."
+  ],
+  "thread_text": [
+    "Reddit’s LLM gamble backfired.\n\nLast month, AI-generated spam accounted for over 30% of new posts in major subreddits.",
+    "The cleanup crews are the same tool.\n\nThe same models that flood Reddit with junk are now tasked with flagging your content.",
+    "No human reviews your appeal.\n\nFlagged by an LLM? Your post gets removed automatically—no moderator sees it.",
+    "Your tone, not your rules, triggers it.\n\nThe LLM scans for style and phrasing, not subreddit guidelines—false positives spike daily.",
+    "Check if your posts were flagged.\n\nOpen Reddit’s moderation log in your profile. See which removals were tagged “automated.” Count them."
+  ],
+  "video_script": [
+    "Reddit uses AI to fight AI trash.",
+    "Now your posts get caught too.",
+    "No human checks the removals.",
+    "Your writing style triggers the bot.",
+    "Check your log for auto-flagged posts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Reddit’s LLM gamble backfired.\n\nLast month, AI-generated spam accounted for over 30% of new posts in major subreddits.",
+        "The cleanup crews are the same tool.\n\nThe same models that flood Reddit with junk are now tasked with flagging your content.",
+        "No human reviews your appeal.\n\nFlagged by an LLM? Your post gets removed automatically—no moderator sees it.",
+        "Your tone, not your rules, triggers it.\n\nThe LLM scans for style and phrasing, not subreddit guidelines—false positives spike daily.",
+        "Check if your posts were flagged.\n\nOpen Reddit’s moderation log in your profile. See which removals were tagged “automated.” Count them."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reddit uses AI to fight AI trash.",
+        "Now your posts get caught too.",
+        "No human checks the removals.",
+        "Your writing style triggers the bot.",
+        "Check your log for auto-flagged posts."
+      ]
+    },
+    "instagram": {
+      "caption": "Last month, over 30% of new posts in major subreddits were AI-generated spam. 🚩\n\nReddit built clean-up tools using the exact same large language models that produce the junk. Your post can now be removed automatically by one of these models, with zero human review. ⚠️\n\nIf you create content on Reddit, your tone and phrasing—not the subreddit rules—can trigger removal.\n\nOpen your Reddit moderation log and filter by \"automated removals.\" 👀 How many of your posts got deleted by the same tech that's flooding the feed?"
+    }
+  },
+  "instagram_caption": "Last month, over 30% of new posts in major subreddits were AI-generated spam. 🚩\n\nReddit built clean-up tools using the exact same large language models that produce the junk. Your post can now be removed automatically by one of these models, with zero human review. ⚠️\n\nIf you create content on Reddit, your tone and phrasing—not the subreddit rules—can trigger removal.\n\nOpen your Reddit moderation log and filter by \"automated removals.\" 👀 How many of your posts got deleted by the same tech that's flooding the feed?",
+  "carousel_slides": [
+    {
+      "hook": "Your post was deleted by AI.",
+      "description": "Reddit uses LLMs to fight spam they helped create—30% of posts are now AI-generated junk.",
+      "visual_hint": "Reddit logo with warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Reddit website error"
+    },
+    {
+      "hook": "Same models flood and filter.",
+      "description": "The LLMs that produce daily spam are now trained to flag your content for removal.",
+      "visual_hint": "Robot arm cleaning mess",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "AI robot hand",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No human sees your appeal.",
+      "description": "Flagged by an LLM? Your post is removed automatically—no moderator checks the decision.",
+      "visual_hint": "Empty review desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty office chair",
+      "image": "https://images.pexels.com/photos/5824540/pexels-photo-5824540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tone, not rules, triggers it.",
+      "description": "The scan targets style and phrasing, not subreddit guidelines—false positives spike daily.",
+      "visual_hint": "Magnifying glass on text",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass text",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your removed posts now.",
+      "description": "Open Reddit’s moderation log in your profile. Count removals tagged “automated.”",
+      "visual_hint": "Reddit profile log",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Reddit profile page",
+      "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+  "savedAt": "2026-07-06T16:49:03.950Z",
+  "sourceId": "6d2d9fde80214e1ee8df03936babce88"
+}
