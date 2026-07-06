@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "if-you-use-google-you-re-training-its-ai-here-s-ho",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
+      "slides": [
+        "Google uses your searches to train AI—without asking.",
+        "This training happens automatically, even if you don't notice.",
+        "Your data may improve tools you never use yourself.",
+        "New controls let you disable this without losing search quality.",
+        "Open your Google Account settings and toggle off AI training."
+      ],
+      "thread_text": [
+        "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+        "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+        "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+        "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+        "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+      ],
+      "video_script": [
+        "Google uses your searches without asking.",
+        "Training happens automatically on your data.",
+        "Your data helps tools you never use.",
+        "New controls let you disable training.",
+        "Go to settings and turn it off."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+            "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+            "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+            "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+            "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google uses your searches without asking.",
+            "Training happens automatically on your data.",
+            "Your data helps tools you never use.",
+            "New controls let you disable training.",
+            "Go to settings and turn it off."
+          ]
+        },
+        "instagram": {
+          "caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐"
+        }
+      },
+      "instagram_caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your searches train AI without consent.",
+          "description": "Google uses your search history to train AI automatically, without asking permission.",
+          "visual_hint": "Search bar with lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Google search bar"
+        },
+        {
+          "hook": "No pop-up, no warning, no choice.",
+          "description": "The training happens silently every time you search—no consent screen ever appears.",
+          "visual_hint": "Subtle data flow arrows",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your data helps strangers, not you.",
+          "description": "Your searches improve AI tools for everyone, even if you never use those tools.",
+          "visual_hint": "Stranger holding phone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You can stop it now without losing quality.",
+          "description": "New controls let you block AI training while keeping search results just as good.",
+          "visual_hint": "Toggle switch close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "toggle switch",
+          "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this guide to find the setting later.",
+          "description": "Open Google Account → Data & Privacy → toggle off AI training. Do it today.",
+          "visual_hint": "Finger tapping toggle",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+      "savedAt": "2026-07-06T19:44:42.671Z",
+      "sourceId": "88a9e7b8458758c042ff6618452dbfcd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "every-major-tech-layoff-in-2026-that-has-name-chec",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000",
+      "slides": [
+        "Which major tech layoff in 2026 blamed AI directly?",
+        "Meta cut 4,000 roles, citing automation replacing workflows.",
+        "Yet those same teams had hired for AI just months prior.",
+        "Your job description may now list AI proficiency as mandatory.",
+        "Run a skills audit today to find gaps AI could fill."
+      ],
+      "thread_text": [
+        "1. Blamed AI or convenient excuse?\n\nMeta cut 4,000 roles in 2026 citing automation, yet those same teams had just hired for AI months earlier.",
+        "2. Hiring binge then purge\n\nTeams expanded for AI projects, then were gutted. The same tech was used to justify both moves.",
+        "3. Your job now requires AI\n\nJob descriptions are quietly adding AI proficiency as mandatory. Not optional. Not preferred.",
+        "4. The skills gap is already drawn\n\nCompanies know what AI can replace. Do you? They're auditing before you notice.",
+        "5. Run a personal skills audit today\n\nList tasks you do weekly. Mark which an AI tool could handle. Start with the smallest."
+      ],
+      "video_script": [
+        "Meta cut jobs, blamed AI directly.",
+        "Hired AI teams, then fired them.",
+        "Now job listings demand AI skills.",
+        "Companies audit your role's vulnerability.",
+        "Audit your own tasks against AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Blamed AI or convenient excuse?\n\nMeta cut 4,000 roles in 2026 citing automation, yet those same teams had just hired for AI months earlier.",
+            "2. Hiring binge then purge\n\nTeams expanded for AI projects, then were gutted. The same tech was used to justify both moves.",
+            "3. Your job now requires AI\n\nJob descriptions are quietly adding AI proficiency as mandatory. Not optional. Not preferred.",
+            "4. The skills gap is already drawn\n\nCompanies know what AI can replace. Do you? They're auditing before you notice.",
+            "5. Run a personal skills audit today\n\nList tasks you do weekly. Mark which an AI tool could handle. Start with the smallest."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta cut jobs, blamed AI directly.",
+            "Hired AI teams, then fired them.",
+            "Now job listings demand AI skills.",
+            "Companies audit your role's vulnerability.",
+            "Audit your own tasks against AI."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta just cut 4,000 jobs citing automation—but those same teams had been hiring for AI roles just months earlier. 😬\n\nThe same technology you were hired to build is now used to justify your layoff. Job descriptions are quietly adding AI proficiency as mandatory, not optional.\n\nFor anyone creating or publishing content: your workflow is already being audited against what an AI tool can replace—before you get a say.\n\nWhat single task you did this week could an AI replicate right now? List it. Start with the smallest."
+        }
+      },
+      "instagram_caption": "Meta just cut 4,000 jobs citing automation—but those same teams had been hiring for AI roles just months earlier. 😬\n\nThe same technology you were hired to build is now used to justify your layoff. Job descriptions are quietly adding AI proficiency as mandatory, not optional.\n\nFor anyone creating or publishing content: your workflow is already being audited against what an AI tool can replace—before you get a say.\n\nWhat single task you did this week could an AI replicate right now? List it. Start with the smallest.",
+      "carousel_slides": [
+        {
+          "hook": "Is AI just an excuse?",
+          "description": "Meta cut 4,000 roles citing automation, but hired for AI just months earlier. Convenient?",
+          "visual_hint": "Question mark in cloud",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "question mark cloud"
+        },
+        {
+          "hook": "Hiring binge then purge",
+          "description": "Teams expanded for AI projects, then gutted. The same tech justified both moves.",
+          "visual_hint": "Downward arrow graph",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "downward arrow graph",
+          "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI proficiency now mandatory",
+          "description": "Job descriptions quietly add AI skills as mandatory. Not optional. Not preferred.",
+          "visual_hint": "Laptop with AI icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop AI icon",
+          "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They audit before you notice",
+          "description": "Companies know what AI can replace. Do you? The skills gap is already drawn.",
+          "visual_hint": "Magnifying glass over file",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass file",
+          "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your skills",
+          "description": "List your weekly tasks. Mark which an AI tool could handle. Start small.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+      "savedAt": "2026-07-06T19:44:28.460Z",
+      "sourceId": "1fae758ade9415537892c703a15b7e56"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "reddit-is-using-llms-to-solve-a-problem-llms-large",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -72214,6 +72422,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "petto-di-pollo-alla-griglia",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Petto di pollo alla griglia",
+      "link": "https://ricette.giallozafferano.it/Petto-di-pollo-alla-griglia.html",
+      "pubDate": "Mon, 06 Jul 2026 17:08:00 +0200",
+      "content": "Petto di pollo alla griglia: semplice e succoso Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Petto di pollo alla griglia /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 15 min Dosi per: 4 persone Costo: Molto basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il petto di pollo alla griglia è il re dei secondi piatti leggeri, sani e genuini. Ma come potete cucinarlo per mantenerlo sempre morbido, tenero e succoso , evitando l'effetto asciutto e stopposo? Questa ricetta facile e veloce è la soluzione perfetta per i vostri pranzi salutari o per una cena dell'ultimo minuto. Grazie a piccoli e semplici accorgimenti, preparerete un secondo piatto di carne ricco di gusto, ideale se avete poco tempo ma non volete rinunciare al sapore. Scoprite come cucinare il petto di pollo alla griglia: vi bastano una piastra ben calda, una marinatura rapida e una cottura attenta per portare in tavola un successo assicurato, pronto in pochi minuti! Ecco altre ricette con il petto di pollo alla griglia : Insalata di pollo saporita Insalata di pollo e avocado Pollo al mattone Souvlaki di pollo Insalata di pollo Insalata di pollo e zucchine Spiedini di pollo piccanti Grilled Chicken Breast Scopri anche Petto di pollo cremoso Petti di pollo al latte Petto di pollo al curry Sfoglia tutte INGREDIENTI Petto di pollo 900 g Olio extravergine d'oliva 20 g Sale fino q.b. Pepe nero q.b. Succo di limone 20 g Rosmarino 2 rametti Salvia 4 foglie AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Petto di pollo alla griglia Per preparare il petto di pollo alla griglia per prima cosa dividete la carne in due parti per separare i petti 1 2 , eliminate anche grasso, le piccole ossa e le cartilagini 3 . Ora con un batticarne battete i petti per ottenere uno spessore uniforme 4 . Adagiate il pollo in una pirofila 5 e cominciate a condirlo con salvia e rosmarino 6 . Versate l'olio extravergine di oliva 7 , condite con sale e pepe 8 e unite anche il succo di limone 9 . Mescolate con un cucchiaio per distribuire la marinatura uniformemente 10 e lasciate insaporire il pollo con il condimento per 10 minuti in frigo 11 . Scaldate bene una griglia e adagiate i petti di pollo distanti l'uno dall'altro senza sovrapporli 12 . Cuocete 7- 8 minuti da un lato, poi con una pinza girateli dall'altro lato 13 . Proseguite la cottura per altri 7- 8 minuti sempre a temperatura medio alta 14 . Servite il vostro pollo alla griglia ancora caldo con un'insalata mista e qualche pomodorino 15 . Conservazione Il petto di pollo alla griglia si conserva un giorno in frigorifero. Si può congelare. Consiglio Potete preparare una salsa allo yogurt aromatizzata alla menta per accompagnare il petto di pollo alla griglia. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Salvia Olio di oliva Limone Rosmarino Scopri tutto sugli ingredienti Presente in: Secondi piatti veloci , Secondi piatti di carne , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Petto di pollo cremoso 12 4.6 Petti di pollo al latte 70 4.4 Petto di pollo al curry 1 4.5 Petti di pollo alla senape 98 4.5 Petto di pollo in padella 1 4.8 Petto di pollo ai peperoni 51 4.4 Petto di pollo in friggitrice ad aria 4.2 Petto di pollo al forno 42 4.4 ULTIME RICETTE Petto di pollo alla griglia 5.0 Mozzarella marinata alla ligure 3.2 Sogliola in padella 5.0 SCOPRI Petto di pollo Petto di pollo al limone Petto di pollo al curry Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Petto di pollo alla griglia morbido e succoso",
+        "Pollo, olio, limone, rosmarino e salvia",
+        "Batti i petti per spessore uniforme",
+        "Cuoci 7-8 minuti per lato a calore medio-alto",
+        "Marina 10 minuti: segreto per tenerezza"
+      ],
+      "instagram_caption": "Il segreto di un petto di pollo alla griglia che non resta mai secco? Una marinatura veloce di 10 minuti con limone, rosmarino e salvia. 🍋🌿 Batti i petti per uno spessore uniforme, poi via sulla griglia a calore medio-alto: 7-8 minuti per lato e il risultato è morbidissimo, succoso, profumato. Semplice, sano, da leccarsi i baffi. Provatelo questo weekend! 🔥🍗",
+      "formats": {
+        "instagram": {
+          "caption": "Il segreto di un petto di pollo alla griglia che non resta mai secco? Una marinatura veloce di 10 minuti con limone, rosmarino e salvia. 🍋🌿 Batti i petti per uno spessore uniforme, poi via sulla griglia a calore medio-alto: 7-8 minuti per lato e il risultato è morbidissimo, succoso, profumato. Semplice, sano, da leccarsi i baffi. Provatelo questo weekend! 🔥🍗"
+        },
+        "tiktok": {
+          "script": [
+            "Petto di pollo alla griglia, morbidissimo.",
+            "Pollo, olio, limone, rosmarino e salvia.",
+            "Batti i petti per spessore uniforme.",
+            "Cuoci 7-8 minuti per lato a fiamma media.",
+            "Marina 10 minuti: il segreto per la tenerezza."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Taglio il petto di pollo e lo butto sulla griglia. Il risultato? Morbido dentro, croccante fuori. Tutto merito di un gesto che molti ignorano.👇",
+            "Petto di pollo, olio, limone, rosmarino e salvia. Niente che non hai in dispensa. Il segreto è nella marinatura: 10 minuti, non uno di più.",
+            "Prima di cuocere, batti i petti per ottenere uno spessore uniforme. Sembra una banalità, ma è il passaggio che salva la cottura.",
+            "Griglia a calore medio-alto. 7-8 minuti per lato, senza toccarlo. Lascia che la crosticina si formi da sola: lì dentro rimane tutto il sapore.",
+            "Marinatura breve = tenerezza estrema. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Petto di pollo alla griglia, morbidissimo.",
+        "Pollo, olio, limone, rosmarino e salvia.",
+        "Batti i petti per spessore uniforme.",
+        "Cuoci 7-8 minuti per lato a fiamma media.",
+        "Marina 10 minuti: il segreto per la tenerezza."
+      ],
+      "thread_text": [
+        "Taglio il petto di pollo e lo butto sulla griglia. Il risultato? Morbido dentro, croccante fuori. Tutto merito di un gesto che molti ignorano.👇",
+        "Petto di pollo, olio, limone, rosmarino e salvia. Niente che non hai in dispensa. Il segreto è nella marinatura: 10 minuti, non uno di più.",
+        "Prima di cuocere, batti i petti per ottenere uno spessore uniforme. Sembra una banalità, ma è il passaggio che salva la cottura.",
+        "Griglia a calore medio-alto. 7-8 minuti per lato, senza toccarlo. Lascia che la crosticina si formi da sola: lì dentro rimane tutto il sapore.",
+        "Marinatura breve = tenerezza estrema. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Petto di pollo alla griglia",
+          "description": "Un petto di pollo morbidissimo e succoso, grigliato alla perfezione.",
+          "visual_hint": "Pollo grigliato con erbe",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "grilled chicken breast savory"
+        },
+        {
+          "hook": "Ingredienti semplici",
+          "description": "Pollo, olio, limone, rosmarino e salvia: pochi elementi, sapore intenso.",
+          "visual_hint": "Ingredienti in ciotola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chicken lemon herbs savory",
+          "image": "https://images.pexels.com/photos/5923475/pexels-photo-5923475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Batti per uniformare",
+          "description": "Batti i petti di pollo per ottenere uno spessore uniforme e una cottura omogenea.",
+          "visual_hint": "Martello in azione",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pounding chicken breast savory",
+          "image": "https://images.pexels.com/photos/5769385/pexels-photo-5769385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura perfetta",
+          "description": "Cuoci 7-8 minuti per lato a calore medio-alto per una grigliatura impeccabile.",
+          "visual_hint": "Pollo sulla griglia",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "grilled chicken on fire savory",
+          "image": "https://images.pexels.com/photos/15673816/pexels-photo-15673816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto finale",
+          "description": "Marina 10 minuti: il vero trucco per un pollo tenerissimo e saporito.",
+          "visual_hint": "Pollo nel piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "marinated chicken plate savory",
+          "image": "https://images.pexels.com/photos/4993965/pexels-photo-4993965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "limone",
+        "rosmarino"
+      ],
+      "image": "https://www.giallozafferano.it/images/363-36371/Petto-di-pollo-alla-griglia_650x433_wm.jpg",
+      "savedAt": "2026-07-06T19:48:50.493Z",
+      "sourceId": "5adb663f9dd13ae50d622d41b09b82df"
+    },
     {
       "schema_version": 2,
       "agent": "food",

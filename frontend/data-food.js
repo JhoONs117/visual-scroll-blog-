@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "petto-di-pollo-alla-griglia",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Petto di pollo alla griglia",
+    "link": "https://ricette.giallozafferano.it/Petto-di-pollo-alla-griglia.html",
+    "pubDate": "Mon, 06 Jul 2026 17:08:00 +0200",
+    "content": "Petto di pollo alla griglia: semplice e succoso Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Petto di pollo alla griglia /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 15 min Dosi per: 4 persone Costo: Molto basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il petto di pollo alla griglia è il re dei secondi piatti leggeri, sani e genuini. Ma come potete cucinarlo per mantenerlo sempre morbido, tenero e succoso , evitando l'effetto asciutto e stopposo? Questa ricetta facile e veloce è la soluzione perfetta per i vostri pranzi salutari o per una cena dell'ultimo minuto. Grazie a piccoli e semplici accorgimenti, preparerete un secondo piatto di carne ricco di gusto, ideale se avete poco tempo ma non volete rinunciare al sapore. Scoprite come cucinare il petto di pollo alla griglia: vi bastano una piastra ben calda, una marinatura rapida e una cottura attenta per portare in tavola un successo assicurato, pronto in pochi minuti! Ecco altre ricette con il petto di pollo alla griglia : Insalata di pollo saporita Insalata di pollo e avocado Pollo al mattone Souvlaki di pollo Insalata di pollo Insalata di pollo e zucchine Spiedini di pollo piccanti Grilled Chicken Breast Scopri anche Petto di pollo cremoso Petti di pollo al latte Petto di pollo al curry Sfoglia tutte INGREDIENTI Petto di pollo 900 g Olio extravergine d'oliva 20 g Sale fino q.b. Pepe nero q.b. Succo di limone 20 g Rosmarino 2 rametti Salvia 4 foglie AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Petto di pollo alla griglia Per preparare il petto di pollo alla griglia per prima cosa dividete la carne in due parti per separare i petti 1 2 , eliminate anche grasso, le piccole ossa e le cartilagini 3 . Ora con un batticarne battete i petti per ottenere uno spessore uniforme 4 . Adagiate il pollo in una pirofila 5 e cominciate a condirlo con salvia e rosmarino 6 . Versate l'olio extravergine di oliva 7 , condite con sale e pepe 8 e unite anche il succo di limone 9 . Mescolate con un cucchiaio per distribuire la marinatura uniformemente 10 e lasciate insaporire il pollo con il condimento per 10 minuti in frigo 11 . Scaldate bene una griglia e adagiate i petti di pollo distanti l'uno dall'altro senza sovrapporli 12 . Cuocete 7- 8 minuti da un lato, poi con una pinza girateli dall'altro lato 13 . Proseguite la cottura per altri 7- 8 minuti sempre a temperatura medio alta 14 . Servite il vostro pollo alla griglia ancora caldo con un'insalata mista e qualche pomodorino 15 . Conservazione Il petto di pollo alla griglia si conserva un giorno in frigorifero. Si può congelare. Consiglio Potete preparare una salsa allo yogurt aromatizzata alla menta per accompagnare il petto di pollo alla griglia. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Salvia Olio di oliva Limone Rosmarino Scopri tutto sugli ingredienti Presente in: Secondi piatti veloci , Secondi piatti di carne , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Petto di pollo cremoso 12 4.6 Petti di pollo al latte 70 4.4 Petto di pollo al curry 1 4.5 Petti di pollo alla senape 98 4.5 Petto di pollo in padella 1 4.8 Petto di pollo ai peperoni 51 4.4 Petto di pollo in friggitrice ad aria 4.2 Petto di pollo al forno 42 4.4 ULTIME RICETTE Petto di pollo alla griglia 5.0 Mozzarella marinata alla ligure 3.2 Sogliola in padella 5.0 SCOPRI Petto di pollo Petto di pollo al limone Petto di pollo al curry Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Petto di pollo alla griglia morbido e succoso",
+      "Pollo, olio, limone, rosmarino e salvia",
+      "Batti i petti per spessore uniforme",
+      "Cuoci 7-8 minuti per lato a calore medio-alto",
+      "Marina 10 minuti: segreto per tenerezza"
+    ],
+    "instagram_caption": "Il segreto di un petto di pollo alla griglia che non resta mai secco? Una marinatura veloce di 10 minuti con limone, rosmarino e salvia. 🍋🌿 Batti i petti per uno spessore uniforme, poi via sulla griglia a calore medio-alto: 7-8 minuti per lato e il risultato è morbidissimo, succoso, profumato. Semplice, sano, da leccarsi i baffi. Provatelo questo weekend! 🔥🍗",
+    "formats": {
+      "instagram": {
+        "caption": "Il segreto di un petto di pollo alla griglia che non resta mai secco? Una marinatura veloce di 10 minuti con limone, rosmarino e salvia. 🍋🌿 Batti i petti per uno spessore uniforme, poi via sulla griglia a calore medio-alto: 7-8 minuti per lato e il risultato è morbidissimo, succoso, profumato. Semplice, sano, da leccarsi i baffi. Provatelo questo weekend! 🔥🍗"
+      },
+      "tiktok": {
+        "script": [
+          "Petto di pollo alla griglia, morbidissimo.",
+          "Pollo, olio, limone, rosmarino e salvia.",
+          "Batti i petti per spessore uniforme.",
+          "Cuoci 7-8 minuti per lato a fiamma media.",
+          "Marina 10 minuti: il segreto per la tenerezza."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Taglio il petto di pollo e lo butto sulla griglia. Il risultato? Morbido dentro, croccante fuori. Tutto merito di un gesto che molti ignorano.👇",
+          "Petto di pollo, olio, limone, rosmarino e salvia. Niente che non hai in dispensa. Il segreto è nella marinatura: 10 minuti, non uno di più.",
+          "Prima di cuocere, batti i petti per ottenere uno spessore uniforme. Sembra una banalità, ma è il passaggio che salva la cottura.",
+          "Griglia a calore medio-alto. 7-8 minuti per lato, senza toccarlo. Lascia che la crosticina si formi da sola: lì dentro rimane tutto il sapore.",
+          "Marinatura breve = tenerezza estrema. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Petto di pollo alla griglia, morbidissimo.",
+      "Pollo, olio, limone, rosmarino e salvia.",
+      "Batti i petti per spessore uniforme.",
+      "Cuoci 7-8 minuti per lato a fiamma media.",
+      "Marina 10 minuti: il segreto per la tenerezza."
+    ],
+    "thread_text": [
+      "Taglio il petto di pollo e lo butto sulla griglia. Il risultato? Morbido dentro, croccante fuori. Tutto merito di un gesto che molti ignorano.👇",
+      "Petto di pollo, olio, limone, rosmarino e salvia. Niente che non hai in dispensa. Il segreto è nella marinatura: 10 minuti, non uno di più.",
+      "Prima di cuocere, batti i petti per ottenere uno spessore uniforme. Sembra una banalità, ma è il passaggio che salva la cottura.",
+      "Griglia a calore medio-alto. 7-8 minuti per lato, senza toccarlo. Lascia che la crosticina si formi da sola: lì dentro rimane tutto il sapore.",
+      "Marinatura breve = tenerezza estrema. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Petto di pollo alla griglia",
+        "description": "Un petto di pollo morbidissimo e succoso, grigliato alla perfezione.",
+        "visual_hint": "Pollo grigliato con erbe",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "grilled chicken breast savory"
+      },
+      {
+        "hook": "Ingredienti semplici",
+        "description": "Pollo, olio, limone, rosmarino e salvia: pochi elementi, sapore intenso.",
+        "visual_hint": "Ingredienti in ciotola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chicken lemon herbs savory",
+        "image": "https://images.pexels.com/photos/5923475/pexels-photo-5923475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Batti per uniformare",
+        "description": "Batti i petti di pollo per ottenere uno spessore uniforme e una cottura omogenea.",
+        "visual_hint": "Martello in azione",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "pounding chicken breast savory",
+        "image": "https://images.pexels.com/photos/5769385/pexels-photo-5769385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cottura perfetta",
+        "description": "Cuoci 7-8 minuti per lato a calore medio-alto per una grigliatura impeccabile.",
+        "visual_hint": "Pollo sulla griglia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "grilled chicken on fire savory",
+        "image": "https://images.pexels.com/photos/15673816/pexels-photo-15673816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto finale",
+        "description": "Marina 10 minuti: il vero trucco per un pollo tenerissimo e saporito.",
+        "visual_hint": "Pollo nel piatto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "marinated chicken plate savory",
+        "image": "https://images.pexels.com/photos/4993965/pexels-photo-4993965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "pollo",
+      "limone",
+      "rosmarino"
+    ],
+    "image": "https://www.giallozafferano.it/images/363-36371/Petto-di-pollo-alla-griglia_650x433_wm.jpg",
+    "savedAt": "2026-07-06T19:48:50.493Z",
+    "sourceId": "5adb663f9dd13ae50d622d41b09b82df"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-spinaci-e-gorgonzola",
     "prompt_version": "1.0.0",
     "status": "published",

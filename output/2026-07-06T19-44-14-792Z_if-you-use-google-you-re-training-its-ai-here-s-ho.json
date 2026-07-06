@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "if-you-use-google-you-re-training-its-ai-here-s-ho",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+  "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+  "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
+  "slides": [
+    "Google uses your searches to train AI—without asking.",
+    "This training happens automatically, even if you don't notice.",
+    "Your data may improve tools you never use yourself.",
+    "New controls let you disable this without losing search quality.",
+    "Open your Google Account settings and toggle off AI training."
+  ],
+  "thread_text": [
+    "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+    "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+    "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+    "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+    "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+  ],
+  "video_script": [
+    "Google uses your searches without asking.",
+    "Training happens automatically on your data.",
+    "Your data helps tools you never use.",
+    "New controls let you disable training.",
+    "Go to settings and turn it off."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+        "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+        "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+        "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+        "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google uses your searches without asking.",
+        "Training happens automatically on your data.",
+        "Your data helps tools you never use.",
+        "New controls let you disable training.",
+        "Go to settings and turn it off."
+      ]
+    },
+    "instagram": {
+      "caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐"
+    }
+  },
+  "instagram_caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Your searches train AI without consent.",
+      "description": "Google uses your search history to train AI automatically, without asking permission.",
+      "visual_hint": "Search bar with lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google search bar"
+    },
+    {
+      "hook": "No pop-up, no warning, no choice.",
+      "description": "The training happens silently every time you search—no consent screen ever appears.",
+      "visual_hint": "Subtle data flow arrows",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data helps strangers, not you.",
+      "description": "Your searches improve AI tools for everyone, even if you never use those tools.",
+      "visual_hint": "Stranger holding phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You can stop it now without losing quality.",
+      "description": "New controls let you block AI training while keeping search results just as good.",
+      "visual_hint": "Toggle switch close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "toggle switch",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this guide to find the setting later.",
+      "description": "Open Google Account → Data & Privacy → toggle off AI training. Do it today.",
+      "visual_hint": "Finger tapping toggle",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+  "savedAt": "2026-07-06T19:44:42.671Z",
+  "sourceId": "88a9e7b8458758c042ff6618452dbfcd"
+}

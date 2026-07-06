@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "if-you-use-google-you-re-training-its-ai-here-s-ho",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "pubDate": "Mon, 06 Jul 2026 17:04:58 +0000",
+    "slides": [
+      "Google uses your searches to train AI—without asking.",
+      "This training happens automatically, even if you don't notice.",
+      "Your data may improve tools you never use yourself.",
+      "New controls let you disable this without losing search quality.",
+      "Open your Google Account settings and toggle off AI training."
+    ],
+    "thread_text": [
+      "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+      "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+      "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+      "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+      "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+    ],
+    "video_script": [
+      "Google uses your searches without asking.",
+      "Training happens automatically on your data.",
+      "Your data helps tools you never use.",
+      "New controls let you disable training.",
+      "Go to settings and turn it off."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Searches you forgot\n\nGoogle trained its AI on public search data from millions of users. No permission asked.",
+          "2. You weren't told\n\nThe training is automatic once you use Google. No pop-up, no consent screen.",
+          "3. Strangers benefit\n\nYour searches improve AI tools for everyone, even if you never use those tools yourself.",
+          "4. Opt out exists now\n\nNew settings let you block training without making search results worse. Finally a choice.",
+          "5. Do this today\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Check it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google uses your searches without asking.",
+          "Training happens automatically on your data.",
+          "Your data helps tools you never use.",
+          "New controls let you disable training.",
+          "Go to settings and turn it off."
+        ]
+      },
+      "instagram": {
+        "caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐"
+      }
+    },
+    "instagram_caption": "Every search you’ve ever made on Google has been used to train its AI—without a single notification. 🧠\n\nThis training was automatic, with no opt-in or consent screen. Your personal queries, even the ones you forgot, improved AI tools you may never use 🔧. Google only recently added controls to block it—without degrading your search results.\n\nFor anyone creating content: your online behavior shaped tools that now compete with your work, and you had no say.\n\nOpen your Google Account, go to Data & Privacy, and toggle off AI training. Have you checked yours yet? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Your searches train AI without consent.",
+        "description": "Google uses your search history to train AI automatically, without asking permission.",
+        "visual_hint": "Search bar with lock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Google search bar"
+      },
+      {
+        "hook": "No pop-up, no warning, no choice.",
+        "description": "The training happens silently every time you search—no consent screen ever appears.",
+        "visual_hint": "Subtle data flow arrows",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data helps strangers, not you.",
+        "description": "Your searches improve AI tools for everyone, even if you never use those tools.",
+        "visual_hint": "Stranger holding phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You can stop it now without losing quality.",
+        "description": "New controls let you block AI training while keeping search results just as good.",
+        "visual_hint": "Toggle switch close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "toggle switch",
+        "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this guide to find the setting later.",
+        "description": "Open Google Account → Data & Privacy → toggle off AI training. Do it today.",
+        "visual_hint": "Finger tapping toggle",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "savedAt": "2026-07-06T19:44:42.671Z",
+    "sourceId": "88a9e7b8458758c042ff6618452dbfcd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "every-major-tech-layoff-in-2026-that-has-name-chec",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "pubDate": "Mon, 06 Jul 2026 18:35:00 +0000",
+    "slides": [
+      "Which major tech layoff in 2026 blamed AI directly?",
+      "Meta cut 4,000 roles, citing automation replacing workflows.",
+      "Yet those same teams had hired for AI just months prior.",
+      "Your job description may now list AI proficiency as mandatory.",
+      "Run a skills audit today to find gaps AI could fill."
+    ],
+    "thread_text": [
+      "1. Blamed AI or convenient excuse?\n\nMeta cut 4,000 roles in 2026 citing automation, yet those same teams had just hired for AI months earlier.",
+      "2. Hiring binge then purge\n\nTeams expanded for AI projects, then were gutted. The same tech was used to justify both moves.",
+      "3. Your job now requires AI\n\nJob descriptions are quietly adding AI proficiency as mandatory. Not optional. Not preferred.",
+      "4. The skills gap is already drawn\n\nCompanies know what AI can replace. Do you? They're auditing before you notice.",
+      "5. Run a personal skills audit today\n\nList tasks you do weekly. Mark which an AI tool could handle. Start with the smallest."
+    ],
+    "video_script": [
+      "Meta cut jobs, blamed AI directly.",
+      "Hired AI teams, then fired them.",
+      "Now job listings demand AI skills.",
+      "Companies audit your role's vulnerability.",
+      "Audit your own tasks against AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Blamed AI or convenient excuse?\n\nMeta cut 4,000 roles in 2026 citing automation, yet those same teams had just hired for AI months earlier.",
+          "2. Hiring binge then purge\n\nTeams expanded for AI projects, then were gutted. The same tech was used to justify both moves.",
+          "3. Your job now requires AI\n\nJob descriptions are quietly adding AI proficiency as mandatory. Not optional. Not preferred.",
+          "4. The skills gap is already drawn\n\nCompanies know what AI can replace. Do you? They're auditing before you notice.",
+          "5. Run a personal skills audit today\n\nList tasks you do weekly. Mark which an AI tool could handle. Start with the smallest."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta cut jobs, blamed AI directly.",
+          "Hired AI teams, then fired them.",
+          "Now job listings demand AI skills.",
+          "Companies audit your role's vulnerability.",
+          "Audit your own tasks against AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta just cut 4,000 jobs citing automation—but those same teams had been hiring for AI roles just months earlier. 😬\n\nThe same technology you were hired to build is now used to justify your layoff. Job descriptions are quietly adding AI proficiency as mandatory, not optional.\n\nFor anyone creating or publishing content: your workflow is already being audited against what an AI tool can replace—before you get a say.\n\nWhat single task you did this week could an AI replicate right now? List it. Start with the smallest."
+      }
+    },
+    "instagram_caption": "Meta just cut 4,000 jobs citing automation—but those same teams had been hiring for AI roles just months earlier. 😬\n\nThe same technology you were hired to build is now used to justify your layoff. Job descriptions are quietly adding AI proficiency as mandatory, not optional.\n\nFor anyone creating or publishing content: your workflow is already being audited against what an AI tool can replace—before you get a say.\n\nWhat single task you did this week could an AI replicate right now? List it. Start with the smallest.",
+    "carousel_slides": [
+      {
+        "hook": "Is AI just an excuse?",
+        "description": "Meta cut 4,000 roles citing automation, but hired for AI just months earlier. Convenient?",
+        "visual_hint": "Question mark in cloud",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "question mark cloud"
+      },
+      {
+        "hook": "Hiring binge then purge",
+        "description": "Teams expanded for AI projects, then gutted. The same tech justified both moves.",
+        "visual_hint": "Downward arrow graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "downward arrow graph",
+        "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI proficiency now mandatory",
+        "description": "Job descriptions quietly add AI skills as mandatory. Not optional. Not preferred.",
+        "visual_hint": "Laptop with AI icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop AI icon",
+        "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They audit before you notice",
+        "description": "Companies know what AI can replace. Do you? The skills gap is already drawn.",
+        "visual_hint": "Magnifying glass over file",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass file",
+        "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your skills",
+        "description": "List your weekly tasks. Mark which an AI tool could handle. Start small.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+    "savedAt": "2026-07-06T19:44:28.460Z",
+    "sourceId": "1fae758ade9415537892c703a15b7e56"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "reddit-is-using-llms-to-solve-a-problem-llms-large",
     "prompt_version": "1.0.0",
     "status": "published",
