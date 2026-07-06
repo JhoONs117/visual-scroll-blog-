@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "some-of-the-nation-s-rich-are-letting-ai-teach-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "pubDate": "2026-07-05T22:30:54.000Z",
+    "slides": [
+      "Why are wealthy families letting AI tutor their children?",
+      "Human tutors cost up to $500 per hour now.",
+      "But these AI systems adapt faster than any teacher.",
+      "Your child's curriculum could soon be AI-personalized too.",
+      "Test a free AI tutor platform before next semester ends."
+    ],
+    "thread_text": [
+      "1. The $500 tutor problem\n\nWealthy families already pay that per hour. AI tutors now deliver better results for a fraction of the cost.",
+      "2. Adapts faster than teachers\n\nAn AI system can change its teaching style mid-lesson based on a child's micro-expressions. No human can match that speed.",
+      "3. Personalization at scale\n\nWithin a year, your child's entire curriculum could be generated on the fly by an AI that knows their exact weak points.",
+      "4. Early adopters only\n\nThe top 1% are already using these platforms. The gap between those with and without AI tutoring is widening fast.",
+      "5. Try it yourself today\n\nGo to Khan Academy's AI tutor and simulate a 10-minute lesson on a topic your child struggles with. See if it adapts."
+    ],
+    "video_script": [
+      "Rich kids get AI tutors.",
+      "They adapt faster than humans.",
+      "Your kid's curriculum next?",
+      "The gap is widening now.",
+      "Test a free tutor today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $500 tutor problem\n\nWealthy families already pay that per hour. AI tutors now deliver better results for a fraction of the cost.",
+          "2. Adapts faster than teachers\n\nAn AI system can change its teaching style mid-lesson based on a child's micro-expressions. No human can match that speed.",
+          "3. Personalization at scale\n\nWithin a year, your child's entire curriculum could be generated on the fly by an AI that knows their exact weak points.",
+          "4. Early adopters only\n\nThe top 1% are already using these platforms. The gap between those with and without AI tutoring is widening fast.",
+          "5. Try it yourself today\n\nGo to Khan Academy's AI tutor and simulate a 10-minute lesson on a topic your child struggles with. See if it adapts."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rich kids get AI tutors.",
+          "They adapt faster than humans.",
+          "Your kid's curriculum next?",
+          "The gap is widening now.",
+          "Test a free tutor today."
+        ]
+      },
+      "instagram": {
+        "caption": "Wealthy families are paying $500 an hour for human tutors, but some now let AI teach their kids instead.\n\nAI tutors can shift their teaching style mid-lesson based on a child’s micro-expressions. No human can match that speed—and the cost is a fraction. Within a year, your child's curriculum could be generated on the fly by an AI that knows their exact weak points.\n\nFor anyone creating content or tools, the playbook just shifted: personalization at scale is now table stakes for education.\n\nWhat topic would you put into Khan Academy's free AI tutor to see if it actually adapts to you?"
+      }
+    },
+    "instagram_caption": "Wealthy families are paying $500 an hour for human tutors, but some now let AI teach their kids instead.\n\nAI tutors can shift their teaching style mid-lesson based on a child’s micro-expressions. No human can match that speed—and the cost is a fraction. Within a year, your child's curriculum could be generated on the fly by an AI that knows their exact weak points.\n\nFor anyone creating content or tools, the playbook just shifted: personalization at scale is now table stakes for education.\n\nWhat topic would you put into Khan Academy's free AI tutor to see if it actually adapts to you?",
+    "carousel_slides": [
+      {
+        "hook": "Your child's tutor might be AI",
+        "description": "Wealthy families pay $500 per hour for human tutors. AI now delivers better results for less.",
+        "visual_hint": "AI classroom comparison",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AI tutor classroom"
+      },
+      {
+        "hook": "AI adapts faster than any teacher",
+        "description": "It changes teaching style mid-lesson based on micro-expressions. No human can match that speed.",
+        "visual_hint": "micro-expression analysis",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "facial recognition screen",
+        "image": "https://images.pexels.com/photos/8090123/pexels-photo-8090123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Personalized curriculum in one year",
+        "description": "An AI generating lessons on the fly based on your child's exact weak points is coming soon.",
+        "visual_hint": "dynamic learning path",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "digital learning dashboard",
+        "image": "https://images.pexels.com/photos/29581813/pexels-photo-29581813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The wealth gap is widening fast",
+        "description": "The top 1% already use AI tutors. Without access, your child falls further behind.",
+        "visual_hint": "educational inequality gap",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "students different backgrounds",
+        "image": "https://images.pexels.com/photos/29468350/pexels-photo-29468350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try a free AI tutor before next semester",
+        "description": "Go to Khan Academy's AI tutor and simulate a 10-minute lesson on a topic your child struggles with.",
+        "visual_hint": "free AI tutor trial",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Khan Academy website",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-07-06T02:23:29.908Z",
+    "sourceId": "f4dfdde345c5d1a522d128b44a1515eb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "infuriating-google-commercial-imagines-the-foundin",
     "prompt_version": "1.0.0",
     "status": "published",
