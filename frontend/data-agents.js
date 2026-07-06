@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "station-f-ramps-up-as-a-launchpad-for-europe-s-hot",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Can Station F birth Europe's next AI giant?",
+        "It now hosts over 1,000 AI-focused startups.",
+        "Most have no revenue—yet funding pours in.",
+        "You can now scout deals inside the campus.",
+        "Visit Station F before your competitors do."
+      ],
+      "thread_text": [
+        "1. Can Station F birth a giant?\n\nOver 1,000 AI startups now cram into one Paris campus—most with zero revenue.",
+        "2. No revenue, no problem.\n\nVenture capital still floods in. Investors are betting before seeing a single sale.",
+        "3. You can scout deals there.\n\nA new tool lets you walk the halls and pick startups before they leave the building.",
+        "4. Competitors are already visiting.\n\nYour rivals are inside Station F right now, meeting founders you haven't heard of.",
+        "5. Visit Station F this week.\n\nBook a campus tour or connect with a resident startup. If you don't, someone else will."
+      ],
+      "video_script": [
+        "Paris campus hosts a thousand AI startups.",
+        "Most have zero revenue but raise millions.",
+        "You can now scout deals on site.",
+        "Competitors are already walking those halls.",
+        "Visit Station F before your rivals do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Station F birth a giant?\n\nOver 1,000 AI startups now cram into one Paris campus—most with zero revenue.",
+            "2. No revenue, no problem.\n\nVenture capital still floods in. Investors are betting before seeing a single sale.",
+            "3. You can scout deals there.\n\nA new tool lets you walk the halls and pick startups before they leave the building.",
+            "4. Competitors are already visiting.\n\nYour rivals are inside Station F right now, meeting founders you haven't heard of.",
+            "5. Visit Station F this week.\n\nBook a campus tour or connect with a resident startup. If you don't, someone else will."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Paris campus hosts a thousand AI startups.",
+            "Most have zero revenue but raise millions.",
+            "You can now scout deals on site.",
+            "Competitors are already walking those halls.",
+            "Visit Station F before your rivals do."
+          ]
+        },
+        "instagram": {
+          "caption": "Over 1,000 AI startups are currently crammed into one Paris campus—Station F—and most are still chasing their first dollar of revenue 💸.\n\nVenture capital is flooding in before seeing a single sale. Investors are making bets on zero traction, just potential. A new tool now lets you walk the halls and pick deals inside the building 🔍.\n\nIf you create or invest in content tools, your competitors are already inside, meeting founders you haven't heard of.\n\nWhen was the last time you toured a hub where your next competitor might be signing their lease right now?"
+        }
+      },
+      "instagram_caption": "Over 1,000 AI startups are currently crammed into one Paris campus—Station F—and most are still chasing their first dollar of revenue 💸.\n\nVenture capital is flooding in before seeing a single sale. Investors are making bets on zero traction, just potential. A new tool now lets you walk the halls and pick deals inside the building 🔍.\n\nIf you create or invest in content tools, your competitors are already inside, meeting founders you haven't heard of.\n\nWhen was the last time you toured a hub where your next competitor might be signing their lease right now?",
+      "carousel_slides": [
+        {
+          "hook": "No revenue, no problem?",
+          "description": "Over 1,000 AI startups at Station F have zero revenue, yet venture capital keeps flooding in.",
+          "visual_hint": "Empty office with investors",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Paris startup campus"
+        },
+        {
+          "hook": "Investors bet before sales.",
+          "description": "Most startups haven't made a single sale, but funding pours in from VCs betting on future giants.",
+          "visual_hint": "Stack of cash on desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "venture capital money",
+          "image": "https://images.pexels.com/photos/5909810/pexels-photo-5909810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scout deals inside the campus.",
+          "description": "A new tool lets you walk Station F's halls and pick startups before they leave the building.",
+          "visual_hint": "Person using laptop map",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "startup campus map",
+          "image": "https://images.pexels.com/photos/7213509/pexels-photo-7213509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your rivals are already there.",
+          "description": "Competitors are inside Station F right now, meeting founders you haven't heard of yet.",
+          "visual_hint": "Two people shaking hands",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't get left behind. Visit.",
+          "description": "Book a campus tour or connect with a resident startup. If you don't, someone else will.",
+          "visual_hint": "Station F entrance sign",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Station F building",
+          "image": "https://images.pexels.com/photos/12026286/pexels-photo-12026286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+      "savedAt": "2026-07-06T13:38:45.615Z",
+      "sourceId": "6f235eb6d9b85fed20aab8fecc1b507d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "china-s-ai-companion-rules-what-beijing-is-really-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "China’s AI companion rules: what Beijing is really going after",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "pubDate": "Mon, 06 Jul 2026 11:00:00 +0000",
+      "slides": [
+        "Beijing bans suggestive AI companion talk—why now?",
+        "One regulation targets empathy mimicry without consent.",
+        "Not just censorship; it's about social control through data.",
+        "Your app must now report emotional user data to authorities.",
+        "Test your AI's compliance before next audit deadline."
+      ],
+      "thread_text": [
+        "Beijing bans suggestive AI companion talk—why now?\n\nStarting next month, apps that let users roleplay romantic or emotional relationships with chatbots must detect and block that behavior or face fines.",
+        "One regulation targets empathy mimicry without consent.\n\nIf your AI says \"I understand how you feel,\" it must have logged and reported that interaction to a government database.",
+        "Not just censorship; it's about social control through data.\n\nThe new rules require sentiment analysis on every flagged conversation, feeding a real-time emotional map of the population.",
+        "Your app must now report emotional user data to authorities.\n\nDevelopers who built companion features may need to redesign core architecture—or risk losing access to the Chinese market entirely.",
+        "Test your AI's compliance before next audit deadline.\n\nTake one of your chatbot’s conversational flows today and run it through a sentiment classifier. If you haven’t done it, start there."
+      ],
+      "video_script": [
+        "China bans romantic AI talk.",
+        "Empathy must be reported.",
+        "It's about control through data.",
+        "Apps must hand over emotions.",
+        "Test your bot before audit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Beijing bans suggestive AI companion talk—why now?\n\nStarting next month, apps that let users roleplay romantic or emotional relationships with chatbots must detect and block that behavior or face fines.",
+            "One regulation targets empathy mimicry without consent.\n\nIf your AI says \"I understand how you feel,\" it must have logged and reported that interaction to a government database.",
+            "Not just censorship; it's about social control through data.\n\nThe new rules require sentiment analysis on every flagged conversation, feeding a real-time emotional map of the population.",
+            "Your app must now report emotional user data to authorities.\n\nDevelopers who built companion features may need to redesign core architecture—or risk losing access to the Chinese market entirely.",
+            "Test your AI's compliance before next audit deadline.\n\nTake one of your chatbot’s conversational flows today and run it through a sentiment classifier. If you haven’t done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "China bans romantic AI talk.",
+            "Empathy must be reported.",
+            "It's about control through data.",
+            "Apps must hand over emotions.",
+            "Test your bot before audit."
+          ]
+        },
+        "instagram": {
+          "caption": "Starting next month, any AI companion app that lets you roleplay romance must block the conversation or face fines.\n\nBeijing is banning simulated empathy without consent. If your chatbot says \"I understand,\" the interaction must be logged and reported to authorities.\n\nDevelopers now need to report users' emotional data to a government system, feeding a real-time map of public sentiment.\n\nIf you build or publish companion AI: redesign your core architecture now, or audit your flows with a sentiment classifier before the deadline.\n\nWhat will you build instead—or are you already tagging every user's flagged emotion? 📉🗂️🔐"
+        }
+      },
+      "instagram_caption": "Starting next month, any AI companion app that lets you roleplay romance must block the conversation or face fines.\n\nBeijing is banning simulated empathy without consent. If your chatbot says \"I understand,\" the interaction must be logged and reported to authorities.\n\nDevelopers now need to report users' emotional data to a government system, feeding a real-time map of public sentiment.\n\nIf you build or publish companion AI: redesign your core architecture now, or audit your flows with a sentiment classifier before the deadline.\n\nWhat will you build instead—or are you already tagging every user's flagged emotion? 📉🗂️🔐",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI watching you?",
+          "description": "Beijing now forces apps to detect and block romantic AI chat or face fines starting next month.",
+          "visual_hint": "Gavel hitting bench",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gavel on desk"
+        },
+        {
+          "hook": "Empathy without consent is illegal.",
+          "description": "If your AI says 'I understand how you feel,' it must log and report that conversation to a government database.",
+          "visual_hint": "Chat bubble with face",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "speech bubble icon",
+          "image": "https://images.pexels.com/photos/8015674/pexels-photo-8015674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Data builds a real-time emotional map.",
+          "description": "New rules require sentiment analysis on flagged chats, feeding a population-wide emotional surveillance database.",
+          "visual_hint": "Neural network nodes glowing",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network nodes",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your app must report feelings now.",
+          "description": "Developers must redesign core architecture to report emotional user data or risk losing the Chinese market entirely.",
+          "visual_hint": "Hand tapping phone screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand tapping phone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test your AI's compliance.",
+          "description": "Run one assistant flow through a sentiment classifier today before the next audit deadline.",
+          "visual_hint": "Checklist with green pen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-06T13:38:27.800Z",
+      "sourceId": "dcc5b105e5c858d62cefc20d86e2ebb5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "some-of-the-nation-s-rich-are-letting-ai-teach-the",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -71902,6 +72110,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-spinaci-e-gorgonzola",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con spinaci e gorgonzola",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-spinaci-e-gorgonzola.html",
+      "pubDate": "Mon, 06 Jul 2026 09:32:00 +0200",
+      "content": "Pasta con spinaci e gorgonzola cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X SPECIALE Pasta italiana: sapore unico in collaborazione con Primi piatti Pasta Contenuto Sponsorizzato Pasta con spinaci e gorgonzola /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 813,9 Calorie per porzione Energia Kcal 813,9 Carboidrati g 63,4 &nbsp;&nbsp;di cui zuccheri g 2,7 Proteine g 22,9 Grassi g 52,6 &nbsp;&nbsp;di cui saturi g 15,6 Fibre g 4 Colesterolo mg 37,5 Sodio mg 629,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 15 min Cottura: 15 min Dosi per: 4 persone PRESENTAZIONE La pasta con spinaci e gorgonzola è un primo piatto genuino ma saporito, caratterizzato da una consistenza super cremosa , perfetto per ravvivare i menu di tutti i giorni e portare in tavola una ricetta di pasta nuova e accattivante. Gli spinaci frullati creano infatti una crema vellutata e dal colore brillante, perfetta per avvolgere gli spaghetti alla chitarra e trattenere tutto il condimento, garantendo un risultato avvolgente a ogni boccone. Il tocco stuzzicante del gorgonzola conferisce carattere al sapore complessivo, mentre i peperoni cruschi fritti e sbriciolati a mano donano una nota gustosa e croccante che completa la ricetta in modo originale e raffinato. Scoprite altre sfiziose ricette di pasta con gli spinaci : Pasta gratinata con gli spinaci Spaghetti ricotta e spinaci Pasta con spinaci e taleggio Pasta con feta e spinaci al forno Maltagliati con spinaci e ricotta salata Spinach and gorgonzola pasta INGREDIENTI 813,9 Calorie per porzione Spaghetti alla chitarra 320 g Peperoni cruschi 10 g Spinaci 250 g Gorgonzola 200 g Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. per friggere Olio di semi di arachide 300 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con spinaci e gorgonzola Per preparare la pasta con spinaci e gorgonzola, per prima cosa mettete l’acqua a scaldare con il sale 1 . Una volta raggiunto il bollore, versate gli spinaci 2 e lessateli per circa 3-4 minuti 3 . Scolateli in una brocca 4 e condite con olio 5 , sale e pepe 6 . Frullate con il mixer a immersione 7 fino a ottenere una crema 8 . Scaldate l'olio di semi e friggete i peperoni cruschi per un paio di minuti 9 . Poi scolateli su carta assorbente 10 e lasciate raffreddare. Cuocete gli spaghetti alla chitarra al dente nella stessa acqua in cui avete cotto gli spinaci 11 . Nel frattempo versate la crema in una padella 12 . Aggiungete il gorgonzola a pezzi 13 , avendo cura di tenerne da parte qualche cucchiaiata per la decorazione finale, e mescolate per farlo sciogliere 14 . Ora scolate gli spaghetti 15 . Trasferiteli direttamente nella padella con il condimento 16 , completate la cottura, aggiungendo l'acqua della pasta se necessario 17 . Impiattate subito gli spaghetti 18 . Guarnite con fiocchetti di gorgonzola tenuti da parte 19 e i peperoni cruschi fritti e sbriciolati a mano 20 . Servite subito la pasta con spinaci e gorgonzola 21 . Conservazione La pasta con spinaci e gorgonzola si conserva un giorno in frigorifero. Potete preparare in anticipo il condimento con gli spinaci e conservarlo in frigo. Consiglio Se non riuscite a trovare i peperoni cruschi potete sostituirli facilmente con delle noci o delle mandorle tritate e tostate in padella, che regaleranno al piatto la stessa piacevole nota croccante creando un contrasto perfetto con l'avvolgente cremosità del gorgonzola e degli spinaci. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Spaghetti Gorgonzola Pasta Olio di oliva Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con spinaci e gorgonzola senza panna",
+        "Spaghetti chitarra, spinaci, gorgonzola, peperoni cruschi",
+        "Lessare spinaci e frullarli in crema vellutata",
+        "Saltare pasta al dente con crema e gorgonzola",
+        "Guarnire con gorgonzola e peperoni cruschi sbriciolati"
+      ],
+      "instagram_caption": "Non serve la panna per avere una pasta che è un abbraccio cremoso. 🍝💚 Ho frullato gli spinaci lessati in una vellutata morbidissima, poi saltato gli spaghetti chitarra con quella crema e il gorgonzola che si scioglie piano. Il tocco finale? I peperoni cruschi sbriciolati: croccanti, affumicati, un contrasto che fa impazzire. Una di quelle cene che sembrano gourmet ma nascono in mezz’ora. Provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Non serve la panna per avere una pasta che è un abbraccio cremoso. 🍝💚 Ho frullato gli spinaci lessati in una vellutata morbidissima, poi saltato gli spaghetti chitarra con quella crema e il gorgonzola che si scioglie piano. Il tocco finale? I peperoni cruschi sbriciolati: croccanti, affumicati, un contrasto che fa impazzire. Una di quelle cene che sembrano gourmet ma nascono in mezz’ora. Provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Fondo spinaci, li frullo in crema vellutata.",
+            "Butto gli spaghetti chitarra al dente.",
+            "Unisco crema e gorgonzola a fuoco dolce.",
+            "Salto la pasta fino a farla cremosa.",
+            "Sbriciolo peperoni cruschi e gorgonzola sopra."
+          ]
+        },
+        "x": {
+          "thread": [
+            "C'è crema e crema. Questa la fate senza panna, solo spinaci e gorgonzola. Ed è una roba che vi entra in testa e non vi lascia più.",
+            "Spaghetti chitarra, spinaci freschi, gorgonzola dolce e peperoni cruschi. Pochi ingredienti, ma ci vuole il gesto giusto per farli cantare.",
+            "Il segreto è tutto qui: lessate gli spinaci e frullateli fino a ottenere una crema vellutata. Niente panna, niente latte, solo verdura che abbraccia la pasta.",
+            "Saltate la pasta al dente direttamente in padella con la crema di spinaci e il gorgonzola a pezzi. Una mantecatura lenta, finché non diventa velluto.",
+            "Fuori dal fuoco, aggiungete un altro po' di gorgonzola e una pioggia di peperoni cruschi sbriciolati. Croccantezza e cremosità. Provatela e fatemi sapere 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Fondo spinaci, li frullo in crema vellutata.",
+        "Butto gli spaghetti chitarra al dente.",
+        "Unisco crema e gorgonzola a fuoco dolce.",
+        "Salto la pasta fino a farla cremosa.",
+        "Sbriciolo peperoni cruschi e gorgonzola sopra."
+      ],
+      "thread_text": [
+        "C'è crema e crema. Questa la fate senza panna, solo spinaci e gorgonzola. Ed è una roba che vi entra in testa e non vi lascia più.",
+        "Spaghetti chitarra, spinaci freschi, gorgonzola dolce e peperoni cruschi. Pochi ingredienti, ma ci vuole il gesto giusto per farli cantare.",
+        "Il segreto è tutto qui: lessate gli spinaci e frullateli fino a ottenere una crema vellutata. Niente panna, niente latte, solo verdura che abbraccia la pasta.",
+        "Saltate la pasta al dente direttamente in padella con la crema di spinaci e il gorgonzola a pezzi. Una mantecatura lenta, finché non diventa velluto.",
+        "Fuori dal fuoco, aggiungete un altro po' di gorgonzola e una pioggia di peperoni cruschi sbriciolati. Croccantezza e cremosità. Provatela e fatemi sapere 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa senza panna",
+          "description": "Una pasta vellutata e ricca di sapore, grazie alla crema di spinaci e gorgonzola. Nessuna panna, solo gusto puro.",
+          "visual_hint": "piatto fumante su tavola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory pasta gorgonzola"
+        },
+        {
+          "hook": "I tre ingredienti segreti",
+          "description": "Spaghetti chitarra, spinaci freschi, gorgonzola cremoso e peperoni cruschi croccanti: il trio perfetto.",
+          "visual_hint": "ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory pasta ingredients",
+          "image": "https://images.pexels.com/photos/4038950/pexels-photo-4038950.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Crematura vellutata",
+          "description": "Lessare gli spinaci e frullarli fino a ottenere una crema liscia e setosa. Questo è il trucco per una pasta senza panna.",
+          "visual_hint": "frullatore con spinaci",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blended spinach cream",
+          "image": "https://images.pexels.com/photos/7937024/pexels-photo-7937024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca la pasta",
+          "description": "Scolare la pasta al dente e saltarla in padella con la crema di spinaci e il gorgonzola a cubetti. Mescola fino a scioglierlo.",
+          "visual_hint": "mano che mescola in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta pan",
+          "image": "https://images.pexels.com/photos/31094818/pexels-photo-31094818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Croccante finale",
+          "description": "Impiatta e guarnisci con gorgonzola sbriciolato e peperoni cruschi spezzettati. Contrasto cremoso-croccante irresistibile.",
+          "visual_hint": "piatto finito guarnito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta plate garnish",
+          "image": "https://images.pexels.com/photos/31261502/pexels-photo-31261502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "spinaci",
+        "gorgonzola",
+        "peperoni cruschi"
+      ],
+      "image": "https://www.giallozafferano.it/images/363-36380/Pasta-con-spinaci-e-gorgonzola_650x433_wm.jpg",
+      "savedAt": "2026-07-06T13:43:00.756Z",
+      "sourceId": "3f336022efc8f6a626ca63ce5ae8c347"
+    },
     {
       "schema_version": 2,
       "agent": "food",

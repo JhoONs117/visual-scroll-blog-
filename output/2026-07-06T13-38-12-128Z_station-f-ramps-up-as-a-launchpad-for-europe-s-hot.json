@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "station-f-ramps-up-as-a-launchpad-for-europe-s-hot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+  "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+  "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000",
+  "slides": [
+    "Can Station F birth Europe's next AI giant?",
+    "It now hosts over 1,000 AI-focused startups.",
+    "Most have no revenue—yet funding pours in.",
+    "You can now scout deals inside the campus.",
+    "Visit Station F before your competitors do."
+  ],
+  "thread_text": [
+    "1. Can Station F birth a giant?\n\nOver 1,000 AI startups now cram into one Paris campus—most with zero revenue.",
+    "2. No revenue, no problem.\n\nVenture capital still floods in. Investors are betting before seeing a single sale.",
+    "3. You can scout deals there.\n\nA new tool lets you walk the halls and pick startups before they leave the building.",
+    "4. Competitors are already visiting.\n\nYour rivals are inside Station F right now, meeting founders you haven't heard of.",
+    "5. Visit Station F this week.\n\nBook a campus tour or connect with a resident startup. If you don't, someone else will."
+  ],
+  "video_script": [
+    "Paris campus hosts a thousand AI startups.",
+    "Most have zero revenue but raise millions.",
+    "You can now scout deals on site.",
+    "Competitors are already walking those halls.",
+    "Visit Station F before your rivals do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Station F birth a giant?\n\nOver 1,000 AI startups now cram into one Paris campus—most with zero revenue.",
+        "2. No revenue, no problem.\n\nVenture capital still floods in. Investors are betting before seeing a single sale.",
+        "3. You can scout deals there.\n\nA new tool lets you walk the halls and pick startups before they leave the building.",
+        "4. Competitors are already visiting.\n\nYour rivals are inside Station F right now, meeting founders you haven't heard of.",
+        "5. Visit Station F this week.\n\nBook a campus tour or connect with a resident startup. If you don't, someone else will."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Paris campus hosts a thousand AI startups.",
+        "Most have zero revenue but raise millions.",
+        "You can now scout deals on site.",
+        "Competitors are already walking those halls.",
+        "Visit Station F before your rivals do."
+      ]
+    },
+    "instagram": {
+      "caption": "Over 1,000 AI startups are currently crammed into one Paris campus—Station F—and most are still chasing their first dollar of revenue 💸.\n\nVenture capital is flooding in before seeing a single sale. Investors are making bets on zero traction, just potential. A new tool now lets you walk the halls and pick deals inside the building 🔍.\n\nIf you create or invest in content tools, your competitors are already inside, meeting founders you haven't heard of.\n\nWhen was the last time you toured a hub where your next competitor might be signing their lease right now?"
+    }
+  },
+  "instagram_caption": "Over 1,000 AI startups are currently crammed into one Paris campus—Station F—and most are still chasing their first dollar of revenue 💸.\n\nVenture capital is flooding in before seeing a single sale. Investors are making bets on zero traction, just potential. A new tool now lets you walk the halls and pick deals inside the building 🔍.\n\nIf you create or invest in content tools, your competitors are already inside, meeting founders you haven't heard of.\n\nWhen was the last time you toured a hub where your next competitor might be signing their lease right now?",
+  "carousel_slides": [
+    {
+      "hook": "No revenue, no problem?",
+      "description": "Over 1,000 AI startups at Station F have zero revenue, yet venture capital keeps flooding in.",
+      "visual_hint": "Empty office with investors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Paris startup campus"
+    },
+    {
+      "hook": "Investors bet before sales.",
+      "description": "Most startups haven't made a single sale, but funding pours in from VCs betting on future giants.",
+      "visual_hint": "Stack of cash on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "venture capital money",
+      "image": "https://images.pexels.com/photos/5909810/pexels-photo-5909810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scout deals inside the campus.",
+      "description": "A new tool lets you walk Station F's halls and pick startups before they leave the building.",
+      "visual_hint": "Person using laptop map",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "startup campus map",
+      "image": "https://images.pexels.com/photos/7213509/pexels-photo-7213509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your rivals are already there.",
+      "description": "Competitors are inside Station F right now, meeting founders you haven't heard of yet.",
+      "visual_hint": "Two people shaking hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't get left behind. Visit.",
+      "description": "Book a campus tour or connect with a resident startup. If you don't, someone else will.",
+      "visual_hint": "Station F entrance sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Station F building",
+      "image": "https://images.pexels.com/photos/12026286/pexels-photo-12026286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+  "savedAt": "2026-07-06T13:38:45.615Z",
+  "sourceId": "6f235eb6d9b85fed20aab8fecc1b507d"
+}
