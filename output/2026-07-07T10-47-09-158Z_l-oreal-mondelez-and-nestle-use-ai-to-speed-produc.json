@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "l-oreal-mondelez-and-nestle-use-ai-to-speed-produc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+  "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+  "pubDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Why are L'Oreal, Mondelez, and Nestle adopting AI now?",
+    "AI slashes product prototyping from months to weeks.",
+    "This speed hides a hidden risk: algorithms may miss taste.",
+    "Your R&D team must test AI outputs with real consumers.",
+    "Before scaling AI, run blind panels to validate its choices."
+  ],
+  "thread_text": [
+    "1. AI is already in your R&D\n\nL'Oreal, Mondelez, and Nestle are not experimenting. They've moved prototyping from months to weeks.",
+    "2. Speed comes with a blind spot\n\nAlgorithms optimize for data, not taste. A faster prototype can mean a worse product.",
+    "3. The real risk isn't tech—it's trust\n\nAI might miss what humans instinctively notice. Don't assume its output is ready for market.",
+    "4. Your team is the safety net\n\nTest AI outputs with real consumers—not just data scientists. Blind panels catch what code misses.",
+    "5. Validate before you scale\n\nRun a blind panel this week on one AI-generated prototype. Does it pass the human test?"
+  ],
+  "video_script": [
+    "Big brands now prototype products in weeks.",
+    "But AI can miss what taste requires.",
+    "Speed hides the risk of bad flavor.",
+    "Test AI outputs with real consumers first.",
+    "Validate before you scale anything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI is already in your R&D\n\nL'Oreal, Mondelez, and Nestle are not experimenting. They've moved prototyping from months to weeks.",
+        "2. Speed comes with a blind spot\n\nAlgorithms optimize for data, not taste. A faster prototype can mean a worse product.",
+        "3. The real risk isn't tech—it's trust\n\nAI might miss what humans instinctively notice. Don't assume its output is ready for market.",
+        "4. Your team is the safety net\n\nTest AI outputs with real consumers—not just data scientists. Blind panels catch what code misses.",
+        "5. Validate before you scale\n\nRun a blind panel this week on one AI-generated prototype. Does it pass the human test?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Big brands now prototype products in weeks.",
+        "But AI can miss what taste requires.",
+        "Speed hides the risk of bad flavor.",
+        "Test AI outputs with real consumers first.",
+        "Validate before you scale anything."
+      ]
+    },
+    "instagram": {
+      "caption": "Product prototyping just went from months to weeks for L'Oreal, Mondelez, and Nestle — all using AI in R&D right now.🕐\n\nBut algorithms optimize for data, not taste 👅 A faster prototype can mean a worse product if code misses what humans catch.\n\nYour team must test AI outputs with real consumers — blind panels catch what data scientists miss.\n\nCan your last AI-generated prototype pass a blind taste test this week?🧪"
+    }
+  },
+  "instagram_caption": "Product prototyping just went from months to weeks for L'Oreal, Mondelez, and Nestle — all using AI in R&D right now.🕐\n\nBut algorithms optimize for data, not taste 👅 A faster prototype can mean a worse product if code misses what humans catch.\n\nYour team must test AI outputs with real consumers — blind panels catch what data scientists miss.\n\nCan your last AI-generated prototype pass a blind taste test this week?🧪",
+  "carousel_slides": [
+    {
+      "hook": "Your trust in AI is a risk?",
+      "description": "Nestle, L'Oreal, and Mondelez speed prototyping, but algorithms optimizing data may miss human taste.",
+      "visual_hint": "AI brain vs human taste",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "brain circuit board"
+    },
+    {
+      "hook": "Speed hides a blind spot.",
+      "description": "AI cuts months to weeks, but faster prototypes risk a worse product if taste is ignored.",
+      "visual_hint": "fast clock with blind spot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fast clock arrow",
+      "image": "https://images.pexels.com/photos/37568838/pexels-photo-37568838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Algorithms don't taste flavor.",
+      "description": "AI optimizes data, not instinct. What seems perfect to code may flop with consumers.",
+      "visual_hint": "robot tasting food fail",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot tasting food",
+      "image": "https://images.pexels.com/photos/6975533/pexels-photo-6975533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your team is the safety net.",
+      "description": "Test AI outputs with real consumers. Blind panels catch what code misses before market launch.",
+      "visual_hint": "hands testing product sample",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people tasting samples",
+      "image": "https://images.pexels.com/photos/25388937/pexels-photo-25388937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Validate before you scale — save this!",
+      "description": "Run a blind panel this week on one AI-generated prototype to see if it passes the human test.",
+      "visual_hint": "checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-07T10:47:28.198Z",
+  "sourceId": "a03b6b84cc7d3542629241998ead57f2"
+}
