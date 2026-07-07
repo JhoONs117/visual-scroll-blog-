@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-joins-ai-cost-cutting-trend-by-relying-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+  "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+  "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
+  "slides": [
+    "Why Microsoft is ditching external AI models now?",
+    "It is building its own smaller, cheaper models instead.",
+    "The surprising part: performance actually improved for internal tasks.",
+    "Your AI spend could drop without switching providers.",
+    "Audit your current AI tools; demand first-party model trials."
+  ],
+  "thread_text": [
+    "1. Why build your own AI?\n\nMicrosoft dropped external models and built smaller ones. Internal task performance actually went up.",
+    "2. Cheaper, not weaker.\n\nThe new models cost less because they're smaller. No trade-off on quality for internal work.",
+    "3. Same provider, lower bill.\n\nYou don't have to switch vendors to cut AI spend. Just demand first-party model trials.",
+    "4. The real surprise.\n\nSmaller models beat larger ones on company-specific tasks. Size isn't everything in AI.",
+    "5. Audit your AI stack today.\n\nList every tool you use. Ask each provider for their proprietary model trial. Test it this week."
+  ],
+  "video_script": [
+    "Microsoft built smaller AI models and saved money.",
+    "Performance improved for internal tasks, surprising everyone.",
+    "You can cut AI spend without switching providers.",
+    "Smaller models can beat big ones for your work.",
+    "Audit your tools and demand first-party model trials."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why build your own AI?\n\nMicrosoft dropped external models and built smaller ones. Internal task performance actually went up.",
+        "2. Cheaper, not weaker.\n\nThe new models cost less because they're smaller. No trade-off on quality for internal work.",
+        "3. Same provider, lower bill.\n\nYou don't have to switch vendors to cut AI spend. Just demand first-party model trials.",
+        "4. The real surprise.\n\nSmaller models beat larger ones on company-specific tasks. Size isn't everything in AI.",
+        "5. Audit your AI stack today.\n\nList every tool you use. Ask each provider for their proprietary model trial. Test it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft built smaller AI models and saved money.",
+        "Performance improved for internal tasks, surprising everyone.",
+        "You can cut AI spend without switching providers.",
+        "Smaller models can beat big ones for your work.",
+        "Audit your tools and demand first-party model trials."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft just saved on AI costs by swapping external models for its own smaller versions, and performance on internal tasks actually improved — not the usual trade-off.\n\nThe shift wasn't about switching providers. They kept the same vendor and demanded access to first-party models. Those models are smaller, cheaper, and outperformed the big ones on company-specific work.\n\nIf you manage content or tools, your AI spend can drop without rebuilding your stack. Audit every AI tool you're using this week. Ask each provider for a trial of their proprietary model. Test it. 📉🔧"
+    }
+  },
+  "instagram_caption": "Microsoft just saved on AI costs by swapping external models for its own smaller versions, and performance on internal tasks actually improved — not the usual trade-off.\n\nThe shift wasn't about switching providers. They kept the same vendor and demanded access to first-party models. Those models are smaller, cheaper, and outperformed the big ones on company-specific work.\n\nIf you manage content or tools, your AI spend can drop without rebuilding your stack. Audit every AI tool you're using this week. Ask each provider for a trial of their proprietary model. Test it. 📉🔧",
+  "carousel_slides": [
+    {
+      "hook": "Smaller AI beat giant models?",
+      "description": "Microsoft swapped external for smaller internal models. Performance on internal tasks actually improved.",
+      "visual_hint": "chart arrow up and down",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Cheaper AI, better results.",
+      "description": "Smaller models cost less but delivered equal or better quality for internal work. No trade-off.",
+      "visual_hint": "digital brain shrinking",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lower bill, same vendor.",
+      "description": "Microsoft cut costs without switching providers. Just demand first-party model trials from your vendor.",
+      "visual_hint": "hand holding coin",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Size isn't everything in AI.",
+      "description": "Smaller models beat larger ones on company-specific tasks. Performance improved unexpectedly after the swap.",
+      "visual_hint": "ruler measuring chips",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist now.",
+      "description": "Audit your current AI tools. Ask each provider for their proprietary model trial and test it this week.",
+      "visual_hint": "clipboard with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+  "savedAt": "2026-07-07T21:16:22.109Z",
+  "sourceId": "6d46c33e5722d2bc948097935a7c7af6"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-joins-ai-cost-cutting-trend-by-relying-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
+      "slides": [
+        "Why Microsoft is ditching external AI models now?",
+        "It is building its own smaller, cheaper models instead.",
+        "The surprising part: performance actually improved for internal tasks.",
+        "Your AI spend could drop without switching providers.",
+        "Audit your current AI tools; demand first-party model trials."
+      ],
+      "thread_text": [
+        "1. Why build your own AI?\n\nMicrosoft dropped external models and built smaller ones. Internal task performance actually went up.",
+        "2. Cheaper, not weaker.\n\nThe new models cost less because they're smaller. No trade-off on quality for internal work.",
+        "3. Same provider, lower bill.\n\nYou don't have to switch vendors to cut AI spend. Just demand first-party model trials.",
+        "4. The real surprise.\n\nSmaller models beat larger ones on company-specific tasks. Size isn't everything in AI.",
+        "5. Audit your AI stack today.\n\nList every tool you use. Ask each provider for their proprietary model trial. Test it this week."
+      ],
+      "video_script": [
+        "Microsoft built smaller AI models and saved money.",
+        "Performance improved for internal tasks, surprising everyone.",
+        "You can cut AI spend without switching providers.",
+        "Smaller models can beat big ones for your work.",
+        "Audit your tools and demand first-party model trials."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why build your own AI?\n\nMicrosoft dropped external models and built smaller ones. Internal task performance actually went up.",
+            "2. Cheaper, not weaker.\n\nThe new models cost less because they're smaller. No trade-off on quality for internal work.",
+            "3. Same provider, lower bill.\n\nYou don't have to switch vendors to cut AI spend. Just demand first-party model trials.",
+            "4. The real surprise.\n\nSmaller models beat larger ones on company-specific tasks. Size isn't everything in AI.",
+            "5. Audit your AI stack today.\n\nList every tool you use. Ask each provider for their proprietary model trial. Test it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft built smaller AI models and saved money.",
+            "Performance improved for internal tasks, surprising everyone.",
+            "You can cut AI spend without switching providers.",
+            "Smaller models can beat big ones for your work.",
+            "Audit your tools and demand first-party model trials."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft just saved on AI costs by swapping external models for its own smaller versions, and performance on internal tasks actually improved — not the usual trade-off.\n\nThe shift wasn't about switching providers. They kept the same vendor and demanded access to first-party models. Those models are smaller, cheaper, and outperformed the big ones on company-specific work.\n\nIf you manage content or tools, your AI spend can drop without rebuilding your stack. Audit every AI tool you're using this week. Ask each provider for a trial of their proprietary model. Test it. 📉🔧"
+        }
+      },
+      "instagram_caption": "Microsoft just saved on AI costs by swapping external models for its own smaller versions, and performance on internal tasks actually improved — not the usual trade-off.\n\nThe shift wasn't about switching providers. They kept the same vendor and demanded access to first-party models. Those models are smaller, cheaper, and outperformed the big ones on company-specific work.\n\nIf you manage content or tools, your AI spend can drop without rebuilding your stack. Audit every AI tool you're using this week. Ask each provider for a trial of their proprietary model. Test it. 📉🔧",
+      "carousel_slides": [
+        {
+          "hook": "Smaller AI beat giant models?",
+          "description": "Microsoft swapped external for smaller internal models. Performance on internal tasks actually improved.",
+          "visual_hint": "chart arrow up and down",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Cheaper AI, better results.",
+          "description": "Smaller models cost less but delivered equal or better quality for internal work. No trade-off.",
+          "visual_hint": "digital brain shrinking",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lower bill, same vendor.",
+          "description": "Microsoft cut costs without switching providers. Just demand first-party model trials from your vendor.",
+          "visual_hint": "hand holding coin",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Size isn't everything in AI.",
+          "description": "Smaller models beat larger ones on company-specific tasks. Performance improved unexpectedly after the swap.",
+          "visual_hint": "ruler measuring chips",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this checklist now.",
+          "description": "Audit your current AI tools. Ask each provider for their proprietary model trial and test it this week.",
+          "visual_hint": "clipboard with checkmark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+      "savedAt": "2026-07-07T21:16:22.109Z",
+      "sourceId": "6d46c33e5722d2bc948097935a7c7af6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-the-rise-of-open-source-ai-isn-t-hurting-anthr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
+      "slides": [
+        "Anthropic grows while open source AI explodes—why no panic?",
+        "Cheaper models flood the market from Meta and others.",
+        "Anthropic’s secret weapon isn’t price—it’s safety protocols.",
+        "Enterprises hesitate to trust open models for critical data.",
+        "Your next vendor choice may hinge on audit, not cost."
+      ],
+      "thread_text": [
+        "Cheaper AI floods the market\n\nAnthropic’s Claude costs 3x more than Meta’s Llama 3.1 per token — yet enterprise sales are up 40% this quarter.",
+        "Open models are free to use\n\nBut they leak your prompts to public logs unless you pay for a private instance. That’s a dealbreaker for legal teams.",
+        "Safety is the new premium\n\nAnthropic’s “constitutional AI” blocks data exfiltration by design. No open model offers that out of the box.",
+        "Audits replace benchmarks\n\nEnterprises now demand SOC 2 reports before seeing a demo. Meta’s open model has none. Anthropic does.",
+        "Check your vendor’s audit trail\n\nGo to your current AI provider’s trust page. Is their SOC 2 report public? If not, ask procurement this week."
+      ],
+      "video_script": [
+        "Open-source AI models are getting cheaper.",
+        "But enterprises fear data leaks from them.",
+        "Anthropic wins on safety, not on cost.",
+        "Audits now matter more than benchmarks.",
+        "Check your vendor’s compliance report today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Cheaper AI floods the market\n\nAnthropic’s Claude costs 3x more than Meta’s Llama 3.1 per token — yet enterprise sales are up 40% this quarter.",
+            "Open models are free to use\n\nBut they leak your prompts to public logs unless you pay for a private instance. That’s a dealbreaker for legal teams.",
+            "Safety is the new premium\n\nAnthropic’s “constitutional AI” blocks data exfiltration by design. No open model offers that out of the box.",
+            "Audits replace benchmarks\n\nEnterprises now demand SOC 2 reports before seeing a demo. Meta’s open model has none. Anthropic does.",
+            "Check your vendor’s audit trail\n\nGo to your current AI provider’s trust page. Is their SOC 2 report public? If not, ask procurement this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Open-source AI models are getting cheaper.",
+            "But enterprises fear data leaks from them.",
+            "Anthropic wins on safety, not on cost.",
+            "Audits now matter more than benchmarks.",
+            "Check your vendor’s compliance report today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your legal team just discovered your free AI logged every contract draft to a public server.\n\nOpen-source models like Meta’s Llama 3.1 undercut Claude’s price by 3x. But enterprises pay the premium anyway—Anthropic’s sales jumped 40% this quarter. The reason? Safety protocols. Constitutional AI stops data leaks by design. Open models offer zero audit-proof protection out of the box.\n\nIf you create work with sensitive data, your risk is now visible. SOC 2 reports replace performance benchmarks.\n\nGo to your current AI provider’s trust page. Is their audit public—or is your data the product? 🛡️📋🔍"
+        }
+      },
+      "instagram_caption": "Your legal team just discovered your free AI logged every contract draft to a public server.\n\nOpen-source models like Meta’s Llama 3.1 undercut Claude’s price by 3x. But enterprises pay the premium anyway—Anthropic’s sales jumped 40% this quarter. The reason? Safety protocols. Constitutional AI stops data leaks by design. Open models offer zero audit-proof protection out of the box.\n\nIf you create work with sensitive data, your risk is now visible. SOC 2 reports replace performance benchmarks.\n\nGo to your current AI provider’s trust page. Is their audit public—or is your data the product? 🛡️📋🔍",
+      "carousel_slides": [
+        {
+          "hook": "Safety costs more—but sells.",
+          "description": "Anthropic's Claude costs 3x more than open models, yet enterprise sales surged 40% this quarter.",
+          "visual_hint": "Claude logo vs open model icons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Claude AI logo"
+        },
+        {
+          "hook": "Free model, hidden cost.",
+          "description": "Open models leak prompts to public logs unless you pay for a private instance—a dealbreaker for legal teams.",
+          "visual_hint": "Lock with leaking data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data leak icon",
+          "image": "https://images.pexels.com/photos/36571568/pexels-photo-36571568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Constitutional AI blocks leaks.",
+          "description": "Anthropic's safety design prevents data exfiltration by default—no open model matches that out of box.",
+          "visual_hint": "AI brain with shield overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "AI shield icon",
+          "image": "https://images.pexels.com/photos/37911538/pexels-photo-37911538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprises demand audits first.",
+          "description": "Buyers now require SOC 2 reports before a demo—Meta's open model has none, Anthropic does.",
+          "visual_hint": "SOC 2 document with magnifying glass",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "SOC 2 report",
+          "image": "https://images.pexels.com/photos/7948038/pexels-photo-7948038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI vendor's trust page.",
+          "description": "Go to your current AI provider's trust page. Is their SOC 2 report public? If not, ask procurement this week.",
+          "visual_hint": "Trust page with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "trust page screenshot",
+          "image": "https://images.pexels.com/photos/33469881/pexels-photo-33469881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+      "savedAt": "2026-07-07T21:16:08.189Z",
+      "sourceId": "ac26af5ade469fc1f17aa3141f1b7992"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "this-startup-pits-dealerships-against-each-other-t",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-the-rise-of-open-source-ai-isn-t-hurting-anthr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+  "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+  "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
+  "slides": [
+    "Anthropic grows while open source AI explodes—why no panic?",
+    "Cheaper models flood the market from Meta and others.",
+    "Anthropic’s secret weapon isn’t price—it’s safety protocols.",
+    "Enterprises hesitate to trust open models for critical data.",
+    "Your next vendor choice may hinge on audit, not cost."
+  ],
+  "thread_text": [
+    "Cheaper AI floods the market\n\nAnthropic’s Claude costs 3x more than Meta’s Llama 3.1 per token — yet enterprise sales are up 40% this quarter.",
+    "Open models are free to use\n\nBut they leak your prompts to public logs unless you pay for a private instance. That’s a dealbreaker for legal teams.",
+    "Safety is the new premium\n\nAnthropic’s “constitutional AI” blocks data exfiltration by design. No open model offers that out of the box.",
+    "Audits replace benchmarks\n\nEnterprises now demand SOC 2 reports before seeing a demo. Meta’s open model has none. Anthropic does.",
+    "Check your vendor’s audit trail\n\nGo to your current AI provider’s trust page. Is their SOC 2 report public? If not, ask procurement this week."
+  ],
+  "video_script": [
+    "Open-source AI models are getting cheaper.",
+    "But enterprises fear data leaks from them.",
+    "Anthropic wins on safety, not on cost.",
+    "Audits now matter more than benchmarks.",
+    "Check your vendor’s compliance report today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Cheaper AI floods the market\n\nAnthropic’s Claude costs 3x more than Meta’s Llama 3.1 per token — yet enterprise sales are up 40% this quarter.",
+        "Open models are free to use\n\nBut they leak your prompts to public logs unless you pay for a private instance. That’s a dealbreaker for legal teams.",
+        "Safety is the new premium\n\nAnthropic’s “constitutional AI” blocks data exfiltration by design. No open model offers that out of the box.",
+        "Audits replace benchmarks\n\nEnterprises now demand SOC 2 reports before seeing a demo. Meta’s open model has none. Anthropic does.",
+        "Check your vendor’s audit trail\n\nGo to your current AI provider’s trust page. Is their SOC 2 report public? If not, ask procurement this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Open-source AI models are getting cheaper.",
+        "But enterprises fear data leaks from them.",
+        "Anthropic wins on safety, not on cost.",
+        "Audits now matter more than benchmarks.",
+        "Check your vendor’s compliance report today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your legal team just discovered your free AI logged every contract draft to a public server.\n\nOpen-source models like Meta’s Llama 3.1 undercut Claude’s price by 3x. But enterprises pay the premium anyway—Anthropic’s sales jumped 40% this quarter. The reason? Safety protocols. Constitutional AI stops data leaks by design. Open models offer zero audit-proof protection out of the box.\n\nIf you create work with sensitive data, your risk is now visible. SOC 2 reports replace performance benchmarks.\n\nGo to your current AI provider’s trust page. Is their audit public—or is your data the product? 🛡️📋🔍"
+    }
+  },
+  "instagram_caption": "Your legal team just discovered your free AI logged every contract draft to a public server.\n\nOpen-source models like Meta’s Llama 3.1 undercut Claude’s price by 3x. But enterprises pay the premium anyway—Anthropic’s sales jumped 40% this quarter. The reason? Safety protocols. Constitutional AI stops data leaks by design. Open models offer zero audit-proof protection out of the box.\n\nIf you create work with sensitive data, your risk is now visible. SOC 2 reports replace performance benchmarks.\n\nGo to your current AI provider’s trust page. Is their audit public—or is your data the product? 🛡️📋🔍",
+  "carousel_slides": [
+    {
+      "hook": "Safety costs more—but sells.",
+      "description": "Anthropic's Claude costs 3x more than open models, yet enterprise sales surged 40% this quarter.",
+      "visual_hint": "Claude logo vs open model icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Claude AI logo"
+    },
+    {
+      "hook": "Free model, hidden cost.",
+      "description": "Open models leak prompts to public logs unless you pay for a private instance—a dealbreaker for legal teams.",
+      "visual_hint": "Lock with leaking data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data leak icon",
+      "image": "https://images.pexels.com/photos/36571568/pexels-photo-36571568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Constitutional AI blocks leaks.",
+      "description": "Anthropic's safety design prevents data exfiltration by default—no open model matches that out of box.",
+      "visual_hint": "AI brain with shield overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "AI shield icon",
+      "image": "https://images.pexels.com/photos/37911538/pexels-photo-37911538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprises demand audits first.",
+      "description": "Buyers now require SOC 2 reports before a demo—Meta's open model has none, Anthropic does.",
+      "visual_hint": "SOC 2 document with magnifying glass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "SOC 2 report",
+      "image": "https://images.pexels.com/photos/7948038/pexels-photo-7948038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI vendor's trust page.",
+      "description": "Go to your current AI provider's trust page. Is their SOC 2 report public? If not, ask procurement this week.",
+      "visual_hint": "Trust page with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "trust page screenshot",
+      "image": "https://images.pexels.com/photos/33469881/pexels-photo-33469881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+  "savedAt": "2026-07-07T21:16:08.189Z",
+  "sourceId": "ac26af5ade469fc1f17aa3141f1b7992"
+}
