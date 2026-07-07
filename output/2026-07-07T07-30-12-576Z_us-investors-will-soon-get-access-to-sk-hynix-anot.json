@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-investors-will-soon-get-access-to-sk-hynix-anot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+  "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+  "pubDate": "Mon, 06 Jul 2026 23:21:03 +0000",
+  "slides": [
+    "US investors blocked from SK Hynix—until now?",
+    "SK Hynix dominates high-bandwidth memory for AI chips.",
+    "It beat Samsung to supply Nvidia's most critical component.",
+    "Through this ETF, you can finally own HBM exposure.",
+    "Check your broker before the next AI earnings surprise."
+  ],
+  "thread_text": [
+    "1. What changed?\n\nUS investors were locked out of SK Hynix for years. Now an ETF finally opens that door.",
+    "2. The HBM chokehold\n\nSK Hynix controls over 90% of the high-bandwidth memory market. Samsung is still playing catch-up.",
+    "3. Nvidia’s secret weapon\n\nEvery Blackwell GPU ships with SK Hynix memory. Without it, Nvidia can't deliver AI chips.",
+    "4. One ticker, full access\n\nThis single ETF holds SK Hynix stock directly. No Korean account or foreign broker needed.",
+    "5. Check before earnings\n\nNvidia reports in two weeks. Can your broker buy the ETF today? Test it now."
+  ],
+  "video_script": [
+    "Investors were blocked from SK Hynix. Until now.",
+    "SK Hynix owns nearly all AI memory production.",
+    "Without it, Nvidia's GPUs would not ship.",
+    "A new ETF finally gives you direct exposure.",
+    "Check your broker before next earnings surprise."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What changed?\n\nUS investors were locked out of SK Hynix for years. Now an ETF finally opens that door.",
+        "2. The HBM chokehold\n\nSK Hynix controls over 90% of the high-bandwidth memory market. Samsung is still playing catch-up.",
+        "3. Nvidia’s secret weapon\n\nEvery Blackwell GPU ships with SK Hynix memory. Without it, Nvidia can't deliver AI chips.",
+        "4. One ticker, full access\n\nThis single ETF holds SK Hynix stock directly. No Korean account or foreign broker needed.",
+        "5. Check before earnings\n\nNvidia reports in two weeks. Can your broker buy the ETF today? Test it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Investors were blocked from SK Hynix. Until now.",
+        "SK Hynix owns nearly all AI memory production.",
+        "Without it, Nvidia's GPUs would not ship.",
+        "A new ETF finally gives you direct exposure.",
+        "Check your broker before next earnings surprise."
+      ]
+    },
+    "instagram": {
+      "caption": "US investors couldn’t buy SK Hynix until now. An ETF just changed that.\n\nSK Hynix owns over 90% of the high-bandwidth memory market. Every Nvidia Blackwell GPU ships with their chips—without them, AI hardware stalls.\n\nIf you publish content on AI performance or hardware benchmarks, expect these memory bottlenecks to hit production timelines.\n\nCan your broker buy the ETF today? Check now before Nvidia’s next earnings surprise hits."
+    }
+  },
+  "instagram_caption": "US investors couldn’t buy SK Hynix until now. An ETF just changed that.\n\nSK Hynix owns over 90% of the high-bandwidth memory market. Every Nvidia Blackwell GPU ships with their chips—without them, AI hardware stalls.\n\nIf you publish content on AI performance or hardware benchmarks, expect these memory bottlenecks to hit production timelines.\n\nCan your broker buy the ETF today? Check now before Nvidia’s next earnings surprise hits.",
+  "carousel_slides": [
+    {
+      "hook": "Blocked from SK Hynix? Not anymore.",
+      "description": "US investors were locked out for years. An ETF finally opens the door to HBM exposure.",
+      "visual_hint": "Lock opening with key",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "key unlock door"
+    },
+    {
+      "hook": "Nvidia's secret weapon revealed.",
+      "description": "SK Hynix controls 90%+ of high-bandwidth memory. Every Blackwell GPU ships with it.",
+      "visual_hint": "AI chip with memory stack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip closeup",
+      "image": "https://images.pexels.com/photos/7286003/pexels-photo-7286003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Beating Samsung to the AI throne.",
+      "description": "SK Hynix beat Samsung to supply Nvidia's most critical component: HBM3E memory.",
+      "visual_hint": "Racing cars side by side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "race track finish",
+      "image": "https://images.pexels.com/photos/1127120/pexels-photo-1127120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One ticker to own the boom.",
+      "description": "This single ETF holds SK Hynix directly. No Korean broker or foreign account required.",
+      "visual_hint": "ETF ticker on smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your broker before earnings.",
+      "description": "Nvidia reports in two weeks. Test if you can buy this ETF today right from your app.",
+      "visual_hint": "Calendar with earnings date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar with marker",
+      "image": "https://images.pexels.com/photos/5982315/pexels-photo-5982315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+  "savedAt": "2026-07-07T07:30:26.475Z",
+  "sourceId": "d4e9be0269bb278c67195ab8a9675eda"
+}
