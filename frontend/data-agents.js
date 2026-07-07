@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "savi-s-app-aims-to-protect-consumers-from-realisti",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
+      "slides": [
+        "Can Savi’s app spot a kidnapper AI voice?",
+        "Scammers clone voices from just three seconds.",
+        "Savi detects deepfake audio in real time.",
+        "Your phone now warns you before you pay.",
+        "Test a suspicious call today, not tomorrow."
+      ],
+      "thread_text": [
+        "1. Your phone hears you.\n\nThree seconds of your voice is enough to clone it. Scammers already use it against you.",
+        "2. They call your mom.\n\nThe voice sounds like you. She believes it because it is you — just not really you.",
+        "3. Savi listens live.\n\nWhile the call runs, the app checks if the voice is real. If fake, you get a silent alert before damage.",
+        "4. Payment warning triggers.\n\nBefore you approve a transaction, your phone compares the caller's voice. If cloned, it blocks the payment automatically.",
+        "5. Test a call this week.\n\nCall a friend and record three seconds of their voice. Then ask them to say something else. How close does an AI clone get?"
+      ],
+      "video_script": [
+        "Three seconds of your voice.",
+        "They clone it and call your mom.",
+        "Savi detects fake voices while you talk.",
+        "Your phone blocks payment if voice is cloned.",
+        "Test a suspicious call today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your phone hears you.\n\nThree seconds of your voice is enough to clone it. Scammers already use it against you.",
+            "2. They call your mom.\n\nThe voice sounds like you. She believes it because it is you — just not really you.",
+            "3. Savi listens live.\n\nWhile the call runs, the app checks if the voice is real. If fake, you get a silent alert before damage.",
+            "4. Payment warning triggers.\n\nBefore you approve a transaction, your phone compares the caller's voice. If cloned, it blocks the payment automatically.",
+            "5. Test a call this week.\n\nCall a friend and record three seconds of their voice. Then ask them to say something else. How close does an AI clone get?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Three seconds of your voice.",
+            "They clone it and call your mom.",
+            "Savi detects fake voices while you talk.",
+            "Your phone blocks payment if voice is cloned.",
+            "Test a suspicious call today."
+          ]
+        },
+        "instagram": {
+          "caption": "Three seconds of your voice is enough for scammers to clone it and call your mom asking for ransom. 🎙️\n\nSavi’s new app listens live during calls and flags deepfake audio before you act. If the voice is fake, your phone silently warns you — and can block a payment automatically. 🛡️\n\nYou don’t need to be a tech expert. The app runs in the background, and the alert comes before you authorize a transfer.\n\nWhen was the last time you recorded your own voice — and could you tell the difference between you and a clone?"
+        }
+      },
+      "instagram_caption": "Three seconds of your voice is enough for scammers to clone it and call your mom asking for ransom. 🎙️\n\nSavi’s new app listens live during calls and flags deepfake audio before you act. If the voice is fake, your phone silently warns you — and can block a payment automatically. 🛡️\n\nYou don’t need to be a tech expert. The app runs in the background, and the alert comes before you authorize a transfer.\n\nWhen was the last time you recorded your own voice — and could you tell the difference between you and a clone?",
+      "carousel_slides": [
+        {
+          "hook": "Your voice cloned in 3 seconds.",
+          "description": "A kidnapper AI can clone your voice from just three seconds of audio.",
+          "visual_hint": "voice waveform",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "audio waveform"
+        },
+        {
+          "hook": "She believed it was you.",
+          "description": "Scammers use cloned voices to call your mom and demand ransom.",
+          "visual_hint": "woman scared",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "worried mother phone",
+          "image": "https://images.pexels.com/photos/6957248/pexels-photo-6957248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Savi spots fake voices live.",
+          "description": "During a call, it checks if the voice is real and sends a silent alert.",
+          "visual_hint": "phone alert",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone notification",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Payment blocked automatically.",
+          "description": "Before you approve a transaction, your phone compares the caller's voice.",
+          "visual_hint": "hand holding phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone payment",
+          "image": "https://images.pexels.com/photos/6969809/pexels-photo-6969809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to protect your family.",
+          "description": "Test a friend's cloned voice today and see how easy it is.",
+          "visual_hint": "finger tapping screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "finger tapping phone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
+      "savedAt": "2026-07-07T14:09:31.863Z",
+      "sourceId": "e2c62726c5816c6c5f05434eae5e7f2f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "l-oreal-mondelez-and-nestle-use-ai-to-speed-produc",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -72942,6 +73046,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-di-patate-con-crema-di-rucola",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata di patate con crema di rucola",
+      "link": "https://ricette.giallozafferano.it/Insalata-di-patate-con-crema-di-rucola.html",
+      "pubDate": "Tue, 07 Jul 2026 10:34:00 +0200",
+      "content": "Insalata di patate con crema di rucola: ricetta facile, fresca e cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Top Blogger TOP BLOGGER Insalate Insalata di patate con crema di rucola /5 Ricetta proposta da Luisa Orizio CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 15 min Cottura: 15 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE L' insalata di patate con crema di rucola è un'idea semplice e gustosa, perfetta da portare in tavola durante la bella stagione. Un' insalata estiva dal sapore fresco e aromatico, ideale come contorno fresco per secondi di carne o di pesce, ma anche come piatto freddo da gustare a pranzo o da portare in ufficio, al mare o per un picnic. Grazie alle patate lesse , che possono essere preparate in anticipo, questa è una ricetta veloce e pratica, perfetta per organizzare i pasti senza stress. Il vero protagonista è il pesto di rucola , una crema vellutata dal gusto deciso e profumata al limone, che regala un condimento leggero e dal colore brillante. A completare il piatto ci pensano le olive taggiasche, dal sapore intenso ma equilibrato, e le scaglie di Parmigiano, che aggiungono una piacevole nota sapida e una consistenza irresistibile. Questa ricetta vegetariana , ispirata ai sapori della cucina mediterranea, è estremamente versatile: potete personalizzarla con pomodorini, fagiolini, tonno, mozzarella, feta, uova sode o frutta secca, trasformandola facilmente anche in un ricco piatto unico freddo . Una preparazione colorata, genuina e sempre diversa, perfetta per accompagnare tutta l'estate. Provate altre varianti di questa insalata di patate : Insalata pantesca Insalata di patate e cetrioli Insalata di patate e tonno Insalata di patate con cicoria e feta Insalata di patate e zucchine Insalata di patate al verde Potato salad with creamy arugula dressing INGREDIENTI Patate 800 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. per la crema di rucola Rucola 200 g Succo di limone q.b. Scorza di limone q.b. Olive taggiasche 50 g Parmigiano Reggiano DOP q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di patate con crema di rucola Per preparare l'insalata di patate con crema di rucola iniziate sbucciando le patate con un pelapatate 1 , poi tagliatele prima a fette spesse 2 , e successivamente a cubotti piuttosto regolari 3 . Portate a bollore una pentola d'acqua, salatela 4 e tuffatevi le patate 5 . Cuocetele finché saranno tenere ma ancora compatte, ci vorranno circa 15 minuti, quindi scolatele delicatamente con una schiumarola 6 e lasciatele intiepidire. Nel frattempo dedicatevi alla preparazione della crema di rucola. Spremete il limone e tenete da parte il succo 7 . Versate la rucola nel bicchiere del frullatore a immersione 8 e aggiustate di sale 9 . Condite con pepe 10 e olio extravergine d'oliva 11 , grattugiate anche la scorza del limone direttamente nel bicchiere 12 . Versate il succo precedentemente spremuto 13 . Frullate il tutto con il mixer a immersione 14 fino a ottenere una crema liscia e omogenea 15 . Trasferite la crema di rucola in un'insalatiera capiente e aggiungete le patate lessate 16 . Unite anche le olive taggiasche 17 e mescolate delicatamente con un cucchiaio. Dovete ricoprire uniformemente tutti i cubotti di patata con la crema 19 . Distribuite l'insalata nei piatti da portata e completate con scaglie di Parmigiano 20 , un filo di olio extravergine d'oliva a crudo e una macinata di pepe nero fresco. Servite subito l'insalata di patate con crema di rucola 21 . Conservazione Potete conservare la vostra insalata di patate con crema di rucola per 2-3 giorni al massimo chiusa in un contenitore ermetico e riposta in frigorifero. Sconsigliamo la congelazione. Consiglio Completate il piatto con qualche pinolo tostato o mandorle a lamelle: aggiungeranno una piacevole nota croccante. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Patate Olive in salamoia Olio di oliva Limone Scopri tutto sugli ingredienti Presente in: Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Frittata di zucchine in friggitrice ad aria Sbriciolata senza cottura con crema di ricotta e pesche 5.0 Insalata di patate con crema di rucola 5.0 SCOPRI Insalata di rucola Insalata di polpo con patate Insalata di pollo e patate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata di patate con crema di rucola",
+        "Patate, rucola, olive taggiasche, limone, Parmigiano",
+        "Lessare le patate a cubotti per 15 minuti",
+        "Frullare rucola con olio, limone, sale e pepe",
+        "Scaglie di Parmigiano e pinoli tostati"
+      ],
+      "instagram_caption": "Insalata di patate? Non quella solita e scontata, ma una versione che sa di primavera. 🥔🍃\n\nPatate tenere lessate al punto giusto, avvolte da una crema vellutata di rucola, olio e limone. Poi il sapore deciso delle olive taggiasche, le scaglie di Parmigiano che si sciolgono appena e il croccante dei pinoli tostati. Il contrasto perfetto tra morbido, fresco e sapido. È un contorno che ruba la scena. 🧀✨\n\nSemplice, veloce e con ingredienti che hai quasi sempre in dispensa. Provala questo weekend, è una bomba di freschezza. 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Insalata di patate? Non quella solita e scontata, ma una versione che sa di primavera. 🥔🍃\n\nPatate tenere lessate al punto giusto, avvolte da una crema vellutata di rucola, olio e limone. Poi il sapore deciso delle olive taggiasche, le scaglie di Parmigiano che si sciolgono appena e il croccante dei pinoli tostati. Il contrasto perfetto tra morbido, fresco e sapido. È un contorno che ruba la scena. 🧀✨\n\nSemplice, veloce e con ingredienti che hai quasi sempre in dispensa. Provala questo weekend, è una bomba di freschezza. 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Lessiamo le patate a cubotti per 15 minuti.",
+            "Frullo rucola con olio, limone, sale e pepe.",
+            "Aggiungo le olive taggiasche nella ciotola.",
+            "Condisco con la crema verde e mescolo bene.",
+            "Scaglie di Parmigiano e pinoli tostati, ecco fatto!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "C’è un’insalata di patate che non hai mai mangiato. La mia ha una crema di rucola che la trasforma. Fresca, saporita, con quel tocco di amaro che fa impazzire. Ti spiego come farla 👇",
+            "Patate lessate a cubotti – 15 minuti, giusto il tempo che diventano tenere ma non si sfaldano. Poi le lasci intiepidire. Il segreto è non annegare tutto finché sono calde.",
+            "La crema: un mazzo di rucola, olio extravergine, succo di limone, sale e pepe. Frulla tutto fino a ottenere una salsa fluida e verde brillante. Sembra un pesto, ma è più leggera e pungente.",
+            "Condisci le patate con la crema di rucola, aggiungi olive taggiasche (quelle piccole e saporite) e mescola piano. Le olive danno la giusta sapidità. Lascia riposare 5 minuti.",
+            "Prima di servire, scaglie di Parmigiano sopra e pinoli tostati per la croccantezza. Ogni boccone ha cremosità, amaro, dolce e crunch. Provala e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Lessiamo le patate a cubotti per 15 minuti.",
+        "Frullo rucola con olio, limone, sale e pepe.",
+        "Aggiungo le olive taggiasche nella ciotola.",
+        "Condisco con la crema verde e mescolo bene.",
+        "Scaglie di Parmigiano e pinoli tostati, ecco fatto!"
+      ],
+      "thread_text": [
+        "C’è un’insalata di patate che non hai mai mangiato. La mia ha una crema di rucola che la trasforma. Fresca, saporita, con quel tocco di amaro che fa impazzire. Ti spiego come farla 👇",
+        "Patate lessate a cubotti – 15 minuti, giusto il tempo che diventano tenere ma non si sfaldano. Poi le lasci intiepidire. Il segreto è non annegare tutto finché sono calde.",
+        "La crema: un mazzo di rucola, olio extravergine, succo di limone, sale e pepe. Frulla tutto fino a ottenere una salsa fluida e verde brillante. Sembra un pesto, ma è più leggera e pungente.",
+        "Condisci le patate con la crema di rucola, aggiungi olive taggiasche (quelle piccole e saporite) e mescola piano. Le olive danno la giusta sapidità. Lascia riposare 5 minuti.",
+        "Prima di servire, scaglie di Parmigiano sopra e pinoli tostati per la croccantezza. Ogni boccone ha cremosità, amaro, dolce e crunch. Provala e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata di patate cremosa",
+          "description": "Un contorno fresco e saporito, con patate tenere e una crema vellutata di rucola.",
+          "visual_hint": "piatto erbaceo e invitante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory potato salad"
+        },
+        {
+          "hook": "I 3 ingredienti chiave",
+          "description": "Patate, rucola e olive taggiasche: il perfetto equilibrio tra terra e salinità.",
+          "visual_hint": "ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "potato lemon parmesan",
+          "image": "https://images.pexels.com/photos/36183185/pexels-photo-36183185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "La mossa verde",
+          "description": "Frulla la rucola con olio, limone, sale e pepe per una crema brillante e profumata.",
+          "visual_hint": "mani che frullano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blended arugula sauce",
+          "image": "https://images.pexels.com/photos/6064806/pexels-photo-6064806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Patate perfette",
+          "description": "Lessale a cubotti per 15 minuti: devono restare sode ma morbide al cuore.",
+          "visual_hint": "cubetti di patata in pentola",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "boiled potato cubes",
+          "image": "https://images.pexels.com/photos/33351054/pexels-photo-33351054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il finale che stupisce",
+          "description": "Completa con scaglie di Parmigiano e pinoli tostati: croccantezza e golosità assicurate.",
+          "visual_hint": "piatto finito impiattato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory potato salad parmesan",
+          "image": "https://images.pexels.com/photos/20206885/pexels-photo-20206885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "patate",
+        "rucola",
+        "olive taggiasche"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36421/Insalata-di-patate-con-crema-di-rucola_650x433_wm.jpg",
+      "savedAt": "2026-07-07T14:14:02.406Z",
+      "sourceId": "f9aae18da3775de851b23393ffe354b8"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "savi-s-app-aims-to-protect-consumers-from-realisti",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
+    "slides": [
+      "Can Savi’s app spot a kidnapper AI voice?",
+      "Scammers clone voices from just three seconds.",
+      "Savi detects deepfake audio in real time.",
+      "Your phone now warns you before you pay.",
+      "Test a suspicious call today, not tomorrow."
+    ],
+    "thread_text": [
+      "1. Your phone hears you.\n\nThree seconds of your voice is enough to clone it. Scammers already use it against you.",
+      "2. They call your mom.\n\nThe voice sounds like you. She believes it because it is you — just not really you.",
+      "3. Savi listens live.\n\nWhile the call runs, the app checks if the voice is real. If fake, you get a silent alert before damage.",
+      "4. Payment warning triggers.\n\nBefore you approve a transaction, your phone compares the caller's voice. If cloned, it blocks the payment automatically.",
+      "5. Test a call this week.\n\nCall a friend and record three seconds of their voice. Then ask them to say something else. How close does an AI clone get?"
+    ],
+    "video_script": [
+      "Three seconds of your voice.",
+      "They clone it and call your mom.",
+      "Savi detects fake voices while you talk.",
+      "Your phone blocks payment if voice is cloned.",
+      "Test a suspicious call today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your phone hears you.\n\nThree seconds of your voice is enough to clone it. Scammers already use it against you.",
+          "2. They call your mom.\n\nThe voice sounds like you. She believes it because it is you — just not really you.",
+          "3. Savi listens live.\n\nWhile the call runs, the app checks if the voice is real. If fake, you get a silent alert before damage.",
+          "4. Payment warning triggers.\n\nBefore you approve a transaction, your phone compares the caller's voice. If cloned, it blocks the payment automatically.",
+          "5. Test a call this week.\n\nCall a friend and record three seconds of their voice. Then ask them to say something else. How close does an AI clone get?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Three seconds of your voice.",
+          "They clone it and call your mom.",
+          "Savi detects fake voices while you talk.",
+          "Your phone blocks payment if voice is cloned.",
+          "Test a suspicious call today."
+        ]
+      },
+      "instagram": {
+        "caption": "Three seconds of your voice is enough for scammers to clone it and call your mom asking for ransom. 🎙️\n\nSavi’s new app listens live during calls and flags deepfake audio before you act. If the voice is fake, your phone silently warns you — and can block a payment automatically. 🛡️\n\nYou don’t need to be a tech expert. The app runs in the background, and the alert comes before you authorize a transfer.\n\nWhen was the last time you recorded your own voice — and could you tell the difference between you and a clone?"
+      }
+    },
+    "instagram_caption": "Three seconds of your voice is enough for scammers to clone it and call your mom asking for ransom. 🎙️\n\nSavi’s new app listens live during calls and flags deepfake audio before you act. If the voice is fake, your phone silently warns you — and can block a payment automatically. 🛡️\n\nYou don’t need to be a tech expert. The app runs in the background, and the alert comes before you authorize a transfer.\n\nWhen was the last time you recorded your own voice — and could you tell the difference between you and a clone?",
+    "carousel_slides": [
+      {
+        "hook": "Your voice cloned in 3 seconds.",
+        "description": "A kidnapper AI can clone your voice from just three seconds of audio.",
+        "visual_hint": "voice waveform",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "audio waveform"
+      },
+      {
+        "hook": "She believed it was you.",
+        "description": "Scammers use cloned voices to call your mom and demand ransom.",
+        "visual_hint": "woman scared",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "worried mother phone",
+        "image": "https://images.pexels.com/photos/6957248/pexels-photo-6957248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Savi spots fake voices live.",
+        "description": "During a call, it checks if the voice is real and sends a silent alert.",
+        "visual_hint": "phone alert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Payment blocked automatically.",
+        "description": "Before you approve a transaction, your phone compares the caller's voice.",
+        "visual_hint": "hand holding phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand smartphone payment",
+        "image": "https://images.pexels.com/photos/6969809/pexels-photo-6969809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to protect your family.",
+        "description": "Test a friend's cloned voice today and see how easy it is.",
+        "visual_hint": "finger tapping screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "finger tapping phone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
+    "savedAt": "2026-07-07T14:09:31.863Z",
+    "sourceId": "e2c62726c5816c6c5f05434eae5e7f2f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "l-oreal-mondelez-and-nestle-use-ai-to-speed-produc",
     "prompt_version": "1.0.0",
     "status": "published",
