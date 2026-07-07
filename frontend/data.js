@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-first-ai-run-ransomware-attack-still-needed-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "pubDate": "Mon, 06 Jul 2026 23:56:14 +0000",
+    "slides": [
+      "Who was the human behind the first AI ransomware?",
+      "Attackers used AI for reconnaissance and code generation.",
+      "Yet a human still triggered the final encryption payload.",
+      "Your playbooks must now assume AI-driven initial access.",
+      "Audit your phishing defenses before attackers automate them."
+    ],
+    "thread_text": [
+      "1. The First Human Behind AI Ransomware\n\nA security researcher found a teenager using ChatGPT to build encryption code. The payload still needed a human click.",
+      "2. AI Scans Your Network First\n\nAttackers now use LLMs to map defenses and generate custom exploits. The machine learns your layout before you see it.",
+      "3. Human Finger Still Pulls the Trigger\n\nThe final encryption payload is not automated yet. Someone still has to press Enter.",
+      "4. Rewrite Your Playbooks for AI Initial Access\n\nAssume your phishing filter won't catch AI-crafted lures. Update incident response to expect machine-written emails.",
+      "5. Audit Your Phishing Defenses This Week\n\nRun your team against a ChatGPT-generated phishing email. If you haven't tested it, do it today."
+    ],
+    "video_script": [
+      "A teenager used ChatGPT to build ransomware.",
+      "AI now maps your network for attackers.",
+      "But a human still launches the final attack.",
+      "Assume AI writes the first email to you.",
+      "Test your defenses with AI-generated phishing now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The First Human Behind AI Ransomware\n\nA security researcher found a teenager using ChatGPT to build encryption code. The payload still needed a human click.",
+          "2. AI Scans Your Network First\n\nAttackers now use LLMs to map defenses and generate custom exploits. The machine learns your layout before you see it.",
+          "3. Human Finger Still Pulls the Trigger\n\nThe final encryption payload is not automated yet. Someone still has to press Enter.",
+          "4. Rewrite Your Playbooks for AI Initial Access\n\nAssume your phishing filter won't catch AI-crafted lures. Update incident response to expect machine-written emails.",
+          "5. Audit Your Phishing Defenses This Week\n\nRun your team against a ChatGPT-generated phishing email. If you haven't tested it, do it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A teenager used ChatGPT to build ransomware.",
+          "AI now maps your network for attackers.",
+          "But a human still launches the final attack.",
+          "Assume AI writes the first email to you.",
+          "Test your defenses with AI-generated phishing now."
+        ]
+      },
+      "instagram": {
+        "caption": "A teenager used ChatGPT to build ransomware code — but still had to click a button to encrypt the files himself 😅.\n\nAI scanned the victim's network and generated custom exploit code 💻. The machine did the recon, yet a human finger still pulled the trigger on the final payload.\n\nYour phishing defense now needs to catch machine-written lures, not just sloppy grammar. Update your response plan today.\n\nWhen was the last time you tested your team against a ChatGPT-generated phishing email? 🎯"
+      }
+    },
+    "instagram_caption": "A teenager used ChatGPT to build ransomware code — but still had to click a button to encrypt the files himself 😅.\n\nAI scanned the victim's network and generated custom exploit code 💻. The machine did the recon, yet a human finger still pulled the trigger on the final payload.\n\nYour phishing defense now needs to catch machine-written lures, not just sloppy grammar. Update your response plan today.\n\nWhen was the last time you tested your team against a ChatGPT-generated phishing email? 🎯",
+    "carousel_slides": [
+      {
+        "hook": "Who clicked the final key?",
+        "description": "A teenager built encryption code with ChatGPT, but a human hand still triggered the ransomware payload.",
+        "visual_hint": "Teenager staring at screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "teenager computer desk"
+      },
+      {
+        "hook": "AI maps your network first.",
+        "description": "LLMs now scan defenses and generate custom exploits before you even notice the intrusion.",
+        "visual_hint": "Network map with red dots",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "network diagram server",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Human finger still pulls trigger.",
+        "description": "The final encryption payload needs a human to press Enter—automation isn't here yet.",
+        "visual_hint": "Finger hovering over keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "finger pressing enter key",
+        "image": "https://images.pexels.com/photos/9507849/pexels-photo-9507849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assume AI writes the first email.",
+        "description": "Update incident response for machine-written lures that bypass standard phishing filters.",
+        "visual_hint": "Email inbox with robot icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "phishing email inbox",
+        "image": "https://images.pexels.com/photos/7172786/pexels-photo-7172786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI phishing this week.",
+        "description": "Run your team against a ChatGPT-generated phishing email and fix gaps now.",
+        "visual_hint": "Shield with green checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity shield icon",
+        "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
+    "savedAt": "2026-07-07T02:12:03.949Z",
+    "sourceId": "bd206ca68985755ccb9bcc41a95c67cb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "vercel-ceo-guillermo-rauch-on-the-fight-to-split-o",
     "prompt_version": "1.0.0",
     "status": "published",
