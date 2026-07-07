@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-rolls-out-muse-a-new-ai-image-generator",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta rolls out Muse, a new AI image generator",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
+    "slides": [
+      "Meta just released Muse. Can it beat Midjourney?",
+      "Muse generates images 2x faster than competitors.",
+      "It struggles with detailed human faces.",
+      "You can now generate mockups in seconds.",
+      "Test Muse against your current tool immediately."
+    ],
+    "thread_text": [
+      "1. Meta just dropped Muse.\n\nIt generates images in seconds — 2x faster than Midjourney. But there's a catch that makes it unusable for portraits.",
+      "2. Speed isn't everything.\n\nMuse chokes on detailed human faces. Hands and eyes get distorted. Creators are already complaining on forums.",
+      "3. Mockups are the win.\n\nProduct shots, UI previews, packaging — Muse nails these in under 5 seconds. No more waiting for renders.",
+      "4. Where Midjourney still wins.\n\nFine detail and anatomy. If your work needs realism, Muse falls apart. Choose your tool by the task, not the hype.",
+      "5. Run your own test today.\n\nTake one prompt you use daily. Run it on Muse and your current tool. Compare time and quality. Which one saves you real work?"
+    ],
+    "video_script": [
+      "Meta released Muse. It's fast.",
+      "But faces look wrong often.",
+      "Mockups? It finishes in seconds.",
+      "Midjourney still beats it on detail.",
+      "Test both tools with your prompt."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta just dropped Muse.\n\nIt generates images in seconds — 2x faster than Midjourney. But there's a catch that makes it unusable for portraits.",
+          "2. Speed isn't everything.\n\nMuse chokes on detailed human faces. Hands and eyes get distorted. Creators are already complaining on forums.",
+          "3. Mockups are the win.\n\nProduct shots, UI previews, packaging — Muse nails these in under 5 seconds. No more waiting for renders.",
+          "4. Where Midjourney still wins.\n\nFine detail and anatomy. If your work needs realism, Muse falls apart. Choose your tool by the task, not the hype.",
+          "5. Run your own test today.\n\nTake one prompt you use daily. Run it on Muse and your current tool. Compare time and quality. Which one saves you real work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta released Muse. It's fast.",
+          "But faces look wrong often.",
+          "Mockups? It finishes in seconds.",
+          "Midjourney still beats it on detail.",
+          "Test both tools with your prompt."
+        ]
+      },
+      "instagram": {
+        "caption": "Muse generates images twice as fast as Midjourney—but draw a human face and it falls apart. Hands and eyes distort, and creators are already complaining.\n\nMeta just released this new image generator. It excels at product mockups, UI previews, and packaging in under five seconds. Fine details and realistic anatomy? Not its strength.\n\nIf you work with visuals, your choice now depends on the task: speed for mockups, or Midjourney for anything requiring realism.\n\nTake one prompt you use daily—run it on Muse and your current tool. Which actually saves you rework? 🖼️⚡🧠"
+      }
+    },
+    "instagram_caption": "Muse generates images twice as fast as Midjourney—but draw a human face and it falls apart. Hands and eyes distort, and creators are already complaining.\n\nMeta just released this new image generator. It excels at product mockups, UI previews, and packaging in under five seconds. Fine details and realistic anatomy? Not its strength.\n\nIf you work with visuals, your choice now depends on the task: speed for mockups, or Midjourney for anything requiring realism.\n\nTake one prompt you use daily—run it on Muse and your current tool. Which actually saves you rework? 🖼️⚡🧠",
+    "carousel_slides": [
+      {
+        "hook": "Faster, but flawed?",
+        "description": "Meta's Muse generates images 2x faster than Midjourney, but detailed human faces remain distorted.",
+        "visual_hint": "speed vs distortion clash",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Speed isn't everything.",
+        "description": "Muse chokes on hands and eyes, making portraits unusable for creators seeking realism.",
+        "visual_hint": "distorted face close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mockups in seconds.",
+        "description": "Product shots and UI previews render under 5 seconds, no more waiting for renders.",
+        "visual_hint": "product mockup array",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Midjourney still wins detail.",
+        "description": "For fine anatomy and realism, Muse falls apart. Choose your tool by the task.",
+        "visual_hint": "comparison grid hands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Muse right now.",
+        "description": "Run one daily prompt on Muse and your current tool. Compare time and quality to decide.",
+        "visual_hint": "split screen comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
+    "savedAt": "2026-07-07T22:52:26.683Z",
+    "sourceId": "43c24424eacf387e2d13cad2cf1a6d2c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-joins-ai-cost-cutting-trend-by-relying-m",
     "prompt_version": "1.0.0",
     "status": "published",
