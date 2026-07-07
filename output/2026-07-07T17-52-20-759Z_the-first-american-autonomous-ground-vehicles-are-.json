@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-first-american-autonomous-ground-vehicles-are-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+  "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+  "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
+  "slides": [
+    "Ukraine's new robot vehicles — can they turn the war?",
+    "American-made autonomous ground units are already on the battlefield.",
+    "They navigate GPS-denied zones without human drivers, but fail often.",
+    "For you: expect cheaper, faster drone integration in future conflicts.",
+    "Watch Ukraine's tests — they define your next military procurement strategy."
+  ],
+  "thread_text": [
+    "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+    "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+    "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+    "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+    "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Robots in Ukraine fail often but advance anyway.",
+    "No human drivers needed in jammed zones.",
+    "Cheaper drones are coming faster now.",
+    "Watch Ukraine's tests for procurement clues.",
+    "Simulate a drone route this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+        "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+        "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+        "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+        "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robots in Ukraine fail often but advance anyway.",
+        "No human drivers needed in jammed zones.",
+        "Cheaper drones are coming faster now.",
+        "Watch Ukraine's tests for procurement clues.",
+        "Simulate a drone route this week."
+      ]
+    },
+    "instagram": {
+      "caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week."
+    }
+  },
+  "instagram_caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week.",
+  "carousel_slides": [
+    {
+      "hook": "They fail often.",
+      "description": "New US robot vehicles navigate without humans but break down in jammed zones. One success costs dozens of fixes.",
+      "visual_hint": "Robot vehicle stuck in mud",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military robot vehicle"
+    },
+    {
+      "hook": "No humans needed.",
+      "description": "These autonomous units move on their own even where satellites are jammed. Failure rate is tactical, not fatal.",
+      "visual_hint": "Drone navigating without GPS",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "drone over field",
+      "image": "https://images.pexels.com/photos/5014708/pexels-photo-5014708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheaper drones coming.",
+      "description": "Future conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+      "visual_hint": "Drone assembly line factory",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "drone factory assembly",
+      "image": "https://images.pexels.com/photos/3862129/pexels-photo-3862129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the tests.",
+      "description": "Ukraine's battlefield experiments with these robots define what your next military procurement will look like.",
+      "visual_hint": "Soldiers observing robot test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "soldier controlling robot",
+      "image": "https://images.pexels.com/photos/6856820/pexels-photo-6856820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simulate a failure.",
+      "description": "Model a drone supply route through a jammed zone on ChatGPT. If you haven't tried, start now.",
+      "visual_hint": "ChatGPT interface with map",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt screen map",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
+  "savedAt": "2026-07-07T17:53:23.415Z",
+  "sourceId": "a88205ef5d4e9a5ef2bbc7367145edac"
+}

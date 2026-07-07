@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-first-american-autonomous-ground-vehicles-are-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "slides": [
+        "Ukraine's new robot vehicles — can they turn the war?",
+        "American-made autonomous ground units are already on the battlefield.",
+        "They navigate GPS-denied zones without human drivers, but fail often.",
+        "For you: expect cheaper, faster drone integration in future conflicts.",
+        "Watch Ukraine's tests — they define your next military procurement strategy."
+      ],
+      "thread_text": [
+        "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+        "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+        "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+        "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+        "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Robots in Ukraine fail often but advance anyway.",
+        "No human drivers needed in jammed zones.",
+        "Cheaper drones are coming faster now.",
+        "Watch Ukraine's tests for procurement clues.",
+        "Simulate a drone route this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+            "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+            "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+            "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+            "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Robots in Ukraine fail often but advance anyway.",
+            "No human drivers needed in jammed zones.",
+            "Cheaper drones are coming faster now.",
+            "Watch Ukraine's tests for procurement clues.",
+            "Simulate a drone route this week."
+          ]
+        },
+        "instagram": {
+          "caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week."
+        }
+      },
+      "instagram_caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week.",
+      "carousel_slides": [
+        {
+          "hook": "They fail often.",
+          "description": "New US robot vehicles navigate without humans but break down in jammed zones. One success costs dozens of fixes.",
+          "visual_hint": "Robot vehicle stuck in mud",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "military robot vehicle"
+        },
+        {
+          "hook": "No humans needed.",
+          "description": "These autonomous units move on their own even where satellites are jammed. Failure rate is tactical, not fatal.",
+          "visual_hint": "Drone navigating without GPS",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "drone over field",
+          "image": "https://images.pexels.com/photos/5014708/pexels-photo-5014708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cheaper drones coming.",
+          "description": "Future conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+          "visual_hint": "Drone assembly line factory",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "drone factory assembly",
+          "image": "https://images.pexels.com/photos/3862129/pexels-photo-3862129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch the tests.",
+          "description": "Ukraine's battlefield experiments with these robots define what your next military procurement will look like.",
+          "visual_hint": "Soldiers observing robot test",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "soldier controlling robot",
+          "image": "https://images.pexels.com/photos/6856820/pexels-photo-6856820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simulate a failure.",
+          "description": "Model a drone supply route through a jammed zone on ChatGPT. If you haven't tried, start now.",
+          "visual_hint": "ChatGPT interface with map",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chatgpt screen map",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
+      "savedAt": "2026-07-07T17:53:23.415Z",
+      "sourceId": "a88205ef5d4e9a5ef2bbc7367145edac"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-law-startup-norm-raises-120m-hits-unicorn-valua",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "pubDate": "Tue, 07 Jul 2026 14:35:42 +0000",
+      "slides": [
+        "Who will regulate the regulators—an AI itself?",
+        "Norm just raised $120 million at unicorn valuation.",
+        "But its AI judges legal cases faster than humans.",
+        "Your contracts now face automated, unbiased compliance checks.",
+        "Start testing Norm’s rulings against your own lawyers today."
+      ],
+      "thread_text": [
+        "1. Who polices the AI judge?\n\nNorm just raised $120 million to replace human legal review with its own AI ruling system.",
+        "2. Faster rulings, zero empathy\n\nIts AI judges legal cases in seconds, not days—but without human oversight, who catches errors?",
+        "3. Contracts don't blink\n\nYour vendor agreements now face automated compliance checks that never get tired—or biased.",
+        "4. Bias you can't appeal\n\nNorm’s rulings claim objectivity, but the training data decides what \"fair\" means. One dataset, one verdict.",
+        "5. Test your own contracts today\n\nRun a Norm simulation against your last three agreements. Does the AI spot what your lawyers missed?"
+      ],
+      "video_script": [
+        "A $120 million AI now judges your contracts.",
+        "It rules faster than any human lawyer.",
+        "But who watches the watchmaker?",
+        "Your compliance is automated, not infallible.",
+        "Test Norm against your own team today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who polices the AI judge?\n\nNorm just raised $120 million to replace human legal review with its own AI ruling system.",
+            "2. Faster rulings, zero empathy\n\nIts AI judges legal cases in seconds, not days—but without human oversight, who catches errors?",
+            "3. Contracts don't blink\n\nYour vendor agreements now face automated compliance checks that never get tired—or biased.",
+            "4. Bias you can't appeal\n\nNorm’s rulings claim objectivity, but the training data decides what \"fair\" means. One dataset, one verdict.",
+            "5. Test your own contracts today\n\nRun a Norm simulation against your last three agreements. Does the AI spot what your lawyers missed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A $120 million AI now judges your contracts.",
+            "It rules faster than any human lawyer.",
+            "But who watches the watchmaker?",
+            "Your compliance is automated, not infallible.",
+            "Test Norm against your own team today."
+          ]
+        },
+        "instagram": {
+          "caption": "$120 million just went into an AI that judges legal cases faster than humans, and it’s already testing your contracts for compliance without bias. 🏛️⚖️\n\nNorm achieved unicorn status, promising automated rulings in seconds instead of days. Your vendor agreements now face a tireless, data-driven audit.\n\nEvery contract you sign is immediately scanned by an algorithm that never gets tired.\n\nWho polices the judge when one dataset defines \"fair\"? Run a Norm simulation against your own lawyers—will it spot what they missed? 🤖📄🔍"
+        }
+      },
+      "instagram_caption": "$120 million just went into an AI that judges legal cases faster than humans, and it’s already testing your contracts for compliance without bias. 🏛️⚖️\n\nNorm achieved unicorn status, promising automated rulings in seconds instead of days. Your vendor agreements now face a tireless, data-driven audit.\n\nEvery contract you sign is immediately scanned by an algorithm that never gets tired.\n\nWho polices the judge when one dataset defines \"fair\"? Run a Norm simulation against your own lawyers—will it spot what they missed? 🤖📄🔍",
+      "carousel_slides": [
+        {
+          "hook": "Who judges the robot judge?",
+          "description": "Norm raised $120M to automate legal rulings. But with no human oversight, who catches the errors?",
+          "visual_hint": "gavel and glowing AI chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand holding gavel"
+        },
+        {
+          "hook": "Justice in seconds, not days.",
+          "description": "Norm's AI judges cases faster than humans. Zero empathy, zero appeals—speed over fairness?",
+          "visual_hint": "clock vs computer screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital clock circuit board",
+          "image": "https://images.pexels.com/photos/2182863/pexels-photo-2182863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contracts never blink.",
+          "description": "Vendor agreements face automated compliance checks that never get tired—or biased. One dataset decides everything.",
+          "visual_hint": "contract stack with magnifying glass",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass over contract",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bias you can't appeal.",
+          "description": "Norm's rulings claim objectivity, but the training data defines 'fair.' One dataset, one unchangeable verdict.",
+          "visual_hint": "scale of justice tilted",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tilted justice scale server",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test AI on your contracts now.",
+          "description": "Run a Norm simulation against your last three agreements. See what the AI catches that your lawyers missed.",
+          "visual_hint": "phone mockup with contract text",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone showing contract",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "savedAt": "2026-07-07T17:53:07.952Z",
+      "sourceId": "3d0b5867cea91ad716ce510b9faa86d7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "chemistry-ventures-is-raising-500m-for-its-second-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Chemistry Ventures is raising $500M for its second fund",
+      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "pubDate": "Tue, 07 Jul 2026 15:02:02 +0000",
+      "slides": [
+        "Chemistry Ventures targets $500M for its second fund.",
+        "First fund backed 30 startups in deep tech.",
+        "But only 2 reached a $100M valuation so far.",
+        "New fund will focus on climate and biotech deals.",
+        "Watch if LPs accept weaker first-fund returns now."
+      ],
+      "thread_text": [
+        "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+        "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+        "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+        "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+        "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+      ],
+      "video_script": [
+        "Chemistry Ventures wants $500 million for a second fund.",
+        "First fund backed 30 startups, but only two hit $100 million.",
+        "New fund focuses on climate and biotech deals.",
+        "LPs must decide if weaker returns are acceptable now.",
+        "Simulate LP decision with their portfolio data today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+            "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+            "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+            "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+            "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Chemistry Ventures wants $500 million for a second fund.",
+            "First fund backed 30 startups, but only two hit $100 million.",
+            "New fund focuses on climate and biotech deals.",
+            "LPs must decide if weaker returns are acceptable now.",
+            "Simulate LP decision with their portfolio data today."
+          ]
+        },
+        "instagram": {
+          "caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍"
+        }
+      },
+      "instagram_caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍",
+      "carousel_slides": [
+        {
+          "hook": "Only 2 wins out of 30?",
+          "description": "Chemistry Ventures targets $500M for a new fund after just 2 of 30 deep tech startups hit $100M.",
+          "visual_hint": "Graph with low bars",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Deep tech bets waiting",
+          "description": "First fund backed 30 startups. Most still building—new fund pivots to climate and biotech for faster returns.",
+          "visual_hint": "Lab equipment close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laboratory equipment",
+          "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Valuation gap exposed",
+          "description": "Only two exits reached nine figures. LPs question if the model can scale returns sooner.",
+          "visual_hint": "Magnifying glass on numbers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Climate and biotech pivot",
+          "description": "New fund leans into climate and biotech deals—sectors with faster cycles or deeper moats.",
+          "visual_hint": "Wind turbines and DNA",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "wind turbine",
+          "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you invest again?",
+          "description": "Save this post, then run your own due diligence on Chemistry Ventures' portfolio today.",
+          "visual_hint": "Hand holding phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800",
+      "savedAt": "2026-07-07T17:52:51.642Z",
+      "sourceId": "61b21342b0c8e163faff9a1a3512bd32"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "insilico-medicine-advances-ai-drug-for-ipf-to-phas",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+      "pubDate": "Tue, 07 Jul 2026 14:00:06 +0000",
+      "slides": [
+        "Can an AI-designed drug beat lung fibrosis?",
+        "Insilico's molecule now enters final human tests.",
+        "No AI-discovered drug has reached Phase III before.",
+        "Patients may access a novel treatment within years.",
+        "Watch this trial: it could rewrite drug discovery."
+      ],
+      "thread_text": [
+        "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+        "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+        "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+        "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+        "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+      ],
+      "video_script": [
+        "An AI-designed drug just hit final human tests.",
+        "No AI drug has reached Phase Three before.",
+        "It treats a fatal lung disease with no cure.",
+        "If it works, drug discovery will never be same.",
+        "Watch the trial. It could rewrite everything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+            "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+            "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+            "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+            "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "An AI-designed drug just hit final human tests.",
+            "No AI drug has reached Phase Three before.",
+            "It treats a fatal lung disease with no cure.",
+            "If it works, drug discovery will never be same.",
+            "Watch the trial. It could rewrite everything."
+          ]
+        },
+        "instagram": {
+          "caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design."
+        }
+      },
+      "instagram_caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design.",
+      "carousel_slides": [
+        {
+          "hook": "No AI drug reached Phase III—until now.",
+          "description": "Insilico Medicine's AI-designed molecule enters final human tests for IPF, a disease with no cure.",
+          "visual_hint": "AI neural network visualization",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "neural network graphic"
+        },
+        {
+          "hook": "Who designed this drug?",
+          "description": "Insilico Medicine used AI to create the molecule. It targets lung scarring that stiffens tissue.",
+          "visual_hint": "Lungs showing fibrosis",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "lung anatomy diagram",
+          "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What does it treat?",
+          "description": "Idiopathic pulmonary fibrosis scars lungs. The AI molecule aims to stop the stiffening.",
+          "visual_hint": "Scarred lung tissue close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "lung tissue fibrosis",
+          "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What is at stake?",
+          "description": "If Phase III succeeds, AI goes from algorithm to patient. That changes every drug pipeline.",
+          "visual_hint": "DNA helix with AI symbols",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "DNA helix laboratory",
+          "image": "https://images.pexels.com/photos/8940474/pexels-photo-8940474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch the trial now.",
+          "description": "Search FDA database for Insilico's Phase III trial ID. Decide if you would enroll.",
+          "visual_hint": "FDA website search bar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "FDA website screenshot",
+          "image": "https://images.pexels.com/photos/8830686/pexels-photo-8830686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-07T17:52:37.064Z",
+      "sourceId": "e8547c388b9fdab20de8d26045ecaca3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "savi-s-app-aims-to-protect-consumers-from-realisti",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -73046,6 +73462,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-pesche-e-yogurt",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta pesche e yogurt",
+      "link": "https://ricette.giallozafferano.it/Torta-pesche-e-yogurt.html",
+      "pubDate": "Tue, 07 Jul 2026 16:57:00 +0200",
+      "content": "Torta pesche e yogurt: ricetta soffice e facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta pesche e yogurt /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 60 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta pesche e yogurt è un dolce soffice e genuino, una ricetta semplice che rende protagoniste le pesche con la loro naturale dolcezza. Se avete amato la nostra torta allo yogurt , questa versione vi conquisterà con un impasto umido, arricchito da tanti cubetti di pesche che rendono ogni fetta profumata e ricca di frutta. Facile da preparare e adatta a ogni occasione, questa torta è perfetta per iniziare la giornata con una colazione golosa, accompagnare una pausa pomeridiana o concludere il pasto con un dolce semplice e genuino. Per un risultato ottimale scegliete pesche mature ma ancora sode! Se cercate altri dolci con le pesche da preparare, provate anche: Torta alle pesche Torta in padella alle pesche Pan di pesche Pie di pesche Torta rovesciata alle pesche Strudel estivo di pesche Peach and Yogurt Cake INGREDIENTI Uova 3 Farina 00 190 g Zucchero 140 g Olio di semi di girasole 75 g Yogurt 250 g Lievito in polvere per dolci 16 g Estratto di vaniglia q.b. Sale fino q.b. Pesche noci 450 g per la superficie Zucchero 20 g Pesche noci 300 g per decorare Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta pesche e yogurt Per preparare la torta pesche e yogurt iniziate lavando accuratamente le pesche noci. Poi dividetele a metà 1 ed eliminate il nocciolo. Tagliatene circa 450 g a cubetti di 4-5 mm 2 e tenetele da parte. Rivestite con carta forno uno stampo da 22 cm di diametro. Versate le uova in una ciotola capiente 3 . Iniziate a montare con le fruste elettriche, poi versate lentamente anche lo zucchero e lavorate il composto per alcuni minuti, fino a che non risulterà chiaro, gonfio e spumoso 5 . Unite l'estratto di vaniglia 6 . Con le fruste in azione aggiungete anche il sale 7 , lo yogurt 8 e l'olio di semi 9 . Setacciate la farina e incorporatela poco alla volta, mescolando con le fruste a bassa velocità 10 . Aggiungete poi anche il lievito setacciato 11 e mescolate giusto il tempo necessario per ottenere un impasto liscio e senza grumi 12 . Aggiungete le pesche a cubetti 13 e amalgamatele delicatamente con una spatola 14 . Versate l'impasto nello stampo (da 22 cm rivestito con carta forno) 15 e livellate la superficie. A questo punto tagliate le pesche rimaste (300 g) a fettine sottili di circa 2-3 mm 16 e disponetele sulla superficie della torta, leggermente sovrapposte 17 , in modo da ricoprirla in maniera uniforme. Cospargete con lo zucchero semolato 18 . Cuocete in forno statico preriscaldato a 170° sul ripiano centrale per circa 60 minuti. Prima di sfornare fate sempre la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo 19 , poi trasferitela su un piatto da portata e completate con una spolverata di zucchero a velo 20 prima di servirla 21 . Conservazione La torta pesche e yogurt si conserva a temperatura ambiente, sotto una campana per dolci, per 2 giorni. Se fa molto caldo, vi consigliamo di conservarla in frigorifero per un massimo di 3 giorni e di lasciarla tornare a temperatura ambiente prima di servirla. Potete congelarla già tagliata a fette e scongelarla all'occorrenza. Consiglio Per un profumo ancora più fresco potete sostituire l'estratto di vaniglia con la scorza grattugiata di un limone non trattato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta gratinata con ragù vegetale Torta pesche e yogurt 5.0 Frittata di zucchine in friggitrice ad aria 5.0 SCOPRI Torta di pesche Torta di mele e yogurt Torta allo yogurt senza uova Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta soffice con tante pesche",
+        "Pesche, uova, farina, zucchero, yogurt",
+        "Taglia le pesche a cubetti piccoli",
+        "Disponi le fettine di pesche sopra",
+        "Spolvera con zucchero a velo"
+      ],
+      "instagram_caption": "Finalmente una torta che sa di ricordi d’infanzia. 🍑💛\n\nPesche mature a cubetti nell’impasto, fettine a coprire la superficie e una nuvola di zucchero a velo a finire. Yogurt e uova la rendono morbidissima, quasi un abbraccio. La preparazione è semplice, il profumo che invade casa è magico.\n\nProvala questo weekend e fammi sapere 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Finalmente una torta che sa di ricordi d’infanzia. 🍑💛\n\nPesche mature a cubetti nell’impasto, fettine a coprire la superficie e una nuvola di zucchero a velo a finire. Yogurt e uova la rendono morbidissima, quasi un abbraccio. La preparazione è semplice, il profumo che invade casa è magico.\n\nProvala questo weekend e fammi sapere 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Prepariamo una torta soffice con pesche.",
+            "Unisco uova, farina, zucchero e yogurt.",
+            "Taglio le pesche a cubetti piccolini.",
+            "Distribuisco le fettine sopra la torta.",
+            "Spolvero con zucchero a velo, ed è pronta."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Quando una pesca matura incontra lo yogurt, succede qualcosa di magico. Questa torta è la prova che meno è meglio. 🍑",
+            "Ingredienti: pesche mature, uova, farina, zucchero, yogurt. Taglia le pesche a cubetti piccoli — il segreto per una morbidezza assurda.",
+            "Unisci tutto: uova e zucchero montati, farina setacciata, yogurt cremoso, poi i cubetti di pesca. Impasto vellutato, profumo che invade la cucina.",
+            "Versa in teglia, disponi le fettine di pesche sopra a raggiera. In forno a 180°C per 35 minuti: esce dorata, umida, con la frutta che caramella.",
+            "Spolvera con zucchero a velo mentre è ancora calda. Servila tiepida o fredda, da sola o con panna. Provala e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Prepariamo una torta soffice con pesche.",
+        "Unisco uova, farina, zucchero e yogurt.",
+        "Taglio le pesche a cubetti piccolini.",
+        "Distribuisco le fettine sopra la torta.",
+        "Spolvero con zucchero a velo, ed è pronta."
+      ],
+      "thread_text": [
+        "Quando una pesca matura incontra lo yogurt, succede qualcosa di magico. Questa torta è la prova che meno è meglio. 🍑",
+        "Ingredienti: pesche mature, uova, farina, zucchero, yogurt. Taglia le pesche a cubetti piccoli — il segreto per una morbidezza assurda.",
+        "Unisci tutto: uova e zucchero montati, farina setacciata, yogurt cremoso, poi i cubetti di pesca. Impasto vellutato, profumo che invade la cucina.",
+        "Versa in teglia, disponi le fettine di pesche sopra a raggiera. In forno a 180°C per 35 minuti: esce dorata, umida, con la frutta che caramella.",
+        "Spolvera con zucchero a velo mentre è ancora calda. Servila tiepida o fredda, da sola o con panna. Provala e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta pesche e yogurt sofficissima",
+          "description": "Una torta morbida e profumata, piena di pesche fresche, perfetta per la colazione o la merenda.",
+          "visual_hint": "torta intera soffice",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "peach yogurt cake"
+        },
+        {
+          "hook": "Ingredienti semplici e freschi",
+          "description": "Pesche, uova, farina, zucchero e yogurt: pochi ingredienti per un dolce genuino e leggero.",
+          "visual_hint": "ingredienti su tavola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "peach yogurt ingredients",
+          "image": "https://images.pexels.com/photos/32662592/pexels-photo-32662592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Taglia le pesche a cubetti",
+          "description": "Sbriciola le pesche a cubetti piccoli e uniformi per distribuirle bene nell'impasto.",
+          "visual_hint": "taglio pesche cubetti",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "diced peaches bowl",
+          "image": "https://images.pexels.com/photos/13679616/pexels-photo-13679616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Disponi le fettine sopra",
+          "description": "Versa l'impasto nella teglia e disponi le fettine di pesche a raggiera sulla superficie.",
+          "visual_hint": "pesche sopra impasto",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "peach slices batter",
+          "image": "https://images.pexels.com/photos/26700488/pexels-photo-26700488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Spolvera con zucchero a velo",
+          "description": "Lascia intiepidire, spolvera con zucchero a velo e servi a fette. Sembra uscita da una pasticceria!",
+          "visual_hint": "fetta spolverata",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "peach cake slice",
+          "image": "https://images.pexels.com/photos/29211725/pexels-photo-29211725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "pesche",
+        "yogurt",
+        "farina"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36425/Torta-pesche-e-yogurt_650x433_wm.jpg",
+      "savedAt": "2026-07-07T17:58:15.807Z",
+      "sourceId": "5c5c4b53873ab1b55ae90664e6483087"
+    },
     {
       "schema_version": 2,
       "agent": "food",

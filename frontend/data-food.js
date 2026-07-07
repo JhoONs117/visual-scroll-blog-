@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-pesche-e-yogurt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta pesche e yogurt",
+    "link": "https://ricette.giallozafferano.it/Torta-pesche-e-yogurt.html",
+    "pubDate": "Tue, 07 Jul 2026 16:57:00 +0200",
+    "content": "Torta pesche e yogurt: ricetta soffice e facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta pesche e yogurt /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 60 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta pesche e yogurt è un dolce soffice e genuino, una ricetta semplice che rende protagoniste le pesche con la loro naturale dolcezza. Se avete amato la nostra torta allo yogurt , questa versione vi conquisterà con un impasto umido, arricchito da tanti cubetti di pesche che rendono ogni fetta profumata e ricca di frutta. Facile da preparare e adatta a ogni occasione, questa torta è perfetta per iniziare la giornata con una colazione golosa, accompagnare una pausa pomeridiana o concludere il pasto con un dolce semplice e genuino. Per un risultato ottimale scegliete pesche mature ma ancora sode! Se cercate altri dolci con le pesche da preparare, provate anche: Torta alle pesche Torta in padella alle pesche Pan di pesche Pie di pesche Torta rovesciata alle pesche Strudel estivo di pesche Peach and Yogurt Cake INGREDIENTI Uova 3 Farina 00 190 g Zucchero 140 g Olio di semi di girasole 75 g Yogurt 250 g Lievito in polvere per dolci 16 g Estratto di vaniglia q.b. Sale fino q.b. Pesche noci 450 g per la superficie Zucchero 20 g Pesche noci 300 g per decorare Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta pesche e yogurt Per preparare la torta pesche e yogurt iniziate lavando accuratamente le pesche noci. Poi dividetele a metà 1 ed eliminate il nocciolo. Tagliatene circa 450 g a cubetti di 4-5 mm 2 e tenetele da parte. Rivestite con carta forno uno stampo da 22 cm di diametro. Versate le uova in una ciotola capiente 3 . Iniziate a montare con le fruste elettriche, poi versate lentamente anche lo zucchero e lavorate il composto per alcuni minuti, fino a che non risulterà chiaro, gonfio e spumoso 5 . Unite l'estratto di vaniglia 6 . Con le fruste in azione aggiungete anche il sale 7 , lo yogurt 8 e l'olio di semi 9 . Setacciate la farina e incorporatela poco alla volta, mescolando con le fruste a bassa velocità 10 . Aggiungete poi anche il lievito setacciato 11 e mescolate giusto il tempo necessario per ottenere un impasto liscio e senza grumi 12 . Aggiungete le pesche a cubetti 13 e amalgamatele delicatamente con una spatola 14 . Versate l'impasto nello stampo (da 22 cm rivestito con carta forno) 15 e livellate la superficie. A questo punto tagliate le pesche rimaste (300 g) a fettine sottili di circa 2-3 mm 16 e disponetele sulla superficie della torta, leggermente sovrapposte 17 , in modo da ricoprirla in maniera uniforme. Cospargete con lo zucchero semolato 18 . Cuocete in forno statico preriscaldato a 170° sul ripiano centrale per circa 60 minuti. Prima di sfornare fate sempre la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo 19 , poi trasferitela su un piatto da portata e completate con una spolverata di zucchero a velo 20 prima di servirla 21 . Conservazione La torta pesche e yogurt si conserva a temperatura ambiente, sotto una campana per dolci, per 2 giorni. Se fa molto caldo, vi consigliamo di conservarla in frigorifero per un massimo di 3 giorni e di lasciarla tornare a temperatura ambiente prima di servirla. Potete congelarla già tagliata a fette e scongelarla all'occorrenza. Consiglio Per un profumo ancora più fresco potete sostituire l'estratto di vaniglia con la scorza grattugiata di un limone non trattato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta gratinata con ragù vegetale Torta pesche e yogurt 5.0 Frittata di zucchine in friggitrice ad aria 5.0 SCOPRI Torta di pesche Torta di mele e yogurt Torta allo yogurt senza uova Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice con tante pesche",
+      "Pesche, uova, farina, zucchero, yogurt",
+      "Taglia le pesche a cubetti piccoli",
+      "Disponi le fettine di pesche sopra",
+      "Spolvera con zucchero a velo"
+    ],
+    "instagram_caption": "Finalmente una torta che sa di ricordi d’infanzia. 🍑💛\n\nPesche mature a cubetti nell’impasto, fettine a coprire la superficie e una nuvola di zucchero a velo a finire. Yogurt e uova la rendono morbidissima, quasi un abbraccio. La preparazione è semplice, il profumo che invade casa è magico.\n\nProvala questo weekend e fammi sapere 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "Finalmente una torta che sa di ricordi d’infanzia. 🍑💛\n\nPesche mature a cubetti nell’impasto, fettine a coprire la superficie e una nuvola di zucchero a velo a finire. Yogurt e uova la rendono morbidissima, quasi un abbraccio. La preparazione è semplice, il profumo che invade casa è magico.\n\nProvala questo weekend e fammi sapere 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Prepariamo una torta soffice con pesche.",
+          "Unisco uova, farina, zucchero e yogurt.",
+          "Taglio le pesche a cubetti piccolini.",
+          "Distribuisco le fettine sopra la torta.",
+          "Spolvero con zucchero a velo, ed è pronta."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Quando una pesca matura incontra lo yogurt, succede qualcosa di magico. Questa torta è la prova che meno è meglio. 🍑",
+          "Ingredienti: pesche mature, uova, farina, zucchero, yogurt. Taglia le pesche a cubetti piccoli — il segreto per una morbidezza assurda.",
+          "Unisci tutto: uova e zucchero montati, farina setacciata, yogurt cremoso, poi i cubetti di pesca. Impasto vellutato, profumo che invade la cucina.",
+          "Versa in teglia, disponi le fettine di pesche sopra a raggiera. In forno a 180°C per 35 minuti: esce dorata, umida, con la frutta che caramella.",
+          "Spolvera con zucchero a velo mentre è ancora calda. Servila tiepida o fredda, da sola o con panna. Provala e dimmi com’è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prepariamo una torta soffice con pesche.",
+      "Unisco uova, farina, zucchero e yogurt.",
+      "Taglio le pesche a cubetti piccolini.",
+      "Distribuisco le fettine sopra la torta.",
+      "Spolvero con zucchero a velo, ed è pronta."
+    ],
+    "thread_text": [
+      "Quando una pesca matura incontra lo yogurt, succede qualcosa di magico. Questa torta è la prova che meno è meglio. 🍑",
+      "Ingredienti: pesche mature, uova, farina, zucchero, yogurt. Taglia le pesche a cubetti piccoli — il segreto per una morbidezza assurda.",
+      "Unisci tutto: uova e zucchero montati, farina setacciata, yogurt cremoso, poi i cubetti di pesca. Impasto vellutato, profumo che invade la cucina.",
+      "Versa in teglia, disponi le fettine di pesche sopra a raggiera. In forno a 180°C per 35 minuti: esce dorata, umida, con la frutta che caramella.",
+      "Spolvera con zucchero a velo mentre è ancora calda. Servila tiepida o fredda, da sola o con panna. Provala e dimmi com’è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta pesche e yogurt sofficissima",
+        "description": "Una torta morbida e profumata, piena di pesche fresche, perfetta per la colazione o la merenda.",
+        "visual_hint": "torta intera soffice",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "peach yogurt cake"
+      },
+      {
+        "hook": "Ingredienti semplici e freschi",
+        "description": "Pesche, uova, farina, zucchero e yogurt: pochi ingredienti per un dolce genuino e leggero.",
+        "visual_hint": "ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "peach yogurt ingredients",
+        "image": "https://images.pexels.com/photos/32662592/pexels-photo-32662592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia le pesche a cubetti",
+        "description": "Sbriciola le pesche a cubetti piccoli e uniformi per distribuirle bene nell'impasto.",
+        "visual_hint": "taglio pesche cubetti",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "diced peaches bowl",
+        "image": "https://images.pexels.com/photos/13679616/pexels-photo-13679616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Disponi le fettine sopra",
+        "description": "Versa l'impasto nella teglia e disponi le fettine di pesche a raggiera sulla superficie.",
+        "visual_hint": "pesche sopra impasto",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "peach slices batter",
+        "image": "https://images.pexels.com/photos/26700488/pexels-photo-26700488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera con zucchero a velo",
+        "description": "Lascia intiepidire, spolvera con zucchero a velo e servi a fette. Sembra uscita da una pasticceria!",
+        "visual_hint": "fetta spolverata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "peach cake slice",
+        "image": "https://images.pexels.com/photos/29211725/pexels-photo-29211725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "pesche",
+      "yogurt",
+      "farina"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36425/Torta-pesche-e-yogurt_650x433_wm.jpg",
+    "savedAt": "2026-07-07T17:58:15.807Z",
+    "sourceId": "5c5c4b53873ab1b55ae90664e6483087"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-patate-con-crema-di-rucola",
     "prompt_version": "1.0.0",
     "status": "published",

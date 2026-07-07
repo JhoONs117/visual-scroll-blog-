@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-first-american-autonomous-ground-vehicles-are-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "pubDate": "Tue, 07 Jul 2026 09:00:00 +0000",
+    "slides": [
+      "Ukraine's new robot vehicles — can they turn the war?",
+      "American-made autonomous ground units are already on the battlefield.",
+      "They navigate GPS-denied zones without human drivers, but fail often.",
+      "For you: expect cheaper, faster drone integration in future conflicts.",
+      "Watch Ukraine's tests — they define your next military procurement strategy."
+    ],
+    "thread_text": [
+      "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+      "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+      "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+      "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+      "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+    ],
+    "video_script": [
+      "Robots in Ukraine fail often but advance anyway.",
+      "No human drivers needed in jammed zones.",
+      "Cheaper drones are coming faster now.",
+      "Watch Ukraine's tests for procurement clues.",
+      "Simulate a drone route this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They fail often.\n\nUkraine's new American-made robot vehicles navigate without drivers but break down in GPS-denied zones. One success costs dozens of fixes.",
+          "2. No humans needed.\n\nThese autonomous units move on their own even where satellites are jammed. The failure rate is tactical, not fatal.",
+          "3. Cheaper drones coming.\n\nFuture conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+          "4. Watch the tests.\n\nUkraine's battlefield experiments with these robots are defining what your next military procurement will look like. The data is public.",
+          "5. Simulate a failure.\n\nTake a prompt on ChatGPT and model a drone supply route through a jammed zone. If you haven't done it, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robots in Ukraine fail often but advance anyway.",
+          "No human drivers needed in jammed zones.",
+          "Cheaper drones are coming faster now.",
+          "Watch Ukraine's tests for procurement clues.",
+          "Simulate a drone route this week."
+        ]
+      },
+      "instagram": {
+        "caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week."
+      }
+    },
+    "instagram_caption": "American-made robot vehicles are already fighting in Ukraine—they navigate without drivers but break down often in GPS-jammed zones.\n\nOne success costs dozens of fixes. These autonomous units are battlefield tests, not polished products.\n\nFailure is tactical, not fatal. For content creators: expect cheaper, faster drone integration—these tests define your next procurement strategy.\n\nHave you modeled a drone supply route through a jammed zone? If not, test one this week.",
+    "carousel_slides": [
+      {
+        "hook": "They fail often.",
+        "description": "New US robot vehicles navigate without humans but break down in jammed zones. One success costs dozens of fixes.",
+        "visual_hint": "Robot vehicle stuck in mud",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military robot vehicle"
+      },
+      {
+        "hook": "No humans needed.",
+        "description": "These autonomous units move on their own even where satellites are jammed. Failure rate is tactical, not fatal.",
+        "visual_hint": "Drone navigating without GPS",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "drone over field",
+        "image": "https://images.pexels.com/photos/5014708/pexels-photo-5014708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheaper drones coming.",
+        "description": "Future conflicts will see faster, cheaper drone integration because these tests prove what works under fire.",
+        "visual_hint": "Drone assembly line factory",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "drone factory assembly",
+        "image": "https://images.pexels.com/photos/3862129/pexels-photo-3862129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch the tests.",
+        "description": "Ukraine's battlefield experiments with these robots define what your next military procurement will look like.",
+        "visual_hint": "Soldiers observing robot test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "soldier controlling robot",
+        "image": "https://images.pexels.com/photos/6856820/pexels-photo-6856820.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulate a failure.",
+        "description": "Model a drone supply route through a jammed zone on ChatGPT. If you haven't tried, start now.",
+        "visual_hint": "ChatGPT interface with map",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chatgpt screen map",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
+    "savedAt": "2026-07-07T17:53:23.415Z",
+    "sourceId": "a88205ef5d4e9a5ef2bbc7367145edac"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-law-startup-norm-raises-120m-hits-unicorn-valua",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+    "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+    "pubDate": "Tue, 07 Jul 2026 14:35:42 +0000",
+    "slides": [
+      "Who will regulate the regulators—an AI itself?",
+      "Norm just raised $120 million at unicorn valuation.",
+      "But its AI judges legal cases faster than humans.",
+      "Your contracts now face automated, unbiased compliance checks.",
+      "Start testing Norm’s rulings against your own lawyers today."
+    ],
+    "thread_text": [
+      "1. Who polices the AI judge?\n\nNorm just raised $120 million to replace human legal review with its own AI ruling system.",
+      "2. Faster rulings, zero empathy\n\nIts AI judges legal cases in seconds, not days—but without human oversight, who catches errors?",
+      "3. Contracts don't blink\n\nYour vendor agreements now face automated compliance checks that never get tired—or biased.",
+      "4. Bias you can't appeal\n\nNorm’s rulings claim objectivity, but the training data decides what \"fair\" means. One dataset, one verdict.",
+      "5. Test your own contracts today\n\nRun a Norm simulation against your last three agreements. Does the AI spot what your lawyers missed?"
+    ],
+    "video_script": [
+      "A $120 million AI now judges your contracts.",
+      "It rules faster than any human lawyer.",
+      "But who watches the watchmaker?",
+      "Your compliance is automated, not infallible.",
+      "Test Norm against your own team today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who polices the AI judge?\n\nNorm just raised $120 million to replace human legal review with its own AI ruling system.",
+          "2. Faster rulings, zero empathy\n\nIts AI judges legal cases in seconds, not days—but without human oversight, who catches errors?",
+          "3. Contracts don't blink\n\nYour vendor agreements now face automated compliance checks that never get tired—or biased.",
+          "4. Bias you can't appeal\n\nNorm’s rulings claim objectivity, but the training data decides what \"fair\" means. One dataset, one verdict.",
+          "5. Test your own contracts today\n\nRun a Norm simulation against your last three agreements. Does the AI spot what your lawyers missed?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A $120 million AI now judges your contracts.",
+          "It rules faster than any human lawyer.",
+          "But who watches the watchmaker?",
+          "Your compliance is automated, not infallible.",
+          "Test Norm against your own team today."
+        ]
+      },
+      "instagram": {
+        "caption": "$120 million just went into an AI that judges legal cases faster than humans, and it’s already testing your contracts for compliance without bias. 🏛️⚖️\n\nNorm achieved unicorn status, promising automated rulings in seconds instead of days. Your vendor agreements now face a tireless, data-driven audit.\n\nEvery contract you sign is immediately scanned by an algorithm that never gets tired.\n\nWho polices the judge when one dataset defines \"fair\"? Run a Norm simulation against your own lawyers—will it spot what they missed? 🤖📄🔍"
+      }
+    },
+    "instagram_caption": "$120 million just went into an AI that judges legal cases faster than humans, and it’s already testing your contracts for compliance without bias. 🏛️⚖️\n\nNorm achieved unicorn status, promising automated rulings in seconds instead of days. Your vendor agreements now face a tireless, data-driven audit.\n\nEvery contract you sign is immediately scanned by an algorithm that never gets tired.\n\nWho polices the judge when one dataset defines \"fair\"? Run a Norm simulation against your own lawyers—will it spot what they missed? 🤖📄🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who judges the robot judge?",
+        "description": "Norm raised $120M to automate legal rulings. But with no human oversight, who catches the errors?",
+        "visual_hint": "gavel and glowing AI chip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand holding gavel"
+      },
+      {
+        "hook": "Justice in seconds, not days.",
+        "description": "Norm's AI judges cases faster than humans. Zero empathy, zero appeals—speed over fairness?",
+        "visual_hint": "clock vs computer screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital clock circuit board",
+        "image": "https://images.pexels.com/photos/2182863/pexels-photo-2182863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Contracts never blink.",
+        "description": "Vendor agreements face automated compliance checks that never get tired—or biased. One dataset decides everything.",
+        "visual_hint": "contract stack with magnifying glass",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass over contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bias you can't appeal.",
+        "description": "Norm's rulings claim objectivity, but the training data defines 'fair.' One dataset, one unchangeable verdict.",
+        "visual_hint": "scale of justice tilted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "tilted justice scale server",
+        "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI on your contracts now.",
+        "description": "Run a Norm simulation against your last three agreements. See what the AI catches that your lawyers missed.",
+        "visual_hint": "phone mockup with contract text",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone showing contract",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "savedAt": "2026-07-07T17:53:07.952Z",
+    "sourceId": "3d0b5867cea91ad716ce510b9faa86d7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chemistry-ventures-is-raising-500m-for-its-second-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Chemistry Ventures is raising $500M for its second fund",
+    "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+    "pubDate": "Tue, 07 Jul 2026 15:02:02 +0000",
+    "slides": [
+      "Chemistry Ventures targets $500M for its second fund.",
+      "First fund backed 30 startups in deep tech.",
+      "But only 2 reached a $100M valuation so far.",
+      "New fund will focus on climate and biotech deals.",
+      "Watch if LPs accept weaker first-fund returns now."
+    ],
+    "thread_text": [
+      "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+      "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+      "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+      "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+      "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+    ],
+    "video_script": [
+      "Chemistry Ventures wants $500 million for a second fund.",
+      "First fund backed 30 startups, but only two hit $100 million.",
+      "New fund focuses on climate and biotech deals.",
+      "LPs must decide if weaker returns are acceptable now.",
+      "Simulate LP decision with their portfolio data today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+          "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+          "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+          "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+          "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Chemistry Ventures wants $500 million for a second fund.",
+          "First fund backed 30 startups, but only two hit $100 million.",
+          "New fund focuses on climate and biotech deals.",
+          "LPs must decide if weaker returns are acceptable now.",
+          "Simulate LP decision with their portfolio data today."
+        ]
+      },
+      "instagram": {
+        "caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍"
+      }
+    },
+    "instagram_caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍",
+    "carousel_slides": [
+      {
+        "hook": "Only 2 wins out of 30?",
+        "description": "Chemistry Ventures targets $500M for a new fund after just 2 of 30 deep tech startups hit $100M.",
+        "visual_hint": "Graph with low bars",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Deep tech bets waiting",
+        "description": "First fund backed 30 startups. Most still building—new fund pivots to climate and biotech for faster returns.",
+        "visual_hint": "Lab equipment close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laboratory equipment",
+        "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Valuation gap exposed",
+        "description": "Only two exits reached nine figures. LPs question if the model can scale returns sooner.",
+        "visual_hint": "Magnifying glass on numbers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Climate and biotech pivot",
+        "description": "New fund leans into climate and biotech deals—sectors with faster cycles or deeper moats.",
+        "visual_hint": "Wind turbines and DNA",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "wind turbine",
+        "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you invest again?",
+        "description": "Save this post, then run your own due diligence on Chemistry Ventures' portfolio today.",
+        "visual_hint": "Hand holding phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800",
+    "savedAt": "2026-07-07T17:52:51.642Z",
+    "sourceId": "61b21342b0c8e163faff9a1a3512bd32"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "insilico-medicine-advances-ai-drug-for-ipf-to-phas",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+    "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+    "pubDate": "Tue, 07 Jul 2026 14:00:06 +0000",
+    "slides": [
+      "Can an AI-designed drug beat lung fibrosis?",
+      "Insilico's molecule now enters final human tests.",
+      "No AI-discovered drug has reached Phase III before.",
+      "Patients may access a novel treatment within years.",
+      "Watch this trial: it could rewrite drug discovery."
+    ],
+    "thread_text": [
+      "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+      "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+      "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+      "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+      "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+    ],
+    "video_script": [
+      "An AI-designed drug just hit final human tests.",
+      "No AI drug has reached Phase Three before.",
+      "It treats a fatal lung disease with no cure.",
+      "If it works, drug discovery will never be same.",
+      "Watch the trial. It could rewrite everything."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+          "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+          "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+          "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+          "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI-designed drug just hit final human tests.",
+          "No AI drug has reached Phase Three before.",
+          "It treats a fatal lung disease with no cure.",
+          "If it works, drug discovery will never be same.",
+          "Watch the trial. It could rewrite everything."
+        ]
+      },
+      "instagram": {
+        "caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design."
+      }
+    },
+    "instagram_caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design.",
+    "carousel_slides": [
+      {
+        "hook": "No AI drug reached Phase III—until now.",
+        "description": "Insilico Medicine's AI-designed molecule enters final human tests for IPF, a disease with no cure.",
+        "visual_hint": "AI neural network visualization",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "neural network graphic"
+      },
+      {
+        "hook": "Who designed this drug?",
+        "description": "Insilico Medicine used AI to create the molecule. It targets lung scarring that stiffens tissue.",
+        "visual_hint": "Lungs showing fibrosis",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "lung anatomy diagram",
+        "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What does it treat?",
+        "description": "Idiopathic pulmonary fibrosis scars lungs. The AI molecule aims to stop the stiffening.",
+        "visual_hint": "Scarred lung tissue close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "lung tissue fibrosis",
+        "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What is at stake?",
+        "description": "If Phase III succeeds, AI goes from algorithm to patient. That changes every drug pipeline.",
+        "visual_hint": "DNA helix with AI symbols",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "DNA helix laboratory",
+        "image": "https://images.pexels.com/photos/8940474/pexels-photo-8940474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch the trial now.",
+        "description": "Search FDA database for Insilico's Phase III trial ID. Decide if you would enroll.",
+        "visual_hint": "FDA website search bar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "FDA website screenshot",
+        "image": "https://images.pexels.com/photos/8830686/pexels-photo-8830686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-07T17:52:37.064Z",
+    "sourceId": "e8547c388b9fdab20de8d26045ecaca3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "savi-s-app-aims-to-protect-consumers-from-realisti",
     "prompt_version": "1.0.0",
     "status": "published",

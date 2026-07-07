@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chemistry-ventures-is-raising-500m-for-its-second-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Chemistry Ventures is raising $500M for its second fund",
+  "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+  "pubDate": "Tue, 07 Jul 2026 15:02:02 +0000",
+  "slides": [
+    "Chemistry Ventures targets $500M for its second fund.",
+    "First fund backed 30 startups in deep tech.",
+    "But only 2 reached a $100M valuation so far.",
+    "New fund will focus on climate and biotech deals.",
+    "Watch if LPs accept weaker first-fund returns now."
+  ],
+  "thread_text": [
+    "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+    "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+    "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+    "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+    "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+  ],
+  "video_script": [
+    "Chemistry Ventures wants $500 million for a second fund.",
+    "First fund backed 30 startups, but only two hit $100 million.",
+    "New fund focuses on climate and biotech deals.",
+    "LPs must decide if weaker returns are acceptable now.",
+    "Simulate LP decision with their portfolio data today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Second fund, weaker proof?\n\nChemistry Ventures targets $500M for its new fund after only 2 of 30 deep tech startups hit $100M.",
+        "2. Deep tech bets\n\nFirst fund backed 30 startups. Most are still building — climate and biotech are the next focus.",
+        "3. The valuation gap\n\nOnly two exits reached nine figures. LPs now eye whether the model can scale returns sooner.",
+        "4. Pivot to climate and bio\n\nNew fund leans into climate and biotech deals. These sectors promise faster cycles or deeper moats.",
+        "5. You're the LP\n\nWould you commit to a second fund after seeing that hit rate? Run your own due diligence on their portfolio today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chemistry Ventures wants $500 million for a second fund.",
+        "First fund backed 30 startups, but only two hit $100 million.",
+        "New fund focuses on climate and biotech deals.",
+        "LPs must decide if weaker returns are acceptable now.",
+        "Simulate LP decision with their portfolio data today."
+      ]
+    },
+    "instagram": {
+      "caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍"
+    }
+  },
+  "instagram_caption": "Just 2 out of 30 deep tech startups ever hit a $100M valuation.  \n\nChemistry Ventures now wants $500M for a second fund anyway. After that track record, they’re pivoting hard into climate and biotech deals — hoping for faster returns or deeper moats.🧪  \n\nThe next fund depends on institutional investors accepting weaker proof from the first one.💡  \n\nFor anyone watching venture trends: the bar for “working” in deep tech just got clearer — and lower.  \n\nWould you commit your capital to a second fund with that hit rate?🔍",
+  "carousel_slides": [
+    {
+      "hook": "Only 2 wins out of 30?",
+      "description": "Chemistry Ventures targets $500M for a new fund after just 2 of 30 deep tech startups hit $100M.",
+      "visual_hint": "Graph with low bars",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Deep tech bets waiting",
+      "description": "First fund backed 30 startups. Most still building—new fund pivots to climate and biotech for faster returns.",
+      "visual_hint": "Lab equipment close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laboratory equipment",
+      "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Valuation gap exposed",
+      "description": "Only two exits reached nine figures. LPs question if the model can scale returns sooner.",
+      "visual_hint": "Magnifying glass on numbers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Climate and biotech pivot",
+      "description": "New fund leans into climate and biotech deals—sectors with faster cycles or deeper moats.",
+      "visual_hint": "Wind turbines and DNA",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "wind turbine",
+      "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you invest again?",
+      "description": "Save this post, then run your own due diligence on Chemistry Ventures' portfolio today.",
+      "visual_hint": "Hand holding phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800",
+  "savedAt": "2026-07-07T17:52:51.642Z",
+  "sourceId": "61b21342b0c8e163faff9a1a3512bd32"
+}

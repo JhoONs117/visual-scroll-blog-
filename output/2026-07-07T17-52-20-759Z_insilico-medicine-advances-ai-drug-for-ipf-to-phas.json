@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "insilico-medicine-advances-ai-drug-for-ipf-to-phas",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+  "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+  "pubDate": "Tue, 07 Jul 2026 14:00:06 +0000",
+  "slides": [
+    "Can an AI-designed drug beat lung fibrosis?",
+    "Insilico's molecule now enters final human tests.",
+    "No AI-discovered drug has reached Phase III before.",
+    "Patients may access a novel treatment within years.",
+    "Watch this trial: it could rewrite drug discovery."
+  ],
+  "thread_text": [
+    "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+    "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+    "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+    "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+    "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+  ],
+  "video_script": [
+    "An AI-designed drug just hit final human tests.",
+    "No AI drug has reached Phase Three before.",
+    "It treats a fatal lung disease with no cure.",
+    "If it works, drug discovery will never be same.",
+    "Watch the trial. It could rewrite everything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is this the first?\n\nNo AI-discovered drug has ever made it to Phase III. This one just did.",
+        "2. Who is behind it?\n\nInsilico Medicine designed the molecule with AI. It targets a disease with no cure.",
+        "3. What does it treat?\n\nIdiopathic pulmonary fibrosis. Lungs scar and stiffen. The molecule aims to stop that.",
+        "4. What is at stake?\n\nIf it works, AI will have proven it can go from algorithm to patient. That changes every pipeline.",
+        "5. Watch this trial.\n\nPhase III is running now. Open the FDA website and search for the trial ID. Then decide if you'd enroll."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI-designed drug just hit final human tests.",
+        "No AI drug has reached Phase Three before.",
+        "It treats a fatal lung disease with no cure.",
+        "If it works, drug discovery will never be same.",
+        "Watch the trial. It could rewrite everything."
+      ]
+    },
+    "instagram": {
+      "caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design."
+    }
+  },
+  "instagram_caption": "A drug created entirely by artificial intelligence just entered its final stage of human testing. 🧪 No AI-discovered drug has ever reached Phase III before.\n\nInsilico Medicine’s molecule targets idiopathic pulmonary fibrosis, a lung-scarring disease with no cure. If this trial succeeds, an AI-designed drug could reach patients within years.\n\nFor anyone creating content or publishing research, this changes the assumption that algorithms can only assist discovery, not lead it. 📉→💊\n\nWhat does your current pipeline do that an AI could do faster? Search “NCT05938920” on clinicaltrials.gov and read the trial design.",
+  "carousel_slides": [
+    {
+      "hook": "No AI drug reached Phase III—until now.",
+      "description": "Insilico Medicine's AI-designed molecule enters final human tests for IPF, a disease with no cure.",
+      "visual_hint": "AI neural network visualization",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "neural network graphic"
+    },
+    {
+      "hook": "Who designed this drug?",
+      "description": "Insilico Medicine used AI to create the molecule. It targets lung scarring that stiffens tissue.",
+      "visual_hint": "Lungs showing fibrosis",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "lung anatomy diagram",
+      "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What does it treat?",
+      "description": "Idiopathic pulmonary fibrosis scars lungs. The AI molecule aims to stop the stiffening.",
+      "visual_hint": "Scarred lung tissue close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "lung tissue fibrosis",
+      "image": "https://images.pexels.com/photos/7579829/pexels-photo-7579829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What is at stake?",
+      "description": "If Phase III succeeds, AI goes from algorithm to patient. That changes every drug pipeline.",
+      "visual_hint": "DNA helix with AI symbols",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "DNA helix laboratory",
+      "image": "https://images.pexels.com/photos/8940474/pexels-photo-8940474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the trial now.",
+      "description": "Search FDA database for Insilico's Phase III trial ID. Decide if you would enroll.",
+      "visual_hint": "FDA website search bar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "FDA website screenshot",
+      "image": "https://images.pexels.com/photos/8830686/pexels-photo-8830686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-07T17:52:37.064Z",
+  "sourceId": "e8547c388b9fdab20de8d26045ecaca3"
+}
