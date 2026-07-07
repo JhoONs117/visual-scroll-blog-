@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "this-startup-pits-dealerships-against-each-other-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "This startup pits dealerships against each other to bid on your used car",
+  "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+  "pubDate": "Tue, 07 Jul 2026 14:00:00 +0000",
+  "slides": [
+    "Your used car gets bids, but from whom?",
+    "Dealerships compete blind on one platform.",
+    "They don't see rivals' offers—only you do.",
+    "No haggling; highest price wins instantly.",
+    "One step: upload details and watch bids."
+  ],
+  "thread_text": [
+    "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+    "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+    "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+    "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+    "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+  ],
+  "video_script": [
+    "Dealers bid blind on your used car.",
+    "You see every offer, they don't.",
+    "Highest price wins instantly—no haggling.",
+    "Upload details, then watch bids roll in.",
+    "Skip the lot, let dealers fight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+        "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+        "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+        "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+        "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Dealers bid blind on your used car.",
+        "You see every offer, they don't.",
+        "Highest price wins instantly—no haggling.",
+        "Upload details, then watch bids roll in.",
+        "Skip the lot, let dealers fight."
+      ]
+    },
+    "instagram": {
+      "caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑"
+    }
+  },
+  "instagram_caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑",
+  "carousel_slides": [
+    {
+      "hook": "Who's secretly bidding on your car?",
+      "description": "Dealerships compete blind against each other. Only you see all the offers coming in.",
+      "visual_hint": "Phone showing rising price graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Dealers see nothing — you see everything.",
+      "description": "Each dealer bids without knowing rivals' offers. Full control stays in your hands only.",
+      "visual_hint": "Blindfolded person holding smartphone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Haggling is dead.",
+      "description": "No back-and-forth negotiation. The highest bid locks instantly — no second chances.",
+      "visual_hint": "Hand pressing 'Accept' button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Upload once, watch dealers fight.",
+      "description": "Minutes after listing, dealers race to outbid each other. Your car becomes a silent auction.",
+      "visual_hint": "Upload icon transforming into dollar signs",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "upload icon on screen",
+      "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop wasting hours at lots. Save this.",
+      "description": "List your car today and let dealers compete for you. Link in bio to start.",
+      "visual_hint": "Car silhouette with upward arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car silhouette arrow up",
+      "image": "https://images.pexels.com/photos/12446301/pexels-photo-12446301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200",
+  "savedAt": "2026-07-07T19:43:34.967Z",
+  "sourceId": "ee1e8b4d2115180bec209e0496e36875"
+}

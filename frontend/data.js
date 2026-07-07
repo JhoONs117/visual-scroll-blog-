@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "this-startup-pits-dealerships-against-each-other-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This startup pits dealerships against each other to bid on your used car",
+    "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+    "pubDate": "Tue, 07 Jul 2026 14:00:00 +0000",
+    "slides": [
+      "Your used car gets bids, but from whom?",
+      "Dealerships compete blind on one platform.",
+      "They don't see rivals' offers—only you do.",
+      "No haggling; highest price wins instantly.",
+      "One step: upload details and watch bids."
+    ],
+    "thread_text": [
+      "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+      "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+      "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+      "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+      "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+    ],
+    "video_script": [
+      "Dealers bid blind on your used car.",
+      "You see every offer, they don't.",
+      "Highest price wins instantly—no haggling.",
+      "Upload details, then watch bids roll in.",
+      "Skip the lot, let dealers fight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+          "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+          "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+          "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+          "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Dealers bid blind on your used car.",
+          "You see every offer, they don't.",
+          "Highest price wins instantly—no haggling.",
+          "Upload details, then watch bids roll in.",
+          "Skip the lot, let dealers fight."
+        ]
+      },
+      "instagram": {
+        "caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑"
+      }
+    },
+    "instagram_caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑",
+    "carousel_slides": [
+      {
+        "hook": "Who's secretly bidding on your car?",
+        "description": "Dealerships compete blind against each other. Only you see all the offers coming in.",
+        "visual_hint": "Phone showing rising price graph",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Dealers see nothing — you see everything.",
+        "description": "Each dealer bids without knowing rivals' offers. Full control stays in your hands only.",
+        "visual_hint": "Blindfolded person holding smartphone",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Haggling is dead.",
+        "description": "No back-and-forth negotiation. The highest bid locks instantly — no second chances.",
+        "visual_hint": "Hand pressing 'Accept' button",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "finger pressing button",
+        "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Upload once, watch dealers fight.",
+        "description": "Minutes after listing, dealers race to outbid each other. Your car becomes a silent auction.",
+        "visual_hint": "Upload icon transforming into dollar signs",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "upload icon on screen",
+        "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop wasting hours at lots. Save this.",
+        "description": "List your car today and let dealers compete for you. Link in bio to start.",
+        "visual_hint": "Car silhouette with upward arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "car silhouette arrow up",
+        "image": "https://images.pexels.com/photos/12446301/pexels-photo-12446301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200",
+    "savedAt": "2026-07-07T19:43:34.967Z",
+    "sourceId": "ee1e8b4d2115180bec209e0496e36875"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "discord-admits-ai-moderation-bug-wrongfully-banned",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+    "slides": [
+      "Discord's AI moderation just banned innocent users. How?",
+      "The bug mistook harmless images like food for violations.",
+      "Affected accounts were locked with no human review option.",
+      "You now risk bans for posting normal pictures in chats.",
+      "Check your server logs today for false-positive removals."
+    ],
+    "thread_text": [
+      "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+      "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+      "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+      "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+      "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+    ],
+    "video_script": [
+      "Discord's AI banned users for posting food photos.",
+      "The bug flagged harmless images as violations.",
+      "Accounts locked with no human review option.",
+      "Even normal chat pictures can trigger bans now.",
+      "Check logs today for false-positive removals."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+          "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+          "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+          "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+          "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Discord's AI banned users for posting food photos.",
+          "The bug flagged harmless images as violations.",
+          "Accounts locked with no human review option.",
+          "Even normal chat pictures can trigger bans now.",
+          "Check logs today for false-positive removals."
+        ]
+      },
+      "instagram": {
+        "caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨"
+      }
+    },
+    "instagram_caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨",
+    "carousel_slides": [
+      {
+        "hook": "Your pizza pic got you banned.",
+        "description": "Discord's AI flagged harmless food photos as violations. Accounts locked with no review.",
+        "visual_hint": "Pizza slice blocked by red shield",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI can't tell cake from crime.",
+        "description": "The bug classified cakes and pets as explicit content. Only real violations should trigger bans.",
+        "visual_hint": "Cake with warning symbol overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cake slice",
+        "image": "https://images.pexels.com/photos/28402363/pexels-photo-28402363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zero appeals for locked accounts.",
+        "description": "Banned users got no human review option. The lock stuck permanently without a second look.",
+        "visual_hint": "Padlock on user profile",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "padlock icon",
+        "image": "https://images.pexels.com/photos/35310120/pexels-photo-35310120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your lunch photo risks a ban.",
+        "description": "Posting normal chat pictures now triggers false flags. Context doesn't matter to the filter.",
+        "visual_hint": "Lunch plate with banned stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your server logs now.",
+        "description": "Scroll moderation history for false-positive removals. See how many innocent posts vanished.",
+        "visual_hint": "Log screen with deletion alerts",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-07T19:43:19.904Z",
+    "sourceId": "0a5053c7161501f1f745904ecd631901"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-first-american-autonomous-ground-vehicles-are-",
     "prompt_version": "1.0.0",
     "status": "published",

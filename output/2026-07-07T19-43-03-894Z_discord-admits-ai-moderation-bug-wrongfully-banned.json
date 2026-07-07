@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "discord-admits-ai-moderation-bug-wrongfully-banned",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+  "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+  "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+  "slides": [
+    "Discord's AI moderation just banned innocent users. How?",
+    "The bug mistook harmless images like food for violations.",
+    "Affected accounts were locked with no human review option.",
+    "You now risk bans for posting normal pictures in chats.",
+    "Check your server logs today for false-positive removals."
+  ],
+  "thread_text": [
+    "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+    "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+    "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+    "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+    "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+  ],
+  "video_script": [
+    "Discord's AI banned users for posting food photos.",
+    "The bug flagged harmless images as violations.",
+    "Accounts locked with no human review option.",
+    "Even normal chat pictures can trigger bans now.",
+    "Check logs today for false-positive removals."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+        "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+        "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+        "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+        "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Discord's AI banned users for posting food photos.",
+        "The bug flagged harmless images as violations.",
+        "Accounts locked with no human review option.",
+        "Even normal chat pictures can trigger bans now.",
+        "Check logs today for false-positive removals."
+      ]
+    },
+    "instagram": {
+      "caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨"
+    }
+  },
+  "instagram_caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨",
+  "carousel_slides": [
+    {
+      "hook": "Your pizza pic got you banned.",
+      "description": "Discord's AI flagged harmless food photos as violations. Accounts locked with no review.",
+      "visual_hint": "Pizza slice blocked by red shield",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI can't tell cake from crime.",
+      "description": "The bug classified cakes and pets as explicit content. Only real violations should trigger bans.",
+      "visual_hint": "Cake with warning symbol overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cake slice",
+      "image": "https://images.pexels.com/photos/28402363/pexels-photo-28402363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zero appeals for locked accounts.",
+      "description": "Banned users got no human review option. The lock stuck permanently without a second look.",
+      "visual_hint": "Padlock on user profile",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock icon",
+      "image": "https://images.pexels.com/photos/35310120/pexels-photo-35310120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your lunch photo risks a ban.",
+      "description": "Posting normal chat pictures now triggers false flags. Context doesn't matter to the filter.",
+      "visual_hint": "Lunch plate with banned stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your server logs now.",
+      "description": "Scroll moderation history for false-positive removals. See how many innocent posts vanished.",
+      "visual_hint": "Log screen with deletion alerts",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-07T19:43:19.904Z",
+  "sourceId": "0a5053c7161501f1f745904ecd631901"
+}

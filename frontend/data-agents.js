@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "this-startup-pits-dealerships-against-each-other-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "This startup pits dealerships against each other to bid on your used car",
+      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+      "pubDate": "Tue, 07 Jul 2026 14:00:00 +0000",
+      "slides": [
+        "Your used car gets bids, but from whom?",
+        "Dealerships compete blind on one platform.",
+        "They don't see rivals' offers—only you do.",
+        "No haggling; highest price wins instantly.",
+        "One step: upload details and watch bids."
+      ],
+      "thread_text": [
+        "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+        "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+        "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+        "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+        "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+      ],
+      "video_script": [
+        "Dealers bid blind on your used car.",
+        "You see every offer, they don't.",
+        "Highest price wins instantly—no haggling.",
+        "Upload details, then watch bids roll in.",
+        "Skip the lot, let dealers fight."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your car, their blind war\n\nDealerships bid against each other without seeing offers—you watch the price climb from your phone.",
+            "2. No one knows the rival\n\nEach dealer sees zero data on competitors. Only you hold the full picture.",
+            "3. Haggling is dead\n\nForget back-and-forth. The top bid locks instantly—no second chances, no negotiation.",
+            "4. One upload triggers chaos\n\nIn minutes, dealers race to outbid each other. Your car becomes a silent auction.",
+            "5. Try it this week\n\nList your car today. Would you rather waste hours at a lot or watch buyers compete for you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Dealers bid blind on your used car.",
+            "You see every offer, they don't.",
+            "Highest price wins instantly—no haggling.",
+            "Upload details, then watch bids roll in.",
+            "Skip the lot, let dealers fight."
+          ]
+        },
+        "instagram": {
+          "caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑"
+        }
+      },
+      "instagram_caption": "Dealerships are now bidding against each other in a blind war for your used car — and you watch the price climb from your phone.\n\nDealers see zero offers from their rivals. Only you see the full picture. 🚗\n\nThe moment you upload your car details, the silent auction starts. Top bid locks instantly — no haggling, no wasted hours. 💰\n\nYour job: upload once. Their job: race to win you.\n\nWould you rather spend a Saturday driving to lots or make dealers compete for your keys? 🔑",
+      "carousel_slides": [
+        {
+          "hook": "Who's secretly bidding on your car?",
+          "description": "Dealerships compete blind against each other. Only you see all the offers coming in.",
+          "visual_hint": "Phone showing rising price graph",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Dealers see nothing — you see everything.",
+          "description": "Each dealer bids without knowing rivals' offers. Full control stays in your hands only.",
+          "visual_hint": "Blindfolded person holding smartphone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Haggling is dead.",
+          "description": "No back-and-forth negotiation. The highest bid locks instantly — no second chances.",
+          "visual_hint": "Hand pressing 'Accept' button",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Upload once, watch dealers fight.",
+          "description": "Minutes after listing, dealers race to outbid each other. Your car becomes a silent auction.",
+          "visual_hint": "Upload icon transforming into dollar signs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "upload icon on screen",
+          "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop wasting hours at lots. Save this.",
+          "description": "List your car today and let dealers compete for you. Link in bio to start.",
+          "visual_hint": "Car silhouette with upward arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "car silhouette arrow up",
+          "image": "https://images.pexels.com/photos/12446301/pexels-photo-12446301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/bidbus-team.jpg?resize=1200,1200",
+      "savedAt": "2026-07-07T19:43:34.967Z",
+      "sourceId": "ee1e8b4d2115180bec209e0496e36875"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "discord-admits-ai-moderation-bug-wrongfully-banned",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "pubDate": "Tue, 07 Jul 2026 19:28:38 +0000",
+      "slides": [
+        "Discord's AI moderation just banned innocent users. How?",
+        "The bug mistook harmless images like food for violations.",
+        "Affected accounts were locked with no human review option.",
+        "You now risk bans for posting normal pictures in chats.",
+        "Check your server logs today for false-positive removals."
+      ],
+      "thread_text": [
+        "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+        "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+        "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+        "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+        "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+      ],
+      "video_script": [
+        "Discord's AI banned users for posting food photos.",
+        "The bug flagged harmless images as violations.",
+        "Accounts locked with no human review option.",
+        "Even normal chat pictures can trigger bans now.",
+        "Check logs today for false-positive removals."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI bot banned your friend.\n\nDiscord's moderation system locked accounts for posting pizza photos. No human checked the flag.",
+            "2. Food wasn't the target.\n\nThe bug classified harmless images—like cakes or pets—as violations. Only explicit content should trigger bans.",
+            "3. Zero appeal possible.\n\nAffected users got no option to review or contest the decision. The lock stuck permanently without a second look.",
+            "4. Normal chats are risky.\n\nPosting a picture of your lunch now carries a ban risk. The filter can't tell context from content.",
+            "5. Check your server logs today.\n\nScroll through moderation history for false-positive removals. How many innocent posts vanished without your knowledge?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Discord's AI banned users for posting food photos.",
+            "The bug flagged harmless images as violations.",
+            "Accounts locked with no human review option.",
+            "Even normal chat pictures can trigger bans now.",
+            "Check logs today for false-positive removals."
+          ]
+        },
+        "instagram": {
+          "caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨"
+        }
+      },
+      "instagram_caption": "Your friend just got banned for posting a pizza photo on Discord. 🍕\n\nThe moderation AI flagged harmless images—cakes, pets, lunch pics—as violations. No human reviewer ever looked at the case.\n\nAffected accounts were locked permanently with zero option to appeal. Your casual chat snap now carries a ban risk.\n\nCheck your server’s moderation log today: how many innocent images vanished without you noticing? 🚨",
+      "carousel_slides": [
+        {
+          "hook": "Your pizza pic got you banned.",
+          "description": "Discord's AI flagged harmless food photos as violations. Accounts locked with no review.",
+          "visual_hint": "Pizza slice blocked by red shield",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "AI can't tell cake from crime.",
+          "description": "The bug classified cakes and pets as explicit content. Only real violations should trigger bans.",
+          "visual_hint": "Cake with warning symbol overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cake slice",
+          "image": "https://images.pexels.com/photos/28402363/pexels-photo-28402363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero appeals for locked accounts.",
+          "description": "Banned users got no human review option. The lock stuck permanently without a second look.",
+          "visual_hint": "Padlock on user profile",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "padlock icon",
+          "image": "https://images.pexels.com/photos/35310120/pexels-photo-35310120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your lunch photo risks a ban.",
+          "description": "Posting normal chat pictures now triggers false flags. Context doesn't matter to the filter.",
+          "visual_hint": "Lunch plate with banned stamp",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your server logs now.",
+          "description": "Scroll moderation history for false-positive removals. See how many innocent posts vanished.",
+          "visual_hint": "Log screen with deletion alerts",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-07T19:43:19.904Z",
+      "sourceId": "0a5053c7161501f1f745904ecd631901"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-first-american-autonomous-ground-vehicles-are-",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -73462,6 +73670,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-gratinata-con-rag-vegetale",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta gratinata con ragù vegetale",
+      "link": "https://ricette.giallozafferano.it/Pasta-gratinata-con-ragu-vegetale.html",
+      "pubDate": "Tue, 07 Jul 2026 17:58:00 +0200",
+      "content": "Pasta gratinata con ragù vegetale: la ricetta al forno con verdure e fiordilatte Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta gratinata con ragù vegetale /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 25 min Dosi per: 6 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta gratinata con ragù vegetale è un primo piatto ricco e colorato che porta in tavola tutto il sapore delle verdure di stagione. Un'alternativa vegetariana alla classica pasta al forno , preparata con un condimento a base di melanzane, peperoni, pomodori e basilico, che durante la cottura si trasforma in un ragù avvolgente e saporito. I fusillotti sono il formato di pasta perfetto, da scolare a metà cottura per un risultato sempre al dente! Il passaggio in forno regala una superficie dorata e irresistibilmente gratinata, mentre il cuore rimane morbido e filante. Perfetta per il pranzo della domenica , per una cena in famiglia o da preparare in anticipo, la pasta gratinata con ragù vegetale conquisterà tutti con la sua semplicità e il suo gusto genuino. Ecco altre paste al forno vegetariane da non perdere: pasta al forno alla siciliana pasta alla pizzaiola al forno pasta con feta e spinaci al forno paccheri al forno Baked pasta with vegetable ragu Scopri anche Brodo vegetale al microonde Barchette di indivia al formaggio Brodo vegetale Sfoglia tutte INGREDIENTI Fusillotti 320 g Fiordilatte 200 g Grana Padano DOP 65 g Basilico q.b. per il ragù vegetale Cipolle rosse di Tropea 80 g Cipollotto fresco 80 g Carote 70 g Melanzane 200 g Peperoni del corno 60 g Pomodorini datterini gialli 100 g Pomodori cuore di bue 100 g Basilico q.b. Brodo vegetale 100 g Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta gratinata con ragù vegetale Per preparare la pasta gratinata con ragù vegetale, mondate il cipollotto eliminando la parte finale e le estremità, quindi affettatelo sottilmente 1 . Pelate la carota con un pela verdure e tritatela finemente al coltello 2 . Sbucciate la cipolla rossa e tagliatela a fettine sottili 3 . Versate un giro d'olio in una casseruola, unite il cipollotto, la carota e la cipolla 4 e lasciate soffriggere a fiamma bassa per una decina di minuti, mescolando spesso 5 . Intanto pelate la melanzana 6 ed eliminate le estremità. Tagliatela prima a fette e successivamente a bastoncini 7 . Mondate il peperone, tagliatelo a metà 8 eliminate il picciolo, i semi e i filamenti interni, quindi tagliatelo a listarelle sottili 9 . Tagliate i pomodorini gialli a metà 10 . Dividete il pomodoro cuore di bue a metà, eliminate la parte centrale più dura e riducetelo a cubetti 11 . Quando il soffritto sarà ben appassito unite la melanzana e il peperone 12 . Aggiungete anche il pomodoro a cubetti 13 , salate 14 e mescolate accuratamente 15 . Versate circa 100 g di brodo vegetale 16 o acqua, coprite con il coperchio 17 e lasciate cuocere per circa 15 minuti a fuoco medio. Trascorso il tempo di cottura unite i pomodorini gialli 18 . Aggiungete anche il basilico spezzettato a mano 19 , poi mescolate e spegnete il fuoco 20 . Nel frattempo cuocete i fusillotti in abbondante acqua bollente salata, per metà del tempo indicato sulla confezione 21 . Scolate la pasta direttamente nel ragù vegetale 22 e amalgamate bene il tutto 23 . Versate metà della pasta in una pirofila da 28 cm. Distribuite sopra una spolverizzata di grana grattugiato 24 . Sbriciolate grossolanamente anche metà del fior di latte e spargetelo sulla pasta 25 . Coprite con la restante pasta 26 e completate con il fiordilatte rimasto 27 . Aggiungete anche il grana grattugiato 28 . Cuocete in forno ventilato preriscaldato a 230 °C per 15-20 minuti, fino a ottenere una superficie ben gratinata e dorata. Sfornate, completate con qualche fogliolina di basilico fresco 29 e servite 30 . Conservazione La pasta gratinata con ragù vegetale si conserva in frigorifero, in un contenitore chiuso ermeticamente, per 2 giorni. Al momento di servirla potete riscaldarla in forno oppure al microonde fino a quando sarà ben calda. Si sconsiglia la congelazione. Consiglio Per una gratinatura ancora più croccante potete aggiungere in superficie un cucchiaio di pangrattato mescolato al formaggio grattugiato. Se preferite un sapore più intenso, sostituite parte del fiordilatte con della scamorza affumicata. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Pomodoro Peperoni Melanzane Pasta Cipolla Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Primi piatti al forno , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Benessere Brodo vegetale al microonde 4.3 Barchette di indivia al formaggio 18 3.9 Brodo vegetale 100 4.3 Stracciatella in brodo vegetale 4.3 Conetti primavera 52 3.9 Supplì di pasta e patate 2 4.7 Dado vegetale 15 3.4 Lasagne al ragù di seitan 5 3.6 ULTIME RICETTE Pasta gratinata con ragù vegetale 5.0 Torta pesche e yogurt 5.0 Frittata di zucchine in friggitrice ad aria 5.0 SCOPRI Pasta gratinata Pasta gratinata al forno Ragu vegetale Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta gratinata con ragù vegetale, filante e dorata.",
+        "Fusillotti, melanzane, peperoni, pomodori, fiordilatte.",
+        "Soffriggi cipolle, carota; unisci melanzane e peperoni.",
+        "Cuoci pasta metà tempo, unisci al ragù, inforna.",
+        "Pangrattato in superficie per gratinatura più croccante."
+      ],
+      "instagram_caption": "Una gratinatura che fa impazzire il forno e il cuore! 🧡 Questo piatto unisce la cremosità del fiordilatte alla dolcezza di melanzane e peperoni, il tutto avvolto in un ragù vegetale profumatissimo. Ho saltato i fusillotti in padella con le verdure stufate, poi via in forno con una spolverata di pangrattato per quel crunch che conquista al primo morso. Filante, dorato, irresistibile: una coccola da condividere. Provala questo weekend 🍝✨",
+      "formats": {
+        "instagram": {
+          "caption": "Una gratinatura che fa impazzire il forno e il cuore! 🧡 Questo piatto unisce la cremosità del fiordilatte alla dolcezza di melanzane e peperoni, il tutto avvolto in un ragù vegetale profumatissimo. Ho saltato i fusillotti in padella con le verdure stufate, poi via in forno con una spolverata di pangrattato per quel crunch che conquista al primo morso. Filante, dorato, irresistibile: una coccola da condividere. Provala questo weekend 🍝✨"
+        },
+        "tiktok": {
+          "script": [
+            "Preparo il ragù vegetale con verdure fresche.",
+            "Soffriggo cipolla e carota, poi unisco melanzane e peperoni.",
+            "Aggiungo i pomodori e cuocio a fuoco medio.",
+            "Less i fusillotti al dente e li mescolo al ragù.",
+            "Inforno con fiordilatte e pangrattato, finché è dorato."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Una gratinatura che fa impazzire: pasta al forno con ragù di verdure, filante e croccante al punto giusto. Pronto a mettere le mani in pasta?",
+            "Fusillotti, melanzane, peperoni, pomodori e fiordilatte. Questi sono i protagonisti. Il segreto? Un ragù tutto vegetale che conquista anche i carnivori.",
+            "Parti da un bel soffritto di cipolla e carota, poi aggiungi melanzane e peperoni a cubetti. Lascia che si insaporiscano bene, finché non diventano morbidi e profumati.",
+            "Cuoci la pasta solo metà del tempo, mescolala al ragù vegetale e trasferisci tutto in una teglia. Una spolverata di pangrattato sopra e via in forno.",
+            "Il pangrattato in superficie è il trucco per una crosta dorata e croccantissima. Provala e fammi sapere com'è venuta 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Preparo il ragù vegetale con verdure fresche.",
+        "Soffriggo cipolla e carota, poi unisco melanzane e peperoni.",
+        "Aggiungo i pomodori e cuocio a fuoco medio.",
+        "Less i fusillotti al dente e li mescolo al ragù.",
+        "Inforno con fiordilatte e pangrattato, finché è dorato."
+      ],
+      "thread_text": [
+        "Una gratinatura che fa impazzire: pasta al forno con ragù di verdure, filante e croccante al punto giusto. Pronto a mettere le mani in pasta?",
+        "Fusillotti, melanzane, peperoni, pomodori e fiordilatte. Questi sono i protagonisti. Il segreto? Un ragù tutto vegetale che conquista anche i carnivori.",
+        "Parti da un bel soffritto di cipolla e carota, poi aggiungi melanzane e peperoni a cubetti. Lascia che si insaporiscano bene, finché non diventano morbidi e profumati.",
+        "Cuoci la pasta solo metà del tempo, mescolala al ragù vegetale e trasferisci tutto in una teglia. Una spolverata di pangrattato sopra e via in forno.",
+        "Il pangrattato in superficie è il trucco per una crosta dorata e croccantissima. Provala e fammi sapere com'è venuta 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta gratinata filante e dorata",
+          "description": "Una pasta al forno cremosa con ragù vegetale e crosta croccante, perfetta per stupire.",
+          "visual_hint": "primo piano pasta filante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory baked pasta"
+        },
+        {
+          "hook": "Gli ingredienti del ragù vegetale",
+          "description": "Fusillotti, melanzane, peperoni, pomodori e fiordilatte per un ripieno saporito.",
+          "visual_hint": "ingredienti disposti in fila",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory vegetables cutting board",
+          "image": "https://images.pexels.com/photos/4397785/pexels-photo-4397785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Soffriggi le verdure",
+          "description": "Inizia soffriggendo cipolla e carota, poi unisci melanzane e peperoni a cubetti.",
+          "visual_hint": "padella con verdure soffritte",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory sauteed vegetables",
+          "image": "https://images.pexels.com/photos/33867266/pexels-photo-33867266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cuoci e assembla",
+          "description": "Cuoci la pasta metà tempo, scolala e mescolala al ragù vegetale prima di infornare.",
+          "visual_hint": "pasta al dente in teglia",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta casserole",
+          "image": "https://images.pexels.com/photos/34474031/pexels-photo-34474031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Gratinatura perfetta",
+          "description": "Cospargi di pangrattato per una crosta croccante e dorata. Servi ben calda.",
+          "visual_hint": "pasta gratinata in tegame",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory golden baked pasta",
+          "image": "https://images.pexels.com/photos/29145229/pexels-photo-29145229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "melanzane",
+        "peperoni",
+        "fiordilatte"
+      ],
+      "image": "https://www.giallozafferano.it/images/362-36299/Pasta-gratinata-con-ragu-vegetale_650x433_wm.jpg",
+      "savedAt": "2026-07-07T19:49:03.149Z",
+      "sourceId": "e9c9ad9b990017807136f12126c9f9b9"
+    },
     {
       "schema_version": 2,
       "agent": "food",
