@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "prime-intellect-raises-130m-series-a-to-help-enter",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+  "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+  "pubDate": "Wed, 08 Jul 2026 16:22:38 +0000",
+  "slides": [
+    "Can Prime Intellect finally make enterprise AI work?",
+    "It raised $130M to let companies build custom agents.",
+    "But most enterprise AI pilots still fail within months.",
+    "They claim 80% faster deployment than current solutions.",
+    "Your next move: test if your data is actually ready."
+  ],
+  "thread_text": [
+    "1. The $130M gamble\n\nMost enterprise AI pilots crash in months. One startup just raised that sum to fix it.",
+    "2. Faster, but fragile\n\nThey claim 80% quicker deployment. Speed means nothing if the data foundation cracks.",
+    "3. The silent killer\n\nCustom agents sound great. Dirty or siloed data kills them before they prove ROI.",
+    "4. The real bottleneck\n\nInfrastructure isn't the problem. It's whether your raw data can actually feed a custom agent.",
+    "5. Your move today\n\nTake one internal report and ask an LLM to act on it. If it fails, your data isn't ready."
+  ],
+  "video_script": [
+    "A startup raised 130 million dollars.",
+    "Most enterprise AI pilots still fail.",
+    "They promise 80 percent faster deployment.",
+    "But dirty data kills custom agents.",
+    "Test your data readiness this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $130M gamble\n\nMost enterprise AI pilots crash in months. One startup just raised that sum to fix it.",
+        "2. Faster, but fragile\n\nThey claim 80% quicker deployment. Speed means nothing if the data foundation cracks.",
+        "3. The silent killer\n\nCustom agents sound great. Dirty or siloed data kills them before they prove ROI.",
+        "4. The real bottleneck\n\nInfrastructure isn't the problem. It's whether your raw data can actually feed a custom agent.",
+        "5. Your move today\n\nTake one internal report and ask an LLM to act on it. If it fails, your data isn't ready."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A startup raised 130 million dollars.",
+        "Most enterprise AI pilots still fail.",
+        "They promise 80 percent faster deployment.",
+        "But dirty data kills custom agents.",
+        "Test your data readiness this week."
+      ]
+    },
+    "instagram": {
+      "caption": "$130M to solve a problem that kills most enterprise AI pilots in months—before they even prove value.\n\nPrime Intellect raised that sum. They promise 80% faster deployment for custom agents. But speed doesn’t fix dirty data or silos. Most AI pilots still crash because the foundation cracks.\n\nYour next custom agent won’t fail on infrastructure. It will fail if your raw data can't feed it.\n\nTake one internal report today. Ask an LLM to act on it. If it stumbles, your data isn’t ready. 🧠📉💸 What did the model miss?"
+    }
+  },
+  "instagram_caption": "$130M to solve a problem that kills most enterprise AI pilots in months—before they even prove value.\n\nPrime Intellect raised that sum. They promise 80% faster deployment for custom agents. But speed doesn’t fix dirty data or silos. Most AI pilots still crash because the foundation cracks.\n\nYour next custom agent won’t fail on infrastructure. It will fail if your raw data can't feed it.\n\nTake one internal report today. Ask an LLM to act on it. If it stumbles, your data isn’t ready. 🧠📉💸 What did the model miss?",
+  "carousel_slides": [
+    {
+      "hook": "Why do most enterprise AI pilots fail?",
+      "description": "Most crash within months. Prime Intellect raised $130M to change that.",
+      "visual_hint": "crumpled paper graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "80% faster deployment sounds great.",
+      "description": "But speed means nothing if your data foundation cracks. Infrastructure isn't the bottleneck.",
+      "visual_hint": "cracked concrete floor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken pavement",
+      "image": "https://images.pexels.com/photos/29677628/pexels-photo-29677628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Custom agents have a silent killer.",
+      "description": "Dirty or siloed data kills them before they prove ROI. Data readiness is everything.",
+      "visual_hint": "magnifying glass on data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "dusty server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real bottleneck isn't tech.",
+      "description": "It's whether your raw data can actually feed a custom agent. Most companies fail here.",
+      "visual_hint": "hand holding data cable",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data cable",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your data today.",
+      "description": "Take one internal report and ask an LLM to act on it. If it fails, your data isn't ready.",
+      "visual_hint": "phone screenshot report",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/PE4252-2.jpg?resize=1200,800",
+  "savedAt": "2026-07-08T19:10:49.486Z",
+  "sourceId": "72c648254269e30c614e5fc4afb2c851"
+}

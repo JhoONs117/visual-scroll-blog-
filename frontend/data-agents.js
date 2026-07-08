@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "prime-intellect-raises-130m-series-a-to-help-enter",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "pubDate": "Wed, 08 Jul 2026 16:22:38 +0000",
+      "slides": [
+        "Can Prime Intellect finally make enterprise AI work?",
+        "It raised $130M to let companies build custom agents.",
+        "But most enterprise AI pilots still fail within months.",
+        "They claim 80% faster deployment than current solutions.",
+        "Your next move: test if your data is actually ready."
+      ],
+      "thread_text": [
+        "1. The $130M gamble\n\nMost enterprise AI pilots crash in months. One startup just raised that sum to fix it.",
+        "2. Faster, but fragile\n\nThey claim 80% quicker deployment. Speed means nothing if the data foundation cracks.",
+        "3. The silent killer\n\nCustom agents sound great. Dirty or siloed data kills them before they prove ROI.",
+        "4. The real bottleneck\n\nInfrastructure isn't the problem. It's whether your raw data can actually feed a custom agent.",
+        "5. Your move today\n\nTake one internal report and ask an LLM to act on it. If it fails, your data isn't ready."
+      ],
+      "video_script": [
+        "A startup raised 130 million dollars.",
+        "Most enterprise AI pilots still fail.",
+        "They promise 80 percent faster deployment.",
+        "But dirty data kills custom agents.",
+        "Test your data readiness this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $130M gamble\n\nMost enterprise AI pilots crash in months. One startup just raised that sum to fix it.",
+            "2. Faster, but fragile\n\nThey claim 80% quicker deployment. Speed means nothing if the data foundation cracks.",
+            "3. The silent killer\n\nCustom agents sound great. Dirty or siloed data kills them before they prove ROI.",
+            "4. The real bottleneck\n\nInfrastructure isn't the problem. It's whether your raw data can actually feed a custom agent.",
+            "5. Your move today\n\nTake one internal report and ask an LLM to act on it. If it fails, your data isn't ready."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A startup raised 130 million dollars.",
+            "Most enterprise AI pilots still fail.",
+            "They promise 80 percent faster deployment.",
+            "But dirty data kills custom agents.",
+            "Test your data readiness this week."
+          ]
+        },
+        "instagram": {
+          "caption": "$130M to solve a problem that kills most enterprise AI pilots in months—before they even prove value.\n\nPrime Intellect raised that sum. They promise 80% faster deployment for custom agents. But speed doesn’t fix dirty data or silos. Most AI pilots still crash because the foundation cracks.\n\nYour next custom agent won’t fail on infrastructure. It will fail if your raw data can't feed it.\n\nTake one internal report today. Ask an LLM to act on it. If it stumbles, your data isn’t ready. 🧠📉💸 What did the model miss?"
+        }
+      },
+      "instagram_caption": "$130M to solve a problem that kills most enterprise AI pilots in months—before they even prove value.\n\nPrime Intellect raised that sum. They promise 80% faster deployment for custom agents. But speed doesn’t fix dirty data or silos. Most AI pilots still crash because the foundation cracks.\n\nYour next custom agent won’t fail on infrastructure. It will fail if your raw data can't feed it.\n\nTake one internal report today. Ask an LLM to act on it. If it stumbles, your data isn’t ready. 🧠📉💸 What did the model miss?",
+      "carousel_slides": [
+        {
+          "hook": "Why do most enterprise AI pilots fail?",
+          "description": "Most crash within months. Prime Intellect raised $130M to change that.",
+          "visual_hint": "crumpled paper graph",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "80% faster deployment sounds great.",
+          "description": "But speed means nothing if your data foundation cracks. Infrastructure isn't the bottleneck.",
+          "visual_hint": "cracked concrete floor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken pavement",
+          "image": "https://images.pexels.com/photos/29677628/pexels-photo-29677628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Custom agents have a silent killer.",
+          "description": "Dirty or siloed data kills them before they prove ROI. Data readiness is everything.",
+          "visual_hint": "magnifying glass on data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "dusty server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real bottleneck isn't tech.",
+          "description": "It's whether your raw data can actually feed a custom agent. Most companies fail here.",
+          "visual_hint": "hand holding data cable",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data cable",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your data today.",
+          "description": "Take one internal report and ask an LLM to act on it. If it fails, your data isn't ready.",
+          "visual_hint": "phone screenshot report",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PE4252-2.jpg?resize=1200,800",
+      "savedAt": "2026-07-08T19:10:49.486Z",
+      "sourceId": "72c648254269e30c614e5fc4afb2c851"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-this-ceo-thinks-video-games-make-better-traini",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "pubDate": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "slides": [
+        "Why would a CEO bet games beat the internet for AI training?",
+        "Games generate deliberate, structured actions, not random noise.",
+        "But this data captures problem-solving strategies, not just words.",
+        "For your training pipeline, expect faster task-specific model tuning.",
+        "Pilot one simulated environment before scaling your real-world dataset."
+      ],
+      "thread_text": [
+        "1. Why bet games beat the internet\n\nGPT-4 saw billions of web pages but still fails at basic multi-step tasks. Games generate deliberate actions, not noise.",
+        "2. Data with strategy built in\n\nEach move records a decision path, not just a word. That structure mirrors how humans solve real problems.",
+        "3. Training gets faster, not broader\n\nPrecision on task logic cuts tuning time by half. Your model learns why, not just what.",
+        "4. Real-world data has a blind spot\n\nStatic text lacks feedback loops. Games give you cause and effect in every frame — a living dataset.",
+        "5. Test one simulation this week\n\nGrab a game engine and run a single task environment. Does your model improve faster than scraping another million posts?"
+      ],
+      "video_script": [
+        "Games give AI deliberate actions, not random text.",
+        "Each move records a complete problem-solving path.",
+        "That structure speeds up model tuning significantly.",
+        "Real-world data lacks cause and effect loops.",
+        "Test one simulation before scaling your real dataset."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why bet games beat the internet\n\nGPT-4 saw billions of web pages but still fails at basic multi-step tasks. Games generate deliberate actions, not noise.",
+            "2. Data with strategy built in\n\nEach move records a decision path, not just a word. That structure mirrors how humans solve real problems.",
+            "3. Training gets faster, not broader\n\nPrecision on task logic cuts tuning time by half. Your model learns why, not just what.",
+            "4. Real-world data has a blind spot\n\nStatic text lacks feedback loops. Games give you cause and effect in every frame — a living dataset.",
+            "5. Test one simulation this week\n\nGrab a game engine and run a single task environment. Does your model improve faster than scraping another million posts?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Games give AI deliberate actions, not random text.",
+            "Each move records a complete problem-solving path.",
+            "That structure speeds up model tuning significantly.",
+            "Real-world data lacks cause and effect loops.",
+            "Test one simulation before scaling your real dataset."
+          ]
+        },
+        "instagram": {
+          "caption": "Games capture your every move as a deliberate decision, while the internet is mostly noise — that’s why one CEO claims they’re better for training AI.\n\nEach in-game action records a strategy, not just a static word. That structure mirrors how humans solve real problems step-by-step, giving AI cause-and-effect feedback loops that text alone lacks.\n\nFor content creators, this means models trained this way could learn task logic faster, cutting tuning time in half 🎯.\n\nWhat’s one simulated environment you could test this week — a game engine or a simple puzzle — to see if your own workflow improves faster than scraping more posts? 🕹️"
+        }
+      },
+      "instagram_caption": "Games capture your every move as a deliberate decision, while the internet is mostly noise — that’s why one CEO claims they’re better for training AI.\n\nEach in-game action records a strategy, not just a static word. That structure mirrors how humans solve real problems step-by-step, giving AI cause-and-effect feedback loops that text alone lacks.\n\nFor content creators, this means models trained this way could learn task logic faster, cutting tuning time in half 🎯.\n\nWhat’s one simulated environment you could test this week — a game engine or a simple puzzle — to see if your own workflow improves faster than scraping more posts? 🕹️",
+      "carousel_slides": [
+        {
+          "hook": "Why games beat the internet",
+          "description": "GPT-4 saw billions of pages but fails at multi-step tasks. Games create deliberate actions, not noise.",
+          "visual_hint": "Game controller on keyboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gaming controller keyboard"
+        },
+        {
+          "hook": "Data with strategy built in",
+          "description": "Each move records a decision path, mirroring how humans solve real problems step by step.",
+          "visual_hint": "Chess pieces on board",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chess board game",
+          "image": "https://images.pexels.com/photos/18706251/pexels-photo-18706251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Training gets faster, not broader",
+          "description": "Precision on task logic cuts tuning time by half. The model learns why, not just what.",
+          "visual_hint": "Speedometer needle rising",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "speedometer dashboard",
+          "image": "https://images.pexels.com/photos/19754775/pexels-photo-19754775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real data has a blind spot",
+          "description": "Static text lacks feedback loops. Games deliver cause and effect in every frame.",
+          "visual_hint": "Broken text chain",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "broken chain link",
+          "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one simulation this week",
+          "description": "Grab a game engine, run a single task. See if your model improves faster than scraping more posts.",
+          "visual_hint": "Arrow hitting bullseye",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "dartboard bullseye",
+          "image": "https://images.pexels.com/photos/32254049/pexels-photo-32254049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
+      "savedAt": "2026-07-08T19:10:24.439Z",
+      "sourceId": "1e9d0df00d1e791a9456c30fc6625459"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-photos-adds-a-new-ai-video-remix-tool",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "pubDate": "Wed, 08 Jul 2026 18:30:08 +0000",
+      "slides": [
+        "Can Google Photos finally make your videos watchable?",
+        "Its new AI 'Video Remix' reorders clips automatically.",
+        "But the AI chooses edits you might not expect.",
+        "You can now generate a highlight reel in seconds.",
+        "Test it: pick any album and see what it creates."
+      ],
+      "thread_text": [
+        "1. Your videos are now editable by AI.\n\nGoogle Photos' new 'Video Remix' doesn't ask permission before reordering your footage.",
+        "2. The AI picks edits you'd never choose.\n\nIt ignores your original timeline entirely, creating results that can feel random or brilliant.",
+        "3. A highlight reel in seconds.\n\nNo manual trimming needed. The algorithm scans every clip and assembles the best moments automatically.",
+        "4. But control is partially lost.\n\nYou can't override the AI's sequence without starting over. The final cut is its decision, not yours.",
+        "5. Test it on a real album today.\n\nPick any set of videos and see what the AI decides to keep. Does its version match your memory?"
+      ],
+      "video_script": [
+        "Google Photos edits your videos now.",
+        "It reorders clips on its own.",
+        "The AI picks surprising edits.",
+        "You get a highlight reel fast.",
+        "Test it with your own album."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your videos are now editable by AI.\n\nGoogle Photos' new 'Video Remix' doesn't ask permission before reordering your footage.",
+            "2. The AI picks edits you'd never choose.\n\nIt ignores your original timeline entirely, creating results that can feel random or brilliant.",
+            "3. A highlight reel in seconds.\n\nNo manual trimming needed. The algorithm scans every clip and assembles the best moments automatically.",
+            "4. But control is partially lost.\n\nYou can't override the AI's sequence without starting over. The final cut is its decision, not yours.",
+            "5. Test it on a real album today.\n\nPick any set of videos and see what the AI decides to keep. Does its version match your memory?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google Photos edits your videos now.",
+            "It reorders clips on its own.",
+            "The AI picks surprising edits.",
+            "You get a highlight reel fast.",
+            "Test it with your own album."
+          ]
+        },
+        "instagram": {
+          "caption": "Your videos just got a new AI editor that will rearrange your footage without asking.\n\nGoogle Photos' 'Video Remix' scans every clip, picks what it thinks are the best moments, and assembles them into a highlight reel in seconds 🎬. The catch: it ignores your original timeline entirely, and you can't tweak its sequence without starting over 🤖.\n\nFor anyone making content, this means your raw footage can become a polished cut instantly—but the final edit is the AI's choice, not yours.\n\nOpen an album today, hit remix, and decide: does its version match what you wanted to say?"
+        }
+      },
+      "instagram_caption": "Your videos just got a new AI editor that will rearrange your footage without asking.\n\nGoogle Photos' 'Video Remix' scans every clip, picks what it thinks are the best moments, and assembles them into a highlight reel in seconds 🎬. The catch: it ignores your original timeline entirely, and you can't tweak its sequence without starting over 🤖.\n\nFor anyone making content, this means your raw footage can become a polished cut instantly—but the final edit is the AI's choice, not yours.\n\nOpen an album today, hit remix, and decide: does its version match what you wanted to say?",
+      "carousel_slides": [
+        {
+          "hook": "Your videos, now edited by AI.",
+          "description": "Google Photos' Video Remix reorders your footage without permission. The results can feel random.",
+          "visual_hint": "Phone screen with AI icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen interface"
+        },
+        {
+          "hook": "AI picks edits you'd never choose.",
+          "description": "It ignores your original timeline and creates unexpected sequences, for better or worse.",
+          "visual_hint": "Timeline being shuffled",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "video editing timeline",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Highlight reel in seconds.",
+          "description": "No manual trimming needed. The algorithm scans clips and assembles the best moments automatically.",
+          "visual_hint": "Clips snapping together",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "film strips merging",
+          "image": "https://images.pexels.com/photos/7014266/pexels-photo-7014266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But control is partially lost.",
+          "description": "You can't override the AI's sequence without starting over. The final cut is its decision.",
+          "visual_hint": "Lock icon on edit button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "edit buttons grayed out",
+          "image": "https://images.pexels.com/photos/11713444/pexels-photo-11713444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your album today.",
+          "description": "Pick any set of videos and see what the AI decides to keep. Does it match your memory?",
+          "visual_hint": "Person tapping album cover",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "open photo album",
+          "image": "https://images.pexels.com/photos/1812527/pexels-photo-1812527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+      "savedAt": "2026-07-08T19:10:09.813Z",
+      "sourceId": "cb9673c1314630438146e4e27672e40a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "blue-origin-reportedly-raising-10b-at-130b-valuati",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-photos-adds-a-new-ai-video-remix-tool",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+  "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+  "pubDate": "Wed, 08 Jul 2026 18:30:08 +0000",
+  "slides": [
+    "Can Google Photos finally make your videos watchable?",
+    "Its new AI 'Video Remix' reorders clips automatically.",
+    "But the AI chooses edits you might not expect.",
+    "You can now generate a highlight reel in seconds.",
+    "Test it: pick any album and see what it creates."
+  ],
+  "thread_text": [
+    "1. Your videos are now editable by AI.\n\nGoogle Photos' new 'Video Remix' doesn't ask permission before reordering your footage.",
+    "2. The AI picks edits you'd never choose.\n\nIt ignores your original timeline entirely, creating results that can feel random or brilliant.",
+    "3. A highlight reel in seconds.\n\nNo manual trimming needed. The algorithm scans every clip and assembles the best moments automatically.",
+    "4. But control is partially lost.\n\nYou can't override the AI's sequence without starting over. The final cut is its decision, not yours.",
+    "5. Test it on a real album today.\n\nPick any set of videos and see what the AI decides to keep. Does its version match your memory?"
+  ],
+  "video_script": [
+    "Google Photos edits your videos now.",
+    "It reorders clips on its own.",
+    "The AI picks surprising edits.",
+    "You get a highlight reel fast.",
+    "Test it with your own album."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your videos are now editable by AI.\n\nGoogle Photos' new 'Video Remix' doesn't ask permission before reordering your footage.",
+        "2. The AI picks edits you'd never choose.\n\nIt ignores your original timeline entirely, creating results that can feel random or brilliant.",
+        "3. A highlight reel in seconds.\n\nNo manual trimming needed. The algorithm scans every clip and assembles the best moments automatically.",
+        "4. But control is partially lost.\n\nYou can't override the AI's sequence without starting over. The final cut is its decision, not yours.",
+        "5. Test it on a real album today.\n\nPick any set of videos and see what the AI decides to keep. Does its version match your memory?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google Photos edits your videos now.",
+        "It reorders clips on its own.",
+        "The AI picks surprising edits.",
+        "You get a highlight reel fast.",
+        "Test it with your own album."
+      ]
+    },
+    "instagram": {
+      "caption": "Your videos just got a new AI editor that will rearrange your footage without asking.\n\nGoogle Photos' 'Video Remix' scans every clip, picks what it thinks are the best moments, and assembles them into a highlight reel in seconds 🎬. The catch: it ignores your original timeline entirely, and you can't tweak its sequence without starting over 🤖.\n\nFor anyone making content, this means your raw footage can become a polished cut instantly—but the final edit is the AI's choice, not yours.\n\nOpen an album today, hit remix, and decide: does its version match what you wanted to say?"
+    }
+  },
+  "instagram_caption": "Your videos just got a new AI editor that will rearrange your footage without asking.\n\nGoogle Photos' 'Video Remix' scans every clip, picks what it thinks are the best moments, and assembles them into a highlight reel in seconds 🎬. The catch: it ignores your original timeline entirely, and you can't tweak its sequence without starting over 🤖.\n\nFor anyone making content, this means your raw footage can become a polished cut instantly—but the final edit is the AI's choice, not yours.\n\nOpen an album today, hit remix, and decide: does its version match what you wanted to say?",
+  "carousel_slides": [
+    {
+      "hook": "Your videos, now edited by AI.",
+      "description": "Google Photos' Video Remix reorders your footage without permission. The results can feel random.",
+      "visual_hint": "Phone screen with AI icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen interface"
+    },
+    {
+      "hook": "AI picks edits you'd never choose.",
+      "description": "It ignores your original timeline and creates unexpected sequences, for better or worse.",
+      "visual_hint": "Timeline being shuffled",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "video editing timeline",
+      "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Highlight reel in seconds.",
+      "description": "No manual trimming needed. The algorithm scans clips and assembles the best moments automatically.",
+      "visual_hint": "Clips snapping together",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "film strips merging",
+      "image": "https://images.pexels.com/photos/7014266/pexels-photo-7014266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But control is partially lost.",
+      "description": "You can't override the AI's sequence without starting over. The final cut is its decision.",
+      "visual_hint": "Lock icon on edit button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "edit buttons grayed out",
+      "image": "https://images.pexels.com/photos/11713444/pexels-photo-11713444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your album today.",
+      "description": "Pick any set of videos and see what the AI decides to keep. Does it match your memory?",
+      "visual_hint": "Person tapping album cover",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "open photo album",
+      "image": "https://images.pexels.com/photos/1812527/pexels-photo-1812527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+  "savedAt": "2026-07-08T19:10:09.813Z",
+  "sourceId": "cb9673c1314630438146e4e27672e40a"
+}

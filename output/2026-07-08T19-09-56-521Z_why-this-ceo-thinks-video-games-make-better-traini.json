@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-this-ceo-thinks-video-games-make-better-traini",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why this CEO thinks video games make better training data than the internet",
+  "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+  "pubDate": "Wed, 08 Jul 2026 17:47:55 +0000",
+  "slides": [
+    "Why would a CEO bet games beat the internet for AI training?",
+    "Games generate deliberate, structured actions, not random noise.",
+    "But this data captures problem-solving strategies, not just words.",
+    "For your training pipeline, expect faster task-specific model tuning.",
+    "Pilot one simulated environment before scaling your real-world dataset."
+  ],
+  "thread_text": [
+    "1. Why bet games beat the internet\n\nGPT-4 saw billions of web pages but still fails at basic multi-step tasks. Games generate deliberate actions, not noise.",
+    "2. Data with strategy built in\n\nEach move records a decision path, not just a word. That structure mirrors how humans solve real problems.",
+    "3. Training gets faster, not broader\n\nPrecision on task logic cuts tuning time by half. Your model learns why, not just what.",
+    "4. Real-world data has a blind spot\n\nStatic text lacks feedback loops. Games give you cause and effect in every frame — a living dataset.",
+    "5. Test one simulation this week\n\nGrab a game engine and run a single task environment. Does your model improve faster than scraping another million posts?"
+  ],
+  "video_script": [
+    "Games give AI deliberate actions, not random text.",
+    "Each move records a complete problem-solving path.",
+    "That structure speeds up model tuning significantly.",
+    "Real-world data lacks cause and effect loops.",
+    "Test one simulation before scaling your real dataset."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why bet games beat the internet\n\nGPT-4 saw billions of web pages but still fails at basic multi-step tasks. Games generate deliberate actions, not noise.",
+        "2. Data with strategy built in\n\nEach move records a decision path, not just a word. That structure mirrors how humans solve real problems.",
+        "3. Training gets faster, not broader\n\nPrecision on task logic cuts tuning time by half. Your model learns why, not just what.",
+        "4. Real-world data has a blind spot\n\nStatic text lacks feedback loops. Games give you cause and effect in every frame — a living dataset.",
+        "5. Test one simulation this week\n\nGrab a game engine and run a single task environment. Does your model improve faster than scraping another million posts?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Games give AI deliberate actions, not random text.",
+        "Each move records a complete problem-solving path.",
+        "That structure speeds up model tuning significantly.",
+        "Real-world data lacks cause and effect loops.",
+        "Test one simulation before scaling your real dataset."
+      ]
+    },
+    "instagram": {
+      "caption": "Games capture your every move as a deliberate decision, while the internet is mostly noise — that’s why one CEO claims they’re better for training AI.\n\nEach in-game action records a strategy, not just a static word. That structure mirrors how humans solve real problems step-by-step, giving AI cause-and-effect feedback loops that text alone lacks.\n\nFor content creators, this means models trained this way could learn task logic faster, cutting tuning time in half 🎯.\n\nWhat’s one simulated environment you could test this week — a game engine or a simple puzzle — to see if your own workflow improves faster than scraping more posts? 🕹️"
+    }
+  },
+  "instagram_caption": "Games capture your every move as a deliberate decision, while the internet is mostly noise — that’s why one CEO claims they’re better for training AI.\n\nEach in-game action records a strategy, not just a static word. That structure mirrors how humans solve real problems step-by-step, giving AI cause-and-effect feedback loops that text alone lacks.\n\nFor content creators, this means models trained this way could learn task logic faster, cutting tuning time in half 🎯.\n\nWhat’s one simulated environment you could test this week — a game engine or a simple puzzle — to see if your own workflow improves faster than scraping more posts? 🕹️",
+  "carousel_slides": [
+    {
+      "hook": "Why games beat the internet",
+      "description": "GPT-4 saw billions of pages but fails at multi-step tasks. Games create deliberate actions, not noise.",
+      "visual_hint": "Game controller on keyboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gaming controller keyboard"
+    },
+    {
+      "hook": "Data with strategy built in",
+      "description": "Each move records a decision path, mirroring how humans solve real problems step by step.",
+      "visual_hint": "Chess pieces on board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess board game",
+      "image": "https://images.pexels.com/photos/18706251/pexels-photo-18706251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Training gets faster, not broader",
+      "description": "Precision on task logic cuts tuning time by half. The model learns why, not just what.",
+      "visual_hint": "Speedometer needle rising",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "speedometer dashboard",
+      "image": "https://images.pexels.com/photos/19754775/pexels-photo-19754775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real data has a blind spot",
+      "description": "Static text lacks feedback loops. Games deliver cause and effect in every frame.",
+      "visual_hint": "Broken text chain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one simulation this week",
+      "description": "Grab a game engine, run a single task. See if your model improves faster than scraping more posts.",
+      "visual_hint": "Arrow hitting bullseye",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "dartboard bullseye",
+      "image": "https://images.pexels.com/photos/32254049/pexels-photo-32254049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
+  "savedAt": "2026-07-08T19:10:24.439Z",
+  "sourceId": "1e9d0df00d1e791a9456c30fc6625459"
+}
