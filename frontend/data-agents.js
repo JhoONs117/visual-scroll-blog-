@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "blue-origin-reportedly-raising-10b-at-130b-valuati",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "pubDate": "Wed, 08 Jul 2026 14:04:53 +0000",
+      "slides": [
+        "Why is Blue Origin suddenly worth $130 billion?",
+        "The company is raising $10 billion in new funding.",
+        "But their rockets haven't flown profitably yet.",
+        "This could reshape who leads the next space race.",
+        "Watch for a competitor that now has real capital."
+      ],
+      "thread_text": [
+        "1. Why $130 billion?\n\nBlue Origin is raising $10 billion—more than SpaceX's entire outside funding.",
+        "2. Rockets not profitable\n\nIts New Glenn has never carried paying cargo. The valuation is pure future hope.",
+        "3. Bezos vs. Musk\n\nThis cash gives Blue Origin a multi-year runway to challenge SpaceX's Starlink and Starship.",
+        "4. A new space race\n\nIf Blue Origin wins NASA contracts, the private launch monopoly could crack open.",
+        "5. Your move\n\nTrack Blue Origin's next launch date. If it slips, watch the stock market reaction."
+      ],
+      "video_script": [
+        "Blue Origin just hit a 130 billion valuation.",
+        "They are raising ten billion new dollars.",
+        "Their rockets have never flown for profit.",
+        "This could change who leads the space race.",
+        "Watch a competitor with real capital now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why $130 billion?\n\nBlue Origin is raising $10 billion—more than SpaceX's entire outside funding.",
+            "2. Rockets not profitable\n\nIts New Glenn has never carried paying cargo. The valuation is pure future hope.",
+            "3. Bezos vs. Musk\n\nThis cash gives Blue Origin a multi-year runway to challenge SpaceX's Starlink and Starship.",
+            "4. A new space race\n\nIf Blue Origin wins NASA contracts, the private launch monopoly could crack open.",
+            "5. Your move\n\nTrack Blue Origin's next launch date. If it slips, watch the stock market reaction."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Blue Origin just hit a 130 billion valuation.",
+            "They are raising ten billion new dollars.",
+            "Their rockets have never flown for profit.",
+            "This could change who leads the space race.",
+            "Watch a competitor with real capital now."
+          ]
+        },
+        "instagram": {
+          "caption": "Blue Origin is raising $10 billion—more than SpaceX’s entire outside funding—at a $130 billion valuation.\n\nIt has zero profitable rocket flights. 🚀 Yet this cash pile gives Bezos a multi-year runway to challenge Musk for NASA contracts and Starlink.\n\nIf Blue Origin wins, the private launch monopoly cracks open. For anyone planning content around space or defense, this shifts the competitive landscape. 🔭\n\nAre you betting on a second provider, or waiting for the next launch date slip?"
+        }
+      },
+      "instagram_caption": "Blue Origin is raising $10 billion—more than SpaceX’s entire outside funding—at a $130 billion valuation.\n\nIt has zero profitable rocket flights. 🚀 Yet this cash pile gives Bezos a multi-year runway to challenge Musk for NASA contracts and Starlink.\n\nIf Blue Origin wins, the private launch monopoly cracks open. For anyone planning content around space or defense, this shifts the competitive landscape. 🔭\n\nAre you betting on a second provider, or waiting for the next launch date slip?",
+      "carousel_slides": [
+        {
+          "hook": "Worth $130B without profit?",
+          "description": "Blue Origin raises $10B—more than all of SpaceX's outside funding. No profitable launch yet.",
+          "visual_hint": "money stacks with rocket",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "New Glenn rocket"
+        },
+        {
+          "hook": "Bezos has a cash weapon",
+          "description": "New Glenn never carried paying cargo. This valuation is pure hope—now backed by $10B.",
+          "visual_hint": "New Glenn on launchpad",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "New Glenn launchpad",
+          "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "SpaceX challenger awakens",
+          "description": "Multi-year runway to take on Starlink and Starship. The duel just got real.",
+          "visual_hint": "two rockets side by side",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rockets launch tower",
+          "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "NASA contracts could shift",
+          "description": "If Blue Origin secures government deals, SpaceX's monopoly on launches may crack open.",
+          "visual_hint": "NASA logo with rocket",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "NASA mission control",
+          "image": "https://images.pexels.com/photos/7672021/pexels-photo-7672021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for launch date",
+          "description": "Track Blue Origin's next flight. If it slips again, watch the stock reaction immediately.",
+          "visual_hint": "calendar with rocket icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn-launch.jpg?resize=1200,909",
+      "savedAt": "2026-07-08T15:58:37.902Z",
+      "sourceId": "d3c26520917597b116874e8608beab66"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "venus-aerospace-raises-90m-series-b-to-build-a-new",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+      "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+      "pubDate": "Wed, 08 Jul 2026 14:07:49 +0000",
+      "slides": [
+        "Venus Aerospace just got $90M. What for?",
+        "The engine is a rotating detonation rocket.",
+        "It promises double the efficiency of current rockets.",
+        "Your satellite launch costs could drop drastically.",
+        "Watch their next test flight for the proof."
+      ],
+      "thread_text": [
+        "1. 90 million for what?\n\nThey just raised $90M to build a rocket engine that detonates fuel instead of burning it.",
+        "2. How detonation works\n\nThe engine uses rotating detonation waves — supersonic explosions spinning inside a ring. No other rocket does this.",
+        "3. Double the efficiency\n\nThat design claims to cut fuel use in half. Same payload, half the cost to orbit.",
+        "4. Cheaper satellite launches\n\nIf it works, launching a small satellite could drop from millions to hundreds of thousands.",
+        "5. Watch the test flight\n\nThey have a flight test coming. Track it and see if the numbers hold up. Will you bet your next launch on it?"
+      ],
+      "video_script": [
+        "Venus Aerospace raised 90 million dollars.",
+        "They are building a rotating detonation rocket.",
+        "It claims double the fuel efficiency.",
+        "Satellite launch costs could become much lower.",
+        "Watch their next test flight for proof."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 90 million for what?\n\nThey just raised $90M to build a rocket engine that detonates fuel instead of burning it.",
+            "2. How detonation works\n\nThe engine uses rotating detonation waves — supersonic explosions spinning inside a ring. No other rocket does this.",
+            "3. Double the efficiency\n\nThat design claims to cut fuel use in half. Same payload, half the cost to orbit.",
+            "4. Cheaper satellite launches\n\nIf it works, launching a small satellite could drop from millions to hundreds of thousands.",
+            "5. Watch the test flight\n\nThey have a flight test coming. Track it and see if the numbers hold up. Will you bet your next launch on it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Venus Aerospace raised 90 million dollars.",
+            "They are building a rotating detonation rocket.",
+            "It claims double the fuel efficiency.",
+            "Satellite launch costs could become much lower.",
+            "Watch their next test flight for proof."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next satellite launch could cost half as much. 🚀\n\nVenus Aerospace just raised $90M to build a rocket engine that detonates fuel inside a spinning ring—no burning, no complex turbines. Rotating detonation waves double the engine's efficiency. ⚡\n\nIf it works, launching a small satellite drops from millions to hundreds of thousands.\n\nAre you betting your next payload on this test flight? 🔥"
+        }
+      },
+      "instagram_caption": "Your next satellite launch could cost half as much. 🚀\n\nVenus Aerospace just raised $90M to build a rocket engine that detonates fuel inside a spinning ring—no burning, no complex turbines. Rotating detonation waves double the engine's efficiency. ⚡\n\nIf it works, launching a small satellite drops from millions to hundreds of thousands.\n\nAre you betting your next payload on this test flight? 🔥",
+      "carousel_slides": [
+        {
+          "hook": "Cut fuel use in half?",
+          "description": "Venus Aerospace raised $90M to build a rotating detonation engine, promising double the efficiency of current rockets.",
+          "visual_hint": "Rocket engine cross-section",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rocket engine nozzle"
+        },
+        {
+          "hook": "Explosions, not burning.",
+          "description": "Supersonic detonation waves spin inside a ring to create thrust, a first for rockets.",
+          "visual_hint": "Ring with spinning flame",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "combustion chamber ring",
+          "image": "https://images.pexels.com/photos/6126281/pexels-photo-6126281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Same payload, half cost.",
+          "description": "If the engine works, launching a satellite could drop from millions to hundreds of thousands of dollars.",
+          "visual_hint": "Money savings graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "downward arrow chart",
+          "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Satellite launch prices crash.",
+          "description": "Your small satellite could reach orbit at a fraction of today's price, opening new possibilities.",
+          "visual_hint": "Satellite being deployed",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "satellite in space",
+          "image": "https://images.pexels.com/photos/18901338/pexels-photo-18901338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to track launch.",
+          "description": "Watch their next test flight in bio. Verify if the numbers hold before betting your next payload.",
+          "visual_hint": "Calendar with countdown",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "flight test rocket",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/VenusAero_RDRE_Flight_05.jpg?resize=939,1200",
+      "savedAt": "2026-07-08T15:58:25.038Z",
+      "sourceId": "36993935886ba9e28c9f741f74ec85ab"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "solo-gp-ashley-smith-announces-second-25m-fund-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "pubDate": "Wed, 08 Jul 2026 15:00:00 +0000",
+      "slides": [
+        "Can one Solo GP raise $25M twice?",
+        "Ashley Smith just closed her second fund.",
+        "It targets AI, security, and overlooked verticals.",
+        "That means faster checks for founders outside mega-hubs.",
+        "You should pitch her before the next close."
+      ],
+      "thread_text": [
+        "1. How does she do it?\n\nAshley Smith just closed her second $25M fund as a solo GP. Most investors never raise one that size.",
+        "2. AI, security, and overlooked verticals.\n\nThe fund targets exactly those three areas. Founders in smaller cities don't compete with Silicon Valley for attention.",
+        "3. Faster checks outside mega-hubs.\n\nShe writes checks faster because she isn't swamped with Bay Area deals. That's a real edge if you're based elsewhere.",
+        "4. The $25M repeat is rare.\n\nRaising $25M once is hard. Doing it twice as a solo GP signals that LPs trust her process and returns.",
+        "5. Pitch her before the next close.\n\nShe's still accepting deals. Send your deck to Ashley now, not next quarter."
+      ],
+      "video_script": [
+        "Ashley Smith raised $25M twice alone.",
+        "Her fund backs AI, security, and overlooked verticals.",
+        "She writes faster checks outside mega-hubs.",
+        "Most solo GPs never repeat that feat.",
+        "Pitch her now before the fund closes."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. How does she do it?\n\nAshley Smith just closed her second $25M fund as a solo GP. Most investors never raise one that size.",
+            "2. AI, security, and overlooked verticals.\n\nThe fund targets exactly those three areas. Founders in smaller cities don't compete with Silicon Valley for attention.",
+            "3. Faster checks outside mega-hubs.\n\nShe writes checks faster because she isn't swamped with Bay Area deals. That's a real edge if you're based elsewhere.",
+            "4. The $25M repeat is rare.\n\nRaising $25M once is hard. Doing it twice as a solo GP signals that LPs trust her process and returns.",
+            "5. Pitch her before the next close.\n\nShe's still accepting deals. Send your deck to Ashley now, not next quarter."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ashley Smith raised $25M twice alone.",
+            "Her fund backs AI, security, and overlooked verticals.",
+            "She writes faster checks outside mega-hubs.",
+            "Most solo GPs never repeat that feat.",
+            "Pitch her now before the fund closes."
+          ]
+        },
+        "instagram": {
+          "caption": "Ashley Smith just closed her second $25M fund—as a solo general partner, which almost never happens.\n\nShe's writing faster checks for founders building in AI, security, and overlooked verticals—especially outside Silicon Valley. You don’t have to move to a mega-hub to get funded.\n\nIf you're a creator or publisher using AI tools, this means more capital flowing to practical, real-world applications rather than hype.\n\nIs your current work solving a problem in security or an under-served niche? Her fund is still accepting deals—send your deck now. ⏳💰🚀"
+        }
+      },
+      "instagram_caption": "Ashley Smith just closed her second $25M fund—as a solo general partner, which almost never happens.\n\nShe's writing faster checks for founders building in AI, security, and overlooked verticals—especially outside Silicon Valley. You don’t have to move to a mega-hub to get funded.\n\nIf you're a creator or publisher using AI tools, this means more capital flowing to practical, real-world applications rather than hype.\n\nIs your current work solving a problem in security or an under-served niche? Her fund is still accepting deals—send your deck now. ⏳💰🚀",
+      "carousel_slides": [
+        {
+          "hook": "One person raised $25M twice?",
+          "description": "Ashley Smith just closed her second $25M fund as a solo GP, a rare repeat feat.",
+          "visual_hint": "Stack of cash with trophy",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of money trophy"
+        },
+        {
+          "hook": "AI, security, overlooked verticals.",
+          "description": "Her fund targets these three areas, giving founders outside mega-hubs a faster path to capital.",
+          "visual_hint": "Silhouette of a city skyline",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "city skyline at night",
+          "image": "https://images.pexels.com/photos/25003437/pexels-photo-25003437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Faster checks outside mega-hubs.",
+          "description": "Not swamped with Bay Area deals, she writes checks quicker for founders in smaller cities.",
+          "visual_hint": "Rocket speeding up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rocket launch speed",
+          "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Raising $25M once is rare.",
+          "description": "Doing it twice as a solo GP signals deep LP trust in her process and returns.",
+          "visual_hint": "Two gold coins side by side",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "two gold coins hand",
+          "image": "https://images.pexels.com/photos/8370753/pexels-photo-8370753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Send your deck now, not later.",
+          "description": "She's still accepting deals. Pitch Ashley before the next close to secure funding.",
+          "visual_hint": "Open laptop with submit button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop open submit",
+          "image": "https://images.pexels.com/photos/6968093/pexels-photo-6968093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/adb0a5c6-a847-401a-8639-0e1e12a208bd.jpg?resize=1200,900",
+      "savedAt": "2026-07-08T15:58:11.694Z",
+      "sourceId": "80868081e8a6afe9c4ae1467fdd978fb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "these-ai-startups-are-growing-revenue-at-faster-an",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "pubDate": "Wed, 08 Jul 2026 15:41:06 +0000",
+      "slides": [
+        "Which AI startup is growing faster than any previous cohort?",
+        "Revenue doubling times have shrunk from years to months.",
+        "These firms are not just software—they replace entire workflows.",
+        "Your current vendors may already be obsolete for key tasks.",
+        "Audit your tools this week before your competitor does."
+      ],
+      "thread_text": [
+        "1. The fastest-growing cohort ever\n\nRevenue doubling times have dropped from years to months for these AI startups.",
+        "2. Not just software anymore\n\nThese firms replace entire workflows, not just automate single tasks.",
+        "3. Your vendors are obsolete\n\nKey solutions you use today may already be outdated for core operations.",
+        "4. Speed kills laggards\n\nStartups now scale faster than incumbents can adapt their tools.",
+        "5. Audit your tools this week\n\nRun one workflow on a new AI platform before your competitor does."
+      ],
+      "video_script": [
+        "AI startups double revenue in months now.",
+        "They replace entire workflows, not just tasks.",
+        "Your current vendors may be obsolete today.",
+        "Speed pushes incumbents to the brink.",
+        "Audit your tools before your competitor does."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The fastest-growing cohort ever\n\nRevenue doubling times have dropped from years to months for these AI startups.",
+            "2. Not just software anymore\n\nThese firms replace entire workflows, not just automate single tasks.",
+            "3. Your vendors are obsolete\n\nKey solutions you use today may already be outdated for core operations.",
+            "4. Speed kills laggards\n\nStartups now scale faster than incumbents can adapt their tools.",
+            "5. Audit your tools this week\n\nRun one workflow on a new AI platform before your competitor does."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI startups double revenue in months now.",
+            "They replace entire workflows, not just tasks.",
+            "Your current vendors may be obsolete today.",
+            "Speed pushes incumbents to the brink.",
+            "Audit your tools before your competitor does."
+          ]
+        },
+        "instagram": {
+          "caption": "Revenue doubling times for the top AI startups have dropped from years to just months. ⏩\n\nThese companies don't just automate a single task. They replace entire workflows that your team currently does manually or with outdated tools. 🛠️\n\nThe core software your business relies on today may already be obsolete for key operations. ⚠️\n\nThat means the tools you use to create content or manage workflows could be holding you back, while a competitor quietly tests a faster alternative.\n\nPick one process you run daily. Run it on a new AI platform before Friday. What's the first workflow you'd swap? 🔄"
+        }
+      },
+      "instagram_caption": "Revenue doubling times for the top AI startups have dropped from years to just months. ⏩\n\nThese companies don't just automate a single task. They replace entire workflows that your team currently does manually or with outdated tools. 🛠️\n\nThe core software your business relies on today may already be obsolete for key operations. ⚠️\n\nThat means the tools you use to create content or manage workflows could be holding you back, while a competitor quietly tests a faster alternative.\n\nPick one process you run daily. Run it on a new AI platform before Friday. What's the first workflow you'd swap? 🔄",
+      "carousel_slides": [
+        {
+          "hook": "Is your vendor already obsolete?",
+          "description": "Revenue doubling times shrank from years to months as AI startups replace entire workflows, not just software.",
+          "visual_hint": "Rocket ship graph",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "exponential growth chart"
+        },
+        {
+          "hook": "Workflows replaced, not automated.",
+          "description": "These AI firms don't speed up single tasks; they replace whole workflows, making old vendors irrelevant.",
+          "visual_hint": "Cogs turning into gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "assembly line robot",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Key tools are already outdated.",
+          "description": "Your current solutions for core operations may now be obsolete against these faster-scaling AI startups.",
+          "visual_hint": "Overlapping clock faces",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Incumbents can't keep up speed.",
+          "description": "Startups scale faster than incumbents adapt tools, leaving laggards behind in months.",
+          "visual_hint": "Runner leaving others behind",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your tools this week.",
+          "description": "Run one core workflow on a new AI platform before your competitor does—save this post as a reminder.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office desk checklist",
+          "image": "https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
+      "savedAt": "2026-07-08T15:57:57.297Z",
+      "sourceId": "834b2b61b3139dabac572f071ff8f6df"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-chip-maker-sambanova-raises-1b-at-11b-valuation",
       "prompt_version": "1.0.0",
       "status": "published",

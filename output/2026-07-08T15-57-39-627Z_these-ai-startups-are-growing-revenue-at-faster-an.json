@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "these-ai-startups-are-growing-revenue-at-faster-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "These AI startups are growing  revenue at faster and faster rates",
+  "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+  "pubDate": "Wed, 08 Jul 2026 15:41:06 +0000",
+  "slides": [
+    "Which AI startup is growing faster than any previous cohort?",
+    "Revenue doubling times have shrunk from years to months.",
+    "These firms are not just software—they replace entire workflows.",
+    "Your current vendors may already be obsolete for key tasks.",
+    "Audit your tools this week before your competitor does."
+  ],
+  "thread_text": [
+    "1. The fastest-growing cohort ever\n\nRevenue doubling times have dropped from years to months for these AI startups.",
+    "2. Not just software anymore\n\nThese firms replace entire workflows, not just automate single tasks.",
+    "3. Your vendors are obsolete\n\nKey solutions you use today may already be outdated for core operations.",
+    "4. Speed kills laggards\n\nStartups now scale faster than incumbents can adapt their tools.",
+    "5. Audit your tools this week\n\nRun one workflow on a new AI platform before your competitor does."
+  ],
+  "video_script": [
+    "AI startups double revenue in months now.",
+    "They replace entire workflows, not just tasks.",
+    "Your current vendors may be obsolete today.",
+    "Speed pushes incumbents to the brink.",
+    "Audit your tools before your competitor does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The fastest-growing cohort ever\n\nRevenue doubling times have dropped from years to months for these AI startups.",
+        "2. Not just software anymore\n\nThese firms replace entire workflows, not just automate single tasks.",
+        "3. Your vendors are obsolete\n\nKey solutions you use today may already be outdated for core operations.",
+        "4. Speed kills laggards\n\nStartups now scale faster than incumbents can adapt their tools.",
+        "5. Audit your tools this week\n\nRun one workflow on a new AI platform before your competitor does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI startups double revenue in months now.",
+        "They replace entire workflows, not just tasks.",
+        "Your current vendors may be obsolete today.",
+        "Speed pushes incumbents to the brink.",
+        "Audit your tools before your competitor does."
+      ]
+    },
+    "instagram": {
+      "caption": "Revenue doubling times for the top AI startups have dropped from years to just months. ⏩\n\nThese companies don't just automate a single task. They replace entire workflows that your team currently does manually or with outdated tools. 🛠️\n\nThe core software your business relies on today may already be obsolete for key operations. ⚠️\n\nThat means the tools you use to create content or manage workflows could be holding you back, while a competitor quietly tests a faster alternative.\n\nPick one process you run daily. Run it on a new AI platform before Friday. What's the first workflow you'd swap? 🔄"
+    }
+  },
+  "instagram_caption": "Revenue doubling times for the top AI startups have dropped from years to just months. ⏩\n\nThese companies don't just automate a single task. They replace entire workflows that your team currently does manually or with outdated tools. 🛠️\n\nThe core software your business relies on today may already be obsolete for key operations. ⚠️\n\nThat means the tools you use to create content or manage workflows could be holding you back, while a competitor quietly tests a faster alternative.\n\nPick one process you run daily. Run it on a new AI platform before Friday. What's the first workflow you'd swap? 🔄",
+  "carousel_slides": [
+    {
+      "hook": "Is your vendor already obsolete?",
+      "description": "Revenue doubling times shrank from years to months as AI startups replace entire workflows, not just software.",
+      "visual_hint": "Rocket ship graph",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "exponential growth chart"
+    },
+    {
+      "hook": "Workflows replaced, not automated.",
+      "description": "These AI firms don't speed up single tasks; they replace whole workflows, making old vendors irrelevant.",
+      "visual_hint": "Cogs turning into gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "assembly line robot",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Key tools are already outdated.",
+      "description": "Your current solutions for core operations may now be obsolete against these faster-scaling AI startups.",
+      "visual_hint": "Overlapping clock faces",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Incumbents can't keep up speed.",
+      "description": "Startups scale faster than incumbents adapt tools, leaving laggards behind in months.",
+      "visual_hint": "Runner leaving others behind",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your tools this week.",
+      "description": "Run one core workflow on a new AI platform before your competitor does—save this post as a reminder.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk checklist",
+      "image": "https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
+  "savedAt": "2026-07-08T15:57:57.297Z",
+  "sourceId": "834b2b61b3139dabac572f071ff8f6df"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "venus-aerospace-raises-90m-series-b-to-build-a-new",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+  "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+  "pubDate": "Wed, 08 Jul 2026 14:07:49 +0000",
+  "slides": [
+    "Venus Aerospace just got $90M. What for?",
+    "The engine is a rotating detonation rocket.",
+    "It promises double the efficiency of current rockets.",
+    "Your satellite launch costs could drop drastically.",
+    "Watch their next test flight for the proof."
+  ],
+  "thread_text": [
+    "1. 90 million for what?\n\nThey just raised $90M to build a rocket engine that detonates fuel instead of burning it.",
+    "2. How detonation works\n\nThe engine uses rotating detonation waves — supersonic explosions spinning inside a ring. No other rocket does this.",
+    "3. Double the efficiency\n\nThat design claims to cut fuel use in half. Same payload, half the cost to orbit.",
+    "4. Cheaper satellite launches\n\nIf it works, launching a small satellite could drop from millions to hundreds of thousands.",
+    "5. Watch the test flight\n\nThey have a flight test coming. Track it and see if the numbers hold up. Will you bet your next launch on it?"
+  ],
+  "video_script": [
+    "Venus Aerospace raised 90 million dollars.",
+    "They are building a rotating detonation rocket.",
+    "It claims double the fuel efficiency.",
+    "Satellite launch costs could become much lower.",
+    "Watch their next test flight for proof."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 90 million for what?\n\nThey just raised $90M to build a rocket engine that detonates fuel instead of burning it.",
+        "2. How detonation works\n\nThe engine uses rotating detonation waves — supersonic explosions spinning inside a ring. No other rocket does this.",
+        "3. Double the efficiency\n\nThat design claims to cut fuel use in half. Same payload, half the cost to orbit.",
+        "4. Cheaper satellite launches\n\nIf it works, launching a small satellite could drop from millions to hundreds of thousands.",
+        "5. Watch the test flight\n\nThey have a flight test coming. Track it and see if the numbers hold up. Will you bet your next launch on it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Venus Aerospace raised 90 million dollars.",
+        "They are building a rotating detonation rocket.",
+        "It claims double the fuel efficiency.",
+        "Satellite launch costs could become much lower.",
+        "Watch their next test flight for proof."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next satellite launch could cost half as much. 🚀\n\nVenus Aerospace just raised $90M to build a rocket engine that detonates fuel inside a spinning ring—no burning, no complex turbines. Rotating detonation waves double the engine's efficiency. ⚡\n\nIf it works, launching a small satellite drops from millions to hundreds of thousands.\n\nAre you betting your next payload on this test flight? 🔥"
+    }
+  },
+  "instagram_caption": "Your next satellite launch could cost half as much. 🚀\n\nVenus Aerospace just raised $90M to build a rocket engine that detonates fuel inside a spinning ring—no burning, no complex turbines. Rotating detonation waves double the engine's efficiency. ⚡\n\nIf it works, launching a small satellite drops from millions to hundreds of thousands.\n\nAre you betting your next payload on this test flight? 🔥",
+  "carousel_slides": [
+    {
+      "hook": "Cut fuel use in half?",
+      "description": "Venus Aerospace raised $90M to build a rotating detonation engine, promising double the efficiency of current rockets.",
+      "visual_hint": "Rocket engine cross-section",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rocket engine nozzle"
+    },
+    {
+      "hook": "Explosions, not burning.",
+      "description": "Supersonic detonation waves spin inside a ring to create thrust, a first for rockets.",
+      "visual_hint": "Ring with spinning flame",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "combustion chamber ring",
+      "image": "https://images.pexels.com/photos/6126281/pexels-photo-6126281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Same payload, half cost.",
+      "description": "If the engine works, launching a satellite could drop from millions to hundreds of thousands of dollars.",
+      "visual_hint": "Money savings graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "downward arrow chart",
+      "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Satellite launch prices crash.",
+      "description": "Your small satellite could reach orbit at a fraction of today's price, opening new possibilities.",
+      "visual_hint": "Satellite being deployed",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "satellite in space",
+      "image": "https://images.pexels.com/photos/18901338/pexels-photo-18901338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to track launch.",
+      "description": "Watch their next test flight in bio. Verify if the numbers hold before betting your next payload.",
+      "visual_hint": "Calendar with countdown",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "flight test rocket",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/VenusAero_RDRE_Flight_05.jpg?resize=939,1200",
+  "savedAt": "2026-07-08T15:58:25.038Z",
+  "sourceId": "36993935886ba9e28c9f741f74ec85ab"
+}

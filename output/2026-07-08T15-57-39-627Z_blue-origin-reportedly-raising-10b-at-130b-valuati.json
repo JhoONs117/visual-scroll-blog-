@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "blue-origin-reportedly-raising-10b-at-130b-valuati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Blue Origin reportedly raising $10B at $130B valuation",
+  "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+  "pubDate": "Wed, 08 Jul 2026 14:04:53 +0000",
+  "slides": [
+    "Why is Blue Origin suddenly worth $130 billion?",
+    "The company is raising $10 billion in new funding.",
+    "But their rockets haven't flown profitably yet.",
+    "This could reshape who leads the next space race.",
+    "Watch for a competitor that now has real capital."
+  ],
+  "thread_text": [
+    "1. Why $130 billion?\n\nBlue Origin is raising $10 billion—more than SpaceX's entire outside funding.",
+    "2. Rockets not profitable\n\nIts New Glenn has never carried paying cargo. The valuation is pure future hope.",
+    "3. Bezos vs. Musk\n\nThis cash gives Blue Origin a multi-year runway to challenge SpaceX's Starlink and Starship.",
+    "4. A new space race\n\nIf Blue Origin wins NASA contracts, the private launch monopoly could crack open.",
+    "5. Your move\n\nTrack Blue Origin's next launch date. If it slips, watch the stock market reaction."
+  ],
+  "video_script": [
+    "Blue Origin just hit a 130 billion valuation.",
+    "They are raising ten billion new dollars.",
+    "Their rockets have never flown for profit.",
+    "This could change who leads the space race.",
+    "Watch a competitor with real capital now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why $130 billion?\n\nBlue Origin is raising $10 billion—more than SpaceX's entire outside funding.",
+        "2. Rockets not profitable\n\nIts New Glenn has never carried paying cargo. The valuation is pure future hope.",
+        "3. Bezos vs. Musk\n\nThis cash gives Blue Origin a multi-year runway to challenge SpaceX's Starlink and Starship.",
+        "4. A new space race\n\nIf Blue Origin wins NASA contracts, the private launch monopoly could crack open.",
+        "5. Your move\n\nTrack Blue Origin's next launch date. If it slips, watch the stock market reaction."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Blue Origin just hit a 130 billion valuation.",
+        "They are raising ten billion new dollars.",
+        "Their rockets have never flown for profit.",
+        "This could change who leads the space race.",
+        "Watch a competitor with real capital now."
+      ]
+    },
+    "instagram": {
+      "caption": "Blue Origin is raising $10 billion—more than SpaceX’s entire outside funding—at a $130 billion valuation.\n\nIt has zero profitable rocket flights. 🚀 Yet this cash pile gives Bezos a multi-year runway to challenge Musk for NASA contracts and Starlink.\n\nIf Blue Origin wins, the private launch monopoly cracks open. For anyone planning content around space or defense, this shifts the competitive landscape. 🔭\n\nAre you betting on a second provider, or waiting for the next launch date slip?"
+    }
+  },
+  "instagram_caption": "Blue Origin is raising $10 billion—more than SpaceX’s entire outside funding—at a $130 billion valuation.\n\nIt has zero profitable rocket flights. 🚀 Yet this cash pile gives Bezos a multi-year runway to challenge Musk for NASA contracts and Starlink.\n\nIf Blue Origin wins, the private launch monopoly cracks open. For anyone planning content around space or defense, this shifts the competitive landscape. 🔭\n\nAre you betting on a second provider, or waiting for the next launch date slip?",
+  "carousel_slides": [
+    {
+      "hook": "Worth $130B without profit?",
+      "description": "Blue Origin raises $10B—more than all of SpaceX's outside funding. No profitable launch yet.",
+      "visual_hint": "money stacks with rocket",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "New Glenn rocket"
+    },
+    {
+      "hook": "Bezos has a cash weapon",
+      "description": "New Glenn never carried paying cargo. This valuation is pure hope—now backed by $10B.",
+      "visual_hint": "New Glenn on launchpad",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "New Glenn launchpad",
+      "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "SpaceX challenger awakens",
+      "description": "Multi-year runway to take on Starlink and Starship. The duel just got real.",
+      "visual_hint": "two rockets side by side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rockets launch tower",
+      "image": "https://images.pexels.com/photos/11755208/pexels-photo-11755208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "NASA contracts could shift",
+      "description": "If Blue Origin secures government deals, SpaceX's monopoly on launches may crack open.",
+      "visual_hint": "NASA logo with rocket",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "NASA mission control",
+      "image": "https://images.pexels.com/photos/7672021/pexels-photo-7672021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for launch date",
+      "description": "Track Blue Origin's next flight. If it slips again, watch the stock reaction immediately.",
+      "visual_hint": "calendar with rocket icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn-launch.jpg?resize=1200,909",
+  "savedAt": "2026-07-08T15:58:37.902Z",
+  "sourceId": "d3c26520917597b116874e8608beab66"
+}

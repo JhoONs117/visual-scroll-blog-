@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "solo-gp-ashley-smith-announces-second-25m-fund-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+  "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+  "pubDate": "Wed, 08 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Can one Solo GP raise $25M twice?",
+    "Ashley Smith just closed her second fund.",
+    "It targets AI, security, and overlooked verticals.",
+    "That means faster checks for founders outside mega-hubs.",
+    "You should pitch her before the next close."
+  ],
+  "thread_text": [
+    "1. How does she do it?\n\nAshley Smith just closed her second $25M fund as a solo GP. Most investors never raise one that size.",
+    "2. AI, security, and overlooked verticals.\n\nThe fund targets exactly those three areas. Founders in smaller cities don't compete with Silicon Valley for attention.",
+    "3. Faster checks outside mega-hubs.\n\nShe writes checks faster because she isn't swamped with Bay Area deals. That's a real edge if you're based elsewhere.",
+    "4. The $25M repeat is rare.\n\nRaising $25M once is hard. Doing it twice as a solo GP signals that LPs trust her process and returns.",
+    "5. Pitch her before the next close.\n\nShe's still accepting deals. Send your deck to Ashley now, not next quarter."
+  ],
+  "video_script": [
+    "Ashley Smith raised $25M twice alone.",
+    "Her fund backs AI, security, and overlooked verticals.",
+    "She writes faster checks outside mega-hubs.",
+    "Most solo GPs never repeat that feat.",
+    "Pitch her now before the fund closes."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. How does she do it?\n\nAshley Smith just closed her second $25M fund as a solo GP. Most investors never raise one that size.",
+        "2. AI, security, and overlooked verticals.\n\nThe fund targets exactly those three areas. Founders in smaller cities don't compete with Silicon Valley for attention.",
+        "3. Faster checks outside mega-hubs.\n\nShe writes checks faster because she isn't swamped with Bay Area deals. That's a real edge if you're based elsewhere.",
+        "4. The $25M repeat is rare.\n\nRaising $25M once is hard. Doing it twice as a solo GP signals that LPs trust her process and returns.",
+        "5. Pitch her before the next close.\n\nShe's still accepting deals. Send your deck to Ashley now, not next quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ashley Smith raised $25M twice alone.",
+        "Her fund backs AI, security, and overlooked verticals.",
+        "She writes faster checks outside mega-hubs.",
+        "Most solo GPs never repeat that feat.",
+        "Pitch her now before the fund closes."
+      ]
+    },
+    "instagram": {
+      "caption": "Ashley Smith just closed her second $25M fund—as a solo general partner, which almost never happens.\n\nShe's writing faster checks for founders building in AI, security, and overlooked verticals—especially outside Silicon Valley. You don’t have to move to a mega-hub to get funded.\n\nIf you're a creator or publisher using AI tools, this means more capital flowing to practical, real-world applications rather than hype.\n\nIs your current work solving a problem in security or an under-served niche? Her fund is still accepting deals—send your deck now. ⏳💰🚀"
+    }
+  },
+  "instagram_caption": "Ashley Smith just closed her second $25M fund—as a solo general partner, which almost never happens.\n\nShe's writing faster checks for founders building in AI, security, and overlooked verticals—especially outside Silicon Valley. You don’t have to move to a mega-hub to get funded.\n\nIf you're a creator or publisher using AI tools, this means more capital flowing to practical, real-world applications rather than hype.\n\nIs your current work solving a problem in security or an under-served niche? Her fund is still accepting deals—send your deck now. ⏳💰🚀",
+  "carousel_slides": [
+    {
+      "hook": "One person raised $25M twice?",
+      "description": "Ashley Smith just closed her second $25M fund as a solo GP, a rare repeat feat.",
+      "visual_hint": "Stack of cash with trophy",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of money trophy"
+    },
+    {
+      "hook": "AI, security, overlooked verticals.",
+      "description": "Her fund targets these three areas, giving founders outside mega-hubs a faster path to capital.",
+      "visual_hint": "Silhouette of a city skyline",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "city skyline at night",
+      "image": "https://images.pexels.com/photos/25003437/pexels-photo-25003437.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster checks outside mega-hubs.",
+      "description": "Not swamped with Bay Area deals, she writes checks quicker for founders in smaller cities.",
+      "visual_hint": "Rocket speeding up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket launch speed",
+      "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Raising $25M once is rare.",
+      "description": "Doing it twice as a solo GP signals deep LP trust in her process and returns.",
+      "visual_hint": "Two gold coins side by side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "two gold coins hand",
+      "image": "https://images.pexels.com/photos/8370753/pexels-photo-8370753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Send your deck now, not later.",
+      "description": "She's still accepting deals. Pitch Ashley before the next close to secure funding.",
+      "visual_hint": "Open laptop with submit button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop open submit",
+      "image": "https://images.pexels.com/photos/6968093/pexels-photo-6968093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/adb0a5c6-a847-401a-8639-0e1e12a208bd.jpg?resize=1200,900",
+  "savedAt": "2026-07-08T15:58:11.694Z",
+  "sourceId": "80868081e8a6afe9c4ae1467fdd978fb"
+}
