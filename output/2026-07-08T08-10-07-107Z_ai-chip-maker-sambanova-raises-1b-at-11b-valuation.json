@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-chip-maker-sambanova-raises-1b-at-11b-valuation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+  "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+  "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
+  "slides": [
+    "SambaNova just raised another billion—why so fast?",
+    "It sells custom chips for AI training and inference.",
+    "But its last $5B valuation round closed only five months ago.",
+    "Clients now can deploy AI without giant cloud bills.",
+    "Test SambaNova hardware before committing to your next model."
+  ],
+  "thread_text": [
+    "1. Second billion in five months?\n\nSambaNova closed a $5B round just five months ago. Now another billion. The speed is the story.",
+    "2. Custom chips, not cloud bills\n\nIts hardware lets clients train and run AI without renting expensive servers. No giant monthly cloud costs.",
+    "3. Try before you commit\n\nProspective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+    "4. Who is paying for this?\n\nThe funding comes as enterprises rush to cut infrastructure spend. Private AI deployment is the prize.",
+    "5. Test your next model this week\n\nContact SambaNova for a trial run on your current training workload. See if the chip saves you money."
+  ],
+  "video_script": [
+    "SambaNova raised another billion in five months.",
+    "It sells custom chips for AI workloads.",
+    "Clients skip giant cloud computing bills.",
+    "You can test hardware before you buy.",
+    "Try it on your next model this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Second billion in five months?\n\nSambaNova closed a $5B round just five months ago. Now another billion. The speed is the story.",
+        "2. Custom chips, not cloud bills\n\nIts hardware lets clients train and run AI without renting expensive servers. No giant monthly cloud costs.",
+        "3. Try before you commit\n\nProspective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+        "4. Who is paying for this?\n\nThe funding comes as enterprises rush to cut infrastructure spend. Private AI deployment is the prize.",
+        "5. Test your next model this week\n\nContact SambaNova for a trial run on your current training workload. See if the chip saves you money."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SambaNova raised another billion in five months.",
+        "It sells custom chips for AI workloads.",
+        "Clients skip giant cloud computing bills.",
+        "You can test hardware before you buy.",
+        "Try it on your next model this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You raised a billion dollars five months ago — now you just raised another. Why? SambaNova’s latest $1B round.\n\nThis chip company lets you run AI training and inference on your own hardware, cutting out the massive cloud monthly bills 🧠⚡\n\nClients can test SambaNova’s chip on their actual models before committing.\n\nIf you’re building a content workflow around a foundation model, your biggest cost might be the next server invoice — not the model itself.\n\nWhat’s your monthly GPU bill look like right now?"
+    }
+  },
+  "instagram_caption": "You raised a billion dollars five months ago — now you just raised another. Why? SambaNova’s latest $1B round.\n\nThis chip company lets you run AI training and inference on your own hardware, cutting out the massive cloud monthly bills 🧠⚡\n\nClients can test SambaNova’s chip on their actual models before committing.\n\nIf you’re building a content workflow around a foundation model, your biggest cost might be the next server invoice — not the model itself.\n\nWhat’s your monthly GPU bill look like right now?",
+  "carousel_slides": [
+    {
+      "hook": "Second billion in five months?",
+      "description": "SambaNova raised another $1B just months after a $5B round. The speed signals urgent AI demand.",
+      "visual_hint": "Money stack and clock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "billion dollars cash"
+    },
+    {
+      "hook": "Custom chips cut cloud bills.",
+      "description": "Their hardware lets clients train and run AI without renting expensive servers. No giant monthly costs.",
+      "visual_hint": "Server rack glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try before you commit.",
+      "description": "Prospective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+      "visual_hint": "Hand touching chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip close up",
+      "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who is paying for this?",
+      "description": "Enterprises rush to cut infrastructure spend. Private AI deployment is the prize driving this funding surge.",
+      "visual_hint": "Office building facade",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "modern office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your model this week.",
+      "description": "Contact SambaNova for a trial run on your current training workload. See if the chip saves you money.",
+      "visual_hint": "Laptop with graph",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop analytics chart",
+      "image": "https://images.pexels.com/photos/5717766/pexels-photo-5717766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
+  "savedAt": "2026-07-08T08:10:35.305Z",
+  "sourceId": "7e6b7a6e47dea18825573683366c44ae"
+}

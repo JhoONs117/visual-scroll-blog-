@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-chip-maker-sambanova-raises-1b-at-11b-valuation",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "pubDate": "Wed, 08 Jul 2026 07:16:00 +0000",
+      "slides": [
+        "SambaNova just raised another billion—why so fast?",
+        "It sells custom chips for AI training and inference.",
+        "But its last $5B valuation round closed only five months ago.",
+        "Clients now can deploy AI without giant cloud bills.",
+        "Test SambaNova hardware before committing to your next model."
+      ],
+      "thread_text": [
+        "1. Second billion in five months?\n\nSambaNova closed a $5B round just five months ago. Now another billion. The speed is the story.",
+        "2. Custom chips, not cloud bills\n\nIts hardware lets clients train and run AI without renting expensive servers. No giant monthly cloud costs.",
+        "3. Try before you commit\n\nProspective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+        "4. Who is paying for this?\n\nThe funding comes as enterprises rush to cut infrastructure spend. Private AI deployment is the prize.",
+        "5. Test your next model this week\n\nContact SambaNova for a trial run on your current training workload. See if the chip saves you money."
+      ],
+      "video_script": [
+        "SambaNova raised another billion in five months.",
+        "It sells custom chips for AI workloads.",
+        "Clients skip giant cloud computing bills.",
+        "You can test hardware before you buy.",
+        "Try it on your next model this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Second billion in five months?\n\nSambaNova closed a $5B round just five months ago. Now another billion. The speed is the story.",
+            "2. Custom chips, not cloud bills\n\nIts hardware lets clients train and run AI without renting expensive servers. No giant monthly cloud costs.",
+            "3. Try before you commit\n\nProspective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+            "4. Who is paying for this?\n\nThe funding comes as enterprises rush to cut infrastructure spend. Private AI deployment is the prize.",
+            "5. Test your next model this week\n\nContact SambaNova for a trial run on your current training workload. See if the chip saves you money."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SambaNova raised another billion in five months.",
+            "It sells custom chips for AI workloads.",
+            "Clients skip giant cloud computing bills.",
+            "You can test hardware before you buy.",
+            "Try it on your next model this week."
+          ]
+        },
+        "instagram": {
+          "caption": "You raised a billion dollars five months ago — now you just raised another. Why? SambaNova’s latest $1B round.\n\nThis chip company lets you run AI training and inference on your own hardware, cutting out the massive cloud monthly bills 🧠⚡\n\nClients can test SambaNova’s chip on their actual models before committing.\n\nIf you’re building a content workflow around a foundation model, your biggest cost might be the next server invoice — not the model itself.\n\nWhat’s your monthly GPU bill look like right now?"
+        }
+      },
+      "instagram_caption": "You raised a billion dollars five months ago — now you just raised another. Why? SambaNova’s latest $1B round.\n\nThis chip company lets you run AI training and inference on your own hardware, cutting out the massive cloud monthly bills 🧠⚡\n\nClients can test SambaNova’s chip on their actual models before committing.\n\nIf you’re building a content workflow around a foundation model, your biggest cost might be the next server invoice — not the model itself.\n\nWhat’s your monthly GPU bill look like right now?",
+      "carousel_slides": [
+        {
+          "hook": "Second billion in five months?",
+          "description": "SambaNova raised another $1B just months after a $5B round. The speed signals urgent AI demand.",
+          "visual_hint": "Money stack and clock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "billion dollars cash"
+        },
+        {
+          "hook": "Custom chips cut cloud bills.",
+          "description": "Their hardware lets clients train and run AI without renting expensive servers. No giant monthly costs.",
+          "visual_hint": "Server rack glowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try before you commit.",
+          "description": "Prospective buyers can test SambaNova hardware on their own models before any purchase. No locked-in contracts.",
+          "visual_hint": "Hand touching chip",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microchip close up",
+          "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who is paying for this?",
+          "description": "Enterprises rush to cut infrastructure spend. Private AI deployment is the prize driving this funding surge.",
+          "visual_hint": "Office building facade",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "modern office building",
+          "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your model this week.",
+          "description": "Contact SambaNova for a trial run on your current training workload. See if the chip saves you money.",
+          "visual_hint": "Laptop with graph",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop analytics chart",
+          "image": "https://images.pexels.com/photos/5717766/pexels-photo-5717766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
+      "savedAt": "2026-07-08T08:10:35.305Z",
+      "sourceId": "7e6b7a6e47dea18825573683366c44ae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hot-french-startup-zml-releases-free-product-to-sp",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "pubDate": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "slides": [
+        "ZML claims inference can run 10x faster. Why believe them?",
+        "They connect multiple AI chips to work in parallel.",
+        "But the bottleneck isn't hardware—it's their memory software.",
+        "You can now split any model across dozens of chips for free.",
+        "Test your own model today and measure the speed difference."
+      ],
+      "thread_text": [
+        "1. 10x faster — but is it true?\n\nZML claims a tenfold speedup. Their secret? Parallel chips, but the real bottleneck is a memory software fix.",
+        "2. Hardware isn't the problem\n\nThe chips were already fast enough. The limitation was always how memory accessed them — a software layer, not another GPU.",
+        "3. They changed memory software\n\nInstead of buying more hardware, ZML rewrote the memory management. Models that once choked now split freely across chips.",
+        "4. Free model splitting\n\nYou can now take any model, split it across dozens of chips, and pay nothing for the software. The cost is zero to test.",
+        "5. Test your own model today\n\nPick a model you run now. Simulate splitting it across 4 chips. Does your current setup match ZML's claim? Measure it."
+      ],
+      "video_script": [
+        "ZML claims 10x faster inference.",
+        "But hardware isn't the bottleneck here.",
+        "Their secret is memory software.",
+        "Now split models across dozens of chips.",
+        "Test your own model — measure the difference."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 10x faster — but is it true?\n\nZML claims a tenfold speedup. Their secret? Parallel chips, but the real bottleneck is a memory software fix.",
+            "2. Hardware isn't the problem\n\nThe chips were already fast enough. The limitation was always how memory accessed them — a software layer, not another GPU.",
+            "3. They changed memory software\n\nInstead of buying more hardware, ZML rewrote the memory management. Models that once choked now split freely across chips.",
+            "4. Free model splitting\n\nYou can now take any model, split it across dozens of chips, and pay nothing for the software. The cost is zero to test.",
+            "5. Test your own model today\n\nPick a model you run now. Simulate splitting it across 4 chips. Does your current setup match ZML's claim? Measure it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ZML claims 10x faster inference.",
+            "But hardware isn't the bottleneck here.",
+            "Their secret is memory software.",
+            "Now split models across dozens of chips.",
+            "Test your own model — measure the difference."
+          ]
+        },
+        "instagram": {
+          "caption": "Your production LLM just hit a wall splitting across GPUs. ZML fixed memory software, not hardware, so now a single model runs 10x faster across dozens of chips 🚀\n\nThey made the fix free. No new GPU purchase needed. Split any existing model across as many chips as you want — the bottleneck was always how memory talked to them, not the chips themselves.\n\nThat means your current inference cost can drop 10x with just a download. No hardware upgrade, no cloud renegotiation.\n\nWhat model are you testing first, and what’s your current throughput per chip today? ⏱️"
+        }
+      },
+      "instagram_caption": "Your production LLM just hit a wall splitting across GPUs. ZML fixed memory software, not hardware, so now a single model runs 10x faster across dozens of chips 🚀\n\nThey made the fix free. No new GPU purchase needed. Split any existing model across as many chips as you want — the bottleneck was always how memory talked to them, not the chips themselves.\n\nThat means your current inference cost can drop 10x with just a download. No hardware upgrade, no cloud renegotiation.\n\nWhat model are you testing first, and what’s your current throughput per chip today? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "10x faster — is it real?",
+          "description": "ZML rewrote memory software to eliminate bottlenecks, making parallel chips work 10x faster. The fix is software, not hardware.",
+          "visual_hint": "Speedometer needle at 10x",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "speedometer gauge"
+        },
+        {
+          "hook": "Hardware wasn't the limit.",
+          "description": "Chips were fast enough. The real bottleneck was memory access software. ZML fixed that layer instead of buying more GPUs.",
+          "visual_hint": "GPU chips connected by lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Memory software was the fix.",
+          "description": "ZML rewrote memory management so models split freely across chips. No new hardware needed, just smarter code.",
+          "visual_hint": "Code lines morphing into chips",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Split any model for free.",
+          "description": "You can now take any AI model, split it across dozens of chips, and pay nothing for the software. Zero cost to test.",
+          "visual_hint": "Model splitting into chip icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/16358507/pexels-photo-16358507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your model and compare.",
+          "description": "Pick a model you run now. Simulate splitting across 4 chips. Measure the speed. Link in bio to start.",
+          "visual_hint": "Person tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
+      "savedAt": "2026-07-08T08:10:21.369Z",
+      "sourceId": "03bb7eb85c2e7a7044045237664acf73"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "vc-firm-chemistry-is-raising-500m-for-its-second-f",
       "prompt_version": "1.0.0",
       "status": "published",
