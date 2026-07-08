@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-wants-its-ai-glasses-to-seem-less-creepy-its-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+  "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+  "pubDate": "Wed, 08 Jul 2026 17:11:18 +0000",
+  "slides": [
+    "Meta's Ray-Bans feel friendly. But its AI strategy whispers otherwise.",
+    "The glasses can now remember where you left your keys.",
+    "They also analyze your conversations without a visible cue.",
+    "Your privacy settings won't block inferences the AI makes.",
+    "Check what your glasses share—before Meta decides for you."
+  ],
+  "thread_text": [
+    "1. Your glasses are listening\n\nThey analyze conversations without any visible cue. You will not know when it's happening.",
+    "2. Privacy settings are useless\n\nThe AI makes inferences your current settings cannot block. Opting out is not an option.",
+    "3. Keys are not the point\n\nRemembering where you left your keys is a feature. The real trick is tracking everything you do.",
+    "4. Meta chooses for you\n\nIf you do not check what your glasses share, Meta will decide the default. That default is not in your favor.",
+    "5. Check your settings now\n\nOpen the Meta View app and review what data is shared. Have you done it yet?"
+  ],
+  "video_script": [
+    "Your glasses listen without a cue.",
+    "Privacy settings won't stop inferences.",
+    "Meta decides what your glasses share.",
+    "Tracking goes beyond just your keys.",
+    "Check your settings before Meta chooses."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your glasses are listening\n\nThey analyze conversations without any visible cue. You will not know when it's happening.",
+        "2. Privacy settings are useless\n\nThe AI makes inferences your current settings cannot block. Opting out is not an option.",
+        "3. Keys are not the point\n\nRemembering where you left your keys is a feature. The real trick is tracking everything you do.",
+        "4. Meta chooses for you\n\nIf you do not check what your glasses share, Meta will decide the default. That default is not in your favor.",
+        "5. Check your settings now\n\nOpen the Meta View app and review what data is shared. Have you done it yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your glasses listen without a cue.",
+        "Privacy settings won't stop inferences.",
+        "Meta decides what your glasses share.",
+        "Tracking goes beyond just your keys.",
+        "Check your settings before Meta chooses."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Ray-Bans can now analyze your conversations without any visible cue—you won’t know when it’s listening.\n\nMeta says its glasses feel friendly, but the AI strategy tells a different story. The same glasses that remember your keys are also tracking everything you do, and your privacy settings can’t block the inferences the AI makes.\n\nIf you don’t check what your glasses share, Meta will set the default for you 🕶️⚠️.\n\nOpen the Meta View app right now—have you reviewed what data is being shared? 📱"
+    }
+  },
+  "instagram_caption": "Your Ray-Bans can now analyze your conversations without any visible cue—you won’t know when it’s listening.\n\nMeta says its glasses feel friendly, but the AI strategy tells a different story. The same glasses that remember your keys are also tracking everything you do, and your privacy settings can’t block the inferences the AI makes.\n\nIf you don’t check what your glasses share, Meta will set the default for you 🕶️⚠️.\n\nOpen the Meta View app right now—have you reviewed what data is being shared? 📱",
+  "carousel_slides": [
+    {
+      "hook": "Your glasses are always listening?",
+      "description": "Meta's glasses analyze conversations without a visible cue—you'll never know when it's happening.",
+      "visual_hint": "glasses with red light",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "smart glasses"
+    },
+    {
+      "hook": "Privacy settings can't stop AI inferences",
+      "description": "The AI makes inferences your current settings cannot block, making opt-out effectively impossible.",
+      "visual_hint": "privacy shield broken",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "cybersecurity lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Keys are just the cover story",
+      "description": "Remembering where you left your keys is a feature, but the real trick is tracking everything you do.",
+      "visual_hint": "keys and surveillance eye",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "key tracking device",
+      "image": "https://images.pexels.com/photos/7825626/pexels-photo-7825626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meta chooses defaults against you",
+      "description": "If you don't check what your glasses share, Meta sets the default—and that default is not in your favor.",
+      "visual_hint": "hand holding glasses",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "smartphone settings",
+      "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your settings now to stay safe",
+      "description": "Open the Meta View app and review what data is shared. Have you done it yet?",
+      "visual_hint": "phone app settings screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "Meta app icon",
+      "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
+  "savedAt": "2026-07-08T20:58:24.123Z",
+  "sourceId": "8cb577da43c6189439a059671f9a356e"
+}

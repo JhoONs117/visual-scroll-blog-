@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "this-startup-thinks-robotics-is-about-to-have-its-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "This startup thinks robotics is about to have its ChatGPT moment",
+  "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+  "pubDate": "Wed, 08 Jul 2026 19:19:15 +0000",
+  "slides": [
+    "What if one robot could learn any task instantly?",
+    "This startup trains robots from internet video, not code.",
+    "Their model generalizes to objects it has never seen.",
+    "You will soon deploy fleets without months of reprogramming.",
+    "Stop assuming robots need custom software; test their demo."
+  ],
+  "thread_text": [
+    "1. One robot to rule them.\n\nA startup just trained a single model on internet video — no task-specific code needed.",
+    "2. Generalization is the twist.\n\nThe robot picks up objects it has never seen, from mugs to screwdrivers.",
+    "3. Training shifts to watching.\n\nHuman teleoperation or simulation? Replaced by YouTube clips and Instagram reels.",
+    "4. Deployment becomes instant.\n\nFleets update from one shared model — no months of reprogramming per facility.",
+    "5. Test their demo today.\n\nVisit their site, upload a short video, and see if the robot mimics it. Have you tried it yet?"
+  ],
+  "video_script": [
+    "One robot learns any task instantly.",
+    "Trained on internet video, not code.",
+    "It handles objects it has never seen.",
+    "Deploy fleets without months of reprogramming.",
+    "Stop assuming custom software. Test the demo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One robot to rule them.\n\nA startup just trained a single model on internet video — no task-specific code needed.",
+        "2. Generalization is the twist.\n\nThe robot picks up objects it has never seen, from mugs to screwdrivers.",
+        "3. Training shifts to watching.\n\nHuman teleoperation or simulation? Replaced by YouTube clips and Instagram reels.",
+        "4. Deployment becomes instant.\n\nFleets update from one shared model — no months of reprogramming per facility.",
+        "5. Test their demo today.\n\nVisit their site, upload a short video, and see if the robot mimics it. Have you tried it yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One robot learns any task instantly.",
+        "Trained on internet video, not code.",
+        "It handles objects it has never seen.",
+        "Deploy fleets without months of reprogramming.",
+        "Stop assuming custom software. Test the demo."
+      ]
+    },
+    "instagram": {
+      "caption": "One robot trained on YouTube clips just picked up a screwdriver it had never seen, with zero custom code required.\n\nNo more months of reprogramming. A single model learns from internet videos—Instagram reels, tutorials—and generalizes to totally new objects, from mugs to tools.\n\nFleets update from one shared brain. You skip the facility-by-facility rewrite.\n\nStop assuming robots need your custom scripts. Want to see if yours mimics a task from a short video? Upload a clip to their demo site today. 👀\n\nWhat task would you make that robot learn first? 🤖"
+    }
+  },
+  "instagram_caption": "One robot trained on YouTube clips just picked up a screwdriver it had never seen, with zero custom code required.\n\nNo more months of reprogramming. A single model learns from internet videos—Instagram reels, tutorials—and generalizes to totally new objects, from mugs to tools.\n\nFleets update from one shared brain. You skip the facility-by-facility rewrite.\n\nStop assuming robots need your custom scripts. Want to see if yours mimics a task from a short video? Upload a clip to their demo site today. 👀\n\nWhat task would you make that robot learn first? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "What if one model learns anything?",
+      "description": "A startup trains robots using internet video, not code. No task-specific programming needed.",
+      "visual_hint": "Robot arm gripping unknown object",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm object"
+    },
+    {
+      "hook": "It generalizes to new objects instantly.",
+      "description": "Robot picks up mugs or screwdrivers it has never seen before. Generalization is the breakthrough.",
+      "visual_hint": "Robot picking up mug and screwdriver",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot picking screwdriver",
+      "image": "https://images.pexels.com/photos/8447847/pexels-photo-8447847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Training shifts from code to video.",
+      "description": "Human teleoperation and simulation replaced with YouTube and Instagram clips. Watching replaces programming.",
+      "visual_hint": "Screen showing YouTube clips feeding robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot training video screen",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deploy fleets without months of work.",
+      "description": "Fleets update from one shared model. No reprogramming per facility, instant deployment.",
+      "visual_hint": "Multiple robots in warehouse receiving update",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warehouse robot fleet",
+      "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this & test their demo now.",
+      "description": "Visit their website, upload a short video, and see if the robot mimics it instantly.",
+      "visual_hint": "Person holding phone uploading video",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person upload video phone",
+      "image": "https://images.pexels.com/photos/10889696/pexels-photo-10889696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+  "savedAt": "2026-07-08T20:58:07.173Z",
+  "sourceId": "9c57f755e18092e180a760cc7492131c"
+}

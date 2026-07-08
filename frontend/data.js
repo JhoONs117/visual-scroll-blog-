@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-releases-new-voice-models-for-more-natural-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "pubDate": "Wed, 08 Jul 2026 17:00:00 +0000",
+    "slides": [
+      "Why reveal new voice models now, not later?",
+      "They adapt tone based on your emotional cues.",
+      "But one flaw makes them fail in noisy rooms.",
+      "Your app can finally hold live, human-like chats.",
+      "Test the model with a real-time stress scenario tomorrow."
+    ],
+    "thread_text": [
+      "1. Why now, not later?\n\nOpenAI rushed the release after a rival leaked similar tech. The demo goes live tomorrow.",
+      "2. They read your mood.\n\nThe model adjusts tone in real time—angry? It softens. Anxious? It slows down.",
+      "3. But noise breaks it.\n\nBackground chatter or a door slam causes the model to freeze or repeat words. It can't filter sound yet.",
+      "4. Your app talks back.\n\nFor the first time, an SDK lets developers embed live, human-like chat into any app. No delays.",
+      "5. Test it tomorrow.\n\nOpen the demo at 10 AM, simulate a stressful conversation—raised voice, interruptions. Does it hold up?"
+    ],
+    "video_script": [
+      "Voice models launch tomorrow—not by accident.",
+      "They detect your emotion and adapt tone.",
+      "But loud rooms cause them to fail.",
+      "Your app can now host live chats.",
+      "Stress-test the model tomorrow at 10 AM."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why now, not later?\n\nOpenAI rushed the release after a rival leaked similar tech. The demo goes live tomorrow.",
+          "2. They read your mood.\n\nThe model adjusts tone in real time—angry? It softens. Anxious? It slows down.",
+          "3. But noise breaks it.\n\nBackground chatter or a door slam causes the model to freeze or repeat words. It can't filter sound yet.",
+          "4. Your app talks back.\n\nFor the first time, an SDK lets developers embed live, human-like chat into any app. No delays.",
+          "5. Test it tomorrow.\n\nOpen the demo at 10 AM, simulate a stressful conversation—raised voice, interruptions. Does it hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Voice models launch tomorrow—not by accident.",
+          "They detect your emotion and adapt tone.",
+          "But loud rooms cause them to fail.",
+          "Your app can now host live chats.",
+          "Stress-test the model tomorrow at 10 AM."
+        ]
+      },
+      "instagram": {
+        "caption": "Your app can now host live, human-like voice chats—and it adjusts its tone to how you sound.\n\nOpenAI just released new voice models, rushed after a rival leaked similar tech. The model softens its voice if you sound angry, slows down if you’re anxious. But background noise (a door slam, chatter) still makes it freeze or repeat words.\n\nFor creators and app developers: this is the first SDK that lets you embed live, conversational voice without delays. 🎙️\n\nTest it tomorrow at 10 AM: simulate a stressful talk—raised voice, interruptions. Does it keep up? 🧠"
+      }
+    },
+    "instagram_caption": "Your app can now host live, human-like voice chats—and it adjusts its tone to how you sound.\n\nOpenAI just released new voice models, rushed after a rival leaked similar tech. The model softens its voice if you sound angry, slows down if you’re anxious. But background noise (a door slam, chatter) still makes it freeze or repeat words.\n\nFor creators and app developers: this is the first SDK that lets you embed live, conversational voice without delays. 🎙️\n\nTest it tomorrow at 10 AM: simulate a stressful talk—raised voice, interruptions. Does it keep up? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Noise kills it completely.",
+        "description": "Background chatter or a door slam makes the model freeze or repeat words—it can't filter sound yet.",
+        "visual_hint": "Microphone with sound waves",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "microphone recording studio"
+      },
+      {
+        "hook": "It reads your mood.",
+        "description": "The model adjusts tone in real time—angry? It softens. Anxious? It slows down.",
+        "visual_hint": "Face expressing emotion",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "face emotion digital",
+        "image": "https://images.pexels.com/photos/5130296/pexels-photo-5130296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your app talks back.",
+        "description": "For the first time, an SDK lets developers embed live, human-like chat into any app with no delays.",
+        "visual_hint": "Smartphone with chat bubbles",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "smartphone chat app",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it tomorrow.",
+        "description": "Open the demo at 10 AM, simulate a stressful conversation—raised voice, interruptions. Does it hold up?",
+        "visual_hint": "Calendar with alarm clock",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "calendar alarm clock",
+        "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to try later.",
+        "description": "Visit the link in bio to access the live demo and stress-test the model yourself.",
+        "visual_hint": "Link button with arrow",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "link icon smartphone",
+        "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
+    "savedAt": "2026-07-08T20:58:37.510Z",
+    "sourceId": "c1f0680921410606571c1098c0b5f00e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-wants-its-ai-glasses-to-seem-less-creepy-its-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "pubDate": "Wed, 08 Jul 2026 17:11:18 +0000",
+    "slides": [
+      "Meta's Ray-Bans feel friendly. But its AI strategy whispers otherwise.",
+      "The glasses can now remember where you left your keys.",
+      "They also analyze your conversations without a visible cue.",
+      "Your privacy settings won't block inferences the AI makes.",
+      "Check what your glasses share—before Meta decides for you."
+    ],
+    "thread_text": [
+      "1. Your glasses are listening\n\nThey analyze conversations without any visible cue. You will not know when it's happening.",
+      "2. Privacy settings are useless\n\nThe AI makes inferences your current settings cannot block. Opting out is not an option.",
+      "3. Keys are not the point\n\nRemembering where you left your keys is a feature. The real trick is tracking everything you do.",
+      "4. Meta chooses for you\n\nIf you do not check what your glasses share, Meta will decide the default. That default is not in your favor.",
+      "5. Check your settings now\n\nOpen the Meta View app and review what data is shared. Have you done it yet?"
+    ],
+    "video_script": [
+      "Your glasses listen without a cue.",
+      "Privacy settings won't stop inferences.",
+      "Meta decides what your glasses share.",
+      "Tracking goes beyond just your keys.",
+      "Check your settings before Meta chooses."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your glasses are listening\n\nThey analyze conversations without any visible cue. You will not know when it's happening.",
+          "2. Privacy settings are useless\n\nThe AI makes inferences your current settings cannot block. Opting out is not an option.",
+          "3. Keys are not the point\n\nRemembering where you left your keys is a feature. The real trick is tracking everything you do.",
+          "4. Meta chooses for you\n\nIf you do not check what your glasses share, Meta will decide the default. That default is not in your favor.",
+          "5. Check your settings now\n\nOpen the Meta View app and review what data is shared. Have you done it yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your glasses listen without a cue.",
+          "Privacy settings won't stop inferences.",
+          "Meta decides what your glasses share.",
+          "Tracking goes beyond just your keys.",
+          "Check your settings before Meta chooses."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Ray-Bans can now analyze your conversations without any visible cue—you won’t know when it’s listening.\n\nMeta says its glasses feel friendly, but the AI strategy tells a different story. The same glasses that remember your keys are also tracking everything you do, and your privacy settings can’t block the inferences the AI makes.\n\nIf you don’t check what your glasses share, Meta will set the default for you 🕶️⚠️.\n\nOpen the Meta View app right now—have you reviewed what data is being shared? 📱"
+      }
+    },
+    "instagram_caption": "Your Ray-Bans can now analyze your conversations without any visible cue—you won’t know when it’s listening.\n\nMeta says its glasses feel friendly, but the AI strategy tells a different story. The same glasses that remember your keys are also tracking everything you do, and your privacy settings can’t block the inferences the AI makes.\n\nIf you don’t check what your glasses share, Meta will set the default for you 🕶️⚠️.\n\nOpen the Meta View app right now—have you reviewed what data is being shared? 📱",
+    "carousel_slides": [
+      {
+        "hook": "Your glasses are always listening?",
+        "description": "Meta's glasses analyze conversations without a visible cue—you'll never know when it's happening.",
+        "visual_hint": "glasses with red light",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "smart glasses"
+      },
+      {
+        "hook": "Privacy settings can't stop AI inferences",
+        "description": "The AI makes inferences your current settings cannot block, making opt-out effectively impossible.",
+        "visual_hint": "privacy shield broken",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "cybersecurity lock",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Keys are just the cover story",
+        "description": "Remembering where you left your keys is a feature, but the real trick is tracking everything you do.",
+        "visual_hint": "keys and surveillance eye",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "key tracking device",
+        "image": "https://images.pexels.com/photos/7825626/pexels-photo-7825626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta chooses defaults against you",
+        "description": "If you don't check what your glasses share, Meta sets the default—and that default is not in your favor.",
+        "visual_hint": "hand holding glasses",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "smartphone settings",
+        "image": "https://images.pexels.com/photos/13888309/pexels-photo-13888309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your settings now to stay safe",
+        "description": "Open the Meta View app and review what data is shared. Have you done it yet?",
+        "visual_hint": "phone app settings screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "Meta app icon",
+        "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
+    "savedAt": "2026-07-08T20:58:24.123Z",
+    "sourceId": "8cb577da43c6189439a059671f9a356e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "this-startup-thinks-robotics-is-about-to-have-its-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "pubDate": "Wed, 08 Jul 2026 19:19:15 +0000",
+    "slides": [
+      "What if one robot could learn any task instantly?",
+      "This startup trains robots from internet video, not code.",
+      "Their model generalizes to objects it has never seen.",
+      "You will soon deploy fleets without months of reprogramming.",
+      "Stop assuming robots need custom software; test their demo."
+    ],
+    "thread_text": [
+      "1. One robot to rule them.\n\nA startup just trained a single model on internet video — no task-specific code needed.",
+      "2. Generalization is the twist.\n\nThe robot picks up objects it has never seen, from mugs to screwdrivers.",
+      "3. Training shifts to watching.\n\nHuman teleoperation or simulation? Replaced by YouTube clips and Instagram reels.",
+      "4. Deployment becomes instant.\n\nFleets update from one shared model — no months of reprogramming per facility.",
+      "5. Test their demo today.\n\nVisit their site, upload a short video, and see if the robot mimics it. Have you tried it yet?"
+    ],
+    "video_script": [
+      "One robot learns any task instantly.",
+      "Trained on internet video, not code.",
+      "It handles objects it has never seen.",
+      "Deploy fleets without months of reprogramming.",
+      "Stop assuming custom software. Test the demo."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One robot to rule them.\n\nA startup just trained a single model on internet video — no task-specific code needed.",
+          "2. Generalization is the twist.\n\nThe robot picks up objects it has never seen, from mugs to screwdrivers.",
+          "3. Training shifts to watching.\n\nHuman teleoperation or simulation? Replaced by YouTube clips and Instagram reels.",
+          "4. Deployment becomes instant.\n\nFleets update from one shared model — no months of reprogramming per facility.",
+          "5. Test their demo today.\n\nVisit their site, upload a short video, and see if the robot mimics it. Have you tried it yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One robot learns any task instantly.",
+          "Trained on internet video, not code.",
+          "It handles objects it has never seen.",
+          "Deploy fleets without months of reprogramming.",
+          "Stop assuming custom software. Test the demo."
+        ]
+      },
+      "instagram": {
+        "caption": "One robot trained on YouTube clips just picked up a screwdriver it had never seen, with zero custom code required.\n\nNo more months of reprogramming. A single model learns from internet videos—Instagram reels, tutorials—and generalizes to totally new objects, from mugs to tools.\n\nFleets update from one shared brain. You skip the facility-by-facility rewrite.\n\nStop assuming robots need your custom scripts. Want to see if yours mimics a task from a short video? Upload a clip to their demo site today. 👀\n\nWhat task would you make that robot learn first? 🤖"
+      }
+    },
+    "instagram_caption": "One robot trained on YouTube clips just picked up a screwdriver it had never seen, with zero custom code required.\n\nNo more months of reprogramming. A single model learns from internet videos—Instagram reels, tutorials—and generalizes to totally new objects, from mugs to tools.\n\nFleets update from one shared brain. You skip the facility-by-facility rewrite.\n\nStop assuming robots need your custom scripts. Want to see if yours mimics a task from a short video? Upload a clip to their demo site today. 👀\n\nWhat task would you make that robot learn first? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "What if one model learns anything?",
+        "description": "A startup trains robots using internet video, not code. No task-specific programming needed.",
+        "visual_hint": "Robot arm gripping unknown object",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arm object"
+      },
+      {
+        "hook": "It generalizes to new objects instantly.",
+        "description": "Robot picks up mugs or screwdrivers it has never seen before. Generalization is the breakthrough.",
+        "visual_hint": "Robot picking up mug and screwdriver",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot picking screwdriver",
+        "image": "https://images.pexels.com/photos/8447847/pexels-photo-8447847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Training shifts from code to video.",
+        "description": "Human teleoperation and simulation replaced with YouTube and Instagram clips. Watching replaces programming.",
+        "visual_hint": "Screen showing YouTube clips feeding robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot training video screen",
+        "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deploy fleets without months of work.",
+        "description": "Fleets update from one shared model. No reprogramming per facility, instant deployment.",
+        "visual_hint": "Multiple robots in warehouse receiving update",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warehouse robot fleet",
+        "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this & test their demo now.",
+        "description": "Visit their website, upload a short video, and see if the robot mimics it instantly.",
+        "visual_hint": "Person holding phone uploading video",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person upload video phone",
+        "image": "https://images.pexels.com/photos/10889696/pexels-photo-10889696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+    "savedAt": "2026-07-08T20:58:07.173Z",
+    "sourceId": "9c57f755e18092e180a760cc7492131c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "prime-intellect-raises-130m-series-a-to-help-enter",
     "prompt_version": "1.0.0",
     "status": "published",
