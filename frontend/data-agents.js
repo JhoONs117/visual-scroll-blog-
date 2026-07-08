@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "vc-firm-chemistry-is-raising-500m-for-its-second-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "VC firm Chemistry is raising $500M for its second fund",
+      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "pubDate": "Tue, 07 Jul 2026 15:02:02 +0000",
+      "slides": [
+        "Chemistry raised $350M first fund — now double that?",
+        "The new $500M fund targets early-stage startups",
+        "Its first fund returned capital faster than most peers",
+        "Founders with Chemistry backing get priority introductions",
+        "Check if your network overlaps with their portfolio firms"
+      ],
+      "thread_text": [
+        "1. Chemistry's second $500M bet\n\nThey raised a $350M first fund and now target $500M for early-stage startups.",
+        "2. Speed of returns\n\nIts first fund returned capital faster than most peers, showing strong execution.",
+        "3. Priority access\n\nFounders backed by Chemistry get priority introductions to key partners.",
+        "4. Network check\n\nSee if your contacts overlap with Chemistry's portfolio firms.",
+        "5. Action step\n\nOpen LinkedIn and search for 'Chemistry fund portfolio' — map your first-degree connections today."
+      ],
+      "video_script": [
+        "Chemistry raised 350 million, now targets 500.",
+        "First fund returned capital faster than peers.",
+        "Backed founders get priority introductions.",
+        "Check your network for portfolio overlap.",
+        "Search LinkedIn for Chemistry fund connections."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Chemistry's second $500M bet\n\nThey raised a $350M first fund and now target $500M for early-stage startups.",
+            "2. Speed of returns\n\nIts first fund returned capital faster than most peers, showing strong execution.",
+            "3. Priority access\n\nFounders backed by Chemistry get priority introductions to key partners.",
+            "4. Network check\n\nSee if your contacts overlap with Chemistry's portfolio firms.",
+            "5. Action step\n\nOpen LinkedIn and search for 'Chemistry fund portfolio' — map your first-degree connections today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Chemistry raised 350 million, now targets 500.",
+            "First fund returned capital faster than peers.",
+            "Backed founders get priority introductions.",
+            "Check your network for portfolio overlap.",
+            "Search LinkedIn for Chemistry fund connections."
+          ]
+        },
+        "instagram": {
+          "caption": "Chemistry is raising a $500M second fund—double its first $350M, and already faster on returns than most peers. ⏱️\n\nThat first fund prioritized early-stage startups and delivered capital back ahead of schedule. The new fund doubles down on that same focus.\n\nFounders backed by Chemistry get bumped to the front of the line for key introductions 🤝\n\nIf you’re pitching investors, check if your network touches their portfolio firms—those connections could fast-track your intro.\n\nOpen LinkedIn and search “Chemistry fund portfolio”—do any of your first-degree contacts list it?"
+        }
+      },
+      "instagram_caption": "Chemistry is raising a $500M second fund—double its first $350M, and already faster on returns than most peers. ⏱️\n\nThat first fund prioritized early-stage startups and delivered capital back ahead of schedule. The new fund doubles down on that same focus.\n\nFounders backed by Chemistry get bumped to the front of the line for key introductions 🤝\n\nIf you’re pitching investors, check if your network touches their portfolio firms—those connections could fast-track your intro.\n\nOpen LinkedIn and search “Chemistry fund portfolio”—do any of your first-degree contacts list it?",
+      "carousel_slides": [
+        {
+          "hook": "Faster returns than peers?",
+          "description": "Chemistry's first fund returned capital faster than most peers, proving strong execution.",
+          "visual_hint": "speed gauge needle",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "speedometer dashboard"
+        },
+        {
+          "hook": "Second fund doubles down",
+          "description": "Chemistry raised $350M first fund, now targeting $500M for early-stage startups.",
+          "visual_hint": "stack of cash",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "us dollar bills",
+          "image": "https://images.pexels.com/photos/13668628/pexels-photo-13668628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Priority intros for founders",
+          "description": "Founders backed by Chemistry get priority introductions to key partners and investors.",
+          "visual_hint": "handshake close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Does your network overlap?",
+          "description": "Check if your first-degree LinkedIn connections overlap with Chemistry's portfolio firms.",
+          "visual_hint": "LinkedIn network graph",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "linkedin profile screen",
+          "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save & check your network",
+          "description": "Open LinkedIn, search 'Chemistry fund portfolio', and map your first-degree connections today.",
+          "visual_hint": "phone with LinkedIn",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone linkedin app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/Social-Media-GPs-TWITTER.jpg?resize=1200,800",
+      "savedAt": "2026-07-08T05:13:42.691Z",
+      "sourceId": "61b21342b0c8e163faff9a1a3512bd32"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-s-new-muse-image-model-can-pull-other-instagr",
       "prompt_version": "1.0.0",
       "status": "published",
