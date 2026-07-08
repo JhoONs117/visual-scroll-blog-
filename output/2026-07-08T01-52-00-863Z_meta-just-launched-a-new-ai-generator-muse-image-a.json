@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-just-launched-a-new-ai-generator-muse-image-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+  "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+  "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
+  "slides": [
+    "Meta’s new AI generator uses your photos—without asking.",
+    "Muse Image launches globally this week on Facebook.",
+    "Opt-out requires a separate form, not your settings.",
+    "Your past uploads can train models you never approved.",
+    "Check your privacy tab now for the hidden removal link."
+  ],
+  "thread_text": [
+    "1. Your photos train AI now\n\nMeta’s new Muse model starts using your Facebook uploads this week, whether you like it or not.",
+    "2. Opt-out isn’t in settings\n\nYou must fill a separate web form to stop it—your privacy controls won’t block this.",
+    "3. Past images are fair game\n\nEvery photo you ever uploaded can be fed into the training model without new consent.",
+    "4. The hidden removal link\n\nA single obscure option inside your privacy tab is the only way to pull your data out.",
+    "5. Check your privacy tab\n\nOpen Facebook right now and find that removal link. If you don’t act, your photos stay in the training set."
+  ],
+  "video_script": [
+    "Meta uses your photos to train AI.",
+    "Opt out requires a separate form.",
+    "Your past uploads are not safe.",
+    "Find the hidden removal link now.",
+    "Act today—or your images stay."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your photos train AI now\n\nMeta’s new Muse model starts using your Facebook uploads this week, whether you like it or not.",
+        "2. Opt-out isn’t in settings\n\nYou must fill a separate web form to stop it—your privacy controls won’t block this.",
+        "3. Past images are fair game\n\nEvery photo you ever uploaded can be fed into the training model without new consent.",
+        "4. The hidden removal link\n\nA single obscure option inside your privacy tab is the only way to pull your data out.",
+        "5. Check your privacy tab\n\nOpen Facebook right now and find that removal link. If you don’t act, your photos stay in the training set."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta uses your photos to train AI.",
+        "Opt out requires a separate form.",
+        "Your past uploads are not safe.",
+        "Find the hidden removal link now.",
+        "Act today—or your images stay."
+      ]
+    },
+    "instagram": {
+      "caption": "All your old Facebook photos are being fed into Meta’s new Muse Image generator—starting this week, without asking you first.\n\nThe opt-out isn’t in your privacy settings. You have to submit a separate web form to stop it.\n\nEverything you’ve ever uploaded—including past photos you never approved for AI training—is now fair game for the model.\n\nIf you post images on Facebook, your own uploads are actively powering a tool you didn’t consent to.\n\nOpen your privacy tab right now. Find the removal link—or your photos stay in the training set. ⚠️"
+    }
+  },
+  "instagram_caption": "All your old Facebook photos are being fed into Meta’s new Muse Image generator—starting this week, without asking you first.\n\nThe opt-out isn’t in your privacy settings. You have to submit a separate web form to stop it.\n\nEverything you’ve ever uploaded—including past photos you never approved for AI training—is now fair game for the model.\n\nIf you post images on Facebook, your own uploads are actively powering a tool you didn’t consent to.\n\nOpen your privacy tab right now. Find the removal link—or your photos stay in the training set. ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Your photos train AI now.",
+      "description": "Meta's Muse Image starts using your Facebook uploads this week without your permission.",
+      "visual_hint": "Glowing face scan grid overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Opt-out isn't in settings.",
+      "description": "A separate web form is required to stop it; your privacy controls won't block this.",
+      "visual_hint": "Red web form button on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Past images are fair game.",
+      "description": "Every photo you ever uploaded can feed the training model without new consent.",
+      "visual_hint": "Old photos flowing into a machine",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden removal link exists.",
+      "description": "A single obscure option inside your privacy tab is the only way to pull your data out.",
+      "visual_hint": "Magnifying glass over privacy menu",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your privacy tab now.",
+      "description": "Open Facebook, find the removal link, and act before your photos are locked in training.",
+      "visual_hint": "Finger tapping privacy tab icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop open",
+      "image": "https://images.pexels.com/photos/6721313/pexels-photo-6721313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
+  "savedAt": "2026-07-08T01:52:15.956Z",
+  "sourceId": "43c24424eacf387e2d13cad2cf1a6d2c"
+}

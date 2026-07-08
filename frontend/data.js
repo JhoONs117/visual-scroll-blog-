@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-s-new-muse-image-model-can-pull-other-instagr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "pubDate": "2026-07-07T20:31:58.000Z",
+    "slides": [
+      "Meta’s Muse turned your friend into an AI image.",
+      "It blends real user faces into any generated scene.",
+      "No consent required—only your public Instagram photos.",
+      "Now anyone can insert you into surreal or fake posts.",
+      "Check your privacy settings before you become a meme."
+    ],
+    "thread_text": [
+      "1. Friend turned into AI\n\nMeta’s Muse uses your public Instagram photos—no permission needed.",
+      "2. No consent required\n\nYou don’t have to opt in. Any photo you posted is fair game.",
+      "3. Blends faces anywhere\n\nYour face gets mapped onto a generated scene—beach, protest, fake news.",
+      "4. Anyone can insert you\n\nA stranger can put you into a surreal or false post instantly.",
+      "5. Check your privacy now\n\nSearch your Instagram settings today. Make sure your account is private."
+    ],
+    "video_script": [
+      "Meta's Muse turns friends into AI images.",
+      "It uses your public Instagram photos without consent.",
+      "Your face can be placed in any scene.",
+      "Anyone can make surreal or fake posts with you.",
+      "Check your Instagram privacy settings today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Friend turned into AI\n\nMeta’s Muse uses your public Instagram photos—no permission needed.",
+          "2. No consent required\n\nYou don’t have to opt in. Any photo you posted is fair game.",
+          "3. Blends faces anywhere\n\nYour face gets mapped onto a generated scene—beach, protest, fake news.",
+          "4. Anyone can insert you\n\nA stranger can put you into a surreal or false post instantly.",
+          "5. Check your privacy now\n\nSearch your Instagram settings today. Make sure your account is private."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's Muse turns friends into AI images.",
+          "It uses your public Instagram photos without consent.",
+          "Your face can be placed in any scene.",
+          "Anyone can make surreal or fake posts with you.",
+          "Check your Instagram privacy settings today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your public Instagram photos can now be used by anyone to insert your face into AI-generated scenes.\n\nMeta’s Muse model blends your real face into any created image—a vacation, a riot, a meme. No notification, no permission needed. ☝️\n\nAnyone with your public photos can instantly put you into any situation. Stranger or follower, no difference.\n\nYour next post could become someone else’s fake content—without you ever knowing.\n\nIs your account private? Check your Instagram settings today — default visibility changes everything. 🔍"
+      }
+    },
+    "instagram_caption": "Your public Instagram photos can now be used by anyone to insert your face into AI-generated scenes.\n\nMeta’s Muse model blends your real face into any created image—a vacation, a riot, a meme. No notification, no permission needed. ☝️\n\nAnyone with your public photos can instantly put you into any situation. Stranger or follower, no difference.\n\nYour next post could become someone else’s fake content—without you ever knowing.\n\nIs your account private? Check your Instagram settings today — default visibility changes everything. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "They put you in AI without asking",
+        "description": "Meta’s Muse blends your public Instagram photos into any generated scene instantly.",
+        "visual_hint": "Face merged into surreal scene",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "face morphing digital art"
+      },
+      {
+        "hook": "Your face is now public property",
+        "description": "No consent needed — any stranger can insert you into fake or surreal posts.",
+        "visual_hint": "Silhouette with question mark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "silhouette question mark",
+        "image": "https://images.pexels.com/photos/3683107/pexels-photo-3683107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A stranger can put you anywhere",
+        "description": "Your face gets mapped onto a protest, beach, or fake news image instantly.",
+        "visual_hint": "Face projected on protest sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "protest sign crowd",
+        "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your photos fuel AI without warning",
+        "description": "Every public Instagram photo you posted is now fair game for AI generation.",
+        "visual_hint": "Instagram icon with AI circle",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone camera circle",
+        "image": "https://images.pexels.com/photos/33210189/pexels-photo-33210189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you become a meme",
+        "description": "Go to Instagram settings now and switch your account to private.",
+        "visual_hint": "Lock with checkmark icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "padlock checkmark icon",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+    "savedAt": "2026-07-08T01:52:30.654Z",
+    "sourceId": "041d3e03c54a3d86cb670ca93d75b1d9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-just-launched-a-new-ai-generator-muse-image-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "pubDate": "Tue, 07 Jul 2026 22:18:10 +0000",
+    "slides": [
+      "Meta’s new AI generator uses your photos—without asking.",
+      "Muse Image launches globally this week on Facebook.",
+      "Opt-out requires a separate form, not your settings.",
+      "Your past uploads can train models you never approved.",
+      "Check your privacy tab now for the hidden removal link."
+    ],
+    "thread_text": [
+      "1. Your photos train AI now\n\nMeta’s new Muse model starts using your Facebook uploads this week, whether you like it or not.",
+      "2. Opt-out isn’t in settings\n\nYou must fill a separate web form to stop it—your privacy controls won’t block this.",
+      "3. Past images are fair game\n\nEvery photo you ever uploaded can be fed into the training model without new consent.",
+      "4. The hidden removal link\n\nA single obscure option inside your privacy tab is the only way to pull your data out.",
+      "5. Check your privacy tab\n\nOpen Facebook right now and find that removal link. If you don’t act, your photos stay in the training set."
+    ],
+    "video_script": [
+      "Meta uses your photos to train AI.",
+      "Opt out requires a separate form.",
+      "Your past uploads are not safe.",
+      "Find the hidden removal link now.",
+      "Act today—or your images stay."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your photos train AI now\n\nMeta’s new Muse model starts using your Facebook uploads this week, whether you like it or not.",
+          "2. Opt-out isn’t in settings\n\nYou must fill a separate web form to stop it—your privacy controls won’t block this.",
+          "3. Past images are fair game\n\nEvery photo you ever uploaded can be fed into the training model without new consent.",
+          "4. The hidden removal link\n\nA single obscure option inside your privacy tab is the only way to pull your data out.",
+          "5. Check your privacy tab\n\nOpen Facebook right now and find that removal link. If you don’t act, your photos stay in the training set."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta uses your photos to train AI.",
+          "Opt out requires a separate form.",
+          "Your past uploads are not safe.",
+          "Find the hidden removal link now.",
+          "Act today—or your images stay."
+        ]
+      },
+      "instagram": {
+        "caption": "All your old Facebook photos are being fed into Meta’s new Muse Image generator—starting this week, without asking you first.\n\nThe opt-out isn’t in your privacy settings. You have to submit a separate web form to stop it.\n\nEverything you’ve ever uploaded—including past photos you never approved for AI training—is now fair game for the model.\n\nIf you post images on Facebook, your own uploads are actively powering a tool you didn’t consent to.\n\nOpen your privacy tab right now. Find the removal link—or your photos stay in the training set. ⚠️"
+      }
+    },
+    "instagram_caption": "All your old Facebook photos are being fed into Meta’s new Muse Image generator—starting this week, without asking you first.\n\nThe opt-out isn’t in your privacy settings. You have to submit a separate web form to stop it.\n\nEverything you’ve ever uploaded—including past photos you never approved for AI training—is now fair game for the model.\n\nIf you post images on Facebook, your own uploads are actively powering a tool you didn’t consent to.\n\nOpen your privacy tab right now. Find the removal link—or your photos stay in the training set. ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Your photos train AI now.",
+        "description": "Meta's Muse Image starts using your Facebook uploads this week without your permission.",
+        "visual_hint": "Glowing face scan grid overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Opt-out isn't in settings.",
+        "description": "A separate web form is required to stop it; your privacy controls won't block this.",
+        "visual_hint": "Red web form button on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Past images are fair game.",
+        "description": "Every photo you ever uploaded can feed the training model without new consent.",
+        "visual_hint": "Old photos flowing into a machine",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hidden removal link exists.",
+        "description": "A single obscure option inside your privacy tab is the only way to pull your data out.",
+        "visual_hint": "Magnifying glass over privacy menu",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your privacy tab now.",
+        "description": "Open Facebook, find the removal link, and act before your photos are locked in training.",
+        "visual_hint": "Finger tapping privacy tab icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop open",
+        "image": "https://images.pexels.com/photos/6721313/pexels-photo-6721313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
+    "savedAt": "2026-07-08T01:52:15.956Z",
+    "sourceId": "43c24424eacf387e2d13cad2cf1a6d2c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-rolls-out-muse-a-new-ai-image-generator",
     "prompt_version": "1.0.0",
     "status": "published",
