@@ -74505,6 +74505,117 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "food",
+      "slug": "pesce-spada-alla-griglia",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pesce spada alla griglia",
+      "link": "https://ricette.giallozafferano.it/Pesce-spada-alla-griglia.html",
+      "pubDate": "Wed, 08 Jul 2026 11:31:00 +0200",
+      "content": "Pesce spada alla griglia: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Pesce spada alla griglia /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 5 min Cottura: 15 min Dosi per: 4 persone Costo: Medio Nota + 30 min. di marinatura in frigo Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il pesce spada alla griglia è un secondo piatto di mare tipico della cucina mediterranea, amato per la sua semplicità e per il suo sapore delicato. Spesso, però, il rischio quando si cucina questo pregiato pesce azzurro è quello di ottenere un risultato asciutto e stopposo. Qual è quindi il segreto per un pesce spada morbido e succoso ? Una marinatura a base di olio extravergine d'oliva, succo di limone, sale e pepe, che protegge le fibre del pesce dal calore della griglia e ne esalta il gusto naturale. Bastano solo 30 minuti di riposo in frigorifero per fare la differenza! Un tocco finale di origano fresco e scorza di limone grattugiata regalerà un profumo mediterraneo irresistibile… accompagnate il pesce spada alla griglia con una fresca insalatina mista o con verdure grigliate di stagione, l’abbinamento perfetto per un pasto leggero e genuino, in estate e non solo! Scoprite altri gustosi modi per cucinare il pesce spada : Pesce spada impanato Pesce spada in salmoriglio Pesce spada in padella Pesce spada al forno Pesce spada alla pizzaiola Grilled swordfish INGREDIENTI Pesce spada (4 fette da 200 g l'una) 800 g Succo di limone 25 g Scorza di limone q.b. Origano fresco q.b. Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Pesce spada alla griglia Per preparare il pesce spada alla griglia, sistemate le fette di pesce spada in una pirofila 1 e condite con l’olio 2 e il sale 3 . Aggiungete anche il pepe 4 e il succo di limone 5 , poi rigiratele fette per insaporirle da entrambi i lati 6 . Coprite con pellicola e lasciate marinare in frigorifero per 30 minuti. Trascorso il tempo di marinatura, scaldate bene una griglia. Adagiate il pesce spada 7 e cuocete per 8 minuti da un lato e per 7 minuti dall’altro 8 (il tempo di cottura può variare in base allo spessore delle fette). Una volta che avrà cambiato colore, toglietelo dal fuoco 9 . Aromatizzate con foglioline di origano fresco 10 e scorza di limone grattugiata 11 . Il vostro pesce spada alla griglia è pronto per essere servito, magari accompagnato con una fresca insalatina 12 ! Conservazione Si consiglia di consumare subito il pesce spada alla griglia. Se necessario, potete conservarlo in frigorifero per un giorno. Consiglio Potete sostituire l’origano fresco con maggiorana o timo. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Pesce spada Olio di oliva Limone Origano Scopri tutto sugli ingredienti Presente in: Secondi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pesce spada alla griglia 5.0 Pasta gratinata con ragù vegetale 5.0 Torta pesche e yogurt 5.0 SCOPRI Pesce spada alla griglia Pesce spada al forno Pesce spada in padella Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pesce spada alla griglia morbido e succoso.",
+        "Pesce spada, limone, olio, sale e pepe.",
+        "Marina le fette in olio, limone e spezie.",
+        "Cuoci 8 minuti per lato sulla griglia calda.",
+        "Aromatizza con origano fresco e scorza di limone."
+      ],
+      "instagram_caption": "Pesce spada alla griglia che si scioglie in bocca: il segreto è tutto nella marinatura. 🐟🌿  \nFette morbide e succose, insaporite con olio, limone, origano fresco e scorza — una griglia calda, 8 minuti per lato, e il gioco è fatto.  \nIl profumo dell’estate, senza troppi giri.  \nProvala questo weekend 🍋✨",
+      "formats": {
+        "instagram": {
+          "caption": "Pesce spada alla griglia che si scioglie in bocca: il segreto è tutto nella marinatura. 🐟🌿  \nFette morbide e succose, insaporite con olio, limone, origano fresco e scorza — una griglia calda, 8 minuti per lato, e il gioco è fatto.  \nIl profumo dell’estate, senza troppi giri.  \nProvala questo weekend 🍋✨"
+        },
+        "tiktok": {
+          "script": [
+            "Pesce spada morbido e succoso, ecco come.",
+            "Prendo fette, limone, olio, sale e pepe.",
+            "Marino il pesce con olio, limone e spezie.",
+            "Griglia calda, 8 minuti per lato.",
+            "Finito con origano fresco e scorza di limone."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Il segreto del pesce spada? Non farlo diventare una suola di scarpa. Morbido, succoso, con quel profumo di mare che ti resta in bocca. Ecco come lo faccio io.",
+            "Pesce spada fresco, limone, olio, sale e pepe. Niente di più. La marinatura è tutto: lascialo riposare 20 minuti in olio e limone con un pizzico di pepe.",
+            "Il gesto chiave? Girare una sola volta. Mettilo sulla griglia bollente e lascialo cuocere 8 minuti per lato. Crosta dorata fuori, cuore tenero dentro.",
+            "Appena tolto dal fuoco: origano fresco sbriciolato sulle fette ancora calde e una grattata di scorza di limone. Aromi che esplodono, senza coprire il sapore.",
+            "Trucco finale: prima di servire, un filo d'olio a crudo. Provala così e fammi sapere se non ti lecchi i baffi.👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pesce spada morbido e succoso, ecco come.",
+        "Prendo fette, limone, olio, sale e pepe.",
+        "Marino il pesce con olio, limone e spezie.",
+        "Griglia calda, 8 minuti per lato.",
+        "Finito con origano fresco e scorza di limone."
+      ],
+      "thread_text": [
+        "Il segreto del pesce spada? Non farlo diventare una suola di scarpa. Morbido, succoso, con quel profumo di mare che ti resta in bocca. Ecco come lo faccio io.",
+        "Pesce spada fresco, limone, olio, sale e pepe. Niente di più. La marinatura è tutto: lascialo riposare 20 minuti in olio e limone con un pizzico di pepe.",
+        "Il gesto chiave? Girare una sola volta. Mettilo sulla griglia bollente e lascialo cuocere 8 minuti per lato. Crosta dorata fuori, cuore tenero dentro.",
+        "Appena tolto dal fuoco: origano fresco sbriciolato sulle fette ancora calde e una grattata di scorza di limone. Aromi che esplodono, senza coprire il sapore.",
+        "Trucco finale: prima di servire, un filo d'olio a crudo. Provala così e fammi sapere se non ti lecchi i baffi.👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pesce spada alla griglia, morbido e succoso",
+          "description": "Il segreto per un pesce spada morbido e succoso: pochi ingredienti e la giusta cottura.",
+          "visual_hint": "Pesce spada grigliato su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory grilled swordfish steak"
+        },
+        {
+          "hook": "Essenziali: pesce, limone, olio",
+          "description": "Solo ingredienti semplici per esaltare il sapore del pesce spada senza coprirlo.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory swordfish lemon ingredients",
+          "image": "https://images.pexels.com/photos/15792768/pexels-photo-15792768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Marina le fette con cura",
+          "description": "Lascia riposare il pesce spada in olio, limone e spezie per 15 minuti.",
+          "visual_hint": "Fette in ciotola con marinatura",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory swordfish marinating bowl",
+          "image": "https://images.pexels.com/photos/33042405/pexels-photo-33042405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "8 minuti per lato sulla griglia",
+          "description": "Cuoci a fuoco medio-alto, senza spostare, finché si formano le classiche righe.",
+          "visual_hint": "Pesce spada sulla griglia calda",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory swordfish grill marks",
+          "image": "https://images.pexels.com/photos/17205227/pexels-photo-17205227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Origano e scorza per il finale",
+          "description": "Aromatizza con origano fresco e scorza di limone prima di servire.",
+          "visual_hint": "Scorza grattugiata sul pesce spada",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory swordfish lemon zest oregano",
+          "image": "https://images.pexels.com/photos/36318391/pexels-photo-36318391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "fish",
+      "signature_ingredients": [
+        "pesce spada",
+        "limone",
+        "origano"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36431/Pesce-spada-alla-griglia_650x433_wm.jpg",
+      "savedAt": "2026-07-08T11:47:42.547Z",
+      "sourceId": "d67b96b1a7086fcfff142ba2c4998afc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
       "slug": "pasta-gratinata-con-rag-vegetale",
       "prompt_version": "1.0.0",
       "status": "published",
