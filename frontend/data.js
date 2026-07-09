@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+    "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+    "pubDate": "Wed, 08 Jul 2026 16:29:35 +0000",
+    "slides": [
+      "Paradigm just raised $1.2 billion—what will they buy?",
+      "The firm targets only 'technical frontier' startups.",
+      "Most VCs ignored this niche until now.",
+      "Your funding pool just got smaller and more selective.",
+      "Check if your startup qualifies before your next pitch."
+    ],
+    "thread_text": [
+      "1. Who got $1.2B?\n\nParadigm just raised a record venture fund—and they're only backing one type of AI startup.",
+      "2. The forgotten niche\n\nMost VCs ignored technical frontier startups until now. Paradigm is betting on what everyone else skipped.",
+      "3. Your pool shrinks\n\nWith Paradigm hoarding capital, the remaining funding for ambitious AI builders just got smaller and more selective.",
+      "4. What qualifies?\n\nParadigm targets only startups pushing the bleeding edge—not apps, not wrappers. Hard tech or nothing.",
+      "5. Check now\n\nBefore your next pitch, see if your startup meets their frontier criteria. Do you qualify?"
+    ],
+    "video_script": [
+      "Paradigm raised one point two billion.",
+      "They only fund technical frontier startups.",
+      "Most VCs ignored this niche before.",
+      "Your funding pool just got smaller.",
+      "Check if your startup qualifies now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who got $1.2B?\n\nParadigm just raised a record venture fund—and they're only backing one type of AI startup.",
+          "2. The forgotten niche\n\nMost VCs ignored technical frontier startups until now. Paradigm is betting on what everyone else skipped.",
+          "3. Your pool shrinks\n\nWith Paradigm hoarding capital, the remaining funding for ambitious AI builders just got smaller and more selective.",
+          "4. What qualifies?\n\nParadigm targets only startups pushing the bleeding edge—not apps, not wrappers. Hard tech or nothing.",
+          "5. Check now\n\nBefore your next pitch, see if your startup meets their frontier criteria. Do you qualify?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Paradigm raised one point two billion.",
+          "They only fund technical frontier startups.",
+          "Most VCs ignored this niche before.",
+          "Your funding pool just got smaller.",
+          "Check if your startup qualifies now."
+        ]
+      },
+      "instagram": {
+        "caption": "One of the largest crypto VCs just locked in $1.2 billion exclusively for the hardest technical AI projects.\n\n📡 Paradigm is bypassing the usual app and wrapper plays to fund only \"technical frontier\" startups—hardware, infrastructure, and core science most investors ignored until now.\n\nYour funding pool just got deeper but far more selective: if you're not building at the edge of what's possible, this money is already off the table.\n\nIs your startup pushing the bleeding edge, or will you be competing for scraps?"
+      }
+    },
+    "instagram_caption": "One of the largest crypto VCs just locked in $1.2 billion exclusively for the hardest technical AI projects.\n\n📡 Paradigm is bypassing the usual app and wrapper plays to fund only \"technical frontier\" startups—hardware, infrastructure, and core science most investors ignored until now.\n\nYour funding pool just got deeper but far more selective: if you're not building at the edge of what's possible, this money is already off the table.\n\nIs your startup pushing the bleeding edge, or will you be competing for scraps?",
+    "carousel_slides": [
+      {
+        "hook": "Most VCs ignored this niche. Now?",
+        "description": "Paradigm just raised $1.2B for technical frontier startups that most VCs skipped until now.",
+        "visual_hint": "Massive pile of cash",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of money"
+      },
+      {
+        "hook": "They only back one kind.",
+        "description": "Paradigm targets 'technical frontier' startups. No apps or wrappers—just bleeding-edge hard tech.",
+        "visual_hint": "Blueprint of a lab",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "research laboratory",
+        "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your funding pool just shrank.",
+        "description": "With Paradigm hoarding capital, the remaining funds for ambitious AI builders got smaller and more selective.",
+        "visual_hint": "Shrinking pie chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "declining bar chart",
+        "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hard tech or nothing.",
+        "description": "Only startups pushing the absolute frontier qualify. Paradigm is betting on what everyone else skipped.",
+        "visual_hint": "Hand touching a circuit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board close up",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your fit.",
+        "description": "Check if your startup meets their frontier criteria before your next pitch. Do you qualify?",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/MattHuang-AlanaPalmedo-Paradigm.jpg?resize=1200,800",
+    "savedAt": "2026-07-09T02:05:52.243Z",
+    "sourceId": "acac4f0fdecdeca1e400d040ed18a44e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-releases-new-voice-models-for-more-natural-",
     "prompt_version": "1.0.0",
     "status": "published",
