@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "with-eu-backing-quantumdiamonds-aims-to-speed-up-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+    "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+    "pubDate": "Wed, 08 Jul 2026 20:29:50 +0000",
+    "slides": [
+      "Can QuantumDiamonds fix your chip yield loss?",
+      "EU funding supports its quantum sensor for fab lines",
+      "The sensor detects defects no existing tool can see",
+      "Your next wafer batch might avoid costly rework",
+      "Test QuantumDiamonds' prototype before competitors do"
+    ],
+    "thread_text": [
+      "1. The defect your tools miss\n\nQuantumDiamonds' sensor detects chip flaws no existing fab tool can see. Yield loss may finally have a fix.",
+      "2. EU just backed the bet\n\nEuropean Union funding is now supporting development of this quantum sensor for production line integration.",
+      "3. A rework-free future\n\nNext wafer batches could skip costly rework entirely — defects caught before they compound.",
+      "4. Prototype ready for testing\n\nA working prototype exists. Your fab can test it now, before competitors lock in the advantage.",
+      "5. Will you test first?\n\nRequest a prototype evaluation this quarter. Do you want competitors to own the early data?"
+    ],
+    "video_script": [
+      "EU funds quantum sensor for chip yield.",
+      "It sees defects other tools miss.",
+      "Your wafers could skip costly rework.",
+      "Test the prototype before competitors do.",
+      "Request a trial this quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The defect your tools miss\n\nQuantumDiamonds' sensor detects chip flaws no existing fab tool can see. Yield loss may finally have a fix.",
+          "2. EU just backed the bet\n\nEuropean Union funding is now supporting development of this quantum sensor for production line integration.",
+          "3. A rework-free future\n\nNext wafer batches could skip costly rework entirely — defects caught before they compound.",
+          "4. Prototype ready for testing\n\nA working prototype exists. Your fab can test it now, before competitors lock in the advantage.",
+          "5. Will you test first?\n\nRequest a prototype evaluation this quarter. Do you want competitors to own the early data?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "EU funds quantum sensor for chip yield.",
+          "It sees defects other tools miss.",
+          "Your wafers could skip costly rework.",
+          "Test the prototype before competitors do.",
+          "Request a trial this quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "A microscopic defect is currently forcing chipmakers to scrap entire batches of wafers after costly processing, wasting millions per month. 🔍\n\nQuantumDiamonds has built a quantum sensor that spots these hidden flaws before they compound. The European Union just funded its installation into real production lines. 🛠️\n\nYou can stop paying for rework that existing tools miss — and test the prototype now, before competitors lock in first access. ⚡\n\nAre you scheduling that evaluation this quarter, or handing the advantage to your rivals?"
+      }
+    },
+    "instagram_caption": "A microscopic defect is currently forcing chipmakers to scrap entire batches of wafers after costly processing, wasting millions per month. 🔍\n\nQuantumDiamonds has built a quantum sensor that spots these hidden flaws before they compound. The European Union just funded its installation into real production lines. 🛠️\n\nYou can stop paying for rework that existing tools miss — and test the prototype now, before competitors lock in first access. ⚡\n\nAre you scheduling that evaluation this quarter, or handing the advantage to your rivals?",
+    "carousel_slides": [
+      {
+        "hook": "Your tools miss these defects.",
+        "description": "QuantumDiamonds' sensor catches chip flaws no existing fab tool can see. Yield loss finally has a fix.",
+        "visual_hint": "Microchip with glowing defect spot",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "semiconductor wafer defect"
+      },
+      {
+        "hook": "EU just backed the solution.",
+        "description": "European Union funding supports development of a quantum sensor for production line integration.",
+        "visual_hint": "EU flag over quantum sensor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "quantum sensor prototype",
+        "image": "https://images.pexels.com/photos/30640195/pexels-photo-30640195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Skip costly rework forever.",
+        "description": "Next wafer batches could avoid expensive rework by catching defects early with unmatched precision.",
+        "visual_hint": "Wafer with no visible flaws",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "clean semiconductor wafer",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the prototype now.",
+        "description": "A working prototype exists. Your fab can test it today before competitors lock in the advantage.",
+        "visual_hint": "Hand reaching for sensor tool",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding chip",
+        "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Book your prototype evaluation.",
+        "description": "Request a prototype evaluation this quarter. Don't let competitors own the early data.",
+        "visual_hint": "Calendar with marked date",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "fab testing equipment",
+        "image": "https://images.pexels.com/photos/11679114/pexels-photo-11679114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/QuantumDiamonds-founders-cropped.jpeg?resize=1200,712",
+    "savedAt": "2026-07-09T07:30:20.269Z",
+    "sourceId": "ed82c2787c3a1dd5e2d178be31b74427"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-t",
     "prompt_version": "1.0.0",
     "status": "published",
