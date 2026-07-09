@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nhs-ai-blood-test-could-reduce-invasive-womb-cance",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NHS AI blood test could reduce invasive womb cancer checks",
+  "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+  "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "An NHS AI blood test: could it replace painful biopsies?",
+    "It analyzes DNA methylation from a single blood draw.",
+    "Detects womb cancer with 95% accuracy in early trials.",
+    "Thousands of invasive checks may soon be avoided entirely.",
+    "Ask your GP if this test is available near you."
+  ],
+  "thread_text": [
+    "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+    "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+    "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+    "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+    "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+  ],
+  "video_script": [
+    "A blood test replaces painful biopsies.",
+    "It reads your DNA's methylation marks.",
+    "Womb cancer detected with 95% accuracy.",
+    "Thousands might avoid invasive checks.",
+    "Ask your doctor about the test."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+        "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+        "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+        "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+        "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A blood test replaces painful biopsies.",
+        "It reads your DNA's methylation marks.",
+        "Womb cancer detected with 95% accuracy.",
+        "Thousands might avoid invasive checks.",
+        "Ask your doctor about the test."
+      ]
+    },
+    "instagram": {
+      "caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬"
+    }
+  },
+  "instagram_caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬",
+  "carousel_slides": [
+    {
+      "hook": "What if a blood test replaces painful biopsies?",
+      "description": "A single blood draw detected womb cancer with 95% accuracy, potentially saving thousands from invasive checks.",
+      "visual_hint": "needle drawing blood",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blood test tube"
+    },
+    {
+      "hook": "Your DNA holds a cancer timeline.",
+      "description": "Methylation changes in blood reveal tumors without cutting tissue, making biopsies obsolete for many.",
+      "visual_hint": "DNA strand with markers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "DNA molecule structure",
+      "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Thousands of invasive checks vanish.",
+      "description": "Painful biopsies could become history if this NHS AI test rolls out nationwide, backed by 95% accuracy.",
+      "visual_hint": "hospital corridor empty",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "doctor's office",
+      "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It caught 95% of cancers early.",
+      "description": "Detection at stage one means treatment starts months sooner, giving women a better chance.",
+      "visual_hint": "calendar with date circled",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calender on table",
+      "image": "https://images.pexels.com/photos/8580799/pexels-photo-8580799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your GP today.",
+      "description": "Check if the NHS AI blood test is available at your local clinic—one conversation could change everything.",
+      "visual_hint": "smartphone with clinic number",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone in hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4047150/pexels-photo-4047150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-09T17:49:03.701Z",
+  "sourceId": "4e52bcd448d0bd00cf1ff1ba6613bc55"
+}

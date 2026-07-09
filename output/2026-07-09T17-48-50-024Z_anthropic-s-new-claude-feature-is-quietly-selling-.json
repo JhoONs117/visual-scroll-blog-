@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-s-new-claude-feature-is-quietly-selling-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+  "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+  "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
+  "slides": [
+    "Can Claude sell your product without you saying a word?",
+    "Anthropic now embeds commerce links inside Claude's replies.",
+    "The AI doesn't just recommend—it completes the transaction.",
+    "Your customers skip your website entirely to buy instantly.",
+    "Test one purchase flow today before your competitors do."
+  ],
+  "thread_text": [
+    "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+    "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+    "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+    "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+    "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+  ],
+  "video_script": [
+    "Claude sells without you speaking.",
+    "Commerce links appear in replies now.",
+    "The AI completes the whole transaction.",
+    "Customers leave your website behind.",
+    "Test one purchase flow before rivals."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+        "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+        "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+        "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+        "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude sells without you speaking.",
+        "Commerce links appear in replies now.",
+        "The AI completes the whole transaction.",
+        "Customers leave your website behind.",
+        "Test one purchase flow before rivals."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖"
+    }
+  },
+  "instagram_caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖",
+  "carousel_slides": [
+    {
+      "hook": "Your website just became optional.",
+      "description": "Claude now embeds commerce links in replies. The transaction happens inside the chat, bypassing your site.",
+      "visual_hint": "Chat bubble with checkout button",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "online shopping cart"
+    },
+    {
+      "hook": "AI closes the deal instantly.",
+      "description": "Anthropic lets Claude complete purchases, not just recommend. Your entire funnel becomes unnecessary.",
+      "visual_hint": "Phone screen with payment confirmation",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "credit card payment",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Customers skip your landing page.",
+      "description": "No landing page, no cart. The journey ends where the recommendation started—inside the chat.",
+      "visual_hint": "Arrow skipping website directly to buy",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer mouse cursor",
+      "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is now your product.",
+      "description": "If Claude recommends a competitor, you lose the sale with no chance to pitch back.",
+      "visual_hint": "Two chat bubbles with different brands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake agreement",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test the flow.",
+      "description": "Simulate a one-click purchase through Claude's reply today—before your competitors do.",
+      "visual_hint": "Finger tapping buy now button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+  "savedAt": "2026-07-09T17:49:17.282Z",
+  "sourceId": "78b4dd47066f83bdce4b4a1b6b5c7a21"
+}

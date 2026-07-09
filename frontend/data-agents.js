@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "fl-studio-2026-turns-its-ai-chatbot-into-your-assi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "pubDate": "2026-07-09T13:00:00.000Z",
+      "slides": [
+        "Your FL Studio AI now hears your mix, not just your words?",
+        "It analyzes your track's frequency clashes in real time.",
+        "The chatbot didn't just suggest; it auto-applied EQ cuts.",
+        "You keep creative control while it fixes muddy low end.",
+        "Let it master one loop tonight and hear the difference."
+      ],
+      "thread_text": [
+        "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+        "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+        "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+        "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+        "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+      ],
+      "video_script": [
+        "Your AI hears your mix, not just commands.",
+        "It finds frequency clashes in real time.",
+        "The chatbot auto-applied EQ cuts for you.",
+        "You keep creative control while mud clears.",
+        "Test it on one loop tonight."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+            "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+            "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+            "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+            "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI hears your mix, not just commands.",
+            "It finds frequency clashes in real time.",
+            "The chatbot auto-applied EQ cuts for you.",
+            "You keep creative control while mud clears.",
+            "Test it on one loop tonight."
+          ]
+        },
+        "instagram": {
+          "caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊"
+        }
+      },
+      "instagram_caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊",
+      "carousel_slides": [
+        {
+          "hook": "Your AI touched your mix.",
+          "description": "FL Studio's chatbot analyzes frequency clashes in real time and auto-applies EQ cuts.",
+          "visual_hint": "AI waveform overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "sound wave oscilloscope"
+        },
+        {
+          "hook": "It bypassed your hands.",
+          "description": "The chatbot fixes muddy low end by automatically cutting clashing frequencies.",
+          "visual_hint": "Hand withdrawing from knob",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "mixing console faders",
+          "image": "https://images.pexels.com/photos/8132710/pexels-photo-8132710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You still own creative control.",
+          "description": "The tool surgically removes clashing frequencies you didn't even hear.",
+          "visual_hint": "Knob with human and AI hands",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio equalizer bars",
+          "image": "https://images.pexels.com/photos/8132725/pexels-photo-8132725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mud vanishes in one loop.",
+          "description": "Master a loop tonight and hear the difference before finishing the track.",
+          "visual_hint": "Loop waveform cleaned up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "speaker grille close up",
+          "image": "https://images.pexels.com/photos/17753504/pexels-photo-17753504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it on your messiest beat.",
+          "description": "Load your muddiest project, master one loop, then decide if you'd undo the cut.",
+          "visual_hint": "Messy waveform vs clean",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer monitor FL Studio",
+          "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-07-09T17:49:42.722Z",
+      "sourceId": "6679fb3b7b960171cf7f67bf4e7c7944"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "popular-open-source-ai-developer-tool-ollama-raise",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "pubDate": "Thu, 09 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Ollama has millions of users—but can it make money?",
+        "It raised $65M to build a business around local AI.",
+        "Most users run models for free, not paying anything.",
+        "You can now self-host AI without cloud dependencies.",
+        "Test Ollama today before enterprise pricing arrives."
+      ],
+      "thread_text": [
+        "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+        "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+        "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+        "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+        "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+      ],
+      "video_script": [
+        "Ollama has millions of users, but zero revenue.",
+        "They raised 65 million dollars anyway.",
+        "Self-host your own AI now.",
+        "Enterprise pricing is coming soon.",
+        "Test it today before you pay."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+            "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+            "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+            "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+            "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ollama has millions of users, but zero revenue.",
+            "They raised 65 million dollars anyway.",
+            "Self-host your own AI now.",
+            "Enterprise pricing is coming soon.",
+            "Test it today before you pay."
+          ]
+        },
+        "instagram": {
+          "caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?"
+        }
+      },
+      "instagram_caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?",
+      "carousel_slides": [
+        {
+          "hook": "Free users won't pay.",
+          "description": "Ollama has 9 million users but most run models for free, creating a revenue gap.",
+          "visual_hint": "Piggy bank with coins",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "piggy bank coins"
+        },
+        {
+          "hook": "Escape cloud dependency now.",
+          "description": "Self-host AI locally with no monthly fees, cutting out provider lock-in entirely.",
+          "visual_hint": "Cloud with arrow down",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cloud computing server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprise pricing is coming.",
+          "description": "Ollama raised $65M to build paid tiers. Early adopters test before costs rise.",
+          "visual_hint": "Rising graph arrow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "How to survive on goodwill?",
+          "description": "With millions using free local AI, the business model relies on future enterprise upgrades.",
+          "visual_hint": "Hand holding question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand question mark",
+          "image": "https://images.pexels.com/photos/10988654/pexels-photo-10988654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Ollama free today.",
+          "description": "Run a model on your own machine this week before enterprise pricing locks in.",
+          "visual_hint": "Checkmark on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone check mark",
+          "image": "https://images.pexels.com/photos/8383882/pexels-photo-8383882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+      "savedAt": "2026-07-09T17:49:30.115Z",
+      "sourceId": "f8acfe428074a77f821e2c46ead18667"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-s-new-claude-feature-is-quietly-selling-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
+      "slides": [
+        "Can Claude sell your product without you saying a word?",
+        "Anthropic now embeds commerce links inside Claude's replies.",
+        "The AI doesn't just recommend—it completes the transaction.",
+        "Your customers skip your website entirely to buy instantly.",
+        "Test one purchase flow today before your competitors do."
+      ],
+      "thread_text": [
+        "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+        "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+        "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+        "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+        "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+      ],
+      "video_script": [
+        "Claude sells without you speaking.",
+        "Commerce links appear in replies now.",
+        "The AI completes the whole transaction.",
+        "Customers leave your website behind.",
+        "Test one purchase flow before rivals."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+            "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+            "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+            "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+            "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude sells without you speaking.",
+            "Commerce links appear in replies now.",
+            "The AI completes the whole transaction.",
+            "Customers leave your website behind.",
+            "Test one purchase flow before rivals."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖"
+        }
+      },
+      "instagram_caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖",
+      "carousel_slides": [
+        {
+          "hook": "Your website just became optional.",
+          "description": "Claude now embeds commerce links in replies. The transaction happens inside the chat, bypassing your site.",
+          "visual_hint": "Chat bubble with checkout button",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "online shopping cart"
+        },
+        {
+          "hook": "AI closes the deal instantly.",
+          "description": "Anthropic lets Claude complete purchases, not just recommend. Your entire funnel becomes unnecessary.",
+          "visual_hint": "Phone screen with payment confirmation",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "credit card payment",
+          "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Customers skip your landing page.",
+          "description": "No landing page, no cart. The journey ends where the recommendation started—inside the chat.",
+          "visual_hint": "Arrow skipping website directly to buy",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer mouse cursor",
+          "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust is now your product.",
+          "description": "If Claude recommends a competitor, you lose the sale with no chance to pitch back.",
+          "visual_hint": "Two chat bubbles with different brands",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake agreement",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test the flow.",
+          "description": "Simulate a one-click purchase through Claude's reply today—before your competitors do.",
+          "visual_hint": "Finger tapping buy now button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "savedAt": "2026-07-09T17:49:17.282Z",
+      "sourceId": "78b4dd47066f83bdce4b4a1b6b5c7a21"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nhs-ai-blood-test-could-reduce-invasive-womb-cance",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "An NHS AI blood test: could it replace painful biopsies?",
+        "It analyzes DNA methylation from a single blood draw.",
+        "Detects womb cancer with 95% accuracy in early trials.",
+        "Thousands of invasive checks may soon be avoided entirely.",
+        "Ask your GP if this test is available near you."
+      ],
+      "thread_text": [
+        "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+        "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+        "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+        "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+        "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+      ],
+      "video_script": [
+        "A blood test replaces painful biopsies.",
+        "It reads your DNA's methylation marks.",
+        "Womb cancer detected with 95% accuracy.",
+        "Thousands might avoid invasive checks.",
+        "Ask your doctor about the test."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+            "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+            "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+            "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+            "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A blood test replaces painful biopsies.",
+            "It reads your DNA's methylation marks.",
+            "Womb cancer detected with 95% accuracy.",
+            "Thousands might avoid invasive checks.",
+            "Ask your doctor about the test."
+          ]
+        },
+        "instagram": {
+          "caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬"
+        }
+      },
+      "instagram_caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬",
+      "carousel_slides": [
+        {
+          "hook": "What if a blood test replaces painful biopsies?",
+          "description": "A single blood draw detected womb cancer with 95% accuracy, potentially saving thousands from invasive checks.",
+          "visual_hint": "needle drawing blood",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "blood test tube"
+        },
+        {
+          "hook": "Your DNA holds a cancer timeline.",
+          "description": "Methylation changes in blood reveal tumors without cutting tissue, making biopsies obsolete for many.",
+          "visual_hint": "DNA strand with markers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "DNA molecule structure",
+          "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Thousands of invasive checks vanish.",
+          "description": "Painful biopsies could become history if this NHS AI test rolls out nationwide, backed by 95% accuracy.",
+          "visual_hint": "hospital corridor empty",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "doctor's office",
+          "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It caught 95% of cancers early.",
+          "description": "Detection at stage one means treatment starts months sooner, giving women a better chance.",
+          "visual_hint": "calendar with date circled",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calender on table",
+          "image": "https://images.pexels.com/photos/8580799/pexels-photo-8580799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your GP today.",
+          "description": "Check if the NHS AI blood test is available at your local clinic—one conversation could change everything.",
+          "visual_hint": "smartphone with clinic number",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone in hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4047150/pexels-photo-4047150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-09T17:49:03.701Z",
+      "sourceId": "4e52bcd448d0bd00cf1ff1ba6613bc55"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "with-eu-backing-quantumdiamonds-aims-to-speed-up-c",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -75750,6 +76166,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-di-riso-alla-messicana",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata di riso alla messicana",
+      "link": "https://ricette.giallozafferano.it/Insalata-di-riso-alla-messicana.html",
+      "pubDate": "Thu, 09 Jul 2026 16:28:00 +0200",
+      "content": "Insalata di riso alla messicana: ricetta fresca e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Insalata di riso alla messicana /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 15 min Dosi per: 4 persone Costo: Basso Nota + il tempo di raffreddamento in frigo (almeno 1 h) Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Cercate un’alternativa originale alla classica insalata di riso ? L' insalata di riso alla messicana si distingue per la sua esplosione di colori e sapori! Il punto di forza di questa ricetta sono i peperoni gialli e rossi scottati in agrodolce: sbollentandoli brevemente in una soluzione di acqua, aceto e zucchero non solo diventano più digeribili ma mantengono anche una consistenza croccante e succosa. I peperoni in agrodolce si uniscono ai fagioli rossi spadellati con il cipollotto e ai chicchi di mais dolce per un mix allegro e gustoso, mentre la scorza di lime richiama subito alla mente il profumo esotico della cucina messicana. Ideale da preparare in anticipo per un pranzo veloce o una schiscetta per l’ufficio, questa sfiziosa insalata di riso vegetariana è il piatto freddo estivo che stavate aspettando! Dopo aver provato l’insalata di riso alla messicana, sperimentate altre originali varianti: Insalata di riso tabbouleh Insalata di riso con verdure e arachidi Insalata di riso alla greca Mexican rice salad INGREDIENTI Riso parboiled 300 g Fagioli rossi precotti (peso sgocciolato) 150 g Cipollotto fresco 50 g Mais 100 g Scorza di lime q.b. Erba cipollina q.b. Olio extravergine d'oliva q.b. per i peperoni Peperoni rossi (da pulire) 300 g Peperoni gialli (da pulire) 300 g Acqua 500 g Aceto di mele 200 g Vino bianco 50 g Zucchero 50 g Olio extravergine d'oliva q.b. Origano q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di riso alla messicana Per preparare l’insalata di riso alla messicana, per prima cosa cuocete il riso in acqua bollente salata per il tempo indicato sulla confezione 1 . Nel frattempo mondate il cipollotto e affettatelo sottilmente 2 . Mettete il cipollotto in una padella con un filo di olio 3 e lasciatelo imbiondire a fuoco medio-basso. Unite i fagioli rossi 4 e rosolate il tutto per qualche minuto, mescolando spesso 5 , poi tenete da parte. Trascorso il tempo di cottura del riso, scolatelo in una ciotola capiente 6 e lasciate raffreddare. Intanto occupatevi dei peperoni: divideteli a metà per il lungo 7 ed eliminate la buccia con un pelatate 8 . Tagliateli prima a striscioline e poi a cubetti di mezzo centimetro 9 . Fate la stessa cosa anche con i peperoni gialli. In un pentolino versate l’acqua, il vino bianco 10 e l’aceto di mele 11 . Aggiungete anche lo zucchero 12 e portate a bollore. Tuffate i peperoni e lasciate sobbollire per circa 3 minuti 13 , poi scolateli in una ciotola 14 . Condite con olio, sale e pepe 15 . Aromatizzate con l’origano 16 e mescolate 17 . A questo punto il riso si sarà raffreddato, quindi unite i peperoni 18 . Aggiungete anche il mais 19 e i fagioli con il cipollotto 20 , poi profumate con la scorza di limone grattugiata 21 . Infine guarnite con l’erba cipollina 22 e amalgamate bene il tutto 23 . Lasciate insaporire in frigorifero per almeno un’ora, dopodiché la vostra insalata di riso alla messicana è pronta per essere servita 24 ! Conservazione L’insalata di riso alla messicana si può conservare in frigorifero per 3 giorni. Consiglio Preparate l’insalata di riso il giorno prima per un sapore più deciso. Sostituite l'erba cipollina con coriandolo fresco per accentuare ulteriormente l'ispirazione messicana di questa ricetta! In alternativa, potete utilizzare il prezzemolo o la parte verde del cipollotto tagliata a rondelle. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagioli Zucchero Mais Peperoni Olio di oliva Origano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Insalata di riso alla messicana Mousse al cioccolato fondente veloce 5.0 Benessere Pomodorini marinati al basilico 4.8 SCOPRI Insalata messicana Insalata di riso vegetariana Riso all insalata Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata di riso messicana, colorata e saporita.",
+        "Riso, peperoni rossi e gialli, fagioli, mais.",
+        "Sbollenta i peperoni in agrodolce per 3 minuti.",
+        "Unisci riso freddo, peperoni, fagioli, mais e lime.",
+        "Lascia riposare in frigo almeno un'ora."
+      ],
+      "instagram_caption": "Un’esplosione di colori e sapori che sa di festa. 🎉\n\nQuesta insalata di riso alla messicana è il piatto perfetto per chi ama i contrasti: il dolce dei peperoni appena scottati in agrodolce, la croccantezza del mais, la morbidezza dei fagioli e la freschezza del lime che lega tutto. Il riso freddo assorbe ogni aroma, e dopo un’oretta in frigo diventa semplicemente irresistibile. Io l’ho già rifatta tre volte.\n\nProvala questo weekend, non te ne pentirai. 🌽🌶️",
+      "formats": {
+        "instagram": {
+          "caption": "Un’esplosione di colori e sapori che sa di festa. 🎉\n\nQuesta insalata di riso alla messicana è il piatto perfetto per chi ama i contrasti: il dolce dei peperoni appena scottati in agrodolce, la croccantezza del mais, la morbidezza dei fagioli e la freschezza del lime che lega tutto. Il riso freddo assorbe ogni aroma, e dopo un’oretta in frigo diventa semplicemente irresistibile. Io l’ho già rifatta tre volte.\n\nProvala questo weekend, non te ne pentirai. 🌽🌶️"
+        },
+        "tiktok": {
+          "script": [
+            "Ecco l’insalata di riso messicana, colorata e saporita.",
+            "Prendo riso, peperoni rossi e gialli, fagioli e mais.",
+            "Sbollento i peperoni in agrodolce per tre minuti.",
+            "Unisco riso freddo, peperoni, fagioli, mais e lime.",
+            "Lascio riposare in frigo almeno un'ora ed è pronta."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Questa insalata di riso è un pugno di colori e sapori che ti fa dimenticare la solita triste ciotola. Messicana, fresca, e ti giuro che sparisce in un attimo.",
+            "Riso, peperoni rossi e gialli, fagioli neri, mais dolce. Una combo che sembra fatta per l'estate, ma funziona sempre.",
+            "Il trucco? Sbollenti i peperoni in agrodolce per 3 minuti: prendono vita, diventano brillanti e leggermente caramellati. Cambia tutto.",
+            "Riso freddo, peperoni, fagioli, mais. Una spruzzata di lime che sveglia ogni ingrediente. Mescola e metti in frigo almeno un'ora.",
+            "Il segreto è farla riposare: i sapori si fondono, il lime si spande. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Ecco l’insalata di riso messicana, colorata e saporita.",
+        "Prendo riso, peperoni rossi e gialli, fagioli e mais.",
+        "Sbollento i peperoni in agrodolce per tre minuti.",
+        "Unisco riso freddo, peperoni, fagioli, mais e lime.",
+        "Lascio riposare in frigo almeno un'ora ed è pronta."
+      ],
+      "thread_text": [
+        "Questa insalata di riso è un pugno di colori e sapori che ti fa dimenticare la solita triste ciotola. Messicana, fresca, e ti giuro che sparisce in un attimo.",
+        "Riso, peperoni rossi e gialli, fagioli neri, mais dolce. Una combo che sembra fatta per l'estate, ma funziona sempre.",
+        "Il trucco? Sbollenti i peperoni in agrodolce per 3 minuti: prendono vita, diventano brillanti e leggermente caramellati. Cambia tutto.",
+        "Riso freddo, peperoni, fagioli, mais. Una spruzzata di lime che sveglia ogni ingrediente. Mescola e metti in frigo almeno un'ora.",
+        "Il segreto è farla riposare: i sapori si fondono, il lime si spande. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata di riso messicana colorata e saporita",
+          "description": "Un'insalata fresca e ricca, perfetta per un pranzo estivo o un picnic.",
+          "visual_hint": "Ciotola colma e colorata",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory mexican rice salad bowl"
+        },
+        {
+          "hook": "Ingredienti essenziali",
+          "description": "Riso, peperoni rossi e gialli, fagioli e mais: il cuore messicano del piatto.",
+          "visual_hint": "Ingredienti disposti a ventaglio",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory rice peppers beans corn",
+          "image": "https://images.pexels.com/photos/6065705/pexels-photo-6065705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sbollenta i peperoni",
+          "description": "Immergi i peperoni in acqua agrodolce bollente per 3 minuti: esalti il sapore senza amaro.",
+          "visual_hint": "Peperoni che bollono in pentola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory boiling peppers pot",
+          "image": "https://images.pexels.com/photos/4871233/pexels-photo-4871233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unisci e mescola",
+          "description": "Riso freddo, peperoni scolati, fagioli, mais e succo di lime: amalgama con cura.",
+          "visual_hint": "Mani che mescolano in una ciotola",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory mixing rice salad hands",
+          "image": "https://images.pexels.com/photos/7129434/pexels-photo-7129434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Riposo in frigo, poi servi",
+          "description": "Lascia riposare almeno un'ora in frigo: i sapori si fondono alla perfezione.",
+          "visual_hint": "Ciotola coperta in frigo, poi porzione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory mexican rice salad serving",
+          "image": "https://images.pexels.com/photos/29414984/pexels-photo-29414984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "riso",
+        "peperoni",
+        "fagioli"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36437/Insalata-di-riso-alla-messicana_650x433_wm.jpg",
+      "savedAt": "2026-07-09T17:53:26.702Z",
+      "sourceId": "3f4a8d8c2dd3f8e59160b44de2d91517"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-di-riso-alla-messicana",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata di riso alla messicana",
+    "link": "https://ricette.giallozafferano.it/Insalata-di-riso-alla-messicana.html",
+    "pubDate": "Thu, 09 Jul 2026 16:28:00 +0200",
+    "content": "Insalata di riso alla messicana: ricetta fresca e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Insalata di riso alla messicana /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 15 min Dosi per: 4 persone Costo: Basso Nota + il tempo di raffreddamento in frigo (almeno 1 h) Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Cercate un’alternativa originale alla classica insalata di riso ? L' insalata di riso alla messicana si distingue per la sua esplosione di colori e sapori! Il punto di forza di questa ricetta sono i peperoni gialli e rossi scottati in agrodolce: sbollentandoli brevemente in una soluzione di acqua, aceto e zucchero non solo diventano più digeribili ma mantengono anche una consistenza croccante e succosa. I peperoni in agrodolce si uniscono ai fagioli rossi spadellati con il cipollotto e ai chicchi di mais dolce per un mix allegro e gustoso, mentre la scorza di lime richiama subito alla mente il profumo esotico della cucina messicana. Ideale da preparare in anticipo per un pranzo veloce o una schiscetta per l’ufficio, questa sfiziosa insalata di riso vegetariana è il piatto freddo estivo che stavate aspettando! Dopo aver provato l’insalata di riso alla messicana, sperimentate altre originali varianti: Insalata di riso tabbouleh Insalata di riso con verdure e arachidi Insalata di riso alla greca Mexican rice salad INGREDIENTI Riso parboiled 300 g Fagioli rossi precotti (peso sgocciolato) 150 g Cipollotto fresco 50 g Mais 100 g Scorza di lime q.b. Erba cipollina q.b. Olio extravergine d'oliva q.b. per i peperoni Peperoni rossi (da pulire) 300 g Peperoni gialli (da pulire) 300 g Acqua 500 g Aceto di mele 200 g Vino bianco 50 g Zucchero 50 g Olio extravergine d'oliva q.b. Origano q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di riso alla messicana Per preparare l’insalata di riso alla messicana, per prima cosa cuocete il riso in acqua bollente salata per il tempo indicato sulla confezione 1 . Nel frattempo mondate il cipollotto e affettatelo sottilmente 2 . Mettete il cipollotto in una padella con un filo di olio 3 e lasciatelo imbiondire a fuoco medio-basso. Unite i fagioli rossi 4 e rosolate il tutto per qualche minuto, mescolando spesso 5 , poi tenete da parte. Trascorso il tempo di cottura del riso, scolatelo in una ciotola capiente 6 e lasciate raffreddare. Intanto occupatevi dei peperoni: divideteli a metà per il lungo 7 ed eliminate la buccia con un pelatate 8 . Tagliateli prima a striscioline e poi a cubetti di mezzo centimetro 9 . Fate la stessa cosa anche con i peperoni gialli. In un pentolino versate l’acqua, il vino bianco 10 e l’aceto di mele 11 . Aggiungete anche lo zucchero 12 e portate a bollore. Tuffate i peperoni e lasciate sobbollire per circa 3 minuti 13 , poi scolateli in una ciotola 14 . Condite con olio, sale e pepe 15 . Aromatizzate con l’origano 16 e mescolate 17 . A questo punto il riso si sarà raffreddato, quindi unite i peperoni 18 . Aggiungete anche il mais 19 e i fagioli con il cipollotto 20 , poi profumate con la scorza di limone grattugiata 21 . Infine guarnite con l’erba cipollina 22 e amalgamate bene il tutto 23 . Lasciate insaporire in frigorifero per almeno un’ora, dopodiché la vostra insalata di riso alla messicana è pronta per essere servita 24 ! Conservazione L’insalata di riso alla messicana si può conservare in frigorifero per 3 giorni. Consiglio Preparate l’insalata di riso il giorno prima per un sapore più deciso. Sostituite l'erba cipollina con coriandolo fresco per accentuare ulteriormente l'ispirazione messicana di questa ricetta! In alternativa, potete utilizzare il prezzemolo o la parte verde del cipollotto tagliata a rondelle. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Fagioli Zucchero Mais Peperoni Olio di oliva Origano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Insalata di riso alla messicana Mousse al cioccolato fondente veloce 5.0 Benessere Pomodorini marinati al basilico 4.8 SCOPRI Insalata messicana Insalata di riso vegetariana Riso all insalata Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata di riso messicana, colorata e saporita.",
+      "Riso, peperoni rossi e gialli, fagioli, mais.",
+      "Sbollenta i peperoni in agrodolce per 3 minuti.",
+      "Unisci riso freddo, peperoni, fagioli, mais e lime.",
+      "Lascia riposare in frigo almeno un'ora."
+    ],
+    "instagram_caption": "Un’esplosione di colori e sapori che sa di festa. 🎉\n\nQuesta insalata di riso alla messicana è il piatto perfetto per chi ama i contrasti: il dolce dei peperoni appena scottati in agrodolce, la croccantezza del mais, la morbidezza dei fagioli e la freschezza del lime che lega tutto. Il riso freddo assorbe ogni aroma, e dopo un’oretta in frigo diventa semplicemente irresistibile. Io l’ho già rifatta tre volte.\n\nProvala questo weekend, non te ne pentirai. 🌽🌶️",
+    "formats": {
+      "instagram": {
+        "caption": "Un’esplosione di colori e sapori che sa di festa. 🎉\n\nQuesta insalata di riso alla messicana è il piatto perfetto per chi ama i contrasti: il dolce dei peperoni appena scottati in agrodolce, la croccantezza del mais, la morbidezza dei fagioli e la freschezza del lime che lega tutto. Il riso freddo assorbe ogni aroma, e dopo un’oretta in frigo diventa semplicemente irresistibile. Io l’ho già rifatta tre volte.\n\nProvala questo weekend, non te ne pentirai. 🌽🌶️"
+      },
+      "tiktok": {
+        "script": [
+          "Ecco l’insalata di riso messicana, colorata e saporita.",
+          "Prendo riso, peperoni rossi e gialli, fagioli e mais.",
+          "Sbollento i peperoni in agrodolce per tre minuti.",
+          "Unisco riso freddo, peperoni, fagioli, mais e lime.",
+          "Lascio riposare in frigo almeno un'ora ed è pronta."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Questa insalata di riso è un pugno di colori e sapori che ti fa dimenticare la solita triste ciotola. Messicana, fresca, e ti giuro che sparisce in un attimo.",
+          "Riso, peperoni rossi e gialli, fagioli neri, mais dolce. Una combo che sembra fatta per l'estate, ma funziona sempre.",
+          "Il trucco? Sbollenti i peperoni in agrodolce per 3 minuti: prendono vita, diventano brillanti e leggermente caramellati. Cambia tutto.",
+          "Riso freddo, peperoni, fagioli, mais. Una spruzzata di lime che sveglia ogni ingrediente. Mescola e metti in frigo almeno un'ora.",
+          "Il segreto è farla riposare: i sapori si fondono, il lime si spande. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Ecco l’insalata di riso messicana, colorata e saporita.",
+      "Prendo riso, peperoni rossi e gialli, fagioli e mais.",
+      "Sbollento i peperoni in agrodolce per tre minuti.",
+      "Unisco riso freddo, peperoni, fagioli, mais e lime.",
+      "Lascio riposare in frigo almeno un'ora ed è pronta."
+    ],
+    "thread_text": [
+      "Questa insalata di riso è un pugno di colori e sapori che ti fa dimenticare la solita triste ciotola. Messicana, fresca, e ti giuro che sparisce in un attimo.",
+      "Riso, peperoni rossi e gialli, fagioli neri, mais dolce. Una combo che sembra fatta per l'estate, ma funziona sempre.",
+      "Il trucco? Sbollenti i peperoni in agrodolce per 3 minuti: prendono vita, diventano brillanti e leggermente caramellati. Cambia tutto.",
+      "Riso freddo, peperoni, fagioli, mais. Una spruzzata di lime che sveglia ogni ingrediente. Mescola e metti in frigo almeno un'ora.",
+      "Il segreto è farla riposare: i sapori si fondono, il lime si spande. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Insalata di riso messicana colorata e saporita",
+        "description": "Un'insalata fresca e ricca, perfetta per un pranzo estivo o un picnic.",
+        "visual_hint": "Ciotola colma e colorata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory mexican rice salad bowl"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Riso, peperoni rossi e gialli, fagioli e mais: il cuore messicano del piatto.",
+        "visual_hint": "Ingredienti disposti a ventaglio",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory rice peppers beans corn",
+        "image": "https://images.pexels.com/photos/6065705/pexels-photo-6065705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sbollenta i peperoni",
+        "description": "Immergi i peperoni in acqua agrodolce bollente per 3 minuti: esalti il sapore senza amaro.",
+        "visual_hint": "Peperoni che bollono in pentola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory boiling peppers pot",
+        "image": "https://images.pexels.com/photos/4871233/pexels-photo-4871233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unisci e mescola",
+        "description": "Riso freddo, peperoni scolati, fagioli, mais e succo di lime: amalgama con cura.",
+        "visual_hint": "Mani che mescolano in una ciotola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory mixing rice salad hands",
+        "image": "https://images.pexels.com/photos/7129434/pexels-photo-7129434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Riposo in frigo, poi servi",
+        "description": "Lascia riposare almeno un'ora in frigo: i sapori si fondono alla perfezione.",
+        "visual_hint": "Ciotola coperta in frigo, poi porzione",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory mexican rice salad serving",
+        "image": "https://images.pexels.com/photos/29414984/pexels-photo-29414984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "riso",
+      "peperoni",
+      "fagioli"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36437/Insalata-di-riso-alla-messicana_650x433_wm.jpg",
+    "savedAt": "2026-07-09T17:53:26.702Z",
+    "sourceId": "3f4a8d8c2dd3f8e59160b44de2d91517"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pesce-spada-alla-griglia",
     "prompt_version": "1.0.0",
     "status": "published",

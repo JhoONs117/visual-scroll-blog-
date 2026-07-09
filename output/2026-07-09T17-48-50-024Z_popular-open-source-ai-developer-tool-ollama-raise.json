@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "popular-open-source-ai-developer-tool-ollama-raise",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+  "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+  "pubDate": "Thu, 09 Jul 2026 13:00:00 +0000",
+  "slides": [
+    "Ollama has millions of users—but can it make money?",
+    "It raised $65M to build a business around local AI.",
+    "Most users run models for free, not paying anything.",
+    "You can now self-host AI without cloud dependencies.",
+    "Test Ollama today before enterprise pricing arrives."
+  ],
+  "thread_text": [
+    "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+    "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+    "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+    "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+    "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+  ],
+  "video_script": [
+    "Ollama has millions of users, but zero revenue.",
+    "They raised 65 million dollars anyway.",
+    "Self-host your own AI now.",
+    "Enterprise pricing is coming soon.",
+    "Test it today before you pay."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+        "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+        "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+        "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+        "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ollama has millions of users, but zero revenue.",
+        "They raised 65 million dollars anyway.",
+        "Self-host your own AI now.",
+        "Enterprise pricing is coming soon.",
+        "Test it today before you pay."
+      ]
+    },
+    "instagram": {
+      "caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?"
+    }
+  },
+  "instagram_caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?",
+  "carousel_slides": [
+    {
+      "hook": "Free users won't pay.",
+      "description": "Ollama has 9 million users but most run models for free, creating a revenue gap.",
+      "visual_hint": "Piggy bank with coins",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "piggy bank coins"
+    },
+    {
+      "hook": "Escape cloud dependency now.",
+      "description": "Self-host AI locally with no monthly fees, cutting out provider lock-in entirely.",
+      "visual_hint": "Cloud with arrow down",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cloud computing server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprise pricing is coming.",
+      "description": "Ollama raised $65M to build paid tiers. Early adopters test before costs rise.",
+      "visual_hint": "Rising graph arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How to survive on goodwill?",
+      "description": "With millions using free local AI, the business model relies on future enterprise upgrades.",
+      "visual_hint": "Hand holding question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand question mark",
+      "image": "https://images.pexels.com/photos/10988654/pexels-photo-10988654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Ollama free today.",
+      "description": "Run a model on your own machine this week before enterprise pricing locks in.",
+      "visual_hint": "Checkmark on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone check mark",
+      "image": "https://images.pexels.com/photos/8383882/pexels-photo-8383882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+  "savedAt": "2026-07-09T17:49:30.115Z",
+  "sourceId": "f8acfe428074a77f821e2c46ead18667"
+}

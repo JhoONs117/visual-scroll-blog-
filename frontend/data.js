@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "fl-studio-2026-turns-its-ai-chatbot-into-your-assi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+    "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+    "pubDate": "2026-07-09T13:00:00.000Z",
+    "slides": [
+      "Your FL Studio AI now hears your mix, not just your words?",
+      "It analyzes your track's frequency clashes in real time.",
+      "The chatbot didn't just suggest; it auto-applied EQ cuts.",
+      "You keep creative control while it fixes muddy low end.",
+      "Let it master one loop tonight and hear the difference."
+    ],
+    "thread_text": [
+      "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+      "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+      "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+      "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+      "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+    ],
+    "video_script": [
+      "Your AI hears your mix, not just commands.",
+      "It finds frequency clashes in real time.",
+      "The chatbot auto-applied EQ cuts for you.",
+      "You keep creative control while mud clears.",
+      "Test it on one loop tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+          "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+          "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+          "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+          "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI hears your mix, not just commands.",
+          "It finds frequency clashes in real time.",
+          "The chatbot auto-applied EQ cuts for you.",
+          "You keep creative control while mud clears.",
+          "Test it on one loop tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊"
+      }
+    },
+    "instagram_caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊",
+    "carousel_slides": [
+      {
+        "hook": "Your AI touched your mix.",
+        "description": "FL Studio's chatbot analyzes frequency clashes in real time and auto-applies EQ cuts.",
+        "visual_hint": "AI waveform overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sound wave oscilloscope"
+      },
+      {
+        "hook": "It bypassed your hands.",
+        "description": "The chatbot fixes muddy low end by automatically cutting clashing frequencies.",
+        "visual_hint": "Hand withdrawing from knob",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mixing console faders",
+        "image": "https://images.pexels.com/photos/8132710/pexels-photo-8132710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You still own creative control.",
+        "description": "The tool surgically removes clashing frequencies you didn't even hear.",
+        "visual_hint": "Knob with human and AI hands",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "audio equalizer bars",
+        "image": "https://images.pexels.com/photos/8132725/pexels-photo-8132725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mud vanishes in one loop.",
+        "description": "Master a loop tonight and hear the difference before finishing the track.",
+        "visual_hint": "Loop waveform cleaned up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "speaker grille close up",
+        "image": "https://images.pexels.com/photos/17753504/pexels-photo-17753504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on your messiest beat.",
+        "description": "Load your muddiest project, master one loop, then decide if you'd undo the cut.",
+        "visual_hint": "Messy waveform vs clean",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer monitor FL Studio",
+        "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-07-09T17:49:42.722Z",
+    "sourceId": "6679fb3b7b960171cf7f67bf4e7c7944"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "popular-open-source-ai-developer-tool-ollama-raise",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "pubDate": "Thu, 09 Jul 2026 13:00:00 +0000",
+    "slides": [
+      "Ollama has millions of users—but can it make money?",
+      "It raised $65M to build a business around local AI.",
+      "Most users run models for free, not paying anything.",
+      "You can now self-host AI without cloud dependencies.",
+      "Test Ollama today before enterprise pricing arrives."
+    ],
+    "thread_text": [
+      "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+      "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+      "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+      "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+      "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+    ],
+    "video_script": [
+      "Ollama has millions of users, but zero revenue.",
+      "They raised 65 million dollars anyway.",
+      "Self-host your own AI now.",
+      "Enterprise pricing is coming soon.",
+      "Test it today before you pay."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can free users pay the bills?\n\nOllama raised $65M to monetize local AI, but millions run models for free.",
+          "2. The cloud escape\n\nSelf-hosting cuts out monthly fees—no provider dependency for your AI stack.",
+          "3. Enterprise bait\n\nPaid tiers are coming. Early adopters test today before pricing locks in.",
+          "4. The revenue gap\n\nMost users never pay. How does a local AI business survive on goodwill?",
+          "5. Your move\n\nRun a model on your own machine this week. If it works, will you pay when the meter starts?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ollama has millions of users, but zero revenue.",
+          "They raised 65 million dollars anyway.",
+          "Self-host your own AI now.",
+          "Enterprise pricing is coming soon.",
+          "Test it today before you pay."
+        ]
+      },
+      "instagram": {
+        "caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?"
+      }
+    },
+    "instagram_caption": "9 million people run Ollama for free, but the company just raised $65 million to build a business around local AI.\n\nSelf-hosting means you skip cloud fees and keep models entirely on your machine. Paid enterprise tiers are coming soon — free usage won't last forever.\n\nIf you create content or run tools locally, your current cost is zero. That changes when the meter starts.\n\nRun a model on your own machine this week. When Ollama charges, will you pay or switch?",
+    "carousel_slides": [
+      {
+        "hook": "Free users won't pay.",
+        "description": "Ollama has 9 million users but most run models for free, creating a revenue gap.",
+        "visual_hint": "Piggy bank with coins",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "piggy bank coins"
+      },
+      {
+        "hook": "Escape cloud dependency now.",
+        "description": "Self-host AI locally with no monthly fees, cutting out provider lock-in entirely.",
+        "visual_hint": "Cloud with arrow down",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cloud computing server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Enterprise pricing is coming.",
+        "description": "Ollama raised $65M to build paid tiers. Early adopters test before costs rise.",
+        "visual_hint": "Rising graph arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How to survive on goodwill?",
+        "description": "With millions using free local AI, the business model relies on future enterprise upgrades.",
+        "visual_hint": "Hand holding question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand question mark",
+        "image": "https://images.pexels.com/photos/10988654/pexels-photo-10988654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Ollama free today.",
+        "description": "Run a model on your own machine this week before enterprise pricing locks in.",
+        "visual_hint": "Checkmark on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone check mark",
+        "image": "https://images.pexels.com/photos/8383882/pexels-photo-8383882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+    "savedAt": "2026-07-09T17:49:30.115Z",
+    "sourceId": "f8acfe428074a77f821e2c46ead18667"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-s-new-claude-feature-is-quietly-selling-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
+    "slides": [
+      "Can Claude sell your product without you saying a word?",
+      "Anthropic now embeds commerce links inside Claude's replies.",
+      "The AI doesn't just recommend—it completes the transaction.",
+      "Your customers skip your website entirely to buy instantly.",
+      "Test one purchase flow today before your competitors do."
+    ],
+    "thread_text": [
+      "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+      "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+      "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+      "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+      "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+    ],
+    "video_script": [
+      "Claude sells without you speaking.",
+      "Commerce links appear in replies now.",
+      "The AI completes the whole transaction.",
+      "Customers leave your website behind.",
+      "Test one purchase flow before rivals."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your buyer won't even visit you\n\nClaude now embeds commerce links in replies. The transaction happens inside the chat.",
+          "2. The AI closes the deal\n\nAnthropic lets Claude complete purchases, not just recommend. Your site becomes optional.",
+          "3. Customer skips your entire funnel\n\nNo landing page, no cart. The journey ends where the recommendation started.",
+          "4. Trust is now the product\n\nIf Claude recommends a competitor, you lose the sale without a chance to pitch back.",
+          "5. Test a one-click purchase flow today\n\nSimulate a transaction through Claude's reply. If you haven't, start before a competitor does."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude sells without you speaking.",
+          "Commerce links appear in replies now.",
+          "The AI completes the whole transaction.",
+          "Customers leave your website behind.",
+          "Test one purchase flow before rivals."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖"
+      }
+    },
+    "instagram_caption": "Your next customer could buy from you without ever touching your website.  \nAnthropic just let Claude embed commerce links directly in replies.  \nThe AI doesn’t just recommend your product—it completes the purchase inside the chat.  \nYour entire sales funnel becomes optional.  \n\nIf Claude suggests a competitor instead, you lose the sale before you get a chance to pitch.  \nTrust is now where the transaction happens.  \n\nHave you tested what happens when someone clicks “buy” straight from Claude’s reply? 🛒🤖",
+    "carousel_slides": [
+      {
+        "hook": "Your website just became optional.",
+        "description": "Claude now embeds commerce links in replies. The transaction happens inside the chat, bypassing your site.",
+        "visual_hint": "Chat bubble with checkout button",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "online shopping cart"
+      },
+      {
+        "hook": "AI closes the deal instantly.",
+        "description": "Anthropic lets Claude complete purchases, not just recommend. Your entire funnel becomes unnecessary.",
+        "visual_hint": "Phone screen with payment confirmation",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "credit card payment",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Customers skip your landing page.",
+        "description": "No landing page, no cart. The journey ends where the recommendation started—inside the chat.",
+        "visual_hint": "Arrow skipping website directly to buy",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer mouse cursor",
+        "image": "https://images.pexels.com/photos/7240353/pexels-photo-7240353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust is now your product.",
+        "description": "If Claude recommends a competitor, you lose the sale with no chance to pitch back.",
+        "visual_hint": "Two chat bubbles with different brands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake agreement",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test the flow.",
+        "description": "Simulate a one-click purchase through Claude's reply today—before your competitors do.",
+        "visual_hint": "Finger tapping buy now button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger pressing button",
+        "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "savedAt": "2026-07-09T17:49:17.282Z",
+    "sourceId": "78b4dd47066f83bdce4b4a1b6b5c7a21"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nhs-ai-blood-test-could-reduce-invasive-womb-cance",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "link": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "An NHS AI blood test: could it replace painful biopsies?",
+      "It analyzes DNA methylation from a single blood draw.",
+      "Detects womb cancer with 95% accuracy in early trials.",
+      "Thousands of invasive checks may soon be avoided entirely.",
+      "Ask your GP if this test is available near you."
+    ],
+    "thread_text": [
+      "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+      "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+      "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+      "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+      "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+    ],
+    "video_script": [
+      "A blood test replaces painful biopsies.",
+      "It reads your DNA's methylation marks.",
+      "Womb cancer detected with 95% accuracy.",
+      "Thousands might avoid invasive checks.",
+      "Ask your doctor about the test."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "The needle that sees cancer.\n\nA single blood draw analyzed methylation patterns with 95% accuracy in early trials for womb cancer.",
+          "Your DNA holds a chemical timeline.\n\nMethylation changes reveal tumor presence without cutting tissue—no biopsy needed.",
+          "Thousands of invasive checks vanish.\n\nPainful biopsies could become obsolete if this NHS test rolls out nationally.",
+          "The twist: it caught 95% early.\n\nDetection at stage one means treatment starts months sooner for many women.",
+          "Check your GP today.\n\nAsk if the NHS AI blood test is available at your local clinic."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A blood test replaces painful biopsies.",
+          "It reads your DNA's methylation marks.",
+          "Womb cancer detected with 95% accuracy.",
+          "Thousands might avoid invasive checks.",
+          "Ask your doctor about the test."
+        ]
+      },
+      "instagram": {
+        "caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬"
+      }
+    },
+    "instagram_caption": "A single blood draw just detected womb cancer with 95% accuracy in early NHS trials.\n\nThis AI test analyzes DNA methylation patterns from your blood—replacing the need for painful biopsies. Thousands of invasive checks could be avoided entirely.\n\nFor anyone creating health content, this means the biopsy narrative shifts to a blood-based standard soon.\n\nIs your GP offering this test yet, or are you still waiting for painful checks? 🔬🩸🧬",
+    "carousel_slides": [
+      {
+        "hook": "What if a blood test replaces painful biopsies?",
+        "description": "A single blood draw detected womb cancer with 95% accuracy, potentially saving thousands from invasive checks.",
+        "visual_hint": "needle drawing blood",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blood test tube"
+      },
+      {
+        "hook": "Your DNA holds a cancer timeline.",
+        "description": "Methylation changes in blood reveal tumors without cutting tissue, making biopsies obsolete for many.",
+        "visual_hint": "DNA strand with markers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "DNA molecule structure",
+        "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Thousands of invasive checks vanish.",
+        "description": "Painful biopsies could become history if this NHS AI test rolls out nationwide, backed by 95% accuracy.",
+        "visual_hint": "hospital corridor empty",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "doctor's office",
+        "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It caught 95% of cancers early.",
+        "description": "Detection at stage one means treatment starts months sooner, giving women a better chance.",
+        "visual_hint": "calendar with date circled",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calender on table",
+        "image": "https://images.pexels.com/photos/8580799/pexels-photo-8580799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: ask your GP today.",
+        "description": "Check if the NHS AI blood test is available at your local clinic—one conversation could change everything.",
+        "visual_hint": "smartphone with clinic number",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone in hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/4047150/pexels-photo-4047150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-09T17:49:03.701Z",
+    "sourceId": "4e52bcd448d0bd00cf1ff1ba6613bc55"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "with-eu-backing-quantumdiamonds-aims-to-speed-up-c",
     "prompt_version": "1.0.0",
     "status": "published",

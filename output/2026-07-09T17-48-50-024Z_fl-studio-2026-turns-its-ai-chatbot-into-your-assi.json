@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fl-studio-2026-turns-its-ai-chatbot-into-your-assi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+  "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+  "pubDate": "2026-07-09T13:00:00.000Z",
+  "slides": [
+    "Your FL Studio AI now hears your mix, not just your words?",
+    "It analyzes your track's frequency clashes in real time.",
+    "The chatbot didn't just suggest; it auto-applied EQ cuts.",
+    "You keep creative control while it fixes muddy low end.",
+    "Let it master one loop tonight and hear the difference."
+  ],
+  "thread_text": [
+    "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+    "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+    "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+    "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+    "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+  ],
+  "video_script": [
+    "Your AI hears your mix, not just commands.",
+    "It finds frequency clashes in real time.",
+    "The chatbot auto-applied EQ cuts for you.",
+    "You keep creative control while mud clears.",
+    "Test it on one loop tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI is touching your mix.\n\nThe FL Studio plugin doesn't just hear your instructions—it analyzes frequency clashes in real time and acts on them.",
+        "2. It bypasses your hand.\n\nThe chatbot auto-applied EQ cuts to fix the muddy low end without waiting for your confirmation.",
+        "3. You still own the final call.\n\nCreative control stays yours—even while the tool surgically removes clashing frequencies you didn't hear.",
+        "4. Mud is gone in one loop.\n\nIt masters a single loop tonight so you hear the difference before you even finish the track.",
+        "5. Test it on your messiest beat.\n\nLoad your muddiest project, let it master one loop, and ask yourself: would you undo the cut?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI hears your mix, not just commands.",
+        "It finds frequency clashes in real time.",
+        "The chatbot auto-applied EQ cuts for you.",
+        "You keep creative control while mud clears.",
+        "Test it on one loop tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊"
+    }
+  },
+  "instagram_caption": "Your FL Studio chatbot just reached into your mix and fixed it without waiting for you to say yes.\n\nIt hears frequency clashes in real time, then auto-applies EQ cuts to remove muddy low end. You still keep creative control—it’s like a silent engineer working while you listen.\n\nNow a single loop can be mastered before you even finish the track, saving hours of tweaking.\n\nLoad your messiest beat tonight 😬—let it master one loop. Would you undo the cut? 🎧🔊",
+  "carousel_slides": [
+    {
+      "hook": "Your AI touched your mix.",
+      "description": "FL Studio's chatbot analyzes frequency clashes in real time and auto-applies EQ cuts.",
+      "visual_hint": "AI waveform overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sound wave oscilloscope"
+    },
+    {
+      "hook": "It bypassed your hands.",
+      "description": "The chatbot fixes muddy low end by automatically cutting clashing frequencies.",
+      "visual_hint": "Hand withdrawing from knob",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mixing console faders",
+      "image": "https://images.pexels.com/photos/8132710/pexels-photo-8132710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You still own creative control.",
+      "description": "The tool surgically removes clashing frequencies you didn't even hear.",
+      "visual_hint": "Knob with human and AI hands",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio equalizer bars",
+      "image": "https://images.pexels.com/photos/8132725/pexels-photo-8132725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mud vanishes in one loop.",
+      "description": "Master a loop tonight and hear the difference before finishing the track.",
+      "visual_hint": "Loop waveform cleaned up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "speaker grille close up",
+      "image": "https://images.pexels.com/photos/17753504/pexels-photo-17753504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on your messiest beat.",
+      "description": "Load your muddiest project, master one loop, then decide if you'd undo the cut.",
+      "visual_hint": "Messy waveform vs clean",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer monitor FL Studio",
+      "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-07-09T17:49:42.722Z",
+  "sourceId": "6679fb3b7b960171cf7f67bf4e7c7944"
+}
