@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "paris-based-ai-voice-startup-gradium-raises-100m-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+  "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+  "pubDate": "Thu, 09 Jul 2026 18:34:35 +0000",
+  "slides": [
+    "Gradium just raised $100M — why so early?",
+    "Nvidia led the round, betting on voice AI.",
+    "Most voice startups fail within two years.",
+    "Gradium's tech cuts latency below human reaction.",
+    "Test a voice demo now — before competitors do."
+  ],
+  "thread_text": [
+    "1. $100M before revenue?\n\nGradium has no public revenue. Nvidia just led the Series A anyway.",
+    "2. 90% voice startups die.\n\nMost voice AI companies collapse within two years. Gradium's bet is on speed.",
+    "3. Latency below human reaction.\n\nAverage human audio response is 250ms. Gradium claims under 200ms — first mover advantage.",
+    "4. Nvidia backs voice over vision.\n\nNvidia invested in voice, not computer vision. They are betting voice AI hits first.",
+    "5. Test their demo today.\n\nGo to Gradium's site and run a voice command. If latency feels instant, they win — for now."
+  ],
+  "video_script": [
+    "Gradium raised one hundred million dollars before any revenue.",
+    "Nvidia led the round betting on voice AI.",
+    "Most voice startups fail within two years.",
+    "Gradium's tech cuts latency below human reaction time.",
+    "Test the voice demo now before competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $100M before revenue?\n\nGradium has no public revenue. Nvidia just led the Series A anyway.",
+        "2. 90% voice startups die.\n\nMost voice AI companies collapse within two years. Gradium's bet is on speed.",
+        "3. Latency below human reaction.\n\nAverage human audio response is 250ms. Gradium claims under 200ms — first mover advantage.",
+        "4. Nvidia backs voice over vision.\n\nNvidia invested in voice, not computer vision. They are betting voice AI hits first.",
+        "5. Test their demo today.\n\nGo to Gradium's site and run a voice command. If latency feels instant, they win — for now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gradium raised one hundred million dollars before any revenue.",
+        "Nvidia led the round betting on voice AI.",
+        "Most voice startups fail within two years.",
+        "Gradium's tech cuts latency below human reaction time.",
+        "Test the voice demo now before competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "A voice startup without revenue just raised $100 million from Nvidia—before selling a single product.\n\nGradium claims its tech responds faster than a human can react, under 200 milliseconds. Most voice AI startups fail within two years 🟡.\n\nFor anyone using voice in products, latency is now the only moat. If Gradium's demo feels instant, your current tools just became obsolete 🛠️.\n\nDoes your workflow rely on waiting for a voice reply? Go test Gradium's latency right now—before your competitors do ⏱️."
+    }
+  },
+  "instagram_caption": "A voice startup without revenue just raised $100 million from Nvidia—before selling a single product.\n\nGradium claims its tech responds faster than a human can react, under 200 milliseconds. Most voice AI startups fail within two years 🟡.\n\nFor anyone using voice in products, latency is now the only moat. If Gradium's demo feels instant, your current tools just became obsolete 🛠️.\n\nDoes your workflow rely on waiting for a voice reply? Go test Gradium's latency right now—before your competitors do ⏱️.",
+  "carousel_slides": [
+    {
+      "hook": "No revenue, yet $100M?",
+      "description": "Gradium has no public revenue, but Nvidia led a $100M seed anyway. VCs are betting big on voice AI.",
+      "visual_hint": "Stack of cash with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of cash"
+    },
+    {
+      "hook": "90% of voice startups die.",
+      "description": "Most voice AI companies collapse within two years. Gradium's bet is on speed to survive.",
+      "visual_hint": "Graph line dropping sharply",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed below human reaction.",
+      "description": "Average human audio response is 250ms. Gradium claims under 200ms — a first-mover advantage in voice AI.",
+      "visual_hint": "Stopwatch with lightning bolt",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nvidia bets on voice, not vision.",
+      "description": "Nvidia invested in voice AI over computer vision. They predict voice assistants will arrive first.",
+      "visual_hint": "Nvidia logo and microphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Nvidia logo",
+      "image": "https://images.pexels.com/photos/35569900/pexels-photo-35569900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test their demo today.",
+      "description": "Go to Gradium's site, run a voice command. If latency feels instant, they win — for now.",
+      "visual_hint": "Hand pressing play button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "play button",
+      "image": "https://images.pexels.com/photos/5208831/pexels-photo-5208831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+  "savedAt": "2026-07-09T21:14:18.849Z",
+  "sourceId": "197158ed79d24f534c789ccfede96175"
+}

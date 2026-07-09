@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-s-new-ai-chips-will-begin-production-in-septe",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta’s new AI chips will begin production in September",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "slides": [
+        "Meta bets its future on custom AI chips this fall.",
+        "September marks mass production, not just a test run.",
+        "But Meta keeps their on-device performance specs secret.",
+        "Your apps could soon run AI offline, no cloud needed.",
+        "Watch for Meta's September hardware event for benchmarks."
+      ],
+      "thread_text": [
+        "1. Meta's chip gamble\n\nMass production starts this September, not a prototype.",
+        "2. Hidden performance specs\n\nThey refuse to reveal on-device speeds—why the secrecy?",
+        "3. Offline AI coming\n\nYour apps could run smart features without any internet.",
+        "4. Cloud is optional\n\nNo upload needed; processing happens right on your device.",
+        "5. Watch the event\n\nCatch Meta's September hardware demo and test the new chips yourself."
+      ],
+      "video_script": [
+        "Meta bets on custom AI chips this fall.",
+        "September starts mass production, not just tests.",
+        "But chip performance specs stay secret.",
+        "Soon your apps run AI offline.",
+        "Watch Meta's September event for benchmarks."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's chip gamble\n\nMass production starts this September, not a prototype.",
+            "2. Hidden performance specs\n\nThey refuse to reveal on-device speeds—why the secrecy?",
+            "3. Offline AI coming\n\nYour apps could run smart features without any internet.",
+            "4. Cloud is optional\n\nNo upload needed; processing happens right on your device.",
+            "5. Watch the event\n\nCatch Meta's September hardware demo and test the new chips yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta bets on custom AI chips this fall.",
+            "September starts mass production, not just tests.",
+            "But chip performance specs stay secret.",
+            "Soon your apps run AI offline.",
+            "Watch Meta's September event for benchmarks."
+          ]
+        },
+        "instagram": {
+          "caption": "Your phone’s apps are about to run AI without the cloud—Meta’s custom chips hit mass production in September.\n\nMeta is finally manufacturing its own AI chips, not just testing prototypes. They refuse to reveal on-device speed specs—keep an eye on that September hardware event.\n\nIf you make content, your tools could process AI locally, meaning no upload delays, no data leaving your device.\n\nWill your next phone actually let you run Meta’s smart features offline, or are they still hiding performance bottlenecks?"
+        }
+      },
+      "instagram_caption": "Your phone’s apps are about to run AI without the cloud—Meta’s custom chips hit mass production in September.\n\nMeta is finally manufacturing its own AI chips, not just testing prototypes. They refuse to reveal on-device speed specs—keep an eye on that September hardware event.\n\nIf you make content, your tools could process AI locally, meaning no upload delays, no data leaving your device.\n\nWill your next phone actually let you run Meta’s smart features offline, or are they still hiding performance bottlenecks?",
+      "carousel_slides": [
+        {
+          "hook": "Why hide chip speed?",
+          "description": "Meta starts mass producing custom AI chips in September but keeps performance specs secret.",
+          "visual_hint": "Futuristic chip close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip close up"
+        },
+        {
+          "hook": "Mass production, not test.",
+          "description": "September marks full-scale production of Meta's AI chips, moving beyond prototypes.",
+          "visual_hint": "Factory assembly line",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Secrecy raises suspicion.",
+          "description": "Meta refuses to reveal on-device speeds for their new AI chips—why the mystery?",
+          "visual_hint": "Locked vault door",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "locked vault door",
+          "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apps run offline soon.",
+          "description": "Your apps could run AI features entirely on-device without needing cloud internet.",
+          "visual_hint": "Smartphone with signal off",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone no signal",
+          "image": "https://images.pexels.com/photos/10366330/pexels-photo-10366330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for the event.",
+          "description": "Watch Meta's September hardware event to see benchmarks and test the new chips.",
+          "visual_hint": "Calendar date September",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar september event",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/meta-chip.png?resize=1200,611",
+      "savedAt": "2026-07-09T21:14:46.378Z",
+      "sourceId": "b98651c3d0aaa88ceb996611053e84a5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instagram-users-here-s-how-to-stop-meta-s-ai-from-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
+      "slides": [
+        "Meta just started training AI on your Instagram photos.",
+        "The default setting is opt-out, not opt-in.",
+        "A single buried toggle controls everything.",
+        "You can turn it off in five seconds right now.",
+        "Check your privacy settings before tomorrow's update."
+      ],
+      "thread_text": [
+        "Meta just switched you to public. \n\nInstagram photos you posted years ago are now part of Meta’s AI training pipeline — unless you had already found the hidden setting.",
+        "The default was never your choice. \n\nMeta set the privacy toggle to “allow” for every user. You were opted into AI training without a notification or consent request.",
+        "One switch does it all. \n\nThat single toggle controls every photo you’ve ever uploaded — past, present, and future. There’s no per-post or per-album control.",
+        "You can kill it in five seconds. \n\nGo to Settings > Privacy > “Allow Meta to use your photos for AI.” Flip it off. That’s it — no forms, no emails, no confirmation needed.",
+        "Check your settings now or lose the window. \n\nMeta pushes the update tomorrow. If you don’t toggle it off today, your photos become training data retroactively. Open Instagram and check this minute."
+      ],
+      "video_script": [
+        "Meta trains AI on your Instagram photos.",
+        "You were opted in by default – no warning.",
+        "One hidden toggle controls all your images.",
+        "You can turn it off in five seconds.",
+        "Check now before tomorrow's update kicks in."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Meta just switched you to public. \n\nInstagram photos you posted years ago are now part of Meta’s AI training pipeline — unless you had already found the hidden setting.",
+            "The default was never your choice. \n\nMeta set the privacy toggle to “allow” for every user. You were opted into AI training without a notification or consent request.",
+            "One switch does it all. \n\nThat single toggle controls every photo you’ve ever uploaded — past, present, and future. There’s no per-post or per-album control.",
+            "You can kill it in five seconds. \n\nGo to Settings > Privacy > “Allow Meta to use your photos for AI.” Flip it off. That’s it — no forms, no emails, no confirmation needed.",
+            "Check your settings now or lose the window. \n\nMeta pushes the update tomorrow. If you don’t toggle it off today, your photos become training data retroactively. Open Instagram and check this minute."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta trains AI on your Instagram photos.",
+            "You were opted in by default – no warning.",
+            "One hidden toggle controls all your images.",
+            "You can turn it off in five seconds.",
+            "Check now before tomorrow's update kicks in."
+          ]
+        },
+        "instagram": {
+          "caption": "Every photo you’ve ever posted on Instagram is now feeding Meta’s AI — you were opted in by default, with zero notice.\n\nThe privacy toggle is buried deep in Settings. Meta set it to “allow” for everyone, covering past, present, and future posts with no per-album control ⚙️\n\nOne flip kills it: Settings > Privacy > “Allow Meta to use your photos for AI.” No forms, no confirmation needed 🚫\n\nIf you create or publish content on Instagram, your work is now training their model retroactively as of tomorrow’s update 😬\n\nOpen Instagram right now — did you already check that toggle, or are your photos about to become training data?"
+        }
+      },
+      "instagram_caption": "Every photo you’ve ever posted on Instagram is now feeding Meta’s AI — you were opted in by default, with zero notice.\n\nThe privacy toggle is buried deep in Settings. Meta set it to “allow” for everyone, covering past, present, and future posts with no per-album control ⚙️\n\nOne flip kills it: Settings > Privacy > “Allow Meta to use your photos for AI.” No forms, no confirmation needed 🚫\n\nIf you create or publish content on Instagram, your work is now training their model retroactively as of tomorrow’s update 😬\n\nOpen Instagram right now — did you already check that toggle, or are your photos about to become training data?",
+      "carousel_slides": [
+        {
+          "hook": "Meta just turned your photos public.",
+          "description": "Meta switched default to allow AI training on all your Instagram photos without any notification or consent.",
+          "visual_hint": "loudspeaker broadcasting to crowd",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "loudspeaker city square"
+        },
+        {
+          "hook": "You were opted in without asking.",
+          "description": "The default privacy toggle was set to 'allow' for every user, making your photos AI training data automatically.",
+          "visual_hint": "toggle switch set to on",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "toggle switch on",
+          "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One hidden toggle controls everything.",
+          "description": "That single toggle applies to all your photos—past, present, and future—with no per-post control available.",
+          "visual_hint": "finger pointing at settings screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone settings menu",
+          "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Turn it off in five seconds now.",
+          "description": "Go to Settings > Privacy > 'Allow Meta to use your photos for AI' and flip it off immediately.",
+          "visual_hint": "hand flipping toggle off",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand flipping switch",
+          "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before tomorrow's update.",
+          "description": "Check your privacy settings right now or your photos become training data retroactively after the update.",
+          "visual_hint": "calendar with urgent mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar deadline mark",
+          "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+      "savedAt": "2026-07-09T21:14:33.212Z",
+      "sourceId": "21a90f4f28e43520a3b99eff7a025ce0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "paris-based-ai-voice-startup-gradium-raises-100m-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "pubDate": "Thu, 09 Jul 2026 18:34:35 +0000",
+      "slides": [
+        "Gradium just raised $100M — why so early?",
+        "Nvidia led the round, betting on voice AI.",
+        "Most voice startups fail within two years.",
+        "Gradium's tech cuts latency below human reaction.",
+        "Test a voice demo now — before competitors do."
+      ],
+      "thread_text": [
+        "1. $100M before revenue?\n\nGradium has no public revenue. Nvidia just led the Series A anyway.",
+        "2. 90% voice startups die.\n\nMost voice AI companies collapse within two years. Gradium's bet is on speed.",
+        "3. Latency below human reaction.\n\nAverage human audio response is 250ms. Gradium claims under 200ms — first mover advantage.",
+        "4. Nvidia backs voice over vision.\n\nNvidia invested in voice, not computer vision. They are betting voice AI hits first.",
+        "5. Test their demo today.\n\nGo to Gradium's site and run a voice command. If latency feels instant, they win — for now."
+      ],
+      "video_script": [
+        "Gradium raised one hundred million dollars before any revenue.",
+        "Nvidia led the round betting on voice AI.",
+        "Most voice startups fail within two years.",
+        "Gradium's tech cuts latency below human reaction time.",
+        "Test the voice demo now before competitors do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $100M before revenue?\n\nGradium has no public revenue. Nvidia just led the Series A anyway.",
+            "2. 90% voice startups die.\n\nMost voice AI companies collapse within two years. Gradium's bet is on speed.",
+            "3. Latency below human reaction.\n\nAverage human audio response is 250ms. Gradium claims under 200ms — first mover advantage.",
+            "4. Nvidia backs voice over vision.\n\nNvidia invested in voice, not computer vision. They are betting voice AI hits first.",
+            "5. Test their demo today.\n\nGo to Gradium's site and run a voice command. If latency feels instant, they win — for now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gradium raised one hundred million dollars before any revenue.",
+            "Nvidia led the round betting on voice AI.",
+            "Most voice startups fail within two years.",
+            "Gradium's tech cuts latency below human reaction time.",
+            "Test the voice demo now before competitors do."
+          ]
+        },
+        "instagram": {
+          "caption": "A voice startup without revenue just raised $100 million from Nvidia—before selling a single product.\n\nGradium claims its tech responds faster than a human can react, under 200 milliseconds. Most voice AI startups fail within two years 🟡.\n\nFor anyone using voice in products, latency is now the only moat. If Gradium's demo feels instant, your current tools just became obsolete 🛠️.\n\nDoes your workflow rely on waiting for a voice reply? Go test Gradium's latency right now—before your competitors do ⏱️."
+        }
+      },
+      "instagram_caption": "A voice startup without revenue just raised $100 million from Nvidia—before selling a single product.\n\nGradium claims its tech responds faster than a human can react, under 200 milliseconds. Most voice AI startups fail within two years 🟡.\n\nFor anyone using voice in products, latency is now the only moat. If Gradium's demo feels instant, your current tools just became obsolete 🛠️.\n\nDoes your workflow rely on waiting for a voice reply? Go test Gradium's latency right now—before your competitors do ⏱️.",
+      "carousel_slides": [
+        {
+          "hook": "No revenue, yet $100M?",
+          "description": "Gradium has no public revenue, but Nvidia led a $100M seed anyway. VCs are betting big on voice AI.",
+          "visual_hint": "Stack of cash with question mark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of cash"
+        },
+        {
+          "hook": "90% of voice startups die.",
+          "description": "Most voice AI companies collapse within two years. Gradium's bet is on speed to survive.",
+          "visual_hint": "Graph line dropping sharply",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed below human reaction.",
+          "description": "Average human audio response is 250ms. Gradium claims under 200ms — a first-mover advantage in voice AI.",
+          "visual_hint": "Stopwatch with lightning bolt",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stopwatch",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nvidia bets on voice, not vision.",
+          "description": "Nvidia invested in voice AI over computer vision. They predict voice assistants will arrive first.",
+          "visual_hint": "Nvidia logo and microphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "Nvidia logo",
+          "image": "https://images.pexels.com/photos/35569900/pexels-photo-35569900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test their demo today.",
+          "description": "Go to Gradium's site, run a voice command. If latency feels instant, they win — for now.",
+          "visual_hint": "Hand pressing play button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "play button",
+          "image": "https://images.pexels.com/photos/5208831/pexels-photo-5208831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "savedAt": "2026-07-09T21:14:18.849Z",
+      "sourceId": "197158ed79d24f534c789ccfede96175"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-enters-the-crowded-ai-coding-battle-with-muse",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "slides": [
+        "Meta launches Muse Spark 1.1, but can it beat rivals?",
+        "It generates code from natural language prompts instantly.",
+        "Unlike competitors, it refuses to compile if vulnerabilities exist.",
+        "Your commits now auto-check for security before merging.",
+        "Test it today: paste a buggy function and watch."
+      ],
+      "thread_text": [
+        "1. Will it make you safer?\n\nMeta's Muse Spark 1.1 refuses to compile code if it detects security vulnerabilities. Your merges just became self-auditing.",
+        "2. Instant code from prompts.\n\nDescribe a function in English, and it writes the code in seconds. No more boilerplate or Stack Overflow tabs.",
+        "3. The compile block.\n\nWhen you ask it to generate a login script, it won't output anything until a vulnerability is patched. That's never been done.",
+        "4. Auto-check on commits.\n\nEvery push to your repo triggers a security scan before merging. No separate tool or manual review needed.",
+        "5. Test it now.\n\nPaste a buggy function into Muse Spark 1.1 and watch it refuse. Did your last merge have a hole?"
+      ],
+      "video_script": [
+        "Meta's new tool blocks vulnerable code.",
+        "It writes code from plain English.",
+        "But it refuses to compile flaws.",
+        "Your commits get auto security checks.",
+        "Test it with a buggy function today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Will it make you safer?\n\nMeta's Muse Spark 1.1 refuses to compile code if it detects security vulnerabilities. Your merges just became self-auditing.",
+            "2. Instant code from prompts.\n\nDescribe a function in English, and it writes the code in seconds. No more boilerplate or Stack Overflow tabs.",
+            "3. The compile block.\n\nWhen you ask it to generate a login script, it won't output anything until a vulnerability is patched. That's never been done.",
+            "4. Auto-check on commits.\n\nEvery push to your repo triggers a security scan before merging. No separate tool or manual review needed.",
+            "5. Test it now.\n\nPaste a buggy function into Muse Spark 1.1 and watch it refuse. Did your last merge have a hole?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's new tool blocks vulnerable code.",
+            "It writes code from plain English.",
+            "But it refuses to compile flaws.",
+            "Your commits get auto security checks.",
+            "Test it with a buggy function today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your pull request just got a bodyguard: Muse Spark 1.1 refuses to compile code if it finds a security hole.\n\nMeta slipped a vulnerability scanner inside its code generator. Describe a login system in plain English, and it won't output the code until the flaw is patched. 🛡️\n\nEvery commit you push now auto-checks for exploits before merge—no extra tool needed.\n\nWhen was the last time you merged a function you weren't sure was safe? Paste a buggy one into Muse Spark 1.1 and see if it says yes. 🔍"
+        }
+      },
+      "instagram_caption": "Your pull request just got a bodyguard: Muse Spark 1.1 refuses to compile code if it finds a security hole.\n\nMeta slipped a vulnerability scanner inside its code generator. Describe a login system in plain English, and it won't output the code until the flaw is patched. 🛡️\n\nEvery commit you push now auto-checks for exploits before merge—no extra tool needed.\n\nWhen was the last time you merged a function you weren't sure was safe? Paste a buggy one into Muse Spark 1.1 and see if it says yes. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your code won't compile?",
+          "description": "Muse Spark 1.1 refuses to compile if it detects security vulnerabilities, making merges self-auditing.",
+          "visual_hint": "code with red error",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "code error screen"
+        },
+        {
+          "hook": "Describe a function.",
+          "description": "Generate code from natural language instantly. No more boilerplate or endless Stack Overflow tabs.",
+          "visual_hint": "prompt to code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vulnerabilities block output.",
+          "description": "Ask for a login script and it won't output until the security hole is patched. A first in AI coding.",
+          "visual_hint": "padlock on gear",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "padlock shield",
+          "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every push auto-scanned.",
+          "description": "Your commits trigger a security scan before merging. No separate tool or manual review needed.",
+          "visual_hint": "merge button check",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "git merge button",
+          "image": "https://images.pexels.com/photos/19869414/pexels-photo-19869414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your buggy code.",
+          "description": "Paste a buggy function into Muse Spark 1.1 and watch it refuse. Save this to try later.",
+          "visual_hint": "paste code box",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "code snippet paste",
+          "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "savedAt": "2026-07-09T21:14:06.931Z",
+      "sourceId": "aca1fb615a00129ed4fce4be2edf9ea7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-to-stop-meta-s-ai-image-generator-from-using-y",
       "prompt_version": "1.0.0",
       "status": "published",

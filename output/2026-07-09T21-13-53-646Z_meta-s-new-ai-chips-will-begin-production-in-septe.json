@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-new-ai-chips-will-begin-production-in-septe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s new AI chips will begin production in September",
+  "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+  "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+  "slides": [
+    "Meta bets its future on custom AI chips this fall.",
+    "September marks mass production, not just a test run.",
+    "But Meta keeps their on-device performance specs secret.",
+    "Your apps could soon run AI offline, no cloud needed.",
+    "Watch for Meta's September hardware event for benchmarks."
+  ],
+  "thread_text": [
+    "1. Meta's chip gamble\n\nMass production starts this September, not a prototype.",
+    "2. Hidden performance specs\n\nThey refuse to reveal on-device speeds—why the secrecy?",
+    "3. Offline AI coming\n\nYour apps could run smart features without any internet.",
+    "4. Cloud is optional\n\nNo upload needed; processing happens right on your device.",
+    "5. Watch the event\n\nCatch Meta's September hardware demo and test the new chips yourself."
+  ],
+  "video_script": [
+    "Meta bets on custom AI chips this fall.",
+    "September starts mass production, not just tests.",
+    "But chip performance specs stay secret.",
+    "Soon your apps run AI offline.",
+    "Watch Meta's September event for benchmarks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's chip gamble\n\nMass production starts this September, not a prototype.",
+        "2. Hidden performance specs\n\nThey refuse to reveal on-device speeds—why the secrecy?",
+        "3. Offline AI coming\n\nYour apps could run smart features without any internet.",
+        "4. Cloud is optional\n\nNo upload needed; processing happens right on your device.",
+        "5. Watch the event\n\nCatch Meta's September hardware demo and test the new chips yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta bets on custom AI chips this fall.",
+        "September starts mass production, not just tests.",
+        "But chip performance specs stay secret.",
+        "Soon your apps run AI offline.",
+        "Watch Meta's September event for benchmarks."
+      ]
+    },
+    "instagram": {
+      "caption": "Your phone’s apps are about to run AI without the cloud—Meta’s custom chips hit mass production in September.\n\nMeta is finally manufacturing its own AI chips, not just testing prototypes. They refuse to reveal on-device speed specs—keep an eye on that September hardware event.\n\nIf you make content, your tools could process AI locally, meaning no upload delays, no data leaving your device.\n\nWill your next phone actually let you run Meta’s smart features offline, or are they still hiding performance bottlenecks?"
+    }
+  },
+  "instagram_caption": "Your phone’s apps are about to run AI without the cloud—Meta’s custom chips hit mass production in September.\n\nMeta is finally manufacturing its own AI chips, not just testing prototypes. They refuse to reveal on-device speed specs—keep an eye on that September hardware event.\n\nIf you make content, your tools could process AI locally, meaning no upload delays, no data leaving your device.\n\nWill your next phone actually let you run Meta’s smart features offline, or are they still hiding performance bottlenecks?",
+  "carousel_slides": [
+    {
+      "hook": "Why hide chip speed?",
+      "description": "Meta starts mass producing custom AI chips in September but keeps performance specs secret.",
+      "visual_hint": "Futuristic chip close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip close up"
+    },
+    {
+      "hook": "Mass production, not test.",
+      "description": "September marks full-scale production of Meta's AI chips, moving beyond prototypes.",
+      "visual_hint": "Factory assembly line",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory assembly line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Secrecy raises suspicion.",
+      "description": "Meta refuses to reveal on-device speeds for their new AI chips—why the mystery?",
+      "visual_hint": "Locked vault door",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "locked vault door",
+      "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apps run offline soon.",
+      "description": "Your apps could run AI features entirely on-device without needing cloud internet.",
+      "visual_hint": "Smartphone with signal off",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone no signal",
+      "image": "https://images.pexels.com/photos/10366330/pexels-photo-10366330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for the event.",
+      "description": "Watch Meta's September hardware event to see benchmarks and test the new chips.",
+      "visual_hint": "Calendar date September",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar september event",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/meta-chip.png?resize=1200,611",
+  "savedAt": "2026-07-09T21:14:46.378Z",
+  "sourceId": "b98651c3d0aaa88ceb996611053e84a5"
+}

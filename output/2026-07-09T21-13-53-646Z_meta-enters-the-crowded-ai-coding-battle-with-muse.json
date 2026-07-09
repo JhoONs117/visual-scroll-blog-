@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-enters-the-crowded-ai-coding-battle-with-muse",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+  "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+  "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+  "slides": [
+    "Meta launches Muse Spark 1.1, but can it beat rivals?",
+    "It generates code from natural language prompts instantly.",
+    "Unlike competitors, it refuses to compile if vulnerabilities exist.",
+    "Your commits now auto-check for security before merging.",
+    "Test it today: paste a buggy function and watch."
+  ],
+  "thread_text": [
+    "1. Will it make you safer?\n\nMeta's Muse Spark 1.1 refuses to compile code if it detects security vulnerabilities. Your merges just became self-auditing.",
+    "2. Instant code from prompts.\n\nDescribe a function in English, and it writes the code in seconds. No more boilerplate or Stack Overflow tabs.",
+    "3. The compile block.\n\nWhen you ask it to generate a login script, it won't output anything until a vulnerability is patched. That's never been done.",
+    "4. Auto-check on commits.\n\nEvery push to your repo triggers a security scan before merging. No separate tool or manual review needed.",
+    "5. Test it now.\n\nPaste a buggy function into Muse Spark 1.1 and watch it refuse. Did your last merge have a hole?"
+  ],
+  "video_script": [
+    "Meta's new tool blocks vulnerable code.",
+    "It writes code from plain English.",
+    "But it refuses to compile flaws.",
+    "Your commits get auto security checks.",
+    "Test it with a buggy function today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Will it make you safer?\n\nMeta's Muse Spark 1.1 refuses to compile code if it detects security vulnerabilities. Your merges just became self-auditing.",
+        "2. Instant code from prompts.\n\nDescribe a function in English, and it writes the code in seconds. No more boilerplate or Stack Overflow tabs.",
+        "3. The compile block.\n\nWhen you ask it to generate a login script, it won't output anything until a vulnerability is patched. That's never been done.",
+        "4. Auto-check on commits.\n\nEvery push to your repo triggers a security scan before merging. No separate tool or manual review needed.",
+        "5. Test it now.\n\nPaste a buggy function into Muse Spark 1.1 and watch it refuse. Did your last merge have a hole?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's new tool blocks vulnerable code.",
+        "It writes code from plain English.",
+        "But it refuses to compile flaws.",
+        "Your commits get auto security checks.",
+        "Test it with a buggy function today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your pull request just got a bodyguard: Muse Spark 1.1 refuses to compile code if it finds a security hole.\n\nMeta slipped a vulnerability scanner inside its code generator. Describe a login system in plain English, and it won't output the code until the flaw is patched. 🛡️\n\nEvery commit you push now auto-checks for exploits before merge—no extra tool needed.\n\nWhen was the last time you merged a function you weren't sure was safe? Paste a buggy one into Muse Spark 1.1 and see if it says yes. 🔍"
+    }
+  },
+  "instagram_caption": "Your pull request just got a bodyguard: Muse Spark 1.1 refuses to compile code if it finds a security hole.\n\nMeta slipped a vulnerability scanner inside its code generator. Describe a login system in plain English, and it won't output the code until the flaw is patched. 🛡️\n\nEvery commit you push now auto-checks for exploits before merge—no extra tool needed.\n\nWhen was the last time you merged a function you weren't sure was safe? Paste a buggy one into Muse Spark 1.1 and see if it says yes. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your code won't compile?",
+      "description": "Muse Spark 1.1 refuses to compile if it detects security vulnerabilities, making merges self-auditing.",
+      "visual_hint": "code with red error",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "code error screen"
+    },
+    {
+      "hook": "Describe a function.",
+      "description": "Generate code from natural language instantly. No more boilerplate or endless Stack Overflow tabs.",
+      "visual_hint": "prompt to code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatbot interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vulnerabilities block output.",
+      "description": "Ask for a login script and it won't output until the security hole is patched. A first in AI coding.",
+      "visual_hint": "padlock on gear",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock shield",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every push auto-scanned.",
+      "description": "Your commits trigger a security scan before merging. No separate tool or manual review needed.",
+      "visual_hint": "merge button check",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "git merge button",
+      "image": "https://images.pexels.com/photos/19869414/pexels-photo-19869414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your buggy code.",
+      "description": "Paste a buggy function into Muse Spark 1.1 and watch it refuse. Save this to try later.",
+      "visual_hint": "paste code box",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code snippet paste",
+      "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+  "savedAt": "2026-07-09T21:14:06.931Z",
+  "sourceId": "aca1fb615a00129ed4fce4be2edf9ea7"
+}

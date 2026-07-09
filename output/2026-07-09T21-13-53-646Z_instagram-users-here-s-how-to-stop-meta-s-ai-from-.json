@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-users-here-s-how-to-stop-meta-s-ai-from-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+  "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+  "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
+  "slides": [
+    "Meta just started training AI on your Instagram photos.",
+    "The default setting is opt-out, not opt-in.",
+    "A single buried toggle controls everything.",
+    "You can turn it off in five seconds right now.",
+    "Check your privacy settings before tomorrow's update."
+  ],
+  "thread_text": [
+    "Meta just switched you to public. \n\nInstagram photos you posted years ago are now part of Meta’s AI training pipeline — unless you had already found the hidden setting.",
+    "The default was never your choice. \n\nMeta set the privacy toggle to “allow” for every user. You were opted into AI training without a notification or consent request.",
+    "One switch does it all. \n\nThat single toggle controls every photo you’ve ever uploaded — past, present, and future. There’s no per-post or per-album control.",
+    "You can kill it in five seconds. \n\nGo to Settings > Privacy > “Allow Meta to use your photos for AI.” Flip it off. That’s it — no forms, no emails, no confirmation needed.",
+    "Check your settings now or lose the window. \n\nMeta pushes the update tomorrow. If you don’t toggle it off today, your photos become training data retroactively. Open Instagram and check this minute."
+  ],
+  "video_script": [
+    "Meta trains AI on your Instagram photos.",
+    "You were opted in by default – no warning.",
+    "One hidden toggle controls all your images.",
+    "You can turn it off in five seconds.",
+    "Check now before tomorrow's update kicks in."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Meta just switched you to public. \n\nInstagram photos you posted years ago are now part of Meta’s AI training pipeline — unless you had already found the hidden setting.",
+        "The default was never your choice. \n\nMeta set the privacy toggle to “allow” for every user. You were opted into AI training without a notification or consent request.",
+        "One switch does it all. \n\nThat single toggle controls every photo you’ve ever uploaded — past, present, and future. There’s no per-post or per-album control.",
+        "You can kill it in five seconds. \n\nGo to Settings > Privacy > “Allow Meta to use your photos for AI.” Flip it off. That’s it — no forms, no emails, no confirmation needed.",
+        "Check your settings now or lose the window. \n\nMeta pushes the update tomorrow. If you don’t toggle it off today, your photos become training data retroactively. Open Instagram and check this minute."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta trains AI on your Instagram photos.",
+        "You were opted in by default – no warning.",
+        "One hidden toggle controls all your images.",
+        "You can turn it off in five seconds.",
+        "Check now before tomorrow's update kicks in."
+      ]
+    },
+    "instagram": {
+      "caption": "Every photo you’ve ever posted on Instagram is now feeding Meta’s AI — you were opted in by default, with zero notice.\n\nThe privacy toggle is buried deep in Settings. Meta set it to “allow” for everyone, covering past, present, and future posts with no per-album control ⚙️\n\nOne flip kills it: Settings > Privacy > “Allow Meta to use your photos for AI.” No forms, no confirmation needed 🚫\n\nIf you create or publish content on Instagram, your work is now training their model retroactively as of tomorrow’s update 😬\n\nOpen Instagram right now — did you already check that toggle, or are your photos about to become training data?"
+    }
+  },
+  "instagram_caption": "Every photo you’ve ever posted on Instagram is now feeding Meta’s AI — you were opted in by default, with zero notice.\n\nThe privacy toggle is buried deep in Settings. Meta set it to “allow” for everyone, covering past, present, and future posts with no per-album control ⚙️\n\nOne flip kills it: Settings > Privacy > “Allow Meta to use your photos for AI.” No forms, no confirmation needed 🚫\n\nIf you create or publish content on Instagram, your work is now training their model retroactively as of tomorrow’s update 😬\n\nOpen Instagram right now — did you already check that toggle, or are your photos about to become training data?",
+  "carousel_slides": [
+    {
+      "hook": "Meta just turned your photos public.",
+      "description": "Meta switched default to allow AI training on all your Instagram photos without any notification or consent.",
+      "visual_hint": "loudspeaker broadcasting to crowd",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "loudspeaker city square"
+    },
+    {
+      "hook": "You were opted in without asking.",
+      "description": "The default privacy toggle was set to 'allow' for every user, making your photos AI training data automatically.",
+      "visual_hint": "toggle switch set to on",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "toggle switch on",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One hidden toggle controls everything.",
+      "description": "That single toggle applies to all your photos—past, present, and future—with no per-post control available.",
+      "visual_hint": "finger pointing at settings screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Turn it off in five seconds now.",
+      "description": "Go to Settings > Privacy > 'Allow Meta to use your photos for AI' and flip it off immediately.",
+      "visual_hint": "hand flipping toggle off",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand flipping switch",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before tomorrow's update.",
+      "description": "Check your privacy settings right now or your photos become training data retroactively after the update.",
+      "visual_hint": "calendar with urgent mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar deadline mark",
+      "image": "https://images.pexels.com/photos/6892910/pexels-photo-6892910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+  "savedAt": "2026-07-09T21:14:33.212Z",
+  "sourceId": "21a90f4f28e43520a3b99eff7a025ce0"
+}
