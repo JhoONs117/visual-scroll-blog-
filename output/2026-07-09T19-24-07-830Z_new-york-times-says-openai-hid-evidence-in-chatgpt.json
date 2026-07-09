@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "new-york-times-says-openai-hid-evidence-in-chatgpt",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+  "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+  "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
+  "slides": [
+    "How did OpenAI bury key evidence from the court?",
+    "The NYT claims internal emails were withheld.",
+    "The hidden messages could change the trial's direction.",
+    "Your data use case now hinges on this ruling.",
+    "Check your organization's AI audit rights immediately."
+  ],
+  "thread_text": [
+    "OpenAI buried proof?\n\nThe NYT says internal emails were deliberately withheld—messages that could rewrite the trial's conclusion.",
+    "What was in those emails?\n\nEvidence hidden from the court might reveal how much copyrighted data actually fueled training.",
+    "Your data is on the line.\n\nThis ruling will set precedent for whether your organization's content can be used without consent.",
+    "Audit rights just shifted.\n\nIf the court sides with the NYT, every company using AI must check its own data provenance.",
+    "Check your AI audit now.\n\nRun a prompt that asks your AI to cite a copyrighted source. Did it? If yes, you have exposure."
+  ],
+  "video_script": [
+    "OpenAI hid emails from the court.",
+    "NYT claims key evidence was withheld.",
+    "These messages could change the trial.",
+    "Your data case hinges on this ruling.",
+    "Audit your AI tools immediately."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "OpenAI buried proof?\n\nThe NYT says internal emails were deliberately withheld—messages that could rewrite the trial's conclusion.",
+        "What was in those emails?\n\nEvidence hidden from the court might reveal how much copyrighted data actually fueled training.",
+        "Your data is on the line.\n\nThis ruling will set precedent for whether your organization's content can be used without consent.",
+        "Audit rights just shifted.\n\nIf the court sides with the NYT, every company using AI must check its own data provenance.",
+        "Check your AI audit now.\n\nRun a prompt that asks your AI to cite a copyrighted source. Did it? If yes, you have exposure."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI hid emails from the court.",
+        "NYT claims key evidence was withheld.",
+        "These messages could change the trial.",
+        "Your data case hinges on this ruling.",
+        "Audit your AI tools immediately."
+      ]
+    },
+    "instagram": {
+      "caption": "Internal emails about copyrighted training data were allegedly hidden from court — and the New York Times says OpenAI did it on purpose.\n\nThe messages could reveal exactly how much protected content was used to build ChatGPT.\n\nThat evidence was never handed over to the judge.📄\n\nIf the court rules this was intentional hiding, your public work may be scraped without your knowledge — and you might never get to challenge it.\n\nDoes your organization have the right to audit the data that trained the AI tools you rely on?🕵️‍♂️ Run one audit request today."
+    }
+  },
+  "instagram_caption": "Internal emails about copyrighted training data were allegedly hidden from court — and the New York Times says OpenAI did it on purpose.\n\nThe messages could reveal exactly how much protected content was used to build ChatGPT.\n\nThat evidence was never handed over to the judge.📄\n\nIf the court rules this was intentional hiding, your public work may be scraped without your knowledge — and you might never get to challenge it.\n\nDoes your organization have the right to audit the data that trained the AI tools you rely on?🕵️‍♂️ Run one audit request today.",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI buried evidence?",
+      "description": "NYT claims internal emails were deliberately withheld, potentially hiding how copyrighted data fueled training.",
+      "visual_hint": "closed filing cabinet",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "filing cabinet"
+    },
+    {
+      "hook": "Hidden emails change everything.",
+      "description": "The missing emails could reveal key evidence and rewrite the trial's direction against OpenAI.",
+      "visual_hint": "court gavel close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "court gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data is on trial.",
+      "description": "This ruling will set precedent on whether your organization's content can be used without consent.",
+      "visual_hint": "magnifying glass over text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass paper",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit rights just shifted.",
+      "description": "If court sides with NYT, every company must check AI data provenance for hidden risks.",
+      "visual_hint": "hands typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI audit now.",
+      "description": "Run a prompt asking your AI to cite a copyrighted source. If it does, you have exposure.",
+      "visual_hint": "question mark on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2187615188.jpg?resize=1200,800",
+  "savedAt": "2026-07-09T19:24:22.702Z",
+  "sourceId": "1db8020f654e326c06bf19f55816b481"
+}

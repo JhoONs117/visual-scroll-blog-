@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "how-to-stop-meta-s-ai-image-generator-from-using-y",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+    "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+    "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
+    "slides": [
+      "Your Instagram photos are training Meta’s AI. Want out?",
+      "Meta uses your public posts to improve its image generator.",
+      "The opt-out was buried—and doesn't apply retroactively.",
+      "You must submit a form in settings to block future use.",
+      "Check your privacy settings today and file the objection."
+    ],
+    "thread_text": [
+      "1. Your photos are training AI.\n\nMeta already scraped your public Instagram images without asking. The opt-out only stops future use.",
+      "2. The opt-out is hidden.\n\nYou have to dig through settings to find a form. Most people will never know it exists.",
+      "3. No retroactive protection.\n\nEverything posted before you opt out is already feeding Meta's image generator. You can't delete that data.",
+      "4. One form blocks future use.\n\nSubmit the objection in your privacy settings. It's a few clicks, but only works going forward.",
+      "5. File the objection today.\n\nOpen Instagram settings → Privacy → Data to block future scraping. Have you checked yours yet?"
+    ],
+    "video_script": [
+      "Meta uses your Instagram photos to train AI.",
+      "The opt-out is buried in your settings.",
+      "It doesn't apply to old photos.",
+      "You can block future use with a form.",
+      "Open your privacy settings and file it now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your photos are training AI.\n\nMeta already scraped your public Instagram images without asking. The opt-out only stops future use.",
+          "2. The opt-out is hidden.\n\nYou have to dig through settings to find a form. Most people will never know it exists.",
+          "3. No retroactive protection.\n\nEverything posted before you opt out is already feeding Meta's image generator. You can't delete that data.",
+          "4. One form blocks future use.\n\nSubmit the objection in your privacy settings. It's a few clicks, but only works going forward.",
+          "5. File the objection today.\n\nOpen Instagram settings → Privacy → Data to block future scraping. Have you checked yours yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta uses your Instagram photos to train AI.",
+          "The opt-out is buried in your settings.",
+          "It doesn't apply to old photos.",
+          "You can block future use with a form.",
+          "Open your privacy settings and file it now."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta already scraped your public Instagram photos—without asking—to train its AI image generator. 🚫\n\nThe opt-out button is hidden deep in settings. And even if you file it, everything you posted before stays in Meta’s model forever. 🔍 You can delete the data, but you can't delete what the AI already learned from it.\n\nFor anyone posting work or personal content: what you share now is future training fuel unless you act.\n\nHave you filed the objection in your Instagram privacy settings yet? 📸"
+      }
+    },
+    "instagram_caption": "Meta already scraped your public Instagram photos—without asking—to train its AI image generator. 🚫\n\nThe opt-out button is hidden deep in settings. And even if you file it, everything you posted before stays in Meta’s model forever. 🔍 You can delete the data, but you can't delete what the AI already learned from it.\n\nFor anyone posting work or personal content: what you share now is future training fuel unless you act.\n\nHave you filed the objection in your Instagram privacy settings yet? 📸",
+    "carousel_slides": [
+      {
+        "hook": "Your photos train AI without asking.",
+        "description": "Meta already scraped your public Instagram images. Opt-out only stops future use, not past data.",
+        "visual_hint": "phone camera eye glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone camera lens"
+      },
+      {
+        "hook": "The opt-out is hidden in settings.",
+        "description": "You must dig through privacy settings to find the form. Most people will never know it exists.",
+        "visual_hint": "confusing menu layers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Past posts are already AI fuel.",
+        "description": "No retroactive protection. Everything posted before opting out already feeds Meta's image generator.",
+        "visual_hint": "backward clock AI data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One form blocks future scraping.",
+        "description": "Submit the objection in your privacy settings. It takes a few clicks but only works going forward.",
+        "visual_hint": "human finger tapping submit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "finger pressing button",
+        "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this guide and check your settings.",
+        "description": "Open Instagram settings → Privacy → Data to block future use. Have you checked yours yet?",
+        "visual_hint": "checkmark privacy shield",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings screen",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
+    "savedAt": "2026-07-09T19:25:11.515Z",
+    "sourceId": "21a90f4f28e43520a3b99eff7a025ce0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-did-the-government-decide-openai-s-frontier-mo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "pubDate": "Thu, 09 Jul 2026 18:22:39 +0000",
+    "slides": [
+      "Who really decided OpenAI's model was safe?",
+      "The government relied on a single internal report.",
+      "That report was written by OpenAI itself.",
+      "No external audit was required before release.",
+      "Demand independent safety reviews before launch."
+    ],
+    "thread_text": [
+      "1. Who really decided?\n\nOpenAI wrote the safety report the government used to approve its model. No external check was done.",
+      "2. One report, no audit\n\nThe entire safety decision rested on a single internal document. No outside expert reviewed it.",
+      "3. OpenAI judged itself\n\nThat report came from OpenAI itself. The company certified its own model safe.",
+      "4. Why no external review?\n\nThe government required no independent audit before releasing the model to the public.",
+      "5. Demand one today\n\nCall your representative and ask: why wasn't an independent safety review required before this AI launch?"
+    ],
+    "video_script": [
+      "Who decided the AI was safe?",
+      "Government relied on one internal report.",
+      "That report was written by OpenAI.",
+      "No external audit was required.",
+      "Demand independent safety reviews before launch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who really decided?\n\nOpenAI wrote the safety report the government used to approve its model. No external check was done.",
+          "2. One report, no audit\n\nThe entire safety decision rested on a single internal document. No outside expert reviewed it.",
+          "3. OpenAI judged itself\n\nThat report came from OpenAI itself. The company certified its own model safe.",
+          "4. Why no external review?\n\nThe government required no independent audit before releasing the model to the public.",
+          "5. Demand one today\n\nCall your representative and ask: why wasn't an independent safety review required before this AI launch?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who decided the AI was safe?",
+          "Government relied on one internal report.",
+          "That report was written by OpenAI.",
+          "No external audit was required.",
+          "Demand independent safety reviews before launch."
+        ]
+      },
+      "instagram": {
+        "caption": "The government approved OpenAI’s frontier model for release based on a single safety report—written by OpenAI itself 🛑\n\nNo external audit or independent review was required before the model went public 🚨 That means one company decided its own AI was safe enough for everyone to use.\n\nIf you publish content online, your work is now being fed into systems that no outside expert has fully checked for risks or biases.\n\nWhy should a company be the sole judge of its own safety review before your tools, data, or audience are impacted?"
+      }
+    },
+    "instagram_caption": "The government approved OpenAI’s frontier model for release based on a single safety report—written by OpenAI itself 🛑\n\nNo external audit or independent review was required before the model went public 🚨 That means one company decided its own AI was safe enough for everyone to use.\n\nIf you publish content online, your work is now being fed into systems that no outside expert has fully checked for risks or biases.\n\nWhy should a company be the sole judge of its own safety review before your tools, data, or audience are impacted?",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI judged itself safe.",
+        "description": "OpenAI wrote the safety report that the government used to approve its model — no external check.",
+        "visual_hint": "single document seal",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "government document stamp"
+      },
+      {
+        "hook": "One internal report decided.",
+        "description": "The entire safety decision rested on that single internal document — no outside expert reviewed it.",
+        "visual_hint": "stack one paper",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "single paper file",
+        "image": "https://images.pexels.com/photos/7875799/pexels-photo-7875799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Company certified itself.",
+        "description": "That report came from OpenAI itself — the company certified its own model safe for release.",
+        "visual_hint": "self-signature close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "signature on paper",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No external audit required.",
+        "description": "The government required no independent audit before releasing the model to the public.",
+        "visual_hint": "empty audit room",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "empty office desk",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand independent reviews now.",
+        "description": "Call your representative and ask: why wasn't an independent safety review required before this AI launch?",
+        "visual_hint": "hand holding phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person holding phone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "savedAt": "2026-07-09T19:24:56.703Z",
+    "sourceId": "daf54a43354d2693a03bb78b16afa08c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-will-now-disclose-which-ads-are-made-with-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google will now disclose which ads are made with AI",
+    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "pubDate": "Thu, 09 Jul 2026 18:40:51 +0000",
+    "slides": [
+      "Google will label AI-made ads. Does that change trust?",
+      "The rule applies to search, YouTube, and display ads globally.",
+      "But the label only appears on high-risk political or sensitive ads.",
+      "You can now spot, not just suspect, an AI-generated promotion.",
+      "Check Google's ad transparency page for the new labels today."
+    ],
+    "thread_text": [
+      "Google will label AI ads.\n\nOnly high-risk political or sensitive ads get the label — most AI ads won't show it.",
+      "One label, three platforms.\n\nThe rule hits search, YouTube, and display ads everywhere in the world.",
+      "What the label doesn't say.\n\nYou see it only if the ad is political or sensitive — not for everyday product promos.",
+      "Spot, not just suspect.\n\nThe label lets you identify an AI-generated promotion instead of guessing its origin.",
+      "Check one page today.\n\nGo to Google's ad transparency center and filter by the new label. See which ads carry it."
+    ],
+    "video_script": [
+      "Google labels AI ads, but only for politics.",
+      "Applies globally to search, YouTube, display.",
+      "Most AI ads still show no label.",
+      "You can now spot AI promotions for sure.",
+      "Check Google's transparency page right now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Google will label AI ads.\n\nOnly high-risk political or sensitive ads get the label — most AI ads won't show it.",
+          "One label, three platforms.\n\nThe rule hits search, YouTube, and display ads everywhere in the world.",
+          "What the label doesn't say.\n\nYou see it only if the ad is political or sensitive — not for everyday product promos.",
+          "Spot, not just suspect.\n\nThe label lets you identify an AI-generated promotion instead of guessing its origin.",
+          "Check one page today.\n\nGo to Google's ad transparency center and filter by the new label. See which ads carry it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google labels AI ads, but only for politics.",
+          "Applies globally to search, YouTube, display.",
+          "Most AI ads still show no label.",
+          "You can now spot AI promotions for sure.",
+          "Check Google's transparency page right now."
+        ]
+      },
+      "instagram": {
+        "caption": "Starting today, you'll see a label on some Google ads saying they were made with AI — but not the ones you probably think.\n\nThe label only appears on search, YouTube, and display ads that are political or touch sensitive topics. Most everyday product promos won't show it 🏷️\n\nIf you create ads, nothing changes for 90% of your work — unless you run political or sensitive campaigns, then you must now check the label appears correctly.\n\nWhen was the last time you looked at Google’s ad transparency center? Check it once this week and filter by the new \"AI-generated\" label 📍"
+      }
+    },
+    "instagram_caption": "Starting today, you'll see a label on some Google ads saying they were made with AI — but not the ones you probably think.\n\nThe label only appears on search, YouTube, and display ads that are political or touch sensitive topics. Most everyday product promos won't show it 🏷️\n\nIf you create ads, nothing changes for 90% of your work — unless you run political or sensitive campaigns, then you must now check the label appears correctly.\n\nWhen was the last time you looked at Google’s ad transparency center? Check it once this week and filter by the new \"AI-generated\" label 📍",
+    "carousel_slides": [
+      {
+        "hook": "Will labeling AI ads rebuild trust?",
+        "description": "Google will label high-risk political or sensitive AI ads, but most AI ads won't show it.",
+        "visual_hint": "Label on ad mockup",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Google search results"
+      },
+      {
+        "hook": "Three platforms, one label rule.",
+        "description": "The rule applies globally to search, YouTube, and display ads—covering all Google ad placements.",
+        "visual_hint": "Three platform icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "YouTube search display",
+        "image": "https://images.pexels.com/photos/5081404/pexels-photo-5081404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "See it only for sensitive ads.",
+        "description": "The label appears only on political or sensitive ads, not everyday product promotions.",
+        "visual_hint": "Sunglasses on political flyer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "political campaign flyer",
+        "image": "https://images.pexels.com/photos/8846750/pexels-photo-8846750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spot AI ads, don't just guess.",
+        "description": "The new label lets you identify an AI-generated promotion instead of suspecting its origin.",
+        "visual_hint": "Eye focused on label",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check Google's transparency page now.",
+        "description": "Go to Google's ad transparency center and filter by the new label to see which ads carry it.",
+        "visual_hint": "Transparency center screenshot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "transparency center page",
+        "image": "https://images.pexels.com/photos/20461333/pexels-photo-20461333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "savedAt": "2026-07-09T19:24:42.897Z",
+    "sourceId": "c7ffc144e4ed7278e202a0d5db3a3902"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "new-york-times-says-openai-hid-evidence-in-chatgpt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "pubDate": "Thu, 09 Jul 2026 19:05:58 +0000",
+    "slides": [
+      "How did OpenAI bury key evidence from the court?",
+      "The NYT claims internal emails were withheld.",
+      "The hidden messages could change the trial's direction.",
+      "Your data use case now hinges on this ruling.",
+      "Check your organization's AI audit rights immediately."
+    ],
+    "thread_text": [
+      "OpenAI buried proof?\n\nThe NYT says internal emails were deliberately withheld—messages that could rewrite the trial's conclusion.",
+      "What was in those emails?\n\nEvidence hidden from the court might reveal how much copyrighted data actually fueled training.",
+      "Your data is on the line.\n\nThis ruling will set precedent for whether your organization's content can be used without consent.",
+      "Audit rights just shifted.\n\nIf the court sides with the NYT, every company using AI must check its own data provenance.",
+      "Check your AI audit now.\n\nRun a prompt that asks your AI to cite a copyrighted source. Did it? If yes, you have exposure."
+    ],
+    "video_script": [
+      "OpenAI hid emails from the court.",
+      "NYT claims key evidence was withheld.",
+      "These messages could change the trial.",
+      "Your data case hinges on this ruling.",
+      "Audit your AI tools immediately."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "OpenAI buried proof?\n\nThe NYT says internal emails were deliberately withheld—messages that could rewrite the trial's conclusion.",
+          "What was in those emails?\n\nEvidence hidden from the court might reveal how much copyrighted data actually fueled training.",
+          "Your data is on the line.\n\nThis ruling will set precedent for whether your organization's content can be used without consent.",
+          "Audit rights just shifted.\n\nIf the court sides with the NYT, every company using AI must check its own data provenance.",
+          "Check your AI audit now.\n\nRun a prompt that asks your AI to cite a copyrighted source. Did it? If yes, you have exposure."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI hid emails from the court.",
+          "NYT claims key evidence was withheld.",
+          "These messages could change the trial.",
+          "Your data case hinges on this ruling.",
+          "Audit your AI tools immediately."
+        ]
+      },
+      "instagram": {
+        "caption": "Internal emails about copyrighted training data were allegedly hidden from court — and the New York Times says OpenAI did it on purpose.\n\nThe messages could reveal exactly how much protected content was used to build ChatGPT.\n\nThat evidence was never handed over to the judge.📄\n\nIf the court rules this was intentional hiding, your public work may be scraped without your knowledge — and you might never get to challenge it.\n\nDoes your organization have the right to audit the data that trained the AI tools you rely on?🕵️‍♂️ Run one audit request today."
+      }
+    },
+    "instagram_caption": "Internal emails about copyrighted training data were allegedly hidden from court — and the New York Times says OpenAI did it on purpose.\n\nThe messages could reveal exactly how much protected content was used to build ChatGPT.\n\nThat evidence was never handed over to the judge.📄\n\nIf the court rules this was intentional hiding, your public work may be scraped without your knowledge — and you might never get to challenge it.\n\nDoes your organization have the right to audit the data that trained the AI tools you rely on?🕵️‍♂️ Run one audit request today.",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI buried evidence?",
+        "description": "NYT claims internal emails were deliberately withheld, potentially hiding how copyrighted data fueled training.",
+        "visual_hint": "closed filing cabinet",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "filing cabinet"
+      },
+      {
+        "hook": "Hidden emails change everything.",
+        "description": "The missing emails could reveal key evidence and rewrite the trial's direction against OpenAI.",
+        "visual_hint": "court gavel close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "court gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data is on trial.",
+        "description": "This ruling will set precedent on whether your organization's content can be used without consent.",
+        "visual_hint": "magnifying glass over text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass paper",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit rights just shifted.",
+        "description": "If court sides with NYT, every company must check AI data provenance for hidden risks.",
+        "visual_hint": "hands typing on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your AI audit now.",
+        "description": "Run a prompt asking your AI to cite a copyrighted source. If it does, you have exposure.",
+        "visual_hint": "question mark on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2187615188.jpg?resize=1200,800",
+    "savedAt": "2026-07-09T19:24:22.702Z",
+    "sourceId": "1db8020f654e326c06bf19f55816b481"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "fl-studio-2026-turns-its-ai-chatbot-into-your-assi",
     "prompt_version": "1.0.0",
     "status": "published",

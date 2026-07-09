@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-will-now-disclose-which-ads-are-made-with-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google will now disclose which ads are made with AI",
+  "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+  "pubDate": "Thu, 09 Jul 2026 18:40:51 +0000",
+  "slides": [
+    "Google will label AI-made ads. Does that change trust?",
+    "The rule applies to search, YouTube, and display ads globally.",
+    "But the label only appears on high-risk political or sensitive ads.",
+    "You can now spot, not just suspect, an AI-generated promotion.",
+    "Check Google's ad transparency page for the new labels today."
+  ],
+  "thread_text": [
+    "Google will label AI ads.\n\nOnly high-risk political or sensitive ads get the label — most AI ads won't show it.",
+    "One label, three platforms.\n\nThe rule hits search, YouTube, and display ads everywhere in the world.",
+    "What the label doesn't say.\n\nYou see it only if the ad is political or sensitive — not for everyday product promos.",
+    "Spot, not just suspect.\n\nThe label lets you identify an AI-generated promotion instead of guessing its origin.",
+    "Check one page today.\n\nGo to Google's ad transparency center and filter by the new label. See which ads carry it."
+  ],
+  "video_script": [
+    "Google labels AI ads, but only for politics.",
+    "Applies globally to search, YouTube, display.",
+    "Most AI ads still show no label.",
+    "You can now spot AI promotions for sure.",
+    "Check Google's transparency page right now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google will label AI ads.\n\nOnly high-risk political or sensitive ads get the label — most AI ads won't show it.",
+        "One label, three platforms.\n\nThe rule hits search, YouTube, and display ads everywhere in the world.",
+        "What the label doesn't say.\n\nYou see it only if the ad is political or sensitive — not for everyday product promos.",
+        "Spot, not just suspect.\n\nThe label lets you identify an AI-generated promotion instead of guessing its origin.",
+        "Check one page today.\n\nGo to Google's ad transparency center and filter by the new label. See which ads carry it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google labels AI ads, but only for politics.",
+        "Applies globally to search, YouTube, display.",
+        "Most AI ads still show no label.",
+        "You can now spot AI promotions for sure.",
+        "Check Google's transparency page right now."
+      ]
+    },
+    "instagram": {
+      "caption": "Starting today, you'll see a label on some Google ads saying they were made with AI — but not the ones you probably think.\n\nThe label only appears on search, YouTube, and display ads that are political or touch sensitive topics. Most everyday product promos won't show it 🏷️\n\nIf you create ads, nothing changes for 90% of your work — unless you run political or sensitive campaigns, then you must now check the label appears correctly.\n\nWhen was the last time you looked at Google’s ad transparency center? Check it once this week and filter by the new \"AI-generated\" label 📍"
+    }
+  },
+  "instagram_caption": "Starting today, you'll see a label on some Google ads saying they were made with AI — but not the ones you probably think.\n\nThe label only appears on search, YouTube, and display ads that are political or touch sensitive topics. Most everyday product promos won't show it 🏷️\n\nIf you create ads, nothing changes for 90% of your work — unless you run political or sensitive campaigns, then you must now check the label appears correctly.\n\nWhen was the last time you looked at Google’s ad transparency center? Check it once this week and filter by the new \"AI-generated\" label 📍",
+  "carousel_slides": [
+    {
+      "hook": "Will labeling AI ads rebuild trust?",
+      "description": "Google will label high-risk political or sensitive AI ads, but most AI ads won't show it.",
+      "visual_hint": "Label on ad mockup",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google search results"
+    },
+    {
+      "hook": "Three platforms, one label rule.",
+      "description": "The rule applies globally to search, YouTube, and display ads—covering all Google ad placements.",
+      "visual_hint": "Three platform icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "YouTube search display",
+      "image": "https://images.pexels.com/photos/5081404/pexels-photo-5081404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "See it only for sensitive ads.",
+      "description": "The label appears only on political or sensitive ads, not everyday product promotions.",
+      "visual_hint": "Sunglasses on political flyer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "political campaign flyer",
+      "image": "https://images.pexels.com/photos/8846750/pexels-photo-8846750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spot AI ads, don't just guess.",
+      "description": "The new label lets you identify an AI-generated promotion instead of suspecting its origin.",
+      "visual_hint": "Eye focused on label",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check Google's transparency page now.",
+      "description": "Go to Google's ad transparency center and filter by the new label to see which ads carry it.",
+      "visual_hint": "Transparency center screenshot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "transparency center page",
+      "image": "https://images.pexels.com/photos/20461333/pexels-photo-20461333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+  "savedAt": "2026-07-09T19:24:42.897Z",
+  "sourceId": "c7ffc144e4ed7278e202a0d5db3a3902"
+}

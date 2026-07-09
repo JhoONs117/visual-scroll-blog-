@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-did-the-government-decide-openai-s-frontier-mo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+  "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+  "pubDate": "Thu, 09 Jul 2026 18:22:39 +0000",
+  "slides": [
+    "Who really decided OpenAI's model was safe?",
+    "The government relied on a single internal report.",
+    "That report was written by OpenAI itself.",
+    "No external audit was required before release.",
+    "Demand independent safety reviews before launch."
+  ],
+  "thread_text": [
+    "1. Who really decided?\n\nOpenAI wrote the safety report the government used to approve its model. No external check was done.",
+    "2. One report, no audit\n\nThe entire safety decision rested on a single internal document. No outside expert reviewed it.",
+    "3. OpenAI judged itself\n\nThat report came from OpenAI itself. The company certified its own model safe.",
+    "4. Why no external review?\n\nThe government required no independent audit before releasing the model to the public.",
+    "5. Demand one today\n\nCall your representative and ask: why wasn't an independent safety review required before this AI launch?"
+  ],
+  "video_script": [
+    "Who decided the AI was safe?",
+    "Government relied on one internal report.",
+    "That report was written by OpenAI.",
+    "No external audit was required.",
+    "Demand independent safety reviews before launch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really decided?\n\nOpenAI wrote the safety report the government used to approve its model. No external check was done.",
+        "2. One report, no audit\n\nThe entire safety decision rested on a single internal document. No outside expert reviewed it.",
+        "3. OpenAI judged itself\n\nThat report came from OpenAI itself. The company certified its own model safe.",
+        "4. Why no external review?\n\nThe government required no independent audit before releasing the model to the public.",
+        "5. Demand one today\n\nCall your representative and ask: why wasn't an independent safety review required before this AI launch?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who decided the AI was safe?",
+        "Government relied on one internal report.",
+        "That report was written by OpenAI.",
+        "No external audit was required.",
+        "Demand independent safety reviews before launch."
+      ]
+    },
+    "instagram": {
+      "caption": "The government approved OpenAI’s frontier model for release based on a single safety report—written by OpenAI itself 🛑\n\nNo external audit or independent review was required before the model went public 🚨 That means one company decided its own AI was safe enough for everyone to use.\n\nIf you publish content online, your work is now being fed into systems that no outside expert has fully checked for risks or biases.\n\nWhy should a company be the sole judge of its own safety review before your tools, data, or audience are impacted?"
+    }
+  },
+  "instagram_caption": "The government approved OpenAI’s frontier model for release based on a single safety report—written by OpenAI itself 🛑\n\nNo external audit or independent review was required before the model went public 🚨 That means one company decided its own AI was safe enough for everyone to use.\n\nIf you publish content online, your work is now being fed into systems that no outside expert has fully checked for risks or biases.\n\nWhy should a company be the sole judge of its own safety review before your tools, data, or audience are impacted?",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI judged itself safe.",
+      "description": "OpenAI wrote the safety report that the government used to approve its model — no external check.",
+      "visual_hint": "single document seal",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "government document stamp"
+    },
+    {
+      "hook": "One internal report decided.",
+      "description": "The entire safety decision rested on that single internal document — no outside expert reviewed it.",
+      "visual_hint": "stack one paper",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "single paper file",
+      "image": "https://images.pexels.com/photos/7875799/pexels-photo-7875799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Company certified itself.",
+      "description": "That report came from OpenAI itself — the company certified its own model safe for release.",
+      "visual_hint": "self-signature close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "signature on paper",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No external audit required.",
+      "description": "The government required no independent audit before releasing the model to the public.",
+      "visual_hint": "empty audit room",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand independent reviews now.",
+      "description": "Call your representative and ask: why wasn't an independent safety review required before this AI launch?",
+      "visual_hint": "hand holding phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person holding phone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+  "savedAt": "2026-07-09T19:24:56.703Z",
+  "sourceId": "daf54a43354d2693a03bb78b16afa08c"
+}

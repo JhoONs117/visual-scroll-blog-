@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-to-stop-meta-s-ai-image-generator-from-using-y",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+  "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+  "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
+  "slides": [
+    "Your Instagram photos are training Meta’s AI. Want out?",
+    "Meta uses your public posts to improve its image generator.",
+    "The opt-out was buried—and doesn't apply retroactively.",
+    "You must submit a form in settings to block future use.",
+    "Check your privacy settings today and file the objection."
+  ],
+  "thread_text": [
+    "1. Your photos are training AI.\n\nMeta already scraped your public Instagram images without asking. The opt-out only stops future use.",
+    "2. The opt-out is hidden.\n\nYou have to dig through settings to find a form. Most people will never know it exists.",
+    "3. No retroactive protection.\n\nEverything posted before you opt out is already feeding Meta's image generator. You can't delete that data.",
+    "4. One form blocks future use.\n\nSubmit the objection in your privacy settings. It's a few clicks, but only works going forward.",
+    "5. File the objection today.\n\nOpen Instagram settings → Privacy → Data to block future scraping. Have you checked yours yet?"
+  ],
+  "video_script": [
+    "Meta uses your Instagram photos to train AI.",
+    "The opt-out is buried in your settings.",
+    "It doesn't apply to old photos.",
+    "You can block future use with a form.",
+    "Open your privacy settings and file it now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your photos are training AI.\n\nMeta already scraped your public Instagram images without asking. The opt-out only stops future use.",
+        "2. The opt-out is hidden.\n\nYou have to dig through settings to find a form. Most people will never know it exists.",
+        "3. No retroactive protection.\n\nEverything posted before you opt out is already feeding Meta's image generator. You can't delete that data.",
+        "4. One form blocks future use.\n\nSubmit the objection in your privacy settings. It's a few clicks, but only works going forward.",
+        "5. File the objection today.\n\nOpen Instagram settings → Privacy → Data to block future scraping. Have you checked yours yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta uses your Instagram photos to train AI.",
+        "The opt-out is buried in your settings.",
+        "It doesn't apply to old photos.",
+        "You can block future use with a form.",
+        "Open your privacy settings and file it now."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta already scraped your public Instagram photos—without asking—to train its AI image generator. 🚫\n\nThe opt-out button is hidden deep in settings. And even if you file it, everything you posted before stays in Meta’s model forever. 🔍 You can delete the data, but you can't delete what the AI already learned from it.\n\nFor anyone posting work or personal content: what you share now is future training fuel unless you act.\n\nHave you filed the objection in your Instagram privacy settings yet? 📸"
+    }
+  },
+  "instagram_caption": "Meta already scraped your public Instagram photos—without asking—to train its AI image generator. 🚫\n\nThe opt-out button is hidden deep in settings. And even if you file it, everything you posted before stays in Meta’s model forever. 🔍 You can delete the data, but you can't delete what the AI already learned from it.\n\nFor anyone posting work or personal content: what you share now is future training fuel unless you act.\n\nHave you filed the objection in your Instagram privacy settings yet? 📸",
+  "carousel_slides": [
+    {
+      "hook": "Your photos train AI without asking.",
+      "description": "Meta already scraped your public Instagram images. Opt-out only stops future use, not past data.",
+      "visual_hint": "phone camera eye glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone camera lens"
+    },
+    {
+      "hook": "The opt-out is hidden in settings.",
+      "description": "You must dig through privacy settings to find the form. Most people will never know it exists.",
+      "visual_hint": "confusing menu layers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Past posts are already AI fuel.",
+      "description": "No retroactive protection. Everything posted before opting out already feeds Meta's image generator.",
+      "visual_hint": "backward clock AI data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One form blocks future scraping.",
+      "description": "Submit the objection in your privacy settings. It takes a few clicks but only works going forward.",
+      "visual_hint": "human finger tapping submit",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this guide and check your settings.",
+      "description": "Open Instagram settings → Privacy → Data to block future use. Have you checked yours yet?",
+      "visual_hint": "checkmark privacy shield",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings screen",
+      "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
+  "savedAt": "2026-07-09T19:25:11.515Z",
+  "sourceId": "21a90f4f28e43520a3b99eff7a025ce0"
+}
