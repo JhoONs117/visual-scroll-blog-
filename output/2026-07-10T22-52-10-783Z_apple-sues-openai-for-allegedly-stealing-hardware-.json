@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-sues-openai-for-allegedly-stealing-hardware-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+  "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+  "pubDate": "2026-07-10T21:36:51.000Z",
+  "slides": [
+    "Apple just sued OpenAI. Why now?",
+    "The suit claims secrets were stolen via an employee.",
+    "That employee worked directly on Apple's new AI chips.",
+    "Your next iPhone might lose custom AI features.",
+    "Check your employer's data policies this week."
+  ],
+  "thread_text": [
+    "1. Apple vs. OpenAI\n\nAn employee took secret AI chip data before leaving for OpenAI.",
+    "2. The Insider\n\nHe worked directly on next-gen chips for Apple's on-device AI.",
+    "3. What's at Stake\n\nYour next iPhone could lose custom AI features planned for launch.",
+    "4. Why Now?\n\nOpenAI just closed a massive funding round. Apple timed the suit.",
+    "5. Check Your Policies\n\nDoes your employer’s data policy let you take work to a competitor?"
+  ],
+  "video_script": [
+    "Apple sues OpenAI over stolen chip secrets.",
+    "A former employee took the data with him.",
+    "He worked on Apple's new AI chips.",
+    "Your next iPhone may lose those features.",
+    "Review your own data policy this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple vs. OpenAI\n\nAn employee took secret AI chip data before leaving for OpenAI.",
+        "2. The Insider\n\nHe worked directly on next-gen chips for Apple's on-device AI.",
+        "3. What's at Stake\n\nYour next iPhone could lose custom AI features planned for launch.",
+        "4. Why Now?\n\nOpenAI just closed a massive funding round. Apple timed the suit.",
+        "5. Check Your Policies\n\nDoes your employer’s data policy let you take work to a competitor?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple sues OpenAI over stolen chip secrets.",
+        "A former employee took the data with him.",
+        "He worked on Apple's new AI chips.",
+        "Your next iPhone may lose those features.",
+        "Review your own data policy this week."
+      ]
+    },
+    "instagram": {
+      "caption": "An employee who worked on your next iPhone's custom AI chips allegedly stole secrets before jumping to OpenAI 🤖💼\n\nApple just filed a lawsuit. The insider had access to next-gen hardware for on-device AI features. The timing? Right after OpenAI closed a huge funding round.\n\nThose new iPhone AI tools you were expecting? They might get delayed or dropped entirely. 🚫📱\n\nDoes your employer have any data policies that let you take work to a competitor? When did you last check them?"
+    }
+  },
+  "instagram_caption": "An employee who worked on your next iPhone's custom AI chips allegedly stole secrets before jumping to OpenAI 🤖💼\n\nApple just filed a lawsuit. The insider had access to next-gen hardware for on-device AI features. The timing? Right after OpenAI closed a huge funding round.\n\nThose new iPhone AI tools you were expecting? They might get delayed or dropped entirely. 🚫📱\n\nDoes your employer have any data policies that let you take work to a competitor? When did you last check them?",
+  "carousel_slides": [
+    {
+      "hook": "Your next iPhone could lose AI.",
+      "description": "Apple's custom AI chip features for future iPhones are at risk due to the lawsuit.",
+      "visual_hint": "iPhone outline with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "iPhone prototype"
+    },
+    {
+      "hook": "An insider took secret chip data.",
+      "description": "An employee working on Apple's next-gen AI chips allegedly stole secrets before joining OpenAI.",
+      "visual_hint": "person silhouette near data server",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why Apple sued now.",
+      "description": "The lawsuit was timed right after OpenAI closed a massive funding round, escalating the stakes.",
+      "visual_hint": "stack of money and scales",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who is the insider?",
+      "description": "He worked directly on Apple's on-device AI chips before taking the data to a competitor.",
+      "visual_hint": "silhouette walking through office",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your employer's data policy.",
+      "description": "Review your contract this week to see if you can take work to a competitor without consequences.",
+      "visual_hint": "contract paper and magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-10T22:52:24.170Z",
+  "sourceId": "82c4cd2669986e2117724f157ec40438"
+}
