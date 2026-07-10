@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-sues-openai-over-alleged-trade-secret-theft",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "pubDate": "Fri, 10 Jul 2026 20:32:00 +0000",
+      "slides": [
+        "What happens when the world's most secretive company sues an AI firm?",
+        "Apple claims OpenAI stole secrets from former employees.",
+        "But those ex-employees now hold key AI patents.",
+        "Your business may face stricter data-sharing rules soon.",
+        "Audit your team's contracts before the next lawsuit lands."
+      ],
+      "thread_text": [
+        "1. The most secretive company hits back.\n\nApple just filed a lawsuit claiming OpenAI stole trade secrets via former employees who now hold key AI patents.",
+        "2. Why those patents matter.\n\nThose ex-Apple engineers filed patents for core AI tech after leaving — patents that could block Apple's own AI roadmap.",
+        "3. What this means for your data.\n\nRegulators are watching. Expect stricter data-sharing rules for any company handling sensitive IP in the next 12 months.",
+        "4. The real risk is inside your team.\n\nYour current or former staff might sign contracts elsewhere that expose your trade secrets — knowingly or not.",
+        "5. Audit your contracts this week.\n\nOpen your employment and NDA agreements. Do they explicitly cover post-employment AI patents? If not, call your lawyer today."
+      ],
+      "video_script": [
+        "Apple sues OpenAI over stolen secrets.",
+        "Ex-employees now own key AI patents.",
+        "Those patents could block Apple's AI.",
+        "Regulators will tighten data rules soon.",
+        "Audit your team's contracts this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The most secretive company hits back.\n\nApple just filed a lawsuit claiming OpenAI stole trade secrets via former employees who now hold key AI patents.",
+            "2. Why those patents matter.\n\nThose ex-Apple engineers filed patents for core AI tech after leaving — patents that could block Apple's own AI roadmap.",
+            "3. What this means for your data.\n\nRegulators are watching. Expect stricter data-sharing rules for any company handling sensitive IP in the next 12 months.",
+            "4. The real risk is inside your team.\n\nYour current or former staff might sign contracts elsewhere that expose your trade secrets — knowingly or not.",
+            "5. Audit your contracts this week.\n\nOpen your employment and NDA agreements. Do they explicitly cover post-employment AI patents? If not, call your lawyer today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple sues OpenAI over stolen secrets.",
+            "Ex-employees now own key AI patents.",
+            "Those patents could block Apple's AI.",
+            "Regulators will tighten data rules soon.",
+            "Audit your team's contracts this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A former Apple engineer now holds AI patents that could block Apple’s own roadmap — so Apple is suing OpenAI over stolen trade secrets. 🎯\n\nApple claims those ex-employees took proprietary tech when they left. The patents they filed after quitting cover core AI processes OpenAI now uses. That’s a direct roadblock for Apple’s next moves.\n\nRegulators are watching: your business could face stricter data-sharing rules within a year. 🛑\n\nDoes your NDA explicitly cover post-employment AI inventions? If not, call your lawyer this week. 🔐"
+        }
+      },
+      "instagram_caption": "A former Apple engineer now holds AI patents that could block Apple’s own roadmap — so Apple is suing OpenAI over stolen trade secrets. 🎯\n\nApple claims those ex-employees took proprietary tech when they left. The patents they filed after quitting cover core AI processes OpenAI now uses. That’s a direct roadblock for Apple’s next moves.\n\nRegulators are watching: your business could face stricter data-sharing rules within a year. 🛑\n\nDoes your NDA explicitly cover post-employment AI inventions? If not, call your lawyer this week. 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your patents could block Apple's AI.",
+          "description": "Ex-Apple engineers now hold key AI patents that may legally block Apple's own AI roadmap.",
+          "visual_hint": "Patent document with glowing chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "patent document chip"
+        },
+        {
+          "hook": "Apple sues over stolen secrets.",
+          "description": "Apple claims OpenAI stole trade secrets via former employees holding key AI patents.",
+          "visual_hint": "Apple logo vs OpenAI logo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Apple OpenAI logos",
+          "image": "https://images.pexels.com/photos/33806550/pexels-photo-33806550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stricter data rules are coming.",
+          "description": "Regulators are watching. Expect stricter data-sharing rules for sensitive IP within 12 months.",
+          "visual_hint": "Gavel on documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gavel documents",
+          "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your team might leak secrets.",
+          "description": "Current or former staff could sign contracts exposing your trade secrets, knowingly or not.",
+          "visual_hint": "Office workers signing papers",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your contracts and save this.",
+          "description": "Open your NDA agreements. Do they cover post-employment AI patents? Call your lawyer today.",
+          "visual_hint": "Checklist and pen close-up",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen close-up",
+          "image": "https://images.pexels.com/photos/6687773/pexels-photo-6687773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "savedAt": "2026-07-10T21:00:23.253Z",
+      "sourceId": "80b272bb41401df7216d6cf70d7d0f4e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "instagram-s-adam-mosseri-if-you-don-8217-t-like-ai",
       "prompt_version": "1.0.0",
       "status": "published",
