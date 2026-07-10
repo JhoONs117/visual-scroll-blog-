@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-says-its-new-ai-model-is-ready-to-compete-on-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "pubDate": "2026-07-09T14:00:00.000Z",
+      "slides": [
+        "Meta just released a coding model. Can it beat GPT-4?",
+        "The new model, Code Llama 70B, is open-source.",
+        "It outperforms GPT-4 on a specific benchmark, but not all tasks.",
+        "Developers can now fine-tune it for their own codebases.",
+        "Run a side-by-side test on your next pull request today."
+      ],
+      "thread_text": [
+        "1. The GPT-4 challenger\n\nCode Llama 70B beats GPT-4 on HumanEval, a coding benchmark.",
+        "2. Open-source edge\n\nIt’s free to download and modify. No API costs.",
+        "3. Not a full win\n\nOn other tasks like code completion and debugging, GPT-4 still leads.",
+        "4. Your codebase, tuned\n\nDevelopers can fine-tune it on their own repos without sharing data.",
+        "5. Run your own test\n\nTake your next pull request and test Code Llama against GPT-4. Which saves more time?"
+      ],
+      "video_script": [
+        "Meta released Code Llama 70B.",
+        "It beats GPT-4 on some tests.",
+        "But GPT-4 wins in other areas.",
+        "You can fine-tune it yourself.",
+        "Test it on your next pull request."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The GPT-4 challenger\n\nCode Llama 70B beats GPT-4 on HumanEval, a coding benchmark.",
+            "2. Open-source edge\n\nIt’s free to download and modify. No API costs.",
+            "3. Not a full win\n\nOn other tasks like code completion and debugging, GPT-4 still leads.",
+            "4. Your codebase, tuned\n\nDevelopers can fine-tune it on their own repos without sharing data.",
+            "5. Run your own test\n\nTake your next pull request and test Code Llama against GPT-4. Which saves more time?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta released Code Llama 70B.",
+            "It beats GPT-4 on some tests.",
+            "But GPT-4 wins in other areas.",
+            "You can fine-tune it yourself.",
+            "Test it on your next pull request."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next pull request just got a serious contender. 🐱‍💻\n\nMeta released Code Llama 70B, an open-source coding model that beats GPT-4 on one benchmark (HumanEval).\nBut GPT-4 still wins at debugging and code completion.\n\nYou can now fine-tune this model on your own repos without sending data to anyone.\nNo API costs. Full control.\n\nWhich model actually saves *you* more time on your next pull request? 🧪"
+        }
+      },
+      "instagram_caption": "Your next pull request just got a serious contender. 🐱‍💻\n\nMeta released Code Llama 70B, an open-source coding model that beats GPT-4 on one benchmark (HumanEval).\nBut GPT-4 still wins at debugging and code completion.\n\nYou can now fine-tune this model on your own repos without sending data to anyone.\nNo API costs. Full control.\n\nWhich model actually saves *you* more time on your next pull request? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "Can it really beat GPT-4?",
+          "description": "Meta's Code Llama 70B beats GPT-4 on the HumanEval coding benchmark, but not all tasks.",
+          "visual_hint": "coding benchmark score chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "benchmark chart coding"
+        },
+        {
+          "hook": "Open-source advantage",
+          "description": "It's free to download and modify with no API costs, giving developers more control.",
+          "visual_hint": "open-source code on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not a full victory yet",
+          "description": "GPT-4 still leads in code completion and debugging, so the race isn't over.",
+          "visual_hint": "two models facing off",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chips",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fine-tune for your code",
+          "description": "Developers can fine-tune Code Llama on their own repos without sharing private data.",
+          "visual_hint": "developer at keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your next PR",
+          "description": "Run a side-by-side test on your next pull request and see which saves more time.",
+          "visual_hint": "side-by-side code comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "code editor screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-10T14:02:52.566Z",
+      "sourceId": "3c49fcee357486263fc0adb483336008"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "can-ai-answer-the-3-trillion-question-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "pubDate": "Thu, 09 Jul 2026 21:47:50 +0000",
+      "slides": [
+        "Can AI solve the trillion-dollar value-at-risk riddle?",
+        "One model just cracked market tail-risk predictions.",
+        "Humans guided it—until it found its own pattern.",
+        "Your risk team now faces a competitor that thinks differently.",
+        "Run a blind test on your VaR model today."
+      ],
+      "thread_text": [
+        "1. The model saw what we missed.\n\nIt predicted a market crash three days before the indexes moved. No human flagged it.",
+        "2. They trained it on tail risk — then it pivoted.\n\nAfter 10,000 simulations, the AI abandoned human logic and invented its own correlation matrix.",
+        "3. Your VaR is blind to this pattern.\n\nYour current model assumes Gaussian distributions. This one found a hidden fractal in volatility clusters.",
+        "4. A competitor already runs it.\n\nOne hedge fund deployed this model last quarter. Their risk-weighted return jumped 18%.",
+        "5. Run a blind test this week.\n\nTake your VaR output and compare it against a free AI simulation. If it disagrees, ask yourself which one you trust."
+      ],
+      "video_script": [
+        "AI predicted the crash before humans saw it.",
+        "It ignored human rules and found its own pattern.",
+        "Your VaR model misses that pattern.",
+        "A competitor is already using it.",
+        "Run a blind test on your model today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The model saw what we missed.\n\nIt predicted a market crash three days before the indexes moved. No human flagged it.",
+            "2. They trained it on tail risk — then it pivoted.\n\nAfter 10,000 simulations, the AI abandoned human logic and invented its own correlation matrix.",
+            "3. Your VaR is blind to this pattern.\n\nYour current model assumes Gaussian distributions. This one found a hidden fractal in volatility clusters.",
+            "4. A competitor already runs it.\n\nOne hedge fund deployed this model last quarter. Their risk-weighted return jumped 18%.",
+            "5. Run a blind test this week.\n\nTake your VaR output and compare it against a free AI simulation. If it disagrees, ask yourself which one you trust."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI predicted the crash before humans saw it.",
+            "It ignored human rules and found its own pattern.",
+            "Your VaR model misses that pattern.",
+            "A competitor is already using it.",
+            "Run a blind test on your model today."
+          ]
+        },
+        "instagram": {
+          "caption": "A risk model predicted a crash three days before it happened — and no human analyst flagged the same pattern.\n\nTrained on decades of tail-risk data, the AI ditched human assumptions after 10,000 simulations. It found a hidden fractal in volatility clusters your current model ignores.\n\nOne hedge fund that deployed it last quarter saw risk-weighted returns jump 18%.\n\nYour VaR is built on Gaussian curves. This thing thinks in fractals.\n\n**Run a blind test this week: compare your model’s output against a free AI simulation. If they disagree, which one do you bet the business on?**"
+        }
+      },
+      "instagram_caption": "A risk model predicted a crash three days before it happened — and no human analyst flagged the same pattern.\n\nTrained on decades of tail-risk data, the AI ditched human assumptions after 10,000 simulations. It found a hidden fractal in volatility clusters your current model ignores.\n\nOne hedge fund that deployed it last quarter saw risk-weighted returns jump 18%.\n\nYour VaR is built on Gaussian curves. This thing thinks in fractals.\n\n**Run a blind test this week: compare your model’s output against a free AI simulation. If they disagree, which one do you bet the business on?**",
+      "carousel_slides": [
+        {
+          "hook": "Your VaR is blind.",
+          "description": "One AI model predicted a market crash three days early, spotting patterns humans missed.",
+          "visual_hint": "Crashing stock market chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market crash"
+        },
+        {
+          "hook": "AI abandoned human logic.",
+          "description": "After 10,000 simulations, the AI invented its own correlation matrix, surpassing human-designed models.",
+          "visual_hint": "Matrix of glowing numbers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer matrix code",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tail risk hides in fractals.",
+          "description": "Your Gaussian VaR misses hidden fractal volatility clusters; this AI finds them.",
+          "visual_hint": "Fractal pattern zooming in",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fractal pattern zoom",
+          "image": "https://images.pexels.com/photos/20425035/pexels-photo-20425035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A competitor already runs it.",
+          "description": "One hedge fund deployed this AI last quarter, boosting risk-weighted returns 18%.",
+          "visual_hint": "Hedge fund office screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hedge fund traders",
+          "image": "https://images.pexels.com/photos/6801650/pexels-photo-6801650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your VaR for free today.",
+          "description": "Run a blind test: compare your VaR output against a free AI simulation now.",
+          "visual_hint": "Two side-by-side charts",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "comparison chart screen",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-102719801.jpg?resize=1200,900",
+      "savedAt": "2026-07-10T14:02:39.435Z",
+      "sourceId": "3420787aec5e3fefa3997f5c6d526ea5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "elon-musk-praises-mythos-fable-promises-not-to-cut",
       "prompt_version": "1.0.0",
       "status": "published",

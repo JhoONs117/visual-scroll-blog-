@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-says-its-new-ai-model-is-ready-to-compete-on-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta says its new AI model is ready to compete on coding",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+  "pubDate": "2026-07-09T14:00:00.000Z",
+  "slides": [
+    "Meta just released a coding model. Can it beat GPT-4?",
+    "The new model, Code Llama 70B, is open-source.",
+    "It outperforms GPT-4 on a specific benchmark, but not all tasks.",
+    "Developers can now fine-tune it for their own codebases.",
+    "Run a side-by-side test on your next pull request today."
+  ],
+  "thread_text": [
+    "1. The GPT-4 challenger\n\nCode Llama 70B beats GPT-4 on HumanEval, a coding benchmark.",
+    "2. Open-source edge\n\nIt’s free to download and modify. No API costs.",
+    "3. Not a full win\n\nOn other tasks like code completion and debugging, GPT-4 still leads.",
+    "4. Your codebase, tuned\n\nDevelopers can fine-tune it on their own repos without sharing data.",
+    "5. Run your own test\n\nTake your next pull request and test Code Llama against GPT-4. Which saves more time?"
+  ],
+  "video_script": [
+    "Meta released Code Llama 70B.",
+    "It beats GPT-4 on some tests.",
+    "But GPT-4 wins in other areas.",
+    "You can fine-tune it yourself.",
+    "Test it on your next pull request."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The GPT-4 challenger\n\nCode Llama 70B beats GPT-4 on HumanEval, a coding benchmark.",
+        "2. Open-source edge\n\nIt’s free to download and modify. No API costs.",
+        "3. Not a full win\n\nOn other tasks like code completion and debugging, GPT-4 still leads.",
+        "4. Your codebase, tuned\n\nDevelopers can fine-tune it on their own repos without sharing data.",
+        "5. Run your own test\n\nTake your next pull request and test Code Llama against GPT-4. Which saves more time?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta released Code Llama 70B.",
+        "It beats GPT-4 on some tests.",
+        "But GPT-4 wins in other areas.",
+        "You can fine-tune it yourself.",
+        "Test it on your next pull request."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next pull request just got a serious contender. 🐱‍💻\n\nMeta released Code Llama 70B, an open-source coding model that beats GPT-4 on one benchmark (HumanEval).\nBut GPT-4 still wins at debugging and code completion.\n\nYou can now fine-tune this model on your own repos without sending data to anyone.\nNo API costs. Full control.\n\nWhich model actually saves *you* more time on your next pull request? 🧪"
+    }
+  },
+  "instagram_caption": "Your next pull request just got a serious contender. 🐱‍💻\n\nMeta released Code Llama 70B, an open-source coding model that beats GPT-4 on one benchmark (HumanEval).\nBut GPT-4 still wins at debugging and code completion.\n\nYou can now fine-tune this model on your own repos without sending data to anyone.\nNo API costs. Full control.\n\nWhich model actually saves *you* more time on your next pull request? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "Can it really beat GPT-4?",
+      "description": "Meta's Code Llama 70B beats GPT-4 on the HumanEval coding benchmark, but not all tasks.",
+      "visual_hint": "coding benchmark score chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "benchmark chart coding"
+    },
+    {
+      "hook": "Open-source advantage",
+      "description": "It's free to download and modify with no API costs, giving developers more control.",
+      "visual_hint": "open-source code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not a full victory yet",
+      "description": "GPT-4 still leads in code completion and debugging, so the race isn't over.",
+      "visual_hint": "two models facing off",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chips",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fine-tune for your code",
+      "description": "Developers can fine-tune Code Llama on their own repos without sharing private data.",
+      "visual_hint": "developer at keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your next PR",
+      "description": "Run a side-by-side test on your next pull request and see which saves more time.",
+      "visual_hint": "side-by-side code comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code editor screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-10T14:02:52.566Z",
+  "sourceId": "3c49fcee357486263fc0adb483336008"
+}
