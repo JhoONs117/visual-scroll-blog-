@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+  "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+  "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
+  "slides": [
+    "SK Hynix raised $26.5B in the largest foreign US IPO ever.",
+    "The cash came with strings attached: build US fabs now.",
+    "No one expected this record—not even Wall Street analysts.",
+    "Your supply chain just gained a critical new US chip source.",
+    "Ask your procurement team: is your memory supply diversified?"
+  ],
+  "thread_text": [
+    "1. Record IPO, hidden cost\n\nSK Hynix raised $26.5B in the largest foreign US IPO ever. But the cash came with strings attached: build US fabs now.",
+    "2. Wall Street blindsided\n\nNo one expected this record—not even Wall Street analysts. The scale caught everyone off guard.",
+    "3. New chip source\n\nYour supply chain just gained a critical new US chip source. Memory production is shifting onshore.",
+    "4. Supply chain wake-up\n\nThis move reshapes global memory supply. Dependence on Asian fabs just got a hard check.",
+    "5. Ask your procurement team\n\nIs your memory supply diversified? If not, call your team today and audit your sources."
+  ],
+  "video_script": [
+    "SK Hynix raised twenty six billion dollars.",
+    "The cash forces new US factories now.",
+    "Wall Street missed this record entirely.",
+    "Your supply chain gets a new source.",
+    "Procurement team: diversify memory supply today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Record IPO, hidden cost\n\nSK Hynix raised $26.5B in the largest foreign US IPO ever. But the cash came with strings attached: build US fabs now.",
+        "2. Wall Street blindsided\n\nNo one expected this record—not even Wall Street analysts. The scale caught everyone off guard.",
+        "3. New chip source\n\nYour supply chain just gained a critical new US chip source. Memory production is shifting onshore.",
+        "4. Supply chain wake-up\n\nThis move reshapes global memory supply. Dependence on Asian fabs just got a hard check.",
+        "5. Ask your procurement team\n\nIs your memory supply diversified? If not, call your team today and audit your sources."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SK Hynix raised twenty six billion dollars.",
+        "The cash forces new US factories now.",
+        "Wall Street missed this record entirely.",
+        "Your supply chain gets a new source.",
+        "Procurement team: diversify memory supply today."
+      ]
+    },
+    "instagram": {
+      "caption": "$26.5B—the biggest foreign IPO in US history—but the fine print says SK Hynix must build new American fabs now.\n\nWall Street analysts didn't see this record coming. Memory chip production is officially shifting onshore, giving your supply chain a direct new US source for critical components.\n\nIf you write about tech procurement or hardware, your next piece needs to address the geopolitical leverage shift away from Asian fabs.\n\nAsk your procurement team: are your memory sources diversified, or are you still betting on just one continent?"
+    }
+  },
+  "instagram_caption": "$26.5B—the biggest foreign IPO in US history—but the fine print says SK Hynix must build new American fabs now.\n\nWall Street analysts didn't see this record coming. Memory chip production is officially shifting onshore, giving your supply chain a direct new US source for critical components.\n\nIf you write about tech procurement or hardware, your next piece needs to address the geopolitical leverage shift away from Asian fabs.\n\nAsk your procurement team: are your memory sources diversified, or are you still betting on just one continent?",
+  "carousel_slides": [
+    {
+      "hook": "Wall Street missed this record.",
+      "description": "SK Hynix raised $26.5B in the largest foreign US IPO ever, blindsiding analysts.",
+      "visual_hint": "Stock chart spike",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Cash came with strings attached.",
+      "description": "The IPO requires building new US fabs now, shifting memory production onshore.",
+      "visual_hint": "Factory blueprint",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "semiconductor factory",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New critical chip source emerges.",
+      "description": "Your supply chain just gained a US memory fab, reducing Asian dependence.",
+      "visual_hint": "Memory chip close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer memory chip",
+      "image": "https://images.pexels.com/photos/33792050/pexels-photo-33792050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Supply chains are waking up.",
+      "description": "This move reshapes global memory supply and challenges Asian fab dominance.",
+      "visual_hint": "Hand holding circuit board",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand circuit board",
+      "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your memory supply diversified?",
+      "description": "Call your procurement team today and audit your memory sources now.",
+      "visual_hint": "Phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-10T17:41:25.903Z",
+  "sourceId": "2e6f798b14e7b8c519656e2ce4f32ce4"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "oratomic-raises-300m-to-build-a-viable-quantum-com",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "pubDate": "Fri, 10 Jul 2026 15:00:09 +0000",
+    "slides": [
+      "Can a quantum computer work with just 20,000 qubits?",
+      "Most designs need millions to beat classical machines.",
+      "Oratomic just raised $300M to prove 20K is enough.",
+      "Their new architecture cuts error correction hardware by 90%.",
+      "Start testing your hardest optimization problem against their emulator."
+    ],
+    "thread_text": [
+      "1. 20K qubits vs. millions\n\nOatomic just raised $300M betting their architecture can beat classical machines with 20,000 qubits instead of millions.",
+      "2. Error correction slashed by 90%\n\nTheir new design cuts the hardware needed for error correction by 90%, making smaller qubit counts viable.",
+      "3. Emulator is live now\n\nYou can test your hardest optimization problem against their emulator today, before the physical chip exists.",
+      "4. Most designs need millions\n\nStandard quantum approaches require millions of qubits to outperform classical computers, but Oratomic challenges that assumption.",
+      "5. Ready to benchmark your problem?\n\nGo run your toughest optimization against their emulator. Does your current solution still hold up?"
+    ],
+    "video_script": [
+      "Can 20,000 qubits beat classical machines?",
+      "Most designs need millions to win.",
+      "Oatomic raised $300M to prove otherwise.",
+      "Their architecture cuts error hardware by 90%.",
+      "Test your hardest problem on their emulator."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 20K qubits vs. millions\n\nOatomic just raised $300M betting their architecture can beat classical machines with 20,000 qubits instead of millions.",
+          "2. Error correction slashed by 90%\n\nTheir new design cuts the hardware needed for error correction by 90%, making smaller qubit counts viable.",
+          "3. Emulator is live now\n\nYou can test your hardest optimization problem against their emulator today, before the physical chip exists.",
+          "4. Most designs need millions\n\nStandard quantum approaches require millions of qubits to outperform classical computers, but Oratomic challenges that assumption.",
+          "5. Ready to benchmark your problem?\n\nGo run your toughest optimization against their emulator. Does your current solution still hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can 20,000 qubits beat classical machines?",
+          "Most designs need millions to win.",
+          "Oatomic raised $300M to prove otherwise.",
+          "Their architecture cuts error hardware by 90%.",
+          "Test your hardest problem on their emulator."
+        ]
+      },
+      "instagram": {
+        "caption": "20,000 qubits is enough to outperform classical computers—if Oratomic’s bet pays off.\n\nTheir new architecture cuts the hardware needed for error correction by 90%, making a smaller quantum machine viable. They just raised $300M to build it.\n\nFor anyone working on optimization—logistics, finance, drug design—you can test your hardest problem against their emulator right now 🧠\n\nIs your current solution ready for a machine that needs 90% less hardware to beat it? 🚀 Run your benchmark today."
+      }
+    },
+    "instagram_caption": "20,000 qubits is enough to outperform classical computers—if Oratomic’s bet pays off.\n\nTheir new architecture cuts the hardware needed for error correction by 90%, making a smaller quantum machine viable. They just raised $300M to build it.\n\nFor anyone working on optimization—logistics, finance, drug design—you can test your hardest problem against their emulator right now 🧠\n\nIs your current solution ready for a machine that needs 90% less hardware to beat it? 🚀 Run your benchmark today.",
+    "carousel_slides": [
+      {
+        "hook": "20K qubits vs. millions.",
+        "description": "Oratomic raises $300M betting 20,000 qubits can beat classical machines, slashing error correction by 90%.",
+        "visual_hint": "Futuristic quantum chip core",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "quantum computer chip"
+      },
+      {
+        "hook": "Error correction slashed 90%.",
+        "description": "Their new architecture cuts error correction hardware by 90%, making smaller qubit counts viable against classical computers.",
+        "visual_hint": "Circuit board with glowing lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Emulator is live now.",
+        "description": "Test your hardest optimization problem against their emulator today, before the physical chip even exists.",
+        "visual_hint": "Code on screen with graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most designs need millions.",
+        "description": "Standard quantum approaches require millions of qubits, but Oratomic challenges that assumption with 20,000.",
+        "visual_hint": "Stack of server racks glowing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for later.",
+        "description": "Go run your toughest optimization against their emulator now. Link in bio.",
+        "visual_hint": "Finger tapping smartphone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/12/quantum_computer.jpg?resize=1200,800",
+    "savedAt": "2026-07-10T17:41:38.783Z",
+    "sourceId": "aeecef85adcbc884117075a3bf87fabb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "pubDate": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "slides": [
+      "SK Hynix raised $26.5B in the largest foreign US IPO ever.",
+      "The cash came with strings attached: build US fabs now.",
+      "No one expected this record—not even Wall Street analysts.",
+      "Your supply chain just gained a critical new US chip source.",
+      "Ask your procurement team: is your memory supply diversified?"
+    ],
+    "thread_text": [
+      "1. Record IPO, hidden cost\n\nSK Hynix raised $26.5B in the largest foreign US IPO ever. But the cash came with strings attached: build US fabs now.",
+      "2. Wall Street blindsided\n\nNo one expected this record—not even Wall Street analysts. The scale caught everyone off guard.",
+      "3. New chip source\n\nYour supply chain just gained a critical new US chip source. Memory production is shifting onshore.",
+      "4. Supply chain wake-up\n\nThis move reshapes global memory supply. Dependence on Asian fabs just got a hard check.",
+      "5. Ask your procurement team\n\nIs your memory supply diversified? If not, call your team today and audit your sources."
+    ],
+    "video_script": [
+      "SK Hynix raised twenty six billion dollars.",
+      "The cash forces new US factories now.",
+      "Wall Street missed this record entirely.",
+      "Your supply chain gets a new source.",
+      "Procurement team: diversify memory supply today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Record IPO, hidden cost\n\nSK Hynix raised $26.5B in the largest foreign US IPO ever. But the cash came with strings attached: build US fabs now.",
+          "2. Wall Street blindsided\n\nNo one expected this record—not even Wall Street analysts. The scale caught everyone off guard.",
+          "3. New chip source\n\nYour supply chain just gained a critical new US chip source. Memory production is shifting onshore.",
+          "4. Supply chain wake-up\n\nThis move reshapes global memory supply. Dependence on Asian fabs just got a hard check.",
+          "5. Ask your procurement team\n\nIs your memory supply diversified? If not, call your team today and audit your sources."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SK Hynix raised twenty six billion dollars.",
+          "The cash forces new US factories now.",
+          "Wall Street missed this record entirely.",
+          "Your supply chain gets a new source.",
+          "Procurement team: diversify memory supply today."
+        ]
+      },
+      "instagram": {
+        "caption": "$26.5B—the biggest foreign IPO in US history—but the fine print says SK Hynix must build new American fabs now.\n\nWall Street analysts didn't see this record coming. Memory chip production is officially shifting onshore, giving your supply chain a direct new US source for critical components.\n\nIf you write about tech procurement or hardware, your next piece needs to address the geopolitical leverage shift away from Asian fabs.\n\nAsk your procurement team: are your memory sources diversified, or are you still betting on just one continent?"
+      }
+    },
+    "instagram_caption": "$26.5B—the biggest foreign IPO in US history—but the fine print says SK Hynix must build new American fabs now.\n\nWall Street analysts didn't see this record coming. Memory chip production is officially shifting onshore, giving your supply chain a direct new US source for critical components.\n\nIf you write about tech procurement or hardware, your next piece needs to address the geopolitical leverage shift away from Asian fabs.\n\nAsk your procurement team: are your memory sources diversified, or are you still betting on just one continent?",
+    "carousel_slides": [
+      {
+        "hook": "Wall Street missed this record.",
+        "description": "SK Hynix raised $26.5B in the largest foreign US IPO ever, blindsiding analysts.",
+        "visual_hint": "Stock chart spike",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Cash came with strings attached.",
+        "description": "The IPO requires building new US fabs now, shifting memory production onshore.",
+        "visual_hint": "Factory blueprint",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "semiconductor factory",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New critical chip source emerges.",
+        "description": "Your supply chain just gained a US memory fab, reducing Asian dependence.",
+        "visual_hint": "Memory chip close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer memory chip",
+        "image": "https://images.pexels.com/photos/33792050/pexels-photo-33792050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supply chains are waking up.",
+        "description": "This move reshapes global memory supply and challenges Asian fab dominance.",
+        "visual_hint": "Hand holding circuit board",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand circuit board",
+        "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your memory supply diversified?",
+        "description": "Call your procurement team today and audit your memory sources now.",
+        "visual_hint": "Phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-10T17:41:25.903Z",
+    "sourceId": "2e6f798b14e7b8c519656e2ce4f32ce4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-says-its-new-ai-model-is-ready-to-compete-on-",
     "prompt_version": "1.0.0",
     "status": "published",

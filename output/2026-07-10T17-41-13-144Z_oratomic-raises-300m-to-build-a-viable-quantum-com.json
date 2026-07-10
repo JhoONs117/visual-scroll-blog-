@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "oratomic-raises-300m-to-build-a-viable-quantum-com",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+  "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+  "pubDate": "Fri, 10 Jul 2026 15:00:09 +0000",
+  "slides": [
+    "Can a quantum computer work with just 20,000 qubits?",
+    "Most designs need millions to beat classical machines.",
+    "Oratomic just raised $300M to prove 20K is enough.",
+    "Their new architecture cuts error correction hardware by 90%.",
+    "Start testing your hardest optimization problem against their emulator."
+  ],
+  "thread_text": [
+    "1. 20K qubits vs. millions\n\nOatomic just raised $300M betting their architecture can beat classical machines with 20,000 qubits instead of millions.",
+    "2. Error correction slashed by 90%\n\nTheir new design cuts the hardware needed for error correction by 90%, making smaller qubit counts viable.",
+    "3. Emulator is live now\n\nYou can test your hardest optimization problem against their emulator today, before the physical chip exists.",
+    "4. Most designs need millions\n\nStandard quantum approaches require millions of qubits to outperform classical computers, but Oratomic challenges that assumption.",
+    "5. Ready to benchmark your problem?\n\nGo run your toughest optimization against their emulator. Does your current solution still hold up?"
+  ],
+  "video_script": [
+    "Can 20,000 qubits beat classical machines?",
+    "Most designs need millions to win.",
+    "Oatomic raised $300M to prove otherwise.",
+    "Their architecture cuts error hardware by 90%.",
+    "Test your hardest problem on their emulator."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 20K qubits vs. millions\n\nOatomic just raised $300M betting their architecture can beat classical machines with 20,000 qubits instead of millions.",
+        "2. Error correction slashed by 90%\n\nTheir new design cuts the hardware needed for error correction by 90%, making smaller qubit counts viable.",
+        "3. Emulator is live now\n\nYou can test your hardest optimization problem against their emulator today, before the physical chip exists.",
+        "4. Most designs need millions\n\nStandard quantum approaches require millions of qubits to outperform classical computers, but Oratomic challenges that assumption.",
+        "5. Ready to benchmark your problem?\n\nGo run your toughest optimization against their emulator. Does your current solution still hold up?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can 20,000 qubits beat classical machines?",
+        "Most designs need millions to win.",
+        "Oatomic raised $300M to prove otherwise.",
+        "Their architecture cuts error hardware by 90%.",
+        "Test your hardest problem on their emulator."
+      ]
+    },
+    "instagram": {
+      "caption": "20,000 qubits is enough to outperform classical computers—if Oratomic’s bet pays off.\n\nTheir new architecture cuts the hardware needed for error correction by 90%, making a smaller quantum machine viable. They just raised $300M to build it.\n\nFor anyone working on optimization—logistics, finance, drug design—you can test your hardest problem against their emulator right now 🧠\n\nIs your current solution ready for a machine that needs 90% less hardware to beat it? 🚀 Run your benchmark today."
+    }
+  },
+  "instagram_caption": "20,000 qubits is enough to outperform classical computers—if Oratomic’s bet pays off.\n\nTheir new architecture cuts the hardware needed for error correction by 90%, making a smaller quantum machine viable. They just raised $300M to build it.\n\nFor anyone working on optimization—logistics, finance, drug design—you can test your hardest problem against their emulator right now 🧠\n\nIs your current solution ready for a machine that needs 90% less hardware to beat it? 🚀 Run your benchmark today.",
+  "carousel_slides": [
+    {
+      "hook": "20K qubits vs. millions.",
+      "description": "Oratomic raises $300M betting 20,000 qubits can beat classical machines, slashing error correction by 90%.",
+      "visual_hint": "Futuristic quantum chip core",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "quantum computer chip"
+    },
+    {
+      "hook": "Error correction slashed 90%.",
+      "description": "Their new architecture cuts error correction hardware by 90%, making smaller qubit counts viable against classical computers.",
+      "visual_hint": "Circuit board with glowing lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Emulator is live now.",
+      "description": "Test your hardest optimization problem against their emulator today, before the physical chip even exists.",
+      "visual_hint": "Code on screen with graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most designs need millions.",
+      "description": "Standard quantum approaches require millions of qubits, but Oratomic challenges that assumption with 20,000.",
+      "visual_hint": "Stack of server racks glowing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later.",
+      "description": "Go run your toughest optimization against their emulator now. Link in bio.",
+      "visual_hint": "Finger tapping smartphone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/12/quantum_computer.jpg?resize=1200,800",
+  "savedAt": "2026-07-10T17:41:38.783Z",
+  "sourceId": "aeecef85adcbc884117075a3bf87fabb"
+}
