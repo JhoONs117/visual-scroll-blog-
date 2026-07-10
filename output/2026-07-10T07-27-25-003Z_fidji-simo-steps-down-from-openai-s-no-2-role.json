@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fidji-simo-steps-down-from-openai-s-no-2-role",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+  "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+  "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
+  "slides": [
+    "Fidji Simo resigns as COO—why now?",
+    "She joined during a leadership crisis",
+    "Her departure was planned months ago",
+    "Who will handle daily operations next?",
+    "Watch for the CFO’s expanded authority"
+  ],
+  "thread_text": [
+    "1. Who walks away first?\n\nFidji Simo resigned while Instacart is prepping for an IPO — the C-suite signal investors hate.",
+    "2. She arrived in chaos\n\nSimo joined when the founder stepped down after a boardroom battle. She stabilized the ship.",
+    "3. Exit was on the calendar\n\nThe departure was discussed months before the public announcement. Succession planning was already running.",
+    "4. Daily ops go to whom?\n\nNo COO successor named yet. The CFO is quietly taking over operational reviews starting next week.",
+    "5. Test your own CFO’s power\n\nCheck your company’s org chart: who really runs day-to-day when the COO is gone? Look at finance."
+  ],
+  "video_script": [
+    "Fidji Simo resigns as COO of Instacart.",
+    "She joined during a leadership crisis.",
+    "Her departure was planned months ago.",
+    "Who will handle daily operations next?",
+    "Watch for the CFO’s expanded authority."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who walks away first?\n\nFidji Simo resigned while Instacart is prepping for an IPO — the C-suite signal investors hate.",
+        "2. She arrived in chaos\n\nSimo joined when the founder stepped down after a boardroom battle. She stabilized the ship.",
+        "3. Exit was on the calendar\n\nThe departure was discussed months before the public announcement. Succession planning was already running.",
+        "4. Daily ops go to whom?\n\nNo COO successor named yet. The CFO is quietly taking over operational reviews starting next week.",
+        "5. Test your own CFO’s power\n\nCheck your company’s org chart: who really runs day-to-day when the COO is gone? Look at finance."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fidji Simo resigns as COO of Instacart.",
+        "She joined during a leadership crisis.",
+        "Her departure was planned months ago.",
+        "Who will handle daily operations next?",
+        "Watch for the CFO’s expanded authority."
+      ]
+    },
+    "instagram": {
+      "caption": "Fidji Simo is out as OpenAI's COO, with her exit planned months before the public announcement.\n\nShe joined during a boardroom meltdown to steady operations. Now the CFO is absorbing her daily oversight duties.\n\nNo new COO is named—finance is quietly taking over operational reviews.\n\nIf you use ChatGPT or API tools, your point of contact for uptime and model changes just swapped from the COO's office to the finance team.\n\nOpen your org chart: who really runs your daily tools? Is it the person with P&L control?"
+    }
+  },
+  "instagram_caption": "Fidji Simo is out as OpenAI's COO, with her exit planned months before the public announcement.\n\nShe joined during a boardroom meltdown to steady operations. Now the CFO is absorbing her daily oversight duties.\n\nNo new COO is named—finance is quietly taking over operational reviews.\n\nIf you use ChatGPT or API tools, your point of contact for uptime and model changes just swapped from the COO's office to the finance team.\n\nOpen your org chart: who really runs your daily tools? Is it the person with P&L control?",
+  "carousel_slides": [
+    {
+      "hook": "Who walks away first?",
+      "description": "Fidji Simo resigned while Instacart preps for IPO, sending a signal investors hate.",
+      "visual_hint": "Exit door with shadow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office exit door"
+    },
+    {
+      "hook": "She joined in chaos",
+      "description": "Simo arrived when the founder left after a boardroom battle, then stabilized the company.",
+      "visual_hint": "Helm of a ship",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ship wheel",
+      "image": "https://images.pexels.com/photos/38442149/pexels-photo-38442149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Exit was pre-planned",
+      "description": "Her departure was discussed months before the announcement and succession was already running.",
+      "visual_hint": "Calendar with X mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar date",
+      "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No new COO yet",
+      "description": "The CFO will quietly take over operational reviews starting next week, no successor named.",
+      "visual_hint": "Empty office chair",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty office chair",
+      "image": "https://images.pexels.com/photos/5824540/pexels-photo-5824540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your CFO's power now",
+      "description": "Look at your company's org chart—who really runs daily ops when the COO is gone?",
+      "visual_hint": "Magnifying glass on org chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "organizational chart",
+      "image": "https://images.pexels.com/photos/4990540/pexels-photo-4990540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+  "savedAt": "2026-07-10T07:27:37.951Z",
+  "sourceId": "ee3f32770183596f79ec2f0cf56585ef"
+}

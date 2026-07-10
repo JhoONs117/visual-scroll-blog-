@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-chatgpt-browser-is-already-dead",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The ChatGPT browser is already dead",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+  "pubDate": "2026-07-09T20:34:05.000Z",
+  "slides": [
+    "Why did your ChatGPT browser just vanish?",
+    "OpenAI removed it without warning last week.",
+    "The real reason: it was never built for you.",
+    "Now your workaround is a slower, clunkier tool.",
+    "Stop adapting. Demand a product that lasts."
+  ],
+  "thread_text": [
+    "1. Your ChatGPT just vanished.\n\nOpenAI deleted the browser from your interface last week with zero notice.",
+    "2. It was never yours.\n\nThe tool was designed for their own testing, not for you to rely on.",
+    "3. The clunky workaround.\n\nNow you're stuck copying text manually into a slower version that breaks every third time.",
+    "4. They shift, you adapt.\n\nEvery update moves your workflow to a worse alternative while you waste hours patching gaps.",
+    "5. Scream at the next update.\n\nNext time you see a feature removed, file a bug report and tag @OpenAI on X. Does your habit justify their experiments?"
+  ],
+  "video_script": [
+    "Your ChatGPT browser just disappeared without warning.",
+    "OpenAI removed it last week with no explanation.",
+    "The truth: it was built for them, not you.",
+    "Now you're stuck with a slower, clunkier tool.",
+    "Stop adapting. Demand a product that lasts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your ChatGPT just vanished.\n\nOpenAI deleted the browser from your interface last week with zero notice.",
+        "2. It was never yours.\n\nThe tool was designed for their own testing, not for you to rely on.",
+        "3. The clunky workaround.\n\nNow you're stuck copying text manually into a slower version that breaks every third time.",
+        "4. They shift, you adapt.\n\nEvery update moves your workflow to a worse alternative while you waste hours patching gaps.",
+        "5. Scream at the next update.\n\nNext time you see a feature removed, file a bug report and tag @OpenAI on X. Does your habit justify their experiments?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your ChatGPT browser just disappeared without warning.",
+        "OpenAI removed it last week with no explanation.",
+        "The truth: it was built for them, not you.",
+        "Now you're stuck with a slower, clunkier tool.",
+        "Stop adapting. Demand a product that lasts."
+      ]
+    },
+    "instagram": {
+      "caption": "Your ChatGPT browser window just went blank last week — no warning, no explanation.\n\nOpenAI deleted it after using you as a beta tester. 🔍 The tool was never built for your daily workflow — it was for their internal testing. Now you're stuck copying text manually into a slow, glitchy replacement that breaks every third use.\n\nFor anyone relying on that browser for content creation or research, your productivity just took a direct hit. ⏳\n\nNext time a feature disappears without notice, will you scream at the update or find a tool that respects your time? 🛑"
+    }
+  },
+  "instagram_caption": "Your ChatGPT browser window just went blank last week — no warning, no explanation.\n\nOpenAI deleted it after using you as a beta tester. 🔍 The tool was never built for your daily workflow — it was for their internal testing. Now you're stuck copying text manually into a slow, glitchy replacement that breaks every third use.\n\nFor anyone relying on that browser for content creation or research, your productivity just took a direct hit. ⏳\n\nNext time a feature disappears without notice, will you scream at the update or find a tool that respects your time? 🛑",
+  "carousel_slides": [
+    {
+      "hook": "It was never yours.",
+      "description": "OpenAI removed the browser without notice. The tool was designed for their testing, not for you.",
+      "visual_hint": "Vanish icon fade",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty browser window"
+    },
+    {
+      "hook": "Why did it vanish?",
+      "description": "OpenAI deleted the browser from your interface last week without any warning.",
+      "visual_hint": "Sudden removal effect",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "red delete button",
+      "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The clunky workaround.",
+      "description": "Now you copy text manually into a slower version that breaks every third time you use it.",
+      "visual_hint": "Slow loading screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "copy paste screen",
+      "image": "https://images.pexels.com/photos/8217281/pexels-photo-8217281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They shift, you adapt.",
+      "description": "Every update moves your workflow to a worse alternative while you waste hours patching gaps.",
+      "visual_hint": "User frustration pose",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clock with gears",
+      "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it's gone.",
+      "description": "File a bug report on X tagging @OpenAI next time a feature is removed without notice.",
+      "visual_hint": "Bug report button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bug report form",
+      "image": "https://images.pexels.com/photos/7580294/pexels-photo-7580294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-10T07:28:15.268Z",
+  "sourceId": "ddc19360e7dd3ccd2ea9d447f4606fb6"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-chatgpt-browser-is-already-dead",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The ChatGPT browser is already dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "pubDate": "2026-07-09T20:34:05.000Z",
+      "slides": [
+        "Why did your ChatGPT browser just vanish?",
+        "OpenAI removed it without warning last week.",
+        "The real reason: it was never built for you.",
+        "Now your workaround is a slower, clunkier tool.",
+        "Stop adapting. Demand a product that lasts."
+      ],
+      "thread_text": [
+        "1. Your ChatGPT just vanished.\n\nOpenAI deleted the browser from your interface last week with zero notice.",
+        "2. It was never yours.\n\nThe tool was designed for their own testing, not for you to rely on.",
+        "3. The clunky workaround.\n\nNow you're stuck copying text manually into a slower version that breaks every third time.",
+        "4. They shift, you adapt.\n\nEvery update moves your workflow to a worse alternative while you waste hours patching gaps.",
+        "5. Scream at the next update.\n\nNext time you see a feature removed, file a bug report and tag @OpenAI on X. Does your habit justify their experiments?"
+      ],
+      "video_script": [
+        "Your ChatGPT browser just disappeared without warning.",
+        "OpenAI removed it last week with no explanation.",
+        "The truth: it was built for them, not you.",
+        "Now you're stuck with a slower, clunkier tool.",
+        "Stop adapting. Demand a product that lasts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your ChatGPT just vanished.\n\nOpenAI deleted the browser from your interface last week with zero notice.",
+            "2. It was never yours.\n\nThe tool was designed for their own testing, not for you to rely on.",
+            "3. The clunky workaround.\n\nNow you're stuck copying text manually into a slower version that breaks every third time.",
+            "4. They shift, you adapt.\n\nEvery update moves your workflow to a worse alternative while you waste hours patching gaps.",
+            "5. Scream at the next update.\n\nNext time you see a feature removed, file a bug report and tag @OpenAI on X. Does your habit justify their experiments?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your ChatGPT browser just disappeared without warning.",
+            "OpenAI removed it last week with no explanation.",
+            "The truth: it was built for them, not you.",
+            "Now you're stuck with a slower, clunkier tool.",
+            "Stop adapting. Demand a product that lasts."
+          ]
+        },
+        "instagram": {
+          "caption": "Your ChatGPT browser window just went blank last week — no warning, no explanation.\n\nOpenAI deleted it after using you as a beta tester. 🔍 The tool was never built for your daily workflow — it was for their internal testing. Now you're stuck copying text manually into a slow, glitchy replacement that breaks every third use.\n\nFor anyone relying on that browser for content creation or research, your productivity just took a direct hit. ⏳\n\nNext time a feature disappears without notice, will you scream at the update or find a tool that respects your time? 🛑"
+        }
+      },
+      "instagram_caption": "Your ChatGPT browser window just went blank last week — no warning, no explanation.\n\nOpenAI deleted it after using you as a beta tester. 🔍 The tool was never built for your daily workflow — it was for their internal testing. Now you're stuck copying text manually into a slow, glitchy replacement that breaks every third use.\n\nFor anyone relying on that browser for content creation or research, your productivity just took a direct hit. ⏳\n\nNext time a feature disappears without notice, will you scream at the update or find a tool that respects your time? 🛑",
+      "carousel_slides": [
+        {
+          "hook": "It was never yours.",
+          "description": "OpenAI removed the browser without notice. The tool was designed for their testing, not for you.",
+          "visual_hint": "Vanish icon fade",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty browser window"
+        },
+        {
+          "hook": "Why did it vanish?",
+          "description": "OpenAI deleted the browser from your interface last week without any warning.",
+          "visual_hint": "Sudden removal effect",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "red delete button",
+          "image": "https://images.pexels.com/photos/21562942/pexels-photo-21562942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The clunky workaround.",
+          "description": "Now you copy text manually into a slower version that breaks every third time you use it.",
+          "visual_hint": "Slow loading screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "copy paste screen",
+          "image": "https://images.pexels.com/photos/8217281/pexels-photo-8217281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They shift, you adapt.",
+          "description": "Every update moves your workflow to a worse alternative while you waste hours patching gaps.",
+          "visual_hint": "User frustration pose",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clock with gears",
+          "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before it's gone.",
+          "description": "File a bug report on X tagging @OpenAI next time a feature is removed without notice.",
+          "visual_hint": "Bug report button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bug report form",
+          "image": "https://images.pexels.com/photos/7580294/pexels-photo-7580294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-10T07:28:15.268Z",
+      "sourceId": "ddc19360e7dd3ccd2ea9d447f4606fb6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-is-shutting-down-atlas-but-its-ai-browser-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "slides": [
+        "OpenAI killed Atlas—so why expand browsing features?",
+        "The browser was quietly integrated into ChatGPT's search.",
+        "But Atlas’s code now powers new agent-based web tools.",
+        "Your search queries will soon trigger autonomous AI actions.",
+        "Test the new search switch today—ignore at your cost."
+      ],
+      "thread_text": [
+        "1. OpenAI killed Atlas\n\nThey absorbed its core tech while sunsetting the product. The browsing feature you see now is built on that graveyard.",
+        "2. The search is alive\n\nQuietly, ChatGPT’s search integrated Atlas’s browser. No announcement—just a new tab in your interface.",
+        "3. Code powers new agents\n\nAtlas’s engine now runs autonomous web tools. Your prompts will soon trigger actions beyond simple answers.",
+        "4. Your queries go autonomous\n\nSearch will execute multi-step tasks on its own. From fetching data to filling forms—AI acts for you.",
+        "5. Test the switch today\n\nOpen ChatGPT, flip the search toggle, and run a live query. Ignore it and watch competitors leap ahead."
+      ],
+      "video_script": [
+        "OpenAI buried Atlas but kept its bones.",
+        "Now that code hides in ChatGPT search.",
+        "Your queries will soon trigger autonomous actions.",
+        "Atlas powers agents that replace your clicks.",
+        "Flip the search switch now or fall behind."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI killed Atlas\n\nThey absorbed its core tech while sunsetting the product. The browsing feature you see now is built on that graveyard.",
+            "2. The search is alive\n\nQuietly, ChatGPT’s search integrated Atlas’s browser. No announcement—just a new tab in your interface.",
+            "3. Code powers new agents\n\nAtlas’s engine now runs autonomous web tools. Your prompts will soon trigger actions beyond simple answers.",
+            "4. Your queries go autonomous\n\nSearch will execute multi-step tasks on its own. From fetching data to filling forms—AI acts for you.",
+            "5. Test the switch today\n\nOpen ChatGPT, flip the search toggle, and run a live query. Ignore it and watch competitors leap ahead."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI buried Atlas but kept its bones.",
+            "Now that code hides in ChatGPT search.",
+            "Your queries will soon trigger autonomous actions.",
+            "Atlas powers agents that replace your clicks.",
+            "Flip the search switch now or fall behind."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI killed its Atlas browser—but its code now runs inside ChatGPT’s search. 🕵️\n\nThat search toggle you've ignored? It's powered by Atlas’s engine. No announcement. Just a quiet upgrade in your interface.\n\nYour prompts will soon trigger autonomous actions—fetching data, filling forms, running multi-step tasks without you clicking a thing.\n\nFor anyone publishing content: search results will no longer just answer questions—they’ll act on your site automatically.\n\nFlip the switch in ChatGPT today. Run a live query. If you skip this, what happens when your competitors don’t?"
+        }
+      },
+      "instagram_caption": "OpenAI killed its Atlas browser—but its code now runs inside ChatGPT’s search. 🕵️\n\nThat search toggle you've ignored? It's powered by Atlas’s engine. No announcement. Just a quiet upgrade in your interface.\n\nYour prompts will soon trigger autonomous actions—fetching data, filling forms, running multi-step tasks without you clicking a thing.\n\nFor anyone publishing content: search results will no longer just answer questions—they’ll act on your site automatically.\n\nFlip the switch in ChatGPT today. Run a live query. If you skip this, what happens when your competitors don’t?",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI buried a secret weapon.",
+          "description": "They killed Atlas but embedded its brain into ChatGPT's search — no announcement, just a new tab.",
+          "visual_hint": "Graveyard with glowing server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room graveyard"
+        },
+        {
+          "hook": "Your search just grew eyes.",
+          "description": "Atlas's code now powers autonomous web agents — your prompts will trigger multi-step actions.",
+          "visual_hint": "Eye inside search bar",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "search bar interface",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Queries now act for you.",
+          "description": "AI will fetch data, fill forms, and execute tasks — no more manual clicking.",
+          "visual_hint": "Robot hand clicking mouse",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand computer",
+          "image": "https://images.pexels.com/photos/7688545/pexels-photo-7688545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your commands become actions.",
+          "description": "Search evolves from answers to autonomous workflows — type once, let AI run.",
+          "visual_hint": "User typing, AI executing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Flip the switch now.",
+          "description": "Open ChatGPT, toggle search, run a live query — ignore this and competitors leap ahead.",
+          "visual_hint": "Toggle switch glowing",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "toggle switch button",
+          "image": "https://images.pexels.com/photos/18649173/pexels-photo-18649173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+      "savedAt": "2026-07-10T07:28:02.479Z",
+      "sourceId": "3579a3be1f32b6fa431f82f51507844a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "an-ai-agent-startup-just-let-its-agent-run-its-100",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "slides": [
+        "Could an AI agent negotiate your next funding round?",
+        "This startup's agent handled its own $100M raise.",
+        "No human pitched—just code, strategy, and data.",
+        "Your fundraising process just became automatable.",
+        "Test your pitch against an agent before meeting VCs."
+      ],
+      "thread_text": [
+        "1. The silent pitch\n\nA startup raised $100M with no human presenting—just an AI agent.",
+        "2. Code, not charisma\n\nThe agent read market data, not slides. No bio, no storytelling.",
+        "3. Your process is fragile\n\nIf an agent can run a Series B, everything you do before the meeting is exposed.",
+        "4. Use the fallback\n\nSimulate your pitch against an agent before talking to a single VC.",
+        "5. Test it tonight\n\nLoad your deck into a GPT-powered agent and record its questions. Missed one? Pause and revise."
+      ],
+      "video_script": [
+        "An AI just raised 100 million.",
+        "No human spoke to investors.",
+        "Your pitch process just became outdated.",
+        "Rehearse against an agent first.",
+        "Start tonight. Load your deck."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The silent pitch\n\nA startup raised $100M with no human presenting—just an AI agent.",
+            "2. Code, not charisma\n\nThe agent read market data, not slides. No bio, no storytelling.",
+            "3. Your process is fragile\n\nIf an agent can run a Series B, everything you do before the meeting is exposed.",
+            "4. Use the fallback\n\nSimulate your pitch against an agent before talking to a single VC.",
+            "5. Test it tonight\n\nLoad your deck into a GPT-powered agent and record its questions. Missed one? Pause and revise."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "An AI just raised 100 million.",
+            "No human spoke to investors.",
+            "Your pitch process just became outdated.",
+            "Rehearse against an agent first.",
+            "Start tonight. Load your deck."
+          ]
+        },
+        "instagram": {
+          "caption": "A startup just used an AI agent to raise $100 million. No human gave a single pitch.\n\nThe agent negotiated the entire fundraise using market data and strategy—not slides, charisma, or storytelling. Code closed the deal.\n\nIf an AI can run a Series B, your pre-meeting preparation is obsolete. Every deck you build should survive an agent's interrogation first.\n\nWhen did you last simulate your pitch against a model that asks the exact questions your VCs won't?"
+        }
+      },
+      "instagram_caption": "A startup just used an AI agent to raise $100 million. No human gave a single pitch.\n\nThe agent negotiated the entire fundraise using market data and strategy—not slides, charisma, or storytelling. Code closed the deal.\n\nIf an AI can run a Series B, your pre-meeting preparation is obsolete. Every deck you build should survive an agent's interrogation first.\n\nWhen did you last simulate your pitch against a model that asks the exact questions your VCs won't?",
+      "carousel_slides": [
+        {
+          "hook": "Could an AI raise your next round?",
+          "description": "A startup let an AI agent run its entire $100M fundraise. No human pitched.",
+          "visual_hint": "Silent ai presentation screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Code, not charisma won millions.",
+          "description": "The agent read market data, not slides. No bio, no storytelling needed.",
+          "visual_hint": "Code on dark monitor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your fundraising process is fragile.",
+          "description": "If an agent can run a Series B, everything you do before the meeting is exposed.",
+          "visual_hint": "Cracked glass metaphor",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken circuit board",
+          "image": "https://images.pexels.com/photos/821642/pexels-photo-821642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simulate your pitch vs an agent.",
+          "description": "Test your deck against an AI before talking to a single VC. Catch unasked questions.",
+          "visual_hint": "Human hand on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workspace",
+          "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — test your pitch tonight.",
+          "description": "Load your deck into a GPT agent, record its questions. Missed one? Revise.",
+          "visual_hint": "Phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop on desk",
+          "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
+      "savedAt": "2026-07-10T07:27:49.354Z",
+      "sourceId": "eb2fa5e9cf60d17db9ed56268f92fe5a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "fidji-simo-steps-down-from-openai-s-no-2-role",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "pubDate": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "slides": [
+        "Fidji Simo resigns as COO—why now?",
+        "She joined during a leadership crisis",
+        "Her departure was planned months ago",
+        "Who will handle daily operations next?",
+        "Watch for the CFO’s expanded authority"
+      ],
+      "thread_text": [
+        "1. Who walks away first?\n\nFidji Simo resigned while Instacart is prepping for an IPO — the C-suite signal investors hate.",
+        "2. She arrived in chaos\n\nSimo joined when the founder stepped down after a boardroom battle. She stabilized the ship.",
+        "3. Exit was on the calendar\n\nThe departure was discussed months before the public announcement. Succession planning was already running.",
+        "4. Daily ops go to whom?\n\nNo COO successor named yet. The CFO is quietly taking over operational reviews starting next week.",
+        "5. Test your own CFO’s power\n\nCheck your company’s org chart: who really runs day-to-day when the COO is gone? Look at finance."
+      ],
+      "video_script": [
+        "Fidji Simo resigns as COO of Instacart.",
+        "She joined during a leadership crisis.",
+        "Her departure was planned months ago.",
+        "Who will handle daily operations next?",
+        "Watch for the CFO’s expanded authority."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who walks away first?\n\nFidji Simo resigned while Instacart is prepping for an IPO — the C-suite signal investors hate.",
+            "2. She arrived in chaos\n\nSimo joined when the founder stepped down after a boardroom battle. She stabilized the ship.",
+            "3. Exit was on the calendar\n\nThe departure was discussed months before the public announcement. Succession planning was already running.",
+            "4. Daily ops go to whom?\n\nNo COO successor named yet. The CFO is quietly taking over operational reviews starting next week.",
+            "5. Test your own CFO’s power\n\nCheck your company’s org chart: who really runs day-to-day when the COO is gone? Look at finance."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fidji Simo resigns as COO of Instacart.",
+            "She joined during a leadership crisis.",
+            "Her departure was planned months ago.",
+            "Who will handle daily operations next?",
+            "Watch for the CFO’s expanded authority."
+          ]
+        },
+        "instagram": {
+          "caption": "Fidji Simo is out as OpenAI's COO, with her exit planned months before the public announcement.\n\nShe joined during a boardroom meltdown to steady operations. Now the CFO is absorbing her daily oversight duties.\n\nNo new COO is named—finance is quietly taking over operational reviews.\n\nIf you use ChatGPT or API tools, your point of contact for uptime and model changes just swapped from the COO's office to the finance team.\n\nOpen your org chart: who really runs your daily tools? Is it the person with P&L control?"
+        }
+      },
+      "instagram_caption": "Fidji Simo is out as OpenAI's COO, with her exit planned months before the public announcement.\n\nShe joined during a boardroom meltdown to steady operations. Now the CFO is absorbing her daily oversight duties.\n\nNo new COO is named—finance is quietly taking over operational reviews.\n\nIf you use ChatGPT or API tools, your point of contact for uptime and model changes just swapped from the COO's office to the finance team.\n\nOpen your org chart: who really runs your daily tools? Is it the person with P&L control?",
+      "carousel_slides": [
+        {
+          "hook": "Who walks away first?",
+          "description": "Fidji Simo resigned while Instacart preps for IPO, sending a signal investors hate.",
+          "visual_hint": "Exit door with shadow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office exit door"
+        },
+        {
+          "hook": "She joined in chaos",
+          "description": "Simo arrived when the founder left after a boardroom battle, then stabilized the company.",
+          "visual_hint": "Helm of a ship",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ship wheel",
+          "image": "https://images.pexels.com/photos/38442149/pexels-photo-38442149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Exit was pre-planned",
+          "description": "Her departure was discussed months before the announcement and succession was already running.",
+          "visual_hint": "Calendar with X mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No new COO yet",
+          "description": "The CFO will quietly take over operational reviews starting next week, no successor named.",
+          "visual_hint": "Empty office chair",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty office chair",
+          "image": "https://images.pexels.com/photos/5824540/pexels-photo-5824540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your CFO's power now",
+          "description": "Look at your company's org chart—who really runs daily ops when the COO is gone?",
+          "visual_hint": "Magnifying glass on org chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "organizational chart",
+          "image": "https://images.pexels.com/photos/4990540/pexels-photo-4990540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+      "savedAt": "2026-07-10T07:27:37.951Z",
+      "sourceId": "ee3f32770183596f79ec2f0cf56585ef"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-rolls-out-gpt-5-6-after-government-greenlig",
       "prompt_version": "1.0.0",
       "status": "published",

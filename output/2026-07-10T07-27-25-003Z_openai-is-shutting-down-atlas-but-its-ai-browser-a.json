@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-shutting-down-atlas-but-its-ai-browser-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+  "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+  "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+  "slides": [
+    "OpenAI killed Atlas—so why expand browsing features?",
+    "The browser was quietly integrated into ChatGPT's search.",
+    "But Atlas’s code now powers new agent-based web tools.",
+    "Your search queries will soon trigger autonomous AI actions.",
+    "Test the new search switch today—ignore at your cost."
+  ],
+  "thread_text": [
+    "1. OpenAI killed Atlas\n\nThey absorbed its core tech while sunsetting the product. The browsing feature you see now is built on that graveyard.",
+    "2. The search is alive\n\nQuietly, ChatGPT’s search integrated Atlas’s browser. No announcement—just a new tab in your interface.",
+    "3. Code powers new agents\n\nAtlas’s engine now runs autonomous web tools. Your prompts will soon trigger actions beyond simple answers.",
+    "4. Your queries go autonomous\n\nSearch will execute multi-step tasks on its own. From fetching data to filling forms—AI acts for you.",
+    "5. Test the switch today\n\nOpen ChatGPT, flip the search toggle, and run a live query. Ignore it and watch competitors leap ahead."
+  ],
+  "video_script": [
+    "OpenAI buried Atlas but kept its bones.",
+    "Now that code hides in ChatGPT search.",
+    "Your queries will soon trigger autonomous actions.",
+    "Atlas powers agents that replace your clicks.",
+    "Flip the search switch now or fall behind."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI killed Atlas\n\nThey absorbed its core tech while sunsetting the product. The browsing feature you see now is built on that graveyard.",
+        "2. The search is alive\n\nQuietly, ChatGPT’s search integrated Atlas’s browser. No announcement—just a new tab in your interface.",
+        "3. Code powers new agents\n\nAtlas’s engine now runs autonomous web tools. Your prompts will soon trigger actions beyond simple answers.",
+        "4. Your queries go autonomous\n\nSearch will execute multi-step tasks on its own. From fetching data to filling forms—AI acts for you.",
+        "5. Test the switch today\n\nOpen ChatGPT, flip the search toggle, and run a live query. Ignore it and watch competitors leap ahead."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI buried Atlas but kept its bones.",
+        "Now that code hides in ChatGPT search.",
+        "Your queries will soon trigger autonomous actions.",
+        "Atlas powers agents that replace your clicks.",
+        "Flip the search switch now or fall behind."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI killed its Atlas browser—but its code now runs inside ChatGPT’s search. 🕵️\n\nThat search toggle you've ignored? It's powered by Atlas’s engine. No announcement. Just a quiet upgrade in your interface.\n\nYour prompts will soon trigger autonomous actions—fetching data, filling forms, running multi-step tasks without you clicking a thing.\n\nFor anyone publishing content: search results will no longer just answer questions—they’ll act on your site automatically.\n\nFlip the switch in ChatGPT today. Run a live query. If you skip this, what happens when your competitors don’t?"
+    }
+  },
+  "instagram_caption": "OpenAI killed its Atlas browser—but its code now runs inside ChatGPT’s search. 🕵️\n\nThat search toggle you've ignored? It's powered by Atlas’s engine. No announcement. Just a quiet upgrade in your interface.\n\nYour prompts will soon trigger autonomous actions—fetching data, filling forms, running multi-step tasks without you clicking a thing.\n\nFor anyone publishing content: search results will no longer just answer questions—they’ll act on your site automatically.\n\nFlip the switch in ChatGPT today. Run a live query. If you skip this, what happens when your competitors don’t?",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI buried a secret weapon.",
+      "description": "They killed Atlas but embedded its brain into ChatGPT's search — no announcement, just a new tab.",
+      "visual_hint": "Graveyard with glowing server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room graveyard"
+    },
+    {
+      "hook": "Your search just grew eyes.",
+      "description": "Atlas's code now powers autonomous web agents — your prompts will trigger multi-step actions.",
+      "visual_hint": "Eye inside search bar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "search bar interface",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Queries now act for you.",
+      "description": "AI will fetch data, fill forms, and execute tasks — no more manual clicking.",
+      "visual_hint": "Robot hand clicking mouse",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot hand computer",
+      "image": "https://images.pexels.com/photos/7688545/pexels-photo-7688545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your commands become actions.",
+      "description": "Search evolves from answers to autonomous workflows — type once, let AI run.",
+      "visual_hint": "User typing, AI executing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Flip the switch now.",
+      "description": "Open ChatGPT, toggle search, run a live query — ignore this and competitors leap ahead.",
+      "visual_hint": "Toggle switch glowing",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "toggle switch button",
+      "image": "https://images.pexels.com/photos/18649173/pexels-photo-18649173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+  "savedAt": "2026-07-10T07:28:02.479Z",
+  "sourceId": "3579a3be1f32b6fa431f82f51507844a"
+}
