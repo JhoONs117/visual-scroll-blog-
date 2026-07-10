@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "instagram-s-adam-mosseri-if-you-don-8217-t-like-ai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "pubDate": "2026-07-10T13:45:02.000Z",
+      "slides": [
+        "Mosseri says you can banish AI from your feed—really?",
+        "New controls let users filter AI-generated content entirely.",
+        "But the default still floods your feed with AI posts.",
+        "You must toggle settings off to remove AI recommendations.",
+        "Go check your Instagram settings now before the algorithm adapts."
+      ],
+      "thread_text": [
+        "1. Instagram lies to you\n\nMosseri says you can block AI posts. But the button to do it is buried three menus deep.",
+        "2. The default is AI flood\n\nInstagram sets your feed to show AI content automatically. You have to opt out manually.",
+        "3. One toggle decides everything\n\nFlip a single setting and all AI recommendations vanish. Most users never find it.",
+        "4. The algorithm learns fast\n\nIf you don't change the setting now, Instagram trains itself to show you more AI posts daily.",
+        "5. Open Instagram settings now\n\nGo to Preferences → Suggested Content → AI Posts. Turn it off before tomorrow."
+      ],
+      "video_script": [
+        "Mosseri says you can hide AI.",
+        "But Instagram buries the setting deep.",
+        "Default still floods your feed with AI.",
+        "You must toggle it off manually.",
+        "Check your settings before the algorithm adapts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Instagram lies to you\n\nMosseri says you can block AI posts. But the button to do it is buried three menus deep.",
+            "2. The default is AI flood\n\nInstagram sets your feed to show AI content automatically. You have to opt out manually.",
+            "3. One toggle decides everything\n\nFlip a single setting and all AI recommendations vanish. Most users never find it.",
+            "4. The algorithm learns fast\n\nIf you don't change the setting now, Instagram trains itself to show you more AI posts daily.",
+            "5. Open Instagram settings now\n\nGo to Preferences → Suggested Content → AI Posts. Turn it off before tomorrow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Mosseri says you can hide AI.",
+            "But Instagram buries the setting deep.",
+            "Default still floods your feed with AI.",
+            "You must toggle it off manually.",
+            "Check your settings before the algorithm adapts."
+          ]
+        },
+        "instagram": {
+          "caption": "Instagram lets you block AI posts — but only if you dig three menus deep to flip a single toggle.\n\nMosseri says you can banish AI from your feed, yet the default floods you with AI content automatically. You have to opt out manually before the algorithm adapts to your silence 🛑\n\nIf you create content, your AI-generated posts could be hidden by users who find that setting — and Instagram trains itself to favor AI unless you intervene.\n\nHave you already checked your Preferences → Suggested Content → AI Posts toggle?"
+        }
+      },
+      "instagram_caption": "Instagram lets you block AI posts — but only if you dig three menus deep to flip a single toggle.\n\nMosseri says you can banish AI from your feed, yet the default floods you with AI content automatically. You have to opt out manually before the algorithm adapts to your silence 🛑\n\nIf you create content, your AI-generated posts could be hidden by users who find that setting — and Instagram trains itself to favor AI unless you intervene.\n\nHave you already checked your Preferences → Suggested Content → AI Posts toggle?",
+      "carousel_slides": [
+        {
+          "hook": "Can you really banish AI?",
+          "description": "Mosseri says you can block AI posts, but the setting is buried three menus deep.",
+          "visual_hint": "Phone with magnifying glass",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen menu"
+        },
+        {
+          "hook": "Default is AI flood.",
+          "description": "Instagram automatically shows AI content; you must manually opt out to stop it.",
+          "visual_hint": "Flooded screen with icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital flood illustration",
+          "image": "https://images.pexels.com/photos/38459010/pexels-photo-38459010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One toggle kills it all.",
+          "description": "Flipping a single setting removes all AI recommendations, but most users never find it.",
+          "visual_hint": "Toggle switch close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "toggle switch button",
+          "image": "https://images.pexels.com/photos/18649173/pexels-photo-18649173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Algorithm learns fast.",
+          "description": "If you don't change the setting now, Instagram trains itself to show more AI posts daily.",
+          "visual_hint": "Spinning gears and code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gears mechanism closeup",
+          "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and check now.",
+          "description": "Go to Preferences → Suggested Content → AI Posts and turn it off before tomorrow.",
+          "visual_hint": "Arrow pointing to settings",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "settings app icon",
+          "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.634570719994%2C100%2C78.730858560013&amp;w=1200",
+      "savedAt": "2026-07-10T19:17:19.453Z",
+      "sourceId": "25a8c727f0cde892171a73959b40f65f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hugging-face-s-ceo-on-why-companies-are-done-renti",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "slides": [
+        "Why are companies quitting rented AI models?",
+        "Hugging Face CEO says open-source now beats proprietary.",
+        "But most firms still think 'rented' is safer.",
+        "You can now fine-tune on your own data freely.",
+        "Stop leasing AI; start owning your infrastructure today."
+      ],
+      "thread_text": [
+        "1. Why dump rented AI?\n\nDeepSeek just proved open-source can beat proprietary — yet 80% of firms still rent models they don't own.",
+        "2. Open-source wins on speed\n\nHugging Face CEO says new open models already outperform rented ones. The gap is real, not hype.",
+        "3. But fear locks firms in\n\nMost companies call rented AI 'safer' because data never leaves the provider. That trade-off costs control.",
+        "4. Now you own the tune\n\nYou can fine-tune open models directly on your private data — no rental, no leak. Freedom just arrived.",
+        "5. Stop leasing, start owning\n\nTake one workflow you rent today and check if an open fine-tune handles it. That test costs zero."
+      ],
+      "video_script": [
+        "Rented AI is losing.",
+        "Open-source beats proprietary now.",
+        "But most firms fear change.",
+        "You can fine-tune freely today.",
+        "Stop leasing. Own your infrastructure."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why dump rented AI?\n\nDeepSeek just proved open-source can beat proprietary — yet 80% of firms still rent models they don't own.",
+            "2. Open-source wins on speed\n\nHugging Face CEO says new open models already outperform rented ones. The gap is real, not hype.",
+            "3. But fear locks firms in\n\nMost companies call rented AI 'safer' because data never leaves the provider. That trade-off costs control.",
+            "4. Now you own the tune\n\nYou can fine-tune open models directly on your private data — no rental, no leak. Freedom just arrived.",
+            "5. Stop leasing, start owning\n\nTake one workflow you rent today and check if an open fine-tune handles it. That test costs zero."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rented AI is losing.",
+            "Open-source beats proprietary now.",
+            "But most firms fear change.",
+            "You can fine-tune freely today.",
+            "Stop leasing. Own your infrastructure."
+          ]
+        },
+        "instagram": {
+          "caption": "Open-source AI models now beat the best rented ones—80% of companies still pay for what they don't own. 🧠\n\nHugging Face’s CEO says the old safety trade-off is gone: you can fine-tune open models on your own data without leaking it. No leasing, no lock-in. 🔓\n\nThat means your content, your workflows, your infrastructure—zero rental fees.\n\nWhich tool in your stack could you test with a free open fine-tune today? 🤔"
+        }
+      },
+      "instagram_caption": "Open-source AI models now beat the best rented ones—80% of companies still pay for what they don't own. 🧠\n\nHugging Face’s CEO says the old safety trade-off is gone: you can fine-tune open models on your own data without leaking it. No leasing, no lock-in. 🔓\n\nThat means your content, your workflows, your infrastructure—zero rental fees.\n\nWhich tool in your stack could you test with a free open fine-tune today? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why rent AI you don't own?",
+          "description": "80% of firms still rent models despite open-source now outperforming proprietary.",
+          "visual_hint": "server racks glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Open-source just beat proprietary.",
+          "description": "Hugging Face CEO confirms new open models already outperform rented ones.",
+          "visual_hint": "graph line going up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fear locks firms into renting.",
+          "description": "Most call rented AI 'safer' but that trade-off costs control over your data.",
+          "visual_hint": "padlock on circuit board",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board lock",
+          "image": "https://images.pexels.com/photos/8108714/pexels-photo-8108714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fine-tune on your own data freely.",
+          "description": "You can now fine-tune open models on private data with no rental or leak.",
+          "visual_hint": "hand adjusting knobs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand on control panel",
+          "image": "https://images.pexels.com/photos/3862607/pexels-photo-3862607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop leasing, start owning today.",
+          "description": "Take one rented workflow and test if an open fine-tune handles it — zero cost.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory robot",
+          "visual_hint": "robot arm picking gear",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+      "savedAt": "2026-07-10T19:17:06.951Z",
+      "sourceId": "c4ac912fdc8dc6303c033744bb6562de"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "oratomic-raises-300m-to-build-a-viable-quantum-com",
       "prompt_version": "1.0.0",
       "status": "published",
