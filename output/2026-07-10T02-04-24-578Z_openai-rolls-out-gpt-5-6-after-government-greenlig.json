@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-rolls-out-gpt-5-6-after-government-greenlig",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+  "pubDate": "2026-07-09T17:00:00.000Z",
+  "slides": [
+    "Did OpenAI just reshape enterprise work with GPT-5.6?",
+    "It received government approval for broader deployment.",
+    "GPT-5.6 can negotiate contracts and generate code autonomously.",
+    "Your workflows now shift from prompting to supervising AI agents.",
+    "Test a single recurring task with ChatGPT Work this week."
+  ],
+  "thread_text": [
+    "1. Your job just changed\n\nGovernment approval means GPT-5.6 now runs autonomously on enterprise data. You are no longer the prompter.",
+    "2. Negotiates like a lawyer\n\nThe model handles contract clauses and vendor terms without human input at each step.",
+    "3. Code without oversight\n\nGPT-5.6 generates production-level code and pushes commits. Review replaces writing.",
+    "4. Supervise, don't prompt\n\nYour daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+    "5. Test this week\n\nPick one recurring task in ChatGPT Work. Let it run. Does the output save time or create rework? Measure before you trust."
+  ],
+  "video_script": [
+    "GPT-5.6 got government approval.",
+    "It negotiates contracts alone now.",
+    "And writes code without your prompts.",
+    "Your job shifts to supervising agents.",
+    "Test one task with ChatGPT Work."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your job just changed\n\nGovernment approval means GPT-5.6 now runs autonomously on enterprise data. You are no longer the prompter.",
+        "2. Negotiates like a lawyer\n\nThe model handles contract clauses and vendor terms without human input at each step.",
+        "3. Code without oversight\n\nGPT-5.6 generates production-level code and pushes commits. Review replaces writing.",
+        "4. Supervise, don't prompt\n\nYour daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+        "5. Test this week\n\nPick one recurring task in ChatGPT Work. Let it run. Does the output save time or create rework? Measure before you trust."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GPT-5.6 got government approval.",
+        "It negotiates contracts alone now.",
+        "And writes code without your prompts.",
+        "Your job shifts to supervising agents.",
+        "Test one task with ChatGPT Work."
+      ]
+    },
+    "instagram": {
+      "caption": "Your new job title is AI supervisor.\n\nOpenAI's GPT-5.6 just got government approval to run autonomously on enterprise data. It negotiates contracts and writes production code without you prompting each step. 🧑‍⚖️\n\nYour workflow shifts from crafting prompts to monitoring outputs. You review code instead of writing it. 💻\n\nThat recurring task you dread? Test it with ChatGPT Work this week. 🧪 Does the output buy you back time, or does it create more rework?"
+    }
+  },
+  "instagram_caption": "Your new job title is AI supervisor.\n\nOpenAI's GPT-5.6 just got government approval to run autonomously on enterprise data. It negotiates contracts and writes production code without you prompting each step. 🧑‍⚖️\n\nYour workflow shifts from crafting prompts to monitoring outputs. You review code instead of writing it. 💻\n\nThat recurring task you dread? Test it with ChatGPT Work this week. 🧪 Does the output buy you back time, or does it create more rework?",
+  "carousel_slides": [
+    {
+      "hook": "Your job just changed forever.",
+      "description": "Government approval lets GPT-5.6 run autonomously on enterprise data. You are now a supervisor, not a prompter.",
+      "visual_hint": "Autonomous AI agent interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room data"
+    },
+    {
+      "hook": "Negotiates like a seasoned lawyer.",
+      "description": "GPT-5.6 handles contract clauses and vendor terms without human input at each step.",
+      "visual_hint": "Contract with AI stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal contract document",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Code without human oversight.",
+      "description": "GPT-5.6 generates production-level code and pushes commits. Your job shifts from writing to reviewing.",
+      "visual_hint": "Code lines and commits",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Supervise, don't prompt anymore.",
+      "description": "Your daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+      "visual_hint": "Hand monitoring screens",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker desk",
+      "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test ChatGPT Work this week.",
+      "description": "Pick one recurring task in ChatGPT Work. Let it run, then measure if it saves time or creates rework.",
+      "visual_hint": "Checkmark on task list",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "task checklist board",
+      "image": "https://images.pexels.com/photos/4586901/pexels-photo-4586901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+  "savedAt": "2026-07-10T02:05:12.147Z",
+  "sourceId": "7f68bb355a3f8281c3a2bb9aaa547267"
+}

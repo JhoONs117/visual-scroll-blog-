@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google will now tell you if an ad was made with AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+  "pubDate": "2026-07-09T20:11:38.000Z",
+  "slides": [
+    "Google just changed how it labels ads. But why?",
+    "New disclosure rules require AI-generated ad tags.",
+    "The AI badge may actually increase viewer trust.",
+    "You can now see which ads were made by machines.",
+    "Check your own ads—do they meet the new rule?"
+  ],
+  "thread_text": [
+    "Google's new ad rule hides a trigger.\n\nStarting this month, every AI-generated ad must carry a visible badge—or face takedown.",
+    "Why the badge works better.\n\nViewers trust labeled AI ads more than unlabeled ones, a study found.",
+    "The badge says 'machine-made.'\n\nGoogle now requires you to tag any ad created with generative AI tools.",
+    "Trust goes up when you label.\n\nSurprisingly, the AI badge can boost credibility instead of harming it.",
+    "Check your own ads today.\n\nOpen your Google Ads dashboard—do your creatives carry the new tag?"
+  ],
+  "video_script": [
+    "Google changed ad labels.",
+    "New rules force AI tags.",
+    "Badge boosts viewer trust.",
+    "See which ads are machine-made.",
+    "Check your ads now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Google's new ad rule hides a trigger.\n\nStarting this month, every AI-generated ad must carry a visible badge—or face takedown.",
+        "Why the badge works better.\n\nViewers trust labeled AI ads more than unlabeled ones, a study found.",
+        "The badge says 'machine-made.'\n\nGoogle now requires you to tag any ad created with generative AI tools.",
+        "Trust goes up when you label.\n\nSurprisingly, the AI badge can boost credibility instead of harming it.",
+        "Check your own ads today.\n\nOpen your Google Ads dashboard—do your creatives carry the new tag?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google changed ad labels.",
+        "New rules force AI tags.",
+        "Badge boosts viewer trust.",
+        "See which ads are machine-made.",
+        "Check your ads now."
+      ]
+    },
+    "instagram": {
+      "caption": "Starting this month, any ad created with generative AI tools on Google must carry a visible badge.\n\nGoogle found that labeled AI ads actually build more trust with viewers than unlabeled ones. The new rule applies to every \"machine-made\" creative tagged in the platform. 🏷️\n\nIf you run ads on Google, check your dashboard—your creatives now need that “AI-generated” tag to stay live. 🔍\n\nOpen your Google Ads account today—do your current creatives already carry the new badge?"
+    }
+  },
+  "instagram_caption": "Starting this month, any ad created with generative AI tools on Google must carry a visible badge.\n\nGoogle found that labeled AI ads actually build more trust with viewers than unlabeled ones. The new rule applies to every \"machine-made\" creative tagged in the platform. 🏷️\n\nIf you run ads on Google, check your dashboard—your creatives now need that “AI-generated” tag to stay live. 🔍\n\nOpen your Google Ads account today—do your current creatives already carry the new badge?",
+  "carousel_slides": [
+    {
+      "hook": "Hidden trigger in Google's new ad rule",
+      "description": "Starting this month, every AI-generated ad must carry a visible badge or face takedown.",
+      "visual_hint": "Google badge on ad",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google ad badge display"
+    },
+    {
+      "hook": "Why the badge boosts trust",
+      "description": "Viewers trust labeled AI ads more than unlabeled ones, a study found.",
+      "visual_hint": "Trust graph rising",
+      "layout_type": "right-focus",
+      "icon": "heart",
+      "image_query": "trust graph chart",
+      "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Machine-made badge now mandatory",
+      "description": "Google requires you to tag any ad created with generative AI tools.",
+      "visual_hint": "Robot hand touchscreen",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "robot hand touchscreen",
+      "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labeled ads gain credibility",
+      "description": "Surprisingly, the AI badge can boost credibility instead of harming it.",
+      "visual_hint": "Thumbs up icon",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "thumbs up icon",
+      "image": "https://images.pexels.com/photos/8831806/pexels-photo-8831806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your ads now in Google dashboard",
+      "description": "Open your Google Ads dashboard and verify your creatives carry the new tag.",
+      "visual_hint": "Dashboard checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "Google Ads dashboard",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&amp;strip=all&amp;crop=0%2C3.6285242321584%2C100%2C92.742951535683&amp;w=1200",
+  "savedAt": "2026-07-10T02:05:00.960Z",
+  "sourceId": "02d5110a61b4945afcd9deb67c67463d"
+}

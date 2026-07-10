@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-rolls-out-gpt-5-6-after-government-greenlig",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "pubDate": "2026-07-09T17:00:00.000Z",
+    "slides": [
+      "Did OpenAI just reshape enterprise work with GPT-5.6?",
+      "It received government approval for broader deployment.",
+      "GPT-5.6 can negotiate contracts and generate code autonomously.",
+      "Your workflows now shift from prompting to supervising AI agents.",
+      "Test a single recurring task with ChatGPT Work this week."
+    ],
+    "thread_text": [
+      "1. Your job just changed\n\nGovernment approval means GPT-5.6 now runs autonomously on enterprise data. You are no longer the prompter.",
+      "2. Negotiates like a lawyer\n\nThe model handles contract clauses and vendor terms without human input at each step.",
+      "3. Code without oversight\n\nGPT-5.6 generates production-level code and pushes commits. Review replaces writing.",
+      "4. Supervise, don't prompt\n\nYour daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+      "5. Test this week\n\nPick one recurring task in ChatGPT Work. Let it run. Does the output save time or create rework? Measure before you trust."
+    ],
+    "video_script": [
+      "GPT-5.6 got government approval.",
+      "It negotiates contracts alone now.",
+      "And writes code without your prompts.",
+      "Your job shifts to supervising agents.",
+      "Test one task with ChatGPT Work."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your job just changed\n\nGovernment approval means GPT-5.6 now runs autonomously on enterprise data. You are no longer the prompter.",
+          "2. Negotiates like a lawyer\n\nThe model handles contract clauses and vendor terms without human input at each step.",
+          "3. Code without oversight\n\nGPT-5.6 generates production-level code and pushes commits. Review replaces writing.",
+          "4. Supervise, don't prompt\n\nYour daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+          "5. Test this week\n\nPick one recurring task in ChatGPT Work. Let it run. Does the output save time or create rework? Measure before you trust."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "GPT-5.6 got government approval.",
+          "It negotiates contracts alone now.",
+          "And writes code without your prompts.",
+          "Your job shifts to supervising agents.",
+          "Test one task with ChatGPT Work."
+        ]
+      },
+      "instagram": {
+        "caption": "Your new job title is AI supervisor.\n\nOpenAI's GPT-5.6 just got government approval to run autonomously on enterprise data. It negotiates contracts and writes production code without you prompting each step. 🧑‍⚖️\n\nYour workflow shifts from crafting prompts to monitoring outputs. You review code instead of writing it. 💻\n\nThat recurring task you dread? Test it with ChatGPT Work this week. 🧪 Does the output buy you back time, or does it create more rework?"
+      }
+    },
+    "instagram_caption": "Your new job title is AI supervisor.\n\nOpenAI's GPT-5.6 just got government approval to run autonomously on enterprise data. It negotiates contracts and writes production code without you prompting each step. 🧑‍⚖️\n\nYour workflow shifts from crafting prompts to monitoring outputs. You review code instead of writing it. 💻\n\nThat recurring task you dread? Test it with ChatGPT Work this week. 🧪 Does the output buy you back time, or does it create more rework?",
+    "carousel_slides": [
+      {
+        "hook": "Your job just changed forever.",
+        "description": "Government approval lets GPT-5.6 run autonomously on enterprise data. You are now a supervisor, not a prompter.",
+        "visual_hint": "Autonomous AI agent interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room data"
+      },
+      {
+        "hook": "Negotiates like a seasoned lawyer.",
+        "description": "GPT-5.6 handles contract clauses and vendor terms without human input at each step.",
+        "visual_hint": "Contract with AI stamp",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal contract document",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Code without human oversight.",
+        "description": "GPT-5.6 generates production-level code and pushes commits. Your job shifts from writing to reviewing.",
+        "visual_hint": "Code lines and commits",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Supervise, don't prompt anymore.",
+        "description": "Your daily workflow shifts from crafting prompts to monitoring agent outputs. Lower skill ceiling, higher stakes.",
+        "visual_hint": "Hand monitoring screens",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker desk",
+        "image": "https://images.pexels.com/photos/7438090/pexels-photo-7438090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test ChatGPT Work this week.",
+        "description": "Pick one recurring task in ChatGPT Work. Let it run, then measure if it saves time or creates rework.",
+        "visual_hint": "Checkmark on task list",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "task checklist board",
+        "image": "https://images.pexels.com/photos/4586901/pexels-photo-4586901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+    "savedAt": "2026-07-10T02:05:12.147Z",
+    "sourceId": "7f68bb355a3f8281c3a2bb9aaa547267"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google will now tell you if an ad was made with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "pubDate": "2026-07-09T20:11:38.000Z",
+    "slides": [
+      "Google just changed how it labels ads. But why?",
+      "New disclosure rules require AI-generated ad tags.",
+      "The AI badge may actually increase viewer trust.",
+      "You can now see which ads were made by machines.",
+      "Check your own ads—do they meet the new rule?"
+    ],
+    "thread_text": [
+      "Google's new ad rule hides a trigger.\n\nStarting this month, every AI-generated ad must carry a visible badge—or face takedown.",
+      "Why the badge works better.\n\nViewers trust labeled AI ads more than unlabeled ones, a study found.",
+      "The badge says 'machine-made.'\n\nGoogle now requires you to tag any ad created with generative AI tools.",
+      "Trust goes up when you label.\n\nSurprisingly, the AI badge can boost credibility instead of harming it.",
+      "Check your own ads today.\n\nOpen your Google Ads dashboard—do your creatives carry the new tag?"
+    ],
+    "video_script": [
+      "Google changed ad labels.",
+      "New rules force AI tags.",
+      "Badge boosts viewer trust.",
+      "See which ads are machine-made.",
+      "Check your ads now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Google's new ad rule hides a trigger.\n\nStarting this month, every AI-generated ad must carry a visible badge—or face takedown.",
+          "Why the badge works better.\n\nViewers trust labeled AI ads more than unlabeled ones, a study found.",
+          "The badge says 'machine-made.'\n\nGoogle now requires you to tag any ad created with generative AI tools.",
+          "Trust goes up when you label.\n\nSurprisingly, the AI badge can boost credibility instead of harming it.",
+          "Check your own ads today.\n\nOpen your Google Ads dashboard—do your creatives carry the new tag?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google changed ad labels.",
+          "New rules force AI tags.",
+          "Badge boosts viewer trust.",
+          "See which ads are machine-made.",
+          "Check your ads now."
+        ]
+      },
+      "instagram": {
+        "caption": "Starting this month, any ad created with generative AI tools on Google must carry a visible badge.\n\nGoogle found that labeled AI ads actually build more trust with viewers than unlabeled ones. The new rule applies to every \"machine-made\" creative tagged in the platform. 🏷️\n\nIf you run ads on Google, check your dashboard—your creatives now need that “AI-generated” tag to stay live. 🔍\n\nOpen your Google Ads account today—do your current creatives already carry the new badge?"
+      }
+    },
+    "instagram_caption": "Starting this month, any ad created with generative AI tools on Google must carry a visible badge.\n\nGoogle found that labeled AI ads actually build more trust with viewers than unlabeled ones. The new rule applies to every \"machine-made\" creative tagged in the platform. 🏷️\n\nIf you run ads on Google, check your dashboard—your creatives now need that “AI-generated” tag to stay live. 🔍\n\nOpen your Google Ads account today—do your current creatives already carry the new badge?",
+    "carousel_slides": [
+      {
+        "hook": "Hidden trigger in Google's new ad rule",
+        "description": "Starting this month, every AI-generated ad must carry a visible badge or face takedown.",
+        "visual_hint": "Google badge on ad",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Google ad badge display"
+      },
+      {
+        "hook": "Why the badge boosts trust",
+        "description": "Viewers trust labeled AI ads more than unlabeled ones, a study found.",
+        "visual_hint": "Trust graph rising",
+        "layout_type": "right-focus",
+        "icon": "heart",
+        "image_query": "trust graph chart",
+        "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Machine-made badge now mandatory",
+        "description": "Google requires you to tag any ad created with generative AI tools.",
+        "visual_hint": "Robot hand touchscreen",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "robot hand touchscreen",
+        "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Labeled ads gain credibility",
+        "description": "Surprisingly, the AI badge can boost credibility instead of harming it.",
+        "visual_hint": "Thumbs up icon",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "thumbs up icon",
+        "image": "https://images.pexels.com/photos/8831806/pexels-photo-8831806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your ads now in Google dashboard",
+        "description": "Open your Google Ads dashboard and verify your creatives carry the new tag.",
+        "visual_hint": "Dashboard checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "Google Ads dashboard",
+        "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&amp;strip=all&amp;crop=0%2C3.6285242321584%2C100%2C92.742951535683&amp;w=1200",
+    "savedAt": "2026-07-10T02:05:00.960Z",
+    "sourceId": "02d5110a61b4945afcd9deb67c67463d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-launches-its-new-family-of-models-with-gpt-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+    "slides": [
+      "Could GPT-5.6 finally crack your hardest problems?",
+      "It introduces chain-of-thought reasoning by default.",
+      "Yet some tasks degrade compared to its predecessor.",
+      "Your team must re-benchmark before trusting any output.",
+      "Run one critical task against GPT-5.6 today manually."
+    ],
+    "thread_text": [
+      "Your AI just got dumber.\n\nGPT-5.6 defaults to chain-of-thought reasoning, yet scores lower than GPT-5.5 on certain tasks you rely on daily.",
+      "The silent regressor.\n\nFor logic puzzles or code debugging, the new model often over-explains and misses the point. That 5% drop is real.",
+      "Don't trust the benchmark sheet.\n\nInternal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers now.",
+      "Your workflow is the blind spot.\n\nWhat works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+      "Test it on Monday.\n\nTake one critical task—say, parsing a messy CSV. Run it manually on GPT-5.6 today. Does it still pass your bar?"
+    ],
+    "video_script": [
+      "GPT-5.6 is out.",
+      "It uses chain-of-thought by default.",
+      "But some tasks got worse.",
+      "Don't trust old benchmarks.",
+      "Test your hardest problem today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your AI just got dumber.\n\nGPT-5.6 defaults to chain-of-thought reasoning, yet scores lower than GPT-5.5 on certain tasks you rely on daily.",
+          "The silent regressor.\n\nFor logic puzzles or code debugging, the new model often over-explains and misses the point. That 5% drop is real.",
+          "Don't trust the benchmark sheet.\n\nInternal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers now.",
+          "Your workflow is the blind spot.\n\nWhat works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+          "Test it on Monday.\n\nTake one critical task—say, parsing a messy CSV. Run it manually on GPT-5.6 today. Does it still pass your bar?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "GPT-5.6 is out.",
+          "It uses chain-of-thought by default.",
+          "But some tasks got worse.",
+          "Don't trust old benchmarks.",
+          "Test your hardest problem today."
+        ]
+      },
+      "instagram": {
+        "caption": "GPT-5.6 now runs chain-of-thought reasoning by default—yet it dropped 5% on logic puzzles and debugging tasks that GPT-5.5 handled flawlessly. 🧠\n\nYour team can’t trust its benchmarks. Internal tests show the new model “over-explains” and misses the point on daily data workflows. 📉\n\nBefore next Monday, run one manual test: feed it a messy CSV you rely on. Does it still pass your bar? ⚙️"
+      }
+    },
+    "instagram_caption": "GPT-5.6 now runs chain-of-thought reasoning by default—yet it dropped 5% on logic puzzles and debugging tasks that GPT-5.5 handled flawlessly. 🧠\n\nYour team can’t trust its benchmarks. Internal tests show the new model “over-explains” and misses the point on daily data workflows. 📉\n\nBefore next Monday, run one manual test: feed it a messy CSV you rely on. Does it still pass your bar? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI just got dumber.",
+        "description": "GPT-5.6 defaults to chain-of-thought reasoning yet scores lower on certain tasks than its predecessor.",
+        "visual_hint": "chart arrow pointing down",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Over-explains, misses the point.",
+        "description": "For logic puzzles and code debugging, the new model often over-explains and misses the point—a real 5% drop.",
+        "visual_hint": "puzzle piece missing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "puzzle pieces",
+        "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't trust the benchmark sheet.",
+        "description": "Internal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers.",
+        "visual_hint": "clipboard with test results",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "clipboard document",
+        "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your workflow is the blind spot.",
+        "description": "What works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+        "visual_hint": "gears and code on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test tomorrow.",
+        "description": "Take one critical task—like parsing a messy CSV—and run it manually on GPT-5.6 today to check if it passes your bar.",
+        "visual_hint": "hand clicking mouse on CSV file",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer screen code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+    "savedAt": "2026-07-10T02:04:49.703Z",
+    "sourceId": "da68d51d471a4c39000040e737471f61"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-says-gpt-5-6-is-the-preferred-model-for-mic",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+    "slides": [
+      "Is GPT-5.6 really better than its rivals?",
+      "Microsoft picked it as Copilot 365's preferred model.",
+      "Rumors of an OpenAI-Microsoft split challenge this choice.",
+      "You must now bet on the right AI stack.",
+      "Test GPT-5.6 vs alternatives before your next renewal."
+    ],
+    "thread_text": [
+      "1. Is GPT-5.6 really better?\n\nMicrosoft bet its entire Copilot 365 stack on it — now OpenAI might walk away.",
+      "2. Microsoft picked a side.\n\nCopilot 365 uses GPT-5.6 as its default model. That decision locks in a vendor.",
+      "3. Split rumors shake the deal.\n\nIf OpenAI and Microsoft separate, GPT-5.6 could lose its privileged access. Your stack changes overnight.",
+      "4. Bet on the right stack.\n\nOne wrong model choice ties your operations to a partnership that may not last 12 months.",
+      "5. Test before you renew.\n\nRun your own prompt set on GPT-5.6 and two alternatives. Which gives fewer edits per output?"
+    ],
+    "video_script": [
+      "GPT-5.6 is now the Copilot default.",
+      "But OpenAI and Microsoft may split.",
+      "Your AI stack depends on that deal.",
+      "One wrong bet locks you in.",
+      "Test all models before your renewal."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is GPT-5.6 really better?\n\nMicrosoft bet its entire Copilot 365 stack on it — now OpenAI might walk away.",
+          "2. Microsoft picked a side.\n\nCopilot 365 uses GPT-5.6 as its default model. That decision locks in a vendor.",
+          "3. Split rumors shake the deal.\n\nIf OpenAI and Microsoft separate, GPT-5.6 could lose its privileged access. Your stack changes overnight.",
+          "4. Bet on the right stack.\n\nOne wrong model choice ties your operations to a partnership that may not last 12 months.",
+          "5. Test before you renew.\n\nRun your own prompt set on GPT-5.6 and two alternatives. Which gives fewer edits per output?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "GPT-5.6 is now the Copilot default.",
+          "But OpenAI and Microsoft may split.",
+          "Your AI stack depends on that deal.",
+          "One wrong bet locks you in.",
+          "Test all models before your renewal."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft just locked GPT-5.6 as Copilot 365’s default model, but OpenAI might walk away from the partnership.\n\nThat choice locks every user into one vendor. If the split happens, your default model could lose its access overnight.\n\nYour daily editing workflow now depends on a partnership that may not last. 📉\n\nWhich model should you bet your renewals on? Run your own prompt test on GPT-5.6 vs two rivals today. 🔍"
+      }
+    },
+    "instagram_caption": "Microsoft just locked GPT-5.6 as Copilot 365’s default model, but OpenAI might walk away from the partnership.\n\nThat choice locks every user into one vendor. If the split happens, your default model could lose its access overnight.\n\nYour daily editing workflow now depends on a partnership that may not last. 📉\n\nWhich model should you bet your renewals on? Run your own prompt test on GPT-5.6 vs two rivals today. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your AI stack could collapse overnight.",
+        "description": "If OpenAI and Microsoft split, GPT-5.6 loses privileged access. Your entire Copilot setup changes instantly.",
+        "visual_hint": "cracked foundation under data center",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "data center server"
+      },
+      {
+        "hook": "Microsoft just chose its champion.",
+        "description": "Copilot 365 now defaults to GPT-5.6. That vendor lock-in affects every enterprise workflow you run.",
+        "visual_hint": "giant checkmark over Microsoft logo",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "microsoft office building",
+        "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Breakup rumors shake the deal.",
+        "description": "A split between OpenAI and Microsoft could kill GPT-5.6's privileged access. Your stack changes overnight.",
+        "visual_hint": "two puzzle pieces pulling apart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken handshake",
+        "image": "https://images.pexels.com/photos/8832719/pexels-photo-8832719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One wrong bet costs you everything.",
+        "description": "Choosing the wrong model ties operations to a partnership that may not last 12 months. Test now.",
+        "visual_hint": "trap door opening under server",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test GPT-5.6 vs rivals today.",
+        "description": "Run your own prompts on GPT-5.6 and two alternatives. Compare edits per output before renewal.",
+        "visual_hint": "stopwatch over split screen outputs",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "laptop screen comparison",
+        "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+    "savedAt": "2026-07-10T02:04:37.171Z",
+    "sourceId": "9ac461d004e9fe390374f89bd8356ab8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-s-new-ai-chips-will-begin-production-in-septe",
     "prompt_version": "1.0.0",
     "status": "published",

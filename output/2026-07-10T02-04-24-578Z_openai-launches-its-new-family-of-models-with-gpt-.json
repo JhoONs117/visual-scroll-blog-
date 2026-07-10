@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-its-new-family-of-models-with-gpt-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches its new family of models with GPT-5.6",
+  "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+  "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+  "slides": [
+    "Could GPT-5.6 finally crack your hardest problems?",
+    "It introduces chain-of-thought reasoning by default.",
+    "Yet some tasks degrade compared to its predecessor.",
+    "Your team must re-benchmark before trusting any output.",
+    "Run one critical task against GPT-5.6 today manually."
+  ],
+  "thread_text": [
+    "Your AI just got dumber.\n\nGPT-5.6 defaults to chain-of-thought reasoning, yet scores lower than GPT-5.5 on certain tasks you rely on daily.",
+    "The silent regressor.\n\nFor logic puzzles or code debugging, the new model often over-explains and misses the point. That 5% drop is real.",
+    "Don't trust the benchmark sheet.\n\nInternal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers now.",
+    "Your workflow is the blind spot.\n\nWhat works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+    "Test it on Monday.\n\nTake one critical task—say, parsing a messy CSV. Run it manually on GPT-5.6 today. Does it still pass your bar?"
+  ],
+  "video_script": [
+    "GPT-5.6 is out.",
+    "It uses chain-of-thought by default.",
+    "But some tasks got worse.",
+    "Don't trust old benchmarks.",
+    "Test your hardest problem today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your AI just got dumber.\n\nGPT-5.6 defaults to chain-of-thought reasoning, yet scores lower than GPT-5.5 on certain tasks you rely on daily.",
+        "The silent regressor.\n\nFor logic puzzles or code debugging, the new model often over-explains and misses the point. That 5% drop is real.",
+        "Don't trust the benchmark sheet.\n\nInternal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers now.",
+        "Your workflow is the blind spot.\n\nWhat works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+        "Test it on Monday.\n\nTake one critical task—say, parsing a messy CSV. Run it manually on GPT-5.6 today. Does it still pass your bar?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GPT-5.6 is out.",
+        "It uses chain-of-thought by default.",
+        "But some tasks got worse.",
+        "Don't trust old benchmarks.",
+        "Test your hardest problem today."
+      ]
+    },
+    "instagram": {
+      "caption": "GPT-5.6 now runs chain-of-thought reasoning by default—yet it dropped 5% on logic puzzles and debugging tasks that GPT-5.5 handled flawlessly. 🧠\n\nYour team can’t trust its benchmarks. Internal tests show the new model “over-explains” and misses the point on daily data workflows. 📉\n\nBefore next Monday, run one manual test: feed it a messy CSV you rely on. Does it still pass your bar? ⚙️"
+    }
+  },
+  "instagram_caption": "GPT-5.6 now runs chain-of-thought reasoning by default—yet it dropped 5% on logic puzzles and debugging tasks that GPT-5.5 handled flawlessly. 🧠\n\nYour team can’t trust its benchmarks. Internal tests show the new model “over-explains” and misses the point on daily data workflows. 📉\n\nBefore next Monday, run one manual test: feed it a messy CSV you rely on. Does it still pass your bar? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Your AI just got dumber.",
+      "description": "GPT-5.6 defaults to chain-of-thought reasoning yet scores lower on certain tasks than its predecessor.",
+      "visual_hint": "chart arrow pointing down",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Over-explains, misses the point.",
+      "description": "For logic puzzles and code debugging, the new model often over-explains and misses the point—a real 5% drop.",
+      "visual_hint": "puzzle piece missing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "puzzle pieces",
+      "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust the benchmark sheet.",
+      "description": "Internal tests show degraded performance on tasks the old model handled flawlessly. You need your own numbers.",
+      "visual_hint": "clipboard with test results",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clipboard document",
+      "image": "https://images.pexels.com/photos/8099498/pexels-photo-8099498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workflow is the blind spot.",
+      "description": "What works for demo prompts may fail for your production data. Re-run your top five tasks this week.",
+      "visual_hint": "gears and code on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test tomorrow.",
+      "description": "Take one critical task—like parsing a messy CSV—and run it manually on GPT-5.6 today to check if it passes your bar.",
+      "visual_hint": "hand clicking mouse on CSV file",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+  "savedAt": "2026-07-10T02:04:49.703Z",
+  "sourceId": "da68d51d471a4c39000040e737471f61"
+}

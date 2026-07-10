@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-gpt-5-6-is-the-preferred-model-for-mic",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+  "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+  "pubDate": "Fri, 10 Jul 2026 00:16:54 +0000",
+  "slides": [
+    "Is GPT-5.6 really better than its rivals?",
+    "Microsoft picked it as Copilot 365's preferred model.",
+    "Rumors of an OpenAI-Microsoft split challenge this choice.",
+    "You must now bet on the right AI stack.",
+    "Test GPT-5.6 vs alternatives before your next renewal."
+  ],
+  "thread_text": [
+    "1. Is GPT-5.6 really better?\n\nMicrosoft bet its entire Copilot 365 stack on it — now OpenAI might walk away.",
+    "2. Microsoft picked a side.\n\nCopilot 365 uses GPT-5.6 as its default model. That decision locks in a vendor.",
+    "3. Split rumors shake the deal.\n\nIf OpenAI and Microsoft separate, GPT-5.6 could lose its privileged access. Your stack changes overnight.",
+    "4. Bet on the right stack.\n\nOne wrong model choice ties your operations to a partnership that may not last 12 months.",
+    "5. Test before you renew.\n\nRun your own prompt set on GPT-5.6 and two alternatives. Which gives fewer edits per output?"
+  ],
+  "video_script": [
+    "GPT-5.6 is now the Copilot default.",
+    "But OpenAI and Microsoft may split.",
+    "Your AI stack depends on that deal.",
+    "One wrong bet locks you in.",
+    "Test all models before your renewal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is GPT-5.6 really better?\n\nMicrosoft bet its entire Copilot 365 stack on it — now OpenAI might walk away.",
+        "2. Microsoft picked a side.\n\nCopilot 365 uses GPT-5.6 as its default model. That decision locks in a vendor.",
+        "3. Split rumors shake the deal.\n\nIf OpenAI and Microsoft separate, GPT-5.6 could lose its privileged access. Your stack changes overnight.",
+        "4. Bet on the right stack.\n\nOne wrong model choice ties your operations to a partnership that may not last 12 months.",
+        "5. Test before you renew.\n\nRun your own prompt set on GPT-5.6 and two alternatives. Which gives fewer edits per output?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GPT-5.6 is now the Copilot default.",
+        "But OpenAI and Microsoft may split.",
+        "Your AI stack depends on that deal.",
+        "One wrong bet locks you in.",
+        "Test all models before your renewal."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft just locked GPT-5.6 as Copilot 365’s default model, but OpenAI might walk away from the partnership.\n\nThat choice locks every user into one vendor. If the split happens, your default model could lose its access overnight.\n\nYour daily editing workflow now depends on a partnership that may not last. 📉\n\nWhich model should you bet your renewals on? Run your own prompt test on GPT-5.6 vs two rivals today. 🔍"
+    }
+  },
+  "instagram_caption": "Microsoft just locked GPT-5.6 as Copilot 365’s default model, but OpenAI might walk away from the partnership.\n\nThat choice locks every user into one vendor. If the split happens, your default model could lose its access overnight.\n\nYour daily editing workflow now depends on a partnership that may not last. 📉\n\nWhich model should you bet your renewals on? Run your own prompt test on GPT-5.6 vs two rivals today. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI stack could collapse overnight.",
+      "description": "If OpenAI and Microsoft split, GPT-5.6 loses privileged access. Your entire Copilot setup changes instantly.",
+      "visual_hint": "cracked foundation under data center",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "data center server"
+    },
+    {
+      "hook": "Microsoft just chose its champion.",
+      "description": "Copilot 365 now defaults to GPT-5.6. That vendor lock-in affects every enterprise workflow you run.",
+      "visual_hint": "giant checkmark over Microsoft logo",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "microsoft office building",
+      "image": "https://images.pexels.com/photos/9683980/pexels-photo-9683980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Breakup rumors shake the deal.",
+      "description": "A split between OpenAI and Microsoft could kill GPT-5.6's privileged access. Your stack changes overnight.",
+      "visual_hint": "two puzzle pieces pulling apart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken handshake",
+      "image": "https://images.pexels.com/photos/8832719/pexels-photo-8832719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One wrong bet costs you everything.",
+      "description": "Choosing the wrong model ties operations to a partnership that may not last 12 months. Test now.",
+      "visual_hint": "trap door opening under server",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test GPT-5.6 vs rivals today.",
+      "description": "Run your own prompts on GPT-5.6 and two alternatives. Compare edits per output before renewal.",
+      "visual_hint": "stopwatch over split screen outputs",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop screen comparison",
+      "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+  "savedAt": "2026-07-10T02:04:37.171Z",
+  "sourceId": "9ac461d004e9fe390374f89bd8356ab8"
+}
