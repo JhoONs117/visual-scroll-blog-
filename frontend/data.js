@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "elon-musk-praises-mythos-fable-promises-not-to-cut",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
+    "slides": [
+      "Elon Musk backed a new contender—why choose Mythos now?",
+      "Fable AI just got his public praise and protection.",
+      "Musk also promised not to cut off Anthropic's funding.",
+      "You can now bet on both sides of the AI race.",
+      "Watch which model Musk praises or funds next."
+    ],
+    "thread_text": [
+      "1. Why Mythos now?\n\nElon Musk just backed a new AI contender, shifting the public spotlight away from OpenAI.",
+      "2. Fable AI gets praise\n\nMusk publicly praised Fable AI and promised it protection, signaling a strategic alliance.",
+      "3. Musk won't cut Anthropic\n\nHe also committed to not cutting off Anthropic's funding, keeping multiple horses in the race.",
+      "4. Bet on both sides\n\nYou can now place bets on which AI model Musk backs next—the market is hedging.",
+      "5. Test a prompt today\n\nTake a prompt you use daily and run it on ChatGPT, then on Fable AI. Compare outputs blindly."
+    ],
+    "video_script": [
+      "Musk just backed a new AI contender.",
+      "He praised Fable AI publicly.",
+      "He won't cut Anthropic's funding.",
+      "Now you can bet on both sides.",
+      "Test a prompt on Fable AI today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Mythos now?\n\nElon Musk just backed a new AI contender, shifting the public spotlight away from OpenAI.",
+          "2. Fable AI gets praise\n\nMusk publicly praised Fable AI and promised it protection, signaling a strategic alliance.",
+          "3. Musk won't cut Anthropic\n\nHe also committed to not cutting off Anthropic's funding, keeping multiple horses in the race.",
+          "4. Bet on both sides\n\nYou can now place bets on which AI model Musk backs next—the market is hedging.",
+          "5. Test a prompt today\n\nTake a prompt you use daily and run it on ChatGPT, then on Fable AI. Compare outputs blindly."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Musk just backed a new AI contender.",
+          "He praised Fable AI publicly.",
+          "He won't cut Anthropic's funding.",
+          "Now you can bet on both sides.",
+          "Test a prompt on Fable AI today."
+        ]
+      },
+      "instagram": {
+        "caption": "Elon Musk just gave his public backing to a new AI model called Fable (from Mythos) and promised he won’t cut off funding for Anthropic either. 🧵\n\nThat means he’s now openly backing three competing AI companies—OpenAI, Anthropic, and Fable—simultaneously. His praise and protection signal a strategic bet on multiple horses, not just one.\n\nFor anyone creating content or publishing, this means the AI race has a new wildcard. Which model you pick for your workflow might flip based on Musk’s next move. 📉\n\nWhat prompt would you run blind to compare Fable against ChatGPT today? 🎲"
+      }
+    },
+    "instagram_caption": "Elon Musk just gave his public backing to a new AI model called Fable (from Mythos) and promised he won’t cut off funding for Anthropic either. 🧵\n\nThat means he’s now openly backing three competing AI companies—OpenAI, Anthropic, and Fable—simultaneously. His praise and protection signal a strategic bet on multiple horses, not just one.\n\nFor anyone creating content or publishing, this means the AI race has a new wildcard. Which model you pick for your workflow might flip based on Musk’s next move. 📉\n\nWhat prompt would you run blind to compare Fable against ChatGPT today? 🎲",
+    "carousel_slides": [
+      {
+        "hook": "He won't cut off funding?",
+        "description": "Elon Musk backed a new AI contender and promised not to cut Anthropic's funding, keeping both sides alive.",
+        "visual_hint": "Musk at podium",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Elon Musk speaking"
+      },
+      {
+        "hook": "Fable AI gets protection.",
+        "description": "Musk publicly praised Fable AI and promised it protection, signaling a strategic alliance in the AI race.",
+        "visual_hint": "robot hand shake",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why Mythos now?",
+        "description": "Musk shifted the spotlight to a new contender, Mythos, challenging OpenAI's dominance with fresh backing.",
+        "visual_hint": "glowing data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bet on both sides.",
+        "description": "You can now place bets on which AI model Musk backs next—the market is hedging its bets.",
+        "visual_hint": "stock chart arrows",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a prompt today.",
+        "description": "Run the same prompt on ChatGPT and Fable AI. Compare outputs blindly and see which wins.",
+        "visual_hint": "side-by-side screens",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "two smartphones screens",
+        "image": "https://images.pexels.com/photos/17781648/pexels-photo-17781648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+    "savedAt": "2026-07-10T10:45:06.946Z",
+    "sourceId": "7a9493a910714f028f0aef4efacc5e0a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-chatgpt-browser-is-already-dead",
     "prompt_version": "1.0.0",
     "status": "published",
