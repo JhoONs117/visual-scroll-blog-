@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "fidji-simo-steps-down-from-leading-openai-s-agi-wo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "pubDate": "2026-07-09T23:24:04.000Z",
+      "slides": [
+        "Who will steer OpenAI’s AGI ship after Fidji Simo’s exit?",
+        "She stepped down due to a non-critical medical condition.",
+        "Her role specialized in safety over raw model performance.",
+        "Safety protocols now face a leadership void at a critical moment.",
+        "Monitor OpenAI’s next safety chief appointment closely."
+      ],
+      "thread_text": [
+        "1. Who's steering now?\n\nFidji Simo's exit leaves OpenAI's safety agenda without a captain.",
+        "2. She chose safety.\n\nHer entire focus was on preventing harm, not accelerating model releases.",
+        "3. A medical pause.\n\nA non-critical condition forced her out at the worst possible moment.",
+        "4. Safety gap widens.\n\nNo one inside OpenAI currently has the same authority to delay a launch.",
+        "5. Watch the next pick.\n\nTrack who gets the safety chief role. Is it a reshares of an old post or a brand-new face?"
+      ],
+      "video_script": [
+        "Fidji Simo left OpenAI's safety team.",
+        "She focused on safety over performance.",
+        "A medical issue forced her exit.",
+        "Safety now has a leadership void.",
+        "Watch who gets appointed next."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's steering now?\n\nFidji Simo's exit leaves OpenAI's safety agenda without a captain.",
+            "2. She chose safety.\n\nHer entire focus was on preventing harm, not accelerating model releases.",
+            "3. A medical pause.\n\nA non-critical condition forced her out at the worst possible moment.",
+            "4. Safety gap widens.\n\nNo one inside OpenAI currently has the same authority to delay a launch.",
+            "5. Watch the next pick.\n\nTrack who gets the safety chief role. Is it a reshares of an old post or a brand-new face?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fidji Simo left OpenAI's safety team.",
+            "She focused on safety over performance.",
+            "A medical issue forced her exit.",
+            "Safety now has a leadership void.",
+            "Watch who gets appointed next."
+          ]
+        },
+        "instagram": {
+          "caption": "🛑 The person who could hit pause on a dangerous OpenAI launch just stepped down.  \n\nFidji Simo left her AGI safety role due to a non-critical illness. She led the team focused on preventing harm, not rushing out models.  \n\nNow there’s no one inside with the same authority to delay a release over safety concerns.  \n\nIf you use text or images from an OpenAI tool in your work, your next update could land without that internal brake.  \n\nWho gets the safety chief seat—and will they have real power to say no?"
+        }
+      },
+      "instagram_caption": "🛑 The person who could hit pause on a dangerous OpenAI launch just stepped down.  \n\nFidji Simo left her AGI safety role due to a non-critical illness. She led the team focused on preventing harm, not rushing out models.  \n\nNow there’s no one inside with the same authority to delay a release over safety concerns.  \n\nIf you use text or images from an OpenAI tool in your work, your next update could land without that internal brake.  \n\nWho gets the safety chief seat—and will they have real power to say no?",
+      "carousel_slides": [
+        {
+          "hook": "Who leads safety now?",
+          "description": "Fidji Simo's exit leaves OpenAI's AGI safety work without a captain at a critical moment.",
+          "visual_hint": "Empty captain's chair on bridge",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty chair office"
+        },
+        {
+          "hook": "She chose safety over speed.",
+          "description": "Her focus was preventing harm, not accelerating model releases. Now that leadership is gone.",
+          "visual_hint": "Scale tipping toward safety icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Medical pause at worst time.",
+          "description": "A non-critical condition forced her out, widening the safety gap inside OpenAI.",
+          "visual_hint": "Heartbeat medical monitor green line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hospital heart monitor",
+          "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No one left to delay launches.",
+          "description": "No current insider has her authority to pause a risky deployment. Safety gap widens.",
+          "visual_hint": "Hand pulling emergency brake lever",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "train emergency brake",
+          "image": "https://images.pexels.com/photos/25819965/pexels-photo-25819965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for the next hire.",
+          "description": "Watch OpenAI's next safety chief appointment closely — it signals the company's true priority.",
+          "visual_hint": "Magnifying glass over executive portrait",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+      "savedAt": "2026-07-11T16:44:11.041Z",
+      "sourceId": "aa665a1ba2a05a74b2e653b3c8981fb1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-bets-on-families-as-chatgpt-goes-deeper-int",
       "prompt_version": "1.0.0",
       "status": "published",
