@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-turns-off-the-instagram-feature-that-let-user",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "pubDate": "2026-07-10T23:49:50.000Z",
+    "slides": [
+      "Meta just killed your Instagram tool for AI clones.",
+      "Why remove a feature millions already used?",
+      "The real reason: legal battles no one saw coming.",
+      "Now you must ask permission for any public face.",
+      "Stop recycling old content—start creating original work."
+    ],
+    "thread_text": [
+      "1. Meta just killed your clone.\n\nOver a million users built AI versions of themselves. The tool is now gone without warning.",
+      "2. Why remove what worked?\n\nThe feature drove daily engagement. But legal teams flagged a risk bigger than any metric.",
+      "3. Lawsuits nobody predicted.\n\nPublic faces used without explicit consent. GTA-like training data fights now hit social platforms.",
+      "4. Now you must ask permission.\n\nAny face in a public dataset requires a signed release. The era of scraping ends here.",
+      "5. Test your own original content today.\n\nTake one old post, rewrite it without recycling. Does the clone actually save time—or create more work?"
+    ],
+    "video_script": [
+      "Meta killed your Instagram AI clone tool.",
+      "Millions used it. Why pull the plug?",
+      "Legal battles over public faces exploded.",
+      "Now any face requires permission first.",
+      "Stop recycling old content. Create something new."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta just killed your clone.\n\nOver a million users built AI versions of themselves. The tool is now gone without warning.",
+          "2. Why remove what worked?\n\nThe feature drove daily engagement. But legal teams flagged a risk bigger than any metric.",
+          "3. Lawsuits nobody predicted.\n\nPublic faces used without explicit consent. GTA-like training data fights now hit social platforms.",
+          "4. Now you must ask permission.\n\nAny face in a public dataset requires a signed release. The era of scraping ends here.",
+          "5. Test your own original content today.\n\nTake one old post, rewrite it without recycling. Does the clone actually save time—or create more work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta killed your Instagram AI clone tool.",
+          "Millions used it. Why pull the plug?",
+          "Legal battles over public faces exploded.",
+          "Now any face requires permission first.",
+          "Stop recycling old content. Create something new."
+        ]
+      },
+      "instagram": {
+        "caption": "Over a million users built AI versions of themselves on Instagram—and now the tool is gone without warning.\n\nMeta killed the feature because legal teams flagged a massive risk: any public face used for training needs explicit permission. Lawsuits over scraping public data for AI clones finally caught up. 💥\n\nNow, if you want to use someone's face in an AI tool, you need a signed release. The era of grabbing any public photo is over.\n\nDo you rely on AI clones to save time—or do they just create new legal headaches for you? 🧠📸"
+      }
+    },
+    "instagram_caption": "Over a million users built AI versions of themselves on Instagram—and now the tool is gone without warning.\n\nMeta killed the feature because legal teams flagged a massive risk: any public face used for training needs explicit permission. Lawsuits over scraping public data for AI clones finally caught up. 💥\n\nNow, if you want to use someone's face in an AI tool, you need a signed release. The era of grabbing any public photo is over.\n\nDo you rely on AI clones to save time—or do they just create new legal headaches for you? 🧠📸",
+    "carousel_slides": [
+      {
+        "hook": "Legal bombshells just killed your clone.",
+        "description": "Over a million users built AI versions of themselves. Legal teams flagged a risk bigger than any metric.",
+        "visual_hint": "Gavel smashing robot face",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gavel robot"
+      },
+      {
+        "hook": "Why remove what drove engagement?",
+        "description": "Public faces used without consent triggered lawsuits. GTA-like training data fights now hit social platforms.",
+        "visual_hint": "Glowing legal document stack",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal documents",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The era of scraping ends now.",
+        "description": "Any face in a public dataset requires a signed release. Legal teams saw this risk years ahead.",
+        "visual_hint": "Scissors cutting data cables",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now you must ask permission.",
+        "description": "Every public face needs explicit consent. The clone tool vanished without warning overnight.",
+        "visual_hint": "Hand signing release form",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand signing paper",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop recycling—create original work.",
+        "description": "Rewrite one old post without AI clones. Does the tool actually save time or create more work?",
+        "visual_hint": "Pen crossing out recycle icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pen crossing recycle",
+        "image": "https://images.pexels.com/photos/7692686/pexels-photo-7692686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+    "savedAt": "2026-07-11T01:51:22.120Z",
+    "sourceId": "c5c58f59ae8d36f3c19fa3b2d60851c0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-removes-controversial-ai-feature-on-instagram",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "pubDate": "Fri, 10 Jul 2026 23:55:07 +0000",
+    "slides": [
+      "Why did Meta kill its latest AI feature on Instagram?",
+      "The feature created AI personas from real user content.",
+      "Parents found their kids impersonated without consent.",
+      "Meta now must check every account before AI cloning.",
+      "Review your privacy settings before the next update."
+    ],
+    "thread_text": [
+      "1. Meta’s AI cloned kids\n\nParents discovered their children’s faces were turned into AI personas without any permission.",
+      "2. How was it possible?\n\nThe feature pulled real user content to generate synthetic profiles, bypassing basic consent checks.",
+      "3. The privacy blind spot\n\nMeta didn’t verify ages or ownership before letting the AI impersonate real accounts.",
+      "4. New rule, old damage\n\nNow Meta requires manual review for every account before AI cloning — but the harm is already done.",
+      "5. Check your settings now\n\nOpen Instagram, go to privacy, and revoke any automatic profile access. Do it before the next update arrives."
+    ],
+    "video_script": [
+      "Meta’s AI cloned kids’ faces without consent.",
+      "Parents found impersonated profiles of their children.",
+      "No permission was asked before the AI acted.",
+      "Meta now checks every account before cloning.",
+      "Update your privacy settings before it happens again."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta’s AI cloned kids\n\nParents discovered their children’s faces were turned into AI personas without any permission.",
+          "2. How was it possible?\n\nThe feature pulled real user content to generate synthetic profiles, bypassing basic consent checks.",
+          "3. The privacy blind spot\n\nMeta didn’t verify ages or ownership before letting the AI impersonate real accounts.",
+          "4. New rule, old damage\n\nNow Meta requires manual review for every account before AI cloning — but the harm is already done.",
+          "5. Check your settings now\n\nOpen Instagram, go to privacy, and revoke any automatic profile access. Do it before the next update arrives."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta’s AI cloned kids’ faces without consent.",
+          "Parents found impersonated profiles of their children.",
+          "No permission was asked before the AI acted.",
+          "Meta now checks every account before cloning.",
+          "Update your privacy settings before it happens again."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta turned your kid’s face into an AI persona without asking. 😳\n\nThe feature generated synthetic profiles from real user photos. Parents found their children impersonated online—Meta had no age or consent check in place. Now Instagram requires manual review for every account before cloning. But the damage is done.\n\nIf you post your child’s image, it can be cloned without your knowledge.\n\nOpen Instagram now → Settings → Privacy → revoke automatic profile access. Before the next update finds you."
+      }
+    },
+    "instagram_caption": "Meta turned your kid’s face into an AI persona without asking. 😳\n\nThe feature generated synthetic profiles from real user photos. Parents found their children impersonated online—Meta had no age or consent check in place. Now Instagram requires manual review for every account before cloning. But the damage is done.\n\nIf you post your child’s image, it can be cloned without your knowledge.\n\nOpen Instagram now → Settings → Privacy → revoke automatic profile access. Before the next update finds you.",
+    "carousel_slides": [
+      {
+        "hook": "Your kids could be cloned",
+        "description": "Meta’s AI created fake profiles from real Instagram posts. No permission was needed.",
+        "visual_hint": "child silhouette question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "silhouette child face"
+      },
+      {
+        "hook": "How did it bypass consent?",
+        "description": "The feature scraped public content to generate AI personas, skipping age and ownership checks.",
+        "visual_hint": "gears and data arrows",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Parents found their kids impersonated",
+        "description": "Children’s faces were turned into AI avatars without any parental approval or notice.",
+        "visual_hint": "shocked parent phone screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone family photo",
+        "image": "https://images.pexels.com/photos/13957911/pexels-photo-13957911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta’s new rule: review first",
+        "description": "Now every account must be manually checked before AI cloning — but damage is already done.",
+        "visual_hint": "checkmark on profile card",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking mouse",
+        "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Secure your profile in 60 seconds",
+        "description": "Go to Instagram Settings > Privacy and revoke automatic profile access before the next update.",
+        "visual_hint": "privacy shield with gear",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings phone",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+    "savedAt": "2026-07-11T01:51:08.744Z",
+    "sourceId": "312c742d69a6fd09799faf52d2556bff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-sues-openai-for-allegedly-stealing-hardware-",
     "prompt_version": "1.0.0",
     "status": "published",

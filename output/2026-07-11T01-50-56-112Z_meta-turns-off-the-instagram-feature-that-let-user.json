@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-turns-off-the-instagram-feature-that-let-user",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+  "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+  "pubDate": "2026-07-10T23:49:50.000Z",
+  "slides": [
+    "Meta just killed your Instagram tool for AI clones.",
+    "Why remove a feature millions already used?",
+    "The real reason: legal battles no one saw coming.",
+    "Now you must ask permission for any public face.",
+    "Stop recycling old content—start creating original work."
+  ],
+  "thread_text": [
+    "1. Meta just killed your clone.\n\nOver a million users built AI versions of themselves. The tool is now gone without warning.",
+    "2. Why remove what worked?\n\nThe feature drove daily engagement. But legal teams flagged a risk bigger than any metric.",
+    "3. Lawsuits nobody predicted.\n\nPublic faces used without explicit consent. GTA-like training data fights now hit social platforms.",
+    "4. Now you must ask permission.\n\nAny face in a public dataset requires a signed release. The era of scraping ends here.",
+    "5. Test your own original content today.\n\nTake one old post, rewrite it without recycling. Does the clone actually save time—or create more work?"
+  ],
+  "video_script": [
+    "Meta killed your Instagram AI clone tool.",
+    "Millions used it. Why pull the plug?",
+    "Legal battles over public faces exploded.",
+    "Now any face requires permission first.",
+    "Stop recycling old content. Create something new."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta just killed your clone.\n\nOver a million users built AI versions of themselves. The tool is now gone without warning.",
+        "2. Why remove what worked?\n\nThe feature drove daily engagement. But legal teams flagged a risk bigger than any metric.",
+        "3. Lawsuits nobody predicted.\n\nPublic faces used without explicit consent. GTA-like training data fights now hit social platforms.",
+        "4. Now you must ask permission.\n\nAny face in a public dataset requires a signed release. The era of scraping ends here.",
+        "5. Test your own original content today.\n\nTake one old post, rewrite it without recycling. Does the clone actually save time—or create more work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta killed your Instagram AI clone tool.",
+        "Millions used it. Why pull the plug?",
+        "Legal battles over public faces exploded.",
+        "Now any face requires permission first.",
+        "Stop recycling old content. Create something new."
+      ]
+    },
+    "instagram": {
+      "caption": "Over a million users built AI versions of themselves on Instagram—and now the tool is gone without warning.\n\nMeta killed the feature because legal teams flagged a massive risk: any public face used for training needs explicit permission. Lawsuits over scraping public data for AI clones finally caught up. 💥\n\nNow, if you want to use someone's face in an AI tool, you need a signed release. The era of grabbing any public photo is over.\n\nDo you rely on AI clones to save time—or do they just create new legal headaches for you? 🧠📸"
+    }
+  },
+  "instagram_caption": "Over a million users built AI versions of themselves on Instagram—and now the tool is gone without warning.\n\nMeta killed the feature because legal teams flagged a massive risk: any public face used for training needs explicit permission. Lawsuits over scraping public data for AI clones finally caught up. 💥\n\nNow, if you want to use someone's face in an AI tool, you need a signed release. The era of grabbing any public photo is over.\n\nDo you rely on AI clones to save time—or do they just create new legal headaches for you? 🧠📸",
+  "carousel_slides": [
+    {
+      "hook": "Legal bombshells just killed your clone.",
+      "description": "Over a million users built AI versions of themselves. Legal teams flagged a risk bigger than any metric.",
+      "visual_hint": "Gavel smashing robot face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel robot"
+    },
+    {
+      "hook": "Why remove what drove engagement?",
+      "description": "Public faces used without consent triggered lawsuits. GTA-like training data fights now hit social platforms.",
+      "visual_hint": "Glowing legal document stack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The era of scraping ends now.",
+      "description": "Any face in a public dataset requires a signed release. Legal teams saw this risk years ahead.",
+      "visual_hint": "Scissors cutting data cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now you must ask permission.",
+      "description": "Every public face needs explicit consent. The clone tool vanished without warning overnight.",
+      "visual_hint": "Hand signing release form",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand signing paper",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop recycling—create original work.",
+      "description": "Rewrite one old post without AI clones. Does the tool actually save time or create more work?",
+      "visual_hint": "Pen crossing out recycle icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "pen crossing recycle",
+      "image": "https://images.pexels.com/photos/7692686/pexels-photo-7692686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+  "savedAt": "2026-07-11T01:51:22.120Z",
+  "sourceId": "c5c58f59ae8d36f3c19fa3b2d60851c0"
+}
