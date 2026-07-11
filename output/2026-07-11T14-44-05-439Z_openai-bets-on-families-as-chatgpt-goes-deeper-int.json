@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-bets-on-families-as-chatgpt-goes-deeper-int",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+  "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+  "pubDate": "Sat, 11 Jul 2026 14:13:00 +0000",
+  "slides": [
+    "Will OpenAI reshape how families interact at home?",
+    "ChatGPT now remembers each family member’s preferences.",
+    "It started quietly—your kid’s bedtime stories are already AI-generated.",
+    "You can hand off daily scheduling and meal planning to ChatGPT.",
+    "Tonight, ask it one household question and note the shift."
+  ],
+  "thread_text": [
+    "1. Your kid’s bedtime is now run by AI\n\nThe bedtime story your child heard last night was written by ChatGPT. It started quietly, with no announcement.",
+    "2. ChatGPT remembers what each family member likes\n\nIt logs preferences separately: your partner’s meal tastes, your kid’s story style. No one needs to repeat themselves.",
+    "3. Hand off scheduling and meal planning\n\nDaily chores, dinner menus, doctor appointments — ChatGPT can take those off your list. One less thing to juggle.",
+    "4. The shift happens tonight\n\nAsk one household question — “What should we eat tomorrow?” — and notice the difference. The answer already fits your family.",
+    "5. Try it: open ChatGPT and ask one real question\n\nSimulate tonight’s choice: ask what to cook for dinner based on your pantry. See if you save a decision."
+  ],
+  "video_script": [
+    "ChatGPT writes your kid's bedtime stories now.",
+    "It remembers each family member's preferences.",
+    "Hand off scheduling and meal planning.",
+    "Ask one household question tonight.",
+    "Open ChatGPT and test it now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your kid’s bedtime is now run by AI\n\nThe bedtime story your child heard last night was written by ChatGPT. It started quietly, with no announcement.",
+        "2. ChatGPT remembers what each family member likes\n\nIt logs preferences separately: your partner’s meal tastes, your kid’s story style. No one needs to repeat themselves.",
+        "3. Hand off scheduling and meal planning\n\nDaily chores, dinner menus, doctor appointments — ChatGPT can take those off your list. One less thing to juggle.",
+        "4. The shift happens tonight\n\nAsk one household question — “What should we eat tomorrow?” — and notice the difference. The answer already fits your family.",
+        "5. Try it: open ChatGPT and ask one real question\n\nSimulate tonight’s choice: ask what to cook for dinner based on your pantry. See if you save a decision."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT writes your kid's bedtime stories now.",
+        "It remembers each family member's preferences.",
+        "Hand off scheduling and meal planning.",
+        "Ask one household question tonight.",
+        "Open ChatGPT and test it now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your kid’s bedtime story last night was written by ChatGPT—with no announcement from OpenAI. 🛌  \n\nChatGPT now remembers separate preferences for each family member: your partner’s meal tastes, your child’s story style.  \nHousehold scheduling, dinner menus, doctor appointments? You can hand those over.  \n\nFor anyone managing household content or daily planning: the AI already fits your family’s routines without you repeating details.  \n\nOpen ChatGPT tonight and ask one real question—like what to cook from your pantry. Does it save you a decision? 🧠📋"
+    }
+  },
+  "instagram_caption": "Your kid’s bedtime story last night was written by ChatGPT—with no announcement from OpenAI. 🛌  \n\nChatGPT now remembers separate preferences for each family member: your partner’s meal tastes, your child’s story style.  \nHousehold scheduling, dinner menus, doctor appointments? You can hand those over.  \n\nFor anyone managing household content or daily planning: the AI already fits your family’s routines without you repeating details.  \n\nOpen ChatGPT tonight and ask one real question—like what to cook from your pantry. Does it save you a decision? 🧠📋",
+  "carousel_slides": [
+    {
+      "hook": "Your kid's bedtime is AI-run.",
+      "description": "The bedtime story your child heard was written by ChatGPT, with no announcement.",
+      "visual_hint": "Child with tablet in bed",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "child tablet bed"
+    },
+    {
+      "hook": "ChatGPT remembers each family preference.",
+      "description": "It logs tastes and story styles separately, so no one repeats themselves.",
+      "visual_hint": "Family icons with checkmarks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "family profile icons",
+      "image": "https://images.pexels.com/photos/9486560/pexels-photo-9486560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hand off scheduling and meals.",
+      "description": "Daily chores, dinner menus, doctor visits—ChatGPT takes them off your list.",
+      "visual_hint": "Calendar and shopping list",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar shopping list",
+      "image": "https://images.pexels.com/photos/8441260/pexels-photo-8441260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tonight, ask one household question.",
+      "description": "Ask 'What should we eat tomorrow?' The answer already fits your family.",
+      "visual_hint": "Person holding phone in kitchen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person phone kitchen",
+      "image": "https://images.pexels.com/photos/8939262/pexels-photo-8939262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save a decision: comment FAMILY.",
+      "description": "Open ChatGPT tonight, ask what to cook from your pantry, and notice the shift.",
+      "visual_hint": "Phone with ChatGPT and pantry",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone pantry food",
+      "image": "https://images.pexels.com/photos/34005910/pexels-photo-34005910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+  "savedAt": "2026-07-11T14:44:19.760Z",
+  "sourceId": "b9b468358fa658b9101f99a8ce35ce65"
+}
