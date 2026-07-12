@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-fight-against-ai-data-centers-is-just-beginnin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "pubDate": "2026-07-12T12:00:00.000Z",
+      "slides": [
+        "Who will stop the next AI data center?",
+        "Global electricity demand just hit a record high.",
+        "Silicon Valley plans more centers than grids can handle.",
+        "Your community may face power shortages without warning.",
+        "Block one center—hundreds more are already approved."
+      ],
+      "thread_text": [
+        "1. Who stops the next center?\n\nGlobal electricity demand just set a record — and Silicon Valley has already approved hundreds more data centers.",
+        "2. Grids can't keep up.\n\nPlanned centers outpace what local power grids can deliver. No buffer. No backup.",
+        "3. Your town goes dark.\n\nYour community could face rolling blackouts with zero warning — because a data center miles away gulped the reserve.",
+        "4. Block one? Too late.\n\nStop a single facility — hundreds more are already permitted. The pipeline is unstoppable.",
+        "5. Call your utility today.\n\nAsk your local grid operator: do you have a public map of approved data center loads? If not, demand one."
+      ],
+      "video_script": [
+        "Record electricity demand. Silicon Valley builds faster than grids.",
+        "Hundreds of centers approved. Grids cannot deliver power.",
+        "Your neighborhood could black out without any notice.",
+        "Block one center. Hundreds more already have permits.",
+        "Call your utility. Ask for a public load map."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who stops the next center?\n\nGlobal electricity demand just set a record — and Silicon Valley has already approved hundreds more data centers.",
+            "2. Grids can't keep up.\n\nPlanned centers outpace what local power grids can deliver. No buffer. No backup.",
+            "3. Your town goes dark.\n\nYour community could face rolling blackouts with zero warning — because a data center miles away gulped the reserve.",
+            "4. Block one? Too late.\n\nStop a single facility — hundreds more are already permitted. The pipeline is unstoppable.",
+            "5. Call your utility today.\n\nAsk your local grid operator: do you have a public map of approved data center loads? If not, demand one."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Record electricity demand. Silicon Valley builds faster than grids.",
+            "Hundreds of centers approved. Grids cannot deliver power.",
+            "Your neighborhood could black out without any notice.",
+            "Block one center. Hundreds more already have permits.",
+            "Call your utility. Ask for a public load map."
+          ]
+        },
+        "instagram": {
+          "caption": "Your town could face rolling blackouts with zero warning—because a data center miles away just gulped the reserve power.\n\nGlobal electricity demand hit a record high. Silicon Valley has already approved hundreds more data centers than local grids can handle ⚡️\n\nBlock one center? Too late—hundreds more are already permitted. The pipeline is unstoppable.\n\nIf you publish or create content daily, your power supply just became a bottleneck for your work.\n\nDoes your local grid operator publish a public map of approved data center loads? If not, call them today and demand one 📞"
+        }
+      },
+      "instagram_caption": "Your town could face rolling blackouts with zero warning—because a data center miles away just gulped the reserve power.\n\nGlobal electricity demand hit a record high. Silicon Valley has already approved hundreds more data centers than local grids can handle ⚡️\n\nBlock one center? Too late—hundreds more are already permitted. The pipeline is unstoppable.\n\nIf you publish or create content daily, your power supply just became a bottleneck for your work.\n\nDoes your local grid operator publish a public map of approved data center loads? If not, call them today and demand one 📞",
+      "carousel_slides": [
+        {
+          "hook": "Who will stop the next one?",
+          "description": "Global electricity demand hit a record high. Silicon Valley has approved hundreds more data centers.",
+          "visual_hint": "Glowing server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center server room"
+        },
+        {
+          "hook": "Grids can't keep up.",
+          "description": "Planned centers outpace what local power grids can deliver. No buffer. No backup.",
+          "visual_hint": "Power lines overloaded",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "power grid overload",
+          "image": "https://images.pexels.com/photos/15528034/pexels-photo-15528034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your town goes dark.",
+          "description": "Your community could face rolling blackouts with zero warning, because a data center gulped the reserve.",
+          "visual_hint": "Blackout city skyline",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "city blackout night",
+          "image": "https://images.pexels.com/photos/16898413/pexels-photo-16898413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Block one? Too late.",
+          "description": "Stop a single facility — hundreds more are already permitted. The pipeline is unstoppable.",
+          "visual_hint": "Approved permits stack",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "construction permit papers",
+          "image": "https://images.pexels.com/photos/5583248/pexels-photo-5583248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Call your utility now.",
+          "description": "Ask your grid operator: do you have a public map of approved data center loads? Demand one.",
+          "visual_hint": "Phone and utility map",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "electricity meter reading",
+          "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.729057198914%2C100%2C78.541885602173&amp;w=1200",
+      "savedAt": "2026-07-12T12:59:13.482Z",
+      "sourceId": "5478e49d29a905676fa53336952843da"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "fidji-simo-steps-down-from-leading-openai-s-agi-wo",
       "prompt_version": "1.0.0",
       "status": "published",
