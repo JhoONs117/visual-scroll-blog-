@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "lorde-says-ray-ban-meta-ai-glasses-are-not-sexy-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "pubDate": "2026-07-12T20:10:19.000Z",
+    "slides": [
+      "Why does Lorde call Ray-Ban Meta glasses not sexy?",
+      "She says the design lacks aesthetic appeal.",
+      "But Meta sold millions despite fashion critics.",
+      "Your brand's tech must balance function and style.",
+      "Test your product's visual appeal before launch."
+    ],
+    "thread_text": [
+      "Lorde hates the design.\n\nRay-Ban Meta glasses sold millions anyway. Fashion critics can't stop a product that actually works.",
+      "Function beat style.\n\nMost buyers care if the tech works, not if it looks cool. That’s why Meta ignored the aesthetic complaints.",
+      "Balance is key.\n\nIf your brand ships ugly hardware, you rely on utility alone. One competitor with better looks and equal function kills you.",
+      "Test before launch.\n\nPut your prototype in front of 20 strangers. Ask if they'd wear it in public. If they hesitate, redesign.",
+      "Your turn.\n\nTake your current product and ask one friend to rate its visual appeal on a scale of 1–10. If it’s below 8, delay the launch."
+    ],
+    "video_script": [
+      "Lorde said Meta glasses aren't sexy.",
+      "But Meta sold millions anyway.",
+      "Function beat fashion for most buyers.",
+      "Your brand needs both balance.",
+      "Test your product's look before launch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Lorde hates the design.\n\nRay-Ban Meta glasses sold millions anyway. Fashion critics can't stop a product that actually works.",
+          "Function beat style.\n\nMost buyers care if the tech works, not if it looks cool. That’s why Meta ignored the aesthetic complaints.",
+          "Balance is key.\n\nIf your brand ships ugly hardware, you rely on utility alone. One competitor with better looks and equal function kills you.",
+          "Test before launch.\n\nPut your prototype in front of 20 strangers. Ask if they'd wear it in public. If they hesitate, redesign.",
+          "Your turn.\n\nTake your current product and ask one friend to rate its visual appeal on a scale of 1–10. If it’s below 8, delay the launch."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Lorde said Meta glasses aren't sexy.",
+          "But Meta sold millions anyway.",
+          "Function beat fashion for most buyers.",
+          "Your brand needs both balance.",
+          "Test your product's look before launch."
+        ]
+      },
+      "instagram": {
+        "caption": "Lorde just called Ray-Ban Meta glasses “not sexy” — and she’s a style icon who actually tried them.\n\nMeta sold millions anyway. But that doesn’t mean looks don’t matter. It just means good tech can outrun bad design for a while.\n\nOne competitor ships the same features in a frame someone *wants* to wear — and your hardware becomes a paperweight.\n\nIf you’re building a physical product, test it on 5 strangers in public first. Any hesitation? Redesign.\n\nWould you actually wear your own product in front of your crush? 😬🥽👀"
+      }
+    },
+    "instagram_caption": "Lorde just called Ray-Ban Meta glasses “not sexy” — and she’s a style icon who actually tried them.\n\nMeta sold millions anyway. But that doesn’t mean looks don’t matter. It just means good tech can outrun bad design for a while.\n\nOne competitor ships the same features in a frame someone *wants* to wear — and your hardware becomes a paperweight.\n\nIf you’re building a physical product, test it on 5 strangers in public first. Any hesitation? Redesign.\n\nWould you actually wear your own product in front of your crush? 😬🥽👀",
+    "carousel_slides": [
+      {
+        "hook": "Lorde hates them, but sales soared.",
+        "description": "Fashion critics dislike Ray-Ban Meta glasses, yet millions sold because function trumped style.",
+        "visual_hint": "Glasses on a pedestal",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sunglasses display"
+      },
+      {
+        "hook": "Function beat style again.",
+        "description": "Most buyers care if tech works, not if it looks cool. That's why Meta ignored aesthetic complaints.",
+        "visual_hint": "People ignoring fashion critics",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "people wearing glasses",
+        "image": "https://images.pexels.com/photos/30587668/pexels-photo-30587668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Balance is everything in tech.",
+        "description": "If your brand ships ugly hardware, you rely on utility alone. One stylish competitor kills you.",
+        "visual_hint": "Scale with glasses and chips",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your product's visual appeal.",
+        "description": "Put your prototype in front of 20 strangers. If they hesitate to wear it, redesign before launch.",
+        "visual_hint": "Hand holding a prototype",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding device",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to audit your product.",
+        "description": "Ask a friend to rate your product's look on a scale of 1–10. Below 8? Delay the launch.",
+        "visual_hint": "Checklist and pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.807256256556%2C100%2C78.385487486888&amp;w=1200",
+    "savedAt": "2026-07-12T22:39:03.876Z",
+    "sourceId": "dd4ae4b81f35b59afa50ee530d07a5d5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-failed-self-driving-car-program-left-a-leg",
     "prompt_version": "1.0.0",
     "status": "published",
