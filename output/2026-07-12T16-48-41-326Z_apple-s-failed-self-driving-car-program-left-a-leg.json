@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-failed-self-driving-car-program-left-a-leg",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+  "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+  "pubDate": "2026-07-12T16:27:06.000Z",
+  "slides": [
+    "Why did Apple kill its self-driving car?",
+    "The car project consumed billions of dollars over ten years.",
+    "It never drove a single mile autonomously on public roads.",
+    "That failure gave birth to chips now powering Apple's AI servers.",
+    "Your next iPhone runs on technology born from a dead car."
+  ],
+  "thread_text": [
+    "1. The project that never moved\n\nApple spent ten years and billions of dollars on a self-driving car that never drove autonomously on a public road.",
+    "2. Where the money really went\n\nThe car's failure pushed engineers to repurpose the silicon into chips now running Apple's AI servers.",
+    "3. The chip that escaped the wreck\n\nThose server chips are a direct ancestor of the neural engine in your next iPhone.",
+    "4. A dead project resurrected\n\nWhat was a total loss in one division became the backbone of Apple's entire AI infrastructure.",
+    "5. Check your phone tonight\n\nOpen Settings > General > About and look for 'Neural Engine'. Does that feature exist without a failed car?"
+  ],
+  "video_script": [
+    "Apple killed its self-driving car after ten years.",
+    "It never drove a single mile autonomously on roads.",
+    "But that failure birthed chips for AI servers.",
+    "Those chips now power your next iPhone's neural engine.",
+    "So a dead car gave birth to your phone's brain."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The project that never moved\n\nApple spent ten years and billions of dollars on a self-driving car that never drove autonomously on a public road.",
+        "2. Where the money really went\n\nThe car's failure pushed engineers to repurpose the silicon into chips now running Apple's AI servers.",
+        "3. The chip that escaped the wreck\n\nThose server chips are a direct ancestor of the neural engine in your next iPhone.",
+        "4. A dead project resurrected\n\nWhat was a total loss in one division became the backbone of Apple's entire AI infrastructure.",
+        "5. Check your phone tonight\n\nOpen Settings > General > About and look for 'Neural Engine'. Does that feature exist without a failed car?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple killed its self-driving car after ten years.",
+        "It never drove a single mile autonomously on roads.",
+        "But that failure birthed chips for AI servers.",
+        "Those chips now power your next iPhone's neural engine.",
+        "So a dead car gave birth to your phone's brain."
+      ]
+    },
+    "instagram": {
+      "caption": "The Neural Engine in your next iPhone exists because Apple spent $10 billion on a self-driving car that never drove itself.\n\nApple killed the car project after a decade. 🚗💥 Engineers salvaged the work by repurposing the silicon into server chips for AI. Those chips became the blueprint for the processor in your future phone. 📱\n\nIf you create content using iPhone's AI features (photo editing, live text, writing tools), you are using tech born from a dead car.\n\nOpen your Settings > General > About right now. Does your phone show 'Neural Engine'? 🧠"
+    }
+  },
+  "instagram_caption": "The Neural Engine in your next iPhone exists because Apple spent $10 billion on a self-driving car that never drove itself.\n\nApple killed the car project after a decade. 🚗💥 Engineers salvaged the work by repurposing the silicon into server chips for AI. Those chips became the blueprint for the processor in your future phone. 📱\n\nIf you create content using iPhone's AI features (photo editing, live text, writing tools), you are using tech born from a dead car.\n\nOpen your Settings > General > About right now. Does your phone show 'Neural Engine'? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Billions spent, zero miles driven.",
+      "description": "Apple spent ten years and billions on a self-driving car that never drove autonomously on a public road.",
+      "visual_hint": "Abandoned car project blueprint",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Apple headquarters aerial"
+    },
+    {
+      "hook": "From car failure to AI power.",
+      "description": "The car's failure pushed engineers to repurpose silicon into chips powering Apple's AI servers today.",
+      "visual_hint": "Server rack with glowing lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room equipment",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The chip that escaped the wreck.",
+      "description": "Those server chips are a direct ancestor of the neural engine in your next iPhone.",
+      "visual_hint": "Microchip on circuit board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silicon chip macro",
+      "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How a dead project resurrected AI.",
+      "description": "What was a total loss in one division became the backbone of Apple's entire AI infrastructure.",
+      "visual_hint": "Hand holding smartphone with AI icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your phone tonight — save this.",
+      "description": "Open Settings > General > About and look for 'Neural Engine'. That feature exists because of a failed car.",
+      "visual_hint": "iPhone Settings screen with Neural Engine",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+  "savedAt": "2026-07-12T16:48:54.621Z",
+  "sourceId": "8f4dc6d90b88af019bdf1e087046c9f1"
+}
