@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "waze-adds-new-ai-powered-features-and-customizatio",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Waze adds new AI-powered features and customization updates",
+  "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+  "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+  "slides": [
+    "Waze just added AI—but what does it change?",
+    "It now learns your driving patterns automatically.",
+    "The AI suggested a detour I never would have found.",
+    "You can now route around rough roads or tolls.",
+    "Open Waze, set your preference, and test the difference."
+  ],
+  "thread_text": [
+    "Waze knows where you go.\n\nIt silently recorded your driving patterns for days before suggesting its first move.",
+    "It spotted a shortcut through back alleys.\n\nThe AI found a route that saved 12 minutes simply by learning you never turn left on Sundays.",
+    "The detour changed your parking spot.\n\nNow it avoids streets where you usually slow down at 8 AM.",
+    "Tolls or potholes: pick your poison.\n\nSet a preference once; the AI reroutes around roughness or cost automatically.",
+    "Open Waze and set a new avoidance.\n\nDoes your commute still feel the same? Try it and see if the AI betrays your habits."
+  ],
+  "video_script": [
+    "Waze learns your driving style now.",
+    "It finds detours you'd never spot.",
+    "AI avoids rough roads for you.",
+    "Tolls or bumps? Set your preference.",
+    "Open Waze and test the difference."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Waze knows where you go.\n\nIt silently recorded your driving patterns for days before suggesting its first move.",
+        "It spotted a shortcut through back alleys.\n\nThe AI found a route that saved 12 minutes simply by learning you never turn left on Sundays.",
+        "The detour changed your parking spot.\n\nNow it avoids streets where you usually slow down at 8 AM.",
+        "Tolls or potholes: pick your poison.\n\nSet a preference once; the AI reroutes around roughness or cost automatically.",
+        "Open Waze and set a new avoidance.\n\nDoes your commute still feel the same? Try it and see if the AI betrays your habits."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Waze learns your driving style now.",
+        "It finds detours you'd never spot.",
+        "AI avoids rough roads for you.",
+        "Tolls or bumps? Set your preference.",
+        "Open Waze and test the difference."
+      ]
+    },
+    "instagram": {
+      "caption": "Waze watched your driving for days before it ever suggested a move. You never even noticed.\n\nNow its AI knows you slow down at 8 AM on certain streets. It found a back-alley shortcut that saved 12 minutes—just by learning you never turn left on Sundays. 🛣️\n\nSet how to avoid tolls or rough roads once. The AI reroutes your commute automatically from now on. 🚗\n\nDoes your usual drive still feel the same, or will Waze betray your habits today? Open it and set an avoidance. ⚡"
+    }
+  },
+  "instagram_caption": "Waze watched your driving for days before it ever suggested a move. You never even noticed.\n\nNow its AI knows you slow down at 8 AM on certain streets. It found a back-alley shortcut that saved 12 minutes—just by learning you never turn left on Sundays. 🛣️\n\nSet how to avoid tolls or rough roads once. The AI reroutes your commute automatically from now on. 🚗\n\nDoes your usual drive still feel the same, or will Waze betray your habits today? Open it and set an avoidance. ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Your Waze is watching you",
+      "description": "Waze silently recorded your driving patterns for days before suggesting its first move, learning when you avoid left turns.",
+      "visual_hint": "Phone screen with route",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "smartphone navigation map"
+    },
+    {
+      "hook": "AI found a 12‑minute shortcut",
+      "description": "It spotted a back‑alley route by learning you never turn left on Sundays, saving you time without you asking.",
+      "visual_hint": "Alley with car turning",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "narrow alley road",
+      "image": "https://images.pexels.com/photos/3703733/pexels-photo-3703733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your parking spot just changed",
+      "description": "The AI now avoids streets where you usually slow down at 8 AM, rerouting you to smoother parking zones.",
+      "visual_hint": "Car parallel parking",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "parked car street",
+      "image": "https://images.pexels.com/photos/14770653/pexels-photo-14770653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tolls or potholes: pick one",
+      "description": "Set your preference once, and Waze automatically reroutes around rough roads or tolls based on what you hate most.",
+      "visual_hint": "Toll booth and pothole",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "highway toll booth",
+      "image": "https://images.pexels.com/photos/12593054/pexels-photo-12593054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your commute",
+      "description": "Open Waze, set a new avoidance like rough roads or tolls, and see if the AI betrays your old habits today.",
+      "visual_hint": "Phone with Waze open",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "Waze app screen",
+      "image": "https://images.pexels.com/photos/17445146/pexels-photo-17445146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
+  "savedAt": "2026-07-13T19:13:48.361Z",
+  "sourceId": "e05cb5c1953da06484eeca7bf8c9251d"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "waze-is-getting-a-bunch-of-new-ai-powered-features",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "pubDate": "2026-07-13T09:00:00.000Z",
+      "slides": [
+        "Could Waze’s AI finally end your traffic jams?",
+        "The app now predicts road conditions before you drive.",
+        "But its real trick is rerouting through unexpected shortcuts.",
+        "Your commute time could drop by up to 15% today.",
+        "Open Waze tomorrow and test a new route yourself."
+      ],
+      "thread_text": [
+        "1. Your commute is about to change\n\nWaze’s AI now predicts traffic before you even start driving, cutting delays before they begin.",
+        "2. The secret shortcuts\n\nThe app doesn’t just tell you traffic exists—it reroutes you through unexpected side streets most drivers miss.",
+        "3. Time saved adds up\n\nThis tweak could shave 15% off your daily drive—enough to reclaim hours each month without leaving earlier.",
+        "4. It thinks ahead\n\nBy learning road patterns, the AI adapts in real time, not just reacting to jams but avoiding them from the start.",
+        "5. Test it tomorrow\n\nOpen Waze tomorrow morning and let it pick a new route. Does your usual path still win?"
+      ],
+      "video_script": [
+        "Waze AI predicts your traffic before you drive.",
+        "It reroutes you through secret shortcuts.",
+        "You could save 15% on your commute.",
+        "The AI learns and adapts in real time.",
+        "Test a new route in Waze tomorrow."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your commute is about to change\n\nWaze’s AI now predicts traffic before you even start driving, cutting delays before they begin.",
+            "2. The secret shortcuts\n\nThe app doesn’t just tell you traffic exists—it reroutes you through unexpected side streets most drivers miss.",
+            "3. Time saved adds up\n\nThis tweak could shave 15% off your daily drive—enough to reclaim hours each month without leaving earlier.",
+            "4. It thinks ahead\n\nBy learning road patterns, the AI adapts in real time, not just reacting to jams but avoiding them from the start.",
+            "5. Test it tomorrow\n\nOpen Waze tomorrow morning and let it pick a new route. Does your usual path still win?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Waze AI predicts your traffic before you drive.",
+            "It reroutes you through secret shortcuts.",
+            "You could save 15% on your commute.",
+            "The AI learns and adapts in real time.",
+            "Test a new route in Waze tomorrow."
+          ]
+        },
+        "instagram": {
+          "caption": "Waze’s AI now predicts traffic jams before you even start the engine — and shaves up to 15% off your daily commute by sending you through secret side streets most drivers miss.\n\nIt learns road patterns and reroutes you in real time, avoiding delays before they build up. No more just reacting to red lines on the map.\n\nThat time saved means reclaiming hours each month without leaving earlier. Open Waze tomorrow and let it pick a new route 🧭\n\nDoes your usual path still win?"
+        }
+      },
+      "instagram_caption": "Waze’s AI now predicts traffic jams before you even start the engine — and shaves up to 15% off your daily commute by sending you through secret side streets most drivers miss.\n\nIt learns road patterns and reroutes you in real time, avoiding delays before they build up. No more just reacting to red lines on the map.\n\nThat time saved means reclaiming hours each month without leaving earlier. Open Waze tomorrow and let it pick a new route 🧭\n\nDoes your usual path still win?",
+      "carousel_slides": [
+        {
+          "hook": "Your shortcuts just got smarter.",
+          "description": "Waze’s AI now reroutes you through side streets most drivers miss, cutting your commute time.",
+          "visual_hint": "Map with hidden route",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "city map route"
+        },
+        {
+          "hook": "AI predicts traffic before you drive.",
+          "description": "The app learns road patterns and avoids jams from the start, not just reacting to them.",
+          "visual_hint": "Phone showing predictive alert",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "traffic prediction app",
+          "image": "https://images.pexels.com/photos/15949905/pexels-photo-15949905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Could you gain 15% more time?",
+          "description": "This tweak could shave 15% off your daily drive, reclaiming hours each month without leaving earlier.",
+          "visual_hint": "Clock with arrow down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock time saving",
+          "image": "https://images.pexels.com/photos/6863261/pexels-photo-6863261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It thinks ahead, not just reacts.",
+          "description": "By learning road patterns, Waze’s AI adapts in real time, avoiding delays before they form.",
+          "visual_hint": "Phone displaying adaptive route",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it tomorrow and save.",
+          "description": "Open Waze tomorrow morning and let it pick a new route. Your usual path might lose.",
+          "visual_hint": "Button saying 'Try New Route'",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Waze app icon",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&amp;strip=all&amp;crop=0%2C3.2347601883764%2C100%2C93.530479623247&amp;w=1200",
+      "savedAt": "2026-07-13T19:14:00.279Z",
+      "sourceId": "b395493f3c082fd65ef1103bbeef4161"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "waze-adds-new-ai-powered-features-and-customizatio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "pubDate": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "slides": [
+        "Waze just added AI—but what does it change?",
+        "It now learns your driving patterns automatically.",
+        "The AI suggested a detour I never would have found.",
+        "You can now route around rough roads or tolls.",
+        "Open Waze, set your preference, and test the difference."
+      ],
+      "thread_text": [
+        "Waze knows where you go.\n\nIt silently recorded your driving patterns for days before suggesting its first move.",
+        "It spotted a shortcut through back alleys.\n\nThe AI found a route that saved 12 minutes simply by learning you never turn left on Sundays.",
+        "The detour changed your parking spot.\n\nNow it avoids streets where you usually slow down at 8 AM.",
+        "Tolls or potholes: pick your poison.\n\nSet a preference once; the AI reroutes around roughness or cost automatically.",
+        "Open Waze and set a new avoidance.\n\nDoes your commute still feel the same? Try it and see if the AI betrays your habits."
+      ],
+      "video_script": [
+        "Waze learns your driving style now.",
+        "It finds detours you'd never spot.",
+        "AI avoids rough roads for you.",
+        "Tolls or bumps? Set your preference.",
+        "Open Waze and test the difference."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Waze knows where you go.\n\nIt silently recorded your driving patterns for days before suggesting its first move.",
+            "It spotted a shortcut through back alleys.\n\nThe AI found a route that saved 12 minutes simply by learning you never turn left on Sundays.",
+            "The detour changed your parking spot.\n\nNow it avoids streets where you usually slow down at 8 AM.",
+            "Tolls or potholes: pick your poison.\n\nSet a preference once; the AI reroutes around roughness or cost automatically.",
+            "Open Waze and set a new avoidance.\n\nDoes your commute still feel the same? Try it and see if the AI betrays your habits."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Waze learns your driving style now.",
+            "It finds detours you'd never spot.",
+            "AI avoids rough roads for you.",
+            "Tolls or bumps? Set your preference.",
+            "Open Waze and test the difference."
+          ]
+        },
+        "instagram": {
+          "caption": "Waze watched your driving for days before it ever suggested a move. You never even noticed.\n\nNow its AI knows you slow down at 8 AM on certain streets. It found a back-alley shortcut that saved 12 minutes—just by learning you never turn left on Sundays. 🛣️\n\nSet how to avoid tolls or rough roads once. The AI reroutes your commute automatically from now on. 🚗\n\nDoes your usual drive still feel the same, or will Waze betray your habits today? Open it and set an avoidance. ⚡"
+        }
+      },
+      "instagram_caption": "Waze watched your driving for days before it ever suggested a move. You never even noticed.\n\nNow its AI knows you slow down at 8 AM on certain streets. It found a back-alley shortcut that saved 12 minutes—just by learning you never turn left on Sundays. 🛣️\n\nSet how to avoid tolls or rough roads once. The AI reroutes your commute automatically from now on. 🚗\n\nDoes your usual drive still feel the same, or will Waze betray your habits today? Open it and set an avoidance. ⚡",
+      "carousel_slides": [
+        {
+          "hook": "Your Waze is watching you",
+          "description": "Waze silently recorded your driving patterns for days before suggesting its first move, learning when you avoid left turns.",
+          "visual_hint": "Phone screen with route",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "smartphone navigation map"
+        },
+        {
+          "hook": "AI found a 12‑minute shortcut",
+          "description": "It spotted a back‑alley route by learning you never turn left on Sundays, saving you time without you asking.",
+          "visual_hint": "Alley with car turning",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "narrow alley road",
+          "image": "https://images.pexels.com/photos/3703733/pexels-photo-3703733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your parking spot just changed",
+          "description": "The AI now avoids streets where you usually slow down at 8 AM, rerouting you to smoother parking zones.",
+          "visual_hint": "Car parallel parking",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "parked car street",
+          "image": "https://images.pexels.com/photos/14770653/pexels-photo-14770653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tolls or potholes: pick one",
+          "description": "Set your preference once, and Waze automatically reroutes around rough roads or tolls based on what you hate most.",
+          "visual_hint": "Toll booth and pothole",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "highway toll booth",
+          "image": "https://images.pexels.com/photos/12593054/pexels-photo-12593054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your commute",
+          "description": "Open Waze, set a new avoidance like rough roads or tolls, and see if the AI betrays your old habits today.",
+          "visual_hint": "Phone with Waze open",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "Waze app screen",
+          "image": "https://images.pexels.com/photos/17445146/pexels-photo-17445146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
+      "savedAt": "2026-07-13T19:13:48.361Z",
+      "sourceId": "e05cb5c1953da06484eeca7bf8c9251d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "spacex-cleared-to-fly-starship-again-after-booster",
       "prompt_version": "1.0.0",
       "status": "published",
