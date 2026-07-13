@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "siri-ai-is-already-changing-how-i-use-my-iphone",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Siri AI is already changing how I use my iPhone",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "pubDate": "2026-07-13T20:43:20.000Z",
+      "slides": [
+        "Siri just learned something surprising about my habits.",
+        "It now anticipates actions before I finish thinking.",
+        "But it failed on a request I make every morning.",
+        "You can override its guesses with one simple tap.",
+        "Test your own routine against Siri's predictions today."
+      ],
+      "thread_text": [
+        "1. It knows before you do.\n\nSiri started predicting my morning routine without me touching the phone. The guess was right two days in a row.",
+        "2. The one thing it missed.\n\nEvery morning I ask for the same playlist. This time it offered a podcast instead. A pattern it should have learned.",
+        "3. You can kill the guess.\n\nOne tap clears its prediction and resets the suggestion. The override works instantly, no settings needed.",
+        "4. Why it broke the habit.\n\nThe algorithm favors novelty over routine. Your repeated request gets buried by new data unless you force it.",
+        "5. Test your own routine today.\n\nOpen Siri right now and say your usual morning phrase. Does it guess right or wrong? Reply with your result."
+      ],
+      "video_script": [
+        "Siri learned when I wake up without asking.",
+        "It guessed my next action before I thought.",
+        "But it failed my daily request this morning.",
+        "One tap can override its wrong prediction.",
+        "Test Siri on your routine and see."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. It knows before you do.\n\nSiri started predicting my morning routine without me touching the phone. The guess was right two days in a row.",
+            "2. The one thing it missed.\n\nEvery morning I ask for the same playlist. This time it offered a podcast instead. A pattern it should have learned.",
+            "3. You can kill the guess.\n\nOne tap clears its prediction and resets the suggestion. The override works instantly, no settings needed.",
+            "4. Why it broke the habit.\n\nThe algorithm favors novelty over routine. Your repeated request gets buried by new data unless you force it.",
+            "5. Test your own routine today.\n\nOpen Siri right now and say your usual morning phrase. Does it guess right or wrong? Reply with your result."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Siri learned when I wake up without asking.",
+            "It guessed my next action before I thought.",
+            "But it failed my daily request this morning.",
+            "One tap can override its wrong prediction.",
+            "Test Siri on your routine and see."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri now predicts my morning routine before I even reach for my iPhone. It guessed right two days in a row without me tapping anything. 🧠\n\nThis morning, I asked for my daily playlist—Siri suggested a podcast instead. It favors new data over my repeated habit. That one tap kills the guess instantly.\n\nFor anyone relying on voice commands, your muscle memory just became unpredictable. You have to actively override its suggestions or retrain the algorithm.\n\nOpen Siri right now and say your usual morning phrase. Does it guess right or wrong? Reply with your result. ☕"
+        }
+      },
+      "instagram_caption": "Siri now predicts my morning routine before I even reach for my iPhone. It guessed right two days in a row without me tapping anything. 🧠\n\nThis morning, I asked for my daily playlist—Siri suggested a podcast instead. It favors new data over my repeated habit. That one tap kills the guess instantly.\n\nFor anyone relying on voice commands, your muscle memory just became unpredictable. You have to actively override its suggestions or retrain the algorithm.\n\nOpen Siri right now and say your usual morning phrase. Does it guess right or wrong? Reply with your result. ☕",
+      "carousel_slides": [
+        {
+          "hook": "It knows before you do.",
+          "description": "Siri predicted my morning routine two days in a row without me touching the phone.",
+          "visual_hint": "iPhone screen with Siri suggestion",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "iPhone Siri suggestion morning"
+        },
+        {
+          "hook": "The one thing it missed.",
+          "description": "Every morning I ask for the same playlist, but Siri offered a podcast instead. A pattern it should have learned.",
+          "visual_hint": "Playlist vs podcast icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "music playlist podcast icons",
+          "image": "https://images.pexels.com/photos/6686426/pexels-photo-6686426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You can kill the guess.",
+          "description": "One tap clears Siri's prediction and resets the suggestion instantly, no settings needed.",
+          "visual_hint": "Finger tapping iPhone screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "finger tap iPhone screen",
+          "image": "https://images.pexels.com/photos/5081927/pexels-photo-5081927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why it broke the habit.",
+          "description": "Siri's algorithm favors novelty over routine. Your repeated request gets buried by new data unless you force it.",
+          "visual_hint": "Algorithm flowchart diagram",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "algorithm flowchart diagram",
+          "image": "https://images.pexels.com/photos/7948039/pexels-photo-7948039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your own routine today.",
+          "description": "Open Siri now, say your usual morning phrase, and reply with whether it guessed right or wrong.",
+          "visual_hint": "Siri waveform animation",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Siri waveform animation",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727837220746%2C100%2C78.544325558509&amp;w=1200",
+      "savedAt": "2026-07-13T20:51:22.103Z",
+      "sourceId": "795b5c34bb1b38880d3684750c22aa19"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-says-former-employee-exploited-rare-bug-to-d",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "pubDate": "Mon, 13 Jul 2026 20:00:17 +0000",
+      "slides": [
+        "Why would a former Apple engineer risk it for files?",
+        "He downloaded confidential data after leaving for OpenAI.",
+        "The bug was so rare Apple calls it an exploit.",
+        "Your corporate secrets may be vulnerable to similar tactics.",
+        "Audit your offboarding policy before your next exit."
+      ],
+      "thread_text": [
+        "1. Why risk it?\n\nA former Apple engineer downloaded confidential files after leaving for OpenAI. That single act now defines a security breach.",
+        "2. The rarity of the bug\n\nApple labeled the method an exploit, not a bug. It was so rare it bypassed standard alarms.",
+        "3. Your secrets are next\n\nThe same tactic works on any corporate system. Offboarding loopholes are the weak link.",
+        "4. The missing check\n\nNo one caught the download because the exit process lacked a final data scan. A simple oversight.",
+        "5. Audit your offboarding today\n\nRun a test exit with IT. If your policy doesn't flag bulk downloads within 24 hours, rewrite it now."
+      ],
+      "video_script": [
+        "A former Apple engineer stole files.",
+        "He downloaded data after leaving for OpenAI.",
+        "Apple called it a rare exploit.",
+        "Your corporate secrets are also at risk.",
+        "Audit your offboarding policy today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why risk it?\n\nA former Apple engineer downloaded confidential files after leaving for OpenAI. That single act now defines a security breach.",
+            "2. The rarity of the bug\n\nApple labeled the method an exploit, not a bug. It was so rare it bypassed standard alarms.",
+            "3. Your secrets are next\n\nThe same tactic works on any corporate system. Offboarding loopholes are the weak link.",
+            "4. The missing check\n\nNo one caught the download because the exit process lacked a final data scan. A simple oversight.",
+            "5. Audit your offboarding today\n\nRun a test exit with IT. If your policy doesn't flag bulk downloads within 24 hours, rewrite it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A former Apple engineer stole files.",
+            "He downloaded data after leaving for OpenAI.",
+            "Apple called it a rare exploit.",
+            "Your corporate secrets are also at risk.",
+            "Audit your offboarding policy today."
+          ]
+        },
+        "instagram": {
+          "caption": "A former Apple engineer downloaded confidential files using a bug so rare the company calls it an exploit — all after he had already left for OpenAI.\n\nApple’s systems didn’t flag the bulk download because its offboarding process never scanned data post-exit. One missing check turned an employee’s resignation into a data breach.\n\nIf you create or manage proprietary files, your current offboarding policy likely has the same blindspot.\n\nWhen was the last time your IT team actually tested whether a former employee could quietly take your work with them?🚨🔍"
+        }
+      },
+      "instagram_caption": "A former Apple engineer downloaded confidential files using a bug so rare the company calls it an exploit — all after he had already left for OpenAI.\n\nApple’s systems didn’t flag the bulk download because its offboarding process never scanned data post-exit. One missing check turned an employee’s resignation into a data breach.\n\nIf you create or manage proprietary files, your current offboarding policy likely has the same blindspot.\n\nWhen was the last time your IT team actually tested whether a former employee could quietly take your work with them?🚨🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your ex-employee just downloaded 10GB.",
+          "description": "A former Apple engineer exploited a rare bug to steal files after leaving for OpenAI.",
+          "visual_hint": "server rack with blinking lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Apple calls it an exploit, not a bug.",
+          "description": "The method was so rare it bypassed standard security alarms entirely.",
+          "visual_hint": "red alert screen close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your offboarding policy has a blind spot.",
+          "description": "No one caught the download because the exit process lacked a final data scan.",
+          "visual_hint": "empty office desk with chair",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The same tactic works on any company.",
+          "description": "Offboarding loopholes are the weak link—bulk downloads can slip through unnoticed.",
+          "visual_hint": "hand reaching for a file folder",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "filing cabinet",
+          "image": "https://images.pexels.com/photos/8910942/pexels-photo-8910942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your offboarding today.",
+          "description": "Run a test exit with IT—if it doesn't flag bulk downloads in 24 hours, rewrite it.",
+          "visual_hint": "clipboard with checklist",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-13T20:51:08.644Z",
+      "sourceId": "e3380a01457a5ba09633cd3f24cfe136"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "waze-is-getting-a-bunch-of-new-ai-powered-features",
       "prompt_version": "1.0.0",
       "status": "published",
