@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-cleared-to-fly-starship-again-after-booster",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX cleared to fly Starship again after booster failure in May",
+  "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+  "pubDate": "Mon, 13 Jul 2026 14:19:44 +0000",
+  "slides": [
+    "SpaceX got FAA approval for Starship—but what changed?",
+    "The May failure destroyed the Super Heavy booster mid-flight.",
+    "The fix was simpler than anyone expected: a single fuel filter.",
+    "Your next launch might not need months of re-design anymore.",
+    "Rocket flaws can hide in parts you never think to check."
+  ],
+  "thread_text": [
+    "The Filter That Saved Starship\n\nSpaceX got FAA approval for the next Starship launch after fixing a single fuel filter.",
+    "A Booster Lost to Dust\n\nThe May failure destroyed the Super Heavy booster because a clogged filter starved the engine.",
+    "Months of Work, One Part\n\nEngineers found the culprit in a fuel line component nobody thought to inspect.",
+    "The Fix That Changes Launches\n\nYour next launch won't need months of re-design if you check the simplest parts first.",
+    "What Are You Not Checking?\n\nRocket flaws hide in parts you never think to inspect. How many are in your own code or pipeline?"
+  ],
+  "video_script": [
+    "SpaceX got FAA approval for Starship.",
+    "A single fuel filter caused the explosion.",
+    "The fix was simpler than expected.",
+    "Your next launch can skip redesign.",
+    "Check the parts you ignore."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "The Filter That Saved Starship\n\nSpaceX got FAA approval for the next Starship launch after fixing a single fuel filter.",
+        "A Booster Lost to Dust\n\nThe May failure destroyed the Super Heavy booster because a clogged filter starved the engine.",
+        "Months of Work, One Part\n\nEngineers found the culprit in a fuel line component nobody thought to inspect.",
+        "The Fix That Changes Launches\n\nYour next launch won't need months of re-design if you check the simplest parts first.",
+        "What Are You Not Checking?\n\nRocket flaws hide in parts you never think to inspect. How many are in your own code or pipeline?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX got FAA approval for Starship.",
+        "A single fuel filter caused the explosion.",
+        "The fix was simpler than expected.",
+        "Your next launch can skip redesign.",
+        "Check the parts you ignore."
+      ]
+    },
+    "instagram": {
+      "caption": "SpaceX traced a mid-flight booster explosion to one tiny fuel filter—and now the FAA has let them fly again. ⚙️\n\nA clogged filter starved the Super Heavy engines, costing months of work. Engineers found the culprit in a part nobody thought to inspect. 🚀\n\nIf you're shipping software or running pipelines, your biggest failure might be hiding in a component you've never audited. 🔍\n\nWhat cheap, overlooked dependency in your own stack could bring down your next launch?"
+    }
+  },
+  "instagram_caption": "SpaceX traced a mid-flight booster explosion to one tiny fuel filter—and now the FAA has let them fly again. ⚙️\n\nA clogged filter starved the Super Heavy engines, costing months of work. Engineers found the culprit in a part nobody thought to inspect. 🚀\n\nIf you're shipping software or running pipelines, your biggest failure might be hiding in a component you've never audited. 🔍\n\nWhat cheap, overlooked dependency in your own stack could bring down your next launch?",
+  "carousel_slides": [
+    {
+      "hook": "One filter stopped Starship?",
+      "description": "A single clogged fuel filter caused the Super Heavy booster to fail mid-flight in May.",
+      "visual_hint": "Clogged metal fuel filter",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fuel filter clogged"
+    },
+    {
+      "hook": "May launch destroyed the booster.",
+      "description": "The failure occurred because a blocked filter starved the engines, losing the Super Heavy booster.",
+      "visual_hint": "Exploding rocket in sky",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket explosion",
+      "image": "https://images.pexels.com/photos/32983410/pexels-photo-32983410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tiny part, huge fix.",
+      "description": "Engineers found the culprit in a fuel line component no one thought to inspect before.",
+      "visual_hint": "Magnifying glass over filter",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass fuel",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Months saved by one check.",
+      "description": "Your next launch won't need months of redesign if you verify the simplest parts first.",
+      "visual_hint": "Hand holding clean filter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding tool",
+      "image": "https://images.pexels.com/photos/6693767/pexels-photo-6693767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "SAVE this for your next launch.",
+      "description": "Check your own code or pipeline for hidden flaws in the most overlooked components.",
+      "visual_hint": "Checklist with filter icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+  "savedAt": "2026-07-13T16:22:36.773Z",
+  "sourceId": "0f79a12f68c674f96b1d86107413801d"
+}

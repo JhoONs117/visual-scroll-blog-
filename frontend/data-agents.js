@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "spacex-cleared-to-fly-starship-again-after-booster",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "pubDate": "Mon, 13 Jul 2026 14:19:44 +0000",
+      "slides": [
+        "SpaceX got FAA approval for Starship—but what changed?",
+        "The May failure destroyed the Super Heavy booster mid-flight.",
+        "The fix was simpler than anyone expected: a single fuel filter.",
+        "Your next launch might not need months of re-design anymore.",
+        "Rocket flaws can hide in parts you never think to check."
+      ],
+      "thread_text": [
+        "The Filter That Saved Starship\n\nSpaceX got FAA approval for the next Starship launch after fixing a single fuel filter.",
+        "A Booster Lost to Dust\n\nThe May failure destroyed the Super Heavy booster because a clogged filter starved the engine.",
+        "Months of Work, One Part\n\nEngineers found the culprit in a fuel line component nobody thought to inspect.",
+        "The Fix That Changes Launches\n\nYour next launch won't need months of re-design if you check the simplest parts first.",
+        "What Are You Not Checking?\n\nRocket flaws hide in parts you never think to inspect. How many are in your own code or pipeline?"
+      ],
+      "video_script": [
+        "SpaceX got FAA approval for Starship.",
+        "A single fuel filter caused the explosion.",
+        "The fix was simpler than expected.",
+        "Your next launch can skip redesign.",
+        "Check the parts you ignore."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "The Filter That Saved Starship\n\nSpaceX got FAA approval for the next Starship launch after fixing a single fuel filter.",
+            "A Booster Lost to Dust\n\nThe May failure destroyed the Super Heavy booster because a clogged filter starved the engine.",
+            "Months of Work, One Part\n\nEngineers found the culprit in a fuel line component nobody thought to inspect.",
+            "The Fix That Changes Launches\n\nYour next launch won't need months of re-design if you check the simplest parts first.",
+            "What Are You Not Checking?\n\nRocket flaws hide in parts you never think to inspect. How many are in your own code or pipeline?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX got FAA approval for Starship.",
+            "A single fuel filter caused the explosion.",
+            "The fix was simpler than expected.",
+            "Your next launch can skip redesign.",
+            "Check the parts you ignore."
+          ]
+        },
+        "instagram": {
+          "caption": "SpaceX traced a mid-flight booster explosion to one tiny fuel filter—and now the FAA has let them fly again. ⚙️\n\nA clogged filter starved the Super Heavy engines, costing months of work. Engineers found the culprit in a part nobody thought to inspect. 🚀\n\nIf you're shipping software or running pipelines, your biggest failure might be hiding in a component you've never audited. 🔍\n\nWhat cheap, overlooked dependency in your own stack could bring down your next launch?"
+        }
+      },
+      "instagram_caption": "SpaceX traced a mid-flight booster explosion to one tiny fuel filter—and now the FAA has let them fly again. ⚙️\n\nA clogged filter starved the Super Heavy engines, costing months of work. Engineers found the culprit in a part nobody thought to inspect. 🚀\n\nIf you're shipping software or running pipelines, your biggest failure might be hiding in a component you've never audited. 🔍\n\nWhat cheap, overlooked dependency in your own stack could bring down your next launch?",
+      "carousel_slides": [
+        {
+          "hook": "One filter stopped Starship?",
+          "description": "A single clogged fuel filter caused the Super Heavy booster to fail mid-flight in May.",
+          "visual_hint": "Clogged metal fuel filter",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fuel filter clogged"
+        },
+        {
+          "hook": "May launch destroyed the booster.",
+          "description": "The failure occurred because a blocked filter starved the engines, losing the Super Heavy booster.",
+          "visual_hint": "Exploding rocket in sky",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket explosion",
+          "image": "https://images.pexels.com/photos/32983410/pexels-photo-32983410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tiny part, huge fix.",
+          "description": "Engineers found the culprit in a fuel line component no one thought to inspect before.",
+          "visual_hint": "Magnifying glass over filter",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass fuel",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Months saved by one check.",
+          "description": "Your next launch won't need months of redesign if you verify the simplest parts first.",
+          "visual_hint": "Hand holding clean filter",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding tool",
+          "image": "https://images.pexels.com/photos/6693767/pexels-photo-6693767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "SAVE this for your next launch.",
+          "description": "Check your own code or pipeline for hidden flaws in the most overlooked components.",
+          "visual_hint": "Checklist with filter icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+      "savedAt": "2026-07-13T16:22:36.773Z",
+      "sourceId": "0f79a12f68c674f96b1d86107413801d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-agent-crawlers-now-need-permission-here-s-how-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI agent crawlers now need permission. Here’s how to get it",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "pubDate": "Mon, 13 Jul 2026 11:00:00 +0000",
+      "slides": [
+        "Who owns the data your AI agent scrapes?",
+        "A new ruling requires explicit permission for crawling.",
+        "Most companies are breaking the law without knowing it.",
+        "You must add a permission layer to your crawler now.",
+        "Check your bot's compliance before your next scrape."
+      ],
+      "thread_text": [
+        "1. Who owns your scraped data?\n\nA new ruling says you need explicit permission to crawl — most companies don’t have it.",
+        "2. Permission isn't optional anymore.\n\nIf your bot scrapes without consent, you’re breaking the law — even if you didn't know.",
+        "3. Most companies are already non-compliant.\n\nCrawlers run on default settings that ignore legal boundaries — yours probably does too.",
+        "4. Add a permission layer to your crawler.\n\nWithout it, every scrape is a liability — one audit away from legal trouble.",
+        "5. Audit your bot before your next scrape.\n\nHave you checked your crawler’s compliance this week? If not, stop and run a test now."
+      ],
+      "video_script": [
+        "New ruling: get permission before scraping.",
+        "Most crawlers are breaking the law.",
+        "You need explicit consent for data.",
+        "Add a permission layer to your bot.",
+        "Check compliance before your next scrape."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who owns your scraped data?\n\nA new ruling says you need explicit permission to crawl — most companies don’t have it.",
+            "2. Permission isn't optional anymore.\n\nIf your bot scrapes without consent, you’re breaking the law — even if you didn't know.",
+            "3. Most companies are already non-compliant.\n\nCrawlers run on default settings that ignore legal boundaries — yours probably does too.",
+            "4. Add a permission layer to your crawler.\n\nWithout it, every scrape is a liability — one audit away from legal trouble.",
+            "5. Audit your bot before your next scrape.\n\nHave you checked your crawler’s compliance this week? If not, stop and run a test now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "New ruling: get permission before scraping.",
+            "Most crawlers are breaking the law.",
+            "You need explicit consent for data.",
+            "Add a permission layer to your bot.",
+            "Check compliance before your next scrape."
+          ]
+        },
+        "instagram": {
+          "caption": "That new court ruling means every scrape your bot runs is now illegal without explicit permission. 🚫\n\nMost companies haven’t added a permission layer yet. Your default crawler settings likely ignore these new legal boundaries. ⚠️\n\nIf you publish content, every scrape of your site by an unpermitted bot is a direct violation. If you run a bot, you’re one audit away from liability.\n\nHave you checked your crawler’s compliance this week? 🔍"
+        }
+      },
+      "instagram_caption": "That new court ruling means every scrape your bot runs is now illegal without explicit permission. 🚫\n\nMost companies haven’t added a permission layer yet. Your default crawler settings likely ignore these new legal boundaries. ⚠️\n\nIf you publish content, every scrape of your site by an unpermitted bot is a direct violation. If you run a bot, you’re one audit away from liability.\n\nHave you checked your crawler’s compliance this week? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your AI agent is breaking the law.",
+          "description": "A new ruling requires explicit permission to crawl. Most companies unknowingly violate it right now.",
+          "visual_hint": "Robotic arm near documents",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot arm paperwork"
+        },
+        {
+          "hook": "Permission is now mandatory.",
+          "description": "Scraping without consent is illegal, even if you didn't know. Default crawler settings ignore this boundary.",
+          "visual_hint": "Lock on code screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "lock code screen",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most crawlers are non-compliant.",
+          "description": "Default settings ignore legal boundaries. Your crawler likely breaks the law without realizing it.",
+          "visual_hint": "Warning sign on server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server warning sign",
+          "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Add a permission layer now.",
+          "description": "Without it, every scrape is a liability. One audit away from legal trouble — act before it's too late.",
+          "visual_hint": "Hand holding permission slip",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding document",
+          "image": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your bot before your next scrape.",
+          "description": "Stop now and run a compliance test. Check your crawler's settings this week to avoid fines.",
+          "visual_hint": "Checkmark on bot icon",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "bot compliance checkmark",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36101262/pexels-photo-36101262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-13T16:22:24.438Z",
+      "sourceId": "b52f45f24505c15dda1cca3afd472740"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "lorde-says-ray-ban-meta-ai-glasses-are-not-sexy-",
       "prompt_version": "1.0.0",
       "status": "published",
