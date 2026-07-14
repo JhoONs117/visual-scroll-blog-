@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "satya-nadella-has-issued-a-shocking-warning-to-com",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Satya Nadella has issued a shocking warning to companies using AI",
+  "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+  "pubDate": "Mon, 13 Jul 2026 20:59:00 +0000",
+  "slides": [
+    "What did Nadella see that you haven't?",
+    "He warns AI will soon automate entire workflows.",
+    "But most firms still treat it as a toy.",
+    "Your current tools could become obsolete overnight.",
+    "Test your stack against his latest demo now."
+  ],
+  "thread_text": [
+    "1. Are you watching the right demo?\n\nSatya Nadella just showed a workflow that runs entirely without human clicks. Not a chatbot trick.",
+    "2. The toy phase is over.\n\nMost companies still use AI for drafts or summaries. That gap is already costing them.",
+    "3. Your stack has a shelf life.\n\nTools you bought last year can't chain agents. Nadella's demo skipped three vendors entirely.",
+    "4. Obsolete isn't tomorrow.\n\nFor one team it's already today. They replaced a five-step pipeline with a single prompt.",
+    "5. Test your own workflow tonight.\n\nCopy your most annoying recurring task. Ask the latest model to run it end-to-end. What breaks?"
+  ],
+  "video_script": [
+    "Nadella saw workflows without humans.",
+    "You treat AI as a sidekick.",
+    "His demo made your tools look old.",
+    "One team already replaced five steps.",
+    "Test your task end to end today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Are you watching the right demo?\n\nSatya Nadella just showed a workflow that runs entirely without human clicks. Not a chatbot trick.",
+        "2. The toy phase is over.\n\nMost companies still use AI for drafts or summaries. That gap is already costing them.",
+        "3. Your stack has a shelf life.\n\nTools you bought last year can't chain agents. Nadella's demo skipped three vendors entirely.",
+        "4. Obsolete isn't tomorrow.\n\nFor one team it's already today. They replaced a five-step pipeline with a single prompt.",
+        "5. Test your own workflow tonight.\n\nCopy your most annoying recurring task. Ask the latest model to run it end-to-end. What breaks?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nadella saw workflows without humans.",
+        "You treat AI as a sidekick.",
+        "His demo made your tools look old.",
+        "One team already replaced five steps.",
+        "Test your task end to end today."
+      ]
+    },
+    "instagram": {
+      "caption": "Satya Nadella just showed an AI workflow that runs entirely without a single human click — and warned that most companies are still treating this as a toy. ⚠️\n\nThe Microsoft CEO says AI will soon automate complete workflows, not just write drafts or summaries. Your current tools can’t chain agents together — and that gap is already costing you.\n\nHe demonstrated a pipeline that skipped three entire vendors. For one team, their five-step manual process is already replaced by a single prompt.\n\nWhat's the most annoying recurring task on your plate right now? Try to make the latest model run it end-to-end tonight — and watch where it breaks. 🧨"
+    }
+  },
+  "instagram_caption": "Satya Nadella just showed an AI workflow that runs entirely without a single human click — and warned that most companies are still treating this as a toy. ⚠️\n\nThe Microsoft CEO says AI will soon automate complete workflows, not just write drafts or summaries. Your current tools can’t chain agents together — and that gap is already costing you.\n\nHe demonstrated a pipeline that skipped three entire vendors. For one team, their five-step manual process is already replaced by a single prompt.\n\nWhat's the most annoying recurring task on your plate right now? Try to make the latest model run it end-to-end tonight — and watch where it breaks. 🧨",
+  "carousel_slides": [
+    {
+      "hook": "Your AI toy phase is over now.",
+      "description": "Nadella warns AI will soon automate entire workflows, yet most firms still treat it as a toy.",
+      "visual_hint": "Toy robot discarded in trash",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken robot toy"
+    },
+    {
+      "hook": "Did you see Nadella's demo?",
+      "description": "He showed a workflow that runs entirely without human clicks. Your current tools could become obsolete overnight.",
+      "visual_hint": "Workflow flowchart glowing screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room dashboard",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your stack has a shelf life.",
+      "description": "Tools bought last year can't chain agents. Nadella's demo skipped three vendors entirely.",
+      "visual_hint": "Calendar with fast-forward arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silicon chip closeup",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One team is already obsolete.",
+      "description": "They replaced a five-step pipeline with a single prompt. Test your stack against his latest demo now.",
+      "visual_hint": "Old pipeline replaced by single line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "human hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your own workflow tonight.",
+      "description": "Copy your most annoying recurring task. Ask the latest AI model to run it end-to-end.",
+      "visual_hint": "Checklist with single prompt line",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop on desk code",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+  "savedAt": "2026-07-14T04:43:16.769Z",
+  "sourceId": "3917d3b170f3e32332a29240354abb2e"
+}

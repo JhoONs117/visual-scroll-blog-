@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "video-generation-startup-pixverse-raises-439m-valu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+  "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+  "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+  "slides": [
+    "PixVerse just raised $439M—but what's their edge?",
+    "They generate realistic videos from text in seconds.",
+    "Most competitors still cannot match motion consistency.",
+    "You can now create product demos without filming.",
+    "Test their free tier today—before your competitors do."
+  ],
+  "thread_text": [
+    "1. $439M for what?\n\nPixVerse’s Series B values it more than most AI video startups combined.",
+    "2. They solve motion drift.\n\nCompetitors' videos warp objects between frames. PixVerse holds edges and textures steady across cuts.",
+    "3. No crew needed.\n\nA one-line prompt replaces a full production shoot. Product demos now run on text.",
+    "4. Time is the moat.\n\nWhile rivals refine labs, PixVerse ships to users. Speed becomes the defensible advantage.",
+    "5. Can you afford delay?\n\nVisit PixVerse today, feed it a product description, and watch a demo render. If it saves one shoot, test it this week."
+  ],
+  "video_script": [
+    "PixVerse just raised $439 million.",
+    "Their secret is motion consistency.",
+    "Other tools still warp and break.",
+    "Text creates product demos instantly.",
+    "Test their free tier today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $439M for what?\n\nPixVerse’s Series B values it more than most AI video startups combined.",
+        "2. They solve motion drift.\n\nCompetitors' videos warp objects between frames. PixVerse holds edges and textures steady across cuts.",
+        "3. No crew needed.\n\nA one-line prompt replaces a full production shoot. Product demos now run on text.",
+        "4. Time is the moat.\n\nWhile rivals refine labs, PixVerse ships to users. Speed becomes the defensible advantage.",
+        "5. Can you afford delay?\n\nVisit PixVerse today, feed it a product description, and watch a demo render. If it saves one shoot, test it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "PixVerse just raised $439 million.",
+        "Their secret is motion consistency.",
+        "Other tools still warp and break.",
+        "Text creates product demos instantly.",
+        "Test their free tier today."
+      ]
+    },
+    "instagram": {
+      "caption": "Now you can generate a product demo from just a sentence of text — and it won't warp or glitch between scenes. 🎥\n\nPixVerse just raised $439M because they solved motion drift, keeping objects steady across cuts. Competitors still can't match that.\n\nNo crew, no camera. A one-line prompt replaces an entire production shoot. ⏱️\n\nThis changes how you create content: product demos become instant text-to-video. No filming, no editing, no waiting.\n\nTest their free tier before your competitors do — can you afford to be slower this week? 🚀"
+    }
+  },
+  "instagram_caption": "Now you can generate a product demo from just a sentence of text — and it won't warp or glitch between scenes. 🎥\n\nPixVerse just raised $439M because they solved motion drift, keeping objects steady across cuts. Competitors still can't match that.\n\nNo crew, no camera. A one-line prompt replaces an entire production shoot. ⏱️\n\nThis changes how you create content: product demos become instant text-to-video. No filming, no editing, no waiting.\n\nTest their free tier before your competitors do — can you afford to be slower this week? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Your product demo ready in seconds?",
+      "description": "PixVerse raised $439M by solving motion drift — holding edges steady where competitors warp objects.",
+      "visual_hint": "Smooth video transition frames",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "video editing timeline"
+    },
+    {
+      "hook": "Text in, realistic video out.",
+      "description": "Generate realistic videos from plain text in seconds without a film crew or studio setup.",
+      "visual_hint": "Text transforming into video",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer monitor screen",
+      "image": "https://images.pexels.com/photos/17112932/pexels-photo-17112932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more motion warp glitches.",
+      "description": "Competitors lose object consistency across frames; PixVerse holds textures steady for smooth cuts.",
+      "visual_hint": "Stable object across video frames",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "video frame sequence",
+      "image": "https://images.pexels.com/photos/8089660/pexels-photo-8089660.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Replace your shoot with text.",
+      "description": "A single line of text replaces a full production shoot — product demos now created instantly.",
+      "visual_hint": "Hand typing a text prompt",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "typing on laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test PixVerse free today, not later.",
+      "description": "Visit PixVerse, type your product description, and watch a demo render this week.",
+      "visual_hint": "Visit link in bio button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "startup office desk",
+      "image": "https://images.pexels.com/photos/12903295/pexels-photo-12903295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
+  "savedAt": "2026-07-14T04:43:03.138Z",
+  "sourceId": "4bee902986585ed6f5704846326ecfbe"
+}
