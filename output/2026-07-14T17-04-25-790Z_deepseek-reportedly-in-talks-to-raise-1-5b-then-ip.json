@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deepseek-reportedly-in-talks-to-raise-1-5b-then-ip",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+  "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+  "pubDate": "Tue, 14 Jul 2026 16:45:23 +0000",
+  "slides": [
+    "DeepSeek wants $1.5B—but who is buying in?",
+    "It builds AI tools for enterprise search.",
+    "The twist: its revenue is still unproven.",
+    "If they IPO, early users could shape pricing.",
+    "Watch their funding round before it closes."
+  ],
+  "thread_text": [
+    "1. Who's funding DeepSeek?\n\nThe company wants $1.5B, but revenue is still unproven.",
+    "2. Building enterprise search\n\nTheir AI tools target business data, not consumers.",
+    "3. The unproven revenue risk\n\nNo confirmed sales yet—investors bet on potential.",
+    "4. IPO could shift pricing power\n\nIf they go public, early users might influence costs.",
+    "5. Watch this funding round now\n\nCheck their latest announcements before it closes today."
+  ],
+  "video_script": [
+    "DeepSeek seeks $1.5 billion.",
+    "Revenue is still unproven.",
+    "Enterprise search is their focus.",
+    "IPO might let users set pricing.",
+    "Watch the funding round close."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's funding DeepSeek?\n\nThe company wants $1.5B, but revenue is still unproven.",
+        "2. Building enterprise search\n\nTheir AI tools target business data, not consumers.",
+        "3. The unproven revenue risk\n\nNo confirmed sales yet—investors bet on potential.",
+        "4. IPO could shift pricing power\n\nIf they go public, early users might influence costs.",
+        "5. Watch this funding round now\n\nCheck their latest announcements before it closes today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DeepSeek seeks $1.5 billion.",
+        "Revenue is still unproven.",
+        "Enterprise search is their focus.",
+        "IPO might let users set pricing.",
+        "Watch the funding round close."
+      ]
+    },
+    "instagram": {
+      "caption": "Enterprise AI startup seeks $1.5 billion before going public, but its revenue is still unproven.\n\nInvestors are betting on potential—the company builds AI tools to search internal business data, not consumer apps. No confirmed sales yet. If they IPO, early users could help set pricing.\n\nFor anyone publishing content or running a business: future search pricing may hinge on who adopts these tools now.\n\nAre you watching their funding round, or will you wait until the cost is set for you? 🔍💰⚡"
+    }
+  },
+  "instagram_caption": "Enterprise AI startup seeks $1.5 billion before going public, but its revenue is still unproven.\n\nInvestors are betting on potential—the company builds AI tools to search internal business data, not consumer apps. No confirmed sales yet. If they IPO, early users could help set pricing.\n\nFor anyone publishing content or running a business: future search pricing may hinge on who adopts these tools now.\n\nAre you watching their funding round, or will you wait until the cost is set for you? 🔍💰⚡",
+  "carousel_slides": [
+    {
+      "hook": "Revenue unproven, yet $1.5B wanted.",
+      "description": "DeepSeek seeks $1.5B in funding with no confirmed sales yet, investors bet on potential.",
+      "visual_hint": "stack of money bags",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money bags stack"
+    },
+    {
+      "hook": "Building AI for enterprise search.",
+      "description": "Their AI tools target business data, not consumers, aiming to transform how companies find information.",
+      "visual_hint": "server rack with lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unproven revenue is the risk.",
+      "description": "No confirmed sales yet, so investors are betting on potential rather than proven earnings.",
+      "visual_hint": "question mark on graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market graph",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "IPO could shift pricing power.",
+      "description": "If they go public, early users might influence costs, giving them a say in future pricing.",
+      "visual_hint": "person pointing at screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person pointing",
+      "image": "https://images.pexels.com/photos/12306550/pexels-photo-12306550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before funding closes.",
+      "description": "Check their latest announcements now to watch the funding round before it closes today.",
+      "visual_hint": "clock with dollar sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clock dollar",
+      "image": "https://images.pexels.com/photos/4386175/pexels-photo-4386175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
+  "savedAt": "2026-07-14T17:04:38.465Z",
+  "sourceId": "c49253e9d59673e60a92a5704408af33"
+}

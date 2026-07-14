@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "superhuman-s-new-auto-draft-feature-almost-makes-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "pubDate": "Tue, 14 Jul 2026 14:00:00 +0000",
+      "slides": [
+        "Why does AI drafting still feel robotic to you?",
+        "Superhuman's new feature drafts replies in your voice.",
+        "It doesn't just rewrite—it uses your past emails as style guide.",
+        "You now skip the rewrite step and send instantly.",
+        "Test it on your next reply before judging."
+      ],
+      "thread_text": [
+        "1. Why your AI drafts fail\n\nMost AI tools guess your style. Superhuman's new feature reads your past emails first.",
+        "2. It learns from you\n\nThe feature scans your sent emails to build a custom style guide per user.",
+        "3. No more rewriting\n\nYour draft already matches your voice, so you can hit send without editing.",
+        "4. The hidden trigger\n\nEvery email you send trains the model. The more you write, the better it gets.",
+        "5. Test it on your next reply\n\nOpen your inbox, pick a message, and see if the draft feels like you. If not, what's missing?"
+      ],
+      "video_script": [
+        "Your AI drafts feel robotic because they don't know you.",
+        "Superhuman learns from your past emails.",
+        "It builds a style guide from your writing.",
+        "You skip editing and send instantly.",
+        "Try it on your next reply today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why your AI drafts fail\n\nMost AI tools guess your style. Superhuman's new feature reads your past emails first.",
+            "2. It learns from you\n\nThe feature scans your sent emails to build a custom style guide per user.",
+            "3. No more rewriting\n\nYour draft already matches your voice, so you can hit send without editing.",
+            "4. The hidden trigger\n\nEvery email you send trains the model. The more you write, the better it gets.",
+            "5. Test it on your next reply\n\nOpen your inbox, pick a message, and see if the draft feels like you. If not, what's missing?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI drafts feel robotic because they don't know you.",
+            "Superhuman learns from your past emails.",
+            "It builds a style guide from your writing.",
+            "You skip editing and send instantly.",
+            "Try it on your next reply today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI drafts still sound like a robot because they’ve never actually read your emails. 🔍\n\nSuperhuman’s new auto-draft scans your past sent messages to build a style guide based on your actual vocabulary, pacing, and quirks. 🖊️ It’s not guessing—it’s learning from you.\n\nThe result: a draft that matches your voice from the start. You skip the rewrite and hit send instantly. ⏩ Every reply you send trains the model further.\n\nTry it on your next email: open any thread, trigger the draft, and see if it truly sounds like you. What would need to change for you to trust it?"
+        }
+      },
+      "instagram_caption": "Your AI drafts still sound like a robot because they’ve never actually read your emails. 🔍\n\nSuperhuman’s new auto-draft scans your past sent messages to build a style guide based on your actual vocabulary, pacing, and quirks. 🖊️ It’s not guessing—it’s learning from you.\n\nThe result: a draft that matches your voice from the start. You skip the rewrite and hit send instantly. ⏩ Every reply you send trains the model further.\n\nTry it on your next email: open any thread, trigger the draft, and see if it truly sounds like you. What would need to change for you to trust it?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI drafts still feel robotic.",
+          "description": "Most AI tools guess your tone, leading to generic replies you rewrite anyway.",
+          "visual_hint": "Robot hand typing email",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot arm typing"
+        },
+        {
+          "hook": "Superhuman learns your voice.",
+          "description": "It scans your sent emails to build a custom style guide, so drafts match you.",
+          "visual_hint": "Email style guide scan",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen emails",
+          "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No more editing drafts.",
+          "description": "Drafts already match your voice, so you can hit send without rewriting.",
+          "visual_hint": "Finger hitting send button",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "send button keyboard",
+          "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every email trains the model.",
+          "description": "The more you write, the better it gets at capturing your unique style.",
+          "visual_hint": "Bar graph rising",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "bar chart growth",
+          "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your next reply.",
+          "description": "Open a message, try the draft, and see if it truly sounds like you.",
+          "visual_hint": "Phone showing email reply",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone email inbox",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Superhuman-Auto-Drafts-2.jpeg?resize=1200,900",
+      "savedAt": "2026-07-14T17:05:06.811Z",
+      "sourceId": "f05deb211b536ea480a655ea9e79775c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "deepseek-reportedly-in-talks-to-raise-1-5b-then-ip",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "pubDate": "Tue, 14 Jul 2026 16:45:23 +0000",
+      "slides": [
+        "DeepSeek wants $1.5B—but who is buying in?",
+        "It builds AI tools for enterprise search.",
+        "The twist: its revenue is still unproven.",
+        "If they IPO, early users could shape pricing.",
+        "Watch their funding round before it closes."
+      ],
+      "thread_text": [
+        "1. Who's funding DeepSeek?\n\nThe company wants $1.5B, but revenue is still unproven.",
+        "2. Building enterprise search\n\nTheir AI tools target business data, not consumers.",
+        "3. The unproven revenue risk\n\nNo confirmed sales yet—investors bet on potential.",
+        "4. IPO could shift pricing power\n\nIf they go public, early users might influence costs.",
+        "5. Watch this funding round now\n\nCheck their latest announcements before it closes today."
+      ],
+      "video_script": [
+        "DeepSeek seeks $1.5 billion.",
+        "Revenue is still unproven.",
+        "Enterprise search is their focus.",
+        "IPO might let users set pricing.",
+        "Watch the funding round close."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's funding DeepSeek?\n\nThe company wants $1.5B, but revenue is still unproven.",
+            "2. Building enterprise search\n\nTheir AI tools target business data, not consumers.",
+            "3. The unproven revenue risk\n\nNo confirmed sales yet—investors bet on potential.",
+            "4. IPO could shift pricing power\n\nIf they go public, early users might influence costs.",
+            "5. Watch this funding round now\n\nCheck their latest announcements before it closes today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "DeepSeek seeks $1.5 billion.",
+            "Revenue is still unproven.",
+            "Enterprise search is their focus.",
+            "IPO might let users set pricing.",
+            "Watch the funding round close."
+          ]
+        },
+        "instagram": {
+          "caption": "Enterprise AI startup seeks $1.5 billion before going public, but its revenue is still unproven.\n\nInvestors are betting on potential—the company builds AI tools to search internal business data, not consumer apps. No confirmed sales yet. If they IPO, early users could help set pricing.\n\nFor anyone publishing content or running a business: future search pricing may hinge on who adopts these tools now.\n\nAre you watching their funding round, or will you wait until the cost is set for you? 🔍💰⚡"
+        }
+      },
+      "instagram_caption": "Enterprise AI startup seeks $1.5 billion before going public, but its revenue is still unproven.\n\nInvestors are betting on potential—the company builds AI tools to search internal business data, not consumer apps. No confirmed sales yet. If they IPO, early users could help set pricing.\n\nFor anyone publishing content or running a business: future search pricing may hinge on who adopts these tools now.\n\nAre you watching their funding round, or will you wait until the cost is set for you? 🔍💰⚡",
+      "carousel_slides": [
+        {
+          "hook": "Revenue unproven, yet $1.5B wanted.",
+          "description": "DeepSeek seeks $1.5B in funding with no confirmed sales yet, investors bet on potential.",
+          "visual_hint": "stack of money bags",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money bags stack"
+        },
+        {
+          "hook": "Building AI for enterprise search.",
+          "description": "Their AI tools target business data, not consumers, aiming to transform how companies find information.",
+          "visual_hint": "server rack with lights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unproven revenue is the risk.",
+          "description": "No confirmed sales yet, so investors are betting on potential rather than proven earnings.",
+          "visual_hint": "question mark on graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market graph",
+          "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "IPO could shift pricing power.",
+          "description": "If they go public, early users might influence costs, giving them a say in future pricing.",
+          "visual_hint": "person pointing at screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person pointing",
+          "image": "https://images.pexels.com/photos/12306550/pexels-photo-12306550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before funding closes.",
+          "description": "Check their latest announcements now to watch the funding round before it closes today.",
+          "visual_hint": "clock with dollar sign",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clock dollar",
+          "image": "https://images.pexels.com/photos/4386175/pexels-photo-4386175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
+      "savedAt": "2026-07-14T17:04:38.465Z",
+      "sourceId": "c49253e9d59673e60a92a5704408af33"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "spotify-expands-its-ai-push-with-a-chatgpt-like-mu",
       "prompt_version": "1.0.0",
       "status": "published",
