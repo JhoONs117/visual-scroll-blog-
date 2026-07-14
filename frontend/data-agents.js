@@ -80433,6 +80433,117 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "food",
+      "slug": "risotto-al-pesto-con-gamberi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto al pesto con gamberi",
+      "link": "https://ricette.giallozafferano.it/Risotto-al-pesto-con-gamberi.html",
+      "pubDate": "Tue, 14 Jul 2026 11:19:00 +0200",
+      "content": "Risotto al pesto con gamberi rossi: la ricetta raffinata Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto al pesto con gamberi /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 47 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto al pesto con gamberi è l'idea perfetta se state cercando un primo piatto di pesce che sia al tempo stesso un risotto estivo facile da realizzare ma raffinato. Questa ricetta unisce l'aroma inconfondibile della tradizione italiana a un tocco gourmet contemporaneo, giocando su contrasti di consistenze. Il segreto del suo successo risiede nell'equilibrio degli ingredienti. Il gusto è incredibilmente fresco, grazie alla delicata marinatura al lime dei gamberi rossi, adagiati crudi sul riso caldissimo appena prima di andare in tavola. La straordinaria cremosità del risotto viene invece conferita da un pesto di basilico fatto in casa veloce e profumatissimo, inserito rigorosamente a fuoco spento per preservarne il colore verde brillante e tutte le note aromatiche. Preparare questo risotto cremoso ai gamberi richiede pochissimo sforzo ma garantisce una resa scenografica da vero ristorante. E' la scelta ideale da portare in tavola per una cena d'estate in compagnia o per un pranzo speciale sotto il portico. Scoprite qui altre varianti di questa ricetta: Risotto gamberi e zucchine Risotto con crema di zucchine e gamberi crudi Risotto gamberi e porri Risotto della Regina Risotto al pesto e patate INGREDIENTI Riso Carnaroli 320 g Vino bianco 70 g Sale fino q.b. Acqua 1 l Cipolle rosse 1 Carote 1 Sedano 1 costa Basilico q.b. per il pesto di basilico Basilico 80 g Pinoli 20 g Grana Padano DOP 60 g Olio extravergine d'oliva 180 g Sale fino q.b. per i gamberi marinati Gamberi rossi abbattuti 200 g Scorza di lime q.b. Olio extravergine d'oliva 15 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto al pesto con gamberi Per preparare il risotto al pesto con gamberi iniziate dalla pulizia dei crostacei. Staccate la testa e il carapace, poi eliminate l'intestino sul dorso 1 . Tenete da parte gli scarti. Tagliate a pezzi grossolani la carota 2 e la costa di sedano 3 . Mondate e tagliate a pezzettoni anche la cipolla 4 . In una pentola ponete gli scarti della pulizia dei gamberi 5 e le verdure 6 . Versate l’acqua 7 , portate il tutto a ebollizione, dopodiché abbassate la fiamma e lasciate sobbollire per circa 30 minuti 8 . Nel frattempo condite i gamberi con sale e pepe 9 . Un filo d'olio 10 e la scorza di lime 11 , mescolate delicatamente 12 e tenete da parte in frigorifero. Ora preparate il pesto: in una brocca ponete le foglie del basilico 13 , i pinoli 14 e il formaggio grattugiato 15 . Versate l'olio 16 e salate. Frullate con il mixer a immersione 17 fino a ottenere una salsa cremosa 18 . Nel frattempo il fumetto sarà pronto, filtratelo attraverso un colino 19 e tenetelo in caldo. In una casseruola tostate il riso a secco per un paio di minuti 20 , poi sfumate con il vino bianco 21 e lasciate evaporare. Aggiungete il fumetto di gamberi caldo, un mestolo alla volta 22 , mescolando spesso e cuocete per circa 15-18 minuti, fino a quando il riso sarà al dente. Spegnete il fuoco, unite il pesto di basilico 23 e mantecate delicatamente, poi lasciate riposare il risotto per un paio di minuti 24 . Per concludere, distribuite il riso nei piatti 25 e completate con i gamberi rossi marinati 26 e qualche foglia di basilico fresco. Il risotto al pesto con gamberi è pronto da gustare 27 . Conservazione Consigliamo di consumare subito il risotto al pesto con gamberi. Potete conservare il risotto senza gamberi per un giorno in frigorifero. Consiglio Potete sostituire i pinoli con le mandorle pelate o con i pistacchi non salati, che si sposano benissimo con il gusto dolce dei gamberi rossi marinati e donano al pesto una consistenza altrettanto cremosa e un sapore delicato. Per un consumo sicuro del pesce crudo, marinato o semicotto Prima di consumare il pesce crudo, marinato o non perfettamente cotto, si raccomanda di congelare per almeno 96 ore a -18 gradi in congelatore domestico contrassegnato da 3 o più stelle, come da linee guida del Ministero della salute . Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Sedano Olio di oliva Crostacei Cipolla Gamberi Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto al pesto con gamberi Tabbouleh con anacardi 5.0 Cous cous estivo 5.0 SCOPRI Risotto gamberi e zucchine Risotto al pesto Risotto con i gamberi Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Risotto cremoso al pesto con gamberi marinati",
+        "Riso Carnaroli, gamberi rossi, basilico, pinoli, lime",
+        "Marinate i gamberi con lime e olio",
+        "Mantecate il risotto col pesto a fuoco spento",
+        "Gamberi crudi marinati sul risotto caldo"
+      ],
+      "instagram_caption": "C’è qualcosa di magico nell’incontro tra il mare e l’orto. Questo risotto cremoso al pesto con gamberi crudi marinati al lime è un’esplosione di freschezza: il Carnaroli mantecato a regola d’arte si sposa con il basilico fragrantissimo, mentre i gamberi rossi, appena bagnati di lime e olio, scaldano il piatto con la loro dolcezza. Il segreto? Aggiungere il pesto a fuoco spento per non perdere l’aroma, e adagiare i gamberi crudi sul risotto ancora caldo, così si “cuociono” leggermente al vapore. Da leccarsi i baffi, promesso 🦐🌿 Vuoi stupire al prossimo pranzo di famiglia? Provala questo weekend 💚",
+      "formats": {
+        "instagram": {
+          "caption": "C’è qualcosa di magico nell’incontro tra il mare e l’orto. Questo risotto cremoso al pesto con gamberi crudi marinati al lime è un’esplosione di freschezza: il Carnaroli mantecato a regola d’arte si sposa con il basilico fragrantissimo, mentre i gamberi rossi, appena bagnati di lime e olio, scaldano il piatto con la loro dolcezza. Il segreto? Aggiungere il pesto a fuoco spento per non perdere l’aroma, e adagiare i gamberi crudi sul risotto ancora caldo, così si “cuociono” leggermente al vapore. Da leccarsi i baffi, promesso 🦐🌿 Vuoi stupire al prossimo pranzo di famiglia? Provala questo weekend 💚"
+        },
+        "tiktok": {
+          "script": [
+            "Riso Carnaroli, gamberi rossi, basilico, pinoli e lime.",
+            "Marinate i gamberi rossi con lime e olio.",
+            "Tosto il riso, poi lo sfumo e lo cuocio.",
+            "Spengo, manteco col pesto e mescolo.",
+            "Gamberi crudi marinati sul riso caldo."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Un risotto che fa dimenticare la pasta: cremoso al pesto con gamberi marinati al lime. Fresco, intenso, da leccare il piatto.",
+            "Carnaroli, gamberi rossi, basilico, pinoli, lime. Cinque ingredienti, un solo obiettivo: esplodere in bocca.",
+            "Marina i gamberi crudi con lime e olio: li lascia vivi, li accende. Il risotto intanto va avanti, liscio e concentrato.",
+            "A fuoco spento mantecate col pesto: la magia. Poi via: gamberi marinati sul risotto caldo, crudi per contrasto.",
+            "Il segreto? Non cuocere i gamberi. Il calore del risotto li scalda appena, mantengono la mordenza. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Riso Carnaroli, gamberi rossi, basilico, pinoli e lime.",
+        "Marinate i gamberi rossi con lime e olio.",
+        "Tosto il riso, poi lo sfumo e lo cuocio.",
+        "Spengo, manteco col pesto e mescolo.",
+        "Gamberi crudi marinati sul riso caldo."
+      ],
+      "thread_text": [
+        "Un risotto che fa dimenticare la pasta: cremoso al pesto con gamberi marinati al lime. Fresco, intenso, da leccare il piatto.",
+        "Carnaroli, gamberi rossi, basilico, pinoli, lime. Cinque ingredienti, un solo obiettivo: esplodere in bocca.",
+        "Marina i gamberi crudi con lime e olio: li lascia vivi, li accende. Il risotto intanto va avanti, liscio e concentrato.",
+        "A fuoco spento mantecate col pesto: la magia. Poi via: gamberi marinati sul risotto caldo, crudi per contrasto.",
+        "Il segreto? Non cuocere i gamberi. Il calore del risotto li scalda appena, mantengono la mordenza. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto cremoso al pesto con gamberi marinati",
+          "description": "Un primo elegante e fresco: risotto mantecato al pesto, completato con gamberi crudi marinati al lime.",
+          "visual_hint": "Risotto fumante con gamberi sopra",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory shrimp pesto risotto"
+        },
+        {
+          "hook": "Gli ingredienti che fanno la differenza",
+          "description": "Riso Carnaroli, gamberi rossi freschi, basilico genovese, pinoli e lime per una marinatura agrumata.",
+          "visual_hint": "Ingredienti disposti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory risotto ingredients",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Marinate i gamberi con lime e olio",
+          "description": "Taglia i gamberi a crudo, condiscili con succo di lime fresco e un filo d'olio. Lascia riposare 10 minuti.",
+          "visual_hint": "Mano che versa lime sui gamberi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "shrimp lime marinade",
+          "image": "https://images.pexels.com/photos/8522763/pexels-photo-8522763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mantecatura: il segreto della cremosità",
+          "description": "A fuoco spento, manteca il risotto con pesto fresco e un mestolo di brodo. Mescola con energia per ottenere la giusta consistenza.",
+          "visual_hint": "Mantecatura con cucchiaio di legno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory risotto mantecatura",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Gamberi crudi marinati sul risotto caldo",
+          "description": "Impiatta il risotto cremoso, adagia sopra i gamberi marinati e servi subito. Il contrasto caldo/freddo conquista.",
+          "visual_hint": "Piatto finito con gamberi in primo piano",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pesto risotto shrimp plating",
+          "image": "https://images.pexels.com/photos/18078968/pexels-photo-18078968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "fish",
+      "signature_ingredients": [
+        "gamberi rossi",
+        "basilico",
+        "pinoli"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36446/Risotto-al-pesto-con-gamberi_650x433_wm.jpg",
+      "savedAt": "2026-07-14T09:57:05.120Z",
+      "sourceId": "093cbd70f5b23029ba1438268c6b5c19"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
       "slug": "insalata-di-riso-alla-messicana",
       "prompt_version": "1.0.0",
       "status": "published",
