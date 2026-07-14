@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-accused-of-using-biased-ai-targeting-for-mass",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta accused of using biased AI targeting for mass layoffs",
+  "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+  "pubDate": "2026-07-14T17:18:11.000Z",
+  "slides": [
+    "Did Meta’s AI target older workers unfairly?",
+    "The algorithm flagged 20% more senior staff for layoffs.",
+    "Women in tech leadership were hit twice as hard.",
+    "AI reviews now demand demographic parity checks.",
+    "Run your redundancy plan through an independent bias audit."
+  ],
+  "thread_text": [
+    "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+    "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+    "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+    "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+    "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+  ],
+  "video_script": [
+    "Meta’s AI cut 20 percent more seniors.",
+    "Women leaders got flagged twice as often.",
+    "Skill was ignored in the algorithm.",
+    "New rules force demographic parity checks.",
+    "Audit your plan before you fire anyone."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+        "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+        "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+        "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+        "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta’s AI cut 20 percent more seniors.",
+        "Women leaders got flagged twice as often.",
+        "Skill was ignored in the algorithm.",
+        "New rules force demographic parity checks.",
+        "Audit your plan before you fire anyone."
+      ]
+    },
+    "instagram": {
+      "caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️"
+    }
+  },
+  "instagram_caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "Women hit twice as hard.",
+      "description": "Female tech managers were flagged at double the rate of men for the same performance.",
+      "visual_hint": "Women silhouettes divided",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "office corridor people"
+    },
+    {
+      "hook": "Did AI target older workers?",
+      "description": "The algorithm cut 23% more senior staff without ever considering their skills.",
+      "visual_hint": "Age graph declining",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "line chart down",
+      "image": "https://images.pexels.com/photos/6120204/pexels-photo-6120204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden bias in the model.",
+      "description": "No human checked tenure vs. productivity weighting before the layoffs were run.",
+      "visual_hint": "Black box algorithm",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parity audits now required.",
+      "description": "New laws force companies to prove redundancy outcomes match workforce demographics.",
+      "visual_hint": "Legal documents stamped",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "document with stamp",
+      "image": "https://images.pexels.com/photos/6863508/pexels-photo-6863508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your plan.",
+      "description": "Run your layoff criteria through an independent bias test before you announce cuts.",
+      "visual_hint": "Checklists and graphs",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-14T19:05:06.719Z",
+  "sourceId": "729bc486f471c3a11d9986fa4bd34b06"
+}

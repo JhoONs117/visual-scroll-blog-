@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-accused-of-using-biased-ai-targeting-for-mass",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "pubDate": "2026-07-14T17:18:11.000Z",
+      "slides": [
+        "Did Meta’s AI target older workers unfairly?",
+        "The algorithm flagged 20% more senior staff for layoffs.",
+        "Women in tech leadership were hit twice as hard.",
+        "AI reviews now demand demographic parity checks.",
+        "Run your redundancy plan through an independent bias audit."
+      ],
+      "thread_text": [
+        "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+        "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+        "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+        "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+        "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+      ],
+      "video_script": [
+        "Meta’s AI cut 20 percent more seniors.",
+        "Women leaders got flagged twice as often.",
+        "Skill was ignored in the algorithm.",
+        "New rules force demographic parity checks.",
+        "Audit your plan before you fire anyone."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+            "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+            "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+            "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+            "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta’s AI cut 20 percent more seniors.",
+            "Women leaders got flagged twice as often.",
+            "Skill was ignored in the algorithm.",
+            "New rules force demographic parity checks.",
+            "Audit your plan before you fire anyone."
+          ]
+        },
+        "instagram": {
+          "caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️"
+        }
+      },
+      "instagram_caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Women hit twice as hard.",
+          "description": "Female tech managers were flagged at double the rate of men for the same performance.",
+          "visual_hint": "Women silhouettes divided",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "office corridor people"
+        },
+        {
+          "hook": "Did AI target older workers?",
+          "description": "The algorithm cut 23% more senior staff without ever considering their skills.",
+          "visual_hint": "Age graph declining",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "line chart down",
+          "image": "https://images.pexels.com/photos/6120204/pexels-photo-6120204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden bias in the model.",
+          "description": "No human checked tenure vs. productivity weighting before the layoffs were run.",
+          "visual_hint": "Black box algorithm",
+          "layout_type": "sensor-zoom",
+          "icon": "tag",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parity audits now required.",
+          "description": "New laws force companies to prove redundancy outcomes match workforce demographics.",
+          "visual_hint": "Legal documents stamped",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "document with stamp",
+          "image": "https://images.pexels.com/photos/6863508/pexels-photo-6863508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your plan.",
+          "description": "Run your layoff criteria through an independent bias test before you announce cuts.",
+          "visual_hint": "Checklists and graphs",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-14T19:05:06.719Z",
+      "sourceId": "729bc486f471c3a11d9986fa4bd34b06"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "deepmind-ceo-calls-for-an-independent-standards-bo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
+      "slides": [
+        "DeepMind's CEO says AI needs a referee. But who decides the rules?",
+        "He proposes an independent body, not governments or companies.",
+        "The catch? That body would set limits even DeepMind must follow.",
+        "For you, it means AI products could be certified or blocked.",
+        "Watch for which firms join—or fight—this new oversight framework."
+      ],
+      "thread_text": [
+        "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+        "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+        "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+        "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+        "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+      ],
+      "video_script": [
+        "AI needs a referee.",
+        "Not governments or companies.",
+        "Even DeepMind would obey.",
+        "Your apps could get blocked.",
+        "Watch who joins the fight."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+            "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+            "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+            "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+            "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI needs a referee.",
+            "Not governments or companies.",
+            "Even DeepMind would obey.",
+            "Your apps could get blocked.",
+            "Watch who joins the fight."
+          ]
+        },
+        "instagram": {
+          "caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?"
+        }
+      },
+      "instagram_caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?",
+      "carousel_slides": [
+        {
+          "hook": "Who polices AI now?",
+          "description": "DeepMind CEO wants an independent referee to set rules—even his own company must obey.",
+          "visual_hint": "AI referee with rulebook",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "referee whistle uniform"
+        },
+        {
+          "hook": "Governments step back.",
+          "description": "He says no politician or corporate board should control AI limits—only an unelected panel.",
+          "visual_hint": "Government building fading",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building facade",
+          "image": "https://images.pexels.com/photos/20948982/pexels-photo-20948982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No opt-outs allowed.",
+          "description": "That referee could block products from Google, Microsoft, or DeepMind itself.",
+          "visual_hint": "Locked AI chip",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microchip locked padlock",
+          "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your screen's new gate.",
+          "description": "An AI tool might get a green check or red flag—with no appeal possible.",
+          "visual_hint": "Phone screen red warning",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Track who signs up.",
+          "description": "Check which AI labs endorse or attack this proposal this week.",
+          "visual_hint": "Petition with signatures",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "document with signatures",
+          "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+      "savedAt": "2026-07-14T19:04:50.157Z",
+      "sourceId": "5531c5f6b4f63d45c86a52c039617a90"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "superhuman-s-new-auto-draft-feature-almost-makes-m",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -81054,6 +81262,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-di-polpo-e-melone",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata di polpo e melone",
+      "link": "https://ricette.giallozafferano.it/Insalata-di-polpo-e-melone.html",
+      "pubDate": "Tue, 14 Jul 2026 16:33:00 +0200",
+      "content": "Insalata di polpo e melone, la ricetta fresca e raffinata per l'estate Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata di polpo e melone /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 45 min Dosi per: 4 persone PRESENTAZIONE L' insalata di polpo e melone è un piatto unico estivo fresco, leggero e sorprendente, perfetto per portare in tavola tutto il gusto della cucina mediterranea. L'incontro tra il polpo , morbido e saporito, e la dolcezza del melone retato crea un equilibrio di sapori raffinato ma semplicissimo da realizzare. A completare la ricetta ci sono songino, sedano croccante e ravanelli, che rendono questa insalatona ancora più colorata, genuina e sfiziosa. Ideale per affrontare le giornate più calde, questa ricetta estiva si gusta rigorosamente fredda ed è perfetta anche come antipasto o come secondo piatto estivo , ma può diventare anche un pratico piatto freddo da servire a pranzo o in occasione di una cena all'aperto. Uno dei suoi punti di forza è la praticità: potete preparare il polpo bollito al mattino, assemblare tutti gli ingredienti e conservare l' insalata di polpo in frigorifero fino al momento di servirla. In questo modo avrete già pronto un piatto completo, fresco e ricco di gusto, ideale quando il caldo invita a portare in tavola ricette leggere senza rinunciare a un tocco di eleganza. Ecco altre varianti di questa insalata di polpo: Insalata di polpo prezzemolata Insalata tiepida di polpo e patate Insalata di polpo con finocchi e arance Polpo alla catalana Octopus and Melon Salad Scopri anche Insalata estiva con fichi, melone e tonno rosso Insalata di melone Insalata di riso con prosciutto e melone Sfoglia tutte INGREDIENTI Ingredienti per il polpo Melone piccolo 1 Polpo 750 g Carote 1 Sedano 2 coste Sale grosso q.b. per l'insalata Sedano 2 coste Songino 200 g Sale fino q.b. Olio extravergine d'oliva q.b. Pepe rosa q.b. Ravanelli 20 AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di polpo e melone Per preparare l'insalata di polpo e melone, tagliate la carota a pezzi grossolani 1 e fate lo stesso con il sedano 2 . Riempite una pentola d'acqua, unite la carota, il sedano e una presa di sale grosso 3 , quindi portate a bollore. Immergete il polpo nell'acqua bollente più volte per arricciare i tentacoli 4 . Poi lasciatelo completamente immerso 5 e cuocetelo per circa 45 minuti con un coperchio. Al termine della cottura scolatelo e lasciatelo intiepidire. Nel frattempo eliminate i filamenti più esterni del sedano con un pelapatate, poi tagliatelo a listarelle sottili 6 . Dividete il melone a metà 7 , ricavate degli spicchi 8 ed eliminate i semi 9 . Eliminate anche la scorza 10 , quindi affettate la polpa molto finemente con una mandolina 11 . Affettate sottilmente anche i ravanelli 12 . Quando il polpo sarà tiepido, eliminate gli occhi e tagliatelo a pezzetti, dividendo i tentacoli a tocchetti e la testa in pezzetti regolari 14 . Componete l'insalata disponendo sul fondo del piatto il songino 15 . Aggiungete le fettine di melone 16 , le listarelle di sedano 17 e il polpo 18 . Unite anche i ravanelli. Condite con sale 19 , un filo di olio extravergine d'oliva 20 e completate con qualche bacca di pepe rosa 20 . L'insalata di polpo e melone è pronta per essere servita 21 . Conservazione Si consiglia di consumare subito l'insalata di polpo e melone. Potete prepararla in anticipo e conservarla in frigo per qualche ora, senza condimento. Consiglio Se non gradite i ravanelli, potete sostituirli con delle carote a julienne. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Polpo Sedano Melone Olio di oliva Scopri tutto sugli ingredienti Presente in: Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Insalata estiva con fichi, melone e tonno rosso 5.0 Insalata di melone 6 4.4 Insalata di riso con prosciutto e melone 39 4.2 Insalata di pasta con asparagi, melone e caprino 1 2.7 Insalata di polpo con finocchi e arance 1 4.0 Insalata di polpo prezzemolata 92 4.4 Insalata tiepida di polpo e patate 223 4.3 Sfoglie classiche con insalata di polpo 10 4.6 ULTIME RICETTE Capesante con peperoni 5.0 Insalata di polpo e melone 5.0 Melanzane in padella con hummus e feta 4.8 SCOPRI Polpo all insalata Insalata di polpo con patate Insalata di polpo congelato Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata fresca di polpo e melone estiva.",
+        "Polpo, melone, songino, sedano, ravanelli.",
+        "Immergi il polpo in acqua bollente più volte.",
+        "Cuoci il polpo 45 minuti, poi taglialo.",
+        "Condisci con olio, sale e pepe rosa."
+      ],
+      "instagram_caption": "Qui il caldo si batte solo così: un’insalata di polpo e melone che sa di mare e di sole. 🐙🍈 Il polpo tenerissimo, cotto a regola d’arte dopo qualche tuffo in acqua bollente, si sposa con la dolcezza del melone, il croccante del sedano e dei ravanelli, e la freschezza del songino. Un pizzico di pepe rosa e un filo d’olio, e il piatto è pronto. La combinazione perfetta per una cena leggera ma piena di gusto! Provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Qui il caldo si batte solo così: un’insalata di polpo e melone che sa di mare e di sole. 🐙🍈 Il polpo tenerissimo, cotto a regola d’arte dopo qualche tuffo in acqua bollente, si sposa con la dolcezza del melone, il croccante del sedano e dei ravanelli, e la freschezza del songino. Un pizzico di pepe rosa e un filo d’olio, e il piatto è pronto. La combinazione perfetta per una cena leggera ma piena di gusto! Provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Ecco l'insalata estiva di polpo e melone.",
+            "Pulisco polpo, melone, songino, sedano e ravanelli.",
+            "Immergo il polpo in acqua bollente più volte.",
+            "Lo cuocio 45 minuti e poi lo taglio a pezzi.",
+            "Condisco con olio, sale e pepe rosa: pronta!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Non ci credi? Polpo e melone insieme. Un’esplosione di fresco che ti farà dimenticare la solita insalata di mare. 🍈🐙",
+            "Prendi polpo, melone, songino, sedano e ravanelli. Sì, roba semplice ma che spacca. Pulizia e freschezza prima di tutto.",
+            "Il trucco per un polpo tenero? Immergilo in acqua bollente 3-4 volte, poi cuocilo 45 minuti. Scolalo e taglialo a pezzi.",
+            "Unisci il polpo tiepido al melone a cubotti, songino, sedano a fettine e ravanelli. Condisci con olio, sale e pepe rosa.",
+            "Peperosa finale: il pepe rosa non è solo decorazione, dà un profumo incredibile. Provala e dimmi com’è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Ecco l'insalata estiva di polpo e melone.",
+        "Pulisco polpo, melone, songino, sedano e ravanelli.",
+        "Immergo il polpo in acqua bollente più volte.",
+        "Lo cuocio 45 minuti e poi lo taglio a pezzi.",
+        "Condisco con olio, sale e pepe rosa: pronta!"
+      ],
+      "thread_text": [
+        "Non ci credi? Polpo e melone insieme. Un’esplosione di fresco che ti farà dimenticare la solita insalata di mare. 🍈🐙",
+        "Prendi polpo, melone, songino, sedano e ravanelli. Sì, roba semplice ma che spacca. Pulizia e freschezza prima di tutto.",
+        "Il trucco per un polpo tenero? Immergilo in acqua bollente 3-4 volte, poi cuocilo 45 minuti. Scolalo e taglialo a pezzi.",
+        "Unisci il polpo tiepido al melone a cubotti, songino, sedano a fettine e ravanelli. Condisci con olio, sale e pepe rosa.",
+        "Peperosa finale: il pepe rosa non è solo decorazione, dà un profumo incredibile. Provala e dimmi com’è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata di polpo e melone estiva",
+          "description": "Un fresco piatto estivo che unisce polpo tenero e melone dolce per un contrasto sorprendente.",
+          "visual_hint": "polpo e melone su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory octopus melon salad"
+        },
+        {
+          "hook": "Gli ingredienti giusti",
+          "description": "Polpo, melone, songino, sedano croccante e ravanelli: freschezza in ogni forchettata.",
+          "visual_hint": "ingredienti freschi tagliati",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "octopus melon ingredients bowl",
+          "image": "https://images.pexels.com/photos/25951406/pexels-photo-25951406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto del polpo tenero",
+          "description": "Immergi il polpo in acqua bollente tre volte consecutive per intenerirlo prima della cottura.",
+          "visual_hint": "mano immerge polpo in pentola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory octopus boiling water",
+          "image": "https://images.pexels.com/photos/10432850/pexels-photo-10432850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura e taglio",
+          "description": "Cuoci il polpo 45 minuti, poi taglialo a pezzi mentre è ancora caldo per una consistenza perfetta.",
+          "visual_hint": "polpo cotto tagliato su tagliere",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory cooked octopus cutting",
+          "image": "https://images.pexels.com/photos/30766455/pexels-photo-30766455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Condisci con olio extravergine, sale e pepe rosa. Servi freddo o a temperatura ambiente.",
+          "visual_hint": "condimento su insalata finita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory octopus melon salad plate",
+          "image": "https://images.pexels.com/photos/19897851/pexels-photo-19897851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "polpo",
+        "melone",
+        "songino"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36442/Insalata-di-polpo-e-melone_650x433_wm.jpg",
+      "savedAt": "2026-07-14T19:08:57.711Z",
+      "sourceId": "96911936a68e7a51653feeeee48cc5a1"
+    },
     {
       "schema_version": 2,
       "agent": "food",

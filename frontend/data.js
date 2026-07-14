@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-accused-of-using-biased-ai-targeting-for-mass",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta accused of using biased AI targeting for mass layoffs",
+    "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+    "pubDate": "2026-07-14T17:18:11.000Z",
+    "slides": [
+      "Did Meta’s AI target older workers unfairly?",
+      "The algorithm flagged 20% more senior staff for layoffs.",
+      "Women in tech leadership were hit twice as hard.",
+      "AI reviews now demand demographic parity checks.",
+      "Run your redundancy plan through an independent bias audit."
+    ],
+    "thread_text": [
+      "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+      "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+      "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+      "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+      "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+    ],
+    "video_script": [
+      "Meta’s AI cut 20 percent more seniors.",
+      "Women leaders got flagged twice as often.",
+      "Skill was ignored in the algorithm.",
+      "New rules force demographic parity checks.",
+      "Audit your plan before you fire anyone."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta’s AI fired unfairly.\n\n23% more senior workers were cut by an algorithm that never considered their skills.",
+          "2. Women leaders hit harder.\n\nFemale managers in tech were flagged at double the rate of men for the same performance.",
+          "3. The bias was hidden.\n\nNo human checked the model’s weighting of tenure versus productivity before layoffs.",
+          "4. Regulators now require parity audits.\n\nNew laws demand companies prove redundancy outcomes match workforce demographics.",
+          "5. Audit your redundancy plan today.\n\nRun your layoff criteria through an independent bias test before you announce cuts."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta’s AI cut 20 percent more seniors.",
+          "Women leaders got flagged twice as often.",
+          "Skill was ignored in the algorithm.",
+          "New rules force demographic parity checks.",
+          "Audit your plan before you fire anyone."
+        ]
+      },
+      "instagram": {
+        "caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️"
+      }
+    },
+    "instagram_caption": "23% more senior staff got cut by an algorithm that never looked at their skills. 👴\n\nMeta’s AI flagged women in tech leadership for layoffs at double the rate of men for the same performance. Regulators now require companies to prove redundancy outcomes match workforce demographics.\n\nIf you build or use AI tools to review people, you must run your criteria through an independent bias audit before announcing cuts. 🚫\n\nAre your automated workflows silently penalizing your most experienced colleagues? ⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Women hit twice as hard.",
+        "description": "Female tech managers were flagged at double the rate of men for the same performance.",
+        "visual_hint": "Women silhouettes divided",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "office corridor people"
+      },
+      {
+        "hook": "Did AI target older workers?",
+        "description": "The algorithm cut 23% more senior staff without ever considering their skills.",
+        "visual_hint": "Age graph declining",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "line chart down",
+        "image": "https://images.pexels.com/photos/6120204/pexels-photo-6120204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hidden bias in the model.",
+        "description": "No human checked tenure vs. productivity weighting before the layoffs were run.",
+        "visual_hint": "Black box algorithm",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Parity audits now required.",
+        "description": "New laws force companies to prove redundancy outcomes match workforce demographics.",
+        "visual_hint": "Legal documents stamped",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "document with stamp",
+        "image": "https://images.pexels.com/photos/6863508/pexels-photo-6863508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to audit your plan.",
+        "description": "Run your layoff criteria through an independent bias test before you announce cuts.",
+        "visual_hint": "Checklists and graphs",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-14T19:05:06.719Z",
+    "sourceId": "729bc486f471c3a11d9986fa4bd34b06"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "deepmind-ceo-calls-for-an-independent-standards-bo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
+    "slides": [
+      "DeepMind's CEO says AI needs a referee. But who decides the rules?",
+      "He proposes an independent body, not governments or companies.",
+      "The catch? That body would set limits even DeepMind must follow.",
+      "For you, it means AI products could be certified or blocked.",
+      "Watch for which firms join—or fight—this new oversight framework."
+    ],
+    "thread_text": [
+      "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+      "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+      "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+      "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+      "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+    ],
+    "video_script": [
+      "AI needs a referee.",
+      "Not governments or companies.",
+      "Even DeepMind would obey.",
+      "Your apps could get blocked.",
+      "Watch who joins the fight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+          "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+          "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+          "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+          "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI needs a referee.",
+          "Not governments or companies.",
+          "Even DeepMind would obey.",
+          "Your apps could get blocked.",
+          "Watch who joins the fight."
+        ]
+      },
+      "instagram": {
+        "caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?"
+      }
+    },
+    "instagram_caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?",
+    "carousel_slides": [
+      {
+        "hook": "Who polices AI now?",
+        "description": "DeepMind CEO wants an independent referee to set rules—even his own company must obey.",
+        "visual_hint": "AI referee with rulebook",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "referee whistle uniform"
+      },
+      {
+        "hook": "Governments step back.",
+        "description": "He says no politician or corporate board should control AI limits—only an unelected panel.",
+        "visual_hint": "Government building fading",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government building facade",
+        "image": "https://images.pexels.com/photos/20948982/pexels-photo-20948982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No opt-outs allowed.",
+        "description": "That referee could block products from Google, Microsoft, or DeepMind itself.",
+        "visual_hint": "Locked AI chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip locked padlock",
+        "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your screen's new gate.",
+        "description": "An AI tool might get a green check or red flag—with no appeal possible.",
+        "visual_hint": "Phone screen red warning",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Track who signs up.",
+        "description": "Check which AI labs endorse or attack this proposal this week.",
+        "visual_hint": "Petition with signatures",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "document with signatures",
+        "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+    "savedAt": "2026-07-14T19:04:50.157Z",
+    "sourceId": "5531c5f6b4f63d45c86a52c039617a90"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "superhuman-s-new-auto-draft-feature-almost-makes-m",
     "prompt_version": "1.0.0",
     "status": "published",

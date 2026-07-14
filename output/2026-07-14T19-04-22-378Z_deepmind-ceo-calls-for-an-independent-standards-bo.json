@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "deepmind-ceo-calls-for-an-independent-standards-bo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+  "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+  "pubDate": "Tue, 14 Jul 2026 17:45:55 +0000",
+  "slides": [
+    "DeepMind's CEO says AI needs a referee. But who decides the rules?",
+    "He proposes an independent body, not governments or companies.",
+    "The catch? That body would set limits even DeepMind must follow.",
+    "For you, it means AI products could be certified or blocked.",
+    "Watch for which firms join—or fight—this new oversight framework."
+  ],
+  "thread_text": [
+    "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+    "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+    "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+    "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+    "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+  ],
+  "video_script": [
+    "AI needs a referee.",
+    "Not governments or companies.",
+    "Even DeepMind would obey.",
+    "Your apps could get blocked.",
+    "Watch who joins the fight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who polices AI?\n\nDeepMind’s CEO says an independent body should set the rules — even his own company would have to obey.",
+        "Governments step back.\n\nHe argues that neither politicians nor corporate boards should control AI limits. Only an unelected panel gets a veto.",
+        "The binding catch.\n\nThat referee could block a product from Google, Microsoft, or any AI lab — including DeepMind itself. No opt-outs allowed.",
+        "Your screen’s new gate.\n\nTomorrow, an AI tool you want to use might be certified green or flagged red by this unknown group. No appeal.",
+        "Watch the signatories.\n\nCheck which AI labs endorse or attack this proposal this week. Then ask yourself: do you trust that referee?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI needs a referee.",
+        "Not governments or companies.",
+        "Even DeepMind would obey.",
+        "Your apps could get blocked.",
+        "Watch who joins the fight."
+      ]
+    },
+    "instagram": {
+      "caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?"
+    }
+  },
+  "instagram_caption": "A referee with the power to block Google and Microsoft’s AI — but no one elected them, and there’s no appeal process.\n\nDeepMind’s CEO wants an unelected panel, not governments or companies, to set binding rules. Even his own lab would have to obey. This body could certify or block any AI tool before it reaches you.\n\nFor anyone building or publishing content, your work could suddenly be flagged as non-compliant — losing access to millions of users with no clear recourse.\n\nWould you trust a group with that veto, or does this feel like a new gatekeeper you never signed up for?",
+  "carousel_slides": [
+    {
+      "hook": "Who polices AI now?",
+      "description": "DeepMind CEO wants an independent referee to set rules—even his own company must obey.",
+      "visual_hint": "AI referee with rulebook",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "referee whistle uniform"
+    },
+    {
+      "hook": "Governments step back.",
+      "description": "He says no politician or corporate board should control AI limits—only an unelected panel.",
+      "visual_hint": "Government building fading",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building facade",
+      "image": "https://images.pexels.com/photos/20948982/pexels-photo-20948982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No opt-outs allowed.",
+      "description": "That referee could block products from Google, Microsoft, or DeepMind itself.",
+      "visual_hint": "Locked AI chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip locked padlock",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your screen's new gate.",
+      "description": "An AI tool might get a green check or red flag—with no appeal possible.",
+      "visual_hint": "Phone screen red warning",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Track who signs up.",
+      "description": "Check which AI labs endorse or attack this proposal this week.",
+      "visual_hint": "Petition with signatures",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "document with signatures",
+      "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+  "savedAt": "2026-07-14T19:04:50.157Z",
+  "sourceId": "5531c5f6b4f63d45c86a52c039617a90"
+}
