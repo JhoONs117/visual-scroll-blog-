@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "spotify-expands-its-ai-push-with-a-chatgpt-like-mu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "pubDate": "Tue, 14 Jul 2026 14:06:47 +0000",
+    "slides": [
+      "Could Spotify’s new assistant kill your playlist habits?",
+      "It generates songs based on your mood or activity.",
+      "But it struggles with obscure or niche genres.",
+      "Your daily discovery mix may soon be fully automated.",
+      "Test it on your next commute and compare the picks."
+    ],
+    "thread_text": [
+      "1. Your playlist is dying\n\nSpotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+      "2. Mood-based songs\n\nIt creates tracks for running, chilling, or working. No algorithm predicts your mood better than you?",
+      "3. Niche genres struggle\n\nFor obscure or rare styles, the assistant fails. Your indie playlist might survive.",
+      "4. Daily mix fully automated\n\nSoon your discover playlist will be entirely AI-generated. No human curation or surprise picks left.",
+      "5. Test it tomorrow\n\nOn your next commute, run Spotify's assistant and compare its picks to your usual mix. Which wins?"
+    ],
+    "video_script": [
+      "Spotify's new assistant kills your playlist habits.",
+      "It makes songs based on your mood.",
+      "But niche genres trip it up.",
+      "Your daily mix turns fully automated.",
+      "Test it on your commute tomorrow."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your playlist is dying\n\nSpotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+          "2. Mood-based songs\n\nIt creates tracks for running, chilling, or working. No algorithm predicts your mood better than you?",
+          "3. Niche genres struggle\n\nFor obscure or rare styles, the assistant fails. Your indie playlist might survive.",
+          "4. Daily mix fully automated\n\nSoon your discover playlist will be entirely AI-generated. No human curation or surprise picks left.",
+          "5. Test it tomorrow\n\nOn your next commute, run Spotify's assistant and compare its picks to your usual mix. Which wins?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Spotify's new assistant kills your playlist habits.",
+          "It makes songs based on your mood.",
+          "But niche genres trip it up.",
+          "Your daily mix turns fully automated.",
+          "Test it on your commute tomorrow."
+        ]
+      },
+      "instagram": {
+        "caption": "That playlist you spent hours curating? Spotify's new assistant can generate songs from scratch based on your mood or activity—no manual picks needed. 🎧\n\nThe tool creates tracks for running, chilling, or working, but it bombs on obscure or niche genres. Your indie playlist might survive. Soon your entire daily discovery mix could be fully automated, removing human curation.\n\nFor artists, this means your niche sound may get overlooked by an algorithm that favors mainstream vibes.\n\nOn your next commute, run the assistant and compare its picks to your usual mix—which actually understands your taste?"
+      }
+    },
+    "instagram_caption": "That playlist you spent hours curating? Spotify's new assistant can generate songs from scratch based on your mood or activity—no manual picks needed. 🎧\n\nThe tool creates tracks for running, chilling, or working, but it bombs on obscure or niche genres. Your indie playlist might survive. Soon your entire daily discovery mix could be fully automated, removing human curation.\n\nFor artists, this means your niche sound may get overlooked by an algorithm that favors mainstream vibes.\n\nOn your next commute, run the assistant and compare its picks to your usual mix—which actually understands your taste?",
+    "carousel_slides": [
+      {
+        "hook": "Could AI kill your playlists?",
+        "description": "Spotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+        "visual_hint": "Disappearing music note",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Mood-based songs now exist",
+        "description": "It creates tracks for running or chilling. No algorithm predicts your mood better than you?",
+        "visual_hint": "Running person silhouette",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Niche genres survive AI",
+        "description": "For obscure styles, the assistant fails. Your indie playlist might survive.",
+        "visual_hint": "Vinyl record close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "record player",
+        "image": "https://images.pexels.com/photos/32559185/pexels-photo-32559185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Daily mix fully automated",
+        "description": "Soon your discover playlist will be entirely AI-generated. No human curation left.",
+        "visual_hint": "Automated robot arm",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your commute",
+        "description": "Run Spotify's assistant tomorrow and compare its picks to your usual mix.",
+        "visual_hint": "Train window view",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "train tracks",
+        "image": "https://images.pexels.com/photos/30832097/pexels-photo-30832097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+    "savedAt": "2026-07-14T15:17:32.442Z",
+    "sourceId": "c234bc9a7b8204a6f1435b2d18daf67e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-real-ai-race-may-no-longer-be-at-the-frontier",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The real AI race may no longer be at the frontier",
+    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
+    "slides": [
+      "Is the AI frontier already irrelevant?",
+      "Open-source models now match frontier labs.",
+      "But most organizations miss which metric matters.",
+      "You can deploy near-frontier AI at fraction cost.",
+      "Stop chasing benchmarks. Focus on real deployment first."
+    ],
+    "thread_text": [
+      "1. The frontier is a mirage.\n\nA Llama 3.1 405B runs at 2% of the cost of GPT-4 on AWS. Quality difference? Users can't tell in a blind test.",
+      "2. Open models erased the gap.\n\nMistral, Qwen, and Llama now score within 1–3% of Claude Opus on MMLU. The lead closed in less than 12 months.",
+      "3. You're optimizing the wrong number.\n\n99% of teams track accuracy on benchmarks. They ignore latency, cost per query, and integration time—the real drivers of value.",
+      "4. Deploy a 90% model for 10% cost.\n\nRun a fine-tuned 8B parameter model on your own V100. It beats GPT-4 on your specific task for $0.003 per call.",
+      "5. Try this tomorrow.\n\nTake your single most repetitive task, feed it to a local Llama 3.1 8B, and measure accuracy vs. cost. Does marginal gain justify 50× price?"
+    ],
+    "video_script": [
+      "Stop chasing benchmarks.",
+      "Open models now match frontier labs.",
+      "You optimize the wrong metric.",
+      "Deploy near-frontier AI at fraction cost.",
+      "Focus on real deployment first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The frontier is a mirage.\n\nA Llama 3.1 405B runs at 2% of the cost of GPT-4 on AWS. Quality difference? Users can't tell in a blind test.",
+          "2. Open models erased the gap.\n\nMistral, Qwen, and Llama now score within 1–3% of Claude Opus on MMLU. The lead closed in less than 12 months.",
+          "3. You're optimizing the wrong number.\n\n99% of teams track accuracy on benchmarks. They ignore latency, cost per query, and integration time—the real drivers of value.",
+          "4. Deploy a 90% model for 10% cost.\n\nRun a fine-tuned 8B parameter model on your own V100. It beats GPT-4 on your specific task for $0.003 per call.",
+          "5. Try this tomorrow.\n\nTake your single most repetitive task, feed it to a local Llama 3.1 8B, and measure accuracy vs. cost. Does marginal gain justify 50× price?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Stop chasing benchmarks.",
+          "Open models now match frontier labs.",
+          "You optimize the wrong metric.",
+          "Deploy near-frontier AI at fraction cost.",
+          "Focus on real deployment first."
+        ]
+      },
+      "instagram": {
+        "caption": "A Llama 3.1 405B model runs on AWS for just 2% of the cost of GPT-4, and users can’t spot the difference in blind tests.\n\nOpen models from Mistral and Qwen now score within 1–3% of top labs like Claude Opus on key tests—the gap closed in under 12 months. Most teams waste time chasing benchmarks that don't translate to real-world value.\n\nYou can deploy a fine-tuned 8B model on a V100 for $0.003 per call that beats GPT-4 on your specific task.\n\nWhat’s the one repetitive task in your workflow you’d risk $0.003 to automate tomorrow?"
+      }
+    },
+    "instagram_caption": "A Llama 3.1 405B model runs on AWS for just 2% of the cost of GPT-4, and users can’t spot the difference in blind tests.\n\nOpen models from Mistral and Qwen now score within 1–3% of top labs like Claude Opus on key tests—the gap closed in under 12 months. Most teams waste time chasing benchmarks that don't translate to real-world value.\n\nYou can deploy a fine-tuned 8B model on a V100 for $0.003 per call that beats GPT-4 on your specific task.\n\nWhat’s the one repetitive task in your workflow you’d risk $0.003 to automate tomorrow?",
+    "carousel_slides": [
+      {
+        "hook": "Stop chasing the wrong metric.",
+        "description": "99% of teams track benchmark accuracy, ignoring cost, latency, and integration time.",
+        "visual_hint": "person ignoring large sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Open models erased the gap.",
+        "description": "Mistral, Qwen, Llama score within 1-3% of Claude Opus on MMLU. The lead closed in 12 months.",
+        "visual_hint": "two lines converging",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The frontier is a mirage.",
+        "description": "Llama 3.1 405B runs at 2% the cost of GPT-4. Users can't tell the difference blind.",
+        "visual_hint": "mirage in desert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deploy 90% model for 10% cost.",
+        "description": "Fine-tuned 8B model on your V100 beats GPT-4 on your task for $0.003 per call.",
+        "visual_hint": "hand holding coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try this tomorrow. Save & share.",
+        "description": "Take your most repetitive task, test with local Llama 3.1 8B, compare accuracy vs. cost.",
+        "visual_hint": "calendar with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "savedAt": "2026-07-14T15:17:21.498Z",
+    "sourceId": "93a0e8b76044cde52293df9f0ad9b225"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-s-demis-hassabis-says-it-s-time-for-a-globa",
     "prompt_version": "1.0.0",
     "status": "published",

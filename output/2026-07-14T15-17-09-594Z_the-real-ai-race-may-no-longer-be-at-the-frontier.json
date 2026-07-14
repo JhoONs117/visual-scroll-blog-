@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-real-ai-race-may-no-longer-be-at-the-frontier",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The real AI race may no longer be at the frontier",
+  "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+  "pubDate": "Tue, 14 Jul 2026 14:24:53 +0000",
+  "slides": [
+    "Is the AI frontier already irrelevant?",
+    "Open-source models now match frontier labs.",
+    "But most organizations miss which metric matters.",
+    "You can deploy near-frontier AI at fraction cost.",
+    "Stop chasing benchmarks. Focus on real deployment first."
+  ],
+  "thread_text": [
+    "1. The frontier is a mirage.\n\nA Llama 3.1 405B runs at 2% of the cost of GPT-4 on AWS. Quality difference? Users can't tell in a blind test.",
+    "2. Open models erased the gap.\n\nMistral, Qwen, and Llama now score within 1–3% of Claude Opus on MMLU. The lead closed in less than 12 months.",
+    "3. You're optimizing the wrong number.\n\n99% of teams track accuracy on benchmarks. They ignore latency, cost per query, and integration time—the real drivers of value.",
+    "4. Deploy a 90% model for 10% cost.\n\nRun a fine-tuned 8B parameter model on your own V100. It beats GPT-4 on your specific task for $0.003 per call.",
+    "5. Try this tomorrow.\n\nTake your single most repetitive task, feed it to a local Llama 3.1 8B, and measure accuracy vs. cost. Does marginal gain justify 50× price?"
+  ],
+  "video_script": [
+    "Stop chasing benchmarks.",
+    "Open models now match frontier labs.",
+    "You optimize the wrong metric.",
+    "Deploy near-frontier AI at fraction cost.",
+    "Focus on real deployment first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The frontier is a mirage.\n\nA Llama 3.1 405B runs at 2% of the cost of GPT-4 on AWS. Quality difference? Users can't tell in a blind test.",
+        "2. Open models erased the gap.\n\nMistral, Qwen, and Llama now score within 1–3% of Claude Opus on MMLU. The lead closed in less than 12 months.",
+        "3. You're optimizing the wrong number.\n\n99% of teams track accuracy on benchmarks. They ignore latency, cost per query, and integration time—the real drivers of value.",
+        "4. Deploy a 90% model for 10% cost.\n\nRun a fine-tuned 8B parameter model on your own V100. It beats GPT-4 on your specific task for $0.003 per call.",
+        "5. Try this tomorrow.\n\nTake your single most repetitive task, feed it to a local Llama 3.1 8B, and measure accuracy vs. cost. Does marginal gain justify 50× price?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Stop chasing benchmarks.",
+        "Open models now match frontier labs.",
+        "You optimize the wrong metric.",
+        "Deploy near-frontier AI at fraction cost.",
+        "Focus on real deployment first."
+      ]
+    },
+    "instagram": {
+      "caption": "A Llama 3.1 405B model runs on AWS for just 2% of the cost of GPT-4, and users can’t spot the difference in blind tests.\n\nOpen models from Mistral and Qwen now score within 1–3% of top labs like Claude Opus on key tests—the gap closed in under 12 months. Most teams waste time chasing benchmarks that don't translate to real-world value.\n\nYou can deploy a fine-tuned 8B model on a V100 for $0.003 per call that beats GPT-4 on your specific task.\n\nWhat’s the one repetitive task in your workflow you’d risk $0.003 to automate tomorrow?"
+    }
+  },
+  "instagram_caption": "A Llama 3.1 405B model runs on AWS for just 2% of the cost of GPT-4, and users can’t spot the difference in blind tests.\n\nOpen models from Mistral and Qwen now score within 1–3% of top labs like Claude Opus on key tests—the gap closed in under 12 months. Most teams waste time chasing benchmarks that don't translate to real-world value.\n\nYou can deploy a fine-tuned 8B model on a V100 for $0.003 per call that beats GPT-4 on your specific task.\n\nWhat’s the one repetitive task in your workflow you’d risk $0.003 to automate tomorrow?",
+  "carousel_slides": [
+    {
+      "hook": "Stop chasing the wrong metric.",
+      "description": "99% of teams track benchmark accuracy, ignoring cost, latency, and integration time.",
+      "visual_hint": "person ignoring large sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Open models erased the gap.",
+      "description": "Mistral, Qwen, Llama score within 1-3% of Claude Opus on MMLU. The lead closed in 12 months.",
+      "visual_hint": "two lines converging",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The frontier is a mirage.",
+      "description": "Llama 3.1 405B runs at 2% the cost of GPT-4. Users can't tell the difference blind.",
+      "visual_hint": "mirage in desert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deploy 90% model for 10% cost.",
+      "description": "Fine-tuned 8B model on your V100 beats GPT-4 on your task for $0.003 per call.",
+      "visual_hint": "hand holding coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try this tomorrow. Save & share.",
+      "description": "Take your most repetitive task, test with local Llama 3.1 8B, compare accuracy vs. cost.",
+      "visual_hint": "calendar with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+  "savedAt": "2026-07-14T15:17:21.498Z",
+  "sourceId": "93a0e8b76044cde52293df9f0ad9b225"
+}

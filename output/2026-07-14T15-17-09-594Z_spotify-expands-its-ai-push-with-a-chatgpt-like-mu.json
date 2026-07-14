@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-expands-its-ai-push-with-a-chatgpt-like-mu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+  "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+  "pubDate": "Tue, 14 Jul 2026 14:06:47 +0000",
+  "slides": [
+    "Could Spotify’s new assistant kill your playlist habits?",
+    "It generates songs based on your mood or activity.",
+    "But it struggles with obscure or niche genres.",
+    "Your daily discovery mix may soon be fully automated.",
+    "Test it on your next commute and compare the picks."
+  ],
+  "thread_text": [
+    "1. Your playlist is dying\n\nSpotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+    "2. Mood-based songs\n\nIt creates tracks for running, chilling, or working. No algorithm predicts your mood better than you?",
+    "3. Niche genres struggle\n\nFor obscure or rare styles, the assistant fails. Your indie playlist might survive.",
+    "4. Daily mix fully automated\n\nSoon your discover playlist will be entirely AI-generated. No human curation or surprise picks left.",
+    "5. Test it tomorrow\n\nOn your next commute, run Spotify's assistant and compare its picks to your usual mix. Which wins?"
+  ],
+  "video_script": [
+    "Spotify's new assistant kills your playlist habits.",
+    "It makes songs based on your mood.",
+    "But niche genres trip it up.",
+    "Your daily mix turns fully automated.",
+    "Test it on your commute tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your playlist is dying\n\nSpotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+        "2. Mood-based songs\n\nIt creates tracks for running, chilling, or working. No algorithm predicts your mood better than you?",
+        "3. Niche genres struggle\n\nFor obscure or rare styles, the assistant fails. Your indie playlist might survive.",
+        "4. Daily mix fully automated\n\nSoon your discover playlist will be entirely AI-generated. No human curation or surprise picks left.",
+        "5. Test it tomorrow\n\nOn your next commute, run Spotify's assistant and compare its picks to your usual mix. Which wins?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify's new assistant kills your playlist habits.",
+        "It makes songs based on your mood.",
+        "But niche genres trip it up.",
+        "Your daily mix turns fully automated.",
+        "Test it on your commute tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "That playlist you spent hours curating? Spotify's new assistant can generate songs from scratch based on your mood or activity—no manual picks needed. 🎧\n\nThe tool creates tracks for running, chilling, or working, but it bombs on obscure or niche genres. Your indie playlist might survive. Soon your entire daily discovery mix could be fully automated, removing human curation.\n\nFor artists, this means your niche sound may get overlooked by an algorithm that favors mainstream vibes.\n\nOn your next commute, run the assistant and compare its picks to your usual mix—which actually understands your taste?"
+    }
+  },
+  "instagram_caption": "That playlist you spent hours curating? Spotify's new assistant can generate songs from scratch based on your mood or activity—no manual picks needed. 🎧\n\nThe tool creates tracks for running, chilling, or working, but it bombs on obscure or niche genres. Your indie playlist might survive. Soon your entire daily discovery mix could be fully automated, removing human curation.\n\nFor artists, this means your niche sound may get overlooked by an algorithm that favors mainstream vibes.\n\nOn your next commute, run the assistant and compare its picks to your usual mix—which actually understands your taste?",
+  "carousel_slides": [
+    {
+      "hook": "Could AI kill your playlists?",
+      "description": "Spotify's new assistant generates songs from scratch. Your carefully curated library may become obsolete.",
+      "visual_hint": "Disappearing music note",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Mood-based songs now exist",
+      "description": "It creates tracks for running or chilling. No algorithm predicts your mood better than you?",
+      "visual_hint": "Running person silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niche genres survive AI",
+      "description": "For obscure styles, the assistant fails. Your indie playlist might survive.",
+      "visual_hint": "Vinyl record close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "record player",
+      "image": "https://images.pexels.com/photos/32559185/pexels-photo-32559185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Daily mix fully automated",
+      "description": "Soon your discover playlist will be entirely AI-generated. No human curation left.",
+      "visual_hint": "Automated robot arm",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your commute",
+      "description": "Run Spotify's assistant tomorrow and compare its picks to your usual mix.",
+      "visual_hint": "Train window view",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "train tracks",
+      "image": "https://images.pexels.com/photos/30832097/pexels-photo-30832097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+  "savedAt": "2026-07-14T15:17:32.442Z",
+  "sourceId": "c234bc9a7b8204a6f1435b2d18daf67e"
+}
