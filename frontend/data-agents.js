@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "should-ai-help-you-get-away-with-killing-your-spou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "pubDate": "Mon, 13 Jul 2026 16:31:23 +0000",
+      "slides": [
+        "Would you let a chatbot plan your alibi?",
+        "One app already proves perfect cover stories exist.",
+        "Police can’t tell if suspects used AI assistants yet.",
+        "Your real risk isn’t getting caught by a human.",
+        "Question: who do you trust more—machine or yourself?"
+      ],
+      "thread_text": [
+        "1. Would you trust a chatbot with your alibi?\n\nAn alibi app already exists, generating perfect cover stories that even police can't detect as AI-written.",
+        "2. Detection is the wrong worry.\n\nForensic methods for identifying AI-assisted statements don't exist yet—but the real surveillance is layered somewhere else.",
+        "3. The hidden cost is your data trail.\n\nEach alibi request feeds the AI's memory, building a permanent record of your movements and lies.",
+        "4. That record is accessible without a warrant.\n\nCompanies can subpoena your interaction logs, turning your digital alibi into concrete evidence against you.",
+        "5. Here is your test this week.\n\nOpen ChatGPT and ask it to generate a false story for a minor ethical scenario. Does the ease disturb you?"
+      ],
+      "video_script": [
+        "An app already writes perfect alibis.",
+        "Police can't detect AI help yet.",
+        "Your real risk is the data trail.",
+        "That trail can be subpoenaed against you.",
+        "Test it today. Who do you trust?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Would you trust a chatbot with your alibi?\n\nAn alibi app already exists, generating perfect cover stories that even police can't detect as AI-written.",
+            "2. Detection is the wrong worry.\n\nForensic methods for identifying AI-assisted statements don't exist yet—but the real surveillance is layered somewhere else.",
+            "3. The hidden cost is your data trail.\n\nEach alibi request feeds the AI's memory, building a permanent record of your movements and lies.",
+            "4. That record is accessible without a warrant.\n\nCompanies can subpoena your interaction logs, turning your digital alibi into concrete evidence against you.",
+            "5. Here is your test this week.\n\nOpen ChatGPT and ask it to generate a false story for a minor ethical scenario. Does the ease disturb you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "An app already writes perfect alibis.",
+            "Police can't detect AI help yet.",
+            "Your real risk is the data trail.",
+            "That trail can be subpoenaed against you.",
+            "Test it today. Who do you trust?"
+          ]
+        },
+        "instagram": {
+          "caption": "An alibi app already exists that can generate a perfect cover story for you—one that police can’t yet tell was written by an AI.\n\nForensic methods to detect AI-assisted statements don’t exist 🤖. But every lie you feed the app builds a permanent record of your movements.\n\nThat data is accessible without a warrant: companies can subpoena your chat logs, turning your digital alibi into concrete evidence against you 🧾.\n\nFor anyone using AI tools at work or in life: your most compromising use case isn’t a crime—it’s a permanent searchable trail.\n\nOpen ChatGPT this week and ask it to generate a false story for a minor ethical scenario. Does the ease disturb you? ❓"
+        }
+      },
+      "instagram_caption": "An alibi app already exists that can generate a perfect cover story for you—one that police can’t yet tell was written by an AI.\n\nForensic methods to detect AI-assisted statements don’t exist 🤖. But every lie you feed the app builds a permanent record of your movements.\n\nThat data is accessible without a warrant: companies can subpoena your chat logs, turning your digital alibi into concrete evidence against you 🧾.\n\nFor anyone using AI tools at work or in life: your most compromising use case isn’t a crime—it’s a permanent searchable trail.\n\nOpen ChatGPT this week and ask it to generate a false story for a minor ethical scenario. Does the ease disturb you? ❓",
+      "carousel_slides": [
+        {
+          "hook": "Your alibi app is already watching.",
+          "description": "An app generates perfect cover stories police can't detect as AI-written, but each request builds your permanent data trail.",
+          "visual_hint": "phone screen with chat bubbles",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone chat screen"
+        },
+        {
+          "hook": "Police can't catch AI alibis yet.",
+          "description": "Forensic methods to identify AI-written statements don't exist, but the real surveillance lies in your data logs.",
+          "visual_hint": "magnifying glass over code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your lies live forever in logs.",
+          "description": "Each alibi request feeds the AI's memory, creating a permanent record of your movements and false statements.",
+          "visual_hint": "glowing server racket",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI alibi becomes evidence.",
+          "description": "Companies can subpoena your interaction logs without a warrant, turning your digital cover story into concrete proof.",
+          "visual_hint": "handcuffs on keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gavel and keyboard",
+          "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test yourself: open ChatGPT now.",
+          "description": "Ask ChatGPT to generate a false story for a minor ethical scenario. Does the ease disturb you? Save this post.",
+          "visual_hint": "ChatGPT logo on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ChatGPT interface",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
+      "savedAt": "2026-07-14T11:18:55.486Z",
+      "sourceId": "0e7e142d3d4e57863032816956ed244c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "already-rich-already-successful-why-the-last-wave-",
       "prompt_version": "1.0.0",
       "status": "published",
