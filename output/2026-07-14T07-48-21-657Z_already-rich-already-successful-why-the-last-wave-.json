@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "already-rich-already-successful-why-the-last-wave-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+  "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+  "pubDate": "Tue, 14 Jul 2026 02:46:42 +0000",
+  "slides": [
+    "Why are billionaire founders burning midnight oil again?",
+    "The last boom minted fortunes in under five years.",
+    "Now the same playbook is failing them completely.",
+    "You must rebuild from scratch or watch your lead vanish.",
+    "Stop optimizing—start reinventing before the next wave hits."
+  ],
+  "thread_text": [
+    "1. Why the grind is back\n\nLate nights at billionaire offices spiked 40% in Q1 alone.",
+    "2. The old fast lane is closed\n\nPrevious AI booms turned seed rounds into IPOs in 4 years. That window just shut.",
+    "3. Copying the playbook costs you\n\nEvery major AI unicorn from the last cycle has lost half its valuation.",
+    "4. You cannot iterate your way out\n\nRebuilding the product architecture is the only move left, not tweaking the UI.",
+    "5. What will you strip to zero?\n\nTake one feature that drives 80% of support tickets and kill it this week. If you haven't, start there."
+  ],
+  "video_script": [
+    "Billionaire founders are pulling all-nighters again.",
+    "Previous booms created fortunes in five years.",
+    "That same playbook is now failing completely.",
+    "You must rebuild from scratch or vanish.",
+    "Stop optimizing. Reinvent before the next wave."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the grind is back\n\nLate nights at billionaire offices spiked 40% in Q1 alone.",
+        "2. The old fast lane is closed\n\nPrevious AI booms turned seed rounds into IPOs in 4 years. That window just shut.",
+        "3. Copying the playbook costs you\n\nEvery major AI unicorn from the last cycle has lost half its valuation.",
+        "4. You cannot iterate your way out\n\nRebuilding the product architecture is the only move left, not tweaking the UI.",
+        "5. What will you strip to zero?\n\nTake one feature that drives 80% of support tickets and kill it this week. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billionaire founders are pulling all-nighters again.",
+        "Previous booms created fortunes in five years.",
+        "That same playbook is now failing completely.",
+        "You must rebuild from scratch or vanish.",
+        "Stop optimizing. Reinvent before the next wave."
+      ]
+    },
+    "instagram": {
+      "caption": "Billionaire founders just spent four years building AI unicorns that lost half their value.\n\nThe last tech boom turned seed rounds into IPOs in under five years. That fast lane just closed. Copying the old playbook is now a guaranteed way to burn through cash.\n\nIf you own a content or publishing business, the product architecture that worked two years ago already doesn't. Iterating on UI won't save you—strip a feature that causes 80% of support tickets this week or watch your lead vanish.\n\nWhat one thing in your workflow are you still optimizing instead of reinventing? 🔄🔥"
+    }
+  },
+  "instagram_caption": "Billionaire founders just spent four years building AI unicorns that lost half their value.\n\nThe last tech boom turned seed rounds into IPOs in under five years. That fast lane just closed. Copying the old playbook is now a guaranteed way to burn through cash.\n\nIf you own a content or publishing business, the product architecture that worked two years ago already doesn't. Iterating on UI won't save you—strip a feature that causes 80% of support tickets this week or watch your lead vanish.\n\nWhat one thing in your workflow are you still optimizing instead of reinventing? 🔄🔥",
+  "carousel_slides": [
+    {
+      "hook": "Billionaire founders grinding again.",
+      "description": "Late nights at billionaire offices spiked 40% in Q1 alone after last wave's fortunes.",
+      "visual_hint": "Desk lamp glowing in dark office",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk lamp"
+    },
+    {
+      "hook": "Your old fast lane just closed.",
+      "description": "Previous AI booms turned seed rounds into IPOs in 4 years. That window is shut now.",
+      "visual_hint": "Highway exit sign with X",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "highway exit sign",
+      "image": "https://images.pexels.com/photos/38319981/pexels-photo-38319981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Copying the playbook loses half.",
+      "description": "Every major AI unicorn from last cycle has lost half its valuation. The old map is wrong.",
+      "visual_hint": "Mountain summit with falling climber",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "mountain summit climber",
+      "image": "https://images.pexels.com/photos/13311790/pexels-photo-13311790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Iterating UI won't save you.",
+      "description": "Rebuilding the product architecture is the only move left, not tweaking the interface.",
+      "visual_hint": "Hand pressing restart button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Kill one feature this week.",
+      "description": "Take the feature driving 80% of support tickets and strip it to zero. Start there.",
+      "visual_hint": "Red delete key on keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard delete key",
+      "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
+  "savedAt": "2026-07-14T07:48:35.266Z",
+  "sourceId": "1445c1679aea2caf383e41435d752f4a"
+}
