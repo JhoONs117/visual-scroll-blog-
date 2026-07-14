@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-s-demis-hassabis-says-it-s-time-for-a-globa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "pubDate": "2026-07-14T11:43:29.000Z",
+    "slides": [
+      "Why would DeepMind's Hassabis push for US-led AI oversight?",
+      "He warns unchecked labs race without global safety rules.",
+      "Hassabis proposes the US, not the UN, sets boundaries.",
+      "Your AI tools may soon face mandatory transparency checks.",
+      "Compare if your provider shares safety audits by year-end."
+    ],
+    "thread_text": [
+      "1. Why trust the US?\n\nDeepMind's CEO says safety rules should come from Washington, not the UN — a shift from global norms.",
+      "2. Labs are racing blind.\n\nNo binding global rules exist. Unchecked competition pushes teams to cut corners for speed.",
+      "3. Transparency may get teeth.\n\nMandatory audits for AI tools are being drafted. Your chatbot could face a compliance check next year.",
+      "4. The real test is now.\n\nAsk your provider for last year's safety report. If they refuse, you already have your answer.",
+      "5. Check your AI vendor today.\n\nFind their safety audit. No public record? Flag it this week before rules force it."
+    ],
+    "video_script": [
+      "DeepMind wants US to lead AI oversight.",
+      "No global safety rules exist yet.",
+      "Unchecked labs race without boundaries.",
+      "Your AI tools may soon face audits.",
+      "Compare your provider's safety checks now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why trust the US?\n\nDeepMind's CEO says safety rules should come from Washington, not the UN — a shift from global norms.",
+          "2. Labs are racing blind.\n\nNo binding global rules exist. Unchecked competition pushes teams to cut corners for speed.",
+          "3. Transparency may get teeth.\n\nMandatory audits for AI tools are being drafted. Your chatbot could face a compliance check next year.",
+          "4. The real test is now.\n\nAsk your provider for last year's safety report. If they refuse, you already have your answer.",
+          "5. Check your AI vendor today.\n\nFind their safety audit. No public record? Flag it this week before rules force it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "DeepMind wants US to lead AI oversight.",
+          "No global safety rules exist yet.",
+          "Unchecked labs race without boundaries.",
+          "Your AI tools may soon face audits.",
+          "Compare your provider's safety checks now."
+        ]
+      },
+      "instagram": {
+        "caption": "The US could soon decide if your AI tools need a safety check, not the UN.\n\nDeepMind’s CEO warns that labs are racing without rules, cutting corners to ship faster.\n\nHe wants Washington, not global bodies, to set the boundaries for mandatory audits.\n\n⏳ If you build or publish with AI, next year you might have to prove your model passed a transparency check.\n\n🧾 Find your AI provider’s latest safety audit right now — if they don't publish one, what does that tell you?"
+      }
+    },
+    "instagram_caption": "The US could soon decide if your AI tools need a safety check, not the UN.\n\nDeepMind’s CEO warns that labs are racing without rules, cutting corners to ship faster.\n\nHe wants Washington, not global bodies, to set the boundaries for mandatory audits.\n\n⏳ If you build or publish with AI, next year you might have to prove your model passed a transparency check.\n\n🧾 Find your AI provider’s latest safety audit right now — if they don't publish one, what does that tell you?",
+    "carousel_slides": [
+      {
+        "hook": "Why trust Washington with AI?",
+        "description": "DeepMind CEO wants US-led oversight, not UN — a major shift from global cooperation norms.",
+        "visual_hint": "US Capitol building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US Capitol building"
+      },
+      {
+        "hook": "Labs race without safety nets.",
+        "description": "No binding global rules exist — speed wins over caution in unchecked AI competition.",
+        "visual_hint": "Racing track start line",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "racing track start line",
+        "image": "https://images.pexels.com/photos/1127120/pexels-photo-1127120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your chatbot faces mandatory audits.",
+        "description": "Draft rules could force AI tools to disclose safety checks — transparency may become law.",
+        "visual_hint": "Document with checklist",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "document with checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your provider for their audit.",
+        "description": "If they refuse to share last year's safety report, you already have your answer.",
+        "visual_hint": "Question mark on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "question mark on screen",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your AI vendor.",
+        "description": "Find their public safety audit now — flag it this week before rules mandate it.",
+        "visual_hint": "Magnifying glass over report",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass over report",
+        "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-14T13:12:02.602Z",
+    "sourceId": "f3a882a7edeb807d27b79e58c0aa2e8d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "should-ai-help-you-get-away-with-killing-your-spou",
     "prompt_version": "1.0.0",
     "status": "published",
