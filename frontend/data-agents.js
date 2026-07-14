@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "spacexai-8217-s-grok-programming-tool-was-uploadin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "pubDate": "2026-07-14T19:25:00.000Z",
+      "slides": [
+        "Your codebase secretly uploaded to the cloud?",
+        "Grok sent entire projects without asking.",
+        "Not just snippets—every file, folder, and config.",
+        "Stop trusting auto-upload; audit every tool now.",
+        "One rule: never let AI see code it doesn't need."
+      ],
+      "thread_text": [
+        "1. Your codebase in the cloud?\n\nGrok sent entire projects to the cloud without asking—no prompt, no alert, just auto-upload.",
+        "2. Not just snippets\n\nEvery file, folder, and config file was uploaded. No filter for sensitive credentials or API keys.",
+        "3. Auto-upload by default\n\nMany tools now enable background sync silently. You never gave consent for full project transfer.",
+        "4. Audit every tool now\n\nCheck your IDE, terminal, and AI plugins. One misconfigured setting leaks your entire repo.",
+        "5. Simulate this today\n\nOpen a fresh project in your AI tool, watch network traffic. Does it send files you didn't approve?"
+      ],
+      "video_script": [
+        "Grok uploaded your code without asking.",
+        "Not just snippets—every file and folder.",
+        "Auto-upload is now enabled by default.",
+        "Audit every tool immediately.",
+        "Test before trusting any plugin."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your codebase in the cloud?\n\nGrok sent entire projects to the cloud without asking—no prompt, no alert, just auto-upload.",
+            "2. Not just snippets\n\nEvery file, folder, and config file was uploaded. No filter for sensitive credentials or API keys.",
+            "3. Auto-upload by default\n\nMany tools now enable background sync silently. You never gave consent for full project transfer.",
+            "4. Audit every tool now\n\nCheck your IDE, terminal, and AI plugins. One misconfigured setting leaks your entire repo.",
+            "5. Simulate this today\n\nOpen a fresh project in your AI tool, watch network traffic. Does it send files you didn't approve?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Grok uploaded your code without asking.",
+            "Not just snippets—every file and folder.",
+            "Auto-upload is now enabled by default.",
+            "Audit every tool immediately.",
+            "Test before trusting any plugin."
+          ]
+        },
+        "instagram": {
+          "caption": "Your entire codebase got uploaded to a cloud server—every file, folder, and config—without you ever clicking \"send.\" 🚨\n\nGrok, SpaceXAI's programming tool, silently synced whole projects by default. No prompt, no alert for your API keys or passwords inside.\n\nThis means your private work, credentials, and proprietary logic are now sitting on a third-party server you never authorized. 🗂️\n\nIf you use any AI coding assistant, open a fresh project and watch your network traffic right now—what is it sending without asking? 🔍"
+        }
+      },
+      "instagram_caption": "Your entire codebase got uploaded to a cloud server—every file, folder, and config—without you ever clicking \"send.\" 🚨\n\nGrok, SpaceXAI's programming tool, silently synced whole projects by default. No prompt, no alert for your API keys or passwords inside.\n\nThis means your private work, credentials, and proprietary logic are now sitting on a third-party server you never authorized. 🗂️\n\nIf you use any AI coding assistant, open a fresh project and watch your network traffic right now—what is it sending without asking? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your entire codebase uploaded without consent?",
+          "description": "Grok sent every file, folder, and config to the cloud silently—no prompt or alert given.",
+          "visual_hint": "Cloud upload icon with file folders",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Not just snippets—all files went.",
+          "description": "Every file and config was uploaded with no filter for sensitive credentials or API keys.",
+          "visual_hint": "Folder tree with lock icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Auto-upload is now default.",
+          "description": "Many tools enable background sync silently—you never gave consent for full project transfer.",
+          "visual_hint": "Settings gear with upload arrows",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit every tool you use.",
+          "description": "Check your IDE, terminal, and AI plugins—one misconfigured setting leaks your entire repo.",
+          "visual_hint": "Magnifying glass over code screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—check your AI tool now.",
+          "description": "Open a fresh project, watch network traffic, and see if files upload without approval.",
+          "visual_hint": "Network traffic monitor on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop coding screen",
+          "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-14T20:52:42.882Z",
+      "sourceId": "9dc0222d45c19f1cc7e86b09d61ffca0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-s-adam-mosseri-says-ai-token-budgets-could-so",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "slides": [
+        "Why would Meta cap your AI token budget?",
+        "Engineers currently enjoy unlimited AI usage.",
+        "Adam Mosseri warns budgets may shrink soon.",
+        "You'll need to prioritize queries over experiments.",
+        "Start auditing your token use today."
+      ],
+      "thread_text": [
+        "1. Budget caps are coming.\n\nMeta is preparing to limit AI tokens per engineer. The default today is unlimited — that changes soon.",
+        "2. Who decides your limit?\n\nAdam Mosseri publicly warned that token budgets will shrink. Not a rumor — an internal signal.",
+        "3. Experiments vs. queries.\n\nYou’ll have to choose: run a new test or get an answer. Both cost tokens now.",
+        "4. The audit trap.\n\nMost engineers haven’t tracked token use. Without data, you can’t defend your spend.",
+        "5. Check your dashboard.\n\nOpen your AI usage panel today. How many tokens did you burn last week?"
+      ],
+      "video_script": [
+        "Meta is capping your AI token budget.",
+        "Engineers currently have unlimited usage.",
+        "Adam Mosseri says budgets will shrink.",
+        "You must prioritize queries over experiments.",
+        "Start auditing your token use today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Budget caps are coming.\n\nMeta is preparing to limit AI tokens per engineer. The default today is unlimited — that changes soon.",
+            "2. Who decides your limit?\n\nAdam Mosseri publicly warned that token budgets will shrink. Not a rumor — an internal signal.",
+            "3. Experiments vs. queries.\n\nYou’ll have to choose: run a new test or get an answer. Both cost tokens now.",
+            "4. The audit trap.\n\nMost engineers haven’t tracked token use. Without data, you can’t defend your spend.",
+            "5. Check your dashboard.\n\nOpen your AI usage panel today. How many tokens did you burn last week?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta is capping your AI token budget.",
+            "Engineers currently have unlimited usage.",
+            "Adam Mosseri says budgets will shrink.",
+            "You must prioritize queries over experiments.",
+            "Start auditing your token use today."
+          ]
+        },
+        "instagram": {
+          "caption": "Unlimited AI access for engineers is about to end, with Meta capping token budgets per person soon.\n\nAdam Mosseri confirmed the shift publicly—not a rumor. Engineers must now prioritize tasks, swapping endless experiments for targeted queries.\n\nMost haven't tracked usage yet, leaving them unprepared to justify their spend.\n\nFor content creators and marketers relying on Meta's AI tools, expect tighter limits and fewer free experiments ahead.\n\nOpen your usage dashboard today—how many tokens did you burn last week? ⏳"
+        }
+      },
+      "instagram_caption": "Unlimited AI access for engineers is about to end, with Meta capping token budgets per person soon.\n\nAdam Mosseri confirmed the shift publicly—not a rumor. Engineers must now prioritize tasks, swapping endless experiments for targeted queries.\n\nMost haven't tracked usage yet, leaving them unprepared to justify their spend.\n\nFor content creators and marketers relying on Meta's AI tools, expect tighter limits and fewer free experiments ahead.\n\nOpen your usage dashboard today—how many tokens did you burn last week? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Your AI token budget is shrinking.",
+          "description": "Meta plans to cap AI tokens per engineer, ending unlimited usage. Prepare now.",
+          "visual_hint": "warning sign on server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room warning sign"
+        },
+        {
+          "hook": "Who decides how many tokens you get?",
+          "description": "Adam Mosseri publicly warned budgets will shrink. This is an internal signal, not a rumor.",
+          "visual_hint": "Mosseri speaking at event",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Adam Mosseri speaking",
+          "image": "https://images.pexels.com/photos/8898643/pexels-photo-8898643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Experiments or answers — pick one.",
+          "description": "Every test and query now costs tokens. You must prioritize what matters most.",
+          "visual_hint": "balance scale with code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "balance scale laboratory",
+          "image": "https://images.pexels.com/photos/9259936/pexels-photo-9259936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most engineers haven't tracked usage.",
+          "description": "Without audit data, you can't defend your spending. Don't get caught off guard.",
+          "visual_hint": "dashboard with red alert",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "analytics dashboard screen",
+          "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your token usage now.",
+          "description": "Open your AI usage panel today and see how many tokens you burned last week.",
+          "visual_hint": "person checking phone graph",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person smartphone graph",
+          "image": "https://images.pexels.com/photos/6347733/pexels-photo-6347733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
+      "savedAt": "2026-07-14T20:52:28.685Z",
+      "sourceId": "0efd80d1295d176f3ad547380fb60517"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-opens-its-new-siri-ai-to-everyone-with-the-i",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "pubDate": "Tue, 14 Jul 2026 19:42:27 +0000",
+      "slides": [
+        "Siri just got an AI upgrade in iOS 27—but is it enough?",
+        "Apple opens the new Siri to all beta testers today.",
+        "Yet Siri still fails on multi-step voice commands.",
+        "You can finally test Siri without an iPhone upgrade.",
+        "Update to iOS 27 beta and try a complex request now."
+      ],
+      "thread_text": [
+        "1. Still failing after the upgrade?\n\nApple opened Siri’s AI upgrade to beta testers today, but internal tests show it still trips on multi-step voice commands.",
+        "2. No iPhone needed to test this\n\nYou can now run the new Siri on any device through the iOS 27 beta—no hardware upgrade required.",
+        "3. Multi-step commands break it\n\nThe AI still loses context after two steps, dropping the original request halfway through.",
+        "4. One concrete exploit to try\n\nAsk Siri to set a timer and then add a reminder—see if it remembers both without you repeating.",
+        "5. Update to iOS 27 beta and try\n\nTake a complex request you use daily, like “Remind me to call John after 5pm.” Does Siri complete it? Test it now."
+      ],
+      "video_script": [
+        "Siri got an AI upgrade today.",
+        "But it still fails on complex commands.",
+        "You can test it without a new iPhone.",
+        "Try a multi-step request yourself.",
+        "Update to iOS 27 beta now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Still failing after the upgrade?\n\nApple opened Siri’s AI upgrade to beta testers today, but internal tests show it still trips on multi-step voice commands.",
+            "2. No iPhone needed to test this\n\nYou can now run the new Siri on any device through the iOS 27 beta—no hardware upgrade required.",
+            "3. Multi-step commands break it\n\nThe AI still loses context after two steps, dropping the original request halfway through.",
+            "4. One concrete exploit to try\n\nAsk Siri to set a timer and then add a reminder—see if it remembers both without you repeating.",
+            "5. Update to iOS 27 beta and try\n\nTake a complex request you use daily, like “Remind me to call John after 5pm.” Does Siri complete it? Test it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Siri got an AI upgrade today.",
+            "But it still fails on complex commands.",
+            "You can test it without a new iPhone.",
+            "Try a multi-step request yourself.",
+            "Update to iOS 27 beta now."
+          ]
+        },
+        "instagram": {
+          "caption": "Siri still drops your request after two steps — even with its new AI upgrade in iOS 27. 🧠\n\nApple just opened this “intelligent” Siri to all beta testers today. No new iPhone needed. 🍏 But internal tests show it can’t hold context for multi-step voice commands: like setting a timer then adding a reminder — it forgets the first one. 💬\n\nIf you publish voice workflows or rely on Siri for daily tasks, this limits how much you can automate hands-free.\n\nCan you ask Siri one complex request and have it complete both steps without repeating yourself? Try updating to iOS 27 beta and test your most-used command right now."
+        }
+      },
+      "instagram_caption": "Siri still drops your request after two steps — even with its new AI upgrade in iOS 27. 🧠\n\nApple just opened this “intelligent” Siri to all beta testers today. No new iPhone needed. 🍏 But internal tests show it can’t hold context for multi-step voice commands: like setting a timer then adding a reminder — it forgets the first one. 💬\n\nIf you publish voice workflows or rely on Siri for daily tasks, this limits how much you can automate hands-free.\n\nCan you ask Siri one complex request and have it complete both steps without repeating yourself? Try updating to iOS 27 beta and test your most-used command right now.",
+      "carousel_slides": [
+        {
+          "hook": "Still failing after upgrade?",
+          "description": "Apple opened Siri's AI upgrade to beta testers today, but internal tests show it still stumbles on multi-step voice commands.",
+          "visual_hint": "Siri error screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone error screen"
+        },
+        {
+          "hook": "No new iPhone needed.",
+          "description": "You can run the new Siri on any device through the iOS 27 beta—no hardware upgrade required.",
+          "visual_hint": "iPhone beta update",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "iphone settings menu",
+          "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Multi-step commands break it.",
+          "description": "The AI still loses context after two steps, dropping the original request halfway through.",
+          "visual_hint": "Broken command chain",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try this concrete exploit.",
+          "description": "Ask Siri to set a timer and then add a reminder—see if it remembers both without you repeating.",
+          "visual_hint": "Timer and reminder icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone timer app",
+          "image": "https://images.pexels.com/photos/4944001/pexels-photo-4944001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Update & test complex requests.",
+          "description": "Take a daily request like 'Remind me to call John after 5pm' and test if Siri completes it. Try now.",
+          "visual_hint": "Update button prompt",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ios update screen",
+          "image": "https://images.pexels.com/photos/17789077/pexels-photo-17789077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+      "savedAt": "2026-07-14T20:52:14.697Z",
+      "sourceId": "9fd65f338ac2484ae453a62445af89b1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-accused-of-using-biased-ai-targeting-for-mass",
       "prompt_version": "1.0.0",
       "status": "published",

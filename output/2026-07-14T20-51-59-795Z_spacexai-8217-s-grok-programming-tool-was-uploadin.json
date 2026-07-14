@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacexai-8217-s-grok-programming-tool-was-uploadin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+  "pubDate": "2026-07-14T19:25:00.000Z",
+  "slides": [
+    "Your codebase secretly uploaded to the cloud?",
+    "Grok sent entire projects without asking.",
+    "Not just snippets—every file, folder, and config.",
+    "Stop trusting auto-upload; audit every tool now.",
+    "One rule: never let AI see code it doesn't need."
+  ],
+  "thread_text": [
+    "1. Your codebase in the cloud?\n\nGrok sent entire projects to the cloud without asking—no prompt, no alert, just auto-upload.",
+    "2. Not just snippets\n\nEvery file, folder, and config file was uploaded. No filter for sensitive credentials or API keys.",
+    "3. Auto-upload by default\n\nMany tools now enable background sync silently. You never gave consent for full project transfer.",
+    "4. Audit every tool now\n\nCheck your IDE, terminal, and AI plugins. One misconfigured setting leaks your entire repo.",
+    "5. Simulate this today\n\nOpen a fresh project in your AI tool, watch network traffic. Does it send files you didn't approve?"
+  ],
+  "video_script": [
+    "Grok uploaded your code without asking.",
+    "Not just snippets—every file and folder.",
+    "Auto-upload is now enabled by default.",
+    "Audit every tool immediately.",
+    "Test before trusting any plugin."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your codebase in the cloud?\n\nGrok sent entire projects to the cloud without asking—no prompt, no alert, just auto-upload.",
+        "2. Not just snippets\n\nEvery file, folder, and config file was uploaded. No filter for sensitive credentials or API keys.",
+        "3. Auto-upload by default\n\nMany tools now enable background sync silently. You never gave consent for full project transfer.",
+        "4. Audit every tool now\n\nCheck your IDE, terminal, and AI plugins. One misconfigured setting leaks your entire repo.",
+        "5. Simulate this today\n\nOpen a fresh project in your AI tool, watch network traffic. Does it send files you didn't approve?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Grok uploaded your code without asking.",
+        "Not just snippets—every file and folder.",
+        "Auto-upload is now enabled by default.",
+        "Audit every tool immediately.",
+        "Test before trusting any plugin."
+      ]
+    },
+    "instagram": {
+      "caption": "Your entire codebase got uploaded to a cloud server—every file, folder, and config—without you ever clicking \"send.\" 🚨\n\nGrok, SpaceXAI's programming tool, silently synced whole projects by default. No prompt, no alert for your API keys or passwords inside.\n\nThis means your private work, credentials, and proprietary logic are now sitting on a third-party server you never authorized. 🗂️\n\nIf you use any AI coding assistant, open a fresh project and watch your network traffic right now—what is it sending without asking? 🔍"
+    }
+  },
+  "instagram_caption": "Your entire codebase got uploaded to a cloud server—every file, folder, and config—without you ever clicking \"send.\" 🚨\n\nGrok, SpaceXAI's programming tool, silently synced whole projects by default. No prompt, no alert for your API keys or passwords inside.\n\nThis means your private work, credentials, and proprietary logic are now sitting on a third-party server you never authorized. 🗂️\n\nIf you use any AI coding assistant, open a fresh project and watch your network traffic right now—what is it sending without asking? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your entire codebase uploaded without consent?",
+      "description": "Grok sent every file, folder, and config to the cloud silently—no prompt or alert given.",
+      "visual_hint": "Cloud upload icon with file folders",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Not just snippets—all files went.",
+      "description": "Every file and config was uploaded with no filter for sensitive credentials or API keys.",
+      "visual_hint": "Folder tree with lock icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Auto-upload is now default.",
+      "description": "Many tools enable background sync silently—you never gave consent for full project transfer.",
+      "visual_hint": "Settings gear with upload arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit every tool you use.",
+      "description": "Check your IDE, terminal, and AI plugins—one misconfigured setting leaks your entire repo.",
+      "visual_hint": "Magnifying glass over code screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—check your AI tool now.",
+      "description": "Open a fresh project, watch network traffic, and see if files upload without approval.",
+      "visual_hint": "Network traffic monitor on laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop coding screen",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-14T20:52:42.882Z",
+  "sourceId": "9dc0222d45c19f1cc7e86b09d61ffca0"
+}

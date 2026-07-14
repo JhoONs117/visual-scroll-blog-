@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-adam-mosseri-says-ai-token-budgets-could-so",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+  "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+  "pubDate": "Tue, 14 Jul 2026 16:22:15 +0000",
+  "slides": [
+    "Why would Meta cap your AI token budget?",
+    "Engineers currently enjoy unlimited AI usage.",
+    "Adam Mosseri warns budgets may shrink soon.",
+    "You'll need to prioritize queries over experiments.",
+    "Start auditing your token use today."
+  ],
+  "thread_text": [
+    "1. Budget caps are coming.\n\nMeta is preparing to limit AI tokens per engineer. The default today is unlimited — that changes soon.",
+    "2. Who decides your limit?\n\nAdam Mosseri publicly warned that token budgets will shrink. Not a rumor — an internal signal.",
+    "3. Experiments vs. queries.\n\nYou’ll have to choose: run a new test or get an answer. Both cost tokens now.",
+    "4. The audit trap.\n\nMost engineers haven’t tracked token use. Without data, you can’t defend your spend.",
+    "5. Check your dashboard.\n\nOpen your AI usage panel today. How many tokens did you burn last week?"
+  ],
+  "video_script": [
+    "Meta is capping your AI token budget.",
+    "Engineers currently have unlimited usage.",
+    "Adam Mosseri says budgets will shrink.",
+    "You must prioritize queries over experiments.",
+    "Start auditing your token use today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Budget caps are coming.\n\nMeta is preparing to limit AI tokens per engineer. The default today is unlimited — that changes soon.",
+        "2. Who decides your limit?\n\nAdam Mosseri publicly warned that token budgets will shrink. Not a rumor — an internal signal.",
+        "3. Experiments vs. queries.\n\nYou’ll have to choose: run a new test or get an answer. Both cost tokens now.",
+        "4. The audit trap.\n\nMost engineers haven’t tracked token use. Without data, you can’t defend your spend.",
+        "5. Check your dashboard.\n\nOpen your AI usage panel today. How many tokens did you burn last week?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta is capping your AI token budget.",
+        "Engineers currently have unlimited usage.",
+        "Adam Mosseri says budgets will shrink.",
+        "You must prioritize queries over experiments.",
+        "Start auditing your token use today."
+      ]
+    },
+    "instagram": {
+      "caption": "Unlimited AI access for engineers is about to end, with Meta capping token budgets per person soon.\n\nAdam Mosseri confirmed the shift publicly—not a rumor. Engineers must now prioritize tasks, swapping endless experiments for targeted queries.\n\nMost haven't tracked usage yet, leaving them unprepared to justify their spend.\n\nFor content creators and marketers relying on Meta's AI tools, expect tighter limits and fewer free experiments ahead.\n\nOpen your usage dashboard today—how many tokens did you burn last week? ⏳"
+    }
+  },
+  "instagram_caption": "Unlimited AI access for engineers is about to end, with Meta capping token budgets per person soon.\n\nAdam Mosseri confirmed the shift publicly—not a rumor. Engineers must now prioritize tasks, swapping endless experiments for targeted queries.\n\nMost haven't tracked usage yet, leaving them unprepared to justify their spend.\n\nFor content creators and marketers relying on Meta's AI tools, expect tighter limits and fewer free experiments ahead.\n\nOpen your usage dashboard today—how many tokens did you burn last week? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your AI token budget is shrinking.",
+      "description": "Meta plans to cap AI tokens per engineer, ending unlimited usage. Prepare now.",
+      "visual_hint": "warning sign on server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room warning sign"
+    },
+    {
+      "hook": "Who decides how many tokens you get?",
+      "description": "Adam Mosseri publicly warned budgets will shrink. This is an internal signal, not a rumor.",
+      "visual_hint": "Mosseri speaking at event",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Adam Mosseri speaking",
+      "image": "https://images.pexels.com/photos/8898643/pexels-photo-8898643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Experiments or answers — pick one.",
+      "description": "Every test and query now costs tokens. You must prioritize what matters most.",
+      "visual_hint": "balance scale with code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "balance scale laboratory",
+      "image": "https://images.pexels.com/photos/9259936/pexels-photo-9259936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most engineers haven't tracked usage.",
+      "description": "Without audit data, you can't defend your spending. Don't get caught off guard.",
+      "visual_hint": "dashboard with red alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "analytics dashboard screen",
+      "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your token usage now.",
+      "description": "Open your AI usage panel today and see how many tokens you burned last week.",
+      "visual_hint": "person checking phone graph",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person smartphone graph",
+      "image": "https://images.pexels.com/photos/6347733/pexels-photo-6347733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
+  "savedAt": "2026-07-14T20:52:28.685Z",
+  "sourceId": "0efd80d1295d176f3ad547380fb60517"
+}
