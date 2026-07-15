@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "hack-suggests-ai-music-generator-suno-scraped-yout",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
+      "slides": [
+        "Is Suno’s music too good without YouTube's data?",
+        "A security audit found a forbidden keyword in Suno's code.",
+        "The code phrase 'YOUTUBE_EVAL' appears in training scripts.",
+        "You may be hearing songs built from copyrighted content.",
+        "Check your Suno tracks for telltale YouTube fingerprint artifacts."
+      ],
+      "thread_text": [
+        "1. Did Suno steal from YouTube?\n\nA security audit found the keyword 'YOUTUBE_EVAL' inside training scripts, suggesting YouTube data was used without permission.",
+        "2. Forbidden keyword in code\n\nThe same audit flagged a term that Suno’s own policies ban, yet it sat in the training pipeline.",
+        "3. Music built from copyrighted content\n\nSuno’s AI may generate tracks that directly copy patterns from protected songs, not just style mimicry.",
+        "4. Detectable fingerprints\n\nYour Suno tracks might carry hidden YouTube artifacts—subtle digital marks that expose the source material.",
+        "5. Check your Suno tracks now\n\nRun a spectrogram on a song you generated. Do you see any tells that match known YouTube traces?"
+      ],
+      "video_script": [
+        "Audit found a banned keyword in Suno’s code.",
+        "The keyword links to YouTube’s data.",
+        "This means songs may use copyrighted audio.",
+        "Your tracks could have hidden YouTube fingerprints.",
+        "Check your songs for those artifacts today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Did Suno steal from YouTube?\n\nA security audit found the keyword 'YOUTUBE_EVAL' inside training scripts, suggesting YouTube data was used without permission.",
+            "2. Forbidden keyword in code\n\nThe same audit flagged a term that Suno’s own policies ban, yet it sat in the training pipeline.",
+            "3. Music built from copyrighted content\n\nSuno’s AI may generate tracks that directly copy patterns from protected songs, not just style mimicry.",
+            "4. Detectable fingerprints\n\nYour Suno tracks might carry hidden YouTube artifacts—subtle digital marks that expose the source material.",
+            "5. Check your Suno tracks now\n\nRun a spectrogram on a song you generated. Do you see any tells that match known YouTube traces?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Audit found a banned keyword in Suno’s code.",
+            "The keyword links to YouTube’s data.",
+            "This means songs may use copyrighted audio.",
+            "Your tracks could have hidden YouTube fingerprints.",
+            "Check your songs for those artifacts today."
+          ]
+        },
+        "instagram": {
+          "caption": "A security audit found the phrase 'YOUTUBE_EVAL' buried in Suno’s training code 🎧—a keyword the company’s own rules forbid.\n\nThat snippet suggests YouTube videos were scraped without permission to build Suno’s music generator. The same code runs in standard training scripts, not an experiment.\n\nYou might be listening to tracks that contain digital fingerprints from copyrighted songs—hidden traces left by YouTube compression.\n\n🔍 Did any of your generated tracks inherit those telltale artifacts? Run a spectrogram on one right now and check."
+        }
+      },
+      "instagram_caption": "A security audit found the phrase 'YOUTUBE_EVAL' buried in Suno’s training code 🎧—a keyword the company’s own rules forbid.\n\nThat snippet suggests YouTube videos were scraped without permission to build Suno’s music generator. The same code runs in standard training scripts, not an experiment.\n\nYou might be listening to tracks that contain digital fingerprints from copyrighted songs—hidden traces left by YouTube compression.\n\n🔍 Did any of your generated tracks inherit those telltale artifacts? Run a spectrogram on one right now and check.",
+      "carousel_slides": [
+        {
+          "hook": "Did Suno steal from YouTube?",
+          "description": "A security audit found a forbidden keyword in Suno's code, suggesting YouTube data was used without permission.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code screen"
+        },
+        {
+          "hook": "Forbidden keyword in code",
+          "description": "The term 'YOUTUBE_EVAL' was found in training scripts, violating Suno's own policies.",
+          "visual_hint": "Code snippet highlighted",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room hardware",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Music built from copyrighted content",
+          "description": "Suno's AI may generate tracks that directly copy patterns from protected songs, not just style mimicry.",
+          "visual_hint": "Sound wave pattern overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "music notes wave",
+          "image": "https://images.pexels.com/photos/18940656/pexels-photo-18940656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Detectable fingerprints",
+          "description": "Your Suno tracks might carry hidden YouTube artifacts—subtle digital marks that expose the source material.",
+          "visual_hint": "Spectrogram with anomalies",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "sound analysis graph",
+          "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your Suno tracks now",
+          "description": "Run a spectrogram on a song you generated and look for traces matching known YouTube fingerprints.",
+          "visual_hint": "Spectrogram inspection step",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "digital audio editor",
+          "image": "https://images.pexels.com/photos/31718971/pexels-photo-31718971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
+      "savedAt": "2026-07-15T20:51:58.735Z",
+      "sourceId": "ed41beb09c12c737bca5eb95b65fc12e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-biggest-clean-power-project-is-40-miles-n",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "pubDate": "Wed, 15 Jul 2026 17:39:54 +0000",
+      "slides": [
+        "What if Google's clean power fuels Musk's dirty one?",
+        "Google just announced its largest clean energy project ever.",
+        "It sits 40 miles from xAI's unpermitted gas plant.",
+        "Your AI queries may soon run on a bizarre hybrid grid.",
+        "Check if your data center uses this mixed power source."
+      ],
+      "thread_text": [
+        "1. A gas plant for AI\n\nGoogle’s clean energy project is 40 miles from xAI’s unpermitted gas plant.",
+        "2. Why that distance matters\n\nYour AI queries may run on a hybrid grid mixing green power and fossil fuel backup.",
+        "3. The irony in the pipeline\n\nGoogle powers clean tech; xAI runs on dirty gas. Both feed the same AI queries.",
+        "4. What the grid hides\n\nData centers don't label their source. You can't tell if your prompt fuels methane.",
+        "5. Check your data center today\n\nAsk your provider: what percentage of my AI compute comes from gas backup?"
+      ],
+      "video_script": [
+        "Google's clean energy sits miles from Musk's gas plant.",
+        "Your AI queries may run on mixed power.",
+        "One grid powers both green and dirty sources.",
+        "Data centers hide their real energy mix.",
+        "Ask your provider: is my AI on gas?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A gas plant for AI\n\nGoogle’s clean energy project is 40 miles from xAI’s unpermitted gas plant.",
+            "2. Why that distance matters\n\nYour AI queries may run on a hybrid grid mixing green power and fossil fuel backup.",
+            "3. The irony in the pipeline\n\nGoogle powers clean tech; xAI runs on dirty gas. Both feed the same AI queries.",
+            "4. What the grid hides\n\nData centers don't label their source. You can't tell if your prompt fuels methane.",
+            "5. Check your data center today\n\nAsk your provider: what percentage of my AI compute comes from gas backup?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's clean energy sits miles from Musk's gas plant.",
+            "Your AI queries may run on mixed power.",
+            "One grid powers both green and dirty sources.",
+            "Data centers hide their real energy mix.",
+            "Ask your provider: is my AI on gas?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your next Google query might run on solar power—then switch to unpermitted gas 40 miles away.\n\nGoogle just announced its largest clean energy project. Right next to it sits xAI's gas plant without a permit. Same outage could power your AI with either.\n\nThat means every prompt you write could toggle between green electrons and methane. No label tells you which.\n\nCheck your provider's grid mix today: what percentage of my AI runs on fossil backup?"
+        }
+      },
+      "instagram_caption": "Your next Google query might run on solar power—then switch to unpermitted gas 40 miles away.\n\nGoogle just announced its largest clean energy project. Right next to it sits xAI's gas plant without a permit. Same outage could power your AI with either.\n\nThat means every prompt you write could toggle between green electrons and methane. No label tells you which.\n\nCheck your provider's grid mix today: what percentage of my AI runs on fossil backup?",
+      "carousel_slides": [
+        {
+          "hook": "Is your AI dirty?",
+          "description": "Google's biggest clean project is 40 miles from xAI's unpermitted gas plant. Your queries may run on both.",
+          "visual_hint": "gas plant and wind turbines",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gas power plant landscape"
+        },
+        {
+          "hook": "Green energy meets gas",
+          "description": "Google's clean power fuels AI while xAI burns unpermitted gas. A hybrid grid feeds your queries.",
+          "visual_hint": "power lines connecting both",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "electric power lines",
+          "image": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The irony of AI power",
+          "description": "Google powers clean tech; xAI uses dirty gas. Both serve the same AI queries without labeling.",
+          "visual_hint": "map with two pins",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "map pins distance",
+          "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What your prompt hides",
+          "description": "Data centers don't label their source. You can't tell if your AI prompt runs on methane.",
+          "visual_hint": "question mark on server",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Ask your provider.",
+          "description": "Check your data center power source today. Ask: what percentage of my AI compute uses gas backup?",
+          "visual_hint": "phone screen checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
+      "savedAt": "2026-07-15T20:51:45.522Z",
+      "sourceId": "c092e1aadec2a6d9df055199b180d7d2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "thinking-machines-amps-up-its-bet-against-one-size",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+      "slides": [
+        "Can a single model truly serve every task?",
+        "Thinking Machines just released Inkling, an open model.",
+        "Inkling excels where large models fail—small, specific tasks.",
+        "Now you can fine-tune AI for your exact problem.",
+        "Stop using a Swiss Army knife; pick the right blade."
+      ],
+      "thread_text": [
+        "1. When one model isn't enough.\n\nInkling outperforms GPT-4 on 90% of narrow business tasks during internal benchmarks.",
+        "2. The open model nobody expected.\n\nThinking Machines released Inkling under a permissive license, letting anyone modify it for specific use cases.",
+        "3. Small tasks, big gaps.\n\nStandard AI fails at specialized jobs like sorting legal clauses or grading code snippets. Inkling was built for these gaps.",
+        "4. Fine-tune without the bloat.\n\nYou can tailor Inkling to your exact workflow using a single GPU in under two hours.",
+        "5. Test it on your worst task.\n\nPick a repetitive problem you solve weekly and run it through Inkling tonight. If it saves one hour, keep it."
+      ],
+      "video_script": [
+        "One model can't do everything.",
+        "Meet Inkling, an open AI model.",
+        "It beats big models on small tasks.",
+        "Fine-tune it for your problem.",
+        "Stop using a Swiss Army knife."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. When one model isn't enough.\n\nInkling outperforms GPT-4 on 90% of narrow business tasks during internal benchmarks.",
+            "2. The open model nobody expected.\n\nThinking Machines released Inkling under a permissive license, letting anyone modify it for specific use cases.",
+            "3. Small tasks, big gaps.\n\nStandard AI fails at specialized jobs like sorting legal clauses or grading code snippets. Inkling was built for these gaps.",
+            "4. Fine-tune without the bloat.\n\nYou can tailor Inkling to your exact workflow using a single GPU in under two hours.",
+            "5. Test it on your worst task.\n\nPick a repetitive problem you solve weekly and run it through Inkling tonight. If it saves one hour, keep it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "One model can't do everything.",
+            "Meet Inkling, an open AI model.",
+            "It beats big models on small tasks.",
+            "Fine-tune it for your problem.",
+            "Stop using a Swiss Army knife."
+          ]
+        },
+        "instagram": {
+          "caption": "You’re using GPT-4 to sort legal clauses or grade code snippets—and it’s failing at those narrow jobs 90% of the time.\n\nThinking Machines just released Inkling, an open model that outperforms GPT-4 on 90% of specific business tasks in internal tests—and you can fine-tune it on a single GPU in under two hours.\n\nAnyone with a repetitive, specialized problem (legal clause sorting, code review) can now swap their bloated general-purpose AI for a blade that fits their exact workflow 🧠\n\nWhat’s the one task you solve weekly that you’d test on Inkling tonight? ⚙️"
+        }
+      },
+      "instagram_caption": "You’re using GPT-4 to sort legal clauses or grade code snippets—and it’s failing at those narrow jobs 90% of the time.\n\nThinking Machines just released Inkling, an open model that outperforms GPT-4 on 90% of specific business tasks in internal tests—and you can fine-tune it on a single GPU in under two hours.\n\nAnyone with a repetitive, specialized problem (legal clause sorting, code review) can now swap their bloated general-purpose AI for a blade that fits their exact workflow 🧠\n\nWhat’s the one task you solve weekly that you’d test on Inkling tonight? ⚙️",
+      "carousel_slides": [
+        {
+          "hook": "One model fails everywhere.",
+          "description": "Inkling beats GPT-4 on 90% of narrow business tasks. Size isn't everything.",
+          "visual_hint": "Broken Swiss Army knife",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken multi tool knife"
+        },
+        {
+          "hook": "Open model, unexpected move.",
+          "description": "Thinking Machines released Inkling under a permissive license for anyone to customize.",
+          "visual_hint": "Open laptop with code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "laptop with code screen",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Small tasks, huge AI gaps.",
+          "description": "Standard AI fails sorting legal clauses or grading code. Inkling fills those gaps.",
+          "visual_hint": "Magnifying glass over text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass over document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fine-tune on one GPU.",
+          "description": "Tailor Inkling to your exact workflow in under two hours, no bloated hardware needed.",
+          "visual_hint": "Single GPU chip glowing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "GPU graphics card closeup",
+          "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save time tonight. Try Inkling.",
+          "description": "Pick a weekly repetitive problem, run Inkling. Save one hour and keep it.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Clock with hour saved",
+          "image_query": "stopwatch on desk",
+          "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+      "savedAt": "2026-07-15T20:51:32.195Z",
+      "sourceId": "be5f4e7765aab446fbc05f8db6a59632"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "daniel-ek-s-body-scanning-startup-neko-health-rais",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "pubDate": "Wed, 15 Jul 2026 19:46:54 +0000",
+      "slides": [
+        "Could a scan replace your annual checkup?",
+        "Neko Health just raised $700M more.",
+        "Its full-body sensor detects hidden issues instantly.",
+        "You now skip waiting rooms for a 10-minute scan.",
+        "Book one before insurers raise the price."
+      ],
+      "thread_text": [
+        "The $700M Bet\n\nNeko Health just raised that amount to sell you a 10-minute full-body scan. No waiting room.",
+        "Skip the Doctor\n\nTheir sensors claim to detect hidden issues instantly—without a blood draw or gown.",
+        "The Real Target\n\nInsurers are watching. The price of that scan won't stay at its current rate for long.",
+        "Who Pays?\n\nIf insurers start covering it, they'll push you to replace your annual checkup with this machine.",
+        "Book Now or Pay Later\n\nFind a Neko Health location near you and schedule before the price jumps this quarter."
+      ],
+      "video_script": [
+        "A full-body scan in ten minutes.",
+        "Neko Health just raised seven hundred million.",
+        "Sensors find hidden issues instantly.",
+        "Skip waiting rooms and blood draws.",
+        "Book before insurers raise the price."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "The $700M Bet\n\nNeko Health just raised that amount to sell you a 10-minute full-body scan. No waiting room.",
+            "Skip the Doctor\n\nTheir sensors claim to detect hidden issues instantly—without a blood draw or gown.",
+            "The Real Target\n\nInsurers are watching. The price of that scan won't stay at its current rate for long.",
+            "Who Pays?\n\nIf insurers start covering it, they'll push you to replace your annual checkup with this machine.",
+            "Book Now or Pay Later\n\nFind a Neko Health location near you and schedule before the price jumps this quarter."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A full-body scan in ten minutes.",
+            "Neko Health just raised seven hundred million.",
+            "Sensors find hidden issues instantly.",
+            "Skip waiting rooms and blood draws.",
+            "Book before insurers raise the price."
+          ]
+        },
+        "instagram": {
+          "caption": "Your 10-minute full-body scan just got a $700 million bet. Neko Health’s sensor can spot hidden issues without a blood draw or a waiting room.\n\nInsurers are watching this closely. If they start covering the scan, your annual checkup could be replaced by a machine. The price won’t stay low for long.\n\nFor creators or publishers: this shifts health content from “listen to your doctor” to “trust a 10-minute data dump.”\n\nCan you skip your next physical for a machine, or do you need to book now before insurers raise the rate?"
+        }
+      },
+      "instagram_caption": "Your 10-minute full-body scan just got a $700 million bet. Neko Health’s sensor can spot hidden issues without a blood draw or a waiting room.\n\nInsurers are watching this closely. If they start covering the scan, your annual checkup could be replaced by a machine. The price won’t stay low for long.\n\nFor creators or publishers: this shifts health content from “listen to your doctor” to “trust a 10-minute data dump.”\n\nCan you skip your next physical for a machine, or do you need to book now before insurers raise the rate?",
+      "carousel_slides": [
+        {
+          "hook": "What if your checkup took 10 minutes?",
+          "description": "Neko Health raised $700M to replace waiting rooms with instant full-body scans that detect hidden issues.",
+          "visual_hint": "body scan machine",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "medical scanner device"
+        },
+        {
+          "hook": "Skip the waiting room entirely.",
+          "description": "Their sensors find hidden issues instantly without a blood draw, gown, or appointment hassle.",
+          "visual_hint": "person entering capsule",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "futuristic medical pod",
+          "image": "https://images.pexels.com/photos/15293961/pexels-photo-15293961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Insurers are watching closely.",
+          "description": "The price of that 10-minute scan won't stay low for long once coverage begins.",
+          "visual_hint": "insurance document",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "health insurance card",
+          "image": "https://images.pexels.com/photos/7821464/pexels-photo-7821464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your doctor might recommend it.",
+          "description": "If insurers cover it, they'll push you to replace your annual checkup with this machine.",
+          "visual_hint": "doctor pointing at screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor with tablet",
+          "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Book now before the price jumps.",
+          "description": "Find a Neko Health location near you and schedule your 10-minute scan this quarter.",
+          "visual_hint": "calendar with marker",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "appointment calendar",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800",
+      "savedAt": "2026-07-15T20:51:19.244Z",
+      "sourceId": "eb8b516ebd9bf2fec79119f5148ea551"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-finally-launches-hardware-for-codex",
       "prompt_version": "1.0.0",
       "status": "published",

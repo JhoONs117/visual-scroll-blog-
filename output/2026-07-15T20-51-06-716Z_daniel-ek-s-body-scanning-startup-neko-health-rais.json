@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "daniel-ek-s-body-scanning-startup-neko-health-rais",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+  "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+  "pubDate": "Wed, 15 Jul 2026 19:46:54 +0000",
+  "slides": [
+    "Could a scan replace your annual checkup?",
+    "Neko Health just raised $700M more.",
+    "Its full-body sensor detects hidden issues instantly.",
+    "You now skip waiting rooms for a 10-minute scan.",
+    "Book one before insurers raise the price."
+  ],
+  "thread_text": [
+    "The $700M Bet\n\nNeko Health just raised that amount to sell you a 10-minute full-body scan. No waiting room.",
+    "Skip the Doctor\n\nTheir sensors claim to detect hidden issues instantly—without a blood draw or gown.",
+    "The Real Target\n\nInsurers are watching. The price of that scan won't stay at its current rate for long.",
+    "Who Pays?\n\nIf insurers start covering it, they'll push you to replace your annual checkup with this machine.",
+    "Book Now or Pay Later\n\nFind a Neko Health location near you and schedule before the price jumps this quarter."
+  ],
+  "video_script": [
+    "A full-body scan in ten minutes.",
+    "Neko Health just raised seven hundred million.",
+    "Sensors find hidden issues instantly.",
+    "Skip waiting rooms and blood draws.",
+    "Book before insurers raise the price."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "The $700M Bet\n\nNeko Health just raised that amount to sell you a 10-minute full-body scan. No waiting room.",
+        "Skip the Doctor\n\nTheir sensors claim to detect hidden issues instantly—without a blood draw or gown.",
+        "The Real Target\n\nInsurers are watching. The price of that scan won't stay at its current rate for long.",
+        "Who Pays?\n\nIf insurers start covering it, they'll push you to replace your annual checkup with this machine.",
+        "Book Now or Pay Later\n\nFind a Neko Health location near you and schedule before the price jumps this quarter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A full-body scan in ten minutes.",
+        "Neko Health just raised seven hundred million.",
+        "Sensors find hidden issues instantly.",
+        "Skip waiting rooms and blood draws.",
+        "Book before insurers raise the price."
+      ]
+    },
+    "instagram": {
+      "caption": "Your 10-minute full-body scan just got a $700 million bet. Neko Health’s sensor can spot hidden issues without a blood draw or a waiting room.\n\nInsurers are watching this closely. If they start covering the scan, your annual checkup could be replaced by a machine. The price won’t stay low for long.\n\nFor creators or publishers: this shifts health content from “listen to your doctor” to “trust a 10-minute data dump.”\n\nCan you skip your next physical for a machine, or do you need to book now before insurers raise the rate?"
+    }
+  },
+  "instagram_caption": "Your 10-minute full-body scan just got a $700 million bet. Neko Health’s sensor can spot hidden issues without a blood draw or a waiting room.\n\nInsurers are watching this closely. If they start covering the scan, your annual checkup could be replaced by a machine. The price won’t stay low for long.\n\nFor creators or publishers: this shifts health content from “listen to your doctor” to “trust a 10-minute data dump.”\n\nCan you skip your next physical for a machine, or do you need to book now before insurers raise the rate?",
+  "carousel_slides": [
+    {
+      "hook": "What if your checkup took 10 minutes?",
+      "description": "Neko Health raised $700M to replace waiting rooms with instant full-body scans that detect hidden issues.",
+      "visual_hint": "body scan machine",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "medical scanner device"
+    },
+    {
+      "hook": "Skip the waiting room entirely.",
+      "description": "Their sensors find hidden issues instantly without a blood draw, gown, or appointment hassle.",
+      "visual_hint": "person entering capsule",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "futuristic medical pod",
+      "image": "https://images.pexels.com/photos/15293961/pexels-photo-15293961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Insurers are watching closely.",
+      "description": "The price of that 10-minute scan won't stay low for long once coverage begins.",
+      "visual_hint": "insurance document",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "health insurance card",
+      "image": "https://images.pexels.com/photos/7821464/pexels-photo-7821464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your doctor might recommend it.",
+      "description": "If insurers cover it, they'll push you to replace your annual checkup with this machine.",
+      "visual_hint": "doctor pointing at screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor with tablet",
+      "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Book now before the price jumps.",
+      "description": "Find a Neko Health location near you and schedule your 10-minute scan this quarter.",
+      "visual_hint": "calendar with marker",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "appointment calendar",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Founders-Hjalmar-Nilsonne-Daniel-Ek-1.jpeg?resize=1200,800",
+  "savedAt": "2026-07-15T20:51:19.244Z",
+  "sourceId": "eb8b516ebd9bf2fec79119f5148ea551"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "thinking-machines-amps-up-its-bet-against-one-size",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+  "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+  "pubDate": "Wed, 15 Jul 2026 18:04:06 +0000",
+  "slides": [
+    "Can a single model truly serve every task?",
+    "Thinking Machines just released Inkling, an open model.",
+    "Inkling excels where large models fail—small, specific tasks.",
+    "Now you can fine-tune AI for your exact problem.",
+    "Stop using a Swiss Army knife; pick the right blade."
+  ],
+  "thread_text": [
+    "1. When one model isn't enough.\n\nInkling outperforms GPT-4 on 90% of narrow business tasks during internal benchmarks.",
+    "2. The open model nobody expected.\n\nThinking Machines released Inkling under a permissive license, letting anyone modify it for specific use cases.",
+    "3. Small tasks, big gaps.\n\nStandard AI fails at specialized jobs like sorting legal clauses or grading code snippets. Inkling was built for these gaps.",
+    "4. Fine-tune without the bloat.\n\nYou can tailor Inkling to your exact workflow using a single GPU in under two hours.",
+    "5. Test it on your worst task.\n\nPick a repetitive problem you solve weekly and run it through Inkling tonight. If it saves one hour, keep it."
+  ],
+  "video_script": [
+    "One model can't do everything.",
+    "Meet Inkling, an open AI model.",
+    "It beats big models on small tasks.",
+    "Fine-tune it for your problem.",
+    "Stop using a Swiss Army knife."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. When one model isn't enough.\n\nInkling outperforms GPT-4 on 90% of narrow business tasks during internal benchmarks.",
+        "2. The open model nobody expected.\n\nThinking Machines released Inkling under a permissive license, letting anyone modify it for specific use cases.",
+        "3. Small tasks, big gaps.\n\nStandard AI fails at specialized jobs like sorting legal clauses or grading code snippets. Inkling was built for these gaps.",
+        "4. Fine-tune without the bloat.\n\nYou can tailor Inkling to your exact workflow using a single GPU in under two hours.",
+        "5. Test it on your worst task.\n\nPick a repetitive problem you solve weekly and run it through Inkling tonight. If it saves one hour, keep it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One model can't do everything.",
+        "Meet Inkling, an open AI model.",
+        "It beats big models on small tasks.",
+        "Fine-tune it for your problem.",
+        "Stop using a Swiss Army knife."
+      ]
+    },
+    "instagram": {
+      "caption": "You’re using GPT-4 to sort legal clauses or grade code snippets—and it’s failing at those narrow jobs 90% of the time.\n\nThinking Machines just released Inkling, an open model that outperforms GPT-4 on 90% of specific business tasks in internal tests—and you can fine-tune it on a single GPU in under two hours.\n\nAnyone with a repetitive, specialized problem (legal clause sorting, code review) can now swap their bloated general-purpose AI for a blade that fits their exact workflow 🧠\n\nWhat’s the one task you solve weekly that you’d test on Inkling tonight? ⚙️"
+    }
+  },
+  "instagram_caption": "You’re using GPT-4 to sort legal clauses or grade code snippets—and it’s failing at those narrow jobs 90% of the time.\n\nThinking Machines just released Inkling, an open model that outperforms GPT-4 on 90% of specific business tasks in internal tests—and you can fine-tune it on a single GPU in under two hours.\n\nAnyone with a repetitive, specialized problem (legal clause sorting, code review) can now swap their bloated general-purpose AI for a blade that fits their exact workflow 🧠\n\nWhat’s the one task you solve weekly that you’d test on Inkling tonight? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "One model fails everywhere.",
+      "description": "Inkling beats GPT-4 on 90% of narrow business tasks. Size isn't everything.",
+      "visual_hint": "Broken Swiss Army knife",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken multi tool knife"
+    },
+    {
+      "hook": "Open model, unexpected move.",
+      "description": "Thinking Machines released Inkling under a permissive license for anyone to customize.",
+      "visual_hint": "Open laptop with code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop with code screen",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small tasks, huge AI gaps.",
+      "description": "Standard AI fails sorting legal clauses or grading code. Inkling fills those gaps.",
+      "visual_hint": "Magnifying glass over text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass over document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fine-tune on one GPU.",
+      "description": "Tailor Inkling to your exact workflow in under two hours, no bloated hardware needed.",
+      "visual_hint": "Single GPU chip glowing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "GPU graphics card closeup",
+      "image": "https://images.pexels.com/photos/6974258/pexels-photo-6974258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save time tonight. Try Inkling.",
+      "description": "Pick a weekly repetitive problem, run Inkling. Save one hour and keep it.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Clock with hour saved",
+      "image_query": "stopwatch on desk",
+      "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+  "savedAt": "2026-07-15T20:51:32.195Z",
+  "sourceId": "be5f4e7765aab446fbc05f8db6a59632"
+}

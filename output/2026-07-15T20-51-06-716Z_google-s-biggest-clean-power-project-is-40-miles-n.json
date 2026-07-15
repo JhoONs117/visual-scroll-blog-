@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-biggest-clean-power-project-is-40-miles-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+  "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+  "pubDate": "Wed, 15 Jul 2026 17:39:54 +0000",
+  "slides": [
+    "What if Google's clean power fuels Musk's dirty one?",
+    "Google just announced its largest clean energy project ever.",
+    "It sits 40 miles from xAI's unpermitted gas plant.",
+    "Your AI queries may soon run on a bizarre hybrid grid.",
+    "Check if your data center uses this mixed power source."
+  ],
+  "thread_text": [
+    "1. A gas plant for AI\n\nGoogle’s clean energy project is 40 miles from xAI’s unpermitted gas plant.",
+    "2. Why that distance matters\n\nYour AI queries may run on a hybrid grid mixing green power and fossil fuel backup.",
+    "3. The irony in the pipeline\n\nGoogle powers clean tech; xAI runs on dirty gas. Both feed the same AI queries.",
+    "4. What the grid hides\n\nData centers don't label their source. You can't tell if your prompt fuels methane.",
+    "5. Check your data center today\n\nAsk your provider: what percentage of my AI compute comes from gas backup?"
+  ],
+  "video_script": [
+    "Google's clean energy sits miles from Musk's gas plant.",
+    "Your AI queries may run on mixed power.",
+    "One grid powers both green and dirty sources.",
+    "Data centers hide their real energy mix.",
+    "Ask your provider: is my AI on gas?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A gas plant for AI\n\nGoogle’s clean energy project is 40 miles from xAI’s unpermitted gas plant.",
+        "2. Why that distance matters\n\nYour AI queries may run on a hybrid grid mixing green power and fossil fuel backup.",
+        "3. The irony in the pipeline\n\nGoogle powers clean tech; xAI runs on dirty gas. Both feed the same AI queries.",
+        "4. What the grid hides\n\nData centers don't label their source. You can't tell if your prompt fuels methane.",
+        "5. Check your data center today\n\nAsk your provider: what percentage of my AI compute comes from gas backup?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's clean energy sits miles from Musk's gas plant.",
+        "Your AI queries may run on mixed power.",
+        "One grid powers both green and dirty sources.",
+        "Data centers hide their real energy mix.",
+        "Ask your provider: is my AI on gas?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next Google query might run on solar power—then switch to unpermitted gas 40 miles away.\n\nGoogle just announced its largest clean energy project. Right next to it sits xAI's gas plant without a permit. Same outage could power your AI with either.\n\nThat means every prompt you write could toggle between green electrons and methane. No label tells you which.\n\nCheck your provider's grid mix today: what percentage of my AI runs on fossil backup?"
+    }
+  },
+  "instagram_caption": "Your next Google query might run on solar power—then switch to unpermitted gas 40 miles away.\n\nGoogle just announced its largest clean energy project. Right next to it sits xAI's gas plant without a permit. Same outage could power your AI with either.\n\nThat means every prompt you write could toggle between green electrons and methane. No label tells you which.\n\nCheck your provider's grid mix today: what percentage of my AI runs on fossil backup?",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI dirty?",
+      "description": "Google's biggest clean project is 40 miles from xAI's unpermitted gas plant. Your queries may run on both.",
+      "visual_hint": "gas plant and wind turbines",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gas power plant landscape"
+    },
+    {
+      "hook": "Green energy meets gas",
+      "description": "Google's clean power fuels AI while xAI burns unpermitted gas. A hybrid grid feeds your queries.",
+      "visual_hint": "power lines connecting both",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "electric power lines",
+      "image": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The irony of AI power",
+      "description": "Google powers clean tech; xAI uses dirty gas. Both serve the same AI queries without labeling.",
+      "visual_hint": "map with two pins",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "map pins distance",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What your prompt hides",
+      "description": "Data centers don't label their source. You can't tell if your AI prompt runs on methane.",
+      "visual_hint": "question mark on server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data center server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask your provider.",
+      "description": "Check your data center power source today. Ask: what percentage of my AI compute uses gas backup?",
+      "visual_hint": "phone screen checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
+  "savedAt": "2026-07-15T20:51:45.522Z",
+  "sourceId": "c092e1aadec2a6d9df055199b180d7d2"
+}
