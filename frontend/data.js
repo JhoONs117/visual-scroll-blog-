@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-finally-launches-hardware-for-codex",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI finally launches hardware… for Codex",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "pubDate": "2026-07-15T16:00:00.000Z",
+    "slides": [
+      "OpenAI's first device isn't what you expected.",
+      "Codex runs locally, not in the cloud.",
+      "It ships without a keyboard or screen.",
+      "Your terminal becomes voice-controlled instantly.",
+      "Try it: speak your next commit without typing."
+    ],
+    "thread_text": [
+      "1. Not what you expected.\n\nOpenAI's first device runs Codex locally, no cloud needed.",
+      "2. No keyboard. No screen.\n\nThis device ships without any interface you use to type or read.",
+      "3. Voice takes the terminal.\n\nYour command line becomes fully voice-controlled without installing extra software.",
+      "4. Talk to your next commit.\n\nYou can speak a git commit message and it types it for you.",
+      "5. Try it yourself today.\n\nOpen a terminal and speak a git command aloud. Does it understand?"
+    ],
+    "video_script": [
+      "OpenAI's first device isn't a chatbot.",
+      "It runs Codex completely offline.",
+      "No keyboard, no screen included.",
+      "Your terminal listens and responds.",
+      "Try speaking your next commit now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Not what you expected.\n\nOpenAI's first device runs Codex locally, no cloud needed.",
+          "2. No keyboard. No screen.\n\nThis device ships without any interface you use to type or read.",
+          "3. Voice takes the terminal.\n\nYour command line becomes fully voice-controlled without installing extra software.",
+          "4. Talk to your next commit.\n\nYou can speak a git commit message and it types it for you.",
+          "5. Try it yourself today.\n\nOpen a terminal and speak a git command aloud. Does it understand?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's first device isn't a chatbot.",
+          "It runs Codex completely offline.",
+          "No keyboard, no screen included.",
+          "Your terminal listens and responds.",
+          "Try speaking your next commit now."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI's first-ever device has no screen and no keyboard — and it’s made for speaking code. 🎙️\n\nCodex now runs entirely on-device, no cloud required. Your terminal becomes voice-controlled without installing anything extra. 💻\n\nYou can speak a git commit message aloud, and it types it for you. \n\nFor any developer: your next commit can be fully hands-free. \n\nWhen was the last time you typed *anything* by voice that actually worked — and would you trust it for production code?"
+      }
+    },
+    "instagram_caption": "OpenAI's first-ever device has no screen and no keyboard — and it’s made for speaking code. 🎙️\n\nCodex now runs entirely on-device, no cloud required. Your terminal becomes voice-controlled without installing anything extra. 💻\n\nYou can speak a git commit message aloud, and it types it for you. \n\nFor any developer: your next commit can be fully hands-free. \n\nWhen was the last time you typed *anything* by voice that actually worked — and would you trust it for production code?",
+    "carousel_slides": [
+      {
+        "hook": "Your keyboard is obsolete.",
+        "description": "OpenAI's first device runs Codex locally, no cloud needed, and ships with zero interface.",
+        "visual_hint": "Minimalist white device",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "minimalist electronic device"
+      },
+      {
+        "hook": "No screen. No keys.",
+        "description": "A device that doesn't let you type or read—pure voice control for your terminal.",
+        "visual_hint": "Blank black slate",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "plain black rectangle",
+        "image": "https://images.pexels.com/photos/7966021/pexels-photo-7966021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Talk to your command line.",
+        "description": "Your terminal becomes voice-controlled instantly without installing any extra software.",
+        "visual_hint": "Sound waves over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sound wave pattern",
+        "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speak your next commit.",
+        "description": "You can say a git commit message out loud and it types it for you automatically.",
+        "visual_hint": "Person speaking to terminal",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person talking laptop",
+        "image": "https://images.pexels.com/photos/5240193/pexels-photo-5240193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it—save this post.",
+        "description": "Open a terminal now and speak a git command aloud. See if it understands.",
+        "visual_hint": "Finger tapping screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger tapping phone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&amp;strip=all&amp;crop=0.42240779401531%2C0%2C99.155184411969%2C100&amp;w=1200",
+    "savedAt": "2026-07-15T17:08:04.180Z",
+    "sourceId": "ff658b1af0b4e572b4648bed01513511"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-intelligence-approved-for-launch-in-china-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+    "slides": [
+      "Apple's China AI deal: a surprise partner?",
+      "Alibaba's Qwen AI will power iPhones there.",
+      "But Apple Intelligence was blocked—until now.",
+      "Your China device gets locally compliant features.",
+      "Check if your region permits this AI shift."
+    ],
+    "thread_text": [
+      "1. Apple pivots to China\n\nAlibaba's Qwen AI will power iPhones in China, not Apple Intelligence.",
+      "2. Blocked until now\n\nApple Intelligence was previously blocked by regulators in China.",
+      "3. Locally compliant features\n\nYour China device gets features that meet local regulations.",
+      "4. Check your region\n\nNot all regions allow this AI shift—verify before assuming access.",
+      "5. Is your region affected?\n\nOpen your iPhone settings and check AI availability under Apple Intelligence today."
+    ],
+    "video_script": [
+      "Apple partners with Alibaba's Qwen for China iPhones.",
+      "Apple Intelligence was blocked in China until now.",
+      "Your device gets locally compliant AI features.",
+      "Check if your region permits this AI shift.",
+      "Is your region affected? Check settings now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple pivots to China\n\nAlibaba's Qwen AI will power iPhones in China, not Apple Intelligence.",
+          "2. Blocked until now\n\nApple Intelligence was previously blocked by regulators in China.",
+          "3. Locally compliant features\n\nYour China device gets features that meet local regulations.",
+          "4. Check your region\n\nNot all regions allow this AI shift—verify before assuming access.",
+          "5. Is your region affected?\n\nOpen your iPhone settings and check AI availability under Apple Intelligence today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple partners with Alibaba's Qwen for China iPhones.",
+          "Apple Intelligence was blocked in China until now.",
+          "Your device gets locally compliant AI features.",
+          "Check if your region permits this AI shift.",
+          "Is your region affected? Check settings now."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple’s iPhones in China will now run Alibaba’s Qwen AI instead of Apple’s own system.\n\nApple Intelligence was previously blocked by Chinese regulators. This partnership makes it locally compliant, so the features finally work under national rules.\n\nIf you publish or create content for a Chinese audience, the underlying AI model changed. Your tools may now prioritize compliance over capability.\n\nDoes your iPhone region or app store grant you access to Alibaba Qwen, or are you still locked out? 🤖📱🇨🇳"
+      }
+    },
+    "instagram_caption": "Apple’s iPhones in China will now run Alibaba’s Qwen AI instead of Apple’s own system.\n\nApple Intelligence was previously blocked by Chinese regulators. This partnership makes it locally compliant, so the features finally work under national rules.\n\nIf you publish or create content for a Chinese audience, the underlying AI model changed. Your tools may now prioritize compliance over capability.\n\nDoes your iPhone region or app store grant you access to Alibaba Qwen, or are you still locked out? 🤖📱🇨🇳",
+    "carousel_slides": [
+      {
+        "hook": "Apple Intelligence blocked? Not anymore.",
+        "description": "Apple's AI was blocked by Chinese regulators, but now Alibaba's Qwen AI will power your iPhone.",
+        "visual_hint": "red blocked sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple iPhone block sign"
+      },
+      {
+        "hook": "Alibaba's Qwen takes over.",
+        "description": "Alibaba's Qwen AI will replace Apple Intelligence in China, ensuring compliance with local regulations.",
+        "visual_hint": "smartphone with AI logo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Alibaba Qwen AI smartphone",
+        "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators finally said yes.",
+        "description": "After being blocked, Apple Intelligence now gets locally compliant features for your device in China.",
+        "visual_hint": "green checkmark on phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "green checkmark iPhone",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your device gets local AI.",
+        "description": "Your China iPhone will now receive features that meet local rules, powered by Alibaba's Qwen.",
+        "visual_hint": "person holding iPhone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding iPhone China",
+        "image": "https://images.pexels.com/photos/10502101/pexels-photo-10502101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your region.",
+        "description": "Open your iPhone settings now and check AI availability under Apple Intelligence in your region.",
+        "visual_hint": "iPhone settings screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "iPhone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+    "savedAt": "2026-07-15T17:07:52.876Z",
+    "sourceId": "d3f280f3600627db5a30fff013ece9af"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "microsoft-patches-record-number-of-security-vulner",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
+    "slides": [
+      "Microsoft fixed more flaws than ever—how did AI help?",
+      "It now uses AI to detect bugs during development",
+      "But many patches arrived after hackers already exploited them",
+      "Your update cycle must prioritize these zero-days immediately",
+      "Audit your patch cadence monthly to match attacker speed"
+    ],
+    "thread_text": [
+      "1. AI fixed more, but…\n\nMicrosoft’s patch count hit a record, yet attackers still got there first on many flaws. The tool caught bugs earlier, but not the ones that mattered most.",
+      "2. How AI missed the window\n\nThe new system scans code during development, but zero-days are found after release. Detection speed didn’t translate to prevention speed.",
+      "3. Exploits came before fixes\n\nPatches arrived only after hackers had already used the漏洞 in the wild. AI helped write the fix, not stop the attack.",
+      "4. Your zero-day priority shifts\n\nEvery patch for an actively exploited flaw needs immediate deployment. Delay means your system is the next target.",
+      "5. Audit your patch cadence now\n\nCheck your last month: how many days passed between exploit and your update? If more than 24 hours, you’re exposed."
+    ],
+    "video_script": [
+      "Microsoft fixed record bugs, but hackers struck first.",
+      "AI caught flaws during dev, not after release.",
+      "Patches arrived after exploits were already live.",
+      "Your zero-day updates must be immediate, not optional.",
+      "Check your patch lag monthly to stay ahead."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI fixed more, but…\n\nMicrosoft’s patch count hit a record, yet attackers still got there first on many flaws. The tool caught bugs earlier, but not the ones that mattered most.",
+          "2. How AI missed the window\n\nThe new system scans code during development, but zero-days are found after release. Detection speed didn’t translate to prevention speed.",
+          "3. Exploits came before fixes\n\nPatches arrived only after hackers had already used the漏洞 in the wild. AI helped write the fix, not stop the attack.",
+          "4. Your zero-day priority shifts\n\nEvery patch for an actively exploited flaw needs immediate deployment. Delay means your system is the next target.",
+          "5. Audit your patch cadence now\n\nCheck your last month: how many days passed between exploit and your update? If more than 24 hours, you’re exposed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft fixed record bugs, but hackers struck first.",
+          "AI caught flaws during dev, not after release.",
+          "Patches arrived after exploits were already live.",
+          "Your zero-day updates must be immediate, not optional.",
+          "Check your patch lag monthly to stay ahead."
+        ]
+      },
+      "instagram": {
+        "caption": "A record number of security fixes this year, but many patches only arrived after hackers had already broken into systems using those flaws.\n\nMicrosoft used AI to spot bugs during development—catching issues earlier, but not the ones that mattered most.🔍 The zero-days were found after release, exploited in the wild before any fix existed.\n\nFor anyone managing content or publishing online: a delay of even 24 hours between exploit and update means your system is the next target.⏳\n\nHow many days passed between the last exploit and your update? Check your patch cadence now.⚡"
+      }
+    },
+    "instagram_caption": "A record number of security fixes this year, but many patches only arrived after hackers had already broken into systems using those flaws.\n\nMicrosoft used AI to spot bugs during development—catching issues earlier, but not the ones that mattered most.🔍 The zero-days were found after release, exploited in the wild before any fix existed.\n\nFor anyone managing content or publishing online: a delay of even 24 hours between exploit and update means your system is the next target.⏳\n\nHow many days passed between the last exploit and your update? Check your patch cadence now.⚡",
+    "carousel_slides": [
+      {
+        "hook": "Patches arrived after attacks.",
+        "description": "Microsoft fixed record flaws, but hackers exploited many zero-days before fixes were ready.",
+        "visual_hint": "Red alert siren on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "red warning siren"
+      },
+      {
+        "hook": "AI caught bugs, not zero-days.",
+        "description": "AI scans code during development, but attackers found flaws after release, not before.",
+        "visual_hint": "AI scanning code lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code on monitor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Exploits came before Microsoft.",
+        "description": "Hackers used flaws in the wild before patches dropped. AI helped write fixes, not prevent attacks.",
+        "visual_hint": "Hacker typing on laptop",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hacker laptop dark",
+        "image": "https://images.pexels.com/photos/5935786/pexels-photo-5935786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zero-days need instant patching.",
+        "description": "Delayed deployment of actively exploited flaws makes your system the next target.",
+        "visual_hint": "Clock ticking on shield",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stopwatch with shield",
+        "image": "https://images.pexels.com/photos/6289070/pexels-photo-6289070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your patch cadence now.",
+        "description": "Check last month's exploit-to-update gap. Over 24 hours? You're exposed.",
+        "visual_hint": "Calendar with red marks",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar with alerts",
+        "image": "https://images.pexels.com/photos/7805683/pexels-photo-7805683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
+    "savedAt": "2026-07-15T17:07:40.981Z",
+    "sourceId": "ec46a9e5474560ffa941c13a10696d81"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "vint-cerf-is-working-on-a-plan-to-unleash-ai-agent",
     "prompt_version": "1.0.0",
     "status": "published",

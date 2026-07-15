@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-intelligence-approved-for-launch-in-china-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+  "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+  "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+  "slides": [
+    "Apple's China AI deal: a surprise partner?",
+    "Alibaba's Qwen AI will power iPhones there.",
+    "But Apple Intelligence was blocked—until now.",
+    "Your China device gets locally compliant features.",
+    "Check if your region permits this AI shift."
+  ],
+  "thread_text": [
+    "1. Apple pivots to China\n\nAlibaba's Qwen AI will power iPhones in China, not Apple Intelligence.",
+    "2. Blocked until now\n\nApple Intelligence was previously blocked by regulators in China.",
+    "3. Locally compliant features\n\nYour China device gets features that meet local regulations.",
+    "4. Check your region\n\nNot all regions allow this AI shift—verify before assuming access.",
+    "5. Is your region affected?\n\nOpen your iPhone settings and check AI availability under Apple Intelligence today."
+  ],
+  "video_script": [
+    "Apple partners with Alibaba's Qwen for China iPhones.",
+    "Apple Intelligence was blocked in China until now.",
+    "Your device gets locally compliant AI features.",
+    "Check if your region permits this AI shift.",
+    "Is your region affected? Check settings now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple pivots to China\n\nAlibaba's Qwen AI will power iPhones in China, not Apple Intelligence.",
+        "2. Blocked until now\n\nApple Intelligence was previously blocked by regulators in China.",
+        "3. Locally compliant features\n\nYour China device gets features that meet local regulations.",
+        "4. Check your region\n\nNot all regions allow this AI shift—verify before assuming access.",
+        "5. Is your region affected?\n\nOpen your iPhone settings and check AI availability under Apple Intelligence today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple partners with Alibaba's Qwen for China iPhones.",
+        "Apple Intelligence was blocked in China until now.",
+        "Your device gets locally compliant AI features.",
+        "Check if your region permits this AI shift.",
+        "Is your region affected? Check settings now."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple’s iPhones in China will now run Alibaba’s Qwen AI instead of Apple’s own system.\n\nApple Intelligence was previously blocked by Chinese regulators. This partnership makes it locally compliant, so the features finally work under national rules.\n\nIf you publish or create content for a Chinese audience, the underlying AI model changed. Your tools may now prioritize compliance over capability.\n\nDoes your iPhone region or app store grant you access to Alibaba Qwen, or are you still locked out? 🤖📱🇨🇳"
+    }
+  },
+  "instagram_caption": "Apple’s iPhones in China will now run Alibaba’s Qwen AI instead of Apple’s own system.\n\nApple Intelligence was previously blocked by Chinese regulators. This partnership makes it locally compliant, so the features finally work under national rules.\n\nIf you publish or create content for a Chinese audience, the underlying AI model changed. Your tools may now prioritize compliance over capability.\n\nDoes your iPhone region or app store grant you access to Alibaba Qwen, or are you still locked out? 🤖📱🇨🇳",
+  "carousel_slides": [
+    {
+      "hook": "Apple Intelligence blocked? Not anymore.",
+      "description": "Apple's AI was blocked by Chinese regulators, but now Alibaba's Qwen AI will power your iPhone.",
+      "visual_hint": "red blocked sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "apple iPhone block sign"
+    },
+    {
+      "hook": "Alibaba's Qwen takes over.",
+      "description": "Alibaba's Qwen AI will replace Apple Intelligence in China, ensuring compliance with local regulations.",
+      "visual_hint": "smartphone with AI logo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Alibaba Qwen AI smartphone",
+      "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators finally said yes.",
+      "description": "After being blocked, Apple Intelligence now gets locally compliant features for your device in China.",
+      "visual_hint": "green checkmark on phone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "green checkmark iPhone",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your device gets local AI.",
+      "description": "Your China iPhone will now receive features that meet local rules, powered by Alibaba's Qwen.",
+      "visual_hint": "person holding iPhone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding iPhone China",
+      "image": "https://images.pexels.com/photos/10502101/pexels-photo-10502101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your region.",
+      "description": "Open your iPhone settings now and check AI availability under Apple Intelligence in your region.",
+      "visual_hint": "iPhone settings screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+  "savedAt": "2026-07-15T17:07:52.876Z",
+  "sourceId": "d3f280f3600627db5a30fff013ece9af"
+}

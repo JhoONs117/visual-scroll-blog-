@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-finally-launches-hardware-for-codex",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI finally launches hardware… for Codex",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+  "pubDate": "2026-07-15T16:00:00.000Z",
+  "slides": [
+    "OpenAI's first device isn't what you expected.",
+    "Codex runs locally, not in the cloud.",
+    "It ships without a keyboard or screen.",
+    "Your terminal becomes voice-controlled instantly.",
+    "Try it: speak your next commit without typing."
+  ],
+  "thread_text": [
+    "1. Not what you expected.\n\nOpenAI's first device runs Codex locally, no cloud needed.",
+    "2. No keyboard. No screen.\n\nThis device ships without any interface you use to type or read.",
+    "3. Voice takes the terminal.\n\nYour command line becomes fully voice-controlled without installing extra software.",
+    "4. Talk to your next commit.\n\nYou can speak a git commit message and it types it for you.",
+    "5. Try it yourself today.\n\nOpen a terminal and speak a git command aloud. Does it understand?"
+  ],
+  "video_script": [
+    "OpenAI's first device isn't a chatbot.",
+    "It runs Codex completely offline.",
+    "No keyboard, no screen included.",
+    "Your terminal listens and responds.",
+    "Try speaking your next commit now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Not what you expected.\n\nOpenAI's first device runs Codex locally, no cloud needed.",
+        "2. No keyboard. No screen.\n\nThis device ships without any interface you use to type or read.",
+        "3. Voice takes the terminal.\n\nYour command line becomes fully voice-controlled without installing extra software.",
+        "4. Talk to your next commit.\n\nYou can speak a git commit message and it types it for you.",
+        "5. Try it yourself today.\n\nOpen a terminal and speak a git command aloud. Does it understand?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's first device isn't a chatbot.",
+        "It runs Codex completely offline.",
+        "No keyboard, no screen included.",
+        "Your terminal listens and responds.",
+        "Try speaking your next commit now."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI's first-ever device has no screen and no keyboard — and it’s made for speaking code. 🎙️\n\nCodex now runs entirely on-device, no cloud required. Your terminal becomes voice-controlled without installing anything extra. 💻\n\nYou can speak a git commit message aloud, and it types it for you. \n\nFor any developer: your next commit can be fully hands-free. \n\nWhen was the last time you typed *anything* by voice that actually worked — and would you trust it for production code?"
+    }
+  },
+  "instagram_caption": "OpenAI's first-ever device has no screen and no keyboard — and it’s made for speaking code. 🎙️\n\nCodex now runs entirely on-device, no cloud required. Your terminal becomes voice-controlled without installing anything extra. 💻\n\nYou can speak a git commit message aloud, and it types it for you. \n\nFor any developer: your next commit can be fully hands-free. \n\nWhen was the last time you typed *anything* by voice that actually worked — and would you trust it for production code?",
+  "carousel_slides": [
+    {
+      "hook": "Your keyboard is obsolete.",
+      "description": "OpenAI's first device runs Codex locally, no cloud needed, and ships with zero interface.",
+      "visual_hint": "Minimalist white device",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "minimalist electronic device"
+    },
+    {
+      "hook": "No screen. No keys.",
+      "description": "A device that doesn't let you type or read—pure voice control for your terminal.",
+      "visual_hint": "Blank black slate",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "plain black rectangle",
+      "image": "https://images.pexels.com/photos/7966021/pexels-photo-7966021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Talk to your command line.",
+      "description": "Your terminal becomes voice-controlled instantly without installing any extra software.",
+      "visual_hint": "Sound waves over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave pattern",
+      "image": "https://images.pexels.com/photos/6892714/pexels-photo-6892714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speak your next commit.",
+      "description": "You can say a git commit message out loud and it types it for you automatically.",
+      "visual_hint": "Person speaking to terminal",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person talking laptop",
+      "image": "https://images.pexels.com/photos/5240193/pexels-photo-5240193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it—save this post.",
+      "description": "Open a terminal now and speak a git command aloud. See if it understands.",
+      "visual_hint": "Finger tapping screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger tapping phone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&amp;strip=all&amp;crop=0.42240779401531%2C0%2C99.155184411969%2C100&amp;w=1200",
+  "savedAt": "2026-07-15T17:08:04.180Z",
+  "sourceId": "ff658b1af0b4e572b4648bed01513511"
+}
