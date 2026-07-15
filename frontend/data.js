@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "telegram-s-shortlink-domain-is-back-online-after-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Telegram’s shortlink domain is back online after day-long suspension",
+    "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+    "pubDate": "Tue, 14 Jul 2026 14:10:13 +0000",
+    "slides": [
+      "Telegram’s shortlink domain went dark for 24 hours—why?",
+      "The suspension came from a European hosting provider",
+      "No official reason was given before restoration",
+      "Your shared links may have broken during that window",
+      "Check your active links now for potential dead ends"
+    ],
+    "thread_text": [
+      "1. Your links just broke for 24 hours.\n\nIf you shared a Telegram shortlink yesterday, it led nowhere. The entire domain went dark with zero warning.",
+      "2. A European host pulled the plug.\n\nTelegram’s shortlink domain was suspended by its hosting provider. No court order or complaint was made public.",
+      "3. No one said why — then it came back.\n\nNo official explanation was released before the domain was restored. Silence from Telegram and the provider.",
+      "4. Your shared content was a dead end.\n\nAny link posted during that window returned an error. Readers saw a blank page instead of your message.",
+      "5. Check every active shortlink you own.\n\nIf you sent a Telegram shortlink in the last 24 hours, click it now. Does it still work?"
+    ],
+    "video_script": [
+      "Telegram shortlinks went dark for 24 hours.",
+      "A European hosting provider pulled the domain.",
+      "No reason was given before it returned.",
+      "Your shared links broke during that window.",
+      "Check your links now for dead ends."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your links just broke for 24 hours.\n\nIf you shared a Telegram shortlink yesterday, it led nowhere. The entire domain went dark with zero warning.",
+          "2. A European host pulled the plug.\n\nTelegram’s shortlink domain was suspended by its hosting provider. No court order or complaint was made public.",
+          "3. No one said why — then it came back.\n\nNo official explanation was released before the domain was restored. Silence from Telegram and the provider.",
+          "4. Your shared content was a dead end.\n\nAny link posted during that window returned an error. Readers saw a blank page instead of your message.",
+          "5. Check every active shortlink you own.\n\nIf you sent a Telegram shortlink in the last 24 hours, click it now. Does it still work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Telegram shortlinks went dark for 24 hours.",
+          "A European hosting provider pulled the domain.",
+          "No reason was given before it returned.",
+          "Your shared links broke during that window.",
+          "Check your links now for dead ends."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Telegram shortlinks led nowhere for 24 hours. 🚫\n\nA European hosting provider pulled the plug without warning. No court order or explanation was made public before the domain was restored. 📡❓\n\nEvery link shared during that window returned a blank error page instead of your content. Readers saw nothing.\n\nGo click every Telegram shortlink you posted in the last day. Does it still work now? 🔍"
+      }
+    },
+    "instagram_caption": "Your Telegram shortlinks led nowhere for 24 hours. 🚫\n\nA European hosting provider pulled the plug without warning. No court order or explanation was made public before the domain was restored. 📡❓\n\nEvery link shared during that window returned a blank error page instead of your content. Readers saw nothing.\n\nGo click every Telegram shortlink you posted in the last day. Does it still work now? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your links just vanished without warning",
+        "description": "Telegram's shortlink domain was suspended 24 hours by a European host, breaking all shared links.",
+        "visual_hint": "Broken link symbol on screen",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room racks"
+      },
+      {
+        "hook": "Who pulled the plug?",
+        "description": "A European hosting provider suspended the domain with no court order or complaint made public.",
+        "visual_hint": "European data center exterior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center building",
+        "image": "https://images.pexels.com/photos/19767935/pexels-photo-19767935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silence then sudden restoration",
+        "description": "No official reason was given before the domain came back online after 24 hours.",
+        "visual_hint": "Loading spinner on black screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop blank screen",
+        "image": "https://images.pexels.com/photos/6446674/pexels-photo-6446674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your readers saw dead ends",
+        "description": "Anyone who clicked a Telegram shortlink during that window got a blank page instead of your message.",
+        "visual_hint": "Error 404 page close-up",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "person tapping smartphone",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — check your links now",
+        "description": "Click every active Telegram shortlink you shared in the last 24 hours to confirm it works.",
+        "visual_hint": "Checkmark over list of links",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone with link list",
+        "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/01/telegram-flames-draft.jpg?resize=1200,675",
+    "savedAt": "2026-07-15T09:52:11.748Z",
+    "sourceId": "a78398d3ffd313a9e91920a9107d7ba8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "lorde-says-ai-glasses-are-not-sexy-",
     "prompt_version": "1.0.0",
     "status": "published",
