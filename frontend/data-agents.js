@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lorde-says-ai-glasses-are-not-sexy-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lorde says AI glasses are ‘not sexy’",
+      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "pubDate": "Tue, 14 Jul 2026 23:10:02 +0000",
+      "slides": [
+        "Why would Lorde call AI glasses 'not sexy'?",
+        "She rejected a brand deal worth millions.",
+        "She thinks tech is ignoring human connection.",
+        "Your next purchase might feel less personal.",
+        "Ask: does this device bring us closer or not?"
+      ],
+      "thread_text": [
+        "1. She said no to millions.\n\nLorde turned down a brand deal worth millions because the product—AI glasses—felt ‘not sexy’ to her. The offer was real, and she walked away.",
+        "2. Tech’s blind spot.\n\nThe singer argues these devices ignore what makes us human: real connection. The deal collapsed over a value gap, not a price tag.",
+        "3. The intimacy cost.\n\nWhen algorithms mediate every glance, your next purchase feels less personal. Lorde’s rejection signals a broader cultural shift around wearable tech.",
+        "4. A hidden trade-off.\n\nEach feature that automates interaction strips away a layer of spontaneity. The question isn’t whether the glasses work—it’s what they replace.",
+        "5. Does it bring you closer?\n\nBefore your next upgrade, ask yourself: does this device bring me closer to the people I care about, or just closer to a screen?"
+      ],
+      "video_script": [
+        "Lorde turned down millions for AI glasses.",
+        "She says they’re not sexy.",
+        "Tech is ignoring human connection.",
+        "Your next purchase might feel less personal.",
+        "Does this device bring us closer?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. She said no to millions.\n\nLorde turned down a brand deal worth millions because the product—AI glasses—felt ‘not sexy’ to her. The offer was real, and she walked away.",
+            "2. Tech’s blind spot.\n\nThe singer argues these devices ignore what makes us human: real connection. The deal collapsed over a value gap, not a price tag.",
+            "3. The intimacy cost.\n\nWhen algorithms mediate every glance, your next purchase feels less personal. Lorde’s rejection signals a broader cultural shift around wearable tech.",
+            "4. A hidden trade-off.\n\nEach feature that automates interaction strips away a layer of spontaneity. The question isn’t whether the glasses work—it’s what they replace.",
+            "5. Does it bring you closer?\n\nBefore your next upgrade, ask yourself: does this device bring me closer to the people I care about, or just closer to a screen?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Lorde turned down millions for AI glasses.",
+            "She says they’re not sexy.",
+            "Tech is ignoring human connection.",
+            "Your next purchase might feel less personal.",
+            "Does this device bring us closer?"
+          ]
+        },
+        "instagram": {
+          "caption": "Lorde just turned down millions because the AI glasses offered felt \"not sexy.\" 🕶️🚫\n\nShe says the tech ignores what makes us human: real connection. The deal fell apart over a values gap, not the price tag.\n\nFor anyone creating content or deciding what to buy: your next device might feel less personal if algorithms mediate every glance.\n\nDoes your next upgrade bring you closer to people—or just closer to a screen? 🤔"
+        }
+      },
+      "instagram_caption": "Lorde just turned down millions because the AI glasses offered felt \"not sexy.\" 🕶️🚫\n\nShe says the tech ignores what makes us human: real connection. The deal fell apart over a values gap, not the price tag.\n\nFor anyone creating content or deciding what to buy: your next device might feel less personal if algorithms mediate every glance.\n\nDoes your next upgrade bring you closer to people—or just closer to a screen? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "She rejected millions for what?",
+          "description": "Lorde turned down a multi-million dollar brand deal for AI glasses because she found them 'not sexy.'",
+          "visual_hint": "Hand dropping cash",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rejected money"
+        },
+        {
+          "hook": "Tech forgot human connection.",
+          "description": "The singer says AI glasses ignore real human connection, causing the deal to collapse over values.",
+          "visual_hint": "People ignoring each other",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "people ignoring each other",
+          "image": "https://images.pexels.com/photos/4670652/pexels-photo-4670652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your purchase feels less personal.",
+          "description": "When algorithms mediate every glance, wearable tech replaces spontaneity with automation, stripping intimacy.",
+          "visual_hint": "Smart glasses close up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smart glasses close",
+          "image": "https://images.pexels.com/photos/6567870/pexels-photo-6567870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Automation kills spontaneity.",
+          "description": "Each feature that automates interaction removes a layer of connection. The real cost is what they replace.",
+          "visual_hint": "Hand touching screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "touching smartphone screen",
+          "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next upgrade.",
+          "description": "Ask yourself: does this device bring me closer to people or just closer to a screen?",
+          "visual_hint": "Question mark with device",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark smartphone",
+          "image": "https://images.pexels.com/photos/12997975/pexels-photo-12997975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?resize=1200,799",
+      "savedAt": "2026-07-15T07:52:14.049Z",
+      "sourceId": "0a8a6aa50a5f18b0f3e90b4fccedcac8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-founder-of-hinge-raised-18m-to-build-a-new-ai-",
       "prompt_version": "1.0.0",
       "status": "published",
