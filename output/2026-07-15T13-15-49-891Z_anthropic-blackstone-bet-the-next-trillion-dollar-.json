@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-blackstone-bet-the-next-trillion-dollar-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+  "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+  "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
+  "slides": [
+    "Why are billionaires betting against AI model makers?",
+    "Anthropic and Blackstone just invested billions in implementation.",
+    "The real winner won't be the smartest AI, but the best user.",
+    "For you, this means less hype, sharper ROI from AI tools.",
+    "Stop chasing models. Master the workflow that uses them."
+  ],
+  "thread_text": [
+    "1. The real bet\n\nBillionaires are pouring money into AI implementation, not model makers. Blackstone and Anthropic just invested billions in deployment.",
+    "2. Why not models?\n\nSmarter AI doesn't guarantee better results. The edge comes from owning the workflow, not the algorithm.",
+    "3. The user wins\n\nThe best AI tool is worthless without a sharp user. ROI spikes when you master the interface, not the code.",
+    "4. Cut the hype\n\nForget chasing model benchmarks. The real ROI comes from integrating AI into your daily operations, not running the latest version.",
+    "5. Your move\n\nStop chasing models. Master the workflow that uses them. Take one process you hate and test it with an AI tool today."
+  ],
+  "video_script": [
+    "Billionaires bet on AI use, not models.",
+    "Smarter AI doesn't mean better results.",
+    "The best user wins, not the smartest.",
+    "Cut hype, focus on integration and ROI.",
+    "Master the workflow, stop chasing models."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real bet\n\nBillionaires are pouring money into AI implementation, not model makers. Blackstone and Anthropic just invested billions in deployment.",
+        "2. Why not models?\n\nSmarter AI doesn't guarantee better results. The edge comes from owning the workflow, not the algorithm.",
+        "3. The user wins\n\nThe best AI tool is worthless without a sharp user. ROI spikes when you master the interface, not the code.",
+        "4. Cut the hype\n\nForget chasing model benchmarks. The real ROI comes from integrating AI into your daily operations, not running the latest version.",
+        "5. Your move\n\nStop chasing models. Master the workflow that uses them. Take one process you hate and test it with an AI tool today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billionaires bet on AI use, not models.",
+        "Smarter AI doesn't mean better results.",
+        "The best user wins, not the smartest.",
+        "Cut hype, focus on integration and ROI.",
+        "Master the workflow, stop chasing models."
+      ]
+    },
+    "instagram": {
+      "caption": "Blackstone and Anthropic just poured billions into AI **implementation**—not into building smarter models.\n\n💸 They're betting that the real value isn't in who owns the smartest algorithm.  \nIt's in who owns the **workflow** that feeds the algorithm.\n\nFor you: chasing the latest model version won't move your ROI.  \nMastering how you **use** the one you already have will.\n\n📉 What's one process you'd fix if you stopped chasing upgrades for a month?"
+    }
+  },
+  "instagram_caption": "Blackstone and Anthropic just poured billions into AI **implementation**—not into building smarter models.\n\n💸 They're betting that the real value isn't in who owns the smartest algorithm.  \nIt's in who owns the **workflow** that feeds the algorithm.\n\nFor you: chasing the latest model version won't move your ROI.  \nMastering how you **use** the one you already have will.\n\n📉 What's one process you'd fix if you stopped chasing upgrades for a month?",
+  "carousel_slides": [
+    {
+      "hook": "Billionaires bet against AI models?",
+      "description": "Anthropic and Blackstone just invested billions in implementation, not makers.",
+      "visual_hint": "Silicon chip factory",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Smarter AI isn't the edge.",
+      "description": "Real advantage comes from owning the workflow, not the algorithm.",
+      "visual_hint": "Connected nodes network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The best tool needs a sharp user.",
+      "description": "ROI spikes when you master the interface, not run the latest version.",
+      "visual_hint": "Finger on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Forget model benchmarks. Focus here.",
+      "description": "Real ROI comes from integrating AI into daily operations, not chasing hype.",
+      "visual_hint": "Hand adjusting gear",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: your move matters more.",
+      "description": "Take one process you hate and test it with an AI tool today.",
+      "visual_hint": "Arrow pointing forward",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
+  "savedAt": "2026-07-15T13:16:16.684Z",
+  "sourceId": "53c42ac5532ad2e7c1f21b45751780f3"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "vint-cerf-is-working-on-a-plan-to-unleash-ai-agent",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "slides": [
+      "Vint Cerf's next project: AI agents unleashed online?",
+      "He's designing a protocol for autonomous agent communication.",
+      "No human approval needed for each agent action.",
+      "Your browser could soon host your personal agent.",
+      "Test Cerf's agent protocol with a simple script today."
+    ],
+    "thread_text": [
+      "1. Your next browser update changes everything?\n\nVint Cerf is building a protocol so AI agents act without your approval on each step.",
+      "2. No more asking for permission.\n\nThe protocol lets agents negotiate tasks among themselves, cutting out human delays entirely.",
+      "3. Your browser becomes a host.\n\nEach tab could run a personal agent that books, buys, or queries on your behalf.",
+      "4. Why Cerf? He invented TCP/IP.\n\nIf he designed the internet's backbone, this agent protocol might become the new standard.",
+      "5. Test it today.\n\nGrab a sample script from Cerf's repo and simulate two agents negotiating a purchase. No install needed."
+    ],
+    "video_script": [
+      "Vint Cerf wants AI agents to act without your approval.",
+      "No human needed for each agent action.",
+      "Your browser could host your personal agent soon.",
+      "Test his agent protocol with a simple script.",
+      "Download the script and run it now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your next browser update changes everything?\n\nVint Cerf is building a protocol so AI agents act without your approval on each step.",
+          "2. No more asking for permission.\n\nThe protocol lets agents negotiate tasks among themselves, cutting out human delays entirely.",
+          "3. Your browser becomes a host.\n\nEach tab could run a personal agent that books, buys, or queries on your behalf.",
+          "4. Why Cerf? He invented TCP/IP.\n\nIf he designed the internet's backbone, this agent protocol might become the new standard.",
+          "5. Test it today.\n\nGrab a sample script from Cerf's repo and simulate two agents negotiating a purchase. No install needed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Vint Cerf wants AI agents to act without your approval.",
+          "No human needed for each agent action.",
+          "Your browser could host your personal agent soon.",
+          "Test his agent protocol with a simple script.",
+          "Download the script and run it now."
+        ]
+      },
+      "instagram": {
+        "caption": "Vint Cerf, the co-creator of the internet, is designing a new protocol so AI agents can negotiate tasks without asking you for permission every time.\n\nNo more step-by-step approvals. Agents would talk to each other, comparing prices or checking availability, and act on your behalf directly. Your browser could host one of these agents per tab.\n\nThis shifts your role from clicking confirm to setting boundaries and letting machines execute. For anyone publishing online, your content might soon be consumed by autonomous buyers, not just humans.\n\nWould you trust an AI to book your next trip without checking in on each detail?"
+      }
+    },
+    "instagram_caption": "Vint Cerf, the co-creator of the internet, is designing a new protocol so AI agents can negotiate tasks without asking you for permission every time.\n\nNo more step-by-step approvals. Agents would talk to each other, comparing prices or checking availability, and act on your behalf directly. Your browser could host one of these agents per tab.\n\nThis shifts your role from clicking confirm to setting boundaries and letting machines execute. For anyone publishing online, your content might soon be consumed by autonomous buyers, not just humans.\n\nWould you trust an AI to book your next trip without checking in on each detail?",
+    "carousel_slides": [
+      {
+        "hook": "Your agent won't wait for you.",
+        "description": "Vint Cerf's protocol lets AI agents act without human approval, cutting out delays.",
+        "visual_hint": "glowing network nodes",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer network cables"
+      },
+      {
+        "hook": "No more clicking for permission.",
+        "description": "Agents negotiate tasks among themselves, automating bookings and purchases instantly.",
+        "visual_hint": "handshake between robots",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your browser becomes a host.",
+        "description": "Each tab could run a personal agent that acts on your behalf in real time.",
+        "visual_hint": "browser with AI icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "web browser tabs",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cerf built the internet's backbone.",
+        "description": "If his TCP/IP became the standard, this agent protocol could reshape the web.",
+        "visual_hint": "Vint Cerf portrait",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Vint Cerf portrait",
+        "image": "https://images.pexels.com/photos/13357903/pexels-photo-13357903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Cerf's protocol in 5 minutes.",
+        "description": "Grab a sample script from his repo and simulate two agents negotiating a purchase.",
+        "visual_hint": "code editor screenshot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code on screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+    "savedAt": "2026-07-15T13:16:43.767Z",
+    "sourceId": "54bdfbfdb36fb754bed37ab8d1b3bb59"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "indian-ai-coding-startup-emergent-becomes-a-unicor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "slides": [
+      "Emergent just became a unicorn—but can it sustain growth?",
+      "Its AI writes production code for global engineering teams.",
+      "Rivals burn cash; Emergent turned profit before this round.",
+      "Your team can now deploy its models without hiring specialists.",
+      "Test Emergent on one broken pipeline this week."
+    ],
+    "thread_text": [
+      "1. Could profit kill growth?\n\nEmergent hit unicorn status while already profitable—a rare feat that raises a dangerous question: what comes next?",
+      "2. AI writes production code.\n\nYour engineering team can deploy Emergent's models without hiring a single specialist. No ML background required.",
+      "3. Rivals burn cash.\n\nEmergent turned profit before this round. Its competitors are still spending billions to lose money per deployment.",
+      "4. One broken pipeline this week.\n\nTest Emergent on a single failing pipeline. If it fixes in hours, you just saved a sprint.",
+      "5. Will you test it this week?\n\nPick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on."
+    ],
+    "video_script": [
+      "Emergent just became a unicorn while profitable.",
+      "Its AI writes code for global teams.",
+      "No specialist hiring needed to deploy.",
+      "Rivals burn cash; Emergent turned profit.",
+      "Test on one broken pipeline this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Could profit kill growth?\n\nEmergent hit unicorn status while already profitable—a rare feat that raises a dangerous question: what comes next?",
+          "2. AI writes production code.\n\nYour engineering team can deploy Emergent's models without hiring a single specialist. No ML background required.",
+          "3. Rivals burn cash.\n\nEmergent turned profit before this round. Its competitors are still spending billions to lose money per deployment.",
+          "4. One broken pipeline this week.\n\nTest Emergent on a single failing pipeline. If it fixes in hours, you just saved a sprint.",
+          "5. Will you test it this week?\n\nPick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Emergent just became a unicorn while profitable.",
+          "Its AI writes code for global teams.",
+          "No specialist hiring needed to deploy.",
+          "Rivals burn cash; Emergent turned profit.",
+          "Test on one broken pipeline this week."
+        ]
+      },
+      "instagram": {
+        "caption": "An Indian startup just hit a billion-dollar valuation while already turning a profit. Most rivals are still burning cash on every deployment.\n\nIts AI writes real production code for global engineering teams. You can run it without hiring a single ML specialist.\n\nYour team can test it on one broken pipeline this week. If it fixes in hours, you just saved an entire sprint 💻\n\nWill you test it by Friday? 🚀"
+      }
+    },
+    "instagram_caption": "An Indian startup just hit a billion-dollar valuation while already turning a profit. Most rivals are still burning cash on every deployment.\n\nIts AI writes real production code for global engineering teams. You can run it without hiring a single ML specialist.\n\nYour team can test it on one broken pipeline this week. If it fixes in hours, you just saved an entire sprint 💻\n\nWill you test it by Friday? 🚀",
+    "carousel_slides": [
+      {
+        "hook": "Profitable unicorn—dangerous or genius?",
+        "description": "Emergent hit unicorn status while already profitable, a rare feat that questions if growth can continue.",
+        "visual_hint": "unicorn silhouette rocket chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "unicorn statue money"
+      },
+      {
+        "hook": "Your team needs zero ML experts.",
+        "description": "Deploy Emergent's AI models to write production code without hiring a single specialist. No ML background required.",
+        "visual_hint": "developer laptop code screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop code terminal",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals burn billions; Emergent profits.",
+        "description": "Competitors lose money per deployment, but Emergent turned profit before this funding round. Efficiency wins.",
+        "visual_hint": "burning money pile graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fix one pipeline this week.",
+        "description": "Test Emergent on a single failing pipeline. If it fixes in hours, you just saved an entire sprint.",
+        "visual_hint": "pipeline with red broken line",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory pipeline machine",
+        "image": "https://images.pexels.com/photos/17232659/pexels-photo-17232659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test later.",
+        "description": "Pick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on.",
+        "visual_hint": "checkmark and phone link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone save icon",
+        "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+    "savedAt": "2026-07-15T13:16:29.950Z",
+    "sourceId": "886fc360d03181fdf6ca121ff6ca363b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-blackstone-bet-the-next-trillion-dollar-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
+    "slides": [
+      "Why are billionaires betting against AI model makers?",
+      "Anthropic and Blackstone just invested billions in implementation.",
+      "The real winner won't be the smartest AI, but the best user.",
+      "For you, this means less hype, sharper ROI from AI tools.",
+      "Stop chasing models. Master the workflow that uses them."
+    ],
+    "thread_text": [
+      "1. The real bet\n\nBillionaires are pouring money into AI implementation, not model makers. Blackstone and Anthropic just invested billions in deployment.",
+      "2. Why not models?\n\nSmarter AI doesn't guarantee better results. The edge comes from owning the workflow, not the algorithm.",
+      "3. The user wins\n\nThe best AI tool is worthless without a sharp user. ROI spikes when you master the interface, not the code.",
+      "4. Cut the hype\n\nForget chasing model benchmarks. The real ROI comes from integrating AI into your daily operations, not running the latest version.",
+      "5. Your move\n\nStop chasing models. Master the workflow that uses them. Take one process you hate and test it with an AI tool today."
+    ],
+    "video_script": [
+      "Billionaires bet on AI use, not models.",
+      "Smarter AI doesn't mean better results.",
+      "The best user wins, not the smartest.",
+      "Cut hype, focus on integration and ROI.",
+      "Master the workflow, stop chasing models."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real bet\n\nBillionaires are pouring money into AI implementation, not model makers. Blackstone and Anthropic just invested billions in deployment.",
+          "2. Why not models?\n\nSmarter AI doesn't guarantee better results. The edge comes from owning the workflow, not the algorithm.",
+          "3. The user wins\n\nThe best AI tool is worthless without a sharp user. ROI spikes when you master the interface, not the code.",
+          "4. Cut the hype\n\nForget chasing model benchmarks. The real ROI comes from integrating AI into your daily operations, not running the latest version.",
+          "5. Your move\n\nStop chasing models. Master the workflow that uses them. Take one process you hate and test it with an AI tool today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Billionaires bet on AI use, not models.",
+          "Smarter AI doesn't mean better results.",
+          "The best user wins, not the smartest.",
+          "Cut hype, focus on integration and ROI.",
+          "Master the workflow, stop chasing models."
+        ]
+      },
+      "instagram": {
+        "caption": "Blackstone and Anthropic just poured billions into AI **implementation**—not into building smarter models.\n\n💸 They're betting that the real value isn't in who owns the smartest algorithm.  \nIt's in who owns the **workflow** that feeds the algorithm.\n\nFor you: chasing the latest model version won't move your ROI.  \nMastering how you **use** the one you already have will.\n\n📉 What's one process you'd fix if you stopped chasing upgrades for a month?"
+      }
+    },
+    "instagram_caption": "Blackstone and Anthropic just poured billions into AI **implementation**—not into building smarter models.\n\n💸 They're betting that the real value isn't in who owns the smartest algorithm.  \nIt's in who owns the **workflow** that feeds the algorithm.\n\nFor you: chasing the latest model version won't move your ROI.  \nMastering how you **use** the one you already have will.\n\n📉 What's one process you'd fix if you stopped chasing upgrades for a month?",
+    "carousel_slides": [
+      {
+        "hook": "Billionaires bet against AI models?",
+        "description": "Anthropic and Blackstone just invested billions in implementation, not makers.",
+        "visual_hint": "Silicon chip factory",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Smarter AI isn't the edge.",
+        "description": "Real advantage comes from owning the workflow, not the algorithm.",
+        "visual_hint": "Connected nodes network",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The best tool needs a sharp user.",
+        "description": "ROI spikes when you master the interface, not run the latest version.",
+        "visual_hint": "Finger on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Forget model benchmarks. Focus here.",
+        "description": "Real ROI comes from integrating AI into daily operations, not chasing hype.",
+        "visual_hint": "Hand adjusting gear",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: your move matters more.",
+        "description": "Take one process you hate and test it with an AI tool today.",
+        "visual_hint": "Arrow pointing forward",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
+    "savedAt": "2026-07-15T13:16:16.684Z",
+    "sourceId": "53c42ac5532ad2e7c1f21b45751780f3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nokia-s-ai-ran-platform-a-radio-comeback-that-runs",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+    "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+    "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
+    "slides": [
+      "Can Nokia's radio comeback run on Nvidia chips?",
+      "It merges AI and RAN into a single platform.",
+      "But this time Nokia undercuts traditional baseband costs.",
+      "Your network can now train models while transmitting data.",
+      "Test one AI radio slice before committing to full rollout."
+    ],
+    "thread_text": [
+      "1. Can Nokia outflank rivals?\n\nNokia is building a radio platform that merges AI with RAN, undercutting traditional baseband costs for the first time.",
+      "2. Train models while transmitting.\n\nYour network can now run AI training directly on live data without compromising throughput or latency.",
+      "3. One slice, zero commitment.\n\nTest a single AI radio slice before rolling out to your full infrastructure — no need to bet the whole network.",
+      "4. Nvidia chips power the brain.\n\nThe platform runs on Nvidia silicon, giving Nokia a performance edge over existing baseband architectures.",
+      "5. Ready to try an AI slice?\n\nPick one cell in your existing network, deploy the test slice, and measure throughput vs. cost. What’s stopping you?"
+    ],
+    "video_script": [
+      "Nokia merges AI with radio access.",
+      "Train models while transmitting live data.",
+      "Test one slice before full rollout.",
+      "Nvidia chips undercut traditional baseband costs.",
+      "Deploy a test slice in your network today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Nokia outflank rivals?\n\nNokia is building a radio platform that merges AI with RAN, undercutting traditional baseband costs for the first time.",
+          "2. Train models while transmitting.\n\nYour network can now run AI training directly on live data without compromising throughput or latency.",
+          "3. One slice, zero commitment.\n\nTest a single AI radio slice before rolling out to your full infrastructure — no need to bet the whole network.",
+          "4. Nvidia chips power the brain.\n\nThe platform runs on Nvidia silicon, giving Nokia a performance edge over existing baseband architectures.",
+          "5. Ready to try an AI slice?\n\nPick one cell in your existing network, deploy the test slice, and measure throughput vs. cost. What’s stopping you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nokia merges AI with radio access.",
+          "Train models while transmitting live data.",
+          "Test one slice before full rollout.",
+          "Nvidia chips undercut traditional baseband costs.",
+          "Deploy a test slice in your network today."
+        ]
+      },
+      "instagram": {
+        "caption": "Nokia's new radio platform runs on Nvidia chips and lets your network train AI models while transmitting live data—no performance hit required ⚡\n\nThe platform merges AI with radio access, undercutting traditional baseband costs for the first time. You test one AI radio slice before committing to a full rollout. Nvidia silicon gives Nokia a performance edge over existing architectures.\n\nFor operators: deploy a test slice on one existing cell, measure throughput vs. cost, and decide without betting your whole network.\n\nPick one cell today—what's stopping you from trying that first AI slice? 🤔📡"
+      }
+    },
+    "instagram_caption": "Nokia's new radio platform runs on Nvidia chips and lets your network train AI models while transmitting live data—no performance hit required ⚡\n\nThe platform merges AI with radio access, undercutting traditional baseband costs for the first time. You test one AI radio slice before committing to a full rollout. Nvidia silicon gives Nokia a performance edge over existing architectures.\n\nFor operators: deploy a test slice on one existing cell, measure throughput vs. cost, and decide without betting your whole network.\n\nPick one cell today—what's stopping you from trying that first AI slice? 🤔📡",
+    "carousel_slides": [
+      {
+        "hook": "Nokia undercuts baseband costs.",
+        "description": "First time Nokia merges AI with RAN, slashing traditional baseband costs significantly.",
+        "visual_hint": "Nokia radio tower sunset",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Nokia cell tower"
+      },
+      {
+        "hook": "Train AI on live data.",
+        "description": "Your network runs AI training on live data without harming throughput or latency.",
+        "visual_hint": "Data flow diagram",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one slice, zero risk.",
+        "description": "Deploy a single AI radio slice before full rollout — no need to bet the whole network.",
+        "visual_hint": "Network slice interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network switch",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "NVIDIA chips power the brain.",
+        "description": "Platform runs on NVIDIA silicon, giving a performance edge over existing baseband architectures.",
+        "visual_hint": "NVIDIA chip close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "NVIDIA GPU",
+        "image": "https://images.pexels.com/photos/35569900/pexels-photo-35569900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for later.",
+        "description": "Pick one cell, deploy the test slice, and measure throughput vs. cost today.",
+        "visual_hint": "Phone with save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/6778067/pexels-photo-6778067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-15T13:16:04.152Z",
+    "sourceId": "da7c4a587f09a76402e22fd729b9cb1a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "a-spacex-vet-raised-65m-to-pull-wire-harnesses-out",
     "prompt_version": "1.0.0",
     "status": "published",

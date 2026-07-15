@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "indian-ai-coding-startup-emergent-becomes-a-unicor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+  "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+  "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+  "slides": [
+    "Emergent just became a unicorn—but can it sustain growth?",
+    "Its AI writes production code for global engineering teams.",
+    "Rivals burn cash; Emergent turned profit before this round.",
+    "Your team can now deploy its models without hiring specialists.",
+    "Test Emergent on one broken pipeline this week."
+  ],
+  "thread_text": [
+    "1. Could profit kill growth?\n\nEmergent hit unicorn status while already profitable—a rare feat that raises a dangerous question: what comes next?",
+    "2. AI writes production code.\n\nYour engineering team can deploy Emergent's models without hiring a single specialist. No ML background required.",
+    "3. Rivals burn cash.\n\nEmergent turned profit before this round. Its competitors are still spending billions to lose money per deployment.",
+    "4. One broken pipeline this week.\n\nTest Emergent on a single failing pipeline. If it fixes in hours, you just saved a sprint.",
+    "5. Will you test it this week?\n\nPick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on."
+  ],
+  "video_script": [
+    "Emergent just became a unicorn while profitable.",
+    "Its AI writes code for global teams.",
+    "No specialist hiring needed to deploy.",
+    "Rivals burn cash; Emergent turned profit.",
+    "Test on one broken pipeline this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Could profit kill growth?\n\nEmergent hit unicorn status while already profitable—a rare feat that raises a dangerous question: what comes next?",
+        "2. AI writes production code.\n\nYour engineering team can deploy Emergent's models without hiring a single specialist. No ML background required.",
+        "3. Rivals burn cash.\n\nEmergent turned profit before this round. Its competitors are still spending billions to lose money per deployment.",
+        "4. One broken pipeline this week.\n\nTest Emergent on a single failing pipeline. If it fixes in hours, you just saved a sprint.",
+        "5. Will you test it this week?\n\nPick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Emergent just became a unicorn while profitable.",
+        "Its AI writes code for global teams.",
+        "No specialist hiring needed to deploy.",
+        "Rivals burn cash; Emergent turned profit.",
+        "Test on one broken pipeline this week."
+      ]
+    },
+    "instagram": {
+      "caption": "An Indian startup just hit a billion-dollar valuation while already turning a profit. Most rivals are still burning cash on every deployment.\n\nIts AI writes real production code for global engineering teams. You can run it without hiring a single ML specialist.\n\nYour team can test it on one broken pipeline this week. If it fixes in hours, you just saved an entire sprint 💻\n\nWill you test it by Friday? 🚀"
+    }
+  },
+  "instagram_caption": "An Indian startup just hit a billion-dollar valuation while already turning a profit. Most rivals are still burning cash on every deployment.\n\nIts AI writes real production code for global engineering teams. You can run it without hiring a single ML specialist.\n\nYour team can test it on one broken pipeline this week. If it fixes in hours, you just saved an entire sprint 💻\n\nWill you test it by Friday? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Profitable unicorn—dangerous or genius?",
+      "description": "Emergent hit unicorn status while already profitable, a rare feat that questions if growth can continue.",
+      "visual_hint": "unicorn silhouette rocket chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "unicorn statue money"
+    },
+    {
+      "hook": "Your team needs zero ML experts.",
+      "description": "Deploy Emergent's AI models to write production code without hiring a single specialist. No ML background required.",
+      "visual_hint": "developer laptop code screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop code terminal",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals burn billions; Emergent profits.",
+      "description": "Competitors lose money per deployment, but Emergent turned profit before this funding round. Efficiency wins.",
+      "visual_hint": "burning money pile graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fix one pipeline this week.",
+      "description": "Test Emergent on a single failing pipeline. If it fixes in hours, you just saved an entire sprint.",
+      "visual_hint": "pipeline with red broken line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory pipeline machine",
+      "image": "https://images.pexels.com/photos/17232659/pexels-photo-17232659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test later.",
+      "description": "Pick one pipeline that failed yesterday. Run Emergent on it. If it works, deploy. If not, move on.",
+      "visual_hint": "checkmark and phone link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone save icon",
+      "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+  "savedAt": "2026-07-15T13:16:29.950Z",
+  "sourceId": "886fc360d03181fdf6ca121ff6ca363b"
+}

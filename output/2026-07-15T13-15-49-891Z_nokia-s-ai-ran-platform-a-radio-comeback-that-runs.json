@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nokia-s-ai-ran-platform-a-radio-comeback-that-runs",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+  "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+  "pubDate": "Wed, 15 Jul 2026 08:30:00 +0000",
+  "slides": [
+    "Can Nokia's radio comeback run on Nvidia chips?",
+    "It merges AI and RAN into a single platform.",
+    "But this time Nokia undercuts traditional baseband costs.",
+    "Your network can now train models while transmitting data.",
+    "Test one AI radio slice before committing to full rollout."
+  ],
+  "thread_text": [
+    "1. Can Nokia outflank rivals?\n\nNokia is building a radio platform that merges AI with RAN, undercutting traditional baseband costs for the first time.",
+    "2. Train models while transmitting.\n\nYour network can now run AI training directly on live data without compromising throughput or latency.",
+    "3. One slice, zero commitment.\n\nTest a single AI radio slice before rolling out to your full infrastructure — no need to bet the whole network.",
+    "4. Nvidia chips power the brain.\n\nThe platform runs on Nvidia silicon, giving Nokia a performance edge over existing baseband architectures.",
+    "5. Ready to try an AI slice?\n\nPick one cell in your existing network, deploy the test slice, and measure throughput vs. cost. What’s stopping you?"
+  ],
+  "video_script": [
+    "Nokia merges AI with radio access.",
+    "Train models while transmitting live data.",
+    "Test one slice before full rollout.",
+    "Nvidia chips undercut traditional baseband costs.",
+    "Deploy a test slice in your network today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Nokia outflank rivals?\n\nNokia is building a radio platform that merges AI with RAN, undercutting traditional baseband costs for the first time.",
+        "2. Train models while transmitting.\n\nYour network can now run AI training directly on live data without compromising throughput or latency.",
+        "3. One slice, zero commitment.\n\nTest a single AI radio slice before rolling out to your full infrastructure — no need to bet the whole network.",
+        "4. Nvidia chips power the brain.\n\nThe platform runs on Nvidia silicon, giving Nokia a performance edge over existing baseband architectures.",
+        "5. Ready to try an AI slice?\n\nPick one cell in your existing network, deploy the test slice, and measure throughput vs. cost. What’s stopping you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nokia merges AI with radio access.",
+        "Train models while transmitting live data.",
+        "Test one slice before full rollout.",
+        "Nvidia chips undercut traditional baseband costs.",
+        "Deploy a test slice in your network today."
+      ]
+    },
+    "instagram": {
+      "caption": "Nokia's new radio platform runs on Nvidia chips and lets your network train AI models while transmitting live data—no performance hit required ⚡\n\nThe platform merges AI with radio access, undercutting traditional baseband costs for the first time. You test one AI radio slice before committing to a full rollout. Nvidia silicon gives Nokia a performance edge over existing architectures.\n\nFor operators: deploy a test slice on one existing cell, measure throughput vs. cost, and decide without betting your whole network.\n\nPick one cell today—what's stopping you from trying that first AI slice? 🤔📡"
+    }
+  },
+  "instagram_caption": "Nokia's new radio platform runs on Nvidia chips and lets your network train AI models while transmitting live data—no performance hit required ⚡\n\nThe platform merges AI with radio access, undercutting traditional baseband costs for the first time. You test one AI radio slice before committing to a full rollout. Nvidia silicon gives Nokia a performance edge over existing architectures.\n\nFor operators: deploy a test slice on one existing cell, measure throughput vs. cost, and decide without betting your whole network.\n\nPick one cell today—what's stopping you from trying that first AI slice? 🤔📡",
+  "carousel_slides": [
+    {
+      "hook": "Nokia undercuts baseband costs.",
+      "description": "First time Nokia merges AI with RAN, slashing traditional baseband costs significantly.",
+      "visual_hint": "Nokia radio tower sunset",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nokia cell tower"
+    },
+    {
+      "hook": "Train AI on live data.",
+      "description": "Your network runs AI training on live data without harming throughput or latency.",
+      "visual_hint": "Data flow diagram",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one slice, zero risk.",
+      "description": "Deploy a single AI radio slice before full rollout — no need to bet the whole network.",
+      "visual_hint": "Network slice interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network switch",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "NVIDIA chips power the brain.",
+      "description": "Platform runs on NVIDIA silicon, giving a performance edge over existing baseband architectures.",
+      "visual_hint": "NVIDIA chip close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "NVIDIA GPU",
+      "image": "https://images.pexels.com/photos/35569900/pexels-photo-35569900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later.",
+      "description": "Pick one cell, deploy the test slice, and measure throughput vs. cost today.",
+      "visual_hint": "Phone with save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/6778067/pexels-photo-6778067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-15T13:16:04.152Z",
+  "sourceId": "da7c4a587f09a76402e22fd729b9cb1a"
+}
