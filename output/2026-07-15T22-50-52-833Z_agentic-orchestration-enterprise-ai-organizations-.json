@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "agentic-orchestration-enterprise-ai-organizations-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+  "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+  "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
+  "slides": [
+    "Is your AI stuck as a chatbot?",
+    "Most enterprises deploy chatbots, not true agents.",
+    "Real agents execute actions autonomously across systems.",
+    "Stop calling chatbots agents—start testing autonomous workflows.",
+    "Pick one repetitive task and let an agent run it today."
+  ],
+  "thread_text": [
+    "Your chatbot is lying to you.\n\nMost enterprise \"agents\" are just chatbots with a fresh coat of paint—they can't act, only reply. That gap costs companies millions in unmet automation promises.",
+    "What can your agent actually do?\n\nA true agent doesn't just talk—it executes. It can reset passwords, update CRM records, or trigger refunds, all without a human clicking confirm.",
+    "The industry swapped ambition for buzzwords.\n\nVendors rebranded scripts, FAQs, and flowcharts as \"AI agents\" to close deals. Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+    "One test reveals the difference.\n\nPick a workflow that touches two systems (e.g., Shopify + Slack). Ask a chatbot to run it autonomously. It will either stop at the first API call or hallucinate a success.",
+    "Run one live test this afternoon.\n\nTake a single repetitive task—like refunding cancelled orders under $50—and let an agent handle it without oversight. What breaks first will tell you more than a demo ever could."
+  ],
+  "video_script": [
+    "Most agents are just chatbots in disguise.",
+    "Real agents act across systems without help.",
+    "Vendors rebranded FAQs as agents to sell.",
+    "One test shows the gap immediately.",
+    "Run one live task this afternoon."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your chatbot is lying to you.\n\nMost enterprise \"agents\" are just chatbots with a fresh coat of paint—they can't act, only reply. That gap costs companies millions in unmet automation promises.",
+        "What can your agent actually do?\n\nA true agent doesn't just talk—it executes. It can reset passwords, update CRM records, or trigger refunds, all without a human clicking confirm.",
+        "The industry swapped ambition for buzzwords.\n\nVendors rebranded scripts, FAQs, and flowcharts as \"AI agents\" to close deals. Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+        "One test reveals the difference.\n\nPick a workflow that touches two systems (e.g., Shopify + Slack). Ask a chatbot to run it autonomously. It will either stop at the first API call or hallucinate a success.",
+        "Run one live test this afternoon.\n\nTake a single repetitive task—like refunding cancelled orders under $50—and let an agent handle it without oversight. What breaks first will tell you more than a demo ever could."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Most agents are just chatbots in disguise.",
+        "Real agents act across systems without help.",
+        "Vendors rebranded FAQs as agents to sell.",
+        "One test shows the gap immediately.",
+        "Run one live task this afternoon."
+      ]
+    },
+    "instagram": {
+      "caption": "Your enterprise \"AI agent\" is probably just a chatbot dressed up with buzzwords. Most can't execute a single action across systems.  \n\nThe article calls this a deployment problem, not a platform one—companies chase shiny tools while their supposed agents can't reset a password or trigger a refund.  \n\nReal agents run autonomous workflows without a human clicking \"confirm.\" Yours? It likely hallucinates a success and stops at the first API call.  \n\nPick one repetitive task today—like refunding orders under $50—and let your system run it without oversight. ⚙️ What breaks first will teach you more than any demo ever could 🔍"
+    }
+  },
+  "instagram_caption": "Your enterprise \"AI agent\" is probably just a chatbot dressed up with buzzwords. Most can't execute a single action across systems.  \n\nThe article calls this a deployment problem, not a platform one—companies chase shiny tools while their supposed agents can't reset a password or trigger a refund.  \n\nReal agents run autonomous workflows without a human clicking \"confirm.\" Yours? It likely hallucinates a success and stops at the first API call.  \n\nPick one repetitive task today—like refunding orders under $50—and let your system run it without oversight. ⚙️ What breaks first will teach you more than any demo ever could 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your chatbot is lying to you.",
+      "description": "Most enterprise agents are chatbots with a fresh coat of paint, unable to act—costing millions in unmet automation promises.",
+      "visual_hint": "chatbot lying, broken promise",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chatbot interface error"
+    },
+    {
+      "hook": "What can your agent actually do?",
+      "description": "A true agent resets passwords, updates CRM, or triggers refunds autonomously—without a human clicking confirm.",
+      "visual_hint": "agent executing actions, systems",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room blinking lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vendors rebranded scripts as agents.",
+      "description": "Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+      "visual_hint": "rebranded script, fake agent",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart decline",
+      "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One test reveals the difference.",
+      "description": "Ask a chatbot to run a workflow across two systems autonomously—it will stop at the first API call or hallucinate success.",
+      "visual_hint": "test workflow, api call failure",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot automation arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your agent today.",
+      "description": "Pick one repetitive task like refunding cancelled orders under $50 and let an agent run it without oversight.",
+      "visual_hint": "test agent, refund task example",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers meeting desk",
+      "image": "https://images.pexels.com/photos/8465065/pexels-photo-8465065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-15T22:51:34.648Z",
+  "sourceId": "dc315898b2db3efaadf79736a5d7ea29"
+}

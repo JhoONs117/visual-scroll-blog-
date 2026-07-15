@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "agentic-orchestration-enterprise-ai-organizations-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "slides": [
+        "Is your AI stuck as a chatbot?",
+        "Most enterprises deploy chatbots, not true agents.",
+        "Real agents execute actions autonomously across systems.",
+        "Stop calling chatbots agents—start testing autonomous workflows.",
+        "Pick one repetitive task and let an agent run it today."
+      ],
+      "thread_text": [
+        "Your chatbot is lying to you.\n\nMost enterprise \"agents\" are just chatbots with a fresh coat of paint—they can't act, only reply. That gap costs companies millions in unmet automation promises.",
+        "What can your agent actually do?\n\nA true agent doesn't just talk—it executes. It can reset passwords, update CRM records, or trigger refunds, all without a human clicking confirm.",
+        "The industry swapped ambition for buzzwords.\n\nVendors rebranded scripts, FAQs, and flowcharts as \"AI agents\" to close deals. Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+        "One test reveals the difference.\n\nPick a workflow that touches two systems (e.g., Shopify + Slack). Ask a chatbot to run it autonomously. It will either stop at the first API call or hallucinate a success.",
+        "Run one live test this afternoon.\n\nTake a single repetitive task—like refunding cancelled orders under $50—and let an agent handle it without oversight. What breaks first will tell you more than a demo ever could."
+      ],
+      "video_script": [
+        "Most agents are just chatbots in disguise.",
+        "Real agents act across systems without help.",
+        "Vendors rebranded FAQs as agents to sell.",
+        "One test shows the gap immediately.",
+        "Run one live task this afternoon."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Your chatbot is lying to you.\n\nMost enterprise \"agents\" are just chatbots with a fresh coat of paint—they can't act, only reply. That gap costs companies millions in unmet automation promises.",
+            "What can your agent actually do?\n\nA true agent doesn't just talk—it executes. It can reset passwords, update CRM records, or trigger refunds, all without a human clicking confirm.",
+            "The industry swapped ambition for buzzwords.\n\nVendors rebranded scripts, FAQs, and flowcharts as \"AI agents\" to close deals. Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+            "One test reveals the difference.\n\nPick a workflow that touches two systems (e.g., Shopify + Slack). Ask a chatbot to run it autonomously. It will either stop at the first API call or hallucinate a success.",
+            "Run one live test this afternoon.\n\nTake a single repetitive task—like refunding cancelled orders under $50—and let an agent handle it without oversight. What breaks first will tell you more than a demo ever could."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Most agents are just chatbots in disguise.",
+            "Real agents act across systems without help.",
+            "Vendors rebranded FAQs as agents to sell.",
+            "One test shows the gap immediately.",
+            "Run one live task this afternoon."
+          ]
+        },
+        "instagram": {
+          "caption": "Your enterprise \"AI agent\" is probably just a chatbot dressed up with buzzwords. Most can't execute a single action across systems.  \n\nThe article calls this a deployment problem, not a platform one—companies chase shiny tools while their supposed agents can't reset a password or trigger a refund.  \n\nReal agents run autonomous workflows without a human clicking \"confirm.\" Yours? It likely hallucinates a success and stops at the first API call.  \n\nPick one repetitive task today—like refunding orders under $50—and let your system run it without oversight. ⚙️ What breaks first will teach you more than any demo ever could 🔍"
+        }
+      },
+      "instagram_caption": "Your enterprise \"AI agent\" is probably just a chatbot dressed up with buzzwords. Most can't execute a single action across systems.  \n\nThe article calls this a deployment problem, not a platform one—companies chase shiny tools while their supposed agents can't reset a password or trigger a refund.  \n\nReal agents run autonomous workflows without a human clicking \"confirm.\" Yours? It likely hallucinates a success and stops at the first API call.  \n\nPick one repetitive task today—like refunding orders under $50—and let your system run it without oversight. ⚙️ What breaks first will teach you more than any demo ever could 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your chatbot is lying to you.",
+          "description": "Most enterprise agents are chatbots with a fresh coat of paint, unable to act—costing millions in unmet automation promises.",
+          "visual_hint": "chatbot lying, broken promise",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chatbot interface error"
+        },
+        {
+          "hook": "What can your agent actually do?",
+          "description": "A true agent resets passwords, updates CRM, or triggers refunds autonomously—without a human clicking confirm.",
+          "visual_hint": "agent executing actions, systems",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room blinking lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vendors rebranded scripts as agents.",
+          "description": "Real agents require system access, fail tolerance, and multi-step reasoning—none of which ship in a chat plugin.",
+          "visual_hint": "rebranded script, fake agent",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart decline",
+          "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One test reveals the difference.",
+          "description": "Ask a chatbot to run a workflow across two systems autonomously—it will stop at the first API call or hallucinate success.",
+          "visual_hint": "test workflow, api call failure",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot automation arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your agent today.",
+          "description": "Pick one repetitive task like refunding cancelled orders under $50 and let an agent run it without oversight.",
+          "visual_hint": "test agent, refund task example",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers meeting desk",
+          "image": "https://images.pexels.com/photos/8465065/pexels-photo-8465065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-15T22:51:34.648Z",
+      "sourceId": "dc315898b2db3efaadf79736a5d7ea29"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "xai-sues-a-man-for-using-grok-to-generate-csam-821",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "pubDate": "2026-07-15T21:33:20.000Z",
+      "slides": [
+        "xAI sues one man. Why only him?",
+        "He used Grok to create fake child abuse images.",
+        "The AI itself warned no. He ignored it.",
+        "Now tech firms may monitor all your prompts.",
+        "Check your company’s AI use policy today."
+      ],
+      "thread_text": [
+        "1. Why only one man?\n\nxAI is suing a single individual for creating fake child abuse images with Grok. The lawsuit targets him personally, not a group.",
+        "2. The AI said no.\n\nGrok itself blocked the prompts and warned this user. He overrode those safeguards to generate the illegal content.",
+        "3. Now your prompts are at risk.\n\nTech firms may start monitoring every prompt you type to prevent misuse. Privacy could become a casualty of this case.",
+        "4. The precedent is dangerous.\n\nIf this lawsuit succeeds, companies might hold users liable for ignoring AI warnings. That shifts responsibility—and risk—onto you.",
+        "5. Check your AI use policy today.\n\nOpen your company’s AI policy and look for the section on prohibited prompts. If it’s vague, ask for clarification this week."
+      ],
+      "video_script": [
+        "xAI sues one man for fake images.",
+        "Grok warned him. He ignored it.",
+        "Now firms may watch all prompts.",
+        "Your AI use could be monitored.",
+        "Review your company policy now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why only one man?\n\nxAI is suing a single individual for creating fake child abuse images with Grok. The lawsuit targets him personally, not a group.",
+            "2. The AI said no.\n\nGrok itself blocked the prompts and warned this user. He overrode those safeguards to generate the illegal content.",
+            "3. Now your prompts are at risk.\n\nTech firms may start monitoring every prompt you type to prevent misuse. Privacy could become a casualty of this case.",
+            "4. The precedent is dangerous.\n\nIf this lawsuit succeeds, companies might hold users liable for ignoring AI warnings. That shifts responsibility—and risk—onto you.",
+            "5. Check your AI use policy today.\n\nOpen your company’s AI policy and look for the section on prohibited prompts. If it’s vague, ask for clarification this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "xAI sues one man for fake images.",
+            "Grok warned him. He ignored it.",
+            "Now firms may watch all prompts.",
+            "Your AI use could be monitored.",
+            "Review your company policy now."
+          ]
+        },
+        "instagram": {
+          "caption": "One man ignored a direct warning from the Grok AI system and created fake child abuse images. Now xAI is suing him personally, not a tech loophole.\n\nThe AI blocked his prompts and said no. He bypassed those safeguards anyway. That single action could now set a precedent for monitoring every prompt you type ⚖️\n\nIf this case succeeds, companies may track all user prompts to prevent misuse—your privacy becomes the trade-off.\n\nWhat’s in your company’s policy on prohibited prompts? If it’s vague, ask for specifics this week."
+        }
+      },
+      "instagram_caption": "One man ignored a direct warning from the Grok AI system and created fake child abuse images. Now xAI is suing him personally, not a tech loophole.\n\nThe AI blocked his prompts and said no. He bypassed those safeguards anyway. That single action could now set a precedent for monitoring every prompt you type ⚖️\n\nIf this case succeeds, companies may track all user prompts to prevent misuse—your privacy becomes the trade-off.\n\nWhat’s in your company’s policy on prohibited prompts? If it’s vague, ask for specifics this week.",
+      "carousel_slides": [
+        {
+          "hook": "Your prompts may be monitored next.",
+          "description": "xAI sues a man for overriding Grok's safety warnings to create fake CSAM, setting a privacy precedent.",
+          "visual_hint": "server room with warning signs",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room warning"
+        },
+        {
+          "hook": "He ignored AI's refusal.",
+          "description": "Grok blocked the user's attempt, but he overrode safeguards to generate illegal deepfake images.",
+          "visual_hint": "red warning screen closeup",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "red warning screen",
+          "image": "https://images.pexels.com/photos/4108203/pexels-photo-4108203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Now tech firms may track every prompt.",
+          "description": "This lawsuit could push companies to monitor all user inputs, risking your privacy in the process.",
+          "visual_hint": "magnifying glass over text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass text",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Liability shifts to you.",
+          "description": "If the case succeeds, companies may hold users legally responsible for ignoring AI safety warnings.",
+          "visual_hint": "gavel hitting block",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gavel court",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI policy now.",
+          "description": "Open your company's AI use policy today, find the prohibited prompts section, and ask for clarifications.",
+          "visual_hint": "document with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "policy document pen",
+          "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-15T22:51:19.110Z",
+      "sourceId": "9b81d6e21d71821521d901bdf98af7a6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "inside-ode-with-anthropic-the-startup-betting-ai-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "slides": [
+        "Ode bets AI services will beat custom models—but how?",
+        "Anthropic's Claude powers Ode's enterprise workflows now.",
+        "Most firms fail aligning AI with actual business processes.",
+        "Ode deploys Claude to automate tasks, not just chat.",
+        "Try one workflow this week—see if your ops shift."
+      ],
+      "thread_text": [
+        "Ode bets against custom AI.\n\nClaude already runs enterprise workflows at Ode, replacing bespoke models.",
+        "Most firms fail here.\n\nAligning AI with actual business processes trips up 90% of deployments.",
+        "Claude automates tasks.\n\nOde uses it for real operations, not just chat interfaces.",
+        "The twist: it works.\n\nOne workflow per week can shift your entire operations stack.",
+        "Try one workflow this week.\n\nPick a recurring task, feed it to Claude, and see if your ops shift."
+      ],
+      "video_script": [
+        "Ode bets Claude beats custom models.",
+        "Most companies fail aligning AI with processes.",
+        "Claude automates real tasks now.",
+        "One workflow per week shifts operations.",
+        "Try one workflow this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Ode bets against custom AI.\n\nClaude already runs enterprise workflows at Ode, replacing bespoke models.",
+            "Most firms fail here.\n\nAligning AI with actual business processes trips up 90% of deployments.",
+            "Claude automates tasks.\n\nOde uses it for real operations, not just chat interfaces.",
+            "The twist: it works.\n\nOne workflow per week can shift your entire operations stack.",
+            "Try one workflow this week.\n\nPick a recurring task, feed it to Claude, and see if your ops shift."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ode bets Claude beats custom models.",
+            "Most companies fail aligning AI with processes.",
+            "Claude automates real tasks now.",
+            "One workflow per week shifts operations.",
+            "Try one workflow this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Most AI projects fail because they never leave the chat window — Ode’s entire business model skips that step.\n\nThey're using Anthropic's Claude to automate actual enterprise workflows, not just answer questions. The startup bets that AI services will beat custom-built models for real operations.\n\n90% of companies fail at aligning AI with business processes. Ode is betting the trick is to feed Claude a recurring task, not build a whole new model.\n\nFor you: if you're testing AI at work, try giving it one real, repeatable task this week — not a prompt, a process step. See if your ops shift.\n\nWhat’s the one chore you’d hand off to a workflow today? ⚙️🤖💼"
+        }
+      },
+      "instagram_caption": "Most AI projects fail because they never leave the chat window — Ode’s entire business model skips that step.\n\nThey're using Anthropic's Claude to automate actual enterprise workflows, not just answer questions. The startup bets that AI services will beat custom-built models for real operations.\n\n90% of companies fail at aligning AI with business processes. Ode is betting the trick is to feed Claude a recurring task, not build a whole new model.\n\nFor you: if you're testing AI at work, try giving it one real, repeatable task this week — not a prompt, a process step. See if your ops shift.\n\nWhat’s the one chore you’d hand off to a workflow today? ⚙️🤖💼",
+      "carousel_slides": [
+        {
+          "hook": "Why skip custom AI?",
+          "description": "Ode bets AI services beat custom models. Claude powers enterprise workflows now instead of bespoke builds.",
+          "visual_hint": "AI brain vs puzzle pieces",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "90% of firms fail here.",
+          "description": "Aligning AI with real business processes trips most deployments. Ode uses Claude to solve that.",
+          "visual_hint": "Falling graph with gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Claude automates real tasks.",
+          "description": "Ode deploys it for actual operations, not just chat. One shift can transform your stack.",
+          "visual_hint": "Robot arm assembling",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One workflow changes ops.",
+          "description": "Try one recurring task fed to Claude this week. It can shift your entire operations.",
+          "visual_hint": "Person clicking mouse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and try it.",
+          "description": "Pick one recurring task, feed it to Claude, and see your operations shift. Link in bio.",
+          "visual_hint": "Phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "savedAt": "2026-07-15T22:51:05.758Z",
+      "sourceId": "abe5db5218728094a144b2eb18984aa3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "hack-suggests-ai-music-generator-suno-scraped-yout",
       "prompt_version": "1.0.0",
       "status": "published",

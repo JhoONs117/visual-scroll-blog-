@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "inside-ode-with-anthropic-the-startup-betting-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+  "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+  "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Ode bets AI services will beat custom models—but how?",
+    "Anthropic's Claude powers Ode's enterprise workflows now.",
+    "Most firms fail aligning AI with actual business processes.",
+    "Ode deploys Claude to automate tasks, not just chat.",
+    "Try one workflow this week—see if your ops shift."
+  ],
+  "thread_text": [
+    "Ode bets against custom AI.\n\nClaude already runs enterprise workflows at Ode, replacing bespoke models.",
+    "Most firms fail here.\n\nAligning AI with actual business processes trips up 90% of deployments.",
+    "Claude automates tasks.\n\nOde uses it for real operations, not just chat interfaces.",
+    "The twist: it works.\n\nOne workflow per week can shift your entire operations stack.",
+    "Try one workflow this week.\n\nPick a recurring task, feed it to Claude, and see if your ops shift."
+  ],
+  "video_script": [
+    "Ode bets Claude beats custom models.",
+    "Most companies fail aligning AI with processes.",
+    "Claude automates real tasks now.",
+    "One workflow per week shifts operations.",
+    "Try one workflow this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Ode bets against custom AI.\n\nClaude already runs enterprise workflows at Ode, replacing bespoke models.",
+        "Most firms fail here.\n\nAligning AI with actual business processes trips up 90% of deployments.",
+        "Claude automates tasks.\n\nOde uses it for real operations, not just chat interfaces.",
+        "The twist: it works.\n\nOne workflow per week can shift your entire operations stack.",
+        "Try one workflow this week.\n\nPick a recurring task, feed it to Claude, and see if your ops shift."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ode bets Claude beats custom models.",
+        "Most companies fail aligning AI with processes.",
+        "Claude automates real tasks now.",
+        "One workflow per week shifts operations.",
+        "Try one workflow this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Most AI projects fail because they never leave the chat window — Ode’s entire business model skips that step.\n\nThey're using Anthropic's Claude to automate actual enterprise workflows, not just answer questions. The startup bets that AI services will beat custom-built models for real operations.\n\n90% of companies fail at aligning AI with business processes. Ode is betting the trick is to feed Claude a recurring task, not build a whole new model.\n\nFor you: if you're testing AI at work, try giving it one real, repeatable task this week — not a prompt, a process step. See if your ops shift.\n\nWhat’s the one chore you’d hand off to a workflow today? ⚙️🤖💼"
+    }
+  },
+  "instagram_caption": "Most AI projects fail because they never leave the chat window — Ode’s entire business model skips that step.\n\nThey're using Anthropic's Claude to automate actual enterprise workflows, not just answer questions. The startup bets that AI services will beat custom-built models for real operations.\n\n90% of companies fail at aligning AI with business processes. Ode is betting the trick is to feed Claude a recurring task, not build a whole new model.\n\nFor you: if you're testing AI at work, try giving it one real, repeatable task this week — not a prompt, a process step. See if your ops shift.\n\nWhat’s the one chore you’d hand off to a workflow today? ⚙️🤖💼",
+  "carousel_slides": [
+    {
+      "hook": "Why skip custom AI?",
+      "description": "Ode bets AI services beat custom models. Claude powers enterprise workflows now instead of bespoke builds.",
+      "visual_hint": "AI brain vs puzzle pieces",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "90% of firms fail here.",
+      "description": "Aligning AI with real business processes trips most deployments. Ode uses Claude to solve that.",
+      "visual_hint": "Falling graph with gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Claude automates real tasks.",
+      "description": "Ode deploys it for actual operations, not just chat. One shift can transform your stack.",
+      "visual_hint": "Robot arm assembling",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One workflow changes ops.",
+      "description": "Try one recurring task fed to Claude this week. It can shift your entire operations.",
+      "visual_hint": "Person clicking mouse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and try it.",
+      "description": "Pick one recurring task, feed it to Claude, and see your operations shift. Link in bio.",
+      "visual_hint": "Phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+  "savedAt": "2026-07-15T22:51:05.758Z",
+  "sourceId": "abe5db5218728094a144b2eb18984aa3"
+}
