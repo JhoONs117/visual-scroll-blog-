@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-founder-of-hinge-raised-18m-to-build-a-new-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+    "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+    "pubDate": "Tue, 14 Jul 2026 19:39:39 +0000",
+    "slides": [
+      "Can AI fix what dating apps broke?",
+      "A founder raised $18M for Overtone.",
+      "It analyzes voice, not just text.",
+      "You will know compatibility before meeting.",
+      "Try one voice call before matching again."
+    ],
+    "thread_text": [
+      "1. A voice before a match\n\nOvertone just raised $18M to analyze how you sound, not just what you type. Your compatibility score arrives before the first date.",
+      "2. Why text fails\n\nWritten bios are curated. Your voice reveals hesitation, pace, and tone — data text can't capture.",
+      "3. The founder's bet\n\nOvertone’s founder raised $18M on a single premise: voices predict chemistry better than profiles.",
+      "4. The system in action\n\nOne voice call. Then the algorithm tells you if you're compatible before you meet in person.",
+      "5. Try it this week\n\nOn your next dating app, request a voice call before swiping again. Would you trust that read?"
+    ],
+    "video_script": [
+      "Can AI fix what dating apps broke?",
+      "One founder raised 18 million for Overtone.",
+      "It analyzes your voice, not just text.",
+      "You learn compatibility before meeting.",
+      "Try one voice call before matching again."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. A voice before a match\n\nOvertone just raised $18M to analyze how you sound, not just what you type. Your compatibility score arrives before the first date.",
+          "2. Why text fails\n\nWritten bios are curated. Your voice reveals hesitation, pace, and tone — data text can't capture.",
+          "3. The founder's bet\n\nOvertone’s founder raised $18M on a single premise: voices predict chemistry better than profiles.",
+          "4. The system in action\n\nOne voice call. Then the algorithm tells you if you're compatible before you meet in person.",
+          "5. Try it this week\n\nOn your next dating app, request a voice call before swiping again. Would you trust that read?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI fix what dating apps broke?",
+          "One founder raised 18 million for Overtone.",
+          "It analyzes your voice, not just text.",
+          "You learn compatibility before meeting.",
+          "Try one voice call before matching again."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next dating app match might be rejected by an algorithm before you even meet.  \n\nHinge's founder just raised $18M for Overtone, an AI that analyzes your voice—hesitation, tone, pace—not just your text bio. One call, then a compatibility score.  \n\nFor anyone creating a dating profile: how you *sound* now overrides the words you carefully choose.  \n\nWould you let an algorithm judge your chemistry on a 3-minute voice call?"
+      }
+    },
+    "instagram_caption": "Your next dating app match might be rejected by an algorithm before you even meet.  \n\nHinge's founder just raised $18M for Overtone, an AI that analyzes your voice—hesitation, tone, pace—not just your text bio. One call, then a compatibility score.  \n\nFor anyone creating a dating profile: how you *sound* now overrides the words you carefully choose.  \n\nWould you let an algorithm judge your chemistry on a 3-minute voice call?",
+    "carousel_slides": [
+      {
+        "hook": "Your voice reveals more than your bio.",
+        "description": "Overtone raised $18M to analyze voice tone and pace for compatibility before the first date.",
+        "visual_hint": "Sound waves on gradient background",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "sound wave visualization"
+      },
+      {
+        "hook": "Why curated bios fail at love.",
+        "description": "Written profiles hide hesitation and tone. Voice data captures what text cannot — real chemistry clues.",
+        "visual_hint": "Phone with text and speech bubbles",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "phone screen text message",
+        "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Founder bet $18M on voice analysis.",
+        "description": "Overtone's founder claims voices predict chemistry better than any profile or photo ever could.",
+        "visual_hint": "Headphones and microphone close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microphone close up",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One call reveals your match score.",
+        "description": "Make a single voice call. The algorithm tells compatibility before you ever meet in person.",
+        "visual_hint": "Hand holding phone with waveform",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try voice-first dating this week.",
+        "description": "Request a voice call before swiping next time. Would you trust that read? Drop your take.",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "finger tapping app icon",
+        "image": "https://images.pexels.com/photos/3850264/pexels-photo-3850264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+    "savedAt": "2026-07-15T04:42:58.840Z",
+    "sourceId": "41138521bbab1050a0b5f401359e6027"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-first-hardware-device-is-reportedly-a-scr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
+    "slides": [
+      "Is OpenAI trading screens for a moving box?",
+      "Their first device has no screen—just audio.",
+      "It moves physically to change your perspective.",
+      "You'll interact by voice, not by tapping glass.",
+      "Stop dismissing hardware without hearing it first."
+    ],
+    "thread_text": [
+      "1. Is OpenAI trading screens for a moving box?\n\nTheir first device has no screen—just audio. It moves physically to change your perspective.",
+      "2. No glass to tap.\n\nYou'll interact by voice, not by tapping glass. That's a hardware bet against every habit you have.",
+      "3. It shifts your view.\n\nThe device moves its body to change where you focus. No scrolling—it tilts toward you.",
+      "4. Audio-only interface.\n\nNo display means every action happens through sound. Your eyes stay free, but your ears do all the work.",
+      "5. Test it yourself today.\n\nBefore you call it gimmicky, simulate a voice-only task on ChatGPT. Can you finish without a screen?"
+    ],
+    "video_script": [
+      "OpenAI's first device has no screen.",
+      "You speak; it listens and moves.",
+      "No tapping glass—just your voice.",
+      "The hardware shifts to change perspective.",
+      "Don't judge it until you hear it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is OpenAI trading screens for a moving box?\n\nTheir first device has no screen—just audio. It moves physically to change your perspective.",
+          "2. No glass to tap.\n\nYou'll interact by voice, not by tapping glass. That's a hardware bet against every habit you have.",
+          "3. It shifts your view.\n\nThe device moves its body to change where you focus. No scrolling—it tilts toward you.",
+          "4. Audio-only interface.\n\nNo display means every action happens through sound. Your eyes stay free, but your ears do all the work.",
+          "5. Test it yourself today.\n\nBefore you call it gimmicky, simulate a voice-only task on ChatGPT. Can you finish without a screen?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's first device has no screen.",
+          "You speak; it listens and moves.",
+          "No tapping glass—just your voice.",
+          "The hardware shifts to change perspective.",
+          "Don't judge it until you hear it."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s first device is a speaker with no screen that physically moves to change your perspective.\n\nYou’ll interact entirely through voice—no tapping glass 🗣️. The box tilts toward you instead of requiring a scroll. 🧐  \nThat shift means your eyes stay free, but your ears do all the work.\n\nFor anyone creating content: building for a voice-only format demands clear audio cues, not visual layouts.\n\nCan you finish a ChatGPT task using only your voice right now? 🎤 Test it once before you judge the box."
+      }
+    },
+    "instagram_caption": "OpenAI’s first device is a speaker with no screen that physically moves to change your perspective.\n\nYou’ll interact entirely through voice—no tapping glass 🗣️. The box tilts toward you instead of requiring a scroll. 🧐  \nThat shift means your eyes stay free, but your ears do all the work.\n\nFor anyone creating content: building for a voice-only format demands clear audio cues, not visual layouts.\n\nCan you finish a ChatGPT task using only your voice right now? 🎤 Test it once before you judge the box.",
+    "carousel_slides": [
+      {
+        "hook": "A speaker that moves?",
+        "description": "OpenAI's first device has no screen, just audio. It moves physically to shift your focus.",
+        "visual_hint": "rotating white speaker",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart speaker white"
+      },
+      {
+        "hook": "No glass to tap.",
+        "description": "You'll interact by voice alone. That's a hardware bet against every habit you have.",
+        "visual_hint": "hand reaching toward speaker",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person talking hand",
+        "image": "https://images.pexels.com/photos/9017383/pexels-photo-9017383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It shifts your focus.",
+        "description": "The device tilts toward you to change perspective. No scrolling, just physical movement.",
+        "visual_hint": "speaker tilting angle",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm rotate",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your ears do the work.",
+        "description": "No display means every action happens through sound. Your eyes stay free.",
+        "visual_hint": "ear close-up silhouette",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "ear listener silhouette",
+        "image": "https://images.pexels.com/photos/35318371/pexels-photo-35318371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try a screenless task now.",
+        "description": "Simulate a voice-only interaction on ChatGPT. Can you finish without a screen?",
+        "visual_hint": "chat app voice icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chatgpt app icon",
+        "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "savedAt": "2026-07-15T04:42:47.160Z",
+    "sourceId": "becee1c630114a062397e92afd3b4932"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "aws-and-bluesight-build-ai-for-hospital-340b-compl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AWS and Bluesight build AI for hospital 340B compliance",
+    "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+    "pubDate": "Tue, 14 Jul 2026 15:54:39 +0000",
+    "slides": [
+      "How does AWS help hospitals track 340B savings?",
+      "Bluesight uses AI to monitor drug inventory in real time.",
+      "But 70% of hospitals miss compliance data until audits.",
+      "Your pharmacy can now automate 340B eligibility checks instantly.",
+      "Run a test on one drug class before next month's audit."
+    ],
+    "thread_text": [
+      "1. 70% miss the data\n\nHospitals don’t see 340B compliance gaps until an audit hits. That’s too late to fix lost savings.",
+      "2. AWS tracks the blind spot\n\nBluesight’s AI monitors drug inventory in real time. No more relying on quarterly spreadsheets.",
+      "3. Manual checks kill speed\n\nEligibility for 340B is still done by hand in most pharmacies. One misstep and you forfeit discounts.",
+      "4. AI cuts the audit panic\n\nAutomated eligibility checks run instantly per transaction. Compliance data surfaces before the deadline.",
+      "5. Test one drug class today\n\nPick a high-volume drug, run a 340B check via Bluesight. See if you’ve been missing savings before next month."
+    ],
+    "video_script": [
+      "70% of hospitals miss compliance data until audits.",
+      "AWS powers Bluesight to track drug inventory live.",
+      "Find eligibility gaps before they cost you.",
+      "Run a quick test on one drug class.",
+      "Don’t wait for the audit to learn."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 70% miss the data\n\nHospitals don’t see 340B compliance gaps until an audit hits. That’s too late to fix lost savings.",
+          "2. AWS tracks the blind spot\n\nBluesight’s AI monitors drug inventory in real time. No more relying on quarterly spreadsheets.",
+          "3. Manual checks kill speed\n\nEligibility for 340B is still done by hand in most pharmacies. One misstep and you forfeit discounts.",
+          "4. AI cuts the audit panic\n\nAutomated eligibility checks run instantly per transaction. Compliance data surfaces before the deadline.",
+          "5. Test one drug class today\n\nPick a high-volume drug, run a 340B check via Bluesight. See if you’ve been missing savings before next month."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "70% of hospitals miss compliance data until audits.",
+          "AWS powers Bluesight to track drug inventory live.",
+          "Find eligibility gaps before they cost you.",
+          "Run a quick test on one drug class.",
+          "Don’t wait for the audit to learn."
+        ]
+      },
+      "instagram": {
+        "caption": "70% of hospitals don't spot 340B compliance errors until an audit arrives—by then, lost savings are gone. 🏥\n\nBluesight and AWS built AI that tracks drug inventory in real time. No more quarterly spreadsheets or manual eligibility checks. ⏱️\n\nEligibility verification now runs automatically per transaction, surfacing gaps before deadlines hit.\n\nStart with one high-volume drug class and test a 340B check before next month's audit. What's the first drug you'd scan? 💊"
+      }
+    },
+    "instagram_caption": "70% of hospitals don't spot 340B compliance errors until an audit arrives—by then, lost savings are gone. 🏥\n\nBluesight and AWS built AI that tracks drug inventory in real time. No more quarterly spreadsheets or manual eligibility checks. ⏱️\n\nEligibility verification now runs automatically per transaction, surfacing gaps before deadlines hit.\n\nStart with one high-volume drug class and test a 340B check before next month's audit. What's the first drug you'd scan? 💊",
+    "carousel_slides": [
+      {
+        "hook": "70% miss compliance data until audits.",
+        "description": "Most hospitals only discover 340B gaps during audits, losing savings they could have claimed in real time.",
+        "visual_hint": "hospital audit clipboard",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hospital clipboard audit"
+      },
+      {
+        "hook": "AI monitors drug inventory in real time.",
+        "description": "Bluesight uses AWS AI to track every drug movement, replacing outdated quarterly spreadsheets.",
+        "visual_hint": "AI inventory dashboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room dashboard",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manual eligibility checks still dominate.",
+        "description": "Most pharmacies verify 340B eligibility by hand, risking one costly misstep that forfeits discounts.",
+        "visual_hint": "pharmacy worker checking drug",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "pharmacy counter drugs",
+        "image": "https://images.pexels.com/photos/5207333/pexels-photo-5207333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automated checks run per transaction now.",
+        "description": "AI instantly verifies eligibility per sale, surfacing compliance data before audit deadlines catch you.",
+        "visual_hint": "hands typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands keyboard computer",
+        "image": "https://images.pexels.com/photos/17642361/pexels-photo-17642361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one drug class before next audit.",
+        "description": "Pick a high-volume drug, run a 340B check via Bluesight, and see missed savings today.",
+        "visual_hint": "click test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "test button screen",
+        "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-15T04:42:34.686Z",
+    "sourceId": "69b6059a93f0390b5a7cdf9bd76e3121"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-may-announce-a-chatgpt-smart-speaker-this-y",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-founder-of-hinge-raised-18m-to-build-a-new-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+  "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+  "pubDate": "Tue, 14 Jul 2026 19:39:39 +0000",
+  "slides": [
+    "Can AI fix what dating apps broke?",
+    "A founder raised $18M for Overtone.",
+    "It analyzes voice, not just text.",
+    "You will know compatibility before meeting.",
+    "Try one voice call before matching again."
+  ],
+  "thread_text": [
+    "1. A voice before a match\n\nOvertone just raised $18M to analyze how you sound, not just what you type. Your compatibility score arrives before the first date.",
+    "2. Why text fails\n\nWritten bios are curated. Your voice reveals hesitation, pace, and tone — data text can't capture.",
+    "3. The founder's bet\n\nOvertone’s founder raised $18M on a single premise: voices predict chemistry better than profiles.",
+    "4. The system in action\n\nOne voice call. Then the algorithm tells you if you're compatible before you meet in person.",
+    "5. Try it this week\n\nOn your next dating app, request a voice call before swiping again. Would you trust that read?"
+  ],
+  "video_script": [
+    "Can AI fix what dating apps broke?",
+    "One founder raised 18 million for Overtone.",
+    "It analyzes your voice, not just text.",
+    "You learn compatibility before meeting.",
+    "Try one voice call before matching again."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A voice before a match\n\nOvertone just raised $18M to analyze how you sound, not just what you type. Your compatibility score arrives before the first date.",
+        "2. Why text fails\n\nWritten bios are curated. Your voice reveals hesitation, pace, and tone — data text can't capture.",
+        "3. The founder's bet\n\nOvertone’s founder raised $18M on a single premise: voices predict chemistry better than profiles.",
+        "4. The system in action\n\nOne voice call. Then the algorithm tells you if you're compatible before you meet in person.",
+        "5. Try it this week\n\nOn your next dating app, request a voice call before swiping again. Would you trust that read?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI fix what dating apps broke?",
+        "One founder raised 18 million for Overtone.",
+        "It analyzes your voice, not just text.",
+        "You learn compatibility before meeting.",
+        "Try one voice call before matching again."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next dating app match might be rejected by an algorithm before you even meet.  \n\nHinge's founder just raised $18M for Overtone, an AI that analyzes your voice—hesitation, tone, pace—not just your text bio. One call, then a compatibility score.  \n\nFor anyone creating a dating profile: how you *sound* now overrides the words you carefully choose.  \n\nWould you let an algorithm judge your chemistry on a 3-minute voice call?"
+    }
+  },
+  "instagram_caption": "Your next dating app match might be rejected by an algorithm before you even meet.  \n\nHinge's founder just raised $18M for Overtone, an AI that analyzes your voice—hesitation, tone, pace—not just your text bio. One call, then a compatibility score.  \n\nFor anyone creating a dating profile: how you *sound* now overrides the words you carefully choose.  \n\nWould you let an algorithm judge your chemistry on a 3-minute voice call?",
+  "carousel_slides": [
+    {
+      "hook": "Your voice reveals more than your bio.",
+      "description": "Overtone raised $18M to analyze voice tone and pace for compatibility before the first date.",
+      "visual_hint": "Sound waves on gradient background",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave visualization"
+    },
+    {
+      "hook": "Why curated bios fail at love.",
+      "description": "Written profiles hide hesitation and tone. Voice data captures what text cannot — real chemistry clues.",
+      "visual_hint": "Phone with text and speech bubbles",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "phone screen text message",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founder bet $18M on voice analysis.",
+      "description": "Overtone's founder claims voices predict chemistry better than any profile or photo ever could.",
+      "visual_hint": "Headphones and microphone close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microphone close up",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One call reveals your match score.",
+      "description": "Make a single voice call. The algorithm tells compatibility before you ever meet in person.",
+      "visual_hint": "Hand holding phone with waveform",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try voice-first dating this week.",
+      "description": "Request a voice call before swiping next time. Would you trust that read? Drop your take.",
+      "visual_hint": "Finger tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "finger tapping app icon",
+      "image": "https://images.pexels.com/photos/3850264/pexels-photo-3850264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+  "savedAt": "2026-07-15T04:42:58.840Z",
+  "sourceId": "41138521bbab1050a0b5f401359e6027"
+}

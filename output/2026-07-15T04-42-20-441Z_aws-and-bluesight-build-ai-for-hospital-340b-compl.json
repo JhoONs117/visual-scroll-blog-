@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "aws-and-bluesight-build-ai-for-hospital-340b-compl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AWS and Bluesight build AI for hospital 340B compliance",
+  "link": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+  "pubDate": "Tue, 14 Jul 2026 15:54:39 +0000",
+  "slides": [
+    "How does AWS help hospitals track 340B savings?",
+    "Bluesight uses AI to monitor drug inventory in real time.",
+    "But 70% of hospitals miss compliance data until audits.",
+    "Your pharmacy can now automate 340B eligibility checks instantly.",
+    "Run a test on one drug class before next month's audit."
+  ],
+  "thread_text": [
+    "1. 70% miss the data\n\nHospitals don’t see 340B compliance gaps until an audit hits. That’s too late to fix lost savings.",
+    "2. AWS tracks the blind spot\n\nBluesight’s AI monitors drug inventory in real time. No more relying on quarterly spreadsheets.",
+    "3. Manual checks kill speed\n\nEligibility for 340B is still done by hand in most pharmacies. One misstep and you forfeit discounts.",
+    "4. AI cuts the audit panic\n\nAutomated eligibility checks run instantly per transaction. Compliance data surfaces before the deadline.",
+    "5. Test one drug class today\n\nPick a high-volume drug, run a 340B check via Bluesight. See if you’ve been missing savings before next month."
+  ],
+  "video_script": [
+    "70% of hospitals miss compliance data until audits.",
+    "AWS powers Bluesight to track drug inventory live.",
+    "Find eligibility gaps before they cost you.",
+    "Run a quick test on one drug class.",
+    "Don’t wait for the audit to learn."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 70% miss the data\n\nHospitals don’t see 340B compliance gaps until an audit hits. That’s too late to fix lost savings.",
+        "2. AWS tracks the blind spot\n\nBluesight’s AI monitors drug inventory in real time. No more relying on quarterly spreadsheets.",
+        "3. Manual checks kill speed\n\nEligibility for 340B is still done by hand in most pharmacies. One misstep and you forfeit discounts.",
+        "4. AI cuts the audit panic\n\nAutomated eligibility checks run instantly per transaction. Compliance data surfaces before the deadline.",
+        "5. Test one drug class today\n\nPick a high-volume drug, run a 340B check via Bluesight. See if you’ve been missing savings before next month."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "70% of hospitals miss compliance data until audits.",
+        "AWS powers Bluesight to track drug inventory live.",
+        "Find eligibility gaps before they cost you.",
+        "Run a quick test on one drug class.",
+        "Don’t wait for the audit to learn."
+      ]
+    },
+    "instagram": {
+      "caption": "70% of hospitals don't spot 340B compliance errors until an audit arrives—by then, lost savings are gone. 🏥\n\nBluesight and AWS built AI that tracks drug inventory in real time. No more quarterly spreadsheets or manual eligibility checks. ⏱️\n\nEligibility verification now runs automatically per transaction, surfacing gaps before deadlines hit.\n\nStart with one high-volume drug class and test a 340B check before next month's audit. What's the first drug you'd scan? 💊"
+    }
+  },
+  "instagram_caption": "70% of hospitals don't spot 340B compliance errors until an audit arrives—by then, lost savings are gone. 🏥\n\nBluesight and AWS built AI that tracks drug inventory in real time. No more quarterly spreadsheets or manual eligibility checks. ⏱️\n\nEligibility verification now runs automatically per transaction, surfacing gaps before deadlines hit.\n\nStart with one high-volume drug class and test a 340B check before next month's audit. What's the first drug you'd scan? 💊",
+  "carousel_slides": [
+    {
+      "hook": "70% miss compliance data until audits.",
+      "description": "Most hospitals only discover 340B gaps during audits, losing savings they could have claimed in real time.",
+      "visual_hint": "hospital audit clipboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hospital clipboard audit"
+    },
+    {
+      "hook": "AI monitors drug inventory in real time.",
+      "description": "Bluesight uses AWS AI to track every drug movement, replacing outdated quarterly spreadsheets.",
+      "visual_hint": "AI inventory dashboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room dashboard",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual eligibility checks still dominate.",
+      "description": "Most pharmacies verify 340B eligibility by hand, risking one costly misstep that forfeits discounts.",
+      "visual_hint": "pharmacy worker checking drug",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pharmacy counter drugs",
+      "image": "https://images.pexels.com/photos/5207333/pexels-photo-5207333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automated checks run per transaction now.",
+      "description": "AI instantly verifies eligibility per sale, surfacing compliance data before audit deadlines catch you.",
+      "visual_hint": "hands typing on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands keyboard computer",
+      "image": "https://images.pexels.com/photos/17642361/pexels-photo-17642361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one drug class before next audit.",
+      "description": "Pick a high-volume drug, run a 340B check via Bluesight, and see missed savings today.",
+      "visual_hint": "click test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "test button screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-15T04:42:34.686Z",
+  "sourceId": "69b6059a93f0390b5a7cdf9bd76e3121"
+}

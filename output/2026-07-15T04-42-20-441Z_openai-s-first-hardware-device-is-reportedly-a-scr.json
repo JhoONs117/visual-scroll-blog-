@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-first-hardware-device-is-reportedly-a-scr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+  "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+  "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
+  "slides": [
+    "Is OpenAI trading screens for a moving box?",
+    "Their first device has no screen—just audio.",
+    "It moves physically to change your perspective.",
+    "You'll interact by voice, not by tapping glass.",
+    "Stop dismissing hardware without hearing it first."
+  ],
+  "thread_text": [
+    "1. Is OpenAI trading screens for a moving box?\n\nTheir first device has no screen—just audio. It moves physically to change your perspective.",
+    "2. No glass to tap.\n\nYou'll interact by voice, not by tapping glass. That's a hardware bet against every habit you have.",
+    "3. It shifts your view.\n\nThe device moves its body to change where you focus. No scrolling—it tilts toward you.",
+    "4. Audio-only interface.\n\nNo display means every action happens through sound. Your eyes stay free, but your ears do all the work.",
+    "5. Test it yourself today.\n\nBefore you call it gimmicky, simulate a voice-only task on ChatGPT. Can you finish without a screen?"
+  ],
+  "video_script": [
+    "OpenAI's first device has no screen.",
+    "You speak; it listens and moves.",
+    "No tapping glass—just your voice.",
+    "The hardware shifts to change perspective.",
+    "Don't judge it until you hear it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is OpenAI trading screens for a moving box?\n\nTheir first device has no screen—just audio. It moves physically to change your perspective.",
+        "2. No glass to tap.\n\nYou'll interact by voice, not by tapping glass. That's a hardware bet against every habit you have.",
+        "3. It shifts your view.\n\nThe device moves its body to change where you focus. No scrolling—it tilts toward you.",
+        "4. Audio-only interface.\n\nNo display means every action happens through sound. Your eyes stay free, but your ears do all the work.",
+        "5. Test it yourself today.\n\nBefore you call it gimmicky, simulate a voice-only task on ChatGPT. Can you finish without a screen?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's first device has no screen.",
+        "You speak; it listens and moves.",
+        "No tapping glass—just your voice.",
+        "The hardware shifts to change perspective.",
+        "Don't judge it until you hear it."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s first device is a speaker with no screen that physically moves to change your perspective.\n\nYou’ll interact entirely through voice—no tapping glass 🗣️. The box tilts toward you instead of requiring a scroll. 🧐  \nThat shift means your eyes stay free, but your ears do all the work.\n\nFor anyone creating content: building for a voice-only format demands clear audio cues, not visual layouts.\n\nCan you finish a ChatGPT task using only your voice right now? 🎤 Test it once before you judge the box."
+    }
+  },
+  "instagram_caption": "OpenAI’s first device is a speaker with no screen that physically moves to change your perspective.\n\nYou’ll interact entirely through voice—no tapping glass 🗣️. The box tilts toward you instead of requiring a scroll. 🧐  \nThat shift means your eyes stay free, but your ears do all the work.\n\nFor anyone creating content: building for a voice-only format demands clear audio cues, not visual layouts.\n\nCan you finish a ChatGPT task using only your voice right now? 🎤 Test it once before you judge the box.",
+  "carousel_slides": [
+    {
+      "hook": "A speaker that moves?",
+      "description": "OpenAI's first device has no screen, just audio. It moves physically to shift your focus.",
+      "visual_hint": "rotating white speaker",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart speaker white"
+    },
+    {
+      "hook": "No glass to tap.",
+      "description": "You'll interact by voice alone. That's a hardware bet against every habit you have.",
+      "visual_hint": "hand reaching toward speaker",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person talking hand",
+      "image": "https://images.pexels.com/photos/9017383/pexels-photo-9017383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It shifts your focus.",
+      "description": "The device tilts toward you to change perspective. No scrolling, just physical movement.",
+      "visual_hint": "speaker tilting angle",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm rotate",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your ears do the work.",
+      "description": "No display means every action happens through sound. Your eyes stay free.",
+      "visual_hint": "ear close-up silhouette",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "ear listener silhouette",
+      "image": "https://images.pexels.com/photos/35318371/pexels-photo-35318371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try a screenless task now.",
+      "description": "Simulate a voice-only interaction on ChatGPT. Can you finish without a screen?",
+      "visual_hint": "chat app voice icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt app icon",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+  "savedAt": "2026-07-15T04:42:47.160Z",
+  "sourceId": "becee1c630114a062397e92afd3b4932"
+}
