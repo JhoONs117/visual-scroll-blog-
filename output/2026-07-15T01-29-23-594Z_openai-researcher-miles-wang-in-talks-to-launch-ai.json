@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-researcher-miles-wang-in-talks-to-launch-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+  "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+  "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
+  "slides": [
+    "OpenAI researcher Miles Wang just left to build an AI drug startup.",
+    "It targets the most expensive phase of drug development.",
+    "But its $2B valuation is based on zero clinical data yet.",
+    "If successful, your drug costs could drop by an order of magnitude.",
+    "Watch whether pharma giants partner or try to block him."
+  ],
+  "thread_text": [
+    "1. He walked away from OpenAI\n\nMiles Wang quit a top AI lab to start a drug company. No clinical data. Yet investors say it's worth $2B.",
+    "2. Phase 3 is the killer\n\nThat's where drugs fail and costs explode. Wang's AI targets exactly that — pre-human trials.",
+    "3. A bet on zero evidence\n\n$2B valuation before a single patient dosed. Either he found something or the hype machine is running on fumes.",
+    "4. The 10x cost drop\n\nIf his models work, drug prices could fall by an order of magnitude. Not incremental — exponential.",
+    "5. Watch who fights him\n\nPharma giants will either partner or block. Check the next partnership announcement from Pfizer or Novartis. Who is silent?"
+  ],
+  "video_script": [
+    "OpenAI researcher starts drug company.",
+    "Targets the most expensive phase of trials.",
+    "Zero clinical data, two billion valuation.",
+    "If it works, drug costs drop tenfold.",
+    "Watch if pharma partners or blocks him."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. He walked away from OpenAI\n\nMiles Wang quit a top AI lab to start a drug company. No clinical data. Yet investors say it's worth $2B.",
+        "2. Phase 3 is the killer\n\nThat's where drugs fail and costs explode. Wang's AI targets exactly that — pre-human trials.",
+        "3. A bet on zero evidence\n\n$2B valuation before a single patient dosed. Either he found something or the hype machine is running on fumes.",
+        "4. The 10x cost drop\n\nIf his models work, drug prices could fall by an order of magnitude. Not incremental — exponential.",
+        "5. Watch who fights him\n\nPharma giants will either partner or block. Check the next partnership announcement from Pfizer or Novartis. Who is silent?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI researcher starts drug company.",
+        "Targets the most expensive phase of trials.",
+        "Zero clinical data, two billion valuation.",
+        "If it works, drug costs drop tenfold.",
+        "Watch if pharma partners or blocks him."
+      ]
+    },
+    "instagram": {
+      "caption": "A $2 billion drug startup has zero patients and zero clinical data yet.\n\nMiles Wang just left OpenAI to build an AI that targets the most expensive phase of drug development — where most failures happen. His bet: predict drug success before human trials even begin. 💊\n\nIf his models work, the cost of your medications could drop tenfold. Not a small discount — an order of magnitude.\n\nPharma giants will either acquire him or fight him. Who stays silent? 🤔 Check the next Pfizer or Novartis partnership announcement."
+    }
+  },
+  "instagram_caption": "A $2 billion drug startup has zero patients and zero clinical data yet.\n\nMiles Wang just left OpenAI to build an AI that targets the most expensive phase of drug development — where most failures happen. His bet: predict drug success before human trials even begin. 💊\n\nIf his models work, the cost of your medications could drop tenfold. Not a small discount — an order of magnitude.\n\nPharma giants will either acquire him or fight him. Who stays silent? 🤔 Check the next Pfizer or Novartis partnership announcement.",
+  "carousel_slides": [
+    {
+      "hook": "Zero data, $2B valuation?",
+      "description": "Miles Wang left OpenAI to launch a drug startup worth $2 billion with zero clinical data yet.",
+      "visual_hint": "Lab empty futuristic",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Phase 3 is the graveyard",
+      "description": "His AI targets the costliest drug phase—pre-human trials where most drugs fail and costs explode.",
+      "visual_hint": "DNA helix glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "DNA double helix",
+      "image": "https://images.pexels.com/photos/11868601/pexels-photo-11868601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hype or hidden discovery?",
+      "description": "$2 billion bet on models before a single patient is dosed. Either genius or bubble.",
+      "visual_hint": "Stock chart soaring",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Drug prices could plummet",
+      "description": "If his models work, drug costs drop 10x—not incremental, exponential change.",
+      "visual_hint": "Pills falling fast",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who will partner—or block?",
+      "description": "Watch Pfizer or Novartis for the next announcement. Save this to track the deal.",
+      "visual_hint": "Office building logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
+  "savedAt": "2026-07-15T01:29:35.528Z",
+  "sourceId": "28e622f5401555d0458c66b11cd728ab"
+}

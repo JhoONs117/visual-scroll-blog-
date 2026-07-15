@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-may-announce-a-chatgpt-smart-speaker-this-y",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI may announce a ChatGPT smart speaker this year",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+  "pubDate": "2026-07-14T21:26:32.000Z",
+  "slides": [
+    "Could OpenAI's speaker replace your assistant?",
+    "It may launch later this year.",
+    "It talks without needing a screen.",
+    "You might ditch your smart display.",
+    "Test your next request out loud."
+  ],
+  "thread_text": [
+    "1. Your assistant has no screen\n\nOpenAI’s new speaker listens and speaks back — no display, no typing. It may launch later this year.",
+    "2. Why you'd ditch the display\n\nA voice-only device frees you from staring at a screen while cooking, driving, or exercising.",
+    "3. It talks back — aloud\n\nYou test your next request by speaking, not tapping. The response comes through audio, not text.",
+    "4. The smart display's last week\n\nIf you can ask and hear without looking, that screen on your counter starts feeling like dead weight.",
+    "5. Try one loud test today\n\nOpen your phone, turn off the screen, and ask your current assistant a complex question by voice. Did it work?"
+  ],
+  "video_script": [
+    "Speaker, no screen, launches this year.",
+    "You talk, it talks back aloud.",
+    "Ditch your smart display for this.",
+    "Test your next request by voice.",
+    "Try it now — no screen needed."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your assistant has no screen\n\nOpenAI’s new speaker listens and speaks back — no display, no typing. It may launch later this year.",
+        "2. Why you'd ditch the display\n\nA voice-only device frees you from staring at a screen while cooking, driving, or exercising.",
+        "3. It talks back — aloud\n\nYou test your next request by speaking, not tapping. The response comes through audio, not text.",
+        "4. The smart display's last week\n\nIf you can ask and hear without looking, that screen on your counter starts feeling like dead weight.",
+        "5. Try one loud test today\n\nOpen your phone, turn off the screen, and ask your current assistant a complex question by voice. Did it work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Speaker, no screen, launches this year.",
+        "You talk, it talks back aloud.",
+        "Ditch your smart display for this.",
+        "Test your next request by voice.",
+        "Try it now — no screen needed."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next smart speaker may have no screen and no keyboard — just a voice that talks back.\n\nOpenAI could launch a ChatGPT-powered speaker later this year. You ask out loud. It listens and answers through audio, not text.\n\nFor creators and publishers: conversations shift from tap-to-read to speak-and-hear. Your content needs to work when someone asks by voice with no display.\n\nOpen your phone, turn off the screen, and ask your current speaker one complex question by voice. Did it work? 🎤🧠"
+    }
+  },
+  "instagram_caption": "Your next smart speaker may have no screen and no keyboard — just a voice that talks back.\n\nOpenAI could launch a ChatGPT-powered speaker later this year. You ask out loud. It listens and answers through audio, not text.\n\nFor creators and publishers: conversations shift from tap-to-read to speak-and-hear. Your content needs to work when someone asks by voice with no display.\n\nOpen your phone, turn off the screen, and ask your current speaker one complex question by voice. Did it work? 🎤🧠",
+  "carousel_slides": [
+    {
+      "hook": "Screen-free assistant coming soon?",
+      "description": "OpenAI's rumored smart speaker listens and speaks back without a display, possibly launching this year.",
+      "visual_hint": "speaker with voice waves",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "white smart speaker"
+    },
+    {
+      "hook": "Why you'd ditch the screen",
+      "description": "A voice-only device frees you from staring at a display while cooking, driving, or exercising.",
+      "visual_hint": "person cooking voice speaker",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "kitchen counter speaker",
+      "image": "https://images.pexels.com/photos/4816456/pexels-photo-4816456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speak your request aloud",
+      "description": "No tapping needed—just talk, and the reply comes through audio, not text.",
+      "visual_hint": "mouth speaking waves",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "voice assistant mic",
+      "image": "https://images.pexels.com/photos/7709210/pexels-photo-7709210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Smart display feels obsolete",
+      "description": "If you can ask and hear without looking, that counter screen starts feeling like dead weight.",
+      "visual_hint": "hand pushing display aside",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand tablet screen",
+      "image": "https://images.pexels.com/photos/2451314/pexels-photo-2451314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later news",
+      "description": "Try it now: turn off your phone screen and ask your current assistant a complex question by voice.",
+      "visual_hint": "phone screen off voice test",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone black screen",
+      "image": "https://images.pexels.com/photos/8490078/pexels-photo-8490078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+  "savedAt": "2026-07-15T01:29:59.007Z",
+  "sourceId": "ac05241f6ebb33febfd8b077230bc2aa"
+}
