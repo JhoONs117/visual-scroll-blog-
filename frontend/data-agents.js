@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "a-spacex-vet-raised-65m-to-pull-wire-harnesses-out",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+      "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+      "pubDate": "Wed, 15 Jul 2026 10:30:00 +0000",
+      "slides": [
+        "A SpaceX veteran raised $65 million—for what?",
+        "Manual wire harnesses haven't changed since Cold War.",
+        "His startup automates their production entirely.",
+        "Your electronics supply chain just got faster.",
+        "Demand a quote from this new vendor today."
+      ],
+      "thread_text": [
+        "1. $65M for wires?\n\nA Cold War-era process still ties your electronics together by hand.",
+        "2. SpaceX engineer saw it.\n\nHe built machines to twist and route cables without a single human touch.",
+        "3. Manual is the bottleneck.\n\nAutomated harness assembly can cut lead times from weeks to days.",
+        "4. Your supply chain shifts.\n\nFaster wiring means shorter waits for cars, planes, and medical devices.",
+        "5. Test their speed today.\n\nRequest a quote from this new vendor by end of week."
+      ],
+      "video_script": [
+        "A SpaceX veteran raised sixty-five million dollars.",
+        "For what? Manual wire harness production.",
+        "His startup automates the entire process.",
+        "Your electronics supply chain just got faster.",
+        "Demand a quote from this vendor today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $65M for wires?\n\nA Cold War-era process still ties your electronics together by hand.",
+            "2. SpaceX engineer saw it.\n\nHe built machines to twist and route cables without a single human touch.",
+            "3. Manual is the bottleneck.\n\nAutomated harness assembly can cut lead times from weeks to days.",
+            "4. Your supply chain shifts.\n\nFaster wiring means shorter waits for cars, planes, and medical devices.",
+            "5. Test their speed today.\n\nRequest a quote from this new vendor by end of week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A SpaceX veteran raised sixty-five million dollars.",
+            "For what? Manual wire harness production.",
+            "His startup automates the entire process.",
+            "Your electronics supply chain just got faster.",
+            "Demand a quote from this vendor today."
+          ]
+        },
+        "instagram": {
+          "caption": "A $65 million bet says your car or ventilator is still wired by hand, just like in the Cold War. 🧵\n\nA SpaceX veteran built robots that twist and route cable harnesses without a single human touch. Manual assembly was the bottleneck—weeks of lead time. Now it’s days.\n\nYour supply chain for electronics just got faster: shorter waits for cars, planes, and medical devices. 📦\n\nIs your next production run stuck waiting for a wire harness? Click to request a quote from this new vendor by Friday."
+        }
+      },
+      "instagram_caption": "A $65 million bet says your car or ventilator is still wired by hand, just like in the Cold War. 🧵\n\nA SpaceX veteran built robots that twist and route cable harnesses without a single human touch. Manual assembly was the bottleneck—weeks of lead time. Now it’s days.\n\nYour supply chain for electronics just got faster: shorter waits for cars, planes, and medical devices. 📦\n\nIs your next production run stuck waiting for a wire harness? Click to request a quote from this new vendor by Friday.",
+      "carousel_slides": [
+        {
+          "hook": "Wiring still made by hand?",
+          "description": "A SpaceX veteran raised $65M to automate wire harness production, a process unchanged since the Cold War.",
+          "visual_hint": "Vintage wire harness factory",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "vintage wire factory"
+        },
+        {
+          "hook": "He built the fix.",
+          "description": "His startup uses machines to twist and route cables without human touch, cutting weeks off lead times.",
+          "visual_hint": "Automated cable assembly robot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "industrial robot arms",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual is the bottleneck.",
+          "description": "Automated harness assembly slashes lead time from weeks to days, speeding up electronics production.",
+          "visual_hint": "Factory production line speed",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fast assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Faster supply chains ahead.",
+          "description": "Faster wiring means shorter waits for cars, planes, and medical devices, transforming your electronics supply chain.",
+          "visual_hint": "Supply chain network map",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "global supply chain",
+          "image": "https://images.pexels.com/photos/14617647/pexels-photo-14617647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for later.",
+          "description": "Request a quote from this new vendor by end of week to test their speed and cut your lead times.",
+          "visual_hint": "Quote request button mockup",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "quote request form",
+          "image": "https://images.pexels.com/photos/7821459/pexels-photo-7821459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Greenshot-2026-06-01-22.19.18.png?resize=1200,633",
+      "savedAt": "2026-07-15T11:22:53.607Z",
+      "sourceId": "0017a7f5d469ba2313e7187c8d163a33"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "telegram-s-shortlink-domain-is-back-online-after-d",
       "prompt_version": "1.0.0",
       "status": "published",
