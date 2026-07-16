@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-compute-gap-enterprises-are-buying-infrastr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+  "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+  "pubDate": "Thu, 16 Jul 2026 17:35:19 GMT",
+  "slides": [
+    "Are your AI infrastructure costs already spiraling out of control?",
+    "Enterprises now buy compute faster than they track spending.",
+    "One in four firms has no real-time cost visibility at all.",
+    "Your next GPU purchase may double without warning.",
+    "Implement usage metering before your next procurement cycle."
+  ],
+  "thread_text": [
+    "1. Your GPU budget just exploded\n\nOne in four firms can't see costs in real time. They only find out after the invoice hits.",
+    "2. Speed of purchase vs. speed of tracking\n\nEnterprises now buy compute faster than they track spending. Procurement is flying blind.",
+    "3. The hidden price jump\n\nYour next GPU purchase may double without warning. No one is flagging the trend.",
+    "4. Metering is the missing link\n\nWithout usage metering, you can't tie cost to consumption. Only half the story is visible.",
+    "5. Act before your next cycle\n\nImplement usage metering now. Test it on your current GPU stack—before procurement locks in the next order."
+  ],
+  "video_script": [
+    "Are your infrastructure costs spiraling out of control?",
+    "Firms buy compute faster than they track spending.",
+    "One in four has zero real-time cost visibility.",
+    "Your next GPU purchase could double without warning.",
+    "Meter usage before your next procurement cycle."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your GPU budget just exploded\n\nOne in four firms can't see costs in real time. They only find out after the invoice hits.",
+        "2. Speed of purchase vs. speed of tracking\n\nEnterprises now buy compute faster than they track spending. Procurement is flying blind.",
+        "3. The hidden price jump\n\nYour next GPU purchase may double without warning. No one is flagging the trend.",
+        "4. Metering is the missing link\n\nWithout usage metering, you can't tie cost to consumption. Only half the story is visible.",
+        "5. Act before your next cycle\n\nImplement usage metering now. Test it on your current GPU stack—before procurement locks in the next order."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Are your infrastructure costs spiraling out of control?",
+        "Firms buy compute faster than they track spending.",
+        "One in four has zero real-time cost visibility.",
+        "Your next GPU purchase could double without warning.",
+        "Meter usage before your next procurement cycle."
+      ]
+    },
+    "instagram": {
+      "caption": "One in four companies has no real-time view of what their AI infrastructure actually costs — they only see the bill after it arrives.\n\nEnterprises are buying GPUs faster than they can track spending, leaving procurement teams flying blind 💸. Without usage metering, you can't connect cost to consumption, meaning half your AI budget is invisible.\n\nNext GPU purchase could double without warning, and no one will catch it.\n\nAre you tracking your compute usage live — or just hoping the invoice makes sense?"
+    }
+  },
+  "instagram_caption": "One in four companies has no real-time view of what their AI infrastructure actually costs — they only see the bill after it arrives.\n\nEnterprises are buying GPUs faster than they can track spending, leaving procurement teams flying blind 💸. Without usage metering, you can't connect cost to consumption, meaning half your AI budget is invisible.\n\nNext GPU purchase could double without warning, and no one will catch it.\n\nAre you tracking your compute usage live — or just hoping the invoice makes sense?",
+  "carousel_slides": [
+    {
+      "hook": "Your GPU budget just exploded.",
+      "description": "One in four firms can't see costs in real time. They find out only after the invoice hits.",
+      "visual_hint": "exploding budget chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Buying faster than tracking?",
+      "description": "Enterprises buy compute faster than they track spending. Procurement is flying blind without data.",
+      "visual_hint": "fast arrow vs slow clock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next GPU purchase may double.",
+      "description": "A hidden price jump can strike without warning. No one flags the trend in time.",
+      "visual_hint": "GPU price graph spike",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Metering: the missing link.",
+      "description": "Without usage metering, you can't tie cost to consumption. Only half the story is visible.",
+      "visual_hint": "broken chain link",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save your GPU budget today.",
+      "description": "Implement usage metering now. Test it on your current GPU stack before the next procurement cycle.",
+      "visual_hint": "calendar with check mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-16T18:57:54.478Z",
+  "sourceId": "308c77cdd950d28dd693c2372f47100e"
+}

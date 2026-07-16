@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "new-york-governor-says-she-8217-s-using-ai-to-anal",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+  "pubDate": "2026-07-16T17:58:37.000Z",
+  "slides": [
+    "Can AI untangle New York's rulebook?",
+    "Governor Hochul deploys AI on thousands of regulations.",
+    "The rules written by humans are too many to read.",
+    "This AI finds contradictions agencies never saw.",
+    "Your next permit might finally be approved faster."
+  ],
+  "thread_text": [
+    "1. Can AI read what we can't?\n\nNew York has over 130,000 active regulations. No human has read them all.",
+    "2. The governor plays a new card.\n\nHochul just put an AI on thousands of pages. It's not scanning — it's analyzing.",
+    "3. What humans missed.\n\nThe AI found contradictions between agencies that were invisible for decades.",
+    "4. One bottleneck vanishes.\n\nPermits that took months could clear in days, if the system trusts the machine.",
+    "5. Try this on a rule you hate.\n\nPick one regulation that slows your work. Paste it into an AI and ask for contradictions. See what it finds."
+  ],
+  "video_script": [
+    "New York has over 130,000 regulations.",
+    "Governor Hochul just deployed an AI.",
+    "It found contradictions humans never saw.",
+    "Your permits might finally get approved faster.",
+    "Test it on a rule you hate today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI read what we can't?\n\nNew York has over 130,000 active regulations. No human has read them all.",
+        "2. The governor plays a new card.\n\nHochul just put an AI on thousands of pages. It's not scanning — it's analyzing.",
+        "3. What humans missed.\n\nThe AI found contradictions between agencies that were invisible for decades.",
+        "4. One bottleneck vanishes.\n\nPermits that took months could clear in days, if the system trusts the machine.",
+        "5. Try this on a rule you hate.\n\nPick one regulation that slows your work. Paste it into an AI and ask for contradictions. See what it finds."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "New York has over 130,000 regulations.",
+        "Governor Hochul just deployed an AI.",
+        "It found contradictions humans never saw.",
+        "Your permits might finally get approved faster.",
+        "Test it on a rule you hate today."
+      ]
+    },
+    "instagram": {
+      "caption": "New York has 130,000 active regulations, and nobody has read them all—not even the people enforcing them. 🏛️\n\nGovernor Hochul just dropped an AI on thousands of pages of state rules. The machine isn't skimming; it's analyzing. And it already found contradictions between agencies that were invisible for decades. 🔍\n\nYour next permit might finally clear in days instead of months—if the system trusts the computer over the backlog.\n\nPick one rule that slows your work. Paste it into an AI and ask for contradictions. What comes back? 🧠"
+    }
+  },
+  "instagram_caption": "New York has 130,000 active regulations, and nobody has read them all—not even the people enforcing them. 🏛️\n\nGovernor Hochul just dropped an AI on thousands of pages of state rules. The machine isn't skimming; it's analyzing. And it already found contradictions between agencies that were invisible for decades. 🔍\n\nYour next permit might finally clear in days instead of months—if the system trusts the computer over the backlog.\n\nPick one rule that slows your work. Paste it into an AI and ask for contradictions. What comes back? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "No human read them all.",
+      "description": "New York has over 130,000 active regulations — too many for any person to read entirely.",
+      "visual_hint": "Mountain of stacked papers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "paper documents pile"
+    },
+    {
+      "hook": "AI scans thousands of rules.",
+      "description": "Governor Hochul deployed AI on thousands of rule pages — not just scanning, but analyzing.",
+      "visual_hint": "Data streams on server racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Contradictions hidden for decades.",
+      "description": "The AI found contradictions between agencies that were invisible to human reviewers for decades.",
+      "visual_hint": "Red overlapping lines on grid",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Permits approved in days.",
+      "description": "Permits that took months could clear in days if the system trusts the machine.",
+      "visual_hint": "Hand holding a stamped document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "approved permit stamp",
+      "image": "https://images.pexels.com/photos/8830664/pexels-photo-8830664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your rule.",
+      "description": "Pick one regulation that slows your work. Paste it into an AI and ask for contradictions.",
+      "visual_hint": "Phone screen with AI chat bubble",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen text",
+      "image": "https://images.pexels.com/photos/7278915/pexels-photo-7278915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727373918039%2C100%2C78.545252163922&amp;w=1200",
+  "savedAt": "2026-07-16T18:57:43.045Z",
+  "sourceId": "ce2196ba2ede0853a6ea4a5237869955"
+}

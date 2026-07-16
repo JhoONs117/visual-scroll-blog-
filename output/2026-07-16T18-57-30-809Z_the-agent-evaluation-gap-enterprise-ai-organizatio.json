@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-agent-evaluation-gap-enterprise-ai-organizatio",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+  "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+  "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
+  "slides": [
+    "Your agent passes 90% of tests. Why are users complaining?",
+    "Coverage metrics ignore how agents handle unknown scenarios.",
+    "Only 1 in 5 failures comes from missed test cases.",
+    "Ship anyway, and watch trust erode with every wrong action.",
+    "Stop tracking coverage. Start tracking hallucination and harm rates."
+  ],
+  "thread_text": [
+    "1. 90% pass rate? Users are mad\n\nOnly 30% of user-reported failures showed up in your tests. The rest happened in live, unexpected scenarios.",
+    "2. Coverage is a safety blanket\n\nTest coverage ignores how agents behave when they encounter the unknown. It's like checking brakes only on dry roads.",
+    "3. 1 in 5 failures is from missed tests\n\nThe other 4 come from the AI making confident wrong decisions in situations you never anticipated.",
+    "4. Ship anyway, lose trust\n\nEvery wrong action erodes trust faster than a perfect score builds it. Users remember the mistakes, not the metrics.",
+    "5. Track the real dangers\n\nStop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week and log what the AI does wrong."
+  ],
+  "video_script": [
+    "Your agent passes 90% of tests.",
+    "But users are still complaining.",
+    "Coverage ignores unknown scenarios.",
+    "Only one in five failures is missed tests.",
+    "Ship anyway, watch trust erode."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 90% pass rate? Users are mad\n\nOnly 30% of user-reported failures showed up in your tests. The rest happened in live, unexpected scenarios.",
+        "2. Coverage is a safety blanket\n\nTest coverage ignores how agents behave when they encounter the unknown. It's like checking brakes only on dry roads.",
+        "3. 1 in 5 failures is from missed tests\n\nThe other 4 come from the AI making confident wrong decisions in situations you never anticipated.",
+        "4. Ship anyway, lose trust\n\nEvery wrong action erodes trust faster than a perfect score builds it. Users remember the mistakes, not the metrics.",
+        "5. Track the real dangers\n\nStop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week and log what the AI does wrong."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your agent passes 90% of tests.",
+        "But users are still complaining.",
+        "Coverage ignores unknown scenarios.",
+        "Only one in five failures is missed tests.",
+        "Ship anyway, watch trust erode."
+      ]
+    },
+    "instagram": {
+      "caption": "A 90% test pass rate, and users are still furious. 😠\n\nNew data shows only 30% of failures come from missed tests—the other 70% happen in live, unseen situations. Most companies ship anyway, eroding trust with every confident wrong move.\n\n**For you**: If you're shipping an AI tool, every wrong action in production damages your reputation faster than any perfect test score. Users remember the mistakes, not the metrics. 📉\n\n**Your move**: Stop tracking pass rates. This week, run one user simulation and log every hallucination and harmful action. What did your AI actually break?"
+    }
+  },
+  "instagram_caption": "A 90% test pass rate, and users are still furious. 😠\n\nNew data shows only 30% of failures come from missed tests—the other 70% happen in live, unseen situations. Most companies ship anyway, eroding trust with every confident wrong move.\n\n**For you**: If you're shipping an AI tool, every wrong action in production damages your reputation faster than any perfect test score. Users remember the mistakes, not the metrics. 📉\n\n**Your move**: Stop tracking pass rates. This week, run one user simulation and log every hallucination and harmful action. What did your AI actually break?",
+  "carousel_slides": [
+    {
+      "hook": "90% pass rate? Users are furious.",
+      "description": "Only 30% of user failures appear in tests. The rest happen in live, unpredictable scenarios.",
+      "visual_hint": "Dropping graph line",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Coverage is a safety blanket.",
+      "description": "Test coverage ignores agent behavior in unknown scenarios. It's like checking brakes on dry roads.",
+      "visual_hint": "Dry empty road",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "empty highway road",
+      "image": "https://images.pexels.com/photos/13787760/pexels-photo-13787760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "4 of 5 failures aren't missed tests.",
+      "description": "The real failures come from AI making confident wrong decisions in situations you never anticipated.",
+      "visual_hint": "Glitchy AI decision tree",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network nodes",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ship anyway, watch trust erode.",
+      "description": "Every wrong action erodes trust faster than a perfect score builds it. Users remember mistakes.",
+      "visual_hint": "Hands dropping coins",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "person losing coins",
+      "image": "https://images.pexels.com/photos/7118211/pexels-photo-7118211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and change your metrics.",
+      "description": "Stop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week.",
+      "visual_hint": "Checklist with danger signs",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-16T18:58:20.464Z",
+  "sourceId": "1a909f02ea4e4811d4319cb8b5049616"
+}

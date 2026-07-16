@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-context-gap-enterprise-ai-organizations-hav",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+  "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+  "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
+  "slides": [
+    "Your AI fails when it guesses — not when it lacks data.",
+    "Most teams optimize retrieval, ignoring context reliability.",
+    "The real issue: users don't trust the AI's source logic.",
+    "Stop building better indexes. Start proving each answer's trail.",
+    "Audit one response chain today. See the gap yourself."
+  ],
+  "thread_text": [
+    "1. Your AI guesses too much.\n\nWhen AI lacks data, it fabricates logic—users don't see the missing link, they see a broken answer.",
+    "2. Context reliability is ignored.\n\nTeams optimize retrieval speed and accuracy, but never check if the sources are trustworthy for that specific query.",
+    "3. Trust breaks at the source logic.\n\nUsers can't trace how the AI connected the dots—they only see the final, often flawed, output.",
+    "4. Stop indexing more data.\n\nIndex size doesn't fix faulty reasoning. The real leverage is in proving each answer's chain of evidence.",
+    "5. Audit one response chain today.\n\nPick a recent AI output—trace its source path. If you find a gap, you've found where trust erodes."
+  ],
+  "video_script": [
+    "AI fails when it guesses.",
+    "Not when data is missing.",
+    "Teams fix retrieval, ignore context.",
+    "Users distrust the source logic.",
+    "Audit one response chain now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI guesses too much.\n\nWhen AI lacks data, it fabricates logic—users don't see the missing link, they see a broken answer.",
+        "2. Context reliability is ignored.\n\nTeams optimize retrieval speed and accuracy, but never check if the sources are trustworthy for that specific query.",
+        "3. Trust breaks at the source logic.\n\nUsers can't trace how the AI connected the dots—they only see the final, often flawed, output.",
+        "4. Stop indexing more data.\n\nIndex size doesn't fix faulty reasoning. The real leverage is in proving each answer's chain of evidence.",
+        "5. Audit one response chain today.\n\nPick a recent AI output—trace its source path. If you find a gap, you've found where trust erodes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI fails when it guesses.",
+        "Not when data is missing.",
+        "Teams fix retrieval, ignore context.",
+        "Users distrust the source logic.",
+        "Audit one response chain now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI is guessing—and that guesswork is what destroys user trust, not a lack of data.\n\nMost teams obsess over retrieval speed and index size. They ignore whether the sources actually hold up for each specific question. The result: users see a confident but wrong answer they can't trace.\n\nIf you publish with AI, your audience doesn't need a bigger knowledge base. They need to see the chain of sources behind every output—or they'll stop believing anything it says.\n\n🔍 Pick one recent AI response from your work. Trace its source path today. Where's the first gap?"
+    }
+  },
+  "instagram_caption": "Your AI is guessing—and that guesswork is what destroys user trust, not a lack of data.\n\nMost teams obsess over retrieval speed and index size. They ignore whether the sources actually hold up for each specific question. The result: users see a confident but wrong answer they can't trace.\n\nIf you publish with AI, your audience doesn't need a bigger knowledge base. They need to see the chain of sources behind every output—or they'll stop believing anything it says.\n\n🔍 Pick one recent AI response from your work. Trace its source path today. Where's the first gap?",
+  "carousel_slides": [
+    {
+      "hook": "Trust breaks at source logic.",
+      "description": "Users can't trace how AI connects dots—they see a flawed output, not the missing link.",
+      "visual_hint": "Broken chain links",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken chain metal"
+    },
+    {
+      "hook": "Optimizing retrieval ignores context.",
+      "description": "Teams focus on speed and accuracy but never verify source trustworthiness for each query.",
+      "visual_hint": "Magnifying glass over data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass server",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI guesses when it lacks data.",
+      "description": "Without reliable context, AI fabricates logic—users don't see the gap, just a broken answer.",
+      "visual_hint": "Robot with question marks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot question marks",
+      "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop indexing more data.",
+      "description": "Index size doesn't fix faulty reasoning—prove each answer's chain of evidence instead.",
+      "visual_hint": "Stack of books fading",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stack of books",
+      "image": "https://images.pexels.com/photos/28649539/pexels-photo-28649539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—audit one response chain.",
+      "description": "Pick a recent AI output, trace its source path. Find the gap where trust erodes.",
+      "visual_hint": "Checkmark on audit trail",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audit trail document",
+      "image": "https://images.pexels.com/photos/7247414/pexels-photo-7247414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-16T18:58:07.605Z",
+  "sourceId": "7caead535fc42efde210c3cda4667873"
+}

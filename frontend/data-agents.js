@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-agent-evaluation-gap-enterprise-ai-organizatio",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "slides": [
+        "Your agent passes 90% of tests. Why are users complaining?",
+        "Coverage metrics ignore how agents handle unknown scenarios.",
+        "Only 1 in 5 failures comes from missed test cases.",
+        "Ship anyway, and watch trust erode with every wrong action.",
+        "Stop tracking coverage. Start tracking hallucination and harm rates."
+      ],
+      "thread_text": [
+        "1. 90% pass rate? Users are mad\n\nOnly 30% of user-reported failures showed up in your tests. The rest happened in live, unexpected scenarios.",
+        "2. Coverage is a safety blanket\n\nTest coverage ignores how agents behave when they encounter the unknown. It's like checking brakes only on dry roads.",
+        "3. 1 in 5 failures is from missed tests\n\nThe other 4 come from the AI making confident wrong decisions in situations you never anticipated.",
+        "4. Ship anyway, lose trust\n\nEvery wrong action erodes trust faster than a perfect score builds it. Users remember the mistakes, not the metrics.",
+        "5. Track the real dangers\n\nStop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week and log what the AI does wrong."
+      ],
+      "video_script": [
+        "Your agent passes 90% of tests.",
+        "But users are still complaining.",
+        "Coverage ignores unknown scenarios.",
+        "Only one in five failures is missed tests.",
+        "Ship anyway, watch trust erode."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 90% pass rate? Users are mad\n\nOnly 30% of user-reported failures showed up in your tests. The rest happened in live, unexpected scenarios.",
+            "2. Coverage is a safety blanket\n\nTest coverage ignores how agents behave when they encounter the unknown. It's like checking brakes only on dry roads.",
+            "3. 1 in 5 failures is from missed tests\n\nThe other 4 come from the AI making confident wrong decisions in situations you never anticipated.",
+            "4. Ship anyway, lose trust\n\nEvery wrong action erodes trust faster than a perfect score builds it. Users remember the mistakes, not the metrics.",
+            "5. Track the real dangers\n\nStop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week and log what the AI does wrong."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your agent passes 90% of tests.",
+            "But users are still complaining.",
+            "Coverage ignores unknown scenarios.",
+            "Only one in five failures is missed tests.",
+            "Ship anyway, watch trust erode."
+          ]
+        },
+        "instagram": {
+          "caption": "A 90% test pass rate, and users are still furious. 😠\n\nNew data shows only 30% of failures come from missed tests—the other 70% happen in live, unseen situations. Most companies ship anyway, eroding trust with every confident wrong move.\n\n**For you**: If you're shipping an AI tool, every wrong action in production damages your reputation faster than any perfect test score. Users remember the mistakes, not the metrics. 📉\n\n**Your move**: Stop tracking pass rates. This week, run one user simulation and log every hallucination and harmful action. What did your AI actually break?"
+        }
+      },
+      "instagram_caption": "A 90% test pass rate, and users are still furious. 😠\n\nNew data shows only 30% of failures come from missed tests—the other 70% happen in live, unseen situations. Most companies ship anyway, eroding trust with every confident wrong move.\n\n**For you**: If you're shipping an AI tool, every wrong action in production damages your reputation faster than any perfect test score. Users remember the mistakes, not the metrics. 📉\n\n**Your move**: Stop tracking pass rates. This week, run one user simulation and log every hallucination and harmful action. What did your AI actually break?",
+      "carousel_slides": [
+        {
+          "hook": "90% pass rate? Users are furious.",
+          "description": "Only 30% of user failures appear in tests. The rest happen in live, unpredictable scenarios.",
+          "visual_hint": "Dropping graph line",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Coverage is a safety blanket.",
+          "description": "Test coverage ignores agent behavior in unknown scenarios. It's like checking brakes on dry roads.",
+          "visual_hint": "Dry empty road",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "empty highway road",
+          "image": "https://images.pexels.com/photos/13787760/pexels-photo-13787760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "4 of 5 failures aren't missed tests.",
+          "description": "The real failures come from AI making confident wrong decisions in situations you never anticipated.",
+          "visual_hint": "Glitchy AI decision tree",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network nodes",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ship anyway, watch trust erode.",
+          "description": "Every wrong action erodes trust faster than a perfect score builds it. Users remember mistakes.",
+          "visual_hint": "Hands dropping coins",
+          "layout_type": "human-hand",
+          "icon": "waves",
+          "image_query": "person losing coins",
+          "image": "https://images.pexels.com/photos/7118211/pexels-photo-7118211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and change your metrics.",
+          "description": "Stop measuring coverage. Start measuring hallucination and harm rates. Run one user simulation this week.",
+          "visual_hint": "Checklist with danger signs",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-16T18:58:20.464Z",
+      "sourceId": "1a909f02ea4e4811d4319cb8b5049616"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-context-gap-enterprise-ai-organizations-hav",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "slides": [
+        "Your AI fails when it guesses — not when it lacks data.",
+        "Most teams optimize retrieval, ignoring context reliability.",
+        "The real issue: users don't trust the AI's source logic.",
+        "Stop building better indexes. Start proving each answer's trail.",
+        "Audit one response chain today. See the gap yourself."
+      ],
+      "thread_text": [
+        "1. Your AI guesses too much.\n\nWhen AI lacks data, it fabricates logic—users don't see the missing link, they see a broken answer.",
+        "2. Context reliability is ignored.\n\nTeams optimize retrieval speed and accuracy, but never check if the sources are trustworthy for that specific query.",
+        "3. Trust breaks at the source logic.\n\nUsers can't trace how the AI connected the dots—they only see the final, often flawed, output.",
+        "4. Stop indexing more data.\n\nIndex size doesn't fix faulty reasoning. The real leverage is in proving each answer's chain of evidence.",
+        "5. Audit one response chain today.\n\nPick a recent AI output—trace its source path. If you find a gap, you've found where trust erodes."
+      ],
+      "video_script": [
+        "AI fails when it guesses.",
+        "Not when data is missing.",
+        "Teams fix retrieval, ignore context.",
+        "Users distrust the source logic.",
+        "Audit one response chain now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI guesses too much.\n\nWhen AI lacks data, it fabricates logic—users don't see the missing link, they see a broken answer.",
+            "2. Context reliability is ignored.\n\nTeams optimize retrieval speed and accuracy, but never check if the sources are trustworthy for that specific query.",
+            "3. Trust breaks at the source logic.\n\nUsers can't trace how the AI connected the dots—they only see the final, often flawed, output.",
+            "4. Stop indexing more data.\n\nIndex size doesn't fix faulty reasoning. The real leverage is in proving each answer's chain of evidence.",
+            "5. Audit one response chain today.\n\nPick a recent AI output—trace its source path. If you find a gap, you've found where trust erodes."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI fails when it guesses.",
+            "Not when data is missing.",
+            "Teams fix retrieval, ignore context.",
+            "Users distrust the source logic.",
+            "Audit one response chain now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI is guessing—and that guesswork is what destroys user trust, not a lack of data.\n\nMost teams obsess over retrieval speed and index size. They ignore whether the sources actually hold up for each specific question. The result: users see a confident but wrong answer they can't trace.\n\nIf you publish with AI, your audience doesn't need a bigger knowledge base. They need to see the chain of sources behind every output—or they'll stop believing anything it says.\n\n🔍 Pick one recent AI response from your work. Trace its source path today. Where's the first gap?"
+        }
+      },
+      "instagram_caption": "Your AI is guessing—and that guesswork is what destroys user trust, not a lack of data.\n\nMost teams obsess over retrieval speed and index size. They ignore whether the sources actually hold up for each specific question. The result: users see a confident but wrong answer they can't trace.\n\nIf you publish with AI, your audience doesn't need a bigger knowledge base. They need to see the chain of sources behind every output—or they'll stop believing anything it says.\n\n🔍 Pick one recent AI response from your work. Trace its source path today. Where's the first gap?",
+      "carousel_slides": [
+        {
+          "hook": "Trust breaks at source logic.",
+          "description": "Users can't trace how AI connects dots—they see a flawed output, not the missing link.",
+          "visual_hint": "Broken chain links",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken chain metal"
+        },
+        {
+          "hook": "Optimizing retrieval ignores context.",
+          "description": "Teams focus on speed and accuracy but never verify source trustworthiness for each query.",
+          "visual_hint": "Magnifying glass over data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass server",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI guesses when it lacks data.",
+          "description": "Without reliable context, AI fabricates logic—users don't see the gap, just a broken answer.",
+          "visual_hint": "Robot with question marks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot question marks",
+          "image": "https://images.pexels.com/photos/10981245/pexels-photo-10981245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop indexing more data.",
+          "description": "Index size doesn't fix faulty reasoning—prove each answer's chain of evidence instead.",
+          "visual_hint": "Stack of books fading",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stack of books",
+          "image": "https://images.pexels.com/photos/28649539/pexels-photo-28649539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—audit one response chain.",
+          "description": "Pick a recent AI output, trace its source path. Find the gap where trust erodes.",
+          "visual_hint": "Checkmark on audit trail",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "audit trail document",
+          "image": "https://images.pexels.com/photos/7247414/pexels-photo-7247414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-16T18:58:07.605Z",
+      "sourceId": "7caead535fc42efde210c3cda4667873"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-compute-gap-enterprises-are-buying-infrastr",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "pubDate": "Thu, 16 Jul 2026 17:35:19 GMT",
+      "slides": [
+        "Are your AI infrastructure costs already spiraling out of control?",
+        "Enterprises now buy compute faster than they track spending.",
+        "One in four firms has no real-time cost visibility at all.",
+        "Your next GPU purchase may double without warning.",
+        "Implement usage metering before your next procurement cycle."
+      ],
+      "thread_text": [
+        "1. Your GPU budget just exploded\n\nOne in four firms can't see costs in real time. They only find out after the invoice hits.",
+        "2. Speed of purchase vs. speed of tracking\n\nEnterprises now buy compute faster than they track spending. Procurement is flying blind.",
+        "3. The hidden price jump\n\nYour next GPU purchase may double without warning. No one is flagging the trend.",
+        "4. Metering is the missing link\n\nWithout usage metering, you can't tie cost to consumption. Only half the story is visible.",
+        "5. Act before your next cycle\n\nImplement usage metering now. Test it on your current GPU stack—before procurement locks in the next order."
+      ],
+      "video_script": [
+        "Are your infrastructure costs spiraling out of control?",
+        "Firms buy compute faster than they track spending.",
+        "One in four has zero real-time cost visibility.",
+        "Your next GPU purchase could double without warning.",
+        "Meter usage before your next procurement cycle."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your GPU budget just exploded\n\nOne in four firms can't see costs in real time. They only find out after the invoice hits.",
+            "2. Speed of purchase vs. speed of tracking\n\nEnterprises now buy compute faster than they track spending. Procurement is flying blind.",
+            "3. The hidden price jump\n\nYour next GPU purchase may double without warning. No one is flagging the trend.",
+            "4. Metering is the missing link\n\nWithout usage metering, you can't tie cost to consumption. Only half the story is visible.",
+            "5. Act before your next cycle\n\nImplement usage metering now. Test it on your current GPU stack—before procurement locks in the next order."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Are your infrastructure costs spiraling out of control?",
+            "Firms buy compute faster than they track spending.",
+            "One in four has zero real-time cost visibility.",
+            "Your next GPU purchase could double without warning.",
+            "Meter usage before your next procurement cycle."
+          ]
+        },
+        "instagram": {
+          "caption": "One in four companies has no real-time view of what their AI infrastructure actually costs — they only see the bill after it arrives.\n\nEnterprises are buying GPUs faster than they can track spending, leaving procurement teams flying blind 💸. Without usage metering, you can't connect cost to consumption, meaning half your AI budget is invisible.\n\nNext GPU purchase could double without warning, and no one will catch it.\n\nAre you tracking your compute usage live — or just hoping the invoice makes sense?"
+        }
+      },
+      "instagram_caption": "One in four companies has no real-time view of what their AI infrastructure actually costs — they only see the bill after it arrives.\n\nEnterprises are buying GPUs faster than they can track spending, leaving procurement teams flying blind 💸. Without usage metering, you can't connect cost to consumption, meaning half your AI budget is invisible.\n\nNext GPU purchase could double without warning, and no one will catch it.\n\nAre you tracking your compute usage live — or just hoping the invoice makes sense?",
+      "carousel_slides": [
+        {
+          "hook": "Your GPU budget just exploded.",
+          "description": "One in four firms can't see costs in real time. They find out only after the invoice hits.",
+          "visual_hint": "exploding budget chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Buying faster than tracking?",
+          "description": "Enterprises buy compute faster than they track spending. Procurement is flying blind without data.",
+          "visual_hint": "fast arrow vs slow clock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next GPU purchase may double.",
+          "description": "A hidden price jump can strike without warning. No one flags the trend in time.",
+          "visual_hint": "GPU price graph spike",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Metering: the missing link.",
+          "description": "Without usage metering, you can't tie cost to consumption. Only half the story is visible.",
+          "visual_hint": "broken chain link",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save your GPU budget today.",
+          "description": "Implement usage metering now. Test it on your current GPU stack before the next procurement cycle.",
+          "visual_hint": "calendar with check mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-16T18:57:54.478Z",
+      "sourceId": "308c77cdd950d28dd693c2372f47100e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "new-york-governor-says-she-8217-s-using-ai-to-anal",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "pubDate": "2026-07-16T17:58:37.000Z",
+      "slides": [
+        "Can AI untangle New York's rulebook?",
+        "Governor Hochul deploys AI on thousands of regulations.",
+        "The rules written by humans are too many to read.",
+        "This AI finds contradictions agencies never saw.",
+        "Your next permit might finally be approved faster."
+      ],
+      "thread_text": [
+        "1. Can AI read what we can't?\n\nNew York has over 130,000 active regulations. No human has read them all.",
+        "2. The governor plays a new card.\n\nHochul just put an AI on thousands of pages. It's not scanning — it's analyzing.",
+        "3. What humans missed.\n\nThe AI found contradictions between agencies that were invisible for decades.",
+        "4. One bottleneck vanishes.\n\nPermits that took months could clear in days, if the system trusts the machine.",
+        "5. Try this on a rule you hate.\n\nPick one regulation that slows your work. Paste it into an AI and ask for contradictions. See what it finds."
+      ],
+      "video_script": [
+        "New York has over 130,000 regulations.",
+        "Governor Hochul just deployed an AI.",
+        "It found contradictions humans never saw.",
+        "Your permits might finally get approved faster.",
+        "Test it on a rule you hate today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can AI read what we can't?\n\nNew York has over 130,000 active regulations. No human has read them all.",
+            "2. The governor plays a new card.\n\nHochul just put an AI on thousands of pages. It's not scanning — it's analyzing.",
+            "3. What humans missed.\n\nThe AI found contradictions between agencies that were invisible for decades.",
+            "4. One bottleneck vanishes.\n\nPermits that took months could clear in days, if the system trusts the machine.",
+            "5. Try this on a rule you hate.\n\nPick one regulation that slows your work. Paste it into an AI and ask for contradictions. See what it finds."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "New York has over 130,000 regulations.",
+            "Governor Hochul just deployed an AI.",
+            "It found contradictions humans never saw.",
+            "Your permits might finally get approved faster.",
+            "Test it on a rule you hate today."
+          ]
+        },
+        "instagram": {
+          "caption": "New York has 130,000 active regulations, and nobody has read them all—not even the people enforcing them. 🏛️\n\nGovernor Hochul just dropped an AI on thousands of pages of state rules. The machine isn't skimming; it's analyzing. And it already found contradictions between agencies that were invisible for decades. 🔍\n\nYour next permit might finally clear in days instead of months—if the system trusts the computer over the backlog.\n\nPick one rule that slows your work. Paste it into an AI and ask for contradictions. What comes back? 🧠"
+        }
+      },
+      "instagram_caption": "New York has 130,000 active regulations, and nobody has read them all—not even the people enforcing them. 🏛️\n\nGovernor Hochul just dropped an AI on thousands of pages of state rules. The machine isn't skimming; it's analyzing. And it already found contradictions between agencies that were invisible for decades. 🔍\n\nYour next permit might finally clear in days instead of months—if the system trusts the computer over the backlog.\n\nPick one rule that slows your work. Paste it into an AI and ask for contradictions. What comes back? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "No human read them all.",
+          "description": "New York has over 130,000 active regulations — too many for any person to read entirely.",
+          "visual_hint": "Mountain of stacked papers",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "paper documents pile"
+        },
+        {
+          "hook": "AI scans thousands of rules.",
+          "description": "Governor Hochul deployed AI on thousands of rule pages — not just scanning, but analyzing.",
+          "visual_hint": "Data streams on server racks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Contradictions hidden for decades.",
+          "description": "The AI found contradictions between agencies that were invisible to human reviewers for decades.",
+          "visual_hint": "Red overlapping lines on grid",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Permits approved in days.",
+          "description": "Permits that took months could clear in days if the system trusts the machine.",
+          "visual_hint": "Hand holding a stamped document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "approved permit stamp",
+          "image": "https://images.pexels.com/photos/8830664/pexels-photo-8830664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your rule.",
+          "description": "Pick one regulation that slows your work. Paste it into an AI and ask for contradictions.",
+          "visual_hint": "Phone screen with AI chat bubble",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen text",
+          "image": "https://images.pexels.com/photos/7278915/pexels-photo-7278915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727373918039%2C100%2C78.545252163922&amp;w=1200",
+      "savedAt": "2026-07-16T18:57:43.045Z",
+      "sourceId": "ce2196ba2ede0853a6ea4a5237869955"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-a-former-deepmind-researcher-raised-at-a-300m-",
       "prompt_version": "1.0.0",
       "status": "published",
