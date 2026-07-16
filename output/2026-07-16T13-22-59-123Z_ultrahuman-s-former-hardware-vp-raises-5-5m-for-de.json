@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ultrahuman-s-former-hardware-vp-raises-5-5m-for-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+  "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+  "pubDate": "Thu, 16 Jul 2026 11:30:00 +0000",
+  "slides": [
+    "Ultrahuman's ex-VP just raised $5.5M. For what?",
+    "His new devices don't just track—they control AI agents.",
+    "You wear them, but the output isn't data—it's action.",
+    "Your agent now obeys your physiological state, not your voice.",
+    "Compare a voice command vs. a heart-rate-triggered action today."
+  ],
+  "thread_text": [
+    "1. No voice needed\n\nUltrahuman's ex-VP raised $5.5M to build wearables that control AI agents directly.",
+    "2. Wear them, act\n\nThese devices skip outputs like data or graphs—they trigger real actions from your body.",
+    "3. Heart beats, AI moves\n\nYour agent now obeys your heart rate, not your commands. No typing, no speaking.",
+    "4. Context, not command\n\nA voice says 'buy flight'—a rising heart rate actually books it. Which wins?",
+    "5. Try it yourself\n\nTest a heart-rate-triggered action on a simple ChatGPT workflow today. Can you trust it?"
+  ],
+  "video_script": [
+    "This device tracks your body, not your voice.",
+    "It then commands AI agents automatically.",
+    "Your heart rate triggers action, not data.",
+    "No typing or speaking needed for control.",
+    "Will you trust a body-driven AI agent?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No voice needed\n\nUltrahuman's ex-VP raised $5.5M to build wearables that control AI agents directly.",
+        "2. Wear them, act\n\nThese devices skip outputs like data or graphs—they trigger real actions from your body.",
+        "3. Heart beats, AI moves\n\nYour agent now obeys your heart rate, not your commands. No typing, no speaking.",
+        "4. Context, not command\n\nA voice says 'buy flight'—a rising heart rate actually books it. Which wins?",
+        "5. Try it yourself\n\nTest a heart-rate-triggered action on a simple ChatGPT workflow today. Can you trust it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "This device tracks your body, not your voice.",
+        "It then commands AI agents automatically.",
+        "Your heart rate triggers action, not data.",
+        "No typing or speaking needed for control.",
+        "Will you trust a body-driven AI agent?"
+      ]
+    },
+    "instagram": {
+      "caption": "Wearables you put on won't just log your steps anymore—they'll make AI take actions based on your heartbeat, not your voice. 👁️\n\nThe ex-hardware VP of Ultrahuman raised $5.5M to build devices that skip the data graphs and trigger real outputs. Your body becomes the command: a rising heart rate, not a spoken word, books a flight.\n\nFor anyone using AI agents to create or manage content: you stop prompting with text and start controlling workflows with your physiology.\n\nWould you let your heart rate decide what your AI does next—or does that feel like losing control? 🧠"
+    }
+  },
+  "instagram_caption": "Wearables you put on won't just log your steps anymore—they'll make AI take actions based on your heartbeat, not your voice. 👁️\n\nThe ex-hardware VP of Ultrahuman raised $5.5M to build devices that skip the data graphs and trigger real outputs. Your body becomes the command: a rising heart rate, not a spoken word, books a flight.\n\nFor anyone using AI agents to create or manage content: you stop prompting with text and start controlling workflows with your physiology.\n\nWould you let your heart rate decide what your AI does next—or does that feel like losing control? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your heart rate controls AI.",
+      "description": "Ex-Ultrahuman VP raises $5.5M for wearables that trigger actions, not just data.",
+      "visual_hint": "Futuristic wearable on wrist",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "futuristic smartwatch wrist"
+    },
+    {
+      "hook": "Wear them, act instantly.",
+      "description": "These devices skip graphs and charts — they turn your body into a real-time command.",
+      "visual_hint": "Wearable sending a signal",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartwatch sending signal",
+      "image": "https://images.pexels.com/photos/18148282/pexels-photo-18148282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Heart beats, AI moves.",
+      "description": "Your agent obeys your physiological state, not your voice. No typing needed.",
+      "visual_hint": "Heart rate line pulsing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "heart rate sensor closeup",
+      "image": "https://images.pexels.com/photos/8352131/pexels-photo-8352131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context beats every command.",
+      "description": "A voice says 'buy flight' — a rising heart rate books it. Which wins?",
+      "visual_hint": "Hand touching a smartwatch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartwatch screen",
+      "image": "https://images.pexels.com/photos/6612158/pexels-photo-6612158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself now.",
+      "description": "Trigger an action with your heart rate on a simple ChatGPT workflow today.",
+      "visual_hint": "Arrow pointing to link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartwatch and smartphone",
+      "image": "https://images.pexels.com/photos/15228805/pexels-photo-15228805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Apoorv-Shankar-Founder-Aina-color.jpeg?resize=1200,675",
+  "savedAt": "2026-07-16T13:23:12.149Z",
+  "sourceId": "46a1768f8837bb5d13f4fc5193709cd7"
+}

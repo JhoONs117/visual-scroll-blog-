@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-now-alerts-parents-if-their-teen-discussed-su",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+    "pubDate": "Thu, 16 Jul 2026 11:00:00 +0000",
+    "slides": [
+      "Meta now alerts parents when teens talk suicide with its AI.",
+      "The chatbot detects keywords like self-harm during conversations.",
+      "Parents get notified without seeing the actual chat content.",
+      "Your teen’s privacy is breached, but their safety may improve.",
+      "Review your child’s chat settings before the next notification arrives."
+    ],
+    "thread_text": [
+      "1. Your teen's secrets are exposed\n\nMeta notifies parents when its AI detects suicide keywords in chats, but without showing the actual messages.",
+      "2. Privacy is the price of protection\n\nThe chatbot scans for self-harm language, triggering alerts while hiding the conversation details from parents.",
+      "3. Safety vs. secrecy: a zero-sum game\n\nParents get alerted without context, leaving them to guess what triggered the notification.",
+      "4. The tool judges intent without nuance\n\nKeywords like \"harm\" may flag jokes or venting, treating all risk equally.",
+      "5. Adjust settings before the next alert\n\nOpen your teen’s chat privacy controls today and decide what gets monitored."
+    ],
+    "video_script": [
+      "Meta alerts parents when teens talk suicide.",
+      "The AI detects keywords like self-harm.",
+      "Parents see alerts, not actual chats.",
+      "Privacy is breached, safety may improve.",
+      "Review your child's chat settings now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your teen's secrets are exposed\n\nMeta notifies parents when its AI detects suicide keywords in chats, but without showing the actual messages.",
+          "2. Privacy is the price of protection\n\nThe chatbot scans for self-harm language, triggering alerts while hiding the conversation details from parents.",
+          "3. Safety vs. secrecy: a zero-sum game\n\nParents get alerted without context, leaving them to guess what triggered the notification.",
+          "4. The tool judges intent without nuance\n\nKeywords like \"harm\" may flag jokes or venting, treating all risk equally.",
+          "5. Adjust settings before the next alert\n\nOpen your teen’s chat privacy controls today and decide what gets monitored."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta alerts parents when teens talk suicide.",
+          "The AI detects keywords like self-harm.",
+          "Parents see alerts, not actual chats.",
+          "Privacy is breached, safety may improve.",
+          "Review your child's chat settings now."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta just made your teen’s AI secrets fair game. 🛑\n\nIf your child mentions suicide or self-harm to the chatbot, Meta sends you a red alert. No chat history—just a vague signal that something was said, with no context about jokes, venting, or serious cries for help. 🚨\n\nEvery keyword like “harm” becomes a potential parent notification, treating all risk the same.\n\nYou now get a safety ping—but lose the nuance of their actual conversation.\n\nOpen your teen’s privacy controls today. Would you rather know a red flag exists, or the actual context? 🔍"
+      }
+    },
+    "instagram_caption": "Meta just made your teen’s AI secrets fair game. 🛑\n\nIf your child mentions suicide or self-harm to the chatbot, Meta sends you a red alert. No chat history—just a vague signal that something was said, with no context about jokes, venting, or serious cries for help. 🚨\n\nEvery keyword like “harm” becomes a potential parent notification, treating all risk the same.\n\nYou now get a safety ping—but lose the nuance of their actual conversation.\n\nOpen your teen’s privacy controls today. Would you rather know a red flag exists, or the actual context? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your teen's secrets are exposed",
+        "description": "Meta alerts parents when its AI detects suicide keywords in teen chats, without revealing actual messages.",
+        "visual_hint": "Chat bubble with alert icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone chat screen"
+      },
+      {
+        "hook": "Privacy is the price of protection",
+        "description": "Chatbot scans for self-harm language, triggering alerts but hiding conversation details from parents.",
+        "visual_hint": "Padlock on eye icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "lock and privacy",
+        "image": "https://images.pexels.com/photos/7228617/pexels-photo-7228617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Safety vs. secrecy: a zero-sum game",
+        "description": "Parents get alerted without context, leaving them to guess what triggered the notification.",
+        "visual_hint": "Scale with chat text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The tool judges intent without nuance",
+        "description": "Keywords like \"harm\" may flag jokes or venting, treating all risk equally.",
+        "visual_hint": "Robot scanning magnifying glass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot arm typing",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Adjust settings before the next alert",
+        "description": "Open your teen's chat privacy controls today and decide what gets monitored.",
+        "visual_hint": "Settings gear icon with chat",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "settings menu phone",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+    "savedAt": "2026-07-16T13:23:24.506Z",
+    "sourceId": "4db0a0c0adc99c5b889fac6c8a5470b0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ultrahuman-s-former-hardware-vp-raises-5-5m-for-de",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+    "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+    "pubDate": "Thu, 16 Jul 2026 11:30:00 +0000",
+    "slides": [
+      "Ultrahuman's ex-VP just raised $5.5M. For what?",
+      "His new devices don't just track—they control AI agents.",
+      "You wear them, but the output isn't data—it's action.",
+      "Your agent now obeys your physiological state, not your voice.",
+      "Compare a voice command vs. a heart-rate-triggered action today."
+    ],
+    "thread_text": [
+      "1. No voice needed\n\nUltrahuman's ex-VP raised $5.5M to build wearables that control AI agents directly.",
+      "2. Wear them, act\n\nThese devices skip outputs like data or graphs—they trigger real actions from your body.",
+      "3. Heart beats, AI moves\n\nYour agent now obeys your heart rate, not your commands. No typing, no speaking.",
+      "4. Context, not command\n\nA voice says 'buy flight'—a rising heart rate actually books it. Which wins?",
+      "5. Try it yourself\n\nTest a heart-rate-triggered action on a simple ChatGPT workflow today. Can you trust it?"
+    ],
+    "video_script": [
+      "This device tracks your body, not your voice.",
+      "It then commands AI agents automatically.",
+      "Your heart rate triggers action, not data.",
+      "No typing or speaking needed for control.",
+      "Will you trust a body-driven AI agent?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No voice needed\n\nUltrahuman's ex-VP raised $5.5M to build wearables that control AI agents directly.",
+          "2. Wear them, act\n\nThese devices skip outputs like data or graphs—they trigger real actions from your body.",
+          "3. Heart beats, AI moves\n\nYour agent now obeys your heart rate, not your commands. No typing, no speaking.",
+          "4. Context, not command\n\nA voice says 'buy flight'—a rising heart rate actually books it. Which wins?",
+          "5. Try it yourself\n\nTest a heart-rate-triggered action on a simple ChatGPT workflow today. Can you trust it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "This device tracks your body, not your voice.",
+          "It then commands AI agents automatically.",
+          "Your heart rate triggers action, not data.",
+          "No typing or speaking needed for control.",
+          "Will you trust a body-driven AI agent?"
+        ]
+      },
+      "instagram": {
+        "caption": "Wearables you put on won't just log your steps anymore—they'll make AI take actions based on your heartbeat, not your voice. 👁️\n\nThe ex-hardware VP of Ultrahuman raised $5.5M to build devices that skip the data graphs and trigger real outputs. Your body becomes the command: a rising heart rate, not a spoken word, books a flight.\n\nFor anyone using AI agents to create or manage content: you stop prompting with text and start controlling workflows with your physiology.\n\nWould you let your heart rate decide what your AI does next—or does that feel like losing control? 🧠"
+      }
+    },
+    "instagram_caption": "Wearables you put on won't just log your steps anymore—they'll make AI take actions based on your heartbeat, not your voice. 👁️\n\nThe ex-hardware VP of Ultrahuman raised $5.5M to build devices that skip the data graphs and trigger real outputs. Your body becomes the command: a rising heart rate, not a spoken word, books a flight.\n\nFor anyone using AI agents to create or manage content: you stop prompting with text and start controlling workflows with your physiology.\n\nWould you let your heart rate decide what your AI does next—or does that feel like losing control? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Your heart rate controls AI.",
+        "description": "Ex-Ultrahuman VP raises $5.5M for wearables that trigger actions, not just data.",
+        "visual_hint": "Futuristic wearable on wrist",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "futuristic smartwatch wrist"
+      },
+      {
+        "hook": "Wear them, act instantly.",
+        "description": "These devices skip graphs and charts — they turn your body into a real-time command.",
+        "visual_hint": "Wearable sending a signal",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartwatch sending signal",
+        "image": "https://images.pexels.com/photos/18148282/pexels-photo-18148282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Heart beats, AI moves.",
+        "description": "Your agent obeys your physiological state, not your voice. No typing needed.",
+        "visual_hint": "Heart rate line pulsing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "heart rate sensor closeup",
+        "image": "https://images.pexels.com/photos/8352131/pexels-photo-8352131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Context beats every command.",
+        "description": "A voice says 'buy flight' — a rising heart rate books it. Which wins?",
+        "visual_hint": "Hand touching a smartwatch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching smartwatch screen",
+        "image": "https://images.pexels.com/photos/6612158/pexels-photo-6612158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it yourself now.",
+        "description": "Trigger an action with your heart rate on a simple ChatGPT workflow today.",
+        "visual_hint": "Arrow pointing to link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartwatch and smartphone",
+        "image": "https://images.pexels.com/photos/15228805/pexels-photo-15228805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Apoorv-Shankar-Founder-Aina-color.jpeg?resize=1200,675",
+    "savedAt": "2026-07-16T13:23:12.149Z",
+    "sourceId": "46a1768f8837bb5d13f4fc5193709cd7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "neko-health-raises-700-million-to-expand-ai-body-s",
     "prompt_version": "1.0.0",
     "status": "published",
