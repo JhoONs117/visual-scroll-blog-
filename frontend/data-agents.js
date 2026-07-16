@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "amid-hardware-legal-battle-openai-releases-a-230-k",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "slides": [
+        "Why would OpenAI sell a keyboard amid a legal war?",
+        "The $230 device is designed for Codex, not typing.",
+        "It has no keys—just pressure sensors for gestures.",
+        "Your next code sprint might skip the keyboard entirely.",
+        "Test a gesture-based workflow before your competitors do."
+      ],
+      "thread_text": [
+        "1. Why risk a keyboard?\n\nOpenAI faces a lawsuit over a device that can't type a single letter.",
+        "2. No keys at all.\n\nThe $230 slab uses pressure sensors for gestures, not for typing text.",
+        "3. Built for code, not email.\n\nCodex interprets your hand movements so you never touch a keyboard in a sprint.",
+        "4. Skip the keyboard entirely.\n\nYour next code sprint might happen with just gestures and voice.",
+        "5. Test a gesture workflow today.\n\nOpen ChatGPT, try describing a function with only hand motions. Does it save time or add friction?"
+      ],
+      "video_script": [
+        "OpenAI selling a keyboard that can't type.",
+        "It only has pressure sensors for gestures.",
+        "It's built for coding with Codex.",
+        "Your next sprint might skip the keyboard.",
+        "Test a gesture workflow before your competitors do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why risk a keyboard?\n\nOpenAI faces a lawsuit over a device that can't type a single letter.",
+            "2. No keys at all.\n\nThe $230 slab uses pressure sensors for gestures, not for typing text.",
+            "3. Built for code, not email.\n\nCodex interprets your hand movements so you never touch a keyboard in a sprint.",
+            "4. Skip the keyboard entirely.\n\nYour next code sprint might happen with just gestures and voice.",
+            "5. Test a gesture workflow today.\n\nOpen ChatGPT, try describing a function with only hand motions. Does it save time or add friction?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI selling a keyboard that can't type.",
+            "It only has pressure sensors for gestures.",
+            "It's built for coding with Codex.",
+            "Your next sprint might skip the keyboard.",
+            "Test a gesture workflow before your competitors do."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI is selling a $230 keyboard slab with no keys—just pressure sensors that read hand gestures for coding in Codex.\n\nThe device sidesteps typing entirely: you wave to write functions. 💻 This launches while OpenAI faces a hardware-related lawsuit, making the timing anything but accidental. 🧑‍⚖️\n\nIf you rely on code sprints, your next project might start with a gesture—and end your relationship with keyboards. 🤔\n\nCould describing a function with hand motions actually save you time, or would it just add friction to your flow?"
+        }
+      },
+      "instagram_caption": "OpenAI is selling a $230 keyboard slab with no keys—just pressure sensors that read hand gestures for coding in Codex.\n\nThe device sidesteps typing entirely: you wave to write functions. 💻 This launches while OpenAI faces a hardware-related lawsuit, making the timing anything but accidental. 🧑‍⚖️\n\nIf you rely on code sprints, your next project might start with a gesture—and end your relationship with keyboards. 🤔\n\nCould describing a function with hand motions actually save you time, or would it just add friction to your flow?",
+      "carousel_slides": [
+        {
+          "hook": "Why sell a keyboard that can't type?",
+          "description": "OpenAI faces a lawsuit over a $230 device with no keys, only pressure sensors for gestures.",
+          "visual_hint": "Minimalist dark slab",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "black gesture controller"
+        },
+        {
+          "hook": "No keys, just gestures.",
+          "description": "The Codex device uses pressure sensors for hand movements, not for typing a single letter.",
+          "visual_hint": "Hand pressing sensor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hand sensor pad",
+          "image": "https://images.pexels.com/photos/8132707/pexels-photo-8132707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Built for code, not email.",
+          "description": "Codex interprets your gestures so you never touch a keyboard during a sprint.",
+          "visual_hint": "Code on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "code editor closeup",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip the keyboard entirely.",
+          "description": "Your next code sprint might use only gestures and voice, leaving the keyboard behind.",
+          "visual_hint": "Developer gesturing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "programmer hand motion",
+          "image": "https://images.pexels.com/photos/7988124/pexels-photo-7988124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test gesture coding now.",
+          "description": "Open ChatGPT and describe a function using only hand motions—see if it saves time.",
+          "visual_hint": "ChatGPT and hands",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chatgpt interface",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+      "savedAt": "2026-07-16T07:57:41.418Z",
+      "sourceId": "c9ca9bb827ce5a05b0c0c57bfb86b28a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "applied-computing-wants-to-give-oil-and-gas-operat",
       "prompt_version": "1.0.0",
       "status": "published",
