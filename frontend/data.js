@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-slop-movies-are-the-new-direct-to-video-cash-gr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI slop movies are the new direct-to-video cash grabs",
+    "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+    "pubDate": "2026-07-15T20:00:00.000Z",
+    "slides": [
+      "AI slop movies flood streaming—but who actually profits?",
+      "Studios now generate full movies without human actors.",
+      "Yet these films earn more than low-budget indies do.",
+      "Gig economy writers face a new competitor: algorithms.",
+      "Watch one: check the credits for an AI studio name."
+    ],
+    "thread_text": [
+      "How did this happen?\n\nOne AI-generated film earned $12 million on streaming last year while its human-made budget was zero.",
+      "The math that broke Hollywood.\n\nStudios now produce full-length movies using generative video tools, removing actors, sets, and camera crews.",
+      "Algorithms beat artistry.\n\nThese films consistently outearn low-budget indie movies, which often need a festival run just to break even.",
+      "Your favorite writer just got a new boss.\n\nGig economy screenwriters now compete with large language models that can script a plot in seconds.",
+      "Find one yourself.\n\nOpen Netflix, pick a random low-budget title, and scroll to the credits. If you see \"Flawless AI\" or \"Runway,\" you found it."
+    ],
+    "video_script": [
+      "AI-made movies earn more than indie films.",
+      "No actors, no sets, just algorithms.",
+      "The script is written by a machine.",
+      "Real writers now compete with AI.",
+      "Check credits on streaming for proof."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "How did this happen?\n\nOne AI-generated film earned $12 million on streaming last year while its human-made budget was zero.",
+          "The math that broke Hollywood.\n\nStudios now produce full-length movies using generative video tools, removing actors, sets, and camera crews.",
+          "Algorithms beat artistry.\n\nThese films consistently outearn low-budget indie movies, which often need a festival run just to break even.",
+          "Your favorite writer just got a new boss.\n\nGig economy screenwriters now compete with large language models that can script a plot in seconds.",
+          "Find one yourself.\n\nOpen Netflix, pick a random low-budget title, and scroll to the credits. If you see \"Flawless AI\" or \"Runway,\" you found it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI-made movies earn more than indie films.",
+          "No actors, no sets, just algorithms.",
+          "The script is written by a machine.",
+          "Real writers now compete with AI.",
+          "Check credits on streaming for proof."
+        ]
+      },
+      "instagram": {
+        "caption": "Last year, one AI-generated film with zero human cast costs pulled in $12 million on streaming.\n\nStudios are now cranking out full-length movies using generative video tools—no actors, no sets, no camera crews 📼 These films consistently out-earn indie projects that need a festival run just to break even. Meanwhile, freelance screenwriters suddenly face competition from algorithms that script a plot in seconds.\n\nFor anyone writing, filming, or editing for a living, your direct rival just went from “other creators” to “no one you can pitch to.”\n\nOpen Netflix tonight, pick a random low-budget title, and check the credits 🎬 You’ll either see “Flawless AI” or “Runway”—which one did you find first?"
+      }
+    },
+    "instagram_caption": "Last year, one AI-generated film with zero human cast costs pulled in $12 million on streaming.\n\nStudios are now cranking out full-length movies using generative video tools—no actors, no sets, no camera crews 📼 These films consistently out-earn indie projects that need a festival run just to break even. Meanwhile, freelance screenwriters suddenly face competition from algorithms that script a plot in seconds.\n\nFor anyone writing, filming, or editing for a living, your direct rival just went from “other creators” to “no one you can pitch to.”\n\nOpen Netflix tonight, pick a random low-budget title, and check the credits 🎬 You’ll either see “Flawless AI” or “Runway”—which one did you find first?",
+    "carousel_slides": [
+      {
+        "hook": "Who profits from zero-budget films?",
+        "description": "One AI film earned $12 million on streaming last year with zero human production costs.",
+        "visual_hint": "Streaming platform interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "streaming platform interface"
+      },
+      {
+        "hook": "Studios cut actors out entirely.",
+        "description": "Full movies now made with generative video tools, removing actors, sets, and camera crews.",
+        "visual_hint": "Empty movie set",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty movie set",
+        "image": "https://images.pexels.com/photos/36305686/pexels-photo-36305686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI films beat indie budgets.",
+        "description": "These movies outearn low-budget indies that often need a festival run just to break even.",
+        "visual_hint": "Graph of earnings",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Screenwriters now compete with bots.",
+        "description": "Large language models script plots in seconds, replacing gig economy writers.",
+        "visual_hint": "Person typing on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers typing",
+        "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to spot AI slop.",
+        "description": "Open Netflix, pick a low-budget film, and check credits for Flawless AI or Runway.",
+        "visual_hint": "Netflix credits screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix logo",
+        "image": "https://images.pexels.com/photos/4329870/pexels-photo-4329870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&amp;strip=all&amp;crop=10.258176757133%2C0%2C79.483646485734%2C100&amp;w=1200",
+    "savedAt": "2026-07-16T15:27:27.235Z",
+    "sourceId": "84272a721d1ba5ef0d9bbc529ba309ed"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-ami-labs-alexandre-lebrun-won-t-call-his-ai-ag",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "pubDate": "Thu, 16 Jul 2026 14:40:00 +0000",
+    "slides": [
+      "LeBrun built an AI. Why won't he name it AGI?",
+      "Most labs race to claim superintelligence benchmarks.",
+      "LeBrun says his system fails a simple childhood test.",
+      "You must stop trusting AI rankings that ignore limits.",
+      "Test your own model on one question it cannot answer."
+    ],
+    "thread_text": [
+      "1. Why won't he call it AGI?\n\nLeBrun's AI fails a test most 4-year-olds pass. He still won't use the word \"superintelligence.\"",
+      "2. Labs race to claim benchmarks\n\nEvery major lab claims their model just hit superintelligence. None publish the test their system flunks.",
+      "3. The test his AI botched\n\nHe asked it to explain why a ball falls when dropped. The model gave physics — then contradicted itself.",
+      "4. Trust the rankings less\n\nIf a leaderboard ignores simple failure cases like this one, it's marketing, not science. Don't treat it as proof.",
+      "5. Ask your model this today\n\nTake your current favorite AI and ask: \"Why does this object sink?\" If it dodges or flips, you know its real limit."
+    ],
+    "video_script": [
+      "His own AI fails a child's test.",
+      "Other labs claim super intelligence now.",
+      "The model couldn't explain gravity's consistency.",
+      "Stop trusting benchmark rankings that hide these.",
+      "Try the question yourself this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why won't he call it AGI?\n\nLeBrun's AI fails a test most 4-year-olds pass. He still won't use the word \"superintelligence.\"",
+          "2. Labs race to claim benchmarks\n\nEvery major lab claims their model just hit superintelligence. None publish the test their system flunks.",
+          "3. The test his AI botched\n\nHe asked it to explain why a ball falls when dropped. The model gave physics — then contradicted itself.",
+          "4. Trust the rankings less\n\nIf a leaderboard ignores simple failure cases like this one, it's marketing, not science. Don't treat it as proof.",
+          "5. Ask your model this today\n\nTake your current favorite AI and ask: \"Why does this object sink?\" If it dodges or flips, you know its real limit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "His own AI fails a child's test.",
+          "Other labs claim super intelligence now.",
+          "The model couldn't explain gravity's consistency.",
+          "Stop trusting benchmark rankings that hide these.",
+          "Try the question yourself this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Alexandre LeBrun’s AI can’t explain why a ball falls when dropped 🧠—a test most 4-year-olds pass.\n\nHe asks it a simple question, it gives physics, then contradicts itself. He still won't call it AGI or superintelligence.\n\nEvery major lab races to claim benchmarks. None publish the test their model fails.\n\nIf you create content using AI rankings, know this: ignoring basic failures turns science into marketing 🚩.\n\nAsk the AI you use today: “Why does this object sink?” If it dodges or flips, you just found its real limit 🎯. What will you do with that knowledge?"
+      }
+    },
+    "instagram_caption": "Alexandre LeBrun’s AI can’t explain why a ball falls when dropped 🧠—a test most 4-year-olds pass.\n\nHe asks it a simple question, it gives physics, then contradicts itself. He still won't call it AGI or superintelligence.\n\nEvery major lab races to claim benchmarks. None publish the test their model fails.\n\nIf you create content using AI rankings, know this: ignoring basic failures turns science into marketing 🚩.\n\nAsk the AI you use today: “Why does this object sink?” If it dodges or flips, you just found its real limit 🎯. What will you do with that knowledge?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI flunks a child's test.",
+        "description": "LeBrun's model failed explaining why a ball falls. It gave physics then contradicted itself.",
+        "visual_hint": "Child dropping a red ball",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "child holding ball"
+      },
+      {
+        "hook": "Benchmarks hide failures on purpose.",
+        "description": "Labs claim superintelligence but never publish the simple test their model fails. Marketing, not science.",
+        "visual_hint": "Glowing ranking chart with cracks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One question shattered the illusion.",
+        "description": "He asked: 'Why does a ball fall?' The AI answered correctly then flipped logic mid-explanation.",
+        "visual_hint": "Zoom on AI screen glitch",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer screen glitch",
+        "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't trust leaderboards. Test yourself.",
+        "description": "If a ranking ignores simple failure cases, it's propaganda. Demand real limits be shown.",
+        "visual_hint": "Hand marking 'FAIL' on paper",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing on paper",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try this on your favorite model now.",
+        "description": "Ask: 'Why does this object sink?' If it dodges or contradicts, you found its real limit.",
+        "visual_hint": "Person typing question into phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person typing on phone",
+        "image": "https://images.pexels.com/photos/5592313/pexels-photo-5592313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
+    "savedAt": "2026-07-16T15:27:12.394Z",
+    "sourceId": "99dfba78ed41fb5fd10a16089e02d672"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-now-alerts-parents-if-their-teen-discussed-su",
     "prompt_version": "1.0.0",
     "status": "published",

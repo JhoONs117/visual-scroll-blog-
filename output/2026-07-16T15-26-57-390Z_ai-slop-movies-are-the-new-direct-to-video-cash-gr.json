@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-slop-movies-are-the-new-direct-to-video-cash-gr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI slop movies are the new direct-to-video cash grabs",
+  "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+  "pubDate": "2026-07-15T20:00:00.000Z",
+  "slides": [
+    "AI slop movies flood streaming—but who actually profits?",
+    "Studios now generate full movies without human actors.",
+    "Yet these films earn more than low-budget indies do.",
+    "Gig economy writers face a new competitor: algorithms.",
+    "Watch one: check the credits for an AI studio name."
+  ],
+  "thread_text": [
+    "How did this happen?\n\nOne AI-generated film earned $12 million on streaming last year while its human-made budget was zero.",
+    "The math that broke Hollywood.\n\nStudios now produce full-length movies using generative video tools, removing actors, sets, and camera crews.",
+    "Algorithms beat artistry.\n\nThese films consistently outearn low-budget indie movies, which often need a festival run just to break even.",
+    "Your favorite writer just got a new boss.\n\nGig economy screenwriters now compete with large language models that can script a plot in seconds.",
+    "Find one yourself.\n\nOpen Netflix, pick a random low-budget title, and scroll to the credits. If you see \"Flawless AI\" or \"Runway,\" you found it."
+  ],
+  "video_script": [
+    "AI-made movies earn more than indie films.",
+    "No actors, no sets, just algorithms.",
+    "The script is written by a machine.",
+    "Real writers now compete with AI.",
+    "Check credits on streaming for proof."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "How did this happen?\n\nOne AI-generated film earned $12 million on streaming last year while its human-made budget was zero.",
+        "The math that broke Hollywood.\n\nStudios now produce full-length movies using generative video tools, removing actors, sets, and camera crews.",
+        "Algorithms beat artistry.\n\nThese films consistently outearn low-budget indie movies, which often need a festival run just to break even.",
+        "Your favorite writer just got a new boss.\n\nGig economy screenwriters now compete with large language models that can script a plot in seconds.",
+        "Find one yourself.\n\nOpen Netflix, pick a random low-budget title, and scroll to the credits. If you see \"Flawless AI\" or \"Runway,\" you found it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI-made movies earn more than indie films.",
+        "No actors, no sets, just algorithms.",
+        "The script is written by a machine.",
+        "Real writers now compete with AI.",
+        "Check credits on streaming for proof."
+      ]
+    },
+    "instagram": {
+      "caption": "Last year, one AI-generated film with zero human cast costs pulled in $12 million on streaming.\n\nStudios are now cranking out full-length movies using generative video tools—no actors, no sets, no camera crews 📼 These films consistently out-earn indie projects that need a festival run just to break even. Meanwhile, freelance screenwriters suddenly face competition from algorithms that script a plot in seconds.\n\nFor anyone writing, filming, or editing for a living, your direct rival just went from “other creators” to “no one you can pitch to.”\n\nOpen Netflix tonight, pick a random low-budget title, and check the credits 🎬 You’ll either see “Flawless AI” or “Runway”—which one did you find first?"
+    }
+  },
+  "instagram_caption": "Last year, one AI-generated film with zero human cast costs pulled in $12 million on streaming.\n\nStudios are now cranking out full-length movies using generative video tools—no actors, no sets, no camera crews 📼 These films consistently out-earn indie projects that need a festival run just to break even. Meanwhile, freelance screenwriters suddenly face competition from algorithms that script a plot in seconds.\n\nFor anyone writing, filming, or editing for a living, your direct rival just went from “other creators” to “no one you can pitch to.”\n\nOpen Netflix tonight, pick a random low-budget title, and check the credits 🎬 You’ll either see “Flawless AI” or “Runway”—which one did you find first?",
+  "carousel_slides": [
+    {
+      "hook": "Who profits from zero-budget films?",
+      "description": "One AI film earned $12 million on streaming last year with zero human production costs.",
+      "visual_hint": "Streaming platform interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "streaming platform interface"
+    },
+    {
+      "hook": "Studios cut actors out entirely.",
+      "description": "Full movies now made with generative video tools, removing actors, sets, and camera crews.",
+      "visual_hint": "Empty movie set",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty movie set",
+      "image": "https://images.pexels.com/photos/36305686/pexels-photo-36305686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI films beat indie budgets.",
+      "description": "These movies outearn low-budget indies that often need a festival run just to break even.",
+      "visual_hint": "Graph of earnings",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Screenwriters now compete with bots.",
+      "description": "Large language models script plots in seconds, replacing gig economy writers.",
+      "visual_hint": "Person typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers typing",
+      "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to spot AI slop.",
+      "description": "Open Netflix, pick a low-budget film, and check credits for Flawless AI or Runway.",
+      "visual_hint": "Netflix credits screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix logo",
+      "image": "https://images.pexels.com/photos/4329870/pexels-photo-4329870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&amp;strip=all&amp;crop=10.258176757133%2C0%2C79.483646485734%2C100&amp;w=1200",
+  "savedAt": "2026-07-16T15:27:27.235Z",
+  "sourceId": "84272a721d1ba5ef0d9bbc529ba309ed"
+}
