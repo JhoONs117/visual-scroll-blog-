@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-greylock-capped-its-new-fund-at-1-5b-when-it-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+  "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+  "pubDate": "Thu, 16 Jul 2026 00:20:42 +0000",
+  "slides": [
+    "Why would Greylock turn down billions of investor cash?",
+    "Its new $1.5B fund is actually smaller than the last one.",
+    "Most VCs raise bigger—Greylock shrank on purpose.",
+    "LPs wanted in but Greylock capped them to stay nimble.",
+    "Ask your GP: would you limit fund size to win?"
+  ],
+  "thread_text": [
+    "1. Why shrink a fund?\n\nGreylock cut its new fund to $1.5B, down from a bigger raise, while LPs begged for entry.",
+    "2. They said no to billions.\n\nMost VCs chase ever-larger funds. Greylock capped theirs on purpose to stay nimble.",
+    "3. LPs locked out.\n\nInvestors wanted in, but Greylock turned down their cash to avoid bloat.",
+    "4. Nimble over huge.\n\nA smaller fund means faster decisions. Greylock bets speed beats size.",
+    "5. Ask your GP today.\n\nWould you limit fund size to win? Pitch that question to your own general partner this week."
+  ],
+  "video_script": [
+    "Greylock shrank its fund on purpose.",
+    "LPs begged for entry but got capped.",
+    "Most VCs raise bigger, not smaller.",
+    "They prioritize speed over fund size.",
+    "Ask your GP: would you limit it?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why shrink a fund?\n\nGreylock cut its new fund to $1.5B, down from a bigger raise, while LPs begged for entry.",
+        "2. They said no to billions.\n\nMost VCs chase ever-larger funds. Greylock capped theirs on purpose to stay nimble.",
+        "3. LPs locked out.\n\nInvestors wanted in, but Greylock turned down their cash to avoid bloat.",
+        "4. Nimble over huge.\n\nA smaller fund means faster decisions. Greylock bets speed beats size.",
+        "5. Ask your GP today.\n\nWould you limit fund size to win? Pitch that question to your own general partner this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Greylock shrank its fund on purpose.",
+        "LPs begged for entry but got capped.",
+        "Most VCs raise bigger, not smaller.",
+        "They prioritize speed over fund size.",
+        "Ask your GP: would you limit it?"
+      ]
+    },
+    "instagram": {
+      "caption": "Greylock turned down billions of extra investor cash to keep its new fund at $1.5B — even though it could have raised more.\n\nMost VC firms keep raising bigger funds. Greylock actually shrank on purpose. Why? A smaller fund lets them make faster bets and stay agile.\n\nFor creators and publishers chasing VC-backed tools: a leaner fund means quicker decisions on your deals—but less total money to go around.\n\nWould you cap your own funding to move faster? Ask your boss that question this week."
+    }
+  },
+  "instagram_caption": "Greylock turned down billions of extra investor cash to keep its new fund at $1.5B — even though it could have raised more.\n\nMost VC firms keep raising bigger funds. Greylock actually shrank on purpose. Why? A smaller fund lets them make faster bets and stay agile.\n\nFor creators and publishers chasing VC-backed tools: a leaner fund means quicker decisions on your deals—but less total money to go around.\n\nWould you cap your own funding to move faster? Ask your boss that question this week.",
+  "carousel_slides": [
+    {
+      "hook": "Why say no to billions?",
+      "description": "Greylock intentionally capped its new fund at $1.5B—smaller than the last one—despite LPs begging for entry.",
+      "visual_hint": "Stack of money rejected",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rejected cash pile"
+    },
+    {
+      "hook": "They shrank on purpose.",
+      "description": "Most VCs raise ever-larger funds; Greylock cut theirs to avoid bloat and make faster portfolio decisions.",
+      "visual_hint": "Down arrow on fund size",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "downward arrow chart",
+      "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "LPs were turned away.",
+      "description": "Investors wanted in but Greylock capped them to stay nimble—turning down billions of committed cash.",
+      "visual_hint": "Closed door with sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "closed door sign",
+      "image": "https://images.pexels.com/photos/36570925/pexels-photo-36570925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nimble beats huge funds.",
+      "description": "A smaller fund means quicker decisions. Greylock bets speed over raw size to win deals.",
+      "visual_hint": "Rocket vs. heavy block",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rocket and block",
+      "image": "https://images.pexels.com/photos/38211845/pexels-photo-38211845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your GP this week.",
+      "description": "Would your GP limit fund size to win? Pitch that question directly to your general partner now.",
+      "visual_hint": "Question mark bubble",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark speech bubble",
+      "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/10/Greylock-partner-Saam-Motamedi.jpg?resize=1200,675",
+  "savedAt": "2026-07-16T01:49:29.571Z",
+  "sourceId": "be3f43deba61e7895fc89c4ef3a0ba34"
+}

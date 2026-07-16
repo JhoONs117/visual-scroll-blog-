@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-is-reportedly-training-salespeople-to-ta",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "slides": [
+        "Microsoft arms sales teams against its own partners — why?",
+        "They now pitch a unified AI platform over individual models.",
+        "These partners like OpenAI and Anthropic fund its rivals.",
+        "Your vendor lock-in just got stricter and harder to undo.",
+        "Audit your AI contracts before the competition exploits you."
+      ],
+      "thread_text": [
+        "1. Why Microsoft is arming sales against its own partners\n\nOpenAI and Anthropic fund rival AI models. Microsoft now pitches a unified platform instead of individual tools.",
+        "2. Partners fund the competition\n\nYour vendor's closest allies are bankrolling your next lock-in. That's not a partnership — it's a trap.",
+        "3. The lock-in just got stricter\n\nOnce you're on the unified platform, switching costs triple. Exit clauses become theoretical.",
+        "4. Competitors will exploit your inertia\n\nIf you stay passive, rivals will undercut with flexible terms. Your negotiation power vanishes.",
+        "5. Audit your AI contracts before it's too late\n\nPull your current agreements and check for platform-consolidation clauses. If you find one, demand an amendment this quarter."
+      ],
+      "video_script": [
+        "Microsoft arms sales against its own partners.",
+        "They push one AI platform, not models.",
+        "Those partners fund Microsoft's rivals.",
+        "Your vendor lock-in just got stricter.",
+        "Audit your AI contracts now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why Microsoft is arming sales against its own partners\n\nOpenAI and Anthropic fund rival AI models. Microsoft now pitches a unified platform instead of individual tools.",
+            "2. Partners fund the competition\n\nYour vendor's closest allies are bankrolling your next lock-in. That's not a partnership — it's a trap.",
+            "3. The lock-in just got stricter\n\nOnce you're on the unified platform, switching costs triple. Exit clauses become theoretical.",
+            "4. Competitors will exploit your inertia\n\nIf you stay passive, rivals will undercut with flexible terms. Your negotiation power vanishes.",
+            "5. Audit your AI contracts before it's too late\n\nPull your current agreements and check for platform-consolidation clauses. If you find one, demand an amendment this quarter."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft arms sales against its own partners.",
+            "They push one AI platform, not models.",
+            "Those partners fund Microsoft's rivals.",
+            "Your vendor lock-in just got stricter.",
+            "Audit your AI contracts now."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft is training its own salespeople to talk down OpenAI and Anthropic—the very companies it partners with.  \n\nWhy? Microsoft now pushes a single unified AI platform over individual models. Those partners, meanwhile, fund competing AI rivals.  \n\nIf you build content or tools on OpenAI or Anthropic today, your Microsoft vendor lock-in just got stricter and harder to undo.  \n\n📊 When was the last time you audited your AI contract for platform-consolidation clauses? Pull it this quarter."
+        }
+      },
+      "instagram_caption": "Microsoft is training its own salespeople to talk down OpenAI and Anthropic—the very companies it partners with.  \n\nWhy? Microsoft now pushes a single unified AI platform over individual models. Those partners, meanwhile, fund competing AI rivals.  \n\nIf you build content or tools on OpenAI or Anthropic today, your Microsoft vendor lock-in just got stricter and harder to undo.  \n\n📊 When was the last time you audited your AI contract for platform-consolidation clauses? Pull it this quarter.",
+      "carousel_slides": [
+        {
+          "hook": "Your partners bankroll your lock-in.",
+          "description": "OpenAI and Anthropic fund rival AI, so Microsoft pushes a unified platform instead.",
+          "visual_hint": "Puzzle pieces locking together",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "puzzle pieces"
+        },
+        {
+          "hook": "Your closest allies are traps.",
+          "description": "Partners financing competitors make unified platforms a tool for vendor lock-in.",
+          "visual_hint": "Handshake with hidden chains",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "handshake chains",
+          "image": "https://images.pexels.com/photos/6899150/pexels-photo-6899150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Switching costs just tripled.",
+          "description": "Once on the unified platform, exit clauses become theoretical and lock-in tightens.",
+          "visual_hint": "Rising bar graph with lock",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bar graph lock",
+          "image": "https://images.pexels.com/photos/5379903/pexels-photo-5379903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals exploit your inertia now.",
+          "description": "If you stay passive, competitors undercut with flexible terms and you lose bargaining power.",
+          "visual_hint": "Person sitting while others advance",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person sitting desk",
+          "image": "https://images.pexels.com/photos/7580752/pexels-photo-7580752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit contracts before it's too late.",
+          "description": "Pull agreements, check for consolidation clauses, and demand amendments this quarter.",
+          "visual_hint": "Magnifying glass over document",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass contract",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/boxing_gloves_suit-e1650068012177.jpg?resize=1200,800",
+      "savedAt": "2026-07-16T01:49:43.935Z",
+      "sourceId": "86fc4744cf645f623a0721d831709f2c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-greylock-capped-its-new-fund-at-1-5b-when-it-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "pubDate": "Thu, 16 Jul 2026 00:20:42 +0000",
+      "slides": [
+        "Why would Greylock turn down billions of investor cash?",
+        "Its new $1.5B fund is actually smaller than the last one.",
+        "Most VCs raise bigger—Greylock shrank on purpose.",
+        "LPs wanted in but Greylock capped them to stay nimble.",
+        "Ask your GP: would you limit fund size to win?"
+      ],
+      "thread_text": [
+        "1. Why shrink a fund?\n\nGreylock cut its new fund to $1.5B, down from a bigger raise, while LPs begged for entry.",
+        "2. They said no to billions.\n\nMost VCs chase ever-larger funds. Greylock capped theirs on purpose to stay nimble.",
+        "3. LPs locked out.\n\nInvestors wanted in, but Greylock turned down their cash to avoid bloat.",
+        "4. Nimble over huge.\n\nA smaller fund means faster decisions. Greylock bets speed beats size.",
+        "5. Ask your GP today.\n\nWould you limit fund size to win? Pitch that question to your own general partner this week."
+      ],
+      "video_script": [
+        "Greylock shrank its fund on purpose.",
+        "LPs begged for entry but got capped.",
+        "Most VCs raise bigger, not smaller.",
+        "They prioritize speed over fund size.",
+        "Ask your GP: would you limit it?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why shrink a fund?\n\nGreylock cut its new fund to $1.5B, down from a bigger raise, while LPs begged for entry.",
+            "2. They said no to billions.\n\nMost VCs chase ever-larger funds. Greylock capped theirs on purpose to stay nimble.",
+            "3. LPs locked out.\n\nInvestors wanted in, but Greylock turned down their cash to avoid bloat.",
+            "4. Nimble over huge.\n\nA smaller fund means faster decisions. Greylock bets speed beats size.",
+            "5. Ask your GP today.\n\nWould you limit fund size to win? Pitch that question to your own general partner this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Greylock shrank its fund on purpose.",
+            "LPs begged for entry but got capped.",
+            "Most VCs raise bigger, not smaller.",
+            "They prioritize speed over fund size.",
+            "Ask your GP: would you limit it?"
+          ]
+        },
+        "instagram": {
+          "caption": "Greylock turned down billions of extra investor cash to keep its new fund at $1.5B — even though it could have raised more.\n\nMost VC firms keep raising bigger funds. Greylock actually shrank on purpose. Why? A smaller fund lets them make faster bets and stay agile.\n\nFor creators and publishers chasing VC-backed tools: a leaner fund means quicker decisions on your deals—but less total money to go around.\n\nWould you cap your own funding to move faster? Ask your boss that question this week."
+        }
+      },
+      "instagram_caption": "Greylock turned down billions of extra investor cash to keep its new fund at $1.5B — even though it could have raised more.\n\nMost VC firms keep raising bigger funds. Greylock actually shrank on purpose. Why? A smaller fund lets them make faster bets and stay agile.\n\nFor creators and publishers chasing VC-backed tools: a leaner fund means quicker decisions on your deals—but less total money to go around.\n\nWould you cap your own funding to move faster? Ask your boss that question this week.",
+      "carousel_slides": [
+        {
+          "hook": "Why say no to billions?",
+          "description": "Greylock intentionally capped its new fund at $1.5B—smaller than the last one—despite LPs begging for entry.",
+          "visual_hint": "Stack of money rejected",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rejected cash pile"
+        },
+        {
+          "hook": "They shrank on purpose.",
+          "description": "Most VCs raise ever-larger funds; Greylock cut theirs to avoid bloat and make faster portfolio decisions.",
+          "visual_hint": "Down arrow on fund size",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "downward arrow chart",
+          "image": "https://images.pexels.com/photos/8369831/pexels-photo-8369831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "LPs were turned away.",
+          "description": "Investors wanted in but Greylock capped them to stay nimble—turning down billions of committed cash.",
+          "visual_hint": "Closed door with sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "closed door sign",
+          "image": "https://images.pexels.com/photos/36570925/pexels-photo-36570925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nimble beats huge funds.",
+          "description": "A smaller fund means quicker decisions. Greylock bets speed over raw size to win deals.",
+          "visual_hint": "Rocket vs. heavy block",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "rocket and block",
+          "image": "https://images.pexels.com/photos/38211845/pexels-photo-38211845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your GP this week.",
+          "description": "Would your GP limit fund size to win? Pitch that question directly to your general partner now.",
+          "visual_hint": "Question mark bubble",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark speech bubble",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/Greylock-partner-Saam-Motamedi.jpg?resize=1200,675",
+      "savedAt": "2026-07-16T01:49:29.571Z",
+      "sourceId": "be3f43deba61e7895fc89c4ef3a0ba34"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "agentic-orchestration-enterprise-ai-organizations-",
       "prompt_version": "1.0.0",
       "status": "published",
