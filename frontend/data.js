@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "neko-health-raises-700-million-to-expand-ai-body-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Neko Health raises $700 million to expand AI body scans in the US",
+    "link": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+    "pubDate": "Thu, 16 Jul 2026 09:00:00 +0000",
+    "slides": [
+      "Can Neko Health’s scan find what your doctor missed?",
+      "It uses AI to detect early disease signs in minutes.",
+      "But competitor scans often miss these same signals.",
+      "Your next checkup might finally catch hidden risks.",
+      "Book a scan before insurers limit access to it."
+    ],
+    "thread_text": [
+      "1. Your doctor might miss it.\n\nNeko Health’s AI scan detected early disease in minutes, while standard checkups had already overlooked the same symptoms.",
+      "2. Competitors are flying blind.\n\nRival full-body scans also promise early detection, yet they routinely miss signals that Neko’s AI catches.",
+      "3. The window is closing.\n\nHealth insurers are already moving to limit access—once they cap coverage, this option may vanish for most people.",
+      "4. What your next checkup won’t show.\n\nWithout AI, routine exams will keep hiding the risks that could be found now with a single scan.",
+      "5. Book your scan this week.\n\nCheck Neko Health’s availability in your city and schedule before insurers restrict access—don’t wait until it’s too late."
+    ],
+    "video_script": [
+      "Your doctor can miss early disease signs.",
+      "Neko’s AI finds them in minutes.",
+      "Competitors often miss the same signals.",
+      "Your next checkup could finally catch risks.",
+      "Book now before insurers limit access."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your doctor might miss it.\n\nNeko Health’s AI scan detected early disease in minutes, while standard checkups had already overlooked the same symptoms.",
+          "2. Competitors are flying blind.\n\nRival full-body scans also promise early detection, yet they routinely miss signals that Neko’s AI catches.",
+          "3. The window is closing.\n\nHealth insurers are already moving to limit access—once they cap coverage, this option may vanish for most people.",
+          "4. What your next checkup won’t show.\n\nWithout AI, routine exams will keep hiding the risks that could be found now with a single scan.",
+          "5. Book your scan this week.\n\nCheck Neko Health’s availability in your city and schedule before insurers restrict access—don’t wait until it’s too late."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your doctor can miss early disease signs.",
+          "Neko’s AI finds them in minutes.",
+          "Competitors often miss the same signals.",
+          "Your next checkup could finally catch risks.",
+          "Book now before insurers limit access."
+        ]
+      },
+      "instagram": {
+        "caption": "Your doctor’s routine checkup missed early disease signs—Neko Health’s AI scan just caught them in minutes.\n\nThe startup raised $700 million to bring these full-body scans to the US, while competitor scans routinely miss the same signals insurers are already moving to limit access.\n\nFor now, you can book a scan yourself, but once insurers cap coverage, that option may vanish.\n\nIs your next checkup going to find what this one did—or will you step in before the window closes?"
+      }
+    },
+    "instagram_caption": "Your doctor’s routine checkup missed early disease signs—Neko Health’s AI scan just caught them in minutes.\n\nThe startup raised $700 million to bring these full-body scans to the US, while competitor scans routinely miss the same signals insurers are already moving to limit access.\n\nFor now, you can book a scan yourself, but once insurers cap coverage, that option may vanish.\n\nIs your next checkup going to find what this one did—or will you step in before the window closes?",
+    "carousel_slides": [
+      {
+        "hook": "Your doctor already missed it.",
+        "description": "Neko Health's AI scan detected early disease in minutes that standard checkups overlooked.",
+        "visual_hint": "person on scanning bed",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "medical scanner machine"
+      },
+      {
+        "hook": "Rivals miss what AI sees.",
+        "description": "Competitor full-body scans routinely miss signals that Neko's AI catches, leaving risks hidden.",
+        "visual_hint": "scans with highlighted areas",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "body scan comparison",
+        "image": "https://images.pexels.com/photos/9486772/pexels-photo-9486772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Insurers are closing the door.",
+        "description": "Health insurers already limit access—once they cap coverage, this option may vanish for most.",
+        "visual_hint": "clock with insurance logo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "insurance paperwork clock",
+        "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Routine exams hide your risks.",
+        "description": "Without AI, checkups keep hiding dangers that a single scan could find now.",
+        "visual_hint": "doctor with stethoscope",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor examining patient",
+        "image": "https://images.pexels.com/photos/5215023/pexels-photo-5215023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Book your scan before it's too late.",
+        "description": "Check Neko Health's availability in your city and schedule before insurers restrict access.",
+        "visual_hint": "phone calendar with reminder",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone booking app",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7089390/pexels-photo-7089390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-16T10:06:25.588Z",
+    "sourceId": "6b9408db8290ec533c347bd9160b3ffb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amid-hardware-legal-battle-openai-releases-a-230-k",
     "prompt_version": "1.0.0",
     "status": "published",
