@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "how-a-former-deepmind-researcher-raised-at-a-300m-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "pubDate": "Thu, 16 Jul 2026 15:02:00 +0000",
+      "slides": [
+        "What did a DeepMind alum sell for $300M without a product?",
+        "It was a pre-seed round, valuing the idea alone.",
+        "The company has zero revenue and no public beta.",
+        "Your pitch deck now competes with invisible rocketships.",
+        "Re-evaluate your valuation after this week's fundraising."
+      ],
+      "thread_text": [
+        "1. No product. $300M.\n\nDeepMind alum raised a pre-seed round valuing the idea alone. Zero revenue, no beta.",
+        "2. The invisible rocketship.\n\nInvestors priced a company with zero traction. Your deck now competes with pure narrative.",
+        "3. A new asset class.\n\nPre-seed is betting on reputation and story, not data. You can't A/B test that.",
+        "4. Valuation whiplash.\n\nOne non-existent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+        "5. Re-run your numbers.\n\nTake your current deck and delete all product screenshots. Is the valuation still defensible? Do it this week."
+      ],
+      "video_script": [
+        "A DeepMind alum raised $300 million.",
+        "No product. No beta. No revenue.",
+        "Investors bought the idea alone.",
+        "Your deck now fights invisible rocketships.",
+        "Re-evaluate your valuation this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. No product. $300M.\n\nDeepMind alum raised a pre-seed round valuing the idea alone. Zero revenue, no beta.",
+            "2. The invisible rocketship.\n\nInvestors priced a company with zero traction. Your deck now competes with pure narrative.",
+            "3. A new asset class.\n\nPre-seed is betting on reputation and story, not data. You can't A/B test that.",
+            "4. Valuation whiplash.\n\nOne non-existent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+            "5. Re-run your numbers.\n\nTake your current deck and delete all product screenshots. Is the valuation still defensible? Do it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A DeepMind alum raised $300 million.",
+            "No product. No beta. No revenue.",
+            "Investors bought the idea alone.",
+            "Your deck now fights invisible rocketships.",
+            "Re-evaluate your valuation this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A former DeepMind researcher just raised $300 million at a pre-seed valuation—with zero product, zero revenue, and no public beta. 😳\n\nInvestors priced the *idea* itself. Your pitch deck now competes against pure reputation and story. 💰\n\nFor anyone building or pitching content tools: your traction screenshots just lost value. The bar shifted overnight.\n\nOpen your current deck, delete every product screenshot, and ask: is my valuation still defensible this week? 🚀"
+        }
+      },
+      "instagram_caption": "A former DeepMind researcher just raised $300 million at a pre-seed valuation—with zero product, zero revenue, and no public beta. 😳\n\nInvestors priced the *idea* itself. Your pitch deck now competes against pure reputation and story. 💰\n\nFor anyone building or pitching content tools: your traction screenshots just lost value. The bar shifted overnight.\n\nOpen your current deck, delete every product screenshot, and ask: is my valuation still defensible this week? 🚀",
+      "carousel_slides": [
+        {
+          "hook": "No product. $300M. How?",
+          "description": "A DeepMind alum raised a pre-seed round valuing just the idea. Zero revenue, no beta.",
+          "visual_hint": "Empty stage, spotlight on void",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty stage spotlight"
+        },
+        {
+          "hook": "Your deck vs invisible rocketships",
+          "description": "Investors priced a company with zero traction. Your pitch now competes with pure narrative.",
+          "visual_hint": "Rocket taking off in fog",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launch fog",
+          "image": "https://images.pexels.com/photos/15061977/pexels-photo-15061977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pre-seed became a reputation bet",
+          "description": "Investors now bet on story and founder brand, not data. You can't A/B test that.",
+          "visual_hint": "Hand writing on a blank check",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand writing check",
+          "image": "https://images.pexels.com/photos/7013911/pexels-photo-7013911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Valuation whiplash is real",
+          "description": "One nonexistent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+          "visual_hint": "Stock chart spike and crash",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Delete product screenshots. Now.",
+          "description": "Take your deck, remove all product images. Is the valuation still defensible? Do it this week.",
+          "visual_hint": "Trash can with paper sheets",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "trash can papers",
+          "image": "https://images.pexels.com/photos/6632869/pexels-photo-6632869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+      "savedAt": "2026-07-16T17:05:52.370Z",
+      "sourceId": "bf27aeddf3529c91b301aa53f68fd82c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-ai-mode-now-lets-you-link-and-interact-wi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "slides": [
+        "Google’s AI Mode connects to apps—but which ones?",
+        "It links your calendar and email so far.",
+        "Most users don’t expect it to book meetings.",
+        "You can now auto-schedule without switching tabs.",
+        "Test it today: ask AI to create a calendar event."
+      ],
+      "thread_text": [
+        "1. What will AI book next?\n\nGoogle’s AI Mode already plugs into your calendar and email. But app connections stop there—for now.",
+        "2. No meeting takeover yet\n\nMost users still won’t let the AI schedule calls. The trust gap keeps it from booking without approval.",
+        "3. Auto-schedule, no tab switch\n\nYou can create calendar events without leaving your current screen. The AI calls the shots inside one window.",
+        "4. Context, not permission\n\nYour email data feeds the event creation. The AI’s logic becomes more personal—and less transparent.",
+        "5. Test it today\n\nAsk AI to create a calendar event from a real email. Does the time slot match your intent?"
+      ],
+      "video_script": [
+        "Google AI now links your calendar and email.",
+        "But most users won't let it book meetings.",
+        "You can auto-schedule without switching tabs.",
+        "It reads context, not just your command.",
+        "Test it: ask AI to create an event."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What will AI book next?\n\nGoogle’s AI Mode already plugs into your calendar and email. But app connections stop there—for now.",
+            "2. No meeting takeover yet\n\nMost users still won’t let the AI schedule calls. The trust gap keeps it from booking without approval.",
+            "3. Auto-schedule, no tab switch\n\nYou can create calendar events without leaving your current screen. The AI calls the shots inside one window.",
+            "4. Context, not permission\n\nYour email data feeds the event creation. The AI’s logic becomes more personal—and less transparent.",
+            "5. Test it today\n\nAsk AI to create a calendar event from a real email. Does the time slot match your intent?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google AI now links your calendar and email.",
+            "But most users won't let it book meetings.",
+            "You can auto-schedule without switching tabs.",
+            "It reads context, not just your command.",
+            "Test it: ask AI to create an event."
+          ]
+        },
+        "instagram": {
+          "caption": "Your calendar and email just became an AI playground—Google’s new tool can now connect to both at once.\n\nNo tab-hopping to schedule. You ask, it reads your email, and creates a calendar event in one window. But most users still won’t let it book meetings without approval.\n\nFor anyone creating content or managing deadlines: your inbox now feeds event creation automatically.\n\nWhat would you trust an AI to book from your email tomorrow? Test it: ask yours to pull a real travel confirmation and add it to your calendar."
+        }
+      },
+      "instagram_caption": "Your calendar and email just became an AI playground—Google’s new tool can now connect to both at once.\n\nNo tab-hopping to schedule. You ask, it reads your email, and creates a calendar event in one window. But most users still won’t let it book meetings without approval.\n\nFor anyone creating content or managing deadlines: your inbox now feeds event creation automatically.\n\nWhat would you trust an AI to book from your email tomorrow? Test it: ask yours to pull a real travel confirmation and add it to your calendar.",
+      "carousel_slides": [
+        {
+          "hook": "Will AI book your next meeting?",
+          "description": "Google's AI Mode plugs into calendar and email, but app connections stop there for now.",
+          "visual_hint": "AI linking app icons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone apps grid"
+        },
+        {
+          "hook": "No meeting takeover yet.",
+          "description": "Most users won't let AI schedule calls. The trust gap blocks autonomous booking.",
+          "visual_hint": "Calendar with lock icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "calendar lock icon",
+          "image": "https://images.pexels.com/photos/23939496/pexels-photo-23939496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Auto-schedule, no tab switch.",
+          "description": "Create calendar events without leaving your screen. AI works inside one window.",
+          "visual_hint": "Single browser window mockup",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "browser window tabs",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Context over permission.",
+          "description": "Your email data feeds event creation. AI logic becomes personal but less transparent.",
+          "visual_hint": "Email thread turning into event",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "email inbox screen",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it today: save this post.",
+          "description": "Ask AI to create a calendar event from a real email. Does the time slot match your intent?",
+          "visual_hint": "Person tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "hand using smartphone",
+          "image": "https://images.pexels.com/photos/17902222/pexels-photo-17902222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "savedAt": "2026-07-16T17:05:38.522Z",
+      "sourceId": "c3261b8580a42634b7e0388eaf8ca805"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-powered-travel-agency-fora-hits-unicorn-status-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "pubDate": "Thu, 16 Jul 2026 16:08:40 +0000",
+      "slides": [
+        "Fora just hit unicorn status—how did an AI travel agency do it?",
+        "It raised $60M to blend AI planning with human agents.",
+        "Most trips are still booked on generic sites—not tailored.",
+        "You get a personal agent who uses AI but doesn’t feel robotic.",
+        "Try booking one trip through Fora to see the difference."
+      ],
+      "thread_text": [
+        "1. Unicorn travel agent\n\nFora just hit $1B valuation by blending AI with human agents, not replacing them.",
+        "2. $60M bet\n\nThe startup raised that sum to pair planning algorithms with real travel advisors.",
+        "3. Generic vs. tailored\n\nMost trips are still booked on mass-market sites—you get a template, not a trip.",
+        "4. Personal AI\n\nYour dedicated agent uses AI tools but the conversation stays natural and human.",
+        "5. Book one trip\n\nTry one booking through Fora this week and compare it to your last Expedia experience."
+      ],
+      "video_script": [
+        "Fora just became a unicorn travel startup.",
+        "It raised sixty million for AI plus humans.",
+        "Most trips are still booked on generic sites.",
+        "You get a personal agent that uses AI.",
+        "Try booking one trip through Fora today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Unicorn travel agent\n\nFora just hit $1B valuation by blending AI with human agents, not replacing them.",
+            "2. $60M bet\n\nThe startup raised that sum to pair planning algorithms with real travel advisors.",
+            "3. Generic vs. tailored\n\nMost trips are still booked on mass-market sites—you get a template, not a trip.",
+            "4. Personal AI\n\nYour dedicated agent uses AI tools but the conversation stays natural and human.",
+            "5. Book one trip\n\nTry one booking through Fora this week and compare it to your last Expedia experience."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fora just became a unicorn travel startup.",
+            "It raised sixty million for AI plus humans.",
+            "Most trips are still booked on generic sites.",
+            "You get a personal agent that uses AI.",
+            "Try booking one trip through Fora today."
+          ]
+        },
+        "instagram": {
+          "caption": "That travel booking site you used last trip? It probably gave you a generic template, not a tailored itinerary. 🗺️\n\nFora just became a unicorn by raising $60M to pair AI planning tools with a real human agent who makes decisions, not just suggestions. Most trips are still booked on mass-market sites with no personal touch—your \"results\" are just algorithms guessing.\n\nInstead of replacing travel advisors, Fora's AI works *for* them, so your trip gets customized without feeling like you're talking to a robot. 🤖➡️👤\n\nYour next vacation could be built by a human using AI brainpower, not a glorified search engine.\n\nThink back to your last booking—did it actually reflect what *you* wanted, or just what the algorithm pushed?"
+        }
+      },
+      "instagram_caption": "That travel booking site you used last trip? It probably gave you a generic template, not a tailored itinerary. 🗺️\n\nFora just became a unicorn by raising $60M to pair AI planning tools with a real human agent who makes decisions, not just suggestions. Most trips are still booked on mass-market sites with no personal touch—your \"results\" are just algorithms guessing.\n\nInstead of replacing travel advisors, Fora's AI works *for* them, so your trip gets customized without feeling like you're talking to a robot. 🤖➡️👤\n\nYour next vacation could be built by a human using AI brainpower, not a glorified search engine.\n\nThink back to your last booking—did it actually reflect what *you* wanted, or just what the algorithm pushed?",
+      "carousel_slides": [
+        {
+          "hook": "Your trip is a template, not a memory?",
+          "description": "Most trips are still booked on generic sites with no personal touch. Fora blends AI with real human agents.",
+          "visual_hint": "Generic booking site interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "generic hotel booking"
+        },
+        {
+          "hook": "$60M bet on AI + humans",
+          "description": "Fora raised $60M to pair planning algorithms with real travel advisors, not replace them.",
+          "visual_hint": "Server rack with glowing lights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Say goodbye to one-size-fits-all",
+          "description": "Generic sites give you a template. Fora gives you a tailored trip planned by AI and a dedicated agent.",
+          "visual_hint": "Two columns: template vs custom",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "custom travel itinerary",
+          "image": "https://images.pexels.com/photos/4922086/pexels-photo-4922086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Feels like a personal concierge",
+          "description": "Your dedicated agent uses AI tools, but the conversation stays natural and human. No robotic scripts.",
+          "visual_hint": "Smiling agent at desk with headset",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "customer service agent headset",
+          "image": "https://images.pexels.com/photos/8867372/pexels-photo-8867372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tag someone who needs a real trip",
+          "description": "Book one trip through Fora this week and compare it to your last Expedia experience.",
+          "visual_hint": "Phone showing Fora app booking screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone booking app",
+          "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1366159069.jpg?resize=1200,900",
+      "savedAt": "2026-07-16T17:05:24.252Z",
+      "sourceId": "95bf775772641547e0f2db5009962e63"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "examining-google-deepmind-s-ai-bioresilience-push",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Examining Google DeepMind’s AI bioresilience push",
+      "link": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "pubDate": "Thu, 16 Jul 2026 16:48:23 +0000",
+      "slides": [
+        "What if AI predicts a pandemic before it starts?",
+        "DeepMind now models protein mutations at scale.",
+        "Their system missed one critical family entirely.",
+        "You must verify AI outputs against lab data.",
+        "Run a blind test on your own disease model today."
+      ],
+      "thread_text": [
+        "1. What if AI predicts a pandemic before it starts?\n\nDeepMind’s model missed an entire protein family, leaving a blind spot in outbreak detection.",
+        "2. Protein mutations at scale\n\nThey simulated thousands of variants, but the gap means real-world viruses could slip through.",
+        "3. The missing family\n\nThat specific group wasn’t in training data—so the AI never learned to flag it as dangerous.",
+        "4. Lab data is the truth\n\nWithout cross-checking against wet-lab results, the model’s predictions are guesses, not facts.",
+        "5. Run a blind test today\n\nTake your own disease model and feed it a control set of known mutations. If it misses one, rewrite the training."
+      ],
+      "video_script": [
+        "AI can predict mutations at scale.",
+        "But one family was entirely missed.",
+        "That blind spot could hide a pandemic.",
+        "Always verify outputs against lab data.",
+        "Run a blind test on your model."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if AI predicts a pandemic before it starts?\n\nDeepMind’s model missed an entire protein family, leaving a blind spot in outbreak detection.",
+            "2. Protein mutations at scale\n\nThey simulated thousands of variants, but the gap means real-world viruses could slip through.",
+            "3. The missing family\n\nThat specific group wasn’t in training data—so the AI never learned to flag it as dangerous.",
+            "4. Lab data is the truth\n\nWithout cross-checking against wet-lab results, the model’s predictions are guesses, not facts.",
+            "5. Run a blind test today\n\nTake your own disease model and feed it a control set of known mutations. If it misses one, rewrite the training."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI can predict mutations at scale.",
+            "But one family was entirely missed.",
+            "That blind spot could hide a pandemic.",
+            "Always verify outputs against lab data.",
+            "Run a blind test on your model."
+          ]
+        },
+        "instagram": {
+          "caption": "Google DeepMind’s system for predicting pandemic protein mutations skipped an entire protein family🧬\n\nThat family wasn’t in the training data❌ So the AI never flagged it as dangerous. Real-world pathogens could slip through that gap.\n\nLab data is the only reality check🧪 Without wet-lab verification, AI predictions are just guesses.\n\nIf you run a disease model today, feed it a control set of known mutations. If it misses one, rewrite the training immediately.\n\nWhat blind spot is hiding in *your* dataset right now?"
+        }
+      },
+      "instagram_caption": "Google DeepMind’s system for predicting pandemic protein mutations skipped an entire protein family🧬\n\nThat family wasn’t in the training data❌ So the AI never flagged it as dangerous. Real-world pathogens could slip through that gap.\n\nLab data is the only reality check🧪 Without wet-lab verification, AI predictions are just guesses.\n\nIf you run a disease model today, feed it a control set of known mutations. If it misses one, rewrite the training immediately.\n\nWhat blind spot is hiding in *your* dataset right now?",
+      "carousel_slides": [
+        {
+          "hook": "A blind spot in AI outbreak detection.",
+          "description": "DeepMind's model missed an entire protein family, leaving a gap in pandemic prediction.",
+          "visual_hint": "Futuristic city with hidden blind spot",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart city skyline"
+        },
+        {
+          "hook": "Protein mutations simulated, but gaps remain.",
+          "description": "Thousands of variants modeled, yet missing data allows real viruses to slip through.",
+          "visual_hint": "Protein structure with missing strands",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "protein molecule model",
+          "image": "https://images.pexels.com/photos/7722849/pexels-photo-7722849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A family missing from the training data.",
+          "description": "That specific group was never learned, so the AI can't flag it as dangerous.",
+          "visual_hint": "Gap in DNA sequence visualization",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "DNA sequence gap",
+          "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lab data reveals the truth.",
+          "description": "Without wet-lab cross-checks, AI predictions are just guesses, not facts.",
+          "visual_hint": "Lab flask next to laptop screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laboratory equipment",
+          "image": "https://images.pexels.com/photos/8940480/pexels-photo-8940480.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your disease model today.",
+          "description": "Feed your model a control set of known mutations. If it misses one, rewrite the training.",
+          "visual_hint": "Checklist with virus icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/38493102/pexels-photo-38493102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-16T17:05:09.459Z",
+      "sourceId": "52bb467a6a0cb28548e4b904f749babf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-slop-movies-are-the-new-direct-to-video-cash-gr",
       "prompt_version": "1.0.0",
       "status": "published",

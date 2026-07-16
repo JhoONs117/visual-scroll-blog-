@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-mode-now-lets-you-link-and-interact-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI Mode now lets you link and interact with select apps",
+  "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+  "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+  "slides": [
+    "Google’s AI Mode connects to apps—but which ones?",
+    "It links your calendar and email so far.",
+    "Most users don’t expect it to book meetings.",
+    "You can now auto-schedule without switching tabs.",
+    "Test it today: ask AI to create a calendar event."
+  ],
+  "thread_text": [
+    "1. What will AI book next?\n\nGoogle’s AI Mode already plugs into your calendar and email. But app connections stop there—for now.",
+    "2. No meeting takeover yet\n\nMost users still won’t let the AI schedule calls. The trust gap keeps it from booking without approval.",
+    "3. Auto-schedule, no tab switch\n\nYou can create calendar events without leaving your current screen. The AI calls the shots inside one window.",
+    "4. Context, not permission\n\nYour email data feeds the event creation. The AI’s logic becomes more personal—and less transparent.",
+    "5. Test it today\n\nAsk AI to create a calendar event from a real email. Does the time slot match your intent?"
+  ],
+  "video_script": [
+    "Google AI now links your calendar and email.",
+    "But most users won't let it book meetings.",
+    "You can auto-schedule without switching tabs.",
+    "It reads context, not just your command.",
+    "Test it: ask AI to create an event."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What will AI book next?\n\nGoogle’s AI Mode already plugs into your calendar and email. But app connections stop there—for now.",
+        "2. No meeting takeover yet\n\nMost users still won’t let the AI schedule calls. The trust gap keeps it from booking without approval.",
+        "3. Auto-schedule, no tab switch\n\nYou can create calendar events without leaving your current screen. The AI calls the shots inside one window.",
+        "4. Context, not permission\n\nYour email data feeds the event creation. The AI’s logic becomes more personal—and less transparent.",
+        "5. Test it today\n\nAsk AI to create a calendar event from a real email. Does the time slot match your intent?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google AI now links your calendar and email.",
+        "But most users won't let it book meetings.",
+        "You can auto-schedule without switching tabs.",
+        "It reads context, not just your command.",
+        "Test it: ask AI to create an event."
+      ]
+    },
+    "instagram": {
+      "caption": "Your calendar and email just became an AI playground—Google’s new tool can now connect to both at once.\n\nNo tab-hopping to schedule. You ask, it reads your email, and creates a calendar event in one window. But most users still won’t let it book meetings without approval.\n\nFor anyone creating content or managing deadlines: your inbox now feeds event creation automatically.\n\nWhat would you trust an AI to book from your email tomorrow? Test it: ask yours to pull a real travel confirmation and add it to your calendar."
+    }
+  },
+  "instagram_caption": "Your calendar and email just became an AI playground—Google’s new tool can now connect to both at once.\n\nNo tab-hopping to schedule. You ask, it reads your email, and creates a calendar event in one window. But most users still won’t let it book meetings without approval.\n\nFor anyone creating content or managing deadlines: your inbox now feeds event creation automatically.\n\nWhat would you trust an AI to book from your email tomorrow? Test it: ask yours to pull a real travel confirmation and add it to your calendar.",
+  "carousel_slides": [
+    {
+      "hook": "Will AI book your next meeting?",
+      "description": "Google's AI Mode plugs into calendar and email, but app connections stop there for now.",
+      "visual_hint": "AI linking app icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone apps grid"
+    },
+    {
+      "hook": "No meeting takeover yet.",
+      "description": "Most users won't let AI schedule calls. The trust gap blocks autonomous booking.",
+      "visual_hint": "Calendar with lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar lock icon",
+      "image": "https://images.pexels.com/photos/23939496/pexels-photo-23939496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Auto-schedule, no tab switch.",
+      "description": "Create calendar events without leaving your screen. AI works inside one window.",
+      "visual_hint": "Single browser window mockup",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "browser window tabs",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context over permission.",
+      "description": "Your email data feeds event creation. AI logic becomes personal but less transparent.",
+      "visual_hint": "Email thread turning into event",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "email inbox screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it today: save this post.",
+      "description": "Ask AI to create a calendar event from a real email. Does the time slot match your intent?",
+      "visual_hint": "Person tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "hand using smartphone",
+      "image": "https://images.pexels.com/photos/17902222/pexels-photo-17902222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+  "savedAt": "2026-07-16T17:05:38.522Z",
+  "sourceId": "c3261b8580a42634b7e0388eaf8ca805"
+}

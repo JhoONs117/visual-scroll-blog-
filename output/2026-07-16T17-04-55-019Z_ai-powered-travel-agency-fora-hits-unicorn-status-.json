@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-powered-travel-agency-fora-hits-unicorn-status-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+  "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+  "pubDate": "Thu, 16 Jul 2026 16:08:40 +0000",
+  "slides": [
+    "Fora just hit unicorn status—how did an AI travel agency do it?",
+    "It raised $60M to blend AI planning with human agents.",
+    "Most trips are still booked on generic sites—not tailored.",
+    "You get a personal agent who uses AI but doesn’t feel robotic.",
+    "Try booking one trip through Fora to see the difference."
+  ],
+  "thread_text": [
+    "1. Unicorn travel agent\n\nFora just hit $1B valuation by blending AI with human agents, not replacing them.",
+    "2. $60M bet\n\nThe startup raised that sum to pair planning algorithms with real travel advisors.",
+    "3. Generic vs. tailored\n\nMost trips are still booked on mass-market sites—you get a template, not a trip.",
+    "4. Personal AI\n\nYour dedicated agent uses AI tools but the conversation stays natural and human.",
+    "5. Book one trip\n\nTry one booking through Fora this week and compare it to your last Expedia experience."
+  ],
+  "video_script": [
+    "Fora just became a unicorn travel startup.",
+    "It raised sixty million for AI plus humans.",
+    "Most trips are still booked on generic sites.",
+    "You get a personal agent that uses AI.",
+    "Try booking one trip through Fora today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Unicorn travel agent\n\nFora just hit $1B valuation by blending AI with human agents, not replacing them.",
+        "2. $60M bet\n\nThe startup raised that sum to pair planning algorithms with real travel advisors.",
+        "3. Generic vs. tailored\n\nMost trips are still booked on mass-market sites—you get a template, not a trip.",
+        "4. Personal AI\n\nYour dedicated agent uses AI tools but the conversation stays natural and human.",
+        "5. Book one trip\n\nTry one booking through Fora this week and compare it to your last Expedia experience."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fora just became a unicorn travel startup.",
+        "It raised sixty million for AI plus humans.",
+        "Most trips are still booked on generic sites.",
+        "You get a personal agent that uses AI.",
+        "Try booking one trip through Fora today."
+      ]
+    },
+    "instagram": {
+      "caption": "That travel booking site you used last trip? It probably gave you a generic template, not a tailored itinerary. 🗺️\n\nFora just became a unicorn by raising $60M to pair AI planning tools with a real human agent who makes decisions, not just suggestions. Most trips are still booked on mass-market sites with no personal touch—your \"results\" are just algorithms guessing.\n\nInstead of replacing travel advisors, Fora's AI works *for* them, so your trip gets customized without feeling like you're talking to a robot. 🤖➡️👤\n\nYour next vacation could be built by a human using AI brainpower, not a glorified search engine.\n\nThink back to your last booking—did it actually reflect what *you* wanted, or just what the algorithm pushed?"
+    }
+  },
+  "instagram_caption": "That travel booking site you used last trip? It probably gave you a generic template, not a tailored itinerary. 🗺️\n\nFora just became a unicorn by raising $60M to pair AI planning tools with a real human agent who makes decisions, not just suggestions. Most trips are still booked on mass-market sites with no personal touch—your \"results\" are just algorithms guessing.\n\nInstead of replacing travel advisors, Fora's AI works *for* them, so your trip gets customized without feeling like you're talking to a robot. 🤖➡️👤\n\nYour next vacation could be built by a human using AI brainpower, not a glorified search engine.\n\nThink back to your last booking—did it actually reflect what *you* wanted, or just what the algorithm pushed?",
+  "carousel_slides": [
+    {
+      "hook": "Your trip is a template, not a memory?",
+      "description": "Most trips are still booked on generic sites with no personal touch. Fora blends AI with real human agents.",
+      "visual_hint": "Generic booking site interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "generic hotel booking"
+    },
+    {
+      "hook": "$60M bet on AI + humans",
+      "description": "Fora raised $60M to pair planning algorithms with real travel advisors, not replace them.",
+      "visual_hint": "Server rack with glowing lights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Say goodbye to one-size-fits-all",
+      "description": "Generic sites give you a template. Fora gives you a tailored trip planned by AI and a dedicated agent.",
+      "visual_hint": "Two columns: template vs custom",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "custom travel itinerary",
+      "image": "https://images.pexels.com/photos/4922086/pexels-photo-4922086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Feels like a personal concierge",
+      "description": "Your dedicated agent uses AI tools, but the conversation stays natural and human. No robotic scripts.",
+      "visual_hint": "Smiling agent at desk with headset",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "customer service agent headset",
+      "image": "https://images.pexels.com/photos/8867372/pexels-photo-8867372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tag someone who needs a real trip",
+      "description": "Book one trip through Fora this week and compare it to your last Expedia experience.",
+      "visual_hint": "Phone showing Fora app booking screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone booking app",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1366159069.jpg?resize=1200,900",
+  "savedAt": "2026-07-16T17:05:24.252Z",
+  "sourceId": "95bf775772641547e0f2db5009962e63"
+}

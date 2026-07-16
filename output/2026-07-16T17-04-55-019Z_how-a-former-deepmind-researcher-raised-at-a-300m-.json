@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-a-former-deepmind-researcher-raised-at-a-300m-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+  "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+  "pubDate": "Thu, 16 Jul 2026 15:02:00 +0000",
+  "slides": [
+    "What did a DeepMind alum sell for $300M without a product?",
+    "It was a pre-seed round, valuing the idea alone.",
+    "The company has zero revenue and no public beta.",
+    "Your pitch deck now competes with invisible rocketships.",
+    "Re-evaluate your valuation after this week's fundraising."
+  ],
+  "thread_text": [
+    "1. No product. $300M.\n\nDeepMind alum raised a pre-seed round valuing the idea alone. Zero revenue, no beta.",
+    "2. The invisible rocketship.\n\nInvestors priced a company with zero traction. Your deck now competes with pure narrative.",
+    "3. A new asset class.\n\nPre-seed is betting on reputation and story, not data. You can't A/B test that.",
+    "4. Valuation whiplash.\n\nOne non-existent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+    "5. Re-run your numbers.\n\nTake your current deck and delete all product screenshots. Is the valuation still defensible? Do it this week."
+  ],
+  "video_script": [
+    "A DeepMind alum raised $300 million.",
+    "No product. No beta. No revenue.",
+    "Investors bought the idea alone.",
+    "Your deck now fights invisible rocketships.",
+    "Re-evaluate your valuation this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No product. $300M.\n\nDeepMind alum raised a pre-seed round valuing the idea alone. Zero revenue, no beta.",
+        "2. The invisible rocketship.\n\nInvestors priced a company with zero traction. Your deck now competes with pure narrative.",
+        "3. A new asset class.\n\nPre-seed is betting on reputation and story, not data. You can't A/B test that.",
+        "4. Valuation whiplash.\n\nOne non-existent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+        "5. Re-run your numbers.\n\nTake your current deck and delete all product screenshots. Is the valuation still defensible? Do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A DeepMind alum raised $300 million.",
+        "No product. No beta. No revenue.",
+        "Investors bought the idea alone.",
+        "Your deck now fights invisible rocketships.",
+        "Re-evaluate your valuation this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A former DeepMind researcher just raised $300 million at a pre-seed valuation—with zero product, zero revenue, and no public beta. 😳\n\nInvestors priced the *idea* itself. Your pitch deck now competes against pure reputation and story. 💰\n\nFor anyone building or pitching content tools: your traction screenshots just lost value. The bar shifted overnight.\n\nOpen your current deck, delete every product screenshot, and ask: is my valuation still defensible this week? 🚀"
+    }
+  },
+  "instagram_caption": "A former DeepMind researcher just raised $300 million at a pre-seed valuation—with zero product, zero revenue, and no public beta. 😳\n\nInvestors priced the *idea* itself. Your pitch deck now competes against pure reputation and story. 💰\n\nFor anyone building or pitching content tools: your traction screenshots just lost value. The bar shifted overnight.\n\nOpen your current deck, delete every product screenshot, and ask: is my valuation still defensible this week? 🚀",
+  "carousel_slides": [
+    {
+      "hook": "No product. $300M. How?",
+      "description": "A DeepMind alum raised a pre-seed round valuing just the idea. Zero revenue, no beta.",
+      "visual_hint": "Empty stage, spotlight on void",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty stage spotlight"
+    },
+    {
+      "hook": "Your deck vs invisible rocketships",
+      "description": "Investors priced a company with zero traction. Your pitch now competes with pure narrative.",
+      "visual_hint": "Rocket taking off in fog",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch fog",
+      "image": "https://images.pexels.com/photos/15061977/pexels-photo-15061977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pre-seed became a reputation bet",
+      "description": "Investors now bet on story and founder brand, not data. You can't A/B test that.",
+      "visual_hint": "Hand writing on a blank check",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand writing check",
+      "image": "https://images.pexels.com/photos/7013911/pexels-photo-7013911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Valuation whiplash is real",
+      "description": "One nonexistent company resets the ceiling. Your $5M ask just shifted to $10M—or $0.",
+      "visual_hint": "Stock chart spike and crash",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delete product screenshots. Now.",
+      "description": "Take your deck, remove all product images. Is the valuation still defensible? Do it this week.",
+      "visual_hint": "Trash can with paper sheets",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "trash can papers",
+      "image": "https://images.pexels.com/photos/6632869/pexels-photo-6632869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+  "savedAt": "2026-07-16T17:05:52.370Z",
+  "sourceId": "bf27aeddf3529c91b301aa53f68fd82c"
+}
