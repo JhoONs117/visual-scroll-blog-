@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "applied-computing-wants-to-give-oil-and-gas-operat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "slides": [
+      "Can one AI model truly run your entire plant?",
+      "Most operators today rely on dozens of disconnected tools.",
+      "Applied Computing built a single model for the whole facility.",
+      "Engineers can now see and control every unit from one view.",
+      "Test it on one process before rolling out plant-wide."
+    ],
+    "thread_text": [
+      "1. One model to rule them all?\n\nToday's plants juggle dozens of disconnected tools — one team spent months just syncing data between two dashboards.",
+      "2. Single AI, entire facility.\n\nApplied Computing trained one model on every unit — no more separate systems for boilers, compressors, or reactors.",
+      "3. See everything from one view.\n\nEngineers now monitor and adjust any part of the plant on a single screen — no context switching needed.",
+      "4. Test before you scale.\n\nRun the model on one process first. If it works, roll it out plant-wide — no all-or-nothing risk.",
+      "5. Start with one stubborn unit.\n\nPick a process that gives you headaches. Test this unified model on it this week — or prove it can't handle your worst bottleneck."
+    ],
+    "video_script": [
+      "One AI model runs your whole plant.",
+      "Most plants use dozens of disconnected tools.",
+      "Applied Computing built one model for everything.",
+      "Engineers control every unit from one view.",
+      "Test it on one process first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One model to rule them all?\n\nToday's plants juggle dozens of disconnected tools — one team spent months just syncing data between two dashboards.",
+          "2. Single AI, entire facility.\n\nApplied Computing trained one model on every unit — no more separate systems for boilers, compressors, or reactors.",
+          "3. See everything from one view.\n\nEngineers now monitor and adjust any part of the plant on a single screen — no context switching needed.",
+          "4. Test before you scale.\n\nRun the model on one process first. If it works, roll it out plant-wide — no all-or-nothing risk.",
+          "5. Start with one stubborn unit.\n\nPick a process that gives you headaches. Test this unified model on it this week — or prove it can't handle your worst bottleneck."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One AI model runs your whole plant.",
+          "Most plants use dozens of disconnected tools.",
+          "Applied Computing built one model for everything.",
+          "Engineers control every unit from one view.",
+          "Test it on one process first."
+        ]
+      },
+      "instagram": {
+        "caption": "Your entire plant usually runs on a dozen different dashboards that don't talk to each other. One engineering team spent months just syncing data between two of them.\n\nApplied Computing trained a single AI model on every unit — boilers, compressors, reactors — all in one system. You see and tweak any part of the plant from one screen.\n\nNo more switching contexts 😵‍💫. You test the model on one stubborn process first, then roll it out facility-wide if it works. No all-or-nothing risk.\n\nWhich unit in your plant gives you the biggest headache right now?"
+      }
+    },
+    "instagram_caption": "Your entire plant usually runs on a dozen different dashboards that don't talk to each other. One engineering team spent months just syncing data between two of them.\n\nApplied Computing trained a single AI model on every unit — boilers, compressors, reactors — all in one system. You see and tweak any part of the plant from one screen.\n\nNo more switching contexts 😵‍💫. You test the model on one stubborn process first, then roll it out facility-wide if it works. No all-or-nothing risk.\n\nWhich unit in your plant gives you the biggest headache right now?",
+    "carousel_slides": [
+      {
+        "hook": "One model to rule them all?",
+        "description": "Most plants juggle dozens of disconnected tools. One team spent months syncing data between two dashboards.",
+        "visual_hint": "chaotic control room screens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "control room monitors"
+      },
+      {
+        "hook": "Single AI, entire facility.",
+        "description": "Applied Computing trained one model on every unit — no more separate systems for boilers or compressors.",
+        "visual_hint": "unified plant diagram",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "oil refinery aerial",
+        "image": "https://images.pexels.com/photos/10407692/pexels-photo-10407692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "See everything from one view.",
+        "description": "Engineers now monitor and adjust any part of the plant on a single screen — no context switching needed.",
+        "visual_hint": "single pane interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "dashboard screen closeup",
+        "image": "https://images.pexels.com/photos/27727842/pexels-photo-27727842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you scale.",
+        "description": "Run the model on one process first. If it works, roll it out plant-wide — no all-or-nothing risk.",
+        "visual_hint": "engineer pointing at screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "industrial engineer tablet",
+        "image": "https://images.pexels.com/photos/8961001/pexels-photo-8961001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to try on your worst bottleneck.",
+        "description": "Pick a stubborn unit. Test this unified model on it this week to prove it can handle your toughest process.",
+        "visual_hint": "target on a pipe valve",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pipe valve industrial",
+        "image": "https://images.pexels.com/photos/5711732/pexels-photo-5711732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
+    "savedAt": "2026-07-16T04:53:12.188Z",
+    "sourceId": "3442e88d0150693a1cab9e0e3fb74027"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-is-reportedly-training-salespeople-to-ta",
     "prompt_version": "1.0.0",
     "status": "published",
