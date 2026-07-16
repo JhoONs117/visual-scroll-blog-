@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "sheryl-sandberg-leads-10-million-investment-in-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+      "pubDate": "Thu, 16 Jul 2026 15:00:00 +0000",
+      "slides": [
+        "Why did Sheryl Sandberg back AI vehicle inspections?",
+        "Manual checks miss up to 30% of visible damage.",
+        "Her firm’s AI detects dents invisible to the human eye.",
+        "You now get a detailed report before buying a used car.",
+        "Test it on your next potential purchase—before you pay."
+      ],
+      "thread_text": [
+        "1. Why back AI for car checks?\n\nManual inspections miss up to 30% of visible damage—and that’s just the start.",
+        "2. Dents you can’t see detected.\n\nHer firm’s AI spots damage invisible to the human eye, revealing hidden issues.",
+        "3. A report before you buy.\n\nYou now get a detailed breakdown of every flaw before signing a used car deal.",
+        "4. The twist in the story.\n\nSandberg’s backing turns a blind spot into a tool that shifts buyer power.",
+        "5. Test it on your next car.\n\nRun an AI scan on your potential purchase before paying—does it match your gut?"
+      ],
+      "video_script": [
+        "Manual checks miss up to thirty percent damage.",
+        "AI spots dents you cannot see at all.",
+        "You get a detailed pre-purchase inspection report.",
+        "Sandberg’s firm shifts power to buyers.",
+        "Test AI before you buy your next car."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why back AI for car checks?\n\nManual inspections miss up to 30% of visible damage—and that’s just the start.",
+            "2. Dents you can’t see detected.\n\nHer firm’s AI spots damage invisible to the human eye, revealing hidden issues.",
+            "3. A report before you buy.\n\nYou now get a detailed breakdown of every flaw before signing a used car deal.",
+            "4. The twist in the story.\n\nSandberg’s backing turns a blind spot into a tool that shifts buyer power.",
+            "5. Test it on your next car.\n\nRun an AI scan on your potential purchase before paying—does it match your gut?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Manual checks miss up to thirty percent damage.",
+            "AI spots dents you cannot see at all.",
+            "You get a detailed pre-purchase inspection report.",
+            "Sandberg’s firm shifts power to buyers.",
+            "Test AI before you buy your next car."
+          ]
+        },
+        "instagram": {
+          "caption": "Manual checks miss up to 30% of visible damage on used cars—and that’s just what humans can see.\n\nSheryl Sandberg just led a $10 million investment in an AI service that spots dents invisible to the naked eye. Instead of trusting a seller’s word or your own glance, you get a detailed report of every hidden flaw before signing.\n\nFor anyone buying a used car, the power shift is real: the AI turns your blind spot into a tool that reveals what the seller might not mention.\n\nNext time you test-drive, will you run the scan before you pay? 🚗"
+        }
+      },
+      "instagram_caption": "Manual checks miss up to 30% of visible damage on used cars—and that’s just what humans can see.\n\nSheryl Sandberg just led a $10 million investment in an AI service that spots dents invisible to the naked eye. Instead of trusting a seller’s word or your own glance, you get a detailed report of every hidden flaw before signing.\n\nFor anyone buying a used car, the power shift is real: the AI turns your blind spot into a tool that reveals what the seller might not mention.\n\nNext time you test-drive, will you run the scan before you pay? 🚗",
+      "carousel_slides": [
+        {
+          "hook": "What if AI sees damage you miss?",
+          "description": "Manual checks miss up to 30% of visible damage. Sheryl Sandberg bets AI can change that.",
+          "visual_hint": "AI scanning car hood closeup",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "car inspection AI"
+        },
+        {
+          "hook": "Dents your eyes can't catch.",
+          "description": "Her firm's AI detects dents invisible to the human eye, revealing hidden flaws before you buy.",
+          "visual_hint": "AI overlay on car door dent",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "car dent detection",
+          "image": "https://images.pexels.com/photos/35149611/pexels-photo-35149611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Know every flaw before signing.",
+          "description": "You now get a detailed report of all damage before buying a used car—no surprises.",
+          "visual_hint": "Detailed car report printout",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "used car report",
+          "image": "https://images.pexels.com/photos/7144261/pexels-photo-7144261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Power shifts to the buyer.",
+          "description": "Sandberg's backing turns blind spots into a tool that puts you in control of the deal.",
+          "visual_hint": "Hand holding smartphone report",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person phone car",
+          "image": "https://images.pexels.com/photos/15437355/pexels-photo-15437355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it before you pay—save this.",
+          "description": "Run an AI scan on your next potential purchase. Does the report match your gut feeling?",
+          "visual_hint": "Phone with scan button ready",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "car scan app",
+          "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-168395673.jpg?resize=1200,782",
+      "savedAt": "2026-07-16T20:48:14.876Z",
+      "sourceId": "734be335bc48efd952e73a53b2a35a67"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "newsletter-platform-beehiiv-now-lets-subscribers-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "pubDate": "Thu, 16 Jul 2026 17:00:00 +0000",
+      "slides": [
+        "Could subscriber chat make Beehiiv the next social network?",
+        "It now lets readers talk directly within your newsletter.",
+        "Most platforms isolate readers—Beehiiv connects them without you.",
+        "Your subscribers now build community, not just read emails.",
+        "Test a private chat thread with your next issue today."
+      ],
+      "thread_text": [
+        "1. Can chat make a newsletter a social network?\n\nBeehiiv now lets readers talk directly inside your newsletter, turning passive subscribers into an active community.",
+        "2. Most platforms keep readers isolated.\n\nBeehiiv lets them connect with each other without you having to moderate every conversation.",
+        "3. Your subscribers now build the community themselves.\n\nThey don't just read emails—they talk, share, and form bonds around your content.",
+        "4. This changes how you engage.\n\nInstead of one-to-many broadcasts, you get many-to-many conversations happening inside your publication.",
+        "5. Test a private chat thread with your next issue today.\n\nDoes your audience want to talk to each other? The only way to know is to try."
+      ],
+      "video_script": [
+        "Beehiiv lets readers chat inside your newsletter.",
+        "Turn passive subscribers into an active community.",
+        "No platform has done this before.",
+        "Your audience builds itself now.",
+        "Test it with your next issue."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can chat make a newsletter a social network?\n\nBeehiiv now lets readers talk directly inside your newsletter, turning passive subscribers into an active community.",
+            "2. Most platforms keep readers isolated.\n\nBeehiiv lets them connect with each other without you having to moderate every conversation.",
+            "3. Your subscribers now build the community themselves.\n\nThey don't just read emails—they talk, share, and form bonds around your content.",
+            "4. This changes how you engage.\n\nInstead of one-to-many broadcasts, you get many-to-many conversations happening inside your publication.",
+            "5. Test a private chat thread with your next issue today.\n\nDoes your audience want to talk to each other? The only way to know is to try."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Beehiiv lets readers chat inside your newsletter.",
+            "Turn passive subscribers into an active community.",
+            "No platform has done this before.",
+            "Your audience builds itself now.",
+            "Test it with your next issue."
+          ]
+        },
+        "instagram": {
+          "caption": "Your newsletter subscribers can now talk directly to each other inside Beehiiv, without you needing to moderate.\n\nMost platforms keep readers isolated. Beehiiv flips that—readers connect, share, and build community around your content without you hosting every conversation.\n\nYour one-to-many broadcast becomes a many-to-many conversation.\n\nDoes your audience actually want to talk to each other? Drop a private chat thread into your next issue and find out. 🤝💬"
+        }
+      },
+      "instagram_caption": "Your newsletter subscribers can now talk directly to each other inside Beehiiv, without you needing to moderate.\n\nMost platforms keep readers isolated. Beehiiv flips that—readers connect, share, and build community around your content without you hosting every conversation.\n\nYour one-to-many broadcast becomes a many-to-many conversation.\n\nDoes your audience actually want to talk to each other? Drop a private chat thread into your next issue and find out. 🤝💬",
+      "carousel_slides": [
+        {
+          "hook": "Is your newsletter a social network?",
+          "description": "Beehiiv now lets readers talk inside your newsletter, turning passive subscribers into an active community.",
+          "visual_hint": "Chat bubble network glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chat interface mobile"
+        },
+        {
+          "hook": "Readers connect without you.",
+          "description": "Most platforms isolate readers, but Beehiiv lets them connect without you moderating every conversation.",
+          "visual_hint": "Isolated figures connecting",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "people linked dots",
+          "image": "https://images.pexels.com/photos/1722180/pexels-photo-1722180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They build community themselves.",
+          "description": "Your subscribers don't just read—they talk, share, and form bonds around your content.",
+          "visual_hint": "Network forming automatically",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "interconnected nodes web",
+          "image": "https://images.pexels.com/photos/27915934/pexels-photo-27915934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From broadcast to conversation.",
+          "description": "Instead of one-to-many, get many-to-many conversations happening inside your publication.",
+          "visual_hint": "Many arrows converging",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people discussing group",
+          "image": "https://images.pexels.com/photos/8730281/pexels-photo-8730281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try private chat in your next issue.",
+          "description": "Test a private chat thread with your next issue and see if your audience wants to connect.",
+          "visual_hint": "Chat thread button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "envelope speech bubble",
+          "image": "https://images.pexels.com/photos/8015674/pexels-photo-8015674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/STILL_2_A.jpeg?resize=1200,675",
+      "savedAt": "2026-07-16T20:48:01.358Z",
+      "sourceId": "486214a117cf54238549bc5c6e3578bf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "roblox-launches-an-ai-powered-game-creation-featur",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "slides": [
+        "Roblox just let AI build games in your pocket.",
+        "You now generate 3D worlds from text prompts.",
+        "But it designs monetization loops before you do.",
+        "Your game launches with built-in engagement hooks.",
+        "Test it today—before your audience plays someone else's."
+      ],
+      "thread_text": [
+        "1. Your game monetizes itself.\n\nRoblox's AI doesn't just build 3D worlds—it inserts purchase prompts and engagement loops before you write a single line of code.",
+        "2. Text becomes a world.\n\nYou type a prompt and get a playable environment. No modeling, no scripting—just a sentence and a tap.",
+        "3. The twist: it hooks first.\n\nThe AI optimizes for retention and spending automatically. Your creative intent comes second to the platform's economics.",
+        "4. You lose control of the loop.\n\nMonetization logic is baked into the generation step. You don't decide when or how to sell—the engine does.",
+        "5. Test it this week.\n\nOpen Roblox Studio, paste a prompt, and see what monetization hooks appear. If you don't, your audience will be on someone else's map by Friday."
+      ],
+      "video_script": [
+        "Roblox now builds whole games from a text prompt.",
+        "You type one line—it generates a 3D world instantly.",
+        "But it also bakes in monetization loops automatically.",
+        "Your game launches with built-in engagement and purchase hooks.",
+        "Test it now before your audience plays someone else's."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your game monetizes itself.\n\nRoblox's AI doesn't just build 3D worlds—it inserts purchase prompts and engagement loops before you write a single line of code.",
+            "2. Text becomes a world.\n\nYou type a prompt and get a playable environment. No modeling, no scripting—just a sentence and a tap.",
+            "3. The twist: it hooks first.\n\nThe AI optimizes for retention and spending automatically. Your creative intent comes second to the platform's economics.",
+            "4. You lose control of the loop.\n\nMonetization logic is baked into the generation step. You don't decide when or how to sell—the engine does.",
+            "5. Test it this week.\n\nOpen Roblox Studio, paste a prompt, and see what monetization hooks appear. If you don't, your audience will be on someone else's map by Friday."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Roblox now builds whole games from a text prompt.",
+            "You type one line—it generates a 3D world instantly.",
+            "But it also bakes in monetization loops automatically.",
+            "Your game launches with built-in engagement and purchase hooks.",
+            "Test it now before your audience plays someone else's."
+          ]
+        },
+        "instagram": {
+          "caption": "You type “medieval marketplace” into Roblox mobile and get a 3D world back. But before you add a sword, it’s already asking for Robux.\n\nRoblox’s new AI generates the game and auto-inserts purchase prompts. The engine decides the monetization loop — not you. Your creative intent runs second to platform retention.\n\nIf you’re building on Roblox now, the AI decides where players spend. You just provide the prompt.\n\nOpen Roblox Studio today, paste a landscape idea, and read the hooks it writes. Where does it put the first paywall?"
+        }
+      },
+      "instagram_caption": "You type “medieval marketplace” into Roblox mobile and get a 3D world back. But before you add a sword, it’s already asking for Robux.\n\nRoblox’s new AI generates the game and auto-inserts purchase prompts. The engine decides the monetization loop — not you. Your creative intent runs second to platform retention.\n\nIf you’re building on Roblox now, the AI decides where players spend. You just provide the prompt.\n\nOpen Roblox Studio today, paste a landscape idea, and read the hooks it writes. Where does it put the first paywall?",
+      "carousel_slides": [
+        {
+          "hook": "Your game monetizes itself.",
+          "description": "Roblox AI inserts purchase prompts and engagement loops before you write any code.",
+          "visual_hint": "coins falling into pocket",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "pocket full coins"
+        },
+        {
+          "hook": "Type a sentence, get a world.",
+          "description": "No modeling or scripting needed—just a text prompt and a tap to play.",
+          "visual_hint": "text transforming into 3D scene",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "text to 3D",
+          "image": "https://images.pexels.com/photos/20670223/pexels-photo-20670223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It hooks before you design.",
+          "description": "The AI optimizes for retention and spending first, your creative intent second.",
+          "visual_hint": "hook pulling a player",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fishing hook",
+          "image": "https://images.pexels.com/photos/6478085/pexels-photo-6478085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You lose pricing control.",
+          "description": "Monetization logic is baked into generation—you don't decide when to sell.",
+          "visual_hint": "gear with dollar sign",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gear mechanism",
+          "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test AI before your audience leaves.",
+          "description": "Open Roblox Studio, paste a prompt, and see what monetization hooks appear.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "phone with Roblox Studio open",
+          "image_query": "smartphone app open",
+          "image": "https://images.pexels.com/photos/3850254/pexels-photo-3850254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+      "savedAt": "2026-07-16T20:47:49.049Z",
+      "sourceId": "0699caaab6d76b8b394918cf6d46c73d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "founders-fund-hires-former-openai-exec-ryan-beierm",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "pubDate": "Thu, 16 Jul 2026 20:07:14 +0000",
+      "slides": [
+        "Ryan Beiermeister just joined Founders Fund. Why now?",
+        "She was OpenAI's first security lead, not a network hire.",
+        "The bet: AI safety is where the next unicorns hide.",
+        "Founders Fund now backs startups that harden AI systems.",
+        "Your next competitor may be a security-native AI company."
+      ],
+      "thread_text": [
+        "1. Why Ryan Joined Founders Fund.\n\nHe left OpenAI’s security team to build what he couldn’t inside — the next wave of AI defense startups.",
+        "2. The First Security Lead.\n\nShe designed OpenAI’s safety stack from scratch, not as a networking hire. Her playbook is now public.",
+        "3. The Unicorn Bet.\n\nAI safety isn’t a cost center. Founders Fund sees it as the next multi-billion dollar market.",
+        "4. Hardening the Stack.\n\nThe fund now backs startups that make AI systems attack-proof. Think firewalls for models.",
+        "5. Your Next Competitor.\n\nA security-native AI company can beat your product. Take any AI tool you use and simulate a prompt attack today."
+      ],
+      "video_script": [
+        "Ryan left OpenAI to build AI safety startups.",
+        "She was OpenAI’s first security lead, not hired.",
+        "Founders Fund bets safety creates billion-dollar companies.",
+        "They fund startups that harden AI systems now.",
+        "Your next rival may be a security-native AI company."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why Ryan Joined Founders Fund.\n\nHe left OpenAI’s security team to build what he couldn’t inside — the next wave of AI defense startups.",
+            "2. The First Security Lead.\n\nShe designed OpenAI’s safety stack from scratch, not as a networking hire. Her playbook is now public.",
+            "3. The Unicorn Bet.\n\nAI safety isn’t a cost center. Founders Fund sees it as the next multi-billion dollar market.",
+            "4. Hardening the Stack.\n\nThe fund now backs startups that make AI systems attack-proof. Think firewalls for models.",
+            "5. Your Next Competitor.\n\nA security-native AI company can beat your product. Take any AI tool you use and simulate a prompt attack today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ryan left OpenAI to build AI safety startups.",
+            "She was OpenAI’s first security lead, not hired.",
+            "Founders Fund bets safety creates billion-dollar companies.",
+            "They fund startups that harden AI systems now.",
+            "Your next rival may be a security-native AI company."
+          ]
+        },
+        "instagram": {
+          "caption": "Ryan Beiermeister, the engineer who built OpenAI’s security defenses from scratch, just joined Founders Fund—not as a network hire, but as proof that safety is the next gold rush.\n\nHer playbook is now public. Founders Fund is backing startups that build firewalls for AI models. What she couldn’t build inside OpenAI, she’ll now fund.\n\nIf you publish content or run a business around AI tools, your next competitor won’t just be faster—it’ll be immune to prompt attacks that break yours.\n\nWhich AI tool you use right now would survive someone simulating a prompt attack on your own workflow?"
+        }
+      },
+      "instagram_caption": "Ryan Beiermeister, the engineer who built OpenAI’s security defenses from scratch, just joined Founders Fund—not as a network hire, but as proof that safety is the next gold rush.\n\nHer playbook is now public. Founders Fund is backing startups that build firewalls for AI models. What she couldn’t build inside OpenAI, she’ll now fund.\n\nIf you publish content or run a business around AI tools, your next competitor won’t just be faster—it’ll be immune to prompt attacks that break yours.\n\nWhich AI tool you use right now would survive someone simulating a prompt attack on your own workflow?",
+      "carousel_slides": [
+        {
+          "hook": "The next unicorn hides here",
+          "description": "Founders Fund hires OpenAI's first security lead to back the next wave of AI defense startups.",
+          "visual_hint": "Venture capital office",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "venture capital office"
+        },
+        {
+          "hook": "She built safety from scratch",
+          "description": "Ryan Beiermeister designed OpenAI's security stack as first lead, now her playbook is public.",
+          "visual_hint": "Security engineer at desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "security engineer desk",
+          "image": "https://images.pexels.com/photos/5483158/pexels-photo-5483158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety is a billion-dollar bet",
+          "description": "Founders Fund sees AI safety as a multi-billion market, not a cost center.",
+          "visual_hint": "Rocket launch pad",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rocket launch pad",
+          "image": "https://images.pexels.com/photos/37767622/pexels-photo-37767622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hardening the AI stack",
+          "description": "Fund backs startups building firewalls for models to make AI systems attack-proof.",
+          "visual_hint": "Circuit board close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "circuit board close",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your security playbook",
+          "description": "Test any AI tool with a prompt attack simulation today to see your vulnerability.",
+          "visual_hint": "Person testing laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person testing laptop",
+          "image": "https://images.pexels.com/photos/3861949/pexels-photo-3861949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ryan-Beiermeister-e1784229896460.png?resize=1200,700",
+      "savedAt": "2026-07-16T20:47:35.140Z",
+      "sourceId": "ab4b103aef6dc264f25fca76eb16a185"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-agent-evaluation-gap-enterprise-ai-organizatio",
       "prompt_version": "1.0.0",
       "status": "published",

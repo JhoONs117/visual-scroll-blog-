@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "roblox-launches-an-ai-powered-game-creation-featur",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+  "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+  "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+  "slides": [
+    "Roblox just let AI build games in your pocket.",
+    "You now generate 3D worlds from text prompts.",
+    "But it designs monetization loops before you do.",
+    "Your game launches with built-in engagement hooks.",
+    "Test it today—before your audience plays someone else's."
+  ],
+  "thread_text": [
+    "1. Your game monetizes itself.\n\nRoblox's AI doesn't just build 3D worlds—it inserts purchase prompts and engagement loops before you write a single line of code.",
+    "2. Text becomes a world.\n\nYou type a prompt and get a playable environment. No modeling, no scripting—just a sentence and a tap.",
+    "3. The twist: it hooks first.\n\nThe AI optimizes for retention and spending automatically. Your creative intent comes second to the platform's economics.",
+    "4. You lose control of the loop.\n\nMonetization logic is baked into the generation step. You don't decide when or how to sell—the engine does.",
+    "5. Test it this week.\n\nOpen Roblox Studio, paste a prompt, and see what monetization hooks appear. If you don't, your audience will be on someone else's map by Friday."
+  ],
+  "video_script": [
+    "Roblox now builds whole games from a text prompt.",
+    "You type one line—it generates a 3D world instantly.",
+    "But it also bakes in monetization loops automatically.",
+    "Your game launches with built-in engagement and purchase hooks.",
+    "Test it now before your audience plays someone else's."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your game monetizes itself.\n\nRoblox's AI doesn't just build 3D worlds—it inserts purchase prompts and engagement loops before you write a single line of code.",
+        "2. Text becomes a world.\n\nYou type a prompt and get a playable environment. No modeling, no scripting—just a sentence and a tap.",
+        "3. The twist: it hooks first.\n\nThe AI optimizes for retention and spending automatically. Your creative intent comes second to the platform's economics.",
+        "4. You lose control of the loop.\n\nMonetization logic is baked into the generation step. You don't decide when or how to sell—the engine does.",
+        "5. Test it this week.\n\nOpen Roblox Studio, paste a prompt, and see what monetization hooks appear. If you don't, your audience will be on someone else's map by Friday."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Roblox now builds whole games from a text prompt.",
+        "You type one line—it generates a 3D world instantly.",
+        "But it also bakes in monetization loops automatically.",
+        "Your game launches with built-in engagement and purchase hooks.",
+        "Test it now before your audience plays someone else's."
+      ]
+    },
+    "instagram": {
+      "caption": "You type “medieval marketplace” into Roblox mobile and get a 3D world back. But before you add a sword, it’s already asking for Robux.\n\nRoblox’s new AI generates the game and auto-inserts purchase prompts. The engine decides the monetization loop — not you. Your creative intent runs second to platform retention.\n\nIf you’re building on Roblox now, the AI decides where players spend. You just provide the prompt.\n\nOpen Roblox Studio today, paste a landscape idea, and read the hooks it writes. Where does it put the first paywall?"
+    }
+  },
+  "instagram_caption": "You type “medieval marketplace” into Roblox mobile and get a 3D world back. But before you add a sword, it’s already asking for Robux.\n\nRoblox’s new AI generates the game and auto-inserts purchase prompts. The engine decides the monetization loop — not you. Your creative intent runs second to platform retention.\n\nIf you’re building on Roblox now, the AI decides where players spend. You just provide the prompt.\n\nOpen Roblox Studio today, paste a landscape idea, and read the hooks it writes. Where does it put the first paywall?",
+  "carousel_slides": [
+    {
+      "hook": "Your game monetizes itself.",
+      "description": "Roblox AI inserts purchase prompts and engagement loops before you write any code.",
+      "visual_hint": "coins falling into pocket",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "pocket full coins"
+    },
+    {
+      "hook": "Type a sentence, get a world.",
+      "description": "No modeling or scripting needed—just a text prompt and a tap to play.",
+      "visual_hint": "text transforming into 3D scene",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "text to 3D",
+      "image": "https://images.pexels.com/photos/20670223/pexels-photo-20670223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It hooks before you design.",
+      "description": "The AI optimizes for retention and spending first, your creative intent second.",
+      "visual_hint": "hook pulling a player",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fishing hook",
+      "image": "https://images.pexels.com/photos/6478085/pexels-photo-6478085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You lose pricing control.",
+      "description": "Monetization logic is baked into generation—you don't decide when to sell.",
+      "visual_hint": "gear with dollar sign",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gear mechanism",
+      "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI before your audience leaves.",
+      "description": "Open Roblox Studio, paste a prompt, and see what monetization hooks appear.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "phone with Roblox Studio open",
+      "image_query": "smartphone app open",
+      "image": "https://images.pexels.com/photos/3850254/pexels-photo-3850254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+  "savedAt": "2026-07-16T20:47:49.049Z",
+  "sourceId": "0699caaab6d76b8b394918cf6d46c73d"
+}

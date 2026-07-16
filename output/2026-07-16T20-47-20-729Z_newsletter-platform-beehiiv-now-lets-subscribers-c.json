@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "newsletter-platform-beehiiv-now-lets-subscribers-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+  "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+  "pubDate": "Thu, 16 Jul 2026 17:00:00 +0000",
+  "slides": [
+    "Could subscriber chat make Beehiiv the next social network?",
+    "It now lets readers talk directly within your newsletter.",
+    "Most platforms isolate readers—Beehiiv connects them without you.",
+    "Your subscribers now build community, not just read emails.",
+    "Test a private chat thread with your next issue today."
+  ],
+  "thread_text": [
+    "1. Can chat make a newsletter a social network?\n\nBeehiiv now lets readers talk directly inside your newsletter, turning passive subscribers into an active community.",
+    "2. Most platforms keep readers isolated.\n\nBeehiiv lets them connect with each other without you having to moderate every conversation.",
+    "3. Your subscribers now build the community themselves.\n\nThey don't just read emails—they talk, share, and form bonds around your content.",
+    "4. This changes how you engage.\n\nInstead of one-to-many broadcasts, you get many-to-many conversations happening inside your publication.",
+    "5. Test a private chat thread with your next issue today.\n\nDoes your audience want to talk to each other? The only way to know is to try."
+  ],
+  "video_script": [
+    "Beehiiv lets readers chat inside your newsletter.",
+    "Turn passive subscribers into an active community.",
+    "No platform has done this before.",
+    "Your audience builds itself now.",
+    "Test it with your next issue."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can chat make a newsletter a social network?\n\nBeehiiv now lets readers talk directly inside your newsletter, turning passive subscribers into an active community.",
+        "2. Most platforms keep readers isolated.\n\nBeehiiv lets them connect with each other without you having to moderate every conversation.",
+        "3. Your subscribers now build the community themselves.\n\nThey don't just read emails—they talk, share, and form bonds around your content.",
+        "4. This changes how you engage.\n\nInstead of one-to-many broadcasts, you get many-to-many conversations happening inside your publication.",
+        "5. Test a private chat thread with your next issue today.\n\nDoes your audience want to talk to each other? The only way to know is to try."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Beehiiv lets readers chat inside your newsletter.",
+        "Turn passive subscribers into an active community.",
+        "No platform has done this before.",
+        "Your audience builds itself now.",
+        "Test it with your next issue."
+      ]
+    },
+    "instagram": {
+      "caption": "Your newsletter subscribers can now talk directly to each other inside Beehiiv, without you needing to moderate.\n\nMost platforms keep readers isolated. Beehiiv flips that—readers connect, share, and build community around your content without you hosting every conversation.\n\nYour one-to-many broadcast becomes a many-to-many conversation.\n\nDoes your audience actually want to talk to each other? Drop a private chat thread into your next issue and find out. 🤝💬"
+    }
+  },
+  "instagram_caption": "Your newsletter subscribers can now talk directly to each other inside Beehiiv, without you needing to moderate.\n\nMost platforms keep readers isolated. Beehiiv flips that—readers connect, share, and build community around your content without you hosting every conversation.\n\nYour one-to-many broadcast becomes a many-to-many conversation.\n\nDoes your audience actually want to talk to each other? Drop a private chat thread into your next issue and find out. 🤝💬",
+  "carousel_slides": [
+    {
+      "hook": "Is your newsletter a social network?",
+      "description": "Beehiiv now lets readers talk inside your newsletter, turning passive subscribers into an active community.",
+      "visual_hint": "Chat bubble network glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chat interface mobile"
+    },
+    {
+      "hook": "Readers connect without you.",
+      "description": "Most platforms isolate readers, but Beehiiv lets them connect without you moderating every conversation.",
+      "visual_hint": "Isolated figures connecting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "people linked dots",
+      "image": "https://images.pexels.com/photos/1722180/pexels-photo-1722180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They build community themselves.",
+      "description": "Your subscribers don't just read—they talk, share, and form bonds around your content.",
+      "visual_hint": "Network forming automatically",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "interconnected nodes web",
+      "image": "https://images.pexels.com/photos/27915934/pexels-photo-27915934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From broadcast to conversation.",
+      "description": "Instead of one-to-many, get many-to-many conversations happening inside your publication.",
+      "visual_hint": "Many arrows converging",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people discussing group",
+      "image": "https://images.pexels.com/photos/8730281/pexels-photo-8730281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try private chat in your next issue.",
+      "description": "Test a private chat thread with your next issue and see if your audience wants to connect.",
+      "visual_hint": "Chat thread button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "envelope speech bubble",
+      "image": "https://images.pexels.com/photos/8015674/pexels-photo-8015674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/STILL_2_A.jpeg?resize=1200,675",
+  "savedAt": "2026-07-16T20:48:01.358Z",
+  "sourceId": "486214a117cf54238549bc5c6e3578bf"
+}

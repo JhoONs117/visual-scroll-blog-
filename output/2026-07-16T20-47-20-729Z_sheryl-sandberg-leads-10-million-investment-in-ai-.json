@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sheryl-sandberg-leads-10-million-investment-in-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+  "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+  "pubDate": "Thu, 16 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Why did Sheryl Sandberg back AI vehicle inspections?",
+    "Manual checks miss up to 30% of visible damage.",
+    "Her firm’s AI detects dents invisible to the human eye.",
+    "You now get a detailed report before buying a used car.",
+    "Test it on your next potential purchase—before you pay."
+  ],
+  "thread_text": [
+    "1. Why back AI for car checks?\n\nManual inspections miss up to 30% of visible damage—and that’s just the start.",
+    "2. Dents you can’t see detected.\n\nHer firm’s AI spots damage invisible to the human eye, revealing hidden issues.",
+    "3. A report before you buy.\n\nYou now get a detailed breakdown of every flaw before signing a used car deal.",
+    "4. The twist in the story.\n\nSandberg’s backing turns a blind spot into a tool that shifts buyer power.",
+    "5. Test it on your next car.\n\nRun an AI scan on your potential purchase before paying—does it match your gut?"
+  ],
+  "video_script": [
+    "Manual checks miss up to thirty percent damage.",
+    "AI spots dents you cannot see at all.",
+    "You get a detailed pre-purchase inspection report.",
+    "Sandberg’s firm shifts power to buyers.",
+    "Test AI before you buy your next car."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why back AI for car checks?\n\nManual inspections miss up to 30% of visible damage—and that’s just the start.",
+        "2. Dents you can’t see detected.\n\nHer firm’s AI spots damage invisible to the human eye, revealing hidden issues.",
+        "3. A report before you buy.\n\nYou now get a detailed breakdown of every flaw before signing a used car deal.",
+        "4. The twist in the story.\n\nSandberg’s backing turns a blind spot into a tool that shifts buyer power.",
+        "5. Test it on your next car.\n\nRun an AI scan on your potential purchase before paying—does it match your gut?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Manual checks miss up to thirty percent damage.",
+        "AI spots dents you cannot see at all.",
+        "You get a detailed pre-purchase inspection report.",
+        "Sandberg’s firm shifts power to buyers.",
+        "Test AI before you buy your next car."
+      ]
+    },
+    "instagram": {
+      "caption": "Manual checks miss up to 30% of visible damage on used cars—and that’s just what humans can see.\n\nSheryl Sandberg just led a $10 million investment in an AI service that spots dents invisible to the naked eye. Instead of trusting a seller’s word or your own glance, you get a detailed report of every hidden flaw before signing.\n\nFor anyone buying a used car, the power shift is real: the AI turns your blind spot into a tool that reveals what the seller might not mention.\n\nNext time you test-drive, will you run the scan before you pay? 🚗"
+    }
+  },
+  "instagram_caption": "Manual checks miss up to 30% of visible damage on used cars—and that’s just what humans can see.\n\nSheryl Sandberg just led a $10 million investment in an AI service that spots dents invisible to the naked eye. Instead of trusting a seller’s word or your own glance, you get a detailed report of every hidden flaw before signing.\n\nFor anyone buying a used car, the power shift is real: the AI turns your blind spot into a tool that reveals what the seller might not mention.\n\nNext time you test-drive, will you run the scan before you pay? 🚗",
+  "carousel_slides": [
+    {
+      "hook": "What if AI sees damage you miss?",
+      "description": "Manual checks miss up to 30% of visible damage. Sheryl Sandberg bets AI can change that.",
+      "visual_hint": "AI scanning car hood closeup",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car inspection AI"
+    },
+    {
+      "hook": "Dents your eyes can't catch.",
+      "description": "Her firm's AI detects dents invisible to the human eye, revealing hidden flaws before you buy.",
+      "visual_hint": "AI overlay on car door dent",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car dent detection",
+      "image": "https://images.pexels.com/photos/35149611/pexels-photo-35149611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Know every flaw before signing.",
+      "description": "You now get a detailed report of all damage before buying a used car—no surprises.",
+      "visual_hint": "Detailed car report printout",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "used car report",
+      "image": "https://images.pexels.com/photos/7144261/pexels-photo-7144261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Power shifts to the buyer.",
+      "description": "Sandberg's backing turns blind spots into a tool that puts you in control of the deal.",
+      "visual_hint": "Hand holding smartphone report",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person phone car",
+      "image": "https://images.pexels.com/photos/15437355/pexels-photo-15437355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it before you pay—save this.",
+      "description": "Run an AI scan on your next potential purchase. Does the report match your gut feeling?",
+      "visual_hint": "Phone with scan button ready",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car scan app",
+      "image": "https://images.pexels.com/photos/6169859/pexels-photo-6169859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-168395673.jpg?resize=1200,782",
+  "savedAt": "2026-07-16T20:48:14.876Z",
+  "sourceId": "734be335bc48efd952e73a53b2a35a67"
+}

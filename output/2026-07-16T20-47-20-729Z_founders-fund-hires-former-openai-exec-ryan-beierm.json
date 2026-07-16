@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "founders-fund-hires-former-openai-exec-ryan-beierm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+  "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+  "pubDate": "Thu, 16 Jul 2026 20:07:14 +0000",
+  "slides": [
+    "Ryan Beiermeister just joined Founders Fund. Why now?",
+    "She was OpenAI's first security lead, not a network hire.",
+    "The bet: AI safety is where the next unicorns hide.",
+    "Founders Fund now backs startups that harden AI systems.",
+    "Your next competitor may be a security-native AI company."
+  ],
+  "thread_text": [
+    "1. Why Ryan Joined Founders Fund.\n\nHe left OpenAI’s security team to build what he couldn’t inside — the next wave of AI defense startups.",
+    "2. The First Security Lead.\n\nShe designed OpenAI’s safety stack from scratch, not as a networking hire. Her playbook is now public.",
+    "3. The Unicorn Bet.\n\nAI safety isn’t a cost center. Founders Fund sees it as the next multi-billion dollar market.",
+    "4. Hardening the Stack.\n\nThe fund now backs startups that make AI systems attack-proof. Think firewalls for models.",
+    "5. Your Next Competitor.\n\nA security-native AI company can beat your product. Take any AI tool you use and simulate a prompt attack today."
+  ],
+  "video_script": [
+    "Ryan left OpenAI to build AI safety startups.",
+    "She was OpenAI’s first security lead, not hired.",
+    "Founders Fund bets safety creates billion-dollar companies.",
+    "They fund startups that harden AI systems now.",
+    "Your next rival may be a security-native AI company."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Ryan Joined Founders Fund.\n\nHe left OpenAI’s security team to build what he couldn’t inside — the next wave of AI defense startups.",
+        "2. The First Security Lead.\n\nShe designed OpenAI’s safety stack from scratch, not as a networking hire. Her playbook is now public.",
+        "3. The Unicorn Bet.\n\nAI safety isn’t a cost center. Founders Fund sees it as the next multi-billion dollar market.",
+        "4. Hardening the Stack.\n\nThe fund now backs startups that make AI systems attack-proof. Think firewalls for models.",
+        "5. Your Next Competitor.\n\nA security-native AI company can beat your product. Take any AI tool you use and simulate a prompt attack today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ryan left OpenAI to build AI safety startups.",
+        "She was OpenAI’s first security lead, not hired.",
+        "Founders Fund bets safety creates billion-dollar companies.",
+        "They fund startups that harden AI systems now.",
+        "Your next rival may be a security-native AI company."
+      ]
+    },
+    "instagram": {
+      "caption": "Ryan Beiermeister, the engineer who built OpenAI’s security defenses from scratch, just joined Founders Fund—not as a network hire, but as proof that safety is the next gold rush.\n\nHer playbook is now public. Founders Fund is backing startups that build firewalls for AI models. What she couldn’t build inside OpenAI, she’ll now fund.\n\nIf you publish content or run a business around AI tools, your next competitor won’t just be faster—it’ll be immune to prompt attacks that break yours.\n\nWhich AI tool you use right now would survive someone simulating a prompt attack on your own workflow?"
+    }
+  },
+  "instagram_caption": "Ryan Beiermeister, the engineer who built OpenAI’s security defenses from scratch, just joined Founders Fund—not as a network hire, but as proof that safety is the next gold rush.\n\nHer playbook is now public. Founders Fund is backing startups that build firewalls for AI models. What she couldn’t build inside OpenAI, she’ll now fund.\n\nIf you publish content or run a business around AI tools, your next competitor won’t just be faster—it’ll be immune to prompt attacks that break yours.\n\nWhich AI tool you use right now would survive someone simulating a prompt attack on your own workflow?",
+  "carousel_slides": [
+    {
+      "hook": "The next unicorn hides here",
+      "description": "Founders Fund hires OpenAI's first security lead to back the next wave of AI defense startups.",
+      "visual_hint": "Venture capital office",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "venture capital office"
+    },
+    {
+      "hook": "She built safety from scratch",
+      "description": "Ryan Beiermeister designed OpenAI's security stack as first lead, now her playbook is public.",
+      "visual_hint": "Security engineer at desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security engineer desk",
+      "image": "https://images.pexels.com/photos/5483158/pexels-photo-5483158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety is a billion-dollar bet",
+      "description": "Founders Fund sees AI safety as a multi-billion market, not a cost center.",
+      "visual_hint": "Rocket launch pad",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket launch pad",
+      "image": "https://images.pexels.com/photos/37767622/pexels-photo-37767622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hardening the AI stack",
+      "description": "Fund backs startups building firewalls for models to make AI systems attack-proof.",
+      "visual_hint": "Circuit board close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board close",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your security playbook",
+      "description": "Test any AI tool with a prompt attack simulation today to see your vulnerability.",
+      "visual_hint": "Person testing laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person testing laptop",
+      "image": "https://images.pexels.com/photos/3861949/pexels-photo-3861949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ryan-Beiermeister-e1784229896460.png?resize=1200,700",
+  "savedAt": "2026-07-16T20:47:35.140Z",
+  "sourceId": "ab4b103aef6dc264f25fca76eb16a185"
+}
