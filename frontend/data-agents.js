@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-agent-security-gap-54-of-enterprises-have-alre",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "slides": [
+        "Your agent just leaked credentials—can you trace it?",
+        "54% of firms already had an AI agent security incident.",
+        "Most companies still let agents share credentials freely.",
+        "Now every agent action must be logged and verified.",
+        "Revoke agent credential sharing permissions today."
+      ],
+      "thread_text": [
+        "1. Your agent just leaked credentials\n\n54% of firms already had an AI agent security incident. Most still let agents share credentials freely.",
+        "2. No more blind trust\n\nNow every agent action must be logged and verified. One misstep and you'll see the full trail.",
+        "3. The credential sharing loophole\n\nAgents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+        "4. Traceability is the only shield\n\nWithout logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+        "5. Revoke agent credential sharing today\n\nOpen your agent settings and disable credential sharing. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Your AI agent just leaked credentials.",
+        "Over half of firms have had incidents.",
+        "Most still let agents share passwords.",
+        "Now every action must be logged.",
+        "Revoke credential sharing permissions today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your agent just leaked credentials\n\n54% of firms already had an AI agent security incident. Most still let agents share credentials freely.",
+            "2. No more blind trust\n\nNow every agent action must be logged and verified. One misstep and you'll see the full trail.",
+            "3. The credential sharing loophole\n\nAgents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+            "4. Traceability is the only shield\n\nWithout logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+            "5. Revoke agent credential sharing today\n\nOpen your agent settings and disable credential sharing. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI agent just leaked credentials.",
+            "Over half of firms have had incidents.",
+            "Most still let agents share passwords.",
+            "Now every action must be logged.",
+            "Revoke credential sharing permissions today."
+          ]
+        },
+        "instagram": {
+          "caption": "54% of enterprises have already had an AI agent security incident, but most still let agents share credentials freely. 🔑\n\nYour agent just leaked a password — and you have no way to trace which one did it. Without logging, every action is invisible until the breach hits. 🚫\n\nFor anyone deploying AI agents at work: a single credential-sharing permission can undo your entire security setup. 🛡️\n\nCheck your agent settings right now — is credential sharing still enabled? 🔍"
+        }
+      },
+      "instagram_caption": "54% of enterprises have already had an AI agent security incident, but most still let agents share credentials freely. 🔑\n\nYour agent just leaked a password — and you have no way to trace which one did it. Without logging, every action is invisible until the breach hits. 🚫\n\nFor anyone deploying AI agents at work: a single credential-sharing permission can undo your entire security setup. 🛡️\n\nCheck your agent settings right now — is credential sharing still enabled? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your agent just leaked credentials.",
+          "description": "54% of firms already had an AI agent incident. Most still let agents share credentials freely.",
+          "visual_hint": "server room red alert",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "No more blind trust.",
+          "description": "Now every agent action must be logged and verified. One misstep and you'll see the full trail.",
+          "visual_hint": "keyboard close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "keyboard typing",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The credential sharing loophole.",
+          "description": "Agents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+          "visual_hint": "digital lock broken",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "digital lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Traceability is the only shield.",
+          "description": "Without logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+          "visual_hint": "network cables tangled",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Revoke agent credential sharing today.",
+          "description": "Open your agent settings and disable credential sharing. If you haven't done it, start there.",
+          "visual_hint": "settings screen phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone settings",
+          "image": "https://images.pexels.com/photos/28744941/pexels-photo-28744941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-16T22:50:27.486Z",
+      "sourceId": "e1584d5980029d3f60be1d4dc030af59"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "coca-cola-suspended-production-at-its-fairlife-dai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "pubDate": "Thu, 16 Jul 2026 21:22:31 +0000",
+      "slides": [
+        "Did a ransomware attack freeze Coca-Cola's Fairlife supply chain?",
+        "Production at the Fairlife dairy remains fully suspended.",
+        "The attack hit internal systems, not just the bottling line.",
+        "Your grocery store shelves could see Fairlife shortages soon.",
+        "Verify your supplier's cyber defenses before the next disruption."
+      ],
+      "thread_text": [
+        "1. Has ransomware hit Fairlife?\n\nProduction at the Fairlife dairy is fully suspended after the attack locked internal systems.",
+        "2. Not just a bottling glitch.\n\nThe ransomware hit far deeper than the bottling line—internal systems were compromised too.",
+        "3. Grocery shelves next casualty.\n\nExpect shortages on store shelves soon as supply grinds to a halt.",
+        "4. Supplier cyber gaps exposed.\n\nThis attack reveals how one weak link in your supply chain can freeze operations.",
+        "5. Check your supplier’s defenses.\n\nCall your key suppliers today and ask for their last cyber audit. Have you verified their resilience?"
+      ],
+      "video_script": [
+        "A ransomware attack hit Fairlife's supply chain.",
+        "Production is fully suspended at the dairy.",
+        "Internal systems were breached, not just bottling.",
+        "Expect shortages on grocery store shelves soon.",
+        "Verify your suppliers' cyber defenses before the next disruption."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Has ransomware hit Fairlife?\n\nProduction at the Fairlife dairy is fully suspended after the attack locked internal systems.",
+            "2. Not just a bottling glitch.\n\nThe ransomware hit far deeper than the bottling line—internal systems were compromised too.",
+            "3. Grocery shelves next casualty.\n\nExpect shortages on store shelves soon as supply grinds to a halt.",
+            "4. Supplier cyber gaps exposed.\n\nThis attack reveals how one weak link in your supply chain can freeze operations.",
+            "5. Check your supplier’s defenses.\n\nCall your key suppliers today and ask for their last cyber audit. Have you verified their resilience?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A ransomware attack hit Fairlife's supply chain.",
+            "Production is fully suspended at the dairy.",
+            "Internal systems were breached, not just bottling.",
+            "Expect shortages on grocery store shelves soon.",
+            "Verify your suppliers' cyber defenses before the next disruption."
+          ]
+        },
+        "instagram": {
+          "caption": "Ransomware has frozen Coca-Cola's Fairlife dairy—production is fully suspended. 🛑\n\nThe attack locked internal systems far beyond just the bottling line. 🖥️ That means grocery store shelves could see Fairlife shortages soon.\n\nFor anyone sourcing ingredients or supplies: one weak link in your supply chain can grind everything to a halt. 🥛\n\nWhen did you last verify your supplier's cyber defenses—or ask for their last audit?"
+        }
+      },
+      "instagram_caption": "Ransomware has frozen Coca-Cola's Fairlife dairy—production is fully suspended. 🛑\n\nThe attack locked internal systems far beyond just the bottling line. 🖥️ That means grocery store shelves could see Fairlife shortages soon.\n\nFor anyone sourcing ingredients or supplies: one weak link in your supply chain can grind everything to a halt. 🥛\n\nWhen did you last verify your supplier's cyber defenses—or ask for their last audit?",
+      "carousel_slides": [
+        {
+          "hook": "Did ransomware freeze Coca-Cola?",
+          "description": "Production at Fairlife dairy is fully suspended after ransomware locked internal systems.",
+          "visual_hint": "frozen production line",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory production line"
+        },
+        {
+          "hook": "Not just a bottling glitch.",
+          "description": "The ransomware hit deeper than the bottling line—internal systems were compromised too.",
+          "visual_hint": "server warning lights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room warning",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Grocery shelves next casualty.",
+          "description": "Expect shortages on store shelves soon as Fairlife supply grinds to a halt.",
+          "visual_hint": "empty dairy shelf",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty store shelf",
+          "image": "https://images.pexels.com/photos/7451968/pexels-photo-7451968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One weak link freezes everything.",
+          "description": "This attack reveals how a single cyber gap in your supply chain can halt operations.",
+          "visual_hint": "broken supply chain",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "broken conveyor belt",
+          "image": "https://images.pexels.com/photos/10039991/pexels-photo-10039991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this supplier checklist.",
+          "description": "Call your key suppliers today and ask for their last cyber audit.",
+          "visual_hint": "cyber audit report",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "cybersecurity report",
+          "image": "https://images.pexels.com/photos/8512441/pexels-photo-8512441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/fairlife-2249286685.jpg?resize=1200,800",
+      "savedAt": "2026-07-16T22:50:15.612Z",
+      "sourceId": "dc94beffecdbabf0256d1612b0060559"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sheryl-sandberg-leads-10-million-investment-in-ai-",
       "prompt_version": "1.0.0",
       "status": "published",

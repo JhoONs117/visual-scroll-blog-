@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-agent-security-gap-54-of-enterprises-have-alre",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+  "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+  "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
+  "slides": [
+    "Your agent just leaked credentials—can you trace it?",
+    "54% of firms already had an AI agent security incident.",
+    "Most companies still let agents share credentials freely.",
+    "Now every agent action must be logged and verified.",
+    "Revoke agent credential sharing permissions today."
+  ],
+  "thread_text": [
+    "1. Your agent just leaked credentials\n\n54% of firms already had an AI agent security incident. Most still let agents share credentials freely.",
+    "2. No more blind trust\n\nNow every agent action must be logged and verified. One misstep and you'll see the full trail.",
+    "3. The credential sharing loophole\n\nAgents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+    "4. Traceability is the only shield\n\nWithout logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+    "5. Revoke agent credential sharing today\n\nOpen your agent settings and disable credential sharing. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Your AI agent just leaked credentials.",
+    "Over half of firms have had incidents.",
+    "Most still let agents share passwords.",
+    "Now every action must be logged.",
+    "Revoke credential sharing permissions today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your agent just leaked credentials\n\n54% of firms already had an AI agent security incident. Most still let agents share credentials freely.",
+        "2. No more blind trust\n\nNow every agent action must be logged and verified. One misstep and you'll see the full trail.",
+        "3. The credential sharing loophole\n\nAgents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+        "4. Traceability is the only shield\n\nWithout logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+        "5. Revoke agent credential sharing today\n\nOpen your agent settings and disable credential sharing. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI agent just leaked credentials.",
+        "Over half of firms have had incidents.",
+        "Most still let agents share passwords.",
+        "Now every action must be logged.",
+        "Revoke credential sharing permissions today."
+      ]
+    },
+    "instagram": {
+      "caption": "54% of enterprises have already had an AI agent security incident, but most still let agents share credentials freely. 🔑\n\nYour agent just leaked a password — and you have no way to trace which one did it. Without logging, every action is invisible until the breach hits. 🚫\n\nFor anyone deploying AI agents at work: a single credential-sharing permission can undo your entire security setup. 🛡️\n\nCheck your agent settings right now — is credential sharing still enabled? 🔍"
+    }
+  },
+  "instagram_caption": "54% of enterprises have already had an AI agent security incident, but most still let agents share credentials freely. 🔑\n\nYour agent just leaked a password — and you have no way to trace which one did it. Without logging, every action is invisible until the breach hits. 🚫\n\nFor anyone deploying AI agents at work: a single credential-sharing permission can undo your entire security setup. 🛡️\n\nCheck your agent settings right now — is credential sharing still enabled? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your agent just leaked credentials.",
+      "description": "54% of firms already had an AI agent incident. Most still let agents share credentials freely.",
+      "visual_hint": "server room red alert",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "No more blind trust.",
+      "description": "Now every agent action must be logged and verified. One misstep and you'll see the full trail.",
+      "visual_hint": "keyboard close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "keyboard typing",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The credential sharing loophole.",
+      "description": "Agents routinely pass passwords without oversight. That's how breaches happen under your nose.",
+      "visual_hint": "digital lock broken",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Traceability is the only shield.",
+      "description": "Without logging, you can't know which agent caused the leak. Isolation becomes impossible.",
+      "visual_hint": "network cables tangled",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revoke agent credential sharing today.",
+      "description": "Open your agent settings and disable credential sharing. If you haven't done it, start there.",
+      "visual_hint": "settings screen phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone settings",
+      "image": "https://images.pexels.com/photos/28744941/pexels-photo-28744941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-16T22:50:27.486Z",
+  "sourceId": "e1584d5980029d3f60be1d4dc030af59"
+}
