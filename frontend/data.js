@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-vids-now-lets-you-star-in-your-own-ai-video",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+    "slides": [
+      "Google Vids lets you insert yourself into AI clips. Why?",
+      "It uses a single selfie to map your face onto scenes.",
+      "But your expressions stay frozen while the background moves.",
+      "You can now narrate a presentation with your avatar instantly.",
+      "Test it today: see if your team spots the uncanny part."
+    ],
+    "thread_text": [
+      "1. Your face, their puppet\n\nGoogle Vids only needs one selfie to transfer your likeness into a video scene. No movement required from you.",
+      "2. The frozen smile problem\n\nYour expressions remain locked the entire time while the background scenery shifts around you. It's a face, not a performance.",
+      "3. The instant narrator trick\n\nYou can generate a full presentation avatar in seconds. No recording studio, no retakes, just a single photo.",
+      "4. The uncanny gap\n\nYour team will likely notice something off. The mismatch between a still face and moving background creates an eerie effect.",
+      "5. Spot the flaw this week\n\nTest it on one internal video today. Ask three colleagues to watch — does anyone notice the frozen face before you point it out?"
+    ],
+    "video_script": [
+      "One selfie is all they need.",
+      "Your face stays frozen forever.",
+      "Background moves, you don't.",
+      "Instant narrator from one photo.",
+      "Can your team spot the glitch?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your face, their puppet\n\nGoogle Vids only needs one selfie to transfer your likeness into a video scene. No movement required from you.",
+          "2. The frozen smile problem\n\nYour expressions remain locked the entire time while the background scenery shifts around you. It's a face, not a performance.",
+          "3. The instant narrator trick\n\nYou can generate a full presentation avatar in seconds. No recording studio, no retakes, just a single photo.",
+          "4. The uncanny gap\n\nYour team will likely notice something off. The mismatch between a still face and moving background creates an eerie effect.",
+          "5. Spot the flaw this week\n\nTest it on one internal video today. Ask three colleagues to watch — does anyone notice the frozen face before you point it out?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One selfie is all they need.",
+          "Your face stays frozen forever.",
+          "Background moves, you don't.",
+          "Instant narrator from one photo.",
+          "Can your team spot the glitch?"
+        ]
+      },
+      "instagram": {
+        "caption": "One selfie of your face is all Google Vids needs to drop you into any AI-generated video scene.\n\nYou don’t film or move. Your expressions freeze solid while the background shifts around you. It creates an avatar for presentations in seconds, no recording studio needed.\n\nAnyone who records training videos or internal updates can now skip the camera entirely.\n\nWould your team spot the frozen face before you point it out? 🧊👀"
+      }
+    },
+    "instagram_caption": "One selfie of your face is all Google Vids needs to drop you into any AI-generated video scene.\n\nYou don’t film or move. Your expressions freeze solid while the background shifts around you. It creates an avatar for presentations in seconds, no recording studio needed.\n\nAnyone who records training videos or internal updates can now skip the camera entirely.\n\nWould your team spot the frozen face before you point it out? 🧊👀",
+    "carousel_slides": [
+      {
+        "hook": "Your face, their puppet.",
+        "description": "Google Vids transfers your likeness from one selfie into any video scene—no movement required.",
+        "visual_hint": "Selfie mapped onto scene",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "face mapping technology"
+      },
+      {
+        "hook": "Why is your smile stuck?",
+        "description": "Your expressions stay frozen while the background moves around you—a face, not a performance.",
+        "visual_hint": "Frozen face, moving background",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "frozen portrait animation",
+        "image": "https://images.pexels.com/photos/14800096/pexels-photo-14800096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Narrate instantly from one photo.",
+        "description": "Generate a full presentation avatar in seconds. No studio, no retakes—just a single photo.",
+        "visual_hint": "Photo turning into avatar",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI avatar presentation",
+        "image": "https://images.pexels.com/photos/37911158/pexels-photo-37911158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your team will feel the uncanny gap.",
+        "description": "The mismatch between a still face and moving scenery creates an eerie effect everyone notices.",
+        "visual_hint": "Eerie face contrast",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "uncanny valley face",
+        "image": "https://images.pexels.com/photos/16342022/pexels-photo-16342022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it. Does anyone spot the flaw?",
+        "description": "Make one internal video this week. Ask three colleagues to watch and see if they notice.",
+        "visual_hint": "Person watching video closely",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office video meeting",
+        "image": "https://images.pexels.com/photos/9849940/pexels-photo-9849940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8090147/pexels-photo-8090147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-17T01:53:10.665Z",
+    "sourceId": "c27a3acd5bed64de18f969e219f14ef4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-agent-security-gap-54-of-enterprises-have-alre",
     "prompt_version": "1.0.0",
     "status": "published",
