@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "patreon-stops-asking-ai-bots-not-to-scrape-and-sta",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
+    "slides": [
+      "Patreon let AI bots roam free—until creators started losing income.",
+      "Now every request for their data gets an immediate block.",
+      "But bots already copied months of exclusive content before the change.",
+      "Creators can now secure their paywalled posts from AI training.",
+      "Check your Patreon settings: retroactive protection is not automatic."
+    ],
+    "thread_text": [
+      "They stole your paywalled posts.\n\nPatreon let AI crawlers access creator-only content for months before anyone noticed. Your exclusive posts were already copied.",
+      "The switch flipped too late.\n\nOnly after creators saw income drop did Patreon block data requests. By then, bots had archived everything behind your paywall.",
+      "Protection is opt-in, not default.\n\nYou must manually enable retroactive blocking in your settings. Past posts remain exposed if you don't act.",
+      "No warning, no compensation.\n\nPatreon never notified creators about the crawling. No tool to recover what was already scraped.",
+      "Check your privacy settings now.\n\nIs retroactive protection toggled on? If not, your old paywalled posts are still accessible to AI."
+    ],
+    "video_script": [
+      "Patreon let AI bots scrape your paywalled posts.",
+      "Creators lost income before the block kicked in.",
+      "Bots already copied months of exclusive content.",
+      "Now you must manually protect old posts.",
+      "Check your settings today or lose control."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "They stole your paywalled posts.\n\nPatreon let AI crawlers access creator-only content for months before anyone noticed. Your exclusive posts were already copied.",
+          "The switch flipped too late.\n\nOnly after creators saw income drop did Patreon block data requests. By then, bots had archived everything behind your paywall.",
+          "Protection is opt-in, not default.\n\nYou must manually enable retroactive blocking in your settings. Past posts remain exposed if you don't act.",
+          "No warning, no compensation.\n\nPatreon never notified creators about the crawling. No tool to recover what was already scraped.",
+          "Check your privacy settings now.\n\nIs retroactive protection toggled on? If not, your old paywalled posts are still accessible to AI."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Patreon let AI bots scrape your paywalled posts.",
+          "Creators lost income before the block kicked in.",
+          "Bots already copied months of exclusive content.",
+          "Now you must manually protect old posts.",
+          "Check your settings today or lose control."
+        ]
+      },
+      "instagram": {
+        "caption": "Months of your Patreon-paywalled content have already been fed to AI models—without your permission. 🧑‍🎨\n\nPatreon quietly allowed AI crawlers to scrape creator-only posts until creators noticed income drops. Only then did they start blocking requests. The protection you thought existed didn’t.\n\nThis isn’t a future warning—your past paywalled posts are still accessible unless you act now. 🔒\n\nIs “retroactive protection” turned on in your Patreon privacy settings? Go check it—your old exclusive work may still be exposed."
+      }
+    },
+    "instagram_caption": "Months of your Patreon-paywalled content have already been fed to AI models—without your permission. 🧑‍🎨\n\nPatreon quietly allowed AI crawlers to scrape creator-only posts until creators noticed income drops. Only then did they start blocking requests. The protection you thought existed didn’t.\n\nThis isn’t a future warning—your past paywalled posts are still accessible unless you act now. 🔒\n\nIs “retroactive protection” turned on in your Patreon privacy settings? Go check it—your old exclusive work may still be exposed.",
+    "carousel_slides": [
+      {
+        "hook": "Your paywalled posts were stolen.",
+        "description": "Patreon allowed AI crawlers to access exclusive content for months, copying everything behind your paywall.",
+        "visual_hint": "closed lock with keyhole",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "locked gate"
+      },
+      {
+        "hook": "They blocked bots too late.",
+        "description": "Only after creators saw income drop did Patreon block data requests, but bots had already archived months of content.",
+        "visual_hint": "server rack with cables",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Protection is not automatic.",
+        "description": "Retroactive blocking must be manually enabled in settings — past posts remain exposed if you don't act.",
+        "visual_hint": "hand tapping a toggle",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No warning, no compensation.",
+        "description": "Patreon never notified creators about the crawling and offers no tool to recover already scraped data.",
+        "visual_hint": "person shrugging with empty hands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "empty stage",
+        "image": "https://images.pexels.com/photos/6068322/pexels-photo-6068322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your settings now to protect income.",
+        "description": "Go to your Patreon privacy settings and toggle on retroactive blocking to secure old paywalled posts.",
+        "visual_hint": "settings gear icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "gear mechanism",
+        "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-17T20:44:10.935Z",
+    "sourceId": "a90acdd50b34149685fea53d473a8353"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-driven-memory-crunch-jolts-india-s-smartphone-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
+    "slides": [
+      "India's smartphone boom just hit a hidden wall.",
+      "AI apps now need 8GB RAM for basic tasks.",
+      "Most budget phones still ship with 4GB or less.",
+      "Your next upgrade may not run the apps you need.",
+      "Check RAM specs before buying any phone today."
+    ],
+    "thread_text": [
+      "1. Your phone is already obsolete.\n\nAI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+      "2. The spec you ignored.\n\nThat 4GB phone you bought last year? It’s already locked out of the next generation of apps.",
+      "3. India’s silent barrier.\n\nSmartphone sales are booming. But AI requirements just turned millions of devices into paperweights.",
+      "4. The upgrade trap.\n\nYour next phone might not run the apps you need. Check the RAM before you buy.",
+      "5. Check your RAM today.\n\nOpen your settings and look. Is it under 8GB? Your next app update may not install."
+    ],
+    "video_script": [
+      "Your phone might already be obsolete.",
+      "AI apps now need 8GB RAM minimum.",
+      "Most budget phones ship with 4GB.",
+      "Your next upgrade may not run them.",
+      "Check your RAM specs before buying."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your phone is already obsolete.\n\nAI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+          "2. The spec you ignored.\n\nThat 4GB phone you bought last year? It’s already locked out of the next generation of apps.",
+          "3. India’s silent barrier.\n\nSmartphone sales are booming. But AI requirements just turned millions of devices into paperweights.",
+          "4. The upgrade trap.\n\nYour next phone might not run the apps you need. Check the RAM before you buy.",
+          "5. Check your RAM today.\n\nOpen your settings and look. Is it under 8GB? Your next app update may not install."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your phone might already be obsolete.",
+          "AI apps now need 8GB RAM minimum.",
+          "Most budget phones ship with 4GB.",
+          "Your next upgrade may not run them.",
+          "Check your RAM specs before buying."
+        ]
+      },
+      "instagram": {
+        "caption": "That budget phone you bought last year? It’s already locked out of the next generation of apps.\n\nAI apps now need 8GB of RAM just to run basic tasks. Most phones in India still ship with 4GB or less 📉.\n\nThe phone you’re eyeing for your next upgrade might not run the tools you rely on for work or content creation 🛑.\n\nOpen your settings right now and check your RAM. Is it under 8GB? That next app update may not install."
+      }
+    },
+    "instagram_caption": "That budget phone you bought last year? It’s already locked out of the next generation of apps.\n\nAI apps now need 8GB of RAM just to run basic tasks. Most phones in India still ship with 4GB or less 📉.\n\nThe phone you’re eyeing for your next upgrade might not run the tools you rely on for work or content creation 🛑.\n\nOpen your settings right now and check your RAM. Is it under 8GB? That next app update may not install.",
+    "carousel_slides": [
+      {
+        "hook": "Your phone is already obsolete.",
+        "description": "AI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+        "visual_hint": "Outdated phone with warning sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone with warning icon"
+      },
+      {
+        "hook": "The spec you ignored.",
+        "description": "That 4GB phone you bought last year is already locked out of next-gen apps.",
+        "visual_hint": "Phone specs screen highlighted",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "phone settings RAM screen",
+        "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "India’s silent barrier.",
+        "description": "Smartphone sales are booming, but AI requirements just turned millions of devices into paperweights.",
+        "visual_hint": "Pile of phones unused",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stack of old smartphones",
+        "image": "https://images.pexels.com/photos/31233479/pexels-photo-31233479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The upgrade trap.",
+        "description": "Your next phone might not run the apps you need. Check the RAM before you buy.",
+        "visual_hint": "Hand holding phone with crossed out app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your RAM now. Save this.",
+        "description": "Open your settings and look. If under 8GB, your next app update may not install.",
+        "visual_hint": "Settings menu with RAM info",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+    "savedAt": "2026-07-17T20:43:58.089Z",
+    "sourceId": "0184cf98041ba6c75b2f1530e5237c45"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "fbi-arrests-man-accused-of-using-steam-games-to-dr",
     "prompt_version": "1.0.0",
     "status": "published",

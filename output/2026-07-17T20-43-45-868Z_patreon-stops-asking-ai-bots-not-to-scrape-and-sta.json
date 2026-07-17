@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "patreon-stops-asking-ai-bots-not-to-scrape-and-sta",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+  "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+  "pubDate": "Fri, 17 Jul 2026 15:21:17 +0000",
+  "slides": [
+    "Patreon let AI bots roam free—until creators started losing income.",
+    "Now every request for their data gets an immediate block.",
+    "But bots already copied months of exclusive content before the change.",
+    "Creators can now secure their paywalled posts from AI training.",
+    "Check your Patreon settings: retroactive protection is not automatic."
+  ],
+  "thread_text": [
+    "They stole your paywalled posts.\n\nPatreon let AI crawlers access creator-only content for months before anyone noticed. Your exclusive posts were already copied.",
+    "The switch flipped too late.\n\nOnly after creators saw income drop did Patreon block data requests. By then, bots had archived everything behind your paywall.",
+    "Protection is opt-in, not default.\n\nYou must manually enable retroactive blocking in your settings. Past posts remain exposed if you don't act.",
+    "No warning, no compensation.\n\nPatreon never notified creators about the crawling. No tool to recover what was already scraped.",
+    "Check your privacy settings now.\n\nIs retroactive protection toggled on? If not, your old paywalled posts are still accessible to AI."
+  ],
+  "video_script": [
+    "Patreon let AI bots scrape your paywalled posts.",
+    "Creators lost income before the block kicked in.",
+    "Bots already copied months of exclusive content.",
+    "Now you must manually protect old posts.",
+    "Check your settings today or lose control."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "They stole your paywalled posts.\n\nPatreon let AI crawlers access creator-only content for months before anyone noticed. Your exclusive posts were already copied.",
+        "The switch flipped too late.\n\nOnly after creators saw income drop did Patreon block data requests. By then, bots had archived everything behind your paywall.",
+        "Protection is opt-in, not default.\n\nYou must manually enable retroactive blocking in your settings. Past posts remain exposed if you don't act.",
+        "No warning, no compensation.\n\nPatreon never notified creators about the crawling. No tool to recover what was already scraped.",
+        "Check your privacy settings now.\n\nIs retroactive protection toggled on? If not, your old paywalled posts are still accessible to AI."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Patreon let AI bots scrape your paywalled posts.",
+        "Creators lost income before the block kicked in.",
+        "Bots already copied months of exclusive content.",
+        "Now you must manually protect old posts.",
+        "Check your settings today or lose control."
+      ]
+    },
+    "instagram": {
+      "caption": "Months of your Patreon-paywalled content have already been fed to AI models—without your permission. 🧑‍🎨\n\nPatreon quietly allowed AI crawlers to scrape creator-only posts until creators noticed income drops. Only then did they start blocking requests. The protection you thought existed didn’t.\n\nThis isn’t a future warning—your past paywalled posts are still accessible unless you act now. 🔒\n\nIs “retroactive protection” turned on in your Patreon privacy settings? Go check it—your old exclusive work may still be exposed."
+    }
+  },
+  "instagram_caption": "Months of your Patreon-paywalled content have already been fed to AI models—without your permission. 🧑‍🎨\n\nPatreon quietly allowed AI crawlers to scrape creator-only posts until creators noticed income drops. Only then did they start blocking requests. The protection you thought existed didn’t.\n\nThis isn’t a future warning—your past paywalled posts are still accessible unless you act now. 🔒\n\nIs “retroactive protection” turned on in your Patreon privacy settings? Go check it—your old exclusive work may still be exposed.",
+  "carousel_slides": [
+    {
+      "hook": "Your paywalled posts were stolen.",
+      "description": "Patreon allowed AI crawlers to access exclusive content for months, copying everything behind your paywall.",
+      "visual_hint": "closed lock with keyhole",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "locked gate"
+    },
+    {
+      "hook": "They blocked bots too late.",
+      "description": "Only after creators saw income drop did Patreon block data requests, but bots had already archived months of content.",
+      "visual_hint": "server rack with cables",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Protection is not automatic.",
+      "description": "Retroactive blocking must be manually enabled in settings — past posts remain exposed if you don't act.",
+      "visual_hint": "hand tapping a toggle",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No warning, no compensation.",
+      "description": "Patreon never notified creators about the crawling and offers no tool to recover already scraped data.",
+      "visual_hint": "person shrugging with empty hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty stage",
+      "image": "https://images.pexels.com/photos/6068322/pexels-photo-6068322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your settings now to protect income.",
+      "description": "Go to your Patreon privacy settings and toggle on retroactive blocking to secure old paywalled posts.",
+      "visual_hint": "settings gear icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "gear mechanism",
+      "image": "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-17T20:44:10.935Z",
+  "sourceId": "a90acdd50b34149685fea53d473a8353"
+}

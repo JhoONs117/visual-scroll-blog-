@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-driven-memory-crunch-jolts-india-s-smartphone-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI-driven memory crunch jolts India’s smartphone market",
+  "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+  "pubDate": "Fri, 17 Jul 2026 20:09:27 +0000",
+  "slides": [
+    "India's smartphone boom just hit a hidden wall.",
+    "AI apps now need 8GB RAM for basic tasks.",
+    "Most budget phones still ship with 4GB or less.",
+    "Your next upgrade may not run the apps you need.",
+    "Check RAM specs before buying any phone today."
+  ],
+  "thread_text": [
+    "1. Your phone is already obsolete.\n\nAI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+    "2. The spec you ignored.\n\nThat 4GB phone you bought last year? It’s already locked out of the next generation of apps.",
+    "3. India’s silent barrier.\n\nSmartphone sales are booming. But AI requirements just turned millions of devices into paperweights.",
+    "4. The upgrade trap.\n\nYour next phone might not run the apps you need. Check the RAM before you buy.",
+    "5. Check your RAM today.\n\nOpen your settings and look. Is it under 8GB? Your next app update may not install."
+  ],
+  "video_script": [
+    "Your phone might already be obsolete.",
+    "AI apps now need 8GB RAM minimum.",
+    "Most budget phones ship with 4GB.",
+    "Your next upgrade may not run them.",
+    "Check your RAM specs before buying."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your phone is already obsolete.\n\nAI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+        "2. The spec you ignored.\n\nThat 4GB phone you bought last year? It’s already locked out of the next generation of apps.",
+        "3. India’s silent barrier.\n\nSmartphone sales are booming. But AI requirements just turned millions of devices into paperweights.",
+        "4. The upgrade trap.\n\nYour next phone might not run the apps you need. Check the RAM before you buy.",
+        "5. Check your RAM today.\n\nOpen your settings and look. Is it under 8GB? Your next app update may not install."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your phone might already be obsolete.",
+        "AI apps now need 8GB RAM minimum.",
+        "Most budget phones ship with 4GB.",
+        "Your next upgrade may not run them.",
+        "Check your RAM specs before buying."
+      ]
+    },
+    "instagram": {
+      "caption": "That budget phone you bought last year? It’s already locked out of the next generation of apps.\n\nAI apps now need 8GB of RAM just to run basic tasks. Most phones in India still ship with 4GB or less 📉.\n\nThe phone you’re eyeing for your next upgrade might not run the tools you rely on for work or content creation 🛑.\n\nOpen your settings right now and check your RAM. Is it under 8GB? That next app update may not install."
+    }
+  },
+  "instagram_caption": "That budget phone you bought last year? It’s already locked out of the next generation of apps.\n\nAI apps now need 8GB of RAM just to run basic tasks. Most phones in India still ship with 4GB or less 📉.\n\nThe phone you’re eyeing for your next upgrade might not run the tools you rely on for work or content creation 🛑.\n\nOpen your settings right now and check your RAM. Is it under 8GB? That next app update may not install.",
+  "carousel_slides": [
+    {
+      "hook": "Your phone is already obsolete.",
+      "description": "AI apps now demand 8GB RAM for basic tasks. Most budget phones ship with 4GB or less.",
+      "visual_hint": "Outdated phone with warning sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone with warning icon"
+    },
+    {
+      "hook": "The spec you ignored.",
+      "description": "That 4GB phone you bought last year is already locked out of next-gen apps.",
+      "visual_hint": "Phone specs screen highlighted",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "phone settings RAM screen",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "India’s silent barrier.",
+      "description": "Smartphone sales are booming, but AI requirements just turned millions of devices into paperweights.",
+      "visual_hint": "Pile of phones unused",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stack of old smartphones",
+      "image": "https://images.pexels.com/photos/31233479/pexels-photo-31233479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The upgrade trap.",
+      "description": "Your next phone might not run the apps you need. Check the RAM before you buy.",
+      "visual_hint": "Hand holding phone with crossed out app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your RAM now. Save this.",
+      "description": "Open your settings and look. If under 8GB, your next app update may not install.",
+      "visual_hint": "Settings menu with RAM info",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+  "savedAt": "2026-07-17T20:43:58.089Z",
+  "sourceId": "0184cf98041ba6c75b2f1530e5237c45"
+}

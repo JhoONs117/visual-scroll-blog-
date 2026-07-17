@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-5-minuti-al-limone",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta 5 minuti al limone",
+    "link": "https://ricette.giallozafferano.it/Torta-5-minuti-al-limone.html",
+    "pubDate": "Fri, 17 Jul 2026 16:19:00 +0200",
+    "content": "Torta 5 minuti al limone: ricetta soffice e veloce da preparare Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti al limone /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 45 min Dosi per: 8 persone Costo: Basso PRESENTAZIONE La torta 5 minuti al limone è una torta fatta in casa facile e veloce, realizzata con pochi ingredienti. Un dolce soffice e profumato, perfetto per la colazione, la merenda o da servire a fine pasto accompagnandolo con panna o crema. In questa ricetta abbiamo utilizzato una bevanda vegetale all'avena per ottenere una torta senza lattosio, ma potrete utilizzare allo stesso modo anche il latte vaccino. Grazie alla preparazione veloce e agli ingredienti semplici, questa ricetta è perfetta anche per chi ha poco tempo a disposizione. Vi serviranno soltanto 5 minuti per preparare l'impasto e poi lasciare fare il resto al forno, ottenendo una torta soffice e profumata, dal gusto di limone. Ecco altre idee per preparare la torta 5 minuti : Torta 5 minuti cocco e mirtilli Torta 5 minuti alle fragole Torta 5 minuti alla ricotta Torta 5 minuti salata 5-Minute Lemon Cake INGREDIENTI per uno stampo da 22 cm Farina 00 200 g Uova (3 medie) 165 g Olio di semi di girasole 100 g Zucchero 150 g Latte di avena 150 g Fecola di patate 80 g Lievito in polvere per dolci 16 g Scorza di limone 1 Succo di limone 50 g Sale fino q.b. per decorare Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti al limone Per preparare la torta 5 minuti al limone come prima cosa lavate accuratamente il limone e grattugiatene la scorza, facendo attenzione a prelevare solo la parte gialla. Spremetelo con uno spremiagrumi, filtrate il succo per eliminare eventuali semi e tenetelo da parte 1 . Rompete le uova in una ciotola capiente, aggiungete lo zucchero semolato 2 e un pizzico di sale 3 , quindi mescolate con una frusta a mano fino a ottenere un composto omogeneo. Versate il latte di avena 4 , l'olio di semi 5 e il succo di limone filtrato 6 , continuando a mescolare fino a incorporare perfettamente tutti gli ingredienti liquidi. Unite la farina 7 , la fecola di patate 8 e il lievito per dolci 9 , preferibilmente setacciati. Aggiungete in ultimo anche la scorza grattugiata del limone 10 . Mescolate con la frusta fino a ottenere un impasto liscio, uniforme e senza grumi 11 . Foderate una tortiera da 22 cm di diametro con carta forno e versatevi il composto 12 . Cuocete in forno statico già caldo a 180°C, nel ripiano centrale, per 45 minuti. Prima di sfornare, verificate la cottura effettuando la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo 13 per alcuni minuti, quindi trasferitela su una gratella fino a completo raffreddamento. Prima di servirla, completate con una leggera spolverata di zucchero a velo 14 e servite 15 . Conservazione La torta 5 minuti al limone si conserva a temperatura ambiente, sotto una campana di vetro o chiusa in un contenitore ermetico, per 2-3 giorni. Potete anche congelarla, preferibilmente già tagliata a fette, così da scongelare solo la quantità necessaria. Consiglio Se preferite, potete sostituire il latte di avena con la stessa quantità di latte vaccino, di riso oppure di soia, senza modificare il procedimento. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Limone Fecola di patate Uovo Scopri tutto sugli ingredienti Presente in: Dolci veloci , Torte semplici , Ricette veloci , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Cheesecake alle fragole senza gelatina 5.0 Torta 5 minuti al limone 5.0 Spumone al limone 5.0 SCOPRI Torta cinque minuti Torta con crema al limone Torta al limone senza burro Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice e profumata al limone in 5 minuti.",
+      "Farina, uova, olio, zucchero, latte di avena.",
+      "Mescola uova e zucchero, unisci liquidi e secchi.",
+      "Cuoci in forno statico a 180°C per 45 minuti.",
+      "Spolvera con zucchero a velo prima di servire."
+    ],
+    "instagram_caption": "La colazione profuma di sole con questa torta 5 minuti al limone 🍋✨ Sofficissima e pronta in un lampo, con pochi ingredienti semplici: farina, uova, olio, zucchero e latte d’avena per renderla ancora più leggera. L’impasto si prepara in pochissimo tempo, poi inforna e lascia che il profumo invada la cucina per 45 minuti. Una spolverata di zucchero a velo e il gioco è fatto: è il dolce perfetto per coccolarti ogni mattina. Provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "La colazione profuma di sole con questa torta 5 minuti al limone 🍋✨ Sofficissima e pronta in un lampo, con pochi ingredienti semplici: farina, uova, olio, zucchero e latte d’avena per renderla ancora più leggera. L’impasto si prepara in pochissimo tempo, poi inforna e lascia che il profumo invada la cucina per 45 minuti. Una spolverata di zucchero a velo e il gioco è fatto: è il dolce perfetto per coccolarti ogni mattina. Provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Torta al limone pronta in 5 minuti.",
+          "Farina, uova, olio, zucchero, latte di avena.",
+          "Mescolo uova e zucchero, poi unisco i liquidi e secchi.",
+          "In forno a 180 gradi per 45 minuti.",
+          "Spolvero con zucchero a velo e servo."
+        ]
+      },
+      "x": {
+        "thread": [
+          "5 minuti di preparazione, 45 di cottura, 0 rimpianti. Questa torta al limone mi ha salvato la colazione di domenica.",
+          "Ti serve solo: 200g farina, 3 uova, 80ml olio, 150g zucchero, 100ml latte d’avena. Il profumo del limone è obbligatorio.",
+          "Monta uova e zucchero fino a farli diventare una nuvola. Aggiungi olio e latte, poi la farina setacciata. Niente fruste elettriche? Forza bráccia.",
+          "Impasto liscio dentro una teglia imburrata. Forno statico 180°C per 45 minuti: la tua cucina diventerà una limonaia siciliana.",
+          "Spolvera con zucchero a velo mentre è ancora tiepida. Fidati, la crosticina leggera fuori e il cuore morbido dentro sono l'abbraccio che cercavi. Provala e fammi sapere 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Torta al limone pronta in 5 minuti.",
+      "Farina, uova, olio, zucchero, latte di avena.",
+      "Mescolo uova e zucchero, poi unisco i liquidi e secchi.",
+      "In forno a 180 gradi per 45 minuti.",
+      "Spolvero con zucchero a velo e servo."
+    ],
+    "thread_text": [
+      "5 minuti di preparazione, 45 di cottura, 0 rimpianti. Questa torta al limone mi ha salvato la colazione di domenica.",
+      "Ti serve solo: 200g farina, 3 uova, 80ml olio, 150g zucchero, 100ml latte d’avena. Il profumo del limone è obbligatorio.",
+      "Monta uova e zucchero fino a farli diventare una nuvola. Aggiungi olio e latte, poi la farina setacciata. Niente fruste elettriche? Forza bráccia.",
+      "Impasto liscio dentro una teglia imburrata. Forno statico 180°C per 45 minuti: la tua cucina diventerà una limonaia siciliana.",
+      "Spolvera con zucchero a velo mentre è ancora tiepida. Fidati, la crosticina leggera fuori e il cuore morbido dentro sono l'abbraccio che cercavi. Provala e fammi sapere 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta al limone in 5 minuti",
+        "description": "Una torta soffice e profumata al limone, pronta in un lampo. Perfetta per colazione o merenda.",
+        "visual_hint": "torta intera su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "lemon cake whole"
+      },
+      {
+        "hook": "Ingredienti semplici e genuini",
+        "description": "Farina, uova, olio, zucchero, latte di avena e limoni freschi. Pochi ingredienti per un dolce leggero.",
+        "visual_hint": "ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "lemon cake ingredients",
+        "image": "https://images.pexels.com/photos/15781502/pexels-photo-15781502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola uova e zucchero",
+        "description": "Sbatti uova e zucchero fino a ottenere un composto spumoso, poi unisci olio, latte e farina setacciata.",
+        "visual_hint": "ciotola e frusta a mano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mixing bowl lemon",
+        "image": "https://images.pexels.com/photos/7966009/pexels-photo-7966009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci in forno statico",
+        "description": "Versa l'impasto in una teglia unta e cuoci a 180°C per 45 minuti. L'odore invaderà la casa.",
+        "visual_hint": "teglia nel forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking lemon cake",
+        "image": "https://images.pexels.com/photos/7966401/pexels-photo-7966401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spolvera e servi con stile",
+        "description": "Lascia intiepidire, spolvera con zucchero a velo e servi a fette. Un dolce che conquista tutti.",
+        "visual_hint": "fetta di torta impiattata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "lemon cake slice",
+        "image": "https://images.pexels.com/photos/20009396/pexels-photo-20009396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "limoni",
+      "farina",
+      "zucchero"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36462/Torta-5-minuti-al-limone_650x433_wm.jpg",
+    "savedAt": "2026-07-17T20:52:50.061Z",
+    "sourceId": "5845fe657dc78fcef6f68679fb0b65ad"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-polpo-e-melone",
     "prompt_version": "1.0.0",
     "status": "published",
