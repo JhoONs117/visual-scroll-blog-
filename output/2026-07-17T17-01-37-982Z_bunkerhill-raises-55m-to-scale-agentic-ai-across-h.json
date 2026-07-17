@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bunkerhill-raises-55m-to-scale-agentic-ai-across-h",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+  "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+  "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
+  "slides": [
+    "Bunkerhill raised $55M — but for what exactly?",
+    "It builds AI agents that act like hospital staff.",
+    "These agents don't just chat — they execute tasks.",
+    "Health systems can now automate clinical workflows.",
+    "Run one pilot in revenue cycle today."
+  ],
+  "thread_text": [
+    "1. $55M for what?\n\nBunkerhill just raised a $55M round. The product is AI agents that don't just talk — they execute hospital tasks.",
+    "2. These agents work like staff.\n\nThe agents simulate roles: nurses, administrators, coders. They don't assist — they replace workflow steps entirely.",
+    "3. Not chat — execution.\n\nEach agent can log into systems, update records, generate bills. No human click needed after the trigger.",
+    "4. Health systems automate now.\n\nClinical workflows like prior auth or discharge summaries run end‑to‑end without a person touching the interface.",
+    "5. Test revenue cycle this week.\n\nPick one revenue cycle pain point. Ask your IT team to run a Bunkerhill pilot. What's stopping you?"
+  ],
+  "video_script": [
+    "Bunkerhill raised $55 million.",
+    "They build AI hospital staff agents.",
+    "These agents execute real tasks.",
+    "Automate clinical workflows now.",
+    "Pilot revenue cycle this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $55M for what?\n\nBunkerhill just raised a $55M round. The product is AI agents that don't just talk — they execute hospital tasks.",
+        "2. These agents work like staff.\n\nThe agents simulate roles: nurses, administrators, coders. They don't assist — they replace workflow steps entirely.",
+        "3. Not chat — execution.\n\nEach agent can log into systems, update records, generate bills. No human click needed after the trigger.",
+        "4. Health systems automate now.\n\nClinical workflows like prior auth or discharge summaries run end‑to‑end without a person touching the interface.",
+        "5. Test revenue cycle this week.\n\nPick one revenue cycle pain point. Ask your IT team to run a Bunkerhill pilot. What's stopping you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bunkerhill raised $55 million.",
+        "They build AI hospital staff agents.",
+        "These agents execute real tasks.",
+        "Automate clinical workflows now.",
+        "Pilot revenue cycle this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Hospital staff now have AI agents that log into systems, update records, and generate bills — no human clicks needed after the trigger.\n\nBunkerhill just raised $55M to scale these agents across health systems. They don’t just chat—they execute clinical workflows like prior authorizations and discharge summaries end-to-end 🏥🤖\n\nFor anyone working in healthcare revenue cycle: one pain point could run on autopilot this week.\n\nWhat’s stopping your IT team from launching a pilot?"
+    }
+  },
+  "instagram_caption": "Hospital staff now have AI agents that log into systems, update records, and generate bills — no human clicks needed after the trigger.\n\nBunkerhill just raised $55M to scale these agents across health systems. They don’t just chat—they execute clinical workflows like prior authorizations and discharge summaries end-to-end 🏥🤖\n\nFor anyone working in healthcare revenue cycle: one pain point could run on autopilot this week.\n\nWhat’s stopping your IT team from launching a pilot?",
+  "carousel_slides": [
+    {
+      "hook": "What if AI replaced hospital staff?",
+      "description": "Bunkerhill raised $55M to build AI agents that execute hospital tasks, not just chat.",
+      "visual_hint": "Hospital hallway with robots",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hospital corridor technology"
+    },
+    {
+      "hook": "These agents simulate real roles.",
+      "description": "They act like nurses, coders, administrators—replacing workflow steps entirely.",
+      "visual_hint": "Nurse and computer screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hospital nurse computer",
+      "image": "https://images.pexels.com/photos/7195110/pexels-photo-7195110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No chat—full task execution.",
+      "description": "Agents log into systems, update records, generate bills—no human clicks needed.",
+      "visual_hint": "Hand clicking mouse close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer mouse hand",
+      "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Health systems automate workflows.",
+      "description": "Prior auth or discharge summaries run end-to-end without anyone touching the interface.",
+      "visual_hint": "Doctor reviewing digital chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor tablet screen",
+      "image": "https://images.pexels.com/photos/5452298/pexels-photo-5452298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test revenue cycle this week.",
+      "description": "Pick one revenue cycle pain point and ask IT to run a pilot—link in bio.",
+      "visual_hint": "Revenue cycle dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "financial dashboard chart",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/27015942/pexels-photo-27015942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-17T17:01:52.463Z",
+  "sourceId": "2bbdfc683665fa6d0787923f400d1c59"
+}

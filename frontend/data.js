@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "fbi-arrests-man-accused-of-using-steam-games-to-dr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+    "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+    "pubDate": "Fri, 17 Jul 2026 16:18:09 +0000",
+    "slides": [
+      "How did Steam games empty crypto wallets?",
+      "The FBI just arrested a suspect in Florida.",
+      "He hid malware inside seemingly legitimate game downloads.",
+      "Your Steam library might not be safe anymore.",
+      "Check all recent game downloads for suspicious activity."
+    ],
+    "thread_text": [
+      "1. Your Steam library is a trap\n\nA Florida man was arrested after hiding crypto-draining malware in games you download for free.",
+      "2. The FBI stepped in\n\nThe suspect allegedly infected pirated game files with malware that emptied connected crypto wallets.",
+      "3. How the scam worked\n\nVictims thought they were installing a legitimate game. Instead, the malware stole wallet keys in the background.",
+      "4. The real target\n\nSteam itself wasn't hacked. The attacker uploaded fake games to bypass security and infect your machine.",
+      "5. Check your downloads now\n\nOpen your Steam library, review every game you added in the last month. Found something odd? Delete it immediately."
+    ],
+    "video_script": [
+      "Crypto wallets emptied through Steam games.",
+      "FBI arrested a suspect in Florida.",
+      "He hid malware in fake game downloads.",
+      "Your Steam library may be infected.",
+      "Check recent downloads for suspicious activity."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Steam library is a trap\n\nA Florida man was arrested after hiding crypto-draining malware in games you download for free.",
+          "2. The FBI stepped in\n\nThe suspect allegedly infected pirated game files with malware that emptied connected crypto wallets.",
+          "3. How the scam worked\n\nVictims thought they were installing a legitimate game. Instead, the malware stole wallet keys in the background.",
+          "4. The real target\n\nSteam itself wasn't hacked. The attacker uploaded fake games to bypass security and infect your machine.",
+          "5. Check your downloads now\n\nOpen your Steam library, review every game you added in the last month. Found something odd? Delete it immediately."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Crypto wallets emptied through Steam games.",
+          "FBI arrested a suspect in Florida.",
+          "He hid malware in fake game downloads.",
+          "Your Steam library may be infected.",
+          "Check recent downloads for suspicious activity."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Steam library might have just become a hacker's backdoor 🚨\n\nThe FBI arrested a Florida man who hid malware inside seemingly free Steam games. When you installed the game, the code silently swiped the keys to your connected crypto wallets and drained them.\n\nThis isn't a hack of Steam itself. The suspect uploaded the infected games to bypass security, targeting your machine directly.\n\nIf you download or share free games, each new install is a fresh risk. Your wallet isn't safe unless your library is clean.\n\nOpen your Steam account right now and check your last 30 days of downloads 🛡️ Found something you don't remember? Delete it immediately."
+      }
+    },
+    "instagram_caption": "Your Steam library might have just become a hacker's backdoor 🚨\n\nThe FBI arrested a Florida man who hid malware inside seemingly free Steam games. When you installed the game, the code silently swiped the keys to your connected crypto wallets and drained them.\n\nThis isn't a hack of Steam itself. The suspect uploaded the infected games to bypass security, targeting your machine directly.\n\nIf you download or share free games, each new install is a fresh risk. Your wallet isn't safe unless your library is clean.\n\nOpen your Steam account right now and check your last 30 days of downloads 🛡️ Found something you don't remember? Delete it immediately.",
+    "carousel_slides": [
+      {
+        "hook": "Your Steam library is a trap",
+        "description": "A Florida man was arrested for hiding crypto-draining malware in free game downloads.",
+        "visual_hint": "Game download malware alert",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer virus alert"
+      },
+      {
+        "hook": "FBI arrests Florida suspect",
+        "description": "The suspect infected pirated game files with malware that emptied connected crypto wallets.",
+        "visual_hint": "FBI handcuff arrest scene",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "FBI badge handcuffs",
+        "image": "https://images.pexels.com/photos/28849534/pexels-photo-28849534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How the scam worked",
+        "description": "Victims thought they installed a real game; malware stole wallet keys in the background.",
+        "visual_hint": "Background malware stealing data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "malware code screen",
+        "image": "https://images.pexels.com/photos/5935788/pexels-photo-5935788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Steam wasn't hacked",
+        "description": "Attackers uploaded fake game files to bypass security and infect your computer.",
+        "visual_hint": "Fake game upload bypass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing laptop",
+        "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your downloads now to stay safe",
+        "description": "Open your Steam library, review games added last month, and delete suspicious ones immediately.",
+        "visual_hint": "Steam library review action",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Steam library screen",
+        "image": "https://images.pexels.com/photos/34601157/pexels-photo-34601157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?resize=1200,675",
+    "savedAt": "2026-07-17T17:02:06.214Z",
+    "sourceId": "445229ccfc43c0f7e45e125fbd137630"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bunkerhill-raises-55m-to-scale-agentic-ai-across-h",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+    "link": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+    "pubDate": "Fri, 17 Jul 2026 16:00:30 +0000",
+    "slides": [
+      "Bunkerhill raised $55M — but for what exactly?",
+      "It builds AI agents that act like hospital staff.",
+      "These agents don't just chat — they execute tasks.",
+      "Health systems can now automate clinical workflows.",
+      "Run one pilot in revenue cycle today."
+    ],
+    "thread_text": [
+      "1. $55M for what?\n\nBunkerhill just raised a $55M round. The product is AI agents that don't just talk — they execute hospital tasks.",
+      "2. These agents work like staff.\n\nThe agents simulate roles: nurses, administrators, coders. They don't assist — they replace workflow steps entirely.",
+      "3. Not chat — execution.\n\nEach agent can log into systems, update records, generate bills. No human click needed after the trigger.",
+      "4. Health systems automate now.\n\nClinical workflows like prior auth or discharge summaries run end‑to‑end without a person touching the interface.",
+      "5. Test revenue cycle this week.\n\nPick one revenue cycle pain point. Ask your IT team to run a Bunkerhill pilot. What's stopping you?"
+    ],
+    "video_script": [
+      "Bunkerhill raised $55 million.",
+      "They build AI hospital staff agents.",
+      "These agents execute real tasks.",
+      "Automate clinical workflows now.",
+      "Pilot revenue cycle this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $55M for what?\n\nBunkerhill just raised a $55M round. The product is AI agents that don't just talk — they execute hospital tasks.",
+          "2. These agents work like staff.\n\nThe agents simulate roles: nurses, administrators, coders. They don't assist — they replace workflow steps entirely.",
+          "3. Not chat — execution.\n\nEach agent can log into systems, update records, generate bills. No human click needed after the trigger.",
+          "4. Health systems automate now.\n\nClinical workflows like prior auth or discharge summaries run end‑to‑end without a person touching the interface.",
+          "5. Test revenue cycle this week.\n\nPick one revenue cycle pain point. Ask your IT team to run a Bunkerhill pilot. What's stopping you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bunkerhill raised $55 million.",
+          "They build AI hospital staff agents.",
+          "These agents execute real tasks.",
+          "Automate clinical workflows now.",
+          "Pilot revenue cycle this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Hospital staff now have AI agents that log into systems, update records, and generate bills — no human clicks needed after the trigger.\n\nBunkerhill just raised $55M to scale these agents across health systems. They don’t just chat—they execute clinical workflows like prior authorizations and discharge summaries end-to-end 🏥🤖\n\nFor anyone working in healthcare revenue cycle: one pain point could run on autopilot this week.\n\nWhat’s stopping your IT team from launching a pilot?"
+      }
+    },
+    "instagram_caption": "Hospital staff now have AI agents that log into systems, update records, and generate bills — no human clicks needed after the trigger.\n\nBunkerhill just raised $55M to scale these agents across health systems. They don’t just chat—they execute clinical workflows like prior authorizations and discharge summaries end-to-end 🏥🤖\n\nFor anyone working in healthcare revenue cycle: one pain point could run on autopilot this week.\n\nWhat’s stopping your IT team from launching a pilot?",
+    "carousel_slides": [
+      {
+        "hook": "What if AI replaced hospital staff?",
+        "description": "Bunkerhill raised $55M to build AI agents that execute hospital tasks, not just chat.",
+        "visual_hint": "Hospital hallway with robots",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hospital corridor technology"
+      },
+      {
+        "hook": "These agents simulate real roles.",
+        "description": "They act like nurses, coders, administrators—replacing workflow steps entirely.",
+        "visual_hint": "Nurse and computer screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hospital nurse computer",
+        "image": "https://images.pexels.com/photos/7195110/pexels-photo-7195110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No chat—full task execution.",
+        "description": "Agents log into systems, update records, generate bills—no human clicks needed.",
+        "visual_hint": "Hand clicking mouse close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer mouse hand",
+        "image": "https://images.pexels.com/photos/18966481/pexels-photo-18966481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Health systems automate workflows.",
+        "description": "Prior auth or discharge summaries run end-to-end without anyone touching the interface.",
+        "visual_hint": "Doctor reviewing digital chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor tablet screen",
+        "image": "https://images.pexels.com/photos/5452298/pexels-photo-5452298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test revenue cycle this week.",
+        "description": "Pick one revenue cycle pain point and ask IT to run a pilot—link in bio.",
+        "visual_hint": "Revenue cycle dashboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "financial dashboard chart",
+        "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/27015942/pexels-photo-27015942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-17T17:01:52.463Z",
+    "sourceId": "2bbdfc683665fa6d0787923f400d1c59"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-vids-now-lets-you-star-in-your-own-ai-video",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fbi-arrests-man-accused-of-using-steam-games-to-dr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+  "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+  "pubDate": "Fri, 17 Jul 2026 16:18:09 +0000",
+  "slides": [
+    "How did Steam games empty crypto wallets?",
+    "The FBI just arrested a suspect in Florida.",
+    "He hid malware inside seemingly legitimate game downloads.",
+    "Your Steam library might not be safe anymore.",
+    "Check all recent game downloads for suspicious activity."
+  ],
+  "thread_text": [
+    "1. Your Steam library is a trap\n\nA Florida man was arrested after hiding crypto-draining malware in games you download for free.",
+    "2. The FBI stepped in\n\nThe suspect allegedly infected pirated game files with malware that emptied connected crypto wallets.",
+    "3. How the scam worked\n\nVictims thought they were installing a legitimate game. Instead, the malware stole wallet keys in the background.",
+    "4. The real target\n\nSteam itself wasn't hacked. The attacker uploaded fake games to bypass security and infect your machine.",
+    "5. Check your downloads now\n\nOpen your Steam library, review every game you added in the last month. Found something odd? Delete it immediately."
+  ],
+  "video_script": [
+    "Crypto wallets emptied through Steam games.",
+    "FBI arrested a suspect in Florida.",
+    "He hid malware in fake game downloads.",
+    "Your Steam library may be infected.",
+    "Check recent downloads for suspicious activity."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Steam library is a trap\n\nA Florida man was arrested after hiding crypto-draining malware in games you download for free.",
+        "2. The FBI stepped in\n\nThe suspect allegedly infected pirated game files with malware that emptied connected crypto wallets.",
+        "3. How the scam worked\n\nVictims thought they were installing a legitimate game. Instead, the malware stole wallet keys in the background.",
+        "4. The real target\n\nSteam itself wasn't hacked. The attacker uploaded fake games to bypass security and infect your machine.",
+        "5. Check your downloads now\n\nOpen your Steam library, review every game you added in the last month. Found something odd? Delete it immediately."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Crypto wallets emptied through Steam games.",
+        "FBI arrested a suspect in Florida.",
+        "He hid malware in fake game downloads.",
+        "Your Steam library may be infected.",
+        "Check recent downloads for suspicious activity."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Steam library might have just become a hacker's backdoor 🚨\n\nThe FBI arrested a Florida man who hid malware inside seemingly free Steam games. When you installed the game, the code silently swiped the keys to your connected crypto wallets and drained them.\n\nThis isn't a hack of Steam itself. The suspect uploaded the infected games to bypass security, targeting your machine directly.\n\nIf you download or share free games, each new install is a fresh risk. Your wallet isn't safe unless your library is clean.\n\nOpen your Steam account right now and check your last 30 days of downloads 🛡️ Found something you don't remember? Delete it immediately."
+    }
+  },
+  "instagram_caption": "Your Steam library might have just become a hacker's backdoor 🚨\n\nThe FBI arrested a Florida man who hid malware inside seemingly free Steam games. When you installed the game, the code silently swiped the keys to your connected crypto wallets and drained them.\n\nThis isn't a hack of Steam itself. The suspect uploaded the infected games to bypass security, targeting your machine directly.\n\nIf you download or share free games, each new install is a fresh risk. Your wallet isn't safe unless your library is clean.\n\nOpen your Steam account right now and check your last 30 days of downloads 🛡️ Found something you don't remember? Delete it immediately.",
+  "carousel_slides": [
+    {
+      "hook": "Your Steam library is a trap",
+      "description": "A Florida man was arrested for hiding crypto-draining malware in free game downloads.",
+      "visual_hint": "Game download malware alert",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer virus alert"
+    },
+    {
+      "hook": "FBI arrests Florida suspect",
+      "description": "The suspect infected pirated game files with malware that emptied connected crypto wallets.",
+      "visual_hint": "FBI handcuff arrest scene",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "FBI badge handcuffs",
+      "image": "https://images.pexels.com/photos/28849534/pexels-photo-28849534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How the scam worked",
+      "description": "Victims thought they installed a real game; malware stole wallet keys in the background.",
+      "visual_hint": "Background malware stealing data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "malware code screen",
+      "image": "https://images.pexels.com/photos/5935788/pexels-photo-5935788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Steam wasn't hacked",
+      "description": "Attackers uploaded fake game files to bypass security and infect your computer.",
+      "visual_hint": "Fake game upload bypass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your downloads now to stay safe",
+      "description": "Open your Steam library, review games added last month, and delete suspicious ones immediately.",
+      "visual_hint": "Steam library review action",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Steam library screen",
+      "image": "https://images.pexels.com/photos/34601157/pexels-photo-34601157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?resize=1200,675",
+  "savedAt": "2026-07-17T17:02:06.214Z",
+  "sourceId": "445229ccfc43c0f7e45e125fbd137630"
+}
