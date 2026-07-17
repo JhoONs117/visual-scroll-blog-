@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "databricks-hits-188b-valuation-extending-its-run-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+  "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+  "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+  "slides": [
+    "Can a data warehouse become AI's silent king?",
+    "Databricks just reached $188 billion in valuation.",
+    "It started as a Spark project, not an AI company.",
+    "Your data lake may now be obsolete without it.",
+    "Rethink your data strategy before your competitors do."
+  ],
+  "thread_text": [
+    "1. The silent king?\n\nDatabricks just hit $188 billion. That’s 3x Snowflake’s market cap.",
+    "2. Started as a Spark tool\n\nIt was an open-source project for big data—not AI. The pivot came later.",
+    "3. Your data lake is dying\n\nWithout Databricks, your lake is a swamp. Unstructured data stays unusable.",
+    "4. Competitors are rethinking now\n\nThey’re migrating from Snowflake and legacy warehouses. Speed matters more than hype.",
+    "5. Audit your stack this week\n\nRun one query on your current warehouse vs Databricks. If it’s slower, you have your answer."
+  ],
+  "video_script": [
+    "Databricks is now worth $188 billion.",
+    "It started as a Spark project.",
+    "Your data lake may be useless.",
+    "Competitors are already moving fast.",
+    "Test your warehouse speed this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The silent king?\n\nDatabricks just hit $188 billion. That’s 3x Snowflake’s market cap.",
+        "2. Started as a Spark tool\n\nIt was an open-source project for big data—not AI. The pivot came later.",
+        "3. Your data lake is dying\n\nWithout Databricks, your lake is a swamp. Unstructured data stays unusable.",
+        "4. Competitors are rethinking now\n\nThey’re migrating from Snowflake and legacy warehouses. Speed matters more than hype.",
+        "5. Audit your stack this week\n\nRun one query on your current warehouse vs Databricks. If it’s slower, you have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Databricks is now worth $188 billion.",
+        "It started as a Spark project.",
+        "Your data lake may be useless.",
+        "Competitors are already moving fast.",
+        "Test your warehouse speed this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You might be working with a data lake that's already behind.\n\nDatabricks just hit a $188 billion valuation — three times what Snowflake is worth. It started as a Spark tool for big data, not an AI company. Now it's the platform that makes unstructured data actually usable.\n\nIf you create content or run workflows on raw data, your current storage is likely a dead weight. Competitors are already migrating to avoid getting swamped.\n\nRun one query on your warehouse vs Databricks this week. If it's slower, you have your answer. 🧊⚡"
+    }
+  },
+  "instagram_caption": "You might be working with a data lake that's already behind.\n\nDatabricks just hit a $188 billion valuation — three times what Snowflake is worth. It started as a Spark tool for big data, not an AI company. Now it's the platform that makes unstructured data actually usable.\n\nIf you create content or run workflows on raw data, your current storage is likely a dead weight. Competitors are already migrating to avoid getting swamped.\n\nRun one query on your warehouse vs Databricks this week. If it's slower, you have your answer. 🧊⚡",
+  "carousel_slides": [
+    {
+      "hook": "Your data lake is dying.",
+      "description": "Databricks hit $188B valuation, 3x Snowflake's market cap. Unstructured data stays unusable without it.",
+      "visual_hint": "Drying cracked lakebed",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "dry cracked lake"
+    },
+    {
+      "hook": "From Spark tool to AI king.",
+      "description": "Started as an open-source big data project, then pivoted to AI. Now worth $188 billion.",
+      "visual_hint": "Old server room to futuristic lab",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room transition",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data lake is a swamp.",
+      "description": "Without Databricks, unstructured data stays unusable. Competitors are migrating from Snowflake now.",
+      "visual_hint": "Swamp with tangled cables",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "swamp with cables",
+      "image": "https://images.pexels.com/photos/14497777/pexels-photo-14497777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed beats hype every time.",
+      "description": "Companies are leaving legacy warehouses for faster systems. Rethink before your competitors do.",
+      "visual_hint": "Runner overtaking others",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "runner on track",
+      "image": "https://images.pexels.com/photos/13159254/pexels-photo-13159254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your stack this week.",
+      "description": "Run one query on your current warehouse vs Databricks. If slower, you have your answer.",
+      "visual_hint": "Stopwatch and comparison chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch comparison chart",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+  "savedAt": "2026-07-17T22:40:03.017Z",
+  "sourceId": "2a6c589fb12f2c5ad2066d8f70eff45e"
+}

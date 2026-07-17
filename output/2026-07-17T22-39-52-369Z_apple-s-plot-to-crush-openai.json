@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-s-plot-to-crush-openai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple’s plot to crush OpenAI",
+  "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+  "pubDate": "2026-07-17T17:41:32.000Z",
+  "slides": [
+    "Can Apple outflank OpenAI without launching a chatbot?",
+    "Apple’s secret weapon isn’t AI—it’s a new chip design.",
+    "The chip processes AI tasks locally, not in the cloud.",
+    "Your iPhone will run powerful models offline, instantly.",
+    "Apple just forced every rival to rethink their strategy."
+  ],
+  "thread_text": [
+    "1. Apple’s silent chip move\n\nThey aren't launching a chatbot—they're redesigning the processor to run AI locally, not in the cloud.",
+    "2. Why local matters\n\nYour data never leaves the device. No server queue. AI tasks finish in milliseconds, not seconds.",
+    "3. The offline advantage\n\nYour iPhone will run powerful models without an internet connection. Instant processing anywhere.",
+    "4. Rivals caught off guard\n\nEvery competitor built cloud-first AI. Apple just forced them to rethink hardware strategy overnight.",
+    "5. Want to test the gap?\n\nTake a ChatGPT prompt and run it on your phone offline. Does it work? If not, you've just seen Apple's edge."
+  ],
+  "video_script": [
+    "Apple skips the chatbot war.",
+    "Their new chip runs AI locally.",
+    "Your data stays on your iPhone.",
+    "Powerful models work offline instantly.",
+    "Rivals must now rethink everything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple’s silent chip move\n\nThey aren't launching a chatbot—they're redesigning the processor to run AI locally, not in the cloud.",
+        "2. Why local matters\n\nYour data never leaves the device. No server queue. AI tasks finish in milliseconds, not seconds.",
+        "3. The offline advantage\n\nYour iPhone will run powerful models without an internet connection. Instant processing anywhere.",
+        "4. Rivals caught off guard\n\nEvery competitor built cloud-first AI. Apple just forced them to rethink hardware strategy overnight.",
+        "5. Want to test the gap?\n\nTake a ChatGPT prompt and run it on your phone offline. Does it work? If not, you've just seen Apple's edge."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple skips the chatbot war.",
+        "Their new chip runs AI locally.",
+        "Your data stays on your iPhone.",
+        "Powerful models work offline instantly.",
+        "Rivals must now rethink everything."
+      ]
+    },
+    "instagram": {
+      "caption": "Your iPhone will soon run powerful AI models completely offline, without ever sending your data to the cloud.🧠\n\nApple isn't launching a chatbot—they're redesigning the chip itself. All AI processing happens instantly on your device, not on a server. Your data never leaves your phone. No internet needed.\n\nEvery competitor built AI that depends on the cloud. Apple just made that look slow and insecure overnight.\n\nFor a creator: your AI tools will work anywhere, instantly, with zero privacy trade-off. No more waiting or wondering where your prompts go.\n\nCan your current phone run a full AI model offline right now? Open an app and try it. If it can't, you're seeing the gap."
+    }
+  },
+  "instagram_caption": "Your iPhone will soon run powerful AI models completely offline, without ever sending your data to the cloud.🧠\n\nApple isn't launching a chatbot—they're redesigning the chip itself. All AI processing happens instantly on your device, not on a server. Your data never leaves your phone. No internet needed.\n\nEvery competitor built AI that depends on the cloud. Apple just made that look slow and insecure overnight.\n\nFor a creator: your AI tools will work anywhere, instantly, with zero privacy trade-off. No more waiting or wondering where your prompts go.\n\nCan your current phone run a full AI model offline right now? Open an app and try it. If it can't, you're seeing the gap.",
+  "carousel_slides": [
+    {
+      "hook": "No chatbot needed?",
+      "description": "Apple skips the chatbot race to redesign the processor—AI runs locally on your device, not in the cloud.",
+      "visual_hint": "silver processor chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microprocessor chip closeup"
+    },
+    {
+      "hook": "Your data stays safe.",
+      "description": "Local AI means no server queue and no data leaving your phone—tasks finish in milliseconds.",
+      "visual_hint": "phone with lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "iPhone hand holding",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Works offline instantly.",
+      "description": "Powerful AI models run without internet—instant processing anywhere, even on a plane.",
+      "visual_hint": "airplane window view",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "airplane window sky",
+      "image": "https://images.pexels.com/photos/32138464/pexels-photo-32138464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals caught off guard.",
+      "description": "Every competitor built cloud-first AI—Apple just forced them to rethink their hardware strategy overnight.",
+      "visual_hint": "confused office workers",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people looking confused",
+      "image": "https://images.pexels.com/photos/8727517/pexels-photo-8727517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the gap: save this.",
+      "description": "Open ChatGPT on your phone offline and try a prompt—if it fails, you've seen Apple's edge.",
+      "visual_hint": "ChatGPT app on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen ChatGPT",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-17T22:40:27.094Z",
+  "sourceId": "9f0a72b022f72de189d389a0a1eb6921"
+}

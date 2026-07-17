@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-s-plot-to-crush-openai",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple’s plot to crush OpenAI",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "pubDate": "2026-07-17T17:41:32.000Z",
+      "slides": [
+        "Can Apple outflank OpenAI without launching a chatbot?",
+        "Apple’s secret weapon isn’t AI—it’s a new chip design.",
+        "The chip processes AI tasks locally, not in the cloud.",
+        "Your iPhone will run powerful models offline, instantly.",
+        "Apple just forced every rival to rethink their strategy."
+      ],
+      "thread_text": [
+        "1. Apple’s silent chip move\n\nThey aren't launching a chatbot—they're redesigning the processor to run AI locally, not in the cloud.",
+        "2. Why local matters\n\nYour data never leaves the device. No server queue. AI tasks finish in milliseconds, not seconds.",
+        "3. The offline advantage\n\nYour iPhone will run powerful models without an internet connection. Instant processing anywhere.",
+        "4. Rivals caught off guard\n\nEvery competitor built cloud-first AI. Apple just forced them to rethink hardware strategy overnight.",
+        "5. Want to test the gap?\n\nTake a ChatGPT prompt and run it on your phone offline. Does it work? If not, you've just seen Apple's edge."
+      ],
+      "video_script": [
+        "Apple skips the chatbot war.",
+        "Their new chip runs AI locally.",
+        "Your data stays on your iPhone.",
+        "Powerful models work offline instantly.",
+        "Rivals must now rethink everything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Apple’s silent chip move\n\nThey aren't launching a chatbot—they're redesigning the processor to run AI locally, not in the cloud.",
+            "2. Why local matters\n\nYour data never leaves the device. No server queue. AI tasks finish in milliseconds, not seconds.",
+            "3. The offline advantage\n\nYour iPhone will run powerful models without an internet connection. Instant processing anywhere.",
+            "4. Rivals caught off guard\n\nEvery competitor built cloud-first AI. Apple just forced them to rethink hardware strategy overnight.",
+            "5. Want to test the gap?\n\nTake a ChatGPT prompt and run it on your phone offline. Does it work? If not, you've just seen Apple's edge."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple skips the chatbot war.",
+            "Their new chip runs AI locally.",
+            "Your data stays on your iPhone.",
+            "Powerful models work offline instantly.",
+            "Rivals must now rethink everything."
+          ]
+        },
+        "instagram": {
+          "caption": "Your iPhone will soon run powerful AI models completely offline, without ever sending your data to the cloud.🧠\n\nApple isn't launching a chatbot—they're redesigning the chip itself. All AI processing happens instantly on your device, not on a server. Your data never leaves your phone. No internet needed.\n\nEvery competitor built AI that depends on the cloud. Apple just made that look slow and insecure overnight.\n\nFor a creator: your AI tools will work anywhere, instantly, with zero privacy trade-off. No more waiting or wondering where your prompts go.\n\nCan your current phone run a full AI model offline right now? Open an app and try it. If it can't, you're seeing the gap."
+        }
+      },
+      "instagram_caption": "Your iPhone will soon run powerful AI models completely offline, without ever sending your data to the cloud.🧠\n\nApple isn't launching a chatbot—they're redesigning the chip itself. All AI processing happens instantly on your device, not on a server. Your data never leaves your phone. No internet needed.\n\nEvery competitor built AI that depends on the cloud. Apple just made that look slow and insecure overnight.\n\nFor a creator: your AI tools will work anywhere, instantly, with zero privacy trade-off. No more waiting or wondering where your prompts go.\n\nCan your current phone run a full AI model offline right now? Open an app and try it. If it can't, you're seeing the gap.",
+      "carousel_slides": [
+        {
+          "hook": "No chatbot needed?",
+          "description": "Apple skips the chatbot race to redesign the processor—AI runs locally on your device, not in the cloud.",
+          "visual_hint": "silver processor chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microprocessor chip closeup"
+        },
+        {
+          "hook": "Your data stays safe.",
+          "description": "Local AI means no server queue and no data leaving your phone—tasks finish in milliseconds.",
+          "visual_hint": "phone with lock icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "iPhone hand holding",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Works offline instantly.",
+          "description": "Powerful AI models run without internet—instant processing anywhere, even on a plane.",
+          "visual_hint": "airplane window view",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "airplane window sky",
+          "image": "https://images.pexels.com/photos/32138464/pexels-photo-32138464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals caught off guard.",
+          "description": "Every competitor built cloud-first AI—Apple just forced them to rethink their hardware strategy overnight.",
+          "visual_hint": "confused office workers",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people looking confused",
+          "image": "https://images.pexels.com/photos/8727517/pexels-photo-8727517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the gap: save this.",
+          "description": "Open ChatGPT on your phone offline and try a prompt—if it fails, you've seen Apple's edge.",
+          "visual_hint": "ChatGPT app on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen ChatGPT",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-17T22:40:27.094Z",
+      "sourceId": "9f0a72b022f72de189d389a0a1eb6921"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "tiktok-is-testing-an-ai-likeness-detection-tool",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "pubDate": "2026-07-17T19:34:30.000Z",
+      "slides": [
+        "TikTok tests a tool to detect AI-generated faces—but why?",
+        "The platform wants to flag deepfakes automatically.",
+        "Its algorithm finds telltale signs humans miss.",
+        "Creators must disclose AI content or risk removal.",
+        "Test your next post against their detection yourself."
+      ],
+      "thread_text": [
+        "1. Spot the bot\n\nTikTok's new detector flags AI faces using clues invisible to the human eye.",
+        "2. How it works\n\nThe algorithm scans for subtle patterns—pixel noise, lighting glitches—that deepfakes leave behind.",
+        "3. The penalty\n\nPost AI content without a label, and TikTok can delete your video or suspend your account.",
+        "4. Creator burden\n\nThe detection tool is being tested now, but the disclosure rule is already in effect for everyone.",
+        "5. Your move\n\nFeed your last post into TikTok's checker. Does it pass or get flagged?"
+      ],
+      "video_script": [
+        "TikTok spots AI faces you cannot.",
+        "It scans for hidden pixel glitches.",
+        "No disclosure means removal or ban.",
+        "The rule applies now, not later.",
+        "Test your own post today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Spot the bot\n\nTikTok's new detector flags AI faces using clues invisible to the human eye.",
+            "2. How it works\n\nThe algorithm scans for subtle patterns—pixel noise, lighting glitches—that deepfakes leave behind.",
+            "3. The penalty\n\nPost AI content without a label, and TikTok can delete your video or suspend your account.",
+            "4. Creator burden\n\nThe detection tool is being tested now, but the disclosure rule is already in effect for everyone.",
+            "5. Your move\n\nFeed your last post into TikTok's checker. Does it pass or get flagged?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "TikTok spots AI faces you cannot.",
+            "It scans for hidden pixel glitches.",
+            "No disclosure means removal or ban.",
+            "The rule applies now, not later.",
+            "Test your own post today."
+          ]
+        },
+        "instagram": {
+          "caption": "TikTok’s algorithm can now spot AI-generated faces by analyzing pixel noise and lighting glitches that your own eyes would miss. 🕵️\n\nThe tool is being tested right now, but the rule is already live: post AI content without a clear label, and TikTok can delete your video or suspend your account. No warning shot. 🚫\n\nYou must manually disclose any AI-made videos you upload—or risk removal. No more hiding behind “it’s just a filter.”\n\nDoes your last post pass their scanner, or would it get flagged? Feed it into the checker and see. 🧐"
+        }
+      },
+      "instagram_caption": "TikTok’s algorithm can now spot AI-generated faces by analyzing pixel noise and lighting glitches that your own eyes would miss. 🕵️\n\nThe tool is being tested right now, but the rule is already live: post AI content without a clear label, and TikTok can delete your video or suspend your account. No warning shot. 🚫\n\nYou must manually disclose any AI-made videos you upload—or risk removal. No more hiding behind “it’s just a filter.”\n\nDoes your last post pass their scanner, or would it get flagged? Feed it into the checker and see. 🧐",
+      "carousel_slides": [
+        {
+          "hook": "Your face might be fake.",
+          "description": "TikTok tests a tool that detects AI-generated faces using clues invisible to humans.",
+          "visual_hint": "face split real fake",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "deepfake face detection"
+        },
+        {
+          "hook": "How the algorithm spots it.",
+          "description": "The scanner finds subtle pixel noise and lighting glitches that deepfakes leave behind.",
+          "visual_hint": "scan lines over face",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "facial recognition scan",
+          "image": "https://images.pexels.com/photos/8090147/pexels-photo-8090147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fake content? Account deleted.",
+          "description": "Post AI without a label, and TikTok can delete your video or suspend your account.",
+          "visual_hint": "red warning overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "suspended account screen",
+          "image": "https://images.pexels.com/photos/6863385/pexels-photo-6863385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Disclose or risk removal.",
+          "description": "The detection tool is being tested, but the disclosure rule is already enforced for all creators.",
+          "visual_hint": "creator holding phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mobile phone screen",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your post in bio.",
+          "description": "Feed your last video into TikTok's checker to see if it passes or gets flagged.",
+          "visual_hint": "like button and check",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "tick mark icon",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-17T22:40:14.425Z",
+      "sourceId": "3ca766d4c6c64d88217990f8743b4308"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "databricks-hits-188b-valuation-extending-its-run-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "slides": [
+        "Can a data warehouse become AI's silent king?",
+        "Databricks just reached $188 billion in valuation.",
+        "It started as a Spark project, not an AI company.",
+        "Your data lake may now be obsolete without it.",
+        "Rethink your data strategy before your competitors do."
+      ],
+      "thread_text": [
+        "1. The silent king?\n\nDatabricks just hit $188 billion. That’s 3x Snowflake’s market cap.",
+        "2. Started as a Spark tool\n\nIt was an open-source project for big data—not AI. The pivot came later.",
+        "3. Your data lake is dying\n\nWithout Databricks, your lake is a swamp. Unstructured data stays unusable.",
+        "4. Competitors are rethinking now\n\nThey’re migrating from Snowflake and legacy warehouses. Speed matters more than hype.",
+        "5. Audit your stack this week\n\nRun one query on your current warehouse vs Databricks. If it’s slower, you have your answer."
+      ],
+      "video_script": [
+        "Databricks is now worth $188 billion.",
+        "It started as a Spark project.",
+        "Your data lake may be useless.",
+        "Competitors are already moving fast.",
+        "Test your warehouse speed this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The silent king?\n\nDatabricks just hit $188 billion. That’s 3x Snowflake’s market cap.",
+            "2. Started as a Spark tool\n\nIt was an open-source project for big data—not AI. The pivot came later.",
+            "3. Your data lake is dying\n\nWithout Databricks, your lake is a swamp. Unstructured data stays unusable.",
+            "4. Competitors are rethinking now\n\nThey’re migrating from Snowflake and legacy warehouses. Speed matters more than hype.",
+            "5. Audit your stack this week\n\nRun one query on your current warehouse vs Databricks. If it’s slower, you have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Databricks is now worth $188 billion.",
+            "It started as a Spark project.",
+            "Your data lake may be useless.",
+            "Competitors are already moving fast.",
+            "Test your warehouse speed this week."
+          ]
+        },
+        "instagram": {
+          "caption": "You might be working with a data lake that's already behind.\n\nDatabricks just hit a $188 billion valuation — three times what Snowflake is worth. It started as a Spark tool for big data, not an AI company. Now it's the platform that makes unstructured data actually usable.\n\nIf you create content or run workflows on raw data, your current storage is likely a dead weight. Competitors are already migrating to avoid getting swamped.\n\nRun one query on your warehouse vs Databricks this week. If it's slower, you have your answer. 🧊⚡"
+        }
+      },
+      "instagram_caption": "You might be working with a data lake that's already behind.\n\nDatabricks just hit a $188 billion valuation — three times what Snowflake is worth. It started as a Spark tool for big data, not an AI company. Now it's the platform that makes unstructured data actually usable.\n\nIf you create content or run workflows on raw data, your current storage is likely a dead weight. Competitors are already migrating to avoid getting swamped.\n\nRun one query on your warehouse vs Databricks this week. If it's slower, you have your answer. 🧊⚡",
+      "carousel_slides": [
+        {
+          "hook": "Your data lake is dying.",
+          "description": "Databricks hit $188B valuation, 3x Snowflake's market cap. Unstructured data stays unusable without it.",
+          "visual_hint": "Drying cracked lakebed",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "dry cracked lake"
+        },
+        {
+          "hook": "From Spark tool to AI king.",
+          "description": "Started as an open-source big data project, then pivoted to AI. Now worth $188 billion.",
+          "visual_hint": "Old server room to futuristic lab",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room transition",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your data lake is a swamp.",
+          "description": "Without Databricks, unstructured data stays unusable. Competitors are migrating from Snowflake now.",
+          "visual_hint": "Swamp with tangled cables",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "swamp with cables",
+          "image": "https://images.pexels.com/photos/14497777/pexels-photo-14497777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed beats hype every time.",
+          "description": "Companies are leaving legacy warehouses for faster systems. Rethink before your competitors do.",
+          "visual_hint": "Runner overtaking others",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "runner on track",
+          "image": "https://images.pexels.com/photos/13159254/pexels-photo-13159254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your stack this week.",
+          "description": "Run one query on your current warehouse vs Databricks. If slower, you have your answer.",
+          "visual_hint": "Stopwatch and comparison chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stopwatch comparison chart",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "savedAt": "2026-07-17T22:40:03.017Z",
+      "sourceId": "2a6c589fb12f2c5ad2066d8f70eff45e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "patreon-stops-asking-ai-bots-not-to-scrape-and-sta",
       "prompt_version": "1.0.0",
       "status": "published",

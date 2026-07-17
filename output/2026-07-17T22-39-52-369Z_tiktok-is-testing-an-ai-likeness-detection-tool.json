@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tiktok-is-testing-an-ai-likeness-detection-tool",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "TikTok is testing an AI likeness detection tool",
+  "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+  "pubDate": "2026-07-17T19:34:30.000Z",
+  "slides": [
+    "TikTok tests a tool to detect AI-generated faces—but why?",
+    "The platform wants to flag deepfakes automatically.",
+    "Its algorithm finds telltale signs humans miss.",
+    "Creators must disclose AI content or risk removal.",
+    "Test your next post against their detection yourself."
+  ],
+  "thread_text": [
+    "1. Spot the bot\n\nTikTok's new detector flags AI faces using clues invisible to the human eye.",
+    "2. How it works\n\nThe algorithm scans for subtle patterns—pixel noise, lighting glitches—that deepfakes leave behind.",
+    "3. The penalty\n\nPost AI content without a label, and TikTok can delete your video or suspend your account.",
+    "4. Creator burden\n\nThe detection tool is being tested now, but the disclosure rule is already in effect for everyone.",
+    "5. Your move\n\nFeed your last post into TikTok's checker. Does it pass or get flagged?"
+  ],
+  "video_script": [
+    "TikTok spots AI faces you cannot.",
+    "It scans for hidden pixel glitches.",
+    "No disclosure means removal or ban.",
+    "The rule applies now, not later.",
+    "Test your own post today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Spot the bot\n\nTikTok's new detector flags AI faces using clues invisible to the human eye.",
+        "2. How it works\n\nThe algorithm scans for subtle patterns—pixel noise, lighting glitches—that deepfakes leave behind.",
+        "3. The penalty\n\nPost AI content without a label, and TikTok can delete your video or suspend your account.",
+        "4. Creator burden\n\nThe detection tool is being tested now, but the disclosure rule is already in effect for everyone.",
+        "5. Your move\n\nFeed your last post into TikTok's checker. Does it pass or get flagged?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "TikTok spots AI faces you cannot.",
+        "It scans for hidden pixel glitches.",
+        "No disclosure means removal or ban.",
+        "The rule applies now, not later.",
+        "Test your own post today."
+      ]
+    },
+    "instagram": {
+      "caption": "TikTok’s algorithm can now spot AI-generated faces by analyzing pixel noise and lighting glitches that your own eyes would miss. 🕵️\n\nThe tool is being tested right now, but the rule is already live: post AI content without a clear label, and TikTok can delete your video or suspend your account. No warning shot. 🚫\n\nYou must manually disclose any AI-made videos you upload—or risk removal. No more hiding behind “it’s just a filter.”\n\nDoes your last post pass their scanner, or would it get flagged? Feed it into the checker and see. 🧐"
+    }
+  },
+  "instagram_caption": "TikTok’s algorithm can now spot AI-generated faces by analyzing pixel noise and lighting glitches that your own eyes would miss. 🕵️\n\nThe tool is being tested right now, but the rule is already live: post AI content without a clear label, and TikTok can delete your video or suspend your account. No warning shot. 🚫\n\nYou must manually disclose any AI-made videos you upload—or risk removal. No more hiding behind “it’s just a filter.”\n\nDoes your last post pass their scanner, or would it get flagged? Feed it into the checker and see. 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Your face might be fake.",
+      "description": "TikTok tests a tool that detects AI-generated faces using clues invisible to humans.",
+      "visual_hint": "face split real fake",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "deepfake face detection"
+    },
+    {
+      "hook": "How the algorithm spots it.",
+      "description": "The scanner finds subtle pixel noise and lighting glitches that deepfakes leave behind.",
+      "visual_hint": "scan lines over face",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "facial recognition scan",
+      "image": "https://images.pexels.com/photos/8090147/pexels-photo-8090147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fake content? Account deleted.",
+      "description": "Post AI without a label, and TikTok can delete your video or suspend your account.",
+      "visual_hint": "red warning overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "suspended account screen",
+      "image": "https://images.pexels.com/photos/6863385/pexels-photo-6863385.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Disclose or risk removal.",
+      "description": "The detection tool is being tested, but the disclosure rule is already enforced for all creators.",
+      "visual_hint": "creator holding phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mobile phone screen",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your post in bio.",
+      "description": "Feed your last video into TikTok's checker to see if it passes or gets flagged.",
+      "visual_hint": "like button and check",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "tick mark icon",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-17T22:40:14.425Z",
+  "sourceId": "3ca766d4c6c64d88217990f8743b4308"
+}
