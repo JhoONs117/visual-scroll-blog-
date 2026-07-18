@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "vertu-wants-executives-to-pay-6-880-for-an-ai-agen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "pubDate": "Fri, 17 Jul 2026 22:55:09 +0000",
+    "slides": [
+      "Would you trust a $6,880 AI with key decisions?",
+      "Vertu embeds this agent into a luxury phone.",
+      "Its benchmark score lags behind free models.",
+      "Executives gain no time advantage over rivals.",
+      "Compare it against Claude or GPT-4 before buying."
+    ],
+    "thread_text": [
+      "1. Could you trust it?\n\nVertu's $6,880 luxury phone embeds an AI agent, but its benchmark score lags behind free models.",
+      "2. No time saved\n\nExecutives who buy this phone gain zero time advantage over rivals using free AI tools.",
+      "3. The real cost\n\nYou pay a premium for hardware, not performance—the AI is weaker than what's already on your laptop.",
+      "4. What you lose\n\nThat $6,880 could buy a year of Claude Pro plus a high-end Android phone with better AI.",
+      "5. Test it yourself\n\nTake a prompt you use daily and run it on Claude, GPT-4, and this phone. Compare the outputs before deciding."
+    ],
+    "video_script": [
+      "$6,880 for an AI that's worse than free.",
+      "Vertu embeds it, but benchmarks lag behind.",
+      "Executives gain no edge over rivals.",
+      "Your money buys hardware, not better AI.",
+      "Compare it with Claude or GPT-4 first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Could you trust it?\n\nVertu's $6,880 luxury phone embeds an AI agent, but its benchmark score lags behind free models.",
+          "2. No time saved\n\nExecutives who buy this phone gain zero time advantage over rivals using free AI tools.",
+          "3. The real cost\n\nYou pay a premium for hardware, not performance—the AI is weaker than what's already on your laptop.",
+          "4. What you lose\n\nThat $6,880 could buy a year of Claude Pro plus a high-end Android phone with better AI.",
+          "5. Test it yourself\n\nTake a prompt you use daily and run it on Claude, GPT-4, and this phone. Compare the outputs before deciding."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$6,880 for an AI that's worse than free.",
+          "Vertu embeds it, but benchmarks lag behind.",
+          "Executives gain no edge over rivals.",
+          "Your money buys hardware, not better AI.",
+          "Compare it with Claude or GPT-4 first."
+        ]
+      },
+      "instagram": {
+        "caption": "A $6,880 luxury phone comes with an AI agent that scores lower on benchmarks than free models like Claude or GPT-4.\n\nVertu embeds the AI into a phone for executives, but the performance lags behind what you already have on your laptop. Users gain zero time advantage over rivals using free tools.\n\nFor anyone creating content, that money could buy a year of Claude Pro plus a high-end Android phone with better AI. You're paying for hardware, not smarter output.\n\nWhat prompt would you test on this phone before even considering it?"
+      }
+    },
+    "instagram_caption": "A $6,880 luxury phone comes with an AI agent that scores lower on benchmarks than free models like Claude or GPT-4.\n\nVertu embeds the AI into a phone for executives, but the performance lags behind what you already have on your laptop. Users gain zero time advantage over rivals using free tools.\n\nFor anyone creating content, that money could buy a year of Claude Pro plus a high-end Android phone with better AI. You're paying for hardware, not smarter output.\n\nWhat prompt would you test on this phone before even considering it?",
+    "carousel_slides": [
+      {
+        "hook": "Would you pay $6,880 for worse AI?",
+        "description": "Vertu's luxury phone AI scores lower than free models—your money buys status, not smarts.",
+        "visual_hint": "luxury phone vs free AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "luxury smartphone display"
+      },
+      {
+        "hook": "Your rivals save money and time.",
+        "description": "Executives using free AI tools get the same speed—this phone adds zero advantage.",
+        "visual_hint": "clock showing zero gain",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office executives smartphone",
+        "image": "https://images.pexels.com/photos/7698742/pexels-photo-7698742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hardware premium, software weak.",
+        "description": "The $6,880 goes to luxury build—the AI inside lags behind your laptop's free tools.",
+        "visual_hint": "broken chip inside phone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone circuit board",
+        "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Better value for the same cost.",
+        "description": "That price buys Claude Pro for a year plus a top Android phone with stronger AI.",
+        "visual_hint": "money versus phone and plan",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you invest—save this.",
+        "description": "Run your daily prompt on Claude, GPT-4, and this phone. Compare outputs now.",
+        "visual_hint": "three chat screens compared",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chat interface screens",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+    "savedAt": "2026-07-18T01:43:28.793Z",
+    "sourceId": "2d9cc2c8c02bf709e6b81bf824a2d0e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-plot-to-crush-openai",
     "prompt_version": "1.0.0",
     "status": "published",
