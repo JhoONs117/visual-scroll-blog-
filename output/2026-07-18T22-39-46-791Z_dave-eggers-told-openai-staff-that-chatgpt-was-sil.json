@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "dave-eggers-told-openai-staff-that-chatgpt-was-sil",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+  "pubDate": "2026-07-18T20:54:42.000Z",
+  "slides": [
+    "Dave Eggers confronted OpenAI. What did he say?",
+    "He told staff ChatGPT is silencing an entire generation.",
+    "Eggers argued the tool kills nascent writing voices.",
+    "OpenAI's assistants now shape how new authors think.",
+    "Decide: will you let AI draft your first words?"
+  ],
+  "thread_text": [
+    "1. The generation killer\n\nDave Eggers directly told OpenAI staff that ChatGPT is silencing an entire generation of writers.",
+    "2. Voices stillborn\n\nEggers argues the tool destroys nascent writing voices before they can develop their own style.",
+    "3. The silent editor\n\nOpenAI's assistants now actively shape how new authors think and express themselves.",
+    "4. The hidden cost\n\nWhen AI drafts first words, the writer never discovers their own starting point or voice.",
+    "5. Your choice now\n\nDraft your next paragraph start-to-finish without AI. Can you hear your own voice?"
+  ],
+  "video_script": [
+    "Eggers confronted OpenAI about silencing writers.",
+    "He says ChatGPT kills new writing voices.",
+    "The tool shapes how authors think.",
+    "AI drafts destroy the discovery of voice.",
+    "Will you let AI write your first words?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The generation killer\n\nDave Eggers directly told OpenAI staff that ChatGPT is silencing an entire generation of writers.",
+        "2. Voices stillborn\n\nEggers argues the tool destroys nascent writing voices before they can develop their own style.",
+        "3. The silent editor\n\nOpenAI's assistants now actively shape how new authors think and express themselves.",
+        "4. The hidden cost\n\nWhen AI drafts first words, the writer never discovers their own starting point or voice.",
+        "5. Your choice now\n\nDraft your next paragraph start-to-finish without AI. Can you hear your own voice?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Eggers confronted OpenAI about silencing writers.",
+        "He says ChatGPT kills new writing voices.",
+        "The tool shapes how authors think.",
+        "AI drafts destroy the discovery of voice.",
+        "Will you let AI write your first words?"
+      ]
+    },
+    "instagram": {
+      "caption": "Dave Eggers told OpenAI staff that ChatGPT is \"silencing an entire generation\" of writers.\n\nHe argued the tool destroys nascent writing voices before they can find their own style 🖋️. OpenAI's assistants now shape how new authors think and express themselves before they even start.\n\nIf you write, your first draft isn't yours anymore—it's the system's average suggestion.\n\nCan you write your next paragraph from scratch, without letting AI choose the first words for you?"
+    }
+  },
+  "instagram_caption": "Dave Eggers told OpenAI staff that ChatGPT is \"silencing an entire generation\" of writers.\n\nHe argued the tool destroys nascent writing voices before they can find their own style 🖋️. OpenAI's assistants now shape how new authors think and express themselves before they even start.\n\nIf you write, your first draft isn't yours anymore—it's the system's average suggestion.\n\nCan you write your next paragraph from scratch, without letting AI choose the first words for you?",
+  "carousel_slides": [
+    {
+      "hook": "Is AI killing your voice?",
+      "description": "Dave Eggers told OpenAI staff ChatGPT silences an entire generation of writers before they start.",
+      "visual_hint": "author confronting tech",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "writer speaking microphone"
+    },
+    {
+      "hook": "Voices die before birth.",
+      "description": "Eggers argued the tool destroys nascent writing voices, preventing their unique style from developing.",
+      "visual_hint": "unwritten page silence",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "blank notebook quill",
+      "image": "https://images.pexels.com/photos/18332778/pexels-photo-18332778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who shapes your thoughts now?",
+      "description": "OpenAI's assistants actively shape how new authors think and express themselves every day.",
+      "visual_hint": "AI editing human mind",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network brain",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You never find your start.",
+      "description": "When AI drafts first words, the writer never discovers their own starting point or voice.",
+      "visual_hint": "hand stopped by screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Write one paragraph without AI.",
+      "description": "Draft your next paragraph start-to-finish. Can you hear your own voice? Save this to try.",
+      "visual_hint": "pen and paper alone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fountain pen notebook",
+      "image": "https://images.pexels.com/photos/15891328/pexels-photo-15891328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&amp;strip=all&amp;crop=0%2C2.5961195218394%2C100%2C43.073649479563&amp;w=1200",
+  "savedAt": "2026-07-18T22:39:57.618Z",
+  "sourceId": "5476eaca52d0915998573c72574aeba0"
+}
