@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "federal-employees-can-download-tiktok-on-their-wor",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Federal employees can download TikTok on their work phones again",
+    "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+    "pubDate": "Sat, 18 Jul 2026 15:54:24 +0000",
+    "slides": [
+      "Your work phone just unlocked TikTok—but why now?",
+      "A federal ban reversal quietly took effect this week.",
+      "No security upgrade or new policy was announced beforehand.",
+      "You can install ByteDance apps without HR approval today.",
+      "Test your compliance team—ask them if they knew."
+    ],
+    "thread_text": [
+      "1. They didn't tell you.\n\nByteDance apps are now allowed on federal devices after a ban reversal that took effect quietly this week.",
+      "2. No warning was given.\n\nHR didn't announce it. No security update was pushed to your device beforehand.",
+      "3. Install without asking.\n\nYou can download TikTok or other ByteDance apps today without any compliance approval.",
+      "4. Your team might be blind.\n\nMost compliance teams have no idea this change happened — they were never briefed.",
+      "5. Test them right now.\n\nAsk your compliance lead if they knew. If they don't, you have a gap in your security posture."
+    ],
+    "video_script": [
+      "Your work phone now allows TikTok.",
+      "The ban reversal was silent and sudden.",
+      "No security upgrade or policy was announced.",
+      "You can install ByteDance apps without approval.",
+      "Ask your compliance team if they knew."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They didn't tell you.\n\nByteDance apps are now allowed on federal devices after a ban reversal that took effect quietly this week.",
+          "2. No warning was given.\n\nHR didn't announce it. No security update was pushed to your device beforehand.",
+          "3. Install without asking.\n\nYou can download TikTok or other ByteDance apps today without any compliance approval.",
+          "4. Your team might be blind.\n\nMost compliance teams have no idea this change happened — they were never briefed.",
+          "5. Test them right now.\n\nAsk your compliance lead if they knew. If they don't, you have a gap in your security posture."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your work phone now allows TikTok.",
+          "The ban reversal was silent and sudden.",
+          "No security upgrade or policy was announced.",
+          "You can install ByteDance apps without approval.",
+          "Ask your compliance team if they knew."
+        ]
+      },
+      "instagram": {
+        "caption": "Your work phone just installed TikTok without you noticing.\n\nFederal employees can now download ByteDance apps with zero compliance approval. The ban reversal happened this week—no security upgrade, no HR announcement, no warning.\n\nYou can install TikTok on your work device today without asking permission 🔓\n\nMost compliance teams weren’t briefed. Ask yours if they knew. If they didn’t, who’s watching your security posture?"
+      }
+    },
+    "instagram_caption": "Your work phone just installed TikTok without you noticing.\n\nFederal employees can now download ByteDance apps with zero compliance approval. The ban reversal happened this week—no security upgrade, no HR announcement, no warning.\n\nYou can install TikTok on your work device today without asking permission 🔓\n\nMost compliance teams weren’t briefed. Ask yours if they knew. If they didn’t, who’s watching your security posture?",
+    "carousel_slides": [
+      {
+        "hook": "No warning. No update. Just access.",
+        "description": "ByteDance apps are now allowed on federal devices after a ban reversal quietly took effect this week.",
+        "visual_hint": "phone with TikTok icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen app"
+      },
+      {
+        "hook": "They didn't tell your team.",
+        "description": "HR announced nothing, and no security update was pushed—so compliance is likely in the dark.",
+        "visual_hint": "silent phone notification",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government office desk",
+        "image": "https://images.pexels.com/photos/6950016/pexels-photo-6950016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Install without permission today.",
+        "description": "You can download TikTok on your work phone now without any HR approval needed.",
+        "visual_hint": "download arrow icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "download button screen",
+        "image": "https://images.pexels.com/photos/12889644/pexels-photo-12889644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance team is blind.",
+        "description": "Most compliance teams were never briefed on this change—a major gap in security awareness.",
+        "visual_hint": "person shrugging confused",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this—test your team now.",
+        "description": "Ask your compliance lead if they knew. If not, flag the gap to your security team today.",
+        "visual_hint": "chat bubble with question",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark speech bubble",
+        "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1821998528.jpg?resize=1200,800",
+    "savedAt": "2026-07-18T16:45:05.952Z",
+    "sourceId": "94e50275ee85416249d3de1358345ba3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "neil-rimer-thinks-the-ai-money-is-coming-back-out",
     "prompt_version": "1.0.0",
     "status": "published",
