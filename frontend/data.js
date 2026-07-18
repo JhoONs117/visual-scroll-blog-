@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "neil-rimer-thinks-the-ai-money-is-coming-back-out",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "pubDate": "Sat, 18 Jul 2026 04:47:25 +0000",
+    "slides": [
+      "Neil Rimer predicts AI capital will exit, but where?",
+      "His Index Ventures just raised $2.3 billion for bets.",
+      "The real surprise? He is pulling funds from AI startups.",
+      "Your next fundraising round may now face harder terms.",
+      "Watch which sectors he backs next—that is your signal."
+    ],
+    "thread_text": [
+      "1. Capital leaving AI\n\nNeil Rimer's Index Ventures just raised $2.3 billion — and he's pulling funds from AI startups.",
+      "2. Where will it go?\n\nThe money must flow somewhere. Other sectors just got a silent signal: wait and watch.",
+      "3. Your next round shifts\n\nTerms get tougher as big capital exits. Expect harder negotiations and fewer checks.",
+      "4. Watch his next bet\n\nRimer's next sector move reveals where smart money lands. That's your real signal.",
+      "5. Check your runway\n\nDoes your startup have 18 months of cash? If not, adjust your fundraising strategy this week."
+    ],
+    "video_script": [
+      "Neil Rimer pulls capital from AI startups.",
+      "He raised 2.3 billion dollars.",
+      "Where will that money go next?",
+      "Your next funding round gets harder.",
+      "Watch his sectors for your signal."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Capital leaving AI\n\nNeil Rimer's Index Ventures just raised $2.3 billion — and he's pulling funds from AI startups.",
+          "2. Where will it go?\n\nThe money must flow somewhere. Other sectors just got a silent signal: wait and watch.",
+          "3. Your next round shifts\n\nTerms get tougher as big capital exits. Expect harder negotiations and fewer checks.",
+          "4. Watch his next bet\n\nRimer's next sector move reveals where smart money lands. That's your real signal.",
+          "5. Check your runway\n\nDoes your startup have 18 months of cash? If not, adjust your fundraising strategy this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Neil Rimer pulls capital from AI startups.",
+          "He raised 2.3 billion dollars.",
+          "Where will that money go next?",
+          "Your next funding round gets harder.",
+          "Watch his sectors for your signal."
+        ]
+      },
+      "instagram": {
+        "caption": "Neil Rimer’s Index Ventures just raised $2.3 billion but is actively pulling capital out of AI startups. 💸\n\nThat money has to land somewhere. He’s betting the next big return isn't in AI—and your next round just got harder. 🚩\n\nIf you create content for a living, the \"smart money\" signal means fewer checks for AI tools and more funding for the sectors they enable.\n\nWhat’s your cash runway? 18 months or less? Then map your budget this week, not next."
+      }
+    },
+    "instagram_caption": "Neil Rimer’s Index Ventures just raised $2.3 billion but is actively pulling capital out of AI startups. 💸\n\nThat money has to land somewhere. He’s betting the next big return isn't in AI—and your next round just got harder. 🚩\n\nIf you create content for a living, the \"smart money\" signal means fewer checks for AI tools and more funding for the sectors they enable.\n\nWhat’s your cash runway? 18 months or less? Then map your budget this week, not next.",
+    "carousel_slides": [
+      {
+        "hook": "Is the AI exit real?",
+        "description": "Neil Rimer's Index Ventures raised $2.3B but is pulling funds from AI startups.",
+        "visual_hint": "money leaving building",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "capital exit door"
+      },
+      {
+        "hook": "Where will the money go?",
+        "description": "Billions must flow elsewhere. Other sectors just got a silent signal to watch.",
+        "visual_hint": "arrows diverging paths",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "diverging arrows map",
+        "image": "https://images.pexels.com/photos/6033812/pexels-photo-6033812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next round gets harder.",
+        "description": "As big capital exits AI, expect tougher terms and fewer checks for founders.",
+        "visual_hint": "tightening hand on coin",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "tight fist coins",
+        "image": "https://images.pexels.com/photos/8830874/pexels-photo-8830874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch where Rimer bets next.",
+        "description": "His next sector move reveals where smart money lands. That's your real signal.",
+        "visual_hint": "spotlight on sector",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "spotlight stage empty",
+        "image": "https://images.pexels.com/photos/35592096/pexels-photo-35592096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your runway now.",
+        "description": "Do you have 18 months of cash? If not, adjust your fundraising strategy this week.",
+        "visual_hint": "calendar with 18 month marker",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar with marker",
+        "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
+    "savedAt": "2026-07-18T07:30:06.699Z",
+    "sourceId": "5d2b0c79af659e42300d3afbc3ef1be3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "vertu-wants-executives-to-pay-6-880-for-an-ai-agen",
     "prompt_version": "1.0.0",
     "status": "published",
