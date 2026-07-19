@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nonprofit-current-ai-is-racing-to-build-the-world-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+  "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+  "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+  "slides": [
+    "What if AI were as free as the web itself?",
+    "Current AI builds an open, nonprofit stack.",
+    "Most AI progress is locked behind corporate walls.",
+    "You can access and extend every model they release.",
+    "Try their playground today—no payment needed."
+  ],
+  "thread_text": [
+    "1. What if AI were free?\n\nHugging Face already hosts over 500,000 open models anyone can download and run.",
+    "2. The stack is open.\n\nNonprofits like EleutherAI and BigScience publish every layer—data, training code, weights—for free.",
+    "3. Behind corporate walls.\n\nOpenAI and Google keep their most capable models secret. The real race hides inside private servers.",
+    "4. You can extend them.\n\nDownload a model, fine-tune it on your own data, and deploy it without asking permission from anyone.",
+    "5. Try the playground today.\n\nGo to Hugging Face Chat and run a model right now. No signup. No credit card. What will you build?"
+  ],
+  "video_script": [
+    "Imagine AI as free as the web.",
+    "The stack is built by nonprofits.",
+    "Most progress is locked away.",
+    "But you can take every model.",
+    "Try the playground today for free."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if AI were free?\n\nHugging Face already hosts over 500,000 open models anyone can download and run.",
+        "2. The stack is open.\n\nNonprofits like EleutherAI and BigScience publish every layer—data, training code, weights—for free.",
+        "3. Behind corporate walls.\n\nOpenAI and Google keep their most capable models secret. The real race hides inside private servers.",
+        "4. You can extend them.\n\nDownload a model, fine-tune it on your own data, and deploy it without asking permission from anyone.",
+        "5. Try the playground today.\n\nGo to Hugging Face Chat and run a model right now. No signup. No credit card. What will you build?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine AI as free as the web.",
+        "The stack is built by nonprofits.",
+        "Most progress is locked away.",
+        "But you can take every model.",
+        "Try the playground today for free."
+      ]
+    },
+    "instagram": {
+      "caption": "Hundreds of thousands of open AI models are already free to download and adapt—no corporate gatekeeping required.\n\nA nonprofit stack gave away the training code, data, and weights. No walls, no \"access denied\". Models are yours to fine-tune and deploy.\n\nThat changes how you build: grab a model, train it on your own files, ship it without asking permission 🔓.\n\nWhat will you release into this open web? Try Hugging Face Chat now—zero signup 🧪"
+    }
+  },
+  "instagram_caption": "Hundreds of thousands of open AI models are already free to download and adapt—no corporate gatekeeping required.\n\nA nonprofit stack gave away the training code, data, and weights. No walls, no \"access denied\". Models are yours to fine-tune and deploy.\n\nThat changes how you build: grab a model, train it on your own files, ship it without asking permission 🔓.\n\nWhat will you release into this open web? Try Hugging Face Chat now—zero signup 🧪",
+  "carousel_slides": [
+    {
+      "hook": "Most AI is locked behind walls.",
+      "description": "OpenAI and Google keep their best models secret. The real AI race hides inside private servers.",
+      "visual_hint": "closed steel door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room locked door"
+    },
+    {
+      "hook": "What if AI were as free as the web?",
+      "description": "Nonprofits like EleutherAI publish every layer—data, code, weights—for anyone to use.",
+      "visual_hint": "open laptop glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "open laptop screen",
+      "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "500,000 models you can run now.",
+      "description": "Hugging Face hosts over 500,000 open models. Download any and run it yourself.",
+      "visual_hint": "model card grid",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Download, fine-tune, deploy—no permission needed.",
+      "description": "Take any open model, train it on your own data, and use it without asking anyone.",
+      "visual_hint": "hand touching screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand on keyboard",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it now—no signup. Save this.",
+      "description": "Go to Hugging Face Chat, run a model today. No credit card needed. Build something.",
+      "visual_hint": "chat interface mockup",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chat window open",
+      "image": "https://images.pexels.com/photos/16037281/pexels-photo-16037281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+  "savedAt": "2026-07-19T16:46:57.275Z",
+  "sourceId": "cc5e7a064593ff7c4cc0b09aebfde89e"
+}

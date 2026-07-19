@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "nonprofit-current-ai-is-racing-to-build-the-world-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "pubDate": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "slides": [
+      "What if AI were as free as the web itself?",
+      "Current AI builds an open, nonprofit stack.",
+      "Most AI progress is locked behind corporate walls.",
+      "You can access and extend every model they release.",
+      "Try their playground today—no payment needed."
+    ],
+    "thread_text": [
+      "1. What if AI were free?\n\nHugging Face already hosts over 500,000 open models anyone can download and run.",
+      "2. The stack is open.\n\nNonprofits like EleutherAI and BigScience publish every layer—data, training code, weights—for free.",
+      "3. Behind corporate walls.\n\nOpenAI and Google keep their most capable models secret. The real race hides inside private servers.",
+      "4. You can extend them.\n\nDownload a model, fine-tune it on your own data, and deploy it without asking permission from anyone.",
+      "5. Try the playground today.\n\nGo to Hugging Face Chat and run a model right now. No signup. No credit card. What will you build?"
+    ],
+    "video_script": [
+      "Imagine AI as free as the web.",
+      "The stack is built by nonprofits.",
+      "Most progress is locked away.",
+      "But you can take every model.",
+      "Try the playground today for free."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if AI were free?\n\nHugging Face already hosts over 500,000 open models anyone can download and run.",
+          "2. The stack is open.\n\nNonprofits like EleutherAI and BigScience publish every layer—data, training code, weights—for free.",
+          "3. Behind corporate walls.\n\nOpenAI and Google keep their most capable models secret. The real race hides inside private servers.",
+          "4. You can extend them.\n\nDownload a model, fine-tune it on your own data, and deploy it without asking permission from anyone.",
+          "5. Try the playground today.\n\nGo to Hugging Face Chat and run a model right now. No signup. No credit card. What will you build?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine AI as free as the web.",
+          "The stack is built by nonprofits.",
+          "Most progress is locked away.",
+          "But you can take every model.",
+          "Try the playground today for free."
+        ]
+      },
+      "instagram": {
+        "caption": "Hundreds of thousands of open AI models are already free to download and adapt—no corporate gatekeeping required.\n\nA nonprofit stack gave away the training code, data, and weights. No walls, no \"access denied\". Models are yours to fine-tune and deploy.\n\nThat changes how you build: grab a model, train it on your own files, ship it without asking permission 🔓.\n\nWhat will you release into this open web? Try Hugging Face Chat now—zero signup 🧪"
+      }
+    },
+    "instagram_caption": "Hundreds of thousands of open AI models are already free to download and adapt—no corporate gatekeeping required.\n\nA nonprofit stack gave away the training code, data, and weights. No walls, no \"access denied\". Models are yours to fine-tune and deploy.\n\nThat changes how you build: grab a model, train it on your own files, ship it without asking permission 🔓.\n\nWhat will you release into this open web? Try Hugging Face Chat now—zero signup 🧪",
+    "carousel_slides": [
+      {
+        "hook": "Most AI is locked behind walls.",
+        "description": "OpenAI and Google keep their best models secret. The real AI race hides inside private servers.",
+        "visual_hint": "closed steel door",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room locked door"
+      },
+      {
+        "hook": "What if AI were as free as the web?",
+        "description": "Nonprofits like EleutherAI publish every layer—data, code, weights—for anyone to use.",
+        "visual_hint": "open laptop glowing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "open laptop screen",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "500,000 models you can run now.",
+        "description": "Hugging Face hosts over 500,000 open models. Download any and run it yourself.",
+        "visual_hint": "model card grid",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Download, fine-tune, deploy—no permission needed.",
+        "description": "Take any open model, train it on your own data, and use it without asking anyone.",
+        "visual_hint": "hand touching screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand on keyboard",
+        "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it now—no signup. Save this.",
+        "description": "Go to Hugging Face Chat, run a model today. No credit card needed. Build something.",
+        "visual_hint": "chat interface mockup",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chat window open",
+        "image": "https://images.pexels.com/photos/16037281/pexels-photo-16037281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+    "savedAt": "2026-07-19T16:46:57.275Z",
+    "sourceId": "cc5e7a064593ff7c4cc0b09aebfde89e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "-odyssey-director-christopher-nolan-calls-ai-an-ob",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "pubDate": "Sun, 19 Jul 2026 14:52:08 +0000",
+    "slides": [
+      "Why does Nolan call AI a Trojan horse?",
+      "He warns it hides deeper societal control.",
+      "The real threat isn't AI's power—its blind adoption.",
+      "You must question every automated decision system.",
+      "Resist by auditing tools before trusting them."
+    ],
+    "thread_text": [
+      "1. Why call AI a Trojan horse?\n\nNolan used the myth of a hidden army. The real invasion isn’t code—it’s the quiet loss of your autonomy.",
+      "2. The danger isn’t rebellion\n\nThe machines won’t revolt. The risk is you handing over decisions to systems you don’t understand.",
+      "3. Adoption blinds you\n\nPeople race to integrate AI tools without audits. Speed becomes a trap that locks in biases.",
+      "4. Question every automated decision\n\nDefaulting to AI scores your loan, job, and freedom. You never see the logic behind the result.",
+      "5. Audit before you trust\n\nTake one tool you use daily. Run a test with skewed inputs. If you haven’t done it, start tonight."
+    ],
+    "video_script": [
+      "Nolan says AI is a Trojan horse.",
+      "The hidden army is societal control.",
+      "The threat is blind adoption, not power.",
+      "Question every automated decision system.",
+      "Resist by auditing tools before trusting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why call AI a Trojan horse?\n\nNolan used the myth of a hidden army. The real invasion isn’t code—it’s the quiet loss of your autonomy.",
+          "2. The danger isn’t rebellion\n\nThe machines won’t revolt. The risk is you handing over decisions to systems you don’t understand.",
+          "3. Adoption blinds you\n\nPeople race to integrate AI tools without audits. Speed becomes a trap that locks in biases.",
+          "4. Question every automated decision\n\nDefaulting to AI scores your loan, job, and freedom. You never see the logic behind the result.",
+          "5. Audit before you trust\n\nTake one tool you use daily. Run a test with skewed inputs. If you haven’t done it, start tonight."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nolan says AI is a Trojan horse.",
+          "The hidden army is societal control.",
+          "The threat is blind adoption, not power.",
+          "Question every automated decision system.",
+          "Resist by auditing tools before trusting."
+        ]
+      },
+      "instagram": {
+        "caption": "Christopher Nolan just called AI a “Trojan horse”—it’s not the machines rising up, it’s you quietly handing over control.  \n\nNolan warns the real invasion is blind adoption, not rebellion. People race to integrate AI tools without audits, and speed locks in hidden biases. You never see the logic when AI decides your loan or job.  \n\nIf you create content or use automated tools, your autonomy is the cost. You can’t outsource accountability to a black box.  \n\nTake one tool you use daily. Run a test with skewed inputs tonight. ⚡️🧠🕵️‍♂️"
+      }
+    },
+    "instagram_caption": "Christopher Nolan just called AI a “Trojan horse”—it’s not the machines rising up, it’s you quietly handing over control.  \n\nNolan warns the real invasion is blind adoption, not rebellion. People race to integrate AI tools without audits, and speed locks in hidden biases. You never see the logic when AI decides your loan or job.  \n\nIf you create content or use automated tools, your autonomy is the cost. You can’t outsource accountability to a black box.  \n\nTake one tool you use daily. Run a test with skewed inputs tonight. ⚡️🧠🕵️‍♂️",
+    "carousel_slides": [
+      {
+        "hook": "Blind adoption is the real threat.",
+        "description": "Nolan warns that rushing to use AI without audits locks in hidden biases, not progress.",
+        "visual_hint": "Trojan horse silhouette",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Trojan horse wood"
+      },
+      {
+        "hook": "Are you surrendering autonomy?",
+        "description": "The danger isn't AI rebellion—it's handing decisions to systems you don't understand.",
+        "visual_hint": "Person handing over keys",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hand over keys",
+        "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed can be a trap.",
+        "description": "People race to adopt AI tools, but speed locks in biases without scrutiny.",
+        "visual_hint": "Rushing crowd or clock",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "clock rush hour",
+        "image": "https://images.pexels.com/photos/8102178/pexels-photo-8102178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Does AI decide your future?",
+        "description": "Automated systems score your loan and job, but you never see the hidden logic.",
+        "visual_hint": "Screen showing application reject",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "application rejected screen",
+        "image": "https://images.pexels.com/photos/9832469/pexels-photo-9832469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit one tool tonight.",
+        "description": "Take an AI tool you use daily, run a test with skewed inputs, and check the result.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist magnifying glass",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
+    "savedAt": "2026-07-19T16:46:45.031Z",
+    "sourceId": "f94394e35d7038429bcb5426f50b0d9b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "dave-eggers-told-openai-staff-that-chatgpt-was-sil",
     "prompt_version": "1.0.0",
     "status": "published",
