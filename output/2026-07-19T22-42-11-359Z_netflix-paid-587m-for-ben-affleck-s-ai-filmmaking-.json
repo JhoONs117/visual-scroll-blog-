@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "netflix-paid-587m-for-ben-affleck-s-ai-filmmaking-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+  "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+  "pubDate": "Sun, 19 Jul 2026 21:45:00 +0000",
+  "slides": [
+    "Why did Netflix bet $587M on Affleck's AI startup?",
+    "The tool promises studio-level effects without a crew.",
+    "It rewrites scripts in real time while filming.",
+    "Your next TV series might be made by one person.",
+    "Start experimenting with AI filmmaking tools today."
+  ],
+  "thread_text": [
+    "1. Netflix bet $587M on what?\n\nThe startup belongs to Ben Affleck. It promises studio effects with zero crew.",
+    "2. Scripts rewrite as you film.\n\nThe AI changes dialogue mid-scene. No pauses, no second takes needed.",
+    "3. One person could make a series.\n\nYou shoot alone. The tool handles lighting, editing, and effects in real time.",
+    "4. This kills the traditional unit.\n\nNo camera crew, no writers, no post-production team. Just one creator.",
+    "5. Test it on your next scene.\n\nUse a free AI filmmaking tool this week. Can you deliver a full minute without help?"
+  ],
+  "video_script": [
+    "Netflix bet half a billion on Affleck's AI.",
+    "The tool edits scripts as you shoot.",
+    "One person can now make a TV show.",
+    "No crew, no writers, no post-production.",
+    "Try a free AI tool on your next scene."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Netflix bet $587M on what?\n\nThe startup belongs to Ben Affleck. It promises studio effects with zero crew.",
+        "2. Scripts rewrite as you film.\n\nThe AI changes dialogue mid-scene. No pauses, no second takes needed.",
+        "3. One person could make a series.\n\nYou shoot alone. The tool handles lighting, editing, and effects in real time.",
+        "4. This kills the traditional unit.\n\nNo camera crew, no writers, no post-production team. Just one creator.",
+        "5. Test it on your next scene.\n\nUse a free AI filmmaking tool this week. Can you deliver a full minute without help?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Netflix bet half a billion on Affleck's AI.",
+        "The tool edits scripts as you shoot.",
+        "One person can now make a TV show.",
+        "No crew, no writers, no post-production.",
+        "Try a free AI tool on your next scene."
+      ]
+    },
+    "instagram": {
+      "caption": "Netflix just spent $587 million on a movie studio that has no crew.  \nThe AI tool rewrites your script while you're filming a scene, editing and adding effects instantly.  \nOne person could shoot an entire series alone, no camera team, no lighting, no post-production.  \nIf you make content, your entire workflow just collapsed into one tool.  \nCan you deliver one minute of footage using a free AI filmmaking tool this week?"
+    }
+  },
+  "instagram_caption": "Netflix just spent $587 million on a movie studio that has no crew.  \nThe AI tool rewrites your script while you're filming a scene, editing and adding effects instantly.  \nOne person could shoot an entire series alone, no camera team, no lighting, no post-production.  \nIf you make content, your entire workflow just collapsed into one tool.  \nCan you deliver one minute of footage using a free AI filmmaking tool this week?",
+  "carousel_slides": [
+    {
+      "hook": "What if one person makes your next show?",
+      "description": "Netflix paid $587M for Ben Affleck's AI studio. It writes scripts and does effects in real time.",
+      "visual_hint": "One creator with tablet",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person tablet video editing"
+    },
+    {
+      "hook": "Scripts rewrite mid-scene now.",
+      "description": "AI changes dialogue as you film. No pauses, no reshoots needed — just seamless production.",
+      "visual_hint": "Script text morphing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "film script close up",
+      "image": "https://images.pexels.com/photos/9809834/pexels-photo-9809834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your entire crew is an algorithm.",
+      "description": "Lighting, editing, effects handled automatically. One person replaces a whole team.",
+      "visual_hint": "Robot arm on set",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm camera",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No camera crew, no post-production.",
+      "description": "The tool kills traditional units. Just you and AI creating studio-level footage.",
+      "visual_hint": "Empty film set",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty film studio",
+      "image": "https://images.pexels.com/photos/15128321/pexels-photo-15128321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — test AI filmmaking today.",
+      "description": "Use a free AI film tool this week. Can you deliver one minute without any help?",
+      "visual_hint": "Phone with AI app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone film editor app",
+      "image": "https://images.pexels.com/photos/8360005/pexels-photo-8360005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/Ben-Affleck_0309_R1_c.jpg?resize=1200,675",
+  "savedAt": "2026-07-19T22:42:24.706Z",
+  "sourceId": "e44301e6775a33f5b36dfc2b049318fe"
+}
