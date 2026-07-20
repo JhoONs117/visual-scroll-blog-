@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "us-public-health-agencies-to-test-openai-and-anthr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US public health agencies to test OpenAI and Anthropic AI models",
+    "link": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "pubDate": "Mon, 20 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "What will US public health find in OpenAI’s models?",
+      "HHS plans to test AI for internal data analysis first.",
+      "They are not testing safety—they are testing bureaucratic speed.",
+      "Your agency may soon rely on AI to approve public alerts.",
+      "Watch for pilot results before your own compliance deadlines."
+    ],
+    "thread_text": [
+      "1. What hides inside OpenAI?\n\nThe US Department of Health plans to run AI on internal data — but not to catch errors.",
+      "2. Speed, not safety\n\nThey’re measuring how fast a model can move paper, not whether the answer is correct.",
+      "3. Approval by algorithm\n\nNext: AI could greenlight public health alerts before any human reads them.",
+      "4. Your deadline approaches\n\nOnce the pilot wraps, your agency will be expected to adopt the same playbook.",
+      "5. Run your own test now\n\nTake one alert you’d approve today and feed it to ChatGPT. Does it pass without your edit?"
+    ],
+    "video_script": [
+      "HHS will test AI on internal data.",
+      "They are testing speed, not safety.",
+      "AI may approve public health alerts.",
+      "Pilot results will set your deadline.",
+      "Test a real alert with ChatGPT today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What hides inside OpenAI?\n\nThe US Department of Health plans to run AI on internal data — but not to catch errors.",
+          "2. Speed, not safety\n\nThey’re measuring how fast a model can move paper, not whether the answer is correct.",
+          "3. Approval by algorithm\n\nNext: AI could greenlight public health alerts before any human reads them.",
+          "4. Your deadline approaches\n\nOnce the pilot wraps, your agency will be expected to adopt the same playbook.",
+          "5. Run your own test now\n\nTake one alert you’d approve today and feed it to ChatGPT. Does it pass without your edit?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "HHS will test AI on internal data.",
+          "They are testing speed, not safety.",
+          "AI may approve public health alerts.",
+          "Pilot results will set your deadline.",
+          "Test a real alert with ChatGPT today."
+        ]
+      },
+      "instagram": {
+        "caption": "The US Department of Health is about to run ChatGPT and its rivals on internal data—but not to check for medical errors.\n\nThey’re testing how fast a model can process paperwork, not whether the output is accurate. Speed over safety 🧾.  \n\nIf the pilot passes, AI could greenlight public health alerts before a human reviews them 📢.  \n\nFor anyone creating compliance content: this means a machine may soon decide if your warning goes live.  \n\nTake one alert you’d approve today and feed it to your own AI. Does it pass without your edit? 🔍"
+      }
+    },
+    "instagram_caption": "The US Department of Health is about to run ChatGPT and its rivals on internal data—but not to check for medical errors.\n\nThey’re testing how fast a model can process paperwork, not whether the output is accurate. Speed over safety 🧾.  \n\nIf the pilot passes, AI could greenlight public health alerts before a human reviews them 📢.  \n\nFor anyone creating compliance content: this means a machine may soon decide if your warning goes live.  \n\nTake one alert you’d approve today and feed it to your own AI. Does it pass without your edit? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Bureaucratic speed over safety?",
+        "description": "HHS will test AI on internal data to speed paperwork, not to catch errors—a troubling trade-off.",
+        "visual_hint": "Stopwatch over documents",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "office documents pile"
+      },
+      {
+        "hook": "What models hide inside?",
+        "description": "US public health tests OpenAI and Anthropic models for faster approvals, not accuracy checks.",
+        "visual_hint": "AI brain magnifying glass",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Algorithm approves alerts next",
+        "description": "AI could soon greenlight public health alerts before any human reads them—speed first, safety second.",
+        "visual_hint": "Robot stamping approval",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory assembly robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your deadline approaches fast",
+        "description": "Once pilot results are out, your agency may be expected to adopt the same AI playbook—prepare now.",
+        "visual_hint": "Calendar with warning",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your own alert today",
+        "description": "Feed one approval-ready alert to ChatGPT—see if it passes without your edit. Try it now.",
+        "visual_hint": "ChatGPT screen alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard closeup",
+        "image": "https://images.pexels.com/photos/29272605/pexels-photo-29272605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-20T10:42:32.475Z",
+    "sourceId": "d6a09501cf0aad5517b5f2c17b3f858a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "netflix-paid-587m-for-ben-affleck-s-ai-filmmaking-",
     "prompt_version": "1.0.0",
     "status": "published",
