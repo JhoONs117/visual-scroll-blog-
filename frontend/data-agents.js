@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "adobe-s-natural-look-camera-app-embraces-generativ",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "pubDate": "2026-07-20T16:00:00.000Z",
+      "slides": [
+        "Why would Adobe call AI photos 'natural'?",
+        "Its new app adds or removes objects with one tap.",
+        "The result often looks untouched—until you zoom in.",
+        "Your editing workflow now starts without a desktop.",
+        "Test it yourself: edit a photo without opening Photoshop."
+      ],
+      "thread_text": [
+        "Why call AI photos natural?\n\nAdobe’s new app can add or remove objects with one tap — no desktop needed.",
+        "The result fools you at first glance.\n\nZoom in and edges blur, shadows shift. The illusion breaks at pixel level.",
+        "Your editing workflow just left the desktop.\n\nStart editing on your phone. Finish on the bus. Photoshop never opens.",
+        "One tap, two realities.\n\nYou can delete a power line or add a mountain. Which part of the photo is still real?",
+        "Test it this week.\n\nEdit a photo of your own space using only the app. Does the result pass your zoom test?"
+      ],
+      "video_script": [
+        "Adobe calls AI edits natural. But zoom in.",
+        "One tap adds or removes objects.",
+        "Looks untouched until you check pixels.",
+        "You can edit without a desktop now.",
+        "Test your own photo this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Why call AI photos natural?\n\nAdobe’s new app can add or remove objects with one tap — no desktop needed.",
+            "The result fools you at first glance.\n\nZoom in and edges blur, shadows shift. The illusion breaks at pixel level.",
+            "Your editing workflow just left the desktop.\n\nStart editing on your phone. Finish on the bus. Photoshop never opens.",
+            "One tap, two realities.\n\nYou can delete a power line or add a mountain. Which part of the photo is still real?",
+            "Test it this week.\n\nEdit a photo of your own space using only the app. Does the result pass your zoom test?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Adobe calls AI edits natural. But zoom in.",
+            "One tap adds or removes objects.",
+            "Looks untouched until you check pixels.",
+            "You can edit without a desktop now.",
+            "Test your own photo this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A single tap can now add a mountain or delete a power line from your photo—directly in Adobe's new camera app. 📸\n\nThe app applies generative AI in real time. The result looks untouched, until you zoom in and see the edges blur and shadows shift. 🌫️\n\nYour editing workflow just left the desktop. You can start and finish a complex edit on your phone, never opening Photoshop.\n\nThe consequence: one tap, two realities. You decide which part of the shot is still real.\n\nTake a photo of your own space tonight. Edit it using only the app. Does your result pass the zoom test? 🔍"
+        }
+      },
+      "instagram_caption": "A single tap can now add a mountain or delete a power line from your photo—directly in Adobe's new camera app. 📸\n\nThe app applies generative AI in real time. The result looks untouched, until you zoom in and see the edges blur and shadows shift. 🌫️\n\nYour editing workflow just left the desktop. You can start and finish a complex edit on your phone, never opening Photoshop.\n\nThe consequence: one tap, two realities. You decide which part of the shot is still real.\n\nTake a photo of your own space tonight. Edit it using only the app. Does your result pass the zoom test? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "What if natural isn’t real?",
+          "description": "Adobe’s new app adds or removes objects in one tap. The illusion breaks when you zoom in.",
+          "visual_hint": "zoomed photo edge artifacts",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "photo editing app screen"
+        },
+        {
+          "hook": "One tap, two realities.",
+          "description": "Delete a power line or add a mountain. Which part of the photo is still real?",
+          "visual_hint": "half-edited landscape split",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "mountain landscape power line",
+          "image": "https://images.pexels.com/photos/13200126/pexels-photo-13200126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zoom in and doubt.",
+          "description": "Edges blur, shadows shift. The illusion breaks at pixel level on closer inspection.",
+          "visual_hint": "digital zoom circle crop",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "zoom lens close up",
+          "image": "https://images.pexels.com/photos/4046344/pexels-photo-4046344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start editing on the bus.",
+          "description": "Your workflow leaves the desktop. Edit on your phone, finish anywhere — Photoshop never opens.",
+          "visual_hint": "hand holding phone outdoors",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding smartphone bus",
+          "image": "https://images.pexels.com/photos/18120519/pexels-photo-18120519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test.",
+          "description": "Edit a photo of your own space with only the app. Does it pass your zoom test?",
+          "visual_hint": "phone gallery with edit button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "photo gallery smartphone interface",
+          "image": "https://images.pexels.com/photos/4549416/pexels-photo-4549416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-20T17:25:10.738Z",
+      "sourceId": "128f757a10821119152747b1ce06f69e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "adobe-camera-app-s-new-feature-will-critique-your-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "slides": [
+        "Can Adobe’s AI finally fix your worst photos?",
+        "It analyzes composition, lighting, and focus instantly.",
+        "But it won’t tell you the best crop—yet.",
+        "Editors now get instant feedback before sharing.",
+        "Upload a favorite image and compare its critique."
+      ],
+      "thread_text": [
+        "1. AI sees your mistakes.\n\nAdobe's tool analyzes composition, lighting, and focus instantly—finding flaws you might miss.",
+        "2. The blind spot.\n\nIt can't tell you the best crop. Judgment on framing still needs a human eye.",
+        "3. Feedback before sharing.\n\nEditors now get instant analysis before posting, cutting revision cycles short.",
+        "4. Test it yourself.\n\nUpload a favorite image and compare its critique to your own. The gap reveals what you overlook.",
+        "5. Try the crop test.\n\nTake one of your photos, ask the AI for feedback, then choose the crop yourself. Does it match your instinct?"
+      ],
+      "video_script": [
+        "Adobe's AI spots photo problems instantly.",
+        "It won't suggest the best crop.",
+        "Editors get fast feedback before posting.",
+        "Upload an image to compare critiques.",
+        "Test it against your own judgment today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI sees your mistakes.\n\nAdobe's tool analyzes composition, lighting, and focus instantly—finding flaws you might miss.",
+            "2. The blind spot.\n\nIt can't tell you the best crop. Judgment on framing still needs a human eye.",
+            "3. Feedback before sharing.\n\nEditors now get instant analysis before posting, cutting revision cycles short.",
+            "4. Test it yourself.\n\nUpload a favorite image and compare its critique to your own. The gap reveals what you overlook.",
+            "5. Try the crop test.\n\nTake one of your photos, ask the AI for feedback, then choose the crop yourself. Does it match your instinct?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Adobe's AI spots photo problems instantly.",
+            "It won't suggest the best crop.",
+            "Editors get fast feedback before posting.",
+            "Upload an image to compare critiques.",
+            "Test it against your own judgment today."
+          ]
+        },
+        "instagram": {
+          "caption": "That new Adobe camera app can spot your bad composition or lighting in seconds—before you even hit share.\n\nIt checks focus, exposure, and structure instantly. You get feedback while you still have time to adjust.\n\nBut it won’t choose the crop for you. That judgment stays with the human eye.\n\nFor editors and casual shooters, it means fewer revisions and faster posts.\n\nUpload your own best photo: does the AI critique what you see, or does it reveal what you missed? ✍️"
+        }
+      },
+      "instagram_caption": "That new Adobe camera app can spot your bad composition or lighting in seconds—before you even hit share.\n\nIt checks focus, exposure, and structure instantly. You get feedback while you still have time to adjust.\n\nBut it won’t choose the crop for you. That judgment stays with the human eye.\n\nFor editors and casual shooters, it means fewer revisions and faster posts.\n\nUpload your own best photo: does the AI critique what you see, or does it reveal what you missed? ✍️",
+      "carousel_slides": [
+        {
+          "hook": "What if AI judged your photos?",
+          "description": "Adobe's tool instantly analyzes composition, lighting, and focus to reveal hidden flaws.",
+          "visual_hint": "AI analysis on photo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "camera lens closeup"
+        },
+        {
+          "hook": "It sees flaws you miss.",
+          "description": "The AI finds mistakes in lighting and focus, but framing judgments still need a human eye.",
+          "visual_hint": "Photo with glitch overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "blurred cityscape",
+          "image": "https://images.pexels.com/photos/19035877/pexels-photo-19035877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But can't pick the best crop.",
+          "description": "It doesn't recommend cropping yet—that decision remains your creative instinct.",
+          "visual_hint": "Crop grid on image",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "crop tool screenshot",
+          "image": "https://images.pexels.com/photos/27467595/pexels-photo-27467595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Get feedback before posting.",
+          "description": "Editors receive instant analysis before sharing, cutting revision cycles and improving results.",
+          "visual_hint": "Phone showing critique",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone editing app",
+          "image": "https://images.pexels.com/photos/7610521/pexels-photo-7610521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your eye.",
+          "description": "Upload your favorite photo, compare its AI critique to your own instinct.",
+          "visual_hint": "Before and after comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "side by side photos",
+          "image": "https://images.pexels.com/photos/7014515/pexels-photo-7014515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
+      "savedAt": "2026-07-20T17:24:56.601Z",
+      "sourceId": "af832c75a2ac60e7d973c64a92139460"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "inference-startup-infinity-raises-15m-from-touring",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-s-natural-look-camera-app-embraces-generativ",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+  "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+  "pubDate": "2026-07-20T16:00:00.000Z",
+  "slides": [
+    "Why would Adobe call AI photos 'natural'?",
+    "Its new app adds or removes objects with one tap.",
+    "The result often looks untouched—until you zoom in.",
+    "Your editing workflow now starts without a desktop.",
+    "Test it yourself: edit a photo without opening Photoshop."
+  ],
+  "thread_text": [
+    "Why call AI photos natural?\n\nAdobe’s new app can add or remove objects with one tap — no desktop needed.",
+    "The result fools you at first glance.\n\nZoom in and edges blur, shadows shift. The illusion breaks at pixel level.",
+    "Your editing workflow just left the desktop.\n\nStart editing on your phone. Finish on the bus. Photoshop never opens.",
+    "One tap, two realities.\n\nYou can delete a power line or add a mountain. Which part of the photo is still real?",
+    "Test it this week.\n\nEdit a photo of your own space using only the app. Does the result pass your zoom test?"
+  ],
+  "video_script": [
+    "Adobe calls AI edits natural. But zoom in.",
+    "One tap adds or removes objects.",
+    "Looks untouched until you check pixels.",
+    "You can edit without a desktop now.",
+    "Test your own photo this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Why call AI photos natural?\n\nAdobe’s new app can add or remove objects with one tap — no desktop needed.",
+        "The result fools you at first glance.\n\nZoom in and edges blur, shadows shift. The illusion breaks at pixel level.",
+        "Your editing workflow just left the desktop.\n\nStart editing on your phone. Finish on the bus. Photoshop never opens.",
+        "One tap, two realities.\n\nYou can delete a power line or add a mountain. Which part of the photo is still real?",
+        "Test it this week.\n\nEdit a photo of your own space using only the app. Does the result pass your zoom test?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe calls AI edits natural. But zoom in.",
+        "One tap adds or removes objects.",
+        "Looks untouched until you check pixels.",
+        "You can edit without a desktop now.",
+        "Test your own photo this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A single tap can now add a mountain or delete a power line from your photo—directly in Adobe's new camera app. 📸\n\nThe app applies generative AI in real time. The result looks untouched, until you zoom in and see the edges blur and shadows shift. 🌫️\n\nYour editing workflow just left the desktop. You can start and finish a complex edit on your phone, never opening Photoshop.\n\nThe consequence: one tap, two realities. You decide which part of the shot is still real.\n\nTake a photo of your own space tonight. Edit it using only the app. Does your result pass the zoom test? 🔍"
+    }
+  },
+  "instagram_caption": "A single tap can now add a mountain or delete a power line from your photo—directly in Adobe's new camera app. 📸\n\nThe app applies generative AI in real time. The result looks untouched, until you zoom in and see the edges blur and shadows shift. 🌫️\n\nYour editing workflow just left the desktop. You can start and finish a complex edit on your phone, never opening Photoshop.\n\nThe consequence: one tap, two realities. You decide which part of the shot is still real.\n\nTake a photo of your own space tonight. Edit it using only the app. Does your result pass the zoom test? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "What if natural isn’t real?",
+      "description": "Adobe’s new app adds or removes objects in one tap. The illusion breaks when you zoom in.",
+      "visual_hint": "zoomed photo edge artifacts",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "photo editing app screen"
+    },
+    {
+      "hook": "One tap, two realities.",
+      "description": "Delete a power line or add a mountain. Which part of the photo is still real?",
+      "visual_hint": "half-edited landscape split",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mountain landscape power line",
+      "image": "https://images.pexels.com/photos/13200126/pexels-photo-13200126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zoom in and doubt.",
+      "description": "Edges blur, shadows shift. The illusion breaks at pixel level on closer inspection.",
+      "visual_hint": "digital zoom circle crop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "zoom lens close up",
+      "image": "https://images.pexels.com/photos/4046344/pexels-photo-4046344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start editing on the bus.",
+      "description": "Your workflow leaves the desktop. Edit on your phone, finish anywhere — Photoshop never opens.",
+      "visual_hint": "hand holding phone outdoors",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding smartphone bus",
+      "image": "https://images.pexels.com/photos/18120519/pexels-photo-18120519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test.",
+      "description": "Edit a photo of your own space with only the app. Does it pass your zoom test?",
+      "visual_hint": "phone gallery with edit button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "photo gallery smartphone interface",
+      "image": "https://images.pexels.com/photos/4549416/pexels-photo-4549416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-20T17:25:10.738Z",
+  "sourceId": "128f757a10821119152747b1ce06f69e"
+}

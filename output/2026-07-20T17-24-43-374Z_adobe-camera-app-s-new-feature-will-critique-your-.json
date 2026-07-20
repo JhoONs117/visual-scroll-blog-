@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-camera-app-s-new-feature-will-critique-your-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe camera app’s new feature will critique your photos using AI",
+  "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+  "pubDate": "Mon, 20 Jul 2026 15:45:00 +0000",
+  "slides": [
+    "Can Adobe’s AI finally fix your worst photos?",
+    "It analyzes composition, lighting, and focus instantly.",
+    "But it won’t tell you the best crop—yet.",
+    "Editors now get instant feedback before sharing.",
+    "Upload a favorite image and compare its critique."
+  ],
+  "thread_text": [
+    "1. AI sees your mistakes.\n\nAdobe's tool analyzes composition, lighting, and focus instantly—finding flaws you might miss.",
+    "2. The blind spot.\n\nIt can't tell you the best crop. Judgment on framing still needs a human eye.",
+    "3. Feedback before sharing.\n\nEditors now get instant analysis before posting, cutting revision cycles short.",
+    "4. Test it yourself.\n\nUpload a favorite image and compare its critique to your own. The gap reveals what you overlook.",
+    "5. Try the crop test.\n\nTake one of your photos, ask the AI for feedback, then choose the crop yourself. Does it match your instinct?"
+  ],
+  "video_script": [
+    "Adobe's AI spots photo problems instantly.",
+    "It won't suggest the best crop.",
+    "Editors get fast feedback before posting.",
+    "Upload an image to compare critiques.",
+    "Test it against your own judgment today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI sees your mistakes.\n\nAdobe's tool analyzes composition, lighting, and focus instantly—finding flaws you might miss.",
+        "2. The blind spot.\n\nIt can't tell you the best crop. Judgment on framing still needs a human eye.",
+        "3. Feedback before sharing.\n\nEditors now get instant analysis before posting, cutting revision cycles short.",
+        "4. Test it yourself.\n\nUpload a favorite image and compare its critique to your own. The gap reveals what you overlook.",
+        "5. Try the crop test.\n\nTake one of your photos, ask the AI for feedback, then choose the crop yourself. Does it match your instinct?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe's AI spots photo problems instantly.",
+        "It won't suggest the best crop.",
+        "Editors get fast feedback before posting.",
+        "Upload an image to compare critiques.",
+        "Test it against your own judgment today."
+      ]
+    },
+    "instagram": {
+      "caption": "That new Adobe camera app can spot your bad composition or lighting in seconds—before you even hit share.\n\nIt checks focus, exposure, and structure instantly. You get feedback while you still have time to adjust.\n\nBut it won’t choose the crop for you. That judgment stays with the human eye.\n\nFor editors and casual shooters, it means fewer revisions and faster posts.\n\nUpload your own best photo: does the AI critique what you see, or does it reveal what you missed? ✍️"
+    }
+  },
+  "instagram_caption": "That new Adobe camera app can spot your bad composition or lighting in seconds—before you even hit share.\n\nIt checks focus, exposure, and structure instantly. You get feedback while you still have time to adjust.\n\nBut it won’t choose the crop for you. That judgment stays with the human eye.\n\nFor editors and casual shooters, it means fewer revisions and faster posts.\n\nUpload your own best photo: does the AI critique what you see, or does it reveal what you missed? ✍️",
+  "carousel_slides": [
+    {
+      "hook": "What if AI judged your photos?",
+      "description": "Adobe's tool instantly analyzes composition, lighting, and focus to reveal hidden flaws.",
+      "visual_hint": "AI analysis on photo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "camera lens closeup"
+    },
+    {
+      "hook": "It sees flaws you miss.",
+      "description": "The AI finds mistakes in lighting and focus, but framing judgments still need a human eye.",
+      "visual_hint": "Photo with glitch overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "blurred cityscape",
+      "image": "https://images.pexels.com/photos/19035877/pexels-photo-19035877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But can't pick the best crop.",
+      "description": "It doesn't recommend cropping yet—that decision remains your creative instinct.",
+      "visual_hint": "Crop grid on image",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "crop tool screenshot",
+      "image": "https://images.pexels.com/photos/27467595/pexels-photo-27467595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Get feedback before posting.",
+      "description": "Editors receive instant analysis before sharing, cutting revision cycles and improving results.",
+      "visual_hint": "Phone showing critique",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone editing app",
+      "image": "https://images.pexels.com/photos/7610521/pexels-photo-7610521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your eye.",
+      "description": "Upload your favorite photo, compare its AI critique to your own instinct.",
+      "visual_hint": "Before and after comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "side by side photos",
+      "image": "https://images.pexels.com/photos/7014515/pexels-photo-7014515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
+  "savedAt": "2026-07-20T17:24:56.601Z",
+  "sourceId": "af832c75a2ac60e7d973c64a92139460"
+}
