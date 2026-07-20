@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "natural-raises-30m-to-reinvent-payments-for-ai-age",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "pubDate": "Mon, 20 Jul 2026 19:11:25 +0000",
+      "slides": [
+        "Natural has $30M—but is Stripe already unbeatable?",
+        "AI agents need to pay instantly and autonomously.",
+        "Stripe bills humans—Natural bills machines.",
+        "Your agent can now transact without you approving.",
+        "Test agent-led payments today—before your competitor does."
+      ],
+      "thread_text": [
+        "1. Is Stripe already unbeatable?\n\nNatural just raised $30M to let AI agents spend money without human approval—while Stripe still bills humans.",
+        "2. Humans slow machines down.\n\nStripe requires a person to verify each payment. Natural lets AI agents pay instantly, autonomously, in microseconds.",
+        "3. Your agent now bypasses you.\n\nNatural connects to Stripe rails but decides when and where to send money—no confirmation, no review, no you.",
+        "4. Machines billing machines.\n\nStripe charges people for subscriptions. Natural charges AI agents for compute, API calls, or data—each transaction approved by code, not a click.",
+        "5. Test agent-led payments before your competitor does.\n\nGo to Natural's site, plug in a test agent, and let it buy $1 of credits. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Natural raised 30 million to challenge Stripe.",
+        "Your AI agent can pay without you.",
+        "No human approval needed for any transaction.",
+        "Stripe bills people. Natural bills machines.",
+        "Test it today before your competitor does."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Is Stripe already unbeatable?\n\nNatural just raised $30M to let AI agents spend money without human approval—while Stripe still bills humans.",
+            "2. Humans slow machines down.\n\nStripe requires a person to verify each payment. Natural lets AI agents pay instantly, autonomously, in microseconds.",
+            "3. Your agent now bypasses you.\n\nNatural connects to Stripe rails but decides when and where to send money—no confirmation, no review, no you.",
+            "4. Machines billing machines.\n\nStripe charges people for subscriptions. Natural charges AI agents for compute, API calls, or data—each transaction approved by code, not a click.",
+            "5. Test agent-led payments before your competitor does.\n\nGo to Natural's site, plug in a test agent, and let it buy $1 of credits. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Natural raised 30 million to challenge Stripe.",
+            "Your AI agent can pay without you.",
+            "No human approval needed for any transaction.",
+            "Stripe bills people. Natural bills machines.",
+            "Test it today before your competitor does."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI agent can now spend your real money without asking permission—Natural just raised $30M to bypass you in every payment.\n\nNatural replaces Stripe’s human-approval loop with machine-to-machine transactions, letting AI agents pay for compute, API calls, or data in microseconds. Stripe bills people; Natural bills code.\n\nFor anyone publishing content via AI tools: your agent can now instantly buy credits, ads, or hosting—no review, no confirmation from you, no stop button.\n\nIf your agent had $100 right now, where would it spend it before you checked the receipt?"
+        }
+      },
+      "instagram_caption": "Your AI agent can now spend your real money without asking permission—Natural just raised $30M to bypass you in every payment.\n\nNatural replaces Stripe’s human-approval loop with machine-to-machine transactions, letting AI agents pay for compute, API calls, or data in microseconds. Stripe bills people; Natural bills code.\n\nFor anyone publishing content via AI tools: your agent can now instantly buy credits, ads, or hosting—no review, no confirmation from you, no stop button.\n\nIf your agent had $100 right now, where would it spend it before you checked the receipt?",
+      "carousel_slides": [
+        {
+          "hook": "Is Stripe already unbeatable?",
+          "description": "Natural raised $30M to let AI agents spend money without human approval—challenging Stripe's human-first model.",
+          "visual_hint": "Two logos facing each other",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Stripe Natural logos"
+        },
+        {
+          "hook": "Humans slow machines down.",
+          "description": "Stripe needs human verification for each payment. Natural enables AI agents to pay instantly in microseconds.",
+          "visual_hint": "Lightning bolt over payment screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your agent bypasses you now.",
+          "description": "Natural connects to Stripe rails but lets AI send money autonomously—no confirmation, no review, no you.",
+          "visual_hint": "Agent icon crossing out human",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot hand pressing button",
+          "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Machines billing machines.",
+          "description": "Stripe charges people for subscriptions. Natural charges AI agents for compute and API calls—code approves, not clicks.",
+          "visual_hint": "Two machines exchanging coins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test agent-led payments now.",
+          "description": "Go to Natural's site, plug in a test agent, and let it buy $1 of credits. Start before your competitor does.",
+          "visual_hint": "Arrow pointing to link in bio",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with code on screen",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Team-Photo.jpg?resize=1200,800",
+      "savedAt": "2026-07-20T19:26:47.854Z",
+      "sourceId": "3b423b75db7d53aa71cfd9ec7a20cf3e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "adobe-s-natural-look-camera-app-embraces-generativ",
       "prompt_version": "1.0.0",
       "status": "published",
