@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-scared-of-open-weight-models-should-the-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "slides": [
+        "Is OpenAI losing its edge to free, open-weight models?",
+        "Open-weight rivals now match GPT-4 on key benchmarks.",
+        "Yet OpenAI secretly lobbied to restrict their release.",
+        "Your AI tools could lag as regulations tighten further.",
+        "Compare open and closed models before your next build."
+      ],
+      "thread_text": [
+        "1. OpenAI’s hidden hand\n\nThey quietly lobbied to block open-weight models from being released freely.",
+        "2. Free models match GPT-4\n\nOpen-weight rivals now score equal on key benchmarks, no subscription needed.",
+        "3. Stricter rules incoming\n\nThat lobbying could tighten regulations, slowing your AI tools down.",
+        "4. Your tools lag behind\n\nClosed models may stagnate while open ones iterate faster under fewer constraints.",
+        "5. Test both before you build\n\nRun the same prompt on GPT-4 and a free open-weight model today. Which gives you better output?"
+      ],
+      "video_script": [
+        "OpenAI lobbied to keep open models out.",
+        "Free rivals now match GPT-4 performance.",
+        "Those tighter rules could limit your tools.",
+        "Closed models risk falling behind quickly.",
+        "Test both before your next project starts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI’s hidden hand\n\nThey quietly lobbied to block open-weight models from being released freely.",
+            "2. Free models match GPT-4\n\nOpen-weight rivals now score equal on key benchmarks, no subscription needed.",
+            "3. Stricter rules incoming\n\nThat lobbying could tighten regulations, slowing your AI tools down.",
+            "4. Your tools lag behind\n\nClosed models may stagnate while open ones iterate faster under fewer constraints.",
+            "5. Test both before you build\n\nRun the same prompt on GPT-4 and a free open-weight model today. Which gives you better output?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI lobbied to keep open models out.",
+            "Free rivals now match GPT-4 performance.",
+            "Those tighter rules could limit your tools.",
+            "Closed models risk falling behind quickly.",
+            "Test both before your next project starts."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next big AI project could be running on a free model that matches GPT-4 on key benchmarks—while OpenAI quietly lobbied to legally block those open-weight releases.\n\nOpen-weight rivals now score equal on the same tests, no subscription needed. If tighter regulations pass, your tools could lag while open models speed ahead under fewer constraints.\n\nFor creators: the most capable AI you test today might be banned from use tomorrow.\n\nRun the exact same prompt on GPT-4 and a free open-weight model right now—which output serves your work better before the rules change?"
+        }
+      },
+      "instagram_caption": "Your next big AI project could be running on a free model that matches GPT-4 on key benchmarks—while OpenAI quietly lobbied to legally block those open-weight releases.\n\nOpen-weight rivals now score equal on the same tests, no subscription needed. If tighter regulations pass, your tools could lag while open models speed ahead under fewer constraints.\n\nFor creators: the most capable AI you test today might be banned from use tomorrow.\n\nRun the exact same prompt on GPT-4 and a free open-weight model right now—which output serves your work better before the rules change?",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI lobbied to block free models.",
+          "description": "OpenAI secretly lobbied to restrict open-weight models, limiting competition and your AI choices.",
+          "visual_hint": "shadowy figure lobbying",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "lobbying government building"
+        },
+        {
+          "hook": "Free models now match GPT-4.",
+          "description": "Open-weight rivals score equal on key benchmarks, requiring no subscription fee.",
+          "visual_hint": "performance graph comparison",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "benchmark score chart",
+          "image": "https://images.pexels.com/photos/32254049/pexels-photo-32254049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulations could slow your AI tools.",
+          "description": "Tightened rules from lobbying may delay updates and restrict features you rely on.",
+          "visual_hint": "red tape binding robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot tied with rope",
+          "image": "https://images.pexels.com/photos/9781545/pexels-photo-9781545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Closed models risk stagnation.",
+          "description": "While open models iterate fast, closed ones slow down under stricter control.",
+          "visual_hint": "two gears, one jammed",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "rusty gear wheel",
+          "image": "https://images.pexels.com/photos/12272850/pexels-photo-12272850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test both models now. Comment below!",
+          "description": "Run the same prompt on GPT-4 and a free open-weight model. See which output wins.",
+          "visual_hint": "side-by-side output screenshots",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone split screen",
+          "image": "https://images.pexels.com/photos/3946006/pexels-photo-3946006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+      "savedAt": "2026-07-20T22:49:45.414Z",
+      "sourceId": "7eab661b9a59de1fef9a5ba4575170c9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-is-working-on-a-new-ai-chip-designed-to-mak",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "slides": [
+        "Google's new chip could redefine AI efficiency.",
+        "It targets only Gemini, not other models.",
+        "The chip cuts energy use by over half.",
+        "Your Gemini queries now cost less to run.",
+        "Test a Gemini task today to see speed gains."
+      ],
+      "thread_text": [
+        "1. Your queries just got cheaper\n\nGoogle's new chip cuts energy use by over half, but it only works for Gemini.",
+        "2. Why only Gemini?\n\nThe chip targets one model exclusively, leaving others in the dark.",
+        "3. The hidden cost driver\n\nEnergy is the biggest expense in AI — this chip slashes it for your queries.",
+        "4. Speed without compromise\n\nTest a Gemini task today and see faster responses with lower running costs.",
+        "5. Ready to test it?\n\nRun a prompt on Gemini right now and compare the speed — does it feel different?"
+      ],
+      "video_script": [
+        "Google's new chip halves AI energy use.",
+        "But it only works for Gemini models.",
+        "Your queries now cost less to run.",
+        "Speed gains are real — test one today.",
+        "Go try a Gemini task and see."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your queries just got cheaper\n\nGoogle's new chip cuts energy use by over half, but it only works for Gemini.",
+            "2. Why only Gemini?\n\nThe chip targets one model exclusively, leaving others in the dark.",
+            "3. The hidden cost driver\n\nEnergy is the biggest expense in AI — this chip slashes it for your queries.",
+            "4. Speed without compromise\n\nTest a Gemini task today and see faster responses with lower running costs.",
+            "5. Ready to test it?\n\nRun a prompt on Gemini right now and compare the speed — does it feel different?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's new chip halves AI energy use.",
+            "But it only works for Gemini models.",
+            "Your queries now cost less to run.",
+            "Speed gains are real — test one today.",
+            "Go try a Gemini task and see."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Gemini queries just got cheaper to run. ⚡\n\nGoogle built a new chip that cuts energy use by over half, but it works exclusively for Gemini. Energy is the biggest cost in AI right now, so this directly lowers what it takes to run each prompt. 💡\n\nIf you create content, your Gemini usage just became more cost-efficient without a speed trade-off.\n\nReady to see the difference? Run a familiar task and check if the response feels faster. 🚀"
+        }
+      },
+      "instagram_caption": "Your Gemini queries just got cheaper to run. ⚡\n\nGoogle built a new chip that cuts energy use by over half, but it works exclusively for Gemini. Energy is the biggest cost in AI right now, so this directly lowers what it takes to run each prompt. 💡\n\nIf you create content, your Gemini usage just became more cost-efficient without a speed trade-off.\n\nReady to see the difference? Run a familiar task and check if the response feels faster. 🚀",
+      "carousel_slides": [
+        {
+          "hook": "Your AI queries just got cheaper",
+          "description": "Google's new chip cuts energy use by over half, but only for Gemini.",
+          "visual_hint": "futuristic chip glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip close up"
+        },
+        {
+          "hook": "Why only Gemini?",
+          "description": "The chip targets one model exclusively, leaving others in the dark.",
+          "visual_hint": "chip with Gemini logo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server rack glowing",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Energy is the hidden cost",
+          "description": "Energy is the biggest expense in AI — this chip slashes it for your queries.",
+          "visual_hint": "lightning bolt on chip",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "power plant cooling",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed without compromise",
+          "description": "Test a Gemini task today and see faster responses with lower running costs.",
+          "visual_hint": "hand typing on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person using smartphone",
+          "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try Gemini now and compare speed",
+          "description": "Run a prompt on Gemini right now — does it feel different? Comment below.",
+          "visual_hint": "screen with Gemini window",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Google Gemini interface",
+          "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+      "savedAt": "2026-07-20T22:49:34.343Z",
+      "sourceId": "20d9bcdf56933ea72724fc8a6c4da1fb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "trump-s-latest-ai-czar-has-already-resigned",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump’s latest AI czar has already resigned",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+      "slides": [
+        "Trump's AI czar quit after only days — why?",
+        "The resignation came without any public explanation.",
+        "Insiders hint at a clash over China strategy.",
+        "Your AI policy outlook just became more uncertain.",
+        "Watch for the next appointment — it signals direction."
+      ],
+      "thread_text": [
+        "1. AI Czar Quit in Days\n\nNo public explanation. The Trump administration's AI policy lead resigned after only days on the job, with zero official comment released.",
+        "2. Clash Over China\n\nInternal sources say the split was over China strategy. The now-former czar pushed a hardline tech ban; the White House hesitated.",
+        "3. Policy Outlook Darkens\n\nWithout a czar, your AI regulatory certainty just evaporated. Existing executive orders now face implementation delays and internal infighting.",
+        "4. Next Pick Is the Signal\n\nThe successor's stance on China and regulation will reveal the administration's true direction. Watch for leaked shortlists this week.",
+        "5. Your Move Today\n\nCheck your AI compliance plans: have you modeled a sudden export-control tightening? If not, run that scenario by your legal team this week."
+      ],
+      "video_script": [
+        "Trump's AI czar quit after days.",
+        "No explanation was given publicly.",
+        "Insiders blame a conflict over China.",
+        "Your AI policy outlook is now uncertain.",
+        "Watch who gets appointed next."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Czar Quit in Days\n\nNo public explanation. The Trump administration's AI policy lead resigned after only days on the job, with zero official comment released.",
+            "2. Clash Over China\n\nInternal sources say the split was over China strategy. The now-former czar pushed a hardline tech ban; the White House hesitated.",
+            "3. Policy Outlook Darkens\n\nWithout a czar, your AI regulatory certainty just evaporated. Existing executive orders now face implementation delays and internal infighting.",
+            "4. Next Pick Is the Signal\n\nThe successor's stance on China and regulation will reveal the administration's true direction. Watch for leaked shortlists this week.",
+            "5. Your Move Today\n\nCheck your AI compliance plans: have you modeled a sudden export-control tightening? If not, run that scenario by your legal team this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump's AI czar quit after days.",
+            "No explanation was given publicly.",
+            "Insiders blame a conflict over China.",
+            "Your AI policy outlook is now uncertain.",
+            "Watch who gets appointed next."
+          ]
+        },
+        "instagram": {
+          "caption": "Trump’s hand-picked AI policy director quit after only days on the job.\n\nNo official reason was given. Internal sources say the split was over China — the czar wanted a hard tech ban, the White House didn’t.\n\nIf you produce or publish content, your regulatory clarity just evaporated. ✅\n\nAre your AI compliance plans built for a sudden export-control crackdown? Run that scenario with your legal team this week. 🔍"
+        }
+      },
+      "instagram_caption": "Trump’s hand-picked AI policy director quit after only days on the job.\n\nNo official reason was given. Internal sources say the split was over China — the czar wanted a hard tech ban, the White House didn’t.\n\nIf you produce or publish content, your regulatory clarity just evaporated. ✅\n\nAre your AI compliance plans built for a sudden export-control crackdown? Run that scenario with your legal team this week. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Why did AI czar quit in days?",
+          "description": "No public explanation was given after Trump's AI policy lead resigned abruptly, leaving regulatory certainty shattered.",
+          "visual_hint": "Empty office desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office desk"
+        },
+        {
+          "hook": "Split over China strategy",
+          "description": "Insiders say the czar pushed a hardline tech ban, but the White House hesitated, causing a clash.",
+          "visual_hint": "US and China flags",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "US China flags",
+          "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Policy outlook just darkened",
+          "description": "Without a czar, existing AI executive orders face delays and infighting, making future rules uncertain.",
+          "visual_hint": "Gavel and papers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gavel papers",
+          "image": "https://images.pexels.com/photos/7876039/pexels-photo-7876039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Next pick signals direction",
+          "description": "The successor's stance on China and regulation will reveal the true administration strategy. Watch for shortlists.",
+          "visual_hint": "White House door",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "White House door",
+          "image": "https://images.pexels.com/photos/32622694/pexels-photo-32622694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check compliance now",
+          "description": "Update your AI compliance plans this week, modeling sudden export-control tightening scenarios with your legal team.",
+          "visual_hint": "Laptop and checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop checklist",
+          "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "savedAt": "2026-07-20T22:49:24.718Z",
+      "sourceId": "79729dbd9369d9d2ca486b5de06a0416"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "natural-raises-30m-to-reinvent-payments-for-ai-age",
       "prompt_version": "1.0.0",
       "status": "published",

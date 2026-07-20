@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-is-scared-of-open-weight-models-should-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI is scared of open-weight models. Should the US be?",
+  "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+  "pubDate": "Mon, 20 Jul 2026 19:33:25 +0000",
+  "slides": [
+    "Is OpenAI losing its edge to free, open-weight models?",
+    "Open-weight rivals now match GPT-4 on key benchmarks.",
+    "Yet OpenAI secretly lobbied to restrict their release.",
+    "Your AI tools could lag as regulations tighten further.",
+    "Compare open and closed models before your next build."
+  ],
+  "thread_text": [
+    "1. OpenAI’s hidden hand\n\nThey quietly lobbied to block open-weight models from being released freely.",
+    "2. Free models match GPT-4\n\nOpen-weight rivals now score equal on key benchmarks, no subscription needed.",
+    "3. Stricter rules incoming\n\nThat lobbying could tighten regulations, slowing your AI tools down.",
+    "4. Your tools lag behind\n\nClosed models may stagnate while open ones iterate faster under fewer constraints.",
+    "5. Test both before you build\n\nRun the same prompt on GPT-4 and a free open-weight model today. Which gives you better output?"
+  ],
+  "video_script": [
+    "OpenAI lobbied to keep open models out.",
+    "Free rivals now match GPT-4 performance.",
+    "Those tighter rules could limit your tools.",
+    "Closed models risk falling behind quickly.",
+    "Test both before your next project starts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI’s hidden hand\n\nThey quietly lobbied to block open-weight models from being released freely.",
+        "2. Free models match GPT-4\n\nOpen-weight rivals now score equal on key benchmarks, no subscription needed.",
+        "3. Stricter rules incoming\n\nThat lobbying could tighten regulations, slowing your AI tools down.",
+        "4. Your tools lag behind\n\nClosed models may stagnate while open ones iterate faster under fewer constraints.",
+        "5. Test both before you build\n\nRun the same prompt on GPT-4 and a free open-weight model today. Which gives you better output?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI lobbied to keep open models out.",
+        "Free rivals now match GPT-4 performance.",
+        "Those tighter rules could limit your tools.",
+        "Closed models risk falling behind quickly.",
+        "Test both before your next project starts."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next big AI project could be running on a free model that matches GPT-4 on key benchmarks—while OpenAI quietly lobbied to legally block those open-weight releases.\n\nOpen-weight rivals now score equal on the same tests, no subscription needed. If tighter regulations pass, your tools could lag while open models speed ahead under fewer constraints.\n\nFor creators: the most capable AI you test today might be banned from use tomorrow.\n\nRun the exact same prompt on GPT-4 and a free open-weight model right now—which output serves your work better before the rules change?"
+    }
+  },
+  "instagram_caption": "Your next big AI project could be running on a free model that matches GPT-4 on key benchmarks—while OpenAI quietly lobbied to legally block those open-weight releases.\n\nOpen-weight rivals now score equal on the same tests, no subscription needed. If tighter regulations pass, your tools could lag while open models speed ahead under fewer constraints.\n\nFor creators: the most capable AI you test today might be banned from use tomorrow.\n\nRun the exact same prompt on GPT-4 and a free open-weight model right now—which output serves your work better before the rules change?",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI lobbied to block free models.",
+      "description": "OpenAI secretly lobbied to restrict open-weight models, limiting competition and your AI choices.",
+      "visual_hint": "shadowy figure lobbying",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "lobbying government building"
+    },
+    {
+      "hook": "Free models now match GPT-4.",
+      "description": "Open-weight rivals score equal on key benchmarks, requiring no subscription fee.",
+      "visual_hint": "performance graph comparison",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "benchmark score chart",
+      "image": "https://images.pexels.com/photos/32254049/pexels-photo-32254049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulations could slow your AI tools.",
+      "description": "Tightened rules from lobbying may delay updates and restrict features you rely on.",
+      "visual_hint": "red tape binding robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot tied with rope",
+      "image": "https://images.pexels.com/photos/9781545/pexels-photo-9781545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Closed models risk stagnation.",
+      "description": "While open models iterate fast, closed ones slow down under stricter control.",
+      "visual_hint": "two gears, one jammed",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rusty gear wheel",
+      "image": "https://images.pexels.com/photos/12272850/pexels-photo-12272850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test both models now. Comment below!",
+      "description": "Run the same prompt on GPT-4 and a free open-weight model. See which output wins.",
+      "visual_hint": "side-by-side output screenshots",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone split screen",
+      "image": "https://images.pexels.com/photos/3946006/pexels-photo-3946006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+  "savedAt": "2026-07-20T22:49:45.414Z",
+  "sourceId": "7eab661b9a59de1fef9a5ba4575170c9"
+}

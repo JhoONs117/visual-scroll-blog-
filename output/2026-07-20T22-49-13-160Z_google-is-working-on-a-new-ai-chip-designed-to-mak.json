@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-is-working-on-a-new-ai-chip-designed-to-mak",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+  "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+  "pubDate": "Mon, 20 Jul 2026 21:21:15 +0000",
+  "slides": [
+    "Google's new chip could redefine AI efficiency.",
+    "It targets only Gemini, not other models.",
+    "The chip cuts energy use by over half.",
+    "Your Gemini queries now cost less to run.",
+    "Test a Gemini task today to see speed gains."
+  ],
+  "thread_text": [
+    "1. Your queries just got cheaper\n\nGoogle's new chip cuts energy use by over half, but it only works for Gemini.",
+    "2. Why only Gemini?\n\nThe chip targets one model exclusively, leaving others in the dark.",
+    "3. The hidden cost driver\n\nEnergy is the biggest expense in AI — this chip slashes it for your queries.",
+    "4. Speed without compromise\n\nTest a Gemini task today and see faster responses with lower running costs.",
+    "5. Ready to test it?\n\nRun a prompt on Gemini right now and compare the speed — does it feel different?"
+  ],
+  "video_script": [
+    "Google's new chip halves AI energy use.",
+    "But it only works for Gemini models.",
+    "Your queries now cost less to run.",
+    "Speed gains are real — test one today.",
+    "Go try a Gemini task and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your queries just got cheaper\n\nGoogle's new chip cuts energy use by over half, but it only works for Gemini.",
+        "2. Why only Gemini?\n\nThe chip targets one model exclusively, leaving others in the dark.",
+        "3. The hidden cost driver\n\nEnergy is the biggest expense in AI — this chip slashes it for your queries.",
+        "4. Speed without compromise\n\nTest a Gemini task today and see faster responses with lower running costs.",
+        "5. Ready to test it?\n\nRun a prompt on Gemini right now and compare the speed — does it feel different?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's new chip halves AI energy use.",
+        "But it only works for Gemini models.",
+        "Your queries now cost less to run.",
+        "Speed gains are real — test one today.",
+        "Go try a Gemini task and see."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Gemini queries just got cheaper to run. ⚡\n\nGoogle built a new chip that cuts energy use by over half, but it works exclusively for Gemini. Energy is the biggest cost in AI right now, so this directly lowers what it takes to run each prompt. 💡\n\nIf you create content, your Gemini usage just became more cost-efficient without a speed trade-off.\n\nReady to see the difference? Run a familiar task and check if the response feels faster. 🚀"
+    }
+  },
+  "instagram_caption": "Your Gemini queries just got cheaper to run. ⚡\n\nGoogle built a new chip that cuts energy use by over half, but it works exclusively for Gemini. Energy is the biggest cost in AI right now, so this directly lowers what it takes to run each prompt. 💡\n\nIf you create content, your Gemini usage just became more cost-efficient without a speed trade-off.\n\nReady to see the difference? Run a familiar task and check if the response feels faster. 🚀",
+  "carousel_slides": [
+    {
+      "hook": "Your AI queries just got cheaper",
+      "description": "Google's new chip cuts energy use by over half, but only for Gemini.",
+      "visual_hint": "futuristic chip glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip close up"
+    },
+    {
+      "hook": "Why only Gemini?",
+      "description": "The chip targets one model exclusively, leaving others in the dark.",
+      "visual_hint": "chip with Gemini logo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server rack glowing",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Energy is the hidden cost",
+      "description": "Energy is the biggest expense in AI — this chip slashes it for your queries.",
+      "visual_hint": "lightning bolt on chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power plant cooling",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed without compromise",
+      "description": "Test a Gemini task today and see faster responses with lower running costs.",
+      "visual_hint": "hand typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Gemini now and compare speed",
+      "description": "Run a prompt on Gemini right now — does it feel different? Comment below.",
+      "visual_hint": "screen with Gemini window",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Google Gemini interface",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+  "savedAt": "2026-07-20T22:49:34.343Z",
+  "sourceId": "20d9bcdf56933ea72724fc8a6c4da1fb"
+}

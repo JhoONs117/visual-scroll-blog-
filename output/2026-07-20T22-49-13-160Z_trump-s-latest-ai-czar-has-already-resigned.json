@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-latest-ai-czar-has-already-resigned",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s latest AI czar has already resigned",
+  "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+  "pubDate": "Mon, 20 Jul 2026 22:21:04 +0000",
+  "slides": [
+    "Trump's AI czar quit after only days — why?",
+    "The resignation came without any public explanation.",
+    "Insiders hint at a clash over China strategy.",
+    "Your AI policy outlook just became more uncertain.",
+    "Watch for the next appointment — it signals direction."
+  ],
+  "thread_text": [
+    "1. AI Czar Quit in Days\n\nNo public explanation. The Trump administration's AI policy lead resigned after only days on the job, with zero official comment released.",
+    "2. Clash Over China\n\nInternal sources say the split was over China strategy. The now-former czar pushed a hardline tech ban; the White House hesitated.",
+    "3. Policy Outlook Darkens\n\nWithout a czar, your AI regulatory certainty just evaporated. Existing executive orders now face implementation delays and internal infighting.",
+    "4. Next Pick Is the Signal\n\nThe successor's stance on China and regulation will reveal the administration's true direction. Watch for leaked shortlists this week.",
+    "5. Your Move Today\n\nCheck your AI compliance plans: have you modeled a sudden export-control tightening? If not, run that scenario by your legal team this week."
+  ],
+  "video_script": [
+    "Trump's AI czar quit after days.",
+    "No explanation was given publicly.",
+    "Insiders blame a conflict over China.",
+    "Your AI policy outlook is now uncertain.",
+    "Watch who gets appointed next."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Czar Quit in Days\n\nNo public explanation. The Trump administration's AI policy lead resigned after only days on the job, with zero official comment released.",
+        "2. Clash Over China\n\nInternal sources say the split was over China strategy. The now-former czar pushed a hardline tech ban; the White House hesitated.",
+        "3. Policy Outlook Darkens\n\nWithout a czar, your AI regulatory certainty just evaporated. Existing executive orders now face implementation delays and internal infighting.",
+        "4. Next Pick Is the Signal\n\nThe successor's stance on China and regulation will reveal the administration's true direction. Watch for leaked shortlists this week.",
+        "5. Your Move Today\n\nCheck your AI compliance plans: have you modeled a sudden export-control tightening? If not, run that scenario by your legal team this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump's AI czar quit after days.",
+        "No explanation was given publicly.",
+        "Insiders blame a conflict over China.",
+        "Your AI policy outlook is now uncertain.",
+        "Watch who gets appointed next."
+      ]
+    },
+    "instagram": {
+      "caption": "Trump’s hand-picked AI policy director quit after only days on the job.\n\nNo official reason was given. Internal sources say the split was over China — the czar wanted a hard tech ban, the White House didn’t.\n\nIf you produce or publish content, your regulatory clarity just evaporated. ✅\n\nAre your AI compliance plans built for a sudden export-control crackdown? Run that scenario with your legal team this week. 🔍"
+    }
+  },
+  "instagram_caption": "Trump’s hand-picked AI policy director quit after only days on the job.\n\nNo official reason was given. Internal sources say the split was over China — the czar wanted a hard tech ban, the White House didn’t.\n\nIf you produce or publish content, your regulatory clarity just evaporated. ✅\n\nAre your AI compliance plans built for a sudden export-control crackdown? Run that scenario with your legal team this week. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Why did AI czar quit in days?",
+      "description": "No public explanation was given after Trump's AI policy lead resigned abruptly, leaving regulatory certainty shattered.",
+      "visual_hint": "Empty office desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office desk"
+    },
+    {
+      "hook": "Split over China strategy",
+      "description": "Insiders say the czar pushed a hardline tech ban, but the White House hesitated, causing a clash.",
+      "visual_hint": "US and China flags",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "US China flags",
+      "image": "https://images.pexels.com/photos/4386344/pexels-photo-4386344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Policy outlook just darkened",
+      "description": "Without a czar, existing AI executive orders face delays and infighting, making future rules uncertain.",
+      "visual_hint": "Gavel and papers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel papers",
+      "image": "https://images.pexels.com/photos/7876039/pexels-photo-7876039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Next pick signals direction",
+      "description": "The successor's stance on China and regulation will reveal the true administration strategy. Watch for shortlists.",
+      "visual_hint": "White House door",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "White House door",
+      "image": "https://images.pexels.com/photos/32622694/pexels-photo-32622694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check compliance now",
+      "description": "Update your AI compliance plans this week, modeling sudden export-control tightening scenarios with your legal team.",
+      "visual_hint": "Laptop and checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop checklist",
+      "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+  "savedAt": "2026-07-20T22:49:24.718Z",
+  "sourceId": "79729dbd9369d9d2ca486b5de06a0416"
+}
