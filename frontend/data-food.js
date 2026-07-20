@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-di-ceci-alla-mediterranea",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata di ceci alla mediterranea",
+    "link": "https://ricette.giallozafferano.it/Insalata-di-ceci-alla-mediterranea.html",
+    "pubDate": "Mon, 20 Jul 2026 11:56:00 +0200",
+    "content": "Insalata di ceci alla mediterranea: ricetta fresca e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X BENESSERE Insalate Insalata di ceci alla mediterranea /5 CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 343,5 Calorie per porzione Energia Kcal 343,5 Carboidrati g 47,8 &nbsp;&nbsp;di cui zuccheri g 10,2 Proteine g 14,8 Grassi g 11,6 &nbsp;&nbsp;di cui saturi g 1,5 Fibre g 9,4 Sodio mg 201,3 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza glutine Senza lattosio Vegetariano Vegano Dieta Mediterranea Difficoltà: Molto facile Preparazione: 20 min Dosi per: 6 persone Costo: Basso Nota + 10 min. di riposo in frigo PRESENTAZIONE L' insalata di ceci alla mediterranea è un piatto unico fresco, colorato e ricco di gusto, ideale per un pranzo veloce e salutare anche da portare in ufficio. I pomodorini rossi e gialli, la consistenza croccante dei cetrioli, la sapidità delle olive taggiasche e il profumo del basilico stuzzicano tutti i sensi e stimolano l’appetito anche nelle giornate più calde! Un piccolo trucco per rendere l’insalata di ceci alla mediterranea ancora più appetitosa? Lasciate la cipolla rossa in ammollo in acqua e ghiaccio, risulterà più digeribile e delicata di sapore. Perfetta anche per vegetariani e vegani , questa facile ricetta con i ceci precotti è senza cottura ed è la soluzione perfetta per rimanere leggeri in modo nutriente e appagante! Non perdetevi altre sfiziose ricette di insalate estive con i legumi : Insalata di ceci estiva Insalata di ceci e tonno Insalata di ceci, gamberi e rucola Insalata di lenticchie, pomodori e cipollotti Insalata di borlotti freschi Mediterranean Chickpea Salad INGREDIENTI 343,5 Calorie per porzione Ceci precotti (peso sgocciolato) 400 g Cetrioli 200 g Pomodorini gialli 200 g Pomodorini ciliegino 100 g Cipolle rosse 80 g Rucola 50 g Olive taggiasche 40 g Basilico q.b. Olio extravergine d'oliva q.b. Aceto balsamico q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di ceci alla mediterranea Per preparare l’insalata di ceci alla mediterranea, per prima cosa sbucciate la cipolla 1 e dividetela a metà per il lungo 2 , poi affettatela finemente per ottenere dei petali sottili 3 . Trasferite la cipolla affettata in una ciotola 4 , aggiungete il ghiaccio 5 e coprite con l’acqua 6 . Lasciate in ammollo per 10 minuti, in questo modo risulterà più delicata. Nel frattempo occupatevi degli altri ingredienti: tagliate i pomodorini gialli a metà 7 e quelli rossi in 4 parti 8 . Sbucciate i cetrioli 9 . Divideteli in 4 per il lungo 10 , poi eliminate la parte centrale con i semi 11 . Infine, affettateli in diagonale 12 . Ora versate i ceci precotti in una ciotola capiente 13 , poi aggiungete i pomodorini rossi 14 e gialli 15 . Unite i cetrioli 16 , le cipolle ben scolate 17 e le foglie di basilico spezzettate a mano 18 . Condite con l’aceto balsamico 19 , l’olio 20 , il sale e il pepe 21 . Mescolate bene il tutto 22 , poi lasciate insaporire in frigorifero per 10 minuti. In ultimo, completate con le olive taggiasche e le foglie di rucola 23 . La vostra insalata di ceci alla mediterranea è pronta per essere servita 24 ! Conservazione L’insalata di ceci alla mediterranea si può conservare in frigorifero per un giorno. Consiglio Se desiderate, potete aggiungere delle alici sott’olio o dei cubetti di feta per un sapore ancora più deciso! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Ceci Olive in salamoia Olio di oliva Cipolla Cetriolo Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta 5 minuti allo yogurt greco 5.0 Benessere Insalata di ceci alla mediterranea 5.0 Involtini di sgombro e peperoni 5.0 SCOPRI Insalata di ceci Ricette vegane Insalata Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata di ceci fresca, colorata e senza cottura.",
+      "Ceci precotti, pomodorini, cetrioli, cipolla rossa.",
+      "Affetta la cipolla e lasciala in ammollo.",
+      "Unisci gli ingredienti e condisci con aceto balsamico.",
+      "Lascia riposare in frigo; completa con rucola e olive."
+    ],
+    "instagram_caption": "Estate, zero fornelli e un’insalata che sa già di vacanza. 🌞  \nQuesta insalata di ceci alla mediterranea è fresca, colorata e si prepara in 5 minuti: ceci già pronti, pomodorini dolci, cetriolo croccante e cipolla rossa affettata (lasciatela in ammollo per toglierle la forza!).  \nBasta un giro di aceto balsamico, una manciata di rucola e olive per trasformarla in un piatto completo, perfetto da preparare in anticipo e tirare fuori dal frigo quando il caldo non dà tregua.  \nProvala questo weekend, te ne innamorerai. 🥗🍅",
+    "formats": {
+      "instagram": {
+        "caption": "Estate, zero fornelli e un’insalata che sa già di vacanza. 🌞  \nQuesta insalata di ceci alla mediterranea è fresca, colorata e si prepara in 5 minuti: ceci già pronti, pomodorini dolci, cetriolo croccante e cipolla rossa affettata (lasciatela in ammollo per toglierle la forza!).  \nBasta un giro di aceto balsamico, una manciata di rucola e olive per trasformarla in un piatto completo, perfetto da preparare in anticipo e tirare fuori dal frigo quando il caldo non dà tregua.  \nProvala questo weekend, te ne innamorerai. 🥗🍅"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo i ceci già cotti in scatola.",
+          "Affetto la cipolla e la metto in ammollo.",
+          "Taglio pomodorini e cetrioli a pezzetti.",
+          "Unisco tutto e condisco con aceto balsamico.",
+          "Faccio riposare in frigo, poi aggiungo rucola e olive."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Chi ha detto che l’insalata di ceci è noiosa? Questa qui è un pugno di freschezza: pomodorini, cetrioli, cipolla rossa e un condimento che spacca. Zero cottura, tanto sapore. Pronto a copiarla?",
+          "Partiamo dai ceci precotti: sciacquali bene e asciughali. Pompeggia con pomodorini tagliati a metà, cetrioli a cubetti e cipolla rossa affettata sottile. La cipolla? Lasciala in ammollo 10 minuti — addio amaro, solo dolcezza.",
+          "Unisci tutto in una ciotola. Condisci con un filo d’olio extravergine, un bel giro di aceto balsamico, sale e pepe. Niente fuochi, niente padelle — mescoli e già profuma di costa.",
+          "Ora il segreto: lascia riposare in frigo almeno 20 minuti. I sapori si sposano, il dolce dell’aceto balsamico si lega al croccante del cetriolo. Prima di servire, aggiungi una manciata di rucola fresca e olive nere.",
+          "Il tocco finale? Una spolverata di origano secco e, se hai voglia, qualche cubetto di feta. Fresca, veloce e perfetta per l’estate. Provala e dimmi com’è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo i ceci già cotti in scatola.",
+      "Affetto la cipolla e la metto in ammollo.",
+      "Taglio pomodorini e cetrioli a pezzetti.",
+      "Unisco tutto e condisco con aceto balsamico.",
+      "Faccio riposare in frigo, poi aggiungo rucola e olive."
+    ],
+    "thread_text": [
+      "Chi ha detto che l’insalata di ceci è noiosa? Questa qui è un pugno di freschezza: pomodorini, cetrioli, cipolla rossa e un condimento che spacca. Zero cottura, tanto sapore. Pronto a copiarla?",
+      "Partiamo dai ceci precotti: sciacquali bene e asciughali. Pompeggia con pomodorini tagliati a metà, cetrioli a cubetti e cipolla rossa affettata sottile. La cipolla? Lasciala in ammollo 10 minuti — addio amaro, solo dolcezza.",
+      "Unisci tutto in una ciotola. Condisci con un filo d’olio extravergine, un bel giro di aceto balsamico, sale e pepe. Niente fuochi, niente padelle — mescoli e già profuma di costa.",
+      "Ora il segreto: lascia riposare in frigo almeno 20 minuti. I sapori si sposano, il dolce dell’aceto balsamico si lega al croccante del cetriolo. Prima di servire, aggiungi una manciata di rucola fresca e olive nere.",
+      "Il tocco finale? Una spolverata di origano secco e, se hai voglia, qualche cubetto di feta. Fresca, veloce e perfetta per l’estate. Provala e dimmi com’è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Insalata di ceci fresca e senza cottura",
+        "description": "Un piatto rapido, colorato e perfetto per l'estate, pronto in 10 minuti.",
+        "visual_hint": "Ciotola di insalata mediterranea",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory chickpea salad bowl"
+      },
+      {
+        "hook": "Ingredienti freschissimi",
+        "description": "Ceci precotti, pomodorini, cetrioli e cipolla rossa per un mix croccante e saporito.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chickpea tomato cucumber onion",
+        "image": "https://images.pexels.com/photos/35695376/pexels-photo-35695376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Affetta la cipolla e lasciala in ammollo",
+        "description": "Un gesto semplice che elimina l'asprezza e rende la cipolla dolce e croccante.",
+        "visual_hint": "Cipolla affettata in ammollo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sliced red onion soaking water",
+        "image": "https://images.pexels.com/photos/7020295/pexels-photo-7020295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unisci e condisci con aceto balsamico",
+        "description": "Mescola tutti gli ingredienti in una ciotola e aggiungi l'aceto balsamico per un tocco agrodolce.",
+        "visual_hint": "Mani che condiscono l'insalata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing chickpea salad hands",
+        "image": "https://images.pexels.com/photos/10779682/pexels-photo-10779682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lascia riposare in frigo, poi completa",
+        "description": "Dopo il riposo aggiungi rucola e olive per freschezza e sapore. Servi fredda o a temperatura ambiente.",
+        "visual_hint": "Insalata finita con rucola e olive",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory chickpea salad with olives",
+        "image": "https://images.pexels.com/photos/6066051/pexels-photo-6066051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "ceci precotti",
+      "pomodorini",
+      "cetrioli"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36470/Insalata-di-ceci-alla-mediterranea_650x433_wm.jpg",
+    "savedAt": "2026-07-20T13:59:02.960Z",
+    "sourceId": "c86decf911af34afeb82071f7bc1e656"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "torta-5-minuti-allo-yogurt-greco",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta 5 minuti allo yogurt greco",
+    "link": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-greco.html",
+    "pubDate": "Mon, 20 Jul 2026 12:34:00 +0200",
+    "content": "Torta 5 minuti allo yogurt greco: ricetta soffice e veloce da preparare Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti allo yogurt greco /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 60 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Se cercate un dolce da forno semplice ma dal risultato impeccabile, la torta 5 minuti allo yogurt greco è quello che fa al caso vostro. Vi basteranno una ciotola, una frusta a mano e pochi minuti per preparare un impasto morbido e omogeneo, pronto per essere infornato. Lo yogurt greco dona una consistenza soffice e piacevolmente umida, mentre il suo gusto delicato la rende una base versatile da personalizzare con aromi diversi, con frutta fresca, marmellata e creme spalmabili. È una ricetta ideale da tenere sempre a portata di mano quando desiderate preparare un a torta fatta in casa senza passaggi complicati, perfetta per la colazione, la merenda, da servire con una spolverata di zucchero a velo. Ecco altre idee per preparare la torta 5 minuti : Torta 5 minuti cocco e mirtilli Torta 5 minuti alle fragole Torta 5 minuti alla ricotta Torta 5 minuti salata Torta 5 minuti al limone INGREDIENTI Ingredienti per uno stampo da 20 cm Yogurt greco 5% di grassi 500 g Estratto di vaniglia q.b. Zucchero 150 g Uova (2 medie) 110 g Olio di semi di girasole 60 g Farina 00 230 g Lievito in polvere per dolci 16 g Sale fino 1 pizzico per decorare Zucchero a velo 10 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti allo yogurt greco Per preparare la torta 5 minuti allo yogurt greco versate in una ciotola le uova, lo zucchero 1 e l'estratto di vaniglia 2 . Lavorate il composto con una frusta a mano 3 . Unite l'olio di semi versandolo a filo 4 , continuando a mescolare per incorporarlo perfettamente. Aggiungete quindi lo yogurt greco 5 e mescolate ancora con la frusta amalgamando bene tutti gli ingredienti 6 . Aggiungete un pizzico di sale 7 e la farina 8 , meglio se setacciata. Mescolate sino ad ottenere un composto privo di grumi 9 . Aggiungete in ultimo il lievito per dolci 19 , mescolando con cura fino a ottenere un impasto liscio e senza grumi 12 . Foderate una tortiera da 20 cm con carta forno e versatevi l'impasto all'interno 12 . Livellate delicatamente la superficie con una spatola 13 . Cuocete in forno statico preriscaldato a 170°C, posizionando lo stampo sul ripiano centrale, per 60 minuti. Prima di sfornare eseguite la prova dello stecchino: se esce asciutto, la torta è pronta. Lasciate raffreddare completamente la torta nello stampo o su una gratella, quindi trasferitela su un piatto da portata e completate con una leggera spolverata di zucchero a velo 14 prima di servirla 15 . Conservazione Conservate la torta allo yogurt greco a temperatura ambiente per 2-3 giorni, sotto una campana di vetro o avvolta nella pellicola alimentare. Potete anche congelarla, preferibilmente già tagliata a fette, e lasciarla scongelare a temperatura ambiente prima di gustarla. Consiglio Sostituite l'estratto di vaniglia con la scorza grattugiata di agrumi come limone o arancia. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Uovo Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta 5 minuti allo yogurt greco Insalata di ceci alla mediterranea Involtini di sgombro e peperoni 5.0 SCOPRI Yogurt greco Yogurt greco fage Salsa yogurt greco Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta soffice e umida allo yogurt greco.",
+      "Yogurt greco, uova, farina, zucchero, olio.",
+      "Mescola uova, zucchero, vaniglia, olio e yogurt.",
+      "Cuoci in forno a 170°C per 60 minuti.",
+      "Spolvera con zucchero a velo prima di servire."
+    ],
+    "instagram_caption": "La torta più morbida che uscirà dal tuo forno quest’anno. 😍  \nYogurt greco, uova, un filo d’olio e tanta leggerezza: bastano 5 minuti per prepararla e 60 in forno per sentire quel profumo che ti avvolge la casa.  \nIl segreto è nello yogurt: la rende umida, soffice, quasi come una nuvola.  \nSpolverala con zucchero a velo e vedrai che colpo d’occhio.  \nProvala questo weekend. Buonissima anche fredda il giorno dopo. 💛  \nFammi sapere se ti è piaciuta nei commenti 🍰✨",
+    "formats": {
+      "instagram": {
+        "caption": "La torta più morbida che uscirà dal tuo forno quest’anno. 😍  \nYogurt greco, uova, un filo d’olio e tanta leggerezza: bastano 5 minuti per prepararla e 60 in forno per sentire quel profumo che ti avvolge la casa.  \nIl segreto è nello yogurt: la rende umida, soffice, quasi come una nuvola.  \nSpolverala con zucchero a velo e vedrai che colpo d’occhio.  \nProvala questo weekend. Buonissima anche fredda il giorno dopo. 💛  \nFammi sapere se ti è piaciuta nei commenti 🍰✨"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo yogurt, uova, farina, zucchero e olio.",
+          "Mescolo uova, zucchero e un goccio di vaniglia.",
+          "Aggiungo olio e yogurt greco, poi mescolo bene.",
+          "Verso in teglia e cuocio a 170° per 60 minuti.",
+          "Spolvero con zucchero a velo e servo subito."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Un solo vizio, e questa torta ti farà dimenticare tutti gli altri. 🤤",
+          "Yogurt greco, uova, farina, zucchero e olio. 5 ingredienti, zero sbatti.",
+          "Mescola uova e zucchero, aggiungi vaniglia, olio e yogurt. Impasto liscio in un minuto.",
+          "In forno a 170°C per 60 minuti. Il segreto? Umida dentro, dorata fuori.",
+          "Spolvera con zucchero a velo e servila tiepida. Provala e fammi sapere com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo yogurt, uova, farina, zucchero e olio.",
+      "Mescolo uova, zucchero e un goccio di vaniglia.",
+      "Aggiungo olio e yogurt greco, poi mescolo bene.",
+      "Verso in teglia e cuocio a 170° per 60 minuti.",
+      "Spolvero con zucchero a velo e servo subito."
+    ],
+    "thread_text": [
+      "Un solo vizio, e questa torta ti farà dimenticare tutti gli altri. 🤤",
+      "Yogurt greco, uova, farina, zucchero e olio. 5 ingredienti, zero sbatti.",
+      "Mescola uova e zucchero, aggiungi vaniglia, olio e yogurt. Impasto liscio in un minuto.",
+      "In forno a 170°C per 60 minuti. Il segreto? Umida dentro, dorata fuori.",
+      "Spolvera con zucchero a velo e servila tiepida. Provala e fammi sapere com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Torta 5 minuti allo yogurt greco",
+        "description": "Una torta soffice e umida, pronta in 5 minuti di preparazione con yogurt greco.",
+        "visual_hint": "fetta di torta su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "greek yogurt cake"
+      },
+      {
+        "hook": "Ingredienti essenziali",
+        "description": "Yogurt greco, uova, farina, zucchero e olio: la semplicità che sorprende.",
+        "visual_hint": "ingredienti in ciotola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "yogurt eggs flour",
+        "image": "https://images.pexels.com/photos/2522610/pexels-photo-2522610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il gesto chiave",
+        "description": "Mescola uova, zucchero e vaniglia, poi unisci olio e yogurt fino a ottenere un composto omogeneo.",
+        "visual_hint": "frusta in ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mixing batter bowl",
+        "image": "https://images.pexels.com/photos/6088885/pexels-photo-6088885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cottura perfetta",
+        "description": "Cuoci in forno a 170°C per 60 minuti: la torta cresce e diventa dorata.",
+        "visual_hint": "torta in forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cake in oven",
+        "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tocco finale",
+        "description": "Spolvera con zucchero a velo prima di servire: dolcezza che conquista.",
+        "visual_hint": "polvere su fetta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "powdered sugar cake",
+        "image": "https://images.pexels.com/photos/5662081/pexels-photo-5662081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "yogurt greco",
+      "uova",
+      "farina"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36463/Torta-5-minuti-allo-yogurt-greco_650x433_wm.jpg",
+    "savedAt": "2026-07-20T13:58:44.082Z",
+    "sourceId": "2078edeac6d6f0250a1e3a2c8cf9325f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-5-minuti-al-limone",
     "prompt_version": "1.0.0",
     "status": "published",

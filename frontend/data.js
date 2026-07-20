@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "china-delivers-a-one-two-punch-to-america-s-ai-dom",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "China delivers a one-two punch to America’s AI dominance ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "pubDate": "2026-07-20T10:16:33.000Z",
+    "slides": [
+      "China just released two AI models that beat GPT-4.",
+      "One focuses on reasoning, the other on image generation.",
+      "Both were trained with far less computing power than US rivals.",
+      "Your next AI upgrade may come from outside Silicon Valley.",
+      "Test DeepSeek-R1 and Qwen-VL before locking your stack."
+    ],
+    "thread_text": [
+      "1. Your next AI isn't American.\n\nChina just dropped two models that outperform GPT-4 on reasoning and image generation. Both used far less compute than US counterparts.",
+      "2. One model thinks harder.\n\nDeepSeek-R1 focuses on chain-of-thought reasoning, beating GPT-4 on math and coding benchmarks with 90% less compute.",
+      "3. The other sees sharper.\n\nQwen-VL generates images from text with higher fidelity than GPT-4V, yet trained on a fraction of the energy bill.",
+      "4. Compute isn't the moat anymore.\n\nIf a constrained setup can match or beat billion-dollar clusters, the hardware advantage collapses. Efficiency now wins.",
+      "5. Should you lock your stack today?\n\nTest both models this week on a real task before deciding your infrastructure — otherwise you might commit to yesterday's leader."
+    ],
+    "video_script": [
+      "China just beat GPT-4 with two new models.",
+      "One excels at reasoning, the other at images.",
+      "Both used far less computing power than rivals.",
+      "Your next AI might come from outside Silicon Valley.",
+      "Test DeepSeek-R1 and Qwen-VL before locking in."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your next AI isn't American.\n\nChina just dropped two models that outperform GPT-4 on reasoning and image generation. Both used far less compute than US counterparts.",
+          "2. One model thinks harder.\n\nDeepSeek-R1 focuses on chain-of-thought reasoning, beating GPT-4 on math and coding benchmarks with 90% less compute.",
+          "3. The other sees sharper.\n\nQwen-VL generates images from text with higher fidelity than GPT-4V, yet trained on a fraction of the energy bill.",
+          "4. Compute isn't the moat anymore.\n\nIf a constrained setup can match or beat billion-dollar clusters, the hardware advantage collapses. Efficiency now wins.",
+          "5. Should you lock your stack today?\n\nTest both models this week on a real task before deciding your infrastructure — otherwise you might commit to yesterday's leader."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "China just beat GPT-4 with two new models.",
+          "One excels at reasoning, the other at images.",
+          "Both used far less computing power than rivals.",
+          "Your next AI might come from outside Silicon Valley.",
+          "Test DeepSeek-R1 and Qwen-VL before locking in."
+        ]
+      },
+      "instagram": {
+        "caption": "Two Chinese models just beat GPT-4 on reasoning and image generation—trained with 90% less computing power.\n\nDeepSeek-R1 uses chain-of-thought to outperform GPT-4 on math and coding. Qwen-VL generates sharper images than GPT-4V with a fraction of the energy bill. Hardware advantage just collapsed. 🔍💡\n\nIf you build with AI today, your cost advantage disappears tomorrow. Efficiency, not spending, now wins.\n\nAre you still locking your stack into last year's leader? Test DeepSeek-R1 and Qwen-VL before you decide. 🧠"
+      }
+    },
+    "instagram_caption": "Two Chinese models just beat GPT-4 on reasoning and image generation—trained with 90% less computing power.\n\nDeepSeek-R1 uses chain-of-thought to outperform GPT-4 on math and coding. Qwen-VL generates sharper images than GPT-4V with a fraction of the energy bill. Hardware advantage just collapsed. 🔍💡\n\nIf you build with AI today, your cost advantage disappears tomorrow. Efficiency, not spending, now wins.\n\nAre you still locking your stack into last year's leader? Test DeepSeek-R1 and Qwen-VL before you decide. 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Your next AI isn't American.",
+        "description": "China's DeepSeek-R1 and Qwen-VL beat GPT-4 using 90% less compute.",
+        "visual_hint": "Two glowing AI chips",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microchip circuit board"
+      },
+      {
+        "hook": "One model thinks harder.",
+        "description": "DeepSeek-R1 uses chain-of-thought reasoning to top math and coding benchmarks.",
+        "visual_hint": "Brain scan with circuits",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "brain scan neural",
+        "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The other sees sharper.",
+        "description": "Qwen-VL generates images with higher fidelity than GPT-4V, using less energy.",
+        "visual_hint": "AI-generated scenic landscape",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mountain lake sunset",
+        "image": "https://images.pexels.com/photos/25662142/pexels-photo-25662142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compute isn't the moat anymore.",
+        "description": "Efficiency now beats billion-dollar clusters — the hardware advantage collapses.",
+        "visual_hint": "Falling graph bar chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test both models this week.",
+        "description": "Run a real task on DeepSeek-R1 and Qwen-VL before locking your stack.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-20T13:49:53.683Z",
+    "sourceId": "c76b3f431789d117ba039faa85055937"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "us-public-health-agencies-to-test-openai-and-anthr",
     "prompt_version": "1.0.0",
     "status": "published",
