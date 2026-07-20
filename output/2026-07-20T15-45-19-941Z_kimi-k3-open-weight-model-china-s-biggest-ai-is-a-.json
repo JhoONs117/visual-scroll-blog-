@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kimi-k3-open-weight-model-china-s-biggest-ai-is-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+  "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+  "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+  "slides": [
+    "Kimi K3 is open-weight, but is more memory than compute?",
+    "It claims to reason over millions of tokens per query.",
+    "Chinese labs rarely bet on memory scaling over compute.",
+    "You can now run personal data queries without GPU clusters.",
+    "Test it on a full codebase tomorrow: don't wait for benchmarks."
+  ],
+  "thread_text": [
+    "1. Memory over compute?\n\nKimi K3 is open-weight, yet it prioritizes memory scaling over raw compute power.",
+    "2. Million-token reasoning\n\nIt claims to reason across millions of tokens per query, unlike typical models constrained by context windows.",
+    "3. Chinese lab reversal\n\nChinese AI labs rarely bet on memory scaling, but this one flips the script for personal data tasks.",
+    "4. No GPU needed\n\nYou can now run personal data queries without expensive GPU clusters, making AI accessible to solo developers.",
+    "5. Test it tomorrow\n\nGrab your full codebase and query it with K3 tonight. Don't wait for benchmarks—run your own test."
+  ],
+  "video_script": [
+    "Kimi K3 bets on memory, not compute.",
+    "It reasons over millions of tokens.",
+    "Chinese labs rarely choose this path.",
+    "Now run queries without any GPU.",
+    "Test it on your codebase tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Memory over compute?\n\nKimi K3 is open-weight, yet it prioritizes memory scaling over raw compute power.",
+        "2. Million-token reasoning\n\nIt claims to reason across millions of tokens per query, unlike typical models constrained by context windows.",
+        "3. Chinese lab reversal\n\nChinese AI labs rarely bet on memory scaling, but this one flips the script for personal data tasks.",
+        "4. No GPU needed\n\nYou can now run personal data queries without expensive GPU clusters, making AI accessible to solo developers.",
+        "5. Test it tomorrow\n\nGrab your full codebase and query it with K3 tonight. Don't wait for benchmarks—run your own test."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Kimi K3 bets on memory, not compute.",
+        "It reasons over millions of tokens.",
+        "Chinese labs rarely choose this path.",
+        "Now run queries without any GPU.",
+        "Test it on your codebase tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now query your entire codebase without needing a single GPU cluster. 🧠\n\nKimi K3 is an open-weight model from a Chinese lab that prioritizes memory scaling over raw compute power. It claims to reason across millions of tokens per query, flipping the usual approach. 💾\n\nFor creators and solo developers, this means running large personal data workloads directly from your own machine.\n\nWhat will you ask your full codebase tomorrow? 🔍"
+    }
+  },
+  "instagram_caption": "You can now query your entire codebase without needing a single GPU cluster. 🧠\n\nKimi K3 is an open-weight model from a Chinese lab that prioritizes memory scaling over raw compute power. It claims to reason across millions of tokens per query, flipping the usual approach. 💾\n\nFor creators and solo developers, this means running large personal data workloads directly from your own machine.\n\nWhat will you ask your full codebase tomorrow? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is memory the new compute?",
+      "description": "Kimi K3 prioritizes memory scaling over raw compute power, a rare Chinese bet.",
+      "visual_hint": "Brain vs chip scale",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room data center"
+    },
+    {
+      "hook": "Reason across millions of tokens",
+      "description": "Unlike typical models, Kimi K3 handles million-token queries without context window limits.",
+      "visual_hint": "Infinite scroll text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "long document scroll",
+      "image": "https://images.pexels.com/photos/15850552/pexels-photo-15850552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "China flips the script on AI",
+      "description": "Chinese labs usually bet on compute, but this one reverses course for personal data tasks.",
+      "visual_hint": "Chart line reversing",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart up",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No GPU clusters required",
+      "description": "Run personal data queries without expensive hardware, making AI accessible to solo developers.",
+      "visual_hint": "Person alone coding",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop on desk",
+      "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — test your codebase",
+      "description": "Grab your full codebase tonight and query it with Kimi K3—no need to wait for benchmarks.",
+      "visual_hint": "Hand saving bookmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard and code",
+      "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-20T15:45:32.857Z",
+  "sourceId": "272130dc4b4c6c7e592dd1a927d3e544"
+}

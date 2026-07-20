@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "inference-startup-infinity-raises-15m-from-touring",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+  "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+  "pubDate": "Mon, 20 Jul 2026 15:15:00 +0000",
+  "slides": [
+    "Can a new model beat giants at reasoning?",
+    "Infinity just raised $15M from Touring Capital.",
+    "But its backers include researchers from OpenAI and Anthropic.",
+    "You can now test cheaper, faster inference today.",
+    "Try Infinity's API before your next model decision."
+  ],
+  "thread_text": [
+    "Can this model beat the giants?\n\nInfinity just raised $15M from Touring Capital to compete on reasoning benchmarks.",
+    "Who backs them?\n\nIts backers include researchers from OpenAI and Anthropic, not just investors.",
+    "Cheaper inference now?\n\nYou can test Infinity's API today for faster, lower-cost reasoning.",
+    "Try before you decide.\n\nPrompt a model now; compare Infinity's speed and price on a real task.",
+    "Your next test?\n\nTake a reasoning-heavy prompt and run it through Infinity's API this week."
+  ],
+  "video_script": [
+    "Infinity raised fifteen million dollars.",
+    "Touring Capital led the funding round.",
+    "OpenAI and Anthropic researchers are backers.",
+    "Test cheaper faster inference today.",
+    "Use Infinity's API before deciding."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Can this model beat the giants?\n\nInfinity just raised $15M from Touring Capital to compete on reasoning benchmarks.",
+        "Who backs them?\n\nIts backers include researchers from OpenAI and Anthropic, not just investors.",
+        "Cheaper inference now?\n\nYou can test Infinity's API today for faster, lower-cost reasoning.",
+        "Try before you decide.\n\nPrompt a model now; compare Infinity's speed and price on a real task.",
+        "Your next test?\n\nTake a reasoning-heavy prompt and run it through Infinity's API this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Infinity raised fifteen million dollars.",
+        "Touring Capital led the funding round.",
+        "OpenAI and Anthropic researchers are backers.",
+        "Test cheaper faster inference today.",
+        "Use Infinity's API before deciding."
+      ]
+    },
+    "instagram": {
+      "caption": "A new reasoning model claims it can beat giants like OpenAI and Anthropic at their own game—and it just got funded by their own researchers.\n\nInfinity raised $15M from Touring Capital, with backing from researchers at OpenAI and Anthropic. They're launching a cheaper, faster inference API that claims better reasoning performance.\n\nTesting next-gen models just got cheaper for everyone building AI workflows 🧪. You no longer need giant budgets to run high-quality reasoning tasks.\n\nPick a reasoning-heavy prompt you use today—try Infinity's API before committing to your next model decision 🔥."
+    }
+  },
+  "instagram_caption": "A new reasoning model claims it can beat giants like OpenAI and Anthropic at their own game—and it just got funded by their own researchers.\n\nInfinity raised $15M from Touring Capital, with backing from researchers at OpenAI and Anthropic. They're launching a cheaper, faster inference API that claims better reasoning performance.\n\nTesting next-gen models just got cheaper for everyone building AI workflows 🧪. You no longer need giant budgets to run high-quality reasoning tasks.\n\nPick a reasoning-heavy prompt you use today—try Infinity's API before committing to your next model decision 🔥.",
+  "carousel_slides": [
+    {
+      "hook": "Can a new model beat giants?",
+      "description": "Infinity raised $15M from Touring Capital to compete on reasoning benchmarks against OpenAI and Anthropic.",
+      "visual_hint": "Startup rocket taking off",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "startup rocket launchpad"
+    },
+    {
+      "hook": "Who backs Infinity?",
+      "description": "Its backers include researchers from OpenAI and Anthropic, not just investors, signaling deep AI expertise.",
+      "visual_hint": "Research lab interior",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "research lab servers",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster, cheaper inference now.",
+      "description": "You can test Infinity's API today for faster, lower-cost reasoning compared to giants.",
+      "visual_hint": "Speedometer needle high",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "speedometer gauge",
+      "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before you decide.",
+      "description": "Prompt a model now; compare Infinity's speed and price on a real reasoning task.",
+      "visual_hint": "Keyboard typing hands",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it this week.",
+      "description": "Visit link in bio to run a reasoning-heavy prompt through Infinity's API.",
+      "visual_hint": "Phone tap on link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone tap screen",
+      "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jeremy-Nixon.jpg?resize=1200,900",
+  "savedAt": "2026-07-20T15:45:55.617Z",
+  "sourceId": "b2509b10b3d8bf0b3ee1640f45a4528e"
+}

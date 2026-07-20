@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "inference-startup-infinity-raises-15m-from-touring",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+    "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+    "pubDate": "Mon, 20 Jul 2026 15:15:00 +0000",
+    "slides": [
+      "Can a new model beat giants at reasoning?",
+      "Infinity just raised $15M from Touring Capital.",
+      "But its backers include researchers from OpenAI and Anthropic.",
+      "You can now test cheaper, faster inference today.",
+      "Try Infinity's API before your next model decision."
+    ],
+    "thread_text": [
+      "Can this model beat the giants?\n\nInfinity just raised $15M from Touring Capital to compete on reasoning benchmarks.",
+      "Who backs them?\n\nIts backers include researchers from OpenAI and Anthropic, not just investors.",
+      "Cheaper inference now?\n\nYou can test Infinity's API today for faster, lower-cost reasoning.",
+      "Try before you decide.\n\nPrompt a model now; compare Infinity's speed and price on a real task.",
+      "Your next test?\n\nTake a reasoning-heavy prompt and run it through Infinity's API this week."
+    ],
+    "video_script": [
+      "Infinity raised fifteen million dollars.",
+      "Touring Capital led the funding round.",
+      "OpenAI and Anthropic researchers are backers.",
+      "Test cheaper faster inference today.",
+      "Use Infinity's API before deciding."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Can this model beat the giants?\n\nInfinity just raised $15M from Touring Capital to compete on reasoning benchmarks.",
+          "Who backs them?\n\nIts backers include researchers from OpenAI and Anthropic, not just investors.",
+          "Cheaper inference now?\n\nYou can test Infinity's API today for faster, lower-cost reasoning.",
+          "Try before you decide.\n\nPrompt a model now; compare Infinity's speed and price on a real task.",
+          "Your next test?\n\nTake a reasoning-heavy prompt and run it through Infinity's API this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Infinity raised fifteen million dollars.",
+          "Touring Capital led the funding round.",
+          "OpenAI and Anthropic researchers are backers.",
+          "Test cheaper faster inference today.",
+          "Use Infinity's API before deciding."
+        ]
+      },
+      "instagram": {
+        "caption": "A new reasoning model claims it can beat giants like OpenAI and Anthropic at their own game—and it just got funded by their own researchers.\n\nInfinity raised $15M from Touring Capital, with backing from researchers at OpenAI and Anthropic. They're launching a cheaper, faster inference API that claims better reasoning performance.\n\nTesting next-gen models just got cheaper for everyone building AI workflows 🧪. You no longer need giant budgets to run high-quality reasoning tasks.\n\nPick a reasoning-heavy prompt you use today—try Infinity's API before committing to your next model decision 🔥."
+      }
+    },
+    "instagram_caption": "A new reasoning model claims it can beat giants like OpenAI and Anthropic at their own game—and it just got funded by their own researchers.\n\nInfinity raised $15M from Touring Capital, with backing from researchers at OpenAI and Anthropic. They're launching a cheaper, faster inference API that claims better reasoning performance.\n\nTesting next-gen models just got cheaper for everyone building AI workflows 🧪. You no longer need giant budgets to run high-quality reasoning tasks.\n\nPick a reasoning-heavy prompt you use today—try Infinity's API before committing to your next model decision 🔥.",
+    "carousel_slides": [
+      {
+        "hook": "Can a new model beat giants?",
+        "description": "Infinity raised $15M from Touring Capital to compete on reasoning benchmarks against OpenAI and Anthropic.",
+        "visual_hint": "Startup rocket taking off",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "startup rocket launchpad"
+      },
+      {
+        "hook": "Who backs Infinity?",
+        "description": "Its backers include researchers from OpenAI and Anthropic, not just investors, signaling deep AI expertise.",
+        "visual_hint": "Research lab interior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "research lab servers",
+        "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster, cheaper inference now.",
+        "description": "You can test Infinity's API today for faster, lower-cost reasoning compared to giants.",
+        "visual_hint": "Speedometer needle high",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "speedometer gauge",
+        "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you decide.",
+        "description": "Prompt a model now; compare Infinity's speed and price on a real reasoning task.",
+        "visual_hint": "Keyboard typing hands",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it this week.",
+        "description": "Visit link in bio to run a reasoning-heavy prompt through Infinity's API.",
+        "visual_hint": "Phone tap on link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone tap screen",
+        "image": "https://images.pexels.com/photos/24263954/pexels-photo-24263954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jeremy-Nixon.jpg?resize=1200,900",
+    "savedAt": "2026-07-20T15:45:55.617Z",
+    "sourceId": "b2509b10b3d8bf0b3ee1640f45a4528e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "youtube-clarifies-policies-around-ai-slop-and-upse",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
+    "slides": [
+      "YouTube changed rules this week. What did they target?",
+      "AI-generated content that mimics real people is now banned.",
+      "But upsetting videos that are clearly fake may stay up.",
+      "Creators must label synthetic content or face removal.",
+      "Check your uploads now—before the algorithm flags you."
+    ],
+    "thread_text": [
+      "Now they can ban you.\n\nYouTube just updated its policy. If your AI video mimics a real person, it’s gone—no warning. Check your uploads before the flag hits.",
+      "What stays and what goes?\n\nObvious parody or clearly fake content? That can stay. The ban only hits videos that impersonate real people convincingly.",
+      "Label or lose it.\n\nCreators must tag every synthetic clip. Miss the label, and your video gets pulled. No exceptions.",
+      "The algorithm hunts now.\n\nYou don’t get a grace period. YouTube’s system scans uploads and flags unlabeled AI content automatically.",
+      "Have you checked your 2024 uploads?\n\nPull up your channel right now. Find any AI clips without a label. If you haven’t tagged them, you are next in line."
+    ],
+    "video_script": [
+      "YouTube just banned AI that mimics real people.",
+      "Clearly fake videos? They can stay up.",
+      "Creators must label all synthetic content now.",
+      "No label means removal—no warnings given.",
+      "Check your uploads before the algorithm flags you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Now they can ban you.\n\nYouTube just updated its policy. If your AI video mimics a real person, it’s gone—no warning. Check your uploads before the flag hits.",
+          "What stays and what goes?\n\nObvious parody or clearly fake content? That can stay. The ban only hits videos that impersonate real people convincingly.",
+          "Label or lose it.\n\nCreators must tag every synthetic clip. Miss the label, and your video gets pulled. No exceptions.",
+          "The algorithm hunts now.\n\nYou don’t get a grace period. YouTube’s system scans uploads and flags unlabeled AI content automatically.",
+          "Have you checked your 2024 uploads?\n\nPull up your channel right now. Find any AI clips without a label. If you haven’t tagged them, you are next in line."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "YouTube just banned AI that mimics real people.",
+          "Clearly fake videos? They can stay up.",
+          "Creators must label all synthetic content now.",
+          "No label means removal—no warnings given.",
+          "Check your uploads before the algorithm flags you."
+        ]
+      },
+      "instagram": {
+        "caption": "If your AI video convincingly mimics a real person, YouTube will remove it immediately — no warning, no appeal. 🚫\n\nThe new policy bans synthetic content that impersonates someone, but keeps up obvious parody or clearly fake videos. Creators must label all AI-generated clips or risk deletion. The system scans every upload automatically.\n\nFor anyone making content: you now have to tag every synthetic clip, or the algorithm will flag and pull it.\n\nPulled up your channel to check your 2024 uploads yet? ⏰"
+      }
+    },
+    "instagram_caption": "If your AI video convincingly mimics a real person, YouTube will remove it immediately — no warning, no appeal. 🚫\n\nThe new policy bans synthetic content that impersonates someone, but keeps up obvious parody or clearly fake videos. Creators must label all AI-generated clips or risk deletion. The system scans every upload automatically.\n\nFor anyone making content: you now have to tag every synthetic clip, or the algorithm will flag and pull it.\n\nPulled up your channel to check your 2024 uploads yet? ⏰",
+    "carousel_slides": [
+      {
+        "hook": "Your AI video can vanish now.",
+        "description": "YouTube bans AI content mimicking real people instantly. No warning, just removal.",
+        "visual_hint": "Red warning banner alert",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "What stays? What goes?",
+        "description": "Clearly fake parody stays up, but realistic impersonation gets deleted. Know the line.",
+        "visual_hint": "Thumbs up and down",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "street sign",
+        "image": "https://images.pexels.com/photos/18883379/pexels-photo-18883379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Label or lose your video.",
+        "description": "Creators must tag every synthetic clip. Miss the label, and the video is pulled.",
+        "visual_hint": "Yellow label icon close up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "yellow warning sign",
+        "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The algorithm hunts now.",
+        "description": "YouTube scans uploads automatically and flags unlabeled AI content with no grace period.",
+        "visual_hint": "Scanning eye robot lens",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robotic arm factory",
+        "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — check your uploads.",
+        "description": "Open your channel now. Find any AI clips without labels and tag them immediately.",
+        "visual_hint": "Phone screen with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone hand",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
+    "savedAt": "2026-07-20T15:45:45.242Z",
+    "sourceId": "48ec45dfbbf6ec0f020ddaa9bfeb77a3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "kimi-k3-open-weight-model-china-s-biggest-ai-is-a-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+    "link": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+    "pubDate": "Mon, 20 Jul 2026 09:00:00 +0000",
+    "slides": [
+      "Kimi K3 is open-weight, but is more memory than compute?",
+      "It claims to reason over millions of tokens per query.",
+      "Chinese labs rarely bet on memory scaling over compute.",
+      "You can now run personal data queries without GPU clusters.",
+      "Test it on a full codebase tomorrow: don't wait for benchmarks."
+    ],
+    "thread_text": [
+      "1. Memory over compute?\n\nKimi K3 is open-weight, yet it prioritizes memory scaling over raw compute power.",
+      "2. Million-token reasoning\n\nIt claims to reason across millions of tokens per query, unlike typical models constrained by context windows.",
+      "3. Chinese lab reversal\n\nChinese AI labs rarely bet on memory scaling, but this one flips the script for personal data tasks.",
+      "4. No GPU needed\n\nYou can now run personal data queries without expensive GPU clusters, making AI accessible to solo developers.",
+      "5. Test it tomorrow\n\nGrab your full codebase and query it with K3 tonight. Don't wait for benchmarks—run your own test."
+    ],
+    "video_script": [
+      "Kimi K3 bets on memory, not compute.",
+      "It reasons over millions of tokens.",
+      "Chinese labs rarely choose this path.",
+      "Now run queries without any GPU.",
+      "Test it on your codebase tomorrow."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Memory over compute?\n\nKimi K3 is open-weight, yet it prioritizes memory scaling over raw compute power.",
+          "2. Million-token reasoning\n\nIt claims to reason across millions of tokens per query, unlike typical models constrained by context windows.",
+          "3. Chinese lab reversal\n\nChinese AI labs rarely bet on memory scaling, but this one flips the script for personal data tasks.",
+          "4. No GPU needed\n\nYou can now run personal data queries without expensive GPU clusters, making AI accessible to solo developers.",
+          "5. Test it tomorrow\n\nGrab your full codebase and query it with K3 tonight. Don't wait for benchmarks—run your own test."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Kimi K3 bets on memory, not compute.",
+          "It reasons over millions of tokens.",
+          "Chinese labs rarely choose this path.",
+          "Now run queries without any GPU.",
+          "Test it on your codebase tomorrow."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now query your entire codebase without needing a single GPU cluster. 🧠\n\nKimi K3 is an open-weight model from a Chinese lab that prioritizes memory scaling over raw compute power. It claims to reason across millions of tokens per query, flipping the usual approach. 💾\n\nFor creators and solo developers, this means running large personal data workloads directly from your own machine.\n\nWhat will you ask your full codebase tomorrow? 🔍"
+      }
+    },
+    "instagram_caption": "You can now query your entire codebase without needing a single GPU cluster. 🧠\n\nKimi K3 is an open-weight model from a Chinese lab that prioritizes memory scaling over raw compute power. It claims to reason across millions of tokens per query, flipping the usual approach. 💾\n\nFor creators and solo developers, this means running large personal data workloads directly from your own machine.\n\nWhat will you ask your full codebase tomorrow? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is memory the new compute?",
+        "description": "Kimi K3 prioritizes memory scaling over raw compute power, a rare Chinese bet.",
+        "visual_hint": "Brain vs chip scale",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room data center"
+      },
+      {
+        "hook": "Reason across millions of tokens",
+        "description": "Unlike typical models, Kimi K3 handles million-token queries without context window limits.",
+        "visual_hint": "Infinite scroll text",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "long document scroll",
+        "image": "https://images.pexels.com/photos/15850552/pexels-photo-15850552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "China flips the script on AI",
+        "description": "Chinese labs usually bet on compute, but this one reverses course for personal data tasks.",
+        "visual_hint": "Chart line reversing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart up",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No GPU clusters required",
+        "description": "Run personal data queries without expensive hardware, making AI accessible to solo developers.",
+        "visual_hint": "Person alone coding",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop on desk",
+        "image": "https://images.pexels.com/photos/20432916/pexels-photo-20432916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — test your codebase",
+        "description": "Grab your full codebase tonight and query it with Kimi K3—no need to wait for benchmarks.",
+        "visual_hint": "Hand saving bookmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "keyboard and code",
+        "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-20T15:45:32.857Z",
+    "sourceId": "272130dc4b4c6c7e592dd1a927d3e544"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "china-delivers-a-one-two-punch-to-america-s-ai-dom",
     "prompt_version": "1.0.0",
     "status": "published",

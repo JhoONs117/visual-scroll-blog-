@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-clarifies-policies-around-ai-slop-and-upse",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube clarifies policies around AI slop and upsetting videos",
+  "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+  "pubDate": "Mon, 20 Jul 2026 15:23:06 +0000",
+  "slides": [
+    "YouTube changed rules this week. What did they target?",
+    "AI-generated content that mimics real people is now banned.",
+    "But upsetting videos that are clearly fake may stay up.",
+    "Creators must label synthetic content or face removal.",
+    "Check your uploads now—before the algorithm flags you."
+  ],
+  "thread_text": [
+    "Now they can ban you.\n\nYouTube just updated its policy. If your AI video mimics a real person, it’s gone—no warning. Check your uploads before the flag hits.",
+    "What stays and what goes?\n\nObvious parody or clearly fake content? That can stay. The ban only hits videos that impersonate real people convincingly.",
+    "Label or lose it.\n\nCreators must tag every synthetic clip. Miss the label, and your video gets pulled. No exceptions.",
+    "The algorithm hunts now.\n\nYou don’t get a grace period. YouTube’s system scans uploads and flags unlabeled AI content automatically.",
+    "Have you checked your 2024 uploads?\n\nPull up your channel right now. Find any AI clips without a label. If you haven’t tagged them, you are next in line."
+  ],
+  "video_script": [
+    "YouTube just banned AI that mimics real people.",
+    "Clearly fake videos? They can stay up.",
+    "Creators must label all synthetic content now.",
+    "No label means removal—no warnings given.",
+    "Check your uploads before the algorithm flags you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Now they can ban you.\n\nYouTube just updated its policy. If your AI video mimics a real person, it’s gone—no warning. Check your uploads before the flag hits.",
+        "What stays and what goes?\n\nObvious parody or clearly fake content? That can stay. The ban only hits videos that impersonate real people convincingly.",
+        "Label or lose it.\n\nCreators must tag every synthetic clip. Miss the label, and your video gets pulled. No exceptions.",
+        "The algorithm hunts now.\n\nYou don’t get a grace period. YouTube’s system scans uploads and flags unlabeled AI content automatically.",
+        "Have you checked your 2024 uploads?\n\nPull up your channel right now. Find any AI clips without a label. If you haven’t tagged them, you are next in line."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "YouTube just banned AI that mimics real people.",
+        "Clearly fake videos? They can stay up.",
+        "Creators must label all synthetic content now.",
+        "No label means removal—no warnings given.",
+        "Check your uploads before the algorithm flags you."
+      ]
+    },
+    "instagram": {
+      "caption": "If your AI video convincingly mimics a real person, YouTube will remove it immediately — no warning, no appeal. 🚫\n\nThe new policy bans synthetic content that impersonates someone, but keeps up obvious parody or clearly fake videos. Creators must label all AI-generated clips or risk deletion. The system scans every upload automatically.\n\nFor anyone making content: you now have to tag every synthetic clip, or the algorithm will flag and pull it.\n\nPulled up your channel to check your 2024 uploads yet? ⏰"
+    }
+  },
+  "instagram_caption": "If your AI video convincingly mimics a real person, YouTube will remove it immediately — no warning, no appeal. 🚫\n\nThe new policy bans synthetic content that impersonates someone, but keeps up obvious parody or clearly fake videos. Creators must label all AI-generated clips or risk deletion. The system scans every upload automatically.\n\nFor anyone making content: you now have to tag every synthetic clip, or the algorithm will flag and pull it.\n\nPulled up your channel to check your 2024 uploads yet? ⏰",
+  "carousel_slides": [
+    {
+      "hook": "Your AI video can vanish now.",
+      "description": "YouTube bans AI content mimicking real people instantly. No warning, just removal.",
+      "visual_hint": "Red warning banner alert",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "What stays? What goes?",
+      "description": "Clearly fake parody stays up, but realistic impersonation gets deleted. Know the line.",
+      "visual_hint": "Thumbs up and down",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "street sign",
+      "image": "https://images.pexels.com/photos/18883379/pexels-photo-18883379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Label or lose your video.",
+      "description": "Creators must tag every synthetic clip. Miss the label, and the video is pulled.",
+      "visual_hint": "Yellow label icon close up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "yellow warning sign",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The algorithm hunts now.",
+      "description": "YouTube scans uploads automatically and flags unlabeled AI content with no grace period.",
+      "visual_hint": "Scanning eye robot lens",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robotic arm factory",
+      "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — check your uploads.",
+      "description": "Open your channel now. Find any AI clips without labels and tag them immediately.",
+      "visual_hint": "Phone screen with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
+  "savedAt": "2026-07-20T15:45:45.242Z",
+  "sourceId": "48ec45dfbbf6ec0f020ddaa9bfeb77a3"
+}
