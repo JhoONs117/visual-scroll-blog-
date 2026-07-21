@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "bucking-ev-slowdown-sila-raises-300m-to-expand-bat",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+      "pubDate": "Tue, 21 Jul 2026 19:36:35 +0000",
+      "slides": [
+        "Sila just raised $300M—but why now?",
+        "EV sales growth is slowing across the industry.",
+        "Sila's silicon anode boosts range by 20%.",
+        "Your next EV could charge in 15 minutes.",
+        "Watch for Sila's factory output by 2026."
+      ],
+      "thread_text": [
+        "1. Why raise $300M now?\n\nSila just closed a massive funding round while EV sales growth is stalling across the industry. The timing signals a bet on the next bottleneck.",
+        "2. The battery bottleneck\n\nToday's lithium-ion cells are nearing their energy density ceiling. Sila's silicon anode adds 20% more range without increasing pack size.",
+        "3. 15-minute charge\n\nThat extra range isn't the only payoff. With Sila's chemistry, your next EV could charge fully in the time it takes to grab coffee.",
+        "4. Factory timeline\n\nSila plans to begin mass production by 2026. The question is whether scaling silicon anodes can beat the cost curve of traditional graphite.",
+        "5. Check the stock list\n\nGo to any carmaker's supplier filings and search for \"Sila\" or \"silicon anode.\" If you don't see it yet, ask investor relations why."
+      ],
+      "video_script": [
+        "Sila raised 300 million dollars while sales slow.",
+        "Their silicon anode boosts EV range by 20 percent.",
+        "Your next EV could charge in 15 minutes.",
+        "Watch for factory output by 2026.",
+        "Check carmaker supplier filings for Sila today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why raise $300M now?\n\nSila just closed a massive funding round while EV sales growth is stalling across the industry. The timing signals a bet on the next bottleneck.",
+            "2. The battery bottleneck\n\nToday's lithium-ion cells are nearing their energy density ceiling. Sila's silicon anode adds 20% more range without increasing pack size.",
+            "3. 15-minute charge\n\nThat extra range isn't the only payoff. With Sila's chemistry, your next EV could charge fully in the time it takes to grab coffee.",
+            "4. Factory timeline\n\nSila plans to begin mass production by 2026. The question is whether scaling silicon anodes can beat the cost curve of traditional graphite.",
+            "5. Check the stock list\n\nGo to any carmaker's supplier filings and search for \"Sila\" or \"silicon anode.\" If you don't see it yet, ask investor relations why."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sila raised 300 million dollars while sales slow.",
+            "Their silicon anode boosts EV range by 20 percent.",
+            "Your next EV could charge in 15 minutes.",
+            "Watch for factory output by 2026.",
+            "Check carmaker supplier filings for Sila today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next EV could charge to full in the time it takes you to grab a coffee ☕.\n\nSila just raised $300M to scale a silicon battery anode that boosts range by 20% without making the pack bigger. Mass production is slated for 2026. ⚡\n\nFor decision-makers: this shifts the timeline on when your buyers can expect 15-minute charges as a standard spec.\n\nAre you planning your product roadmap around silicon anodes—or waiting for graphite to catch up? 🧭"
+        }
+      },
+      "instagram_caption": "Your next EV could charge to full in the time it takes you to grab a coffee ☕.\n\nSila just raised $300M to scale a silicon battery anode that boosts range by 20% without making the pack bigger. Mass production is slated for 2026. ⚡\n\nFor decision-makers: this shifts the timeline on when your buyers can expect 15-minute charges as a standard spec.\n\nAre you planning your product roadmap around silicon anodes—or waiting for graphite to catch up? 🧭",
+      "carousel_slides": [
+        {
+          "hook": "Why raise $300M now?",
+          "description": "EV sales slow down, but Sila bets on the next battery bottleneck with a massive funding round.",
+          "visual_hint": "factory with glowing reactors",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "battery factory interior"
+        },
+        {
+          "hook": "Silicon anodes break the ceiling.",
+          "description": "Today's lithium-ion cells are maxed out. Sila's anode adds 20% range without bigger packs.",
+          "visual_hint": "battery pack cutaway",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "lithium ion battery cross section",
+          "image": "https://images.pexels.com/photos/13958668/pexels-photo-13958668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Charge in 15 minutes.",
+          "description": "With Sila's chemistry, your next EV could fully charge in the time it takes to grab coffee.",
+          "visual_hint": "charging cable plugged in",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "electric car charging port",
+          "image": "https://images.pexels.com/photos/35736783/pexels-photo-35736783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Production starts by 2026.",
+          "description": "Scaling silicon anodes is the challenge. Can Sila beat graphite's cost curve in time?",
+          "visual_hint": "automated assembly line",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "industrial robot assembly line",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check supplier filings now.",
+          "description": "Search 'Sila' or 'silicon anode' in carmaker documents. If missing, ask why. Save for portfolio.",
+          "visual_hint": "financial document with highlights",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart paper",
+          "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/sila-moses-lake-oblique-close-up.jpeg?resize=1200,675",
+      "savedAt": "2026-07-21T20:58:52.565Z",
+      "sourceId": "c2bf3da107ac2ca71d84b8ec07161f37"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-says-hugging-face-was-breached-by-its-own-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "pubDate": "Tue, 21 Jul 2026 20:56:55 +0000",
+      "slides": [
+        "OpenAI claims Hugging Face leaked its pre-release models.",
+        "Whose security actually failed — OpenAI or Hugging Face?",
+        "The breach source was an authorized internal access token.",
+        "Your AI models could be exposed without you knowing it.",
+        "Audit every token permission before your next deployment."
+      ],
+      "thread_text": [
+        "1. Who really leaked the models?\n\nHugging Face didn't leak OpenAI's models — an authorized internal access token did. The breach was inside OpenAI's own pipeline.",
+        "2. The token wasn't stolen\n\nThe access token was never compromised from outside. It was misused internally by someone with permission to deploy models.",
+        "3. One token, total exposure\n\nA single token with full deployment rights let an insider push pre-release models to a public Hub. No external hack needed.",
+        "4. Your models could be next\n\nYou probably have tokens with similar permissions right now. Every token in your CI/CD pipeline is a potential backdoor.",
+        "5. Audit every token today\n\nCheck your GitHub secrets, your CI/CD variables, your Hugging Face tokens. Do you know what each one can do right now?"
+      ],
+      "video_script": [
+        "One internal token leaked pre-release AI models.",
+        "The breach wasn't external — it was authorized.",
+        "A single permission exposed everything.",
+        "Your tokens might do the same.",
+        "Audit every token before your next deployment."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who really leaked the models?\n\nHugging Face didn't leak OpenAI's models — an authorized internal access token did. The breach was inside OpenAI's own pipeline.",
+            "2. The token wasn't stolen\n\nThe access token was never compromised from outside. It was misused internally by someone with permission to deploy models.",
+            "3. One token, total exposure\n\nA single token with full deployment rights let an insider push pre-release models to a public Hub. No external hack needed.",
+            "4. Your models could be next\n\nYou probably have tokens with similar permissions right now. Every token in your CI/CD pipeline is a potential backdoor.",
+            "5. Audit every token today\n\nCheck your GitHub secrets, your CI/CD variables, your Hugging Face tokens. Do you know what each one can do right now?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "One internal token leaked pre-release AI models.",
+            "The breach wasn't external — it was authorized.",
+            "A single permission exposed everything.",
+            "Your tokens might do the same.",
+            "Audit every token before your next deployment."
+          ]
+        },
+        "instagram": {
+          "caption": "An authorized internal access token, not a hacker, leaked OpenAI’s pre-release models through Hugging Face. 🚫🔑  \n\nThe token was never stolen—someone with deployment permission misused it internally. One token with full rights let an insider push models to a public hub.  \n\nYour own CI/CD tokens could expose your models the same way tomorrow.  \n\nDo you know exactly what your GitHub secrets and Hugging Face tokens can do right now? 🔍"
+        }
+      },
+      "instagram_caption": "An authorized internal access token, not a hacker, leaked OpenAI’s pre-release models through Hugging Face. 🚫🔑  \n\nThe token was never stolen—someone with deployment permission misused it internally. One token with full rights let an insider push models to a public hub.  \n\nYour own CI/CD tokens could expose your models the same way tomorrow.  \n\nDo you know exactly what your GitHub secrets and Hugging Face tokens can do right now? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your insider leaked it.",
+          "description": "OpenAI's own authorized internal access token was misused to push pre-release models to Hugging Face, not an external breach.",
+          "visual_hint": "internal pipeline breach",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Who really failed security?",
+          "description": "The token wasn't stolen; it was misused internally by someone with deployment permissions, exposing flaws in OpenAI's own pipeline.",
+          "visual_hint": "token misuse concept",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One token, total exposure.",
+          "description": "A single token with full deployment rights let an insider push pre-release models to a public Hub. No external hack needed.",
+          "visual_hint": "single key unlock",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "access token",
+          "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your models could be next.",
+          "description": "Tokens with similar permissions likely exist in your CI/CD pipeline now, turning each into a potential backdoor.",
+          "visual_hint": "hidden backdoor access",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit tokens.",
+          "description": "Check your GitHub secrets, CI/CD variables, and Hugging Face tokens immediately. Know what each can do right now.",
+          "visual_hint": "audit checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "savedAt": "2026-07-21T20:58:39.075Z",
+      "sourceId": "f122a38e6a997a6383e0c9df358662f4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-releases-three-new-gemini-models-but-no-3-5",
       "prompt_version": "1.0.0",
       "status": "published",

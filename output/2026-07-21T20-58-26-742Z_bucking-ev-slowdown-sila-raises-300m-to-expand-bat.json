@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bucking-ev-slowdown-sila-raises-300m-to-expand-bat",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+  "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+  "pubDate": "Tue, 21 Jul 2026 19:36:35 +0000",
+  "slides": [
+    "Sila just raised $300M—but why now?",
+    "EV sales growth is slowing across the industry.",
+    "Sila's silicon anode boosts range by 20%.",
+    "Your next EV could charge in 15 minutes.",
+    "Watch for Sila's factory output by 2026."
+  ],
+  "thread_text": [
+    "1. Why raise $300M now?\n\nSila just closed a massive funding round while EV sales growth is stalling across the industry. The timing signals a bet on the next bottleneck.",
+    "2. The battery bottleneck\n\nToday's lithium-ion cells are nearing their energy density ceiling. Sila's silicon anode adds 20% more range without increasing pack size.",
+    "3. 15-minute charge\n\nThat extra range isn't the only payoff. With Sila's chemistry, your next EV could charge fully in the time it takes to grab coffee.",
+    "4. Factory timeline\n\nSila plans to begin mass production by 2026. The question is whether scaling silicon anodes can beat the cost curve of traditional graphite.",
+    "5. Check the stock list\n\nGo to any carmaker's supplier filings and search for \"Sila\" or \"silicon anode.\" If you don't see it yet, ask investor relations why."
+  ],
+  "video_script": [
+    "Sila raised 300 million dollars while sales slow.",
+    "Their silicon anode boosts EV range by 20 percent.",
+    "Your next EV could charge in 15 minutes.",
+    "Watch for factory output by 2026.",
+    "Check carmaker supplier filings for Sila today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why raise $300M now?\n\nSila just closed a massive funding round while EV sales growth is stalling across the industry. The timing signals a bet on the next bottleneck.",
+        "2. The battery bottleneck\n\nToday's lithium-ion cells are nearing their energy density ceiling. Sila's silicon anode adds 20% more range without increasing pack size.",
+        "3. 15-minute charge\n\nThat extra range isn't the only payoff. With Sila's chemistry, your next EV could charge fully in the time it takes to grab coffee.",
+        "4. Factory timeline\n\nSila plans to begin mass production by 2026. The question is whether scaling silicon anodes can beat the cost curve of traditional graphite.",
+        "5. Check the stock list\n\nGo to any carmaker's supplier filings and search for \"Sila\" or \"silicon anode.\" If you don't see it yet, ask investor relations why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sila raised 300 million dollars while sales slow.",
+        "Their silicon anode boosts EV range by 20 percent.",
+        "Your next EV could charge in 15 minutes.",
+        "Watch for factory output by 2026.",
+        "Check carmaker supplier filings for Sila today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next EV could charge to full in the time it takes you to grab a coffee ☕.\n\nSila just raised $300M to scale a silicon battery anode that boosts range by 20% without making the pack bigger. Mass production is slated for 2026. ⚡\n\nFor decision-makers: this shifts the timeline on when your buyers can expect 15-minute charges as a standard spec.\n\nAre you planning your product roadmap around silicon anodes—or waiting for graphite to catch up? 🧭"
+    }
+  },
+  "instagram_caption": "Your next EV could charge to full in the time it takes you to grab a coffee ☕.\n\nSila just raised $300M to scale a silicon battery anode that boosts range by 20% without making the pack bigger. Mass production is slated for 2026. ⚡\n\nFor decision-makers: this shifts the timeline on when your buyers can expect 15-minute charges as a standard spec.\n\nAre you planning your product roadmap around silicon anodes—or waiting for graphite to catch up? 🧭",
+  "carousel_slides": [
+    {
+      "hook": "Why raise $300M now?",
+      "description": "EV sales slow down, but Sila bets on the next battery bottleneck with a massive funding round.",
+      "visual_hint": "factory with glowing reactors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "battery factory interior"
+    },
+    {
+      "hook": "Silicon anodes break the ceiling.",
+      "description": "Today's lithium-ion cells are maxed out. Sila's anode adds 20% range without bigger packs.",
+      "visual_hint": "battery pack cutaway",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "lithium ion battery cross section",
+      "image": "https://images.pexels.com/photos/13958668/pexels-photo-13958668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Charge in 15 minutes.",
+      "description": "With Sila's chemistry, your next EV could fully charge in the time it takes to grab coffee.",
+      "visual_hint": "charging cable plugged in",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electric car charging port",
+      "image": "https://images.pexels.com/photos/35736783/pexels-photo-35736783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Production starts by 2026.",
+      "description": "Scaling silicon anodes is the challenge. Can Sila beat graphite's cost curve in time?",
+      "visual_hint": "automated assembly line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "industrial robot assembly line",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check supplier filings now.",
+      "description": "Search 'Sila' or 'silicon anode' in carmaker documents. If missing, ask why. Save for portfolio.",
+      "visual_hint": "financial document with highlights",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart paper",
+      "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/sila-moses-lake-oblique-close-up.jpeg?resize=1200,675",
+  "savedAt": "2026-07-21T20:58:52.565Z",
+  "sourceId": "c2bf3da107ac2ca71d84b8ec07161f37"
+}
