@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "music-streamer-deezer-says-more-than-50-of-daily-u",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+  "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+  "pubDate": "Tue, 21 Jul 2026 13:27:42 +0000",
+  "slides": [
+    "What if half of new songs aren't human?",
+    "Deezer now tags AI-made tracks automatically.",
+    "Yet listeners cannot tell which is which.",
+    "Artists must confirm their work is human.",
+    "Check your uploads before they vanish tomorrow."
+  ],
+  "thread_text": [
+    "What if half is AI?\n\nDeezer has begun tagging AI-generated songs automatically — without waiting for artists to declare them.",
+    "Listeners can't tell.\n\nIn blind tests, people guessed wrong as often as right. The ear is useless here.",
+    "Artists must prove humanity.\n\nNew uploads now require a manual confirmation: \"This work is human-made.\" The burden shifted.",
+    "Uploads vanish tomorrow.\n\nAny track without a human declaration will be removed. No grace period. No appeal.",
+    "Check your own feed.\n\nScroll your last uploads. Could you tell which ones are synthetic? If you're wrong, tomorrow they're gone."
+  ],
+  "video_script": [
+    "Half of new songs might be AI.",
+    "Deezer tags them automatically now.",
+    "Listeners can't tell the difference.",
+    "Artists must confirm work is human.",
+    "Check uploads before they vanish tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "What if half is AI?\n\nDeezer has begun tagging AI-generated songs automatically — without waiting for artists to declare them.",
+        "Listeners can't tell.\n\nIn blind tests, people guessed wrong as often as right. The ear is useless here.",
+        "Artists must prove humanity.\n\nNew uploads now require a manual confirmation: \"This work is human-made.\" The burden shifted.",
+        "Uploads vanish tomorrow.\n\nAny track without a human declaration will be removed. No grace period. No appeal.",
+        "Check your own feed.\n\nScroll your last uploads. Could you tell which ones are synthetic? If you're wrong, tomorrow they're gone."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Half of new songs might be AI.",
+        "Deezer tags them automatically now.",
+        "Listeners can't tell the difference.",
+        "Artists must confirm work is human.",
+        "Check uploads before they vanish tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "Half of the songs uploaded to Deezer every day are now made by AI, not people.\n\nThe company has started tagging synthetic tracks automatically without waiting for artists to label them. In blind tests, listeners couldn't tell the difference between human and AI music.\n\nArtists now have to manually check a box saying \"this work is human-made\" for every new upload. Any track without that declaration gets removed tomorrow — no appeal.\n\nScroll your last uploads. 🎧 Could you honestly tell which ones are real? ♻️"
+    }
+  },
+  "instagram_caption": "Half of the songs uploaded to Deezer every day are now made by AI, not people.\n\nThe company has started tagging synthetic tracks automatically without waiting for artists to label them. In blind tests, listeners couldn't tell the difference between human and AI music.\n\nArtists now have to manually check a box saying \"this work is human-made\" for every new upload. Any track without that declaration gets removed tomorrow — no appeal.\n\nScroll your last uploads. 🎧 Could you honestly tell which ones are real? ♻️",
+  "carousel_slides": [
+    {
+      "hook": "Half of new songs aren't human.",
+      "description": "Deezer reports over 50% of daily uploads are AI-generated, automatically tagging them without artist input.",
+      "visual_hint": "AI music wave overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Listeners can't tell the difference.",
+      "description": "Blind tests show people guess wrong as often as right — the ear is useless here.",
+      "visual_hint": "Ear and question mark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave oscilloscope",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Artists must prove humanity.",
+      "description": "New uploads need manual confirmation: 'This work is human-made.' The burden shifted to creators.",
+      "visual_hint": "Check box on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Uploads vanish tomorrow.",
+      "description": "Tracks without a human declaration face removal — no grace period, no appeal.",
+      "visual_hint": "Clock counting down",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scroll your last uploads now.",
+      "description": "Check your feed for AI tracks before they disappear — comment which ones fooled you.",
+      "visual_hint": "Phone showing music list",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
+  "savedAt": "2026-07-21T15:29:36.423Z",
+  "sourceId": "a70f755423c2f663cab962edd6ca799c"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-music-generator-suno-breach-affects-55m-users-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+  "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+  "pubDate": "Tue, 21 Jul 2026 14:48:18 +0000",
+  "slides": [
+    "55 million Suno users just had their data leaked.",
+    "What exactly was exposed remains unclear for many.",
+    "Suno itself has not yet confirmed the breach publicly.",
+    "Check your email and change your password immediately.",
+    "Don't reuse passwords anywhere else until you verify."
+  ],
+  "thread_text": [
+    "1. Your data might be out.\n\n55 million Suno users had their information leaked. No one knows exactly what was taken yet.",
+    "2. Suno is silent.\n\nThe company hasn't confirmed the breach publicly. That often means the attack is worse than they first thought.",
+    "3. What was exposed?\n\nEmail addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+    "4. Assume the worst.\n\nDon't reuse your Suno password anywhere else. Hackers will try it on your bank, email, and social media next.",
+    "5. Act now.\n\nCheck your email for any breach notifications, then change your Suno password immediately. Have you checked your password manager yet?"
+  ],
+  "video_script": [
+    "55 million Suno users' data leaked.",
+    "Suno hasn't confirmed the breach yet.",
+    "What was exposed is still unclear.",
+    "Stop reusing that password everywhere.",
+    "Check your email and change passwords now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your data might be out.\n\n55 million Suno users had their information leaked. No one knows exactly what was taken yet.",
+        "2. Suno is silent.\n\nThe company hasn't confirmed the breach publicly. That often means the attack is worse than they first thought.",
+        "3. What was exposed?\n\nEmail addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+        "4. Assume the worst.\n\nDon't reuse your Suno password anywhere else. Hackers will try it on your bank, email, and social media next.",
+        "5. Act now.\n\nCheck your email for any breach notifications, then change your Suno password immediately. Have you checked your password manager yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "55 million Suno users' data leaked.",
+        "Suno hasn't confirmed the breach yet.",
+        "What was exposed is still unclear.",
+        "Stop reusing that password everywhere.",
+        "Check your email and change passwords now."
+      ]
+    },
+    "instagram": {
+      "caption": "55 million Suno accounts just hit the data leak list — emails, maybe more.  \n\nSuno hasn’t confirmed anything yet. That silence often means nobody knows the full damage, or worse.  \n\nYour login could be used to try your bank or email next.  \n\nCheck your inbox for breach alerts now, then change your Suno password — and never reuse it. 🔐📩  \n\nHave you checked your password manager yet?"
+    }
+  },
+  "instagram_caption": "55 million Suno accounts just hit the data leak list — emails, maybe more.  \n\nSuno hasn’t confirmed anything yet. That silence often means nobody knows the full damage, or worse.  \n\nYour login could be used to try your bank or email next.  \n\nCheck your inbox for breach alerts now, then change your Suno password — and never reuse it. 🔐📩  \n\nHave you checked your password manager yet?",
+  "carousel_slides": [
+    {
+      "hook": "Your data might be out.",
+      "description": "55 million Suno users had information leaked. No one knows exactly what was taken yet.",
+      "visual_hint": "Breach alert screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data breach screen"
+    },
+    {
+      "hook": "Suno is staying silent.",
+      "description": "The company hasn't confirmed the breach publicly, often meaning the attack is worse than first thought.",
+      "visual_hint": "Silent office building",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office building exterior",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What exactly was exposed?",
+      "description": "Email addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+      "visual_hint": "Magnifying glass on data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass data",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Assume the worst now.",
+      "description": "Don't reuse your Suno password elsewhere. Hackers will try it on your bank, email, and social media.",
+      "visual_hint": "Hand typing on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing laptop",
+      "image": "https://images.pexels.com/photos/6001241/pexels-photo-6001241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check later.",
+      "description": "Check your email for breach notifications, then change your Suno password immediately.",
+      "visual_hint": "Lock icon on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "lock icon phone",
+      "image": "https://images.pexels.com/photos/11216329/pexels-photo-11216329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/mikey-shulman-2159558534.jpg?resize=1200,942",
+  "savedAt": "2026-07-21T15:29:24.662Z",
+  "sourceId": "a5813b8055fb9d0e09d67cf82bb5661c"
+}

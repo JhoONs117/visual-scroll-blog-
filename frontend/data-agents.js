@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "music-streamer-deezer-says-more-than-50-of-daily-u",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "pubDate": "Tue, 21 Jul 2026 13:27:42 +0000",
+      "slides": [
+        "What if half of new songs aren't human?",
+        "Deezer now tags AI-made tracks automatically.",
+        "Yet listeners cannot tell which is which.",
+        "Artists must confirm their work is human.",
+        "Check your uploads before they vanish tomorrow."
+      ],
+      "thread_text": [
+        "What if half is AI?\n\nDeezer has begun tagging AI-generated songs automatically — without waiting for artists to declare them.",
+        "Listeners can't tell.\n\nIn blind tests, people guessed wrong as often as right. The ear is useless here.",
+        "Artists must prove humanity.\n\nNew uploads now require a manual confirmation: \"This work is human-made.\" The burden shifted.",
+        "Uploads vanish tomorrow.\n\nAny track without a human declaration will be removed. No grace period. No appeal.",
+        "Check your own feed.\n\nScroll your last uploads. Could you tell which ones are synthetic? If you're wrong, tomorrow they're gone."
+      ],
+      "video_script": [
+        "Half of new songs might be AI.",
+        "Deezer tags them automatically now.",
+        "Listeners can't tell the difference.",
+        "Artists must confirm work is human.",
+        "Check uploads before they vanish tomorrow."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "What if half is AI?\n\nDeezer has begun tagging AI-generated songs automatically — without waiting for artists to declare them.",
+            "Listeners can't tell.\n\nIn blind tests, people guessed wrong as often as right. The ear is useless here.",
+            "Artists must prove humanity.\n\nNew uploads now require a manual confirmation: \"This work is human-made.\" The burden shifted.",
+            "Uploads vanish tomorrow.\n\nAny track without a human declaration will be removed. No grace period. No appeal.",
+            "Check your own feed.\n\nScroll your last uploads. Could you tell which ones are synthetic? If you're wrong, tomorrow they're gone."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Half of new songs might be AI.",
+            "Deezer tags them automatically now.",
+            "Listeners can't tell the difference.",
+            "Artists must confirm work is human.",
+            "Check uploads before they vanish tomorrow."
+          ]
+        },
+        "instagram": {
+          "caption": "Half of the songs uploaded to Deezer every day are now made by AI, not people.\n\nThe company has started tagging synthetic tracks automatically without waiting for artists to label them. In blind tests, listeners couldn't tell the difference between human and AI music.\n\nArtists now have to manually check a box saying \"this work is human-made\" for every new upload. Any track without that declaration gets removed tomorrow — no appeal.\n\nScroll your last uploads. 🎧 Could you honestly tell which ones are real? ♻️"
+        }
+      },
+      "instagram_caption": "Half of the songs uploaded to Deezer every day are now made by AI, not people.\n\nThe company has started tagging synthetic tracks automatically without waiting for artists to label them. In blind tests, listeners couldn't tell the difference between human and AI music.\n\nArtists now have to manually check a box saying \"this work is human-made\" for every new upload. Any track without that declaration gets removed tomorrow — no appeal.\n\nScroll your last uploads. 🎧 Could you honestly tell which ones are real? ♻️",
+      "carousel_slides": [
+        {
+          "hook": "Half of new songs aren't human.",
+          "description": "Deezer reports over 50% of daily uploads are AI-generated, automatically tagging them without artist input.",
+          "visual_hint": "AI music wave overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Listeners can't tell the difference.",
+          "description": "Blind tests show people guess wrong as often as right — the ear is useless here.",
+          "visual_hint": "Ear and question mark",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave oscilloscope",
+          "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Artists must prove humanity.",
+          "description": "New uploads need manual confirmation: 'This work is human-made.' The burden shifted to creators.",
+          "visual_hint": "Check box on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Uploads vanish tomorrow.",
+          "description": "Tracks without a human declaration face removal — no grace period, no appeal.",
+          "visual_hint": "Clock counting down",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scroll your last uploads now.",
+          "description": "Check your feed for AI tracks before they disappear — comment which ones fooled you.",
+          "visual_hint": "Phone showing music list",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
+      "savedAt": "2026-07-21T15:29:36.423Z",
+      "sourceId": "a70f755423c2f663cab962edd6ca799c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-music-generator-suno-breach-affects-55m-users-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+      "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+      "pubDate": "Tue, 21 Jul 2026 14:48:18 +0000",
+      "slides": [
+        "55 million Suno users just had their data leaked.",
+        "What exactly was exposed remains unclear for many.",
+        "Suno itself has not yet confirmed the breach publicly.",
+        "Check your email and change your password immediately.",
+        "Don't reuse passwords anywhere else until you verify."
+      ],
+      "thread_text": [
+        "1. Your data might be out.\n\n55 million Suno users had their information leaked. No one knows exactly what was taken yet.",
+        "2. Suno is silent.\n\nThe company hasn't confirmed the breach publicly. That often means the attack is worse than they first thought.",
+        "3. What was exposed?\n\nEmail addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+        "4. Assume the worst.\n\nDon't reuse your Suno password anywhere else. Hackers will try it on your bank, email, and social media next.",
+        "5. Act now.\n\nCheck your email for any breach notifications, then change your Suno password immediately. Have you checked your password manager yet?"
+      ],
+      "video_script": [
+        "55 million Suno users' data leaked.",
+        "Suno hasn't confirmed the breach yet.",
+        "What was exposed is still unclear.",
+        "Stop reusing that password everywhere.",
+        "Check your email and change passwords now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your data might be out.\n\n55 million Suno users had their information leaked. No one knows exactly what was taken yet.",
+            "2. Suno is silent.\n\nThe company hasn't confirmed the breach publicly. That often means the attack is worse than they first thought.",
+            "3. What was exposed?\n\nEmail addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+            "4. Assume the worst.\n\nDon't reuse your Suno password anywhere else. Hackers will try it on your bank, email, and social media next.",
+            "5. Act now.\n\nCheck your email for any breach notifications, then change your Suno password immediately. Have you checked your password manager yet?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "55 million Suno users' data leaked.",
+            "Suno hasn't confirmed the breach yet.",
+            "What was exposed is still unclear.",
+            "Stop reusing that password everywhere.",
+            "Check your email and change passwords now."
+          ]
+        },
+        "instagram": {
+          "caption": "55 million Suno accounts just hit the data leak list — emails, maybe more.  \n\nSuno hasn’t confirmed anything yet. That silence often means nobody knows the full damage, or worse.  \n\nYour login could be used to try your bank or email next.  \n\nCheck your inbox for breach alerts now, then change your Suno password — and never reuse it. 🔐📩  \n\nHave you checked your password manager yet?"
+        }
+      },
+      "instagram_caption": "55 million Suno accounts just hit the data leak list — emails, maybe more.  \n\nSuno hasn’t confirmed anything yet. That silence often means nobody knows the full damage, or worse.  \n\nYour login could be used to try your bank or email next.  \n\nCheck your inbox for breach alerts now, then change your Suno password — and never reuse it. 🔐📩  \n\nHave you checked your password manager yet?",
+      "carousel_slides": [
+        {
+          "hook": "Your data might be out.",
+          "description": "55 million Suno users had information leaked. No one knows exactly what was taken yet.",
+          "visual_hint": "Breach alert screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data breach screen"
+        },
+        {
+          "hook": "Suno is staying silent.",
+          "description": "The company hasn't confirmed the breach publicly, often meaning the attack is worse than first thought.",
+          "visual_hint": "Silent office building",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office building exterior",
+          "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What exactly was exposed?",
+          "description": "Email addresses, passwords, or payment details could be in the leak. Without confirmation, you're in the dark.",
+          "visual_hint": "Magnifying glass on data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass data",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Assume the worst now.",
+          "description": "Don't reuse your Suno password elsewhere. Hackers will try it on your bank, email, and social media.",
+          "visual_hint": "Hand typing on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand typing laptop",
+          "image": "https://images.pexels.com/photos/6001241/pexels-photo-6001241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check later.",
+          "description": "Check your email for breach notifications, then change your Suno password immediately.",
+          "visual_hint": "Lock icon on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "lock icon phone",
+          "image": "https://images.pexels.com/photos/11216329/pexels-photo-11216329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/mikey-shulman-2159558534.jpg?resize=1200,942",
+      "savedAt": "2026-07-21T15:29:24.662Z",
+      "sourceId": "a5813b8055fb9d0e09d67cf82bb5661c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-slot-machine-effect-why-generative-feeds-di",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+      "pubDate": "Tue, 21 Jul 2026 12:50:06 +0000",
+      "slides": [
+        "What if your tools are rewiring your focus for you?",
+        "Generative feeds use variable rewards like slot machines.",
+        "These triggers hijack dopamine, not just attention spans.",
+        "Your deep work blocks now need active feed blocking.",
+        "Test a 48-hour feed blackout to measure your baseline."
+      ],
+      "thread_text": [
+        "1. Your tools are stealing focus\n\nThe average office worker now checks email 74 times a day, not because they need to, but because the interruption itself feels rewarding.",
+        "2. Dopamine hijacks your priorities\n\nVariable rewards—like the unpredictable thrill of a new notification—train your brain to prefer shallow tasks over deep work.",
+        "3. Feed triggers bypass willpower\n\nThese mechanisms activate the same neural pathways as slot machines, making the urge to glance at your feed nearly impossible to resist through sheer discipline.",
+        "4. Deep work requires active defense\n\nSimply intending to focus isn't enough—generative algorithms are designed to recapture your attention, meaning you must block feeds at the system level to reclaim your time.",
+        "5. Try a 48-hour feed blackout\n\nTurn off all algorithmic feeds for two days. If you feel a spike in boredom or anxiety, measure it—that's your baseline against the dopamine trap."
+      ],
+      "video_script": [
+        "Your tools are rewiring your focus.",
+        "They use variable rewards like slot machines.",
+        "These triggers hijack your dopamine system.",
+        "Deep work now needs active feed blocking.",
+        "Test a 48-hour blackout to measure baseline."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your tools are stealing focus\n\nThe average office worker now checks email 74 times a day, not because they need to, but because the interruption itself feels rewarding.",
+            "2. Dopamine hijacks your priorities\n\nVariable rewards—like the unpredictable thrill of a new notification—train your brain to prefer shallow tasks over deep work.",
+            "3. Feed triggers bypass willpower\n\nThese mechanisms activate the same neural pathways as slot machines, making the urge to glance at your feed nearly impossible to resist through sheer discipline.",
+            "4. Deep work requires active defense\n\nSimply intending to focus isn't enough—generative algorithms are designed to recapture your attention, meaning you must block feeds at the system level to reclaim your time.",
+            "5. Try a 48-hour feed blackout\n\nTurn off all algorithmic feeds for two days. If you feel a spike in boredom or anxiety, measure it—that's your baseline against the dopamine trap."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your tools are rewiring your focus.",
+            "They use variable rewards like slot machines.",
+            "These triggers hijack your dopamine system.",
+            "Deep work now needs active feed blocking.",
+            "Test a 48-hour blackout to measure baseline."
+          ]
+        },
+        "instagram": {
+          "caption": "Your brain treats a notification like a slot machine jackpot—that’s why you checked your phone 74 times yesterday without deciding to.\n\nGenerative feeds use unpredictable rewards to hijack your dopamine, pulling you toward shallow tasks. These triggers bypass willpower entirely.\n\n🧠 Your deep work now requires active defense: block feeds at the system level, not just with intention.\n\n🔲 Try a 48-hour feed blackout. Track the boredom spike—that’s your baseline against the trap.\n\nWhat would you do with those reclaimed hours?"
+        }
+      },
+      "instagram_caption": "Your brain treats a notification like a slot machine jackpot—that’s why you checked your phone 74 times yesterday without deciding to.\n\nGenerative feeds use unpredictable rewards to hijack your dopamine, pulling you toward shallow tasks. These triggers bypass willpower entirely.\n\n🧠 Your deep work now requires active defense: block feeds at the system level, not just with intention.\n\n🔲 Try a 48-hour feed blackout. Track the boredom spike—that’s your baseline against the trap.\n\nWhat would you do with those reclaimed hours?",
+      "carousel_slides": [
+        {
+          "hook": "Your tools are rewiring focus.",
+          "description": "Office workers check email 74 times daily because interruptions feel rewarding, not necessary.",
+          "visual_hint": "slot machine lever pull",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "slot machine casino"
+        },
+        {
+          "hook": "Notifications hijack your dopamine.",
+          "description": "Variable rewards train your brain to prefer shallow tasks over deep work.",
+          "visual_hint": "dopamine molecule graphic",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "brain scan dopamine",
+          "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Feeds bypass your willpower.",
+          "description": "Algorithmic feeds activate same neural paths as slot machines, making resistance nearly impossible.",
+          "visual_hint": "neural path highlighted",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "neural network wires",
+          "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Deep work needs active defense.",
+          "description": "Simply intending to focus fails; block feeds at system level to reclaim time.",
+          "visual_hint": "hand blocking screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand over smartphone",
+          "image": "https://images.pexels.com/photos/3946006/pexels-photo-3946006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to try later.",
+          "description": "Turn off all algorithmic feeds for 48 hours. Measure boredom or anxiety as your baseline.",
+          "visual_hint": "clock with zero icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "digital detox timer",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/31379653/pexels-photo-31379653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-21T15:29:09.330Z",
+      "sourceId": "1b986bb6aa41072a7d1944b0273c5961"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "america-needs-to-stop-getting-shocked-by-chinese-a",
       "prompt_version": "1.0.0",
       "status": "published",
