@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bristol-myers-squibb-buys-nvidia-ai-system-for-dru",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+  "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+  "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Why would a drug giant buy an AI chipmaker's system?",
+    "Bristol Myers Squibb will use Nvidia's AI to screen molecules.",
+    "The system found candidates 10 times faster than traditional methods.",
+    "This shaves years off your drug's time to market.",
+    "Ask your R&D team: are we using AI for early discovery?"
+  ],
+  "thread_text": [
+    "Why buy an AI system?\n\nBristol Myers Squibb just licensed Nvidia's AI to screen molecules at 10x speed.",
+    "Speed changes the game.\n\nTraditional screening took years. Now the same work finishes in months.",
+    "Faster findings cut costs.\n\nFewer dead ends early means less money burned on failed candidates.",
+    "Years shaved off timelines.\n\nRegulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+    "Ask your R&D team today.\n\nPull up your current screening pipeline. Where could AI shrink your clock?"
+  ],
+  "video_script": [
+    "Drug giant buys Nvidia's AI system.",
+    "Screens molecules ten times faster.",
+    "Shaves years off time to market.",
+    "Cuts wasted money on failed candidates.",
+    "Ask your team: Are you using AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Why buy an AI system?\n\nBristol Myers Squibb just licensed Nvidia's AI to screen molecules at 10x speed.",
+        "Speed changes the game.\n\nTraditional screening took years. Now the same work finishes in months.",
+        "Faster findings cut costs.\n\nFewer dead ends early means less money burned on failed candidates.",
+        "Years shaved off timelines.\n\nRegulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+        "Ask your R&D team today.\n\nPull up your current screening pipeline. Where could AI shrink your clock?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Drug giant buys Nvidia's AI system.",
+        "Screens molecules ten times faster.",
+        "Shaves years off time to market.",
+        "Cuts wasted money on failed candidates.",
+        "Ask your team: Are you using AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "Screening molecules used to take years. Now a drug giant just cut that to months — by buying Nvidia’s AI system.\n\nBristol Myers Squibb is using the chipmaker’s AI to scan molecular candidates at 10x the speed of traditional methods. Faster screening means fewer dead ends early, less money burned on failed drugs.\n\nFor anyone working in R&D, this changes your timeline. Years vanish from the clock — regulatory review starts earlier, patents lock in longer, revenue comes sooner.\n\nPull up your current screening pipeline right now: where could AI shrink your next drug’s clock?"
+    }
+  },
+  "instagram_caption": "Screening molecules used to take years. Now a drug giant just cut that to months — by buying Nvidia’s AI system.\n\nBristol Myers Squibb is using the chipmaker’s AI to scan molecular candidates at 10x the speed of traditional methods. Faster screening means fewer dead ends early, less money burned on failed drugs.\n\nFor anyone working in R&D, this changes your timeline. Years vanish from the clock — regulatory review starts earlier, patents lock in longer, revenue comes sooner.\n\nPull up your current screening pipeline right now: where could AI shrink your next drug’s clock?",
+  "carousel_slides": [
+    {
+      "hook": "10x faster molecule screening?",
+      "description": "Bristol Myers Squibb licensed Nvidia AI to screen molecules 10 times faster than traditional methods.",
+      "visual_hint": "AI chip close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia chip"
+    },
+    {
+      "hook": "Speed changes everything.",
+      "description": "Traditional screening took years; now Nvidia AI finishes the same work in months.",
+      "visual_hint": "Hourglass sand flow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hourglass",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costs drop with AI.",
+      "description": "Fewer dead ends early means less money wasted on failed drug candidates.",
+      "visual_hint": "Chart arrow down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Years shaved off timelines.",
+      "description": "Regulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+      "visual_hint": "Calendar fast forward",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calender",
+      "image": "https://images.pexels.com/photos/7679449/pexels-photo-7679449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to ask your R&D team.",
+      "description": "Pull up your current screening pipeline and identify where AI can shrink your timeline.",
+      "visual_hint": "Team meeting whiteboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-21T11:42:24.904Z",
+  "sourceId": "bd4842a7b426a98510a5cbe538eb09e6"
+}

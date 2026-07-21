@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "spacex-in-your-index-fund-explained",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX in your index fund, explained",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "pubDate": "2026-07-20T21:00:00.000Z",
+      "slides": [
+        "Could your ETF secretly own SpaceX shares?",
+        "SpaceX isn't public, but one loophole exists.",
+        "A small fund holds private shares via secondary markets.",
+        "You can buy that ETF today—but volumes are tiny.",
+        "Check your portfolio's holdings; you might be surprised."
+      ],
+      "thread_text": [
+        "1. Already holding SpaceX?\n\nA tiny ETF owns SpaceX shares through secondary markets—check your portfolio today.",
+        "2. The loophole\n\nSpaceX isn't public, so this fund buys private shares from employees and early investors.",
+        "3. But volumes are risky\n\nOnly a few thousand shares trade daily—selling fast might be impossible.",
+        "4. Hidden in plain sight\n\nMost investors don't know their ETF has private stakes; it's not on the main ticker.",
+        "5. Look up your holdings now\n\nSearch your brokerage for this ETF's full list. Are you already exposed?"
+      ],
+      "video_script": [
+        "Your ETF might own SpaceX shares.",
+        "SpaceX isn't public—but a loophole exists.",
+        "A small fund buys private shares secondhand.",
+        "You can buy it today, but volumes are tiny.",
+        "Check your portfolio; you might be surprised."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Already holding SpaceX?\n\nA tiny ETF owns SpaceX shares through secondary markets—check your portfolio today.",
+            "2. The loophole\n\nSpaceX isn't public, so this fund buys private shares from employees and early investors.",
+            "3. But volumes are risky\n\nOnly a few thousand shares trade daily—selling fast might be impossible.",
+            "4. Hidden in plain sight\n\nMost investors don't know their ETF has private stakes; it's not on the main ticker.",
+            "5. Look up your holdings now\n\nSearch your brokerage for this ETF's full list. Are you already exposed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your ETF might own SpaceX shares.",
+            "SpaceX isn't public—but a loophole exists.",
+            "A small fund buys private shares secondhand.",
+            "You can buy it today, but volumes are tiny.",
+            "Check your portfolio; you might be surprised."
+          ]
+        },
+        "instagram": {
+          "caption": "SpaceX might already be inside your ETF portfolio. 🚀\n\nA tiny fund is buying SpaceX shares on the secondary market from employees and early investors—yes, even though SpaceX isn't publicly listed. It works because the fund itself is an ETF you can buy today.\n\nThing is: only a few thousand shares trade daily. If you need to sell fast, you could be stuck. 📉\n\nThat hidden exposure? Most brokerages won't show it on the main ticker—you have to dig into the fund's full holdings. 💼\n\nSearch your portfolio now: is SpaceX quietly sitting in your index fund? 🔍"
+        }
+      },
+      "instagram_caption": "SpaceX might already be inside your ETF portfolio. 🚀\n\nA tiny fund is buying SpaceX shares on the secondary market from employees and early investors—yes, even though SpaceX isn't publicly listed. It works because the fund itself is an ETF you can buy today.\n\nThing is: only a few thousand shares trade daily. If you need to sell fast, you could be stuck. 📉\n\nThat hidden exposure? Most brokerages won't show it on the main ticker—you have to dig into the fund's full holdings. 💼\n\nSearch your portfolio now: is SpaceX quietly sitting in your index fund? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your ETF might own SpaceX already.",
+          "description": "A tiny ETF buys SpaceX shares on secondary markets—check your portfolio today.",
+          "visual_hint": "ETFs and rocket silhouette",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "How can you buy private SpaceX stock?",
+          "description": "The fund buys shares from employees and early investors via secondary markets, not IPOs.",
+          "visual_hint": "Secondary market trade arrows",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "trading floor",
+          "image": "https://images.pexels.com/photos/7567231/pexels-photo-7567231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Liquidity is dangerously low.",
+          "description": "Only a few thousand shares trade daily—selling fast might be impossible.",
+          "visual_hint": "Low volume warning sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty trading screen",
+          "image": "https://images.pexels.com/photos/10628029/pexels-photo-10628029.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "SpaceX hidden in plain sight.",
+          "description": "Most investors miss private stakes on their ETF's full list—not on the main ticker.",
+          "visual_hint": "Magnifying glass over holdings",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "holding smartphone",
+          "image": "https://images.pexels.com/photos/17467828/pexels-photo-17467828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this & check your holdings.",
+          "description": "Search your brokerage for this ETF's full list—you might already be exposed.",
+          "visual_hint": "Portfolio app search bar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone portfolio app",
+          "image": "https://images.pexels.com/photos/7989073/pexels-photo-7989073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-21T11:42:37.736Z",
+      "sourceId": "3353d192712ab73ece1b81299b13d36c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "bristol-myers-squibb-buys-nvidia-ai-system-for-dru",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+      "pubDate": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "Why would a drug giant buy an AI chipmaker's system?",
+        "Bristol Myers Squibb will use Nvidia's AI to screen molecules.",
+        "The system found candidates 10 times faster than traditional methods.",
+        "This shaves years off your drug's time to market.",
+        "Ask your R&D team: are we using AI for early discovery?"
+      ],
+      "thread_text": [
+        "Why buy an AI system?\n\nBristol Myers Squibb just licensed Nvidia's AI to screen molecules at 10x speed.",
+        "Speed changes the game.\n\nTraditional screening took years. Now the same work finishes in months.",
+        "Faster findings cut costs.\n\nFewer dead ends early means less money burned on failed candidates.",
+        "Years shaved off timelines.\n\nRegulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+        "Ask your R&D team today.\n\nPull up your current screening pipeline. Where could AI shrink your clock?"
+      ],
+      "video_script": [
+        "Drug giant buys Nvidia's AI system.",
+        "Screens molecules ten times faster.",
+        "Shaves years off time to market.",
+        "Cuts wasted money on failed candidates.",
+        "Ask your team: Are you using AI?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Why buy an AI system?\n\nBristol Myers Squibb just licensed Nvidia's AI to screen molecules at 10x speed.",
+            "Speed changes the game.\n\nTraditional screening took years. Now the same work finishes in months.",
+            "Faster findings cut costs.\n\nFewer dead ends early means less money burned on failed candidates.",
+            "Years shaved off timelines.\n\nRegulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+            "Ask your R&D team today.\n\nPull up your current screening pipeline. Where could AI shrink your clock?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Drug giant buys Nvidia's AI system.",
+            "Screens molecules ten times faster.",
+            "Shaves years off time to market.",
+            "Cuts wasted money on failed candidates.",
+            "Ask your team: Are you using AI?"
+          ]
+        },
+        "instagram": {
+          "caption": "Screening molecules used to take years. Now a drug giant just cut that to months — by buying Nvidia’s AI system.\n\nBristol Myers Squibb is using the chipmaker’s AI to scan molecular candidates at 10x the speed of traditional methods. Faster screening means fewer dead ends early, less money burned on failed drugs.\n\nFor anyone working in R&D, this changes your timeline. Years vanish from the clock — regulatory review starts earlier, patents lock in longer, revenue comes sooner.\n\nPull up your current screening pipeline right now: where could AI shrink your next drug’s clock?"
+        }
+      },
+      "instagram_caption": "Screening molecules used to take years. Now a drug giant just cut that to months — by buying Nvidia’s AI system.\n\nBristol Myers Squibb is using the chipmaker’s AI to scan molecular candidates at 10x the speed of traditional methods. Faster screening means fewer dead ends early, less money burned on failed drugs.\n\nFor anyone working in R&D, this changes your timeline. Years vanish from the clock — regulatory review starts earlier, patents lock in longer, revenue comes sooner.\n\nPull up your current screening pipeline right now: where could AI shrink your next drug’s clock?",
+      "carousel_slides": [
+        {
+          "hook": "10x faster molecule screening?",
+          "description": "Bristol Myers Squibb licensed Nvidia AI to screen molecules 10 times faster than traditional methods.",
+          "visual_hint": "AI chip close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Nvidia chip"
+        },
+        {
+          "hook": "Speed changes everything.",
+          "description": "Traditional screening took years; now Nvidia AI finishes the same work in months.",
+          "visual_hint": "Hourglass sand flow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hourglass",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Costs drop with AI.",
+          "description": "Fewer dead ends early means less money wasted on failed drug candidates.",
+          "visual_hint": "Chart arrow down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Years shaved off timelines.",
+          "description": "Regulatory review starts earlier, patents lock in longer, revenue comes sooner.",
+          "visual_hint": "Calendar fast forward",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calender",
+          "image": "https://images.pexels.com/photos/7679449/pexels-photo-7679449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to ask your R&D team.",
+          "description": "Pull up your current screening pipeline and identify where AI can shrink your timeline.",
+          "visual_hint": "Team meeting whiteboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/7652175/pexels-photo-7652175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-21T11:42:24.904Z",
+      "sourceId": "bd4842a7b426a98510a5cbe538eb09e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "chinese-open-weight-models-are-cheap-washington-is",
       "prompt_version": "1.0.0",
       "status": "published",
