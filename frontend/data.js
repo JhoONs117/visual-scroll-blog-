@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "here-are-the-30-000-songs-sony-is-suing-udio-8217-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "pubDate": "2026-07-20T22:19:12.000Z",
+    "slides": [
+      "Sony claims 30,000 songs were stolen—which ones?",
+      "Its lawsuit lists tracks by major artists exclusively.",
+      "The AI generator was trained on them without any license.",
+      "If you use Udio, every output risks copyright liability.",
+      "Check your playlists now—your uploads may be evidence."
+    ],
+    "thread_text": [
+      "1. Who stole 30,000 songs?\n\nSony’s lawsuit names only major artists—the real victims stay hidden.",
+      "2. Trained without permission.\n\nThe AI generator scraped copyrighted tracks. No license, no warning.",
+      "3. Every output is risky.\n\nUse Udio? You’re liable for copyright infringement on every single track.",
+      "4. Your playlists are evidence.\n\nUpload a song to Udio—it becomes proof in Sony’s case against you.",
+      "5. Check your uploads now.\n\nOpen your Udio history. If you see a major artist’s style, delete it today."
+    ],
+    "video_script": [
+      "Sony says 30,000 songs were stolen.",
+      "Only major artists appear in the lawsuit.",
+      "The AI trained without any license.",
+      "Using Udio means copyright risk for you.",
+      "Check your playlists—uploads may be evidence."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who stole 30,000 songs?\n\nSony’s lawsuit names only major artists—the real victims stay hidden.",
+          "2. Trained without permission.\n\nThe AI generator scraped copyrighted tracks. No license, no warning.",
+          "3. Every output is risky.\n\nUse Udio? You’re liable for copyright infringement on every single track.",
+          "4. Your playlists are evidence.\n\nUpload a song to Udio—it becomes proof in Sony’s case against you.",
+          "5. Check your uploads now.\n\nOpen your Udio history. If you see a major artist’s style, delete it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sony says 30,000 songs were stolen.",
+          "Only major artists appear in the lawsuit.",
+          "The AI trained without any license.",
+          "Using Udio means copyright risk for you.",
+          "Check your playlists—uploads may be evidence."
+        ]
+      },
+      "instagram": {
+        "caption": "Sony’s lawsuit says 30,000 songs were scraped to train Udio’s AI—and they name only major artists.\n\nThe AI generator copied copyrighted tracks without any license. Every song you upload to Udio becomes potential legal evidence.\n\n🎵 If you create or publish music, using Udio means each output risks copyright liability.\n\nOpen your Udio history now. 😬 See any sound like a major artist? Remove those uploads today—your playlists are up for grabs in court."
+      }
+    },
+    "instagram_caption": "Sony’s lawsuit says 30,000 songs were scraped to train Udio’s AI—and they name only major artists.\n\nThe AI generator copied copyrighted tracks without any license. Every song you upload to Udio becomes potential legal evidence.\n\n🎵 If you create or publish music, using Udio means each output risks copyright liability.\n\nOpen your Udio history now. 😬 See any sound like a major artist? Remove those uploads today—your playlists are up for grabs in court.",
+    "carousel_slides": [
+      {
+        "hook": "Who stole 30,000 songs?",
+        "description": "Sony's lawsuit names only major artists—the real victims stay hidden.",
+        "visual_hint": "Court document close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "court document gavel"
+      },
+      {
+        "hook": "Trained without permission.",
+        "description": "The AI generator scraped copyrighted tracks. No license, no warning.",
+        "visual_hint": "Server rack glowing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every output is risky.",
+        "description": "Use Udio? You’re liable for copyright infringement on every single track.",
+        "visual_hint": "Red warning symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "red warning sign",
+        "image": "https://images.pexels.com/photos/17802372/pexels-photo-17802372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your playlists are evidence.",
+        "description": "Upload a song to Udio—it becomes proof in Sony’s case against you.",
+        "visual_hint": "Hand holding phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your uploads now.",
+        "description": "Open your Udio history. If you see a major artist’s style, delete it today.",
+        "visual_hint": "Playlist delete button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "digital playlist screen",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-21T01:51:29.890Z",
+    "sourceId": "612445dbd724893299e05240ba375685"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "colossal-biosciences-reportedly-in-talks-to-raise-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+    "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+    "pubDate": "Mon, 20 Jul 2026 23:39:35 +0000",
+    "slides": [
+      "Colossal aims to revive woolly mammoths. Can it deliver returns?",
+      "Its last round valued the firm at $10.2 billion.",
+      "The new valuation might exceed $20 billion despite no revenue.",
+      "Your investment thesis must account for species de-extinction alone.",
+      "Decide now: bet on science or wait for clear revenue?"
+    ],
+    "thread_text": [
+      "1. $10.2B with zero revenue\n\nColossal's last round valued it at $10.2 billion. The firm has not generated a single dollar in sales yet.",
+      "2. Bet on mammoth, not profits\n\nThe new valuation could top $20 billion. Investors are betting on de-extinction alone.",
+      "3. Science first, market later\n\nNo product, no customers, no revenue. The thesis hinges entirely on bringing back a species.",
+      "4. The real question\n\nWill mammoth fur and tusks justify a multibillion-dollar price tag? Or is this a grand science experiment?",
+      "5. Decide now\n\nWould you invest your own money today? If yes, what price would you pay for a mammoth?"
+    ],
+    "video_script": [
+      "Colossal aims to revive woolly mammoths.",
+      "Its last round valued it at ten billion.",
+      "New valuation could hit twenty billion.",
+      "Zero revenue so far. Pure science bet.",
+      "Would you invest your own money now?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $10.2B with zero revenue\n\nColossal's last round valued it at $10.2 billion. The firm has not generated a single dollar in sales yet.",
+          "2. Bet on mammoth, not profits\n\nThe new valuation could top $20 billion. Investors are betting on de-extinction alone.",
+          "3. Science first, market later\n\nNo product, no customers, no revenue. The thesis hinges entirely on bringing back a species.",
+          "4. The real question\n\nWill mammoth fur and tusks justify a multibillion-dollar price tag? Or is this a grand science experiment?",
+          "5. Decide now\n\nWould you invest your own money today? If yes, what price would you pay for a mammoth?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Colossal aims to revive woolly mammoths.",
+          "Its last round valued it at ten billion.",
+          "New valuation could hit twenty billion.",
+          "Zero revenue so far. Pure science bet.",
+          "Would you invest your own money now?"
+        ]
+      },
+      "instagram": {
+        "caption": "A company with zero revenue is now valued at $20–$30 billion.  \n\nColossal Biosciences wants to bring back the woolly mammoth. Their last round already valued them at $10.2 billion with no sales. The new valuation doubles that—purely on the de-extinction bet.  \n\nFor content creators covering biotech or startups, this means your framing shifts: you’re no longer reporting on a science experiment, but on a massive financial wager with no product to show.  \n\nWould you pitch a story on “profit vs. progress” to your audience today, or wait until revenue actually appears? 🐘💰🔬"
+      }
+    },
+    "instagram_caption": "A company with zero revenue is now valued at $20–$30 billion.  \n\nColossal Biosciences wants to bring back the woolly mammoth. Their last round already valued them at $10.2 billion with no sales. The new valuation doubles that—purely on the de-extinction bet.  \n\nFor content creators covering biotech or startups, this means your framing shifts: you’re no longer reporting on a science experiment, but on a massive financial wager with no product to show.  \n\nWould you pitch a story on “profit vs. progress” to your audience today, or wait until revenue actually appears? 🐘💰🔬",
+    "carousel_slides": [
+      {
+        "hook": "Zero revenue, $10B valuation?",
+        "description": "Colossal's last round valued it at $10.2 billion with no sales. The new round could top $20 billion.",
+        "visual_hint": "Woolly mammoth in ice",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "woolly mammoth reconstruction"
+      },
+      {
+        "hook": "Betting on de-extinction alone",
+        "description": "The new valuation may exceed $20 billion, yet the firm has zero customers or revenue.",
+        "visual_hint": "Stock chart rising",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Science first, market later",
+        "description": "No product, no revenue. The entire thesis hinges on reviving a species without commercial proof.",
+        "visual_hint": "Lab with DNA strands",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "DNA laboratory equipment",
+        "image": "https://images.pexels.com/photos/8940474/pexels-photo-8940474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can mammoths justify billions?",
+        "description": "Will fur and tusks ever justify a multibillion-dollar valuation? Or is this pure science experiment?",
+        "visual_hint": "Mammoth tusks close-up",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mammoth tusk fossil",
+        "image": "https://images.pexels.com/photos/18417013/pexels-photo-18417013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tap to weigh in on mammoths",
+        "description": "Would you invest your own money today? Comment your price for a mammoth or visit the link in bio.",
+        "visual_hint": "Person tapping phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone hand tap",
+        "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/BenLamm_DW.jpg?resize=1200,903",
+    "savedAt": "2026-07-21T01:51:18.750Z",
+    "sourceId": "d0888a3b49a2323f04ef421ea73d6115"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-scared-of-open-weight-models-should-the-",
     "prompt_version": "1.0.0",
     "status": "published",
