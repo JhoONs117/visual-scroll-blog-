@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "america-needs-to-stop-getting-shocked-by-chinese-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "America needs to stop getting shocked by Chinese AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+  "pubDate": "2026-07-21T11:08:56.000Z",
+  "slides": [
+    "Why does every Chinese AI breakthrough still surprise America?",
+    "DeepSeek's R1 reached near-top reasoning with minimal compute.",
+    "Their researchers trained it using reinforcement learning, not brute data.",
+    "You now face competitors who innovate cheaper, faster, and quieter.",
+    "Stop reacting—start monitoring Chinese papers and open-source releases today."
+  ],
+  "thread_text": [
+    "1. Why still surprised?\n\nDeepSeek's R1 matches top-tier reasoning but used 90% less compute than frontier models.",
+    "2. Not brute force\n\nThey trained R1 with reinforcement learning, bypassing the data-guzzling approach US labs rely on.",
+    "3. Speed vs. innovation\n\nYour competitors now ship AI breakthroughs cheaper and faster while you fund bigger clusters.",
+    "4. Silent edge\n\nChinese papers and open-source releases move without hype—you only notice after they land.",
+    "5. Your move today\n\nSet a weekly alert for arXiv Chinese NLP papers. If you haven't, start this week."
+  ],
+  "video_script": [
+    "America still surprised by Chinese AI breakthroughs.",
+    "DeepSeek's R1 used minimal compute for top reasoning.",
+    "They trained with reinforcement learning, not data brute force.",
+    "Your rivals innovate cheaper, faster, and quieter.",
+    "Stop reacting—monitor Chinese papers and open-source releases now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why still surprised?\n\nDeepSeek's R1 matches top-tier reasoning but used 90% less compute than frontier models.",
+        "2. Not brute force\n\nThey trained R1 with reinforcement learning, bypassing the data-guzzling approach US labs rely on.",
+        "3. Speed vs. innovation\n\nYour competitors now ship AI breakthroughs cheaper and faster while you fund bigger clusters.",
+        "4. Silent edge\n\nChinese papers and open-source releases move without hype—you only notice after they land.",
+        "5. Your move today\n\nSet a weekly alert for arXiv Chinese NLP papers. If you haven't, start this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "America still surprised by Chinese AI breakthroughs.",
+        "DeepSeek's R1 used minimal compute for top reasoning.",
+        "They trained with reinforcement learning, not data brute force.",
+        "Your rivals innovate cheaper, faster, and quieter.",
+        "Stop reacting—monitor Chinese papers and open-source releases now."
+      ]
+    },
+    "instagram": {
+      "caption": "DeepSeek’s R1 matches top-tier reasoning using 90% less compute than US models. ⚡\n\nThey trained it with reinforcement learning, not brute data—cutting the cost of building cutting-edge AI. Their updates land in papers and open-source repos without fanfare.\n\nFor anyone creating tools or content: your competitors can now ship smarter, cheaper, and faster without you noticing until it’s too late. 📉\n\nDo you monitor Chinese arXiv papers weekly—or will you be the last to find out?"
+    }
+  },
+  "instagram_caption": "DeepSeek’s R1 matches top-tier reasoning using 90% less compute than US models. ⚡\n\nThey trained it with reinforcement learning, not brute data—cutting the cost of building cutting-edge AI. Their updates land in papers and open-source repos without fanfare.\n\nFor anyone creating tools or content: your competitors can now ship smarter, cheaper, and faster without you noticing until it’s too late. 📉\n\nDo you monitor Chinese arXiv papers weekly—or will you be the last to find out?",
+  "carousel_slides": [
+    {
+      "hook": "Still shocked by Chinese AI?",
+      "description": "DeepSeek's R1 matches top-tier reasoning using 90% less compute — a quiet revolution.",
+      "visual_hint": "server rack with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "They don't need brute data.",
+      "description": "Trained with reinforcement learning, R1 bypassed the data-hungry methods US labs rely on.",
+      "visual_hint": "robot arm assembling circuit board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your competitors ship cheaper.",
+      "description": "While you fund bigger clusters, they innovate faster and quieter without hype.",
+      "visual_hint": "person looking at stock chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent breakthroughs land fast.",
+      "description": "Chinese papers and open-source releases move without hype — you notice after they arrive.",
+      "visual_hint": "open book with Chinese characters",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "open book",
+      "image": "https://images.pexels.com/photos/1132577/pexels-photo-1132577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — act this week.",
+      "description": "Set a weekly arXiv alert for Chinese NLP papers. Start monitoring before the next shock.",
+      "visual_hint": "phone screen showing search bar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.83178126478%2C100%2C78.336437470441&amp;w=1200",
+  "savedAt": "2026-07-21T13:19:31.991Z",
+  "sourceId": "e9faa71a5160afbb0d6fd83de6749d11"
+}
