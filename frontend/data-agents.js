@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-s-most-important-protocol-is-getting-a-little-b",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "pubDate": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "slides": [
+        "MCP makes AI tools talk to data—but setup hurts.",
+        "New wrappers now hide MCP’s raw configuration entirely.",
+        "Even non-developers yesterday connected an AI to a database.",
+        "Your team can skip weeks of API debugging work.",
+        "Test one of these wrappers before your next sprint."
+      ],
+      "thread_text": [
+        "1. Your developer is the bottleneck\n\nNon-developers just connected an AI to a database in one day. Your team is still debugging.",
+        "2. MCP is the invisible problem\n\nThe protocol makes tools talk to data, but raw setup costs weeks. That is the hidden tax.",
+        "3. Wrappers kill the config pain\n\nNew layers hide MCP's raw configuration entirely. No more terminal commands for your team.",
+        "4. An intern just did it yesterday\n\nEven a non-technical person got an AI talking to a live database. No coding involved.",
+        "5. Test one wrapper this week\n\nPick a tool and connect a real data source to your AI. If it takes longer than an hour, switch."
+      ],
+      "video_script": [
+        "Makes AI talk to data, setup hurts.",
+        "New wrappers hide all the raw config.",
+        "Non-developers connected an AI yesterday.",
+        "Skip weeks of API debugging.",
+        "Test a wrapper before your next sprint."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your developer is the bottleneck\n\nNon-developers just connected an AI to a database in one day. Your team is still debugging.",
+            "2. MCP is the invisible problem\n\nThe protocol makes tools talk to data, but raw setup costs weeks. That is the hidden tax.",
+            "3. Wrappers kill the config pain\n\nNew layers hide MCP's raw configuration entirely. No more terminal commands for your team.",
+            "4. An intern just did it yesterday\n\nEven a non-technical person got an AI talking to a live database. No coding involved.",
+            "5. Test one wrapper this week\n\nPick a tool and connect a real data source to your AI. If it takes longer than an hour, switch."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Makes AI talk to data, setup hurts.",
+            "New wrappers hide all the raw config.",
+            "Non-developers connected an AI yesterday.",
+            "Skip weeks of API debugging.",
+            "Test a wrapper before your next sprint."
+          ]
+        },
+        "instagram": {
+          "caption": "Non-developers just connected an AI to a live database in a single day — no terminal commands needed. 🛠️\n\nMCP is the protocol that lets AI tools talk to your data, but the raw setup has been costing teams weeks of debugging. New wrappers now hide that configuration entirely.\n\nYour team can skip that hidden tax and stop being the bottleneck. An intern tested it yesterday.\n\nWhat data source will you connect your AI to this week? Pick a wrapper and try one real connector in under an hour."
+        }
+      },
+      "instagram_caption": "Non-developers just connected an AI to a live database in a single day — no terminal commands needed. 🛠️\n\nMCP is the protocol that lets AI tools talk to your data, but the raw setup has been costing teams weeks of debugging. New wrappers now hide that configuration entirely.\n\nYour team can skip that hidden tax and stop being the bottleneck. An intern tested it yesterday.\n\nWhat data source will you connect your AI to this week? Pick a wrapper and try one real connector in under an hour.",
+      "carousel_slides": [
+        {
+          "hook": "Your developer is the bottleneck?",
+          "description": "Non-developers connected an AI to a database in one day. Your team is still debugging MCP setup.",
+          "visual_hint": "developer facing laptop screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk laptop"
+        },
+        {
+          "hook": "MCP's hidden tax costs weeks.",
+          "description": "Raw MCP setup makes AI tools talk to data, but configuration pain silently stalls your team.",
+          "visual_hint": "tangled cables behind server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New wrappers kill config pain.",
+          "description": "Layers now hide MCP's raw configuration entirely. No more terminal commands for your team.",
+          "visual_hint": "blank terminal screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer terminal keyboard",
+          "image": "https://images.pexels.com/photos/37148215/pexels-photo-37148215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "An intern did it yesterday.",
+          "description": "Even a non-technical person got an AI talking to a live database. No coding needed.",
+          "visual_hint": "intern smiling at monitor",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computers",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one wrapper this week.",
+          "description": "Connect a real data source to your AI. If it takes longer than an hour, switch tools.",
+          "visual_hint": "stopwatch next to laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone stopwatch",
+          "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
+      "savedAt": "2026-07-21T05:12:58.257Z",
+      "sourceId": "9afbcd831bf6d894b62b89ab8396bcae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "here-are-the-30-000-songs-sony-is-suing-udio-8217-",
       "prompt_version": "1.0.0",
       "status": "published",
