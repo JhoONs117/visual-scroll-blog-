@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chinese-open-weight-models-are-cheap-washington-is",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
+      "link": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
+      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0000",
+      "slides": [
+        "Chinese models cost 90% less than US rivals. Who pays?",
+        "Washington now debates export caps on open-weight AI.",
+        "Cheap models could bypass regulations entirely.",
+        "Your startup may face blocked access overnight.",
+        "Test dependency today or risk losing your stack."
+      ],
+      "thread_text": [
+        "Who pays for 90% savings?\n\nChinese AI models undercut US prices by 90%, but the real cost may be your access to the entire stack.",
+        "Washington debates export caps.\n\nLawmakers now consider blocking open-weight models from crossing borders, hitting startups that rely on them.",
+        "Cheap models bypass regulations.\n\nLow-cost AI can evade safety checks entirely, making enforcement a game of whack-a-mole.",
+        "Your startup may face blocked access overnight.\n\nA sudden export ban could cut your AI pipeline without warning, stranding your product.",
+        "Test dependency today.\n\nTake one core AI feature your startup uses and simulate losing access. Can you switch suppliers in 48 hours?"
+      ],
+      "video_script": [
+        "Chinese models slash costs by 90%.",
+        "Washington debates capping open models.",
+        "Cheap AI dodges all regulations.",
+        "Your startup could lose access tonight.",
+        "Test your dependency before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Who pays for 90% savings?\n\nChinese AI models undercut US prices by 90%, but the real cost may be your access to the entire stack.",
+            "Washington debates export caps.\n\nLawmakers now consider blocking open-weight models from crossing borders, hitting startups that rely on them.",
+            "Cheap models bypass regulations.\n\nLow-cost AI can evade safety checks entirely, making enforcement a game of whack-a-mole.",
+            "Your startup may face blocked access overnight.\n\nA sudden export ban could cut your AI pipeline without warning, stranding your product.",
+            "Test dependency today.\n\nTake one core AI feature your startup uses and simulate losing access. Can you switch suppliers in 48 hours?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Chinese models slash costs by 90%.",
+            "Washington debates capping open models.",
+            "Cheap AI dodges all regulations.",
+            "Your startup could lose access tonight.",
+            "Test your dependency before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Your startup's AI stack just got 90% cheaper. That's not the headline.\n\nChinese open-weight models cost a fraction of US rivals. Washington is now debating export caps on those models. If passed, your access could vanish overnight.\n\nCheap models also bypass safety regulations entirely. Enforcement becomes impossible once the code is public.\n\nSuddenly, your core AI feature may be blocked without warning.\n\nCan you swap your entire AI supplier in 48 hours? Test that today, before Washington decides for you."
+        }
+      },
+      "instagram_caption": "Your startup's AI stack just got 90% cheaper. That's not the headline.\n\nChinese open-weight models cost a fraction of US rivals. Washington is now debating export caps on those models. If passed, your access could vanish overnight.\n\nCheap models also bypass safety regulations entirely. Enforcement becomes impossible once the code is public.\n\nSuddenly, your core AI feature may be blocked without warning.\n\nCan you swap your entire AI supplier in 48 hours? Test that today, before Washington decides for you.",
+      "carousel_slides": [
+        {
+          "hook": "90% cheaper, but at what cost?",
+          "description": "Chinese AI models undercut US prices by 90%. Now Washington debates export caps that could block your access overnight.",
+          "visual_hint": "stack of money shrinking",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money stack"
+        },
+        {
+          "hook": "Export caps target open-weight models.",
+          "description": "Lawmakers consider blocking open-weight AI from crossing borders, hitting startups that rely on cheap Chinese models.",
+          "visual_hint": "shipping container with red line",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "shipping container",
+          "image": "https://images.pexels.com/photos/13427763/pexels-photo-13427763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cheap AI dodges safety checks.",
+          "description": "Low-cost models bypass regulations entirely, turning enforcement into a game of whack-a-mole for Washington.",
+          "visual_hint": "mole popping up from holes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "whack a mole",
+          "image": "https://images.pexels.com/photos/13560488/pexels-photo-13560488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your access could vanish overnight.",
+          "description": "A sudden export ban might cut your AI pipeline without warning, stranding your product and your stack.",
+          "visual_hint": "hand gripping phone with X",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your dependency.",
+          "description": "Simulate losing access to one core AI feature. Can you switch suppliers in 48 hours? Check link in bio.",
+          "visual_hint": "test tube with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "test tube",
+          "image": "https://images.pexels.com/photos/36529666/pexels-photo-36529666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-21T08:09:51.970Z",
+      "sourceId": "5a1af7ba8f4e69c953a72968e3d7fc31"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-s-most-important-protocol-is-getting-a-little-b",
       "prompt_version": "1.0.0",
       "status": "published",
