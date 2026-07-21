@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "substack-adds-an-ai-detector-to-help-spot-blogs-wr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Substack adds an AI detector to help spot blogs written by no one",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "pubDate": "2026-07-21T19:22:28.000Z",
+  "slides": [
+    "Substack’s new AI detector flags bots—but can authors fool it?",
+    "It scans new posts before they appear in subscriber feeds.",
+    "The detector catches only 40% of AI-generated text so far.",
+    "Writers must now prove human voice or risk hidden penalties.",
+    "Test your own drafts through the tool before publishing tomorrow."
+  ],
+  "thread_text": [
+    "1. Your bot detector is lying\n\nThe tool scanning new posts on Substack catches just 40% of AI-generated text. That leaves a 60% blind spot.",
+    "2. False sense of security\n\nAuthors face hidden penalties if their writing triggers the detector. But the algorithm still misses most bots.",
+    "3. The human voice trap\n\nWriters must now prove their authenticity. Yet the detector is too weak to distinguish real from fake reliably.",
+    "4. Gaming the system\n\nIf the detector only catches 40%, can a clever rewrite fool it? The arms race between AI and detection is already on.",
+    "5. Test your own draft today\n\nRun a real post through Substack's tool before publishing tomorrow. Does it flag your human writing by mistake?"
+  ],
+  "video_script": [
+    "Substack's new bot detector catches only 40%.",
+    "Writers must prove human voice or face penalties.",
+    "The tool scans posts before subscriber feeds.",
+    "But can authors easily fool the detector?",
+    "Test your draft in the tool before publishing."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your bot detector is lying\n\nThe tool scanning new posts on Substack catches just 40% of AI-generated text. That leaves a 60% blind spot.",
+        "2. False sense of security\n\nAuthors face hidden penalties if their writing triggers the detector. But the algorithm still misses most bots.",
+        "3. The human voice trap\n\nWriters must now prove their authenticity. Yet the detector is too weak to distinguish real from fake reliably.",
+        "4. Gaming the system\n\nIf the detector only catches 40%, can a clever rewrite fool it? The arms race between AI and detection is already on.",
+        "5. Test your own draft today\n\nRun a real post through Substack's tool before publishing tomorrow. Does it flag your human writing by mistake?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Substack's new bot detector catches only 40%.",
+        "Writers must prove human voice or face penalties.",
+        "The tool scans posts before subscriber feeds.",
+        "But can authors easily fool the detector?",
+        "Test your draft in the tool before publishing."
+      ]
+    },
+    "instagram": {
+      "caption": "Substack’s new AI detector catches only 40% of bot-written posts, leaving a 60% blind spot.\n\nAuthors face hidden penalties if their writing triggers the tool—but most AI slop still slips through. The detector is too weak to reliably tell human voice from machine.\n\nFor anyone publishing on Substack, your authenticity is now policed by a system that mostly misses. 😬\n\nCan a clever rewrite fool the detector, or will it flag your human draft by mistake? Run a post through the tool before publishing tomorrow. 🔍"
+    }
+  },
+  "instagram_caption": "Substack’s new AI detector catches only 40% of bot-written posts, leaving a 60% blind spot.\n\nAuthors face hidden penalties if their writing triggers the tool—but most AI slop still slips through. The detector is too weak to reliably tell human voice from machine.\n\nFor anyone publishing on Substack, your authenticity is now policed by a system that mostly misses. 😬\n\nCan a clever rewrite fool the detector, or will it flag your human draft by mistake? Run a post through the tool before publishing tomorrow. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your bot detector is lying",
+      "description": "Substack's new tool catches only 40% of AI text, leaving a dangerous 60% blind spot.",
+      "visual_hint": "low detection accuracy meter",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "False sense of security",
+      "description": "Authors face hidden penalties if flagged, but the algorithm still misses most bots.",
+      "visual_hint": "shield with cracks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "security camera",
+      "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The human voice trap",
+      "description": "Writers must prove authenticity, but the detector can't reliably distinguish real from fake.",
+      "visual_hint": "voice waveform distortion",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microphone recording",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Gaming the system",
+      "description": "Only 40% detection rate means a clever rewrite might fool it—arms race begun.",
+      "visual_hint": "chess pieces on board",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand writing",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your draft today",
+      "description": "Run a real post through the tool before publishing tomorrow to check for false flags.",
+      "visual_hint": "checkmark over draft",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728364100735%2C100%2C78.54327179853&amp;w=1200",
+  "savedAt": "2026-07-21T22:45:55.055Z",
+  "sourceId": "479948011bc90158a5f1678194737345"
+}

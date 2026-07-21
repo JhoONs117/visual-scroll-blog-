@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jack-dorsey-is-taking-on-slack-with-buzz-a-group-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+  "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+  "pubDate": "Tue, 21 Jul 2026 19:43:41 +0000",
+  "slides": [
+    "Jack Dorsey's Buzz promises to replace Slack—but how?",
+    "Buzz is a group chat platform for teams and AI agents.",
+    "Unlike Slack, Buzz gives AI agents their own identities.",
+    "You assign tasks to agents who chat alongside your team.",
+    "Run one test: ask Buzz agent vs. human colleague today."
+  ],
+  "thread_text": [
+    "1. Slack has a blind spot\n\nAI agents are already in your workflow. Buzz gives them their own seat at the table—not just a bot channel.",
+    "2. Agents with their own identity\n\nOn Buzz, an AI agent has a name and a profile. It joins conversations like a real teammate, not a hidden script.",
+    "3. You delegate, they deliver\n\nDraft a task in the chat. The agent executes it alongside human replies. No separate dashboard or login required.",
+    "4. The real test is speed\n\nPose the same question to a Buzz agent and a human colleague. Compare response time and completeness. Decide for yourself.",
+    "5. Run the test today\n\nPick one recurring task. Assign it to a Buzz agent and to a teammate. Who finishes first without errors?"
+  ],
+  "video_script": [
+    "Slack can't see AI agents as teammates.",
+    "Buzz gives each agent its own identity.",
+    "Agents work inside your group chat.",
+    "Test an agent against a human today.",
+    "Who delivers faster? Run it now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Slack has a blind spot\n\nAI agents are already in your workflow. Buzz gives them their own seat at the table—not just a bot channel.",
+        "2. Agents with their own identity\n\nOn Buzz, an AI agent has a name and a profile. It joins conversations like a real teammate, not a hidden script.",
+        "3. You delegate, they deliver\n\nDraft a task in the chat. The agent executes it alongside human replies. No separate dashboard or login required.",
+        "4. The real test is speed\n\nPose the same question to a Buzz agent and a human colleague. Compare response time and completeness. Decide for yourself.",
+        "5. Run the test today\n\nPick one recurring task. Assign it to a Buzz agent and to a teammate. Who finishes first without errors?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Slack can't see AI agents as teammates.",
+        "Buzz gives each agent its own identity.",
+        "Agents work inside your group chat.",
+        "Test an agent against a human today.",
+        "Who delivers faster? Run it now."
+      ]
+    },
+    "instagram": {
+      "caption": "Jack Dorsey's new app, Buzz, lets you put an AI agent with its own name and profile directly into your team's group chat — not shoved into a separate bot channel.\n\nBuzz is a platform designed for human and AI coworkers to chat side by side. You assign a task in the conversation, and the agent executes it alongside human replies, no separate login needed🧠.\n\nIf you create or coordinate content, your next \"colleague\" might finish a draft before you finish typing your morning coffee☕. No dashboard, no integration setup — just a name in the chat.\n\nWhat recurring chore would you hand off to an agent before your human teammate even sees the message?"
+    }
+  },
+  "instagram_caption": "Jack Dorsey's new app, Buzz, lets you put an AI agent with its own name and profile directly into your team's group chat — not shoved into a separate bot channel.\n\nBuzz is a platform designed for human and AI coworkers to chat side by side. You assign a task in the conversation, and the agent executes it alongside human replies, no separate login needed🧠.\n\nIf you create or coordinate content, your next \"colleague\" might finish a draft before you finish typing your morning coffee☕. No dashboard, no integration setup — just a name in the chat.\n\nWhat recurring chore would you hand off to an agent before your human teammate even sees the message?",
+  "carousel_slides": [
+    {
+      "hook": "Slack's blind spot? Buzz fixes it.",
+      "description": "Slack treats AI agents as bots. Buzz gives them a real seat at the table.",
+      "visual_hint": "AI agent profile on chat",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "group chat interface"
+    },
+    {
+      "hook": "Agents with their own identity.",
+      "description": "Buzz AI agents have names and profiles, joining conversations like human teammates.",
+      "visual_hint": "Agent profile card with name",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "profile avatar screen",
+      "image": "https://images.pexels.com/photos/15226549/pexels-photo-15226549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delegate tasks right in the chat.",
+      "description": "No separate dashboard. Type a task and the agent executes it alongside human replies.",
+      "visual_hint": "Chat message with task assigned",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat message bubble",
+      "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test speed: agent vs. human.",
+      "description": "Pose the same question to a Buzz agent and a colleague. Compare response time and completeness.",
+      "visual_hint": "Split screen with two chats",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stopwatch comparison",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run the test today. Save time.",
+      "description": "Pick one recurring task. Assign it to a Buzz agent and a teammate. See who finishes first.",
+      "visual_hint": "Checklist with tick marks",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office checklist paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+  "savedAt": "2026-07-21T22:45:42.529Z",
+  "sourceId": "d77aa8a5fe080ce71029081d89ae4210"
+}

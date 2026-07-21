@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "substack-adds-an-ai-detector-to-help-spot-blogs-wr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "pubDate": "2026-07-21T19:22:28.000Z",
+    "slides": [
+      "Substack’s new AI detector flags bots—but can authors fool it?",
+      "It scans new posts before they appear in subscriber feeds.",
+      "The detector catches only 40% of AI-generated text so far.",
+      "Writers must now prove human voice or risk hidden penalties.",
+      "Test your own drafts through the tool before publishing tomorrow."
+    ],
+    "thread_text": [
+      "1. Your bot detector is lying\n\nThe tool scanning new posts on Substack catches just 40% of AI-generated text. That leaves a 60% blind spot.",
+      "2. False sense of security\n\nAuthors face hidden penalties if their writing triggers the detector. But the algorithm still misses most bots.",
+      "3. The human voice trap\n\nWriters must now prove their authenticity. Yet the detector is too weak to distinguish real from fake reliably.",
+      "4. Gaming the system\n\nIf the detector only catches 40%, can a clever rewrite fool it? The arms race between AI and detection is already on.",
+      "5. Test your own draft today\n\nRun a real post through Substack's tool before publishing tomorrow. Does it flag your human writing by mistake?"
+    ],
+    "video_script": [
+      "Substack's new bot detector catches only 40%.",
+      "Writers must prove human voice or face penalties.",
+      "The tool scans posts before subscriber feeds.",
+      "But can authors easily fool the detector?",
+      "Test your draft in the tool before publishing."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your bot detector is lying\n\nThe tool scanning new posts on Substack catches just 40% of AI-generated text. That leaves a 60% blind spot.",
+          "2. False sense of security\n\nAuthors face hidden penalties if their writing triggers the detector. But the algorithm still misses most bots.",
+          "3. The human voice trap\n\nWriters must now prove their authenticity. Yet the detector is too weak to distinguish real from fake reliably.",
+          "4. Gaming the system\n\nIf the detector only catches 40%, can a clever rewrite fool it? The arms race between AI and detection is already on.",
+          "5. Test your own draft today\n\nRun a real post through Substack's tool before publishing tomorrow. Does it flag your human writing by mistake?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Substack's new bot detector catches only 40%.",
+          "Writers must prove human voice or face penalties.",
+          "The tool scans posts before subscriber feeds.",
+          "But can authors easily fool the detector?",
+          "Test your draft in the tool before publishing."
+        ]
+      },
+      "instagram": {
+        "caption": "Substack’s new AI detector catches only 40% of bot-written posts, leaving a 60% blind spot.\n\nAuthors face hidden penalties if their writing triggers the tool—but most AI slop still slips through. The detector is too weak to reliably tell human voice from machine.\n\nFor anyone publishing on Substack, your authenticity is now policed by a system that mostly misses. 😬\n\nCan a clever rewrite fool the detector, or will it flag your human draft by mistake? Run a post through the tool before publishing tomorrow. 🔍"
+      }
+    },
+    "instagram_caption": "Substack’s new AI detector catches only 40% of bot-written posts, leaving a 60% blind spot.\n\nAuthors face hidden penalties if their writing triggers the tool—but most AI slop still slips through. The detector is too weak to reliably tell human voice from machine.\n\nFor anyone publishing on Substack, your authenticity is now policed by a system that mostly misses. 😬\n\nCan a clever rewrite fool the detector, or will it flag your human draft by mistake? Run a post through the tool before publishing tomorrow. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your bot detector is lying",
+        "description": "Substack's new tool catches only 40% of AI text, leaving a dangerous 60% blind spot.",
+        "visual_hint": "low detection accuracy meter",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "False sense of security",
+        "description": "Authors face hidden penalties if flagged, but the algorithm still misses most bots.",
+        "visual_hint": "shield with cracks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security camera",
+        "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The human voice trap",
+        "description": "Writers must prove authenticity, but the detector can't reliably distinguish real from fake.",
+        "visual_hint": "voice waveform distortion",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microphone recording",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Gaming the system",
+        "description": "Only 40% detection rate means a clever rewrite might fool it—arms race begun.",
+        "visual_hint": "chess pieces on board",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand writing",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your draft today",
+        "description": "Run a real post through the tool before publishing tomorrow to check for false flags.",
+        "visual_hint": "checkmark over draft",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728364100735%2C100%2C78.54327179853&amp;w=1200",
+    "savedAt": "2026-07-21T22:45:55.055Z",
+    "sourceId": "479948011bc90158a5f1678194737345"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jack-dorsey-is-taking-on-slack-with-buzz-a-group-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "pubDate": "Tue, 21 Jul 2026 19:43:41 +0000",
+    "slides": [
+      "Jack Dorsey's Buzz promises to replace Slack—but how?",
+      "Buzz is a group chat platform for teams and AI agents.",
+      "Unlike Slack, Buzz gives AI agents their own identities.",
+      "You assign tasks to agents who chat alongside your team.",
+      "Run one test: ask Buzz agent vs. human colleague today."
+    ],
+    "thread_text": [
+      "1. Slack has a blind spot\n\nAI agents are already in your workflow. Buzz gives them their own seat at the table—not just a bot channel.",
+      "2. Agents with their own identity\n\nOn Buzz, an AI agent has a name and a profile. It joins conversations like a real teammate, not a hidden script.",
+      "3. You delegate, they deliver\n\nDraft a task in the chat. The agent executes it alongside human replies. No separate dashboard or login required.",
+      "4. The real test is speed\n\nPose the same question to a Buzz agent and a human colleague. Compare response time and completeness. Decide for yourself.",
+      "5. Run the test today\n\nPick one recurring task. Assign it to a Buzz agent and to a teammate. Who finishes first without errors?"
+    ],
+    "video_script": [
+      "Slack can't see AI agents as teammates.",
+      "Buzz gives each agent its own identity.",
+      "Agents work inside your group chat.",
+      "Test an agent against a human today.",
+      "Who delivers faster? Run it now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Slack has a blind spot\n\nAI agents are already in your workflow. Buzz gives them their own seat at the table—not just a bot channel.",
+          "2. Agents with their own identity\n\nOn Buzz, an AI agent has a name and a profile. It joins conversations like a real teammate, not a hidden script.",
+          "3. You delegate, they deliver\n\nDraft a task in the chat. The agent executes it alongside human replies. No separate dashboard or login required.",
+          "4. The real test is speed\n\nPose the same question to a Buzz agent and a human colleague. Compare response time and completeness. Decide for yourself.",
+          "5. Run the test today\n\nPick one recurring task. Assign it to a Buzz agent and to a teammate. Who finishes first without errors?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Slack can't see AI agents as teammates.",
+          "Buzz gives each agent its own identity.",
+          "Agents work inside your group chat.",
+          "Test an agent against a human today.",
+          "Who delivers faster? Run it now."
+        ]
+      },
+      "instagram": {
+        "caption": "Jack Dorsey's new app, Buzz, lets you put an AI agent with its own name and profile directly into your team's group chat — not shoved into a separate bot channel.\n\nBuzz is a platform designed for human and AI coworkers to chat side by side. You assign a task in the conversation, and the agent executes it alongside human replies, no separate login needed🧠.\n\nIf you create or coordinate content, your next \"colleague\" might finish a draft before you finish typing your morning coffee☕. No dashboard, no integration setup — just a name in the chat.\n\nWhat recurring chore would you hand off to an agent before your human teammate even sees the message?"
+      }
+    },
+    "instagram_caption": "Jack Dorsey's new app, Buzz, lets you put an AI agent with its own name and profile directly into your team's group chat — not shoved into a separate bot channel.\n\nBuzz is a platform designed for human and AI coworkers to chat side by side. You assign a task in the conversation, and the agent executes it alongside human replies, no separate login needed🧠.\n\nIf you create or coordinate content, your next \"colleague\" might finish a draft before you finish typing your morning coffee☕. No dashboard, no integration setup — just a name in the chat.\n\nWhat recurring chore would you hand off to an agent before your human teammate even sees the message?",
+    "carousel_slides": [
+      {
+        "hook": "Slack's blind spot? Buzz fixes it.",
+        "description": "Slack treats AI agents as bots. Buzz gives them a real seat at the table.",
+        "visual_hint": "AI agent profile on chat",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "group chat interface"
+      },
+      {
+        "hook": "Agents with their own identity.",
+        "description": "Buzz AI agents have names and profiles, joining conversations like human teammates.",
+        "visual_hint": "Agent profile card with name",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "profile avatar screen",
+        "image": "https://images.pexels.com/photos/15226549/pexels-photo-15226549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delegate tasks right in the chat.",
+        "description": "No separate dashboard. Type a task and the agent executes it alongside human replies.",
+        "visual_hint": "Chat message with task assigned",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat message bubble",
+        "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test speed: agent vs. human.",
+        "description": "Pose the same question to a Buzz agent and a colleague. Compare response time and completeness.",
+        "visual_hint": "Split screen with two chats",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stopwatch comparison",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run the test today. Save time.",
+        "description": "Pick one recurring task. Assign it to a Buzz agent and a teammate. See who finishes first.",
+        "visual_hint": "Checklist with tick marks",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office checklist paper",
+        "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+    "savedAt": "2026-07-21T22:45:42.529Z",
+    "sourceId": "d77aa8a5fe080ce71029081d89ae4210"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "bucking-ev-slowdown-sila-raises-300m-to-expand-bat",
     "prompt_version": "1.0.0",
     "status": "published",
