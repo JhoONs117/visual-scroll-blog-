@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "us-threatens-sanctions-against-chinese-ai-models-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "pubDate": "Tue, 21 Jul 2026 15:37:05 +0000",
+    "slides": [
+      "Why would the US sanction Chinese AI models now?",
+      "They claim IP theft of chip designs and algorithms.",
+      "But China's models match performance with fewer resources.",
+      "Your AI tools using Chinese models may face legal risks.",
+      "Audit your supply chain for Chinese AI components today."
+    ],
+    "thread_text": [
+      "1. Sanctions hitting your AI tools\n\nIf your API calls a Chinese model, you could violate US law tomorrow.",
+      "2. What they claim as theft\n\nIP seizure of chip designs—but the real evidence is efficiency gains from less compute.",
+      "3. The irony they ignore\n\nChina's models match GPT-4 with half the GPUs. That's not theft—that's innovation.",
+      "4. Legal exposure is personal\n\nEvery user of DeepSeek or Qwen risks export control fines up to $1M.",
+      "5. Audit your supply chain today\n\nRun a regex on your codebase for Chinese AI SDKs. Do it before your compliance team calls."
+    ],
+    "video_script": [
+      "US sanctions now target Chinese AI models.",
+      "They claim chip design IP theft.",
+      "China's models need fewer chips for same results.",
+      "Your AI tools may face legal risks.",
+      "Audit your supply chain for Chinese components."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Sanctions hitting your AI tools\n\nIf your API calls a Chinese model, you could violate US law tomorrow.",
+          "2. What they claim as theft\n\nIP seizure of chip designs—but the real evidence is efficiency gains from less compute.",
+          "3. The irony they ignore\n\nChina's models match GPT-4 with half the GPUs. That's not theft—that's innovation.",
+          "4. Legal exposure is personal\n\nEvery user of DeepSeek or Qwen risks export control fines up to $1M.",
+          "5. Audit your supply chain today\n\nRun a regex on your codebase for Chinese AI SDKs. Do it before your compliance team calls."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "US sanctions now target Chinese AI models.",
+          "They claim chip design IP theft.",
+          "China's models need fewer chips for same results.",
+          "Your AI tools may face legal risks.",
+          "Audit your supply chain for Chinese components."
+        ]
+      },
+      "instagram": {
+        "caption": "Your API calls to a Chinese AI model could land you with a $1M fine under new US sanctions.\n\nThe US claims China stole chip designs and algorithms. Evidence shows China's models match GPT-4 using half the GPUs—innovation, not theft. 🧠\n\nIf your tool uses DeepSeek or Qwen, you now face export control risks. ⚖️\n\nRun a regex on your codebase for Chinese AI SDKs today. 🔍 When was your last supply chain audit?"
+      }
+    },
+    "instagram_caption": "Your API calls to a Chinese AI model could land you with a $1M fine under new US sanctions.\n\nThe US claims China stole chip designs and algorithms. Evidence shows China's models match GPT-4 using half the GPUs—innovation, not theft. 🧠\n\nIf your tool uses DeepSeek or Qwen, you now face export control risks. ⚖️\n\nRun a regex on your codebase for Chinese AI SDKs today. 🔍 When was your last supply chain audit?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI tools could become illegal.",
+        "description": "Chinese models like DeepSeek match GPT-4 with half the GPUs. That innovation risks US sanctions on your API calls.",
+        "visual_hint": "server racks with warning tape",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room data center"
+      },
+      {
+        "hook": "Is efficiency really theft?",
+        "description": "US claims IP theft of chip designs, but China's real crime is achieving top performance with fewer resources.",
+        "visual_hint": "microchip under magnifying glass",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip processor closeup",
+        "image": "https://images.pexels.com/photos/30083229/pexels-photo-30083229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They used half the compute.",
+        "description": "China's models match GPT-4 using far fewer GPUs. That's innovation, not IP theft — yet sanctions loom.",
+        "visual_hint": "two server racks side by side",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "GPU server rack hardware",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You risk $1M fines per user.",
+        "description": "Using DeepSeek or Qwen via API may violate export controls. Every call exposes you to legal action.",
+        "visual_hint": "person using laptop with gavel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop keyboard typing hands",
+        "image": "https://images.pexels.com/photos/27080975/pexels-photo-27080975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your codebase now.",
+        "description": "Run a regex for Chinese AI SDKs in your codebase today. Do it before your compliance team calls.",
+        "visual_hint": "code on screen with search bar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer screen code syntax",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
+    "savedAt": "2026-07-21T17:07:45.194Z",
+    "sourceId": "be406df3fd99cbadb47d0604f30ec0a6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-gemini-3-6-flash-targets-enterprise-agent",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
+    "link": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+    "pubDate": "Tue, 21 Jul 2026 16:06:55 +0000",
+    "slides": [
+      "Gemini 3.6 Flash claims to slash agent token costs. How?",
+      "Each enterprise agent call burns compute on wasted tokens.",
+      "It prunes unneeded context before processing a single query.",
+      "Your agent bills drop 40% without you changing your code.",
+      "Benchmark your current cost against this—then switch providers."
+    ],
+    "thread_text": [
+      "1. Your AI bills are leaking\n\nEvery enterprise agent call burns compute on tokens that don't matter. Each query costs you money before it even starts thinking.",
+      "2. How it works\n\nGemini 3.6 Flash prunes unneeded context before processing a single query. No extra steps, no code changes from you.",
+      "3. The real number\n\nYour agent bills drop 40% with just a provider switch. No retraining, no rewriting prompts.",
+      "4. The catch\n\nMost teams don't know their token waste ratio. They benchmark against nothing and keep paying for silence.",
+      "5. Test it today\n\nRun a prompt through your current provider and count the wasted tokens. Does 40% savings sound worth a 15-minute benchmark?"
+    ],
+    "video_script": [
+      "Your AI bills are leaking tokens.",
+      "Gemini prunes context before processing queries.",
+      "That slashes agent costs by forty percent.",
+      "You don't change a line of code.",
+      "Benchmark your cost and switch providers today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your AI bills are leaking\n\nEvery enterprise agent call burns compute on tokens that don't matter. Each query costs you money before it even starts thinking.",
+          "2. How it works\n\nGemini 3.6 Flash prunes unneeded context before processing a single query. No extra steps, no code changes from you.",
+          "3. The real number\n\nYour agent bills drop 40% with just a provider switch. No retraining, no rewriting prompts.",
+          "4. The catch\n\nMost teams don't know their token waste ratio. They benchmark against nothing and keep paying for silence.",
+          "5. Test it today\n\nRun a prompt through your current provider and count the wasted tokens. Does 40% savings sound worth a 15-minute benchmark?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI bills are leaking tokens.",
+          "Gemini prunes context before processing queries.",
+          "That slashes agent costs by forty percent.",
+          "You don't change a line of code.",
+          "Benchmark your cost and switch providers today."
+        ]
+      },
+      "instagram": {
+        "caption": "40% of your AI agent costs are burning on tokens that do nothing — context your model never even uses.\n\nGemini 3.6 Flash automatically prunes irrelevant context before processing, without you retraining or rewriting a single prompt. No extra steps, no code changes.\n\nYou keep your existing workflow. Just switch providers and your bills drop 40%.\n\nWhen’s the last time you benchmarked how many tokens your current provider wastes per query? 🧾💸"
+      }
+    },
+    "instagram_caption": "40% of your AI agent costs are burning on tokens that do nothing — context your model never even uses.\n\nGemini 3.6 Flash automatically prunes irrelevant context before processing, without you retraining or rewriting a single prompt. No extra steps, no code changes.\n\nYou keep your existing workflow. Just switch providers and your bills drop 40%.\n\nWhen’s the last time you benchmarked how many tokens your current provider wastes per query? 🧾💸",
+    "carousel_slides": [
+      {
+        "hook": "Your AI bills are leaking",
+        "description": "Each enterprise agent call wastes compute on unneeded context before thinking, costing you money silently.",
+        "visual_hint": "leaking pipe with coins",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "leaking water pipe"
+      },
+      {
+        "hook": "How it cuts waste",
+        "description": "Gemini 3.6 Flash prunes irrelevant tokens before processing any query, needing no code changes from you.",
+        "visual_hint": "pruning shears cutting data",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pruning shears on branches",
+        "image": "https://images.pexels.com/photos/12324564/pexels-photo-12324564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The 40% savings number",
+        "description": "Your agent bills drop 40% with just a provider switch—no retraining or rewriting prompts required.",
+        "visual_hint": "chart arrow dropping 40%",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart down",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most teams never measure waste",
+        "description": "Without benchmarking token waste, you keep paying for silence—knowing your ratio is the first step.",
+        "visual_hint": "magnifying glass on bills",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your waste in 15 minutes",
+        "description": "Run a prompt through your current provider, count wasted tokens, and see if 40% savings fits.",
+        "visual_hint": "stopwatch and prompt screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch on desk",
+        "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/15206136/pexels-photo-15206136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-21T17:07:31.465Z",
+    "sourceId": "629a5fdfb0888fd4747a1326a120f1c5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "music-streamer-deezer-says-more-than-50-of-daily-u",
     "prompt_version": "1.0.0",
     "status": "published",
