@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-releases-three-new-gemini-models-but-no-3-5",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google releases three new Gemini models — but no 3.5 Pro",
+  "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+  "pubDate": "Tue, 21 Jul 2026 17:11:50 +0000",
+  "slides": [
+    "Google dropped three models—why no 3.5 Pro?",
+    "Gemini 2.5 Flash now handles 1M context tokens",
+    "Your multimodal chat suddenly costs 80% less",
+    "But your critical pipeline may still need Pro",
+    "Test your use case against each model today"
+  ],
+  "thread_text": [
+    "1. Why no 3.5 Pro?\n\nGoogle dropped three Gemini models at once, but skipped the mid-tier Pro — leaving developers guessing which one actually fits their pipeline.",
+    "2. 1M context for Flash\n\nGemini 2.5 Flash now processes a million tokens — enough to eat an entire codebase in one go. That changes how you build retrieval apps.",
+    "3. Multimodal costs crash\n\nReal-time image and audio chats just got 80% cheaper on Flash. Your prototype no longer burns budget on every test message.",
+    "4. But Pro still rules\n\nYour high‑stakes pipeline — compliance, review, chained reasoning — may break on Flash. Pro remains the safe fallback for critical paths.",
+    "5. Which model fits your flow?\n\nTake a single prompt you already run in production. Run it on Flash, then on Pro. Measure output quality against latency — don't guess."
+  ],
+  "video_script": [
+    "Google skipped Gemini 3.5 Pro.",
+    "Flash now handles one million tokens.",
+    "Multimodal chat costs 80 percent less.",
+    "Critical pipelines still need Pro's safety.",
+    "Test your actual use case today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why no 3.5 Pro?\n\nGoogle dropped three Gemini models at once, but skipped the mid-tier Pro — leaving developers guessing which one actually fits their pipeline.",
+        "2. 1M context for Flash\n\nGemini 2.5 Flash now processes a million tokens — enough to eat an entire codebase in one go. That changes how you build retrieval apps.",
+        "3. Multimodal costs crash\n\nReal-time image and audio chats just got 80% cheaper on Flash. Your prototype no longer burns budget on every test message.",
+        "4. But Pro still rules\n\nYour high‑stakes pipeline — compliance, review, chained reasoning — may break on Flash. Pro remains the safe fallback for critical paths.",
+        "5. Which model fits your flow?\n\nTake a single prompt you already run in production. Run it on Flash, then on Pro. Measure output quality against latency — don't guess."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google skipped Gemini 3.5 Pro.",
+        "Flash now handles one million tokens.",
+        "Multimodal chat costs 80 percent less.",
+        "Critical pipelines still need Pro's safety.",
+        "Test your actual use case today."
+      ]
+    },
+    "instagram": {
+      "caption": "Gemini 2.5 Flash now swallows a million tokens in one go — that's an entire codebase in a single prompt. 🧠\n\nGoogle dropped three new models but skipped the mid-tier Pro entirely. Flash’s multimodal chats just got 80% cheaper to run. ⚡\n\nYour prototype budget just stretched much further. But for high-stakes compliance or chained review, Flash may still choke — Pro is the fallback.\n\nPull one prompt you already ship in production. Run it on Flash, then on Pro. Which one actually passes for your use case? 🔍"
+    }
+  },
+  "instagram_caption": "Gemini 2.5 Flash now swallows a million tokens in one go — that's an entire codebase in a single prompt. 🧠\n\nGoogle dropped three new models but skipped the mid-tier Pro entirely. Flash’s multimodal chats just got 80% cheaper to run. ⚡\n\nYour prototype budget just stretched much further. But for high-stakes compliance or chained review, Flash may still choke — Pro is the fallback.\n\nPull one prompt you already ship in production. Run it on Flash, then on Pro. Which one actually passes for your use case? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Why skip mid-tier Pro?",
+      "description": "Google dropped three Gemini models but no 3.5 Pro, forcing devs to guess which fits their pipeline best.",
+      "visual_hint": "puzzle with missing piece",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "puzzle missing piece"
+    },
+    {
+      "hook": "1M context changes everything.",
+      "description": "Gemini 2.5 Flash now processes a million tokens, letting you ingest an entire codebase in one go.",
+      "visual_hint": "expanding document scroll",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Multimodal costs crash 80%.",
+      "description": "Real-time image and audio chats just got 80% cheaper on Flash, so prototypes no longer burn budget.",
+      "visual_hint": "falling price arrow graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pro still rules high stakes.",
+      "description": "Compliance and chained reasoning may break on Flash; Pro remains the safe fallback for critical paths.",
+      "visual_hint": "hand shielding a card",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your flow now—don't guess.",
+      "description": "Run one prompt on Flash, then on Pro, and measure output quality against latency in your pipeline.",
+      "visual_hint": "runway or start button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+  "savedAt": "2026-07-21T19:05:26.790Z",
+  "sourceId": "c096964be54d2919f6eb83a0df9e4aa0"
+}
