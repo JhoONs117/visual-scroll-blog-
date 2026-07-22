@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-made-its-own-ai-detection-system-it-should-ha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "pubDate": "2026-07-22T11:00:00.000Z",
+    "slides": [
+      "Meta built an AI detector from scratch. Why not use Google’s?",
+      "Google’s SynthID already works for text and images",
+      "Meta’s version flags content Google misses — and some it doesn’t",
+      "You now face two incompatible detection standards across platforms",
+      "Pick one detector today and test it on your own content"
+    ],
+    "thread_text": [
+      "1. Two detectors, one mess\n\nMeta built its own AI detector from scratch instead of licensing Google’s SynthID.",
+      "2. Google’s tool has limits\n\nSynthID already detects AI in text and images, but Meta claims it misses certain content.",
+      "3. Meta catches what Google misses\n\nMeta’s version flags content Google overlooks, though some false positives remain.",
+      "4. Incompatible standards ahead\n\nYou now face two conflicting detection systems across platforms with no single answer.",
+      "5. Test one detector this week\n\nTake a piece of AI-generated text and run it through either Meta’s or Google’s tool today."
+    ],
+    "video_script": [
+      "Meta built its own AI detector.",
+      "Google’s SynthID works for text and images.",
+      "Meta catches content Google misses.",
+      "Two incompatible detection standards now exist.",
+      "Pick one detector and test your content."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Two detectors, one mess\n\nMeta built its own AI detector from scratch instead of licensing Google’s SynthID.",
+          "2. Google’s tool has limits\n\nSynthID already detects AI in text and images, but Meta claims it misses certain content.",
+          "3. Meta catches what Google misses\n\nMeta’s version flags content Google overlooks, though some false positives remain.",
+          "4. Incompatible standards ahead\n\nYou now face two conflicting detection systems across platforms with no single answer.",
+          "5. Test one detector this week\n\nTake a piece of AI-generated text and run it through either Meta’s or Google’s tool today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta built its own AI detector.",
+          "Google’s SynthID works for text and images.",
+          "Meta catches content Google misses.",
+          "Two incompatible detection standards now exist.",
+          "Pick one detector and test your content."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta built its own AI detector from scratch, skipping Google’s ready-to-use SynthID tool.\n\nGoogle’s system already works for images and text. Meta says it misses some AI content — but its own version tags false positives. You now have two incompatible detection standards across platforms.\n\nIf you create or publish content, there’s no single reliable check. A post flagged on one platform might pass the other.\n\nTry this: drop a piece of AI text into Google’s tool today — will your own work survive the double test 🤖🔍"
+      }
+    },
+    "instagram_caption": "Meta built its own AI detector from scratch, skipping Google’s ready-to-use SynthID tool.\n\nGoogle’s system already works for images and text. Meta says it misses some AI content — but its own version tags false positives. You now have two incompatible detection standards across platforms.\n\nIf you create or publish content, there’s no single reliable check. A post flagged on one platform might pass the other.\n\nTry this: drop a piece of AI text into Google’s tool today — will your own work survive the double test 🤖🔍",
+    "carousel_slides": [
+      {
+        "hook": "Two detectors, one mess.",
+        "description": "Meta built its own AI detector instead of licensing Google's SynthID, creating duplicate effort.",
+        "visual_hint": "Split screen with logos",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Meta Google logos"
+      },
+      {
+        "hook": "Google's tool has limits.",
+        "description": "SynthID already detects AI in text and images, but Meta claims it misses certain content.",
+        "visual_hint": "Magnifying glass over text",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass screen",
+        "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meta catches what Google misses.",
+        "description": "Meta's version flags content Google overlooks, though false positives still occur.",
+        "visual_hint": "Target with check and X",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "target board arrows",
+        "image": "https://images.pexels.com/photos/24193965/pexels-photo-24193965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Incompatible standards ahead.",
+        "description": "You now face two conflicting detection systems across platforms with no single answer.",
+        "visual_hint": "Two puzzle pieces mismatched",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "puzzle pieces mismatch",
+        "image": "https://images.pexels.com/photos/8386125/pexels-photo-8386125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one detector today.",
+        "description": "Take a piece of AI-generated text and run it through either Meta's or Google's tool now.",
+        "visual_hint": "Phone showing test results",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone test result",
+        "image": "https://images.pexels.com/photos/5053987/pexels-photo-5053987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-22T13:24:37.592Z",
+    "sourceId": "d822ef4f614f4b3a3576d1c26a53ded6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-and-the-rise-of-the-universal-entertainment-app",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI and the rise of the universal entertainment app",
+    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "pubDate": "Tue, 21 Jul 2026 19:39:30 +0000",
+    "slides": [
+      "What if one app replaces all your entertainment?",
+      "AI now generates personalized shows instantly.",
+      "It learns your mood better than you do.",
+      "Your playlist, games, and films merge into one.",
+      "Test it today—delete your other apps first."
+    ],
+    "thread_text": [
+      "1. One app to rule them all?\n\nNetflix, Spotify, and TikTok could vanish from your phone. A single AI now streams shows, games, and playlists in real time.",
+      "2. It reads your face.\n\nThe app scans your expressions and adjusts the content mid-scene. No more tapping \"skip.\"",
+      "3. Your mood is the remote.\n\nFeeling anxious? It generates a calming story. Bored? It throws in a puzzle. You never choose a genre again.",
+      "4. Everything bleeds together.\n\nA character from your show walks into your game. The game's soundtrack becomes your playlist. Boundaries dissolve.",
+      "5. Delete your other apps.\n\nToday, open the app store and remove your top three entertainment tools. Can you afford to wait for a sign?"
+    ],
+    "video_script": [
+      "Open your phone.",
+      "Now delete Netflix and Spotify.",
+      "This one app replaces them all.",
+      "It watches your face and adapts.",
+      "No more choosing. Just start."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One app to rule them all?\n\nNetflix, Spotify, and TikTok could vanish from your phone. A single AI now streams shows, games, and playlists in real time.",
+          "2. It reads your face.\n\nThe app scans your expressions and adjusts the content mid-scene. No more tapping \"skip.\"",
+          "3. Your mood is the remote.\n\nFeeling anxious? It generates a calming story. Bored? It throws in a puzzle. You never choose a genre again.",
+          "4. Everything bleeds together.\n\nA character from your show walks into your game. The game's soundtrack becomes your playlist. Boundaries dissolve.",
+          "5. Delete your other apps.\n\nToday, open the app store and remove your top three entertainment tools. Can you afford to wait for a sign?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Open your phone.",
+          "Now delete Netflix and Spotify.",
+          "This one app replaces them all.",
+          "It watches your face and adapts.",
+          "No more choosing. Just start."
+        ]
+      },
+      "instagram": {
+        "caption": "Your face now tells your entertainment app what you want to watch.\n\nA new AI reads your expressions mid-scene and changes the show, music, or game in real time. It doesn't just suggest—it morphs content to match your mood, second by second.\n\nFor creators, this means stories are no longer fixed: a script can shift based on how you feel.\n\nIf your show's character can walk into your game and its soundtrack becomes your playlist, what stops one app from owning your entire attention span?"
+      }
+    },
+    "instagram_caption": "Your face now tells your entertainment app what you want to watch.\n\nA new AI reads your expressions mid-scene and changes the show, music, or game in real time. It doesn't just suggest—it morphs content to match your mood, second by second.\n\nFor creators, this means stories are no longer fixed: a script can shift based on how you feel.\n\nIf your show's character can walk into your game and its soundtrack becomes your playlist, what stops one app from owning your entire attention span?",
+    "carousel_slides": [
+      {
+        "hook": "Your mood is the remote.",
+        "description": "AI now scans facial expressions and adjusts content instantly. No need to tap skip ever again.",
+        "visual_hint": "Face scan animation with UI overlay",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "face recognition screen"
+      },
+      {
+        "hook": "Shows, games, playlists merge.",
+        "description": "A character walks from your show into your game. The soundtrack becomes your playlist instantly.",
+        "visual_hint": "Blending media icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone streaming apps",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It learns your mood better.",
+        "description": "Feeling anxious? AI generates a calming story. Bored? It throws in a puzzle. You never choose.",
+        "visual_hint": "Mood dial interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartwatch mood tracking",
+        "image": "https://images.pexels.com/photos/19961771/pexels-photo-19961771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One app replaces them all.",
+        "description": "Netflix, Spotify, and TikTok vanish from your phone. A single AI streams everything in real time.",
+        "visual_hint": "Disappearing app icons",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "phone home screen apps",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delete your top 3 apps today.",
+        "description": "Open your app store now and remove your most used entertainment tools. Can you wait?",
+        "visual_hint": "Delete button close-up",
+        "layout_type": "cta-final",
+        "icon": "vibration",
+        "image_query": "delete app icon",
+        "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+    "savedAt": "2026-07-22T13:24:24.867Z",
+    "sourceId": "0919b4f551ff4e1de9cfc53fb88eb467"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "glow-emerges-from-stealth-at-1-2b-valuation-to-cha",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "pubDate": "Wed, 22 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "Glow claims your endpoint tools miss AI-driven attacks.",
+      "Its agents run locally, not in the cloud.",
+      "One employee's laptop already stopped an unknown zero-day.",
+      "You will deploy it alongside your existing stack.",
+      "Test Glow on one endpoint tonight; compare results."
+    ],
+    "thread_text": [
+      "1. Your laptop already fought back\n\nAn employee's machine silently blocked a known zero-day. Glow ran locally—no cloud needed.",
+      "2. Endpoint tools see nothing\n\nGlow claims standard AV and EDR miss AI-driven attacks entirely. They rely on old signatures.",
+      "3. It runs on your hardware\n\nAgents deploy on each endpoint, not in a distant server. Low footprint, no data leaves.",
+      "4. Deploy alongside your stack\n\nNo rip-and-replace. Glow sits next to CrowdStrike, SentinelOne, or Microsoft Defender.",
+      "5. Test it tonight on one box\n\nInstall on a single employee endpoint. Compare alerts tomorrow. Will yours catch what Glow did?"
+    ],
+    "video_script": [
+      "One employee laptop stopped a zero-day.",
+      "Glow runs locally, not in the cloud.",
+      "Standard tools miss AI-driven attacks.",
+      "Deploy it alongside your existing stack.",
+      "Test on one endpoint tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your laptop already fought back\n\nAn employee's machine silently blocked a known zero-day. Glow ran locally—no cloud needed.",
+          "2. Endpoint tools see nothing\n\nGlow claims standard AV and EDR miss AI-driven attacks entirely. They rely on old signatures.",
+          "3. It runs on your hardware\n\nAgents deploy on each endpoint, not in a distant server. Low footprint, no data leaves.",
+          "4. Deploy alongside your stack\n\nNo rip-and-replace. Glow sits next to CrowdStrike, SentinelOne, or Microsoft Defender.",
+          "5. Test it tonight on one box\n\nInstall on a single employee endpoint. Compare alerts tomorrow. Will yours catch what Glow did?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One employee laptop stopped a zero-day.",
+          "Glow runs locally, not in the cloud.",
+          "Standard tools miss AI-driven attacks.",
+          "Deploy it alongside your existing stack.",
+          "Test on one endpoint tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "Your endpoint tools just missed a real attack. An employee’s laptop silently blocked a known zero-day — no cloud, no signature updated needed.\n\nGlow’s agents run locally on your hardware, scanning for AI-driven threats standard antivirus and EDR tools don’t catch. It’s designed to sit alongside CrowdStrike or Defender without replacing them.\n\nIf you create or share content, your workstation is a target. Legacy tools assume attackers follow old patterns. Glow assumes they don’t.\n\nTest it on one endpoint tonight. Compare the alerts tomorrow. Will yours see what Glow did? 🔍🛡️🤖"
+      }
+    },
+    "instagram_caption": "Your endpoint tools just missed a real attack. An employee’s laptop silently blocked a known zero-day — no cloud, no signature updated needed.\n\nGlow’s agents run locally on your hardware, scanning for AI-driven threats standard antivirus and EDR tools don’t catch. It’s designed to sit alongside CrowdStrike or Defender without replacing them.\n\nIf you create or share content, your workstation is a target. Legacy tools assume attackers follow old patterns. Glow assumes they don’t.\n\nTest it on one endpoint tonight. Compare the alerts tomorrow. Will yours see what Glow did? 🔍🛡️🤖",
+    "carousel_slides": [
+      {
+        "hook": "One laptop already stopped a zero-day.",
+        "description": "Glow ran locally and silently blocked an unknown attack no cloud needed.",
+        "visual_hint": "Laptop with green shield",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop with shield"
+      },
+      {
+        "hook": "Your endpoint tools miss AI attacks.",
+        "description": "Standard AV and EDR rely on old signatures, so AI-driven threats pass through unseen.",
+        "visual_hint": "Flying malware past shield",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "malware bypassing shield",
+        "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It runs locally, not in the cloud.",
+        "description": "Agents deploy on each machine with low footprint no data leaves your hardware.",
+        "visual_hint": "Computer with lock icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer with lock",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No rip-and-replace needed.",
+        "description": "Glow sits alongside CrowdStrike, SentinelOne, or Microsoft Defender without conflict.",
+        "visual_hint": "Two security logos side by side",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "two security badges",
+        "image": "https://images.pexels.com/photos/20741536/pexels-photo-20741536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it tonight on one endpoint.",
+        "description": "Install on a single employee machine. Compare alerts tomorrow and see what Glow caught.",
+        "visual_hint": "Arrow pointing to install button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "install button on screen",
+        "image": "https://images.pexels.com/photos/38640949/pexels-photo-38640949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
+    "savedAt": "2026-07-22T13:24:11.071Z",
+    "sourceId": "e75398f513acc1c9ad15406e428733df"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sensetime-s-galaxy-project-targets-domestic-ai-chi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+    "link": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+    "pubDate": "Wed, 22 Jul 2026 11:21:05 +0000",
+    "slides": [
+      "Can SenseTime crack China's chip bottleneck?",
+      "Galaxy Project aims mass domestic AI chips.",
+      "But one supplier alone cannot meet demand.",
+      "Your AI projects now depend on local supply.",
+      "Test Galaxy chips before rivals lock capacity."
+    ],
+    "thread_text": [
+      "1. Can SenseTime break the bottleneck?\n\nA single supplier can’t meet demand — even with Galaxy’s mass domestic chips.",
+      "2. Galaxy’s massive plan.\n\nThe project aims to produce AI chips locally at scale, but volume alone isn’t the fix.",
+      "3. Your projects rely on local supply.\n\nYour AI work now depends on what’s available domestically, not global vendors.",
+      "4. The real bottleneck is capacity.\n\nIf rivals lock chip supply first, your deployment stalls — Galaxy can’t cover everyone.",
+      "5. Test Galaxy chips this week.\n\nRun a small inference workload on a Galaxy test unit before others reserve the next batch."
+    ],
+    "video_script": [
+      "SenseTime faces a chip bottleneck.",
+      "Galaxy project aims for mass AI chips.",
+      "One supplier can't meet all demand.",
+      "Your AI projects depend on local supply.",
+      "Test Galaxy chips before rivals lock capacity."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can SenseTime break the bottleneck?\n\nA single supplier can’t meet demand — even with Galaxy’s mass domestic chips.",
+          "2. Galaxy’s massive plan.\n\nThe project aims to produce AI chips locally at scale, but volume alone isn’t the fix.",
+          "3. Your projects rely on local supply.\n\nYour AI work now depends on what’s available domestically, not global vendors.",
+          "4. The real bottleneck is capacity.\n\nIf rivals lock chip supply first, your deployment stalls — Galaxy can’t cover everyone.",
+          "5. Test Galaxy chips this week.\n\nRun a small inference workload on a Galaxy test unit before others reserve the next batch."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SenseTime faces a chip bottleneck.",
+          "Galaxy project aims for mass AI chips.",
+          "One supplier can't meet all demand.",
+          "Your AI projects depend on local supply.",
+          "Test Galaxy chips before rivals lock capacity."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI projects now depend on local chip supply. 🔧\n\nSenseTime's Galaxy Project aims to mass-produce domestic AI chips. But one supplier alone cannot meet industry demand.  \nRivals locking chip capacity first means your deployment stalls.\n\nYour AI workload now depends on domestic availability, not global vendors.\n\nTest a Galaxy chip inference run this week before others reserve the next batch — are you on the list? ⏳"
+      }
+    },
+    "instagram_caption": "Your AI projects now depend on local chip supply. 🔧\n\nSenseTime's Galaxy Project aims to mass-produce domestic AI chips. But one supplier alone cannot meet industry demand.  \nRivals locking chip capacity first means your deployment stalls.\n\nYour AI workload now depends on domestic availability, not global vendors.\n\nTest a Galaxy chip inference run this week before others reserve the next batch — are you on the list? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "One supplier can't meet demand",
+        "description": "Even Galaxy's mass domestic chips won't cover every AI project. Your deployment could stall if rivals reserve capacity first.",
+        "visual_hint": "funnel with bottleneck",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room equipment"
+      },
+      {
+        "hook": "Galaxy's massive chip plan",
+        "description": "SenseTime aims to produce AI chips locally at scale. But volume alone isn't the fix—supply is still tight.",
+        "visual_hint": "chip factory interior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "semiconductor fabrication",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI now depends locally",
+        "description": "Your AI work relies on what's available domestically, not global vendors. Local supply chains dictate your schedule.",
+        "visual_hint": "magnifying glass on chip",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI chip close up",
+        "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Capacity is the real bottleneck",
+        "description": "If rivals lock chip supply first, your AI deployment stalls. Galaxy can't cover everyone—timing is everything.",
+        "visual_hint": "hands holding microchip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "microchip hand",
+        "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Galaxy chips this week",
+        "description": "Run a small inference workload on a Galaxy test unit before rivals reserve the next batch. Save your spot.",
+        "visual_hint": "checkmark on calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar test date",
+        "image": "https://images.pexels.com/photos/6942031/pexels-photo-6942031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-22T13:23:57.244Z",
+    "sourceId": "4d49634962c3398a020efc29c1f29876"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "synthesia-s-ai-training-platform-is-moving-beyond-",
     "prompt_version": "1.0.0",
     "status": "published",

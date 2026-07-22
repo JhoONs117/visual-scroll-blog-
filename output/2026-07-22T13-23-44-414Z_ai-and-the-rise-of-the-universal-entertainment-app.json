@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-and-the-rise-of-the-universal-entertainment-app",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI and the rise of the universal entertainment app",
+  "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+  "pubDate": "Tue, 21 Jul 2026 19:39:30 +0000",
+  "slides": [
+    "What if one app replaces all your entertainment?",
+    "AI now generates personalized shows instantly.",
+    "It learns your mood better than you do.",
+    "Your playlist, games, and films merge into one.",
+    "Test it today—delete your other apps first."
+  ],
+  "thread_text": [
+    "1. One app to rule them all?\n\nNetflix, Spotify, and TikTok could vanish from your phone. A single AI now streams shows, games, and playlists in real time.",
+    "2. It reads your face.\n\nThe app scans your expressions and adjusts the content mid-scene. No more tapping \"skip.\"",
+    "3. Your mood is the remote.\n\nFeeling anxious? It generates a calming story. Bored? It throws in a puzzle. You never choose a genre again.",
+    "4. Everything bleeds together.\n\nA character from your show walks into your game. The game's soundtrack becomes your playlist. Boundaries dissolve.",
+    "5. Delete your other apps.\n\nToday, open the app store and remove your top three entertainment tools. Can you afford to wait for a sign?"
+  ],
+  "video_script": [
+    "Open your phone.",
+    "Now delete Netflix and Spotify.",
+    "This one app replaces them all.",
+    "It watches your face and adapts.",
+    "No more choosing. Just start."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One app to rule them all?\n\nNetflix, Spotify, and TikTok could vanish from your phone. A single AI now streams shows, games, and playlists in real time.",
+        "2. It reads your face.\n\nThe app scans your expressions and adjusts the content mid-scene. No more tapping \"skip.\"",
+        "3. Your mood is the remote.\n\nFeeling anxious? It generates a calming story. Bored? It throws in a puzzle. You never choose a genre again.",
+        "4. Everything bleeds together.\n\nA character from your show walks into your game. The game's soundtrack becomes your playlist. Boundaries dissolve.",
+        "5. Delete your other apps.\n\nToday, open the app store and remove your top three entertainment tools. Can you afford to wait for a sign?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Open your phone.",
+        "Now delete Netflix and Spotify.",
+        "This one app replaces them all.",
+        "It watches your face and adapts.",
+        "No more choosing. Just start."
+      ]
+    },
+    "instagram": {
+      "caption": "Your face now tells your entertainment app what you want to watch.\n\nA new AI reads your expressions mid-scene and changes the show, music, or game in real time. It doesn't just suggest—it morphs content to match your mood, second by second.\n\nFor creators, this means stories are no longer fixed: a script can shift based on how you feel.\n\nIf your show's character can walk into your game and its soundtrack becomes your playlist, what stops one app from owning your entire attention span?"
+    }
+  },
+  "instagram_caption": "Your face now tells your entertainment app what you want to watch.\n\nA new AI reads your expressions mid-scene and changes the show, music, or game in real time. It doesn't just suggest—it morphs content to match your mood, second by second.\n\nFor creators, this means stories are no longer fixed: a script can shift based on how you feel.\n\nIf your show's character can walk into your game and its soundtrack becomes your playlist, what stops one app from owning your entire attention span?",
+  "carousel_slides": [
+    {
+      "hook": "Your mood is the remote.",
+      "description": "AI now scans facial expressions and adjusts content instantly. No need to tap skip ever again.",
+      "visual_hint": "Face scan animation with UI overlay",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "face recognition screen"
+    },
+    {
+      "hook": "Shows, games, playlists merge.",
+      "description": "A character walks from your show into your game. The soundtrack becomes your playlist instantly.",
+      "visual_hint": "Blending media icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone streaming apps",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It learns your mood better.",
+      "description": "Feeling anxious? AI generates a calming story. Bored? It throws in a puzzle. You never choose.",
+      "visual_hint": "Mood dial interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartwatch mood tracking",
+      "image": "https://images.pexels.com/photos/19961771/pexels-photo-19961771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One app replaces them all.",
+      "description": "Netflix, Spotify, and TikTok vanish from your phone. A single AI streams everything in real time.",
+      "visual_hint": "Disappearing app icons",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "phone home screen apps",
+      "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delete your top 3 apps today.",
+      "description": "Open your app store now and remove your most used entertainment tools. Can you wait?",
+      "visual_hint": "Delete button close-up",
+      "layout_type": "cta-final",
+      "icon": "vibration",
+      "image_query": "delete app icon",
+      "image": "https://images.pexels.com/photos/33632617/pexels-photo-33632617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+  "savedAt": "2026-07-22T13:24:24.867Z",
+  "sourceId": "0919b4f551ff4e1de9cfc53fb88eb467"
+}

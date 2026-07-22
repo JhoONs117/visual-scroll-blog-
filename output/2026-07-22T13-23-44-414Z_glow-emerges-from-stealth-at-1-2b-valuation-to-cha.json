@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "glow-emerges-from-stealth-at-1-2b-valuation-to-cha",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+  "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+  "pubDate": "Wed, 22 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Glow claims your endpoint tools miss AI-driven attacks.",
+    "Its agents run locally, not in the cloud.",
+    "One employee's laptop already stopped an unknown zero-day.",
+    "You will deploy it alongside your existing stack.",
+    "Test Glow on one endpoint tonight; compare results."
+  ],
+  "thread_text": [
+    "1. Your laptop already fought back\n\nAn employee's machine silently blocked a known zero-day. Glow ran locally—no cloud needed.",
+    "2. Endpoint tools see nothing\n\nGlow claims standard AV and EDR miss AI-driven attacks entirely. They rely on old signatures.",
+    "3. It runs on your hardware\n\nAgents deploy on each endpoint, not in a distant server. Low footprint, no data leaves.",
+    "4. Deploy alongside your stack\n\nNo rip-and-replace. Glow sits next to CrowdStrike, SentinelOne, or Microsoft Defender.",
+    "5. Test it tonight on one box\n\nInstall on a single employee endpoint. Compare alerts tomorrow. Will yours catch what Glow did?"
+  ],
+  "video_script": [
+    "One employee laptop stopped a zero-day.",
+    "Glow runs locally, not in the cloud.",
+    "Standard tools miss AI-driven attacks.",
+    "Deploy it alongside your existing stack.",
+    "Test on one endpoint tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your laptop already fought back\n\nAn employee's machine silently blocked a known zero-day. Glow ran locally—no cloud needed.",
+        "2. Endpoint tools see nothing\n\nGlow claims standard AV and EDR miss AI-driven attacks entirely. They rely on old signatures.",
+        "3. It runs on your hardware\n\nAgents deploy on each endpoint, not in a distant server. Low footprint, no data leaves.",
+        "4. Deploy alongside your stack\n\nNo rip-and-replace. Glow sits next to CrowdStrike, SentinelOne, or Microsoft Defender.",
+        "5. Test it tonight on one box\n\nInstall on a single employee endpoint. Compare alerts tomorrow. Will yours catch what Glow did?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One employee laptop stopped a zero-day.",
+        "Glow runs locally, not in the cloud.",
+        "Standard tools miss AI-driven attacks.",
+        "Deploy it alongside your existing stack.",
+        "Test on one endpoint tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "Your endpoint tools just missed a real attack. An employee’s laptop silently blocked a known zero-day — no cloud, no signature updated needed.\n\nGlow’s agents run locally on your hardware, scanning for AI-driven threats standard antivirus and EDR tools don’t catch. It’s designed to sit alongside CrowdStrike or Defender without replacing them.\n\nIf you create or share content, your workstation is a target. Legacy tools assume attackers follow old patterns. Glow assumes they don’t.\n\nTest it on one endpoint tonight. Compare the alerts tomorrow. Will yours see what Glow did? 🔍🛡️🤖"
+    }
+  },
+  "instagram_caption": "Your endpoint tools just missed a real attack. An employee’s laptop silently blocked a known zero-day — no cloud, no signature updated needed.\n\nGlow’s agents run locally on your hardware, scanning for AI-driven threats standard antivirus and EDR tools don’t catch. It’s designed to sit alongside CrowdStrike or Defender without replacing them.\n\nIf you create or share content, your workstation is a target. Legacy tools assume attackers follow old patterns. Glow assumes they don’t.\n\nTest it on one endpoint tonight. Compare the alerts tomorrow. Will yours see what Glow did? 🔍🛡️🤖",
+  "carousel_slides": [
+    {
+      "hook": "One laptop already stopped a zero-day.",
+      "description": "Glow ran locally and silently blocked an unknown attack no cloud needed.",
+      "visual_hint": "Laptop with green shield",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laptop with shield"
+    },
+    {
+      "hook": "Your endpoint tools miss AI attacks.",
+      "description": "Standard AV and EDR rely on old signatures, so AI-driven threats pass through unseen.",
+      "visual_hint": "Flying malware past shield",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "malware bypassing shield",
+      "image": "https://images.pexels.com/photos/5240543/pexels-photo-5240543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It runs locally, not in the cloud.",
+      "description": "Agents deploy on each machine with low footprint no data leaves your hardware.",
+      "visual_hint": "Computer with lock icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer with lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No rip-and-replace needed.",
+      "description": "Glow sits alongside CrowdStrike, SentinelOne, or Microsoft Defender without conflict.",
+      "visual_hint": "Two security logos side by side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "two security badges",
+      "image": "https://images.pexels.com/photos/20741536/pexels-photo-20741536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it tonight on one endpoint.",
+      "description": "Install on a single employee machine. Compare alerts tomorrow and see what Glow caught.",
+      "visual_hint": "Arrow pointing to install button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "install button on screen",
+      "image": "https://images.pexels.com/photos/38640949/pexels-photo-38640949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
+  "savedAt": "2026-07-22T13:24:11.071Z",
+  "sourceId": "e75398f513acc1c9ad15406e428733df"
+}
