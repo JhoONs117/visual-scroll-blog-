@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "utility-companies-promise-to-spare-us-from-ai-s-en",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Utility companies promise to spare us from AI’s energy bill",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+  "pubDate": "2026-07-22T10:12:13.000Z",
+  "slides": [
+    "Can utilities really shield your wallet from AI's power drain?",
+    "They forecast a 160% electricity demand surge by 2030.",
+    "Their solution relies on a resource not yet proven at scale.",
+    "Your AI usage cost may still double within two years.",
+    "Audit your cloud's energy efficiency now before rates rise."
+  ],
+  "thread_text": [
+    "1. Is your AI usage at risk?\n\nBy 2030, utilities forecast a 160% electricity demand surge — and your costs will double within two years.",
+    "2. The hidden solution\n\nTheir fix depends on a resource not yet proven at scale. Expect disruptions before it’s ready.",
+    "3. Who pays the price?\n\nData centers already consume 1% of global electricity. AI training pushes that toward 10% by 2026.",
+    "4. The real bill is coming\n\nAs rates rise, cloud providers will pass costs to you — not absorb them. No buffer exists.",
+    "5. Audit your cloud energy now\n\nCheck your cloud provider’s Power Usage Effectiveness today. If it’s above 1.4, you’re overpaying."
+  ],
+  "video_script": [
+    "Utilities predict a 160% electricity surge.",
+    "AI power costs will double in two years.",
+    "Their fix isn't proven at scale yet.",
+    "Your data center will pass on the hike.",
+    "Audit your cloud energy efficiency now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is your AI usage at risk?\n\nBy 2030, utilities forecast a 160% electricity demand surge — and your costs will double within two years.",
+        "2. The hidden solution\n\nTheir fix depends on a resource not yet proven at scale. Expect disruptions before it’s ready.",
+        "3. Who pays the price?\n\nData centers already consume 1% of global electricity. AI training pushes that toward 10% by 2026.",
+        "4. The real bill is coming\n\nAs rates rise, cloud providers will pass costs to you — not absorb them. No buffer exists.",
+        "5. Audit your cloud energy now\n\nCheck your cloud provider’s Power Usage Effectiveness today. If it’s above 1.4, you’re overpaying."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Utilities predict a 160% electricity surge.",
+        "AI power costs will double in two years.",
+        "Their fix isn't proven at scale yet.",
+        "Your data center will pass on the hike.",
+        "Audit your cloud energy efficiency now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your electricity bill could double within two years because of AI. ⚡\n\nUtilities promise to shield you, but their plan relies on a resource not yet proven at scale. Data centers already use 1% of global power; AI training could push that to 10% by 2026.\n\nCloud providers will pass the rising costs to you—no buffer exists.\n\nCheck your cloud provider's Power Usage Effectiveness today. If it's above 1.4, are you ready to switch or cut usage?"
+    }
+  },
+  "instagram_caption": "Your electricity bill could double within two years because of AI. ⚡\n\nUtilities promise to shield you, but their plan relies on a resource not yet proven at scale. Data centers already use 1% of global power; AI training could push that to 10% by 2026.\n\nCloud providers will pass the rising costs to you—no buffer exists.\n\nCheck your cloud provider's Power Usage Effectiveness today. If it's above 1.4, are you ready to switch or cut usage?",
+  "carousel_slides": [
+    {
+      "hook": "Can utilities shield your wallet?",
+      "description": "Utilities forecast a 160% electricity demand surge by 2030. Your costs will likely double within two years.",
+      "visual_hint": "Electric meter close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric meter"
+    },
+    {
+      "hook": "Their fix lacks proof at scale.",
+      "description": "The solution depends on unproven resources. Expect disruptions before it's ready.",
+      "visual_hint": "Question mark on blueprints",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power plant blueprint",
+      "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI pushes data centers to 10%.",
+      "description": "Data centers already use 1% of global electricity. AI training will push that toward 10% by 2026.",
+      "visual_hint": "Server racks with glowing lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who pays the rising rates?",
+      "description": "Cloud providers will pass costs to you. No buffer exists to absorb the increase.",
+      "visual_hint": "Hand holding a bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "electricity bill",
+      "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your cloud energy now.",
+      "description": "Check your provider's Power Usage Effectiveness today. If above 1.4, you're overpaying.",
+      "visual_hint": "Checklist and data chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "energy audit chart",
+      "image": "https://images.pexels.com/photos/7947717/pexels-photo-7947717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-22T17:08:38.906Z",
+  "sourceId": "190df8c6e736b036f21936027317cfff"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-ai-spending-spree-has-ballooned-to-750b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s AI spending spree has ballooned to $750B",
+  "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+  "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
+  "slides": [
+    "What happens when $750 billion isn't enough?",
+    "Most of that goes to chips and data centers.",
+    "But OpenAI's revenue still can't cover the costs.",
+    "Your next API price hike may already be planned.",
+    "Ask your cloud provider what their break-even is."
+  ],
+  "thread_text": [
+    "1. What if $750B isn’t enough?\n\nSam Altman just asked for $7 trillion. That’s 10x the current ask.",
+    "2. Chips eat the budget first.\n\nNvidia’s H100s cost $30,000 each. A single data center burns billions before a model trains.",
+    "3. Revenue trails spending.\n\nOpenAI’s annualized revenue is $3.4B. Costs run higher every quarter.",
+    "4. Users will pay the gap.\n\nAPI prices already doubled in 2024. Another increase is being tested internally.",
+    "5. Ask your cloud provider their break-even.\n\nCall AWS or Azure sales today. If they dodge, you know the next bill is coming."
+  ],
+  "video_script": [
+    "Altman asked for seven trillion dollars.",
+    "Chips cost thirty thousand each.",
+    "Revenue is three point four billion.",
+    "API prices are already doubling.",
+    "Call your provider and ask."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if $750B isn’t enough?\n\nSam Altman just asked for $7 trillion. That’s 10x the current ask.",
+        "2. Chips eat the budget first.\n\nNvidia’s H100s cost $30,000 each. A single data center burns billions before a model trains.",
+        "3. Revenue trails spending.\n\nOpenAI’s annualized revenue is $3.4B. Costs run higher every quarter.",
+        "4. Users will pay the gap.\n\nAPI prices already doubled in 2024. Another increase is being tested internally.",
+        "5. Ask your cloud provider their break-even.\n\nCall AWS or Azure sales today. If they dodge, you know the next bill is coming."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Altman asked for seven trillion dollars.",
+        "Chips cost thirty thousand each.",
+        "Revenue is three point four billion.",
+        "API prices are already doubling.",
+        "Call your provider and ask."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s spending has ballooned to $750 billion, and they’re asking for $7 trillion more.\n\nThat money goes to Nvidia H100 chips at $30,000 each and data centers that burn billions before a single model trains. Their annual revenue is $3.4 billion—costs are higher every quarter 💸\n\nAPI prices already doubled in 2024, and another increase is being tested internally. Your next bill is already being calculated 📈\n\nWhen you build content or tools on these APIs, are you budgeting for another price hike—or looking at alternatives today?"
+    }
+  },
+  "instagram_caption": "OpenAI’s spending has ballooned to $750 billion, and they’re asking for $7 trillion more.\n\nThat money goes to Nvidia H100 chips at $30,000 each and data centers that burn billions before a single model trains. Their annual revenue is $3.4 billion—costs are higher every quarter 💸\n\nAPI prices already doubled in 2024, and another increase is being tested internally. Your next bill is already being calculated 📈\n\nWhen you build content or tools on these APIs, are you budgeting for another price hike—or looking at alternatives today?",
+  "carousel_slides": [
+    {
+      "hook": "What if $750B isn't enough?",
+      "description": "Sam Altman just asked for $7 trillion — 10x the current spending spree.",
+      "visual_hint": "Trillion dollar question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Chips eat the budget first.",
+      "description": "Nvidia H100s cost $30,000 each. A single data center burns billions before training starts.",
+      "visual_hint": "Stack of GPU chips",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revenue trails spending.",
+      "description": "OpenAI's annualized revenue is $3.4B, but costs run higher every quarter.",
+      "visual_hint": "Revenue vs cost chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users will pay the gap.",
+      "description": "API prices already doubled in 2024. Another increase is being tested internally.",
+      "visual_hint": "Hand holding credit card",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "credit card",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your cloud provider their break-even.",
+      "description": "Call AWS or Azure sales today. If they dodge, your next bill is coming.",
+      "visual_hint": "Cloud provider logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+  "savedAt": "2026-07-22T17:08:26.551Z",
+  "sourceId": "031142badcc9f09c6637a39e494400e9"
+}

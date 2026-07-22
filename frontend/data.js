@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "utility-companies-promise-to-spare-us-from-ai-s-en",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Utility companies promise to spare us from AI’s energy bill",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "pubDate": "2026-07-22T10:12:13.000Z",
+    "slides": [
+      "Can utilities really shield your wallet from AI's power drain?",
+      "They forecast a 160% electricity demand surge by 2030.",
+      "Their solution relies on a resource not yet proven at scale.",
+      "Your AI usage cost may still double within two years.",
+      "Audit your cloud's energy efficiency now before rates rise."
+    ],
+    "thread_text": [
+      "1. Is your AI usage at risk?\n\nBy 2030, utilities forecast a 160% electricity demand surge — and your costs will double within two years.",
+      "2. The hidden solution\n\nTheir fix depends on a resource not yet proven at scale. Expect disruptions before it’s ready.",
+      "3. Who pays the price?\n\nData centers already consume 1% of global electricity. AI training pushes that toward 10% by 2026.",
+      "4. The real bill is coming\n\nAs rates rise, cloud providers will pass costs to you — not absorb them. No buffer exists.",
+      "5. Audit your cloud energy now\n\nCheck your cloud provider’s Power Usage Effectiveness today. If it’s above 1.4, you’re overpaying."
+    ],
+    "video_script": [
+      "Utilities predict a 160% electricity surge.",
+      "AI power costs will double in two years.",
+      "Their fix isn't proven at scale yet.",
+      "Your data center will pass on the hike.",
+      "Audit your cloud energy efficiency now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is your AI usage at risk?\n\nBy 2030, utilities forecast a 160% electricity demand surge — and your costs will double within two years.",
+          "2. The hidden solution\n\nTheir fix depends on a resource not yet proven at scale. Expect disruptions before it’s ready.",
+          "3. Who pays the price?\n\nData centers already consume 1% of global electricity. AI training pushes that toward 10% by 2026.",
+          "4. The real bill is coming\n\nAs rates rise, cloud providers will pass costs to you — not absorb them. No buffer exists.",
+          "5. Audit your cloud energy now\n\nCheck your cloud provider’s Power Usage Effectiveness today. If it’s above 1.4, you’re overpaying."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Utilities predict a 160% electricity surge.",
+          "AI power costs will double in two years.",
+          "Their fix isn't proven at scale yet.",
+          "Your data center will pass on the hike.",
+          "Audit your cloud energy efficiency now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your electricity bill could double within two years because of AI. ⚡\n\nUtilities promise to shield you, but their plan relies on a resource not yet proven at scale. Data centers already use 1% of global power; AI training could push that to 10% by 2026.\n\nCloud providers will pass the rising costs to you—no buffer exists.\n\nCheck your cloud provider's Power Usage Effectiveness today. If it's above 1.4, are you ready to switch or cut usage?"
+      }
+    },
+    "instagram_caption": "Your electricity bill could double within two years because of AI. ⚡\n\nUtilities promise to shield you, but their plan relies on a resource not yet proven at scale. Data centers already use 1% of global power; AI training could push that to 10% by 2026.\n\nCloud providers will pass the rising costs to you—no buffer exists.\n\nCheck your cloud provider's Power Usage Effectiveness today. If it's above 1.4, are you ready to switch or cut usage?",
+    "carousel_slides": [
+      {
+        "hook": "Can utilities shield your wallet?",
+        "description": "Utilities forecast a 160% electricity demand surge by 2030. Your costs will likely double within two years.",
+        "visual_hint": "Electric meter close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric meter"
+      },
+      {
+        "hook": "Their fix lacks proof at scale.",
+        "description": "The solution depends on unproven resources. Expect disruptions before it's ready.",
+        "visual_hint": "Question mark on blueprints",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power plant blueprint",
+        "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI pushes data centers to 10%.",
+        "description": "Data centers already use 1% of global electricity. AI training will push that toward 10% by 2026.",
+        "visual_hint": "Server racks with glowing lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who pays the rising rates?",
+        "description": "Cloud providers will pass costs to you. No buffer exists to absorb the increase.",
+        "visual_hint": "Hand holding a bill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "electricity bill",
+        "image": "https://images.pexels.com/photos/7926706/pexels-photo-7926706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your cloud energy now.",
+        "description": "Check your provider's Power Usage Effectiveness today. If above 1.4, you're overpaying.",
+        "visual_hint": "Checklist and data chart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "energy audit chart",
+        "image": "https://images.pexels.com/photos/7947717/pexels-photo-7947717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-22T17:08:38.906Z",
+    "sourceId": "190df8c6e736b036f21936027317cfff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-ai-spending-spree-has-ballooned-to-750b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
+    "slides": [
+      "What happens when $750 billion isn't enough?",
+      "Most of that goes to chips and data centers.",
+      "But OpenAI's revenue still can't cover the costs.",
+      "Your next API price hike may already be planned.",
+      "Ask your cloud provider what their break-even is."
+    ],
+    "thread_text": [
+      "1. What if $750B isn’t enough?\n\nSam Altman just asked for $7 trillion. That’s 10x the current ask.",
+      "2. Chips eat the budget first.\n\nNvidia’s H100s cost $30,000 each. A single data center burns billions before a model trains.",
+      "3. Revenue trails spending.\n\nOpenAI’s annualized revenue is $3.4B. Costs run higher every quarter.",
+      "4. Users will pay the gap.\n\nAPI prices already doubled in 2024. Another increase is being tested internally.",
+      "5. Ask your cloud provider their break-even.\n\nCall AWS or Azure sales today. If they dodge, you know the next bill is coming."
+    ],
+    "video_script": [
+      "Altman asked for seven trillion dollars.",
+      "Chips cost thirty thousand each.",
+      "Revenue is three point four billion.",
+      "API prices are already doubling.",
+      "Call your provider and ask."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if $750B isn’t enough?\n\nSam Altman just asked for $7 trillion. That’s 10x the current ask.",
+          "2. Chips eat the budget first.\n\nNvidia’s H100s cost $30,000 each. A single data center burns billions before a model trains.",
+          "3. Revenue trails spending.\n\nOpenAI’s annualized revenue is $3.4B. Costs run higher every quarter.",
+          "4. Users will pay the gap.\n\nAPI prices already doubled in 2024. Another increase is being tested internally.",
+          "5. Ask your cloud provider their break-even.\n\nCall AWS or Azure sales today. If they dodge, you know the next bill is coming."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Altman asked for seven trillion dollars.",
+          "Chips cost thirty thousand each.",
+          "Revenue is three point four billion.",
+          "API prices are already doubling.",
+          "Call your provider and ask."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s spending has ballooned to $750 billion, and they’re asking for $7 trillion more.\n\nThat money goes to Nvidia H100 chips at $30,000 each and data centers that burn billions before a single model trains. Their annual revenue is $3.4 billion—costs are higher every quarter 💸\n\nAPI prices already doubled in 2024, and another increase is being tested internally. Your next bill is already being calculated 📈\n\nWhen you build content or tools on these APIs, are you budgeting for another price hike—or looking at alternatives today?"
+      }
+    },
+    "instagram_caption": "OpenAI’s spending has ballooned to $750 billion, and they’re asking for $7 trillion more.\n\nThat money goes to Nvidia H100 chips at $30,000 each and data centers that burn billions before a single model trains. Their annual revenue is $3.4 billion—costs are higher every quarter 💸\n\nAPI prices already doubled in 2024, and another increase is being tested internally. Your next bill is already being calculated 📈\n\nWhen you build content or tools on these APIs, are you budgeting for another price hike—or looking at alternatives today?",
+    "carousel_slides": [
+      {
+        "hook": "What if $750B isn't enough?",
+        "description": "Sam Altman just asked for $7 trillion — 10x the current spending spree.",
+        "visual_hint": "Trillion dollar question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Chips eat the budget first.",
+        "description": "Nvidia H100s cost $30,000 each. A single data center burns billions before training starts.",
+        "visual_hint": "Stack of GPU chips",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Revenue trails spending.",
+        "description": "OpenAI's annualized revenue is $3.4B, but costs run higher every quarter.",
+        "visual_hint": "Revenue vs cost chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Users will pay the gap.",
+        "description": "API prices already doubled in 2024. Another increase is being tested internally.",
+        "visual_hint": "Hand holding credit card",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "credit card",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your cloud provider their break-even.",
+        "description": "Call AWS or Azure sales today. If they dodge, your next bill is coming.",
+        "visual_hint": "Cloud provider logo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "savedAt": "2026-07-22T17:08:26.551Z",
+    "sourceId": "031142badcc9f09c6637a39e494400e9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "substack-s-new-tool-tells-you-who-s-been-writing-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "pubDate": "Wed, 22 Jul 2026 16:23:09 +0000",
+    "slides": [
+      "Can Substack reveal which writers secretly use AI?",
+      "A new tool scans published posts for robotic patterns.",
+      "Even your favorite human-sounding writer might fail it.",
+      "Readers now see a trust warning on AI-heavy newsletters.",
+      "Check your own Substack before a reader reports you."
+    ],
+    "thread_text": [
+      "1. Your writer unmasked\n\nSubstack’s new scanner flags any account whose posts show statistical patterns matching AI generation, even if the prose feels human.",
+      "2. It catches the best fakes\n\nHuman-sounding writers fail too when their phrasing hits the same probability clusters that detectors score as synthetic.",
+      "3. Readers get a red label\n\nThe tool slaps a “trust warning” badge on newsletters the algorithm deems AI-heavy, visible to every subscriber immediately.",
+      "4. Why your archive matters\n\nThe scan runs on every published post, not just new ones, so old drafts you cleaned up with AI still count against you.",
+      "5. Test your own account now\n\nGo to your Substack stats page today: if you prompt a detector first, do errors match the flagged posts?"
+    ],
+    "video_script": [
+      "Substack scans your posts for AI patterns.",
+      "Even great writers can trigger the flag.",
+      "Readers see a trust warning immediately.",
+      "Your old drafts also count against you.",
+      "Check your own Substack before someone reports."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your writer unmasked\n\nSubstack’s new scanner flags any account whose posts show statistical patterns matching AI generation, even if the prose feels human.",
+          "2. It catches the best fakes\n\nHuman-sounding writers fail too when their phrasing hits the same probability clusters that detectors score as synthetic.",
+          "3. Readers get a red label\n\nThe tool slaps a “trust warning” badge on newsletters the algorithm deems AI-heavy, visible to every subscriber immediately.",
+          "4. Why your archive matters\n\nThe scan runs on every published post, not just new ones, so old drafts you cleaned up with AI still count against you.",
+          "5. Test your own account now\n\nGo to your Substack stats page today: if you prompt a detector first, do errors match the flagged posts?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Substack scans your posts for AI patterns.",
+          "Even great writers can trigger the flag.",
+          "Readers see a trust warning immediately.",
+          "Your old drafts also count against you.",
+          "Check your own Substack before someone reports."
+        ]
+      },
+      "instagram": {
+        "caption": "Substack now scans your entire archive for AI-written patterns, even old drafts you cleaned up later.\n\nThe tool compares your phrasing against statistical clusters typical of AI generation. It doesn't matter if the final edit feels human.\n\nReaders immediately see a “trust warning” badge on newsletters the algorithm flags as AI-heavy 💬\n\nIf you publish on Substack, every post you've ever written is already scored against you.\n\nOpen your stats page right now: does the tool's flagged content match posts where you actually used AI? 🧐"
+      }
+    },
+    "instagram_caption": "Substack now scans your entire archive for AI-written patterns, even old drafts you cleaned up later.\n\nThe tool compares your phrasing against statistical clusters typical of AI generation. It doesn't matter if the final edit feels human.\n\nReaders immediately see a “trust warning” badge on newsletters the algorithm flags as AI-heavy 💬\n\nIf you publish on Substack, every post you've ever written is already scored against you.\n\nOpen your stats page right now: does the tool's flagged content match posts where you actually used AI? 🧐",
+    "carousel_slides": [
+      {
+        "hook": "Your favorite writer might be AI",
+        "description": "Substack's new scanner can flag human-sounding writers whose phrases hit AI probability clusters, exposing them as synthetic.",
+        "visual_hint": "writer at desk shocked",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "writer laptop desk"
+      },
+      {
+        "hook": "It catches the best fakes",
+        "description": "Even polished prose fails when phrasing matches statistical patterns detectors score as AI-generated, unmasking skilled imitators.",
+        "visual_hint": "mask being removed",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "theater mask removed",
+        "image": "https://images.pexels.com/photos/31397062/pexels-photo-31397062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Readers see a red label",
+        "description": "A trust warning badge appears on AI-heavy newsletters immediately, visible to every subscriber as an instant red flag.",
+        "visual_hint": "red warning badge",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "red warning badge",
+        "image": "https://images.pexels.com/photos/6565756/pexels-photo-6565756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Old posts still count against you",
+        "description": "The scan runs on every published post, not just new ones, so past AI-assisted drafts still trigger the detector.",
+        "visual_hint": "archive folders scanned",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "archive folders stacked",
+        "image": "https://images.pexels.com/photos/7654130/pexels-photo-7654130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your Substack now before readers do",
+        "description": "Go to your stats page today and check if your posts match flagged patterns before a subscriber reports you.",
+        "visual_hint": "person checking phone stats",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person phone stats",
+        "image": "https://images.pexels.com/photos/7567228/pexels-photo-7567228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/substack-GettyImages-2261803485.jpg?w=1024",
+    "savedAt": "2026-07-22T17:08:15.815Z",
+    "sourceId": "e02f160f390505321648b710023adfe8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-launches-a-cheaper-alternative-to-large-ai-",
     "prompt_version": "1.0.0",
     "status": "published",
