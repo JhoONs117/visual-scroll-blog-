@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-hugging-face-was-breached-by-its-pre-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says Hugging Face was breached by its pre-release models",
+  "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+  "pubDate": "Tue, 21 Jul 2026 20:56:55 +0000",
+  "slides": [
+    "OpenAI claims Hugging Face leaked its unreleased models?",
+    "A pre-release model appeared on a public platform.",
+    "Hugging Face denies any breach ever occurred.",
+    "You now must verify every model's provenance before use.",
+    "Trust nothing; audit every public AI asset immediately."
+  ],
+  "thread_text": [
+    "1. Did Hugging Face really leak?\n\nOpenAI says a pre-release model was found on the public platform, not behind any firewall.",
+    "2. The model was an unreleased version.\n\nOpenAI's internal logs show that asset was never authorized for distribution outside its network.",
+    "3. Hugging Face denies everything.\n\nTheir official statement: no breach, no unauthorized access, no leak ever occurred.",
+    "4. Now you face a provenance problem.\n\nEvery public AI model could be stolen or tampered with—there's no way to tell without digging.",
+    "5. Verify every model you use today.\n\nPull the provenance metadata from your last downloaded asset. Can you confirm where it came from?"
+  ],
+  "video_script": [
+    "OpenAI says a model leaked on Hugging Face.",
+    "Hugging Face says nothing was ever breached.",
+    "Someone is hiding the truth here.",
+    "You must check every model's source now.",
+    "Audit your current AI assets immediately."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Did Hugging Face really leak?\n\nOpenAI says a pre-release model was found on the public platform, not behind any firewall.",
+        "2. The model was an unreleased version.\n\nOpenAI's internal logs show that asset was never authorized for distribution outside its network.",
+        "3. Hugging Face denies everything.\n\nTheir official statement: no breach, no unauthorized access, no leak ever occurred.",
+        "4. Now you face a provenance problem.\n\nEvery public AI model could be stolen or tampered with—there's no way to tell without digging.",
+        "5. Verify every model you use today.\n\nPull the provenance metadata from your last downloaded asset. Can you confirm where it came from?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI says a model leaked on Hugging Face.",
+        "Hugging Face says nothing was ever breached.",
+        "Someone is hiding the truth here.",
+        "You must check every model's source now.",
+        "Audit your current AI assets immediately."
+      ]
+    },
+    "instagram": {
+      "caption": "Your last downloaded AI model could be a stolen prototype. OpenAI claims a pre-release version of its tech appeared on Hugging Face 🚨\n\nOpenAI says internal logs prove the model was never authorized for release. Hugging Face denies any breach ever happened. You have no way of knowing which side is right 🧐\n\nEvery public AI asset is now suspect—stolen, tampered, or genuine, all look identical.\n\nGo check the provenance metadata on the last model you pulled. Can you actually trace where it came from? 🔍"
+    }
+  },
+  "instagram_caption": "Your last downloaded AI model could be a stolen prototype. OpenAI claims a pre-release version of its tech appeared on Hugging Face 🚨\n\nOpenAI says internal logs prove the model was never authorized for release. Hugging Face denies any breach ever happened. You have no way of knowing which side is right 🧐\n\nEvery public AI asset is now suspect—stolen, tampered, or genuine, all look identical.\n\nGo check the provenance metadata on the last model you pulled. Can you actually trace where it came from? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Hugging Face denies everything?",
+      "description": "OpenAI found its unreleased model exposed publicly. The platform claims no breach ever occurred.",
+      "visual_hint": "glowing server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Unreleased model leaked publicly.",
+      "description": "OpenAI logs confirm the asset was never authorized for distribution outside its network.",
+      "visual_hint": "red alert screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No breach, says Hugging Face.",
+      "description": "Official statement denies any unauthorized access. But the model was already live.",
+      "visual_hint": "magnifying glass lens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provenance problem for AI.",
+      "description": "Every model you download could be stolen or tampered. No easy way to tell.",
+      "visual_hint": "chain broken link",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain link",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Verify now.",
+      "description": "Pull provenance metadata from your last downloaded AI asset. Can you confirm its origin?",
+      "visual_hint": "finger pressing download",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download button",
+      "image": "https://images.pexels.com/photos/12648992/pexels-photo-12648992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+  "savedAt": "2026-07-22T05:12:10.059Z",
+  "sourceId": "591f1cb3d73929b341c873f1e95542bf"
+}

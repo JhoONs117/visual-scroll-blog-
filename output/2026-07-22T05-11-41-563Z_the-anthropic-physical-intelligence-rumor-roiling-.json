@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-anthropic-physical-intelligence-rumor-roiling-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+  "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+  "pubDate": "Wed, 22 Jul 2026 03:20:57 +0000",
+  "slides": [
+    "Is Anthropic secretly building robots with Physical Intelligence?",
+    "Neither company has confirmed or denied the partnership.",
+    "A Physical Intelligence engineer abruptly left for Anthropic.",
+    "Your next AI assistant might physically move your office.",
+    "Watch for joint job postings; the truth will slip."
+  ],
+  "thread_text": [
+    "1. Secret robot partnership?\n\nAn Anthropic employee just left Physical Intelligence to join the AI lab. No one is talking.",
+    "2. Neither side confirms\n\nAnthropic and Physical Intelligence stay silent. The lack of denial fuels the theory of a hidden deal.",
+    "3. Engineer jumped ship\n\nA key engineer moved from Physical Intelligence to Anthropic. These shifts often signal a deeper collaboration.",
+    "4. Your desk moves next\n\nImagine your AI assistant rearranging your office. Physical Intelligence gives robots real-world coordination.",
+    "5. Watch job boards\n\nCheck for joint job postings between Anthropic and Physical Intelligence. The truth will leak through hiring."
+  ],
+  "video_script": [
+    "Anthropic and Physical Intelligence may be building robots.",
+    "No official confirmation from either company.",
+    "A key engineer just moved to Anthropic.",
+    "Your AI assistant could soon move your furniture.",
+    "Track their job postings for signs of truth."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Secret robot partnership?\n\nAn Anthropic employee just left Physical Intelligence to join the AI lab. No one is talking.",
+        "2. Neither side confirms\n\nAnthropic and Physical Intelligence stay silent. The lack of denial fuels the theory of a hidden deal.",
+        "3. Engineer jumped ship\n\nA key engineer moved from Physical Intelligence to Anthropic. These shifts often signal a deeper collaboration.",
+        "4. Your desk moves next\n\nImagine your AI assistant rearranging your office. Physical Intelligence gives robots real-world coordination.",
+        "5. Watch job boards\n\nCheck for joint job postings between Anthropic and Physical Intelligence. The truth will leak through hiring."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic and Physical Intelligence may be building robots.",
+        "No official confirmation from either company.",
+        "A key engineer just moved to Anthropic.",
+        "Your AI assistant could soon move your furniture.",
+        "Track their job postings for signs of truth."
+      ]
+    },
+    "instagram": {
+      "caption": "An engineer just left one robotics company for another, and neither side will say why.\n\nRumors are swirling about a secret deal between Anthropic and Physical Intelligence. A key hire jumped ship, and both companies refuse to confirm or deny it. Silence like this usually means something big is brewing.\n\nIf this is real, your next AI assistant won't just write emails 🖊️—it could physically rearrange your desk 📦. That changes how you think about automating your workspace and your content production pipeline.\n\nYou create content for a living: are you preparing for tools that can both generate text and reshape your physical office? 👀"
+    }
+  },
+  "instagram_caption": "An engineer just left one robotics company for another, and neither side will say why.\n\nRumors are swirling about a secret deal between Anthropic and Physical Intelligence. A key hire jumped ship, and both companies refuse to confirm or deny it. Silence like this usually means something big is brewing.\n\nIf this is real, your next AI assistant won't just write emails 🖊️—it could physically rearrange your desk 📦. That changes how you think about automating your workspace and your content production pipeline.\n\nYou create content for a living: are you preparing for tools that can both generate text and reshape your physical office? 👀",
+  "carousel_slides": [
+    {
+      "hook": "A key engineer just jumped ship",
+      "description": "An engineer left Physical Intelligence for Anthropic. Such moves often signal a hidden partnership.",
+      "visual_hint": "engineer walking through door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office corridor door"
+    },
+    {
+      "hook": "Silence fuels the fire",
+      "description": "Neither company confirms nor denies. The lack of denial is the loudest clue of a secret deal.",
+      "visual_hint": "two silent phone receivers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "telephone receiver",
+      "image": "https://images.pexels.com/photos/10791678/pexels-photo-10791678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI assistant could move desks",
+      "description": "Physical Intelligence gives robots real-world coordination. Imagine AI rearranging your office.",
+      "visual_hint": "robot arm moving a chair",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm furniture",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Robots learn to handle your space",
+      "description": "Physical Intelligence specializes in real-world coordination. Your next assistant might physically change your workplace.",
+      "visual_hint": "hand adjusting desk object",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand adjusting object",
+      "image": "https://images.pexels.com/photos/8666812/pexels-photo-8666812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spot the truth in job listings",
+      "description": "Check joint job postings from Anthropic and Physical Intelligence. Hiring leaks will reveal the deal.",
+      "visual_hint": "job board with postings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "job listing board",
+      "image": "https://images.pexels.com/photos/9841343/pexels-photo-9841343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/whisper.png?resize=1200,800",
+  "savedAt": "2026-07-22T05:11:56.294Z",
+  "sourceId": "0f1ee6934ed4bd1218fc325619541467"
+}
