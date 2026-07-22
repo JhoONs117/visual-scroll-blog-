@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "monday-com-lays-off-hundreds-to-focus-on-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Monday.com lays off hundreds to focus on AI",
+  "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+  "pubDate": "Wed, 22 Jul 2026 17:54:14 +0000",
+  "slides": [
+    "What does Monday.com know that its users don't?",
+    "It just laid off 200 employees to double down on AI.",
+    "Most project management tools ignore AI under the hood.",
+    "Your workflows may soon automate without you lifting a finger.",
+    "Test Monday.com's new AI features before competitors do."
+  ],
+  "thread_text": [
+    "They knew before you did.\n\nMonday.com just cut 200 jobs to invest in AI — the same AI users weren't told about under the hood.",
+    "The hidden layer.\n\nMost project management tools now run AI on your workflows — but they never tell you, and never ask.",
+    "The real shift.\n\nSoon your tasks will be assigned, rescheduled, and closed automatically — with zero input from you.",
+    "Control or convenience?\n\nIf the tool decides what's urgent, do you still own your priorities — or does the algorithm own them?",
+    "Test it yourself this week.\n\nOpen Monday.com and trigger its new AI scheduler on a real project. Does it save time or create rework?"
+  ],
+  "video_script": [
+    "Monday.com laid off 200 to bet on AI.",
+    "They hid AI inside your tools.",
+    "Now workflows run without you.",
+    "Do you still own your priorities?",
+    "Test the AI scheduler this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "They knew before you did.\n\nMonday.com just cut 200 jobs to invest in AI — the same AI users weren't told about under the hood.",
+        "The hidden layer.\n\nMost project management tools now run AI on your workflows — but they never tell you, and never ask.",
+        "The real shift.\n\nSoon your tasks will be assigned, rescheduled, and closed automatically — with zero input from you.",
+        "Control or convenience?\n\nIf the tool decides what's urgent, do you still own your priorities — or does the algorithm own them?",
+        "Test it yourself this week.\n\nOpen Monday.com and trigger its new AI scheduler on a real project. Does it save time or create rework?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Monday.com laid off 200 to bet on AI.",
+        "They hid AI inside your tools.",
+        "Now workflows run without you.",
+        "Do you still own your priorities?",
+        "Test the AI scheduler this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Tuesday.com just cut 200 employees to shift resources into AI.  \n\nIt's the same AI already running on your workflows without telling you 🕶️.  \nMost project management tools now automate tasks in the background — you just don't see it yet.  \n\nThat means your task priorities and deadlines might already be algorithm-driven, not yours.  \n\nOpen your last project on Monday.com: did the system reschedule anything without your input? When did you last check who really decides what's urgent?"
+    }
+  },
+  "instagram_caption": "Tuesday.com just cut 200 employees to shift resources into AI.  \n\nIt's the same AI already running on your workflows without telling you 🕶️.  \nMost project management tools now automate tasks in the background — you just don't see it yet.  \n\nThat means your task priorities and deadlines might already be algorithm-driven, not yours.  \n\nOpen your last project on Monday.com: did the system reschedule anything without your input? When did you last check who really decides what's urgent?",
+  "carousel_slides": [
+    {
+      "hook": "What does your tool hide?",
+      "description": "Monday.com cut 200 jobs to invest in AI it never told users about.",
+      "visual_hint": "Hidden AI layer under hood",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room cables"
+    },
+    {
+      "hook": "AI runs your workflows now.",
+      "description": "Most project management tools secretly run AI on your tasks without asking.",
+      "visual_hint": "AI processing workflows unseen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tasks automate without you.",
+      "description": "Soon your tasks will be assigned, rescheduled, and closed automatically.",
+      "visual_hint": "Automated task flow diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Do you own your priorities?",
+      "description": "If the algorithm decides urgency, convenience may cost you control.",
+      "visual_hint": "Human versus AI decision scale",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI this week, save time.",
+      "description": "Open Monday.com, trigger the new AI scheduler on a real project.",
+      "visual_hint": "Hand tapping AI scheduler button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard close",
+      "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
+  "savedAt": "2026-07-22T18:59:32.008Z",
+  "sourceId": "e726d7442e641016bb083462d65a23be"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "yope-raises-12-3m-to-build-a-private-social-networ",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+  "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+  "pubDate": "Wed, 22 Jul 2026 18:13:58 +0000",
+  "slides": [
+    "Could a social network thrive without algorithms or ads?",
+    "Yope just raised $12.3 million for this exact bet.",
+    "The twist: content is shared only with close friends.",
+    "You no longer feed an attention-hungry machine.",
+    "Try inviting five people to a private group today."
+  ],
+  "thread_text": [
+    "Your feed is a lie.\n\nYope just raised $12.3 million to build a network with no algorithm, no ads, only private groups.",
+    "The twist.\n\nContent is shared only with close friends. No likes, no followers. You choose the five people.",
+    "No more feeding the machine.\n\nYou don't optimize for engagement. You share what matters, then you're done.",
+    "Real connection, not scale.\n\nThe bet: intimacy beats reach. Revenue comes from subscriptions, not selling your data.",
+    "Test it yourself.\n\nInvite five people to a private group today. What do you lose if it works?"
+  ],
+  "video_script": [
+    "Your feed is a lie.",
+    "Yope raised twelve million dollars.",
+    "Only share with close friends.",
+    "No algorithm decides what you see.",
+    "Invite five people and try it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your feed is a lie.\n\nYope just raised $12.3 million to build a network with no algorithm, no ads, only private groups.",
+        "The twist.\n\nContent is shared only with close friends. No likes, no followers. You choose the five people.",
+        "No more feeding the machine.\n\nYou don't optimize for engagement. You share what matters, then you're done.",
+        "Real connection, not scale.\n\nThe bet: intimacy beats reach. Revenue comes from subscriptions, not selling your data.",
+        "Test it yourself.\n\nInvite five people to a private group today. What do you lose if it works?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your feed is a lie.",
+        "Yope raised twelve million dollars.",
+        "Only share with close friends.",
+        "No algorithm decides what you see.",
+        "Invite five people and try it."
+      ]
+    },
+    "instagram": {
+      "caption": "Close friends only, no ads, no algorithm—that's the entire pitch. Yope just raised $12.3M to make it real.\n\nGroups are capped at five people. Content stays between them. No likes, no followers, no feed optimization.\n\nRevenue comes from subscriptions, not from selling your data. You stop feeding an attention machine designed to keep you scrolling.\n\nFor anyone creating content, the reward shifts from reach to intimacy. Scale no longer matters; trust does.\n\nInvite five people to a private group today. What changes if you stop performing for an algorithm?"
+    }
+  },
+  "instagram_caption": "Close friends only, no ads, no algorithm—that's the entire pitch. Yope just raised $12.3M to make it real.\n\nGroups are capped at five people. Content stays between them. No likes, no followers, no feed optimization.\n\nRevenue comes from subscriptions, not from selling your data. You stop feeding an attention machine designed to keep you scrolling.\n\nFor anyone creating content, the reward shifts from reach to intimacy. Scale no longer matters; trust does.\n\nInvite five people to a private group today. What changes if you stop performing for an algorithm?",
+  "carousel_slides": [
+    {
+      "hook": "Your feed is a lie.",
+      "description": "Yope raised $12.3M to build a social network with no algorithm or ads, only private groups.",
+      "visual_hint": "Broken phone screen social",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "shattered smartphone screen"
+    },
+    {
+      "hook": "Only your five closest friends.",
+      "description": "Content is shared exclusively with close friends. No likes, no followers, no public feed.",
+      "visual_hint": "Small group circle photo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "group of five friends",
+      "image": "https://images.pexels.com/photos/30697995/pexels-photo-30697995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop feeding the algorithm.",
+      "description": "You don't optimize for engagement. Share what matters, then leave. Revenue from subscriptions, not data.",
+      "visual_hint": "Recycle bin with likes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "plastic recycling bin",
+      "image": "https://images.pexels.com/photos/7565377/pexels-photo-7565377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Intimacy beats reach.",
+      "description": "The bet: real connection over scale. No ads, no attention-hungry machine—just private groups.",
+      "visual_hint": "Two hands touching glass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands touching glass screen",
+      "image": "https://images.pexels.com/photos/10118517/pexels-photo-10118517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it now for free.",
+      "description": "Invite five people to a private group today. Test what real connection feels like.",
+      "visual_hint": "Phone with invite button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with invite",
+      "image": "https://images.pexels.com/photos/6347742/pexels-photo-6347742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
+  "savedAt": "2026-07-22T18:59:09.295Z",
+  "sourceId": "2eef0e4f7c29206849e646059253499a"
+}

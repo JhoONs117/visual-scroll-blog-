@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "monday-com-lays-off-hundreds-to-focus-on-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "pubDate": "Wed, 22 Jul 2026 17:54:14 +0000",
+    "slides": [
+      "What does Monday.com know that its users don't?",
+      "It just laid off 200 employees to double down on AI.",
+      "Most project management tools ignore AI under the hood.",
+      "Your workflows may soon automate without you lifting a finger.",
+      "Test Monday.com's new AI features before competitors do."
+    ],
+    "thread_text": [
+      "They knew before you did.\n\nMonday.com just cut 200 jobs to invest in AI — the same AI users weren't told about under the hood.",
+      "The hidden layer.\n\nMost project management tools now run AI on your workflows — but they never tell you, and never ask.",
+      "The real shift.\n\nSoon your tasks will be assigned, rescheduled, and closed automatically — with zero input from you.",
+      "Control or convenience?\n\nIf the tool decides what's urgent, do you still own your priorities — or does the algorithm own them?",
+      "Test it yourself this week.\n\nOpen Monday.com and trigger its new AI scheduler on a real project. Does it save time or create rework?"
+    ],
+    "video_script": [
+      "Monday.com laid off 200 to bet on AI.",
+      "They hid AI inside your tools.",
+      "Now workflows run without you.",
+      "Do you still own your priorities?",
+      "Test the AI scheduler this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "They knew before you did.\n\nMonday.com just cut 200 jobs to invest in AI — the same AI users weren't told about under the hood.",
+          "The hidden layer.\n\nMost project management tools now run AI on your workflows — but they never tell you, and never ask.",
+          "The real shift.\n\nSoon your tasks will be assigned, rescheduled, and closed automatically — with zero input from you.",
+          "Control or convenience?\n\nIf the tool decides what's urgent, do you still own your priorities — or does the algorithm own them?",
+          "Test it yourself this week.\n\nOpen Monday.com and trigger its new AI scheduler on a real project. Does it save time or create rework?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Monday.com laid off 200 to bet on AI.",
+          "They hid AI inside your tools.",
+          "Now workflows run without you.",
+          "Do you still own your priorities?",
+          "Test the AI scheduler this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Tuesday.com just cut 200 employees to shift resources into AI.  \n\nIt's the same AI already running on your workflows without telling you 🕶️.  \nMost project management tools now automate tasks in the background — you just don't see it yet.  \n\nThat means your task priorities and deadlines might already be algorithm-driven, not yours.  \n\nOpen your last project on Monday.com: did the system reschedule anything without your input? When did you last check who really decides what's urgent?"
+      }
+    },
+    "instagram_caption": "Tuesday.com just cut 200 employees to shift resources into AI.  \n\nIt's the same AI already running on your workflows without telling you 🕶️.  \nMost project management tools now automate tasks in the background — you just don't see it yet.  \n\nThat means your task priorities and deadlines might already be algorithm-driven, not yours.  \n\nOpen your last project on Monday.com: did the system reschedule anything without your input? When did you last check who really decides what's urgent?",
+    "carousel_slides": [
+      {
+        "hook": "What does your tool hide?",
+        "description": "Monday.com cut 200 jobs to invest in AI it never told users about.",
+        "visual_hint": "Hidden AI layer under hood",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room cables"
+      },
+      {
+        "hook": "AI runs your workflows now.",
+        "description": "Most project management tools secretly run AI on your tasks without asking.",
+        "visual_hint": "AI processing workflows unseen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tasks automate without you.",
+        "description": "Soon your tasks will be assigned, rescheduled, and closed automatically.",
+        "visual_hint": "Automated task flow diagram",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Do you own your priorities?",
+        "description": "If the algorithm decides urgency, convenience may cost you control.",
+        "visual_hint": "Human versus AI decision scale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI this week, save time.",
+        "description": "Open Monday.com, trigger the new AI scheduler on a real project.",
+        "visual_hint": "Hand tapping AI scheduler button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard close",
+        "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
+    "savedAt": "2026-07-22T18:59:32.008Z",
+    "sourceId": "e726d7442e641016bb083462d65a23be"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "yope-raises-12-3m-to-build-a-private-social-networ",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "pubDate": "Wed, 22 Jul 2026 18:13:58 +0000",
+    "slides": [
+      "Could a social network thrive without algorithms or ads?",
+      "Yope just raised $12.3 million for this exact bet.",
+      "The twist: content is shared only with close friends.",
+      "You no longer feed an attention-hungry machine.",
+      "Try inviting five people to a private group today."
+    ],
+    "thread_text": [
+      "Your feed is a lie.\n\nYope just raised $12.3 million to build a network with no algorithm, no ads, only private groups.",
+      "The twist.\n\nContent is shared only with close friends. No likes, no followers. You choose the five people.",
+      "No more feeding the machine.\n\nYou don't optimize for engagement. You share what matters, then you're done.",
+      "Real connection, not scale.\n\nThe bet: intimacy beats reach. Revenue comes from subscriptions, not selling your data.",
+      "Test it yourself.\n\nInvite five people to a private group today. What do you lose if it works?"
+    ],
+    "video_script": [
+      "Your feed is a lie.",
+      "Yope raised twelve million dollars.",
+      "Only share with close friends.",
+      "No algorithm decides what you see.",
+      "Invite five people and try it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your feed is a lie.\n\nYope just raised $12.3 million to build a network with no algorithm, no ads, only private groups.",
+          "The twist.\n\nContent is shared only with close friends. No likes, no followers. You choose the five people.",
+          "No more feeding the machine.\n\nYou don't optimize for engagement. You share what matters, then you're done.",
+          "Real connection, not scale.\n\nThe bet: intimacy beats reach. Revenue comes from subscriptions, not selling your data.",
+          "Test it yourself.\n\nInvite five people to a private group today. What do you lose if it works?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your feed is a lie.",
+          "Yope raised twelve million dollars.",
+          "Only share with close friends.",
+          "No algorithm decides what you see.",
+          "Invite five people and try it."
+        ]
+      },
+      "instagram": {
+        "caption": "Close friends only, no ads, no algorithm—that's the entire pitch. Yope just raised $12.3M to make it real.\n\nGroups are capped at five people. Content stays between them. No likes, no followers, no feed optimization.\n\nRevenue comes from subscriptions, not from selling your data. You stop feeding an attention machine designed to keep you scrolling.\n\nFor anyone creating content, the reward shifts from reach to intimacy. Scale no longer matters; trust does.\n\nInvite five people to a private group today. What changes if you stop performing for an algorithm?"
+      }
+    },
+    "instagram_caption": "Close friends only, no ads, no algorithm—that's the entire pitch. Yope just raised $12.3M to make it real.\n\nGroups are capped at five people. Content stays between them. No likes, no followers, no feed optimization.\n\nRevenue comes from subscriptions, not from selling your data. You stop feeding an attention machine designed to keep you scrolling.\n\nFor anyone creating content, the reward shifts from reach to intimacy. Scale no longer matters; trust does.\n\nInvite five people to a private group today. What changes if you stop performing for an algorithm?",
+    "carousel_slides": [
+      {
+        "hook": "Your feed is a lie.",
+        "description": "Yope raised $12.3M to build a social network with no algorithm or ads, only private groups.",
+        "visual_hint": "Broken phone screen social",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "shattered smartphone screen"
+      },
+      {
+        "hook": "Only your five closest friends.",
+        "description": "Content is shared exclusively with close friends. No likes, no followers, no public feed.",
+        "visual_hint": "Small group circle photo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "group of five friends",
+        "image": "https://images.pexels.com/photos/30697995/pexels-photo-30697995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop feeding the algorithm.",
+        "description": "You don't optimize for engagement. Share what matters, then leave. Revenue from subscriptions, not data.",
+        "visual_hint": "Recycle bin with likes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "plastic recycling bin",
+        "image": "https://images.pexels.com/photos/7565377/pexels-photo-7565377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Intimacy beats reach.",
+        "description": "The bet: real connection over scale. No ads, no attention-hungry machine—just private groups.",
+        "visual_hint": "Two hands touching glass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands touching glass screen",
+        "image": "https://images.pexels.com/photos/10118517/pexels-photo-10118517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it now for free.",
+        "description": "Invite five people to a private group today. Test what real connection feels like.",
+        "visual_hint": "Phone with invite button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone with invite",
+        "image": "https://images.pexels.com/photos/6347742/pexels-photo-6347742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
+    "savedAt": "2026-07-22T18:59:09.295Z",
+    "sourceId": "2eef0e4f7c29206849e646059253499a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "travis-kalanick-s-robotics-company-raises-1-7b-led",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "slides": [
+      "Travis Kalanick raised $1.7B for robotics. What for?",
+      "His startup, 3DEO, builds unmanned factory systems.",
+      "The round values it at $3.6B, yet products are unproven.",
+      "Manufacturers can now automate with zero upfront design work.",
+      "Watch his demo next week—viability hinges on performance data."
+    ],
+    "thread_text": [
+      "1. Betting on empty factories\n\nTravis Kalanick just raised $1.7B for a robotics startup with zero sales.",
+      "2. No designs, no problem\n\n3DEO's pitch: manufacturers automate without any upfront design work. The machines figure it out.",
+      "3. Unicorn without proof\n\nThe $3.6B valuation rests on a demo. No product has shipped yet. Investors are guessing.",
+      "4. The real catch\n\nThese unmanned systems claim to replace entire factory floors. One glitch and output stops completely.",
+      "5. Will you watch it?\n\nHe shows the demo next week. If you run production lines, do you trust black-box robotics yet?"
+    ],
+    "video_script": [
+      "Kalanick raised $1.7 billion for robotics.",
+      "The factory runs with zero human designers.",
+      "Valuation is $3.6 billion, no product yet.",
+      "One glitch kills the whole unmanned line.",
+      "Watch his demo and decide if you trust."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Betting on empty factories\n\nTravis Kalanick just raised $1.7B for a robotics startup with zero sales.",
+          "2. No designs, no problem\n\n3DEO's pitch: manufacturers automate without any upfront design work. The machines figure it out.",
+          "3. Unicorn without proof\n\nThe $3.6B valuation rests on a demo. No product has shipped yet. Investors are guessing.",
+          "4. The real catch\n\nThese unmanned systems claim to replace entire factory floors. One glitch and output stops completely.",
+          "5. Will you watch it?\n\nHe shows the demo next week. If you run production lines, do you trust black-box robotics yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Kalanick raised $1.7 billion for robotics.",
+          "The factory runs with zero human designers.",
+          "Valuation is $3.6 billion, no product yet.",
+          "One glitch kills the whole unmanned line.",
+          "Watch his demo and decide if you trust."
+        ]
+      },
+      "instagram": {
+        "caption": "Machines that design their own factories just raised $1.7 billion off a demo—no product has shipped yet.\n\nTravis Kalanick’s 3DEO promises manufacturers zero upfront design work. The robots figure out the layout themselves. 🏭\n\nBut the $3.6B valuation rests on next week's test. One glitch in these unmanned systems and your entire production line stops. ⚙️\n\nIf you run a manufacturing line, would you hand over factory design to a black box with no track record?"
+      }
+    },
+    "instagram_caption": "Machines that design their own factories just raised $1.7 billion off a demo—no product has shipped yet.\n\nTravis Kalanick’s 3DEO promises manufacturers zero upfront design work. The robots figure out the layout themselves. 🏭\n\nBut the $3.6B valuation rests on next week's test. One glitch in these unmanned systems and your entire production line stops. ⚙️\n\nIf you run a manufacturing line, would you hand over factory design to a black box with no track record?",
+    "carousel_slides": [
+      {
+        "hook": "No sales, $3.6B valuation?",
+        "description": "Travis Kalanick raised $1.7B for robotics startup 3DEO, valued at $3.6B with zero proven products.",
+        "visual_hint": "Empty factory floor with robots",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty factory robots"
+      },
+      {
+        "hook": "Manufacturing with zero design work",
+        "description": "3DEO's unmanned systems let factories automate without upfront design—machines figure it out themselves.",
+        "visual_hint": "Robot arm assembling parts",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot arm assembly",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unicorn built on a demo",
+        "description": "No product shipped yet, so $3.6B relies solely on performance data from next week's demo.",
+        "visual_hint": "Stock chart fluctuating",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One glitch stops production",
+        "description": "These black-box systems replace entire factory floors—a single error halts all output completely.",
+        "visual_hint": "Factory worker watching screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory worker screen",
+        "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for demo week",
+        "description": "Watch Kalanick's demo next week—decide if trust black-box robotics for your production lines.",
+        "visual_hint": "Calendar with demo date",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar demo date",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+    "savedAt": "2026-07-22T18:58:57.063Z",
+    "sourceId": "6a7f08f97575001b5f7fe58be9c4c2c9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "utility-companies-promise-to-spare-us-from-ai-s-en",
     "prompt_version": "1.0.0",
     "status": "published",

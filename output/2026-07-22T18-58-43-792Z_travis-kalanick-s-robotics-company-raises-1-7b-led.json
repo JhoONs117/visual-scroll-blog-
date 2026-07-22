@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "travis-kalanick-s-robotics-company-raises-1-7b-led",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+  "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+  "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+  "slides": [
+    "Travis Kalanick raised $1.7B for robotics. What for?",
+    "His startup, 3DEO, builds unmanned factory systems.",
+    "The round values it at $3.6B, yet products are unproven.",
+    "Manufacturers can now automate with zero upfront design work.",
+    "Watch his demo next week—viability hinges on performance data."
+  ],
+  "thread_text": [
+    "1. Betting on empty factories\n\nTravis Kalanick just raised $1.7B for a robotics startup with zero sales.",
+    "2. No designs, no problem\n\n3DEO's pitch: manufacturers automate without any upfront design work. The machines figure it out.",
+    "3. Unicorn without proof\n\nThe $3.6B valuation rests on a demo. No product has shipped yet. Investors are guessing.",
+    "4. The real catch\n\nThese unmanned systems claim to replace entire factory floors. One glitch and output stops completely.",
+    "5. Will you watch it?\n\nHe shows the demo next week. If you run production lines, do you trust black-box robotics yet?"
+  ],
+  "video_script": [
+    "Kalanick raised $1.7 billion for robotics.",
+    "The factory runs with zero human designers.",
+    "Valuation is $3.6 billion, no product yet.",
+    "One glitch kills the whole unmanned line.",
+    "Watch his demo and decide if you trust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Betting on empty factories\n\nTravis Kalanick just raised $1.7B for a robotics startup with zero sales.",
+        "2. No designs, no problem\n\n3DEO's pitch: manufacturers automate without any upfront design work. The machines figure it out.",
+        "3. Unicorn without proof\n\nThe $3.6B valuation rests on a demo. No product has shipped yet. Investors are guessing.",
+        "4. The real catch\n\nThese unmanned systems claim to replace entire factory floors. One glitch and output stops completely.",
+        "5. Will you watch it?\n\nHe shows the demo next week. If you run production lines, do you trust black-box robotics yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Kalanick raised $1.7 billion for robotics.",
+        "The factory runs with zero human designers.",
+        "Valuation is $3.6 billion, no product yet.",
+        "One glitch kills the whole unmanned line.",
+        "Watch his demo and decide if you trust."
+      ]
+    },
+    "instagram": {
+      "caption": "Machines that design their own factories just raised $1.7 billion off a demo—no product has shipped yet.\n\nTravis Kalanick’s 3DEO promises manufacturers zero upfront design work. The robots figure out the layout themselves. 🏭\n\nBut the $3.6B valuation rests on next week's test. One glitch in these unmanned systems and your entire production line stops. ⚙️\n\nIf you run a manufacturing line, would you hand over factory design to a black box with no track record?"
+    }
+  },
+  "instagram_caption": "Machines that design their own factories just raised $1.7 billion off a demo—no product has shipped yet.\n\nTravis Kalanick’s 3DEO promises manufacturers zero upfront design work. The robots figure out the layout themselves. 🏭\n\nBut the $3.6B valuation rests on next week's test. One glitch in these unmanned systems and your entire production line stops. ⚙️\n\nIf you run a manufacturing line, would you hand over factory design to a black box with no track record?",
+  "carousel_slides": [
+    {
+      "hook": "No sales, $3.6B valuation?",
+      "description": "Travis Kalanick raised $1.7B for robotics startup 3DEO, valued at $3.6B with zero proven products.",
+      "visual_hint": "Empty factory floor with robots",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty factory robots"
+    },
+    {
+      "hook": "Manufacturing with zero design work",
+      "description": "3DEO's unmanned systems let factories automate without upfront design—machines figure it out themselves.",
+      "visual_hint": "Robot arm assembling parts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm assembly",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unicorn built on a demo",
+      "description": "No product shipped yet, so $3.6B relies solely on performance data from next week's demo.",
+      "visual_hint": "Stock chart fluctuating",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One glitch stops production",
+      "description": "These black-box systems replace entire factory floors—a single error halts all output completely.",
+      "visual_hint": "Factory worker watching screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory worker screen",
+      "image": "https://images.pexels.com/photos/29988954/pexels-photo-29988954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for demo week",
+      "description": "Watch Kalanick's demo next week—decide if trust black-box robotics for your production lines.",
+      "visual_hint": "Calendar with demo date",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar demo date",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+  "savedAt": "2026-07-22T18:58:57.063Z",
+  "sourceId": "6a7f08f97575001b5f7fe58be9c4c2c9"
+}
