@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "synthesia-s-ai-training-platform-is-moving-beyond-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+  "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+  "pubDate": "Wed, 22 Jul 2026 08:00:00 +0000",
+  "slides": [
+    "Can Synthesia train your team without videos?",
+    "Its avatars now respond to you in real time.",
+    "But live coaching demands more than a scripted face.",
+    "Your employees will practice sales calls with an AI.",
+    "Test it today on a real, unprompted conversation."
+  ],
+  "thread_text": [
+    "1. Are avatars enough?\n\nSynthesia’s AI now responds in real time—yet your team still lacks the feedback only a human coach gives.",
+    "2. Scripted faces fall flat.\n\nLive coaching reads micro-expressions and adjusts mid-sentence. An avatar? It follows a script, not your employee’s hesitation.",
+    "3. Practice for real stakes.\n\nYour sales team will run calls against this AI—but unprompted conversations reveal gaps no script can hide.",
+    "4. The twist in training.\n\nEmployees get confident on rehearsed lines, then freeze when the prospect interrupts. That’s the hole Synthesia can’t fill.",
+    "5. Test a live call today.\n\nRun one unprompted conversation with your own team—does the avatar catch their stumbles, or just nod?"
+  ],
+  "video_script": [
+    "Real-time avatars can’t catch hesitation.",
+    "Live coaching reads your team’s tension.",
+    "Scripted practice hides weak spots.",
+    "Your reps freeze on unprompted calls.",
+    "Test one real conversation this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Are avatars enough?\n\nSynthesia’s AI now responds in real time—yet your team still lacks the feedback only a human coach gives.",
+        "2. Scripted faces fall flat.\n\nLive coaching reads micro-expressions and adjusts mid-sentence. An avatar? It follows a script, not your employee’s hesitation.",
+        "3. Practice for real stakes.\n\nYour sales team will run calls against this AI—but unprompted conversations reveal gaps no script can hide.",
+        "4. The twist in training.\n\nEmployees get confident on rehearsed lines, then freeze when the prospect interrupts. That’s the hole Synthesia can’t fill.",
+        "5. Test a live call today.\n\nRun one unprompted conversation with your own team—does the avatar catch their stumbles, or just nod?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Real-time avatars can’t catch hesitation.",
+        "Live coaching reads your team’s tension.",
+        "Scripted practice hides weak spots.",
+        "Your reps freeze on unprompted calls.",
+        "Test one real conversation this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Your team can now practice a sales call with a live avatar that responds to you in real time.\n\nSynthesia’s AI platform added live coaching mode. A scripted face reads your words, but it still misses micro-expressions. Your employee’s hesitation goes unread.\n\nYou get more practice runs, but no real feedback on stumbles mid-conversation.\n\nRun one unprompted call with your own team today—does the avatar catch their freeze or just nod along? 🤖🗣️"
+    }
+  },
+  "instagram_caption": "Your team can now practice a sales call with a live avatar that responds to you in real time.\n\nSynthesia’s AI platform added live coaching mode. A scripted face reads your words, but it still misses micro-expressions. Your employee’s hesitation goes unread.\n\nYou get more practice runs, but no real feedback on stumbles mid-conversation.\n\nRun one unprompted call with your own team today—does the avatar catch their freeze or just nod along? 🤖🗣️",
+  "carousel_slides": [
+    {
+      "hook": "Can an avatar really coach you?",
+      "description": "Synthesia's AI responds in real time, but your team still misses the feedback only a human coach provides.",
+      "visual_hint": "Avatar face with listener badge",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "close up avatar face"
+    },
+    {
+      "hook": "Scripted faces fall flat.",
+      "description": "Live coaching reads micro-expressions and adjusts mid-sentence. Avatars follow a script, not employee hesitation.",
+      "visual_hint": "Frozen avatar vs fluid coach",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "green screen studio",
+      "image": "https://images.pexels.com/photos/9488420/pexels-photo-9488420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Practice for real stakes.",
+      "description": "Sales teams run calls against AI—but unprompted conversations reveal gaps no script can hide.",
+      "visual_hint": "Sales call with laptop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office desk with laptop",
+      "image": "https://images.pexels.com/photos/8296951/pexels-photo-8296951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist in training.",
+      "description": "Employees get confident on rehearsed lines, then freeze when a prospect interrupts—the hole Synthesia can't fill.",
+      "visual_hint": "Silent avatar during interruption",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand on pause button",
+      "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a live call today.",
+      "description": "Run one unprompted conversation with your own team—does the avatar catch their stumbles or just nod?",
+      "visual_hint": "Two people testing avatar call",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "people talking at desk",
+      "image": "https://images.pexels.com/photos/5954516/pexels-photo-5954516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roleplay-Sessions_Press-Kit_Product_01.png?resize=1200,675",
+  "savedAt": "2026-07-22T08:10:15.936Z",
+  "sourceId": "27421537c448f31a8e8054734be9be80"
+}
