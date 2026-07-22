@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cascade-raises-3-5m-to-help-construction-firms-fin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cascade raises $3.5M to help construction firms find and win projects",
+  "link": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+  "pubDate": "Wed, 22 Jul 2026 13:28:36 +0000",
+  "slides": [
+    "Cascade just raised $3.5M — who is winning the deals?",
+    "Most construction leads get lost in spreadsheets.",
+    "This AI finds active bids competitors haven't seen yet.",
+    "Your team stops chasing dead leads and wins faster.",
+    "Stop guessing: test Cascade on your next RFP today."
+  ],
+  "thread_text": [
+    "1. Who got the $3.5M?\n\nCascade just closed a $3.5M round. The real question isn't the money — it's who's already using it to snipe bids before anyone else.",
+    "2. Your spreadsheets are burying leads.\n\nMost construction teams still track RFPs in rows and columns. By the time they follow up, the deal is gone.",
+    "3. This AI finds bids competitors miss.\n\nCascade scans public data for active RFPs your team hasn't flagged. It surfaces opportunities before they hit bid boards.",
+    "4. Your team stops wasting time on ghosts.\n\nDead leads drain hours. Cascade filters out bids you can't win and prioritizes only the ones with real traction.",
+    "5. Test it on your next RFP.\n\nGo to cascade.ai, upload your next RFP document, and see what bids it surfaces. Do it before your competitor does."
+  ],
+  "video_script": [
+    "Cascade raised three point five million.",
+    "Spreadsheets lose construction leads every day.",
+    "AI finds bids competitors never see.",
+    "Stop chasing dead leads and win faster.",
+    "Test Cascade on your next RFP."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who got the $3.5M?\n\nCascade just closed a $3.5M round. The real question isn't the money — it's who's already using it to snipe bids before anyone else.",
+        "2. Your spreadsheets are burying leads.\n\nMost construction teams still track RFPs in rows and columns. By the time they follow up, the deal is gone.",
+        "3. This AI finds bids competitors miss.\n\nCascade scans public data for active RFPs your team hasn't flagged. It surfaces opportunities before they hit bid boards.",
+        "4. Your team stops wasting time on ghosts.\n\nDead leads drain hours. Cascade filters out bids you can't win and prioritizes only the ones with real traction.",
+        "5. Test it on your next RFP.\n\nGo to cascade.ai, upload your next RFP document, and see what bids it surfaces. Do it before your competitor does."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cascade raised three point five million.",
+        "Spreadsheets lose construction leads every day.",
+        "AI finds bids competitors never see.",
+        "Stop chasing dead leads and win faster.",
+        "Test Cascade on your next RFP."
+      ]
+    },
+    "instagram": {
+      "caption": "3.5 million dollars just went to the startup that helps construction firms see active bids before their competitors do. 🏗️\n\nMost teams still track RFPs in spreadsheets, losing leads by the time they follow up. Cascade scans public data to surface bids that haven't hit bid boards yet.\n\nYour team stops chasing ghost leads and wins work that's actually winnable. 📈\n\nUpload your next RFP to cascade.ai today—what bids are you missing right now?"
+    }
+  },
+  "instagram_caption": "3.5 million dollars just went to the startup that helps construction firms see active bids before their competitors do. 🏗️\n\nMost teams still track RFPs in spreadsheets, losing leads by the time they follow up. Cascade scans public data to surface bids that haven't hit bid boards yet.\n\nYour team stops chasing ghost leads and wins work that's actually winnable. 📈\n\nUpload your next RFP to cascade.ai today—what bids are you missing right now?",
+  "carousel_slides": [
+    {
+      "hook": "Who's already winning your bids?",
+      "description": "Cascade raised $3.5M to help teams snipe RFPs before competitors even see them.",
+      "visual_hint": "Money stack with target",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of cash"
+    },
+    {
+      "hook": "Spreadsheets bury live leads.",
+      "description": "Most construction teams lose RFPs in rows and columns—deals vanish before follow-up.",
+      "visual_hint": "Grid of gray cells",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spreadsheet rows",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This AI finds hidden bids.",
+      "description": "Cascade scans public data for active RFPs your team missed, surfacing them early.",
+      "visual_hint": "Radar scanning blue dots",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "radar screen",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop chasing dead leads.",
+      "description": "Cascade filters out bids you can't win, so your team focuses only on real traction.",
+      "visual_hint": "Hand holding green check",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "thumbs up hand",
+      "image": "https://images.pexels.com/photos/8481625/pexels-photo-8481625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Cascade on your next RFP.",
+      "description": "Upload your RFP at cascade.ai and see live bids surface before your competitor does.",
+      "visual_hint": "Phone with upload arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "upload button",
+      "image": "https://images.pexels.com/photos/12745440/pexels-photo-12745440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Cascade-founders-Hannia-Zia-and-Joana-Ferreira.jpg?resize=1200,800",
+  "savedAt": "2026-07-22T15:26:13.076Z",
+  "sourceId": "f551c3881fc6f14a419d100c131a966f"
+}

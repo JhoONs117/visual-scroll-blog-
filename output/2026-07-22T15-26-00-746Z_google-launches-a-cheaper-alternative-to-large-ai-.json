@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-launches-a-cheaper-alternative-to-large-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+  "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+  "pubDate": "2026-07-21T15:00:00.000Z",
+  "slides": [
+    "Can Google undercut Mythos without sacrificing detection?",
+    "Its new model runs on standard cloud infrastructure",
+    "But it caught a vulnerability Mythos missed entirely",
+    "Your security team can now test it at half the cost",
+    "Run your own red team drill this week to compare"
+  ],
+  "thread_text": [
+    "1. What did Mythos miss?\n\nGoogle's new model caught a known exploit that Mythos overlooked completely. That's the difference.",
+    "2. Runs on standard cloud\n\nNo specialized hardware needed. Your existing infrastructure can handle it.",
+    "3. Half the cost to test\n\nYou can run your own red team drill this week for less. The pricing shift is real.",
+    "4. But does detection drop?\n\nGoogle claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+    "5. Run your own drill this week\n\nAssign a junior engineer to replicate the test on your current system. What do you find?"
+  ],
+  "video_script": [
+    "Google caught a vulnerability Mythos missed.",
+    "It runs on standard cloud infrastructure.",
+    "Your team can test at half cost.",
+    "No sacrifice in detection accuracy.",
+    "Run your own red team drill."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What did Mythos miss?\n\nGoogle's new model caught a known exploit that Mythos overlooked completely. That's the difference.",
+        "2. Runs on standard cloud\n\nNo specialized hardware needed. Your existing infrastructure can handle it.",
+        "3. Half the cost to test\n\nYou can run your own red team drill this week for less. The pricing shift is real.",
+        "4. But does detection drop?\n\nGoogle claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+        "5. Run your own drill this week\n\nAssign a junior engineer to replicate the test on your current system. What do you find?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google caught a vulnerability Mythos missed.",
+        "It runs on standard cloud infrastructure.",
+        "Your team can test at half cost.",
+        "No sacrifice in detection accuracy.",
+        "Run your own red team drill."
+      ]
+    },
+    "instagram": {
+      "caption": "A cheaper security model just caught a vulnerability that Mythos completely missed 🎯\n\nGoogle’s new alternative runs on your existing cloud infrastructure—no specialized hardware needed. And they’re offering red team drills at half the cost, with no claimed drop in detection accuracy.\n\nYour team can now test a major security model for less than half the price this week.\n\nWhat does your current system miss that this one might catch? 👀"
+    }
+  },
+  "instagram_caption": "A cheaper security model just caught a vulnerability that Mythos completely missed 🎯\n\nGoogle’s new alternative runs on your existing cloud infrastructure—no specialized hardware needed. And they’re offering red team drills at half the cost, with no claimed drop in detection accuracy.\n\nYour team can now test a major security model for less than half the price this week.\n\nWhat does your current system miss that this one might catch? 👀",
+  "carousel_slides": [
+    {
+      "hook": "What did Mythos miss?",
+      "description": "Google's new model caught a known exploit Mythos overlooked. That's the difference.",
+      "visual_hint": "Mythos logo with red X",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Runs on standard cloud",
+      "description": "No specialized hardware needed. Your existing infrastructure can handle it.",
+      "visual_hint": "Cloud server rack glowing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cloud infrastructure",
+      "image": "https://images.pexels.com/photos/5230087/pexels-photo-5230087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Half the cost to test",
+      "description": "Run your own red team drill this week for less. The pricing shift is real.",
+      "visual_hint": "Price chart with arrow down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Detection not sacrificed",
+      "description": "Google claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+      "visual_hint": "Shield with checkmark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it this week",
+      "description": "Assign a junior engineer to replicate the test on your current system. What do you find?",
+      "visual_hint": "Calendar with red circle",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-07-22T15:26:34.379Z",
+  "sourceId": "5462dce82ab6e4b4345cef0b86f620b2"
+}

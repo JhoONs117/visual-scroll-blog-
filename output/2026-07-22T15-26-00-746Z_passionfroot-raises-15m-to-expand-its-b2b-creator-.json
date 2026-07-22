@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "passionfroot-raises-15m-to-expand-its-b2b-creator-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+  "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+  "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
+  "slides": [
+    "Passionfroot has $15M—can it crack the US market?",
+    "Its marketplace connects B2B creators with brands",
+    "But creators in Europe resisted fixed pricing models",
+    "US buyers now get flexible deal terms instead",
+    "Test one creator match before your next campaign"
+  ],
+  "thread_text": [
+    "1. Can $15M crack America?\n\nPassionfroot just raised the money to try. Europe said no to fixed prices.",
+    "2. The old model failed\n\nEuropean creators pushed back on rigid pricing. So the startup flipped the script.",
+    "3. What US buyers get now\n\nFlexible deal terms instead of fixed rates. Choose how much to pay per collaboration.",
+    "4. B2B matchmaking evolves\n\nMarketplace connects creators directly with brands. No more middlemen or guessing games.",
+    "5. Your next move\n\nTest one creator match before your next campaign. Open Passionfroot and try it today."
+  ],
+  "video_script": [
+    "Passionfroot raised $15 million for US expansion.",
+    "European creators rejected fixed pricing models.",
+    "Now US buyers get flexible deal terms.",
+    "Marketplace links B2B creators with brands.",
+    "Test one creator match before your next campaign."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can $15M crack America?\n\nPassionfroot just raised the money to try. Europe said no to fixed prices.",
+        "2. The old model failed\n\nEuropean creators pushed back on rigid pricing. So the startup flipped the script.",
+        "3. What US buyers get now\n\nFlexible deal terms instead of fixed rates. Choose how much to pay per collaboration.",
+        "4. B2B matchmaking evolves\n\nMarketplace connects creators directly with brands. No more middlemen or guessing games.",
+        "5. Your next move\n\nTest one creator match before your next campaign. Open Passionfroot and try it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Passionfroot raised $15 million for US expansion.",
+        "European creators rejected fixed pricing models.",
+        "Now US buyers get flexible deal terms.",
+        "Marketplace links B2B creators with brands.",
+        "Test one creator match before your next campaign."
+      ]
+    },
+    "instagram": {
+      "caption": "$15M later, Passionfroot is taking its B2B creator marketplace to the US—after European creators rejected fixed pricing. 🇺🇸\n\nThe startup flipped its model: instead of demanding fixed rates, it now offers flexible deal terms. US buyers can choose how much to pay per collaboration. No more middlemen.\n\nFor B2B content creators, this means you set your own price per brand deal, not the platform.\n\nGot a past campaign result that would land you a better rate? What's stopping you from pitching it?"
+    }
+  },
+  "instagram_caption": "$15M later, Passionfroot is taking its B2B creator marketplace to the US—after European creators rejected fixed pricing. 🇺🇸\n\nThe startup flipped its model: instead of demanding fixed rates, it now offers flexible deal terms. US buyers can choose how much to pay per collaboration. No more middlemen.\n\nFor B2B content creators, this means you set your own price per brand deal, not the platform.\n\nGot a past campaign result that would land you a better rate? What's stopping you from pitching it?",
+  "carousel_slides": [
+    {
+      "hook": "Can $15M crack America?",
+      "description": "European creators rejected fixed prices. Passionfroot pivoted to flexible terms for US buyers.",
+      "visual_hint": "American flag background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "american flag"
+    },
+    {
+      "hook": "Old model failed Europe",
+      "description": "Creators pushed back on rigid pricing. The startup flipped its strategy.",
+      "visual_hint": "Broken price tag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken price tag",
+      "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What US buyers get now",
+      "description": "Choose flexible deal terms. Pay per collaboration without fixed rates.",
+      "visual_hint": "Hand adjusting slider",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "slider adjust",
+      "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "B2B matchmaking evolves",
+      "description": "Marketplace connects creators directly with brands. No more middlemen.",
+      "visual_hint": "Two puzzle pieces connecting",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "puzzle pieces",
+      "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a match before your campaign",
+      "description": "Open Passionfroot and try one creator match today. Save this to revisit.",
+      "visual_hint": "Phone with app open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
+  "savedAt": "2026-07-22T15:26:23.926Z",
+  "sourceId": "51708d594f0748cb5ad012213424fded"
+}

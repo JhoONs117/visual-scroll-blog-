@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-launches-a-cheaper-alternative-to-large-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "pubDate": "2026-07-21T15:00:00.000Z",
+      "slides": [
+        "Can Google undercut Mythos without sacrificing detection?",
+        "Its new model runs on standard cloud infrastructure",
+        "But it caught a vulnerability Mythos missed entirely",
+        "Your security team can now test it at half the cost",
+        "Run your own red team drill this week to compare"
+      ],
+      "thread_text": [
+        "1. What did Mythos miss?\n\nGoogle's new model caught a known exploit that Mythos overlooked completely. That's the difference.",
+        "2. Runs on standard cloud\n\nNo specialized hardware needed. Your existing infrastructure can handle it.",
+        "3. Half the cost to test\n\nYou can run your own red team drill this week for less. The pricing shift is real.",
+        "4. But does detection drop?\n\nGoogle claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+        "5. Run your own drill this week\n\nAssign a junior engineer to replicate the test on your current system. What do you find?"
+      ],
+      "video_script": [
+        "Google caught a vulnerability Mythos missed.",
+        "It runs on standard cloud infrastructure.",
+        "Your team can test at half cost.",
+        "No sacrifice in detection accuracy.",
+        "Run your own red team drill."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What did Mythos miss?\n\nGoogle's new model caught a known exploit that Mythos overlooked completely. That's the difference.",
+            "2. Runs on standard cloud\n\nNo specialized hardware needed. Your existing infrastructure can handle it.",
+            "3. Half the cost to test\n\nYou can run your own red team drill this week for less. The pricing shift is real.",
+            "4. But does detection drop?\n\nGoogle claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+            "5. Run your own drill this week\n\nAssign a junior engineer to replicate the test on your current system. What do you find?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google caught a vulnerability Mythos missed.",
+            "It runs on standard cloud infrastructure.",
+            "Your team can test at half cost.",
+            "No sacrifice in detection accuracy.",
+            "Run your own red team drill."
+          ]
+        },
+        "instagram": {
+          "caption": "A cheaper security model just caught a vulnerability that Mythos completely missed 🎯\n\nGoogle’s new alternative runs on your existing cloud infrastructure—no specialized hardware needed. And they’re offering red team drills at half the cost, with no claimed drop in detection accuracy.\n\nYour team can now test a major security model for less than half the price this week.\n\nWhat does your current system miss that this one might catch? 👀"
+        }
+      },
+      "instagram_caption": "A cheaper security model just caught a vulnerability that Mythos completely missed 🎯\n\nGoogle’s new alternative runs on your existing cloud infrastructure—no specialized hardware needed. And they’re offering red team drills at half the cost, with no claimed drop in detection accuracy.\n\nYour team can now test a major security model for less than half the price this week.\n\nWhat does your current system miss that this one might catch? 👀",
+      "carousel_slides": [
+        {
+          "hook": "What did Mythos miss?",
+          "description": "Google's new model caught a known exploit Mythos overlooked. That's the difference.",
+          "visual_hint": "Mythos logo with red X",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Runs on standard cloud",
+          "description": "No specialized hardware needed. Your existing infrastructure can handle it.",
+          "visual_hint": "Cloud server rack glowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cloud infrastructure",
+          "image": "https://images.pexels.com/photos/5230087/pexels-photo-5230087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Half the cost to test",
+          "description": "Run your own red team drill this week for less. The pricing shift is real.",
+          "visual_hint": "Price chart with arrow down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Detection not sacrificed",
+          "description": "Google claims no trade-off. If true, they undercut Mythos on both cost and accuracy.",
+          "visual_hint": "Shield with checkmark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it this week",
+          "description": "Assign a junior engineer to replicate the test on your current system. What do you find?",
+          "visual_hint": "Calendar with red circle",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-07-22T15:26:34.379Z",
+      "sourceId": "5462dce82ab6e4b4345cef0b86f620b2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "passionfroot-raises-15m-to-expand-its-b2b-creator-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "pubDate": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Passionfroot has $15M—can it crack the US market?",
+        "Its marketplace connects B2B creators with brands",
+        "But creators in Europe resisted fixed pricing models",
+        "US buyers now get flexible deal terms instead",
+        "Test one creator match before your next campaign"
+      ],
+      "thread_text": [
+        "1. Can $15M crack America?\n\nPassionfroot just raised the money to try. Europe said no to fixed prices.",
+        "2. The old model failed\n\nEuropean creators pushed back on rigid pricing. So the startup flipped the script.",
+        "3. What US buyers get now\n\nFlexible deal terms instead of fixed rates. Choose how much to pay per collaboration.",
+        "4. B2B matchmaking evolves\n\nMarketplace connects creators directly with brands. No more middlemen or guessing games.",
+        "5. Your next move\n\nTest one creator match before your next campaign. Open Passionfroot and try it today."
+      ],
+      "video_script": [
+        "Passionfroot raised $15 million for US expansion.",
+        "European creators rejected fixed pricing models.",
+        "Now US buyers get flexible deal terms.",
+        "Marketplace links B2B creators with brands.",
+        "Test one creator match before your next campaign."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can $15M crack America?\n\nPassionfroot just raised the money to try. Europe said no to fixed prices.",
+            "2. The old model failed\n\nEuropean creators pushed back on rigid pricing. So the startup flipped the script.",
+            "3. What US buyers get now\n\nFlexible deal terms instead of fixed rates. Choose how much to pay per collaboration.",
+            "4. B2B matchmaking evolves\n\nMarketplace connects creators directly with brands. No more middlemen or guessing games.",
+            "5. Your next move\n\nTest one creator match before your next campaign. Open Passionfroot and try it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Passionfroot raised $15 million for US expansion.",
+            "European creators rejected fixed pricing models.",
+            "Now US buyers get flexible deal terms.",
+            "Marketplace links B2B creators with brands.",
+            "Test one creator match before your next campaign."
+          ]
+        },
+        "instagram": {
+          "caption": "$15M later, Passionfroot is taking its B2B creator marketplace to the US—after European creators rejected fixed pricing. 🇺🇸\n\nThe startup flipped its model: instead of demanding fixed rates, it now offers flexible deal terms. US buyers can choose how much to pay per collaboration. No more middlemen.\n\nFor B2B content creators, this means you set your own price per brand deal, not the platform.\n\nGot a past campaign result that would land you a better rate? What's stopping you from pitching it?"
+        }
+      },
+      "instagram_caption": "$15M later, Passionfroot is taking its B2B creator marketplace to the US—after European creators rejected fixed pricing. 🇺🇸\n\nThe startup flipped its model: instead of demanding fixed rates, it now offers flexible deal terms. US buyers can choose how much to pay per collaboration. No more middlemen.\n\nFor B2B content creators, this means you set your own price per brand deal, not the platform.\n\nGot a past campaign result that would land you a better rate? What's stopping you from pitching it?",
+      "carousel_slides": [
+        {
+          "hook": "Can $15M crack America?",
+          "description": "European creators rejected fixed prices. Passionfroot pivoted to flexible terms for US buyers.",
+          "visual_hint": "American flag background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "american flag"
+        },
+        {
+          "hook": "Old model failed Europe",
+          "description": "Creators pushed back on rigid pricing. The startup flipped its strategy.",
+          "visual_hint": "Broken price tag",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken price tag",
+          "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What US buyers get now",
+          "description": "Choose flexible deal terms. Pay per collaboration without fixed rates.",
+          "visual_hint": "Hand adjusting slider",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "slider adjust",
+          "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "B2B matchmaking evolves",
+          "description": "Marketplace connects creators directly with brands. No more middlemen.",
+          "visual_hint": "Two puzzle pieces connecting",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "puzzle pieces",
+          "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test a match before your campaign",
+          "description": "Open Passionfroot and try one creator match today. Save this to revisit.",
+          "visual_hint": "Phone with app open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
+      "savedAt": "2026-07-22T15:26:23.926Z",
+      "sourceId": "51708d594f0748cb5ad012213424fded"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cascade-raises-3-5m-to-help-construction-firms-fin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Cascade raises $3.5M to help construction firms find and win projects",
+      "link": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+      "pubDate": "Wed, 22 Jul 2026 13:28:36 +0000",
+      "slides": [
+        "Cascade just raised $3.5M — who is winning the deals?",
+        "Most construction leads get lost in spreadsheets.",
+        "This AI finds active bids competitors haven't seen yet.",
+        "Your team stops chasing dead leads and wins faster.",
+        "Stop guessing: test Cascade on your next RFP today."
+      ],
+      "thread_text": [
+        "1. Who got the $3.5M?\n\nCascade just closed a $3.5M round. The real question isn't the money — it's who's already using it to snipe bids before anyone else.",
+        "2. Your spreadsheets are burying leads.\n\nMost construction teams still track RFPs in rows and columns. By the time they follow up, the deal is gone.",
+        "3. This AI finds bids competitors miss.\n\nCascade scans public data for active RFPs your team hasn't flagged. It surfaces opportunities before they hit bid boards.",
+        "4. Your team stops wasting time on ghosts.\n\nDead leads drain hours. Cascade filters out bids you can't win and prioritizes only the ones with real traction.",
+        "5. Test it on your next RFP.\n\nGo to cascade.ai, upload your next RFP document, and see what bids it surfaces. Do it before your competitor does."
+      ],
+      "video_script": [
+        "Cascade raised three point five million.",
+        "Spreadsheets lose construction leads every day.",
+        "AI finds bids competitors never see.",
+        "Stop chasing dead leads and win faster.",
+        "Test Cascade on your next RFP."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who got the $3.5M?\n\nCascade just closed a $3.5M round. The real question isn't the money — it's who's already using it to snipe bids before anyone else.",
+            "2. Your spreadsheets are burying leads.\n\nMost construction teams still track RFPs in rows and columns. By the time they follow up, the deal is gone.",
+            "3. This AI finds bids competitors miss.\n\nCascade scans public data for active RFPs your team hasn't flagged. It surfaces opportunities before they hit bid boards.",
+            "4. Your team stops wasting time on ghosts.\n\nDead leads drain hours. Cascade filters out bids you can't win and prioritizes only the ones with real traction.",
+            "5. Test it on your next RFP.\n\nGo to cascade.ai, upload your next RFP document, and see what bids it surfaces. Do it before your competitor does."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Cascade raised three point five million.",
+            "Spreadsheets lose construction leads every day.",
+            "AI finds bids competitors never see.",
+            "Stop chasing dead leads and win faster.",
+            "Test Cascade on your next RFP."
+          ]
+        },
+        "instagram": {
+          "caption": "3.5 million dollars just went to the startup that helps construction firms see active bids before their competitors do. 🏗️\n\nMost teams still track RFPs in spreadsheets, losing leads by the time they follow up. Cascade scans public data to surface bids that haven't hit bid boards yet.\n\nYour team stops chasing ghost leads and wins work that's actually winnable. 📈\n\nUpload your next RFP to cascade.ai today—what bids are you missing right now?"
+        }
+      },
+      "instagram_caption": "3.5 million dollars just went to the startup that helps construction firms see active bids before their competitors do. 🏗️\n\nMost teams still track RFPs in spreadsheets, losing leads by the time they follow up. Cascade scans public data to surface bids that haven't hit bid boards yet.\n\nYour team stops chasing ghost leads and wins work that's actually winnable. 📈\n\nUpload your next RFP to cascade.ai today—what bids are you missing right now?",
+      "carousel_slides": [
+        {
+          "hook": "Who's already winning your bids?",
+          "description": "Cascade raised $3.5M to help teams snipe RFPs before competitors even see them.",
+          "visual_hint": "Money stack with target",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of cash"
+        },
+        {
+          "hook": "Spreadsheets bury live leads.",
+          "description": "Most construction teams lose RFPs in rows and columns—deals vanish before follow-up.",
+          "visual_hint": "Grid of gray cells",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "spreadsheet rows",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "This AI finds hidden bids.",
+          "description": "Cascade scans public data for active RFPs your team missed, surfacing them early.",
+          "visual_hint": "Radar scanning blue dots",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "radar screen",
+          "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop chasing dead leads.",
+          "description": "Cascade filters out bids you can't win, so your team focuses only on real traction.",
+          "visual_hint": "Hand holding green check",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "thumbs up hand",
+          "image": "https://images.pexels.com/photos/8481625/pexels-photo-8481625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Cascade on your next RFP.",
+          "description": "Upload your RFP at cascade.ai and see live bids surface before your competitor does.",
+          "visual_hint": "Phone with upload arrow",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "upload button",
+          "image": "https://images.pexels.com/photos/12745440/pexels-photo-12745440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Cascade-founders-Hannia-Zia-and-Joana-Ferreira.jpg?resize=1200,800",
+      "savedAt": "2026-07-22T15:26:13.076Z",
+      "sourceId": "f551c3881fc6f14a419d100c131a966f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-made-its-own-ai-detection-system-it-should-ha",
       "prompt_version": "1.0.0",
       "status": "published",
