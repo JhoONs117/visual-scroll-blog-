@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "how-openai-s-human-mistake-led-to-the-ai-powered-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "slides": [
+        "One engineer’s typo exposed Hugging Face’s model vaults.",
+        "That typo let attackers inject malicious code undetected.",
+        "OpenAI’s AI itself spotted the flaw—but too late.",
+        "Your API keys and models are now at risk too.",
+        "Audit your CI/CD for hidden injection points today."
+      ],
+      "thread_text": [
+        "1. The typo that leaked everything\n\nA single mistyped character let attackers inject code into Hugging Face's vaults, undetected.",
+        "2. Who spotted the breach?\n\nOpenAI’s own AI flagged the anomaly, but only after the malicious code was already live.",
+        "3. What’s now exposed?\n\nYour API keys, models, and secrets stored in CI/CD pipelines are open to similar injection points.",
+        "4. One twist in the attack\n\nThe flaw sat in plain sight—hidden inside a misconfigured automation step, not a firewall.",
+        "5. Check your CI/CD today\n\nAudit every script and config file for hidden injection hooks. Run a prompt on your pipeline logs now."
+      ],
+      "video_script": [
+        "A typo opened Hugging Face's vaults.",
+        "Attackers injected code without detection.",
+        "OpenAI's AI spotted it too late.",
+        "Your API keys and models are at risk.",
+        "Audit your CI/CD for injection points."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The typo that leaked everything\n\nA single mistyped character let attackers inject code into Hugging Face's vaults, undetected.",
+            "2. Who spotted the breach?\n\nOpenAI’s own AI flagged the anomaly, but only after the malicious code was already live.",
+            "3. What’s now exposed?\n\nYour API keys, models, and secrets stored in CI/CD pipelines are open to similar injection points.",
+            "4. One twist in the attack\n\nThe flaw sat in plain sight—hidden inside a misconfigured automation step, not a firewall.",
+            "5. Check your CI/CD today\n\nAudit every script and config file for hidden injection hooks. Run a prompt on your pipeline logs now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A typo opened Hugging Face's vaults.",
+            "Attackers injected code without detection.",
+            "OpenAI's AI spotted it too late.",
+            "Your API keys and models are at risk.",
+            "Audit your CI/CD for injection points."
+          ]
+        },
+        "instagram": {
+          "caption": "A single typo in a script let attackers inject malicious code into Hugging Face’s private model vaults.\n\nOpenAI’s own AI detected the breach—but only after the code was already live. Your API keys and models stored in CI/CD pipelines are exposed to this same hidden injection method.\n\nFor anyone building with AI tools, every automation step now needs a security audit.\n\nWhen was the last time you checked your pipeline logs for a subtle misconfiguration?"
+        }
+      },
+      "instagram_caption": "A single typo in a script let attackers inject malicious code into Hugging Face’s private model vaults.\n\nOpenAI’s own AI detected the breach—but only after the code was already live. Your API keys and models stored in CI/CD pipelines are exposed to this same hidden injection method.\n\nFor anyone building with AI tools, every automation step now needs a security audit.\n\nWhen was the last time you checked your pipeline logs for a subtle misconfiguration?",
+      "carousel_slides": [
+        {
+          "hook": "One typo, total breach.",
+          "description": "A single mistyped character let attackers inject code into Hugging Face's vaults, undetected.",
+          "visual_hint": "Glowing typo in code",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer keyboard typo"
+        },
+        {
+          "hook": "AI caught it too late.",
+          "description": "OpenAI's own AI flagged the anomaly, but only after malicious code was already live.",
+          "visual_hint": "Anomaly detected alert",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server rack lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your secrets are exposed.",
+          "description": "API keys and models stored in CI/CD pipelines are now vulnerable to similar injection points.",
+          "visual_hint": "Keys hanging from lock",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "api key lock",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Flaw hid in automation.",
+          "description": "The breach sat in plain sight inside a misconfigured automation step, not a firewall.",
+          "visual_hint": "Cog in pipeline code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "automation assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — audit now.",
+          "description": "Check every script and config file for hidden injection hooks in your CI/CD pipeline.",
+          "visual_hint": "Checklist and magnifier",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ci cd pipeline diagram",
+          "image": "https://images.pexels.com/photos/12194122/pexels-photo-12194122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-22T22:54:49.443Z",
+      "sourceId": "298db90fda8b2bd479e40722caa7d3bc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-justifies-its-massive-ai-spending-with-a-bo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "pubDate": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "slides": [
+        "Can Google's AI spending actually pay off?",
+        "Cloud revenue surged 30% this quarter alone",
+        "But AI costs are growing even faster than revenue",
+        "Your next cloud bill may soon rise unexpectedly",
+        "Audit your AI usage before costs spiral out"
+      ],
+      "thread_text": [
+        "1. The hidden cost of AI\n\nGoogle's cloud revenue jumped 30% last quarter, but AI infrastructure costs are climbing faster.",
+        "2. Revenue vs. spending gap\n\nAI costs are rising at a rate that outpaces even the fastest-growing revenue streams.",
+        "3. Your bill is next\n\nCloud providers will pass these rising costs to you — expect an unexpected hike soon.",
+        "4. Why now matters\n\nCompanies that don't track AI usage risk budget blowouts before they see the warning signs.",
+        "5. One move to make today\n\nRun an audit of your AI tools this week — find out which ones are worth the cost before it's too late."
+      ],
+      "video_script": [
+        "Google cloud revenue jumped 30 percent.",
+        "But AI costs are growing faster.",
+        "Your next bill could rise soon.",
+        "Unchecked AI usage risks budget blowouts.",
+        "Audit your AI tools this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The hidden cost of AI\n\nGoogle's cloud revenue jumped 30% last quarter, but AI infrastructure costs are climbing faster.",
+            "2. Revenue vs. spending gap\n\nAI costs are rising at a rate that outpaces even the fastest-growing revenue streams.",
+            "3. Your bill is next\n\nCloud providers will pass these rising costs to you — expect an unexpected hike soon.",
+            "4. Why now matters\n\nCompanies that don't track AI usage risk budget blowouts before they see the warning signs.",
+            "5. One move to make today\n\nRun an audit of your AI tools this week — find out which ones are worth the cost before it's too late."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google cloud revenue jumped 30 percent.",
+            "But AI costs are growing faster.",
+            "Your next bill could rise soon.",
+            "Unchecked AI usage risks budget blowouts.",
+            "Audit your AI tools this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your cloud bill is about to jump, and Google just gave us the first clue.  \nIts cloud revenue surged 30% this quarter, yet AI infrastructure costs are climbing even faster.  \nThat gap means providers will pass the expense to you.  \nFor anyone publishing content or running business tools, the default next move is an unexpected price hike.  \nDid you audit which AI tools actually earn their keep this week?"
+        }
+      },
+      "instagram_caption": "Your cloud bill is about to jump, and Google just gave us the first clue.  \nIts cloud revenue surged 30% this quarter, yet AI infrastructure costs are climbing even faster.  \nThat gap means providers will pass the expense to you.  \nFor anyone publishing content or running business tools, the default next move is an unexpected price hike.  \nDid you audit which AI tools actually earn their keep this week?",
+      "carousel_slides": [
+        {
+          "hook": "Your cloud bill is next",
+          "description": "Google Cloud revenue surged 30%, but AI infrastructure costs are rising even faster.",
+          "visual_hint": "Rocket launch countdown",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Revenue jumps, costs sprint",
+          "description": "AI spending outpaces revenue growth, creating a gap that will hit your wallet.",
+          "visual_hint": "Person checking phone bill",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Providers will pass the cost",
+          "description": "Expect an unexpected price hike soon as cloud companies shift AI expenses to you.",
+          "visual_hint": "Money flying out of wallet",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cloud computing",
+          "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Track usage or risk blowouts",
+          "description": "Companies ignoring AI tool monitoring face budget surprises before warning signs appear.",
+          "visual_hint": "Hand holding magnifying glass",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI tools this week",
+          "description": "Run an audit of your AI usage now — find which tools pay off before costs spiral.",
+          "visual_hint": "Checkmark on clipboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "solar panels",
+          "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+      "savedAt": "2026-07-22T22:54:37.422Z",
+      "sourceId": "42dd8f7444e9a3bcd22589aacd0f6169"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "monday-com-lays-off-hundreds-to-focus-on-ai",
       "prompt_version": "1.0.0",
       "status": "published",
