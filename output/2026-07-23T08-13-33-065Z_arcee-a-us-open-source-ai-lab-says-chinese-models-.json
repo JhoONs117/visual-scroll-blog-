@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "arcee-a-us-open-source-ai-lab-says-chinese-models-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+  "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+  "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
+  "slides": [
+    "Arcee claims Chinese models aren't dangerous—but who decides safety?",
+    "The company builds open-source AI for enterprise customization.",
+    "Its CEO argues threat labels hide a race for control.",
+    "You can now deploy Chinese models without security panic.",
+    "Test one open model yourself before believing any ban."
+  ],
+  "thread_text": [
+    "Who decides what's safe?\n\nArcee says Chinese open-source models are safe enough to deploy today, no panic needed.",
+    "Threat labels are a power play.\n\nThe CEO claims bans on Chinese AI hide a race for control, not real security risks.",
+    "Enterprise customization is key.\n\nArcee builds open-source AI so companies can adapt models without vendor lock-in or fear.",
+    "Deploy without the hype.\n\nYou can now run Chinese models in production without triggering a security meltdown—just test them.",
+    "Test one open model today.\n\nPick a Chinese model on Hugging Face, run a prompt, and decide for yourself—before trusting any ban."
+  ],
+  "video_script": [
+    "Chinese models are not dangerous, says Arcee.",
+    "Who really decides what is safe?",
+    "Bans hide a fight for control.",
+    "You can deploy them without panic.",
+    "Test a model yourself this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who decides what's safe?\n\nArcee says Chinese open-source models are safe enough to deploy today, no panic needed.",
+        "Threat labels are a power play.\n\nThe CEO claims bans on Chinese AI hide a race for control, not real security risks.",
+        "Enterprise customization is key.\n\nArcee builds open-source AI so companies can adapt models without vendor lock-in or fear.",
+        "Deploy without the hype.\n\nYou can now run Chinese models in production without triggering a security meltdown—just test them.",
+        "Test one open model today.\n\nPick a Chinese model on Hugging Face, run a prompt, and decide for yourself—before trusting any ban."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chinese models are not dangerous, says Arcee.",
+        "Who really decides what is safe?",
+        "Bans hide a fight for control.",
+        "You can deploy them without panic.",
+        "Test a model yourself this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Some Chinese AI models you can download right now are being called safe enough for business use by a US lab—no panic button required. 🧪\n\nArcee, an American open-source AI company, says the security warnings around these models are really about control, not code. Their CEO argues that labeling models as \"dangerous\" hides a power struggle over who gets to run AI. 🚫📢\n\nCompanies can now deploy a Chinese model in production without triggering a security meltdown—just test it first yourself.\n\nPick one open model on Hugging Face, run a single prompt, and decide: do you trust the ban or what your own computer tells you? 🤔"
+    }
+  },
+  "instagram_caption": "Some Chinese AI models you can download right now are being called safe enough for business use by a US lab—no panic button required. 🧪\n\nArcee, an American open-source AI company, says the security warnings around these models are really about control, not code. Their CEO argues that labeling models as \"dangerous\" hides a power struggle over who gets to run AI. 🚫📢\n\nCompanies can now deploy a Chinese model in production without triggering a security meltdown—just test it first yourself.\n\nPick one open model on Hugging Face, run a single prompt, and decide: do you trust the ban or what your own computer tells you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who really decides what's safe?",
+      "description": "Arcee claims Chinese open-source models aren't dangerous, challenging who holds the power to label threats.",
+      "visual_hint": "Scale tipping, no hands",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "balance scale"
+    },
+    {
+      "hook": "Threat labels hide a power play.",
+      "description": "Arcee CEO says bans on Chinese AI mask a race for control, not real security risks.",
+      "visual_hint": "Chess pieces surrounded by fog",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess game",
+      "image": "https://images.pexels.com/photos/18706251/pexels-photo-18706251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprise AI without vendor lock-in.",
+      "description": "Arcee builds open-source AI so companies customize models freely, avoiding fear and dependency.",
+      "visual_hint": "Gears connected to open laptop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop gears",
+      "image": "https://images.pexels.com/photos/30459253/pexels-photo-30459253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deploy Chinese models without panic.",
+      "description": "You can now run open Chinese models in production without security meltdown—just test them first.",
+      "visual_hint": "Green check mark on server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a model yourself before banning.",
+      "description": "Pick a Chinese model on Hugging Face, run a prompt, and decide for yourself today.",
+      "visual_hint": "Hand clicking 'Run' button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer mouse",
+      "image": "https://images.pexels.com/photos/12029640/pexels-photo-12029640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297448481.jpg?resize=1200,800",
+  "savedAt": "2026-07-23T08:13:46.627Z",
+  "sourceId": "22ff93960bae81b87da7828e406ee2a7"
+}
