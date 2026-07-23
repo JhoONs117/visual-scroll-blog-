@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-chip-startup-etched-defies-skeptics-hits-10-3b-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+  "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+  "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Etched just hit $10.3B. What did they sell?",
+    "Their chip runs only transformer models, nothing else.",
+    "Most AI chips are general; Etched's is laser-focused.",
+    "Your inference costs could drop by an order of magnitude.",
+    "Ask your team: are we betting on general or specialized silicon?"
+  ],
+  "thread_text": [
+    "1. A $10.3B bet on one AI chip.\n\nEtched sold no hardware—just the promise of a chip that runs only transformer models.",
+    "2. Why lock out every other model?\n\nGeneral AI chips waste resources on architectures you never use. Etched’s design bakes the transformer into silicon.",
+    "3. The cost math changes instantly.\n\nYour inference bill could drop 10x. That’s not optimization—it’s a new floor for deployment.",
+    "4. Most competitors sell Swiss Army knives.\n\nThey handle vision, speech, transformers—but pay for versatility you don’t need. Etched chose one job.",
+    "5. Does your team bet on general or specialized?\n\nPull your last inference bill. If 80% runs transformers, ask: Why are you paying for the rest?"
+  ],
+  "video_script": [
+    "Etched hit ten billion dollars in valuation.",
+    "They sold a chip for transformers only.",
+    "Most chips try to do everything.",
+    "This one slashes inference costs tenfold.",
+    "Is your team betting on general silicon?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A $10.3B bet on one AI chip.\n\nEtched sold no hardware—just the promise of a chip that runs only transformer models.",
+        "2. Why lock out every other model?\n\nGeneral AI chips waste resources on architectures you never use. Etched’s design bakes the transformer into silicon.",
+        "3. The cost math changes instantly.\n\nYour inference bill could drop 10x. That’s not optimization—it’s a new floor for deployment.",
+        "4. Most competitors sell Swiss Army knives.\n\nThey handle vision, speech, transformers—but pay for versatility you don’t need. Etched chose one job.",
+        "5. Does your team bet on general or specialized?\n\nPull your last inference bill. If 80% runs transformers, ask: Why are you paying for the rest?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Etched hit ten billion dollars in valuation.",
+        "They sold a chip for transformers only.",
+        "Most chips try to do everything.",
+        "This one slashes inference costs tenfold.",
+        "Is your team betting on general silicon?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next inference bill could drop by 10x.\n\nEtched just hit a $10.3B valuation selling a chip that runs *only* transformer models—nothing else. Most AI chips are general-purpose, wasting resources on architectures you never use. 📉 Etched bakes the transformer into silicon, cutting costs per query to a new floor.\n\nFor anyone deploying AI: your deployment math just changed. 💸\n\nPull your last inference bill. If 80% runs transformers, why are you paying for the rest?"
+    }
+  },
+  "instagram_caption": "Your next inference bill could drop by 10x.\n\nEtched just hit a $10.3B valuation selling a chip that runs *only* transformer models—nothing else. Most AI chips are general-purpose, wasting resources on architectures you never use. 📉 Etched bakes the transformer into silicon, cutting costs per query to a new floor.\n\nFor anyone deploying AI: your deployment math just changed. 💸\n\nPull your last inference bill. If 80% runs transformers, why are you paying for the rest?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI bill could drop 10x.",
+      "description": "Etched hit $10.3B selling a chip that only runs transformers, slashing inference costs dramatically.",
+      "visual_hint": "Chip with dollar signs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microchip closeup money"
+    },
+    {
+      "hook": "Why pay for useless versatility?",
+      "description": "General AI chips waste resources on architectures you never use. Etched bakes the transformer into silicon.",
+      "visual_hint": "Teardown of two chips",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server motherboard chips",
+      "image": "https://images.pexels.com/photos/8108712/pexels-photo-8108712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One algorithm. One chip.",
+      "description": "Most competitors sell Swiss Army knives for AI. Etched chose one job and optimized it to perfection.",
+      "visual_hint": "Laser cutting through metal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laser cutting machine",
+      "image": "https://images.pexels.com/photos/36522023/pexels-photo-36522023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inference costs hit a new floor.",
+      "description": "Your inference bill could drop 10x. That's not optimization—it's a new floor for deployment.",
+      "visual_hint": "Graph plunging downward",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your last inference bill.",
+      "description": "If 80% runs transformers, ask your team: why pay for the rest? Comment your thoughts below.",
+      "visual_hint": "Calculator with receipt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator invoice paper",
+      "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+  "savedAt": "2026-07-23T15:48:16.574Z",
+  "sourceId": "8d7c08e5e756a91053a3a4e547de718a"
+}

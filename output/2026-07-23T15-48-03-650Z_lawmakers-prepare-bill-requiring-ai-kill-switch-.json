@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+  "pubDate": "2026-07-23T14:13:35.000Z",
+  "slides": [
+    "Who will control AI when it turns dangerous?",
+    "Lawmakers now propose a mandatory kill switch.",
+    "But this switch could also be exploited by hackers.",
+    "Your AI investments may face new compliance costs.",
+    "Audit your AI systems for emergency shutdown readiness."
+  ],
+  "thread_text": [
+    "1. Who holds the kill switch?\n\nLawmakers want a mandatory shutdown button in every AI system. But that button is a new attack surface.",
+    "2. Hackers love a single point of failure.\n\nA kill switch is a backdoor by design. If it's in every system, one exploit can freeze them all.",
+    "3. Compliance isn't optional anymore.\n\nRegulators will demand proof of emergency shutdown readiness. Your AI budget just got a new line item.",
+    "4. Audit for the worst case.\n\nTest your AI's kill switch now. A simulated failure could save you from a real one.",
+    "5. Run a shutdown drill this week.\n\nPick one AI tool you use daily. Try to kill it remotely. If you can't, you're not ready."
+  ],
+  "video_script": [
+    "Who controls AI when it goes rogue?",
+    "Lawmakers push a mandatory kill switch.",
+    "But hackers can flip that switch too.",
+    "Your AI investments face new compliance costs.",
+    "Audit your AI for emergency shutdown now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who holds the kill switch?\n\nLawmakers want a mandatory shutdown button in every AI system. But that button is a new attack surface.",
+        "2. Hackers love a single point of failure.\n\nA kill switch is a backdoor by design. If it's in every system, one exploit can freeze them all.",
+        "3. Compliance isn't optional anymore.\n\nRegulators will demand proof of emergency shutdown readiness. Your AI budget just got a new line item.",
+        "4. Audit for the worst case.\n\nTest your AI's kill switch now. A simulated failure could save you from a real one.",
+        "5. Run a shutdown drill this week.\n\nPick one AI tool you use daily. Try to kill it remotely. If you can't, you're not ready."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who controls AI when it goes rogue?",
+        "Lawmakers push a mandatory kill switch.",
+        "But hackers can flip that switch too.",
+        "Your AI investments face new compliance costs.",
+        "Audit your AI for emergency shutdown now."
+      ]
+    },
+    "instagram": {
+      "caption": "Lawmakers are drafting a bill that would force every AI system to include a mandatory kill switch. 🛑\n\nThat off switch is meant to shut down dangerous AI. But it's also a built-in backdoor — hackers could exploit a single vulnerability to freeze every system at once. 🔐\n\nIf you build or use AI tools, you'll soon need to prove emergency shutdown readiness. Compliance costs just hit your budget.\n\nWhat happens when the kill switch becomes the target? Run one shutdown drill on a tool you use daily — can you kill it remotely?"
+    }
+  },
+  "instagram_caption": "Lawmakers are drafting a bill that would force every AI system to include a mandatory kill switch. 🛑\n\nThat off switch is meant to shut down dangerous AI. But it's also a built-in backdoor — hackers could exploit a single vulnerability to freeze every system at once. 🔐\n\nIf you build or use AI tools, you'll soon need to prove emergency shutdown readiness. Compliance costs just hit your budget.\n\nWhat happens when the kill switch becomes the target? Run one shutdown drill on a tool you use daily — can you kill it remotely?",
+  "carousel_slides": [
+    {
+      "hook": "Who holds the kill switch?",
+      "description": "Lawmakers propose mandatory AI shutdown buttons, but each one becomes a new attack surface for hackers.",
+      "visual_hint": "Red button on server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room red button"
+    },
+    {
+      "hook": "Hackers love single points of failure.",
+      "description": "A kill switch designed into every system is a backdoor waiting to be exploited globally.",
+      "visual_hint": "Digital lock with broken chain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "padlock circuit board",
+      "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance costs just doubled.",
+      "description": "Regulators want proof of emergency shutdown readiness, adding new line items to AI budgets.",
+      "visual_hint": "Stack of documents and calculator",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "document stack calculator",
+      "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your AI kill switch working?",
+      "description": "Simulate a failure now. If you can't remotely shut down your AI, you're not ready.",
+      "visual_hint": "Hand tapping tablet with alert icon",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "hand touching tablet alert",
+      "image": "https://images.pexels.com/photos/7698885/pexels-photo-7698885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to run a shutdown drill.",
+      "description": "Pick one AI tool you use daily and try to kill it remotely. If you can't, audit now.",
+      "visual_hint": "Phone with checkmark and gears",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone alarm gears",
+      "image": "https://images.pexels.com/photos/6940871/pexels-photo-6940871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-23T15:48:29.228Z",
+  "sourceId": "bf8b59fc2dda31b8dff411efe1b415e8"
+}

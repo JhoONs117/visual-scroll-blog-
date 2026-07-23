@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "pubDate": "2026-07-23T14:13:35.000Z",
+      "slides": [
+        "Who will control AI when it turns dangerous?",
+        "Lawmakers now propose a mandatory kill switch.",
+        "But this switch could also be exploited by hackers.",
+        "Your AI investments may face new compliance costs.",
+        "Audit your AI systems for emergency shutdown readiness."
+      ],
+      "thread_text": [
+        "1. Who holds the kill switch?\n\nLawmakers want a mandatory shutdown button in every AI system. But that button is a new attack surface.",
+        "2. Hackers love a single point of failure.\n\nA kill switch is a backdoor by design. If it's in every system, one exploit can freeze them all.",
+        "3. Compliance isn't optional anymore.\n\nRegulators will demand proof of emergency shutdown readiness. Your AI budget just got a new line item.",
+        "4. Audit for the worst case.\n\nTest your AI's kill switch now. A simulated failure could save you from a real one.",
+        "5. Run a shutdown drill this week.\n\nPick one AI tool you use daily. Try to kill it remotely. If you can't, you're not ready."
+      ],
+      "video_script": [
+        "Who controls AI when it goes rogue?",
+        "Lawmakers push a mandatory kill switch.",
+        "But hackers can flip that switch too.",
+        "Your AI investments face new compliance costs.",
+        "Audit your AI for emergency shutdown now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who holds the kill switch?\n\nLawmakers want a mandatory shutdown button in every AI system. But that button is a new attack surface.",
+            "2. Hackers love a single point of failure.\n\nA kill switch is a backdoor by design. If it's in every system, one exploit can freeze them all.",
+            "3. Compliance isn't optional anymore.\n\nRegulators will demand proof of emergency shutdown readiness. Your AI budget just got a new line item.",
+            "4. Audit for the worst case.\n\nTest your AI's kill switch now. A simulated failure could save you from a real one.",
+            "5. Run a shutdown drill this week.\n\nPick one AI tool you use daily. Try to kill it remotely. If you can't, you're not ready."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who controls AI when it goes rogue?",
+            "Lawmakers push a mandatory kill switch.",
+            "But hackers can flip that switch too.",
+            "Your AI investments face new compliance costs.",
+            "Audit your AI for emergency shutdown now."
+          ]
+        },
+        "instagram": {
+          "caption": "Lawmakers are drafting a bill that would force every AI system to include a mandatory kill switch. 🛑\n\nThat off switch is meant to shut down dangerous AI. But it's also a built-in backdoor — hackers could exploit a single vulnerability to freeze every system at once. 🔐\n\nIf you build or use AI tools, you'll soon need to prove emergency shutdown readiness. Compliance costs just hit your budget.\n\nWhat happens when the kill switch becomes the target? Run one shutdown drill on a tool you use daily — can you kill it remotely?"
+        }
+      },
+      "instagram_caption": "Lawmakers are drafting a bill that would force every AI system to include a mandatory kill switch. 🛑\n\nThat off switch is meant to shut down dangerous AI. But it's also a built-in backdoor — hackers could exploit a single vulnerability to freeze every system at once. 🔐\n\nIf you build or use AI tools, you'll soon need to prove emergency shutdown readiness. Compliance costs just hit your budget.\n\nWhat happens when the kill switch becomes the target? Run one shutdown drill on a tool you use daily — can you kill it remotely?",
+      "carousel_slides": [
+        {
+          "hook": "Who holds the kill switch?",
+          "description": "Lawmakers propose mandatory AI shutdown buttons, but each one becomes a new attack surface for hackers.",
+          "visual_hint": "Red button on server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room red button"
+        },
+        {
+          "hook": "Hackers love single points of failure.",
+          "description": "A kill switch designed into every system is a backdoor waiting to be exploited globally.",
+          "visual_hint": "Digital lock with broken chain",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "padlock circuit board",
+          "image": "https://images.pexels.com/photos/8108663/pexels-photo-8108663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compliance costs just doubled.",
+          "description": "Regulators want proof of emergency shutdown readiness, adding new line items to AI budgets.",
+          "visual_hint": "Stack of documents and calculator",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "document stack calculator",
+          "image": "https://images.pexels.com/photos/8296948/pexels-photo-8296948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your AI kill switch working?",
+          "description": "Simulate a failure now. If you can't remotely shut down your AI, you're not ready.",
+          "visual_hint": "Hand tapping tablet with alert icon",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "hand touching tablet alert",
+          "image": "https://images.pexels.com/photos/7698885/pexels-photo-7698885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to run a shutdown drill.",
+          "description": "Pick one AI tool you use daily and try to kill it remotely. If you can't, audit now.",
+          "visual_hint": "Phone with checkmark and gears",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone alarm gears",
+          "image": "https://images.pexels.com/photos/6940871/pexels-photo-6940871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-23T15:48:29.228Z",
+      "sourceId": "bf8b59fc2dda31b8dff411efe1b415e8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-chip-startup-etched-defies-skeptics-hits-10-3b-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "slides": [
+        "Etched just hit $10.3B. What did they sell?",
+        "Their chip runs only transformer models, nothing else.",
+        "Most AI chips are general; Etched's is laser-focused.",
+        "Your inference costs could drop by an order of magnitude.",
+        "Ask your team: are we betting on general or specialized silicon?"
+      ],
+      "thread_text": [
+        "1. A $10.3B bet on one AI chip.\n\nEtched sold no hardware—just the promise of a chip that runs only transformer models.",
+        "2. Why lock out every other model?\n\nGeneral AI chips waste resources on architectures you never use. Etched’s design bakes the transformer into silicon.",
+        "3. The cost math changes instantly.\n\nYour inference bill could drop 10x. That’s not optimization—it’s a new floor for deployment.",
+        "4. Most competitors sell Swiss Army knives.\n\nThey handle vision, speech, transformers—but pay for versatility you don’t need. Etched chose one job.",
+        "5. Does your team bet on general or specialized?\n\nPull your last inference bill. If 80% runs transformers, ask: Why are you paying for the rest?"
+      ],
+      "video_script": [
+        "Etched hit ten billion dollars in valuation.",
+        "They sold a chip for transformers only.",
+        "Most chips try to do everything.",
+        "This one slashes inference costs tenfold.",
+        "Is your team betting on general silicon?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A $10.3B bet on one AI chip.\n\nEtched sold no hardware—just the promise of a chip that runs only transformer models.",
+            "2. Why lock out every other model?\n\nGeneral AI chips waste resources on architectures you never use. Etched’s design bakes the transformer into silicon.",
+            "3. The cost math changes instantly.\n\nYour inference bill could drop 10x. That’s not optimization—it’s a new floor for deployment.",
+            "4. Most competitors sell Swiss Army knives.\n\nThey handle vision, speech, transformers—but pay for versatility you don’t need. Etched chose one job.",
+            "5. Does your team bet on general or specialized?\n\nPull your last inference bill. If 80% runs transformers, ask: Why are you paying for the rest?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Etched hit ten billion dollars in valuation.",
+            "They sold a chip for transformers only.",
+            "Most chips try to do everything.",
+            "This one slashes inference costs tenfold.",
+            "Is your team betting on general silicon?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your next inference bill could drop by 10x.\n\nEtched just hit a $10.3B valuation selling a chip that runs *only* transformer models—nothing else. Most AI chips are general-purpose, wasting resources on architectures you never use. 📉 Etched bakes the transformer into silicon, cutting costs per query to a new floor.\n\nFor anyone deploying AI: your deployment math just changed. 💸\n\nPull your last inference bill. If 80% runs transformers, why are you paying for the rest?"
+        }
+      },
+      "instagram_caption": "Your next inference bill could drop by 10x.\n\nEtched just hit a $10.3B valuation selling a chip that runs *only* transformer models—nothing else. Most AI chips are general-purpose, wasting resources on architectures you never use. 📉 Etched bakes the transformer into silicon, cutting costs per query to a new floor.\n\nFor anyone deploying AI: your deployment math just changed. 💸\n\nPull your last inference bill. If 80% runs transformers, why are you paying for the rest?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI bill could drop 10x.",
+          "description": "Etched hit $10.3B selling a chip that only runs transformers, slashing inference costs dramatically.",
+          "visual_hint": "Chip with dollar signs",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip closeup money"
+        },
+        {
+          "hook": "Why pay for useless versatility?",
+          "description": "General AI chips waste resources on architectures you never use. Etched bakes the transformer into silicon.",
+          "visual_hint": "Teardown of two chips",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server motherboard chips",
+          "image": "https://images.pexels.com/photos/8108712/pexels-photo-8108712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One algorithm. One chip.",
+          "description": "Most competitors sell Swiss Army knives for AI. Etched chose one job and optimized it to perfection.",
+          "visual_hint": "Laser cutting through metal",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laser cutting machine",
+          "image": "https://images.pexels.com/photos/36522023/pexels-photo-36522023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inference costs hit a new floor.",
+          "description": "Your inference bill could drop 10x. That's not optimization—it's a new floor for deployment.",
+          "visual_hint": "Graph plunging downward",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your last inference bill.",
+          "description": "If 80% runs transformers, ask your team: why pay for the rest? Comment your thoughts below.",
+          "visual_hint": "Calculator with receipt",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calculator invoice paper",
+          "image": "https://images.pexels.com/photos/7680692/pexels-photo-7680692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+      "savedAt": "2026-07-23T15:48:16.574Z",
+      "sourceId": "8d7c08e5e756a91053a3a4e547de718a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "amd-to-invest-up-to-5-billion-in-anthropic-under-a",
       "prompt_version": "1.0.0",
       "status": "published",
