@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+  "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+  "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+  "slides": [
+    "AMD just challenged Nvidia's AI throne — can Helios deliver?",
+    "This rack-scale system links thousands of GPUs as one.",
+    "Yet early benchmarks show it trails Nvidia in training speed.",
+    "Your next AI cluster may finally have a cheaper alternative.",
+    "Test AMD's software stack today before committing to vendors."
+  ],
+  "thread_text": [
+    "1. Can Helios beat Nvidia?\n\nAMD’s Helios cluster links thousands of GPUs as one system, but early benchmarks show it trails Nvidia in training speed.",
+    "2. Rack-scale twist\n\nThe unified architecture aims to simplify data movement, yet raw throughput still lags behind Nvidia’s latest.",
+    "3. Price is the real weapon\n\nIf Helios can’t win on speed, its cheaper alternative may disrupt AI cluster budgets for good.",
+    "4. Software stack gap\n\nAMD’s ROCm software remains less mature than CUDA — a critical hurdle for developers considering the switch.",
+    "5. Test before you bet\n\nDownload AMD’s software stack today and run a small model. Does it meet your latency needs?"
+  ],
+  "video_script": [
+    "AMD challenges Nvidia with Helios cluster.",
+    "It links thousands of GPUs together.",
+    "But benchmarks show slower training speeds.",
+    "Yet cheaper hardware may change budgets.",
+    "Test AMD’s software stack now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Helios beat Nvidia?\n\nAMD’s Helios cluster links thousands of GPUs as one system, but early benchmarks show it trails Nvidia in training speed.",
+        "2. Rack-scale twist\n\nThe unified architecture aims to simplify data movement, yet raw throughput still lags behind Nvidia’s latest.",
+        "3. Price is the real weapon\n\nIf Helios can’t win on speed, its cheaper alternative may disrupt AI cluster budgets for good.",
+        "4. Software stack gap\n\nAMD’s ROCm software remains less mature than CUDA — a critical hurdle for developers considering the switch.",
+        "5. Test before you bet\n\nDownload AMD’s software stack today and run a small model. Does it meet your latency needs?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AMD challenges Nvidia with Helios cluster.",
+        "It links thousands of GPUs together.",
+        "But benchmarks show slower training speeds.",
+        "Yet cheaper hardware may change budgets.",
+        "Test AMD’s software stack now."
+      ]
+    },
+    "instagram": {
+      "caption": "Thousands of AMD GPUs now link together as one giant system called Helios — yet early tests show it still trains AI models slower than Nvidia’s latest.\n\nAMD is betting on cheaper hardware, not top speed, to break Nvidia’s grip. 🏎️ Its ROCm software stack, however, still lags behind CUDA in developer maturity.\n\nIf you build AI models, your next cluster budget could drop significantly — if you're willing to trade raw training speed for cost. 💸\n\nDownload AMD’s ROCm tools and run a small model this week: do you hit your latency targets? ⚙️"
+    }
+  },
+  "instagram_caption": "Thousands of AMD GPUs now link together as one giant system called Helios — yet early tests show it still trains AI models slower than Nvidia’s latest.\n\nAMD is betting on cheaper hardware, not top speed, to break Nvidia’s grip. 🏎️ Its ROCm software stack, however, still lags behind CUDA in developer maturity.\n\nIf you build AI models, your next cluster budget could drop significantly — if you're willing to trade raw training speed for cost. 💸\n\nDownload AMD’s ROCm tools and run a small model this week: do you hit your latency targets? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Can AMD steal Nvidia's crown?",
+      "description": "Helios links thousands of GPUs as one, but early benchmarks show it trails Nvidia in training speed.",
+      "visual_hint": "Colossal server rack with blue LEDs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server rack"
+    },
+    {
+      "hook": "Unified architecture, slower results",
+      "description": "Rack-scale design simplifies data movement, yet raw throughput still lags behind Nvidia's latest.",
+      "visual_hint": "Network cables connecting racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Price could disrupt budgets",
+      "description": "If Helios can't win on speed, its cheaper alternative may shake up AI cluster spending.",
+      "visual_hint": "Price tag on a GPU cluster",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "price tag GPU",
+      "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "ROCm vs CUDA: the real gap",
+      "description": "AMD's software stack is less mature than CUDA, a critical hurdle for developers considering a switch.",
+      "visual_hint": "Code editor with two platforms side by side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test ROCm before you commit",
+      "description": "Download AMD's software stack today and run a small model to check latency needs.",
+      "visual_hint": "Download icon on a laptop screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download button",
+      "image": "https://images.pexels.com/photos/12648992/pexels-photo-12648992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+  "savedAt": "2026-07-23T22:48:29.564Z",
+  "sourceId": "2a9598e40ea54824dafaa1abc9c7c369"
+}

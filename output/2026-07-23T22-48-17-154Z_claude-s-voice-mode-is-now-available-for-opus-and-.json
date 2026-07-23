@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-s-voice-mode-is-now-available-for-opus-and-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude’s voice mode is now available for Opus and Sonnet",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+  "pubDate": "2026-07-23T19:00:00.000Z",
+  "slides": [
+    "Claude's voice mode is live—but who gets it first?",
+    "Only Opus and Sonnet users can access it now.",
+    "It understands tone but not yet your accent perfectly.",
+    "You can dictate complex prompts instead of typing.",
+    "Try asking Claude a question out loud today."
+  ],
+  "thread_text": [
+    "1. Who gets Claude’s voice first?\n\nOnly Opus and Sonnet users can access it now — everyone else is locked out.",
+    "2. It hears your tone.\n\nClaude detects mood but still struggles with non-native accents. Perfect for sarcasm, tricky for Singaporean slang.",
+    "3. Stop typing everything.\n\nDictate complex prompts aloud instead of hammering the keyboard. Hands-free prompt engineering is finally here.",
+    "4. The hidden limit.\n\nVoice mode understands intent, but slur your words and it may guess wrong. Precision still matters.",
+    "5. Try it today.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you time or create new edits? Test once and decide."
+  ],
+  "video_script": [
+    "Claude’s voice mode is live.",
+    "Only Opus and Sonnet get it.",
+    "It catches tone, not accents well.",
+    "Dictate prompts instead of typing.",
+    "Ask Claude a question out loud."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who gets Claude’s voice first?\n\nOnly Opus and Sonnet users can access it now — everyone else is locked out.",
+        "2. It hears your tone.\n\nClaude detects mood but still struggles with non-native accents. Perfect for sarcasm, tricky for Singaporean slang.",
+        "3. Stop typing everything.\n\nDictate complex prompts aloud instead of hammering the keyboard. Hands-free prompt engineering is finally here.",
+        "4. The hidden limit.\n\nVoice mode understands intent, but slur your words and it may guess wrong. Precision still matters.",
+        "5. Try it today.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you time or create new edits? Test once and decide."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude’s voice mode is live.",
+        "Only Opus and Sonnet get it.",
+        "It catches tone, not accents well.",
+        "Dictate prompts instead of typing.",
+        "Ask Claude a question out loud."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude’s voice mode just dropped—but you need an Opus or Sonnet plan to use it. 🎤\n\nIt picks up your tone (great for sarcasm) but still fumbles with heavy accents and slurred words. You can now dictate complex prompts instead of typing every line out. 🗣️\n\nFor creators: this cuts keyboard time—but expect to edit if your pronunciation isn’t crisp.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you edits or create new ones?"
+    }
+  },
+  "instagram_caption": "Claude’s voice mode just dropped—but you need an Opus or Sonnet plan to use it. 🎤\n\nIt picks up your tone (great for sarcasm) but still fumbles with heavy accents and slurred words. You can now dictate complex prompts instead of typing every line out. 🗣️\n\nFor creators: this cuts keyboard time—but expect to edit if your pronunciation isn’t crisp.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you edits or create new ones?",
+  "carousel_slides": [
+    {
+      "hook": "Why can't you use it?",
+      "description": "Claude's voice mode is live, but only Opus and Sonnet users get access—everyone else is locked out.",
+      "visual_hint": "lock screen with access denied",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "locked screen smartphone"
+    },
+    {
+      "hook": "It reads your tone.",
+      "description": "Claude detects mood but struggles with non-native accents. Perfect for sarcasm, tricky for slang.",
+      "visual_hint": "sound wave and emoticons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave graph",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop typing forever.",
+      "description": "Dictate complex prompts aloud instead of typing. Hands-free prompt engineering is finally here.",
+      "visual_hint": "hand talking to microphone",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microphone close up",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One catch: slurred words.",
+      "description": "Voice mode understands intent, but slurred words may cause wrong guesses. Precision still matters.",
+      "visual_hint": "speech bubbles with question marks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "speech bubble icons",
+      "image": "https://images.pexels.com/photos/8015674/pexels-photo-8015674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it now & save time.",
+      "description": "Open Claude, dictate a five-line prompt aloud, and see if voice mode boosts your workflow.",
+      "visual_hint": "finger pressing record button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "record button smartphone",
+      "image": "https://images.pexels.com/photos/13614365/pexels-photo-13614365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-07-23T22:49:06.374Z",
+  "sourceId": "f7a651ced6714ba3b6f0f0dec8c989aa"
+}

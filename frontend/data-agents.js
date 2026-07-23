@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "claude-s-voice-mode-is-now-available-for-opus-and-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "pubDate": "2026-07-23T19:00:00.000Z",
+      "slides": [
+        "Claude's voice mode is live—but who gets it first?",
+        "Only Opus and Sonnet users can access it now.",
+        "It understands tone but not yet your accent perfectly.",
+        "You can dictate complex prompts instead of typing.",
+        "Try asking Claude a question out loud today."
+      ],
+      "thread_text": [
+        "1. Who gets Claude’s voice first?\n\nOnly Opus and Sonnet users can access it now — everyone else is locked out.",
+        "2. It hears your tone.\n\nClaude detects mood but still struggles with non-native accents. Perfect for sarcasm, tricky for Singaporean slang.",
+        "3. Stop typing everything.\n\nDictate complex prompts aloud instead of hammering the keyboard. Hands-free prompt engineering is finally here.",
+        "4. The hidden limit.\n\nVoice mode understands intent, but slur your words and it may guess wrong. Precision still matters.",
+        "5. Try it today.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you time or create new edits? Test once and decide."
+      ],
+      "video_script": [
+        "Claude’s voice mode is live.",
+        "Only Opus and Sonnet get it.",
+        "It catches tone, not accents well.",
+        "Dictate prompts instead of typing.",
+        "Ask Claude a question out loud."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who gets Claude’s voice first?\n\nOnly Opus and Sonnet users can access it now — everyone else is locked out.",
+            "2. It hears your tone.\n\nClaude detects mood but still struggles with non-native accents. Perfect for sarcasm, tricky for Singaporean slang.",
+            "3. Stop typing everything.\n\nDictate complex prompts aloud instead of hammering the keyboard. Hands-free prompt engineering is finally here.",
+            "4. The hidden limit.\n\nVoice mode understands intent, but slur your words and it may guess wrong. Precision still matters.",
+            "5. Try it today.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you time or create new edits? Test once and decide."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude’s voice mode is live.",
+            "Only Opus and Sonnet get it.",
+            "It catches tone, not accents well.",
+            "Dictate prompts instead of typing.",
+            "Ask Claude a question out loud."
+          ]
+        },
+        "instagram": {
+          "caption": "Claude’s voice mode just dropped—but you need an Opus or Sonnet plan to use it. 🎤\n\nIt picks up your tone (great for sarcasm) but still fumbles with heavy accents and slurred words. You can now dictate complex prompts instead of typing every line out. 🗣️\n\nFor creators: this cuts keyboard time—but expect to edit if your pronunciation isn’t crisp.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you edits or create new ones?"
+        }
+      },
+      "instagram_caption": "Claude’s voice mode just dropped—but you need an Opus or Sonnet plan to use it. 🎤\n\nIt picks up your tone (great for sarcasm) but still fumbles with heavy accents and slurred words. You can now dictate complex prompts instead of typing every line out. 🗣️\n\nFor creators: this cuts keyboard time—but expect to edit if your pronunciation isn’t crisp.\n\nOpen Claude right now and dictate a five-line prompt. Does it save you edits or create new ones?",
+      "carousel_slides": [
+        {
+          "hook": "Why can't you use it?",
+          "description": "Claude's voice mode is live, but only Opus and Sonnet users get access—everyone else is locked out.",
+          "visual_hint": "lock screen with access denied",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "locked screen smartphone"
+        },
+        {
+          "hook": "It reads your tone.",
+          "description": "Claude detects mood but struggles with non-native accents. Perfect for sarcasm, tricky for slang.",
+          "visual_hint": "sound wave and emoticons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave graph",
+          "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop typing forever.",
+          "description": "Dictate complex prompts aloud instead of typing. Hands-free prompt engineering is finally here.",
+          "visual_hint": "hand talking to microphone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microphone close up",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One catch: slurred words.",
+          "description": "Voice mode understands intent, but slurred words may cause wrong guesses. Precision still matters.",
+          "visual_hint": "speech bubbles with question marks",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "speech bubble icons",
+          "image": "https://images.pexels.com/photos/8015674/pexels-photo-8015674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it now & save time.",
+          "description": "Open Claude, dictate a five-line prompt aloud, and see if voice mode boosts your workflow.",
+          "visual_hint": "finger pressing record button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "record button smartphone",
+          "image": "https://images.pexels.com/photos/13614365/pexels-photo-13614365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-07-23T22:49:06.374Z",
+      "sourceId": "f7a651ced6714ba3b6f0f0dec8c989aa"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "alexa-plus-is-getting-an-ai-update-to-handle-more-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "pubDate": "2026-07-23T21:15:06.000Z",
+      "slides": [
+        "Alexa Plus gets smarter, but can it finally understand you?",
+        "It now processes multi-step requests without failing.",
+        "But its success rate plummets with vague commands.",
+        "You must phrase requests as precise, structured tasks.",
+        "Test one complex command today to see the gap."
+      ],
+      "thread_text": [
+        "Alexa Plus still fails you.\n\nIt processes multi-step requests without failing, but success rate plummets with vague commands.",
+        "Precision is now mandatory.\n\nYou must phrase requests as precise, structured tasks — not natural conversation.",
+        "The smarter upgrade hides a trap.\n\nYour everyday way of talking triggers failure instead of understanding.",
+        "Why vague speech breaks the AI.\n\nThe system expects explicit orders, not human ambiguity.",
+        "Test one complex command today.\n\nTry a vague request and a precise one — see the gap in results yourself."
+      ],
+      "video_script": [
+        "Alexa Plus now handles multi-step requests.",
+        "But it fails on vague commands.",
+        "You must phrase tasks precisely.",
+        "Everyday speech triggers errors.",
+        "Test a vague command yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Alexa Plus still fails you.\n\nIt processes multi-step requests without failing, but success rate plummets with vague commands.",
+            "Precision is now mandatory.\n\nYou must phrase requests as precise, structured tasks — not natural conversation.",
+            "The smarter upgrade hides a trap.\n\nYour everyday way of talking triggers failure instead of understanding.",
+            "Why vague speech breaks the AI.\n\nThe system expects explicit orders, not human ambiguity.",
+            "Test one complex command today.\n\nTry a vague request and a precise one — see the gap in results yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Alexa Plus now handles multi-step requests.",
+            "But it fails on vague commands.",
+            "You must phrase tasks precisely.",
+            "Everyday speech triggers errors.",
+            "Test a vague command yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Alexa Plus now handles multi-step requests without crashing, but its success rate drops hard with vague commands.  \nYou have to phrase requests as precise, structured tasks — natural conversation triggers failure instead of understanding.  \nEveryday ambiguity breaks the system; it expects explicit orders, not human fuzziness.  \nFor anyone relying on voice tools, this means adjusting how you speak to get reliable results instead of random misses.  \nWhat's the last vague command you gave that flopped? Test one complex request both ways and see the gap yourself."
+        }
+      },
+      "instagram_caption": "Alexa Plus now handles multi-step requests without crashing, but its success rate drops hard with vague commands.  \nYou have to phrase requests as precise, structured tasks — natural conversation triggers failure instead of understanding.  \nEveryday ambiguity breaks the system; it expects explicit orders, not human fuzziness.  \nFor anyone relying on voice tools, this means adjusting how you speak to get reliable results instead of random misses.  \nWhat's the last vague command you gave that flopped? Test one complex request both ways and see the gap yourself.",
+      "carousel_slides": [
+        {
+          "hook": "Your habit breaks Alexa Plus.",
+          "description": "Success rate plummets when you use vague commands instead of precise instructions.",
+          "visual_hint": "person speaking to smart speaker",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart speaker room"
+        },
+        {
+          "hook": "Multi-step? No problem.",
+          "description": "It handles complex sequences flawlessly but fails with ambiguous everyday language.",
+          "visual_hint": "checkmark on task list",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "task list checklist",
+          "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Natural speech triggers failure.",
+          "description": "Alexa expects structured tasks, not human ambiguity — your casual talk misleads it.",
+          "visual_hint": "sound waves distorting into error",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound wave abstract",
+          "image": "https://images.pexels.com/photos/15422736/pexels-photo-15422736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Precision is now mandatory.",
+          "description": "Phrasing commands as explicit steps decides success or failure.",
+          "visual_hint": "finger pointing at written command",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "finger pointing text",
+          "image": "https://images.pexels.com/photos/15939996/pexels-photo-15939996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test the gap yourself now.",
+          "description": "Try one vague request and one precise — see the dramatic difference in results.",
+          "visual_hint": "two speech bubbles, one check one cross",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "speech bubbles check cross",
+          "image": "https://images.pexels.com/photos/15505422/pexels-photo-15505422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-23T22:48:54.985Z",
+      "sourceId": "27b0ad2998637a52d1332f3c8dfc1e98"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-launched-a-new-ai-optimism-ad-set-to-a-song-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "pubDate": "Thu, 23 Jul 2026 16:28:50 +0000",
+      "slides": [
+        "Why sell AI with a song about human extinction?",
+        "Meta’s new ad features the track \"The End\".",
+        "The band wrote it as a warning, not a celebration.",
+        "Your perception of AI safety just got darker.",
+        "Ask yourself: whose end is the song really about?"
+      ],
+      "thread_text": [
+        "1. Why sell AI with a song about extinction?\n\nMeta’s new TV ad for its AI assistant features “The End” by The Doors — a track written as a warning, not a backdrop.",
+        "2. The band said it was a warning.\n\nThey called the song a commentary on destruction, not a celebration. Meta used it anyway to sell productivity.",
+        "3. Your perception of AI safety just got darker.\n\nIf a major AI company can turn a song about human extinction into background music, what else are they framing wrong?",
+        "4. The ad ran during a high-profile sports event.\n\nMillions saw an AI pitch over a soundtrack about ending everything. No context, no irony — just a commercial.",
+        "5. Ask yourself: whose end is the song really about?\n\nOpen the song lyrics and read them next to any Meta AI product page. Does the match still feel accidental?"
+      ],
+      "video_script": [
+        "Meta's AI ad uses 'The End'.",
+        "The band meant it as warning.",
+        "But Meta sold productivity with it.",
+        "Perception of AI safety just shifted.",
+        "Whose end is the song about?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why sell AI with a song about extinction?\n\nMeta’s new TV ad for its AI assistant features “The End” by The Doors — a track written as a warning, not a backdrop.",
+            "2. The band said it was a warning.\n\nThey called the song a commentary on destruction, not a celebration. Meta used it anyway to sell productivity.",
+            "3. Your perception of AI safety just got darker.\n\nIf a major AI company can turn a song about human extinction into background music, what else are they framing wrong?",
+            "4. The ad ran during a high-profile sports event.\n\nMillions saw an AI pitch over a soundtrack about ending everything. No context, no irony — just a commercial.",
+            "5. Ask yourself: whose end is the song really about?\n\nOpen the song lyrics and read them next to any Meta AI product page. Does the match still feel accidental?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI ad uses 'The End'.",
+            "The band meant it as warning.",
+            "But Meta sold productivity with it.",
+            "Perception of AI safety just shifted.",
+            "Whose end is the song about?"
+          ]
+        },
+        "instagram": {
+          "caption": "Meta ran an ad for its AI assistant during a major sports event, using \"The End\" by The Doors — a song the band wrote as a warning about human destruction. 🎵  \nThe ad offered no context or irony. Just a pitch over lyrics about extinction. Millions saw it, no one questioned the soundtrack.  \nIf you create any AI content, watch the framing carefully — the wrong music or tone can spin your message into a threat.  \nOpen those lyrics next to Meta’s product page. Whose end does the match serve? 🎥🤖"
+        }
+      },
+      "instagram_caption": "Meta ran an ad for its AI assistant during a major sports event, using \"The End\" by The Doors — a song the band wrote as a warning about human destruction. 🎵  \nThe ad offered no context or irony. Just a pitch over lyrics about extinction. Millions saw it, no one questioned the soundtrack.  \nIf you create any AI content, watch the framing carefully — the wrong music or tone can spin your message into a threat.  \nOpen those lyrics next to Meta’s product page. Whose end does the match serve? 🎥🤖",
+      "carousel_slides": [
+        {
+          "hook": "Why sell AI with extinction?",
+          "description": "Meta’s ad for its AI assistant uses The Doors’ \"The End\" — a song written as a warning against destruction.",
+          "visual_hint": "Doors album cover vinyl",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "The Doors album cover"
+        },
+        {
+          "hook": "They called it a warning.",
+          "description": "The band meant the track as a commentary on destruction, not hype. Meta used it to sell productivity anyway.",
+          "visual_hint": "band microphone on stage",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "concert stage microphone",
+          "image": "https://images.pexels.com/photos/17034474/pexels-photo-17034474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI safety perception just darkened.",
+          "description": "If a major AI firm frames a song about human extinction as background music, what else are they distorting?",
+          "visual_hint": "blurred server room lights",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Millions saw this during sports.",
+          "description": "The ad aired at a high-profile event — an AI pitch over a soundtrack about ending everything, with no irony.",
+          "visual_hint": "crowded stadium side view",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "crowded sports stadium",
+          "image": "https://images.pexels.com/photos/10287246/pexels-photo-10287246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Read lyrics next to Meta AI.",
+          "description": "Open the song text and compare it to any Meta AI product page. Is the match still just accidental?",
+          "visual_hint": "lyric paper smartphone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen lyrics",
+          "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
+      "savedAt": "2026-07-23T22:48:43.242Z",
+      "sourceId": "5ba8a5eff9b76c1601f8ce929e7019aa"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "slides": [
+        "AMD just challenged Nvidia's AI throne — can Helios deliver?",
+        "This rack-scale system links thousands of GPUs as one.",
+        "Yet early benchmarks show it trails Nvidia in training speed.",
+        "Your next AI cluster may finally have a cheaper alternative.",
+        "Test AMD's software stack today before committing to vendors."
+      ],
+      "thread_text": [
+        "1. Can Helios beat Nvidia?\n\nAMD’s Helios cluster links thousands of GPUs as one system, but early benchmarks show it trails Nvidia in training speed.",
+        "2. Rack-scale twist\n\nThe unified architecture aims to simplify data movement, yet raw throughput still lags behind Nvidia’s latest.",
+        "3. Price is the real weapon\n\nIf Helios can’t win on speed, its cheaper alternative may disrupt AI cluster budgets for good.",
+        "4. Software stack gap\n\nAMD’s ROCm software remains less mature than CUDA — a critical hurdle for developers considering the switch.",
+        "5. Test before you bet\n\nDownload AMD’s software stack today and run a small model. Does it meet your latency needs?"
+      ],
+      "video_script": [
+        "AMD challenges Nvidia with Helios cluster.",
+        "It links thousands of GPUs together.",
+        "But benchmarks show slower training speeds.",
+        "Yet cheaper hardware may change budgets.",
+        "Test AMD’s software stack now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Helios beat Nvidia?\n\nAMD’s Helios cluster links thousands of GPUs as one system, but early benchmarks show it trails Nvidia in training speed.",
+            "2. Rack-scale twist\n\nThe unified architecture aims to simplify data movement, yet raw throughput still lags behind Nvidia’s latest.",
+            "3. Price is the real weapon\n\nIf Helios can’t win on speed, its cheaper alternative may disrupt AI cluster budgets for good.",
+            "4. Software stack gap\n\nAMD’s ROCm software remains less mature than CUDA — a critical hurdle for developers considering the switch.",
+            "5. Test before you bet\n\nDownload AMD’s software stack today and run a small model. Does it meet your latency needs?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AMD challenges Nvidia with Helios cluster.",
+            "It links thousands of GPUs together.",
+            "But benchmarks show slower training speeds.",
+            "Yet cheaper hardware may change budgets.",
+            "Test AMD’s software stack now."
+          ]
+        },
+        "instagram": {
+          "caption": "Thousands of AMD GPUs now link together as one giant system called Helios — yet early tests show it still trains AI models slower than Nvidia’s latest.\n\nAMD is betting on cheaper hardware, not top speed, to break Nvidia’s grip. 🏎️ Its ROCm software stack, however, still lags behind CUDA in developer maturity.\n\nIf you build AI models, your next cluster budget could drop significantly — if you're willing to trade raw training speed for cost. 💸\n\nDownload AMD’s ROCm tools and run a small model this week: do you hit your latency targets? ⚙️"
+        }
+      },
+      "instagram_caption": "Thousands of AMD GPUs now link together as one giant system called Helios — yet early tests show it still trains AI models slower than Nvidia’s latest.\n\nAMD is betting on cheaper hardware, not top speed, to break Nvidia’s grip. 🏎️ Its ROCm software stack, however, still lags behind CUDA in developer maturity.\n\nIf you build AI models, your next cluster budget could drop significantly — if you're willing to trade raw training speed for cost. 💸\n\nDownload AMD’s ROCm tools and run a small model this week: do you hit your latency targets? ⚙️",
+      "carousel_slides": [
+        {
+          "hook": "Can AMD steal Nvidia's crown?",
+          "description": "Helios links thousands of GPUs as one, but early benchmarks show it trails Nvidia in training speed.",
+          "visual_hint": "Colossal server rack with blue LEDs",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server rack"
+        },
+        {
+          "hook": "Unified architecture, slower results",
+          "description": "Rack-scale design simplifies data movement, yet raw throughput still lags behind Nvidia's latest.",
+          "visual_hint": "Network cables connecting racks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Price could disrupt budgets",
+          "description": "If Helios can't win on speed, its cheaper alternative may shake up AI cluster spending.",
+          "visual_hint": "Price tag on a GPU cluster",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "price tag GPU",
+          "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "ROCm vs CUDA: the real gap",
+          "description": "AMD's software stack is less mature than CUDA, a critical hurdle for developers considering a switch.",
+          "visual_hint": "Code editor with two platforms side by side",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test ROCm before you commit",
+          "description": "Download AMD's software stack today and run a small model to check latency needs.",
+          "visual_hint": "Download icon on a laptop screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "download button",
+          "image": "https://images.pexels.com/photos/12648992/pexels-photo-12648992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+      "savedAt": "2026-07-23T22:48:29.564Z",
+      "sourceId": "2a9598e40ea54824dafaa1abc9c7c369"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-makes-chatgpt-health-available-to-all-us-us",
       "prompt_version": "1.0.0",
       "status": "published",

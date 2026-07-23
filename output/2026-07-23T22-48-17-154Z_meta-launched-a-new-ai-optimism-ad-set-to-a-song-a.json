@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-launched-a-new-ai-optimism-ad-set-to-a-song-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+  "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+  "pubDate": "Thu, 23 Jul 2026 16:28:50 +0000",
+  "slides": [
+    "Why sell AI with a song about human extinction?",
+    "Meta’s new ad features the track \"The End\".",
+    "The band wrote it as a warning, not a celebration.",
+    "Your perception of AI safety just got darker.",
+    "Ask yourself: whose end is the song really about?"
+  ],
+  "thread_text": [
+    "1. Why sell AI with a song about extinction?\n\nMeta’s new TV ad for its AI assistant features “The End” by The Doors — a track written as a warning, not a backdrop.",
+    "2. The band said it was a warning.\n\nThey called the song a commentary on destruction, not a celebration. Meta used it anyway to sell productivity.",
+    "3. Your perception of AI safety just got darker.\n\nIf a major AI company can turn a song about human extinction into background music, what else are they framing wrong?",
+    "4. The ad ran during a high-profile sports event.\n\nMillions saw an AI pitch over a soundtrack about ending everything. No context, no irony — just a commercial.",
+    "5. Ask yourself: whose end is the song really about?\n\nOpen the song lyrics and read them next to any Meta AI product page. Does the match still feel accidental?"
+  ],
+  "video_script": [
+    "Meta's AI ad uses 'The End'.",
+    "The band meant it as warning.",
+    "But Meta sold productivity with it.",
+    "Perception of AI safety just shifted.",
+    "Whose end is the song about?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why sell AI with a song about extinction?\n\nMeta’s new TV ad for its AI assistant features “The End” by The Doors — a track written as a warning, not a backdrop.",
+        "2. The band said it was a warning.\n\nThey called the song a commentary on destruction, not a celebration. Meta used it anyway to sell productivity.",
+        "3. Your perception of AI safety just got darker.\n\nIf a major AI company can turn a song about human extinction into background music, what else are they framing wrong?",
+        "4. The ad ran during a high-profile sports event.\n\nMillions saw an AI pitch over a soundtrack about ending everything. No context, no irony — just a commercial.",
+        "5. Ask yourself: whose end is the song really about?\n\nOpen the song lyrics and read them next to any Meta AI product page. Does the match still feel accidental?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI ad uses 'The End'.",
+        "The band meant it as warning.",
+        "But Meta sold productivity with it.",
+        "Perception of AI safety just shifted.",
+        "Whose end is the song about?"
+      ]
+    },
+    "instagram": {
+      "caption": "Meta ran an ad for its AI assistant during a major sports event, using \"The End\" by The Doors — a song the band wrote as a warning about human destruction. 🎵  \nThe ad offered no context or irony. Just a pitch over lyrics about extinction. Millions saw it, no one questioned the soundtrack.  \nIf you create any AI content, watch the framing carefully — the wrong music or tone can spin your message into a threat.  \nOpen those lyrics next to Meta’s product page. Whose end does the match serve? 🎥🤖"
+    }
+  },
+  "instagram_caption": "Meta ran an ad for its AI assistant during a major sports event, using \"The End\" by The Doors — a song the band wrote as a warning about human destruction. 🎵  \nThe ad offered no context or irony. Just a pitch over lyrics about extinction. Millions saw it, no one questioned the soundtrack.  \nIf you create any AI content, watch the framing carefully — the wrong music or tone can spin your message into a threat.  \nOpen those lyrics next to Meta’s product page. Whose end does the match serve? 🎥🤖",
+  "carousel_slides": [
+    {
+      "hook": "Why sell AI with extinction?",
+      "description": "Meta’s ad for its AI assistant uses The Doors’ \"The End\" — a song written as a warning against destruction.",
+      "visual_hint": "Doors album cover vinyl",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "The Doors album cover"
+    },
+    {
+      "hook": "They called it a warning.",
+      "description": "The band meant the track as a commentary on destruction, not hype. Meta used it to sell productivity anyway.",
+      "visual_hint": "band microphone on stage",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "concert stage microphone",
+      "image": "https://images.pexels.com/photos/17034474/pexels-photo-17034474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI safety perception just darkened.",
+      "description": "If a major AI firm frames a song about human extinction as background music, what else are they distorting?",
+      "visual_hint": "blurred server room lights",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Millions saw this during sports.",
+      "description": "The ad aired at a high-profile event — an AI pitch over a soundtrack about ending everything, with no irony.",
+      "visual_hint": "crowded stadium side view",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowded sports stadium",
+      "image": "https://images.pexels.com/photos/10287246/pexels-photo-10287246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Read lyrics next to Meta AI.",
+      "description": "Open the song text and compare it to any Meta AI product page. Is the match still just accidental?",
+      "visual_hint": "lyric paper smartphone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen lyrics",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
+  "savedAt": "2026-07-23T22:48:43.242Z",
+  "sourceId": "5ba8a5eff9b76c1601f8ce929e7019aa"
+}

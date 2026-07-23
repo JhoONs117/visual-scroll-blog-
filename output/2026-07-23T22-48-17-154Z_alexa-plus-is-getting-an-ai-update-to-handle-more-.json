@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alexa-plus-is-getting-an-ai-update-to-handle-more-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+  "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+  "pubDate": "2026-07-23T21:15:06.000Z",
+  "slides": [
+    "Alexa Plus gets smarter, but can it finally understand you?",
+    "It now processes multi-step requests without failing.",
+    "But its success rate plummets with vague commands.",
+    "You must phrase requests as precise, structured tasks.",
+    "Test one complex command today to see the gap."
+  ],
+  "thread_text": [
+    "Alexa Plus still fails you.\n\nIt processes multi-step requests without failing, but success rate plummets with vague commands.",
+    "Precision is now mandatory.\n\nYou must phrase requests as precise, structured tasks — not natural conversation.",
+    "The smarter upgrade hides a trap.\n\nYour everyday way of talking triggers failure instead of understanding.",
+    "Why vague speech breaks the AI.\n\nThe system expects explicit orders, not human ambiguity.",
+    "Test one complex command today.\n\nTry a vague request and a precise one — see the gap in results yourself."
+  ],
+  "video_script": [
+    "Alexa Plus now handles multi-step requests.",
+    "But it fails on vague commands.",
+    "You must phrase tasks precisely.",
+    "Everyday speech triggers errors.",
+    "Test a vague command yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Alexa Plus still fails you.\n\nIt processes multi-step requests without failing, but success rate plummets with vague commands.",
+        "Precision is now mandatory.\n\nYou must phrase requests as precise, structured tasks — not natural conversation.",
+        "The smarter upgrade hides a trap.\n\nYour everyday way of talking triggers failure instead of understanding.",
+        "Why vague speech breaks the AI.\n\nThe system expects explicit orders, not human ambiguity.",
+        "Test one complex command today.\n\nTry a vague request and a precise one — see the gap in results yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Alexa Plus now handles multi-step requests.",
+        "But it fails on vague commands.",
+        "You must phrase tasks precisely.",
+        "Everyday speech triggers errors.",
+        "Test a vague command yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Alexa Plus now handles multi-step requests without crashing, but its success rate drops hard with vague commands.  \nYou have to phrase requests as precise, structured tasks — natural conversation triggers failure instead of understanding.  \nEveryday ambiguity breaks the system; it expects explicit orders, not human fuzziness.  \nFor anyone relying on voice tools, this means adjusting how you speak to get reliable results instead of random misses.  \nWhat's the last vague command you gave that flopped? Test one complex request both ways and see the gap yourself."
+    }
+  },
+  "instagram_caption": "Alexa Plus now handles multi-step requests without crashing, but its success rate drops hard with vague commands.  \nYou have to phrase requests as precise, structured tasks — natural conversation triggers failure instead of understanding.  \nEveryday ambiguity breaks the system; it expects explicit orders, not human fuzziness.  \nFor anyone relying on voice tools, this means adjusting how you speak to get reliable results instead of random misses.  \nWhat's the last vague command you gave that flopped? Test one complex request both ways and see the gap yourself.",
+  "carousel_slides": [
+    {
+      "hook": "Your habit breaks Alexa Plus.",
+      "description": "Success rate plummets when you use vague commands instead of precise instructions.",
+      "visual_hint": "person speaking to smart speaker",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart speaker room"
+    },
+    {
+      "hook": "Multi-step? No problem.",
+      "description": "It handles complex sequences flawlessly but fails with ambiguous everyday language.",
+      "visual_hint": "checkmark on task list",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "task list checklist",
+      "image": "https://images.pexels.com/photos/8581008/pexels-photo-8581008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Natural speech triggers failure.",
+      "description": "Alexa expects structured tasks, not human ambiguity — your casual talk misleads it.",
+      "visual_hint": "sound waves distorting into error",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave abstract",
+      "image": "https://images.pexels.com/photos/15422736/pexels-photo-15422736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Precision is now mandatory.",
+      "description": "Phrasing commands as explicit steps decides success or failure.",
+      "visual_hint": "finger pointing at written command",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger pointing text",
+      "image": "https://images.pexels.com/photos/15939996/pexels-photo-15939996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the gap yourself now.",
+      "description": "Try one vague request and one precise — see the dramatic difference in results.",
+      "visual_hint": "two speech bubbles, one check one cross",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "speech bubbles check cross",
+      "image": "https://images.pexels.com/photos/15505422/pexels-photo-15505422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-23T22:48:54.985Z",
+  "sourceId": "27b0ad2998637a52d1332f3c8dfc1e98"
+}
