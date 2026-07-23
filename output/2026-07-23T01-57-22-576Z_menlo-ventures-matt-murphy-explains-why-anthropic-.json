@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "menlo-ventures-matt-murphy-explains-why-anthropic-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+  "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+  "pubDate": "Wed, 22 Jul 2026 18:02:57 +0000",
+  "slides": [
+    "Why is Anthropic outpacing rivals? Not the model.",
+    "Claude’s safety-first approach wins enterprise trust.",
+    "But enterprises care more about consistency than intelligence.",
+    "You must now test Claude’s reliability in your workflow.",
+    "Switch one task to Claude this week and measure errors."
+  ],
+  "thread_text": [
+    "1. Why they’re winning\n\nAnthropic isn’t outpacing rivals on model intelligence. They’re winning on trust.",
+    "2. Safety sells\n\nClaude’s safety-first design isn’t a marketing gimmick. Enterprises are signing contracts because of it.",
+    "3. Intelligence isn’t enough\n\nEnterprises choose Claude not because it’s smarter, but because it’s consistent. Reliability beats raw capability in production.",
+    "4. Your turn to test\n\nYou must now put Claude’s reliability into your own workflow. Don’t take their word for it.",
+    "5. Switch one task this week\n\nTake one task you run on another model, move it to Claude, and count the errors. Does the consistency hold for you?"
+  ],
+  "video_script": [
+    "Anthropic wins on trust, not model power.",
+    "Claude’s safety-first approach lands enterprise deals.",
+    "Firms want consistency more than intelligence.",
+    "Now test Claude’s reliability in your workflow.",
+    "Swap one task to Claude and measure errors."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why they’re winning\n\nAnthropic isn’t outpacing rivals on model intelligence. They’re winning on trust.",
+        "2. Safety sells\n\nClaude’s safety-first design isn’t a marketing gimmick. Enterprises are signing contracts because of it.",
+        "3. Intelligence isn’t enough\n\nEnterprises choose Claude not because it’s smarter, but because it’s consistent. Reliability beats raw capability in production.",
+        "4. Your turn to test\n\nYou must now put Claude’s reliability into your own workflow. Don’t take their word for it.",
+        "5. Switch one task this week\n\nTake one task you run on another model, move it to Claude, and count the errors. Does the consistency hold for you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic wins on trust, not model power.",
+        "Claude’s safety-first approach lands enterprise deals.",
+        "Firms want consistency more than intelligence.",
+        "Now test Claude’s reliability in your workflow.",
+        "Swap one task to Claude and measure errors."
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic isn’t winning because Claude is smarter. Menlo Ventures says it’s winning on trust alone. 🛡️\n\nEnterprises are signing contracts with Claude not for raw intelligence, but for consistency. In production, reliability beats capability every time. 📉\n\nIf you create or publish content, this means your workflow might run smoother with fewer AI errors—but you have to prove it yourself.\n\nSwitch one task to Claude this week. Did it produce fewer errors than your current model? 📊"
+    }
+  },
+  "instagram_caption": "Anthropic isn’t winning because Claude is smarter. Menlo Ventures says it’s winning on trust alone. 🛡️\n\nEnterprises are signing contracts with Claude not for raw intelligence, but for consistency. In production, reliability beats capability every time. 📉\n\nIf you create or publish content, this means your workflow might run smoother with fewer AI errors—but you have to prove it yourself.\n\nSwitch one task to Claude this week. Did it produce fewer errors than your current model? 📊",
+  "carousel_slides": [
+    {
+      "hook": "Consistency beats raw intelligence.",
+      "description": "Enterprises choose Claude not for smarter models, but for reliable, consistent performance in production.",
+      "visual_hint": "Two graphs comparing consistency",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Safety sells, not gimmicks.",
+      "description": "Claude's safety-first design wins enterprise contracts by building trust, not just hype.",
+      "visual_hint": "Security badge with checkmark",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Intelligence isn't enough.",
+      "description": "Reliability beats raw capability in production: Claude's consistency drives enterprise adoption.",
+      "visual_hint": "Factory robot repeating task",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it in your workflow.",
+      "description": "Don't just trust claims — put Claude's reliability into your own tasks and measure results.",
+      "visual_hint": "Person testing software on laptop",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Switch one task this week.",
+      "description": "Move one task from another model to Claude, count errors, and see if consistency holds for you.",
+      "visual_hint": "Calendar with task checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "savedAt": "2026-07-23T01:57:45.425Z",
+  "sourceId": "138565f55ec2dfee1bf62c4027c100c8"
+}

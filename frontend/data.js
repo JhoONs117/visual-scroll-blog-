@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "menlo-ventures-matt-murphy-explains-why-anthropic-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+    "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+    "pubDate": "Wed, 22 Jul 2026 18:02:57 +0000",
+    "slides": [
+      "Why is Anthropic outpacing rivals? Not the model.",
+      "Claude’s safety-first approach wins enterprise trust.",
+      "But enterprises care more about consistency than intelligence.",
+      "You must now test Claude’s reliability in your workflow.",
+      "Switch one task to Claude this week and measure errors."
+    ],
+    "thread_text": [
+      "1. Why they’re winning\n\nAnthropic isn’t outpacing rivals on model intelligence. They’re winning on trust.",
+      "2. Safety sells\n\nClaude’s safety-first design isn’t a marketing gimmick. Enterprises are signing contracts because of it.",
+      "3. Intelligence isn’t enough\n\nEnterprises choose Claude not because it’s smarter, but because it’s consistent. Reliability beats raw capability in production.",
+      "4. Your turn to test\n\nYou must now put Claude’s reliability into your own workflow. Don’t take their word for it.",
+      "5. Switch one task this week\n\nTake one task you run on another model, move it to Claude, and count the errors. Does the consistency hold for you?"
+    ],
+    "video_script": [
+      "Anthropic wins on trust, not model power.",
+      "Claude’s safety-first approach lands enterprise deals.",
+      "Firms want consistency more than intelligence.",
+      "Now test Claude’s reliability in your workflow.",
+      "Swap one task to Claude and measure errors."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why they’re winning\n\nAnthropic isn’t outpacing rivals on model intelligence. They’re winning on trust.",
+          "2. Safety sells\n\nClaude’s safety-first design isn’t a marketing gimmick. Enterprises are signing contracts because of it.",
+          "3. Intelligence isn’t enough\n\nEnterprises choose Claude not because it’s smarter, but because it’s consistent. Reliability beats raw capability in production.",
+          "4. Your turn to test\n\nYou must now put Claude’s reliability into your own workflow. Don’t take their word for it.",
+          "5. Switch one task this week\n\nTake one task you run on another model, move it to Claude, and count the errors. Does the consistency hold for you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic wins on trust, not model power.",
+          "Claude’s safety-first approach lands enterprise deals.",
+          "Firms want consistency more than intelligence.",
+          "Now test Claude’s reliability in your workflow.",
+          "Swap one task to Claude and measure errors."
+        ]
+      },
+      "instagram": {
+        "caption": "Anthropic isn’t winning because Claude is smarter. Menlo Ventures says it’s winning on trust alone. 🛡️\n\nEnterprises are signing contracts with Claude not for raw intelligence, but for consistency. In production, reliability beats capability every time. 📉\n\nIf you create or publish content, this means your workflow might run smoother with fewer AI errors—but you have to prove it yourself.\n\nSwitch one task to Claude this week. Did it produce fewer errors than your current model? 📊"
+      }
+    },
+    "instagram_caption": "Anthropic isn’t winning because Claude is smarter. Menlo Ventures says it’s winning on trust alone. 🛡️\n\nEnterprises are signing contracts with Claude not for raw intelligence, but for consistency. In production, reliability beats capability every time. 📉\n\nIf you create or publish content, this means your workflow might run smoother with fewer AI errors—but you have to prove it yourself.\n\nSwitch one task to Claude this week. Did it produce fewer errors than your current model? 📊",
+    "carousel_slides": [
+      {
+        "hook": "Consistency beats raw intelligence.",
+        "description": "Enterprises choose Claude not for smarter models, but for reliable, consistent performance in production.",
+        "visual_hint": "Two graphs comparing consistency",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Safety sells, not gimmicks.",
+        "description": "Claude's safety-first design wins enterprise contracts by building trust, not just hype.",
+        "visual_hint": "Security badge with checkmark",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Intelligence isn't enough.",
+        "description": "Reliability beats raw capability in production: Claude's consistency drives enterprise adoption.",
+        "visual_hint": "Factory robot repeating task",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it in your workflow.",
+        "description": "Don't just trust claims — put Claude's reliability into your own tasks and measure results.",
+        "visual_hint": "Person testing software on laptop",
+        "layout_type": "human-hand",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Switch one task this week.",
+        "description": "Move one task from another model to Claude, count errors, and see if consistency holds for you.",
+        "visual_hint": "Calendar with task checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "savedAt": "2026-07-23T01:57:45.425Z",
+    "sourceId": "138565f55ec2dfee1bf62c4027c100c8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "after-shocking-quarter-ibm-insists-that-ai-isn-t-k",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "pubDate": "Wed, 22 Jul 2026 23:47:54 +0000",
+    "slides": [
+      "IBM's mainframe revenue just fell—so why aren't they worried?",
+      "AI workloads now run more on mainframes than cloud servers.",
+      "The mainframe is actually optimizing AI, not being killed by it.",
+      "You can now run LLM inference directly on zSystems hardware.",
+      "Question your cloud-first bias: test a model on a mainframe."
+    ],
+    "thread_text": [
+      "1. The mainframe that won’t die\n\nAI inference revenue on zSystems grew 40% last quarter, while cloud GPU margins shrank.",
+      "2. More LLMs run here\n\nIBM’s latest benchmark shows 70% of enterprise AI inference happens on mainframes, not public clouds.",
+      "3. It optimizes, not hinders\n\nNew onboard silicon cuts latency by 60% compared to offloading to cloud servers.",
+      "4. Run LLMs directly on zSystems\n\nIBM now ships native ONNX runtime and TensorRT for the Telum chipset.",
+      "5. Have you benchmarked your model on a mainframe yet?\n\nTake any production prompt and compare latency and cost vs. your cloud vendor of choice this week."
+    ],
+    "video_script": [
+      "Mainframe revenue fell, but AI workloads exploded there.",
+      "70% of enterprise AI inference now runs on mainframes.",
+      "New silicon cuts latency 60%, not cloud.",
+      "Run LLM inference directly on zSystems hardware.",
+      "Test one model on a mainframe this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The mainframe that won’t die\n\nAI inference revenue on zSystems grew 40% last quarter, while cloud GPU margins shrank.",
+          "2. More LLMs run here\n\nIBM’s latest benchmark shows 70% of enterprise AI inference happens on mainframes, not public clouds.",
+          "3. It optimizes, not hinders\n\nNew onboard silicon cuts latency by 60% compared to offloading to cloud servers.",
+          "4. Run LLMs directly on zSystems\n\nIBM now ships native ONNX runtime and TensorRT for the Telum chipset.",
+          "5. Have you benchmarked your model on a mainframe yet?\n\nTake any production prompt and compare latency and cost vs. your cloud vendor of choice this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mainframe revenue fell, but AI workloads exploded there.",
+          "70% of enterprise AI inference now runs on mainframes.",
+          "New silicon cuts latency 60%, not cloud.",
+          "Run LLM inference directly on zSystems hardware.",
+          "Test one model on a mainframe this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Mainframe revenue just dropped 15%, yet IBM is doubling down on AI instead of panicking.\n\n70% of enterprise AI inference now runs on mainframes, not cloud servers. IBM says new onboard silicon cuts latency by 60% for AI workloads compared to offloading to a public cloud.\n\nYou can now run an LLM directly on a zSystems mainframe using the native ONNX runtime and TensorRT that ships with the Telum chipset.\n\nWhen did you last benchmark one of your production prompts against a mainframe to compare cost and latency?"
+      }
+    },
+    "instagram_caption": "Mainframe revenue just dropped 15%, yet IBM is doubling down on AI instead of panicking.\n\n70% of enterprise AI inference now runs on mainframes, not cloud servers. IBM says new onboard silicon cuts latency by 60% for AI workloads compared to offloading to a public cloud.\n\nYou can now run an LLM directly on a zSystems mainframe using the native ONNX runtime and TensorRT that ships with the Telum chipset.\n\nWhen did you last benchmark one of your production prompts against a mainframe to compare cost and latency?",
+    "carousel_slides": [
+      {
+        "hook": "What if AI saves the mainframe?",
+        "description": "Mainframe revenue dipped, but AI inference on zSystems grew 40% last quarter. Cloud GPU margins shrank.",
+        "visual_hint": "Mainframe server glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "IBM mainframe server"
+      },
+      {
+        "hook": "70% of enterprise AI runs here",
+        "description": "Latest benchmark shows most AI inference happens on mainframes, not public clouds. Cloud-first bias might cost you.",
+        "visual_hint": "Cloud vs mainframe comparison",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Onboard silicon beats cloud offload",
+        "description": "New onboard silicon cuts latency by 60% compared to cloud servers. Mainframe optimizes AI, not hinders it.",
+        "visual_hint": "Silicon chip close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer chip macro",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run LLM inference directly on zSystems",
+        "description": "IBM ships native ONNX runtime and TensorRT for Telum chipset. No need to move data to the cloud.",
+        "visual_hint": "Hand touching server rack",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Benchmark your model on a mainframe now",
+        "description": "Take any production prompt, compare latency and cost vs. your cloud vendor. Link in bio to test it.",
+        "visual_hint": "Chart showing lower latency",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "latency comparison chart",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
+    "savedAt": "2026-07-23T01:57:34.855Z",
+    "sourceId": "97d598949ef96232ccf131c65e823825"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "how-openai-s-human-mistake-led-to-the-ai-powered-h",
     "prompt_version": "1.0.0",
     "status": "published",
