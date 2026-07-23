@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "treasury-threatens-sanctions-after-white-house-cla",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+  "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+  "pubDate": "Wed, 22 Jul 2026 20:49:03 +0000",
+  "slides": [
+    "Did Moonshot steal Anthropic's secret model Fable?",
+    "Treasury now threatens sanctions over the alleged theft.",
+    "The White House claims Fable was distilled without permission.",
+    "Your compliance team must audit all model training data immediately.",
+    "One wrong dataset could bring federal penalties tomorrow."
+  ],
+  "thread_text": [
+    "1. Who stole Fable?\n\nMoonshot allegedly lifted Anthropic’s secret model Fable. Treasury just threatened sanctions.",
+    "2. White House stepped in.\n\nThe White House claims distillation happened without permission. That makes it a federal matter.",
+    "3. Your data is the risk.\n\nOne wrong training dataset can trigger federal penalties. Compliance teams must audit everything now.",
+    "4. Sanctions are real.\n\nTreasury’s threat isn’t symbolic. If the theft is proven, fines could hit tomorrow.",
+    "5. Audit your datasets today.\n\nTake one training dataset your team uses and trace its origin. If you can’t prove it’s clean, you have work to do."
+  ],
+  "video_script": [
+    "Did Moonshot steal Anthropic’s secret Fable model?",
+    "Treasury now threatens sanctions over the alleged theft.",
+    "The White House says distillation was unauthorized.",
+    "Compliance must audit all training data immediately.",
+    "One wrong dataset could bring federal penalties tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who stole Fable?\n\nMoonshot allegedly lifted Anthropic’s secret model Fable. Treasury just threatened sanctions.",
+        "2. White House stepped in.\n\nThe White House claims distillation happened without permission. That makes it a federal matter.",
+        "3. Your data is the risk.\n\nOne wrong training dataset can trigger federal penalties. Compliance teams must audit everything now.",
+        "4. Sanctions are real.\n\nTreasury’s threat isn’t symbolic. If the theft is proven, fines could hit tomorrow.",
+        "5. Audit your datasets today.\n\nTake one training dataset your team uses and trace its origin. If you can’t prove it’s clean, you have work to do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Did Moonshot steal Anthropic’s secret Fable model?",
+        "Treasury now threatens sanctions over the alleged theft.",
+        "The White House says distillation was unauthorized.",
+        "Compliance must audit all training data immediately.",
+        "One wrong dataset could bring federal penalties tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "If your team used any public code or model outputs to train an AI, you could be facing federal sanctions by tomorrow.\n\nThe US Treasury just threatened penalties over allegations that Moonshot stole Anthropic's secret model Fable through unauthorized distillation. The White House says this makes model theft a federal matter. ⚖️\n\nYour compliance burden just doubled: one wrong training dataset can now trigger government fines.\n\nDoes your team have a full audit trail showing exactly where every training example came from? 🔍"
+    }
+  },
+  "instagram_caption": "If your team used any public code or model outputs to train an AI, you could be facing federal sanctions by tomorrow.\n\nThe US Treasury just threatened penalties over allegations that Moonshot stole Anthropic's secret model Fable through unauthorized distillation. The White House says this makes model theft a federal matter. ⚖️\n\nYour compliance burden just doubled: one wrong training dataset can now trigger government fines.\n\nDoes your team have a full audit trail showing exactly where every training example came from? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Did Moonshot steal Fable?",
+      "description": "Anthropic's secret model Fable was allegedly distilled without permission. Treasury now threatens sanctions.",
+      "visual_hint": "Data theft digital art",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data breach abstract"
+    },
+    {
+      "hook": "Treasury sanctions threats.",
+      "description": "The White House made it a federal matter. One wrong dataset could lead to penalties tomorrow.",
+      "visual_hint": "Federal building exterior",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "treasury building",
+      "image": "https://images.pexels.com/photos/17718824/pexels-photo-17718824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data is the risk.",
+      "description": "Compliance teams must audit all model training data immediately to avoid federal penalties.",
+      "visual_hint": "Server room with audit",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room audit",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Sanctions are real now.",
+      "description": "Treasury's threat isn't symbolic. If the theft is proven, fines could hit tomorrow.",
+      "visual_hint": "Gavel and documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel and papers",
+      "image": "https://images.pexels.com/photos/7876039/pexels-photo-7876039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this audit checklist!",
+      "description": "Take one training dataset your team uses. Trace its origin. If you can't prove it's clean, you have work.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audit checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+  "savedAt": "2026-07-23T05:22:35.907Z",
+  "sourceId": "eb195570e7292e113b6755dd552a2d3f"
+}
