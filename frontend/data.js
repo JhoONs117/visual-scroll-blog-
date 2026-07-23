@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amd-to-invest-up-to-5-billion-in-anthropic-under-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+    "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+    "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+    "slides": [
+      "AMD bets $5B on Anthropic. Why now?",
+      "The chipmaker wants a rival to Nvidia's lead.",
+      "Anthropic's models run better on AMD hardware?",
+      "You may save 20% on cloud AI costs.",
+      "Test your workload on AMD today."
+    ],
+    "thread_text": [
+      "1. AMD's $5B bet.\n\nAnthropic just got $5 billion from AMD. That's a direct challenge to Nvidia's AI monopoly.",
+      "2. Why hardware matters.\n\nAnthropic's models are optimized for AMD chips. This isn't just funding — it's a technical alliance.",
+      "3. The cost twist.\n\nSwitching to AMD could cut cloud AI costs by 20%. That changes the economics of running large models.",
+      "4. The real test.\n\nPerformance parity with Nvidia? Not yet. But for many workloads, the savings outweigh the gap.",
+      "5. Check your bill.\n\nAre you paying 20% more than you need to? Test your AI workload on AMD this week."
+    ],
+    "video_script": [
+      "AMD bets five billion on Anthropic.",
+      "Their models run best on AMD chips.",
+      "You could save twenty percent on costs.",
+      "Test your workload on AMD today.",
+      "Don't overpay for AI compute."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AMD's $5B bet.\n\nAnthropic just got $5 billion from AMD. That's a direct challenge to Nvidia's AI monopoly.",
+          "2. Why hardware matters.\n\nAnthropic's models are optimized for AMD chips. This isn't just funding — it's a technical alliance.",
+          "3. The cost twist.\n\nSwitching to AMD could cut cloud AI costs by 20%. That changes the economics of running large models.",
+          "4. The real test.\n\nPerformance parity with Nvidia? Not yet. But for many workloads, the savings outweigh the gap.",
+          "5. Check your bill.\n\nAre you paying 20% more than you need to? Test your AI workload on AMD this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AMD bets five billion on Anthropic.",
+          "Their models run best on AMD chips.",
+          "You could save twenty percent on costs.",
+          "Test your workload on AMD today.",
+          "Don't overpay for AI compute."
+        ]
+      },
+      "instagram": {
+        "caption": "AMD just put $5 billion into Anthropic—and that could cut your cloud AI costs by 20%.\n\nThe chipmaker is betting big to rival Nvidia's lead: Anthropic’s models run better on AMD hardware. This isn't just money—it's a technical alliance built to break the monopoly.\n\nFor anyone running or billing AI workloads, switching from Nvidia to AMD means saving one dollar for every five you spend on compute.\n\nAre you paying 20% more than your competitors?"
+      }
+    },
+    "instagram_caption": "AMD just put $5 billion into Anthropic—and that could cut your cloud AI costs by 20%.\n\nThe chipmaker is betting big to rival Nvidia's lead: Anthropic’s models run better on AMD hardware. This isn't just money—it's a technical alliance built to break the monopoly.\n\nFor anyone running or billing AI workloads, switching from Nvidia to AMD means saving one dollar for every five you spend on compute.\n\nAre you paying 20% more than your competitors?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI could cost 20% less.",
+        "description": "AMD's $5 billion deal with Anthropic targets Nvidia's monopoly and could cut cloud AI costs significantly.",
+        "visual_hint": "Money falling into chips",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stack of dollar bills"
+      },
+      {
+        "hook": "Hardware partnership, not just cash.",
+        "description": "Anthropic optimized models for AMD chips, challenging Nvidia's dominance with a technical alliance.",
+        "visual_hint": "Two hands shaking over chips",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "handshake agreement",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Switch clouds and save 20%.",
+        "description": "Running Anthropic models on AMD hardware could cut cloud AI costs by 20%, changing large model economics.",
+        "visual_hint": "Price tag with arrow down",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "falling stock chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Performance gap? Savings matter more.",
+        "description": "AMD not yet matching Nvidia's performance, but for many workloads, the 20% cost savings outweigh the gap.",
+        "visual_hint": "Scale balancing chips and money",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your workload on AMD now.",
+        "description": "Visit AMD's website this week to test your AI workload and see if you can cut costs.",
+        "visual_hint": "Computer screen showing test results",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop with graphs",
+        "image": "https://images.pexels.com/photos/7691754/pexels-photo-7691754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5980803/pexels-photo-5980803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-23T13:26:59.506Z",
+    "sourceId": "25c0421c684d3be785f27c407dd2f16a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-bets-physical-ai-can-solve-healthcare-robot",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+    "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
+    "slides": [
+      "Why does healthcare robotics lack enough training data?",
+      "Nvidia bets physical AI can generate it.",
+      "Synthetic data from digital twins may replace real patient scans.",
+      "This could slash years off robot approval timelines.",
+      "Test Nvidia's Isaac Sim for your robotics pipeline today."
+    ],
+    "thread_text": [
+      "1. Why no training data?\n\nHospitals can't share patient scans due to privacy laws, starving healthcare robots of real-world examples.",
+      "2. Nvidia’s bet\n\nPhysical AI generates synthetic medical images from digital twins, bypassing privacy restrictions entirely.",
+      "3. Digital twin replacement\n\nSynthetic data mimics rare conditions real scans miss, so robots learn edge cases without waiting for patients.",
+      "4. Time cut in half\n\nSimulated training removes years of data collection, shrinking robot certification from a decade to a few years.",
+      "5. Test it yourself\n\nDownload Nvidia Isaac Sim free today. Run a digital twin of your medical robot on your own GPU."
+    ],
+    "video_script": [
+      "Healthcare robots lack real patient scans.",
+      "Nvidia generates synthetic data from digital twins.",
+      "This replaces real images legally and safely.",
+      "Approval timelines could shrink by years.",
+      "Test Isaac Sim on your robotics pipeline."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why no training data?\n\nHospitals can't share patient scans due to privacy laws, starving healthcare robots of real-world examples.",
+          "2. Nvidia’s bet\n\nPhysical AI generates synthetic medical images from digital twins, bypassing privacy restrictions entirely.",
+          "3. Digital twin replacement\n\nSynthetic data mimics rare conditions real scans miss, so robots learn edge cases without waiting for patients.",
+          "4. Time cut in half\n\nSimulated training removes years of data collection, shrinking robot certification from a decade to a few years.",
+          "5. Test it yourself\n\nDownload Nvidia Isaac Sim free today. Run a digital twin of your medical robot on your own GPU."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Healthcare robots lack real patient scans.",
+          "Nvidia generates synthetic data from digital twins.",
+          "This replaces real images legally and safely.",
+          "Approval timelines could shrink by years.",
+          "Test Isaac Sim on your robotics pipeline."
+        ]
+      },
+      "instagram": {
+        "caption": "Hospitals can’t share patient scans due to privacy laws, leaving healthcare robots without the real-world examples they need to learn.\n\nNvidia’s answer: generate synthetic medical images inside digital twins, bypassing privacy restrictions entirely. 🏥 This lets robots train on rare conditions that real scans miss—without waiting for patients to appear. 🕒\n\nFor robotics teams, this could cut certification timelines from a decade down to a few years, fast-tracking approval.\n\nTest Isaac Sim on your own GPU today. Are your training pipelines ready to swap real data for synthetic twins? 🤖🔬"
+      }
+    },
+    "instagram_caption": "Hospitals can’t share patient scans due to privacy laws, leaving healthcare robots without the real-world examples they need to learn.\n\nNvidia’s answer: generate synthetic medical images inside digital twins, bypassing privacy restrictions entirely. 🏥 This lets robots train on rare conditions that real scans miss—without waiting for patients to appear. 🕒\n\nFor robotics teams, this could cut certification timelines from a decade down to a few years, fast-tracking approval.\n\nTest Isaac Sim on your own GPU today. Are your training pipelines ready to swap real data for synthetic twins? 🤖🔬",
+    "carousel_slides": [
+      {
+        "hook": "What if robots never train?",
+        "description": "Privacy laws block hospitals from sharing scans, starving healthcare robots of real data.",
+        "visual_hint": "hospital MRI machine",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MRI scanner room"
+      },
+      {
+        "hook": "Nvidia creates fake patient data.",
+        "description": "Physical AI generates synthetic medical images from digital twins, bypassing privacy restrictions.",
+        "visual_hint": "robot hand digital twin",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "digital twin simulation",
+        "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rare diseases simulated on demand.",
+        "description": "Synthetic data mimics rare conditions real scans miss, training robots for edge cases without patients.",
+        "visual_hint": "brain scan anomaly glow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "3D brain scan",
+        "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From decade to years.",
+        "description": "Simulated training removes data collection years, shrinking robot certification timeline dramatically.",
+        "visual_hint": "calendar pages flying",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar with clock",
+        "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Isaac Sim for free.",
+        "description": "Download Nvidia Isaac Sim today and run a digital twin of your medical robot on your GPU.",
+        "visual_hint": "download button icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "GPU server rack",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7089303/pexels-photo-7089303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-23T13:26:46.156Z",
+    "sourceId": "862d19e6feb7626f6b220c33acef3ee7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "neill-blomkamp-s-new-zombie-ai-film-is-just-slop-w",
     "prompt_version": "1.0.0",
     "status": "published",

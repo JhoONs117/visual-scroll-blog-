@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "amd-to-invest-up-to-5-billion-in-anthropic-under-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "link": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "AMD bets $5B on Anthropic. Why now?",
+        "The chipmaker wants a rival to Nvidia's lead.",
+        "Anthropic's models run better on AMD hardware?",
+        "You may save 20% on cloud AI costs.",
+        "Test your workload on AMD today."
+      ],
+      "thread_text": [
+        "1. AMD's $5B bet.\n\nAnthropic just got $5 billion from AMD. That's a direct challenge to Nvidia's AI monopoly.",
+        "2. Why hardware matters.\n\nAnthropic's models are optimized for AMD chips. This isn't just funding — it's a technical alliance.",
+        "3. The cost twist.\n\nSwitching to AMD could cut cloud AI costs by 20%. That changes the economics of running large models.",
+        "4. The real test.\n\nPerformance parity with Nvidia? Not yet. But for many workloads, the savings outweigh the gap.",
+        "5. Check your bill.\n\nAre you paying 20% more than you need to? Test your AI workload on AMD this week."
+      ],
+      "video_script": [
+        "AMD bets five billion on Anthropic.",
+        "Their models run best on AMD chips.",
+        "You could save twenty percent on costs.",
+        "Test your workload on AMD today.",
+        "Don't overpay for AI compute."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AMD's $5B bet.\n\nAnthropic just got $5 billion from AMD. That's a direct challenge to Nvidia's AI monopoly.",
+            "2. Why hardware matters.\n\nAnthropic's models are optimized for AMD chips. This isn't just funding — it's a technical alliance.",
+            "3. The cost twist.\n\nSwitching to AMD could cut cloud AI costs by 20%. That changes the economics of running large models.",
+            "4. The real test.\n\nPerformance parity with Nvidia? Not yet. But for many workloads, the savings outweigh the gap.",
+            "5. Check your bill.\n\nAre you paying 20% more than you need to? Test your AI workload on AMD this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AMD bets five billion on Anthropic.",
+            "Their models run best on AMD chips.",
+            "You could save twenty percent on costs.",
+            "Test your workload on AMD today.",
+            "Don't overpay for AI compute."
+          ]
+        },
+        "instagram": {
+          "caption": "AMD just put $5 billion into Anthropic—and that could cut your cloud AI costs by 20%.\n\nThe chipmaker is betting big to rival Nvidia's lead: Anthropic’s models run better on AMD hardware. This isn't just money—it's a technical alliance built to break the monopoly.\n\nFor anyone running or billing AI workloads, switching from Nvidia to AMD means saving one dollar for every five you spend on compute.\n\nAre you paying 20% more than your competitors?"
+        }
+      },
+      "instagram_caption": "AMD just put $5 billion into Anthropic—and that could cut your cloud AI costs by 20%.\n\nThe chipmaker is betting big to rival Nvidia's lead: Anthropic’s models run better on AMD hardware. This isn't just money—it's a technical alliance built to break the monopoly.\n\nFor anyone running or billing AI workloads, switching from Nvidia to AMD means saving one dollar for every five you spend on compute.\n\nAre you paying 20% more than your competitors?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI could cost 20% less.",
+          "description": "AMD's $5 billion deal with Anthropic targets Nvidia's monopoly and could cut cloud AI costs significantly.",
+          "visual_hint": "Money falling into chips",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of dollar bills"
+        },
+        {
+          "hook": "Hardware partnership, not just cash.",
+          "description": "Anthropic optimized models for AMD chips, challenging Nvidia's dominance with a technical alliance.",
+          "visual_hint": "Two hands shaking over chips",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "handshake agreement",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Switch clouds and save 20%.",
+          "description": "Running Anthropic models on AMD hardware could cut cloud AI costs by 20%, changing large model economics.",
+          "visual_hint": "Price tag with arrow down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "falling stock chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Performance gap? Savings matter more.",
+          "description": "AMD not yet matching Nvidia's performance, but for many workloads, the 20% cost savings outweigh the gap.",
+          "visual_hint": "Scale balancing chips and money",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your workload on AMD now.",
+          "description": "Visit AMD's website this week to test your AI workload and see if you can cut costs.",
+          "visual_hint": "Computer screen showing test results",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with graphs",
+          "image": "https://images.pexels.com/photos/7691754/pexels-photo-7691754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5980803/pexels-photo-5980803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-23T13:26:59.506Z",
+      "sourceId": "25c0421c684d3be785f27c407dd2f16a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-bets-physical-ai-can-solve-healthcare-robot",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "pubDate": "Thu, 23 Jul 2026 11:38:55 +0000",
+      "slides": [
+        "Why does healthcare robotics lack enough training data?",
+        "Nvidia bets physical AI can generate it.",
+        "Synthetic data from digital twins may replace real patient scans.",
+        "This could slash years off robot approval timelines.",
+        "Test Nvidia's Isaac Sim for your robotics pipeline today."
+      ],
+      "thread_text": [
+        "1. Why no training data?\n\nHospitals can't share patient scans due to privacy laws, starving healthcare robots of real-world examples.",
+        "2. Nvidia’s bet\n\nPhysical AI generates synthetic medical images from digital twins, bypassing privacy restrictions entirely.",
+        "3. Digital twin replacement\n\nSynthetic data mimics rare conditions real scans miss, so robots learn edge cases without waiting for patients.",
+        "4. Time cut in half\n\nSimulated training removes years of data collection, shrinking robot certification from a decade to a few years.",
+        "5. Test it yourself\n\nDownload Nvidia Isaac Sim free today. Run a digital twin of your medical robot on your own GPU."
+      ],
+      "video_script": [
+        "Healthcare robots lack real patient scans.",
+        "Nvidia generates synthetic data from digital twins.",
+        "This replaces real images legally and safely.",
+        "Approval timelines could shrink by years.",
+        "Test Isaac Sim on your robotics pipeline."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why no training data?\n\nHospitals can't share patient scans due to privacy laws, starving healthcare robots of real-world examples.",
+            "2. Nvidia’s bet\n\nPhysical AI generates synthetic medical images from digital twins, bypassing privacy restrictions entirely.",
+            "3. Digital twin replacement\n\nSynthetic data mimics rare conditions real scans miss, so robots learn edge cases without waiting for patients.",
+            "4. Time cut in half\n\nSimulated training removes years of data collection, shrinking robot certification from a decade to a few years.",
+            "5. Test it yourself\n\nDownload Nvidia Isaac Sim free today. Run a digital twin of your medical robot on your own GPU."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Healthcare robots lack real patient scans.",
+            "Nvidia generates synthetic data from digital twins.",
+            "This replaces real images legally and safely.",
+            "Approval timelines could shrink by years.",
+            "Test Isaac Sim on your robotics pipeline."
+          ]
+        },
+        "instagram": {
+          "caption": "Hospitals can’t share patient scans due to privacy laws, leaving healthcare robots without the real-world examples they need to learn.\n\nNvidia’s answer: generate synthetic medical images inside digital twins, bypassing privacy restrictions entirely. 🏥 This lets robots train on rare conditions that real scans miss—without waiting for patients to appear. 🕒\n\nFor robotics teams, this could cut certification timelines from a decade down to a few years, fast-tracking approval.\n\nTest Isaac Sim on your own GPU today. Are your training pipelines ready to swap real data for synthetic twins? 🤖🔬"
+        }
+      },
+      "instagram_caption": "Hospitals can’t share patient scans due to privacy laws, leaving healthcare robots without the real-world examples they need to learn.\n\nNvidia’s answer: generate synthetic medical images inside digital twins, bypassing privacy restrictions entirely. 🏥 This lets robots train on rare conditions that real scans miss—without waiting for patients to appear. 🕒\n\nFor robotics teams, this could cut certification timelines from a decade down to a few years, fast-tracking approval.\n\nTest Isaac Sim on your own GPU today. Are your training pipelines ready to swap real data for synthetic twins? 🤖🔬",
+      "carousel_slides": [
+        {
+          "hook": "What if robots never train?",
+          "description": "Privacy laws block hospitals from sharing scans, starving healthcare robots of real data.",
+          "visual_hint": "hospital MRI machine",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "MRI scanner room"
+        },
+        {
+          "hook": "Nvidia creates fake patient data.",
+          "description": "Physical AI generates synthetic medical images from digital twins, bypassing privacy restrictions.",
+          "visual_hint": "robot hand digital twin",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital twin simulation",
+          "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rare diseases simulated on demand.",
+          "description": "Synthetic data mimics rare conditions real scans miss, training robots for edge cases without patients.",
+          "visual_hint": "brain scan anomaly glow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "3D brain scan",
+          "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From decade to years.",
+          "description": "Simulated training removes data collection years, shrinking robot certification timeline dramatically.",
+          "visual_hint": "calendar pages flying",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calendar with clock",
+          "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Isaac Sim for free.",
+          "description": "Download Nvidia Isaac Sim today and run a digital twin of your medical robot on your GPU.",
+          "visual_hint": "download button icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "GPU server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7089303/pexels-photo-7089303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-23T13:26:46.156Z",
+      "sourceId": "862d19e6feb7626f6b220c33acef3ee7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "neill-blomkamp-s-new-zombie-ai-film-is-just-slop-w",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -93326,6 +93534,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-al-peperone-rosso-e-robiola",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto al peperone rosso e robiola",
+      "link": "https://ricette.giallozafferano.it/Risotto-al-peperone-rosso-e-robiola.html",
+      "pubDate": "Thu, 23 Jul 2026 12:27:00 +0200",
+      "content": "Risotto al peperone rosso e robiola: ricetta cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto al peperone rosso e robiola /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 545 Calorie per porzione Energia Kcal 545 Carboidrati g 74,4 &nbsp;&nbsp;di cui zuccheri g 7,5 Proteine g 17,3 Grassi g 19,8 &nbsp;&nbsp;di cui saturi g 9,6 Fibre g 5,9 Colesterolo mg 50 Sodio mg 419,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Light Senza glutine Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 15 min Cottura: 35 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto al peperone rosso e robiola è il primo piatto estivo cremoso e saporito perfetto per sorprendere a tavola con il minimo sforzo. Questa ricetta di risotto con peperoni di stagione unisce la naturale dolcezza del peperone rosso dolce a una mantecatura avvolgente e gourmet realizzata con una crema di robiola. Se state cercando un risotto ai peperoni cremoso e originale , questa versione vi conquisterà: i peperoni vengono cotti e poi frullati fino a ottenere una vellutata crema di peperoni dal colore brillante. Il vero tocco di classe è la mantecatura con robiola, che viene in parte unita a fuoco spento e in parte utilizzata come guarnizione finale. Questo formaggio fresco dona una piacevole acidità che contrasta la dolcezza dell'ortaggio, rendendo il piatto equilibrato e avvolgente. Provate anche voi questo sfizioso risotto estivo e sperimentate altre varianti: Risotto con peperoni e rucola Risotto con peperoni dolci e crumble di acciughe Risotto cremoso ai peperoni con burrata Red Bell Pepper and Robiola Risotto INGREDIENTI 545 Calorie per porzione Peperoni rossi 650 g Robiola 200 g Riso Carnaroli 320 g Cipolle 40 g Timo q.b. Aceto di riso 2 cucchiai Olio extravergine d'oliva q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto al peperone rosso e robiola Per preparare il risotto al peperone rosso e robiola pulite i peperoni, divideteli a metà 1 , eliminate picciolo, semi e filamenti interni 2 quindi tagliateli a listarelle 3 . Mondate e affettate finemente la cipolla 4 . In una padella versate un filo d'olio extravergine d'oliva, aggiungete la cipolla 5 e fatela stufare a fuoco dolce. Unite i peperoni 6 . Regolate di sale 7 e cuocete con un mestolo di acqua calda 8 finché saranno morbidi, ben dorati e completamente appassiti, ci vorranno circa 15 minuti. A cottura ultimata, trasferiteli nel bicchiere alto del frullatore 9 . Frullateli con il mixer a immersione 10 fino a ottenere una crema liscia e omogenea e tenetela da parte. In una casseruola versate il riso 11 , salate e tostate il riso a secco per un paio di minuti 12 . Cuocete bagnando il riso con un mestolo di acqua calda alla volta 13 mescolando quando serve. Aggiungete la crema di peperoni al riso dopo 10 minuti 14 e proseguite la cottura 15 versando l'acqua calda, poco alla volta. Il riso cuoce in totale circa 18 minuti. Stemperate metà della dose di robiola con un mestolo di acqua calda 16 17 , dovrete ottenere una crema liscia che servirà per guarnire i piatti. A fuoco spento, mantecate il risotto con un filo d'olio e con la restante robiola 18 . Profumate con qualche fogliolina di timo fresco 19 e l'aceto di riso 20 . Mescolate energicamente fino a ottenere un risotto cremoso e ben amalgamato 21 . Impiattate il risotto al peperone rosso e robiola 22 e completate con la crema di robiola 23 e qualche fogliolina di timo fresco 24 . Conservazione Consigliamo di consumare subito il risotto al peperone rosso e robiola. Consiglio Al posto del timo, potete utilizzare delle foglioline di menta fresca spezzettate a mano o della maggiorana. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Peperoni Olio di oliva Cipolla Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto al peperone rosso e robiola 5.0 Peperoni in agrodolce gratinati 5.0 Pancake alle carote con crema al formaggio spalmabile 5.0 SCOPRI Risotto al vino rosso Risotto radicchio rosso Risotto cavolo rosso Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Risotto cremoso al peperone rosso e robiola",
+        "Peperoni rossi, robiola, riso Carnaroli, cipolla, timo",
+        "Frulla i peperoni cotti in una crema liscia",
+        "Manteca il risotto con robiola e aceto di riso",
+        "Guarnisci con crema di robiola e timo fresco"
+      ],
+      "instagram_caption": "Un abbraccio caldo e cremoso che sa di fine estate 🧡 Questo risotto al peperone rosso e robiola è pura vellutata felicità. Frullo i peperoni arrostiti fino a ottenere una crema liscia, poi manteco il Carnaroli con robiola e un tocco di aceto di riso per bilanciare la dolcezza. Il finale? Una nuvola di robiola fresca e qualche fogliolina di timo. Sembra un piatto da ristorante, ma si prepara in una coccola di pochi minuti. Provalo questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Un abbraccio caldo e cremoso che sa di fine estate 🧡 Questo risotto al peperone rosso e robiola è pura vellutata felicità. Frullo i peperoni arrostiti fino a ottenere una crema liscia, poi manteco il Carnaroli con robiola e un tocco di aceto di riso per bilanciare la dolcezza. Il finale? Una nuvola di robiola fresca e qualche fogliolina di timo. Sembra un piatto da ristorante, ma si prepara in una coccola di pochi minuti. Provalo questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Frullo i peperoni cotti in crema liscia.",
+            "Trito la cipolla, la faccio appassire.",
+            "Tosto il riso, poi sfumo con brodo.",
+            "Aggiungo la crema di peperoni, mescolo.",
+            "Spengo, manteco con robiola e timo."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cremoso, rosso come un tramonto estivo, e quel contrasto tra dolcezza e robiola che ti spacca il palato. Ecco il risotto che farà innamorare anche chi odia i risotti. 🍚",
+            "Peperoni rossi dolci, riso Carnaroli, robiola, cipolla, timo. Niente altro. La lista è corta, il risultato è pazzesco. Partiamo da qui.",
+            "Cuoci i peperoni fino a farli diventare morbidi e dolci. Poi frullali: deve uscire una crema liscia, vellutata, quasi setosa. È la base del colore e del sapore.",
+            "Tosta il riso, sfuma, cuoci aggiungendo la crema di peperoni. A fuoco spento, manteca con robiola fresca e un goccio di aceto di riso. Montagna di cremosità.",
+            "Impiatta con una quenelle di robiola e qualche foglia di timo fresco. Un cucchiaio e crolla tutto. Provalo – fammi sapere se è amore al primo morso. 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo i peperoni cotti in crema liscia.",
+        "Trito la cipolla, la faccio appassire.",
+        "Tosto il riso, poi sfumo con brodo.",
+        "Aggiungo la crema di peperoni, mescolo.",
+        "Spengo, manteco con robiola e timo."
+      ],
+      "thread_text": [
+        "Cremoso, rosso come un tramonto estivo, e quel contrasto tra dolcezza e robiola che ti spacca il palato. Ecco il risotto che farà innamorare anche chi odia i risotti. 🍚",
+        "Peperoni rossi dolci, riso Carnaroli, robiola, cipolla, timo. Niente altro. La lista è corta, il risultato è pazzesco. Partiamo da qui.",
+        "Cuoci i peperoni fino a farli diventare morbidi e dolci. Poi frullali: deve uscire una crema liscia, vellutata, quasi setosa. È la base del colore e del sapore.",
+        "Tosta il riso, sfuma, cuoci aggiungendo la crema di peperoni. A fuoco spento, manteca con robiola fresca e un goccio di aceto di riso. Montagna di cremosità.",
+        "Impiatta con una quenelle di robiola e qualche foglia di timo fresco. Un cucchiaio e crolla tutto. Provalo – fammi sapere se è amore al primo morso. 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto cremoso peperone e robiola",
+          "description": "Un primo vellutato e goloso, dove la dolcezza del peperone incontra la freschezza della robiola.",
+          "visual_hint": "Risotto cremoso in primo piano",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy risotto bowl"
+        },
+        {
+          "hook": "I 4 ingredienti essenziali",
+          "description": "Peperoni rossi, robiola, riso Carnaroli e timo: pochi elementi per un sapore autentico.",
+          "visual_hint": "Ingredienti su tagliere rustico",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory risotto ingredients board",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Crea la crema di peperoni",
+          "description": "Frulla i peperoni cotti fino a ottenere una vellutata liscia e profumata.",
+          "visual_hint": "Mani che frullano peperoni rossi",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "red bell pepper puree blender",
+          "image": "https://images.pexels.com/photos/36096930/pexels-photo-36096930.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca con robiola",
+          "description": "A fuoco spento, aggiungi robiola e un goccio di aceto di riso per una cremosità unica.",
+          "visual_hint": "Mantecatura con spatola di legno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stirring risotto with spoon",
+          "image": "https://images.pexels.com/photos/4871235/pexels-photo-4871235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Impiatta con stile",
+          "description": "Guarnisci con un ciuffo di robiola e timo fresco: il tocco che conquista.",
+          "visual_hint": "Piatto con risotto e guarnizione finale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory risotto plate garnish",
+          "image": "https://images.pexels.com/photos/28559486/pexels-photo-28559486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "generic",
+      "signature_ingredients": [
+        "peperone rosso",
+        "robiola",
+        "riso Carnaroli"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36483/Risotto-al-peperone-rosso-e-robiola_650x433_wm.jpg",
+      "savedAt": "2026-07-23T13:31:20.292Z",
+      "sourceId": "d24f0198560ae01541eeacb05aa48b38"
+    },
     {
       "schema_version": 2,
       "agent": "food",
