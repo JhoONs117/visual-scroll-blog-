@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "runway-launches-ai-model-router-as-generative-medi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Runway launches AI model router as generative media gets crowded",
+  "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+  "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+  "slides": [
+    "Runway offers a new path, but which model wins?",
+    "The router picks the best AI for each media task.",
+    "Most teams still choose one model for everything.",
+    "You now get top results without switching tools.",
+    "Test your current output against the router's pick."
+  ],
+  "thread_text": [
+    "1. One model fails daily.\n\nMost teams still rely on a single AI for all tasks, but benchmarks show it misses the mark on half of media formats.",
+    "2. The router beats the single model.\n\nA routing system picks different AI tools per task. Videos get one model, images another — and it consistently outperforms any single choice.",
+    "3. No more tool switching.\n\nThe router works inside your existing interface. You don’t learn new software — the decision happens invisibly behind your prompt.",
+    "4. Your output is already behind.\n\nTeams that test their current AI against the router’s pick see a measurable quality gap. The difference is not theoretical.",
+    "5. Run your own test this week.\n\nTake one prompt you use daily. Get output from your current model and from the router. Which one would you ship?"
+  ],
+  "video_script": [
+    "Pick one AI for all tasks? Bad move.",
+    "A router picks the best model per task.",
+    "No switching tools — one prompt, top result.",
+    "Test your current output against the router.",
+    "You will see the gap immediately."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One model fails daily.\n\nMost teams still rely on a single AI for all tasks, but benchmarks show it misses the mark on half of media formats.",
+        "2. The router beats the single model.\n\nA routing system picks different AI tools per task. Videos get one model, images another — and it consistently outperforms any single choice.",
+        "3. No more tool switching.\n\nThe router works inside your existing interface. You don’t learn new software — the decision happens invisibly behind your prompt.",
+        "4. Your output is already behind.\n\nTeams that test their current AI against the router’s pick see a measurable quality gap. The difference is not theoretical.",
+        "5. Run your own test this week.\n\nTake one prompt you use daily. Get output from your current model and from the router. Which one would you ship?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pick one AI for all tasks? Bad move.",
+        "A router picks the best model per task.",
+        "No switching tools — one prompt, top result.",
+        "Test your current output against the router.",
+        "You will see the gap immediately."
+      ]
+    },
+    "instagram": {
+      "caption": "Most teams pick one AI model for everything — and benchmarks show it fails on half of media formats.\n\nRunway just shipped a router that picks the best model per task. Videos get one tool, images another. It works inside your current interface — no new software to learn. 📦\n\nYou stop guessing which model works for each job. The router decides behind your prompt, and output quality consistently beats picking one tool on your own. ⚡\n\nTest your current AI output against the router’s pick this week. Which one would you actually ship? 🔍"
+    }
+  },
+  "instagram_caption": "Most teams pick one AI model for everything — and benchmarks show it fails on half of media formats.\n\nRunway just shipped a router that picks the best model per task. Videos get one tool, images another. It works inside your current interface — no new software to learn. 📦\n\nYou stop guessing which model works for each job. The router decides behind your prompt, and output quality consistently beats picking one tool on your own. ⚡\n\nTest your current AI output against the router’s pick this week. Which one would you actually ship? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your one AI model fails daily.",
+      "description": "Most teams use one AI for everything, but benchmarks show it underperforms on half of media formats.",
+      "visual_hint": "server room with flickering lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "One model can't win all tasks.",
+      "description": "A routing system picks different AI per task—video gets one model, images another—and outperforms any single choice.",
+      "visual_hint": "neural network branching diagram",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network branching",
+      "image": "https://images.pexels.com/photos/30471624/pexels-photo-30471624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No tool switching required anymore.",
+      "description": "The router works inside your existing interface; decisions happen invisibly behind your prompt.",
+      "visual_hint": "smooth interface with hidden gears",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smooth interface gears",
+      "image": "https://images.pexels.com/photos/17112936/pexels-photo-17112936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your output is already behind.",
+      "description": "Teams testing their AI against the router's pick see a measurable quality gap. The difference is not theoretical.",
+      "visual_hint": "side-by-side output comparison",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "side-by-side comparison",
+      "image": "https://images.pexels.com/photos/6567862/pexels-photo-6567862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run your own test this week.",
+      "description": "Take one prompt you use daily. Get output from your model and the router. Which one would you ship? Visit link in bio.",
+      "visual_hint": "person tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person tapping phone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
+  "savedAt": "2026-07-23T19:01:39.593Z",
+  "sourceId": "7280fe4d8d9af1757d6732cfbf282475"
+}

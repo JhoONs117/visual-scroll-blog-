@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-updates-claude-voice-mode-with-more-capa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic updates Claude voice mode with more capable models",
+  "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+  "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+  "slides": [
+    "Can Claude's new voice beat your best assistant?",
+    "It now uses a more advanced underlying model",
+    "Yet its emotional tone still sometimes feels off",
+    "You can test real-time conversations starting today",
+    "Compare its judgment to your own for one week"
+  ],
+  "thread_text": [
+    "1. Can it really replace your assistant?\n\nClaude now runs on a faster, smarter model, yet early testers report it still misreads emotional cues in real-time chats.",
+    "2. The model under the hood\n\nThe upgrade gives Claude deeper reasoning, letting it handle complex tasks that once required human judgment.",
+    "3. When tone falls flat\n\nDespite better logic, the voice occasionally sounds robotic during moments that demand empathy or humor.",
+    "4. Try it now for free\n\nStarting today, you can jump into live voice conversations with Claude and feel the gap yourself.",
+    "5. Test its judgment against yours\n\nSpend one week comparing Claude's decisions on your real tasks. Does it earn a spot on your team?"
+  ],
+  "video_script": [
+    "Claude's new voice challenges your favorite assistant.",
+    "It uses a smarter model under the hood.",
+    "Emotional tone still misses the mark.",
+    "Start real-time conversations today for free.",
+    "Compare its judgment to yours for a week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can it really replace your assistant?\n\nClaude now runs on a faster, smarter model, yet early testers report it still misreads emotional cues in real-time chats.",
+        "2. The model under the hood\n\nThe upgrade gives Claude deeper reasoning, letting it handle complex tasks that once required human judgment.",
+        "3. When tone falls flat\n\nDespite better logic, the voice occasionally sounds robotic during moments that demand empathy or humor.",
+        "4. Try it now for free\n\nStarting today, you can jump into live voice conversations with Claude and feel the gap yourself.",
+        "5. Test its judgment against yours\n\nSpend one week comparing Claude's decisions on your real tasks. Does it earn a spot on your team?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude's new voice challenges your favorite assistant.",
+        "It uses a smarter model under the hood.",
+        "Emotional tone still misses the mark.",
+        "Start real-time conversations today for free.",
+        "Compare its judgment to yours for a week."
+      ]
+    },
+    "instagram": {
+      "caption": "Claude’s voice mode now runs on a smarter model — but can it read a room? 🎤\n\nThe upgrade gives deeper reasoning for complex tasks. Yet early testers still catch it fumbling emotional tone during real-time chats.\n\nIf you create content or work with voice tools, you’ll feel the gap between logic and empathy instantly.\n\nStart a live conversation today. Does its judgment earn your trust — or just your skepticism? 🧠"
+    }
+  },
+  "instagram_caption": "Claude’s voice mode now runs on a smarter model — but can it read a room? 🎤\n\nThe upgrade gives deeper reasoning for complex tasks. Yet early testers still catch it fumbling emotional tone during real-time chats.\n\nIf you create content or work with voice tools, you’ll feel the gap between logic and empathy instantly.\n\nStart a live conversation today. Does its judgment earn your trust — or just your skepticism? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your assistant just got obsolete?",
+      "description": "Claude uses a smarter model for complex tasks, but still misreads emotional cues.",
+      "visual_hint": "robot vs human ear",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot talking to person"
+    },
+    {
+      "hook": "Deep reasoning upgrade",
+      "description": "Claude now handles complex tasks that once required human judgment.",
+      "visual_hint": "brain network glow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network visualization",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Empathy still missing",
+      "description": "Voice can sound robotic during moments needing humor or empathy.",
+      "visual_hint": "robotic face closeup",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot face digital",
+      "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try live voice now",
+      "description": "Jump into real-time conversations with Claude today and feel the gap.",
+      "visual_hint": "hand tapping phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save or test judgment",
+      "description": "Compare Claude's decisions on your real tasks for one week.",
+      "visual_hint": "checkmark vs x",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkmark and cross",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
+  "savedAt": "2026-07-23T19:01:15.330Z",
+  "sourceId": "0a457876b00708b004db5591fc350d72"
+}

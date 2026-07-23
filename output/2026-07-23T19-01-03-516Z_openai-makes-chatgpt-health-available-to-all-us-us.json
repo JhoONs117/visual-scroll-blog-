@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-makes-chatgpt-health-available-to-all-us-us",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI makes ChatGPT Health available to all US users",
+  "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+  "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+  "slides": [
+    "Can your doctor be replaced by a chatbot?",
+    "ChatGPT Health is now free for all US users.",
+    "It already passes the USMLE, but not bedside exams.",
+    "You can now ask it about symptoms before seeing a doctor.",
+    "Try it now—but never skip a real medical opinion."
+  ],
+  "thread_text": [
+    "1. Your doctor or a chatbot?\n\nChatGPT Health just went free in the US. You can now ask it about symptoms before you step into a clinic.",
+    "2. It already passed the USMLE.\n\nSo it knows the textbook. But it has never sat beside a patient's bed to notice a tremor.",
+    "3. The exam it fails.\n\nBedside exams test empathy, observation, and touch—things a chatbot literally cannot perform.",
+    "4. What you can do today.\n\nPull up ChatGPT and describe a symptom you have. See what it says—then book that appointment.",
+    "5. Would you trust its answer?\n\nIf the chatbot told you to skip the doctor, would you really listen?"
+  ],
+  "video_script": [
+    "Can your doctor be replaced by a chatbot?",
+    "ChatGPT Health is now free in the US.",
+    "It passes the USMLE but fails bedside exams.",
+    "You can ask it about symptoms now.",
+    "Try it, but never skip a real doctor."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your doctor or a chatbot?\n\nChatGPT Health just went free in the US. You can now ask it about symptoms before you step into a clinic.",
+        "2. It already passed the USMLE.\n\nSo it knows the textbook. But it has never sat beside a patient's bed to notice a tremor.",
+        "3. The exam it fails.\n\nBedside exams test empathy, observation, and touch—things a chatbot literally cannot perform.",
+        "4. What you can do today.\n\nPull up ChatGPT and describe a symptom you have. See what it says—then book that appointment.",
+        "5. Would you trust its answer?\n\nIf the chatbot told you to skip the doctor, would you really listen?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can your doctor be replaced by a chatbot?",
+        "ChatGPT Health is now free in the US.",
+        "It passes the USMLE but fails bedside exams.",
+        "You can ask it about symptoms now.",
+        "Try it, but never skip a real doctor."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now ask ChatGPT about your symptoms before stepping into a doctor's office, and its free for all US users.\n\nThe AI passed the USMLE exam, so it knows the textbook medicine. But it has never sat beside a hospital bed—it fails the bedside exam on empathy, observation, and touch.\n\nWriters or creators covering health advice should note: this tool changes how people search for symptom information, but it cant replace a real diagnosis.\n\nIf ChatGPT told you to skip the doctor, would you actually listen?"
+    }
+  },
+  "instagram_caption": "You can now ask ChatGPT about your symptoms before stepping into a doctor's office, and its free for all US users.\n\nThe AI passed the USMLE exam, so it knows the textbook medicine. But it has never sat beside a hospital bed—it fails the bedside exam on empathy, observation, and touch.\n\nWriters or creators covering health advice should note: this tool changes how people search for symptom information, but it cant replace a real diagnosis.\n\nIf ChatGPT told you to skip the doctor, would you actually listen?",
+  "carousel_slides": [
+    {
+      "hook": "Would you trust a chatbot?",
+      "description": "ChatGPT Health passed the USMLE but fails bedside exams that need empathy and touch.",
+      "visual_hint": "chatbot vs stethoscope",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "doctor stethoscope robot"
+    },
+    {
+      "hook": "Free medical AI for all US users.",
+      "description": "ChatGPT Health is now free and already knows the textbook from passing the USMLE.",
+      "visual_hint": "free access banner",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone chat screen",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It knows textbooks, not touch.",
+      "description": "The AI aced the USMLE but cannot notice a tremor or perform bedside exams.",
+      "visual_hint": "passing score vs human touch",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "USMLE score report",
+      "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask symptoms before your appointment.",
+      "description": "Use ChatGPT Health to describe symptoms now, but never skip a real doctor visit.",
+      "visual_hint": "symptom input screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing phone",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this guide and stay safe.",
+      "description": "Try ChatGPT Health today, but always book that real medical appointment too.",
+      "visual_hint": "link in bio button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "medical appointment calendar",
+      "image": "https://images.pexels.com/photos/7163937/pexels-photo-7163937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+  "savedAt": "2026-07-23T19:01:52.823Z",
+  "sourceId": "a9cb3adc849dcf592e090299f436e526"
+}

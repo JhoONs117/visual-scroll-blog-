@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-makes-chatgpt-health-available-to-all-us-us",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+      "slides": [
+        "Can your doctor be replaced by a chatbot?",
+        "ChatGPT Health is now free for all US users.",
+        "It already passes the USMLE, but not bedside exams.",
+        "You can now ask it about symptoms before seeing a doctor.",
+        "Try it now—but never skip a real medical opinion."
+      ],
+      "thread_text": [
+        "1. Your doctor or a chatbot?\n\nChatGPT Health just went free in the US. You can now ask it about symptoms before you step into a clinic.",
+        "2. It already passed the USMLE.\n\nSo it knows the textbook. But it has never sat beside a patient's bed to notice a tremor.",
+        "3. The exam it fails.\n\nBedside exams test empathy, observation, and touch—things a chatbot literally cannot perform.",
+        "4. What you can do today.\n\nPull up ChatGPT and describe a symptom you have. See what it says—then book that appointment.",
+        "5. Would you trust its answer?\n\nIf the chatbot told you to skip the doctor, would you really listen?"
+      ],
+      "video_script": [
+        "Can your doctor be replaced by a chatbot?",
+        "ChatGPT Health is now free in the US.",
+        "It passes the USMLE but fails bedside exams.",
+        "You can ask it about symptoms now.",
+        "Try it, but never skip a real doctor."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your doctor or a chatbot?\n\nChatGPT Health just went free in the US. You can now ask it about symptoms before you step into a clinic.",
+            "2. It already passed the USMLE.\n\nSo it knows the textbook. But it has never sat beside a patient's bed to notice a tremor.",
+            "3. The exam it fails.\n\nBedside exams test empathy, observation, and touch—things a chatbot literally cannot perform.",
+            "4. What you can do today.\n\nPull up ChatGPT and describe a symptom you have. See what it says—then book that appointment.",
+            "5. Would you trust its answer?\n\nIf the chatbot told you to skip the doctor, would you really listen?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can your doctor be replaced by a chatbot?",
+            "ChatGPT Health is now free in the US.",
+            "It passes the USMLE but fails bedside exams.",
+            "You can ask it about symptoms now.",
+            "Try it, but never skip a real doctor."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now ask ChatGPT about your symptoms before stepping into a doctor's office, and its free for all US users.\n\nThe AI passed the USMLE exam, so it knows the textbook medicine. But it has never sat beside a hospital bed—it fails the bedside exam on empathy, observation, and touch.\n\nWriters or creators covering health advice should note: this tool changes how people search for symptom information, but it cant replace a real diagnosis.\n\nIf ChatGPT told you to skip the doctor, would you actually listen?"
+        }
+      },
+      "instagram_caption": "You can now ask ChatGPT about your symptoms before stepping into a doctor's office, and its free for all US users.\n\nThe AI passed the USMLE exam, so it knows the textbook medicine. But it has never sat beside a hospital bed—it fails the bedside exam on empathy, observation, and touch.\n\nWriters or creators covering health advice should note: this tool changes how people search for symptom information, but it cant replace a real diagnosis.\n\nIf ChatGPT told you to skip the doctor, would you actually listen?",
+      "carousel_slides": [
+        {
+          "hook": "Would you trust a chatbot?",
+          "description": "ChatGPT Health passed the USMLE but fails bedside exams that need empathy and touch.",
+          "visual_hint": "chatbot vs stethoscope",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "doctor stethoscope robot"
+        },
+        {
+          "hook": "Free medical AI for all US users.",
+          "description": "ChatGPT Health is now free and already knows the textbook from passing the USMLE.",
+          "visual_hint": "free access banner",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone chat screen",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It knows textbooks, not touch.",
+          "description": "The AI aced the USMLE but cannot notice a tremor or perform bedside exams.",
+          "visual_hint": "passing score vs human touch",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "USMLE score report",
+          "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask symptoms before your appointment.",
+          "description": "Use ChatGPT Health to describe symptoms now, but never skip a real doctor visit.",
+          "visual_hint": "symptom input screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand typing phone",
+          "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this guide and stay safe.",
+          "description": "Try ChatGPT Health today, but always book that real medical appointment too.",
+          "visual_hint": "link in bio button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "medical appointment calendar",
+          "image": "https://images.pexels.com/photos/7163937/pexels-photo-7163937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+      "savedAt": "2026-07-23T19:01:52.823Z",
+      "sourceId": "a9cb3adc849dcf592e090299f436e526"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "runway-launches-ai-model-router-as-generative-medi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
+      "slides": [
+        "Runway offers a new path, but which model wins?",
+        "The router picks the best AI for each media task.",
+        "Most teams still choose one model for everything.",
+        "You now get top results without switching tools.",
+        "Test your current output against the router's pick."
+      ],
+      "thread_text": [
+        "1. One model fails daily.\n\nMost teams still rely on a single AI for all tasks, but benchmarks show it misses the mark on half of media formats.",
+        "2. The router beats the single model.\n\nA routing system picks different AI tools per task. Videos get one model, images another — and it consistently outperforms any single choice.",
+        "3. No more tool switching.\n\nThe router works inside your existing interface. You don’t learn new software — the decision happens invisibly behind your prompt.",
+        "4. Your output is already behind.\n\nTeams that test their current AI against the router’s pick see a measurable quality gap. The difference is not theoretical.",
+        "5. Run your own test this week.\n\nTake one prompt you use daily. Get output from your current model and from the router. Which one would you ship?"
+      ],
+      "video_script": [
+        "Pick one AI for all tasks? Bad move.",
+        "A router picks the best model per task.",
+        "No switching tools — one prompt, top result.",
+        "Test your current output against the router.",
+        "You will see the gap immediately."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. One model fails daily.\n\nMost teams still rely on a single AI for all tasks, but benchmarks show it misses the mark on half of media formats.",
+            "2. The router beats the single model.\n\nA routing system picks different AI tools per task. Videos get one model, images another — and it consistently outperforms any single choice.",
+            "3. No more tool switching.\n\nThe router works inside your existing interface. You don’t learn new software — the decision happens invisibly behind your prompt.",
+            "4. Your output is already behind.\n\nTeams that test their current AI against the router’s pick see a measurable quality gap. The difference is not theoretical.",
+            "5. Run your own test this week.\n\nTake one prompt you use daily. Get output from your current model and from the router. Which one would you ship?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pick one AI for all tasks? Bad move.",
+            "A router picks the best model per task.",
+            "No switching tools — one prompt, top result.",
+            "Test your current output against the router.",
+            "You will see the gap immediately."
+          ]
+        },
+        "instagram": {
+          "caption": "Most teams pick one AI model for everything — and benchmarks show it fails on half of media formats.\n\nRunway just shipped a router that picks the best model per task. Videos get one tool, images another. It works inside your current interface — no new software to learn. 📦\n\nYou stop guessing which model works for each job. The router decides behind your prompt, and output quality consistently beats picking one tool on your own. ⚡\n\nTest your current AI output against the router’s pick this week. Which one would you actually ship? 🔍"
+        }
+      },
+      "instagram_caption": "Most teams pick one AI model for everything — and benchmarks show it fails on half of media formats.\n\nRunway just shipped a router that picks the best model per task. Videos get one tool, images another. It works inside your current interface — no new software to learn. 📦\n\nYou stop guessing which model works for each job. The router decides behind your prompt, and output quality consistently beats picking one tool on your own. ⚡\n\nTest your current AI output against the router’s pick this week. Which one would you actually ship? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your one AI model fails daily.",
+          "description": "Most teams use one AI for everything, but benchmarks show it underperforms on half of media formats.",
+          "visual_hint": "server room with flickering lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "One model can't win all tasks.",
+          "description": "A routing system picks different AI per task—video gets one model, images another—and outperforms any single choice.",
+          "visual_hint": "neural network branching diagram",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network branching",
+          "image": "https://images.pexels.com/photos/30471624/pexels-photo-30471624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No tool switching required anymore.",
+          "description": "The router works inside your existing interface; decisions happen invisibly behind your prompt.",
+          "visual_hint": "smooth interface with hidden gears",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smooth interface gears",
+          "image": "https://images.pexels.com/photos/17112936/pexels-photo-17112936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your output is already behind.",
+          "description": "Teams testing their AI against the router's pick see a measurable quality gap. The difference is not theoretical.",
+          "visual_hint": "side-by-side output comparison",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "side-by-side comparison",
+          "image": "https://images.pexels.com/photos/6567862/pexels-photo-6567862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run your own test this week.",
+          "description": "Take one prompt you use daily. Get output from your model and the router. Which one would you ship? Visit link in bio.",
+          "visual_hint": "person tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person tapping phone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
+      "savedAt": "2026-07-23T19:01:39.593Z",
+      "sourceId": "7280fe4d8d9af1757d6732cfbf282475"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "aegisai-founded-by-former-google-security-execs-la",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+      "slides": [
+        "AegisAI has $36M, but can it stop what’s coming?",
+        "AI-generated spear phishing now bypasses most filters.",
+        "Its founders previously secured Google’s own infrastructure.",
+        "Your current email defenses are already obsolete.",
+        "Pause your next click until they prove it works."
+      ],
+      "thread_text": [
+        "1. $36M against what?\n\nAegisAI raised $36M to fight AI-generated phishing that already bypasses most email filters.",
+        "2. The founders' history\n\nThey previously secured Google’s own infrastructure from attacks.",
+        "3. Your inbox is exposed\n\nCurrent defenses can't catch these AI-crafted messages.",
+        "4. The real test\n\nUntil their system proves it works, treat every link as a threat.",
+        "5. Pause before you click\n\nTake that email you almost opened and run it through a separate scanner first."
+      ],
+      "video_script": [
+        "AegisAI has 36 million dollars.",
+        "But AI phishing already evades filters.",
+        "Its founders secured Google's own systems.",
+        "Your current email defenses are obsolete.",
+        "Pause your next click until proven."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $36M against what?\n\nAegisAI raised $36M to fight AI-generated phishing that already bypasses most email filters.",
+            "2. The founders' history\n\nThey previously secured Google’s own infrastructure from attacks.",
+            "3. Your inbox is exposed\n\nCurrent defenses can't catch these AI-crafted messages.",
+            "4. The real test\n\nUntil their system proves it works, treat every link as a threat.",
+            "5. Pause before you click\n\nTake that email you almost opened and run it through a separate scanner first."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AegisAI has 36 million dollars.",
+            "But AI phishing already evades filters.",
+            "Its founders secured Google's own systems.",
+            "Your current email defenses are obsolete.",
+            "Pause your next click until proven."
+          ]
+        },
+        "instagram": {
+          "caption": "Spear phishing emails can now perfectly mimic your boss's writing style and bypass your spam filter. 😦\n\nAegisAI just raised $36M to solve this problem. Its founders secured Google’s own systems—but these AI-generated messages already slip past most defenses.\n\nYour current inbox protection is obsolete. 👀\n\nIf you click a single fake \"urgent\" link, your credentials or company data are gone.\n\nHave you scanned that last email you almost opened through a separate tool yet? 🛑"
+        }
+      },
+      "instagram_caption": "Spear phishing emails can now perfectly mimic your boss's writing style and bypass your spam filter. 😦\n\nAegisAI just raised $36M to solve this problem. Its founders secured Google’s own systems—but these AI-generated messages already slip past most defenses.\n\nYour current inbox protection is obsolete. 👀\n\nIf you click a single fake \"urgent\" link, your credentials or company data are gone.\n\nHave you scanned that last email you almost opened through a separate tool yet? 🛑",
+      "carousel_slides": [
+        {
+          "hook": "Your inbox is already compromised.",
+          "description": "AegisAI raised $36M to fight AI phishing already bypassing most filters.",
+          "visual_hint": "open inbox with alert",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "email inbox screen"
+        },
+        {
+          "hook": "Founders secured Google's core.",
+          "description": "They protected Google’s own infrastructure before starting AegisAI.",
+          "visual_hint": "Google logo with shield",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "google office building",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Filters miss AI-crafted attacks.",
+          "description": "Current defenses can't catch these AI-written spear phishing emails.",
+          "visual_hint": "magnifying glass over email",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "spam filter interface",
+          "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pause before you click.",
+          "description": "Treat every link as a threat until AegisAI proves it works.",
+          "visual_hint": "finger hovering over mouse",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person clicking mouse",
+          "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scan that email now — save this.",
+          "description": "Run your suspicious email through a separate scanner before clicking anything.",
+          "visual_hint": "phone with scanning app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone with shield",
+          "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
+      "savedAt": "2026-07-23T19:01:27.028Z",
+      "sourceId": "83feacd899b0ad9550ae108d0ddcca27"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-updates-claude-voice-mode-with-more-capa",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+      "slides": [
+        "Can Claude's new voice beat your best assistant?",
+        "It now uses a more advanced underlying model",
+        "Yet its emotional tone still sometimes feels off",
+        "You can test real-time conversations starting today",
+        "Compare its judgment to your own for one week"
+      ],
+      "thread_text": [
+        "1. Can it really replace your assistant?\n\nClaude now runs on a faster, smarter model, yet early testers report it still misreads emotional cues in real-time chats.",
+        "2. The model under the hood\n\nThe upgrade gives Claude deeper reasoning, letting it handle complex tasks that once required human judgment.",
+        "3. When tone falls flat\n\nDespite better logic, the voice occasionally sounds robotic during moments that demand empathy or humor.",
+        "4. Try it now for free\n\nStarting today, you can jump into live voice conversations with Claude and feel the gap yourself.",
+        "5. Test its judgment against yours\n\nSpend one week comparing Claude's decisions on your real tasks. Does it earn a spot on your team?"
+      ],
+      "video_script": [
+        "Claude's new voice challenges your favorite assistant.",
+        "It uses a smarter model under the hood.",
+        "Emotional tone still misses the mark.",
+        "Start real-time conversations today for free.",
+        "Compare its judgment to yours for a week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can it really replace your assistant?\n\nClaude now runs on a faster, smarter model, yet early testers report it still misreads emotional cues in real-time chats.",
+            "2. The model under the hood\n\nThe upgrade gives Claude deeper reasoning, letting it handle complex tasks that once required human judgment.",
+            "3. When tone falls flat\n\nDespite better logic, the voice occasionally sounds robotic during moments that demand empathy or humor.",
+            "4. Try it now for free\n\nStarting today, you can jump into live voice conversations with Claude and feel the gap yourself.",
+            "5. Test its judgment against yours\n\nSpend one week comparing Claude's decisions on your real tasks. Does it earn a spot on your team?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude's new voice challenges your favorite assistant.",
+            "It uses a smarter model under the hood.",
+            "Emotional tone still misses the mark.",
+            "Start real-time conversations today for free.",
+            "Compare its judgment to yours for a week."
+          ]
+        },
+        "instagram": {
+          "caption": "Claude’s voice mode now runs on a smarter model — but can it read a room? 🎤\n\nThe upgrade gives deeper reasoning for complex tasks. Yet early testers still catch it fumbling emotional tone during real-time chats.\n\nIf you create content or work with voice tools, you’ll feel the gap between logic and empathy instantly.\n\nStart a live conversation today. Does its judgment earn your trust — or just your skepticism? 🧠"
+        }
+      },
+      "instagram_caption": "Claude’s voice mode now runs on a smarter model — but can it read a room? 🎤\n\nThe upgrade gives deeper reasoning for complex tasks. Yet early testers still catch it fumbling emotional tone during real-time chats.\n\nIf you create content or work with voice tools, you’ll feel the gap between logic and empathy instantly.\n\nStart a live conversation today. Does its judgment earn your trust — or just your skepticism? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "Your assistant just got obsolete?",
+          "description": "Claude uses a smarter model for complex tasks, but still misreads emotional cues.",
+          "visual_hint": "robot vs human ear",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot talking to person"
+        },
+        {
+          "hook": "Deep reasoning upgrade",
+          "description": "Claude now handles complex tasks that once required human judgment.",
+          "visual_hint": "brain network glow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network visualization",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Empathy still missing",
+          "description": "Voice can sound robotic during moments needing humor or empathy.",
+          "visual_hint": "robotic face closeup",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot face digital",
+          "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try live voice now",
+          "description": "Jump into real-time conversations with Claude today and feel the gap.",
+          "visual_hint": "hand tapping phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save or test judgment",
+          "description": "Compare Claude's decisions on your real tasks for one week.",
+          "visual_hint": "checkmark vs x",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkmark and cross",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
+      "savedAt": "2026-07-23T19:01:15.330Z",
+      "sourceId": "0a457876b00708b004db5591fc350d72"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
       "prompt_version": "1.0.0",
       "status": "published",

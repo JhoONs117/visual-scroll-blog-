@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "aegisai-founded-by-former-google-security-execs-la",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+  "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+  "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+  "slides": [
+    "AegisAI has $36M, but can it stop what’s coming?",
+    "AI-generated spear phishing now bypasses most filters.",
+    "Its founders previously secured Google’s own infrastructure.",
+    "Your current email defenses are already obsolete.",
+    "Pause your next click until they prove it works."
+  ],
+  "thread_text": [
+    "1. $36M against what?\n\nAegisAI raised $36M to fight AI-generated phishing that already bypasses most email filters.",
+    "2. The founders' history\n\nThey previously secured Google’s own infrastructure from attacks.",
+    "3. Your inbox is exposed\n\nCurrent defenses can't catch these AI-crafted messages.",
+    "4. The real test\n\nUntil their system proves it works, treat every link as a threat.",
+    "5. Pause before you click\n\nTake that email you almost opened and run it through a separate scanner first."
+  ],
+  "video_script": [
+    "AegisAI has 36 million dollars.",
+    "But AI phishing already evades filters.",
+    "Its founders secured Google's own systems.",
+    "Your current email defenses are obsolete.",
+    "Pause your next click until proven."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $36M against what?\n\nAegisAI raised $36M to fight AI-generated phishing that already bypasses most email filters.",
+        "2. The founders' history\n\nThey previously secured Google’s own infrastructure from attacks.",
+        "3. Your inbox is exposed\n\nCurrent defenses can't catch these AI-crafted messages.",
+        "4. The real test\n\nUntil their system proves it works, treat every link as a threat.",
+        "5. Pause before you click\n\nTake that email you almost opened and run it through a separate scanner first."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AegisAI has 36 million dollars.",
+        "But AI phishing already evades filters.",
+        "Its founders secured Google's own systems.",
+        "Your current email defenses are obsolete.",
+        "Pause your next click until proven."
+      ]
+    },
+    "instagram": {
+      "caption": "Spear phishing emails can now perfectly mimic your boss's writing style and bypass your spam filter. 😦\n\nAegisAI just raised $36M to solve this problem. Its founders secured Google’s own systems—but these AI-generated messages already slip past most defenses.\n\nYour current inbox protection is obsolete. 👀\n\nIf you click a single fake \"urgent\" link, your credentials or company data are gone.\n\nHave you scanned that last email you almost opened through a separate tool yet? 🛑"
+    }
+  },
+  "instagram_caption": "Spear phishing emails can now perfectly mimic your boss's writing style and bypass your spam filter. 😦\n\nAegisAI just raised $36M to solve this problem. Its founders secured Google’s own systems—but these AI-generated messages already slip past most defenses.\n\nYour current inbox protection is obsolete. 👀\n\nIf you click a single fake \"urgent\" link, your credentials or company data are gone.\n\nHave you scanned that last email you almost opened through a separate tool yet? 🛑",
+  "carousel_slides": [
+    {
+      "hook": "Your inbox is already compromised.",
+      "description": "AegisAI raised $36M to fight AI phishing already bypassing most filters.",
+      "visual_hint": "open inbox with alert",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email inbox screen"
+    },
+    {
+      "hook": "Founders secured Google's core.",
+      "description": "They protected Google’s own infrastructure before starting AegisAI.",
+      "visual_hint": "Google logo with shield",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "google office building",
+      "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Filters miss AI-crafted attacks.",
+      "description": "Current defenses can't catch these AI-written spear phishing emails.",
+      "visual_hint": "magnifying glass over email",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "spam filter interface",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pause before you click.",
+      "description": "Treat every link as a threat until AegisAI proves it works.",
+      "visual_hint": "finger hovering over mouse",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person clicking mouse",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scan that email now — save this.",
+      "description": "Run your suspicious email through a separate scanner before clicking anything.",
+      "visual_hint": "phone with scanning app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with shield",
+      "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
+  "savedAt": "2026-07-23T19:01:27.028Z",
+  "sourceId": "83feacd899b0ad9550ae108d0ddcca27"
+}
