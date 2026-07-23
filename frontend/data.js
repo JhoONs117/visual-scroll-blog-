@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "neill-blomkamp-s-new-zombie-ai-film-is-just-slop-w",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "pubDate": "2026-07-21T22:06:43.000Z",
+    "slides": [
+      "Neill Blomkamp's AI film: a breakthrough or recycling?",
+      "It generates zombie scenes from typed prompts alone.",
+      "No crew or real actors were involved in production.",
+      "This threatens your next creative job more than you think.",
+      "Watch the trailer, then ask: who owns the art?"
+    ],
+    "thread_text": [
+      "Your next job is already obsolete.\n\nThe director of District 9 just released a film generated entirely from typed prompts. No sets. No actors. No crew.",
+      "This isn’t a trailer. It’s a blueprint.\n\nZombies, lighting, camera moves — all hallucinated by AI. No human touched a frame.",
+      "Hollywood didn’t fund it. A single person with a keyboard did.\n\nBlomkamp bypassed studios. The bottleneck isn’t money anymore — it’s who can type faster.",
+      "Copyright law wasn’t built for this.\n\nIf a machine invents the scene, who signs the contract? The prompt writer? The model owner? No one knows.",
+      "Watch the two-minute trailer. Then answer: if the art is yours, why can’t you sell it?\n\nOpen a text generator and recreate one frame. Try to copyright it. See what happens."
+    ],
+    "video_script": [
+      "Neill Blomkamp made a film with zero actors.",
+      "AI generated every zombie from typed prompts.",
+      "No crew worked on this production.",
+      "Your creative job is at risk.",
+      "Watch the trailer and ask who owns art."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Your next job is already obsolete.\n\nThe director of District 9 just released a film generated entirely from typed prompts. No sets. No actors. No crew.",
+          "This isn’t a trailer. It’s a blueprint.\n\nZombies, lighting, camera moves — all hallucinated by AI. No human touched a frame.",
+          "Hollywood didn’t fund it. A single person with a keyboard did.\n\nBlomkamp bypassed studios. The bottleneck isn’t money anymore — it’s who can type faster.",
+          "Copyright law wasn’t built for this.\n\nIf a machine invents the scene, who signs the contract? The prompt writer? The model owner? No one knows.",
+          "Watch the two-minute trailer. Then answer: if the art is yours, why can’t you sell it?\n\nOpen a text generator and recreate one frame. Try to copyright it. See what happens."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Neill Blomkamp made a film with zero actors.",
+          "AI generated every zombie from typed prompts.",
+          "No crew worked on this production.",
+          "Your creative job is at risk.",
+          "Watch the trailer and ask who owns art."
+        ]
+      },
+      "instagram": {
+        "caption": "A director who made District 9 just released a \"film\" where no human touched a single frame. 🧟\n\nThe entire seven-minute zombie sequence was generated from typed prompts. No sets, actors, or crew — a single person with a keyboard made it.\n\nHollywood used to be your bottleneck for budget and access. Now the bottleneck is just who can type faster.\n\nIf an AI hallucinates the scene and you type the words, who owns the frame — and why can't you sell it?"
+      }
+    },
+    "instagram_caption": "A director who made District 9 just released a \"film\" where no human touched a single frame. 🧟\n\nThe entire seven-minute zombie sequence was generated from typed prompts. No sets, actors, or crew — a single person with a keyboard made it.\n\nHollywood used to be your bottleneck for budget and access. Now the bottleneck is just who can type faster.\n\nIf an AI hallucinates the scene and you type the words, who owns the frame — and why can't you sell it?",
+    "carousel_slides": [
+      {
+        "hook": "Your job is already obsolete.",
+        "description": "District 9 director releases a film generated entirely from typed prompts — no crew, actors, or sets were used.",
+        "visual_hint": "Glowing keyboard in darkness",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer keyboard typing"
+      },
+      {
+        "hook": "No human touched a frame.",
+        "description": "Zombies, lighting, and camera moves all hallucinated by AI — this isn't a trailer but a blueprint.",
+        "visual_hint": "Zombie face emerging from code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "zombie face digital",
+        "image": "https://images.pexels.com/photos/28941393/pexels-photo-28941393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Money is no longer the bottleneck.",
+        "description": "Blomkamp bypassed Hollywood studios — one person with a keyboard did what a whole crew used to do.",
+        "visual_hint": "Person typing alone in dark room",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop desk dark room",
+        "image": "https://images.pexels.com/photos/14528488/pexels-photo-14528488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who owns AI-generated art?",
+        "description": "Copyright law wasn't built for this — if a machine invents the scene, the prompt writer or model owner? No one knows.",
+        "visual_hint": "Contract with question marks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "legal document contract",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try to copyright one frame.",
+        "description": "Watch the 2-minute trailer, then open a text generator and recreate one scene — see what happens.",
+        "visual_hint": "Play button on trailer thumbnail",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "movie trailer play button",
+        "image": "https://images.pexels.com/photos/7400906/pexels-photo-7400906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&amp;strip=all&amp;crop=0%2C2.6087741469579%2C100%2C94.782451706084&amp;w=1200",
+    "savedAt": "2026-07-23T11:45:41.393Z",
+    "sourceId": "8cb5d4d41e5438f185e73620fac6de58"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "arcee-a-us-open-source-ai-lab-says-chinese-models-",
     "prompt_version": "1.0.0",
     "status": "published",

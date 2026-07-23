@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "peperoni-in-agrodolce-gratinati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Peperoni in agrodolce gratinati",
+    "link": "https://ricette.giallozafferano.it/Peperoni-in-agrodolce-gratinati.html",
+    "pubDate": "Thu, 23 Jul 2026 10:59:00 +0200",
+    "content": "Peperoni in agrodolce gratinati: la ricetta sfiziosa e croccante Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Top Blogger TOP BLOGGER Contorni Peperoni in agrodolce gratinati /5 Ricetta proposta da Gessica Runcio CONDIVIDI INVIA FOTO COMMENTA de es nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 20 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE I peperoni in agrodolce gratinati sono un contorno stuzzicante e genuino, perfetto per esaltare al meglio il sapore unico e zuccherino dei peperoni . Questa ricetta unisce la freschezza degli ortaggi estivi a un contrasto di sapori ricco e bilanciato. La preparazione è semplice ma ricca di carattere: l'uva passa e i pinoli richiamano i sapori tipici dell'agrodolce mediterraneo, creando un perfetto equilibrio tra dolcezza e note acidule. Il tutto viene infine arricchito da una panatura croccante e aromatica a base di pane fresco, aglio e prezzemolo, che dona al piatto una consistenza irresistibile e un profumo avvolgente. Portate in tavola i profumi della tradizione con questo contorno sfizioso , ideale per accompagnare secondi di carne, pesce o formaggi. Provate anche questi ricette con i peperoni : Peperoni con la mollica Peperoni al forno coi capperi Peperoni al forno saporiti Peperoni in padella Peperoni in agrodolce INGREDIENTI Peperoni rossi 600 g Aglio 1 spicchio Olio extravergine d'oliva 20 g Sale fino q.b. Aceto di vino bianco 30 g Pinoli 20 g Uva passa 35 g Pane 100 g Prezzemolo q.b. per accompagnare Pane 2 fette AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare i Peperoni in agrodolce gratinati Per preparare i peperoni in agrodolce gratinati ponete l'uvetta in poca acqua con metà dose di aceto 1 . A parte versate i restanti 15 g di aceto nello zucchero 2 e mescolate 3 . Tagliate i peperoni a metà 4 , eliminate picciolo e semini interni, quindi riduceteli a listarelle 5 che dividerete a metà 6 . In una padella scaldate l'olio 7 , versate i peperoni 8 e salate 9 . Quando iniziano ad ammorbidirsi, versate la miscela di aceto e zucchero 10 e cuoceteli per circa 20 minuti in totale o fino a quando diventeranno morbidi. Nel frattempo ponete nel mixer il pane fresco a pezzetti 11 e il prezzemolo 12 . Insaporite con l'aglio privato dell'anima 13 e frullate tutto per ottenere una panure omogenea 14 . Verso fine cottura, unite i pinoli 15 . Aggiungete anche l’uvetta passa ammollata e scolata 16 , infine completate con la panatura 17 . Lasciate dorare e gratinare il pane in padella per qualche minuto. Mescolate il tutto per amalgamare 18 . I peperoni in agrodolce gratinati sono pronti 19 . Serviteli caldi 20 accompagnandoli con delle fette di pane 21 . Conservazione Consigliamo di consumare subito i peperoni in agrodolce gratinati. Consiglio Per insaporire la panatura potete usare il basilico al posto del prezzemolo. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Peperoni Pane Olio di oliva Prezzemolo Scopri tutto sugli ingredienti Presente in: Contorni sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Peperoni in agrodolce gratinati Pancake alle carote con crema al formaggio spalmabile 5.0 Crostone salmone e avocado 5.0 SCOPRI Peperoni gratinati Peperoni gratinati al forno Ricetta peperoni in agrodolce Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Peperoni in agrodolce gratinati croccanti e sfiziosi",
+      "Peperoni, uvetta, pinoli, pane, aceto",
+      "Taglia peperoni a listarelle e ammolla uvetta",
+      "Cuoci peperoni, unisci uvetta, pinoli e panatura",
+      "Gratina il pane in padella per croccantezza"
+    ],
+    "instagram_caption": "Peperoni in agrodolce gratinati? Una poesia di croccantezza e sapore. 🍂\n\nListarelle tenere saltate con uvetta e pinoli, poi coperte da un pane croccante che in padella diventa un’esplosione. Il mix agrodolce di aceto e dolcezza dell’uvetta si sposa con il tostato: un morso e non ti fermi più. 🥄\n\nBastano pochi ingredienti per un contorno che ruba la scena. Provalo questo weekend e porti il caldo dell’estate in tavola. ✨",
+    "formats": {
+      "instagram": {
+        "caption": "Peperoni in agrodolce gratinati? Una poesia di croccantezza e sapore. 🍂\n\nListarelle tenere saltate con uvetta e pinoli, poi coperte da un pane croccante che in padella diventa un’esplosione. Il mix agrodolce di aceto e dolcezza dell’uvetta si sposa con il tostato: un morso e non ti fermi più. 🥄\n\nBastano pochi ingredienti per un contorno che ruba la scena. Provalo questo weekend e porti il caldo dell’estate in tavola. ✨"
+      },
+      "tiktok": {
+        "script": [
+          "Peperoni in agrodolce gratinati, croccanti e sfiziosi.",
+          "Peperoni, uvetta, pinoli, pane, aceto, pronti?",
+          "Taglio i peperoni a listarelle e ammollo l'uvetta.",
+          "Cuocio i peperoni, unisco uvetta, pinoli e panatura.",
+          "Gratino il pane in padella per quella croccantezza."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Non serve farla fuori per un contorno che sembri un capolavoro: questi peperoni in agrodolce gratinati sono la fine del mondo. 😏",
+          "Ci vuole un mix semplice che spacca: peperoni, uvetta, pinoli, pane grattugiato e aceto. Poche cose, ma quelle giuste.",
+          "Prima mossa: taglia i peperoni a listarelle e metti in ammollo l'uvetta. La dolcezza deve uscire fuori.",
+          "Poi cuoci i peperoni, unisci l'uvetta strizzata, i pinoli tostati e la panatura. L'odore già ti fa venire l'acquolina.",
+          "Il trucco? Gratina il pane in padella prima di unirlo, per quella croccantezza che fa impazzire. Provali e fammi sapere 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Peperoni in agrodolce gratinati, croccanti e sfiziosi.",
+      "Peperoni, uvetta, pinoli, pane, aceto, pronti?",
+      "Taglio i peperoni a listarelle e ammollo l'uvetta.",
+      "Cuocio i peperoni, unisco uvetta, pinoli e panatura.",
+      "Gratino il pane in padella per quella croccantezza."
+    ],
+    "thread_text": [
+      "Non serve farla fuori per un contorno che sembri un capolavoro: questi peperoni in agrodolce gratinati sono la fine del mondo. 😏",
+      "Ci vuole un mix semplice che spacca: peperoni, uvetta, pinoli, pane grattugiato e aceto. Poche cose, ma quelle giuste.",
+      "Prima mossa: taglia i peperoni a listarelle e metti in ammollo l'uvetta. La dolcezza deve uscire fuori.",
+      "Poi cuoci i peperoni, unisci l'uvetta strizzata, i pinoli tostati e la panatura. L'odore già ti fa venire l'acquolina.",
+      "Il trucco? Gratina il pane in padella prima di unirlo, per quella croccantezza che fa impazzire. Provali e fammi sapere 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Peperoni in agrodolce gratinati croccanti",
+        "description": "Un contorno sfizioso e croccante, dolce e acidulo, perfetto per stupire gli ospiti.",
+        "visual_hint": "Peperoni gratinati dorati",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory roasted peppers"
+      },
+      {
+        "hook": "Peperoni, uvetta, pinoli, pane, aceto",
+        "description": "Ingredienti semplici che creano il perfetto equilibrio tra dolce, aspro e croccante.",
+        "visual_hint": "Ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pepper ingredients",
+        "image": "https://images.pexels.com/photos/4198658/pexels-photo-4198658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia e ammolla con cura",
+        "description": "Taglia i peperoni a listarelle e metti l’uvetta in ammollo per esaltare dolcezza e morbidezza.",
+        "visual_hint": "Mani che tagliano peperoni",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cutting bell peppers",
+        "image": "https://images.pexels.com/photos/6832045/pexels-photo-6832045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci e unisci i sapori",
+        "description": "Cuoci i peperoni, poi aggiungi uvetta strizzata, pinoli tostati e una generosa panatura.",
+        "visual_hint": "Padella con peperoni e pinoli",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cooking peppers pan",
+        "image": "https://images.pexels.com/photos/13633781/pexels-photo-13633781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Croccantezza finale in padella",
+        "description": "Gratina il tutto in padella per ottenere una crosticina irresistibile e servi tiepido.",
+        "visual_hint": "Peperoni gratinati nel piatto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory gratinated peppers",
+        "image": "https://images.pexels.com/photos/30682986/pexels-photo-30682986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "peperoni",
+      "uvetta",
+      "pinoli"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36478/Peperoni-in-agrodolce-gratinati_650x433_wm.jpg",
+    "savedAt": "2026-07-23T11:54:33.225Z",
+    "sourceId": "d4567f67082c15a0baac4f0eac9df530"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-ceci-alla-mediterranea",
     "prompt_version": "1.0.0",
     "status": "published",
