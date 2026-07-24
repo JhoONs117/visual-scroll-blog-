@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "edtech-platform-raises-4-5m-to-help-teach-students",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+  "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+  "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Can an edtech platform make coding feel like play?",
+    "This startup just raised $4.5M for a new method.",
+    "Students learn by vibing code, not writing syntax.",
+    "Teachers now assign projects without lesson plans.",
+    "Try one free session—and watch your class engage."
+  ],
+  "thread_text": [
+    "1. Coding without typing?\n\nAn edtech startup just raised $4.5M to let students learn by “vibing” code — no syntax required.",
+    "2. Teachers skip lesson plans.\n\nAssignments now run on the platform’s method, not a teacher’s prep time. Projects create themselves.",
+    "3. What happens to debugging?\n\nIf students never write syntax, they also never break it. No error messages means a new kind of fluency.",
+    "4. The classroom flips.\n\nTeachers become facilitators. Students explore by feel, not instruction. The role of “lecturer” fades.",
+    "5. Try one free session.\n\nBook a trial this week. If your class doesn’t engage more than last month, drop it. Would you risk 30 minutes?"
+  ],
+  "video_script": [
+    "Coding without typing? A startup just raised millions.",
+    "Students learn by vibing code, not syntax.",
+    "Teachers assign projects without lesson plans.",
+    "No error messages means new fluency.",
+    "Try one free session this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Coding without typing?\n\nAn edtech startup just raised $4.5M to let students learn by “vibing” code — no syntax required.",
+        "2. Teachers skip lesson plans.\n\nAssignments now run on the platform’s method, not a teacher’s prep time. Projects create themselves.",
+        "3. What happens to debugging?\n\nIf students never write syntax, they also never break it. No error messages means a new kind of fluency.",
+        "4. The classroom flips.\n\nTeachers become facilitators. Students explore by feel, not instruction. The role of “lecturer” fades.",
+        "5. Try one free session.\n\nBook a trial this week. If your class doesn’t engage more than last month, drop it. Would you risk 30 minutes?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Coding without typing? A startup just raised millions.",
+        "Students learn by vibing code, not syntax.",
+        "Teachers assign projects without lesson plans.",
+        "No error messages means new fluency.",
+        "Try one free session this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Teachers are now assigning projects without writing lesson plans.\n\nAn edtech startup just raised $4.5M to let students learn by “vibing” code—no syntax, no error messages. 🎮\n\nTeachers become facilitators. Classrooms flip from instruction to exploration. No more debugging means a new kind of fluency.\n\nFor you as an educator: prep time drops to zero, but engagement has to rise.\n\nBook one free session this week. Would you risk 30 minutes to see if your class vibes? ⏳"
+    }
+  },
+  "instagram_caption": "Teachers are now assigning projects without writing lesson plans.\n\nAn edtech startup just raised $4.5M to let students learn by “vibing” code—no syntax, no error messages. 🎮\n\nTeachers become facilitators. Classrooms flip from instruction to exploration. No more debugging means a new kind of fluency.\n\nFor you as an educator: prep time drops to zero, but engagement has to rise.\n\nBook one free session this week. Would you risk 30 minutes to see if your class vibes? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "What if coding required no typing?",
+      "description": "A new method lets students learn by 'vibing' code, eliminating syntax errors entirely.",
+      "visual_hint": "Student smiling at glowing code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "code on screen"
+    },
+    {
+      "hook": "Teachers no longer write lesson plans.",
+      "description": "The platform auto-generates projects from the method, not teacher prep time.",
+      "visual_hint": "Teacher watching engaged students",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "classroom students",
+      "image": "https://images.pexels.com/photos/5905923/pexels-photo-5905923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No syntax means no debugging.",
+      "description": "Students never break code, so error messages disappear and fluency grows naturally.",
+      "visual_hint": "Clean glowing code without errors",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clean computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The lecturer role fades away.",
+      "description": "Teachers become facilitators as students explore by feel instead of instruction.",
+      "visual_hint": "Student exploring alone at desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "student at computer",
+      "image": "https://images.pexels.com/photos/5530447/pexels-photo-5530447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one free session this week.",
+      "description": "Book a trial. If your class doesn’t engage more than last month, drop it.",
+      "visual_hint": "Phone with booking calendar open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar app mockup",
+      "image": "https://images.pexels.com/photos/13709181/pexels-photo-13709181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sari-Dora-Beatrice-imagi.jpg?resize=1200,800",
+  "savedAt": "2026-07-24T13:19:40.599Z",
+  "sourceId": "1d1d2a59e206b153798cfd6078957824"
+}
