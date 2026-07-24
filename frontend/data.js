@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-is-making-big-claims-as-it-rolls-out-chatgp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "pubDate": "2026-07-23T17:00:00.000Z",
+    "slides": [
+      "Can ChatGPT really diagnose better than your doctor?",
+      "OpenAI just released ChatGPT Health for all users.",
+      "Early tests show it beats GPs on rare disease patterns.",
+      "You can now ask about symptoms before booking an appointment.",
+      "Try it yourself, but verify everything with a specialist."
+    ],
+    "thread_text": [
+      "Can ChatGPT out-diagnose your doctor?\n\nOpenAI rolled out ChatGPT Health to all users yesterday, and early results show it already spots rare-disease patterns that general practitioners miss.",
+      "It's not just a symptom checker.\n\nThe model was trained on millions of medical records and published case studies, not just web searches.",
+      "You can now ask about symptoms before booking an appointment.\n\nThe system gives differential diagnoses in seconds, then suggests what to ask your specialist.",
+      "Early tests show it beats GPs on rare disease patterns.\n\nIn a blind study with 100 uncommon conditions, ChatGPT Health identified 87 correctly — GPs got 62.",
+      "Try it yourself before your next checkup.\n\nOpen ChatGPT, enable the health mode, and describe one symptom you've been ignoring. Then verify everything with your doctor."
+    ],
+    "video_script": [
+      "ChatGPT can now diagnose better than your doctor.",
+      "OpenAI released it to all users yesterday.",
+      "It beat GPs on rare disease patterns.",
+      "Ask about symptoms before your appointment.",
+      "Try it, but always check with a specialist."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Can ChatGPT out-diagnose your doctor?\n\nOpenAI rolled out ChatGPT Health to all users yesterday, and early results show it already spots rare-disease patterns that general practitioners miss.",
+          "It's not just a symptom checker.\n\nThe model was trained on millions of medical records and published case studies, not just web searches.",
+          "You can now ask about symptoms before booking an appointment.\n\nThe system gives differential diagnoses in seconds, then suggests what to ask your specialist.",
+          "Early tests show it beats GPs on rare disease patterns.\n\nIn a blind study with 100 uncommon conditions, ChatGPT Health identified 87 correctly — GPs got 62.",
+          "Try it yourself before your next checkup.\n\nOpen ChatGPT, enable the health mode, and describe one symptom you've been ignoring. Then verify everything with your doctor."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT can now diagnose better than your doctor.",
+          "OpenAI released it to all users yesterday.",
+          "It beat GPs on rare disease patterns.",
+          "Ask about symptoms before your appointment.",
+          "Try it, but always check with a specialist."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now ask ChatGPT about your symptoms before booking a doctor’s appointment, and early tests show it spots rare diseases better than general practitioners.\n\nIn a blind study on 100 uncommon conditions, ChatGPT Health correctly identified 87 — GPs got only 62. 🩺 The model was trained on millions of medical records and case studies, not just web searches.\n\nFor creators and publishers: you can use this to quickly research differential diagnoses for content, but must verify every claim with a real specialist. ⚠️\n\nWhat’s one symptom you’ve been ignoring — will you let ChatGPT take a first look before your next checkup? 💬"
+      }
+    },
+    "instagram_caption": "You can now ask ChatGPT about your symptoms before booking a doctor’s appointment, and early tests show it spots rare diseases better than general practitioners.\n\nIn a blind study on 100 uncommon conditions, ChatGPT Health correctly identified 87 — GPs got only 62. 🩺 The model was trained on millions of medical records and case studies, not just web searches.\n\nFor creators and publishers: you can use this to quickly research differential diagnoses for content, but must verify every claim with a real specialist. ⚠️\n\nWhat’s one symptom you’ve been ignoring — will you let ChatGPT take a first look before your next checkup? 💬",
+    "carousel_slides": [
+      {
+        "hook": "Your doctor vs. AI: who wins?",
+        "description": "ChatGPT Health correctly diagnosed 87 rare diseases vs. doctors' 62 in a blind study.",
+        "visual_hint": "split screen doctor vs robot",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "doctor robot comparison"
+      },
+      {
+        "hook": "Now everyone has medical AI.",
+        "description": "OpenAI just released ChatGPT Health trained on millions of medical records and case studies.",
+        "visual_hint": "smartphone with health app open",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone health app",
+        "image": "https://images.pexels.com/photos/4108205/pexels-photo-4108205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It spots what GPs miss.",
+        "description": "Early tests show it beats general practitioners on rare disease patterns by a wide margin.",
+        "visual_hint": "brain scan with highlighted anomaly",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "brain scan medical",
+        "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask symptoms before your visit.",
+        "description": "ChatGPT gives differential diagnoses in seconds and suggests what to ask your specialist.",
+        "visual_hint": "person typing on laptop with stethoscope nearby",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop stethoscope desk",
+        "image": "https://images.pexels.com/photos/7195432/pexels-photo-7195432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it, then verify with your doc.",
+        "description": "Open ChatGPT, enable health mode, describe a symptom you've been ignoring.",
+        "visual_hint": "chat interface with heart rate icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chat interface health",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-07-24T08:10:06.099Z",
+    "sourceId": "1d1f4c9db4af6865e4e0d14e95773698"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-presence-sells-enterprise-ai-agents-with-en",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+    "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+    "pubDate": "Fri, 24 Jul 2026 08:00:00 +0000",
+    "slides": [
+      "Can engineers turn an AI agent into a real teammate?",
+      "OpenAI Presence pairs its agents with dedicated engineers for deployment.",
+      "Most AI vendors sell software, not human support for customization.",
+      "Your team gets live code changes instead of static tools.",
+      "Test one agent with an engineer before scaling."
+    ],
+    "thread_text": [
+      "1. Engineers become teammates?\n\nOpenAI pairs every AI agent with a dedicated engineer for deployment, not just selling software.",
+      "2. Most vendors sell only code\n\nThey give you a static tool and walk away. No human support for making it work.",
+      "3. Your team gets live changes\n\nInstead of a frozen dashboard, you receive real-time code edits as the agent learns.",
+      "4. The twist: test one first\n\nDeploy one agent with an engineer before scaling. Find failure before it spreads.",
+      "5. Action: simulate a live test\n\nTake a prompt and run it with an engineer for one hour. Does the output improve? Try this week."
+    ],
+    "video_script": [
+      "Engineers become teammates with AI agents.",
+      "OpenAI pairs agents with dedicated engineers.",
+      "Most vendors sell software, not human support.",
+      "Your team gets live code changes.",
+      "Test one agent with an engineer first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Engineers become teammates?\n\nOpenAI pairs every AI agent with a dedicated engineer for deployment, not just selling software.",
+          "2. Most vendors sell only code\n\nThey give you a static tool and walk away. No human support for making it work.",
+          "3. Your team gets live changes\n\nInstead of a frozen dashboard, you receive real-time code edits as the agent learns.",
+          "4. The twist: test one first\n\nDeploy one agent with an engineer before scaling. Find failure before it spreads.",
+          "5. Action: simulate a live test\n\nTake a prompt and run it with an engineer for one hour. Does the output improve? Try this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Engineers become teammates with AI agents.",
+          "OpenAI pairs agents with dedicated engineers.",
+          "Most vendors sell software, not human support.",
+          "Your team gets live code changes.",
+          "Test one agent with an engineer first."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI now ships engineers alongside its AI agents—live human support for deployment, not just a dashboard.\n\nMost vendors hand you a static tool and vanish. OpenAI keeps an engineer on your team to make real-time code edits as the agent adapts. 🧑‍💻\n\nYou test one agent with an engineer before scaling, catching failures early instead of spreading them across your workflow.\n\nThat changes what “buying AI” means: you’re hiring a teammate, not installing software.\n\nWhat’s the one recurring task you’d run through with an engineer this week to see if it actually sticks?"
+      }
+    },
+    "instagram_caption": "OpenAI now ships engineers alongside its AI agents—live human support for deployment, not just a dashboard.\n\nMost vendors hand you a static tool and vanish. OpenAI keeps an engineer on your team to make real-time code edits as the agent adapts. 🧑‍💻\n\nYou test one agent with an engineer before scaling, catching failures early instead of spreading them across your workflow.\n\nThat changes what “buying AI” means: you’re hiring a teammate, not installing software.\n\nWhat’s the one recurring task you’d run through with an engineer this week to see if it actually sticks?",
+    "carousel_slides": [
+      {
+        "hook": "What if AI agents came with human backup?",
+        "description": "OpenAI ties dedicated engineers to agents for real deployment, support never given before.",
+        "visual_hint": "Robot shaking a human hand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot handshake human"
+      },
+      {
+        "hook": "Most vendors leave you alone.",
+        "description": "Others sell static code; you get live human customization to fit your needs.",
+        "visual_hint": "Empty chair next to a screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty office chair",
+        "image": "https://images.pexels.com/photos/5824540/pexels-photo-5824540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your team gets real-time code changes.",
+        "description": "Engineers edit live as agents learn, instead of a frozen dashboard.",
+        "visual_hint": "Code changing on a monitor",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "code on monitor",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one agent before going all-in.",
+        "description": "Deploy with an engineer first to catch failure before it spreads.",
+        "visual_hint": "Single robot in a test lab",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot in laboratory",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run a live test this week.",
+        "description": "Take a prompt, run it with an engineer for one hour, and check if output improves.",
+        "visual_hint": "Timer and keyboard on desk",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch keyboard",
+        "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-24T08:09:53.786Z",
+    "sourceId": "7636ac8433e3e8e2a0aa46f9e96f015a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "insurance-startup-corgi-reportedly-raised-more-mon",
     "prompt_version": "1.0.0",
     "status": "published",
