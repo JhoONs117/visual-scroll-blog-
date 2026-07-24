@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "bluesky-s-ai-assistant-attie-expands-into-an-open-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
+    "slides": [
+      "Bluesky's Attie was just a chatbot—what changed?",
+      "Now it analyzes public conversations across Bluesky.",
+      "Unlike competitors, Attie shares its methodology openly.",
+      "You can trace exactly how it surfaces patterns.",
+      "Start today: review one research thread with Attie."
+    ],
+    "thread_text": [
+      "What changed with Attie?\n\nIt started as a simple chatbot. Now it scans every public post on Bluesky.",
+      "The open methodology\n\nYou can see the exact data and filters Attie uses to find patterns.",
+      "Trace every step\n\nEach pattern surfaced by Attie comes with a transparent audit trail.",
+      "Patterns others hide\n\nCompetitors keep their algorithms black-box. Attie shows its workings.",
+      "Review one thread now\n\nPick any Bluesky discussion and run it through Attie today."
+    ],
+    "video_script": [
+      "Attie was a chatbot, now it analyzes conversations.",
+      "It shares its methodology openly for anyone to see.",
+      "You can trace exactly how patterns get surfaced.",
+      "Competitors hide their work, Attie shows it.",
+      "Review a Bluesky thread with Attie today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "What changed with Attie?\n\nIt started as a simple chatbot. Now it scans every public post on Bluesky.",
+          "The open methodology\n\nYou can see the exact data and filters Attie uses to find patterns.",
+          "Trace every step\n\nEach pattern surfaced by Attie comes with a transparent audit trail.",
+          "Patterns others hide\n\nCompetitors keep their algorithms black-box. Attie shows its workings.",
+          "Review one thread now\n\nPick any Bluesky discussion and run it through Attie today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Attie was a chatbot, now it analyzes conversations.",
+          "It shares its methodology openly for anyone to see.",
+          "You can trace exactly how patterns get surfaced.",
+          "Competitors hide their work, Attie shows it.",
+          "Review a Bluesky thread with Attie today."
+        ]
+      },
+      "instagram": {
+        "caption": "Bluesky’s Attie now lets you see the exact data and filters it uses to find patterns in public conversations, step by step. 🔍\n\nIt started as a simple chatbot. Now it scans every public post on the platform. Unlike competitors who keep their algorithms hidden, Attie leaves an open audit trail. 🧾\n\nIf you create or share content on Bluesky, you can now verify exactly how your posts get interpreted. No more guessing.\n\n👉 Pick one Bluesky discussion you care about and run it through Attie today. What do you discover?"
+      }
+    },
+    "instagram_caption": "Bluesky’s Attie now lets you see the exact data and filters it uses to find patterns in public conversations, step by step. 🔍\n\nIt started as a simple chatbot. Now it scans every public post on the platform. Unlike competitors who keep their algorithms hidden, Attie leaves an open audit trail. 🧾\n\nIf you create or share content on Bluesky, you can now verify exactly how your posts get interpreted. No more guessing.\n\n👉 Pick one Bluesky discussion you care about and run it through Attie today. What do you discover?",
+    "carousel_slides": [
+      {
+        "hook": "Why is your data an open book?",
+        "description": "Bluesky's Attie reveals every filter it uses to scan public posts.",
+        "visual_hint": "transparent magnifying glass over data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room racks"
+      },
+      {
+        "hook": "No black boxes here.",
+        "description": "Attie shows exact data and filters used to find conversation patterns.",
+        "visual_hint": "open laptop with code lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every pattern has a trail.",
+        "description": "Attie provides a transparent audit trail for each surfaced pattern.",
+        "visual_hint": "arrow pointing through steps",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors hide; Attie shows.",
+        "description": "While others keep algorithms secret, Attie publishes its working methodology.",
+        "visual_hint": "contrast between open and closed books",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to try Attie now.",
+        "description": "Pick any Bluesky discussion and run it through Attie today.",
+        "visual_hint": "finger tapping smartphone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels field",
+        "image": "https://images.pexels.com/photos/27637329/pexels-photo-27637329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-24T15:20:51.201Z",
+    "sourceId": "336e69437c671d335e3869f75317052e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "edtech-platform-raises-4-5m-to-help-teach-students",
     "prompt_version": "1.0.0",
     "status": "published",
