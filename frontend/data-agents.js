@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "how-ai-guardrails-are-impeding-the-work-of-offensi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "pubDate": "Fri, 24 Jul 2026 01:00:00 +0000",
+      "slides": [
+        "Can AI guardrails block your offensive security research?",
+        "Models refuse to simulate malicious attacker commands.",
+        "Even benign payloads trigger false positive blocks.",
+        "Your tests get truncated outputs, losing critical data.",
+        "Benchmark each tool's guardrails before your next red team."
+      ],
+      "thread_text": [
+        "1. Your AI blocks your own tests.\n\nModels now refuse to simulate malicious commands — even when you need them for security research.",
+        "2. Benign payloads, false blocks.\n\nSimple test payloads like 'ping' trigger guardrails. You hit a wall before you even start.",
+        "3. Truncated outputs hide findings.\n\nYour tool cuts off the response mid-command. Critical data from a red team test disappears.",
+        "4. Guardrails hurt offensive work.\n\nEvery security researcher now fights the same AI safety rules they're supposed to evaluate.",
+        "5. Benchmark each tool this week.\n\nTake a basic red team prompt and run it on GPT, Claude, and Gemini. Which one blocks you first?"
+      ],
+      "video_script": [
+        "AI guardrails block your own security tests.",
+        "Models refuse to simulate attacker commands.",
+        "Even benign payloads trigger false positives.",
+        "Truncated outputs lose critical red team data.",
+        "Benchmark each tool before your next test."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI blocks your own tests.\n\nModels now refuse to simulate malicious commands — even when you need them for security research.",
+            "2. Benign payloads, false blocks.\n\nSimple test payloads like 'ping' trigger guardrails. You hit a wall before you even start.",
+            "3. Truncated outputs hide findings.\n\nYour tool cuts off the response mid-command. Critical data from a red team test disappears.",
+            "4. Guardrails hurt offensive work.\n\nEvery security researcher now fights the same AI safety rules they're supposed to evaluate.",
+            "5. Benchmark each tool this week.\n\nTake a basic red team prompt and run it on GPT, Claude, and Gemini. Which one blocks you first?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI guardrails block your own security tests.",
+            "Models refuse to simulate attacker commands.",
+            "Even benign payloads trigger false positives.",
+            "Truncated outputs lose critical red team data.",
+            "Benchmark each tool before your next test."
+          ]
+        },
+        "instagram": {
+          "caption": "Your red teaming tool refuses to simulate a malicious command—even when you're testing security. 🔒\n\nSimple payloads like 'ping' get blocked as false positives. Mid-response, the output gets cut off, hiding critical test data. 📉\n\nEvery offensive researcher now fights the same AI guardrails they're supposed to be evaluating.\n\nWhich model—GPT, Claude, or Gemini—blocks your first basic red team prompt this week?"
+        }
+      },
+      "instagram_caption": "Your red teaming tool refuses to simulate a malicious command—even when you're testing security. 🔒\n\nSimple payloads like 'ping' get blocked as false positives. Mid-response, the output gets cut off, hiding critical test data. 📉\n\nEvery offensive researcher now fights the same AI guardrails they're supposed to be evaluating.\n\nWhich model—GPT, Claude, or Gemini—blocks your first basic red team prompt this week?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI blocks your own tests?",
+          "description": "Models refuse to simulate malicious commands even for security research, blocking critical work.",
+          "visual_hint": "Red lock on terminal",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer terminal lock"
+        },
+        {
+          "hook": "Benign payloads trigger false blocks.",
+          "description": "Simple test payloads like 'ping' trigger guardrails, stopping tests before they start.",
+          "visual_hint": "Shield blocking ping",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network cable shield",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Truncated outputs hide findings.",
+          "description": "Your tool cuts off responses mid-command, losing critical data from red team tests.",
+          "visual_hint": "Cut cable data loss",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "scissors cutting cable",
+          "image": "https://images.pexels.com/photos/6863324/pexels-photo-6863324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Guardrails hurt offensive work.",
+          "description": "Security researchers now fight the same AI safety rules they are supposed to evaluate.",
+          "visual_hint": "Researcher blocked by wall",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person hitting wall",
+          "image": "https://images.pexels.com/photos/6456177/pexels-photo-6456177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Benchmark each tool this week.",
+          "description": "Run a basic red team prompt on GPT, Claude, and Gemini to see which blocks you first.",
+          "visual_hint": "Three AI logos comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "three computer monitors",
+          "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8296947/pexels-photo-8296947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-24T01:53:39.811Z",
+      "sourceId": "f254e58029de8cb92b58b7ee78c099f8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "claude-s-voice-mode-is-now-available-for-opus-and-",
       "prompt_version": "1.0.0",
       "status": "published",
