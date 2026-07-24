@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "insurance-startup-corgi-reportedly-raised-more-mon",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "pubDate": "Thu, 23 Jul 2026 20:13:24 +0000",
+      "slides": [
+        "Corgi just raised again—at $4B. How?",
+        "This marks its third funding round in eight weeks.",
+        "Most startups take years to raise that much.",
+        "If you insure through Corgi, pricing may shift soon.",
+        "Check your renewal—see if the math changed."
+      ],
+      "thread_text": [
+        "1. $4B in 8 weeks?\n\nCorgi just closed its third funding round in two months — a pace most startups never hit.",
+        "2. Speed changes rules.\n\nWhen a company raises that fast, the math on premiums often gets recalculated behind the scenes.",
+        "3. Your policy is next.\n\nThat velocity signals a pricing shift is already being modeled for current customers.",
+        "4. Timing is the trigger.\n\nRenewal notices are where those adjustments land — and you won't get a warning.",
+        "5. Check your renewal.\n\nOpen your latest policy document today and compare the premium line to last term."
+      ],
+      "video_script": [
+        "Corgi raised four billion dollars fast.",
+        "That was their third round in two months.",
+        "Most startups take years to do that.",
+        "Your insurance price may change soon.",
+        "Check your renewal numbers right now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $4B in 8 weeks?\n\nCorgi just closed its third funding round in two months — a pace most startups never hit.",
+            "2. Speed changes rules.\n\nWhen a company raises that fast, the math on premiums often gets recalculated behind the scenes.",
+            "3. Your policy is next.\n\nThat velocity signals a pricing shift is already being modeled for current customers.",
+            "4. Timing is the trigger.\n\nRenewal notices are where those adjustments land — and you won't get a warning.",
+            "5. Check your renewal.\n\nOpen your latest policy document today and compare the premium line to last term."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Corgi raised four billion dollars fast.",
+            "That was their third round in two months.",
+            "Most startups take years to do that.",
+            "Your insurance price may change soon.",
+            "Check your renewal numbers right now."
+          ]
+        },
+        "instagram": {
+          "caption": "$4B in eight weeks — three funding rounds, same insurance startup.🚀\n\nWhen capital floods in that fast, your policy math is getting recalculated next.  \nCorgi’s pricing models shift behind the scenes, not with a warning.\n\nYou’ll see it first on your renewal notice.📄  \nOpen last term’s premium and compare it to the new one — did the number change?🔍"
+        }
+      },
+      "instagram_caption": "$4B in eight weeks — three funding rounds, same insurance startup.🚀\n\nWhen capital floods in that fast, your policy math is getting recalculated next.  \nCorgi’s pricing models shift behind the scenes, not with a warning.\n\nYou’ll see it first on your renewal notice.📄  \nOpen last term’s premium and compare it to the new one — did the number change?🔍",
+      "carousel_slides": [
+        {
+          "hook": "How did Corgi hit $4B?",
+          "description": "Corgi just closed its third funding round in eight weeks, a pace most startups never achieve.",
+          "visual_hint": "Rocket launching upward",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rocket launch"
+        },
+        {
+          "hook": "Speed changes insurance math.",
+          "description": "Three rounds in two months means premium calculations are being silently recalculated behind the scenes.",
+          "visual_hint": "Numbers shifting on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your policy could be next.",
+          "description": "That rapid fundraising signals a pricing shift is already being modeled for current customers.",
+          "visual_hint": "Document with magnifying glass",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "insurance document",
+          "image": "https://images.pexels.com/photos/7736031/pexels-photo-7736031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Renewal is where it lands.",
+          "description": "Premium adjustments hit at renewal time — and you won't get a warning before the change.",
+          "visual_hint": "Clock and envelope",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "envelope and clock",
+          "image": "https://images.pexels.com/photos/5477704/pexels-photo-5477704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your renewal now.",
+          "description": "Open your latest policy document today and compare the premium line to last term.",
+          "visual_hint": "Hand holding paper",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "hand holding paper",
+          "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1445389473.jpg?resize=1200,675",
+      "savedAt": "2026-07-24T05:13:36.051Z",
+      "sourceId": "c35d420edf0903f8ddfff210cf9e6eb9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-ai-guardrails-are-impeding-the-work-of-offensi",
       "prompt_version": "1.0.0",
       "status": "published",
