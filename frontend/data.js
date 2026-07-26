@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "build-in-public-fail-in-public-what-it-s-like-to-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now ",
+    "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "slides": [
+      "Why would a teen founder broadcast their biggest failure live?",
+      "Building in public means sharing revenue drops instantly.",
+      "But one viral mistake scared off my first five investors.",
+      "You now pivot before the trolls even finish commenting.",
+      "Stop curating; post your ugliest dashboard screenshot today."
+    ],
+    "thread_text": [
+      "1. Why broadcast failure live?\n\nA teen founder streamed revenue data and instantly lost five investors.",
+      "2. Building in public backfired.\n\nThe same transparency that attracted followers pushed away funding.",
+      "3. A single mistake changed everything.\n\nOne viral screenshot turned supporters into critics before the meeting ended.",
+      "4. Pivot faster than the trolls.\n\nReaction time dropped from weeks to hours. Every comment now forces a product change.",
+      "5. Post your ugliest dashboard today.\n\nTake one screenshot of your worst metric this week and share it publicly. What do you have to lose?"
+    ],
+    "video_script": [
+      "Broadcast your biggest failure live.",
+      "Investors saw revenue drop instantly.",
+      "One viral mistake scared them off.",
+      "Pivot before trolls finish commenting.",
+      "Post your ugliest screenshot today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why broadcast failure live?\n\nA teen founder streamed revenue data and instantly lost five investors.",
+          "2. Building in public backfired.\n\nThe same transparency that attracted followers pushed away funding.",
+          "3. A single mistake changed everything.\n\nOne viral screenshot turned supporters into critics before the meeting ended.",
+          "4. Pivot faster than the trolls.\n\nReaction time dropped from weeks to hours. Every comment now forces a product change.",
+          "5. Post your ugliest dashboard today.\n\nTake one screenshot of your worst metric this week and share it publicly. What do you have to lose?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Broadcast your biggest failure live.",
+          "Investors saw revenue drop instantly.",
+          "One viral mistake scared them off.",
+          "Pivot before trolls finish commenting.",
+          "Post your ugliest screenshot today."
+        ]
+      },
+      "instagram": {
+        "caption": "A teen founder livestreamed their revenue drop and lost five investors in real time. 📉\n\nBuilding in public means sharing every failure instantly. One viral mistake can turn supporters into critics before the meeting ends.\n\nThe same transparency that grows an audience can kill your funding round.\n\nNow reaction time drops from weeks to hours—trolls force pivot decisions before you finish reading comments.\n\nWould you post your ugliest dashboard screenshot this week, or does the risk outweigh the followers? 🚨"
+      }
+    },
+    "instagram_caption": "A teen founder livestreamed their revenue drop and lost five investors in real time. 📉\n\nBuilding in public means sharing every failure instantly. One viral mistake can turn supporters into critics before the meeting ends.\n\nThe same transparency that grows an audience can kill your funding round.\n\nNow reaction time drops from weeks to hours—trolls force pivot decisions before you finish reading comments.\n\nWould you post your ugliest dashboard screenshot this week, or does the risk outweigh the followers? 🚨",
+    "carousel_slides": [
+      {
+        "hook": "A viral mistake cost investors.",
+        "description": "A teen founder broadcast revenue data and lost five investors instantly.",
+        "visual_hint": "Screenshot of falling chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Transparency pushed funding away.",
+        "description": "The same openness that attracted followers scared off financial backers.",
+        "visual_hint": "Person holding phone with graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One screenshot turned fans hostile.",
+        "description": "A single viral image changed supporters into critics before the meeting ended.",
+        "visual_hint": "Magnifying glass on screenshot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pivot faster than trolls type.",
+        "description": "Reaction time dropped from weeks to hours; every comment now forces a product change.",
+        "visual_hint": "Hand typing on keyboard rapidly",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person typing keyboard",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Post your worst metric now.",
+        "description": "Take one screenshot of your worst dashboard number this week and share it publicly.",
+        "visual_hint": "Phone showing red arrow dashboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen graph",
+        "image": "https://images.pexels.com/photos/5717765/pexels-photo-5717765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1503399381.jpg?resize=1200,683",
+    "savedAt": "2026-07-26T11:14:45.646Z",
+    "sourceId": "10d54bf8208bc002b5d3d07b0cd9d0b2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "one-fallen-power-line-exposed-a-growing-ai-data-ce",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+    "slides": [
+      "What happens when a power line falls on AI data centers?",
+      "A single outage took down half a billion in compute.",
+      "Backup generators failed where physics couldn't be bypassed.",
+      "Your workloads now need distributed, not centralized, power.",
+      "Test failover zones before the next blackout hits."
+    ],
+    "thread_text": [
+      "1. Power falls, compute dies.\n\nA single falling power line knocked out $500 million in GPU compute. No cyberattack, no software bug.",
+      "2. Physics won't wait.\n\nBackup generators took milliseconds to engage. Milliseconds too late. Capacitors drained and racks went dark instantly.",
+      "3. Central power is single point.\n\nYour workloads live in one facility fed by one substation. That substation just became a chokepoint you cannot control.",
+      "4. The only fix is distribution.\n\nDistribute compute across multiple zones with independent feeds. No single line can take down all your training runs.",
+      "5. Test your zones this week.\n\nSchedule a forced failover drill on your lowest priority workload. If it doesn't survive, you have a hole."
+    ],
+    "video_script": [
+      "A power line falls on data centers.",
+      "Half a billion in compute goes dark.",
+      "Generators failed because physics is unforgiving.",
+      "Your workloads need distributed power now.",
+      "Test failover zones before the next blackout."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Power falls, compute dies.\n\nA single falling power line knocked out $500 million in GPU compute. No cyberattack, no software bug.",
+          "2. Physics won't wait.\n\nBackup generators took milliseconds to engage. Milliseconds too late. Capacitors drained and racks went dark instantly.",
+          "3. Central power is single point.\n\nYour workloads live in one facility fed by one substation. That substation just became a chokepoint you cannot control.",
+          "4. The only fix is distribution.\n\nDistribute compute across multiple zones with independent feeds. No single line can take down all your training runs.",
+          "5. Test your zones this week.\n\nSchedule a forced failover drill on your lowest priority workload. If it doesn't survive, you have a hole."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A power line falls on data centers.",
+          "Half a billion in compute goes dark.",
+          "Generators failed because physics is unforgiving.",
+          "Your workloads need distributed power now.",
+          "Test failover zones before the next blackout."
+        ]
+      },
+      "instagram": {
+        "caption": "$500 million in GPU compute wiped out by a single fallen power line. No cyberattack, no bug—just a wire hitting the ground.\n\nBackup generators kicked in milliseconds too late. By then, capacitors drained and racks went dark. Centralized power became a single point of failure.\n\nIf your training runs live in one facility fed by one substation, you have a ticking clock. The fix is distribution: compute across zones with independent feeds 🧠.\n\nWhen did you last test whether your failover zones actually work? Schedule a forced drill this week on your lowest priority workload. If it doesn’t survive, you have a gap 🔌."
+      }
+    },
+    "instagram_caption": "$500 million in GPU compute wiped out by a single fallen power line. No cyberattack, no bug—just a wire hitting the ground.\n\nBackup generators kicked in milliseconds too late. By then, capacitors drained and racks went dark. Centralized power became a single point of failure.\n\nIf your training runs live in one facility fed by one substation, you have a ticking clock. The fix is distribution: compute across zones with independent feeds 🧠.\n\nWhen did you last test whether your failover zones actually work? Schedule a forced drill this week on your lowest priority workload. If it doesn’t survive, you have a gap 🔌.",
+    "carousel_slides": [
+      {
+        "hook": "Physics won't wait for backup.",
+        "description": "A falling power line caused $500M in GPU losses. Generators failed milliseconds too late.",
+        "visual_hint": "Dark server room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room dark"
+      },
+      {
+        "hook": "One substation, single choke point.",
+        "description": "Centralized power puts all compute at risk. One failure kills your training runs.",
+        "visual_hint": "Substation power lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power substation",
+        "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Capacitors drained in milliseconds.",
+        "description": "Backup generators couldn't engage fast enough. Racks went dark instantly.",
+        "visual_hint": "Capacitor bank close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "capacitor bank",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Distribute compute across zones.",
+        "description": "No single line can take down all workloads. Independent feeds prevent blackouts.",
+        "visual_hint": "Map with multiple zones",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "data center map",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test failover zones this week.",
+        "description": "Run a forced drill on your lowest priority workload. If it fails, fix the hole.",
+        "visual_hint": "Engineer checking rack",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "engineer server rack",
+        "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+    "savedAt": "2026-07-26T11:14:19.292Z",
+    "sourceId": "102564d4308f8be4c3767a7e27f09fe3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "librarians-are-hosting-viral-avoiding-ai-workshops",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+    "slides": [
+      "Who would pay to avoid AI in 2025?",
+      "Librarians now host sold-out 'Avoiding AI' workshops.",
+      "The teacher? A librarian with zero tech background.",
+      "Attendees delete accounts and switch to paper calendars.",
+      "Your move: ask your local library for the next date."
+    ],
+    "thread_text": [
+      "Who pays to skip AI?\n\nA sold-out workshop on 'Avoiding AI' just ended. The teacher had zero tech background.",
+      "The librarian as teacher\n\nShe teaches people to delete accounts and switch to paper calendars. No screens allowed.",
+      "Paper comes back\n\nAttendees pay to unplug. The library can't keep up with demand for these workshops.",
+      "The real cost\n\nPeople are willing to pay to avoid AI in 2025. It's not about fear—it's about buying back control.",
+      "Your move\n\nGo to your local library and ask for the next 'Avoiding AI' workshop date. If they don't have one, ask why."
+    ],
+    "video_script": [
+      "Who pays to avoid AI in 2025?",
+      "Librarians run sold-out workshops to unplug.",
+      "She has zero tech background.",
+      "Attendees delete accounts, switch to paper.",
+      "Ask your library for the next date."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who pays to skip AI?\n\nA sold-out workshop on 'Avoiding AI' just ended. The teacher had zero tech background.",
+          "The librarian as teacher\n\nShe teaches people to delete accounts and switch to paper calendars. No screens allowed.",
+          "Paper comes back\n\nAttendees pay to unplug. The library can't keep up with demand for these workshops.",
+          "The real cost\n\nPeople are willing to pay to avoid AI in 2025. It's not about fear—it's about buying back control.",
+          "Your move\n\nGo to your local library and ask for the next 'Avoiding AI' workshop date. If they don't have one, ask why."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who pays to avoid AI in 2025?",
+          "Librarians run sold-out workshops to unplug.",
+          "She has zero tech background.",
+          "Attendees delete accounts, switch to paper.",
+          "Ask your library for the next date."
+        ]
+      },
+      "instagram": {
+        "caption": "Sold-out workshops teaching people how to delete their online accounts and switch to paper calendars — and the instructor has zero tech background.  \n\nThe teacher is a librarian. Attendees pay to unplug. Libraries can’t keep up with demand.  \n\n📚 This means the audience you target with AI-powered tools is actively choosing to opt out — and paying for the privilege.  \n\nFor your content: do you know who in your community already resents automation? Have you asked them what they want instead?"
+      }
+    },
+    "instagram_caption": "Sold-out workshops teaching people how to delete their online accounts and switch to paper calendars — and the instructor has zero tech background.  \n\nThe teacher is a librarian. Attendees pay to unplug. Libraries can’t keep up with demand.  \n\n📚 This means the audience you target with AI-powered tools is actively choosing to opt out — and paying for the privilege.  \n\nFor your content: do you know who in your community already resents automation? Have you asked them what they want instead?",
+    "carousel_slides": [
+      {
+        "hook": "Paying to escape AI in 2025.",
+        "description": "A sold-out workshop taught by a librarian with no tech background proves demand for digital disconnection.",
+        "visual_hint": "Sold-out sign on library door",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "library door sign"
+      },
+      {
+        "hook": "The teacher has zero tech background.",
+        "description": "A non-technical librarian now leads sold-out workshops on deleting accounts and switching to paper.",
+        "visual_hint": "Librarian holding paper calendar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "paper calendar book",
+        "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Paper calendars are making a comeback.",
+        "description": "Attendees delete accounts and switch to paper tools, and libraries can't keep up with demand.",
+        "visual_hint": "Paper calendar on wooden desk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "paper calendar desk",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They're buying back control from Big Tech.",
+        "description": "In 2025, people pay to avoid AI—not out of fear, but to reclaim autonomy over their digital lives.",
+        "visual_hint": "Person deleting phone account",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to ask your local library.",
+        "description": "Go to your local library and ask for the next 'Avoiding AI' workshop date—or ask why they don't have one.",
+        "visual_hint": "Library event poster on bulletin board",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "library bulletin board",
+        "image": "https://images.pexels.com/photos/5745179/pexels-photo-5745179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+    "savedAt": "2026-07-26T11:14:06.938Z",
+    "sourceId": "9026899f60e4a3664969e501f3cb4191"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-microsoft-nvidia-ibm-and-others-back-open-wei",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+    "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+    "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
+    "slides": [
+      "Why are tech giants suddenly backing open-weight AI?",
+      "Meta, Microsoft, Nvidia, and IBM signed a joint pledge.",
+      "The same companies once fiercely guarded their own models.",
+      "You can now inspect and modify models they previously locked.",
+      "Run a rival model on your own hardware today."
+    ],
+    "thread_text": [
+      "1. The open-weight surrender\n\nMeta, Microsoft, Nvidia, and IBM just signed a joint pledge to open their AI models.",
+      "2. From fortress to free\n\nThese same companies spent years locking down their top models behind proprietary walls.",
+      "3. Inspect and modify\n\nAnyone can now inspect, tweak, or even copy the model code they formerly guarded.",
+      "4. Hardware independence\n\nYou can download a rival model and run it on your own machine today.",
+      "5. Your move\n\nWhich model will you inspect and modify first this week?"
+    ],
+    "video_script": [
+      "Tech giants just flipped their AI strategy.",
+      "They signed a pledge to open their models.",
+      "Those models were once locked tight.",
+      "Now you can inspect and modify them.",
+      "Run a rival model on your own hardware."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The open-weight surrender\n\nMeta, Microsoft, Nvidia, and IBM just signed a joint pledge to open their AI models.",
+          "2. From fortress to free\n\nThese same companies spent years locking down their top models behind proprietary walls.",
+          "3. Inspect and modify\n\nAnyone can now inspect, tweak, or even copy the model code they formerly guarded.",
+          "4. Hardware independence\n\nYou can download a rival model and run it on your own machine today.",
+          "5. Your move\n\nWhich model will you inspect and modify first this week?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tech giants just flipped their AI strategy.",
+          "They signed a pledge to open their models.",
+          "Those models were once locked tight.",
+          "Now you can inspect and modify them.",
+          "Run a rival model on your own hardware."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now download, inspect, and modify AI models from Meta, Microsoft, Nvidia, and IBM—the same models they previously guarded behind proprietary walls.\n\nThese four tech giants just signed a joint pledge to back open-weight AI 🔓. After years of locking down their top models, they’ve reversed course.\n\nIf you create content or tools, you can run a rival model on your own hardware today—no permission needed.\n\nWhich model will you download and tweak first this week? 🖥️⚙️"
+      }
+    },
+    "instagram_caption": "You can now download, inspect, and modify AI models from Meta, Microsoft, Nvidia, and IBM—the same models they previously guarded behind proprietary walls.\n\nThese four tech giants just signed a joint pledge to back open-weight AI 🔓. After years of locking down their top models, they’ve reversed course.\n\nIf you create content or tools, you can run a rival model on your own hardware today—no permission needed.\n\nWhich model will you download and tweak first this week? 🖥️⚙️",
+    "carousel_slides": [
+      {
+        "hook": "You can now inspect their models",
+        "description": "Tech giants who guarded AI models just signed a pledge to open them for inspection and modification.",
+        "visual_hint": "Open padlock on blue background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "open padlock"
+      },
+      {
+        "hook": "From fortress to free",
+        "description": "Meta, Microsoft, Nvidia, and IBM once locked top models behind proprietary walls.",
+        "visual_hint": "Fortress gate opening",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fortress gate",
+        "image": "https://images.pexels.com/photos/23879725/pexels-photo-23879725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Inspect and modify freely",
+        "description": "Anyone can now inspect, tweak, or copy the model code they formerly guarded.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run rivals on your hardware",
+        "description": "Download a rival model and run it on your own machine today.",
+        "visual_hint": "Hand holding laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand laptop",
+        "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which model will you inspect first?",
+        "description": "Save this post, then visit our link in bio to start modifying open-weight AI today.",
+        "visual_hint": "Arrow pointing down to bio",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-26T11:13:54.797Z",
+    "sourceId": "51bf72a920baaabe21002c25bec0a6c9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "bluesky-s-ai-assistant-attie-expands-into-an-open-",
     "prompt_version": "1.0.0",
     "status": "published",

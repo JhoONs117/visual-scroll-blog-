@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "librarians-are-hosting-viral-avoiding-ai-workshops",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+  "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+  "pubDate": "Sat, 25 Jul 2026 16:00:00 +0000",
+  "slides": [
+    "Who would pay to avoid AI in 2025?",
+    "Librarians now host sold-out 'Avoiding AI' workshops.",
+    "The teacher? A librarian with zero tech background.",
+    "Attendees delete accounts and switch to paper calendars.",
+    "Your move: ask your local library for the next date."
+  ],
+  "thread_text": [
+    "Who pays to skip AI?\n\nA sold-out workshop on 'Avoiding AI' just ended. The teacher had zero tech background.",
+    "The librarian as teacher\n\nShe teaches people to delete accounts and switch to paper calendars. No screens allowed.",
+    "Paper comes back\n\nAttendees pay to unplug. The library can't keep up with demand for these workshops.",
+    "The real cost\n\nPeople are willing to pay to avoid AI in 2025. It's not about fear—it's about buying back control.",
+    "Your move\n\nGo to your local library and ask for the next 'Avoiding AI' workshop date. If they don't have one, ask why."
+  ],
+  "video_script": [
+    "Who pays to avoid AI in 2025?",
+    "Librarians run sold-out workshops to unplug.",
+    "She has zero tech background.",
+    "Attendees delete accounts, switch to paper.",
+    "Ask your library for the next date."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Who pays to skip AI?\n\nA sold-out workshop on 'Avoiding AI' just ended. The teacher had zero tech background.",
+        "The librarian as teacher\n\nShe teaches people to delete accounts and switch to paper calendars. No screens allowed.",
+        "Paper comes back\n\nAttendees pay to unplug. The library can't keep up with demand for these workshops.",
+        "The real cost\n\nPeople are willing to pay to avoid AI in 2025. It's not about fear—it's about buying back control.",
+        "Your move\n\nGo to your local library and ask for the next 'Avoiding AI' workshop date. If they don't have one, ask why."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who pays to avoid AI in 2025?",
+        "Librarians run sold-out workshops to unplug.",
+        "She has zero tech background.",
+        "Attendees delete accounts, switch to paper.",
+        "Ask your library for the next date."
+      ]
+    },
+    "instagram": {
+      "caption": "Sold-out workshops teaching people how to delete their online accounts and switch to paper calendars — and the instructor has zero tech background.  \n\nThe teacher is a librarian. Attendees pay to unplug. Libraries can’t keep up with demand.  \n\n📚 This means the audience you target with AI-powered tools is actively choosing to opt out — and paying for the privilege.  \n\nFor your content: do you know who in your community already resents automation? Have you asked them what they want instead?"
+    }
+  },
+  "instagram_caption": "Sold-out workshops teaching people how to delete their online accounts and switch to paper calendars — and the instructor has zero tech background.  \n\nThe teacher is a librarian. Attendees pay to unplug. Libraries can’t keep up with demand.  \n\n📚 This means the audience you target with AI-powered tools is actively choosing to opt out — and paying for the privilege.  \n\nFor your content: do you know who in your community already resents automation? Have you asked them what they want instead?",
+  "carousel_slides": [
+    {
+      "hook": "Paying to escape AI in 2025.",
+      "description": "A sold-out workshop taught by a librarian with no tech background proves demand for digital disconnection.",
+      "visual_hint": "Sold-out sign on library door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "library door sign"
+    },
+    {
+      "hook": "The teacher has zero tech background.",
+      "description": "A non-technical librarian now leads sold-out workshops on deleting accounts and switching to paper.",
+      "visual_hint": "Librarian holding paper calendar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "paper calendar book",
+      "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paper calendars are making a comeback.",
+      "description": "Attendees delete accounts and switch to paper tools, and libraries can't keep up with demand.",
+      "visual_hint": "Paper calendar on wooden desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "paper calendar desk",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They're buying back control from Big Tech.",
+      "description": "In 2025, people pay to avoid AI—not out of fear, but to reclaim autonomy over their digital lives.",
+      "visual_hint": "Person deleting phone account",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to ask your local library.",
+      "description": "Go to your local library and ask for the next 'Avoiding AI' workshop date—or ask why they don't have one.",
+      "visual_hint": "Library event poster on bulletin board",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "library bulletin board",
+      "image": "https://images.pexels.com/photos/5745179/pexels-photo-5745179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+  "savedAt": "2026-07-26T11:14:06.938Z",
+  "sourceId": "9026899f60e4a3664969e501f3cb4191"
+}

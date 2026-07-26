@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-microsoft-nvidia-ibm-and-others-back-open-wei",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+  "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+  "pubDate": "Fri, 24 Jul 2026 16:18:30 +0000",
+  "slides": [
+    "Why are tech giants suddenly backing open-weight AI?",
+    "Meta, Microsoft, Nvidia, and IBM signed a joint pledge.",
+    "The same companies once fiercely guarded their own models.",
+    "You can now inspect and modify models they previously locked.",
+    "Run a rival model on your own hardware today."
+  ],
+  "thread_text": [
+    "1. The open-weight surrender\n\nMeta, Microsoft, Nvidia, and IBM just signed a joint pledge to open their AI models.",
+    "2. From fortress to free\n\nThese same companies spent years locking down their top models behind proprietary walls.",
+    "3. Inspect and modify\n\nAnyone can now inspect, tweak, or even copy the model code they formerly guarded.",
+    "4. Hardware independence\n\nYou can download a rival model and run it on your own machine today.",
+    "5. Your move\n\nWhich model will you inspect and modify first this week?"
+  ],
+  "video_script": [
+    "Tech giants just flipped their AI strategy.",
+    "They signed a pledge to open their models.",
+    "Those models were once locked tight.",
+    "Now you can inspect and modify them.",
+    "Run a rival model on your own hardware."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The open-weight surrender\n\nMeta, Microsoft, Nvidia, and IBM just signed a joint pledge to open their AI models.",
+        "2. From fortress to free\n\nThese same companies spent years locking down their top models behind proprietary walls.",
+        "3. Inspect and modify\n\nAnyone can now inspect, tweak, or even copy the model code they formerly guarded.",
+        "4. Hardware independence\n\nYou can download a rival model and run it on your own machine today.",
+        "5. Your move\n\nWhich model will you inspect and modify first this week?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tech giants just flipped their AI strategy.",
+        "They signed a pledge to open their models.",
+        "Those models were once locked tight.",
+        "Now you can inspect and modify them.",
+        "Run a rival model on your own hardware."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now download, inspect, and modify AI models from Meta, Microsoft, Nvidia, and IBM—the same models they previously guarded behind proprietary walls.\n\nThese four tech giants just signed a joint pledge to back open-weight AI 🔓. After years of locking down their top models, they’ve reversed course.\n\nIf you create content or tools, you can run a rival model on your own hardware today—no permission needed.\n\nWhich model will you download and tweak first this week? 🖥️⚙️"
+    }
+  },
+  "instagram_caption": "You can now download, inspect, and modify AI models from Meta, Microsoft, Nvidia, and IBM—the same models they previously guarded behind proprietary walls.\n\nThese four tech giants just signed a joint pledge to back open-weight AI 🔓. After years of locking down their top models, they’ve reversed course.\n\nIf you create content or tools, you can run a rival model on your own hardware today—no permission needed.\n\nWhich model will you download and tweak first this week? 🖥️⚙️",
+  "carousel_slides": [
+    {
+      "hook": "You can now inspect their models",
+      "description": "Tech giants who guarded AI models just signed a pledge to open them for inspection and modification.",
+      "visual_hint": "Open padlock on blue background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open padlock"
+    },
+    {
+      "hook": "From fortress to free",
+      "description": "Meta, Microsoft, Nvidia, and IBM once locked top models behind proprietary walls.",
+      "visual_hint": "Fortress gate opening",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fortress gate",
+      "image": "https://images.pexels.com/photos/23879725/pexels-photo-23879725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Inspect and modify freely",
+      "description": "Anyone can now inspect, tweak, or copy the model code they formerly guarded.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run rivals on your hardware",
+      "description": "Download a rival model and run it on your own machine today.",
+      "visual_hint": "Hand holding laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand laptop",
+      "image": "https://images.pexels.com/photos/5231337/pexels-photo-5231337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which model will you inspect first?",
+      "description": "Save this post, then visit our link in bio to start modifying open-weight AI today.",
+      "visual_hint": "Arrow pointing down to bio",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-26T11:13:54.797Z",
+  "sourceId": "51bf72a920baaabe21002c25bec0a6c9"
+}

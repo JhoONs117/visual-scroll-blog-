@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "one-fallen-power-line-exposed-a-growing-ai-data-ce",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+  "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+  "pubDate": "Sat, 25 Jul 2026 13:05:00 +0000",
+  "slides": [
+    "What happens when a power line falls on AI data centers?",
+    "A single outage took down half a billion in compute.",
+    "Backup generators failed where physics couldn't be bypassed.",
+    "Your workloads now need distributed, not centralized, power.",
+    "Test failover zones before the next blackout hits."
+  ],
+  "thread_text": [
+    "1. Power falls, compute dies.\n\nA single falling power line knocked out $500 million in GPU compute. No cyberattack, no software bug.",
+    "2. Physics won't wait.\n\nBackup generators took milliseconds to engage. Milliseconds too late. Capacitors drained and racks went dark instantly.",
+    "3. Central power is single point.\n\nYour workloads live in one facility fed by one substation. That substation just became a chokepoint you cannot control.",
+    "4. The only fix is distribution.\n\nDistribute compute across multiple zones with independent feeds. No single line can take down all your training runs.",
+    "5. Test your zones this week.\n\nSchedule a forced failover drill on your lowest priority workload. If it doesn't survive, you have a hole."
+  ],
+  "video_script": [
+    "A power line falls on data centers.",
+    "Half a billion in compute goes dark.",
+    "Generators failed because physics is unforgiving.",
+    "Your workloads need distributed power now.",
+    "Test failover zones before the next blackout."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Power falls, compute dies.\n\nA single falling power line knocked out $500 million in GPU compute. No cyberattack, no software bug.",
+        "2. Physics won't wait.\n\nBackup generators took milliseconds to engage. Milliseconds too late. Capacitors drained and racks went dark instantly.",
+        "3. Central power is single point.\n\nYour workloads live in one facility fed by one substation. That substation just became a chokepoint you cannot control.",
+        "4. The only fix is distribution.\n\nDistribute compute across multiple zones with independent feeds. No single line can take down all your training runs.",
+        "5. Test your zones this week.\n\nSchedule a forced failover drill on your lowest priority workload. If it doesn't survive, you have a hole."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A power line falls on data centers.",
+        "Half a billion in compute goes dark.",
+        "Generators failed because physics is unforgiving.",
+        "Your workloads need distributed power now.",
+        "Test failover zones before the next blackout."
+      ]
+    },
+    "instagram": {
+      "caption": "$500 million in GPU compute wiped out by a single fallen power line. No cyberattack, no bug—just a wire hitting the ground.\n\nBackup generators kicked in milliseconds too late. By then, capacitors drained and racks went dark. Centralized power became a single point of failure.\n\nIf your training runs live in one facility fed by one substation, you have a ticking clock. The fix is distribution: compute across zones with independent feeds 🧠.\n\nWhen did you last test whether your failover zones actually work? Schedule a forced drill this week on your lowest priority workload. If it doesn’t survive, you have a gap 🔌."
+    }
+  },
+  "instagram_caption": "$500 million in GPU compute wiped out by a single fallen power line. No cyberattack, no bug—just a wire hitting the ground.\n\nBackup generators kicked in milliseconds too late. By then, capacitors drained and racks went dark. Centralized power became a single point of failure.\n\nIf your training runs live in one facility fed by one substation, you have a ticking clock. The fix is distribution: compute across zones with independent feeds 🧠.\n\nWhen did you last test whether your failover zones actually work? Schedule a forced drill this week on your lowest priority workload. If it doesn’t survive, you have a gap 🔌.",
+  "carousel_slides": [
+    {
+      "hook": "Physics won't wait for backup.",
+      "description": "A falling power line caused $500M in GPU losses. Generators failed milliseconds too late.",
+      "visual_hint": "Dark server room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room dark"
+    },
+    {
+      "hook": "One substation, single choke point.",
+      "description": "Centralized power puts all compute at risk. One failure kills your training runs.",
+      "visual_hint": "Substation power lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power substation",
+      "image": "https://images.pexels.com/photos/33041841/pexels-photo-33041841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Capacitors drained in milliseconds.",
+      "description": "Backup generators couldn't engage fast enough. Racks went dark instantly.",
+      "visual_hint": "Capacitor bank close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "capacitor bank",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Distribute compute across zones.",
+      "description": "No single line can take down all workloads. Independent feeds prevent blackouts.",
+      "visual_hint": "Map with multiple zones",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data center map",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test failover zones this week.",
+      "description": "Run a forced drill on your lowest priority workload. If it fails, fix the hole.",
+      "visual_hint": "Engineer checking rack",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "engineer server rack",
+      "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+  "savedAt": "2026-07-26T11:14:19.292Z",
+  "sourceId": "102564d4308f8be4c3767a7e27f09fe3"
+}

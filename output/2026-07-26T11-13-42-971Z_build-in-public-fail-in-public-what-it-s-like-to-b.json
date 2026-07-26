@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "build-in-public-fail-in-public-what-it-s-like-to-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now ",
+  "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+  "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+  "slides": [
+    "Why would a teen founder broadcast their biggest failure live?",
+    "Building in public means sharing revenue drops instantly.",
+    "But one viral mistake scared off my first five investors.",
+    "You now pivot before the trolls even finish commenting.",
+    "Stop curating; post your ugliest dashboard screenshot today."
+  ],
+  "thread_text": [
+    "1. Why broadcast failure live?\n\nA teen founder streamed revenue data and instantly lost five investors.",
+    "2. Building in public backfired.\n\nThe same transparency that attracted followers pushed away funding.",
+    "3. A single mistake changed everything.\n\nOne viral screenshot turned supporters into critics before the meeting ended.",
+    "4. Pivot faster than the trolls.\n\nReaction time dropped from weeks to hours. Every comment now forces a product change.",
+    "5. Post your ugliest dashboard today.\n\nTake one screenshot of your worst metric this week and share it publicly. What do you have to lose?"
+  ],
+  "video_script": [
+    "Broadcast your biggest failure live.",
+    "Investors saw revenue drop instantly.",
+    "One viral mistake scared them off.",
+    "Pivot before trolls finish commenting.",
+    "Post your ugliest screenshot today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why broadcast failure live?\n\nA teen founder streamed revenue data and instantly lost five investors.",
+        "2. Building in public backfired.\n\nThe same transparency that attracted followers pushed away funding.",
+        "3. A single mistake changed everything.\n\nOne viral screenshot turned supporters into critics before the meeting ended.",
+        "4. Pivot faster than the trolls.\n\nReaction time dropped from weeks to hours. Every comment now forces a product change.",
+        "5. Post your ugliest dashboard today.\n\nTake one screenshot of your worst metric this week and share it publicly. What do you have to lose?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Broadcast your biggest failure live.",
+        "Investors saw revenue drop instantly.",
+        "One viral mistake scared them off.",
+        "Pivot before trolls finish commenting.",
+        "Post your ugliest screenshot today."
+      ]
+    },
+    "instagram": {
+      "caption": "A teen founder livestreamed their revenue drop and lost five investors in real time. 📉\n\nBuilding in public means sharing every failure instantly. One viral mistake can turn supporters into critics before the meeting ends.\n\nThe same transparency that grows an audience can kill your funding round.\n\nNow reaction time drops from weeks to hours—trolls force pivot decisions before you finish reading comments.\n\nWould you post your ugliest dashboard screenshot this week, or does the risk outweigh the followers? 🚨"
+    }
+  },
+  "instagram_caption": "A teen founder livestreamed their revenue drop and lost five investors in real time. 📉\n\nBuilding in public means sharing every failure instantly. One viral mistake can turn supporters into critics before the meeting ends.\n\nThe same transparency that grows an audience can kill your funding round.\n\nNow reaction time drops from weeks to hours—trolls force pivot decisions before you finish reading comments.\n\nWould you post your ugliest dashboard screenshot this week, or does the risk outweigh the followers? 🚨",
+  "carousel_slides": [
+    {
+      "hook": "A viral mistake cost investors.",
+      "description": "A teen founder broadcast revenue data and lost five investors instantly.",
+      "visual_hint": "Screenshot of falling chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Transparency pushed funding away.",
+      "description": "The same openness that attracted followers scared off financial backers.",
+      "visual_hint": "Person holding phone with graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One screenshot turned fans hostile.",
+      "description": "A single viral image changed supporters into critics before the meeting ended.",
+      "visual_hint": "Magnifying glass on screenshot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pivot faster than trolls type.",
+      "description": "Reaction time dropped from weeks to hours; every comment now forces a product change.",
+      "visual_hint": "Hand typing on keyboard rapidly",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Post your worst metric now.",
+      "description": "Take one screenshot of your worst dashboard number this week and share it publicly.",
+      "visual_hint": "Phone showing red arrow dashboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen graph",
+      "image": "https://images.pexels.com/photos/5717765/pexels-photo-5717765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1503399381.jpg?resize=1200,683",
+  "savedAt": "2026-07-26T11:14:45.646Z",
+  "sourceId": "10d54bf8208bc002b5d3d07b0cd9d0b2"
+}
