@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "monday-com-is-the-latest-tech-company-to-blame-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+  "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+  "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+  "slides": [
+    "Which tech CEOs quietly replaced people with AI?",
+    "Monday.com just blamed AI for 200 layoffs.",
+    "That makes 21 companies, not just the usual giants.",
+    "Your job security now depends on which tasks AI cannot do.",
+    "Audit your daily work today: can a bot replicate it?"
+  ],
+  "thread_text": [
+    "Which CEOs fired staff for AI?\n\nMonday.com admitted AI replaced 200 workers—no tech giant, just a known software firm.",
+    "21 companies now cited.\n\nFrom startups to enterprise, the list grows monthly. Layoffs are no longer just for the big players.",
+    "Your job is the target.\n\nAI replicates tasks faster. The question is not if, but which tasks survive.",
+    "Bots don't need coffee breaks.\n\nThey automate workflows, customer service, and data entry—roles once considered safe.",
+    "Audit your daily work today.\n\nList every task you do. Highlight the ones a bot can replicate. Can you afford to ignore that?"
+  ],
+  "video_script": [
+    "CEOs are quietly replacing staff with AI.",
+    "Monday.com blamed AI for 200 layoffs.",
+    "That's 21 companies, not just giants.",
+    "Your job security depends on non-replicable tasks.",
+    "Audit your work today for bot risks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Which CEOs fired staff for AI?\n\nMonday.com admitted AI replaced 200 workers—no tech giant, just a known software firm.",
+        "21 companies now cited.\n\nFrom startups to enterprise, the list grows monthly. Layoffs are no longer just for the big players.",
+        "Your job is the target.\n\nAI replicates tasks faster. The question is not if, but which tasks survive.",
+        "Bots don't need coffee breaks.\n\nThey automate workflows, customer service, and data entry—roles once considered safe.",
+        "Audit your daily work today.\n\nList every task you do. Highlight the ones a bot can replicate. Can you afford to ignore that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CEOs are quietly replacing staff with AI.",
+        "Monday.com blamed AI for 200 layoffs.",
+        "That's 21 companies, not just giants.",
+        "Your job security depends on non-replicable tasks.",
+        "Audit your work today for bot risks."
+      ]
+    },
+    "instagram": {
+      "caption": "Monday.com just cut 200 jobs and said AI made them unnecessary. That makes 21 companies now openly blaming AI for layoffs.\n\nThese aren't just tech giants—smaller software firms now follow the same playbook. Your role might be next if it involves tasks a bot can learn.\n\nFor anyone publishing or organizing content: data entry, customer replies, and workflow scheduling are no longer safe bets. 💻\n\nGo through your calendar this week. Which meeting or task could a bot handle by next quarter? 👀 If you can't name one, you need to find it."
+    }
+  },
+  "instagram_caption": "Monday.com just cut 200 jobs and said AI made them unnecessary. That makes 21 companies now openly blaming AI for layoffs.\n\nThese aren't just tech giants—smaller software firms now follow the same playbook. Your role might be next if it involves tasks a bot can learn.\n\nFor anyone publishing or organizing content: data entry, customer replies, and workflow scheduling are no longer safe bets. 💻\n\nGo through your calendar this week. Which meeting or task could a bot handle by next quarter? 👀 If you can't name one, you need to find it.",
+  "carousel_slides": [
+    {
+      "hook": "Your job is the next target.",
+      "description": "Twenty-one companies, from startups to giants, have already replaced workers with AI.",
+      "visual_hint": "robot arm firing paper planes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Which CEOs fired staff for AI?",
+      "description": "Monday.com laid off 200 workers citing AI. No big tech, just a familiar software firm.",
+      "visual_hint": "empty office desks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Layoffs aren't just for giants.",
+      "description": "The list grows monthly — 21 companies now. AI replaces roles once considered safe.",
+      "visual_hint": "growing bar chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bots don't need coffee breaks.",
+      "description": "They automate workflows, customer service, and data entry — tasks you thought were safe.",
+      "visual_hint": "coffee cup next to robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "coffee cup",
+      "image": "https://images.pexels.com/photos/27589853/pexels-photo-27589853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your CEO does.",
+      "description": "Audit your daily tasks now. List everything — highlight what a bot can replicate.",
+      "visual_hint": "checklist clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+  "savedAt": "2026-07-26T16:50:32.263Z",
+  "sourceId": "cb61b6a2a5da5e6de3bed409d7040395"
+}

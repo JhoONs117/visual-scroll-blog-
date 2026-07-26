@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-cognition-bought-poke-ai-personality-is-becomi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+  "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+  "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
+  "slides": [
+    "Cognition bought Poke. What for, exactly?",
+    "Poke built AI that remembers how you talk.",
+    "Most AI ignores tone—Poke makes it core.",
+    "Your chatbot can now match your brand's voice.",
+    "Audiences trust consistency. Train yours today."
+  ],
+  "thread_text": [
+    "1. Why buy a memory startup?\n\nCognition just acquired Poke, a company that makes chatbots remember your tone across conversations.",
+    "2. Tone is the missing layer.\n\nMost AI treats every message like it's from a blank slate. Poke built a model that learns from your actual writing.",
+    "3. One voice, everywhere.\n\nYour brand's assistant can now reply in your cadence—formal for support, casual for sales—without you writing rules.",
+    "4. Consistency builds trust.\n\nAudiences notice when a bot sounds different each time. Poke eliminates that friction by locking vocal patterns.",
+    "5. Train your tone today.\n\nTake a recent customer chat, paste it into your bot's training set. Does the reply sound like you? If not, adjust now."
+  ],
+  "video_script": [
+    "Cognition bought Poke to capture your tone.",
+    "Most AI ignores how you speak.",
+    "Poke makes memory and tone core.",
+    "Your chatbot can now match your brand.",
+    "Train your bot to sound like you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why buy a memory startup?\n\nCognition just acquired Poke, a company that makes chatbots remember your tone across conversations.",
+        "2. Tone is the missing layer.\n\nMost AI treats every message like it's from a blank slate. Poke built a model that learns from your actual writing.",
+        "3. One voice, everywhere.\n\nYour brand's assistant can now reply in your cadence—formal for support, casual for sales—without you writing rules.",
+        "4. Consistency builds trust.\n\nAudiences notice when a bot sounds different each time. Poke eliminates that friction by locking vocal patterns.",
+        "5. Train your tone today.\n\nTake a recent customer chat, paste it into your bot's training set. Does the reply sound like you? If not, adjust now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cognition bought Poke to capture your tone.",
+        "Most AI ignores how you speak.",
+        "Poke makes memory and tone core.",
+        "Your chatbot can now match your brand.",
+        "Train your bot to sound like you."
+      ]
+    },
+    "instagram": {
+      "caption": "That bot that sounds like a different person every time you chat? A company just bought the tech to kill that problem. 🎯\n\nCognition acquired Poke, a startup whose AI learns your actual writing tone—how you sign off, where you pause, when you’re formal. Most AI treats every message as a blank slate. Poke trained a model on your real chats instead.\n\nFor anyone publishing content: your brand’s bot can now speak in your cadence without rule-writing. Consistency builds trust. Audiences notice when the voice shifts.\n\nPick one customer email you sent last week. Does your current bot sound like you wrote it? If not, what’s the exact difference? 📝"
+    }
+  },
+  "instagram_caption": "That bot that sounds like a different person every time you chat? A company just bought the tech to kill that problem. 🎯\n\nCognition acquired Poke, a startup whose AI learns your actual writing tone—how you sign off, where you pause, when you’re formal. Most AI treats every message as a blank slate. Poke trained a model on your real chats instead.\n\nFor anyone publishing content: your brand’s bot can now speak in your cadence without rule-writing. Consistency builds trust. Audiences notice when the voice shifts.\n\nPick one customer email you sent last week. Does your current bot sound like you wrote it? If not, what’s the exact difference? 📝",
+  "carousel_slides": [
+    {
+      "hook": "Why buy a memory startup?",
+      "description": "Cognition acquired Poke to make AI that remembers your tone across conversations.",
+      "visual_hint": "Two puzzle pieces clicking",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "puzzle pieces"
+    },
+    {
+      "hook": "Tone is the missing AI layer.",
+      "description": "Most AI treats every message as blank slate; Poke learns from your actual writing.",
+      "visual_hint": "Voice waveform on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "voice waveform",
+      "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One voice, everywhere.",
+      "description": "Your brand's assistant can reply formally for support or casually for sales without rule-writing.",
+      "visual_hint": "Two chat bubbles unified",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat bubbles",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Consistency builds trust.",
+      "description": "Audiences notice when a bot sounds different; Poke locks vocal patterns to eliminate friction.",
+      "visual_hint": "Handshake close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Train your tone now.",
+      "description": "Paste a recent customer chat into your bot's training set. Does it sound like you?",
+      "visual_hint": "Keyboard and coffee cup",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard coffee",
+      "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
+  "savedAt": "2026-07-26T16:50:44.636Z",
+  "sourceId": "fc836a71f9ce98dda43064a2b9b858d5"
+}

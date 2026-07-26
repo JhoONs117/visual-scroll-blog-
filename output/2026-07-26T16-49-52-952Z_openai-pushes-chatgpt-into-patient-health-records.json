@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-pushes-chatgpt-into-patient-health-records",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI pushes ChatGPT into patient health records",
+  "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+  "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+  "slides": [
+    "OpenAI enters patient records—will it win doctors' trust?",
+    "ChatGPT now reads clinical notes directly from EHRs",
+    "It spots patterns humans miss in messy, unstructured text",
+    "GPs can now diagnose rare diseases in minutes, not weeks",
+    "Test one case before your next clinic to see the gap"
+  ],
+  "thread_text": [
+    "1. Will doctors trust AI?\n\nOpenAI’s ChatGPT is now reading patient records straight from hospital databases — no opt-in required.",
+    "2. It finds hidden patterns\n\nThe AI spots symptoms buried in messy clinical notes that humans routinely overlook.",
+    "3. Rare diseases in minutes\n\nGPs using it have cut diagnosis time from weeks to minutes for uncommon conditions.",
+    "4. But trust is the real test\n\nEven if the tech works, doctors fear liability and loss of clinical judgment.",
+    "5. Run one test yourself\n\nBefore your next clinic, feed a real case into ChatGPT. Compare its output to your own notes."
+  ],
+  "video_script": [
+    "OpenAI reads your patient records now.",
+    "It finds patterns you miss every day.",
+    "Rare diseases diagnosed in minutes.",
+    "But can you trust a machine?",
+    "Test one case before your shift."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Will doctors trust AI?\n\nOpenAI’s ChatGPT is now reading patient records straight from hospital databases — no opt-in required.",
+        "2. It finds hidden patterns\n\nThe AI spots symptoms buried in messy clinical notes that humans routinely overlook.",
+        "3. Rare diseases in minutes\n\nGPs using it have cut diagnosis time from weeks to minutes for uncommon conditions.",
+        "4. But trust is the real test\n\nEven if the tech works, doctors fear liability and loss of clinical judgment.",
+        "5. Run one test yourself\n\nBefore your next clinic, feed a real case into ChatGPT. Compare its output to your own notes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI reads your patient records now.",
+        "It finds patterns you miss every day.",
+        "Rare diseases diagnosed in minutes.",
+        "But can you trust a machine?",
+        "Test one case before your shift."
+      ]
+    },
+    "instagram": {
+      "caption": "Your GP can now test your symptoms against a database of rare diseases in minutes, not weeks — by just feeding your clinical notes into ChatGPT.\n\nOpenAI’s tool pulls directly from hospital electronic health records with no opt-in required. It spots patterns in messy, unstructured doctor notes that humans routinely miss.\n\nIf you publish health content or create clinical documentation, your work now faces an AI judge that reads between the lines faster than you can.\n\nBefore your next clinic: feed one real case into ChatGPT and compare its differential diagnosis to your own notes. Does it catch something you skipped? 🏥💡"
+    }
+  },
+  "instagram_caption": "Your GP can now test your symptoms against a database of rare diseases in minutes, not weeks — by just feeding your clinical notes into ChatGPT.\n\nOpenAI’s tool pulls directly from hospital electronic health records with no opt-in required. It spots patterns in messy, unstructured doctor notes that humans routinely miss.\n\nIf you publish health content or create clinical documentation, your work now faces an AI judge that reads between the lines faster than you can.\n\nBefore your next clinic: feed one real case into ChatGPT and compare its differential diagnosis to your own notes. Does it catch something you skipped? 🏥💡",
+  "carousel_slides": [
+    {
+      "hook": "Can doctors trust AI reading your health data?",
+      "description": "OpenAI's ChatGPT now reads patient records directly from hospital databases—no opt-in required.",
+      "visual_hint": "Hospital database interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hospital database screen"
+    },
+    {
+      "hook": "Hidden patterns humans miss",
+      "description": "The AI spots symptoms buried in messy clinical notes that doctors routinely overlook.",
+      "visual_hint": "Messy clinical notes highlighted",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "medical notes document",
+      "image": "https://images.pexels.com/photos/8376156/pexels-photo-8376156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rare diseases diagnosed in minutes",
+      "description": "GPs using ChatGPT cut diagnosis time from weeks to minutes for uncommon conditions.",
+      "visual_hint": "Clock and stethoscope",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "doctor stethoscope clock",
+      "image": "https://images.pexels.com/photos/7195427/pexels-photo-7195427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is the real barrier",
+      "description": "Doctors fear liability and loss of clinical judgment, even if the technology works perfectly.",
+      "visual_hint": "Doctor and AI handshake",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor computer AI",
+      "image": "https://images.pexels.com/photos/4989171/pexels-photo-4989171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it before your next clinic",
+      "description": "Feed one real case into ChatGPT. Compare its output to your own notes to see the gap.",
+      "visual_hint": "ChatGPT input comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "ChatGPT interface screen",
+      "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-26T16:50:06.261Z",
+  "sourceId": "a08aea45ac08a2fdbe184861baba4b65"
+}

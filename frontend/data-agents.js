@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-cognition-bought-poke-ai-personality-is-becomi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "slides": [
+        "Cognition bought Poke. What for, exactly?",
+        "Poke built AI that remembers how you talk.",
+        "Most AI ignores tone—Poke makes it core.",
+        "Your chatbot can now match your brand's voice.",
+        "Audiences trust consistency. Train yours today."
+      ],
+      "thread_text": [
+        "1. Why buy a memory startup?\n\nCognition just acquired Poke, a company that makes chatbots remember your tone across conversations.",
+        "2. Tone is the missing layer.\n\nMost AI treats every message like it's from a blank slate. Poke built a model that learns from your actual writing.",
+        "3. One voice, everywhere.\n\nYour brand's assistant can now reply in your cadence—formal for support, casual for sales—without you writing rules.",
+        "4. Consistency builds trust.\n\nAudiences notice when a bot sounds different each time. Poke eliminates that friction by locking vocal patterns.",
+        "5. Train your tone today.\n\nTake a recent customer chat, paste it into your bot's training set. Does the reply sound like you? If not, adjust now."
+      ],
+      "video_script": [
+        "Cognition bought Poke to capture your tone.",
+        "Most AI ignores how you speak.",
+        "Poke makes memory and tone core.",
+        "Your chatbot can now match your brand.",
+        "Train your bot to sound like you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why buy a memory startup?\n\nCognition just acquired Poke, a company that makes chatbots remember your tone across conversations.",
+            "2. Tone is the missing layer.\n\nMost AI treats every message like it's from a blank slate. Poke built a model that learns from your actual writing.",
+            "3. One voice, everywhere.\n\nYour brand's assistant can now reply in your cadence—formal for support, casual for sales—without you writing rules.",
+            "4. Consistency builds trust.\n\nAudiences notice when a bot sounds different each time. Poke eliminates that friction by locking vocal patterns.",
+            "5. Train your tone today.\n\nTake a recent customer chat, paste it into your bot's training set. Does the reply sound like you? If not, adjust now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Cognition bought Poke to capture your tone.",
+            "Most AI ignores how you speak.",
+            "Poke makes memory and tone core.",
+            "Your chatbot can now match your brand.",
+            "Train your bot to sound like you."
+          ]
+        },
+        "instagram": {
+          "caption": "That bot that sounds like a different person every time you chat? A company just bought the tech to kill that problem. 🎯\n\nCognition acquired Poke, a startup whose AI learns your actual writing tone—how you sign off, where you pause, when you’re formal. Most AI treats every message as a blank slate. Poke trained a model on your real chats instead.\n\nFor anyone publishing content: your brand’s bot can now speak in your cadence without rule-writing. Consistency builds trust. Audiences notice when the voice shifts.\n\nPick one customer email you sent last week. Does your current bot sound like you wrote it? If not, what’s the exact difference? 📝"
+        }
+      },
+      "instagram_caption": "That bot that sounds like a different person every time you chat? A company just bought the tech to kill that problem. 🎯\n\nCognition acquired Poke, a startup whose AI learns your actual writing tone—how you sign off, where you pause, when you’re formal. Most AI treats every message as a blank slate. Poke trained a model on your real chats instead.\n\nFor anyone publishing content: your brand’s bot can now speak in your cadence without rule-writing. Consistency builds trust. Audiences notice when the voice shifts.\n\nPick one customer email you sent last week. Does your current bot sound like you wrote it? If not, what’s the exact difference? 📝",
+      "carousel_slides": [
+        {
+          "hook": "Why buy a memory startup?",
+          "description": "Cognition acquired Poke to make AI that remembers your tone across conversations.",
+          "visual_hint": "Two puzzle pieces clicking",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "puzzle pieces"
+        },
+        {
+          "hook": "Tone is the missing AI layer.",
+          "description": "Most AI treats every message as blank slate; Poke learns from your actual writing.",
+          "visual_hint": "Voice waveform on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "voice waveform",
+          "image": "https://images.pexels.com/photos/6892890/pexels-photo-6892890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One voice, everywhere.",
+          "description": "Your brand's assistant can reply formally for support or casually for sales without rule-writing.",
+          "visual_hint": "Two chat bubbles unified",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat bubbles",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Consistency builds trust.",
+          "description": "Audiences notice when a bot sounds different; Poke locks vocal patterns to eliminate friction.",
+          "visual_hint": "Handshake close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake",
+          "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Train your tone now.",
+          "description": "Paste a recent customer chat into your bot's training set. Does it sound like you?",
+          "visual_hint": "Keyboard and coffee cup",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "keyboard coffee",
+          "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
+      "savedAt": "2026-07-26T16:50:44.636Z",
+      "sourceId": "fc836a71f9ce98dda43064a2b9b858d5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "monday-com-is-the-latest-tech-company-to-blame-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "pubDate": "Sun, 26 Jul 2026 01:30:00 +0000",
+      "slides": [
+        "Which tech CEOs quietly replaced people with AI?",
+        "Monday.com just blamed AI for 200 layoffs.",
+        "That makes 21 companies, not just the usual giants.",
+        "Your job security now depends on which tasks AI cannot do.",
+        "Audit your daily work today: can a bot replicate it?"
+      ],
+      "thread_text": [
+        "Which CEOs fired staff for AI?\n\nMonday.com admitted AI replaced 200 workers—no tech giant, just a known software firm.",
+        "21 companies now cited.\n\nFrom startups to enterprise, the list grows monthly. Layoffs are no longer just for the big players.",
+        "Your job is the target.\n\nAI replicates tasks faster. The question is not if, but which tasks survive.",
+        "Bots don't need coffee breaks.\n\nThey automate workflows, customer service, and data entry—roles once considered safe.",
+        "Audit your daily work today.\n\nList every task you do. Highlight the ones a bot can replicate. Can you afford to ignore that?"
+      ],
+      "video_script": [
+        "CEOs are quietly replacing staff with AI.",
+        "Monday.com blamed AI for 200 layoffs.",
+        "That's 21 companies, not just giants.",
+        "Your job security depends on non-replicable tasks.",
+        "Audit your work today for bot risks."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Which CEOs fired staff for AI?\n\nMonday.com admitted AI replaced 200 workers—no tech giant, just a known software firm.",
+            "21 companies now cited.\n\nFrom startups to enterprise, the list grows monthly. Layoffs are no longer just for the big players.",
+            "Your job is the target.\n\nAI replicates tasks faster. The question is not if, but which tasks survive.",
+            "Bots don't need coffee breaks.\n\nThey automate workflows, customer service, and data entry—roles once considered safe.",
+            "Audit your daily work today.\n\nList every task you do. Highlight the ones a bot can replicate. Can you afford to ignore that?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "CEOs are quietly replacing staff with AI.",
+            "Monday.com blamed AI for 200 layoffs.",
+            "That's 21 companies, not just giants.",
+            "Your job security depends on non-replicable tasks.",
+            "Audit your work today for bot risks."
+          ]
+        },
+        "instagram": {
+          "caption": "Monday.com just cut 200 jobs and said AI made them unnecessary. That makes 21 companies now openly blaming AI for layoffs.\n\nThese aren't just tech giants—smaller software firms now follow the same playbook. Your role might be next if it involves tasks a bot can learn.\n\nFor anyone publishing or organizing content: data entry, customer replies, and workflow scheduling are no longer safe bets. 💻\n\nGo through your calendar this week. Which meeting or task could a bot handle by next quarter? 👀 If you can't name one, you need to find it."
+        }
+      },
+      "instagram_caption": "Monday.com just cut 200 jobs and said AI made them unnecessary. That makes 21 companies now openly blaming AI for layoffs.\n\nThese aren't just tech giants—smaller software firms now follow the same playbook. Your role might be next if it involves tasks a bot can learn.\n\nFor anyone publishing or organizing content: data entry, customer replies, and workflow scheduling are no longer safe bets. 💻\n\nGo through your calendar this week. Which meeting or task could a bot handle by next quarter? 👀 If you can't name one, you need to find it.",
+      "carousel_slides": [
+        {
+          "hook": "Your job is the next target.",
+          "description": "Twenty-one companies, from startups to giants, have already replaced workers with AI.",
+          "visual_hint": "robot arm firing paper planes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "Which CEOs fired staff for AI?",
+          "description": "Monday.com laid off 200 workers citing AI. No big tech, just a familiar software firm.",
+          "visual_hint": "empty office desks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Layoffs aren't just for giants.",
+          "description": "The list grows monthly — 21 companies now. AI replaces roles once considered safe.",
+          "visual_hint": "growing bar chart",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bots don't need coffee breaks.",
+          "description": "They automate workflows, customer service, and data entry — tasks you thought were safe.",
+          "visual_hint": "coffee cup next to robot",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "coffee cup",
+          "image": "https://images.pexels.com/photos/27589853/pexels-photo-27589853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your CEO does.",
+          "description": "Audit your daily tasks now. List everything — highlight what a bot can replicate.",
+          "visual_hint": "checklist clipboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+      "savedAt": "2026-07-26T16:50:32.263Z",
+      "sourceId": "cb61b6a2a5da5e6de3bed409d7040395"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hugging-face-ceo-calls-for-radical-transparency-af",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "slides": [
+        "Hugging Face’s CEO just made a risky demand. Why?",
+        "OpenAI suffered an unprecedented hack last week.",
+        "The attacker accessed internal model weights, not just chats.",
+        "Now every AI company must re-audit its security logs.",
+        "Check your own model access logs by Friday."
+      ],
+      "thread_text": [
+        "1. Ceo made a risky demand.\n\nHugging Face’s CEO demanded every AI company re-audit security logs after OpenAI’s breach — he’s betting the insider threat isn’t a PR flop.",
+        "2. Hackers stole model weights.\n\nThe attacker accessed OpenAI’s core algorithms, not just chat histories. That’s the difference between losing user data and losing the competitive moat.",
+        "3. Security logs are the only trail.\n\nWithout log re-audits, no one knows if the same exploit hit their models. Hugging Face’s demand forces a public trapdoor check.",
+        "4. Every company must comply by Friday.\n\nThe deadline turns a reactive panic into a proactive test. Miss it, and you could be harboring a silent backdoor right now.",
+        "5. Check your own model access logs.\n\nGo to your cloud dashboard, filter recent model-read requests, and look for IPs outside your team. Done it yet?"
+      ],
+      "video_script": [
+        "Hugging Face CEO made a risky demand.",
+        "OpenAI had an unprecedented hack last week.",
+        "Attackers accessed internal model weights.",
+        "Every AI company must re-audit now.",
+        "Check your own model access logs by Friday."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Ceo made a risky demand.\n\nHugging Face’s CEO demanded every AI company re-audit security logs after OpenAI’s breach — he’s betting the insider threat isn’t a PR flop.",
+            "2. Hackers stole model weights.\n\nThe attacker accessed OpenAI’s core algorithms, not just chat histories. That’s the difference between losing user data and losing the competitive moat.",
+            "3. Security logs are the only trail.\n\nWithout log re-audits, no one knows if the same exploit hit their models. Hugging Face’s demand forces a public trapdoor check.",
+            "4. Every company must comply by Friday.\n\nThe deadline turns a reactive panic into a proactive test. Miss it, and you could be harboring a silent backdoor right now.",
+            "5. Check your own model access logs.\n\nGo to your cloud dashboard, filter recent model-read requests, and look for IPs outside your team. Done it yet?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hugging Face CEO made a risky demand.",
+            "OpenAI had an unprecedented hack last week.",
+            "Attackers accessed internal model weights.",
+            "Every AI company must re-audit now.",
+            "Check your own model access logs by Friday."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone inside OpenAI stole the actual weights of its core models — not just your chat history. 💥\n\nThe hacker accessed the algorithms that make OpenAI’s tech valuable. That’s the difference between a data leak and losing your competitive edge. 🧠 Hugging Face’s CEO just demanded every AI company re-audit its security logs by Friday to check for the same exploit.\n\nIf you publish AI-generated content, your tools could be running on compromised models right now. That means unpredictable outputs, hidden biases, or worse.\n\nHave you checked your model access logs yet? Go to your cloud dashboard, filter for recent read requests, and look for IPs outside your team. ⏳"
+        }
+      },
+      "instagram_caption": "Someone inside OpenAI stole the actual weights of its core models — not just your chat history. 💥\n\nThe hacker accessed the algorithms that make OpenAI’s tech valuable. That’s the difference between a data leak and losing your competitive edge. 🧠 Hugging Face’s CEO just demanded every AI company re-audit its security logs by Friday to check for the same exploit.\n\nIf you publish AI-generated content, your tools could be running on compromised models right now. That means unpredictable outputs, hidden biases, or worse.\n\nHave you checked your model access logs yet? Go to your cloud dashboard, filter for recent read requests, and look for IPs outside your team. ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Your AI model just got cloned.",
+          "description": "Hackers stole OpenAI's core algorithms, not just chats. That's the difference between losing data and losing your competitive edge.",
+          "visual_hint": "Glowing AI brain under lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "They took the blueprint, not the chat.",
+          "description": "The attacker accessed internal model weights. Now every AI company must re-audit security logs to find the same exploit.",
+          "visual_hint": "Blueprint with red fingerprints",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cybersecurity lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your logs may hide a backdoor.",
+          "description": "Without re-auditing logs, no one knows if the same breach hit their models. Hugging Face's demand forces a public trapdoor check.",
+          "visual_hint": "Magnifying glass over code lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Friday is the deadline. Miss it?",
+          "description": "The deadline turns panic into a proactive test. Missing it means you could be harboring a silent backdoor right now.",
+          "visual_hint": "Calendar with red Friday circle",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers keyboard",
+          "image": "https://images.pexels.com/photos/12899150/pexels-photo-12899150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your model access logs now.",
+          "description": "Go to your cloud dashboard, filter recent model-read requests, and look for suspicious IPs outside your team.",
+          "visual_hint": "Dashboard with highlighted IP list",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-26T16:50:20.156Z",
+      "sourceId": "355626f29c21fdf8985e45a36c16b53f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-pushes-chatgpt-into-patient-health-records",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "pubDate": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "slides": [
+        "OpenAI enters patient records—will it win doctors' trust?",
+        "ChatGPT now reads clinical notes directly from EHRs",
+        "It spots patterns humans miss in messy, unstructured text",
+        "GPs can now diagnose rare diseases in minutes, not weeks",
+        "Test one case before your next clinic to see the gap"
+      ],
+      "thread_text": [
+        "1. Will doctors trust AI?\n\nOpenAI’s ChatGPT is now reading patient records straight from hospital databases — no opt-in required.",
+        "2. It finds hidden patterns\n\nThe AI spots symptoms buried in messy clinical notes that humans routinely overlook.",
+        "3. Rare diseases in minutes\n\nGPs using it have cut diagnosis time from weeks to minutes for uncommon conditions.",
+        "4. But trust is the real test\n\nEven if the tech works, doctors fear liability and loss of clinical judgment.",
+        "5. Run one test yourself\n\nBefore your next clinic, feed a real case into ChatGPT. Compare its output to your own notes."
+      ],
+      "video_script": [
+        "OpenAI reads your patient records now.",
+        "It finds patterns you miss every day.",
+        "Rare diseases diagnosed in minutes.",
+        "But can you trust a machine?",
+        "Test one case before your shift."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Will doctors trust AI?\n\nOpenAI’s ChatGPT is now reading patient records straight from hospital databases — no opt-in required.",
+            "2. It finds hidden patterns\n\nThe AI spots symptoms buried in messy clinical notes that humans routinely overlook.",
+            "3. Rare diseases in minutes\n\nGPs using it have cut diagnosis time from weeks to minutes for uncommon conditions.",
+            "4. But trust is the real test\n\nEven if the tech works, doctors fear liability and loss of clinical judgment.",
+            "5. Run one test yourself\n\nBefore your next clinic, feed a real case into ChatGPT. Compare its output to your own notes."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI reads your patient records now.",
+            "It finds patterns you miss every day.",
+            "Rare diseases diagnosed in minutes.",
+            "But can you trust a machine?",
+            "Test one case before your shift."
+          ]
+        },
+        "instagram": {
+          "caption": "Your GP can now test your symptoms against a database of rare diseases in minutes, not weeks — by just feeding your clinical notes into ChatGPT.\n\nOpenAI’s tool pulls directly from hospital electronic health records with no opt-in required. It spots patterns in messy, unstructured doctor notes that humans routinely miss.\n\nIf you publish health content or create clinical documentation, your work now faces an AI judge that reads between the lines faster than you can.\n\nBefore your next clinic: feed one real case into ChatGPT and compare its differential diagnosis to your own notes. Does it catch something you skipped? 🏥💡"
+        }
+      },
+      "instagram_caption": "Your GP can now test your symptoms against a database of rare diseases in minutes, not weeks — by just feeding your clinical notes into ChatGPT.\n\nOpenAI’s tool pulls directly from hospital electronic health records with no opt-in required. It spots patterns in messy, unstructured doctor notes that humans routinely miss.\n\nIf you publish health content or create clinical documentation, your work now faces an AI judge that reads between the lines faster than you can.\n\nBefore your next clinic: feed one real case into ChatGPT and compare its differential diagnosis to your own notes. Does it catch something you skipped? 🏥💡",
+      "carousel_slides": [
+        {
+          "hook": "Can doctors trust AI reading your health data?",
+          "description": "OpenAI's ChatGPT now reads patient records directly from hospital databases—no opt-in required.",
+          "visual_hint": "Hospital database interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hospital database screen"
+        },
+        {
+          "hook": "Hidden patterns humans miss",
+          "description": "The AI spots symptoms buried in messy clinical notes that doctors routinely overlook.",
+          "visual_hint": "Messy clinical notes highlighted",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "medical notes document",
+          "image": "https://images.pexels.com/photos/8376156/pexels-photo-8376156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rare diseases diagnosed in minutes",
+          "description": "GPs using ChatGPT cut diagnosis time from weeks to minutes for uncommon conditions.",
+          "visual_hint": "Clock and stethoscope",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "doctor stethoscope clock",
+          "image": "https://images.pexels.com/photos/7195427/pexels-photo-7195427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust is the real barrier",
+          "description": "Doctors fear liability and loss of clinical judgment, even if the technology works perfectly.",
+          "visual_hint": "Doctor and AI handshake",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor computer AI",
+          "image": "https://images.pexels.com/photos/4989171/pexels-photo-4989171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it before your next clinic",
+          "description": "Feed one real case into ChatGPT. Compare its output to your own notes to see the gap.",
+          "visual_hint": "ChatGPT input comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "ChatGPT interface screen",
+          "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-26T16:50:06.261Z",
+      "sourceId": "a08aea45ac08a2fdbe184861baba4b65"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark",
       "prompt_version": "1.0.0",
       "status": "published",

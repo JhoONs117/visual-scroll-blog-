@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hugging-face-ceo-calls-for-radical-transparency-af",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+  "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+  "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+  "slides": [
+    "Hugging Face’s CEO just made a risky demand. Why?",
+    "OpenAI suffered an unprecedented hack last week.",
+    "The attacker accessed internal model weights, not just chats.",
+    "Now every AI company must re-audit its security logs.",
+    "Check your own model access logs by Friday."
+  ],
+  "thread_text": [
+    "1. Ceo made a risky demand.\n\nHugging Face’s CEO demanded every AI company re-audit security logs after OpenAI’s breach — he’s betting the insider threat isn’t a PR flop.",
+    "2. Hackers stole model weights.\n\nThe attacker accessed OpenAI’s core algorithms, not just chat histories. That’s the difference between losing user data and losing the competitive moat.",
+    "3. Security logs are the only trail.\n\nWithout log re-audits, no one knows if the same exploit hit their models. Hugging Face’s demand forces a public trapdoor check.",
+    "4. Every company must comply by Friday.\n\nThe deadline turns a reactive panic into a proactive test. Miss it, and you could be harboring a silent backdoor right now.",
+    "5. Check your own model access logs.\n\nGo to your cloud dashboard, filter recent model-read requests, and look for IPs outside your team. Done it yet?"
+  ],
+  "video_script": [
+    "Hugging Face CEO made a risky demand.",
+    "OpenAI had an unprecedented hack last week.",
+    "Attackers accessed internal model weights.",
+    "Every AI company must re-audit now.",
+    "Check your own model access logs by Friday."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ceo made a risky demand.\n\nHugging Face’s CEO demanded every AI company re-audit security logs after OpenAI’s breach — he’s betting the insider threat isn’t a PR flop.",
+        "2. Hackers stole model weights.\n\nThe attacker accessed OpenAI’s core algorithms, not just chat histories. That’s the difference between losing user data and losing the competitive moat.",
+        "3. Security logs are the only trail.\n\nWithout log re-audits, no one knows if the same exploit hit their models. Hugging Face’s demand forces a public trapdoor check.",
+        "4. Every company must comply by Friday.\n\nThe deadline turns a reactive panic into a proactive test. Miss it, and you could be harboring a silent backdoor right now.",
+        "5. Check your own model access logs.\n\nGo to your cloud dashboard, filter recent model-read requests, and look for IPs outside your team. Done it yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hugging Face CEO made a risky demand.",
+        "OpenAI had an unprecedented hack last week.",
+        "Attackers accessed internal model weights.",
+        "Every AI company must re-audit now.",
+        "Check your own model access logs by Friday."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone inside OpenAI stole the actual weights of its core models — not just your chat history. 💥\n\nThe hacker accessed the algorithms that make OpenAI’s tech valuable. That’s the difference between a data leak and losing your competitive edge. 🧠 Hugging Face’s CEO just demanded every AI company re-audit its security logs by Friday to check for the same exploit.\n\nIf you publish AI-generated content, your tools could be running on compromised models right now. That means unpredictable outputs, hidden biases, or worse.\n\nHave you checked your model access logs yet? Go to your cloud dashboard, filter for recent read requests, and look for IPs outside your team. ⏳"
+    }
+  },
+  "instagram_caption": "Someone inside OpenAI stole the actual weights of its core models — not just your chat history. 💥\n\nThe hacker accessed the algorithms that make OpenAI’s tech valuable. That’s the difference between a data leak and losing your competitive edge. 🧠 Hugging Face’s CEO just demanded every AI company re-audit its security logs by Friday to check for the same exploit.\n\nIf you publish AI-generated content, your tools could be running on compromised models right now. That means unpredictable outputs, hidden biases, or worse.\n\nHave you checked your model access logs yet? Go to your cloud dashboard, filter for recent read requests, and look for IPs outside your team. ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your AI model just got cloned.",
+      "description": "Hackers stole OpenAI's core algorithms, not just chats. That's the difference between losing data and losing your competitive edge.",
+      "visual_hint": "Glowing AI brain under lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "They took the blueprint, not the chat.",
+      "description": "The attacker accessed internal model weights. Now every AI company must re-audit security logs to find the same exploit.",
+      "visual_hint": "Blueprint with red fingerprints",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cybersecurity lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your logs may hide a backdoor.",
+      "description": "Without re-auditing logs, no one knows if the same breach hit their models. Hugging Face's demand forces a public trapdoor check.",
+      "visual_hint": "Magnifying glass over code lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Friday is the deadline. Miss it?",
+      "description": "The deadline turns panic into a proactive test. Missing it means you could be harboring a silent backdoor right now.",
+      "visual_hint": "Calendar with red Friday circle",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers keyboard",
+      "image": "https://images.pexels.com/photos/12899150/pexels-photo-12899150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your model access logs now.",
+      "description": "Go to your cloud dashboard, filter recent model-read requests, and look for suspicious IPs outside your team.",
+      "visual_hint": "Dashboard with highlighted IP list",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-26T16:50:20.156Z",
+  "sourceId": "355626f29c21fdf8985e45a36c16b53f"
+}
