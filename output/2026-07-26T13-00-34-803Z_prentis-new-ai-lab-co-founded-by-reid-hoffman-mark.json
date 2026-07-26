@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+  "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+  "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
+  "slides": [
+    "Why do Pincus and Hoffman need $100M now?",
+    "Prentis blends gaming data with AI models.",
+    "Their secret weapon: behavior-based synthetic training data.",
+    "Developers could build smarter game NPCs instantly.",
+    "Watch their demo before your competitor does."
+  ],
+  "thread_text": [
+    "1. Why do they need $100M now?\n\nThey burned through cash building AI that plays games better than humans.",
+    "2. Prentis blends gaming data with AI models.\n\nEvery move a player makes becomes fuel for a neural net.",
+    "3. Their secret weapon: behavior-based synthetic training data.\n\nInstead of real users, they generate fake but realistic player patterns at scale.",
+    "4. Developers could build smarter game NPCs instantly.\n\nNo manual scripting. Just plug in the model and get enemies that adapt to you.",
+    "5. Watch their demo before your competitor does.\n\nOpen their site, click the demo button, and see how fast your NPCs can learn."
+  ],
+  "video_script": [
+    "They needed a hundred million dollars.",
+    "He mixes gameplay data with AI.",
+    "Synthetic data trains their secret model.",
+    "Build smarter NPCs without coding.",
+    "Watch the demo before competitors do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why do they need $100M now?\n\nThey burned through cash building AI that plays games better than humans.",
+        "2. Prentis blends gaming data with AI models.\n\nEvery move a player makes becomes fuel for a neural net.",
+        "3. Their secret weapon: behavior-based synthetic training data.\n\nInstead of real users, they generate fake but realistic player patterns at scale.",
+        "4. Developers could build smarter game NPCs instantly.\n\nNo manual scripting. Just plug in the model and get enemies that adapt to you.",
+        "5. Watch their demo before your competitor does.\n\nOpen their site, click the demo button, and see how fast your NPCs can learn."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "They needed a hundred million dollars.",
+        "He mixes gameplay data with AI.",
+        "Synthetic data trains their secret model.",
+        "Build smarter NPCs without coding.",
+        "Watch the demo before competitors do."
+      ]
+    },
+    "instagram": {
+      "caption": "10,000 game developers just got a $100M target on their back—Reid Hoffman and Mark Pincus are raising that cash now for their new lab, Prentis.\n\nThey already trained AI on the behavioral data from millions of actual game moves. Their secret sauce isn't more users—it's synthetic player patterns, faked but realistic at scale.\n\nThis means you can plug in a model and get NPCs that adapt to you instantly, no manual scripting. The old way of hard-coding enemy reactions? Dead.\n\nWhat game mechanic would you gut first if your NPCs learned from every player’s mistake? Open their demo and test how fast your next boss fight can think."
+    }
+  },
+  "instagram_caption": "10,000 game developers just got a $100M target on their back—Reid Hoffman and Mark Pincus are raising that cash now for their new lab, Prentis.\n\nThey already trained AI on the behavioral data from millions of actual game moves. Their secret sauce isn't more users—it's synthetic player patterns, faked but realistic at scale.\n\nThis means you can plug in a model and get NPCs that adapt to you instantly, no manual scripting. The old way of hard-coding enemy reactions? Dead.\n\nWhat game mechanic would you gut first if your NPCs learned from every player’s mistake? Open their demo and test how fast your next boss fight can think.",
+  "carousel_slides": [
+    {
+      "hook": "Why do they need $100M now?",
+      "description": "They burned through cash building AI that plays games better than humans, then needed more for synthetic data.",
+      "visual_hint": "Pile of burning money",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "burning money"
+    },
+    {
+      "hook": "Every move fuels their AI",
+      "description": "Prentis blends gaming data with AI models, turning every player move into fuel for a neural network.",
+      "visual_hint": "Game controller with neural net",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "game controller neural network",
+      "image": "https://images.pexels.com/photos/30302447/pexels-photo-30302447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fake players, real patterns",
+      "description": "Their secret weapon generates fake but realistic player behavior at scale instead of using real users.",
+      "visual_hint": "Silhouette of a synthetic player",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silhouette player digital",
+      "image": "https://images.pexels.com/photos/35918461/pexels-photo-35918461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No scripting needed for NPCs",
+      "description": "Developers plug in the model and get adaptive enemies instantly, without manual coding.",
+      "visual_hint": "Hand plugging cable into NPC",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand plugging cable",
+      "image": "https://images.pexels.com/photos/33271903/pexels-photo-33271903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch their demo now",
+      "description": "Open their site, click the demo button, and see how fast your NPCs can learn.",
+      "visual_hint": "Demo button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "demo button screen",
+      "image": "https://images.pexels.com/photos/18966444/pexels-photo-18966444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+  "savedAt": "2026-07-26T13:00:48.951Z",
+  "sourceId": "07eccc4e8badf37c8eb683b97ca73306"
+}
