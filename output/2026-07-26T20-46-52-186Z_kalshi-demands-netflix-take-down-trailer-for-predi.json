@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kalshi-demands-netflix-take-down-trailer-for-predi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+  "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+  "pubDate": "Sat, 25 Jul 2026 16:46:46 +0000",
+  "slides": [
+    "Kalshi just demanded Netflix remove a documentary trailer. Why?",
+    "The film, 'Prediction Games,' features Kalshi's own platform uncensored.",
+    "Kalshi's legal letter claims trademark infringement—but is that all?",
+    "If Netflix resists, Kalshi's brand control could weaken permanently.",
+    "Watch the trailer yourself before Kalshi potentially forces its takedown."
+  ],
+  "thread_text": [
+    "1. Kalshi wants Netflix to delete.\n\nKalshi sent a legal demand to Netflix asking them to remove the trailer for 'Prediction Games,' a documentary that shows their platform without censorship.",
+    "2. Trademark claim or cover-up?\n\nKalshi's letter says the trailer infringes on their trademark, but the real concern might be the uncensored footage of their own platform.",
+    "3. What Netflix reveals matters.\n\nThe trailer shows Kalshi's platform as it operates in real-time—something Kalshi might not want the public to see unchecked.",
+    "4. If Netflix pushes back, Kalshi loses.\n\nA public refusal by Netflix would set a precedent that Kalshi can't control its brand image when exposed in third-party content.",
+    "5. Watch the trailer before it disappears.\n\nGo to Netflix and search 'Prediction Games'—watch the trailer now. You may not get another chance if Kalshi's legal team succeeds."
+  ],
+  "video_script": [
+    "Kalshi demanded Netflix remove a documentary trailer.",
+    "The film shows Kalshi's platform uncensored.",
+    "Kalshi claims trademark infringement, but is that all?",
+    "If Netflix resists, Kalshi's brand control weakens.",
+    "Watch the trailer before it may be taken down."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Kalshi wants Netflix to delete.\n\nKalshi sent a legal demand to Netflix asking them to remove the trailer for 'Prediction Games,' a documentary that shows their platform without censorship.",
+        "2. Trademark claim or cover-up?\n\nKalshi's letter says the trailer infringes on their trademark, but the real concern might be the uncensored footage of their own platform.",
+        "3. What Netflix reveals matters.\n\nThe trailer shows Kalshi's platform as it operates in real-time—something Kalshi might not want the public to see unchecked.",
+        "4. If Netflix pushes back, Kalshi loses.\n\nA public refusal by Netflix would set a precedent that Kalshi can't control its brand image when exposed in third-party content.",
+        "5. Watch the trailer before it disappears.\n\nGo to Netflix and search 'Prediction Games'—watch the trailer now. You may not get another chance if Kalshi's legal team succeeds."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Kalshi demanded Netflix remove a documentary trailer.",
+        "The film shows Kalshi's platform uncensored.",
+        "Kalshi claims trademark infringement, but is that all?",
+        "If Netflix resists, Kalshi's brand control weakens.",
+        "Watch the trailer before it may be taken down."
+      ]
+    },
+    "instagram": {
+      "caption": "Netflix might have to pull a documentary trailer because one company doesn't like what it shows. 📺\n\nKalshi sent a legal letter demanding the removal of 'Prediction Games' trailer, claiming trademark infringement. The real issue? Uncensored footage of their own prediction platform running live.\n\nIf Netflix refuses to take it down, Kalshi permanently loses control over how its brand appears in third-party content. ⚖️\n\nThat matters for anyone who features a company's product in their work—one legal threat could force your content offline.\n\nSearch \"Prediction Games\" on Netflix now—will you watch before it potentially disappears? 🎥"
+    }
+  },
+  "instagram_caption": "Netflix might have to pull a documentary trailer because one company doesn't like what it shows. 📺\n\nKalshi sent a legal letter demanding the removal of 'Prediction Games' trailer, claiming trademark infringement. The real issue? Uncensored footage of their own prediction platform running live.\n\nIf Netflix refuses to take it down, Kalshi permanently loses control over how its brand appears in third-party content. ⚖️\n\nThat matters for anyone who features a company's product in their work—one legal threat could force your content offline.\n\nSearch \"Prediction Games\" on Netflix now—will you watch before it potentially disappears? 🎥",
+  "carousel_slides": [
+    {
+      "hook": "Is Kalshi trying to censor a documentary?",
+      "description": "Kalshi demanded Netflix remove the trailer for 'Prediction Games,' which shows their platform uncensored in real-time.",
+      "visual_hint": "Netflix logo with legal letter",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Netflix streaming site"
+    },
+    {
+      "hook": "Trademark claim or hidden agenda?",
+      "description": "Kalshi's legal letter cites trademark infringement, but the real issue may be uncensored footage of their own platform.",
+      "visual_hint": "Magnifying glass over document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal document paper",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Uncensored footage threatens Kalshi's control.",
+      "description": "The trailer reveals Kalshi's platform as it operates in real-time, something they may not want publicly visible without filters.",
+      "visual_hint": "Camera zooming on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer monitor display",
+      "image": "https://images.pexels.com/photos/17112932/pexels-photo-17112932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Netflix's stand could weaken Kalshi's brand.",
+      "description": "If Netflix refuses the takedown, Kalshi loses control over their brand image in third-party content permanently.",
+      "visual_hint": "Hand pushing back a wall",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pushing wall",
+      "image": "https://images.pexels.com/photos/30940111/pexels-photo-30940111.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the trailer before it's gone forever.",
+      "description": "Search 'Prediction Games' on Netflix now and watch the trailer while it's still available.",
+      "visual_hint": "Play button on trailer thumbnail",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Netflix search bar",
+      "image": "https://images.pexels.com/photos/4329870/pexels-photo-4329870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kalshi.jpg?w=1024",
+  "savedAt": "2026-07-26T20:47:19.383Z",
+  "sourceId": "42088a22fcb3bd04cdfcae440a32fd26"
+}

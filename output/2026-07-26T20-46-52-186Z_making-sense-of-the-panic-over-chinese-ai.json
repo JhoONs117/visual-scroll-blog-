@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "making-sense-of-the-panic-over-chinese-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Making sense of the panic over Chinese AI",
+  "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+  "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
+  "slides": [
+    "Why is Western AI suddenly panicking about China?",
+    "Chinese models now match GPT-4 on key benchmarks.",
+    "They did it with far fewer chips than expected.",
+    "Your AI strategy may already be based on false assumptions.",
+    "Run your own comparison on a real business task today."
+  ],
+  "thread_text": [
+    "1. Why the panic?\n\nChinese models matched GPT-4 on key benchmarks using far fewer chips than the West thought possible.",
+    "2. The chip myth\n\nOpenAI assumed compute scale was the moat. China just proved algorithmic efficiency can close the gap without cutting-edge hardware.",
+    "3. Your assumptions are obsolete\n\nIf your AI strategy bets on needing massive compute, it's already based on false premises. The bottleneck just shifted.",
+    "4. The real advantage\n\nThe West's edge was never raw power—it was data and ecosystem. Both are now being replicated faster than expected.",
+    "5. Test it yourself\n\nTake a business task you automate today. Run it on GPT-4 and on a comparable Chinese model. Does the gap still exist for your use case?"
+  ],
+  "video_script": [
+    "Western AI is panicking about China.",
+    "Chinese models match GPT-4 on benchmarks.",
+    "They did it with far fewer chips.",
+    "Your AI assumptions may be wrong.",
+    "Test your own business task today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the panic?\n\nChinese models matched GPT-4 on key benchmarks using far fewer chips than the West thought possible.",
+        "2. The chip myth\n\nOpenAI assumed compute scale was the moat. China just proved algorithmic efficiency can close the gap without cutting-edge hardware.",
+        "3. Your assumptions are obsolete\n\nIf your AI strategy bets on needing massive compute, it's already based on false premises. The bottleneck just shifted.",
+        "4. The real advantage\n\nThe West's edge was never raw power—it was data and ecosystem. Both are now being replicated faster than expected.",
+        "5. Test it yourself\n\nTake a business task you automate today. Run it on GPT-4 and on a comparable Chinese model. Does the gap still exist for your use case?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Western AI is panicking about China.",
+        "Chinese models match GPT-4 on benchmarks.",
+        "They did it with far fewer chips.",
+        "Your AI assumptions may be wrong.",
+        "Test your own business task today."
+      ]
+    },
+    "instagram": {
+      "caption": "Chinese AI models now match GPT-4 on key benchmarks — using far fewer chips than the West assumed possible 🧠\n\nOpenAI bet that massive computing power was the ultimate advantage. China just proved algorithmic efficiency can close that gap 🔁 The real bottleneck just shifted from hardware to data and ecosystem.\n\nFor anyone building with AI: your strategy based on needing top-tier chips may already be outdated — the race just got faster 🤯\n\nWhat business task do you rely on AI for today — and have you run it against a Chinese model to see if the gap still exists for *your* use case?"
+    }
+  },
+  "instagram_caption": "Chinese AI models now match GPT-4 on key benchmarks — using far fewer chips than the West assumed possible 🧠\n\nOpenAI bet that massive computing power was the ultimate advantage. China just proved algorithmic efficiency can close that gap 🔁 The real bottleneck just shifted from hardware to data and ecosystem.\n\nFor anyone building with AI: your strategy based on needing top-tier chips may already be outdated — the race just got faster 🤯\n\nWhat business task do you rely on AI for today — and have you run it against a Chinese model to see if the gap still exists for *your* use case?",
+  "carousel_slides": [
+    {
+      "hook": "Is your AI bet already obsolete?",
+      "description": "Chinese models matched GPT-4 on benchmarks using far fewer chips than the West thought possible.",
+      "visual_hint": "server racks glowing blue",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The chip moat just collapsed.",
+      "description": "OpenAI bet on massive compute as an edge; China proved algorithmic efficiency closes the gap.",
+      "visual_hint": "finger pointing at graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip factory",
+      "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI strategy is built on sand.",
+      "description": "If you assumed you needed huge compute, your premise is false. The bottleneck just shifted.",
+      "visual_hint": "cracked glass over chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken assumption chart",
+      "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Data and ecosystem aren't safe either.",
+      "description": "The West's real edge was data and ecosystem—both being replicated faster than expected.",
+      "visual_hint": "two hands merging circuits",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run your own test today.",
+      "description": "Take a real business task, run it on GPT-4 and a Chinese model. Does the gap still exist?",
+      "visual_hint": "phone showing comparison",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone comparison",
+      "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+  "savedAt": "2026-07-26T20:47:05.414Z",
+  "sourceId": "216b0412425af10445635febc0d77146"
+}

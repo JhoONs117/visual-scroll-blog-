@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "i-tried-out-openai-s-new-ai-keypad-which-will-be-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+  "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+  "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+  "slides": [
+    "Can a keypad make you a better coder?",
+    "OpenAI's new tool replaces typing with AI shortcuts.",
+    "It works like magic for Python, but not for prose.",
+    "Non-coders will stare at a blank, silent keyboard.",
+    "Try it yourself if you write code daily."
+  ],
+  "thread_text": [
+    "1. Become a coder overnight.\n\nOpenAI built a keypad that completes code for you. It's not a theory—it's live today.",
+    "2. Python loves it.\n\nFor Python scripts, the tool predicts your next move. Prose? It stalls. The AI only helps with logic, not creativity.",
+    "3. Non-coders get silence.\n\nIf you don't code, the keyboard stays blank. No suggestions, no help—just a dark slab staring back.",
+    "4. The shortcut illusion.\n\nTyping less seems like a win, but deleted AI lines add time. You trade keystrokes for mental overhead.",
+    "5. Test it on your own code.\n\nOpen the tool and run a Python function. Does it write cleaner than you? Try it once this week."
+  ],
+  "video_script": [
+    "A keypad can double your coding speed.",
+    "OpenAI turns typing into shortcuts now.",
+    "It works with Python, not with prose.",
+    "Non-coders see a blank, silent keyboard.",
+    "Try it if you write code daily."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Become a coder overnight.\n\nOpenAI built a keypad that completes code for you. It's not a theory—it's live today.",
+        "2. Python loves it.\n\nFor Python scripts, the tool predicts your next move. Prose? It stalls. The AI only helps with logic, not creativity.",
+        "3. Non-coders get silence.\n\nIf you don't code, the keyboard stays blank. No suggestions, no help—just a dark slab staring back.",
+        "4. The shortcut illusion.\n\nTyping less seems like a win, but deleted AI lines add time. You trade keystrokes for mental overhead.",
+        "5. Test it on your own code.\n\nOpen the tool and run a Python function. Does it write cleaner than you? Try it once this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A keypad can double your coding speed.",
+        "OpenAI turns typing into shortcuts now.",
+        "It works with Python, not with prose.",
+        "Non-coders see a blank, silent keyboard.",
+        "Try it if you write code daily."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s new keypad autocompletes your code, but if you don't write Python, the screen stays blank. No suggestions, no help—just silence.\n\nCoders get lightning-fast Python predictions; writers get a dead keyboard. 🐍 The tool only assists logic, not creativity. Deleting wrong AI suggestions can even slow you down. ⏳\n\nIf you publish code daily, your typing is about to change. If you write anything else, this tool doesn't exist for you.\n\nRun one Python function into it this week—did the shortcut actually save you time? 🤔"
+    }
+  },
+  "instagram_caption": "OpenAI’s new keypad autocompletes your code, but if you don't write Python, the screen stays blank. No suggestions, no help—just silence.\n\nCoders get lightning-fast Python predictions; writers get a dead keyboard. 🐍 The tool only assists logic, not creativity. Deleting wrong AI suggestions can even slow you down. ⏳\n\nIf you publish code daily, your typing is about to change. If you write anything else, this tool doesn't exist for you.\n\nRun one Python function into it this week—did the shortcut actually save you time? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can a keypad make you code better?",
+      "description": "OpenAI's new tool replaces typing with AI shortcuts. It works like magic for Python but not for prose.",
+      "visual_hint": "keypad with glowing keys",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "keyboard close up"
+    },
+    {
+      "hook": "Python loves it, prose stalls.",
+      "description": "The AI predicts your next code move. Non-coders get a blank, silent keyboard with no help.",
+      "visual_hint": "silent dark keyboard",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "dark computer keyboard",
+      "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Typing less isn't always faster.",
+      "description": "Deleted AI lines add mental overhead. You trade keystrokes for extra thinking time.",
+      "visual_hint": "hand deleting text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand pressing delete key",
+      "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Non-coders get a dark slab.",
+      "description": "No suggestions appear if you don't code. The keypad stays blank and silent.",
+      "visual_hint": "blank black keypad",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "black tablet screen",
+      "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your own code now.",
+      "description": "Open the tool and run a Python function. See if it writes cleaner than you.",
+      "visual_hint": "Python code on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Python code editor",
+      "image": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+  "savedAt": "2026-07-26T20:47:32.358Z",
+  "sourceId": "0c2e3422c7023700c1b2129f9f12384b"
+}

@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "i-tried-out-openai-s-new-ai-keypad-which-will-be-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+    "slides": [
+      "Can a keypad make you a better coder?",
+      "OpenAI's new tool replaces typing with AI shortcuts.",
+      "It works like magic for Python, but not for prose.",
+      "Non-coders will stare at a blank, silent keyboard.",
+      "Try it yourself if you write code daily."
+    ],
+    "thread_text": [
+      "1. Become a coder overnight.\n\nOpenAI built a keypad that completes code for you. It's not a theory—it's live today.",
+      "2. Python loves it.\n\nFor Python scripts, the tool predicts your next move. Prose? It stalls. The AI only helps with logic, not creativity.",
+      "3. Non-coders get silence.\n\nIf you don't code, the keyboard stays blank. No suggestions, no help—just a dark slab staring back.",
+      "4. The shortcut illusion.\n\nTyping less seems like a win, but deleted AI lines add time. You trade keystrokes for mental overhead.",
+      "5. Test it on your own code.\n\nOpen the tool and run a Python function. Does it write cleaner than you? Try it once this week."
+    ],
+    "video_script": [
+      "A keypad can double your coding speed.",
+      "OpenAI turns typing into shortcuts now.",
+      "It works with Python, not with prose.",
+      "Non-coders see a blank, silent keyboard.",
+      "Try it if you write code daily."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Become a coder overnight.\n\nOpenAI built a keypad that completes code for you. It's not a theory—it's live today.",
+          "2. Python loves it.\n\nFor Python scripts, the tool predicts your next move. Prose? It stalls. The AI only helps with logic, not creativity.",
+          "3. Non-coders get silence.\n\nIf you don't code, the keyboard stays blank. No suggestions, no help—just a dark slab staring back.",
+          "4. The shortcut illusion.\n\nTyping less seems like a win, but deleted AI lines add time. You trade keystrokes for mental overhead.",
+          "5. Test it on your own code.\n\nOpen the tool and run a Python function. Does it write cleaner than you? Try it once this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A keypad can double your coding speed.",
+          "OpenAI turns typing into shortcuts now.",
+          "It works with Python, not with prose.",
+          "Non-coders see a blank, silent keyboard.",
+          "Try it if you write code daily."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s new keypad autocompletes your code, but if you don't write Python, the screen stays blank. No suggestions, no help—just silence.\n\nCoders get lightning-fast Python predictions; writers get a dead keyboard. 🐍 The tool only assists logic, not creativity. Deleting wrong AI suggestions can even slow you down. ⏳\n\nIf you publish code daily, your typing is about to change. If you write anything else, this tool doesn't exist for you.\n\nRun one Python function into it this week—did the shortcut actually save you time? 🤔"
+      }
+    },
+    "instagram_caption": "OpenAI’s new keypad autocompletes your code, but if you don't write Python, the screen stays blank. No suggestions, no help—just silence.\n\nCoders get lightning-fast Python predictions; writers get a dead keyboard. 🐍 The tool only assists logic, not creativity. Deleting wrong AI suggestions can even slow you down. ⏳\n\nIf you publish code daily, your typing is about to change. If you write anything else, this tool doesn't exist for you.\n\nRun one Python function into it this week—did the shortcut actually save you time? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can a keypad make you code better?",
+        "description": "OpenAI's new tool replaces typing with AI shortcuts. It works like magic for Python but not for prose.",
+        "visual_hint": "keypad with glowing keys",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "keyboard close up"
+      },
+      {
+        "hook": "Python loves it, prose stalls.",
+        "description": "The AI predicts your next code move. Non-coders get a blank, silent keyboard with no help.",
+        "visual_hint": "silent dark keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "dark computer keyboard",
+        "image": "https://images.pexels.com/photos/16321209/pexels-photo-16321209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Typing less isn't always faster.",
+        "description": "Deleted AI lines add mental overhead. You trade keystrokes for extra thinking time.",
+        "visual_hint": "hand deleting text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand pressing delete key",
+        "image": "https://images.pexels.com/photos/5077052/pexels-photo-5077052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Non-coders get a dark slab.",
+        "description": "No suggestions appear if you don't code. The keypad stays blank and silent.",
+        "visual_hint": "blank black keypad",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "black tablet screen",
+        "image": "https://images.pexels.com/photos/13570165/pexels-photo-13570165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your own code now.",
+        "description": "Open the tool and run a Python function. See if it writes cleaner than you.",
+        "visual_hint": "Python code on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Python code editor",
+        "image": "https://images.pexels.com/photos/3861959/pexels-photo-3861959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+    "savedAt": "2026-07-26T20:47:32.358Z",
+    "sourceId": "0c2e3422c7023700c1b2129f9f12384b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "kalshi-demands-netflix-take-down-trailer-for-predi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+    "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+    "pubDate": "Sat, 25 Jul 2026 16:46:46 +0000",
+    "slides": [
+      "Kalshi just demanded Netflix remove a documentary trailer. Why?",
+      "The film, 'Prediction Games,' features Kalshi's own platform uncensored.",
+      "Kalshi's legal letter claims trademark infringement—but is that all?",
+      "If Netflix resists, Kalshi's brand control could weaken permanently.",
+      "Watch the trailer yourself before Kalshi potentially forces its takedown."
+    ],
+    "thread_text": [
+      "1. Kalshi wants Netflix to delete.\n\nKalshi sent a legal demand to Netflix asking them to remove the trailer for 'Prediction Games,' a documentary that shows their platform without censorship.",
+      "2. Trademark claim or cover-up?\n\nKalshi's letter says the trailer infringes on their trademark, but the real concern might be the uncensored footage of their own platform.",
+      "3. What Netflix reveals matters.\n\nThe trailer shows Kalshi's platform as it operates in real-time—something Kalshi might not want the public to see unchecked.",
+      "4. If Netflix pushes back, Kalshi loses.\n\nA public refusal by Netflix would set a precedent that Kalshi can't control its brand image when exposed in third-party content.",
+      "5. Watch the trailer before it disappears.\n\nGo to Netflix and search 'Prediction Games'—watch the trailer now. You may not get another chance if Kalshi's legal team succeeds."
+    ],
+    "video_script": [
+      "Kalshi demanded Netflix remove a documentary trailer.",
+      "The film shows Kalshi's platform uncensored.",
+      "Kalshi claims trademark infringement, but is that all?",
+      "If Netflix resists, Kalshi's brand control weakens.",
+      "Watch the trailer before it may be taken down."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Kalshi wants Netflix to delete.\n\nKalshi sent a legal demand to Netflix asking them to remove the trailer for 'Prediction Games,' a documentary that shows their platform without censorship.",
+          "2. Trademark claim or cover-up?\n\nKalshi's letter says the trailer infringes on their trademark, but the real concern might be the uncensored footage of their own platform.",
+          "3. What Netflix reveals matters.\n\nThe trailer shows Kalshi's platform as it operates in real-time—something Kalshi might not want the public to see unchecked.",
+          "4. If Netflix pushes back, Kalshi loses.\n\nA public refusal by Netflix would set a precedent that Kalshi can't control its brand image when exposed in third-party content.",
+          "5. Watch the trailer before it disappears.\n\nGo to Netflix and search 'Prediction Games'—watch the trailer now. You may not get another chance if Kalshi's legal team succeeds."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Kalshi demanded Netflix remove a documentary trailer.",
+          "The film shows Kalshi's platform uncensored.",
+          "Kalshi claims trademark infringement, but is that all?",
+          "If Netflix resists, Kalshi's brand control weakens.",
+          "Watch the trailer before it may be taken down."
+        ]
+      },
+      "instagram": {
+        "caption": "Netflix might have to pull a documentary trailer because one company doesn't like what it shows. 📺\n\nKalshi sent a legal letter demanding the removal of 'Prediction Games' trailer, claiming trademark infringement. The real issue? Uncensored footage of their own prediction platform running live.\n\nIf Netflix refuses to take it down, Kalshi permanently loses control over how its brand appears in third-party content. ⚖️\n\nThat matters for anyone who features a company's product in their work—one legal threat could force your content offline.\n\nSearch \"Prediction Games\" on Netflix now—will you watch before it potentially disappears? 🎥"
+      }
+    },
+    "instagram_caption": "Netflix might have to pull a documentary trailer because one company doesn't like what it shows. 📺\n\nKalshi sent a legal letter demanding the removal of 'Prediction Games' trailer, claiming trademark infringement. The real issue? Uncensored footage of their own prediction platform running live.\n\nIf Netflix refuses to take it down, Kalshi permanently loses control over how its brand appears in third-party content. ⚖️\n\nThat matters for anyone who features a company's product in their work—one legal threat could force your content offline.\n\nSearch \"Prediction Games\" on Netflix now—will you watch before it potentially disappears? 🎥",
+    "carousel_slides": [
+      {
+        "hook": "Is Kalshi trying to censor a documentary?",
+        "description": "Kalshi demanded Netflix remove the trailer for 'Prediction Games,' which shows their platform uncensored in real-time.",
+        "visual_hint": "Netflix logo with legal letter",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Netflix streaming site"
+      },
+      {
+        "hook": "Trademark claim or hidden agenda?",
+        "description": "Kalshi's legal letter cites trademark infringement, but the real issue may be uncensored footage of their own platform.",
+        "visual_hint": "Magnifying glass over document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal document paper",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Uncensored footage threatens Kalshi's control.",
+        "description": "The trailer reveals Kalshi's platform as it operates in real-time, something they may not want publicly visible without filters.",
+        "visual_hint": "Camera zooming on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer monitor display",
+        "image": "https://images.pexels.com/photos/17112932/pexels-photo-17112932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Netflix's stand could weaken Kalshi's brand.",
+        "description": "If Netflix refuses the takedown, Kalshi loses control over their brand image in third-party content permanently.",
+        "visual_hint": "Hand pushing back a wall",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pushing wall",
+        "image": "https://images.pexels.com/photos/30940111/pexels-photo-30940111.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Watch the trailer before it's gone forever.",
+        "description": "Search 'Prediction Games' on Netflix now and watch the trailer while it's still available.",
+        "visual_hint": "Play button on trailer thumbnail",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "Netflix search bar",
+        "image": "https://images.pexels.com/photos/4329870/pexels-photo-4329870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Kalshi.jpg?w=1024",
+    "savedAt": "2026-07-26T20:47:19.383Z",
+    "sourceId": "42088a22fcb3bd04cdfcae440a32fd26"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "making-sense-of-the-panic-over-chinese-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "pubDate": "Sun, 26 Jul 2026 19:40:57 +0000",
+    "slides": [
+      "Why is Western AI suddenly panicking about China?",
+      "Chinese models now match GPT-4 on key benchmarks.",
+      "They did it with far fewer chips than expected.",
+      "Your AI strategy may already be based on false assumptions.",
+      "Run your own comparison on a real business task today."
+    ],
+    "thread_text": [
+      "1. Why the panic?\n\nChinese models matched GPT-4 on key benchmarks using far fewer chips than the West thought possible.",
+      "2. The chip myth\n\nOpenAI assumed compute scale was the moat. China just proved algorithmic efficiency can close the gap without cutting-edge hardware.",
+      "3. Your assumptions are obsolete\n\nIf your AI strategy bets on needing massive compute, it's already based on false premises. The bottleneck just shifted.",
+      "4. The real advantage\n\nThe West's edge was never raw power—it was data and ecosystem. Both are now being replicated faster than expected.",
+      "5. Test it yourself\n\nTake a business task you automate today. Run it on GPT-4 and on a comparable Chinese model. Does the gap still exist for your use case?"
+    ],
+    "video_script": [
+      "Western AI is panicking about China.",
+      "Chinese models match GPT-4 on benchmarks.",
+      "They did it with far fewer chips.",
+      "Your AI assumptions may be wrong.",
+      "Test your own business task today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the panic?\n\nChinese models matched GPT-4 on key benchmarks using far fewer chips than the West thought possible.",
+          "2. The chip myth\n\nOpenAI assumed compute scale was the moat. China just proved algorithmic efficiency can close the gap without cutting-edge hardware.",
+          "3. Your assumptions are obsolete\n\nIf your AI strategy bets on needing massive compute, it's already based on false premises. The bottleneck just shifted.",
+          "4. The real advantage\n\nThe West's edge was never raw power—it was data and ecosystem. Both are now being replicated faster than expected.",
+          "5. Test it yourself\n\nTake a business task you automate today. Run it on GPT-4 and on a comparable Chinese model. Does the gap still exist for your use case?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Western AI is panicking about China.",
+          "Chinese models match GPT-4 on benchmarks.",
+          "They did it with far fewer chips.",
+          "Your AI assumptions may be wrong.",
+          "Test your own business task today."
+        ]
+      },
+      "instagram": {
+        "caption": "Chinese AI models now match GPT-4 on key benchmarks — using far fewer chips than the West assumed possible 🧠\n\nOpenAI bet that massive computing power was the ultimate advantage. China just proved algorithmic efficiency can close that gap 🔁 The real bottleneck just shifted from hardware to data and ecosystem.\n\nFor anyone building with AI: your strategy based on needing top-tier chips may already be outdated — the race just got faster 🤯\n\nWhat business task do you rely on AI for today — and have you run it against a Chinese model to see if the gap still exists for *your* use case?"
+      }
+    },
+    "instagram_caption": "Chinese AI models now match GPT-4 on key benchmarks — using far fewer chips than the West assumed possible 🧠\n\nOpenAI bet that massive computing power was the ultimate advantage. China just proved algorithmic efficiency can close that gap 🔁 The real bottleneck just shifted from hardware to data and ecosystem.\n\nFor anyone building with AI: your strategy based on needing top-tier chips may already be outdated — the race just got faster 🤯\n\nWhat business task do you rely on AI for today — and have you run it against a Chinese model to see if the gap still exists for *your* use case?",
+    "carousel_slides": [
+      {
+        "hook": "Is your AI bet already obsolete?",
+        "description": "Chinese models matched GPT-4 on benchmarks using far fewer chips than the West thought possible.",
+        "visual_hint": "server racks glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "The chip moat just collapsed.",
+        "description": "OpenAI bet on massive compute as an edge; China proved algorithmic efficiency closes the gap.",
+        "visual_hint": "finger pointing at graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip factory",
+        "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI strategy is built on sand.",
+        "description": "If you assumed you needed huge compute, your premise is false. The bottleneck just shifted.",
+        "visual_hint": "cracked glass over chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken assumption chart",
+        "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Data and ecosystem aren't safe either.",
+        "description": "The West's real edge was data and ecosystem—both being replicated faster than expected.",
+        "visual_hint": "two hands merging circuits",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run your own test today.",
+        "description": "Take a real business task, run it on GPT-4 and a Chinese model. Does the gap still exist?",
+        "visual_hint": "phone showing comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone comparison",
+        "image": "https://images.pexels.com/photos/5398928/pexels-photo-5398928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+    "savedAt": "2026-07-26T20:47:05.414Z",
+    "sourceId": "216b0412425af10445635febc0d77146"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-is-making-its-ai-chatbot-more-like-an-assista",
     "prompt_version": "1.0.0",
     "status": "published",
