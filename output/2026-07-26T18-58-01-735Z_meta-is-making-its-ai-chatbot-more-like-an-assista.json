@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-is-making-its-ai-chatbot-more-like-an-assista",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta is making its AI chatbot more like an assistant",
+  "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+  "pubDate": "2026-07-24T17:00:00.000Z",
+  "slides": [
+    "Can Meta finally make its chatbot useful beyond search?",
+    "The new update gives it real memory across conversations.",
+    "It now plans actions, not just replies—like booking flights.",
+    "Your chat history lets it remind you about deadlines.",
+    "Test it today: ask it to schedule your next meeting."
+  ],
+  "thread_text": [
+    "1. Memory beyond search\n\nMeta’s chatbot now remembers you across conversations, not just queries.",
+    "2. It books flights now\n\nThe system can execute multi-step actions like reservations without your confirmation.",
+    "3. No more forgotten deadlines\n\nIt scans past chats to remind you about tasks slipping through the cracks.",
+    "4. Privacy or convenience?\n\nYour entire chat history becomes the data it uses to predict your next move.",
+    "5. Test it on your calendar\n\nOpen the app and ask it to schedule your next meeting. Does it nail the time?"
+  ],
+  "video_script": [
+    "Meta’s chatbot now remembers your past chats.",
+    "It can book flights on its own.",
+    "It will remind you about deadlines.",
+    "Your chat history powers these predictions.",
+    "Ask it to schedule your meeting now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Memory beyond search\n\nMeta’s chatbot now remembers you across conversations, not just queries.",
+        "2. It books flights now\n\nThe system can execute multi-step actions like reservations without your confirmation.",
+        "3. No more forgotten deadlines\n\nIt scans past chats to remind you about tasks slipping through the cracks.",
+        "4. Privacy or convenience?\n\nYour entire chat history becomes the data it uses to predict your next move.",
+        "5. Test it on your calendar\n\nOpen the app and ask it to schedule your next meeting. Does it nail the time?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta’s chatbot now remembers your past chats.",
+        "It can book flights on its own.",
+        "It will remind you about deadlines.",
+        "Your chat history powers these predictions.",
+        "Ask it to schedule your meeting now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Meta chatbot can now remember your past requests and plan multi-step actions—like booking a flight without asking each time.\n\nIt tracks your chat history to remind you about deadlines you mentioned days ago. The system moves beyond search to execute tasks, not just answer questions.\n\nFor anyone managing content or scheduling, this means less manual oversight of recurring tasks—but your entire conversation history becomes the data it uses.\n\n📆 Open the app and ask it to schedule your next meeting. How close did it get to the time you actually wanted?"
+    }
+  },
+  "instagram_caption": "Your Meta chatbot can now remember your past requests and plan multi-step actions—like booking a flight without asking each time.\n\nIt tracks your chat history to remind you about deadlines you mentioned days ago. The system moves beyond search to execute tasks, not just answer questions.\n\nFor anyone managing content or scheduling, this means less manual oversight of recurring tasks—but your entire conversation history becomes the data it uses.\n\n📆 Open the app and ask it to schedule your next meeting. How close did it get to the time you actually wanted?",
+  "carousel_slides": [
+    {
+      "hook": "Your chatbot books flights now.",
+      "description": "Meta’s AI executes multi-step actions like reservations without your confirmation.",
+      "visual_hint": "Flight booking confirmation screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "airplane booking app"
+    },
+    {
+      "hook": "It remembers your past chats.",
+      "description": "The chatbot now holds real memory across conversations, not just searches.",
+      "visual_hint": "Chat bubbles with memory icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat interface smartphone",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Never miss a deadline again.",
+      "description": "It scans your chat history and reminds you of tasks slipping through the cracks.",
+      "visual_hint": "Calendar alert with reminder",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar deadline reminder",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy or convenience trade-off?",
+      "description": "Your entire chat history becomes data it uses to predict your next move.",
+      "visual_hint": "Privacy lock overlay chat",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone privacy lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test it now.",
+      "description": "Open the app and ask Meta to schedule your next meeting.",
+      "visual_hint": "Finger tapping schedule button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "meeting schedule app",
+      "image": "https://images.pexels.com/photos/7971696/pexels-photo-7971696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.9744178812656%2C100%2C60.121795706945&amp;w=1200",
+  "savedAt": "2026-07-26T18:58:35.990Z",
+  "sourceId": "9e99a2ed73e61defae3dd681583d5c1c"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-is-making-its-ai-chatbot-more-like-an-assista",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "slides": [
+        "Can Meta finally make its chatbot useful beyond search?",
+        "The new update gives it real memory across conversations.",
+        "It now plans actions, not just replies—like booking flights.",
+        "Your chat history lets it remind you about deadlines.",
+        "Test it today: ask it to schedule your next meeting."
+      ],
+      "thread_text": [
+        "1. Memory beyond search\n\nMeta’s chatbot now remembers you across conversations, not just queries.",
+        "2. It books flights now\n\nThe system can execute multi-step actions like reservations without your confirmation.",
+        "3. No more forgotten deadlines\n\nIt scans past chats to remind you about tasks slipping through the cracks.",
+        "4. Privacy or convenience?\n\nYour entire chat history becomes the data it uses to predict your next move.",
+        "5. Test it on your calendar\n\nOpen the app and ask it to schedule your next meeting. Does it nail the time?"
+      ],
+      "video_script": [
+        "Meta’s chatbot now remembers your past chats.",
+        "It can book flights on its own.",
+        "It will remind you about deadlines.",
+        "Your chat history powers these predictions.",
+        "Ask it to schedule your meeting now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Memory beyond search\n\nMeta’s chatbot now remembers you across conversations, not just queries.",
+            "2. It books flights now\n\nThe system can execute multi-step actions like reservations without your confirmation.",
+            "3. No more forgotten deadlines\n\nIt scans past chats to remind you about tasks slipping through the cracks.",
+            "4. Privacy or convenience?\n\nYour entire chat history becomes the data it uses to predict your next move.",
+            "5. Test it on your calendar\n\nOpen the app and ask it to schedule your next meeting. Does it nail the time?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta’s chatbot now remembers your past chats.",
+            "It can book flights on its own.",
+            "It will remind you about deadlines.",
+            "Your chat history powers these predictions.",
+            "Ask it to schedule your meeting now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Meta chatbot can now remember your past requests and plan multi-step actions—like booking a flight without asking each time.\n\nIt tracks your chat history to remind you about deadlines you mentioned days ago. The system moves beyond search to execute tasks, not just answer questions.\n\nFor anyone managing content or scheduling, this means less manual oversight of recurring tasks—but your entire conversation history becomes the data it uses.\n\n📆 Open the app and ask it to schedule your next meeting. How close did it get to the time you actually wanted?"
+        }
+      },
+      "instagram_caption": "Your Meta chatbot can now remember your past requests and plan multi-step actions—like booking a flight without asking each time.\n\nIt tracks your chat history to remind you about deadlines you mentioned days ago. The system moves beyond search to execute tasks, not just answer questions.\n\nFor anyone managing content or scheduling, this means less manual oversight of recurring tasks—but your entire conversation history becomes the data it uses.\n\n📆 Open the app and ask it to schedule your next meeting. How close did it get to the time you actually wanted?",
+      "carousel_slides": [
+        {
+          "hook": "Your chatbot books flights now.",
+          "description": "Meta’s AI executes multi-step actions like reservations without your confirmation.",
+          "visual_hint": "Flight booking confirmation screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "airplane booking app"
+        },
+        {
+          "hook": "It remembers your past chats.",
+          "description": "The chatbot now holds real memory across conversations, not just searches.",
+          "visual_hint": "Chat bubbles with memory icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chat interface smartphone",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Never miss a deadline again.",
+          "description": "It scans your chat history and reminds you of tasks slipping through the cracks.",
+          "visual_hint": "Calendar alert with reminder",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar deadline reminder",
+          "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy or convenience trade-off?",
+          "description": "Your entire chat history becomes data it uses to predict your next move.",
+          "visual_hint": "Privacy lock overlay chat",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone privacy lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test it now.",
+          "description": "Open the app and ask Meta to schedule your next meeting.",
+          "visual_hint": "Finger tapping schedule button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "meeting schedule app",
+          "image": "https://images.pexels.com/photos/7971696/pexels-photo-7971696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.9744178812656%2C100%2C60.121795706945&amp;w=1200",
+      "savedAt": "2026-07-26T18:58:35.990Z",
+      "sourceId": "9e99a2ed73e61defae3dd681583d5c1c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacex-launches-new-v3-starlink-satellites-but-suf",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "pubDate": "Fri, 24 Jul 2026 23:25:47 +0000",
+      "slides": [
+        "SpaceX just launched V3 Starlinks—why the booster failed?",
+        "Each V3 satellite carries 1 Tbps of capacity.",
+        "The booster had flown 20 times before this failure.",
+        "Your low-orbit internet speed may double soon.",
+        "Ask: is your industry ready for near-free bandwidth?"
+      ],
+      "thread_text": [
+        "1. Was 20 flights the limit?\n\nSpaceX lost a booster that had flown two decades without a major issue. The failure came on a routine Starlink launch.",
+        "2. Each satellite carries 1 Tbps.\n\nThat's more capacity than a traditional fiber cable. V3 satellites are built to handle massive data loads.",
+        "3. Your internet speed may double.\n\nLow-orbit latency already beats ground fiber. With V3, throughput jumps without waiting for new infrastructure.",
+        "4. Why the booster failed matters.\n\nIf reusability has a hidden ceiling, launch costs could rise. That affects how fast the constellation grows.",
+        "5. Is your industry ready for near-free bandwidth?\n\nList three bottlenecks today that disappear with unlimited low-cost data. Then ask your team what you'd build."
+      ],
+      "video_script": [
+        "SpaceX lost a booster after twenty flights.",
+        "Each new satellite carries one terabit per second.",
+        "Your low-orbit internet could double soon.",
+        "If reuse has limits, launch costs may rise.",
+        "Is your industry ready for near-free bandwidth?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Was 20 flights the limit?\n\nSpaceX lost a booster that had flown two decades without a major issue. The failure came on a routine Starlink launch.",
+            "2. Each satellite carries 1 Tbps.\n\nThat's more capacity than a traditional fiber cable. V3 satellites are built to handle massive data loads.",
+            "3. Your internet speed may double.\n\nLow-orbit latency already beats ground fiber. With V3, throughput jumps without waiting for new infrastructure.",
+            "4. Why the booster failed matters.\n\nIf reusability has a hidden ceiling, launch costs could rise. That affects how fast the constellation grows.",
+            "5. Is your industry ready for near-free bandwidth?\n\nList three bottlenecks today that disappear with unlimited low-cost data. Then ask your team what you'd build."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX lost a booster after twenty flights.",
+            "Each new satellite carries one terabit per second.",
+            "Your low-orbit internet could double soon.",
+            "If reuse has limits, launch costs may rise.",
+            "Is your industry ready for near-free bandwidth?"
+          ]
+        },
+        "instagram": {
+          "caption": "A single V3 Starlink satellite carries more bandwidth than an entire traditional fiber cable. 🛰️\n\nSpaceX launched these new satellites but lost a booster on its 20th flight. Reusability has a hard limit, and launch costs could rise if that ceiling is real. Your low-orbit internet speed might double soon anyway. 📡\n\nFor creators, this means near-free bandwidth is close enough to plan for now.\n\nWhat would you build if data transfer cost almost nothing tomorrow? 💡"
+        }
+      },
+      "instagram_caption": "A single V3 Starlink satellite carries more bandwidth than an entire traditional fiber cable. 🛰️\n\nSpaceX launched these new satellites but lost a booster on its 20th flight. Reusability has a hard limit, and launch costs could rise if that ceiling is real. Your low-orbit internet speed might double soon anyway. 📡\n\nFor creators, this means near-free bandwidth is close enough to plan for now.\n\nWhat would you build if data transfer cost almost nothing tomorrow? 💡",
+      "carousel_slides": [
+        {
+          "hook": "Was 20 flights the limit?",
+          "description": "SpaceX lost a booster after 20 flights. If reusability has a hidden ceiling, launch costs could rise.",
+          "visual_hint": "Booster falling from sky",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "falcon 9 booster explosion"
+        },
+        {
+          "hook": "Each satellite carries 1 Tbps.",
+          "description": "That's more capacity than a traditional fiber cable. V3 satellites handle massive data loads.",
+          "visual_hint": "Satellite with data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "starlink satellite space",
+          "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your internet speed may double.",
+          "description": "Low-orbit latency beats ground fiber. With V3, throughput jumps without new infrastructure.",
+          "visual_hint": "Speed test doubling chart",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fiber optic cable",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why the booster failed matters.",
+          "description": "Reusability ceiling could raise costs and slow constellation growth. Future launches at stake.",
+          "visual_hint": "Engine failure close-up",
+          "layout_type": "human-hand",
+          "icon": "tag",
+          "image_query": "rocket engine test",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What would you build with free bandwidth?",
+          "description": "List three bottlenecks that disappear with unlimited low-cost data, then ask your team.",
+          "visual_hint": "Global connection network",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "satellite constellation earth",
+          "image": "https://images.pexels.com/photos/27773039/pexels-photo-27773039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-7.12.08-PM.png?resize=1200,1021",
+      "savedAt": "2026-07-26T18:58:24.835Z",
+      "sourceId": "f17a3aee5743170d19be3a241ad52f96"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "why-cognition-bought-poke-ai-personality-is-becomi",
       "prompt_version": "1.0.0",
       "status": "published",
