@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "techcrunch-disrupt-2026-s-new-smart-money-stage-ex",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ",
+      "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+      "pubDate": "Fri, 24 Jul 2026 22:10:00 +0000",
+      "slides": [
+        "TechCrunch Disrupt unveils a stage no one expected.",
+        "It combines fintech, payments, and AI into one track.",
+        "But startups here may disrupt each other's core business.",
+        "Your product roadmap now faces hidden category competitors.",
+        "Watch keynotes to spot your next threat before launch."
+      ],
+      "thread_text": [
+        "1. Your next competitor isn't a startup.\n\nThe TechCrunch Disrupt stage merged fintech, payments, and AI into one track. Your biggest threat now comes from a company that doesn't even share your category.",
+        "2. Hidden categories breed blind spots.\n\nStartups on that stage are set to disrupt each other's core business. The very partners you rely on may be building your replacement.",
+        "3. Mapping your roadmap against the wrong set.\n\nCategory competitors are visible. The real danger is the one that solves your customer's problem from a different angle. Your product roadmap now faces those hidden rivals.",
+        "4. Keynotes reveal the trap before launch.\n\nEvery conference has keynotes. Watch them not for inspiration but for early signals. They show how adjacent players are redefining your space.",
+        "5. Watch one keynote this week. Then ask: who wins?\n\nTake any industry event recording. Identify one speaker whose product could replace yours. Does your roadmap beat that scenario? If you haven't done this, start today."
+      ],
+      "video_script": [
+        "Your next threat isn't a direct competitor.",
+        "It's a company from a different category.",
+        "TechCrunch Disrupt merged fintech, payments, AI.",
+        "Startups now threaten each other's core business.",
+        "Watch keynotes to spot your hidden rival."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your next competitor isn't a startup.\n\nThe TechCrunch Disrupt stage merged fintech, payments, and AI into one track. Your biggest threat now comes from a company that doesn't even share your category.",
+            "2. Hidden categories breed blind spots.\n\nStartups on that stage are set to disrupt each other's core business. The very partners you rely on may be building your replacement.",
+            "3. Mapping your roadmap against the wrong set.\n\nCategory competitors are visible. The real danger is the one that solves your customer's problem from a different angle. Your product roadmap now faces those hidden rivals.",
+            "4. Keynotes reveal the trap before launch.\n\nEvery conference has keynotes. Watch them not for inspiration but for early signals. They show how adjacent players are redefining your space.",
+            "5. Watch one keynote this week. Then ask: who wins?\n\nTake any industry event recording. Identify one speaker whose product could replace yours. Does your roadmap beat that scenario? If you haven't done this, start today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your next threat isn't a direct competitor.",
+            "It's a company from a different category.",
+            "TechCrunch Disrupt merged fintech, payments, AI.",
+            "Startups now threaten each other's core business.",
+            "Watch keynotes to spot your hidden rival."
+          ]
+        },
+        "instagram": {
+          "caption": "TechCrunch Disrupt just merged fintech, payments, and AI into a single stage — meaning your next competitor won't come from your category. 🧩\n\nThe startups on that stage are set to disrupt each other's core business. Your partners could be building your replacement right now, from a different angle.\n\nYour product roadmap now faces hidden category rivals you haven't mapped yet.\n\nWatch one keynote from the event. Does that speaker’s product replace yours? If not, who will? 🎯"
+        }
+      },
+      "instagram_caption": "TechCrunch Disrupt just merged fintech, payments, and AI into a single stage — meaning your next competitor won't come from your category. 🧩\n\nThe startups on that stage are set to disrupt each other's core business. Your partners could be building your replacement right now, from a different angle.\n\nYour product roadmap now faces hidden category rivals you haven't mapped yet.\n\nWatch one keynote from the event. Does that speaker’s product replace yours? If not, who will? 🎯",
+      "carousel_slides": [
+        {
+          "hook": "Your next competitor isn't a startup.",
+          "description": "Fintech, payments, and AI merged into one track. Your biggest threat may not share your category.",
+          "visual_hint": "Abstract overlapping tech circles",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "technology conference stage"
+        },
+        {
+          "hook": "Hidden categories breed blind spots.",
+          "description": "Startups on that stage are set to disrupt each other's core business. Your partners may build your replacement.",
+          "visual_hint": "Blind spot diagram overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hidden path forest",
+          "image": "https://images.pexels.com/photos/28614289/pexels-photo-28614289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your roadmap faces hidden rivals.",
+          "description": "Category competitors are visible. The real danger solves your customer's problem from a different angle.",
+          "visual_hint": "Competitor radar screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "radar display screen",
+          "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Keynotes reveal the trap before launch.",
+          "description": "Watch keynotes not for inspiration but for early signals. Adjacent players redefine your space.",
+          "visual_hint": "Speaker on keynote stage",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "keynote speaker stage",
+          "image": "https://images.pexels.com/photos/34774347/pexels-photo-34774347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to beat hidden threats.",
+          "description": "Watch one keynote this week. Identify one speaker whose product could replace yours. Does your roadmap beat that?",
+          "visual_hint": "Calendar with alarm icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "alarm clock calendar",
+          "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+      "savedAt": "2026-07-26T22:51:52.000Z",
+      "sourceId": "edff86e8297c3c4d35ce0e9080404b1c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "i-tried-out-openai-s-new-ai-keypad-which-will-be-f",
       "prompt_version": "1.0.0",
       "status": "published",
