@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "nvidia-microsoft-launch-open-ai-security-alliance-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "pubDate": "2026-07-27T12:06:22.000Z",
+      "slides": [
+        "Nvidia and Microsoft just launched an AI security alliance.",
+        "The founding members explicitly exclude OpenAI and Google.",
+        "Why would the biggest AI builders be left out?",
+        "Your AI supply chain now has a new unknown risk.",
+        "Check which vendors are inside — or outside — this group."
+      ],
+      "thread_text": [
+        "1. They left out OpenAI.\n\nNvidia and Microsoft formed a security alliance for AI, but the two biggest builders were deliberately excluded from the founding circle.",
+        "2. What’s the missing link?\n\nWithout OpenAI and Google inside, the group’s standards won’t cover the most deployed models in production today.",
+        "3. Your stack has a blind spot.\n\nIf your vendor relies on excluded builders, their security practices are unverified by this new alliance.",
+        "4. Insider vs. outsider risk.\n\nSupply chain audits now need to check membership status — being outside the group becomes a red flag.",
+        "5. Check your vendor list today.\n\nOpen your procurement spreadsheet and see which AI vendors are inside or outside this group. Is your supply chain exposed?"
+      ],
+      "video_script": [
+        "Nvidia and Microsoft started an AI security alliance.",
+        "OpenAI and Google were deliberately left out.",
+        "Your supply chain now has an unknown risk.",
+        "Check which vendors are inside or outside.",
+        "Audit your AI tools before the next breach."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. They left out OpenAI.\n\nNvidia and Microsoft formed a security alliance for AI, but the two biggest builders were deliberately excluded from the founding circle.",
+            "2. What’s the missing link?\n\nWithout OpenAI and Google inside, the group’s standards won’t cover the most deployed models in production today.",
+            "3. Your stack has a blind spot.\n\nIf your vendor relies on excluded builders, their security practices are unverified by this new alliance.",
+            "4. Insider vs. outsider risk.\n\nSupply chain audits now need to check membership status — being outside the group becomes a red flag.",
+            "5. Check your vendor list today.\n\nOpen your procurement spreadsheet and see which AI vendors are inside or outside this group. Is your supply chain exposed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia and Microsoft started an AI security alliance.",
+            "OpenAI and Google were deliberately left out.",
+            "Your supply chain now has an unknown risk.",
+            "Check which vendors are inside or outside.",
+            "Audit your AI tools before the next breach."
+          ]
+        },
+        "instagram": {
+          "caption": "Your production AI models from OpenAI and Google just got flagged as a security blind spot.\n\nNvidia and Microsoft launched a new AI security alliance—but deliberately left OpenAI and Google out of the founding group. That means the security standards this alliance sets won’t apply to the most widely deployed models today.\n\nIf your content pipeline relies on those excluded models, their practices are now unverified by this new watchdog.\n\nOpen your vendor list. Are the models you depend on inside or outside this alliance—and is your supply chain exposed? 👀🧵"
+        }
+      },
+      "instagram_caption": "Your production AI models from OpenAI and Google just got flagged as a security blind spot.\n\nNvidia and Microsoft launched a new AI security alliance—but deliberately left OpenAI and Google out of the founding group. That means the security standards this alliance sets won’t apply to the most widely deployed models today.\n\nIf your content pipeline relies on those excluded models, their practices are now unverified by this new watchdog.\n\nOpen your vendor list. Are the models you depend on inside or outside this alliance—and is your supply chain exposed? 👀🧵",
+      "carousel_slides": [
+        {
+          "hook": "Who got left out?",
+          "description": "Nvidia and Microsoft launched an AI security alliance, deliberately excluding OpenAI and Google.",
+          "visual_hint": "Three names with X marks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "security team meeting"
+        },
+        {
+          "hook": "Missing the biggest models.",
+          "description": "Without OpenAI and Google, the alliance's standards won't cover the most deployed AI models in production.",
+          "visual_hint": "Gap in a chain link",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI stack has a blind spot.",
+          "description": "If your vendor relies on excluded builders, their security practices remain unverified by this new group.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Outsider becomes a red flag.",
+          "description": "Supply chain audits must now check membership—being outside the alliance signals unknown risk.",
+          "visual_hint": "Red flag on a checklist",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your vendor list now.",
+          "description": "Open your procurement spreadsheet and see which AI vendors are inside or outside this group.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "spreadsheet screen",
+          "visual_hint": "Spreadsheet with highlighted rows",
+          "image": "https://images.pexels.com/photos/8296982/pexels-photo-8296982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-27T14:12:38.230Z",
+      "sourceId": "40c3588f70cf4d8ace926e519833bf88"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "enigma-raises-70m-to-make-controlling-a-robot-as-e",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Can adjusting a volume knob truly control a robot?",
+        "Enigma raised $70M for a universal robotic interface.",
+        "The interface works on any robot, regardless of software.",
+        "Now you script robots via a simple dial, not code.",
+        "Test Enigma's SDK today—your first task sets the dial."
+      ],
+      "thread_text": [
+        "1. A dial for robots?\n\nEnigma raised $70M to let you control any robot with a volume knob, no code needed.",
+        "2. Universal interface\n\nThe hardware works on any robot, regardless of its operating system or software stack.",
+        "3. No programming required\n\nInstead of scripting, you twist a dial to set tasks—speed, direction, or sequence.",
+        "4. From knob to control\n\nThis turns physical interaction into robot commands, bypassing traditional programming barriers.",
+        "5. Try it yourself\n\nDownload Enigma's SDK today and complete your first task using just the dial—no coding required."
+      ],
+      "video_script": [
+        "Turn a knob to command any robot.",
+        "Enigma raised 70 million dollars.",
+        "Their interface works on every robot.",
+        "You script robots with a simple dial.",
+        "Test the Enigma SDK today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A dial for robots?\n\nEnigma raised $70M to let you control any robot with a volume knob, no code needed.",
+            "2. Universal interface\n\nThe hardware works on any robot, regardless of its operating system or software stack.",
+            "3. No programming required\n\nInstead of scripting, you twist a dial to set tasks—speed, direction, or sequence.",
+            "4. From knob to control\n\nThis turns physical interaction into robot commands, bypassing traditional programming barriers.",
+            "5. Try it yourself\n\nDownload Enigma's SDK today and complete your first task using just the dial—no coding required."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Turn a knob to command any robot.",
+            "Enigma raised 70 million dollars.",
+            "Their interface works on every robot.",
+            "You script robots with a simple dial.",
+            "Test the Enigma SDK today."
+          ]
+        },
+        "instagram": {
+          "caption": "You could soon control a robot with the same motion you use to turn up the volume on a speaker. 🎛️\n\nEnigma just raised $70 million for a universal hardware dial that works with any robot, no matter its operating system. Instead of writing code, you twist a physical knob to set the machine’s speed, direction, or sequence. 🦾\n\nFor someone who creates content or prototypes, this means programming a robot arm for a shoot or an assembly could become a two-second twist instead of a 30-minute script. 🎬\n\nWhat’s the first task you’d map to a simple dial on your gear?"
+        }
+      },
+      "instagram_caption": "You could soon control a robot with the same motion you use to turn up the volume on a speaker. 🎛️\n\nEnigma just raised $70 million for a universal hardware dial that works with any robot, no matter its operating system. Instead of writing code, you twist a physical knob to set the machine’s speed, direction, or sequence. 🦾\n\nFor someone who creates content or prototypes, this means programming a robot arm for a shoot or an assembly could become a two-second twist instead of a 30-minute script. 🎬\n\nWhat’s the first task you’d map to a simple dial on your gear?",
+      "carousel_slides": [
+        {
+          "hook": "Can a dial control any robot?",
+          "description": "Enigma raised $70M for a universal interface that works on any robot, regardless of software.",
+          "visual_hint": "Volume knob connected to a robot",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "No code needed anymore.",
+          "description": "The hardware works on any robot, bypassing operating system or software stack limitations.",
+          "visual_hint": "Knob on a robotic arm",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robotic arm",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Twist a dial to script tasks.",
+          "description": "Instead of coding, you set speed, direction, or sequence with a simple physical twist.",
+          "visual_hint": "Hand twisting a dial",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand turning knob",
+          "image": "https://images.pexels.com/photos/8132738/pexels-photo-8132738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Physical control beats programming.",
+          "description": "This turns direct touch into robot commands, removing traditional coding barriers.",
+          "visual_hint": "Human finger on dial",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try Enigma's SDK right now.",
+          "description": "Download today and complete your first robot task using just the dial—no coding.",
+          "visual_hint": "Download button on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+      "savedAt": "2026-07-27T14:12:25.453Z",
+      "sourceId": "82e3b731569ecf2e909402542fa338ec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "are-brain-waves-the-next-unlock-for-physical-ai-",
       "prompt_version": "1.0.0",
       "status": "published",

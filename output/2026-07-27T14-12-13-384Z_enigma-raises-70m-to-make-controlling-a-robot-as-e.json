@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "enigma-raises-70m-to-make-controlling-a-robot-as-e",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+  "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+  "slides": [
+    "Can adjusting a volume knob truly control a robot?",
+    "Enigma raised $70M for a universal robotic interface.",
+    "The interface works on any robot, regardless of software.",
+    "Now you script robots via a simple dial, not code.",
+    "Test Enigma's SDK today—your first task sets the dial."
+  ],
+  "thread_text": [
+    "1. A dial for robots?\n\nEnigma raised $70M to let you control any robot with a volume knob, no code needed.",
+    "2. Universal interface\n\nThe hardware works on any robot, regardless of its operating system or software stack.",
+    "3. No programming required\n\nInstead of scripting, you twist a dial to set tasks—speed, direction, or sequence.",
+    "4. From knob to control\n\nThis turns physical interaction into robot commands, bypassing traditional programming barriers.",
+    "5. Try it yourself\n\nDownload Enigma's SDK today and complete your first task using just the dial—no coding required."
+  ],
+  "video_script": [
+    "Turn a knob to command any robot.",
+    "Enigma raised 70 million dollars.",
+    "Their interface works on every robot.",
+    "You script robots with a simple dial.",
+    "Test the Enigma SDK today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A dial for robots?\n\nEnigma raised $70M to let you control any robot with a volume knob, no code needed.",
+        "2. Universal interface\n\nThe hardware works on any robot, regardless of its operating system or software stack.",
+        "3. No programming required\n\nInstead of scripting, you twist a dial to set tasks—speed, direction, or sequence.",
+        "4. From knob to control\n\nThis turns physical interaction into robot commands, bypassing traditional programming barriers.",
+        "5. Try it yourself\n\nDownload Enigma's SDK today and complete your first task using just the dial—no coding required."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Turn a knob to command any robot.",
+        "Enigma raised 70 million dollars.",
+        "Their interface works on every robot.",
+        "You script robots with a simple dial.",
+        "Test the Enigma SDK today."
+      ]
+    },
+    "instagram": {
+      "caption": "You could soon control a robot with the same motion you use to turn up the volume on a speaker. 🎛️\n\nEnigma just raised $70 million for a universal hardware dial that works with any robot, no matter its operating system. Instead of writing code, you twist a physical knob to set the machine’s speed, direction, or sequence. 🦾\n\nFor someone who creates content or prototypes, this means programming a robot arm for a shoot or an assembly could become a two-second twist instead of a 30-minute script. 🎬\n\nWhat’s the first task you’d map to a simple dial on your gear?"
+    }
+  },
+  "instagram_caption": "You could soon control a robot with the same motion you use to turn up the volume on a speaker. 🎛️\n\nEnigma just raised $70 million for a universal hardware dial that works with any robot, no matter its operating system. Instead of writing code, you twist a physical knob to set the machine’s speed, direction, or sequence. 🦾\n\nFor someone who creates content or prototypes, this means programming a robot arm for a shoot or an assembly could become a two-second twist instead of a 30-minute script. 🎬\n\nWhat’s the first task you’d map to a simple dial on your gear?",
+  "carousel_slides": [
+    {
+      "hook": "Can a dial control any robot?",
+      "description": "Enigma raised $70M for a universal interface that works on any robot, regardless of software.",
+      "visual_hint": "Volume knob connected to a robot",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "No code needed anymore.",
+      "description": "The hardware works on any robot, bypassing operating system or software stack limitations.",
+      "visual_hint": "Knob on a robotic arm",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robotic arm",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Twist a dial to script tasks.",
+      "description": "Instead of coding, you set speed, direction, or sequence with a simple physical twist.",
+      "visual_hint": "Hand twisting a dial",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand turning knob",
+      "image": "https://images.pexels.com/photos/8132738/pexels-photo-8132738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Physical control beats programming.",
+      "description": "This turns direct touch into robot commands, removing traditional coding barriers.",
+      "visual_hint": "Human finger on dial",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Enigma's SDK right now.",
+      "description": "Download today and complete your first robot task using just the dial—no coding.",
+      "visual_hint": "Download button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+  "savedAt": "2026-07-27T14:12:25.453Z",
+  "sourceId": "82e3b731569ecf2e909402542fa338ec"
+}
