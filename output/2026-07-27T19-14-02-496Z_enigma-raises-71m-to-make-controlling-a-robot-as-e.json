@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "enigma-raises-71m-to-make-controlling-a-robot-as-e",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+  "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+  "slides": [
+    "Can Enigma make robot control as simple as a dial?",
+    "It raised $71M for intuitive interfaces.",
+    "But today’s robots still need expert programmers.",
+    "You will tweak robot movements like volume knobs.",
+    "Test Enigma’s demo before competitors lock in."
+  ],
+  "thread_text": [
+    "1. A dial to control robots?\n\nEnigma raised $71M for interfaces that are intuitive — but every robot today still needs an expert programmer.",
+    "2. The gap is real.\n\nMost robotics teams spend more time coding than actually testing. That $71M is betting on removing that barrier entirely.",
+    "3. Here's the twist.\n\nEnigma's interface lets you tweak robot movements like you adjust volume — smooth, continuous, instant.",
+    "4. Why it matters now.\n\nIf Enigma's demo works at scale, the bottleneck shifts from programmers to operators. That changes who can deploy robots.",
+    "5. Try the demo this week.\n\nGo to Enigma's website and request access. If you don't, your competitors will — and they'll move faster."
+  ],
+  "video_script": [
+    "Enigma raised $71 million for robot interfaces.",
+    "Right now robots still need expert programmers.",
+    "They want to make it as simple as a dial.",
+    "You'll tweak robots like turning up volume.",
+    "Test their demo before competitors lock in."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A dial to control robots?\n\nEnigma raised $71M for interfaces that are intuitive — but every robot today still needs an expert programmer.",
+        "2. The gap is real.\n\nMost robotics teams spend more time coding than actually testing. That $71M is betting on removing that barrier entirely.",
+        "3. Here's the twist.\n\nEnigma's interface lets you tweak robot movements like you adjust volume — smooth, continuous, instant.",
+        "4. Why it matters now.\n\nIf Enigma's demo works at scale, the bottleneck shifts from programmers to operators. That changes who can deploy robots.",
+        "5. Try the demo this week.\n\nGo to Enigma's website and request access. If you don't, your competitors will — and they'll move faster."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Enigma raised $71 million for robot interfaces.",
+        "Right now robots still need expert programmers.",
+        "They want to make it as simple as a dial.",
+        "You'll tweak robots like turning up volume.",
+        "Test their demo before competitors lock in."
+      ]
+    },
+    "instagram": {
+      "caption": "You’ll soon adjust a robot’s arm movement with the same smooth dial you use to turn up a playlist.\n\nEnigma just raised $71M to make that possible. Today, most robotics teams spend more time coding than testing their robots. Enigma’s interface removes the programmer from the loop entirely 🎛️\n\nIf this works at scale, the bottleneck shifts from expert coders to operators. That means a product manager or designer could tune robot behavior directly 🧑‍🔧\n\nYour competitors are requesting access to Enigma’s demo this week. Are you?"
+    }
+  },
+  "instagram_caption": "You’ll soon adjust a robot’s arm movement with the same smooth dial you use to turn up a playlist.\n\nEnigma just raised $71M to make that possible. Today, most robotics teams spend more time coding than testing their robots. Enigma’s interface removes the programmer from the loop entirely 🎛️\n\nIf this works at scale, the bottleneck shifts from expert coders to operators. That means a product manager or designer could tune robot behavior directly 🧑‍🔧\n\nYour competitors are requesting access to Enigma’s demo this week. Are you?",
+  "carousel_slides": [
+    {
+      "hook": "Robot control like a dial?",
+      "description": "Enigma raised $71M to make robot operation as intuitive as adjusting volume. No expert programmer needed.",
+      "visual_hint": "Hand on a large dial",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot control panel"
+    },
+    {
+      "hook": "Most teams code more than test.",
+      "description": "Robotics teams waste time coding instead of testing. Enigma’s $71M bets on removing that barrier entirely.",
+      "visual_hint": "Developers around a robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot assembly",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tweak movements like volume.",
+      "description": "Enigma’s interface lets you adjust robot motions smoothly, continuously, and instantly—no programming required.",
+      "visual_hint": "Slider controls on a screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio mixer sliders",
+      "image": "https://images.pexels.com/photos/8133240/pexels-photo-8133240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who can deploy robots now?",
+      "description": "If Enigma scales, the bottleneck shifts from programmers to operators. Anyone can deploy robots.",
+      "visual_hint": "Operator holding a tablet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "worker using tablet",
+      "image": "https://images.pexels.com/photos/5355852/pexels-photo-5355852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Request the demo this week.",
+      "description": "Go to Enigma’s website and request access. Your competitors will if you don’t.",
+      "visual_hint": "Laptop with demo page open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop on desk",
+      "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+  "savedAt": "2026-07-27T19:14:39.191Z",
+  "sourceId": "82e3b731569ecf2e909402542fa338ec"
+}

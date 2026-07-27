@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "why-china-is-giving-away-its-best-ai-models",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why China is giving away its best AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "pubDate": "2026-07-27T16:51:50.000Z",
+      "slides": [
+        "Is China giving away AI to win control?",
+        "DeepSeek’s R1 matches top US models.",
+        "It’s open-source, but with hidden data risks.",
+        "Your next project may depend on unknown rules.",
+        "Audit model provenance before integrating it."
+      ],
+      "thread_text": [
+        "1. A gift with strings?\n\nChina’s DeepSeek R1 beats top US models in benchmarks, and it’s free. But the license hides clauses that can retroactively limit your use.",
+        "2. Open code, closed control\n\nThe model is open-source, but training data isn’t disclosed. Any downstream product silently inherits those unverifiable risks.",
+        "3. The hidden switch\n\nIts terms let the owner change rules after you integrate. A project you launch today could become non-compliant tomorrow.",
+        "4. Who watches the training?\n\nNo independent audit of data sources exists. Your app might rely on content collected in ways you can’t defend in court.",
+        "5. Audit before you commit\n\nRun a provenance check on any model you integrate this week. Can your legal team name every dataset the model used?"
+      ],
+      "video_script": [
+        "China gives away AI, but with hidden strings.",
+        "DeepSeek R1 matches top models yet hides data.",
+        "Your project depends on rules that can change.",
+        "No audit means unknown risks in your code.",
+        "Check provenance before you integrate any AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A gift with strings?\n\nChina’s DeepSeek R1 beats top US models in benchmarks, and it’s free. But the license hides clauses that can retroactively limit your use.",
+            "2. Open code, closed control\n\nThe model is open-source, but training data isn’t disclosed. Any downstream product silently inherits those unverifiable risks.",
+            "3. The hidden switch\n\nIts terms let the owner change rules after you integrate. A project you launch today could become non-compliant tomorrow.",
+            "4. Who watches the training?\n\nNo independent audit of data sources exists. Your app might rely on content collected in ways you can’t defend in court.",
+            "5. Audit before you commit\n\nRun a provenance check on any model you integrate this week. Can your legal team name every dataset the model used?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "China gives away AI, but with hidden strings.",
+            "DeepSeek R1 matches top models yet hides data.",
+            "Your project depends on rules that can change.",
+            "No audit means unknown risks in your code.",
+            "Check provenance before you integrate any AI."
+          ]
+        },
+        "instagram": {
+          "caption": "DeepSeek's R1 model matches top US benchmarks, but its open-source license lets the owner change rules after you've already integrated it.\n\nTraining data isn't disclosed, so any product you build on it silently inherits risks you can't verify. ⚠️\n\nA project you launch today could become non-compliant tomorrow if terms shift retroactively.\n\nFor anyone shipping a tool or workflow: can your legal team name every dataset that model used? 📋"
+        }
+      },
+      "instagram_caption": "DeepSeek's R1 model matches top US benchmarks, but its open-source license lets the owner change rules after you've already integrated it.\n\nTraining data isn't disclosed, so any product you build on it silently inherits risks you can't verify. ⚠️\n\nA project you launch today could become non-compliant tomorrow if terms shift retroactively.\n\nFor anyone shipping a tool or workflow: can your legal team name every dataset that model used? 📋",
+      "carousel_slides": [
+        {
+          "hook": "Who controls free AI?",
+          "description": "China's DeepSeek R1 beats top US models for free, but terms can retroactively limit your use.",
+          "visual_hint": "Gift box with chain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gift box chain"
+        },
+        {
+          "hook": "Open code, hidden risks",
+          "description": "Training data isn't disclosed. Any product using it silently inherits unverifiable legal risks.",
+          "visual_hint": "Code with question marks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code display",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Terms can change tomorrow",
+          "description": "The license lets owners rewrite rules after you integrate. Your project might become non-compliant overnight.",
+          "visual_hint": "Switching lever close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "toggle switch closeup",
+          "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who audited the data?",
+          "description": "No independent audit of sources exists. Your app could rely on content you can't defend in court.",
+          "visual_hint": "Magnifying glass over data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — audit before code",
+          "description": "Run a provenance check on any model you integrate. Can your legal team name every dataset used?",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.83178126478%2C100%2C78.336437470441&amp;w=1200",
+      "savedAt": "2026-07-27T19:14:50.961Z",
+      "sourceId": "c1fdca1de801e0c2747cc9d3a0228e60"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "enigma-raises-71m-to-make-controlling-a-robot-as-e",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Can Enigma make robot control as simple as a dial?",
+        "It raised $71M for intuitive interfaces.",
+        "But today’s robots still need expert programmers.",
+        "You will tweak robot movements like volume knobs.",
+        "Test Enigma’s demo before competitors lock in."
+      ],
+      "thread_text": [
+        "1. A dial to control robots?\n\nEnigma raised $71M for interfaces that are intuitive — but every robot today still needs an expert programmer.",
+        "2. The gap is real.\n\nMost robotics teams spend more time coding than actually testing. That $71M is betting on removing that barrier entirely.",
+        "3. Here's the twist.\n\nEnigma's interface lets you tweak robot movements like you adjust volume — smooth, continuous, instant.",
+        "4. Why it matters now.\n\nIf Enigma's demo works at scale, the bottleneck shifts from programmers to operators. That changes who can deploy robots.",
+        "5. Try the demo this week.\n\nGo to Enigma's website and request access. If you don't, your competitors will — and they'll move faster."
+      ],
+      "video_script": [
+        "Enigma raised $71 million for robot interfaces.",
+        "Right now robots still need expert programmers.",
+        "They want to make it as simple as a dial.",
+        "You'll tweak robots like turning up volume.",
+        "Test their demo before competitors lock in."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A dial to control robots?\n\nEnigma raised $71M for interfaces that are intuitive — but every robot today still needs an expert programmer.",
+            "2. The gap is real.\n\nMost robotics teams spend more time coding than actually testing. That $71M is betting on removing that barrier entirely.",
+            "3. Here's the twist.\n\nEnigma's interface lets you tweak robot movements like you adjust volume — smooth, continuous, instant.",
+            "4. Why it matters now.\n\nIf Enigma's demo works at scale, the bottleneck shifts from programmers to operators. That changes who can deploy robots.",
+            "5. Try the demo this week.\n\nGo to Enigma's website and request access. If you don't, your competitors will — and they'll move faster."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Enigma raised $71 million for robot interfaces.",
+            "Right now robots still need expert programmers.",
+            "They want to make it as simple as a dial.",
+            "You'll tweak robots like turning up volume.",
+            "Test their demo before competitors lock in."
+          ]
+        },
+        "instagram": {
+          "caption": "You’ll soon adjust a robot’s arm movement with the same smooth dial you use to turn up a playlist.\n\nEnigma just raised $71M to make that possible. Today, most robotics teams spend more time coding than testing their robots. Enigma’s interface removes the programmer from the loop entirely 🎛️\n\nIf this works at scale, the bottleneck shifts from expert coders to operators. That means a product manager or designer could tune robot behavior directly 🧑‍🔧\n\nYour competitors are requesting access to Enigma’s demo this week. Are you?"
+        }
+      },
+      "instagram_caption": "You’ll soon adjust a robot’s arm movement with the same smooth dial you use to turn up a playlist.\n\nEnigma just raised $71M to make that possible. Today, most robotics teams spend more time coding than testing their robots. Enigma’s interface removes the programmer from the loop entirely 🎛️\n\nIf this works at scale, the bottleneck shifts from expert coders to operators. That means a product manager or designer could tune robot behavior directly 🧑‍🔧\n\nYour competitors are requesting access to Enigma’s demo this week. Are you?",
+      "carousel_slides": [
+        {
+          "hook": "Robot control like a dial?",
+          "description": "Enigma raised $71M to make robot operation as intuitive as adjusting volume. No expert programmer needed.",
+          "visual_hint": "Hand on a large dial",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot control panel"
+        },
+        {
+          "hook": "Most teams code more than test.",
+          "description": "Robotics teams waste time coding instead of testing. Enigma’s $71M bets on removing that barrier entirely.",
+          "visual_hint": "Developers around a robot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot assembly",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tweak movements like volume.",
+          "description": "Enigma’s interface lets you adjust robot motions smoothly, continuously, and instantly—no programming required.",
+          "visual_hint": "Slider controls on a screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio mixer sliders",
+          "image": "https://images.pexels.com/photos/8133240/pexels-photo-8133240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who can deploy robots now?",
+          "description": "If Enigma scales, the bottleneck shifts from programmers to operators. Anyone can deploy robots.",
+          "visual_hint": "Operator holding a tablet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "worker using tablet",
+          "image": "https://images.pexels.com/photos/5355852/pexels-photo-5355852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Request the demo this week.",
+          "description": "Go to Enigma’s website and request access. Your competitors will if you don’t.",
+          "visual_hint": "Laptop with demo page open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop on desk",
+          "image": "https://images.pexels.com/photos/6893890/pexels-photo-6893890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+      "savedAt": "2026-07-27T19:14:39.191Z",
+      "sourceId": "82e3b731569ecf2e909402542fa338ec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "antares-raises-470m-to-build-nuclear-reactors-for-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "pubDate": "Mon, 27 Jul 2026 17:49:28 +0000",
+      "slides": [
+        "What if a startup could power a US base?",
+        "Antares just raised $470M from private backers.",
+        "Its reactors will be mobile, not just stationary.",
+        "Militaries can now deploy power to remote zones.",
+        "Test if your site could host a microreactor."
+      ],
+      "thread_text": [
+        "1. What if a startup could power a US base?\n\nAntares just raised $470M from private backers to build mobile nuclear reactors.",
+        "2. Mobility is the game-changer\n\nThese reactors aren't stuck in one place—they can be trucked to any location.",
+        "3. Militaries can now deploy power to remote zones\n\nNo need for vulnerable fuel convoys; just drop a microreactor on-site.",
+        "4. Site readiness matters\n\nBefore deployment, the ground must pass a radiological and structural test.",
+        "5. Can your site host a microreactor?\n\nLook up your local geological survey data today. If the ground is stable, that's step one."
+      ],
+      "video_script": [
+        "Imagine a startup powering a US base.",
+        "Antares raised $470 million from private backers.",
+        "Their reactors are mobile, not just stationary.",
+        "Militaries can deploy power to remote zones.",
+        "Test your site for microreactor hosting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if a startup could power a US base?\n\nAntares just raised $470M from private backers to build mobile nuclear reactors.",
+            "2. Mobility is the game-changer\n\nThese reactors aren't stuck in one place—they can be trucked to any location.",
+            "3. Militaries can now deploy power to remote zones\n\nNo need for vulnerable fuel convoys; just drop a microreactor on-site.",
+            "4. Site readiness matters\n\nBefore deployment, the ground must pass a radiological and structural test.",
+            "5. Can your site host a microreactor?\n\nLook up your local geological survey data today. If the ground is stable, that's step one."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine a startup powering a US base.",
+            "Antares raised $470 million from private backers.",
+            "Their reactors are mobile, not just stationary.",
+            "Militaries can deploy power to remote zones.",
+            "Test your site for microreactor hosting."
+          ]
+        },
+        "instagram": {
+          "caption": "A startup just raised $470 million to put nuclear reactors on trucks for the US military. ⚛️\n\nThese microreactors are designed to be mobile—trucked to any remote base instead of staying fixed in one spot. No more vulnerable fuel convoys: just drop a reactor on-site for immediate power.\n\nBefore deployment, every site must pass a radiological and structural ground test. If you manage military or remote infrastructure, that test is your new gatekeeper.\n\nCould your location pass the ground stability check today? 🚛"
+        }
+      },
+      "instagram_caption": "A startup just raised $470 million to put nuclear reactors on trucks for the US military. ⚛️\n\nThese microreactors are designed to be mobile—trucked to any remote base instead of staying fixed in one spot. No more vulnerable fuel convoys: just drop a reactor on-site for immediate power.\n\nBefore deployment, every site must pass a radiological and structural ground test. If you manage military or remote infrastructure, that test is your new gatekeeper.\n\nCould your location pass the ground stability check today? 🚛",
+      "carousel_slides": [
+        {
+          "hook": "What if a startup powers a US base?",
+          "description": "Antares raised $470M from private backers to build mobile nuclear reactors. No more vulnerable fuel convoys.",
+          "visual_hint": "Nuclear reactor on truck",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mobile nuclear reactor"
+        },
+        {
+          "hook": "Mobility is the game-changer now.",
+          "description": "These reactors can be trucked to any location. Militaries deploy power anywhere, instantly.",
+          "visual_hint": "Truck transporting reactor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "military truck reactor",
+          "image": "https://images.pexels.com/photos/33879640/pexels-photo-33879640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Remote power without fuel convoys.",
+          "description": "Just drop a microreactor on-site. No need for vulnerable supply lines in dangerous zones.",
+          "visual_hint": "Microreactor in desert base",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "remote military base",
+          "image": "https://images.pexels.com/photos/33340375/pexels-photo-33340375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your site must pass radiological tests.",
+          "description": "Before deployment, the ground must be stable. Step one: check geological survey data.",
+          "visual_hint": "Geologist testing soil",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "soil core sampling",
+          "image": "https://images.pexels.com/photos/8940348/pexels-photo-8940348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check your site today.",
+          "description": "Look up local geological survey data. If ground is stable, that's step one.",
+          "visual_hint": "Geological survey map screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "geological survey map",
+          "image": "https://images.pexels.com/photos/13279686/pexels-photo-13279686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Antares_Factory-Floor_1.jpg?resize=1200,502",
+      "savedAt": "2026-07-27T19:14:27.213Z",
+      "sourceId": "90660e4a7cff005bddcd6eb5ab0d66a8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-launches-its-first-cybersecurity-model-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+      "slides": [
+        "Microsoft's new security model: a shield or a spy?",
+        "It processes threats faster than any human team.",
+        "But the agentic system decides on its own actions.",
+        "Your security logs become its training data now.",
+        "Audit Microsoft's agentic decisions this quarter—or risk."
+      ],
+      "thread_text": [
+        "1. Shield or spy?\n\nMicrosoft's AI security system doesn't just flag threats — it acts on your network without asking you first.",
+        "2. Self-deciding agents\n\nYour security logs are now training data for an AI that chooses its own next move, not just what humans programmed.",
+        "3. Faster than human teams\n\nIt processes threats in milliseconds, but the same speed means no human pause before it executes a quarantine or a takedown.",
+        "4. Your data, its training\n\nEvery log you generate feeds the model that decides your network's fate — and you're not in the loop.",
+        "5. Audit Microsoft this quarter\n\nAsk your security team: who reviewed the agent's decisions last month? If the answer is no one, start now."
+      ],
+      "video_script": [
+        "Microsoft's new AI: shield or spy?",
+        "It acts faster than any human team.",
+        "But it decides its own moves alone.",
+        "Your security logs become its training data.",
+        "Audit its decisions now or risk it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Shield or spy?\n\nMicrosoft's AI security system doesn't just flag threats — it acts on your network without asking you first.",
+            "2. Self-deciding agents\n\nYour security logs are now training data for an AI that chooses its own next move, not just what humans programmed.",
+            "3. Faster than human teams\n\nIt processes threats in milliseconds, but the same speed means no human pause before it executes a quarantine or a takedown.",
+            "4. Your data, its training\n\nEvery log you generate feeds the model that decides your network's fate — and you're not in the loop.",
+            "5. Audit Microsoft this quarter\n\nAsk your security team: who reviewed the agent's decisions last month? If the answer is no one, start now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft's new AI: shield or spy?",
+            "It acts faster than any human team.",
+            "But it decides its own moves alone.",
+            "Your security logs become its training data.",
+            "Audit its decisions now or risk it."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft's new security AI can quarantine or shut down parts of your network on its own, without waiting for a human to review the threat first.\n\nYour security logs are now live training data for that AI, feeding its decisions in real time. ⚡ The system processes threats faster than any human team, but that speed means no pause before it takes action on your infrastructure.\n\n🔍 For anyone managing content or systems online, this means your network's fate is now partially decided by an agent you didn't explicitly program—and you're not automatically notified.\n\nAsk your security team, point-blank: did anyone audit the agent's decisions last month — or is your network currently running on autopilot?"
+        }
+      },
+      "instagram_caption": "Microsoft's new security AI can quarantine or shut down parts of your network on its own, without waiting for a human to review the threat first.\n\nYour security logs are now live training data for that AI, feeding its decisions in real time. ⚡ The system processes threats faster than any human team, but that speed means no pause before it takes action on your infrastructure.\n\n🔍 For anyone managing content or systems online, this means your network's fate is now partially decided by an agent you didn't explicitly program—and you're not automatically notified.\n\nAsk your security team, point-blank: did anyone audit the agent's decisions last month — or is your network currently running on autopilot?",
+      "carousel_slides": [
+        {
+          "hook": "Who audits the agent?",
+          "description": "Microsoft's AI security acts on your network without asking, choosing its own moves—not just human commands.",
+          "visual_hint": "silhouette observing server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room surveillance"
+        },
+        {
+          "hook": "Speed without a pause.",
+          "description": "It processes threats in milliseconds, but that speed means no human review before quarantine or takedown.",
+          "visual_hint": "clock face with fast blur",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "clock fast motion",
+          "image": "https://images.pexels.com/photos/19548530/pexels-photo-19548530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your logs fuel its brain.",
+          "description": "Every log you generate trains the AI that decides your network's fate—and you are not in the loop.",
+          "visual_hint": "data cables into neural net",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No human in the loop.",
+          "description": "The agentic system triggers its own actions autonomously, from quarantine to full takedown, without a human pause.",
+          "visual_hint": "hand hovering but not touching",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand over keyboard pause",
+          "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit Microsoft's AI now.",
+          "description": "Ask your team: who reviewed the agent's last decision? If no one, start this quarter.",
+          "visual_hint": "clipboard and magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "audit report clipboard",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
+      "savedAt": "2026-07-27T19:14:15.676Z",
+      "sourceId": "699cca776fc63b7f791d88dd20950285"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ilya-sutskever-s-safe-superintelligence-partners-w",
       "prompt_version": "1.0.0",
       "status": "published",

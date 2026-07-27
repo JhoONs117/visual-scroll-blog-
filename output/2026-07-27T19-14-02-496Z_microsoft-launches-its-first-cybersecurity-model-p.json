@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-launches-its-first-cybersecurity-model-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+  "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+  "pubDate": "Mon, 27 Jul 2026 18:32:11 +0000",
+  "slides": [
+    "Microsoft's new security model: a shield or a spy?",
+    "It processes threats faster than any human team.",
+    "But the agentic system decides on its own actions.",
+    "Your security logs become its training data now.",
+    "Audit Microsoft's agentic decisions this quarter—or risk."
+  ],
+  "thread_text": [
+    "1. Shield or spy?\n\nMicrosoft's AI security system doesn't just flag threats — it acts on your network without asking you first.",
+    "2. Self-deciding agents\n\nYour security logs are now training data for an AI that chooses its own next move, not just what humans programmed.",
+    "3. Faster than human teams\n\nIt processes threats in milliseconds, but the same speed means no human pause before it executes a quarantine or a takedown.",
+    "4. Your data, its training\n\nEvery log you generate feeds the model that decides your network's fate — and you're not in the loop.",
+    "5. Audit Microsoft this quarter\n\nAsk your security team: who reviewed the agent's decisions last month? If the answer is no one, start now."
+  ],
+  "video_script": [
+    "Microsoft's new AI: shield or spy?",
+    "It acts faster than any human team.",
+    "But it decides its own moves alone.",
+    "Your security logs become its training data.",
+    "Audit its decisions now or risk it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Shield or spy?\n\nMicrosoft's AI security system doesn't just flag threats — it acts on your network without asking you first.",
+        "2. Self-deciding agents\n\nYour security logs are now training data for an AI that chooses its own next move, not just what humans programmed.",
+        "3. Faster than human teams\n\nIt processes threats in milliseconds, but the same speed means no human pause before it executes a quarantine or a takedown.",
+        "4. Your data, its training\n\nEvery log you generate feeds the model that decides your network's fate — and you're not in the loop.",
+        "5. Audit Microsoft this quarter\n\nAsk your security team: who reviewed the agent's decisions last month? If the answer is no one, start now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft's new AI: shield or spy?",
+        "It acts faster than any human team.",
+        "But it decides its own moves alone.",
+        "Your security logs become its training data.",
+        "Audit its decisions now or risk it."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft's new security AI can quarantine or shut down parts of your network on its own, without waiting for a human to review the threat first.\n\nYour security logs are now live training data for that AI, feeding its decisions in real time. ⚡ The system processes threats faster than any human team, but that speed means no pause before it takes action on your infrastructure.\n\n🔍 For anyone managing content or systems online, this means your network's fate is now partially decided by an agent you didn't explicitly program—and you're not automatically notified.\n\nAsk your security team, point-blank: did anyone audit the agent's decisions last month — or is your network currently running on autopilot?"
+    }
+  },
+  "instagram_caption": "Microsoft's new security AI can quarantine or shut down parts of your network on its own, without waiting for a human to review the threat first.\n\nYour security logs are now live training data for that AI, feeding its decisions in real time. ⚡ The system processes threats faster than any human team, but that speed means no pause before it takes action on your infrastructure.\n\n🔍 For anyone managing content or systems online, this means your network's fate is now partially decided by an agent you didn't explicitly program—and you're not automatically notified.\n\nAsk your security team, point-blank: did anyone audit the agent's decisions last month — or is your network currently running on autopilot?",
+  "carousel_slides": [
+    {
+      "hook": "Who audits the agent?",
+      "description": "Microsoft's AI security acts on your network without asking, choosing its own moves—not just human commands.",
+      "visual_hint": "silhouette observing server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room surveillance"
+    },
+    {
+      "hook": "Speed without a pause.",
+      "description": "It processes threats in milliseconds, but that speed means no human review before quarantine or takedown.",
+      "visual_hint": "clock face with fast blur",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "clock fast motion",
+      "image": "https://images.pexels.com/photos/19548530/pexels-photo-19548530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your logs fuel its brain.",
+      "description": "Every log you generate trains the AI that decides your network's fate—and you are not in the loop.",
+      "visual_hint": "data cables into neural net",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No human in the loop.",
+      "description": "The agentic system triggers its own actions autonomously, from quarantine to full takedown, without a human pause.",
+      "visual_hint": "hand hovering but not touching",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand over keyboard pause",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit Microsoft's AI now.",
+      "description": "Ask your team: who reviewed the agent's last decision? If no one, start this quarter.",
+      "visual_hint": "clipboard and magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "audit report clipboard",
+      "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
+  "savedAt": "2026-07-27T19:14:15.676Z",
+  "sourceId": "699cca776fc63b7f791d88dd20950285"
+}

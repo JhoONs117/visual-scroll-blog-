@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-china-is-giving-away-its-best-ai-models",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why China is giving away its best AI models",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+  "pubDate": "2026-07-27T16:51:50.000Z",
+  "slides": [
+    "Is China giving away AI to win control?",
+    "DeepSeek’s R1 matches top US models.",
+    "It’s open-source, but with hidden data risks.",
+    "Your next project may depend on unknown rules.",
+    "Audit model provenance before integrating it."
+  ],
+  "thread_text": [
+    "1. A gift with strings?\n\nChina’s DeepSeek R1 beats top US models in benchmarks, and it’s free. But the license hides clauses that can retroactively limit your use.",
+    "2. Open code, closed control\n\nThe model is open-source, but training data isn’t disclosed. Any downstream product silently inherits those unverifiable risks.",
+    "3. The hidden switch\n\nIts terms let the owner change rules after you integrate. A project you launch today could become non-compliant tomorrow.",
+    "4. Who watches the training?\n\nNo independent audit of data sources exists. Your app might rely on content collected in ways you can’t defend in court.",
+    "5. Audit before you commit\n\nRun a provenance check on any model you integrate this week. Can your legal team name every dataset the model used?"
+  ],
+  "video_script": [
+    "China gives away AI, but with hidden strings.",
+    "DeepSeek R1 matches top models yet hides data.",
+    "Your project depends on rules that can change.",
+    "No audit means unknown risks in your code.",
+    "Check provenance before you integrate any AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A gift with strings?\n\nChina’s DeepSeek R1 beats top US models in benchmarks, and it’s free. But the license hides clauses that can retroactively limit your use.",
+        "2. Open code, closed control\n\nThe model is open-source, but training data isn’t disclosed. Any downstream product silently inherits those unverifiable risks.",
+        "3. The hidden switch\n\nIts terms let the owner change rules after you integrate. A project you launch today could become non-compliant tomorrow.",
+        "4. Who watches the training?\n\nNo independent audit of data sources exists. Your app might rely on content collected in ways you can’t defend in court.",
+        "5. Audit before you commit\n\nRun a provenance check on any model you integrate this week. Can your legal team name every dataset the model used?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "China gives away AI, but with hidden strings.",
+        "DeepSeek R1 matches top models yet hides data.",
+        "Your project depends on rules that can change.",
+        "No audit means unknown risks in your code.",
+        "Check provenance before you integrate any AI."
+      ]
+    },
+    "instagram": {
+      "caption": "DeepSeek's R1 model matches top US benchmarks, but its open-source license lets the owner change rules after you've already integrated it.\n\nTraining data isn't disclosed, so any product you build on it silently inherits risks you can't verify. ⚠️\n\nA project you launch today could become non-compliant tomorrow if terms shift retroactively.\n\nFor anyone shipping a tool or workflow: can your legal team name every dataset that model used? 📋"
+    }
+  },
+  "instagram_caption": "DeepSeek's R1 model matches top US benchmarks, but its open-source license lets the owner change rules after you've already integrated it.\n\nTraining data isn't disclosed, so any product you build on it silently inherits risks you can't verify. ⚠️\n\nA project you launch today could become non-compliant tomorrow if terms shift retroactively.\n\nFor anyone shipping a tool or workflow: can your legal team name every dataset that model used? 📋",
+  "carousel_slides": [
+    {
+      "hook": "Who controls free AI?",
+      "description": "China's DeepSeek R1 beats top US models for free, but terms can retroactively limit your use.",
+      "visual_hint": "Gift box with chain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gift box chain"
+    },
+    {
+      "hook": "Open code, hidden risks",
+      "description": "Training data isn't disclosed. Any product using it silently inherits unverifiable legal risks.",
+      "visual_hint": "Code with question marks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code display",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Terms can change tomorrow",
+      "description": "The license lets owners rewrite rules after you integrate. Your project might become non-compliant overnight.",
+      "visual_hint": "Switching lever close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "toggle switch closeup",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who audited the data?",
+      "description": "No independent audit of sources exists. Your app could rely on content you can't defend in court.",
+      "visual_hint": "Magnifying glass over data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — audit before code",
+      "description": "Run a provenance check on any model you integrate. Can your legal team name every dataset used?",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.83178126478%2C100%2C78.336437470441&amp;w=1200",
+  "savedAt": "2026-07-27T19:14:50.961Z",
+  "sourceId": "c1fdca1de801e0c2747cc9d3a0228e60"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "antares-raises-470m-to-build-nuclear-reactors-for-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Antares raises $470M to build nuclear reactors for the US military",
+  "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+  "pubDate": "Mon, 27 Jul 2026 17:49:28 +0000",
+  "slides": [
+    "What if a startup could power a US base?",
+    "Antares just raised $470M from private backers.",
+    "Its reactors will be mobile, not just stationary.",
+    "Militaries can now deploy power to remote zones.",
+    "Test if your site could host a microreactor."
+  ],
+  "thread_text": [
+    "1. What if a startup could power a US base?\n\nAntares just raised $470M from private backers to build mobile nuclear reactors.",
+    "2. Mobility is the game-changer\n\nThese reactors aren't stuck in one place—they can be trucked to any location.",
+    "3. Militaries can now deploy power to remote zones\n\nNo need for vulnerable fuel convoys; just drop a microreactor on-site.",
+    "4. Site readiness matters\n\nBefore deployment, the ground must pass a radiological and structural test.",
+    "5. Can your site host a microreactor?\n\nLook up your local geological survey data today. If the ground is stable, that's step one."
+  ],
+  "video_script": [
+    "Imagine a startup powering a US base.",
+    "Antares raised $470 million from private backers.",
+    "Their reactors are mobile, not just stationary.",
+    "Militaries can deploy power to remote zones.",
+    "Test your site for microreactor hosting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if a startup could power a US base?\n\nAntares just raised $470M from private backers to build mobile nuclear reactors.",
+        "2. Mobility is the game-changer\n\nThese reactors aren't stuck in one place—they can be trucked to any location.",
+        "3. Militaries can now deploy power to remote zones\n\nNo need for vulnerable fuel convoys; just drop a microreactor on-site.",
+        "4. Site readiness matters\n\nBefore deployment, the ground must pass a radiological and structural test.",
+        "5. Can your site host a microreactor?\n\nLook up your local geological survey data today. If the ground is stable, that's step one."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine a startup powering a US base.",
+        "Antares raised $470 million from private backers.",
+        "Their reactors are mobile, not just stationary.",
+        "Militaries can deploy power to remote zones.",
+        "Test your site for microreactor hosting."
+      ]
+    },
+    "instagram": {
+      "caption": "A startup just raised $470 million to put nuclear reactors on trucks for the US military. ⚛️\n\nThese microreactors are designed to be mobile—trucked to any remote base instead of staying fixed in one spot. No more vulnerable fuel convoys: just drop a reactor on-site for immediate power.\n\nBefore deployment, every site must pass a radiological and structural ground test. If you manage military or remote infrastructure, that test is your new gatekeeper.\n\nCould your location pass the ground stability check today? 🚛"
+    }
+  },
+  "instagram_caption": "A startup just raised $470 million to put nuclear reactors on trucks for the US military. ⚛️\n\nThese microreactors are designed to be mobile—trucked to any remote base instead of staying fixed in one spot. No more vulnerable fuel convoys: just drop a reactor on-site for immediate power.\n\nBefore deployment, every site must pass a radiological and structural ground test. If you manage military or remote infrastructure, that test is your new gatekeeper.\n\nCould your location pass the ground stability check today? 🚛",
+  "carousel_slides": [
+    {
+      "hook": "What if a startup powers a US base?",
+      "description": "Antares raised $470M from private backers to build mobile nuclear reactors. No more vulnerable fuel convoys.",
+      "visual_hint": "Nuclear reactor on truck",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mobile nuclear reactor"
+    },
+    {
+      "hook": "Mobility is the game-changer now.",
+      "description": "These reactors can be trucked to any location. Militaries deploy power anywhere, instantly.",
+      "visual_hint": "Truck transporting reactor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "military truck reactor",
+      "image": "https://images.pexels.com/photos/33879640/pexels-photo-33879640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Remote power without fuel convoys.",
+      "description": "Just drop a microreactor on-site. No need for vulnerable supply lines in dangerous zones.",
+      "visual_hint": "Microreactor in desert base",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "remote military base",
+      "image": "https://images.pexels.com/photos/33340375/pexels-photo-33340375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your site must pass radiological tests.",
+      "description": "Before deployment, the ground must be stable. Step one: check geological survey data.",
+      "visual_hint": "Geologist testing soil",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "soil core sampling",
+      "image": "https://images.pexels.com/photos/8940348/pexels-photo-8940348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your site today.",
+      "description": "Look up local geological survey data. If ground is stable, that's step one.",
+      "visual_hint": "Geological survey map screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "geological survey map",
+      "image": "https://images.pexels.com/photos/13279686/pexels-photo-13279686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Antares_Factory-Floor_1.jpg?resize=1200,502",
+  "savedAt": "2026-07-27T19:14:27.213Z",
+  "sourceId": "90660e4a7cff005bddcd6eb5ab0d66a8"
+}
