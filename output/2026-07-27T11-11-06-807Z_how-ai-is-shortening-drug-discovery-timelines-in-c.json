@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-ai-is-shortening-drug-discovery-timelines-in-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How AI is shortening drug discovery timelines in China",
+  "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+  "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Can AI cut China's drug discovery from years to months?",
+    "Insilico Medicine's platform found a fibrosis target in 18 months.",
+    "Traditional methods take five years for the same first step.",
+    "Your molecule library will be screened in days, not weeks.",
+    "Test one AI-predicted hit in your lab this quarter."
+  ],
+  "thread_text": [
+    "1. Cut discovery time 96%\n\nInsilico Medicine identified a fibrosis target in 18 months. Traditional methods need five years for that same first step.",
+    "2. Your library screened in days\n\nAI processes your molecule library in days. Weeks of waiting are gone.",
+    "3. One AI hit, one quarter\n\nTest a single AI-predicted hit in your lab this quarter. No more guessing.",
+    "4. From years to months\n\nThe entire drug discovery pipeline shrinks from half a decade to under two years.",
+    "5. Try it on your next target\n\nTake one undrugged protein and run it through an AI platform today. If you haven't, start there."
+  ],
+  "video_script": [
+    "AI cuts drug discovery from years to months.",
+    "Insilico found a fibrosis target in 18 months.",
+    "Traditional methods need five years for that.",
+    "Your molecule library screens in days now.",
+    "Test one AI hit in your lab this quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Cut discovery time 96%\n\nInsilico Medicine identified a fibrosis target in 18 months. Traditional methods need five years for that same first step.",
+        "2. Your library screened in days\n\nAI processes your molecule library in days. Weeks of waiting are gone.",
+        "3. One AI hit, one quarter\n\nTest a single AI-predicted hit in your lab this quarter. No more guessing.",
+        "4. From years to months\n\nThe entire drug discovery pipeline shrinks from half a decade to under two years.",
+        "5. Try it on your next target\n\nTake one undrugged protein and run it through an AI platform today. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI cuts drug discovery from years to months.",
+        "Insilico found a fibrosis target in 18 months.",
+        "Traditional methods need five years for that.",
+        "Your molecule library screens in days now.",
+        "Test one AI hit in your lab this quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "What used to take five years for the first step now takes 18 months.\n\nInsilico Medicine found a fibrosis target using AI, while traditional methods are still screening the same data. Your own molecule library can be processed in days instead of weeks.\n\nThat means you can test one AI-predicted hit in your lab this quarter.\n\nWhich undrugged protein are you running through a platform today?"
+    }
+  },
+  "instagram_caption": "What used to take five years for the first step now takes 18 months.\n\nInsilico Medicine found a fibrosis target using AI, while traditional methods are still screening the same data. Your own molecule library can be processed in days instead of weeks.\n\nThat means you can test one AI-predicted hit in your lab this quarter.\n\nWhich undrugged protein are you running through a platform today?",
+  "carousel_slides": [
+    {
+      "hook": "Cut discovery time 96%?",
+      "description": "Insilico Medicine identified a fibrosis target in 18 months, versus five years traditionally.",
+      "visual_hint": "Clock speeding up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "clock speed lines"
+    },
+    {
+      "hook": "Your library screened in days",
+      "description": "AI processes your molecule library in days, not weeks. Waiting time vanishes.",
+      "visual_hint": "Falling molecule icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "molecular structure digital",
+      "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One AI hit, one quarter",
+      "description": "Test a single AI-predicted hit in your lab this quarter. No more guessing.",
+      "visual_hint": "Lab flask with target",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laboratory beaker experiment",
+      "image": "https://images.pexels.com/photos/36417751/pexels-photo-36417751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From years to months",
+      "description": "The entire drug discovery pipeline shrinks from half a decade to under two years.",
+      "visual_hint": "Calendar pages flying",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar pages flipping",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to try AI today",
+      "description": "Take one undrugged protein and run it through an AI platform now. Start there.",
+      "visual_hint": "Finger tapping screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger touching tablet",
+      "image": "https://images.pexels.com/photos/7698885/pexels-photo-7698885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/27727844/pexels-photo-27727844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-27T11:11:20.223Z",
+  "sourceId": "7a04ab0d5258528a985e52d366c3b8c0"
+}

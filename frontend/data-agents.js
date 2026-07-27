@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "are-brain-waves-the-next-unlock-for-physical-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "pubDate": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "slides": [
+        "Could brain waves make robots move like us?",
+        "Neural signals now control prosthetic limbs directly.",
+        "But muscle-free movement is not the real breakthrough.",
+        "This lets robots learn motion from your mind.",
+        "Test a thought-controlled arm today—your brain is ready."
+      ],
+      "thread_text": [
+        "1. Mind over muscle?\n\nProsthetic limbs now decode neural signals in real time, bypassing damaged nerves entirely.",
+        "2. The real shift\n\nRobots aren't just reading your brain—they're copying motion patterns directly from your thoughts.",
+        "3. No training needed\n\nYour neural activity alone teaches the machine how to move, without a single physical gesture.",
+        "4. Why that matters\n\nThis turns every user into a motion teacher—your mind becomes a training dataset for new movements.",
+        "5. Try it now\n\nA thought-controlled arm demo is live. Can you operate a robotic hand without lifting a finger this week?"
+      ],
+      "video_script": [
+        "Brain waves can now move robots.",
+        "Prosthetics read your neural signals.",
+        "But the real leap is learning.",
+        "Your thoughts teach robots to move.",
+        "Test a mind-controlled arm today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Mind over muscle?\n\nProsthetic limbs now decode neural signals in real time, bypassing damaged nerves entirely.",
+            "2. The real shift\n\nRobots aren't just reading your brain—they're copying motion patterns directly from your thoughts.",
+            "3. No training needed\n\nYour neural activity alone teaches the machine how to move, without a single physical gesture.",
+            "4. Why that matters\n\nThis turns every user into a motion teacher—your mind becomes a training dataset for new movements.",
+            "5. Try it now\n\nA thought-controlled arm demo is live. Can you operate a robotic hand without lifting a finger this week?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Brain waves can now move robots.",
+            "Prosthetics read your neural signals.",
+            "But the real leap is learning.",
+            "Your thoughts teach robots to move.",
+            "Test a mind-controlled arm today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your brain waves can now teach a robot how to move—without you lifting a finger. 🧠\n\nProsthetics already decode neural signals in real time, skipping damaged nerves. The real leap: robots copy your motion patterns directly from thought, needing zero physical gestures.\n\nThis turns every human into a motion teacher, making your mind the training set for new robotic movements. A thought-controlled arm demo is live.\n\nCan you operate a robotic hand without a single muscle twitch this week? 🤖🖐️"
+        }
+      },
+      "instagram_caption": "Your brain waves can now teach a robot how to move—without you lifting a finger. 🧠\n\nProsthetics already decode neural signals in real time, skipping damaged nerves. The real leap: robots copy your motion patterns directly from thought, needing zero physical gestures.\n\nThis turns every human into a motion teacher, making your mind the training set for new robotic movements. A thought-controlled arm demo is live.\n\nCan you operate a robotic hand without a single muscle twitch this week? 🤖🖐️",
+      "carousel_slides": [
+        {
+          "hook": "Your brain trains robots instantly.",
+          "description": "Robots copy motion patterns directly from your thoughts, no physical gesture needed.",
+          "visual_hint": "Brain waves to robot arm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "brain scan machine"
+        },
+        {
+          "hook": "Prosthetics read neural signals.",
+          "description": "Neural signals now control prosthetic limbs in real time, bypassing damaged nerves.",
+          "visual_hint": "Neural signal flowing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "prosthetic hand",
+          "image": "https://images.pexels.com/photos/5614211/pexels-photo-5614211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No muscle movement needed.",
+          "description": "Your neural activity alone teaches the machine how to move flawlessly.",
+          "visual_hint": "User thinking with headset",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "EEG headset",
+          "image": "https://images.pexels.com/photos/7681947/pexels-photo-7681947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every user becomes a teacher.",
+          "description": "Your mind becomes a training dataset for new robot movements, accelerating AI learning.",
+          "visual_hint": "Mind controlling robot",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot arm movement",
+          "image": "https://images.pexels.com/photos/8294563/pexels-photo-8294563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test thought control this week.",
+          "description": "Try a live demo of a thought-controlled arm. Can you move it without lifting a finger?",
+          "visual_hint": "Hands-free arm demo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "gaming desk setup",
+          "image": "https://images.pexels.com/photos/31862217/pexels-photo-31862217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
+      "savedAt": "2026-07-27T11:11:33.123Z",
+      "sourceId": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-ai-is-shortening-drug-discovery-timelines-in-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How AI is shortening drug discovery timelines in China",
+      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+      "pubDate": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "Can AI cut China's drug discovery from years to months?",
+        "Insilico Medicine's platform found a fibrosis target in 18 months.",
+        "Traditional methods take five years for the same first step.",
+        "Your molecule library will be screened in days, not weeks.",
+        "Test one AI-predicted hit in your lab this quarter."
+      ],
+      "thread_text": [
+        "1. Cut discovery time 96%\n\nInsilico Medicine identified a fibrosis target in 18 months. Traditional methods need five years for that same first step.",
+        "2. Your library screened in days\n\nAI processes your molecule library in days. Weeks of waiting are gone.",
+        "3. One AI hit, one quarter\n\nTest a single AI-predicted hit in your lab this quarter. No more guessing.",
+        "4. From years to months\n\nThe entire drug discovery pipeline shrinks from half a decade to under two years.",
+        "5. Try it on your next target\n\nTake one undrugged protein and run it through an AI platform today. If you haven't, start there."
+      ],
+      "video_script": [
+        "AI cuts drug discovery from years to months.",
+        "Insilico found a fibrosis target in 18 months.",
+        "Traditional methods need five years for that.",
+        "Your molecule library screens in days now.",
+        "Test one AI hit in your lab this quarter."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Cut discovery time 96%\n\nInsilico Medicine identified a fibrosis target in 18 months. Traditional methods need five years for that same first step.",
+            "2. Your library screened in days\n\nAI processes your molecule library in days. Weeks of waiting are gone.",
+            "3. One AI hit, one quarter\n\nTest a single AI-predicted hit in your lab this quarter. No more guessing.",
+            "4. From years to months\n\nThe entire drug discovery pipeline shrinks from half a decade to under two years.",
+            "5. Try it on your next target\n\nTake one undrugged protein and run it through an AI platform today. If you haven't, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI cuts drug discovery from years to months.",
+            "Insilico found a fibrosis target in 18 months.",
+            "Traditional methods need five years for that.",
+            "Your molecule library screens in days now.",
+            "Test one AI hit in your lab this quarter."
+          ]
+        },
+        "instagram": {
+          "caption": "What used to take five years for the first step now takes 18 months.\n\nInsilico Medicine found a fibrosis target using AI, while traditional methods are still screening the same data. Your own molecule library can be processed in days instead of weeks.\n\nThat means you can test one AI-predicted hit in your lab this quarter.\n\nWhich undrugged protein are you running through a platform today?"
+        }
+      },
+      "instagram_caption": "What used to take five years for the first step now takes 18 months.\n\nInsilico Medicine found a fibrosis target using AI, while traditional methods are still screening the same data. Your own molecule library can be processed in days instead of weeks.\n\nThat means you can test one AI-predicted hit in your lab this quarter.\n\nWhich undrugged protein are you running through a platform today?",
+      "carousel_slides": [
+        {
+          "hook": "Cut discovery time 96%?",
+          "description": "Insilico Medicine identified a fibrosis target in 18 months, versus five years traditionally.",
+          "visual_hint": "Clock speeding up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "clock speed lines"
+        },
+        {
+          "hook": "Your library screened in days",
+          "description": "AI processes your molecule library in days, not weeks. Waiting time vanishes.",
+          "visual_hint": "Falling molecule icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "molecular structure digital",
+          "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One AI hit, one quarter",
+          "description": "Test a single AI-predicted hit in your lab this quarter. No more guessing.",
+          "visual_hint": "Lab flask with target",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laboratory beaker experiment",
+          "image": "https://images.pexels.com/photos/36417751/pexels-photo-36417751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From years to months",
+          "description": "The entire drug discovery pipeline shrinks from half a decade to under two years.",
+          "visual_hint": "Calendar pages flying",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calendar pages flipping",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to try AI today",
+          "description": "Take one undrugged protein and run it through an AI platform now. Start there.",
+          "visual_hint": "Finger tapping screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger touching tablet",
+          "image": "https://images.pexels.com/photos/7698885/pexels-photo-7698885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/27727844/pexels-photo-27727844.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-27T11:11:20.223Z",
+      "sourceId": "7a04ab0d5258528a985e52d366c3b8c0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "techcrunch-disrupt-2026-s-new-smart-money-stage-ex",
       "prompt_version": "1.0.0",
       "status": "published",
