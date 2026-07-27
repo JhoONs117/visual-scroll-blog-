@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-search-is-rapidly-becoming-the-default",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI search is rapidly becoming the default, new data shows",
+  "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+  "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
+  "slides": [
+    "Is Google losing the search war before you notice?",
+    "AI Overviews now appear in over 60% of queries",
+    "But they actually lower click-through rates dramatically",
+    "Your organic traffic will shrink unless you optimize for zero-click",
+    "Audit your top pages for answer triggers today"
+  ],
+  "thread_text": [
+    "1. Google is losing the war\n\nAI Overviews now appear in over 60% of queries, yet they cut click-through rates by nearly half.",
+    "2. The hidden trade-off\n\nMore answers mean fewer site visits. Brands see organic traffic drop even as search volume stays flat.",
+    "3. Zero-click is the new normal\n\nUsers get what they need without leaving Google. Old SEO tactics no longer drive visitors.",
+    "4. Your content is the trigger\n\nEvery page that answers a question can become a zero-click source. That hurts your bottom line.",
+    "5. Audit your pages today\n\nRun a simple check: which of your top posts have answer triggers? Optimize them or lose the clicks."
+  ],
+  "video_script": [
+    "Google shows AI answers on six out of ten searches.",
+    "Click-through rates drop when AI answers appear.",
+    "Your organic traffic shrinks without zero-click optimization.",
+    "Old SEO tactics no longer drive visits.",
+    "Audit your top pages for answer triggers now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google is losing the war\n\nAI Overviews now appear in over 60% of queries, yet they cut click-through rates by nearly half.",
+        "2. The hidden trade-off\n\nMore answers mean fewer site visits. Brands see organic traffic drop even as search volume stays flat.",
+        "3. Zero-click is the new normal\n\nUsers get what they need without leaving Google. Old SEO tactics no longer drive visitors.",
+        "4. Your content is the trigger\n\nEvery page that answers a question can become a zero-click source. That hurts your bottom line.",
+        "5. Audit your pages today\n\nRun a simple check: which of your top posts have answer triggers? Optimize them or lose the clicks."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google shows AI answers on six out of ten searches.",
+        "Click-through rates drop when AI answers appear.",
+        "Your organic traffic shrinks without zero-click optimization.",
+        "Old SEO tactics no longer drive visits.",
+        "Audit your top pages for answer triggers now."
+      ]
+    },
+    "instagram": {
+      "caption": "If you write for search, your traffic just got cut in half.  \nNew data shows Google’s AI Overviews now serve answers on over 60% of queries.  \nThose answers slash click-through rates dramatically more users get what they need without ever leaving Google.  \n\n📉 Your organic traffic shrinks even when search volume stays flat — because your content becomes the zero-click source.  \nEvery page that answers a simple question now feeds Google’s answer box instead of sending people to you.  \n\n🛠️ Audit your top pages today for answer triggers — questions your content answers directly.  \nWhich of your posts is already being used against you?"
+    }
+  },
+  "instagram_caption": "If you write for search, your traffic just got cut in half.  \nNew data shows Google’s AI Overviews now serve answers on over 60% of queries.  \nThose answers slash click-through rates dramatically more users get what they need without ever leaving Google.  \n\n📉 Your organic traffic shrinks even when search volume stays flat — because your content becomes the zero-click source.  \nEvery page that answers a simple question now feeds Google’s answer box instead of sending people to you.  \n\n🛠️ Audit your top pages today for answer triggers — questions your content answers directly.  \nWhich of your posts is already being used against you?",
+  "carousel_slides": [
+    {
+      "hook": "Your traffic is vanishing.",
+      "description": "AI Overviews appear in over 60% of queries, cutting click-through rates by nearly half.",
+      "visual_hint": "Bar chart dropping sharply",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Zero-click is the new normal.",
+      "description": "Users get answers without leaving Google. Brands see organic traffic drop even as search volume stays flat.",
+      "visual_hint": "User reading answer on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen search",
+      "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your content feeds AI answers.",
+      "description": "Every page that answers a question can become a zero-click source, hurting your bottom line.",
+      "visual_hint": "Magnifying glass over text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass text",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Old SEO tactics are failing.",
+      "description": "More answers mean fewer site visits. Optimize now or lose your organic traffic forever.",
+      "visual_hint": "Hand adjusting a dial",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand adjusting dial",
+      "image": "https://images.pexels.com/photos/8114301/pexels-photo-8114301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your top pages today.",
+      "description": "Check which of your top posts have answer triggers. Optimize them or lose the clicks fast.",
+      "visual_hint": "Checklist with pen on desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
+  "savedAt": "2026-07-27T17:37:06.656Z",
+  "sourceId": "9787dc63d089b7628331283f40782ae9"
+}

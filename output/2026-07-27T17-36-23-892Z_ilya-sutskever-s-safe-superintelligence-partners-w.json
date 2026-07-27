@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ilya-sutskever-s-safe-superintelligence-partners-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+  "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+  "pubDate": "Mon, 27 Jul 2026 15:01:50 +0000",
+  "slides": [
+    "Ilya Sutskever left OpenAI—now what is he building?",
+    "His new startup, Safe Superintelligence, just partnered with Nvidia.",
+    "They focus on safety, but the giant AI race shows no mercy.",
+    "Nvidia’s chips will power their experiments—who will control the results?",
+    "Watch how safety-first scaling changes the industry's next move."
+  ],
+  "thread_text": [
+    "1. Ilya's next move\n\nHe left OpenAI and immediately secured Nvidia as a partner. No startup phase—straight to hardware deals.",
+    "2. Safety first, maybe\n\nSafe Superintelligence promises safe AI, but Nvidia's chips are built for speed. Speed and caution rarely share a lab.",
+    "3. Who watches the watchers\n\nNvidia supplies the compute. Ilya's team runs the experiments. The results will stay private unless they choose otherwise.",
+    "4. Race conditions apply\n\nThe AI race isn't pausing for safety checks. If Safe Superintelligence slows down, someone else will take the lead.",
+    "5. Your turn to test\n\nTake a GPT-4 prompt on a safety-critical task—say, medical advice—and run it. Does the output make you uneasy? If yes, start logging failures."
+  ],
+  "video_script": [
+    "Ilya left OpenAI and partnered with Nvidia.",
+    "Their mission is safe superintelligence.",
+    "But safety conflicts with the AI race.",
+    "Nvidia controls the compute—who controls results?",
+    "Test safety yourself on ChatGPT today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ilya's next move\n\nHe left OpenAI and immediately secured Nvidia as a partner. No startup phase—straight to hardware deals.",
+        "2. Safety first, maybe\n\nSafe Superintelligence promises safe AI, but Nvidia's chips are built for speed. Speed and caution rarely share a lab.",
+        "3. Who watches the watchers\n\nNvidia supplies the compute. Ilya's team runs the experiments. The results will stay private unless they choose otherwise.",
+        "4. Race conditions apply\n\nThe AI race isn't pausing for safety checks. If Safe Superintelligence slows down, someone else will take the lead.",
+        "5. Your turn to test\n\nTake a GPT-4 prompt on a safety-critical task—say, medical advice—and run it. Does the output make you uneasy? If yes, start logging failures."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ilya left OpenAI and partnered with Nvidia.",
+        "Their mission is safe superintelligence.",
+        "But safety conflicts with the AI race.",
+        "Nvidia controls the compute—who controls results?",
+        "Test safety yourself on ChatGPT today."
+      ]
+    },
+    "instagram": {
+      "caption": "Ilya Sutskever left OpenAI and locked Nvidia as a partner before his safety startup even launched.\n\nTheir deal means Nvidia's chips will power experiments inside Safe Superintelligence. But those chips are built for speed, not caution. 🏎️\n\nThe results of each safety test will stay private unless they decide to share them.\n\nIf you provide medical or legal advice using an AI tool today, you have zero visibility into how safe that output actually was.\n\nWhen was the last time you logged a single failure from a model you rely on? 📝"
+    }
+  },
+  "instagram_caption": "Ilya Sutskever left OpenAI and locked Nvidia as a partner before his safety startup even launched.\n\nTheir deal means Nvidia's chips will power experiments inside Safe Superintelligence. But those chips are built for speed, not caution. 🏎️\n\nThe results of each safety test will stay private unless they decide to share them.\n\nIf you provide medical or legal advice using an AI tool today, you have zero visibility into how safe that output actually was.\n\nWhen was the last time you logged a single failure from a model you rely on? 📝",
+  "carousel_slides": [
+    {
+      "hook": "What if safety slows down?",
+      "description": "Ilya Sutskever's Safe Superintelligence just partnered with Nvidia, trading caution for speed.",
+      "visual_hint": "Nvidia logo on server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Nvidia server"
+    },
+    {
+      "hook": "Safety meets raw speed.",
+      "description": "Nvidia's chips are built for speed, but Safe Superintelligence promises safety—rare labmates.",
+      "visual_hint": "microchip closeup",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who controls the results?",
+      "description": "Nvidia supplies the compute, Ilya's team runs experiments, results stay private unless shared.",
+      "visual_hint": "private server racks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The race won't pause.",
+      "description": "If Safe Superintelligence slows for safety, someone else will rush ahead first.",
+      "visual_hint": "race track start line",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "race track",
+      "image": "https://images.pexels.com/photos/30148151/pexels-photo-30148151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI safety yourself.",
+      "description": "Run a GPT-4 prompt on medical advice. If output feels wrong, start logging failures.",
+      "visual_hint": "phone showing GPT",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+  "savedAt": "2026-07-27T17:37:19.558Z",
+  "sourceId": "255e648232d1e6e31e17647e6861c73f"
+}

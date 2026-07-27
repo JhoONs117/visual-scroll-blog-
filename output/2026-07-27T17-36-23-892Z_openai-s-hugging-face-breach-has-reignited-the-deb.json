@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-hugging-face-breach-has-reignited-the-deb",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+  "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+  "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+  "slides": [
+    "Your model's secrets may already be exposed.",
+    "Attackers copied an OpenAI employee's drive.",
+    "The breach bypassed all safety guardrails.",
+    "Your own AI now trusts untested third-party code.",
+    "Audit every dependency before deploying any model."
+  ],
+  "thread_text": [
+    "1. Your model's naked now.\n\nAttackers copied an OpenAI employee's drive — and your safety guardrails were built on that same trust.",
+    "2. The breach bypassed everything.\n\nNot just a leak — the stolen data let them impersonate the model itself. No alert fired.",
+    "3. AI trusts what you don't check.\n\nYour deployed model accepted untested third-party code. One stolen credential was enough to fool it.",
+    "4. Your dependencies are the backdoor.\n\nThat open-source library you imported yesterday? It can now whisper commands into your model's outputs.",
+    "5. Audit every dependency before deploy.\n\nPull your latest model's dependency list right now. Do you know who wrote each line?"
+  ],
+  "video_script": [
+    "Your model's secrets are already out.",
+    "A stolen drive bypassed all guardrails.",
+    "No alarm went off during the breach.",
+    "Your AI now trusts untested code.",
+    "Audit every dependency before you deploy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your model's naked now.\n\nAttackers copied an OpenAI employee's drive — and your safety guardrails were built on that same trust.",
+        "2. The breach bypassed everything.\n\nNot just a leak — the stolen data let them impersonate the model itself. No alert fired.",
+        "3. AI trusts what you don't check.\n\nYour deployed model accepted untested third-party code. One stolen credential was enough to fool it.",
+        "4. Your dependencies are the backdoor.\n\nThat open-source library you imported yesterday? It can now whisper commands into your model's outputs.",
+        "5. Audit every dependency before deploy.\n\nPull your latest model's dependency list right now. Do you know who wrote each line?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your model's secrets are already out.",
+        "A stolen drive bypassed all guardrails.",
+        "No alarm went off during the breach.",
+        "Your AI now trusts untested code.",
+        "Audit every dependency before you deploy."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone cloned an OpenAI employee’s hard drive. 🗝️\n\nThe breach didn't just leak data — it let attackers impersonate the model itself. No alerts fired. Your AI now blindly trusts unverified third-party code because that stolen credential was enough. 🕳️\n\nIf you publish or deploy models, your dependency list is the new attack surface. One imported library can now rewrite your outputs. 🔗\n\nPull your latest model's dependency list. Do you know who wrote every single line?"
+    }
+  },
+  "instagram_caption": "Someone cloned an OpenAI employee’s hard drive. 🗝️\n\nThe breach didn't just leak data — it let attackers impersonate the model itself. No alerts fired. Your AI now blindly trusts unverified third-party code because that stolen credential was enough. 🕳️\n\nIf you publish or deploy models, your dependency list is the new attack surface. One imported library can now rewrite your outputs. 🔗\n\nPull your latest model's dependency list. Do you know who wrote every single line?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI trusts strangers.",
+      "description": "Attackers copied an OpenAI employee's drive, bypassing all safety guardrails without triggering any alert.",
+      "visual_hint": "Broken server lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room breach"
+    },
+    {
+      "hook": "One credential fooled your model.",
+      "description": "Stolen data let attackers impersonate the model itself. Your deployed AI accepted untested third-party code.",
+      "visual_hint": "Key unlocking code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your library is the backdoor.",
+      "description": "That open-source library you imported yesterday can now whisper commands into your model's outputs.",
+      "visual_hint": "Hidden wire in code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "binary code screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every dependency is a risk.",
+      "description": "Pull your latest model's dependency list right now. Do you know who wrote each line of code?",
+      "visual_hint": "Magnifying glass on list",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "code review laptop",
+      "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this audit checklist now.",
+      "description": "Audit every dependency before deploying any model. Check each source and author today.",
+      "visual_hint": "Checklist on clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "developer workstation",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-27T17:36:50.144Z",
+  "sourceId": "999e3252e27a4f998d51ff8a4c1baa02"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "america-s-ai-investment-boom-is-reshaping-the-econ",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "America’s AI Investment Boom Is Reshaping the Economy",
+  "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+  "pubDate": "Mon, 27 Jul 2026 09:18:53 +0000",
+  "slides": [
+    "Which industry wins most from America's AI boom?",
+    "Data centers now consume as much power as entire cities.",
+    "But rural towns fight over hosting these billion-dollar sites.",
+    "You can invest in AI infrastructure through local utility stocks.",
+    "Map your nearest proposed data center before it's built."
+  ],
+  "thread_text": [
+    "1. Who wins most?\n\nAI boom profits aren't just for tech giants. Local utility stocks are quietly surging.",
+    "2. Cities of servers\n\nData centers burn as much power as entire towns. Rural America fights to host them.",
+    "3. Billion-dollar bait\n\nTowns compete for data center tax deals. One concrete fact: a single site can cost $1 billion.",
+    "4. Your hidden play\n\nYou can invest in AI infrastructure through local utility stocks. Check your own electric company.",
+    "5. Map it now\n\nFind the nearest proposed data center before it's built. Will one land near you?"
+  ],
+  "video_script": [
+    "Data centers now use city-sized power.",
+    "Rural towns fight to host them.",
+    "Local utility stocks are your AI play.",
+    "A single data center costs billions.",
+    "Map your nearest proposed site today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who wins most?\n\nAI boom profits aren't just for tech giants. Local utility stocks are quietly surging.",
+        "2. Cities of servers\n\nData centers burn as much power as entire towns. Rural America fights to host them.",
+        "3. Billion-dollar bait\n\nTowns compete for data center tax deals. One concrete fact: a single site can cost $1 billion.",
+        "4. Your hidden play\n\nYou can invest in AI infrastructure through local utility stocks. Check your own electric company.",
+        "5. Map it now\n\nFind the nearest proposed data center before it's built. Will one land near you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Data centers now use city-sized power.",
+        "Rural towns fight to host them.",
+        "Local utility stocks are your AI play.",
+        "A single data center costs billions.",
+        "Map your nearest proposed site today."
+      ]
+    },
+    "instagram": {
+      "caption": "A single data center now consumes as much electricity as an entire small town. ⚡\n\nRural towns are competing fiercely to host these billion-dollar AI facilities, lured by tax deals. But local utility stocks are quietly surging as the real winners in America’s AI investment boom.\n\nFor content creators: your local power company's stock performance may now be directly tied to AI construction near you.\n\nIs a data center proposed in your area yet? Check your utility’s planned projects today. 🗺️"
+    }
+  },
+  "instagram_caption": "A single data center now consumes as much electricity as an entire small town. ⚡\n\nRural towns are competing fiercely to host these billion-dollar AI facilities, lured by tax deals. But local utility stocks are quietly surging as the real winners in America’s AI investment boom.\n\nFor content creators: your local power company's stock performance may now be directly tied to AI construction near you.\n\nIs a data center proposed in your area yet? Check your utility’s planned projects today. 🗺️",
+  "carousel_slides": [
+    {
+      "hook": "Rural towns fighting for AI billions?",
+      "description": "Billion-dollar data centers are being fought over by small towns seeking tax deals and jobs.",
+      "visual_hint": "Rural landscape with construction",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rural construction site"
+    },
+    {
+      "hook": "Data centers rival entire cities.",
+      "description": "Each data center burns as much power as a town. Rural America competes to host them.",
+      "visual_hint": "Massive server room lit up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A single site costs $1 billion.",
+      "description": "Towns offer tax breaks to attract these billion-dollar AI infrastructure projects.",
+      "visual_hint": "Aerial view of industrial site",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "industrial complex drone",
+      "image": "https://images.pexels.com/photos/10396416/pexels-photo-10396416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your hidden invest in AI boom.",
+      "description": "You can profit from AI infrastructure by buying shares in your local electric utility company.",
+      "visual_hint": "Utility stock chart rising",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to find your nearest.",
+      "description": "Map the nearest proposed data center before it's built and see if one lands near you.",
+      "visual_hint": "Map pin on blue background",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "digital map location",
+      "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/26563648/pexels-photo-26563648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-27T17:36:37.379Z",
+  "sourceId": "ae81dfaed4cbcb605696c9e6af3a9740"
+}

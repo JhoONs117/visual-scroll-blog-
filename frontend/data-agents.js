@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ilya-sutskever-s-safe-superintelligence-partners-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "pubDate": "Mon, 27 Jul 2026 15:01:50 +0000",
+      "slides": [
+        "Ilya Sutskever left OpenAI—now what is he building?",
+        "His new startup, Safe Superintelligence, just partnered with Nvidia.",
+        "They focus on safety, but the giant AI race shows no mercy.",
+        "Nvidia’s chips will power their experiments—who will control the results?",
+        "Watch how safety-first scaling changes the industry's next move."
+      ],
+      "thread_text": [
+        "1. Ilya's next move\n\nHe left OpenAI and immediately secured Nvidia as a partner. No startup phase—straight to hardware deals.",
+        "2. Safety first, maybe\n\nSafe Superintelligence promises safe AI, but Nvidia's chips are built for speed. Speed and caution rarely share a lab.",
+        "3. Who watches the watchers\n\nNvidia supplies the compute. Ilya's team runs the experiments. The results will stay private unless they choose otherwise.",
+        "4. Race conditions apply\n\nThe AI race isn't pausing for safety checks. If Safe Superintelligence slows down, someone else will take the lead.",
+        "5. Your turn to test\n\nTake a GPT-4 prompt on a safety-critical task—say, medical advice—and run it. Does the output make you uneasy? If yes, start logging failures."
+      ],
+      "video_script": [
+        "Ilya left OpenAI and partnered with Nvidia.",
+        "Their mission is safe superintelligence.",
+        "But safety conflicts with the AI race.",
+        "Nvidia controls the compute—who controls results?",
+        "Test safety yourself on ChatGPT today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Ilya's next move\n\nHe left OpenAI and immediately secured Nvidia as a partner. No startup phase—straight to hardware deals.",
+            "2. Safety first, maybe\n\nSafe Superintelligence promises safe AI, but Nvidia's chips are built for speed. Speed and caution rarely share a lab.",
+            "3. Who watches the watchers\n\nNvidia supplies the compute. Ilya's team runs the experiments. The results will stay private unless they choose otherwise.",
+            "4. Race conditions apply\n\nThe AI race isn't pausing for safety checks. If Safe Superintelligence slows down, someone else will take the lead.",
+            "5. Your turn to test\n\nTake a GPT-4 prompt on a safety-critical task—say, medical advice—and run it. Does the output make you uneasy? If yes, start logging failures."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ilya left OpenAI and partnered with Nvidia.",
+            "Their mission is safe superintelligence.",
+            "But safety conflicts with the AI race.",
+            "Nvidia controls the compute—who controls results?",
+            "Test safety yourself on ChatGPT today."
+          ]
+        },
+        "instagram": {
+          "caption": "Ilya Sutskever left OpenAI and locked Nvidia as a partner before his safety startup even launched.\n\nTheir deal means Nvidia's chips will power experiments inside Safe Superintelligence. But those chips are built for speed, not caution. 🏎️\n\nThe results of each safety test will stay private unless they decide to share them.\n\nIf you provide medical or legal advice using an AI tool today, you have zero visibility into how safe that output actually was.\n\nWhen was the last time you logged a single failure from a model you rely on? 📝"
+        }
+      },
+      "instagram_caption": "Ilya Sutskever left OpenAI and locked Nvidia as a partner before his safety startup even launched.\n\nTheir deal means Nvidia's chips will power experiments inside Safe Superintelligence. But those chips are built for speed, not caution. 🏎️\n\nThe results of each safety test will stay private unless they decide to share them.\n\nIf you provide medical or legal advice using an AI tool today, you have zero visibility into how safe that output actually was.\n\nWhen was the last time you logged a single failure from a model you rely on? 📝",
+      "carousel_slides": [
+        {
+          "hook": "What if safety slows down?",
+          "description": "Ilya Sutskever's Safe Superintelligence just partnered with Nvidia, trading caution for speed.",
+          "visual_hint": "Nvidia logo on server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Nvidia server"
+        },
+        {
+          "hook": "Safety meets raw speed.",
+          "description": "Nvidia's chips are built for speed, but Safe Superintelligence promises safety—rare labmates.",
+          "visual_hint": "microchip closeup",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who controls the results?",
+          "description": "Nvidia supplies the compute, Ilya's team runs experiments, results stay private unless shared.",
+          "visual_hint": "private server racks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The race won't pause.",
+          "description": "If Safe Superintelligence slows for safety, someone else will rush ahead first.",
+          "visual_hint": "race track start line",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "race track",
+          "image": "https://images.pexels.com/photos/30148151/pexels-photo-30148151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test AI safety yourself.",
+          "description": "Run a GPT-4 prompt on medical advice. If output feels wrong, start logging failures.",
+          "visual_hint": "phone showing GPT",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+      "savedAt": "2026-07-27T17:37:19.558Z",
+      "sourceId": "255e648232d1e6e31e17647e6861c73f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-ai-search-is-rapidly-becoming-the-default",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
+      "slides": [
+        "Is Google losing the search war before you notice?",
+        "AI Overviews now appear in over 60% of queries",
+        "But they actually lower click-through rates dramatically",
+        "Your organic traffic will shrink unless you optimize for zero-click",
+        "Audit your top pages for answer triggers today"
+      ],
+      "thread_text": [
+        "1. Google is losing the war\n\nAI Overviews now appear in over 60% of queries, yet they cut click-through rates by nearly half.",
+        "2. The hidden trade-off\n\nMore answers mean fewer site visits. Brands see organic traffic drop even as search volume stays flat.",
+        "3. Zero-click is the new normal\n\nUsers get what they need without leaving Google. Old SEO tactics no longer drive visitors.",
+        "4. Your content is the trigger\n\nEvery page that answers a question can become a zero-click source. That hurts your bottom line.",
+        "5. Audit your pages today\n\nRun a simple check: which of your top posts have answer triggers? Optimize them or lose the clicks."
+      ],
+      "video_script": [
+        "Google shows AI answers on six out of ten searches.",
+        "Click-through rates drop when AI answers appear.",
+        "Your organic traffic shrinks without zero-click optimization.",
+        "Old SEO tactics no longer drive visits.",
+        "Audit your top pages for answer triggers now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google is losing the war\n\nAI Overviews now appear in over 60% of queries, yet they cut click-through rates by nearly half.",
+            "2. The hidden trade-off\n\nMore answers mean fewer site visits. Brands see organic traffic drop even as search volume stays flat.",
+            "3. Zero-click is the new normal\n\nUsers get what they need without leaving Google. Old SEO tactics no longer drive visitors.",
+            "4. Your content is the trigger\n\nEvery page that answers a question can become a zero-click source. That hurts your bottom line.",
+            "5. Audit your pages today\n\nRun a simple check: which of your top posts have answer triggers? Optimize them or lose the clicks."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google shows AI answers on six out of ten searches.",
+            "Click-through rates drop when AI answers appear.",
+            "Your organic traffic shrinks without zero-click optimization.",
+            "Old SEO tactics no longer drive visits.",
+            "Audit your top pages for answer triggers now."
+          ]
+        },
+        "instagram": {
+          "caption": "If you write for search, your traffic just got cut in half.  \nNew data shows Google’s AI Overviews now serve answers on over 60% of queries.  \nThose answers slash click-through rates dramatically more users get what they need without ever leaving Google.  \n\n📉 Your organic traffic shrinks even when search volume stays flat — because your content becomes the zero-click source.  \nEvery page that answers a simple question now feeds Google’s answer box instead of sending people to you.  \n\n🛠️ Audit your top pages today for answer triggers — questions your content answers directly.  \nWhich of your posts is already being used against you?"
+        }
+      },
+      "instagram_caption": "If you write for search, your traffic just got cut in half.  \nNew data shows Google’s AI Overviews now serve answers on over 60% of queries.  \nThose answers slash click-through rates dramatically more users get what they need without ever leaving Google.  \n\n📉 Your organic traffic shrinks even when search volume stays flat — because your content becomes the zero-click source.  \nEvery page that answers a simple question now feeds Google’s answer box instead of sending people to you.  \n\n🛠️ Audit your top pages today for answer triggers — questions your content answers directly.  \nWhich of your posts is already being used against you?",
+      "carousel_slides": [
+        {
+          "hook": "Your traffic is vanishing.",
+          "description": "AI Overviews appear in over 60% of queries, cutting click-through rates by nearly half.",
+          "visual_hint": "Bar chart dropping sharply",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Zero-click is the new normal.",
+          "description": "Users get answers without leaving Google. Brands see organic traffic drop even as search volume stays flat.",
+          "visual_hint": "User reading answer on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen search",
+          "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your content feeds AI answers.",
+          "description": "Every page that answers a question can become a zero-click source, hurting your bottom line.",
+          "visual_hint": "Magnifying glass over text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass text",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Old SEO tactics are failing.",
+          "description": "More answers mean fewer site visits. Optimize now or lose your organic traffic forever.",
+          "visual_hint": "Hand adjusting a dial",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand adjusting dial",
+          "image": "https://images.pexels.com/photos/8114301/pexels-photo-8114301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your top pages today.",
+          "description": "Check which of your top posts have answer triggers. Optimize them or lose the clicks fast.",
+          "visual_hint": "Checklist with pen on desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
+      "savedAt": "2026-07-27T17:37:06.656Z",
+      "sourceId": "9787dc63d089b7628331283f40782ae9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-hugging-face-breach-has-reignited-the-deb",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "slides": [
+        "Your model's secrets may already be exposed.",
+        "Attackers copied an OpenAI employee's drive.",
+        "The breach bypassed all safety guardrails.",
+        "Your own AI now trusts untested third-party code.",
+        "Audit every dependency before deploying any model."
+      ],
+      "thread_text": [
+        "1. Your model's naked now.\n\nAttackers copied an OpenAI employee's drive — and your safety guardrails were built on that same trust.",
+        "2. The breach bypassed everything.\n\nNot just a leak — the stolen data let them impersonate the model itself. No alert fired.",
+        "3. AI trusts what you don't check.\n\nYour deployed model accepted untested third-party code. One stolen credential was enough to fool it.",
+        "4. Your dependencies are the backdoor.\n\nThat open-source library you imported yesterday? It can now whisper commands into your model's outputs.",
+        "5. Audit every dependency before deploy.\n\nPull your latest model's dependency list right now. Do you know who wrote each line?"
+      ],
+      "video_script": [
+        "Your model's secrets are already out.",
+        "A stolen drive bypassed all guardrails.",
+        "No alarm went off during the breach.",
+        "Your AI now trusts untested code.",
+        "Audit every dependency before you deploy."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your model's naked now.\n\nAttackers copied an OpenAI employee's drive — and your safety guardrails were built on that same trust.",
+            "2. The breach bypassed everything.\n\nNot just a leak — the stolen data let them impersonate the model itself. No alert fired.",
+            "3. AI trusts what you don't check.\n\nYour deployed model accepted untested third-party code. One stolen credential was enough to fool it.",
+            "4. Your dependencies are the backdoor.\n\nThat open-source library you imported yesterday? It can now whisper commands into your model's outputs.",
+            "5. Audit every dependency before deploy.\n\nPull your latest model's dependency list right now. Do you know who wrote each line?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your model's secrets are already out.",
+            "A stolen drive bypassed all guardrails.",
+            "No alarm went off during the breach.",
+            "Your AI now trusts untested code.",
+            "Audit every dependency before you deploy."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone cloned an OpenAI employee’s hard drive. 🗝️\n\nThe breach didn't just leak data — it let attackers impersonate the model itself. No alerts fired. Your AI now blindly trusts unverified third-party code because that stolen credential was enough. 🕳️\n\nIf you publish or deploy models, your dependency list is the new attack surface. One imported library can now rewrite your outputs. 🔗\n\nPull your latest model's dependency list. Do you know who wrote every single line?"
+        }
+      },
+      "instagram_caption": "Someone cloned an OpenAI employee’s hard drive. 🗝️\n\nThe breach didn't just leak data — it let attackers impersonate the model itself. No alerts fired. Your AI now blindly trusts unverified third-party code because that stolen credential was enough. 🕳️\n\nIf you publish or deploy models, your dependency list is the new attack surface. One imported library can now rewrite your outputs. 🔗\n\nPull your latest model's dependency list. Do you know who wrote every single line?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI trusts strangers.",
+          "description": "Attackers copied an OpenAI employee's drive, bypassing all safety guardrails without triggering any alert.",
+          "visual_hint": "Broken server lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room breach"
+        },
+        {
+          "hook": "One credential fooled your model.",
+          "description": "Stolen data let attackers impersonate the model itself. Your deployed AI accepted untested third-party code.",
+          "visual_hint": "Key unlocking code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your library is the backdoor.",
+          "description": "That open-source library you imported yesterday can now whisper commands into your model's outputs.",
+          "visual_hint": "Hidden wire in code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "binary code screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every dependency is a risk.",
+          "description": "Pull your latest model's dependency list right now. Do you know who wrote each line of code?",
+          "visual_hint": "Magnifying glass on list",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "code review laptop",
+          "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this audit checklist now.",
+          "description": "Audit every dependency before deploying any model. Check each source and author today.",
+          "visual_hint": "Checklist on clipboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "developer workstation",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-27T17:36:50.144Z",
+      "sourceId": "999e3252e27a4f998d51ff8a4c1baa02"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "america-s-ai-investment-boom-is-reshaping-the-econ",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "America’s AI Investment Boom Is Reshaping the Economy",
+      "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+      "pubDate": "Mon, 27 Jul 2026 09:18:53 +0000",
+      "slides": [
+        "Which industry wins most from America's AI boom?",
+        "Data centers now consume as much power as entire cities.",
+        "But rural towns fight over hosting these billion-dollar sites.",
+        "You can invest in AI infrastructure through local utility stocks.",
+        "Map your nearest proposed data center before it's built."
+      ],
+      "thread_text": [
+        "1. Who wins most?\n\nAI boom profits aren't just for tech giants. Local utility stocks are quietly surging.",
+        "2. Cities of servers\n\nData centers burn as much power as entire towns. Rural America fights to host them.",
+        "3. Billion-dollar bait\n\nTowns compete for data center tax deals. One concrete fact: a single site can cost $1 billion.",
+        "4. Your hidden play\n\nYou can invest in AI infrastructure through local utility stocks. Check your own electric company.",
+        "5. Map it now\n\nFind the nearest proposed data center before it's built. Will one land near you?"
+      ],
+      "video_script": [
+        "Data centers now use city-sized power.",
+        "Rural towns fight to host them.",
+        "Local utility stocks are your AI play.",
+        "A single data center costs billions.",
+        "Map your nearest proposed site today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who wins most?\n\nAI boom profits aren't just for tech giants. Local utility stocks are quietly surging.",
+            "2. Cities of servers\n\nData centers burn as much power as entire towns. Rural America fights to host them.",
+            "3. Billion-dollar bait\n\nTowns compete for data center tax deals. One concrete fact: a single site can cost $1 billion.",
+            "4. Your hidden play\n\nYou can invest in AI infrastructure through local utility stocks. Check your own electric company.",
+            "5. Map it now\n\nFind the nearest proposed data center before it's built. Will one land near you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Data centers now use city-sized power.",
+            "Rural towns fight to host them.",
+            "Local utility stocks are your AI play.",
+            "A single data center costs billions.",
+            "Map your nearest proposed site today."
+          ]
+        },
+        "instagram": {
+          "caption": "A single data center now consumes as much electricity as an entire small town. ⚡\n\nRural towns are competing fiercely to host these billion-dollar AI facilities, lured by tax deals. But local utility stocks are quietly surging as the real winners in America’s AI investment boom.\n\nFor content creators: your local power company's stock performance may now be directly tied to AI construction near you.\n\nIs a data center proposed in your area yet? Check your utility’s planned projects today. 🗺️"
+        }
+      },
+      "instagram_caption": "A single data center now consumes as much electricity as an entire small town. ⚡\n\nRural towns are competing fiercely to host these billion-dollar AI facilities, lured by tax deals. But local utility stocks are quietly surging as the real winners in America’s AI investment boom.\n\nFor content creators: your local power company's stock performance may now be directly tied to AI construction near you.\n\nIs a data center proposed in your area yet? Check your utility’s planned projects today. 🗺️",
+      "carousel_slides": [
+        {
+          "hook": "Rural towns fighting for AI billions?",
+          "description": "Billion-dollar data centers are being fought over by small towns seeking tax deals and jobs.",
+          "visual_hint": "Rural landscape with construction",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rural construction site"
+        },
+        {
+          "hook": "Data centers rival entire cities.",
+          "description": "Each data center burns as much power as a town. Rural America competes to host them.",
+          "visual_hint": "Massive server room lit up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A single site costs $1 billion.",
+          "description": "Towns offer tax breaks to attract these billion-dollar AI infrastructure projects.",
+          "visual_hint": "Aerial view of industrial site",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "industrial complex drone",
+          "image": "https://images.pexels.com/photos/10396416/pexels-photo-10396416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your hidden invest in AI boom.",
+          "description": "You can profit from AI infrastructure by buying shares in your local electric utility company.",
+          "visual_hint": "Utility stock chart rising",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to find your nearest.",
+          "description": "Map the nearest proposed data center before it's built and see if one lands near you.",
+          "visual_hint": "Map pin on blue background",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "digital map location",
+          "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/26563648/pexels-photo-26563648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-27T17:36:37.379Z",
+      "sourceId": "ae81dfaed4cbcb605696c9e6af3a9740"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "nvidia-microsoft-launch-open-ai-security-alliance-",
       "prompt_version": "1.0.0",
       "status": "published",
