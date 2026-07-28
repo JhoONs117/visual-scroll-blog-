@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-s-finally-expensive-enough-to-make-wall-street-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI’s finally expensive enough to make Wall Street nervous",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+  "pubDate": "2026-07-28T19:33:03.000Z",
+  "slides": [
+    "Why would expensive AI terrify Wall Street insiders?",
+    "AI training costs have surged past $1 billion per model.",
+    "Revenue growth is now lagging behind these massive costs.",
+    "Your portfolio may rely on AI stocks with hidden risks.",
+    "Check your holdings: are they priced for infinite growth?"
+  ],
+  "thread_text": [
+    "1. The $1 billion gamble\n\nTraining a single AI model now costs over a billion dollars, yet revenue isn't keeping pace.",
+    "2. Costs exploded overnight\n\nA year ago, the same model cost a fraction of that. Wall Street is starting to sweat.",
+    "3. Revenue is the problem\n\nCompanies are spending more than they earn on AI. Growth is stalling while bills mount.",
+    "4. Hidden risks in your portfolio\n\nAI stocks may look hot, but these costs are invisible to most investors until too late.",
+    "5. Check your holdings now\n\nAre your AI stocks priced for infinite growth? Log into your brokerage and audit the P/E ratios today."
+  ],
+  "video_script": [
+    "AI training now costs over a billion.",
+    "Revenue lags behind these massive costs.",
+    "Wall Street insiders are terrified.",
+    "Your portfolio may hide big risks.",
+    "Check if your stocks price infinite growth."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $1 billion gamble\n\nTraining a single AI model now costs over a billion dollars, yet revenue isn't keeping pace.",
+        "2. Costs exploded overnight\n\nA year ago, the same model cost a fraction of that. Wall Street is starting to sweat.",
+        "3. Revenue is the problem\n\nCompanies are spending more than they earn on AI. Growth is stalling while bills mount.",
+        "4. Hidden risks in your portfolio\n\nAI stocks may look hot, but these costs are invisible to most investors until too late.",
+        "5. Check your holdings now\n\nAre your AI stocks priced for infinite growth? Log into your brokerage and audit the P/E ratios today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI training now costs over a billion.",
+        "Revenue lags behind these massive costs.",
+        "Wall Street insiders are terrified.",
+        "Your portfolio may hide big risks.",
+        "Check if your stocks price infinite growth."
+      ]
+    },
+    "instagram": {
+      "caption": "Training a single AI model now costs over $1 billion—and revenue isn't keeping pace. 💸\n\nA year ago, the same model was a fraction of that cost. Now Wall Street is sweating as spending outpaces earnings.  \n\nThose hot AI stocks in your portfolio may carry hidden risks—priced for infinite growth, but burning cash like never before. 🔍\n\nIf you create content using AI tools, expect price hikes or service cuts as companies scramble to cover costs.  \n\nLog into your brokerage today: check the P/E ratios on your AI holdings. Are they priced for runaway growth—or reality? 📉"
+    }
+  },
+  "instagram_caption": "Training a single AI model now costs over $1 billion—and revenue isn't keeping pace. 💸\n\nA year ago, the same model was a fraction of that cost. Now Wall Street is sweating as spending outpaces earnings.  \n\nThose hot AI stocks in your portfolio may carry hidden risks—priced for infinite growth, but burning cash like never before. 🔍\n\nIf you create content using AI tools, expect price hikes or service cuts as companies scramble to cover costs.  \n\nLog into your brokerage today: check the P/E ratios on your AI holdings. Are they priced for runaway growth—or reality? 📉",
+  "carousel_slides": [
+    {
+      "hook": "Revenue lags behind $1B models",
+      "description": "Training a single AI model now costs over a billion dollars, but revenue isn't keeping pace.",
+      "visual_hint": "bar chart gap",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bar chart financial"
+    },
+    {
+      "hook": "Costs exploded in just one year",
+      "description": "A year ago, the same model cost a fraction. Wall Street is starting to sweat.",
+      "visual_hint": "rocket graph up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spending more than they earn",
+      "description": "Companies are spending more on AI than they earn. Growth is stalling while bills mount.",
+      "visual_hint": "coins stack shrinking",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden risks in your portfolio",
+      "description": "These massive costs are invisible to most investors until too late. Check now.",
+      "visual_hint": "magnifying glass stocks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI stocks now",
+      "description": "Log into your brokerage and audit the P/E ratios of your AI holdings today.",
+      "visual_hint": "phone brokerage app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-28T21:00:05.104Z",
+  "sourceId": "24bcc75f19086bf9073fbf6cb82aba01"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-s-finally-expensive-enough-to-make-wall-street-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "pubDate": "2026-07-28T19:33:03.000Z",
+      "slides": [
+        "Why would expensive AI terrify Wall Street insiders?",
+        "AI training costs have surged past $1 billion per model.",
+        "Revenue growth is now lagging behind these massive costs.",
+        "Your portfolio may rely on AI stocks with hidden risks.",
+        "Check your holdings: are they priced for infinite growth?"
+      ],
+      "thread_text": [
+        "1. The $1 billion gamble\n\nTraining a single AI model now costs over a billion dollars, yet revenue isn't keeping pace.",
+        "2. Costs exploded overnight\n\nA year ago, the same model cost a fraction of that. Wall Street is starting to sweat.",
+        "3. Revenue is the problem\n\nCompanies are spending more than they earn on AI. Growth is stalling while bills mount.",
+        "4. Hidden risks in your portfolio\n\nAI stocks may look hot, but these costs are invisible to most investors until too late.",
+        "5. Check your holdings now\n\nAre your AI stocks priced for infinite growth? Log into your brokerage and audit the P/E ratios today."
+      ],
+      "video_script": [
+        "AI training now costs over a billion.",
+        "Revenue lags behind these massive costs.",
+        "Wall Street insiders are terrified.",
+        "Your portfolio may hide big risks.",
+        "Check if your stocks price infinite growth."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1 billion gamble\n\nTraining a single AI model now costs over a billion dollars, yet revenue isn't keeping pace.",
+            "2. Costs exploded overnight\n\nA year ago, the same model cost a fraction of that. Wall Street is starting to sweat.",
+            "3. Revenue is the problem\n\nCompanies are spending more than they earn on AI. Growth is stalling while bills mount.",
+            "4. Hidden risks in your portfolio\n\nAI stocks may look hot, but these costs are invisible to most investors until too late.",
+            "5. Check your holdings now\n\nAre your AI stocks priced for infinite growth? Log into your brokerage and audit the P/E ratios today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI training now costs over a billion.",
+            "Revenue lags behind these massive costs.",
+            "Wall Street insiders are terrified.",
+            "Your portfolio may hide big risks.",
+            "Check if your stocks price infinite growth."
+          ]
+        },
+        "instagram": {
+          "caption": "Training a single AI model now costs over $1 billion—and revenue isn't keeping pace. 💸\n\nA year ago, the same model was a fraction of that cost. Now Wall Street is sweating as spending outpaces earnings.  \n\nThose hot AI stocks in your portfolio may carry hidden risks—priced for infinite growth, but burning cash like never before. 🔍\n\nIf you create content using AI tools, expect price hikes or service cuts as companies scramble to cover costs.  \n\nLog into your brokerage today: check the P/E ratios on your AI holdings. Are they priced for runaway growth—or reality? 📉"
+        }
+      },
+      "instagram_caption": "Training a single AI model now costs over $1 billion—and revenue isn't keeping pace. 💸\n\nA year ago, the same model was a fraction of that cost. Now Wall Street is sweating as spending outpaces earnings.  \n\nThose hot AI stocks in your portfolio may carry hidden risks—priced for infinite growth, but burning cash like never before. 🔍\n\nIf you create content using AI tools, expect price hikes or service cuts as companies scramble to cover costs.  \n\nLog into your brokerage today: check the P/E ratios on your AI holdings. Are they priced for runaway growth—or reality? 📉",
+      "carousel_slides": [
+        {
+          "hook": "Revenue lags behind $1B models",
+          "description": "Training a single AI model now costs over a billion dollars, but revenue isn't keeping pace.",
+          "visual_hint": "bar chart gap",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bar chart financial"
+        },
+        {
+          "hook": "Costs exploded in just one year",
+          "description": "A year ago, the same model cost a fraction. Wall Street is starting to sweat.",
+          "visual_hint": "rocket graph up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Spending more than they earn",
+          "description": "Companies are spending more on AI than they earn. Growth is stalling while bills mount.",
+          "visual_hint": "coins stack shrinking",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden risks in your portfolio",
+          "description": "These massive costs are invisible to most investors until too late. Check now.",
+          "visual_hint": "magnifying glass stocks",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI stocks now",
+          "description": "Log into your brokerage and audit the P/E ratios of your AI holdings today.",
+          "visual_hint": "phone brokerage app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-28T21:00:05.104Z",
+      "sourceId": "24bcc75f19086bf9073fbf6cb82aba01"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "these-app-store-hidden-gems-prove-there-s-still-ro",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "pubDate": "Tue, 28 Jul 2026 18:16:39 +0000",
+      "slides": [
+        "What if the best apps are the ones you never see?",
+        "App Store rankings now bury human-designed tools.",
+        "These 3 indie apps quietly outperform AI alternatives daily.",
+        "Your next favorite utility is hiding two scrolls deep.",
+        "Uninstall one auto-suggestion app and find a gem instead."
+      ],
+      "thread_text": [
+        "What if apps vanish?\n\nApp Store rankings now put AI tools first — human-designed apps are being buried three pages deep.",
+        "3 indie apps win daily.\n\nNo AI features, no subscriptions — just faster, simpler tools people actually keep open.",
+        "Your next gem is hidden.\n\nTwo scrolls past the charts, a utility app is outperforming auto-suggestion by 40% in real tests.",
+        "Uninstall one auto-app.\n\nDelete the suggestion tool you use most — replace it with a human-built alternative you've never heard of.",
+        "Check your screen time.\n\nWhich auto-suggestion app have you kept for months? Uninstall it today and find one hidden two scrolls deep."
+      ],
+      "video_script": [
+        "Best apps you never see?",
+        "AI tools bury human designs.",
+        "Three indie apps outperform daily.",
+        "Your next app is hidden.",
+        "Uninstall one auto-suggestion now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "What if apps vanish?\n\nApp Store rankings now put AI tools first — human-designed apps are being buried three pages deep.",
+            "3 indie apps win daily.\n\nNo AI features, no subscriptions — just faster, simpler tools people actually keep open.",
+            "Your next gem is hidden.\n\nTwo scrolls past the charts, a utility app is outperforming auto-suggestion by 40% in real tests.",
+            "Uninstall one auto-app.\n\nDelete the suggestion tool you use most — replace it with a human-built alternative you've never heard of.",
+            "Check your screen time.\n\nWhich auto-suggestion app have you kept for months? Uninstall it today and find one hidden two scrolls deep."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Best apps you never see?",
+            "AI tools bury human designs.",
+            "Three indie apps outperform daily.",
+            "Your next app is hidden.",
+            "Uninstall one auto-suggestion now."
+          ]
+        },
+        "instagram": {
+          "caption": "Three indie apps are outperforming AI alternatives by 40% in real tests, with no subscriptions or auto-suggestions.\n\nApple's App Store rankings now bury human-designed tools three pages deep, prioritizing AI features over utility.\n\nIf you create or publish anything, your next favorite tool is hiding two scrolls past the charts—uninstall one auto-suggestion app and replace it.\n\nWhat’s the one auto-app you can finally delete today to find a human-built gem? ⚡📱🔍"
+        }
+      },
+      "instagram_caption": "Three indie apps are outperforming AI alternatives by 40% in real tests, with no subscriptions or auto-suggestions.\n\nApple's App Store rankings now bury human-designed tools three pages deep, prioritizing AI features over utility.\n\nIf you create or publish anything, your next favorite tool is hiding two scrolls past the charts—uninstall one auto-suggestion app and replace it.\n\nWhat’s the one auto-app you can finally delete today to find a human-built gem? ⚡📱🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your best app is invisible.",
+          "description": "App Store rankings now bury human-designed tools three pages deep, prioritizing AI suggestions instead.",
+          "visual_hint": "App store chart buried",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "app store rankings"
+        },
+        {
+          "hook": "These apps beat AI daily.",
+          "description": "Three indie tools with no AI or subscriptions outperform auto-suggestion apps by 40% in real tests.",
+          "visual_hint": "Three simple icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "minimalist app icons",
+          "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scroll two pages deeper.",
+          "description": "A hidden utility app is outperforming the top suggestion tool by 40% in daily user tests.",
+          "visual_hint": "Finger scrolling down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "finger scrolling phone",
+          "image": "https://images.pexels.com/photos/7971545/pexels-photo-7971545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Uninstall one auto-app now.",
+          "description": "Delete the suggestion tool you use most—replace it with a human-built alternative hidden two scrolls deep.",
+          "visual_hint": "Deleting app icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand deleting app",
+          "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this list of gems.",
+          "description": "Check your screen time, delete the auto-app you kept for months, and find a better tool today.",
+          "visual_hint": "Link in bio button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "link in bio button",
+          "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+      "savedAt": "2026-07-28T20:59:54.020Z",
+      "sourceId": "b14aa7f4ca7829912a119a947a6570d7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "waymo-robotaxi-operators-face-fresh-scrutiny-over-",
       "prompt_version": "1.0.0",
       "status": "published",

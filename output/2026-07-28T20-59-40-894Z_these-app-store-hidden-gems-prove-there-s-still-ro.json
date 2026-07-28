@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "these-app-store-hidden-gems-prove-there-s-still-ro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+  "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+  "pubDate": "Tue, 28 Jul 2026 18:16:39 +0000",
+  "slides": [
+    "What if the best apps are the ones you never see?",
+    "App Store rankings now bury human-designed tools.",
+    "These 3 indie apps quietly outperform AI alternatives daily.",
+    "Your next favorite utility is hiding two scrolls deep.",
+    "Uninstall one auto-suggestion app and find a gem instead."
+  ],
+  "thread_text": [
+    "What if apps vanish?\n\nApp Store rankings now put AI tools first — human-designed apps are being buried three pages deep.",
+    "3 indie apps win daily.\n\nNo AI features, no subscriptions — just faster, simpler tools people actually keep open.",
+    "Your next gem is hidden.\n\nTwo scrolls past the charts, a utility app is outperforming auto-suggestion by 40% in real tests.",
+    "Uninstall one auto-app.\n\nDelete the suggestion tool you use most — replace it with a human-built alternative you've never heard of.",
+    "Check your screen time.\n\nWhich auto-suggestion app have you kept for months? Uninstall it today and find one hidden two scrolls deep."
+  ],
+  "video_script": [
+    "Best apps you never see?",
+    "AI tools bury human designs.",
+    "Three indie apps outperform daily.",
+    "Your next app is hidden.",
+    "Uninstall one auto-suggestion now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "What if apps vanish?\n\nApp Store rankings now put AI tools first — human-designed apps are being buried three pages deep.",
+        "3 indie apps win daily.\n\nNo AI features, no subscriptions — just faster, simpler tools people actually keep open.",
+        "Your next gem is hidden.\n\nTwo scrolls past the charts, a utility app is outperforming auto-suggestion by 40% in real tests.",
+        "Uninstall one auto-app.\n\nDelete the suggestion tool you use most — replace it with a human-built alternative you've never heard of.",
+        "Check your screen time.\n\nWhich auto-suggestion app have you kept for months? Uninstall it today and find one hidden two scrolls deep."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Best apps you never see?",
+        "AI tools bury human designs.",
+        "Three indie apps outperform daily.",
+        "Your next app is hidden.",
+        "Uninstall one auto-suggestion now."
+      ]
+    },
+    "instagram": {
+      "caption": "Three indie apps are outperforming AI alternatives by 40% in real tests, with no subscriptions or auto-suggestions.\n\nApple's App Store rankings now bury human-designed tools three pages deep, prioritizing AI features over utility.\n\nIf you create or publish anything, your next favorite tool is hiding two scrolls past the charts—uninstall one auto-suggestion app and replace it.\n\nWhat’s the one auto-app you can finally delete today to find a human-built gem? ⚡📱🔍"
+    }
+  },
+  "instagram_caption": "Three indie apps are outperforming AI alternatives by 40% in real tests, with no subscriptions or auto-suggestions.\n\nApple's App Store rankings now bury human-designed tools three pages deep, prioritizing AI features over utility.\n\nIf you create or publish anything, your next favorite tool is hiding two scrolls past the charts—uninstall one auto-suggestion app and replace it.\n\nWhat’s the one auto-app you can finally delete today to find a human-built gem? ⚡📱🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your best app is invisible.",
+      "description": "App Store rankings now bury human-designed tools three pages deep, prioritizing AI suggestions instead.",
+      "visual_hint": "App store chart buried",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "app store rankings"
+    },
+    {
+      "hook": "These apps beat AI daily.",
+      "description": "Three indie tools with no AI or subscriptions outperform auto-suggestion apps by 40% in real tests.",
+      "visual_hint": "Three simple icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "minimalist app icons",
+      "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scroll two pages deeper.",
+      "description": "A hidden utility app is outperforming the top suggestion tool by 40% in daily user tests.",
+      "visual_hint": "Finger scrolling down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "finger scrolling phone",
+      "image": "https://images.pexels.com/photos/7971545/pexels-photo-7971545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Uninstall one auto-app now.",
+      "description": "Delete the suggestion tool you use most—replace it with a human-built alternative hidden two scrolls deep.",
+      "visual_hint": "Deleting app icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand deleting app",
+      "image": "https://images.pexels.com/photos/3850268/pexels-photo-3850268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this list of gems.",
+      "description": "Check your screen time, delete the auto-app you kept for months, and find a better tool today.",
+      "visual_hint": "Link in bio button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "link in bio button",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
+  "savedAt": "2026-07-28T20:59:54.020Z",
+  "sourceId": "b14aa7f4ca7829912a119a947a6570d7"
+}
