@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-s-dario-amodei-responds-doesn-t-oppose-o",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+      "slides": [
+        "Anthropic's CEO doesn't ban open-weight models outright—why?",
+        "His fear: Chinese AI could outpace Western safety standards.",
+        "Open weights may accelerate risks he can't control.",
+        "Your AI governance now needs geopolitical risk assessments.",
+        "Audit your model access: who truly benefits from openness?"
+      ],
+      "thread_text": [
+        "Why not ban open weights?\n\nAnthropic’s CEO says an outright ban could cede the AI race to China—where regulations are looser.",
+        "The real fear: Chinese AI\n\nBeijing pours state funds into open models. Western safety norms may become optional.",
+        "Open weights = loose control\n\nOnce released, a model can’t be patched. Hostile actors tweak it without oversight.",
+        "Governance meets geopolitics\n\nYour risk model now needs a China scenario. Failing that, you’re auditing blind.",
+        "Ask your team today\n\nWho in your org actually benefits from open weights? Map access and incentives this week."
+      ],
+      "video_script": [
+        "Open weights stay for geopolitical reasons.",
+        "China’s AI could beat safety norms.",
+        "Released models can’t be patched.",
+        "Risk now includes China scenarios.",
+        "Map who benefits from open access."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Why not ban open weights?\n\nAnthropic’s CEO says an outright ban could cede the AI race to China—where regulations are looser.",
+            "The real fear: Chinese AI\n\nBeijing pours state funds into open models. Western safety norms may become optional.",
+            "Open weights = loose control\n\nOnce released, a model can’t be patched. Hostile actors tweak it without oversight.",
+            "Governance meets geopolitics\n\nYour risk model now needs a China scenario. Failing that, you’re auditing blind.",
+            "Ask your team today\n\nWho in your org actually benefits from open weights? Map access and incentives this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Open weights stay for geopolitical reasons.",
+            "China’s AI could beat safety norms.",
+            "Released models can’t be patched.",
+            "Risk now includes China scenarios.",
+            "Map who benefits from open access."
+          ]
+        },
+        "instagram": {
+          "caption": "Artificial intelligence from Beijing could reshape your safety protocols faster than your team can patch a model. 🚨\n\nAnthropic’s CEO won't ban open-weight AI outright—because that would hand the race to China, where state-backed models face weaker Western safety standards. Once an open-weight model is public, hostile actors can tweak it with zero oversight.\n\nYour governance now requires geopolitical risk assessments. 🧠\n\nAudit who in your team truly benefits from openness this week—and map access. 🔍 Who would you trust to set the rules if your model got repurposed by an adversary?"
+        }
+      },
+      "instagram_caption": "Artificial intelligence from Beijing could reshape your safety protocols faster than your team can patch a model. 🚨\n\nAnthropic’s CEO won't ban open-weight AI outright—because that would hand the race to China, where state-backed models face weaker Western safety standards. Once an open-weight model is public, hostile actors can tweak it with zero oversight.\n\nYour governance now requires geopolitical risk assessments. 🧠\n\nAudit who in your team truly benefits from openness this week—and map access. 🔍 Who would you trust to set the rules if your model got repurposed by an adversary?",
+      "carousel_slides": [
+        {
+          "hook": "Banning open weights aids China?",
+          "description": "Anthropic's CEO warns an outright ban could hand the AI race to China's looser regulations.",
+          "visual_hint": "globe with chains",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "world map chains"
+        },
+        {
+          "hook": "China's state-funded AI threat",
+          "description": "Beijing pours funds into open models, making Western safety standards optional for global AI.",
+          "visual_hint": "Chinese flag over AI code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "Chinese flag code",
+          "image": "https://images.pexels.com/photos/34099283/pexels-photo-34099283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Open weights escape control",
+          "description": "Released models can't be patched; hostile actors tweak them without oversight or restrictions.",
+          "visual_hint": "padlock with open chain",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "open padlock code",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Governance needs China scenarios",
+          "description": "Your risk model now must include a China scenario; audit blind spots or face failure.",
+          "visual_hint": "map with geopolitics pins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "world map pins",
+          "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your team",
+          "description": "Map who in your org benefits from open weights and assess access incentives this week.",
+          "visual_hint": "checklist with magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist magnifying glass",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+      "savedAt": "2026-07-28T01:46:06.943Z",
+      "sourceId": "063a78a65e9ecc0278bf9f484b4d5fb4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "satya-nadella-says-companies-that-trust-one-ai-for",
       "prompt_version": "1.0.0",
       "status": "published",
