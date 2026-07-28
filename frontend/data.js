@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "fish-audio-raises-52m-seed-to-build-ai-voice-model",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "pubDate": "Tue, 28 Jul 2026 14:00:00 +0000",
+    "slides": [
+      "Can AI truly clone any voice in seconds?",
+      "Fish Audio just raised $52M for it.",
+      "Their models capture emotion, not just tone.",
+      "Creators now generate voiceovers without studios.",
+      "Test it on your own content today."
+    ],
+    "thread_text": [
+      "1. Can emotion be cloned?\n\nFish Audio just raised $52M to let AI capture not just tone, but the emotional weight behind any voice.",
+      "2. No studio required\n\nCreators now generate full voiceovers from a browser. The hardware barrier is gone.",
+      "3. From seconds to finished track\n\nUpload a clip—the model extracts pitch, pace, and feeling. Then type what you want said.",
+      "4. Who controls your voice?\n\nIf a 10-second sample can replicate you, what stops anyone from doing it without consent?",
+      "5. Test it on your own content today.\n\nRecord a 10-second clip of yourself speaking. Upload it to Fish Audio and type a sentence you never said. Does the result fool you?"
+    ],
+    "video_script": [
+      "AI can clone a voice in seconds.",
+      "Fish Audio raised fifty-two million dollars.",
+      "Their models capture emotion, not just tone.",
+      "Creators skip studios entirely now.",
+      "Test it on your own content today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can emotion be cloned?\n\nFish Audio just raised $52M to let AI capture not just tone, but the emotional weight behind any voice.",
+          "2. No studio required\n\nCreators now generate full voiceovers from a browser. The hardware barrier is gone.",
+          "3. From seconds to finished track\n\nUpload a clip—the model extracts pitch, pace, and feeling. Then type what you want said.",
+          "4. Who controls your voice?\n\nIf a 10-second sample can replicate you, what stops anyone from doing it without consent?",
+          "5. Test it on your own content today.\n\nRecord a 10-second clip of yourself speaking. Upload it to Fish Audio and type a sentence you never said. Does the result fool you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI can clone a voice in seconds.",
+          "Fish Audio raised fifty-two million dollars.",
+          "Their models capture emotion, not just tone.",
+          "Creators skip studios entirely now.",
+          "Test it on your own content today."
+        ]
+      },
+      "instagram": {
+        "caption": "A $52 million bet says yes. Fish Audio’s new AI models can capture the emotion in your voice, not just the sound of it.\n\nUpload a 10-second clip—the system extracts your pitch, pace, and feeling. Then you type a sentence you never said, and it speaks for you.\n\nNo studio, no mic, no actor needed. Voiceovers now happen in a browser. Any creator can generate audio from a text prompt.\n\nIf a 10-second sample can replicate you, who controls your voice once it's out there? 🎙️⚡🔊"
+      }
+    },
+    "instagram_caption": "A $52 million bet says yes. Fish Audio’s new AI models can capture the emotion in your voice, not just the sound of it.\n\nUpload a 10-second clip—the system extracts your pitch, pace, and feeling. Then you type a sentence you never said, and it speaks for you.\n\nNo studio, no mic, no actor needed. Voiceovers now happen in a browser. Any creator can generate audio from a text prompt.\n\nIf a 10-second sample can replicate you, who controls your voice once it's out there? 🎙️⚡🔊",
+    "carousel_slides": [
+      {
+        "hook": "Can emotion be cloned?",
+        "description": "Fish Audio raised $52M to build AI that captures not just tone, but emotional weight behind any voice.",
+        "visual_hint": "Soundwave transforming into face",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sound wave visualization"
+      },
+      {
+        "hook": "No studio required.",
+        "description": "Creators now generate full voiceovers from a browser. The hardware barrier is gone.",
+        "visual_hint": "Laptop with waveform on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop desk microphone",
+        "image": "https://images.pexels.com/photos/6953812/pexels-photo-6953812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From seconds to finished track.",
+        "description": "Upload a clip—the model extracts pitch, pace, and feeling. Then type what you want said.",
+        "visual_hint": "Audio clip transforming into text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sound mixing console",
+        "image": "https://images.pexels.com/photos/8132726/pexels-photo-8132726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who controls your voice?",
+        "description": "If a 10-second sample can replicate you, what stops anyone from doing it without consent?",
+        "visual_hint": "Silhouette with sound waves around mouth",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "silhouette person speaking",
+        "image": "https://images.pexels.com/photos/28785830/pexels-photo-28785830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your own content today.",
+        "description": "Record a 10-second clip of yourself. Upload it to Fish Audio and type a sentence you never said.",
+        "visual_hint": "Thumb pressing record button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen recording",
+        "image": "https://images.pexels.com/photos/17133308/pexels-photo-17133308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fish-Audio-CoFounders.jpeg?resize=1200,675",
+    "savedAt": "2026-07-28T17:36:19.597Z",
+    "sourceId": "72e62aa28e258fe4a7136bab51c6d9fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "perplexity-s-personal-computer-turns-windows-pcs-i",
     "prompt_version": "1.0.0",
     "status": "published",
