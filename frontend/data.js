@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "perplexity-s-personal-computer-turns-windows-pcs-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "pubDate": "2026-07-28T12:30:00.000Z",
+    "slides": [
+      "Can a Windows PC truly think for you?",
+      "Perplexity's software installs like any other app.",
+      "It doesn't just search—it clicks, scrolls, and types.",
+      "Your spreadsheets and forms fill themselves automatically.",
+      "Test it on one repetitive task today."
+    ],
+    "thread_text": [
+      "1. Can a PC think for you?\n\nPerplexity's AI agent downloads like any app, but executes actions on your machine.",
+      "2. It doesn’t just answer.\n\nThe software takes control: it clicks buttons, scrolls pages, and types text for you.",
+      "3. Spreadsheets fill themselves.\n\nYour daily data entry forms and tables get populated automatically by the agent.",
+      "4. No more repetitive clicks.\n\nOne task is enough to test if the agent saves time or introduces errors.",
+      "5. Test it this week.\n\nPick one repetitive task in your browser. Run Perplexity on it and measure if it actually finishes."
+    ],
+    "video_script": [
+      "Perplexity installs like any other app.",
+      "It clicks, scrolls, and types for you.",
+      "Your spreadsheets fill themselves automatically.",
+      "Try it on one repetitive task.",
+      "Can a Windows PC think for you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can a PC think for you?\n\nPerplexity's AI agent downloads like any app, but executes actions on your machine.",
+          "2. It doesn’t just answer.\n\nThe software takes control: it clicks buttons, scrolls pages, and types text for you.",
+          "3. Spreadsheets fill themselves.\n\nYour daily data entry forms and tables get populated automatically by the agent.",
+          "4. No more repetitive clicks.\n\nOne task is enough to test if the agent saves time or introduces errors.",
+          "5. Test it this week.\n\nPick one repetitive task in your browser. Run Perplexity on it and measure if it actually finishes."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Perplexity installs like any other app.",
+          "It clicks, scrolls, and types for you.",
+          "Your spreadsheets fill themselves automatically.",
+          "Try it on one repetitive task.",
+          "Can a Windows PC think for you?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your Windows PC can now click, scroll, and type for you.\n\nPerplexity just released software that turns your machine into an AI agent. It installs like a normal app, then takes control of your browser to fill spreadsheets and forms automatically. One repetitive task is all it takes to test.\n\nFor anyone who publishes content, this means daily data entry and browser admin could vanish. Your workflow gets automated without plugins.\n\nPick one boring task you do today. Run Perplexity on it. Does it actually finish? ⏱️🧠🤖"
+      }
+    },
+    "instagram_caption": "Your Windows PC can now click, scroll, and type for you.\n\nPerplexity just released software that turns your machine into an AI agent. It installs like a normal app, then takes control of your browser to fill spreadsheets and forms automatically. One repetitive task is all it takes to test.\n\nFor anyone who publishes content, this means daily data entry and browser admin could vanish. Your workflow gets automated without plugins.\n\nPick one boring task you do today. Run Perplexity on it. Does it actually finish? ⏱️🧠🤖",
+    "carousel_slides": [
+      {
+        "hook": "Your PC thinks for you.",
+        "description": "Perplexity installs like any app, but it can click, scroll, and type on your machine.",
+        "visual_hint": "AI agent icon on PC screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer desk setup"
+      },
+      {
+        "hook": "It's more than a search bar.",
+        "description": "The software takes control, clicking buttons and scrolling pages to complete tasks for you.",
+        "visual_hint": "Cursor clicking button automatically",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "mouse clicking screen",
+        "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spreadsheets fill themselves.",
+        "description": "Your daily data entry forms and tables get populated automatically by the agent.",
+        "visual_hint": "Spreadsheet auto-populating rows",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "spreadsheet formulas chart",
+        "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop doing repetitive clicks.",
+        "description": "One boring task is enough to test if the agent saves you time or makes errors.",
+        "visual_hint": "Hand clicking mouse repeatedly",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker typing",
+        "image": "https://images.pexels.com/photos/12903153/pexels-photo-12903153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your workflow.",
+        "description": "Pick one repetitive browser task, run Perplexity on it, and see if it finishes.",
+        "visual_hint": "Phone saving a bookmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop browser search",
+        "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-28T13:43:00.224Z",
+    "sourceId": "39519f6ad210fea5f49959607be5da94"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "armenia-s-ai-bet-is-not-chip-manufacturing-it-is-c",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty ",
+    "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
+    "pubDate": "Tue, 28 Jul 2026 08:52:46 +0000",
+    "slides": [
+      "Why would a tiny nation chase compute sovereignty?",
+      "Armenia has no chip fabs, only a plan.",
+      "It built its own sovereign cloud stack—how?",
+      "Your data never leaves Armenian jurisdiction now.",
+      "Test your latency to Yerevan before your competitor does."
+    ],
+    "thread_text": [
+      "1. Why chase compute sovereignty?\n\nArmenia has zero chip fabs. Yet it built its own sovereign cloud stack.",
+      "2. How they built it\n\nNo hardware. They layered open-source software on rented servers and added strict data jurisdiction controls.",
+      "3. Data never leaves\n\nAll traffic is routed through Yerevan. Foreign subpoenas can’t reach your data stored under Armenian law.",
+      "4. The latency factor\n\nYerevan sits between Europe and Asia. Test your ping now before your competitor locks in that route.",
+      "5. Test your latency today\n\nRun a traceroute to a Yerevan IP. If your competitor hasn’t, you just found an edge."
+    ],
+    "video_script": [
+      "Armenia has no chip fabs.",
+      "So it built a sovereign cloud.",
+      "Your data stays in Yerevan.",
+      "Test your latency to them.",
+      "Beat your competitor to that edge."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why chase compute sovereignty?\n\nArmenia has zero chip fabs. Yet it built its own sovereign cloud stack.",
+          "2. How they built it\n\nNo hardware. They layered open-source software on rented servers and added strict data jurisdiction controls.",
+          "3. Data never leaves\n\nAll traffic is routed through Yerevan. Foreign subpoenas can’t reach your data stored under Armenian law.",
+          "4. The latency factor\n\nYerevan sits between Europe and Asia. Test your ping now before your competitor locks in that route.",
+          "5. Test your latency today\n\nRun a traceroute to a Yerevan IP. If your competitor hasn’t, you just found an edge."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Armenia has no chip fabs.",
+          "So it built a sovereign cloud.",
+          "Your data stays in Yerevan.",
+          "Test your latency to them.",
+          "Beat your competitor to that edge."
+        ]
+      },
+      "instagram": {
+        "caption": "Armenia built a sovereign cloud on rented servers with open-source software, and your data never leaves its borders.\n\nThe country has zero chip factories. Instead, it layered strict legal controls on top of standard hardware to create a jurisdiction-locked stack. All traffic routes through Yerevan, meaning foreign subpoenas cannot reach your data under Armenian law.\n\nIf you host or process sensitive content, your legal risk shifts the instant data crosses into a jurisdiction designed to block foreign requests.\n\nAre you running a traceroute to Yerevan, or are you waiting for your competitor to lock in that latency edge first?"
+      }
+    },
+    "instagram_caption": "Armenia built a sovereign cloud on rented servers with open-source software, and your data never leaves its borders.\n\nThe country has zero chip factories. Instead, it layered strict legal controls on top of standard hardware to create a jurisdiction-locked stack. All traffic routes through Yerevan, meaning foreign subpoenas cannot reach your data under Armenian law.\n\nIf you host or process sensitive content, your legal risk shifts the instant data crosses into a jurisdiction designed to block foreign requests.\n\nAre you running a traceroute to Yerevan, or are you waiting for your competitor to lock in that latency edge first?",
+    "carousel_slides": [
+      {
+        "hook": "Your data is not safe anywhere else.",
+        "description": "Armenia built a sovereign cloud stack on rented servers with strict data jurisdiction controls.",
+        "visual_hint": "Locked server rack glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "No chip fabs? No problem.",
+        "description": "They layered open-source software on rented servers and added strict data jurisdiction controls.",
+        "visual_hint": "Wires connecting circuit boards",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Subpoenas cannot touch your data here.",
+        "description": "All traffic routes through Yerevan. Armenian law blocks foreign jurisdiction entirely.",
+        "visual_hint": "Map with glowing route through Yerevan",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "map of armenia",
+        "image": "https://images.pexels.com/photos/7235900/pexels-photo-7235900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Latency edge between Europe and Asia.",
+        "description": "Yerevan sits between two continents. Test your ping before competitors lock that route.",
+        "visual_hint": "Clock with geographical markers",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "world clock",
+        "image": "https://images.pexels.com/photos/9704106/pexels-photo-9704106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this or lose your edge.",
+        "description": "Run a traceroute to a Yerevan IP right now and find your advantage.",
+        "visual_hint": "Finger tapping traceroute result",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "terminal screen",
+        "image": "https://images.pexels.com/photos/3943949/pexels-photo-3943949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-28T13:42:47.384Z",
+    "sourceId": "1660d85584afa53aaf50450595ef9001"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "lyft-and-baidu-enter-london-s-robotaxi-battlegroun",
     "prompt_version": "1.0.0",
     "status": "published",

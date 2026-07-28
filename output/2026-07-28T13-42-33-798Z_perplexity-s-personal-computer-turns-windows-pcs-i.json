@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "perplexity-s-personal-computer-turns-windows-pcs-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+  "pubDate": "2026-07-28T12:30:00.000Z",
+  "slides": [
+    "Can a Windows PC truly think for you?",
+    "Perplexity's software installs like any other app.",
+    "It doesn't just search—it clicks, scrolls, and types.",
+    "Your spreadsheets and forms fill themselves automatically.",
+    "Test it on one repetitive task today."
+  ],
+  "thread_text": [
+    "1. Can a PC think for you?\n\nPerplexity's AI agent downloads like any app, but executes actions on your machine.",
+    "2. It doesn’t just answer.\n\nThe software takes control: it clicks buttons, scrolls pages, and types text for you.",
+    "3. Spreadsheets fill themselves.\n\nYour daily data entry forms and tables get populated automatically by the agent.",
+    "4. No more repetitive clicks.\n\nOne task is enough to test if the agent saves time or introduces errors.",
+    "5. Test it this week.\n\nPick one repetitive task in your browser. Run Perplexity on it and measure if it actually finishes."
+  ],
+  "video_script": [
+    "Perplexity installs like any other app.",
+    "It clicks, scrolls, and types for you.",
+    "Your spreadsheets fill themselves automatically.",
+    "Try it on one repetitive task.",
+    "Can a Windows PC think for you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can a PC think for you?\n\nPerplexity's AI agent downloads like any app, but executes actions on your machine.",
+        "2. It doesn’t just answer.\n\nThe software takes control: it clicks buttons, scrolls pages, and types text for you.",
+        "3. Spreadsheets fill themselves.\n\nYour daily data entry forms and tables get populated automatically by the agent.",
+        "4. No more repetitive clicks.\n\nOne task is enough to test if the agent saves time or introduces errors.",
+        "5. Test it this week.\n\nPick one repetitive task in your browser. Run Perplexity on it and measure if it actually finishes."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Perplexity installs like any other app.",
+        "It clicks, scrolls, and types for you.",
+        "Your spreadsheets fill themselves automatically.",
+        "Try it on one repetitive task.",
+        "Can a Windows PC think for you?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your Windows PC can now click, scroll, and type for you.\n\nPerplexity just released software that turns your machine into an AI agent. It installs like a normal app, then takes control of your browser to fill spreadsheets and forms automatically. One repetitive task is all it takes to test.\n\nFor anyone who publishes content, this means daily data entry and browser admin could vanish. Your workflow gets automated without plugins.\n\nPick one boring task you do today. Run Perplexity on it. Does it actually finish? ⏱️🧠🤖"
+    }
+  },
+  "instagram_caption": "Your Windows PC can now click, scroll, and type for you.\n\nPerplexity just released software that turns your machine into an AI agent. It installs like a normal app, then takes control of your browser to fill spreadsheets and forms automatically. One repetitive task is all it takes to test.\n\nFor anyone who publishes content, this means daily data entry and browser admin could vanish. Your workflow gets automated without plugins.\n\nPick one boring task you do today. Run Perplexity on it. Does it actually finish? ⏱️🧠🤖",
+  "carousel_slides": [
+    {
+      "hook": "Your PC thinks for you.",
+      "description": "Perplexity installs like any app, but it can click, scroll, and type on your machine.",
+      "visual_hint": "AI agent icon on PC screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer desk setup"
+    },
+    {
+      "hook": "It's more than a search bar.",
+      "description": "The software takes control, clicking buttons and scrolling pages to complete tasks for you.",
+      "visual_hint": "Cursor clicking button automatically",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "mouse clicking screen",
+      "image": "https://images.pexels.com/photos/5931186/pexels-photo-5931186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Spreadsheets fill themselves.",
+      "description": "Your daily data entry forms and tables get populated automatically by the agent.",
+      "visual_hint": "Spreadsheet auto-populating rows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "spreadsheet formulas chart",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop doing repetitive clicks.",
+      "description": "One boring task is enough to test if the agent saves you time or makes errors.",
+      "visual_hint": "Hand clicking mouse repeatedly",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker typing",
+      "image": "https://images.pexels.com/photos/12903153/pexels-photo-12903153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your workflow.",
+      "description": "Pick one repetitive browser task, run Perplexity on it, and see if it finishes.",
+      "visual_hint": "Phone saving a bookmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop browser search",
+      "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-28T13:43:00.224Z",
+  "sourceId": "39519f6ad210fea5f49959607be5da94"
+}
