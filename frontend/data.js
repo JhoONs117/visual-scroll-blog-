@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "threads-users-can-now-chat-with-meta-ai-in-their-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
+    "slides": [
+      "Meta AI enters your DMs—but what does it see?",
+      "Threads now hosts an AI without public posts",
+      "It can access your past conversations instantly",
+      "Your replies might train a model you can't control",
+      "Review your privacy settings before your first chat"
+    ],
+    "thread_text": [
+      "1. What does Meta see?\n\nMeta AI now reads your DMs on Threads without posting publicly.",
+      "2. Instant access to history\n\nIt scans your past conversations the moment you start typing.",
+      "3. Your replies train it\n\nEvery response you send could teach a model you don't own.",
+      "4. No opt-out control\n\nYou can't stop your data from being used once the chat begins.",
+      "5. Check your settings now\n\nOpen Threads and review your privacy options before your first AI message."
+    ],
+    "video_script": [
+      "Meta AI enters your private DMs.",
+      "It reads your past conversations instantly.",
+      "Your replies train an uncontrollable model.",
+      "You cannot opt out once chat begins.",
+      "Check privacy settings before messaging."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What does Meta see?\n\nMeta AI now reads your DMs on Threads without posting publicly.",
+          "2. Instant access to history\n\nIt scans your past conversations the moment you start typing.",
+          "3. Your replies train it\n\nEvery response you send could teach a model you don't own.",
+          "4. No opt-out control\n\nYou can't stop your data from being used once the chat begins.",
+          "5. Check your settings now\n\nOpen Threads and review your privacy options before your first AI message."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta AI enters your private DMs.",
+          "It reads your past conversations instantly.",
+          "Your replies train an uncontrollable model.",
+          "You cannot opt out once chat begins.",
+          "Check privacy settings before messaging."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta AI is now inside your Threads DMs, reading your chat history from the moment you type. 🧵\n\nIt scans your past conversations instantly, and every reply you send helps train a model you don't control. There's no way to opt out once the chat starts. 🚫\n\nFor anyone creating or sharing content on Threads, this means your private messages and writing style are now feeding Meta's AI directly.\n\nHave you checked your privacy settings in Threads before opening a DM with Meta AI? ⚙️"
+      }
+    },
+    "instagram_caption": "Meta AI is now inside your Threads DMs, reading your chat history from the moment you type. 🧵\n\nIt scans your past conversations instantly, and every reply you send helps train a model you don't control. There's no way to opt out once the chat starts. 🚫\n\nFor anyone creating or sharing content on Threads, this means your private messages and writing style are now feeding Meta's AI directly.\n\nHave you checked your privacy settings in Threads before opening a DM with Meta AI? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Meta reads your DMs",
+        "description": "Meta AI enters Threads DMs without posting publicly, but it sees everything you type.",
+        "visual_hint": "Chat bubble with an eye",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen chat"
+      },
+      {
+        "hook": "Your history is exposed",
+        "description": "It scans every past conversation the moment you start typing — nothing is private.",
+        "visual_hint": "Old messages being scanned",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your replies train it",
+        "description": "Each response teaches a model you don't own — your data becomes its fuel.",
+        "visual_hint": "Data flowing into a brain",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No opt-out control",
+        "description": "You can't stop data usage once the chat begins — the decision is not yours.",
+        "visual_hint": "Hand showing a stop gesture",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "outstretched hand palm",
+        "image": "https://images.pexels.com/photos/10204118/pexels-photo-10204118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you chat",
+        "description": "Open Threads, go to privacy settings, and disable AI data collection now.",
+        "visual_hint": "Settings gear icon urgent",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone settings screen",
+        "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
+    "savedAt": "2026-07-28T04:56:38.099Z",
+    "sourceId": "e0cbdd2980b85a49f3905f59f9e5651a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-s-dario-amodei-responds-doesn-t-oppose-o",
     "prompt_version": "1.0.0",
     "status": "published",
