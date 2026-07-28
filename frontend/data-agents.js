@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "waymo-robotaxi-operators-face-fresh-scrutiny-over-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+      "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+      "pubDate": "Tue, 28 Jul 2026 19:06:33 +0000",
+      "slides": [
+        "Waymo’s robotaxis blocked fire trucks twice. What now?",
+        "Emergency response failures triggered a new federal probe.",
+        "The real flaw isn’t sensors — it’s coordination with dispatch.",
+        "You must verify any fleet’s emergency handoff protocol today.",
+        "Test your own city’s interaction with robotaxis this week."
+      ],
+      "thread_text": [
+        "Fire trucks blocked. \n\nWaymo robotaxis failed to clear a path for emergency vehicles twice in one month, triggering a federal investigation.",
+        "Not a sensor issue. \n\nThe real gap is that robotaxis don't talk to emergency dispatch systems in real time.",
+        "New probe launched. \n\nThe National Highway Traffic Safety Administration is now auditing Waymo’s emergency response protocols.",
+        "Your fleet at risk. \n\nIf your city uses autonomous vehicles, there’s no standard handoff protocol for fire or ambulance calls.",
+        "Test this week. \n\nCall your local fire chief and ask: have your robotaxis ever blocked a response? Run the drill yourself."
+      ],
+      "video_script": [
+        "Robotaxis blocked fire trucks twice.",
+        "Federal probe now underway.",
+        "Flaw isn't sensors, it's coordination.",
+        "No standard emergency handoff exists.",
+        "Call your fire chief this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Fire trucks blocked. \n\nWaymo robotaxis failed to clear a path for emergency vehicles twice in one month, triggering a federal investigation.",
+            "Not a sensor issue. \n\nThe real gap is that robotaxis don't talk to emergency dispatch systems in real time.",
+            "New probe launched. \n\nThe National Highway Traffic Safety Administration is now auditing Waymo’s emergency response protocols.",
+            "Your fleet at risk. \n\nIf your city uses autonomous vehicles, there’s no standard handoff protocol for fire or ambulance calls.",
+            "Test this week. \n\nCall your local fire chief and ask: have your robotaxis ever blocked a response? Run the drill yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Robotaxis blocked fire trucks twice.",
+            "Federal probe now underway.",
+            "Flaw isn't sensors, it's coordination.",
+            "No standard emergency handoff exists.",
+            "Call your fire chief this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Fire trucks were blocked by a self-driving car— twice in one month, and now regulators are stepping in.\n\nFederal investigators just opened a probe into Waymo after its vehicles failed to clear the way for emergency responders. The real gap isn’t better sensors for the cars to “see”—it’s that robotaxis don’t talk to dispatch systems.\n\nIf you run a fleet or coordinate with city services, there’s no standard handoff protocol for ambulance or fire calls. That silence can cost minutes.\n\nWhen was the last time your local fire chief ran a drill with a self-driving car blocking the station driveway? 🚒🛑🔍"
+        }
+      },
+      "instagram_caption": "Fire trucks were blocked by a self-driving car— twice in one month, and now regulators are stepping in.\n\nFederal investigators just opened a probe into Waymo after its vehicles failed to clear the way for emergency responders. The real gap isn’t better sensors for the cars to “see”—it’s that robotaxis don’t talk to dispatch systems.\n\nIf you run a fleet or coordinate with city services, there’s no standard handoff protocol for ambulance or fire calls. That silence can cost minutes.\n\nWhen was the last time your local fire chief ran a drill with a self-driving car blocking the station driveway? 🚒🛑🔍",
+      "carousel_slides": [
+        {
+          "hook": "Robotaxis blocked fire trucks.",
+          "description": "Twice in one month, Waymo robotaxis failed to clear a path for emergency vehicles, sparking a federal investigation.",
+          "visual_hint": "Fire truck blocked by car",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fire truck blocked car"
+        },
+        {
+          "hook": "Not a sensor glitch.",
+          "description": "The real failure is robotaxis can't coordinate with emergency dispatch in real time, a critical gap.",
+          "visual_hint": "Dispatch control center screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "emergency dispatch control room",
+          "image": "https://images.pexels.com/photos/17203754/pexels-photo-17203754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New federal probe launched.",
+          "description": "NHTSA is auditing Waymo's emergency response protocols after robotaxis failed to yield twice in one month.",
+          "visual_hint": "Government building seal",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "NHTSA building exterior",
+          "image": "https://images.pexels.com/photos/12317955/pexels-photo-12317955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your city's fleet at risk.",
+          "description": "No standard handoff protocol exists for robotaxis when fire or ambulance calls come in.",
+          "visual_hint": "Robotaxi near ambulance",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "autonomous car ambulance street",
+          "image": "https://images.pexels.com/photos/4389388/pexels-photo-4389388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your city.",
+          "description": "Call your local fire chief and ask if robotaxis have ever blocked a response.",
+          "visual_hint": "Phone and fire chief badge",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "fire chief badge phone",
+          "image": "https://images.pexels.com/photos/25642750/pexels-photo-25642750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/waymo-fleet-getty.jpg?resize=1200,801",
+      "savedAt": "2026-07-28T19:09:56.508Z",
+      "sourceId": "d3177181b1231c48c871665374b0ee5f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "fish-audio-raises-52m-seed-to-build-ai-voice-model",
       "prompt_version": "1.0.0",
       "status": "published",
