@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "lyft-and-baidu-enter-london-s-robotaxi-battlegroun",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+    "pubDate": "Tue, 28 Jul 2026 08:00:00 +0000",
+    "slides": [
+      "Lyft and Baidu enter London’s robotaxi test—who leads?",
+      "Both firms received permits for limited public road trials.",
+      "Waymo already operates nearby, but lacks UK approval yet.",
+      "You may soon hail a driverless ride in central zones.",
+      "Check which operator runs near your route this month."
+    ],
+    "thread_text": [
+      "Who's really ahead?\n\nLyft and Baidu both got permits for limited public road trials in London.",
+      "Waymo is already testing nearby.\n\nBut the US giant still lacks UK approval for its own fleet.",
+      "Limited permits mean small zones.\n\nYou may soon hail a driverless ride only in central areas.",
+      "The real race is regulatory.\n\nEach operator needs more than a permit to scale across London.",
+      "Check which operator runs near your route this month.\n\nOpen the city's transport map and look for trial zones."
+    ],
+    "video_script": [
+      "Lyft and Baidu just got London robotaxi permits.",
+      "Waymo tests nearby but has no UK approval.",
+      "Trials are limited to central zones only.",
+      "Regulatory approvals will decide who leads.",
+      "Check your route for active driverless rides."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Who's really ahead?\n\nLyft and Baidu both got permits for limited public road trials in London.",
+          "Waymo is already testing nearby.\n\nBut the US giant still lacks UK approval for its own fleet.",
+          "Limited permits mean small zones.\n\nYou may soon hail a driverless ride only in central areas.",
+          "The real race is regulatory.\n\nEach operator needs more than a permit to scale across London.",
+          "Check which operator runs near your route this month.\n\nOpen the city's transport map and look for trial zones."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Lyft and Baidu just got London robotaxi permits.",
+          "Waymo tests nearby but has no UK approval.",
+          "Trials are limited to central zones only.",
+          "Regulatory approvals will decide who leads.",
+          "Check your route for active driverless rides."
+        ]
+      },
+      "instagram": {
+        "caption": "Lyft and Baidu just got permits to test robotaxis on London's public roads, but only in limited central zones. 🚕\n\nWaymo is already testing nearby but still lacks UK approval for its own fleet. The real race isn't tech—it's regulatory approval to scale across the city.\n\nYou might soon be able to hail a driverless ride near Central London routes this month. Check the city's transport map for trial zones.\n\nWhich operator’s route runs closest to where you live or work? 👀"
+      }
+    },
+    "instagram_caption": "Lyft and Baidu just got permits to test robotaxis on London's public roads, but only in limited central zones. 🚕\n\nWaymo is already testing nearby but still lacks UK approval for its own fleet. The real race isn't tech—it's regulatory approval to scale across the city.\n\nYou might soon be able to hail a driverless ride near Central London routes this month. Check the city's transport map for trial zones.\n\nWhich operator’s route runs closest to where you live or work? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Waymo lacks UK approval.",
+        "description": "Lyft and Baidu got permits for limited London trials, while Waymo tests nearby but still waits for approval.",
+        "visual_hint": "Robotaxi on London street",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "self driving car london"
+      },
+      {
+        "hook": "Who got the first permits?",
+        "description": "Both Lyft and Baidu received permits for limited public road trials in London, starting the race.",
+        "visual_hint": "Permit document close-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government permit document",
+        "image": "https://images.pexels.com/photos/8830664/pexels-photo-8830664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Limited zones only.",
+        "description": "Permits restrict testing to small central areas, so you may soon hail a driverless ride in those zones.",
+        "visual_hint": "Central London map zone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "london map central",
+        "image": "https://images.pexels.com/photos/32477995/pexels-photo-32477995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulatory race ahead.",
+        "description": "Each operator needs more than a permit to scale across London—regulatory hurdles remain the real challenge.",
+        "visual_hint": "Traffic light regulatory sign",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "traffic light intersection",
+        "image": "https://images.pexels.com/photos/34055650/pexels-photo-34055650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check routes!",
+        "description": "Open London's transport map this month and look for trial zones near your daily route.",
+        "visual_hint": "Transport map with zones",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "london transport map",
+        "image": "https://images.pexels.com/photos/30483961/pexels-photo-30483961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?resize=1200,900",
+    "savedAt": "2026-07-28T11:50:49.212Z",
+    "sourceId": "c97c952d129e51438a9e8cacd6018801"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "guardoc-health-processes-clinical-documentation-us",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+    "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+    "pubDate": "Tue, 28 Jul 2026 11:30:47 +0000",
+    "slides": [
+      "Your docs pile up—what if AI could read them?",
+      "Guardoc uses Amazon Nova to parse clinical notes.",
+      "It extracts findings humans might overlook entirely.",
+      "Your team now reviews flagged insights, not raw text.",
+      "Start with one chart—compare what you missed."
+    ],
+    "thread_text": [
+      "1. What if AI read your docs?\n\nDoctors overlook up to 30% of clinical findings. Guardoc catches them.",
+      "2. It parses notes with Amazon Nova.\n\nThe AI scans unstructured text, not just coded data. It finds patterns humans skip.",
+      "3. Your team sees flagged insights.\n\nNo more reading raw files. The tool extracts only what needs review.",
+      "4. Start with one chart.\n\nCompare what you missed against the AI's picks. The gap is measurable.",
+      "5. Try it on a single patient note today.\n\nDo you know what you overlooked last week? Run one test and see."
+    ],
+    "video_script": [
+      "Imagine AI reading your pile of clinical notes.",
+      "Guardoc uses Amazon Nova to parse them.",
+      "It extracts findings humans often miss.",
+      "Your team reviews flagged insights, not raw text.",
+      "Start with one chart to see what you missed."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if AI read your docs?\n\nDoctors overlook up to 30% of clinical findings. Guardoc catches them.",
+          "2. It parses notes with Amazon Nova.\n\nThe AI scans unstructured text, not just coded data. It finds patterns humans skip.",
+          "3. Your team sees flagged insights.\n\nNo more reading raw files. The tool extracts only what needs review.",
+          "4. Start with one chart.\n\nCompare what you missed against the AI's picks. The gap is measurable.",
+          "5. Try it on a single patient note today.\n\nDo you know what you overlooked last week? Run one test and see."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine AI reading your pile of clinical notes.",
+          "Guardoc uses Amazon Nova to parse them.",
+          "It extracts findings humans often miss.",
+          "Your team reviews flagged insights, not raw text.",
+          "Start with one chart to see what you missed."
+        ]
+      },
+      "instagram": {
+        "caption": "Doctors miss up to 30% of clinical findings buried in plain text notes.  \n\nGuardoc Health now uses Amazon Nova models to parse unstructured clinical documentation. It extracts patterns and overlooked data points from raw patient charts.  \n\nYour team stops reading every line—the AI flags only the insights requiring review. You review what was missed, not what you already saw.  \n\nCan you name the last finding your own notes hid from you? Run one chart through Guardoc and compare."
+      }
+    },
+    "instagram_caption": "Doctors miss up to 30% of clinical findings buried in plain text notes.  \n\nGuardoc Health now uses Amazon Nova models to parse unstructured clinical documentation. It extracts patterns and overlooked data points from raw patient charts.  \n\nYour team stops reading every line—the AI flags only the insights requiring review. You review what was missed, not what you already saw.  \n\nCan you name the last finding your own notes hid from you? Run one chart through Guardoc and compare.",
+    "carousel_slides": [
+      {
+        "hook": "What if AI caught what you miss?",
+        "description": "Doctors overlook up to 30% of clinical findings. Guardoc catches them using Amazon Nova.",
+        "visual_hint": "Pile of documents on desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "medical documents pile"
+      },
+      {
+        "hook": "AI reads your unstructured notes.",
+        "description": "Amazon Nova scans raw clinical text, not just coded data, to find hidden patterns.",
+        "visual_hint": "Text being scanned by light",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "healthcare data server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Findings humans skip.",
+        "description": "The AI extracts overlooked findings from notes, flagging what needs review.",
+        "visual_hint": "Magnifying glass over text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass data",
+        "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your team sees only insights.",
+        "description": "No more raw files. Guardoc delivers flagged insights for faster, smarter review.",
+        "visual_hint": "Doctor reviewing tablet screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor tablet hospital",
+        "image": "https://images.pexels.com/photos/5452298/pexels-photo-5452298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it on one note today.",
+        "description": "Run a single patient chart and compare what you missed. See the gap.",
+        "visual_hint": "Hand clicking comparison button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "medical chart comparison",
+        "image": "https://images.pexels.com/photos/4021799/pexels-photo-4021799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-28T11:50:36.758Z",
+    "sourceId": "173a8d23c75ebd9f30a2663308ec93e6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "threads-users-can-now-chat-with-meta-ai-in-their-d",
     "prompt_version": "1.0.0",
     "status": "published",

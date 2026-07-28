@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lyft-and-baidu-enter-london-s-robotaxi-battlegroun",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "pubDate": "Tue, 28 Jul 2026 08:00:00 +0000",
+      "slides": [
+        "Lyft and Baidu enter London’s robotaxi test—who leads?",
+        "Both firms received permits for limited public road trials.",
+        "Waymo already operates nearby, but lacks UK approval yet.",
+        "You may soon hail a driverless ride in central zones.",
+        "Check which operator runs near your route this month."
+      ],
+      "thread_text": [
+        "Who's really ahead?\n\nLyft and Baidu both got permits for limited public road trials in London.",
+        "Waymo is already testing nearby.\n\nBut the US giant still lacks UK approval for its own fleet.",
+        "Limited permits mean small zones.\n\nYou may soon hail a driverless ride only in central areas.",
+        "The real race is regulatory.\n\nEach operator needs more than a permit to scale across London.",
+        "Check which operator runs near your route this month.\n\nOpen the city's transport map and look for trial zones."
+      ],
+      "video_script": [
+        "Lyft and Baidu just got London robotaxi permits.",
+        "Waymo tests nearby but has no UK approval.",
+        "Trials are limited to central zones only.",
+        "Regulatory approvals will decide who leads.",
+        "Check your route for active driverless rides."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Who's really ahead?\n\nLyft and Baidu both got permits for limited public road trials in London.",
+            "Waymo is already testing nearby.\n\nBut the US giant still lacks UK approval for its own fleet.",
+            "Limited permits mean small zones.\n\nYou may soon hail a driverless ride only in central areas.",
+            "The real race is regulatory.\n\nEach operator needs more than a permit to scale across London.",
+            "Check which operator runs near your route this month.\n\nOpen the city's transport map and look for trial zones."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Lyft and Baidu just got London robotaxi permits.",
+            "Waymo tests nearby but has no UK approval.",
+            "Trials are limited to central zones only.",
+            "Regulatory approvals will decide who leads.",
+            "Check your route for active driverless rides."
+          ]
+        },
+        "instagram": {
+          "caption": "Lyft and Baidu just got permits to test robotaxis on London's public roads, but only in limited central zones. 🚕\n\nWaymo is already testing nearby but still lacks UK approval for its own fleet. The real race isn't tech—it's regulatory approval to scale across the city.\n\nYou might soon be able to hail a driverless ride near Central London routes this month. Check the city's transport map for trial zones.\n\nWhich operator’s route runs closest to where you live or work? 👀"
+        }
+      },
+      "instagram_caption": "Lyft and Baidu just got permits to test robotaxis on London's public roads, but only in limited central zones. 🚕\n\nWaymo is already testing nearby but still lacks UK approval for its own fleet. The real race isn't tech—it's regulatory approval to scale across the city.\n\nYou might soon be able to hail a driverless ride near Central London routes this month. Check the city's transport map for trial zones.\n\nWhich operator’s route runs closest to where you live or work? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Waymo lacks UK approval.",
+          "description": "Lyft and Baidu got permits for limited London trials, while Waymo tests nearby but still waits for approval.",
+          "visual_hint": "Robotaxi on London street",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "self driving car london"
+        },
+        {
+          "hook": "Who got the first permits?",
+          "description": "Both Lyft and Baidu received permits for limited public road trials in London, starting the race.",
+          "visual_hint": "Permit document close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government permit document",
+          "image": "https://images.pexels.com/photos/8830664/pexels-photo-8830664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Limited zones only.",
+          "description": "Permits restrict testing to small central areas, so you may soon hail a driverless ride in those zones.",
+          "visual_hint": "Central London map zone",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "london map central",
+          "image": "https://images.pexels.com/photos/32477995/pexels-photo-32477995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulatory race ahead.",
+          "description": "Each operator needs more than a permit to scale across London—regulatory hurdles remain the real challenge.",
+          "visual_hint": "Traffic light regulatory sign",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "traffic light intersection",
+          "image": "https://images.pexels.com/photos/34055650/pexels-photo-34055650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check routes!",
+          "description": "Open London's transport map this month and look for trial zones near your daily route.",
+          "visual_hint": "Transport map with zones",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "london transport map",
+          "image": "https://images.pexels.com/photos/30483961/pexels-photo-30483961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Freenow-by-Lyft-x-Baidu-Apollo-Go.jpg?resize=1200,900",
+      "savedAt": "2026-07-28T11:50:49.212Z",
+      "sourceId": "c97c952d129e51438a9e8cacd6018801"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "guardoc-health-processes-clinical-documentation-us",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "pubDate": "Tue, 28 Jul 2026 11:30:47 +0000",
+      "slides": [
+        "Your docs pile up—what if AI could read them?",
+        "Guardoc uses Amazon Nova to parse clinical notes.",
+        "It extracts findings humans might overlook entirely.",
+        "Your team now reviews flagged insights, not raw text.",
+        "Start with one chart—compare what you missed."
+      ],
+      "thread_text": [
+        "1. What if AI read your docs?\n\nDoctors overlook up to 30% of clinical findings. Guardoc catches them.",
+        "2. It parses notes with Amazon Nova.\n\nThe AI scans unstructured text, not just coded data. It finds patterns humans skip.",
+        "3. Your team sees flagged insights.\n\nNo more reading raw files. The tool extracts only what needs review.",
+        "4. Start with one chart.\n\nCompare what you missed against the AI's picks. The gap is measurable.",
+        "5. Try it on a single patient note today.\n\nDo you know what you overlooked last week? Run one test and see."
+      ],
+      "video_script": [
+        "Imagine AI reading your pile of clinical notes.",
+        "Guardoc uses Amazon Nova to parse them.",
+        "It extracts findings humans often miss.",
+        "Your team reviews flagged insights, not raw text.",
+        "Start with one chart to see what you missed."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if AI read your docs?\n\nDoctors overlook up to 30% of clinical findings. Guardoc catches them.",
+            "2. It parses notes with Amazon Nova.\n\nThe AI scans unstructured text, not just coded data. It finds patterns humans skip.",
+            "3. Your team sees flagged insights.\n\nNo more reading raw files. The tool extracts only what needs review.",
+            "4. Start with one chart.\n\nCompare what you missed against the AI's picks. The gap is measurable.",
+            "5. Try it on a single patient note today.\n\nDo you know what you overlooked last week? Run one test and see."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine AI reading your pile of clinical notes.",
+            "Guardoc uses Amazon Nova to parse them.",
+            "It extracts findings humans often miss.",
+            "Your team reviews flagged insights, not raw text.",
+            "Start with one chart to see what you missed."
+          ]
+        },
+        "instagram": {
+          "caption": "Doctors miss up to 30% of clinical findings buried in plain text notes.  \n\nGuardoc Health now uses Amazon Nova models to parse unstructured clinical documentation. It extracts patterns and overlooked data points from raw patient charts.  \n\nYour team stops reading every line—the AI flags only the insights requiring review. You review what was missed, not what you already saw.  \n\nCan you name the last finding your own notes hid from you? Run one chart through Guardoc and compare."
+        }
+      },
+      "instagram_caption": "Doctors miss up to 30% of clinical findings buried in plain text notes.  \n\nGuardoc Health now uses Amazon Nova models to parse unstructured clinical documentation. It extracts patterns and overlooked data points from raw patient charts.  \n\nYour team stops reading every line—the AI flags only the insights requiring review. You review what was missed, not what you already saw.  \n\nCan you name the last finding your own notes hid from you? Run one chart through Guardoc and compare.",
+      "carousel_slides": [
+        {
+          "hook": "What if AI caught what you miss?",
+          "description": "Doctors overlook up to 30% of clinical findings. Guardoc catches them using Amazon Nova.",
+          "visual_hint": "Pile of documents on desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "medical documents pile"
+        },
+        {
+          "hook": "AI reads your unstructured notes.",
+          "description": "Amazon Nova scans raw clinical text, not just coded data, to find hidden patterns.",
+          "visual_hint": "Text being scanned by light",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "healthcare data server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Findings humans skip.",
+          "description": "The AI extracts overlooked findings from notes, flagging what needs review.",
+          "visual_hint": "Magnifying glass over text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass data",
+          "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your team sees only insights.",
+          "description": "No more raw files. Guardoc delivers flagged insights for faster, smarter review.",
+          "visual_hint": "Doctor reviewing tablet screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor tablet hospital",
+          "image": "https://images.pexels.com/photos/5452298/pexels-photo-5452298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it on one note today.",
+          "description": "Run a single patient chart and compare what you missed. See the gap.",
+          "visual_hint": "Hand clicking comparison button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "medical chart comparison",
+          "image": "https://images.pexels.com/photos/4021799/pexels-photo-4021799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-28T11:50:36.758Z",
+      "sourceId": "173a8d23c75ebd9f30a2663308ec93e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "threads-users-can-now-chat-with-meta-ai-in-their-d",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -98318,6 +98526,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-integrale-con-alici-pomodorini-e-scorza-di-l",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta integrale con alici, pomodorini e scorza di limone",
+      "link": "https://ricette.giallozafferano.it/Pasta-integrale-con-alici-pomodorini-e-scorza-di-limone.html",
+      "pubDate": "Tue, 28 Jul 2026 11:30:00 +0200",
+      "content": "Spaghetti integrali con alici, pomodorini e scorza di limone: ricetta facile e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Contenuto Sponsorizzato Pasta integrale con alici, pomodorini e scorza di limone /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 5 min Cottura: 15 min Dosi per: 4 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta integrale con alici, pomodorini e scorza di limone è una ricetta proposta da Lulù Gargari in collaborazione con la nutrizionista Laura Crugnola in occasione di una puntata del vodcast “ Il piatto bilanciato ” dedicata alla salute del cuore a tavola. Le alici, appartenenti alla categoria del pesce azzurro , rappresentano una preziosa fonte di proteine ad alto valore biologico, omega 3, vitamina D, selenio e iodio, nutrienti che devono essere inseriti in una dieta varia e in uno stile alimentare orientato al benessere cardiovascolare e non solo. Le fibre degli spaghetti integrali contribuiscono ad aumentare il senso di sazietà, mentre il concentrato di pomodoro, naturalmente ricco di antiossidanti come il licopene, dona corposità al condimento a base di datterini freschi, vivacizzato dal profumo agrumato del limone. Con pochi ingredienti semplici e di qualità nasce così un primo piatto colorato, saporito e appagante, che si prepara nel tempo di cottura della pasta. Perché mangiare in modo consapevole non vuol dire rinunciare al piacere del buon cibo… provare per credere, ecco la pasta integrale con alici, pomodorini e scorza di limone! Non perdetevi anche queste varianti della pasta con pomodorini e alici : Mezze maniche con pomodorini e acciughe Spaghetti al pomodori con alici e pecorino Pasta con pomodorini, acciughe e cipolla Spaghetti di grano saraceno con alici e pomodorini INGREDIENTI Spaghetti Integrali 320 g Pomodorini datterini 400 g Acciughe (alici) in olio bio, dolci del Mar Cantabrico 120 g Concentrato di pomodoro 20 g Scorza di limone 1 Prezzemolo q.b. Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta integrale con alici, pomodorini e scorza di limone Per preparare la pasta integrale con alici, pomodorini e scorza di limone, per prima cosa tagliate i datterini a metà 1 e mettete a cuocere gli spaghetti in acqua bollente salata 2 . Intanto in una padella capiente scaldate l’olio con i gambi del prezzemolo 3 . Aggiungete 80 g di alici 4 e fatele sciogliere a fuoco dolce 5 , aiutandovi con un mestolo di acqua di cottura della pasta. Versate il concentrato di pomodoro 6 e fatelo tostare per qualche secondo. Unite i pomodorini 7 , salate 8 e pepate. Saltate i pomodorini a fiamma medio-alta per 4-5 minuti. Una volta al dente, scolate gli spaghetti e trasferiteli nella padella con il condimento 9 . Bagnate con un mestolo di acqua di cottura 10 e amalgamate il tutto. Spegnete il fuoco, dopodiché eliminate i gambi del prezzemolo 11 e aromatizzate con il prezzemolo tritato 12 . Infine, profumate con la scorza di limone grattugiata 13 . Completate ogni piatto con 2 filetti di alici 14 e una macinata di pepe. La vostra pasta integrale con alici, pomodorini e scorza di limone è pronta per essere servita 15 ! Conservazione La pasta integrale con alici, pomodorini e scorza di limone si può conservare in frigorifero per un giorno, in un contenitore ermetico. Consiglio Il concentrato di pomodoro rende il condimento più cremoso, ma se preferite potete ometterlo. Salate moderatamente l’acqua della pasta, ma non demonizzate il sale: anche il sodio svolge un ruolo importante per il corretto funzionamento dell'organismo e, se assunto nelle giuste quantità all'interno di un'alimentazione equilibrata, contribuisce ai normali processi fisiologici. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Spaghetti Pomodoro Pasta Olio di oliva Limone Prezzemolo Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti di pesce , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta integrale con alici, pomodorini e scorza di limone Tonno alla siciliana 5.0 Tiramisù con crema al caffè e Pavesini 5.0 SCOPRI Scorza di limone Pasta integrale Pasta con alici e pomodorini Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta integrale cremosa con alici e limone",
+        "Alici, pomodorini, limone, spaghetti integrali",
+        "Sciogli le alici nell'olio",
+        "Unisci pomodorini e pasta saltata",
+        "Scorza di limone e pepe finale"
+      ],
+      "instagram_caption": "Pochi ingredienti, un’esplosione di sapore. Questa pasta integrale con alici e limone è il comfort food che non ti aspetti. Le alici si sciolgono nell’olio caldo, i pomodorini sprigionano dolcezza, e l’abbraccio della scorza di limone regala freschezza a ogni forchettata. Cremosa, aromatica, perfetta così com’è. Provala questa settimana 🍋✨🧂",
+      "formats": {
+        "instagram": {
+          "caption": "Pochi ingredienti, un’esplosione di sapore. Questa pasta integrale con alici e limone è il comfort food che non ti aspetti. Le alici si sciolgono nell’olio caldo, i pomodorini sprigionano dolcezza, e l’abbraccio della scorza di limone regala freschezza a ogni forchettata. Cremosa, aromatica, perfetta così com’è. Provala questa settimana 🍋✨🧂"
+        },
+        "tiktok": {
+          "script": [
+            "Sciolgo le alici nell'olio caldo.",
+            "Aggiungo i pomodorini tagliati.",
+            "Butto la pasta integrale al dente.",
+            "Saltiamo tutto insieme, amalgamo bene.",
+            "Scorza di limone e pepe finale."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Cremosa, sapida, con quel profumo che ti svolta la cena. Pasta integrale, alici, pomodorini e un tocco di limone: il piatto che non sapevi di volere stasera.",
+            "Spaghetti integrali, alici sott'olio, pomodorini maturi e la scorza di un limone non trattato. Pochi ingredienti, ma ognuno deve essere perfetto.",
+            "Il gesto che fa la differenza: sciogli le alici nell'olio a fuoco dolce finché non si sfaldano. Questo è il cuore del condimento, lì nasce tutto il sapore.",
+            "Aggiungi i pomodorini tagliati, lasciali appassire, poi salta la pasta direttamente in padella con un filo d'acqua di cottura. Mantecatura rapida, cremosità assicurata.",
+            "Fuori dal fuoco: una grattugiata di scorza di limone fresco e una macinata di pepe nero. Il profumo sale subito. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Sciolgo le alici nell'olio caldo.",
+        "Aggiungo i pomodorini tagliati.",
+        "Butto la pasta integrale al dente.",
+        "Saltiamo tutto insieme, amalgamo bene.",
+        "Scorza di limone e pepe finale."
+      ],
+      "thread_text": [
+        "Cremosa, sapida, con quel profumo che ti svolta la cena. Pasta integrale, alici, pomodorini e un tocco di limone: il piatto che non sapevi di volere stasera.",
+        "Spaghetti integrali, alici sott'olio, pomodorini maturi e la scorza di un limone non trattato. Pochi ingredienti, ma ognuno deve essere perfetto.",
+        "Il gesto che fa la differenza: sciogli le alici nell'olio a fuoco dolce finché non si sfaldano. Questo è il cuore del condimento, lì nasce tutto il sapore.",
+        "Aggiungi i pomodorini tagliati, lasciali appassire, poi salta la pasta direttamente in padella con un filo d'acqua di cottura. Mantecatura rapida, cremosità assicurata.",
+        "Fuori dal fuoco: una grattugiata di scorza di limone fresco e una macinata di pepe nero. Il profumo sale subito. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta integrale cremosa alici e limone",
+          "description": "Un primo rapido, sano e saporito: la cremosità delle alici incontra la freschezza del limone.",
+          "visual_hint": "Piatto di pasta fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory lemon anchovy pasta"
+        },
+        {
+          "hook": "I protagonisti del piatto",
+          "description": "Alici, pomodorini, limone e spaghetti integrali: pochi ingredienti per un gusto autentico.",
+          "visual_hint": "Ingredienti in primo piano",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "anchovies tomatoes lemons",
+          "image": "https://images.pexels.com/photos/5602601/pexels-photo-5602601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sciogli le alici nell’olio",
+          "description": "Scalda l’olio, aggiungi le alici e mescola fino a scioglierle: il segreto per una crema saporita.",
+          "visual_hint": "Alici che si sciolgono in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "anchovies melting oil",
+          "image": "https://images.pexels.com/photos/6399822/pexels-photo-6399822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unisci pomodorini e pasta",
+          "description": "Aggiungi i pomodorini tagliati e la pasta integrale scolata al dente: salta il tutto a fuoco vivo.",
+          "visual_hint": "Pasta saltata con pomodorini",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tossing pasta cherry tomatoes",
+          "image": "https://images.pexels.com/photos/32318591/pexels-photo-32318591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scorza di limone e pepe finale",
+          "description": "Spegni il fuoco, grattugia la scorza di limone e macina pepe nero: freschezza e aroma in un gesto.",
+          "visual_hint": "Scorza di limone grattugiata sopra",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "lemon zest on pasta",
+          "image": "https://images.pexels.com/photos/6541815/pexels-photo-6541815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "alici",
+        "pomodorini",
+        "scorza di limone"
+      ],
+      "image": "https://www.giallozafferano.it/images/363-36381/Pasta-integrale-con-alici-pomodorini-e-scorza-di-limone_650x433_wm.jpg",
+      "savedAt": "2026-07-28T11:59:28.092Z",
+      "sourceId": "48fb021bf212fad3f82e0f2efa7ce3d9"
+    },
     {
       "schema_version": 2,
       "agent": "food",
