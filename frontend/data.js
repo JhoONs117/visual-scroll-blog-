@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-leaders-sign-statement-asking-the-government-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI leaders sign statement asking the government to do something about automated AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "pubDate": "2026-07-28T19:46:43.000Z",
+    "slides": [
+      "Why are AI leaders begging for regulation they once resisted?",
+      "Their own models now pose risks they cannot control alone.",
+      "They secretly fear losing public trust more than government rules.",
+      "You can now demand transparency before adopting any AI tool.",
+      "Audit your AI vendors next week—don't wait for laws."
+    ],
+    "thread_text": [
+      "1. They begged for it\n\nOpenAI and Google spent millions lobbying against AI regulation. Now their CEOs are asking governments to step in.",
+      "2. Why the flip?\n\nTheir own systems generate content they can't fully explain or control. One model hallucinated a fake legal case that cost a firm $50k.",
+      "3. The real fear\n\nPublic trust is cracking faster than any regulator could. A single viral failure could collapse adoption overnight.",
+      "4. You hold the power\n\nBefore you buy any AI tool, demand a transparency report. If they won't give it, they're hiding something.",
+      "5. Audit your vendors\n\nAsk your AI provider for a bias audit this week. If they can't show you one, switch."
+    ],
+    "video_script": [
+      "AI leaders once fought regulation.",
+      "Now they beg for it.",
+      "Their models are out of control.",
+      "They fear losing you more.",
+      "Demand transparency before you adopt."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They begged for it\n\nOpenAI and Google spent millions lobbying against AI regulation. Now their CEOs are asking governments to step in.",
+          "2. Why the flip?\n\nTheir own systems generate content they can't fully explain or control. One model hallucinated a fake legal case that cost a firm $50k.",
+          "3. The real fear\n\nPublic trust is cracking faster than any regulator could. A single viral failure could collapse adoption overnight.",
+          "4. You hold the power\n\nBefore you buy any AI tool, demand a transparency report. If they won't give it, they're hiding something.",
+          "5. Audit your vendors\n\nAsk your AI provider for a bias audit this week. If they can't show you one, switch."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI leaders once fought regulation.",
+          "Now they beg for it.",
+          "Their models are out of control.",
+          "They fear losing you more.",
+          "Demand transparency before you adopt."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI and Google spent millions lobbying against AI rules. Now their CEOs are begging the government to regulate them.  \n\nTheir own models hallucinated fake legal cases—costing one firm $50k. They cannot explain or control their own systems.  \n\nPublic trust is cracking. A single viral failure could collapse AI adoption overnight.  \n\nYou now hold the power: demand a transparency report before buying any AI tool.  \n\nWill you trust a system even its creators can’t fully explain? ⚖️🔍"
+      }
+    },
+    "instagram_caption": "OpenAI and Google spent millions lobbying against AI rules. Now their CEOs are begging the government to regulate them.  \n\nTheir own models hallucinated fake legal cases—costing one firm $50k. They cannot explain or control their own systems.  \n\nPublic trust is cracking. A single viral failure could collapse AI adoption overnight.  \n\nYou now hold the power: demand a transparency report before buying any AI tool.  \n\nWill you trust a system even its creators can’t fully explain? ⚖️🔍",
+    "carousel_slides": [
+      {
+        "hook": "They begged for regulation.",
+        "description": "AI leaders once fought regulation, now demand it. Their own models generate uncontrollable risks.",
+        "visual_hint": "CEO pleading at podium",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "speaker podium microphone"
+      },
+      {
+        "hook": "Why the sudden flip?",
+        "description": "Models hallucinate fake legal cases costing firms $50k. They can't explain or control their own systems.",
+        "visual_hint": "courtroom with robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "courtroom gavel robot",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Public trust is cracking.",
+        "description": "A single viral failure could collapse AI adoption overnight. Fear of losing users drives this plea.",
+        "visual_hint": "falling trust graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "falling bar chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You hold the power.",
+        "description": "Demand a transparency report before buying any AI tool. If they refuse, they're hiding flaws.",
+        "visual_hint": "hand holding document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding paper",
+        "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI vendors now.",
+        "description": "Ask your AI provider for a bias audit this week. No audit? Switch to a safer vendor.",
+        "visual_hint": "checklist with magnifier",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "clipboard magnifying glass",
+        "image": "https://images.pexels.com/photos/8927455/pexels-photo-8927455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-28T22:51:43.515Z",
+    "sourceId": "f22aa3b4b98bb653bd0cfe63964cae6b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-s-finally-expensive-enough-to-make-wall-street-",
     "prompt_version": "1.0.0",
     "status": "published",
