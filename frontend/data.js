@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "artists-are-lawyering-up-against-ai-slop-and-some-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Artists are lawyering up against AI slop, and some are even winning",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "pubDate": "2026-07-29T12:00:00.000Z",
+    "slides": [
+      "Artists are suing AI companies. Who is actually winning?",
+      "Judges are rejecting fair use as a blanket defense.",
+      "One lawsuit forced an AI model to delete its training data.",
+      "Now, artists can opt out—but the burden remains on them.",
+      "File one opt-out today. The law is shifting in your favor."
+    ],
+    "thread_text": [
+      "1. Who’s really winning?\n\nA judge just ruled an AI model must delete its training data. That never happened before.",
+      "2. Fair use isn’t a shield.\n\nCourts are rejecting blanket fair use defenses. Artists are winning early motions—that shifts the leverage.",
+      "3. One model lost its data.\n\nThe forced deletion sets a precedent. AI companies now face real risk of losing their core asset.",
+      "4. Opt-out exists—but it’s work.\n\nArtists can now opt out, but they have to file individually. The burden didn't move to the companies.",
+      "5. File one opt-out today.\n\nCheck if your work is in a training set. Submit one form. The law is tilting your way."
+    ],
+    "video_script": [
+      "AI just lost a lawsuit.",
+      "Fair use isn't a free pass.",
+      "One model had to delete data.",
+      "Opt-out works but you must act.",
+      "File your opt-out now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who’s really winning?\n\nA judge just ruled an AI model must delete its training data. That never happened before.",
+          "2. Fair use isn’t a shield.\n\nCourts are rejecting blanket fair use defenses. Artists are winning early motions—that shifts the leverage.",
+          "3. One model lost its data.\n\nThe forced deletion sets a precedent. AI companies now face real risk of losing their core asset.",
+          "4. Opt-out exists—but it’s work.\n\nArtists can now opt out, but they have to file individually. The burden didn't move to the companies.",
+          "5. File one opt-out today.\n\nCheck if your work is in a training set. Submit one form. The law is tilting your way."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI just lost a lawsuit.",
+          "Fair use isn't a free pass.",
+          "One model had to delete data.",
+          "Opt-out works but you must act.",
+          "File your opt-out now."
+        ]
+      },
+      "instagram": {
+        "caption": "A judge just forced an AI company to delete its training data—a first that shifts the leverage.  \n\nFair use is no longer a blanket defense. Courts are rejecting it, and artists are winning early motions.  \n\nThis means a lawsuit can now wipe out the core asset of an AI model. 🧑‍⚖️  \n\nYou can opt out of some training sets—but only if you file individually. The burden is still on you.  \n\nIs your work already scraped without your say? Check today and submit one form. 📄"
+      }
+    },
+    "instagram_caption": "A judge just forced an AI company to delete its training data—a first that shifts the leverage.  \n\nFair use is no longer a blanket defense. Courts are rejecting it, and artists are winning early motions.  \n\nThis means a lawsuit can now wipe out the core asset of an AI model. 🧑‍⚖️  \n\nYou can opt out of some training sets—but only if you file individually. The burden is still on you.  \n\nIs your work already scraped without your say? Check today and submit one form. 📄",
+    "carousel_slides": [
+      {
+        "hook": "AI must delete its data.",
+        "description": "A judge forced an AI model to delete its training data—this never happened before.",
+        "visual_hint": "Judge gavel and server",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "judge gavel"
+      },
+      {
+        "hook": "Fair use isn't a shield.",
+        "description": "Courts reject blanket fair use defenses. Artists win early motions, shifting leverage against AI companies.",
+        "visual_hint": "Court document rejection",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "courtroom empty",
+        "image": "https://images.pexels.com/photos/18845131/pexels-photo-18845131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A model lost its data.",
+        "description": "Forced deletion sets a precedent: AI companies now risk losing their core asset—training data.",
+        "visual_hint": "Deleting files on server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Opt-out exists, but it's work.",
+        "description": "Artists can opt out individually—the burden hasn't shifted to companies yet.",
+        "visual_hint": "Hand filling out form",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing form",
+        "image": "https://images.pexels.com/photos/7013911/pexels-photo-7013911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this—file an opt-out today.",
+        "description": "Check if your work is in a training set and submit one opt-out form. The law is tilting your way.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "visual_hint": "Click button on screen",
+        "image_query": "computer screen form",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-29T17:05:41.501Z",
+    "sourceId": "731f01c1c0e3d8ce8e2d8b20d1c68452"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "encore-ai-raises-30m-to-build-ai-agents-that-learn",
     "prompt_version": "1.0.0",
     "status": "published",
