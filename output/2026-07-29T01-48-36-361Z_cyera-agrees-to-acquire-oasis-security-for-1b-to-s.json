@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cyera-agrees-to-acquire-oasis-security-for-1b-to-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+  "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+  "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
+  "slides": [
+    "Can $1B fix AI agent security?",
+    "Cyera buys Oasis Security to fill a gap.",
+    "Most agents still ship with zero protection.",
+    "Your AI workforce now has a safety net.",
+    "Audit every agent's identity before deployment."
+  ],
+  "thread_text": [
+    "1. $1B still not enough?\n\nCyera just spent $1B acquiring Oasis Security to patch a critical gap: most AI agents ship with zero protection.",
+    "2. The missing layer\n\nAgent identity is the blind spot. Without it, attackers can impersonate your AI workforce.",
+    "3. No audit, no safety\n\nDeploy an agent today — it likely has no security checks. That’s the default.",
+    "4. Safety net arrives\n\nOasis brings identity verification for agents. Now every AI actor can be tracked before it acts.",
+    "5. Audit your next agent\n\nTake one agent you plan to deploy this week. Can you verify its identity before it runs?"
+  ],
+  "video_script": [
+    "One billion dollars for agent security.",
+    "Cyera bought Oasis to fix a gap.",
+    "Most agents ship with zero protection.",
+    "Now your AI workforce has a safety net.",
+    "Audit every agent's identity before deployment."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $1B still not enough?\n\nCyera just spent $1B acquiring Oasis Security to patch a critical gap: most AI agents ship with zero protection.",
+        "2. The missing layer\n\nAgent identity is the blind spot. Without it, attackers can impersonate your AI workforce.",
+        "3. No audit, no safety\n\nDeploy an agent today — it likely has no security checks. That’s the default.",
+        "4. Safety net arrives\n\nOasis brings identity verification for agents. Now every AI actor can be tracked before it acts.",
+        "5. Audit your next agent\n\nTake one agent you plan to deploy this week. Can you verify its identity before it runs?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One billion dollars for agent security.",
+        "Cyera bought Oasis to fix a gap.",
+        "Most agents ship with zero protection.",
+        "Now your AI workforce has a safety net.",
+        "Audit every agent's identity before deployment."
+      ]
+    },
+    "instagram": {
+      "caption": "Most AI agents you deploy today ship with zero security protection. 🛡️\n\nCyera just spent $1 billion acquiring Oasis Security to fix that. The missing layer isn't firewalls—it's agent identity. Without it, attackers impersonate your AI workforce. No audit, no safety.\n\nNow every AI actor can be tracked and verified before it acts. 💡\n\nTake one agent you plan to launch this week. Can you verify its identity before it runs a single command? 🔍"
+    }
+  },
+  "instagram_caption": "Most AI agents you deploy today ship with zero security protection. 🛡️\n\nCyera just spent $1 billion acquiring Oasis Security to fix that. The missing layer isn't firewalls—it's agent identity. Without it, attackers impersonate your AI workforce. No audit, no safety.\n\nNow every AI actor can be tracked and verified before it acts. 💡\n\nTake one agent you plan to launch this week. Can you verify its identity before it runs a single command? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Most AI agents ship unprotected.",
+      "description": "Cyera paid $1B to fix a critical blind spot: agent identity. Without it, attackers impersonate your AI workforce.",
+      "visual_hint": "Floating AI agents with shield",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center server"
+    },
+    {
+      "hook": "The missing security layer.",
+      "description": "Agent identity is the blind spot. Cyera buys Oasis Security to fill that gap and stop impersonation attacks.",
+      "visual_hint": "Locked digital doorway",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cybersecurity network",
+      "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deploy an agent with zero checks.",
+      "description": "That's the default today. Most agents ship without any security verification before they run.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "software code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI workforce gets a safety net.",
+      "description": "Oasis brings identity verification to every AI actor. Now each agent can be tracked before it acts.",
+      "visual_hint": "Hand holding glowing badge",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you verify your next agent?",
+      "description": "Take one agent you plan to deploy this week and audit its identity before it runs. Save this to act now.",
+      "visual_hint": "Checkmark on agent profile",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security badge icon",
+      "image": "https://images.pexels.com/photos/11074351/pexels-photo-11074351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+  "savedAt": "2026-07-29T01:48:47.598Z",
+  "sourceId": "992c30afce2094034702847305f07225"
+}

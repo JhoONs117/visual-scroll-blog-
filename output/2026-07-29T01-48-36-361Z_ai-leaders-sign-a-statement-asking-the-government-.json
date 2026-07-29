@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-leaders-sign-a-statement-asking-the-government-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI leaders sign a statement asking the government to do something about automated AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+  "pubDate": "2026-07-28T19:46:43.000Z",
+  "slides": [
+    "Who signs a warning against their own creation?",
+    "Top AI CEOs just did exactly that.",
+    "They themselves can't control what they built.",
+    "Now you must verify every output before trusting.",
+    "Test one critical AI decision today—do not delegate."
+  ],
+  "thread_text": [
+    "1. Who fears their own AI?\n\nCEOs of the top AI labs signed a statement comparing their own creation to nuclear war.",
+    "2. They admitted losing control.\n\nThe signers include Sam Altman and Demis Hassabis, the very people who built these systems.",
+    "3. The warning is literal.\n\nThe statement says the risk of extinction from AI should be a global priority, not a tech fix.",
+    "4. So every output is suspect.\n\nYou cannot trust any single AI answer without checking it against a known source.",
+    "5. Test one decision today.\n\nTake a real choice you made last week and ask ChatGPT to redo it. Then verify. Did it pass?"
+  ],
+  "video_script": [
+    "AI CEOs warn their own creation is unsafe.",
+    "They wrote the extinction risk letter themselves.",
+    "That means no AI output is trustworthy.",
+    "You must check every result before using it.",
+    "Test one critical AI decision today yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who fears their own AI?\n\nCEOs of the top AI labs signed a statement comparing their own creation to nuclear war.",
+        "2. They admitted losing control.\n\nThe signers include Sam Altman and Demis Hassabis, the very people who built these systems.",
+        "3. The warning is literal.\n\nThe statement says the risk of extinction from AI should be a global priority, not a tech fix.",
+        "4. So every output is suspect.\n\nYou cannot trust any single AI answer without checking it against a known source.",
+        "5. Test one decision today.\n\nTake a real choice you made last week and ask ChatGPT to redo it. Then verify. Did it pass?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI CEOs warn their own creation is unsafe.",
+        "They wrote the extinction risk letter themselves.",
+        "That means no AI output is trustworthy.",
+        "You must check every result before using it.",
+        "Test one critical AI decision today yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "The CEOs who built the most advanced AI systems just signed a statement comparing their own creation to nuclear war, saying they can't control it.\n\n🖊️ Sam Altman and Demis Hassabis formally warned that AI extinction risk is a global priority—not a bug to be fixed later. They literally admitted the danger.\n\n🧾 For your work, this means every AI output is untrustworthy unless you check it against a known source. Delegating a decision to AI is now a gamble with your own data.\n\nTake one real choice you made last week and ask an AI to redo it. Then verify the result against facts. Did it pass, or would you have posted a mistake?"
+    }
+  },
+  "instagram_caption": "The CEOs who built the most advanced AI systems just signed a statement comparing their own creation to nuclear war, saying they can't control it.\n\n🖊️ Sam Altman and Demis Hassabis formally warned that AI extinction risk is a global priority—not a bug to be fixed later. They literally admitted the danger.\n\n🧾 For your work, this means every AI output is untrustworthy unless you check it against a known source. Delegating a decision to AI is now a gamble with your own data.\n\nTake one real choice you made last week and ask an AI to redo it. Then verify the result against facts. Did it pass, or would you have posted a mistake?",
+  "carousel_slides": [
+    {
+      "hook": "They fear their own AI.",
+      "description": "Top AI CEOs signed a statement comparing AI risk to nuclear war.",
+      "visual_hint": "CEO signatures document",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "signature document closeup"
+    },
+    {
+      "hook": "Even creators lost control.",
+      "description": "Sam Altman and Demis Hassabis admit they cannot fully manage their systems.",
+      "visual_hint": "Two CEOs side by side",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Sam Altman Demis Hassabis",
+      "image": "https://images.pexels.com/photos/9619725/pexels-photo-9619725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Extinction is now the warning.",
+      "description": "The statement demands global priority, not just a tech fix.",
+      "visual_hint": "Global map with alert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "world map alert red",
+      "image": "https://images.pexels.com/photos/31824485/pexels-photo-31824485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust no single AI output.",
+      "description": "Every answer must be checked against a known source before use.",
+      "visual_hint": "Hand checking screen output",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing at screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI now—don't delegate.",
+      "description": "Ask ChatGPT to redo a real decision you made. Verify the result.",
+      "visual_hint": "ChatGPT decision test screenshot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "ChatGPT window question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-29T01:48:59.924Z",
+  "sourceId": "f22aa3b4b98bb653bd0cfe63964cae6b"
+}

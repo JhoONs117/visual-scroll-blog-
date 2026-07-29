@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-leaders-sign-a-statement-asking-the-government-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "pubDate": "2026-07-28T19:46:43.000Z",
+    "slides": [
+      "Who signs a warning against their own creation?",
+      "Top AI CEOs just did exactly that.",
+      "They themselves can't control what they built.",
+      "Now you must verify every output before trusting.",
+      "Test one critical AI decision today—do not delegate."
+    ],
+    "thread_text": [
+      "1. Who fears their own AI?\n\nCEOs of the top AI labs signed a statement comparing their own creation to nuclear war.",
+      "2. They admitted losing control.\n\nThe signers include Sam Altman and Demis Hassabis, the very people who built these systems.",
+      "3. The warning is literal.\n\nThe statement says the risk of extinction from AI should be a global priority, not a tech fix.",
+      "4. So every output is suspect.\n\nYou cannot trust any single AI answer without checking it against a known source.",
+      "5. Test one decision today.\n\nTake a real choice you made last week and ask ChatGPT to redo it. Then verify. Did it pass?"
+    ],
+    "video_script": [
+      "AI CEOs warn their own creation is unsafe.",
+      "They wrote the extinction risk letter themselves.",
+      "That means no AI output is trustworthy.",
+      "You must check every result before using it.",
+      "Test one critical AI decision today yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who fears their own AI?\n\nCEOs of the top AI labs signed a statement comparing their own creation to nuclear war.",
+          "2. They admitted losing control.\n\nThe signers include Sam Altman and Demis Hassabis, the very people who built these systems.",
+          "3. The warning is literal.\n\nThe statement says the risk of extinction from AI should be a global priority, not a tech fix.",
+          "4. So every output is suspect.\n\nYou cannot trust any single AI answer without checking it against a known source.",
+          "5. Test one decision today.\n\nTake a real choice you made last week and ask ChatGPT to redo it. Then verify. Did it pass?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI CEOs warn their own creation is unsafe.",
+          "They wrote the extinction risk letter themselves.",
+          "That means no AI output is trustworthy.",
+          "You must check every result before using it.",
+          "Test one critical AI decision today yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "The CEOs who built the most advanced AI systems just signed a statement comparing their own creation to nuclear war, saying they can't control it.\n\n🖊️ Sam Altman and Demis Hassabis formally warned that AI extinction risk is a global priority—not a bug to be fixed later. They literally admitted the danger.\n\n🧾 For your work, this means every AI output is untrustworthy unless you check it against a known source. Delegating a decision to AI is now a gamble with your own data.\n\nTake one real choice you made last week and ask an AI to redo it. Then verify the result against facts. Did it pass, or would you have posted a mistake?"
+      }
+    },
+    "instagram_caption": "The CEOs who built the most advanced AI systems just signed a statement comparing their own creation to nuclear war, saying they can't control it.\n\n🖊️ Sam Altman and Demis Hassabis formally warned that AI extinction risk is a global priority—not a bug to be fixed later. They literally admitted the danger.\n\n🧾 For your work, this means every AI output is untrustworthy unless you check it against a known source. Delegating a decision to AI is now a gamble with your own data.\n\nTake one real choice you made last week and ask an AI to redo it. Then verify the result against facts. Did it pass, or would you have posted a mistake?",
+    "carousel_slides": [
+      {
+        "hook": "They fear their own AI.",
+        "description": "Top AI CEOs signed a statement comparing AI risk to nuclear war.",
+        "visual_hint": "CEO signatures document",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "signature document closeup"
+      },
+      {
+        "hook": "Even creators lost control.",
+        "description": "Sam Altman and Demis Hassabis admit they cannot fully manage their systems.",
+        "visual_hint": "Two CEOs side by side",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Sam Altman Demis Hassabis",
+        "image": "https://images.pexels.com/photos/9619725/pexels-photo-9619725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Extinction is now the warning.",
+        "description": "The statement demands global priority, not just a tech fix.",
+        "visual_hint": "Global map with alert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "world map alert red",
+        "image": "https://images.pexels.com/photos/31824485/pexels-photo-31824485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust no single AI output.",
+        "description": "Every answer must be checked against a known source before use.",
+        "visual_hint": "Hand checking screen output",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing at screen",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test AI now—don't delegate.",
+        "description": "Ask ChatGPT to redo a real decision you made. Verify the result.",
+        "visual_hint": "ChatGPT decision test screenshot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "ChatGPT window question mark",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-29T01:48:59.924Z",
+    "sourceId": "f22aa3b4b98bb653bd0cfe63964cae6b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cyera-agrees-to-acquire-oasis-security-for-1b-to-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "pubDate": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "slides": [
+      "Can $1B fix AI agent security?",
+      "Cyera buys Oasis Security to fill a gap.",
+      "Most agents still ship with zero protection.",
+      "Your AI workforce now has a safety net.",
+      "Audit every agent's identity before deployment."
+    ],
+    "thread_text": [
+      "1. $1B still not enough?\n\nCyera just spent $1B acquiring Oasis Security to patch a critical gap: most AI agents ship with zero protection.",
+      "2. The missing layer\n\nAgent identity is the blind spot. Without it, attackers can impersonate your AI workforce.",
+      "3. No audit, no safety\n\nDeploy an agent today — it likely has no security checks. That’s the default.",
+      "4. Safety net arrives\n\nOasis brings identity verification for agents. Now every AI actor can be tracked before it acts.",
+      "5. Audit your next agent\n\nTake one agent you plan to deploy this week. Can you verify its identity before it runs?"
+    ],
+    "video_script": [
+      "One billion dollars for agent security.",
+      "Cyera bought Oasis to fix a gap.",
+      "Most agents ship with zero protection.",
+      "Now your AI workforce has a safety net.",
+      "Audit every agent's identity before deployment."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $1B still not enough?\n\nCyera just spent $1B acquiring Oasis Security to patch a critical gap: most AI agents ship with zero protection.",
+          "2. The missing layer\n\nAgent identity is the blind spot. Without it, attackers can impersonate your AI workforce.",
+          "3. No audit, no safety\n\nDeploy an agent today — it likely has no security checks. That’s the default.",
+          "4. Safety net arrives\n\nOasis brings identity verification for agents. Now every AI actor can be tracked before it acts.",
+          "5. Audit your next agent\n\nTake one agent you plan to deploy this week. Can you verify its identity before it runs?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One billion dollars for agent security.",
+          "Cyera bought Oasis to fix a gap.",
+          "Most agents ship with zero protection.",
+          "Now your AI workforce has a safety net.",
+          "Audit every agent's identity before deployment."
+        ]
+      },
+      "instagram": {
+        "caption": "Most AI agents you deploy today ship with zero security protection. 🛡️\n\nCyera just spent $1 billion acquiring Oasis Security to fix that. The missing layer isn't firewalls—it's agent identity. Without it, attackers impersonate your AI workforce. No audit, no safety.\n\nNow every AI actor can be tracked and verified before it acts. 💡\n\nTake one agent you plan to launch this week. Can you verify its identity before it runs a single command? 🔍"
+      }
+    },
+    "instagram_caption": "Most AI agents you deploy today ship with zero security protection. 🛡️\n\nCyera just spent $1 billion acquiring Oasis Security to fix that. The missing layer isn't firewalls—it's agent identity. Without it, attackers impersonate your AI workforce. No audit, no safety.\n\nNow every AI actor can be tracked and verified before it acts. 💡\n\nTake one agent you plan to launch this week. Can you verify its identity before it runs a single command? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Most AI agents ship unprotected.",
+        "description": "Cyera paid $1B to fix a critical blind spot: agent identity. Without it, attackers impersonate your AI workforce.",
+        "visual_hint": "Floating AI agents with shield",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center server"
+      },
+      {
+        "hook": "The missing security layer.",
+        "description": "Agent identity is the blind spot. Cyera buys Oasis Security to fill that gap and stop impersonation attacks.",
+        "visual_hint": "Locked digital doorway",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cybersecurity network",
+        "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deploy an agent with zero checks.",
+        "description": "That's the default today. Most agents ship without any security verification before they run.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "software code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI workforce gets a safety net.",
+        "description": "Oasis brings identity verification to every AI actor. Now each agent can be tracked before it acts.",
+        "visual_hint": "Hand holding glowing badge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you verify your next agent?",
+        "description": "Take one agent you plan to deploy this week and audit its identity before it runs. Save this to act now.",
+        "visual_hint": "Checkmark on agent profile",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "security badge icon",
+        "image": "https://images.pexels.com/photos/11074351/pexels-photo-11074351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "savedAt": "2026-07-29T01:48:47.598Z",
+    "sourceId": "992c30afce2094034702847305f07225"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-leaders-sign-statement-asking-the-government-to",
     "prompt_version": "1.0.0",
     "status": "published",
