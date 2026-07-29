@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-ai-overviews-become-more-common-in-search",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google AI Overviews become more common in search",
+  "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+  "pubDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+  "slides": [
+    "Google just made AI Overviews harder to avoid in search.",
+    "They now appear for far more queries than before.",
+    "But the change actually cuts organic click-through rates sharply.",
+    "Your site must now optimize for zero-click answers to stay visible.",
+    "Check your own queries today for unexpected AI summaries."
+  ],
+  "thread_text": [
+    "Your clicks just got cheaper.\n\nGoogle expanded AI Overviews to more searches. Early data shows organic click-through rates dropping by double digits.",
+    "Why visibility is the new trap.\n\nBeing the first result used to mean traffic. Now Google keeps users on its own page with AI summaries.",
+    "Zero-click is the new first place.\n\nYour site can still appear in the overview. But users get the answer without ever leaving Google.",
+    "Optimize for the snippet, not the click.\n\nRewrite content to answer questions directly. Use structured data and bullet points to win the AI summary slot.",
+    "Run your top 10 queries today.\n\nOpen an incognito window and search. Count how many show an AI box. That’s your new competition."
+  ],
+  "video_script": [
+    "Google made AI Overviews harder to avoid.",
+    "They appear in far more searches now.",
+    "This cuts organic click-through rates sharply.",
+    "Optimize your site for zero-click answers.",
+    "Check your own queries for AI summaries."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Your clicks just got cheaper.\n\nGoogle expanded AI Overviews to more searches. Early data shows organic click-through rates dropping by double digits.",
+        "Why visibility is the new trap.\n\nBeing the first result used to mean traffic. Now Google keeps users on its own page with AI summaries.",
+        "Zero-click is the new first place.\n\nYour site can still appear in the overview. But users get the answer without ever leaving Google.",
+        "Optimize for the snippet, not the click.\n\nRewrite content to answer questions directly. Use structured data and bullet points to win the AI summary slot.",
+        "Run your top 10 queries today.\n\nOpen an incognito window and search. Count how many show an AI box. That’s your new competition."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google made AI Overviews harder to avoid.",
+        "They appear in far more searches now.",
+        "This cuts organic click-through rates sharply.",
+        "Optimize your site for zero-click answers.",
+        "Check your own queries for AI summaries."
+      ]
+    },
+    "instagram": {
+      "caption": "Your organic search clicks just dropped by double digits.\n\nGoogle expanded AI Overviews to way more queries. The first result now keeps users on Google’s page instead of sending them to your site.🧠\n\nVisibility is the new trap. Being featured in the summary means zero-click answers.📉\n\nRewrite your content to win the snippet slot—structured data and direct bullet points.🏆\n\n🔥 Open an incognito window and search your top 10 queries. How many show an AI box?"
+    }
+  },
+  "instagram_caption": "Your organic search clicks just dropped by double digits.\n\nGoogle expanded AI Overviews to way more queries. The first result now keeps users on Google’s page instead of sending them to your site.🧠\n\nVisibility is the new trap. Being featured in the summary means zero-click answers.📉\n\nRewrite your content to win the snippet slot—structured data and direct bullet points.🏆\n\n🔥 Open an incognito window and search your top 10 queries. How many show an AI box?",
+  "carousel_slides": [
+    {
+      "hook": "Your clicks just got cheaper.",
+      "description": "Google expanded AI Overviews, causing organic click-through rates to drop by double digits.",
+      "visual_hint": "falling graph arrow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Visibility is the new trap.",
+      "description": "Being the first result used to mean traffic; now AI summaries keep users on Google's page.",
+      "visual_hint": "magnifying glass over website",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen search",
+      "image": "https://images.pexels.com/photos/5053987/pexels-photo-5053987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Zero-click is first place.",
+      "description": "Your site can appear in the overview, but users get answers without ever leaving Google.",
+      "visual_hint": "empty browser with checkmark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "search engine result page",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Optimize for the snippet.",
+      "description": "Rewrite content with structured data and bullet points to win the AI summary slot.",
+      "visual_hint": "hand editing text on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person typing laptop keyboard",
+      "image": "https://images.pexels.com/photos/7675861/pexels-photo-7675861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run your top 10 queries now.",
+      "description": "Open an incognito window, search your keywords, and count how many show an AI box.",
+      "visual_hint": "incognito browser window",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop incognito mode screen",
+      "image": "https://images.pexels.com/photos/30530411/pexels-photo-30530411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-29T22:52:53.039Z",
+  "sourceId": "6b8a55852aa9a46a6b0d970ac6c9368f"
+}

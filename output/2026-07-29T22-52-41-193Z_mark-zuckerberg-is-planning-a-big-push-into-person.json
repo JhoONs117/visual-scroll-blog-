@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mark-zuckerberg-is-planning-a-big-push-into-person",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+  "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+  "pubDate": "2026-07-29T21:48:07.000Z",
+  "slides": [
+    "Is Mark Zuckerberg about to replace your assistant?",
+    "Meta plans agents that act on your behalf",
+    "But these AI agents know your private data",
+    "You can offload decisions you hate making",
+    "Test one small task delegation by next week"
+  ],
+  "thread_text": [
+    "1. Is your data already exposed?\n\nMeta wants AI agents that act for you. That means your private messages, preferences, and habits will be fed directly into those bots.",
+    "2. They call it \"proactive assistance\"\n\nYou won't even ask for help — the agent will decide when to step in. And it will have access to every message and calendar entry you’ve ever shared.",
+    "3. You can offload decisions you hate\n\nLet the agent choose your restaurant or book your dentist. But every choice it makes is stored and analyzed — forever.",
+    "4. Privacy is the trade-off you never see\n\nTo act like you, the agent needs to be you. That means reading your DMs, your emails, your location history.",
+    "5. Test one small task delegation by next week\n\nHand over a single decision — like scheduling a coffee meeting — to an AI. Did it save you time? Or did you spend more fixing it?"
+  ],
+  "video_script": [
+    "Meta's AI agents want your private data.",
+    "They'll act for you without being asked.",
+    "You can offload boring decisions to them.",
+    "But they must read all your messages.",
+    "Try delegating one small task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is your data already exposed?\n\nMeta wants AI agents that act for you. That means your private messages, preferences, and habits will be fed directly into those bots.",
+        "2. They call it \"proactive assistance\"\n\nYou won't even ask for help — the agent will decide when to step in. And it will have access to every message and calendar entry you’ve ever shared.",
+        "3. You can offload decisions you hate\n\nLet the agent choose your restaurant or book your dentist. But every choice it makes is stored and analyzed — forever.",
+        "4. Privacy is the trade-off you never see\n\nTo act like you, the agent needs to be you. That means reading your DMs, your emails, your location history.",
+        "5. Test one small task delegation by next week\n\nHand over a single decision — like scheduling a coffee meeting — to an AI. Did it save you time? Or did you spend more fixing it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI agents want your private data.",
+        "They'll act for you without being asked.",
+        "You can offload boring decisions to them.",
+        "But they must read all your messages.",
+        "Try delegating one small task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta wants AI agents that read your private messages, calendar, and location to act on your behalf — without you even asking.\n\nThese bots are designed to offload decisions you hate, like booking appointments or choosing restaurants. But every choice they make is stored and analyzed forever.\n\nFor content creators: your private DMs, emails, and habits will train a bot that mimics your judgment — then hands those insights to Meta's servers.\n\nWhat one small task would you let an AI decide this week — and what data are you trading for that convenience? 🤖🔍💬"
+    }
+  },
+  "instagram_caption": "Meta wants AI agents that read your private messages, calendar, and location to act on your behalf — without you even asking.\n\nThese bots are designed to offload decisions you hate, like booking appointments or choosing restaurants. But every choice they make is stored and analyzed forever.\n\nFor content creators: your private DMs, emails, and habits will train a bot that mimics your judgment — then hands those insights to Meta's servers.\n\nWhat one small task would you let an AI decide this week — and what data are you trading for that convenience? 🤖🔍💬",
+  "carousel_slides": [
+    {
+      "hook": "Your data is already exposed?",
+      "description": "Meta plans AI agents that read your private messages and habits to act for you.",
+      "visual_hint": "phone with glowing data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen data"
+    },
+    {
+      "hook": "AI decides when to step in",
+      "description": "Proactive assistance means agents access every message and calendar entry you shared.",
+      "visual_hint": "calendar with alert icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "digital calendar interface",
+      "image": "https://images.pexels.com/photos/7327111/pexels-photo-7327111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Let AI choose your restaurant",
+      "description": "Offload decisions you hate, but every choice is stored and analyzed forever.",
+      "visual_hint": "fork and knife silhouette",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "restaurant table setting",
+      "image": "https://images.pexels.com/photos/17057009/pexels-photo-17057009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy is the invisible trade-off",
+      "description": "To act like you, agents read DMs, emails, and location history constantly.",
+      "visual_hint": "eye scanning a phone screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test delegation by next week",
+      "description": "Hand over one decision like scheduling coffee to see if it saves or wastes time.",
+      "visual_hint": "coffee cup beside calendar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coffee cup and calendar",
+      "image": "https://images.pexels.com/photos/5386751/pexels-photo-5386751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-29T22:53:28.610Z",
+  "sourceId": "169a6f9c3953f19a4f2240c0a2a1cef3"
+}

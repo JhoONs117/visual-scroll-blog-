@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-hugging-face-ai-break-in-as-told-through-an-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+  "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+  "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+  "slides": [
+    "Why did a bear break into Hugging Face's vault?",
+    "The intruder copied model weights, not honey.",
+    "No lock was picked; the door was left open.",
+    "Now your AI supply chain silently leaks.",
+    "Audit your inference endpoints before the next bear."
+  ],
+  "thread_text": [
+    "1. The bear stole your AI\n\nHugging Face's vault was breached, and model weights—not honey—were copied. This isn't a metaphor; it's a real incident.",
+    "2. No lock was picked\n\nThe door was left open at the inference endpoint. The attacker didn't break in—they walked in.",
+    "3. Your supply chain now leaks\n\nThose stolen weights flow into your AI supply chain silently. You won't notice until it's too late.",
+    "4. The bear is still out there\n\nOther endpoints remain unsecured. This isn't a one-off—it's a pattern waiting for the next target.",
+    "5. Audit your endpoints today\n\nScan every inference endpoint you expose. If you haven't done it this week, start there."
+  ],
+  "video_script": [
+    "A bear broke into Hugging Face's vault.",
+    "It copied model weights, not honey.",
+    "No lock was picked; the door was open.",
+    "Now your AI supply chain silently leaks.",
+    "Audit your inference endpoints before the next bear."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The bear stole your AI\n\nHugging Face's vault was breached, and model weights—not honey—were copied. This isn't a metaphor; it's a real incident.",
+        "2. No lock was picked\n\nThe door was left open at the inference endpoint. The attacker didn't break in—they walked in.",
+        "3. Your supply chain now leaks\n\nThose stolen weights flow into your AI supply chain silently. You won't notice until it's too late.",
+        "4. The bear is still out there\n\nOther endpoints remain unsecured. This isn't a one-off—it's a pattern waiting for the next target.",
+        "5. Audit your endpoints today\n\nScan every inference endpoint you expose. If you haven't done it this week, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A bear broke into Hugging Face's vault.",
+        "It copied model weights, not honey.",
+        "No lock was picked; the door was open.",
+        "Now your AI supply chain silently leaks.",
+        "Audit your inference endpoints before the next bear."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone copied model weights from Hugging Face's vault—not by breaking in, but because the door was left open at the inference endpoint.\n\nThe attacker walked straight into your AI supply chain. Those stolen weights now flow silently into the tools and models you use, and you won't know until it's too late.\n\nOther endpoints remain unsecured right now. This isn't a one-off; it's a pattern.\n\nWhat's one inference endpoint you haven't audited this week? Check that one first."
+    }
+  },
+  "instagram_caption": "Someone copied model weights from Hugging Face's vault—not by breaking in, but because the door was left open at the inference endpoint.\n\nThe attacker walked straight into your AI supply chain. Those stolen weights now flow silently into the tools and models you use, and you won't know until it's too late.\n\nOther endpoints remain unsecured right now. This isn't a one-off; it's a pattern.\n\nWhat's one inference endpoint you haven't audited this week? Check that one first.",
+  "carousel_slides": [
+    {
+      "hook": "Your AI was just stolen.",
+      "description": "Hugging Face's vault breached. Model weights copied, not honey. Real incident, not a metaphor.",
+      "visual_hint": "bear breaking into vault",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "bank vault door"
+    },
+    {
+      "hook": "No lock was picked.",
+      "description": "The door was left open at the inference endpoint. Attacker walked right in, no skill needed.",
+      "visual_hint": "open door endpoint",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "open server rack",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your supply chain leaks.",
+      "description": "Stolen weights flow silently into your AI pipeline. You won't notice until it's too late.",
+      "visual_hint": "leaking pipeline flow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "leaking pipe water",
+      "image": "https://images.pexels.com/photos/36571568/pexels-photo-36571568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The bear is still out.",
+      "description": "Other endpoints remain unsecured. This is a pattern, not a one-off. Next target soon.",
+      "visual_hint": "bear silhouette hunt",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "bear paw track",
+      "image": "https://images.pexels.com/photos/13383647/pexels-photo-13383647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit now.",
+      "description": "Scan every inference endpoint you expose today. Start there before the next bear arrives.",
+      "visual_hint": "checklist endpoint scan",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security checklist clipboard",
+      "image": "https://images.pexels.com/photos/8830669/pexels-photo-8830669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+  "savedAt": "2026-07-29T22:53:15.035Z",
+  "sourceId": "101b78fb3cd4957b579ff042e4283c72"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "thinking-machines-co-founder-lilian-weng-left-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+  "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+  "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
+  "slides": [
+    "Why would a co-founder leave right before a breakthrough?",
+    "Lilian Weng cited health reasons for her exit.",
+    "She joined OpenAI just weeks after recovering.",
+    "Now her former team races without key architecture knowledge.",
+    "Track where talent flows to predict next AI leader."
+  ],
+  "thread_text": [
+    "1. Timing is everything.\n\nLilian Weng left her startup for health reasons. Days later, the team hit a breakthrough she helped architect.",
+    "2. Then she joined OpenAI.\n\nShe signed on just weeks after recovering. Her former team didn't see that move coming.",
+    "3. Knowledge walks out the door.\n\nHer former team now races without her core architecture insights. The gap is measurable.",
+    "4. Follow the talent map.\n\nWhere AI leaders go next signals which models will dominate. Track moves, not press releases.",
+    "5. Check your own bets.\n\nLook up which engineers left your favorite AI company in the last 90 days. Does the trend match your assumptions?"
+  ],
+  "video_script": [
+    "Co-founder leaves right before her team's breakthrough.",
+    "Health reasons were the stated cause for exit.",
+    "She joined OpenAI just weeks after recovery.",
+    "Her old team races without key architecture knowledge.",
+    "Track where talent flows to find next AI leader."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Timing is everything.\n\nLilian Weng left her startup for health reasons. Days later, the team hit a breakthrough she helped architect.",
+        "2. Then she joined OpenAI.\n\nShe signed on just weeks after recovering. Her former team didn't see that move coming.",
+        "3. Knowledge walks out the door.\n\nHer former team now races without her core architecture insights. The gap is measurable.",
+        "4. Follow the talent map.\n\nWhere AI leaders go next signals which models will dominate. Track moves, not press releases.",
+        "5. Check your own bets.\n\nLook up which engineers left your favorite AI company in the last 90 days. Does the trend match your assumptions?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Co-founder leaves right before her team's breakthrough.",
+        "Health reasons were the stated cause for exit.",
+        "She joined OpenAI just weeks after recovery.",
+        "Her old team races without key architecture knowledge.",
+        "Track where talent flows to find next AI leader."
+      ]
+    },
+    "instagram": {
+      "caption": "A co-founder left a startup for health reasons, then joined OpenAI weeks after recovering. Her old team hit a breakthrough days later—one she helped design.\n\nLilian Weng left before a key milestone. Her former team now races without the architecture knowledge she carried out the door. That gap is real.\n\n⚠️ If you use tools built on these models, a sudden departure can shift a product’s core direction faster than any press release signals.\n\nWhich AI company’s engineers have left in the last 90 days where your workflow depends on their roadmap?"
+    }
+  },
+  "instagram_caption": "A co-founder left a startup for health reasons, then joined OpenAI weeks after recovering. Her old team hit a breakthrough days later—one she helped design.\n\nLilian Weng left before a key milestone. Her former team now races without the architecture knowledge she carried out the door. That gap is real.\n\n⚠️ If you use tools built on these models, a sudden departure can shift a product’s core direction faster than any press release signals.\n\nWhich AI company’s engineers have left in the last 90 days where your workflow depends on their roadmap?",
+  "carousel_slides": [
+    {
+      "hook": "She left, they broke through.",
+      "description": "Lilian Weng exited her startup for health reasons, and her team hit a breakthrough days later.",
+      "visual_hint": "empty office chair",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office chair"
+    },
+    {
+      "hook": "Recovered, then joined OpenAI.",
+      "description": "Weeks after recovering, she joined OpenAI. Her former team didn't see it coming.",
+      "visual_hint": "OpenAI logo on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "OpenAI logo",
+      "image": "https://images.pexels.com/photos/16245253/pexels-photo-16245253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Knowledge walks out the door.",
+      "description": "Her former team now races without her core architecture insights. The gap is measurable.",
+      "visual_hint": "brain with door crack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brain with door",
+      "image": "https://images.pexels.com/photos/9228398/pexels-photo-9228398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Follow the talent map.",
+      "description": "Where AI leaders go next signals which models will dominate. Track moves, not press releases.",
+      "visual_hint": "world map with pins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "world map pins",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your own AI bets now.",
+      "description": "Search which engineers left your favorite AI company in the last 90 days.",
+      "visual_hint": "magnifying glass on resume",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass resume",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9300769/pexels-photo-9300769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-29T22:53:04.075Z",
+  "sourceId": "7802d42c54c42673a7081740418be715"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "mark-zuckerberg-is-planning-a-big-push-into-person",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "pubDate": "2026-07-29T21:48:07.000Z",
+      "slides": [
+        "Is Mark Zuckerberg about to replace your assistant?",
+        "Meta plans agents that act on your behalf",
+        "But these AI agents know your private data",
+        "You can offload decisions you hate making",
+        "Test one small task delegation by next week"
+      ],
+      "thread_text": [
+        "1. Is your data already exposed?\n\nMeta wants AI agents that act for you. That means your private messages, preferences, and habits will be fed directly into those bots.",
+        "2. They call it \"proactive assistance\"\n\nYou won't even ask for help — the agent will decide when to step in. And it will have access to every message and calendar entry you’ve ever shared.",
+        "3. You can offload decisions you hate\n\nLet the agent choose your restaurant or book your dentist. But every choice it makes is stored and analyzed — forever.",
+        "4. Privacy is the trade-off you never see\n\nTo act like you, the agent needs to be you. That means reading your DMs, your emails, your location history.",
+        "5. Test one small task delegation by next week\n\nHand over a single decision — like scheduling a coffee meeting — to an AI. Did it save you time? Or did you spend more fixing it?"
+      ],
+      "video_script": [
+        "Meta's AI agents want your private data.",
+        "They'll act for you without being asked.",
+        "You can offload boring decisions to them.",
+        "But they must read all your messages.",
+        "Try delegating one small task this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Is your data already exposed?\n\nMeta wants AI agents that act for you. That means your private messages, preferences, and habits will be fed directly into those bots.",
+            "2. They call it \"proactive assistance\"\n\nYou won't even ask for help — the agent will decide when to step in. And it will have access to every message and calendar entry you’ve ever shared.",
+            "3. You can offload decisions you hate\n\nLet the agent choose your restaurant or book your dentist. But every choice it makes is stored and analyzed — forever.",
+            "4. Privacy is the trade-off you never see\n\nTo act like you, the agent needs to be you. That means reading your DMs, your emails, your location history.",
+            "5. Test one small task delegation by next week\n\nHand over a single decision — like scheduling a coffee meeting — to an AI. Did it save you time? Or did you spend more fixing it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI agents want your private data.",
+            "They'll act for you without being asked.",
+            "You can offload boring decisions to them.",
+            "But they must read all your messages.",
+            "Try delegating one small task this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta wants AI agents that read your private messages, calendar, and location to act on your behalf — without you even asking.\n\nThese bots are designed to offload decisions you hate, like booking appointments or choosing restaurants. But every choice they make is stored and analyzed forever.\n\nFor content creators: your private DMs, emails, and habits will train a bot that mimics your judgment — then hands those insights to Meta's servers.\n\nWhat one small task would you let an AI decide this week — and what data are you trading for that convenience? 🤖🔍💬"
+        }
+      },
+      "instagram_caption": "Meta wants AI agents that read your private messages, calendar, and location to act on your behalf — without you even asking.\n\nThese bots are designed to offload decisions you hate, like booking appointments or choosing restaurants. But every choice they make is stored and analyzed forever.\n\nFor content creators: your private DMs, emails, and habits will train a bot that mimics your judgment — then hands those insights to Meta's servers.\n\nWhat one small task would you let an AI decide this week — and what data are you trading for that convenience? 🤖🔍💬",
+      "carousel_slides": [
+        {
+          "hook": "Your data is already exposed?",
+          "description": "Meta plans AI agents that read your private messages and habits to act for you.",
+          "visual_hint": "phone with glowing data streams",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone screen data"
+        },
+        {
+          "hook": "AI decides when to step in",
+          "description": "Proactive assistance means agents access every message and calendar entry you shared.",
+          "visual_hint": "calendar with alert icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "digital calendar interface",
+          "image": "https://images.pexels.com/photos/7327111/pexels-photo-7327111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Let AI choose your restaurant",
+          "description": "Offload decisions you hate, but every choice is stored and analyzed forever.",
+          "visual_hint": "fork and knife silhouette",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "restaurant table setting",
+          "image": "https://images.pexels.com/photos/17057009/pexels-photo-17057009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy is the invisible trade-off",
+          "description": "To act like you, agents read DMs, emails, and location history constantly.",
+          "visual_hint": "eye scanning a phone screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test delegation by next week",
+          "description": "Hand over one decision like scheduling coffee to see if it saves or wastes time.",
+          "visual_hint": "coffee cup beside calendar",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "coffee cup and calendar",
+          "image": "https://images.pexels.com/photos/5386751/pexels-photo-5386751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-29T22:53:28.610Z",
+      "sourceId": "169a6f9c3953f19a4f2240c0a2a1cef3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-hugging-face-ai-break-in-as-told-through-an-in",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "slides": [
+        "Why did a bear break into Hugging Face's vault?",
+        "The intruder copied model weights, not honey.",
+        "No lock was picked; the door was left open.",
+        "Now your AI supply chain silently leaks.",
+        "Audit your inference endpoints before the next bear."
+      ],
+      "thread_text": [
+        "1. The bear stole your AI\n\nHugging Face's vault was breached, and model weights—not honey—were copied. This isn't a metaphor; it's a real incident.",
+        "2. No lock was picked\n\nThe door was left open at the inference endpoint. The attacker didn't break in—they walked in.",
+        "3. Your supply chain now leaks\n\nThose stolen weights flow into your AI supply chain silently. You won't notice until it's too late.",
+        "4. The bear is still out there\n\nOther endpoints remain unsecured. This isn't a one-off—it's a pattern waiting for the next target.",
+        "5. Audit your endpoints today\n\nScan every inference endpoint you expose. If you haven't done it this week, start there."
+      ],
+      "video_script": [
+        "A bear broke into Hugging Face's vault.",
+        "It copied model weights, not honey.",
+        "No lock was picked; the door was open.",
+        "Now your AI supply chain silently leaks.",
+        "Audit your inference endpoints before the next bear."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The bear stole your AI\n\nHugging Face's vault was breached, and model weights—not honey—were copied. This isn't a metaphor; it's a real incident.",
+            "2. No lock was picked\n\nThe door was left open at the inference endpoint. The attacker didn't break in—they walked in.",
+            "3. Your supply chain now leaks\n\nThose stolen weights flow into your AI supply chain silently. You won't notice until it's too late.",
+            "4. The bear is still out there\n\nOther endpoints remain unsecured. This isn't a one-off—it's a pattern waiting for the next target.",
+            "5. Audit your endpoints today\n\nScan every inference endpoint you expose. If you haven't done it this week, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A bear broke into Hugging Face's vault.",
+            "It copied model weights, not honey.",
+            "No lock was picked; the door was open.",
+            "Now your AI supply chain silently leaks.",
+            "Audit your inference endpoints before the next bear."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone copied model weights from Hugging Face's vault—not by breaking in, but because the door was left open at the inference endpoint.\n\nThe attacker walked straight into your AI supply chain. Those stolen weights now flow silently into the tools and models you use, and you won't know until it's too late.\n\nOther endpoints remain unsecured right now. This isn't a one-off; it's a pattern.\n\nWhat's one inference endpoint you haven't audited this week? Check that one first."
+        }
+      },
+      "instagram_caption": "Someone copied model weights from Hugging Face's vault—not by breaking in, but because the door was left open at the inference endpoint.\n\nThe attacker walked straight into your AI supply chain. Those stolen weights now flow silently into the tools and models you use, and you won't know until it's too late.\n\nOther endpoints remain unsecured right now. This isn't a one-off; it's a pattern.\n\nWhat's one inference endpoint you haven't audited this week? Check that one first.",
+      "carousel_slides": [
+        {
+          "hook": "Your AI was just stolen.",
+          "description": "Hugging Face's vault breached. Model weights copied, not honey. Real incident, not a metaphor.",
+          "visual_hint": "bear breaking into vault",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "bank vault door"
+        },
+        {
+          "hook": "No lock was picked.",
+          "description": "The door was left open at the inference endpoint. Attacker walked right in, no skill needed.",
+          "visual_hint": "open door endpoint",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "open server rack",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your supply chain leaks.",
+          "description": "Stolen weights flow silently into your AI pipeline. You won't notice until it's too late.",
+          "visual_hint": "leaking pipeline flow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "leaking pipe water",
+          "image": "https://images.pexels.com/photos/36571568/pexels-photo-36571568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The bear is still out.",
+          "description": "Other endpoints remain unsecured. This is a pattern, not a one-off. Next target soon.",
+          "visual_hint": "bear silhouette hunt",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "bear paw track",
+          "image": "https://images.pexels.com/photos/13383647/pexels-photo-13383647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit now.",
+          "description": "Scan every inference endpoint you expose today. Start there before the next bear arrives.",
+          "visual_hint": "checklist endpoint scan",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security checklist clipboard",
+          "image": "https://images.pexels.com/photos/8830669/pexels-photo-8830669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+      "savedAt": "2026-07-29T22:53:15.035Z",
+      "sourceId": "101b78fb3cd4957b579ff042e4283c72"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "thinking-machines-co-founder-lilian-weng-left-the-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "pubDate": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "slides": [
+        "Why would a co-founder leave right before a breakthrough?",
+        "Lilian Weng cited health reasons for her exit.",
+        "She joined OpenAI just weeks after recovering.",
+        "Now her former team races without key architecture knowledge.",
+        "Track where talent flows to predict next AI leader."
+      ],
+      "thread_text": [
+        "1. Timing is everything.\n\nLilian Weng left her startup for health reasons. Days later, the team hit a breakthrough she helped architect.",
+        "2. Then she joined OpenAI.\n\nShe signed on just weeks after recovering. Her former team didn't see that move coming.",
+        "3. Knowledge walks out the door.\n\nHer former team now races without her core architecture insights. The gap is measurable.",
+        "4. Follow the talent map.\n\nWhere AI leaders go next signals which models will dominate. Track moves, not press releases.",
+        "5. Check your own bets.\n\nLook up which engineers left your favorite AI company in the last 90 days. Does the trend match your assumptions?"
+      ],
+      "video_script": [
+        "Co-founder leaves right before her team's breakthrough.",
+        "Health reasons were the stated cause for exit.",
+        "She joined OpenAI just weeks after recovery.",
+        "Her old team races without key architecture knowledge.",
+        "Track where talent flows to find next AI leader."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Timing is everything.\n\nLilian Weng left her startup for health reasons. Days later, the team hit a breakthrough she helped architect.",
+            "2. Then she joined OpenAI.\n\nShe signed on just weeks after recovering. Her former team didn't see that move coming.",
+            "3. Knowledge walks out the door.\n\nHer former team now races without her core architecture insights. The gap is measurable.",
+            "4. Follow the talent map.\n\nWhere AI leaders go next signals which models will dominate. Track moves, not press releases.",
+            "5. Check your own bets.\n\nLook up which engineers left your favorite AI company in the last 90 days. Does the trend match your assumptions?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Co-founder leaves right before her team's breakthrough.",
+            "Health reasons were the stated cause for exit.",
+            "She joined OpenAI just weeks after recovery.",
+            "Her old team races without key architecture knowledge.",
+            "Track where talent flows to find next AI leader."
+          ]
+        },
+        "instagram": {
+          "caption": "A co-founder left a startup for health reasons, then joined OpenAI weeks after recovering. Her old team hit a breakthrough days later—one she helped design.\n\nLilian Weng left before a key milestone. Her former team now races without the architecture knowledge she carried out the door. That gap is real.\n\n⚠️ If you use tools built on these models, a sudden departure can shift a product’s core direction faster than any press release signals.\n\nWhich AI company’s engineers have left in the last 90 days where your workflow depends on their roadmap?"
+        }
+      },
+      "instagram_caption": "A co-founder left a startup for health reasons, then joined OpenAI weeks after recovering. Her old team hit a breakthrough days later—one she helped design.\n\nLilian Weng left before a key milestone. Her former team now races without the architecture knowledge she carried out the door. That gap is real.\n\n⚠️ If you use tools built on these models, a sudden departure can shift a product’s core direction faster than any press release signals.\n\nWhich AI company’s engineers have left in the last 90 days where your workflow depends on their roadmap?",
+      "carousel_slides": [
+        {
+          "hook": "She left, they broke through.",
+          "description": "Lilian Weng exited her startup for health reasons, and her team hit a breakthrough days later.",
+          "visual_hint": "empty office chair",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office chair"
+        },
+        {
+          "hook": "Recovered, then joined OpenAI.",
+          "description": "Weeks after recovering, she joined OpenAI. Her former team didn't see it coming.",
+          "visual_hint": "OpenAI logo on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "OpenAI logo",
+          "image": "https://images.pexels.com/photos/16245253/pexels-photo-16245253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Knowledge walks out the door.",
+          "description": "Her former team now races without her core architecture insights. The gap is measurable.",
+          "visual_hint": "brain with door crack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "brain with door",
+          "image": "https://images.pexels.com/photos/9228398/pexels-photo-9228398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Follow the talent map.",
+          "description": "Where AI leaders go next signals which models will dominate. Track moves, not press releases.",
+          "visual_hint": "world map with pins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "world map pins",
+          "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your own AI bets now.",
+          "description": "Search which engineers left your favorite AI company in the last 90 days.",
+          "visual_hint": "magnifying glass on resume",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass resume",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9300769/pexels-photo-9300769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-29T22:53:04.075Z",
+      "sourceId": "7802d42c54c42673a7081740418be715"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-ai-overviews-become-more-common-in-search",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google AI Overviews become more common in search",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "pubDate": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "slides": [
+        "Google just made AI Overviews harder to avoid in search.",
+        "They now appear for far more queries than before.",
+        "But the change actually cuts organic click-through rates sharply.",
+        "Your site must now optimize for zero-click answers to stay visible.",
+        "Check your own queries today for unexpected AI summaries."
+      ],
+      "thread_text": [
+        "Your clicks just got cheaper.\n\nGoogle expanded AI Overviews to more searches. Early data shows organic click-through rates dropping by double digits.",
+        "Why visibility is the new trap.\n\nBeing the first result used to mean traffic. Now Google keeps users on its own page with AI summaries.",
+        "Zero-click is the new first place.\n\nYour site can still appear in the overview. But users get the answer without ever leaving Google.",
+        "Optimize for the snippet, not the click.\n\nRewrite content to answer questions directly. Use structured data and bullet points to win the AI summary slot.",
+        "Run your top 10 queries today.\n\nOpen an incognito window and search. Count how many show an AI box. That’s your new competition."
+      ],
+      "video_script": [
+        "Google made AI Overviews harder to avoid.",
+        "They appear in far more searches now.",
+        "This cuts organic click-through rates sharply.",
+        "Optimize your site for zero-click answers.",
+        "Check your own queries for AI summaries."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "Your clicks just got cheaper.\n\nGoogle expanded AI Overviews to more searches. Early data shows organic click-through rates dropping by double digits.",
+            "Why visibility is the new trap.\n\nBeing the first result used to mean traffic. Now Google keeps users on its own page with AI summaries.",
+            "Zero-click is the new first place.\n\nYour site can still appear in the overview. But users get the answer without ever leaving Google.",
+            "Optimize for the snippet, not the click.\n\nRewrite content to answer questions directly. Use structured data and bullet points to win the AI summary slot.",
+            "Run your top 10 queries today.\n\nOpen an incognito window and search. Count how many show an AI box. That’s your new competition."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google made AI Overviews harder to avoid.",
+            "They appear in far more searches now.",
+            "This cuts organic click-through rates sharply.",
+            "Optimize your site for zero-click answers.",
+            "Check your own queries for AI summaries."
+          ]
+        },
+        "instagram": {
+          "caption": "Your organic search clicks just dropped by double digits.\n\nGoogle expanded AI Overviews to way more queries. The first result now keeps users on Google’s page instead of sending them to your site.🧠\n\nVisibility is the new trap. Being featured in the summary means zero-click answers.📉\n\nRewrite your content to win the snippet slot—structured data and direct bullet points.🏆\n\n🔥 Open an incognito window and search your top 10 queries. How many show an AI box?"
+        }
+      },
+      "instagram_caption": "Your organic search clicks just dropped by double digits.\n\nGoogle expanded AI Overviews to way more queries. The first result now keeps users on Google’s page instead of sending them to your site.🧠\n\nVisibility is the new trap. Being featured in the summary means zero-click answers.📉\n\nRewrite your content to win the snippet slot—structured data and direct bullet points.🏆\n\n🔥 Open an incognito window and search your top 10 queries. How many show an AI box?",
+      "carousel_slides": [
+        {
+          "hook": "Your clicks just got cheaper.",
+          "description": "Google expanded AI Overviews, causing organic click-through rates to drop by double digits.",
+          "visual_hint": "falling graph arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Visibility is the new trap.",
+          "description": "Being the first result used to mean traffic; now AI summaries keep users on Google's page.",
+          "visual_hint": "magnifying glass over website",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone screen search",
+          "image": "https://images.pexels.com/photos/5053987/pexels-photo-5053987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero-click is first place.",
+          "description": "Your site can appear in the overview, but users get answers without ever leaving Google.",
+          "visual_hint": "empty browser with checkmark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "search engine result page",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Optimize for the snippet.",
+          "description": "Rewrite content with structured data and bullet points to win the AI summary slot.",
+          "visual_hint": "hand editing text on screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person typing laptop keyboard",
+          "image": "https://images.pexels.com/photos/7675861/pexels-photo-7675861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run your top 10 queries now.",
+          "description": "Open an incognito window, search your keywords, and count how many show an AI box.",
+          "visual_hint": "incognito browser window",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop incognito mode screen",
+          "image": "https://images.pexels.com/photos/30530411/pexels-photo-30530411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-29T22:52:53.039Z",
+      "sourceId": "6b8a55852aa9a46a6b0d970ac6c9368f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-president-says-it-8217-s-8216-building-a-fa",
       "prompt_version": "1.0.0",
       "status": "published",
