@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-president-says-it-8217-s-8216-building-a-fa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+  "pubDate": "2026-07-29T18:15:02.000Z",
+  "slides": [
+    "What devices is OpenAI’s president building for AI?",
+    "The company moves beyond chatbots into hardware.",
+    "But they won’t reveal a single product yet.",
+    "Your next AI interaction could be without a screen.",
+    "Ask yourself: what can a device do your phone can't?"
+  ],
+  "thread_text": [
+    "1. What is OpenAI’s president building?\n\nOpenAI’s president is reportedly developing a new hardware device for AI — and it won’t have a screen.",
+    "2. A deliberate silence\n\nThe company hasn't revealed a single product image or spec. The strategy is to build anticipation before any launch.",
+    "3. Beyond chatbots\n\nThis move signals a shift from pure software to physical products. The device is designed for AI interaction without a phone or computer.",
+    "4. Why no screen?\n\nVoice-first interfaces could make AI more natural. Your next conversation with an AI might feel like talking to a person, not a machine.",
+    "5. Test your own limits\n\nTake your phone and try using only voice commands with ChatGPT for one hour. What do you miss? What feels freeing?"
+  ],
+  "video_script": [
+    "OpenAI's president is building secret AI hardware.",
+    "No screen, no product details revealed yet.",
+    "This is a shift from chatbots to physical devices.",
+    "Your next AI could be voice-only interaction.",
+    "Ask what a device can do your phone cannot."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What is OpenAI’s president building?\n\nOpenAI’s president is reportedly developing a new hardware device for AI — and it won’t have a screen.",
+        "2. A deliberate silence\n\nThe company hasn't revealed a single product image or spec. The strategy is to build anticipation before any launch.",
+        "3. Beyond chatbots\n\nThis move signals a shift from pure software to physical products. The device is designed for AI interaction without a phone or computer.",
+        "4. Why no screen?\n\nVoice-first interfaces could make AI more natural. Your next conversation with an AI might feel like talking to a person, not a machine.",
+        "5. Test your own limits\n\nTake your phone and try using only voice commands with ChatGPT for one hour. What do you miss? What feels freeing?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's president is building secret AI hardware.",
+        "No screen, no product details revealed yet.",
+        "This is a shift from chatbots to physical devices.",
+        "Your next AI could be voice-only interaction.",
+        "Ask what a device can do your phone cannot."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s president confirmed they are building a “family of devices” for AI interaction—and at least one of them won’t have a screen. 🗣️\n\nAfter months of speculation, the company officially moves from pure software into hardware, but they’ve shown zero product images or specs yet. This silence is by design: they want to build anticipation before revealing anything.\n\nFor creators who rely on ChatGPT for workflows, this means your next tool might ditch keyboards entirely in favor of voice-only commands. 📴\n\nTake your phone and try using only voice with ChatGPT for one hour. What do you miss—and what feels more natural?"
+    }
+  },
+  "instagram_caption": "OpenAI’s president confirmed they are building a “family of devices” for AI interaction—and at least one of them won’t have a screen. 🗣️\n\nAfter months of speculation, the company officially moves from pure software into hardware, but they’ve shown zero product images or specs yet. This silence is by design: they want to build anticipation before revealing anything.\n\nFor creators who rely on ChatGPT for workflows, this means your next tool might ditch keyboards entirely in favor of voice-only commands. 📴\n\nTake your phone and try using only voice with ChatGPT for one hour. What do you miss—and what feels more natural?",
+  "carousel_slides": [
+    {
+      "hook": "What if AI had no screen?",
+      "description": "OpenAI’s president is building a voice-first device that ditches screens entirely.",
+      "visual_hint": "Minimalist white device floating",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "white minimalist device"
+    },
+    {
+      "hook": "Silence builds the hype.",
+      "description": "No product images or specs yet — the strategy is deliberate anticipation before launch.",
+      "visual_hint": "Blurred product silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "blurred product silhouette",
+      "image": "https://images.pexels.com/photos/10184419/pexels-photo-10184419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From software to hardware.",
+      "description": "OpenAI is shifting from chatbots to physical objects, moving AI beyond phones and computers.",
+      "visual_hint": "Circuit board with glowing core",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board glowing",
+      "image": "https://images.pexels.com/photos/8108714/pexels-photo-8108714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Talk to AI like a person.",
+      "description": "Voice-first design makes conversations with AI feel natural, not robotic.",
+      "visual_hint": "Person speaking to device",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person talking to device",
+      "image": "https://images.pexels.com/photos/7188823/pexels-photo-7188823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it yourself today.",
+      "description": "Use only ChatGPT voice commands for one hour — notice what you miss and what feels freeing.",
+      "visual_hint": "Phone with voice waveform",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone voice interface",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+  "savedAt": "2026-07-29T18:59:33.940Z",
+  "sourceId": "68c8dce4daf83e4ffab413e91752c1b3"
+}
