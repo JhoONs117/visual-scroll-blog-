@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-ai-content-floods-the-internet-pangram-raises-9",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+  "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+  "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+  "slides": [
+    "Could a startup unmask every AI-written text?",
+    "Pangram just raised $9 million for detection.",
+    "Most detectors fail on rewritten or translated content.",
+    "This tool flags AI even after human editing.",
+    "Test your own content today to see its blind spots."
+  ],
+  "thread_text": [
+    "1. Can AI hide from AI?\n\nPangram just raised $9 million to find AI-written texts — but most tools fail on rewritten or translated content.",
+    "2. The real blind spot\n\nEven after heavy human editing, this new tool catches AI traces. Rewriting isn't safe.",
+    "3. What costs $9M?\n\nThe detection market is booming because businesses can't trust simple checks. Empty bluff costs money.",
+    "4. The cat-and-mouse game\n\nIf AI rewrites itself, detectors fight an endless upgrade loop. Tomorrow's model beats today's checker.",
+    "5. Test your own text now\n\nTake a recent post you wrote and run it through their demo. What slips through? That's your risk."
+  ],
+  "video_script": [
+    "A startup raised nine million to detect AI text.",
+    "Most detectors fail on rewritten or translated content.",
+    "But this tool flags AI even after editing.",
+    "The cat-and-mouse game keeps accelerating.",
+    "Test your own content to see blind spots."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can AI hide from AI?\n\nPangram just raised $9 million to find AI-written texts — but most tools fail on rewritten or translated content.",
+        "2. The real blind spot\n\nEven after heavy human editing, this new tool catches AI traces. Rewriting isn't safe.",
+        "3. What costs $9M?\n\nThe detection market is booming because businesses can't trust simple checks. Empty bluff costs money.",
+        "4. The cat-and-mouse game\n\nIf AI rewrites itself, detectors fight an endless upgrade loop. Tomorrow's model beats today's checker.",
+        "5. Test your own text now\n\nTake a recent post you wrote and run it through their demo. What slips through? That's your risk."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A startup raised nine million to detect AI text.",
+        "Most detectors fail on rewritten or translated content.",
+        "But this tool flags AI even after editing.",
+        "The cat-and-mouse game keeps accelerating.",
+        "Test your own content to see blind spots."
+      ]
+    },
+    "instagram": {
+      "caption": "$9M bet: most AI detectors can’t spot rewritten or translated text 🎯\n\nPangram just raised that cash for a tool that catches AI traces even after heavy human editing. Simple checks are useless—businesses lose money on fake content that slips through.\n\nRewriting isn’t safe anymore. If you publish or pay for content, your trust just got a new blind spot.\n\nTake a post you wrote last week. Run it through their demo. What sneaks past? That’s your exposure now 🤔"
+    }
+  },
+  "instagram_caption": "$9M bet: most AI detectors can’t spot rewritten or translated text 🎯\n\nPangram just raised that cash for a tool that catches AI traces even after heavy human editing. Simple checks are useless—businesses lose money on fake content that slips through.\n\nRewriting isn’t safe anymore. If you publish or pay for content, your trust just got a new blind spot.\n\nTake a post you wrote last week. Run it through their demo. What sneaks past? That’s your exposure now 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can AI hide from AI?",
+      "description": "Pangram raised $9M to detect AI text, but most tools fail on rewritten or translated content.",
+      "visual_hint": "Magnifying glass on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen code"
+    },
+    {
+      "hook": "Rewriting isn't safe anymore.",
+      "description": "Even after heavy human editing, this new tool still catches AI traces. Blind spots shrink.",
+      "visual_hint": "Edited document with highlights",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "document paper text",
+      "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Detection market heats up.",
+      "description": "Businesses can't trust simple checks. $9M shows the cost of catching AI fakery.",
+      "visual_hint": "Rising graph with dollar sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Endless upgrade loop.",
+      "description": "If AI rewrites itself, detectors must upgrade constantly. Tomorrow's model beats today's checker.",
+      "visual_hint": "Two robots facing each other",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your own post now.",
+      "description": "Run a recent post through Pangram's demo. Find what slips through and see your risk.",
+      "visual_hint": "Smartphone with demo screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone hand typing",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+  "savedAt": "2026-07-29T11:55:15.616Z",
+  "sourceId": "0fa1628d1c41cbaef01de5accdfefda8"
+}

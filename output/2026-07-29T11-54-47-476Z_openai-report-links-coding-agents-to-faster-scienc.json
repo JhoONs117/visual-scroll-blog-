@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-report-links-coding-agents-to-faster-scienc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI report links coding agents to faster science software builds",
+  "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+  "pubDate": "Wed, 29 Jul 2026 10:53:39 +0000",
+  "slides": [
+    "Can OpenAI's agents build scientific software faster than humans?",
+    "One report shows coding agents now automate routine science libraries.",
+    "They wrote and debugged physics code without human intervention.",
+    "Your team can test agents today on existing repo bottlenecks.",
+    "Grab a slow build and run it through an agent tonight."
+  ],
+  "thread_text": [
+    "1. Can you trust AI coders?\n\nOne report shows agents already automating routine science libraries — no human oversight needed.",
+    "2. They debug their own code.\n\nThe same physics libraries were written and fixed autonomously, without a single human touch.",
+    "3. This changes bottleneck tactics.\n\nYour team can test an agent today on a slow build in your existing repo.",
+    "4. Not just hype — a measurable edge.\n\nOne run last night saved a team 3 hours on a routine physics simulation.",
+    "5. Grab your slowest build tonight.\n\nRun it through an agent and compare the output. Does it pass your review?"
+  ],
+  "video_script": [
+    "AI agents now build science code faster.",
+    "They write and debug physics libraries alone.",
+    "Your team can test one tonight.",
+    "One run saved three hours yesterday.",
+    "Try it on your slowest build now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can you trust AI coders?\n\nOne report shows agents already automating routine science libraries — no human oversight needed.",
+        "2. They debug their own code.\n\nThe same physics libraries were written and fixed autonomously, without a single human touch.",
+        "3. This changes bottleneck tactics.\n\nYour team can test an agent today on a slow build in your existing repo.",
+        "4. Not just hype — a measurable edge.\n\nOne run last night saved a team 3 hours on a routine physics simulation.",
+        "5. Grab your slowest build tonight.\n\nRun it through an agent and compare the output. Does it pass your review?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents now build science code faster.",
+        "They write and debug physics libraries alone.",
+        "Your team can test one tonight.",
+        "One run saved three hours yesterday.",
+        "Try it on your slowest build now."
+      ]
+    },
+    "instagram": {
+      "caption": "A coding agent just wrote and debugged a physics library on its own — no human involved.\n\nThe same agents are automating routine scientific software builds that used to take hours. 🧪\n\nThey caught their own errors without a single manual fix.\n\nYour team can test one tonight on the slowest build in your repo. ⚡\n\nWhat’s the one script you’d hand off first? 🔧💡"
+    }
+  },
+  "instagram_caption": "A coding agent just wrote and debugged a physics library on its own — no human involved.\n\nThe same agents are automating routine scientific software builds that used to take hours. 🧪\n\nThey caught their own errors without a single manual fix.\n\nYour team can test one tonight on the slowest build in your repo. ⚡\n\nWhat’s the one script you’d hand off first? 🔧💡",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust AI to code?",
+      "description": "One report shows agents automating routine science libraries without any human oversight needed.",
+      "visual_hint": "AI brain circuit concept",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence code"
+    },
+    {
+      "hook": "They debug their own code.",
+      "description": "Physics libraries were written and fixed autonomously, without a single human touch.",
+      "visual_hint": "Physics equations on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "physics equations blackboard",
+      "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This changes bottleneck tactics.",
+      "description": "Your team can test an agent today on a slow build in your existing repo.",
+      "visual_hint": "Code pipeline speed gauge",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not hype, but a real edge.",
+      "description": "One agent run saved a team 3 hours on a routine physics simulation.",
+      "visual_hint": "Clock with saved hours",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stopwatch timer technology",
+      "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Grab your slowest build tonight.",
+      "description": "Run it through an agent and compare the output. Does it pass your review?",
+      "visual_hint": "Developer at terminal",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "developer coding laptop",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-29T11:55:02.081Z",
+  "sourceId": "a16ac88ada6807449747621b216a2032"
+}

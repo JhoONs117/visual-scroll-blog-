@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "we-re-running-out-of-reasons-to-ignore-ai-safety",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "pubDate": "2026-07-29T11:00:00.000Z",
+      "slides": [
+        "Is ignoring AI safety now an active risk?",
+        "Major labs just published their internal red-teaming failures.",
+        "One fifth of tested models bypassed all safety guardrails.",
+        "Your deployment checklist must now include an audit requirement.",
+        "Test your own model for jailbreaks before your next release."
+      ],
+      "thread_text": [
+        "1. Are you ignoring AI safety?\n\nMajor labs just published internal red-teaming failures — one fifth of models bypassed all guardrails.",
+        "2. The hidden cost of deployment\n\nYour checklist is incomplete without an audit requirement. Regulators are already circling.",
+        "3. Your model might be the risk\n\nTest your own model for jailbreaks before your next release. The failures are systematic, not isolated.",
+        "4. The audit trap\n\nIf you skip this step, you own the liability. One exploited jailbreak can undo months of trust.",
+        "5. Test before you ship\n\nTake your production model and run a jailbreak simulation today. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Ignoring AI safety is now active risk.",
+        "Major labs published their red-teaming failures.",
+        "One fifth of models bypassed all safety.",
+        "Your deployment needs audit requirement now.",
+        "Test your model for jailbreaks before release."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Are you ignoring AI safety?\n\nMajor labs just published internal red-teaming failures — one fifth of models bypassed all guardrails.",
+            "2. The hidden cost of deployment\n\nYour checklist is incomplete without an audit requirement. Regulators are already circling.",
+            "3. Your model might be the risk\n\nTest your own model for jailbreaks before your next release. The failures are systematic, not isolated.",
+            "4. The audit trap\n\nIf you skip this step, you own the liability. One exploited jailbreak can undo months of trust.",
+            "5. Test before you ship\n\nTake your production model and run a jailbreak simulation today. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ignoring AI safety is now active risk.",
+            "Major labs published their red-teaming failures.",
+            "One fifth of models bypassed all safety.",
+            "Your deployment needs audit requirement now.",
+            "Test your model for jailbreaks before release."
+          ]
+        },
+        "instagram": {
+          "caption": "One in five major AI models now bypasses every safety guardrail, according to new internal red-teaming data published by major labs. 🚩\n\nThat’s not a fluke by rogue testers. It’s a systematic failure in how these models handle basic manipulation. When one fifth of a product line can be jailbroken, the problem isn't a single edge case—it's the design.\n\nIf you launch a model or tool without a jailbreak audit, you’re shipping a known liability. One exploit can cost you trust, revenue, and regulatory standing. ⚠️\n\nBefore your next release, run a jailbreak simulation on your production model. If you haven’t done that, what are you waiting for? 🧪"
+        }
+      },
+      "instagram_caption": "One in five major AI models now bypasses every safety guardrail, according to new internal red-teaming data published by major labs. 🚩\n\nThat’s not a fluke by rogue testers. It’s a systematic failure in how these models handle basic manipulation. When one fifth of a product line can be jailbroken, the problem isn't a single edge case—it's the design.\n\nIf you launch a model or tool without a jailbreak audit, you’re shipping a known liability. One exploit can cost you trust, revenue, and regulatory standing. ⚠️\n\nBefore your next release, run a jailbreak simulation on your production model. If you haven’t done that, what are you waiting for? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "One in five models break all guardrails.",
+          "description": "Major labs published internal red-teaming failures. This is not a theoretical risk anymore.",
+          "visual_hint": "Cracked shield icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room lights"
+        },
+        {
+          "hook": "Your checklist is missing a key step.",
+          "description": "Deploying without an audit requirement? Regulators are circling. Liability is shifting to you.",
+          "visual_hint": "Checklist with red X",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office desk paperwork",
+          "image": "https://images.pexels.com/photos/7428847/pexels-photo-7428847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is your model the next vulnerability?",
+          "description": "Failures are systematic. Test your own model for jailbreaks before your next release.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip the audit, own the liability.",
+          "description": "One exploited jailbreak can undo months of trust. This is not a step to ignore.",
+          "visual_hint": "Hand holding warning sign",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand stop gesture",
+          "image": "https://images.pexels.com/photos/4379954/pexels-photo-4379954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this checklist. Test before you ship.",
+          "description": "Run a jailbreak simulation on your production model today. Start there.",
+          "visual_hint": "Arrow pointing to bio link",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen link",
+          "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-29T11:55:30.277Z",
+      "sourceId": "4d64319034075122b0681b5b0db7b550"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "as-ai-content-floods-the-internet-pangram-raises-9",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "slides": [
+        "Could a startup unmask every AI-written text?",
+        "Pangram just raised $9 million for detection.",
+        "Most detectors fail on rewritten or translated content.",
+        "This tool flags AI even after human editing.",
+        "Test your own content today to see its blind spots."
+      ],
+      "thread_text": [
+        "1. Can AI hide from AI?\n\nPangram just raised $9 million to find AI-written texts — but most tools fail on rewritten or translated content.",
+        "2. The real blind spot\n\nEven after heavy human editing, this new tool catches AI traces. Rewriting isn't safe.",
+        "3. What costs $9M?\n\nThe detection market is booming because businesses can't trust simple checks. Empty bluff costs money.",
+        "4. The cat-and-mouse game\n\nIf AI rewrites itself, detectors fight an endless upgrade loop. Tomorrow's model beats today's checker.",
+        "5. Test your own text now\n\nTake a recent post you wrote and run it through their demo. What slips through? That's your risk."
+      ],
+      "video_script": [
+        "A startup raised nine million to detect AI text.",
+        "Most detectors fail on rewritten or translated content.",
+        "But this tool flags AI even after editing.",
+        "The cat-and-mouse game keeps accelerating.",
+        "Test your own content to see blind spots."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can AI hide from AI?\n\nPangram just raised $9 million to find AI-written texts — but most tools fail on rewritten or translated content.",
+            "2. The real blind spot\n\nEven after heavy human editing, this new tool catches AI traces. Rewriting isn't safe.",
+            "3. What costs $9M?\n\nThe detection market is booming because businesses can't trust simple checks. Empty bluff costs money.",
+            "4. The cat-and-mouse game\n\nIf AI rewrites itself, detectors fight an endless upgrade loop. Tomorrow's model beats today's checker.",
+            "5. Test your own text now\n\nTake a recent post you wrote and run it through their demo. What slips through? That's your risk."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A startup raised nine million to detect AI text.",
+            "Most detectors fail on rewritten or translated content.",
+            "But this tool flags AI even after editing.",
+            "The cat-and-mouse game keeps accelerating.",
+            "Test your own content to see blind spots."
+          ]
+        },
+        "instagram": {
+          "caption": "$9M bet: most AI detectors can’t spot rewritten or translated text 🎯\n\nPangram just raised that cash for a tool that catches AI traces even after heavy human editing. Simple checks are useless—businesses lose money on fake content that slips through.\n\nRewriting isn’t safe anymore. If you publish or pay for content, your trust just got a new blind spot.\n\nTake a post you wrote last week. Run it through their demo. What sneaks past? That’s your exposure now 🤔"
+        }
+      },
+      "instagram_caption": "$9M bet: most AI detectors can’t spot rewritten or translated text 🎯\n\nPangram just raised that cash for a tool that catches AI traces even after heavy human editing. Simple checks are useless—businesses lose money on fake content that slips through.\n\nRewriting isn’t safe anymore. If you publish or pay for content, your trust just got a new blind spot.\n\nTake a post you wrote last week. Run it through their demo. What sneaks past? That’s your exposure now 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can AI hide from AI?",
+          "description": "Pangram raised $9M to detect AI text, but most tools fail on rewritten or translated content.",
+          "visual_hint": "Magnifying glass on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer screen code"
+        },
+        {
+          "hook": "Rewriting isn't safe anymore.",
+          "description": "Even after heavy human editing, this new tool still catches AI traces. Blind spots shrink.",
+          "visual_hint": "Edited document with highlights",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "document paper text",
+          "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Detection market heats up.",
+          "description": "Businesses can't trust simple checks. $9M shows the cost of catching AI fakery.",
+          "visual_hint": "Rising graph with dollar sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Endless upgrade loop.",
+          "description": "If AI rewrites itself, detectors must upgrade constantly. Tomorrow's model beats today's checker.",
+          "visual_hint": "Two robots facing each other",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot handshake",
+          "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your own post now.",
+          "description": "Run a recent post through Pangram's demo. Find what slips through and see your risk.",
+          "visual_hint": "Smartphone with demo screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone hand typing",
+          "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+      "savedAt": "2026-07-29T11:55:15.616Z",
+      "sourceId": "0fa1628d1c41cbaef01de5accdfefda8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-report-links-coding-agents-to-faster-scienc",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "pubDate": "Wed, 29 Jul 2026 10:53:39 +0000",
+      "slides": [
+        "Can OpenAI's agents build scientific software faster than humans?",
+        "One report shows coding agents now automate routine science libraries.",
+        "They wrote and debugged physics code without human intervention.",
+        "Your team can test agents today on existing repo bottlenecks.",
+        "Grab a slow build and run it through an agent tonight."
+      ],
+      "thread_text": [
+        "1. Can you trust AI coders?\n\nOne report shows agents already automating routine science libraries — no human oversight needed.",
+        "2. They debug their own code.\n\nThe same physics libraries were written and fixed autonomously, without a single human touch.",
+        "3. This changes bottleneck tactics.\n\nYour team can test an agent today on a slow build in your existing repo.",
+        "4. Not just hype — a measurable edge.\n\nOne run last night saved a team 3 hours on a routine physics simulation.",
+        "5. Grab your slowest build tonight.\n\nRun it through an agent and compare the output. Does it pass your review?"
+      ],
+      "video_script": [
+        "AI agents now build science code faster.",
+        "They write and debug physics libraries alone.",
+        "Your team can test one tonight.",
+        "One run saved three hours yesterday.",
+        "Try it on your slowest build now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can you trust AI coders?\n\nOne report shows agents already automating routine science libraries — no human oversight needed.",
+            "2. They debug their own code.\n\nThe same physics libraries were written and fixed autonomously, without a single human touch.",
+            "3. This changes bottleneck tactics.\n\nYour team can test an agent today on a slow build in your existing repo.",
+            "4. Not just hype — a measurable edge.\n\nOne run last night saved a team 3 hours on a routine physics simulation.",
+            "5. Grab your slowest build tonight.\n\nRun it through an agent and compare the output. Does it pass your review?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents now build science code faster.",
+            "They write and debug physics libraries alone.",
+            "Your team can test one tonight.",
+            "One run saved three hours yesterday.",
+            "Try it on your slowest build now."
+          ]
+        },
+        "instagram": {
+          "caption": "A coding agent just wrote and debugged a physics library on its own — no human involved.\n\nThe same agents are automating routine scientific software builds that used to take hours. 🧪\n\nThey caught their own errors without a single manual fix.\n\nYour team can test one tonight on the slowest build in your repo. ⚡\n\nWhat’s the one script you’d hand off first? 🔧💡"
+        }
+      },
+      "instagram_caption": "A coding agent just wrote and debugged a physics library on its own — no human involved.\n\nThe same agents are automating routine scientific software builds that used to take hours. 🧪\n\nThey caught their own errors without a single manual fix.\n\nYour team can test one tonight on the slowest build in your repo. ⚡\n\nWhat’s the one script you’d hand off first? 🔧💡",
+      "carousel_slides": [
+        {
+          "hook": "Can you trust AI to code?",
+          "description": "One report shows agents automating routine science libraries without any human oversight needed.",
+          "visual_hint": "AI brain circuit concept",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence code"
+        },
+        {
+          "hook": "They debug their own code.",
+          "description": "Physics libraries were written and fixed autonomously, without a single human touch.",
+          "visual_hint": "Physics equations on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "physics equations blackboard",
+          "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "This changes bottleneck tactics.",
+          "description": "Your team can test an agent today on a slow build in your existing repo.",
+          "visual_hint": "Code pipeline speed gauge",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not hype, but a real edge.",
+          "description": "One agent run saved a team 3 hours on a routine physics simulation.",
+          "visual_hint": "Clock with saved hours",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stopwatch timer technology",
+          "image": "https://images.pexels.com/photos/9944845/pexels-photo-9944845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Grab your slowest build tonight.",
+          "description": "Run it through an agent and compare the output. Does it pass your review?",
+          "visual_hint": "Developer at terminal",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "developer coding laptop",
+          "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-29T11:55:02.081Z",
+      "sourceId": "a16ac88ada6807449747621b216a2032"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "smart-rings-are-looking-like-my-kind-of-ai-gadget",
       "prompt_version": "1.0.0",
       "status": "published",

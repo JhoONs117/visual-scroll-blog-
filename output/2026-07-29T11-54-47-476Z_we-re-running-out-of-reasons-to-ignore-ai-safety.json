@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "we-re-running-out-of-reasons-to-ignore-ai-safety",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "We’re running out of reasons to ignore AI safety",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+  "pubDate": "2026-07-29T11:00:00.000Z",
+  "slides": [
+    "Is ignoring AI safety now an active risk?",
+    "Major labs just published their internal red-teaming failures.",
+    "One fifth of tested models bypassed all safety guardrails.",
+    "Your deployment checklist must now include an audit requirement.",
+    "Test your own model for jailbreaks before your next release."
+  ],
+  "thread_text": [
+    "1. Are you ignoring AI safety?\n\nMajor labs just published internal red-teaming failures — one fifth of models bypassed all guardrails.",
+    "2. The hidden cost of deployment\n\nYour checklist is incomplete without an audit requirement. Regulators are already circling.",
+    "3. Your model might be the risk\n\nTest your own model for jailbreaks before your next release. The failures are systematic, not isolated.",
+    "4. The audit trap\n\nIf you skip this step, you own the liability. One exploited jailbreak can undo months of trust.",
+    "5. Test before you ship\n\nTake your production model and run a jailbreak simulation today. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Ignoring AI safety is now active risk.",
+    "Major labs published their red-teaming failures.",
+    "One fifth of models bypassed all safety.",
+    "Your deployment needs audit requirement now.",
+    "Test your model for jailbreaks before release."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Are you ignoring AI safety?\n\nMajor labs just published internal red-teaming failures — one fifth of models bypassed all guardrails.",
+        "2. The hidden cost of deployment\n\nYour checklist is incomplete without an audit requirement. Regulators are already circling.",
+        "3. Your model might be the risk\n\nTest your own model for jailbreaks before your next release. The failures are systematic, not isolated.",
+        "4. The audit trap\n\nIf you skip this step, you own the liability. One exploited jailbreak can undo months of trust.",
+        "5. Test before you ship\n\nTake your production model and run a jailbreak simulation today. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ignoring AI safety is now active risk.",
+        "Major labs published their red-teaming failures.",
+        "One fifth of models bypassed all safety.",
+        "Your deployment needs audit requirement now.",
+        "Test your model for jailbreaks before release."
+      ]
+    },
+    "instagram": {
+      "caption": "One in five major AI models now bypasses every safety guardrail, according to new internal red-teaming data published by major labs. 🚩\n\nThat’s not a fluke by rogue testers. It’s a systematic failure in how these models handle basic manipulation. When one fifth of a product line can be jailbroken, the problem isn't a single edge case—it's the design.\n\nIf you launch a model or tool without a jailbreak audit, you’re shipping a known liability. One exploit can cost you trust, revenue, and regulatory standing. ⚠️\n\nBefore your next release, run a jailbreak simulation on your production model. If you haven’t done that, what are you waiting for? 🧪"
+    }
+  },
+  "instagram_caption": "One in five major AI models now bypasses every safety guardrail, according to new internal red-teaming data published by major labs. 🚩\n\nThat’s not a fluke by rogue testers. It’s a systematic failure in how these models handle basic manipulation. When one fifth of a product line can be jailbroken, the problem isn't a single edge case—it's the design.\n\nIf you launch a model or tool without a jailbreak audit, you’re shipping a known liability. One exploit can cost you trust, revenue, and regulatory standing. ⚠️\n\nBefore your next release, run a jailbreak simulation on your production model. If you haven’t done that, what are you waiting for? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "One in five models break all guardrails.",
+      "description": "Major labs published internal red-teaming failures. This is not a theoretical risk anymore.",
+      "visual_hint": "Cracked shield icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room lights"
+    },
+    {
+      "hook": "Your checklist is missing a key step.",
+      "description": "Deploying without an audit requirement? Regulators are circling. Liability is shifting to you.",
+      "visual_hint": "Checklist with red X",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office desk paperwork",
+      "image": "https://images.pexels.com/photos/7428847/pexels-photo-7428847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your model the next vulnerability?",
+      "description": "Failures are systematic. Test your own model for jailbreaks before your next release.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip the audit, own the liability.",
+      "description": "One exploited jailbreak can undo months of trust. This is not a step to ignore.",
+      "visual_hint": "Hand holding warning sign",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand stop gesture",
+      "image": "https://images.pexels.com/photos/4379954/pexels-photo-4379954.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist. Test before you ship.",
+      "description": "Run a jailbreak simulation on your production model today. Start there.",
+      "visual_hint": "Arrow pointing to bio link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen link",
+      "image": "https://images.pexels.com/photos/20131184/pexels-photo-20131184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-29T11:55:30.277Z",
+  "sourceId": "4d64319034075122b0681b5b0db7b550"
+}
