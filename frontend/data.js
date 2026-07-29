@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "encore-ai-raises-30m-to-build-ai-agents-that-learn",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
+    "slides": [
+      "Encore AI raised $30M—but what will the agents actually do?",
+      "They analyze thousands of customer calls automatically.",
+      "The agents don't just transcribe—they adapt their responses.",
+      "Now support teams can delegate call handling to AI.",
+      "Test one agent on your top call type this week."
+    ],
+    "thread_text": [
+      "1. $30M for what?\n\nEncore AI raised that sum, but the agents' actual job is still unclear—they analyze calls and adapt, but is that enough?",
+      "2. They listen to thousands.\n\nThe system processes call patterns automatically, picking up on customer intent without human oversight.",
+      "3. Adaptation, not just text.\n\nThe agents change their replies on the fly, learning from each interaction to improve the next response.",
+      "4. Handoffs are obsolete.\n\nSupport teams can now let AI handle entire call categories, freeing humans for complex issues only.",
+      "5. Test one this week.\n\nPick your most common call type, assign one agent to it, and measure the time saved. Will you try it?"
+    ],
+    "video_script": [
+      "Encore AI raised thirty million dollars.",
+      "Agents analyze thousands of calls automatically.",
+      "They adapt responses, not just transcribe.",
+      "Support teams delegate calls to AI.",
+      "Test one agent on your top call."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $30M for what?\n\nEncore AI raised that sum, but the agents' actual job is still unclear—they analyze calls and adapt, but is that enough?",
+          "2. They listen to thousands.\n\nThe system processes call patterns automatically, picking up on customer intent without human oversight.",
+          "3. Adaptation, not just text.\n\nThe agents change their replies on the fly, learning from each interaction to improve the next response.",
+          "4. Handoffs are obsolete.\n\nSupport teams can now let AI handle entire call categories, freeing humans for complex issues only.",
+          "5. Test one this week.\n\nPick your most common call type, assign one agent to it, and measure the time saved. Will you try it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Encore AI raised thirty million dollars.",
+          "Agents analyze thousands of calls automatically.",
+          "They adapt responses, not just transcribe.",
+          "Support teams delegate calls to AI.",
+          "Test one agent on your top call."
+        ]
+      },
+      "instagram": {
+        "caption": "A support team can now assign entire call categories to an AI agent that adapts its responses on the fly.\n\nEncore AI raised $30M to build agents that analyze thousands of customer calls automatically. They don't just transcribe—they learn from each interaction to improve the next one.\n\nFor anyone managing customer-facing content: you can now test one agent on your top call type this week.\n\nWhich recurring support question would you let an AI handle first? 🎧⚙️"
+      }
+    },
+    "instagram_caption": "A support team can now assign entire call categories to an AI agent that adapts its responses on the fly.\n\nEncore AI raised $30M to build agents that analyze thousands of customer calls automatically. They don't just transcribe—they learn from each interaction to improve the next one.\n\nFor anyone managing customer-facing content: you can now test one agent on your top call type this week.\n\nWhich recurring support question would you let an AI handle first? 🎧⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Is listening enough for AI?",
+        "description": "Encore AI raised $30M to build agents that analyze thousands of calls and adapt replies automatically.",
+        "visual_hint": "Floating ear device",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "They process what humans miss.",
+        "description": "The system detects customer intent from call patterns without human oversight, saving hours weekly.",
+        "visual_hint": "Sound waves on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Responses that improve each time.",
+        "description": "Agents adjust their replies on the fly, learning from every call to get better automatically.",
+        "visual_hint": "Brain with arrows",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Support teams, delegate confidently.",
+        "description": "AI now handles entire call categories, freeing humans for complex issues only they can solve.",
+        "visual_hint": "Hand passing headset",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save time—test one this week.",
+        "description": "Pick your most common call type, assign an agent, and measure hours saved immediately.",
+        "visual_hint": "Calendar with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800",
+    "savedAt": "2026-07-29T15:45:27.773Z",
+    "sourceId": "5de17107a6764aac1bede7df66f7e68b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "perplexity-employee-who-worked-on-comet-launches-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "pubDate": "Wed, 29 Jul 2026 15:00:00 +0000",
+    "slides": [
+      "Could a former Perplexity worker redefine your browser?",
+      "He built Comet's AI, now this new browser is here.",
+      "It prioritizes knowledge work, not generic web surfing.",
+      "Your search results become structured, actionable workspaces.",
+      "Stop browsing; start executing — test the beta today."
+    ],
+    "thread_text": [
+      "1. The insider who built it\n\nHe created Comet's AI. Now he's launching a browser that treats search like a workspace.",
+      "2. Not a browser, a workbench\n\nIt doesn't just show links. It turns results into structured, actionable documents.",
+      "3. Your use case changes everything\n\nDesigned for knowledge work—research, analysis, execution—not endless tab surfing.",
+      "4. The former Perplexity engineer's edge\n\nHe knows how search should think. This browser executes on that insight.",
+      "5. Test it today\n\nStop browsing. Open the beta and run a real project through it. Does your workflow improve?"
+    ],
+    "video_script": [
+      "Built by the guy who made Comet's AI.",
+      "This browser turns search into workspaces.",
+      "It's for knowledge work, not surfing.",
+      "Results become structured, actionable documents.",
+      "Stop browsing. Start executing. Test the beta."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The insider who built it\n\nHe created Comet's AI. Now he's launching a browser that treats search like a workspace.",
+          "2. Not a browser, a workbench\n\nIt doesn't just show links. It turns results into structured, actionable documents.",
+          "3. Your use case changes everything\n\nDesigned for knowledge work—research, analysis, execution—not endless tab surfing.",
+          "4. The former Perplexity engineer's edge\n\nHe knows how search should think. This browser executes on that insight.",
+          "5. Test it today\n\nStop browsing. Open the beta and run a real project through it. Does your workflow improve?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Built by the guy who made Comet's AI.",
+          "This browser turns search into workspaces.",
+          "It's for knowledge work, not surfing.",
+          "Results become structured, actionable documents.",
+          "Stop browsing. Start executing. Test the beta."
+        ]
+      },
+      "instagram": {
+        "caption": "A former Perplexity engineer just turned your browser into a document editor. 🖥️\n\nComet's AI creator launched a browser that transforms search results into structured, editable workspaces—not just links. It's built for research, analysis, and execution, not tab hoarding. 🛠️\n\nFor anyone who creates or researches online, your workflow just became one less tab and one actionable document.\n\nIf your browser turned every search into a ready-to-edit report, would you stop surfing and start executing? 🧠"
+      }
+    },
+    "instagram_caption": "A former Perplexity engineer just turned your browser into a document editor. 🖥️\n\nComet's AI creator launched a browser that transforms search results into structured, editable workspaces—not just links. It's built for research, analysis, and execution, not tab hoarding. 🛠️\n\nFor anyone who creates or researches online, your workflow just became one less tab and one actionable document.\n\nIf your browser turned every search into a ready-to-edit report, would you stop surfing and start executing? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Could an insider redefine your browser?",
+        "description": "He built Comet's AI at Perplexity. Now his browser turns search into a structured workspace.",
+        "visual_hint": "browser with document layout",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "browser workspace"
+      },
+      {
+        "hook": "Not a browser, a workbench.",
+        "description": "It turns search results into actionable documents, not just links. Designed for knowledge work, not surfing.",
+        "visual_hint": "document with structured data",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "structured document",
+        "image": "https://images.pexels.com/photos/12911964/pexels-photo-12911964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your use case changes everything.",
+        "description": "For research and analysis, not endless tabs. The tool adapts to your task, not the other way around.",
+        "visual_hint": "focused workspace with charts",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "research workspace",
+        "image": "https://images.pexels.com/photos/8851550/pexels-photo-8851550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The insider who built it.",
+        "description": "He knows how search should think. This browser executes on that insight for knowledge workers.",
+        "visual_hint": "engineer at computer",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "engineer computer",
+        "image": "https://images.pexels.com/photos/12899196/pexels-photo-12899196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop browsing. Start executing.",
+        "description": "Test the beta today: open it, run a real project, and see if your workflow improves.",
+        "visual_hint": "download button on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "beta download screen",
+        "image": "https://images.pexels.com/photos/12887395/pexels-photo-12887395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Polar-founders.jpg?resize=1200,675",
+    "savedAt": "2026-07-29T15:45:16.728Z",
+    "sourceId": "9c89fa740bd0f01ab9abf29bdab727bb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hint-a-new-ai-startup-co-founded-by-martha-stewart",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "pubDate": "Wed, 29 Jul 2026 15:35:09 +0000",
+    "slides": [
+      "Martha Stewart co-founded an AI for homeowners—but why?",
+      "Hint knows your home's repair history and appliance models.",
+      "It predicts failures before they happen, not after.",
+      "You stop emergency calls and start scheduled fixes.",
+      "Upload your home manual once, then let Hint watch."
+    ],
+    "thread_text": [
+      "1. Why Martha Stewart co-founded an AI?\n\nHer home was leaking—literally—and no app could fix it. So she built one that predicts failures before they happen.",
+      "2. Hint knows your home’s repair history.\n\nIt tracks appliance models and past fixes. The AI learns what’s likely to break next—without you lifting a finger.",
+      "3. It predicts failures, not reacts.\n\nYou skip emergency calls. Instead, you schedule a fix on your terms—before the pipe bursts or the boiler dies.",
+      "4. Upload your home manual once.\n\nThen let Hint scan it. It monitors everything, catches early signs, and tells you what to do—automatically.",
+      "5. Does your garage know what your furnace knows?\n\nTake your home manual today and upload it to a free AI tool. See what it predicts for your appliances."
+    ],
+    "video_script": [
+      "Martha Stewart built an AI for homes.",
+      "Hint knows every repair your house needs.",
+      "It predicts failures before the leak starts.",
+      "No more emergency calls—just scheduled fixes.",
+      "Upload your manual once and let Hint watch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why Martha Stewart co-founded an AI?\n\nHer home was leaking—literally—and no app could fix it. So she built one that predicts failures before they happen.",
+          "2. Hint knows your home’s repair history.\n\nIt tracks appliance models and past fixes. The AI learns what’s likely to break next—without you lifting a finger.",
+          "3. It predicts failures, not reacts.\n\nYou skip emergency calls. Instead, you schedule a fix on your terms—before the pipe bursts or the boiler dies.",
+          "4. Upload your home manual once.\n\nThen let Hint scan it. It monitors everything, catches early signs, and tells you what to do—automatically.",
+          "5. Does your garage know what your furnace knows?\n\nTake your home manual today and upload it to a free AI tool. See what it predicts for your appliances."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Martha Stewart built an AI for homes.",
+          "Hint knows every repair your house needs.",
+          "It predicts failures before the leak starts.",
+          "No more emergency calls—just scheduled fixes.",
+          "Upload your manual once and let Hint watch."
+        ]
+      },
+      "instagram": {
+        "caption": "Your home has a repair history, but you don't know what's coming next.\n\nMartha Stewart co-founded Hint, an AI that tracks your specific appliances and past fixes. It predicts failures before the pipe bursts or the boiler dies, turning emergency calls into scheduled repairs. 🛠️📋\n\nUpload your home manual once. Hint scans it, learns your gear, and tells you what to do—automatically.\n\nWhat would it save you to know your boiler's next breakdown before it happens?"
+      }
+    },
+    "instagram_caption": "Your home has a repair history, but you don't know what's coming next.\n\nMartha Stewart co-founded Hint, an AI that tracks your specific appliances and past fixes. It predicts failures before the pipe bursts or the boiler dies, turning emergency calls into scheduled repairs. 🛠️📋\n\nUpload your home manual once. Hint scans it, learns your gear, and tells you what to do—automatically.\n\nWhat would it save you to know your boiler's next breakdown before it happens?",
+    "carousel_slides": [
+      {
+        "hook": "Your home is leaking right now.",
+        "description": "Martha Stewart co-founded an AI that predicts failures before they happen, ending emergency calls.",
+        "visual_hint": "leaking pipe in basement",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "leaking pipe"
+      },
+      {
+        "hook": "Hint knows what will break next.",
+        "description": "It tracks appliance models and past repairs, then predicts failures automatically.",
+        "visual_hint": "screenshot of repair history list",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "appliance repair list",
+        "image": "https://images.pexels.com/photos/19493018/pexels-photo-19493018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Predict failures, don't react to them.",
+        "description": "Skip emergency calls and schedule fixes on your terms before the boiler dies.",
+        "visual_hint": "phone alert with scheduled repair",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone alert notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Upload your home manual once.",
+        "description": "Hint scans it, monitors everything, and tells you what to do automatically.",
+        "visual_hint": "hand placing manual on scanner",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand scanning document",
+        "image": "https://images.pexels.com/photos/6282081/pexels-photo-6282081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this post to try Hint free.",
+        "description": "Upload your home manual to a free AI tool and see what it predicts for your appliances.",
+        "visual_hint": "link in bio button with arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "link in bio button",
+        "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
+    "savedAt": "2026-07-29T15:45:05.030Z",
+    "sourceId": "c037c1f2be4b8b92d4880a94256bc8ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "we-re-running-out-of-reasons-to-ignore-ai-safety",
     "prompt_version": "1.0.0",
     "status": "published",

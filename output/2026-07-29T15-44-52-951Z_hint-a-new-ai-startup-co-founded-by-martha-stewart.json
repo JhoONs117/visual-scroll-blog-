@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hint-a-new-ai-startup-co-founded-by-martha-stewart",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+  "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+  "pubDate": "Wed, 29 Jul 2026 15:35:09 +0000",
+  "slides": [
+    "Martha Stewart co-founded an AI for homeowners—but why?",
+    "Hint knows your home's repair history and appliance models.",
+    "It predicts failures before they happen, not after.",
+    "You stop emergency calls and start scheduled fixes.",
+    "Upload your home manual once, then let Hint watch."
+  ],
+  "thread_text": [
+    "1. Why Martha Stewart co-founded an AI?\n\nHer home was leaking—literally—and no app could fix it. So she built one that predicts failures before they happen.",
+    "2. Hint knows your home’s repair history.\n\nIt tracks appliance models and past fixes. The AI learns what’s likely to break next—without you lifting a finger.",
+    "3. It predicts failures, not reacts.\n\nYou skip emergency calls. Instead, you schedule a fix on your terms—before the pipe bursts or the boiler dies.",
+    "4. Upload your home manual once.\n\nThen let Hint scan it. It monitors everything, catches early signs, and tells you what to do—automatically.",
+    "5. Does your garage know what your furnace knows?\n\nTake your home manual today and upload it to a free AI tool. See what it predicts for your appliances."
+  ],
+  "video_script": [
+    "Martha Stewart built an AI for homes.",
+    "Hint knows every repair your house needs.",
+    "It predicts failures before the leak starts.",
+    "No more emergency calls—just scheduled fixes.",
+    "Upload your manual once and let Hint watch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Martha Stewart co-founded an AI?\n\nHer home was leaking—literally—and no app could fix it. So she built one that predicts failures before they happen.",
+        "2. Hint knows your home’s repair history.\n\nIt tracks appliance models and past fixes. The AI learns what’s likely to break next—without you lifting a finger.",
+        "3. It predicts failures, not reacts.\n\nYou skip emergency calls. Instead, you schedule a fix on your terms—before the pipe bursts or the boiler dies.",
+        "4. Upload your home manual once.\n\nThen let Hint scan it. It monitors everything, catches early signs, and tells you what to do—automatically.",
+        "5. Does your garage know what your furnace knows?\n\nTake your home manual today and upload it to a free AI tool. See what it predicts for your appliances."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Martha Stewart built an AI for homes.",
+        "Hint knows every repair your house needs.",
+        "It predicts failures before the leak starts.",
+        "No more emergency calls—just scheduled fixes.",
+        "Upload your manual once and let Hint watch."
+      ]
+    },
+    "instagram": {
+      "caption": "Your home has a repair history, but you don't know what's coming next.\n\nMartha Stewart co-founded Hint, an AI that tracks your specific appliances and past fixes. It predicts failures before the pipe bursts or the boiler dies, turning emergency calls into scheduled repairs. 🛠️📋\n\nUpload your home manual once. Hint scans it, learns your gear, and tells you what to do—automatically.\n\nWhat would it save you to know your boiler's next breakdown before it happens?"
+    }
+  },
+  "instagram_caption": "Your home has a repair history, but you don't know what's coming next.\n\nMartha Stewart co-founded Hint, an AI that tracks your specific appliances and past fixes. It predicts failures before the pipe bursts or the boiler dies, turning emergency calls into scheduled repairs. 🛠️📋\n\nUpload your home manual once. Hint scans it, learns your gear, and tells you what to do—automatically.\n\nWhat would it save you to know your boiler's next breakdown before it happens?",
+  "carousel_slides": [
+    {
+      "hook": "Your home is leaking right now.",
+      "description": "Martha Stewart co-founded an AI that predicts failures before they happen, ending emergency calls.",
+      "visual_hint": "leaking pipe in basement",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "leaking pipe"
+    },
+    {
+      "hook": "Hint knows what will break next.",
+      "description": "It tracks appliance models and past repairs, then predicts failures automatically.",
+      "visual_hint": "screenshot of repair history list",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "appliance repair list",
+      "image": "https://images.pexels.com/photos/19493018/pexels-photo-19493018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Predict failures, don't react to them.",
+      "description": "Skip emergency calls and schedule fixes on your terms before the boiler dies.",
+      "visual_hint": "phone alert with scheduled repair",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone alert notification",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Upload your home manual once.",
+      "description": "Hint scans it, monitors everything, and tells you what to do automatically.",
+      "visual_hint": "hand placing manual on scanner",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand scanning document",
+      "image": "https://images.pexels.com/photos/6282081/pexels-photo-6282081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this post to try Hint free.",
+      "description": "Upload your home manual to a free AI tool and see what it predicts for your appliances.",
+      "visual_hint": "link in bio button with arrow",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "link in bio button",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
+  "savedAt": "2026-07-29T15:45:05.030Z",
+  "sourceId": "c037c1f2be4b8b92d4880a94256bc8ab"
+}

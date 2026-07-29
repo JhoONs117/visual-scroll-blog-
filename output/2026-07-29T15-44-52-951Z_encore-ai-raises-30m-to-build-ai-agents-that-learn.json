@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "encore-ai-raises-30m-to-build-ai-agents-that-learn",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+  "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+  "pubDate": "Wed, 29 Jul 2026 14:41:06 +0000",
+  "slides": [
+    "Encore AI raised $30M—but what will the agents actually do?",
+    "They analyze thousands of customer calls automatically.",
+    "The agents don't just transcribe—they adapt their responses.",
+    "Now support teams can delegate call handling to AI.",
+    "Test one agent on your top call type this week."
+  ],
+  "thread_text": [
+    "1. $30M for what?\n\nEncore AI raised that sum, but the agents' actual job is still unclear—they analyze calls and adapt, but is that enough?",
+    "2. They listen to thousands.\n\nThe system processes call patterns automatically, picking up on customer intent without human oversight.",
+    "3. Adaptation, not just text.\n\nThe agents change their replies on the fly, learning from each interaction to improve the next response.",
+    "4. Handoffs are obsolete.\n\nSupport teams can now let AI handle entire call categories, freeing humans for complex issues only.",
+    "5. Test one this week.\n\nPick your most common call type, assign one agent to it, and measure the time saved. Will you try it?"
+  ],
+  "video_script": [
+    "Encore AI raised thirty million dollars.",
+    "Agents analyze thousands of calls automatically.",
+    "They adapt responses, not just transcribe.",
+    "Support teams delegate calls to AI.",
+    "Test one agent on your top call."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $30M for what?\n\nEncore AI raised that sum, but the agents' actual job is still unclear—they analyze calls and adapt, but is that enough?",
+        "2. They listen to thousands.\n\nThe system processes call patterns automatically, picking up on customer intent without human oversight.",
+        "3. Adaptation, not just text.\n\nThe agents change their replies on the fly, learning from each interaction to improve the next response.",
+        "4. Handoffs are obsolete.\n\nSupport teams can now let AI handle entire call categories, freeing humans for complex issues only.",
+        "5. Test one this week.\n\nPick your most common call type, assign one agent to it, and measure the time saved. Will you try it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Encore AI raised thirty million dollars.",
+        "Agents analyze thousands of calls automatically.",
+        "They adapt responses, not just transcribe.",
+        "Support teams delegate calls to AI.",
+        "Test one agent on your top call."
+      ]
+    },
+    "instagram": {
+      "caption": "A support team can now assign entire call categories to an AI agent that adapts its responses on the fly.\n\nEncore AI raised $30M to build agents that analyze thousands of customer calls automatically. They don't just transcribe—they learn from each interaction to improve the next one.\n\nFor anyone managing customer-facing content: you can now test one agent on your top call type this week.\n\nWhich recurring support question would you let an AI handle first? 🎧⚙️"
+    }
+  },
+  "instagram_caption": "A support team can now assign entire call categories to an AI agent that adapts its responses on the fly.\n\nEncore AI raised $30M to build agents that analyze thousands of customer calls automatically. They don't just transcribe—they learn from each interaction to improve the next one.\n\nFor anyone managing customer-facing content: you can now test one agent on your top call type this week.\n\nWhich recurring support question would you let an AI handle first? 🎧⚙️",
+  "carousel_slides": [
+    {
+      "hook": "Is listening enough for AI?",
+      "description": "Encore AI raised $30M to build agents that analyze thousands of calls and adapt replies automatically.",
+      "visual_hint": "Floating ear device",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "They process what humans miss.",
+      "description": "The system detects customer intent from call patterns without human oversight, saving hours weekly.",
+      "visual_hint": "Sound waves on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Responses that improve each time.",
+      "description": "Agents adjust their replies on the fly, learning from every call to get better automatically.",
+      "visual_hint": "Brain with arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Support teams, delegate confidently.",
+      "description": "AI now handles entire call categories, freeing humans for complex issues only they can solve.",
+      "visual_hint": "Hand passing headset",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save time—test one this week.",
+      "description": "Pick your most common call type, assign an agent, and measure hours saved immediately.",
+      "visual_hint": "Calendar with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800",
+  "savedAt": "2026-07-29T15:45:27.773Z",
+  "sourceId": "5de17107a6764aac1bede7df66f7e68b"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "perplexity-employee-who-worked-on-comet-launches-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+  "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+  "pubDate": "Wed, 29 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Could a former Perplexity worker redefine your browser?",
+    "He built Comet's AI, now this new browser is here.",
+    "It prioritizes knowledge work, not generic web surfing.",
+    "Your search results become structured, actionable workspaces.",
+    "Stop browsing; start executing — test the beta today."
+  ],
+  "thread_text": [
+    "1. The insider who built it\n\nHe created Comet's AI. Now he's launching a browser that treats search like a workspace.",
+    "2. Not a browser, a workbench\n\nIt doesn't just show links. It turns results into structured, actionable documents.",
+    "3. Your use case changes everything\n\nDesigned for knowledge work—research, analysis, execution—not endless tab surfing.",
+    "4. The former Perplexity engineer's edge\n\nHe knows how search should think. This browser executes on that insight.",
+    "5. Test it today\n\nStop browsing. Open the beta and run a real project through it. Does your workflow improve?"
+  ],
+  "video_script": [
+    "Built by the guy who made Comet's AI.",
+    "This browser turns search into workspaces.",
+    "It's for knowledge work, not surfing.",
+    "Results become structured, actionable documents.",
+    "Stop browsing. Start executing. Test the beta."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The insider who built it\n\nHe created Comet's AI. Now he's launching a browser that treats search like a workspace.",
+        "2. Not a browser, a workbench\n\nIt doesn't just show links. It turns results into structured, actionable documents.",
+        "3. Your use case changes everything\n\nDesigned for knowledge work—research, analysis, execution—not endless tab surfing.",
+        "4. The former Perplexity engineer's edge\n\nHe knows how search should think. This browser executes on that insight.",
+        "5. Test it today\n\nStop browsing. Open the beta and run a real project through it. Does your workflow improve?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Built by the guy who made Comet's AI.",
+        "This browser turns search into workspaces.",
+        "It's for knowledge work, not surfing.",
+        "Results become structured, actionable documents.",
+        "Stop browsing. Start executing. Test the beta."
+      ]
+    },
+    "instagram": {
+      "caption": "A former Perplexity engineer just turned your browser into a document editor. 🖥️\n\nComet's AI creator launched a browser that transforms search results into structured, editable workspaces—not just links. It's built for research, analysis, and execution, not tab hoarding. 🛠️\n\nFor anyone who creates or researches online, your workflow just became one less tab and one actionable document.\n\nIf your browser turned every search into a ready-to-edit report, would you stop surfing and start executing? 🧠"
+    }
+  },
+  "instagram_caption": "A former Perplexity engineer just turned your browser into a document editor. 🖥️\n\nComet's AI creator launched a browser that transforms search results into structured, editable workspaces—not just links. It's built for research, analysis, and execution, not tab hoarding. 🛠️\n\nFor anyone who creates or researches online, your workflow just became one less tab and one actionable document.\n\nIf your browser turned every search into a ready-to-edit report, would you stop surfing and start executing? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Could an insider redefine your browser?",
+      "description": "He built Comet's AI at Perplexity. Now his browser turns search into a structured workspace.",
+      "visual_hint": "browser with document layout",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "browser workspace"
+    },
+    {
+      "hook": "Not a browser, a workbench.",
+      "description": "It turns search results into actionable documents, not just links. Designed for knowledge work, not surfing.",
+      "visual_hint": "document with structured data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "structured document",
+      "image": "https://images.pexels.com/photos/12911964/pexels-photo-12911964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your use case changes everything.",
+      "description": "For research and analysis, not endless tabs. The tool adapts to your task, not the other way around.",
+      "visual_hint": "focused workspace with charts",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "research workspace",
+      "image": "https://images.pexels.com/photos/8851550/pexels-photo-8851550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The insider who built it.",
+      "description": "He knows how search should think. This browser executes on that insight for knowledge workers.",
+      "visual_hint": "engineer at computer",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "engineer computer",
+      "image": "https://images.pexels.com/photos/12899196/pexels-photo-12899196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop browsing. Start executing.",
+      "description": "Test the beta today: open it, run a real project, and see if your workflow improves.",
+      "visual_hint": "download button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "beta download screen",
+      "image": "https://images.pexels.com/photos/12887395/pexels-photo-12887395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Polar-founders.jpg?resize=1200,675",
+  "savedAt": "2026-07-29T15:45:16.728Z",
+  "sourceId": "9c89fa740bd0f01ab9abf29bdab727bb"
+}
