@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "smart-rings-are-looking-like-my-kind-of-ai-gadget",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Smart rings are looking like my kind of AI gadget",
+  "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+  "pubDate": "2026-07-28T12:00:00.000Z",
+  "slides": [
+    "Can a ring beat your smartwatch for health data?",
+    "It packs sensors into a tiny, always-worn form.",
+    "But early models miss critical sleep and heart metrics.",
+    "You wear it 24/7 without charging anxiety or bulk.",
+    "Test one now against your watch for two nights."
+  ],
+  "thread_text": [
+    "Can a ring beat your smartwatch?\n\nEarly models miss critical sleep and heart metrics, so the tradeoff is real.",
+    "Packs sensors into a tiny form.\n\nYou wear it 24/7 without charging anxiety or bulk, making it truly always-on.",
+    "But what about accuracy?\n\nHealth data from a ring might not match your watch's precision, especially during movement.",
+    "No screen, no apps.\n\nIt strips away distractions, but early adopters report gaps in overnight tracking.",
+    "Test one now against your watch.\n\nUse it for two nights and compare the heart rate and sleep data side by side."
+  ],
+  "video_script": [
+    "Can a ring replace your smartwatch?",
+    "It packs sensors into a tiny ring.",
+    "But it still misses key health metrics.",
+    "You wear it 24/7 without charging.",
+    "Test it yourself for two nights."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Can a ring beat your smartwatch?\n\nEarly models miss critical sleep and heart metrics, so the tradeoff is real.",
+        "Packs sensors into a tiny form.\n\nYou wear it 24/7 without charging anxiety or bulk, making it truly always-on.",
+        "But what about accuracy?\n\nHealth data from a ring might not match your watch's precision, especially during movement.",
+        "No screen, no apps.\n\nIt strips away distractions, but early adopters report gaps in overnight tracking.",
+        "Test one now against your watch.\n\nUse it for two nights and compare the heart rate and sleep data side by side."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can a ring replace your smartwatch?",
+        "It packs sensors into a tiny ring.",
+        "But it still misses key health metrics.",
+        "You wear it 24/7 without charging.",
+        "Test it yourself for two nights."
+      ]
+    },
+    "instagram": {
+      "caption": "Smart rings pack sensors into a tiny form you wear 24/7—no charging anxiety, no bulk.\n\nBut early models still miss critical sleep and heart metrics. 🛌 That tradeoff is real: you lose precision for always-on comfort.\n\nFor content creators testing health wearables, this means you can’t blindly trust ring data during movement or overnight just yet.\n\nTest one against your watch for two nights. What gaps do you spot in yours? ⌚💍"
+    }
+  },
+  "instagram_caption": "Smart rings pack sensors into a tiny form you wear 24/7—no charging anxiety, no bulk.\n\nBut early models still miss critical sleep and heart metrics. 🛌 That tradeoff is real: you lose precision for always-on comfort.\n\nFor content creators testing health wearables, this means you can’t blindly trust ring data during movement or overnight just yet.\n\nTest one against your watch for two nights. What gaps do you spot in yours? ⌚💍",
+  "carousel_slides": [
+    {
+      "hook": "Can a ring replace your smartwatch?",
+      "description": "Early models miss critical sleep and heart metrics, so the tradeoff between size and accuracy is real.",
+      "visual_hint": "ring vs watch comparison",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart ring smartwatch"
+    },
+    {
+      "hook": "Tiny sensors, no charging anxiety.",
+      "description": "Packs sensors into a tiny form, worn 24/7 without bulk or battery stress.",
+      "visual_hint": "ring on nightstand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "charging ring stand",
+      "image": "https://images.pexels.com/photos/5948345/pexels-photo-5948345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But accuracy drops during movement.",
+      "description": "Health data from a ring may not match your watch’s precision, especially when active.",
+      "visual_hint": "sensor close-up ring",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smart ring sensor",
+      "image": "https://images.pexels.com/photos/32079708/pexels-photo-32079708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No screen, just pure tracking.",
+      "description": "It strips away distractions, but early adopters report gaps in overnight tracking.",
+      "visual_hint": "hand wearing ring",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand ring sleep",
+      "image": "https://images.pexels.com/photos/15728026/pexels-photo-15728026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one against your watch tonight.",
+      "description": "Use it for two nights and compare heart rate and sleep data side by side.",
+      "visual_hint": "phone comparison chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartwatch ring comparison",
+      "image": "https://images.pexels.com/photos/28396939/pexels-photo-28396939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-29T05:13:14.007Z",
+  "sourceId": "6c105a22f96046ceb3b6d7c5a98d9a28"
+}
