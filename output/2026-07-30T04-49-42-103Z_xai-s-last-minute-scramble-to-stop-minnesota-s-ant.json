@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "xai-s-last-minute-scramble-to-stop-minnesota-s-ant",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+  "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+  "pubDate": "2026-07-29T21:06:52.000Z",
+  "slides": [
+    "Can xAI stop a law it didn't see coming?",
+    "Minnesota targets apps that undress people in photos.",
+    "xAI's model powers the very detection tools at risk.",
+    "Compliance may force removing key safety features statewide.",
+    "Watch which state votes next—your platform could be next."
+  ],
+  "thread_text": [
+    "1. A law no one expected\n\nMinnesota just passed a bill banning apps that undress photos—and xAI’s model is the engine behind the detection tools.\n\n",
+    "2. The irony cuts deep\n\nGrok powers the very software that flags nude fakes. If the ban holds, xAI must disable that feature statewide.\n\n",
+    "3. Compliance has a price\n\nTo follow the law, xAI may need to strip out key safety detection. That leaves users blind to deepfakes.\n\n",
+    "4. The ripple starts here\n\nOther states are watching Minnesota’s vote. Illinois and New York have already introduced similar bills.\n\n",
+    "5. Your move\n\nCheck if your state has a bill like this pending. If not, email your representative today.\n\n"
+  ],
+  "video_script": [
+    "Minnesota banned apps that undress people.",
+    "xAI's model powers those detection tools.",
+    "Compliance could force removing safety features.",
+    "Other states are watching the vote.",
+    "Check your state's pending bill now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. A law no one expected\n\nMinnesota just passed a bill banning apps that undress photos—and xAI’s model is the engine behind the detection tools.\n\n",
+        "2. The irony cuts deep\n\nGrok powers the very software that flags nude fakes. If the ban holds, xAI must disable that feature statewide.\n\n",
+        "3. Compliance has a price\n\nTo follow the law, xAI may need to strip out key safety detection. That leaves users blind to deepfakes.\n\n",
+        "4. The ripple starts here\n\nOther states are watching Minnesota’s vote. Illinois and New York have already introduced similar bills.\n\n",
+        "5. Your move\n\nCheck if your state has a bill like this pending. If not, email your representative today.\n\n"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Minnesota banned apps that undress people.",
+        "xAI's model powers those detection tools.",
+        "Compliance could force removing safety features.",
+        "Other states are watching the vote.",
+        "Check your state's pending bill now."
+      ]
+    },
+    "instagram": {
+      "caption": "Minnesota just passed a law targeting apps that undress people in photos—and xAI’s Grok model is the engine behind the tools that detect those fakes. 🧠\n\nTo comply, xAI may have to disable that safety detection statewide. No flagging means users lose a key defense against deepfakes. 🚫\n\nIf you create or moderate content, your protection against non-consensual fakes just disappeared in Minnesota. 📉\n\nWhat feature on your platform would you trade to stay legal in your state tomorrow?"
+    }
+  },
+  "instagram_caption": "Minnesota just passed a law targeting apps that undress people in photos—and xAI’s Grok model is the engine behind the tools that detect those fakes. 🧠\n\nTo comply, xAI may have to disable that safety detection statewide. No flagging means users lose a key defense against deepfakes. 🚫\n\nIf you create or moderate content, your protection against non-consensual fakes just disappeared in Minnesota. 📉\n\nWhat feature on your platform would you trade to stay legal in your state tomorrow?",
+  "carousel_slides": [
+    {
+      "hook": "Can your safety tool survive?",
+      "description": "Minnesota passed a law banning undressing apps, but xAI's model powers the detection tools at risk.",
+      "visual_hint": "Gavel hitting desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel wood desk"
+    },
+    {
+      "hook": "Irony: Grok fights deepfakes.",
+      "description": "The ban forces xAI to disable its own nude fake detection feature statewide.",
+      "visual_hint": "Phone with AI overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Compliance strips safety features.",
+      "description": "To obey the law, xAI may remove key detection, leaving users blind to deepfakes.",
+      "visual_hint": "Red warning shield",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning sign red",
+      "image": "https://images.pexels.com/photos/15516415/pexels-photo-15516415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Minnesota is just the start.",
+      "description": "Illinois and New York already introduced similar bills. Your state could be next.",
+      "visual_hint": "Map with pins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "usa map pins",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — act now.",
+      "description": "Check your state for pending anti-nudification bills and email your representative today.",
+      "visual_hint": "Pointer finger pressing button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email icon keyboard",
+      "image": "https://images.pexels.com/photos/7709101/pexels-photo-7709101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-07-30T04:50:17.894Z",
+  "sourceId": "89095267772b9aed66abf57275ebe1ce"
+}

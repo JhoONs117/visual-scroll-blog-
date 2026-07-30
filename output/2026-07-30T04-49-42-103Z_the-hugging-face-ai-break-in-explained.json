@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-hugging-face-ai-break-in-explained",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Hugging Face AI break-in explained",
+  "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+  "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+  "slides": [
+    "What if your AI vendor was also your attacker?",
+    "Hugging Face had unrestricted code execution on user machines.",
+    "The breach used a malicious pickle file, not a network hack.",
+    "You can no longer trust any third-party model hub blindly.",
+    "Audit every model's serialization format before loading it."
+  ],
+  "thread_text": [
+    "1. What if your vendor is your attacker?\n\nHugging Face allowed unrestricted code execution on user machines through a malicious pickle file, not a network breach.",
+    "2. How a pickle file hijacks trust\n\nPickle deserialization can run arbitrary code during loading, turning model sharing into a silent exploit vector.",
+    "3. No network hack needed\n\nThe attack exploited file format weaknesses, bypassing firewalls and VPNs entirely—zero network intrusion.",
+    "4. Third-party hubs are now suspect\n\nAny model hub can host weaponized files; trust must shift to auditing, not reputation.",
+    "5. Audit before you load\n\nCheck every model's serialization format today. If you haven't defined a policy, write one this week."
+  ],
+  "video_script": [
+    "Your AI vendor could be your attacker.",
+    "Hugging Face allowed code execution on user machines.",
+    "The breach used a malicious pickle file.",
+    "Network hacks were not even needed.",
+    "Audit every model before loading it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your vendor is your attacker?\n\nHugging Face allowed unrestricted code execution on user machines through a malicious pickle file, not a network breach.",
+        "2. How a pickle file hijacks trust\n\nPickle deserialization can run arbitrary code during loading, turning model sharing into a silent exploit vector.",
+        "3. No network hack needed\n\nThe attack exploited file format weaknesses, bypassing firewalls and VPNs entirely—zero network intrusion.",
+        "4. Third-party hubs are now suspect\n\nAny model hub can host weaponized files; trust must shift to auditing, not reputation.",
+        "5. Audit before you load\n\nCheck every model's serialization format today. If you haven't defined a policy, write one this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI vendor could be your attacker.",
+        "Hugging Face allowed code execution on user machines.",
+        "The breach used a malicious pickle file.",
+        "Network hacks were not even needed.",
+        "Audit every model before loading it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI model provider could execute code on your machine. Hugging Face’s pickle file exploit ran unrestricted commands during model loading — no network attack needed.\n\nA malicious model file bypassed your firewall and VPN completely. The breach exploited how a model is packaged, not a password leak.\n\nThird-party hubs can now host weaponized files. Trust isn’t enough anymore.\n\nWhen did you last audit who can run code through your AI tools? Open every model’s serialization format before you load it 🔍"
+    }
+  },
+  "instagram_caption": "Your AI model provider could execute code on your machine. Hugging Face’s pickle file exploit ran unrestricted commands during model loading — no network attack needed.\n\nA malicious model file bypassed your firewall and VPN completely. The breach exploited how a model is packaged, not a password leak.\n\nThird-party hubs can now host weaponized files. Trust isn’t enough anymore.\n\nWhen did you last audit who can run code through your AI tools? Open every model’s serialization format before you load it 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI vendor could be your attacker.",
+      "description": "Hugging Face allowed unrestricted code execution via a malicious pickle file, not a network breach.",
+      "visual_hint": "Hacker silhouette on laptop",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hacker silhouette laptop"
+    },
+    {
+      "hook": "How a pickle file hijacks trust.",
+      "description": "Deserialization runs arbitrary code during loading, turning model sharing into a silent exploit.",
+      "visual_hint": "Pickle jar with code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pickle jar code",
+      "image": "https://images.pexels.com/photos/32147313/pexels-photo-32147313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No network hack needed.",
+      "description": "The attack exploited file format weaknesses, bypassing firewalls and VPNs completely.",
+      "visual_hint": "Firewall with gap",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "firewall gap",
+      "image": "https://images.pexels.com/photos/1658591/pexels-photo-1658591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Third-party hubs are suspect now.",
+      "description": "Any model hub can host weaponized files; trust must shift to auditing, not reputation.",
+      "visual_hint": "Magnifying glass over files",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass files",
+      "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit every model before loading.",
+      "description": "Check each model's serialization format today and write a policy this week.",
+      "visual_hint": "Checklist on clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+  "savedAt": "2026-07-30T04:50:05.664Z",
+  "sourceId": "101b78fb3cd4957b579ff042e4283c72"
+}

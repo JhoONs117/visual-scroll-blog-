@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "zuckerberg-says-meta-s-enterprise-ai-opportunity-e",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+  "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+  "pubDate": "Wed, 29 Jul 2026 22:23:12 +0000",
+  "slides": [
+    "Zuckerberg claims Meta's enterprise AI wins without agents?",
+    "His strategy targets business software customers directly.",
+    "That market dwarfs agent-driven revenue projections for 2026.",
+    "You can now pilot Meta's AI APIs inside your workflows.",
+    "Test one enterprise integration this week, not next year."
+  ],
+  "thread_text": [
+    "1. Dwarfed by millions\n\nMeta's CEO says the real AI jackpot is in business software, not agent hype.",
+    "2. Agents aren't the prize\n\nHis enterprise bet targets a market 10x bigger than agent revenue forecasts for 2026.",
+    "3. Workflows, not waitlists\n\nYou can already pilot Meta's AI APIs inside your existing processes today.",
+    "4. Competitors chase demos\n\nWhile others promise next-gen agents, Zuckerberg ships direct integrations for your stack.",
+    "5. Test one this week\n\nTry integrating Meta's API into a single enterprise workflow. When will you start?"
+  ],
+  "video_script": [
+    "Zuckerberg says business software beats agent revenue.",
+    "His market dwarfs agent predictions for 2026.",
+    "Pilot Meta's APIs inside your workflows now.",
+    "No demos needed—ship one integration this week.",
+    "Test it today, not next year."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Dwarfed by millions\n\nMeta's CEO says the real AI jackpot is in business software, not agent hype.",
+        "2. Agents aren't the prize\n\nHis enterprise bet targets a market 10x bigger than agent revenue forecasts for 2026.",
+        "3. Workflows, not waitlists\n\nYou can already pilot Meta's AI APIs inside your existing processes today.",
+        "4. Competitors chase demos\n\nWhile others promise next-gen agents, Zuckerberg ships direct integrations for your stack.",
+        "5. Test one this week\n\nTry integrating Meta's API into a single enterprise workflow. When will you start?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zuckerberg says business software beats agent revenue.",
+        "His market dwarfs agent predictions for 2026.",
+        "Pilot Meta's APIs inside your workflows now.",
+        "No demos needed—ship one integration this week.",
+        "Test it today, not next year."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta’s enterprise AI market is already 10x bigger than all the agent hype combined.\n\nZuckerberg is skipping the agent demos and shipping direct API integrations you can pilot this week—no waitlists, no future promises. He’s betting on business software, not agents, to drive revenue.\n\nThat means you can hook Meta’s AI into your own workflows right now, not next year.\n\nWhat single enterprise workflow will you test with these APIs this week? 🛠️⚡"
+    }
+  },
+  "instagram_caption": "Meta’s enterprise AI market is already 10x bigger than all the agent hype combined.\n\nZuckerberg is skipping the agent demos and shipping direct API integrations you can pilot this week—no waitlists, no future promises. He’s betting on business software, not agents, to drive revenue.\n\nThat means you can hook Meta’s AI into your own workflows right now, not next year.\n\nWhat single enterprise workflow will you test with these APIs this week? 🛠️⚡",
+  "carousel_slides": [
+    {
+      "hook": "Is agent hype overrated?",
+      "description": "Zuckerberg says Meta's real AI win is in business software, a market dwarfing agent revenue by 10x.",
+      "visual_hint": "Zuckerberg speaking at conference",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Zuckerberg business conference"
+    },
+    {
+      "hook": "Enterprise bet dwarfs agents.",
+      "description": "Meta targets business software customers directly, a market 10 times bigger than agent forecasts for 2026.",
+      "visual_hint": "Giant stack of coins vs small pile",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stacked coins comparison",
+      "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot AI in your workflows.",
+      "description": "You can already test Meta's AI APIs inside your existing processes today, not wait years for agents.",
+      "visual_hint": "Computer screen with flowing code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code on monitor",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors promise; Meta ships.",
+      "description": "While others chase agent demos, Zuckerberg ships direct integrations for your enterprise stack now.",
+      "visual_hint": "Hand plugging cable into server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand connecting server cable",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one integration this week.",
+      "description": "Integrate Meta's API into a single enterprise workflow. Start now, not next year.",
+      "visual_hint": "Calendar with red circle on this week",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar marked this week",
+      "image": "https://images.pexels.com/photos/7059605/pexels-photo-7059605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
+  "savedAt": "2026-07-30T04:49:53.940Z",
+  "sourceId": "c9945336eb04156b5d433b7b818cb3ca"
+}
