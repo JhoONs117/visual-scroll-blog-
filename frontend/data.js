@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "forward-deployed-engineers-are-the-ai-industry-s-l",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+    "slides": [
+      "Why are forward-deployed engineers suddenly everyone’s top hire?",
+      "They bridge AI code and messy real-world client systems.",
+      "Most AI companies still cannot deploy models without them.",
+      "Your next project ships faster with one embedded in your team.",
+      "Find or train one before your competitor does."
+    ],
+    "thread_text": [
+      "1. The invisible bottleneck\n\nOver 70% of AI prototypes never make it to production because they can't handle real-world data.",
+      "2. They speak two languages\n\nForward-deployed engineers translate between a model's output and a client's legacy infrastructure, a skill most pure MLEs lack.",
+      "3. Why every AI company needs one\n\nWithout this role, deployment cycles drag from weeks to months — and clients usually cancel before the model ever goes live.",
+      "4. The force multiplier effect\n\nOne embedded engineer can cut your team's integration work by half, freeing your ML experts to focus on model improvements instead.",
+      "5. Can you afford to wait?\n\nMap your client's system interfaces this week. If you cannot simulate a deployment scenario with your current team, start looking for that engineer now."
+    ],
+    "video_script": [
+      "Forward-deployed engineers are now the top hire.",
+      "They bridge AI code with messy real systems.",
+      "Most AI companies cannot deploy without them.",
+      "One embedded engineer makes your project ship faster.",
+      "Find or train one before your competitor does."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The invisible bottleneck\n\nOver 70% of AI prototypes never make it to production because they can't handle real-world data.",
+          "2. They speak two languages\n\nForward-deployed engineers translate between a model's output and a client's legacy infrastructure, a skill most pure MLEs lack.",
+          "3. Why every AI company needs one\n\nWithout this role, deployment cycles drag from weeks to months — and clients usually cancel before the model ever goes live.",
+          "4. The force multiplier effect\n\nOne embedded engineer can cut your team's integration work by half, freeing your ML experts to focus on model improvements instead.",
+          "5. Can you afford to wait?\n\nMap your client's system interfaces this week. If you cannot simulate a deployment scenario with your current team, start looking for that engineer now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Forward-deployed engineers are now the top hire.",
+          "They bridge AI code with messy real systems.",
+          "Most AI companies cannot deploy without them.",
+          "One embedded engineer makes your project ship faster.",
+          "Find or train one before your competitor does."
+        ]
+      },
+      "instagram": {
+        "caption": "Over 70% of AI prototypes never go live because they can't handle messy, real-world client data. That’s why \"forward-deployed engineers\" are suddenly the industry’s top hire. They bridge the gap between a model’s output and your broken legacy systems.\n\nWithout one, deployment drags from weeks to months—and clients cancel before the model ever works.\n\nIf you create tools, expect slower rollouts unless you embed this role now 💡 Can you simulate a deployment scenario with your current team today?"
+      }
+    },
+    "instagram_caption": "Over 70% of AI prototypes never go live because they can't handle messy, real-world client data. That’s why \"forward-deployed engineers\" are suddenly the industry’s top hire. They bridge the gap between a model’s output and your broken legacy systems.\n\nWithout one, deployment drags from weeks to months—and clients cancel before the model ever works.\n\nIf you create tools, expect slower rollouts unless you embed this role now 💡 Can you simulate a deployment scenario with your current team today?",
+    "carousel_slides": [
+      {
+        "hook": "70% of AI never ships.",
+        "description": "Most AI prototypes fail in production because they can't handle messy real-world data.",
+        "visual_hint": "Data pipeline with blocks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "They translate two languages.",
+        "description": "Bridge between model outputs and legacy systems — a skill pure ML engineers lack.",
+        "visual_hint": "Two gears connecting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Without them, cycles drag months.",
+        "description": "Deployment takes weeks to months without forward-deployed engineers — clients often cancel.",
+        "visual_hint": "Calendar with red X",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One cuts integration work by half.",
+        "description": "An embedded engineer frees ML experts to focus on model improvements instead of deployment.",
+        "visual_hint": "Team with engineer highlighted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to find one first.",
+        "description": "Map your client's system interfaces this week. If you can't simulate deployment, start hiring now.",
+        "visual_hint": "Checkmark on resume",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2200018679.jpg?resize=1200,633",
+    "savedAt": "2026-07-30T17:16:36.457Z",
+    "sourceId": "2a5e5f8fdade95b038a2c73f6530d6f3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "okta-buys-ai-security-startup-permiso-source-says-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+    "slides": [
+      "Did Okta just bet its future on Permiso's tech?",
+      "Permiso spots identity threats no one else sees.",
+      "Okta paid nearly $200M—its largest security deal yet.",
+      "Your Okta logs may now catch attacks in real time.",
+      "Ask your security team if Permiso is already onboard."
+    ],
+    "thread_text": [
+      "Okta's $200M bet.\n\nPermiso's tech now runs inside Okta's identity fabric. Every login you've logged just became a data point in a real-time threat hunt.",
+      "They see what logs miss.\n\nPermiso spots machine identity abuse, session hijacking, and priv esc that standard monitoring tools ignore. Okta bought that detection engine.",
+      "Your logs just got smarter.\n\nExisting Okta customers get the upgrade without a new deployment. The same logs you already ship now feed Permiso's anomaly detection.",
+      "Real-time, not retro.\n\nMost identity attacks are caught hours later. Permiso flags them mid-session. That's the difference between a block and a breach.",
+      "Ask your security team today.\n\nIs Permiso already active in your Okta tenant? If not, what's the rollout timeline? Push for an answer this week."
+    ],
+    "video_script": [
+      "Okta bet nearly two hundred million.",
+      "Permiso spots identity threats others miss.",
+      "Your logs now catch real-time attacks.",
+      "That means blocking attacks mid-session.",
+      "Ask your team if Permiso is onboard."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "Okta's $200M bet.\n\nPermiso's tech now runs inside Okta's identity fabric. Every login you've logged just became a data point in a real-time threat hunt.",
+          "They see what logs miss.\n\nPermiso spots machine identity abuse, session hijacking, and priv esc that standard monitoring tools ignore. Okta bought that detection engine.",
+          "Your logs just got smarter.\n\nExisting Okta customers get the upgrade without a new deployment. The same logs you already ship now feed Permiso's anomaly detection.",
+          "Real-time, not retro.\n\nMost identity attacks are caught hours later. Permiso flags them mid-session. That's the difference between a block and a breach.",
+          "Ask your security team today.\n\nIs Permiso already active in your Okta tenant? If not, what's the rollout timeline? Push for an answer this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Okta bet nearly two hundred million.",
+          "Permiso spots identity threats others miss.",
+          "Your logs now catch real-time attacks.",
+          "That means blocking attacks mid-session.",
+          "Ask your team if Permiso is onboard."
+        ]
+      },
+      "instagram": {
+        "caption": "Okta just bought a tiny security startup for nearly $200 million to spot threats in your login logs that normal tools miss. 💰\n\nPermiso's engine now lives inside Okta's system, catching machine identity abuse and session hijacking in real time—no new deployment needed. 🔍 That means the logs you already send can now flag an attack mid-session, not hours later.\n\nYour security team just got a silent upgrade that turns every login into a live threat sensor. ⚡\n\nHas your team activated Permiso in your Okta tenant yet? If not, ask when—this week."
+      }
+    },
+    "instagram_caption": "Okta just bought a tiny security startup for nearly $200 million to spot threats in your login logs that normal tools miss. 💰\n\nPermiso's engine now lives inside Okta's system, catching machine identity abuse and session hijacking in real time—no new deployment needed. 🔍 That means the logs you already send can now flag an attack mid-session, not hours later.\n\nYour security team just got a silent upgrade that turns every login into a live threat sensor. ⚡\n\nHas your team activated Permiso in your Okta tenant yet? If not, ask when—this week.",
+    "carousel_slides": [
+      {
+        "hook": "Okta just spent $200M. Why?",
+        "description": "Okta's largest security deal buys Permiso to catch identity threats in real time.",
+        "visual_hint": "security deal contract closeup",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "handshake contract"
+      },
+      {
+        "hook": "Your logs miss these attacks.",
+        "description": "Permiso spots machine identity abuse and session hijacking that standard tools ignore.",
+        "visual_hint": "malicious code on screen",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now every login hunts threats.",
+        "description": "Existing Okta logs feed Permiso's anomaly detection without any new deployment.",
+        "visual_hint": "dashboard with alert lines",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "server rack lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Block attacks mid-session.",
+        "description": "Permiso flags threats in real time, not hours later—the difference between block and breach.",
+        "visual_hint": "hand stopping red signal",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "hand pressing button",
+        "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Ask your team now.",
+        "description": "Check if Permiso is active in your Okta tenant and push for a rollout timeline.",
+        "visual_hint": "phone with checklist app",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
+    "savedAt": "2026-07-30T17:16:24.722Z",
+    "sourceId": "9327b8297589ff6a44643603225b52ed"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "in-the-hugging-face-breach-openai-s-hacker-was-noi",
     "prompt_version": "1.0.0",
     "status": "published",

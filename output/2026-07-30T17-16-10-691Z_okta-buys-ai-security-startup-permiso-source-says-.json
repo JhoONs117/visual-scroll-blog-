@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "okta-buys-ai-security-startup-permiso-source-says-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Okta buys AI security startup Permiso; source says for about $200M",
+  "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+  "pubDate": "Thu, 30 Jul 2026 16:09:42 +0000",
+  "slides": [
+    "Did Okta just bet its future on Permiso's tech?",
+    "Permiso spots identity threats no one else sees.",
+    "Okta paid nearly $200M—its largest security deal yet.",
+    "Your Okta logs may now catch attacks in real time.",
+    "Ask your security team if Permiso is already onboard."
+  ],
+  "thread_text": [
+    "Okta's $200M bet.\n\nPermiso's tech now runs inside Okta's identity fabric. Every login you've logged just became a data point in a real-time threat hunt.",
+    "They see what logs miss.\n\nPermiso spots machine identity abuse, session hijacking, and priv esc that standard monitoring tools ignore. Okta bought that detection engine.",
+    "Your logs just got smarter.\n\nExisting Okta customers get the upgrade without a new deployment. The same logs you already ship now feed Permiso's anomaly detection.",
+    "Real-time, not retro.\n\nMost identity attacks are caught hours later. Permiso flags them mid-session. That's the difference between a block and a breach.",
+    "Ask your security team today.\n\nIs Permiso already active in your Okta tenant? If not, what's the rollout timeline? Push for an answer this week."
+  ],
+  "video_script": [
+    "Okta bet nearly two hundred million.",
+    "Permiso spots identity threats others miss.",
+    "Your logs now catch real-time attacks.",
+    "That means blocking attacks mid-session.",
+    "Ask your team if Permiso is onboard."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Okta's $200M bet.\n\nPermiso's tech now runs inside Okta's identity fabric. Every login you've logged just became a data point in a real-time threat hunt.",
+        "They see what logs miss.\n\nPermiso spots machine identity abuse, session hijacking, and priv esc that standard monitoring tools ignore. Okta bought that detection engine.",
+        "Your logs just got smarter.\n\nExisting Okta customers get the upgrade without a new deployment. The same logs you already ship now feed Permiso's anomaly detection.",
+        "Real-time, not retro.\n\nMost identity attacks are caught hours later. Permiso flags them mid-session. That's the difference between a block and a breach.",
+        "Ask your security team today.\n\nIs Permiso already active in your Okta tenant? If not, what's the rollout timeline? Push for an answer this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Okta bet nearly two hundred million.",
+        "Permiso spots identity threats others miss.",
+        "Your logs now catch real-time attacks.",
+        "That means blocking attacks mid-session.",
+        "Ask your team if Permiso is onboard."
+      ]
+    },
+    "instagram": {
+      "caption": "Okta just bought a tiny security startup for nearly $200 million to spot threats in your login logs that normal tools miss. 💰\n\nPermiso's engine now lives inside Okta's system, catching machine identity abuse and session hijacking in real time—no new deployment needed. 🔍 That means the logs you already send can now flag an attack mid-session, not hours later.\n\nYour security team just got a silent upgrade that turns every login into a live threat sensor. ⚡\n\nHas your team activated Permiso in your Okta tenant yet? If not, ask when—this week."
+    }
+  },
+  "instagram_caption": "Okta just bought a tiny security startup for nearly $200 million to spot threats in your login logs that normal tools miss. 💰\n\nPermiso's engine now lives inside Okta's system, catching machine identity abuse and session hijacking in real time—no new deployment needed. 🔍 That means the logs you already send can now flag an attack mid-session, not hours later.\n\nYour security team just got a silent upgrade that turns every login into a live threat sensor. ⚡\n\nHas your team activated Permiso in your Okta tenant yet? If not, ask when—this week.",
+  "carousel_slides": [
+    {
+      "hook": "Okta just spent $200M. Why?",
+      "description": "Okta's largest security deal buys Permiso to catch identity threats in real time.",
+      "visual_hint": "security deal contract closeup",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "handshake contract"
+    },
+    {
+      "hook": "Your logs miss these attacks.",
+      "description": "Permiso spots machine identity abuse and session hijacking that standard tools ignore.",
+      "visual_hint": "malicious code on screen",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now every login hunts threats.",
+      "description": "Existing Okta logs feed Permiso's anomaly detection without any new deployment.",
+      "visual_hint": "dashboard with alert lines",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "server rack lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Block attacks mid-session.",
+      "description": "Permiso flags threats in real time, not hours later—the difference between block and breach.",
+      "visual_hint": "hand stopping red signal",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask your team now.",
+      "description": "Check if Permiso is active in your Okta tenant and push for a rollout timeline.",
+      "visual_hint": "phone with checklist app",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
+  "savedAt": "2026-07-30T17:16:24.722Z",
+  "sourceId": "9327b8297589ff6a44643603225b52ed"
+}

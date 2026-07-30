@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "forward-deployed-engineers-are-the-ai-industry-s-l",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+  "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+  "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+  "slides": [
+    "Why are forward-deployed engineers suddenly everyone’s top hire?",
+    "They bridge AI code and messy real-world client systems.",
+    "Most AI companies still cannot deploy models without them.",
+    "Your next project ships faster with one embedded in your team.",
+    "Find or train one before your competitor does."
+  ],
+  "thread_text": [
+    "1. The invisible bottleneck\n\nOver 70% of AI prototypes never make it to production because they can't handle real-world data.",
+    "2. They speak two languages\n\nForward-deployed engineers translate between a model's output and a client's legacy infrastructure, a skill most pure MLEs lack.",
+    "3. Why every AI company needs one\n\nWithout this role, deployment cycles drag from weeks to months — and clients usually cancel before the model ever goes live.",
+    "4. The force multiplier effect\n\nOne embedded engineer can cut your team's integration work by half, freeing your ML experts to focus on model improvements instead.",
+    "5. Can you afford to wait?\n\nMap your client's system interfaces this week. If you cannot simulate a deployment scenario with your current team, start looking for that engineer now."
+  ],
+  "video_script": [
+    "Forward-deployed engineers are now the top hire.",
+    "They bridge AI code with messy real systems.",
+    "Most AI companies cannot deploy without them.",
+    "One embedded engineer makes your project ship faster.",
+    "Find or train one before your competitor does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The invisible bottleneck\n\nOver 70% of AI prototypes never make it to production because they can't handle real-world data.",
+        "2. They speak two languages\n\nForward-deployed engineers translate between a model's output and a client's legacy infrastructure, a skill most pure MLEs lack.",
+        "3. Why every AI company needs one\n\nWithout this role, deployment cycles drag from weeks to months — and clients usually cancel before the model ever goes live.",
+        "4. The force multiplier effect\n\nOne embedded engineer can cut your team's integration work by half, freeing your ML experts to focus on model improvements instead.",
+        "5. Can you afford to wait?\n\nMap your client's system interfaces this week. If you cannot simulate a deployment scenario with your current team, start looking for that engineer now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Forward-deployed engineers are now the top hire.",
+        "They bridge AI code with messy real systems.",
+        "Most AI companies cannot deploy without them.",
+        "One embedded engineer makes your project ship faster.",
+        "Find or train one before your competitor does."
+      ]
+    },
+    "instagram": {
+      "caption": "Over 70% of AI prototypes never go live because they can't handle messy, real-world client data. That’s why \"forward-deployed engineers\" are suddenly the industry’s top hire. They bridge the gap between a model’s output and your broken legacy systems.\n\nWithout one, deployment drags from weeks to months—and clients cancel before the model ever works.\n\nIf you create tools, expect slower rollouts unless you embed this role now 💡 Can you simulate a deployment scenario with your current team today?"
+    }
+  },
+  "instagram_caption": "Over 70% of AI prototypes never go live because they can't handle messy, real-world client data. That’s why \"forward-deployed engineers\" are suddenly the industry’s top hire. They bridge the gap between a model’s output and your broken legacy systems.\n\nWithout one, deployment drags from weeks to months—and clients cancel before the model ever works.\n\nIf you create tools, expect slower rollouts unless you embed this role now 💡 Can you simulate a deployment scenario with your current team today?",
+  "carousel_slides": [
+    {
+      "hook": "70% of AI never ships.",
+      "description": "Most AI prototypes fail in production because they can't handle messy real-world data.",
+      "visual_hint": "Data pipeline with blocks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "They translate two languages.",
+      "description": "Bridge between model outputs and legacy systems — a skill pure ML engineers lack.",
+      "visual_hint": "Two gears connecting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Without them, cycles drag months.",
+      "description": "Deployment takes weeks to months without forward-deployed engineers — clients often cancel.",
+      "visual_hint": "Calendar with red X",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One cuts integration work by half.",
+      "description": "An embedded engineer frees ML experts to focus on model improvements instead of deployment.",
+      "visual_hint": "Team with engineer highlighted",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to find one first.",
+      "description": "Map your client's system interfaces this week. If you can't simulate deployment, start hiring now.",
+      "visual_hint": "Checkmark on resume",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2200018679.jpg?resize=1200,633",
+  "savedAt": "2026-07-30T17:16:36.457Z",
+  "sourceId": "2a5e5f8fdade95b038a2c73f6530d6f3"
+}
