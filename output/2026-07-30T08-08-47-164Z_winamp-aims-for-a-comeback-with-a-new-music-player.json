@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "winamp-aims-for-a-comeback-with-a-new-music-player",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+  "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+  "pubDate": "Wed, 29 Jul 2026 21:02:12 +0000",
+  "slides": [
+    "Winamp is back—but can it reclaim your playlist?",
+    "Its new player runs on Deezer’s streaming catalog.",
+    "The old MP3 king now offers no local file support.",
+    "You get Deezer’s library through Winamp’s nostalgic skin.",
+    "Test the beta yourself before judging the reboot."
+  ],
+  "thread_text": [
+    "Winamp is back. Can it win?\n\nBut there’s a catch: the new beta supports zero local files.",
+    "Why kill the MP3 player?\n\nThe old king now runs entirely on Deezer’s streaming catalog.",
+    "Nostalgia sells — but at what cost?\n\nYou get Deezer’s library wrapped in Winamp’s classic skin.",
+    "The twist: no offline freedom.\n\nYour old .mp3 collection is locked out. Streaming only.",
+    "Test the beta today.\n\nDownload it now and see: does the skin alone justify the switch?"
+  ],
+  "video_script": [
+    "Winamp is back, but no local files.",
+    "It now runs on Deezer's streaming library.",
+    "Your old MP3s are locked out.",
+    "You only get Deezer through the skin.",
+    "Test the beta and decide yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "Winamp is back. Can it win?\n\nBut there’s a catch: the new beta supports zero local files.",
+        "Why kill the MP3 player?\n\nThe old king now runs entirely on Deezer’s streaming catalog.",
+        "Nostalgia sells — but at what cost?\n\nYou get Deezer’s library wrapped in Winamp’s classic skin.",
+        "The twist: no offline freedom.\n\nYour old .mp3 collection is locked out. Streaming only.",
+        "Test the beta today.\n\nDownload it now and see: does the skin alone justify the switch?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Winamp is back, but no local files.",
+        "It now runs on Deezer's streaming library.",
+        "Your old MP3s are locked out.",
+        "You only get Deezer through the skin.",
+        "Test the beta and decide yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Your old .mp3 collection won’t play on the new Winamp. It ditched local files entirely. 🎵\n\nThe beta runs only on Deezer’s streaming catalog. Winamp is now a skin over a subscription service, not a player for your own music.\n\nIf you create playlists from personal files, you can’t migrate them—only Deezer’s library works.\n\nWill you switch your workflow for a nostalgic interface? 🎧 Testing the beta now costs your offline freedom."
+    }
+  },
+  "instagram_caption": "Your old .mp3 collection won’t play on the new Winamp. It ditched local files entirely. 🎵\n\nThe beta runs only on Deezer’s streaming catalog. Winamp is now a skin over a subscription service, not a player for your own music.\n\nIf you create playlists from personal files, you can’t migrate them—only Deezer’s library works.\n\nWill you switch your workflow for a nostalgic interface? 🎧 Testing the beta now costs your offline freedom.",
+  "carousel_slides": [
+    {
+      "hook": "Streaming only, no MP3 files.",
+      "description": "Winamp's new beta runs entirely on Deezer, blocking your old MP3 collection.",
+      "visual_hint": "Winamp player with lock icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "winamp player closeup"
+    },
+    {
+      "hook": "Deezer powers the new Winamp.",
+      "description": "The classic skin returns, but the engine is Deezer's streaming catalog, not your local files.",
+      "visual_hint": "Winamp skin over Deezer logo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Deezer logo",
+      "image": "https://images.pexels.com/photos/5077069/pexels-photo-5077069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your .mp3s are locked out.",
+      "description": "The old MP3 king now supports zero local files. Only streaming is possible.",
+      "visual_hint": "MP3 file crossed out red",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "mp3 player icon",
+      "image": "https://images.pexels.com/photos/6889206/pexels-photo-6889206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nostalgia skin, no offline freedom.",
+      "description": "You get Deezer’s library wrapped in Winamp’s classic look, but zero offline control.",
+      "visual_hint": "Hand touching Winamp skin",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the beta link in bio.",
+      "description": "Download the beta now and decide if the nostalgic skin justifies the switch.",
+      "visual_hint": "Beta download button glowing",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "download button",
+      "image": "https://images.pexels.com/photos/12648992/pexels-photo-12648992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1138528725.jpg?resize=1200,800",
+  "savedAt": "2026-07-30T08:08:58.720Z",
+  "sourceId": "6819b39585b503bed7ef5190239910f8"
+}
