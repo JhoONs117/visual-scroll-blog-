@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "synthetic-user-startup-simile-raises-200m-at-2b-va",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+  "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+  "pubDate": "Thu, 30 Jul 2026 17:50:11 +0000",
+  "slides": [
+    "Can a fake user predict your real customer?",
+    "Simile just raised $200M at a $2B valuation.",
+    "Its Series A was only $100M, five months ago.",
+    "Now your A/B tests run on synthetic audiences.",
+    "Test this: run a campaign on Simile first."
+  ],
+  "thread_text": [
+    "1. Is your customer fake?\n\nSimile just raised $200M at a $2B valuation to build synthetic audiences for your A/B tests.",
+    "2. $100M five months ago.\n\nThat Series A was followed by a $200M round — a massive bet on simulated users replacing real ones.",
+    "3. Synthetic audiences work.\n\nSimile claims its fake users can predict real customer behavior better than traditional segments.",
+    "4. Your A/B tests now run on bots.\n\nInstead of testing on real traffic, you simulate the reaction first — then launch to actual humans.",
+    "5. Test it this week.\n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what's the risk?"
+  ],
+  "video_script": [
+    "Your next customer might be fake.",
+    "Simile just raised 200 million dollars.",
+    "Its valuation hit two billion.",
+    "Five months ago it raised 100 million.",
+    "Test your campaign on Simile first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is your customer fake?\n\nSimile just raised $200M at a $2B valuation to build synthetic audiences for your A/B tests.",
+        "2. $100M five months ago.\n\nThat Series A was followed by a $200M round — a massive bet on simulated users replacing real ones.",
+        "3. Synthetic audiences work.\n\nSimile claims its fake users can predict real customer behavior better than traditional segments.",
+        "4. Your A/B tests now run on bots.\n\nInstead of testing on real traffic, you simulate the reaction first — then launch to actual humans.",
+        "5. Test it this week.\n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what's the risk?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your next customer might be fake.",
+        "Simile just raised 200 million dollars.",
+        "Its valuation hit two billion.",
+        "Five months ago it raised 100 million.",
+        "Test your campaign on Simile first."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next A/B test might run on bots that don't exist.  \n\nSimile raised $200M at a $2B valuation—just five months after a $100M round. Synthetic audiences now claim to predict real customer behavior better than your current segments.  \n\nInstead of testing on real traffic, you simulate the reaction first, then launch to actual humans.  \n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what’s your risk? 🧪📈🤖"
+    }
+  },
+  "instagram_caption": "Your next A/B test might run on bots that don't exist.  \n\nSimile raised $200M at a $2B valuation—just five months after a $100M round. Synthetic audiences now claim to predict real customer behavior better than your current segments.  \n\nInstead of testing on real traffic, you simulate the reaction first, then launch to actual humans.  \n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what’s your risk? 🧪📈🤖",
+  "carousel_slides": [
+    {
+      "hook": "What if fake users know better?",
+      "description": "Simile raised $200M at $2B valuation to build synthetic audiences that predict real customers.",
+      "visual_hint": "silhouette vs human face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "silhouette crowd"
+    },
+    {
+      "hook": "$100M to $200M in 5 months.",
+      "description": "Series A followed by massive round bet on simulated users replacing real A/B test segments.",
+      "visual_hint": "stack of dollar bills",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of money",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Synthetic audiences beat real ones.",
+      "description": "Simile claims its fake users predict customer behavior better than traditional segments.",
+      "visual_hint": "graph line pointing up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your A/B tests run on bots now.",
+      "description": "Simulate reaction first on synthetic users, then launch campaign to actual humans.",
+      "visual_hint": "robot hand pressing button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot factory",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it: test campaign on Simile first.",
+      "description": "Run a campaign on Simile. If fake user predicts real outcome, what's the risk? Save this.",
+      "visual_hint": "smartphone with test app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Joon-Sung-Park.-Credit-Simile.jpg?resize=1200,835",
+  "savedAt": "2026-07-30T22:57:03.860Z",
+  "sourceId": "97625a3cb9dd5d3dd78fcb968a617bef"
+}

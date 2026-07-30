@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "investors-love-ai-as-long-as-you-re-a-cloud-host",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Investors love AI, as long as you’re a cloud host",
+  "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+  "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
+  "slides": [
+    "Investors pour billions into AI, but who gets the cash?",
+    "Most funding goes to cloud providers, not AI startups.",
+    "Your AI product may never see that capital directly.",
+    "You must partner with clouds or build on their infrastructure.",
+    "Choose your cloud host now to access investor money."
+  ],
+  "thread_text": [
+    "1. Who actually gets the AI billions?\n\nThe capital flood is real—$26B in 2023—but almost none lands in startup bank accounts.",
+    "2. Cloud giants hoard the cash\n\nAWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending.",
+    "3. Your product never touches it\n\nThat funding pays for data centers and chips, not your feature update or team.",
+    "4. Partnership is the only pipeline\n\nTo access those dollars, you build on their rails or get acquired. No third option.",
+    "5. Pick your cloud host this week\n\nWhich provider do you align with before the next funding wave? Decide today."
+  ],
+  "video_script": [
+    "Investors pour billions into AI.",
+    "But cloud giants capture the cash.",
+    "Your startup never sees that money.",
+    "Partner or build on their infrastructure.",
+    "Choose your cloud host now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who actually gets the AI billions?\n\nThe capital flood is real—$26B in 2023—but almost none lands in startup bank accounts.",
+        "2. Cloud giants hoard the cash\n\nAWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending.",
+        "3. Your product never touches it\n\nThat funding pays for data centers and chips, not your feature update or team.",
+        "4. Partnership is the only pipeline\n\nTo access those dollars, you build on their rails or get acquired. No third option.",
+        "5. Pick your cloud host this week\n\nWhich provider do you align with before the next funding wave? Decide today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Investors pour billions into AI.",
+        "But cloud giants capture the cash.",
+        "Your startup never sees that money.",
+        "Partner or build on their infrastructure.",
+        "Choose your cloud host now."
+      ]
+    },
+    "instagram": {
+      "caption": "$26 billion poured into AI in 2023, and startups saw almost none of it.\n\nCloud giants—AWS, Azure, Google Cloud—grabbed over 70% of that spend. They build the data centers and buy the chips. Your product isn't the customer.\n\nThat investor cash pays for infrastructure, not your feature rollout or team hires. If you don't build on their rails, the money skips you completely.\n\nWhich cloud host did you choose this week? 🏗️💸"
+    }
+  },
+  "instagram_caption": "$26 billion poured into AI in 2023, and startups saw almost none of it.\n\nCloud giants—AWS, Azure, Google Cloud—grabbed over 70% of that spend. They build the data centers and buy the chips. Your product isn't the customer.\n\nThat investor cash pays for infrastructure, not your feature rollout or team hires. If you don't build on their rails, the money skips you completely.\n\nWhich cloud host did you choose this week? 🏗️💸",
+  "carousel_slides": [
+    {
+      "hook": "Your AI startup won't get it.",
+      "description": "$26B flowed to AI in 2023, but almost none reaches startup bank accounts. Infrastructure eats it all.",
+      "visual_hint": "Data center corridor lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "Cloud giants take 70% of AI cash.",
+      "description": "AWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending. Your product sees zero.",
+      "visual_hint": "Three cloud logos stacked",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your funding pays for chips, not you.",
+      "description": "Investor billions buy data centers and GPUs. Your feature updates and team get nothing directly.",
+      "visual_hint": "Microchip close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip",
+      "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Partnerships are your only pipeline.",
+      "description": "To access those dollars, build on cloud rails or get acquired. There is no third option.",
+      "visual_hint": "Two hands shaking",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick your cloud host this week.",
+      "description": "Decide which provider to align with before the next funding wave. Visit link in bio now.",
+      "visual_hint": "Arrow pointing at cloud icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+  "savedAt": "2026-07-30T22:56:53.030Z",
+  "sourceId": "01023a47e3394a269b6247b623860667"
+}

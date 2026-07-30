@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "tim-cook-hints-at-icloud-plus-tier-for-ai-power-us",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+  "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+  "pubDate": "2026-07-30T22:29:45.000Z",
+  "slides": [
+    "Tim Cook just hinted at a new iCloud tier—but for whom?",
+    "It would bundle on-device AI with cloud compute.",
+    "Existing iCloud plans don't include any AI processing.",
+    "Power users might finally get priority AI access.",
+    "Test your workflow: does your current plan bottleneck AI?"
+  ],
+  "thread_text": [
+    "1. Who gets priority AI?\n\nTim Cook hinted at a new iCloud tier that bundles on-device AI with cloud compute — leaving existing plans out.",
+    "2. No AI in current plans\n\nToday’s iCloud storage tiers don’t include any AI processing — you’re paying only for space, not compute power.",
+    "3. Power users targeted\n\nThe new tier would likely give priority AI access to users who need consistent, fast inference — not casual subscribers.",
+    "4. Your workflow suffers\n\nIf your current plan lacks AI support, heavy tasks could bottleneck — timeouts or slowdowns when you need speed.",
+    "5. Test your AI now\n\nTake a prompt with ChatGPT and simulate a multi-step task. If your current plan stalls, benchmark the difference."
+  ],
+  "video_script": [
+    "Tim Cook teased a new iCloud AI tier.",
+    "Current plans have zero AI processing.",
+    "Priority access might go to power users.",
+    "Your workflow may bottleneck without it.",
+    "Test your prompt now and check limits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who gets priority AI?\n\nTim Cook hinted at a new iCloud tier that bundles on-device AI with cloud compute — leaving existing plans out.",
+        "2. No AI in current plans\n\nToday’s iCloud storage tiers don’t include any AI processing — you’re paying only for space, not compute power.",
+        "3. Power users targeted\n\nThe new tier would likely give priority AI access to users who need consistent, fast inference — not casual subscribers.",
+        "4. Your workflow suffers\n\nIf your current plan lacks AI support, heavy tasks could bottleneck — timeouts or slowdowns when you need speed.",
+        "5. Test your AI now\n\nTake a prompt with ChatGPT and simulate a multi-step task. If your current plan stalls, benchmark the difference."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tim Cook teased a new iCloud AI tier.",
+        "Current plans have zero AI processing.",
+        "Priority access might go to power users.",
+        "Your workflow may bottleneck without it.",
+        "Test your prompt now and check limits."
+      ]
+    },
+    "instagram": {
+      "caption": "Your iCloud storage is just for files—not for AI.\n\nTim Cook revealed a new iCloud Plus tier that bundles on-device AI with cloud compute. Current plans have zero AI processing built in. ⚡\n\nIf you push multi-step prompts or run heavy creative workflows, you could face slowdowns or timeouts without priority AI access.\n\nDoes your current plan bottleneck your next project? 🧠"
+    }
+  },
+  "instagram_caption": "Your iCloud storage is just for files—not for AI.\n\nTim Cook revealed a new iCloud Plus tier that bundles on-device AI with cloud compute. Current plans have zero AI processing built in. ⚡\n\nIf you push multi-step prompts or run heavy creative workflows, you could face slowdowns or timeouts without priority AI access.\n\nDoes your current plan bottleneck your next project? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your AI is bottlenecked?",
+      "description": "Tim Cook hinted at a new iCloud tier bundling on-device AI with cloud compute, leaving existing plans out.",
+      "visual_hint": "server racks glowing blue",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center servers"
+    },
+    {
+      "hook": "No AI in current plans",
+      "description": "Today's iCloud storage tiers don't include AI processing — you pay for space, not compute power.",
+      "visual_hint": "broken gear + cloud icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cloud storage icons",
+      "image": "https://images.pexels.com/photos/36420451/pexels-photo-36420451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Priority access for power users",
+      "description": "New tier would give consistent, fast AI inference to those who need it most, not casual subscribers.",
+      "visual_hint": "person receiving fast data stream",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data stream visualization",
+      "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Heavy tasks suffer now",
+      "description": "Without AI support, your current plan bottlenecks — timeouts or slowdowns when speed matters most.",
+      "visual_hint": "traffic jam on digital road",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "traffic jam highway",
+      "image": "https://images.pexels.com/photos/37498129/pexels-photo-37498129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI workflow now",
+      "description": "Run a multi-step ChatGPT task. If your plan stalls, benchmark the difference and save this post.",
+      "visual_hint": "phone showing AI chat timeout",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone ChatGPT app",
+      "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&amp;strip=all&amp;crop=0%2C14.099795843272%2C100%2C71.800408313456&amp;w=1200",
+  "savedAt": "2026-07-30T22:57:16.867Z",
+  "sourceId": "93e1eb3c7f134c96ca59fb908ef986eb"
+}

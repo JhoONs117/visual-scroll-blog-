@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "tim-cook-hints-at-icloud-plus-tier-for-ai-power-us",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "pubDate": "2026-07-30T22:29:45.000Z",
+    "slides": [
+      "Tim Cook just hinted at a new iCloud tier—but for whom?",
+      "It would bundle on-device AI with cloud compute.",
+      "Existing iCloud plans don't include any AI processing.",
+      "Power users might finally get priority AI access.",
+      "Test your workflow: does your current plan bottleneck AI?"
+    ],
+    "thread_text": [
+      "1. Who gets priority AI?\n\nTim Cook hinted at a new iCloud tier that bundles on-device AI with cloud compute — leaving existing plans out.",
+      "2. No AI in current plans\n\nToday’s iCloud storage tiers don’t include any AI processing — you’re paying only for space, not compute power.",
+      "3. Power users targeted\n\nThe new tier would likely give priority AI access to users who need consistent, fast inference — not casual subscribers.",
+      "4. Your workflow suffers\n\nIf your current plan lacks AI support, heavy tasks could bottleneck — timeouts or slowdowns when you need speed.",
+      "5. Test your AI now\n\nTake a prompt with ChatGPT and simulate a multi-step task. If your current plan stalls, benchmark the difference."
+    ],
+    "video_script": [
+      "Tim Cook teased a new iCloud AI tier.",
+      "Current plans have zero AI processing.",
+      "Priority access might go to power users.",
+      "Your workflow may bottleneck without it.",
+      "Test your prompt now and check limits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who gets priority AI?\n\nTim Cook hinted at a new iCloud tier that bundles on-device AI with cloud compute — leaving existing plans out.",
+          "2. No AI in current plans\n\nToday’s iCloud storage tiers don’t include any AI processing — you’re paying only for space, not compute power.",
+          "3. Power users targeted\n\nThe new tier would likely give priority AI access to users who need consistent, fast inference — not casual subscribers.",
+          "4. Your workflow suffers\n\nIf your current plan lacks AI support, heavy tasks could bottleneck — timeouts or slowdowns when you need speed.",
+          "5. Test your AI now\n\nTake a prompt with ChatGPT and simulate a multi-step task. If your current plan stalls, benchmark the difference."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tim Cook teased a new iCloud AI tier.",
+          "Current plans have zero AI processing.",
+          "Priority access might go to power users.",
+          "Your workflow may bottleneck without it.",
+          "Test your prompt now and check limits."
+        ]
+      },
+      "instagram": {
+        "caption": "Your iCloud storage is just for files—not for AI.\n\nTim Cook revealed a new iCloud Plus tier that bundles on-device AI with cloud compute. Current plans have zero AI processing built in. ⚡\n\nIf you push multi-step prompts or run heavy creative workflows, you could face slowdowns or timeouts without priority AI access.\n\nDoes your current plan bottleneck your next project? 🧠"
+      }
+    },
+    "instagram_caption": "Your iCloud storage is just for files—not for AI.\n\nTim Cook revealed a new iCloud Plus tier that bundles on-device AI with cloud compute. Current plans have zero AI processing built in. ⚡\n\nIf you push multi-step prompts or run heavy creative workflows, you could face slowdowns or timeouts without priority AI access.\n\nDoes your current plan bottleneck your next project? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Your AI is bottlenecked?",
+        "description": "Tim Cook hinted at a new iCloud tier bundling on-device AI with cloud compute, leaving existing plans out.",
+        "visual_hint": "server racks glowing blue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center servers"
+      },
+      {
+        "hook": "No AI in current plans",
+        "description": "Today's iCloud storage tiers don't include AI processing — you pay for space, not compute power.",
+        "visual_hint": "broken gear + cloud icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "cloud storage icons",
+        "image": "https://images.pexels.com/photos/36420451/pexels-photo-36420451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Priority access for power users",
+        "description": "New tier would give consistent, fast AI inference to those who need it most, not casual subscribers.",
+        "visual_hint": "person receiving fast data stream",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data stream visualization",
+        "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Heavy tasks suffer now",
+        "description": "Without AI support, your current plan bottlenecks — timeouts or slowdowns when speed matters most.",
+        "visual_hint": "traffic jam on digital road",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "traffic jam highway",
+        "image": "https://images.pexels.com/photos/37498129/pexels-photo-37498129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI workflow now",
+        "description": "Run a multi-step ChatGPT task. If your plan stalls, benchmark the difference and save this post.",
+        "visual_hint": "phone showing AI chat timeout",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone ChatGPT app",
+        "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&amp;strip=all&amp;crop=0%2C14.099795843272%2C100%2C71.800408313456&amp;w=1200",
+    "savedAt": "2026-07-30T22:57:16.867Z",
+    "sourceId": "93e1eb3c7f134c96ca59fb908ef986eb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "synthetic-user-startup-simile-raises-200m-at-2b-va",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "pubDate": "Thu, 30 Jul 2026 17:50:11 +0000",
+    "slides": [
+      "Can a fake user predict your real customer?",
+      "Simile just raised $200M at a $2B valuation.",
+      "Its Series A was only $100M, five months ago.",
+      "Now your A/B tests run on synthetic audiences.",
+      "Test this: run a campaign on Simile first."
+    ],
+    "thread_text": [
+      "1. Is your customer fake?\n\nSimile just raised $200M at a $2B valuation to build synthetic audiences for your A/B tests.",
+      "2. $100M five months ago.\n\nThat Series A was followed by a $200M round — a massive bet on simulated users replacing real ones.",
+      "3. Synthetic audiences work.\n\nSimile claims its fake users can predict real customer behavior better than traditional segments.",
+      "4. Your A/B tests now run on bots.\n\nInstead of testing on real traffic, you simulate the reaction first — then launch to actual humans.",
+      "5. Test it this week.\n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what's the risk?"
+    ],
+    "video_script": [
+      "Your next customer might be fake.",
+      "Simile just raised 200 million dollars.",
+      "Its valuation hit two billion.",
+      "Five months ago it raised 100 million.",
+      "Test your campaign on Simile first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is your customer fake?\n\nSimile just raised $200M at a $2B valuation to build synthetic audiences for your A/B tests.",
+          "2. $100M five months ago.\n\nThat Series A was followed by a $200M round — a massive bet on simulated users replacing real ones.",
+          "3. Synthetic audiences work.\n\nSimile claims its fake users can predict real customer behavior better than traditional segments.",
+          "4. Your A/B tests now run on bots.\n\nInstead of testing on real traffic, you simulate the reaction first — then launch to actual humans.",
+          "5. Test it this week.\n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what's the risk?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your next customer might be fake.",
+          "Simile just raised 200 million dollars.",
+          "Its valuation hit two billion.",
+          "Five months ago it raised 100 million.",
+          "Test your campaign on Simile first."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next A/B test might run on bots that don't exist.  \n\nSimile raised $200M at a $2B valuation—just five months after a $100M round. Synthetic audiences now claim to predict real customer behavior better than your current segments.  \n\nInstead of testing on real traffic, you simulate the reaction first, then launch to actual humans.  \n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what’s your risk? 🧪📈🤖"
+      }
+    },
+    "instagram_caption": "Your next A/B test might run on bots that don't exist.  \n\nSimile raised $200M at a $2B valuation—just five months after a $100M round. Synthetic audiences now claim to predict real customer behavior better than your current segments.  \n\nInstead of testing on real traffic, you simulate the reaction first, then launch to actual humans.  \n\nRun a campaign on Simile first. If the fake user predicts the real outcome, what’s your risk? 🧪📈🤖",
+    "carousel_slides": [
+      {
+        "hook": "What if fake users know better?",
+        "description": "Simile raised $200M at $2B valuation to build synthetic audiences that predict real customers.",
+        "visual_hint": "silhouette vs human face",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "silhouette crowd"
+      },
+      {
+        "hook": "$100M to $200M in 5 months.",
+        "description": "Series A followed by massive round bet on simulated users replacing real A/B test segments.",
+        "visual_hint": "stack of dollar bills",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Synthetic audiences beat real ones.",
+        "description": "Simile claims its fake users predict customer behavior better than traditional segments.",
+        "visual_hint": "graph line pointing up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your A/B tests run on bots now.",
+        "description": "Simulate reaction first on synthetic users, then launch campaign to actual humans.",
+        "visual_hint": "robot hand pressing button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot factory",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it: test campaign on Simile first.",
+        "description": "Run a campaign on Simile. If fake user predicts real outcome, what's the risk? Save this.",
+        "visual_hint": "smartphone with test app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Joon-Sung-Park.-Credit-Simile.jpg?resize=1200,835",
+    "savedAt": "2026-07-30T22:57:03.860Z",
+    "sourceId": "97625a3cb9dd5d3dd78fcb968a617bef"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "investors-love-ai-as-long-as-you-re-a-cloud-host",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "pubDate": "Thu, 30 Jul 2026 22:41:41 +0000",
+    "slides": [
+      "Investors pour billions into AI, but who gets the cash?",
+      "Most funding goes to cloud providers, not AI startups.",
+      "Your AI product may never see that capital directly.",
+      "You must partner with clouds or build on their infrastructure.",
+      "Choose your cloud host now to access investor money."
+    ],
+    "thread_text": [
+      "1. Who actually gets the AI billions?\n\nThe capital flood is real—$26B in 2023—but almost none lands in startup bank accounts.",
+      "2. Cloud giants hoard the cash\n\nAWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending.",
+      "3. Your product never touches it\n\nThat funding pays for data centers and chips, not your feature update or team.",
+      "4. Partnership is the only pipeline\n\nTo access those dollars, you build on their rails or get acquired. No third option.",
+      "5. Pick your cloud host this week\n\nWhich provider do you align with before the next funding wave? Decide today."
+    ],
+    "video_script": [
+      "Investors pour billions into AI.",
+      "But cloud giants capture the cash.",
+      "Your startup never sees that money.",
+      "Partner or build on their infrastructure.",
+      "Choose your cloud host now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who actually gets the AI billions?\n\nThe capital flood is real—$26B in 2023—but almost none lands in startup bank accounts.",
+          "2. Cloud giants hoard the cash\n\nAWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending.",
+          "3. Your product never touches it\n\nThat funding pays for data centers and chips, not your feature update or team.",
+          "4. Partnership is the only pipeline\n\nTo access those dollars, you build on their rails or get acquired. No third option.",
+          "5. Pick your cloud host this week\n\nWhich provider do you align with before the next funding wave? Decide today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Investors pour billions into AI.",
+          "But cloud giants capture the cash.",
+          "Your startup never sees that money.",
+          "Partner or build on their infrastructure.",
+          "Choose your cloud host now."
+        ]
+      },
+      "instagram": {
+        "caption": "$26 billion poured into AI in 2023, and startups saw almost none of it.\n\nCloud giants—AWS, Azure, Google Cloud—grabbed over 70% of that spend. They build the data centers and buy the chips. Your product isn't the customer.\n\nThat investor cash pays for infrastructure, not your feature rollout or team hires. If you don't build on their rails, the money skips you completely.\n\nWhich cloud host did you choose this week? 🏗️💸"
+      }
+    },
+    "instagram_caption": "$26 billion poured into AI in 2023, and startups saw almost none of it.\n\nCloud giants—AWS, Azure, Google Cloud—grabbed over 70% of that spend. They build the data centers and buy the chips. Your product isn't the customer.\n\nThat investor cash pays for infrastructure, not your feature rollout or team hires. If you don't build on their rails, the money skips you completely.\n\nWhich cloud host did you choose this week? 🏗️💸",
+    "carousel_slides": [
+      {
+        "hook": "Your AI startup won't get it.",
+        "description": "$26B flowed to AI in 2023, but almost none reaches startup bank accounts. Infrastructure eats it all.",
+        "visual_hint": "Data center corridor lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center"
+      },
+      {
+        "hook": "Cloud giants take 70% of AI cash.",
+        "description": "AWS, Azure, and Google Cloud capture over 70% of AI infrastructure spending. Your product sees zero.",
+        "visual_hint": "Three cloud logos stacked",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your funding pays for chips, not you.",
+        "description": "Investor billions buy data centers and GPUs. Your feature updates and team get nothing directly.",
+        "visual_hint": "Microchip close-up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip",
+        "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Partnerships are your only pipeline.",
+        "description": "To access those dollars, build on cloud rails or get acquired. There is no third option.",
+        "visual_hint": "Two hands shaking",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake",
+        "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pick your cloud host this week.",
+        "description": "Decide which provider to align with before the next funding wave. Visit link in bio now.",
+        "visual_hint": "Arrow pointing at cloud icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cloud computing",
+        "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+    "savedAt": "2026-07-30T22:56:53.030Z",
+    "sourceId": "01023a47e3394a269b6247b623860667"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "zoox-clears-final-federal-hurdle-to-launch-paid-ro",
     "prompt_version": "1.0.0",
     "status": "published",
