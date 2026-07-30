@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "florida-plans-to-build-air-taxi-pads-using-200m-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+  "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+  "pubDate": "Thu, 30 Jul 2026 18:38:12 +0000",
+  "slides": [
+    "Florida redirected $200M from EV chargers. To where?",
+    "The money will fund air taxi landing pads.",
+    "Electric planes need pads, not just cars need plugs.",
+    "Your next airport trip could start at a local pad.",
+    "Check if your city is on the planned pad map."
+  ],
+  "thread_text": [
+    "1. Florida’s $200M move\n\nState redirected EV charger funds to air taxi landing pads.",
+    "2. Planes need real estate\n\nElectric planes don't plug into parking lots; they need dedicated pads.",
+    "3. New commute chain\n\nYour airport trip could start at a local pad, not a terminal gate.",
+    "4. Map check pending\n\nSome cities are already on the planned pad map; others are not.",
+    "5. Is your city listed?\n\nOpen the planned pad map now and see if your city is on it."
+  ],
+  "video_script": [
+    "Florida moved 200 million from EV chargers.",
+    "The money goes to air taxi landing pads.",
+    "Electric planes need pads, not just plugs.",
+    "Your next airport trip could start locally.",
+    "Check if your city is on the map."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Florida’s $200M move\n\nState redirected EV charger funds to air taxi landing pads.",
+        "2. Planes need real estate\n\nElectric planes don't plug into parking lots; they need dedicated pads.",
+        "3. New commute chain\n\nYour airport trip could start at a local pad, not a terminal gate.",
+        "4. Map check pending\n\nSome cities are already on the planned pad map; others are not.",
+        "5. Is your city listed?\n\nOpen the planned pad map now and see if your city is on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Florida moved 200 million from EV chargers.",
+        "The money goes to air taxi landing pads.",
+        "Electric planes need pads, not just plugs.",
+        "Your next airport trip could start locally.",
+        "Check if your city is on the map."
+      ]
+    },
+    "instagram": {
+      "caption": "Florida just pulled $200 million meant for EV chargers and put it toward air taxi landing pads instead. ✈️\n\nElectric planes don't plug into parking lots — they need dedicated real estate to land and take off. So the state is betting on pads, not plugs, to change how you get to the airport.\n\nYour next commute could end at a local pad, not a terminal gate.\n\nIs your city on the planned landing pad map? 📍"
+    }
+  },
+  "instagram_caption": "Florida just pulled $200 million meant for EV chargers and put it toward air taxi landing pads instead. ✈️\n\nElectric planes don't plug into parking lots — they need dedicated real estate to land and take off. So the state is betting on pads, not plugs, to change how you get to the airport.\n\nYour next commute could end at a local pad, not a terminal gate.\n\nIs your city on the planned landing pad map? 📍",
+  "carousel_slides": [
+    {
+      "hook": "Your EV funds bought plane pads?",
+      "description": "Florida redirected $200M from EV chargers to build landing pads for electric air taxis.",
+      "visual_hint": "money shifting between uses",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Florida highway electric car"
+    },
+    {
+      "hook": "Planes need real estate too.",
+      "description": "Electric planes can't just plug into parking lots; they need dedicated pads to take off and land.",
+      "visual_hint": "air taxi pad design",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "electric aircraft landing pad",
+      "image": "https://images.pexels.com/photos/4802538/pexels-photo-4802538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next flight starts nearby.",
+      "description": "Your airport trip could begin at a local pad, not the main terminal gate.",
+      "visual_hint": "passenger boarding small plane",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "small electric plane boarding",
+      "image": "https://images.pexels.com/photos/37645088/pexels-photo-37645088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which cities made the map?",
+      "description": "Some Florida cities are already on the planned pad map; others are not included yet.",
+      "visual_hint": "map with highlighted spots",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Florida map with pins",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your city.",
+      "description": "Open the planned pad map in our bio and see if your city is listed.",
+      "visual_hint": "finger tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone map app",
+      "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/06/Joby-Aviation-Production-Prototype.jpg?resize=1200,800",
+  "savedAt": "2026-07-30T20:57:43.171Z",
+  "sourceId": "71cfd382e52f98ccb19a93e9d130dc2e"
+}

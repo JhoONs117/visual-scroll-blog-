@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "judge-says-trump-admin-still-lacks-evidence-for-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+  "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+  "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+  "slides": [
+    "Can a judge truly call out a security risk as baseless?",
+    "The Trump admin labeled Anthropic a supply chain threat.",
+    "But the court found zero evidence for that claim.",
+    "Your AI vendor choices just got less politically risky.",
+    "Demand proof before accepting any vendor risk label."
+  ],
+  "thread_text": [
+    "1. Who needs evidence?\n\nA federal court just ruled there was zero proof for the Trump admin’s claim that Anthropic is a supply chain threat.",
+    "2. The baseless label\n\nLabeling an AI vendor as a security risk can tank contracts—but the judge called this one unsupported by any fact.",
+    "3. Political risk drops\n\nIf a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+    "4. Demand the proof\n\nBefore you accept any vendor risk label, ask for the specific evidence—otherwise you’re acting on politics, not security.",
+    "5. One question for you\n\nPull your last security vendor assessment and check: does every risk claim have cited proof?"
+  ],
+  "video_script": [
+    "Judge says no evidence for AI threat claim.",
+    "Trump admin labeled Anthropic a supply chain risk.",
+    "Court found the claim completely baseless.",
+    "Your AI vendor choices are less risky now.",
+    "Demand proof before accepting any risk label."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who needs evidence?\n\nA federal court just ruled there was zero proof for the Trump admin’s claim that Anthropic is a supply chain threat.",
+        "2. The baseless label\n\nLabeling an AI vendor as a security risk can tank contracts—but the judge called this one unsupported by any fact.",
+        "3. Political risk drops\n\nIf a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+        "4. Demand the proof\n\nBefore you accept any vendor risk label, ask for the specific evidence—otherwise you’re acting on politics, not security.",
+        "5. One question for you\n\nPull your last security vendor assessment and check: does every risk claim have cited proof?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Judge says no evidence for AI threat claim.",
+        "Trump admin labeled Anthropic a supply chain risk.",
+        "Court found the claim completely baseless.",
+        "Your AI vendor choices are less risky now.",
+        "Demand proof before accepting any risk label."
+      ]
+    },
+    "instagram": {
+      "caption": "A federal judge just ruled there was zero evidence for the Trump administration’s claim that AI company Anthropic is a supply chain risk.\n\nThat label was strong enough to tank contracts – but the court found it baseless ⚖️\n\nPolitical labels are now harder to stick on vendors without hard proof.\n\nIf you're choosing an AI tool, this ruling means less partisan interference in your options.\n\nWhen was the last time you asked for the specific evidence behind a security warning you trusted?"
+    }
+  },
+  "instagram_caption": "A federal judge just ruled there was zero evidence for the Trump administration’s claim that AI company Anthropic is a supply chain risk.\n\nThat label was strong enough to tank contracts – but the court found it baseless ⚖️\n\nPolitical labels are now harder to stick on vendors without hard proof.\n\nIf you're choosing an AI tool, this ruling means less partisan interference in your options.\n\nWhen was the last time you asked for the specific evidence behind a security warning you trusted?",
+  "carousel_slides": [
+    {
+      "hook": "Zero evidence needed?",
+      "description": "A federal court ruled the Trump admin had no proof to label Anthropic a supply chain threat.",
+      "visual_hint": "Empty evidence folder",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty file folder"
+    },
+    {
+      "hook": "Baseless risk label quashed.",
+      "description": "Labeling an AI vendor as a security risk can tank contracts, but the judge found zero supporting facts.",
+      "visual_hint": "Broken chain link",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken chain metal",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Political risk drops for AI vendors.",
+      "description": "If a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+      "visual_hint": "Downward arrow chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand proof, not politics.",
+      "description": "Before accepting any vendor risk label, ask for specific evidence—otherwise you act on politics, not security.",
+      "visual_hint": "Person asking question",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check your vendor risk.",
+      "description": "Pull your last security vendor assessment and verify every risk claim has cited proof.",
+      "visual_hint": "Checklist with tick marks",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+  "savedAt": "2026-07-30T20:57:31.690Z",
+  "sourceId": "358552aaff9aa3c45e18f8fcc8605740"
+}

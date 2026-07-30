@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "zoox-clears-final-federal-hurdle-to-launch-paid-ro",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "pubDate": "Thu, 30 Jul 2026 13:09:03 +0000",
+      "slides": [
+        "Zoox is cleared to launch paid rides—but where?",
+        "It passed a final federal safety review in 2025.",
+        "Unlike rivals, Zoox’s vehicle has no steering wheel.",
+        "You can summon a two-seater pod via an app soon.",
+        "Test a Zoox ride vs. your current commute today."
+      ],
+      "thread_text": [
+        "1. Where's the road?\n\nZoox got the green light to charge for rides, but hasn't said which city you'll actually ride in.",
+        "2. No wheel, no pedals.\n\nThat final safety review approved a vehicle that can't be driven manually — there's literally no steering wheel inside.",
+        "3. Summon a pod.\n\nOpen the app, tap for a two-seater, and it comes to you. No driver, no walking to a pickup spot.",
+        "4. Rivals watch closely.\n\nWaymo and Cruise use modified cars with steering wheels. Zoox's design means every mile is truly driverless.",
+        "5. Test your commute today.\n\nOpen Google Maps and time your usual trip. Then check Zoox's planned service zone — does the pod beat your car?"
+      ],
+      "video_script": [
+        "Zoox can now charge for rides.",
+        "But where will you ride?",
+        "No steering wheel inside.",
+        "Summon a pod from an app.",
+        "Test your commute against the pod."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Where's the road?\n\nZoox got the green light to charge for rides, but hasn't said which city you'll actually ride in.",
+            "2. No wheel, no pedals.\n\nThat final safety review approved a vehicle that can't be driven manually — there's literally no steering wheel inside.",
+            "3. Summon a pod.\n\nOpen the app, tap for a two-seater, and it comes to you. No driver, no walking to a pickup spot.",
+            "4. Rivals watch closely.\n\nWaymo and Cruise use modified cars with steering wheels. Zoox's design means every mile is truly driverless.",
+            "5. Test your commute today.\n\nOpen Google Maps and time your usual trip. Then check Zoox's planned service zone — does the pod beat your car?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Zoox can now charge for rides.",
+            "But where will you ride?",
+            "No steering wheel inside.",
+            "Summon a pod from an app.",
+            "Test your commute against the pod."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next taxi could have no driver and no steering wheel.\n\nZoox just passed its final federal safety review, clearing the way to launch paid rides. Unlike Waymo or Cruise, this pod is built from scratch to be driverless—no manual controls at all.\n\nYou’ll summon a two-seater via app, climb in, and go. The car drives itself on every mile 🚘\n\nFor creators and commuters: the option of a genuine driverless ride—no human backup—could reshape how you budget travel time or film content on the go.\n\nOpen Google Maps, time your usual trip, then check Zoox's service zone—does the pod beat your car today? 🧭"
+        }
+      },
+      "instagram_caption": "Your next taxi could have no driver and no steering wheel.\n\nZoox just passed its final federal safety review, clearing the way to launch paid rides. Unlike Waymo or Cruise, this pod is built from scratch to be driverless—no manual controls at all.\n\nYou’ll summon a two-seater via app, climb in, and go. The car drives itself on every mile 🚘\n\nFor creators and commuters: the option of a genuine driverless ride—no human backup—could reshape how you budget travel time or film content on the go.\n\nOpen Google Maps, time your usual trip, then check Zoox's service zone—does the pod beat your car today? 🧭",
+      "carousel_slides": [
+        {
+          "hook": "No steering wheel, no driver.",
+          "description": "Zoox passed a final federal safety review for a vehicle with no manual controls — every ride is truly driverless.",
+          "visual_hint": "Driverless pod interior",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous pod interior"
+        },
+        {
+          "hook": "Where will it actually launch?",
+          "description": "Zoox got the green light to charge for rides, but hasn't announced which city you'll ride in yet.",
+          "visual_hint": "City map with pin",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "city map location pin",
+          "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Summon a two-seater pod.",
+          "description": "Open an app, tap for a pod, and it comes to you — no walking to a pickup spot.",
+          "visual_hint": "Phone app summon screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone app ride",
+          "image": "https://images.pexels.com/photos/12205370/pexels-photo-12205370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals have steering wheels.",
+          "description": "Waymo and Cruise use modified cars with manual controls. Zoox's design means every mile is truly driverless.",
+          "visual_hint": "Steering wheel vs. empty dash",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "car steering wheel",
+          "image": "https://images.pexels.com/photos/38712751/pexels-photo-38712751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your commute now.",
+          "description": "Time your usual trip with Google Maps, then check Zoox's planned zone — does the pod beat your car?",
+          "visual_hint": "Stopwatch and route",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Google Maps route",
+          "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-austin-getty.jpg?resize=1200,788",
+      "savedAt": "2026-07-30T20:57:56.428Z",
+      "sourceId": "32005897187aff8d1722a4e6b1f5ae7c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "florida-plans-to-build-air-taxi-pads-using-200m-in",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+      "pubDate": "Thu, 30 Jul 2026 18:38:12 +0000",
+      "slides": [
+        "Florida redirected $200M from EV chargers. To where?",
+        "The money will fund air taxi landing pads.",
+        "Electric planes need pads, not just cars need plugs.",
+        "Your next airport trip could start at a local pad.",
+        "Check if your city is on the planned pad map."
+      ],
+      "thread_text": [
+        "1. Florida’s $200M move\n\nState redirected EV charger funds to air taxi landing pads.",
+        "2. Planes need real estate\n\nElectric planes don't plug into parking lots; they need dedicated pads.",
+        "3. New commute chain\n\nYour airport trip could start at a local pad, not a terminal gate.",
+        "4. Map check pending\n\nSome cities are already on the planned pad map; others are not.",
+        "5. Is your city listed?\n\nOpen the planned pad map now and see if your city is on it."
+      ],
+      "video_script": [
+        "Florida moved 200 million from EV chargers.",
+        "The money goes to air taxi landing pads.",
+        "Electric planes need pads, not just plugs.",
+        "Your next airport trip could start locally.",
+        "Check if your city is on the map."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Florida’s $200M move\n\nState redirected EV charger funds to air taxi landing pads.",
+            "2. Planes need real estate\n\nElectric planes don't plug into parking lots; they need dedicated pads.",
+            "3. New commute chain\n\nYour airport trip could start at a local pad, not a terminal gate.",
+            "4. Map check pending\n\nSome cities are already on the planned pad map; others are not.",
+            "5. Is your city listed?\n\nOpen the planned pad map now and see if your city is on it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Florida moved 200 million from EV chargers.",
+            "The money goes to air taxi landing pads.",
+            "Electric planes need pads, not just plugs.",
+            "Your next airport trip could start locally.",
+            "Check if your city is on the map."
+          ]
+        },
+        "instagram": {
+          "caption": "Florida just pulled $200 million meant for EV chargers and put it toward air taxi landing pads instead. ✈️\n\nElectric planes don't plug into parking lots — they need dedicated real estate to land and take off. So the state is betting on pads, not plugs, to change how you get to the airport.\n\nYour next commute could end at a local pad, not a terminal gate.\n\nIs your city on the planned landing pad map? 📍"
+        }
+      },
+      "instagram_caption": "Florida just pulled $200 million meant for EV chargers and put it toward air taxi landing pads instead. ✈️\n\nElectric planes don't plug into parking lots — they need dedicated real estate to land and take off. So the state is betting on pads, not plugs, to change how you get to the airport.\n\nYour next commute could end at a local pad, not a terminal gate.\n\nIs your city on the planned landing pad map? 📍",
+      "carousel_slides": [
+        {
+          "hook": "Your EV funds bought plane pads?",
+          "description": "Florida redirected $200M from EV chargers to build landing pads for electric air taxis.",
+          "visual_hint": "money shifting between uses",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Florida highway electric car"
+        },
+        {
+          "hook": "Planes need real estate too.",
+          "description": "Electric planes can't just plug into parking lots; they need dedicated pads to take off and land.",
+          "visual_hint": "air taxi pad design",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "electric aircraft landing pad",
+          "image": "https://images.pexels.com/photos/4802538/pexels-photo-4802538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next flight starts nearby.",
+          "description": "Your airport trip could begin at a local pad, not the main terminal gate.",
+          "visual_hint": "passenger boarding small plane",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "small electric plane boarding",
+          "image": "https://images.pexels.com/photos/37645088/pexels-photo-37645088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Which cities made the map?",
+          "description": "Some Florida cities are already on the planned pad map; others are not included yet.",
+          "visual_hint": "map with highlighted spots",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "Florida map with pins",
+          "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check your city.",
+          "description": "Open the planned pad map in our bio and see if your city is listed.",
+          "visual_hint": "finger tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone map app",
+          "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/06/Joby-Aviation-Production-Prototype.jpg?resize=1200,800",
+      "savedAt": "2026-07-30T20:57:43.171Z",
+      "sourceId": "71cfd382e52f98ccb19a93e9d130dc2e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "judge-says-trump-admin-still-lacks-evidence-for-an",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "slides": [
+        "Can a judge truly call out a security risk as baseless?",
+        "The Trump admin labeled Anthropic a supply chain threat.",
+        "But the court found zero evidence for that claim.",
+        "Your AI vendor choices just got less politically risky.",
+        "Demand proof before accepting any vendor risk label."
+      ],
+      "thread_text": [
+        "1. Who needs evidence?\n\nA federal court just ruled there was zero proof for the Trump admin’s claim that Anthropic is a supply chain threat.",
+        "2. The baseless label\n\nLabeling an AI vendor as a security risk can tank contracts—but the judge called this one unsupported by any fact.",
+        "3. Political risk drops\n\nIf a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+        "4. Demand the proof\n\nBefore you accept any vendor risk label, ask for the specific evidence—otherwise you’re acting on politics, not security.",
+        "5. One question for you\n\nPull your last security vendor assessment and check: does every risk claim have cited proof?"
+      ],
+      "video_script": [
+        "Judge says no evidence for AI threat claim.",
+        "Trump admin labeled Anthropic a supply chain risk.",
+        "Court found the claim completely baseless.",
+        "Your AI vendor choices are less risky now.",
+        "Demand proof before accepting any risk label."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who needs evidence?\n\nA federal court just ruled there was zero proof for the Trump admin’s claim that Anthropic is a supply chain threat.",
+            "2. The baseless label\n\nLabeling an AI vendor as a security risk can tank contracts—but the judge called this one unsupported by any fact.",
+            "3. Political risk drops\n\nIf a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+            "4. Demand the proof\n\nBefore you accept any vendor risk label, ask for the specific evidence—otherwise you’re acting on politics, not security.",
+            "5. One question for you\n\nPull your last security vendor assessment and check: does every risk claim have cited proof?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Judge says no evidence for AI threat claim.",
+            "Trump admin labeled Anthropic a supply chain risk.",
+            "Court found the claim completely baseless.",
+            "Your AI vendor choices are less risky now.",
+            "Demand proof before accepting any risk label."
+          ]
+        },
+        "instagram": {
+          "caption": "A federal judge just ruled there was zero evidence for the Trump administration’s claim that AI company Anthropic is a supply chain risk.\n\nThat label was strong enough to tank contracts – but the court found it baseless ⚖️\n\nPolitical labels are now harder to stick on vendors without hard proof.\n\nIf you're choosing an AI tool, this ruling means less partisan interference in your options.\n\nWhen was the last time you asked for the specific evidence behind a security warning you trusted?"
+        }
+      },
+      "instagram_caption": "A federal judge just ruled there was zero evidence for the Trump administration’s claim that AI company Anthropic is a supply chain risk.\n\nThat label was strong enough to tank contracts – but the court found it baseless ⚖️\n\nPolitical labels are now harder to stick on vendors without hard proof.\n\nIf you're choosing an AI tool, this ruling means less partisan interference in your options.\n\nWhen was the last time you asked for the specific evidence behind a security warning you trusted?",
+      "carousel_slides": [
+        {
+          "hook": "Zero evidence needed?",
+          "description": "A federal court ruled the Trump admin had no proof to label Anthropic a supply chain threat.",
+          "visual_hint": "Empty evidence folder",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty file folder"
+        },
+        {
+          "hook": "Baseless risk label quashed.",
+          "description": "Labeling an AI vendor as a security risk can tank contracts, but the judge found zero supporting facts.",
+          "visual_hint": "Broken chain link",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken chain metal",
+          "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Political risk drops for AI vendors.",
+          "description": "If a court dismisses a politically driven threat claim, your future vendor choices face less partisan interference.",
+          "visual_hint": "Downward arrow chart",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand proof, not politics.",
+          "description": "Before accepting any vendor risk label, ask for specific evidence—otherwise you act on politics, not security.",
+          "visual_hint": "Person asking question",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check your vendor risk.",
+          "description": "Pull your last security vendor assessment and verify every risk claim has cited proof.",
+          "visual_hint": "Checklist with tick marks",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+      "savedAt": "2026-07-30T20:57:31.690Z",
+      "sourceId": "358552aaff9aa3c45e18f8fcc8605740"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-deepmind-s-new-ai-model-can-control-a-robot",
       "prompt_version": "1.0.0",
       "status": "published",
