@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-hugging-face-break-in-explained",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The Hugging Face break-in explained",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "pubDate": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "slides": [
+        "Who broke into Hugging Face's secrets?",
+        "Tokens and keys were exposed in a hub breach.",
+        "The hacker had inside access to pull requests.",
+        "You must revoke all exposed tokens immediately.",
+        "Audit your own model repos today."
+      ],
+      "thread_text": [
+        "1. The insider threat\n\nA hacker used inside access to pull requests, exposing tokens and keys in Hugging Face's hub.",
+        "2. What was taken\n\nExposed tokens can unlock private models and datasets, not just public repos.",
+        "3. The breach method\n\nThe attacker didn't break in — they exploited a pull request workflow already in place.",
+        "4. Immediate fallout\n\nEvery exposed token must be revoked now. Delaying gives attackers more time to pivot.",
+        "5. Your next move\n\nAudit your own model repos for exposed secrets today. Can you confirm none are public?"
+      ],
+      "video_script": [
+        "Insider access exposed tokens and keys.",
+        "Attackers exploited a pull request workflow.",
+        "Revoke all exposed tokens immediately.",
+        "Audit your own model repos today.",
+        "Don't delay — check for secrets now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The insider threat\n\nA hacker used inside access to pull requests, exposing tokens and keys in Hugging Face's hub.",
+            "2. What was taken\n\nExposed tokens can unlock private models and datasets, not just public repos.",
+            "3. The breach method\n\nThe attacker didn't break in — they exploited a pull request workflow already in place.",
+            "4. Immediate fallout\n\nEvery exposed token must be revoked now. Delaying gives attackers more time to pivot.",
+            "5. Your next move\n\nAudit your own model repos for exposed secrets today. Can you confirm none are public?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Insider access exposed tokens and keys.",
+            "Attackers exploited a pull request workflow.",
+            "Revoke all exposed tokens immediately.",
+            "Audit your own model repos today.",
+            "Don't delay — check for secrets now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your tokens and private model keys were stolen through an inside pull request at Hugging Face.\n\nThe attacker didn't break in—they used existing access to read exposed secrets from the Hub. Those tokens can unlock private models and datasets, not just public repos.\n\nIf you or your team push code to any model repo, every exposed token must be revoked now. One delay gives attackers a pivot into your work.\n\nWhen was the last time you audited your own repos for hardcoded keys? 🕵️‍♂️"
+        }
+      },
+      "instagram_caption": "Your tokens and private model keys were stolen through an inside pull request at Hugging Face.\n\nThe attacker didn't break in—they used existing access to read exposed secrets from the Hub. Those tokens can unlock private models and datasets, not just public repos.\n\nIf you or your team push code to any model repo, every exposed token must be revoked now. One delay gives attackers a pivot into your work.\n\nWhen was the last time you audited your own repos for hardcoded keys? 🕵️‍♂️",
+      "carousel_slides": [
+        {
+          "hook": "Your AI secrets are exposed.",
+          "description": "A hacker used inside access to pull requests, stealing tokens from Hugging Face's hub.",
+          "visual_hint": "glowing padlock cracked open",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "What did they take?",
+          "description": "Exposed tokens unlock private models and datasets, not just public repositories.",
+          "visual_hint": "token keys floating",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No brute force needed.",
+          "description": "The attacker exploited a pull request workflow already in place, not a technical breach.",
+          "visual_hint": "code workflow diagram",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Revoke all tokens now.",
+          "description": "Every exposed token must be revoked immediately. Delaying gives attackers time to pivot.",
+          "visual_hint": "alarm clock ticking",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "keyboard typing",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your repos.",
+          "description": "Audit your own model repos today for exposed secrets — confirm none are public.",
+          "visual_hint": "checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+      "savedAt": "2026-07-30T11:46:02.675Z",
+      "sourceId": "101b78fb3cd4957b579ff042e4283c72"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "zuckerberg-details-meta-s-personal-ai-superintelli",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+      "pubDate": "Thu, 30 Jul 2026 11:12:11 +0000",
+      "slides": [
+        "Mark Zuckerberg plans to build AI smarter than humans.",
+        "Meta will invest billions in computing infrastructure by 2025.",
+        "But a single personal AI assistant, not a one-size-fits-all model.",
+        "Your apps could host custom AIs that know your preferences exactly.",
+        "The real test: launch your own AI agent by next quarter."
+      ],
+      "thread_text": [
+        "1. Who controls your AI?\n\nMark Zuckerberg wants your apps to run custom AIs that know your preferences. That means your data isn't just training one model—it's training a thousand.",
+        "2. The infrastructure bet\n\nMeta will spend billions on computing by 2025. Every custom AI needs its own brain—and your usage will pay for it.",
+        "3. Not one model, but one per user\n\nYour AI assistant won't be generic. It will know your exact habits. The question: who owns that profile?",
+        "4. The personalized app takeover\n\nYour apps could host these AIs. Imagine a Facebook that knows your mood, or an Instagram that edits your photos before you ask.",
+        "5. Your move: build your own AI agent\n\nMeta says launch yours by next quarter. Take a prompt on ChatGPT and simulate a custom assistant for a task you do daily. Start before the deadline."
+      ],
+      "video_script": [
+        "Zuckerberg wants AI smarter than any human.",
+        "Meta will spend billions by 2025.",
+        "Your AI will know your exact preferences.",
+        "Your apps could host custom AIs.",
+        "Can you build your own agent next quarter?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who controls your AI?\n\nMark Zuckerberg wants your apps to run custom AIs that know your preferences. That means your data isn't just training one model—it's training a thousand.",
+            "2. The infrastructure bet\n\nMeta will spend billions on computing by 2025. Every custom AI needs its own brain—and your usage will pay for it.",
+            "3. Not one model, but one per user\n\nYour AI assistant won't be generic. It will know your exact habits. The question: who owns that profile?",
+            "4. The personalized app takeover\n\nYour apps could host these AIs. Imagine a Facebook that knows your mood, or an Instagram that edits your photos before you ask.",
+            "5. Your move: build your own AI agent\n\nMeta says launch yours by next quarter. Take a prompt on ChatGPT and simulate a custom assistant for a task you do daily. Start before the deadline."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Zuckerberg wants AI smarter than any human.",
+            "Meta will spend billions by 2025.",
+            "Your AI will know your exact preferences.",
+            "Your apps could host custom AIs.",
+            "Can you build your own agent next quarter?"
+          ]
+        },
+        "instagram": {
+          "caption": "Meta wants your apps to run custom AIs that know your exact habits, from what you eat to how you edit photos.\n\nMark Zuckerberg is betting billions on this: not one giant model for everyone, but a personal AI for every user. By 2025, Meta's infrastructure will be built to let each app host a brain tuned just to you.\n\nIf you create content, your tools could soon anticipate your edits, your tone, your next post—without you asking.\n\nYou can launch your own custom AI agent by next quarter. Pick one repetitive task you do today, and prompt a model to do it for you. Who owns the profile this builds—you or Meta?"
+        }
+      },
+      "instagram_caption": "Meta wants your apps to run custom AIs that know your exact habits, from what you eat to how you edit photos.\n\nMark Zuckerberg is betting billions on this: not one giant model for everyone, but a personal AI for every user. By 2025, Meta's infrastructure will be built to let each app host a brain tuned just to you.\n\nIf you create content, your tools could soon anticipate your edits, your tone, your next post—without you asking.\n\nYou can launch your own custom AI agent by next quarter. Pick one repetitive task you do today, and prompt a model to do it for you. Who owns the profile this builds—you or Meta?",
+      "carousel_slides": [
+        {
+          "hook": "Who owns your AI profile?",
+          "description": "Meta wants custom AIs knowing your habits. Your data trains thousands of models, not just one.",
+          "visual_hint": "Question mark on data stream",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center servers"
+        },
+        {
+          "hook": "Billions for AI brains",
+          "description": "Meta invests billions in computing by 2025. Each custom AI needs its own brain—your usage pays.",
+          "visual_hint": "Money flowing into server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI, not one-size-fits-all",
+          "description": "Zuckerberg plans personal AI assistants, not generic models. They'll know your exact habits.",
+          "visual_hint": "Customized AI icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone AI interface",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apps that read your mood",
+          "description": "Facebook and Instagram could host AIs that know your mood and edit photos before you ask.",
+          "visual_hint": "Phone displaying mood-based edits",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Build your AI agent now",
+          "description": "Meta says launch yours by next quarter. Use a prompt on ChatGPT to simulate a custom assistant.",
+          "visual_hint": "Prompt typed on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard closeup",
+          "image": "https://images.pexels.com/photos/29272605/pexels-photo-29272605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-30T11:45:52.654Z",
+      "sourceId": "0ebae200f3121a0bbfae07ba28f014cd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "winamp-aims-for-a-comeback-with-a-new-music-player",
       "prompt_version": "1.0.0",
       "status": "published",
