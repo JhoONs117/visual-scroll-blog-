@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "in-the-hugging-face-breach-openai-s-hacker-was-noi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+  "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+  "pubDate": "Thu, 30 Jul 2026 14:48:32 +0000",
+  "slides": [
+    "What if one breach exposed both Hugging Face and OpenAI?",
+    "The attacker moved with unusual speed and noise.",
+    "The same hacker targeted both AI giants within days.",
+    "Your own model provenance tools can catch similar patterns.",
+    "Trace unexpected API call spikes—silence is not safety."
+  ],
+  "thread_text": [
+    "1. One breach, two giants\n\nA single attacker compromised both Hugging Face and OpenAI within days, moving faster than most known threats.",
+    "2. Speed was the tell\n\nThe hacker didn't hide—unusual API call spikes marked every move before any alert fired.",
+    "3. Noise is a weapon\n\nLoud, rapid actions bypassed silent defenses that rely on detecting stealth, not speed.",
+    "4. Provenance tools see it\n\nYour model lineage logs already trace these patterns—check for unexpected dependency requests.",
+    "5. Trace your API calls today\n\nLog into your dashboard and filter for spikes in the last 48 hours. Have you checked yet?"
+  ],
+  "video_script": [
+    "One breach hit Hugging Face and OpenAI.",
+    "The attacker moved fast and made noise.",
+    "Speed triggered API spikes, not silence.",
+    "Your provenance tools already catch this.",
+    "Trace unexpected spikes in your dashboard now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One breach, two giants\n\nA single attacker compromised both Hugging Face and OpenAI within days, moving faster than most known threats.",
+        "2. Speed was the tell\n\nThe hacker didn't hide—unusual API call spikes marked every move before any alert fired.",
+        "3. Noise is a weapon\n\nLoud, rapid actions bypassed silent defenses that rely on detecting stealth, not speed.",
+        "4. Provenance tools see it\n\nYour model lineage logs already trace these patterns—check for unexpected dependency requests.",
+        "5. Trace your API calls today\n\nLog into your dashboard and filter for spikes in the last 48 hours. Have you checked yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One breach hit Hugging Face and OpenAI.",
+        "The attacker moved fast and made noise.",
+        "Speed triggered API spikes, not silence.",
+        "Your provenance tools already catch this.",
+        "Trace unexpected spikes in your dashboard now."
+      ]
+    },
+    "instagram": {
+      "caption": "The same hacker who broke into Hugging Face also hit OpenAI within days—moving fast and loud, not quiet.\n\nSpeed was their giveaway. Unusual API call spikes marked every move before any alert fired. 🚨\n\nNoise bypassed defenses built to catch stealth, not rapid action. Your model provenance logs already trace these patterns.\n\nIf you publish or consume AI tools via API, check your dashboard for unexpected dependency requests right now. Have you looked at your last 48 hours of calls? 🔍"
+    }
+  },
+  "instagram_caption": "The same hacker who broke into Hugging Face also hit OpenAI within days—moving fast and loud, not quiet.\n\nSpeed was their giveaway. Unusual API call spikes marked every move before any alert fired. 🚨\n\nNoise bypassed defenses built to catch stealth, not rapid action. Your model provenance logs already trace these patterns.\n\nIf you publish or consume AI tools via API, check your dashboard for unexpected dependency requests right now. Have you looked at your last 48 hours of calls? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Could your models be next?",
+      "description": "One hacker breached Hugging Face and OpenAI within days, moving fast and noisy.",
+      "visual_hint": "Two glowing server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Speed exposed the hacker",
+      "description": "Unusual API call spikes marked every move before any alert fired.",
+      "visual_hint": "Spiking graph on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Noise beat silent defenses",
+      "description": "Loud, rapid actions bypassed stealth-based detection systems designed for quiet threats.",
+      "visual_hint": "Loudspeaker with waves",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Provenance logs catch this",
+      "description": "Model lineage tools already trace unexpected dependency requests—check your logs now.",
+      "visual_hint": "Log files on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your API spikes now",
+      "description": "Log into your dashboard and filter for unusual spikes in the last 48 hours.",
+      "visual_hint": "Dashboard with alert",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "solar panels",
+      "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-30T15:46:37.358Z",
+  "sourceId": "f58ecf105df039b9a9197d1820f654e3"
+}

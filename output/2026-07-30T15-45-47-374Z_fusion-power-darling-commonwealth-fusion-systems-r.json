@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fusion-power-darling-commonwealth-fusion-systems-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+  "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+  "pubDate": "Thu, 30 Jul 2026 15:17:39 +0000",
+  "slides": [
+    "Commonwealth Fusion Systems just raised $1B. What do they know?",
+    "Most fusion startups still lack a working reactor.",
+    "CFS claims their magnet tech will work where others failed.",
+    "If true, clean energy costs could drop by half by 2030.",
+    "Watch their next test. If it flames out, so does the hype."
+  ],
+  "thread_text": [
+    "1. $1B bet on fusion.\n\nCommonwealth Fusion Systems just raised a billion dollars with no working reactor yet. Their magnet design is the only thing backing that check.",
+    "2. Magnets are the bottleneck.\n\nMost fusion startups can't get their magnets to hold the plasma steady. CFS bets a new high-temperature superconductor changes that math.",
+    "3. Cost drop at stake.\n\nIf their magnets work, fusion could undercut fossil fuels. Electricity prices could halve by 2030—if the tech survives the next test.",
+    "4. The next test decides.\n\nCFS runs their magnet test this year. A flameout kills the hype. A success triggers a race to build the first commercial reactor.",
+    "5. Simulate it.\n\nTake a prompt on ChatGPT and ask it to model fusion arc failure rates. If you haven't run that sim, try it before CFS posts results."
+  ],
+  "video_script": [
+    "Billion dollars, zero reactors.",
+    "Their magnet tech is unproven.",
+    "If it works, energy costs halve.",
+    "Next test makes or breaks them.",
+    "Simulate the failure odds yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $1B bet on fusion.\n\nCommonwealth Fusion Systems just raised a billion dollars with no working reactor yet. Their magnet design is the only thing backing that check.",
+        "2. Magnets are the bottleneck.\n\nMost fusion startups can't get their magnets to hold the plasma steady. CFS bets a new high-temperature superconductor changes that math.",
+        "3. Cost drop at stake.\n\nIf their magnets work, fusion could undercut fossil fuels. Electricity prices could halve by 2030—if the tech survives the next test.",
+        "4. The next test decides.\n\nCFS runs their magnet test this year. A flameout kills the hype. A success triggers a race to build the first commercial reactor.",
+        "5. Simulate it.\n\nTake a prompt on ChatGPT and ask it to model fusion arc failure rates. If you haven't run that sim, try it before CFS posts results."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billion dollars, zero reactors.",
+        "Their magnet tech is unproven.",
+        "If it works, energy costs halve.",
+        "Next test makes or breaks them.",
+        "Simulate the failure odds yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "$1 billion bet on a fusion reactor that doesn't exist yet.\n\nCommonwealth Fusion Systems got that cash on a single claim: their new magnet tech can finally hold the plasma steady. No other fusion startup has pulled that off.\n\nIf the magnets work, electricity costs could drop by half as soon as 2030. That would rewrite energy economics for every creator and publisher running on the grid.\n\nTheir crucial magnet test happens this year. ⚡ Will you change your energy cost forecasts before they post the results—or after the market reacts? 💡🔍"
+    }
+  },
+  "instagram_caption": "$1 billion bet on a fusion reactor that doesn't exist yet.\n\nCommonwealth Fusion Systems got that cash on a single claim: their new magnet tech can finally hold the plasma steady. No other fusion startup has pulled that off.\n\nIf the magnets work, electricity costs could drop by half as soon as 2030. That would rewrite energy economics for every creator and publisher running on the grid.\n\nTheir crucial magnet test happens this year. ⚡ Will you change your energy cost forecasts before they post the results—or after the market reacts? 💡🔍",
+  "carousel_slides": [
+    {
+      "hook": "1B on magnets, no reactor",
+      "description": "Commonwealth Fusion Systems raised $1B with zero working reactors, betting their magnet tech changes fusion math.",
+      "visual_hint": "Large superconducting magnet coil",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "superconducting magnet coil"
+    },
+    {
+      "hook": "Magnets hold the key",
+      "description": "Most fusion startups fail at plasma stability. CFS uses high-temperature superconductors to solve it.",
+      "visual_hint": "Cutaway of tokamak interior",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tokamak interior",
+      "image": "https://images.pexels.com/photos/13025279/pexels-photo-13025279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Halve electricity costs by 2030",
+      "description": "If CFS magnets work, fusion could undercut fossil fuels, slashing energy prices by half within a decade.",
+      "visual_hint": "Spark from a power line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power line spark",
+      "image": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One test decides everything",
+      "description": "CFS runs their magnet test this year. Success triggers a commercial reactor race; failure kills the hype.",
+      "visual_hint": "Hand pressing a red test button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Simulate fusion arc failure rates",
+      "description": "Use ChatGPT to model fusion arc failure rates before CFS posts results. Try it now.",
+      "visual_hint": "Laptop screen with ChatGPT interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "ChatGPT on laptop",
+      "image": "https://images.pexels.com/photos/16037278/pexels-photo-16037278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/CFS-cryostat-base-installation.jpeg?resize=1200,800",
+  "savedAt": "2026-07-30T15:46:25.259Z",
+  "sourceId": "027368541f6727605bc0133b5594a116"
+}

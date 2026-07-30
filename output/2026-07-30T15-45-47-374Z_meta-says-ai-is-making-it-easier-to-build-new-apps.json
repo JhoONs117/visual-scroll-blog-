@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-says-ai-is-making-it-easier-to-build-new-apps",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta says AI is making it easier to build new apps — and more are coming",
+  "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+  "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+  "slides": [
+    "Meta says AI speeds app creation—but at what cost?",
+    "Their internal tools now generate functional code from prompts.",
+    "Yet these apps often fail outside Meta's engineered ecosystem.",
+    "You can prototype faster, but debugging becomes unpredictable.",
+    "Test each AI-built module separately before trusting the whole."
+  ],
+  "thread_text": [
+    "1. Faster code, at what price?\n\nMeta's internal tools generate working apps from prompts alone.",
+    "2. The ecosystem trap.\n\nThese apps break outside Meta's own platforms.",
+    "3. Speed hides risk.\n\nPrototyping shortcuts unpredictably extend debugging.",
+    "4. Test the atoms first.\n\nEach AI module needs separate validation before integration.",
+    "5. Check your own stack.\n\nTake a prompt from ChatGPT and simulate a build. Does the gain justify the fix?"
+  ],
+  "video_script": [
+    "Meta says AI speeds app creation.",
+    "But at what real cost?",
+    "Apps fail outside Meta's ecosystem.",
+    "Debugging becomes unpredictable.",
+    "Test each module separately first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Faster code, at what price?\n\nMeta's internal tools generate working apps from prompts alone.",
+        "2. The ecosystem trap.\n\nThese apps break outside Meta's own platforms.",
+        "3. Speed hides risk.\n\nPrototyping shortcuts unpredictably extend debugging.",
+        "4. Test the atoms first.\n\nEach AI module needs separate validation before integration.",
+        "5. Check your own stack.\n\nTake a prompt from ChatGPT and simulate a build. Does the gain justify the fix?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta says AI speeds app creation.",
+        "But at what real cost?",
+        "Apps fail outside Meta's ecosystem.",
+        "Debugging becomes unpredictable.",
+        "Test each module separately first."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's own internal tools now build working apps from nothing but a prompt.  \n\nThose same apps crash the second they leave Meta's curated environment. 🛠️  \n\nPrototyping gets faster—debugging becomes a maze. Every fix pulls a new thread.  \n\nYou can build faster, but you'll spend twice the time patching code your tool wrote blind.  \n\nBefore you trust the whole, test each AI-generated module alone. ⚙️ Does your stack save time or create more problems?"
+    }
+  },
+  "instagram_caption": "Meta's own internal tools now build working apps from nothing but a prompt.  \n\nThose same apps crash the second they leave Meta's curated environment. 🛠️  \n\nPrototyping gets faster—debugging becomes a maze. Every fix pulls a new thread.  \n\nYou can build faster, but you'll spend twice the time patching code your tool wrote blind.  \n\nBefore you trust the whole, test each AI-generated module alone. ⚙️ Does your stack save time or create more problems?",
+  "carousel_slides": [
+    {
+      "hook": "Faster apps, at what cost?",
+      "description": "Meta's AI generates code from prompts, but apps often break outside their ecosystem.",
+      "visual_hint": "Fractured app screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken smartphone screen"
+    },
+    {
+      "hook": "The ecosystem trap.",
+      "description": "These AI-built apps fail when moved beyond Meta's engineered platforms.",
+      "visual_hint": "Isolated server racks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed hides debugging risk.",
+      "description": "Prototyping shortcuts with AI unpredictably extend debugging time later.",
+      "visual_hint": "Tangled cables zoom",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "tangled wires",
+      "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test each atom first.",
+      "description": "Validate every AI module separately before trusting the full integration.",
+      "visual_hint": "Hand holding chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "microchip in hand",
+      "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist 🔖",
+      "description": "Simulate a build with ChatGPT now—does the speed justify the fixes?",
+      "visual_hint": "Checklist on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist document",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+  "savedAt": "2026-07-30T15:45:59.095Z",
+  "sourceId": "30e234bd3fe1655843ecf0955ac25a70"
+}

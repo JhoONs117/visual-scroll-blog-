@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "in-the-hugging-face-breach-openai-s-hacker-was-noi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "pubDate": "Thu, 30 Jul 2026 14:48:32 +0000",
+    "slides": [
+      "What if one breach exposed both Hugging Face and OpenAI?",
+      "The attacker moved with unusual speed and noise.",
+      "The same hacker targeted both AI giants within days.",
+      "Your own model provenance tools can catch similar patterns.",
+      "Trace unexpected API call spikes—silence is not safety."
+    ],
+    "thread_text": [
+      "1. One breach, two giants\n\nA single attacker compromised both Hugging Face and OpenAI within days, moving faster than most known threats.",
+      "2. Speed was the tell\n\nThe hacker didn't hide—unusual API call spikes marked every move before any alert fired.",
+      "3. Noise is a weapon\n\nLoud, rapid actions bypassed silent defenses that rely on detecting stealth, not speed.",
+      "4. Provenance tools see it\n\nYour model lineage logs already trace these patterns—check for unexpected dependency requests.",
+      "5. Trace your API calls today\n\nLog into your dashboard and filter for spikes in the last 48 hours. Have you checked yet?"
+    ],
+    "video_script": [
+      "One breach hit Hugging Face and OpenAI.",
+      "The attacker moved fast and made noise.",
+      "Speed triggered API spikes, not silence.",
+      "Your provenance tools already catch this.",
+      "Trace unexpected spikes in your dashboard now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One breach, two giants\n\nA single attacker compromised both Hugging Face and OpenAI within days, moving faster than most known threats.",
+          "2. Speed was the tell\n\nThe hacker didn't hide—unusual API call spikes marked every move before any alert fired.",
+          "3. Noise is a weapon\n\nLoud, rapid actions bypassed silent defenses that rely on detecting stealth, not speed.",
+          "4. Provenance tools see it\n\nYour model lineage logs already trace these patterns—check for unexpected dependency requests.",
+          "5. Trace your API calls today\n\nLog into your dashboard and filter for spikes in the last 48 hours. Have you checked yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One breach hit Hugging Face and OpenAI.",
+          "The attacker moved fast and made noise.",
+          "Speed triggered API spikes, not silence.",
+          "Your provenance tools already catch this.",
+          "Trace unexpected spikes in your dashboard now."
+        ]
+      },
+      "instagram": {
+        "caption": "The same hacker who broke into Hugging Face also hit OpenAI within days—moving fast and loud, not quiet.\n\nSpeed was their giveaway. Unusual API call spikes marked every move before any alert fired. 🚨\n\nNoise bypassed defenses built to catch stealth, not rapid action. Your model provenance logs already trace these patterns.\n\nIf you publish or consume AI tools via API, check your dashboard for unexpected dependency requests right now. Have you looked at your last 48 hours of calls? 🔍"
+      }
+    },
+    "instagram_caption": "The same hacker who broke into Hugging Face also hit OpenAI within days—moving fast and loud, not quiet.\n\nSpeed was their giveaway. Unusual API call spikes marked every move before any alert fired. 🚨\n\nNoise bypassed defenses built to catch stealth, not rapid action. Your model provenance logs already trace these patterns.\n\nIf you publish or consume AI tools via API, check your dashboard for unexpected dependency requests right now. Have you looked at your last 48 hours of calls? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Could your models be next?",
+        "description": "One hacker breached Hugging Face and OpenAI within days, moving fast and noisy.",
+        "visual_hint": "Two glowing server racks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Speed exposed the hacker",
+        "description": "Unusual API call spikes marked every move before any alert fired.",
+        "visual_hint": "Spiking graph on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Noise beat silent defenses",
+        "description": "Loud, rapid actions bypassed stealth-based detection systems designed for quiet threats.",
+        "visual_hint": "Loudspeaker with waves",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Provenance logs catch this",
+        "description": "Model lineage tools already trace unexpected dependency requests—check your logs now.",
+        "visual_hint": "Log files on laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your API spikes now",
+        "description": "Log into your dashboard and filter for unusual spikes in the last 48 hours.",
+        "visual_hint": "Dashboard with alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-30T15:46:37.358Z",
+    "sourceId": "f58ecf105df039b9a9197d1820f654e3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fusion-power-darling-commonwealth-fusion-systems-r",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+    "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+    "pubDate": "Thu, 30 Jul 2026 15:17:39 +0000",
+    "slides": [
+      "Commonwealth Fusion Systems just raised $1B. What do they know?",
+      "Most fusion startups still lack a working reactor.",
+      "CFS claims their magnet tech will work where others failed.",
+      "If true, clean energy costs could drop by half by 2030.",
+      "Watch their next test. If it flames out, so does the hype."
+    ],
+    "thread_text": [
+      "1. $1B bet on fusion.\n\nCommonwealth Fusion Systems just raised a billion dollars with no working reactor yet. Their magnet design is the only thing backing that check.",
+      "2. Magnets are the bottleneck.\n\nMost fusion startups can't get their magnets to hold the plasma steady. CFS bets a new high-temperature superconductor changes that math.",
+      "3. Cost drop at stake.\n\nIf their magnets work, fusion could undercut fossil fuels. Electricity prices could halve by 2030—if the tech survives the next test.",
+      "4. The next test decides.\n\nCFS runs their magnet test this year. A flameout kills the hype. A success triggers a race to build the first commercial reactor.",
+      "5. Simulate it.\n\nTake a prompt on ChatGPT and ask it to model fusion arc failure rates. If you haven't run that sim, try it before CFS posts results."
+    ],
+    "video_script": [
+      "Billion dollars, zero reactors.",
+      "Their magnet tech is unproven.",
+      "If it works, energy costs halve.",
+      "Next test makes or breaks them.",
+      "Simulate the failure odds yourself."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $1B bet on fusion.\n\nCommonwealth Fusion Systems just raised a billion dollars with no working reactor yet. Their magnet design is the only thing backing that check.",
+          "2. Magnets are the bottleneck.\n\nMost fusion startups can't get their magnets to hold the plasma steady. CFS bets a new high-temperature superconductor changes that math.",
+          "3. Cost drop at stake.\n\nIf their magnets work, fusion could undercut fossil fuels. Electricity prices could halve by 2030—if the tech survives the next test.",
+          "4. The next test decides.\n\nCFS runs their magnet test this year. A flameout kills the hype. A success triggers a race to build the first commercial reactor.",
+          "5. Simulate it.\n\nTake a prompt on ChatGPT and ask it to model fusion arc failure rates. If you haven't run that sim, try it before CFS posts results."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Billion dollars, zero reactors.",
+          "Their magnet tech is unproven.",
+          "If it works, energy costs halve.",
+          "Next test makes or breaks them.",
+          "Simulate the failure odds yourself."
+        ]
+      },
+      "instagram": {
+        "caption": "$1 billion bet on a fusion reactor that doesn't exist yet.\n\nCommonwealth Fusion Systems got that cash on a single claim: their new magnet tech can finally hold the plasma steady. No other fusion startup has pulled that off.\n\nIf the magnets work, electricity costs could drop by half as soon as 2030. That would rewrite energy economics for every creator and publisher running on the grid.\n\nTheir crucial magnet test happens this year. ⚡ Will you change your energy cost forecasts before they post the results—or after the market reacts? 💡🔍"
+      }
+    },
+    "instagram_caption": "$1 billion bet on a fusion reactor that doesn't exist yet.\n\nCommonwealth Fusion Systems got that cash on a single claim: their new magnet tech can finally hold the plasma steady. No other fusion startup has pulled that off.\n\nIf the magnets work, electricity costs could drop by half as soon as 2030. That would rewrite energy economics for every creator and publisher running on the grid.\n\nTheir crucial magnet test happens this year. ⚡ Will you change your energy cost forecasts before they post the results—or after the market reacts? 💡🔍",
+    "carousel_slides": [
+      {
+        "hook": "1B on magnets, no reactor",
+        "description": "Commonwealth Fusion Systems raised $1B with zero working reactors, betting their magnet tech changes fusion math.",
+        "visual_hint": "Large superconducting magnet coil",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "superconducting magnet coil"
+      },
+      {
+        "hook": "Magnets hold the key",
+        "description": "Most fusion startups fail at plasma stability. CFS uses high-temperature superconductors to solve it.",
+        "visual_hint": "Cutaway of tokamak interior",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tokamak interior",
+        "image": "https://images.pexels.com/photos/13025279/pexels-photo-13025279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Halve electricity costs by 2030",
+        "description": "If CFS magnets work, fusion could undercut fossil fuels, slashing energy prices by half within a decade.",
+        "visual_hint": "Spark from a power line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "power line spark",
+        "image": "https://images.pexels.com/photos/38548993/pexels-photo-38548993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One test decides everything",
+        "description": "CFS runs their magnet test this year. Success triggers a commercial reactor race; failure kills the hype.",
+        "visual_hint": "Hand pressing a red test button",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pressing button",
+        "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulate fusion arc failure rates",
+        "description": "Use ChatGPT to model fusion arc failure rates before CFS posts results. Try it now.",
+        "visual_hint": "Laptop screen with ChatGPT interface",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "ChatGPT on laptop",
+        "image": "https://images.pexels.com/photos/16037278/pexels-photo-16037278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/CFS-cryostat-base-installation.jpeg?resize=1200,800",
+    "savedAt": "2026-07-30T15:46:25.259Z",
+    "sourceId": "027368541f6727605bc0133b5594a116"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nscale-buys-anyscale-as-it-seeks-to-own-more-of-th",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "pubDate": "Thu, 30 Jul 2026 15:19:15 +0000",
+    "slides": [
+      "Nscale just acquired Anyscale. Now what?",
+      "Anyscale powers distributed AI workloads at scale.",
+      "Nscale is a cloud provider—joining compute with orchestration.",
+      "Your AI models may soon run cheaper and faster.",
+      "Test Nscale’s stack before your next deployment."
+    ],
+    "thread_text": [
+      "1. What happens now?\n\nNscale just bought Anyscale. Two AI infrastructure giants become one — your workloads just got a new default home.",
+      "2. Anyscale’s core play\n\nIt handles distributed AI workloads — training and inference at scale. Massive parallelism, already proven.",
+      "3. Nscale’s missing piece\n\nNscale is a cloud provider. Now it owns the orchestration layer too. No more stitching tools together.",
+      "4. The real payoff\n\nYour AI models may run cheaper and faster. Combined stack removes latency and overhead bottlenecks.",
+      "5. Test it this week\n\nTake your current deployment pipeline and simulate it on Nscale’s stack. If you haven’t, start there today."
+    ],
+    "video_script": [
+      "Nscale just bought Anyscale. One big move.",
+      "Anyscale handles huge AI workloads across many machines.",
+      "Nscale is a cloud provider for AI compute.",
+      "Together they make AI faster and cheaper.",
+      "Test Nscale’s stack before your next deployment."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What happens now?\n\nNscale just bought Anyscale. Two AI infrastructure giants become one — your workloads just got a new default home.",
+          "2. Anyscale’s core play\n\nIt handles distributed AI workloads — training and inference at scale. Massive parallelism, already proven.",
+          "3. Nscale’s missing piece\n\nNscale is a cloud provider. Now it owns the orchestration layer too. No more stitching tools together.",
+          "4. The real payoff\n\nYour AI models may run cheaper and faster. Combined stack removes latency and overhead bottlenecks.",
+          "5. Test it this week\n\nTake your current deployment pipeline and simulate it on Nscale’s stack. If you haven’t, start there today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nscale just bought Anyscale. One big move.",
+          "Anyscale handles huge AI workloads across many machines.",
+          "Nscale is a cloud provider for AI compute.",
+          "Together they make AI faster and cheaper.",
+          "Test Nscale’s stack before your next deployment."
+        ]
+      },
+      "instagram": {
+        "caption": "One provider now handles both the compute and the orchestration for your AI workloads—no more gluing tools together.\n\nNscale, a cloud provider, just bought Anyscale, which runs distributed AI training and inference at scale. That merge slashes latency and overhead directly.\n\nFor anyone deploying models, this means fewer bottlenecks and a real shot at cheaper, faster runs.\n\nHave you run a test deployment on their combined stack yet, or are you still patching separate tools?"
+      }
+    },
+    "instagram_caption": "One provider now handles both the compute and the orchestration for your AI workloads—no more gluing tools together.\n\nNscale, a cloud provider, just bought Anyscale, which runs distributed AI training and inference at scale. That merge slashes latency and overhead directly.\n\nFor anyone deploying models, this means fewer bottlenecks and a real shot at cheaper, faster runs.\n\nHave you run a test deployment on their combined stack yet, or are you still patching separate tools?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI stack just merged.",
+        "description": "Nscale buys Anyscale, joining cloud and orchestration into one default home for workloads.",
+        "visual_hint": "Two puzzle pieces clicking",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Distributed AI made simple.",
+        "description": "Anyscale handles massive parallel training and inference. Now Nscale owns that orchestration layer.",
+        "visual_hint": "Network nodes connecting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No more stitching tools together.",
+        "description": "Nscale was a cloud provider. Now it includes orchestration, removing traditional integration friction.",
+        "visual_hint": "Hands assembling circuit board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheaper and faster models now.",
+        "description": "Combined stack removes latency and overhead bottlenecks. Your AI workloads may cost less.",
+        "visual_hint": "Speedometer needle rising",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your stack.",
+        "description": "Simulate your current deployment pipeline on Nscale’s combined stack this week.",
+        "visual_hint": "Play button on dashboard",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "control panel",
+        "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+    "savedAt": "2026-07-30T15:46:11.354Z",
+    "sourceId": "f98297874b887d466f324205e59f16c4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-says-ai-is-making-it-easier-to-build-new-apps",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "pubDate": "Thu, 30 Jul 2026 15:41:16 +0000",
+    "slides": [
+      "Meta says AI speeds app creation—but at what cost?",
+      "Their internal tools now generate functional code from prompts.",
+      "Yet these apps often fail outside Meta's engineered ecosystem.",
+      "You can prototype faster, but debugging becomes unpredictable.",
+      "Test each AI-built module separately before trusting the whole."
+    ],
+    "thread_text": [
+      "1. Faster code, at what price?\n\nMeta's internal tools generate working apps from prompts alone.",
+      "2. The ecosystem trap.\n\nThese apps break outside Meta's own platforms.",
+      "3. Speed hides risk.\n\nPrototyping shortcuts unpredictably extend debugging.",
+      "4. Test the atoms first.\n\nEach AI module needs separate validation before integration.",
+      "5. Check your own stack.\n\nTake a prompt from ChatGPT and simulate a build. Does the gain justify the fix?"
+    ],
+    "video_script": [
+      "Meta says AI speeds app creation.",
+      "But at what real cost?",
+      "Apps fail outside Meta's ecosystem.",
+      "Debugging becomes unpredictable.",
+      "Test each module separately first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Faster code, at what price?\n\nMeta's internal tools generate working apps from prompts alone.",
+          "2. The ecosystem trap.\n\nThese apps break outside Meta's own platforms.",
+          "3. Speed hides risk.\n\nPrototyping shortcuts unpredictably extend debugging.",
+          "4. Test the atoms first.\n\nEach AI module needs separate validation before integration.",
+          "5. Check your own stack.\n\nTake a prompt from ChatGPT and simulate a build. Does the gain justify the fix?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta says AI speeds app creation.",
+          "But at what real cost?",
+          "Apps fail outside Meta's ecosystem.",
+          "Debugging becomes unpredictable.",
+          "Test each module separately first."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta's own internal tools now build working apps from nothing but a prompt.  \n\nThose same apps crash the second they leave Meta's curated environment. 🛠️  \n\nPrototyping gets faster—debugging becomes a maze. Every fix pulls a new thread.  \n\nYou can build faster, but you'll spend twice the time patching code your tool wrote blind.  \n\nBefore you trust the whole, test each AI-generated module alone. ⚙️ Does your stack save time or create more problems?"
+      }
+    },
+    "instagram_caption": "Meta's own internal tools now build working apps from nothing but a prompt.  \n\nThose same apps crash the second they leave Meta's curated environment. 🛠️  \n\nPrototyping gets faster—debugging becomes a maze. Every fix pulls a new thread.  \n\nYou can build faster, but you'll spend twice the time patching code your tool wrote blind.  \n\nBefore you trust the whole, test each AI-generated module alone. ⚙️ Does your stack save time or create more problems?",
+    "carousel_slides": [
+      {
+        "hook": "Faster apps, at what cost?",
+        "description": "Meta's AI generates code from prompts, but apps often break outside their ecosystem.",
+        "visual_hint": "Fractured app screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken smartphone screen"
+      },
+      {
+        "hook": "The ecosystem trap.",
+        "description": "These AI-built apps fail when moved beyond Meta's engineered platforms.",
+        "visual_hint": "Isolated server racks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed hides debugging risk.",
+        "description": "Prototyping shortcuts with AI unpredictably extend debugging time later.",
+        "visual_hint": "Tangled cables zoom",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "tangled wires",
+        "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test each atom first.",
+        "description": "Validate every AI module separately before trusting the full integration.",
+        "visual_hint": "Hand holding chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "microchip in hand",
+        "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this checklist 🔖",
+        "description": "Simulate a build with ChatGPT now—does the speed justify the fixes?",
+        "visual_hint": "Checklist on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist document",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "savedAt": "2026-07-30T15:45:59.095Z",
+    "sourceId": "30e234bd3fe1655843ecf0955ac25a70"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "inforcer-raises-50m-to-help-prepare-smaller-busine",
     "prompt_version": "1.0.0",
     "status": "published",
