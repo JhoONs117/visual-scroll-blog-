@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-logs-3-2b-from-anthropic-investment-but-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+  "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+  "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
+  "slides": [
+    "Microsoft’s Anthropic bet paid off—why didn’t OpenAI?",
+    "Anthropic delivered $3.2B return in under two years.",
+    "OpenAI cost Microsoft billions more than expected.",
+    "Your next AI vendor contract needs exit clauses now.",
+    "Check your supplier’s cap table before signing a deal."
+  ],
+  "thread_text": [
+    "1. Microsoft won big.\n\nAnthropic returned $3.2B in under two years — a bet that paid off.",
+    "2. OpenAI’s cost spiral.\n\nMicrosoft spent billions more than planned on OpenAI, with no comparable return.",
+    "3. The contract trap.\n\nMost AI vendor deals lock you in. Your next one needs an exit clause.",
+    "4. Cap table red flag.\n\nCheck your supplier’s ownership structure before signing — hidden obligations can hurt you.",
+    "5. Audit your AI stack.\n\nPull one prompt from ChatGPT and check if you could switch providers in a week. If not, start now."
+  ],
+  "video_script": [
+    "Microsoft bet on Anthropic and got three point two billion back.",
+    "OpenAI cost them billions more than expected.",
+    "Your next AI deal needs an exit clause.",
+    "Always check your supplier's cap table first.",
+    "Could you switch AI providers within a week?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Microsoft won big.\n\nAnthropic returned $3.2B in under two years — a bet that paid off.",
+        "2. OpenAI’s cost spiral.\n\nMicrosoft spent billions more than planned on OpenAI, with no comparable return.",
+        "3. The contract trap.\n\nMost AI vendor deals lock you in. Your next one needs an exit clause.",
+        "4. Cap table red flag.\n\nCheck your supplier’s ownership structure before signing — hidden obligations can hurt you.",
+        "5. Audit your AI stack.\n\nPull one prompt from ChatGPT and check if you could switch providers in a week. If not, start now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft bet on Anthropic and got three point two billion back.",
+        "OpenAI cost them billions more than expected.",
+        "Your next AI deal needs an exit clause.",
+        "Always check your supplier's cap table first.",
+        "Could you switch AI providers within a week?"
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft's Anthropic bet returned $3.2B in under two years. OpenAI cost them billions more with no comparable payout.\n\nOne AI vendor delivered profits; the other burned cash. The difference? Contract terms and ownership structure—not just tech quality.\n\nIf you license AI tools, your deal likely locks you in with no way out. That’s a risk, not a guarantee.\n\nCan you switch providers in a week? If not, check your contract’s exit clause before your next renewal."
+    }
+  },
+  "instagram_caption": "Microsoft's Anthropic bet returned $3.2B in under two years. OpenAI cost them billions more with no comparable payout.\n\nOne AI vendor delivered profits; the other burned cash. The difference? Contract terms and ownership structure—not just tech quality.\n\nIf you license AI tools, your deal likely locks you in with no way out. That’s a risk, not a guarantee.\n\nCan you switch providers in a week? If not, check your contract’s exit clause before your next renewal.",
+  "carousel_slides": [
+    {
+      "hook": "Your AI contract is a trap.",
+      "description": "Microsoft's OpenAI deal cost billions more than expected, proving vendor lock-in can backfire badly.",
+      "visual_hint": "Broken chain lock on contract",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken chain lock"
+    },
+    {
+      "hook": "Anthropic returned $3.2B in 2 years.",
+      "description": "Microsoft's bet on Anthropic paid off, while OpenAI's cost spiral showed no comparable return.",
+      "visual_hint": "Rocket graph going up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden cost of OpenAI deals.",
+      "description": "Microsoft spent billions more than planned on OpenAI, highlighting the need for strict exit clauses.",
+      "visual_hint": "Stack of money burning",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "burning money pile",
+      "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your supplier's cap table first.",
+      "description": "Hidden obligations in vendor ownership structures can hurt you — just like they hurt Microsoft.",
+      "visual_hint": "Magnifier over ownership chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your AI stack.",
+      "description": "Pull one prompt from ChatGPT and test if you could switch providers in a week. Start now.",
+      "visual_hint": "Checklist with red flags",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+  "savedAt": "2026-07-30T01:41:49.856Z",
+  "sourceId": "feca2ec539e2a7daccfdb87e1ac8ea6b"
+}

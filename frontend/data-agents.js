@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "discover-what-s-next-for-ai-from-the-saas-reckonin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "pubDate": "Wed, 29 Jul 2026 21:16:39 +0000",
+      "slides": [
+        "Is your AI strategy already obsolete by 2026?",
+        "TechCrunch Disrupt 2026 reveals the SaaS reckoning.",
+        "But the biggest surprise is the agent security gap.",
+        "You will learn concrete steps to secure your AI agents.",
+        "Register now to avoid being the next cautionary tale."
+      ],
+      "thread_text": [
+        "1. Your AI is already outdated.\n\nBy 2026, the strategy you built last quarter will be obsolete. TechCrunch Disrupt just confirmed the SaaS reckoning is accelerating.",
+        "2. The hidden cost.\n\nEveryone saw the market shift coming. No one saw the agent security gap. It’s the blind spot that turns automation into liabilities.",
+        "3. Exploit or be exploited.\n\nUnsecured agents leak data, execute rogue commands, and get hijacked in minutes. The damage compounds silently.",
+        "4. Fix it before it breaks.\n\nYou can lock down agent permissions, monitor their actions, and audit every decision. Most teams skip these steps until it’s too late.",
+        "5. Register or regret.\n\nOpen your AI dashboard. Count how many agents have no access limits. If the number isn’t zero, you are the next cautionary tale."
+      ],
+      "video_script": [
+        "Your AI strategy dies by 2026.",
+        "SaaS reckoning is already here.",
+        "Biggest surprise: agent security gap.",
+        "Learn concrete steps to secure.",
+        "Register now — avoid the lesson."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI is already outdated.\n\nBy 2026, the strategy you built last quarter will be obsolete. TechCrunch Disrupt just confirmed the SaaS reckoning is accelerating.",
+            "2. The hidden cost.\n\nEveryone saw the market shift coming. No one saw the agent security gap. It’s the blind spot that turns automation into liabilities.",
+            "3. Exploit or be exploited.\n\nUnsecured agents leak data, execute rogue commands, and get hijacked in minutes. The damage compounds silently.",
+            "4. Fix it before it breaks.\n\nYou can lock down agent permissions, monitor their actions, and audit every decision. Most teams skip these steps until it’s too late.",
+            "5. Register or regret.\n\nOpen your AI dashboard. Count how many agents have no access limits. If the number isn’t zero, you are the next cautionary tale."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI strategy dies by 2026.",
+            "SaaS reckoning is already here.",
+            "Biggest surprise: agent security gap.",
+            "Learn concrete steps to secure.",
+            "Register now — avoid the lesson."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI strategy from last quarter is already obsolete by 2026. 📉\n\nTechCrunch Disrupt 2026 reveals a SaaS reckoning accelerating faster than most teams expected. The blind spot? Agent security—unsecured AI agents leak data and execute rogue commands in minutes.\n\nFor anyone deploying AI tools: you can lock down permissions and audit every decision, or watch your automation turn into a liability.\n\nOpen your dashboard. How many agents have no access limits right now? ⚠️ Register before you become the next cautionary tale. 🔐"
+        }
+      },
+      "instagram_caption": "Your AI strategy from last quarter is already obsolete by 2026. 📉\n\nTechCrunch Disrupt 2026 reveals a SaaS reckoning accelerating faster than most teams expected. The blind spot? Agent security—unsecured AI agents leak data and execute rogue commands in minutes.\n\nFor anyone deploying AI tools: you can lock down permissions and audit every decision, or watch your automation turn into a liability.\n\nOpen your dashboard. How many agents have no access limits right now? ⚠️ Register before you become the next cautionary tale. 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your AI agents can be hijacked in minutes.",
+          "description": "Unsecured agents leak data and execute rogue commands silently. The damage compounds fast.",
+          "visual_hint": "Silhouette hacking a server rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The SaaS reckoning is accelerating.",
+          "description": "Market shift is obvious, but the agent security gap is the hidden blind spot turning automation into liabilities.",
+          "visual_hint": "Stock chart dropping sharply",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Exploit or be exploited.",
+          "description": "Unsecured agents leak data, execute rogue commands, and get hijacked in minutes. Damage compounds silently.",
+          "visual_hint": "Glowing lock with crack",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken lock",
+          "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fix it before it breaks.",
+          "description": "Lock agent permissions, monitor actions, and audit every decision. Most teams skip these steps until too late.",
+          "visual_hint": "Hand adjusting a digital lock",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand laptop security",
+          "image": "https://images.pexels.com/photos/7821752/pexels-photo-7821752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Register or regret it. Save this.",
+          "description": "Open your AI dashboard. Count agents with no access limits. If not zero, you are the next cautionary tale.",
+          "visual_hint": "Calendar with registration badge",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar event",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+      "savedAt": "2026-07-30T01:42:00.528Z",
+      "sourceId": "0e31e3499c48aed633d480bb992619ae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-logs-3-2b-from-anthropic-investment-but-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "slides": [
+        "Microsoft’s Anthropic bet paid off—why didn’t OpenAI?",
+        "Anthropic delivered $3.2B return in under two years.",
+        "OpenAI cost Microsoft billions more than expected.",
+        "Your next AI vendor contract needs exit clauses now.",
+        "Check your supplier’s cap table before signing a deal."
+      ],
+      "thread_text": [
+        "1. Microsoft won big.\n\nAnthropic returned $3.2B in under two years — a bet that paid off.",
+        "2. OpenAI’s cost spiral.\n\nMicrosoft spent billions more than planned on OpenAI, with no comparable return.",
+        "3. The contract trap.\n\nMost AI vendor deals lock you in. Your next one needs an exit clause.",
+        "4. Cap table red flag.\n\nCheck your supplier’s ownership structure before signing — hidden obligations can hurt you.",
+        "5. Audit your AI stack.\n\nPull one prompt from ChatGPT and check if you could switch providers in a week. If not, start now."
+      ],
+      "video_script": [
+        "Microsoft bet on Anthropic and got three point two billion back.",
+        "OpenAI cost them billions more than expected.",
+        "Your next AI deal needs an exit clause.",
+        "Always check your supplier's cap table first.",
+        "Could you switch AI providers within a week?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Microsoft won big.\n\nAnthropic returned $3.2B in under two years — a bet that paid off.",
+            "2. OpenAI’s cost spiral.\n\nMicrosoft spent billions more than planned on OpenAI, with no comparable return.",
+            "3. The contract trap.\n\nMost AI vendor deals lock you in. Your next one needs an exit clause.",
+            "4. Cap table red flag.\n\nCheck your supplier’s ownership structure before signing — hidden obligations can hurt you.",
+            "5. Audit your AI stack.\n\nPull one prompt from ChatGPT and check if you could switch providers in a week. If not, start now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft bet on Anthropic and got three point two billion back.",
+            "OpenAI cost them billions more than expected.",
+            "Your next AI deal needs an exit clause.",
+            "Always check your supplier's cap table first.",
+            "Could you switch AI providers within a week?"
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft's Anthropic bet returned $3.2B in under two years. OpenAI cost them billions more with no comparable payout.\n\nOne AI vendor delivered profits; the other burned cash. The difference? Contract terms and ownership structure—not just tech quality.\n\nIf you license AI tools, your deal likely locks you in with no way out. That’s a risk, not a guarantee.\n\nCan you switch providers in a week? If not, check your contract’s exit clause before your next renewal."
+        }
+      },
+      "instagram_caption": "Microsoft's Anthropic bet returned $3.2B in under two years. OpenAI cost them billions more with no comparable payout.\n\nOne AI vendor delivered profits; the other burned cash. The difference? Contract terms and ownership structure—not just tech quality.\n\nIf you license AI tools, your deal likely locks you in with no way out. That’s a risk, not a guarantee.\n\nCan you switch providers in a week? If not, check your contract’s exit clause before your next renewal.",
+      "carousel_slides": [
+        {
+          "hook": "Your AI contract is a trap.",
+          "description": "Microsoft's OpenAI deal cost billions more than expected, proving vendor lock-in can backfire badly.",
+          "visual_hint": "Broken chain lock on contract",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken chain lock"
+        },
+        {
+          "hook": "Anthropic returned $3.2B in 2 years.",
+          "description": "Microsoft's bet on Anthropic paid off, while OpenAI's cost spiral showed no comparable return.",
+          "visual_hint": "Rocket graph going up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The hidden cost of OpenAI deals.",
+          "description": "Microsoft spent billions more than planned on OpenAI, highlighting the need for strict exit clauses.",
+          "visual_hint": "Stack of money burning",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "burning money pile",
+          "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your supplier's cap table first.",
+          "description": "Hidden obligations in vendor ownership structures can hurt you — just like they hurt Microsoft.",
+          "visual_hint": "Magnifier over ownership chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your AI stack.",
+          "description": "Pull one prompt from ChatGPT and test if you could switch providers in a week. Start now.",
+          "visual_hint": "Checklist with red flags",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+      "savedAt": "2026-07-30T01:41:49.856Z",
+      "sourceId": "feca2ec539e2a7daccfdb87e1ac8ea6b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mark-zuckerberg-predicts-that-billions-of-people-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+      "slides": [
+        "Is Zuckerberg right about AI agents for billions?",
+        "Meta's vision: agents, not just chatbots.",
+        "These agents don't need your constant input.",
+        "You'll delegate tasks, not just ask questions.",
+        "Start testing Meta's AI features today."
+      ],
+      "thread_text": [
+        "1. Are you ready?\n\nMeta's AI agents will soon act on your behalf without a single prompt. Zuck just bet the company on it.",
+        "2. No more typing.\n\nThese agents book flights, order groceries, and reply to emails. You just set a goal and they execute.",
+        "3. The real shift.\n\nChatbots wait for your question. Meta's agents operate in the background, making decisions for you.",
+        "4. One catch.\n\nTo work at scale, they need access to your accounts and habits. Privacy trade-offs are not optional.",
+        "5. Test it now.\n\nOpen Instagram and try Meta AI. Delegate one small task today, like scheduling a message. Did it work?"
+      ],
+      "video_script": [
+        "Meta wants agents for billions of users.",
+        "These agents do tasks without your input.",
+        "You delegate, not just ask questions.",
+        "They book flights and reply for you.",
+        "Test Meta's AI features today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Are you ready?\n\nMeta's AI agents will soon act on your behalf without a single prompt. Zuck just bet the company on it.",
+            "2. No more typing.\n\nThese agents book flights, order groceries, and reply to emails. You just set a goal and they execute.",
+            "3. The real shift.\n\nChatbots wait for your question. Meta's agents operate in the background, making decisions for you.",
+            "4. One catch.\n\nTo work at scale, they need access to your accounts and habits. Privacy trade-offs are not optional.",
+            "5. Test it now.\n\nOpen Instagram and try Meta AI. Delegate one small task today, like scheduling a message. Did it work?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta wants agents for billions of users.",
+            "These agents do tasks without your input.",
+            "You delegate, not just ask questions.",
+            "They book flights and reply for you.",
+            "Test Meta's AI features today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your personal assistant will soon stop waiting for your commands.\n\nZuckerberg just bet Meta’s entire future on AI agents that book flights and order groceries without you typing a word. These agents run in the background, making decisions on your behalf.\n\nThat means your content won’t just compete for attention—it’ll compete for a bot’s permission to be seen or shared 🤖.\n\nIf Meta’s agents control your audience’s email replies and shopping lists tomorrow, are you designing your content for the user or for their AI? 🤔"
+        }
+      },
+      "instagram_caption": "Your personal assistant will soon stop waiting for your commands.\n\nZuckerberg just bet Meta’s entire future on AI agents that book flights and order groceries without you typing a word. These agents run in the background, making decisions on your behalf.\n\nThat means your content won’t just compete for attention—it’ll compete for a bot’s permission to be seen or shared 🤖.\n\nIf Meta’s agents control your audience’s email replies and shopping lists tomorrow, are you designing your content for the user or for their AI? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Billions will have AI agents soon.",
+          "description": "Meta's CEO predicts AI agents for billions in five years, not just chatbots.",
+          "visual_hint": "Futuristic AI interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "AI agent concept"
+        },
+        {
+          "hook": "Agents act without your prompt.",
+          "description": "Meta's agents book flights and order groceries. You set a goal, they execute.",
+          "visual_hint": "Hand typing on phone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone booking flight",
+          "image": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No more constant typing needed.",
+          "description": "These agents operate in the background, making decisions for you autonomously.",
+          "visual_hint": "Background network animation",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Privacy trade-offs are unavoidable.",
+          "description": "To work at scale, agents need access to your accounts and habits. Not optional.",
+          "visual_hint": "Lock icon over data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data privacy lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Meta AI in Instagram now.",
+          "description": "Open Instagram, try Meta AI, and delegate one small task like scheduling a message.",
+          "visual_hint": "Instagram logo with AI",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "Instagram app logo",
+          "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+      "savedAt": "2026-07-30T01:41:38.893Z",
+      "sourceId": "1929c1854e3f09ba0267690601e82e9b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-is-openly-competing-with-openai-anthropi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "slides": [
+        "Can Microsoft outpace its own AI partner?",
+        "Its new models now rival OpenAI's best.",
+        "Anthropic just lost a key Azure deal.",
+        "Your AI stack may soon shift providers.",
+        "Audit your dependencies before next quarter."
+      ],
+      "thread_text": [
+        "1. Can Microsoft outpace its own AI partner?\n\nOpenAI’s best models now have direct competitors from the same investor.",
+        "2. Anthropic just lost a key Azure deal.\n\nThe shift isn’t just technical — it’s strategic. A major revenue stream for them just evaporated.",
+        "3. Your AI stack may soon shift providers.\n\nWhen one vendor loses a deal, the cascade affects your integrations and pricing.",
+        "4. Its new models now rival OpenAI's best.\n\nMicrosoft's Phi and MAI series match GPT-4 on benchmarks you probably depend on.",
+        "5. Audit your dependencies before next quarter.\n\nOpen a vendor lock-in checklist and mark which models you actually use. Can you swap in 48 hours?"
+      ],
+      "video_script": [
+        "Microsoft launched models that beat their own partner.",
+        "Anthropic lost a huge Azure deal last week.",
+        "Your AI provider may change without notice.",
+        "New models rival OpenAI's top performance.",
+        "Check your vendor lock-in now before it costs you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Microsoft outpace its own AI partner?\n\nOpenAI’s best models now have direct competitors from the same investor.",
+            "2. Anthropic just lost a key Azure deal.\n\nThe shift isn’t just technical — it’s strategic. A major revenue stream for them just evaporated.",
+            "3. Your AI stack may soon shift providers.\n\nWhen one vendor loses a deal, the cascade affects your integrations and pricing.",
+            "4. Its new models now rival OpenAI's best.\n\nMicrosoft's Phi and MAI series match GPT-4 on benchmarks you probably depend on.",
+            "5. Audit your dependencies before next quarter.\n\nOpen a vendor lock-in checklist and mark which models you actually use. Can you swap in 48 hours?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft launched models that beat their own partner.",
+            "Anthropic lost a huge Azure deal last week.",
+            "Your AI provider may change without notice.",
+            "New models rival OpenAI's top performance.",
+            "Check your vendor lock-in now before it costs you."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft’s new models now match OpenAI’s best on key benchmarks, while Anthropic just lost a major Azure deal. ⚡\n\nThat deal was a core revenue stream for Anthropic — its evaporation reshapes the competitive landscape. Your AI vendor’s pricing and integrations could shift within a quarter.\n\nIf you rely on a single model provider, your costs and toolchain now have a ticking clock. 🧠\n\nOpen a model audit checklist before next quarter — can you swap providers in 48 hours? 📋"
+        }
+      },
+      "instagram_caption": "Microsoft’s new models now match OpenAI’s best on key benchmarks, while Anthropic just lost a major Azure deal. ⚡\n\nThat deal was a core revenue stream for Anthropic — its evaporation reshapes the competitive landscape. Your AI vendor’s pricing and integrations could shift within a quarter.\n\nIf you rely on a single model provider, your costs and toolchain now have a ticking clock. 🧠\n\nOpen a model audit checklist before next quarter — can you swap providers in 48 hours? 📋",
+      "carousel_slides": [
+        {
+          "hook": "Your AI provider could vanish.",
+          "description": "Anthropic just lost a major Azure deal. That revenue loss reshapes the entire market.",
+          "visual_hint": "Disconnected server cables",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "sever room cables"
+        },
+        {
+          "hook": "Microsoft now rivals OpenAI.",
+          "description": "Phi and MAI match GPT-4 benchmarks. The same investor competes with its own partner.",
+          "visual_hint": "Two graphs overlapped",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A deal loss triggers chaos.",
+          "description": "Lost revenue cascades: pricing, integrations, and your stack will shift.",
+          "visual_hint": "Falling domino tiles",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "domino tiles falling",
+          "image": "https://images.pexels.com/photos/9760550/pexels-photo-9760550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you swap in 48 hours?",
+          "description": "Audit dependencies now. Mark which models you use — lock-in is silent.",
+          "visual_hint": "Checklist on clipboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this audit checklist.",
+          "description": "Open your vendor lock-in list. Identify every model and test a swap now.",
+          "visual_hint": "Hand ticking boxes",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand ticking boxes",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+      "savedAt": "2026-07-30T01:41:27.682Z",
+      "sourceId": "750af35496d7b51a4f7ae5ac713220b3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "mark-zuckerberg-is-planning-a-big-push-into-person",
       "prompt_version": "1.0.0",
       "status": "published",

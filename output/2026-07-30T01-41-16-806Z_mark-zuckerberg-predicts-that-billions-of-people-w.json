@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mark-zuckerberg-predicts-that-billions-of-people-w",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+  "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+  "pubDate": "Wed, 29 Jul 2026 23:00:11 +0000",
+  "slides": [
+    "Is Zuckerberg right about AI agents for billions?",
+    "Meta's vision: agents, not just chatbots.",
+    "These agents don't need your constant input.",
+    "You'll delegate tasks, not just ask questions.",
+    "Start testing Meta's AI features today."
+  ],
+  "thread_text": [
+    "1. Are you ready?\n\nMeta's AI agents will soon act on your behalf without a single prompt. Zuck just bet the company on it.",
+    "2. No more typing.\n\nThese agents book flights, order groceries, and reply to emails. You just set a goal and they execute.",
+    "3. The real shift.\n\nChatbots wait for your question. Meta's agents operate in the background, making decisions for you.",
+    "4. One catch.\n\nTo work at scale, they need access to your accounts and habits. Privacy trade-offs are not optional.",
+    "5. Test it now.\n\nOpen Instagram and try Meta AI. Delegate one small task today, like scheduling a message. Did it work?"
+  ],
+  "video_script": [
+    "Meta wants agents for billions of users.",
+    "These agents do tasks without your input.",
+    "You delegate, not just ask questions.",
+    "They book flights and reply for you.",
+    "Test Meta's AI features today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Are you ready?\n\nMeta's AI agents will soon act on your behalf without a single prompt. Zuck just bet the company on it.",
+        "2. No more typing.\n\nThese agents book flights, order groceries, and reply to emails. You just set a goal and they execute.",
+        "3. The real shift.\n\nChatbots wait for your question. Meta's agents operate in the background, making decisions for you.",
+        "4. One catch.\n\nTo work at scale, they need access to your accounts and habits. Privacy trade-offs are not optional.",
+        "5. Test it now.\n\nOpen Instagram and try Meta AI. Delegate one small task today, like scheduling a message. Did it work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta wants agents for billions of users.",
+        "These agents do tasks without your input.",
+        "You delegate, not just ask questions.",
+        "They book flights and reply for you.",
+        "Test Meta's AI features today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your personal assistant will soon stop waiting for your commands.\n\nZuckerberg just bet Meta’s entire future on AI agents that book flights and order groceries without you typing a word. These agents run in the background, making decisions on your behalf.\n\nThat means your content won’t just compete for attention—it’ll compete for a bot’s permission to be seen or shared 🤖.\n\nIf Meta’s agents control your audience’s email replies and shopping lists tomorrow, are you designing your content for the user or for their AI? 🤔"
+    }
+  },
+  "instagram_caption": "Your personal assistant will soon stop waiting for your commands.\n\nZuckerberg just bet Meta’s entire future on AI agents that book flights and order groceries without you typing a word. These agents run in the background, making decisions on your behalf.\n\nThat means your content won’t just compete for attention—it’ll compete for a bot’s permission to be seen or shared 🤖.\n\nIf Meta’s agents control your audience’s email replies and shopping lists tomorrow, are you designing your content for the user or for their AI? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Billions will have AI agents soon.",
+      "description": "Meta's CEO predicts AI agents for billions in five years, not just chatbots.",
+      "visual_hint": "Futuristic AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AI agent concept"
+    },
+    {
+      "hook": "Agents act without your prompt.",
+      "description": "Meta's agents book flights and order groceries. You set a goal, they execute.",
+      "visual_hint": "Hand typing on phone",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone booking flight",
+      "image": "https://images.pexels.com/photos/13404723/pexels-photo-13404723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more constant typing needed.",
+      "description": "These agents operate in the background, making decisions for you autonomously.",
+      "visual_hint": "Background network animation",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy trade-offs are unavoidable.",
+      "description": "To work at scale, agents need access to your accounts and habits. Not optional.",
+      "visual_hint": "Lock icon over data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data privacy lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Meta AI in Instagram now.",
+      "description": "Open Instagram, try Meta AI, and delegate one small task like scheduling a message.",
+      "visual_hint": "Instagram logo with AI",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "Instagram app logo",
+      "image": "https://images.pexels.com/photos/3850266/pexels-photo-3850266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+  "savedAt": "2026-07-30T01:41:38.893Z",
+  "sourceId": "1929c1854e3f09ba0267690601e82e9b"
+}

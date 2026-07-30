@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-is-openly-competing-with-openai-anthropi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+  "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+  "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+  "slides": [
+    "Can Microsoft outpace its own AI partner?",
+    "Its new models now rival OpenAI's best.",
+    "Anthropic just lost a key Azure deal.",
+    "Your AI stack may soon shift providers.",
+    "Audit your dependencies before next quarter."
+  ],
+  "thread_text": [
+    "1. Can Microsoft outpace its own AI partner?\n\nOpenAI’s best models now have direct competitors from the same investor.",
+    "2. Anthropic just lost a key Azure deal.\n\nThe shift isn’t just technical — it’s strategic. A major revenue stream for them just evaporated.",
+    "3. Your AI stack may soon shift providers.\n\nWhen one vendor loses a deal, the cascade affects your integrations and pricing.",
+    "4. Its new models now rival OpenAI's best.\n\nMicrosoft's Phi and MAI series match GPT-4 on benchmarks you probably depend on.",
+    "5. Audit your dependencies before next quarter.\n\nOpen a vendor lock-in checklist and mark which models you actually use. Can you swap in 48 hours?"
+  ],
+  "video_script": [
+    "Microsoft launched models that beat their own partner.",
+    "Anthropic lost a huge Azure deal last week.",
+    "Your AI provider may change without notice.",
+    "New models rival OpenAI's top performance.",
+    "Check your vendor lock-in now before it costs you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Microsoft outpace its own AI partner?\n\nOpenAI’s best models now have direct competitors from the same investor.",
+        "2. Anthropic just lost a key Azure deal.\n\nThe shift isn’t just technical — it’s strategic. A major revenue stream for them just evaporated.",
+        "3. Your AI stack may soon shift providers.\n\nWhen one vendor loses a deal, the cascade affects your integrations and pricing.",
+        "4. Its new models now rival OpenAI's best.\n\nMicrosoft's Phi and MAI series match GPT-4 on benchmarks you probably depend on.",
+        "5. Audit your dependencies before next quarter.\n\nOpen a vendor lock-in checklist and mark which models you actually use. Can you swap in 48 hours?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft launched models that beat their own partner.",
+        "Anthropic lost a huge Azure deal last week.",
+        "Your AI provider may change without notice.",
+        "New models rival OpenAI's top performance.",
+        "Check your vendor lock-in now before it costs you."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft’s new models now match OpenAI’s best on key benchmarks, while Anthropic just lost a major Azure deal. ⚡\n\nThat deal was a core revenue stream for Anthropic — its evaporation reshapes the competitive landscape. Your AI vendor’s pricing and integrations could shift within a quarter.\n\nIf you rely on a single model provider, your costs and toolchain now have a ticking clock. 🧠\n\nOpen a model audit checklist before next quarter — can you swap providers in 48 hours? 📋"
+    }
+  },
+  "instagram_caption": "Microsoft’s new models now match OpenAI’s best on key benchmarks, while Anthropic just lost a major Azure deal. ⚡\n\nThat deal was a core revenue stream for Anthropic — its evaporation reshapes the competitive landscape. Your AI vendor’s pricing and integrations could shift within a quarter.\n\nIf you rely on a single model provider, your costs and toolchain now have a ticking clock. 🧠\n\nOpen a model audit checklist before next quarter — can you swap providers in 48 hours? 📋",
+  "carousel_slides": [
+    {
+      "hook": "Your AI provider could vanish.",
+      "description": "Anthropic just lost a major Azure deal. That revenue loss reshapes the entire market.",
+      "visual_hint": "Disconnected server cables",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sever room cables"
+    },
+    {
+      "hook": "Microsoft now rivals OpenAI.",
+      "description": "Phi and MAI match GPT-4 benchmarks. The same investor competes with its own partner.",
+      "visual_hint": "Two graphs overlapped",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A deal loss triggers chaos.",
+      "description": "Lost revenue cascades: pricing, integrations, and your stack will shift.",
+      "visual_hint": "Falling domino tiles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "domino tiles falling",
+      "image": "https://images.pexels.com/photos/9760550/pexels-photo-9760550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you swap in 48 hours?",
+      "description": "Audit dependencies now. Mark which models you use — lock-in is silent.",
+      "visual_hint": "Checklist on clipboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this audit checklist.",
+      "description": "Open your vendor lock-in list. Identify every model and test a swap now.",
+      "visual_hint": "Hand ticking boxes",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand ticking boxes",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+  "savedAt": "2026-07-30T01:41:27.682Z",
+  "sourceId": "750af35496d7b51a4f7ae5ac713220b3"
+}

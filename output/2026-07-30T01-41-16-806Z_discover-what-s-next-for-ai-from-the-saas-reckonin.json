@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "discover-what-s-next-for-ai-from-the-saas-reckonin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ",
+  "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+  "pubDate": "Wed, 29 Jul 2026 21:16:39 +0000",
+  "slides": [
+    "Is your AI strategy already obsolete by 2026?",
+    "TechCrunch Disrupt 2026 reveals the SaaS reckoning.",
+    "But the biggest surprise is the agent security gap.",
+    "You will learn concrete steps to secure your AI agents.",
+    "Register now to avoid being the next cautionary tale."
+  ],
+  "thread_text": [
+    "1. Your AI is already outdated.\n\nBy 2026, the strategy you built last quarter will be obsolete. TechCrunch Disrupt just confirmed the SaaS reckoning is accelerating.",
+    "2. The hidden cost.\n\nEveryone saw the market shift coming. No one saw the agent security gap. It’s the blind spot that turns automation into liabilities.",
+    "3. Exploit or be exploited.\n\nUnsecured agents leak data, execute rogue commands, and get hijacked in minutes. The damage compounds silently.",
+    "4. Fix it before it breaks.\n\nYou can lock down agent permissions, monitor their actions, and audit every decision. Most teams skip these steps until it’s too late.",
+    "5. Register or regret.\n\nOpen your AI dashboard. Count how many agents have no access limits. If the number isn’t zero, you are the next cautionary tale."
+  ],
+  "video_script": [
+    "Your AI strategy dies by 2026.",
+    "SaaS reckoning is already here.",
+    "Biggest surprise: agent security gap.",
+    "Learn concrete steps to secure.",
+    "Register now — avoid the lesson."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI is already outdated.\n\nBy 2026, the strategy you built last quarter will be obsolete. TechCrunch Disrupt just confirmed the SaaS reckoning is accelerating.",
+        "2. The hidden cost.\n\nEveryone saw the market shift coming. No one saw the agent security gap. It’s the blind spot that turns automation into liabilities.",
+        "3. Exploit or be exploited.\n\nUnsecured agents leak data, execute rogue commands, and get hijacked in minutes. The damage compounds silently.",
+        "4. Fix it before it breaks.\n\nYou can lock down agent permissions, monitor their actions, and audit every decision. Most teams skip these steps until it’s too late.",
+        "5. Register or regret.\n\nOpen your AI dashboard. Count how many agents have no access limits. If the number isn’t zero, you are the next cautionary tale."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI strategy dies by 2026.",
+        "SaaS reckoning is already here.",
+        "Biggest surprise: agent security gap.",
+        "Learn concrete steps to secure.",
+        "Register now — avoid the lesson."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI strategy from last quarter is already obsolete by 2026. 📉\n\nTechCrunch Disrupt 2026 reveals a SaaS reckoning accelerating faster than most teams expected. The blind spot? Agent security—unsecured AI agents leak data and execute rogue commands in minutes.\n\nFor anyone deploying AI tools: you can lock down permissions and audit every decision, or watch your automation turn into a liability.\n\nOpen your dashboard. How many agents have no access limits right now? ⚠️ Register before you become the next cautionary tale. 🔐"
+    }
+  },
+  "instagram_caption": "Your AI strategy from last quarter is already obsolete by 2026. 📉\n\nTechCrunch Disrupt 2026 reveals a SaaS reckoning accelerating faster than most teams expected. The blind spot? Agent security—unsecured AI agents leak data and execute rogue commands in minutes.\n\nFor anyone deploying AI tools: you can lock down permissions and audit every decision, or watch your automation turn into a liability.\n\nOpen your dashboard. How many agents have no access limits right now? ⚠️ Register before you become the next cautionary tale. 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Your AI agents can be hijacked in minutes.",
+      "description": "Unsecured agents leak data and execute rogue commands silently. The damage compounds fast.",
+      "visual_hint": "Silhouette hacking a server rack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The SaaS reckoning is accelerating.",
+      "description": "Market shift is obvious, but the agent security gap is the hidden blind spot turning automation into liabilities.",
+      "visual_hint": "Stock chart dropping sharply",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Exploit or be exploited.",
+      "description": "Unsecured agents leak data, execute rogue commands, and get hijacked in minutes. Damage compounds silently.",
+      "visual_hint": "Glowing lock with crack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken lock",
+      "image": "https://images.pexels.com/photos/13115085/pexels-photo-13115085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fix it before it breaks.",
+      "description": "Lock agent permissions, monitor actions, and audit every decision. Most teams skip these steps until too late.",
+      "visual_hint": "Hand adjusting a digital lock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand laptop security",
+      "image": "https://images.pexels.com/photos/7821752/pexels-photo-7821752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Register or regret it. Save this.",
+      "description": "Open your AI dashboard. Count agents with no access limits. If not zero, you are the next cautionary tale.",
+      "visual_hint": "Calendar with registration badge",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar event",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+  "savedAt": "2026-07-30T01:42:00.528Z",
+  "sourceId": "0e31e3499c48aed633d480bb992619ae"
+}
