@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "linkedin-adds-a-button-to-report-ai-generated-slop",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+  "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+  "pubDate": "Thu, 30 Jul 2026 18:05:21 +0000",
+  "slides": [
+    "LinkedIn just added a button against AI slop.",
+    "It lets users flag low-quality AI content directly.",
+    "But what defines 'slop' remains entirely unclear.",
+    "Your posts could be flagged without your knowledge.",
+    "Test a human-written post versus AI assistance now."
+  ],
+  "thread_text": [
+    "1. Your work just got flagged\n\nLinkedIn's new button lets users report AI-generated content without telling you.",
+    "2. Who decides what's slop?\n\nThe company hasn't defined the term. Your human-written post might still get labeled.",
+    "3. You won't know it happened\n\nNo notification. No appeal. The flag stays invisible to the original poster.",
+    "4. The real cost is trust\n\nClients or recruiters may see a hidden mark. One report could shift their perception.",
+    "5. Test the line today\n\nTake a post you wrote and paste it into ChatGPT. Run a side-by-side comparison. Where do you draw the boundary?"
+  ],
+  "video_script": [
+    "LinkedIn now flags AI content without telling you.",
+    "But they haven't defined what AI slop is.",
+    "Your posts could get flagged in secret.",
+    "This breaks trust between you and your network.",
+    "Test your own writing against AI this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your work just got flagged\n\nLinkedIn's new button lets users report AI-generated content without telling you.",
+        "2. Who decides what's slop?\n\nThe company hasn't defined the term. Your human-written post might still get labeled.",
+        "3. You won't know it happened\n\nNo notification. No appeal. The flag stays invisible to the original poster.",
+        "4. The real cost is trust\n\nClients or recruiters may see a hidden mark. One report could shift their perception.",
+        "5. Test the line today\n\nTake a post you wrote and paste it into ChatGPT. Run a side-by-side comparison. Where do you draw the boundary?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "LinkedIn now flags AI content without telling you.",
+        "But they haven't defined what AI slop is.",
+        "Your posts could get flagged in secret.",
+        "This breaks trust between you and your network.",
+        "Test your own writing against AI this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Your LinkedIn post can now get flagged as \"AI slop\" by other users — and you’ll never know it happened.\n\nLinkedIn added a reporting button for low-quality AI content, but hasn’t defined what “slop” actually means. No notification goes to the original poster. No appeals process exists.\n\nIf you write your own posts, a single report could tag them invisibly. Recruiters or clients might see a hidden mark that changes their perception.\n\nTake one of your recent posts and paste it into ChatGPT — then run a side-by-side comparison. Where exactly would you draw the boundary between human effort and slop? 🔍📄⚖️"
+    }
+  },
+  "instagram_caption": "Your LinkedIn post can now get flagged as \"AI slop\" by other users — and you’ll never know it happened.\n\nLinkedIn added a reporting button for low-quality AI content, but hasn’t defined what “slop” actually means. No notification goes to the original poster. No appeals process exists.\n\nIf you write your own posts, a single report could tag them invisibly. Recruiters or clients might see a hidden mark that changes their perception.\n\nTake one of your recent posts and paste it into ChatGPT — then run a side-by-side comparison. Where exactly would you draw the boundary between human effort and slop? 🔍📄⚖️",
+  "carousel_slides": [
+    {
+      "hook": "Your post flagged without notice",
+      "description": "LinkedIn's new button lets users report AI slop, but you won't be notified if your post is flagged.",
+      "visual_hint": "Red flag on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "flag button interface"
+    },
+    {
+      "hook": "Who defines slop? Nobody.",
+      "description": "LinkedIn hasn't defined AI slop, so a human-written post could still get unfairly labeled.",
+      "visual_hint": "Question mark overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "question mark sign",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The flag stays invisible to you",
+      "description": "No notification or appeal process exists. The flag is hidden from the original poster entirely.",
+      "visual_hint": "Hidden eye icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "invisible eye symbol",
+      "image": "https://images.pexels.com/photos/626163/pexels-photo-626163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One report shifts perception",
+      "description": "A hidden mark could affect how clients or recruiters view your credibility, even without proof.",
+      "visual_hint": "Shifting scales",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "balance scale tipped",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your posts",
+      "description": "Paste a human-written post into ChatGPT. Run a side-by-side comparison to see where you draw the line.",
+      "visual_hint": "Side-by-side screens",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comparison test screens",
+      "image": "https://images.pexels.com/photos/3846020/pexels-photo-3846020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+  "savedAt": "2026-07-30T19:11:32.448Z",
+  "sourceId": "dc18fde4e6bc6553da96d68aa927b7c2"
+}

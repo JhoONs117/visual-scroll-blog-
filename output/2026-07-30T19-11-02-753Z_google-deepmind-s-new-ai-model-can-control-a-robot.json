@@ -1,0 +1,103 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-deepmind-s-new-ai-model-can-control-a-robot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+  "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+  "pubDate": "2026-07-30T17:18:45.000Z",
+  "slides": [
+    "Can Google DeepMind's AI give robots full body control?",
+    "It learns movement from human motion data alone.",
+    "The robot never saw certain objects before testing.",
+    "Your warehouse bots could work without manual programming.",
+    "Start testing your robot's adaptability on one new task."
+  ],
+  "thread_text": [
+    "1. Can robots learn like humans?\n\nDeepMind's AI was trained only on human motion data — no robot-specific programming.",
+    "2. No demo, no prep.\n\nThe robot faced objects it had never seen before and still adapted without manual code.",
+    "3. Full body, zero scripts.\n\nWarehouse bots could gain whole-body control without engineers writing instructions for every move.",
+    "4. One test changes everything.\n\nStart by testing your robot's adaptability on a single new task — you might skip months of programming.",
+    "5. Try it on one task today.\n\nTake your robot and give it a task it's not trained for. If it fails, what does that tell you?"
+  ],
+  "video_script": [
+    "Robot learns from human motion alone.",
+    "No prior object training needed.",
+    "Full body control without manual code.",
+    "Warehouse bots adapt on their own.",
+    "Test your robot on one new task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can robots learn like humans?\n\nDeepMind's AI was trained only on human motion data — no robot-specific programming.",
+        "2. No demo, no prep.\n\nThe robot faced objects it had never seen before and still adapted without manual code.",
+        "3. Full body, zero scripts.\n\nWarehouse bots could gain whole-body control without engineers writing instructions for every move.",
+        "4. One test changes everything.\n\nStart by testing your robot's adaptability on a single new task — you might skip months of programming.",
+        "5. Try it on one task today.\n\nTake your robot and give it a task it's not trained for. If it fails, what does that tell you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robot learns from human motion alone.",
+        "No prior object training needed.",
+        "Full body control without manual code.",
+        "Warehouse bots adapt on their own.",
+        "Test your robot on one new task."
+      ]
+    },
+    "instagram": {
+      "caption": "A robot trained only by watching human videos nailed a task it had never seen before — no manual code, no test run.\n\nGoogle DeepMind’s new model learns full-body control from human motion data alone. The robot handled objects it had never encountered, adapting on the fly without engineers writing a single new instruction. 🧠\n\nThat means your warehouse bots could skip months of custom programming for each new task. 🤖\n\nTake your robot and give it one task it wasn't designed for. If it fails, what does that tell you about your current workflow? 💡"
+    }
+  },
+  "instagram_caption": "A robot trained only by watching human videos nailed a task it had never seen before — no manual code, no test run.\n\nGoogle DeepMind’s new model learns full-body control from human motion data alone. The robot handled objects it had never encountered, adapting on the fly without engineers writing a single new instruction. 🧠\n\nThat means your warehouse bots could skip months of custom programming for each new task. 🤖\n\nTake your robot and give it one task it wasn't designed for. If it fails, what does that tell you about your current workflow? 💡",
+  "carousel_slides": [
+    {
+      "hook": "What if robots learn like us?",
+      "description": "DeepMind's AI trains on human motion only—no robot-specific code needed for full-body control.",
+      "visual_hint": "robot silhouette learning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "human walking motion"
+    },
+    {
+      "hook": "No demo, no prep needed.",
+      "description": "Robot handles unseen objects instantly, adapting without manual programming or prior demonstrations.",
+      "visual_hint": "robot touching unknown object",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm object",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Full body, zero scripts.",
+      "description": "Warehouse bots can gain whole-body control without engineers writing instructions for every move.",
+      "visual_hint": "warehouse robot moving",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warehouse robot",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One task changes everything.",
+      "description": "Test your robot's adaptability on a single new task and skip months of manual programming.",
+      "visual_hint": "robot testing new object",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot picking box"
+    },
+    {
+      "hook": "Save this to try later.",
+      "description": "Give your robot a task it's not trained for. If it fails, what does that reveal about adaptability?",
+      "visual_hint": "robot struggling with task",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot failure grasp",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&amp;strip=all&amp;crop=0%2C18.038475587483%2C100%2C63.923048825033&amp;w=1200",
+  "savedAt": "2026-07-30T19:13:00.543Z",
+  "sourceId": "6859a1dfdf57431eb2a111e07a2f281a"
+}

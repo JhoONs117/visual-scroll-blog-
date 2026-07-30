@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "linkedin-actually-adds-a-seems-like-ai-slop-button",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+  "pubDate": "2026-07-30T18:43:26.000Z",
+  "slides": [
+    "LinkedIn users can now flag AI-generated content.",
+    "But why would a professional network want this?",
+    "The button labels posts as 'seems like AI slop'.",
+    "Your feed will surface fewer low-effort AI posts.",
+    "Test it on a post you suspect is AI-generated."
+  ],
+  "thread_text": [
+    "1. Your feed’s new filter\n\nLinkedIn added a button to flag posts as 'seems like AI slop' — and it will train the algorithm to show you fewer like that.",
+    "2. Why LinkedIn wants this\n\nThe network needs professional trust. AI-generated filler erodes engagement and makes the platform feel spammy.",
+    "3. The labeling mechanism\n\nThe flag doesn’t ban the post — it just adds a tag visible to you and reduces that type of content in your feed.",
+    "4. What happens to your data\n\nYour clicks will train LinkedIn’s model to detect AI patterns across all users, not just your feed.",
+    "5. Test it this week\n\nFind a post you suspect is AI-generated, click the flag, and see if your recommended content shifts in 24 hours."
+  ],
+  "video_script": [
+    "LinkedIn now lets you flag AI-generated content.",
+    "It calls the button 'seems like AI slop'.",
+    "This trains the algorithm to hide similar posts.",
+    "Your click affects everyone's feed over time.",
+    "Test it now on a suspicious post."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your feed’s new filter\n\nLinkedIn added a button to flag posts as 'seems like AI slop' — and it will train the algorithm to show you fewer like that.",
+        "2. Why LinkedIn wants this\n\nThe network needs professional trust. AI-generated filler erodes engagement and makes the platform feel spammy.",
+        "3. The labeling mechanism\n\nThe flag doesn’t ban the post — it just adds a tag visible to you and reduces that type of content in your feed.",
+        "4. What happens to your data\n\nYour clicks will train LinkedIn’s model to detect AI patterns across all users, not just your feed.",
+        "5. Test it this week\n\nFind a post you suspect is AI-generated, click the flag, and see if your recommended content shifts in 24 hours."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "LinkedIn now lets you flag AI-generated content.",
+        "It calls the button 'seems like AI slop'.",
+        "This trains the algorithm to hide similar posts.",
+        "Your click affects everyone's feed over time.",
+        "Test it now on a suspicious post."
+      ]
+    },
+    "instagram": {
+      "caption": "LinkedIn just added a button that says 'seems like AI slop' to flag posts directly in your feed.\n\nYou click it, and the algorithm learns to show you fewer posts that look AI-generated. No bans, just a shift in your own recommendations.\n\nIf you create professional content, the platform is now signal-training against low-effort AI filler—your work gets surfaced over machine-glib fluff.\n\nIs your feed already full of posts that read like a bad chatbot? Test the button on one this week."
+    }
+  },
+  "instagram_caption": "LinkedIn just added a button that says 'seems like AI slop' to flag posts directly in your feed.\n\nYou click it, and the algorithm learns to show you fewer posts that look AI-generated. No bans, just a shift in your own recommendations.\n\nIf you create professional content, the platform is now signal-training against low-effort AI filler—your work gets surfaced over machine-glib fluff.\n\nIs your feed already full of posts that read like a bad chatbot? Test the button on one this week.",
+  "carousel_slides": [
+    {
+      "hook": "Is that post AI slop?",
+      "description": "LinkedIn adds a button to flag posts as 'seems like AI slop', training the algorithm to show you fewer.",
+      "visual_hint": "button with flag icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "LinkedIn app interface"
+    },
+    {
+      "hook": "Why LinkedIn wants this",
+      "description": "AI-generated filler erodes professional trust and engagement, making the platform feel spammy.",
+      "visual_hint": "spam warning badge",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spam email inbox",
+      "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How the flag works",
+      "description": "The flag doesn’t ban posts—it adds a tag visible to you and reduces similar content in your feed.",
+      "visual_hint": "tag on a post",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "content moderation tag",
+      "image": "https://images.pexels.com/photos/7564227/pexels-photo-7564227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your clicks train the model",
+      "description": "Your flag clicks teach LinkedIn’s AI to detect patterns across all users, not just your feed.",
+      "visual_hint": "data flow arrows",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "neural network diagram",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test it",
+      "description": "Find a suspicious post, click the flag, and check if your recommended content shifts in 24 hours.",
+      "visual_hint": "phone with flag menu",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&amp;strip=all&amp;crop=0,13.767459555427,100,72.465080889147",
+  "savedAt": "2026-07-30T19:12:36.043Z",
+  "sourceId": "0d730ddf13850ea069e7e596fc2569d7"
+}

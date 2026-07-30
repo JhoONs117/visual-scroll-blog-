@@ -2,6 +2,421 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-deepmind-s-new-ai-model-can-control-a-robot",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "pubDate": "2026-07-30T17:18:45.000Z",
+    "slides": [
+      "Can Google DeepMind's AI give robots full body control?",
+      "It learns movement from human motion data alone.",
+      "The robot never saw certain objects before testing.",
+      "Your warehouse bots could work without manual programming.",
+      "Start testing your robot's adaptability on one new task."
+    ],
+    "thread_text": [
+      "1. Can robots learn like humans?\n\nDeepMind's AI was trained only on human motion data — no robot-specific programming.",
+      "2. No demo, no prep.\n\nThe robot faced objects it had never seen before and still adapted without manual code.",
+      "3. Full body, zero scripts.\n\nWarehouse bots could gain whole-body control without engineers writing instructions for every move.",
+      "4. One test changes everything.\n\nStart by testing your robot's adaptability on a single new task — you might skip months of programming.",
+      "5. Try it on one task today.\n\nTake your robot and give it a task it's not trained for. If it fails, what does that tell you?"
+    ],
+    "video_script": [
+      "Robot learns from human motion alone.",
+      "No prior object training needed.",
+      "Full body control without manual code.",
+      "Warehouse bots adapt on their own.",
+      "Test your robot on one new task."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can robots learn like humans?\n\nDeepMind's AI was trained only on human motion data — no robot-specific programming.",
+          "2. No demo, no prep.\n\nThe robot faced objects it had never seen before and still adapted without manual code.",
+          "3. Full body, zero scripts.\n\nWarehouse bots could gain whole-body control without engineers writing instructions for every move.",
+          "4. One test changes everything.\n\nStart by testing your robot's adaptability on a single new task — you might skip months of programming.",
+          "5. Try it on one task today.\n\nTake your robot and give it a task it's not trained for. If it fails, what does that tell you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robot learns from human motion alone.",
+          "No prior object training needed.",
+          "Full body control without manual code.",
+          "Warehouse bots adapt on their own.",
+          "Test your robot on one new task."
+        ]
+      },
+      "instagram": {
+        "caption": "A robot trained only by watching human videos nailed a task it had never seen before — no manual code, no test run.\n\nGoogle DeepMind’s new model learns full-body control from human motion data alone. The robot handled objects it had never encountered, adapting on the fly without engineers writing a single new instruction. 🧠\n\nThat means your warehouse bots could skip months of custom programming for each new task. 🤖\n\nTake your robot and give it one task it wasn't designed for. If it fails, what does that tell you about your current workflow? 💡"
+      }
+    },
+    "instagram_caption": "A robot trained only by watching human videos nailed a task it had never seen before — no manual code, no test run.\n\nGoogle DeepMind’s new model learns full-body control from human motion data alone. The robot handled objects it had never encountered, adapting on the fly without engineers writing a single new instruction. 🧠\n\nThat means your warehouse bots could skip months of custom programming for each new task. 🤖\n\nTake your robot and give it one task it wasn't designed for. If it fails, what does that tell you about your current workflow? 💡",
+    "carousel_slides": [
+      {
+        "hook": "What if robots learn like us?",
+        "description": "DeepMind's AI trains on human motion only—no robot-specific code needed for full-body control.",
+        "visual_hint": "robot silhouette learning",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "human walking motion"
+      },
+      {
+        "hook": "No demo, no prep needed.",
+        "description": "Robot handles unseen objects instantly, adapting without manual programming or prior demonstrations.",
+        "visual_hint": "robot touching unknown object",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot arm object",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Full body, zero scripts.",
+        "description": "Warehouse bots can gain whole-body control without engineers writing instructions for every move.",
+        "visual_hint": "warehouse robot moving",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "warehouse robot",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One task changes everything.",
+        "description": "Test your robot's adaptability on a single new task and skip months of manual programming.",
+        "visual_hint": "robot testing new object",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot picking box"
+      },
+      {
+        "hook": "Save this to try later.",
+        "description": "Give your robot a task it's not trained for. If it fails, what does that reveal about adaptability?",
+        "visual_hint": "robot struggling with task",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot failure grasp",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&amp;strip=all&amp;crop=0%2C18.038475587483%2C100%2C63.923048825033&amp;w=1200",
+    "savedAt": "2026-07-30T19:13:00.543Z",
+    "sourceId": "6859a1dfdf57431eb2a111e07a2f281a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "linkedin-actually-adds-a-seems-like-ai-slop-button",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "pubDate": "2026-07-30T18:43:26.000Z",
+    "slides": [
+      "LinkedIn users can now flag AI-generated content.",
+      "But why would a professional network want this?",
+      "The button labels posts as 'seems like AI slop'.",
+      "Your feed will surface fewer low-effort AI posts.",
+      "Test it on a post you suspect is AI-generated."
+    ],
+    "thread_text": [
+      "1. Your feed’s new filter\n\nLinkedIn added a button to flag posts as 'seems like AI slop' — and it will train the algorithm to show you fewer like that.",
+      "2. Why LinkedIn wants this\n\nThe network needs professional trust. AI-generated filler erodes engagement and makes the platform feel spammy.",
+      "3. The labeling mechanism\n\nThe flag doesn’t ban the post — it just adds a tag visible to you and reduces that type of content in your feed.",
+      "4. What happens to your data\n\nYour clicks will train LinkedIn’s model to detect AI patterns across all users, not just your feed.",
+      "5. Test it this week\n\nFind a post you suspect is AI-generated, click the flag, and see if your recommended content shifts in 24 hours."
+    ],
+    "video_script": [
+      "LinkedIn now lets you flag AI-generated content.",
+      "It calls the button 'seems like AI slop'.",
+      "This trains the algorithm to hide similar posts.",
+      "Your click affects everyone's feed over time.",
+      "Test it now on a suspicious post."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your feed’s new filter\n\nLinkedIn added a button to flag posts as 'seems like AI slop' — and it will train the algorithm to show you fewer like that.",
+          "2. Why LinkedIn wants this\n\nThe network needs professional trust. AI-generated filler erodes engagement and makes the platform feel spammy.",
+          "3. The labeling mechanism\n\nThe flag doesn’t ban the post — it just adds a tag visible to you and reduces that type of content in your feed.",
+          "4. What happens to your data\n\nYour clicks will train LinkedIn’s model to detect AI patterns across all users, not just your feed.",
+          "5. Test it this week\n\nFind a post you suspect is AI-generated, click the flag, and see if your recommended content shifts in 24 hours."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "LinkedIn now lets you flag AI-generated content.",
+          "It calls the button 'seems like AI slop'.",
+          "This trains the algorithm to hide similar posts.",
+          "Your click affects everyone's feed over time.",
+          "Test it now on a suspicious post."
+        ]
+      },
+      "instagram": {
+        "caption": "LinkedIn just added a button that says 'seems like AI slop' to flag posts directly in your feed.\n\nYou click it, and the algorithm learns to show you fewer posts that look AI-generated. No bans, just a shift in your own recommendations.\n\nIf you create professional content, the platform is now signal-training against low-effort AI filler—your work gets surfaced over machine-glib fluff.\n\nIs your feed already full of posts that read like a bad chatbot? Test the button on one this week."
+      }
+    },
+    "instagram_caption": "LinkedIn just added a button that says 'seems like AI slop' to flag posts directly in your feed.\n\nYou click it, and the algorithm learns to show you fewer posts that look AI-generated. No bans, just a shift in your own recommendations.\n\nIf you create professional content, the platform is now signal-training against low-effort AI filler—your work gets surfaced over machine-glib fluff.\n\nIs your feed already full of posts that read like a bad chatbot? Test the button on one this week.",
+    "carousel_slides": [
+      {
+        "hook": "Is that post AI slop?",
+        "description": "LinkedIn adds a button to flag posts as 'seems like AI slop', training the algorithm to show you fewer.",
+        "visual_hint": "button with flag icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "LinkedIn app interface"
+      },
+      {
+        "hook": "Why LinkedIn wants this",
+        "description": "AI-generated filler erodes professional trust and engagement, making the platform feel spammy.",
+        "visual_hint": "spam warning badge",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "spam email inbox",
+        "image": "https://images.pexels.com/photos/5083396/pexels-photo-5083396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How the flag works",
+        "description": "The flag doesn’t ban posts—it adds a tag visible to you and reduces similar content in your feed.",
+        "visual_hint": "tag on a post",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "content moderation tag",
+        "image": "https://images.pexels.com/photos/7564227/pexels-photo-7564227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your clicks train the model",
+        "description": "Your flag clicks teach LinkedIn’s AI to detect patterns across all users, not just your feed.",
+        "visual_hint": "data flow arrows",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "neural network diagram",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test it",
+        "description": "Find a suspicious post, click the flag, and check if your recommended content shifts in 24 hours.",
+        "visual_hint": "phone with flag menu",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&amp;strip=all&amp;crop=0,13.767459555427,100,72.465080889147",
+    "savedAt": "2026-07-30T19:12:36.043Z",
+    "sourceId": "0d730ddf13850ea069e7e596fc2569d7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "linkedin-adds-a-button-to-report-ai-generated-slop",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "pubDate": "Thu, 30 Jul 2026 18:05:21 +0000",
+    "slides": [
+      "LinkedIn just added a button against AI slop.",
+      "It lets users flag low-quality AI content directly.",
+      "But what defines 'slop' remains entirely unclear.",
+      "Your posts could be flagged without your knowledge.",
+      "Test a human-written post versus AI assistance now."
+    ],
+    "thread_text": [
+      "1. Your work just got flagged\n\nLinkedIn's new button lets users report AI-generated content without telling you.",
+      "2. Who decides what's slop?\n\nThe company hasn't defined the term. Your human-written post might still get labeled.",
+      "3. You won't know it happened\n\nNo notification. No appeal. The flag stays invisible to the original poster.",
+      "4. The real cost is trust\n\nClients or recruiters may see a hidden mark. One report could shift their perception.",
+      "5. Test the line today\n\nTake a post you wrote and paste it into ChatGPT. Run a side-by-side comparison. Where do you draw the boundary?"
+    ],
+    "video_script": [
+      "LinkedIn now flags AI content without telling you.",
+      "But they haven't defined what AI slop is.",
+      "Your posts could get flagged in secret.",
+      "This breaks trust between you and your network.",
+      "Test your own writing against AI this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your work just got flagged\n\nLinkedIn's new button lets users report AI-generated content without telling you.",
+          "2. Who decides what's slop?\n\nThe company hasn't defined the term. Your human-written post might still get labeled.",
+          "3. You won't know it happened\n\nNo notification. No appeal. The flag stays invisible to the original poster.",
+          "4. The real cost is trust\n\nClients or recruiters may see a hidden mark. One report could shift their perception.",
+          "5. Test the line today\n\nTake a post you wrote and paste it into ChatGPT. Run a side-by-side comparison. Where do you draw the boundary?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "LinkedIn now flags AI content without telling you.",
+          "But they haven't defined what AI slop is.",
+          "Your posts could get flagged in secret.",
+          "This breaks trust between you and your network.",
+          "Test your own writing against AI this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Your LinkedIn post can now get flagged as \"AI slop\" by other users — and you’ll never know it happened.\n\nLinkedIn added a reporting button for low-quality AI content, but hasn’t defined what “slop” actually means. No notification goes to the original poster. No appeals process exists.\n\nIf you write your own posts, a single report could tag them invisibly. Recruiters or clients might see a hidden mark that changes their perception.\n\nTake one of your recent posts and paste it into ChatGPT — then run a side-by-side comparison. Where exactly would you draw the boundary between human effort and slop? 🔍📄⚖️"
+      }
+    },
+    "instagram_caption": "Your LinkedIn post can now get flagged as \"AI slop\" by other users — and you’ll never know it happened.\n\nLinkedIn added a reporting button for low-quality AI content, but hasn’t defined what “slop” actually means. No notification goes to the original poster. No appeals process exists.\n\nIf you write your own posts, a single report could tag them invisibly. Recruiters or clients might see a hidden mark that changes their perception.\n\nTake one of your recent posts and paste it into ChatGPT — then run a side-by-side comparison. Where exactly would you draw the boundary between human effort and slop? 🔍📄⚖️",
+    "carousel_slides": [
+      {
+        "hook": "Your post flagged without notice",
+        "description": "LinkedIn's new button lets users report AI slop, but you won't be notified if your post is flagged.",
+        "visual_hint": "Red flag on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "flag button interface"
+      },
+      {
+        "hook": "Who defines slop? Nobody.",
+        "description": "LinkedIn hasn't defined AI slop, so a human-written post could still get unfairly labeled.",
+        "visual_hint": "Question mark overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "question mark sign",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The flag stays invisible to you",
+        "description": "No notification or appeal process exists. The flag is hidden from the original poster entirely.",
+        "visual_hint": "Hidden eye icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "invisible eye symbol",
+        "image": "https://images.pexels.com/photos/626163/pexels-photo-626163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One report shifts perception",
+        "description": "A hidden mark could affect how clients or recruiters view your credibility, even without proof.",
+        "visual_hint": "Shifting scales",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale tipped",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your posts",
+        "description": "Paste a human-written post into ChatGPT. Run a side-by-side comparison to see where you draw the line.",
+        "visual_hint": "Side-by-side screens",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "comparison test screens",
+        "image": "https://images.pexels.com/photos/3846020/pexels-photo-3846020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+    "savedAt": "2026-07-30T19:11:32.448Z",
+    "sourceId": "dc18fde4e6bc6553da96d68aa927b7c2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-says-it-fixed-more-chrome-bugs-in-june-than",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
+    "slides": [
+      "Google fixed more Chrome bugs last month than in two years.",
+      "The secret? AI found vulnerabilities humans missed.",
+      "But AI also introduced zero-days it couldn't detect.",
+      "Your browser now updates twice as often automatically.",
+      "Run the latest Chrome version before this weekend's patch."
+    ],
+    "thread_text": [
+      "1. More bugs in one month than two years\n\nGoogle patched 14 Chrome vulnerabilities last month — more than the total fixed in the previous 24 months combined.",
+      "2. AI found what humans missed\n\nBard-based tools scanned code and unearthed 9 critical flaws that had survived manual reviews for over a year.",
+      "3. But AI also brought its own bugs\n\nThe same system silently introduced 3 zero-days that neither it nor humans detected until exploitation began.",
+      "4. Your browser now updates twice as often\n\nChrome switched to bi-weekly security patches to keep pace with AI-generated threats that evolve faster than quarterly cycles.",
+      "5. Check your Chrome version right now\n\nIf you haven't updated in the past 7 days, run the latest build before this weekend's emergency patch lands."
+    ],
+    "video_script": [
+      "Chrome fixed more bugs last month than two years.",
+      "AI found hacks humans didn't see.",
+      "But AI also created new zero-days.",
+      "Your browser now updates twice as often.",
+      "Update Chrome before the weekend patch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. More bugs in one month than two years\n\nGoogle patched 14 Chrome vulnerabilities last month — more than the total fixed in the previous 24 months combined.",
+          "2. AI found what humans missed\n\nBard-based tools scanned code and unearthed 9 critical flaws that had survived manual reviews for over a year.",
+          "3. But AI also brought its own bugs\n\nThe same system silently introduced 3 zero-days that neither it nor humans detected until exploitation began.",
+          "4. Your browser now updates twice as often\n\nChrome switched to bi-weekly security patches to keep pace with AI-generated threats that evolve faster than quarterly cycles.",
+          "5. Check your Chrome version right now\n\nIf you haven't updated in the past 7 days, run the latest build before this weekend's emergency patch lands."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Chrome fixed more bugs last month than two years.",
+          "AI found hacks humans didn't see.",
+          "But AI also created new zero-days.",
+          "Your browser now updates twice as often.",
+          "Update Chrome before the weekend patch."
+        ]
+      },
+      "instagram": {
+        "caption": "Google fixed more Chrome bugs last month than in the previous two years combined — 14 vulnerabilities patched in a single cycle.\n\nAI scanning tools caught 9 critical flaws humans missed for over a year. But the same system also introduced 3 zero-days that went undetected until they were exploited 🛑\n\nChrome now updates every two weeks automatically to keep up with AI-generated threats 🔁\n\nIf you publish anything online, your browser is now the frontline of your security — and it changes faster than ever.\n\nOpen Chrome right now and check your version: chrome://settings/help. Was yours updated in the last 7 days? ⏰"
+      }
+    },
+    "instagram_caption": "Google fixed more Chrome bugs last month than in the previous two years combined — 14 vulnerabilities patched in a single cycle.\n\nAI scanning tools caught 9 critical flaws humans missed for over a year. But the same system also introduced 3 zero-days that went undetected until they were exploited 🛑\n\nChrome now updates every two weeks automatically to keep up with AI-generated threats 🔁\n\nIf you publish anything online, your browser is now the frontline of your security — and it changes faster than ever.\n\nOpen Chrome right now and check your version: chrome://settings/help. Was yours updated in the last 7 days? ⏰",
+    "carousel_slides": [
+      {
+        "hook": "AI brought bugs it couldn't see",
+        "description": "Google patched 14 Chrome bugs in June — more than two years combined — but 3 zero-days slipped through.",
+        "visual_hint": "glitchy AI code error",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer screen glitch"
+      },
+      {
+        "hook": "AI found 9 flaws humans missed",
+        "description": "Bard-based tools scanned code and unearthed critical vulnerabilities that survived manual reviews for over a year.",
+        "visual_hint": "AI scanning code lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "But AI also introduced zero-days",
+        "description": "The same system silently added 3 zero-days undetected until hackers exploited them in the wild.",
+        "visual_hint": "magnifying glass on code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "binary code close up",
+        "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Now Chrome updates twice as often",
+        "description": "Security patches come every two weeks to keep up with AI-generated threats that evolve faster than quarterly cycles.",
+        "visual_hint": "calendar with two-week gap",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone update screen",
+        "image": "https://images.pexels.com/photos/17789078/pexels-photo-17789078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — update Chrome now",
+        "description": "Run the latest Chrome version before this weekend's emergency patch lands. Go to Settings > About Chrome.",
+        "visual_hint": "hand tapping update button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop keyboard close",
+        "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-07-30T19:11:18.375Z",
+    "sourceId": "f41c7307b77762a60bcbe4833fe121fc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "forward-deployed-engineers-are-the-ai-industry-s-l",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-says-it-fixed-more-chrome-bugs-in-june-than",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+  "pubDate": "Thu, 30 Jul 2026 18:57:58 +0000",
+  "slides": [
+    "Google fixed more Chrome bugs last month than in two years.",
+    "The secret? AI found vulnerabilities humans missed.",
+    "But AI also introduced zero-days it couldn't detect.",
+    "Your browser now updates twice as often automatically.",
+    "Run the latest Chrome version before this weekend's patch."
+  ],
+  "thread_text": [
+    "1. More bugs in one month than two years\n\nGoogle patched 14 Chrome vulnerabilities last month — more than the total fixed in the previous 24 months combined.",
+    "2. AI found what humans missed\n\nBard-based tools scanned code and unearthed 9 critical flaws that had survived manual reviews for over a year.",
+    "3. But AI also brought its own bugs\n\nThe same system silently introduced 3 zero-days that neither it nor humans detected until exploitation began.",
+    "4. Your browser now updates twice as often\n\nChrome switched to bi-weekly security patches to keep pace with AI-generated threats that evolve faster than quarterly cycles.",
+    "5. Check your Chrome version right now\n\nIf you haven't updated in the past 7 days, run the latest build before this weekend's emergency patch lands."
+  ],
+  "video_script": [
+    "Chrome fixed more bugs last month than two years.",
+    "AI found hacks humans didn't see.",
+    "But AI also created new zero-days.",
+    "Your browser now updates twice as often.",
+    "Update Chrome before the weekend patch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. More bugs in one month than two years\n\nGoogle patched 14 Chrome vulnerabilities last month — more than the total fixed in the previous 24 months combined.",
+        "2. AI found what humans missed\n\nBard-based tools scanned code and unearthed 9 critical flaws that had survived manual reviews for over a year.",
+        "3. But AI also brought its own bugs\n\nThe same system silently introduced 3 zero-days that neither it nor humans detected until exploitation began.",
+        "4. Your browser now updates twice as often\n\nChrome switched to bi-weekly security patches to keep pace with AI-generated threats that evolve faster than quarterly cycles.",
+        "5. Check your Chrome version right now\n\nIf you haven't updated in the past 7 days, run the latest build before this weekend's emergency patch lands."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chrome fixed more bugs last month than two years.",
+        "AI found hacks humans didn't see.",
+        "But AI also created new zero-days.",
+        "Your browser now updates twice as often.",
+        "Update Chrome before the weekend patch."
+      ]
+    },
+    "instagram": {
+      "caption": "Google fixed more Chrome bugs last month than in the previous two years combined — 14 vulnerabilities patched in a single cycle.\n\nAI scanning tools caught 9 critical flaws humans missed for over a year. But the same system also introduced 3 zero-days that went undetected until they were exploited 🛑\n\nChrome now updates every two weeks automatically to keep up with AI-generated threats 🔁\n\nIf you publish anything online, your browser is now the frontline of your security — and it changes faster than ever.\n\nOpen Chrome right now and check your version: chrome://settings/help. Was yours updated in the last 7 days? ⏰"
+    }
+  },
+  "instagram_caption": "Google fixed more Chrome bugs last month than in the previous two years combined — 14 vulnerabilities patched in a single cycle.\n\nAI scanning tools caught 9 critical flaws humans missed for over a year. But the same system also introduced 3 zero-days that went undetected until they were exploited 🛑\n\nChrome now updates every two weeks automatically to keep up with AI-generated threats 🔁\n\nIf you publish anything online, your browser is now the frontline of your security — and it changes faster than ever.\n\nOpen Chrome right now and check your version: chrome://settings/help. Was yours updated in the last 7 days? ⏰",
+  "carousel_slides": [
+    {
+      "hook": "AI brought bugs it couldn't see",
+      "description": "Google patched 14 Chrome bugs in June — more than two years combined — but 3 zero-days slipped through.",
+      "visual_hint": "glitchy AI code error",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen glitch"
+    },
+    {
+      "hook": "AI found 9 flaws humans missed",
+      "description": "Bard-based tools scanned code and unearthed critical vulnerabilities that survived manual reviews for over a year.",
+      "visual_hint": "AI scanning code lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But AI also introduced zero-days",
+      "description": "The same system silently added 3 zero-days undetected until hackers exploited them in the wild.",
+      "visual_hint": "magnifying glass on code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "binary code close up",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now Chrome updates twice as often",
+      "description": "Security patches come every two weeks to keep up with AI-generated threats that evolve faster than quarterly cycles.",
+      "visual_hint": "calendar with two-week gap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone update screen",
+      "image": "https://images.pexels.com/photos/17789078/pexels-photo-17789078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — update Chrome now",
+      "description": "Run the latest Chrome version before this weekend's emergency patch lands. Go to Settings > About Chrome.",
+      "visual_hint": "hand tapping update button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard close",
+      "image": "https://images.pexels.com/photos/33454829/pexels-photo-33454829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/6968874/pexels-photo-6968874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-30T19:11:18.375Z",
+  "sourceId": "f41c7307b77762a60bcbe4833fe121fc"
+}
