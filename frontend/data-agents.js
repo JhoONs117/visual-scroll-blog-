@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "inforcer-raises-50m-to-help-prepare-smaller-busine",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "slides": [
+        "Inforcer just raised $50M. Who needs it most?",
+        "Smaller businesses lack AI and security defenses.",
+        "Most vendors ignore firms under 500 employees.",
+        "You get enterprise-level tools without the cost.",
+        "Test Inforcer today before competitors lock you out."
+      ],
+      "thread_text": [
+        "1. Who needs $50M most?\n\nSmaller businesses are getting hit by AI-driven attacks and have no security defenses. Inforcer just raised $50M to fix that gap.",
+        "2. Ignored by vendors.\n\nMost cybersecurity vendors don't even target companies under 500 employees. That's exactly who Inforcer is building for.",
+        "3. Enterprise tools, small price.\n\nInforcer gives you the same level of protection big companies use, but without the enterprise cost. No budget upgrade needed.",
+        "4. Test before you're locked out.\n\nCompetitors are already moving into this space. The window to get ahead with Inforcer is closing.",
+        "5. Try Inforcer today.\n\nGo to their site and request a demo this week. If you run a small business, can you afford to wait until after a breach?"
+      ],
+      "video_script": [
+        "Inforcer raised $50 million for small business security.",
+        "Most vendors ignore companies under 500 employees.",
+        "You get enterprise tools without enterprise pricing.",
+        "Competitors are closing in on this market.",
+        "Test Inforcer before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who needs $50M most?\n\nSmaller businesses are getting hit by AI-driven attacks and have no security defenses. Inforcer just raised $50M to fix that gap.",
+            "2. Ignored by vendors.\n\nMost cybersecurity vendors don't even target companies under 500 employees. That's exactly who Inforcer is building for.",
+            "3. Enterprise tools, small price.\n\nInforcer gives you the same level of protection big companies use, but without the enterprise cost. No budget upgrade needed.",
+            "4. Test before you're locked out.\n\nCompetitors are already moving into this space. The window to get ahead with Inforcer is closing.",
+            "5. Try Inforcer today.\n\nGo to their site and request a demo this week. If you run a small business, can you afford to wait until after a breach?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Inforcer raised $50 million for small business security.",
+            "Most vendors ignore companies under 500 employees.",
+            "You get enterprise tools without enterprise pricing.",
+            "Competitors are closing in on this market.",
+            "Test Inforcer before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Smaller businesses are getting hit with AI-powered attacks and have zero defenses, while most vendors ignore companies under 500 employees.\n\nInforcer just raised $50M to change that. They’re delivering the same enterprise-level security tools big companies use, but at a price small teams can actually afford.\n\nFor anyone running a business or creating content online—this closes the gap between your current vulnerability and the protection you need.\n\nCan you afford to wait until after the breach to test their demo? 🛡️🔐"
+        }
+      },
+      "instagram_caption": "Smaller businesses are getting hit with AI-powered attacks and have zero defenses, while most vendors ignore companies under 500 employees.\n\nInforcer just raised $50M to change that. They’re delivering the same enterprise-level security tools big companies use, but at a price small teams can actually afford.\n\nFor anyone running a business or creating content online—this closes the gap between your current vulnerability and the protection you need.\n\nCan you afford to wait until after the breach to test their demo? 🛡️🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your business is a target.",
+          "description": "AI-driven attacks are hitting small businesses with zero defenses. Inforcer just raised $50M to close that gap.",
+          "visual_hint": "Hacker silhouette on laptop",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cyber attack laptop"
+        },
+        {
+          "hook": "Ignored by big vendors?",
+          "description": "Most cybersecurity vendors ignore companies under 500 employees. Inforcer was built specifically for you.",
+          "visual_hint": "Empty office with desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "small business office",
+          "image": "https://images.pexels.com/photos/12911709/pexels-photo-12911709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprise tools, small price.",
+          "description": "Get the same protection big companies use, without the enterprise cost. No budget upgrade required.",
+          "visual_hint": "Money stack beside shield",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "shield and money",
+          "image": "https://images.pexels.com/photos/37147512/pexels-photo-37147512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Competitors are moving fast.",
+          "description": "The window to get ahead with Inforcer is closing. Test it now before competitors lock you out.",
+          "visual_hint": "Stopwatch ticking down",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stopwatch countdown",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Visit link in bio now.",
+          "description": "Request a demo on Inforcer's site this week. Can you afford to wait until after a breach?",
+          "visual_hint": "Hand tapping demo button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "demo request button",
+          "image": "https://images.pexels.com/photos/18966444/pexels-photo-18966444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/8e3fc3e6-ee92-464e-b17a-75ef982e6207.webp?w=1200",
+      "savedAt": "2026-07-30T13:29:58.767Z",
+      "sourceId": "1a490bc11780d43d85e16f02b393e26a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-ai-is-changing-linux-vps-security-for-business",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How AI is Changing Linux VPS Security for Businesses",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+      "pubDate": "Thu, 30 Jul 2026 10:41:02 +0000",
+      "slides": [
+        "Is your Linux VPS already compromised by AI attacks?",
+        "Attackers now use AI to find zero-day exploits faster.",
+        "Your old firewall rules won't stop adaptive malware.",
+        "AI-driven self-healing servers now patch vulnerabilities automatically.",
+        "Audit your logs today—manual checks are no longer enough."
+      ],
+      "thread_text": [
+        "1. Your Linux VPS is not safe.\n\nThe moment you patched your kernel last month, an AI-driven agent was already testing the replacement for a zero-day.",
+        "2. Old firewalls are a welcome mat.\n\nAdaptive malware read your iptables in milliseconds and mutated its payload to ignore every rule.",
+        "3. AI fights fire with fire.\n\nSelf-healing servers now deploy hot patches the second a log shows anomalous behavior—no human needed.",
+        "4. Zero-days are found in minutes.\n\nAttackers run reinforcement learning models against your unpatched kernel module while you sleep.",
+        "5. Audit your logs manually today.\n\nCan you spot the 0.3-second spike in outbound packets from your backup server? If not, you are already compromised."
+      ],
+      "video_script": [
+        "Your Linux VPS is under AI attack.",
+        "Attackers find zero-days faster than ever.",
+        "Old firewall rules cannot stop adaptive malware.",
+        "Self-healing servers now auto-patch themselves.",
+        "Manual log audits are no longer enough."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Linux VPS is not safe.\n\nThe moment you patched your kernel last month, an AI-driven agent was already testing the replacement for a zero-day.",
+            "2. Old firewalls are a welcome mat.\n\nAdaptive malware read your iptables in milliseconds and mutated its payload to ignore every rule.",
+            "3. AI fights fire with fire.\n\nSelf-healing servers now deploy hot patches the second a log shows anomalous behavior—no human needed.",
+            "4. Zero-days are found in minutes.\n\nAttackers run reinforcement learning models against your unpatched kernel module while you sleep.",
+            "5. Audit your logs manually today.\n\nCan you spot the 0.3-second spike in outbound packets from your backup server? If not, you are already compromised."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your Linux VPS is under AI attack.",
+            "Attackers find zero-days faster than ever.",
+            "Old firewall rules cannot stop adaptive malware.",
+            "Self-healing servers now auto-patch themselves.",
+            "Manual log audits are no longer enough."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Linux VPS might already be under an AI-driven attack that found a zero-day exploit in hours, not days.\n\nAttackers now use automated agents to test your newly patched kernel for flaws the moment you update. Old firewall rules are useless—adaptive malware reads your iptables and mutates in milliseconds.\n\nFor anyone managing servers: manual log checks won't catch it. A 0.3-second outbound traffic spike from your backup server means you're compromised.\n\nCan you spot that spike in your logs right now? ⏱️🛡️"
+        }
+      },
+      "instagram_caption": "Your Linux VPS might already be under an AI-driven attack that found a zero-day exploit in hours, not days.\n\nAttackers now use automated agents to test your newly patched kernel for flaws the moment you update. Old firewall rules are useless—adaptive malware reads your iptables and mutates in milliseconds.\n\nFor anyone managing servers: manual log checks won't catch it. A 0.3-second outbound traffic spike from your backup server means you're compromised.\n\nCan you spot that spike in your logs right now? ⏱️🛡️",
+      "carousel_slides": [
+        {
+          "hook": "Your old firewall is a welcome mat.",
+          "description": "Adaptive malware reads iptables in milliseconds and mutates to bypass every rule.",
+          "visual_hint": "Server room with glowing red lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room red lights"
+        },
+        {
+          "hook": "AI finds zero-days while you sleep.",
+          "description": "Attackers use reinforcement learning against your unpatched kernel module—no human needed.",
+          "visual_hint": "Hacker silhouette on dark code screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hacker silhouette computer",
+          "image": "https://images.pexels.com/photos/34258666/pexels-photo-34258666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Self-healing servers fight back automatically.",
+          "description": "Hot patches deploy the second a log shows anomalous behavior—no human required.",
+          "visual_hint": "Dashboard with green checkmarks and patches",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server dashboard green lights",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual log audits miss the spike.",
+          "description": "A 0.3-second outbound packet spike from your backup server means you are already compromised.",
+          "visual_hint": "Person staring at log lines on monitor",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person looking at monitor",
+          "image": "https://images.pexels.com/photos/8102698/pexels-photo-8102698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Visit our bio now to secure your VPS.",
+          "description": "Audit your logs today; manual checks are no longer enough against AI-driven threats.",
+          "visual_hint": "Button with 'Secure Now' text",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "secure button laptop",
+          "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-30T13:29:48.082Z",
+      "sourceId": "768d31009db03243bb057238c4cccd2c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-hugging-face-break-in-explained",
       "prompt_version": "1.0.0",
       "status": "published",
