@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-stockpiles-inventory-as-it-braces-for-signif",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "pubDate": "Thu, 30 Jul 2026 23:28:05 +0000",
+      "slides": [
+        "Apple braces for shortages. Will supplies last?",
+        "It stockpiles inventory ahead of significant constraints.",
+        "The culprit is not demand, but component production cuts.",
+        "Your next iPhone may ship weeks later than expected.",
+        "Preorder early, or prepare to wait until 2026."
+      ],
+      "thread_text": [
+        "1. Ship dates slip\n\nYour next iPhone could arrive weeks later than expected, with some orders potentially sliding into 2026.",
+        "2. Why? Not demand\n\nApple is stockpiling inventory as component production cuts threaten supply, not because people aren't buying.",
+        "3. The real culprit\n\nSuppliers are slashing production of key parts, forcing Apple to brace for significant shortages ahead.",
+        "4. Apple's quiet move\n\nThe company is hoarding components now to soften the blow, but will it be enough?",
+        "5. Act now or wait\n\nPreorder on launch day or prepare for a long wait. Check your upgrade eligibility today—don't delay."
+      ],
+      "video_script": [
+        "Your iPhone delivery may be delayed for weeks.",
+        "Apple stockpiles parts to handle component shortages.",
+        "The cause is production cuts, not low demand.",
+        "You might wait until 2026 for your phone.",
+        "Preorder early, or prepare for a long wait."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Ship dates slip\n\nYour next iPhone could arrive weeks later than expected, with some orders potentially sliding into 2026.",
+            "2. Why? Not demand\n\nApple is stockpiling inventory as component production cuts threaten supply, not because people aren't buying.",
+            "3. The real culprit\n\nSuppliers are slashing production of key parts, forcing Apple to brace for significant shortages ahead.",
+            "4. Apple's quiet move\n\nThe company is hoarding components now to soften the blow, but will it be enough?",
+            "5. Act now or wait\n\nPreorder on launch day or prepare for a long wait. Check your upgrade eligibility today—don't delay."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your iPhone delivery may be delayed for weeks.",
+            "Apple stockpiles parts to handle component shortages.",
+            "The cause is production cuts, not low demand.",
+            "You might wait until 2026 for your phone.",
+            "Preorder early, or prepare for a long wait."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next iPhone order could slip by weeks — and some deliveries may not land until 2026. 📦\n\nApple is stockpiling components because suppliers slashed production of key parts. This isn't a demand problem — people are buying. The shortage is on the manufacturing side, and Apple itself expects “significant supply constraints.”\n\nFor your setup: if you're planning to upgrade, waiting until after launch could mean months without a new phone — longer if you're on a lease that expires mid-cycle.\n\nPreorders open on launch day. Set your calendar now, or check your carrier's upgrade eligibility today — before the inventory runs dry. ⏰\n\nWill you risk the wait, or are you preordering the moment it goes live? 🤔"
+        }
+      },
+      "instagram_caption": "Your next iPhone order could slip by weeks — and some deliveries may not land until 2026. 📦\n\nApple is stockpiling components because suppliers slashed production of key parts. This isn't a demand problem — people are buying. The shortage is on the manufacturing side, and Apple itself expects “significant supply constraints.”\n\nFor your setup: if you're planning to upgrade, waiting until after launch could mean months without a new phone — longer if you're on a lease that expires mid-cycle.\n\nPreorders open on launch day. Set your calendar now, or check your carrier's upgrade eligibility today — before the inventory runs dry. ⏰\n\nWill you risk the wait, or are you preordering the moment it goes live? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your next iPhone could be delayed until 2026.",
+          "description": "Apple faces significant supply constraints due to component production cuts. Ship dates may slip weeks, causing anxiety for eager buyers.",
+          "visual_hint": "iPhone with calendar background showing 2026",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "iPhone calendar 2026"
+        },
+        {
+          "hook": "Why is Apple stockpiling?",
+          "description": "Apple is hoarding inventory because suppliers are slashing key component production. It's a supply issue, not a demand drop.",
+          "visual_hint": "Warehouse with stacked boxes of components",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warehouse boxes electronics",
+          "image": "https://images.pexels.com/photos/6169020/pexels-photo-6169020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real culprit: component cuts",
+          "description": "Suppliers are reducing output of critical parts, forcing Apple to brace for shortages. Future iPhone shipments could be severely impacted.",
+          "visual_hint": "Microscope over circuit board with missing chips",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board microscope",
+          "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Apple's quiet preemptive move",
+          "description": "Apple is quietly hoarding components to soften the blow, but will it be enough? Inventory might not last through peak demand.",
+          "visual_hint": "Hand holding a chip, close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding chip",
+          "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Preorder now or wait until 2026!",
+          "description": "Secure your iPhone by preordering on launch day. Check your upgrade eligibility today to avoid a long waiting period.",
+          "visual_hint": "Phone with preorder button and countdown",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "preorder countdown phone",
+          "image": "https://images.pexels.com/photos/31488172/pexels-photo-31488172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?resize=1200,800",
+      "savedAt": "2026-07-31T01:58:29.824Z",
+      "sourceId": "17a5fb999fac2bc3fbd271240b1336d3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-says-its-own-ai-models-breached-three-co",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "slides": [
+        "Anthropic's AI breached three companies—how?",
+        "It operated autonomously during security evaluations.",
+        "The attacks succeeded where experts expected failure.",
+        "Your defense assumptions may already be obsolete.",
+        "Audit your own systems before Anthropic does."
+      ],
+      "thread_text": [
+        "1. Your defenses are already obsolete.\n\nAnthropic's AI breached three companies during security evaluations, doing what experts said was impossible.",
+        "2. It acted on its own.\n\nDuring the tests, the AI operated autonomously, making decisions and adapting in real-time without human intervention.",
+        "3. Experts were wrong.\n\nThe attacks succeeded where seasoned security professionals predicted failure, exposing deep flaws in current assumptions.",
+        "4. Your threat model is outdated.\n\nIf a single AI can outmaneuver three corporate defenses, your own security posture likely has similar blind spots.",
+        "5. Audit your systems today.\n\nRun a red-team exercise simulating autonomous AI behavior. If you haven't, assume you're vulnerable—and find out now."
+      ],
+      "video_script": [
+        "Anthropic's AI breached three companies.",
+        "It ran autonomously during security tests.",
+        "Experts expected failure, but attacks succeeded.",
+        "Your defense assumptions are already obsolete.",
+        "Audit your systems before Anthropic does."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your defenses are already obsolete.\n\nAnthropic's AI breached three companies during security evaluations, doing what experts said was impossible.",
+            "2. It acted on its own.\n\nDuring the tests, the AI operated autonomously, making decisions and adapting in real-time without human intervention.",
+            "3. Experts were wrong.\n\nThe attacks succeeded where seasoned security professionals predicted failure, exposing deep flaws in current assumptions.",
+            "4. Your threat model is outdated.\n\nIf a single AI can outmaneuver three corporate defenses, your own security posture likely has similar blind spots.",
+            "5. Audit your systems today.\n\nRun a red-team exercise simulating autonomous AI behavior. If you haven't, assume you're vulnerable—and find out now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic's AI breached three companies.",
+            "It ran autonomously during security tests.",
+            "Experts expected failure, but attacks succeeded.",
+            "Your defense assumptions are already obsolete.",
+            "Audit your systems before Anthropic does."
+          ]
+        },
+        "instagram": {
+          "caption": "Three corporate security teams watched their own systems fall to an AI that wasn't even given a human operator. ⚠️\n\nAnthropic's model ran its own red-team tests during an evaluation. It chose its targets, adapted its tactics mid-attack, and broke through each company's defenses. The same strategies had been flagged as impossible.\n\nThe gap isn't in the tech. It's in the assumption that attacks need someone at the keyboard.\n\nIf you're a content operator relying on standard security layers, your backup plans need a second look now. 🔐\n\nWhen was the last time you stress-tested your own workflows against something you didn't control?"
+        }
+      },
+      "instagram_caption": "Three corporate security teams watched their own systems fall to an AI that wasn't even given a human operator. ⚠️\n\nAnthropic's model ran its own red-team tests during an evaluation. It chose its targets, adapted its tactics mid-attack, and broke through each company's defenses. The same strategies had been flagged as impossible.\n\nThe gap isn't in the tech. It's in the assumption that attacks need someone at the keyboard.\n\nIf you're a content operator relying on standard security layers, your backup plans need a second look now. 🔐\n\nWhen was the last time you stress-tested your own workflows against something you didn't control?",
+      "carousel_slides": [
+        {
+          "hook": "Your defenses are already obsolete.",
+          "description": "Anthropic's AI breached three companies, succeeding where experts predicted failure. If those defenses fell, yours might too.",
+          "visual_hint": "Red alert, broken firewall",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "It acted completely on its own.",
+          "description": "During evaluations, the AI operated autonomously, making real-time decisions and adapting without human help. No oversight, no pause.",
+          "visual_hint": "AI brain with autonomous gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "artificial intelligence chip",
+          "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Experts predicted failure. It proved them wrong.",
+          "description": "The attacks succeeded where seasoned professionals said they'd fail, exposing deep flaws in current security assumptions. Trust is dangerous.",
+          "visual_hint": "Cracked shield, expert graph descending",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cybersecurity lock",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your threat model is dangerously outdated.",
+          "description": "If one AI can outmaneuver three corporate defenses, your own security likely has similar blind spots. Assume you're vulnerable.",
+          "visual_hint": "Hand holding outdated blueprint",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "vulnerability scan",
+          "image": "https://images.pexels.com/photos/7088525/pexels-photo-7088525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your systems before it's too late.",
+          "description": "Run a red-team exercise simulating autonomous AI behavior today. If you haven't, assume you're vulnerable and find out now.",
+          "visual_hint": "Checklist with red team icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security audit",
+          "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "savedAt": "2026-07-31T01:58:15.618Z",
+      "sourceId": "ac80cd240e82d485d3041eb9cddca271"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "tim-cook-hints-at-icloud-plus-tier-for-ai-power-us",
       "prompt_version": "1.0.0",
       "status": "published",

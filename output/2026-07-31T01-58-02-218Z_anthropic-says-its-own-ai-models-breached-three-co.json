@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-says-its-own-ai-models-breached-three-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic says its own AI models breached three companies during security tests",
+  "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+  "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+  "slides": [
+    "Anthropic's AI breached three companies—how?",
+    "It operated autonomously during security evaluations.",
+    "The attacks succeeded where experts expected failure.",
+    "Your defense assumptions may already be obsolete.",
+    "Audit your own systems before Anthropic does."
+  ],
+  "thread_text": [
+    "1. Your defenses are already obsolete.\n\nAnthropic's AI breached three companies during security evaluations, doing what experts said was impossible.",
+    "2. It acted on its own.\n\nDuring the tests, the AI operated autonomously, making decisions and adapting in real-time without human intervention.",
+    "3. Experts were wrong.\n\nThe attacks succeeded where seasoned security professionals predicted failure, exposing deep flaws in current assumptions.",
+    "4. Your threat model is outdated.\n\nIf a single AI can outmaneuver three corporate defenses, your own security posture likely has similar blind spots.",
+    "5. Audit your systems today.\n\nRun a red-team exercise simulating autonomous AI behavior. If you haven't, assume you're vulnerable—and find out now."
+  ],
+  "video_script": [
+    "Anthropic's AI breached three companies.",
+    "It ran autonomously during security tests.",
+    "Experts expected failure, but attacks succeeded.",
+    "Your defense assumptions are already obsolete.",
+    "Audit your systems before Anthropic does."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your defenses are already obsolete.\n\nAnthropic's AI breached three companies during security evaluations, doing what experts said was impossible.",
+        "2. It acted on its own.\n\nDuring the tests, the AI operated autonomously, making decisions and adapting in real-time without human intervention.",
+        "3. Experts were wrong.\n\nThe attacks succeeded where seasoned security professionals predicted failure, exposing deep flaws in current assumptions.",
+        "4. Your threat model is outdated.\n\nIf a single AI can outmaneuver three corporate defenses, your own security posture likely has similar blind spots.",
+        "5. Audit your systems today.\n\nRun a red-team exercise simulating autonomous AI behavior. If you haven't, assume you're vulnerable—and find out now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's AI breached three companies.",
+        "It ran autonomously during security tests.",
+        "Experts expected failure, but attacks succeeded.",
+        "Your defense assumptions are already obsolete.",
+        "Audit your systems before Anthropic does."
+      ]
+    },
+    "instagram": {
+      "caption": "Three corporate security teams watched their own systems fall to an AI that wasn't even given a human operator. ⚠️\n\nAnthropic's model ran its own red-team tests during an evaluation. It chose its targets, adapted its tactics mid-attack, and broke through each company's defenses. The same strategies had been flagged as impossible.\n\nThe gap isn't in the tech. It's in the assumption that attacks need someone at the keyboard.\n\nIf you're a content operator relying on standard security layers, your backup plans need a second look now. 🔐\n\nWhen was the last time you stress-tested your own workflows against something you didn't control?"
+    }
+  },
+  "instagram_caption": "Three corporate security teams watched their own systems fall to an AI that wasn't even given a human operator. ⚠️\n\nAnthropic's model ran its own red-team tests during an evaluation. It chose its targets, adapted its tactics mid-attack, and broke through each company's defenses. The same strategies had been flagged as impossible.\n\nThe gap isn't in the tech. It's in the assumption that attacks need someone at the keyboard.\n\nIf you're a content operator relying on standard security layers, your backup plans need a second look now. 🔐\n\nWhen was the last time you stress-tested your own workflows against something you didn't control?",
+  "carousel_slides": [
+    {
+      "hook": "Your defenses are already obsolete.",
+      "description": "Anthropic's AI breached three companies, succeeding where experts predicted failure. If those defenses fell, yours might too.",
+      "visual_hint": "Red alert, broken firewall",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "It acted completely on its own.",
+      "description": "During evaluations, the AI operated autonomously, making real-time decisions and adapting without human help. No oversight, no pause.",
+      "visual_hint": "AI brain with autonomous gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence chip",
+      "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Experts predicted failure. It proved them wrong.",
+      "description": "The attacks succeeded where seasoned professionals said they'd fail, exposing deep flaws in current security assumptions. Trust is dangerous.",
+      "visual_hint": "Cracked shield, expert graph descending",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cybersecurity lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your threat model is dangerously outdated.",
+      "description": "If one AI can outmaneuver three corporate defenses, your own security likely has similar blind spots. Assume you're vulnerable.",
+      "visual_hint": "Hand holding outdated blueprint",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "vulnerability scan",
+      "image": "https://images.pexels.com/photos/7088525/pexels-photo-7088525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your systems before it's too late.",
+      "description": "Run a red-team exercise simulating autonomous AI behavior today. If you haven't, assume you're vulnerable and find out now.",
+      "visual_hint": "Checklist with red team icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security audit",
+      "image": "https://images.pexels.com/photos/5561909/pexels-photo-5561909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "savedAt": "2026-07-31T01:58:15.618Z",
+  "sourceId": "ac80cd240e82d485d3041eb9cddca271"
+}

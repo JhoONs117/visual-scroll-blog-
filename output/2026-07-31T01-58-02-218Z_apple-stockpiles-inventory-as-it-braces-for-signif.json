@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-stockpiles-inventory-as-it-braces-for-signif",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+  "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+  "pubDate": "Thu, 30 Jul 2026 23:28:05 +0000",
+  "slides": [
+    "Apple braces for shortages. Will supplies last?",
+    "It stockpiles inventory ahead of significant constraints.",
+    "The culprit is not demand, but component production cuts.",
+    "Your next iPhone may ship weeks later than expected.",
+    "Preorder early, or prepare to wait until 2026."
+  ],
+  "thread_text": [
+    "1. Ship dates slip\n\nYour next iPhone could arrive weeks later than expected, with some orders potentially sliding into 2026.",
+    "2. Why? Not demand\n\nApple is stockpiling inventory as component production cuts threaten supply, not because people aren't buying.",
+    "3. The real culprit\n\nSuppliers are slashing production of key parts, forcing Apple to brace for significant shortages ahead.",
+    "4. Apple's quiet move\n\nThe company is hoarding components now to soften the blow, but will it be enough?",
+    "5. Act now or wait\n\nPreorder on launch day or prepare for a long wait. Check your upgrade eligibility today—don't delay."
+  ],
+  "video_script": [
+    "Your iPhone delivery may be delayed for weeks.",
+    "Apple stockpiles parts to handle component shortages.",
+    "The cause is production cuts, not low demand.",
+    "You might wait until 2026 for your phone.",
+    "Preorder early, or prepare for a long wait."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ship dates slip\n\nYour next iPhone could arrive weeks later than expected, with some orders potentially sliding into 2026.",
+        "2. Why? Not demand\n\nApple is stockpiling inventory as component production cuts threaten supply, not because people aren't buying.",
+        "3. The real culprit\n\nSuppliers are slashing production of key parts, forcing Apple to brace for significant shortages ahead.",
+        "4. Apple's quiet move\n\nThe company is hoarding components now to soften the blow, but will it be enough?",
+        "5. Act now or wait\n\nPreorder on launch day or prepare for a long wait. Check your upgrade eligibility today—don't delay."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your iPhone delivery may be delayed for weeks.",
+        "Apple stockpiles parts to handle component shortages.",
+        "The cause is production cuts, not low demand.",
+        "You might wait until 2026 for your phone.",
+        "Preorder early, or prepare for a long wait."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next iPhone order could slip by weeks — and some deliveries may not land until 2026. 📦\n\nApple is stockpiling components because suppliers slashed production of key parts. This isn't a demand problem — people are buying. The shortage is on the manufacturing side, and Apple itself expects “significant supply constraints.”\n\nFor your setup: if you're planning to upgrade, waiting until after launch could mean months without a new phone — longer if you're on a lease that expires mid-cycle.\n\nPreorders open on launch day. Set your calendar now, or check your carrier's upgrade eligibility today — before the inventory runs dry. ⏰\n\nWill you risk the wait, or are you preordering the moment it goes live? 🤔"
+    }
+  },
+  "instagram_caption": "Your next iPhone order could slip by weeks — and some deliveries may not land until 2026. 📦\n\nApple is stockpiling components because suppliers slashed production of key parts. This isn't a demand problem — people are buying. The shortage is on the manufacturing side, and Apple itself expects “significant supply constraints.”\n\nFor your setup: if you're planning to upgrade, waiting until after launch could mean months without a new phone — longer if you're on a lease that expires mid-cycle.\n\nPreorders open on launch day. Set your calendar now, or check your carrier's upgrade eligibility today — before the inventory runs dry. ⏰\n\nWill you risk the wait, or are you preordering the moment it goes live? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your next iPhone could be delayed until 2026.",
+      "description": "Apple faces significant supply constraints due to component production cuts. Ship dates may slip weeks, causing anxiety for eager buyers.",
+      "visual_hint": "iPhone with calendar background showing 2026",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "iPhone calendar 2026"
+    },
+    {
+      "hook": "Why is Apple stockpiling?",
+      "description": "Apple is hoarding inventory because suppliers are slashing key component production. It's a supply issue, not a demand drop.",
+      "visual_hint": "Warehouse with stacked boxes of components",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warehouse boxes electronics",
+      "image": "https://images.pexels.com/photos/6169020/pexels-photo-6169020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real culprit: component cuts",
+      "description": "Suppliers are reducing output of critical parts, forcing Apple to brace for shortages. Future iPhone shipments could be severely impacted.",
+      "visual_hint": "Microscope over circuit board with missing chips",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board microscope",
+      "image": "https://images.pexels.com/photos/10817000/pexels-photo-10817000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Apple's quiet preemptive move",
+      "description": "Apple is quietly hoarding components to soften the blow, but will it be enough? Inventory might not last through peak demand.",
+      "visual_hint": "Hand holding a chip, close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding chip",
+      "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Preorder now or wait until 2026!",
+      "description": "Secure your iPhone by preordering on launch day. Check your upgrade eligibility today to avoid a long waiting period.",
+      "visual_hint": "Phone with preorder button and countdown",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "preorder countdown phone",
+      "image": "https://images.pexels.com/photos/31488172/pexels-photo-31488172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-products-mac-iphone-watch.jpg?resize=1200,800",
+  "savedAt": "2026-07-31T01:58:29.824Z",
+  "sourceId": "17a5fb999fac2bc3fbd271240b1336d3"
+}
