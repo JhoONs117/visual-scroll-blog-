@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "pubDate": "2026-07-31T16:36:48.000Z",
+      "slides": [
+        "Major labels claim their AI filter protects music culture.",
+        "Their proposal grants labels exclusive power over AI detection.",
+        "Independent artists would be silenced by these new rules.",
+        "Your releases could vanish from charts without your consent.",
+        "Demand transparency before labels become the sole music judges."
+      ],
+      "thread_text": [
+        "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+        "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+        "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+        "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+        "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+      ],
+      "video_script": [
+        "Labels want sole power over AI detection.",
+        "Independent artists could be silenced and removed.",
+        "No consent needed for your music to vanish.",
+        "Transparency is the only safeguard left.",
+        "Demand audits before labels become judges."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+            "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+            "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+            "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+            "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Labels want sole power over AI detection.",
+            "Independent artists could be silenced and removed.",
+            "No consent needed for your music to vanish.",
+            "Transparency is the only safeguard left.",
+            "Demand audits before labels become judges."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢"
+        }
+      },
+      "instagram_caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢",
+      "carousel_slides": [
+        {
+          "hook": "Who really decides what's AI?",
+          "description": "Major labels want sole power to police AI in music, controlling what gets flagged and removed, not culture.",
+          "visual_hint": "Magnifying glass over music note",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "music studio mixing desk"
+        },
+        {
+          "hook": "Your music could vanish without appeal",
+          "description": "Independent artists may get tracks pulled from charts with zero chance to know why or appeal.",
+          "visual_hint": "Track disappearing from chart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Culture or control?",
+          "description": "They claim protection, but really hand labels a monopoly over truth in recording—monopoly on silence.",
+          "visual_hint": "Monopoly game piece",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "monopoly game board",
+          "image": "https://images.pexels.com/photos/4004429/pexels-photo-4004429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silence isn't safety",
+          "description": "If labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+          "visual_hint": "Judge gavel on music",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "judge gavel hand",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before labels rule alone",
+          "description": "Demand public audits of AI detection before labels get veto power. Ask your label: what's the appeal process?",
+          "visual_hint": "Audit report with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "document paper sign",
+          "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-31T17:22:03.989Z",
+      "sourceId": "a32f3d3705a3fdcb7273b557f85de385"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spacex-won-t-remove-all-of-xai-s-unpermitted-turbi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "pubDate": "Fri, 31 Jul 2026 15:16:17 +0000",
+      "slides": [
+        "Why would SpaceX tolerate unpermitted turbines for twelve more months?",
+        "State regulators demanded removal, yet approval delays persist",
+        "Inspection found four turbines operating without required environmental permits",
+        "Your project's compliance timeline just became much more unpredictable",
+        "Audit your own permits immediately; don't assume enforcement deadlines."
+      ],
+      "thread_text": [
+        "1. Why tolerate violations?\n\nSpaceX’s turbines run unpermitted for 12 more months—approval delays don’t erase the violation. Regulators ordered removal, yet the clock keeps ticking.",
+        "2. Approval delay, not grace\n\nState regulators demanded removal, but the permit process stalled—so enforcement waits. Delays become de facto extensions, setting a risky precedent.",
+        "3. Four turbines, no permits\n\nAn inspection found four turbines operating without required environmental permits. The operators knew, yet continued running—until the state stepped in.",
+        "4. Your compliance just got harder\n\nThis case signals that enforcement timelines can stretch unpredictably. Your project’s compliance calendar is now less certain—expect delays or sudden crackdowns.",
+        "5. Audit your permits now\n\nDon’t assume deadlines hold. Run a prompt on ChatGPT to list your permits and expiration dates—if you haven’t, start there. Ignorance won’t shield you."
+      ],
+      "video_script": [
+        "SpaceX turbines run without permits for another year.",
+        "Regulators ordered removal, but approval delays persist.",
+        "Four turbines operate without required permits, inspection shows.",
+        "Your compliance timeline just became more unpredictable.",
+        "Audit your permits now; don't assume enforcement deadlines."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why tolerate violations?\n\nSpaceX’s turbines run unpermitted for 12 more months—approval delays don’t erase the violation. Regulators ordered removal, yet the clock keeps ticking.",
+            "2. Approval delay, not grace\n\nState regulators demanded removal, but the permit process stalled—so enforcement waits. Delays become de facto extensions, setting a risky precedent.",
+            "3. Four turbines, no permits\n\nAn inspection found four turbines operating without required environmental permits. The operators knew, yet continued running—until the state stepped in.",
+            "4. Your compliance just got harder\n\nThis case signals that enforcement timelines can stretch unpredictably. Your project’s compliance calendar is now less certain—expect delays or sudden crackdowns.",
+            "5. Audit your permits now\n\nDon’t assume deadlines hold. Run a prompt on ChatGPT to list your permits and expiration dates—if you haven’t, start there. Ignorance won’t shield you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX turbines run without permits for another year.",
+            "Regulators ordered removal, but approval delays persist.",
+            "Four turbines operate without required permits, inspection shows.",
+            "Your compliance timeline just became more unpredictable.",
+            "Audit your permits now; don't assume enforcement deadlines."
+          ]
+        },
+        "instagram": {
+          "caption": "Four turbines run unpermitted for a full extra year—SpaceX won’t remove them until the approval process finally catches up.  \n\nState regulators ordered the removal, but the permit slowdown means enforcement just… waits. That delay becomes a free pass, and it sets a precedent for anyone watching.  \n\nAn inspection flagged four turbines running without environmental permits, and operators kept them on anyway. If regulators stretch deadlines here, your own compliance calendar just became a guess.  \n\nAudit your permits now—list every expiration date and outstanding application today. Don't assume enforcement waits for you too.  \n\nWhat's the one permit you're currently running on expired terms? 🔍📋⏳"
+        }
+      },
+      "instagram_caption": "Four turbines run unpermitted for a full extra year—SpaceX won’t remove them until the approval process finally catches up.  \n\nState regulators ordered the removal, but the permit slowdown means enforcement just… waits. That delay becomes a free pass, and it sets a precedent for anyone watching.  \n\nAn inspection flagged four turbines running without environmental permits, and operators kept them on anyway. If regulators stretch deadlines here, your own compliance calendar just became a guess.  \n\nAudit your permits now—list every expiration date and outstanding application today. Don't assume enforcement waits for you too.  \n\nWhat's the one permit you're currently running on expired terms? 🔍📋⏳",
+      "carousel_slides": [
+        {
+          "hook": "Four turbines running without permits — why?",
+          "description": "An inspection found four SpaceX turbines operating without required environmental permits. Ongoing approval delays mean they stay up for 12 more months, setting a precedent for enforcement leniency.",
+          "visual_hint": "Wind turbine close-up, inspection clipboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "wind turbine close-up"
+        },
+        {
+          "hook": "Permit delays aren't legal grace periods",
+          "description": "State regulators ordered removal, but stalled approvals effectively extend deadlines. This case signals compliance timelines can stretch unpredictably, affecting your project's risk.",
+          "visual_hint": "Clock over regulatory documents, approval stamp",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "regulatory documents clock",
+          "image": "https://images.pexels.com/photos/6863321/pexels-photo-6863321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why keep running unpermitted equipment?",
+          "description": "Despite knowing permits were missing, SpaceX continued turbine operations. Regulators stepped in, but the slow process turned violations into de facto extensions, encouraging risky precedent.",
+          "visual_hint": "Magnifying glass over turbine blueprint, red flags",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass blueprint",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your compliance calendar just got riskier",
+          "description": "Expect sudden crackdowns or extended delays. Enforcement can stretch unpredictably, so assume every deadline might shift. Prepare for both scenarios in your compliance planning.",
+          "visual_hint": "Hand adjusting calendar dates, exclamation mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand calendar planning",
+          "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your permits today — don't wait",
+          "description": "Run a prompt on ChatGPT to list all permits and expiration dates. Start now to avoid surprises; ignorance won't shield you from enforcement actions.",
+          "visual_hint": "Checklist with pen, ChatGPT interface on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen phone",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?resize=1200,757",
+      "savedAt": "2026-07-31T17:21:50.698Z",
+      "sourceId": "d6b9a6d8c12d77f5572bbe6a3cd7b953"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "siri-ai-could-come-with-a-paywall-for-power-users",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "pubDate": "Fri, 31 Jul 2026 16:08:18 +0000",
+      "slides": [
+        "Will Apple's smarter Siri force a subscription fee?",
+        "Free basic features remain, but advanced tools might cost.",
+        "Power users could pay monthly for AI upgrades Apple builds.",
+        "Your Siri experience splits into tiers, changing how you work.",
+        "Decide now if premium Siri is worth your budget."
+      ],
+      "thread_text": [
+        "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+        "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+        "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+        "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+        "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+      ],
+      "video_script": [
+        "Apple may charge for premium Siri features.",
+        "Free Siri stays basic, advanced tools cost.",
+        "Power users might pay monthly for upgrades.",
+        "This could change your daily workflow.",
+        "Decide if premium Siri is worth it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+            "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+            "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+            "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+            "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple may charge for premium Siri features.",
+            "Free Siri stays basic, advanced tools cost.",
+            "Power users might pay monthly for upgrades.",
+            "This could change your daily workflow.",
+            "Decide if premium Siri is worth it."
+          ]
+        },
+        "instagram": {
+          "caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱"
+        }
+      },
+      "instagram_caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱",
+      "carousel_slides": [
+        {
+          "hook": "Will Siri cost you?",
+          "description": "Apple may split Siri into free and paid tiers. Advanced AI features could land behind a monthly subscription, changing how you use your iPhone.",
+          "visual_hint": "Siri logo with dollar sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "iphone with dollar sign"
+        },
+        {
+          "hook": "What's free, what's not?",
+          "description": "Basic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee. Simple tasks remain, deep work costs.",
+          "visual_hint": "Split screen: basic vs premium",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "split screen smartphone",
+          "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A tale of two Siri's",
+          "description": "Your daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay. The split changes how you rely on it.",
+          "visual_hint": "Two paths diverging",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fork in road",
+          "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The hidden cost of convenience",
+          "description": "Subscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay? Consider your budget.",
+          "visual_hint": "Subscription fee increasing graph",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "rising graph coins",
+          "image": "https://images.pexels.com/photos/7173049/pexels-photo-7173049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your move—save this for later",
+          "description": "List three tasks you'd pay for Siri to automate. If none, tell Apple on their feedback page. Decide if premium Siri fits your budget.",
+          "visual_hint": "Notepad with list and question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notepad checklist",
+          "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+      "savedAt": "2026-07-31T17:21:35.508Z",
+      "sourceId": "02a679ae68f91e74af14cd8ea3cec3bc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "snapchat-no-longer-rewards-fully-ai-generated-spot",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "slides": [
+        "Creators relied on AI for Spotlight, but now what?",
+        "Snapchat changes its reward system for Spotlight posts.",
+        "Fully AI-generated clips no longer qualify for bonuses.",
+        "Authentic, human-created content now gets prioritized instead.",
+        "Review your strategy: blend human creativity with AI tools now."
+      ],
+      "thread_text": [
+        "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+        "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+        "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+        "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+        "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+      ],
+      "video_script": [
+        "Snapchat changed its Spotlight rewards.",
+        "Fully AI clips no longer get bonuses.",
+        "They now favor real human content.",
+        "You need to blend AI and creativity.",
+        "Test a hybrid post this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+            "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+            "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+            "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+            "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Snapchat changed its Spotlight rewards.",
+            "Fully AI clips no longer get bonuses.",
+            "They now favor real human content.",
+            "You need to blend AI and creativity.",
+            "Test a hybrid post this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results."
+        }
+      },
+      "instagram_caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results.",
+      "carousel_slides": [
+        {
+          "hook": "AI content no longer pays?",
+          "description": "Snapchat's new reward system disqualifies fully AI-generated Spotlight clips from bonuses. Creators relying on AI must pivot quickly.",
+          "visual_hint": "Broken robot with dollar sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken robot"
+        },
+        {
+          "hook": "Authentic content takes priority now",
+          "description": "Human-created content now gets prioritized by the algorithm, shifting the platform's focus toward originality and away from AI slop.",
+          "visual_hint": "Algorithm spotlight on human",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "spotlight stage",
+          "image": "https://images.pexels.com/photos/1110085/pexels-photo-1110085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why the sudden shift?",
+          "description": "Snapchat is reacting to audience fatigue with AI-generated content, pushing creators back to genuine, human-driven creativity.",
+          "visual_hint": "Audience yawning at screens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "crowd looking phones",
+          "image": "https://images.pexels.com/photos/10163476/pexels-photo-10163476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Win with a hybrid approach",
+          "description": "Creators blending AI tools with human creativity are now most likely to qualify for rewards. Combine efficiency with authenticity.",
+          "visual_hint": "Human hand touching AI circuit",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand circuit board",
+          "image": "https://images.pexels.com/photos/7285969/pexels-photo-7285969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to rethink your workflow",
+          "description": "Test a human-edited AI draft on your next Spotlight post this week. Compare engagement vs pure AI. Adapt now.",
+          "visual_hint": "Checklist with AI and human icons",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+      "savedAt": "2026-07-31T17:21:21.967Z",
+      "sourceId": "1539977fb10636407bec914c9bd7cc6e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "smallest-ai-raises-13m-to-build-ultra-fast-voice-a",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -104765,6 +105181,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-di-frutta-secca-con-crema-al-limone",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta di frutta secca con crema al limone",
+      "link": "https://ricette.giallozafferano.it/Torta-di-frutta-secca-con-crema-al-limone.html",
+      "pubDate": "Fri, 31 Jul 2026 15:38:00 +0200",
+      "content": "Torta di frutta secca con crema al limone: ricetta croccante e cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X SPECIALE Prodotti freschi per ricette perfette in collaborazione con Dolci Torte Contenuto Sponsorizzato Torta di frutta secca con crema al limone /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Media Preparazione: 30 min Cottura: 30 min Dosi per: 8 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Se siete alla ricerca di un dessert elegante e sorprendente, la torta di frutta secca con crema al limone è la ricetta che fa per voi. Due basi croccanti realizzate con un mix di frutta secca, miele e burro di mandorle racchiudono una morbida e aromatica crema pasticcera al limone. Il contrasto tra la consistenza croccante delle basi e la cremosità del ripieno rende questa torta con crema al limone perfetta da servire come dessert di fine pasto o nelle occasioni speciali. Completata con albicocche fresche e menta, conquisterà tutti i palati, grazie al perfetto equilibrio tra dolcezza, note agrumate e aromi della frutta secca. Una torta scenografica, golosa ma alla portata di tutti! Se amate le torte con la crema al limone , ecco qualche idea: Crostata alla crema di limoni Crostata alla crema di limone friabile Torta con crema al limone INGREDIENTI per le basi Mix di frutta secca senza sale 340 g Burro di mandorle 50 g Glucosio 20 g Miele 100 g per la crema Scorza di limone 1 Latte intero 500 g Zucchero 130 g Tuorli (circa 7) 120 g Amido di riso 40 g Baccello di vaniglia 1 per guarnire Menta q.b. Albicocche 1 AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di frutta secca con crema al limone Per preparare la torta di frutta secca con crema al limone, iniziate dalla crema pasticcera: versate il latte in un pentolino, aggiungete la bacca di vaniglia e portate quasi a sfiorare il bollore 1 . Nel frattempo raccogliete in una ciotola i tuorli con lo zucchero e i semi ricavati dalla bacca di vaniglia 2 , quindi lavorate il composto con una frusta fino a renderlo omogeneo 3 . Unite l’amido di riso setacciato 4 e mescolate ancora, poi versate a filo il latte caldo, filtrandolo attraverso un colino 5 e mescolate 6 . Trasferite il composto nuovamente nel pentolino e cuocete a fiamma bassa, mescolando continuamente con una frusta 7 , finché la crema non sarà densa e vellutata, dopo circa 8-10 minuti 8 . Trasferitela in un contenitore basso e largo, copritela con pellicola a contatto e lasciatela raffreddare completamente 9 . Per preparare le basi croccanti, inserite nel mixer la frutta secca 10 e frullatela a più riprese fino a ottenere una granella grossolana. Trasferitela in una ciotola 11 e aggiungete il burro di mandorle 12 . Poi versate il miele e il glucosio 13 . Mescolate con un cucchiaio fino a ottenere un composto omogeneo ma ancora granuloso 14 . Dividete l'impasto in due anelli da 18 cm appoggiati su una teglia rivestita con carta forno 15 , distribuitelo all'interno e compattatelo con il dorso di un cucchiaio. Dovrete ottenere due dischi uniformi 16 . Cuocete in forno statico preriscaldato a 180 °C per circa 20 minuti, quindi sfornate le basi quando saranno ben dorate 17 . Lasciatele intiepidire, sformatele delicatamente e fatele raffreddare completamente. Quando la crema sarà ben fredda, grattugiate la scorza di limone direttamente al suo interno 18 . Incorporatela con una spatola fino a distribuirla uniformemente 19 . Trasferite la crema in un sac-à-poche con bocchetta liscia da 12 mm e create tanti spuntoni ravvicinati su una delle basi croccanti 20 , fino a ricoprirla completamente 21 . Adagiate delicatamente la seconda base sopra la crema 22 , quindi completate la decorazione creando al centro un cerchio di spuntoni di crema e guarnendo con qualche spicchio di albicocca 23 , foglioline di menta fresca e, se desiderate, altra scorza di limone grattugiata. La torta di frutta secca e crema al limone è pronta 24 . Conservazione Si consiglia di consumare subito la torta di frutta secca con crema al limone. Potete conservare la crema al limone in frigo per un paio di giorni, coperta con pellicola a contatto. Le basi di frutta secca si conservano in un luogo fresco, sotto una campana di vetro, per 2 giorni. Consiglio Se preferite, potete realizzare questa ricetta anche in versione monoporzione utilizzando coppapasta da 6-8 cm di diametro: saranno perfette da servire come dessert individuale. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Glucosio Latte Limone Menta Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Torta con crema al limone 101 4.2 La torta con crema al limone è un dolce soffice a cui in cottura viene aggiunta la crema, perfetto per la colazione o la merenda di grandi e piccini! Vai alla ricetta Dolci Cheesecake al limone meringata 186 4.6 La cheesecake al limone meringata è una raffinata torta con crema di formaggio al limone sormontata da bellissimi ciuffi di meringa all'italiana. Vai alla ricetta Dolci Sbriciolata alla crema di limone 11 4.3 La sbriciolata alla crema di limone è un dolce goloso e profumato. Scopri qui dosi e procedimento per preparare questa deliziosa ricetta a casa tua! Vai alla ricetta Dolci Mini pavlove con crema al limone 55 4.5 Le mini pavlove sono la versione monoporzione della famosa pavlova australiana: un nido di meringa morbida avvolge una crema dolce e frutti di bosco. Vai alla ricetta Dolci Crema al limone 188 4.1 Scopri la ricetta della crema al limone, perfetta per crostate e dolci: fresca, vellutata e facile da preparare, ideale per farciture e&hellip; Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta croccante di frutta secca e crema al limone.",
+        "Frutta secca, burro di mandorle, miele, limone, tuorli.",
+        "Frullate la frutta secca e mescolate con miele.",
+        "Cuocete le basi a 180 gradi per venti minuti.",
+        "Guarnite con albicocche e menta fresca."
+      ],
+      "instagram_caption": "C’è dolcezza che sa di croccante, e questa torta ne è la prova. 🍋🌰\n\nUna base dorata di frutta secca frullata e miele, cotta finché non diventa croccante, poi farcita con una crema al limone vellutata e freschissima, fatta con tuorli e burro di mandorle. Il contrasto tra il caldo della granella e l’acidulo della crema è pura poesia per il palato.\n\nChiudo con albicocche succose e qualche fogliolina di menta: il tocco finale che fa sembrare il dolce un quadro. 🍑✨\n\nProvala per un dessert diverso dal solito: è perfetta anche per chi ama i sapori intensi ma leggeri.",
+      "formats": {
+        "instagram": {
+          "caption": "C’è dolcezza che sa di croccante, e questa torta ne è la prova. 🍋🌰\n\nUna base dorata di frutta secca frullata e miele, cotta finché non diventa croccante, poi farcita con una crema al limone vellutata e freschissima, fatta con tuorli e burro di mandorle. Il contrasto tra il caldo della granella e l’acidulo della crema è pura poesia per il palato.\n\nChiudo con albicocche succose e qualche fogliolina di menta: il tocco finale che fa sembrare il dolce un quadro. 🍑✨\n\nProvala per un dessert diverso dal solito: è perfetta anche per chi ama i sapori intensi ma leggeri."
+        },
+        "tiktok": {
+          "script": [
+            "Frullo la frutta secca con il miele.",
+            "Verso il composto e formo le basi.",
+            "Copro con tuorli e burro di mandorle.",
+            "In forno a 180 gradi per venti minuti.",
+            "Sforno, crema al limone e albicocche."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Questa torta è un peccato di gola che non ti aspetti: croccante fuori, cremosa dentro, con un limone che ti sveglia i sensi. 🍋",
+            "La base? Frutta secca frullata con burro di mandorle e miele. Niente farina, solo gusto puro. Il limone ci sta come un pugno in un occhio... nel senso buono.",
+            "Tuorli e succo di limone per la crema: la monti finché non diventa velluto. E le basi? Le cuoci a 180° per 20 minuti, finché non diventano dorate e fragranti.",
+            "Quando escono dal forno, le componi: crema al limone sopra la base croccante, poi albicocche fresche e menta. Il contrasto è pazzesco: fresco, dolce, acidulo, croccante.",
+            "Il trucco? Lasciala riposare 10 minuti prima di tagliarla: la crema si stabilizza e ogni fetta è perfetta. Provata e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Frullo la frutta secca con il miele.",
+        "Verso il composto e formo le basi.",
+        "Copro con tuorli e burro di mandorle.",
+        "In forno a 180 gradi per venti minuti.",
+        "Sforno, crema al limone e albicocche."
+      ],
+      "thread_text": [
+        "Questa torta è un peccato di gola che non ti aspetti: croccante fuori, cremosa dentro, con un limone che ti sveglia i sensi. 🍋",
+        "La base? Frutta secca frullata con burro di mandorle e miele. Niente farina, solo gusto puro. Il limone ci sta come un pugno in un occhio... nel senso buono.",
+        "Tuorli e succo di limone per la crema: la monti finché non diventa velluto. E le basi? Le cuoci a 180° per 20 minuti, finché non diventano dorate e fragranti.",
+        "Quando escono dal forno, le componi: crema al limone sopra la base croccante, poi albicocche fresche e menta. Il contrasto è pazzesco: fresco, dolce, acidulo, croccante.",
+        "Il trucco? Lasciala riposare 10 minuti prima di tagliarla: la crema si stabilizza e ogni fetta è perfetta. Provata e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Croccante torta di frutta secca",
+          "description": "Una base croccante con crema al limone fresca e delicata, perfetta per chi ama i contrasti.",
+          "visual_hint": "Torta dorata su piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "nutty lemon tart"
+        },
+        {
+          "hook": "Ingredienti semplici e genuini",
+          "description": "Frutta secca, burro di mandorle, miele e limone: pochi elementi per un sapore ricco e naturale.",
+          "visual_hint": "Ingredienti su tavola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "nuts honey lemon",
+          "image": "https://images.pexels.com/photos/8541409/pexels-photo-8541409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Frullate e mescolate",
+          "description": "Frullate la frutta secca e unite il miele: il segreto per una base croccante e aromatica.",
+          "visual_hint": "Mani che frullano",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blending nuts honey",
+          "image": "https://images.pexels.com/photos/6802632/pexels-photo-6802632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cottura perfetta",
+          "description": "Cuocete le basi a 180 gradi per 20 minuti: doratura uniforme e croccantezza senza pari.",
+          "visual_hint": "Teglia nel forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "baking tart golden",
+          "image": "https://images.pexels.com/photos/26870538/pexels-photo-26870538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tocco finale fresco",
+          "description": "Guarnite con albicocche e menta fresca: un contrasto che esalta la crema al limone.",
+          "visual_hint": "Decorazione finale",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "decorated dessert apricots",
+          "image": "https://images.pexels.com/photos/5310395/pexels-photo-5310395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "frutta secca",
+        "limone",
+        "miele"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36476/Torta-di-frutta-secca-con-crema-al-limone_650x433_wm.jpg",
+      "savedAt": "2026-07-31T17:26:07.971Z",
+      "sourceId": "55216b051eb3e08f012b72c2b4d82225"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "snapchat-no-longer-rewards-fully-ai-generated-spot",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+  "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+  "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+  "slides": [
+    "Creators relied on AI for Spotlight, but now what?",
+    "Snapchat changes its reward system for Spotlight posts.",
+    "Fully AI-generated clips no longer qualify for bonuses.",
+    "Authentic, human-created content now gets prioritized instead.",
+    "Review your strategy: blend human creativity with AI tools now."
+  ],
+  "thread_text": [
+    "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+    "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+    "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+    "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+    "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+  ],
+  "video_script": [
+    "Snapchat changed its Spotlight rewards.",
+    "Fully AI clips no longer get bonuses.",
+    "They now favor real human content.",
+    "You need to blend AI and creativity.",
+    "Test a hybrid post this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+        "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+        "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+        "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+        "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Snapchat changed its Spotlight rewards.",
+        "Fully AI clips no longer get bonuses.",
+        "They now favor real human content.",
+        "You need to blend AI and creativity.",
+        "Test a hybrid post this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results."
+    }
+  },
+  "instagram_caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results.",
+  "carousel_slides": [
+    {
+      "hook": "AI content no longer pays?",
+      "description": "Snapchat's new reward system disqualifies fully AI-generated Spotlight clips from bonuses. Creators relying on AI must pivot quickly.",
+      "visual_hint": "Broken robot with dollar sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken robot"
+    },
+    {
+      "hook": "Authentic content takes priority now",
+      "description": "Human-created content now gets prioritized by the algorithm, shifting the platform's focus toward originality and away from AI slop.",
+      "visual_hint": "Algorithm spotlight on human",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "spotlight stage",
+      "image": "https://images.pexels.com/photos/1110085/pexels-photo-1110085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why the sudden shift?",
+      "description": "Snapchat is reacting to audience fatigue with AI-generated content, pushing creators back to genuine, human-driven creativity.",
+      "visual_hint": "Audience yawning at screens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "crowd looking phones",
+      "image": "https://images.pexels.com/photos/10163476/pexels-photo-10163476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Win with a hybrid approach",
+      "description": "Creators blending AI tools with human creativity are now most likely to qualify for rewards. Combine efficiency with authenticity.",
+      "visual_hint": "Human hand touching AI circuit",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand circuit board",
+      "image": "https://images.pexels.com/photos/7285969/pexels-photo-7285969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to rethink your workflow",
+      "description": "Test a human-edited AI draft on your next Spotlight post this week. Compare engagement vs pure AI. Adapt now.",
+      "visual_hint": "Checklist with AI and human icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+  "savedAt": "2026-07-31T17:21:21.967Z",
+  "sourceId": "1539977fb10636407bec914c9bd7cc6e"
+}

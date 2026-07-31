@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The major labels propose rules to keep AI slop off the charts",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+  "pubDate": "2026-07-31T16:36:48.000Z",
+  "slides": [
+    "Major labels claim their AI filter protects music culture.",
+    "Their proposal grants labels exclusive power over AI detection.",
+    "Independent artists would be silenced by these new rules.",
+    "Your releases could vanish from charts without your consent.",
+    "Demand transparency before labels become the sole music judges."
+  ],
+  "thread_text": [
+    "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+    "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+    "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+    "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+    "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+  ],
+  "video_script": [
+    "Labels want sole power over AI detection.",
+    "Independent artists could be silenced and removed.",
+    "No consent needed for your music to vanish.",
+    "Transparency is the only safeguard left.",
+    "Demand audits before labels become judges."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+        "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+        "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+        "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+        "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Labels want sole power over AI detection.",
+        "Independent artists could be silenced and removed.",
+        "No consent needed for your music to vanish.",
+        "Transparency is the only safeguard left.",
+        "Demand audits before labels become judges."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢"
+    }
+  },
+  "instagram_caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢",
+  "carousel_slides": [
+    {
+      "hook": "Who really decides what's AI?",
+      "description": "Major labels want sole power to police AI in music, controlling what gets flagged and removed, not culture.",
+      "visual_hint": "Magnifying glass over music note",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "music studio mixing desk"
+    },
+    {
+      "hook": "Your music could vanish without appeal",
+      "description": "Independent artists may get tracks pulled from charts with zero chance to know why or appeal.",
+      "visual_hint": "Track disappearing from chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Culture or control?",
+      "description": "They claim protection, but really hand labels a monopoly over truth in recording—monopoly on silence.",
+      "visual_hint": "Monopoly game piece",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "monopoly game board",
+      "image": "https://images.pexels.com/photos/4004429/pexels-photo-4004429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silence isn't safety",
+      "description": "If labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+      "visual_hint": "Judge gavel on music",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "judge gavel hand",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before labels rule alone",
+      "description": "Demand public audits of AI detection before labels get veto power. Ask your label: what's the appeal process?",
+      "visual_hint": "Audit report with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "document paper sign",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-31T17:22:03.989Z",
+  "sourceId": "a32f3d3705a3fdcb7273b557f85de385"
+}

@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-di-frutta-secca-con-crema-al-limone",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta di frutta secca con crema al limone",
+    "link": "https://ricette.giallozafferano.it/Torta-di-frutta-secca-con-crema-al-limone.html",
+    "pubDate": "Fri, 31 Jul 2026 15:38:00 +0200",
+    "content": "Torta di frutta secca con crema al limone: ricetta croccante e cremosa Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X SPECIALE Prodotti freschi per ricette perfette in collaborazione con Dolci Torte Contenuto Sponsorizzato Torta di frutta secca con crema al limone /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Media Preparazione: 30 min Cottura: 30 min Dosi per: 8 persone Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Se siete alla ricerca di un dessert elegante e sorprendente, la torta di frutta secca con crema al limone è la ricetta che fa per voi. Due basi croccanti realizzate con un mix di frutta secca, miele e burro di mandorle racchiudono una morbida e aromatica crema pasticcera al limone. Il contrasto tra la consistenza croccante delle basi e la cremosità del ripieno rende questa torta con crema al limone perfetta da servire come dessert di fine pasto o nelle occasioni speciali. Completata con albicocche fresche e menta, conquisterà tutti i palati, grazie al perfetto equilibrio tra dolcezza, note agrumate e aromi della frutta secca. Una torta scenografica, golosa ma alla portata di tutti! Se amate le torte con la crema al limone , ecco qualche idea: Crostata alla crema di limoni Crostata alla crema di limone friabile Torta con crema al limone INGREDIENTI per le basi Mix di frutta secca senza sale 340 g Burro di mandorle 50 g Glucosio 20 g Miele 100 g per la crema Scorza di limone 1 Latte intero 500 g Zucchero 130 g Tuorli (circa 7) 120 g Amido di riso 40 g Baccello di vaniglia 1 per guarnire Menta q.b. Albicocche 1 AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di frutta secca con crema al limone Per preparare la torta di frutta secca con crema al limone, iniziate dalla crema pasticcera: versate il latte in un pentolino, aggiungete la bacca di vaniglia e portate quasi a sfiorare il bollore 1 . Nel frattempo raccogliete in una ciotola i tuorli con lo zucchero e i semi ricavati dalla bacca di vaniglia 2 , quindi lavorate il composto con una frusta fino a renderlo omogeneo 3 . Unite l’amido di riso setacciato 4 e mescolate ancora, poi versate a filo il latte caldo, filtrandolo attraverso un colino 5 e mescolate 6 . Trasferite il composto nuovamente nel pentolino e cuocete a fiamma bassa, mescolando continuamente con una frusta 7 , finché la crema non sarà densa e vellutata, dopo circa 8-10 minuti 8 . Trasferitela in un contenitore basso e largo, copritela con pellicola a contatto e lasciatela raffreddare completamente 9 . Per preparare le basi croccanti, inserite nel mixer la frutta secca 10 e frullatela a più riprese fino a ottenere una granella grossolana. Trasferitela in una ciotola 11 e aggiungete il burro di mandorle 12 . Poi versate il miele e il glucosio 13 . Mescolate con un cucchiaio fino a ottenere un composto omogeneo ma ancora granuloso 14 . Dividete l'impasto in due anelli da 18 cm appoggiati su una teglia rivestita con carta forno 15 , distribuitelo all'interno e compattatelo con il dorso di un cucchiaio. Dovrete ottenere due dischi uniformi 16 . Cuocete in forno statico preriscaldato a 180 °C per circa 20 minuti, quindi sfornate le basi quando saranno ben dorate 17 . Lasciatele intiepidire, sformatele delicatamente e fatele raffreddare completamente. Quando la crema sarà ben fredda, grattugiate la scorza di limone direttamente al suo interno 18 . Incorporatela con una spatola fino a distribuirla uniformemente 19 . Trasferite la crema in un sac-à-poche con bocchetta liscia da 12 mm e create tanti spuntoni ravvicinati su una delle basi croccanti 20 , fino a ricoprirla completamente 21 . Adagiate delicatamente la seconda base sopra la crema 22 , quindi completate la decorazione creando al centro un cerchio di spuntoni di crema e guarnendo con qualche spicchio di albicocca 23 , foglioline di menta fresca e, se desiderate, altra scorza di limone grattugiata. La torta di frutta secca e crema al limone è pronta 24 . Conservazione Si consiglia di consumare subito la torta di frutta secca con crema al limone. Potete conservare la crema al limone in frigo per un paio di giorni, coperta con pellicola a contatto. Le basi di frutta secca si conservano in un luogo fresco, sotto una campana di vetro, per 2 giorni. Consiglio Se preferite, potete realizzare questa ricetta anche in versione monoporzione utilizzando coppapasta da 6-8 cm di diametro: saranno perfette da servire come dessert individuale. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Glucosio Latte Limone Menta Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Torta con crema al limone 101 4.2 La torta con crema al limone è un dolce soffice a cui in cottura viene aggiunta la crema, perfetto per la colazione o la merenda di grandi e piccini! Vai alla ricetta Dolci Cheesecake al limone meringata 186 4.6 La cheesecake al limone meringata è una raffinata torta con crema di formaggio al limone sormontata da bellissimi ciuffi di meringa all'italiana. Vai alla ricetta Dolci Sbriciolata alla crema di limone 11 4.3 La sbriciolata alla crema di limone è un dolce goloso e profumato. Scopri qui dosi e procedimento per preparare questa deliziosa ricetta a casa tua! Vai alla ricetta Dolci Mini pavlove con crema al limone 55 4.5 Le mini pavlove sono la versione monoporzione della famosa pavlova australiana: un nido di meringa morbida avvolge una crema dolce e frutti di bosco. Vai alla ricetta Dolci Crema al limone 188 4.1 Scopri la ricetta della crema al limone, perfetta per crostate e dolci: fresca, vellutata e facile da preparare, ideale per farciture e&hellip; Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Torta croccante di frutta secca e crema al limone.",
+      "Frutta secca, burro di mandorle, miele, limone, tuorli.",
+      "Frullate la frutta secca e mescolate con miele.",
+      "Cuocete le basi a 180 gradi per venti minuti.",
+      "Guarnite con albicocche e menta fresca."
+    ],
+    "instagram_caption": "C’è dolcezza che sa di croccante, e questa torta ne è la prova. 🍋🌰\n\nUna base dorata di frutta secca frullata e miele, cotta finché non diventa croccante, poi farcita con una crema al limone vellutata e freschissima, fatta con tuorli e burro di mandorle. Il contrasto tra il caldo della granella e l’acidulo della crema è pura poesia per il palato.\n\nChiudo con albicocche succose e qualche fogliolina di menta: il tocco finale che fa sembrare il dolce un quadro. 🍑✨\n\nProvala per un dessert diverso dal solito: è perfetta anche per chi ama i sapori intensi ma leggeri.",
+    "formats": {
+      "instagram": {
+        "caption": "C’è dolcezza che sa di croccante, e questa torta ne è la prova. 🍋🌰\n\nUna base dorata di frutta secca frullata e miele, cotta finché non diventa croccante, poi farcita con una crema al limone vellutata e freschissima, fatta con tuorli e burro di mandorle. Il contrasto tra il caldo della granella e l’acidulo della crema è pura poesia per il palato.\n\nChiudo con albicocche succose e qualche fogliolina di menta: il tocco finale che fa sembrare il dolce un quadro. 🍑✨\n\nProvala per un dessert diverso dal solito: è perfetta anche per chi ama i sapori intensi ma leggeri."
+      },
+      "tiktok": {
+        "script": [
+          "Frullo la frutta secca con il miele.",
+          "Verso il composto e formo le basi.",
+          "Copro con tuorli e burro di mandorle.",
+          "In forno a 180 gradi per venti minuti.",
+          "Sforno, crema al limone e albicocche."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Questa torta è un peccato di gola che non ti aspetti: croccante fuori, cremosa dentro, con un limone che ti sveglia i sensi. 🍋",
+          "La base? Frutta secca frullata con burro di mandorle e miele. Niente farina, solo gusto puro. Il limone ci sta come un pugno in un occhio... nel senso buono.",
+          "Tuorli e succo di limone per la crema: la monti finché non diventa velluto. E le basi? Le cuoci a 180° per 20 minuti, finché non diventano dorate e fragranti.",
+          "Quando escono dal forno, le componi: crema al limone sopra la base croccante, poi albicocche fresche e menta. Il contrasto è pazzesco: fresco, dolce, acidulo, croccante.",
+          "Il trucco? Lasciala riposare 10 minuti prima di tagliarla: la crema si stabilizza e ogni fetta è perfetta. Provata e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Frullo la frutta secca con il miele.",
+      "Verso il composto e formo le basi.",
+      "Copro con tuorli e burro di mandorle.",
+      "In forno a 180 gradi per venti minuti.",
+      "Sforno, crema al limone e albicocche."
+    ],
+    "thread_text": [
+      "Questa torta è un peccato di gola che non ti aspetti: croccante fuori, cremosa dentro, con un limone che ti sveglia i sensi. 🍋",
+      "La base? Frutta secca frullata con burro di mandorle e miele. Niente farina, solo gusto puro. Il limone ci sta come un pugno in un occhio... nel senso buono.",
+      "Tuorli e succo di limone per la crema: la monti finché non diventa velluto. E le basi? Le cuoci a 180° per 20 minuti, finché non diventano dorate e fragranti.",
+      "Quando escono dal forno, le componi: crema al limone sopra la base croccante, poi albicocche fresche e menta. Il contrasto è pazzesco: fresco, dolce, acidulo, croccante.",
+      "Il trucco? Lasciala riposare 10 minuti prima di tagliarla: la crema si stabilizza e ogni fetta è perfetta. Provata e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Croccante torta di frutta secca",
+        "description": "Una base croccante con crema al limone fresca e delicata, perfetta per chi ama i contrasti.",
+        "visual_hint": "Torta dorata su piatto",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nutty lemon tart"
+      },
+      {
+        "hook": "Ingredienti semplici e genuini",
+        "description": "Frutta secca, burro di mandorle, miele e limone: pochi elementi per un sapore ricco e naturale.",
+        "visual_hint": "Ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "nuts honey lemon",
+        "image": "https://images.pexels.com/photos/8541409/pexels-photo-8541409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Frullate e mescolate",
+        "description": "Frullate la frutta secca e unite il miele: il segreto per una base croccante e aromatica.",
+        "visual_hint": "Mani che frullano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blending nuts honey",
+        "image": "https://images.pexels.com/photos/6802632/pexels-photo-6802632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cottura perfetta",
+        "description": "Cuocete le basi a 180 gradi per 20 minuti: doratura uniforme e croccantezza senza pari.",
+        "visual_hint": "Teglia nel forno",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "baking tart golden",
+        "image": "https://images.pexels.com/photos/26870538/pexels-photo-26870538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tocco finale fresco",
+        "description": "Guarnite con albicocche e menta fresca: un contrasto che esalta la crema al limone.",
+        "visual_hint": "Decorazione finale",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "decorated dessert apricots",
+        "image": "https://images.pexels.com/photos/5310395/pexels-photo-5310395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "frutta secca",
+      "limone",
+      "miele"
+    ],
+    "image": "https://www.giallozafferano.it/images/364-36476/Torta-di-frutta-secca-con-crema-al-limone_650x433_wm.jpg",
+    "savedAt": "2026-07-31T17:26:07.971Z",
+    "sourceId": "55216b051eb3e08f012b72c2b4d82225"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-eoliana",
     "prompt_version": "1.0.0",
     "status": "published",

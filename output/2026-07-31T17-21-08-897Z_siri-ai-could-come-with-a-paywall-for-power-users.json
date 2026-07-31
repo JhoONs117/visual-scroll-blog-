@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "siri-ai-could-come-with-a-paywall-for-power-users",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Siri AI could come with a paywall for power users",
+  "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+  "pubDate": "Fri, 31 Jul 2026 16:08:18 +0000",
+  "slides": [
+    "Will Apple's smarter Siri force a subscription fee?",
+    "Free basic features remain, but advanced tools might cost.",
+    "Power users could pay monthly for AI upgrades Apple builds.",
+    "Your Siri experience splits into tiers, changing how you work.",
+    "Decide now if premium Siri is worth your budget."
+  ],
+  "thread_text": [
+    "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+    "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+    "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+    "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+    "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+  ],
+  "video_script": [
+    "Apple may charge for premium Siri features.",
+    "Free Siri stays basic, advanced tools cost.",
+    "Power users might pay monthly for upgrades.",
+    "This could change your daily workflow.",
+    "Decide if premium Siri is worth it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+        "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+        "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+        "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+        "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple may charge for premium Siri features.",
+        "Free Siri stays basic, advanced tools cost.",
+        "Power users might pay monthly for upgrades.",
+        "This could change your daily workflow.",
+        "Decide if premium Siri is worth it."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱"
+    }
+  },
+  "instagram_caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱",
+  "carousel_slides": [
+    {
+      "hook": "Will Siri cost you?",
+      "description": "Apple may split Siri into free and paid tiers. Advanced AI features could land behind a monthly subscription, changing how you use your iPhone.",
+      "visual_hint": "Siri logo with dollar sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "iphone with dollar sign"
+    },
+    {
+      "hook": "What's free, what's not?",
+      "description": "Basic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee. Simple tasks remain, deep work costs.",
+      "visual_hint": "Split screen: basic vs premium",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "split screen smartphone",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A tale of two Siri's",
+      "description": "Your daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay. The split changes how you rely on it.",
+      "visual_hint": "Two paths diverging",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fork in road",
+      "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden cost of convenience",
+      "description": "Subscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay? Consider your budget.",
+      "visual_hint": "Subscription fee increasing graph",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rising graph coins",
+      "image": "https://images.pexels.com/photos/7173049/pexels-photo-7173049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your move—save this for later",
+      "description": "List three tasks you'd pay for Siri to automate. If none, tell Apple on their feedback page. Decide if premium Siri fits your budget.",
+      "visual_hint": "Notepad with list and question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notepad checklist",
+      "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+  "savedAt": "2026-07-31T17:21:35.508Z",
+  "sourceId": "02a679ae68f91e74af14cd8ea3cec3bc"
+}

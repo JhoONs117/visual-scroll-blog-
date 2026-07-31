@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "pubDate": "2026-07-31T16:36:48.000Z",
+    "slides": [
+      "Major labels claim their AI filter protects music culture.",
+      "Their proposal grants labels exclusive power over AI detection.",
+      "Independent artists would be silenced by these new rules.",
+      "Your releases could vanish from charts without your consent.",
+      "Demand transparency before labels become the sole music judges."
+    ],
+    "thread_text": [
+      "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+      "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+      "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+      "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+      "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+    ],
+    "video_script": [
+      "Labels want sole power over AI detection.",
+      "Independent artists could be silenced and removed.",
+      "No consent needed for your music to vanish.",
+      "Transparency is the only safeguard left.",
+      "Demand audits before labels become judges."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who decides what's AI?\n\nMajor labels want to be the only ones policing AI in music—meaning they'd control what gets flagged and removed.",
+          "2. Your music could vanish\n\nUnder their plan, independent artists could see tracks pulled from charts with zero chance to appeal or even know why.",
+          "3. Culture or control?\n\nThey claim this protects music culture, but it really hands labels a monopoly over truth in recording.",
+          "4. Silence isn't safety\n\nIf labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+          "5. Ask for receipts\n\nDemand public audits of AI detection before labels get veto power. Or ask your label: what's the appeal process?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Labels want sole power over AI detection.",
+          "Independent artists could be silenced and removed.",
+          "No consent needed for your music to vanish.",
+          "Transparency is the only safeguard left.",
+          "Demand audits before labels become judges."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢"
+      }
+    },
+    "instagram_caption": "Your next release could get pulled from the charts—and you'd never know why. 🎧\n\nThe major labels want to be the only ones who decide what counts as AI-made music. Under their proposal, they'd get exclusive power to flag and remove tracks, while independent artists lose any right to appeal or even see the evidence.\n\nIf this passes, your music could vanish from streaming charts without your consent. The labels say this protects culture, but it really gives them a monopoly over what's \"real.\" No transparency, no checks, no appeals. 🚫\n\nAsk your distributor: what's the appeal process if my track gets flagged? If they can't answer, start demanding public audits of AI detection now. 📢",
+    "carousel_slides": [
+      {
+        "hook": "Who really decides what's AI?",
+        "description": "Major labels want sole power to police AI in music, controlling what gets flagged and removed, not culture.",
+        "visual_hint": "Magnifying glass over music note",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "music studio mixing desk"
+      },
+      {
+        "hook": "Your music could vanish without appeal",
+        "description": "Independent artists may get tracks pulled from charts with zero chance to know why or appeal.",
+        "visual_hint": "Track disappearing from chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Culture or control?",
+        "description": "They claim protection, but really hand labels a monopoly over truth in recording—monopoly on silence.",
+        "visual_hint": "Monopoly game piece",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "monopoly game board",
+        "image": "https://images.pexels.com/photos/4004429/pexels-photo-4004429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silence isn't safety",
+        "description": "If labels become judge and jury, any artist they dislike could be labeled AI—without proof or transparency.",
+        "visual_hint": "Judge gavel on music",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "judge gavel hand",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before labels rule alone",
+        "description": "Demand public audits of AI detection before labels get veto power. Ask your label: what's the appeal process?",
+        "visual_hint": "Audit report with question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "document paper sign",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-07-31T17:22:03.989Z",
+    "sourceId": "a32f3d3705a3fdcb7273b557f85de385"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "spacex-won-t-remove-all-of-xai-s-unpermitted-turbi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "pubDate": "Fri, 31 Jul 2026 15:16:17 +0000",
+    "slides": [
+      "Why would SpaceX tolerate unpermitted turbines for twelve more months?",
+      "State regulators demanded removal, yet approval delays persist",
+      "Inspection found four turbines operating without required environmental permits",
+      "Your project's compliance timeline just became much more unpredictable",
+      "Audit your own permits immediately; don't assume enforcement deadlines."
+    ],
+    "thread_text": [
+      "1. Why tolerate violations?\n\nSpaceX’s turbines run unpermitted for 12 more months—approval delays don’t erase the violation. Regulators ordered removal, yet the clock keeps ticking.",
+      "2. Approval delay, not grace\n\nState regulators demanded removal, but the permit process stalled—so enforcement waits. Delays become de facto extensions, setting a risky precedent.",
+      "3. Four turbines, no permits\n\nAn inspection found four turbines operating without required environmental permits. The operators knew, yet continued running—until the state stepped in.",
+      "4. Your compliance just got harder\n\nThis case signals that enforcement timelines can stretch unpredictably. Your project’s compliance calendar is now less certain—expect delays or sudden crackdowns.",
+      "5. Audit your permits now\n\nDon’t assume deadlines hold. Run a prompt on ChatGPT to list your permits and expiration dates—if you haven’t, start there. Ignorance won’t shield you."
+    ],
+    "video_script": [
+      "SpaceX turbines run without permits for another year.",
+      "Regulators ordered removal, but approval delays persist.",
+      "Four turbines operate without required permits, inspection shows.",
+      "Your compliance timeline just became more unpredictable.",
+      "Audit your permits now; don't assume enforcement deadlines."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why tolerate violations?\n\nSpaceX’s turbines run unpermitted for 12 more months—approval delays don’t erase the violation. Regulators ordered removal, yet the clock keeps ticking.",
+          "2. Approval delay, not grace\n\nState regulators demanded removal, but the permit process stalled—so enforcement waits. Delays become de facto extensions, setting a risky precedent.",
+          "3. Four turbines, no permits\n\nAn inspection found four turbines operating without required environmental permits. The operators knew, yet continued running—until the state stepped in.",
+          "4. Your compliance just got harder\n\nThis case signals that enforcement timelines can stretch unpredictably. Your project’s compliance calendar is now less certain—expect delays or sudden crackdowns.",
+          "5. Audit your permits now\n\nDon’t assume deadlines hold. Run a prompt on ChatGPT to list your permits and expiration dates—if you haven’t, start there. Ignorance won’t shield you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "SpaceX turbines run without permits for another year.",
+          "Regulators ordered removal, but approval delays persist.",
+          "Four turbines operate without required permits, inspection shows.",
+          "Your compliance timeline just became more unpredictable.",
+          "Audit your permits now; don't assume enforcement deadlines."
+        ]
+      },
+      "instagram": {
+        "caption": "Four turbines run unpermitted for a full extra year—SpaceX won’t remove them until the approval process finally catches up.  \n\nState regulators ordered the removal, but the permit slowdown means enforcement just… waits. That delay becomes a free pass, and it sets a precedent for anyone watching.  \n\nAn inspection flagged four turbines running without environmental permits, and operators kept them on anyway. If regulators stretch deadlines here, your own compliance calendar just became a guess.  \n\nAudit your permits now—list every expiration date and outstanding application today. Don't assume enforcement waits for you too.  \n\nWhat's the one permit you're currently running on expired terms? 🔍📋⏳"
+      }
+    },
+    "instagram_caption": "Four turbines run unpermitted for a full extra year—SpaceX won’t remove them until the approval process finally catches up.  \n\nState regulators ordered the removal, but the permit slowdown means enforcement just… waits. That delay becomes a free pass, and it sets a precedent for anyone watching.  \n\nAn inspection flagged four turbines running without environmental permits, and operators kept them on anyway. If regulators stretch deadlines here, your own compliance calendar just became a guess.  \n\nAudit your permits now—list every expiration date and outstanding application today. Don't assume enforcement waits for you too.  \n\nWhat's the one permit you're currently running on expired terms? 🔍📋⏳",
+    "carousel_slides": [
+      {
+        "hook": "Four turbines running without permits — why?",
+        "description": "An inspection found four SpaceX turbines operating without required environmental permits. Ongoing approval delays mean they stay up for 12 more months, setting a precedent for enforcement leniency.",
+        "visual_hint": "Wind turbine close-up, inspection clipboard",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "wind turbine close-up"
+      },
+      {
+        "hook": "Permit delays aren't legal grace periods",
+        "description": "State regulators ordered removal, but stalled approvals effectively extend deadlines. This case signals compliance timelines can stretch unpredictably, affecting your project's risk.",
+        "visual_hint": "Clock over regulatory documents, approval stamp",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "regulatory documents clock",
+        "image": "https://images.pexels.com/photos/6863321/pexels-photo-6863321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why keep running unpermitted equipment?",
+        "description": "Despite knowing permits were missing, SpaceX continued turbine operations. Regulators stepped in, but the slow process turned violations into de facto extensions, encouraging risky precedent.",
+        "visual_hint": "Magnifying glass over turbine blueprint, red flags",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass blueprint",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance calendar just got riskier",
+        "description": "Expect sudden crackdowns or extended delays. Enforcement can stretch unpredictably, so assume every deadline might shift. Prepare for both scenarios in your compliance planning.",
+        "visual_hint": "Hand adjusting calendar dates, exclamation mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand calendar planning",
+        "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your permits today — don't wait",
+        "description": "Run a prompt on ChatGPT to list all permits and expiration dates. Start now to avoid surprises; ignorance won't shield you from enforcement actions.",
+        "visual_hint": "Checklist with pen, ChatGPT interface on phone",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen phone",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?resize=1200,757",
+    "savedAt": "2026-07-31T17:21:50.698Z",
+    "sourceId": "d6b9a6d8c12d77f5572bbe6a3cd7b953"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "siri-ai-could-come-with-a-paywall-for-power-users",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "pubDate": "Fri, 31 Jul 2026 16:08:18 +0000",
+    "slides": [
+      "Will Apple's smarter Siri force a subscription fee?",
+      "Free basic features remain, but advanced tools might cost.",
+      "Power users could pay monthly for AI upgrades Apple builds.",
+      "Your Siri experience splits into tiers, changing how you work.",
+      "Decide now if premium Siri is worth your budget."
+    ],
+    "thread_text": [
+      "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+      "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+      "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+      "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+      "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+    ],
+    "video_script": [
+      "Apple may charge for premium Siri features.",
+      "Free Siri stays basic, advanced tools cost.",
+      "Power users might pay monthly for upgrades.",
+      "This could change your daily workflow.",
+      "Decide if premium Siri is worth it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Will Siri cost you?\n\nApple might split Siri into free and paid tiers, with advanced AI features possibly behind a monthly subscription.",
+          "2. What's free, what's not?\n\nBasic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee.",
+          "3. A tale of two Siri's\n\nYour daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay.",
+          "4. The hidden cost of convenience\n\nSubscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay?",
+          "5. Your move\n\nList three tasks you'd pay for Siri to automate. If you wouldn't, tell Apple why on their feedback page."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple may charge for premium Siri features.",
+          "Free Siri stays basic, advanced tools cost.",
+          "Power users might pay monthly for upgrades.",
+          "This could change your daily workflow.",
+          "Decide if premium Siri is worth it."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱"
+      }
+    },
+    "instagram_caption": "Apple’s planning to put the smarter Siri behind a monthly subscription, while the basic version stays free.  \n\nThat means your voice assistant splits into two: simple commands cost nothing, but the advanced AI features Apple’s building for heavy users would require a recurring payment.  \n\nIf you lean on Siri for drafting, summarizing, or automating tasks, your workflow just gained a new line in the budget.  \n\nThink about your last week: which three Siri tasks would you actually pay for every month? If none, Apple’s feedback page is open. 🎙️💸📱",
+    "carousel_slides": [
+      {
+        "hook": "Will Siri cost you?",
+        "description": "Apple may split Siri into free and paid tiers. Advanced AI features could land behind a monthly subscription, changing how you use your iPhone.",
+        "visual_hint": "Siri logo with dollar sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "iphone with dollar sign"
+      },
+      {
+        "hook": "What's free, what's not?",
+        "description": "Basic Siri stays free, but the smarter, more useful AI tools for power users could require a recurring fee. Simple tasks remain, deep work costs.",
+        "visual_hint": "Split screen: basic vs premium",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "split screen smartphone",
+        "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A tale of two Siri's",
+        "description": "Your daily workflow could shift: basic Siri for simple tasks, premium Siri for deep work—if you're willing to pay. The split changes how you rely on it.",
+        "visual_hint": "Two paths diverging",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden cost of convenience",
+        "description": "Subscription fees add up fast, especially for those who rely on Siri for productivity. Is the upgrade worth the yearly outlay? Consider your budget.",
+        "visual_hint": "Subscription fee increasing graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "rising graph coins",
+        "image": "https://images.pexels.com/photos/7173049/pexels-photo-7173049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your move—save this for later",
+        "description": "List three tasks you'd pay for Siri to automate. If none, tell Apple on their feedback page. Decide if premium Siri fits your budget.",
+        "visual_hint": "Notepad with list and question mark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notepad checklist",
+        "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+    "savedAt": "2026-07-31T17:21:35.508Z",
+    "sourceId": "02a679ae68f91e74af14cd8ea3cec3bc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "snapchat-no-longer-rewards-fully-ai-generated-spot",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "pubDate": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "slides": [
+      "Creators relied on AI for Spotlight, but now what?",
+      "Snapchat changes its reward system for Spotlight posts.",
+      "Fully AI-generated clips no longer qualify for bonuses.",
+      "Authentic, human-created content now gets prioritized instead.",
+      "Review your strategy: blend human creativity with AI tools now."
+    ],
+    "thread_text": [
+      "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+      "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+      "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+      "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+      "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+    ],
+    "video_script": [
+      "Snapchat changed its Spotlight rewards.",
+      "Fully AI clips no longer get bonuses.",
+      "They now favor real human content.",
+      "You need to blend AI and creativity.",
+      "Test a hybrid post this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI Creators Left in the Dust\n\nSnapchat's new reward system quietly disqualifies fully AI-generated Spotlight clips from bonuses.",
+          "2. The New Spotlight Rules\n\nAuthentic, human-created content now gets priority in the algorithm, shifting the platform's focus.",
+          "3. Why the Sudden Shift?\n\nSnapchat is likely reacting to audience fatigue with AI slop, pushing creators back to originality.",
+          "4. The Hybrid Advantage\n\nCreators blending AI tools with human creativity are now the ones most likely to qualify for rewards.",
+          "5. Time to Rethink Your Workflow\n\nTest a human-edited AI draft on your next Spotlight post this week. Does it earn more than pure AI?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Snapchat changed its Spotlight rewards.",
+          "Fully AI clips no longer get bonuses.",
+          "They now favor real human content.",
+          "You need to blend AI and creativity.",
+          "Test a hybrid post this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results."
+      }
+    },
+    "instagram_caption": "Snapchat just stopped paying for fully AI-made Spotlight clips.\n\nThe bonus program now skips 100% AI-generated posts, favoring human-made ones. Creators who leaned on automation are cut off, while the algorithm pushes authentic work 📉.\n\nIf you used pure AI for Spotlight, your earnings likely drop to zero. But hybrid content—AI drafts with human editing—still qualifies ✂️.\n\nWhat’s your next post: pure AI, or a human-AI mix? Run one test this week and compare results.",
+    "carousel_slides": [
+      {
+        "hook": "AI content no longer pays?",
+        "description": "Snapchat's new reward system disqualifies fully AI-generated Spotlight clips from bonuses. Creators relying on AI must pivot quickly.",
+        "visual_hint": "Broken robot with dollar sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken robot"
+      },
+      {
+        "hook": "Authentic content takes priority now",
+        "description": "Human-created content now gets prioritized by the algorithm, shifting the platform's focus toward originality and away from AI slop.",
+        "visual_hint": "Algorithm spotlight on human",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "spotlight stage",
+        "image": "https://images.pexels.com/photos/1110085/pexels-photo-1110085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why the sudden shift?",
+        "description": "Snapchat is reacting to audience fatigue with AI-generated content, pushing creators back to genuine, human-driven creativity.",
+        "visual_hint": "Audience yawning at screens",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "crowd looking phones",
+        "image": "https://images.pexels.com/photos/10163476/pexels-photo-10163476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Win with a hybrid approach",
+        "description": "Creators blending AI tools with human creativity are now most likely to qualify for rewards. Combine efficiency with authenticity.",
+        "visual_hint": "Human hand touching AI circuit",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand circuit board",
+        "image": "https://images.pexels.com/photos/7285969/pexels-photo-7285969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to rethink your workflow",
+        "description": "Test a human-edited AI draft on your next Spotlight post this week. Compare engagement vs pure AI. Adapt now.",
+        "visual_hint": "Checklist with AI and human icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+    "savedAt": "2026-07-31T17:21:21.967Z",
+    "sourceId": "1539977fb10636407bec914c9bd7cc6e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "smallest-ai-raises-13m-to-build-ultra-fast-voice-a",
     "prompt_version": "1.0.0",
     "status": "published",
