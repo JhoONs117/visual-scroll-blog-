@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "repeat-founder-ryan-williams-raises-10m-seed-for-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+    "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+    "pubDate": "Fri, 31 Jul 2026 12:00:00 +0000",
+    "slides": [
+      "Ryan Williams raised $10M—can AI fix private credit?",
+      "His new startup targets funds managing billions.",
+      "Most private credit tech still runs on spreadsheets.",
+      "This AI automates manual underwriting and monitoring.",
+      "Test it on one deal before trusting workflows."
+    ],
+    "thread_text": [
+      "1. Can AI fix private credit?\n\nRyan Williams just raised $10M for a startup targeting funds that manage billions—where tech still runs on spreadsheets.",
+      "2. Billions, but spreadsheets\n\nMost private credit tech hasn't evolved past manual entries, making underwriting slow and error-prone.",
+      "3. AI takes the manual out\n\nHis startup automates underwriting and monitoring, replacing the hands-on grunt work with algorithms.",
+      "4. Trust but verify\n\nThey suggest testing it on one deal first—proving the workflow before fully committing to automation.",
+      "5. Test it yourself\n\nGot a manual process holding you back? Run one real deal through an AI tool this week and compare the time."
+    ],
+    "video_script": [
+      "Ryan Williams raised ten million for AI.",
+      "Private credit funds manage billions on spreadsheets.",
+      "His startup automates underwriting and monitoring.",
+      "Start by testing on one deal.",
+      "Trust the workflow before scaling up."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can AI fix private credit?\n\nRyan Williams just raised $10M for a startup targeting funds that manage billions—where tech still runs on spreadsheets.",
+          "2. Billions, but spreadsheets\n\nMost private credit tech hasn't evolved past manual entries, making underwriting slow and error-prone.",
+          "3. AI takes the manual out\n\nHis startup automates underwriting and monitoring, replacing the hands-on grunt work with algorithms.",
+          "4. Trust but verify\n\nThey suggest testing it on one deal first—proving the workflow before fully committing to automation.",
+          "5. Test it yourself\n\nGot a manual process holding you back? Run one real deal through an AI tool this week and compare the time."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ryan Williams raised ten million for AI.",
+          "Private credit funds manage billions on spreadsheets.",
+          "His startup automates underwriting and monitoring.",
+          "Start by testing on one deal.",
+          "Trust the workflow before scaling up."
+        ]
+      },
+      "instagram": {
+        "caption": "$10M just landed on a startup that wants to drag private credit out of the spreadsheet era. 📊\n\nRyan Williams is betting AI can replace the manual underwriting and monitoring that funds managing billions still do by hand. The pitch: let the algorithm handle the grunt work—but test it on a single deal before you trust it with your whole workflow.\n\nIf you're in content, the shift is the same: the tool proves itself on one real project, not a demo. 📁\n\nWhat's one repetitive task you'd let AI try on your next deadline? ⏱️"
+      }
+    },
+    "instagram_caption": "$10M just landed on a startup that wants to drag private credit out of the spreadsheet era. 📊\n\nRyan Williams is betting AI can replace the manual underwriting and monitoring that funds managing billions still do by hand. The pitch: let the algorithm handle the grunt work—but test it on a single deal before you trust it with your whole workflow.\n\nIf you're in content, the shift is the same: the tool proves itself on one real project, not a demo. 📁\n\nWhat's one repetitive task you'd let AI try on your next deadline? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Spreadsheets still run private credit?",
+        "description": "Ryan Williams raised $10M to fix the $1.5T private credit market, where most funds still rely on manual spreadsheets.",
+        "visual_hint": "Spreadsheet with AI overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "spreadsheet computer screen"
+      },
+      {
+        "hook": "Billions managed, tech still manual",
+        "description": "His startup targets funds managing billions, but their underwriting and monitoring processes remain slow and error-prone due to manual data entry.",
+        "visual_hint": "Money vs. typewriter",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack of money",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI replaces manual underwriting grunt",
+        "description": "The AI automates underwriting and monitoring, replacing tedious manual work with algorithms, making the process faster and more accurate.",
+        "visual_hint": "Robot hand typing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust, but verify the AI workflow",
+        "description": "They advise testing the AI on one deal first, proving the workflow before fully automating—reducing risk and building confidence.",
+        "visual_hint": "Checklist with magnifier",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test AI on your deals",
+        "description": "Pick one manual underwriting process this week and compare the time. Comment your result or DM for the link.",
+        "visual_hint": "Save button with timer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch on desk",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ryan-Williams.jpg?resize=1200,616",
+    "savedAt": "2026-07-31T13:43:09.162Z",
+    "sourceId": "d75e47df0c088a09f0c999795250042e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "friend-re-launches-its-ai-pendant-with-a-speaker-t",
     "prompt_version": "1.0.0",
     "status": "published",

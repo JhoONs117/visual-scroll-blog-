@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-eoliana",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata eoliana",
+    "link": "https://ricette.giallozafferano.it/Insalata-eoliana.html",
+    "pubDate": "Fri, 31 Jul 2026 11:28:00 +0200",
+    "content": "Insalata eoliana con patate, tonno, pomodori e capperi: la ricetta originale fresca e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata eoliana /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 415,1 Calorie per porzione Energia Kcal 415,1 Carboidrati g 42,5 &nbsp;&nbsp;di cui zuccheri g 5,6 Proteine g 27,2 Grassi g 15,2 &nbsp;&nbsp;di cui saturi g 2,5 Fibre g 6,2 Colesterolo mg 13,5 Sodio mg 598,1 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Senza lattosio Dieta Mediterranea Difficoltà: Facile Preparazione: 20 min Cottura: 40 min Dosi per: 4 persone Costo: Basso Nota più il tempo di raffreddamento PRESENTAZIONE L' insalata eoliana racchiude in un unico piatto i profumi e i sapori autentici delle Isole Eolie, l'arcipelago siciliano patrimonio UNESCO che affascina per i suoi paesaggi vulcanici e la sua straordinaria tradizione gastronomica. Nata da una cucina semplice e legata alla stagionalità, questa ricetta valorizza ingredienti tipici del territorio mediterraneo come patate, pomodori maturi, tonno, olive, capperi o cucunci, esaltati dall'aroma dell'origano e da un generoso filo di olio extravergine d'oliva. Il risultato è un piatto fresco, genuino e ricco di gusto, perfetto da preparare durante la bella stagione come piatto unico, antipasto o contorno. Facile da realizzare e ideale anche da gustare dopo qualche ora di riposo, l'insalata eoliana porta in tavola tutta l'essenza della cucina delle Eolie, fatta di materie prime di qualità, sapori intensi e ricette tramandate nel tempo. Ecco altre insalate a base di patate da non perdere: Insalata di patate al verde Insalata pantesca Insalata di patate e cetrioli Insalata Shirazi Insalata di ceci e tonno Insalata di patate e tonno Insalata alla ligure Insalata di patate, fagiolini, tonno e uova INGREDIENTI 415,1 Calorie per porzione Patate grandi 4 Pomodori piccadilly 400 g Aceto di vino bianco 100 g Tonno sott'olio sgocciolato 300 g Cipolle rosse &frac12; Olive taggiasche 40 g Frutti di cappero 20 g Origano q.b. Sale fino q.b. Olio extravergine d'oliva q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata eoliana Per preparare l'insalata eoliana come prima cosa lavate accuratamente le patate e cuocetele in abbondante acqua leggermente salata 1 fino a quando risulteranno morbide infilzandole con i rebbi di una forchetta. Ci vorranno circa 40 minuti. Nel frattempo sbucciate la cipolla rossa, affettatela finemente a julienne 2 e trasferitela in una ciotola. Copritela con aceto di vino bianco 3 . Aggiungete un pizzico di sale 4 e lasciatela riposare per almeno 10 minuti. Questo passaggio contribuirà ad attenuarne il sapore e a renderla più delicata. Trascorso il tempo di riposo, scolatela accuratamente. Non appena saranno morbide scolate le patate, lasciatele intiepidire quel tanto che basta per poterle maneggiare facilmente, quindi eliminate la buccia 5 e tagliatele a cubetti piuttosto grandi 6 . Lavate i pomodori piccadilly, asciugateli e tagliateli a metà 7 . Sgocciolate con cura i filetti di tonno dall'olio di conservazione e trasferiteli in una ciotola capiente 8 . Aggiungete poi anche la cipolla 9 . Unite le olive, i cucunci 10 , i pomodori e le patate 11 . Condite con abbondante origano 12 . Aggiungete il sale 13 , il pepe nero macinato e un giro d'olio abbondante 14 . Mescolate delicatamente con due cucchiai per non rompere le patate 15 . Lasciate insaporire qualche minuto prima di portare l'insalata eoliana in tavola, o preparatela in anticipo e trasferitela in frigorifero. Al momento di servirla impiattatela 16 , aggiungete ancora un po' di origano e un filo d'olio 17 . L'insalata eoliana è pronta 18 ! Conservazione L'insalata eoliana si conserva in frigorifero, all'interno di un contenitore ermetico, per un massimo di 2 giorni. Prima di servirla, lasciatela a temperatura ambiente per circa 15-20 minuti e mescolatela delicatamente. Si sconsiglia la congelazione. Consiglio Per ottenere un risultato migliore utilizzate patate a pasta gialla, che mantengono bene la consistenza anche dopo la cottura. Aggiungete del basilico fresco e se lo amate anche del peperoncino a rondelle! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Patate Tonno Olive in salamoia Olio di oliva Origano Cipolla Scopri tutto sugli ingredienti Presente in: Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Crostata ai mirtilli con crema al formaggio Pasta ceci e zucchine 5.0 Insalata eoliana 5.0 Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata eoliana fresca con patate, tonno e capperi.",
+      "Patate, tonno, pomodori, capperi, olive taggiasche.",
+      "Affetta la cipolla e lasciala riposare nell’aceto.",
+      "Unisci tutto e condisci con origano e olio.",
+      "Impiatta con origano fresco e un filo d’olio."
+    ],
+    "instagram_caption": "C’è un’isola intera in questo piatto, e si sente dal primo morso. 🏝️\n\nPatate tenere che abbracciano il tonno, pomodori maturi, capperi che spingono e olive taggiasche che sanno di mare. La cipolla rossa? Affettata sottile e lasciata appassire nell’aceto, per toglierle quel carattere troppo deciso e regalarle una dolcezza che ti sorprende. Poi origano, olio buono e via, in un mix che sa di vacanza, di pranzo all’ombra di un muro di pietra bianca.\n\nL’ho impiattata con una pioggia di origano fresco e un filo d’olio a crudo, perché certe cose semplici vanno solo accarezzate. 🌿\n\nProvala stasera, chiudi gli occhi e sei a Stromboli. 🍅✨",
+    "formats": {
+      "instagram": {
+        "caption": "C’è un’isola intera in questo piatto, e si sente dal primo morso. 🏝️\n\nPatate tenere che abbracciano il tonno, pomodori maturi, capperi che spingono e olive taggiasche che sanno di mare. La cipolla rossa? Affettata sottile e lasciata appassire nell’aceto, per toglierle quel carattere troppo deciso e regalarle una dolcezza che ti sorprende. Poi origano, olio buono e via, in un mix che sa di vacanza, di pranzo all’ombra di un muro di pietra bianca.\n\nL’ho impiattata con una pioggia di origano fresco e un filo d’olio a crudo, perché certe cose semplici vanno solo accarezzate. 🌿\n\nProvala stasera, chiudi gli occhi e sei a Stromboli. 🍅✨"
+      },
+      "tiktok": {
+        "script": [
+          "Facciamo l'insalata eoliana, che freschezza!",
+          "Metto patate, tonno, pomodorini e capperi.",
+          "Affetto la cipolla e la lascio nell'aceto.",
+          "Unisco tutto con olive, origano e un filo d'olio.",
+          "Impiatto con origano fresco. Che bontà!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Stiamo parlando dell'insalata che sa di mare, di terra e di sole: l'insalata eoliana. Patate, tonno, capperi e olive taggiasche. Se non l'hai mai provata, stai per innamorarti. 🍋",
+          "Il segreto è nei contrasti: patate bollite (non troppo tenere), tonno di qualità, pomodorini maturi. Aggiungi capperi e olive taggiasche per quella nota salmastra che rende tutto più vivo.",
+          "Il gesto che fa la differenza? Affetta la cipolla sottile e lasciala riposare 10 minuti nell'aceto: perde la sua forza e diventa dolce, quasi croccante. Non saltare mai questo passaggio.",
+          "Unisci tutto: patate, tonno, pomodori, capperi, olive e la cipolla scolata. Condisci con origano e olio extravergine. Lascia riposare 15 minuti: il sapore si sposa e diventa qualcosa di unico nel suo genere.",
+          "Impiatta con origano fresco e un filo d'olio a crudo. È un piatto che sa di vacanza, ma fatto in 20 minuti. Provala e dimmi com'è andata: ti giuro che non ne uscirai più. 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Facciamo l'insalata eoliana, che freschezza!",
+      "Metto patate, tonno, pomodorini e capperi.",
+      "Affetto la cipolla e la lascio nell'aceto.",
+      "Unisco tutto con olive, origano e un filo d'olio.",
+      "Impiatto con origano fresco. Che bontà!"
+    ],
+    "thread_text": [
+      "Stiamo parlando dell'insalata che sa di mare, di terra e di sole: l'insalata eoliana. Patate, tonno, capperi e olive taggiasche. Se non l'hai mai provata, stai per innamorarti. 🍋",
+      "Il segreto è nei contrasti: patate bollite (non troppo tenere), tonno di qualità, pomodorini maturi. Aggiungi capperi e olive taggiasche per quella nota salmastra che rende tutto più vivo.",
+      "Il gesto che fa la differenza? Affetta la cipolla sottile e lasciala riposare 10 minuti nell'aceto: perde la sua forza e diventa dolce, quasi croccante. Non saltare mai questo passaggio.",
+      "Unisci tutto: patate, tonno, pomodori, capperi, olive e la cipolla scolata. Condisci con origano e olio extravergine. Lascia riposare 15 minuti: il sapore si sposa e diventa qualcosa di unico nel suo genere.",
+      "Impiatta con origano fresco e un filo d'olio a crudo. È un piatto che sa di vacanza, ma fatto in 20 minuti. Provala e dimmi com'è andata: ti giuro che non ne uscirai più. 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Insalata eoliana: fresca e saporita",
+        "description": "Un'insalata estiva completa: patate, tonno e capperi per un pranzo leggero ma appagante.",
+        "visual_hint": "Ciotola colorata con tonno",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "eolian potato tuna salad"
+      },
+      {
+        "hook": "Ingredienti semplici, gusto unico",
+        "description": "Patate, tonno, pomodori, capperi e olive taggiasche: il Mediterraneo in una ciotola.",
+        "visual_hint": "Primo piano ingredienti freschi",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fresh tuna capers tomatoes",
+        "image": "https://images.pexels.com/photos/36183157/pexels-photo-36183157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il trucco della cipolla",
+        "description": "Affetta la cipolla e lasciala riposare nell'aceto per renderla dolce e delicata.",
+        "visual_hint": "Cipolla affettata nell'aceto",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sliced onion vinegar",
+        "image": "https://images.pexels.com/photos/7020295/pexels-photo-7020295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unisci e condisci",
+        "description": "Mescola tutti gli ingredienti con origano e un filo d'olio extravergine d'oliva.",
+        "visual_hint": "Manos che condiscono l'insalata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing salad bowl hands",
+        "image": "https://images.pexels.com/photos/32056055/pexels-photo-32056055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Impiatta e delizia",
+        "description": "Servi con origano fresco e un ultimo filo d'olio a crudo. Pronta da gustare!",
+        "visual_hint": "Piatto impiattato con origano",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory tuna salad plated",
+        "image": "https://images.pexels.com/photos/19859350/pexels-photo-19859350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "tonno",
+      "capperi",
+      "patate"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36506/Insalata-eoliana_650x433_wm.jpg",
+    "savedAt": "2026-07-31T13:48:13.363Z",
+    "sourceId": "85b0dc1bbdfa02724b6939158a881fa2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "pasta-ceci-e-zucchine",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta ceci e zucchine",
+    "link": "https://ricette.giallozafferano.it/Pasta-ceci-e-zucchine.html",
+    "pubDate": "Fri, 31 Jul 2026 11:32:00 +0200",
+    "content": "Pasta ceci e zucchine cremosa: ricetta facile e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta ceci e zucchine /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 20 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta ceci e zucchine è una variante di stagione della classica pasta e ceci, arricchita con verdure fresche e un tocco gourmet! Le zucchine incontrano i legumi in un primo piatto leggero e nutriente , che si prepara nel tempo in cui cuoce la pasta, grazie all’utilizzo dei ceci precotti . Ciò che rende questa ricetta irresistibile è una crema vellutata a base di zucchine, basilico e pinoli che lega insieme gli ingredienti con la sua consistenza avvolgente. I pinoli tostati contrastano con la loro nota croccante, mentre il peperoncino aggiunge un pizzico di vivacità. Ottima da gustare sia calda che a temperatura ambiente, la pasta ceci e zucchine è un piatto vegetariano perfetto sia come salvacena sia come pranzo per l’ufficio, ma si presta benissimo ad essere servito anche nelle occasioni più formali… la bella figura è assicurata! Scoprite altre sfiziose varianti della pasta e ceci : Spaghetti con zucchine, ceci e menta Spaghetti integrali con crema di avocado e ceci croccanti Pasta con crema di ceci e rucola Pasta con crema di ceci e peperoni INGREDIENTI Fusilli 320 g Zucchine 400 g Ceci precotti (peso sgocciolato) 200 g Pinoli 50 g Basilico 30 g Parmigiano Reggiano DOP 30 g Aglio 1 spicchio Peperoncino secco 2 Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta ceci e zucchine Per preparare la pasta ceci e zucchine, per prima cosa spuntate le zucchine e tagliatele grossolanamente a cubetti 1 . In una padella fate insaporire un giro d’olio con l’aglio e i peperoncini secchi 2 , poi aggiungete le zucchine 3 . Rosolate a fuoco medio-alto per una decina di minuti, fino a doratura. Prelevate un paio di cucchiaiate di zucchine cotte 4 , trasferitele in un boccale 5 e tenete momentaneamente da parte. Unite i ceci precotti alle zucchine rimaste nella padella 6 e proseguite la cottura a fiamma vivace per qualche minuto. A fine cottura, eliminate l’aglio e il peperoncino 7 e regolate di sale 8 . Tenete da parte e tostate i pinoli in un’altra padella 9 . Portate a bollore una pentola di acqua salata e cuocete i fusilli al dente 10 . Nel frattempo riprendete il boccale con le zucchine, aggiungete le foglie di basilico 11 e 30 g di olio 12 . Unite il Parmigiano Reggiano grattugiato 13 e 30 g di pinoli tostati 14 , poi versate poca acqua 15 . Frullate con un mixer a immersione per ottenere una crema omogenea 16 . Intanto la pasta sarà cotta, quindi scolatela nella padella con i ceci le zucchine 17 . Unite la crema di zucchine al basilico e amalgamate delicatamente il tutto 18 . Mantecate con un filo d’olio 19 e una macinata di pepe 20 , poi date un’ultima mescolata 21 . Impiattate e guarnite con i pinoli rimanenti 22 e qualche fogliolina di basilico 23 . La vostra pasta ceci e zucchine è pronta per essere servita, calda o tiepida 24 ! Conservazione La pasta ceci e zucchine si può conservare in frigorifero per 2 giorni. Consiglio Se desiderate, potete aromatizzare la pasta ceci e zucchine con una grattugiata di scorza di limone come tocco finale. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Basilico Aglio Ceci Pasta Olio di oliva Peperoncino Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta ceci e zucchine 5.0 Insalata eoliana 5.0 Linguine al pesto di lattuga 5.0 SCOPRI Pasta e ceci alla romana Pasta zucchine e tonno Pasta e ceci alla napoletana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Crema vellutata di zucchine, basilico e pinoli",
+      "Fusilli, zucchine, ceci precotti, pinoli, basilico",
+      "Frulla zucchine con basilico e parmigiano",
+      "Amalgama la crema con pasta e ceci",
+      "Guarnisci con pinoli tostati e basilico"
+    ],
+    "instagram_caption": "Questa pasta è un abbraccio verde, cremoso e irresistibile. 🌿\n\nUna vellutata di zucchine, basilico fresco e pinoli che avvolge i fusilli insieme ai ceci: un equilibrio perfetto tra dolcezza e gusto pieno. La finitura con i pinoli tostati croccanti fa la differenza, credimi.\n\nSemplice da preparare ma con un risultato che sembra da ristorante, è il piatto perfetto per portare freschezza e bontà in tavola senza rinunciare alla sostanza. Il parmigiano che si scioglie nella crema? Una nuvola di sapore.\n\nProvala questo weekend e fammi sapere! 🍝✨",
+    "formats": {
+      "instagram": {
+        "caption": "Questa pasta è un abbraccio verde, cremoso e irresistibile. 🌿\n\nUna vellutata di zucchine, basilico fresco e pinoli che avvolge i fusilli insieme ai ceci: un equilibrio perfetto tra dolcezza e gusto pieno. La finitura con i pinoli tostati croccanti fa la differenza, credimi.\n\nSemplice da preparare ma con un risultato che sembra da ristorante, è il piatto perfetto per portare freschezza e bontà in tavola senza rinunciare alla sostanza. Il parmigiano che si scioglie nella crema? Una nuvola di sapore.\n\nProvala questo weekend e fammi sapere! 🍝✨"
+      },
+      "tiktok": {
+        "script": [
+          "Frullo le zucchine col basilico, che velluto!",
+          "Butto i fusilli con zucchine e ceci, dai.",
+          "Aggiungo i pinoli e il parmigiano, senti che profumo.",
+          "Verso la crema nella pasta, mescolo tutto.",
+          "Pinoli tostati sopra, basilico e si mangia!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "C'è chi la chiama pasta dell'estate, chi la chiama abbraccio invernale. Io la chiamo la mia ossessione: fusilli con crema vellutata di zucchine, ceci croccanti e pinoli tostati. Una forchettata e non torni più indietro. 🍝",
+          "Partiamo dalla crema: zucchine fresche, basilico e una manciata di pinoli frullati con parmigiano. Diventa una vellutata liscia, profumata, che sa già di meraviglia. Intanto butti i fusilli in acqua bollente salata: al dente, sempre.",
+          "I ceci precotti sono i tuoi migliori amici: li scaldi in padella con un filo d'olio, un pizzico di sale e pepe. Quando la pasta è pronta, la mantechi direttamente nella crema di zucchine, aggiungendo un mestolo di acqua di cottura per amalgamare il tutto.",
+          "Aggiungi i ceci caldi e le zucchine a cubetti saltate in padella — sì, quelle che hai tenuto da parte, fanno la differenza. Mescola con energia: la crema deve avvolgere ogni fusillo, i ceci devono perdersi tra i solchi della pasta.",
+          "Trucco finale: tosta i pinoli in padella a secco per 2 minuti, finché non profumano. Guarnisci con basilico fresco e una spolverata di parmigiano. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Frullo le zucchine col basilico, che velluto!",
+      "Butto i fusilli con zucchine e ceci, dai.",
+      "Aggiungo i pinoli e il parmigiano, senti che profumo.",
+      "Verso la crema nella pasta, mescolo tutto.",
+      "Pinoli tostati sopra, basilico e si mangia!"
+    ],
+    "thread_text": [
+      "C'è chi la chiama pasta dell'estate, chi la chiama abbraccio invernale. Io la chiamo la mia ossessione: fusilli con crema vellutata di zucchine, ceci croccanti e pinoli tostati. Una forchettata e non torni più indietro. 🍝",
+      "Partiamo dalla crema: zucchine fresche, basilico e una manciata di pinoli frullati con parmigiano. Diventa una vellutata liscia, profumata, che sa già di meraviglia. Intanto butti i fusilli in acqua bollente salata: al dente, sempre.",
+      "I ceci precotti sono i tuoi migliori amici: li scaldi in padella con un filo d'olio, un pizzico di sale e pepe. Quando la pasta è pronta, la mantechi direttamente nella crema di zucchine, aggiungendo un mestolo di acqua di cottura per amalgamare il tutto.",
+      "Aggiungi i ceci caldi e le zucchine a cubetti saltate in padella — sì, quelle che hai tenuto da parte, fanno la differenza. Mescola con energia: la crema deve avvolgere ogni fusillo, i ceci devono perdersi tra i solchi della pasta.",
+      "Trucco finale: tosta i pinoli in padella a secco per 2 minuti, finché non profumano. Guarnisci con basilico fresco e una spolverata di parmigiano. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa senza panna",
+        "description": "La crema vellutata di zucchine e basilico avvolge i fusilli con ceci in un piatto unico, fresco e saporito.",
+        "visual_hint": "Piatto fumante in stile rustico",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy zucchini pasta savory"
+      },
+      {
+        "hook": "4 ingredienti, un sapore unico",
+        "description": "Fusilli, zucchine fresche, ceci precotti e pinoli: la combinazione perfetta tra cremosità, consistenza e croccantezza.",
+        "visual_hint": "Ingredienti disposti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "pasta ingredients zucchini chickpeas",
+        "image": "https://images.pexels.com/photos/5966151/pexels-photo-5966151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto? La crema",
+        "description": "Frulla le zucchine con basilico e parmigiano fino a ottenere una vellutata liscia e profumata, pronta ad avvolgere la pasta.",
+        "visual_hint": "Frullatore con crema verde",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blending zucchini cream",
+        "image": "https://images.pexels.com/photos/18265289/pexels-photo-18265289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Un amalgama perfetto",
+        "description": "Manteca i fusilli nella crema con i ceci: il calore aiuta a far assorbire il condimento e a creare l'effetto vellutato.",
+        "visual_hint": "Pasta mista nel tegame",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing pasta pan creamy",
+        "image": "https://images.pexels.com/photos/37726962/pexels-photo-37726962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale croccante",
+        "description": "Impiatta generosamente e guarnisci con pinoli tostati e basilico fresco: il contrasto croccante esalta ogni boccone.",
+        "visual_hint": "Piatto guarnito con erbe e pinoli",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "plated pasta pine nuts basil",
+        "image": "https://images.pexels.com/photos/9249364/pexels-photo-9249364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "zucchine",
+      "ceci",
+      "pinoli"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36505/Pasta-ceci-e-zucchine_650x433_wm.jpg",
+    "savedAt": "2026-07-31T13:47:53.739Z",
+    "sourceId": "fb8f60cb97185703622e1b3ba4ad8792"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-integrale-con-alici-pomodorini-e-scorza-di-l",
     "prompt_version": "1.0.0",
     "status": "published",
