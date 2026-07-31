@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "reddit-reports-a-solid-quarter-but-shows-signs-of-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "slides": [
+        "Reddit's quarter beats forecasts, but why the dip?",
+        "AI tools are pulling users away from search.",
+        "Ads on the platform still grew at double digits.",
+        "Your content strategy must adapt to AI-driven traffic.",
+        "Test posting original insights instead of rehashed threads."
+      ],
+      "thread_text": [
+        "1. The dip behind the beat\n\nReddit beat earnings, yet the stock fell. The market is signaling something beyond the numbers.",
+        "2. Search is losing the habit\n\nUsers are now turning to AI tools for answers, skipping traditional search engines entirely.",
+        "3. Ads still growing fast\n\nDespite the shift, Reddit's ad revenue grew double digits. Advertisers aren't panicking yet.",
+        "4. Traffic is changing shape\n\nAI-driven traffic looks different: shorter visits, more specific queries. Your content needs to match that intent.",
+        "5. Test original insights now\n\nPost one original insight this week, not a rehashed thread. Watch the response. Does it outperform? Try it."
+      ],
+      "video_script": [
+        "Reddit beat expectations but stock dipped.",
+        "People now ask AI instead of searching.",
+        "Ads still grew double digits though.",
+        "Your content must match AI-driven traffic.",
+        "Try posting one original insight today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The dip behind the beat\n\nReddit beat earnings, yet the stock fell. The market is signaling something beyond the numbers.",
+            "2. Search is losing the habit\n\nUsers are now turning to AI tools for answers, skipping traditional search engines entirely.",
+            "3. Ads still growing fast\n\nDespite the shift, Reddit's ad revenue grew double digits. Advertisers aren't panicking yet.",
+            "4. Traffic is changing shape\n\nAI-driven traffic looks different: shorter visits, more specific queries. Your content needs to match that intent.",
+            "5. Test original insights now\n\nPost one original insight this week, not a rehashed thread. Watch the response. Does it outperform? Try it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Reddit beat expectations but stock dipped.",
+            "People now ask AI instead of searching.",
+            "Ads still grew double digits though.",
+            "Your content must match AI-driven traffic.",
+            "Try posting one original insight today."
+          ]
+        },
+        "instagram": {
+          "caption": "Reddit beat earnings, but the stock still dropped. Investors saw something the numbers didn't show.\n\nPeople are skipping Google and asking AI tools directly for answers. That shift is already reshaping how traffic reaches Reddit—shorter visits, sharper questions.\n\nAds still grew double digits, so the money isn't gone. But the habit of \"searching\" is fading.\n\nFor you, this means content engineered for old search intent is losing ground. Rehashed threads won't cut it anymore. Post one original insight this week, something only you can write from experience. Watch what happens. 📉\n\nWhat did you notice first—the dip or the missed search habit? 🤔"
+        }
+      },
+      "instagram_caption": "Reddit beat earnings, but the stock still dropped. Investors saw something the numbers didn't show.\n\nPeople are skipping Google and asking AI tools directly for answers. That shift is already reshaping how traffic reaches Reddit—shorter visits, sharper questions.\n\nAds still grew double digits, so the money isn't gone. But the habit of \"searching\" is fading.\n\nFor you, this means content engineered for old search intent is losing ground. Rehashed threads won't cut it anymore. Post one original insight this week, something only you can write from experience. Watch what happens. 📉\n\nWhat did you notice first—the dip or the missed search habit? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Billions in revenue, yet stock falls",
+          "description": "Reddit beat earnings, but the stock dropped. Market sees beyond the numbers: AI is reshaping how users find answers.",
+          "visual_hint": "Stock chart with red arrow down",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Is search losing its habit?",
+          "description": "Users now ask AI tools directly, skipping search engines. This shift changes where your audience finds you.",
+          "visual_hint": "AI chatbot interface with search bar fading",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "AI chatbot interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ad revenue still grows double digits",
+          "description": "Despite the traffic shift, Reddit's ads grew fast. Advertisers stay calm, but you must adapt your strategy now.",
+          "visual_hint": "Rising bar graph with ad icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rising bar graph",
+          "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI traffic changes everything",
+          "description": "AI-driven visits are shorter, with specific queries. Your content must match that intent or lose the attention.",
+          "visual_hint": "Hand holding phone with analytics",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try an original insight this week",
+          "description": "Post one fresh opinion, not a rehashed thread. Watch if it outperforms. Save this to test the idea.",
+          "visual_hint": "Lightbulb icon with test tube",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "lightbulb idea",
+          "image": "https://images.pexels.com/photos/716398/pexels-photo-716398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
+      "savedAt": "2026-07-31T05:35:09.263Z",
+      "sourceId": "93cb0df58a6ec7c80d16ed160cb1da3d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-hedge-fund-situational-awareness-may-have-sold-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "slides": [
+        "Situational Awareness dumped its public stocks—but why?",
+        "The hedge fund still holds a private Anthropic stake.",
+        "Most AI funds sold Anthropic shares months ago.",
+        "This retained stake could signal deeper strategic insight.",
+        "Watch their next filing for hidden clues."
+      ],
+      "thread_text": [
+        "1. Why the sudden dump?\n\nSituational Awareness sold its public AI stocks, but kept a private Anthropic stake. The market didn't see this coming.",
+        "2. The private play\n\nMost AI funds offloaded Anthropic shares months ago. This fund's retained stake suggests a different strategy than the crowd.",
+        "3. Insider signal?\n\nHolding Anthropic while dumping the rest might signal deeper insight into the startup's trajectory. Or it's just a hedge.",
+        "4. The twist\n\nTheir next filing could reveal whether this is conviction or caution. Watch for clues in the fine print.",
+        "5. Your move now\n\nCheck the latest 13F filings for any AI fund. See if they're holding or dumping. What does it tell you?"
+      ],
+      "video_script": [
+        "They sold public AI stocks, kept Anthropic.",
+        "Most funds sold Anthropic months ago. They didn't.",
+        "That private stake might signal deeper insight.",
+        "Watch their next filing for hidden clues.",
+        "What will you do with this info?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why the sudden dump?\n\nSituational Awareness sold its public AI stocks, but kept a private Anthropic stake. The market didn't see this coming.",
+            "2. The private play\n\nMost AI funds offloaded Anthropic shares months ago. This fund's retained stake suggests a different strategy than the crowd.",
+            "3. Insider signal?\n\nHolding Anthropic while dumping the rest might signal deeper insight into the startup's trajectory. Or it's just a hedge.",
+            "4. The twist\n\nTheir next filing could reveal whether this is conviction or caution. Watch for clues in the fine print.",
+            "5. Your move now\n\nCheck the latest 13F filings for any AI fund. See if they're holding or dumping. What does it tell you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "They sold public AI stocks, kept Anthropic.",
+            "Most funds sold Anthropic months ago. They didn't.",
+            "That private stake might signal deeper insight.",
+            "Watch their next filing for hidden clues.",
+            "What will you do with this info?"
+          ]
+        },
+        "instagram": {
+          "caption": "One fund just pulled all its public AI stocks—but quietly kept its private stake in Anthropic. 🧐\n\nMost AI-focused funds sold their Anthropic shares months ago. Situational Awareness did the opposite: dumped the public portfolio, held the private position. That divergence isn't random—it suggests they see more value in the startup's private trajectory than in the listed market right now.\n\nTheir next regulatory filing could reveal whether this is long-term conviction or a tactical hedge. 👀\n\nFor anyone tracking AI investments, this is a sign to watch private stakes, not just tickers, when judging how smart money actually moves.\n\nWhat does your portfolio say about where you think AI's real value lives right now? 💭"
+        }
+      },
+      "instagram_caption": "One fund just pulled all its public AI stocks—but quietly kept its private stake in Anthropic. 🧐\n\nMost AI-focused funds sold their Anthropic shares months ago. Situational Awareness did the opposite: dumped the public portfolio, held the private position. That divergence isn't random—it suggests they see more value in the startup's private trajectory than in the listed market right now.\n\nTheir next regulatory filing could reveal whether this is long-term conviction or a tactical hedge. 👀\n\nFor anyone tracking AI investments, this is a sign to watch private stakes, not just tickers, when judging how smart money actually moves.\n\nWhat does your portfolio say about where you think AI's real value lives right now? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Why did they sell everything?",
+          "description": "The hedge fund dumped its public portfolio, but kept Anthropic shares—a move the market didn't see coming.",
+          "visual_hint": "Piles of documents, one glowing folder",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office desk documents"
+        },
+        {
+          "hook": "The private play others missed",
+          "description": "Most AI funds sold Anthropic shares months ago, but this one retained its stake, signaling a different strategy.",
+          "visual_hint": "One chess piece standing apart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chess pieces closeup",
+          "image": "https://images.pexels.com/photos/4576333/pexels-photo-4576333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is this insider insight?",
+          "description": "Holding Anthropic while dumping everything else might reveal deeper knowledge of its trajectory—or just caution.",
+          "visual_hint": "Man with magnifying glass on documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The twist in the fine print",
+          "description": "Their next filing could tell if it's conviction or caution—watch for hidden clues in the details.",
+          "visual_hint": "Hand pointing at a highlighted clause",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing paper",
+          "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check their next move now",
+          "description": "Look up the latest 13F filings for any AI fund. See if they're holding or dumping—what does it tell you?",
+          "visual_hint": "Finger pressing a glowing save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "financial reports screen",
+          "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
+      "savedAt": "2026-07-31T05:34:54.933Z",
+      "sourceId": "fb6c910e2e05da4599050b5ed3357f28"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-stockpiles-inventory-as-it-braces-for-signif",
       "prompt_version": "1.0.0",
       "status": "published",

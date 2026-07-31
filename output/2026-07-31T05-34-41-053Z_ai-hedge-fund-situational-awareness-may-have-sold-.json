@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-hedge-fund-situational-awareness-may-have-sold-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+  "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+  "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+  "slides": [
+    "Situational Awareness dumped its public stocks—but why?",
+    "The hedge fund still holds a private Anthropic stake.",
+    "Most AI funds sold Anthropic shares months ago.",
+    "This retained stake could signal deeper strategic insight.",
+    "Watch their next filing for hidden clues."
+  ],
+  "thread_text": [
+    "1. Why the sudden dump?\n\nSituational Awareness sold its public AI stocks, but kept a private Anthropic stake. The market didn't see this coming.",
+    "2. The private play\n\nMost AI funds offloaded Anthropic shares months ago. This fund's retained stake suggests a different strategy than the crowd.",
+    "3. Insider signal?\n\nHolding Anthropic while dumping the rest might signal deeper insight into the startup's trajectory. Or it's just a hedge.",
+    "4. The twist\n\nTheir next filing could reveal whether this is conviction or caution. Watch for clues in the fine print.",
+    "5. Your move now\n\nCheck the latest 13F filings for any AI fund. See if they're holding or dumping. What does it tell you?"
+  ],
+  "video_script": [
+    "They sold public AI stocks, kept Anthropic.",
+    "Most funds sold Anthropic months ago. They didn't.",
+    "That private stake might signal deeper insight.",
+    "Watch their next filing for hidden clues.",
+    "What will you do with this info?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the sudden dump?\n\nSituational Awareness sold its public AI stocks, but kept a private Anthropic stake. The market didn't see this coming.",
+        "2. The private play\n\nMost AI funds offloaded Anthropic shares months ago. This fund's retained stake suggests a different strategy than the crowd.",
+        "3. Insider signal?\n\nHolding Anthropic while dumping the rest might signal deeper insight into the startup's trajectory. Or it's just a hedge.",
+        "4. The twist\n\nTheir next filing could reveal whether this is conviction or caution. Watch for clues in the fine print.",
+        "5. Your move now\n\nCheck the latest 13F filings for any AI fund. See if they're holding or dumping. What does it tell you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "They sold public AI stocks, kept Anthropic.",
+        "Most funds sold Anthropic months ago. They didn't.",
+        "That private stake might signal deeper insight.",
+        "Watch their next filing for hidden clues.",
+        "What will you do with this info?"
+      ]
+    },
+    "instagram": {
+      "caption": "One fund just pulled all its public AI stocks—but quietly kept its private stake in Anthropic. 🧐\n\nMost AI-focused funds sold their Anthropic shares months ago. Situational Awareness did the opposite: dumped the public portfolio, held the private position. That divergence isn't random—it suggests they see more value in the startup's private trajectory than in the listed market right now.\n\nTheir next regulatory filing could reveal whether this is long-term conviction or a tactical hedge. 👀\n\nFor anyone tracking AI investments, this is a sign to watch private stakes, not just tickers, when judging how smart money actually moves.\n\nWhat does your portfolio say about where you think AI's real value lives right now? 💭"
+    }
+  },
+  "instagram_caption": "One fund just pulled all its public AI stocks—but quietly kept its private stake in Anthropic. 🧐\n\nMost AI-focused funds sold their Anthropic shares months ago. Situational Awareness did the opposite: dumped the public portfolio, held the private position. That divergence isn't random—it suggests they see more value in the startup's private trajectory than in the listed market right now.\n\nTheir next regulatory filing could reveal whether this is long-term conviction or a tactical hedge. 👀\n\nFor anyone tracking AI investments, this is a sign to watch private stakes, not just tickers, when judging how smart money actually moves.\n\nWhat does your portfolio say about where you think AI's real value lives right now? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Why did they sell everything?",
+      "description": "The hedge fund dumped its public portfolio, but kept Anthropic shares—a move the market didn't see coming.",
+      "visual_hint": "Piles of documents, one glowing folder",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office desk documents"
+    },
+    {
+      "hook": "The private play others missed",
+      "description": "Most AI funds sold Anthropic shares months ago, but this one retained its stake, signaling a different strategy.",
+      "visual_hint": "One chess piece standing apart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chess pieces closeup",
+      "image": "https://images.pexels.com/photos/4576333/pexels-photo-4576333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is this insider insight?",
+      "description": "Holding Anthropic while dumping everything else might reveal deeper knowledge of its trajectory—or just caution.",
+      "visual_hint": "Man with magnifying glass on documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist in the fine print",
+      "description": "Their next filing could tell if it's conviction or caution—watch for hidden clues in the details.",
+      "visual_hint": "Hand pointing at a highlighted clause",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing paper",
+      "image": "https://images.pexels.com/photos/7821547/pexels-photo-7821547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check their next move now",
+      "description": "Look up the latest 13F filings for any AI fund. See if they're holding or dumping—what does it tell you?",
+      "visual_hint": "Finger pressing a glowing save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "financial reports screen",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
+  "savedAt": "2026-07-31T05:34:54.933Z",
+  "sourceId": "fb6c910e2e05da4599050b5ed3357f28"
+}
