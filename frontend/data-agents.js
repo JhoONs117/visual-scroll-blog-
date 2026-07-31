@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "smallest-ai-raises-13m-to-build-ultra-fast-voice-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
+      "slides": [
+        "Smallest.ai raised $13M. Why does voice AI still sound robotic?",
+        "Their model responds in under 200 milliseconds.",
+        "It mimics human pauses, not just words.",
+        "Your call center scripts won't work anymore.",
+        "Test their demo against your best agent."
+      ],
+      "thread_text": [
+        "1. The $13M bet\n\nVoice AI raised millions, yet your customers can still tell they're talking to a machine. That gap is the opening.",
+        "2. Under 200ms\n\nSmallest.ai's model cuts response time below the human threshold. The robotic lag disappears entirely.",
+        "3. Human pauses\n\nIt doesn't just spit words—it mimics natural silence. That changes how customers perceive the conversation.",
+        "4. Scripts are dead\n\nForget your call center flow. This AI adapts to the caller, not your pre-written prompts. Your training is obsolete.",
+        "5. Test it now\n\nPut your best agent against their demo this week. If the AI wins, what's your next move?"
+      ],
+      "video_script": [
+        "Thirteen million for voice AI.",
+        "Response under two hundred milliseconds.",
+        "It pauses like a human.",
+        "Call center scripts are finished.",
+        "Test it against your agent."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $13M bet\n\nVoice AI raised millions, yet your customers can still tell they're talking to a machine. That gap is the opening.",
+            "2. Under 200ms\n\nSmallest.ai's model cuts response time below the human threshold. The robotic lag disappears entirely.",
+            "3. Human pauses\n\nIt doesn't just spit words—it mimics natural silence. That changes how customers perceive the conversation.",
+            "4. Scripts are dead\n\nForget your call center flow. This AI adapts to the caller, not your pre-written prompts. Your training is obsolete.",
+            "5. Test it now\n\nPut your best agent against their demo this week. If the AI wins, what's your next move?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Thirteen million for voice AI.",
+            "Response under two hundred milliseconds.",
+            "It pauses like a human.",
+            "Call center scripts are finished.",
+            "Test it against your agent."
+          ]
+        },
+        "instagram": {
+          "caption": "You answer a customer in under 200 milliseconds, or they hear robotic lag. That's the new bar.\n\nSmallest.ai just raised $13M for a voice model that hits that threshold and mimics human pauses—silence included, not just words. It adapts to the caller on the fly.\n\nThat means your pre-written call center scripts don't map anymore. The AI doesn't follow your flow; it reads the person. Your training materials are already behind.\n\nFor anyone building voice agents or phone systems: the benchmark isn't \"sounds okay.\" It's beating your best human rep in a blind test. So run that test this week. Put your top agent against their demo—what does your customer experience actually lose? 🗣️⚡"
+        }
+      },
+      "instagram_caption": "You answer a customer in under 200 milliseconds, or they hear robotic lag. That's the new bar.\n\nSmallest.ai just raised $13M for a voice model that hits that threshold and mimics human pauses—silence included, not just words. It adapts to the caller on the fly.\n\nThat means your pre-written call center scripts don't map anymore. The AI doesn't follow your flow; it reads the person. Your training materials are already behind.\n\nFor anyone building voice agents or phone systems: the benchmark isn't \"sounds okay.\" It's beating your best human rep in a blind test. So run that test this week. Put your top agent against their demo—what does your customer experience actually lose? 🗣️⚡",
+      "carousel_slides": [
+        {
+          "hook": "Why does voice AI still sound robotic?",
+          "description": "Smallest.ai raised $13M to fix the gap. Their model responds in under 200ms, making conversations feel human.",
+          "visual_hint": "Robot head with human ear",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot head"
+        },
+        {
+          "hook": "Under 200ms—faster than you blink.",
+          "description": "The robotic lag disappears. Response time below the human threshold changes the feel of every call.",
+          "visual_hint": "Speedometer with needle at 200",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "speedometer gauge",
+          "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It mimics human pauses, not just words.",
+          "description": "Natural silence makes the conversation feel real. Customers perceive the difference instantly.",
+          "visual_hint": "Waveform with gaps",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your call center scripts are now obsolete.",
+          "description": "This AI adapts to the caller, not your pre-written prompts. Your training won't work anymore.",
+          "visual_hint": "Script paper with red X",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "crumpled paper",
+          "image": "https://images.pexels.com/photos/7927286/pexels-photo-7927286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it against your best agent today.",
+          "description": "Visit their demo this week. If the AI wins, what's your next move? Leave a comment below.",
+          "visual_hint": "Human vs AI battle shield",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chess pieces",
+          "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
+      "savedAt": "2026-07-31T15:56:00.335Z",
+      "sourceId": "eccb7dbefe541daf19795c0ab5c2963c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-aligns-safety-practices-with-eu-ai-act-s-gp",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+      "slides": [
+        "OpenAI's safety shift—will it satisfy EU regulators?",
+        "New tiered rules target only the most powerful models.",
+        "Their compliance plan reveals gaps in enforcement details.",
+        "Your AI tools may face stricter oversight and audits.",
+        "Assess your deployment against the code immediately."
+      ],
+      "thread_text": [
+        "1. EU regulators are watching\n\nOpenAI's shift may not pass EU scrutiny. The new tiered rules target only the most powerful models, leaving gaps for smaller ones.",
+        "2. Tiered rules explained\n\nOnly the biggest AI models face strict rules. Your smaller tools might slip through—but for how long?",
+        "3. The compliance gap\n\nEnforcement details are missing. How will audits actually work? Companies are left guessing.",
+        "4. Stricter oversight coming\n\nYour AI tools could face more audits and oversight. Prepare now or risk being caught off guard.",
+        "5. Assess your deployment now\n\nReview your AI against the new code today. Don't wait—start with your most critical use case."
+      ],
+      "video_script": [
+        "OpenAI's shift might not satisfy EU regulators.",
+        "Only the largest models face new rules.",
+        "Compliance plan lacks enforcement specifics.",
+        "Your AI tools could see stricter audits.",
+        "Check your deployment against the code now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. EU regulators are watching\n\nOpenAI's shift may not pass EU scrutiny. The new tiered rules target only the most powerful models, leaving gaps for smaller ones.",
+            "2. Tiered rules explained\n\nOnly the biggest AI models face strict rules. Your smaller tools might slip through—but for how long?",
+            "3. The compliance gap\n\nEnforcement details are missing. How will audits actually work? Companies are left guessing.",
+            "4. Stricter oversight coming\n\nYour AI tools could face more audits and oversight. Prepare now or risk being caught off guard.",
+            "5. Assess your deployment now\n\nReview your AI against the new code today. Don't wait—start with your most critical use case."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's shift might not satisfy EU regulators.",
+            "Only the largest models face new rules.",
+            "Compliance plan lacks enforcement specifics.",
+            "Your AI tools could see stricter audits.",
+            "Check your deployment against the code now."
+          ]
+        },
+        "instagram": {
+          "caption": "The EU’s new AI rules only hit the most powerful models—most tools you use daily aren’t covered yet. 🎯\n\nOpenAI just aligned its safety practices with the EU’s tiered AI Act, but the plan leaves enforcement vague. Audits are promised, but no one knows how they’ll actually run. Smaller models could slip through—for now.\n\nIf you build or publish with AI, expect more oversight on your bigger deployments, and soon. The gap won’t last.\n\nWhich of your current AI tools would fail a surprise audit tomorrow? ⏳ Check your most critical use case against the code this week."
+        }
+      },
+      "instagram_caption": "The EU’s new AI rules only hit the most powerful models—most tools you use daily aren’t covered yet. 🎯\n\nOpenAI just aligned its safety practices with the EU’s tiered AI Act, but the plan leaves enforcement vague. Audits are promised, but no one knows how they’ll actually run. Smaller models could slip through—for now.\n\nIf you build or publish with AI, expect more oversight on your bigger deployments, and soon. The gap won’t last.\n\nWhich of your current AI tools would fail a surprise audit tomorrow? ⏳ Check your most critical use case against the code this week.",
+      "carousel_slides": [
+        {
+          "hook": "Will your AI tools slip through?",
+          "description": "New EU rules target only the most powerful AI models, leaving smaller tools unregulated. But for how long? Gaps may close soon.",
+          "visual_hint": "Tiered pyramid with magnifying glass",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "EU flag building"
+        },
+        {
+          "hook": "Big AI models face strict rules",
+          "description": "Only the largest AI models must comply with new tiered obligations. Smaller tools remain unregulated—potentially creating a compliance blind spot.",
+          "visual_hint": "Scale balancing big and small AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enforcement details missing—why?",
+          "description": "OpenAI's compliance plan lacks clear audit procedures. Companies are left guessing how enforcement will actually work in practice.",
+          "visual_hint": "Question marks over audit documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "law books gavel",
+          "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stricter oversight is coming",
+          "description": "Your AI deployment may face increased audits and supervision. Without preparation, you risk non-compliance penalties and operational disruptions.",
+          "visual_hint": "Warning light over city skyline",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computers",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—audit your AI now",
+          "description": "Review your AI against the new code today. Start with your most critical use case to identify gaps early.",
+          "visual_hint": "Checklist with urgent clock",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2529185/pexels-photo-2529185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-31T15:55:47.795Z",
+      "sourceId": "8f73720a3a0d945b1e33ce98aebd62be"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "repeat-founder-ryan-williams-raises-10m-seed-for-a",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-aligns-safety-practices-with-eu-ai-act-s-gp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+  "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+  "pubDate": "Fri, 31 Jul 2026 15:04:25 +0000",
+  "slides": [
+    "OpenAI's safety shift—will it satisfy EU regulators?",
+    "New tiered rules target only the most powerful models.",
+    "Their compliance plan reveals gaps in enforcement details.",
+    "Your AI tools may face stricter oversight and audits.",
+    "Assess your deployment against the code immediately."
+  ],
+  "thread_text": [
+    "1. EU regulators are watching\n\nOpenAI's shift may not pass EU scrutiny. The new tiered rules target only the most powerful models, leaving gaps for smaller ones.",
+    "2. Tiered rules explained\n\nOnly the biggest AI models face strict rules. Your smaller tools might slip through—but for how long?",
+    "3. The compliance gap\n\nEnforcement details are missing. How will audits actually work? Companies are left guessing.",
+    "4. Stricter oversight coming\n\nYour AI tools could face more audits and oversight. Prepare now or risk being caught off guard.",
+    "5. Assess your deployment now\n\nReview your AI against the new code today. Don't wait—start with your most critical use case."
+  ],
+  "video_script": [
+    "OpenAI's shift might not satisfy EU regulators.",
+    "Only the largest models face new rules.",
+    "Compliance plan lacks enforcement specifics.",
+    "Your AI tools could see stricter audits.",
+    "Check your deployment against the code now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. EU regulators are watching\n\nOpenAI's shift may not pass EU scrutiny. The new tiered rules target only the most powerful models, leaving gaps for smaller ones.",
+        "2. Tiered rules explained\n\nOnly the biggest AI models face strict rules. Your smaller tools might slip through—but for how long?",
+        "3. The compliance gap\n\nEnforcement details are missing. How will audits actually work? Companies are left guessing.",
+        "4. Stricter oversight coming\n\nYour AI tools could face more audits and oversight. Prepare now or risk being caught off guard.",
+        "5. Assess your deployment now\n\nReview your AI against the new code today. Don't wait—start with your most critical use case."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's shift might not satisfy EU regulators.",
+        "Only the largest models face new rules.",
+        "Compliance plan lacks enforcement specifics.",
+        "Your AI tools could see stricter audits.",
+        "Check your deployment against the code now."
+      ]
+    },
+    "instagram": {
+      "caption": "The EU’s new AI rules only hit the most powerful models—most tools you use daily aren’t covered yet. 🎯\n\nOpenAI just aligned its safety practices with the EU’s tiered AI Act, but the plan leaves enforcement vague. Audits are promised, but no one knows how they’ll actually run. Smaller models could slip through—for now.\n\nIf you build or publish with AI, expect more oversight on your bigger deployments, and soon. The gap won’t last.\n\nWhich of your current AI tools would fail a surprise audit tomorrow? ⏳ Check your most critical use case against the code this week."
+    }
+  },
+  "instagram_caption": "The EU’s new AI rules only hit the most powerful models—most tools you use daily aren’t covered yet. 🎯\n\nOpenAI just aligned its safety practices with the EU’s tiered AI Act, but the plan leaves enforcement vague. Audits are promised, but no one knows how they’ll actually run. Smaller models could slip through—for now.\n\nIf you build or publish with AI, expect more oversight on your bigger deployments, and soon. The gap won’t last.\n\nWhich of your current AI tools would fail a surprise audit tomorrow? ⏳ Check your most critical use case against the code this week.",
+  "carousel_slides": [
+    {
+      "hook": "Will your AI tools slip through?",
+      "description": "New EU rules target only the most powerful AI models, leaving smaller tools unregulated. But for how long? Gaps may close soon.",
+      "visual_hint": "Tiered pyramid with magnifying glass",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "EU flag building"
+    },
+    {
+      "hook": "Big AI models face strict rules",
+      "description": "Only the largest AI models must comply with new tiered obligations. Smaller tools remain unregulated—potentially creating a compliance blind spot.",
+      "visual_hint": "Scale balancing big and small AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enforcement details missing—why?",
+      "description": "OpenAI's compliance plan lacks clear audit procedures. Companies are left guessing how enforcement will actually work in practice.",
+      "visual_hint": "Question marks over audit documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "law books gavel",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stricter oversight is coming",
+      "description": "Your AI deployment may face increased audits and supervision. Without preparation, you risk non-compliance penalties and operational disruptions.",
+      "visual_hint": "Warning light over city skyline",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers computers",
+      "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—audit your AI now",
+      "description": "Review your AI against the new code today. Start with your most critical use case to identify gaps early.",
+      "visual_hint": "Checklist with urgent clock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/2529185/pexels-photo-2529185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-31T15:55:47.795Z",
+  "sourceId": "8f73720a3a0d945b1e33ce98aebd62be"
+}

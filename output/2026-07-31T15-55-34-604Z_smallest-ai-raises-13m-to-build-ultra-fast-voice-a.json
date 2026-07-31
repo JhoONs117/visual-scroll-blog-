@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "smallest-ai-raises-13m-to-build-ultra-fast-voice-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+  "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+  "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
+  "slides": [
+    "Smallest.ai raised $13M. Why does voice AI still sound robotic?",
+    "Their model responds in under 200 milliseconds.",
+    "It mimics human pauses, not just words.",
+    "Your call center scripts won't work anymore.",
+    "Test their demo against your best agent."
+  ],
+  "thread_text": [
+    "1. The $13M bet\n\nVoice AI raised millions, yet your customers can still tell they're talking to a machine. That gap is the opening.",
+    "2. Under 200ms\n\nSmallest.ai's model cuts response time below the human threshold. The robotic lag disappears entirely.",
+    "3. Human pauses\n\nIt doesn't just spit words—it mimics natural silence. That changes how customers perceive the conversation.",
+    "4. Scripts are dead\n\nForget your call center flow. This AI adapts to the caller, not your pre-written prompts. Your training is obsolete.",
+    "5. Test it now\n\nPut your best agent against their demo this week. If the AI wins, what's your next move?"
+  ],
+  "video_script": [
+    "Thirteen million for voice AI.",
+    "Response under two hundred milliseconds.",
+    "It pauses like a human.",
+    "Call center scripts are finished.",
+    "Test it against your agent."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $13M bet\n\nVoice AI raised millions, yet your customers can still tell they're talking to a machine. That gap is the opening.",
+        "2. Under 200ms\n\nSmallest.ai's model cuts response time below the human threshold. The robotic lag disappears entirely.",
+        "3. Human pauses\n\nIt doesn't just spit words—it mimics natural silence. That changes how customers perceive the conversation.",
+        "4. Scripts are dead\n\nForget your call center flow. This AI adapts to the caller, not your pre-written prompts. Your training is obsolete.",
+        "5. Test it now\n\nPut your best agent against their demo this week. If the AI wins, what's your next move?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Thirteen million for voice AI.",
+        "Response under two hundred milliseconds.",
+        "It pauses like a human.",
+        "Call center scripts are finished.",
+        "Test it against your agent."
+      ]
+    },
+    "instagram": {
+      "caption": "You answer a customer in under 200 milliseconds, or they hear robotic lag. That's the new bar.\n\nSmallest.ai just raised $13M for a voice model that hits that threshold and mimics human pauses—silence included, not just words. It adapts to the caller on the fly.\n\nThat means your pre-written call center scripts don't map anymore. The AI doesn't follow your flow; it reads the person. Your training materials are already behind.\n\nFor anyone building voice agents or phone systems: the benchmark isn't \"sounds okay.\" It's beating your best human rep in a blind test. So run that test this week. Put your top agent against their demo—what does your customer experience actually lose? 🗣️⚡"
+    }
+  },
+  "instagram_caption": "You answer a customer in under 200 milliseconds, or they hear robotic lag. That's the new bar.\n\nSmallest.ai just raised $13M for a voice model that hits that threshold and mimics human pauses—silence included, not just words. It adapts to the caller on the fly.\n\nThat means your pre-written call center scripts don't map anymore. The AI doesn't follow your flow; it reads the person. Your training materials are already behind.\n\nFor anyone building voice agents or phone systems: the benchmark isn't \"sounds okay.\" It's beating your best human rep in a blind test. So run that test this week. Put your top agent against their demo—what does your customer experience actually lose? 🗣️⚡",
+  "carousel_slides": [
+    {
+      "hook": "Why does voice AI still sound robotic?",
+      "description": "Smallest.ai raised $13M to fix the gap. Their model responds in under 200ms, making conversations feel human.",
+      "visual_hint": "Robot head with human ear",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot head"
+    },
+    {
+      "hook": "Under 200ms—faster than you blink.",
+      "description": "The robotic lag disappears. Response time below the human threshold changes the feel of every call.",
+      "visual_hint": "Speedometer with needle at 200",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "speedometer gauge",
+      "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It mimics human pauses, not just words.",
+      "description": "Natural silence makes the conversation feel real. Customers perceive the difference instantly.",
+      "visual_hint": "Waveform with gaps",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your call center scripts are now obsolete.",
+      "description": "This AI adapts to the caller, not your pre-written prompts. Your training won't work anymore.",
+      "visual_hint": "Script paper with red X",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crumpled paper",
+      "image": "https://images.pexels.com/photos/7927286/pexels-photo-7927286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it against your best agent today.",
+      "description": "Visit their demo this week. If the AI wins, what's your next move? Leave a comment below.",
+      "visual_hint": "Human vs AI battle shield",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chess pieces",
+      "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
+  "savedAt": "2026-07-31T15:56:00.335Z",
+  "sourceId": "eccb7dbefe541daf19795c0ab5c2963c"
+}
