@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "here-s-the-problem-with-putting-an-ai-image-genera",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Here’s the problem with putting an AI image generator in Google Earth",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+  "pubDate": "2026-07-31T17:05:46.000Z",
+  "slides": [
+    "Why did Google put AI images in Earth?",
+    "It generates plausible landscapes that never existed.",
+    "But users can't always tell what is real.",
+    "Maps now mix fact with fiction silently.",
+    "Always cross-check satellite imagery before trusting."
+  ],
+  "thread_text": [
+    "1. The fake landscapes are real.\n\nGoogle's AI now generates fictional terrain for Google Earth, making users see places that don't exist on our planet.",
+    "2. Why this matters now.\n\nWith AI, maps can silently mix fact with fiction, and users can't easily tell what's real anymore.",
+    "3. The trust issue.\n\nWhen satellite imagery isn't always reliable, critical decisions based on maps become risky, from navigation to urban planning.",
+    "4. The hidden reality.\n\nYou might not know the image is AI-generated unless you cross-check with other sources, which most people rarely do.",
+    "5. Your move.\n\nBefore you trust any satellite image, open another map and compare. Does it match? If not, it might be fiction."
+  ],
+  "video_script": [
+    "Google Earth shows fake landscapes now.",
+    "AI makes places that never existed.",
+    "Users can't tell real from fake.",
+    "Maps mix truth with fiction silently.",
+    "Cross-check satellite images before you trust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The fake landscapes are real.\n\nGoogle's AI now generates fictional terrain for Google Earth, making users see places that don't exist on our planet.",
+        "2. Why this matters now.\n\nWith AI, maps can silently mix fact with fiction, and users can't easily tell what's real anymore.",
+        "3. The trust issue.\n\nWhen satellite imagery isn't always reliable, critical decisions based on maps become risky, from navigation to urban planning.",
+        "4. The hidden reality.\n\nYou might not know the image is AI-generated unless you cross-check with other sources, which most people rarely do.",
+        "5. Your move.\n\nBefore you trust any satellite image, open another map and compare. Does it match? If not, it might be fiction."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google Earth shows fake landscapes now.",
+        "AI makes places that never existed.",
+        "Users can't tell real from fake.",
+        "Maps mix truth with fiction silently.",
+        "Cross-check satellite images before you trust."
+      ]
+    },
+    "instagram": {
+      "caption": "You open Google Earth to check a place, and the mountains you’re staring at were invented by an algorithm.  \n\nThat’s what’s happening now: Google’s AI generates fictional terrain and drops it into the map. The images look convincing, but they never existed. You can’t tell the difference unless you already know.  \n\nSo maps are quietly mixing reality with plausible fiction 🗺️. For anyone publishing or planning with these visuals, that’s a risk: a route, a report, a real-estate decision built on a fake landscape.  \n\nNext time you see a satellite shot, open a second map and compare it 🛰️. Do the shapes match? If not, you’re looking at a ghost."
+    }
+  },
+  "instagram_caption": "You open Google Earth to check a place, and the mountains you’re staring at were invented by an algorithm.  \n\nThat’s what’s happening now: Google’s AI generates fictional terrain and drops it into the map. The images look convincing, but they never existed. You can’t tell the difference unless you already know.  \n\nSo maps are quietly mixing reality with plausible fiction 🗺️. For anyone publishing or planning with these visuals, that’s a risk: a route, a report, a real-estate decision built on a fake landscape.  \n\nNext time you see a satellite shot, open a second map and compare it 🛰️. Do the shapes match? If not, you’re looking at a ghost.",
+  "carousel_slides": [
+    {
+      "hook": "Is that real Earth?",
+      "description": "Google's AI now generates fictional terrain for Google Earth, creating landscapes that never existed anywhere on our planet — and most users can't tell the difference.",
+      "visual_hint": "Mountain ridges fading into polygons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mountain landscape"
+    },
+    {
+      "hook": "Maps silently mix fact and fiction.",
+      "description": "With AI, maps can now silently mix real satellite imagery with generated landscapes, making it hard for anyone to know what's actually there.",
+      "visual_hint": "Split-screen comparing real vs fake",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "satellite imagery earth",
+      "image": "https://images.pexels.com/photos/34031014/pexels-photo-34031014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust in maps is breaking.",
+      "description": "When satellite images aren't always reliable, critical decisions for navigation and urban planning become risky — and users can't easily verify what's real.",
+      "visual_hint": "Glitch effect on digital map",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "city map digital",
+      "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden reality: AI fakery",
+      "description": "You might not know an image is AI-generated unless you cross-check with other sources — but most people rarely do, leaving them exposed to silent misinformation.",
+      "visual_hint": "User zooming into map on phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trust maps.",
+      "description": "Before relying on any satellite image, open another map and compare the views. If they don't match, it might be AI fiction — not reality.",
+      "visual_hint": "Two map apps side by side",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "two smartphone maps",
+      "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-07-31T19:10:43.407Z",
+  "sourceId": "69dd96f680d9a356b1f3b96b7de56d50"
+}

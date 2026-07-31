@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sam-altman-isn-t-the-only-one-who-wants-to-pump-th",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+  "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+  "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+  "slides": [
+    "Who else wants to slow AI's breakneck pace?",
+    "OpenAI's rivals now echo Altman's safety warnings.",
+    "They quietly fund research proving AI's real dangers.",
+    "Your roadmap must include pause points, not just sprints.",
+    "Audit your AI roadmap for burnout risks now."
+  ],
+  "thread_text": [
+    "1. The quiet about-face\n\nOpenAI's rivals now fund research highlighting AI dangers, after years of downplaying them. Safety warnings are suddenly a shared language.",
+    "2. Why the shift now\n\nThese companies once raced to deploy. Now they're investing in studies that show real risks. The pivot isn't altruism—it's market timing.",
+    "3. The burnout blindspot\n\nYour AI roadmap likely lacks pause points. Sprinting past safety checkpoints isn't just reckless; it's a talent retention trap.",
+    "4. The cost of speed\n\nTeams burning out from relentless AI pushes produce worse models, more errors, and higher churn. Sustainability is a feature, not a luxury.",
+    "5. Audit your roadmap today\n\nList three AI initiatives. For each, add a mandatory 48-hour pause before rollout. Does that feel impossible? Then you're part of the problem."
+  ],
+  "video_script": [
+    "Rivals now echo AI safety warnings.",
+    "They fund research showing real dangers.",
+    "Your roadmap needs pause points now.",
+    "Burnout risks are hidden in speed.",
+    "Audit your AI plan today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The quiet about-face\n\nOpenAI's rivals now fund research highlighting AI dangers, after years of downplaying them. Safety warnings are suddenly a shared language.",
+        "2. Why the shift now\n\nThese companies once raced to deploy. Now they're investing in studies that show real risks. The pivot isn't altruism—it's market timing.",
+        "3. The burnout blindspot\n\nYour AI roadmap likely lacks pause points. Sprinting past safety checkpoints isn't just reckless; it's a talent retention trap.",
+        "4. The cost of speed\n\nTeams burning out from relentless AI pushes produce worse models, more errors, and higher churn. Sustainability is a feature, not a luxury.",
+        "5. Audit your roadmap today\n\nList three AI initiatives. For each, add a mandatory 48-hour pause before rollout. Does that feel impossible? Then you're part of the problem."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rivals now echo AI safety warnings.",
+        "They fund research showing real dangers.",
+        "Your roadmap needs pause points now.",
+        "Burnout risks are hidden in speed.",
+        "Audit your AI plan today."
+      ]
+    },
+    "instagram": {
+      "caption": "The same companies racing to sell you AI tools are now quietly funding research on how dangerous those tools are.  \n\nOpenAI’s biggest rivals spent years downplaying risk to win customers. Now they match Sam Altman’s warnings—because they’ve realized the market rewards caution, not just speed. Their studies show real harms, but the shift is about positioning, not altruism.  \n\nFor you, this means your content pipeline is likely missing mandatory stop signs. You’re sprinting checkpoints, not pacing them.  \n\nIf your team can’t add one 48-hour pause before release, you’re burning people out to ship broken things.  \n\nWhich of your three current AI initiatives can survive that pause this week? ⏸️🛑🧠"
+    }
+  },
+  "instagram_caption": "The same companies racing to sell you AI tools are now quietly funding research on how dangerous those tools are.  \n\nOpenAI’s biggest rivals spent years downplaying risk to win customers. Now they match Sam Altman’s warnings—because they’ve realized the market rewards caution, not just speed. Their studies show real harms, but the shift is about positioning, not altruism.  \n\nFor you, this means your content pipeline is likely missing mandatory stop signs. You’re sprinting checkpoints, not pacing them.  \n\nIf your team can’t add one 48-hour pause before release, you’re burning people out to ship broken things.  \n\nWhich of your three current AI initiatives can survive that pause this week? ⏸️🛑🧠",
+  "carousel_slides": [
+    {
+      "hook": "Who funds your AI fears?",
+      "description": "OpenAI's competitors quietly bankroll research exposing AI's dangers, after years of downplaying them. Their sudden safety talk isn't altruism—it's strategic positioning.",
+      "visual_hint": "Silhouette funding a giant brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "Why rivals echo safety warnings now?",
+      "description": "Once racing to deploy, these companies now invest in studies showing real AI risks. This pivot reflects market timing, not newfound ethics, reshaping the competitive landscape.",
+      "visual_hint": "Corporate hands shaking over data",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "corporate negotiation meeting",
+      "image": "https://images.pexels.com/photos/6289049/pexels-photo-6289049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your roadmap lacks pause points.",
+      "description": "Skipping safety checkpoints in AI development isn't just reckless—it's a talent retention trap. Teams burn out, produce worse models, and errors spike without mandatory breathers.",
+      "visual_hint": "Fragmented road with missing stops",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken road concrete",
+      "image": "https://images.pexels.com/photos/8891506/pexels-photo-8891506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed kills AI quality too.",
+      "description": "Relentless AI pushes cause burnout, leading to more errors and higher churn. Sustainability becomes a feature, not a luxury, for teams that want durable success.",
+      "visual_hint": "Exhausted hand pressing fast button",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI roadmap now.",
+      "description": "List three AI initiatives and add a mandatory 48-hour pause before each rollout. If that feels impossible, you're part of the problem. Save this as a checklist.",
+      "visual_hint": "Checklist with pause button highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-07-31T19:10:30.949Z",
+  "sourceId": "734a51283c78b111a88c3ae598618952"
+}

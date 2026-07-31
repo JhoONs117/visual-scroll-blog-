@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "it-s-time-to-panic-about-ai-safety",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "It’s time to panic about AI safety",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "pubDate": "2026-07-31T14:03:04.000Z",
+      "slides": [
+        "Why is AI safety suddenly an emergency now?",
+        "Systems now write code smarter than most engineers.",
+        "Yet no lab can explain how their models decide.",
+        "Your next deployment could inherit hidden dangerous behavior.",
+        "Demand audits before trusting any AI output."
+      ],
+      "thread_text": [
+        "1. The Emergency Isn't What You Think\n\nAI coding isn't the real threat—it's the invisible decision-making. No lab explains why a model picks one action over another.",
+        "2. The Code Paradox\n\nThese systems outperform engineers, yet fail basic logic puzzles. The gap between skill and understanding is growing.",
+        "3. Hidden Dangers\n\nA model can inherit biases or backdoors from training data, undetected until deployment. One bad choice could corrupt your entire system.",
+        "4. The Blind Spot\n\nNo current testing catches this. Standard benchmarks miss the erratic behavior that emerges in real-world scenarios.",
+        "5. Your Move\n\nBefore you deploy an AI, demand a public audit from the developer. If they can't provide one, do you trust your business to it?"
+      ],
+      "video_script": [
+        "AI safety emergency now.",
+        "Models write smarter code.",
+        "But no explanation why.",
+        "Hidden dangers in deployment.",
+        "Demand audits before trusting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Emergency Isn't What You Think\n\nAI coding isn't the real threat—it's the invisible decision-making. No lab explains why a model picks one action over another.",
+            "2. The Code Paradox\n\nThese systems outperform engineers, yet fail basic logic puzzles. The gap between skill and understanding is growing.",
+            "3. Hidden Dangers\n\nA model can inherit biases or backdoors from training data, undetected until deployment. One bad choice could corrupt your entire system.",
+            "4. The Blind Spot\n\nNo current testing catches this. Standard benchmarks miss the erratic behavior that emerges in real-world scenarios.",
+            "5. Your Move\n\nBefore you deploy an AI, demand a public audit from the developer. If they can't provide one, do you trust your business to it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI safety emergency now.",
+            "Models write smarter code.",
+            "But no explanation why.",
+            "Hidden dangers in deployment.",
+            "Demand audits before trusting."
+          ]
+        },
+        "instagram": {
+          "caption": "Your best engineer just got outperformed by a system nobody can explain. 🧠\n\nThese models write better code than most humans, yet fail basic logic puzzles. Worse: no lab can trace why a model makes a single decision. That gap between skill and understanding is where danger hides.\n\nA model can inherit biases or backdoors from training data, undetected until it's live in your project. One bad choice corrupts everything downstream.\n\nFor anyone shipping AI output: demand a public audit before you deploy. If the developer can't provide one, are you willing to bet your business on a black box? 🔍"
+        }
+      },
+      "instagram_caption": "Your best engineer just got outperformed by a system nobody can explain. 🧠\n\nThese models write better code than most humans, yet fail basic logic puzzles. Worse: no lab can trace why a model makes a single decision. That gap between skill and understanding is where danger hides.\n\nA model can inherit biases or backdoors from training data, undetected until it's live in your project. One bad choice corrupts everything downstream.\n\nFor anyone shipping AI output: demand a public audit before you deploy. If the developer can't provide one, are you willing to bet your business on a black box? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "No one can explain AI decisions.",
+          "description": "Even engineers don't know why AI chooses one action. Deploying blind could trigger hidden dangerous behavior.",
+          "visual_hint": "Opened coding screen, magnifying glass on source code",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer screen code"
+        },
+        {
+          "hook": "AI smarter than engineers?",
+          "description": "Systems write better code but fail basic logic puzzles. The gap between skill and understanding is growing fast.",
+          "visual_hint": "Robotic arm solving puzzle, question mark overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot arm puzzle",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your system could be corrupted.",
+          "description": "Models inherit hidden biases from training data. Undetected until deployment, one bad choice can wreck your system.",
+          "visual_hint": "Drop of ink spreading into a glass of water",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ink drop water",
+          "image": "https://images.pexels.com/photos/6402528/pexels-photo-6402528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Current tests won't catch it.",
+          "description": "Standard benchmarks miss erratic behavior in real-world scenarios. No testing catches these hidden dangers.",
+          "visual_hint": "Human hand over glowing warning light",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand warning light",
+          "image": "https://images.pexels.com/photos/3244372/pexels-photo-3244372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you deploy.",
+          "description": "Demand a public audit from any AI developer. If they can't provide one, don't trust your business to it.",
+          "visual_hint": "Hand holding a clipboard with checklist, pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-07-31T19:10:55.541Z",
+      "sourceId": "c898bed1eb8166b65e0d995db52cece8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "here-s-the-problem-with-putting-an-ai-image-genera",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "pubDate": "2026-07-31T17:05:46.000Z",
+      "slides": [
+        "Why did Google put AI images in Earth?",
+        "It generates plausible landscapes that never existed.",
+        "But users can't always tell what is real.",
+        "Maps now mix fact with fiction silently.",
+        "Always cross-check satellite imagery before trusting."
+      ],
+      "thread_text": [
+        "1. The fake landscapes are real.\n\nGoogle's AI now generates fictional terrain for Google Earth, making users see places that don't exist on our planet.",
+        "2. Why this matters now.\n\nWith AI, maps can silently mix fact with fiction, and users can't easily tell what's real anymore.",
+        "3. The trust issue.\n\nWhen satellite imagery isn't always reliable, critical decisions based on maps become risky, from navigation to urban planning.",
+        "4. The hidden reality.\n\nYou might not know the image is AI-generated unless you cross-check with other sources, which most people rarely do.",
+        "5. Your move.\n\nBefore you trust any satellite image, open another map and compare. Does it match? If not, it might be fiction."
+      ],
+      "video_script": [
+        "Google Earth shows fake landscapes now.",
+        "AI makes places that never existed.",
+        "Users can't tell real from fake.",
+        "Maps mix truth with fiction silently.",
+        "Cross-check satellite images before you trust."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The fake landscapes are real.\n\nGoogle's AI now generates fictional terrain for Google Earth, making users see places that don't exist on our planet.",
+            "2. Why this matters now.\n\nWith AI, maps can silently mix fact with fiction, and users can't easily tell what's real anymore.",
+            "3. The trust issue.\n\nWhen satellite imagery isn't always reliable, critical decisions based on maps become risky, from navigation to urban planning.",
+            "4. The hidden reality.\n\nYou might not know the image is AI-generated unless you cross-check with other sources, which most people rarely do.",
+            "5. Your move.\n\nBefore you trust any satellite image, open another map and compare. Does it match? If not, it might be fiction."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google Earth shows fake landscapes now.",
+            "AI makes places that never existed.",
+            "Users can't tell real from fake.",
+            "Maps mix truth with fiction silently.",
+            "Cross-check satellite images before you trust."
+          ]
+        },
+        "instagram": {
+          "caption": "You open Google Earth to check a place, and the mountains you’re staring at were invented by an algorithm.  \n\nThat’s what’s happening now: Google’s AI generates fictional terrain and drops it into the map. The images look convincing, but they never existed. You can’t tell the difference unless you already know.  \n\nSo maps are quietly mixing reality with plausible fiction 🗺️. For anyone publishing or planning with these visuals, that’s a risk: a route, a report, a real-estate decision built on a fake landscape.  \n\nNext time you see a satellite shot, open a second map and compare it 🛰️. Do the shapes match? If not, you’re looking at a ghost."
+        }
+      },
+      "instagram_caption": "You open Google Earth to check a place, and the mountains you’re staring at were invented by an algorithm.  \n\nThat’s what’s happening now: Google’s AI generates fictional terrain and drops it into the map. The images look convincing, but they never existed. You can’t tell the difference unless you already know.  \n\nSo maps are quietly mixing reality with plausible fiction 🗺️. For anyone publishing or planning with these visuals, that’s a risk: a route, a report, a real-estate decision built on a fake landscape.  \n\nNext time you see a satellite shot, open a second map and compare it 🛰️. Do the shapes match? If not, you’re looking at a ghost.",
+      "carousel_slides": [
+        {
+          "hook": "Is that real Earth?",
+          "description": "Google's AI now generates fictional terrain for Google Earth, creating landscapes that never existed anywhere on our planet — and most users can't tell the difference.",
+          "visual_hint": "Mountain ridges fading into polygons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "mountain landscape"
+        },
+        {
+          "hook": "Maps silently mix fact and fiction.",
+          "description": "With AI, maps can now silently mix real satellite imagery with generated landscapes, making it hard for anyone to know what's actually there.",
+          "visual_hint": "Split-screen comparing real vs fake",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "satellite imagery earth",
+          "image": "https://images.pexels.com/photos/34031014/pexels-photo-34031014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust in maps is breaking.",
+          "description": "When satellite images aren't always reliable, critical decisions for navigation and urban planning become risky — and users can't easily verify what's real.",
+          "visual_hint": "Glitch effect on digital map",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "city map digital",
+          "image": "https://images.pexels.com/photos/15949908/pexels-photo-15949908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden reality: AI fakery",
+          "description": "You might not know an image is AI-generated unless you cross-check with other sources — but most people rarely do, leaving them exposed to silent misinformation.",
+          "visual_hint": "User zooming into map on phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you trust maps.",
+          "description": "Before relying on any satellite image, open another map and compare the views. If they don't match, it might be AI fiction — not reality.",
+          "visual_hint": "Two map apps side by side",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "two smartphone maps",
+          "image": "https://images.pexels.com/photos/6169861/pexels-photo-6169861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-07-31T19:10:43.407Z",
+      "sourceId": "69dd96f680d9a356b1f3b96b7de56d50"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sam-altman-isn-t-the-only-one-who-wants-to-pump-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "slides": [
+        "Who else wants to slow AI's breakneck pace?",
+        "OpenAI's rivals now echo Altman's safety warnings.",
+        "They quietly fund research proving AI's real dangers.",
+        "Your roadmap must include pause points, not just sprints.",
+        "Audit your AI roadmap for burnout risks now."
+      ],
+      "thread_text": [
+        "1. The quiet about-face\n\nOpenAI's rivals now fund research highlighting AI dangers, after years of downplaying them. Safety warnings are suddenly a shared language.",
+        "2. Why the shift now\n\nThese companies once raced to deploy. Now they're investing in studies that show real risks. The pivot isn't altruism—it's market timing.",
+        "3. The burnout blindspot\n\nYour AI roadmap likely lacks pause points. Sprinting past safety checkpoints isn't just reckless; it's a talent retention trap.",
+        "4. The cost of speed\n\nTeams burning out from relentless AI pushes produce worse models, more errors, and higher churn. Sustainability is a feature, not a luxury.",
+        "5. Audit your roadmap today\n\nList three AI initiatives. For each, add a mandatory 48-hour pause before rollout. Does that feel impossible? Then you're part of the problem."
+      ],
+      "video_script": [
+        "Rivals now echo AI safety warnings.",
+        "They fund research showing real dangers.",
+        "Your roadmap needs pause points now.",
+        "Burnout risks are hidden in speed.",
+        "Audit your AI plan today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The quiet about-face\n\nOpenAI's rivals now fund research highlighting AI dangers, after years of downplaying them. Safety warnings are suddenly a shared language.",
+            "2. Why the shift now\n\nThese companies once raced to deploy. Now they're investing in studies that show real risks. The pivot isn't altruism—it's market timing.",
+            "3. The burnout blindspot\n\nYour AI roadmap likely lacks pause points. Sprinting past safety checkpoints isn't just reckless; it's a talent retention trap.",
+            "4. The cost of speed\n\nTeams burning out from relentless AI pushes produce worse models, more errors, and higher churn. Sustainability is a feature, not a luxury.",
+            "5. Audit your roadmap today\n\nList three AI initiatives. For each, add a mandatory 48-hour pause before rollout. Does that feel impossible? Then you're part of the problem."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rivals now echo AI safety warnings.",
+            "They fund research showing real dangers.",
+            "Your roadmap needs pause points now.",
+            "Burnout risks are hidden in speed.",
+            "Audit your AI plan today."
+          ]
+        },
+        "instagram": {
+          "caption": "The same companies racing to sell you AI tools are now quietly funding research on how dangerous those tools are.  \n\nOpenAI’s biggest rivals spent years downplaying risk to win customers. Now they match Sam Altman’s warnings—because they’ve realized the market rewards caution, not just speed. Their studies show real harms, but the shift is about positioning, not altruism.  \n\nFor you, this means your content pipeline is likely missing mandatory stop signs. You’re sprinting checkpoints, not pacing them.  \n\nIf your team can’t add one 48-hour pause before release, you’re burning people out to ship broken things.  \n\nWhich of your three current AI initiatives can survive that pause this week? ⏸️🛑🧠"
+        }
+      },
+      "instagram_caption": "The same companies racing to sell you AI tools are now quietly funding research on how dangerous those tools are.  \n\nOpenAI’s biggest rivals spent years downplaying risk to win customers. Now they match Sam Altman’s warnings—because they’ve realized the market rewards caution, not just speed. Their studies show real harms, but the shift is about positioning, not altruism.  \n\nFor you, this means your content pipeline is likely missing mandatory stop signs. You’re sprinting checkpoints, not pacing them.  \n\nIf your team can’t add one 48-hour pause before release, you’re burning people out to ship broken things.  \n\nWhich of your three current AI initiatives can survive that pause this week? ⏸️🛑🧠",
+      "carousel_slides": [
+        {
+          "hook": "Who funds your AI fears?",
+          "description": "OpenAI's competitors quietly bankroll research exposing AI's dangers, after years of downplaying them. Their sudden safety talk isn't altruism—it's strategic positioning.",
+          "visual_hint": "Silhouette funding a giant brain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "Why rivals echo safety warnings now?",
+          "description": "Once racing to deploy, these companies now invest in studies showing real AI risks. This pivot reflects market timing, not newfound ethics, reshaping the competitive landscape.",
+          "visual_hint": "Corporate hands shaking over data",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "corporate negotiation meeting",
+          "image": "https://images.pexels.com/photos/6289049/pexels-photo-6289049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your roadmap lacks pause points.",
+          "description": "Skipping safety checkpoints in AI development isn't just reckless—it's a talent retention trap. Teams burn out, produce worse models, and errors spike without mandatory breathers.",
+          "visual_hint": "Fragmented road with missing stops",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken road concrete",
+          "image": "https://images.pexels.com/photos/8891506/pexels-photo-8891506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed kills AI quality too.",
+          "description": "Relentless AI pushes cause burnout, leading to more errors and higher churn. Sustainability becomes a feature, not a luxury, for teams that want durable success.",
+          "visual_hint": "Exhausted hand pressing fast button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pressing button",
+          "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI roadmap now.",
+          "description": "List three AI initiatives and add a mandatory 48-hour pause before each rollout. If that feels impossible, you're part of the problem. Save this as a checklist.",
+          "visual_hint": "Checklist with pause button highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-07-31T19:10:30.949Z",
+      "sourceId": "734a51283c78b111a88c3ae598618952"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-major-labels-propose-rules-to-keep-ai-slop-off",
       "prompt_version": "1.0.0",
       "status": "published",

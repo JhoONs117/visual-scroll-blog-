@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "it-s-time-to-panic-about-ai-safety",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "It’s time to panic about AI safety",
+  "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+  "pubDate": "2026-07-31T14:03:04.000Z",
+  "slides": [
+    "Why is AI safety suddenly an emergency now?",
+    "Systems now write code smarter than most engineers.",
+    "Yet no lab can explain how their models decide.",
+    "Your next deployment could inherit hidden dangerous behavior.",
+    "Demand audits before trusting any AI output."
+  ],
+  "thread_text": [
+    "1. The Emergency Isn't What You Think\n\nAI coding isn't the real threat—it's the invisible decision-making. No lab explains why a model picks one action over another.",
+    "2. The Code Paradox\n\nThese systems outperform engineers, yet fail basic logic puzzles. The gap between skill and understanding is growing.",
+    "3. Hidden Dangers\n\nA model can inherit biases or backdoors from training data, undetected until deployment. One bad choice could corrupt your entire system.",
+    "4. The Blind Spot\n\nNo current testing catches this. Standard benchmarks miss the erratic behavior that emerges in real-world scenarios.",
+    "5. Your Move\n\nBefore you deploy an AI, demand a public audit from the developer. If they can't provide one, do you trust your business to it?"
+  ],
+  "video_script": [
+    "AI safety emergency now.",
+    "Models write smarter code.",
+    "But no explanation why.",
+    "Hidden dangers in deployment.",
+    "Demand audits before trusting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Emergency Isn't What You Think\n\nAI coding isn't the real threat—it's the invisible decision-making. No lab explains why a model picks one action over another.",
+        "2. The Code Paradox\n\nThese systems outperform engineers, yet fail basic logic puzzles. The gap between skill and understanding is growing.",
+        "3. Hidden Dangers\n\nA model can inherit biases or backdoors from training data, undetected until deployment. One bad choice could corrupt your entire system.",
+        "4. The Blind Spot\n\nNo current testing catches this. Standard benchmarks miss the erratic behavior that emerges in real-world scenarios.",
+        "5. Your Move\n\nBefore you deploy an AI, demand a public audit from the developer. If they can't provide one, do you trust your business to it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI safety emergency now.",
+        "Models write smarter code.",
+        "But no explanation why.",
+        "Hidden dangers in deployment.",
+        "Demand audits before trusting."
+      ]
+    },
+    "instagram": {
+      "caption": "Your best engineer just got outperformed by a system nobody can explain. 🧠\n\nThese models write better code than most humans, yet fail basic logic puzzles. Worse: no lab can trace why a model makes a single decision. That gap between skill and understanding is where danger hides.\n\nA model can inherit biases or backdoors from training data, undetected until it's live in your project. One bad choice corrupts everything downstream.\n\nFor anyone shipping AI output: demand a public audit before you deploy. If the developer can't provide one, are you willing to bet your business on a black box? 🔍"
+    }
+  },
+  "instagram_caption": "Your best engineer just got outperformed by a system nobody can explain. 🧠\n\nThese models write better code than most humans, yet fail basic logic puzzles. Worse: no lab can trace why a model makes a single decision. That gap between skill and understanding is where danger hides.\n\nA model can inherit biases or backdoors from training data, undetected until it's live in your project. One bad choice corrupts everything downstream.\n\nFor anyone shipping AI output: demand a public audit before you deploy. If the developer can't provide one, are you willing to bet your business on a black box? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "No one can explain AI decisions.",
+      "description": "Even engineers don't know why AI chooses one action. Deploying blind could trigger hidden dangerous behavior.",
+      "visual_hint": "Opened coding screen, magnifying glass on source code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen code"
+    },
+    {
+      "hook": "AI smarter than engineers?",
+      "description": "Systems write better code but fail basic logic puzzles. The gap between skill and understanding is growing fast.",
+      "visual_hint": "Robotic arm solving puzzle, question mark overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm puzzle",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your system could be corrupted.",
+      "description": "Models inherit hidden biases from training data. Undetected until deployment, one bad choice can wreck your system.",
+      "visual_hint": "Drop of ink spreading into a glass of water",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "ink drop water",
+      "image": "https://images.pexels.com/photos/6402528/pexels-photo-6402528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Current tests won't catch it.",
+      "description": "Standard benchmarks miss erratic behavior in real-world scenarios. No testing catches these hidden dangers.",
+      "visual_hint": "Human hand over glowing warning light",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand warning light",
+      "image": "https://images.pexels.com/photos/3244372/pexels-photo-3244372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you deploy.",
+      "description": "Demand a public audit from any AI developer. If they can't provide one, don't trust your business to it.",
+      "visual_hint": "Hand holding a clipboard with checklist, pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-07-31T19:10:55.541Z",
+  "sourceId": "c898bed1eb8166b65e0d995db52cece8"
+}
