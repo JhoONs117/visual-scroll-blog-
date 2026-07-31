@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fresh-off-its-wiz-payout-index-ventures-raises-2b-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+  "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+  "pubDate": "Fri, 31 Jul 2026 19:39:51 +0000",
+  "slides": [
+    "Index Ventures cashed out Wiz. Now what?",
+    "It secured $2B across three new funds.",
+    "This happened amid booming AI infrastructure exits.",
+    "More capital means sharper competition for top startups.",
+    "Founders should pitch Index before rivals deploy first."
+  ],
+  "thread_text": [
+    "1. The $2B Question\n\nIndex Ventures just closed $2B in new funds right after Wiz's mega-exit. What does that mean for you?",
+    "2. AI Exit Ripple\n\nThis capital lands as AI infrastructure exits boom, making Index a bigger player in the game.",
+    "3. The New Arms Race\n\nWith fresh funds, Index can outbid rivals for top startups—founders face sharper competition.",
+    "4. Timing Matters\n\nIf you're courting investors, pitch Index before they deploy elsewhere. Waiting could cost you.",
+    "5. Your Move\n\nHave you updated your pitch deck for Index's new focus? If not, do it this week."
+  ],
+  "video_script": [
+    "Index raised two billion dollars after Wiz cashed out.",
+    "AI exits are booming, fueling new funds.",
+    "More money means tougher startup competition.",
+    "Founders, pitch Index before they spend elsewhere.",
+    "Update your pitch deck now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $2B Question\n\nIndex Ventures just closed $2B in new funds right after Wiz's mega-exit. What does that mean for you?",
+        "2. AI Exit Ripple\n\nThis capital lands as AI infrastructure exits boom, making Index a bigger player in the game.",
+        "3. The New Arms Race\n\nWith fresh funds, Index can outbid rivals for top startups—founders face sharper competition.",
+        "4. Timing Matters\n\nIf you're courting investors, pitch Index before they deploy elsewhere. Waiting could cost you.",
+        "5. Your Move\n\nHave you updated your pitch deck for Index's new focus? If not, do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Index raised two billion dollars after Wiz cashed out.",
+        "AI exits are booming, fueling new funds.",
+        "More money means tougher startup competition.",
+        "Founders, pitch Index before they spend elsewhere.",
+        "Update your pitch deck now."
+      ]
+    },
+    "instagram": {
+      "caption": "$2B just hit Index Ventures’ war chest, right after their Wiz payday.\n\nThat cash is split across three new funds, and it’s landing exactly as AI infrastructure exits are booming. New money means they can now outbid rivals for the same startups you might be chasing.\n\nMore capital in their hands = sharper competition for top deals, and founders feeling the squeeze on valuation.\n\nThe practical shift for you: the window to get in front of them is narrower now, because they can move faster and deploy earlier.\n\nIf you’re actively fundraising, update your pitch to Index before the week ends, or they may already be committed elsewhere.\n\nWhat’s your angle to grab their attention before the war chest empties? 💰⚡️📉"
+    }
+  },
+  "instagram_caption": "$2B just hit Index Ventures’ war chest, right after their Wiz payday.\n\nThat cash is split across three new funds, and it’s landing exactly as AI infrastructure exits are booming. New money means they can now outbid rivals for the same startups you might be chasing.\n\nMore capital in their hands = sharper competition for top deals, and founders feeling the squeeze on valuation.\n\nThe practical shift for you: the window to get in front of them is narrower now, because they can move faster and deploy earlier.\n\nIf you’re actively fundraising, update your pitch to Index before the week ends, or they may already be committed elsewhere.\n\nWhat’s your angle to grab their attention before the war chest empties? 💰⚡️📉",
+  "carousel_slides": [
+    {
+      "hook": "Fresh billions after Wiz exit. Who gets funded next?",
+      "description": "Index Ventures raised $2B across three new funds right after Wiz's mega-exit. This capital will fuel aggressive investments, so early startups must act fast to capture attention.",
+      "visual_hint": "Money stacks with question mark overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cash stacks"
+    },
+    {
+      "hook": "AI exits boom — Index cashes in.",
+      "description": "The new funds land during a surge in AI infrastructure exits. Index becomes a bigger player, likely prioritizing high-growth AI startups over traditional picks.",
+      "visual_hint": "Rising chart with AI chip overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New arms race: outbidding rivals for top startups.",
+      "description": "With $2B in fresh capital, Index can outbid competitors for the most promising startups. Founders face sharper competition for funding and should prepare accordingly.",
+      "visual_hint": "Two fists colliding over startup skyline",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "boxing gloves",
+      "image": "https://images.pexels.com/photos/5580064/pexels-photo-5580064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pitch now — before the money moves elsewhere.",
+      "description": "Index's new funds will deploy quickly. If you're courting investors, pitch before they commit elsewhere; waiting could mean missing your window.",
+      "visual_hint": "Hourglass with coins flowing out",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — update your deck this week.",
+      "description": "Don't miss the opportunity. Refresh your pitch deck for Index's new focus on AI and infrastructure, and send it before their funds are fully allocated.",
+      "visual_hint": "Pencil signing document with calendar",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "writing desk",
+      "image": "https://images.pexels.com/photos/38545754/pexels-photo-38545754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/Index-Ventures-Nina-Achadjian-Shardul-Shah-2.jpg?w=1024",
+  "savedAt": "2026-07-31T20:55:47.948Z",
+  "sourceId": "cb1bcb635f10ca45adf9be521732d1e2"
+}

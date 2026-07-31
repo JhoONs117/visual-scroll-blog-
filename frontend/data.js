@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-earth-8217-s-ai-deepfake-tool-only-lasted-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "pubDate": "2026-07-31T19:13:29.000Z",
+    "slides": [
+      "Google's AI tool vanished in a day. Why?",
+      "It generated realistic satellite and street scenes.",
+      "Deepfake geography could fool even trained experts.",
+      "Maps you trust may soon need verification protocols.",
+      "Verify real-world imagery before acting on it."
+    ],
+    "thread_text": [
+      "1. Gone in 24 hours\n\nGoogle pulled its AI map tool after it produced flawless satellite images. The tech was too convincing.",
+      "2. Trained eyes fooled\n\nExperts couldn't spot the fakes. The generated streets matched real-world patterns down to shadows and angles.",
+      "3. Trust is the target\n\nIf maps can lie, navigation and urban planning break. Verification becomes the new standard before any action.",
+      "4. The deepfake map era\n\nSatellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+      "5. Test your map today\n\nOpen your favorite map app and check a remote area. Could you tell if it's AI-generated? Verify before you rely on it."
+    ],
+    "video_script": [
+      "Google's map AI vanished in a day.",
+      "It made fake satellite views perfectly.",
+      "Experts couldn't spot the difference.",
+      "Trust in maps now needs verification steps.",
+      "Always check real-world data before acting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Gone in 24 hours\n\nGoogle pulled its AI map tool after it produced flawless satellite images. The tech was too convincing.",
+          "2. Trained eyes fooled\n\nExperts couldn't spot the fakes. The generated streets matched real-world patterns down to shadows and angles.",
+          "3. Trust is the target\n\nIf maps can lie, navigation and urban planning break. Verification becomes the new standard before any action.",
+          "4. The deepfake map era\n\nSatellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+          "5. Test your map today\n\nOpen your favorite map app and check a remote area. Could you tell if it's AI-generated? Verify before you rely on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's map AI vanished in a day.",
+          "It made fake satellite views perfectly.",
+          "Experts couldn't spot the difference.",
+          "Trust in maps now needs verification steps.",
+          "Always check real-world data before acting."
+        ]
+      },
+      "instagram": {
+        "caption": "A map tool that produced flawless fake satellite images was pulled in 24 hours. Google’s own creation was too convincing. 🗺️\n\nExperts couldn’t tell the difference—shadows, angles, street layouts all matched reality. Trained eyes failed the test. If geography can be faked this well, every map you open becomes suspect. 🛰️\n\nFor anyone publishing location-based content: verification isn’t optional anymore. You need a way to prove an image is real before you use it.\n\nOpen your map app and zoom into a remote street. Could you spot the fabrication? Would you bet your next project on it? 🤔"
+      }
+    },
+    "instagram_caption": "A map tool that produced flawless fake satellite images was pulled in 24 hours. Google’s own creation was too convincing. 🗺️\n\nExperts couldn’t tell the difference—shadows, angles, street layouts all matched reality. Trained eyes failed the test. If geography can be faked this well, every map you open becomes suspect. 🛰️\n\nFor anyone publishing location-based content: verification isn’t optional anymore. You need a way to prove an image is real before you use it.\n\nOpen your map app and zoom into a remote street. Could you spot the fabrication? Would you bet your next project on it? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Could you spot a fake map?",
+        "description": "Google's AI tool produced flawless satellite images, fooling trained experts. The technology was too convincing and vanished in a day.",
+        "visual_hint": "AI map fading into question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "satellite image map"
+      },
+      {
+        "hook": "Even experts couldn't tell.",
+        "description": "Generated streets matched real-world patterns, including shadows and angles. Experts were fooled by deepfake geography.",
+        "visual_hint": "Satellite image with shadow details",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "aerial street view",
+        "image": "https://images.pexels.com/photos/20167762/pexels-photo-20167762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Maps can now lie.",
+        "description": "If navigation and urban planning rely on fake maps, everything breaks. Verification must become the new standard before any action.",
+        "visual_hint": "Navigation app with glitch overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "city map navigation",
+        "image": "https://images.pexels.com/photos/8555066/pexels-photo-8555066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deepfake maps are here.",
+        "description": "Satellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+        "visual_hint": "Satellite image being altered",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hologram earth digital",
+        "image": "https://images.pexels.com/photos/35344688/pexels-photo-35344688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before it's gone.",
+        "description": "Open your favorite map app, check a remote area. Could you tell if it's AI-generated? Verify before you rely on it.",
+        "visual_hint": "Finger tapping verify button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "verification checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&amp;strip=all&amp;crop=0%2C3.4325160264718%2C100%2C93.134967947056&amp;w=1200",
+    "savedAt": "2026-07-31T20:56:01.152Z",
+    "sourceId": "a4ce4a17368dfbec161e76fb5f40c525"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fresh-off-its-wiz-payout-index-ventures-raises-2b-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+    "pubDate": "Fri, 31 Jul 2026 19:39:51 +0000",
+    "slides": [
+      "Index Ventures cashed out Wiz. Now what?",
+      "It secured $2B across three new funds.",
+      "This happened amid booming AI infrastructure exits.",
+      "More capital means sharper competition for top startups.",
+      "Founders should pitch Index before rivals deploy first."
+    ],
+    "thread_text": [
+      "1. The $2B Question\n\nIndex Ventures just closed $2B in new funds right after Wiz's mega-exit. What does that mean for you?",
+      "2. AI Exit Ripple\n\nThis capital lands as AI infrastructure exits boom, making Index a bigger player in the game.",
+      "3. The New Arms Race\n\nWith fresh funds, Index can outbid rivals for top startups—founders face sharper competition.",
+      "4. Timing Matters\n\nIf you're courting investors, pitch Index before they deploy elsewhere. Waiting could cost you.",
+      "5. Your Move\n\nHave you updated your pitch deck for Index's new focus? If not, do it this week."
+    ],
+    "video_script": [
+      "Index raised two billion dollars after Wiz cashed out.",
+      "AI exits are booming, fueling new funds.",
+      "More money means tougher startup competition.",
+      "Founders, pitch Index before they spend elsewhere.",
+      "Update your pitch deck now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $2B Question\n\nIndex Ventures just closed $2B in new funds right after Wiz's mega-exit. What does that mean for you?",
+          "2. AI Exit Ripple\n\nThis capital lands as AI infrastructure exits boom, making Index a bigger player in the game.",
+          "3. The New Arms Race\n\nWith fresh funds, Index can outbid rivals for top startups—founders face sharper competition.",
+          "4. Timing Matters\n\nIf you're courting investors, pitch Index before they deploy elsewhere. Waiting could cost you.",
+          "5. Your Move\n\nHave you updated your pitch deck for Index's new focus? If not, do it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Index raised two billion dollars after Wiz cashed out.",
+          "AI exits are booming, fueling new funds.",
+          "More money means tougher startup competition.",
+          "Founders, pitch Index before they spend elsewhere.",
+          "Update your pitch deck now."
+        ]
+      },
+      "instagram": {
+        "caption": "$2B just hit Index Ventures’ war chest, right after their Wiz payday.\n\nThat cash is split across three new funds, and it’s landing exactly as AI infrastructure exits are booming. New money means they can now outbid rivals for the same startups you might be chasing.\n\nMore capital in their hands = sharper competition for top deals, and founders feeling the squeeze on valuation.\n\nThe practical shift for you: the window to get in front of them is narrower now, because they can move faster and deploy earlier.\n\nIf you’re actively fundraising, update your pitch to Index before the week ends, or they may already be committed elsewhere.\n\nWhat’s your angle to grab their attention before the war chest empties? 💰⚡️📉"
+      }
+    },
+    "instagram_caption": "$2B just hit Index Ventures’ war chest, right after their Wiz payday.\n\nThat cash is split across three new funds, and it’s landing exactly as AI infrastructure exits are booming. New money means they can now outbid rivals for the same startups you might be chasing.\n\nMore capital in their hands = sharper competition for top deals, and founders feeling the squeeze on valuation.\n\nThe practical shift for you: the window to get in front of them is narrower now, because they can move faster and deploy earlier.\n\nIf you’re actively fundraising, update your pitch to Index before the week ends, or they may already be committed elsewhere.\n\nWhat’s your angle to grab their attention before the war chest empties? 💰⚡️📉",
+    "carousel_slides": [
+      {
+        "hook": "Fresh billions after Wiz exit. Who gets funded next?",
+        "description": "Index Ventures raised $2B across three new funds right after Wiz's mega-exit. This capital will fuel aggressive investments, so early startups must act fast to capture attention.",
+        "visual_hint": "Money stacks with question mark overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cash stacks"
+      },
+      {
+        "hook": "AI exits boom — Index cashes in.",
+        "description": "The new funds land during a surge in AI infrastructure exits. Index becomes a bigger player, likely prioritizing high-growth AI startups over traditional picks.",
+        "visual_hint": "Rising chart with AI chip overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New arms race: outbidding rivals for top startups.",
+        "description": "With $2B in fresh capital, Index can outbid competitors for the most promising startups. Founders face sharper competition for funding and should prepare accordingly.",
+        "visual_hint": "Two fists colliding over startup skyline",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "boxing gloves",
+        "image": "https://images.pexels.com/photos/5580064/pexels-photo-5580064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pitch now — before the money moves elsewhere.",
+        "description": "Index's new funds will deploy quickly. If you're courting investors, pitch before they commit elsewhere; waiting could mean missing your window.",
+        "visual_hint": "Hourglass with coins flowing out",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — update your deck this week.",
+        "description": "Don't miss the opportunity. Refresh your pitch deck for Index's new focus on AI and infrastructure, and send it before their funds are fully allocated.",
+        "visual_hint": "Pencil signing document with calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "writing desk",
+        "image": "https://images.pexels.com/photos/38545754/pexels-photo-38545754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Index-Ventures-Nina-Achadjian-Shardul-Shah-2.jpg?w=1024",
+    "savedAt": "2026-07-31T20:55:47.948Z",
+    "sourceId": "cb1bcb635f10ca45adf9be521732d1e2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-nixes-its-earth-ai-feature-one-day-after-la",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+    "slides": [
+      "Why did Google kill Earth AI within a day?",
+      "Launch promised satellite answers, then vanished",
+      "Misinformation fears came from its own training data",
+      "Your project must verify AI outputs like newsrooms",
+      "Audit every AI feature before shipping it public"
+    ],
+    "thread_text": [
+      "1. Vanished in 24 hours\n\nGoogle's Earth AI promised satellite answers, then disappeared within a day. No explanation, no post-mortem, just gone.",
+      "2. Trained on its own lies\n\nInternal audits linked the AI's misinformation to its training data. The model amplified errors it had learned from scraped sources.",
+      "3. Newsrooms knew better\n\nMedia outlets verify every AI output. Google didn't. The contrast highlights a gap between industry practice and big tech's rush to ship.",
+      "4. The audit before the launch\n\nA single pre-launch audit could have caught the fatal flaw. It didn't happen. Now the product is dead and trust is damaged.",
+      "5. Test your AI this week\n\nTake a prompt from your project and simulate an adversarial input. Does it hold? If not, fix it before anyone else sees it."
+    ],
+    "video_script": [
+      "Google killed Earth AI in a day.",
+      "It promised satellite answers but vanished.",
+      "Its training data bred misinformation.",
+      "Newsrooms verify; Google didn't.",
+      "Audit every AI before launch."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Vanished in 24 hours\n\nGoogle's Earth AI promised satellite answers, then disappeared within a day. No explanation, no post-mortem, just gone.",
+          "2. Trained on its own lies\n\nInternal audits linked the AI's misinformation to its training data. The model amplified errors it had learned from scraped sources.",
+          "3. Newsrooms knew better\n\nMedia outlets verify every AI output. Google didn't. The contrast highlights a gap between industry practice and big tech's rush to ship.",
+          "4. The audit before the launch\n\nA single pre-launch audit could have caught the fatal flaw. It didn't happen. Now the product is dead and trust is damaged.",
+          "5. Test your AI this week\n\nTake a prompt from your project and simulate an adversarial input. Does it hold? If not, fix it before anyone else sees it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google killed Earth AI in a day.",
+          "It promised satellite answers but vanished.",
+          "Its training data bred misinformation.",
+          "Newsrooms verify; Google didn't.",
+          "Audit every AI before launch."
+        ]
+      },
+      "instagram": {
+        "caption": "Google pulled its Earth AI feature 24 hours after launch, because internal checks linked its mistakes to the model's own training data.  \n\nThe tool vanished with no post-mortem, after promising satellite-based answers that amplified errors from scraped sources. Media outlets verify every AI output before publishing; Google skipped that step, and the product died with trust damaged.  \n\nFor anyone shipping content or tools, this means a pre-launch audit isn't optional—one adversarial test could have caught the fatal flaw.  \n\nWhat's the last AI output you trusted without verifying? Try breaking one of your prompts today. ⏳🔍📡"
+      }
+    },
+    "instagram_caption": "Google pulled its Earth AI feature 24 hours after launch, because internal checks linked its mistakes to the model's own training data.  \n\nThe tool vanished with no post-mortem, after promising satellite-based answers that amplified errors from scraped sources. Media outlets verify every AI output before publishing; Google skipped that step, and the product died with trust damaged.  \n\nFor anyone shipping content or tools, this means a pre-launch audit isn't optional—one adversarial test could have caught the fatal flaw.  \n\nWhat's the last AI output you trusted without verifying? Try breaking one of your prompts today. ⏳🔍📡",
+    "carousel_slides": [
+      {
+        "hook": "It vanished in 24 hours.",
+        "description": "Google's Earth AI vanished within a day, no explanation. Its own training data spread misinformation, killing the feature fast.",
+        "visual_hint": "Mysterious disappearance, dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "globe earth dark"
+      },
+      {
+        "hook": "Trained on its own lies.",
+        "description": "Internal audits linked misinformation to training data. The model amplified errors from scraped sources, poisoning its answers.",
+        "visual_hint": "Data streams feeding a model",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room data",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Newsrooms verified, Google didn't.",
+        "description": "Media outlets check every AI output. Google's rushed launch skipped that, exposing a gap between practice and big tech's speed.",
+        "visual_hint": "Contrast of checkmark and rush",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "newspaper press",
+        "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A pre-launch audit could save you.",
+        "description": "A single audit might have caught the fatal flaw. It didn't happen; the product died and trust was damaged irreparably.",
+        "visual_hint": "Magnifying glass over failure",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next AI launch.",
+        "description": "Test your AI now: give it an adversarial prompt. If it fails, fix it before it goes public or faces the same fate.",
+        "visual_hint": "Hand pressing test button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "keyboard test code",
+        "image": "https://images.pexels.com/photos/8720263/pexels-photo-8720263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
+    "savedAt": "2026-07-31T20:55:32.675Z",
+    "sourceId": "cebdf34cbbc82af8b83de9f3c45238c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "it-s-time-to-panic-about-ai-safety",
     "prompt_version": "1.0.0",
     "status": "published",

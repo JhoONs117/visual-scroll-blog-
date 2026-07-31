@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-nixes-its-earth-ai-feature-one-day-after-la",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+  "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+  "slides": [
+    "Why did Google kill Earth AI within a day?",
+    "Launch promised satellite answers, then vanished",
+    "Misinformation fears came from its own training data",
+    "Your project must verify AI outputs like newsrooms",
+    "Audit every AI feature before shipping it public"
+  ],
+  "thread_text": [
+    "1. Vanished in 24 hours\n\nGoogle's Earth AI promised satellite answers, then disappeared within a day. No explanation, no post-mortem, just gone.",
+    "2. Trained on its own lies\n\nInternal audits linked the AI's misinformation to its training data. The model amplified errors it had learned from scraped sources.",
+    "3. Newsrooms knew better\n\nMedia outlets verify every AI output. Google didn't. The contrast highlights a gap between industry practice and big tech's rush to ship.",
+    "4. The audit before the launch\n\nA single pre-launch audit could have caught the fatal flaw. It didn't happen. Now the product is dead and trust is damaged.",
+    "5. Test your AI this week\n\nTake a prompt from your project and simulate an adversarial input. Does it hold? If not, fix it before anyone else sees it."
+  ],
+  "video_script": [
+    "Google killed Earth AI in a day.",
+    "It promised satellite answers but vanished.",
+    "Its training data bred misinformation.",
+    "Newsrooms verify; Google didn't.",
+    "Audit every AI before launch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Vanished in 24 hours\n\nGoogle's Earth AI promised satellite answers, then disappeared within a day. No explanation, no post-mortem, just gone.",
+        "2. Trained on its own lies\n\nInternal audits linked the AI's misinformation to its training data. The model amplified errors it had learned from scraped sources.",
+        "3. Newsrooms knew better\n\nMedia outlets verify every AI output. Google didn't. The contrast highlights a gap between industry practice and big tech's rush to ship.",
+        "4. The audit before the launch\n\nA single pre-launch audit could have caught the fatal flaw. It didn't happen. Now the product is dead and trust is damaged.",
+        "5. Test your AI this week\n\nTake a prompt from your project and simulate an adversarial input. Does it hold? If not, fix it before anyone else sees it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google killed Earth AI in a day.",
+        "It promised satellite answers but vanished.",
+        "Its training data bred misinformation.",
+        "Newsrooms verify; Google didn't.",
+        "Audit every AI before launch."
+      ]
+    },
+    "instagram": {
+      "caption": "Google pulled its Earth AI feature 24 hours after launch, because internal checks linked its mistakes to the model's own training data.  \n\nThe tool vanished with no post-mortem, after promising satellite-based answers that amplified errors from scraped sources. Media outlets verify every AI output before publishing; Google skipped that step, and the product died with trust damaged.  \n\nFor anyone shipping content or tools, this means a pre-launch audit isn't optional—one adversarial test could have caught the fatal flaw.  \n\nWhat's the last AI output you trusted without verifying? Try breaking one of your prompts today. ⏳🔍📡"
+    }
+  },
+  "instagram_caption": "Google pulled its Earth AI feature 24 hours after launch, because internal checks linked its mistakes to the model's own training data.  \n\nThe tool vanished with no post-mortem, after promising satellite-based answers that amplified errors from scraped sources. Media outlets verify every AI output before publishing; Google skipped that step, and the product died with trust damaged.  \n\nFor anyone shipping content or tools, this means a pre-launch audit isn't optional—one adversarial test could have caught the fatal flaw.  \n\nWhat's the last AI output you trusted without verifying? Try breaking one of your prompts today. ⏳🔍📡",
+  "carousel_slides": [
+    {
+      "hook": "It vanished in 24 hours.",
+      "description": "Google's Earth AI vanished within a day, no explanation. Its own training data spread misinformation, killing the feature fast.",
+      "visual_hint": "Mysterious disappearance, dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "globe earth dark"
+    },
+    {
+      "hook": "Trained on its own lies.",
+      "description": "Internal audits linked misinformation to training data. The model amplified errors from scraped sources, poisoning its answers.",
+      "visual_hint": "Data streams feeding a model",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room data",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Newsrooms verified, Google didn't.",
+      "description": "Media outlets check every AI output. Google's rushed launch skipped that, exposing a gap between practice and big tech's speed.",
+      "visual_hint": "Contrast of checkmark and rush",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "newspaper press",
+      "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A pre-launch audit could save you.",
+      "description": "A single audit might have caught the fatal flaw. It didn't happen; the product died and trust was damaged irreparably.",
+      "visual_hint": "Magnifying glass over failure",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next AI launch.",
+      "description": "Test your AI now: give it an adversarial prompt. If it fails, fix it before it goes public or faces the same fate.",
+      "visual_hint": "Hand pressing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "keyboard test code",
+      "image": "https://images.pexels.com/photos/8720263/pexels-photo-8720263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
+  "savedAt": "2026-07-31T20:55:32.675Z",
+  "sourceId": "cebdf34cbbc82af8b83de9f3c45238c6"
+}

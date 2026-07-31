@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-earth-8217-s-ai-deepfake-tool-only-lasted-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+  "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "pubDate": "2026-07-31T19:13:29.000Z",
+  "slides": [
+    "Google's AI tool vanished in a day. Why?",
+    "It generated realistic satellite and street scenes.",
+    "Deepfake geography could fool even trained experts.",
+    "Maps you trust may soon need verification protocols.",
+    "Verify real-world imagery before acting on it."
+  ],
+  "thread_text": [
+    "1. Gone in 24 hours\n\nGoogle pulled its AI map tool after it produced flawless satellite images. The tech was too convincing.",
+    "2. Trained eyes fooled\n\nExperts couldn't spot the fakes. The generated streets matched real-world patterns down to shadows and angles.",
+    "3. Trust is the target\n\nIf maps can lie, navigation and urban planning break. Verification becomes the new standard before any action.",
+    "4. The deepfake map era\n\nSatellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+    "5. Test your map today\n\nOpen your favorite map app and check a remote area. Could you tell if it's AI-generated? Verify before you rely on it."
+  ],
+  "video_script": [
+    "Google's map AI vanished in a day.",
+    "It made fake satellite views perfectly.",
+    "Experts couldn't spot the difference.",
+    "Trust in maps now needs verification steps.",
+    "Always check real-world data before acting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Gone in 24 hours\n\nGoogle pulled its AI map tool after it produced flawless satellite images. The tech was too convincing.",
+        "2. Trained eyes fooled\n\nExperts couldn't spot the fakes. The generated streets matched real-world patterns down to shadows and angles.",
+        "3. Trust is the target\n\nIf maps can lie, navigation and urban planning break. Verification becomes the new standard before any action.",
+        "4. The deepfake map era\n\nSatellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+        "5. Test your map today\n\nOpen your favorite map app and check a remote area. Could you tell if it's AI-generated? Verify before you rely on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's map AI vanished in a day.",
+        "It made fake satellite views perfectly.",
+        "Experts couldn't spot the difference.",
+        "Trust in maps now needs verification steps.",
+        "Always check real-world data before acting."
+      ]
+    },
+    "instagram": {
+      "caption": "A map tool that produced flawless fake satellite images was pulled in 24 hours. Google’s own creation was too convincing. 🗺️\n\nExperts couldn’t tell the difference—shadows, angles, street layouts all matched reality. Trained eyes failed the test. If geography can be faked this well, every map you open becomes suspect. 🛰️\n\nFor anyone publishing location-based content: verification isn’t optional anymore. You need a way to prove an image is real before you use it.\n\nOpen your map app and zoom into a remote street. Could you spot the fabrication? Would you bet your next project on it? 🤔"
+    }
+  },
+  "instagram_caption": "A map tool that produced flawless fake satellite images was pulled in 24 hours. Google’s own creation was too convincing. 🗺️\n\nExperts couldn’t tell the difference—shadows, angles, street layouts all matched reality. Trained eyes failed the test. If geography can be faked this well, every map you open becomes suspect. 🛰️\n\nFor anyone publishing location-based content: verification isn’t optional anymore. You need a way to prove an image is real before you use it.\n\nOpen your map app and zoom into a remote street. Could you spot the fabrication? Would you bet your next project on it? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Could you spot a fake map?",
+      "description": "Google's AI tool produced flawless satellite images, fooling trained experts. The technology was too convincing and vanished in a day.",
+      "visual_hint": "AI map fading into question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite image map"
+    },
+    {
+      "hook": "Even experts couldn't tell.",
+      "description": "Generated streets matched real-world patterns, including shadows and angles. Experts were fooled by deepfake geography.",
+      "visual_hint": "Satellite image with shadow details",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "aerial street view",
+      "image": "https://images.pexels.com/photos/20167762/pexels-photo-20167762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Maps can now lie.",
+      "description": "If navigation and urban planning rely on fake maps, everything breaks. Verification must become the new standard before any action.",
+      "visual_hint": "Navigation app with glitch overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "city map navigation",
+      "image": "https://images.pexels.com/photos/8555066/pexels-photo-8555066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Deepfake maps are here.",
+      "description": "Satellite imagery is now as easy to fake as photos of faces. We need new tools to certify geographic truth.",
+      "visual_hint": "Satellite image being altered",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hologram earth digital",
+      "image": "https://images.pexels.com/photos/35344688/pexels-photo-35344688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it's gone.",
+      "description": "Open your favorite map app, check a remote area. Could you tell if it's AI-generated? Verify before you rely on it.",
+      "visual_hint": "Finger tapping verify button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "verification checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Pompeii_-After.png?quality=90&amp;strip=all&amp;crop=0%2C3.4325160264718%2C100%2C93.134967947056&amp;w=1200",
+  "savedAt": "2026-07-31T20:56:01.152Z",
+  "sourceId": "a4ce4a17368dfbec161e76fb5f40c525"
+}
