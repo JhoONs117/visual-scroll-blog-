@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "friend-re-launches-its-ai-pendant-with-a-speaker-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+  "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+  "pubDate": "2026-07-30T16:33:32.000Z",
+  "slides": [
+    "Is your next best friend a talking pendant?",
+    "Friend's new speaker lets it converse aloud.",
+    "But the $99 price doubled from before.",
+    "What changes: conversations happen anywhere, hands-free.",
+    "Test if talking to hardware feels less lonely."
+  ],
+  "thread_text": [
+    "1. Your next best friend?\n\nA $99 pendant now talks back aloud, but its price doubled from earlier plans.",
+    "2. Hands-free, anywhere\n\nThe speaker lets conversations happen without touching your phone—even mid-walk.",
+    "3. The loneliness test\n\nWill talking to hardware feel less lonely than silence? That's the real question.",
+    "4. Price shock\n\nOriginally $50, the new $99 tag makes it a luxury experiment, not a casual buy.",
+    "5. Try it yourself\n\nSimulate a chat with a voice AI on your phone today. Does it ease the quiet?"
+  ],
+  "video_script": [
+    "A pendant that talks back now.",
+    "It's ninety-nine bucks, doubled price.",
+    "Chat hands-free anywhere you go.",
+    "But does it beat feeling lonely?",
+    "Try a voice AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your next best friend?\n\nA $99 pendant now talks back aloud, but its price doubled from earlier plans.",
+        "2. Hands-free, anywhere\n\nThe speaker lets conversations happen without touching your phone—even mid-walk.",
+        "3. The loneliness test\n\nWill talking to hardware feel less lonely than silence? That's the real question.",
+        "4. Price shock\n\nOriginally $50, the new $99 tag makes it a luxury experiment, not a casual buy.",
+        "5. Try it yourself\n\nSimulate a chat with a voice AI on your phone today. Does it ease the quiet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A pendant that talks back now.",
+        "It's ninety-nine bucks, doubled price.",
+        "Chat hands-free anywhere you go.",
+        "But does it beat feeling lonely?",
+        "Try a voice AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next best friend now talks out loud—and costs $99, double the original $50 plan.\n\nThe pendant's new speaker lets it chat with you hands-free, anywhere, even mid-walk. No phone needed.\n\nFor creators, this means testing a new format: building content for voice-first, wearable companions, not just screens. Your scripts could be heard, not read.\n\nWould you wear a device that chats aloud to you—or does that feel lonelier than silence? 🎙️📿💬"
+    }
+  },
+  "instagram_caption": "Your next best friend now talks out loud—and costs $99, double the original $50 plan.\n\nThe pendant's new speaker lets it chat with you hands-free, anywhere, even mid-walk. No phone needed.\n\nFor creators, this means testing a new format: building content for voice-first, wearable companions, not just screens. Your scripts could be heard, not read.\n\nWould you wear a device that chats aloud to you—or does that feel lonelier than silence? 🎙️📿💬",
+  "carousel_slides": [
+    {
+      "hook": "Lonely? Talk to this pendant.",
+      "description": "A $99 AI pendant now speaks aloud, but its price doubled from $50, making it a luxury experiment in companionship, not a casual buy.",
+      "visual_hint": "Pendant with glowing speaker",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart wearable device"
+    },
+    {
+      "hook": "Hands-free conversations anywhere.",
+      "description": "The built-in speaker lets you chat without touching your phone—even mid-walk. It's designed for seamless, on-the-move interaction.",
+      "visual_hint": "Person walking, pendant visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pedestrian walking street",
+      "image": "https://images.pexels.com/photos/20780647/pexels-photo-20780647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can hardware cure loneliness?",
+      "description": "The real question: will talking to a device feel less lonely than silence? It's a test of emotional connection with AI.",
+      "visual_hint": "Close-up pendant on chest",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "wearable gadget closeup",
+      "image": "https://images.pexels.com/photos/34996543/pexels-photo-34996543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Price shock: $50 to $99.",
+      "description": "Originally planned at $50, the new $99 tag makes this a luxury experiment. Is the extra cost worth a voice in your ear?",
+      "visual_hint": "Price tag with $99",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "price tag product",
+      "image": "https://images.pexels.com/photos/7986975/pexels-photo-7986975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try a voice AI today.",
+      "description": "Simulate a chat with a voice AI on your phone. Does it ease the quiet? Test it now and comment your verdict.",
+      "visual_hint": "Phone with voice AI interface",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone voice assistant",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&amp;strip=all&amp;crop=0%2C3.4578967768132%2C100%2C93.084206446374&amp;w=1200",
+  "savedAt": "2026-07-31T08:36:51.670Z",
+  "sourceId": "db87833c9794161576b8e5b637c6f87e"
+}

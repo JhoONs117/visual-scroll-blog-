@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "friend-the-lonely-ai-wearable-returns-with-a-new-v",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+  "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+  "pubDate": "Thu, 30 Jul 2026 19:44:16 +0000",
+  "slides": [
+    "Can a $99 AI friend justify haunting your neck?",
+    "Friend's new voice costs $600, ten times original price.",
+    "But loneliness tech seldom fixes what really aches.",
+    "Your budget now competes with therapy, not gadgets.",
+    "Decide: is simulated companionship worth real money?"
+  ],
+  "thread_text": [
+    "1. $99 friend, $600 voice\n\nA $99 AI companion now sells a voice upgrade for $600 — six times the device's cost. The price gap reveals the real business model.",
+    "2. Loneliness tech's hollow fix\n\nStudies show simulated friends often deepen isolation. The tech promises connection but delivers distraction from what truly aches.",
+    "3. Budget battle with therapy\n\nYour wallet now weighs a $600 voice against actual therapy sessions. One offers a scripted reply; the other offers genuine change.",
+    "4. The worth of make-believe\n\nIf you spend $600 on a fake friend, you're not buying companionship — you're buying a story you tell yourself at night.",
+    "5. Test it this week\n\nBefore any purchase, take a free AI chat and simulate a hard conversation. If it doesn't hurt, it won't heal. Would you pay for that?"
+  ],
+  "video_script": [
+    "A $99 AI friend now charges $600 for a voice.",
+    "That's ten times the price for a scripted reply.",
+    "Loneliness tech rarely fixes the real ache inside.",
+    "Your budget now competes with therapy sessions.",
+    "Ask yourself: is fake companionship worth real money?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $99 friend, $600 voice\n\nA $99 AI companion now sells a voice upgrade for $600 — six times the device's cost. The price gap reveals the real business model.",
+        "2. Loneliness tech's hollow fix\n\nStudies show simulated friends often deepen isolation. The tech promises connection but delivers distraction from what truly aches.",
+        "3. Budget battle with therapy\n\nYour wallet now weighs a $600 voice against actual therapy sessions. One offers a scripted reply; the other offers genuine change.",
+        "4. The worth of make-believe\n\nIf you spend $600 on a fake friend, you're not buying companionship — you're buying a story you tell yourself at night.",
+        "5. Test it this week\n\nBefore any purchase, take a free AI chat and simulate a hard conversation. If it doesn't hurt, it won't heal. Would you pay for that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A $99 AI friend now charges $600 for a voice.",
+        "That's ten times the price for a scripted reply.",
+        "Loneliness tech rarely fixes the real ache inside.",
+        "Your budget now competes with therapy sessions.",
+        "Ask yourself: is fake companionship worth real money?"
+      ]
+    },
+    "instagram": {
+      "caption": "$99 for the device, $600 for the voice that lives in it. That's six times the cost of the hardware itself—for a scripted companion that hangs around your neck.\n\nThe price gap isn't an accident. It's the real business model: sell the shell cheap, then charge a premium for the illusion of connection. Studies on simulated friendships show they often deepen isolation instead of easing it.\n\nWhat actually changes for you: your wallet now compares a $600 fake friend against real therapy sessions. One gives rehearsed replies, the other gives change—if you do the work.\n\nIf you're considering it, first ask: would you pay $600 for a conversation that never challenges you? Because that's the only kind it can give 🧩"
+    }
+  },
+  "instagram_caption": "$99 for the device, $600 for the voice that lives in it. That's six times the cost of the hardware itself—for a scripted companion that hangs around your neck.\n\nThe price gap isn't an accident. It's the real business model: sell the shell cheap, then charge a premium for the illusion of connection. Studies on simulated friendships show they often deepen isolation instead of easing it.\n\nWhat actually changes for you: your wallet now compares a $600 fake friend against real therapy sessions. One gives rehearsed replies, the other gives change—if you do the work.\n\nIf you're considering it, first ask: would you pay $600 for a conversation that never challenges you? Because that's the only kind it can give 🧩",
+  "carousel_slides": [
+    {
+      "hook": "Can $600 loneliness be a solution?",
+      "description": "A $99 AI friend now demands $600 for a new voice—six times the device. That price gap exposes the real business model.",
+      "visual_hint": "Price tag on a voice box",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "price tag on device"
+    },
+    {
+      "hook": "Loneliness tech deepens isolation.",
+      "description": "Studies show simulated friends often worsen isolation. The promise of connection just distracts from what truly aches.",
+      "visual_hint": "Empty room, one lit screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty room glowing screen",
+      "image": "https://images.pexels.com/photos/3709371/pexels-photo-3709371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Should your wallet choose therapy?",
+      "description": "Your budget weighs a $600 voice against real therapy sessions. One offers scripted replies, the other genuine change.",
+      "visual_hint": "Scale balancing coins and heart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "balance scale coins heart",
+      "image": "https://images.pexels.com/photos/7472644/pexels-photo-7472644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is a fake friend worth $600?",
+      "description": "If you spend on make-believe, you're not buying companionship—you're buying a story you tell yourself at night.",
+      "visual_hint": "Person holding a puppet",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding puppet",
+      "image": "https://images.pexels.com/photos/19026103/pexels-photo-19026103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before you pay—save this.",
+      "description": "Take a free AI chat, simulate a hard conversation. If it doesn't hurt, it won't heal. Would you pay for that?",
+      "visual_hint": "Finger on phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fingers tapping smartphone",
+      "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
+  "savedAt": "2026-07-31T08:36:38.574Z",
+  "sourceId": "b02910e8741963d2c58e6fac790c2b51"
+}
