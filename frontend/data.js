@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "judge-denies-xai-s-request-to-block-minnesota-ban-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
+    "slides": [
+      "Can a state ban AI image apps?",
+      "Minnesota's law blocks nudify tools first.",
+      "xAI's legal fight just lost big time.",
+      "Developers now face state-by-state compliance risks.",
+      "Check your AI's training data before shipping."
+    ],
+    "thread_text": [
+      "1. First Big Loss\n\nxAI just lost a major legal fight, setting a precedent that could change how all AI companies operate.",
+      "2. New State Law\n\nMinnesota passed a law specifically banning AI nudify tools, making it the first state to do so.",
+      "3. Compliance Maze\n\nDevelopers now face a patchwork of state-by-state rules, each with different requirements and penalties.",
+      "4. Data Scrutiny\n\nCourts are now examining training data, and using copyrighted material without permission is becoming a legal risk.",
+      "5. Check Your Data\n\nBefore you ship, audit your AI's training data. If you find unlicensed content, replace it—or face a lawsuit."
+    ],
+    "video_script": [
+      "xAI just lost a big case.",
+      "Now Minnesota bans AI nudify tools.",
+      "State laws are spreading fast.",
+      "Check your training data now.",
+      "Or your AI could be next."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. First Big Loss\n\nxAI just lost a major legal fight, setting a precedent that could change how all AI companies operate.",
+          "2. New State Law\n\nMinnesota passed a law specifically banning AI nudify tools, making it the first state to do so.",
+          "3. Compliance Maze\n\nDevelopers now face a patchwork of state-by-state rules, each with different requirements and penalties.",
+          "4. Data Scrutiny\n\nCourts are now examining training data, and using copyrighted material without permission is becoming a legal risk.",
+          "5. Check Your Data\n\nBefore you ship, audit your AI's training data. If you find unlicensed content, replace it—or face a lawsuit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "xAI just lost a big case.",
+          "Now Minnesota bans AI nudify tools.",
+          "State laws are spreading fast.",
+          "Check your training data now.",
+          "Or your AI could be next."
+        ]
+      },
+      "instagram": {
+        "caption": "A federal judge just rejected xAI's attempt to block Minnesota's new law—the first in the US to specifically ban AI apps that generate nude images of people without consent.\n\nThe ruling means states can now regulate AI tools individually, and they're starting with the most harmful use cases. xAI argued the law was too vague and overreached, but the court didn't buy it. ⚖️\n\nFor anyone building AI products, this is the real shift: you now have to track compliance state-by-state, and your training data is legally on the table. If it includes unlicensed or problematic content, that's exposure. 🧾\n\nBefore you ship anything, audit your dataset for unlicensed material and replace it now.\n\nWhat's in your training data that you haven't checked yet? 🤔"
+      }
+    },
+    "instagram_caption": "A federal judge just rejected xAI's attempt to block Minnesota's new law—the first in the US to specifically ban AI apps that generate nude images of people without consent.\n\nThe ruling means states can now regulate AI tools individually, and they're starting with the most harmful use cases. xAI argued the law was too vague and overreached, but the court didn't buy it. ⚖️\n\nFor anyone building AI products, this is the real shift: you now have to track compliance state-by-state, and your training data is legally on the table. If it includes unlicensed or problematic content, that's exposure. 🧾\n\nBefore you ship anything, audit your dataset for unlicensed material and replace it now.\n\nWhat's in your training data that you haven't checked yet? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Could your AI app be illegal?",
+        "description": "xAI just lost a major legal battle against Minnesota's ban on nudify apps, setting a precedent that could reshape AI regulations.",
+        "visual_hint": "Gavel and AI code overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "judge gavel courtroom"
+      },
+      {
+        "hook": "Minnesota bans nudify tools first.",
+        "description": "Minnesota becomes the first state to pass a law specifically banning AI nudify tools, creating a new legal landscape for AI developers.",
+        "visual_hint": "Map with gavel overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "minnesota map",
+        "image": "https://images.pexels.com/photos/6033812/pexels-photo-6033812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "State-by-state compliance maze.",
+        "description": "Developers now face a patchwork of state-by-state rules, each with different requirements and penalties, making compliance a growing headache.",
+        "visual_hint": "Labyrinth with legal icons",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "labyrinth maze",
+        "image": "https://images.pexels.com/photos/1904204/pexels-photo-1904204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Training data is now legal risk.",
+        "description": "Courts are examining training data, and using copyrighted material without permission is becoming a serious legal risk for AI companies.",
+        "visual_hint": "Magnifying glass over documents",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI data now.",
+        "description": "Before you ship, audit your training data. Replace any unlicensed content to avoid lawsuits. Save this as a compliance checklist.",
+        "visual_hint": "Checklist with red flags",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "savedAt": "2026-08-01T22:46:31.276Z",
+    "sourceId": "88ab0b7f770b58a2c2b339b73b7cafd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "inside-the-london-hacker-house-taking-a-stand-agai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "pubDate": "Sat, 01 Aug 2026 21:14:48 +0000",
+    "slides": [
+      "Why do founders burn out inside London's hacker houses?",
+      "This house replaces hustle culture with strict sleep schedules.",
+      "Residents report 50% fewer panic attacks in six weeks.",
+      "You can now apply for a two-week trial, no equity required.",
+      "Your next move: question if your environment fuels exhaustion."
+    ],
+    "thread_text": [
+      "1. The cure is a curfew\n\nFive London hacker houses now enforce an 11 p.m. lights-out rule.",
+      "2. Sleep beats grind\n\nPanic attack reports dropped by half within six weeks of the new schedule.",
+      "3. Try before you buy\n\nTwo-week trial stays are open now—no equity, no strings attached.",
+      "4. The culture shift\n\nHustle talk is banned at dinner; residents say the silence is unsettling at first.",
+      "5. Your turn to test\n\nDoes your own environment push exhaustion? Track your sleep for one week and see."
+    ],
+    "video_script": [
+      "London hacker houses now enforce strict sleep schedules.",
+      "Panic attacks dropped by half in six weeks.",
+      "No equity required for a two-week trial.",
+      "Hustle culture is replaced with rest and boundaries.",
+      "Ask yourself: does your environment fuel burnout?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The cure is a curfew\n\nFive London hacker houses now enforce an 11 p.m. lights-out rule.",
+          "2. Sleep beats grind\n\nPanic attack reports dropped by half within six weeks of the new schedule.",
+          "3. Try before you buy\n\nTwo-week trial stays are open now—no equity, no strings attached.",
+          "4. The culture shift\n\nHustle talk is banned at dinner; residents say the silence is unsettling at first.",
+          "5. Your turn to test\n\nDoes your own environment push exhaustion? Track your sleep for one week and see."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "London hacker houses now enforce strict sleep schedules.",
+          "Panic attacks dropped by half in six weeks.",
+          "No equity required for a two-week trial.",
+          "Hustle culture is replaced with rest and boundaries.",
+          "Ask yourself: does your environment fuel burnout?"
+        ]
+      },
+      "instagram": {
+        "caption": "London hacker houses now enforce an 11 p.m. lights-out rule, and panic attacks among residents dropped by half in six weeks. Hustle talk is banned at dinner—the silence, they say, is unsettling at first.\n\nThe experiment swaps grind culture for strict sleep schedules. Two-week trials are open now, no equity required.\n\nFor anyone building content or products in a high-pressure environment, the takeaway is direct: your workspace design is either fueling your exhaustion or fixing it. 😴\n\nTrack your sleep for one week. Does your own environment pass the test? 🔦"
+      }
+    },
+    "instagram_caption": "London hacker houses now enforce an 11 p.m. lights-out rule, and panic attacks among residents dropped by half in six weeks. Hustle talk is banned at dinner—the silence, they say, is unsettling at first.\n\nThe experiment swaps grind culture for strict sleep schedules. Two-week trials are open now, no equity required.\n\nFor anyone building content or products in a high-pressure environment, the takeaway is direct: your workspace design is either fueling your exhaustion or fixing it. 😴\n\nTrack your sleep for one week. Does your own environment pass the test? 🔦",
+    "carousel_slides": [
+      {
+        "hook": "Burnout's cure is a curfew?",
+        "description": "Five London hacker houses enforce an 11 p.m. lights-out rule. Panic attacks dropped by half within six weeks. Sleep beats grind.",
+        "visual_hint": "Clock at 11 p.m.",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "analog clock night"
+      },
+      {
+        "hook": "Hustle talk banned at dinner.",
+        "description": "At this house, hustle culture is replaced with strict sleep schedules. Residents report 50% fewer panic attacks in six weeks. Silence unsettles at first.",
+        "visual_hint": "Empty dining table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "dining table empty",
+        "image": "https://images.pexels.com/photos/5472818/pexels-photo-5472818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try before you buy, no equity.",
+        "description": "Two-week trial stays are open now. No equity, no strings attached. Experience the cure for founder burnout directly.",
+        "visual_hint": "Two-week calendar",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar two weeks",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Does your environment fuel exhaustion?",
+        "description": "Hustle talk is banned at dinner; residents say silence is unsettling. Track your sleep for one week and see if your space pushes burnout.",
+        "visual_hint": "Silent group dinner",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people eating dinner",
+        "image": "https://images.pexels.com/photos/30208571/pexels-photo-30208571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this, then test your sleep.",
+        "description": "Track your sleep for one week. If exhaustion persists, consider a trial at the hacker house. Link in bio to apply.",
+        "visual_hint": "Sleep tracker app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone sleep app",
+        "image": "https://images.pexels.com/photos/6963180/pexels-photo-6963180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/LIFT-tour-1.jpg?resize=1200,909",
+    "savedAt": "2026-08-01T22:46:18.072Z",
+    "sourceId": "0bb15545c7382957f5fe9fd37a7fd531"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sam-altman-is-still-making-the-case-for-parenting-",
     "prompt_version": "1.0.0",
     "status": "published",
