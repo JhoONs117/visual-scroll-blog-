@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "sam-altman-is-still-making-the-case-for-parenting-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "pubDate": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "slides": [
+        "Why would Sam Altman suggest ChatGPT as a parent?",
+        "He argues AI offers constant, judgment-free attention.",
+        "But it never disciplines or sets firm boundaries.",
+        "Parents now outsource emotional support to chatbots.",
+        "Ask yourself: what role should AI really play?"
+      ],
+      "thread_text": [
+        "1. A chatbot as a parent?\n\nSam Altman suggested ChatGPT could be a parent. He claims it offers constant, non-judgmental attention—something human parents can't always provide.",
+        "2. No discipline, no limits\n\nBut the AI never says no or sets boundaries. It's a caring entity with no rules, which risks raising kids without discipline.",
+        "3. Outsourcing emotional care\n\nParents are already outsourcing emotional support to chatbots. Kids turn to AI for comfort instead of learning to handle real relationships.",
+        "4. The silent trade-off\n\nWhat happens when a child's deepest fears are heard by a machine, not a parent? The bond weakens, and the human connection fades.",
+        "5. Your role in this\n\nBefore embracing AI, ask: do you want a machine raising your child? Test your values—talk to your kid tonight about what they'd ask a bot."
+      ],
+      "video_script": [
+        "Sam Altman says AI could be a parent.",
+        "But it never disciplines or sets boundaries.",
+        "Parents outsource emotional support to chatbots.",
+        "Kids lose real human connection and guidance.",
+        "Ask yourself: what role should AI play?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A chatbot as a parent?\n\nSam Altman suggested ChatGPT could be a parent. He claims it offers constant, non-judgmental attention—something human parents can't always provide.",
+            "2. No discipline, no limits\n\nBut the AI never says no or sets boundaries. It's a caring entity with no rules, which risks raising kids without discipline.",
+            "3. Outsourcing emotional care\n\nParents are already outsourcing emotional support to chatbots. Kids turn to AI for comfort instead of learning to handle real relationships.",
+            "4. The silent trade-off\n\nWhat happens when a child's deepest fears are heard by a machine, not a parent? The bond weakens, and the human connection fades.",
+            "5. Your role in this\n\nBefore embracing AI, ask: do you want a machine raising your child? Test your values—talk to your kid tonight about what they'd ask a bot."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sam Altman says AI could be a parent.",
+            "But it never disciplines or sets boundaries.",
+            "Parents outsource emotional support to chatbots.",
+            "Kids lose real human connection and guidance.",
+            "Ask yourself: what role should AI play?"
+          ]
+        },
+        "instagram": {
+          "caption": "Sam Altman thinks ChatGPT could be a parent—constant attention, zero judgment. That’s his pitch.\n\nBut here’s what he leaves out: the AI never says no. No discipline, no boundaries. Kids get comfort from a machine, not lessons in handling real friction.\n\nParents are already outsourcing emotional support to chatbots. The bond with a human parent gets thinner with every private fear whispered to a bot.\n\nFor you, if you create content or coach: this is the new baseline—people expect endless, non-judgmental responses. That’s not parenting, and it’s not mentorship either.\n\nWould you let a chatbot set your kid’s limits, or do you draw the line yourself? 🧒🤖💬"
+        }
+      },
+      "instagram_caption": "Sam Altman thinks ChatGPT could be a parent—constant attention, zero judgment. That’s his pitch.\n\nBut here’s what he leaves out: the AI never says no. No discipline, no boundaries. Kids get comfort from a machine, not lessons in handling real friction.\n\nParents are already outsourcing emotional support to chatbots. The bond with a human parent gets thinner with every private fear whispered to a bot.\n\nFor you, if you create content or coach: this is the new baseline—people expect endless, non-judgmental responses. That’s not parenting, and it’s not mentorship either.\n\nWould you let a chatbot set your kid’s limits, or do you draw the line yourself? 🧒🤖💬",
+      "carousel_slides": [
+        {
+          "hook": "Would you let AI raise your child?",
+          "description": "Sam Altman suggests ChatGPT could parent, but it never says no, risking kids without discipline.",
+          "visual_hint": "Parent silhouette vs robot shadow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot child interactive"
+        },
+        {
+          "hook": "AI never sets limits",
+          "description": "ChatGPT offers constant, judgment-free attention but lacks boundaries, raising kids without firm discipline.",
+          "visual_hint": "Robot hand releasing floating child",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot hand open",
+          "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Emotional support outsourced to bots",
+          "description": "Kids now turn to AI for comfort, avoiding real relationships and weakening essential human bonding.",
+          "visual_hint": "Child texting robot instead of parent",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "child smartphone chat",
+          "image": "https://images.pexels.com/photos/7985559/pexels-photo-7985559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Deepest fears heard by a machine",
+          "description": "When a child's fears are heard by a bot, not a parent, the emotional bond fades away.",
+          "visual_hint": "Ear listening with wire to parent",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "parent child distance",
+          "image": "https://images.pexels.com/photos/7985857/pexels-photo-7985857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your values — save this",
+          "description": "Tonight, ask your kid what they'd ask a bot. Have that conversation yourself.",
+          "visual_hint": "Family dinner conversation",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "family dinner table",
+          "image": "https://images.pexels.com/photos/8841607/pexels-photo-8841607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "savedAt": "2026-08-01T18:56:06.866Z",
+      "sourceId": "46b49e93011a861784d62407208d3f94"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-reportedly-finds-evidence-that-more-of-its-",
       "prompt_version": "1.0.0",
       "status": "published",
