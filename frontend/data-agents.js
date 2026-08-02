@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "is-paying-artists-enough-to-convince-them-to-embra",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "pubDate": "2026-08-02T13:00:00.000Z",
+      "slides": [
+        "Would money truly sway artists toward AI?",
+        "Payment offers barely change their core stance",
+        "Surprisingly, some artists reject even large sums",
+        "Trust and control matter far more than cash",
+        "Ask artists what autonomy they'd demand first"
+      ],
+      "thread_text": [
+        "1. Would money sway artists?\n\nEven with big payment offers, most artists' views on AI don't change—they reject the idea outright, showing cash isn't the real issue.",
+        "2. Surprising rejections\n\nSome artists turn down serious money, saying no to six-figure deals. The reason? They see AI as a threat to their creative identity and control.",
+        "3. Trust over cash\n\nArtists care more about who controls the AI and how it's used than the paycheck. Without transparency, no amount of money moves them.",
+        "4. Autonomy is the key\n\nArtists want a say in how AI uses their work—like opting in or setting limits. That power matters more than any payment.",
+        "5. Ask artists first\n\nBefore offering cash, ask artists what autonomy they'd demand. Try it with a creator you know—what would they ask for?"
+      ],
+      "video_script": [
+        "Money doesn't change artists' minds on AI.",
+        "They reject even huge offers.",
+        "Trust and control matter more.",
+        "Artists want autonomy over their work.",
+        "Ask artists what they'd demand first."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Would money sway artists?\n\nEven with big payment offers, most artists' views on AI don't change—they reject the idea outright, showing cash isn't the real issue.",
+            "2. Surprising rejections\n\nSome artists turn down serious money, saying no to six-figure deals. The reason? They see AI as a threat to their creative identity and control.",
+            "3. Trust over cash\n\nArtists care more about who controls the AI and how it's used than the paycheck. Without transparency, no amount of money moves them.",
+            "4. Autonomy is the key\n\nArtists want a say in how AI uses their work—like opting in or setting limits. That power matters more than any payment.",
+            "5. Ask artists first\n\nBefore offering cash, ask artists what autonomy they'd demand. Try it with a creator you know—what would they ask for?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Money doesn't change artists' minds on AI.",
+            "They reject even huge offers.",
+            "Trust and control matter more.",
+            "Artists want autonomy over their work.",
+            "Ask artists what they'd demand first."
+          ]
+        },
+        "instagram": {
+          "caption": "Some artists are turning down six-figure AI deals—cash isn’t changing their minds. 🎨\n\nResearchers found that even big payment offers barely shift an artist’s core stance on AI. Many still refuse outright, seeing it as a threat to their creative identity. Money alone doesn’t build trust; control over how their work is used does.\n\nFor any creator licensing work today, the takeaway is sharp: the paycheck isn’t the dealbreaker, the terms are. Opt-in limits and transparency matter more than the check amount. 💸\n\nBefore offering you a deal, what autonomy would you demand back? ✋"
+        }
+      },
+      "instagram_caption": "Some artists are turning down six-figure AI deals—cash isn’t changing their minds. 🎨\n\nResearchers found that even big payment offers barely shift an artist’s core stance on AI. Many still refuse outright, seeing it as a threat to their creative identity. Money alone doesn’t build trust; control over how their work is used does.\n\nFor any creator licensing work today, the takeaway is sharp: the paycheck isn’t the dealbreaker, the terms are. Opt-in limits and transparency matter more than the check amount. 💸\n\nBefore offering you a deal, what autonomy would you demand back? ✋",
+      "carousel_slides": [
+        {
+          "hook": "Why say no to six figures?",
+          "description": "Some artists reject six-figure AI deals, seeing AI as a threat to their identity. Cash doesn't overcome that fear.",
+          "visual_hint": "Money rejected beside artwork",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money stack"
+        },
+        {
+          "hook": "Cash can't change core views",
+          "description": "Even with big payment offers, most artists' views on AI stay unchanged—they reject it outright, showing money isn't the real issue.",
+          "visual_hint": "Money and paintbrush separate",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "paintbrush palette",
+          "image": "https://images.pexels.com/photos/20446313/pexels-photo-20446313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Surprising rejections of huge deals",
+          "description": "Some artists turn down serious money, saying no to six-figure deals. They see AI as a threat to their creative control.",
+          "visual_hint": "Artist turning away from money",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "artist studio",
+          "image": "https://images.pexels.com/photos/8381961/pexels-photo-8381961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust and control matter more",
+          "description": "Artists care more about who controls the AI and how it's used than the paycheck. Without transparency, no cash moves them.",
+          "visual_hint": "Open hand with controls",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding pen",
+          "image": "https://images.pexels.com/photos/7774239/pexels-photo-7774239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask artists what autonomy they'd demand",
+          "description": "Before offering cash, ask artists what autonomy they'd demand. Try it with a creator you know—what would they ask for?",
+          "visual_hint": "Question mark over artwork",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&amp;strip=all&amp;crop=2.6881256103516%2C4.7093735253803%2C97.311874389648%2C90.581252949239&amp;w=1200",
+      "savedAt": "2026-08-02T13:01:37.995Z",
+      "sourceId": "9754aadc29e40eb498dae114d9c51c91"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "is-this-billboard-hot-100-hit-ai-slop-",
       "prompt_version": "1.0.0",
       "status": "published",
