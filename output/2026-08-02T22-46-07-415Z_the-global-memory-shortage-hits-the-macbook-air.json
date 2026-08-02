@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-global-memory-shortage-hits-the-macbook-air",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The global memory shortage hits the MacBook Air",
+  "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+  "pubDate": "Sun, 02 Aug 2026 21:33:59 +0000",
+  "slides": [
+    "Why is your next MacBook Air suddenly more expensive?",
+    "Global DRAM prices have doubled since last quarter.",
+    "Apple's cheapest laptops now face a hidden memory tax.",
+    "Your upgrade budget needs a 20% buffer, immediately.",
+    "Buy now or wait—and check component costs first."
+  ],
+  "thread_text": [
+    "1. The Hidden Memory Tax\n\nApple's cheapest MacBook Air now costs more, not because of a spec upgrade, but because global DRAM prices have doubled since last quarter.",
+    "2. Why the Price Hike?\n\nThis isn't about Apple's margins—it's a supply chain shock. DRAM costs have surged, and that's directly hitting your wallet when you buy a new laptop.",
+    "3. The Upgrade Budget Trap\n\nYou were planning for a $1000 laptop, but the DRAM spike means you need a 20% buffer. That's an extra $200 you didn't budget for.",
+    "4. The Timing Question\n\nDRAM prices are volatile. If you wait, they might drop—or rise further. It's a gamble, and component costs are the crystal ball.",
+    "5. Check Component Costs First\n\nBefore you buy or wait, check current DRAM prices. If they're still climbing, buying now might save you money. If they're falling, hold off. What's your move?"
+  ],
+  "video_script": [
+    "DRAM prices doubled. Your MacBook just got pricier.",
+    "Supply chain shock hits Apple's cheapest laptops.",
+    "Budget 20% extra for your next upgrade.",
+    "Buy now or wait? Watch component costs.",
+    "Check DRAM prices before you decide."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Memory Tax\n\nApple's cheapest MacBook Air now costs more, not because of a spec upgrade, but because global DRAM prices have doubled since last quarter.",
+        "2. Why the Price Hike?\n\nThis isn't about Apple's margins—it's a supply chain shock. DRAM costs have surged, and that's directly hitting your wallet when you buy a new laptop.",
+        "3. The Upgrade Budget Trap\n\nYou were planning for a $1000 laptop, but the DRAM spike means you need a 20% buffer. That's an extra $200 you didn't budget for.",
+        "4. The Timing Question\n\nDRAM prices are volatile. If you wait, they might drop—or rise further. It's a gamble, and component costs are the crystal ball.",
+        "5. Check Component Costs First\n\nBefore you buy or wait, check current DRAM prices. If they're still climbing, buying now might save you money. If they're falling, hold off. What's your move?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "DRAM prices doubled. Your MacBook just got pricier.",
+        "Supply chain shock hits Apple's cheapest laptops.",
+        "Budget 20% extra for your next upgrade.",
+        "Buy now or wait? Watch component costs.",
+        "Check DRAM prices before you decide."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next MacBook Air just got pricier—and it’s not Apple’s fault. Global DRAM prices have doubled in one quarter, and that cost is landing directly on the cheapest laptop in the lineup. 💸\n\nA $1000 budget now needs a 20% buffer, or roughly $200 extra, just to cover the same machine you were eyeing last month. This is a supply chain shock, not a spec upgrade. If you’re planning to buy, check current DRAM prices first—if they’re climbing, buying now might save you; if falling, waiting could pay off. 📈\n\nFor anyone whose work depends on a new laptop, that timing gamble is real. 📉 Are you buying now or holding out?"
+    }
+  },
+  "instagram_caption": "Your next MacBook Air just got pricier—and it’s not Apple’s fault. Global DRAM prices have doubled in one quarter, and that cost is landing directly on the cheapest laptop in the lineup. 💸\n\nA $1000 budget now needs a 20% buffer, or roughly $200 extra, just to cover the same machine you were eyeing last month. This is a supply chain shock, not a spec upgrade. If you’re planning to buy, check current DRAM prices first—if they’re climbing, buying now might save you; if falling, waiting could pay off. 📈\n\nFor anyone whose work depends on a new laptop, that timing gamble is real. 📉 Are you buying now or holding out?",
+  "carousel_slides": [
+    {
+      "hook": "Your next laptop just got $200 pricier",
+      "description": "DRAM prices doubled, so Apple's cheapest MacBook Air now carries a hidden memory tax. Budget a 20% buffer or get caught off guard.",
+      "visual_hint": "MacBook Air with dollar signs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "MacBook Air laptop"
+    },
+    {
+      "hook": "Why the sudden price hike?",
+      "description": "It's not Apple's greed—it's a supply chain shock. Global DRAM costs surged last quarter, and that increase lands directly on your wallet.",
+      "visual_hint": "Rising graph with memory chips",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your upgrade budget just broke",
+      "description": "Planned for $1000? The DRAM spike means you need 20% extra—that's $200 you didn't expect. Plan accordingly or face a rude surprise.",
+      "visual_hint": "Broken piggy bank with cash",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken piggy bank",
+      "image": "https://images.pexels.com/photos/7828324/pexels-photo-7828324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buy now or wait? Risky gamble",
+      "description": "DRAM prices are volatile. They may drop or climb further. The crystal ball is component costs—so check them before you decide.",
+      "visual_hint": "Person weighing two options",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person decision scales",
+      "image": "https://images.pexels.com/photos/8431782/pexels-photo-8431782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save money: check DRAM prices first",
+      "description": "Before buying or waiting, google current DRAM prices. If they're still climbing, buy now might save you. If falling, hold off. What's your move?",
+      "visual_hint": "Hand tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone closeup",
+      "image": "https://images.pexels.com/photos/12969045/pexels-photo-12969045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
+  "savedAt": "2026-08-02T22:46:20.584Z",
+  "sourceId": "97319d1fc46e3c11704b06aeccc6bdb6"
+}
