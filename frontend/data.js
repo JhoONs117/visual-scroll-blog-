@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "is-this-billboard-hot-100-hit-ai-slop-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "pubDate": "2026-08-01T18:20:00.000Z",
+    "slides": [
+      "Can an AI really top the Billboard Hot 100?",
+      "A track by ghostwriter977 was deleted for fraud.",
+      "But another AI song secretly climbed to #40.",
+      "Your next favorite hit might be synthetic.",
+      "Check the songwriter credits before you stream."
+    ],
+    "thread_text": [
+      "1. AI hit #40 — then vanished?\n\nA synthetic track by an unknown artist quietly climbed the Billboard Hot 100 to #40 before being pulled down. It wasn't a prank — it was real.",
+      "2. Fraud deletion explained\n\nUniversal Music got the track removed after claiming it was fraud. But the system didn't catch it initially — it charted first.",
+      "3. The loophole exposed\n\nLabels have no clear rule for AI vocals. The track slipped through because it mimicked a real artist's voice without permission.",
+      "4. Your playlist is at risk\n\nIf AI can top charts without detection, your next favorite hit might be synthetic. You could be streaming a ghostwriter bot right now.",
+      "5. Check the credits before you play\n\nNext time a song feels too perfect, look at the songwriter credits. If you see 'AI' or a fake name, question it. Would you stream a machine?"
+    ],
+    "video_script": [
+      "AI song hit number 40, then deleted.",
+      "Labels say fraud, but it slipped through.",
+      "No clear rules for AI voices.",
+      "Your next favorite might be synthetic.",
+      "Check credits before you stream."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI hit #40 — then vanished?\n\nA synthetic track by an unknown artist quietly climbed the Billboard Hot 100 to #40 before being pulled down. It wasn't a prank — it was real.",
+          "2. Fraud deletion explained\n\nUniversal Music got the track removed after claiming it was fraud. But the system didn't catch it initially — it charted first.",
+          "3. The loophole exposed\n\nLabels have no clear rule for AI vocals. The track slipped through because it mimicked a real artist's voice without permission.",
+          "4. Your playlist is at risk\n\nIf AI can top charts without detection, your next favorite hit might be synthetic. You could be streaming a ghostwriter bot right now.",
+          "5. Check the credits before you play\n\nNext time a song feels too perfect, look at the songwriter credits. If you see 'AI' or a fake name, question it. Would you stream a machine?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI song hit number 40, then deleted.",
+          "Labels say fraud, but it slipped through.",
+          "No clear rules for AI voices.",
+          "Your next favorite might be synthetic.",
+          "Check credits before you stream."
+        ]
+      },
+      "instagram": {
+        "caption": "A song nobody had heard of just hit #40 on the Billboard Hot 100 — then got deleted for fraud. 🎧\n\nUniversal Music pulled it after the fact, claiming the track was fake. But the chart placement was real. The system only caught it after it had already made it big.\n\nThere's no clear rule yet for AI vocals that copy real artists without permission. The track slipped through because it sounded too close to the original.\n\nIf you publish music, this means your next competitor isn't a person — it's a machine that mimics any voice. 🔇\n\nBefore you hit play on that \"perfect\" single — would you still stream it if you knew the voice on it never existed? 🤖"
+      }
+    },
+    "instagram_caption": "A song nobody had heard of just hit #40 on the Billboard Hot 100 — then got deleted for fraud. 🎧\n\nUniversal Music pulled it after the fact, claiming the track was fake. But the chart placement was real. The system only caught it after it had already made it big.\n\nThere's no clear rule yet for AI vocals that copy real artists without permission. The track slipped through because it sounded too close to the original.\n\nIf you publish music, this means your next competitor isn't a person — it's a machine that mimics any voice. 🔇\n\nBefore you hit play on that \"perfect\" single — would you still stream it if you knew the voice on it never existed? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Your next favorite hit is AI?",
+        "description": "A synthetic track by an unknown artist hit #40 on the Billboard Hot 100 before being pulled. It wasn't a prank—it was real.",
+        "visual_hint": "Music chart with AI overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "billboard hot 100 chart"
+      },
+      {
+        "hook": "It charted before getting deleted",
+        "description": "Universal Music claimed fraud and got the AI song removed—but only after it already charted. The system didn't catch it initially.",
+        "visual_hint": "Finger pressing delete button",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "delete button keyboard",
+        "image": "https://images.pexels.com/photos/4145372/pexels-photo-4145372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Labels have no clear AI rule",
+        "description": "The track mimicked a real artist's voice without permission, slipping through because there's no policy for AI vocals. That loophole is wide open.",
+        "visual_hint": "Magnifying glass over legal papers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You might be streaming a bot",
+        "description": "If AI can top charts without detection, your playlist could already be full of synthetic tracks. You might be streaming a ghostwriter bot right now.",
+        "visual_hint": "Phone with ghost icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone ghost icon",
+        "image": "https://images.pexels.com/photos/17805025/pexels-photo-17805025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you stream next",
+        "description": "Check the songwriter credits. If you see 'AI' or a fake name, question it. Think: would you stream a machine?",
+        "visual_hint": "Finger pointing at credits",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "music credits closeup",
+        "image": "https://images.pexels.com/photos/18940650/pexels-photo-18940650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+    "savedAt": "2026-08-02T05:20:12.869Z",
+    "sourceId": "5bd2ff2f2cf8b07aecca793da670cb22"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "youtuber-hank-green-says-his-ai-usage-is-not-healt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000",
+    "slides": [
+      "Hank Green calls his AI usage 'not healthy'—why?",
+      "He admits to coding with AI constantly, even at night.",
+      "But he deleted his most addictive AI tool completely.",
+      "For creators, AI now demands hard usage boundaries.",
+      "Set one rule today: no AI after 9 PM."
+    ],
+    "thread_text": [
+      "1. He Deleted His AI Crutch\n\nHank Green, a creator known for tech enthusiasm, admitted his AI use was 'not healthy'—and then removed his most addictive tool entirely.",
+      "2. Even the Addicted See It\n\nHe codes with AI constantly, even at night—a habit he compares to an unhealthy dependency. If he can't moderate it, what does that say for the rest of us?",
+      "3. The Real Cost for Creators\n\nFor writers and makers, AI isn't a one-time boost—it's a constant temptation that erodes focus and sleep. Boundaries aren't optional; they're survival.",
+      "4. A Simple Test for You\n\nCheck your last 30 days: How many nights did you let AI keep you up? Honest count might surprise you—and that's the first step to reclaiming your time.",
+      "5. Set One Rule Tonight\n\nNo AI after 9 PM. Just try it for a week. If you find yourself reaching for it anyway, ask why— and maybe delete the app like Hank did."
+    ],
+    "video_script": [
+      "Hank Green knew his AI habit hurt.",
+      "He coded all night, every night.",
+      "Then he deleted his favorite AI tool.",
+      "Creators need strong boundaries with AI now.",
+      "Try: no AI after nine, today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. He Deleted His AI Crutch\n\nHank Green, a creator known for tech enthusiasm, admitted his AI use was 'not healthy'—and then removed his most addictive tool entirely.",
+          "2. Even the Addicted See It\n\nHe codes with AI constantly, even at night—a habit he compares to an unhealthy dependency. If he can't moderate it, what does that say for the rest of us?",
+          "3. The Real Cost for Creators\n\nFor writers and makers, AI isn't a one-time boost—it's a constant temptation that erodes focus and sleep. Boundaries aren't optional; they're survival.",
+          "4. A Simple Test for You\n\nCheck your last 30 days: How many nights did you let AI keep you up? Honest count might surprise you—and that's the first step to reclaiming your time.",
+          "5. Set One Rule Tonight\n\nNo AI after 9 PM. Just try it for a week. If you find yourself reaching for it anyway, ask why— and maybe delete the app like Hank did."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hank Green knew his AI habit hurt.",
+          "He coded all night, every night.",
+          "Then he deleted his favorite AI tool.",
+          "Creators need strong boundaries with AI now.",
+          "Try: no AI after nine, today."
+        ]
+      },
+      "instagram": {
+        "caption": "Hank Green just deleted his most addictive AI tool—after admitting his usage was \"not healthy.\" He codes with AI constantly, even at night, and compares the habit to a dependency he can't moderate. 🕘\n\nIf a tech-obsessed creator like him can't control the pull, the rest of us are on thin ice. The real cost isn't productivity—it's focus and sleep, the two things your content depends on. 😬\n\nFor anyone who writes or makes, this means one thing: boundaries aren't optional anymore, they're survival. You can't out-discipline a tool engineered to keep you hooked.\n\nSo here's your concrete step: no AI after 9 PM for one week. Count how many times you reach for it anyway. What number would you see tonight? 🔌"
+      }
+    },
+    "instagram_caption": "Hank Green just deleted his most addictive AI tool—after admitting his usage was \"not healthy.\" He codes with AI constantly, even at night, and compares the habit to a dependency he can't moderate. 🕘\n\nIf a tech-obsessed creator like him can't control the pull, the rest of us are on thin ice. The real cost isn't productivity—it's focus and sleep, the two things your content depends on. 😬\n\nFor anyone who writes or makes, this means one thing: boundaries aren't optional anymore, they're survival. You can't out-discipline a tool engineered to keep you hooked.\n\nSo here's your concrete step: no AI after 9 PM for one week. Count how many times you reach for it anyway. What number would you see tonight? 🔌",
+    "carousel_slides": [
+      {
+        "hook": "Did he really delete his AI?",
+        "description": "Hank Green called his AI habit unhealthy and removed his most addictive tool. Even tech optimists struggle to set limits.",
+        "visual_hint": "Broken smartphone on table",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen broken"
+      },
+      {
+        "hook": "Why can’t he stop coding?",
+        "description": "Hank codes with AI even at night, a habit he compares to dependency. If he can't moderate, what about us?",
+        "visual_hint": "Laptop glowing in dark room",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "laptop dark room",
+        "image": "https://images.pexels.com/photos/5496464/pexels-photo-5496464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Creators losing sleep and focus",
+        "description": "AI tempts writers and makers constantly, eroding focus and sleep. Boundaries aren't optional—they're survival now.",
+        "visual_hint": "Clock showing late hour",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bedroom alarm clock",
+        "image": "https://images.pexels.com/photos/11162426/pexels-photo-11162426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How many nights did AI win?",
+        "description": "Check your last 30 days: nights lost to AI scrolling or coding. Honest count is your first step back.",
+        "visual_hint": "Calendar with marked nights",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar with markers",
+        "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try no AI after 9 PM tonight",
+        "description": "Set one rule: no AI after 9 PM. Try it for a week. If you reach anyway, ask why—maybe delete like Hank.",
+        "visual_hint": "Phone turned off at 9 PM",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone turned off",
+        "image": "https://images.pexels.com/photos/18831082/pexels-photo-18831082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+    "savedAt": "2026-08-02T05:19:57.640Z",
+    "sourceId": "c3a681b5291466f92e6016c38ff1716b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "judge-denies-xai-s-request-to-block-minnesota-ban-",
     "prompt_version": "1.0.0",
     "status": "published",

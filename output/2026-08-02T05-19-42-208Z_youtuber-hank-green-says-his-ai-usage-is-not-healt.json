@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtuber-hank-green-says-his-ai-usage-is-not-healt",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+  "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+  "pubDate": "Sat, 01 Aug 2026 19:45:45 +0000",
+  "slides": [
+    "Hank Green calls his AI usage 'not healthy'—why?",
+    "He admits to coding with AI constantly, even at night.",
+    "But he deleted his most addictive AI tool completely.",
+    "For creators, AI now demands hard usage boundaries.",
+    "Set one rule today: no AI after 9 PM."
+  ],
+  "thread_text": [
+    "1. He Deleted His AI Crutch\n\nHank Green, a creator known for tech enthusiasm, admitted his AI use was 'not healthy'—and then removed his most addictive tool entirely.",
+    "2. Even the Addicted See It\n\nHe codes with AI constantly, even at night—a habit he compares to an unhealthy dependency. If he can't moderate it, what does that say for the rest of us?",
+    "3. The Real Cost for Creators\n\nFor writers and makers, AI isn't a one-time boost—it's a constant temptation that erodes focus and sleep. Boundaries aren't optional; they're survival.",
+    "4. A Simple Test for You\n\nCheck your last 30 days: How many nights did you let AI keep you up? Honest count might surprise you—and that's the first step to reclaiming your time.",
+    "5. Set One Rule Tonight\n\nNo AI after 9 PM. Just try it for a week. If you find yourself reaching for it anyway, ask why— and maybe delete the app like Hank did."
+  ],
+  "video_script": [
+    "Hank Green knew his AI habit hurt.",
+    "He coded all night, every night.",
+    "Then he deleted his favorite AI tool.",
+    "Creators need strong boundaries with AI now.",
+    "Try: no AI after nine, today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. He Deleted His AI Crutch\n\nHank Green, a creator known for tech enthusiasm, admitted his AI use was 'not healthy'—and then removed his most addictive tool entirely.",
+        "2. Even the Addicted See It\n\nHe codes with AI constantly, even at night—a habit he compares to an unhealthy dependency. If he can't moderate it, what does that say for the rest of us?",
+        "3. The Real Cost for Creators\n\nFor writers and makers, AI isn't a one-time boost—it's a constant temptation that erodes focus and sleep. Boundaries aren't optional; they're survival.",
+        "4. A Simple Test for You\n\nCheck your last 30 days: How many nights did you let AI keep you up? Honest count might surprise you—and that's the first step to reclaiming your time.",
+        "5. Set One Rule Tonight\n\nNo AI after 9 PM. Just try it for a week. If you find yourself reaching for it anyway, ask why— and maybe delete the app like Hank did."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hank Green knew his AI habit hurt.",
+        "He coded all night, every night.",
+        "Then he deleted his favorite AI tool.",
+        "Creators need strong boundaries with AI now.",
+        "Try: no AI after nine, today."
+      ]
+    },
+    "instagram": {
+      "caption": "Hank Green just deleted his most addictive AI tool—after admitting his usage was \"not healthy.\" He codes with AI constantly, even at night, and compares the habit to a dependency he can't moderate. 🕘\n\nIf a tech-obsessed creator like him can't control the pull, the rest of us are on thin ice. The real cost isn't productivity—it's focus and sleep, the two things your content depends on. 😬\n\nFor anyone who writes or makes, this means one thing: boundaries aren't optional anymore, they're survival. You can't out-discipline a tool engineered to keep you hooked.\n\nSo here's your concrete step: no AI after 9 PM for one week. Count how many times you reach for it anyway. What number would you see tonight? 🔌"
+    }
+  },
+  "instagram_caption": "Hank Green just deleted his most addictive AI tool—after admitting his usage was \"not healthy.\" He codes with AI constantly, even at night, and compares the habit to a dependency he can't moderate. 🕘\n\nIf a tech-obsessed creator like him can't control the pull, the rest of us are on thin ice. The real cost isn't productivity—it's focus and sleep, the two things your content depends on. 😬\n\nFor anyone who writes or makes, this means one thing: boundaries aren't optional anymore, they're survival. You can't out-discipline a tool engineered to keep you hooked.\n\nSo here's your concrete step: no AI after 9 PM for one week. Count how many times you reach for it anyway. What number would you see tonight? 🔌",
+  "carousel_slides": [
+    {
+      "hook": "Did he really delete his AI?",
+      "description": "Hank Green called his AI habit unhealthy and removed his most addictive tool. Even tech optimists struggle to set limits.",
+      "visual_hint": "Broken smartphone on table",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone screen broken"
+    },
+    {
+      "hook": "Why can’t he stop coding?",
+      "description": "Hank codes with AI even at night, a habit he compares to dependency. If he can't moderate, what about us?",
+      "visual_hint": "Laptop glowing in dark room",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laptop dark room",
+      "image": "https://images.pexels.com/photos/5496464/pexels-photo-5496464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Creators losing sleep and focus",
+      "description": "AI tempts writers and makers constantly, eroding focus and sleep. Boundaries aren't optional—they're survival now.",
+      "visual_hint": "Clock showing late hour",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bedroom alarm clock",
+      "image": "https://images.pexels.com/photos/11162426/pexels-photo-11162426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How many nights did AI win?",
+      "description": "Check your last 30 days: nights lost to AI scrolling or coding. Honest count is your first step back.",
+      "visual_hint": "Calendar with marked nights",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar with markers",
+      "image": "https://images.pexels.com/photos/7580915/pexels-photo-7580915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try no AI after 9 PM tonight",
+      "description": "Set one rule: no AI after 9 PM. Try it for a week. If you reach anyway, ask why—maybe delete like Hank.",
+      "visual_hint": "Phone turned off at 9 PM",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone turned off",
+      "image": "https://images.pexels.com/photos/18831082/pexels-photo-18831082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+  "savedAt": "2026-08-02T05:19:57.640Z",
+  "sourceId": "c3a681b5291466f92e6016c38ff1716b"
+}
