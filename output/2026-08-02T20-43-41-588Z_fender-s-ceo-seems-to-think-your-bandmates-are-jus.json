@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fender-s-ceo-seems-to-think-your-bandmates-are-jus",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+  "pubDate": "2026-08-02T19:36:08.000Z",
+  "slides": [
+    "Can Fender's CEO replace your bandmates with analog AI?",
+    "New digital guitars track every note your band plays.",
+    "Their CEO claims mistakes are just raw data, not flaws.",
+    "Your next jam session could be produced by your instrument.",
+    "Test one: see if your band's sound becomes too machine-like."
+  ],
+  "thread_text": [
+    "1. Your bandmate is an AI?\n\nFender's new tech tracks every note live, turning mistakes into data for machine learning.",
+    "2. The data doesn't lie.\n\nYour instrument learns your style, then suggests riffs—or even writes parts for your next session.",
+    "3. No more bad takes?\n\nAI edits your playing in real time, smoothing errors before the crowd hears them.",
+    "4. But who's the artist?\n\nWhen the guitar composes, do you still own the song—or does the algorithm?",
+    "5. Test it this week.\n\nRecord your next jam with AI assist and compare the feel. Does it sound alive or sterile?"
+  ],
+  "video_script": [
+    "Your guitar learns your mistakes.",
+    "It turns them into new riffs.",
+    "Soon it writes your songs.",
+    "Is that still your band?",
+    "Test it and judge for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your bandmate is an AI?\n\nFender's new tech tracks every note live, turning mistakes into data for machine learning.",
+        "2. The data doesn't lie.\n\nYour instrument learns your style, then suggests riffs—or even writes parts for your next session.",
+        "3. No more bad takes?\n\nAI edits your playing in real time, smoothing errors before the crowd hears them.",
+        "4. But who's the artist?\n\nWhen the guitar composes, do you still own the song—or does the algorithm?",
+        "5. Test it this week.\n\nRecord your next jam with AI assist and compare the feel. Does it sound alive or sterile?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your guitar learns your mistakes.",
+        "It turns them into new riffs.",
+        "Soon it writes your songs.",
+        "Is that still your band?",
+        "Test it and judge for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next bassist might be a cable. 🎸  \nFender’s CEO says new digital guitars track every note your band plays live—and feed mistakes into machine learning as “raw data.”  \n\nThe instrument learns your style, then suggests riffs or writes parts for you. It even smooths errors in real time, before the crowd hears them.  \n\nFor anyone recording or performing, this means the tool you play can now edit your take before you approve it.  \n\nBut if the guitar composes and fixes your flubs, where does your band’s sound end and the algorithm begin? 🎛️ Try one this week: record a jam with AI assist, then ask yourself if it still feels like yours. ⚡"
+    }
+  },
+  "instagram_caption": "Your next bassist might be a cable. 🎸  \nFender’s CEO says new digital guitars track every note your band plays live—and feed mistakes into machine learning as “raw data.”  \n\nThe instrument learns your style, then suggests riffs or writes parts for you. It even smooths errors in real time, before the crowd hears them.  \n\nFor anyone recording or performing, this means the tool you play can now edit your take before you approve it.  \n\nBut if the guitar composes and fixes your flubs, where does your band’s sound end and the algorithm begin? 🎛️ Try one this week: record a jam with AI assist, then ask yourself if it still feels like yours. ⚡",
+  "carousel_slides": [
+    {
+      "hook": "Your bandmate is now a machine.",
+      "description": "Fender's new guitars track every note live, turning mistakes into data. Your instrument learns your style and writes parts for your next session.",
+      "visual_hint": "Guitar with digital sensors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "guitar with sensors"
+    },
+    {
+      "hook": "The guitar plays back your own riffs.",
+      "description": "The data doesn't lie: your instrument learns your style, then suggests riffs or writes parts for your next jam session.",
+      "visual_hint": "Hands holding guitar, sound waves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "guitar strings closeup",
+      "image": "https://images.pexels.com/photos/15023249/pexels-photo-15023249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wrong notes? They’re just raw data.",
+      "description": "Mistakes become training data, not flaws. The guitar's AI edits your playing in real time, smoothing errors before the crowd hears them.",
+      "visual_hint": "Zoomed sensor readout on fretboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "electronic circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who owns the song when AI composes?",
+      "description": "If the guitar writes the parts, are you the artist or just the operator? The line between human and machine gets blurred.",
+      "visual_hint": "Human hand playing guitar, digital overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand playing guitar",
+      "image": "https://images.pexels.com/photos/29148356/pexels-photo-29148356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it tonight, save your jam.",
+      "description": "Record your next session with AI assistance and compare the feel. Is it alive or sterile? Drop a comment or DM us your result.",
+      "visual_hint": "Guitar with recording button and play icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "recording studio",
+      "image": "https://images.pexels.com/photos/5657675/pexels-photo-5657675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9724610532046%2C100%2C80.055077893591&amp;w=1200",
+  "savedAt": "2026-08-02T20:43:54.610Z",
+  "sourceId": "bbc62a8f12e049508763fe3b39209828"
+}
