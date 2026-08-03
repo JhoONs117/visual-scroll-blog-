@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "design-arena-creators-raise-7-9-million-to-bring-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "pubDate": "Mon, 03 Aug 2026 19:28:57 +0000",
+      "slides": [
+        "Who decides what makes AI tasteful?",
+        "Design Arena's creators just raised $7.9 million.",
+        "Their goal: inject human aesthetic judgment into models.",
+        "Your AI outputs could finally match your brand's style.",
+        "Test their taste filter against your own next brief."
+      ],
+      "thread_text": [
+        "1. Who calls the shots on taste?\n\nDesign Arena's creators just pocketed $7.9 million to let AI judge your brand's vibe.",
+        "2. The funding twist\n\nThey're injecting human aesthetics into models. Look at a logo, feel the style.",
+        "3. The output shift\n\nYour AI drafts could finally match your brand's tone. No more generic text walls.",
+        "4. Test their filter today\n\nRun your next brief through their taste filter. Compare to your gut call.",
+        "5. Your move, creator\n\nDoes their taste beat yours? Try it on one real post this week and see."
+      ],
+      "video_script": [
+        "Who decides AI taste?",
+        "Design Arena just raised seven point nine million.",
+        "They add human judgment to models.",
+        "Your outputs could match brand style.",
+        "Test their filter against your next brief."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who calls the shots on taste?\n\nDesign Arena's creators just pocketed $7.9 million to let AI judge your brand's vibe.",
+            "2. The funding twist\n\nThey're injecting human aesthetics into models. Look at a logo, feel the style.",
+            "3. The output shift\n\nYour AI drafts could finally match your brand's tone. No more generic text walls.",
+            "4. Test their filter today\n\nRun your next brief through their taste filter. Compare to your gut call.",
+            "5. Your move, creator\n\nDoes their taste beat yours? Try it on one real post this week and see."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who decides AI taste?",
+            "Design Arena just raised seven point nine million.",
+            "They add human judgment to models.",
+            "Your outputs could match brand style.",
+            "Test their filter against your next brief."
+          ]
+        },
+        "instagram": {
+          "caption": "$7.9 million just went into teaching AI what \"good taste\" actually looks like. 🎨\n\nThe team behind Design Arena raised the cash to inject human aesthetic judgment into models — so when you ask for a logo or a layout, it doesn't come back looking like a generic template. They're training it to *feel* style, not just analyze pixels.\n\nFor you, that means the next AI draft could actually match your brand's tone — less robotic walls of text, more visuals that don't make you cringe. 🖌️\n\nRun your next brief through their taste filter. Compare it to your gut call. Whose judgment wins on a real post this week? 🤔"
+        }
+      },
+      "instagram_caption": "$7.9 million just went into teaching AI what \"good taste\" actually looks like. 🎨\n\nThe team behind Design Arena raised the cash to inject human aesthetic judgment into models — so when you ask for a logo or a layout, it doesn't come back looking like a generic template. They're training it to *feel* style, not just analyze pixels.\n\nFor you, that means the next AI draft could actually match your brand's tone — less robotic walls of text, more visuals that don't make you cringe. 🖌️\n\nRun your next brief through their taste filter. Compare it to your gut call. Whose judgment wins on a real post this week? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Who decides what makes AI tasteful?",
+          "description": "Design Arena's creators just raised $7.9 million to inject human aesthetic judgment into AI models. Your brand's vibe could finally be understood.",
+          "visual_hint": "Golden ratio overlay on AI face",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "abstract art paint"
+        },
+        {
+          "hook": "AI learns your aesthetic gut feel.",
+          "description": "The funding will let them teach models to judge style like humans do. Look at a logo, feel the vibe—now AI gets it too.",
+          "visual_hint": "Hand touching glowing digital screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "color palette swatches",
+          "image": "https://images.pexels.com/photos/6474454/pexels-photo-6474454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI drafts could match your brand.",
+          "description": "With human aesthetics baked in, AI outputs finally align with your tone. No more generic text walls—just on-brand content from the first draft.",
+          "visual_hint": "Variable font morphing smoothly",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "design studio workspace",
+          "image": "https://images.pexels.com/photos/6322359/pexels-photo-6322359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test their taste filter on your brief.",
+          "description": "Run your next creative brief through their filter. Compare the result to your own gut call. See if AI can match your taste.",
+          "visual_hint": "A/B comparison of two designs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "side by side comparison",
+          "image": "https://images.pexels.com/photos/38137454/pexels-photo-38137454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Comment 'TASTE' to try it yourself.",
+          "description": "Take one real post this week and run it through their filter. See if their taste beats yours. Save this for your next brief.",
+          "visual_hint": "Finger tapping phone screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone hand holding",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+      "savedAt": "2026-08-03T22:53:46.843Z",
+      "sourceId": "5c210e03771f39bbc885100257e1d238"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-biological-data-matters-more-in-ai-drug-discov",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why biological data matters more in AI drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Why do AI models still fail in drug discovery?",
+        "Most models train on chemical, not biological, data.",
+        "Biological data reveals how drugs actually affect cells.",
+        "Your next candidate's failure may be predicted earlier.",
+        "Start integrating biological assays into your pipeline today."
+      ],
+      "thread_text": [
+        "1. Your next drug candidate is already doomed\n\nMost AI models predict chemistry, not biology. They miss how compounds actually behave in cells, so failures show up late and expensive.",
+        "2. The blind spot: chemical vs biological data\n\nModels trained on chemical structures learn patterns, but not how drugs affect living systems. That gap hides the real reasons candidates fail.",
+        "3. Biological data reveals the true story\n\nAssays on cells show mechanisms, toxicity, and efficacy early. Without them, you're flying blind past the chemical stage.",
+        "4. Fail earlier, not later\n\nIntegrating biological assays into screening means you spot failures before animal trials or clinical phases. It's a shift from reactive to proactive.",
+        "5. Start with one assay on your top 10 candidates\n\nRun a simple cell-based test this week. If you haven't, you're betting on chemistry alone."
+      ],
+      "video_script": [
+        "AI models miss biological data in drug discovery.",
+        "Chemical patterns don't show how drugs affect cells.",
+        "Biological assays reveal true drug effects early.",
+        "Spot failures sooner, before trials and costs.",
+        "Start adding biological assays to your pipeline."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your next drug candidate is already doomed\n\nMost AI models predict chemistry, not biology. They miss how compounds actually behave in cells, so failures show up late and expensive.",
+            "2. The blind spot: chemical vs biological data\n\nModels trained on chemical structures learn patterns, but not how drugs affect living systems. That gap hides the real reasons candidates fail.",
+            "3. Biological data reveals the true story\n\nAssays on cells show mechanisms, toxicity, and efficacy early. Without them, you're flying blind past the chemical stage.",
+            "4. Fail earlier, not later\n\nIntegrating biological assays into screening means you spot failures before animal trials or clinical phases. It's a shift from reactive to proactive.",
+            "5. Start with one assay on your top 10 candidates\n\nRun a simple cell-based test this week. If you haven't, you're betting on chemistry alone."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI models miss biological data in drug discovery.",
+            "Chemical patterns don't show how drugs affect cells.",
+            "Biological assays reveal true drug effects early.",
+            "Spot failures sooner, before trials and costs.",
+            "Start adding biological assays to your pipeline."
+          ]
+        },
+        "instagram": {
+          "caption": "Most AI models for drug discovery are trained on chemical structures, not on how compounds actually behave inside living cells. That’s why so many candidates fail late—after millions spent.\n\n🧬 Biological assays—tests on real cells—show toxicity and efficacy early. Chemical data alone can’t predict what happens in a human body.\n\n🔬 If you’re screening without biological data, you’re flying blind past the chemistry stage. A simple cell-based test on your top 10 candidates today could save you a failed trial next year.\n\nAre you betting your pipeline on chemical patterns alone?"
+        }
+      },
+      "instagram_caption": "Most AI models for drug discovery are trained on chemical structures, not on how compounds actually behave inside living cells. That’s why so many candidates fail late—after millions spent.\n\n🧬 Biological assays—tests on real cells—show toxicity and efficacy early. Chemical data alone can’t predict what happens in a human body.\n\n🔬 If you’re screening without biological data, you’re flying blind past the chemistry stage. A simple cell-based test on your top 10 candidates today could save you a failed trial next year.\n\nAre you betting your pipeline on chemical patterns alone?",
+      "carousel_slides": [
+        {
+          "hook": "Your next drug candidate is already doomed",
+          "description": "Most AI models predict chemistry, not biology. Missing cellular effects means failures surface late and cost millions.",
+          "visual_hint": "broken pills on dark background",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken pills dark"
+        },
+        {
+          "hook": "The blind spot: chemical vs biological data",
+          "description": "Models trained on chemical structures miss how compounds behave in living systems. That gap hides real failure reasons.",
+          "visual_hint": "split screen molecule vs cell",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "molecule structure",
+          "image": "https://images.pexels.com/photos/7723368/pexels-photo-7723368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Biological data reveals the true story",
+          "description": "Cell assays show mechanisms, toxicity, and efficacy early. Without them, you're flying blind past the chemical stage.",
+          "visual_hint": "microscope zooming into cells",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microscope cells",
+          "image": "https://images.pexels.com/photos/36372301/pexels-photo-36372301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fail earlier, not later",
+          "description": "Integrating biological assays into screening spots failures before animal trials. Shift from reactive to proactive.",
+          "visual_hint": "hand holding test tube",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand test tube",
+          "image": "https://images.pexels.com/photos/36529662/pexels-photo-36529662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start with one assay on top 10 candidates",
+          "description": "Run a simple cell-based test this week. If you haven't, you're betting on chemistry alone.",
+          "visual_hint": "checkmark on lab plate",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "lab plate",
+          "image": "https://images.pexels.com/photos/9259944/pexels-photo-9259944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/6191557/pexels-photo-6191557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-03T22:53:33.772Z",
+      "sourceId": "ef2a15177280378c04bfcc52fb764dbb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "designarena-creators-raise-7-9-million-to-bring-ta",
       "prompt_version": "1.0.0",
       "status": "published",
