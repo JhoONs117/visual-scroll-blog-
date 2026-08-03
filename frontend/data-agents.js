@@ -3,6 +3,216 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "china-8217-s-alibaba-takes-another-swipe-at-americ",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "pubDate": "2026-08-03T11:01:11.000Z",
+      "slides": [
+        "Can Alibaba's new model dethrone America's AI lead?",
+        "It matches top US systems in key benchmarks.",
+        "Yet it runs on older, cheaper chips than rivals.",
+        "US developers now face a serious cost-performance threat.",
+        "Test its open weights against your current model today."
+      ],
+      "thread_text": [
+        "1. Can Alibaba dethrone America?\n\nA new model matches top US systems in key benchmarks, but runs on older, cheaper chips.",
+        "2. Cost-performance shift\n\nUS developers face a serious threat because this model delivers comparable results at a fraction of the cost.",
+        "3. Open weights, immediate test\n\nAlibaba's model is open-sourced, so you can run it yourself today.",
+        "4. The chip advantage\n\nUsing older hardware means less dependency on cutting-edge supply chains.",
+        "5. Test it on your workflow\n\nTake a task you currently run on your model and try it with these open weights. Compare speed and cost.",
+        "6. Does your model justify its price?\n\nRun the same prompt on both systems and see which one wins on your budget."
+      ],
+      "video_script": [
+        "Alibaba's new model matches America's best.",
+        "But runs on older, cheaper chips.",
+        "US developers now face a cost threat.",
+        "Open weights let you test it yourself.",
+        "Will you switch your workflow today?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Alibaba dethrone America?\n\nA new model matches top US systems in key benchmarks, but runs on older, cheaper chips.",
+            "2. Cost-performance shift\n\nUS developers face a serious threat because this model delivers comparable results at a fraction of the cost.",
+            "3. Open weights, immediate test\n\nAlibaba's model is open-sourced, so you can run it yourself today.",
+            "4. The chip advantage\n\nUsing older hardware means less dependency on cutting-edge supply chains.",
+            "5. Test it on your workflow\n\nTake a task you currently run on your model and try it with these open weights. Compare speed and cost.",
+            "6. Does your model justify its price?\n\nRun the same prompt on both systems and see which one wins on your budget."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Alibaba's new model matches America's best.",
+            "But runs on older, cheaper chips.",
+            "US developers now face a cost threat.",
+            "Open weights let you test it yourself.",
+            "Will you switch your workflow today?"
+          ]
+        },
+        "instagram": {
+          "caption": "A model matching America’s top AI systems on key benchmarks is running on older, cheaper chips — not cutting-edge hardware.  \n\nAlibaba just released this open-source model, and the cost-performance gap is the story. US developers can now get comparable results for a fraction of the spend, without waiting for the newest supply chain. The open weights mean you can run it yourself today.  \n\nThis changes your math on tooling. If you pay a premium for a US model, you can now A/B test the same prompt on Alibaba’s weights and check the speed and the bill.  \n\nDoes your current model justify its price when the alternative runs leaner? ⚖️💻📉"
+        }
+      },
+      "instagram_caption": "A model matching America’s top AI systems on key benchmarks is running on older, cheaper chips — not cutting-edge hardware.  \n\nAlibaba just released this open-source model, and the cost-performance gap is the story. US developers can now get comparable results for a fraction of the spend, without waiting for the newest supply chain. The open weights mean you can run it yourself today.  \n\nThis changes your math on tooling. If you pay a premium for a US model, you can now A/B test the same prompt on Alibaba’s weights and check the speed and the bill.  \n\nDoes your current model justify its price when the alternative runs leaner? ⚖️💻📉",
+      "carousel_slides": [
+        {
+          "hook": "Can Alibaba dethrone America?",
+          "description": "A new model matches top US systems on key benchmarks, yet runs on older, cheaper chips. This could level the playing field.",
+          "visual_hint": "Dramatic AI chip showdown",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "AI chip comparison"
+        },
+        {
+          "hook": "Cost-performance shift underway",
+          "description": "US developers face a serious threat: comparable results at a fraction of the cost. Efficiency now beats raw power.",
+          "visual_hint": "Falling cost graph",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cost performance graph",
+          "image": "https://images.pexels.com/photos/7948072/pexels-photo-7948072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Open weights, immediate test",
+          "description": "Alibaba's model is open-sourced, so you can run it yourself today. Test it on your workflow and compare speed and cost.",
+          "visual_hint": "Download button and code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "open source code",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Old chips, new edge",
+          "description": "Using older hardware means less dependency on cutting-edge supply chains. This could shift the global AI balance.",
+          "visual_hint": "Old chip in hand",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "old computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next AI test",
+          "description": "Run the same prompt on both systems and see which one wins on your budget. Test it now and share your results.",
+          "visual_hint": "Checkmark on savings",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "savings calculator",
+          "image": "https://images.pexels.com/photos/4386375/pexels-photo-4386375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+      "savedAt": "2026-08-03T12:50:55.164Z",
+      "sourceId": "0fb7db373bd793a5d1023556f1252c70"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a-marc-benioff-backed-startup-thinks-ai-can-solve-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Can AI solve its own deployment chaos?",
+        "Marc Benioff's startup bets automation is the key.",
+        "It treats AI rollout like infrastructure, not projects.",
+        "Your team could skip months of painful engineering work.",
+        "Test their platform before dismissing the bold claim."
+      ],
+      "thread_text": [
+        "1. The Chaos Is the Point\n\nAI deployment is drowning teams in complexity. Benioff's fix? Treat it like infrastructure, not a one-time project.",
+        "2. Automation, Not Projects\n\nHis startup automates the rollout process itself. That's a shift from manual, project-based AI integration to a self-managing system.",
+        "3. Skip the Grind\n\nNo more months of engineering pain. The platform claims to handle the heavy lifting, so your team can focus on results, not plumbing.",
+        "4. The Bold Bet\n\nIs it real or vaporware? The only way to know is to test it. Run a small pilot before you dismiss the hype.",
+        "5. Your Infrastructure Test\n\nTake one of your messy AI workflows and try their platform on it this week. Does it cut the chaos or add more? Decide for yourself."
+      ],
+      "video_script": [
+        "AI deployment is chaotic. Benioff automates it.",
+        "Infrastructure, not projects. That's the shift.",
+        "Months of work, compressed by their platform.",
+        "Test it. See if it survives contact.",
+        "Try it on your messiest workflow this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Chaos Is the Point\n\nAI deployment is drowning teams in complexity. Benioff's fix? Treat it like infrastructure, not a one-time project.",
+            "2. Automation, Not Projects\n\nHis startup automates the rollout process itself. That's a shift from manual, project-based AI integration to a self-managing system.",
+            "3. Skip the Grind\n\nNo more months of engineering pain. The platform claims to handle the heavy lifting, so your team can focus on results, not plumbing.",
+            "4. The Bold Bet\n\nIs it real or vaporware? The only way to know is to test it. Run a small pilot before you dismiss the hype.",
+            "5. Your Infrastructure Test\n\nTake one of your messy AI workflows and try their platform on it this week. Does it cut the chaos or add more? Decide for yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI deployment is chaotic. Benioff automates it.",
+            "Infrastructure, not projects. That's the shift.",
+            "Months of work, compressed by their platform.",
+            "Test it. See if it survives contact.",
+            "Try it on your messiest workflow this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your team could spend months wrestling AI into production—or a platform backed by Marc Benioff could just do it for you. 🛠️\n\nHis startup automates the rollout itself, treating AI like self-managing infrastructure instead of a manual, one-off project. No more endless plumbing, just results. ⚙️\n\nThe claim is bold: skip the engineering grind entirely. But is it real? Only a small pilot on your messiest workflow will tell. 📉\n\nIf you test it this week, does it actually cut the chaos—or add a new layer to it? 🔍"
+        }
+      },
+      "instagram_caption": "Your team could spend months wrestling AI into production—or a platform backed by Marc Benioff could just do it for you. 🛠️\n\nHis startup automates the rollout itself, treating AI like self-managing infrastructure instead of a manual, one-off project. No more endless plumbing, just results. ⚙️\n\nThe claim is bold: skip the engineering grind entirely. But is it real? Only a small pilot on your messiest workflow will tell. 📉\n\nIf you test it this week, does it actually cut the chaos—or add a new layer to it? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can AI fix its own deployment chaos?",
+          "description": "AI deployment complexity is drowning teams. A Benioff-backed startup bets automation can turn chaos into manageable infrastructure.",
+          "visual_hint": "Abstract chaos turning into order",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Automation over projects: the shift",
+          "description": "Instead of manual, project-based AI integration, this startup automates the rollout itself, making it a self-managing system.",
+          "visual_hint": "Automated pipeline with gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Skip the engineering grind",
+          "description": "The platform claims to handle heavy lifting, so your team can focus on results, not plumbing, avoiding months of painful work.",
+          "visual_hint": "Engineer hands free, checking results",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is it real or just hype?",
+          "description": "The bold claim needs proof. Run a small pilot before dismissing it—test the platform on your messiest AI workflow.",
+          "visual_hint": "Magnifying glass over glowing screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test it later",
+          "description": "Try their platform on one messy AI workflow this week. Does it cut chaos or add more? Decide for yourself.",
+          "visual_hint": "Finger pressing a button on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer keyboard",
+          "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
+      "savedAt": "2026-08-03T12:50:41.511Z",
+      "sourceId": "a7754f051081bacfd5e1b5a8a14a24ca"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sam-altman-and-ai-s-decel-debate",
       "prompt_version": "1.0.0",
       "status": "published",
