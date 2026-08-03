@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "europe-s-ai-labeling-and-transparency-rules-are-no",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "pubDate": "2026-08-03T17:38:45.000Z",
+    "slides": [
+      "Europe's new AI rules now force transparency—but what do they hide?",
+      "The AI Act labels and discloses automated decisions to users.",
+      "Even open-source models face requirements—yet enforcement remains unclear.",
+      "Your AI product now needs audit logs and clear documentation.",
+      "Run a compliance check today, before regulators do."
+    ],
+    "thread_text": [
+      "1. What did they hide?\n\nEurope's AI Act mandates transparency, but critics say the fine print lets companies off the hook with vague disclosures.",
+      "2. The label isn't the truth\n\nLabels tell you an AI decided, but not why. The law doesn't require explaining the logic behind the decision.",
+      "3. Open-source loophole\n\nEven open models must comply, but there's no clear way to audit them. The rules exist, yet enforcement is a ghost.",
+      "4. Your audit, your problem\n\nYour product needs logs and docs. But who checks them? Only if someone complains — and that's rare.",
+      "5. Simulate a compliance check\n\nAsk your AI: 'Explain your decision in detail.' If it can't, you're not ready for the AI Act. Run that test today."
+    ],
+    "video_script": [
+      "Europe's new AI rules force transparency, but they hide gaps.",
+      "Labels don't explain decisions. Just say 'AI did it.'",
+      "Open-source models face requirements, yet no one audits them.",
+      "Your AI needs audit logs, but who actually checks?",
+      "Run a compliance check now, before regulators do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What did they hide?\n\nEurope's AI Act mandates transparency, but critics say the fine print lets companies off the hook with vague disclosures.",
+          "2. The label isn't the truth\n\nLabels tell you an AI decided, but not why. The law doesn't require explaining the logic behind the decision.",
+          "3. Open-source loophole\n\nEven open models must comply, but there's no clear way to audit them. The rules exist, yet enforcement is a ghost.",
+          "4. Your audit, your problem\n\nYour product needs logs and docs. But who checks them? Only if someone complains — and that's rare.",
+          "5. Simulate a compliance check\n\nAsk your AI: 'Explain your decision in detail.' If it can't, you're not ready for the AI Act. Run that test today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Europe's new AI rules force transparency, but they hide gaps.",
+          "Labels don't explain decisions. Just say 'AI did it.'",
+          "Open-source models face requirements, yet no one audits them.",
+          "Your AI needs audit logs, but who actually checks?",
+          "Run a compliance check now, before regulators do."
+        ]
+      },
+      "instagram": {
+        "caption": "Europe’s AI Act is live, and every AI system you interact with now has to tell you when it’s making the call. 🏷️\n\nBut the label only says “this was AI.” It doesn’t say *why* it decided. The law stops at disclosure—it never asks for the logic behind the choice. 🤔\n\nOpen-source models are supposedly covered too, but there’s no real audit trail for them. If nobody complains, nobody checks your logs. 📋\n\n**If you build or publish with AI**: you now need documentation and audit trails, but the real test is whether your system can actually explain its own decision.\n\nTry it right now: ask your AI “why did you give me this answer?” If it can’t respond clearly, you’re not compliant. 🧠"
+      }
+    },
+    "instagram_caption": "Europe’s AI Act is live, and every AI system you interact with now has to tell you when it’s making the call. 🏷️\n\nBut the label only says “this was AI.” It doesn’t say *why* it decided. The law stops at disclosure—it never asks for the logic behind the choice. 🤔\n\nOpen-source models are supposedly covered too, but there’s no real audit trail for them. If nobody complains, nobody checks your logs. 📋\n\n**If you build or publish with AI**: you now need documentation and audit trails, but the real test is whether your system can actually explain its own decision.\n\nTry it right now: ask your AI “why did you give me this answer?” If it can’t respond clearly, you’re not compliant. 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Open-source loophole: rules but no teeth?",
+        "description": "Europe's AI Act makes open-source models comply, yet no clear audit method exists. Enforcement is a ghost, leaving accountability uncertain.",
+        "visual_hint": "Open book with ghost overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "open book pages"
+      },
+      {
+        "hook": "Labels that hide the why.",
+        "description": "The AI Act requires labels but not explanations of decision logic. Users see AI involvement, not the reasoning behind it.",
+        "visual_hint": "Magnifying glass over label",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass label",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit logs: who actually checks?",
+        "description": "Your product needs logs and documentation, but review happens only if someone complains—rare and reactive, not proactive.",
+        "visual_hint": "Wall of documents with shadow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "documents stack",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Explain your decision—can you?",
+        "description": "Simulate a compliance check: ask your AI to explain a decision in detail. If it can't, you're not ready for the AI Act.",
+        "visual_hint": "Hand holding glowing question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "puzzle question mark",
+        "image": "https://images.pexels.com/photos/10988654/pexels-photo-10988654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run your compliance check now.",
+        "description": "Don't wait for regulators. Today, test your AI's explainability and update your audit logs. Future-proof your product now.",
+        "visual_hint": "Checklist with clock and green check",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-03T19:21:10.914Z",
+    "sourceId": "41b2e08c39eb9cfd355dd90f4315a68a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "base-power-raises-another-1b-to-save-the-grid-usin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Base Power raises another $1B to save the grid using backyard batteries",
+    "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+    "pubDate": "Mon, 03 Aug 2026 16:46:57 +0000",
+    "slides": [
+      "Base Power's $1B bet: will backyard batteries stabilize the grid?",
+      "The startup now controls 200 MWh of distributed storage.",
+      "Their twist: neighbors' batteries act as one virtual power plant.",
+      "Your utility bill could drop 15% without buying anything.",
+      "Check if your region offers this aggregated battery program."
+    ],
+    "thread_text": [
+      "1. Who owns your power?\n\nBase Power just raised $1B to control 200 MWh of batteries in people's backyards.",
+      "2. One giant battery\n\nThese home batteries sync up to act as a single virtual power plant for the grid.",
+      "3. Utility bills cut\n\nYou could see a 15% drop on your bill—without buying or installing anything yourself.",
+      "4. The catch?\n\nIt's only available in certain regions. Check if your area is eligible for the program.",
+      "5. Check your ZIP\n\nVisit Base Power's site to see if your neighborhood qualifies for aggregated battery savings today."
+    ],
+    "video_script": [
+      "A billion dollar bet on backyard batteries.",
+      "They pool neighbors' power into one grid battery.",
+      "Your utility bill could drop fifteen percent.",
+      "But only if your region is included.",
+      "Check your eligibility on Base Power's site."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns your power?\n\nBase Power just raised $1B to control 200 MWh of batteries in people's backyards.",
+          "2. One giant battery\n\nThese home batteries sync up to act as a single virtual power plant for the grid.",
+          "3. Utility bills cut\n\nYou could see a 15% drop on your bill—without buying or installing anything yourself.",
+          "4. The catch?\n\nIt's only available in certain regions. Check if your area is eligible for the program.",
+          "5. Check your ZIP\n\nVisit Base Power's site to see if your neighborhood qualifies for aggregated battery savings today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A billion dollar bet on backyard batteries.",
+          "They pool neighbors' power into one grid battery.",
+          "Your utility bill could drop fifteen percent.",
+          "But only if your region is included.",
+          "Check your eligibility on Base Power's site."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next electricity bill could shrink by 15%—without you touching a single appliance.\n\nBase Power just raised $1 billion to connect 200 MWh of home batteries into one giant, grid-wide storage network. These aren't futuristic gizmos; they're units sitting in your neighbors' backyards, synced to respond to demand in real time.\n\nIf your neighborhood qualifies, you get paid for storing energy during cheap hours and selling it back when prices spike. No solar panels required, no equipment to buy—you just opt in and the utility rewards you.\n\nThat’s less money leaking out of your pocket every month for grid upkeep.\n\nCheck Base Power’s site—does your ZIP code qualify? 🔋💡"
+      }
+    },
+    "instagram_caption": "Your next electricity bill could shrink by 15%—without you touching a single appliance.\n\nBase Power just raised $1 billion to connect 200 MWh of home batteries into one giant, grid-wide storage network. These aren't futuristic gizmos; they're units sitting in your neighbors' backyards, synced to respond to demand in real time.\n\nIf your neighborhood qualifies, you get paid for storing energy during cheap hours and selling it back when prices spike. No solar panels required, no equipment to buy—you just opt in and the utility rewards you.\n\nThat’s less money leaking out of your pocket every month for grid upkeep.\n\nCheck Base Power’s site—does your ZIP code qualify? 🔋💡",
+    "carousel_slides": [
+      {
+        "hook": "Backyard batteries just became a power plant",
+        "description": "Base Power raised $1B to control 200 MWh of home batteries, turning neighborhoods into one virtual power plant for the grid.",
+        "visual_hint": "Neighborhood with glowing battery icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "home battery system"
+      },
+      {
+        "hook": "Your utility bill could drop 15%",
+        "description": "Base Power's aggregated battery network may cut your utility bill by 15%—without buying or installing anything yourself.",
+        "visual_hint": "Smartphone showing bill reduction graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smart home energy screen",
+        "image": "https://images.pexels.com/photos/38337696/pexels-photo-38337696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Neighbors' batteries, one giant power source",
+        "description": "Home batteries sync to act as a single virtual power plant, storing energy and releasing it when the grid needs it most.",
+        "visual_hint": "Connected houses with energy flow lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "residential solar panels",
+        "image": "https://images.pexels.com/photos/31912311/pexels-photo-31912311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your region eligible?",
+        "description": "The program is only available in certain regions. Check your ZIP code on Base Power's website to see if you can save.",
+        "visual_hint": "Map with eligible areas highlighted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "map with pins",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save now—visit link in bio",
+        "description": "Go to Base Power's site, enter your ZIP code, and see if your neighborhood qualifies for aggregated battery savings today.",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901",
+    "savedAt": "2026-08-03T19:20:50.929Z",
+    "sourceId": "8f22e6cc5bace7754f181631346fa3c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "influencers-draw-backlash-for-attending-openai-s-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
+    "slides": [
+      "Why did creators accept OpenAI's luxury retreat?",
+      "The trip costs thousands per influencer.",
+      "Critics call it a hidden lobbying effort.",
+      "Disclosure rules may not cover such perks.",
+      "Disclose sponsorships or lose audience trust."
+    ],
+    "thread_text": [
+      "1. The free trip's real price?\n\nThe OpenAI retreat costs thousands per influencer, yet they accepted. What's the catch?",
+      "2. Lobbying in disguise?\n\nCritics see this as a hidden lobbying effort, not just a perk. New rules may not cover it.",
+      "3. Disclosure gaps exposed\n\nCurrent disclosure rules often miss perks like this. Influencers can stay silent without legal trouble.",
+      "4. Trust is the casualty\n\nWithout clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+      "5. Check your own feed now\n\nLook at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow."
+    ],
+    "video_script": [
+      "OpenAI paid influencers thousands for a retreat.",
+      "Critics call it lobbying, not a gift.",
+      "Disclosure rules don't cover these perks.",
+      "Without honesty, audience trust disappears fast.",
+      "Check who you follow—did they tell you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The free trip's real price?\n\nThe OpenAI retreat costs thousands per influencer, yet they accepted. What's the catch?",
+          "2. Lobbying in disguise?\n\nCritics see this as a hidden lobbying effort, not just a perk. New rules may not cover it.",
+          "3. Disclosure gaps exposed\n\nCurrent disclosure rules often miss perks like this. Influencers can stay silent without legal trouble.",
+          "4. Trust is the casualty\n\nWithout clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+          "5. Check your own feed now\n\nLook at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI paid influencers thousands for a retreat.",
+          "Critics call it lobbying, not a gift.",
+          "Disclosure rules don't cover these perks.",
+          "Without honesty, audience trust disappears fast.",
+          "Check who you follow—did they tell you?"
+        ]
+      },
+      "instagram": {
+        "caption": "A free trip to an OpenAI retreat costs thousands per influencer—and some creators said yes anyway.  \n\nCritics are calling it lobbying dressed up as a perk, not a simple thank-you. Current disclosure rules don’t clearly cover this kind of gift, so influencers can legally stay silent about it.  \n\nIf you create content, this blurs the line between a genuine opinion and a paid one—your audience can’t tell which is which. That silence is what erodes trust faster than any sponsorship label.  \n\nBefore you watch the next AI review, check if the creator mentioned the trip 🧐 If they didn’t, ask them why—or scroll past."
+      }
+    },
+    "instagram_caption": "A free trip to an OpenAI retreat costs thousands per influencer—and some creators said yes anyway.  \n\nCritics are calling it lobbying dressed up as a perk, not a simple thank-you. Current disclosure rules don’t clearly cover this kind of gift, so influencers can legally stay silent about it.  \n\nIf you create content, this blurs the line between a genuine opinion and a paid one—your audience can’t tell which is which. That silence is what erodes trust faster than any sponsorship label.  \n\nBefore you watch the next AI review, check if the creator mentioned the trip 🧐 If they didn’t, ask them why—or scroll past.",
+    "carousel_slides": [
+      {
+        "hook": "What's the catch?",
+        "description": "The OpenAI retreat costs thousands per influencer, yet they accepted. Critics call it lobbying in disguise, and disclosure rules may not cover it.",
+        "visual_hint": "Luxury resort with AI symbols",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "luxury resort pool"
+      },
+      {
+        "hook": "Luxury or lobbying?",
+        "description": "Each influencer's trip costs thousands. Critics see this as hidden lobbying, not a perk. New rules may not require disclosure.",
+        "visual_hint": "Influencer with camera, gears",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "camera flash",
+        "image": "https://images.pexels.com/photos/10913160/pexels-photo-10913160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Disclosure gaps exposed",
+        "description": "Current rules often miss perks like this. Influencers can stay silent without legal trouble, leaving audiences in the dark.",
+        "visual_hint": "Magnifying glass over contract",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "contract document",
+        "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust is the casualty",
+        "description": "Without clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+        "visual_hint": "Broken trust symbol, cracked heart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cracked glass",
+        "image": "https://images.pexels.com/photos/32589277/pexels-photo-32589277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your feed now",
+        "description": "Look at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow. Act now to protect your trust.",
+        "visual_hint": "Phone with social feed",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
+    "savedAt": "2026-08-03T19:20:36.697Z",
+    "sourceId": "29dbca12f879ba885b455ad69df303f3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "horizon3-hits-2-billion-valuation-with-250m-series",
     "prompt_version": "1.0.0",
     "status": "published",

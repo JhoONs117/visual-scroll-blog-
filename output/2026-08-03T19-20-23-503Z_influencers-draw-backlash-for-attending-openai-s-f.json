@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "influencers-draw-backlash-for-attending-openai-s-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+  "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+  "pubDate": "Mon, 03 Aug 2026 19:09:56 +0000",
+  "slides": [
+    "Why did creators accept OpenAI's luxury retreat?",
+    "The trip costs thousands per influencer.",
+    "Critics call it a hidden lobbying effort.",
+    "Disclosure rules may not cover such perks.",
+    "Disclose sponsorships or lose audience trust."
+  ],
+  "thread_text": [
+    "1. The free trip's real price?\n\nThe OpenAI retreat costs thousands per influencer, yet they accepted. What's the catch?",
+    "2. Lobbying in disguise?\n\nCritics see this as a hidden lobbying effort, not just a perk. New rules may not cover it.",
+    "3. Disclosure gaps exposed\n\nCurrent disclosure rules often miss perks like this. Influencers can stay silent without legal trouble.",
+    "4. Trust is the casualty\n\nWithout clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+    "5. Check your own feed now\n\nLook at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow."
+  ],
+  "video_script": [
+    "OpenAI paid influencers thousands for a retreat.",
+    "Critics call it lobbying, not a gift.",
+    "Disclosure rules don't cover these perks.",
+    "Without honesty, audience trust disappears fast.",
+    "Check who you follow—did they tell you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The free trip's real price?\n\nThe OpenAI retreat costs thousands per influencer, yet they accepted. What's the catch?",
+        "2. Lobbying in disguise?\n\nCritics see this as a hidden lobbying effort, not just a perk. New rules may not cover it.",
+        "3. Disclosure gaps exposed\n\nCurrent disclosure rules often miss perks like this. Influencers can stay silent without legal trouble.",
+        "4. Trust is the casualty\n\nWithout clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+        "5. Check your own feed now\n\nLook at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI paid influencers thousands for a retreat.",
+        "Critics call it lobbying, not a gift.",
+        "Disclosure rules don't cover these perks.",
+        "Without honesty, audience trust disappears fast.",
+        "Check who you follow—did they tell you?"
+      ]
+    },
+    "instagram": {
+      "caption": "A free trip to an OpenAI retreat costs thousands per influencer—and some creators said yes anyway.  \n\nCritics are calling it lobbying dressed up as a perk, not a simple thank-you. Current disclosure rules don’t clearly cover this kind of gift, so influencers can legally stay silent about it.  \n\nIf you create content, this blurs the line between a genuine opinion and a paid one—your audience can’t tell which is which. That silence is what erodes trust faster than any sponsorship label.  \n\nBefore you watch the next AI review, check if the creator mentioned the trip 🧐 If they didn’t, ask them why—or scroll past."
+    }
+  },
+  "instagram_caption": "A free trip to an OpenAI retreat costs thousands per influencer—and some creators said yes anyway.  \n\nCritics are calling it lobbying dressed up as a perk, not a simple thank-you. Current disclosure rules don’t clearly cover this kind of gift, so influencers can legally stay silent about it.  \n\nIf you create content, this blurs the line between a genuine opinion and a paid one—your audience can’t tell which is which. That silence is what erodes trust faster than any sponsorship label.  \n\nBefore you watch the next AI review, check if the creator mentioned the trip 🧐 If they didn’t, ask them why—or scroll past.",
+  "carousel_slides": [
+    {
+      "hook": "What's the catch?",
+      "description": "The OpenAI retreat costs thousands per influencer, yet they accepted. Critics call it lobbying in disguise, and disclosure rules may not cover it.",
+      "visual_hint": "Luxury resort with AI symbols",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "luxury resort pool"
+    },
+    {
+      "hook": "Luxury or lobbying?",
+      "description": "Each influencer's trip costs thousands. Critics see this as hidden lobbying, not a perk. New rules may not require disclosure.",
+      "visual_hint": "Influencer with camera, gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "camera flash",
+      "image": "https://images.pexels.com/photos/10913160/pexels-photo-10913160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Disclosure gaps exposed",
+      "description": "Current rules often miss perks like this. Influencers can stay silent without legal trouble, leaving audiences in the dark.",
+      "visual_hint": "Magnifying glass over contract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract document",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is the casualty",
+      "description": "Without clear sponsor labels, your audience may feel deceived. Trust is harder to regain than lost.",
+      "visual_hint": "Broken trust symbol, cracked heart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cracked glass",
+      "image": "https://images.pexels.com/photos/32589277/pexels-photo-32589277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your feed now",
+      "description": "Look at the last AI influencer you followed. Did they disclose? If not, ask why—or unfollow. Act now to protect your trust.",
+      "visual_hint": "Phone with social feed",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
+  "savedAt": "2026-08-03T19:20:36.697Z",
+  "sourceId": "29dbca12f879ba885b455ad69df303f3"
+}

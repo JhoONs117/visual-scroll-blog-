@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "europe-s-ai-labeling-and-transparency-rules-are-no",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Europe’s AI labeling and transparency rules are now in effect",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+  "pubDate": "2026-08-03T17:38:45.000Z",
+  "slides": [
+    "Europe's new AI rules now force transparency—but what do they hide?",
+    "The AI Act labels and discloses automated decisions to users.",
+    "Even open-source models face requirements—yet enforcement remains unclear.",
+    "Your AI product now needs audit logs and clear documentation.",
+    "Run a compliance check today, before regulators do."
+  ],
+  "thread_text": [
+    "1. What did they hide?\n\nEurope's AI Act mandates transparency, but critics say the fine print lets companies off the hook with vague disclosures.",
+    "2. The label isn't the truth\n\nLabels tell you an AI decided, but not why. The law doesn't require explaining the logic behind the decision.",
+    "3. Open-source loophole\n\nEven open models must comply, but there's no clear way to audit them. The rules exist, yet enforcement is a ghost.",
+    "4. Your audit, your problem\n\nYour product needs logs and docs. But who checks them? Only if someone complains — and that's rare.",
+    "5. Simulate a compliance check\n\nAsk your AI: 'Explain your decision in detail.' If it can't, you're not ready for the AI Act. Run that test today."
+  ],
+  "video_script": [
+    "Europe's new AI rules force transparency, but they hide gaps.",
+    "Labels don't explain decisions. Just say 'AI did it.'",
+    "Open-source models face requirements, yet no one audits them.",
+    "Your AI needs audit logs, but who actually checks?",
+    "Run a compliance check now, before regulators do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What did they hide?\n\nEurope's AI Act mandates transparency, but critics say the fine print lets companies off the hook with vague disclosures.",
+        "2. The label isn't the truth\n\nLabels tell you an AI decided, but not why. The law doesn't require explaining the logic behind the decision.",
+        "3. Open-source loophole\n\nEven open models must comply, but there's no clear way to audit them. The rules exist, yet enforcement is a ghost.",
+        "4. Your audit, your problem\n\nYour product needs logs and docs. But who checks them? Only if someone complains — and that's rare.",
+        "5. Simulate a compliance check\n\nAsk your AI: 'Explain your decision in detail.' If it can't, you're not ready for the AI Act. Run that test today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Europe's new AI rules force transparency, but they hide gaps.",
+        "Labels don't explain decisions. Just say 'AI did it.'",
+        "Open-source models face requirements, yet no one audits them.",
+        "Your AI needs audit logs, but who actually checks?",
+        "Run a compliance check now, before regulators do."
+      ]
+    },
+    "instagram": {
+      "caption": "Europe’s AI Act is live, and every AI system you interact with now has to tell you when it’s making the call. 🏷️\n\nBut the label only says “this was AI.” It doesn’t say *why* it decided. The law stops at disclosure—it never asks for the logic behind the choice. 🤔\n\nOpen-source models are supposedly covered too, but there’s no real audit trail for them. If nobody complains, nobody checks your logs. 📋\n\n**If you build or publish with AI**: you now need documentation and audit trails, but the real test is whether your system can actually explain its own decision.\n\nTry it right now: ask your AI “why did you give me this answer?” If it can’t respond clearly, you’re not compliant. 🧠"
+    }
+  },
+  "instagram_caption": "Europe’s AI Act is live, and every AI system you interact with now has to tell you when it’s making the call. 🏷️\n\nBut the label only says “this was AI.” It doesn’t say *why* it decided. The law stops at disclosure—it never asks for the logic behind the choice. 🤔\n\nOpen-source models are supposedly covered too, but there’s no real audit trail for them. If nobody complains, nobody checks your logs. 📋\n\n**If you build or publish with AI**: you now need documentation and audit trails, but the real test is whether your system can actually explain its own decision.\n\nTry it right now: ask your AI “why did you give me this answer?” If it can’t respond clearly, you’re not compliant. 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Open-source loophole: rules but no teeth?",
+      "description": "Europe's AI Act makes open-source models comply, yet no clear audit method exists. Enforcement is a ghost, leaving accountability uncertain.",
+      "visual_hint": "Open book with ghost overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open book pages"
+    },
+    {
+      "hook": "Labels that hide the why.",
+      "description": "The AI Act requires labels but not explanations of decision logic. Users see AI involvement, not the reasoning behind it.",
+      "visual_hint": "Magnifying glass over label",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass label",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit logs: who actually checks?",
+      "description": "Your product needs logs and documentation, but review happens only if someone complains—rare and reactive, not proactive.",
+      "visual_hint": "Wall of documents with shadow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "documents stack",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Explain your decision—can you?",
+      "description": "Simulate a compliance check: ask your AI to explain a decision in detail. If it can't, you're not ready for the AI Act.",
+      "visual_hint": "Hand holding glowing question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "puzzle question mark",
+      "image": "https://images.pexels.com/photos/10988654/pexels-photo-10988654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run your compliance check now.",
+      "description": "Don't wait for regulators. Today, test your AI's explainability and update your audit logs. Future-proof your product now.",
+      "visual_hint": "Checklist with clock and green check",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-03T19:21:10.914Z",
+  "sourceId": "41b2e08c39eb9cfd355dd90f4315a68a"
+}

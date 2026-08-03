@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "base-power-raises-another-1b-to-save-the-grid-usin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Base Power raises another $1B to save the grid using backyard batteries",
+  "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+  "pubDate": "Mon, 03 Aug 2026 16:46:57 +0000",
+  "slides": [
+    "Base Power's $1B bet: will backyard batteries stabilize the grid?",
+    "The startup now controls 200 MWh of distributed storage.",
+    "Their twist: neighbors' batteries act as one virtual power plant.",
+    "Your utility bill could drop 15% without buying anything.",
+    "Check if your region offers this aggregated battery program."
+  ],
+  "thread_text": [
+    "1. Who owns your power?\n\nBase Power just raised $1B to control 200 MWh of batteries in people's backyards.",
+    "2. One giant battery\n\nThese home batteries sync up to act as a single virtual power plant for the grid.",
+    "3. Utility bills cut\n\nYou could see a 15% drop on your bill—without buying or installing anything yourself.",
+    "4. The catch?\n\nIt's only available in certain regions. Check if your area is eligible for the program.",
+    "5. Check your ZIP\n\nVisit Base Power's site to see if your neighborhood qualifies for aggregated battery savings today."
+  ],
+  "video_script": [
+    "A billion dollar bet on backyard batteries.",
+    "They pool neighbors' power into one grid battery.",
+    "Your utility bill could drop fifteen percent.",
+    "But only if your region is included.",
+    "Check your eligibility on Base Power's site."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who owns your power?\n\nBase Power just raised $1B to control 200 MWh of batteries in people's backyards.",
+        "2. One giant battery\n\nThese home batteries sync up to act as a single virtual power plant for the grid.",
+        "3. Utility bills cut\n\nYou could see a 15% drop on your bill—without buying or installing anything yourself.",
+        "4. The catch?\n\nIt's only available in certain regions. Check if your area is eligible for the program.",
+        "5. Check your ZIP\n\nVisit Base Power's site to see if your neighborhood qualifies for aggregated battery savings today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A billion dollar bet on backyard batteries.",
+        "They pool neighbors' power into one grid battery.",
+        "Your utility bill could drop fifteen percent.",
+        "But only if your region is included.",
+        "Check your eligibility on Base Power's site."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next electricity bill could shrink by 15%—without you touching a single appliance.\n\nBase Power just raised $1 billion to connect 200 MWh of home batteries into one giant, grid-wide storage network. These aren't futuristic gizmos; they're units sitting in your neighbors' backyards, synced to respond to demand in real time.\n\nIf your neighborhood qualifies, you get paid for storing energy during cheap hours and selling it back when prices spike. No solar panels required, no equipment to buy—you just opt in and the utility rewards you.\n\nThat’s less money leaking out of your pocket every month for grid upkeep.\n\nCheck Base Power’s site—does your ZIP code qualify? 🔋💡"
+    }
+  },
+  "instagram_caption": "Your next electricity bill could shrink by 15%—without you touching a single appliance.\n\nBase Power just raised $1 billion to connect 200 MWh of home batteries into one giant, grid-wide storage network. These aren't futuristic gizmos; they're units sitting in your neighbors' backyards, synced to respond to demand in real time.\n\nIf your neighborhood qualifies, you get paid for storing energy during cheap hours and selling it back when prices spike. No solar panels required, no equipment to buy—you just opt in and the utility rewards you.\n\nThat’s less money leaking out of your pocket every month for grid upkeep.\n\nCheck Base Power’s site—does your ZIP code qualify? 🔋💡",
+  "carousel_slides": [
+    {
+      "hook": "Backyard batteries just became a power plant",
+      "description": "Base Power raised $1B to control 200 MWh of home batteries, turning neighborhoods into one virtual power plant for the grid.",
+      "visual_hint": "Neighborhood with glowing battery icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "home battery system"
+    },
+    {
+      "hook": "Your utility bill could drop 15%",
+      "description": "Base Power's aggregated battery network may cut your utility bill by 15%—without buying or installing anything yourself.",
+      "visual_hint": "Smartphone showing bill reduction graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smart home energy screen",
+      "image": "https://images.pexels.com/photos/38337696/pexels-photo-38337696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Neighbors' batteries, one giant power source",
+      "description": "Home batteries sync to act as a single virtual power plant, storing energy and releasing it when the grid needs it most.",
+      "visual_hint": "Connected houses with energy flow lines",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "residential solar panels",
+      "image": "https://images.pexels.com/photos/31912311/pexels-photo-31912311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your region eligible?",
+      "description": "The program is only available in certain regions. Check your ZIP code on Base Power's website to see if you can save.",
+      "visual_hint": "Map with eligible areas highlighted",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "map with pins",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save now—visit link in bio",
+      "description": "Go to Base Power's site, enter your ZIP code, and see if your neighborhood qualifies for aggregated battery savings today.",
+      "visual_hint": "Finger tapping phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901",
+  "savedAt": "2026-08-03T19:20:50.929Z",
+  "sourceId": "8f22e6cc5bace7754f181631346fa3c6"
+}
