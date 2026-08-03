@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "pasta-fredda-cremosa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta fredda cremosa",
+    "link": "https://ricette.giallozafferano.it/Pasta-fredda-cremosa.html",
+    "pubDate": "Mon, 03 Aug 2026 15:43:00 +0200",
+    "content": "Pasta fredda cremosa: ricetta con ricotta e verdure estive Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta fredda cremosa /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Amanti della pasta, se siete alla ricerca del primo piatto ideale per contrastare il caldo, ecco per voi la pasta fredda cremosa ! Un tripudio di verdure, colori e profumi che si prepara utilizzando soltanto una padella, così da unire la freschezza alla comodità di realizzazione. Peperoni rossi e gialli, pomodorini ciliegini succosi e ancora melanzane e zucchine... insomma, tutto ciò che l'orto può offrirci, insieme a tanto basilico fresco. Per la crema a base di ricotta vi basteranno pochi istanti, giusto una mescolata con un buon olio extravergine di oliva e una grattata di pepe nero. Perfetta per le giornate estive, la pasta fredda cremosa richiamerà tutti a tavola in men che non si dica. Preparatene in abbondanza e portatela anche in ufficio come schiscetta, farete invidia ai vostri colleghi! Ecco altre gustose varianti di pasta fredda per la bella stagione: Pasta fredda con tonno Pasta fredda con caponata di verdure Pasta fredda con ricotta e pomodorini Pasta fredda con pesto senza aglio Insalata di pasta mediterranea INGREDIENTI Fusilli 320 g Ricotta vaccina 250 g Pomodorini ciliegino 250 g Zucchine 200 g Melanzane 200 g Peperoni rossi 180 g Peperoni gialli 130 g Porri 50 g Olive taggiasche 50 g Olio extravergine d'oliva 30 g Basilico q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta fredda cremosa Per preparare la pasta fredda cremosa, per prima cosa lavate e mondate tutte le verdure. Affettate il porro a rondelle 1 , poi riducete a dadini di 1-1,5 cm sia il peperone giallo 2 che il peperone rosso 3 . Tagliate a dadini della stessa dimensione sia le zucchine 4 che le melanzane 5 . Infine dividete a metà i pomodorini 6 . Mettete sul fuoco una pentola di acqua salata per cuocere la pasta. Versate il porro in una padella calda con metà dose di olio 7 e lasciatelo soffriggere per 4-5 minuti a fuoco medio 8 , poi aggiungete le melanzane 9 . Rosolate le melanzane per altri 5 minuti sempre a fuoco medio, mescolando di continuo 10 . Trascorso questo tempo, unite in padella anche i peperoni, le zucchine 11 e i pomodorini 12 . Alzate la fiamma e saltate il tutto per altri 5 minuti, aiutandovi se necessario con un mestolo di acqua calda 13 . Salate e pepate 14 . Le verdure dovranno risultare cotte ma ancora consistenti 15 . Cuocete la pasta in acqua bollente salata 16 . Nel frattempo occupatevi della crema di formaggio: mettete la ricotta in una ciotola e conditela con l'olio rimanente 17 , poi stemperatela con un mestolo di acqua di cottura della pasta 18 . Mescolate con una frusta per ottenere una crema liscia e omogenea 19 . Scolate i fusilli al dente e trasferiteli nella ciotola con la crema 20 , poi amalgamate bene 21 . Aggiungete anche le verdure spadellate 22 e le olive taggiasche 23 . Amalgamate con cura 24 . Impiattate la pasta 25 e profumate con il basilico fresco 26 . La vostra pasta fredda cremosa è pronta per essere servita 27 ! Conservazione La pasta fredda cremosa si può conservare in frigorifero per 2 giorni. Consiglio Potete aromatizzare la pasta fredda cremosa con della scorza grattugiata di limone. In alternativa, per un sapore più deciso, potete aggiungere dei cubetti di caciocavallo stagionato. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Basilico Peperoni Melanzane Pasta Olive in salamoia Olio di oliva Ricotta Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta fredda cremosa Torta di frutta secca con crema al limone 1 4.6 Crostata ai mirtilli con crema al formaggio 5.0 SCOPRI Pasta fredda con pesto Pasta fredda con zucchine Pasta fredda tonno Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta fredda cremosa con ricotta e verdure estive.",
+      "Ricotta, pomodorini, peperoni, melanzane, basilico.",
+      "Taglia le verdure a dadini e metà pomodorini.",
+      "Soffriggi il porro, poi unisci tutte le verdure.",
+      "Condisci con basilico fresco e pepe nero."
+    ],
+    "instagram_caption": "La pasta fredda che non ti aspetti: cremosa, colorata e incredibilmente estate. 🍅\n\nQuando il caldo toglie l’appetito, questa è la salvezza: ricotta freschissima che avvolge la pasta, pomodorini dolci, peperoni e melanzane saltate con un porro dolcissimo. Il basilico fresco e una macinata di pepe nero fanno il resto. Si prepara in 20 minuti, si gusta fredda ed è perfetta da portare in spiaggia o in ufficio.\n\nFidati, ne farai scorpacciate. Provala questo weekend 🌿✨",
+    "formats": {
+      "instagram": {
+        "caption": "La pasta fredda che non ti aspetti: cremosa, colorata e incredibilmente estate. 🍅\n\nQuando il caldo toglie l’appetito, questa è la salvezza: ricotta freschissima che avvolge la pasta, pomodorini dolci, peperoni e melanzane saltate con un porro dolcissimo. Il basilico fresco e una macinata di pepe nero fanno il resto. Si prepara in 20 minuti, si gusta fredda ed è perfetta da portare in spiaggia o in ufficio.\n\nFidati, ne farai scorpacciate. Provala questo weekend 🌿✨"
+      },
+      "tiktok": {
+        "script": [
+          "Facciamo la pasta fredda più cremosa che c'è!",
+          "Ricotta, pomodorini, peperoni e melanzane, che spettacolo.",
+          "Taglio tutto a dadini e i pomodorini in due.",
+          "Soffriggo il porro e butto dentro tutte le verdure.",
+          "Basilico fresco e pepe nero, giro e servo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Quando fuori ci sono 35 gradi, l’unica pasta che voglio è questa. Fredda, cremosa, con verdure che sanno di sole. Preparati: da oggi la fai anche tu.",
+          "Base: ricotta fresca, pomodorini, peperoni, melanzane, basilico. Niente panna, niente maionese — solo il fresco che salva la cena. Fidati, è così semplice che non ci crederai.",
+          "Il gesto che fa la differenza? Taglia pomodorini a metà, peperoni e melanzane a dadini. Poi un porro soffritto in padella e dentro tutte le verdure: cuociono insieme, diventano un abbraccio profumato.",
+          "Quando le verdure sono tenere ma ancora con carattere, spegni nel basilico fresco strappato a mano e pepe nero macinato al momento. Lascia intiepidire, poi mescola con la ricotta: diventa una crema che veste la pasta.",
+          "Il trucco finale: tieni da parte un mestolo di acqua di cottura e, quando unisci la ricotta, allentala con quella. Ottieni una cremosità assurda senza appesantire. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Facciamo la pasta fredda più cremosa che c'è!",
+      "Ricotta, pomodorini, peperoni e melanzane, che spettacolo.",
+      "Taglio tutto a dadini e i pomodorini in due.",
+      "Soffriggo il porro e butto dentro tutte le verdure.",
+      "Basilico fresco e pepe nero, giro e servo!"
+    ],
+    "thread_text": [
+      "Quando fuori ci sono 35 gradi, l’unica pasta che voglio è questa. Fredda, cremosa, con verdure che sanno di sole. Preparati: da oggi la fai anche tu.",
+      "Base: ricotta fresca, pomodorini, peperoni, melanzane, basilico. Niente panna, niente maionese — solo il fresco che salva la cena. Fidati, è così semplice che non ci crederai.",
+      "Il gesto che fa la differenza? Taglia pomodorini a metà, peperoni e melanzane a dadini. Poi un porro soffritto in padella e dentro tutte le verdure: cuociono insieme, diventano un abbraccio profumato.",
+      "Quando le verdure sono tenere ma ancora con carattere, spegni nel basilico fresco strappato a mano e pepe nero macinato al momento. Lascia intiepidire, poi mescola con la ricotta: diventa una crema che veste la pasta.",
+      "Il trucco finale: tieni da parte un mestolo di acqua di cottura e, quando unisci la ricotta, allentala con quella. Ottieni una cremosità assurda senza appesantire. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta fredda cremosa, pronta in 20 minuti",
+        "description": "Una pasta fredda cremosa con ricotta e verdure estive, perfetta per pranzi freschi e veloci.",
+        "visual_hint": "Close-up di pasta colorata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy cold pasta bowl"
+      },
+      {
+        "hook": "Ricotta e verdure estive: gli ingredienti chiave",
+        "description": "Ricotta fresca, pomodorini dolci, peperoni, melanzane e basilico: il sapore dell'estate in ogni boccone.",
+        "visual_hint": "Ingredienti su tavola rustica",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fresh ricotta vegetables summer",
+        "image": "https://images.pexels.com/photos/8753658/pexels-photo-8753658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia le verdure a dadini piccoli",
+        "description": "Per una cottura uniforme, taglia peperoni e melanzane a dadini e i pomodorini a metà: pronte in pochi minuti.",
+        "visual_hint": "Mani che tagliano verdure",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chopping fresh vegetables",
+        "image": "https://images.pexels.com/photos/8279852/pexels-photo-8279852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Soffriggi il porro e unisci tutto",
+        "description": "Il porro soffritto dona dolcezza, poi aggiungi le verdure: pochi minuti e il condimento è pronto.",
+        "visual_hint": "Padella con verdure colorate",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "sautéed leek mixed vegetables",
+        "image": "https://images.pexels.com/photos/7890146/pexels-photo-7890146.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Basilico fresco e pepe nero: il tocco finale",
+        "description": "Condisci la pasta fredda con basilico e pepe nero, servi ben fredda: cremosa e irresistibile.",
+        "visual_hint": "Pasta impiattata con basilico",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "pasta basil black pepper",
+        "image": "https://images.pexels.com/photos/14930652/pexels-photo-14930652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "ricotta",
+      "pomodori",
+      "basilico"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36500/Pasta-fredda-cremosa_650x433_wm.jpg",
+    "savedAt": "2026-08-03T16:19:08.316Z",
+    "sourceId": "6ba0db08a2160386337d85b4a0d61cdd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "torta-di-frutta-secca-con-crema-al-limone",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "horizon3-hits-2-billion-valuation-with-250m-series",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+    "pubDate": "Mon, 03 Aug 2026 12:50:46 +0000",
+    "slides": [
+      "Can a cybersecurity startup justify a $2B valuation?",
+      "Horizon3 raised $250M as AI-driven attacks surge.",
+      "Attackers now use AI to breach in hours, not days.",
+      "Your defenses may already be obsolete against them.",
+      "Audit your attack surface before the next breach."
+    ],
+    "thread_text": [
+      "1. Your defenses are already obsolete\n\nAttackers using AI now break in within hours, not days. Horizon3 just raised $250M to counter this.",
+      "2. The $2B question\n\nCan a cybersecurity startup justify a $2B valuation? The surge in AI-driven attacks is making the market believe yes.",
+      "3. AI vs. AI\n\nThe same technology that speeds up attacks is now being used to defend. But most companies are still relying on old methods.",
+      "4. The clock is ticking\n\nEvery day you wait, the gap between attacker speed and your response widens. A breach could happen before your next team meeting.",
+      "5. Audit before it's too late\n\nRun an attack surface audit this week. If you don't know your weakest entry point, you can't fix it."
+    ],
+    "video_script": [
+      "AI attacks now breach in hours.",
+      "Horizon3 raised two hundred fifty million.",
+      "Your defense is likely outdated already.",
+      "Act before you become the next victim.",
+      "Audit your attack surface today, now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your defenses are already obsolete\n\nAttackers using AI now break in within hours, not days. Horizon3 just raised $250M to counter this.",
+          "2. The $2B question\n\nCan a cybersecurity startup justify a $2B valuation? The surge in AI-driven attacks is making the market believe yes.",
+          "3. AI vs. AI\n\nThe same technology that speeds up attacks is now being used to defend. But most companies are still relying on old methods.",
+          "4. The clock is ticking\n\nEvery day you wait, the gap between attacker speed and your response widens. A breach could happen before your next team meeting.",
+          "5. Audit before it's too late\n\nRun an attack surface audit this week. If you don't know your weakest entry point, you can't fix it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI attacks now breach in hours.",
+          "Horizon3 raised two hundred fifty million.",
+          "Your defense is likely outdated already.",
+          "Act before you become the next victim.",
+          "Audit your attack surface today, now."
+        ]
+      },
+      "instagram": {
+        "caption": "Attackers using AI can now break into your systems in hours, not days. Meanwhile, Horizon3 just raised $250M and hit a $2B valuation to build AI-driven defenses against them. 🔐\n\nThe same technology that accelerates cyberattacks is now powering the other side. But most companies are still patching holes the old way, leaving a dangerous speed gap between their response time and the attackers' next move. 🕒\n\nFor anyone publishing content or managing online platforms, this means your audience's data is more exposed than ever, and your current security checklist might already be outdated.\n\nDo you know your weakest entry point right now? Run an attack surface audit this week, or you're gambling with your next breach. 🎯"
+      }
+    },
+    "instagram_caption": "Attackers using AI can now break into your systems in hours, not days. Meanwhile, Horizon3 just raised $250M and hit a $2B valuation to build AI-driven defenses against them. 🔐\n\nThe same technology that accelerates cyberattacks is now powering the other side. But most companies are still patching holes the old way, leaving a dangerous speed gap between their response time and the attackers' next move. 🕒\n\nFor anyone publishing content or managing online platforms, this means your audience's data is more exposed than ever, and your current security checklist might already be outdated.\n\nDo you know your weakest entry point right now? Run an attack surface audit this week, or you're gambling with your next breach. 🎯",
+    "carousel_slides": [
+      {
+        "hook": "Your defenses are already obsolete.",
+        "description": "Attackers using AI now break in within hours, not days. Horizon3 raised $250M to counter this threat.",
+        "visual_hint": "Broken shield with crack",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cybersecurity breach"
+      },
+      {
+        "hook": "Can a $2B valuation be justified?",
+        "description": "The surge in AI-driven attacks is making the market believe yes. Horizon3 just raised $250M to fight back.",
+        "visual_hint": "Rocket launching upward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI attacks vs. AI defenses.",
+        "description": "The same technology that speeds up attacks is now used to defend. But most companies still rely on outdated methods.",
+        "visual_hint": "Pulsing digital eye",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence circuit",
+        "image": "https://images.pexels.com/photos/7562088/pexels-photo-7562088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The gap is widening daily.",
+        "description": "Every day you wait, attacker speed outpaces your response. A breach could happen before your next team meeting.",
+        "visual_hint": "Hourglass with sand falling",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass time",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before it's too late.",
+        "description": "Run an attack surface audit this week. If you don't know your weakest entry point, you can't fix it.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity audit",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+    "savedAt": "2026-08-03T16:14:48.944Z",
+    "sourceId": "a44655c52f06749ea9cd085fb2e36f55"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "eu-ai-act-article-50-transparency-rules-enter-forc",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "EU AI Act Article 50 transparency rules enter force",
+    "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+    "pubDate": "Mon, 03 Aug 2026 16:09:25 +0000",
+    "slides": [
+      "Who must reveal AI content under EU law?",
+      "Article 50 applies from August 2026.",
+      "Even your own AI-generated emails are covered.",
+      "Non-compliance risks fines up to 3% revenue.",
+      "Audit your AI outputs before enforcement begins."
+    ],
+    "thread_text": [
+      "1. Who's watching your AI?\n\nBy August 2026, EU law forces you to label every AI output—even casual emails. Your hidden AI use becomes a legal liability.",
+      "2. The law's blind spot\n\nArticle 50 doesn't just cover chatbots. It sweeps in AI-generated images, videos, and code. Many developers haven't even read the fine print.",
+      "3. Your emails are evidence\n\nIf you use AI to draft a newsletter or a client update, it's covered. There's no 'small use' exemption. Ignorance won't protect you.",
+      "4. The cost of silence\n\nFines reach up to 3% of global revenue. For a startup, that's often months of runway. One unlabeled AI tweet could trigger it.",
+      "5. Your 2025 checklist\n\nAudit your current AI outputs—drafts, graphics, code—before August 2026. Set up a labeling template now. What in your workflow will fail?"
+    ],
+    "video_script": [
+      "EU law demands revealing all AI content.",
+      "August 2026, no exceptions, even emails.",
+      "Your AI drafts could cost you big.",
+      "Fines up to three percent of revenue.",
+      "Audit your outputs before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's watching your AI?\n\nBy August 2026, EU law forces you to label every AI output—even casual emails. Your hidden AI use becomes a legal liability.",
+          "2. The law's blind spot\n\nArticle 50 doesn't just cover chatbots. It sweeps in AI-generated images, videos, and code. Many developers haven't even read the fine print.",
+          "3. Your emails are evidence\n\nIf you use AI to draft a newsletter or a client update, it's covered. There's no 'small use' exemption. Ignorance won't protect you.",
+          "4. The cost of silence\n\nFines reach up to 3% of global revenue. For a startup, that's often months of runway. One unlabeled AI tweet could trigger it.",
+          "5. Your 2025 checklist\n\nAudit your current AI outputs—drafts, graphics, code—before August 2026. Set up a labeling template now. What in your workflow will fail?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "EU law demands revealing all AI content.",
+          "August 2026, no exceptions, even emails.",
+          "Your AI drafts could cost you big.",
+          "Fines up to three percent of revenue.",
+          "Audit your outputs before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "By August 2026, every AI-generated email you send in the EU must be labeled as such—or you risk fines of up to 3% of global revenue. ⚖️\n\nThe EU AI Act’s Article 50 doesn’t just cover chatbots. It sweeps in AI-written client updates, newsletter drafts, and even code. There’s no “small use” exemption for casual AI helpers.\n\nIf you create content for work—marketing, sales, or dev—your current AI drafts are already on the clock. One unlabeled AI tweet or pitch could trigger the penalty. 🔍\n\nBefore enforcement starts, audit every AI output you publish. Set up a simple “AI-generated” label template now.\n\nWhat in your daily workflow will fail the audit? 🗓️"
+      }
+    },
+    "instagram_caption": "By August 2026, every AI-generated email you send in the EU must be labeled as such—or you risk fines of up to 3% of global revenue. ⚖️\n\nThe EU AI Act’s Article 50 doesn’t just cover chatbots. It sweeps in AI-written client updates, newsletter drafts, and even code. There’s no “small use” exemption for casual AI helpers.\n\nIf you create content for work—marketing, sales, or dev—your current AI drafts are already on the clock. One unlabeled AI tweet or pitch could trigger the penalty. 🔍\n\nBefore enforcement starts, audit every AI output you publish. Set up a simple “AI-generated” label template now.\n\nWhat in your daily workflow will fail the audit? 🗓️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI emails are legal evidence.",
+        "description": "Article 50 applies to all AI outputs, even casual emails. Ignorance won't protect you—non-compliance risks fines.",
+        "visual_hint": "Envelope with AI label",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "email inbox smartphone"
+      },
+      {
+        "hook": "What does Article 50 actually cover?",
+        "description": "It sweeps in images, videos, and code—not just chatbots. Many developers haven't read the fine print.",
+        "visual_hint": "Magnifier over code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code closeup",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Even your drafts are affected.",
+        "description": "AI-generated newsletters and client updates must be labeled. No 'small use' exemption exists—every output counts.",
+        "visual_hint": "Document with stamp",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "document with stamp",
+        "image": "https://images.pexels.com/photos/6863508/pexels-photo-6863508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fines could reach 3% of revenue.",
+        "description": "For startups, that's months of runway. A single unlabeled AI tweet could trigger enforcement.",
+        "visual_hint": "Calculator showing penalty",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calculator with currency",
+        "image": "https://images.pexels.com/photos/4386375/pexels-photo-4386375.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your AI outputs now.",
+        "description": "Save this checklist: review drafts, graphics, and code. Set up a labeling template before August 2026.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-03T16:14:35.608Z",
+    "sourceId": "11864555477a920e036243176f2cd79a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "china-8217-s-alibaba-takes-another-swipe-at-americ",
     "prompt_version": "1.0.0",
     "status": "published",
