@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "sam-altman-and-ai-s-decel-debate",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "slides": [
+        "Why is Sam Altman now debating AI decel?",
+        "He once called acceleration the only sane path.",
+        "Now insiders whisper he funds cautious safety research.",
+        "Your AI roadmap must hedge both scenarios now.",
+        "Watch his next move, then decide your stance."
+      ],
+      "thread_text": [
+        "1. The U-Turn\n\nAltman once called acceleration the only sane path. Now insiders whisper he funds cautious safety research.",
+        "2. Why the Shift?\n\nHis public stance hasn't changed, but the funding trail suggests he's hedging. That's a signal about AI's true risks.",
+        "3. The Fork in the Road\n\nYour roadmap can't assume one future. If you bet only on speed, you're exposed to a safety-driven slowdown.",
+        "4. Hedge Both Scenarios\n\nBuild flexible plans: invest in fast AI gains, but also prep for stricter oversight. That's how you survive either path.",
+        "5. Watch His Next Move\n\nTrack Altman's public statements and funding news this quarter. Then decide your stance—but plan for both."
+      ],
+      "video_script": [
+        "Altman's AI stance just flipped. What's next?",
+        "He backed speed, but now funds safety.",
+        "This shift signals a major industry change.",
+        "Your AI roadmap must handle both paths.",
+        "Watch his moves, then decide your position."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The U-Turn\n\nAltman once called acceleration the only sane path. Now insiders whisper he funds cautious safety research.",
+            "2. Why the Shift?\n\nHis public stance hasn't changed, but the funding trail suggests he's hedging. That's a signal about AI's true risks.",
+            "3. The Fork in the Road\n\nYour roadmap can't assume one future. If you bet only on speed, you're exposed to a safety-driven slowdown.",
+            "4. Hedge Both Scenarios\n\nBuild flexible plans: invest in fast AI gains, but also prep for stricter oversight. That's how you survive either path.",
+            "5. Watch His Next Move\n\nTrack Altman's public statements and funding news this quarter. Then decide your stance—but plan for both."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Altman's AI stance just flipped. What's next?",
+            "He backed speed, but now funds safety.",
+            "This shift signals a major industry change.",
+            "Your AI roadmap must handle both paths.",
+            "Watch his moves, then decide your position."
+          ]
+        },
+        "instagram": {
+          "caption": "The guy who said slowing down AI was \"the only sane path\" is acceleration is now quietly funding safety research.  \n\nHis public speeches haven’t changed, but the money trail shows he’s preparing for a world where AI gets regulated hard. That’s a tell about what he thinks could go wrong.  \n\nIf you build your content pipeline betting only on fast, unchecked AI growth, you’re exposed to sudden rule changes. Start making templates that work under stricter review, not just speed.  \n\nAre you planning for a slowdown, or just hoping it won’t happen? 🔍⚖️💼"
+        }
+      },
+      "instagram_caption": "The guy who said slowing down AI was \"the only sane path\" is acceleration is now quietly funding safety research.  \n\nHis public speeches haven’t changed, but the money trail shows he’s preparing for a world where AI gets regulated hard. That’s a tell about what he thinks could go wrong.  \n\nIf you build your content pipeline betting only on fast, unchecked AI growth, you’re exposed to sudden rule changes. Start making templates that work under stricter review, not just speed.  \n\nAre you planning for a slowdown, or just hoping it won’t happen? 🔍⚖️💼",
+      "carousel_slides": [
+        {
+          "hook": "Your AI roadmap is now a gamble?",
+          "description": "Insiders hint Altman funds cautious safety research. If true, your speed-first plan faces a safety-driven slowdown. Hedge now.",
+          "visual_hint": "Two diverging paths in fog",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fork in road"
+        },
+        {
+          "hook": "He once said acceleration is sane.",
+          "description": "Altman's public stance hasn't changed, but his funding trail suggests he's hedging. That's a quiet signal about AI's true risks.",
+          "visual_hint": "Coin flip and funding chart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Only bet on speed? Then you're exposed.",
+          "description": "If you assume one future, you're vulnerable. A safety-driven slowdown could upend your AI investments. Prepare for both outcomes.",
+          "visual_hint": "Magnifying glass on split roadmap",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hedge both futures to survive.",
+          "description": "Build flexible plans: invest in fast AI gains, but also prepare for stricter oversight. That's your survival strategy either way.",
+          "visual_hint": "Two hands holding gears and shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to track his next move.",
+          "description": "Watch Altman's public statements and funding news this quarter. Then decide your stance—but plan for both scenarios. Follow for updates.",
+          "visual_hint": "Eye icon and save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-03T09:26:13.847Z",
+      "sourceId": "80e7e83282c871df9ff0bf6f6e715a88"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "the-global-memory-shortage-hits-the-macbook-air",
       "prompt_version": "1.0.0",
       "status": "published",
