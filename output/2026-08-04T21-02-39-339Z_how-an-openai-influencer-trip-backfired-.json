@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-an-openai-influencer-trip-backfired-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How an OpenAI influencer trip backfired ",
+  "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+  "pubDate": "2026-08-04T17:46:41.000Z",
+  "slides": [
+    "Invited influencers praised OpenAI—then the backlash began.",
+    "The trip's purpose was simple: boost GPT-5 buzz.",
+    "But leaked NDAs revealed hidden strings attached.",
+    "Now creators must disclose paid ties or face fines.",
+    "Lesson: vet your influencers before they turn on you."
+  ],
+  "thread_text": [
+    "1. The hidden cost of that AI trip\n\nOpenAI flew influencers to a lavish retreat to drum up GPT-5 hype—but the real story emerged only after leaked NDAs exposed the strings attached.",
+    "2. What the NDA actually said\n\nThose agreements reportedly banned any negative comments for a full year. One wrong post could lead to legal action—or a hefty fine.",
+    "3. Regulators just stepped in\n\nNew FTC-style rules force creators to disclose any paid ties with AI companies. Failing that? Fines up to $40,000 per violation.",
+    "4. The backlash was brutal\n\nOnce the NDA details surfaced, influencers who praised OpenAI faced angry followers. Some deleted posts, others lost sponsors.",
+    "5. Audit your own influencer deals\n\nBefore your next campaign, ask: does my contract gag legitimate criticism? If so, rewrite it—or the public will do it for you."
+  ],
+  "video_script": [
+    "OpenAI invited creators, then it backfired.",
+    "Leaked NDAs revealed the hidden strings.",
+    "Now they face fines for undisclosed ties.",
+    "The backlash hit hard, trust shattered.",
+    "Check your contracts before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The hidden cost of that AI trip\n\nOpenAI flew influencers to a lavish retreat to drum up GPT-5 hype—but the real story emerged only after leaked NDAs exposed the strings attached.",
+        "2. What the NDA actually said\n\nThose agreements reportedly banned any negative comments for a full year. One wrong post could lead to legal action—or a hefty fine.",
+        "3. Regulators just stepped in\n\nNew FTC-style rules force creators to disclose any paid ties with AI companies. Failing that? Fines up to $40,000 per violation.",
+        "4. The backlash was brutal\n\nOnce the NDA details surfaced, influencers who praised OpenAI faced angry followers. Some deleted posts, others lost sponsors.",
+        "5. Audit your own influencer deals\n\nBefore your next campaign, ask: does my contract gag legitimate criticism? If so, rewrite it—or the public will do it for you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI invited creators, then it backfired.",
+        "Leaked NDAs revealed the hidden strings.",
+        "Now they face fines for undisclosed ties.",
+        "The backlash hit hard, trust shattered.",
+        "Check your contracts before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "A luxury retreat, a glowing post, and a 12-month gag order.\n\nOpenAI flew influencers out to hype GPT-5, but the fine print leaked: any negative comment for a year could trigger legal action. Regulators then stepped in, and creators now face fines up to $40,000 if they don’t disclose these paid ties.\n\nThat means your next sponsored post isn't just a thumbs-up—it’s a legal contract with a muzzle attached. In fact, some influencers already deleted their praise after followers turned on them.\n\nBefore you sign your next brand deal: who owns your right to criticize—you, or the client? 🧐📝🚨"
+    }
+  },
+  "instagram_caption": "A luxury retreat, a glowing post, and a 12-month gag order.\n\nOpenAI flew influencers out to hype GPT-5, but the fine print leaked: any negative comment for a year could trigger legal action. Regulators then stepped in, and creators now face fines up to $40,000 if they don’t disclose these paid ties.\n\nThat means your next sponsored post isn't just a thumbs-up—it’s a legal contract with a muzzle attached. In fact, some influencers already deleted their praise after followers turned on them.\n\nBefore you sign your next brand deal: who owns your right to criticize—you, or the client? 🧐📝🚨",
+  "carousel_slides": [
+    {
+      "hook": "What did those NDAs really hide?",
+      "description": "OpenAI flew influencers to a luxury retreat, but leaked NDAs revealed a year-long gag order. One negative post could trigger legal action.",
+      "visual_hint": "contract with pen close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "legal contract document"
+    },
+    {
+      "hook": "Silence for a whole year.",
+      "description": "Influencers reportedly couldn't criticize GPT-5 for 12 months. A single slip-up meant lawsuits or steep fines.",
+      "visual_hint": "calendar with lock icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar lock",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators just dropped the hammer.",
+      "description": "New rules force creators to disclose paid AI ties. Violations? Fines up to $40,000 each time.",
+      "visual_hint": "gavel and money stack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel money",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Follows turned on them instantly.",
+      "description": "When NDAs leaked, angry followers punished influencers. Some deleted posts, others lost sponsorships.",
+      "visual_hint": "angry crowd with phones",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "angry crowd",
+      "image": "https://images.pexels.com/photos/16024861/pexels-photo-16024861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next deal.",
+      "description": "Audit your influencer contracts now. If they silence criticism, rewrite them—or face public backlash.",
+      "visual_hint": "checklist on smartphone",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist smartphone",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&amp;strip=all&amp;crop=0,32.674640384805,100,34.650719230389",
+  "savedAt": "2026-08-04T21:03:45.039Z",
+  "sourceId": "24da5cc46a91b3f720f3a6dfb2d40b3b"
+}

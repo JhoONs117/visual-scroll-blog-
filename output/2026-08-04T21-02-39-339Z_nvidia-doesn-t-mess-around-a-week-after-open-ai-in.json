@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-doesn-t-mess-around-a-week-after-open-ai-in",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+  "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+  "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
+  "slides": [
+    "Nvidia just proved itself again—but who exactly is watching?",
+    "An open AI industry group formed just seven days ago.",
+    "Nvidia already unveiled a tool that cuts training time by half.",
+    "Developers can now prototype models without expensive hardware investments.",
+    "Test the new toolkit on your current workload this week."
+  ],
+  "thread_text": [
+    "1. Who's watching Nvidia?\n\nJust seven days ago, an open AI industry group formed. Nvidia's next move just got a lot more scrutinized.",
+    "2. Training time halved\n\nTheir new tool cuts training time by 50%. That's not incremental—that's a leap.",
+    "3. No hardware? No problem\n\nDevelopers can prototype without buying expensive GPUs. The barrier just dropped.",
+    "4. The twist: open group's role\n\nThis new group might set standards. Nvidia's tool could either lead or be left behind.",
+    "5. Test it this week\n\nRun your current workload on the toolkit. Does halving time hold up in your real project? Try it now."
+  ],
+  "video_script": [
+    "Nvidia just proved itself again.",
+    "Who's actually watching?",
+    "A new AI group formed seven days ago.",
+    "Nvidia cut training time in half.",
+    "Test this toolkit on your workload."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's watching Nvidia?\n\nJust seven days ago, an open AI industry group formed. Nvidia's next move just got a lot more scrutinized.",
+        "2. Training time halved\n\nTheir new tool cuts training time by 50%. That's not incremental—that's a leap.",
+        "3. No hardware? No problem\n\nDevelopers can prototype without buying expensive GPUs. The barrier just dropped.",
+        "4. The twist: open group's role\n\nThis new group might set standards. Nvidia's tool could either lead or be left behind.",
+        "5. Test it this week\n\nRun your current workload on the toolkit. Does halving time hold up in your real project? Try it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia just proved itself again.",
+        "Who's actually watching?",
+        "A new AI group formed seven days ago.",
+        "Nvidia cut training time in half.",
+        "Test this toolkit on your workload."
+      ]
+    },
+    "instagram": {
+      "caption": "A week after an open AI industry group formed, Nvidia already dropped a tool that halves model training time. ⏱️\n\nThat’s not a roadmap promise—it’s live now. Developers can prototype without buying expensive GPUs upfront, which removes a huge barrier for solo builders and small teams.\n\nThe twist? This new group is setting standards. Nvidia’s toolkit could either shape those rules or end up fighting them. 🧩\n\nFor you: your next project’s training bill just got smaller, but only if the tool works on your actual workload.\n\nSo, will you run your current pipeline through their kit this week, or wait to see what the group standardizes first? 🔍"
+    }
+  },
+  "instagram_caption": "A week after an open AI industry group formed, Nvidia already dropped a tool that halves model training time. ⏱️\n\nThat’s not a roadmap promise—it’s live now. Developers can prototype without buying expensive GPUs upfront, which removes a huge barrier for solo builders and small teams.\n\nThe twist? This new group is setting standards. Nvidia’s toolkit could either shape those rules or end up fighting them. 🧩\n\nFor you: your next project’s training bill just got smaller, but only if the tool works on your actual workload.\n\nSo, will you run your current pipeline through their kit this week, or wait to see what the group standardizes first? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Half the training time. Already?",
+      "description": "Seven days after an open AI group formed, Nvidia unveiled a tool that halves training time—a massive leap for developers watching closely.",
+      "visual_hint": "Split clock, speed lines",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stopwatch speed abstract"
+    },
+    {
+      "hook": "New AI group, new rules?",
+      "description": "Just a week ago, an open AI industry group assembled. Nvidia's next move is now under a microscope—could set the standard.",
+      "visual_hint": "Magnifying glass over group",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No expensive GPUs needed",
+      "description": "Their new toolkit lets developers prototype models without buying costly hardware. The barrier to entry just dropped dramatically.",
+      "visual_hint": "Chip falling barrier",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chips closeup",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who's really in control?",
+      "description": "The open group might set standards, and Nvidia's tool could lead or be left behind. Developers are the ones choosing sides now.",
+      "visual_hint": "Two paths fork diverging",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crossroads road split",
+      "image": "https://images.pexels.com/photos/31695050/pexels-photo-31695050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it this week—save your spot",
+      "description": "Run your current workload on the new toolkit now. See if halving training time holds up in your real project—then share results.",
+      "visual_hint": "Checkmark over toolkit",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop code screen",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
+  "savedAt": "2026-08-04T21:03:28.453Z",
+  "sourceId": "a21d180516b22df290a01a2e1c8f1f2b"
+}

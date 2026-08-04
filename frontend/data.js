@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "how-an-openai-influencer-trip-backfired-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How an OpenAI influencer trip backfired ",
+    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "pubDate": "2026-08-04T17:46:41.000Z",
+    "slides": [
+      "Invited influencers praised OpenAI—then the backlash began.",
+      "The trip's purpose was simple: boost GPT-5 buzz.",
+      "But leaked NDAs revealed hidden strings attached.",
+      "Now creators must disclose paid ties or face fines.",
+      "Lesson: vet your influencers before they turn on you."
+    ],
+    "thread_text": [
+      "1. The hidden cost of that AI trip\n\nOpenAI flew influencers to a lavish retreat to drum up GPT-5 hype—but the real story emerged only after leaked NDAs exposed the strings attached.",
+      "2. What the NDA actually said\n\nThose agreements reportedly banned any negative comments for a full year. One wrong post could lead to legal action—or a hefty fine.",
+      "3. Regulators just stepped in\n\nNew FTC-style rules force creators to disclose any paid ties with AI companies. Failing that? Fines up to $40,000 per violation.",
+      "4. The backlash was brutal\n\nOnce the NDA details surfaced, influencers who praised OpenAI faced angry followers. Some deleted posts, others lost sponsors.",
+      "5. Audit your own influencer deals\n\nBefore your next campaign, ask: does my contract gag legitimate criticism? If so, rewrite it—or the public will do it for you."
+    ],
+    "video_script": [
+      "OpenAI invited creators, then it backfired.",
+      "Leaked NDAs revealed the hidden strings.",
+      "Now they face fines for undisclosed ties.",
+      "The backlash hit hard, trust shattered.",
+      "Check your contracts before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The hidden cost of that AI trip\n\nOpenAI flew influencers to a lavish retreat to drum up GPT-5 hype—but the real story emerged only after leaked NDAs exposed the strings attached.",
+          "2. What the NDA actually said\n\nThose agreements reportedly banned any negative comments for a full year. One wrong post could lead to legal action—or a hefty fine.",
+          "3. Regulators just stepped in\n\nNew FTC-style rules force creators to disclose any paid ties with AI companies. Failing that? Fines up to $40,000 per violation.",
+          "4. The backlash was brutal\n\nOnce the NDA details surfaced, influencers who praised OpenAI faced angry followers. Some deleted posts, others lost sponsors.",
+          "5. Audit your own influencer deals\n\nBefore your next campaign, ask: does my contract gag legitimate criticism? If so, rewrite it—or the public will do it for you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI invited creators, then it backfired.",
+          "Leaked NDAs revealed the hidden strings.",
+          "Now they face fines for undisclosed ties.",
+          "The backlash hit hard, trust shattered.",
+          "Check your contracts before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "A luxury retreat, a glowing post, and a 12-month gag order.\n\nOpenAI flew influencers out to hype GPT-5, but the fine print leaked: any negative comment for a year could trigger legal action. Regulators then stepped in, and creators now face fines up to $40,000 if they don’t disclose these paid ties.\n\nThat means your next sponsored post isn't just a thumbs-up—it’s a legal contract with a muzzle attached. In fact, some influencers already deleted their praise after followers turned on them.\n\nBefore you sign your next brand deal: who owns your right to criticize—you, or the client? 🧐📝🚨"
+      }
+    },
+    "instagram_caption": "A luxury retreat, a glowing post, and a 12-month gag order.\n\nOpenAI flew influencers out to hype GPT-5, but the fine print leaked: any negative comment for a year could trigger legal action. Regulators then stepped in, and creators now face fines up to $40,000 if they don’t disclose these paid ties.\n\nThat means your next sponsored post isn't just a thumbs-up—it’s a legal contract with a muzzle attached. In fact, some influencers already deleted their praise after followers turned on them.\n\nBefore you sign your next brand deal: who owns your right to criticize—you, or the client? 🧐📝🚨",
+    "carousel_slides": [
+      {
+        "hook": "What did those NDAs really hide?",
+        "description": "OpenAI flew influencers to a luxury retreat, but leaked NDAs revealed a year-long gag order. One negative post could trigger legal action.",
+        "visual_hint": "contract with pen close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "legal contract document"
+      },
+      {
+        "hook": "Silence for a whole year.",
+        "description": "Influencers reportedly couldn't criticize GPT-5 for 12 months. A single slip-up meant lawsuits or steep fines.",
+        "visual_hint": "calendar with lock icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar lock",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulators just dropped the hammer.",
+        "description": "New rules force creators to disclose paid AI ties. Violations? Fines up to $40,000 each time.",
+        "visual_hint": "gavel and money stack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gavel money",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Follows turned on them instantly.",
+        "description": "When NDAs leaked, angry followers punished influencers. Some deleted posts, others lost sponsorships.",
+        "visual_hint": "angry crowd with phones",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "angry crowd",
+        "image": "https://images.pexels.com/photos/16024861/pexels-photo-16024861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next deal.",
+        "description": "Audit your influencer contracts now. If they silence criticism, rewrite them—or face public backlash.",
+        "visual_hint": "checklist on smartphone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist smartphone",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&amp;strip=all&amp;crop=0,32.674640384805,100,34.650719230389",
+    "savedAt": "2026-08-04T21:03:45.039Z",
+    "sourceId": "24da5cc46a91b3f720f3a6dfb2d40b3b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-doesn-t-mess-around-a-week-after-open-ai-in",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "pubDate": "Tue, 04 Aug 2026 19:28:49 +0000",
+    "slides": [
+      "Nvidia just proved itself again—but who exactly is watching?",
+      "An open AI industry group formed just seven days ago.",
+      "Nvidia already unveiled a tool that cuts training time by half.",
+      "Developers can now prototype models without expensive hardware investments.",
+      "Test the new toolkit on your current workload this week."
+    ],
+    "thread_text": [
+      "1. Who's watching Nvidia?\n\nJust seven days ago, an open AI industry group formed. Nvidia's next move just got a lot more scrutinized.",
+      "2. Training time halved\n\nTheir new tool cuts training time by 50%. That's not incremental—that's a leap.",
+      "3. No hardware? No problem\n\nDevelopers can prototype without buying expensive GPUs. The barrier just dropped.",
+      "4. The twist: open group's role\n\nThis new group might set standards. Nvidia's tool could either lead or be left behind.",
+      "5. Test it this week\n\nRun your current workload on the toolkit. Does halving time hold up in your real project? Try it now."
+    ],
+    "video_script": [
+      "Nvidia just proved itself again.",
+      "Who's actually watching?",
+      "A new AI group formed seven days ago.",
+      "Nvidia cut training time in half.",
+      "Test this toolkit on your workload."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's watching Nvidia?\n\nJust seven days ago, an open AI industry group formed. Nvidia's next move just got a lot more scrutinized.",
+          "2. Training time halved\n\nTheir new tool cuts training time by 50%. That's not incremental—that's a leap.",
+          "3. No hardware? No problem\n\nDevelopers can prototype without buying expensive GPUs. The barrier just dropped.",
+          "4. The twist: open group's role\n\nThis new group might set standards. Nvidia's tool could either lead or be left behind.",
+          "5. Test it this week\n\nRun your current workload on the toolkit. Does halving time hold up in your real project? Try it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia just proved itself again.",
+          "Who's actually watching?",
+          "A new AI group formed seven days ago.",
+          "Nvidia cut training time in half.",
+          "Test this toolkit on your workload."
+        ]
+      },
+      "instagram": {
+        "caption": "A week after an open AI industry group formed, Nvidia already dropped a tool that halves model training time. ⏱️\n\nThat’s not a roadmap promise—it’s live now. Developers can prototype without buying expensive GPUs upfront, which removes a huge barrier for solo builders and small teams.\n\nThe twist? This new group is setting standards. Nvidia’s toolkit could either shape those rules or end up fighting them. 🧩\n\nFor you: your next project’s training bill just got smaller, but only if the tool works on your actual workload.\n\nSo, will you run your current pipeline through their kit this week, or wait to see what the group standardizes first? 🔍"
+      }
+    },
+    "instagram_caption": "A week after an open AI industry group formed, Nvidia already dropped a tool that halves model training time. ⏱️\n\nThat’s not a roadmap promise—it’s live now. Developers can prototype without buying expensive GPUs upfront, which removes a huge barrier for solo builders and small teams.\n\nThe twist? This new group is setting standards. Nvidia’s toolkit could either shape those rules or end up fighting them. 🧩\n\nFor you: your next project’s training bill just got smaller, but only if the tool works on your actual workload.\n\nSo, will you run your current pipeline through their kit this week, or wait to see what the group standardizes first? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Half the training time. Already?",
+        "description": "Seven days after an open AI group formed, Nvidia unveiled a tool that halves training time—a massive leap for developers watching closely.",
+        "visual_hint": "Split clock, speed lines",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stopwatch speed abstract"
+      },
+      {
+        "hook": "New AI group, new rules?",
+        "description": "Just a week ago, an open AI industry group assembled. Nvidia's next move is now under a microscope—could set the standard.",
+        "visual_hint": "Magnifying glass over group",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No expensive GPUs needed",
+        "description": "Their new toolkit lets developers prototype models without buying costly hardware. The barrier to entry just dropped dramatically.",
+        "visual_hint": "Chip falling barrier",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer chips closeup",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who's really in control?",
+        "description": "The open group might set standards, and Nvidia's tool could lead or be left behind. Developers are the ones choosing sides now.",
+        "visual_hint": "Two paths fork diverging",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crossroads road split",
+        "image": "https://images.pexels.com/photos/31695050/pexels-photo-31695050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it this week—save your spot",
+        "description": "Run your current workload on the new toolkit now. See if halving training time holds up in your real project—then share results.",
+        "visual_hint": "Checkmark over toolkit",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "laptop code screen",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
+    "savedAt": "2026-08-04T21:03:28.453Z",
+    "sourceId": "a21d180516b22df290a01a2e1c8f1f2b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-signs-10b-deal-with-ai-cloud-startup-vol",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+    "slides": [
+      "Anthropic just bet $10B on Volta. Why?",
+      "Volta's AI cloud promises GPU clusters unmatched.",
+      "The catch: Volta has never hosted a model this large.",
+      "Anthropic's rivals now face a new infrastructure barrier.",
+      "Watch whether Volta delivers before betting on it."
+    ],
+    "thread_text": [
+      "1. Why the $10B bet?\n\nAnthropic's move signals Volta holds the key to training models beyond current limits.",
+      "2. The unproven promise\n\nVolta's cloud claims unmatched GPU clusters, but has never run a model this large. That gap is the real risk.",
+      "3. Rivals' new barrier\n\nIf Volta delivers, competitors face a massive infrastructure hurdle. They can't easily replicate that scale or speed.",
+      "4. The real question\n\nWill Volta's hardware actually support Anthropic's next-gen model? Or will this $10B become a costly lesson?",
+      "5. Watch before betting\n\nTrack Volta's next public benchmark. If they miss, reconsider any infrastructure bets you're making this quarter."
+    ],
+    "video_script": [
+      "Anthropic bet ten billion on Volta.",
+      "But Volta's unproven for huge models.",
+      "Rivals now face a tough infrastructure gap.",
+      "Can Volta deliver on its promise?",
+      "Watch their next benchmark before acting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the $10B bet?\n\nAnthropic's move signals Volta holds the key to training models beyond current limits.",
+          "2. The unproven promise\n\nVolta's cloud claims unmatched GPU clusters, but has never run a model this large. That gap is the real risk.",
+          "3. Rivals' new barrier\n\nIf Volta delivers, competitors face a massive infrastructure hurdle. They can't easily replicate that scale or speed.",
+          "4. The real question\n\nWill Volta's hardware actually support Anthropic's next-gen model? Or will this $10B become a costly lesson?",
+          "5. Watch before betting\n\nTrack Volta's next public benchmark. If they miss, reconsider any infrastructure bets you're making this quarter."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic bet ten billion on Volta.",
+          "But Volta's unproven for huge models.",
+          "Rivals now face a tough infrastructure gap.",
+          "Can Volta deliver on its promise?",
+          "Watch their next benchmark before acting."
+        ]
+      },
+      "instagram": {
+        "caption": "$10 billion. That’s what Anthropic just wired to Volta, a cloud startup that has never hosted a model even close to this scale. 💸\n\nVolta promises GPU clusters that outmatch anything online. But the gap between promise and proof is the whole bet. If Volta fails, Anthropic eats the loss. If it works, every other lab faces an infrastructure gap they can’t easily close.\n\nFor anyone training or deploying models, this shifts the cost of entry overnight. Your next tool, API, or workflow could hinge on whether this hardware actually delivers.\n\nAre you checking Volta’s benchmarks before your next infrastructure purchase? ⏳"
+      }
+    },
+    "instagram_caption": "$10 billion. That’s what Anthropic just wired to Volta, a cloud startup that has never hosted a model even close to this scale. 💸\n\nVolta promises GPU clusters that outmatch anything online. But the gap between promise and proof is the whole bet. If Volta fails, Anthropic eats the loss. If it works, every other lab faces an infrastructure gap they can’t easily close.\n\nFor anyone training or deploying models, this shifts the cost of entry overnight. Your next tool, API, or workflow could hinge on whether this hardware actually delivers.\n\nAre you checking Volta’s benchmarks before your next infrastructure purchase? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Has Volta ever handled this?",
+        "description": "Anthropic's $10B bet hinges on Volta hosting a model that size for the first time. That gap is the real risk.",
+        "visual_hint": "Massive GPU cluster glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gpu server cluster"
+      },
+      {
+        "hook": "Unmatched clusters, unproven at scale.",
+        "description": "Volta promises GPU clusters beyond current limits, but has never run a model this large. If it fails, the cost is Anthropic's.",
+        "visual_hint": "Cloud infrastructure with warning sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals face a new barrier.",
+        "description": "If Volta delivers, competitors can't easily replicate that scale or speed. This infrastructure gap could reshape the AI race.",
+        "visual_hint": "Wall of servers blocking path",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room corridor",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will hardware actually support it?",
+        "description": "The real question: will Volta's hardware handle Anthropic's next-gen model, or will this $10B become a costly lesson?",
+        "visual_hint": "Engineer inspecting hardware",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "engineer server maintenance",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before betting on AI.",
+        "description": "Track Volta's next public benchmark. If they miss, reconsider your infrastructure bets this quarter. Follow for updates.",
+        "visual_hint": "Finger tapping save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone save icon",
+        "image": "https://images.pexels.com/photos/3850481/pexels-photo-3850481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "savedAt": "2026-08-04T21:03:13.022Z",
+    "sourceId": "af3fbfe150b00022cd319aa3b04b9280"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "open-weight-ai-models-are-catching-up-to-the-front",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "pubDate": "Tue, 04 Aug 2026 20:05:26 +0000",
+    "slides": [
+      "Who watches the watchers when open models escape?",
+      "Open-weight releases now rival top proprietary systems.",
+      "Even their creators can't fully predict emergent abilities.",
+      "Your safety audits assume limits these models no longer have.",
+      "Tomorrow: verify every output before it reaches production."
+    ],
+    "thread_text": [
+      "1. Who watches the watchers?\n\nOpen-weight models now match top proprietary systems, but their creators admit they can't predict all emergent abilities. Safety audits are built on assumptions these models no longer hold.",
+      "2. The audit gap\n\nYour current safety checks assume limits that open-weight releases have already surpassed. One emergent behavior can bypass a whole suite of tests designed for older, weaker models.",
+      "3. The escape route\n\nEven the developers can't fully map what these models will do once in the wild. Once weights are public, any patch or restriction becomes irrelevant—the model is out there, evolving with user prompts.",
+      "4. The blind spot\n\nMost teams verify outputs only at the end, after the model has already acted. By then, a single unverified response could have triggered an error, leaked data, or made a decision you can't undo.",
+      "5. Your move today\n\nTake one prompt from your production pipeline and simulate it on a public open-weight model. If you haven't checked for unexpected outputs, start there—before it hits your system."
+    ],
+    "video_script": [
+      "Open models now rival the best closed ones.",
+      "But we can't predict their emergent skills.",
+      "Safety audits assume limits that no longer exist.",
+      "Once released, they escape our control.",
+      "Verify every output before it reaches production."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who watches the watchers?\n\nOpen-weight models now match top proprietary systems, but their creators admit they can't predict all emergent abilities. Safety audits are built on assumptions these models no longer hold.",
+          "2. The audit gap\n\nYour current safety checks assume limits that open-weight releases have already surpassed. One emergent behavior can bypass a whole suite of tests designed for older, weaker models.",
+          "3. The escape route\n\nEven the developers can't fully map what these models will do once in the wild. Once weights are public, any patch or restriction becomes irrelevant—the model is out there, evolving with user prompts.",
+          "4. The blind spot\n\nMost teams verify outputs only at the end, after the model has already acted. By then, a single unverified response could have triggered an error, leaked data, or made a decision you can't undo.",
+          "5. Your move today\n\nTake one prompt from your production pipeline and simulate it on a public open-weight model. If you haven't checked for unexpected outputs, start there—before it hits your system."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Open models now rival the best closed ones.",
+          "But we can't predict their emergent skills.",
+          "Safety audits assume limits that no longer exist.",
+          "Once released, they escape our control.",
+          "Verify every output before it reaches production."
+        ]
+      },
+      "instagram": {
+        "caption": "Open-weight models just matched the top proprietary systems, and their own builders say they can’t predict everything these models will do. 🧩\n\nYour safety audits assume limits that these releases have already blown past. One unexpected behavior can slip through tests designed for older, weaker models. The weights are public, so any patch or restriction becomes pointless—the model is already out there, adapting to whatever users throw at it. ⚠️\n\nIf you publish content or build tools on these models, your end-of-pipeline check won’t catch the damage—it happens after the fact. 🔍\n\nGrab one prompt from your production queue and run it on a public open-weight model today. Found something off? Fix it before it ships."
+      }
+    },
+    "instagram_caption": "Open-weight models just matched the top proprietary systems, and their own builders say they can’t predict everything these models will do. 🧩\n\nYour safety audits assume limits that these releases have already blown past. One unexpected behavior can slip through tests designed for older, weaker models. The weights are public, so any patch or restriction becomes pointless—the model is already out there, adapting to whatever users throw at it. ⚠️\n\nIf you publish content or build tools on these models, your end-of-pipeline check won’t catch the damage—it happens after the fact. 🔍\n\nGrab one prompt from your production queue and run it on a public open-weight model today. Found something off? Fix it before it ships.",
+    "carousel_slides": [
+      {
+        "hook": "What if the model outsmarts its maker?",
+        "description": "Open-weight models match top proprietary systems, yet developers admit they can't predict all emergent abilities. Safety audits assume limits these models no longer hold.",
+        "visual_hint": "Clock with a lock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "security camera"
+      },
+      {
+        "hook": "Your audits assume yesterday's limits.",
+        "description": "Standard checks miss behaviors unique to open-weight models. One emergent ability can slip through a suite built for weaker, older systems.",
+        "visual_hint": "Broken shield",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Once released, it's beyond any patch.",
+        "description": "Public weights let anyone alter and evolve the model outside developer control. Restrictions become irrelevant the moment it's in the wild.",
+        "visual_hint": "Door left open",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "open door",
+        "image": "https://images.pexels.com/photos/9955027/pexels-photo-9955027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You verify too late—after it acts.",
+        "description": "Teams check outputs only at the end, after a model has triggered errors or leaked data. A single unverified response can make decisions you can't undo.",
+        "visual_hint": "Eyes closed",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one prompt now.",
+        "description": "Take a production prompt and run it on a public open-weight model today. If unexpected outputs appear, fix them before they reach your system.",
+        "visual_hint": "Checklist with arrow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "solar panels",
+        "image": "https://images.pexels.com/photos/20769736/pexels-photo-20769736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
+    "savedAt": "2026-08-04T21:02:56.456Z",
+    "sourceId": "c30ea359fc494916ec0e12a201a83241"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "can-reddit-fend-off-a-new-wave-of-ai-seo-spam-",
     "prompt_version": "1.0.0",
     "status": "published",
