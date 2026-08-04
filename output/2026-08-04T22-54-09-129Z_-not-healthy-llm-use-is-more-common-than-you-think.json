@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-not-healthy-llm-use-is-more-common-than-you-think",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Not healthy’ LLM use is more common than you think",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+  "pubDate": "2026-08-04T17:33:46.000Z",
+  "slides": [
+    "Why do LLM users report higher burnout, not lower productivity?",
+    "A new study tracked actual chatbot sessions across 500 companies.",
+    "Over 60% of usage involved copy-pasting entire documents without context.",
+    "That habit forces you to verify everything, doubling your workload.",
+    "Next query: audit your last ten prompts for lazy paste jobs."
+  ],
+  "thread_text": [
+    "1. The Real Burnout Culprit\n\nA new study tracked actual chatbot sessions across 500 companies—over 60% were copy-paste jobs without context.",
+    "2. The Hidden Cost of Convenience\n\nCopy-pasting entire documents forces you to verify every detail, effectively doubling your workload.",
+    "3. The Productivity Paradox\n\nUsers report higher burnout despite AI's promise—because the tool isn't the problem, the habit is.",
+    "4. The Context Crisis\n\nNo context means no relevance—AI hallucinates or misses the point, and you clean up the mess.",
+    "5. Audit Your Prompts Now\n\nGo to your chat history and count your last ten prompts. How many were lazy pastes? That's your starting point."
+  ],
+  "video_script": [
+    "Why do AI users burn out?",
+    "Study: 60% are copy-pasting docs.",
+    "That doubles your verification work.",
+    "Context is everything for AI.",
+    "Audit your last ten prompts today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Real Burnout Culprit\n\nA new study tracked actual chatbot sessions across 500 companies—over 60% were copy-paste jobs without context.",
+        "2. The Hidden Cost of Convenience\n\nCopy-pasting entire documents forces you to verify every detail, effectively doubling your workload.",
+        "3. The Productivity Paradox\n\nUsers report higher burnout despite AI's promise—because the tool isn't the problem, the habit is.",
+        "4. The Context Crisis\n\nNo context means no relevance—AI hallucinates or misses the point, and you clean up the mess.",
+        "5. Audit Your Prompts Now\n\nGo to your chat history and count your last ten prompts. How many were lazy pastes? That's your starting point."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why do AI users burn out?",
+        "Study: 60% are copy-pasting docs.",
+        "That doubles your verification work.",
+        "Context is everything for AI.",
+        "Audit your last ten prompts today."
+      ]
+    },
+    "instagram": {
+      "caption": "60% of AI chats at 500 companies are just copy-pasted documents with zero context.  \n\nThat habit doesn’t save time—it forces you to double-check every output, which literally doubles your workload. The study found these users report higher burnout, not higher productivity.  \n\nThe irony: LLMs hallucinate more when they lack context, so you end up cleaning up messes the shortcut created. For anyone writing or publishing, lazy pastes are quietly eating your hours.  \n\nOpen your chat history right now—how many of your last ten prompts were lazy pastes? Count them. 📋🤖⚠️"
+    }
+  },
+  "instagram_caption": "60% of AI chats at 500 companies are just copy-pasted documents with zero context.  \n\nThat habit doesn’t save time—it forces you to double-check every output, which literally doubles your workload. The study found these users report higher burnout, not higher productivity.  \n\nThe irony: LLMs hallucinate more when they lack context, so you end up cleaning up messes the shortcut created. For anyone writing or publishing, lazy pastes are quietly eating your hours.  \n\nOpen your chat history right now—how many of your last ten prompts were lazy pastes? Count them. 📋🤖⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Your AI habit is burning you out.",
+      "description": "A study of 500 companies found over 60% of chatbot sessions were copy-paste jobs without context, forcing you to verify everything and doubling workload.",
+      "visual_hint": "Silhouette overwhelmed by screens",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person frustrated computer"
+    },
+    {
+      "hook": "Copy-paste is the hidden burnout culprit.",
+      "description": "Pasting entire documents without context makes AI miss the point, so you double-check every detail — that's why burnout rises despite AI's promise.",
+      "visual_hint": "Document pasted into chat window",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer keyboard documents",
+      "image": "https://images.pexels.com/photos/7821202/pexels-photo-7821202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No context means no relevance.",
+      "description": "Without context, AI hallucinates or misses the point. You end up cleaning the mess — that's the real productivity paradox.",
+      "visual_hint": "Confused AI with missing context",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chatbot interface screen",
+      "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop feeding your AI lazy prompts.",
+      "description": "Lazy paste jobs force you to verify everything, eating hours daily. Break the habit by tracking your prompts — your focus will thank you.",
+      "visual_hint": "Hand stopping paste action",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand clicking mouse",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your last 10 prompts now.",
+      "description": "Open your chat history and count lazy pastes. That's your starting point. Save this to fix your workflow before burnout wins.",
+      "visual_hint": "Checklist with chat history",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chat history screen",
+      "image": "https://images.pexels.com/photos/9898391/pexels-photo-9898391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754336667151%2C100%2C78.491326665699&amp;w=1200",
+  "savedAt": "2026-08-04T22:54:34.575Z",
+  "sourceId": "62a45b0de0e1035b8708b7521cc72cdf"
+}

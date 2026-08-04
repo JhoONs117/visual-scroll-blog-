@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "-not-healthy-llm-use-is-more-common-than-you-think",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "pubDate": "2026-08-04T17:33:46.000Z",
+    "slides": [
+      "Why do LLM users report higher burnout, not lower productivity?",
+      "A new study tracked actual chatbot sessions across 500 companies.",
+      "Over 60% of usage involved copy-pasting entire documents without context.",
+      "That habit forces you to verify everything, doubling your workload.",
+      "Next query: audit your last ten prompts for lazy paste jobs."
+    ],
+    "thread_text": [
+      "1. The Real Burnout Culprit\n\nA new study tracked actual chatbot sessions across 500 companies—over 60% were copy-paste jobs without context.",
+      "2. The Hidden Cost of Convenience\n\nCopy-pasting entire documents forces you to verify every detail, effectively doubling your workload.",
+      "3. The Productivity Paradox\n\nUsers report higher burnout despite AI's promise—because the tool isn't the problem, the habit is.",
+      "4. The Context Crisis\n\nNo context means no relevance—AI hallucinates or misses the point, and you clean up the mess.",
+      "5. Audit Your Prompts Now\n\nGo to your chat history and count your last ten prompts. How many were lazy pastes? That's your starting point."
+    ],
+    "video_script": [
+      "Why do AI users burn out?",
+      "Study: 60% are copy-pasting docs.",
+      "That doubles your verification work.",
+      "Context is everything for AI.",
+      "Audit your last ten prompts today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Real Burnout Culprit\n\nA new study tracked actual chatbot sessions across 500 companies—over 60% were copy-paste jobs without context.",
+          "2. The Hidden Cost of Convenience\n\nCopy-pasting entire documents forces you to verify every detail, effectively doubling your workload.",
+          "3. The Productivity Paradox\n\nUsers report higher burnout despite AI's promise—because the tool isn't the problem, the habit is.",
+          "4. The Context Crisis\n\nNo context means no relevance—AI hallucinates or misses the point, and you clean up the mess.",
+          "5. Audit Your Prompts Now\n\nGo to your chat history and count your last ten prompts. How many were lazy pastes? That's your starting point."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Why do AI users burn out?",
+          "Study: 60% are copy-pasting docs.",
+          "That doubles your verification work.",
+          "Context is everything for AI.",
+          "Audit your last ten prompts today."
+        ]
+      },
+      "instagram": {
+        "caption": "60% of AI chats at 500 companies are just copy-pasted documents with zero context.  \n\nThat habit doesn’t save time—it forces you to double-check every output, which literally doubles your workload. The study found these users report higher burnout, not higher productivity.  \n\nThe irony: LLMs hallucinate more when they lack context, so you end up cleaning up messes the shortcut created. For anyone writing or publishing, lazy pastes are quietly eating your hours.  \n\nOpen your chat history right now—how many of your last ten prompts were lazy pastes? Count them. 📋🤖⚠️"
+      }
+    },
+    "instagram_caption": "60% of AI chats at 500 companies are just copy-pasted documents with zero context.  \n\nThat habit doesn’t save time—it forces you to double-check every output, which literally doubles your workload. The study found these users report higher burnout, not higher productivity.  \n\nThe irony: LLMs hallucinate more when they lack context, so you end up cleaning up messes the shortcut created. For anyone writing or publishing, lazy pastes are quietly eating your hours.  \n\nOpen your chat history right now—how many of your last ten prompts were lazy pastes? Count them. 📋🤖⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI habit is burning you out.",
+        "description": "A study of 500 companies found over 60% of chatbot sessions were copy-paste jobs without context, forcing you to verify everything and doubling workload.",
+        "visual_hint": "Silhouette overwhelmed by screens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person frustrated computer"
+      },
+      {
+        "hook": "Copy-paste is the hidden burnout culprit.",
+        "description": "Pasting entire documents without context makes AI miss the point, so you double-check every detail — that's why burnout rises despite AI's promise.",
+        "visual_hint": "Document pasted into chat window",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer keyboard documents",
+        "image": "https://images.pexels.com/photos/7821202/pexels-photo-7821202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No context means no relevance.",
+        "description": "Without context, AI hallucinates or misses the point. You end up cleaning the mess — that's the real productivity paradox.",
+        "visual_hint": "Confused AI with missing context",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chatbot interface screen",
+        "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop feeding your AI lazy prompts.",
+        "description": "Lazy paste jobs force you to verify everything, eating hours daily. Break the habit by tracking your prompts — your focus will thank you.",
+        "visual_hint": "Hand stopping paste action",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand clicking mouse",
+        "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your last 10 prompts now.",
+        "description": "Open your chat history and count lazy pastes. That's your starting point. Save this to fix your workflow before burnout wins.",
+        "visual_hint": "Checklist with chat history",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chat history screen",
+        "image": "https://images.pexels.com/photos/9898391/pexels-photo-9898391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754336667151%2C100%2C78.491326665699&amp;w=1200",
+    "savedAt": "2026-08-04T22:54:34.575Z",
+    "sourceId": "62a45b0de0e1035b8708b7521cc72cdf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "elon-musk-spends-half-his-time-talking-robots-and-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "pubDate": "Tue, 04 Aug 2026 15:20:06 +0000",
+    "slides": [
+      "Musk's earnings calls: half talk, zero robot delivery dates?",
+      "Robots and AI dominate despite Tesla's core auto business.",
+      "Optimus is pitched as bigger than cars—no working demo yet.",
+      "Investors must weigh hype against actual vehicle revenue.",
+      "Track exact robot milestones; ignore stock-price speculation now."
+    ],
+    "thread_text": [
+      "1. What's real?\n\nTesla's car revenue fell 7% last quarter, yet Musk spent almost the entire call selling a robot that hasn't shipped a single unit.",
+      "2. Size trick\n\nMusk says Optimus will be worth more than all cars combined—but the only demo footage is a robot walking on a string, not a factory worker.",
+      "3. Revenue gap\n\nAlongside the robot talk, Tesla delivered fewer cars than a year ago. That gap pays for the robot's R&D—for now.",
+      "4. Read the lines\n\nOn the call, zero dates were given for Optimus production. Compare that to previous promises of \"next year\"—that shift is the signal.",
+      "5. Your checklist\n\nGo to Tesla's investor page and search for \"Optimus\" in the last three 10-Q filings. If you find no milestones, that's your answer."
+    ],
+    "video_script": [
+      "Car sales dropped, robot promises grew.",
+      "No delivery dates, just big vision.",
+      "Optimus demo is still scripted walking.",
+      "Investors must track milestones, not hype.",
+      "Check filings for dates before you buy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What's real?\n\nTesla's car revenue fell 7% last quarter, yet Musk spent almost the entire call selling a robot that hasn't shipped a single unit.",
+          "2. Size trick\n\nMusk says Optimus will be worth more than all cars combined—but the only demo footage is a robot walking on a string, not a factory worker.",
+          "3. Revenue gap\n\nAlongside the robot talk, Tesla delivered fewer cars than a year ago. That gap pays for the robot's R&D—for now.",
+          "4. Read the lines\n\nOn the call, zero dates were given for Optimus production. Compare that to previous promises of \"next year\"—that shift is the signal.",
+          "5. Your checklist\n\nGo to Tesla's investor page and search for \"Optimus\" in the last three 10-Q filings. If you find no milestones, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Car sales dropped, robot promises grew.",
+          "No delivery dates, just big vision.",
+          "Optimus demo is still scripted walking.",
+          "Investors must track milestones, not hype.",
+          "Check filings for dates before you buy."
+        ]
+      },
+      "instagram": {
+        "caption": "Tesla car revenue dropped 7% last quarter, yet Musk spent half the earnings call talking about a robot that has shipped zero units. 🎭\n\nHe says Optimus will be worth more than all cars combined, but the only footage shown is a robot walking on a string. No production dates were given this time—a shift from past \"next year\" promises. 📉\n\nThe gap between robot hype and vehicle sales is now measurable: fewer cars delivered, no Optimus milestones on paper. 📊\n\nIf you cover Tesla or make content about it, search \"Optimus\" in the last three quarterly reports. No milestones found? That's your story. What will you write when the next call comes without a date? ⏳"
+      }
+    },
+    "instagram_caption": "Tesla car revenue dropped 7% last quarter, yet Musk spent half the earnings call talking about a robot that has shipped zero units. 🎭\n\nHe says Optimus will be worth more than all cars combined, but the only footage shown is a robot walking on a string. No production dates were given this time—a shift from past \"next year\" promises. 📉\n\nThe gap between robot hype and vehicle sales is now measurable: fewer cars delivered, no Optimus milestones on paper. 📊\n\nIf you cover Tesla or make content about it, search \"Optimus\" in the last three quarterly reports. No milestones found? That's your story. What will you write when the next call comes without a date? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "No robot delivery dates?",
+        "description": "Musk spent half the call on robots, yet Optimus has zero shipping units. Tesla's car revenue fell 7% last quarter.",
+        "visual_hint": "Robot silhouette with question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot factory"
+      },
+      {
+        "hook": "Robot worth more than cars?",
+        "description": "Optimus is pitched as bigger than autos, but demo footage shows a robot walking on a string, not working.",
+        "visual_hint": "String attached to robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot walking",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Car sales drop, hype rises",
+        "description": "Tesla delivered fewer cars than last year. That revenue gap funds robot R&D—for now.",
+        "visual_hint": "Declining car chart with robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No dates, just shifts",
+        "description": "Zero Optimus production dates on the call, unlike past 'next year' promises. That silence is the signal.",
+        "visual_hint": "Calendar with blank dates",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "calendar empty",
+        "image": "https://images.pexels.com/photos/7723802/pexels-photo-7723802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this checklist now",
+        "description": "Search 'Optimus' in Tesla's last three 10-Q filings. No milestones? That's your answer.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "document magnifying glass",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
+    "savedAt": "2026-08-04T22:54:22.164Z",
+    "sourceId": "80e106fe7e7308168e2ca6eac7492b06"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "how-an-openai-influencer-trip-backfired-",
     "prompt_version": "1.0.0",
     "status": "published",
