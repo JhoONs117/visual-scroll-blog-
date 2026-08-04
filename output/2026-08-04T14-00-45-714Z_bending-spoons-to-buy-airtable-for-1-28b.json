@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bending-spoons-to-buy-airtable-for-1-28b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bending Spoons to buy Airtable for $1.28B",
+  "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+  "pubDate": "Tue, 04 Aug 2026 11:30:56 +0000",
+  "slides": [
+    "Bending Spoons bets $1.28B on Airtable—will it pay off?",
+    "Airtable's growth stalled after pandemic-era hype faded.",
+    "Bending Spoons is notorious for ruthless post-acquisition layoffs.",
+    "Your data workflows may soon live under unfamiliar ownership.",
+    "Audit your Airtable dependencies now—before the transition."
+  ],
+  "thread_text": [
+    "1. Who really owns your stack?\n\nBending Spoons just paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+    "2. Pandemic hype faded hard\n\nAirtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+    "3. Layoffs are a feature here\n\nBending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+    "4. The data is the bait\n\nYour workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+    "5. Audit your dependencies now\n\nList every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits."
+  ],
+  "video_script": [
+    "Bending Spoons buys Airtable for 1.28 billion.",
+    "Airtable growth stalled after pandemic hype.",
+    "Bending Spoons is known for harsh layoffs.",
+    "Your data workflows now under new ownership.",
+    "Audit Airtable dependencies before transition now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really owns your stack?\n\nBending Spoons just paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+        "2. Pandemic hype faded hard\n\nAirtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+        "3. Layoffs are a feature here\n\nBending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+        "4. The data is the bait\n\nYour workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+        "5. Audit your dependencies now\n\nList every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bending Spoons buys Airtable for 1.28 billion.",
+        "Airtable growth stalled after pandemic hype.",
+        "Bending Spoons is known for harsh layoffs.",
+        "Your data workflows now under new ownership.",
+        "Audit Airtable dependencies before transition now."
+      ]
+    },
+    "instagram": {
+      "caption": "$1.28 billion just bought your Airtable workflows. Bending Spoons now owns the company behind your databases, and they're famous for one thing: cutting costs hard after every acquisition. 🧨\n\nAirtable's growth stalled after the pandemic boom faded. Now the new owners are known for deep layoffs and rolling back features. Your automations, integrations, and scripts could face disruptions soon. 📉\n\nYou built processes on a tool that just changed hands. The data stays, but the ownership doesn't. Export everything and audit every dependency this week, before the transition hits. ⏳\n\nWhat's the one workflow you'd panic about losing if Airtable changed overnight?"
+    }
+  },
+  "instagram_caption": "$1.28 billion just bought your Airtable workflows. Bending Spoons now owns the company behind your databases, and they're famous for one thing: cutting costs hard after every acquisition. 🧨\n\nAirtable's growth stalled after the pandemic boom faded. Now the new owners are known for deep layoffs and rolling back features. Your automations, integrations, and scripts could face disruptions soon. 📉\n\nYou built processes on a tool that just changed hands. The data stays, but the ownership doesn't. Export everything and audit every dependency this week, before the transition hits. ⏳\n\nWhat's the one workflow you'd panic about losing if Airtable changed overnight?",
+  "carousel_slides": [
+    {
+      "hook": "Who really owns your stack?",
+      "description": "Bending Spoons paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+      "visual_hint": "Silhouette holding a phone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "person holding smartphone"
+    },
+    {
+      "hook": "Pandemic hype faded hard",
+      "description": "Airtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+      "visual_hint": "Falling stock chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Layoffs are a feature here",
+      "description": "Bending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+      "visual_hint": "Reduction arrows on icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The data is the bait",
+      "description": "Your workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+      "visual_hint": "Digital lock on data streams",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your dependencies now",
+      "description": "List every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits.",
+      "visual_hint": "Checklist with export icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop with checklist",
+      "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/1775612684808b896334503189e6f0c1fadd8857-2378x1280-1.jpg?w=1200",
+  "savedAt": "2026-08-04T14:01:06.395Z",
+  "sourceId": "62498cfc5814a0a1e7908db71850af4c"
+}

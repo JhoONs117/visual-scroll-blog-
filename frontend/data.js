@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "bending-spoons-to-buy-airtable-for-1-28b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bending Spoons to buy Airtable for $1.28B",
+    "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+    "pubDate": "Tue, 04 Aug 2026 11:30:56 +0000",
+    "slides": [
+      "Bending Spoons bets $1.28B on Airtable—will it pay off?",
+      "Airtable's growth stalled after pandemic-era hype faded.",
+      "Bending Spoons is notorious for ruthless post-acquisition layoffs.",
+      "Your data workflows may soon live under unfamiliar ownership.",
+      "Audit your Airtable dependencies now—before the transition."
+    ],
+    "thread_text": [
+      "1. Who really owns your stack?\n\nBending Spoons just paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+      "2. Pandemic hype faded hard\n\nAirtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+      "3. Layoffs are a feature here\n\nBending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+      "4. The data is the bait\n\nYour workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+      "5. Audit your dependencies now\n\nList every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits."
+    ],
+    "video_script": [
+      "Bending Spoons buys Airtable for 1.28 billion.",
+      "Airtable growth stalled after pandemic hype.",
+      "Bending Spoons is known for harsh layoffs.",
+      "Your data workflows now under new ownership.",
+      "Audit Airtable dependencies before transition now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who really owns your stack?\n\nBending Spoons just paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+          "2. Pandemic hype faded hard\n\nAirtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+          "3. Layoffs are a feature here\n\nBending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+          "4. The data is the bait\n\nYour workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+          "5. Audit your dependencies now\n\nList every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bending Spoons buys Airtable for 1.28 billion.",
+          "Airtable growth stalled after pandemic hype.",
+          "Bending Spoons is known for harsh layoffs.",
+          "Your data workflows now under new ownership.",
+          "Audit Airtable dependencies before transition now."
+        ]
+      },
+      "instagram": {
+        "caption": "$1.28 billion just bought your Airtable workflows. Bending Spoons now owns the company behind your databases, and they're famous for one thing: cutting costs hard after every acquisition. 🧨\n\nAirtable's growth stalled after the pandemic boom faded. Now the new owners are known for deep layoffs and rolling back features. Your automations, integrations, and scripts could face disruptions soon. 📉\n\nYou built processes on a tool that just changed hands. The data stays, but the ownership doesn't. Export everything and audit every dependency this week, before the transition hits. ⏳\n\nWhat's the one workflow you'd panic about losing if Airtable changed overnight?"
+      }
+    },
+    "instagram_caption": "$1.28 billion just bought your Airtable workflows. Bending Spoons now owns the company behind your databases, and they're famous for one thing: cutting costs hard after every acquisition. 🧨\n\nAirtable's growth stalled after the pandemic boom faded. Now the new owners are known for deep layoffs and rolling back features. Your automations, integrations, and scripts could face disruptions soon. 📉\n\nYou built processes on a tool that just changed hands. The data stays, but the ownership doesn't. Export everything and audit every dependency this week, before the transition hits. ⏳\n\nWhat's the one workflow you'd panic about losing if Airtable changed overnight?",
+    "carousel_slides": [
+      {
+        "hook": "Who really owns your stack?",
+        "description": "Bending Spoons paid $1.28B for Airtable. Your workflows are about to change—here's what you need to know.",
+        "visual_hint": "Silhouette holding a phone",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "person holding smartphone"
+      },
+      {
+        "hook": "Pandemic hype faded hard",
+        "description": "Airtable's growth stalled post-2021. Now the vultures circle. Owners who bought in on hype face a reckoning.",
+        "visual_hint": "Falling stock chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Layoffs are a feature here",
+        "description": "Bending Spoons doesn't do gentle transitions. They've cut deep after every deal. Prepare for service disruptions and feature rollbacks.",
+        "visual_hint": "Reduction arrows on icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The data is the bait",
+        "description": "Your workflows—the ones you built on Airtable—now sit under unfamiliar ownership. Vendors switch, but your data stays. That's the trap.",
+        "visual_hint": "Digital lock on data streams",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your dependencies now",
+        "description": "List every automation, integration, and script tied to Airtable. Test exports this week. Don't get locked in when the transition hits.",
+        "visual_hint": "Checklist with export icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop with checklist",
+        "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/1775612684808b896334503189e6f0c1fadd8857-2378x1280-1.jpg?w=1200",
+    "savedAt": "2026-08-04T14:01:06.395Z",
+    "sourceId": "62498cfc5814a0a1e7908db71850af4c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "india-moves-to-give-its-instant-payments-network-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "India moves to give its instant payments network a business model",
+    "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+    "pubDate": "Tue, 04 Aug 2026 13:31:17 +0000",
+    "slides": [
+      "India's UPI is free. Can it survive?",
+      "NPCI plans to charge transaction fees.",
+      "But banks resist, fearing user exodus.",
+      "Your digital payments may soon cost you.",
+      "Watch how the fee debate unfolds."
+    ],
+    "thread_text": [
+      "1. Free UPI ends?\n\nNPCI is now planning to charge fees on UPI transactions, a move that could reshape India's digital payments landscape.",
+      "2. Banks push back\n\nIndian banks are resisting the fee proposal, fearing a massive user exodus to other payment methods if costs are introduced.",
+      "3. Users bear cost\n\nIf the fees go through, your everyday digital payments might soon cost you extra, changing how millions transact daily.",
+      "4. Fee debate heats up\n\nThe standoff between NPCI and banks creates uncertainty, with the future of India's free payment system hanging in the balance.",
+      "5. Your move?\n\nWill you stick with UPI if fees are added, or switch to cash? Share your take and watch how this fee debate unfolds."
+    ],
+    "video_script": [
+      "UPI might not stay free.",
+      "NPCI plans to charge fees.",
+      "Banks resist, fearing user loss.",
+      "Your digital payments could cost.",
+      "Watch the fee debate unfold."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Free UPI ends?\n\nNPCI is now planning to charge fees on UPI transactions, a move that could reshape India's digital payments landscape.",
+          "2. Banks push back\n\nIndian banks are resisting the fee proposal, fearing a massive user exodus to other payment methods if costs are introduced.",
+          "3. Users bear cost\n\nIf the fees go through, your everyday digital payments might soon cost you extra, changing how millions transact daily.",
+          "4. Fee debate heats up\n\nThe standoff between NPCI and banks creates uncertainty, with the future of India's free payment system hanging in the balance.",
+          "5. Your move?\n\nWill you stick with UPI if fees are added, or switch to cash? Share your take and watch how this fee debate unfolds."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "UPI might not stay free.",
+          "NPCI plans to charge fees.",
+          "Banks resist, fearing user loss.",
+          "Your digital payments could cost.",
+          "Watch the fee debate unfold."
+        ]
+      },
+      "instagram": {
+        "caption": "India’s UPI is about to stop being free—NPCI is planning transaction fees on the payments network that over 300 million users rely on daily. 🇮🇳\n\nBut Indian banks are pushing back hard, refusing to implement the charges because they’re terrified users will abandon UPI and revert to cash or other methods. The standoff is now a public battle over who pays for the country’s digital payment backbone. 💸\n\nFor creators and small businesses who invoice via UPI, this could mean a direct hit to your margin on every single sale you collect—costs that were zero are now a line item.\n\nIf fees land, do you eat the cost to keep customers, or add a surcharge and risk losing them? 🧾"
+      }
+    },
+    "instagram_caption": "India’s UPI is about to stop being free—NPCI is planning transaction fees on the payments network that over 300 million users rely on daily. 🇮🇳\n\nBut Indian banks are pushing back hard, refusing to implement the charges because they’re terrified users will abandon UPI and revert to cash or other methods. The standoff is now a public battle over who pays for the country’s digital payment backbone. 💸\n\nFor creators and small businesses who invoice via UPI, this could mean a direct hit to your margin on every single sale you collect—costs that were zero are now a line item.\n\nIf fees land, do you eat the cost to keep customers, or add a surcharge and risk losing them? 🧾",
+    "carousel_slides": [
+      {
+        "hook": "Will your free payments end?",
+        "description": "NPCI plans to charge fees on UPI transactions, but banks fear a user exodus, leaving the future of India's free payment system uncertain.",
+        "visual_hint": "Rupee coin with question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Indian rupee coins"
+      },
+      {
+        "hook": "Banks push back hard",
+        "description": "Indian banks are resisting the fee proposal, fearing that millions of users will switch to cash or other methods if costs are introduced.",
+        "visual_hint": "Bank building with protests",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bank building india",
+        "image": "https://images.pexels.com/photos/37414851/pexels-photo-37414851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Everyday costs may rise",
+        "description": "If fees go through, your daily digital payments could cost extra, changing how millions transact every day across India.",
+        "visual_hint": "Phone with payment alert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone payment screen",
+        "image": "https://images.pexels.com/photos/6214367/pexels-photo-6214367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Standoff creates uncertainty",
+        "description": "The standoff between NPCI and banks leaves India's free payment system hanging by a thread, with no clear resolution in sight.",
+        "visual_hint": "Two scales in balance",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale justice",
+        "image": "https://images.pexels.com/photos/34410145/pexels-photo-34410145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your move: stay or switch?",
+        "description": "Comment below: would you stick with UPI if fees are added, or switch to cash? Follow for updates on this fee debate.",
+        "visual_hint": "Hand holding phone with poll",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1213174164.jpg?resize=1200,800",
+    "savedAt": "2026-08-04T14:00:56.285Z",
+    "sourceId": "c1dc0a0e1076e7b456201851c640c8a9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "congress-favorite-ai-tool-chatgpt",
     "prompt_version": "1.0.0",
     "status": "published",
