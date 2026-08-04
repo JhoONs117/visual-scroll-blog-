@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "congress-favorite-ai-tool-chatgpt",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "pubDate": "Mon, 03 Aug 2026 16:40:55 +0000",
+    "slides": [
+      "Why is Congress quietly hooked on ChatGPT?",
+      "Their internal usage logs reveal a surprising favorite.",
+      "Lawmakers use it most for drafting constituent responses.",
+      "That means your reply may be AI-written, not human.",
+      "Ask your representative if they disclose AI authorship."
+    ],
+    "thread_text": [
+      "1. Congress's ChatGPT Secret\n\nInternal logs show lawmakers rely on AI to draft replies to constituents, making your response potentially machine-written.",
+      "2. The AI Pen Behind the Answer\n\nWhile constituent service tops usage, the twist: these AI drafts often go out without any label or disclosure.",
+      "3. No Disclosure, No Consent\n\nIf an AI wrote it, the reply lacks transparency. You might be reading a bot's words and thinking a human cares.",
+      "4. The Real Consequence\n\nWhen replies are templated by AI, the personal touch vanishes. Your specific concern gets filtered through a generic algorithm.",
+      "5. Ask for Disclosure Today\n\nBefore you accept that reply, ask your representative: 'Did AI write this?' If they won't say, you know the answer."
+    ],
+    "video_script": [
+      "Did you know Congress uses ChatGPT?",
+      "Your reply might be written by AI.",
+      "They use it for constituent responses.",
+      "No disclosure, so you can't tell.",
+      "Ask your rep if AI wrote it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Congress's ChatGPT Secret\n\nInternal logs show lawmakers rely on AI to draft replies to constituents, making your response potentially machine-written.",
+          "2. The AI Pen Behind the Answer\n\nWhile constituent service tops usage, the twist: these AI drafts often go out without any label or disclosure.",
+          "3. No Disclosure, No Consent\n\nIf an AI wrote it, the reply lacks transparency. You might be reading a bot's words and thinking a human cares.",
+          "4. The Real Consequence\n\nWhen replies are templated by AI, the personal touch vanishes. Your specific concern gets filtered through a generic algorithm.",
+          "5. Ask for Disclosure Today\n\nBefore you accept that reply, ask your representative: 'Did AI write this?' If they won't say, you know the answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Did you know Congress uses ChatGPT?",
+          "Your reply might be written by AI.",
+          "They use it for constituent responses.",
+          "No disclosure, so you can't tell.",
+          "Ask your rep if AI wrote it."
+        ]
+      },
+      "instagram": {
+        "caption": "The reply you got from your member of Congress might have been written by ChatGPT.  \n\nInternal logs show lawmakers use the AI tool most often to draft responses to constituents. Those replies go out unsigned, with no label saying a machine wrote them.  \n\nYour specific concern gets filtered through a generic algorithm, and the human touch disappears. The office saves time, but you lose the assurance that someone actually read your message.  \n\nNext time you write your representative, add one line: “Did AI write this response?” If they won’t say, that’s your answer 🧾🤖"
+      }
+    },
+    "instagram_caption": "The reply you got from your member of Congress might have been written by ChatGPT.  \n\nInternal logs show lawmakers use the AI tool most often to draft responses to constituents. Those replies go out unsigned, with no label saying a machine wrote them.  \n\nYour specific concern gets filtered through a generic algorithm, and the human touch disappears. The office saves time, but you lose the assurance that someone actually read your message.  \n\nNext time you write your representative, add one line: “Did AI write this response?” If they won’t say, that’s your answer 🧾🤖",
+    "carousel_slides": [
+      {
+        "hook": "Is your reply AI-written?",
+        "description": "Congressional logs show lawmakers rely on ChatGPT to draft constituent responses, often without disclosure. Your reply may be machine-made.",
+        "visual_hint": "Capitol building with AI icon overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US Capitol building"
+      },
+      {
+        "hook": "AI pens your answers.",
+        "description": "The top use: drafting constituent replies. But these AI drafts ship without any label, hiding the lack of human touch.",
+        "visual_hint": "Cursor typing on document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer keyboard typing",
+        "image": "https://images.pexels.com/photos/36045613/pexels-photo-36045613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No disclosure, no consent.",
+        "description": "If an AI wrote the reply, it lacks transparency. You might read a bot's words, thinking a human cares.",
+        "visual_hint": "Paper with question mark",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "document with question mark",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The personal touch vanishes.",
+        "description": "Templated AI replies filter your specific concern through a generic algorithm, erasing the personal connection.",
+        "visual_hint": "Hand holding letter",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding letter",
+        "image": "https://images.pexels.com/photos/5104700/pexels-photo-5104700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask: did AI write this?",
+        "description": "Before accepting any reply, demand disclosure. If they won't say, you know the answer. Save this to hold them accountable.",
+        "visual_hint": "Magnifying glass over text",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass on paper",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "savedAt": "2026-08-04T04:55:39.471Z",
+    "sourceId": "d0bd8659148e449b8d0c29bba55aefac"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "after-killer-quarter-palantir-ceo-alex-karp-calls-",
     "prompt_version": "1.0.0",
     "status": "published",
