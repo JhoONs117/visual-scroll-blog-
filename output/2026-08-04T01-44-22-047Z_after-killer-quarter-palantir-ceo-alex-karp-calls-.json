@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "after-killer-quarter-palantir-ceo-alex-karp-calls-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+  "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+  "pubDate": "Mon, 03 Aug 2026 23:19:50 +0000",
+  "slides": [
+    "Palantir’s record quarter hides a dangerous AI trend.",
+    "Karp attacks AI rivals as ‘Marxist’—for hoarding models.",
+    "He claims open-source AI resembles Marxist collectivism.",
+    "Your vendor choices now carry an ideological risk.",
+    "Tomorrow, question which AI philosophy your tools follow."
+  ],
+  "thread_text": [
+    "1. Your AI vendor is now a political choice\n\nPalantir's record earnings hide a warning: Alex Karp just attacked rivals as 'Marxist' for open-sourcing models.",
+    "2. The 'Marxist' charge, decoded\n\nKarp argues that hoarding models is capitalist, while open-source AI mimics collective ownership. He's forcing a left-right split in tech.",
+    "3. What this means for your stack\n\nIf you pick open-source, you might be branded as leaning collectivist. If you pick proprietary, you're accused of hoarding. Either way, the choice is now ideological.",
+    "4. The real shift behind the rhetoric\n\nThis isn't about politics—it's about control. Karp signals that enterprise AI will tie you to one vendor's philosophy, making switching costs heavier than ever.",
+    "5. Which philosophy are you actually following?\n\nTake your current AI tool and ask: does it let you own your models or does it lock you in? If you haven't checked, do it today."
+  ],
+  "video_script": [
+    "Palantir's record quarter hides a trend.",
+    "Karp calls open-source rivals Marxist collectivists.",
+    "Your tool choice now carries ideological weight.",
+    "Is this about control, not just politics?",
+    "Question your AI vendor's philosophy today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your AI vendor is now a political choice\n\nPalantir's record earnings hide a warning: Alex Karp just attacked rivals as 'Marxist' for open-sourcing models.",
+        "2. The 'Marxist' charge, decoded\n\nKarp argues that hoarding models is capitalist, while open-source AI mimics collective ownership. He's forcing a left-right split in tech.",
+        "3. What this means for your stack\n\nIf you pick open-source, you might be branded as leaning collectivist. If you pick proprietary, you're accused of hoarding. Either way, the choice is now ideological.",
+        "4. The real shift behind the rhetoric\n\nThis isn't about politics—it's about control. Karp signals that enterprise AI will tie you to one vendor's philosophy, making switching costs heavier than ever.",
+        "5. Which philosophy are you actually following?\n\nTake your current AI tool and ask: does it let you own your models or does it lock you in? If you haven't checked, do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Palantir's record quarter hides a trend.",
+        "Karp calls open-source rivals Marxist collectivists.",
+        "Your tool choice now carries ideological weight.",
+        "Is this about control, not just politics?",
+        "Question your AI vendor's philosophy today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next software purchase just became a political statement. Palantir's CEO just called open-source AI rivals 'Marxist'—after posting record earnings.\n\nHe's framing the industry's biggest fight as ideology, not tech. Open-source AI = collective ownership, in his view. Proprietary = capitalism.\n\nKarp wants enterprises locked into one vendor's philosophy, so switching costs become a trap. 🎯\n\nIf you publish content, your AI tool now carries a worldview—and maybe a hidden loyalty test.\n\nBefore you renew that subscription, ask yourself: which philosophy does your tool follow, and who pays when you want to leave? 🔍"
+    }
+  },
+  "instagram_caption": "Your next software purchase just became a political statement. Palantir's CEO just called open-source AI rivals 'Marxist'—after posting record earnings.\n\nHe's framing the industry's biggest fight as ideology, not tech. Open-source AI = collective ownership, in his view. Proprietary = capitalism.\n\nKarp wants enterprises locked into one vendor's philosophy, so switching costs become a trap. 🎯\n\nIf you publish content, your AI tool now carries a worldview—and maybe a hidden loyalty test.\n\nBefore you renew that subscription, ask yourself: which philosophy does your tool follow, and who pays when you want to leave? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your AI vendor is now political",
+      "description": "Palantir's record earnings hide a warning: Karp calls open-source rivals 'Marxist,' forcing an ideological split in tech.",
+      "visual_hint": "Bold text, ideological split",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "The 'Marxist' charge decoded",
+      "description": "Karp argues hoarding models is capitalist, while open-source mimics collective ownership. Tech polarizes left vs right.",
+      "visual_hint": "Split screen, two sides",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pick a side, pay the price",
+      "description": "Open-source? You're collectivist. Proprietary? Hoarder. Your stack is now an ideological badge with lock-in costs.",
+      "visual_hint": "Magnifying glass on code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Control, not politics, drives this",
+      "description": "Karp's real signal: enterprise AI will tie you to one vendor's philosophy, making switching costs heavier than ever.",
+      "visual_hint": "Hand holding a chain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—check your AI today",
+      "description": "Ask: does your AI tool let you own models or lock you in? If unsure, audit your stack now.",
+      "visual_hint": "Checklist with a pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "wind turbine",
+      "image": "https://images.pexels.com/photos/14468163/pexels-photo-14468163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
+  "savedAt": "2026-08-04T01:44:38.387Z",
+  "sourceId": "8e6013752b7746eea82fb44ad0b76cc8"
+}
