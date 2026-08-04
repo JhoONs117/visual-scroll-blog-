@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-expands-ai-remix-and-covers-project-with-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify expands AI remix and covers project with Merlin partnership",
+  "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+  "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
+  "slides": [
+    "Spotify's AI remix deal with Merlin: what changes?",
+    "Independent labels now opt into AI covers and remixes.",
+    "Merlin artists' catalogs feed unpredictable new remix algorithms.",
+    "Your indie playlist may soon feature AI-generated covers.",
+    "Decide now: embrace AI remixes or curate strictly human versions."
+  ],
+  "thread_text": [
+    "1. Your playlist is changing\n\nSpotify's Merlin deal means indie labels can now opt into AI remixes of their catalogs. The algorithm is unpredictable.",
+    "2. Who decides the sound?\n\nIndependent labels have a choice: feed their music into AI covers or keep it strictly human. Some will say yes.",
+    "3. The twist in the remix\n\nAI-generated versions aren't just loops—they're new tracks built from Merlin artists' work. Expect covers you've never heard.",
+    "4. See the consequence\n\nYour favorite indie playlist may soon mix original tracks with AI covers, and you won't always spot the difference.",
+    "5. What's your move?\n\nTest it: pick a song you love, generate an AI cover on a free tool, and decide if it belongs in your rotation."
+  ],
+  "video_script": [
+    "Spotify's indie deal now includes AI remixes.",
+    "Labels can opt in or stay human.",
+    "The algorithm creates unpredictable new versions.",
+    "Your playlist might surprise you soon.",
+    "Try generating a cover and judge."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your playlist is changing\n\nSpotify's Merlin deal means indie labels can now opt into AI remixes of their catalogs. The algorithm is unpredictable.",
+        "2. Who decides the sound?\n\nIndependent labels have a choice: feed their music into AI covers or keep it strictly human. Some will say yes.",
+        "3. The twist in the remix\n\nAI-generated versions aren't just loops—they're new tracks built from Merlin artists' work. Expect covers you've never heard.",
+        "4. See the consequence\n\nYour favorite indie playlist may soon mix original tracks with AI covers, and you won't always spot the difference.",
+        "5. What's your move?\n\nTest it: pick a song you love, generate an AI cover on a free tool, and decide if it belongs in your rotation."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify's indie deal now includes AI remixes.",
+        "Labels can opt in or stay human.",
+        "The algorithm creates unpredictable new versions.",
+        "Your playlist might surprise you soon.",
+        "Try generating a cover and judge."
+      ]
+    },
+    "instagram": {
+      "caption": "Your indie playlist is about to get weird. Spotify just signed a deal with Merlin, the agency representing thousands of independent labels, letting them opt into AI remixes and covers of their catalogs. 🎧\n\nThe algorithm isn't just looping beats—it's building entirely new tracks from artists' original work. Labels choose whether to participate. Some will say yes. That means your favorite underground band could suddenly have an AI version you've never heard. 🔀\n\nFor you as a listener, the line between \"original\" and \"AI cover\" blurs—Spotify won't always flag which is which. If you create or publish music, your catalog is now a potential input for this system.\n\nPick one song you love tonight. Generate an AI cover of it on any free tool. Would you knowingly add that version to your rotation? 🤔"
+    }
+  },
+  "instagram_caption": "Your indie playlist is about to get weird. Spotify just signed a deal with Merlin, the agency representing thousands of independent labels, letting them opt into AI remixes and covers of their catalogs. 🎧\n\nThe algorithm isn't just looping beats—it's building entirely new tracks from artists' original work. Labels choose whether to participate. Some will say yes. That means your favorite underground band could suddenly have an AI version you've never heard. 🔀\n\nFor you as a listener, the line between \"original\" and \"AI cover\" blurs—Spotify won't always flag which is which. If you create or publish music, your catalog is now a potential input for this system.\n\nPick one song you love tonight. Generate an AI cover of it on any free tool. Would you knowingly add that version to your rotation? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your playlist will never sound the same",
+      "description": "Spotify's Merlin deal lets indie labels opt into AI remixes. Covers you've never heard are coming from your favorites.",
+      "visual_hint": "Playlist icon dissolving into waves",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "music streaming app"
+    },
+    {
+      "hook": "Who decides your sound?",
+      "description": "Independent labels now choose: AI covers or human-only tracks. Some will say yes, changing your feed.",
+      "visual_hint": "Split screen: human vs AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "recording studio",
+      "image": "https://images.pexels.com/photos/5657675/pexels-photo-5657675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI remixes are unpredictable",
+      "description": "New tracks built from Merlin artists' work — not loops. Expect covers you've never imagined.",
+      "visual_hint": "Waveform morphing into question mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you spot the difference?",
+      "description": "Your indie playlist may mix originals with AI covers. You won't always tell them apart.",
+      "visual_hint": "Human hand holding smartphone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it changes your feed",
+      "description": "Try it now: pick a song you love, generate an AI cover, and decide if it belongs in your rotation.",
+      "visual_hint": "Button: 'Save for later'",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "AI music generator",
+      "image": "https://images.pexels.com/photos/38755598/pexels-photo-38755598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-04T17:30:01.485Z",
+  "sourceId": "d239bf7b26606f6114ca6fddaa0566a7"
+}

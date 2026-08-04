@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "can-reddit-fend-off-a-new-wave-of-ai-seo-spam-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "pubDate": "2026-08-04T10:00:00.000Z",
+      "slides": [
+        "Reddit's real user shield is cracking",
+        "AI-generated answers now mimic authentic upvotes",
+        "Fake posts pass human moderation in tests",
+        "Your search results are becoming curated spam",
+        "Verify sources before trusting any Reddit answer"
+      ],
+      "thread_text": [
+        "1. Your upvotes are fake\n\nAI bots are now mimicking human voting patterns, making it impossible to tell real engagement from fabricated support.",
+        "2. Moderation is failing\n\nIn blind tests, AI-generated posts slipped past human moderators, proving the first line of defense is already compromised.",
+        "3. Search is being gamed\n\nYour search results are increasingly filled with AI-curated spam, nudging you toward content designed to manipulate, not inform.",
+        "4. Reddit's shield cracks\n\nAs real users abandon ship, bots fill the gap, creating a feedback loop where authenticity becomes the exception, not the rule.",
+        "5. Verify before you trust\n\nBefore acting on any Reddit answer, cross-check the source and the poster's history. Does that take 30 seconds? Worth it."
+      ],
+      "video_script": [
+        "Your upvotes are no longer human.",
+        "AI mimics voting patterns perfectly.",
+        "Moderators can't catch fake posts.",
+        "Search results are becoming spam.",
+        "Always verify sources before trusting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your upvotes are fake\n\nAI bots are now mimicking human voting patterns, making it impossible to tell real engagement from fabricated support.",
+            "2. Moderation is failing\n\nIn blind tests, AI-generated posts slipped past human moderators, proving the first line of defense is already compromised.",
+            "3. Search is being gamed\n\nYour search results are increasingly filled with AI-curated spam, nudging you toward content designed to manipulate, not inform.",
+            "4. Reddit's shield cracks\n\nAs real users abandon ship, bots fill the gap, creating a feedback loop where authenticity becomes the exception, not the rule.",
+            "5. Verify before you trust\n\nBefore acting on any Reddit answer, cross-check the source and the poster's history. Does that take 30 seconds? Worth it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your upvotes are no longer human.",
+            "AI mimics voting patterns perfectly.",
+            "Moderators can't catch fake posts.",
+            "Search results are becoming spam.",
+            "Always verify sources before trusting."
+          ]
+        },
+        "instagram": {
+          "caption": "Your upvotes are now a mix of humans and bots, and the bots are learning your voting habits.  \n\nIn blind tests, AI-generated posts slipped past Reddit’s human moderators without detection. The same bots are gaming search results, pushing curated spam that mimics real engagement. Authenticity is dissolving as real users leave and software fills the gap.  \n\nFor anyone posting or publishing, your audience is no longer purely human—and your competitors are running the same playbook. Content that doesn’t verify its own credibility now looks indistinguishable from fake engagement.  \n\nBefore you act on that Reddit answer, check the poster’s history and cross-check the source. Does 30 seconds of verification beat a bad decision? 🕵️‍♂️🔍💬"
+        }
+      },
+      "instagram_caption": "Your upvotes are now a mix of humans and bots, and the bots are learning your voting habits.  \n\nIn blind tests, AI-generated posts slipped past Reddit’s human moderators without detection. The same bots are gaming search results, pushing curated spam that mimics real engagement. Authenticity is dissolving as real users leave and software fills the gap.  \n\nFor anyone posting or publishing, your audience is no longer purely human—and your competitors are running the same playbook. Content that doesn’t verify its own credibility now looks indistinguishable from fake engagement.  \n\nBefore you act on that Reddit answer, check the poster’s history and cross-check the source. Does 30 seconds of verification beat a bad decision? 🕵️‍♂️🔍💬",
+      "carousel_slides": [
+        {
+          "hook": "Can you trust any upvote?",
+          "description": "AI bots mimic human voting patterns, making fake engagement indistinguishable from real support. Your reality is being manufactured.",
+          "visual_hint": "Cracked smartphone screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cracked smartphone screen"
+        },
+        {
+          "hook": "Moderators are already failing",
+          "description": "In blind tests, AI-generated posts slipped past human moderators. The first line of defense is compromised, and spam floods in.",
+          "visual_hint": "Robot hand holding gavel",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot hand gavel",
+          "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Search results are manipulated",
+          "description": "AI-curated spam now fills your search results, nudging you toward content designed to manipulate, not inform. Click with caution.",
+          "visual_hint": "Magnifying glass over web page",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass web page",
+          "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Authenticity is becoming rare",
+          "description": "As real users leave, bots fill the gap, creating a loop where authenticity is the exception. The shield is cracking.",
+          "visual_hint": "Human hand holding cracked shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding cracked shield",
+          "image": "https://images.pexels.com/photos/3623566/pexels-photo-3623566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you trust",
+          "description": "Before acting on any Reddit answer, check the source and poster's history. It takes 30 seconds—worth it. Save this as a reminder.",
+          "visual_hint": "Checkmark over Reddit logo",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkmark reddit logo",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-04T17:30:16.433Z",
+      "sourceId": "082edf922d78d860929222917b0c99ef"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spotify-expands-ai-remix-and-covers-project-with-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "pubDate": "Tue, 04 Aug 2026 15:50:06 +0000",
+      "slides": [
+        "Spotify's AI remix deal with Merlin: what changes?",
+        "Independent labels now opt into AI covers and remixes.",
+        "Merlin artists' catalogs feed unpredictable new remix algorithms.",
+        "Your indie playlist may soon feature AI-generated covers.",
+        "Decide now: embrace AI remixes or curate strictly human versions."
+      ],
+      "thread_text": [
+        "1. Your playlist is changing\n\nSpotify's Merlin deal means indie labels can now opt into AI remixes of their catalogs. The algorithm is unpredictable.",
+        "2. Who decides the sound?\n\nIndependent labels have a choice: feed their music into AI covers or keep it strictly human. Some will say yes.",
+        "3. The twist in the remix\n\nAI-generated versions aren't just loops—they're new tracks built from Merlin artists' work. Expect covers you've never heard.",
+        "4. See the consequence\n\nYour favorite indie playlist may soon mix original tracks with AI covers, and you won't always spot the difference.",
+        "5. What's your move?\n\nTest it: pick a song you love, generate an AI cover on a free tool, and decide if it belongs in your rotation."
+      ],
+      "video_script": [
+        "Spotify's indie deal now includes AI remixes.",
+        "Labels can opt in or stay human.",
+        "The algorithm creates unpredictable new versions.",
+        "Your playlist might surprise you soon.",
+        "Try generating a cover and judge."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your playlist is changing\n\nSpotify's Merlin deal means indie labels can now opt into AI remixes of their catalogs. The algorithm is unpredictable.",
+            "2. Who decides the sound?\n\nIndependent labels have a choice: feed their music into AI covers or keep it strictly human. Some will say yes.",
+            "3. The twist in the remix\n\nAI-generated versions aren't just loops—they're new tracks built from Merlin artists' work. Expect covers you've never heard.",
+            "4. See the consequence\n\nYour favorite indie playlist may soon mix original tracks with AI covers, and you won't always spot the difference.",
+            "5. What's your move?\n\nTest it: pick a song you love, generate an AI cover on a free tool, and decide if it belongs in your rotation."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Spotify's indie deal now includes AI remixes.",
+            "Labels can opt in or stay human.",
+            "The algorithm creates unpredictable new versions.",
+            "Your playlist might surprise you soon.",
+            "Try generating a cover and judge."
+          ]
+        },
+        "instagram": {
+          "caption": "Your indie playlist is about to get weird. Spotify just signed a deal with Merlin, the agency representing thousands of independent labels, letting them opt into AI remixes and covers of their catalogs. 🎧\n\nThe algorithm isn't just looping beats—it's building entirely new tracks from artists' original work. Labels choose whether to participate. Some will say yes. That means your favorite underground band could suddenly have an AI version you've never heard. 🔀\n\nFor you as a listener, the line between \"original\" and \"AI cover\" blurs—Spotify won't always flag which is which. If you create or publish music, your catalog is now a potential input for this system.\n\nPick one song you love tonight. Generate an AI cover of it on any free tool. Would you knowingly add that version to your rotation? 🤔"
+        }
+      },
+      "instagram_caption": "Your indie playlist is about to get weird. Spotify just signed a deal with Merlin, the agency representing thousands of independent labels, letting them opt into AI remixes and covers of their catalogs. 🎧\n\nThe algorithm isn't just looping beats—it's building entirely new tracks from artists' original work. Labels choose whether to participate. Some will say yes. That means your favorite underground band could suddenly have an AI version you've never heard. 🔀\n\nFor you as a listener, the line between \"original\" and \"AI cover\" blurs—Spotify won't always flag which is which. If you create or publish music, your catalog is now a potential input for this system.\n\nPick one song you love tonight. Generate an AI cover of it on any free tool. Would you knowingly add that version to your rotation? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your playlist will never sound the same",
+          "description": "Spotify's Merlin deal lets indie labels opt into AI remixes. Covers you've never heard are coming from your favorites.",
+          "visual_hint": "Playlist icon dissolving into waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "music streaming app"
+        },
+        {
+          "hook": "Who decides your sound?",
+          "description": "Independent labels now choose: AI covers or human-only tracks. Some will say yes, changing your feed.",
+          "visual_hint": "Split screen: human vs AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "recording studio",
+          "image": "https://images.pexels.com/photos/5657675/pexels-photo-5657675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI remixes are unpredictable",
+          "description": "New tracks built from Merlin artists' work — not loops. Expect covers you've never imagined.",
+          "visual_hint": "Waveform morphing into question mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you spot the difference?",
+          "description": "Your indie playlist may mix originals with AI covers. You won't always tell them apart.",
+          "visual_hint": "Human hand holding smartphone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before it changes your feed",
+          "description": "Try it now: pick a song you love, generate an AI cover, and decide if it belongs in your rotation.",
+          "visual_hint": "Button: 'Save for later'",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "AI music generator",
+          "image": "https://images.pexels.com/photos/38755598/pexels-photo-38755598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-04T17:30:01.485Z",
+      "sourceId": "d239bf7b26606f6114ca6fddaa0566a7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "bending-spoons-to-buy-airtable-for-1-28b",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -108407,6 +108615,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-di-zucchine-grigliate-con-pomodori-rucola",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata di zucchine grigliate con pomodori, rucola e primosale",
+      "link": "https://ricette.giallozafferano.it/Insalata-di-zucchine-grigliate-con-pomodori-rucola-e-primosale.html",
+      "pubDate": "Tue, 04 Aug 2026 14:49:00 +0200",
+      "content": "Insalata di zucchine grigliate con primosale e pomodori Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata di zucchine grigliate con pomodori, rucola e primosale /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA de es fr br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 10 min Cottura: 20 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE L' insalata di zucchine grigliate con pomodori, rucola e primosale è la ricetta perfetta per chi cerca una pietanza fresca, colorata e pronta nel giro di mezz’ora. Un piatto unico vegetariano sfizioso ed equilibrato, che può diventare anche un contorno saporito per una grigliata, per esempio. Le zucchine grigliate incontrano la freschezza dei pomodori e la nota pungente della rucola, mentre i cubetti di primosale aggiungono un tocco morbido e delicato. Un mix gustoso e genuino, profumato al basilico e condito con un semplice dressing a base di olio, senape e aceto balsamico che esalta il carattere mediterraneo di questa ricca insalata. Leggera, nutriente e stuzzicante, l’insalata di zucchine grigliate con pomodori, rucola e primosale è un’idea originale per stuzzicare l’appetito durante la stagione più calda! Scoprite altre ricette di insalate con le zucchine : Insalata di pollo e zucchine Insalata con scamorza e verdure grigliate Insalata di patate e zucchine Scopri anche Insalata di farro con pesto di erbe e primosale Insalata di farro con primosale, more e alici Insalata di mele e spinacini Sfoglia tutte INGREDIENTI Zucchine medie 3 Pomodori cuore di bue 2 Primosale 200 g Rucola 100 g Basilico q.b. Olio extravergine d'oliva q.b. Per il dressing Olio extravergine d'oliva 2 cucchiai Aceto balsamico 1 cucchiaio Senape al miele 1 cucchiaino Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di zucchine grigliate con pomodori, rucola e primosale Per preparare l’insalata di zucchine grigliate con pomodori, rucola e primosale, iniziate dalle zucchine: spuntatele e tagliatele per il lungo a fette dello spessore di 3-4 mm 1 . Ungete leggermente una griglia (o una padella antiaderente) e scaldatela a fuoco medio-alto. Adagiate le fette di zucchine 2 e grigliatele per 2-3 minuti per lato 3 , finché saranno morbide ma ancora consistenti. Trasferite le zucchine grigliate in un piatto e lasciatele intiepidire 4 . Nel frattempo tagliate i pomodori cuore di bue a spicchi 5 , poi lavate e asciugate la rucola. Per il dressing: mescolate in una ciotola l’olio e l’aceto balsamico 6 . Aggiungete il sale 7 , il pepe e la senape 8 . Emulsionate bene con una forchetta 9 . Siete pronti per impiattare: distribuite la rucola alla base del piatto 10 , poi adagiate le zucchine grigliate 11 e i pomodori a spicchi 12 . Spezzettate grossolanamente il primosale con le mani 13 e guarnite con le foglie di basilico 14 . In ultimo, irrorate con il condimento 15 . La vostra insalata di zucchine grigliate con pomodori, rucola e primosale è pronta per essere servita! Conservazione Si consiglia di consumare subito l’insalata di zucchine grigliate con pomodori, rucola e primosale. Potete preparare in anticipo le zucchine grigliate e conservarle in frigorifero per 1-2 giorni, in un contenitore ermetico. Consiglio Condite l’insalata solo prima di servire, per evitare che la rucola appassisca. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Basilico Pomodoro Olio di oliva Senape Scopri tutto sugli ingredienti Presente in: Contorni , Contorni sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Insalata di farro con pesto di erbe e primosale 1 4.1 Insalata di farro con primosale, more e alici 5.0 Insalata di mele e spinacini 2 4.5 Fusilli bucati melanzane e zucchine con primosale 17 3.9 Insalata di orzo con pesto di rucola, fagiolini e zucchine 2 4.3 Insalata con avocado 27 4.3 Benessere Insalata di ceci estiva 29 4.4 Benessere Insalata di cachi, rucola e finocchi 1 4.3 ULTIME RICETTE Insalata di zucchine grigliate con pomodori, rucola e primosale 5.0 Torta salata pomodorini e stracchino 4.2 Gelato su stecco allo yogurt greco 5.0 SCOPRI Zucchine grigliate Involtini di zucchine grigliate Insalata di pomodori Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Piatti Unici Insalata di farro con pesto di erbe e primosale 1 4.1 L' Insalata di farro con pesto di erbe e primo sale è un piatto unico fresco e genuino, perfetto per l'estate. Scopri come preparare questa ricetta. Vai alla ricetta Primi piatti Insalata di farro con primosale, more e alici 5.0 Insalata di farro con primosale, more e alici: un piatto fresco e creativo che unisce gusto, colore e benessere in una ricetta semplice e sorprendente Vai alla ricetta Insalate Insalata di mele e spinacini 2 4.5 L'insalata di mele e spinacini è una ricetta invernale: un piatto che unisce la dolcezza della frutta agli spinacini, primosale e miele. Vai alla ricetta Primi piatti Fusilli bucati melanzane e zucchine con primosale 17 3.9 La pasta melanzane e zucchine con primosale è un piatto che racchiude tutta la bontà della verdura estiva, insaporita dal gusto intenso del primosale. Vai alla ricetta Primi piatti Insalata di orzo con pesto di rucola, fagiolini e zucchine 2 4.3 L'insalata di orzo con pesto di rucola, fagiolini e zucchine è un piatto freddo per l'estate, ideale per un picnic o per l'ufficio! Scopri la ricetta. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata fresca, colorata con zucchine, pomodori e primosale",
+        "Zucchine, pomodori, primosale, rucola, olio, aceto",
+        "Taglia zucchine a fette e griglia 2-3 minuti",
+        "Emulsiona olio, aceto, senape e condisci",
+        "Condisci solo prima di servire con basilico"
+      ],
+      "instagram_caption": "L’estate si mangia così: crudo, fresco e senza rinunciare al gusto. 🥒🍅  \nQueste zucchine grigliate al punto giusto, i pomodorini dolci e quel primosale che si scioglie in bocca… il condimento è una vinaigrette leggera al profumo di senape e basilico fresco, aggiunta solo all’ultimo per esaltare tutto. 🍃  \nUn’insalata che sa di pausa all’ombra, di pranzo vero, di voglia di leggerezza. Provala questo weekend, non te ne pentirai! ✨",
+      "formats": {
+        "instagram": {
+          "caption": "L’estate si mangia così: crudo, fresco e senza rinunciare al gusto. 🥒🍅  \nQueste zucchine grigliate al punto giusto, i pomodorini dolci e quel primosale che si scioglie in bocca… il condimento è una vinaigrette leggera al profumo di senape e basilico fresco, aggiunta solo all’ultimo per esaltare tutto. 🍃  \nUn’insalata che sa di pausa all’ombra, di pranzo vero, di voglia di leggerezza. Provala questo weekend, non te ne pentirai! ✨"
+        },
+        "tiktok": {
+          "script": [
+            "Insalata fresca e colorata, dai!",
+            "Zucchine, pomodori, primosale e rucola.",
+            "Taglio le zucchine a fette, griglio 3 minuti.",
+            "Emulsiono olio, aceto e un po' di senape.",
+            "Condisco all'ultimo con basilico, pronta!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Ci sono insalate che sembrano un contorno e poi ti salvano la cena. Questa è una di quelle: zucchine grigliate, pomodori maturi e primosale che si scioglie in bocca. Ti spiego come farla in 10 minuti, senza accendere il forno.",
+            "Ti servono: 2 zucchine, 200g pomodorini, 150g primosale, rucola fresca, olio EVO, aceto di vino bianco, senape e basilico. Niente di complicato, ma il risultato è da ristorante.",
+            "Il segreto è la griglia: taglia le zucchine a fette spesse 1 cm (nel senso della lunghezza), grigliale 2-3 minuti per lato su piastra bollente. Devono restare tenere dentro, con le righe croccanti fuori. Lasciale intiepidire.",
+            "Per il condimento, emulsiona in una ciotolina 4 cucchiai di olio, 2 di aceto, un cucchiaino di senape e un pizzico di sale fino a ottenere una salsa vellutata. Metti da parte: il resto lo facciamo al momento di servire.",
+            "Ecco il trucco: condisci solo all'ultimo, proprio prima di portare in tavola, altrimenti la rucola si ammoscia e il primosale perde freschezza. Unisci il basilico con le mani, mescola delicatamente e servi. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Insalata fresca e colorata, dai!",
+        "Zucchine, pomodori, primosale e rucola.",
+        "Taglio le zucchine a fette, griglio 3 minuti.",
+        "Emulsiono olio, aceto e un po' di senape.",
+        "Condisco all'ultimo con basilico, pronta!"
+      ],
+      "thread_text": [
+        "Ci sono insalate che sembrano un contorno e poi ti salvano la cena. Questa è una di quelle: zucchine grigliate, pomodori maturi e primosale che si scioglie in bocca. Ti spiego come farla in 10 minuti, senza accendere il forno.",
+        "Ti servono: 2 zucchine, 200g pomodorini, 150g primosale, rucola fresca, olio EVO, aceto di vino bianco, senape e basilico. Niente di complicato, ma il risultato è da ristorante.",
+        "Il segreto è la griglia: taglia le zucchine a fette spesse 1 cm (nel senso della lunghezza), grigliale 2-3 minuti per lato su piastra bollente. Devono restare tenere dentro, con le righe croccanti fuori. Lasciale intiepidire.",
+        "Per il condimento, emulsiona in una ciotolina 4 cucchiai di olio, 2 di aceto, un cucchiaino di senape e un pizzico di sale fino a ottenere una salsa vellutata. Metti da parte: il resto lo facciamo al momento di servire.",
+        "Ecco il trucco: condisci solo all'ultimo, proprio prima di portare in tavola, altrimenti la rucola si ammoscia e il primosale perde freschezza. Unisci il basilico con le mani, mescola delicatamente e servi. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata estiva fresca e colorata",
+          "description": "Zucchine grigliate, pomodori maturi e primosale: un piatto leggero e saporito in 5 minuti.",
+          "visual_hint": "Ciotola colorata con rucola",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "grilled zucchini salad"
+        },
+        {
+          "hook": "Gli ingredienti chiave",
+          "description": "Zucchine, pomodori, primosale, rucola: freschi e semplici, con olio e aceto per un condimento perfetto.",
+          "visual_hint": "Ingredienti freschi su tavola",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fresh vegetables ingredients",
+          "image": "https://images.pexels.com/photos/6544394/pexels-photo-6544394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il gesto che fa la differenza",
+          "description": "Taglia le zucchine a fette e grigliale 2-3 minuti per un sapore affumicato e una consistenza perfetta.",
+          "visual_hint": "Zucchine sulla griglia",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "grilled zucchini slices",
+          "image": "https://images.pexels.com/photos/5637755/pexels-photo-5637755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il condimento emulsionato",
+          "description": "Emulsiona olio, aceto e senape e condisci: un'emulsione cremosa che esalta ogni ingrediente.",
+          "visual_hint": "Condimento versato sull'insalata",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "drizzling dressing salad",
+          "image": "https://images.pexels.com/photos/9258727/pexels-photo-9258727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Condisci solo prima di servire con basilico fresco: un profumo che completa l'insalata.",
+          "visual_hint": "Foglie di basilico sopra",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "basil garnished salad",
+          "image": "https://images.pexels.com/photos/34337571/pexels-photo-34337571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "zucchine",
+        "pomodori",
+        "primosale"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36516/Insalata-di-zucchine-grigliate-con-pomodori-rucola-e-primosale_650x433_wm.jpg",
+      "savedAt": "2026-08-04T17:34:37.766Z",
+      "sourceId": "20056c79264ff718c98f87bd3e2eadcc"
+    },
     {
       "schema_version": 2,
       "agent": "food",

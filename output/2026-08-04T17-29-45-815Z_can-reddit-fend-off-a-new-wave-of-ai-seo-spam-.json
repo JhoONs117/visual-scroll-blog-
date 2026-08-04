@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "can-reddit-fend-off-a-new-wave-of-ai-seo-spam-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Can Reddit fend off a new wave of AI SEO spam?",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+  "pubDate": "2026-08-04T10:00:00.000Z",
+  "slides": [
+    "Reddit's real user shield is cracking",
+    "AI-generated answers now mimic authentic upvotes",
+    "Fake posts pass human moderation in tests",
+    "Your search results are becoming curated spam",
+    "Verify sources before trusting any Reddit answer"
+  ],
+  "thread_text": [
+    "1. Your upvotes are fake\n\nAI bots are now mimicking human voting patterns, making it impossible to tell real engagement from fabricated support.",
+    "2. Moderation is failing\n\nIn blind tests, AI-generated posts slipped past human moderators, proving the first line of defense is already compromised.",
+    "3. Search is being gamed\n\nYour search results are increasingly filled with AI-curated spam, nudging you toward content designed to manipulate, not inform.",
+    "4. Reddit's shield cracks\n\nAs real users abandon ship, bots fill the gap, creating a feedback loop where authenticity becomes the exception, not the rule.",
+    "5. Verify before you trust\n\nBefore acting on any Reddit answer, cross-check the source and the poster's history. Does that take 30 seconds? Worth it."
+  ],
+  "video_script": [
+    "Your upvotes are no longer human.",
+    "AI mimics voting patterns perfectly.",
+    "Moderators can't catch fake posts.",
+    "Search results are becoming spam.",
+    "Always verify sources before trusting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your upvotes are fake\n\nAI bots are now mimicking human voting patterns, making it impossible to tell real engagement from fabricated support.",
+        "2. Moderation is failing\n\nIn blind tests, AI-generated posts slipped past human moderators, proving the first line of defense is already compromised.",
+        "3. Search is being gamed\n\nYour search results are increasingly filled with AI-curated spam, nudging you toward content designed to manipulate, not inform.",
+        "4. Reddit's shield cracks\n\nAs real users abandon ship, bots fill the gap, creating a feedback loop where authenticity becomes the exception, not the rule.",
+        "5. Verify before you trust\n\nBefore acting on any Reddit answer, cross-check the source and the poster's history. Does that take 30 seconds? Worth it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your upvotes are no longer human.",
+        "AI mimics voting patterns perfectly.",
+        "Moderators can't catch fake posts.",
+        "Search results are becoming spam.",
+        "Always verify sources before trusting."
+      ]
+    },
+    "instagram": {
+      "caption": "Your upvotes are now a mix of humans and bots, and the bots are learning your voting habits.  \n\nIn blind tests, AI-generated posts slipped past Reddit’s human moderators without detection. The same bots are gaming search results, pushing curated spam that mimics real engagement. Authenticity is dissolving as real users leave and software fills the gap.  \n\nFor anyone posting or publishing, your audience is no longer purely human—and your competitors are running the same playbook. Content that doesn’t verify its own credibility now looks indistinguishable from fake engagement.  \n\nBefore you act on that Reddit answer, check the poster’s history and cross-check the source. Does 30 seconds of verification beat a bad decision? 🕵️‍♂️🔍💬"
+    }
+  },
+  "instagram_caption": "Your upvotes are now a mix of humans and bots, and the bots are learning your voting habits.  \n\nIn blind tests, AI-generated posts slipped past Reddit’s human moderators without detection. The same bots are gaming search results, pushing curated spam that mimics real engagement. Authenticity is dissolving as real users leave and software fills the gap.  \n\nFor anyone posting or publishing, your audience is no longer purely human—and your competitors are running the same playbook. Content that doesn’t verify its own credibility now looks indistinguishable from fake engagement.  \n\nBefore you act on that Reddit answer, check the poster’s history and cross-check the source. Does 30 seconds of verification beat a bad decision? 🕵️‍♂️🔍💬",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust any upvote?",
+      "description": "AI bots mimic human voting patterns, making fake engagement indistinguishable from real support. Your reality is being manufactured.",
+      "visual_hint": "Cracked smartphone screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cracked smartphone screen"
+    },
+    {
+      "hook": "Moderators are already failing",
+      "description": "In blind tests, AI-generated posts slipped past human moderators. The first line of defense is compromised, and spam floods in.",
+      "visual_hint": "Robot hand holding gavel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand gavel",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search results are manipulated",
+      "description": "AI-curated spam now fills your search results, nudging you toward content designed to manipulate, not inform. Click with caution.",
+      "visual_hint": "Magnifying glass over web page",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass web page",
+      "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Authenticity is becoming rare",
+      "description": "As real users leave, bots fill the gap, creating a loop where authenticity is the exception. The shield is cracking.",
+      "visual_hint": "Human hand holding cracked shield",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding cracked shield",
+      "image": "https://images.pexels.com/photos/3623566/pexels-photo-3623566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trust",
+      "description": "Before acting on any Reddit answer, check the source and poster's history. It takes 30 seconds—worth it. Save this as a reminder.",
+      "visual_hint": "Checkmark over Reddit logo",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkmark reddit logo",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-04T17:30:16.433Z",
+  "sourceId": "082edf922d78d860929222917b0c99ef"
+}
