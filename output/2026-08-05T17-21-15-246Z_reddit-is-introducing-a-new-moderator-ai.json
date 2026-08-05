@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reddit-is-introducing-a-new-moderator-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reddit is introducing a new moderator: AI",
+  "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+  "pubDate": "2026-08-05T16:00:00.000Z",
+  "slides": [
+    "Reddit's new AI moderator just went live—who watches the watchers?",
+    "It flags rule-breaking posts in seconds, not hours.",
+    "But it also silently moderates comments—mistakes included.",
+    "Your subreddit's tone may change without a single human vote.",
+    "Review its decisions daily, or risk losing your community's voice."
+  ],
+  "thread_text": [
+    "1. Who watches the watchers?\n\nReddit's new AI moderator is live. It flags rule-breaking posts in seconds. But its decisions are silent—and final.",
+    "2. Seconds, not hours\n\nSpeed means scale. Every subreddit gets this tool. Automod was rule-based. This learns. That's the shift.",
+    "3. Silent tones\n\nIt also moderates comments. Mistakes slip through. No human votes on the call. Your subreddit's vibe shifts without you noticing.",
+    "4. The tone drift\n\nAs the AI learns, it may enforce new norms. Old inside jokes could get flagged. Regulars might leave. Change is gradual—then sudden.",
+    "5. Review daily or lose it\n\nSet a reminder to check its log today. If you don't, your community's voice fades. Ask: is one AI's judgment worth your culture?"
+  ],
+  "video_script": [
+    "Reddit's new AI moderator just went live.",
+    "It flags posts in seconds, not hours.",
+    "But it silently moderates comments with mistakes.",
+    "Your subreddit's tone may shift without votes.",
+    "Review its decisions daily or lose your voice."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who watches the watchers?\n\nReddit's new AI moderator is live. It flags rule-breaking posts in seconds. But its decisions are silent—and final.",
+        "2. Seconds, not hours\n\nSpeed means scale. Every subreddit gets this tool. Automod was rule-based. This learns. That's the shift.",
+        "3. Silent tones\n\nIt also moderates comments. Mistakes slip through. No human votes on the call. Your subreddit's vibe shifts without you noticing.",
+        "4. The tone drift\n\nAs the AI learns, it may enforce new norms. Old inside jokes could get flagged. Regulars might leave. Change is gradual—then sudden.",
+        "5. Review daily or lose it\n\nSet a reminder to check its log today. If you don't, your community's voice fades. Ask: is one AI's judgment worth your culture?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reddit's new AI moderator just went live.",
+        "It flags posts in seconds, not hours.",
+        "But it silently moderates comments with mistakes.",
+        "Your subreddit's tone may shift without votes.",
+        "Review its decisions daily or lose your voice."
+      ]
+    },
+    "instagram": {
+      "caption": "Your subreddit's new moderator doesn't sleep, doesn't vote, and just went live. 🤖\n\nReddit's AI flagging rule-breaks in seconds—but it also silently edits comments, and its mistakes are part of the deal. There's no human call on these decisions. The tone of your community can shift without a single upvote or poll.\n\nFor anyone running a subreddit: you now have a co-moderator that learns and changes rules on its own. Check its decision log today—before the inside jokes get flagged and your regulars drift away.\n\nWhat's your sub's culture worth—one judgment call at a time? ⏱️"
+    }
+  },
+  "instagram_caption": "Your subreddit's new moderator doesn't sleep, doesn't vote, and just went live. 🤖\n\nReddit's AI flagging rule-breaks in seconds—but it also silently edits comments, and its mistakes are part of the deal. There's no human call on these decisions. The tone of your community can shift without a single upvote or poll.\n\nFor anyone running a subreddit: you now have a co-moderator that learns and changes rules on its own. Check its decision log today—before the inside jokes get flagged and your regulars drift away.\n\nWhat's your sub's culture worth—one judgment call at a time? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Who watches the watchers?",
+      "description": "Reddit's new AI moderator flags posts in seconds. It decides silently—no human votes. Your subreddit's tone could shift overnight.",
+      "visual_hint": "AI eye over Reddit logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence circuit board"
+    },
+    {
+      "hook": "Speed is now scale.",
+      "description": "Seconds not hours. Automod was rule-based; this learns. Every subreddit gets it—but no one reviews its judgment.",
+      "visual_hint": "Clock with fast-forward arrows",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room blinking lights",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent mistakes, real impact.",
+      "description": "It moderates comments too, and errors slip through. No human votes on the call. Your community's vibe shifts without warning.",
+      "visual_hint": "Comment bubble with red X",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your culture, drifting away.",
+      "description": "As AI learns, it enforces new norms. Inside jokes get flagged. Regulars leave. Change is gradual—then sudden.",
+      "visual_hint": "Graffiti wall fading paint",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street crowd",
+      "image": "https://images.pexels.com/photos/36842919/pexels-photo-36842919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Review its log today, or lose your voice.",
+      "description": "Open your mod log now. Check every AI decision. One action can save your community's culture.",
+      "visual_hint": "Calendar with red reminder dot",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "moderator dashboard screen",
+      "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-05T17:21:57.427Z",
+  "sourceId": "a5c4a7a3ae9c983e2c2b857144eaa186"
+}

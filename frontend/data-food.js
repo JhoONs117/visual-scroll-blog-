@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-di-farro-con-zucchine-grigliate-e-mandorl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata di farro con zucchine grigliate e mandorle",
+    "link": "https://ricette.giallozafferano.it/Insalata-di-farro-con-zucchine-grigliate-e-mandorle.html",
+    "pubDate": "Wed, 05 Aug 2026 17:48:00 +0200",
+    "content": "Insalata di farro al limone con zucchine grigliate e mandorle Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Insalata di farro con zucchine grigliate e mandorle /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA en de es nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 15 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE L' insalata di farro con zucchine grigliate e mandorle è un piatto estivo semplice, leggero e super profumato. Ideale da preparare in anticipo e conservare in frigorifero, per poterlo gustare a pranzo o a cena senza lo stress di dover stare ai fornelli. Le zucchine grigliate si sposano con la nota croccante delle mandorle e con l’aroma fresco del limone, di cui vengono utilizzati sia il succo che la scorza. Solo pochi ingredienti per una ricetta vegetariana nutriente e appetitosa, ideale anche per un picnic o una giornata al mare. Dopo aver provato l’insalata di farro con zucchine grigliate e mandorle, lasciatevi ispirare anche da queste appetitose varianti: Insalata di farro e orzo estiva Insalata di farro alla greca Insalata di farro con zucchine e ricotta Insalata di farro con pesto di erbe e primosale Farro salad with grilled zucchini and almonds INGREDIENTI Farro perlato 250 g Zucchine 300 g Mandorle pelate 38 g Succo di limone q.b. Scorza di limone q.b. Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di farro con zucchine grigliate e mandorle Per preparare l’insalata di farro con zucchine grigliate e mandorle, per prima cosa cuocete il farro in acqua salata bollente 1 . Nel frattempo spuntate le zucchine e dividetele a metà 2 , poi tagliatele per il lungo a fette dello spessore di circa mezzo centimetro 3 . Oliate una griglia ben calda e adagiate le zucchine 4 , poi grigliate per qualche minuto per lato 5 fino a quando saranno morbide e con le righe ben visibili 6 . Mettete da parte e lasciate intiepidire. Intanto il farro sarà cotto, quindi scolatelo in una ciotola 7 e lasciatelo intiepidire. Tritate grossolanamente le mandorle al coltello 8 e tenetele da parte. Ora riprendete le zucchine intiepidite e tagliatele a pezzetti 9 . Aggiungete le zucchine nella ciotola con il farro 10 , poi unite anche le mandorle 11 e il succo di limone 13 . Aromatizzate anche con la scorza grattugiata del limone 13 , poi regolate di sale e pepe. Mescolate bene il tutto 14 e servite la vostra insalata di farro con zucchine grigliate e mandorle 15 ! Conservazione L’insalata di farro con zucchine grigliate e mandorle si può conservare in frigorifero per 1-2 giorni. Potete preparare in anticipo le zucchine grigliate e conservarle in frigorifero per 1-2 giorni, in un contenitore ermetico. Consiglio Potete profumare l’insalata di farro con qualche fogliolina di basilico o menta! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Farro Olio di oliva Limone Mandorle Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Primi piatti sfiziosi , Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Insalata di farro con zucchine grigliate e mandorle 5.0 Insalata di anguria e feta 5.0 Insalata di zucchine grigliate con pomodori, rucola e primosale 5.0 SCOPRI Zucchine grigliate Insalata di farro fredda Involtini di zucchine grigliate Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata di farro estiva, fresca e profumata.",
+      "Farro, zucchine, mandorle, limone, olio.",
+      "Griglia le zucchine a fette sottili.",
+      "Mescola farro, zucchine, mandorle e limone.",
+      "Aggiungi scorza di limone e pepe."
+    ],
+    "instagram_caption": "L’estate nel piatto? Si fa così: il farro che abbraccia le zucchine grigliate e le mandorle croccanti, tutto profumato al limone. 🍋 Prepararla è un gioco: griglia le zucchine a fettine sottili, mescolale al farro tiepido, aggiungi le mandorle tostate, una spruzzata di succo e la scorza di limone per quel tocco che fa la differenza. Un filo d’olio, una macinata di pepe e sei pronto per un pranzo che sa di vacanza. ✨ Provala questo weekend 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "L’estate nel piatto? Si fa così: il farro che abbraccia le zucchine grigliate e le mandorle croccanti, tutto profumato al limone. 🍋 Prepararla è un gioco: griglia le zucchine a fettine sottili, mescolale al farro tiepido, aggiungi le mandorle tostate, una spruzzata di succo e la scorza di limone per quel tocco che fa la differenza. Un filo d’olio, una macinata di pepe e sei pronto per un pranzo che sa di vacanza. ✨ Provala questo weekend 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Ecco l'insalata di farro estiva, freschissima!",
+          "Faro, zucchine, mandorle, limone e olio.",
+          "Griglio le zucchine a fette sottili, così.",
+          "Mescolo farro, zucchine, mandorle e limone.",
+          "Scorza di limone e pepe, pronta!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "C'è un'insalata che sa di sole: farro, zucchine grigliate e mandorle. Fresca, croccante, con quel tocco di limone che la rende irresistibile. Se non l'hai mai provata, stai per scoprire il piatto dell'estate. 🍋",
+          "Gli ingredienti sono pochi ma perfetti: farro, zucchine, mandorle, limone e olio. Niente di più. Il segreto? La qualità delle materie prime e la griglia, che trasforma tutto in sapore. Preparati a farne una scorta.",
+          "Il gesto chiave: griglia le zucchine a fette sottili finché non hanno quelle belle strisce dorate. Poi mescola con il farro, le mandorle e una spruzzata di limone. Semplice, ma ogni volta che lo fai, esce fuori qualcosa di speciale.",
+          "Non dimenticare la scorza di limone: la grattugi sopra all'insalata insieme a una macinata di pepe. È quel dettaglio che sveglia tutto, che fa la differenza tra un contorno buono e un piatto che ricordi a tavola.",
+          "Io lo preparo in 10 minuti e lo lascio insaporire in frigo per un'ora: ancora più buono. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Ecco l'insalata di farro estiva, freschissima!",
+      "Faro, zucchine, mandorle, limone e olio.",
+      "Griglio le zucchine a fette sottili, così.",
+      "Mescolo farro, zucchine, mandorle e limone.",
+      "Scorza di limone e pepe, pronta!"
+    ],
+    "thread_text": [
+      "C'è un'insalata che sa di sole: farro, zucchine grigliate e mandorle. Fresca, croccante, con quel tocco di limone che la rende irresistibile. Se non l'hai mai provata, stai per scoprire il piatto dell'estate. 🍋",
+      "Gli ingredienti sono pochi ma perfetti: farro, zucchine, mandorle, limone e olio. Niente di più. Il segreto? La qualità delle materie prime e la griglia, che trasforma tutto in sapore. Preparati a farne una scorta.",
+      "Il gesto chiave: griglia le zucchine a fette sottili finché non hanno quelle belle strisce dorate. Poi mescola con il farro, le mandorle e una spruzzata di limone. Semplice, ma ogni volta che lo fai, esce fuori qualcosa di speciale.",
+      "Non dimenticare la scorza di limone: la grattugi sopra all'insalata insieme a una macinata di pepe. È quel dettaglio che sveglia tutto, che fa la differenza tra un contorno buono e un piatto che ricordi a tavola.",
+      "Io lo preparo in 10 minuti e lo lascio insaporire in frigo per un'ora: ancora più buono. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Insalata di farro estiva",
+        "description": "Un piatto fresco e profumato, perfetto per l'estate, con farro, zucchine grigliate e mandorle croccanti.",
+        "visual_hint": "Insalata colorata in ciotola",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory farro salad"
+      },
+      {
+        "hook": "Ingredienti semplici, sapore grande",
+        "description": "Farro, zucchine, mandorle, limone e olio: pochi elementi, un risultato ricco di gusto e texture.",
+        "visual_hint": "Ingredienti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory farro ingredients",
+        "image": "https://images.pexels.com/photos/27407738/pexels-photo-27407738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Griglia le zucchine",
+        "description": "Affetta le zucchine sottili e grigliale fino a ottenere belle strisce dorate e un sapore affumicato.",
+        "visual_hint": "Zucchine grigliate in primo piano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "grilled zucchini slices",
+        "image": "https://images.pexels.com/photos/5637755/pexels-photo-5637755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola il tutto",
+        "description": "Unisci farro, zucchine, mandorle e succo di limone in una ciotola capiente e mescola con cura.",
+        "visual_hint": "Mani che mescolano l'insalata",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing farro salad",
+        "image": "https://images.pexels.com/photos/32318591/pexels-photo-32318591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tocco finale: limone e pepe",
+        "description": "Completa con scorza di limone e pepe nero per un fresco aroma. Servi subito o fredda.",
+        "visual_hint": "Piatto servito con scorza di limone",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory farro bowl lemon zest",
+        "image": "https://images.pexels.com/photos/29266881/pexels-photo-29266881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "farro",
+      "zucchine",
+      "mandorle"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36534/Insalata-di-farro-con-zucchine-grigliate-e-mandorle_650x433_wm.jpg",
+    "savedAt": "2026-08-05T17:30:21.479Z",
+    "sourceId": "1a8aa62a933a8773b89e8135c389dbf6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-anguria-e-feta",
     "prompt_version": "1.0.0",
     "status": "published",

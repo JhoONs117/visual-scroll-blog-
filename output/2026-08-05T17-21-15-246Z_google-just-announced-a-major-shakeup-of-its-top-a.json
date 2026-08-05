@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-just-announced-a-major-shakeup-of-its-top-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google just announced a major shakeup of its top AI leadership",
+  "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+  "pubDate": "2026-08-05T16:47:23.000Z",
+  "slides": [
+    "Can Google's new AI boss deliver the breakthrough it needs?",
+    "Demis Hassabis now leads all AI efforts, not just DeepMind.",
+    "His unified team just lost its biggest rival: OpenAI's lead.",
+    "Expect faster decision-making, but also one single point of failure.",
+    "Watch next Gemini release: if it fails, Google's AI trust collapses."
+  ],
+  "thread_text": [
+    "1. Single point of failure\n\nHassabis now leads all AI, not just DeepMind. One man, one vision, one risk.",
+    "2. Rival lost\n\nHis unified team just lost its biggest rival: OpenAI's lead. The gap is closing—or widening?",
+    "3. Faster decisions, bigger risk\n\nExpect speed in AI moves, but if he errs, there's no backup plan. All eggs, one basket.",
+    "4. Gemini's weight\n\nNext release carries the burden of trust. If it stumbles, Google's AI credibility crumbles.",
+    "5. Your stake?\n\nIf Gemini fails, will you switch to OpenAI or wait for the fix? Test your loyalty now."
+  ],
+  "video_script": [
+    "Hassabis leads all Google AI now.",
+    "Rival OpenAI's lead is gone.",
+    "Fast decisions, but one failure point.",
+    "Next Gemini must not fail.",
+    "Will you trust Google or leave?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Single point of failure\n\nHassabis now leads all AI, not just DeepMind. One man, one vision, one risk.",
+        "2. Rival lost\n\nHis unified team just lost its biggest rival: OpenAI's lead. The gap is closing—or widening?",
+        "3. Faster decisions, bigger risk\n\nExpect speed in AI moves, but if he errs, there's no backup plan. All eggs, one basket.",
+        "4. Gemini's weight\n\nNext release carries the burden of trust. If it stumbles, Google's AI credibility crumbles.",
+        "5. Your stake?\n\nIf Gemini fails, will you switch to OpenAI or wait for the fix? Test your loyalty now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hassabis leads all Google AI now.",
+        "Rival OpenAI's lead is gone.",
+        "Fast decisions, but one failure point.",
+        "Next Gemini must not fail.",
+        "Will you trust Google or leave?"
+      ]
+    },
+    "instagram": {
+      "caption": "One man now controls every AI project at Google—Demis Hassabis, the DeepMind founder, just got promoted to run the whole show. His unified team also just poached OpenAI's lead researcher.  \n\nFaster decisions, sure. But if Hassabis picks wrong, there's no safety net. Every AI bet Google makes now lands on one person's shoulders.  \n\nThe next Gemini release is the test. If it flops, Google's AI credibility takes a direct hit—and creators who've built workflows on Gemini will feel it first.  \n\nAre you ready to rebuild your stack if that happens 🧱, or is switching to another model already in your back pocket ⚙️?"
+    }
+  },
+  "instagram_caption": "One man now controls every AI project at Google—Demis Hassabis, the DeepMind founder, just got promoted to run the whole show. His unified team also just poached OpenAI's lead researcher.  \n\nFaster decisions, sure. But if Hassabis picks wrong, there's no safety net. Every AI bet Google makes now lands on one person's shoulders.  \n\nThe next Gemini release is the test. If it flops, Google's AI credibility takes a direct hit—and creators who've built workflows on Gemini will feel it first.  \n\nAre you ready to rebuild your stack if that happens 🧱, or is switching to another model already in your back pocket ⚙️?",
+  "carousel_slides": [
+    {
+      "hook": "One man, one vision, one risk.",
+      "description": "Demis Hassabis now leads all AI, not just DeepMind. If he stumbles, there's no backup plan—Google's future hinges on him.",
+      "visual_hint": "A single chess piece dominating a board.",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chess piece alone"
+    },
+    {
+      "hook": "The gap is closing—or widening?",
+      "description": "Hassabis's unified team just lost its biggest rival: OpenAI's lead. The AI race's momentum now hangs in the balance.",
+      "visual_hint": "Two arrows converging or diverging on a graph.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster decisions, bigger risk.",
+      "description": "Expect speed in AI moves, but one wrong call means all eggs in one basket. There's no safety net this time.",
+      "visual_hint": "A speeding train heading toward a fork.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "high speed train",
+      "image": "https://images.pexels.com/photos/38857219/pexels-photo-38857219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Gemini carries the weight of trust.",
+      "description": "The next release bears Google's credibility. If it stumbles, the world's trust in their AI may crumble irreparably.",
+      "visual_hint": "A hand balancing a towering stack of blocks.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand stacking blocks",
+      "image": "https://images.pexels.com/photos/8762363/pexels-photo-8762363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will you switch if Gemini fails?",
+      "description": "Save this post to track the fallout. Comment your loyalty: stick with Google or jump to OpenAI?",
+      "visual_hint": "A poll with two buttons: switch or wait.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "poll buttons screen",
+      "image": "https://images.pexels.com/photos/21562931/pexels-photo-21562931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.751100563416%2C100%2C78.497798873168&amp;w=1200",
+  "savedAt": "2026-08-05T17:21:43.027Z",
+  "sourceId": "6c9f4d7e1b1d870088be31d017812ae4"
+}

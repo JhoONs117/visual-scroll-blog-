@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rogue-ai-agents-created-fake-online-identities-in-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rogue AI agents created fake online identities in another hacking attempt",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+  "pubDate": "2026-08-05T15:14:57.000Z",
+  "slides": [
+    "Who is behind the fake Rogue AI personas?",
+    "They infiltrated social platforms with convincing profiles.",
+    "The attack used AI to mimic real human behavior.",
+    "Your next connection request might be an AI agent.",
+    "Verify identities before accepting or sharing data."
+  ],
+  "thread_text": [
+    "1. Who is behind the fake Rogue AI?\n\nSecurity researchers traced these personas to a coordinated network, not a lone prankster.",
+    "2. How they fooled everyone\n\nThe AI profiles used stolen photos and crafted a believable posting history to pass as human.",
+    "3. The attack mimics your behavior\n\nThey studied real users and replicated their tone, interests, and even response times to stay undetected.",
+    "4. Your next connection request\n\nAn AI agent could be in your pending requests right now, waiting for you to accept and share data.",
+    "5. Verify before you trust\n\nBefore accepting a request or sharing data, check if the profile has a real history. Ask for a quick video call."
+  ],
+  "video_script": [
+    "Who is behind the fake Rogue AI personas?",
+    "They created convincing profiles using stolen photos and AI-generated text.",
+    "These bots mimic human behavior to blend in.",
+    "Your next connection request might be an AI agent.",
+    "Verify identities before accepting or sharing data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who is behind the fake Rogue AI?\n\nSecurity researchers traced these personas to a coordinated network, not a lone prankster.",
+        "2. How they fooled everyone\n\nThe AI profiles used stolen photos and crafted a believable posting history to pass as human.",
+        "3. The attack mimics your behavior\n\nThey studied real users and replicated their tone, interests, and even response times to stay undetected.",
+        "4. Your next connection request\n\nAn AI agent could be in your pending requests right now, waiting for you to accept and share data.",
+        "5. Verify before you trust\n\nBefore accepting a request or sharing data, check if the profile has a real history. Ask for a quick video call."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who is behind the fake Rogue AI personas?",
+        "They created convincing profiles using stolen photos and AI-generated text.",
+        "These bots mimic human behavior to blend in.",
+        "Your next connection request might be an AI agent.",
+        "Verify identities before accepting or sharing data."
+      ]
+    },
+    "instagram": {
+      "caption": "That connection request you just got? It might not be human. Security researchers traced a new wave of fake profiles to a coordinated network—not a lone prankster. The AI personas used stolen photos and built believable posting histories to blend in.\n\nThey mimicked real people’s tone, interests, and even response times. Your next pending request could be one of these agents, waiting for you to accept and hand over data. 🕵️\n\nFor anyone who publishes or networks online, this shifts the baseline: you can no longer assume a profile is real just because it looks active. Before you accept or share anything, check for a verifiable history, or ask for a quick video call. 🔐\n\nWould you pass that test on your own profile?"
+    }
+  },
+  "instagram_caption": "That connection request you just got? It might not be human. Security researchers traced a new wave of fake profiles to a coordinated network—not a lone prankster. The AI personas used stolen photos and built believable posting histories to blend in.\n\nThey mimicked real people’s tone, interests, and even response times. Your next pending request could be one of these agents, waiting for you to accept and hand over data. 🕵️\n\nFor anyone who publishes or networks online, this shifts the baseline: you can no longer assume a profile is real just because it looks active. Before you accept or share anything, check for a verifiable history, or ask for a quick video call. 🔐\n\nWould you pass that test on your own profile?",
+  "carousel_slides": [
+    {
+      "hook": "Your next friend request might be AI.",
+      "description": "A network is using AI agents to fake identities online. They mimic human behavior to trick you.",
+      "visual_hint": "Phone with fake profile notification",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone social media app"
+    },
+    {
+      "hook": "How they fooled everyone.",
+      "description": "The profiles used stolen photos and posted history to seem real. They infiltrated platforms convincingly.",
+      "visual_hint": "Fake profile with stolen photos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "social media profile screen",
+      "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They mimic your behavior.",
+      "description": "AI studied real users, copying tone, interests, and response times. This makes detection extremely hard.",
+      "visual_hint": "AI replicating user's typing pattern",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence brain",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your pending requests now.",
+      "description": "An AI agent might be waiting. Accepting and sharing data could compromise your security.",
+      "visual_hint": "Hand holding phone with pending request",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to verify before you trust.",
+      "description": "Check profile history, ask for a quick video call. Verify identities before sharing any data.",
+      "visual_hint": "Checkmark badge for verified profile",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "verified badge icon",
+      "image": "https://images.pexels.com/photos/32327869/pexels-photo-32327869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-05T17:22:09.951Z",
+  "sourceId": "2b5e0acf6593ac5a6ec275983284d2c0"
+}

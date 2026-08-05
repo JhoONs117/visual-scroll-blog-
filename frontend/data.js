@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "rogue-ai-agents-created-fake-online-identities-in-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "pubDate": "2026-08-05T15:14:57.000Z",
+    "slides": [
+      "Who is behind the fake Rogue AI personas?",
+      "They infiltrated social platforms with convincing profiles.",
+      "The attack used AI to mimic real human behavior.",
+      "Your next connection request might be an AI agent.",
+      "Verify identities before accepting or sharing data."
+    ],
+    "thread_text": [
+      "1. Who is behind the fake Rogue AI?\n\nSecurity researchers traced these personas to a coordinated network, not a lone prankster.",
+      "2. How they fooled everyone\n\nThe AI profiles used stolen photos and crafted a believable posting history to pass as human.",
+      "3. The attack mimics your behavior\n\nThey studied real users and replicated their tone, interests, and even response times to stay undetected.",
+      "4. Your next connection request\n\nAn AI agent could be in your pending requests right now, waiting for you to accept and share data.",
+      "5. Verify before you trust\n\nBefore accepting a request or sharing data, check if the profile has a real history. Ask for a quick video call."
+    ],
+    "video_script": [
+      "Who is behind the fake Rogue AI personas?",
+      "They created convincing profiles using stolen photos and AI-generated text.",
+      "These bots mimic human behavior to blend in.",
+      "Your next connection request might be an AI agent.",
+      "Verify identities before accepting or sharing data."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who is behind the fake Rogue AI?\n\nSecurity researchers traced these personas to a coordinated network, not a lone prankster.",
+          "2. How they fooled everyone\n\nThe AI profiles used stolen photos and crafted a believable posting history to pass as human.",
+          "3. The attack mimics your behavior\n\nThey studied real users and replicated their tone, interests, and even response times to stay undetected.",
+          "4. Your next connection request\n\nAn AI agent could be in your pending requests right now, waiting for you to accept and share data.",
+          "5. Verify before you trust\n\nBefore accepting a request or sharing data, check if the profile has a real history. Ask for a quick video call."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who is behind the fake Rogue AI personas?",
+          "They created convincing profiles using stolen photos and AI-generated text.",
+          "These bots mimic human behavior to blend in.",
+          "Your next connection request might be an AI agent.",
+          "Verify identities before accepting or sharing data."
+        ]
+      },
+      "instagram": {
+        "caption": "That connection request you just got? It might not be human. Security researchers traced a new wave of fake profiles to a coordinated network—not a lone prankster. The AI personas used stolen photos and built believable posting histories to blend in.\n\nThey mimicked real people’s tone, interests, and even response times. Your next pending request could be one of these agents, waiting for you to accept and hand over data. 🕵️\n\nFor anyone who publishes or networks online, this shifts the baseline: you can no longer assume a profile is real just because it looks active. Before you accept or share anything, check for a verifiable history, or ask for a quick video call. 🔐\n\nWould you pass that test on your own profile?"
+      }
+    },
+    "instagram_caption": "That connection request you just got? It might not be human. Security researchers traced a new wave of fake profiles to a coordinated network—not a lone prankster. The AI personas used stolen photos and built believable posting histories to blend in.\n\nThey mimicked real people’s tone, interests, and even response times. Your next pending request could be one of these agents, waiting for you to accept and hand over data. 🕵️\n\nFor anyone who publishes or networks online, this shifts the baseline: you can no longer assume a profile is real just because it looks active. Before you accept or share anything, check for a verifiable history, or ask for a quick video call. 🔐\n\nWould you pass that test on your own profile?",
+    "carousel_slides": [
+      {
+        "hook": "Your next friend request might be AI.",
+        "description": "A network is using AI agents to fake identities online. They mimic human behavior to trick you.",
+        "visual_hint": "Phone with fake profile notification",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone social media app"
+      },
+      {
+        "hook": "How they fooled everyone.",
+        "description": "The profiles used stolen photos and posted history to seem real. They infiltrated platforms convincingly.",
+        "visual_hint": "Fake profile with stolen photos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "social media profile screen",
+        "image": "https://images.pexels.com/photos/15226555/pexels-photo-15226555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They mimic your behavior.",
+        "description": "AI studied real users, copying tone, interests, and response times. This makes detection extremely hard.",
+        "visual_hint": "AI replicating user's typing pattern",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence brain",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your pending requests now.",
+        "description": "An AI agent might be waiting. Accepting and sharing data could compromise your security.",
+        "visual_hint": "Hand holding phone with pending request",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to verify before you trust.",
+        "description": "Check profile history, ask for a quick video call. Verify identities before sharing any data.",
+        "visual_hint": "Checkmark badge for verified profile",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "verified badge icon",
+        "image": "https://images.pexels.com/photos/32327869/pexels-photo-32327869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-05T17:22:09.951Z",
+    "sourceId": "2b5e0acf6593ac5a6ec275983284d2c0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "reddit-is-introducing-a-new-moderator-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Reddit is introducing a new moderator: AI",
+    "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "pubDate": "2026-08-05T16:00:00.000Z",
+    "slides": [
+      "Reddit's new AI moderator just went live—who watches the watchers?",
+      "It flags rule-breaking posts in seconds, not hours.",
+      "But it also silently moderates comments—mistakes included.",
+      "Your subreddit's tone may change without a single human vote.",
+      "Review its decisions daily, or risk losing your community's voice."
+    ],
+    "thread_text": [
+      "1. Who watches the watchers?\n\nReddit's new AI moderator is live. It flags rule-breaking posts in seconds. But its decisions are silent—and final.",
+      "2. Seconds, not hours\n\nSpeed means scale. Every subreddit gets this tool. Automod was rule-based. This learns. That's the shift.",
+      "3. Silent tones\n\nIt also moderates comments. Mistakes slip through. No human votes on the call. Your subreddit's vibe shifts without you noticing.",
+      "4. The tone drift\n\nAs the AI learns, it may enforce new norms. Old inside jokes could get flagged. Regulars might leave. Change is gradual—then sudden.",
+      "5. Review daily or lose it\n\nSet a reminder to check its log today. If you don't, your community's voice fades. Ask: is one AI's judgment worth your culture?"
+    ],
+    "video_script": [
+      "Reddit's new AI moderator just went live.",
+      "It flags posts in seconds, not hours.",
+      "But it silently moderates comments with mistakes.",
+      "Your subreddit's tone may shift without votes.",
+      "Review its decisions daily or lose your voice."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who watches the watchers?\n\nReddit's new AI moderator is live. It flags rule-breaking posts in seconds. But its decisions are silent—and final.",
+          "2. Seconds, not hours\n\nSpeed means scale. Every subreddit gets this tool. Automod was rule-based. This learns. That's the shift.",
+          "3. Silent tones\n\nIt also moderates comments. Mistakes slip through. No human votes on the call. Your subreddit's vibe shifts without you noticing.",
+          "4. The tone drift\n\nAs the AI learns, it may enforce new norms. Old inside jokes could get flagged. Regulars might leave. Change is gradual—then sudden.",
+          "5. Review daily or lose it\n\nSet a reminder to check its log today. If you don't, your community's voice fades. Ask: is one AI's judgment worth your culture?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Reddit's new AI moderator just went live.",
+          "It flags posts in seconds, not hours.",
+          "But it silently moderates comments with mistakes.",
+          "Your subreddit's tone may shift without votes.",
+          "Review its decisions daily or lose your voice."
+        ]
+      },
+      "instagram": {
+        "caption": "Your subreddit's new moderator doesn't sleep, doesn't vote, and just went live. 🤖\n\nReddit's AI flagging rule-breaks in seconds—but it also silently edits comments, and its mistakes are part of the deal. There's no human call on these decisions. The tone of your community can shift without a single upvote or poll.\n\nFor anyone running a subreddit: you now have a co-moderator that learns and changes rules on its own. Check its decision log today—before the inside jokes get flagged and your regulars drift away.\n\nWhat's your sub's culture worth—one judgment call at a time? ⏱️"
+      }
+    },
+    "instagram_caption": "Your subreddit's new moderator doesn't sleep, doesn't vote, and just went live. 🤖\n\nReddit's AI flagging rule-breaks in seconds—but it also silently edits comments, and its mistakes are part of the deal. There's no human call on these decisions. The tone of your community can shift without a single upvote or poll.\n\nFor anyone running a subreddit: you now have a co-moderator that learns and changes rules on its own. Check its decision log today—before the inside jokes get flagged and your regulars drift away.\n\nWhat's your sub's culture worth—one judgment call at a time? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Who watches the watchers?",
+        "description": "Reddit's new AI moderator flags posts in seconds. It decides silently—no human votes. Your subreddit's tone could shift overnight.",
+        "visual_hint": "AI eye over Reddit logo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence circuit board"
+      },
+      {
+        "hook": "Speed is now scale.",
+        "description": "Seconds not hours. Automod was rule-based; this learns. Every subreddit gets it—but no one reviews its judgment.",
+        "visual_hint": "Clock with fast-forward arrows",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room blinking lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent mistakes, real impact.",
+        "description": "It moderates comments too, and errors slip through. No human votes on the call. Your community's vibe shifts without warning.",
+        "visual_hint": "Comment bubble with red X",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your culture, drifting away.",
+        "description": "As AI learns, it enforces new norms. Inside jokes get flagged. Regulars leave. Change is gradual—then sudden.",
+        "visual_hint": "Graffiti wall fading paint",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street crowd",
+        "image": "https://images.pexels.com/photos/36842919/pexels-photo-36842919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Review its log today, or lose your voice.",
+        "description": "Open your mod log now. Check every AI decision. One action can save your community's culture.",
+        "visual_hint": "Calendar with red reminder dot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "moderator dashboard screen",
+        "image": "https://images.pexels.com/photos/35297914/pexels-photo-35297914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-05T17:21:57.427Z",
+    "sourceId": "a5c4a7a3ae9c983e2c2b857144eaa186"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-just-announced-a-major-shakeup-of-its-top-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "pubDate": "2026-08-05T16:47:23.000Z",
+    "slides": [
+      "Can Google's new AI boss deliver the breakthrough it needs?",
+      "Demis Hassabis now leads all AI efforts, not just DeepMind.",
+      "His unified team just lost its biggest rival: OpenAI's lead.",
+      "Expect faster decision-making, but also one single point of failure.",
+      "Watch next Gemini release: if it fails, Google's AI trust collapses."
+    ],
+    "thread_text": [
+      "1. Single point of failure\n\nHassabis now leads all AI, not just DeepMind. One man, one vision, one risk.",
+      "2. Rival lost\n\nHis unified team just lost its biggest rival: OpenAI's lead. The gap is closing—or widening?",
+      "3. Faster decisions, bigger risk\n\nExpect speed in AI moves, but if he errs, there's no backup plan. All eggs, one basket.",
+      "4. Gemini's weight\n\nNext release carries the burden of trust. If it stumbles, Google's AI credibility crumbles.",
+      "5. Your stake?\n\nIf Gemini fails, will you switch to OpenAI or wait for the fix? Test your loyalty now."
+    ],
+    "video_script": [
+      "Hassabis leads all Google AI now.",
+      "Rival OpenAI's lead is gone.",
+      "Fast decisions, but one failure point.",
+      "Next Gemini must not fail.",
+      "Will you trust Google or leave?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Single point of failure\n\nHassabis now leads all AI, not just DeepMind. One man, one vision, one risk.",
+          "2. Rival lost\n\nHis unified team just lost its biggest rival: OpenAI's lead. The gap is closing—or widening?",
+          "3. Faster decisions, bigger risk\n\nExpect speed in AI moves, but if he errs, there's no backup plan. All eggs, one basket.",
+          "4. Gemini's weight\n\nNext release carries the burden of trust. If it stumbles, Google's AI credibility crumbles.",
+          "5. Your stake?\n\nIf Gemini fails, will you switch to OpenAI or wait for the fix? Test your loyalty now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hassabis leads all Google AI now.",
+          "Rival OpenAI's lead is gone.",
+          "Fast decisions, but one failure point.",
+          "Next Gemini must not fail.",
+          "Will you trust Google or leave?"
+        ]
+      },
+      "instagram": {
+        "caption": "One man now controls every AI project at Google—Demis Hassabis, the DeepMind founder, just got promoted to run the whole show. His unified team also just poached OpenAI's lead researcher.  \n\nFaster decisions, sure. But if Hassabis picks wrong, there's no safety net. Every AI bet Google makes now lands on one person's shoulders.  \n\nThe next Gemini release is the test. If it flops, Google's AI credibility takes a direct hit—and creators who've built workflows on Gemini will feel it first.  \n\nAre you ready to rebuild your stack if that happens 🧱, or is switching to another model already in your back pocket ⚙️?"
+      }
+    },
+    "instagram_caption": "One man now controls every AI project at Google—Demis Hassabis, the DeepMind founder, just got promoted to run the whole show. His unified team also just poached OpenAI's lead researcher.  \n\nFaster decisions, sure. But if Hassabis picks wrong, there's no safety net. Every AI bet Google makes now lands on one person's shoulders.  \n\nThe next Gemini release is the test. If it flops, Google's AI credibility takes a direct hit—and creators who've built workflows on Gemini will feel it first.  \n\nAre you ready to rebuild your stack if that happens 🧱, or is switching to another model already in your back pocket ⚙️?",
+    "carousel_slides": [
+      {
+        "hook": "One man, one vision, one risk.",
+        "description": "Demis Hassabis now leads all AI, not just DeepMind. If he stumbles, there's no backup plan—Google's future hinges on him.",
+        "visual_hint": "A single chess piece dominating a board.",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chess piece alone"
+      },
+      {
+        "hook": "The gap is closing—or widening?",
+        "description": "Hassabis's unified team just lost its biggest rival: OpenAI's lead. The AI race's momentum now hangs in the balance.",
+        "visual_hint": "Two arrows converging or diverging on a graph.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster decisions, bigger risk.",
+        "description": "Expect speed in AI moves, but one wrong call means all eggs in one basket. There's no safety net this time.",
+        "visual_hint": "A speeding train heading toward a fork.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "high speed train",
+        "image": "https://images.pexels.com/photos/38857219/pexels-photo-38857219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Gemini carries the weight of trust.",
+        "description": "The next release bears Google's credibility. If it stumbles, the world's trust in their AI may crumble irreparably.",
+        "visual_hint": "A hand balancing a towering stack of blocks.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand stacking blocks",
+        "image": "https://images.pexels.com/photos/8762363/pexels-photo-8762363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will you switch if Gemini fails?",
+        "description": "Save this post to track the fallout. Comment your loyalty: stick with Google or jump to OpenAI?",
+        "visual_hint": "A poll with two buttons: switch or wait.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "poll buttons screen",
+        "image": "https://images.pexels.com/photos/21562931/pexels-photo-21562931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.751100563416%2C100%2C78.497798873168&amp;w=1200",
+    "savedAt": "2026-08-05T17:21:43.027Z",
+    "sourceId": "6c9f4d7e1b1d870088be31d017812ae4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "shopify-says-ai-search-is-driving-more-traffic-and",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "pubDate": "Wed, 05 Aug 2026 15:56:14 +0000",
+    "slides": [
+      "Can Shopify's AI search dethrone Google for product discovery?",
+      "Shopify reports AI search now drives more store traffic.",
+      "Its system predicts intent, not just matching keywords like Google.",
+      "Merchants must optimize product data for AI, not just SEO.",
+      "Test your store's AI search results against competitors today."
+    ],
+    "thread_text": [
+      "1. The search shift is here\n\nShopify's AI search now drives more store traffic than before, signaling a direct challenge to Google's dominance in product discovery.",
+      "2. Intent beats keywords\n\nGoogle matches words; Shopify's system predicts what you actually want, changing the game for how shoppers find products online.",
+      "3. Merchants, adapt or lose\n\nOptimizing for AI means structuring product data differently—not just tweaking SEO. The rules have changed for store owners.",
+      "4. The personal stake\n\nIf your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now hinges on AI readiness.",
+      "5. Your next move\n\nTest your store's AI search results against a competitor today. If you haven't, you're already behind—start now."
+    ],
+    "video_script": [
+      "Shopify's AI search challenges Google.",
+      "It predicts intent, not just keywords.",
+      "Merchants must optimize for AI.",
+      "Outdated SEO won't cut it.",
+      "Test your store's results now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The search shift is here\n\nShopify's AI search now drives more store traffic than before, signaling a direct challenge to Google's dominance in product discovery.",
+          "2. Intent beats keywords\n\nGoogle matches words; Shopify's system predicts what you actually want, changing the game for how shoppers find products online.",
+          "3. Merchants, adapt or lose\n\nOptimizing for AI means structuring product data differently—not just tweaking SEO. The rules have changed for store owners.",
+          "4. The personal stake\n\nIf your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now hinges on AI readiness.",
+          "5. Your next move\n\nTest your store's AI search results against a competitor today. If you haven't, you're already behind—start now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Shopify's AI search challenges Google.",
+          "It predicts intent, not just keywords.",
+          "Merchants must optimize for AI.",
+          "Outdated SEO won't cut it.",
+          "Test your store's results now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your product page now has to explain itself to a machine—not just rank for a keyword.  \n\nShopify’s AI search is driving more store traffic than before because it predicts what you want instead of matching words like Google does. Merchants are seeing sales shift toward shoppers who arrive through that intent-based system.  \n\nIf you sell online, your product descriptions, specs, and structured data are now the new SEO—ignore that and your store disappears from AI-driven recommendations.  \n\nWould your own product data pass an AI’s intent test right now, or would a competitor’s page win the click? 🔍"
+      }
+    },
+    "instagram_caption": "Your product page now has to explain itself to a machine—not just rank for a keyword.  \n\nShopify’s AI search is driving more store traffic than before because it predicts what you want instead of matching words like Google does. Merchants are seeing sales shift toward shoppers who arrive through that intent-based system.  \n\nIf you sell online, your product descriptions, specs, and structured data are now the new SEO—ignore that and your store disappears from AI-driven recommendations.  \n\nWould your own product data pass an AI’s intent test right now, or would a competitor’s page win the click? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "AI search beats keywords now",
+        "description": "Shopify's AI search predicts intent, not just matching words like Google. It now drives more store traffic, signaling a major shift in product discovery.",
+        "visual_hint": "Search engine battle concept",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "search engine interface"
+      },
+      {
+        "hook": "Intent beats keyword matching",
+        "description": "Shopify's system predicts what you actually want, unlike Google's keyword matching. This changes how shoppers find products and could challenge Google's dominance.",
+        "visual_hint": "Brain vs magnifying glass",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence brain",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Merchants must adapt or lose",
+        "description": "Optimizing for AI means structuring product data differently, not just tweaking SEO. The rules have changed, and store owners must evolve to stay visible.",
+        "visual_hint": "Data structure gears",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your store losing sales?",
+        "description": "If your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now depends on AI readiness, not just SEO.",
+        "visual_hint": "Falling graph arrow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI search today!",
+        "description": "Compare your store's AI search results with a competitor now. If you haven't, you're already behind. Start today to stay ahead in AI-driven discovery.",
+        "visual_hint": "Compare checklist action",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "shopping online store",
+        "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
+    "savedAt": "2026-08-05T17:21:29.354Z",
+    "sourceId": "0108300124fb9281898e904ae1ce29cc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-is-hiring-an-ai-chip-design-team",
     "prompt_version": "1.0.0",
     "status": "published",

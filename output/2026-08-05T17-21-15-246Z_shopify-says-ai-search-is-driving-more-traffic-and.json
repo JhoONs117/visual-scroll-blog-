@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "shopify-says-ai-search-is-driving-more-traffic-and",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+  "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+  "pubDate": "Wed, 05 Aug 2026 15:56:14 +0000",
+  "slides": [
+    "Can Shopify's AI search dethrone Google for product discovery?",
+    "Shopify reports AI search now drives more store traffic.",
+    "Its system predicts intent, not just matching keywords like Google.",
+    "Merchants must optimize product data for AI, not just SEO.",
+    "Test your store's AI search results against competitors today."
+  ],
+  "thread_text": [
+    "1. The search shift is here\n\nShopify's AI search now drives more store traffic than before, signaling a direct challenge to Google's dominance in product discovery.",
+    "2. Intent beats keywords\n\nGoogle matches words; Shopify's system predicts what you actually want, changing the game for how shoppers find products online.",
+    "3. Merchants, adapt or lose\n\nOptimizing for AI means structuring product data differently—not just tweaking SEO. The rules have changed for store owners.",
+    "4. The personal stake\n\nIf your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now hinges on AI readiness.",
+    "5. Your next move\n\nTest your store's AI search results against a competitor today. If you haven't, you're already behind—start now."
+  ],
+  "video_script": [
+    "Shopify's AI search challenges Google.",
+    "It predicts intent, not just keywords.",
+    "Merchants must optimize for AI.",
+    "Outdated SEO won't cut it.",
+    "Test your store's results now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The search shift is here\n\nShopify's AI search now drives more store traffic than before, signaling a direct challenge to Google's dominance in product discovery.",
+        "2. Intent beats keywords\n\nGoogle matches words; Shopify's system predicts what you actually want, changing the game for how shoppers find products online.",
+        "3. Merchants, adapt or lose\n\nOptimizing for AI means structuring product data differently—not just tweaking SEO. The rules have changed for store owners.",
+        "4. The personal stake\n\nIf your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now hinges on AI readiness.",
+        "5. Your next move\n\nTest your store's AI search results against a competitor today. If you haven't, you're already behind—start now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Shopify's AI search challenges Google.",
+        "It predicts intent, not just keywords.",
+        "Merchants must optimize for AI.",
+        "Outdated SEO won't cut it.",
+        "Test your store's results now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your product page now has to explain itself to a machine—not just rank for a keyword.  \n\nShopify’s AI search is driving more store traffic than before because it predicts what you want instead of matching words like Google does. Merchants are seeing sales shift toward shoppers who arrive through that intent-based system.  \n\nIf you sell online, your product descriptions, specs, and structured data are now the new SEO—ignore that and your store disappears from AI-driven recommendations.  \n\nWould your own product data pass an AI’s intent test right now, or would a competitor’s page win the click? 🔍"
+    }
+  },
+  "instagram_caption": "Your product page now has to explain itself to a machine—not just rank for a keyword.  \n\nShopify’s AI search is driving more store traffic than before because it predicts what you want instead of matching words like Google does. Merchants are seeing sales shift toward shoppers who arrive through that intent-based system.  \n\nIf you sell online, your product descriptions, specs, and structured data are now the new SEO—ignore that and your store disappears from AI-driven recommendations.  \n\nWould your own product data pass an AI’s intent test right now, or would a competitor’s page win the click? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "AI search beats keywords now",
+      "description": "Shopify's AI search predicts intent, not just matching words like Google. It now drives more store traffic, signaling a major shift in product discovery.",
+      "visual_hint": "Search engine battle concept",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine interface"
+    },
+    {
+      "hook": "Intent beats keyword matching",
+      "description": "Shopify's system predicts what you actually want, unlike Google's keyword matching. This changes how shoppers find products and could challenge Google's dominance.",
+      "visual_hint": "Brain vs magnifying glass",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence brain",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Merchants must adapt or lose",
+      "description": "Optimizing for AI means structuring product data differently, not just tweaking SEO. The rules have changed, and store owners must evolve to stay visible.",
+      "visual_hint": "Data structure gears",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data center server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your store losing sales?",
+      "description": "If your store's AI search results lag behind competitors, you're losing sales without knowing it. Visibility now depends on AI readiness, not just SEO.",
+      "visual_hint": "Falling graph arrow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI search today!",
+      "description": "Compare your store's AI search results with a competitor now. If you haven't, you're already behind. Start today to stay ahead in AI-driven discovery.",
+      "visual_hint": "Compare checklist action",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "shopping online store",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
+  "savedAt": "2026-08-05T17:21:29.354Z",
+  "sourceId": "0108300124fb9281898e904ae1ce29cc"
+}
