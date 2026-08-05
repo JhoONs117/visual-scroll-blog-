@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spacex-made-more-revenue-as-an-ai-company-than-a-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "SpaceX made more revenue as an AI company than a space company",
+  "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+  "pubDate": "2026-08-04T20:47:55.000Z",
+  "slides": [
+    "Can a rocket builder secretly become an AI giant?",
+    "Starlink dominates: 70% of SpaceX's 2024 revenue.",
+    "The surprise: AI data centers pay for satellite internet.",
+    "Space launches now subsidize Earth's network, not Mars.",
+    "Next launch: check if your cloud runs on Starlink."
+  ],
+  "thread_text": [
+    "1. Rocket builder? Think again.\n\nSpaceX's 2024 revenue was 70% Starlink. The rockets are now the side hustle, not the main act.",
+    "2. Here's the twist.\n\nAI data centers are the new customers. They pay for satellite internet to keep their models training, not to explore Mars.",
+    "3. The money flow flipped.\n\nLaunch revenue now subsidizes Earth's network. The mission statement is quietly rewritten: orbit first, Mars later.",
+    "4. What's in it for you?\n\nYour cloud workloads might already run on Starlink backhaul. The infrastructure you use for AI is being paid for by rocket launches.",
+    "5. Check your provider.\n\nAsk your cloud vendor: do you route through Starlink? If yes, you're on a satellite network. Does that change your risk assessment?"
+  ],
+  "video_script": [
+    "SpaceX's real business is Starlink now.",
+    "AI data centers pay for satellite internet.",
+    "Launches fund Earth's network, not Mars.",
+    "Your cloud might run on satellite.",
+    "Check your provider's network today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Rocket builder? Think again.\n\nSpaceX's 2024 revenue was 70% Starlink. The rockets are now the side hustle, not the main act.",
+        "2. Here's the twist.\n\nAI data centers are the new customers. They pay for satellite internet to keep their models training, not to explore Mars.",
+        "3. The money flow flipped.\n\nLaunch revenue now subsidizes Earth's network. The mission statement is quietly rewritten: orbit first, Mars later.",
+        "4. What's in it for you?\n\nYour cloud workloads might already run on Starlink backhaul. The infrastructure you use for AI is being paid for by rocket launches.",
+        "5. Check your provider.\n\nAsk your cloud vendor: do you route through Starlink? If yes, you're on a satellite network. Does that change your risk assessment?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SpaceX's real business is Starlink now.",
+        "AI data centers pay for satellite internet.",
+        "Launches fund Earth's network, not Mars.",
+        "Your cloud might run on satellite.",
+        "Check your provider's network today."
+      ]
+    },
+    "instagram": {
+      "caption": "70% of SpaceX’s 2024 revenue came from Starlink, not rocket launches.\n\nRockets are now the side hustle. AI data centers pay for satellite internet to keep models training, and that cash now subsidizes Earth’s network. Mars? Quietly pushed back. The mission is orbit-first.\n\nIf you build or ship content, your cloud workloads may already route through Starlink backhaul. That’s not a hypothetical—it’s your infrastructure paid for by launches.\n\nAsk your cloud provider: do you route through Starlink? If yes, does that change how you think about uptime? 🛰️💸☁️"
+    }
+  },
+  "instagram_caption": "70% of SpaceX’s 2024 revenue came from Starlink, not rocket launches.\n\nRockets are now the side hustle. AI data centers pay for satellite internet to keep models training, and that cash now subsidizes Earth’s network. Mars? Quietly pushed back. The mission is orbit-first.\n\nIf you build or ship content, your cloud workloads may already route through Starlink backhaul. That’s not a hypothetical—it’s your infrastructure paid for by launches.\n\nAsk your cloud provider: do you route through Starlink? If yes, does that change how you think about uptime? 🛰️💸☁️",
+  "carousel_slides": [
+    {
+      "hook": "Your AI runs on satellites?",
+      "description": "AI data centers now pay for Starlink's internet, making SpaceX more an AI company than a space one. Rocket launches subsidize Earth's network.",
+      "visual_hint": "Satellite dish over data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "satellite dish"
+    },
+    {
+      "hook": "Rockets are now the side hustle.",
+      "description": "Starlink generated 70% of SpaceX's 2024 revenue. The rockets, once the main act, now fund the satellite network that powers Earth's internet.",
+      "visual_hint": "Rocket launching with network overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Money flow flipped: space to Earth.",
+      "description": "Launch revenue now subsidizes Starlink's expansion. The mission is quietly rewritten from Mars to building a global network for AI.",
+      "visual_hint": "Arrow from space to Earth",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "starlink satellite",
+      "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your cloud provider's backhaul.",
+      "description": "Your cloud workloads might already run on Starlink's satellite internet. Ask if your provider uses Starlink—it changes your risk assessment.",
+      "visual_hint": "Hand checking a checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cloud computing",
+      "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next cloud audit.",
+      "description": "Ask your cloud vendor if they route through Starlink. If yes, you're on a satellite network—evaluate the impact on your operations.",
+      "visual_hint": "Cloud network with satellites",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754013220586%2C100%2C78.491973558828&amp;w=1200",
+  "savedAt": "2026-08-05T01:46:48.138Z",
+  "sourceId": "dc48138fd85118247f38752355e5a11f"
+}

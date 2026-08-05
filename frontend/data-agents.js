@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "spacex-made-more-revenue-as-an-ai-company-than-a-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "pubDate": "2026-08-04T20:47:55.000Z",
+      "slides": [
+        "Can a rocket builder secretly become an AI giant?",
+        "Starlink dominates: 70% of SpaceX's 2024 revenue.",
+        "The surprise: AI data centers pay for satellite internet.",
+        "Space launches now subsidize Earth's network, not Mars.",
+        "Next launch: check if your cloud runs on Starlink."
+      ],
+      "thread_text": [
+        "1. Rocket builder? Think again.\n\nSpaceX's 2024 revenue was 70% Starlink. The rockets are now the side hustle, not the main act.",
+        "2. Here's the twist.\n\nAI data centers are the new customers. They pay for satellite internet to keep their models training, not to explore Mars.",
+        "3. The money flow flipped.\n\nLaunch revenue now subsidizes Earth's network. The mission statement is quietly rewritten: orbit first, Mars later.",
+        "4. What's in it for you?\n\nYour cloud workloads might already run on Starlink backhaul. The infrastructure you use for AI is being paid for by rocket launches.",
+        "5. Check your provider.\n\nAsk your cloud vendor: do you route through Starlink? If yes, you're on a satellite network. Does that change your risk assessment?"
+      ],
+      "video_script": [
+        "SpaceX's real business is Starlink now.",
+        "AI data centers pay for satellite internet.",
+        "Launches fund Earth's network, not Mars.",
+        "Your cloud might run on satellite.",
+        "Check your provider's network today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Rocket builder? Think again.\n\nSpaceX's 2024 revenue was 70% Starlink. The rockets are now the side hustle, not the main act.",
+            "2. Here's the twist.\n\nAI data centers are the new customers. They pay for satellite internet to keep their models training, not to explore Mars.",
+            "3. The money flow flipped.\n\nLaunch revenue now subsidizes Earth's network. The mission statement is quietly rewritten: orbit first, Mars later.",
+            "4. What's in it for you?\n\nYour cloud workloads might already run on Starlink backhaul. The infrastructure you use for AI is being paid for by rocket launches.",
+            "5. Check your provider.\n\nAsk your cloud vendor: do you route through Starlink? If yes, you're on a satellite network. Does that change your risk assessment?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "SpaceX's real business is Starlink now.",
+            "AI data centers pay for satellite internet.",
+            "Launches fund Earth's network, not Mars.",
+            "Your cloud might run on satellite.",
+            "Check your provider's network today."
+          ]
+        },
+        "instagram": {
+          "caption": "70% of SpaceX’s 2024 revenue came from Starlink, not rocket launches.\n\nRockets are now the side hustle. AI data centers pay for satellite internet to keep models training, and that cash now subsidizes Earth’s network. Mars? Quietly pushed back. The mission is orbit-first.\n\nIf you build or ship content, your cloud workloads may already route through Starlink backhaul. That’s not a hypothetical—it’s your infrastructure paid for by launches.\n\nAsk your cloud provider: do you route through Starlink? If yes, does that change how you think about uptime? 🛰️💸☁️"
+        }
+      },
+      "instagram_caption": "70% of SpaceX’s 2024 revenue came from Starlink, not rocket launches.\n\nRockets are now the side hustle. AI data centers pay for satellite internet to keep models training, and that cash now subsidizes Earth’s network. Mars? Quietly pushed back. The mission is orbit-first.\n\nIf you build or ship content, your cloud workloads may already route through Starlink backhaul. That’s not a hypothetical—it’s your infrastructure paid for by launches.\n\nAsk your cloud provider: do you route through Starlink? If yes, does that change how you think about uptime? 🛰️💸☁️",
+      "carousel_slides": [
+        {
+          "hook": "Your AI runs on satellites?",
+          "description": "AI data centers now pay for Starlink's internet, making SpaceX more an AI company than a space one. Rocket launches subsidize Earth's network.",
+          "visual_hint": "Satellite dish over data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "satellite dish"
+        },
+        {
+          "hook": "Rockets are now the side hustle.",
+          "description": "Starlink generated 70% of SpaceX's 2024 revenue. The rockets, once the main act, now fund the satellite network that powers Earth's internet.",
+          "visual_hint": "Rocket launching with network overlay",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launch",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Money flow flipped: space to Earth.",
+          "description": "Launch revenue now subsidizes Starlink's expansion. The mission is quietly rewritten from Mars to building a global network for AI.",
+          "visual_hint": "Arrow from space to Earth",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "starlink satellite",
+          "image": "https://images.pexels.com/photos/30896714/pexels-photo-30896714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your cloud provider's backhaul.",
+          "description": "Your cloud workloads might already run on Starlink's satellite internet. Ask if your provider uses Starlink—it changes your risk assessment.",
+          "visual_hint": "Hand checking a checklist",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cloud computing",
+          "image": "https://images.pexels.com/photos/12899121/pexels-photo-12899121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next cloud audit.",
+          "description": "Ask your cloud vendor if they route through Starlink. If yes, you're on a satellite network—evaluate the impact on your operations.",
+          "visual_hint": "Cloud network with satellites",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.754013220586%2C100%2C78.491973558828&amp;w=1200",
+      "savedAt": "2026-08-05T01:46:48.138Z",
+      "sourceId": "dc48138fd85118247f38752355e5a11f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "apple-says-more-ex-employees-may-have-taken-confid",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "pubDate": "Tue, 04 Aug 2026 14:03:01 +0000",
+      "slides": [
+        "Apple's data leak to OpenAI may be bigger than disclosed.",
+        "Internal probe found several former employees took confidential files.",
+        "The leak includes proprietary chip designs and AI training secrets.",
+        "Security teams are now auditing every departure from the last year.",
+        "Check your company's offboarding logs before your next hire leaks."
+      ],
+      "thread_text": [
+        "1. The leak is bigger than they said\n\nApple's internal probe found that several former employees took confidential files, including proprietary chip designs and AI training secrets, far more than initially disclosed.",
+        "2. Who else knew?\n\nThe investigation is now expanding: security teams are auditing every departure from the last year, not just the few cases first flagged.",
+        "3. Files left with a handshake\n\nEx-employees walked out with chip blueprints and AI training methods—no one noticed until now because offboarding checks were shallow.",
+        "4. Your next hire could be a leak\n\nThe same gap exists at most companies: if you don't check what leaving staff take, you're exposed before your next hire even starts.",
+        "5. Check your offboarding logs today\n\nGrab last quarter's departure records and spot-check what was downloaded in their final week. Have you done that yet?"
+      ],
+      "video_script": [
+        "Apple's leak to OpenAI is bigger than reported.",
+        "Former employees took chip designs and AI secrets.",
+        "Security now audits every departure from the past year.",
+        "Most companies have the same offboarding blind spot.",
+        "Check your own exit logs before your next hire."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The leak is bigger than they said\n\nApple's internal probe found that several former employees took confidential files, including proprietary chip designs and AI training secrets, far more than initially disclosed.",
+            "2. Who else knew?\n\nThe investigation is now expanding: security teams are auditing every departure from the last year, not just the few cases first flagged.",
+            "3. Files left with a handshake\n\nEx-employees walked out with chip blueprints and AI training methods—no one noticed until now because offboarding checks were shallow.",
+            "4. Your next hire could be a leak\n\nThe same gap exists at most companies: if you don't check what leaving staff take, you're exposed before your next hire even starts.",
+            "5. Check your offboarding logs today\n\nGrab last quarter's departure records and spot-check what was downloaded in their final week. Have you done that yet?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple's leak to OpenAI is bigger than reported.",
+            "Former employees took chip designs and AI secrets.",
+            "Security now audits every departure from the past year.",
+            "Most companies have the same offboarding blind spot.",
+            "Check your own exit logs before your next hire."
+          ]
+        },
+        "instagram": {
+          "caption": "The people who left your company last quarter might have taken more than their coffee mugs. 🖥️\n\nApple found several former employees walked out with confidential chip designs and AI training secrets—files that go far beyond what the company first admitted to. The gap? Shallow offboarding checks that nobody questioned until now. Security teams are auditing every single departure from the last year.\n\nIf you create or publish content, this matters: your proprietary prompts, data workflows, or unpublished research could be sitting on a competitor's drive right now. 📁\n\nWhen did you last check what a departing teammate downloaded in their final week? 🔍"
+        }
+      },
+      "instagram_caption": "The people who left your company last quarter might have taken more than their coffee mugs. 🖥️\n\nApple found several former employees walked out with confidential chip designs and AI training secrets—files that go far beyond what the company first admitted to. The gap? Shallow offboarding checks that nobody questioned until now. Security teams are auditing every single departure from the last year.\n\nIf you create or publish content, this matters: your proprietary prompts, data workflows, or unpublished research could be sitting on a competitor's drive right now. 📁\n\nWhen did you last check what a departing teammate downloaded in their final week? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Leak bigger than Apple admitted?",
+          "description": "Internal probe found several ex-employees took proprietary chip designs and AI training secrets, far exceeding initial disclosure.",
+          "visual_hint": "Chip blueprint with magnifier",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer chip closeup"
+        },
+        {
+          "hook": "Who else knew?",
+          "description": "Security teams are now auditing every departure from the last year, not just the few cases first flagged.",
+          "visual_hint": "Audit trail with question marks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office building corridor",
+          "image": "https://images.pexels.com/photos/19854741/pexels-photo-19854741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Files left with a handshake",
+          "description": "Ex-employees walked out with chip blueprints and AI training methods; shallow offboarding checks let it slip.",
+          "visual_hint": "Handshake with documents falling",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "documents on table",
+          "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next hire could be a leak",
+          "description": "Most companies have the same gap: if you don't check what leaving staff take, you're exposed before the next hire starts.",
+          "visual_hint": "New employee badge with warning",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people shaking hands office",
+          "image": "https://images.pexels.com/photos/7984473/pexels-photo-7984473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your offboarding",
+          "description": "Grab last quarter's departure records and spot-check what was downloaded in their final week. Have you done that yet?",
+          "visual_hint": "Checklist with cloud download icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with checklist",
+          "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "savedAt": "2026-08-05T01:46:34.229Z",
+      "sourceId": "54ed8f1ef07ccd3efdfc9d9a38f13887"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "-not-healthy-llm-use-is-more-common-than-you-think",
       "prompt_version": "1.0.0",
       "status": "published",
