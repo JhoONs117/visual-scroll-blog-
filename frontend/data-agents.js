@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-s-doj-gains-oversight-of-openai-s-green-card",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "pubDate": "Wed, 05 Aug 2026 21:05:37 +0000",
+      "slides": [
+        "What does Trump's DOJ gain from OpenAI oversight?",
+        "It now monitors green-card sponsorship for AI engineers.",
+        "The deal emerged from a federal discrimination settlement.",
+        "Your H-1B approval odds just became less predictable.",
+        "Watch new policy shifts before planning your visa path."
+      ],
+      "thread_text": [
+        "1. Your visa just got a new gatekeeper\n\nThe DOJ now monitors green-card sponsorship for AI engineers, making every application a potential federal review.",
+        "2. Why the sudden oversight?\n\nIt stems from a federal discrimination settlement, not a new law — a quiet legal shift with big consequences.",
+        "3. The twist for H-1B holders\n\nApproval odds just became less predictable because the DOJ's focus adds a layer of scrutiny beyond USCIS.",
+        "4. The real story: AI jobs under a microscope\n\nBeyond green cards, this oversight signals a broader trend — AI hiring practices are now a compliance battleground.",
+        "5. What should you do today?\n\nReview your employer's sponsorship history for red flags. Does your role match the job title exactly? Discrepancies could trigger a denial."
+      ],
+      "video_script": [
+        "Your visa approval odds just got less predictable.",
+        "The DOJ now watches AI engineer green cards.",
+        "This came from a discrimination settlement.",
+        "New scrutiny affects H-1B approvals.",
+        "Check your job title matches now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your visa just got a new gatekeeper\n\nThe DOJ now monitors green-card sponsorship for AI engineers, making every application a potential federal review.",
+            "2. Why the sudden oversight?\n\nIt stems from a federal discrimination settlement, not a new law — a quiet legal shift with big consequences.",
+            "3. The twist for H-1B holders\n\nApproval odds just became less predictable because the DOJ's focus adds a layer of scrutiny beyond USCIS.",
+            "4. The real story: AI jobs under a microscope\n\nBeyond green cards, this oversight signals a broader trend — AI hiring practices are now a compliance battleground.",
+            "5. What should you do today?\n\nReview your employer's sponsorship history for red flags. Does your role match the job title exactly? Discrepancies could trigger a denial."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your visa approval odds just got less predictable.",
+            "The DOJ now watches AI engineer green cards.",
+            "This came from a discrimination settlement.",
+            "New scrutiny affects H-1B approvals.",
+            "Check your job title matches now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your green-card application now has a second, invisible reviewer: the Department of Justice. 👀\n\nThis oversight comes from a federal discrimination settlement with OpenAI — not a new law. The DOJ will monitor how the company sponsors AI engineers for green cards, adding a layer of scrutiny beyond the usual immigration process. H-1B approval odds just got less predictable. 📋\n\nFor anyone in tech on a work visa: your employer’s sponsorship history and job-title accuracy are now potential red flags. Mismatches can trigger a federal review. ⚖️\n\nBefore your next filing, ask your HR: has our sponsorship policy changed since the settlement? If they don’t know, that’s your answer. 🚩"
+        }
+      },
+      "instagram_caption": "Your green-card application now has a second, invisible reviewer: the Department of Justice. 👀\n\nThis oversight comes from a federal discrimination settlement with OpenAI — not a new law. The DOJ will monitor how the company sponsors AI engineers for green cards, adding a layer of scrutiny beyond the usual immigration process. H-1B approval odds just got less predictable. 📋\n\nFor anyone in tech on a work visa: your employer’s sponsorship history and job-title accuracy are now potential red flags. Mismatches can trigger a federal review. ⚖️\n\nBefore your next filing, ask your HR: has our sponsorship policy changed since the settlement? If they don’t know, that’s your answer. 🚩",
+      "carousel_slides": [
+        {
+          "hook": "Your visa just got a new gatekeeper",
+          "description": "DOJ now monitors green-card sponsorship for AI engineers, adding federal review to every application — making approval less predictable.",
+          "visual_hint": "Stamp on visa document",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "visa stamp passport"
+        },
+        {
+          "hook": "Why sudden oversight?",
+          "description": "This stems from a federal discrimination settlement, not new law — a quiet legal shift with big consequences for employers.",
+          "visual_hint": "Gavel and legal papers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gavel courtroom",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "H-1B approval odds just shifted",
+          "description": "DOJ scrutiny adds a layer of review beyond USCIS, making outcomes less predictable for AI engineers seeking green cards.",
+          "visual_hint": "Magnifying glass on H-1B form",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI jobs under a microscope",
+          "description": "Beyond green cards, this oversight signals AI hiring is now a compliance battleground — expect more audits industry-wide.",
+          "visual_hint": "Microscope over AI chip",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "microscope computer chip",
+          "image": "https://images.pexels.com/photos/4031655/pexels-photo-4031655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your employer's sponsorship history now",
+          "description": "Review for red flags: ensure your role matches job title exactly. Discrepancies could trigger a denial. Save this for reference.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "savedAt": "2026-08-05T22:51:07.989Z",
+      "sourceId": "8d0ab0b2cc81b7c2d1fc60ff34e92d87"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-launches-muse-code-an-ai-agent-for-large-code",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "slides": [
+        "Can Muse unlock your entire codebase for you?",
+        "Meta trained it on three billion lines of Python.",
+        "But it solves tasks humans spend weeks debugging.",
+        "Now your team's legacy systems become AI-accessible.",
+        "Run one experiment today: let Muse find a bug."
+      ],
+      "thread_text": [
+        "1. Your codebase, unlocked?\n\nMeta's Muse was trained on three billion lines of Python, and it's already fixing bugs that take humans weeks.",
+        "2. Legacy no longer means locked\n\nMuse can make your team's oldest systems AI-accessible, turning decades of code into a live, queryable resource.",
+        "3. The debugging twist\n\nInstead of just reading code, Muse solves the problems you've been chasing—often in minutes, not days.",
+        "4. The real cost of waiting\n\nEvery week you delay, your team burns hours on issues Muse could handle in one command.",
+        "5. Run this today\n\nFeed Muse a bug your team has ignored for a month. See what it finds. Ready to test it?"
+      ],
+      "video_script": [
+        "Can Muse unlock your codebase?",
+        "Trained on three billion lines of Python.",
+        "It solves tasks that take weeks.",
+        "Legacy systems become accessible.",
+        "Try it: find one bug today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your codebase, unlocked?\n\nMeta's Muse was trained on three billion lines of Python, and it's already fixing bugs that take humans weeks.",
+            "2. Legacy no longer means locked\n\nMuse can make your team's oldest systems AI-accessible, turning decades of code into a live, queryable resource.",
+            "3. The debugging twist\n\nInstead of just reading code, Muse solves the problems you've been chasing—often in minutes, not days.",
+            "4. The real cost of waiting\n\nEvery week you delay, your team burns hours on issues Muse could handle in one command.",
+            "5. Run this today\n\nFeed Muse a bug your team has ignored for a month. See what it finds. Ready to test it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can Muse unlock your codebase?",
+            "Trained on three billion lines of Python.",
+            "It solves tasks that take weeks.",
+            "Legacy systems become accessible.",
+            "Try it: find one bug today."
+          ]
+        },
+        "instagram": {
+          "caption": "Three billion lines of Python went into training this thing.  \nThat's not a flex—that's why it can solve bugs your team has spent weeks chasing. 🧠  \n\nMeta just dropped Muse, an AI agent built for massive codebases.  \nIt doesn't just read your legacy code—it finds the error hiding in it.  \nThe same systems you thought were locked away are now queryable in plain language.  \n\nFor you: that means the bug you've been ignoring since last sprint?  \nYou can hand it over and get an answer before your coffee cools. ☕  \n\nFeed Muse one problem you've shelved for a month.  \nWhat does it find that you missed? 🔍"
+        }
+      },
+      "instagram_caption": "Three billion lines of Python went into training this thing.  \nThat's not a flex—that's why it can solve bugs your team has spent weeks chasing. 🧠  \n\nMeta just dropped Muse, an AI agent built for massive codebases.  \nIt doesn't just read your legacy code—it finds the error hiding in it.  \nThe same systems you thought were locked away are now queryable in plain language.  \n\nFor you: that means the bug you've been ignoring since last sprint?  \nYou can hand it over and get an answer before your coffee cools. ☕  \n\nFeed Muse one problem you've shelved for a month.  \nWhat does it find that you missed? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Weeks of debugging, solved in minutes?",
+          "description": "Meta's Muse, trained on 3 billion lines of Python, fixes bugs that take humans weeks — can it unlock your codebase?",
+          "visual_hint": "Codebase glowing, lock opening",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code screen"
+        },
+        {
+          "hook": "Legacy code, finally accessible",
+          "description": "Muse makes decades-old systems AI-accessible, turning your team's legacy into a live, queryable resource.",
+          "visual_hint": "Old vault opening to light",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It doesn't just read code",
+          "description": "Muse solves the problems you've been chasing — often in minutes, not days. Stop debugging, start fixing.",
+          "visual_hint": "Debugging path collapsing to dot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass circuit",
+          "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every week you wait, hours burn",
+          "description": "Delaying costs your team hours on issues Muse could handle in one command. The real cost of waiting is now.",
+          "visual_hint": "Hourglass with code symbols",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hourglass sand timer",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Muse on a bug today",
+          "description": "Feed Muse a bug your team ignored for a month. See what it finds. Save this post or visit our bio to try.",
+          "visual_hint": "Bug being zapped by AI",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bug on keyboard",
+          "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+      "savedAt": "2026-08-05T22:50:55.818Z",
+      "sourceId": "f4b59bdfc21bfca7febe9386b880e4b0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "trump-s-ai-testing-plan-is-limited-and-vague",
       "prompt_version": "1.0.0",
       "status": "published",

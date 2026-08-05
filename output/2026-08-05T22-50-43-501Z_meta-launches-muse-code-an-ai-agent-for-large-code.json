@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-launches-muse-code-an-ai-agent-for-large-code",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta launches Muse Code, an AI agent for large code bases",
+  "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+  "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+  "slides": [
+    "Can Muse unlock your entire codebase for you?",
+    "Meta trained it on three billion lines of Python.",
+    "But it solves tasks humans spend weeks debugging.",
+    "Now your team's legacy systems become AI-accessible.",
+    "Run one experiment today: let Muse find a bug."
+  ],
+  "thread_text": [
+    "1. Your codebase, unlocked?\n\nMeta's Muse was trained on three billion lines of Python, and it's already fixing bugs that take humans weeks.",
+    "2. Legacy no longer means locked\n\nMuse can make your team's oldest systems AI-accessible, turning decades of code into a live, queryable resource.",
+    "3. The debugging twist\n\nInstead of just reading code, Muse solves the problems you've been chasing—often in minutes, not days.",
+    "4. The real cost of waiting\n\nEvery week you delay, your team burns hours on issues Muse could handle in one command.",
+    "5. Run this today\n\nFeed Muse a bug your team has ignored for a month. See what it finds. Ready to test it?"
+  ],
+  "video_script": [
+    "Can Muse unlock your codebase?",
+    "Trained on three billion lines of Python.",
+    "It solves tasks that take weeks.",
+    "Legacy systems become accessible.",
+    "Try it: find one bug today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your codebase, unlocked?\n\nMeta's Muse was trained on three billion lines of Python, and it's already fixing bugs that take humans weeks.",
+        "2. Legacy no longer means locked\n\nMuse can make your team's oldest systems AI-accessible, turning decades of code into a live, queryable resource.",
+        "3. The debugging twist\n\nInstead of just reading code, Muse solves the problems you've been chasing—often in minutes, not days.",
+        "4. The real cost of waiting\n\nEvery week you delay, your team burns hours on issues Muse could handle in one command.",
+        "5. Run this today\n\nFeed Muse a bug your team has ignored for a month. See what it finds. Ready to test it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can Muse unlock your codebase?",
+        "Trained on three billion lines of Python.",
+        "It solves tasks that take weeks.",
+        "Legacy systems become accessible.",
+        "Try it: find one bug today."
+      ]
+    },
+    "instagram": {
+      "caption": "Three billion lines of Python went into training this thing.  \nThat's not a flex—that's why it can solve bugs your team has spent weeks chasing. 🧠  \n\nMeta just dropped Muse, an AI agent built for massive codebases.  \nIt doesn't just read your legacy code—it finds the error hiding in it.  \nThe same systems you thought were locked away are now queryable in plain language.  \n\nFor you: that means the bug you've been ignoring since last sprint?  \nYou can hand it over and get an answer before your coffee cools. ☕  \n\nFeed Muse one problem you've shelved for a month.  \nWhat does it find that you missed? 🔍"
+    }
+  },
+  "instagram_caption": "Three billion lines of Python went into training this thing.  \nThat's not a flex—that's why it can solve bugs your team has spent weeks chasing. 🧠  \n\nMeta just dropped Muse, an AI agent built for massive codebases.  \nIt doesn't just read your legacy code—it finds the error hiding in it.  \nThe same systems you thought were locked away are now queryable in plain language.  \n\nFor you: that means the bug you've been ignoring since last sprint?  \nYou can hand it over and get an answer before your coffee cools. ☕  \n\nFeed Muse one problem you've shelved for a month.  \nWhat does it find that you missed? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Weeks of debugging, solved in minutes?",
+      "description": "Meta's Muse, trained on 3 billion lines of Python, fixes bugs that take humans weeks — can it unlock your codebase?",
+      "visual_hint": "Codebase glowing, lock opening",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code screen"
+    },
+    {
+      "hook": "Legacy code, finally accessible",
+      "description": "Muse makes decades-old systems AI-accessible, turning your team's legacy into a live, queryable resource.",
+      "visual_hint": "Old vault opening to light",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It doesn't just read code",
+      "description": "Muse solves the problems you've been chasing — often in minutes, not days. Stop debugging, start fixing.",
+      "visual_hint": "Debugging path collapsing to dot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass circuit",
+      "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every week you wait, hours burn",
+      "description": "Delaying costs your team hours on issues Muse could handle in one command. The real cost of waiting is now.",
+      "visual_hint": "Hourglass with code symbols",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass sand timer",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Muse on a bug today",
+      "description": "Feed Muse a bug your team ignored for a month. See what it finds. Save this post or visit our bio to try.",
+      "visual_hint": "Bug being zapped by AI",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bug on keyboard",
+      "image": "https://images.pexels.com/photos/7172653/pexels-photo-7172653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+  "savedAt": "2026-08-05T22:50:55.818Z",
+  "sourceId": "f4b59bdfc21bfca7febe9386b880e4b0"
+}
