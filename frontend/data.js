@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-makes-weather-prediction-better-can-windborne-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
+    "slides": [
+      "AI predicts weather better, but can WindBorne profit?",
+      "It uses AI-powered balloons that dive and drift.",
+      "Its forecasts beat ECMWF by 20% on key metrics.",
+      "Now insurers and energy traders pay for accuracy.",
+      "Question: will data sales turn weather into revenue?"
+    ],
+    "thread_text": [
+      "1. Who profits from perfect weather?\n\nWindBorne's AI balloons beat Europe's top forecast model by 20% — but accuracy alone doesn't pay. The real question is who'll buy their data.",
+      "2. Balloons that dive like birds\n\nThese aren't weather balloons. They steer through the sky, diving and drifting to sample the atmosphere where it matters, giving forecasts an edge no satellite can match.",
+      "3. Insurers pay, traders follow\n\nNow insurers and energy traders are paying for WindBorne's precision. A 20% edge in predicting storms or demand can mean millions in avoided losses.",
+      "4. The model is the moat\n\nWindBorne's real asset isn't the balloons—it's the forecasting model they feed. The more data they collect, the harder it is for rivals to catch up.",
+      "5. Will you pay for certainty?\n\nOpen WindBorne's site and check their live forecasts. If your decisions hinge on weather, would you pay for a 20% edge—or stick with free?"
+    ],
+    "video_script": [
+      "Balloons beat the best weather models. Can they profit?",
+      "They dive and drift to collect better data.",
+      "Their forecasts beat Europe's top model by twenty percent.",
+      "Insurers and energy traders now pay for accuracy.",
+      "Will weather data sales turn into real revenue?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who profits from perfect weather?\n\nWindBorne's AI balloons beat Europe's top forecast model by 20% — but accuracy alone doesn't pay. The real question is who'll buy their data.",
+          "2. Balloons that dive like birds\n\nThese aren't weather balloons. They steer through the sky, diving and drifting to sample the atmosphere where it matters, giving forecasts an edge no satellite can match.",
+          "3. Insurers pay, traders follow\n\nNow insurers and energy traders are paying for WindBorne's precision. A 20% edge in predicting storms or demand can mean millions in avoided losses.",
+          "4. The model is the moat\n\nWindBorne's real asset isn't the balloons—it's the forecasting model they feed. The more data they collect, the harder it is for rivals to catch up.",
+          "5. Will you pay for certainty?\n\nOpen WindBorne's site and check their live forecasts. If your decisions hinge on weather, would you pay for a 20% edge—or stick with free?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Balloons beat the best weather models. Can they profit?",
+          "They dive and drift to collect better data.",
+          "Their forecasts beat Europe's top model by twenty percent.",
+          "Insurers and energy traders now pay for accuracy.",
+          "Will weather data sales turn into real revenue?"
+        ]
+      },
+      "instagram": {
+        "caption": "A 20% accuracy edge over Europe’s top forecast model doesn’t sound like much—until you’re an insurer pricing a hurricane or a trader betting on a cold snap.  \n\nWindBorne’s AI-guided balloons dive and drift through the sky, feeding data that beats the ECMWF on key metrics. Now insurers and energy traders are paying for that precision.  \n\nThe real asset isn’t the hardware—it’s the forecasting model they keep feeding. More data, wider moat.  \n\nFor weather-dependent creators—event planners, logistics YouTubers, energy analysts—free forecasts just became the risky option.  \n\nWould you pay for a 20% edge on your next big call, or trust the free app? 🌪️🎈📉"
+      }
+    },
+    "instagram_caption": "A 20% accuracy edge over Europe’s top forecast model doesn’t sound like much—until you’re an insurer pricing a hurricane or a trader betting on a cold snap.  \n\nWindBorne’s AI-guided balloons dive and drift through the sky, feeding data that beats the ECMWF on key metrics. Now insurers and energy traders are paying for that precision.  \n\nThe real asset isn’t the hardware—it’s the forecasting model they keep feeding. More data, wider moat.  \n\nFor weather-dependent creators—event planners, logistics YouTubers, energy analysts—free forecasts just became the risky option.  \n\nWould you pay for a 20% edge on your next big call, or trust the free app? 🌪️🎈📉",
+    "carousel_slides": [
+      {
+        "hook": "Can AI weather prediction make money?",
+        "description": "WindBorne's balloons beat top forecast models by 20% — but accuracy alone doesn't pay. Insurers and energy traders now pay for that edge.",
+        "visual_hint": "Balloon drifting above clouds",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "weather balloon sky"
+      },
+      {
+        "hook": "Balloons that dive like birds",
+        "description": "These AI-guided balloons steer and dive to sample the atmosphere where it matters, giving forecasts an edge no satellite can match.",
+        "visual_hint": "Balloon diving through sky",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "balloon flying clouds",
+        "image": "https://images.pexels.com/photos/22922250/pexels-photo-22922250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Insurers pay, traders follow",
+        "description": "A 20% edge in predicting storms or energy demand can mean millions in avoided losses — that's why insurers and energy traders are paying.",
+        "visual_hint": "Storm clouds over city skyline",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "storm clouds city",
+        "image": "https://images.pexels.com/photos/14042121/pexels-photo-14042121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The model is the real moat",
+        "description": "WindBorne's asset isn't just balloons—the forecasting model they feed. More data makes it harder for rivals to catch up.",
+        "visual_hint": "Hand holding glowing data orb",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "data network hand",
+        "image": "https://images.pexels.com/photos/7562089/pexels-photo-7562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you pay for certainty?",
+        "description": "Check WindBorne's live forecasts. If your decisions hinge on weather, would you pay for a 20% edge? Comment your answer!",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone weather app",
+        "image": "https://images.pexels.com/photos/38337699/pexels-photo-38337699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
+    "savedAt": "2026-08-05T11:52:06.716Z",
+    "sourceId": "8b3b35a1cad7676c836062940732e687"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "indian-ev-startup-river-raises-120m-series-c-to-sc",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+    "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+    "pubDate": "Wed, 05 Aug 2026 11:26:00 +0000",
+    "slides": [
+      "River raised $120M, but can it survive India's EV race?",
+      "The startup now plans to double its production capacity.",
+      "Unlike rivals, River sells only two-wheelers, not cars.",
+      "New models will target last-mile delivery fleets next.",
+      "Watch if River's cash outlasts its competitors' burn."
+    ],
+    "thread_text": [
+      "1. River's $120M gamble\n\nIt's betting everything on two-wheelers while rivals chase cars. The production cap will double, but the road ahead is narrow.",
+      "2. The two-wheeler trap\n\nUnlike competitors, River has no car line to fall back on. Its survival hinges on one bet alone.",
+      "3. Delivery fleets next\n\nNew models are aimed at last-mile logistics. That's a different customer, with different demands and margins.",
+      "4. Cash vs. burn\n\nThe real race is financial: can River's funds outlast rivals' spending? Every quarter tightens the math.",
+      "5. Watch the burn rate\n\nCheck River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Will you track it?"
+    ],
+    "video_script": [
+      "River raised one twenty million, but focus is tight.",
+      "Only two-wheelers, while rivals build cars. Bold move.",
+      "Next stop: delivery fleets, a new battleground.",
+      "Doubling production now, but cash burn is real.",
+      "Can River outlast competitors? Watch the next round."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. River's $120M gamble\n\nIt's betting everything on two-wheelers while rivals chase cars. The production cap will double, but the road ahead is narrow.",
+          "2. The two-wheeler trap\n\nUnlike competitors, River has no car line to fall back on. Its survival hinges on one bet alone.",
+          "3. Delivery fleets next\n\nNew models are aimed at last-mile logistics. That's a different customer, with different demands and margins.",
+          "4. Cash vs. burn\n\nThe real race is financial: can River's funds outlast rivals' spending? Every quarter tightens the math.",
+          "5. Watch the burn rate\n\nCheck River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Will you track it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "River raised one twenty million, but focus is tight.",
+          "Only two-wheelers, while rivals build cars. Bold move.",
+          "Next stop: delivery fleets, a new battleground.",
+          "Doubling production now, but cash burn is real.",
+          "Can River outlast competitors? Watch the next round."
+        ]
+      },
+      "instagram": {
+        "caption": "$120M just landed in River’s bank account. 🛵\n\nBut here’s the twist: this Indian EV startup sells *only* two-wheelers. No cars to fall back on. Rivals are burning cash across every segment. River is doubling production and betting everything on scooters and next, last-mile delivery fleets.\n\nThe real race isn't tech—it's math. 📉 Can River’s cash outlast its competitors' burn? Every quarter tightens that spreadsheet.\n\nFor you: if you cover mobility or logistics startups, watch their next funding round. If money runs out before sales scale, the deal flow shifts.\n\nAre you tracking burn rates, or just the press releases? 🔍"
+      }
+    },
+    "instagram_caption": "$120M just landed in River’s bank account. 🛵\n\nBut here’s the twist: this Indian EV startup sells *only* two-wheelers. No cars to fall back on. Rivals are burning cash across every segment. River is doubling production and betting everything on scooters and next, last-mile delivery fleets.\n\nThe real race isn't tech—it's math. 📉 Can River’s cash outlast its competitors' burn? Every quarter tightens that spreadsheet.\n\nFor you: if you cover mobility or logistics startups, watch their next funding round. If money runs out before sales scale, the deal flow shifts.\n\nAre you tracking burn rates, or just the press releases? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can one bet survive the EV race?",
+        "description": "River raised $120M but sells only two-wheelers while rivals chase cars. Production will double, but the road narrows.",
+        "visual_hint": "EV scooter on narrow road",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric scooter road"
+      },
+      {
+        "hook": "Two wheels, no escape hatch",
+        "description": "Unlike competitors, River has no car line to fall back on. Its entire survival hinges on this single bet.",
+        "visual_hint": "Scooter beside car shadow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "electric scooter factory",
+        "image": "https://images.pexels.com/photos/26860251/pexels-photo-26860251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delivery fleets: new battlefield",
+        "description": "Next models target last-mile courier fleets. Different customers, different demands, and tighter margins.",
+        "visual_hint": "Delivery scooter with cargo box",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "delivery scooter cargo",
+        "image": "https://images.pexels.com/photos/31881110/pexels-photo-31881110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cash vs. burn: who lasts?",
+        "description": "The real race is financial. River's $120M must outlast rivals' spending. Every quarter tightens the math.",
+        "visual_hint": "Countdown clock over coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "burning money clock",
+        "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Track the burn — save this",
+        "description": "Watch River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Start tracking now.",
+        "visual_hint": "Chart with highlighted burn line",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/river-co-founders-aravind-mani-vipin-george.jpg?resize=1200,800",
+    "savedAt": "2026-08-05T11:51:50.953Z",
+    "sourceId": "c1f01baef67da6ea0a280c1366b0438d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "spacex-made-more-revenue-as-an-ai-company-than-a-s",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "indian-ev-startup-river-raises-120m-series-c-to-sc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+  "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+  "pubDate": "Wed, 05 Aug 2026 11:26:00 +0000",
+  "slides": [
+    "River raised $120M, but can it survive India's EV race?",
+    "The startup now plans to double its production capacity.",
+    "Unlike rivals, River sells only two-wheelers, not cars.",
+    "New models will target last-mile delivery fleets next.",
+    "Watch if River's cash outlasts its competitors' burn."
+  ],
+  "thread_text": [
+    "1. River's $120M gamble\n\nIt's betting everything on two-wheelers while rivals chase cars. The production cap will double, but the road ahead is narrow.",
+    "2. The two-wheeler trap\n\nUnlike competitors, River has no car line to fall back on. Its survival hinges on one bet alone.",
+    "3. Delivery fleets next\n\nNew models are aimed at last-mile logistics. That's a different customer, with different demands and margins.",
+    "4. Cash vs. burn\n\nThe real race is financial: can River's funds outlast rivals' spending? Every quarter tightens the math.",
+    "5. Watch the burn rate\n\nCheck River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Will you track it?"
+  ],
+  "video_script": [
+    "River raised one twenty million, but focus is tight.",
+    "Only two-wheelers, while rivals build cars. Bold move.",
+    "Next stop: delivery fleets, a new battleground.",
+    "Doubling production now, but cash burn is real.",
+    "Can River outlast competitors? Watch the next round."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. River's $120M gamble\n\nIt's betting everything on two-wheelers while rivals chase cars. The production cap will double, but the road ahead is narrow.",
+        "2. The two-wheeler trap\n\nUnlike competitors, River has no car line to fall back on. Its survival hinges on one bet alone.",
+        "3. Delivery fleets next\n\nNew models are aimed at last-mile logistics. That's a different customer, with different demands and margins.",
+        "4. Cash vs. burn\n\nThe real race is financial: can River's funds outlast rivals' spending? Every quarter tightens the math.",
+        "5. Watch the burn rate\n\nCheck River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Will you track it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "River raised one twenty million, but focus is tight.",
+        "Only two-wheelers, while rivals build cars. Bold move.",
+        "Next stop: delivery fleets, a new battleground.",
+        "Doubling production now, but cash burn is real.",
+        "Can River outlast competitors? Watch the next round."
+      ]
+    },
+    "instagram": {
+      "caption": "$120M just landed in River’s bank account. 🛵\n\nBut here’s the twist: this Indian EV startup sells *only* two-wheelers. No cars to fall back on. Rivals are burning cash across every segment. River is doubling production and betting everything on scooters and next, last-mile delivery fleets.\n\nThe real race isn't tech—it's math. 📉 Can River’s cash outlast its competitors' burn? Every quarter tightens that spreadsheet.\n\nFor you: if you cover mobility or logistics startups, watch their next funding round. If money runs out before sales scale, the deal flow shifts.\n\nAre you tracking burn rates, or just the press releases? 🔍"
+    }
+  },
+  "instagram_caption": "$120M just landed in River’s bank account. 🛵\n\nBut here’s the twist: this Indian EV startup sells *only* two-wheelers. No cars to fall back on. Rivals are burning cash across every segment. River is doubling production and betting everything on scooters and next, last-mile delivery fleets.\n\nThe real race isn't tech—it's math. 📉 Can River’s cash outlast its competitors' burn? Every quarter tightens that spreadsheet.\n\nFor you: if you cover mobility or logistics startups, watch their next funding round. If money runs out before sales scale, the deal flow shifts.\n\nAre you tracking burn rates, or just the press releases? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can one bet survive the EV race?",
+      "description": "River raised $120M but sells only two-wheelers while rivals chase cars. Production will double, but the road narrows.",
+      "visual_hint": "EV scooter on narrow road",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric scooter road"
+    },
+    {
+      "hook": "Two wheels, no escape hatch",
+      "description": "Unlike competitors, River has no car line to fall back on. Its entire survival hinges on this single bet.",
+      "visual_hint": "Scooter beside car shadow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "electric scooter factory",
+      "image": "https://images.pexels.com/photos/26860251/pexels-photo-26860251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delivery fleets: new battlefield",
+      "description": "Next models target last-mile courier fleets. Different customers, different demands, and tighter margins.",
+      "visual_hint": "Delivery scooter with cargo box",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "delivery scooter cargo",
+      "image": "https://images.pexels.com/photos/31881110/pexels-photo-31881110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cash vs. burn: who lasts?",
+      "description": "The real race is financial. River's $120M must outlast rivals' spending. Every quarter tightens the math.",
+      "visual_hint": "Countdown clock over coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "burning money clock",
+      "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Track the burn — save this",
+      "description": "Watch River's next funding round or earnings. If cash runs out before sales scale, the bet's off. Start tracking now.",
+      "visual_hint": "Chart with highlighted burn line",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/river-co-founders-aravind-mani-vipin-george.jpg?resize=1200,800",
+  "savedAt": "2026-08-05T11:51:50.953Z",
+  "sourceId": "c1f01baef67da6ea0a280c1366b0438d"
+}
