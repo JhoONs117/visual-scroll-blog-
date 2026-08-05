@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "moove-raises-250m-to-become-the-backbone-of-the-ro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+  "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+  "pubDate": "Wed, 05 Aug 2026 20:50:45 +0000",
+  "slides": [
+    "Why is Moove raising $250M now?",
+    "It finances vehicles for Uber and Bolt drivers",
+    "Most drivers are in Africa, not Silicon Valley",
+    "Your city's robotaxis will rely on this lender",
+    "Watch Moove's debt book for the real signal"
+  ],
+  "thread_text": [
+    "1. Why $250M now?\n\nMoove's latest raise signals aggressive expansion as it underwrites vehicle loans for gig workers in Africa, where default risk is high but growth is explosive.",
+    "2. Not a tech story\n\nThis is a debt play. Moove's value hinges on collecting payments from drivers, not on flashy AI models or Silicon Valley hype.",
+    "3. The global twist\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing backbone for ride-hailing fleets across emerging markets.",
+    "4. The real signal\n\nWatch Moove's loan default rates. If they hold, expect banks to pour into gig-economy lending worldwide.",
+    "5. Your move\n\nTake Moove's public loan data and stress-test it against your local ride-hailing default rates. What would your portfolio look like?"
+  ],
+  "video_script": [
+    "Moove raises two hundred fifty million dollars.",
+    "They finance Uber and Bolt drivers.",
+    "Most drivers are in Africa, not Valley.",
+    "Robotaxis will depend on this lender.",
+    "Watch Moove's debt book closely."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why $250M now?\n\nMoove's latest raise signals aggressive expansion as it underwrites vehicle loans for gig workers in Africa, where default risk is high but growth is explosive.",
+        "2. Not a tech story\n\nThis is a debt play. Moove's value hinges on collecting payments from drivers, not on flashy AI models or Silicon Valley hype.",
+        "3. The global twist\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing backbone for ride-hailing fleets across emerging markets.",
+        "4. The real signal\n\nWatch Moove's loan default rates. If they hold, expect banks to pour into gig-economy lending worldwide.",
+        "5. Your move\n\nTake Moove's public loan data and stress-test it against your local ride-hailing default rates. What would your portfolio look like?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Moove raises two hundred fifty million dollars.",
+        "They finance Uber and Bolt drivers.",
+        "Most drivers are in Africa, not Valley.",
+        "Robotaxis will depend on this lender.",
+        "Watch Moove's debt book closely."
+      ]
+    },
+    "instagram": {
+      "caption": "A $250M raise is happening because Moove underwrites vehicle loans for Uber and Bolt drivers—and most of those drivers are in Africa, not Silicon Valley. 🚗\n\nThis isn’t about AI models. Moove makes money when gig drivers repay their car loans, so their entire bet rests on collecting payments from people with volatile incomes. Default risk is high, but growth is explosive.\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing layer those fleets will need worldwide. Watch their loan default rates—if they hold, banks will flood gig-economy lending everywhere. 📉\n\nFor you: the next time you create content about autonomous fleets, the real signal isn't the sensor tech—it's the debt book. 💸\n\nWhat would your stress test of Moove's public loan data against your local ride-hailing defaults look like?"
+    }
+  },
+  "instagram_caption": "A $250M raise is happening because Moove underwrites vehicle loans for Uber and Bolt drivers—and most of those drivers are in Africa, not Silicon Valley. 🚗\n\nThis isn’t about AI models. Moove makes money when gig drivers repay their car loans, so their entire bet rests on collecting payments from people with volatile incomes. Default risk is high, but growth is explosive.\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing layer those fleets will need worldwide. Watch their loan default rates—if they hold, banks will flood gig-economy lending everywhere. 📉\n\nFor you: the next time you create content about autonomous fleets, the real signal isn't the sensor tech—it's the debt book. 💸\n\nWhat would your stress test of Moove's public loan data against your local ride-hailing defaults look like?",
+  "carousel_slides": [
+    {
+      "hook": "Silicon Valley isn't the battleground.",
+      "description": "Moove's $250M fuels vehicle loans for gig drivers in Africa, where risk meets explosive growth.",
+      "visual_hint": "Map with Africa highlighted",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Africa map"
+    },
+    {
+      "hook": "This isn't a tech story.",
+      "description": "Moove's value hinges on collecting driver payments, not flashy AI or hype.",
+      "visual_hint": "Stack of loan documents",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "loan documents",
+      "image": "https://images.pexels.com/photos/7821466/pexels-photo-7821466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Robotaxis will depend on this lender.",
+      "description": "While cities debate rules, Moove builds the financing backbone for ride-hailing fleets in emerging markets.",
+      "visual_hint": "Self-driving car on road",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "autonomous vehicle",
+      "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch Moove's default rates.",
+      "description": "If they hold, banks will flood gig-economy lending worldwide. The signal is in the debt book.",
+      "visual_hint": "Graph with rising and falling lines",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you invest.",
+      "description": "Stress-test Moove's public loan data against your local ride-hailing defaults. What's your portfolio?",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator and documents",
+      "visual_hint": "Calculator and documents",
+      "image": "https://images.pexels.com/photos/8297030/pexels-photo-8297030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=706",
+  "savedAt": "2026-08-05T20:58:38.666Z",
+  "sourceId": "414f7a43ecb9335a4fdb3112511b5b9a"
+}

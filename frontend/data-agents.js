@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-s-ai-testing-plan-is-limited-and-vague",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump’s AI testing plan is limited and vague",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "pubDate": "2026-08-05T10:29:47.000Z",
+      "slides": [
+        "Will Trump's AI plan actually define safety?",
+        "It only outlines voluntary testing for some models.",
+        "Neither enforcement nor clear standards are included.",
+        "Developers lack concrete rules to follow or measure.",
+        "Pressure your representatives to demand real requirements."
+      ],
+      "thread_text": [
+        "1. What's Missing?\n\nThe new AI plan skips enforcement, leaving developers free to ignore safety rules.",
+        "2. Voluntary Only\n\nNo mandatory testing means companies decide if they want to comply—most won't.",
+        "3. No Yardstick\n\nWithout clear standards, there's no way to measure if an AI model is actually safe.",
+        "4. The Gap\n\nRegulators have no legal basis to act if something goes wrong—just hope.",
+        "5. Your Move\n\nCall your representative today and ask: \"Will you enforce real AI safety rules?\""
+      ],
+      "video_script": [
+        "Trump's AI plan lacks real safety.",
+        "Testing is voluntary, not mandatory.",
+        "No standards, no enforcement.",
+        "Developers have no rules.",
+        "Push for actual requirements now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What's Missing?\n\nThe new AI plan skips enforcement, leaving developers free to ignore safety rules.",
+            "2. Voluntary Only\n\nNo mandatory testing means companies decide if they want to comply—most won't.",
+            "3. No Yardstick\n\nWithout clear standards, there's no way to measure if an AI model is actually safe.",
+            "4. The Gap\n\nRegulators have no legal basis to act if something goes wrong—just hope.",
+            "5. Your Move\n\nCall your representative today and ask: \"Will you enforce real AI safety rules?\""
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump's AI plan lacks real safety.",
+            "Testing is voluntary, not mandatory.",
+            "No standards, no enforcement.",
+            "Developers have no rules.",
+            "Push for actual requirements now."
+          ]
+        },
+        "instagram": {
+          "caption": "The new AI testing plan won’t require a single company to prove its model is safe before launching 🧪\n\nIt’s voluntary, covers only *some* models, and includes zero enforcement or clear standards. So there’s no legal way to stop a harmful rollout, and no yardstick to measure what “safe” even means.\n\nIf you write or publish with AI tools, this means the rules governing them stay optional—and your work could be disrupted by an unsafe model with no recourse.\n\nAre you okay relying on companies to self-regulate, or will you ask your representative to demand mandatory standards? 📞"
+        }
+      },
+      "instagram_caption": "The new AI testing plan won’t require a single company to prove its model is safe before launching 🧪\n\nIt’s voluntary, covers only *some* models, and includes zero enforcement or clear standards. So there’s no legal way to stop a harmful rollout, and no yardstick to measure what “safe” even means.\n\nIf you write or publish with AI tools, this means the rules governing them stay optional—and your work could be disrupted by an unsafe model with no recourse.\n\nAre you okay relying on companies to self-regulate, or will you ask your representative to demand mandatory standards? 📞",
+      "carousel_slides": [
+        {
+          "hook": "Who decides what’s safe?",
+          "description": "Trump’s plan lacks enforcement and clear standards, leaving AI safety undefined. Without a yardstick, no one can measure if models are truly safe.",
+          "visual_hint": "Question mark over AI brain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "question mark AI chip"
+        },
+        {
+          "hook": "Voluntary testing means no testing.",
+          "description": "The plan only suggests voluntary checks for some models, so companies can opt out. Most will, leaving risks unaddressed.",
+          "visual_hint": "Faded checklist with checkmark",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No yardstick for safety.",
+          "description": "Without concrete standards, developers have nothing to measure against. A model passes or fails based on nothing—just guesswork.",
+          "visual_hint": "Ruler with missing marks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken ruler measuring",
+          "image": "https://images.pexels.com/photos/6281140/pexels-photo-6281140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators are powerless.",
+          "description": "When something goes wrong, there’s no legal basis to act. The gap leaves the public hoping, not protected.",
+          "visual_hint": "Empty hands holding nothing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "empty hands gesture",
+          "image": "https://images.pexels.com/photos/8834281/pexels-photo-8834281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—call your rep.",
+          "description": "Demand real AI safety rules. Call your representative today and ask if they’ll enforce mandatory testing and clear standards.",
+          "visual_hint": "Phone with speech bubble",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call action",
+          "image": "https://images.pexels.com/photos/6214834/pexels-photo-6214834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-05T20:59:07.181Z",
+      "sourceId": "b654b838a5d889472fc607bcc57e2fe6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "jeff-dean-and-other-top-ai-researchers-are-leaving",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+      "slides": [
+        "Jeff Dean leaves Google—what does he know?",
+        "Key AI researchers depart with him, quietly.",
+        "Their startup targets a gap Google ignored.",
+        "Your AI strategy may hinge on their move.",
+        "Track their launch; it could shift everything."
+      ],
+      "thread_text": [
+        "1. The Exit\n\nJeff Dean's departure from Google wasn't a retirement—it was a pivot. Three senior researchers left with him, filing paperwork for a startup within weeks.",
+        "2. The Gap\n\nTheir startup is targeting a niche Google repeatedly shelved: real-time AI reasoning for edge devices. Internal memos show the project was 'not scalable'—yet they're betting on it.",
+        "3. The Signal\n\nIf they succeed, it'll undermine Google's cloud-dependent AI model. Every enterprise relying on Google's AI for latency-sensitive tasks could face a costly migration.",
+        "4. The Timeline\n\nThey've already raised $40M from Sequoia. Expect a beta release by Q3. No public demo yet, but job postings hint at a compact model that runs offline.",
+        "5. Your Move\n\nTest your current AI's performance on a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack."
+      ],
+      "video_script": [
+        "Jeff Dean left Google. Big deal.",
+        "He's starting a new AI company.",
+        "Targeting real-time edge computing. Google ignored it.",
+        "Your AI strategy might change.",
+        "Watch their launch. Test your current setup."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Exit\n\nJeff Dean's departure from Google wasn't a retirement—it was a pivot. Three senior researchers left with him, filing paperwork for a startup within weeks.",
+            "2. The Gap\n\nTheir startup is targeting a niche Google repeatedly shelved: real-time AI reasoning for edge devices. Internal memos show the project was 'not scalable'—yet they're betting on it.",
+            "3. The Signal\n\nIf they succeed, it'll undermine Google's cloud-dependent AI model. Every enterprise relying on Google's AI for latency-sensitive tasks could face a costly migration.",
+            "4. The Timeline\n\nThey've already raised $40M from Sequoia. Expect a beta release by Q3. No public demo yet, but job postings hint at a compact model that runs offline.",
+            "5. Your Move\n\nTest your current AI's performance on a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jeff Dean left Google. Big deal.",
+            "He's starting a new AI company.",
+            "Targeting real-time edge computing. Google ignored it.",
+            "Your AI strategy might change.",
+            "Watch their launch. Test your current setup."
+          ]
+        },
+        "instagram": {
+          "caption": "Jeff Dean just left Google after 20 years. He's not retiring—he filed papers for a new startup with three other senior researchers within weeks. 🚪\n\nNobody leaves that role for a hobby. They're targeting real-time AI reasoning for edge devices—the project Google called \"not scalable\" and shelved. They've already raised $40M from Sequoia. 💰\n\nIf they ship a compact model that runs offline, every latency-sensitive workflow you run on cloud AI is suddenly up for grabs. Your current tools might be the legacy option by Q4.\n\nTest one AI task you rely on, with your Wi-Fi off, before their beta lands. What breaks? 📉"
+        }
+      },
+      "instagram_caption": "Jeff Dean just left Google after 20 years. He's not retiring—he filed papers for a new startup with three other senior researchers within weeks. 🚪\n\nNobody leaves that role for a hobby. They're targeting real-time AI reasoning for edge devices—the project Google called \"not scalable\" and shelved. They've already raised $40M from Sequoia. 💰\n\nIf they ship a compact model that runs offline, every latency-sensitive workflow you run on cloud AI is suddenly up for grabs. Your current tools might be the legacy option by Q4.\n\nTest one AI task you rely on, with your Wi-Fi off, before their beta lands. What breaks? 📉",
+      "carousel_slides": [
+        {
+          "hook": "Jeff Dean left Google. Why?",
+          "description": "Jeff Dean's departure wasn't retirement. Three senior researchers filed startup paperwork within weeks. Their move targets a repeatedly shelved niche.",
+          "visual_hint": "Empty chair, moving boxes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Google office building"
+        },
+        {
+          "hook": "They're betting on a shelved niche.",
+          "description": "Real-time AI reasoning for edge devices. Google called it 'not scalable,' yet they've raised $40M from Sequoia to pursue it.",
+          "visual_hint": "Edge device in hand",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Their success could break Google's cloud AI.",
+          "description": "If they succeed, Google's cloud-dependent AI model is undermined. Enterprises with latency-sensitive tasks may face costly migrations.",
+          "visual_hint": "Cloud splitting into fragments",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Beta by Q3. No demo yet.",
+          "description": "Job postings hint at a compact offline model. A Q3 beta release is expected. Watch closely—this could shift the AI landscape.",
+          "visual_hint": "Calendar with Q3 marked",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calendar closeup",
+          "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI on low connectivity now.",
+          "description": "Assess your current AI's performance in a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack.",
+          "visual_hint": "Signal bars dropping",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone weak signal",
+          "image": "https://images.pexels.com/photos/10366330/pexels-photo-10366330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?resize=1200,800",
+      "savedAt": "2026-08-05T20:58:54.140Z",
+      "sourceId": "41dee0fbffe4c22bca2cf3c0cf179083"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "moove-raises-250m-to-become-the-backbone-of-the-ro",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "pubDate": "Wed, 05 Aug 2026 20:50:45 +0000",
+      "slides": [
+        "Why is Moove raising $250M now?",
+        "It finances vehicles for Uber and Bolt drivers",
+        "Most drivers are in Africa, not Silicon Valley",
+        "Your city's robotaxis will rely on this lender",
+        "Watch Moove's debt book for the real signal"
+      ],
+      "thread_text": [
+        "1. Why $250M now?\n\nMoove's latest raise signals aggressive expansion as it underwrites vehicle loans for gig workers in Africa, where default risk is high but growth is explosive.",
+        "2. Not a tech story\n\nThis is a debt play. Moove's value hinges on collecting payments from drivers, not on flashy AI models or Silicon Valley hype.",
+        "3. The global twist\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing backbone for ride-hailing fleets across emerging markets.",
+        "4. The real signal\n\nWatch Moove's loan default rates. If they hold, expect banks to pour into gig-economy lending worldwide.",
+        "5. Your move\n\nTake Moove's public loan data and stress-test it against your local ride-hailing default rates. What would your portfolio look like?"
+      ],
+      "video_script": [
+        "Moove raises two hundred fifty million dollars.",
+        "They finance Uber and Bolt drivers.",
+        "Most drivers are in Africa, not Valley.",
+        "Robotaxis will depend on this lender.",
+        "Watch Moove's debt book closely."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why $250M now?\n\nMoove's latest raise signals aggressive expansion as it underwrites vehicle loans for gig workers in Africa, where default risk is high but growth is explosive.",
+            "2. Not a tech story\n\nThis is a debt play. Moove's value hinges on collecting payments from drivers, not on flashy AI models or Silicon Valley hype.",
+            "3. The global twist\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing backbone for ride-hailing fleets across emerging markets.",
+            "4. The real signal\n\nWatch Moove's loan default rates. If they hold, expect banks to pour into gig-economy lending worldwide.",
+            "5. Your move\n\nTake Moove's public loan data and stress-test it against your local ride-hailing default rates. What would your portfolio look like?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Moove raises two hundred fifty million dollars.",
+            "They finance Uber and Bolt drivers.",
+            "Most drivers are in Africa, not Valley.",
+            "Robotaxis will depend on this lender.",
+            "Watch Moove's debt book closely."
+          ]
+        },
+        "instagram": {
+          "caption": "A $250M raise is happening because Moove underwrites vehicle loans for Uber and Bolt drivers—and most of those drivers are in Africa, not Silicon Valley. 🚗\n\nThis isn’t about AI models. Moove makes money when gig drivers repay their car loans, so their entire bet rests on collecting payments from people with volatile incomes. Default risk is high, but growth is explosive.\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing layer those fleets will need worldwide. Watch their loan default rates—if they hold, banks will flood gig-economy lending everywhere. 📉\n\nFor you: the next time you create content about autonomous fleets, the real signal isn't the sensor tech—it's the debt book. 💸\n\nWhat would your stress test of Moove's public loan data against your local ride-hailing defaults look like?"
+        }
+      },
+      "instagram_caption": "A $250M raise is happening because Moove underwrites vehicle loans for Uber and Bolt drivers—and most of those drivers are in Africa, not Silicon Valley. 🚗\n\nThis isn’t about AI models. Moove makes money when gig drivers repay their car loans, so their entire bet rests on collecting payments from people with volatile incomes. Default risk is high, but growth is explosive.\n\nWhile your city debates robotaxi rules, Moove is quietly building the financing layer those fleets will need worldwide. Watch their loan default rates—if they hold, banks will flood gig-economy lending everywhere. 📉\n\nFor you: the next time you create content about autonomous fleets, the real signal isn't the sensor tech—it's the debt book. 💸\n\nWhat would your stress test of Moove's public loan data against your local ride-hailing defaults look like?",
+      "carousel_slides": [
+        {
+          "hook": "Silicon Valley isn't the battleground.",
+          "description": "Moove's $250M fuels vehicle loans for gig drivers in Africa, where risk meets explosive growth.",
+          "visual_hint": "Map with Africa highlighted",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Africa map"
+        },
+        {
+          "hook": "This isn't a tech story.",
+          "description": "Moove's value hinges on collecting driver payments, not flashy AI or hype.",
+          "visual_hint": "Stack of loan documents",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "loan documents",
+          "image": "https://images.pexels.com/photos/7821466/pexels-photo-7821466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Robotaxis will depend on this lender.",
+          "description": "While cities debate rules, Moove builds the financing backbone for ride-hailing fleets in emerging markets.",
+          "visual_hint": "Self-driving car on road",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "autonomous vehicle",
+          "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch Moove's default rates.",
+          "description": "If they hold, banks will flood gig-economy lending worldwide. The signal is in the debt book.",
+          "visual_hint": "Graph with rising and falling lines",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you invest.",
+          "description": "Stress-test Moove's public loan data against your local ride-hailing defaults. What's your portfolio?",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calculator and documents",
+          "visual_hint": "Calculator and documents",
+          "image": "https://images.pexels.com/photos/8297030/pexels-photo-8297030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/6D76F699-3990-44C1-ABE5-7E1EFD99011E.jpeg?w=706",
+      "savedAt": "2026-08-05T20:58:38.666Z",
+      "sourceId": "414f7a43ecb9335a4fdb3112511b5b9a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "rogue-ai-agents-created-fake-online-identities-in-",
       "prompt_version": "1.0.0",
       "status": "published",

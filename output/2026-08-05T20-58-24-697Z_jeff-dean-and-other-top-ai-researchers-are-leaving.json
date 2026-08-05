@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jeff-dean-and-other-top-ai-researchers-are-leaving",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+  "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+  "pubDate": "Wed, 05 Aug 2026 19:30:19 +0000",
+  "slides": [
+    "Jeff Dean leaves Google—what does he know?",
+    "Key AI researchers depart with him, quietly.",
+    "Their startup targets a gap Google ignored.",
+    "Your AI strategy may hinge on their move.",
+    "Track their launch; it could shift everything."
+  ],
+  "thread_text": [
+    "1. The Exit\n\nJeff Dean's departure from Google wasn't a retirement—it was a pivot. Three senior researchers left with him, filing paperwork for a startup within weeks.",
+    "2. The Gap\n\nTheir startup is targeting a niche Google repeatedly shelved: real-time AI reasoning for edge devices. Internal memos show the project was 'not scalable'—yet they're betting on it.",
+    "3. The Signal\n\nIf they succeed, it'll undermine Google's cloud-dependent AI model. Every enterprise relying on Google's AI for latency-sensitive tasks could face a costly migration.",
+    "4. The Timeline\n\nThey've already raised $40M from Sequoia. Expect a beta release by Q3. No public demo yet, but job postings hint at a compact model that runs offline.",
+    "5. Your Move\n\nTest your current AI's performance on a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack."
+  ],
+  "video_script": [
+    "Jeff Dean left Google. Big deal.",
+    "He's starting a new AI company.",
+    "Targeting real-time edge computing. Google ignored it.",
+    "Your AI strategy might change.",
+    "Watch their launch. Test your current setup."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Exit\n\nJeff Dean's departure from Google wasn't a retirement—it was a pivot. Three senior researchers left with him, filing paperwork for a startup within weeks.",
+        "2. The Gap\n\nTheir startup is targeting a niche Google repeatedly shelved: real-time AI reasoning for edge devices. Internal memos show the project was 'not scalable'—yet they're betting on it.",
+        "3. The Signal\n\nIf they succeed, it'll undermine Google's cloud-dependent AI model. Every enterprise relying on Google's AI for latency-sensitive tasks could face a costly migration.",
+        "4. The Timeline\n\nThey've already raised $40M from Sequoia. Expect a beta release by Q3. No public demo yet, but job postings hint at a compact model that runs offline.",
+        "5. Your Move\n\nTest your current AI's performance on a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jeff Dean left Google. Big deal.",
+        "He's starting a new AI company.",
+        "Targeting real-time edge computing. Google ignored it.",
+        "Your AI strategy might change.",
+        "Watch their launch. Test your current setup."
+      ]
+    },
+    "instagram": {
+      "caption": "Jeff Dean just left Google after 20 years. He's not retiring—he filed papers for a new startup with three other senior researchers within weeks. 🚪\n\nNobody leaves that role for a hobby. They're targeting real-time AI reasoning for edge devices—the project Google called \"not scalable\" and shelved. They've already raised $40M from Sequoia. 💰\n\nIf they ship a compact model that runs offline, every latency-sensitive workflow you run on cloud AI is suddenly up for grabs. Your current tools might be the legacy option by Q4.\n\nTest one AI task you rely on, with your Wi-Fi off, before their beta lands. What breaks? 📉"
+    }
+  },
+  "instagram_caption": "Jeff Dean just left Google after 20 years. He's not retiring—he filed papers for a new startup with three other senior researchers within weeks. 🚪\n\nNobody leaves that role for a hobby. They're targeting real-time AI reasoning for edge devices—the project Google called \"not scalable\" and shelved. They've already raised $40M from Sequoia. 💰\n\nIf they ship a compact model that runs offline, every latency-sensitive workflow you run on cloud AI is suddenly up for grabs. Your current tools might be the legacy option by Q4.\n\nTest one AI task you rely on, with your Wi-Fi off, before their beta lands. What breaks? 📉",
+  "carousel_slides": [
+    {
+      "hook": "Jeff Dean left Google. Why?",
+      "description": "Jeff Dean's departure wasn't retirement. Three senior researchers filed startup paperwork within weeks. Their move targets a repeatedly shelved niche.",
+      "visual_hint": "Empty chair, moving boxes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Google office building"
+    },
+    {
+      "hook": "They're betting on a shelved niche.",
+      "description": "Real-time AI reasoning for edge devices. Google called it 'not scalable,' yet they've raised $40M from Sequoia to pursue it.",
+      "visual_hint": "Edge device in hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Their success could break Google's cloud AI.",
+      "description": "If they succeed, Google's cloud-dependent AI model is undermined. Enterprises with latency-sensitive tasks may face costly migrations.",
+      "visual_hint": "Cloud splitting into fragments",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Beta by Q3. No demo yet.",
+      "description": "Job postings hint at a compact offline model. A Q3 beta release is expected. Watch closely—this could shift the AI landscape.",
+      "visual_hint": "Calendar with Q3 marked",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calendar closeup",
+      "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI on low connectivity now.",
+      "description": "Assess your current AI's performance in a low-connectivity scenario this week. If it fails, their launch might be your exit ramp—or your next stack.",
+      "visual_hint": "Signal bars dropping",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone weak signal",
+      "image": "https://images.pexels.com/photos/10366330/pexels-photo-10366330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?resize=1200,800",
+  "savedAt": "2026-08-05T20:58:54.140Z",
+  "sourceId": "41dee0fbffe4c22bca2cf3c0cf179083"
+}

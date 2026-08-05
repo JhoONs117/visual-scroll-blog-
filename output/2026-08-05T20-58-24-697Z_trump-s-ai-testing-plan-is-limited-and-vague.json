@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-ai-testing-plan-is-limited-and-vague",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s AI testing plan is limited and vague",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+  "pubDate": "2026-08-05T10:29:47.000Z",
+  "slides": [
+    "Will Trump's AI plan actually define safety?",
+    "It only outlines voluntary testing for some models.",
+    "Neither enforcement nor clear standards are included.",
+    "Developers lack concrete rules to follow or measure.",
+    "Pressure your representatives to demand real requirements."
+  ],
+  "thread_text": [
+    "1. What's Missing?\n\nThe new AI plan skips enforcement, leaving developers free to ignore safety rules.",
+    "2. Voluntary Only\n\nNo mandatory testing means companies decide if they want to comply—most won't.",
+    "3. No Yardstick\n\nWithout clear standards, there's no way to measure if an AI model is actually safe.",
+    "4. The Gap\n\nRegulators have no legal basis to act if something goes wrong—just hope.",
+    "5. Your Move\n\nCall your representative today and ask: \"Will you enforce real AI safety rules?\""
+  ],
+  "video_script": [
+    "Trump's AI plan lacks real safety.",
+    "Testing is voluntary, not mandatory.",
+    "No standards, no enforcement.",
+    "Developers have no rules.",
+    "Push for actual requirements now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What's Missing?\n\nThe new AI plan skips enforcement, leaving developers free to ignore safety rules.",
+        "2. Voluntary Only\n\nNo mandatory testing means companies decide if they want to comply—most won't.",
+        "3. No Yardstick\n\nWithout clear standards, there's no way to measure if an AI model is actually safe.",
+        "4. The Gap\n\nRegulators have no legal basis to act if something goes wrong—just hope.",
+        "5. Your Move\n\nCall your representative today and ask: \"Will you enforce real AI safety rules?\""
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump's AI plan lacks real safety.",
+        "Testing is voluntary, not mandatory.",
+        "No standards, no enforcement.",
+        "Developers have no rules.",
+        "Push for actual requirements now."
+      ]
+    },
+    "instagram": {
+      "caption": "The new AI testing plan won’t require a single company to prove its model is safe before launching 🧪\n\nIt’s voluntary, covers only *some* models, and includes zero enforcement or clear standards. So there’s no legal way to stop a harmful rollout, and no yardstick to measure what “safe” even means.\n\nIf you write or publish with AI tools, this means the rules governing them stay optional—and your work could be disrupted by an unsafe model with no recourse.\n\nAre you okay relying on companies to self-regulate, or will you ask your representative to demand mandatory standards? 📞"
+    }
+  },
+  "instagram_caption": "The new AI testing plan won’t require a single company to prove its model is safe before launching 🧪\n\nIt’s voluntary, covers only *some* models, and includes zero enforcement or clear standards. So there’s no legal way to stop a harmful rollout, and no yardstick to measure what “safe” even means.\n\nIf you write or publish with AI tools, this means the rules governing them stay optional—and your work could be disrupted by an unsafe model with no recourse.\n\nAre you okay relying on companies to self-regulate, or will you ask your representative to demand mandatory standards? 📞",
+  "carousel_slides": [
+    {
+      "hook": "Who decides what’s safe?",
+      "description": "Trump’s plan lacks enforcement and clear standards, leaving AI safety undefined. Without a yardstick, no one can measure if models are truly safe.",
+      "visual_hint": "Question mark over AI brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "question mark AI chip"
+    },
+    {
+      "hook": "Voluntary testing means no testing.",
+      "description": "The plan only suggests voluntary checks for some models, so companies can opt out. Most will, leaving risks unaddressed.",
+      "visual_hint": "Faded checklist with checkmark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No yardstick for safety.",
+      "description": "Without concrete standards, developers have nothing to measure against. A model passes or fails based on nothing—just guesswork.",
+      "visual_hint": "Ruler with missing marks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken ruler measuring",
+      "image": "https://images.pexels.com/photos/6281140/pexels-photo-6281140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators are powerless.",
+      "description": "When something goes wrong, there’s no legal basis to act. The gap leaves the public hoping, not protected.",
+      "visual_hint": "Empty hands holding nothing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty hands gesture",
+      "image": "https://images.pexels.com/photos/8834281/pexels-photo-8834281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—call your rep.",
+      "description": "Demand real AI safety rules. Call your representative today and ask if they’ll enforce mandatory testing and clear standards.",
+      "visual_hint": "Phone with speech bubble",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone call action",
+      "image": "https://images.pexels.com/photos/6214834/pexels-photo-6214834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-05T20:59:07.181Z",
+  "sourceId": "b654b838a5d889472fc607bcc57e2fe6"
+}
