@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hark-previews-its-browser-use-agent-for-completing",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hark previews its browser use agent for completing tasks",
+  "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+  "pubDate": "Wed, 05 Aug 2026 15:46:27 +0000",
+  "slides": [
+    "Hark's new agent browses the web—but how far can it go?",
+    "It performs tasks autonomously—yet needs user supervision.",
+    "Unlike assistants, it acts—but still struggles with CAPTCHAs.",
+    "Before adopting, audit which tasks truly benefit from automation.",
+    "Test Hark on one repetitive workflow this week yourself."
+  ],
+  "thread_text": [
+    "1. How far can it really go?\n\nHark's agent can browse and act on its own, but it still trips over CAPTCHAs—a reminder that full autonomy is a myth.",
+    "2. Autonomy with a leash\n\nIt handles tasks solo, yet requires constant user oversight. You're not delegating; you're supervising a digital intern.",
+    "3. Act, don't just suggest\n\nUnlike typical assistants, Hark executes actions. But that power comes with a catch: it can't solve CAPTCHAs, so some doors stay locked.",
+    "4. Audit before you adopt\n\nNot every workflow benefits from automation. Evaluate which tasks actually save time—avoid automating chaos.",
+    "5. Test it yourself this week\n\nPick one repetitive workflow and run it on Hark. Does it cut your effort, or just add review time? Decide after the trial."
+  ],
+  "video_script": [
+    "Hark browses the web for you.",
+    "But it needs your supervision constantly.",
+    "It acts, yet fails at CAPTCHAs.",
+    "Audit tasks before adopting automation.",
+    "Test Hark on one workflow now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. How far can it really go?\n\nHark's agent can browse and act on its own, but it still trips over CAPTCHAs—a reminder that full autonomy is a myth.",
+        "2. Autonomy with a leash\n\nIt handles tasks solo, yet requires constant user oversight. You're not delegating; you're supervising a digital intern.",
+        "3. Act, don't just suggest\n\nUnlike typical assistants, Hark executes actions. But that power comes with a catch: it can't solve CAPTCHAs, so some doors stay locked.",
+        "4. Audit before you adopt\n\nNot every workflow benefits from automation. Evaluate which tasks actually save time—avoid automating chaos.",
+        "5. Test it yourself this week\n\nPick one repetitive workflow and run it on Hark. Does it cut your effort, or just add review time? Decide after the trial."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hark browses the web for you.",
+        "But it needs your supervision constantly.",
+        "It acts, yet fails at CAPTCHAs.",
+        "Audit tasks before adopting automation.",
+        "Test Hark on one workflow now."
+      ]
+    },
+    "instagram": {
+      "caption": "You hand a browser task to Hark’s new agent, and it clicks, types, and navigates on its own—until it hits a CAPTCHA and freezes 🛑.  \n\nThe agent executes actions instead of just suggesting them, but it still needs you watching over its shoulder. It’s not full delegation; it’s supervising a digital intern 🧑‍💻. Hark can’t crack those “prove you’re human” checks, so some doors stay locked no matter how autonomous it gets.  \n\nFor your workflow, that means testing before trusting: pick one repetitive task—like scraping a dashboard or filling a form—and run it this week ⏱️.  \n\nWhich of your daily clicks would you actually let it take over?"
+    }
+  },
+  "instagram_caption": "You hand a browser task to Hark’s new agent, and it clicks, types, and navigates on its own—until it hits a CAPTCHA and freezes 🛑.  \n\nThe agent executes actions instead of just suggesting them, but it still needs you watching over its shoulder. It’s not full delegation; it’s supervising a digital intern 🧑‍💻. Hark can’t crack those “prove you’re human” checks, so some doors stay locked no matter how autonomous it gets.  \n\nFor your workflow, that means testing before trusting: pick one repetitive task—like scraping a dashboard or filling a form—and run it this week ⏱️.  \n\nWhich of your daily clicks would you actually let it take over?",
+  "carousel_slides": [
+    {
+      "hook": "Full autonomy is a myth?",
+      "description": "Hark’s agent can browse and act alone, but CAPTCHAs still trip it up. True independence remains elusive.",
+      "visual_hint": "Robot hand reaching for lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand lock"
+    },
+    {
+      "hook": "Autonomy with a leash",
+      "description": "Hark handles tasks solo, yet demands constant supervision. You’re not delegating—you’re babysitting a digital intern.",
+      "visual_hint": "Person monitoring multiple screens",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control room screens",
+      "image": "https://images.pexels.com/photos/9574336/pexels-photo-9574336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Action over advice",
+      "description": "Unlike assistants, Hark executes tasks. But CAPTCHAs block it, so some doors stay locked.",
+      "visual_hint": "Finger pressing button",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit before you adopt",
+      "description": "Not every workflow benefits from automation. Evaluate which tasks save time—avoid automating chaos.",
+      "visual_hint": "Magnifying glass over checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Hark yourself this week",
+      "description": "Pick one repetitive workflow and run it on Hark. See if it cuts effort or just adds review time. Decide after.",
+      "visual_hint": "Hand pointing at calendar date",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar hand pointing",
+      "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?resize=1200,596",
+  "savedAt": "2026-08-05T15:55:02.301Z",
+  "sourceId": "844e872cde08ee5eec964100896cd1cc"
+}

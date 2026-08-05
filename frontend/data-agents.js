@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-is-hiring-an-ai-chip-design-team",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic is hiring an AI chip design team",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "pubDate": "Wed, 05 Aug 2026 14:13:18 +0000",
+      "slides": [
+        "Who builds the chips that think like humans?",
+        "Anthropic just hired a specialized chip design team.",
+        "Their own silicon could beat Nvidia's current dominance.",
+        "That shifts AI's computing foundation beneath your feet.",
+        "Watch which AI model runs fastest by year-end."
+      ],
+      "thread_text": [
+        "1. Who's Next?\n\nAnthropic just hired a specialized chip design team, signaling a shift from relying on Nvidia's GPUs to building their own silicon.",
+        "2. The Silicon Shift\n\nTheir custom chips could beat Nvidia's current dominance, potentially redefining AI's hardware landscape within a few years.",
+        "3. Race to the Core\n\nThis move challenges the assumption that Nvidia is invincible, opening the door for specialized AI accelerators to gain ground.",
+        "4. Ground Beneath Feet\n\nAs AI's computing foundation changes, the software and models you use daily may run on entirely different hardware sooner than you think.",
+        "5. Your Move\n\nWatch which AI model runs fastest by year-end. Are you ready to switch if a new chip powers the speed?"
+      ],
+      "video_script": [
+        "Anthropic hires chip designers.",
+        "They aim to beat Nvidia.",
+        "This shifts AI computing basics.",
+        "Watch model speeds closely.",
+        "Will you adapt to change?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's Next?\n\nAnthropic just hired a specialized chip design team, signaling a shift from relying on Nvidia's GPUs to building their own silicon.",
+            "2. The Silicon Shift\n\nTheir custom chips could beat Nvidia's current dominance, potentially redefining AI's hardware landscape within a few years.",
+            "3. Race to the Core\n\nThis move challenges the assumption that Nvidia is invincible, opening the door for specialized AI accelerators to gain ground.",
+            "4. Ground Beneath Feet\n\nAs AI's computing foundation changes, the software and models you use daily may run on entirely different hardware sooner than you think.",
+            "5. Your Move\n\nWatch which AI model runs fastest by year-end. Are you ready to switch if a new chip powers the speed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic hires chip designers.",
+            "They aim to beat Nvidia.",
+            "This shifts AI computing basics.",
+            "Watch model speeds closely.",
+            "Will you adapt to change?"
+          ]
+        },
+        "instagram": {
+          "caption": "The chips that power your favorite AI tools just got a new competitor. 🏭\n\nAnthropic, the company behind Claude, just hired a full team dedicated to designing their own AI chips. Right now, they rely on Nvidia—the same supplier everyone else uses. Building their own silicon means they control the speed and cost of their models directly.\n\nThis matters for you because the AI you use daily could become faster or cheaper to run. If their custom chips beat Nvidia’s, the next big speed jump might not come from OpenAI or Google—but from the hardware underneath.\n\nIf your workflow depends on AI output speed, which model will you test first when the new chips land? ⏱️"
+        }
+      },
+      "instagram_caption": "The chips that power your favorite AI tools just got a new competitor. 🏭\n\nAnthropic, the company behind Claude, just hired a full team dedicated to designing their own AI chips. Right now, they rely on Nvidia—the same supplier everyone else uses. Building their own silicon means they control the speed and cost of their models directly.\n\nThis matters for you because the AI you use daily could become faster or cheaper to run. If their custom chips beat Nvidia’s, the next big speed jump might not come from OpenAI or Google—but from the hardware underneath.\n\nIf your workflow depends on AI output speed, which model will you test first when the new chips land? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Could Anthropic beat Nvidia?",
+          "description": "Anthropic hired a chip design team to build custom silicon, potentially outperforming Nvidia's GPUs within years.",
+          "visual_hint": "Anthropic logo over circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board closeup"
+        },
+        {
+          "hook": "Custom chips vs. Nvidia's reign.",
+          "description": "Their own silicon could challenge Nvidia's dominance, redefining AI hardware and reducing dependency on external GPUs.",
+          "visual_hint": "Silicon chip with racing stripes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "microchip on motherboard",
+          "image": "https://images.pexels.com/photos/30847268/pexels-photo-30847268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The chip that thinks differently.",
+          "description": "Specialized AI accelerators may gain ground, unsettling the assumption that Nvidia is invincible in AI computing.",
+          "visual_hint": "Chip with neural network overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "artificial intelligence chip",
+          "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI's new foundation.",
+          "description": "As chips change, daily AI tools may run on unfamiliar hardware sooner than expected, altering performance and speed.",
+          "visual_hint": "Hand holding a glowing chip",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding microchip",
+          "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to track the race.",
+          "description": "Save this post and watch which AI model runs fastest by year-end. Ready to switch if a new chip wins?",
+          "visual_hint": "Finger pressing save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone with app icons",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+      "savedAt": "2026-08-05T15:55:15.872Z",
+      "sourceId": "e911d06afa88ad64ecfea1717b715cf1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hark-previews-its-browser-use-agent-for-completing",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "pubDate": "Wed, 05 Aug 2026 15:46:27 +0000",
+      "slides": [
+        "Hark's new agent browses the web—but how far can it go?",
+        "It performs tasks autonomously—yet needs user supervision.",
+        "Unlike assistants, it acts—but still struggles with CAPTCHAs.",
+        "Before adopting, audit which tasks truly benefit from automation.",
+        "Test Hark on one repetitive workflow this week yourself."
+      ],
+      "thread_text": [
+        "1. How far can it really go?\n\nHark's agent can browse and act on its own, but it still trips over CAPTCHAs—a reminder that full autonomy is a myth.",
+        "2. Autonomy with a leash\n\nIt handles tasks solo, yet requires constant user oversight. You're not delegating; you're supervising a digital intern.",
+        "3. Act, don't just suggest\n\nUnlike typical assistants, Hark executes actions. But that power comes with a catch: it can't solve CAPTCHAs, so some doors stay locked.",
+        "4. Audit before you adopt\n\nNot every workflow benefits from automation. Evaluate which tasks actually save time—avoid automating chaos.",
+        "5. Test it yourself this week\n\nPick one repetitive workflow and run it on Hark. Does it cut your effort, or just add review time? Decide after the trial."
+      ],
+      "video_script": [
+        "Hark browses the web for you.",
+        "But it needs your supervision constantly.",
+        "It acts, yet fails at CAPTCHAs.",
+        "Audit tasks before adopting automation.",
+        "Test Hark on one workflow now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. How far can it really go?\n\nHark's agent can browse and act on its own, but it still trips over CAPTCHAs—a reminder that full autonomy is a myth.",
+            "2. Autonomy with a leash\n\nIt handles tasks solo, yet requires constant user oversight. You're not delegating; you're supervising a digital intern.",
+            "3. Act, don't just suggest\n\nUnlike typical assistants, Hark executes actions. But that power comes with a catch: it can't solve CAPTCHAs, so some doors stay locked.",
+            "4. Audit before you adopt\n\nNot every workflow benefits from automation. Evaluate which tasks actually save time—avoid automating chaos.",
+            "5. Test it yourself this week\n\nPick one repetitive workflow and run it on Hark. Does it cut your effort, or just add review time? Decide after the trial."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hark browses the web for you.",
+            "But it needs your supervision constantly.",
+            "It acts, yet fails at CAPTCHAs.",
+            "Audit tasks before adopting automation.",
+            "Test Hark on one workflow now."
+          ]
+        },
+        "instagram": {
+          "caption": "You hand a browser task to Hark’s new agent, and it clicks, types, and navigates on its own—until it hits a CAPTCHA and freezes 🛑.  \n\nThe agent executes actions instead of just suggesting them, but it still needs you watching over its shoulder. It’s not full delegation; it’s supervising a digital intern 🧑‍💻. Hark can’t crack those “prove you’re human” checks, so some doors stay locked no matter how autonomous it gets.  \n\nFor your workflow, that means testing before trusting: pick one repetitive task—like scraping a dashboard or filling a form—and run it this week ⏱️.  \n\nWhich of your daily clicks would you actually let it take over?"
+        }
+      },
+      "instagram_caption": "You hand a browser task to Hark’s new agent, and it clicks, types, and navigates on its own—until it hits a CAPTCHA and freezes 🛑.  \n\nThe agent executes actions instead of just suggesting them, but it still needs you watching over its shoulder. It’s not full delegation; it’s supervising a digital intern 🧑‍💻. Hark can’t crack those “prove you’re human” checks, so some doors stay locked no matter how autonomous it gets.  \n\nFor your workflow, that means testing before trusting: pick one repetitive task—like scraping a dashboard or filling a form—and run it this week ⏱️.  \n\nWhich of your daily clicks would you actually let it take over?",
+      "carousel_slides": [
+        {
+          "hook": "Full autonomy is a myth?",
+          "description": "Hark’s agent can browse and act alone, but CAPTCHAs still trip it up. True independence remains elusive.",
+          "visual_hint": "Robot hand reaching for lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand lock"
+        },
+        {
+          "hook": "Autonomy with a leash",
+          "description": "Hark handles tasks solo, yet demands constant supervision. You’re not delegating—you’re babysitting a digital intern.",
+          "visual_hint": "Person monitoring multiple screens",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "control room screens",
+          "image": "https://images.pexels.com/photos/9574336/pexels-photo-9574336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Action over advice",
+          "description": "Unlike assistants, Hark executes tasks. But CAPTCHAs block it, so some doors stay locked.",
+          "visual_hint": "Finger pressing button",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit before you adopt",
+          "description": "Not every workflow benefits from automation. Evaluate which tasks save time—avoid automating chaos.",
+          "visual_hint": "Magnifying glass over checklist",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try Hark yourself this week",
+          "description": "Pick one repetitive workflow and run it on Hark. See if it cuts effort or just adds review time. Decide after.",
+          "visual_hint": "Hand pointing at calendar date",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar hand pointing",
+          "image": "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?resize=1200,596",
+      "savedAt": "2026-08-05T15:55:02.301Z",
+      "sourceId": "844e872cde08ee5eec964100896cd1cc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "macpaw-taps-liquid-ai-to-offer-on-device-inference",
       "prompt_version": "1.0.0",
       "status": "published",
