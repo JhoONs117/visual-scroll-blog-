@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-di-anguria-e-feta",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata di anguria e feta",
+    "link": "https://ricette.giallozafferano.it/Insalata-di-anguria-e-feta.html",
+    "pubDate": "Wed, 05 Aug 2026 12:01:00 +0200",
+    "content": "Insalata di anguria e feta: ricetta fresca e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata di anguria e feta /5 Ricetta proposta da Nicola Sorrentino CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 309,8 Calorie per porzione Energia Kcal 309,8 Carboidrati g 18,6 &nbsp;&nbsp;di cui zuccheri g 12,6 Proteine g 10,9 Grassi g 22,7 &nbsp;&nbsp;di cui saturi g 9,4 Fibre g 1,2 Colesterolo mg 55,6 Sodio mg 751,8 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Vegetariano Dieta Mediterranea Difficoltà: Molto facile Preparazione: 15 min Cottura: 5 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE L' insalata di anguria e feta è il piatto freddo dell’estate! Una ricetta velocissima, dissetante e dal contrasto di sapori unico: l’incontro tra la polpa dolce e succosa dell' anguria e il gusto sapido e leggermente acidulo della feta. Questo stuzzicante abbinamento è arricchito con pinoli tostati e olive taggiasche, mentre il profumo della menta aggiunge ancora più freschezza. Ottima sia come piatto unico che come originale antipasto, l’insalata di anguria e feta è un’idea leggera e sfiziosa che si prepara in pochissimo tempo ed è perfetta per affrontare il caldo delle giornate più torride. Scoprite altre ricette salate con l’anguria per l’estate: Insalata di anguria Couscous con anguria, feta e pomodorini Tabbouleh estivo all'anguria Finger food anguria e caprino Insalata di pollo e anguria Watermelon and Feta Salad INGREDIENTI 309,8 Calorie per porzione Cocomero (anguria) (già pulita) 800 g Feta light 250 g Olive taggiasche denocciolate 20 g Pinoli 20 g Menta q.b. Olio extravergine d'oliva 20 g Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di anguria e feta Per preparare l’insalata di anguria e feta, per prima cosa versate i pinoli in una padella antiaderente 1 e tostateli fino a doratura 2 . Nel frattempo tagliate la polpa dell'anguria a cubetti di circa 1,5 cm 3 . Riducete anche la feta a cubetti di 1-1,5 cm 4 . Trasferite l’anguria e la feta in una ciotola capiente 5 , poi unite le olive taggiasche 6 . Aggiungete anche i pinoli tostati 7 e le foglie di menta 8 . Condite con l’olio 9 . Salate 10 e mescolate delicatamente 11 . La vostra insalata di anguria e feta è pronta per essere servita 12 ! Conservazione L’insalata di anguria e feta si può conservare in frigorifero per un giorno al massimo. Consiglio Puoi insaporire ulteriormente l’insalata di anguria e feta con una macinata di pepe e qualche goccia di succo di lime o limone. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Feta Anguria Olive in salamoia Olio di oliva Cocomero Menta Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Insalata di anguria e feta 5.0 Insalata di zucchine grigliate con pomodori, rucola e primosale 5.0 Torta salata pomodorini e stracchino 4.2 SCOPRI Insalata con feta Feta greca Formaggio feta Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalata fredda estiva, dolce e sapida.",
+      "Anguria, feta light, olive taggiasche, pinoli, menta.",
+      "Taglia a cubetti anguria e feta.",
+      "Tosta i pinoli e unisci tutto in ciotola.",
+      "Aggiungi menta e olio: fresco contrasto."
+    ],
+    "instagram_caption": "Il contrasto perfetto dell’estate? Anguria dolce e feta sapida, un abbraccio che non ti aspetti. 🍉✨\n\nLa preparo in 5 minuti: cubotti di anguria freschissima, feta light che si sbriciola al tocco, olive taggiasche per la nota mediterranea e pinoli tostati che scrocchiano sotto i denti. Poi la menta fresca e un filo d’olio a crudo – il fresco che ti sveglia il palato. È il piatto che salva le cene calde: zero cottura, zero stress, tutto sapore. Ogni forchettata è un giro in riviera. 🫒🌿\n\nCredimi, anche chi storce il naso alla frutta nel salato qui si ricrede. Provala questo weekend, non te ne pentirai! 😉",
+    "formats": {
+      "instagram": {
+        "caption": "Il contrasto perfetto dell’estate? Anguria dolce e feta sapida, un abbraccio che non ti aspetti. 🍉✨\n\nLa preparo in 5 minuti: cubotti di anguria freschissima, feta light che si sbriciola al tocco, olive taggiasche per la nota mediterranea e pinoli tostati che scrocchiano sotto i denti. Poi la menta fresca e un filo d’olio a crudo – il fresco che ti sveglia il palato. È il piatto che salva le cene calde: zero cottura, zero stress, tutto sapore. Ogni forchettata è un giro in riviera. 🫒🌿\n\nCredimi, anche chi storce il naso alla frutta nel salato qui si ricrede. Provala questo weekend, non te ne pentirai! 😉"
+      },
+      "tiktok": {
+        "script": [
+          "Ecco l'insalata che salva l'estate.",
+          "Anguria a cubotti, feta light, olive taggiasche.",
+          "Taglio tutto così, in ciotola.",
+          "Pinoli tostati, menta fresca, giro olio.",
+          "Dolce e sapida: è subito festa!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Chi l'ha detto che l'anguria va solo a fette? Questa insalata è il soccorso estivo che non sapevi di cercare. 🍉",
+          "Taglia a cubetti l'anguria fredda e la feta light. Aggiungi olive taggiasche e pinoli: dolce e sapido che si incontrano.",
+          "Tosta i pinoli in padella finché non profumano. Uniscili al resto: la croccantezza cambia tutto.",
+          "Strappa la menta fresca direttamente sulla ciotola. Olio evo a filo e giri piano: equilibrio perfetto.",
+          "Lascia riposare 5 minuti in frigo prima di servire: esplode di freschezza. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Ecco l'insalata che salva l'estate.",
+      "Anguria a cubotti, feta light, olive taggiasche.",
+      "Taglio tutto così, in ciotola.",
+      "Pinoli tostati, menta fresca, giro olio.",
+      "Dolce e sapida: è subito festa!"
+    ],
+    "thread_text": [
+      "Chi l'ha detto che l'anguria va solo a fette? Questa insalata è il soccorso estivo che non sapevi di cercare. 🍉",
+      "Taglia a cubetti l'anguria fredda e la feta light. Aggiungi olive taggiasche e pinoli: dolce e sapido che si incontrano.",
+      "Tosta i pinoli in padella finché non profumano. Uniscili al resto: la croccantezza cambia tutto.",
+      "Strappa la menta fresca direttamente sulla ciotola. Olio evo a filo e giri piano: equilibrio perfetto.",
+      "Lascia riposare 5 minuti in frigo prima di servire: esplode di freschezza. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "L'estate in una ciotola",
+        "description": "Insalata fredda che unisce la dolcezza dell'anguria alla sapidità della feta. Fresca, leggera, perfetta per l'estate.",
+        "visual_hint": "Ciotola colorata, anguria e feta a cubetti",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "watermelon feta salad"
+      },
+      {
+        "hook": "Anguria, feta, olive e pinoli",
+        "description": "Ingredienti semplici che si esaltano: anguria dolce, feta light sapida, olive taggiasche, pinoli croccanti e menta fresca.",
+        "visual_hint": "Ingredienti disposti su superficie rustica",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "watermelon feta mint",
+        "image": "https://images.pexels.com/photos/16966985/pexels-photo-16966985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Taglia a cubetti",
+        "description": "Taglia anguria e feta in cubetti della stessa dimensione: così ogni boccone avrà il giusto equilibrio di dolce e salato.",
+        "visual_hint": "Mani che tagliano anguria in cubetti",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cutting watermelon cubes",
+        "image": "https://images.pexels.com/photos/8881949/pexels-photo-8881949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tosta i pinoli e unisci",
+        "description": "Tosta i pinoli in padella per esaltarne il sapore e uniteli in una ciotola con anguria, feta e olive.",
+        "visual_hint": "Mani che mescolano gli ingredienti in una ciotola",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "mixing watermelon feta bowl",
+        "image": "https://images.pexels.com/photos/36647567/pexels-photo-36647567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Menta, olio e… via",
+        "description": "Completa con foglie di menta fresca e un filo di olio EVO: il contrasto freddo-dolce-salato è servito. Ideale come antipasto o contorno.",
+        "visual_hint": "Ciotola finale guarnita con menta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "watermelon feta mint salad",
+        "image": "https://images.pexels.com/photos/16966985/pexels-photo-16966985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "anguria",
+      "feta light",
+      "menta"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36530/Insalata-di-anguria-e-feta_650x433_wm.jpg",
+    "savedAt": "2026-08-05T13:50:16.300Z",
+    "sourceId": "e23fc4e35e57d4606badbb06765e969a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-zucchine-grigliate-con-pomodori-rucola",
     "prompt_version": "1.0.0",
     "status": "published",
