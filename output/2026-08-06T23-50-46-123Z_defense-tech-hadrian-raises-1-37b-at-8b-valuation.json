@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "defense-tech-hadrian-raises-1-37b-at-8b-valuation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+  "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+  "pubDate": "Thu, 06 Aug 2026 19:02:57 +0000",
+  "slides": [
+    "Hadrian got $1.37B—why does this matter?",
+    "It builds autonomous factories for precision parts.",
+    "Defense buyers wait months—Hadrian cuts to days.",
+    "Your supply chain could face faster competitors.",
+    "Assess your manufacturing agility before rivals do."
+  ],
+  "thread_text": [
+    "1. $1.37B for speed\n\nHadrian just raised $1.37B to build autonomous factories for precision parts. Defense buyers currently wait months for components. Hadrian cuts that to days.",
+    "2. The factory runs itself\n\nThese aren't just faster machines. They're fully autonomous production lines that operate 24/7 without human shifts. That's a cost structure competitors can't match.",
+    "3. Your customers will notice\n\nWhen your rivals slash lead times from 90 days to 5, your clients will start asking why you can't. The gap between you and them is now measured in weeks, not years.",
+    "4. It's not just defense\n\nAerospace and medical device makers are next. Any industry needing precision parts faces the same disruption. The technology is proven and scaling fast.",
+    "5. Are you ready?\n\nMap your current lead time from order to delivery this week. If it's over 10 days, you're exposed. Can you afford to wait until your top customer asks about Hadrian?"
+  ],
+  "video_script": [
+    "Hadrian raised 1.37 billion dollars.",
+    "They build autonomous factories for precision parts.",
+    "Defense waits months, Hadrian delivers in days.",
+    "Your competitors will get faster using this.",
+    "Assess your manufacturing agility before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $1.37B for speed\n\nHadrian just raised $1.37B to build autonomous factories for precision parts. Defense buyers currently wait months for components. Hadrian cuts that to days.",
+        "2. The factory runs itself\n\nThese aren't just faster machines. They're fully autonomous production lines that operate 24/7 without human shifts. That's a cost structure competitors can't match.",
+        "3. Your customers will notice\n\nWhen your rivals slash lead times from 90 days to 5, your clients will start asking why you can't. The gap between you and them is now measured in weeks, not years.",
+        "4. It's not just defense\n\nAerospace and medical device makers are next. Any industry needing precision parts faces the same disruption. The technology is proven and scaling fast.",
+        "5. Are you ready?\n\nMap your current lead time from order to delivery this week. If it's over 10 days, you're exposed. Can you afford to wait until your top customer asks about Hadrian?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hadrian raised 1.37 billion dollars.",
+        "They build autonomous factories for precision parts.",
+        "Defense waits months, Hadrian delivers in days.",
+        "Your competitors will get faster using this.",
+        "Assess your manufacturing agility before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "$1.37 billion for factories that don't need humans.\n\nHadrian builds autonomous production lines for precision parts. Defense buyers wait months for components—Hadrian delivers in days. Aerospace and medical device makers are next.\n\nIf your competitors adopt this, your supply chain becomes the bottleneck. Lead times shrink from 90 days to 5, and your clients will ask why you can't match it.\n\nMap your order-to-delivery time this week. If it exceeds 10 days, you're exposed. 🏭⚙️📉\n\nWhen your top customer asks about Hadrian, will you have an answer?"
+    }
+  },
+  "instagram_caption": "$1.37 billion for factories that don't need humans.\n\nHadrian builds autonomous production lines for precision parts. Defense buyers wait months for components—Hadrian delivers in days. Aerospace and medical device makers are next.\n\nIf your competitors adopt this, your supply chain becomes the bottleneck. Lead times shrink from 90 days to 5, and your clients will ask why you can't match it.\n\nMap your order-to-delivery time this week. If it exceeds 10 days, you're exposed. 🏭⚙️📉\n\nWhen your top customer asks about Hadrian, will you have an answer?",
+  "carousel_slides": [
+    {
+      "hook": "Your clients will ask why not",
+      "description": "Hadrian raised $1.37B to cut defense lead times from months to days. If your competitors adopt this, your customers will notice the gap.",
+      "visual_hint": "Factory robot arm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "The factory runs itself",
+      "description": "Autonomous production lines operate 24/7 without human shifts, creating a cost structure competitors can't match.",
+      "visual_hint": "Automated production line",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "automated production line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your rivals slash lead times",
+      "description": "When competitors cut delivery from 90 days to 5, your clients will start asking why you can't. The gap is now weeks, not years.",
+      "visual_hint": "Clock and calendar",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clock calendar",
+      "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Beyond defense: aerospace, medical",
+      "description": "Aerospace and medical device makers are next. Any industry needing precision parts faces the same disruption—technology is scaling fast.",
+      "visual_hint": "Jet engine close-up",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "jet engine",
+      "image": "https://images.pexels.com/photos/34292702/pexels-photo-34292702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to map your lead time",
+      "description": "Map your order-to-delivery lead time this week. If it's over 10 days, you're exposed. Assess your manufacturing agility now.",
+      "visual_hint": "Checklist on clipboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Hadrian_F3.jpg?w=1153",
+  "savedAt": "2026-08-06T23:51:15.359Z",
+  "sourceId": "7e7ee66e33a33372df0c40e6f53fe0ab"
+}

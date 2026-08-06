@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-brings-unlimited-text-chats-to-free-users",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT brings unlimited text chats to free users",
+  "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+  "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
+  "slides": [
+    "Can free ChatGPT truly handle unlimited chats?",
+    "Previously, free users faced strict message caps.",
+    "Now unlimited text, yet premium features stay hidden.",
+    "Your daily research workflow changes without paying.",
+    "Test the new limit with your longest project."
+  ],
+  "thread_text": [
+    "1. The cap is gone\n\nFree ChatGPT now handles unlimited chats, but premium features remain locked behind a paywall.",
+    "2. What changed\n\nPreviously, free users hit strict message caps. Now the barrier is lifted, but the catch is subtle.",
+    "3. The hidden catch\n\nUnlimited text doesn't include advanced features like custom instructions or priority access. The free tier still limits depth.",
+    "4. Your workflow shift\n\nDaily research becomes seamless without paying, but complex tasks still require the paid version. The gap is noticeable.",
+    "5. Test the limit\n\nRun your longest project through a free chat now. Does it hit a wall? Try it today."
+  ],
+  "video_script": [
+    "The message cap is gone.",
+    "Free tier now allows unlimited chats.",
+    "But premium features stay locked.",
+    "Test with your longest project.",
+    "Does it hold up? Try it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The cap is gone\n\nFree ChatGPT now handles unlimited chats, but premium features remain locked behind a paywall.",
+        "2. What changed\n\nPreviously, free users hit strict message caps. Now the barrier is lifted, but the catch is subtle.",
+        "3. The hidden catch\n\nUnlimited text doesn't include advanced features like custom instructions or priority access. The free tier still limits depth.",
+        "4. Your workflow shift\n\nDaily research becomes seamless without paying, but complex tasks still require the paid version. The gap is noticeable.",
+        "5. Test the limit\n\nRun your longest project through a free chat now. Does it hit a wall? Try it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The message cap is gone.",
+        "Free tier now allows unlimited chats.",
+        "But premium features stay locked.",
+        "Test with your longest project.",
+        "Does it hold up? Try it."
+      ]
+    },
+    "instagram": {
+      "caption": "The message cap is finally gone—free ChatGPT now runs unlimited text chats.  \n\nPreviously, hitting the limit meant stopping mid-task. Now the barrier is lifted entirely.  \n\nBut the catch? Advanced tools like custom instructions and priority access still sit behind the paywall. Your free tier flows smoother, yet stays shallower.  \n\nFor your daily research, this is a real shift—long-term projects don’t get interrupted anymore, but complex workflows still hit the paid wall.  \n\nTry feeding your longest ongoing draft into a free chat today. Where does it actually stop? 🔓💬🧱"
+    }
+  },
+  "instagram_caption": "The message cap is finally gone—free ChatGPT now runs unlimited text chats.  \n\nPreviously, hitting the limit meant stopping mid-task. Now the barrier is lifted entirely.  \n\nBut the catch? Advanced tools like custom instructions and priority access still sit behind the paywall. Your free tier flows smoother, yet stays shallower.  \n\nFor your daily research, this is a real shift—long-term projects don’t get interrupted anymore, but complex workflows still hit the paid wall.  \n\nTry feeding your longest ongoing draft into a free chat today. Where does it actually stop? 🔓💬🧱",
+  "carousel_slides": [
+    {
+      "hook": "Is unlimited ChatGPT too good?",
+      "description": "Free ChatGPT now removes message caps, but premium features stay locked. The real freedom is limited.",
+      "visual_hint": "Massive open gate with lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open gate lock"
+    },
+    {
+      "hook": "Message caps just vanished",
+      "description": "Previously, free users hit strict limits. Now unlimited text chats flow—yet depth still has a barrier.",
+      "visual_hint": "Broken chain with scattered links",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken chain links",
+      "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Free tier hides the catch",
+      "description": "Unlimited text excludes custom instructions and priority access. Your workflow gains breadth, not advanced depth.",
+      "visual_hint": "Magnifying glass over small print",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass paper",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your research gets smoother",
+      "description": "Daily tasks now run without paying—but complex projects still demand the paid plan. The gap is real.",
+      "visual_hint": "Hand flipping switch to on",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand flipping switch",
+      "image": "https://images.pexels.com/photos/8830874/pexels-photo-8830874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it on your longest project",
+      "description": "Start a new chat with your most complex file. See if unlimited handles it—then comment your result.",
+      "visual_hint": "Giant progress bar almost full",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "progress bar screen",
+      "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+  "savedAt": "2026-08-06T23:51:27.931Z",
+  "sourceId": "230504609d1eab92a1c0205866bb5d85"
+}

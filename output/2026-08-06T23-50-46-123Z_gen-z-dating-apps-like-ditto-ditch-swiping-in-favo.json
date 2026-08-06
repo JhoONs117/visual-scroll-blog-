@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gen-z-dating-apps-like-ditto-ditch-swiping-in-favo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+  "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+  "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
+  "slides": [
+    "Ditto replaces swiping with AI matchmaking, but can math find love?",
+    "Users now answer one question instead of judging hundreds of faces.",
+    "AI predicts compatibility based on subtle conversational signals, not photos.",
+    "Your next date comes from a bot's choice, not your own instinct.",
+    "Test Ditto's match today—or let a machine decide your future."
+  ],
+  "thread_text": [
+    "1. Swipe fatigue is over.\n\nDitto replaces swiping with AI matchmaking, but the real question is whether a math formula can genuinely predict love.",
+    "2. One question changes everything.\n\nUsers now answer a single prompt instead of judging hundreds of faces. The entire dating dynamic shifts from visual judgment to conversational depth.",
+    "3. The bot sees what you miss.\n\nAI predicts compatibility by analyzing subtle conversational signals, not photos. It picks up on linguistic patterns humans often overlook.",
+    "4. Your instinct is obsolete.\n\nYour next date comes from a bot's choice, not your own gut feeling. This raises a tough question: should you trust a machine over your own judgment?",
+    "5. Test the matchmaker today.\n\nTry Ditto's match this week and see if the algorithm gets you better results than your own swiping. Or are you ready to let a machine decide your romantic future?"
+  ],
+  "video_script": [
+    "Swipe left, swipe right, no more.",
+    "One question replaces hundreds of judgments.",
+    "AI reads your conversation's hidden signals.",
+    "Your next date, chosen by a bot.",
+    "Test Ditto's match before it tests you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Swipe fatigue is over.\n\nDitto replaces swiping with AI matchmaking, but the real question is whether a math formula can genuinely predict love.",
+        "2. One question changes everything.\n\nUsers now answer a single prompt instead of judging hundreds of faces. The entire dating dynamic shifts from visual judgment to conversational depth.",
+        "3. The bot sees what you miss.\n\nAI predicts compatibility by analyzing subtle conversational signals, not photos. It picks up on linguistic patterns humans often overlook.",
+        "4. Your instinct is obsolete.\n\nYour next date comes from a bot's choice, not your own gut feeling. This raises a tough question: should you trust a machine over your own judgment?",
+        "5. Test the matchmaker today.\n\nTry Ditto's match this week and see if the algorithm gets you better results than your own swiping. Or are you ready to let a machine decide your romantic future?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Swipe left, swipe right, no more.",
+        "One question replaces hundreds of judgments.",
+        "AI reads your conversation's hidden signals.",
+        "Your next date, chosen by a bot.",
+        "Test Ditto's match before it tests you."
+      ]
+    },
+    "instagram": {
+      "caption": "Swipe fatigue just got a kill switch. 💔\n\nDitto replaces swiping with AI matchmaking, but the real bet is whether a math formula can outsmart your gut. Users answer one question instead of judging hundreds of faces, and the bot reads conversational signals—not photos—to predict compatibility.\n\nYour next date comes from an algorithm’s choice, not your own instinct. For anyone building or marketing content: the hook isn’t visuals anymore, it’s the depth of language. The metric that wins is subtle linguistic pattern, not a pretty thumbnail. 🤖\n\nAre you ready to let a machine pick your person—or would you rather keep your own flawed judgment? Try Ditto’s match this week and compare."
+    }
+  },
+  "instagram_caption": "Swipe fatigue just got a kill switch. 💔\n\nDitto replaces swiping with AI matchmaking, but the real bet is whether a math formula can outsmart your gut. Users answer one question instead of judging hundreds of faces, and the bot reads conversational signals—not photos—to predict compatibility.\n\nYour next date comes from an algorithm’s choice, not your own instinct. For anyone building or marketing content: the hook isn’t visuals anymore, it’s the depth of language. The metric that wins is subtle linguistic pattern, not a pretty thumbnail. 🤖\n\nAre you ready to let a machine pick your person—or would you rather keep your own flawed judgment? Try Ditto’s match this week and compare.",
+  "carousel_slides": [
+    {
+      "hook": "Can math predict love?",
+      "description": "Ditto replaces swiping with AI matchmaking, but the real question is whether a formula can genuinely predict love, not just compatibility.",
+      "visual_hint": "AI brain over heart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "One question changes everything.",
+      "description": "Users answer a single prompt instead of judging hundreds of faces, shifting dating from visual judgment to conversational depth.",
+      "visual_hint": "Single prompt on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone typing message",
+      "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The bot sees what you miss.",
+      "description": "AI analyzes subtle conversational signals, not photos, picking up linguistic patterns humans often overlook to predict compatibility.",
+      "visual_hint": "Linguistic pattern scan",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "code language analysis",
+      "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your instinct is obsolete.",
+      "description": "Ditto's bot chooses your next date, not your gut feeling. Would you trust a machine over your own judgment?",
+      "visual_hint": "Robot hand choosing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand pointing",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next date.",
+      "description": "Try Ditto's match today and see if the algorithm beats your swiping. Link in bio to start.",
+      "visual_hint": "Link in bio call",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app dating",
+      "image": "https://images.pexels.com/photos/6621665/pexels-photo-6621665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/ditto-ai-app.jpg?resize=1200,675",
+  "savedAt": "2026-08-06T23:51:40.993Z",
+  "sourceId": "a1d4b198486ef26533b335a94072b2ae"
+}

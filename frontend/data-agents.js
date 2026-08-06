@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "gen-z-dating-apps-like-ditto-ditch-swiping-in-favo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
+      "slides": [
+        "Ditto replaces swiping with AI matchmaking, but can math find love?",
+        "Users now answer one question instead of judging hundreds of faces.",
+        "AI predicts compatibility based on subtle conversational signals, not photos.",
+        "Your next date comes from a bot's choice, not your own instinct.",
+        "Test Ditto's match today—or let a machine decide your future."
+      ],
+      "thread_text": [
+        "1. Swipe fatigue is over.\n\nDitto replaces swiping with AI matchmaking, but the real question is whether a math formula can genuinely predict love.",
+        "2. One question changes everything.\n\nUsers now answer a single prompt instead of judging hundreds of faces. The entire dating dynamic shifts from visual judgment to conversational depth.",
+        "3. The bot sees what you miss.\n\nAI predicts compatibility by analyzing subtle conversational signals, not photos. It picks up on linguistic patterns humans often overlook.",
+        "4. Your instinct is obsolete.\n\nYour next date comes from a bot's choice, not your own gut feeling. This raises a tough question: should you trust a machine over your own judgment?",
+        "5. Test the matchmaker today.\n\nTry Ditto's match this week and see if the algorithm gets you better results than your own swiping. Or are you ready to let a machine decide your romantic future?"
+      ],
+      "video_script": [
+        "Swipe left, swipe right, no more.",
+        "One question replaces hundreds of judgments.",
+        "AI reads your conversation's hidden signals.",
+        "Your next date, chosen by a bot.",
+        "Test Ditto's match before it tests you."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Swipe fatigue is over.\n\nDitto replaces swiping with AI matchmaking, but the real question is whether a math formula can genuinely predict love.",
+            "2. One question changes everything.\n\nUsers now answer a single prompt instead of judging hundreds of faces. The entire dating dynamic shifts from visual judgment to conversational depth.",
+            "3. The bot sees what you miss.\n\nAI predicts compatibility by analyzing subtle conversational signals, not photos. It picks up on linguistic patterns humans often overlook.",
+            "4. Your instinct is obsolete.\n\nYour next date comes from a bot's choice, not your own gut feeling. This raises a tough question: should you trust a machine over your own judgment?",
+            "5. Test the matchmaker today.\n\nTry Ditto's match this week and see if the algorithm gets you better results than your own swiping. Or are you ready to let a machine decide your romantic future?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Swipe left, swipe right, no more.",
+            "One question replaces hundreds of judgments.",
+            "AI reads your conversation's hidden signals.",
+            "Your next date, chosen by a bot.",
+            "Test Ditto's match before it tests you."
+          ]
+        },
+        "instagram": {
+          "caption": "Swipe fatigue just got a kill switch. 💔\n\nDitto replaces swiping with AI matchmaking, but the real bet is whether a math formula can outsmart your gut. Users answer one question instead of judging hundreds of faces, and the bot reads conversational signals—not photos—to predict compatibility.\n\nYour next date comes from an algorithm’s choice, not your own instinct. For anyone building or marketing content: the hook isn’t visuals anymore, it’s the depth of language. The metric that wins is subtle linguistic pattern, not a pretty thumbnail. 🤖\n\nAre you ready to let a machine pick your person—or would you rather keep your own flawed judgment? Try Ditto’s match this week and compare."
+        }
+      },
+      "instagram_caption": "Swipe fatigue just got a kill switch. 💔\n\nDitto replaces swiping with AI matchmaking, but the real bet is whether a math formula can outsmart your gut. Users answer one question instead of judging hundreds of faces, and the bot reads conversational signals—not photos—to predict compatibility.\n\nYour next date comes from an algorithm’s choice, not your own instinct. For anyone building or marketing content: the hook isn’t visuals anymore, it’s the depth of language. The metric that wins is subtle linguistic pattern, not a pretty thumbnail. 🤖\n\nAre you ready to let a machine pick your person—or would you rather keep your own flawed judgment? Try Ditto’s match this week and compare.",
+      "carousel_slides": [
+        {
+          "hook": "Can math predict love?",
+          "description": "Ditto replaces swiping with AI matchmaking, but the real question is whether a formula can genuinely predict love, not just compatibility.",
+          "visual_hint": "AI brain over heart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence brain"
+        },
+        {
+          "hook": "One question changes everything.",
+          "description": "Users answer a single prompt instead of judging hundreds of faces, shifting dating from visual judgment to conversational depth.",
+          "visual_hint": "Single prompt on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone typing message",
+          "image": "https://images.pexels.com/photos/6669795/pexels-photo-6669795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The bot sees what you miss.",
+          "description": "AI analyzes subtle conversational signals, not photos, picking up linguistic patterns humans often overlook to predict compatibility.",
+          "visual_hint": "Linguistic pattern scan",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "code language analysis",
+          "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your instinct is obsolete.",
+          "description": "Ditto's bot chooses your next date, not your gut feeling. Would you trust a machine over your own judgment?",
+          "visual_hint": "Robot hand choosing",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot hand pointing",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next date.",
+          "description": "Try Ditto's match today and see if the algorithm beats your swiping. Link in bio to start.",
+          "visual_hint": "Link in bio call",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app dating",
+          "image": "https://images.pexels.com/photos/6621665/pexels-photo-6621665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ditto-ai-app.jpg?resize=1200,675",
+      "savedAt": "2026-08-06T23:51:40.993Z",
+      "sourceId": "a1d4b198486ef26533b335a94072b2ae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "chatgpt-brings-unlimited-text-chats-to-free-users",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
+      "slides": [
+        "Can free ChatGPT truly handle unlimited chats?",
+        "Previously, free users faced strict message caps.",
+        "Now unlimited text, yet premium features stay hidden.",
+        "Your daily research workflow changes without paying.",
+        "Test the new limit with your longest project."
+      ],
+      "thread_text": [
+        "1. The cap is gone\n\nFree ChatGPT now handles unlimited chats, but premium features remain locked behind a paywall.",
+        "2. What changed\n\nPreviously, free users hit strict message caps. Now the barrier is lifted, but the catch is subtle.",
+        "3. The hidden catch\n\nUnlimited text doesn't include advanced features like custom instructions or priority access. The free tier still limits depth.",
+        "4. Your workflow shift\n\nDaily research becomes seamless without paying, but complex tasks still require the paid version. The gap is noticeable.",
+        "5. Test the limit\n\nRun your longest project through a free chat now. Does it hit a wall? Try it today."
+      ],
+      "video_script": [
+        "The message cap is gone.",
+        "Free tier now allows unlimited chats.",
+        "But premium features stay locked.",
+        "Test with your longest project.",
+        "Does it hold up? Try it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The cap is gone\n\nFree ChatGPT now handles unlimited chats, but premium features remain locked behind a paywall.",
+            "2. What changed\n\nPreviously, free users hit strict message caps. Now the barrier is lifted, but the catch is subtle.",
+            "3. The hidden catch\n\nUnlimited text doesn't include advanced features like custom instructions or priority access. The free tier still limits depth.",
+            "4. Your workflow shift\n\nDaily research becomes seamless without paying, but complex tasks still require the paid version. The gap is noticeable.",
+            "5. Test the limit\n\nRun your longest project through a free chat now. Does it hit a wall? Try it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The message cap is gone.",
+            "Free tier now allows unlimited chats.",
+            "But premium features stay locked.",
+            "Test with your longest project.",
+            "Does it hold up? Try it."
+          ]
+        },
+        "instagram": {
+          "caption": "The message cap is finally gone—free ChatGPT now runs unlimited text chats.  \n\nPreviously, hitting the limit meant stopping mid-task. Now the barrier is lifted entirely.  \n\nBut the catch? Advanced tools like custom instructions and priority access still sit behind the paywall. Your free tier flows smoother, yet stays shallower.  \n\nFor your daily research, this is a real shift—long-term projects don’t get interrupted anymore, but complex workflows still hit the paid wall.  \n\nTry feeding your longest ongoing draft into a free chat today. Where does it actually stop? 🔓💬🧱"
+        }
+      },
+      "instagram_caption": "The message cap is finally gone—free ChatGPT now runs unlimited text chats.  \n\nPreviously, hitting the limit meant stopping mid-task. Now the barrier is lifted entirely.  \n\nBut the catch? Advanced tools like custom instructions and priority access still sit behind the paywall. Your free tier flows smoother, yet stays shallower.  \n\nFor your daily research, this is a real shift—long-term projects don’t get interrupted anymore, but complex workflows still hit the paid wall.  \n\nTry feeding your longest ongoing draft into a free chat today. Where does it actually stop? 🔓💬🧱",
+      "carousel_slides": [
+        {
+          "hook": "Is unlimited ChatGPT too good?",
+          "description": "Free ChatGPT now removes message caps, but premium features stay locked. The real freedom is limited.",
+          "visual_hint": "Massive open gate with lock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "open gate lock"
+        },
+        {
+          "hook": "Message caps just vanished",
+          "description": "Previously, free users hit strict limits. Now unlimited text chats flow—yet depth still has a barrier.",
+          "visual_hint": "Broken chain with scattered links",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken chain links",
+          "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Free tier hides the catch",
+          "description": "Unlimited text excludes custom instructions and priority access. Your workflow gains breadth, not advanced depth.",
+          "visual_hint": "Magnifying glass over small print",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass paper",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your research gets smoother",
+          "description": "Daily tasks now run without paying—but complex projects still demand the paid plan. The gap is real.",
+          "visual_hint": "Hand flipping switch to on",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand flipping switch",
+          "image": "https://images.pexels.com/photos/8830874/pexels-photo-8830874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it on your longest project",
+          "description": "Start a new chat with your most complex file. See if unlimited handles it—then comment your result.",
+          "visual_hint": "Giant progress bar almost full",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "progress bar screen",
+          "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+      "savedAt": "2026-08-06T23:51:27.931Z",
+      "sourceId": "230504609d1eab92a1c0205866bb5d85"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "defense-tech-hadrian-raises-1-37b-at-8b-valuation",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "pubDate": "Thu, 06 Aug 2026 19:02:57 +0000",
+      "slides": [
+        "Hadrian got $1.37B—why does this matter?",
+        "It builds autonomous factories for precision parts.",
+        "Defense buyers wait months—Hadrian cuts to days.",
+        "Your supply chain could face faster competitors.",
+        "Assess your manufacturing agility before rivals do."
+      ],
+      "thread_text": [
+        "1. $1.37B for speed\n\nHadrian just raised $1.37B to build autonomous factories for precision parts. Defense buyers currently wait months for components. Hadrian cuts that to days.",
+        "2. The factory runs itself\n\nThese aren't just faster machines. They're fully autonomous production lines that operate 24/7 without human shifts. That's a cost structure competitors can't match.",
+        "3. Your customers will notice\n\nWhen your rivals slash lead times from 90 days to 5, your clients will start asking why you can't. The gap between you and them is now measured in weeks, not years.",
+        "4. It's not just defense\n\nAerospace and medical device makers are next. Any industry needing precision parts faces the same disruption. The technology is proven and scaling fast.",
+        "5. Are you ready?\n\nMap your current lead time from order to delivery this week. If it's over 10 days, you're exposed. Can you afford to wait until your top customer asks about Hadrian?"
+      ],
+      "video_script": [
+        "Hadrian raised 1.37 billion dollars.",
+        "They build autonomous factories for precision parts.",
+        "Defense waits months, Hadrian delivers in days.",
+        "Your competitors will get faster using this.",
+        "Assess your manufacturing agility before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $1.37B for speed\n\nHadrian just raised $1.37B to build autonomous factories for precision parts. Defense buyers currently wait months for components. Hadrian cuts that to days.",
+            "2. The factory runs itself\n\nThese aren't just faster machines. They're fully autonomous production lines that operate 24/7 without human shifts. That's a cost structure competitors can't match.",
+            "3. Your customers will notice\n\nWhen your rivals slash lead times from 90 days to 5, your clients will start asking why you can't. The gap between you and them is now measured in weeks, not years.",
+            "4. It's not just defense\n\nAerospace and medical device makers are next. Any industry needing precision parts faces the same disruption. The technology is proven and scaling fast.",
+            "5. Are you ready?\n\nMap your current lead time from order to delivery this week. If it's over 10 days, you're exposed. Can you afford to wait until your top customer asks about Hadrian?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hadrian raised 1.37 billion dollars.",
+            "They build autonomous factories for precision parts.",
+            "Defense waits months, Hadrian delivers in days.",
+            "Your competitors will get faster using this.",
+            "Assess your manufacturing agility before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "$1.37 billion for factories that don't need humans.\n\nHadrian builds autonomous production lines for precision parts. Defense buyers wait months for components—Hadrian delivers in days. Aerospace and medical device makers are next.\n\nIf your competitors adopt this, your supply chain becomes the bottleneck. Lead times shrink from 90 days to 5, and your clients will ask why you can't match it.\n\nMap your order-to-delivery time this week. If it exceeds 10 days, you're exposed. 🏭⚙️📉\n\nWhen your top customer asks about Hadrian, will you have an answer?"
+        }
+      },
+      "instagram_caption": "$1.37 billion for factories that don't need humans.\n\nHadrian builds autonomous production lines for precision parts. Defense buyers wait months for components—Hadrian delivers in days. Aerospace and medical device makers are next.\n\nIf your competitors adopt this, your supply chain becomes the bottleneck. Lead times shrink from 90 days to 5, and your clients will ask why you can't match it.\n\nMap your order-to-delivery time this week. If it exceeds 10 days, you're exposed. 🏭⚙️📉\n\nWhen your top customer asks about Hadrian, will you have an answer?",
+      "carousel_slides": [
+        {
+          "hook": "Your clients will ask why not",
+          "description": "Hadrian raised $1.37B to cut defense lead times from months to days. If your competitors adopt this, your customers will notice the gap.",
+          "visual_hint": "Factory robot arm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "The factory runs itself",
+          "description": "Autonomous production lines operate 24/7 without human shifts, creating a cost structure competitors can't match.",
+          "visual_hint": "Automated production line",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "automated production line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your rivals slash lead times",
+          "description": "When competitors cut delivery from 90 days to 5, your clients will start asking why you can't. The gap is now weeks, not years.",
+          "visual_hint": "Clock and calendar",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "clock calendar",
+          "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Beyond defense: aerospace, medical",
+          "description": "Aerospace and medical device makers are next. Any industry needing precision parts faces the same disruption—technology is scaling fast.",
+          "visual_hint": "Jet engine close-up",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "jet engine",
+          "image": "https://images.pexels.com/photos/34292702/pexels-photo-34292702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to map your lead time",
+          "description": "Map your order-to-delivery lead time this week. If it's over 10 days, you're exposed. Assess your manufacturing agility now.",
+          "visual_hint": "Checklist on clipboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Hadrian_F3.jpg?w=1153",
+      "savedAt": "2026-08-06T23:51:15.359Z",
+      "sourceId": "7e7ee66e33a33372df0c40e6f53fe0ab"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-new-ai-smart-speaker-will-reportedly-sell",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
+      "slides": [
+        "Can a $400 smart speaker replace your phone assistant?",
+        "OpenAI's device reportedly lacks a screen, oddly enough.",
+        "It sees your world via cameras—shockingly absent competitors.",
+        "You'll converse naturally, but privacy questions remain unanswered.",
+        "Test one before trusting it with your home's eyes."
+      ],
+      "thread_text": [
+        "1. Your assistant, now with eyes\n\nOpenAI's new $400 device drops the screen altogether—letting cameras watch your world instead. No competitor has dared this yet.",
+        "2. The screenless revolution\n\nWithout a display, you'll rely on voice alone. But natural conversation is the easy part; design without visual feedback is the real gamble.",
+        "3. Cameras everywhere, answers nowhere\n\nIt sees your room, your face, your life—yet OpenAI stays silent on where that footage goes. Privacy terms remain a black box.",
+        "4. The trust test\n\nWould you let a camera-equipped speaker into your home, recording your every move? Before you decide, check the fine print—if there is any.",
+        "5. Try before you trust\n\nTest a unit in your space for a week before granting it permanent access. Does the convenience outweigh the constant surveillance? Decide on evidence, not hype."
+      ],
+      "video_script": [
+        "A $400 speaker replaces your phone, with eyes.",
+        "No screen, just cameras watching your world.",
+        "Natural talk, but privacy answers are missing.",
+        "Would you trust it inside your home?",
+        "Test it first, then decide with evidence."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your assistant, now with eyes\n\nOpenAI's new $400 device drops the screen altogether—letting cameras watch your world instead. No competitor has dared this yet.",
+            "2. The screenless revolution\n\nWithout a display, you'll rely on voice alone. But natural conversation is the easy part; design without visual feedback is the real gamble.",
+            "3. Cameras everywhere, answers nowhere\n\nIt sees your room, your face, your life—yet OpenAI stays silent on where that footage goes. Privacy terms remain a black box.",
+            "4. The trust test\n\nWould you let a camera-equipped speaker into your home, recording your every move? Before you decide, check the fine print—if there is any.",
+            "5. Try before you trust\n\nTest a unit in your space for a week before granting it permanent access. Does the convenience outweigh the constant surveillance? Decide on evidence, not hype."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A $400 speaker replaces your phone, with eyes.",
+            "No screen, just cameras watching your world.",
+            "Natural talk, but privacy answers are missing.",
+            "Would you trust it inside your home?",
+            "Test it first, then decide with evidence."
+          ]
+        },
+        "instagram": {
+          "caption": "A $400 speaker with cameras and no screen is coming to your living room.\n\nOpenAI’s new device watches your space instead of showing you anything—no display, just voice and vision. Competitors haven’t shipped this combo yet, and the company hasn’t said what happens to that footage. Natural conversation is the pitch, but privacy terms are still a black box.\n\nFor creators and home users, this changes the baseline: your assistant now sees your environment, not just hears it. If you’re testing one for content or daily life, the fine print is the real spec sheet.\n\nWould you let it watch your space for a week before trusting it?"
+        }
+      },
+      "instagram_caption": "A $400 speaker with cameras and no screen is coming to your living room.\n\nOpenAI’s new device watches your space instead of showing you anything—no display, just voice and vision. Competitors haven’t shipped this combo yet, and the company hasn’t said what happens to that footage. Natural conversation is the pitch, but privacy terms are still a black box.\n\nFor creators and home users, this changes the baseline: your assistant now sees your environment, not just hears it. If you’re testing one for content or daily life, the fine print is the real spec sheet.\n\nWould you let it watch your space for a week before trusting it?",
+      "carousel_slides": [
+        {
+          "hook": "Your assistant now has eyes.",
+          "description": "OpenAI's $400 speaker drops the screen but adds cameras—a bold move no competitor has tried. It watches your world to answer.",
+          "visual_hint": "Speaker with camera lens pointing forward",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart speaker camera"
+        },
+        {
+          "hook": "No screen, only voice.",
+          "description": "Without a display, you'll rely purely on conversation. Natural talk is easy, but designing without visual feedback is the real gamble.",
+          "visual_hint": "Hand holding speaker, no display",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "speaker without screen",
+          "image": "https://images.pexels.com/photos/15141543/pexels-photo-15141543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "It sees your life. Where does it go?",
+          "description": "Cameras capture your room and face, yet OpenAI stays silent on data storage. Privacy terms remain a black box—a major concern.",
+          "visual_hint": "Zoomed lens, room in background",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "camera lens room",
+          "image": "https://images.pexels.com/photos/33393784/pexels-photo-33393784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust it with your home's eyes?",
+          "description": "A camera-equipped speaker records your every move. Before you invite it in, check the fine print—if there is any.",
+          "visual_hint": "Human hand placing speaker on table",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand placing speaker",
+          "image": "https://images.pexels.com/photos/5657676/pexels-photo-5657676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next gadget decision.",
+          "description": "Test a unit in your space for a week before granting permanent access. Does convenience outweigh surveillance? Decide on evidence, not hype—share your thoughts.",
+          "visual_hint": "Phone showing checklist, speaker beside",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smart speaker checklist",
+          "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16940570/pexels-photo-16940570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-06T23:51:01.848Z",
+      "sourceId": "93553c6ca62b0cfb31a11cf4839e28bd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "exclusive-mirendil-inks-100m-google-cloud-deal-to-",
       "prompt_version": "1.0.0",
       "status": "published",

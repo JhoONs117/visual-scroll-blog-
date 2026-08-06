@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-new-ai-smart-speaker-will-reportedly-sell",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+  "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+  "pubDate": "Thu, 06 Aug 2026 22:43:53 +0000",
+  "slides": [
+    "Can a $400 smart speaker replace your phone assistant?",
+    "OpenAI's device reportedly lacks a screen, oddly enough.",
+    "It sees your world via cameras—shockingly absent competitors.",
+    "You'll converse naturally, but privacy questions remain unanswered.",
+    "Test one before trusting it with your home's eyes."
+  ],
+  "thread_text": [
+    "1. Your assistant, now with eyes\n\nOpenAI's new $400 device drops the screen altogether—letting cameras watch your world instead. No competitor has dared this yet.",
+    "2. The screenless revolution\n\nWithout a display, you'll rely on voice alone. But natural conversation is the easy part; design without visual feedback is the real gamble.",
+    "3. Cameras everywhere, answers nowhere\n\nIt sees your room, your face, your life—yet OpenAI stays silent on where that footage goes. Privacy terms remain a black box.",
+    "4. The trust test\n\nWould you let a camera-equipped speaker into your home, recording your every move? Before you decide, check the fine print—if there is any.",
+    "5. Try before you trust\n\nTest a unit in your space for a week before granting it permanent access. Does the convenience outweigh the constant surveillance? Decide on evidence, not hype."
+  ],
+  "video_script": [
+    "A $400 speaker replaces your phone, with eyes.",
+    "No screen, just cameras watching your world.",
+    "Natural talk, but privacy answers are missing.",
+    "Would you trust it inside your home?",
+    "Test it first, then decide with evidence."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your assistant, now with eyes\n\nOpenAI's new $400 device drops the screen altogether—letting cameras watch your world instead. No competitor has dared this yet.",
+        "2. The screenless revolution\n\nWithout a display, you'll rely on voice alone. But natural conversation is the easy part; design without visual feedback is the real gamble.",
+        "3. Cameras everywhere, answers nowhere\n\nIt sees your room, your face, your life—yet OpenAI stays silent on where that footage goes. Privacy terms remain a black box.",
+        "4. The trust test\n\nWould you let a camera-equipped speaker into your home, recording your every move? Before you decide, check the fine print—if there is any.",
+        "5. Try before you trust\n\nTest a unit in your space for a week before granting it permanent access. Does the convenience outweigh the constant surveillance? Decide on evidence, not hype."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A $400 speaker replaces your phone, with eyes.",
+        "No screen, just cameras watching your world.",
+        "Natural talk, but privacy answers are missing.",
+        "Would you trust it inside your home?",
+        "Test it first, then decide with evidence."
+      ]
+    },
+    "instagram": {
+      "caption": "A $400 speaker with cameras and no screen is coming to your living room.\n\nOpenAI’s new device watches your space instead of showing you anything—no display, just voice and vision. Competitors haven’t shipped this combo yet, and the company hasn’t said what happens to that footage. Natural conversation is the pitch, but privacy terms are still a black box.\n\nFor creators and home users, this changes the baseline: your assistant now sees your environment, not just hears it. If you’re testing one for content or daily life, the fine print is the real spec sheet.\n\nWould you let it watch your space for a week before trusting it?"
+    }
+  },
+  "instagram_caption": "A $400 speaker with cameras and no screen is coming to your living room.\n\nOpenAI’s new device watches your space instead of showing you anything—no display, just voice and vision. Competitors haven’t shipped this combo yet, and the company hasn’t said what happens to that footage. Natural conversation is the pitch, but privacy terms are still a black box.\n\nFor creators and home users, this changes the baseline: your assistant now sees your environment, not just hears it. If you’re testing one for content or daily life, the fine print is the real spec sheet.\n\nWould you let it watch your space for a week before trusting it?",
+  "carousel_slides": [
+    {
+      "hook": "Your assistant now has eyes.",
+      "description": "OpenAI's $400 speaker drops the screen but adds cameras—a bold move no competitor has tried. It watches your world to answer.",
+      "visual_hint": "Speaker with camera lens pointing forward",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart speaker camera"
+    },
+    {
+      "hook": "No screen, only voice.",
+      "description": "Without a display, you'll rely purely on conversation. Natural talk is easy, but designing without visual feedback is the real gamble.",
+      "visual_hint": "Hand holding speaker, no display",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "speaker without screen",
+      "image": "https://images.pexels.com/photos/15141543/pexels-photo-15141543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It sees your life. Where does it go?",
+      "description": "Cameras capture your room and face, yet OpenAI stays silent on data storage. Privacy terms remain a black box—a major concern.",
+      "visual_hint": "Zoomed lens, room in background",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "camera lens room",
+      "image": "https://images.pexels.com/photos/33393784/pexels-photo-33393784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust it with your home's eyes?",
+      "description": "A camera-equipped speaker records your every move. Before you invite it in, check the fine print—if there is any.",
+      "visual_hint": "Human hand placing speaker on table",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand placing speaker",
+      "image": "https://images.pexels.com/photos/5657676/pexels-photo-5657676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next gadget decision.",
+      "description": "Test a unit in your space for a week before granting permanent access. Does convenience outweigh surveillance? Decide on evidence, not hype—share your thoughts.",
+      "visual_hint": "Phone showing checklist, speaker beside",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smart speaker checklist",
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/16940570/pexels-photo-16940570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-06T23:51:01.848Z",
+  "sourceId": "93553c6ca62b0cfb31a11cf4839e28bd"
+}
