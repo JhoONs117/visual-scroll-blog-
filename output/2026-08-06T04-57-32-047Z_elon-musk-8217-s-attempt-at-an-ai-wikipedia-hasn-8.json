@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "elon-musk-8217-s-attempt-at-an-ai-wikipedia-hasn-8",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+  "pubDate": "2026-08-06T00:25:10.000Z",
+  "slides": [
+    "Is Musk's AI encyclopedia already deserted?",
+    "The beta launched with 11,000 articles, then stalled.",
+    "Not one update in months, despite promised automation.",
+    "Its search traffic dropped below 500 visitors daily.",
+    "Try verifying a fact there; you'll still hit dead ends."
+  ],
+  "thread_text": [
+    "1. The promise that died\n\nElon Musk's AI encyclopedia launched with 11,000 articles—then stopped. No update has landed in months.",
+    "2. Automation was the lie\n\nThe system was supposed to self-improve, but it's frozen. Where's the code that promised constant growth?",
+    "3. The silence is measurable\n\nSearch traffic has cratered to under 500 visitors a day. That's not a slow decline, it's a death rattle.",
+    "4. Fact-checking hits a wall\n\nTry verifying any entry—you'll find dead ends. The articles are stale shells, not living knowledge.",
+    "5. Test it yourself\n\nOpen the encyclopedia, pick any trending topic, and search. If it's missing or outdated, ask: Would you trust this for research?"
+  ],
+  "video_script": [
+    "Musk's AI encyclopedia launched big, then froze.",
+    "Thousands of articles, but nothing new for months.",
+    "Promised automation, but the updates never came.",
+    "Traffic now under five hundred visitors daily.",
+    "Try fact-checking, you'll hit dead ends."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The promise that died\n\nElon Musk's AI encyclopedia launched with 11,000 articles—then stopped. No update has landed in months.",
+        "2. Automation was the lie\n\nThe system was supposed to self-improve, but it's frozen. Where's the code that promised constant growth?",
+        "3. The silence is measurable\n\nSearch traffic has cratered to under 500 visitors a day. That's not a slow decline, it's a death rattle.",
+        "4. Fact-checking hits a wall\n\nTry verifying any entry—you'll find dead ends. The articles are stale shells, not living knowledge.",
+        "5. Test it yourself\n\nOpen the encyclopedia, pick any trending topic, and search. If it's missing or outdated, ask: Would you trust this for research?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Musk's AI encyclopedia launched big, then froze.",
+        "Thousands of articles, but nothing new for months.",
+        "Promised automation, but the updates never came.",
+        "Traffic now under five hundred visitors daily.",
+        "Try fact-checking, you'll hit dead ends."
+      ]
+    },
+    "instagram": {
+      "caption": "Elon Musk’s AI encyclopedia launched with 11,000 articles—and hasn’t had a single update in months.📚\n\nThe beta was supposed to run on automation, constantly improving itself. Instead, it froze. Search traffic has now cratered to under 500 visitors a day.📉\n\nTry fact-checking any trending topic there: you’ll hit dead ends on stale, incomplete entries. The articles are shells, not living knowledge.\n\nFor anyone who publishes or researches online, this means another “trusted” source is already unreliable for verification. You can’t cite it, and you can’t build on it.⛓️\n\nOpen it right now, pick any headline you saw today, and search. Is it there? If not, would you risk your work on that database?🤔"
+    }
+  },
+  "instagram_caption": "Elon Musk’s AI encyclopedia launched with 11,000 articles—and hasn’t had a single update in months.📚\n\nThe beta was supposed to run on automation, constantly improving itself. Instead, it froze. Search traffic has now cratered to under 500 visitors a day.📉\n\nTry fact-checking any trending topic there: you’ll hit dead ends on stale, incomplete entries. The articles are shells, not living knowledge.\n\nFor anyone who publishes or researches online, this means another “trusted” source is already unreliable for verification. You can’t cite it, and you can’t build on it.⛓️\n\nOpen it right now, pick any headline you saw today, and search. Is it there? If not, would you risk your work on that database?🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is this AI encyclopedia already dead?",
+      "description": "Launched with 11,000 articles, then stalled. No updates in months—despite promised automation.",
+      "visual_hint": "Abandoned control room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty server room"
+    },
+    {
+      "hook": "Automation was the lie.",
+      "description": "The system was supposed to self-improve, but it's frozen. That promise never materialized.",
+      "visual_hint": "Frozen gears and code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm stopped",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search traffic: under 500 daily.",
+      "description": "Cratered from launch levels—this isn't a slow decline, it's a death rattle.",
+      "visual_hint": "Steep line graph down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fact-checking hits a wall.",
+      "description": "Try verifying any entry—you'll find dead ends. Articles are stale shells, not living knowledge.",
+      "visual_hint": "Hand hitting brick wall",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand on brick wall",
+      "image": "https://images.pexels.com/photos/17096043/pexels-photo-17096043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself before you trust it.",
+      "description": "Open the encyclopedia, search a trending topic. If it's missing or outdated, rethink your sources.",
+      "visual_hint": "Magnifying glass over screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass on laptop",
+      "image": "https://images.pexels.com/photos/6120169/pexels-photo-6120169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-06T04:58:04.296Z",
+  "sourceId": "e2be35c9d61caca885377fb0e661b83b"
+}

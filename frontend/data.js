@@ -2,6 +2,216 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "elon-musk-8217-s-attempt-at-an-ai-wikipedia-hasn-8",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "pubDate": "2026-08-06T00:25:10.000Z",
+    "slides": [
+      "Is Musk's AI encyclopedia already deserted?",
+      "The beta launched with 11,000 articles, then stalled.",
+      "Not one update in months, despite promised automation.",
+      "Its search traffic dropped below 500 visitors daily.",
+      "Try verifying a fact there; you'll still hit dead ends."
+    ],
+    "thread_text": [
+      "1. The promise that died\n\nElon Musk's AI encyclopedia launched with 11,000 articles—then stopped. No update has landed in months.",
+      "2. Automation was the lie\n\nThe system was supposed to self-improve, but it's frozen. Where's the code that promised constant growth?",
+      "3. The silence is measurable\n\nSearch traffic has cratered to under 500 visitors a day. That's not a slow decline, it's a death rattle.",
+      "4. Fact-checking hits a wall\n\nTry verifying any entry—you'll find dead ends. The articles are stale shells, not living knowledge.",
+      "5. Test it yourself\n\nOpen the encyclopedia, pick any trending topic, and search. If it's missing or outdated, ask: Would you trust this for research?"
+    ],
+    "video_script": [
+      "Musk's AI encyclopedia launched big, then froze.",
+      "Thousands of articles, but nothing new for months.",
+      "Promised automation, but the updates never came.",
+      "Traffic now under five hundred visitors daily.",
+      "Try fact-checking, you'll hit dead ends."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The promise that died\n\nElon Musk's AI encyclopedia launched with 11,000 articles—then stopped. No update has landed in months.",
+          "2. Automation was the lie\n\nThe system was supposed to self-improve, but it's frozen. Where's the code that promised constant growth?",
+          "3. The silence is measurable\n\nSearch traffic has cratered to under 500 visitors a day. That's not a slow decline, it's a death rattle.",
+          "4. Fact-checking hits a wall\n\nTry verifying any entry—you'll find dead ends. The articles are stale shells, not living knowledge.",
+          "5. Test it yourself\n\nOpen the encyclopedia, pick any trending topic, and search. If it's missing or outdated, ask: Would you trust this for research?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Musk's AI encyclopedia launched big, then froze.",
+          "Thousands of articles, but nothing new for months.",
+          "Promised automation, but the updates never came.",
+          "Traffic now under five hundred visitors daily.",
+          "Try fact-checking, you'll hit dead ends."
+        ]
+      },
+      "instagram": {
+        "caption": "Elon Musk’s AI encyclopedia launched with 11,000 articles—and hasn’t had a single update in months.📚\n\nThe beta was supposed to run on automation, constantly improving itself. Instead, it froze. Search traffic has now cratered to under 500 visitors a day.📉\n\nTry fact-checking any trending topic there: you’ll hit dead ends on stale, incomplete entries. The articles are shells, not living knowledge.\n\nFor anyone who publishes or researches online, this means another “trusted” source is already unreliable for verification. You can’t cite it, and you can’t build on it.⛓️\n\nOpen it right now, pick any headline you saw today, and search. Is it there? If not, would you risk your work on that database?🤔"
+      }
+    },
+    "instagram_caption": "Elon Musk’s AI encyclopedia launched with 11,000 articles—and hasn’t had a single update in months.📚\n\nThe beta was supposed to run on automation, constantly improving itself. Instead, it froze. Search traffic has now cratered to under 500 visitors a day.📉\n\nTry fact-checking any trending topic there: you’ll hit dead ends on stale, incomplete entries. The articles are shells, not living knowledge.\n\nFor anyone who publishes or researches online, this means another “trusted” source is already unreliable for verification. You can’t cite it, and you can’t build on it.⛓️\n\nOpen it right now, pick any headline you saw today, and search. Is it there? If not, would you risk your work on that database?🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is this AI encyclopedia already dead?",
+        "description": "Launched with 11,000 articles, then stalled. No updates in months—despite promised automation.",
+        "visual_hint": "Abandoned control room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "empty server room"
+      },
+      {
+        "hook": "Automation was the lie.",
+        "description": "The system was supposed to self-improve, but it's frozen. That promise never materialized.",
+        "visual_hint": "Frozen gears and code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot arm stopped",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Search traffic: under 500 daily.",
+        "description": "Cratered from launch levels—this isn't a slow decline, it's a death rattle.",
+        "visual_hint": "Steep line graph down",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fact-checking hits a wall.",
+        "description": "Try verifying any entry—you'll find dead ends. Articles are stale shells, not living knowledge.",
+        "visual_hint": "Hand hitting brick wall",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand on brick wall",
+        "image": "https://images.pexels.com/photos/17096043/pexels-photo-17096043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it yourself before you trust it.",
+        "description": "Open the encyclopedia, search a trending topic. If it's missing or outdated, rethink your sources.",
+        "visual_hint": "Magnifying glass over screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "magnifying glass on laptop",
+        "image": "https://images.pexels.com/photos/6120169/pexels-photo-6120169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-06T04:58:04.296Z",
+    "sourceId": "e2be35c9d61caca885377fb0e661b83b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "techcrunch-disrupt-2026-s-real-world-ai-stage-feat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
+    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "pubDate": "Wed, 05 Aug 2026 15:05:00 +0000",
+    "slides": [
+      "At Disrupt 2026, extinct animals storm AI stage.",
+      "Real World AI Stage highlights robots, not chatbots.",
+      "Automated factories dominate, but woolly mammoths steal show.",
+      "Your factory floor needs lessons from resurrected species.",
+      "Register now or miss AI's strangest industrial blueprint."
+    ],
+    "thread_text": [
+      "1. Woolly mammoths took the mic.\n\nAt Disrupt 2026, extinct species were the headline act alongside robots. One resurrected creature's appearance triggered a real-time AI response from the stage.",
+      "2. Robots got the grey treatment.\n\nThe stage showcased industrial automation, but the real buzz was about de-extinction tech. And that tech is fed by the same AI models now running your factory floor.",
+      "3. De-extinction is manufacturing's lab.\n\nResurrecting a species demands massive data on biological processes. If you can simulate a mammoth, you can simulate a production line—that's the blueprint. Your floor is next.",
+      "4. Lessons from a resurrection.\n\nThose factories that master AI simulation? They're already testing it on extinct species. Real-world bot benchmarks look tame next to genome-level predictive modeling.",
+      "5. See the blueprint before anyone else.\n\nRegister for Disrupt 2026's AI stage—before the mammoth exhibit closes. Or ask your automation team: can your current AI handle a 4-ton variable?",
+      "5. See the blueprint before anyone else.\n\nRegister for Disrupt 2026's AI stage—before the mammoth exhibit closes. Or ask your automation team: can your current AI handle a 4-ton variable?"
+    ],
+    "video_script": [
+      "Mammoths on stage? At Disrupt, yes.",
+      "Robots were background, AI stole show.",
+      "De-extinction tech is our industrial prototype.",
+      "Genome-scale AI predicts factory outputs now.",
+      "Register now, or miss strange blueprints."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Woolly mammoths took the mic.\n\nAt Disrupt 2026, extinct species were the headline act alongside robots. One resurrected creature's appearance triggered a real-time AI response from the stage.",
+          "2. Robots got the grey treatment.\n\nThe stage showcased industrial automation, but the real buzz was about de-extinction tech. And that tech is fed by the same AI models now running your factory floor.",
+          "3. De-extinction is manufacturing's lab.\n\nResurrecting a species demands massive data on biological processes. If you can simulate a mammoth, you can simulate a production line—that's the blueprint. Your floor is next.",
+          "4. Lessons from a resurrection.\n\nThose factories that master AI simulation? They're already testing it on extinct species. Real-world bot benchmarks look tame next to genome-level predictive modeling.",
+          "5. See the blueprint before anyone else.\n\nRegister for Disrupt 2026's AI stage—before the mammoth exhibit closes. Or ask your automation team: can your current AI handle a 4-ton variable?",
+          "5. See the blueprint before anyone else.\n\nRegister for Disrupt 2026's AI stage—before the mammoth exhibit closes. Or ask your automation team: can your current AI handle a 4-ton variable?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mammoths on stage? At Disrupt, yes.",
+          "Robots were background, AI stole show.",
+          "De-extinction tech is our industrial prototype.",
+          "Genome-scale AI predicts factory outputs now.",
+          "Register now, or miss strange blueprints."
+        ]
+      },
+      "instagram": {
+        "caption": "Woolly mammoths just upstaged the robots at TechCrunch Disrupt 2026, and your factory floor should pay attention. 🦣\n\nThe Real World AI Stage swapped chatbot demos for resurrected species and automated production lines. The same predictive models that bring a 4-ton animal back from extinction are now simulating your manufacturing processes. If AI can map genome-level variables for a mammoth, it can map your supply chain's weak points.\n\nFor anyone managing content or operations, this means your next bottleneck won't be solved by a better prompt—it'll be solved by simulation tools that test every variable before you touch a machine.\n\nCan your current workflow handle a variable that big, or are you still stuck on text generation? ⚙️"
+      }
+    },
+    "instagram_caption": "Woolly mammoths just upstaged the robots at TechCrunch Disrupt 2026, and your factory floor should pay attention. 🦣\n\nThe Real World AI Stage swapped chatbot demos for resurrected species and automated production lines. The same predictive models that bring a 4-ton animal back from extinction are now simulating your manufacturing processes. If AI can map genome-level variables for a mammoth, it can map your supply chain's weak points.\n\nFor anyone managing content or operations, this means your next bottleneck won't be solved by a better prompt—it'll be solved by simulation tools that test every variable before you touch a machine.\n\nCan your current workflow handle a variable that big, or are you still stuck on text generation? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "A 4-ton variable just disrupted the stage.",
+        "description": "At Disrupt 2026, a resurrected woolly mammoth triggered a real-time AI response, proving de-extinction tech is now the ultimate test for industrial AI.",
+        "visual_hint": "Mammoth silhouette on dark stage, futuristic lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "woolly mammoth museum"
+      },
+      {
+        "hook": "Your factory floor is next.",
+        "description": "The Real World AI Stage spotlighted industrial automation, but the real buzz was de-extinction tech—powered by the same AI models running your production line.",
+        "visual_hint": "Factory robots with mammoth shadow in background",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simulate a mammoth, simulate a line.",
+        "description": "De-extinction demands massive biological data—if AI can model a mammoth, it can model your production line. That's the blueprint industrial leaders are eyeing.",
+        "visual_hint": "Close-up of mammoth DNA helix with factory overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "DNA double helix",
+        "image": "https://images.pexels.com/photos/29450015/pexels-photo-29450015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Genome-level predictive modeling is the new benchmark.",
+        "description": "Factories mastering AI simulation are already testing it on extinct species. Real-world bot benchmarks look tame next to genome-level precision.",
+        "visual_hint": "Human hand touching holographic mammoth data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hologram hand technology",
+        "image": "https://images.pexels.com/photos/7562087/pexels-photo-7562087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Register now or miss the strangest blueprint.",
+        "description": "Visit the link in bio to secure your spot at Disrupt 2026's AI stage—before the mammoth exhibit closes. Ask your automation team: can your AI handle a 4-ton variable?",
+        "visual_hint": "Mammoth exhibit sign with QR code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "exhibition hall crowd",
+        "image": "https://images.pexels.com/photos/37559009/pexels-photo-37559009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+    "savedAt": "2026-08-06T04:57:49.802Z",
+    "sourceId": "d22824990e8601dff9d56ee0e086c47f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "reddit-aims-to-make-karma-less-important-for-first",
     "prompt_version": "1.0.0",
     "status": "published",
