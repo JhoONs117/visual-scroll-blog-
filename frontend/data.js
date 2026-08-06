@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sure-seems-like-fenix-flexin-used-ai-music-generat",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "pubDate": "2026-08-05T16:57:25.000Z",
+    "slides": [
+      "Fenix Flexin's new track—did AI write it?",
+      "Treblo generates vocals from simple text prompts.",
+      "The rapper denies it, but fans found artifacts.",
+      "Artists now face proof challenges, not just ethics.",
+      "Listen closely and decide who really created it."
+    ],
+    "thread_text": [
+      "1. Did AI write this?\n\nFenix Flexin's new track shows audio artifacts that fans quickly flagged as synthetic.",
+      "2. Treblo's tool\n\nTreblo turns simple text prompts into vocals, making AI-generated singing accessible to anyone.",
+      "3. Denial fails\n\nThe rapper denies using AI, but the damage is done—fans are now forensic listeners.",
+      "4. Proof problem\n\nArtists now face the challenge of proving authenticity, not just ethical debates.",
+      "5. Listen yourself\n\nPut on the track and decide: does it sound human? Test your ear today."
+    ],
+    "video_script": [
+      "Fenix Flexin's track—AI or not?",
+      "Treblo creates vocals from text prompts.",
+      "Rapper denies it, fans find artifacts.",
+      "Artists must prove authenticity now.",
+      "Listen closely and make your call."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Did AI write this?\n\nFenix Flexin's new track shows audio artifacts that fans quickly flagged as synthetic.",
+          "2. Treblo's tool\n\nTreblo turns simple text prompts into vocals, making AI-generated singing accessible to anyone.",
+          "3. Denial fails\n\nThe rapper denies using AI, but the damage is done—fans are now forensic listeners.",
+          "4. Proof problem\n\nArtists now face the challenge of proving authenticity, not just ethical debates.",
+          "5. Listen yourself\n\nPut on the track and decide: does it sound human? Test your ear today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fenix Flexin's track—AI or not?",
+          "Treblo creates vocals from text prompts.",
+          "Rapper denies it, fans find artifacts.",
+          "Artists must prove authenticity now.",
+          "Listen closely and make your call."
+        ]
+      },
+      "instagram": {
+        "caption": "Fenix Flexin dropped a new track, and fans are convinced they hear Treblo’s synthetic fingerprints all over it. 🎧\n\nTreblo turns plain text into sung vocals, so anyone can generate a voice. The rapper says it’s not him, but audio artifacts tell a different story to the fans dissecting every frequency. 🔍\n\nNow, proving you didn’t use AI is harder than actually making the music. Your next release could face the same forensic listening. 🧬\n\nWhen you post your next song, how do you prove which parts are truly yours? ⏱️"
+      }
+    },
+    "instagram_caption": "Fenix Flexin dropped a new track, and fans are convinced they hear Treblo’s synthetic fingerprints all over it. 🎧\n\nTreblo turns plain text into sung vocals, so anyone can generate a voice. The rapper says it’s not him, but audio artifacts tell a different story to the fans dissecting every frequency. 🔍\n\nNow, proving you didn’t use AI is harder than actually making the music. Your next release could face the same forensic listening. 🧬\n\nWhen you post your next song, how do you prove which parts are truly yours? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Is your favorite rapper AI?",
+        "description": "Fenix Flexin's new track has audio artifacts fans instantly flagged as synthetic. The denial didn't stop the forensic listening.",
+        "visual_hint": "Shocked emoji, waveform overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "audio waveform screen"
+      },
+      {
+        "hook": "Type text, get vocals.",
+        "description": "Treblo turns simple text prompts into singing vocals, making AI-generated music accessible to anyone with a phone.",
+        "visual_hint": "Prompt box to waveform",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone typing text",
+        "image": "https://images.pexels.com/photos/9902413/pexels-photo-9902413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Denial won't convince fans.",
+        "description": "The rapper denies using AI, but the damage is done—the public is now a community of forensic listeners checking every release.",
+        "visual_hint": "Magnifying glass over soundwaves",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass audio",
+        "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Proving authenticity is now job one.",
+        "description": "Artists now face the challenge of proving their work is human-made, not just debating ethics. It's a new burden for creators.",
+        "visual_hint": "Human hand holding a microphone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding microphone",
+        "image": "https://images.pexels.com/photos/6878180/pexels-photo-6878180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this list for your next listen.",
+        "description": "Put on Fenix Flexin's track and decide for yourself. Does it sound human? Test your ear now and share your verdict.",
+        "visual_hint": "Headphones and phone on table",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "headphones smartphone music",
+        "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+    "savedAt": "2026-08-06T08:18:18.004Z",
+    "sourceId": "2644b57e1ba5835f101603247982769a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "elon-musk-8217-s-attempt-at-an-ai-wikipedia-hasn-8",
     "prompt_version": "1.0.0",
     "status": "published",
