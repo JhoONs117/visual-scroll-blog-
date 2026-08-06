@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "reddit-aims-to-make-karma-less-important-for-first",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+    "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+    "pubDate": "Wed, 05 Aug 2026 18:00:40 +0000",
+    "slides": [
+      "Can Reddit's karma system survive its new AI moderators?",
+      "Karma has long gated who could post without scrutiny.",
+      "AI moderation now judges content by quality, not history.",
+      "New posters face fewer blocks, but AI decisions stay opaque.",
+      "Test posting with a fresh account to see the difference."
+    ],
+    "thread_text": [
+      "1. Karma's power is fading\n\nReddit's new AI moderators judge posts by quality alone, not user history. Fresh accounts can now post without the old blocks.",
+      "2. Quality over history\n\nThe shift means long-time users lose their automatic trust. Their past karma no longer guarantees visibility, leveling the playing field.",
+      "3. Opaque AI decisions\n\nWhy some posts pass and others don't remains a mystery. Even moderators can't fully explain the AI's choices, leaving users in the dark.",
+      "4. Test the change\n\nCreate a fresh account and post on a popular subreddit. You'll see fewer blocks, but the criteria for acceptance stay hidden.",
+      "5. What's your move?\n\nWill you game the new system by posting fresh? Or does the lack of transparency make you trust Reddit less? Test it this week."
+    ],
+    "video_script": [
+      "Reddit's karma system is losing its power.",
+      "AI moderators judge by quality, not history.",
+      "New users face fewer blocks, but decisions are opaque.",
+      "Fresh accounts can post without old restrictions.",
+      "Will you test the new system? Try it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Karma's power is fading\n\nReddit's new AI moderators judge posts by quality alone, not user history. Fresh accounts can now post without the old blocks.",
+          "2. Quality over history\n\nThe shift means long-time users lose their automatic trust. Their past karma no longer guarantees visibility, leveling the playing field.",
+          "3. Opaque AI decisions\n\nWhy some posts pass and others don't remains a mystery. Even moderators can't fully explain the AI's choices, leaving users in the dark.",
+          "4. Test the change\n\nCreate a fresh account and post on a popular subreddit. You'll see fewer blocks, but the criteria for acceptance stay hidden.",
+          "5. What's your move?\n\nWill you game the new system by posting fresh? Or does the lack of transparency make you trust Reddit less? Test it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Reddit's karma system is losing its power.",
+          "AI moderators judge by quality, not history.",
+          "New users face fewer blocks, but decisions are opaque.",
+          "Fresh accounts can post without old restrictions.",
+          "Will you test the new system? Try it."
+        ]
+      },
+      "instagram": {
+        "caption": "Reddit is quietly demoting karma. 😳\n\nNew AI moderators judge posts by quality alone, not your comment history or upvote score. Fresh accounts can now post without the old blocks, but long-time users lose their automatic visibility boost overnight.\n\nThe catch? Why one post passes and another fails is still a mystery—moderators can't fully explain the AI's choices, leaving everyone guessing. ⚖️\n\nFor anyone creating content: your past reputation no longer opens doors, and your new-account posts won't tell you why they're approved or removed.\n\nThink your last post got flagged unfairly? Create a fresh account and drop the same content on a big subreddit—watch what happens. 🔍"
+      }
+    },
+    "instagram_caption": "Reddit is quietly demoting karma. 😳\n\nNew AI moderators judge posts by quality alone, not your comment history or upvote score. Fresh accounts can now post without the old blocks, but long-time users lose their automatic visibility boost overnight.\n\nThe catch? Why one post passes and another fails is still a mystery—moderators can't fully explain the AI's choices, leaving everyone guessing. ⚖️\n\nFor anyone creating content: your past reputation no longer opens doors, and your new-account posts won't tell you why they're approved or removed.\n\nThink your last post got flagged unfairly? Create a fresh account and drop the same content on a big subreddit—watch what happens. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Karma is dying. What replaces it?",
+        "description": "Reddit's new AI moderators judge posts by quality alone, not history. Fresh accounts face fewer blocks, but long-time users lose automatic trust.",
+        "visual_hint": "A balance scale with glowing AI symbol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "scale justice robot"
+      },
+      {
+        "hook": "Quality over history: trust shift",
+        "description": "Old karma no longer guarantees visibility. AI now levels the field, but decisions stay unexplained—confusing users and moderators alike.",
+        "visual_hint": "Stack of coins, one fading, another rising",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stack coins and graph",
+        "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI judges, but keeps secrets",
+        "description": "Why some posts pass while others fail remains hidden. Even moderators can't explain AI choices, leaving everyone in the dark.",
+        "visual_hint": "An AI eye with question mark, data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence brain",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test posting with a fresh account",
+        "description": "Create a new account and post on a popular subreddit. Expect fewer blocks, but acceptance criteria stay invisible—experience the shift yourself.",
+        "visual_hint": "Hand tapping smartphone, creating a profile",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching smartphone",
+        "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before Reddit changes",
+        "description": "Try it now: post with a fresh account on a busy subreddit. See if quality really matters—then comment your experience, or save for later.",
+        "visual_hint": "Reddit alien mascot holding a save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "reddit mascot ui design",
+        "image": "https://images.pexels.com/photos/16027822/pexels-photo-16027822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+    "savedAt": "2026-08-06T01:46:55.737Z",
+    "sourceId": "df9ad77e7a092bba8d908b3c6989fb18"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "trump-s-doj-gains-oversight-of-openai-s-green-card",
     "prompt_version": "1.0.0",
     "status": "published",
