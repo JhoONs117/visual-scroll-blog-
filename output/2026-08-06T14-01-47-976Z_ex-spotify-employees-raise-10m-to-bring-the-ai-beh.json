@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-spotify-employees-raise-10m-to-bring-the-ai-beh",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+  "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+  "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+  "slides": [
+    "Can Spotify's AI curate your shopping cart?",
+    "Ex-Spotify staff raised ten million dollars for it.",
+    "Their startup applies music algorithms to retail products.",
+    "This means stores can predict your purchases next.",
+    "Test their personalization on your own storefront."
+  ],
+  "thread_text": [
+    "1. Your cart, predicted\n\nEx-Spotify staff raised ten million dollars to apply music algorithms to retail products.",
+    "2. Stores that listen\n\nThese algorithms don't just track purchases—they learn your taste like playlists.",
+    "3. The next purchase twist\n\nThis means stores can predict what you'll buy next, before you even know it yourself.",
+    "4. Personalization on trial\n\nTheir startup is already offering test runs on your own storefront—no commitment needed.",
+    "5. Ready to test it?\n\nWill you let an AI curate your shopping cart? Set up a demo on your store this week."
+  ],
+  "video_script": [
+    "Spotify's AI could curate your shopping cart.",
+    "Ex-staff raised ten million for this.",
+    "Music algorithms now predict retail purchases.",
+    "Stores know your next move already.",
+    "Test personalization on your storefront today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your cart, predicted\n\nEx-Spotify staff raised ten million dollars to apply music algorithms to retail products.",
+        "2. Stores that listen\n\nThese algorithms don't just track purchases—they learn your taste like playlists.",
+        "3. The next purchase twist\n\nThis means stores can predict what you'll buy next, before you even know it yourself.",
+        "4. Personalization on trial\n\nTheir startup is already offering test runs on your own storefront—no commitment needed.",
+        "5. Ready to test it?\n\nWill you let an AI curate your shopping cart? Set up a demo on your store this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify's AI could curate your shopping cart.",
+        "Ex-staff raised ten million for this.",
+        "Music algorithms now predict retail purchases.",
+        "Stores know your next move already.",
+        "Test personalization on your storefront today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your shopping cart is about to get a recommendation engine worthy of your Spotify playlists.\n\nFive ex-Spotify employees just raised $10 million to teach retail the same algorithm that predicts your next favorite song. Their startup applies music-matching tech to products, so stores can learn your taste like a habit, not a transaction. The pitch: predict what you'll buy before you even know you want it.\n\nFor anyone selling online, this changes the game—your storefront could soon curate like a streaming service, not a catalog. No commitment to try it: they're already offering demo runs on your own site.\n\nThink a machine can read your shopping impulses? Or is this one step too far into the cart? 🛒📦🧠"
+    }
+  },
+  "instagram_caption": "Your shopping cart is about to get a recommendation engine worthy of your Spotify playlists.\n\nFive ex-Spotify employees just raised $10 million to teach retail the same algorithm that predicts your next favorite song. Their startup applies music-matching tech to products, so stores can learn your taste like a habit, not a transaction. The pitch: predict what you'll buy before you even know you want it.\n\nFor anyone selling online, this changes the game—your storefront could soon curate like a streaming service, not a catalog. No commitment to try it: they're already offering demo runs on your own site.\n\nThink a machine can read your shopping impulses? Or is this one step too far into the cart? 🛒📦🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your cart, predicted.",
+      "description": "Ex-Spotify staff raised $10M to apply music algorithms to retail, so stores can learn your taste and predict purchases.",
+      "visual_hint": "Shopping cart with algorithm icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "shopping cart"
+    },
+    {
+      "hook": "Stores that listen.",
+      "description": "These algorithms don't just track purchases—they learn your preferences like playlists, creating a tailored shopping experience.",
+      "visual_hint": "Musical note blending with price tag",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "retail store interior",
+      "image": "https://images.pexels.com/photos/8386654/pexels-photo-8386654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Next purchase twist.",
+      "description": "Stores can predict what you'll buy next, before you know it yourself. Your shopping list writes itself.",
+      "visual_hint": "Magnifying glass over product",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "product shelf",
+      "image": "https://images.pexels.com/photos/14172614/pexels-photo-14172614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test personalization now.",
+      "description": "Their startup offers test runs on your storefront—no commitment needed. See the AI in action with your products.",
+      "visual_hint": "Hand touching digital screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "storefront sign",
+      "image": "https://images.pexels.com/photos/6432588/pexels-photo-6432588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save for later? Try it.",
+      "description": "Visit the link in our bio to set up a demo on your store this week and let AI curate your customers' carts.",
+      "visual_hint": "Arrow pointing to bio link",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop with cart",
+      "image": "https://images.pexels.com/photos/7621361/pexels-photo-7621361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=1200",
+  "savedAt": "2026-08-06T14:02:01.359Z",
+  "sourceId": "b98407de0bcef8e8fa633f1f98d9abe0"
+}

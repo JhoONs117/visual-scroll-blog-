@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "insalata-alla-greca-con-frittata",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Insalata alla greca con frittata",
+    "link": "https://ricette.giallozafferano.it/Insalata-alla-greca-con-frittata.html",
+    "pubDate": "Thu, 06 Aug 2026 11:47:00 +0200",
+    "content": "Insalata greca con frittata, feta e olive: ricetta facile e veloce Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Top Blogger TOP BLOGGER Insalate Insalata alla greca con frittata /5 Ricetta proposta da Luisa Orizio CONDIVIDI INVIA FOTO COMMENTA en de es fr nl br SALVA Segui GialloZafferano su Google Seguici 255 Calorie per porzione Energia Kcal 255 Carboidrati g 6 &nbsp;&nbsp;di cui zuccheri g 1,9 Proteine g 12,3 Grassi g 20,5 &nbsp;&nbsp;di cui saturi g 6 Fibre g 1,2 Colesterolo mg 271,3 Sodio mg 485,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza glutine Vegetariano Dieta Mediterranea Difficoltà: Facile Preparazione: 15 min Cottura: 10 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE L' insalata alla greca con frittata è un’insalatona pensata per essere gustata come piatto unico fresco e nutriente. I tipici ingredienti dell’ insalata greca , ovvero feta, cetrioli, olive e cipolla, vengono arricchiti con una morbida frittata al basilico tagliata a quadretti, che rende la pietanza ancora più completa e bilanciata. Perfetta per un pranzo leggero al mare o in ufficio, l’insalata alla greca con frittata unisce le proteine alle vitamine delle verdure fresche in un mix colorato, genuino e appetitoso, che richiama i sapori della tradizione mediterranea. Si prepara in poche mosse e in meno di 30 minuti… cosa aspettate a provarla? Ecco altre gustose ricette di insalate con le uova: Insalata con uova strapazzate Insalata nizzarda Greek salad with frittata INGREDIENTI 255 Calorie per porzione Per l'insalata Insalata misticanza 150 g Feta 70 g Olive nere 50 g Cetrioli 200 g Cipolle rosse 50 g Olio extravergine d'oliva q.b. Sale fino q.b. Per la frittata Uova 5 Olio extravergine d'oliva 20 g Basilico q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata alla greca con frittata Per preparare l’insalata alla greca con frittata, iniziate dalla frittata: rompete le uova in una ciotola, poi aggiungete il sale 1 e le foglie di basilico spezzettate con le mani 2 . Sbattete bene con una frusta 3 . Versate il composto in una padella calda del diametro di 20 cm con un filo d’olio 4 e cuocete a fuoco medio per circa 5 minuti 5 , con il coperchio. Girate la frittata aiutandovi con un piatto e proseguite la cottura dall’altro lato ancora per pochi minuti 6 . Una volta pronta, mettete da parte la frittata e lasciatela intiepidire. Nel frattempo sbucciate i cetrioli e tagliateli a fettine 7 , poi affettate sottilmente la cipolla rossa 8 . Riprendete la frittata e tagliatela a quadratini 9 . Siete pronti per assemblare l’insalata: distribuite la misticanza in un piatto da portata 10 , poi aggiungete la cipolla 11 e i cetrioli 12 . Unite anche le olive nere 13 , la frittata 14 e la feta sbriciolata 15 . Condite con olio 16 e sale, poi completate con le foglie di basilico 17 . Mescolate delicatamente e servite la vostra insalata alla greca con frittata 18 ! Conservazione Si consiglia di consumare subito l’insalata alla greca con frittata. La frittata si può preparare in anticipo e conservare in frigorifero per un giorno al massimo. Consiglio Se preferite, potete stemperare il sapore della cipolla lasciandola prima in ammollo in acqua fredda per 10-15 minuti In alternativa potete ometterla. Vi piacciono i sapori tipici della cucina greca? Non perdetevi anche la ricetta della frittata alla greca ! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Feta Olive in salamoia Olio di oliva Uovo Cipolla Cetriolo Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Insalata alla greca con frittata 5.0 Insalata di farro con zucchine grigliate e mandorle 5.0 Insalata di anguria e feta 5.0 SCOPRI Insalata greca ricetta Feta greca Salsa allo yogurt Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Insalatona greca con frittata, fresca e completa",
+      "Feta, cetrioli, olive, cipolla, misticanza",
+      "Sbatti uova con basilico e sale",
+      "Cuoci la frittata in padella, poi tagliala",
+      "Condisci con olio e sale, servi subito"
+    ],
+    "instagram_caption": "L’insalata greca che non ti aspetti: la frittata la rende un piatto unico, non un semplice contorno. 😍  \nFeta saporita, cetrioli croccanti, olive e cipolla rossa, il tutto rinfrescato dalla misticanza. Poi la svolta: uova sbattute con basilico fresco, cotte in una frittata sottile e tagliata a strisce. Condisci con un filo d’olio e un pizzico di sale, ed è subito festa. 🥒🍅  \nPerfetta per un pranzo veloce ma che sa di vacanza. Provala questo weekend! 🫒✨",
+    "formats": {
+      "instagram": {
+        "caption": "L’insalata greca che non ti aspetti: la frittata la rende un piatto unico, non un semplice contorno. 😍  \nFeta saporita, cetrioli croccanti, olive e cipolla rossa, il tutto rinfrescato dalla misticanza. Poi la svolta: uova sbattute con basilico fresco, cotte in una frittata sottile e tagliata a strisce. Condisci con un filo d’olio e un pizzico di sale, ed è subito festa. 🥒🍅  \nPerfetta per un pranzo veloce ma che sa di vacanza. Provala questo weekend! 🫒✨"
+      },
+      "tiktok": {
+        "script": [
+          "Faccio un'insalatona greca, fresca e super completa.",
+          "Dentro feta, cetrioli, olive, cipolla e misticanza.",
+          "Sbatto le uova con basilico e un pizzico di sale.",
+          "Cuocio la frittata in padella e poi la taglio.",
+          "Condisco con olio e sale. Servo subito, che bontà!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Questa insalata alla greca con frittata è il piatto che non sapevi di volere: fresca, completa, e ti salva la cena in 15 minuti. Ti spiego come farla.",
+          "Parti con l’insalatona: misticanza, cetrioli a rondelle, olive nere, cipolla rossa affettata sottile. Poi sbriciola la feta sopra. Sembra già una poesia, ma aspetta.",
+          "Ora il gesto chiave: sbatti 2 uova con basilico fresco e un pizzico di sale. Niente latte, niente panna. Solo uova e basilico, che diventano una frittata sottile.",
+          "Cuoci la frittata in padella antiaderente, giri dopo 2 minuti, la togli e la tagli a strisce o quadrati. La metti sull’insalata ancora tiepida: è lì che succede la magia.",
+          "Condisci con olio extravergine, un filo di sale e mescola delicatamente. Servi subito, perché la frittata calda sulla verdura croccante è il contrasto perfetto. Provala e dimmi com’è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Faccio un'insalatona greca, fresca e super completa.",
+      "Dentro feta, cetrioli, olive, cipolla e misticanza.",
+      "Sbatto le uova con basilico e un pizzico di sale.",
+      "Cuocio la frittata in padella e poi la taglio.",
+      "Condisco con olio e sale. Servo subito, che bontà!"
+    ],
+    "thread_text": [
+      "Questa insalata alla greca con frittata è il piatto che non sapevi di volere: fresca, completa, e ti salva la cena in 15 minuti. Ti spiego come farla.",
+      "Parti con l’insalatona: misticanza, cetrioli a rondelle, olive nere, cipolla rossa affettata sottile. Poi sbriciola la feta sopra. Sembra già una poesia, ma aspetta.",
+      "Ora il gesto chiave: sbatti 2 uova con basilico fresco e un pizzico di sale. Niente latte, niente panna. Solo uova e basilico, che diventano una frittata sottile.",
+      "Cuoci la frittata in padella antiaderente, giri dopo 2 minuti, la togli e la tagli a strisce o quadrati. La metti sull’insalata ancora tiepida: è lì che succede la magia.",
+      "Condisci con olio extravergine, un filo di sale e mescola delicatamente. Servi subito, perché la frittata calda sulla verdura croccante è il contrasto perfetto. Provala e dimmi com’è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Insalatona greca con frittata",
+        "description": "Fresca, completa e perfetta per un pasto leggero ma saporito, con frittata proteica e verdure croccanti.",
+        "visual_hint": "Ciotola colorata con frittata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "greek salad frittata savory"
+      },
+      {
+        "hook": "Feta, cetrioli, olive, cipolla",
+        "description": "Gli ingredienti greci essenziali: feta cremosa, cetrioli freschi, olive salate e misticanza croccante.",
+        "visual_hint": "Ingredienti in primo piano",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "greek salad ingredients savory",
+        "image": "https://images.pexels.com/photos/6128854/pexels-photo-6128854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sbatti uova con basilico",
+        "description": "Il gesto chiave: sbattere le uova con basilico e sale per una frittata profumata e saporita.",
+        "visual_hint": "Uova in una ciotola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "whisking eggs basil savory",
+        "image": "https://images.pexels.com/photos/8055132/pexels-photo-8055132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci e taglia la frittata",
+        "description": "Cuoci la frittata in padella fino a doratura, poi tagliala a strisce o cubetti per aggiungerla all'insalata.",
+        "visual_hint": "Frittata in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cooking frittata pan savory",
+        "image": "https://images.pexels.com/photos/10794161/pexels-photo-10794161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Condisci e servi subito",
+        "description": "Trucco finale: condisci con olio e sale, servi subito per gustare l'insalata fresca e completa.",
+        "visual_hint": "Insalata condita e pronta",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "served greek salad savory",
+        "image": "https://images.pexels.com/photos/38875931/pexels-photo-38875931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "salad",
+    "signature_ingredients": [
+      "feta",
+      "cetrioli",
+      "olive"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36536/Insalata-alla-greca-con-frittata_650x433_wm.jpg",
+    "savedAt": "2026-08-06T14:06:33.244Z",
+    "sourceId": "0250a4dfe3b46398fdc4000dbe880bc3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "insalata-di-farro-con-zucchine-grigliate-e-mandorl",
     "prompt_version": "1.0.0",
     "status": "published",

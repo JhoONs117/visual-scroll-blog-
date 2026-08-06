@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "exclusive-mirendil-inks-100m-google-cloud-deal-to-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+    "slides": [
+      "Mirendil's new Google Cloud deal: can $100M buy intelligence?",
+      "The AI trains itself using distributed compute at unprecedented scale.",
+      "But its self-improvement loop hides a critical bottleneck nobody discusses.",
+      "Your infrastructure decisions might become obsolete if this scales.",
+      "Test Mirendil's open beta before committing to current AI vendors."
+    ],
+    "thread_text": [
+      "1. Can $100M buy intelligence?\n\nGoogle just backed Mirendil with $100M. The question isn't if it pays off, but what it means for your current setup.",
+      "2. The AI trains itself at scale\n\nMirendil uses distributed compute to train its own models, a scale never seen before. This isn't a human-guided tweak; it's autonomous learning.",
+      "3. The hidden bottleneck\n\nUnder the hood, a self-improvement loop hides a critical flaw that could stall progress. It's a detail that could change the game for adopters.",
+      "4. Your stack might become obsolete\n\nIf Mirendil scales, your infrastructure decisions could be outdated overnight. The pace of change is faster than your planning cycles.",
+      "5. Test Mirendil's open beta now\n\nBefore locking in with current AI vendors, try Mirendil's beta with a real workload. Measure the difference—or risk being left behind."
+    ],
+    "video_script": [
+      "Mirendil's hundred million dollar deal, what it means.",
+      "AI training itself, huge scale, but watch out.",
+      "There's a bottleneck hiding in the loop.",
+      "Your infrastructure could become obsolete, fast.",
+      "Try their beta now, before you commit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can $100M buy intelligence?\n\nGoogle just backed Mirendil with $100M. The question isn't if it pays off, but what it means for your current setup.",
+          "2. The AI trains itself at scale\n\nMirendil uses distributed compute to train its own models, a scale never seen before. This isn't a human-guided tweak; it's autonomous learning.",
+          "3. The hidden bottleneck\n\nUnder the hood, a self-improvement loop hides a critical flaw that could stall progress. It's a detail that could change the game for adopters.",
+          "4. Your stack might become obsolete\n\nIf Mirendil scales, your infrastructure decisions could be outdated overnight. The pace of change is faster than your planning cycles.",
+          "5. Test Mirendil's open beta now\n\nBefore locking in with current AI vendors, try Mirendil's beta with a real workload. Measure the difference—or risk being left behind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Mirendil's hundred million dollar deal, what it means.",
+          "AI training itself, huge scale, but watch out.",
+          "There's a bottleneck hiding in the loop.",
+          "Your infrastructure could become obsolete, fast.",
+          "Try their beta now, before you commit."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next compute contract might be obsolete before the ink dries. 💸\n\nGoogle just put $100M into Mirendil’s self-training AI. The system runs its own learning loops on distributed infrastructure—no human tweaking between cycles. That speed is the whole bet.\n\nThe catch? Its self-improvement loop has a bottleneck nobody’s talking about. If it cracks that, your current vendor lock-in stops making sense.\n\nFor you, that means the AI tools you’re building content with today could be the slow option by next quarter. 🧠\n\nAre you testing Mirendil’s open beta against your real workload this week, or waiting for the migration panic? ⏳"
+      }
+    },
+    "instagram_caption": "Your next compute contract might be obsolete before the ink dries. 💸\n\nGoogle just put $100M into Mirendil’s self-training AI. The system runs its own learning loops on distributed infrastructure—no human tweaking between cycles. That speed is the whole bet.\n\nThe catch? Its self-improvement loop has a bottleneck nobody’s talking about. If it cracks that, your current vendor lock-in stops making sense.\n\nFor you, that means the AI tools you’re building content with today could be the slow option by next quarter. 🧠\n\nAre you testing Mirendil’s open beta against your real workload this week, or waiting for the migration panic? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Can $100M buy intelligence?",
+        "description": "Google just backed Mirendil with $100M. The real question: what does this mean for your current infrastructure?",
+        "visual_hint": "Stacked gold bars",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "gold bars"
+      },
+      {
+        "hook": "AI that trains itself at scale",
+        "description": "Mirendil uses distributed compute for autonomous learning, not human-guided tweaks. This scale changes the game entirely.",
+        "visual_hint": "Network of nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden bottleneck inside",
+        "description": "Its self-improvement loop hides a critical flaw that could stall progress. This detail could change everything for adopters.",
+        "visual_hint": "Zooming on a flaw",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your stack could be obsolete",
+        "description": "If Mirendil scales, your infrastructure decisions could be outdated overnight. The pace of change exceeds your planning cycles.",
+        "visual_hint": "Hand flipping a switch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Mirendil's beta now",
+        "description": "Before locking in with current vendors, try Mirendil's beta with a real workload. Measure the difference—or risk being left behind.",
+        "visual_hint": "Finger tapping a button",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "savedAt": "2026-08-06T14:02:16.051Z",
+    "sourceId": "574a05ceaccbf2e2cb0956c9578a66d0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ex-spotify-employees-raise-10m-to-bring-the-ai-beh",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
+    "slides": [
+      "Can Spotify's AI curate your shopping cart?",
+      "Ex-Spotify staff raised ten million dollars for it.",
+      "Their startup applies music algorithms to retail products.",
+      "This means stores can predict your purchases next.",
+      "Test their personalization on your own storefront."
+    ],
+    "thread_text": [
+      "1. Your cart, predicted\n\nEx-Spotify staff raised ten million dollars to apply music algorithms to retail products.",
+      "2. Stores that listen\n\nThese algorithms don't just track purchases—they learn your taste like playlists.",
+      "3. The next purchase twist\n\nThis means stores can predict what you'll buy next, before you even know it yourself.",
+      "4. Personalization on trial\n\nTheir startup is already offering test runs on your own storefront—no commitment needed.",
+      "5. Ready to test it?\n\nWill you let an AI curate your shopping cart? Set up a demo on your store this week."
+    ],
+    "video_script": [
+      "Spotify's AI could curate your shopping cart.",
+      "Ex-staff raised ten million for this.",
+      "Music algorithms now predict retail purchases.",
+      "Stores know your next move already.",
+      "Test personalization on your storefront today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your cart, predicted\n\nEx-Spotify staff raised ten million dollars to apply music algorithms to retail products.",
+          "2. Stores that listen\n\nThese algorithms don't just track purchases—they learn your taste like playlists.",
+          "3. The next purchase twist\n\nThis means stores can predict what you'll buy next, before you even know it yourself.",
+          "4. Personalization on trial\n\nTheir startup is already offering test runs on your own storefront—no commitment needed.",
+          "5. Ready to test it?\n\nWill you let an AI curate your shopping cart? Set up a demo on your store this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Spotify's AI could curate your shopping cart.",
+          "Ex-staff raised ten million for this.",
+          "Music algorithms now predict retail purchases.",
+          "Stores know your next move already.",
+          "Test personalization on your storefront today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your shopping cart is about to get a recommendation engine worthy of your Spotify playlists.\n\nFive ex-Spotify employees just raised $10 million to teach retail the same algorithm that predicts your next favorite song. Their startup applies music-matching tech to products, so stores can learn your taste like a habit, not a transaction. The pitch: predict what you'll buy before you even know you want it.\n\nFor anyone selling online, this changes the game—your storefront could soon curate like a streaming service, not a catalog. No commitment to try it: they're already offering demo runs on your own site.\n\nThink a machine can read your shopping impulses? Or is this one step too far into the cart? 🛒📦🧠"
+      }
+    },
+    "instagram_caption": "Your shopping cart is about to get a recommendation engine worthy of your Spotify playlists.\n\nFive ex-Spotify employees just raised $10 million to teach retail the same algorithm that predicts your next favorite song. Their startup applies music-matching tech to products, so stores can learn your taste like a habit, not a transaction. The pitch: predict what you'll buy before you even know you want it.\n\nFor anyone selling online, this changes the game—your storefront could soon curate like a streaming service, not a catalog. No commitment to try it: they're already offering demo runs on your own site.\n\nThink a machine can read your shopping impulses? Or is this one step too far into the cart? 🛒📦🧠",
+    "carousel_slides": [
+      {
+        "hook": "Your cart, predicted.",
+        "description": "Ex-Spotify staff raised $10M to apply music algorithms to retail, so stores can learn your taste and predict purchases.",
+        "visual_hint": "Shopping cart with algorithm icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "shopping cart"
+      },
+      {
+        "hook": "Stores that listen.",
+        "description": "These algorithms don't just track purchases—they learn your preferences like playlists, creating a tailored shopping experience.",
+        "visual_hint": "Musical note blending with price tag",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "retail store interior",
+        "image": "https://images.pexels.com/photos/8386654/pexels-photo-8386654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Next purchase twist.",
+        "description": "Stores can predict what you'll buy next, before you know it yourself. Your shopping list writes itself.",
+        "visual_hint": "Magnifying glass over product",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "product shelf",
+        "image": "https://images.pexels.com/photos/14172614/pexels-photo-14172614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test personalization now.",
+        "description": "Their startup offers test runs on your storefront—no commitment needed. See the AI in action with your products.",
+        "visual_hint": "Hand touching digital screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "storefront sign",
+        "image": "https://images.pexels.com/photos/6432588/pexels-photo-6432588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save for later? Try it.",
+        "description": "Visit the link in our bio to set up a demo on your store this week and let AI curate your customers' carts.",
+        "visual_hint": "Arrow pointing to bio link",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "laptop with cart",
+        "image": "https://images.pexels.com/photos/7621361/pexels-photo-7621361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=1200",
+    "savedAt": "2026-08-06T14:02:01.359Z",
+    "sourceId": "b98407de0bcef8e8fa633f1f98d9abe0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sure-seems-like-fenix-flexin-used-ai-music-generat",
     "prompt_version": "1.0.0",
     "status": "published",
