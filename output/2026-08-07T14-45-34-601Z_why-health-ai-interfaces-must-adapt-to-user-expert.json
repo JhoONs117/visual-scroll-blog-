@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-health-ai-interfaces-must-adapt-to-user-expert",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why health AI interfaces must adapt to user expertise",
+  "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+  "pubDate": "Thu, 06 Aug 2026 15:55:37 +0000",
+  "slides": [
+    "Different expertise levels demand different health AI interfaces.",
+    "Novices and experts use same tool very differently.",
+    "One design fits all leads to dangerous misreadings.",
+    "Adaptive interfaces reduce errors and increase trust.",
+    "Test your interface with both user groups now."
+  ],
+  "thread_text": [
+    "1. Dangerous Tool\n\nA single interface for all users is a safety hazard. Novices misread critical data, experts miss alerts they expect to see.",
+    "2. The Same Tool\n\nNovices and experts rely on different cues to interpret AI outputs. What guides one group completely misleads the other.",
+    "3. Trust is the Price\n\nAdaptive interfaces that adjust to the user's skill level are not just a convenience—they're essential for reducing errors and building trust in AI.",
+    "4. The Test Gap\n\nMost AI health tools are only tested with one user group. That means the other group is an untested variable in the clinic.",
+    "5. Your Move\n\nRun a quick think-aloud session with a novice and an expert using your prototype. If you haven't done it, start there today."
+  ],
+  "video_script": [
+    "Different expertise levels need different AI interfaces.",
+    "Novices and experts use the same tool differently.",
+    "One design for all leads to dangerous misreadings.",
+    "Adaptive interfaces reduce errors and build trust.",
+    "Test your interface with both user groups now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Dangerous Tool\n\nA single interface for all users is a safety hazard. Novices misread critical data, experts miss alerts they expect to see.",
+        "2. The Same Tool\n\nNovices and experts rely on different cues to interpret AI outputs. What guides one group completely misleads the other.",
+        "3. Trust is the Price\n\nAdaptive interfaces that adjust to the user's skill level are not just a convenience—they're essential for reducing errors and building trust in AI.",
+        "4. The Test Gap\n\nMost AI health tools are only tested with one user group. That means the other group is an untested variable in the clinic.",
+        "5. Your Move\n\nRun a quick think-aloud session with a novice and an expert using your prototype. If you haven't done it, start there today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Different expertise levels need different AI interfaces.",
+        "Novices and experts use the same tool differently.",
+        "One design for all leads to dangerous misreadings.",
+        "Adaptive interfaces reduce errors and build trust.",
+        "Test your interface with both user groups now."
+      ]
+    },
+    "instagram": {
+      "caption": "The same health AI interface that guides a first-year resident can actively mislead a seasoned cardiologist—and vice versa.  \n\nNew research shows novices and experts read the same AI output using completely different cues. What clarifies for one group distorts for the other, and a single design pushes both toward dangerous misreadings.  \n\nAdaptive interfaces that shift based on the user's skill level cut errors and rebuild trust. But most tools are still tested with only one type of user—leaving the other group as an unknown variable in real clinics.  \n\nIf you're building or approving a health AI tool, run one think-aloud session with a novice and one with an expert this week. What did the novice miss that the expert caught? 👀🧠⚕️"
+    }
+  },
+  "instagram_caption": "The same health AI interface that guides a first-year resident can actively mislead a seasoned cardiologist—and vice versa.  \n\nNew research shows novices and experts read the same AI output using completely different cues. What clarifies for one group distorts for the other, and a single design pushes both toward dangerous misreadings.  \n\nAdaptive interfaces that shift based on the user's skill level cut errors and rebuild trust. But most tools are still tested with only one type of user—leaving the other group as an unknown variable in real clinics.  \n\nIf you're building or approving a health AI tool, run one think-aloud session with a novice and one with an expert this week. What did the novice miss that the expert caught? 👀🧠⚕️",
+  "carousel_slides": [
+    {
+      "hook": "One interface can be dangerous.",
+      "description": "A single design for all users is a safety hazard. Novices misread critical data, experts miss expected alerts, causing risky errors.",
+      "visual_hint": "Split screen showing confusion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "medical monitor screen"
+    },
+    {
+      "hook": "Novices and experts see differently.",
+      "description": "They rely on different cues to interpret AI outputs. What guides one group completely misleads the other, leading to mistakes.",
+      "visual_hint": "Two paths diverging from tool",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fork in road",
+      "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Adaptive interfaces save trust.",
+      "description": "Adjusting to user skill level reduces errors and builds confidence. It's not convenience—it's essential for safe clinical use.",
+      "visual_hint": "Interface morphing to fit user",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "heartbeat monitor graph",
+      "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most tools test only one group.",
+      "description": "If you test with just novices or experts, the other group becomes an untested variable. That gap risks patient safety in clinics.",
+      "visual_hint": "One user group highlighted, other dim",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor holding tablet",
+      "image": "https://images.pexels.com/photos/6010869/pexels-photo-6010869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test both groups today.",
+      "description": "Run a quick think-aloud session with one novice and one expert on your prototype. Start there now to find critical gaps.",
+      "visual_hint": "Checkmark over two user icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-07T14:46:15.982Z",
+  "sourceId": "343eb4990a175ca60d69d594047fb6a8"
+}

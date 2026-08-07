@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "prism2-model-uses-clinical-dialogue-to-interpret-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+    "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+    "pubDate": "Wed, 05 Aug 2026 15:26:20 +0000",
+    "slides": [
+      "Can AI read your biopsy like a doctor?",
+      "PRISM2 learns from clinical conversations, not just images.",
+      "It spots subtle patterns no human eye catches.",
+      "Your next pathology report may be AI-reviewed.",
+      "Ask your lab if PRISM2 is in use."
+    ],
+    "thread_text": [
+      "1. What if AI reads your biopsy?\n\nPRISM2 doesn't just look at images—it learns from clinical conversations, catching what eyes miss.",
+      "2. Patterns invisible to humans\n\nIt spots subtle changes in tissue that no pathologist has been trained to see, changing the diagnostic game.",
+      "3. The learning secret\n\nPRISM2's edge comes from training on doctor-patient dialogues, not just scans—a novel approach that boosts accuracy.",
+      "4. Your report's new reviewer\n\nSoon, every pathology report could get an AI second pass, flagging risks before they become crises.",
+      "5. Ask your lab this week\n\nCall your lab and ask: 'Is PRISM2 in use?' If not, ask why—your diagnosis might depend on it."
+    ],
+    "video_script": [
+      "Your biopsy, read by an AI?",
+      "It learns from doctor conversations.",
+      "Catches what eyes can't see.",
+      "Your report may get AI review.",
+      "Ask your lab if PRISM2's there."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if AI reads your biopsy?\n\nPRISM2 doesn't just look at images—it learns from clinical conversations, catching what eyes miss.",
+          "2. Patterns invisible to humans\n\nIt spots subtle changes in tissue that no pathologist has been trained to see, changing the diagnostic game.",
+          "3. The learning secret\n\nPRISM2's edge comes from training on doctor-patient dialogues, not just scans—a novel approach that boosts accuracy.",
+          "4. Your report's new reviewer\n\nSoon, every pathology report could get an AI second pass, flagging risks before they become crises.",
+          "5. Ask your lab this week\n\nCall your lab and ask: 'Is PRISM2 in use?' If not, ask why—your diagnosis might depend on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your biopsy, read by an AI?",
+          "It learns from doctor conversations.",
+          "Catches what eyes can't see.",
+          "Your report may get AI review.",
+          "Ask your lab if PRISM2's there."
+        ]
+      },
+      "instagram": {
+        "caption": "Your biopsy report might get a second opinion from a model trained on doctor-patient chats, not just tissue scans 🧠\n\nPRISM2 learns from clinical dialogue to read pathology slides, spotting subtle patterns in tissue that human eyes aren't trained to see. It’s a new layer of review, not a replacement—accuracy gets a boost where it counts most.\n\nFor anyone waiting on a pathology result, this could mean earlier flags on risks that would otherwise slip through. Labs that adopt it change how your diagnosis is double-checked.\n\nNext time you’re at your lab, ask straight: “Is PRISM2 reviewing my slides?” If not, what are they using instead? 🩺🔬"
+      }
+    },
+    "instagram_caption": "Your biopsy report might get a second opinion from a model trained on doctor-patient chats, not just tissue scans 🧠\n\nPRISM2 learns from clinical dialogue to read pathology slides, spotting subtle patterns in tissue that human eyes aren't trained to see. It’s a new layer of review, not a replacement—accuracy gets a boost where it counts most.\n\nFor anyone waiting on a pathology result, this could mean earlier flags on risks that would otherwise slip through. Labs that adopt it change how your diagnosis is double-checked.\n\nNext time you’re at your lab, ask straight: “Is PRISM2 reviewing my slides?” If not, what are they using instead? 🩺🔬",
+    "carousel_slides": [
+      {
+        "hook": "What if AI truly reads your biopsy?",
+        "description": "PRISM2 learns from clinical dialogues, not just images, catching subtle patterns that could change your diagnosis.",
+        "visual_hint": "AI scanning a biopsy slide",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microscope slide laboratory"
+      },
+      {
+        "hook": "It spots what human eyes miss.",
+        "description": "PRISM2 detects tissue changes invisible to pathologists, offering a second pair of eyes that could flag risks early.",
+        "visual_hint": "Magnified tissue with highlighted anomaly",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "tissue sample microscope",
+        "image": "https://images.pexels.com/photos/36372296/pexels-photo-36372296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Its secret? Doctor-patient conversations.",
+        "description": "PRISM2's novel training on clinical dialogues boosts diagnostic accuracy, learning beyond static scans.",
+        "visual_hint": "Doctor and patient talking with AI overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "doctor patient conversation",
+        "image": "https://images.pexels.com/photos/7659876/pexels-photo-7659876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next report may get an AI review.",
+        "description": "Imagine every pathology report receiving an AI second pass, flagging risks before they become crises.",
+        "visual_hint": "Pathology report with AI checkmark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "pathology report document",
+        "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and ask your lab about PRISM2.",
+        "description": "Call your lab today and ask if PRISM2 is in use. Your diagnosis could depend on it.",
+        "visual_hint": "Phone and lab building",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "phone call laboratory",
+        "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-07T14:46:28.361Z",
+    "sourceId": "ce706af5ae21567a45ad9df76926cb96"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-health-ai-interfaces-must-adapt-to-user-expert",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why health AI interfaces must adapt to user expertise",
+    "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+    "pubDate": "Thu, 06 Aug 2026 15:55:37 +0000",
+    "slides": [
+      "Different expertise levels demand different health AI interfaces.",
+      "Novices and experts use same tool very differently.",
+      "One design fits all leads to dangerous misreadings.",
+      "Adaptive interfaces reduce errors and increase trust.",
+      "Test your interface with both user groups now."
+    ],
+    "thread_text": [
+      "1. Dangerous Tool\n\nA single interface for all users is a safety hazard. Novices misread critical data, experts miss alerts they expect to see.",
+      "2. The Same Tool\n\nNovices and experts rely on different cues to interpret AI outputs. What guides one group completely misleads the other.",
+      "3. Trust is the Price\n\nAdaptive interfaces that adjust to the user's skill level are not just a convenience—they're essential for reducing errors and building trust in AI.",
+      "4. The Test Gap\n\nMost AI health tools are only tested with one user group. That means the other group is an untested variable in the clinic.",
+      "5. Your Move\n\nRun a quick think-aloud session with a novice and an expert using your prototype. If you haven't done it, start there today."
+    ],
+    "video_script": [
+      "Different expertise levels need different AI interfaces.",
+      "Novices and experts use the same tool differently.",
+      "One design for all leads to dangerous misreadings.",
+      "Adaptive interfaces reduce errors and build trust.",
+      "Test your interface with both user groups now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Dangerous Tool\n\nA single interface for all users is a safety hazard. Novices misread critical data, experts miss alerts they expect to see.",
+          "2. The Same Tool\n\nNovices and experts rely on different cues to interpret AI outputs. What guides one group completely misleads the other.",
+          "3. Trust is the Price\n\nAdaptive interfaces that adjust to the user's skill level are not just a convenience—they're essential for reducing errors and building trust in AI.",
+          "4. The Test Gap\n\nMost AI health tools are only tested with one user group. That means the other group is an untested variable in the clinic.",
+          "5. Your Move\n\nRun a quick think-aloud session with a novice and an expert using your prototype. If you haven't done it, start there today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Different expertise levels need different AI interfaces.",
+          "Novices and experts use the same tool differently.",
+          "One design for all leads to dangerous misreadings.",
+          "Adaptive interfaces reduce errors and build trust.",
+          "Test your interface with both user groups now."
+        ]
+      },
+      "instagram": {
+        "caption": "The same health AI interface that guides a first-year resident can actively mislead a seasoned cardiologist—and vice versa.  \n\nNew research shows novices and experts read the same AI output using completely different cues. What clarifies for one group distorts for the other, and a single design pushes both toward dangerous misreadings.  \n\nAdaptive interfaces that shift based on the user's skill level cut errors and rebuild trust. But most tools are still tested with only one type of user—leaving the other group as an unknown variable in real clinics.  \n\nIf you're building or approving a health AI tool, run one think-aloud session with a novice and one with an expert this week. What did the novice miss that the expert caught? 👀🧠⚕️"
+      }
+    },
+    "instagram_caption": "The same health AI interface that guides a first-year resident can actively mislead a seasoned cardiologist—and vice versa.  \n\nNew research shows novices and experts read the same AI output using completely different cues. What clarifies for one group distorts for the other, and a single design pushes both toward dangerous misreadings.  \n\nAdaptive interfaces that shift based on the user's skill level cut errors and rebuild trust. But most tools are still tested with only one type of user—leaving the other group as an unknown variable in real clinics.  \n\nIf you're building or approving a health AI tool, run one think-aloud session with a novice and one with an expert this week. What did the novice miss that the expert caught? 👀🧠⚕️",
+    "carousel_slides": [
+      {
+        "hook": "One interface can be dangerous.",
+        "description": "A single design for all users is a safety hazard. Novices misread critical data, experts miss expected alerts, causing risky errors.",
+        "visual_hint": "Split screen showing confusion",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "medical monitor screen"
+      },
+      {
+        "hook": "Novices and experts see differently.",
+        "description": "They rely on different cues to interpret AI outputs. What guides one group completely misleads the other, leading to mistakes.",
+        "visual_hint": "Two paths diverging from tool",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Adaptive interfaces save trust.",
+        "description": "Adjusting to user skill level reduces errors and builds confidence. It's not convenience—it's essential for safe clinical use.",
+        "visual_hint": "Interface morphing to fit user",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "heartbeat monitor graph",
+        "image": "https://images.pexels.com/photos/7858245/pexels-photo-7858245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Most tools test only one group.",
+        "description": "If you test with just novices or experts, the other group becomes an untested variable. That gap risks patient safety in clinics.",
+        "visual_hint": "One user group highlighted, other dim",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor holding tablet",
+        "image": "https://images.pexels.com/photos/6010869/pexels-photo-6010869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test both groups today.",
+        "description": "Run a quick think-aloud session with one novice and one expert on your prototype. Start there now to find critical gaps.",
+        "visual_hint": "Checkmark over two user icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-07T14:46:15.982Z",
+    "sourceId": "343eb4990a175ca60d69d594047fb6a8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "alibaba-tests-new-business-model-for-qwen-open-sou",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Alibaba tests new business model for Qwen open-source AI",
+    "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+    "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+    "slides": [
+      "Can Alibaba's Qwen rival closed AI giants?",
+      "A new business model shifts from pure open-source.",
+      "Unexpectedly, it blends open weights with cloud revenues.",
+      "Your AI strategy must now consider hybrid deployments.",
+      "Test Qwen's cloud tier versus local models this month."
+    ],
+    "thread_text": [
+      "1. The Open-Source Betrayal\n\nAlibaba's Qwen, once the open-source darling, now gates its best models behind a cloud paywall. The shift from pure open-source to hybrid is a quiet revolution.",
+      "2. The New Business Model\n\nIt's not about giving away code anymore. It's about using open weights as a lure, then monetizing through cloud revenues. This isn't a fork in the road—it's a detour.",
+      "3. The Hybrid Reality\n\nYour AI stack can't be all-in on local or cloud. The tension is real: local models save money, cloud versions get updates. You're forced to choose where your data sleeps.",
+      "4. The Competitive Squeeze\n\nClosed giants like OpenAI and Anthropic watch as Alibaba undercuts on price. But the twist? Hybrid deployments blur the line—your next \"open\" model might live in their data center.",
+      "5. Test It This Month\n\nTake a prompt that matters to you. Run it on Qwen's cloud tier and a local model. Measure time, cost, and output quality. Does the convenience justify the lock-in?"
+    ],
+    "video_script": [
+      "Alibaba's Qwen now charges for cloud access.",
+      "Open weights lure you, then cloud bills follow.",
+      "Hybrid deployment is your new strategic necessity.",
+      "Your local models can't match cloud updates.",
+      "Test Qwen's cloud tier versus local today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Open-Source Betrayal\n\nAlibaba's Qwen, once the open-source darling, now gates its best models behind a cloud paywall. The shift from pure open-source to hybrid is a quiet revolution.",
+          "2. The New Business Model\n\nIt's not about giving away code anymore. It's about using open weights as a lure, then monetizing through cloud revenues. This isn't a fork in the road—it's a detour.",
+          "3. The Hybrid Reality\n\nYour AI stack can't be all-in on local or cloud. The tension is real: local models save money, cloud versions get updates. You're forced to choose where your data sleeps.",
+          "4. The Competitive Squeeze\n\nClosed giants like OpenAI and Anthropic watch as Alibaba undercuts on price. But the twist? Hybrid deployments blur the line—your next \"open\" model might live in their data center.",
+          "5. Test It This Month\n\nTake a prompt that matters to you. Run it on Qwen's cloud tier and a local model. Measure time, cost, and output quality. Does the convenience justify the lock-in?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Alibaba's Qwen now charges for cloud access.",
+          "Open weights lure you, then cloud bills follow.",
+          "Hybrid deployment is your new strategic necessity.",
+          "Your local models can't match cloud updates.",
+          "Test Qwen's cloud tier versus local today."
+        ]
+      },
+      "instagram": {
+        "caption": "The model you downloaded last month might not be the best one anymore — Alibaba just moved Qwen’s top versions behind its cloud.\n\nOpen weights stay free, but the newest upgrades now require paying for cloud access. That’s a real shift: previously, open-source meant everything was local, forever. Now it’s a hybrid — you get the lure, they get the revenue stream.\n\nFor you, this means choosing where your data runs changes your costs and your update speed. Local saves money; cloud gets the freshest outputs.\n\nRun your most-used prompt on both this week. Which one actually wins? ⚖️☁️💸"
+      }
+    },
+    "instagram_caption": "The model you downloaded last month might not be the best one anymore — Alibaba just moved Qwen’s top versions behind its cloud.\n\nOpen weights stay free, but the newest upgrades now require paying for cloud access. That’s a real shift: previously, open-source meant everything was local, forever. Now it’s a hybrid — you get the lure, they get the revenue stream.\n\nFor you, this means choosing where your data runs changes your costs and your update speed. Local saves money; cloud gets the freshest outputs.\n\nRun your most-used prompt on both this week. Which one actually wins? ⚖️☁️💸",
+    "carousel_slides": [
+      {
+        "hook": "Your 'open' AI now lives in their cloud",
+        "description": "Alibaba gates Qwen's best models behind a cloud paywall, blending open weights with paid cloud. This hybrid model changes where your data sleeps.",
+        "visual_hint": "Open box with cloud lock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cloud computing data center"
+      },
+      {
+        "hook": "Open source just became a lure",
+        "description": "Give away weights, monetize through cloud. Alibaba shifts from pure open-source to hybrid, turning Qwen into a gateway for cloud revenue.",
+        "visual_hint": "Fishing hook with cloud",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fishing hook closeup",
+        "image": "https://images.pexels.com/photos/6478103/pexels-photo-6478103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Local or cloud? Now you must choose",
+        "description": "Your AI stack can't be all-in on one side. Local saves cash, cloud gets updates. Hybrid forces a decision on data control.",
+        "visual_hint": "Two paths diverging in code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cheaper than OpenAI — but at what cost?",
+        "description": "Alibaba undercuts closed giants, yet hybrid deployments blur lines. Your next open model might live in their data center.",
+        "visual_hint": "Price tag vs lock icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "price tag closeup",
+        "image": "https://images.pexels.com/photos/7563550/pexels-photo-7563550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Qwen cloud vs local this month",
+        "description": "Run a prompt that matters on both. Measure cost, speed, output quality. Decide if convenience is worth the lock-in. Save this to remember.",
+        "visual_hint": "Stopwatch and two laptops",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch laptop comparison",
+        "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-07T14:46:03.566Z",
+    "sourceId": "004bd258b033c28c8038de54087b80cc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-ai-is-changing-instagram-engagement-without-re",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How AI Is changing Instagram engagement without replacing the human touch",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+    "pubDate": "Fri, 07 Aug 2026 14:33:59 +0000",
+    "slides": [
+      "Can AI boost your Instagram without losing authenticity?",
+      "Engagement algorithms now reward genuine interactions over likes.",
+      "AI curates comments but cannot feel your audience's pulse.",
+      "You must blend AI insights with your unique creative voice.",
+      "Test one AI-assisted post today; notice the difference."
+    ],
+    "thread_text": [
+      "1. The Algorithm Shifted\n\nEngagement algorithms now reward genuine interactions over likes, making authenticity a currency you can't fake.",
+      "2. AI's Blind Spot\n\nAI can curate comments, but it can't feel your audience's pulse—it lacks the emotional radar you have.",
+      "3. The Creative Mix\n\nBlend AI's data-driven insights with your unique voice to avoid becoming a generic content machine.",
+      "4. The Authenticity Trap\n\nOver-relying on AI risks losing the human touch that builds real connection—your audience will notice.",
+      "5. Test It Today\n\nTry one AI-assisted post this week. Does it save time without costing authenticity? See the difference for yourself."
+    ],
+    "video_script": [
+      "Algorithms now reward genuine interactions, not likes.",
+      "AI curates comments but misses emotional signals.",
+      "Blend AI insights with your creative voice.",
+      "You can't let AI replace your human touch.",
+      "Test one AI post and see the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Algorithm Shifted\n\nEngagement algorithms now reward genuine interactions over likes, making authenticity a currency you can't fake.",
+          "2. AI's Blind Spot\n\nAI can curate comments, but it can't feel your audience's pulse—it lacks the emotional radar you have.",
+          "3. The Creative Mix\n\nBlend AI's data-driven insights with your unique voice to avoid becoming a generic content machine.",
+          "4. The Authenticity Trap\n\nOver-relying on AI risks losing the human touch that builds real connection—your audience will notice.",
+          "5. Test It Today\n\nTry one AI-assisted post this week. Does it save time without costing authenticity? See the difference for yourself."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Algorithms now reward genuine interactions, not likes.",
+          "AI curates comments but misses emotional signals.",
+          "Blend AI insights with your creative voice.",
+          "You can't let AI replace your human touch.",
+          "Test one AI post and see the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "Instagram’s algorithm now ranks genuine interactions—comments and shares—over passive likes, so a viral post without real conversation quietly sinks. 🧠\n\nAI can auto-draft replies or spot comment patterns, but it can’t read the room—your audience’s mood, humor, or silent frustration stays invisible to it. 👀\n\nFor you, that means AI is a research assistant, not a ghostwriter. Use it to find what topic lands, then write the caption yourself. ✍️\n\nOver-automating your replies will flatten your voice—people notice when a “thank you” sounds generated.\n\nTry one AI-assisted post this week, but keep your own wording for the first comment. Did the data help without making you sound like a bot? 🤔"
+      }
+    },
+    "instagram_caption": "Instagram’s algorithm now ranks genuine interactions—comments and shares—over passive likes, so a viral post without real conversation quietly sinks. 🧠\n\nAI can auto-draft replies or spot comment patterns, but it can’t read the room—your audience’s mood, humor, or silent frustration stays invisible to it. 👀\n\nFor you, that means AI is a research assistant, not a ghostwriter. Use it to find what topic lands, then write the caption yourself. ✍️\n\nOver-automating your replies will flatten your voice—people notice when a “thank you” sounds generated.\n\nTry one AI-assisted post this week, but keep your own wording for the first comment. Did the data help without making you sound like a bot? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can AI be authentic?",
+        "description": "AI curates comments but lacks emotional radar. Your audience feels the difference instantly, so pair data with your instinct.",
+        "visual_hint": "Robot hand touching heart",
+        "layout_type": "hero",
+        "icon": "heart",
+        "image_query": "robot hand"
+      },
+      {
+        "hook": "Algorithms now reward realness.",
+        "description": "Engagement algorithms reward genuine interactions over likes. Authenticity is your new currency, impossible to fake or automate.",
+        "visual_hint": "Scale balancing likes and hearts",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI can't feel your audience.",
+        "description": "AI curates comments but misses pulse and emotion. It lacks the empathy radar only you have as a creator.",
+        "visual_hint": "EKG line overlaid on feed",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "heart monitor",
+        "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blend tech with your voice.",
+        "description": "Mix AI's data insights with your unique creative voice. Avoid becoming a generic content machine that loses human touch.",
+        "visual_hint": "Paintbrush merging into circuit board",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "paintbrush circuit",
+        "image": "https://images.pexels.com/photos/7606230/pexels-photo-7606230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test today.",
+        "description": "Try one AI-assisted post this week. Check if it saves time without costing authenticity—then tell us your result.",
+        "visual_hint": "Phone screen with a post",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone closeup",
+        "image": "https://images.pexels.com/photos/12969045/pexels-photo-12969045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-07T14:45:47.414Z",
+    "sourceId": "700c939878dad4992894aa681bcce735"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-bots-started-a-religion-humans-immediately-foll",
     "prompt_version": "1.0.0",
     "status": "published",

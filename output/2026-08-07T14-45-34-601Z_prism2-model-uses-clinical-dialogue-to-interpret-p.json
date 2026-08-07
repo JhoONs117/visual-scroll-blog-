@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "prism2-model-uses-clinical-dialogue-to-interpret-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+  "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+  "pubDate": "Wed, 05 Aug 2026 15:26:20 +0000",
+  "slides": [
+    "Can AI read your biopsy like a doctor?",
+    "PRISM2 learns from clinical conversations, not just images.",
+    "It spots subtle patterns no human eye catches.",
+    "Your next pathology report may be AI-reviewed.",
+    "Ask your lab if PRISM2 is in use."
+  ],
+  "thread_text": [
+    "1. What if AI reads your biopsy?\n\nPRISM2 doesn't just look at images—it learns from clinical conversations, catching what eyes miss.",
+    "2. Patterns invisible to humans\n\nIt spots subtle changes in tissue that no pathologist has been trained to see, changing the diagnostic game.",
+    "3. The learning secret\n\nPRISM2's edge comes from training on doctor-patient dialogues, not just scans—a novel approach that boosts accuracy.",
+    "4. Your report's new reviewer\n\nSoon, every pathology report could get an AI second pass, flagging risks before they become crises.",
+    "5. Ask your lab this week\n\nCall your lab and ask: 'Is PRISM2 in use?' If not, ask why—your diagnosis might depend on it."
+  ],
+  "video_script": [
+    "Your biopsy, read by an AI?",
+    "It learns from doctor conversations.",
+    "Catches what eyes can't see.",
+    "Your report may get AI review.",
+    "Ask your lab if PRISM2's there."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if AI reads your biopsy?\n\nPRISM2 doesn't just look at images—it learns from clinical conversations, catching what eyes miss.",
+        "2. Patterns invisible to humans\n\nIt spots subtle changes in tissue that no pathologist has been trained to see, changing the diagnostic game.",
+        "3. The learning secret\n\nPRISM2's edge comes from training on doctor-patient dialogues, not just scans—a novel approach that boosts accuracy.",
+        "4. Your report's new reviewer\n\nSoon, every pathology report could get an AI second pass, flagging risks before they become crises.",
+        "5. Ask your lab this week\n\nCall your lab and ask: 'Is PRISM2 in use?' If not, ask why—your diagnosis might depend on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your biopsy, read by an AI?",
+        "It learns from doctor conversations.",
+        "Catches what eyes can't see.",
+        "Your report may get AI review.",
+        "Ask your lab if PRISM2's there."
+      ]
+    },
+    "instagram": {
+      "caption": "Your biopsy report might get a second opinion from a model trained on doctor-patient chats, not just tissue scans 🧠\n\nPRISM2 learns from clinical dialogue to read pathology slides, spotting subtle patterns in tissue that human eyes aren't trained to see. It’s a new layer of review, not a replacement—accuracy gets a boost where it counts most.\n\nFor anyone waiting on a pathology result, this could mean earlier flags on risks that would otherwise slip through. Labs that adopt it change how your diagnosis is double-checked.\n\nNext time you’re at your lab, ask straight: “Is PRISM2 reviewing my slides?” If not, what are they using instead? 🩺🔬"
+    }
+  },
+  "instagram_caption": "Your biopsy report might get a second opinion from a model trained on doctor-patient chats, not just tissue scans 🧠\n\nPRISM2 learns from clinical dialogue to read pathology slides, spotting subtle patterns in tissue that human eyes aren't trained to see. It’s a new layer of review, not a replacement—accuracy gets a boost where it counts most.\n\nFor anyone waiting on a pathology result, this could mean earlier flags on risks that would otherwise slip through. Labs that adopt it change how your diagnosis is double-checked.\n\nNext time you’re at your lab, ask straight: “Is PRISM2 reviewing my slides?” If not, what are they using instead? 🩺🔬",
+  "carousel_slides": [
+    {
+      "hook": "What if AI truly reads your biopsy?",
+      "description": "PRISM2 learns from clinical dialogues, not just images, catching subtle patterns that could change your diagnosis.",
+      "visual_hint": "AI scanning a biopsy slide",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microscope slide laboratory"
+    },
+    {
+      "hook": "It spots what human eyes miss.",
+      "description": "PRISM2 detects tissue changes invisible to pathologists, offering a second pair of eyes that could flag risks early.",
+      "visual_hint": "Magnified tissue with highlighted anomaly",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tissue sample microscope",
+      "image": "https://images.pexels.com/photos/36372296/pexels-photo-36372296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Its secret? Doctor-patient conversations.",
+      "description": "PRISM2's novel training on clinical dialogues boosts diagnostic accuracy, learning beyond static scans.",
+      "visual_hint": "Doctor and patient talking with AI overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "doctor patient conversation",
+      "image": "https://images.pexels.com/photos/7659876/pexels-photo-7659876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next report may get an AI review.",
+      "description": "Imagine every pathology report receiving an AI second pass, flagging risks before they become crises.",
+      "visual_hint": "Pathology report with AI checkmark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "pathology report document",
+      "image": "https://images.pexels.com/photos/5712691/pexels-photo-5712691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and ask your lab about PRISM2.",
+      "description": "Call your lab today and ask if PRISM2 is in use. Your diagnosis could depend on it.",
+      "visual_hint": "Phone and lab building",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "phone call laboratory",
+      "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-07T14:46:28.361Z",
+  "sourceId": "ce706af5ae21567a45ad9df76926cb96"
+}

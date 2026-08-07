@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alibaba-tests-new-business-model-for-qwen-open-sou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alibaba tests new business model for Qwen open-source AI",
+  "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+  "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
+  "slides": [
+    "Can Alibaba's Qwen rival closed AI giants?",
+    "A new business model shifts from pure open-source.",
+    "Unexpectedly, it blends open weights with cloud revenues.",
+    "Your AI strategy must now consider hybrid deployments.",
+    "Test Qwen's cloud tier versus local models this month."
+  ],
+  "thread_text": [
+    "1. The Open-Source Betrayal\n\nAlibaba's Qwen, once the open-source darling, now gates its best models behind a cloud paywall. The shift from pure open-source to hybrid is a quiet revolution.",
+    "2. The New Business Model\n\nIt's not about giving away code anymore. It's about using open weights as a lure, then monetizing through cloud revenues. This isn't a fork in the road—it's a detour.",
+    "3. The Hybrid Reality\n\nYour AI stack can't be all-in on local or cloud. The tension is real: local models save money, cloud versions get updates. You're forced to choose where your data sleeps.",
+    "4. The Competitive Squeeze\n\nClosed giants like OpenAI and Anthropic watch as Alibaba undercuts on price. But the twist? Hybrid deployments blur the line—your next \"open\" model might live in their data center.",
+    "5. Test It This Month\n\nTake a prompt that matters to you. Run it on Qwen's cloud tier and a local model. Measure time, cost, and output quality. Does the convenience justify the lock-in?"
+  ],
+  "video_script": [
+    "Alibaba's Qwen now charges for cloud access.",
+    "Open weights lure you, then cloud bills follow.",
+    "Hybrid deployment is your new strategic necessity.",
+    "Your local models can't match cloud updates.",
+    "Test Qwen's cloud tier versus local today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Open-Source Betrayal\n\nAlibaba's Qwen, once the open-source darling, now gates its best models behind a cloud paywall. The shift from pure open-source to hybrid is a quiet revolution.",
+        "2. The New Business Model\n\nIt's not about giving away code anymore. It's about using open weights as a lure, then monetizing through cloud revenues. This isn't a fork in the road—it's a detour.",
+        "3. The Hybrid Reality\n\nYour AI stack can't be all-in on local or cloud. The tension is real: local models save money, cloud versions get updates. You're forced to choose where your data sleeps.",
+        "4. The Competitive Squeeze\n\nClosed giants like OpenAI and Anthropic watch as Alibaba undercuts on price. But the twist? Hybrid deployments blur the line—your next \"open\" model might live in their data center.",
+        "5. Test It This Month\n\nTake a prompt that matters to you. Run it on Qwen's cloud tier and a local model. Measure time, cost, and output quality. Does the convenience justify the lock-in?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Alibaba's Qwen now charges for cloud access.",
+        "Open weights lure you, then cloud bills follow.",
+        "Hybrid deployment is your new strategic necessity.",
+        "Your local models can't match cloud updates.",
+        "Test Qwen's cloud tier versus local today."
+      ]
+    },
+    "instagram": {
+      "caption": "The model you downloaded last month might not be the best one anymore — Alibaba just moved Qwen’s top versions behind its cloud.\n\nOpen weights stay free, but the newest upgrades now require paying for cloud access. That’s a real shift: previously, open-source meant everything was local, forever. Now it’s a hybrid — you get the lure, they get the revenue stream.\n\nFor you, this means choosing where your data runs changes your costs and your update speed. Local saves money; cloud gets the freshest outputs.\n\nRun your most-used prompt on both this week. Which one actually wins? ⚖️☁️💸"
+    }
+  },
+  "instagram_caption": "The model you downloaded last month might not be the best one anymore — Alibaba just moved Qwen’s top versions behind its cloud.\n\nOpen weights stay free, but the newest upgrades now require paying for cloud access. That’s a real shift: previously, open-source meant everything was local, forever. Now it’s a hybrid — you get the lure, they get the revenue stream.\n\nFor you, this means choosing where your data runs changes your costs and your update speed. Local saves money; cloud gets the freshest outputs.\n\nRun your most-used prompt on both this week. Which one actually wins? ⚖️☁️💸",
+  "carousel_slides": [
+    {
+      "hook": "Your 'open' AI now lives in their cloud",
+      "description": "Alibaba gates Qwen's best models behind a cloud paywall, blending open weights with paid cloud. This hybrid model changes where your data sleeps.",
+      "visual_hint": "Open box with cloud lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cloud computing data center"
+    },
+    {
+      "hook": "Open source just became a lure",
+      "description": "Give away weights, monetize through cloud. Alibaba shifts from pure open-source to hybrid, turning Qwen into a gateway for cloud revenue.",
+      "visual_hint": "Fishing hook with cloud",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fishing hook closeup",
+      "image": "https://images.pexels.com/photos/6478103/pexels-photo-6478103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local or cloud? Now you must choose",
+      "description": "Your AI stack can't be all-in on one side. Local saves cash, cloud gets updates. Hybrid forces a decision on data control.",
+      "visual_hint": "Two paths diverging in code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fork in road",
+      "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cheaper than OpenAI — but at what cost?",
+      "description": "Alibaba undercuts closed giants, yet hybrid deployments blur lines. Your next open model might live in their data center.",
+      "visual_hint": "Price tag vs lock icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "price tag closeup",
+      "image": "https://images.pexels.com/photos/7563550/pexels-photo-7563550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Qwen cloud vs local this month",
+      "description": "Run a prompt that matters on both. Measure cost, speed, output quality. Decide if convenience is worth the lock-in. Save this to remember.",
+      "visual_hint": "Stopwatch and two laptops",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch laptop comparison",
+      "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-07T14:46:03.566Z",
+  "sourceId": "004bd258b033c28c8038de54087b80cc"
+}
