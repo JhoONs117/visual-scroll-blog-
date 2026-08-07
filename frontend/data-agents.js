@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-puts-the-brakes-on-a-new-model-because-it-8",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T18:40:34.000Z",
+      "slides": [
+        "OpenAI halted a model—why would power be a problem?",
+        "The new model reportedly outperforms all existing benchmarks.",
+        "Safety concerns, not capability, triggered the pause.",
+        "Your AI roadmap just gained an unpredictable variable.",
+        "Monitor OpenAI's next move before committing your stack."
+      ],
+      "thread_text": [
+        "1. Power outage? No, safety.\n\nOpenAI paused a model because of safety, not power. The reason was capability, but the trigger was risk.",
+        "2. New model breaks benchmarks.\n\nIt reportedly outperforms all existing ones. Performance isn't the problem; the pause is.",
+        "3. Safety over capability, pause.\n\nThey halted due to safety concerns, not lack of skill. That's a rare move.",
+        "4. Your AI roadmap just shifted.\n\nThis pause adds unpredictability. Your stack might depend on a model that's now on hold.",
+        "5. Before you commit, check.\n\nMonitor OpenAI's next steps. Ask: is my setup future-proof if they delay?"
+      ],
+      "video_script": [
+        "OpenAI paused a model.",
+        "It beats all benchmarks.",
+        "Safety caused the stop.",
+        "Your roadmap feels unsure.",
+        "Watch before you choose."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Power outage? No, safety.\n\nOpenAI paused a model because of safety, not power. The reason was capability, but the trigger was risk.",
+            "2. New model breaks benchmarks.\n\nIt reportedly outperforms all existing ones. Performance isn't the problem; the pause is.",
+            "3. Safety over capability, pause.\n\nThey halted due to safety concerns, not lack of skill. That's a rare move.",
+            "4. Your AI roadmap just shifted.\n\nThis pause adds unpredictability. Your stack might depend on a model that's now on hold.",
+            "5. Before you commit, check.\n\nMonitor OpenAI's next steps. Ask: is my setup future-proof if they delay?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI paused a model.",
+            "It beats all benchmarks.",
+            "Safety caused the stop.",
+            "Your roadmap feels unsure.",
+            "Watch before you choose."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI just froze a model that supposedly beats every benchmark out there—because it's too risky, not because it's too weak.  \n\nThe pause wasn't about performance. It was about safety. A model that good, hitting the brakes, means they saw something they didn't like.  \n\nIf your content pipeline relies on the next frontier model, that roadmap just got fuzzier. You might be building on a tool that won't ship when promised.  \n\nIs your current setup flexible enough to pivot if this model stays paused—or gets delayed further? 🛑 ⚠️ 💡"
+        }
+      },
+      "instagram_caption": "OpenAI just froze a model that supposedly beats every benchmark out there—because it's too risky, not because it's too weak.  \n\nThe pause wasn't about performance. It was about safety. A model that good, hitting the brakes, means they saw something they didn't like.  \n\nIf your content pipeline relies on the next frontier model, that roadmap just got fuzzier. You might be building on a tool that won't ship when promised.  \n\nIs your current setup flexible enough to pivot if this model stays paused—or gets delayed further? 🛑 ⚠️ 💡",
+      "carousel_slides": [
+        {
+          "hook": "Too powerful? Or too risky?",
+          "description": "OpenAI paused a model due to safety concerns, not capability gaps. The trigger was risk, making this a rare and strategic halt.",
+          "visual_hint": "Emergency stop button glowing red",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "New model breaks every benchmark.",
+          "description": "Reportedly outperforms all existing systems. Yet performance wasn't the issue—the pause was, adding uncertainty to AI timelines.",
+          "visual_hint": "Bar chart shooting upward",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety paused the breakthrough.",
+          "description": "They halted for safety, not lack of skill. That rare move signals a shift in how AI giants prioritize caution over speed.",
+          "visual_hint": "Shield protecting a circuit board",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board macro",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI roadmap just shifted.",
+          "description": "This pause adds unpredictability. If your stack depends on that model, it's now on hold—plan for delays or alternatives.",
+          "visual_hint": "Road with a detour sign",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "road sign",
+          "image": "https://images.pexels.com/photos/10571194/pexels-photo-10571194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you commit.",
+          "description": "Monitor OpenAI's next moves now. Ask: is my setup future-proof if they delay? Check the link in bio for a risk checklist.",
+          "visual_hint": "Bookmark icon on a phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-07T20:31:08.768Z",
+      "sourceId": "65308bcbb462c7371cc4e803e49e3aae"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "airbnb-says-ai-is-helping-it-ship-features-faster-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
+      "slides": [
+        "Airbnb promises faster AI, but will search improve?",
+        "New search function tests AI-driven personalized results.",
+        "The twist: engineers ship features in days, not weeks.",
+        "Your listings may rank differently once AI rolls out.",
+        "Test your listing tonight using Airbnb's search filters."
+      ],
+      "thread_text": [
+        "1. Speed isn't everything\n\nAirbnb's new AI search updates listings in days, not weeks. But ranking changes could surprise you.",
+        "2. What changes for hosts\n\nYour listing's position may shift as AI personalizes results. Past guest behavior now influences what strangers see.",
+        "3. The hidden trade-off\n\nEngineers ship faster, but search quality remains unknown. Early tests show mixed results on accuracy.",
+        "4. Act before the rollout\n\nTonight, use Airbnb's search filters to see where you rank. Compare it with a guest's view to spot gaps.",
+        "5. Are you ready for AI rank?\n\nWill your listing survive the algorithm shift? Test your visibility now, or risk losing bookings."
+      ],
+      "video_script": [
+        "Airbnb's AI speeds up search updates.",
+        "Your listing rank might change suddenly.",
+        "Engineers ship features faster than before.",
+        "But search quality is still unknown.",
+        "Test your listing tonight for changes."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Speed isn't everything\n\nAirbnb's new AI search updates listings in days, not weeks. But ranking changes could surprise you.",
+            "2. What changes for hosts\n\nYour listing's position may shift as AI personalizes results. Past guest behavior now influences what strangers see.",
+            "3. The hidden trade-off\n\nEngineers ship faster, but search quality remains unknown. Early tests show mixed results on accuracy.",
+            "4. Act before the rollout\n\nTonight, use Airbnb's search filters to see where you rank. Compare it with a guest's view to spot gaps.",
+            "5. Are you ready for AI rank?\n\nWill your listing survive the algorithm shift? Test your visibility now, or risk losing bookings."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Airbnb's AI speeds up search updates.",
+            "Your listing rank might change suddenly.",
+            "Engineers ship features faster than before.",
+            "But search quality is still unknown.",
+            "Test your listing tonight for changes."
+          ]
+        },
+        "instagram": {
+          "caption": "Airbnb is now shipping new search features in days instead of weeks, and it’s all thanks to AI-driven testing.\n\nThe company is quietly rolling out a search function that personalizes results based on past guest behavior. That means your listing’s rank can shift overnight—without you changing a thing.\n\nFor hosts, the concrete impact is simple: what a guest in Chicago sees when searching your city may now differ from what a guest in Berlin sees. Your position is no longer static.\n\nGo into your Airbnb app tonight, open search filters, and check where your listing appears. Then compare it with a guest’s logged-out view. Spot the gap? That’s your new competition.\n\nIs your listing ready to survive a ranking shake-up before the full rollout hits?"
+        }
+      },
+      "instagram_caption": "Airbnb is now shipping new search features in days instead of weeks, and it’s all thanks to AI-driven testing.\n\nThe company is quietly rolling out a search function that personalizes results based on past guest behavior. That means your listing’s rank can shift overnight—without you changing a thing.\n\nFor hosts, the concrete impact is simple: what a guest in Chicago sees when searching your city may now differ from what a guest in Berlin sees. Your position is no longer static.\n\nGo into your Airbnb app tonight, open search filters, and check where your listing appears. Then compare it with a guest’s logged-out view. Spot the gap? That’s your new competition.\n\nIs your listing ready to survive a ranking shake-up before the full rollout hits?",
+      "carousel_slides": [
+        {
+          "hook": "Faster shipping, but better search?",
+          "description": "Airbnb's AI ships features in days, but early tests show mixed accuracy. Ranking changes could surprise hosts and guests alike.",
+          "visual_hint": "Rocket launching with question mark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rocket launch"
+        },
+        {
+          "hook": "Your listing's rank may shift",
+          "description": "AI personalizes results based on past guest behavior. What strangers see could differ from your current ranking.",
+          "visual_hint": "Magnifying glass over listing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed vs. quality: unknown trade-off",
+          "description": "Engineers ship faster, but search accuracy is unproven. Early tests show mixed results, so trust is still up in the air.",
+          "visual_hint": "Scale balancing speed and accuracy",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your visibility tonight",
+          "description": "Use Airbnb's search filters now to see where you rank. Compare with a guest's view to spot gaps before AI fully rolls out.",
+          "visual_hint": "Hand holding smartphone checking app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to prep for AI rank",
+          "description": "Open Airbnb tonight, search your listing as a guest, and note your position. Adjust your photos or price before the shift hits.",
+          "visual_hint": "Bookmark icon with listing photos",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bookmark icon",
+          "image": "https://images.pexels.com/photos/4778341/pexels-photo-4778341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
+      "savedAt": "2026-08-07T20:30:56.875Z",
+      "sourceId": "5f5222e53a442deff81672161cf9729f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "what-8217-s-behind-the-google-ai-shake-up",
       "prompt_version": "1.0.0",
       "status": "published",

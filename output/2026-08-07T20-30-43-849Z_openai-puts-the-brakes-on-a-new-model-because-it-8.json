@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-puts-the-brakes-on-a-new-model-because-it-8",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+  "pubDate": "2026-08-07T18:40:34.000Z",
+  "slides": [
+    "OpenAI halted a model—why would power be a problem?",
+    "The new model reportedly outperforms all existing benchmarks.",
+    "Safety concerns, not capability, triggered the pause.",
+    "Your AI roadmap just gained an unpredictable variable.",
+    "Monitor OpenAI's next move before committing your stack."
+  ],
+  "thread_text": [
+    "1. Power outage? No, safety.\n\nOpenAI paused a model because of safety, not power. The reason was capability, but the trigger was risk.",
+    "2. New model breaks benchmarks.\n\nIt reportedly outperforms all existing ones. Performance isn't the problem; the pause is.",
+    "3. Safety over capability, pause.\n\nThey halted due to safety concerns, not lack of skill. That's a rare move.",
+    "4. Your AI roadmap just shifted.\n\nThis pause adds unpredictability. Your stack might depend on a model that's now on hold.",
+    "5. Before you commit, check.\n\nMonitor OpenAI's next steps. Ask: is my setup future-proof if they delay?"
+  ],
+  "video_script": [
+    "OpenAI paused a model.",
+    "It beats all benchmarks.",
+    "Safety caused the stop.",
+    "Your roadmap feels unsure.",
+    "Watch before you choose."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Power outage? No, safety.\n\nOpenAI paused a model because of safety, not power. The reason was capability, but the trigger was risk.",
+        "2. New model breaks benchmarks.\n\nIt reportedly outperforms all existing ones. Performance isn't the problem; the pause is.",
+        "3. Safety over capability, pause.\n\nThey halted due to safety concerns, not lack of skill. That's a rare move.",
+        "4. Your AI roadmap just shifted.\n\nThis pause adds unpredictability. Your stack might depend on a model that's now on hold.",
+        "5. Before you commit, check.\n\nMonitor OpenAI's next steps. Ask: is my setup future-proof if they delay?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI paused a model.",
+        "It beats all benchmarks.",
+        "Safety caused the stop.",
+        "Your roadmap feels unsure.",
+        "Watch before you choose."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just froze a model that supposedly beats every benchmark out there—because it's too risky, not because it's too weak.  \n\nThe pause wasn't about performance. It was about safety. A model that good, hitting the brakes, means they saw something they didn't like.  \n\nIf your content pipeline relies on the next frontier model, that roadmap just got fuzzier. You might be building on a tool that won't ship when promised.  \n\nIs your current setup flexible enough to pivot if this model stays paused—or gets delayed further? 🛑 ⚠️ 💡"
+    }
+  },
+  "instagram_caption": "OpenAI just froze a model that supposedly beats every benchmark out there—because it's too risky, not because it's too weak.  \n\nThe pause wasn't about performance. It was about safety. A model that good, hitting the brakes, means they saw something they didn't like.  \n\nIf your content pipeline relies on the next frontier model, that roadmap just got fuzzier. You might be building on a tool that won't ship when promised.  \n\nIs your current setup flexible enough to pivot if this model stays paused—or gets delayed further? 🛑 ⚠️ 💡",
+  "carousel_slides": [
+    {
+      "hook": "Too powerful? Or too risky?",
+      "description": "OpenAI paused a model due to safety concerns, not capability gaps. The trigger was risk, making this a rare and strategic halt.",
+      "visual_hint": "Emergency stop button glowing red",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "New model breaks every benchmark.",
+      "description": "Reportedly outperforms all existing systems. Yet performance wasn't the issue—the pause was, adding uncertainty to AI timelines.",
+      "visual_hint": "Bar chart shooting upward",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety paused the breakthrough.",
+      "description": "They halted for safety, not lack of skill. That rare move signals a shift in how AI giants prioritize caution over speed.",
+      "visual_hint": "Shield protecting a circuit board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board macro",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI roadmap just shifted.",
+      "description": "This pause adds unpredictability. If your stack depends on that model, it's now on hold—plan for delays or alternatives.",
+      "visual_hint": "Road with a detour sign",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "road sign",
+      "image": "https://images.pexels.com/photos/10571194/pexels-photo-10571194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you commit.",
+      "description": "Monitor OpenAI's next moves now. Ask: is my setup future-proof if they delay? Check the link in bio for a risk checklist.",
+      "visual_hint": "Bookmark icon on a phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-07T20:31:08.768Z",
+  "sourceId": "65308bcbb462c7371cc4e803e49e3aae"
+}
