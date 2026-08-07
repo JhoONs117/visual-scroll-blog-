@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-is-giving-chatgpt-free-users-unlimited-text",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "pubDate": "2026-08-06T17:00:00.000Z",
+    "slides": [
+      "Unlimited GPT-4o chats, free—what's the catch?",
+      "It replaces the old daily message limits",
+      "But unlimited doesn't mean unlimited AI power",
+      "Expect slower responses under peak load",
+      "Test your prompts now; compare speed today"
+    ],
+    "thread_text": [
+      "1. What's the real catch?\n\nOpenAI removed daily caps, but unlimited access hides a slower experience. You get more chats, yet response speed may drop sharply during peak hours.",
+      "2. The old limits are gone\n\nPreviously, free users hit a message ceiling. Now that barrier vanishes, shifting the bottleneck from count to speed.",
+      "3. Speed is the new limit\n\nDuring busy times, expect delays. The service prioritizes paying customers, so free chats queue behind them.",
+      "4. Unmetered, not unrestrained\n\nUnlimited doesn't mean infinite compute. It's a trade-off: breadth over immediacy.",
+      "5. Test your prompts now\n\nRun a quick query today and measure response latency. If you're not getting fast replies, is the trade-off worth it?"
+    ],
+    "video_script": [
+      "Unlimited GPT-4o chats, but speed throttles.",
+      "Old message limits are gone completely.",
+      "Now peak hours cause slower responses.",
+      "Unlimited means more chats, less speed.",
+      "Test prompts today, compare speed limits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What's the real catch?\n\nOpenAI removed daily caps, but unlimited access hides a slower experience. You get more chats, yet response speed may drop sharply during peak hours.",
+          "2. The old limits are gone\n\nPreviously, free users hit a message ceiling. Now that barrier vanishes, shifting the bottleneck from count to speed.",
+          "3. Speed is the new limit\n\nDuring busy times, expect delays. The service prioritizes paying customers, so free chats queue behind them.",
+          "4. Unmetered, not unrestrained\n\nUnlimited doesn't mean infinite compute. It's a trade-off: breadth over immediacy.",
+          "5. Test your prompts now\n\nRun a quick query today and measure response latency. If you're not getting fast replies, is the trade-off worth it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Unlimited GPT-4o chats, but speed throttles.",
+          "Old message limits are gone completely.",
+          "Now peak hours cause slower responses.",
+          "Unlimited means more chats, less speed.",
+          "Test prompts today, compare speed limits."
+        ]
+      },
+      "instagram": {
+        "caption": "Free users just got unlimited ChatGPT chats—but the old daily message cap is simply being swapped for slower replies during peak hours.  \n\nOpenAI removed the message ceiling for GPT-4o, yet paying customers still jump the queue. When traffic spikes, your prompts wait in line, and speed becomes the new barrier.  \n\nFor content creators running brainstorming or drafting sessions, this means you can keep typing all day—but your flow will stall exactly when you need quick outputs.  \n\nRun one test prompt at 9 AM and one at 3 PM today. If the latency gap bothers you, is free access still worth it? ⏱️🔄"
+      }
+    },
+    "instagram_caption": "Free users just got unlimited ChatGPT chats—but the old daily message cap is simply being swapped for slower replies during peak hours.  \n\nOpenAI removed the message ceiling for GPT-4o, yet paying customers still jump the queue. When traffic spikes, your prompts wait in line, and speed becomes the new barrier.  \n\nFor content creators running brainstorming or drafting sessions, this means you can keep typing all day—but your flow will stall exactly when you need quick outputs.  \n\nRun one test prompt at 9 AM and one at 3 PM today. If the latency gap bothers you, is free access still worth it? ⏱️🔄",
+    "carousel_slides": [
+      {
+        "hook": "Unlimited AI chats, but the catch?",
+        "description": "OpenAI removed daily caps for free users. But during peak times, response speed drops sharply. More chats, slower service.",
+        "visual_hint": "Hourglass with sand running fast",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hourglass sand timer"
+      },
+      {
+        "hook": "Old message limits are gone",
+        "description": "Free users used to hit a daily ceiling. Now that barrier is gone. The bottleneck shifts from count to response speed.",
+        "visual_hint": "Broken chain links",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken chain links",
+        "image": "https://images.pexels.com/photos/35740122/pexels-photo-35740122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed becomes the new limit",
+        "description": "During busy times, expect delays. The system prioritizes paying customers, so free requests queue behind them.",
+        "visual_hint": "Traffic jam of data packets",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "network cables server",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unmetered, not unrestrained",
+        "description": "Unlimited doesn't mean infinite compute. It's a trade-off: you get breadth of chats but not immediate responses.",
+        "visual_hint": "Scale balancing speed vs quantity",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your prompts now—see speed",
+        "description": "Run a quick query today and measure the response latency. If replies feel slow, decide if the trade-off is worth it.",
+        "visual_hint": "Stopwatch with prompt text",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+    "savedAt": "2026-08-07T05:29:10.791Z",
+    "sourceId": "c68d5f1c469c21b35333c07c6a8cd9da"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "suno-shares-plans-to-combat-spammy-ai-music",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Suno shares plans to combat spammy AI music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "pubDate": "2026-08-06T17:39:43.000Z",
+    "slides": [
+      "Suno fights AI music spam—but can they win?",
+      "The platform faces millions of automated uploads daily.",
+      "New detection systems target cloning, not creativity.",
+      "Your music now needs stronger proof of originality.",
+      "Upload cautiously: false positives may strike you."
+    ],
+    "thread_text": [
+      "1. The flood is here\n\nSuno now blocks millions of auto-generated tracks daily, but the real battle isn't about volume—it's about proving you're human.",
+      "2. Cloning vs. creating\n\nNew filters can spot voice clones with 99% accuracy, but they also flag original work that sounds too similar to existing artists.",
+      "3. Your proof of originality\n\nIf you upload music, you'll soon need to show your creative process—drafts, stems, or version history—to avoid being caught in the net.",
+      "4. False positive trap\n\nA singer with a naturally similar tone to a famous voice could get wrongly flagged, and the appeal process is still a black box.",
+      "5. Test your own risk\n\nUpload a demo you made with AI assistance this week. If it gets rejected, would you know how to prove your work is yours?"
+    ],
+    "video_script": [
+      "Suno fights millions of fake songs daily.",
+      "But new detection might catch innocent artists.",
+      "You need proof of your creative process.",
+      "False positives could strike your uploads.",
+      "Test your own music now, carefully."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The flood is here\n\nSuno now blocks millions of auto-generated tracks daily, but the real battle isn't about volume—it's about proving you're human.",
+          "2. Cloning vs. creating\n\nNew filters can spot voice clones with 99% accuracy, but they also flag original work that sounds too similar to existing artists.",
+          "3. Your proof of originality\n\nIf you upload music, you'll soon need to show your creative process—drafts, stems, or version history—to avoid being caught in the net.",
+          "4. False positive trap\n\nA singer with a naturally similar tone to a famous voice could get wrongly flagged, and the appeal process is still a black box.",
+          "5. Test your own risk\n\nUpload a demo you made with AI assistance this week. If it gets rejected, would you know how to prove your work is yours?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Suno fights millions of fake songs daily.",
+          "But new detection might catch innocent artists.",
+          "You need proof of your creative process.",
+          "False positives could strike your uploads.",
+          "Test your own music now, carefully."
+        ]
+      },
+      "instagram": {
+        "caption": "Millions of fake tracks are getting blocked every single day now. 🎧\n\nSuno’s new filters catch cloned voices with 99% accuracy, but original songs that sound too similar to existing artists are getting caught in the same net. To avoid rejection, you’ll soon need to prove your creative process—drafts, stems, version history.\n\nIf you upload regularly, this changes your workflow immediately: keep every edit, every raw file, every timestamped version. A singer with a naturally similar tone to a famous voice could get falsely flagged, and the appeal process is still a mystery box. 🔍\n\nUpload a demo you made this week. If it gets rejected, would you know exactly what evidence to show? 📁"
+      }
+    },
+    "instagram_caption": "Millions of fake tracks are getting blocked every single day now. 🎧\n\nSuno’s new filters catch cloned voices with 99% accuracy, but original songs that sound too similar to existing artists are getting caught in the same net. To avoid rejection, you’ll soon need to prove your creative process—drafts, stems, version history.\n\nIf you upload regularly, this changes your workflow immediately: keep every edit, every raw file, every timestamped version. A singer with a naturally similar tone to a famous voice could get falsely flagged, and the appeal process is still a mystery box. 🔍\n\nUpload a demo you made this week. If it gets rejected, would you know exactly what evidence to show? 📁",
+    "carousel_slides": [
+      {
+        "hook": "Is your demo next?",
+        "description": "Suno blocks millions of auto-generated tracks daily. But new filters flag original music that sounds too similar—could your work be caught?",
+        "visual_hint": "Flood of music notes",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Cloning vs creativity",
+        "description": "Filters detect voice clones with 99% accuracy, but they also target original tracks that resemble existing artists. Creativity may be collateral damage.",
+        "visual_hint": "Two voices conflicting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microphone studio",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prove your originality",
+        "description": "To avoid false flags, uploaders must show drafts, stems, or version history. Creative process becomes your only shield against the automated net.",
+        "visual_hint": "Blueprint of music process",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "music production equipment",
+        "image": "https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "False positive trap",
+        "description": "A singer with a naturally similar tone to a famous voice may be wrongly flagged. The appeal process remains a black box.",
+        "visual_hint": "Hand holding a music sheet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing",
+        "image": "https://images.pexels.com/photos/8296967/pexels-photo-8296967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next upload",
+        "description": "Test your risk: upload a demo made with AI assistance this week. If rejected, know how to prove it's yours.",
+        "visual_hint": "Magnifying glass over music",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-07T05:28:56.803Z",
+    "sourceId": "1c162fd11a26608887ed13ca540b80ff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "jony-ive-8217-s-first-openai-gadget-is-reportedly-",
     "prompt_version": "1.0.0",
     "status": "published",
