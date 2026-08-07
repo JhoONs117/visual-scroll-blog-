@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-apple-s-own-security-practices-undermi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+  "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+  "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+  "slides": [
+    "Why did OpenAI accuse Apple of hypocrisy?",
+    "Court filing cites Apple's privacy pledges as evidence.",
+    "Apple shares security data with researchers, OpenAI says.",
+    "This weakens OpenAI's claim of secrecy breach.",
+    "Question: will OpenAI's case now start collapsing?"
+  ],
+  "thread_text": [
+    "1. Hypocrisy, exposed?\n\nOpenAI calls Apple out in court, pointing to Apple's own privacy ads to punch holes in their secrecy breach claims.",
+    "2. The evidence twist\n\nOpenAI digs up Apple's security research sharing, flipping the script on what 'leak' even means.",
+    "3. Why it matters now\n\nIf Apple's sharing is standard, OpenAI's whole case teeters—this could redefine how 'secrecy' is argued in tech.",
+    "4. The legal ripple\n\nOther companies are watching; a win here could make every AI lawsuit lean on public security data.",
+    "5. Question for you\n\nEver trusted a privacy promise from Big Tech? Check Apple's own policy page today—does it still hold up?"
+  ],
+  "video_script": [
+    "OpenAI calls out Apple's hypocrisy.",
+    "They cite Apple's own privacy pledges.",
+    "Apple shares data with researchers, they say.",
+    "This could weaken OpenAI's case.",
+    "Will the lawsuit now collapse?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hypocrisy, exposed?\n\nOpenAI calls Apple out in court, pointing to Apple's own privacy ads to punch holes in their secrecy breach claims.",
+        "2. The evidence twist\n\nOpenAI digs up Apple's security research sharing, flipping the script on what 'leak' even means.",
+        "3. Why it matters now\n\nIf Apple's sharing is standard, OpenAI's whole case teeters—this could redefine how 'secrecy' is argued in tech.",
+        "4. The legal ripple\n\nOther companies are watching; a win here could make every AI lawsuit lean on public security data.",
+        "5. Question for you\n\nEver trusted a privacy promise from Big Tech? Check Apple's own policy page today—does it still hold up?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI calls out Apple's hypocrisy.",
+        "They cite Apple's own privacy pledges.",
+        "Apple shares data with researchers, they say.",
+        "This could weaken OpenAI's case.",
+        "Will the lawsuit now collapse?"
+      ]
+    },
+    "instagram": {
+      "caption": "Apple runs ads saying your data is safe with them—then shares security research with third parties. OpenAI just brought those receipts to court. 📄\n\nThe filing argues Apple's own privacy pledges contradict their claim that sharing internal security data is a secrecy breach. If Apple's practice is industry-standard, OpenAI says the entire lawsuit loses its foundation.\n\nFor anyone publishing or building with AI tools, this case decides what counts as a \"leak\" versus normal security collaboration. Your NDAs and data-sharing policies could hinge on how this lands.\n\nCheck Apple's current privacy policy page—does it describe the same data sharing OpenAI quoted in court? 🤔"
+    }
+  },
+  "instagram_caption": "Apple runs ads saying your data is safe with them—then shares security research with third parties. OpenAI just brought those receipts to court. 📄\n\nThe filing argues Apple's own privacy pledges contradict their claim that sharing internal security data is a secrecy breach. If Apple's practice is industry-standard, OpenAI says the entire lawsuit loses its foundation.\n\nFor anyone publishing or building with AI tools, this case decides what counts as a \"leak\" versus normal security collaboration. Your NDAs and data-sharing policies could hinge on how this lands.\n\nCheck Apple's current privacy policy page—does it describe the same data sharing OpenAI quoted in court? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your privacy promise is now a weapon?",
+      "description": "OpenAI's court filing uses Apple's own privacy ads to dismantle its trade secret claim. A bold strategic move that could redefine tech litigation.",
+      "visual_hint": "Gavel cracking a shield",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Apple's security data sharing backfires",
+      "description": "OpenAI highlights Apple's public security research sharing, arguing secrets aren't secret if company shares them. This undermines the whole breach narrative.",
+      "visual_hint": "Hands exchanging a document",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center corridor",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What counts as a leak now?",
+      "description": "If Apple's practices are standard, 'secrecy' loses its meaning. This case may set a precedent, forcing every AI lawsuit to confront public security data.",
+      "visual_hint": "Magnifying glass over law text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal documents zoom",
+      "image": "https://images.pexels.com/photos/7821202/pexels-photo-7821202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Legal ground shifts under Big Tech",
+      "description": "Companies are watching closely: a win here could make all AI lawsuits rely on publicly available security data, changing how trade secrets are argued.",
+      "visual_hint": "Building scale tipping",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tech building exterior",
+      "image": "https://images.pexels.com/photos/9301014/pexels-photo-9301014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your own privacy policy today",
+      "description": "Next time you accept a privacy policy, ask: does it really hold up? Open Apple's page and test its promises against its actions. Share your verdict!",
+      "visual_hint": "Smartphone with privacy notice",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone in hand",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-07T02:11:28.059Z",
+  "sourceId": "c73ffcd8d928bf4e11571f0961c69902"
+}

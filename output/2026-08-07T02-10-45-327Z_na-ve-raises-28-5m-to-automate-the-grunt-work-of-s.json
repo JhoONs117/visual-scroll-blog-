@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "na-ve-raises-28-5m-to-automate-the-grunt-work-of-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+  "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+  "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
+  "slides": [
+    "Naïve says company setup is automated, but what about running it?",
+    "The $28.5M funds legal, tax, and admin tasks via AI.",
+    "Yet founders still handle hiring, payroll, and daily compliance.",
+    "You can cut setup time from weeks to days, not more.",
+    "Test Naïve on one incorporation, then judge its limits."
+  ],
+  "thread_text": [
+    "1. Automated Setup, What About Running?\n\nNaïve claims automated setup, yet the $28.5M in funding covers only legal, tax, and admin tasks via AI.",
+    "2. The $28.5M AI Assist\n\nThis money powers AI to handle legal, tax, and admin chores, but founders still handle hiring, payroll, and daily compliance.",
+    "3. Founders' Daily Grind\n\nDespite automation, you still manage hiring, payroll, and compliance—tasks that can't be fully delegated.",
+    "4. Setup Time: Weeks to Days\n\nYou can cut setup time from weeks to days, but that's the limit—operating still demands human oversight.",
+    "5. Test Naïve Yourself\n\nTry Naïve on one incorporation this week. Does saving setup time justify your ongoing hands-on work?"
+  ],
+  "video_script": [
+    "Naïve automates setup, but running it?",
+    "Twenty-eight million funds legal, tax, admin via AI.",
+    "Founders still handle hiring, payroll, compliance.",
+    "Setup time drops from weeks to days only.",
+    "Test Naïve on one incorporation, judge limits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Automated Setup, What About Running?\n\nNaïve claims automated setup, yet the $28.5M in funding covers only legal, tax, and admin tasks via AI.",
+        "2. The $28.5M AI Assist\n\nThis money powers AI to handle legal, tax, and admin chores, but founders still handle hiring, payroll, and daily compliance.",
+        "3. Founders' Daily Grind\n\nDespite automation, you still manage hiring, payroll, and compliance—tasks that can't be fully delegated.",
+        "4. Setup Time: Weeks to Days\n\nYou can cut setup time from weeks to days, but that's the limit—operating still demands human oversight.",
+        "5. Test Naïve Yourself\n\nTry Naïve on one incorporation this week. Does saving setup time justify your ongoing hands-on work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Naïve automates setup, but running it?",
+        "Twenty-eight million funds legal, tax, admin via AI.",
+        "Founders still handle hiring, payroll, compliance.",
+        "Setup time drops from weeks to days only.",
+        "Test Naïve on one incorporation, judge limits."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now automate the legal, tax, and admin chores of launching a company with $28.5M in fresh funding behind the effort.  \nThe tool cuts setup time from weeks to days, but hiring, payroll, and daily compliance still sit on your desk.  \nThat’s the catch: the “grunt work” of running the business isn’t automated—only the paperwork around creation is.  \nSo for you, a founder, the concrete shift is a faster start, not a hands-off operation.  \nTest it on one incorporation this week—does saving a few days justify the ongoing human oversight you’ll still own? 🤔⚖️💼"
+    }
+  },
+  "instagram_caption": "You can now automate the legal, tax, and admin chores of launching a company with $28.5M in fresh funding behind the effort.  \nThe tool cuts setup time from weeks to days, but hiring, payroll, and daily compliance still sit on your desk.  \nThat’s the catch: the “grunt work” of running the business isn’t automated—only the paperwork around creation is.  \nSo for you, a founder, the concrete shift is a faster start, not a hands-off operation.  \nTest it on one incorporation this week—does saving a few days justify the ongoing human oversight you’ll still own? 🤔⚖️💼",
+  "carousel_slides": [
+    {
+      "hook": "What if the grunt work never ends?",
+      "description": "Naïve automates setup, but founders still handle hiring, payroll, and compliance daily.",
+      "visual_hint": "Hourglass with endless sand",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hourglass sand"
+    },
+    {
+      "hook": "$28.5M for legal, tax, and admin.",
+      "description": "AI covers legal, tax, and admin tasks, yet you're still stuck with hiring, payroll, and daily compliance.",
+      "visual_hint": "Money stack with gears",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your daily grind can't be automated.",
+      "description": "Despite AI, hiring, payroll, and compliance demand your hands-on attention every single day.",
+      "visual_hint": "Person juggling many balls",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person juggling",
+      "image": "https://images.pexels.com/photos/13174849/pexels-photo-13174849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Setup time cut, but not the rest.",
+      "description": "You can reduce incorporation from weeks to days, but operating still keeps you in the loop.",
+      "visual_hint": "Calendar with days crossed out",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "desk calendar",
+      "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try Naïve once and judge for yourself.",
+      "description": "Test Naïve on one incorporation this week—does it save enough time to justify your ongoing work?",
+      "visual_hint": "Finger on a trial button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+  "savedAt": "2026-08-07T02:11:12.648Z",
+  "sourceId": "c442c2fff9afe967ae9b345ebd0d946e"
+}

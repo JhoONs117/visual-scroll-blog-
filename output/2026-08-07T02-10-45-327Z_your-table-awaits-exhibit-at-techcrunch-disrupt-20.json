@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "your-table-awaits-exhibit-at-techcrunch-disrupt-20",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ",
+  "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+  "pubDate": "Thu, 06 Aug 2026 22:00:00 +0000",
+  "slides": [
+    "Your startup’s pitch deck ignored again?",
+    "TechCrunch Disrupt 2026 hosts 10,000+ investors.",
+    "Exhibitors get 10x more media coverage than speakers.",
+    "Book your booth before March deadline, prices surge.",
+    "Reserve today or watch competitors claim your audience."
+  ],
+  "thread_text": [
+    "1. Ignored again?\n\nYour pitch deck got zero replies. Meanwhile, 10,000+ investors are already registered for TechCrunch Disrupt 2026.",
+    "2. Booths beat stages\n\nExhibitors at the event get 10x more media coverage than speakers. Your competitors know this.",
+    "3. The March deadline\n\nBooth prices surge after March. Early booking locks in lower rates and prime placement.",
+    "4. The audience shift\n\nIf you wait, competitors will claim the same audience you need. Scarcity is real.",
+    "5. Reserve today\n\nBook your booth before March. Or watch your competitors take your spot — and your investors."
+  ],
+  "video_script": [
+    "Your pitch deck ignored again?",
+    "Ten thousand investors at Disrupt 2026.",
+    "Exhibitors get ten times media coverage.",
+    "Book before March, prices surge after.",
+    "Reserve today or lose your audience."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ignored again?\n\nYour pitch deck got zero replies. Meanwhile, 10,000+ investors are already registered for TechCrunch Disrupt 2026.",
+        "2. Booths beat stages\n\nExhibitors at the event get 10x more media coverage than speakers. Your competitors know this.",
+        "3. The March deadline\n\nBooth prices surge after March. Early booking locks in lower rates and prime placement.",
+        "4. The audience shift\n\nIf you wait, competitors will claim the same audience you need. Scarcity is real.",
+        "5. Reserve today\n\nBook your booth before March. Or watch your competitors take your spot — and your investors."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your pitch deck ignored again?",
+        "Ten thousand investors at Disrupt 2026.",
+        "Exhibitors get ten times media coverage.",
+        "Book before March, prices surge after.",
+        "Reserve today or lose your audience."
+      ]
+    },
+    "instagram": {
+      "caption": "10,000+ investors are already registered for TechCrunch Disrupt 2026 — and your pitch deck is still sitting in their spam folder. 📉\n\nExhibitors at the event get 10x more media coverage than speakers. That’s not a typo — booths beat stages, and your competitors already know it.\n\nBooth prices surge after March. Lock in lower rates and prime placement now, or pay more for less visibility later. ⏳\n\nIf you create content or run a startup, this is your window to get seen by the exact people who fund your space — before they commit elsewhere.\n\nWhat’s stopping you from booking before the deadline hits? 🎯"
+    }
+  },
+  "instagram_caption": "10,000+ investors are already registered for TechCrunch Disrupt 2026 — and your pitch deck is still sitting in their spam folder. 📉\n\nExhibitors at the event get 10x more media coverage than speakers. That’s not a typo — booths beat stages, and your competitors already know it.\n\nBooth prices surge after March. Lock in lower rates and prime placement now, or pay more for less visibility later. ⏳\n\nIf you create content or run a startup, this is your window to get seen by the exact people who fund your space — before they commit elsewhere.\n\nWhat’s stopping you from booking before the deadline hits? 🎯",
+  "carousel_slides": [
+    {
+      "hook": "Pitch deck ignored again?",
+      "description": "Zero replies. Yet 10,000+ investors are already registered for TechCrunch Disrupt 2026 — don't stay invisible.",
+      "visual_hint": "Inbox full of ignored emails",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email inbox screen"
+    },
+    {
+      "hook": "Booths beat stages",
+      "description": "Exhibitors at TechCrunch Disrupt 2026 get 10x more media coverage than speakers. Your competitors know this.",
+      "visual_hint": "Booth overshadowing stage",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "trade show booth",
+      "image": "https://images.pexels.com/photos/19012064/pexels-photo-19012064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "March deadline approaching",
+      "description": "Booth prices surge after March. Booking early locks in lower rates and prime placement.",
+      "visual_hint": "Calendar with March deadline",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar close-up",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audience shift warning",
+      "description": "If you wait, competitors will claim the same audience you need. Scarcity is real.",
+      "visual_hint": "Crowd walking away from you",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "crowd walking street",
+      "image": "https://images.pexels.com/photos/28985440/pexels-photo-28985440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Reserve now or lose your spot",
+      "description": "Book your booth before March. Or watch competitors take your spot — and your investors. Tap the link in bio.",
+      "visual_hint": "Finger tapping booth button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clicking button",
+      "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
+  "savedAt": "2026-08-07T02:10:58.892Z",
+  "sourceId": "b308f8fa4d245b06c57739931db0e5d1"
+}

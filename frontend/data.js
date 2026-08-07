@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "jony-ive-8217-s-first-openai-gadget-is-reportedly-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "pubDate": "2026-08-06T20:55:39.000Z",
+    "slides": [
+      "Why would Jony Ive design a hockey puck speaker?",
+      "He is partnering with OpenAI to build it.",
+      "The device reportedly lacks a screen entirely.",
+      "It prioritizes voice interaction over visual apps.",
+      "Your next gadget may listen, not display."
+    ],
+    "thread_text": [
+      "1. Why a puck?\n\nJony Ive, Apple's design legend, is building a device with OpenAI that has no screen. It's all voice, no visuals.",
+      "2. No screen, no apps\n\nThis gadget skips the touch interface entirely. Voice becomes the only way to interact, changing how we think about computing.",
+      "3. The twist: simplicity\n\nIve's design pushes back against screen addiction. The device aims to make tech less intrusive, more human, but will it catch on?",
+      "4. Big shift ahead\n\nIf this works, phone screens could become optional for daily tasks. The AI handles what your eyes currently do, a radical pivot.",
+      "5. Test the idea today\n\nAsk yourself: could you replace one app with a voice command? Try it with your current AI assistant and see where it breaks."
+    ],
+    "video_script": [
+      "A puck speaker from Jony Ive.",
+      "Teaming up with OpenAI, no screen.",
+      "Voice takes over, apps disappear.",
+      "Your next gadget listens, not displays.",
+      "Would you trade your screen for voice?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why a puck?\n\nJony Ive, Apple's design legend, is building a device with OpenAI that has no screen. It's all voice, no visuals.",
+          "2. No screen, no apps\n\nThis gadget skips the touch interface entirely. Voice becomes the only way to interact, changing how we think about computing.",
+          "3. The twist: simplicity\n\nIve's design pushes back against screen addiction. The device aims to make tech less intrusive, more human, but will it catch on?",
+          "4. Big shift ahead\n\nIf this works, phone screens could become optional for daily tasks. The AI handles what your eyes currently do, a radical pivot.",
+          "5. Test the idea today\n\nAsk yourself: could you replace one app with a voice command? Try it with your current AI assistant and see where it breaks."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A puck speaker from Jony Ive.",
+          "Teaming up with OpenAI, no screen.",
+          "Voice takes over, apps disappear.",
+          "Your next gadget listens, not displays.",
+          "Would you trade your screen for voice?"
+        ]
+      },
+      "instagram": {
+        "caption": "The next gadget from Apple's design legend reportedly has no screen at all—just voice. Jony Ive is working with OpenAI on a puck-sized speaker that skips visual apps entirely.\n\nThe device is built around the idea that you should talk to it, not swipe on it. No display, no touch interface, just conversation as the primary way to interact.\n\nFor anyone who creates content, this changes the target. If voice becomes the interface, your words need to work without images or layout to guide them. 🎙️\n\nCould you structure your content to stand alone as a spoken interaction? Try describing your latest piece out loud and see where the gaps show up. 🤔"
+      }
+    },
+    "instagram_caption": "The next gadget from Apple's design legend reportedly has no screen at all—just voice. Jony Ive is working with OpenAI on a puck-sized speaker that skips visual apps entirely.\n\nThe device is built around the idea that you should talk to it, not swipe on it. No display, no touch interface, just conversation as the primary way to interact.\n\nFor anyone who creates content, this changes the target. If voice becomes the interface, your words need to work without images or layout to guide them. 🎙️\n\nCould you structure your content to stand alone as a spoken interaction? Try describing your latest piece out loud and see where the gaps show up. 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Why would he ditch screens?",
+        "description": "Jony Ive, Apple's design legend, teams with OpenAI to build a hockey puck speaker. No screen, purely voice. A radical shift against screen addiction.",
+        "visual_hint": "Minimalist puck, no screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hockey puck speaker"
+      },
+      {
+        "hook": "No screen, no apps. Just voice.",
+        "description": "This gadget skips the touch interface entirely. Voice becomes the only interaction, rethinking how we compute daily.",
+        "visual_hint": "Hand reaching toward speaker",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smart speaker hand",
+        "image": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Simplicity is the new luxury.",
+        "description": "Ive's design fights screen addiction, making tech less intrusive and more human. But will users embrace a screenless future?",
+        "visual_hint": "Close-up of puck surface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "minimal speaker closeup",
+        "image": "https://images.pexels.com/photos/28921532/pexels-photo-28921532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Could your phone become optional?",
+        "description": "If this works, daily tasks won't need screens. AI handles what your eyes do now—a radical pivot in personal tech.",
+        "visual_hint": "Hand holding phone vs speaker",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding phone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try voice-only for one task today.",
+        "description": "Before this launches, test the idea: replace one app with a voice command using your current AI. See where it works—and breaks.",
+        "visual_hint": "Finger tapping phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "voice assistant app",
+        "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&amp;strip=all&amp;crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&amp;w=1200",
+    "savedAt": "2026-08-07T02:11:45.383Z",
+    "sourceId": "94e895c27149afa24d714499a28826c6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-says-apple-s-own-security-practices-undermi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
+    "slides": [
+      "Why did OpenAI accuse Apple of hypocrisy?",
+      "Court filing cites Apple's privacy pledges as evidence.",
+      "Apple shares security data with researchers, OpenAI says.",
+      "This weakens OpenAI's claim of secrecy breach.",
+      "Question: will OpenAI's case now start collapsing?"
+    ],
+    "thread_text": [
+      "1. Hypocrisy, exposed?\n\nOpenAI calls Apple out in court, pointing to Apple's own privacy ads to punch holes in their secrecy breach claims.",
+      "2. The evidence twist\n\nOpenAI digs up Apple's security research sharing, flipping the script on what 'leak' even means.",
+      "3. Why it matters now\n\nIf Apple's sharing is standard, OpenAI's whole case teeters—this could redefine how 'secrecy' is argued in tech.",
+      "4. The legal ripple\n\nOther companies are watching; a win here could make every AI lawsuit lean on public security data.",
+      "5. Question for you\n\nEver trusted a privacy promise from Big Tech? Check Apple's own policy page today—does it still hold up?"
+    ],
+    "video_script": [
+      "OpenAI calls out Apple's hypocrisy.",
+      "They cite Apple's own privacy pledges.",
+      "Apple shares data with researchers, they say.",
+      "This could weaken OpenAI's case.",
+      "Will the lawsuit now collapse?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Hypocrisy, exposed?\n\nOpenAI calls Apple out in court, pointing to Apple's own privacy ads to punch holes in their secrecy breach claims.",
+          "2. The evidence twist\n\nOpenAI digs up Apple's security research sharing, flipping the script on what 'leak' even means.",
+          "3. Why it matters now\n\nIf Apple's sharing is standard, OpenAI's whole case teeters—this could redefine how 'secrecy' is argued in tech.",
+          "4. The legal ripple\n\nOther companies are watching; a win here could make every AI lawsuit lean on public security data.",
+          "5. Question for you\n\nEver trusted a privacy promise from Big Tech? Check Apple's own policy page today—does it still hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI calls out Apple's hypocrisy.",
+          "They cite Apple's own privacy pledges.",
+          "Apple shares data with researchers, they say.",
+          "This could weaken OpenAI's case.",
+          "Will the lawsuit now collapse?"
+        ]
+      },
+      "instagram": {
+        "caption": "Apple runs ads saying your data is safe with them—then shares security research with third parties. OpenAI just brought those receipts to court. 📄\n\nThe filing argues Apple's own privacy pledges contradict their claim that sharing internal security data is a secrecy breach. If Apple's practice is industry-standard, OpenAI says the entire lawsuit loses its foundation.\n\nFor anyone publishing or building with AI tools, this case decides what counts as a \"leak\" versus normal security collaboration. Your NDAs and data-sharing policies could hinge on how this lands.\n\nCheck Apple's current privacy policy page—does it describe the same data sharing OpenAI quoted in court? 🤔"
+      }
+    },
+    "instagram_caption": "Apple runs ads saying your data is safe with them—then shares security research with third parties. OpenAI just brought those receipts to court. 📄\n\nThe filing argues Apple's own privacy pledges contradict their claim that sharing internal security data is a secrecy breach. If Apple's practice is industry-standard, OpenAI says the entire lawsuit loses its foundation.\n\nFor anyone publishing or building with AI tools, this case decides what counts as a \"leak\" versus normal security collaboration. Your NDAs and data-sharing policies could hinge on how this lands.\n\nCheck Apple's current privacy policy page—does it describe the same data sharing OpenAI quoted in court? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your privacy promise is now a weapon?",
+        "description": "OpenAI's court filing uses Apple's own privacy ads to dismantle its trade secret claim. A bold strategic move that could redefine tech litigation.",
+        "visual_hint": "Gavel cracking a shield",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Apple's security data sharing backfires",
+        "description": "OpenAI highlights Apple's public security research sharing, arguing secrets aren't secret if company shares them. This undermines the whole breach narrative.",
+        "visual_hint": "Hands exchanging a document",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center corridor",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What counts as a leak now?",
+        "description": "If Apple's practices are standard, 'secrecy' loses its meaning. This case may set a precedent, forcing every AI lawsuit to confront public security data.",
+        "visual_hint": "Magnifying glass over law text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal documents zoom",
+        "image": "https://images.pexels.com/photos/7821202/pexels-photo-7821202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Legal ground shifts under Big Tech",
+        "description": "Companies are watching closely: a win here could make all AI lawsuits rely on publicly available security data, changing how trade secrets are argued.",
+        "visual_hint": "Building scale tipping",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "tech building exterior",
+        "image": "https://images.pexels.com/photos/9301014/pexels-photo-9301014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your own privacy policy today",
+        "description": "Next time you accept a privacy policy, ask: does it really hold up? Open Apple's page and test its promises against its actions. Share your verdict!",
+        "visual_hint": "Smartphone with privacy notice",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone in hand",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-07T02:11:28.059Z",
+    "sourceId": "c73ffcd8d928bf4e11571f0961c69902"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "na-ve-raises-28-5m-to-automate-the-grunt-work-of-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
+    "slides": [
+      "Naïve says company setup is automated, but what about running it?",
+      "The $28.5M funds legal, tax, and admin tasks via AI.",
+      "Yet founders still handle hiring, payroll, and daily compliance.",
+      "You can cut setup time from weeks to days, not more.",
+      "Test Naïve on one incorporation, then judge its limits."
+    ],
+    "thread_text": [
+      "1. Automated Setup, What About Running?\n\nNaïve claims automated setup, yet the $28.5M in funding covers only legal, tax, and admin tasks via AI.",
+      "2. The $28.5M AI Assist\n\nThis money powers AI to handle legal, tax, and admin chores, but founders still handle hiring, payroll, and daily compliance.",
+      "3. Founders' Daily Grind\n\nDespite automation, you still manage hiring, payroll, and compliance—tasks that can't be fully delegated.",
+      "4. Setup Time: Weeks to Days\n\nYou can cut setup time from weeks to days, but that's the limit—operating still demands human oversight.",
+      "5. Test Naïve Yourself\n\nTry Naïve on one incorporation this week. Does saving setup time justify your ongoing hands-on work?"
+    ],
+    "video_script": [
+      "Naïve automates setup, but running it?",
+      "Twenty-eight million funds legal, tax, admin via AI.",
+      "Founders still handle hiring, payroll, compliance.",
+      "Setup time drops from weeks to days only.",
+      "Test Naïve on one incorporation, judge limits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Automated Setup, What About Running?\n\nNaïve claims automated setup, yet the $28.5M in funding covers only legal, tax, and admin tasks via AI.",
+          "2. The $28.5M AI Assist\n\nThis money powers AI to handle legal, tax, and admin chores, but founders still handle hiring, payroll, and daily compliance.",
+          "3. Founders' Daily Grind\n\nDespite automation, you still manage hiring, payroll, and compliance—tasks that can't be fully delegated.",
+          "4. Setup Time: Weeks to Days\n\nYou can cut setup time from weeks to days, but that's the limit—operating still demands human oversight.",
+          "5. Test Naïve Yourself\n\nTry Naïve on one incorporation this week. Does saving setup time justify your ongoing hands-on work?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Naïve automates setup, but running it?",
+          "Twenty-eight million funds legal, tax, admin via AI.",
+          "Founders still handle hiring, payroll, compliance.",
+          "Setup time drops from weeks to days only.",
+          "Test Naïve on one incorporation, judge limits."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now automate the legal, tax, and admin chores of launching a company with $28.5M in fresh funding behind the effort.  \nThe tool cuts setup time from weeks to days, but hiring, payroll, and daily compliance still sit on your desk.  \nThat’s the catch: the “grunt work” of running the business isn’t automated—only the paperwork around creation is.  \nSo for you, a founder, the concrete shift is a faster start, not a hands-off operation.  \nTest it on one incorporation this week—does saving a few days justify the ongoing human oversight you’ll still own? 🤔⚖️💼"
+      }
+    },
+    "instagram_caption": "You can now automate the legal, tax, and admin chores of launching a company with $28.5M in fresh funding behind the effort.  \nThe tool cuts setup time from weeks to days, but hiring, payroll, and daily compliance still sit on your desk.  \nThat’s the catch: the “grunt work” of running the business isn’t automated—only the paperwork around creation is.  \nSo for you, a founder, the concrete shift is a faster start, not a hands-off operation.  \nTest it on one incorporation this week—does saving a few days justify the ongoing human oversight you’ll still own? 🤔⚖️💼",
+    "carousel_slides": [
+      {
+        "hook": "What if the grunt work never ends?",
+        "description": "Naïve automates setup, but founders still handle hiring, payroll, and compliance daily.",
+        "visual_hint": "Hourglass with endless sand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hourglass sand"
+      },
+      {
+        "hook": "$28.5M for legal, tax, and admin.",
+        "description": "AI covers legal, tax, and admin tasks, yet you're still stuck with hiring, payroll, and daily compliance.",
+        "visual_hint": "Money stack with gears",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money stack",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your daily grind can't be automated.",
+        "description": "Despite AI, hiring, payroll, and compliance demand your hands-on attention every single day.",
+        "visual_hint": "Person juggling many balls",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person juggling",
+        "image": "https://images.pexels.com/photos/13174849/pexels-photo-13174849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Setup time cut, but not the rest.",
+        "description": "You can reduce incorporation from weeks to days, but operating still keeps you in the loop.",
+        "visual_hint": "Calendar with days crossed out",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "desk calendar",
+        "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try Naïve once and judge for yourself.",
+        "description": "Test Naïve on one incorporation this week—does it save enough time to justify your ongoing work?",
+        "visual_hint": "Finger on a trial button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand pressing button",
+        "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+    "savedAt": "2026-08-07T02:11:12.648Z",
+    "sourceId": "c442c2fff9afe967ae9b345ebd0d946e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "your-table-awaits-exhibit-at-techcrunch-disrupt-20",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ",
+    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+    "pubDate": "Thu, 06 Aug 2026 22:00:00 +0000",
+    "slides": [
+      "Your startup’s pitch deck ignored again?",
+      "TechCrunch Disrupt 2026 hosts 10,000+ investors.",
+      "Exhibitors get 10x more media coverage than speakers.",
+      "Book your booth before March deadline, prices surge.",
+      "Reserve today or watch competitors claim your audience."
+    ],
+    "thread_text": [
+      "1. Ignored again?\n\nYour pitch deck got zero replies. Meanwhile, 10,000+ investors are already registered for TechCrunch Disrupt 2026.",
+      "2. Booths beat stages\n\nExhibitors at the event get 10x more media coverage than speakers. Your competitors know this.",
+      "3. The March deadline\n\nBooth prices surge after March. Early booking locks in lower rates and prime placement.",
+      "4. The audience shift\n\nIf you wait, competitors will claim the same audience you need. Scarcity is real.",
+      "5. Reserve today\n\nBook your booth before March. Or watch your competitors take your spot — and your investors."
+    ],
+    "video_script": [
+      "Your pitch deck ignored again?",
+      "Ten thousand investors at Disrupt 2026.",
+      "Exhibitors get ten times media coverage.",
+      "Book before March, prices surge after.",
+      "Reserve today or lose your audience."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Ignored again?\n\nYour pitch deck got zero replies. Meanwhile, 10,000+ investors are already registered for TechCrunch Disrupt 2026.",
+          "2. Booths beat stages\n\nExhibitors at the event get 10x more media coverage than speakers. Your competitors know this.",
+          "3. The March deadline\n\nBooth prices surge after March. Early booking locks in lower rates and prime placement.",
+          "4. The audience shift\n\nIf you wait, competitors will claim the same audience you need. Scarcity is real.",
+          "5. Reserve today\n\nBook your booth before March. Or watch your competitors take your spot — and your investors."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your pitch deck ignored again?",
+          "Ten thousand investors at Disrupt 2026.",
+          "Exhibitors get ten times media coverage.",
+          "Book before March, prices surge after.",
+          "Reserve today or lose your audience."
+        ]
+      },
+      "instagram": {
+        "caption": "10,000+ investors are already registered for TechCrunch Disrupt 2026 — and your pitch deck is still sitting in their spam folder. 📉\n\nExhibitors at the event get 10x more media coverage than speakers. That’s not a typo — booths beat stages, and your competitors already know it.\n\nBooth prices surge after March. Lock in lower rates and prime placement now, or pay more for less visibility later. ⏳\n\nIf you create content or run a startup, this is your window to get seen by the exact people who fund your space — before they commit elsewhere.\n\nWhat’s stopping you from booking before the deadline hits? 🎯"
+      }
+    },
+    "instagram_caption": "10,000+ investors are already registered for TechCrunch Disrupt 2026 — and your pitch deck is still sitting in their spam folder. 📉\n\nExhibitors at the event get 10x more media coverage than speakers. That’s not a typo — booths beat stages, and your competitors already know it.\n\nBooth prices surge after March. Lock in lower rates and prime placement now, or pay more for less visibility later. ⏳\n\nIf you create content or run a startup, this is your window to get seen by the exact people who fund your space — before they commit elsewhere.\n\nWhat’s stopping you from booking before the deadline hits? 🎯",
+    "carousel_slides": [
+      {
+        "hook": "Pitch deck ignored again?",
+        "description": "Zero replies. Yet 10,000+ investors are already registered for TechCrunch Disrupt 2026 — don't stay invisible.",
+        "visual_hint": "Inbox full of ignored emails",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "email inbox screen"
+      },
+      {
+        "hook": "Booths beat stages",
+        "description": "Exhibitors at TechCrunch Disrupt 2026 get 10x more media coverage than speakers. Your competitors know this.",
+        "visual_hint": "Booth overshadowing stage",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "trade show booth",
+        "image": "https://images.pexels.com/photos/19012064/pexels-photo-19012064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "March deadline approaching",
+        "description": "Booth prices surge after March. Booking early locks in lower rates and prime placement.",
+        "visual_hint": "Calendar with March deadline",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar close-up",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audience shift warning",
+        "description": "If you wait, competitors will claim the same audience you need. Scarcity is real.",
+        "visual_hint": "Crowd walking away from you",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "crowd walking street",
+        "image": "https://images.pexels.com/photos/28985440/pexels-photo-28985440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Reserve now or lose your spot",
+        "description": "Book your booth before March. Or watch competitors take your spot — and your investors. Tap the link in bio.",
+        "visual_hint": "Finger tapping booth button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clicking button",
+        "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
+    "savedAt": "2026-08-07T02:10:58.892Z",
+    "sourceId": "b308f8fa4d245b06c57739931db0e5d1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "gen-z-dating-apps-like-ditto-ditch-swiping-in-favo",
     "prompt_version": "1.0.0",
     "status": "published",
