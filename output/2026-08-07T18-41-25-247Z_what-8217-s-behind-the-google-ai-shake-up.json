@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-8217-s-behind-the-google-ai-shake-up",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "What&#8217;s behind the Google AI shake-up",
+  "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+  "pubDate": "2026-08-07T16:45:14.000Z",
+  "slides": [
+    "What forced Google's sudden AI leadership overhaul?",
+    "Demis Hassabis now controls all AI development.",
+    "The old team had just delayed Gemini's next launch.",
+    "Expect faster model releases but less safety checks.",
+    "Ask yourself: is your app ready for weekly updates?"
+  ],
+  "thread_text": [
+    "1. Who lost the race?\n\nGoogle's AI chief was replaced hours after Gemini's launch slipped again. The board moved without warning.",
+    "2. One person, full control\n\nDemis Hassabis now signs off on every model, every dataset, every release date. No committees left.",
+    "3. The price of speed\n\nInternal reviews for safety are being cut from weeks to days. Some testers were told not to file reports.",
+    "4. Weekly surprises\n\nUpdated models will ship every seven days. That means your prompts, your evals, your guardrails could break overnight.",
+    "5. Your move\n\nRun a regression test on your top three prompts today. If you wait for the first update, you're already behind."
+  ],
+  "video_script": [
+    "Google replaced its AI chief overnight.",
+    "Hassabis owns every single decision now.",
+    "Safety checks will be much shorter.",
+    "Models update every single week.",
+    "Test your prompts before the next release."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who lost the race?\n\nGoogle's AI chief was replaced hours after Gemini's launch slipped again. The board moved without warning.",
+        "2. One person, full control\n\nDemis Hassabis now signs off on every model, every dataset, every release date. No committees left.",
+        "3. The price of speed\n\nInternal reviews for safety are being cut from weeks to days. Some testers were told not to file reports.",
+        "4. Weekly surprises\n\nUpdated models will ship every seven days. That means your prompts, your evals, your guardrails could break overnight.",
+        "5. Your move\n\nRun a regression test on your top three prompts today. If you wait for the first update, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google replaced its AI chief overnight.",
+        "Hassabis owns every single decision now.",
+        "Safety checks will be much shorter.",
+        "Models update every single week.",
+        "Test your prompts before the next release."
+      ]
+    },
+    "instagram": {
+      "caption": "Google’s AI boss was replaced within hours of Gemini’s next launch slipping again—no warning, no committee vote. Demis Hassabis now personally approves every model, dataset, and release date. Internal safety reviews are being cut from weeks to days, and some testers were told to skip their reports. Expect new models every seven days. That means your prompts, your evals, your guardrails could break overnight. 🧨 If you run any AI workflow, regression-test your top three prompts today. If you wait for the first update, you’re already behind. ⏳ What’s your backup plan for a silent model swap? 🛠️"
+    }
+  },
+  "instagram_caption": "Google’s AI boss was replaced within hours of Gemini’s next launch slipping again—no warning, no committee vote. Demis Hassabis now personally approves every model, dataset, and release date. Internal safety reviews are being cut from weeks to days, and some testers were told to skip their reports. Expect new models every seven days. That means your prompts, your evals, your guardrails could break overnight. 🧨 If you run any AI workflow, regression-test your top three prompts today. If you wait for the first update, you’re already behind. ⏳ What’s your backup plan for a silent model swap? 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "Safety checks cut from weeks to days.",
+      "description": "Google's AI chief was replaced hours after Gemini's next launch slipped again. Internal reviews are now slashed from weeks to days, some testers told not to file reports.",
+      "visual_hint": "Hourglass with sand running out",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hourglass timer sand"
+    },
+    {
+      "hook": "One person now controls all AI.",
+      "description": "Demis Hassabis has sole sign-off on every model, dataset, and release date. No committees remain, centralizing all power after the leadership overhaul.",
+      "visual_hint": "Single hand holding a scepter",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hand holding scepter",
+      "image": "https://images.pexels.com/photos/14166552/pexels-photo-14166552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Delayed Gemini launch triggered the shake-up.",
+      "description": "The old team had pushed back Gemini's next release again, prompting the board to move without warning. Speed now trumps deliberation in AI development.",
+      "visual_hint": "Calendar with red X marks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar red x",
+      "image": "https://images.pexels.com/photos/36613517/pexels-photo-36613517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Weekly model updates could break your prompts.",
+      "description": "Updated AI models will ship every seven days. That means your prompts, evals, and guardrails might break overnight, forcing constant adaptation.",
+      "visual_hint": "Broken chain link on a laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain laptop",
+      "image": "https://images.pexels.com/photos/28379995/pexels-photo-28379995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to prepare for weekly AI changes.",
+      "description": "Run a regression test on your top three prompts today. If you wait for the first update, you're already behind. Act now to stay ahead.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "visual_hint": "Checklist with a pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-07T18:42:32.878Z",
+  "sourceId": "764f9d70a7a9afd9ddfd3a6f91120a93"
+}

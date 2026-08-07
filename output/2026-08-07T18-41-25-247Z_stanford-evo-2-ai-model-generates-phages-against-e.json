@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "stanford-evo-2-ai-model-generates-phages-against-e",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Stanford Evo 2 AI model generates phages against E. coli",
+  "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+  "pubDate": "Fri, 07 Aug 2026 15:05:03 +0000",
+  "slides": [
+    "Can one AI model outsmart E. coli?",
+    "Stanford's Evo 2 designs phages from scratch",
+    "It succeeds where evolutionary biology failed",
+    "Your lab could now generate custom viruses",
+    "Test Evo 2 on your resistant strain today"
+  ],
+  "thread_text": [
+    "1. E. coli's worst nightmare?\n\nStanford's Evo 2 just designed a phage from scratch—something evolution couldn't do in 4 billion years.",
+    "2. Evolution's failure is now AI's win\n\nNatural phages can't keep up with resistant bacteria, but Evo 2 generates new viruses in hours.",
+    "3. Custom viruses on demand\n\nYour lab could soon design phages for any resistant strain—no more waiting for nature to catch up.",
+    "4. The twist: it works\n\nThe AI doesn't just imitate—it outperforms natural evolution, creating phages that kill where traditional ones fail.",
+    "5. Test it on your strain today\n\nGot a resistant bug? Upload its genome to Evo 2 and see if it designs a match. What's stopping you?"
+  ],
+  "video_script": [
+    "Evo 2 beats nature at designing viruses.",
+    "It creates phages from scratch, quick.",
+    "Your resistant strain could be next.",
+    "Test it with your genome today.",
+    "Evolution failed, AI succeeded. Try it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. E. coli's worst nightmare?\n\nStanford's Evo 2 just designed a phage from scratch—something evolution couldn't do in 4 billion years.",
+        "2. Evolution's failure is now AI's win\n\nNatural phages can't keep up with resistant bacteria, but Evo 2 generates new viruses in hours.",
+        "3. Custom viruses on demand\n\nYour lab could soon design phages for any resistant strain—no more waiting for nature to catch up.",
+        "4. The twist: it works\n\nThe AI doesn't just imitate—it outperforms natural evolution, creating phages that kill where traditional ones fail.",
+        "5. Test it on your strain today\n\nGot a resistant bug? Upload its genome to Evo 2 and see if it designs a match. What's stopping you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Evo 2 beats nature at designing viruses.",
+        "It creates phages from scratch, quick.",
+        "Your resistant strain could be next.",
+        "Test it with your genome today.",
+        "Evolution failed, AI succeeded. Try it."
+      ]
+    },
+    "instagram": {
+      "caption": "A bacteria strain that shrugs off every known phage just met its match: Stanford's Evo 2 model designed a custom virus from scratch that kills E. coli—something natural evolution hasn't managed in 4 billion years. 🦠\n\nEvo 2 doesn't tweak existing phages—it builds entirely new ones in hours, targeting the exact genetic weak spot of your resistant strain. Labs that were stuck with dead-end treatments now have a design tool for instant, bespoke viruses.\n\nFor anyone running a lab: you can upload a resistant strain's genome and get a working phage candidate back—no waiting for nature to catch up.\n\nWhat's the most antibiotic-resistant bug you're fighting right now—and have you checked if Evo 2 can crack it? 🔬"
+    }
+  },
+  "instagram_caption": "A bacteria strain that shrugs off every known phage just met its match: Stanford's Evo 2 model designed a custom virus from scratch that kills E. coli—something natural evolution hasn't managed in 4 billion years. 🦠\n\nEvo 2 doesn't tweak existing phages—it builds entirely new ones in hours, targeting the exact genetic weak spot of your resistant strain. Labs that were stuck with dead-end treatments now have a design tool for instant, bespoke viruses.\n\nFor anyone running a lab: you can upload a resistant strain's genome and get a working phage candidate back—no waiting for nature to catch up.\n\nWhat's the most antibiotic-resistant bug you're fighting right now—and have you checked if Evo 2 can crack it? 🔬",
+  "carousel_slides": [
+    {
+      "hook": "What if evolution met its match?",
+      "description": "Stanford's Evo 2 designed a phage from scratch that kills E. coli—something 4 billion years of evolution couldn't achieve against resistant strains.",
+      "visual_hint": "AI brain vs. bacteria",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence circuit"
+    },
+    {
+      "hook": "Evolution's failure, AI's victory",
+      "description": "Natural phages can't keep up with resistant bacteria, but Evo 2 generates new viruses in hours—not millennia.",
+      "visual_hint": "Virus created in lab",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "laboratory microscope petri dish",
+      "image": "https://images.pexels.com/photos/4031655/pexels-photo-4031655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Custom viruses, on demand",
+      "description": "Your lab could design phages for any resistant strain—no more waiting for nature to catch up.",
+      "visual_hint": "Phage targeting bacteria",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "bacteria under microscope",
+      "image": "https://images.pexels.com/photos/5841804/pexels-photo-5841804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It works—AI outperforms nature",
+      "description": "Evo 2 doesn't just imitate; it creates phages that kill where traditional ones fail, outperforming natural evolution.",
+      "visual_hint": "AI hand holding virus",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand DNA",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Evo 2 on your strain today",
+      "description": "Got a resistant bug? Upload its genome to Evo 2 and see if it designs a match. Try it now.",
+      "visual_hint": "Upload genome to AI",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer uploading data",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7562088/pexels-photo-7562088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-07T18:41:41.028Z",
+  "sourceId": "8deadbb2e7e90672b57341517cfe1f9c"
+}
