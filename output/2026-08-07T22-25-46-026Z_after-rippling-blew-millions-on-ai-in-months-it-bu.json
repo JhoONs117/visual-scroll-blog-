@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "after-rippling-blew-millions-on-ai-in-months-it-bu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+  "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+  "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
+  "slides": [
+    "Rippling spent millions on AI—what did they actually get?",
+    "The AI tools failed to show clear employee value.",
+    "So they built a tool tracking AI's return on investment.",
+    "Now every AI purchase must prove ROI per employee.",
+    "Audit your AI spend: measure per-user value today."
+  ],
+  "thread_text": [
+    "1. Millions spent, zero proof\n\nRippling poured millions into AI tools, but internal data showed no clear boost in employee output. The CFO started asking hard questions.",
+    "2. The tools got a grade\n\nSo the company built its own tracking system to measure AI's actual return—per employee, per dollar spent.",
+    "3. The new rule: prove it or lose it\n\nNow every AI purchase at Rippling must clear an ROI bar. No more buying hype without evidence.",
+    "4. The metric that matters\n\nPer-user value is the new north star. It turns vague AI promises into a number you can defend in a budget meeting.",
+    "5. Audit your AI spend today\n\nPull your AI subscriptions and list which ones show per-user value. Kill the ones that don't. Start with that list this week."
+  ],
+  "video_script": [
+    "Rippling spent millions on AI. Did it pay off?",
+    "No clear value. So they built their own tracker.",
+    "Now AI purchases must prove ROI per employee.",
+    "Per-user value is the metric that matters.",
+    "Audit your own AI spend today. Measure per-user value."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Millions spent, zero proof\n\nRippling poured millions into AI tools, but internal data showed no clear boost in employee output. The CFO started asking hard questions.",
+        "2. The tools got a grade\n\nSo the company built its own tracking system to measure AI's actual return—per employee, per dollar spent.",
+        "3. The new rule: prove it or lose it\n\nNow every AI purchase at Rippling must clear an ROI bar. No more buying hype without evidence.",
+        "4. The metric that matters\n\nPer-user value is the new north star. It turns vague AI promises into a number you can defend in a budget meeting.",
+        "5. Audit your AI spend today\n\nPull your AI subscriptions and list which ones show per-user value. Kill the ones that don't. Start with that list this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rippling spent millions on AI. Did it pay off?",
+        "No clear value. So they built their own tracker.",
+        "Now AI purchases must prove ROI per employee.",
+        "Per-user value is the metric that matters.",
+        "Audit your own AI spend today. Measure per-user value."
+      ]
+    },
+    "instagram": {
+      "caption": "Millions of dollars spent on AI tools, and the internal data showed zero measurable boost in employee output. That’s what Rippling found after a months-long spending spree. So they didn’t just cut costs—they built their own tracking system to calculate exactly what each AI tool returns per employee, per dollar spent.\n\nNow, every single AI purchase at Rippling has to clear a strict ROI bar before it gets approved. No more buying hype without hard evidence. This shifts the pressure directly onto creators and teams using AI: if you can’t prove the tool makes your work faster or better, it gets killed.\n\nWhen did you last check which AI subscription in your stack actually pays for itself in your daily output? Pull that list today. 📊🔍💸"
+    }
+  },
+  "instagram_caption": "Millions of dollars spent on AI tools, and the internal data showed zero measurable boost in employee output. That’s what Rippling found after a months-long spending spree. So they didn’t just cut costs—they built their own tracking system to calculate exactly what each AI tool returns per employee, per dollar spent.\n\nNow, every single AI purchase at Rippling has to clear a strict ROI bar before it gets approved. No more buying hype without hard evidence. This shifts the pressure directly onto creators and teams using AI: if you can’t prove the tool makes your work faster or better, it gets killed.\n\nWhen did you last check which AI subscription in your stack actually pays for itself in your daily output? Pull that list today. 📊🔍💸",
+  "carousel_slides": [
+    {
+      "hook": "Millions spent, zero proof",
+      "description": "Rippling poured millions into AI, and CFOs saw no gains. Hard questions followed, exposing a gap between cost and true employee value.",
+      "visual_hint": "Money chart dropping",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "dollar bills graph"
+    },
+    {
+      "hook": "The tools got a grade",
+      "description": "They built their own tracking system to measure ROI per employee and per dollar. Now every output is tied to a defensible number, not just hype.",
+      "visual_hint": "Report card icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "analytics dashboard screen",
+      "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New rule: prove it or lose it",
+      "description": "Every AI purchase at Rippling must clear an ROI bar now. Adoption without evidence gets cut immediately, shifting budgets toward results over promises.",
+      "visual_hint": "Gavel on desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gavel and documents",
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The metric that matters",
+      "description": "Per-user value is the new north star. It turns vague AI promises into a number you can actually defend in a budget meeting today.",
+      "visual_hint": "Calculator and chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calculator with charts",
+      "image": "https://images.pexels.com/photos/6120167/pexels-photo-6120167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI spend today",
+      "description": "Pull your AI subscriptions and list which ones show per-user value. Kill the ones that don't — start with that list this week.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+  "savedAt": "2026-08-07T22:25:58.850Z",
+  "sourceId": "c534158d528e5b564584f82e104d8cd4"
+}

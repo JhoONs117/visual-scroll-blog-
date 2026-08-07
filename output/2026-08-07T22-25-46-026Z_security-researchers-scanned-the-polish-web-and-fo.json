@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "security-researchers-scanned-the-polish-web-and-fo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+  "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+  "pubDate": "Fri, 07 Aug 2026 21:00:08 +0000",
+  "slides": [
+    "One scanner exposed Polish courts, hospitals, airports. Could hackers?",
+    "Researchers probed public systems across Poland's entire web.",
+    "Thousands of devices run unpatched software with known exploits.",
+    "For citizens, stolen medical or flight data becomes real risk.",
+    "Act now: demand your institution's security audit publicly."
+  ],
+  "thread_text": [
+    "1. One scanner found it all\n\nA single tool mapped exposed systems in Polish courts, hospitals, and airports. The question isn't if hackers noticed—it's who already has.",
+    "2. The whole country probed\n\nResearchers swept across Poland's entire web, targeting public infrastructure. They found thousands of devices running unpatched software with known exploits.",
+    "3. Your data, already at risk\n\nStolen medical records or flight details aren't just numbers—they're your life. A hacker with that data can blackmail, impersonate, or sell it.",
+    "4. The silent vulnerability gap\n\nWhy aren't institutions patching? Budgets, bureaucracy, or neglect—the effect is the same: doors left open for anyone who looks.",
+    "5. Ask for the audit now\n\nDemand your local hospital, airport, or court release a public security audit today. If they refuse, ask yourself: what are they hiding?"
+  ],
+  "video_script": [
+    "One scanner found everything.",
+    "Hospitals, courts, airports exposed.",
+    "Thousands of devices unpatched.",
+    "Your medical data is at risk.",
+    "Demand a public audit now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One scanner found it all\n\nA single tool mapped exposed systems in Polish courts, hospitals, and airports. The question isn't if hackers noticed—it's who already has.",
+        "2. The whole country probed\n\nResearchers swept across Poland's entire web, targeting public infrastructure. They found thousands of devices running unpatched software with known exploits.",
+        "3. Your data, already at risk\n\nStolen medical records or flight details aren't just numbers—they're your life. A hacker with that data can blackmail, impersonate, or sell it.",
+        "4. The silent vulnerability gap\n\nWhy aren't institutions patching? Budgets, bureaucracy, or neglect—the effect is the same: doors left open for anyone who looks.",
+        "5. Ask for the audit now\n\nDemand your local hospital, airport, or court release a public security audit today. If they refuse, ask yourself: what are they hiding?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One scanner found everything.",
+        "Hospitals, courts, airports exposed.",
+        "Thousands of devices unpatched.",
+        "Your medical data is at risk.",
+        "Demand a public audit now."
+      ]
+    },
+    "instagram": {
+      "caption": "A single scan just mapped exposed systems in Polish courts, hospitals, and airports—thousands of devices running unpatched software with known exploits.\n\nResearchers swept the entire Polish web and found doors wide open. 🚪 Your medical records or flight details could be lifted, sold, or used against you. It’s not if hackers noticed—it’s who already has.\n\nIf you manage content for any institution, this is your wake-up call: your systems are only as safe as the last patch you approved. 🔒\n\nWhen did you last demand a public security audit from the places holding your personal data? If they refuse, ask why. 🧾"
+    }
+  },
+  "instagram_caption": "A single scan just mapped exposed systems in Polish courts, hospitals, and airports—thousands of devices running unpatched software with known exploits.\n\nResearchers swept the entire Polish web and found doors wide open. 🚪 Your medical records or flight details could be lifted, sold, or used against you. It’s not if hackers noticed—it’s who already has.\n\nIf you manage content for any institution, this is your wake-up call: your systems are only as safe as the last patch you approved. 🔒\n\nWhen did you last demand a public security audit from the places holding your personal data? If they refuse, ask why. 🧾",
+  "carousel_slides": [
+    {
+      "hook": "Who's already inside?",
+      "description": "One scanner mapped exposed systems in Polish courts, hospitals, and airports. If researchers found it, hackers likely have too—your data may be at risk now.",
+      "visual_hint": "Map with red dots",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "poland map red dots"
+    },
+    {
+      "hook": "Every system probed",
+      "description": "Researchers swept Poland's entire web, finding thousands of devices running unpatched software with known exploits—leaving critical infrastructure vulnerable to attack.",
+      "visual_hint": "Radar sweep over grid",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "radar screen sweep",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your records exposed?",
+      "description": "Stolen medical or flight details can be used for blackmail or identity theft. A hacker with your data could ruin your credit or reputation.",
+      "visual_hint": "Magnifying glass on records",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "medical records magnifying glass",
+      "image": "https://images.pexels.com/photos/8970300/pexels-photo-8970300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why aren't they patching?",
+      "description": "Budgets, bureaucracy, or neglect—but the effect is the same: doors left open. Institutions must prioritize security before it's too late.",
+      "visual_hint": "Locked door with gap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "open lock door",
+      "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand public audits now",
+      "description": "Ask your local hospital, airport, or court to release a public security audit today. If they refuse, question what they're hiding—share this to spread awareness.",
+      "visual_hint": "Fist raised with paper",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "raised fist paper",
+      "image": "https://images.pexels.com/photos/8008669/pexels-photo-8008669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+  "savedAt": "2026-08-07T22:26:11.414Z",
+  "sourceId": "7feef810b4515ae330656f33ae1fdbad"
+}

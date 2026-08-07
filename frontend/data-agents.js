@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "security-researchers-scanned-the-polish-web-and-fo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "pubDate": "Fri, 07 Aug 2026 21:00:08 +0000",
+      "slides": [
+        "One scanner exposed Polish courts, hospitals, airports. Could hackers?",
+        "Researchers probed public systems across Poland's entire web.",
+        "Thousands of devices run unpatched software with known exploits.",
+        "For citizens, stolen medical or flight data becomes real risk.",
+        "Act now: demand your institution's security audit publicly."
+      ],
+      "thread_text": [
+        "1. One scanner found it all\n\nA single tool mapped exposed systems in Polish courts, hospitals, and airports. The question isn't if hackers noticed—it's who already has.",
+        "2. The whole country probed\n\nResearchers swept across Poland's entire web, targeting public infrastructure. They found thousands of devices running unpatched software with known exploits.",
+        "3. Your data, already at risk\n\nStolen medical records or flight details aren't just numbers—they're your life. A hacker with that data can blackmail, impersonate, or sell it.",
+        "4. The silent vulnerability gap\n\nWhy aren't institutions patching? Budgets, bureaucracy, or neglect—the effect is the same: doors left open for anyone who looks.",
+        "5. Ask for the audit now\n\nDemand your local hospital, airport, or court release a public security audit today. If they refuse, ask yourself: what are they hiding?"
+      ],
+      "video_script": [
+        "One scanner found everything.",
+        "Hospitals, courts, airports exposed.",
+        "Thousands of devices unpatched.",
+        "Your medical data is at risk.",
+        "Demand a public audit now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. One scanner found it all\n\nA single tool mapped exposed systems in Polish courts, hospitals, and airports. The question isn't if hackers noticed—it's who already has.",
+            "2. The whole country probed\n\nResearchers swept across Poland's entire web, targeting public infrastructure. They found thousands of devices running unpatched software with known exploits.",
+            "3. Your data, already at risk\n\nStolen medical records or flight details aren't just numbers—they're your life. A hacker with that data can blackmail, impersonate, or sell it.",
+            "4. The silent vulnerability gap\n\nWhy aren't institutions patching? Budgets, bureaucracy, or neglect—the effect is the same: doors left open for anyone who looks.",
+            "5. Ask for the audit now\n\nDemand your local hospital, airport, or court release a public security audit today. If they refuse, ask yourself: what are they hiding?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "One scanner found everything.",
+            "Hospitals, courts, airports exposed.",
+            "Thousands of devices unpatched.",
+            "Your medical data is at risk.",
+            "Demand a public audit now."
+          ]
+        },
+        "instagram": {
+          "caption": "A single scan just mapped exposed systems in Polish courts, hospitals, and airports—thousands of devices running unpatched software with known exploits.\n\nResearchers swept the entire Polish web and found doors wide open. 🚪 Your medical records or flight details could be lifted, sold, or used against you. It’s not if hackers noticed—it’s who already has.\n\nIf you manage content for any institution, this is your wake-up call: your systems are only as safe as the last patch you approved. 🔒\n\nWhen did you last demand a public security audit from the places holding your personal data? If they refuse, ask why. 🧾"
+        }
+      },
+      "instagram_caption": "A single scan just mapped exposed systems in Polish courts, hospitals, and airports—thousands of devices running unpatched software with known exploits.\n\nResearchers swept the entire Polish web and found doors wide open. 🚪 Your medical records or flight details could be lifted, sold, or used against you. It’s not if hackers noticed—it’s who already has.\n\nIf you manage content for any institution, this is your wake-up call: your systems are only as safe as the last patch you approved. 🔒\n\nWhen did you last demand a public security audit from the places holding your personal data? If they refuse, ask why. 🧾",
+      "carousel_slides": [
+        {
+          "hook": "Who's already inside?",
+          "description": "One scanner mapped exposed systems in Polish courts, hospitals, and airports. If researchers found it, hackers likely have too—your data may be at risk now.",
+          "visual_hint": "Map with red dots",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "poland map red dots"
+        },
+        {
+          "hook": "Every system probed",
+          "description": "Researchers swept Poland's entire web, finding thousands of devices running unpatched software with known exploits—leaving critical infrastructure vulnerable to attack.",
+          "visual_hint": "Radar sweep over grid",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "radar screen sweep",
+          "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your records exposed?",
+          "description": "Stolen medical or flight details can be used for blackmail or identity theft. A hacker with your data could ruin your credit or reputation.",
+          "visual_hint": "Magnifying glass on records",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "medical records magnifying glass",
+          "image": "https://images.pexels.com/photos/8970300/pexels-photo-8970300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why aren't they patching?",
+          "description": "Budgets, bureaucracy, or neglect—but the effect is the same: doors left open. Institutions must prioritize security before it's too late.",
+          "visual_hint": "Locked door with gap",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "open lock door",
+          "image": "https://images.pexels.com/photos/792032/pexels-photo-792032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand public audits now",
+          "description": "Ask your local hospital, airport, or court to release a public security audit today. If they refuse, question what they're hiding—share this to spread awareness.",
+          "visual_hint": "Fist raised with paper",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "raised fist paper",
+          "image": "https://images.pexels.com/photos/8008669/pexels-photo-8008669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+      "savedAt": "2026-08-07T22:26:11.414Z",
+      "sourceId": "7feef810b4515ae330656f33ae1fdbad"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "after-rippling-blew-millions-on-ai-in-months-it-bu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "slides": [
+        "Rippling spent millions on AI—what did they actually get?",
+        "The AI tools failed to show clear employee value.",
+        "So they built a tool tracking AI's return on investment.",
+        "Now every AI purchase must prove ROI per employee.",
+        "Audit your AI spend: measure per-user value today."
+      ],
+      "thread_text": [
+        "1. Millions spent, zero proof\n\nRippling poured millions into AI tools, but internal data showed no clear boost in employee output. The CFO started asking hard questions.",
+        "2. The tools got a grade\n\nSo the company built its own tracking system to measure AI's actual return—per employee, per dollar spent.",
+        "3. The new rule: prove it or lose it\n\nNow every AI purchase at Rippling must clear an ROI bar. No more buying hype without evidence.",
+        "4. The metric that matters\n\nPer-user value is the new north star. It turns vague AI promises into a number you can defend in a budget meeting.",
+        "5. Audit your AI spend today\n\nPull your AI subscriptions and list which ones show per-user value. Kill the ones that don't. Start with that list this week."
+      ],
+      "video_script": [
+        "Rippling spent millions on AI. Did it pay off?",
+        "No clear value. So they built their own tracker.",
+        "Now AI purchases must prove ROI per employee.",
+        "Per-user value is the metric that matters.",
+        "Audit your own AI spend today. Measure per-user value."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Millions spent, zero proof\n\nRippling poured millions into AI tools, but internal data showed no clear boost in employee output. The CFO started asking hard questions.",
+            "2. The tools got a grade\n\nSo the company built its own tracking system to measure AI's actual return—per employee, per dollar spent.",
+            "3. The new rule: prove it or lose it\n\nNow every AI purchase at Rippling must clear an ROI bar. No more buying hype without evidence.",
+            "4. The metric that matters\n\nPer-user value is the new north star. It turns vague AI promises into a number you can defend in a budget meeting.",
+            "5. Audit your AI spend today\n\nPull your AI subscriptions and list which ones show per-user value. Kill the ones that don't. Start with that list this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rippling spent millions on AI. Did it pay off?",
+            "No clear value. So they built their own tracker.",
+            "Now AI purchases must prove ROI per employee.",
+            "Per-user value is the metric that matters.",
+            "Audit your own AI spend today. Measure per-user value."
+          ]
+        },
+        "instagram": {
+          "caption": "Millions of dollars spent on AI tools, and the internal data showed zero measurable boost in employee output. That’s what Rippling found after a months-long spending spree. So they didn’t just cut costs—they built their own tracking system to calculate exactly what each AI tool returns per employee, per dollar spent.\n\nNow, every single AI purchase at Rippling has to clear a strict ROI bar before it gets approved. No more buying hype without hard evidence. This shifts the pressure directly onto creators and teams using AI: if you can’t prove the tool makes your work faster or better, it gets killed.\n\nWhen did you last check which AI subscription in your stack actually pays for itself in your daily output? Pull that list today. 📊🔍💸"
+        }
+      },
+      "instagram_caption": "Millions of dollars spent on AI tools, and the internal data showed zero measurable boost in employee output. That’s what Rippling found after a months-long spending spree. So they didn’t just cut costs—they built their own tracking system to calculate exactly what each AI tool returns per employee, per dollar spent.\n\nNow, every single AI purchase at Rippling has to clear a strict ROI bar before it gets approved. No more buying hype without hard evidence. This shifts the pressure directly onto creators and teams using AI: if you can’t prove the tool makes your work faster or better, it gets killed.\n\nWhen did you last check which AI subscription in your stack actually pays for itself in your daily output? Pull that list today. 📊🔍💸",
+      "carousel_slides": [
+        {
+          "hook": "Millions spent, zero proof",
+          "description": "Rippling poured millions into AI, and CFOs saw no gains. Hard questions followed, exposing a gap between cost and true employee value.",
+          "visual_hint": "Money chart dropping",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "dollar bills graph"
+        },
+        {
+          "hook": "The tools got a grade",
+          "description": "They built their own tracking system to measure ROI per employee and per dollar. Now every output is tied to a defensible number, not just hype.",
+          "visual_hint": "Report card icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "analytics dashboard screen",
+          "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New rule: prove it or lose it",
+          "description": "Every AI purchase at Rippling must clear an ROI bar now. Adoption without evidence gets cut immediately, shifting budgets toward results over promises.",
+          "visual_hint": "Gavel on desk",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gavel and documents",
+          "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The metric that matters",
+          "description": "Per-user value is the new north star. It turns vague AI promises into a number you can actually defend in a budget meeting today.",
+          "visual_hint": "Calculator and chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calculator with charts",
+          "image": "https://images.pexels.com/photos/6120167/pexels-photo-6120167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your AI spend today",
+          "description": "Pull your AI subscriptions and list which ones show per-user value. Kill the ones that don't — start with that list this week.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+      "savedAt": "2026-08-07T22:25:58.850Z",
+      "sourceId": "c534158d528e5b564584f82e104d8cd4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-puts-the-brakes-on-a-new-model-because-it-8",
       "prompt_version": "1.0.0",
       "status": "published",
