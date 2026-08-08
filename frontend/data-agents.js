@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-acquires-presentation-startup-nextslide",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "slides": [
+        "Why would OpenAI buy a slide tool?",
+        "NextSlide's AI already generates full decks.",
+        "Their models secretly master slide design logic.",
+        "You might soon pitch only with plain text.",
+        "Test your current tools against AI now."
+      ],
+      "thread_text": [
+        "1. Why would OpenAI buy a slide tool?\n\nNextSlide's AI already generates full decks from a single prompt, and OpenAI's acquisition signals they see slide design as a core AI battleground, not a niche feature.",
+        "2. The secret design logic\n\nTheir models quietly learned the unspoken rules of visual hierarchy and layout, meaning AI isn't just copying templates—it's reasoning about what makes a slide persuasive.",
+        "3. Pitch with plain text only\n\nYou'll soon describe your idea in a sentence, and the AI will output a polished deck with charts, images, and animations—no design skills or manual tweaking required.",
+        "4. Test your tools now\n\nBefore this becomes standard, run a side-by-side test: have your current tool generate a deck from the same prompt, then compare the structure and visual flow to what NextSlide might produce.",
+        "5. Do you trust the output?\n\nIf AI designs your slides, you lose control over the narrative's visual rhythm. Try it on a real pitch this week—if you're uncomfortable with the result, that's your answer."
+      ],
+      "video_script": [
+        "OpenAI buying a slide tool?",
+        "NextSlide generates full decks automatically.",
+        "Their models understand slide design logic.",
+        "Soon you'll pitch with just text.",
+        "Test your current tools now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why would OpenAI buy a slide tool?\n\nNextSlide's AI already generates full decks from a single prompt, and OpenAI's acquisition signals they see slide design as a core AI battleground, not a niche feature.",
+            "2. The secret design logic\n\nTheir models quietly learned the unspoken rules of visual hierarchy and layout, meaning AI isn't just copying templates—it's reasoning about what makes a slide persuasive.",
+            "3. Pitch with plain text only\n\nYou'll soon describe your idea in a sentence, and the AI will output a polished deck with charts, images, and animations—no design skills or manual tweaking required.",
+            "4. Test your tools now\n\nBefore this becomes standard, run a side-by-side test: have your current tool generate a deck from the same prompt, then compare the structure and visual flow to what NextSlide might produce.",
+            "5. Do you trust the output?\n\nIf AI designs your slides, you lose control over the narrative's visual rhythm. Try it on a real pitch this week—if you're uncomfortable with the result, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI buying a slide tool?",
+            "NextSlide generates full decks automatically.",
+            "Their models understand slide design logic.",
+            "Soon you'll pitch with just text.",
+            "Test your current tools now."
+          ]
+        },
+        "instagram": {
+          "caption": "A slide deck that used to take you three hours to design will soon be a byproduct of typing one sentence. OpenAI just bought NextSlide, the startup whose AI can already build a full presentation—charts, images, animations—from a single prompt.\n\nThe deal isn't about making prettier templates. NextSlide's models apparently learned the invisible rules of visual hierarchy and persuasive layout, so the output isn't a copy-paste filler. It's reasoning about what makes a slide work. Your next pitch could be a text message to a bot, and the deck just appears.\n\nFor you: the manual craft of sequencing a narrative on slides stops being your job. The question isn't if that changes, but whether you're okay handing over the visual rhythm of your story. 🎤 Try it this week—give your current tool the same prompt and compare what it spits out. Do you trust the result enough to present it? 🤔"
+        }
+      },
+      "instagram_caption": "A slide deck that used to take you three hours to design will soon be a byproduct of typing one sentence. OpenAI just bought NextSlide, the startup whose AI can already build a full presentation—charts, images, animations—from a single prompt.\n\nThe deal isn't about making prettier templates. NextSlide's models apparently learned the invisible rules of visual hierarchy and persuasive layout, so the output isn't a copy-paste filler. It's reasoning about what makes a slide work. Your next pitch could be a text message to a bot, and the deck just appears.\n\nFor you: the manual craft of sequencing a narrative on slides stops being your job. The question isn't if that changes, but whether you're okay handing over the visual rhythm of your story. 🎤 Try it this week—give your current tool the same prompt and compare what it spits out. Do you trust the result enough to present it? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Will AI make slides obsolete?",
+          "description": "NextSlide's AI generates full decks from one prompt. OpenAI's acquisition signals slide design is a core AI battleground, not a niche feature.",
+          "visual_hint": "Split screen: prompt vs deck",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "presentation screen office"
+        },
+        {
+          "hook": "AI learned design's secret logic",
+          "description": "NextSlide's models mastered visual hierarchy and layout rules. AI now reasons about persuasion, not just template copying.",
+          "visual_hint": "Blueprint grid over slides",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "blueprint grid",
+          "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pitch with plain text only",
+          "description": "Describe your idea in one sentence; the AI outputs a polished deck with charts and animations. No design skills needed.",
+          "visual_hint": "Text transforming into slides",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "keyboard typing",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your tools against AI now",
+          "description": "Before this becomes standard, run a side-by-side test: compare your current tool's deck structure and flow with NextSlide's potential output.",
+          "visual_hint": "Two screens comparing outputs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "two computer screens",
+          "image": "https://images.pexels.com/photos/21391579/pexels-photo-21391579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this if you pitch often",
+          "description": "Try it on a real pitch this week. If you're uncomfortable with AI's visual rhythm, that's your answer.",
+          "visual_hint": "Finger pressing save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "save icon button",
+          "image": "https://images.pexels.com/photos/3263669/pexels-photo-3263669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "savedAt": "2026-08-08T22:19:28.362Z",
+      "sourceId": "61f42ecb8f77cb359ad2a12aa0cf5239"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-s-top-hacker-hunter-explains-why-hacking-gr",
       "prompt_version": "1.0.0",
       "status": "published",
