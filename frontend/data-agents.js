@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "fenix-flexin-isn-t-even-denying-using-ai-to-make-r",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "pubDate": "2026-08-07T20:01:51.000Z",
+      "slides": [
+        "Fenix Flexin admits AI made Rubberz — but what's real?",
+        "He says the beat started as a text prompt",
+        "His vocals were tuned by an algorithm, not engineers",
+        "Your next favorite track could be 100% synthetic",
+        "Listen once—can you still tell the difference?"
+      ],
+      "thread_text": [
+        "1. He admitted it\n\nFenix Flexin revealed on a livestream that his track 'Rubberz' was created using AI, starting from a simple text prompt.",
+        "2. The beat's origin\n\nThe beat wasn't produced in a studio—it began as a text prompt in an AI music generator, not human-written.",
+        "3. Vocals, not human\n\nHis vocals on the track were tuned by an algorithm, not by audio engineers, raising questions about performance.",
+        "4. The next hit?\n\nIf AI can produce a track with lyrics, beat, and tuned vocals, your next favorite song might have zero human input.",
+        "5. Can you tell?\n\nListen to 'Rubberz' once—can you tell it's AI? If not, what does that mean for artists who rely on authenticity?"
+      ],
+      "video_script": [
+        "Fenix admitted AI made the track.",
+        "Started from a simple text prompt.",
+        "Vocals were tuned by algorithm.",
+        "Next hit could be fully synthetic.",
+        "Listen—can you hear the difference?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. He admitted it\n\nFenix Flexin revealed on a livestream that his track 'Rubberz' was created using AI, starting from a simple text prompt.",
+            "2. The beat's origin\n\nThe beat wasn't produced in a studio—it began as a text prompt in an AI music generator, not human-written.",
+            "3. Vocals, not human\n\nHis vocals on the track were tuned by an algorithm, not by audio engineers, raising questions about performance.",
+            "4. The next hit?\n\nIf AI can produce a track with lyrics, beat, and tuned vocals, your next favorite song might have zero human input.",
+            "5. Can you tell?\n\nListen to 'Rubberz' once—can you tell it's AI? If not, what does that mean for artists who rely on authenticity?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fenix admitted AI made the track.",
+            "Started from a simple text prompt.",
+            "Vocals were tuned by algorithm.",
+            "Next hit could be fully synthetic.",
+            "Listen—can you hear the difference?"
+          ]
+        },
+        "instagram": {
+          "caption": "Fenix Flexin isn’t even denying it anymore—he straight-up said his track 'Rubberz' started as a text prompt. 🎤\n\nThe beat wasn't written in a studio. His vocals weren't tuned by engineers. An algorithm did both. He admitted it on a livestream, plain and simple.\n\nIf a known artist can drop a track with zero human production, the bar for “real” just moved. For anyone making music, that means your process—and your credibility—now has to compete with a prompt box. 🤖\n\nListen to 'Rubberz' once. Could you actually tell it was AI before he said so? 🎧"
+        }
+      },
+      "instagram_caption": "Fenix Flexin isn’t even denying it anymore—he straight-up said his track 'Rubberz' started as a text prompt. 🎤\n\nThe beat wasn't written in a studio. His vocals weren't tuned by engineers. An algorithm did both. He admitted it on a livestream, plain and simple.\n\nIf a known artist can drop a track with zero human production, the bar for “real” just moved. For anyone making music, that means your process—and your credibility—now has to compete with a prompt box. 🤖\n\nListen to 'Rubberz' once. Could you actually tell it was AI before he said so? 🎧",
+      "carousel_slides": [
+        {
+          "hook": "Can you still trust any voice?",
+          "description": "Fenix Flexin admitted AI made his track Rubberz, vocals included. If algorithms replace authenticity, what’s left for real artists?",
+          "visual_hint": "Ghostly microphone silhouette",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microphone studio dark"
+        },
+        {
+          "hook": "A beat from a text prompt",
+          "description": "No studio crafted this beat—it started as typed words in an AI music generator. Your next loop could be born the same way.",
+          "visual_hint": "Prompt text transforming to music",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "text code keyboard",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your vocals, tuned by code",
+          "description": "His voice was perfected by an algorithm, not an engineer. This could set a new standard for what counts as a real performance.",
+          "visual_hint": "Equalizer over voice waves",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "audio waveform screen",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is the next hit 100% synthetic?",
+          "description": "If AI can write lyrics, make the beat, and tune vocals—your favorite song might have no human input at all. How would you know?",
+          "visual_hint": "Robot arm holding a music note",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot arm music note",
+          "image": "https://images.pexels.com/photos/5614152/pexels-photo-5614152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before the industry changes",
+          "description": "Listen to 'Rubberz' now—can you spot the AI? Comment your verdict instantly.",
+          "visual_hint": "Play button with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "headphones smartphone music",
+          "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+      "savedAt": "2026-08-08T10:22:11.931Z",
+      "sourceId": "78db5548d2742eb583290f90e7c0a99e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-says-it-slowed-astra-model-development-over",
       "prompt_version": "1.0.0",
       "status": "published",
