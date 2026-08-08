@@ -3,6 +3,216 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "red-hat-nvidia-ibm-back-project-turning-ai-policy-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "pubDate": "Tue, 04 Aug 2026 16:07:15 +0000",
+      "slides": [
+        "Who encodes AI policy into executable code?",
+        "Red Hat, NVIDIA, IBM fund this new project.",
+        "It translates regulations into tests, not text.",
+        "Your compliance checks become automated, continuous pipelines.",
+        "Run one policy test today to see gaps."
+      ],
+      "thread_text": [
+        "1. Who turns policy into code?\n\nRed Hat, NVIDIA, and IBM just funded a project that encodes AI regulations into executable tests, not text.",
+        "2. Tests replace rulebooks\n\nInstead of reading compliance documents, the system runs automated pipelines that check your AI against regulations continuously.",
+        "3. Continuous compliance wins\n\nManual audits become obsolete—your team gets real-time gap detection every time the pipeline runs.",
+        "4. The hidden cost of gaps\n\nUndetected non-compliance can halt deployments or trigger fines. The project aims to surface these before launch.",
+        "5. Test one policy today\n\nTake a regulation from your industry and run it as a test on your AI. See the gaps yourself."
+      ],
+      "video_script": [
+        "Who crafts AI policy into code?",
+        "Tech giants fund a new translation tool.",
+        "Regulations become automated test pipelines, not documents.",
+        "Compliance checks run continuously, catching gaps fast.",
+        "Run one policy test today and see."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who turns policy into code?\n\nRed Hat, NVIDIA, and IBM just funded a project that encodes AI regulations into executable tests, not text.",
+            "2. Tests replace rulebooks\n\nInstead of reading compliance documents, the system runs automated pipelines that check your AI against regulations continuously.",
+            "3. Continuous compliance wins\n\nManual audits become obsolete—your team gets real-time gap detection every time the pipeline runs.",
+            "4. The hidden cost of gaps\n\nUndetected non-compliance can halt deployments or trigger fines. The project aims to surface these before launch.",
+            "5. Test one policy today\n\nTake a regulation from your industry and run it as a test on your AI. See the gaps yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who crafts AI policy into code?",
+            "Tech giants fund a new translation tool.",
+            "Regulations become automated test pipelines, not documents.",
+            "Compliance checks run continuously, catching gaps fast.",
+            "Run one policy test today and see."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next compliance audit might not be a document—it’s a code test you run on your AI. Red Hat, NVIDIA, and IBM just funded a project that turns regulations into executable checks, not rulebooks.\n\nInstead of reading policy text, the system runs automated pipelines that test your AI for violations every time you deploy. Manual audits? They become continuous, real-time gap detectors.\n\nFor anyone shipping AI features, this means non-compliance stops hiding until launch day—you see the cracks as they appear, before fines or halts hit. 🧪\n\nWhat’s one regulation you’d turn into a test today to find your blind spots? Run a single policy check on your current model and screenshot the gaps. 📋"
+        }
+      },
+      "instagram_caption": "Your next compliance audit might not be a document—it’s a code test you run on your AI. Red Hat, NVIDIA, and IBM just funded a project that turns regulations into executable checks, not rulebooks.\n\nInstead of reading policy text, the system runs automated pipelines that test your AI for violations every time you deploy. Manual audits? They become continuous, real-time gap detectors.\n\nFor anyone shipping AI features, this means non-compliance stops hiding until launch day—you see the cracks as they appear, before fines or halts hit. 🧪\n\nWhat’s one regulation you’d turn into a test today to find your blind spots? Run a single policy check on your current model and screenshot the gaps. 📋",
+      "carousel_slides": [
+        {
+          "hook": "Who turns policy into code?",
+          "description": "Red Hat, NVIDIA, and IBM fund a project that encodes regulations into executable tests, not text.",
+          "visual_hint": "Code and law fusion",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Tests replace rulebooks.",
+          "description": "Automated pipelines check your AI against regulations continuously, replacing manual compliance documents.",
+          "visual_hint": "Document turning into gears",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Continuous compliance wins.",
+          "description": "Manual audits become obsolete—real-time gap detection runs every time the pipeline executes.",
+          "visual_hint": "Real-time monitoring dashboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control panel",
+          "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Undetected gaps cost you.",
+          "description": "Non-compliance can halt deployments or trigger fines—this project surfaces issues before launch.",
+          "visual_hint": "Warning sign before launch",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your AI.",
+          "description": "Take a regulation from your industry, run it as a test on your AI, and see the gaps yourself.",
+          "visual_hint": "Person running test on laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-08T00:58:35.303Z",
+      "sourceId": "6de11ca0053fcc0f723505b8929b042a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "alibaba-deepseek-push-china-s-ai-model-race-toward",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Alibaba's price cuts shock the AI market—who follows?",
+        "DeepSeek's new model matches rivals at fraction of cost.",
+        "The real surprise: inference costs drop below training estimates.",
+        "Your AI budget just gained leverage for scaling pilots.",
+        "Renegotiate vendor contracts now or risk overpaying tomorrow."
+      ],
+      "thread_text": [
+        "1. Who undercuts Alibaba?\n\nAlibaba slashed AI cloud prices by up to 97%, forcing rivals to respond or lose market share.",
+        "2. DeepSeek's cost shock\n\nDeepSeek's new model matches top-tier performance at a fraction of the training cost, but the real surprise is inference costs dropping below what training estimates suggested.",
+        "3. Inference beats estimates\n\nInference costs are now lower than training projections, meaning the cost of running AI is falling faster than expected—a budget lever most companies haven't fully exploited.",
+        "4. Budget leverage unlocked\n\nWith lower inference costs, your AI budget can stretch further, allowing you to scale pilots that were previously too expensive to run.",
+        "5. Renegotiate or overpay\n\nIf you signed vendor contracts over six months ago, call your account manager today and ask for a price match. If they say no, get quotes from competitors.",
+        "6. Your move now\n\nWhat's stopping you from taking one underperforming pilot and scaling it this week? If it's cost, that excuse just disappeared."
+      ],
+      "video_script": [
+        "Alibaba's price cuts shook the AI market.",
+        "DeepSeek matches rivals at a fraction of cost.",
+        "Inference costs dropped below training estimates.",
+        "Your AI budget just gained leverage for scaling.",
+        "Renegotiate vendor contracts now or overpay tomorrow."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who undercuts Alibaba?\n\nAlibaba slashed AI cloud prices by up to 97%, forcing rivals to respond or lose market share.",
+            "2. DeepSeek's cost shock\n\nDeepSeek's new model matches top-tier performance at a fraction of the training cost, but the real surprise is inference costs dropping below what training estimates suggested.",
+            "3. Inference beats estimates\n\nInference costs are now lower than training projections, meaning the cost of running AI is falling faster than expected—a budget lever most companies haven't fully exploited.",
+            "4. Budget leverage unlocked\n\nWith lower inference costs, your AI budget can stretch further, allowing you to scale pilots that were previously too expensive to run.",
+            "5. Renegotiate or overpay\n\nIf you signed vendor contracts over six months ago, call your account manager today and ask for a price match. If they say no, get quotes from competitors.",
+            "6. Your move now\n\nWhat's stopping you from taking one underperforming pilot and scaling it this week? If it's cost, that excuse just disappeared."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Alibaba's price cuts shook the AI market.",
+            "DeepSeek matches rivals at a fraction of cost.",
+            "Inference costs dropped below training estimates.",
+            "Your AI budget just gained leverage for scaling.",
+            "Renegotiate vendor contracts now or overpay tomorrow."
+          ]
+        },
+        "instagram": {
+          "caption": "Alibaba just cut AI cloud prices by up to 97%, and DeepSeek’s new model matches top-tier performance at a fraction of the cost. The real shocker? Running these models now costs less than the training estimates predicted. 💸\n\nThat means your AI budget stretches further than you think. Pilots that were too expensive last quarter are suddenly viable. But if you signed vendor contracts over six months ago, you’re likely overpaying right now. 📉\n\nCall your account manager and ask for a price match. If they hesitate, get a competing quote. What’s stopping you from scaling one underperforming project this week—is cost still the excuse? 🤔"
+        }
+      },
+      "instagram_caption": "Alibaba just cut AI cloud prices by up to 97%, and DeepSeek’s new model matches top-tier performance at a fraction of the cost. The real shocker? Running these models now costs less than the training estimates predicted. 💸\n\nThat means your AI budget stretches further than you think. Pilots that were too expensive last quarter are suddenly viable. But if you signed vendor contracts over six months ago, you’re likely overpaying right now. 📉\n\nCall your account manager and ask for a price match. If they hesitate, get a competing quote. What’s stopping you from scaling one underperforming project this week—is cost still the excuse? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Who undercuts Alibaba?",
+          "description": "Alibaba slashed AI cloud prices by up to 97%, forcing rivals to drop prices or lose market share.",
+          "visual_hint": "Price war exploding",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market crash"
+        },
+        {
+          "hook": "DeepSeek matches top-tier at fraction of cost.",
+          "description": "DeepSeek's new model matches top-tier performance at a fraction of training cost, but the real surprise is inference costs below estimates.",
+          "visual_hint": "Chip with coins",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inference costs beat projections.",
+          "description": "Inference costs now lower than training estimates—AI running costs fall faster than expected. A budget lever most companies haven't fully exploited.",
+          "visual_hint": "Graph trending downward",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "financial chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI budget just got leverage.",
+          "description": "With lower inference costs, your AI budget stretches further, letting you scale pilots that were previously too expensive to run.",
+          "visual_hint": "Pilot rocket launching",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "rocket launch",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next vendor call.",
+          "description": "If you signed vendor contracts over six months ago, call your account manager now and ask for a price match. No? Get competitor quotes.",
+          "visual_hint": "Phone and contract",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "phone call",
+          "image": "https://images.pexels.com/photos/4240533/pexels-photo-4240533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-08T00:58:23.154Z",
+      "sourceId": "988bb76127f0aeeda659607393b1efde"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "security-researchers-scanned-the-polish-web-and-fo",
       "prompt_version": "1.0.0",
       "status": "published",
