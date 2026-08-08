@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-top-hacker-hunter-explains-why-hacking-gr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+  "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+  "pubDate": "Sat, 08 Aug 2026 15:00:00 +0000",
+  "slides": [
+    "Who names hacking groups, and why does it matter?",
+    "Google's top hunter says codenames often reveal attacker origins.",
+    "But many names are wrong—researchers misattribute them constantly.",
+    "You may be hunting the wrong group because of a bad codename.",
+    "Verify attacker identity yourself; never trust the label blindly."
+  ],
+  "thread_text": [
+    "1. Who names the hackers?\n\nGoogle's top hunter says codenames often reveal where attackers come from, but the labels are frequently wrong.",
+    "2. The mislabeling problem\n\nResearchers constantly misattribute groups. A bad codename can send you chasing the wrong threat.",
+    "3. Why labels fail\n\nNames are chosen for effect, not accuracy. Political and marketing pressures skew what you see.",
+    "4. Chase the real target\n\nIf the label is wrong, your defense strategy may be completely off. Identify the attacker by behavior, not name.",
+    "5. Verify before you act\n\nNext time you see a group name, run your own data analysis. Never trust the label blindly—test it yourself."
+  ],
+  "video_script": [
+    "Who names the hacking groups?",
+    "Labels reveal origins, but often wrong.",
+    "Misattribution sends you hunting false targets.",
+    "Verify identity yourself with your data.",
+    "Don't trust the name, trust the evidence."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who names the hackers?\n\nGoogle's top hunter says codenames often reveal where attackers come from, but the labels are frequently wrong.",
+        "2. The mislabeling problem\n\nResearchers constantly misattribute groups. A bad codename can send you chasing the wrong threat.",
+        "3. Why labels fail\n\nNames are chosen for effect, not accuracy. Political and marketing pressures skew what you see.",
+        "4. Chase the real target\n\nIf the label is wrong, your defense strategy may be completely off. Identify the attacker by behavior, not name.",
+        "5. Verify before you act\n\nNext time you see a group name, run your own data analysis. Never trust the label blindly—test it yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who names the hacking groups?",
+        "Labels reveal origins, but often wrong.",
+        "Misattribution sends you hunting false targets.",
+        "Verify identity yourself with your data.",
+        "Don't trust the name, trust the evidence."
+      ]
+    },
+    "instagram": {
+      "caption": "A hacking group's codename might be completely wrong—and that's not a small detail.\n\nGoogle's top threat hunter says researchers constantly misattribute attacks to the wrong groups. The codenames you see in reports are chosen for effect, not accuracy, and political or marketing pressure can skew what gets published.\n\nIf you're chasing a label instead of behavior, your defense strategy might be aimed at the wrong threat entirely. A bad name literally redirects your security work to a dead end.\n\nBefore you act on any group attribution, run your own data analysis. Don't let a catchy codename decide where you spend your attention 🎯🕵️\n\nWhen was the last time you verified a threat group's identity yourself?🔍"
+    }
+  },
+  "instagram_caption": "A hacking group's codename might be completely wrong—and that's not a small detail.\n\nGoogle's top threat hunter says researchers constantly misattribute attacks to the wrong groups. The codenames you see in reports are chosen for effect, not accuracy, and political or marketing pressure can skew what gets published.\n\nIf you're chasing a label instead of behavior, your defense strategy might be aimed at the wrong threat entirely. A bad name literally redirects your security work to a dead end.\n\nBefore you act on any group attribution, run your own data analysis. Don't let a catchy codename decide where you spend your attention 🎯🕵️\n\nWhen was the last time you verified a threat group's identity yourself?🔍",
+  "carousel_slides": [
+    {
+      "hook": "Are hacker names lying to you?",
+      "description": "Google's top threat hunter warns codenames often reveal attacker origins but are frequently wrong. A mislabeled group can send your team chasing a phantom threat.",
+      "visual_hint": "Magnifying glass over a name tag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "magnifying glass investigation"
+    },
+    {
+      "hook": "Names are chosen for impact, not accuracy",
+      "description": "Political and marketing pressures skew the labels researchers assign. The name you see may have zero correlation with the actual attackers behind the keyboard.",
+      "visual_hint": "Mismatched labels on servers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bad codenames create blind spots",
+      "description": "If the label is wrong, your defense strategy might be completely off. You could be hunting an innocent group while the real threat operates unnoticed in your network.",
+      "visual_hint": "Blind spot in radar sweep",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "radar screen scan",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Identify attackers by behavior, not name",
+      "description": "Chase the real target by analyzing tactics and infrastructure. The codename alone tells you nothing about who is actually breaking into your systems.",
+      "visual_hint": "Gloved hand tracing network diagrams",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network diagram cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: verify every label yourself",
+      "description": "Next time you see a group name, run your own data analysis. Test the label against your telemetry before adjusting any defenses or spending resources.",
+      "visual_hint": "Finger tapping verification button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop code analysis",
+      "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+  "savedAt": "2026-08-08T16:21:58.368Z",
+  "sourceId": "f5ae6a82239003cd287befa5cfaa8786"
+}
