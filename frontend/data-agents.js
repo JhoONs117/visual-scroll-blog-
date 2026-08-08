@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "watching-roku-s-ai-channel-is-like-eating-from-a-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "pubDate": "2026-08-07T18:59:46.000Z",
+      "slides": [
+        "Roku's new AI channel: convenience or digital trough?",
+        "It generates endless personalized video loops from prompts.",
+        "Unlike streaming, the AI content is procedurally assembled, not curated.",
+        "Your watch history no longer guides recommendations; the model predicts preferences.",
+        "Test one prompt tonight and question what you're consuming."
+      ],
+      "thread_text": [
+        "1. Endless content, zero curation\n\nRoku's new AI channel generates infinite personalized video loops from your prompts—no human editors involved.",
+        "2. Your history is now obsolete\n\nThe AI predicts your preferences directly, bypassing the recommendation algorithms that once guided your watch choices.",
+        "3. Procedural assembly, not streaming\n\nUnlike curated feeds, this content is assembled on the fly—each loop is unique, but is it meaningful?",
+        "4. From guide to prediction\n\nThe shift from curated to procedural blurs the line between discovery and manipulation. Who's really choosing what you watch?",
+        "5. Test it yourself tonight\n\nGive the AI a random prompt and analyze the output. Does it feel like content or consumption? What does that say about your choices?"
+      ],
+      "video_script": [
+        "Roku's new AI channel—endless loops. No curation.",
+        "Your watch history? Gone. AI predicts everything.",
+        "Content assembled on the fly, not streamed.",
+        "But is it discovery or just manipulation?",
+        "Try one prompt. Question what you're consuming."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Endless content, zero curation\n\nRoku's new AI channel generates infinite personalized video loops from your prompts—no human editors involved.",
+            "2. Your history is now obsolete\n\nThe AI predicts your preferences directly, bypassing the recommendation algorithms that once guided your watch choices.",
+            "3. Procedural assembly, not streaming\n\nUnlike curated feeds, this content is assembled on the fly—each loop is unique, but is it meaningful?",
+            "4. From guide to prediction\n\nThe shift from curated to procedural blurs the line between discovery and manipulation. Who's really choosing what you watch?",
+            "5. Test it yourself tonight\n\nGive the AI a random prompt and analyze the output. Does it feel like content or consumption? What does that say about your choices?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Roku's new AI channel—endless loops. No curation.",
+            "Your watch history? Gone. AI predicts everything.",
+            "Content assembled on the fly, not streamed.",
+            "But is it discovery or just manipulation?",
+            "Try one prompt. Question what you're consuming."
+          ]
+        },
+        "instagram": {
+          "caption": "You open Roku, type a random prompt, and get an endless video loop—assembled on the spot, not picked by any human editor.  \n\nThat’s the new AI channel: your watch history no longer feeds recommendations. The model predicts what you’ll sit through, directly, bypassing the old algorithm that used to guide you.  \n\nFor anyone making content, this means your work is competing against procedurally generated loops that never stop, never sleep, and never choose meaning over momentum. 🎞️  \n\nSo tonight, give it one random prompt. Watch the output. Does it feel like discovery—or like eating from a trough? 🐖 Who’s really choosing what you see?"
+        }
+      },
+      "instagram_caption": "You open Roku, type a random prompt, and get an endless video loop—assembled on the spot, not picked by any human editor.  \n\nThat’s the new AI channel: your watch history no longer feeds recommendations. The model predicts what you’ll sit through, directly, bypassing the old algorithm that used to guide you.  \n\nFor anyone making content, this means your work is competing against procedurally generated loops that never stop, never sleep, and never choose meaning over momentum. 🎞️  \n\nSo tonight, give it one random prompt. Watch the output. Does it feel like discovery—or like eating from a trough? 🐖 Who’s really choosing what you see?",
+      "carousel_slides": [
+        {
+          "hook": "Is this content or consumption?",
+          "description": "Roku's AI channel builds endless loops from prompts, no human curation. This isn't streaming—it's algorithmic feeding.",
+          "visual_hint": "Digital trough, robotic feeding",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand feeding"
+        },
+        {
+          "hook": "Your watch history is obsolete.",
+          "description": "Roku's AI no longer uses your history; it predicts preferences directly, bypassing the old recommendation system.",
+          "visual_hint": "Obsolete tape, AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "artificial intelligence chip",
+          "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Procedural assembly, not streaming.",
+          "description": "Each loop is generated on the fly—unique but uncurated. The content is assembled, not selected by humans.",
+          "visual_hint": "Assembly line, code stream",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory assembly line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who chooses what you watch?",
+          "description": "The shift from curated to procedural blurs discovery and manipulation. Your choices are now predicted, not guided.",
+          "visual_hint": "Hand controlling puppet",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pulling strings",
+          "image": "https://images.pexels.com/photos/7743766/pexels-photo-7743766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and test it tonight.",
+          "description": "Give Roku's AI a random prompt, analyze the output. Ask if it feels like content or consumption—then share your take.",
+          "visual_hint": "Phone with prompt, save icon",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone screen glow",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&amp;strip=all&amp;crop=0%2C2.3735501218774%2C100%2C95.252899756245&amp;w=1200",
+      "savedAt": "2026-08-08T12:28:55.374Z",
+      "sourceId": "73ddfbd0f80f813647bbace9b62479e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "fenix-flexin-isn-t-even-denying-using-ai-to-make-r",
       "prompt_version": "1.0.0",
       "status": "published",
