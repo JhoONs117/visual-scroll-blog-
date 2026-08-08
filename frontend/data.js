@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-says-it-slowed-astra-model-development-over",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
+    "slides": [
+      "Why did OpenAI pump the brakes on Astra?",
+      "Astra's real-time voice understanding raised new safety flags.",
+      "The slowdown wasn't technical—it was about misuse scenarios.",
+      "Your AI features may arrive later but with stricter guardrails.",
+      "Ask OpenAI for their full security audit before relying on it."
+    ],
+    "thread_text": [
+      "1. Astra's safety brakes\n\nOpenAI delayed Astra's release after internal testing exposed real-time voice misuse risks, not technical hurdles.",
+      "2. The misuse scenarios\n\nSpecific attack patterns—like voice spoofing and social engineering—forced the pause, pushing stricter guardrails for future AI features.",
+      "3. Not a tech problem\n\nThe slowdown wasn't about performance; it was about anticipating harm. Engineering was ready, but safety protocols weren't.",
+      "4. Delayed, not canceled\n\nYour AI features will arrive later, but with tighter controls. Expect more friction in exchange for fewer risks.",
+      "5. Demand the audit\n\nBefore relying on any AI tool, ask OpenAI for their full security audit. If they hesitate, reconsider that dependency."
+    ],
+    "video_script": [
+      "OpenAI paused Astra due to safety concerns.",
+      "Real-time voice misuse flagged new risks.",
+      "It's not a technical issue, but security.",
+      "Features will come later with stricter guardrails.",
+      "Ask for the full security audit before trusting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Astra's safety brakes\n\nOpenAI delayed Astra's release after internal testing exposed real-time voice misuse risks, not technical hurdles.",
+          "2. The misuse scenarios\n\nSpecific attack patterns—like voice spoofing and social engineering—forced the pause, pushing stricter guardrails for future AI features.",
+          "3. Not a tech problem\n\nThe slowdown wasn't about performance; it was about anticipating harm. Engineering was ready, but safety protocols weren't.",
+          "4. Delayed, not canceled\n\nYour AI features will arrive later, but with tighter controls. Expect more friction in exchange for fewer risks.",
+          "5. Demand the audit\n\nBefore relying on any AI tool, ask OpenAI for their full security audit. If they hesitate, reconsider that dependency."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI paused Astra due to safety concerns.",
+          "Real-time voice misuse flagged new risks.",
+          "It's not a technical issue, but security.",
+          "Features will come later with stricter guardrails.",
+          "Ask for the full security audit before trusting."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI hit the pause button on Astra because testers found the real-time voice tech could be weaponized for voice spoofing and social engineering scams.  \n\nThe model was technically ready, but safety protocols lagged. Engineering wasn’t the bottleneck—misuse scenarios were. That’s why the release is delayed, not canceled.  \n\nFor creators and businesses building on AI voice tools: expect tighter controls, more friction at launch, and fewer shortcuts. The trade-off is security over speed.  \n\nBefore you build your next workflow on any AI model, ask OpenAI for their full security audit. If they won’t share it, ask yourself why you’re trusting them. 🛑🎙️🔒"
+      }
+    },
+    "instagram_caption": "OpenAI hit the pause button on Astra because testers found the real-time voice tech could be weaponized for voice spoofing and social engineering scams.  \n\nThe model was technically ready, but safety protocols lagged. Engineering wasn’t the bottleneck—misuse scenarios were. That’s why the release is delayed, not canceled.  \n\nFor creators and businesses building on AI voice tools: expect tighter controls, more friction at launch, and fewer shortcuts. The trade-off is security over speed.  \n\nBefore you build your next workflow on any AI model, ask OpenAI for their full security audit. If they won’t share it, ask yourself why you’re trusting them. 🛑🎙️🔒",
+    "carousel_slides": [
+      {
+        "hook": "Safety over speed?",
+        "description": "OpenAI delayed Astra after internal tests exposed real-time voice misuse risks. The pause wasn't technical—it was about anticipating harm.",
+        "visual_hint": "Pause button on code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "security camera"
+      },
+      {
+        "hook": "Voice spoofing threats",
+        "description": "Specific attack patterns like voice spoofing and social engineering forced the pause, pushing stricter guardrails for future AI features.",
+        "visual_hint": "Shield with voice wave",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Engineering was ready",
+        "description": "The slowdown wasn't about performance—it was about anticipating harm. Engineering was ready, but safety protocols weren't.",
+        "visual_hint": "Gears and caution sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Delayed, not canceled",
+        "description": "Your AI features will arrive later but with tighter controls. Expect more friction in exchange for fewer risks.",
+        "visual_hint": "Clock with lock",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clock tower",
+        "image": "https://images.pexels.com/photos/14653485/pexels-photo-14653485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for later",
+        "description": "Before relying on any AI tool, ask OpenAI for their full security audit. If they hesitate, reconsider that dependency.",
+        "visual_hint": "Document with magnifier",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "security guard",
+        "image": "https://images.pexels.com/photos/20176176/pexels-photo-20176176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-08T08:30:16.624Z",
+    "sourceId": "59163ffd3cbeaf46750466943a78e19a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "red-hat-nvidia-ibm-back-project-turning-ai-policy-",
     "prompt_version": "1.0.0",
     "status": "published",
