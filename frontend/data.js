@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "this-former-notorious-red-light-district-is-now-on",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "pubDate": "Sun, 09 Aug 2026 13:00:00 +0000",
+    "slides": [
+      "Can a red-light district birth Silicon Valley's rival?",
+      "This Japanese district swapped nightlife for deep tech startups.",
+      "Its secret weapon? Cheap office space and government tax breaks.",
+      "Founders now choose it over Tokyo's traditional business centers.",
+      "Visit next month and scout your future office there."
+    ],
+    "thread_text": [
+      "1. The New Silicon Valley?\n\nA red-light district in Japan is trading nightlife for deep tech, luring startups with cheap office space.",
+      "2. Tax Breaks Do the Trick\n\nGovernment incentives are the secret weapon, making it cheaper to build a startup here than in Tokyo's core.",
+      "3. Founders Are Fleeing Tokyo\n\nEntrepreneurs now choose this district over the city's traditional business hubs, seeking lower costs and a fresh vibe.",
+      "4. The District's Second Act\n\nOnce known for nightlife, this area is reinventing itself as a tech hub, blending innovation with history.",
+      "5. Your Move\n\nPlanning a Japan trip? Visit next month and scout a future office—will you take the leap?"
+    ],
+    "video_script": [
+      "A red-light district becomes a tech hub.",
+      "Cheap offices and tax breaks attract startups.",
+      "Founders leave Tokyo for this new scene.",
+      "The district's nightlife swaps for innovation.",
+      "Visit next month and scout your office."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The New Silicon Valley?\n\nA red-light district in Japan is trading nightlife for deep tech, luring startups with cheap office space.",
+          "2. Tax Breaks Do the Trick\n\nGovernment incentives are the secret weapon, making it cheaper to build a startup here than in Tokyo's core.",
+          "3. Founders Are Fleeing Tokyo\n\nEntrepreneurs now choose this district over the city's traditional business hubs, seeking lower costs and a fresh vibe.",
+          "4. The District's Second Act\n\nOnce known for nightlife, this area is reinventing itself as a tech hub, blending innovation with history.",
+          "5. Your Move\n\nPlanning a Japan trip? Visit next month and scout a future office—will you take the leap?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A red-light district becomes a tech hub.",
+          "Cheap offices and tax breaks attract startups.",
+          "Founders leave Tokyo for this new scene.",
+          "The district's nightlife swaps for innovation.",
+          "Visit next month and scout your office."
+        ]
+      },
+      "instagram": {
+        "caption": "A former red-light district in Japan is now pulling in deep tech startups, not nightlife crowds 🏮\n\nCheap office space and government tax breaks are the draw, and founders are picking this neighborhood over Tokyo’s traditional business centers. The district is literally reinventing its streets for a second act—think code instead of cabarets.\n\nFor anyone building a content or media business, this means a new, low-cost base for hiring engineers or testing AI products outside the usual expensive hubs.\n\nPlanning a trip to Japan next month? Walk the area and check lease prices—would you move your team there? 🤔"
+      }
+    },
+    "instagram_caption": "A former red-light district in Japan is now pulling in deep tech startups, not nightlife crowds 🏮\n\nCheap office space and government tax breaks are the draw, and founders are picking this neighborhood over Tokyo’s traditional business centers. The district is literally reinventing its streets for a second act—think code instead of cabarets.\n\nFor anyone building a content or media business, this means a new, low-cost base for hiring engineers or testing AI products outside the usual expensive hubs.\n\nPlanning a trip to Japan next month? Walk the area and check lease prices—would you move your team there? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Could a red-light district birth a tech giant?",
+        "description": "A former red-light district in Japan is transforming into a deep tech startup hub, with cheap offices and tax breaks luring founders.",
+        "visual_hint": "Neon signs mixed with startup signs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "japanese street neon signs"
+      },
+      {
+        "hook": "Tax breaks turned nightlife into startups.",
+        "description": "Government incentives make startup costs lower here than in Tokyo's core, attracting entrepreneurs seeking affordability and a fresh vibe.",
+        "visual_hint": "Graph showing rising startup numbers and falling costs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "startup office people",
+        "image": "https://images.pexels.com/photos/7413846/pexels-photo-7413846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why founders are leaving Tokyo's hubs.",
+        "description": "Entrepreneurs ditch traditional business centers for this district's cheap spaces and unique location, fostering a new tech ecosystem.",
+        "visual_hint": "Founder moving office with boxes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "office workers moving boxes",
+        "image": "https://images.pexels.com/photos/7464647/pexels-photo-7464647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From nightlife to innovation district.",
+        "description": "This area reinvents itself as a tech hub, blending its historical nightlife edge with modern startup culture.",
+        "visual_hint": "Old and new district contrast",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "modern building construction site",
+        "image": "https://images.pexels.com/photos/32716845/pexels-photo-32716845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to scout your next office.",
+        "description": "Planning a Japan trip? Visit this district next month to tour offices and see why it's becoming AI's new home.",
+        "visual_hint": "Map pin and plane ticket",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "map with pins",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/VladSt.jpg?resize=1200,737",
+    "savedAt": "2026-08-09T14:26:34.433Z",
+    "sourceId": "e28a1bafae9f54743e43d59739c650c5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-acquires-presentation-startup-nextslide",
     "prompt_version": "1.0.0",
     "status": "published",
