@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "mark-zuckerberg-s-ai-manifesto-is-exactly-why-peop",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "pubDate": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "slides": [
+        "Zuckerberg's manifesto fuels AI backlash, but why?",
+        "He claims open-source AI is the only safe path.",
+        "Yet critics say it's just Meta's strategic play.",
+        "This shapes regulation, but not your daily tools.",
+        "Decide: judge AI by authors, not the tech itself."
+      ],
+      "thread_text": [
+        "1. The real AI power play\n\nMeta's open-source push isn't about safety—it's a strategic move to shape regulation in their favor, while your daily tools stay unchanged.",
+        "2. Zuckerberg's safety claim\n\nHe says open-source AI is the only safe path, but critics see a bid to control the market, not protect users.",
+        "3. Regulation's hidden target\n\nThis debate is steering new AI laws, but those laws won't touch the AI you use every day—your search engine and autocomplete stay the same.",
+        "4. Who owns the narrative?\n\nWhen tech giants preach safety, check their bottom line. The authors of AI policies often have the most to gain.",
+        "5. Your move: judge the source\n\nNext time you read AI news, ask who benefits from the message. Does the author's stake change your view? Test it on this story."
+      ],
+      "video_script": [
+        "Meta says open-source AI is safe.",
+        "But critics call it a power move.",
+        "Regulation will change, not your tools.",
+        "Judge AI by who's behind it.",
+        "Think about the author's agenda now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The real AI power play\n\nMeta's open-source push isn't about safety—it's a strategic move to shape regulation in their favor, while your daily tools stay unchanged.",
+            "2. Zuckerberg's safety claim\n\nHe says open-source AI is the only safe path, but critics see a bid to control the market, not protect users.",
+            "3. Regulation's hidden target\n\nThis debate is steering new AI laws, but those laws won't touch the AI you use every day—your search engine and autocomplete stay the same.",
+            "4. Who owns the narrative?\n\nWhen tech giants preach safety, check their bottom line. The authors of AI policies often have the most to gain.",
+            "5. Your move: judge the source\n\nNext time you read AI news, ask who benefits from the message. Does the author's stake change your view? Test it on this story."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta says open-source AI is safe.",
+            "But critics call it a power move.",
+            "Regulation will change, not your tools.",
+            "Judge AI by who's behind it.",
+            "Think about the author's agenda now."
+          ]
+        },
+        "instagram": {
+          "caption": "Zuckerberg says open-source AI is the only safe path, yet his own company's profit motive is the elephant in the room. 📉\n\nThis isn't about protecting you—critics see a power play to shape regulations in Meta's favor. The laws it influences won't touch your daily search bar or autocomplete. 🧐\n\nFor creators, nothing changes in your tools today. But the narrative being set now decides who controls the next decade of publishing.\n\nWhen a giant preaches safety, who benefits from what you believe? Does knowing the author's stake change your read on their “manifesto”? 💭"
+        }
+      },
+      "instagram_caption": "Zuckerberg says open-source AI is the only safe path, yet his own company's profit motive is the elephant in the room. 📉\n\nThis isn't about protecting you—critics see a power play to shape regulations in Meta's favor. The laws it influences won't touch your daily search bar or autocomplete. 🧐\n\nFor creators, nothing changes in your tools today. But the narrative being set now decides who controls the next decade of publishing.\n\nWhen a giant preaches safety, who benefits from what you believe? Does knowing the author's stake change your read on their “manifesto”? 💭",
+      "carousel_slides": [
+        {
+          "hook": "Is Meta's AI safety just a power play?",
+          "description": "Critics see Zuckerberg's open-source manifesto as a strategic move to shape regulation, not protect users. Daily tools remain unchanged.",
+          "visual_hint": "Silhouette behind Meta logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "silhouette behind logo"
+        },
+        {
+          "hook": "Safety claim or market control?",
+          "description": "Zuckerberg argues open-source AI is the only safe path, but skeptics view it as an attempt to dominate the market, not protect consumers.",
+          "visual_hint": "Scale with code and money",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale money code",
+          "image": "https://images.pexels.com/photos/19061684/pexels-photo-19061684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who really shapes AI laws?",
+          "description": "This debate drives new regulations, yet most won't affect your everyday search or autocomplete. Regulation targets infrastructure, not tools.",
+          "visual_hint": "Gavel near server racks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "gavel server room",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "When giants preach safety, check profits.",
+          "description": "Tech leaders framing AI safety often benefit most from policy outcomes. Their narratives serve their bottom lines, not your interests.",
+          "visual_hint": "Hand holding money and shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand money shield",
+          "image": "https://images.pexels.com/photos/6289033/pexels-photo-6289033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to judge AI news wisely.",
+          "description": "Next AI headline, ask who gains. Comment your take or see our analysis in bio. Test with this story.",
+          "visual_hint": "Finger tapping bookmark icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger tapping bookmark",
+          "image": "https://images.pexels.com/photos/3832029/pexels-photo-3832029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
+      "savedAt": "2026-08-10T22:27:42.408Z",
+      "sourceId": "559fae1965599d6d964d8b8a7b6cae08"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-co-founder-sergey-brin-has-now-spent-100-mi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+      "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+      "pubDate": "Mon, 10 Aug 2026 21:20:04 +0000",
+      "slides": [
+        "Why would a billionaire fund his own tax?",
+        "Sergey Brin donated $100 million to advocacy groups.",
+        "The money targets wealth taxes on billionaires like him.",
+        "His stance could reshape how tech elites handle taxes.",
+        "Watch whether other founders follow Brin's lead."
+      ],
+      "thread_text": [
+        "1. Why fund your own tax?\n\nSergey Brin just gave $100 million to groups pushing wealth taxes on billionaires like him.",
+        "2. The twist\n\nBrin's donation directly targets taxes that would hit his own fortune hardest.",
+        "3. The ripple effect\n\nIf Brin's stance spreads, other tech elites may face pressure to follow suit.",
+        "4. The bigger shift\n\nThis could change how Silicon Valley views taxes—from evasion to endorsement.",
+        "5. Your move\n\nWill you support policies that tax you more if you're wealthy? Or are you with Brin?"
+      ],
+      "video_script": [
+        "Sergey Brin donated a hundred million dollars.",
+        "He's funding groups that want wealth taxes.",
+        "Taxes that would hit him directly.",
+        "Now other billionaires might follow his lead.",
+        "What would you do in his shoes?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why fund your own tax?\n\nSergey Brin just gave $100 million to groups pushing wealth taxes on billionaires like him.",
+            "2. The twist\n\nBrin's donation directly targets taxes that would hit his own fortune hardest.",
+            "3. The ripple effect\n\nIf Brin's stance spreads, other tech elites may face pressure to follow suit.",
+            "4. The bigger shift\n\nThis could change how Silicon Valley views taxes—from evasion to endorsement.",
+            "5. Your move\n\nWill you support policies that tax you more if you're wealthy? Or are you with Brin?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sergey Brin donated a hundred million dollars.",
+            "He's funding groups that want wealth taxes.",
+            "Taxes that would hit him directly.",
+            "Now other billionaires might follow his lead.",
+            "What would you do in his shoes?"
+          ]
+        },
+        "instagram": {
+          "caption": "Sergey Brin just poured $100 million into groups that want to tax billionaires—including himself. 🧐\n\nThe Google co-founder is funding advocacy for wealth taxes that would hit his own fortune hardest. It's a rare move: a billionaire actively backing policies that cost him money. His stance could pressure other tech founders to do the same or risk looking selfish. 💸\n\nFor creators and publishers, this matters because it signals a shift in how Silicon Valley talks about money and public responsibility. If elites start endorsing wealth taxes, funding for public goods and content infrastructure might follow. \n\nWould you support a policy that taxes you more if you were rich? Or is this just calculated PR? 🤔"
+        }
+      },
+      "instagram_caption": "Sergey Brin just poured $100 million into groups that want to tax billionaires—including himself. 🧐\n\nThe Google co-founder is funding advocacy for wealth taxes that would hit his own fortune hardest. It's a rare move: a billionaire actively backing policies that cost him money. His stance could pressure other tech founders to do the same or risk looking selfish. 💸\n\nFor creators and publishers, this matters because it signals a shift in how Silicon Valley talks about money and public responsibility. If elites start endorsing wealth taxes, funding for public goods and content infrastructure might follow. \n\nWould you support a policy that taxes you more if you were rich? Or is this just calculated PR? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why fund your own tax?",
+          "description": "Sergey Brin gave $100 million to groups pushing wealth taxes that directly hit his fortune.",
+          "visual_hint": "Brin portrait with question mark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Sergey Brin"
+        },
+        {
+          "hook": "The twist: he profits?",
+          "description": "Brin's donation targets taxes that would cost him billions—a rare move among billionaires.",
+          "visual_hint": "Money bag and tax form",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "tax forms",
+          "image": "https://images.pexels.com/photos/7821551/pexels-photo-7821551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tech elites feel the heat",
+          "description": "If Brin's stance spreads, other founders may face pressure to support similar taxes.",
+          "visual_hint": "Rippling effect on Silicon Valley",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Silicon Valley sign",
+          "image": "https://images.pexels.com/photos/22636922/pexels-photo-22636922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A cultural shift in Silicon Valley",
+          "description": "This could change tech's view of taxes—from evasion to endorsement, altering elite behavior.",
+          "visual_hint": "Handshake over tax documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake business",
+          "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to track the fallout",
+          "description": "Follow the story—will other billionaires follow Brin's lead? Comment your prediction below.",
+          "visual_hint": "Bookmark icon with coins",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bookmark coins",
+          "image": "https://images.pexels.com/photos/34502697/pexels-photo-34502697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-542842326.jpg?resize=1200,800",
+      "savedAt": "2026-08-10T22:27:28.091Z",
+      "sourceId": "4676e3778a958b5b54984fd668a7db4c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "tech-industry-is-buzzing-after-a-claude-agent-hack",
       "prompt_version": "1.0.0",
       "status": "published",

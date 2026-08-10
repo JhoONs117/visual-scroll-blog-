@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-co-founder-sergey-brin-has-now-spent-100-mi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+  "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+  "pubDate": "Mon, 10 Aug 2026 21:20:04 +0000",
+  "slides": [
+    "Why would a billionaire fund his own tax?",
+    "Sergey Brin donated $100 million to advocacy groups.",
+    "The money targets wealth taxes on billionaires like him.",
+    "His stance could reshape how tech elites handle taxes.",
+    "Watch whether other founders follow Brin's lead."
+  ],
+  "thread_text": [
+    "1. Why fund your own tax?\n\nSergey Brin just gave $100 million to groups pushing wealth taxes on billionaires like him.",
+    "2. The twist\n\nBrin's donation directly targets taxes that would hit his own fortune hardest.",
+    "3. The ripple effect\n\nIf Brin's stance spreads, other tech elites may face pressure to follow suit.",
+    "4. The bigger shift\n\nThis could change how Silicon Valley views taxes—from evasion to endorsement.",
+    "5. Your move\n\nWill you support policies that tax you more if you're wealthy? Or are you with Brin?"
+  ],
+  "video_script": [
+    "Sergey Brin donated a hundred million dollars.",
+    "He's funding groups that want wealth taxes.",
+    "Taxes that would hit him directly.",
+    "Now other billionaires might follow his lead.",
+    "What would you do in his shoes?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why fund your own tax?\n\nSergey Brin just gave $100 million to groups pushing wealth taxes on billionaires like him.",
+        "2. The twist\n\nBrin's donation directly targets taxes that would hit his own fortune hardest.",
+        "3. The ripple effect\n\nIf Brin's stance spreads, other tech elites may face pressure to follow suit.",
+        "4. The bigger shift\n\nThis could change how Silicon Valley views taxes—from evasion to endorsement.",
+        "5. Your move\n\nWill you support policies that tax you more if you're wealthy? Or are you with Brin?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sergey Brin donated a hundred million dollars.",
+        "He's funding groups that want wealth taxes.",
+        "Taxes that would hit him directly.",
+        "Now other billionaires might follow his lead.",
+        "What would you do in his shoes?"
+      ]
+    },
+    "instagram": {
+      "caption": "Sergey Brin just poured $100 million into groups that want to tax billionaires—including himself. 🧐\n\nThe Google co-founder is funding advocacy for wealth taxes that would hit his own fortune hardest. It's a rare move: a billionaire actively backing policies that cost him money. His stance could pressure other tech founders to do the same or risk looking selfish. 💸\n\nFor creators and publishers, this matters because it signals a shift in how Silicon Valley talks about money and public responsibility. If elites start endorsing wealth taxes, funding for public goods and content infrastructure might follow. \n\nWould you support a policy that taxes you more if you were rich? Or is this just calculated PR? 🤔"
+    }
+  },
+  "instagram_caption": "Sergey Brin just poured $100 million into groups that want to tax billionaires—including himself. 🧐\n\nThe Google co-founder is funding advocacy for wealth taxes that would hit his own fortune hardest. It's a rare move: a billionaire actively backing policies that cost him money. His stance could pressure other tech founders to do the same or risk looking selfish. 💸\n\nFor creators and publishers, this matters because it signals a shift in how Silicon Valley talks about money and public responsibility. If elites start endorsing wealth taxes, funding for public goods and content infrastructure might follow. \n\nWould you support a policy that taxes you more if you were rich? Or is this just calculated PR? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why fund your own tax?",
+      "description": "Sergey Brin gave $100 million to groups pushing wealth taxes that directly hit his fortune.",
+      "visual_hint": "Brin portrait with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Sergey Brin"
+    },
+    {
+      "hook": "The twist: he profits?",
+      "description": "Brin's donation targets taxes that would cost him billions—a rare move among billionaires.",
+      "visual_hint": "Money bag and tax form",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tax forms",
+      "image": "https://images.pexels.com/photos/7821551/pexels-photo-7821551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tech elites feel the heat",
+      "description": "If Brin's stance spreads, other founders may face pressure to support similar taxes.",
+      "visual_hint": "Rippling effect on Silicon Valley",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Silicon Valley sign",
+      "image": "https://images.pexels.com/photos/22636922/pexels-photo-22636922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A cultural shift in Silicon Valley",
+      "description": "This could change tech's view of taxes—from evasion to endorsement, altering elite behavior.",
+      "visual_hint": "Handshake over tax documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake business",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to track the fallout",
+      "description": "Follow the story—will other billionaires follow Brin's lead? Comment your prediction below.",
+      "visual_hint": "Bookmark icon with coins",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bookmark coins",
+      "image": "https://images.pexels.com/photos/34502697/pexels-photo-34502697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-542842326.jpg?resize=1200,800",
+  "savedAt": "2026-08-10T22:27:28.091Z",
+  "sourceId": "4676e3778a958b5b54984fd668a7db4c"
+}
