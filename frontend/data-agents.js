@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "discovered-materials-is-playing-ai-whack-a-mole-to",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "slides": [
+        "Why hunt hidden materials for cooler chips?",
+        "AI whack-a-mole races thermal limits of silicon.",
+        "Discovered Materials finds unexpected superconductors—but why?",
+        "Their method turns simulation into faster real chip designs.",
+        "Explore their AI pipeline before your next hardware choice."
+      ],
+      "thread_text": [
+        "1. Why hunt hidden materials?\n\nBecause silicon is hitting a thermal ceiling that slows every AI chip you've ever used.",
+        "2. AI whack-a-mole\n\nTheir algorithm plays whack-a-mole with heat, racing to stay ahead of silicon's limits.",
+        "3. Unexpected superconductors\n\nDiscovered Materials found superconductors that shouldn't work—but they do, and nobody knows why yet.",
+        "4. Simulation to reality\n\nTheir pipeline skips the usual step, turning simulation into chips that run faster without the wait.",
+        "5. Test their method\n\nRun your next hardware decision through their AI pipeline this week—simulate before you buy."
+      ],
+      "video_script": [
+        "Silicon chips are getting too hot.",
+        "AI races to find cooler materials.",
+        "They found superconductors that shouldn't exist.",
+        "Their method turns simulation into faster chips.",
+        "Test their pipeline before your next buy."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why hunt hidden materials?\n\nBecause silicon is hitting a thermal ceiling that slows every AI chip you've ever used.",
+            "2. AI whack-a-mole\n\nTheir algorithm plays whack-a-mole with heat, racing to stay ahead of silicon's limits.",
+            "3. Unexpected superconductors\n\nDiscovered Materials found superconductors that shouldn't work—but they do, and nobody knows why yet.",
+            "4. Simulation to reality\n\nTheir pipeline skips the usual step, turning simulation into chips that run faster without the wait.",
+            "5. Test their method\n\nRun your next hardware decision through their AI pipeline this week—simulate before you buy."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Silicon chips are getting too hot.",
+            "AI races to find cooler materials.",
+            "They found superconductors that shouldn't exist.",
+            "Their method turns simulation into faster chips.",
+            "Test their pipeline before your next buy."
+          ]
+        },
+        "instagram": {
+          "caption": "Silicon chips are hitting a heat wall that slows down every device you own 🥵\n\nA team called Discovered Materials built an algorithm that plays whack-a-mole with heat, hunting for hidden superconductors that shouldn't work—but do. Nobody knows why yet.\n\nTheir trick: skip the long lab testing phase and turn simulations straight into faster chip designs. That means your next phone or laptop could run cooler without waiting years for new materials.\n\nFor you, this shortens the gap between \"what's possible\" and \"what you can actually buy\"—especially if you're choosing hardware for creative work soon.\n\nRun your next upgrade through their simulation pipeline before you commit—what would you test first? 🔍"
+        }
+      },
+      "instagram_caption": "Silicon chips are hitting a heat wall that slows down every device you own 🥵\n\nA team called Discovered Materials built an algorithm that plays whack-a-mole with heat, hunting for hidden superconductors that shouldn't work—but do. Nobody knows why yet.\n\nTheir trick: skip the long lab testing phase and turn simulations straight into faster chip designs. That means your next phone or laptop could run cooler without waiting years for new materials.\n\nFor you, this shortens the gap between \"what's possible\" and \"what you can actually buy\"—especially if you're choosing hardware for creative work soon.\n\nRun your next upgrade through their simulation pipeline before you commit—what would you test first? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Why do impossible materials work?",
+          "description": "Silicon chips hit a thermal ceiling that slows AI. Discovered Materials found unexpected superconductors that shouldn't work, but they do — unlocking cooler, faster hardware.",
+          "visual_hint": "Glowing chip with heat waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microchip circuit board"
+        },
+        {
+          "hook": "AI whack-a-mole vs. silicon heat",
+          "description": "Their algorithm races to beat silicon's thermal limits, playing whack-a-mole with heat to keep performance high and temperatures low.",
+          "visual_hint": "Whack-a-mole game with chips",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "heat sink computer",
+          "image": "https://images.pexels.com/photos/33792045/pexels-photo-33792045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Superconductors that shouldn't exist",
+          "description": "Discovered Materials found superconductors that break the rules — they work, and scientists don't know why yet. This could redefine chip cooling.",
+          "visual_hint": "Mysterious glowing material",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "superconductor experiment",
+          "image": "https://images.pexels.com/photos/36529666/pexels-photo-36529666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Simulation jumps straight to reality",
+          "description": "Their pipeline skips the usual testing delay, turning simulations into real chip designs that run faster without the long wait.",
+          "visual_hint": "Hand touching digital chip hologram",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "engineer working computer",
+          "image": "https://images.pexels.com/photos/12899196/pexels-photo-12899196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next buy",
+          "description": "Run your next hardware decision through their AI pipeline this week — simulate before you buy. Visit the link in bio to explore the method.",
+          "visual_hint": "Arrow pointing to bio link",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with graphs",
+          "image": "https://images.pexels.com/photos/7691754/pexels-photo-7691754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "savedAt": "2026-08-10T12:48:34.065Z",
+      "sourceId": "ee092482a3ff90447be5bb5aa17e06c9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-detectors-are-creating-a-new-era-of-distrust",
       "prompt_version": "1.0.0",
       "status": "published",
