@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-data-breach-at-shipping-giant-ceva-logistics-is-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+  "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+  "pubDate": "Mon, 10 Aug 2026 14:20:19 +0000",
+  "slides": [
+    "One breach at Ceva Logistics, whose data is next?",
+    "The shipping giant leaked sensitive files to the web.",
+    "Banks and Steam gamers now share one exposed data pool.",
+    "Your personal data may already be circulating on dark forums.",
+    "Check your breach exposure now; act before attackers do."
+  ],
+  "thread_text": [
+    "1. Who's next after Ceva?\n\nThe breach exposed shipping data, and now banks and Steam gamers are in the same leak pool.",
+    "2. One giant leak, many victims\n\nCeva's files included sensitive info from finance and gaming, not just logistics.",
+    "3. Your data on dark forums\n\nPersonal details may already be circulating, making identity theft a real threat.",
+    "4. The twist: cross-industry risk\n\nA single breach now links seemingly unrelated sectors, amplifying the danger.",
+    "5. Act before attackers do\n\nCheck if your email or accounts are in the leaked database today. Use a breach checker like Have I Been Pwned."
+  ],
+  "video_script": [
+    "Ceva's breach exposes more than shipping.",
+    "Banks and gamers share the same leak.",
+    "Your personal data may be on forums.",
+    "Dark web circulation increases identity theft risk.",
+    "Check your exposure now and secure accounts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's next after Ceva?\n\nThe breach exposed shipping data, and now banks and Steam gamers are in the same leak pool.",
+        "2. One giant leak, many victims\n\nCeva's files included sensitive info from finance and gaming, not just logistics.",
+        "3. Your data on dark forums\n\nPersonal details may already be circulating, making identity theft a real threat.",
+        "4. The twist: cross-industry risk\n\nA single breach now links seemingly unrelated sectors, amplifying the danger.",
+        "5. Act before attackers do\n\nCheck if your email or accounts are in the leaked database today. Use a breach checker like Have I Been Pwned."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ceva's breach exposes more than shipping.",
+        "Banks and gamers share the same leak.",
+        "Your personal data may be on forums.",
+        "Dark web circulation increases identity theft risk.",
+        "Check your exposure now and secure accounts."
+      ]
+    },
+    "instagram": {
+      "caption": "One breach, one shipping giant — and now your bank data and Steam account sit in the same leaked pool 📦💥\n\nCeva Logistics exposed sensitive files online, and those files didn’t just contain shipping labels. Finance records and gamer identities were swept in, meaning the blast radius isn’t limited to one industry.\n\nIf you’ve ever used a courier, traded stocks, or played on Steam, your details could already be floating on dark forums.\n\nFor anyone publishing content or managing accounts online, this is the moment to verify your own exposure — one leaked email can trigger credential-stuffing attacks on your work tools.\n\nHave you checked your email against Have I Been Pwned this week? 🔍"
+    }
+  },
+  "instagram_caption": "One breach, one shipping giant — and now your bank data and Steam account sit in the same leaked pool 📦💥\n\nCeva Logistics exposed sensitive files online, and those files didn’t just contain shipping labels. Finance records and gamer identities were swept in, meaning the blast radius isn’t limited to one industry.\n\nIf you’ve ever used a courier, traded stocks, or played on Steam, your details could already be floating on dark forums.\n\nFor anyone publishing content or managing accounts online, this is the moment to verify your own exposure — one leaked email can trigger credential-stuffing attacks on your work tools.\n\nHave you checked your email against Have I Been Pwned this week? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "One breach. Whose data is next?",
+      "description": "Ceva Logistics exposed shipping files, now banks and Steam gamers share the same leaked pool. Your personal info might be in it.",
+      "visual_hint": "Broken chain with leaking data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cargo ship port"
+    },
+    {
+      "hook": "Shipping files, finance fallout.",
+      "description": "Ceva's leaked files included sensitive info from banks and gaming platforms, not just logistics. Cross-industry risk just got real.",
+      "visual_hint": "Bank and game icons overlapping",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data on dark forums.",
+      "description": "Personal details from the breach may already be circulating, making identity theft a real threat. This is not just a corporate issue.",
+      "visual_hint": "Dark web forum on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop screen code",
+      "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One leak, endless ripple effects.",
+      "description": "A single breach now links unrelated sectors like shipping, banking, and gaming, amplifying the danger for everyone involved.",
+      "visual_hint": "Ripples from a single point",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this – check now.",
+      "description": "Visit Have I Been Pwned to see if your email or accounts are in the leaked database. Act before attackers do.",
+      "visual_hint": "Shield with checkmark",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass keyboard",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/shipping-2288991285.jpg?resize=1200,878",
+  "savedAt": "2026-08-10T14:51:27.222Z",
+  "sourceId": "ecdd6bda7b67965cd76f0655c4201e49"
+}

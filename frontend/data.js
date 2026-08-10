@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "a-data-breach-at-shipping-giant-ceva-logistics-is-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+    "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+    "pubDate": "Mon, 10 Aug 2026 14:20:19 +0000",
+    "slides": [
+      "One breach at Ceva Logistics, whose data is next?",
+      "The shipping giant leaked sensitive files to the web.",
+      "Banks and Steam gamers now share one exposed data pool.",
+      "Your personal data may already be circulating on dark forums.",
+      "Check your breach exposure now; act before attackers do."
+    ],
+    "thread_text": [
+      "1. Who's next after Ceva?\n\nThe breach exposed shipping data, and now banks and Steam gamers are in the same leak pool.",
+      "2. One giant leak, many victims\n\nCeva's files included sensitive info from finance and gaming, not just logistics.",
+      "3. Your data on dark forums\n\nPersonal details may already be circulating, making identity theft a real threat.",
+      "4. The twist: cross-industry risk\n\nA single breach now links seemingly unrelated sectors, amplifying the danger.",
+      "5. Act before attackers do\n\nCheck if your email or accounts are in the leaked database today. Use a breach checker like Have I Been Pwned."
+    ],
+    "video_script": [
+      "Ceva's breach exposes more than shipping.",
+      "Banks and gamers share the same leak.",
+      "Your personal data may be on forums.",
+      "Dark web circulation increases identity theft risk.",
+      "Check your exposure now and secure accounts."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's next after Ceva?\n\nThe breach exposed shipping data, and now banks and Steam gamers are in the same leak pool.",
+          "2. One giant leak, many victims\n\nCeva's files included sensitive info from finance and gaming, not just logistics.",
+          "3. Your data on dark forums\n\nPersonal details may already be circulating, making identity theft a real threat.",
+          "4. The twist: cross-industry risk\n\nA single breach now links seemingly unrelated sectors, amplifying the danger.",
+          "5. Act before attackers do\n\nCheck if your email or accounts are in the leaked database today. Use a breach checker like Have I Been Pwned."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ceva's breach exposes more than shipping.",
+          "Banks and gamers share the same leak.",
+          "Your personal data may be on forums.",
+          "Dark web circulation increases identity theft risk.",
+          "Check your exposure now and secure accounts."
+        ]
+      },
+      "instagram": {
+        "caption": "One breach, one shipping giant — and now your bank data and Steam account sit in the same leaked pool 📦💥\n\nCeva Logistics exposed sensitive files online, and those files didn’t just contain shipping labels. Finance records and gamer identities were swept in, meaning the blast radius isn’t limited to one industry.\n\nIf you’ve ever used a courier, traded stocks, or played on Steam, your details could already be floating on dark forums.\n\nFor anyone publishing content or managing accounts online, this is the moment to verify your own exposure — one leaked email can trigger credential-stuffing attacks on your work tools.\n\nHave you checked your email against Have I Been Pwned this week? 🔍"
+      }
+    },
+    "instagram_caption": "One breach, one shipping giant — and now your bank data and Steam account sit in the same leaked pool 📦💥\n\nCeva Logistics exposed sensitive files online, and those files didn’t just contain shipping labels. Finance records and gamer identities were swept in, meaning the blast radius isn’t limited to one industry.\n\nIf you’ve ever used a courier, traded stocks, or played on Steam, your details could already be floating on dark forums.\n\nFor anyone publishing content or managing accounts online, this is the moment to verify your own exposure — one leaked email can trigger credential-stuffing attacks on your work tools.\n\nHave you checked your email against Have I Been Pwned this week? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "One breach. Whose data is next?",
+        "description": "Ceva Logistics exposed shipping files, now banks and Steam gamers share the same leaked pool. Your personal info might be in it.",
+        "visual_hint": "Broken chain with leaking data",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cargo ship port"
+      },
+      {
+        "hook": "Shipping files, finance fallout.",
+        "description": "Ceva's leaked files included sensitive info from banks and gaming platforms, not just logistics. Cross-industry risk just got real.",
+        "visual_hint": "Bank and game icons overlapping",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data on dark forums.",
+        "description": "Personal details from the breach may already be circulating, making identity theft a real threat. This is not just a corporate issue.",
+        "visual_hint": "Dark web forum on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop screen code",
+        "image": "https://images.pexels.com/photos/5473313/pexels-photo-5473313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One leak, endless ripple effects.",
+        "description": "A single breach now links unrelated sectors like shipping, banking, and gaming, amplifying the danger for everyone involved.",
+        "visual_hint": "Ripples from a single point",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this – check now.",
+        "description": "Visit Have I Been Pwned to see if your email or accounts are in the leaked database. Act before attackers do.",
+        "visual_hint": "Shield with checkmark",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "magnifying glass keyboard",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/shipping-2288991285.jpg?resize=1200,878",
+    "savedAt": "2026-08-10T14:51:27.222Z",
+    "sourceId": "ecdd6bda7b67965cd76f0655c4201e49"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-muse-glimmer-brings-local-ai-agents-to-consum",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+    "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+    "pubDate": "Mon, 10 Aug 2026 11:02:38 +0000",
+    "slides": [
+      "Can Meta Muse Glimmer replace data center AI agents?",
+      "It runs fully on consumer GPUs, no cloud needed.",
+      "But it beats cloud models on just one narrow benchmark.",
+      "Now developers can deploy private, local AI agents.",
+      "Try the demo today—test against your own workloads."
+    ],
+    "thread_text": [
+      "1. The End of Cloud AI?\n\nMeta's new Muse Glimmer runs entirely on consumer GPUs, eliminating the need for cloud infrastructure.",
+      "2. One Benchmark Wonder\n\nDespite its portability, it only outperforms cloud models on a single narrow benchmark. Not a sweeping victory yet.",
+      "3. The Privacy Play\n\nDevelopers can now deploy AI agents locally, keeping all data on-premises for ultimate privacy and control.",
+      "4. Why Not Both?\n\nSo, should you ditch the cloud? The answer isn't simple—it depends on your specific workload and constraints.",
+      "5. Test It Yourself\n\nTry the demo today and measure real performance against your own tasks. Is local vs. cloud worth the trade-off?"
+    ],
+    "video_script": [
+      "Meta's new AI runs on your GPU.",
+      "No cloud needed, total privacy.",
+      "But only wins on one benchmark.",
+      "Local agents, full data control.",
+      "Try the demo, see if it's worth it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The End of Cloud AI?\n\nMeta's new Muse Glimmer runs entirely on consumer GPUs, eliminating the need for cloud infrastructure.",
+          "2. One Benchmark Wonder\n\nDespite its portability, it only outperforms cloud models on a single narrow benchmark. Not a sweeping victory yet.",
+          "3. The Privacy Play\n\nDevelopers can now deploy AI agents locally, keeping all data on-premises for ultimate privacy and control.",
+          "4. Why Not Both?\n\nSo, should you ditch the cloud? The answer isn't simple—it depends on your specific workload and constraints.",
+          "5. Test It Yourself\n\nTry the demo today and measure real performance against your own tasks. Is local vs. cloud worth the trade-off?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's new AI runs on your GPU.",
+          "No cloud needed, total privacy.",
+          "But only wins on one benchmark.",
+          "Local agents, full data control.",
+          "Try the demo, see if it's worth it."
+        ]
+      },
+      "instagram": {
+        "caption": "A single GPU in your office can now run an AI agent that never sends a byte of your data to the cloud. Meta’s new Muse Glimmer does exactly that, no data center required.\n\nIt beats big cloud models on just one narrow benchmark, so this isn't a magic bullet. The real win is privacy: all your code, docs, and prompts stay on your hardware.\n\nFor you, that means building internal tools or client work without signing a cloud provider’s data agreement. No more scrubbing prompts before you test.\n\nIs keeping your workflow fully local worth the performance trade-off for your actual tasks, or is the cloud’s speed still winning your worst-case load?"
+      }
+    },
+    "instagram_caption": "A single GPU in your office can now run an AI agent that never sends a byte of your data to the cloud. Meta’s new Muse Glimmer does exactly that, no data center required.\n\nIt beats big cloud models on just one narrow benchmark, so this isn't a magic bullet. The real win is privacy: all your code, docs, and prompts stay on your hardware.\n\nFor you, that means building internal tools or client work without signing a cloud provider’s data agreement. No more scrubbing prompts before you test.\n\nIs keeping your workflow fully local worth the performance trade-off for your actual tasks, or is the cloud’s speed still winning your worst-case load?",
+    "carousel_slides": [
+      {
+        "hook": "Is cloud AI dying?",
+        "description": "Meta's Muse Glimmer runs entirely on consumer GPUs, no cloud needed. But it only beats cloud models on one narrow benchmark.",
+        "visual_hint": "GPU chip close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "GPU chip"
+      },
+      {
+        "hook": "One benchmark wonder.",
+        "description": "It outperforms cloud models on a single narrow benchmark. Not a sweeping victory, but a start.",
+        "visual_hint": "Graph showing benchmark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bar chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Keep data on your hardware.",
+        "description": "Deploy AI agents locally with all data on-premises for ultimate privacy and control. No cloud exposure.",
+        "visual_hint": "Lock with server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server lock",
+        "image": "https://images.pexels.com/photos/4304021/pexels-photo-4304021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ditch cloud or not?",
+        "description": "The answer isn't simple. Depends on your workload and constraints. Local vs cloud trade-offs matter.",
+        "visual_hint": "Hand balancing scale",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand scale",
+        "image": "https://images.pexels.com/photos/8667544/pexels-photo-8667544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try the demo now!",
+        "description": "Test Muse Glimmer against your own workloads today. Measure real performance and decide if local is worth it.",
+        "visual_hint": "Cursor clicking demo",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "demo screen",
+        "image": "https://images.pexels.com/photos/18966444/pexels-photo-18966444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-10T14:51:00.769Z",
+    "sourceId": "89df26b4bad87257ec9e04eb57804753"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "discovered-materials-is-playing-ai-whack-a-mole-to",
     "prompt_version": "1.0.0",
     "status": "published",
