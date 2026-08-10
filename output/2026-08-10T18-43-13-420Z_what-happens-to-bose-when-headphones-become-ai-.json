@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-happens-to-bose-when-headphones-become-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "What happens to Bose when headphones become AI?",
+  "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+  "pubDate": "2026-08-10T14:00:00.000Z",
+  "slides": [
+    "Bose built its brand on silence—what happens when AI can create it?",
+    "Their next chips won't just cancel noise; they'll learn your audio environment.",
+    "But the surprise: Bose may license its AI to rival automakers' cabins.",
+    "Your next car could tune out traffic better than your headphones do.",
+    "Watch for Bose's first AI-driven noise demo at CES."
+  ],
+  "thread_text": [
+    "1. Bose's Silence, Now on Demand\n\nBose is pivoting from headphones to car cabins, using AI to learn how to block out traffic noise better than ever before.",
+    "2. The AI Learns Your World\n\nTheir next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+    "3. A Surprise Move: Licensing to Rivals\n\nBose may license its AI tech to competing automakers, turning a former audio giant into a B2B player.",
+    "4. Your Car Will Beat Your Headphones\n\nSoon, your car could tune out traffic noise more effectively than your premium headphones do—transforming the driving experience.",
+    "5. Try It at CES\n\nWatch for Bose's first AI-driven noise demo at CES. Will you test it yourself and see if the hype is real?"
+  ],
+  "video_script": [
+    "Bose built silence. Now it's learning your noise.",
+    "Chips will adapt to your audio environment.",
+    "Bose might license AI to car rivals.",
+    "Your car will quiet traffic better than headphones.",
+    "See the demo at CES—will you try it?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bose's Silence, Now on Demand\n\nBose is pivoting from headphones to car cabins, using AI to learn how to block out traffic noise better than ever before.",
+        "2. The AI Learns Your World\n\nTheir next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+        "3. A Surprise Move: Licensing to Rivals\n\nBose may license its AI tech to competing automakers, turning a former audio giant into a B2B player.",
+        "4. Your Car Will Beat Your Headphones\n\nSoon, your car could tune out traffic noise more effectively than your premium headphones do—transforming the driving experience.",
+        "5. Try It at CES\n\nWatch for Bose's first AI-driven noise demo at CES. Will you test it yourself and see if the hype is real?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bose built silence. Now it's learning your noise.",
+        "Chips will adapt to your audio environment.",
+        "Bose might license AI to car rivals.",
+        "Your car will quiet traffic better than headphones.",
+        "See the demo at CES—will you try it?"
+      ]
+    },
+    "instagram": {
+      "caption": "The brand that made silence its signature is now teaching AI to build it—inside your car, not just your ears. 🎧🔇\n\nBose’s next chips won’t just cancel noise. They’ll learn your specific environment—traffic patterns, cabin acoustics, even your driving habits—to create personalized quiet. And here’s the twist: they plan to license this AI to rival automakers, so your next car could drown out the highway better than your premium headphones do.\n\nFor anyone producing audio or video content, this means the baseline for “clean sound” just moved—your recordings will compete against AI-filtered rooms, not quiet studios.\n\nThink your car will make your headphones obsolete? Or is this just hype for CES?"
+    }
+  },
+  "instagram_caption": "The brand that made silence its signature is now teaching AI to build it—inside your car, not just your ears. 🎧🔇\n\nBose’s next chips won’t just cancel noise. They’ll learn your specific environment—traffic patterns, cabin acoustics, even your driving habits—to create personalized quiet. And here’s the twist: they plan to license this AI to rival automakers, so your next car could drown out the highway better than your premium headphones do.\n\nFor anyone producing audio or video content, this means the baseline for “clean sound” just moved—your recordings will compete against AI-filtered rooms, not quiet studios.\n\nThink your car will make your headphones obsolete? Or is this just hype for CES?",
+  "carousel_slides": [
+    {
+      "hook": "Your car will beat your headphones.",
+      "description": "Bose may license its AI to rival automakers, turning your car cabin into a noise-canceling sanctuary that outperforms your premium headphones.",
+      "visual_hint": "car interior, headphones, contrast",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car interior"
+    },
+    {
+      "hook": "AI learns your audio world.",
+      "description": "Bose's next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+      "visual_hint": "microchip with sound waves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip technology",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bose becomes a B2B player.",
+      "description": "Surprise move: Bose may license its AI noise-canceling tech to competitors, shifting from consumer audio to automotive supplier.",
+      "visual_hint": "handshake with car silhouette",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "car factory",
+      "image": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quieter rides, smarter cabins.",
+      "description": "Your next car could tune out traffic noise better than your headphones do, transforming the driving experience with AI-driven silence.",
+      "visual_hint": "driver smiling in quiet car",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "driver car happy",
+      "image": "https://images.pexels.com/photos/9518031/pexels-photo-9518031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "See it live at CES. Save this.",
+      "description": "Catch Bose's first AI-driven noise demo at CES. Test it yourself and see if the hype is real. Save this to plan your visit.",
+      "visual_hint": "CES sign, crowd",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "CES exhibition hall",
+      "image": "https://images.pexels.com/photos/15138858/pexels-photo-15138858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+  "savedAt": "2026-08-10T18:43:41.877Z",
+  "sourceId": "c6e4a85273e069335b56d9147bdce66a"
+}

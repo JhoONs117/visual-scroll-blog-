@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-limits-of-physics-ai-where-siemens-says-the-hu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The limits of physics AI: where Siemens says the human stays in charge",
+  "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+  "pubDate": "Mon, 10 Aug 2026 10:00:00 +0000",
+  "slides": [
+    "Can physics AI truly outthink Siemens' engineers?",
+    "Digital twins now predict failures before they occur.",
+    "Yet Siemens says humans judge final critical decisions.",
+    "Your role shifts from operator to ultimate validator.",
+    "Test one AI model against your own judgment now."
+  ],
+  "thread_text": [
+    "1. Who Reviews the AI?\n\nSiemens' digital twins predict failures before they occur, but engineers still hold the final call on critical decisions.",
+    "2. The New Job Title\n\nYour role shifts from operator to ultimate validator—the human who checks the AI's judgment, not just the machine's output.",
+    "3. The Blind Spot\n\nAI models can simulate thousands of scenarios, yet they miss the context that only human experience brings to the table.",
+    "4. The Cost of Trust\n\nIf you rely on AI without testing it, you're betting your plant's uptime on a black box. One wrong prediction could cascade.",
+    "5. Test the Oracle\n\nTake one AI model and pit it against your own judgment on a real failure case this week. Who's right?"
+  ],
+  "video_script": [
+    "AI predicts failures, but you decide.",
+    "Your role is now the validator.",
+    "Test the model against your gut.",
+    "Siemens says humans judge critical calls.",
+    "Will you trust the algorithm?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who Reviews the AI?\n\nSiemens' digital twins predict failures before they occur, but engineers still hold the final call on critical decisions.",
+        "2. The New Job Title\n\nYour role shifts from operator to ultimate validator—the human who checks the AI's judgment, not just the machine's output.",
+        "3. The Blind Spot\n\nAI models can simulate thousands of scenarios, yet they miss the context that only human experience brings to the table.",
+        "4. The Cost of Trust\n\nIf you rely on AI without testing it, you're betting your plant's uptime on a black box. One wrong prediction could cascade.",
+        "5. Test the Oracle\n\nTake one AI model and pit it against your own judgment on a real failure case this week. Who's right?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI predicts failures, but you decide.",
+        "Your role is now the validator.",
+        "Test the model against your gut.",
+        "Siemens says humans judge critical calls.",
+        "Will you trust the algorithm?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your plant's next failure might get predicted before it happens—but a human still makes the final call.\n\nSiemens' digital twins run thousands of scenarios and flag breakdowns in advance. Yet the company insists engineers keep the decisive vote on critical fixes. Your job description just changed: you're no longer just operating the system, you're the last checkpoint the AI answers to.\n\nFor anyone working with automation or content pipelines, this means your judgment is the product now, not the output.\n\nDo you trust a black-box prediction enough to shut down a live line on its say-so? Pick one recent call you'd have made differently and test it against yourself this week. 🤖⚠️🧠"
+    }
+  },
+  "instagram_caption": "Your plant's next failure might get predicted before it happens—but a human still makes the final call.\n\nSiemens' digital twins run thousands of scenarios and flag breakdowns in advance. Yet the company insists engineers keep the decisive vote on critical fixes. Your job description just changed: you're no longer just operating the system, you're the last checkpoint the AI answers to.\n\nFor anyone working with automation or content pipelines, this means your judgment is the product now, not the output.\n\nDo you trust a black-box prediction enough to shut down a live line on its say-so? Pick one recent call you'd have made differently and test it against yourself this week. 🤖⚠️🧠",
+  "carousel_slides": [
+    {
+      "hook": "Does AI miss what you see?",
+      "description": "Digital twins predict failures, but Siemens admits: engineers still judge critical calls. Experience outweighs simulation.",
+      "visual_hint": "AI vs engineer split screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital twin industrial"
+    },
+    {
+      "hook": "Your new title: validator.",
+      "description": "Role shifts from operator to ultimate validator—you check AI judgment, not just output. Machines simulate, you decide.",
+      "visual_hint": "human hand on control panel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "control room panel",
+      "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context that code ignores.",
+      "description": "AI runs thousands of scenarios, but misses context only human experience brings. Real failures need your gut.",
+      "visual_hint": "magnifying glass on data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass circuit",
+      "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blind trust costs uptime.",
+      "description": "Rely on AI untested? One wrong prediction can cascade into downtime. Verify before you bet your plant.",
+      "visual_hint": "cracked gear with warning",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken gear warning",
+      "image": "https://images.pexels.com/photos/10246147/pexels-photo-10246147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one AI against yourself.",
+      "description": "This week, pit an AI model on a real failure case against your judgment. Who's right? Save this challenge.",
+      "visual_hint": "checkmark over AI chart",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checkmark chart board",
+      "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8581895/pexels-photo-8581895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-10T18:43:27.784Z",
+  "sourceId": "48f7d024bec8a7259559b2eb3b1fb323"
+}

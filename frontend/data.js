@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "what-happens-to-bose-when-headphones-become-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "What happens to Bose when headphones become AI?",
+    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "pubDate": "2026-08-10T14:00:00.000Z",
+    "slides": [
+      "Bose built its brand on silence—what happens when AI can create it?",
+      "Their next chips won't just cancel noise; they'll learn your audio environment.",
+      "But the surprise: Bose may license its AI to rival automakers' cabins.",
+      "Your next car could tune out traffic better than your headphones do.",
+      "Watch for Bose's first AI-driven noise demo at CES."
+    ],
+    "thread_text": [
+      "1. Bose's Silence, Now on Demand\n\nBose is pivoting from headphones to car cabins, using AI to learn how to block out traffic noise better than ever before.",
+      "2. The AI Learns Your World\n\nTheir next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+      "3. A Surprise Move: Licensing to Rivals\n\nBose may license its AI tech to competing automakers, turning a former audio giant into a B2B player.",
+      "4. Your Car Will Beat Your Headphones\n\nSoon, your car could tune out traffic noise more effectively than your premium headphones do—transforming the driving experience.",
+      "5. Try It at CES\n\nWatch for Bose's first AI-driven noise demo at CES. Will you test it yourself and see if the hype is real?"
+    ],
+    "video_script": [
+      "Bose built silence. Now it's learning your noise.",
+      "Chips will adapt to your audio environment.",
+      "Bose might license AI to car rivals.",
+      "Your car will quiet traffic better than headphones.",
+      "See the demo at CES—will you try it?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Bose's Silence, Now on Demand\n\nBose is pivoting from headphones to car cabins, using AI to learn how to block out traffic noise better than ever before.",
+          "2. The AI Learns Your World\n\nTheir next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+          "3. A Surprise Move: Licensing to Rivals\n\nBose may license its AI tech to competing automakers, turning a former audio giant into a B2B player.",
+          "4. Your Car Will Beat Your Headphones\n\nSoon, your car could tune out traffic noise more effectively than your premium headphones do—transforming the driving experience.",
+          "5. Try It at CES\n\nWatch for Bose's first AI-driven noise demo at CES. Will you test it yourself and see if the hype is real?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bose built silence. Now it's learning your noise.",
+          "Chips will adapt to your audio environment.",
+          "Bose might license AI to car rivals.",
+          "Your car will quiet traffic better than headphones.",
+          "See the demo at CES—will you try it?"
+        ]
+      },
+      "instagram": {
+        "caption": "The brand that made silence its signature is now teaching AI to build it—inside your car, not just your ears. 🎧🔇\n\nBose’s next chips won’t just cancel noise. They’ll learn your specific environment—traffic patterns, cabin acoustics, even your driving habits—to create personalized quiet. And here’s the twist: they plan to license this AI to rival automakers, so your next car could drown out the highway better than your premium headphones do.\n\nFor anyone producing audio or video content, this means the baseline for “clean sound” just moved—your recordings will compete against AI-filtered rooms, not quiet studios.\n\nThink your car will make your headphones obsolete? Or is this just hype for CES?"
+      }
+    },
+    "instagram_caption": "The brand that made silence its signature is now teaching AI to build it—inside your car, not just your ears. 🎧🔇\n\nBose’s next chips won’t just cancel noise. They’ll learn your specific environment—traffic patterns, cabin acoustics, even your driving habits—to create personalized quiet. And here’s the twist: they plan to license this AI to rival automakers, so your next car could drown out the highway better than your premium headphones do.\n\nFor anyone producing audio or video content, this means the baseline for “clean sound” just moved—your recordings will compete against AI-filtered rooms, not quiet studios.\n\nThink your car will make your headphones obsolete? Or is this just hype for CES?",
+    "carousel_slides": [
+      {
+        "hook": "Your car will beat your headphones.",
+        "description": "Bose may license its AI to rival automakers, turning your car cabin into a noise-canceling sanctuary that outperforms your premium headphones.",
+        "visual_hint": "car interior, headphones, contrast",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "car interior"
+      },
+      {
+        "hook": "AI learns your audio world.",
+        "description": "Bose's next chips won't just cancel noise—they'll adapt to your environment, making silence a personalized experience.",
+        "visual_hint": "microchip with sound waves",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "microchip technology",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bose becomes a B2B player.",
+        "description": "Surprise move: Bose may license its AI noise-canceling tech to competitors, shifting from consumer audio to automotive supplier.",
+        "visual_hint": "handshake with car silhouette",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "car factory",
+        "image": "https://images.pexels.com/photos/5982900/pexels-photo-5982900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quieter rides, smarter cabins.",
+        "description": "Your next car could tune out traffic noise better than your headphones do, transforming the driving experience with AI-driven silence.",
+        "visual_hint": "driver smiling in quiet car",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "driver car happy",
+        "image": "https://images.pexels.com/photos/9518031/pexels-photo-9518031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "See it live at CES. Save this.",
+        "description": "Catch Bose's first AI-driven noise demo at CES. Test it yourself and see if the hype is real. Save this to plan your visit.",
+        "visual_hint": "CES sign, crowd",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "CES exhibition hall",
+        "image": "https://images.pexels.com/photos/15138858/pexels-photo-15138858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+    "savedAt": "2026-08-10T18:43:41.877Z",
+    "sourceId": "c6e4a85273e069335b56d9147bdce66a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-limits-of-physics-ai-where-siemens-says-the-hu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The limits of physics AI: where Siemens says the human stays in charge",
+    "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+    "pubDate": "Mon, 10 Aug 2026 10:00:00 +0000",
+    "slides": [
+      "Can physics AI truly outthink Siemens' engineers?",
+      "Digital twins now predict failures before they occur.",
+      "Yet Siemens says humans judge final critical decisions.",
+      "Your role shifts from operator to ultimate validator.",
+      "Test one AI model against your own judgment now."
+    ],
+    "thread_text": [
+      "1. Who Reviews the AI?\n\nSiemens' digital twins predict failures before they occur, but engineers still hold the final call on critical decisions.",
+      "2. The New Job Title\n\nYour role shifts from operator to ultimate validator—the human who checks the AI's judgment, not just the machine's output.",
+      "3. The Blind Spot\n\nAI models can simulate thousands of scenarios, yet they miss the context that only human experience brings to the table.",
+      "4. The Cost of Trust\n\nIf you rely on AI without testing it, you're betting your plant's uptime on a black box. One wrong prediction could cascade.",
+      "5. Test the Oracle\n\nTake one AI model and pit it against your own judgment on a real failure case this week. Who's right?"
+    ],
+    "video_script": [
+      "AI predicts failures, but you decide.",
+      "Your role is now the validator.",
+      "Test the model against your gut.",
+      "Siemens says humans judge critical calls.",
+      "Will you trust the algorithm?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who Reviews the AI?\n\nSiemens' digital twins predict failures before they occur, but engineers still hold the final call on critical decisions.",
+          "2. The New Job Title\n\nYour role shifts from operator to ultimate validator—the human who checks the AI's judgment, not just the machine's output.",
+          "3. The Blind Spot\n\nAI models can simulate thousands of scenarios, yet they miss the context that only human experience brings to the table.",
+          "4. The Cost of Trust\n\nIf you rely on AI without testing it, you're betting your plant's uptime on a black box. One wrong prediction could cascade.",
+          "5. Test the Oracle\n\nTake one AI model and pit it against your own judgment on a real failure case this week. Who's right?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI predicts failures, but you decide.",
+          "Your role is now the validator.",
+          "Test the model against your gut.",
+          "Siemens says humans judge critical calls.",
+          "Will you trust the algorithm?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your plant's next failure might get predicted before it happens—but a human still makes the final call.\n\nSiemens' digital twins run thousands of scenarios and flag breakdowns in advance. Yet the company insists engineers keep the decisive vote on critical fixes. Your job description just changed: you're no longer just operating the system, you're the last checkpoint the AI answers to.\n\nFor anyone working with automation or content pipelines, this means your judgment is the product now, not the output.\n\nDo you trust a black-box prediction enough to shut down a live line on its say-so? Pick one recent call you'd have made differently and test it against yourself this week. 🤖⚠️🧠"
+      }
+    },
+    "instagram_caption": "Your plant's next failure might get predicted before it happens—but a human still makes the final call.\n\nSiemens' digital twins run thousands of scenarios and flag breakdowns in advance. Yet the company insists engineers keep the decisive vote on critical fixes. Your job description just changed: you're no longer just operating the system, you're the last checkpoint the AI answers to.\n\nFor anyone working with automation or content pipelines, this means your judgment is the product now, not the output.\n\nDo you trust a black-box prediction enough to shut down a live line on its say-so? Pick one recent call you'd have made differently and test it against yourself this week. 🤖⚠️🧠",
+    "carousel_slides": [
+      {
+        "hook": "Does AI miss what you see?",
+        "description": "Digital twins predict failures, but Siemens admits: engineers still judge critical calls. Experience outweighs simulation.",
+        "visual_hint": "AI vs engineer split screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital twin industrial"
+      },
+      {
+        "hook": "Your new title: validator.",
+        "description": "Role shifts from operator to ultimate validator—you check AI judgment, not just output. Machines simulate, you decide.",
+        "visual_hint": "human hand on control panel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "control room panel",
+        "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Context that code ignores.",
+        "description": "AI runs thousands of scenarios, but misses context only human experience brings. Real failures need your gut.",
+        "visual_hint": "magnifying glass on data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass circuit",
+        "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blind trust costs uptime.",
+        "description": "Rely on AI untested? One wrong prediction can cascade into downtime. Verify before you bet your plant.",
+        "visual_hint": "cracked gear with warning",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken gear warning",
+        "image": "https://images.pexels.com/photos/10246147/pexels-photo-10246147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one AI against yourself.",
+        "description": "This week, pit an AI model on a real failure case against your judgment. Who's right? Save this challenge.",
+        "visual_hint": "checkmark over AI chart",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checkmark chart board",
+        "image": "https://images.pexels.com/photos/7876388/pexels-photo-7876388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8581895/pexels-photo-8581895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-10T18:43:27.784Z",
+    "sourceId": "48f7d024bec8a7259559b2eb3b1fb323"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "four-takeaways-from-mark-zuckerberg-8217-s-massive",
     "prompt_version": "1.0.0",
     "status": "published",
