@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "four-takeaways-from-mark-zuckerberg-8217-s-massive",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "pubDate": "2026-08-10T15:19:05.000Z",
+    "slides": [
+      "Zuckerberg's AI manifesto: what does he really want?",
+      "He plans open-source artificial general intelligence, not just chatbots.",
+      "Yet his massive compute procurement could centralize power dangerously.",
+      "Your AI strategy should watch open-source models, not just APIs.",
+      "Test Meta's openly available models against your current stack."
+    ],
+    "thread_text": [
+      "1. The AI power play\n\nOpen-source AGI from Meta could hand superintelligence to anyone—but building it means centralizing control over the world's compute.",
+      "2. Compute is the new oil\n\nZuckerberg's plan to buy hundreds of thousands of GPUs creates a bottleneck—only he and a few giants can afford this, making open-source a facade.",
+      "3. The hidden twist\n\nOpen weights don't equal open power. If Meta keeps the training data and compute secret, the model's behavior stays under their thumb.",
+      "4. What it means for you\n\nAPIs lock you in—but open models let you own your stack. Yet, running them requires infrastructure you may not have. Weigh the trade-off.",
+      "5. Your next move\n\nTake a prompt from your current workflow and run it on Meta's Llama 3. Compare the output. Does it match? Test it today."
+    ],
+    "video_script": [
+      "Meta's AGI plan sounds open, but it isn't.",
+      "Buying massive compute creates central control, not freedom.",
+      "Open weights hide secrets in training data.",
+      "Your API dependence could be a trap.",
+      "Test Meta's model with your real prompt."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI power play\n\nOpen-source AGI from Meta could hand superintelligence to anyone—but building it means centralizing control over the world's compute.",
+          "2. Compute is the new oil\n\nZuckerberg's plan to buy hundreds of thousands of GPUs creates a bottleneck—only he and a few giants can afford this, making open-source a facade.",
+          "3. The hidden twist\n\nOpen weights don't equal open power. If Meta keeps the training data and compute secret, the model's behavior stays under their thumb.",
+          "4. What it means for you\n\nAPIs lock you in—but open models let you own your stack. Yet, running them requires infrastructure you may not have. Weigh the trade-off.",
+          "5. Your next move\n\nTake a prompt from your current workflow and run it on Meta's Llama 3. Compare the output. Does it match? Test it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's AGI plan sounds open, but it isn't.",
+          "Buying massive compute creates central control, not freedom.",
+          "Open weights hide secrets in training data.",
+          "Your API dependence could be a trap.",
+          "Test Meta's model with your real prompt."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is buying hundreds of thousands of GPUs for open-source AGI—while promising the result will be free for everyone. That's a lot of power concentrated in one place. 🏭\n\nThe catch: open weights don't mean open control. If Meta keeps training data and compute secret, the model's behavior stays under their thumb. Anyone can download it, but nobody can truly audit it.\n\nFor you, this shifts the API-vs-open-model trade-off. APIs lock you into a vendor, but running open models requires infrastructure you may not have.\n\nTake one prompt from your current workflow and run it on Meta's Llama 3 today. Does the output match your standards? That's your answer. 🧪"
+      }
+    },
+    "instagram_caption": "Meta is buying hundreds of thousands of GPUs for open-source AGI—while promising the result will be free for everyone. That's a lot of power concentrated in one place. 🏭\n\nThe catch: open weights don't mean open control. If Meta keeps training data and compute secret, the model's behavior stays under their thumb. Anyone can download it, but nobody can truly audit it.\n\nFor you, this shifts the API-vs-open-model trade-off. APIs lock you into a vendor, but running open models requires infrastructure you may not have.\n\nTake one prompt from your current workflow and run it on Meta's Llama 3 today. Does the output match your standards? That's your answer. 🧪",
+    "carousel_slides": [
+      {
+        "hook": "Who controls the compute controls AI.",
+        "description": "Meta's open-source AGI plan hides a catch: massive compute procurement centralizes power in few hands. Real openness may be a facade.",
+        "visual_hint": "Server racks, glowing lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Compute is the new oil.",
+        "description": "Zuckerberg's plan to buy hundreds of thousands of GPUs creates a bottleneck—only he and a few giants can afford this, making open-source a facade.",
+        "visual_hint": "Stack of GPUs, coins",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gpu stack",
+        "image": "https://images.pexels.com/photos/34301925/pexels-photo-34301925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Open weights, hidden strings.",
+        "description": "Open weights don't equal open power. If Meta keeps training data and compute secret, model behavior stays under their thumb.",
+        "visual_hint": "Puppet strings, closed box",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "puppet strings",
+        "image": "https://images.pexels.com/photos/38240478/pexels-photo-38240478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "APIs lock you in. Open models free you.",
+        "description": "APIs lock you in—but open models let you own your stack. Yet, running them requires infrastructure you may not have. Weigh the trade-off.",
+        "visual_hint": "Broken chain, open door",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken chain",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test Meta's Llama 3.",
+        "description": "Take a prompt from your current workflow and run it on Meta's Llama 3. Compare the output. Does it match? Test it today.",
+        "visual_hint": "Checkmark, phone screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checkmark phone",
+        "image": "https://images.pexels.com/photos/35834582/pexels-photo-35834582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-10T16:44:46.361Z",
+    "sourceId": "8146f3b7fccd003aea6ef5c03a3bc0ec"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-s-new-glimmer-ai-model-offers-a-hint-at-zucke",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+    "slides": [
+      "Does Zuckerberg's AI dream start with Glimmer?",
+      "Glimmer predicts your next action, not just text.",
+      "It hides private goals inside everyday digital tasks.",
+      "Your interfaces could soon adapt before you click.",
+      "Test Glimmer's predictions against your own habits."
+    ],
+    "thread_text": [
+      "1. Does Zuckerberg need Glimmer?\n\nMeta's new AI predicts your next move before you make it—hidden inside everyday tasks.",
+      "2. Not just text—action.\n\nGlimmer doesn't autocomplete sentences. It anticipates your behavior, from clicks to decisions.",
+      "3. Private goals, hidden.\n\nYour intentions stay tucked inside routine digital actions—but Glimmer sees the pattern.",
+      "4. Interfaces adapt first.\n\nYour screen could shift before your cursor moves. No click needed—just intent.",
+      "5. Test it against you.\n\nDo Glimmer's predictions beat your own habits? Try simulating a typical task and compare."
+    ],
+    "video_script": [
+      "Zuckerberg's AI sees your next move.",
+      "Glimmer predicts actions, not just text.",
+      "Private goals hide in daily tasks.",
+      "Your screen adapts before you click.",
+      "Test Glimmer against your own habits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Does Zuckerberg need Glimmer?\n\nMeta's new AI predicts your next move before you make it—hidden inside everyday tasks.",
+          "2. Not just text—action.\n\nGlimmer doesn't autocomplete sentences. It anticipates your behavior, from clicks to decisions.",
+          "3. Private goals, hidden.\n\nYour intentions stay tucked inside routine digital actions—but Glimmer sees the pattern.",
+          "4. Interfaces adapt first.\n\nYour screen could shift before your cursor moves. No click needed—just intent.",
+          "5. Test it against you.\n\nDo Glimmer's predictions beat your own habits? Try simulating a typical task and compare."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Zuckerberg's AI sees your next move.",
+          "Glimmer predicts actions, not just text.",
+          "Private goals hide in daily tasks.",
+          "Your screen adapts before you click.",
+          "Test Glimmer against your own habits."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta has a new AI model called Glimmer that doesn’t just predict your next word—it predicts your next click, scroll, or decision before you make it.  \n\nGlimmer embeds your hidden intentions inside routine digital tasks and spots patterns you don’t even notice. That means interfaces could soon rearrange themselves for you, before your cursor moves.  \n\nFor anyone who creates or schedules content, this shifts how you think about audience behavior: the tool might know what your follower does next better than they do.  \n\nCould you guess your own next three actions right now—or would Glimmer beat you at that game? 🧠🖱️"
+      }
+    },
+    "instagram_caption": "Meta has a new AI model called Glimmer that doesn’t just predict your next word—it predicts your next click, scroll, or decision before you make it.  \n\nGlimmer embeds your hidden intentions inside routine digital tasks and spots patterns you don’t even notice. That means interfaces could soon rearrange themselves for you, before your cursor moves.  \n\nFor anyone who creates or schedules content, this shifts how you think about audience behavior: the tool might know what your follower does next better than they do.  \n\nCould you guess your own next three actions right now—or would Glimmer beat you at that game? 🧠🖱️",
+    "carousel_slides": [
+      {
+        "hook": "Your private goals aren't private anymore.",
+        "description": "Meta's Glimmer AI hides your hidden intentions in everyday digital actions—it sees patterns you don't. Your routines just became data.",
+        "visual_hint": "Eye over digital grid",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "It predicts what you do, not what you type.",
+        "description": "Glimmer doesn't autocomplete sentences. It anticipates your clicks, decisions, and next moves—turning behavior into a forecast.",
+        "visual_hint": "Cursor with predicted path",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your intentions are hidden in plain sight.",
+        "description": "Private goals stay tucked in routine actions. Glimmer spots the pattern and decodes them—without you saying a word.",
+        "visual_hint": "Magnifying glass on icons",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your screen adapts before you click.",
+        "description": "Interfaces will shift based on your predicted intent. No click needed—just your unspoken next step.",
+        "visual_hint": "Hand tapping glowing interface",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "touchscreen closeup",
+        "image": "https://images.pexels.com/photos/32619788/pexels-photo-32619788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test Glimmer against you.",
+        "description": "Try simulating a typical task today. Ask: did you know your next action before it happened? Compare with Glimmer's predictions.",
+        "visual_hint": "Checklist with hand",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "notebook and pen",
+        "image": "https://images.pexels.com/photos/5594317/pexels-photo-5594317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+    "savedAt": "2026-08-10T16:44:32.572Z",
+    "sourceId": "4662a98c4da9d5a35fdeb378bc1ce210"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "a-data-breach-at-shipping-giant-ceva-logistics-is-",
     "prompt_version": "1.0.0",
     "status": "published",

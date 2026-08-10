@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-new-glimmer-ai-model-offers-a-hint-at-zucke",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+  "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+  "pubDate": "Mon, 10 Aug 2026 16:20:13 +0000",
+  "slides": [
+    "Does Zuckerberg's AI dream start with Glimmer?",
+    "Glimmer predicts your next action, not just text.",
+    "It hides private goals inside everyday digital tasks.",
+    "Your interfaces could soon adapt before you click.",
+    "Test Glimmer's predictions against your own habits."
+  ],
+  "thread_text": [
+    "1. Does Zuckerberg need Glimmer?\n\nMeta's new AI predicts your next move before you make it—hidden inside everyday tasks.",
+    "2. Not just text—action.\n\nGlimmer doesn't autocomplete sentences. It anticipates your behavior, from clicks to decisions.",
+    "3. Private goals, hidden.\n\nYour intentions stay tucked inside routine digital actions—but Glimmer sees the pattern.",
+    "4. Interfaces adapt first.\n\nYour screen could shift before your cursor moves. No click needed—just intent.",
+    "5. Test it against you.\n\nDo Glimmer's predictions beat your own habits? Try simulating a typical task and compare."
+  ],
+  "video_script": [
+    "Zuckerberg's AI sees your next move.",
+    "Glimmer predicts actions, not just text.",
+    "Private goals hide in daily tasks.",
+    "Your screen adapts before you click.",
+    "Test Glimmer against your own habits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Does Zuckerberg need Glimmer?\n\nMeta's new AI predicts your next move before you make it—hidden inside everyday tasks.",
+        "2. Not just text—action.\n\nGlimmer doesn't autocomplete sentences. It anticipates your behavior, from clicks to decisions.",
+        "3. Private goals, hidden.\n\nYour intentions stay tucked inside routine digital actions—but Glimmer sees the pattern.",
+        "4. Interfaces adapt first.\n\nYour screen could shift before your cursor moves. No click needed—just intent.",
+        "5. Test it against you.\n\nDo Glimmer's predictions beat your own habits? Try simulating a typical task and compare."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zuckerberg's AI sees your next move.",
+        "Glimmer predicts actions, not just text.",
+        "Private goals hide in daily tasks.",
+        "Your screen adapts before you click.",
+        "Test Glimmer against your own habits."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta has a new AI model called Glimmer that doesn’t just predict your next word—it predicts your next click, scroll, or decision before you make it.  \n\nGlimmer embeds your hidden intentions inside routine digital tasks and spots patterns you don’t even notice. That means interfaces could soon rearrange themselves for you, before your cursor moves.  \n\nFor anyone who creates or schedules content, this shifts how you think about audience behavior: the tool might know what your follower does next better than they do.  \n\nCould you guess your own next three actions right now—or would Glimmer beat you at that game? 🧠🖱️"
+    }
+  },
+  "instagram_caption": "Meta has a new AI model called Glimmer that doesn’t just predict your next word—it predicts your next click, scroll, or decision before you make it.  \n\nGlimmer embeds your hidden intentions inside routine digital tasks and spots patterns you don’t even notice. That means interfaces could soon rearrange themselves for you, before your cursor moves.  \n\nFor anyone who creates or schedules content, this shifts how you think about audience behavior: the tool might know what your follower does next better than they do.  \n\nCould you guess your own next three actions right now—or would Glimmer beat you at that game? 🧠🖱️",
+  "carousel_slides": [
+    {
+      "hook": "Your private goals aren't private anymore.",
+      "description": "Meta's Glimmer AI hides your hidden intentions in everyday digital actions—it sees patterns you don't. Your routines just became data.",
+      "visual_hint": "Eye over digital grid",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "It predicts what you do, not what you type.",
+      "description": "Glimmer doesn't autocomplete sentences. It anticipates your clicks, decisions, and next moves—turning behavior into a forecast.",
+      "visual_hint": "Cursor with predicted path",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your intentions are hidden in plain sight.",
+      "description": "Private goals stay tucked in routine actions. Glimmer spots the pattern and decodes them—without you saying a word.",
+      "visual_hint": "Magnifying glass on icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your screen adapts before you click.",
+      "description": "Interfaces will shift based on your predicted intent. No click needed—just your unspoken next step.",
+      "visual_hint": "Hand tapping glowing interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "touchscreen closeup",
+      "image": "https://images.pexels.com/photos/32619788/pexels-photo-32619788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test Glimmer against you.",
+      "description": "Try simulating a typical task today. Ask: did you know your next action before it happened? Compare with Glimmer's predictions.",
+      "visual_hint": "Checklist with hand",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook and pen",
+      "image": "https://images.pexels.com/photos/5594317/pexels-photo-5594317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+  "savedAt": "2026-08-10T16:44:32.572Z",
+  "sourceId": "4662a98c4da9d5a35fdeb378bc1ce210"
+}
