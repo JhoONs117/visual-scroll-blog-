@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "novo-nordisk-and-aws-bring-agentic-ai-into-drug-di",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "pubDate": "Tue, 11 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Can agentic AI find your next blockbuster drug?",
+        "Novo Nordisk partnered with AWS to accelerate discovery.",
+        "The AI designs trials and predicts outcomes autonomously.",
+        "Your R&D timeline could shrink from years to months.",
+        "Pilot one molecule pathway today, not next quarter."
+      ],
+      "thread_text": [
+        "1. The Drug Discovery Clock Is Ticking\n\nNovo Nordisk just handed AWS the keys to its R&D pipeline—years of trial data, now fuel for machine autonomy.",
+        "2. What Happens When AI Designs the Trial?\n\nIt doesn't just pick doses. It predicts patient outcomes, spots failure points, and adjusts protocols in real time.",
+        "3. The Twist: Your Competitor Is Already Running It\n\nWhile you're waiting for quarterly results, their AI has already run 10,000 virtual patients through your molecule's path.",
+        "4. The Consequence: Years Become Months\n\nA timeline that used to stretch across regulatory seasons now fits inside a single funding round.",
+        "5. Your Move: Pilot One Pathway This Week\n\nTake a live dataset from your lab and run it through an AI trial simulator. If you haven't, you're already behind."
+      ],
+      "video_script": [
+        "Novo Nordisk paired with AWS to speed drug discovery.",
+        "AI designs trials and predicts outcomes autonomously.",
+        "Your R&D timeline shrinks from years to months.",
+        "Pilot one molecule pathway today, not next quarter.",
+        "Agentic AI could find your next blockbuster drug."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Drug Discovery Clock Is Ticking\n\nNovo Nordisk just handed AWS the keys to its R&D pipeline—years of trial data, now fuel for machine autonomy.",
+            "2. What Happens When AI Designs the Trial?\n\nIt doesn't just pick doses. It predicts patient outcomes, spots failure points, and adjusts protocols in real time.",
+            "3. The Twist: Your Competitor Is Already Running It\n\nWhile you're waiting for quarterly results, their AI has already run 10,000 virtual patients through your molecule's path.",
+            "4. The Consequence: Years Become Months\n\nA timeline that used to stretch across regulatory seasons now fits inside a single funding round.",
+            "5. Your Move: Pilot One Pathway This Week\n\nTake a live dataset from your lab and run it through an AI trial simulator. If you haven't, you're already behind."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Novo Nordisk paired with AWS to speed drug discovery.",
+            "AI designs trials and predicts outcomes autonomously.",
+            "Your R&D timeline shrinks from years to months.",
+            "Pilot one molecule pathway today, not next quarter.",
+            "Agentic AI could find your next blockbuster drug."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next blockbuster drug might be designed by software that runs 10,000 virtual patients before a single real one signs up.  \n\nNovo Nordisk just fed years of trial data into an AWS system that picks doses, predicts outcomes, and adjusts protocols on its own—no human waiting for quarterly results.  \n\nFor you: the R&D cycle you planned around for three years now fits into one funding round. If you're not piloting a molecule pathway this week, your competitor already is.  \n\nWhich dataset in your lab are you going to run through the simulator first? 🧪🤖⏱️"
+        }
+      },
+      "instagram_caption": "Your next blockbuster drug might be designed by software that runs 10,000 virtual patients before a single real one signs up.  \n\nNovo Nordisk just fed years of trial data into an AWS system that picks doses, predicts outcomes, and adjusts protocols on its own—no human waiting for quarterly results.  \n\nFor you: the R&D cycle you planned around for three years now fits into one funding round. If you're not piloting a molecule pathway this week, your competitor already is.  \n\nWhich dataset in your lab are you going to run through the simulator first? 🧪🤖⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Your competitor's AI already ran 10,000 patients?",
+          "description": "While you await quarterly results, their AI has already run 10,000 virtual patients through your molecule's path. The clock is ticking.",
+          "visual_hint": "Racing clock with molecule overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "clock molecule laboratory"
+        },
+        {
+          "hook": "What if AI designs the trial?",
+          "description": "Novo Nordisk handed AWS its R&D data. The AI predicts patient outcomes, spots failures, and adjusts protocols in real time—not just doses.",
+          "visual_hint": "AI network over patient charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer network data center",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The twist: AI predicts before you test.",
+          "description": "It doesn't just plan. It runs virtual patients through your molecule, spotting failure points before real trials—shrinking risk and time.",
+          "visual_hint": "Virtual patient simulation screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hospital monitors technology",
+          "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Years of R&D become months.",
+          "description": "A timeline stretching across regulatory seasons now fits inside a single funding round. Novo Nordisk already proved it with AWS.",
+          "visual_hint": "Calendar shrinking to months",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calendar clock business",
+          "image": "https://images.pexels.com/photos/6863326/pexels-photo-6863326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to pilot one pathway now.",
+          "description": "Take a live dataset from your lab and run it through an AI trial simulator this week. Don't wait for next quarter—you're already behind.",
+          "visual_hint": "Hand clicking AI simulator button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person laptop technology",
+          "image": "https://images.pexels.com/photos/12662877/pexels-photo-12662877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8851602/pexels-photo-8851602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-11T10:42:21.598Z",
+      "sourceId": "485d42d301c2d7a2d93c0432488cc414"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ford-s-new-ai-assistant-can-check-your-fuel-levels",
       "prompt_version": "1.0.0",
       "status": "published",
