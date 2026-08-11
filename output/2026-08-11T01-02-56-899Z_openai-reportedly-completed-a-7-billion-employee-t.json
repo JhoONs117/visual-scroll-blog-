@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-reportedly-completed-a-7-billion-employee-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+  "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+  "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+  "slides": [
+    "Who cashed out $7 billion in OpenAI's employee deal?",
+    "The tender offer values the company at $150 billion.",
+    "But insiders can only sell a fraction of shares each year.",
+    "Your stock option math just changed drastically today.",
+    "Ask your HR if your liquidation access is truly liquid."
+  ],
+  "thread_text": [
+    "1. Who cashed out?\n\nA single investor sold $7 billion in OpenAI's employee tender offer, while insiders face annual share sell limits.",
+    "2. $150 billion valuation\n\nThe deal prices OpenAI at $150 billion, but your stock option math just got more complex with restricted liquidity.",
+    "3. Fractional sales only\n\nInsiders can't sell everything at once—annual caps mean your shares aren't truly liquid when you need cash.",
+    "4. Liquidity illusion\n\nEven in a mega deal, access to cash depends on HR policies. Your paper wealth may be trapped for years.",
+    "5. Ask HR today\n\nDoes your liquidation access give you real cash when you need it? Check your offer or ask your HR today."
+  ],
+  "video_script": [
+    "Who sold seven billion in OpenAI deal?",
+    "Valuation hits one hundred fifty billion.",
+    "But insiders capped on yearly share sales.",
+    "Your stock math just changed drastically.",
+    "Ask HR if your liquidation is real."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who cashed out?\n\nA single investor sold $7 billion in OpenAI's employee tender offer, while insiders face annual share sell limits.",
+        "2. $150 billion valuation\n\nThe deal prices OpenAI at $150 billion, but your stock option math just got more complex with restricted liquidity.",
+        "3. Fractional sales only\n\nInsiders can't sell everything at once—annual caps mean your shares aren't truly liquid when you need cash.",
+        "4. Liquidity illusion\n\nEven in a mega deal, access to cash depends on HR policies. Your paper wealth may be trapped for years.",
+        "5. Ask HR today\n\nDoes your liquidation access give you real cash when you need it? Check your offer or ask your HR today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who sold seven billion in OpenAI deal?",
+        "Valuation hits one hundred fifty billion.",
+        "But insiders capped on yearly share sales.",
+        "Your stock math just changed drastically.",
+        "Ask HR if your liquidation is real."
+      ]
+    },
+    "instagram": {
+      "caption": "$7 billion. That's how much one single investor just cashed out of OpenAI's employee stock deal. 💸\n\nThe deal values the company at $150 billion, but here's the catch: insiders can only sell a small fraction of their shares each year. So that paper wealth? It's not exactly liquid.\n\nIf you hold stock options anywhere, this changes your math. Your equity might look big on paper, but can you actually turn it into cash when you need it? 🤔\n\nAsk HR today: does your liquidation access give you real money, or just a number on a screen?\n\nCheck your offer letter. 📋"
+    }
+  },
+  "instagram_caption": "$7 billion. That's how much one single investor just cashed out of OpenAI's employee stock deal. 💸\n\nThe deal values the company at $150 billion, but here's the catch: insiders can only sell a small fraction of their shares each year. So that paper wealth? It's not exactly liquid.\n\nIf you hold stock options anywhere, this changes your math. Your equity might look big on paper, but can you actually turn it into cash when you need it? 🤔\n\nAsk HR today: does your liquidation access give you real money, or just a number on a screen?\n\nCheck your offer letter. 📋",
+  "carousel_slides": [
+    {
+      "hook": "Your shares aren't liquid cash.",
+      "description": "A single investor cashed out $7 billion in OpenAI's tender offer, but insiders face annual sell limits. Your paper wealth may be trapped for years.",
+      "visual_hint": "padlock on stock certificates",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Who cashed out $7 billion?",
+      "description": "OpenAI's $150 billion deal let one investor sell big, but insiders can only sell a fraction each year, limiting your access to cash.",
+      "visual_hint": "single figure with money bags",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money bags",
+      "image": "https://images.pexels.com/photos/8370775/pexels-photo-8370775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fractional sales only?",
+      "description": "Annual caps mean you can't sell all at once. Even in a mega deal, your shares aren't truly liquid when you need cash.",
+      "visual_hint": "calendar with small sale icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar closeup",
+      "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Paper wealth, trapped cash.",
+      "description": "In mega deals, access to cash depends on HR policies. Your stock option math just got complex—check your liquidity access.",
+      "visual_hint": "hand holding stock documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding documents",
+      "image": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask HR or save this now.",
+      "description": "Check your stock option agreement today. Ask HR if your liquidation access gives real cash when you need it.",
+      "visual_hint": "question mark and phone icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-11T01:03:11.521Z",
+  "sourceId": "b5e0104f574c505ddc4a116ba34442d5"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ford-s-new-ai-assistant-can-check-your-fuel-levels",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+  "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+  "pubDate": "2026-08-10T11:00:00.000Z",
+  "slides": [
+    "Can Ford's AI assistant actually trust your tires?",
+    "It reads fuel and pressure directly from sensors",
+    "But it fails silently when sensors malfunction",
+    "You must verify alerts manually before driving",
+    "Test it today: ignore one alert and observe"
+  ],
+  "thread_text": [
+    "1. Your tires are lying to you\n\nThe Ford AI assistant reads tire pressure and fuel directly from sensors, but it doesn't tell you when those sensors are lying. You could be driving on a warning that means nothing, or missing one that means everything.",
+    "2. The silent failure problem\n\nWhen a sensor malfunctions, the AI doesn't warn you — it just quietly uses the bad data. You'd never know unless you independently check every reading before hitting the road.",
+    "3. Manual verification is the rule\n\nFord's system expects you to double-check all alerts manually — even the ones it flags as urgent. That's not an assistant; that's a notifier with a badge.",
+    "4. The trust paradox\n\nIf you trust the AI too much, you risk driving on unsafe tires. If you trust it too little, you're back to doing all the work yourself. The tool only works if you never fully rely on it.",
+    "5. Try this test this week\n\nIgnore one of its tire alerts on your next drive. See if the AI notices it ignored or just carries on. That'll show you how much you can really trust it."
+  ],
+  "video_script": [
+    "Ford's AI reads tire sensors directly.",
+    "But fails silently when sensors break.",
+    "You must manually verify every alert.",
+    "Trusting it blindly could be dangerous.",
+    "Test one ignored alert this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your tires are lying to you\n\nThe Ford AI assistant reads tire pressure and fuel directly from sensors, but it doesn't tell you when those sensors are lying. You could be driving on a warning that means nothing, or missing one that means everything.",
+        "2. The silent failure problem\n\nWhen a sensor malfunctions, the AI doesn't warn you — it just quietly uses the bad data. You'd never know unless you independently check every reading before hitting the road.",
+        "3. Manual verification is the rule\n\nFord's system expects you to double-check all alerts manually — even the ones it flags as urgent. That's not an assistant; that's a notifier with a badge.",
+        "4. The trust paradox\n\nIf you trust the AI too much, you risk driving on unsafe tires. If you trust it too little, you're back to doing all the work yourself. The tool only works if you never fully rely on it.",
+        "5. Try this test this week\n\nIgnore one of its tire alerts on your next drive. See if the AI notices it ignored or just carries on. That'll show you how much you can really trust it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ford's AI reads tire sensors directly.",
+        "But fails silently when sensors break.",
+        "You must manually verify every alert.",
+        "Trusting it blindly could be dangerous.",
+        "Test one ignored alert this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Your tires can lie to you, and Ford’s new AI assistant won’t catch it.  \n\nIt reads fuel levels and tire pressure straight from the sensors, but when a sensor fails, it goes silent—no warning, just wrong data. You’d have to manually check every alert before driving to be safe.  \n\nFor anyone building or publishing content around this: the tool is only as good as its weakest sensor, and that failure is invisible. 🛞  \n\nSo, ignore one tire alert on your next drive—will the assistant notice you skipped it, or just carry on like nothing happened? ⚠️🤖"
+    }
+  },
+  "instagram_caption": "Your tires can lie to you, and Ford’s new AI assistant won’t catch it.  \n\nIt reads fuel levels and tire pressure straight from the sensors, but when a sensor fails, it goes silent—no warning, just wrong data. You’d have to manually check every alert before driving to be safe.  \n\nFor anyone building or publishing content around this: the tool is only as good as its weakest sensor, and that failure is invisible. 🛞  \n\nSo, ignore one tire alert on your next drive—will the assistant notice you skipped it, or just carry on like nothing happened? ⚠️🤖",
+  "carousel_slides": [
+    {
+      "hook": "Your tires are lying to you",
+      "description": "The AI reads sensor data directly, but never tells you when those sensors fail. You could be driving on a warning that means nothing or missing one that means everything.",
+      "visual_hint": "Close-up of tire pressure sensor",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "car tire sensor"
+    },
+    {
+      "hook": "Silent failure, no warning",
+      "description": "When a sensor malfunctions, the AI quietly uses bad data without alerting you. You'd never know unless you manually check every reading before driving.",
+      "visual_hint": "Dashboard warning light ignored",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car dashboard warning",
+      "image": "https://images.pexels.com/photos/18649172/pexels-photo-18649172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual verification is required",
+      "description": "Ford expects you to double-check all alerts, even urgent ones. That's not an assistant; it's a notifier with a badge.",
+      "visual_hint": "Hand holding smartphone with alert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust the AI? Dangerous paradox",
+      "description": "Trust it too much, risk unsafe tires. Trust it too little, do all the work yourself. The tool only works if you never fully rely on it.",
+      "visual_hint": "Human hand vs machine hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand human hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this test for your next drive",
+      "description": "Ignore one tire alert and see if the AI notices or just carries on. That reveals how much you can truly trust it. Test it this week.",
+      "visual_hint": "Car key and checklist on seat",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "car key checklist",
+      "image": "https://images.pexels.com/photos/7144201/pexels-photo-7144201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-11T01:03:42.895Z",
+  "sourceId": "5479eb873a99826cf32bacb622cb1cbc"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ford-s-new-ai-assistant-can-check-your-fuel-levels",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "pubDate": "2026-08-10T11:00:00.000Z",
+      "slides": [
+        "Can Ford's AI assistant actually trust your tires?",
+        "It reads fuel and pressure directly from sensors",
+        "But it fails silently when sensors malfunction",
+        "You must verify alerts manually before driving",
+        "Test it today: ignore one alert and observe"
+      ],
+      "thread_text": [
+        "1. Your tires are lying to you\n\nThe Ford AI assistant reads tire pressure and fuel directly from sensors, but it doesn't tell you when those sensors are lying. You could be driving on a warning that means nothing, or missing one that means everything.",
+        "2. The silent failure problem\n\nWhen a sensor malfunctions, the AI doesn't warn you — it just quietly uses the bad data. You'd never know unless you independently check every reading before hitting the road.",
+        "3. Manual verification is the rule\n\nFord's system expects you to double-check all alerts manually — even the ones it flags as urgent. That's not an assistant; that's a notifier with a badge.",
+        "4. The trust paradox\n\nIf you trust the AI too much, you risk driving on unsafe tires. If you trust it too little, you're back to doing all the work yourself. The tool only works if you never fully rely on it.",
+        "5. Try this test this week\n\nIgnore one of its tire alerts on your next drive. See if the AI notices it ignored or just carries on. That'll show you how much you can really trust it."
+      ],
+      "video_script": [
+        "Ford's AI reads tire sensors directly.",
+        "But fails silently when sensors break.",
+        "You must manually verify every alert.",
+        "Trusting it blindly could be dangerous.",
+        "Test one ignored alert this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your tires are lying to you\n\nThe Ford AI assistant reads tire pressure and fuel directly from sensors, but it doesn't tell you when those sensors are lying. You could be driving on a warning that means nothing, or missing one that means everything.",
+            "2. The silent failure problem\n\nWhen a sensor malfunctions, the AI doesn't warn you — it just quietly uses the bad data. You'd never know unless you independently check every reading before hitting the road.",
+            "3. Manual verification is the rule\n\nFord's system expects you to double-check all alerts manually — even the ones it flags as urgent. That's not an assistant; that's a notifier with a badge.",
+            "4. The trust paradox\n\nIf you trust the AI too much, you risk driving on unsafe tires. If you trust it too little, you're back to doing all the work yourself. The tool only works if you never fully rely on it.",
+            "5. Try this test this week\n\nIgnore one of its tire alerts on your next drive. See if the AI notices it ignored or just carries on. That'll show you how much you can really trust it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Ford's AI reads tire sensors directly.",
+            "But fails silently when sensors break.",
+            "You must manually verify every alert.",
+            "Trusting it blindly could be dangerous.",
+            "Test one ignored alert this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your tires can lie to you, and Ford’s new AI assistant won’t catch it.  \n\nIt reads fuel levels and tire pressure straight from the sensors, but when a sensor fails, it goes silent—no warning, just wrong data. You’d have to manually check every alert before driving to be safe.  \n\nFor anyone building or publishing content around this: the tool is only as good as its weakest sensor, and that failure is invisible. 🛞  \n\nSo, ignore one tire alert on your next drive—will the assistant notice you skipped it, or just carry on like nothing happened? ⚠️🤖"
+        }
+      },
+      "instagram_caption": "Your tires can lie to you, and Ford’s new AI assistant won’t catch it.  \n\nIt reads fuel levels and tire pressure straight from the sensors, but when a sensor fails, it goes silent—no warning, just wrong data. You’d have to manually check every alert before driving to be safe.  \n\nFor anyone building or publishing content around this: the tool is only as good as its weakest sensor, and that failure is invisible. 🛞  \n\nSo, ignore one tire alert on your next drive—will the assistant notice you skipped it, or just carry on like nothing happened? ⚠️🤖",
+      "carousel_slides": [
+        {
+          "hook": "Your tires are lying to you",
+          "description": "The AI reads sensor data directly, but never tells you when those sensors fail. You could be driving on a warning that means nothing or missing one that means everything.",
+          "visual_hint": "Close-up of tire pressure sensor",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "car tire sensor"
+        },
+        {
+          "hook": "Silent failure, no warning",
+          "description": "When a sensor malfunctions, the AI quietly uses bad data without alerting you. You'd never know unless you manually check every reading before driving.",
+          "visual_hint": "Dashboard warning light ignored",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "car dashboard warning",
+          "image": "https://images.pexels.com/photos/18649172/pexels-photo-18649172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual verification is required",
+          "description": "Ford expects you to double-check all alerts, even urgent ones. That's not an assistant; it's a notifier with a badge.",
+          "visual_hint": "Hand holding smartphone with alert",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand holding phone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust the AI? Dangerous paradox",
+          "description": "Trust it too much, risk unsafe tires. Trust it too little, do all the work yourself. The tool only works if you never fully rely on it.",
+          "visual_hint": "Human hand vs machine hand",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot hand human hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this test for your next drive",
+          "description": "Ignore one tire alert and see if the AI notices or just carries on. That reveals how much you can truly trust it. Test it this week.",
+          "visual_hint": "Car key and checklist on seat",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "car key checklist",
+          "image": "https://images.pexels.com/photos/7144201/pexels-photo-7144201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-11T01:03:42.895Z",
+      "sourceId": "5479eb873a99826cf32bacb622cb1cbc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "as-ai-led-attacks-multiply-openai-launches-a-new-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "slides": [
+        "OpenAI's new cyber model — can it actually defend?",
+        "Attackers now use AI to breach systems in minutes.",
+        "This model predicts intrusions before they hit networks.",
+        "Your current defenses likely miss these AI-driven attacks.",
+        "Test it against your own threat scenarios this week."
+      ],
+      "thread_text": [
+        "1. Your defenses are obsolete\n\nAttackers now use AI to breach systems in minutes—your current tools catch only known patterns, missing these adaptive threats.",
+        "2. The new model predicts intrusions\n\nIt analyzes network behavior in real-time, spotting anomalies before they hit, unlike reactive legacy defenses.",
+        "3. But can it truly defend?\n\nOpenAI's model flags threats, but it doesn't block them—you need to integrate it with your existing stack.",
+        "4. Most teams are blind to AI attacks\n\nTraditional detection fails against AI-generated malware that mutates daily—your SOC may already be compromised.",
+        "5. Test it this week\n\nRun a simulated attack against the model using your own threat scenarios. If it misses, you know what to fix."
+      ],
+      "video_script": [
+        "AI attacks breach systems in minutes. Your defenses miss them.",
+        "OpenAI's new model predicts intrusions before they hit networks.",
+        "It spots anomalies in real-time, but doesn't block threats.",
+        "Integrate it with your stack—reactive tools can't stop AI.",
+        "Test it against your own scenarios this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your defenses are obsolete\n\nAttackers now use AI to breach systems in minutes—your current tools catch only known patterns, missing these adaptive threats.",
+            "2. The new model predicts intrusions\n\nIt analyzes network behavior in real-time, spotting anomalies before they hit, unlike reactive legacy defenses.",
+            "3. But can it truly defend?\n\nOpenAI's model flags threats, but it doesn't block them—you need to integrate it with your existing stack.",
+            "4. Most teams are blind to AI attacks\n\nTraditional detection fails against AI-generated malware that mutates daily—your SOC may already be compromised.",
+            "5. Test it this week\n\nRun a simulated attack against the model using your own threat scenarios. If it misses, you know what to fix."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI attacks breach systems in minutes. Your defenses miss them.",
+            "OpenAI's new model predicts intrusions before they hit networks.",
+            "It spots anomalies in real-time, but doesn't block threats.",
+            "Integrate it with your stack—reactive tools can't stop AI.",
+            "Test it against your own scenarios this week."
+          ]
+        },
+        "instagram": {
+          "caption": "The same security tools that protected your network six months ago are already missing the attacks that matter now.\n\nOpenAI just released a cyber model designed to predict intrusions before they land. It spots anomalies in network behavior in real time. But it doesn't block anything—it flags, and you still need your own systems to act on those flags.\n\nFor anyone running a digital property, the takeaway is simple: your current defenses only catch known patterns. AI-generated attacks mutate too fast for that.\n\nThis week, run a simulated attack against the model using your own threat scenarios. If it misses, you just found your weakest link. 🛡️\n\nWhat will you test first?"
+        }
+      },
+      "instagram_caption": "The same security tools that protected your network six months ago are already missing the attacks that matter now.\n\nOpenAI just released a cyber model designed to predict intrusions before they land. It spots anomalies in network behavior in real time. But it doesn't block anything—it flags, and you still need your own systems to act on those flags.\n\nFor anyone running a digital property, the takeaway is simple: your current defenses only catch known patterns. AI-generated attacks mutate too fast for that.\n\nThis week, run a simulated attack against the model using your own threat scenarios. If it misses, you just found your weakest link. 🛡️\n\nWhat will you test first?",
+      "carousel_slides": [
+        {
+          "hook": "Your defenses are already obsolete.",
+          "description": "AI-driven attacks breach systems in minutes, but traditional tools only catch known patterns. These adaptive threats slip through silently.",
+          "visual_hint": "Cracked shield with circuits",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken shield technology"
+        },
+        {
+          "hook": "Predict intrusions before they hit.",
+          "description": "This model analyzes network behavior in real time, spotting anomalies early. Stop attacks before they start.",
+          "visual_hint": "Network nodes with alert",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network server room",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But can it truly defend?",
+          "description": "It flags threats, but doesn't block them. Integration with your existing stack is essential for full protection.",
+          "visual_hint": "Magnifying glass on code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your SOC may already be blind.",
+          "description": "AI-generated malware mutates daily, evading legacy detection. Your team might be compromised without knowing.",
+          "visual_hint": "Silhouette with question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "silhouette question mark",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it against your threats now.",
+          "description": "Run a simulated attack this week using your own scenarios. See where it misses—and fix your security gaps.",
+          "visual_hint": "Checklist with shield",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/28379995/pexels-photo-28379995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-11T01:03:27.548Z",
+      "sourceId": "48cf888df40480174853e169dd093af8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-reportedly-completed-a-7-billion-employee-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "pubDate": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "slides": [
+        "Who cashed out $7 billion in OpenAI's employee deal?",
+        "The tender offer values the company at $150 billion.",
+        "But insiders can only sell a fraction of shares each year.",
+        "Your stock option math just changed drastically today.",
+        "Ask your HR if your liquidation access is truly liquid."
+      ],
+      "thread_text": [
+        "1. Who cashed out?\n\nA single investor sold $7 billion in OpenAI's employee tender offer, while insiders face annual share sell limits.",
+        "2. $150 billion valuation\n\nThe deal prices OpenAI at $150 billion, but your stock option math just got more complex with restricted liquidity.",
+        "3. Fractional sales only\n\nInsiders can't sell everything at once—annual caps mean your shares aren't truly liquid when you need cash.",
+        "4. Liquidity illusion\n\nEven in a mega deal, access to cash depends on HR policies. Your paper wealth may be trapped for years.",
+        "5. Ask HR today\n\nDoes your liquidation access give you real cash when you need it? Check your offer or ask your HR today."
+      ],
+      "video_script": [
+        "Who sold seven billion in OpenAI deal?",
+        "Valuation hits one hundred fifty billion.",
+        "But insiders capped on yearly share sales.",
+        "Your stock math just changed drastically.",
+        "Ask HR if your liquidation is real."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who cashed out?\n\nA single investor sold $7 billion in OpenAI's employee tender offer, while insiders face annual share sell limits.",
+            "2. $150 billion valuation\n\nThe deal prices OpenAI at $150 billion, but your stock option math just got more complex with restricted liquidity.",
+            "3. Fractional sales only\n\nInsiders can't sell everything at once—annual caps mean your shares aren't truly liquid when you need cash.",
+            "4. Liquidity illusion\n\nEven in a mega deal, access to cash depends on HR policies. Your paper wealth may be trapped for years.",
+            "5. Ask HR today\n\nDoes your liquidation access give you real cash when you need it? Check your offer or ask your HR today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who sold seven billion in OpenAI deal?",
+            "Valuation hits one hundred fifty billion.",
+            "But insiders capped on yearly share sales.",
+            "Your stock math just changed drastically.",
+            "Ask HR if your liquidation is real."
+          ]
+        },
+        "instagram": {
+          "caption": "$7 billion. That's how much one single investor just cashed out of OpenAI's employee stock deal. 💸\n\nThe deal values the company at $150 billion, but here's the catch: insiders can only sell a small fraction of their shares each year. So that paper wealth? It's not exactly liquid.\n\nIf you hold stock options anywhere, this changes your math. Your equity might look big on paper, but can you actually turn it into cash when you need it? 🤔\n\nAsk HR today: does your liquidation access give you real money, or just a number on a screen?\n\nCheck your offer letter. 📋"
+        }
+      },
+      "instagram_caption": "$7 billion. That's how much one single investor just cashed out of OpenAI's employee stock deal. 💸\n\nThe deal values the company at $150 billion, but here's the catch: insiders can only sell a small fraction of their shares each year. So that paper wealth? It's not exactly liquid.\n\nIf you hold stock options anywhere, this changes your math. Your equity might look big on paper, but can you actually turn it into cash when you need it? 🤔\n\nAsk HR today: does your liquidation access give you real money, or just a number on a screen?\n\nCheck your offer letter. 📋",
+      "carousel_slides": [
+        {
+          "hook": "Your shares aren't liquid cash.",
+          "description": "A single investor cashed out $7 billion in OpenAI's tender offer, but insiders face annual sell limits. Your paper wealth may be trapped for years.",
+          "visual_hint": "padlock on stock certificates",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Who cashed out $7 billion?",
+          "description": "OpenAI's $150 billion deal let one investor sell big, but insiders can only sell a fraction each year, limiting your access to cash.",
+          "visual_hint": "single figure with money bags",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "money bags",
+          "image": "https://images.pexels.com/photos/8370775/pexels-photo-8370775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fractional sales only?",
+          "description": "Annual caps mean you can't sell all at once. Even in a mega deal, your shares aren't truly liquid when you need cash.",
+          "visual_hint": "calendar with small sale icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar closeup",
+          "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Paper wealth, trapped cash.",
+          "description": "In mega deals, access to cash depends on HR policies. Your stock option math just got complex—check your liquidity access.",
+          "visual_hint": "hand holding stock documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding documents",
+          "image": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask HR or save this now.",
+          "description": "Check your stock option agreement today. Ask HR if your liquidation access gives real cash when you need it.",
+          "visual_hint": "question mark and phone icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-11T01:03:11.521Z",
+      "sourceId": "b5e0104f574c505ddc4a116ba34442d5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "mark-zuckerberg-s-ai-manifesto-is-exactly-why-peop",
       "prompt_version": "1.0.0",
       "status": "published",
