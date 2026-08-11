@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-will-label-ai-persona-profiles-and-exclude",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+  "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+  "pubDate": "Tue, 11 Aug 2026 13:00:00 +0000",
+  "slides": [
+    "Spotify changes algorithms tomorrow, but who decides what is AI?",
+    "New labels will tag AI Persona profiles explicitly.",
+    "Their music vanishes from recommendations yet remains searchable.",
+    "Artists using AI lose algorithmic reach without notice.",
+    "Check your profile now before the invisible cutoff."
+  ],
+  "thread_text": [
+    "1. Who decides what is AI?\n\nSpotify changes its algorithms tomorrow to tag AI Persona profiles. But the definition of AI is still unclear.",
+    "2. New labels expose AI.\n\nProfiles with AI Persona tags will be clearly labeled on the platform. You'll see them right away.",
+    "3. Music vanishes from your feed.\n\nSongs from AI-tagged artists disappear from recommendations. They stay searchable but lose all algorithmic reach.",
+    "4. No notice before the cutoff.\n\nArtists using AI get their reach cut without any warning. The change is invisible until it happens.",
+    "5. Check your profile now.\n\nOpen Spotify and see if you're tagged. Take a screenshot before tomorrow's cutoff."
+  ],
+  "video_script": [
+    "AI definitions are unclear.",
+    "Spotify labels new AI profiles.",
+    "Songs lose algorithmic reach.",
+    "Artists get no warning.",
+    "Check your profile today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who decides what is AI?\n\nSpotify changes its algorithms tomorrow to tag AI Persona profiles. But the definition of AI is still unclear.",
+        "2. New labels expose AI.\n\nProfiles with AI Persona tags will be clearly labeled on the platform. You'll see them right away.",
+        "3. Music vanishes from your feed.\n\nSongs from AI-tagged artists disappear from recommendations. They stay searchable but lose all algorithmic reach.",
+        "4. No notice before the cutoff.\n\nArtists using AI get their reach cut without any warning. The change is invisible until it happens.",
+        "5. Check your profile now.\n\nOpen Spotify and see if you're tagged. Take a screenshot before tomorrow's cutoff."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI definitions are unclear.",
+        "Spotify labels new AI profiles.",
+        "Songs lose algorithmic reach.",
+        "Artists get no warning.",
+        "Check your profile today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your playlists change tomorrow — songs from profiles tagged as \"AI Persona\" get pulled from recommendations, no warning, no appeal. 🎧\n\nSpotify's new labels go live with an algorithm update. Who decides what counts as AI? The rulebook isn't public. Artists only find out after the cutoff hits.\n\nYour music stays searchable but loses all algorithmic reach. Gone from Discover Weekly, gone from radio-style feeds. Chances to be heard shrink overnight, silently.\n\nIf you use AI tools in production — even for vocals or mastering — check your profile today. Screenshot everything before tomorrow.\n\nDo you know if you're already tagged? 📸"
+    }
+  },
+  "instagram_caption": "Your playlists change tomorrow — songs from profiles tagged as \"AI Persona\" get pulled from recommendations, no warning, no appeal. 🎧\n\nSpotify's new labels go live with an algorithm update. Who decides what counts as AI? The rulebook isn't public. Artists only find out after the cutoff hits.\n\nYour music stays searchable but loses all algorithmic reach. Gone from Discover Weekly, gone from radio-style feeds. Chances to be heard shrink overnight, silently.\n\nIf you use AI tools in production — even for vocals or mastering — check your profile today. Screenshot everything before tomorrow.\n\nDo you know if you're already tagged? 📸",
+  "carousel_slides": [
+    {
+      "hook": "Who decides what is AI?",
+      "description": "Spotify changes its algorithms tomorrow to tag AI Persona profiles. The definition remains unclear, so your favorite artists could be mislabeled.",
+      "visual_hint": "Silhouette with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "spotify app icon"
+    },
+    {
+      "hook": "AI profiles will be labeled.",
+      "description": "New labels clearly mark AI Persona profiles on the platform. You'll see them immediately, but the tag's accuracy is uncertain.",
+      "visual_hint": "Profile with tag icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "music streaming interface",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your feed loses AI songs.",
+      "description": "Music from AI-tagged artists vanishes from recommendations. It stays searchable, but algorithmic reach drops silently, affecting your daily mixes.",
+      "visual_hint": "Song disappearing from feed",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "music notes background",
+      "image": "https://images.pexels.com/photos/7095491/pexels-photo-7095491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No warning before cutoff.",
+      "description": "Artists using AI get their reach cut without any notice. The change is invisible until it happens, hitting playlists and radio overnight.",
+      "visual_hint": "Hand holding phone, alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone notification alert",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your profile now.",
+      "description": "Open Spotify and see if you're tagged as an AI Persona. Take a screenshot before tomorrow's cutoff to document your status.",
+      "visual_hint": "Phone with screenshot action",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "profile settings screen",
+      "image": "https://images.pexels.com/photos/15226553/pexels-photo-15226553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/AI-Personas-Header.jpg?resize=1200,683",
+  "savedAt": "2026-08-11T16:49:07.912Z",
+  "sourceId": "636a0618aace15d2ae3e463030889451"
+}

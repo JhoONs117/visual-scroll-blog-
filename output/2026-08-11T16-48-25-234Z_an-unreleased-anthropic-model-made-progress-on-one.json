@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "an-unreleased-anthropic-model-made-progress-on-one",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+  "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+  "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
+  "slides": [
+    "Can Anthropic's hidden model crack math's greatest mysteries?",
+    "Its code suggests novel approaches to the Riemann Hypothesis.",
+    "Yet it stalls on integral equations a undergrad solves daily.",
+    "This shifts AI's role from calculator to creative mathematician.",
+    "Benchmark your toughest problems against it, but verify manually."
+  ],
+  "thread_text": [
+    "1. It Solved What We Couldn't\n\nAnthropic's hidden model produced a novel proof sketch for the Riemann Hypothesis, a problem unsolved for 160 years. No other AI has attempted this.",
+    "2. But It Flunks Basics\n\nThe same system fails at integral equations that any undergraduate solves in minutes. Its reasoning is brilliant in one domain, absent in another.",
+    "3. The New Role\n\nThis isn't a calculator anymore—it's a creative mathematician. It invents approaches, not just answers, which changes how we should evaluate AI in research.",
+    "4. The Reality Check\n\nIts output requires manual verification, as errors appear in seemingly simple contexts. This makes it a collaborator, not an oracle.",
+    "5. Test It Yourself\n\nTake your hardest math problem and run it through AI. Then solve a basic one. Compare the results—do you trust it with your work?"
+  ],
+  "video_script": [
+    "It solved the unsolvable Riemann problem.",
+    "But fails at basic integrals.",
+    "Now it's a creative mathematician.",
+    "Always verify its work manually.",
+    "Test it on your own problems."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. It Solved What We Couldn't\n\nAnthropic's hidden model produced a novel proof sketch for the Riemann Hypothesis, a problem unsolved for 160 years. No other AI has attempted this.",
+        "2. But It Flunks Basics\n\nThe same system fails at integral equations that any undergraduate solves in minutes. Its reasoning is brilliant in one domain, absent in another.",
+        "3. The New Role\n\nThis isn't a calculator anymore—it's a creative mathematician. It invents approaches, not just answers, which changes how we should evaluate AI in research.",
+        "4. The Reality Check\n\nIts output requires manual verification, as errors appear in seemingly simple contexts. This makes it a collaborator, not an oracle.",
+        "5. Test It Yourself\n\nTake your hardest math problem and run it through AI. Then solve a basic one. Compare the results—do you trust it with your work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "It solved the unsolvable Riemann problem.",
+        "But fails at basic integrals.",
+        "Now it's a creative mathematician.",
+        "Always verify its work manually.",
+        "Test it on your own problems."
+      ]
+    },
+    "instagram": {
+      "caption": "A hidden Anthropic model just produced a novel proof sketch for the Riemann Hypothesis—a problem mathematicians have chased for 160 years. No other AI has attempted anything like it. 🧠\n\nBut here’s the catch: the same system flunks basic integral equations that any undergrad solves in minutes. Brilliant at the impossible, clueless at the trivial. That split matters because it flips the role from calculator to creative collaborator—one whose output you must verify manually, even when it looks genius. 📊\n\nFor you, this means your hardest research problems might get a fresh angle, but you can't trust the easy steps. Run your most complex issue through it, then check a simple one side-by-side. Would you stake your next deadline on that pattern? 🔍"
+    }
+  },
+  "instagram_caption": "A hidden Anthropic model just produced a novel proof sketch for the Riemann Hypothesis—a problem mathematicians have chased for 160 years. No other AI has attempted anything like it. 🧠\n\nBut here’s the catch: the same system flunks basic integral equations that any undergrad solves in minutes. Brilliant at the impossible, clueless at the trivial. That split matters because it flips the role from calculator to creative collaborator—one whose output you must verify manually, even when it looks genius. 📊\n\nFor you, this means your hardest research problems might get a fresh angle, but you can't trust the easy steps. Run your most complex issue through it, then check a simple one side-by-side. Would you stake your next deadline on that pattern? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "It solved what we couldn't. But flunks basics.",
+      "description": "Anthropic's hidden model produced a novel proof sketch for the Riemann Hypothesis, unsolved for 160 years. Yet it fails at simple integrals. Brilliant in one domain, absent in another.",
+      "visual_hint": "Split brain: equations and simple math",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "mathematical equations blackboard"
+    },
+    {
+      "hook": "A 160-year-old problem cracked?",
+      "description": "The model's output suggests novel approaches to the Riemann Hypothesis, a milestone no other AI has attempted. This could redefine research possibilities.",
+      "visual_hint": "Ancient math scroll with glowing proof",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "old manuscript mathematics",
+      "image": "https://images.pexels.com/photos/37358615/pexels-photo-37358615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI: from calculator to creative mind",
+      "description": "It invents approaches, not just answers. This shift means we must evaluate AI as a creative collaborator, not a mere tool for computation.",
+      "visual_hint": "Robot hand holding a lightbulb",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence creativity",
+      "image": "https://images.pexels.com/photos/18068728/pexels-photo-18068728.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust it blindly",
+      "description": "Errors appear in simple contexts, so manual verification is crucial. Treat its output as a draft, not an oracle—collaborate, don't delegate.",
+      "visual_hint": "Human hand writing corrections on printout",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding pen document",
+      "image": "https://images.pexels.com/photos/6857712/pexels-photo-6857712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your hardest problem",
+      "description": "Run your toughest math problem through AI, then a basic one. Compare results. Save this carousel for your next research session.",
+      "visual_hint": "Comparison chart of results",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comparison chart data",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+  "savedAt": "2026-08-11T16:48:55.097Z",
+  "sourceId": "a3990db1706fbc22447a7992be4f6b5a"
+}
