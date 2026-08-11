@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "claude-will-apply-invisible-watermarks-to-ai-text-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Claude will apply invisible watermarks to AI text and images",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+  "pubDate": "2026-08-11T12:22:20.000Z",
+  "slides": [
+    "Can invisible watermarks survive edits and screenshots?",
+    "Anthropic plans watermarking Claude's AI outputs automatically.",
+    "Watermarks embed patterns undetectable by the human eye.",
+    "This allows tracing AI content back to its generation source.",
+    "Creators, verify authenticity before trusting shared media."
+  ],
+  "thread_text": [
+    "1. They can't be seen.\n\nEvery AI image will soon carry an invisible fingerprint. But if it survives a screenshot, who really owns it?",
+    "2. The hidden pattern.\n\nAnthropic weaves patterns into Claude's text that are undetectable to you, but traceable by machines.",
+    "3. Why this scares people.\n\nA screenshot or a resize might erase the watermark. If that happens, fake content gets a free pass.",
+    "4. The source is exposed.\n\nWhen the pattern holds, anyone can trace text back to the exact model and prompt used to create it.",
+    "5. Verify before you share.\n\nNext time you see a shocking AI image, crop it and run a detection tool. If nothing shows, stay skeptical."
+  ],
+  "video_script": [
+    "Watermarks hide in plain sight.",
+    "Screenshots might erase them completely.",
+    "Claude will add them automatically soon.",
+    "You can trace any AI text back.",
+    "Always verify before sharing content."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They can't be seen.\n\nEvery AI image will soon carry an invisible fingerprint. But if it survives a screenshot, who really owns it?",
+        "2. The hidden pattern.\n\nAnthropic weaves patterns into Claude's text that are undetectable to you, but traceable by machines.",
+        "3. Why this scares people.\n\nA screenshot or a resize might erase the watermark. If that happens, fake content gets a free pass.",
+        "4. The source is exposed.\n\nWhen the pattern holds, anyone can trace text back to the exact model and prompt used to create it.",
+        "5. Verify before you share.\n\nNext time you see a shocking AI image, crop it and run a detection tool. If nothing shows, stay skeptical."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Watermarks hide in plain sight.",
+        "Screenshots might erase them completely.",
+        "Claude will add them automatically soon.",
+        "You can trace any AI text back.",
+        "Always verify before sharing content."
+      ]
+    },
+    "instagram": {
+      "caption": "That watermark on Claude’s text or images is invisible to you.  \nBut if you screenshot it, the mark can vanish. Cropping or resizing might strip it too.  \n\nAnthropic is adding this hidden pattern automatically to every Claude output, so machines can trace the content back to the exact model and prompt. If the watermark survives, anyone can verify the source. If it breaks, fake content slips through undetected.  \n\nFor you as a creator, this means your shared images carry a silent proof of origin—but only if the edit doesn't erase it.  \n\nBefore you repost that viral AI picture, crop it and run a detection tool. If it shows nothing, don't trust it yet. 🤔🔍"
+    }
+  },
+  "instagram_caption": "That watermark on Claude’s text or images is invisible to you.  \nBut if you screenshot it, the mark can vanish. Cropping or resizing might strip it too.  \n\nAnthropic is adding this hidden pattern automatically to every Claude output, so machines can trace the content back to the exact model and prompt. If the watermark survives, anyone can verify the source. If it breaks, fake content slips through undetected.  \n\nFor you as a creator, this means your shared images carry a silent proof of origin—but only if the edit doesn't erase it.  \n\nBefore you repost that viral AI picture, crop it and run a detection tool. If it shows nothing, don't trust it yet. 🤔🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who really owns what you see?",
+      "description": "Every AI image will soon carry an invisible fingerprint. But if a screenshot erases it, fake content gets a free pass.",
+      "visual_hint": "Fingerprint on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fingerprint on smartphone"
+    },
+    {
+      "hook": "The hidden pattern machines see.",
+      "description": "Anthropic weaves undetectable patterns into Claude's text. Traceable by machines, invisible to you, they mark every output.",
+      "visual_hint": "Pattern over text lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "abstract waves on paper",
+      "image": "https://images.pexels.com/photos/4816503/pexels-photo-4816503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Screenshots might erase the proof.",
+      "description": "A crop or resize could strip the watermark. When that happens, fake content spreads without a trace.",
+      "visual_hint": "Image being cropped",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "photo cropping tool",
+      "image": "https://images.pexels.com/photos/16313517/pexels-photo-16313517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trace text back to its source.",
+      "description": "When the pattern holds, anyone can trace content to the exact model and prompt that created it.",
+      "visual_hint": "Magnifying glass on text",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass on document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next scroll.",
+      "description": "Before sharing shocking AI media, crop it and run a detection tool. If nothing shows, stay skeptical and don't share.",
+      "visual_hint": "Phone with detection app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-11T20:36:36.380Z",
+  "sourceId": "cc3159d6aeeea86d4d898dfc9e2e702b"
+}

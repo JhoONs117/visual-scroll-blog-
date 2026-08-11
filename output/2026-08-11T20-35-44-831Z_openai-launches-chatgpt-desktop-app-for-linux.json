@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-chatgpt-desktop-app-for-linux",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches ChatGPT desktop app for Linux",
+  "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+  "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+  "slides": [
+    "OpenAI just shipped Linux. Is your workflow ready for it?",
+    "ChatGPT's desktop app lands on Ubuntu and Debian.",
+    "Terminal users get AI without leaving their workspace.",
+    "Your automations now run alongside coding and analysis.",
+    "Install it today; test it against your real tasks."
+  ],
+  "thread_text": [
+    "1. Your terminal just got smarter\n\nOpenAI's desktop app for Ubuntu and Debian puts ChatGPT where you already work. No browser tab needed.",
+    "2. Automations meet AI\n\nNow your scripts and coding run with AI alongside, not as a separate stop. The context stays in your workspace.",
+    "3. The twist: real tasks\n\nA terminal prompt with ChatGPT isn't a demo. It's a test for your daily workflow, right where errors happen.",
+    "4. The risk of staying put\n\nIf you're not testing this, your automation backlog stays manual. The window between idea and execution is closing.",
+    "5. Try this today\n\nInstall it and run one prompt against a task you've been postponing. Did the answer actually match your file system? If not, keep your old tools."
+  ],
+  "video_script": [
+    "OpenAI shipped Linux, finally.",
+    "ChatGPT desktop runs on Ubuntu and Debian.",
+    "Terminal users get AI natively.",
+    "Automations now run with coding analysis.",
+    "Install and test on your real tasks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your terminal just got smarter\n\nOpenAI's desktop app for Ubuntu and Debian puts ChatGPT where you already work. No browser tab needed.",
+        "2. Automations meet AI\n\nNow your scripts and coding run with AI alongside, not as a separate stop. The context stays in your workspace.",
+        "3. The twist: real tasks\n\nA terminal prompt with ChatGPT isn't a demo. It's a test for your daily workflow, right where errors happen.",
+        "4. The risk of staying put\n\nIf you're not testing this, your automation backlog stays manual. The window between idea and execution is closing.",
+        "5. Try this today\n\nInstall it and run one prompt against a task you've been postponing. Did the answer actually match your file system? If not, keep your old tools."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI shipped Linux, finally.",
+        "ChatGPT desktop runs on Ubuntu and Debian.",
+        "Terminal users get AI natively.",
+        "Automations now run with coding analysis.",
+        "Install and test on your real tasks."
+      ]
+    },
+    "instagram": {
+      "caption": "Your terminal just got ChatGPT running natively—no browser tab, no switching contexts. 🔌\n\nOpenAI shipped a desktop app for Ubuntu and Debian. That means your scripts, logs, and commands sit right next to the model. Automations and coding now share the same workspace, so the AI sees what you're working on without you pasting fragments around.\n\nFor anyone who builds content or manages workflows: the gap between \"I should automate this\" and \"I ran it\" just narrowed. Your file system becomes the test ground.\n\nWhat task have you been postponing that you'll throw at it first—and will the answer actually match your setup? 🖥️"
+    }
+  },
+  "instagram_caption": "Your terminal just got ChatGPT running natively—no browser tab, no switching contexts. 🔌\n\nOpenAI shipped a desktop app for Ubuntu and Debian. That means your scripts, logs, and commands sit right next to the model. Automations and coding now share the same workspace, so the AI sees what you're working on without you pasting fragments around.\n\nFor anyone who builds content or manages workflows: the gap between \"I should automate this\" and \"I ran it\" just narrowed. Your file system becomes the test ground.\n\nWhat task have you been postponing that you'll throw at it first—and will the answer actually match your setup? 🖥️",
+  "carousel_slides": [
+    {
+      "hook": "Your terminal just got smarter",
+      "description": "ChatGPT's desktop app is now on Ubuntu and Debian, putting AI where you already work. No browser tab needed.",
+      "visual_hint": "Terminal window with AI prompt",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer terminal"
+    },
+    {
+      "hook": "Automations meet AI",
+      "description": "Scripts and coding now run with AI alongside, keeping context in your workspace. No more switching tabs for help.",
+      "visual_hint": "Code editor with AI panel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code editor",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real tasks, not demos",
+      "description": "A terminal prompt with ChatGPT is a test for your daily workflow, right where errors happen. See if it solves your actual problems.",
+      "visual_hint": "Error message on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "error screen",
+      "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't stay stuck manually",
+      "description": "If you're not testing this, your automation backlog stays manual. The gap between idea and execution is closing fast.",
+      "visual_hint": "Person working at desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next install",
+      "description": "Install the app today and run one prompt against a task you've postponed. Compare the answer with your real file system.",
+      "visual_hint": "Install button with prompt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "install software",
+      "image": "https://images.pexels.com/photos/5473401/pexels-photo-5473401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+  "savedAt": "2026-08-11T20:35:57.480Z",
+  "sourceId": "c836abb2e39288469fe6dcdaef605b3d"
+}

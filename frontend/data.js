@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "claude-will-apply-invisible-watermarks-to-ai-text-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "pubDate": "2026-08-11T12:22:20.000Z",
+    "slides": [
+      "Can invisible watermarks survive edits and screenshots?",
+      "Anthropic plans watermarking Claude's AI outputs automatically.",
+      "Watermarks embed patterns undetectable by the human eye.",
+      "This allows tracing AI content back to its generation source.",
+      "Creators, verify authenticity before trusting shared media."
+    ],
+    "thread_text": [
+      "1. They can't be seen.\n\nEvery AI image will soon carry an invisible fingerprint. But if it survives a screenshot, who really owns it?",
+      "2. The hidden pattern.\n\nAnthropic weaves patterns into Claude's text that are undetectable to you, but traceable by machines.",
+      "3. Why this scares people.\n\nA screenshot or a resize might erase the watermark. If that happens, fake content gets a free pass.",
+      "4. The source is exposed.\n\nWhen the pattern holds, anyone can trace text back to the exact model and prompt used to create it.",
+      "5. Verify before you share.\n\nNext time you see a shocking AI image, crop it and run a detection tool. If nothing shows, stay skeptical."
+    ],
+    "video_script": [
+      "Watermarks hide in plain sight.",
+      "Screenshots might erase them completely.",
+      "Claude will add them automatically soon.",
+      "You can trace any AI text back.",
+      "Always verify before sharing content."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They can't be seen.\n\nEvery AI image will soon carry an invisible fingerprint. But if it survives a screenshot, who really owns it?",
+          "2. The hidden pattern.\n\nAnthropic weaves patterns into Claude's text that are undetectable to you, but traceable by machines.",
+          "3. Why this scares people.\n\nA screenshot or a resize might erase the watermark. If that happens, fake content gets a free pass.",
+          "4. The source is exposed.\n\nWhen the pattern holds, anyone can trace text back to the exact model and prompt used to create it.",
+          "5. Verify before you share.\n\nNext time you see a shocking AI image, crop it and run a detection tool. If nothing shows, stay skeptical."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Watermarks hide in plain sight.",
+          "Screenshots might erase them completely.",
+          "Claude will add them automatically soon.",
+          "You can trace any AI text back.",
+          "Always verify before sharing content."
+        ]
+      },
+      "instagram": {
+        "caption": "That watermark on Claude’s text or images is invisible to you.  \nBut if you screenshot it, the mark can vanish. Cropping or resizing might strip it too.  \n\nAnthropic is adding this hidden pattern automatically to every Claude output, so machines can trace the content back to the exact model and prompt. If the watermark survives, anyone can verify the source. If it breaks, fake content slips through undetected.  \n\nFor you as a creator, this means your shared images carry a silent proof of origin—but only if the edit doesn't erase it.  \n\nBefore you repost that viral AI picture, crop it and run a detection tool. If it shows nothing, don't trust it yet. 🤔🔍"
+      }
+    },
+    "instagram_caption": "That watermark on Claude’s text or images is invisible to you.  \nBut if you screenshot it, the mark can vanish. Cropping or resizing might strip it too.  \n\nAnthropic is adding this hidden pattern automatically to every Claude output, so machines can trace the content back to the exact model and prompt. If the watermark survives, anyone can verify the source. If it breaks, fake content slips through undetected.  \n\nFor you as a creator, this means your shared images carry a silent proof of origin—but only if the edit doesn't erase it.  \n\nBefore you repost that viral AI picture, crop it and run a detection tool. If it shows nothing, don't trust it yet. 🤔🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who really owns what you see?",
+        "description": "Every AI image will soon carry an invisible fingerprint. But if a screenshot erases it, fake content gets a free pass.",
+        "visual_hint": "Fingerprint on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fingerprint on smartphone"
+      },
+      {
+        "hook": "The hidden pattern machines see.",
+        "description": "Anthropic weaves undetectable patterns into Claude's text. Traceable by machines, invisible to you, they mark every output.",
+        "visual_hint": "Pattern over text lines",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "abstract waves on paper",
+        "image": "https://images.pexels.com/photos/4816503/pexels-photo-4816503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Screenshots might erase the proof.",
+        "description": "A crop or resize could strip the watermark. When that happens, fake content spreads without a trace.",
+        "visual_hint": "Image being cropped",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "photo cropping tool",
+        "image": "https://images.pexels.com/photos/16313517/pexels-photo-16313517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trace text back to its source.",
+        "description": "When the pattern holds, anyone can trace content to the exact model and prompt that created it.",
+        "visual_hint": "Magnifying glass on text",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass on document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next scroll.",
+        "description": "Before sharing shocking AI media, crop it and run a detection tool. If nothing shows, stay skeptical and don't share.",
+        "visual_hint": "Phone with detection app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone with app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-11T20:36:36.380Z",
+    "sourceId": "cc3159d6aeeea86d4d898dfc9e2e702b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-and-gemini-both-just-passed-1-billion-user",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "pubDate": "2026-08-11T19:41:42.000Z",
+    "slides": [
+      "Who truly owns the next billion AI users?",
+      "Both assistants crossed one billion this quarter",
+      "Yet most of those users open them daily?",
+      "Your product must now assume AI is default",
+      "Rebuild your onboarding around AI-first habits"
+    ],
+    "thread_text": [
+      "1. The Billion User Shift\n\nBoth major AI assistants passed one billion active users this quarter. That's not a milestone—it's a takeover.",
+      "2. Daily Habit Gap\n\nYet most of those users don't open them daily. The real prize isn't sign-ups; it's the daily ritual.",
+      "3. AI as Default\n\nYour product must now assume AI is default. If your onboarding doesn't start with an AI habit, you're building for a ghost town.",
+      "4. Rebuild Onboarding\n\nRedesign onboarding to train AI-first behavior from the first tap. Normalize asking the assistant first, not after clicking around.",
+      "5. Your Move\n\nHave you run a session where your product's first interaction is an AI prompt? Do it this week, or watch your DAUs slide."
+    ],
+    "video_script": [
+      "Billion users, but few log in daily.",
+      "AI is default, not a feature.",
+      "Onboarding must teach the habit.",
+      "First tap, ask the AI.",
+      "If you don't rebuild now, you're done."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Billion User Shift\n\nBoth major AI assistants passed one billion active users this quarter. That's not a milestone—it's a takeover.",
+          "2. Daily Habit Gap\n\nYet most of those users don't open them daily. The real prize isn't sign-ups; it's the daily ritual.",
+          "3. AI as Default\n\nYour product must now assume AI is default. If your onboarding doesn't start with an AI habit, you're building for a ghost town.",
+          "4. Rebuild Onboarding\n\nRedesign onboarding to train AI-first behavior from the first tap. Normalize asking the assistant first, not after clicking around.",
+          "5. Your Move\n\nHave you run a session where your product's first interaction is an AI prompt? Do it this week, or watch your DAUs slide."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Billion users, but few log in daily.",
+          "AI is default, not a feature.",
+          "Onboarding must teach the habit.",
+          "First tap, ask the AI.",
+          "If you don't rebuild now, you're done."
+        ]
+      },
+      "instagram": {
+        "caption": "Two billion people—across ChatGPT and Gemini—now open an AI assistant as casually as they open a search bar. That’s this quarter’s number, not a prediction.\n\nThe catch: most of them aren’t coming back daily. Sign-ups have exploded; habit hasn’t followed.\n\nIf you build anything with a screen, your onboarding now competes with a reflex. The first tap in your product should ask a question, not show a menu—otherwise, that tap goes elsewhere 😬\n\nSo, what’s the first thing a new user sees in your tool: a blank box or a list of options? If it’s the latter, when are you flipping it? ⏳"
+      }
+    },
+    "instagram_caption": "Two billion people—across ChatGPT and Gemini—now open an AI assistant as casually as they open a search bar. That’s this quarter’s number, not a prediction.\n\nThe catch: most of them aren’t coming back daily. Sign-ups have exploded; habit hasn’t followed.\n\nIf you build anything with a screen, your onboarding now competes with a reflex. The first tap in your product should ask a question, not show a menu—otherwise, that tap goes elsewhere 😬\n\nSo, what’s the first thing a new user sees in your tool: a blank box or a list of options? If it’s the latter, when are you flipping it? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Who truly owns the next billion?",
+        "description": "Both AI assistants crossed one billion users this quarter — a milestone that signals a takeover, not just growth.",
+        "visual_hint": "Two overlapping billion-user counters",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "billion counter digital"
+      },
+      {
+        "hook": "Daily habit gap: the real prize",
+        "description": "Most of those users don't open AI daily. The real opportunity isn't sign-ups — it's building the daily ritual.",
+        "visual_hint": "Calendar with sparse daily checkmarks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar schedule",
+        "image": "https://images.pexels.com/photos/29509474/pexels-photo-29509474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI as default, not optional",
+        "description": "Your product must assume AI is default. If onboarding doesn't start with an AI habit, you're building for a ghost town.",
+        "visual_hint": "Smartphone with AI assistant icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone home screen",
+        "image": "https://images.pexels.com/photos/11216260/pexels-photo-11216260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rebuild onboarding for AI-first",
+        "description": "Redesign onboarding to train AI-first behavior from the first tap — normalize asking the assistant first, not after clicking around.",
+        "visual_hint": "Hand tapping AI prompt on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "finger touching screen",
+        "image": "https://images.pexels.com/photos/8554383/pexels-photo-8554383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to rebuild your onboarding",
+        "description": "Run a session this week where your product's first interaction is an AI prompt. Do it or watch your daily actives slide.",
+        "visual_hint": "Call-to-action button with prompt box",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard typing",
+        "image": "https://images.pexels.com/photos/36045613/pexels-photo-36045613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&amp;strip=all&amp;crop=0%2C2.0352385861162%2C100%2C95.929522827768&amp;w=1200",
+    "savedAt": "2026-08-11T20:36:23.510Z",
+    "sourceId": "7cea10866b1743821f3ab98df291c964"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "rivian-ceo-rj-scaringe-is-betting-on-evs-robots-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026 ",
+    "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+    "pubDate": "Tue, 11 Aug 2026 15:30:00 +0000",
+    "slides": [
+      "Rivian bets everything on autonomy—why now?",
+      "Scaringe leads EVs, robots, and self-driving simultaneously.",
+      "Most EV startups fail diversifying this aggressively.",
+      "His pivot reshapes what Rivian owners will actually buy.",
+      "Decide: is this visionary or overreach? Watch Disrupt."
+    ],
+    "thread_text": [
+      "1. The real bet\n\nRivian's CEO is now leading EVs, robots, and self-driving all at once—a rare triple role that most startup founders avoid.",
+      "2. Why now?\n\nThe EV market is stalling, and autonomy is the new growth story. But diversifying this aggressively has killed most EV startups before.",
+      "3. The pivot\n\nRivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a huge shift in what the brand promises.",
+      "4. The risk\n\nIf the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are on the line.",
+      "5. Your move\n\nWatch the full Disrupt episode and decide: visionary or overreach? Then tell me—would you buy a Rivian today?"
+    ],
+    "video_script": [
+      "Rivian bets everything on self-driving technology.",
+      "CEO Scaringe juggles EVs, robots, and autonomy.",
+      "Most EV startups fail when diversifying too fast.",
+      "This pivot changes what Rivian owners will buy.",
+      "Visionary or overreach? Watch Disrupt and decide."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real bet\n\nRivian's CEO is now leading EVs, robots, and self-driving all at once—a rare triple role that most startup founders avoid.",
+          "2. Why now?\n\nThe EV market is stalling, and autonomy is the new growth story. But diversifying this aggressively has killed most EV startups before.",
+          "3. The pivot\n\nRivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a huge shift in what the brand promises.",
+          "4. The risk\n\nIf the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are on the line.",
+          "5. Your move\n\nWatch the full Disrupt episode and decide: visionary or overreach? Then tell me—would you buy a Rivian today?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rivian bets everything on self-driving technology.",
+          "CEO Scaringe juggles EVs, robots, and autonomy.",
+          "Most EV startups fail when diversifying too fast.",
+          "This pivot changes what Rivian owners will buy.",
+          "Visionary or overreach? Watch Disrupt and decide."
+        ]
+      },
+      "instagram": {
+        "caption": "Rivian’s CEO is running EVs, robots, and robotaxis at the same time—and he’ll defend that triple bet at Disrupt 2026.\n\nMost EV startups that tried diversifying this hard died. Rivian is betting its cash and brand on autonomy being the next growth story, not just trucks. 🚗🤖\n\nWhat you’ll actually buy from Rivian in five years might be a ride, not a vehicle. That changes the product promise completely.\n\nIf you create content about EVs or tech, your next 12 months of coverage just got a clear villain-or-visionary arc to follow. 🔄\n\nWould you trust a company juggling three bets with your $70k order?"
+      }
+    },
+    "instagram_caption": "Rivian’s CEO is running EVs, robots, and robotaxis at the same time—and he’ll defend that triple bet at Disrupt 2026.\n\nMost EV startups that tried diversifying this hard died. Rivian is betting its cash and brand on autonomy being the next growth story, not just trucks. 🚗🤖\n\nWhat you’ll actually buy from Rivian in five years might be a ride, not a vehicle. That changes the product promise completely.\n\nIf you create content about EVs or tech, your next 12 months of coverage just got a clear villain-or-visionary arc to follow. 🔄\n\nWould you trust a company juggling three bets with your $70k order?",
+    "carousel_slides": [
+      {
+        "hook": "Diversify or die?",
+        "description": "Rivian's CEO is leading EVs, robots, and self-driving simultaneously—a triple role most startup founders avoid. Now he's betting the company's cash on autonomy.",
+        "visual_hint": "CEO with triple vision overlay",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric truck factory"
+      },
+      {
+        "hook": "Why pivot now?",
+        "description": "The EV market is stalling, so autonomy becomes the new growth story. But over-diversifying this aggressively has killed most EV startups before.",
+        "visual_hint": "Road splitting into three paths",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "forking road junction",
+        "image": "https://images.pexels.com/photos/35776404/pexels-photo-35776404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New brand promise",
+        "description": "Rivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a massive shift in what the brand promises its customers.",
+        "visual_hint": "Pickup transforming into robotaxi",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "autonomous vehicle urban",
+        "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cliff or climb?",
+        "description": "If the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are both on the line.",
+        "visual_hint": "Hand gripping cliff edge",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "cliff edge rocks",
+        "image": "https://images.pexels.com/photos/38838399/pexels-photo-38838399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for later",
+        "description": "Watch the full Disrupt episode and decide: visionary or overreach? Then comment below—would you buy a Rivian today?",
+        "visual_hint": "Phone screen with play button",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone screen glowing",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
+    "savedAt": "2026-08-11T20:36:10.873Z",
+    "sourceId": "89107af88c57cea847f0a3ab59ddc826"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-launches-chatgpt-desktop-app-for-linux",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
+    "slides": [
+      "OpenAI just shipped Linux. Is your workflow ready for it?",
+      "ChatGPT's desktop app lands on Ubuntu and Debian.",
+      "Terminal users get AI without leaving their workspace.",
+      "Your automations now run alongside coding and analysis.",
+      "Install it today; test it against your real tasks."
+    ],
+    "thread_text": [
+      "1. Your terminal just got smarter\n\nOpenAI's desktop app for Ubuntu and Debian puts ChatGPT where you already work. No browser tab needed.",
+      "2. Automations meet AI\n\nNow your scripts and coding run with AI alongside, not as a separate stop. The context stays in your workspace.",
+      "3. The twist: real tasks\n\nA terminal prompt with ChatGPT isn't a demo. It's a test for your daily workflow, right where errors happen.",
+      "4. The risk of staying put\n\nIf you're not testing this, your automation backlog stays manual. The window between idea and execution is closing.",
+      "5. Try this today\n\nInstall it and run one prompt against a task you've been postponing. Did the answer actually match your file system? If not, keep your old tools."
+    ],
+    "video_script": [
+      "OpenAI shipped Linux, finally.",
+      "ChatGPT desktop runs on Ubuntu and Debian.",
+      "Terminal users get AI natively.",
+      "Automations now run with coding analysis.",
+      "Install and test on your real tasks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your terminal just got smarter\n\nOpenAI's desktop app for Ubuntu and Debian puts ChatGPT where you already work. No browser tab needed.",
+          "2. Automations meet AI\n\nNow your scripts and coding run with AI alongside, not as a separate stop. The context stays in your workspace.",
+          "3. The twist: real tasks\n\nA terminal prompt with ChatGPT isn't a demo. It's a test for your daily workflow, right where errors happen.",
+          "4. The risk of staying put\n\nIf you're not testing this, your automation backlog stays manual. The window between idea and execution is closing.",
+          "5. Try this today\n\nInstall it and run one prompt against a task you've been postponing. Did the answer actually match your file system? If not, keep your old tools."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI shipped Linux, finally.",
+          "ChatGPT desktop runs on Ubuntu and Debian.",
+          "Terminal users get AI natively.",
+          "Automations now run with coding analysis.",
+          "Install and test on your real tasks."
+        ]
+      },
+      "instagram": {
+        "caption": "Your terminal just got ChatGPT running natively—no browser tab, no switching contexts. 🔌\n\nOpenAI shipped a desktop app for Ubuntu and Debian. That means your scripts, logs, and commands sit right next to the model. Automations and coding now share the same workspace, so the AI sees what you're working on without you pasting fragments around.\n\nFor anyone who builds content or manages workflows: the gap between \"I should automate this\" and \"I ran it\" just narrowed. Your file system becomes the test ground.\n\nWhat task have you been postponing that you'll throw at it first—and will the answer actually match your setup? 🖥️"
+      }
+    },
+    "instagram_caption": "Your terminal just got ChatGPT running natively—no browser tab, no switching contexts. 🔌\n\nOpenAI shipped a desktop app for Ubuntu and Debian. That means your scripts, logs, and commands sit right next to the model. Automations and coding now share the same workspace, so the AI sees what you're working on without you pasting fragments around.\n\nFor anyone who builds content or manages workflows: the gap between \"I should automate this\" and \"I ran it\" just narrowed. Your file system becomes the test ground.\n\nWhat task have you been postponing that you'll throw at it first—and will the answer actually match your setup? 🖥️",
+    "carousel_slides": [
+      {
+        "hook": "Your terminal just got smarter",
+        "description": "ChatGPT's desktop app is now on Ubuntu and Debian, putting AI where you already work. No browser tab needed.",
+        "visual_hint": "Terminal window with AI prompt",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer terminal"
+      },
+      {
+        "hook": "Automations meet AI",
+        "description": "Scripts and coding now run with AI alongside, keeping context in your workspace. No more switching tabs for help.",
+        "visual_hint": "Code editor with AI panel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "code editor",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real tasks, not demos",
+        "description": "A terminal prompt with ChatGPT is a test for your daily workflow, right where errors happen. See if it solves your actual problems.",
+        "visual_hint": "Error message on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "error screen",
+        "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't stay stuck manually",
+        "description": "If you're not testing this, your automation backlog stays manual. The gap between idea and execution is closing fast.",
+        "visual_hint": "Person working at desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next install",
+        "description": "Install the app today and run one prompt against a task you've postponed. Compare the answer with your real file system.",
+        "visual_hint": "Install button with prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "install software",
+        "image": "https://images.pexels.com/photos/5473401/pexels-photo-5473401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+    "savedAt": "2026-08-11T20:35:57.480Z",
+    "sourceId": "c836abb2e39288469fe6dcdaef605b3d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "spotify-says-it-won-8217-t-recommend-music-from-82",
     "prompt_version": "1.0.0",
     "status": "published",

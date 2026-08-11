@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rivian-ceo-rj-scaringe-is-betting-on-evs-robots-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026 ",
+  "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+  "pubDate": "Tue, 11 Aug 2026 15:30:00 +0000",
+  "slides": [
+    "Rivian bets everything on autonomy—why now?",
+    "Scaringe leads EVs, robots, and self-driving simultaneously.",
+    "Most EV startups fail diversifying this aggressively.",
+    "His pivot reshapes what Rivian owners will actually buy.",
+    "Decide: is this visionary or overreach? Watch Disrupt."
+  ],
+  "thread_text": [
+    "1. The real bet\n\nRivian's CEO is now leading EVs, robots, and self-driving all at once—a rare triple role that most startup founders avoid.",
+    "2. Why now?\n\nThe EV market is stalling, and autonomy is the new growth story. But diversifying this aggressively has killed most EV startups before.",
+    "3. The pivot\n\nRivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a huge shift in what the brand promises.",
+    "4. The risk\n\nIf the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are on the line.",
+    "5. Your move\n\nWatch the full Disrupt episode and decide: visionary or overreach? Then tell me—would you buy a Rivian today?"
+  ],
+  "video_script": [
+    "Rivian bets everything on self-driving technology.",
+    "CEO Scaringe juggles EVs, robots, and autonomy.",
+    "Most EV startups fail when diversifying too fast.",
+    "This pivot changes what Rivian owners will buy.",
+    "Visionary or overreach? Watch Disrupt and decide."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The real bet\n\nRivian's CEO is now leading EVs, robots, and self-driving all at once—a rare triple role that most startup founders avoid.",
+        "2. Why now?\n\nThe EV market is stalling, and autonomy is the new growth story. But diversifying this aggressively has killed most EV startups before.",
+        "3. The pivot\n\nRivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a huge shift in what the brand promises.",
+        "4. The risk\n\nIf the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are on the line.",
+        "5. Your move\n\nWatch the full Disrupt episode and decide: visionary or overreach? Then tell me—would you buy a Rivian today?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rivian bets everything on self-driving technology.",
+        "CEO Scaringe juggles EVs, robots, and autonomy.",
+        "Most EV startups fail when diversifying too fast.",
+        "This pivot changes what Rivian owners will buy.",
+        "Visionary or overreach? Watch Disrupt and decide."
+      ]
+    },
+    "instagram": {
+      "caption": "Rivian’s CEO is running EVs, robots, and robotaxis at the same time—and he’ll defend that triple bet at Disrupt 2026.\n\nMost EV startups that tried diversifying this hard died. Rivian is betting its cash and brand on autonomy being the next growth story, not just trucks. 🚗🤖\n\nWhat you’ll actually buy from Rivian in five years might be a ride, not a vehicle. That changes the product promise completely.\n\nIf you create content about EVs or tech, your next 12 months of coverage just got a clear villain-or-visionary arc to follow. 🔄\n\nWould you trust a company juggling three bets with your $70k order?"
+    }
+  },
+  "instagram_caption": "Rivian’s CEO is running EVs, robots, and robotaxis at the same time—and he’ll defend that triple bet at Disrupt 2026.\n\nMost EV startups that tried diversifying this hard died. Rivian is betting its cash and brand on autonomy being the next growth story, not just trucks. 🚗🤖\n\nWhat you’ll actually buy from Rivian in five years might be a ride, not a vehicle. That changes the product promise completely.\n\nIf you create content about EVs or tech, your next 12 months of coverage just got a clear villain-or-visionary arc to follow. 🔄\n\nWould you trust a company juggling three bets with your $70k order?",
+  "carousel_slides": [
+    {
+      "hook": "Diversify or die?",
+      "description": "Rivian's CEO is leading EVs, robots, and self-driving simultaneously—a triple role most startup founders avoid. Now he's betting the company's cash on autonomy.",
+      "visual_hint": "CEO with triple vision overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "electric truck factory"
+    },
+    {
+      "hook": "Why pivot now?",
+      "description": "The EV market is stalling, so autonomy becomes the new growth story. But over-diversifying this aggressively has killed most EV startups before.",
+      "visual_hint": "Road splitting into three paths",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "forking road junction",
+      "image": "https://images.pexels.com/photos/35776404/pexels-photo-35776404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New brand promise",
+      "description": "Rivian owners won't just buy trucks anymore—they'll buy into a robotaxi future. That's a massive shift in what the brand promises its customers.",
+      "visual_hint": "Pickup transforming into robotaxi",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "autonomous vehicle urban",
+      "image": "https://images.pexels.com/photos/19114198/pexels-photo-19114198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cliff or climb?",
+      "description": "If the self-driving bet fails, it won't be a slow decline—it could be a cliff. Rivian's cash and credibility are both on the line.",
+      "visual_hint": "Hand gripping cliff edge",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "cliff edge rocks",
+      "image": "https://images.pexels.com/photos/38838399/pexels-photo-38838399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for later",
+      "description": "Watch the full Disrupt episode and decide: visionary or overreach? Then comment below—would you buy a Rivian today?",
+      "visual_hint": "Phone screen with play button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone screen glowing",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/RJ-Scaringe-Disrupt-Stage-2026.png?w=1200",
+  "savedAt": "2026-08-11T20:36:10.873Z",
+  "sourceId": "89107af88c57cea847f0a3ab59ddc826"
+}
