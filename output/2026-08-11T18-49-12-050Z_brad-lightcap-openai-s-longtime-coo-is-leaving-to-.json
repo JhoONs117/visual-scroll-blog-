@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "brad-lightcap-openai-s-longtime-coo-is-leaving-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+  "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+  "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
+  "slides": [
+    "Who steers OpenAI operations after Brad Lightcap exits?",
+    "He leaves after years as COO and trusted right hand.",
+    "Lightcap's departure comes amid OpenAI's massive valuation surge.",
+    "Expect leadership gaps in partnerships, deals, and daily ops.",
+    "Watch who fills his role—it signals OpenAI's next phase."
+  ],
+  "thread_text": [
+    "1. Who's next?\n\nBrad Lightcap's exit from OpenAI's COO role shakes the trust chain at the top.",
+    "2. The right hand\n\nFor years, he ran partnerships and daily ops. Now those ties look fragile.",
+    "3. The surge dilemma\n\nHis departure lands as OpenAI's valuation explodes—timing raised whispers.",
+    "4. The leadership gap\n\nExpect friction in deals, partnerships, and routine decisions until a new COO appears.",
+    "5. Who should fill it?\n\nWatch the announcement. Does the hire signal safety or speed? Test your own judgment."
+  ],
+  "video_script": [
+    "OpenAI's COO leaves. Big changes ahead.",
+    "Lightcap was the trusted right hand.",
+    "Valuation is huge now. Timing matters.",
+    "Partnerships and daily ops are exposed.",
+    "Watch who takes his seat next."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's next?\n\nBrad Lightcap's exit from OpenAI's COO role shakes the trust chain at the top.",
+        "2. The right hand\n\nFor years, he ran partnerships and daily ops. Now those ties look fragile.",
+        "3. The surge dilemma\n\nHis departure lands as OpenAI's valuation explodes—timing raised whispers.",
+        "4. The leadership gap\n\nExpect friction in deals, partnerships, and routine decisions until a new COO appears.",
+        "5. Who should fill it?\n\nWatch the announcement. Does the hire signal safety or speed? Test your own judgment."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's COO leaves. Big changes ahead.",
+        "Lightcap was the trusted right hand.",
+        "Valuation is huge now. Timing matters.",
+        "Partnerships and daily ops are exposed.",
+        "Watch who takes his seat next."
+      ]
+    },
+    "instagram": {
+      "caption": "The guy who ran OpenAI’s day-to-day partnerships and operations for years is walking out the door. His name is Brad Lightcap, and he’s leaving to start something new. 🚪\n\nLightcap was the trusted right hand who closed the deals and kept the machine running. His exit lands exactly as OpenAI’s valuation explodes—so the timing isn’t just a footnote, it’s the story. ⏱️\n\nWhoever steps in will control the partnerships and daily decisions that shape how you access AI tools. If the hire leans safety-first, expect slower rollouts. If it’s a speed demon, expect features shipped half-baked.\n\nYou’ll feel this in your content pipeline within a quarter. So: what would you look for in that new COO—reliability or momentum? 🤔"
+    }
+  },
+  "instagram_caption": "The guy who ran OpenAI’s day-to-day partnerships and operations for years is walking out the door. His name is Brad Lightcap, and he’s leaving to start something new. 🚪\n\nLightcap was the trusted right hand who closed the deals and kept the machine running. His exit lands exactly as OpenAI’s valuation explodes—so the timing isn’t just a footnote, it’s the story. ⏱️\n\nWhoever steps in will control the partnerships and daily decisions that shape how you access AI tools. If the hire leans safety-first, expect slower rollouts. If it’s a speed demon, expect features shipped half-baked.\n\nYou’ll feel this in your content pipeline within a quarter. So: what would you look for in that new COO—reliability or momentum? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who steers OpenAI after the trusted right hand leaves?",
+      "description": "Brad Lightcap exits as COO, leaving a leadership vacuum at the pinnacle of AI.",
+      "visual_hint": "Empty chair, spotlight",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "modern office lobby"
+    },
+    {
+      "hook": "The right hand is gone.",
+      "description": "For years, he managed partnerships and daily operations. Those ties now feel fragile.",
+      "visual_hint": "Fragile chain, broken links",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "broken metal chain",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Valuation surges, leadership shifts.",
+      "description": "His departure lands as OpenAI’s valuation explodes—timing whispers on every deal.",
+      "visual_hint": "Stock chart, upward arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who fills the vacuum?",
+      "description": "Expect friction in deals and routine decisions until a new COO appears.",
+      "visual_hint": "Puzzle piece missing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding puzzle piece",
+      "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Want the inside scoop? Follow for updates.",
+      "description": "Watch the announcement—will the next hire signal safety or speed? Test your judgment.",
+      "visual_hint": "Magnifying glass, contract",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+  "savedAt": "2026-08-11T18:49:24.844Z",
+  "sourceId": "b8d07c245c74a0b30a4e47a0fcfa3086"
+}

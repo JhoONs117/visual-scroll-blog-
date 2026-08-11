@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "spotify-says-it-won-8217-t-recommend-music-from-82",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "pubDate": "2026-08-11T13:00:00.000Z",
+    "slides": [
+      "Spotify bans AI personas, but who defines authenticity?",
+      "New policy targets cloned voices without artist consent.",
+      "Yet labels quietly license AI vocals for hit songs.",
+      "Your playlists will hide these tracks, not remove them.",
+      "Check your Discover Weekly for surprising new exclusions."
+    ],
+    "thread_text": [
+      "1. Who owns your voice?\n\nSpotify's new ban on AI personas leaves a loophole: labels can still quietly license AI vocals for hits, as long as they have permission.",
+      "2. The hidden track\n\nThose AI-generated songs won't be removed from your playlists—just hidden from view. You might be listening to one right now without knowing.",
+      "3. Authenticity is for sale\n\nWhile Spotify polices cloned voices without artist consent, record labels are cashing in by licensing AI vocals for chart-topping tracks. The real gatekeepers? Money.",
+      "4. The exclusions start now\n\nYour Discover Weekly just got a silent overhaul. AI tracks that fail the new authenticity test are being weeded out, but the ones that pass the licensing bar stay.",
+      "5. Check your playlist today\n\nLook at your Discover Weekly this week. If you spot a song you don't remember saving, ask: is this a creator, or a clone? How would you know?"
+    ],
+    "video_script": [
+      "Spotify bans AI personas, but labels license them.",
+      "Check your playlist now, hidden AI tracks.",
+      "Discover Weekly might hide, not remove songs.",
+      "Who defines authenticity when money talks?",
+      "Search for surprise exclusions in your music."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns your voice?\n\nSpotify's new ban on AI personas leaves a loophole: labels can still quietly license AI vocals for hits, as long as they have permission.",
+          "2. The hidden track\n\nThose AI-generated songs won't be removed from your playlists—just hidden from view. You might be listening to one right now without knowing.",
+          "3. Authenticity is for sale\n\nWhile Spotify polices cloned voices without artist consent, record labels are cashing in by licensing AI vocals for chart-topping tracks. The real gatekeepers? Money.",
+          "4. The exclusions start now\n\nYour Discover Weekly just got a silent overhaul. AI tracks that fail the new authenticity test are being weeded out, but the ones that pass the licensing bar stay.",
+          "5. Check your playlist today\n\nLook at your Discover Weekly this week. If you spot a song you don't remember saving, ask: is this a creator, or a clone? How would you know?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Spotify bans AI personas, but labels license them.",
+          "Check your playlist now, hidden AI tracks.",
+          "Discover Weekly might hide, not remove songs.",
+          "Who defines authenticity when money talks?",
+          "Search for surprise exclusions in your music."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Discover Weekly just got a silent overhaul 🎧 Spotify won’t recommend music from “AI personas” anymore—but those tracks aren’t deleted, just hidden from view.\n\nThe ban targets cloned voices used without an artist’s consent. The catch? Labels can still license AI vocals for hit songs, as long as they have permission. So the policy blocks fakes, not paid-for ones 💸\n\nFor you as a creator or listener: your playlists may already contain AI-generated tracks you’ve never noticed. They’ll stay, just unlisted from recommendations.\n\nOpen Spotify now. Scroll your Discover Weekly. Can you tell which songs are human-made—or does it even matter to you? 🤔"
+      }
+    },
+    "instagram_caption": "Your Discover Weekly just got a silent overhaul 🎧 Spotify won’t recommend music from “AI personas” anymore—but those tracks aren’t deleted, just hidden from view.\n\nThe ban targets cloned voices used without an artist’s consent. The catch? Labels can still license AI vocals for hit songs, as long as they have permission. So the policy blocks fakes, not paid-for ones 💸\n\nFor you as a creator or listener: your playlists may already contain AI-generated tracks you’ve never noticed. They’ll stay, just unlisted from recommendations.\n\nOpen Spotify now. Scroll your Discover Weekly. Can you tell which songs are human-made—or does it even matter to you? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who really owns your voice?",
+        "description": "Spotify bans AI personas without consent, but labels can license cloned vocals for hits. Authenticity has a price — and money is the gatekeeper.",
+        "visual_hint": "Microphone with dollar signs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microphone dollar sign"
+      },
+      {
+        "hook": "Hidden tracks stay on your playlists.",
+        "description": "AI-generated songs won't be removed — just hidden. You might be streaming a cloned voice right now without ever knowing it.",
+        "visual_hint": "Playlist with ghost icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "music playlist ghost",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Authenticity is for sale.",
+        "description": "While Spotify polices unauthorized clones, record labels cash in by licensing AI vocals for chart-toppers. The real gatekeeper? Money.",
+        "visual_hint": "Factory producing music notes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "music factory production",
+        "image": "https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Discover Weekly gets a silent overhaul.",
+        "description": "Tracks failing the new authenticity test are being weeded out, but those passing the licensing bar stay. Your weekly mix is quietly changing.",
+        "visual_hint": "Hand curating playlist icons",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand playlist music",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your playlist now — and comment.",
+        "description": "Open Discover Weekly today. Spot a song you don't remember saving? Ask: creator or clone? Share your findings below.",
+        "visual_hint": "Smartphone with playlist screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone music app",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-08-11T18:50:04.218Z",
+    "sourceId": "29c27da3275cd670211b7457de99dc29"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "-zoomsday-hack-uncovered-using-fewer-than-20-ai-pr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "pubDate": "2026-08-11T14:45:44.000Z",
+    "slides": [
+      "How did 20 AI prompts bypass Zoom security?",
+      "Attackers exploited hidden image metadata in calls.",
+      "The hack needed zero victim interaction—just one lured click.",
+      "Your Zoom version is likely vulnerable today.",
+      "Update immediately, then audit your meeting logs."
+    ],
+    "thread_text": [
+      "1. One click, zero interaction\n\nA single lure click on a malicious link was enough. No user action beyond that was required.",
+      "2. Hiding in plain sight\n\nAttackers embedded the exploit in image metadata within Zoom calls, making it invisible to standard security scans.",
+      "3. Your version is exposed\n\nMost current Zoom builds are vulnerable. The attack doesn't need a victim to do anything but open a call.",
+      "4. The silent breach\n\nThe hack goes unnoticed, leaving no trace in usual logs. That's why auditing is critical.",
+      "5. Update now, audit later\n\nCheck your Zoom version today and update. Then review meeting logs for unusual activity—do it this week."
+    ],
+    "video_script": [
+      "One click bypassed Zoom security completely.",
+      "Image metadata hid the attack in calls.",
+      "Zero interaction needed—just one click.",
+      "Your Zoom version is likely vulnerable now.",
+      "Update immediately and audit your logs."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One click, zero interaction\n\nA single lure click on a malicious link was enough. No user action beyond that was required.",
+          "2. Hiding in plain sight\n\nAttackers embedded the exploit in image metadata within Zoom calls, making it invisible to standard security scans.",
+          "3. Your version is exposed\n\nMost current Zoom builds are vulnerable. The attack doesn't need a victim to do anything but open a call.",
+          "4. The silent breach\n\nThe hack goes unnoticed, leaving no trace in usual logs. That's why auditing is critical.",
+          "5. Update now, audit later\n\nCheck your Zoom version today and update. Then review meeting logs for unusual activity—do it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "One click bypassed Zoom security completely.",
+          "Image metadata hid the attack in calls.",
+          "Zero interaction needed—just one click.",
+          "Your Zoom version is likely vulnerable now.",
+          "Update immediately and audit your logs."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Zoom app could let an attacker in with just one click on a lure—and you'd never notice a thing. 🎯\n\nResearchers found a breach using fewer than 20 AI prompts. The exploit hid inside image metadata shared during calls, slipping past standard scans. No victim action beyond that single click. Most current Zoom versions are exposed, and the hack leaves zero trace in usual logs.\n\nIf you host meetings or share screens for work, that's your entry point. Check your Zoom version and update today. Then audit your meeting logs for odd activity this week. 🔍\n\nWhen did you last verify who actually joined your calls?"
+      }
+    },
+    "instagram_caption": "Your Zoom app could let an attacker in with just one click on a lure—and you'd never notice a thing. 🎯\n\nResearchers found a breach using fewer than 20 AI prompts. The exploit hid inside image metadata shared during calls, slipping past standard scans. No victim action beyond that single click. Most current Zoom versions are exposed, and the hack leaves zero trace in usual logs.\n\nIf you host meetings or share screens for work, that's your entry point. Check your Zoom version and update today. Then audit your meeting logs for odd activity this week. 🔍\n\nWhen did you last verify who actually joined your calls?",
+    "carousel_slides": [
+      {
+        "hook": "One click and you're hacked?",
+        "description": "A single lured click on a malicious link bypasses Zoom security — no further victim interaction needed. Your device could be compromised instantly.",
+        "visual_hint": "Clicking cursor on link",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer mouse clicking link"
+      },
+      {
+        "hook": "Hidden in image metadata",
+        "description": "Attackers embed exploit code inside image metadata within Zoom calls, invisible to standard security scans. It slips through unnoticed.",
+        "visual_hint": "Magnifying glass over image",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass on photo",
+        "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your Zoom version is exposed",
+        "description": "Most current Zoom builds are vulnerable. The attack triggers just by opening a call — no extra action from you. Update now.",
+        "visual_hint": "Vulnerability alert on screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "alert warning on computer screen",
+        "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent breach, zero traces",
+        "description": "The hack leaves no trace in standard logs, making detection difficult. Auditing your meeting logs is critical to spotting intrusions.",
+        "visual_hint": "Empty log file with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "empty notebook and pen",
+        "image": "https://images.pexels.com/photos/5594317/pexels-photo-5594317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this — update today",
+        "description": "Check your Zoom version and update immediately. Then audit your meeting logs for unusual activity — do it this week.",
+        "visual_hint": "Finger pressing update button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "finger pressing update button",
+        "image": "https://images.pexels.com/photos/8879106/pexels-photo-8879106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-11T18:49:49.684Z",
+    "sourceId": "fa830ce9c845d54344437e9c622a7880"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "general-catalyst-leads-1-1b-round-into-2-month-old",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+    "slides": [
+      "Can a two-month-old startup justify $1.1 billion?",
+      "General Catalyst led the round, valuing River AI.",
+      "The company has zero revenue and no public product.",
+      "This bet forces rivals to rethink AI funding timelines.",
+      "Watch for River's first release to validate the price."
+    ],
+    "thread_text": [
+      "1. Why so much?\n\nTwo-month-old River AI just got a $1.1 billion price tag from General Catalyst, with zero revenue and no public product.",
+      "2. The bet's real message\n\nRivals now face a stark choice: chase valuations or wait for proof. The funding timeline just compressed.",
+      "3. What's behind the curtain\n\nNo product means investors are betting on the team and idea alone. It's a leap, not a step.",
+      "4. Pressure to deliver\n\nRiver's first release will either justify the hype or burst the bubble. Every move is scrutinized.",
+      "5. Your move\n\nBefore the next big AI bet, ask yourself: would you invest in a promise this raw? Test that logic on your next project."
+    ],
+    "video_script": [
+      "Two-month-old startup, billion-dollar valuation.",
+      "Zero revenue, no product yet.",
+      "Investors betting big on promise.",
+      "Rivals must rethink their timelines.",
+      "First release will prove or lose it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why so much?\n\nTwo-month-old River AI just got a $1.1 billion price tag from General Catalyst, with zero revenue and no public product.",
+          "2. The bet's real message\n\nRivals now face a stark choice: chase valuations or wait for proof. The funding timeline just compressed.",
+          "3. What's behind the curtain\n\nNo product means investors are betting on the team and idea alone. It's a leap, not a step.",
+          "4. Pressure to deliver\n\nRiver's first release will either justify the hype or burst the bubble. Every move is scrutinized.",
+          "5. Your move\n\nBefore the next big AI bet, ask yourself: would you invest in a promise this raw? Test that logic on your next project."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Two-month-old startup, billion-dollar valuation.",
+          "Zero revenue, no product yet.",
+          "Investors betting big on promise.",
+          "Rivals must rethink their timelines.",
+          "First release will prove or lose it."
+        ]
+      },
+      "instagram": {
+        "caption": "A two-month-old startup with zero revenue and no public product just raised $1.1 billion. General Catalyst led the round, betting purely on the team and the idea. No leaks, no demo, no roadmap. 🎯\n\nThat's the whole pitch. For founders and creators building in AI, this changes the calculus: the timeline to a massive valuation just compressed overnight. If a blank-slate startup can land this, the bar for \"proof\" has officially moved. 📉\n\nFor anyone making content or tools with AI, expect more aggressive funding cycles—and more pressure to ship before you're ready. River's first release will be the real test. ⏳\n\nWould you take that bet on your next project? 💸"
+      }
+    },
+    "instagram_caption": "A two-month-old startup with zero revenue and no public product just raised $1.1 billion. General Catalyst led the round, betting purely on the team and the idea. No leaks, no demo, no roadmap. 🎯\n\nThat's the whole pitch. For founders and creators building in AI, this changes the calculus: the timeline to a massive valuation just compressed overnight. If a blank-slate startup can land this, the bar for \"proof\" has officially moved. 📉\n\nFor anyone making content or tools with AI, expect more aggressive funding cycles—and more pressure to ship before you're ready. River's first release will be the real test. ⏳\n\nWould you take that bet on your next project? 💸",
+    "carousel_slides": [
+      {
+        "hook": "Zero revenue. $1.1B. Two months.",
+        "description": "River AI just raised $1.1B from General Catalyst with no public product. Is this a bet on idea alone?",
+        "visual_hint": "Money in the air",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stacks of money"
+      },
+      {
+        "hook": "The funding timeline just compressed.",
+        "description": "General Catalyst's bet signals rivals must chase valuations or wait for proof. The pressure is on.",
+        "visual_hint": "Compressed timeline",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock and calendar",
+        "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No product, no revenue — just a leap.",
+        "description": "Investors are betting solely on the team and idea. This is a leap of faith, not a calculated step.",
+        "visual_hint": "Leap of faith",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cliff jump",
+        "image": "https://images.pexels.com/photos/18356773/pexels-photo-18356773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every move will be scrutinized.",
+        "description": "River's first release will either justify the hype or burst the bubble. The pressure is immense.",
+        "visual_hint": "Spotlight on action",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you invest in a raw promise?",
+        "description": "Before your next big AI bet, test that logic. Ask yourself: is this a leap or a step? Save this for later.",
+        "visual_hint": "Questioning yourself",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "question mark sign",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+    "savedAt": "2026-08-11T18:49:37.695Z",
+    "sourceId": "3571ff97a4b1f223f5c01fb95a2362eb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "brad-lightcap-openai-s-longtime-coo-is-leaving-to-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
+    "slides": [
+      "Who steers OpenAI operations after Brad Lightcap exits?",
+      "He leaves after years as COO and trusted right hand.",
+      "Lightcap's departure comes amid OpenAI's massive valuation surge.",
+      "Expect leadership gaps in partnerships, deals, and daily ops.",
+      "Watch who fills his role—it signals OpenAI's next phase."
+    ],
+    "thread_text": [
+      "1. Who's next?\n\nBrad Lightcap's exit from OpenAI's COO role shakes the trust chain at the top.",
+      "2. The right hand\n\nFor years, he ran partnerships and daily ops. Now those ties look fragile.",
+      "3. The surge dilemma\n\nHis departure lands as OpenAI's valuation explodes—timing raised whispers.",
+      "4. The leadership gap\n\nExpect friction in deals, partnerships, and routine decisions until a new COO appears.",
+      "5. Who should fill it?\n\nWatch the announcement. Does the hire signal safety or speed? Test your own judgment."
+    ],
+    "video_script": [
+      "OpenAI's COO leaves. Big changes ahead.",
+      "Lightcap was the trusted right hand.",
+      "Valuation is huge now. Timing matters.",
+      "Partnerships and daily ops are exposed.",
+      "Watch who takes his seat next."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's next?\n\nBrad Lightcap's exit from OpenAI's COO role shakes the trust chain at the top.",
+          "2. The right hand\n\nFor years, he ran partnerships and daily ops. Now those ties look fragile.",
+          "3. The surge dilemma\n\nHis departure lands as OpenAI's valuation explodes—timing raised whispers.",
+          "4. The leadership gap\n\nExpect friction in deals, partnerships, and routine decisions until a new COO appears.",
+          "5. Who should fill it?\n\nWatch the announcement. Does the hire signal safety or speed? Test your own judgment."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's COO leaves. Big changes ahead.",
+          "Lightcap was the trusted right hand.",
+          "Valuation is huge now. Timing matters.",
+          "Partnerships and daily ops are exposed.",
+          "Watch who takes his seat next."
+        ]
+      },
+      "instagram": {
+        "caption": "The guy who ran OpenAI’s day-to-day partnerships and operations for years is walking out the door. His name is Brad Lightcap, and he’s leaving to start something new. 🚪\n\nLightcap was the trusted right hand who closed the deals and kept the machine running. His exit lands exactly as OpenAI’s valuation explodes—so the timing isn’t just a footnote, it’s the story. ⏱️\n\nWhoever steps in will control the partnerships and daily decisions that shape how you access AI tools. If the hire leans safety-first, expect slower rollouts. If it’s a speed demon, expect features shipped half-baked.\n\nYou’ll feel this in your content pipeline within a quarter. So: what would you look for in that new COO—reliability or momentum? 🤔"
+      }
+    },
+    "instagram_caption": "The guy who ran OpenAI’s day-to-day partnerships and operations for years is walking out the door. His name is Brad Lightcap, and he’s leaving to start something new. 🚪\n\nLightcap was the trusted right hand who closed the deals and kept the machine running. His exit lands exactly as OpenAI’s valuation explodes—so the timing isn’t just a footnote, it’s the story. ⏱️\n\nWhoever steps in will control the partnerships and daily decisions that shape how you access AI tools. If the hire leans safety-first, expect slower rollouts. If it’s a speed demon, expect features shipped half-baked.\n\nYou’ll feel this in your content pipeline within a quarter. So: what would you look for in that new COO—reliability or momentum? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Who steers OpenAI after the trusted right hand leaves?",
+        "description": "Brad Lightcap exits as COO, leaving a leadership vacuum at the pinnacle of AI.",
+        "visual_hint": "Empty chair, spotlight",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "modern office lobby"
+      },
+      {
+        "hook": "The right hand is gone.",
+        "description": "For years, he managed partnerships and daily operations. Those ties now feel fragile.",
+        "visual_hint": "Fragile chain, broken links",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "broken metal chain",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Valuation surges, leadership shifts.",
+        "description": "His departure lands as OpenAI’s valuation explodes—timing whispers on every deal.",
+        "visual_hint": "Stock chart, upward arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who fills the vacuum?",
+        "description": "Expect friction in deals and routine decisions until a new COO appears.",
+        "visual_hint": "Puzzle piece missing",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding puzzle piece",
+        "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Want the inside scoop? Follow for updates.",
+        "description": "Watch the announcement—will the next hire signal safety or speed? Test your judgment.",
+        "visual_hint": "Magnifying glass, contract",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+    "savedAt": "2026-08-11T18:49:24.844Z",
+    "sourceId": "b8d07c245c74a0b30a4e47a0fcfa3086"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-says-it-will-watermark-text-generated-by",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-zoomsday-hack-uncovered-using-fewer-than-20-ai-pr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+  "pubDate": "2026-08-11T14:45:44.000Z",
+  "slides": [
+    "How did 20 AI prompts bypass Zoom security?",
+    "Attackers exploited hidden image metadata in calls.",
+    "The hack needed zero victim interaction—just one lured click.",
+    "Your Zoom version is likely vulnerable today.",
+    "Update immediately, then audit your meeting logs."
+  ],
+  "thread_text": [
+    "1. One click, zero interaction\n\nA single lure click on a malicious link was enough. No user action beyond that was required.",
+    "2. Hiding in plain sight\n\nAttackers embedded the exploit in image metadata within Zoom calls, making it invisible to standard security scans.",
+    "3. Your version is exposed\n\nMost current Zoom builds are vulnerable. The attack doesn't need a victim to do anything but open a call.",
+    "4. The silent breach\n\nThe hack goes unnoticed, leaving no trace in usual logs. That's why auditing is critical.",
+    "5. Update now, audit later\n\nCheck your Zoom version today and update. Then review meeting logs for unusual activity—do it this week."
+  ],
+  "video_script": [
+    "One click bypassed Zoom security completely.",
+    "Image metadata hid the attack in calls.",
+    "Zero interaction needed—just one click.",
+    "Your Zoom version is likely vulnerable now.",
+    "Update immediately and audit your logs."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One click, zero interaction\n\nA single lure click on a malicious link was enough. No user action beyond that was required.",
+        "2. Hiding in plain sight\n\nAttackers embedded the exploit in image metadata within Zoom calls, making it invisible to standard security scans.",
+        "3. Your version is exposed\n\nMost current Zoom builds are vulnerable. The attack doesn't need a victim to do anything but open a call.",
+        "4. The silent breach\n\nThe hack goes unnoticed, leaving no trace in usual logs. That's why auditing is critical.",
+        "5. Update now, audit later\n\nCheck your Zoom version today and update. Then review meeting logs for unusual activity—do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One click bypassed Zoom security completely.",
+        "Image metadata hid the attack in calls.",
+        "Zero interaction needed—just one click.",
+        "Your Zoom version is likely vulnerable now.",
+        "Update immediately and audit your logs."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Zoom app could let an attacker in with just one click on a lure—and you'd never notice a thing. 🎯\n\nResearchers found a breach using fewer than 20 AI prompts. The exploit hid inside image metadata shared during calls, slipping past standard scans. No victim action beyond that single click. Most current Zoom versions are exposed, and the hack leaves zero trace in usual logs.\n\nIf you host meetings or share screens for work, that's your entry point. Check your Zoom version and update today. Then audit your meeting logs for odd activity this week. 🔍\n\nWhen did you last verify who actually joined your calls?"
+    }
+  },
+  "instagram_caption": "Your Zoom app could let an attacker in with just one click on a lure—and you'd never notice a thing. 🎯\n\nResearchers found a breach using fewer than 20 AI prompts. The exploit hid inside image metadata shared during calls, slipping past standard scans. No victim action beyond that single click. Most current Zoom versions are exposed, and the hack leaves zero trace in usual logs.\n\nIf you host meetings or share screens for work, that's your entry point. Check your Zoom version and update today. Then audit your meeting logs for odd activity this week. 🔍\n\nWhen did you last verify who actually joined your calls?",
+  "carousel_slides": [
+    {
+      "hook": "One click and you're hacked?",
+      "description": "A single lured click on a malicious link bypasses Zoom security — no further victim interaction needed. Your device could be compromised instantly.",
+      "visual_hint": "Clicking cursor on link",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer mouse clicking link"
+    },
+    {
+      "hook": "Hidden in image metadata",
+      "description": "Attackers embed exploit code inside image metadata within Zoom calls, invisible to standard security scans. It slips through unnoticed.",
+      "visual_hint": "Magnifying glass over image",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass on photo",
+      "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Zoom version is exposed",
+      "description": "Most current Zoom builds are vulnerable. The attack triggers just by opening a call — no extra action from you. Update now.",
+      "visual_hint": "Vulnerability alert on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "alert warning on computer screen",
+      "image": "https://images.pexels.com/photos/9830823/pexels-photo-9830823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent breach, zero traces",
+      "description": "The hack leaves no trace in standard logs, making detection difficult. Auditing your meeting logs is critical to spotting intrusions.",
+      "visual_hint": "Empty log file with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "empty notebook and pen",
+      "image": "https://images.pexels.com/photos/5594317/pexels-photo-5594317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — update today",
+      "description": "Check your Zoom version and update immediately. Then audit your meeting logs for unusual activity — do it this week.",
+      "visual_hint": "Finger pressing update button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pressing update button",
+      "image": "https://images.pexels.com/photos/8879106/pexels-photo-8879106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-11T18:49:49.684Z",
+  "sourceId": "fa830ce9c845d54344437e9c622a7880"
+}

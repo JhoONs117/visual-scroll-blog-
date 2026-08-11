@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "spotify-says-it-won-8217-t-recommend-music-from-82",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+  "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+  "pubDate": "2026-08-11T13:00:00.000Z",
+  "slides": [
+    "Spotify bans AI personas, but who defines authenticity?",
+    "New policy targets cloned voices without artist consent.",
+    "Yet labels quietly license AI vocals for hit songs.",
+    "Your playlists will hide these tracks, not remove them.",
+    "Check your Discover Weekly for surprising new exclusions."
+  ],
+  "thread_text": [
+    "1. Who owns your voice?\n\nSpotify's new ban on AI personas leaves a loophole: labels can still quietly license AI vocals for hits, as long as they have permission.",
+    "2. The hidden track\n\nThose AI-generated songs won't be removed from your playlists—just hidden from view. You might be listening to one right now without knowing.",
+    "3. Authenticity is for sale\n\nWhile Spotify polices cloned voices without artist consent, record labels are cashing in by licensing AI vocals for chart-topping tracks. The real gatekeepers? Money.",
+    "4. The exclusions start now\n\nYour Discover Weekly just got a silent overhaul. AI tracks that fail the new authenticity test are being weeded out, but the ones that pass the licensing bar stay.",
+    "5. Check your playlist today\n\nLook at your Discover Weekly this week. If you spot a song you don't remember saving, ask: is this a creator, or a clone? How would you know?"
+  ],
+  "video_script": [
+    "Spotify bans AI personas, but labels license them.",
+    "Check your playlist now, hidden AI tracks.",
+    "Discover Weekly might hide, not remove songs.",
+    "Who defines authenticity when money talks?",
+    "Search for surprise exclusions in your music."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who owns your voice?\n\nSpotify's new ban on AI personas leaves a loophole: labels can still quietly license AI vocals for hits, as long as they have permission.",
+        "2. The hidden track\n\nThose AI-generated songs won't be removed from your playlists—just hidden from view. You might be listening to one right now without knowing.",
+        "3. Authenticity is for sale\n\nWhile Spotify polices cloned voices without artist consent, record labels are cashing in by licensing AI vocals for chart-topping tracks. The real gatekeepers? Money.",
+        "4. The exclusions start now\n\nYour Discover Weekly just got a silent overhaul. AI tracks that fail the new authenticity test are being weeded out, but the ones that pass the licensing bar stay.",
+        "5. Check your playlist today\n\nLook at your Discover Weekly this week. If you spot a song you don't remember saving, ask: is this a creator, or a clone? How would you know?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Spotify bans AI personas, but labels license them.",
+        "Check your playlist now, hidden AI tracks.",
+        "Discover Weekly might hide, not remove songs.",
+        "Who defines authenticity when money talks?",
+        "Search for surprise exclusions in your music."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Discover Weekly just got a silent overhaul 🎧 Spotify won’t recommend music from “AI personas” anymore—but those tracks aren’t deleted, just hidden from view.\n\nThe ban targets cloned voices used without an artist’s consent. The catch? Labels can still license AI vocals for hit songs, as long as they have permission. So the policy blocks fakes, not paid-for ones 💸\n\nFor you as a creator or listener: your playlists may already contain AI-generated tracks you’ve never noticed. They’ll stay, just unlisted from recommendations.\n\nOpen Spotify now. Scroll your Discover Weekly. Can you tell which songs are human-made—or does it even matter to you? 🤔"
+    }
+  },
+  "instagram_caption": "Your Discover Weekly just got a silent overhaul 🎧 Spotify won’t recommend music from “AI personas” anymore—but those tracks aren’t deleted, just hidden from view.\n\nThe ban targets cloned voices used without an artist’s consent. The catch? Labels can still license AI vocals for hit songs, as long as they have permission. So the policy blocks fakes, not paid-for ones 💸\n\nFor you as a creator or listener: your playlists may already contain AI-generated tracks you’ve never noticed. They’ll stay, just unlisted from recommendations.\n\nOpen Spotify now. Scroll your Discover Weekly. Can you tell which songs are human-made—or does it even matter to you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who really owns your voice?",
+      "description": "Spotify bans AI personas without consent, but labels can license cloned vocals for hits. Authenticity has a price — and money is the gatekeeper.",
+      "visual_hint": "Microphone with dollar signs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone dollar sign"
+    },
+    {
+      "hook": "Hidden tracks stay on your playlists.",
+      "description": "AI-generated songs won't be removed — just hidden. You might be streaming a cloned voice right now without ever knowing it.",
+      "visual_hint": "Playlist with ghost icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "music playlist ghost",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Authenticity is for sale.",
+      "description": "While Spotify polices unauthorized clones, record labels cash in by licensing AI vocals for chart-toppers. The real gatekeeper? Money.",
+      "visual_hint": "Factory producing music notes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "music factory production",
+      "image": "https://images.pexels.com/photos/2049411/pexels-photo-2049411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Discover Weekly gets a silent overhaul.",
+      "description": "Tracks failing the new authenticity test are being weeded out, but those passing the licensing bar stay. Your weekly mix is quietly changing.",
+      "visual_hint": "Hand curating playlist icons",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand playlist music",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your playlist now — and comment.",
+      "description": "Open Discover Weekly today. Spot a song you don't remember saving? Ask: creator or clone? Share your findings below.",
+      "visual_hint": "Smartphone with playlist screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone music app",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-08-11T18:50:04.218Z",
+  "sourceId": "29c27da3275cd670211b7457de99dc29"
+}

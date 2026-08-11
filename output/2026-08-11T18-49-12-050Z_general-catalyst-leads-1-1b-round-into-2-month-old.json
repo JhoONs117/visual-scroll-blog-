@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "general-catalyst-leads-1-1b-round-into-2-month-old",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+  "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+  "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
+  "slides": [
+    "Can a two-month-old startup justify $1.1 billion?",
+    "General Catalyst led the round, valuing River AI.",
+    "The company has zero revenue and no public product.",
+    "This bet forces rivals to rethink AI funding timelines.",
+    "Watch for River's first release to validate the price."
+  ],
+  "thread_text": [
+    "1. Why so much?\n\nTwo-month-old River AI just got a $1.1 billion price tag from General Catalyst, with zero revenue and no public product.",
+    "2. The bet's real message\n\nRivals now face a stark choice: chase valuations or wait for proof. The funding timeline just compressed.",
+    "3. What's behind the curtain\n\nNo product means investors are betting on the team and idea alone. It's a leap, not a step.",
+    "4. Pressure to deliver\n\nRiver's first release will either justify the hype or burst the bubble. Every move is scrutinized.",
+    "5. Your move\n\nBefore the next big AI bet, ask yourself: would you invest in a promise this raw? Test that logic on your next project."
+  ],
+  "video_script": [
+    "Two-month-old startup, billion-dollar valuation.",
+    "Zero revenue, no product yet.",
+    "Investors betting big on promise.",
+    "Rivals must rethink their timelines.",
+    "First release will prove or lose it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why so much?\n\nTwo-month-old River AI just got a $1.1 billion price tag from General Catalyst, with zero revenue and no public product.",
+        "2. The bet's real message\n\nRivals now face a stark choice: chase valuations or wait for proof. The funding timeline just compressed.",
+        "3. What's behind the curtain\n\nNo product means investors are betting on the team and idea alone. It's a leap, not a step.",
+        "4. Pressure to deliver\n\nRiver's first release will either justify the hype or burst the bubble. Every move is scrutinized.",
+        "5. Your move\n\nBefore the next big AI bet, ask yourself: would you invest in a promise this raw? Test that logic on your next project."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Two-month-old startup, billion-dollar valuation.",
+        "Zero revenue, no product yet.",
+        "Investors betting big on promise.",
+        "Rivals must rethink their timelines.",
+        "First release will prove or lose it."
+      ]
+    },
+    "instagram": {
+      "caption": "A two-month-old startup with zero revenue and no public product just raised $1.1 billion. General Catalyst led the round, betting purely on the team and the idea. No leaks, no demo, no roadmap. 🎯\n\nThat's the whole pitch. For founders and creators building in AI, this changes the calculus: the timeline to a massive valuation just compressed overnight. If a blank-slate startup can land this, the bar for \"proof\" has officially moved. 📉\n\nFor anyone making content or tools with AI, expect more aggressive funding cycles—and more pressure to ship before you're ready. River's first release will be the real test. ⏳\n\nWould you take that bet on your next project? 💸"
+    }
+  },
+  "instagram_caption": "A two-month-old startup with zero revenue and no public product just raised $1.1 billion. General Catalyst led the round, betting purely on the team and the idea. No leaks, no demo, no roadmap. 🎯\n\nThat's the whole pitch. For founders and creators building in AI, this changes the calculus: the timeline to a massive valuation just compressed overnight. If a blank-slate startup can land this, the bar for \"proof\" has officially moved. 📉\n\nFor anyone making content or tools with AI, expect more aggressive funding cycles—and more pressure to ship before you're ready. River's first release will be the real test. ⏳\n\nWould you take that bet on your next project? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Zero revenue. $1.1B. Two months.",
+      "description": "River AI just raised $1.1B from General Catalyst with no public product. Is this a bet on idea alone?",
+      "visual_hint": "Money in the air",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stacks of money"
+    },
+    {
+      "hook": "The funding timeline just compressed.",
+      "description": "General Catalyst's bet signals rivals must chase valuations or wait for proof. The pressure is on.",
+      "visual_hint": "Compressed timeline",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "clock and calendar",
+      "image": "https://images.pexels.com/photos/7805676/pexels-photo-7805676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No product, no revenue — just a leap.",
+      "description": "Investors are betting solely on the team and idea. This is a leap of faith, not a calculated step.",
+      "visual_hint": "Leap of faith",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cliff jump",
+      "image": "https://images.pexels.com/photos/18356773/pexels-photo-18356773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every move will be scrutinized.",
+      "description": "River's first release will either justify the hype or burst the bubble. The pressure is immense.",
+      "visual_hint": "Spotlight on action",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you invest in a raw promise?",
+      "description": "Before your next big AI bet, test that logic. Ask yourself: is this a leap or a step? Save this for later.",
+      "visual_hint": "Questioning yourself",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark sign",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+  "savedAt": "2026-08-11T18:49:37.695Z",
+  "sourceId": "3571ff97a4b1f223f5c01fb95a2362eb"
+}
