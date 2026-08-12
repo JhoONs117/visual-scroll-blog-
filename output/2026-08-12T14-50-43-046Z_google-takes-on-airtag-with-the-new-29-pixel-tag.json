@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-takes-on-airtag-with-the-new-29-pixel-tag",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google takes on AirTag with the new $29 Pixel Tag",
+  "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+  "pubDate": "Wed, 12 Aug 2026 14:00:00 +0000",
+  "slides": [
+    "Can $29 Pixel Tag beat AirTag?",
+    "Google's tag works only with Android phones.",
+    "Its UWB chip enables precise indoor tracking.",
+    "You no longer need Apple hardware to find items.",
+    "Test one this week; see if it fits."
+  ],
+  "thread_text": [
+    "1. The $29 Trap?\n\nGoogle's new Pixel Tag undercuts Apple's AirTag by $5, but it's locked to Android—iPhone users need not apply.",
+    "2. Precision Inside\n\nUnlike Bluetooth-only trackers, its UWB chip gives you exact indoor location, down to the centimeter, so you can find keys in a cluttered room.",
+    "3. Android's Answer\n\nNo more borrowing an iPhone or using a friend's Mac to locate your stuff—this tag plays solely in Google's ecosystem.",
+    "4. The Catch\n\nWhile AirTag relies on Apple's vast network, Pixel Tag's network depends on Android phones—which might mean slower finds in less populated areas.",
+    "5. Test It Yourself\n\nCan you live with Android-only tracking? Grab a Pixel Tag this week and hide it in your backpack—does the precision justify the switch?"
+  ],
+  "video_script": [
+    "Pixel Tag costs less than AirTag.",
+    "But it only works with Android.",
+    "UWB chip finds items precisely indoors.",
+    "No Apple hardware needed anymore.",
+    "Test it yourself this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $29 Trap?\n\nGoogle's new Pixel Tag undercuts Apple's AirTag by $5, but it's locked to Android—iPhone users need not apply.",
+        "2. Precision Inside\n\nUnlike Bluetooth-only trackers, its UWB chip gives you exact indoor location, down to the centimeter, so you can find keys in a cluttered room.",
+        "3. Android's Answer\n\nNo more borrowing an iPhone or using a friend's Mac to locate your stuff—this tag plays solely in Google's ecosystem.",
+        "4. The Catch\n\nWhile AirTag relies on Apple's vast network, Pixel Tag's network depends on Android phones—which might mean slower finds in less populated areas.",
+        "5. Test It Yourself\n\nCan you live with Android-only tracking? Grab a Pixel Tag this week and hide it in your backpack—does the precision justify the switch?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pixel Tag costs less than AirTag.",
+        "But it only works with Android.",
+        "UWB chip finds items precisely indoors.",
+        "No Apple hardware needed anymore.",
+        "Test it yourself this week."
+      ]
+    },
+    "instagram": {
+      "caption": "For $29, Google just undercut Apple’s AirTag by $5 — but the Pixel Tag only works with Android phones.\n\nIts UWB chip tracks items indoors with centimeter-level precision, so you can find keys in a messy room without Apple hardware. The catch? Google’s tracking network relies on Android phones, which could mean slower results in less crowded areas.\n\nIf you make content about gadgets or productivity, this is a new variable: your audience’s phone choice now dictates which tracker they’ll trust.\n\nDo you stick with Apple’s network for the reach, or save $5 and risk the coverage? 🧐"
+    }
+  },
+  "instagram_caption": "For $29, Google just undercut Apple’s AirTag by $5 — but the Pixel Tag only works with Android phones.\n\nIts UWB chip tracks items indoors with centimeter-level precision, so you can find keys in a messy room without Apple hardware. The catch? Google’s tracking network relies on Android phones, which could mean slower results in less crowded areas.\n\nIf you make content about gadgets or productivity, this is a new variable: your audience’s phone choice now dictates which tracker they’ll trust.\n\nDo you stick with Apple’s network for the reach, or save $5 and risk the coverage? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Can $29 Pixel Tag beat AirTag?",
+      "description": "Google's new Pixel Tag costs $29, $5 less than AirTag, but only works with Android phones.",
+      "visual_hint": "Pixel Tag next to AirTag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart tracker device"
+    },
+    {
+      "hook": "Precision inside, down to the centimeter",
+      "description": "Its UWB chip gives exact indoor location, so you can find keys in a cluttered room.",
+      "visual_hint": "Close-up of UWB chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board macro",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Android's answer, no iPhone needed",
+      "description": "No more borrowing an iPhone to locate your stuff—this tag plays solely in Google's ecosystem.",
+      "visual_hint": "Android phone with tag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "android phone hand",
+      "image": "https://images.pexels.com/photos/8319664/pexels-photo-8319664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Network catch: slower finds in rural areas",
+      "description": "AirTag uses Apple's vast network, but Pixel Tag depends on Android phones—which might mean slower finds in less populated areas.",
+      "visual_hint": "Map showing sparse network dots",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "map with dots",
+      "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it this week—save or comment for tips",
+      "description": "Grab a Pixel Tag, hide it in your backpack, and see if the precision justifies the switch.",
+      "visual_hint": "Backpack with tag visible",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "backpack with tag",
+      "image": "https://images.pexels.com/photos/13869867/pexels-photo-13869867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Tag_Lifestyle_Keys.png?resize=1166,1200",
+  "savedAt": "2026-08-12T14:50:56.432Z",
+  "sourceId": "98cb6350af9b99192540babdfa69fcf8"
+}

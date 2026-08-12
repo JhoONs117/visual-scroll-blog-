@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-pixel-watch-5-dives-deeper-into-ai-and-he",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+  "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+  "pubDate": "2026-08-12T14:00:00.000Z",
+  "slides": [
+    "Can Google's Pixel Watch 5 outsmart your doctor?",
+    "It adds a new AI-powered health coach feature.",
+    "But its blood pressure sensor remains a surprise.",
+    "You'll finally get daily insights, not just data.",
+    "Test its predictions against your own symptoms."
+  ],
+  "thread_text": [
+    "1. Your doctor vs. a watch?\n\nGoogle's Pixel Watch 5 is adding an AI coach that predicts your health—before you feel sick.",
+    "2. The hidden sensor\n\nBlood pressure tracking is finally built-in, but Google hasn't explained how it calibrates without a cuff.",
+    "3. From data to advice\n\nInstead of raw numbers, you'll get daily insights—like \"you're likely to get a cold\"—not just charts.",
+    "4. Predictions you can test\n\nThe AI compares your symptoms to millions of cases, giving you a risk score for conditions.",
+    "5. Will you trust it?\n\nNext time you feel off, check its prediction against your own body. Would you act on its advice before seeing a doctor?"
+  ],
+  "video_script": [
+    "Pixel Watch 5 might know before you do.",
+    "It has a blood pressure sensor surprise.",
+    "Daily insights replace boring health data.",
+    "AI predicts your symptoms like a doctor.",
+    "Would you trust a watch over your doctor?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your doctor vs. a watch?\n\nGoogle's Pixel Watch 5 is adding an AI coach that predicts your health—before you feel sick.",
+        "2. The hidden sensor\n\nBlood pressure tracking is finally built-in, but Google hasn't explained how it calibrates without a cuff.",
+        "3. From data to advice\n\nInstead of raw numbers, you'll get daily insights—like \"you're likely to get a cold\"—not just charts.",
+        "4. Predictions you can test\n\nThe AI compares your symptoms to millions of cases, giving you a risk score for conditions.",
+        "5. Will you trust it?\n\nNext time you feel off, check its prediction against your own body. Would you act on its advice before seeing a doctor?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pixel Watch 5 might know before you do.",
+        "It has a blood pressure sensor surprise.",
+        "Daily insights replace boring health data.",
+        "AI predicts your symptoms like a doctor.",
+        "Would you trust a watch over your doctor?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your watch might tell you you're getting sick before you do.  \nGoogle's Pixel Watch 5 adds an AI coach that predicts health issues—like a cold—by comparing your symptoms to millions of cases.  \nIt also packs a blood pressure sensor, but Google hasn't explained how it works without a cuff.  \nInstead of raw charts, you get daily, plain-language insights: \"you're likely to catch something.\"  \nFor creators tracking health or fitness content, your data now becomes a story you can fact-check against your own body.  \nNext time you feel off, would you trust the watch's risk score over your doctor's call? ⌚🩺📈"
+    }
+  },
+  "instagram_caption": "Your watch might tell you you're getting sick before you do.  \nGoogle's Pixel Watch 5 adds an AI coach that predicts health issues—like a cold—by comparing your symptoms to millions of cases.  \nIt also packs a blood pressure sensor, but Google hasn't explained how it works without a cuff.  \nInstead of raw charts, you get daily, plain-language insights: \"you're likely to catch something.\"  \nFor creators tracking health or fitness content, your data now becomes a story you can fact-check against your own body.  \nNext time you feel off, would you trust the watch's risk score over your doctor's call? ⌚🩺📈",
+  "carousel_slides": [
+    {
+      "hook": "Your doctor vs. a watch?",
+      "description": "Pixel Watch 5 adds an AI coach that predicts health issues before symptoms appear. The watch may know you're sick before you do.",
+      "visual_hint": "Smartwatch vs. stethoscope",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartwatch stethoscope"
+    },
+    {
+      "hook": "Hidden blood pressure sensor",
+      "description": "Blood pressure tracking is built-in, but Google hasn't revealed how it calibrates without a cuff. That's the big surprise.",
+      "visual_hint": "Watch sensor close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartwatch sensor",
+      "image": "https://images.pexels.com/photos/16985306/pexels-photo-16985306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From data to daily advice",
+      "description": "Forget raw charts. You get insights like 'you're likely to get a cold'—actionable tips, not just numbers.",
+      "visual_hint": "Illustrated health alert screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "health app screen",
+      "image": "https://images.pexels.com/photos/4108205/pexels-photo-4108205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test its predictions yourself",
+      "description": "The AI compares your symptoms to millions of cases and gives a risk score. Next time you feel off, see if it's right.",
+      "visual_hint": "Hand checking watch screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "watch on wrist",
+      "image": "https://images.pexels.com/photos/32167442/pexels-photo-32167442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next checkup",
+      "description": "Share this with someone who tracks their health. Comment your take: would you trust it before seeing a doctor?",
+      "visual_hint": "Doctor and patient appointment",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "doctor patient",
+      "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-12T14:51:10.554Z",
+  "sourceId": "8da3243e4c6051391e3362ac96096d42"
+}

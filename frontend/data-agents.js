@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-s-pixel-watch-5-dives-deeper-into-ai-and-he",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "pubDate": "2026-08-12T14:00:00.000Z",
+      "slides": [
+        "Can Google's Pixel Watch 5 outsmart your doctor?",
+        "It adds a new AI-powered health coach feature.",
+        "But its blood pressure sensor remains a surprise.",
+        "You'll finally get daily insights, not just data.",
+        "Test its predictions against your own symptoms."
+      ],
+      "thread_text": [
+        "1. Your doctor vs. a watch?\n\nGoogle's Pixel Watch 5 is adding an AI coach that predicts your health—before you feel sick.",
+        "2. The hidden sensor\n\nBlood pressure tracking is finally built-in, but Google hasn't explained how it calibrates without a cuff.",
+        "3. From data to advice\n\nInstead of raw numbers, you'll get daily insights—like \"you're likely to get a cold\"—not just charts.",
+        "4. Predictions you can test\n\nThe AI compares your symptoms to millions of cases, giving you a risk score for conditions.",
+        "5. Will you trust it?\n\nNext time you feel off, check its prediction against your own body. Would you act on its advice before seeing a doctor?"
+      ],
+      "video_script": [
+        "Pixel Watch 5 might know before you do.",
+        "It has a blood pressure sensor surprise.",
+        "Daily insights replace boring health data.",
+        "AI predicts your symptoms like a doctor.",
+        "Would you trust a watch over your doctor?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your doctor vs. a watch?\n\nGoogle's Pixel Watch 5 is adding an AI coach that predicts your health—before you feel sick.",
+            "2. The hidden sensor\n\nBlood pressure tracking is finally built-in, but Google hasn't explained how it calibrates without a cuff.",
+            "3. From data to advice\n\nInstead of raw numbers, you'll get daily insights—like \"you're likely to get a cold\"—not just charts.",
+            "4. Predictions you can test\n\nThe AI compares your symptoms to millions of cases, giving you a risk score for conditions.",
+            "5. Will you trust it?\n\nNext time you feel off, check its prediction against your own body. Would you act on its advice before seeing a doctor?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pixel Watch 5 might know before you do.",
+            "It has a blood pressure sensor surprise.",
+            "Daily insights replace boring health data.",
+            "AI predicts your symptoms like a doctor.",
+            "Would you trust a watch over your doctor?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your watch might tell you you're getting sick before you do.  \nGoogle's Pixel Watch 5 adds an AI coach that predicts health issues—like a cold—by comparing your symptoms to millions of cases.  \nIt also packs a blood pressure sensor, but Google hasn't explained how it works without a cuff.  \nInstead of raw charts, you get daily, plain-language insights: \"you're likely to catch something.\"  \nFor creators tracking health or fitness content, your data now becomes a story you can fact-check against your own body.  \nNext time you feel off, would you trust the watch's risk score over your doctor's call? ⌚🩺📈"
+        }
+      },
+      "instagram_caption": "Your watch might tell you you're getting sick before you do.  \nGoogle's Pixel Watch 5 adds an AI coach that predicts health issues—like a cold—by comparing your symptoms to millions of cases.  \nIt also packs a blood pressure sensor, but Google hasn't explained how it works without a cuff.  \nInstead of raw charts, you get daily, plain-language insights: \"you're likely to catch something.\"  \nFor creators tracking health or fitness content, your data now becomes a story you can fact-check against your own body.  \nNext time you feel off, would you trust the watch's risk score over your doctor's call? ⌚🩺📈",
+      "carousel_slides": [
+        {
+          "hook": "Your doctor vs. a watch?",
+          "description": "Pixel Watch 5 adds an AI coach that predicts health issues before symptoms appear. The watch may know you're sick before you do.",
+          "visual_hint": "Smartwatch vs. stethoscope",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartwatch stethoscope"
+        },
+        {
+          "hook": "Hidden blood pressure sensor",
+          "description": "Blood pressure tracking is built-in, but Google hasn't revealed how it calibrates without a cuff. That's the big surprise.",
+          "visual_hint": "Watch sensor close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartwatch sensor",
+          "image": "https://images.pexels.com/photos/16985306/pexels-photo-16985306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From data to daily advice",
+          "description": "Forget raw charts. You get insights like 'you're likely to get a cold'—actionable tips, not just numbers.",
+          "visual_hint": "Illustrated health alert screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "health app screen",
+          "image": "https://images.pexels.com/photos/4108205/pexels-photo-4108205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test its predictions yourself",
+          "description": "The AI compares your symptoms to millions of cases and gives a risk score. Next time you feel off, see if it's right.",
+          "visual_hint": "Hand checking watch screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "watch on wrist",
+          "image": "https://images.pexels.com/photos/32167442/pexels-photo-32167442.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next checkup",
+          "description": "Share this with someone who tracks their health. Comment your take: would you trust it before seeing a doctor?",
+          "visual_hint": "Doctor and patient appointment",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "doctor patient",
+          "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-12T14:51:10.554Z",
+      "sourceId": "8da3243e4c6051391e3362ac96096d42"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-takes-on-airtag-with-the-new-29-pixel-tag",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "pubDate": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "slides": [
+        "Can $29 Pixel Tag beat AirTag?",
+        "Google's tag works only with Android phones.",
+        "Its UWB chip enables precise indoor tracking.",
+        "You no longer need Apple hardware to find items.",
+        "Test one this week; see if it fits."
+      ],
+      "thread_text": [
+        "1. The $29 Trap?\n\nGoogle's new Pixel Tag undercuts Apple's AirTag by $5, but it's locked to Android—iPhone users need not apply.",
+        "2. Precision Inside\n\nUnlike Bluetooth-only trackers, its UWB chip gives you exact indoor location, down to the centimeter, so you can find keys in a cluttered room.",
+        "3. Android's Answer\n\nNo more borrowing an iPhone or using a friend's Mac to locate your stuff—this tag plays solely in Google's ecosystem.",
+        "4. The Catch\n\nWhile AirTag relies on Apple's vast network, Pixel Tag's network depends on Android phones—which might mean slower finds in less populated areas.",
+        "5. Test It Yourself\n\nCan you live with Android-only tracking? Grab a Pixel Tag this week and hide it in your backpack—does the precision justify the switch?"
+      ],
+      "video_script": [
+        "Pixel Tag costs less than AirTag.",
+        "But it only works with Android.",
+        "UWB chip finds items precisely indoors.",
+        "No Apple hardware needed anymore.",
+        "Test it yourself this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $29 Trap?\n\nGoogle's new Pixel Tag undercuts Apple's AirTag by $5, but it's locked to Android—iPhone users need not apply.",
+            "2. Precision Inside\n\nUnlike Bluetooth-only trackers, its UWB chip gives you exact indoor location, down to the centimeter, so you can find keys in a cluttered room.",
+            "3. Android's Answer\n\nNo more borrowing an iPhone or using a friend's Mac to locate your stuff—this tag plays solely in Google's ecosystem.",
+            "4. The Catch\n\nWhile AirTag relies on Apple's vast network, Pixel Tag's network depends on Android phones—which might mean slower finds in less populated areas.",
+            "5. Test It Yourself\n\nCan you live with Android-only tracking? Grab a Pixel Tag this week and hide it in your backpack—does the precision justify the switch?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pixel Tag costs less than AirTag.",
+            "But it only works with Android.",
+            "UWB chip finds items precisely indoors.",
+            "No Apple hardware needed anymore.",
+            "Test it yourself this week."
+          ]
+        },
+        "instagram": {
+          "caption": "For $29, Google just undercut Apple’s AirTag by $5 — but the Pixel Tag only works with Android phones.\n\nIts UWB chip tracks items indoors with centimeter-level precision, so you can find keys in a messy room without Apple hardware. The catch? Google’s tracking network relies on Android phones, which could mean slower results in less crowded areas.\n\nIf you make content about gadgets or productivity, this is a new variable: your audience’s phone choice now dictates which tracker they’ll trust.\n\nDo you stick with Apple’s network for the reach, or save $5 and risk the coverage? 🧐"
+        }
+      },
+      "instagram_caption": "For $29, Google just undercut Apple’s AirTag by $5 — but the Pixel Tag only works with Android phones.\n\nIts UWB chip tracks items indoors with centimeter-level precision, so you can find keys in a messy room without Apple hardware. The catch? Google’s tracking network relies on Android phones, which could mean slower results in less crowded areas.\n\nIf you make content about gadgets or productivity, this is a new variable: your audience’s phone choice now dictates which tracker they’ll trust.\n\nDo you stick with Apple’s network for the reach, or save $5 and risk the coverage? 🧐",
+      "carousel_slides": [
+        {
+          "hook": "Can $29 Pixel Tag beat AirTag?",
+          "description": "Google's new Pixel Tag costs $29, $5 less than AirTag, but only works with Android phones.",
+          "visual_hint": "Pixel Tag next to AirTag",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart tracker device"
+        },
+        {
+          "hook": "Precision inside, down to the centimeter",
+          "description": "Its UWB chip gives exact indoor location, so you can find keys in a cluttered room.",
+          "visual_hint": "Close-up of UWB chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board macro",
+          "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Android's answer, no iPhone needed",
+          "description": "No more borrowing an iPhone to locate your stuff—this tag plays solely in Google's ecosystem.",
+          "visual_hint": "Android phone with tag",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "android phone hand",
+          "image": "https://images.pexels.com/photos/8319664/pexels-photo-8319664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Network catch: slower finds in rural areas",
+          "description": "AirTag uses Apple's vast network, but Pixel Tag depends on Android phones—which might mean slower finds in less populated areas.",
+          "visual_hint": "Map showing sparse network dots",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "map with dots",
+          "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it this week—save or comment for tips",
+          "description": "Grab a Pixel Tag, hide it in your backpack, and see if the precision justifies the switch.",
+          "visual_hint": "Backpack with tag visible",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "backpack with tag",
+          "image": "https://images.pexels.com/photos/13869867/pexels-photo-13869867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Tag_Lifestyle_Keys.png?resize=1166,1200",
+      "savedAt": "2026-08-12T14:50:56.432Z",
+      "sourceId": "98cb6350af9b99192540babdfa69fcf8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "grok-is-now-an-ai-teammate-you-can-assign-work",
       "prompt_version": "1.0.0",
       "status": "published",
