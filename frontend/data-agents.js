@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "twitch-streamers-can-now-opt-out-from-training-ama",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "slides": [
+        "Can Twitch streamers still trust Amazon?",
+        "New opt-out lets creators block AI training.",
+        "But Amazon already trained models on past streams.",
+        "Your past content may have permanently shaped AI.",
+        "Decide now: opt out before future streams."
+      ],
+      "thread_text": [
+        "1. Your past is already in AI\n\nTwitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+        "2. Opt-out is a door, not a time machine\n\nIt blocks future training only. Past data? Already in the model. No recall button exists.",
+        "3. The catch: you must act now\n\nIf you don't opt out before your next stream, that new content joins the pile. Every stream is a decision.",
+        "4. Amazon's silence is strategic\n\nThey didn't announce this loudly. The default is still permission. They're betting you'll forget.",
+        "5. Check your settings today\n\nGo to Twitch settings and find the AI training toggle. If it's not there, ask support why. Your next stream is a vote."
+      ],
+      "video_script": [
+        "Your old streams trained AI without asking.",
+        "New opt-out only helps future content.",
+        "Past streams are already in the model.",
+        "Act now or your next stream is used.",
+        "Check Twitch settings and opt out today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your past is already in AI\n\nTwitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+            "2. Opt-out is a door, not a time machine\n\nIt blocks future training only. Past data? Already in the model. No recall button exists.",
+            "3. The catch: you must act now\n\nIf you don't opt out before your next stream, that new content joins the pile. Every stream is a decision.",
+            "4. Amazon's silence is strategic\n\nThey didn't announce this loudly. The default is still permission. They're betting you'll forget.",
+            "5. Check your settings today\n\nGo to Twitch settings and find the AI training toggle. If it's not there, ask support why. Your next stream is a vote."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your old streams trained AI without asking.",
+            "New opt-out only helps future content.",
+            "Past streams are already in the model.",
+            "Act now or your next stream is used.",
+            "Check Twitch settings and opt out today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your old Twitch streams are already inside Amazon’s AI models. The new opt-out only stops future training. Past broadcasts can’t be un-learned. 🎮\n\nThe change hides in your settings as a toggle. Turn it off before your next stream, or that new content gets absorbed too. Amazon didn’t announce this loudly—they’re counting on you missing it. ⚙️\n\nFor creators, this means every stream you go live is a silent permission slip. Your voice, your gameplay, your commentary—all grist for the machine. 🖥️\n\nCheck your Twitch settings right now for the AI training switch. If you don’t see it, ask support why. Will your next stream be another data point? 🤔"
+        }
+      },
+      "instagram_caption": "Your old Twitch streams are already inside Amazon’s AI models. The new opt-out only stops future training. Past broadcasts can’t be un-learned. 🎮\n\nThe change hides in your settings as a toggle. Turn it off before your next stream, or that new content gets absorbed too. Amazon didn’t announce this loudly—they’re counting on you missing it. ⚙️\n\nFor creators, this means every stream you go live is a silent permission slip. Your voice, your gameplay, your commentary—all grist for the machine. 🖥️\n\nCheck your Twitch settings right now for the AI training switch. If you don’t see it, ask support why. Will your next stream be another data point? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your past is already in AI",
+          "description": "Twitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+          "visual_hint": "Old streams feeding a machine",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Opt-out is a door, not a time machine",
+          "description": "It blocks future training only. Past data? Already in the model. No recall button exists.",
+          "visual_hint": "A door with no return",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "closed door",
+          "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You must act before your next stream",
+          "description": "If you don't opt out now, that new content joins the pile. Every stream becomes a decision.",
+          "visual_hint": "A timer counting down",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "timer clock",
+          "image": "https://images.pexels.com/photos/8113753/pexels-photo-8113753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Amazon's silence is strategic",
+          "description": "They didn't announce this loudly. The default remains permission. They're betting you'll forget.",
+          "visual_hint": "Silent corporate building",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office building",
+          "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your settings today",
+          "description": "Go to Twitch settings and find the AI training toggle. If missing, ask support why. Your next stream is a vote.",
+          "visual_hint": "Settings gear icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "settings gear",
+          "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-12T20:35:37.421Z",
+      "sourceId": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-backed-thrive-holdings-raises-2b-to-bring-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "slides": [
+        "Thrive raised $2B, but why now?",
+        "It targets slow enterprise AI adoption",
+        "Most Fortune 500 pilots never leave sandbox",
+        "You can now get AI without building it",
+        "Test one legacy workflow before competitors do"
+      ],
+      "thread_text": [
+        "1. Why $2B now?\n\nThrive just raised $2B because enterprises are stuck in pilot purgatory—most Fortune 500 AI tests never leave the sandbox.",
+        "2. The sandbox trap\n\nCompanies run endless pilots that fail to scale. The real bottleneck isn't tech—it's the slow crawl from proof to production.",
+        "3. AI without building\n\nNow you can buy AI as a service—no in-house team needed. This shifts the power from builders to buyers who can deploy fast.",
+        "4. The urgency\n\nCompetitors are already testing one legacy workflow. If you wait, they'll own the learning curve and the efficiency edge.",
+        "5. Your move\n\nDoes your company have a pilot stuck in the sandbox? Test one legacy workflow this week—before your rivals do."
+      ],
+      "video_script": [
+        "Thrive raised two billion to fix slow AI adoption.",
+        "Fortune 500 pilots often stay stuck in sandbox.",
+        "Now you can get AI without building anything.",
+        "Test one legacy workflow before your competitors do.",
+        "Start today—or risk falling behind."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why $2B now?\n\nThrive just raised $2B because enterprises are stuck in pilot purgatory—most Fortune 500 AI tests never leave the sandbox.",
+            "2. The sandbox trap\n\nCompanies run endless pilots that fail to scale. The real bottleneck isn't tech—it's the slow crawl from proof to production.",
+            "3. AI without building\n\nNow you can buy AI as a service—no in-house team needed. This shifts the power from builders to buyers who can deploy fast.",
+            "4. The urgency\n\nCompetitors are already testing one legacy workflow. If you wait, they'll own the learning curve and the efficiency edge.",
+            "5. Your move\n\nDoes your company have a pilot stuck in the sandbox? Test one legacy workflow this week—before your rivals do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Thrive raised two billion to fix slow AI adoption.",
+            "Fortune 500 pilots often stay stuck in sandbox.",
+            "Now you can get AI without building anything.",
+            "Test one legacy workflow before your competitors do.",
+            "Start today—or risk falling behind."
+          ]
+        },
+        "instagram": {
+          "caption": "$2 billion just went to a company whose entire pitch is “stop running AI pilots that never ship.”  \n\nMost Fortune 500 tests die in the sandbox—proof of concept, then nothing. Thrive’s bet is that you’ll buy AI as a service instead of building it in-house. ⏱️  \n\nThe bottleneck was never the tech, it was the crawl from pilot to production. Now the buyer beats the builder.  \n\nFor you: the fastest path to using this is not starting a new project, but picking one legacy workflow and forcing it to go live this quarter.  \n\nWhich one of your workflows is still stuck in a demo? 🧪"
+        }
+      },
+      "instagram_caption": "$2 billion just went to a company whose entire pitch is “stop running AI pilots that never ship.”  \n\nMost Fortune 500 tests die in the sandbox—proof of concept, then nothing. Thrive’s bet is that you’ll buy AI as a service instead of building it in-house. ⏱️  \n\nThe bottleneck was never the tech, it was the crawl from pilot to production. Now the buyer beats the builder.  \n\nFor you: the fastest path to using this is not starting a new project, but picking one legacy workflow and forcing it to go live this quarter.  \n\nWhich one of your workflows is still stuck in a demo? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "2B reasons to care now",
+          "description": "Thrive just raised $2B because most Fortune 500 AI pilots never leave the sandbox. Slow adoption costs you the edge.",
+          "visual_hint": "Money stacks with clock",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "money stacks"
+        },
+        {
+          "hook": "Your AI pilot is stuck?",
+          "description": "Endless pilots fail to scale. The bottleneck isn't tech—it's moving from proof to production. Break the cycle.",
+          "visual_hint": "Sandbox with tiny robot",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sandbox toy",
+          "image": "https://images.pexels.com/photos/16940343/pexels-photo-16940343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Buy AI, skip building it",
+          "description": "Now you can get AI as a service—no in-house team needed. Power shifts from builders to fast deployers.",
+          "visual_hint": "Magnifying glass over gears",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass gears",
+          "image": "https://images.pexels.com/photos/8327865/pexels-photo-8327865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Competitors are testing already",
+          "description": "They're testing one legacy workflow now. If you wait, they own the learning curve and the efficiency edge.",
+          "visual_hint": "Tug-of-war with robot",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tug of war",
+          "image": "https://images.pexels.com/photos/18681768/pexels-photo-18681768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Test one workflow.",
+          "description": "Pick one legacy workflow and test AI on it this week—before rivals do. Comment 'READY' for a checklist.",
+          "visual_hint": "Finger on a glowing button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger button",
+          "image": "https://images.pexels.com/photos/37157631/pexels-photo-37157631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
+      "savedAt": "2026-08-12T20:35:25.823Z",
+      "sourceId": "2fd40c918be855216ae767e5bb820dfe"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "amazon-will-train-on-twitch-streamers-content-by-d",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "slides": [
+        "Amazon trains AI on Twitch streams unless you opt out.",
+        "Your past broadcasts may already be in the training data.",
+        "Twitch's buried setting hides a massive copyright shift.",
+        "Creators now must actively protect their own content.",
+        "Check your channels and streaming settings today."
+      ],
+      "thread_text": [
+        "1. Your old streams are training AI\n\nAmazon is already using Twitch VODs to train its AI models. If you ever streamed, your content may be part of that dataset.",
+        "2. Opt-out exists, but it's buried\n\nYou have to dig through Twitch's settings to disable AI training. Most creators never find it, and default is still 'yes.'",
+        "3. Copyright shift: who owns your clip?\n\nOnce your stream is used for AI, you lose control over your own content. That includes clips, highlights, and even chat moments.",
+        "4. Creators must actively protect themselves\n\nTwitch isn't protecting you — you have to. Check your data settings today, and if you don't want your content used, opt out now.",
+        "5. Check your settings right now\n\nOpen Twitch, go to Settings > Data, and toggle off AI training. If you've already streamed, assume your past content is in the dataset."
+      ],
+      "video_script": [
+        "Did you know Amazon trains AI on Twitch streams?",
+        "Unless you opt out, your past broadcasts are included.",
+        "The setting is buried deep in your channel settings.",
+        "This means you lose control of your content.",
+        "Go check your Twitch data settings now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your old streams are training AI\n\nAmazon is already using Twitch VODs to train its AI models. If you ever streamed, your content may be part of that dataset.",
+            "2. Opt-out exists, but it's buried\n\nYou have to dig through Twitch's settings to disable AI training. Most creators never find it, and default is still 'yes.'",
+            "3. Copyright shift: who owns your clip?\n\nOnce your stream is used for AI, you lose control over your own content. That includes clips, highlights, and even chat moments.",
+            "4. Creators must actively protect themselves\n\nTwitch isn't protecting you — you have to. Check your data settings today, and if you don't want your content used, opt out now.",
+            "5. Check your settings right now\n\nOpen Twitch, go to Settings > Data, and toggle off AI training. If you've already streamed, assume your past content is in the dataset."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Did you know Amazon trains AI on Twitch streams?",
+            "Unless you opt out, your past broadcasts are included.",
+            "The setting is buried deep in your channel settings.",
+            "This means you lose control of your content.",
+            "Go check your Twitch data settings now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your past Twitch streams are already feeding Amazon’s AI models — unless you’ve manually turned that off.  \n\nThe setting exists, but it’s buried deep: go to Settings > Data and toggle off AI training. The default is still “yes,” so if you haven’t touched it, assume your VODs, clips, and even chat moments are in the dataset right now.  \n\nOnce your content is used, you lose practical control over it — resharing, remixing, or licensing becomes murky. You’re not protected by default; you have to opt out yourself.  \n\nAlready checked your dashboard? Or did this catch you off guard? ⏱️🎥🔒"
+        }
+      },
+      "instagram_caption": "Your past Twitch streams are already feeding Amazon’s AI models — unless you’ve manually turned that off.  \n\nThe setting exists, but it’s buried deep: go to Settings > Data and toggle off AI training. The default is still “yes,” so if you haven’t touched it, assume your VODs, clips, and even chat moments are in the dataset right now.  \n\nOnce your content is used, you lose practical control over it — resharing, remixing, or licensing becomes murky. You’re not protected by default; you have to opt out yourself.  \n\nAlready checked your dashboard? Or did this catch you off guard? ⏱️🎥🔒",
+      "carousel_slides": [
+        {
+          "hook": "Who owns your clips now?",
+          "description": "Amazon's AI training on Twitch VODs means your past broadcasts may already be in the dataset. Default is opt-in, so your content is being used without consent.",
+          "visual_hint": "Streaming setup with camera",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "twitch streaming setup"
+        },
+        {
+          "hook": "Your old streams fuel AI.",
+          "description": "Past broadcasts and clips are likely in Amazon's training data. If you've ever streamed, assume your content is part of that dataset. Check your settings.",
+          "visual_hint": "Computer screen with data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer data streams",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The buried setting you missed.",
+          "description": "Twitch's option to disable AI training is hidden deep in settings. Most creators never find it, and the default remains 'yes' — a massive copyright shift.",
+          "visual_hint": "Magnifying glass over settings menu",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass settings",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Protect your content now.",
+          "description": "Once your stream is used for AI, you lose control — including clips and chat moments. Twitch won't protect you, so you must take action yourself.",
+          "visual_hint": "Hand flipping a toggle switch",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand toggle switch",
+          "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check later.",
+          "description": "Open Twitch now, go to Settings > Data, and toggle off AI training. It takes two minutes and ensures your future content stays yours.",
+          "visual_hint": "Settings menu with toggle highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "twitch settings menu",
+          "image": "https://images.pexels.com/photos/30111700/pexels-photo-30111700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
+      "savedAt": "2026-08-12T20:35:12.449Z",
+      "sourceId": "0e1a976108c71a3d479219e2a4937d0e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "lovable-confirms-new-13-3b-valuation-raises-anothe",
       "prompt_version": "1.0.0",
       "status": "published",

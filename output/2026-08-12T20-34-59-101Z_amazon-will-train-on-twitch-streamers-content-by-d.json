@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-will-train-on-twitch-streamers-content-by-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+  "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+  "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+  "slides": [
+    "Amazon trains AI on Twitch streams unless you opt out.",
+    "Your past broadcasts may already be in the training data.",
+    "Twitch's buried setting hides a massive copyright shift.",
+    "Creators now must actively protect their own content.",
+    "Check your channels and streaming settings today."
+  ],
+  "thread_text": [
+    "1. Your old streams are training AI\n\nAmazon is already using Twitch VODs to train its AI models. If you ever streamed, your content may be part of that dataset.",
+    "2. Opt-out exists, but it's buried\n\nYou have to dig through Twitch's settings to disable AI training. Most creators never find it, and default is still 'yes.'",
+    "3. Copyright shift: who owns your clip?\n\nOnce your stream is used for AI, you lose control over your own content. That includes clips, highlights, and even chat moments.",
+    "4. Creators must actively protect themselves\n\nTwitch isn't protecting you — you have to. Check your data settings today, and if you don't want your content used, opt out now.",
+    "5. Check your settings right now\n\nOpen Twitch, go to Settings > Data, and toggle off AI training. If you've already streamed, assume your past content is in the dataset."
+  ],
+  "video_script": [
+    "Did you know Amazon trains AI on Twitch streams?",
+    "Unless you opt out, your past broadcasts are included.",
+    "The setting is buried deep in your channel settings.",
+    "This means you lose control of your content.",
+    "Go check your Twitch data settings now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your old streams are training AI\n\nAmazon is already using Twitch VODs to train its AI models. If you ever streamed, your content may be part of that dataset.",
+        "2. Opt-out exists, but it's buried\n\nYou have to dig through Twitch's settings to disable AI training. Most creators never find it, and default is still 'yes.'",
+        "3. Copyright shift: who owns your clip?\n\nOnce your stream is used for AI, you lose control over your own content. That includes clips, highlights, and even chat moments.",
+        "4. Creators must actively protect themselves\n\nTwitch isn't protecting you — you have to. Check your data settings today, and if you don't want your content used, opt out now.",
+        "5. Check your settings right now\n\nOpen Twitch, go to Settings > Data, and toggle off AI training. If you've already streamed, assume your past content is in the dataset."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Did you know Amazon trains AI on Twitch streams?",
+        "Unless you opt out, your past broadcasts are included.",
+        "The setting is buried deep in your channel settings.",
+        "This means you lose control of your content.",
+        "Go check your Twitch data settings now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your past Twitch streams are already feeding Amazon’s AI models — unless you’ve manually turned that off.  \n\nThe setting exists, but it’s buried deep: go to Settings > Data and toggle off AI training. The default is still “yes,” so if you haven’t touched it, assume your VODs, clips, and even chat moments are in the dataset right now.  \n\nOnce your content is used, you lose practical control over it — resharing, remixing, or licensing becomes murky. You’re not protected by default; you have to opt out yourself.  \n\nAlready checked your dashboard? Or did this catch you off guard? ⏱️🎥🔒"
+    }
+  },
+  "instagram_caption": "Your past Twitch streams are already feeding Amazon’s AI models — unless you’ve manually turned that off.  \n\nThe setting exists, but it’s buried deep: go to Settings > Data and toggle off AI training. The default is still “yes,” so if you haven’t touched it, assume your VODs, clips, and even chat moments are in the dataset right now.  \n\nOnce your content is used, you lose practical control over it — resharing, remixing, or licensing becomes murky. You’re not protected by default; you have to opt out yourself.  \n\nAlready checked your dashboard? Or did this catch you off guard? ⏱️🎥🔒",
+  "carousel_slides": [
+    {
+      "hook": "Who owns your clips now?",
+      "description": "Amazon's AI training on Twitch VODs means your past broadcasts may already be in the dataset. Default is opt-in, so your content is being used without consent.",
+      "visual_hint": "Streaming setup with camera",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "twitch streaming setup"
+    },
+    {
+      "hook": "Your old streams fuel AI.",
+      "description": "Past broadcasts and clips are likely in Amazon's training data. If you've ever streamed, assume your content is part of that dataset. Check your settings.",
+      "visual_hint": "Computer screen with data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer data streams",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The buried setting you missed.",
+      "description": "Twitch's option to disable AI training is hidden deep in settings. Most creators never find it, and the default remains 'yes' — a massive copyright shift.",
+      "visual_hint": "Magnifying glass over settings menu",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass settings",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Protect your content now.",
+      "description": "Once your stream is used for AI, you lose control — including clips and chat moments. Twitch won't protect you, so you must take action yourself.",
+      "visual_hint": "Hand flipping a toggle switch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand toggle switch",
+      "image": "https://images.pexels.com/photos/7663143/pexels-photo-7663143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check later.",
+      "description": "Open Twitch now, go to Settings > Data, and toggle off AI training. It takes two minutes and ensures your future content stays yours.",
+      "visual_hint": "Settings menu with toggle highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "twitch settings menu",
+      "image": "https://images.pexels.com/photos/30111700/pexels-photo-30111700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
+  "savedAt": "2026-08-12T20:35:12.449Z",
+  "sourceId": "0e1a976108c71a3d479219e2a4937d0e"
+}

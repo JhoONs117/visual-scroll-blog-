@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-backed-thrive-holdings-raises-2b-to-bring-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+  "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+  "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+  "slides": [
+    "Thrive raised $2B, but why now?",
+    "It targets slow enterprise AI adoption",
+    "Most Fortune 500 pilots never leave sandbox",
+    "You can now get AI without building it",
+    "Test one legacy workflow before competitors do"
+  ],
+  "thread_text": [
+    "1. Why $2B now?\n\nThrive just raised $2B because enterprises are stuck in pilot purgatory—most Fortune 500 AI tests never leave the sandbox.",
+    "2. The sandbox trap\n\nCompanies run endless pilots that fail to scale. The real bottleneck isn't tech—it's the slow crawl from proof to production.",
+    "3. AI without building\n\nNow you can buy AI as a service—no in-house team needed. This shifts the power from builders to buyers who can deploy fast.",
+    "4. The urgency\n\nCompetitors are already testing one legacy workflow. If you wait, they'll own the learning curve and the efficiency edge.",
+    "5. Your move\n\nDoes your company have a pilot stuck in the sandbox? Test one legacy workflow this week—before your rivals do."
+  ],
+  "video_script": [
+    "Thrive raised two billion to fix slow AI adoption.",
+    "Fortune 500 pilots often stay stuck in sandbox.",
+    "Now you can get AI without building anything.",
+    "Test one legacy workflow before your competitors do.",
+    "Start today—or risk falling behind."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why $2B now?\n\nThrive just raised $2B because enterprises are stuck in pilot purgatory—most Fortune 500 AI tests never leave the sandbox.",
+        "2. The sandbox trap\n\nCompanies run endless pilots that fail to scale. The real bottleneck isn't tech—it's the slow crawl from proof to production.",
+        "3. AI without building\n\nNow you can buy AI as a service—no in-house team needed. This shifts the power from builders to buyers who can deploy fast.",
+        "4. The urgency\n\nCompetitors are already testing one legacy workflow. If you wait, they'll own the learning curve and the efficiency edge.",
+        "5. Your move\n\nDoes your company have a pilot stuck in the sandbox? Test one legacy workflow this week—before your rivals do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Thrive raised two billion to fix slow AI adoption.",
+        "Fortune 500 pilots often stay stuck in sandbox.",
+        "Now you can get AI without building anything.",
+        "Test one legacy workflow before your competitors do.",
+        "Start today—or risk falling behind."
+      ]
+    },
+    "instagram": {
+      "caption": "$2 billion just went to a company whose entire pitch is “stop running AI pilots that never ship.”  \n\nMost Fortune 500 tests die in the sandbox—proof of concept, then nothing. Thrive’s bet is that you’ll buy AI as a service instead of building it in-house. ⏱️  \n\nThe bottleneck was never the tech, it was the crawl from pilot to production. Now the buyer beats the builder.  \n\nFor you: the fastest path to using this is not starting a new project, but picking one legacy workflow and forcing it to go live this quarter.  \n\nWhich one of your workflows is still stuck in a demo? 🧪"
+    }
+  },
+  "instagram_caption": "$2 billion just went to a company whose entire pitch is “stop running AI pilots that never ship.”  \n\nMost Fortune 500 tests die in the sandbox—proof of concept, then nothing. Thrive’s bet is that you’ll buy AI as a service instead of building it in-house. ⏱️  \n\nThe bottleneck was never the tech, it was the crawl from pilot to production. Now the buyer beats the builder.  \n\nFor you: the fastest path to using this is not starting a new project, but picking one legacy workflow and forcing it to go live this quarter.  \n\nWhich one of your workflows is still stuck in a demo? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "2B reasons to care now",
+      "description": "Thrive just raised $2B because most Fortune 500 AI pilots never leave the sandbox. Slow adoption costs you the edge.",
+      "visual_hint": "Money stacks with clock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money stacks"
+    },
+    {
+      "hook": "Your AI pilot is stuck?",
+      "description": "Endless pilots fail to scale. The bottleneck isn't tech—it's moving from proof to production. Break the cycle.",
+      "visual_hint": "Sandbox with tiny robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sandbox toy",
+      "image": "https://images.pexels.com/photos/16940343/pexels-photo-16940343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Buy AI, skip building it",
+      "description": "Now you can get AI as a service—no in-house team needed. Power shifts from builders to fast deployers.",
+      "visual_hint": "Magnifying glass over gears",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass gears",
+      "image": "https://images.pexels.com/photos/8327865/pexels-photo-8327865.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors are testing already",
+      "description": "They're testing one legacy workflow now. If you wait, they own the learning curve and the efficiency edge.",
+      "visual_hint": "Tug-of-war with robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "tug of war",
+      "image": "https://images.pexels.com/photos/18681768/pexels-photo-18681768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Test one workflow.",
+      "description": "Pick one legacy workflow and test AI on it this week—before rivals do. Comment 'READY' for a checklist.",
+      "visual_hint": "Finger on a glowing button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger button",
+      "image": "https://images.pexels.com/photos/37157631/pexels-photo-37157631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
+  "savedAt": "2026-08-12T20:35:25.823Z",
+  "sourceId": "2fd40c918be855216ae767e5bb820dfe"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "twitch-streamers-can-now-opt-out-from-training-ama",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Twitch streamers can now opt out from training Amazon’s AI",
+  "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+  "pubDate": "2026-08-12T17:29:10.000Z",
+  "slides": [
+    "Can Twitch streamers still trust Amazon?",
+    "New opt-out lets creators block AI training.",
+    "But Amazon already trained models on past streams.",
+    "Your past content may have permanently shaped AI.",
+    "Decide now: opt out before future streams."
+  ],
+  "thread_text": [
+    "1. Your past is already in AI\n\nTwitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+    "2. Opt-out is a door, not a time machine\n\nIt blocks future training only. Past data? Already in the model. No recall button exists.",
+    "3. The catch: you must act now\n\nIf you don't opt out before your next stream, that new content joins the pile. Every stream is a decision.",
+    "4. Amazon's silence is strategic\n\nThey didn't announce this loudly. The default is still permission. They're betting you'll forget.",
+    "5. Check your settings today\n\nGo to Twitch settings and find the AI training toggle. If it's not there, ask support why. Your next stream is a vote."
+  ],
+  "video_script": [
+    "Your old streams trained AI without asking.",
+    "New opt-out only helps future content.",
+    "Past streams are already in the model.",
+    "Act now or your next stream is used.",
+    "Check Twitch settings and opt out today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your past is already in AI\n\nTwitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+        "2. Opt-out is a door, not a time machine\n\nIt blocks future training only. Past data? Already in the model. No recall button exists.",
+        "3. The catch: you must act now\n\nIf you don't opt out before your next stream, that new content joins the pile. Every stream is a decision.",
+        "4. Amazon's silence is strategic\n\nThey didn't announce this loudly. The default is still permission. They're betting you'll forget.",
+        "5. Check your settings today\n\nGo to Twitch settings and find the AI training toggle. If it's not there, ask support why. Your next stream is a vote."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your old streams trained AI without asking.",
+        "New opt-out only helps future content.",
+        "Past streams are already in the model.",
+        "Act now or your next stream is used.",
+        "Check Twitch settings and opt out today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your old Twitch streams are already inside Amazon’s AI models. The new opt-out only stops future training. Past broadcasts can’t be un-learned. 🎮\n\nThe change hides in your settings as a toggle. Turn it off before your next stream, or that new content gets absorbed too. Amazon didn’t announce this loudly—they’re counting on you missing it. ⚙️\n\nFor creators, this means every stream you go live is a silent permission slip. Your voice, your gameplay, your commentary—all grist for the machine. 🖥️\n\nCheck your Twitch settings right now for the AI training switch. If you don’t see it, ask support why. Will your next stream be another data point? 🤔"
+    }
+  },
+  "instagram_caption": "Your old Twitch streams are already inside Amazon’s AI models. The new opt-out only stops future training. Past broadcasts can’t be un-learned. 🎮\n\nThe change hides in your settings as a toggle. Turn it off before your next stream, or that new content gets absorbed too. Amazon didn’t announce this loudly—they’re counting on you missing it. ⚙️\n\nFor creators, this means every stream you go live is a silent permission slip. Your voice, your gameplay, your commentary—all grist for the machine. 🖥️\n\nCheck your Twitch settings right now for the AI training switch. If you don’t see it, ask support why. Will your next stream be another data point? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your past is already in AI",
+      "description": "Twitch's new opt-out doesn't undo what Amazon already used. Your old streams may have shaped AI forever.",
+      "visual_hint": "Old streams feeding a machine",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Opt-out is a door, not a time machine",
+      "description": "It blocks future training only. Past data? Already in the model. No recall button exists.",
+      "visual_hint": "A door with no return",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "closed door",
+      "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You must act before your next stream",
+      "description": "If you don't opt out now, that new content joins the pile. Every stream becomes a decision.",
+      "visual_hint": "A timer counting down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "timer clock",
+      "image": "https://images.pexels.com/photos/8113753/pexels-photo-8113753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Amazon's silence is strategic",
+      "description": "They didn't announce this loudly. The default remains permission. They're betting you'll forget.",
+      "visual_hint": "Silent corporate building",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your settings today",
+      "description": "Go to Twitch settings and find the AI training toggle. If missing, ask support why. Your next stream is a vote.",
+      "visual_hint": "Settings gear icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "settings gear",
+      "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-12T20:35:37.421Z",
+  "sourceId": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33"
+}
