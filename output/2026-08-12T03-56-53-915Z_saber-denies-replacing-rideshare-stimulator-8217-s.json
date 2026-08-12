@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "saber-denies-replacing-rideshare-stimulator-8217-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+  "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+  "pubDate": "2026-08-12T00:39:26.000Z",
+  "slides": [
+    "Saber denies replacing writers, but why the silence?",
+    "Rideshare Stimulator's script files show odd patterns now.",
+    "ChatGPT logs surfaced, allegedly matching recent dialogue updates.",
+    "Developers say humans still edit every final story draft.",
+    "Audit one quest's dialogue: compare it with AI output."
+  ],
+  "thread_text": [
+    "1. Denied, but silent\n\nSaber says no replacement, yet no public statement from the writers' union. Silence reads as a confirmation.",
+    "2. Odd patterns in code\n\nRideshare Stimulator's scripts now contain repetitive loops that mimic AI-generated dialogue. Developers claim it's a coincidence.",
+    "3. ChatGPT logs surfaced\n\nLeaked logs allegedly match the recent dialogue updates in the game. The timestamps align with the change.",
+    "4. Humans still edit\n\nEach final draft passes through human editors, they insist. But the drafts are already written—by whom?",
+    "5. Audit a quest yourself\n\nPick any quest, run the dialogue through a free AI detector. Compare the flagged lines with the update logs. Do you trust the result?"
+  ],
+  "video_script": [
+    "Saber denies replacing writers, but silence speaks louder.",
+    "Odd code patterns in Rideshare Stimulator's scripts.",
+    "Leaked ChatGPT logs match recent game dialogue.",
+    "Editors still review, but who writes first draft?",
+    "Audit one quest, check for AI patterns yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Denied, but silent\n\nSaber says no replacement, yet no public statement from the writers' union. Silence reads as a confirmation.",
+        "2. Odd patterns in code\n\nRideshare Stimulator's scripts now contain repetitive loops that mimic AI-generated dialogue. Developers claim it's a coincidence.",
+        "3. ChatGPT logs surfaced\n\nLeaked logs allegedly match the recent dialogue updates in the game. The timestamps align with the change.",
+        "4. Humans still edit\n\nEach final draft passes through human editors, they insist. But the drafts are already written—by whom?",
+        "5. Audit a quest yourself\n\nPick any quest, run the dialogue through a free AI detector. Compare the flagged lines with the update logs. Do you trust the result?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Saber denies replacing writers, but silence speaks louder.",
+        "Odd code patterns in Rideshare Stimulator's scripts.",
+        "Leaked ChatGPT logs match recent game dialogue.",
+        "Editors still review, but who writes first draft?",
+        "Audit one quest, check for AI patterns yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "Rideshare Stimulator’s script files now show repetitive loops that match ChatGPT’s writing patterns, and leaked logs line up with the exact timestamps of the last dialogue update.  \n\nSaber says no writers were replaced, but the writers’ union hasn’t issued a single public statement. The company insists humans still edit every final draft—but the question is who writes the first draft now.  \n\nIf you script dialogue, quests, or any narrative content, this is the difference between being edited and being replaced. Your “editing” job is only safe while the AI output still needs fixing.  \n\nPick one quest from the game, run its dialogue through a free AI detector, and compare the flagged lines with the update logs. Do you trust what you find? 🤖📝🔍"
+    }
+  },
+  "instagram_caption": "Rideshare Stimulator’s script files now show repetitive loops that match ChatGPT’s writing patterns, and leaked logs line up with the exact timestamps of the last dialogue update.  \n\nSaber says no writers were replaced, but the writers’ union hasn’t issued a single public statement. The company insists humans still edit every final draft—but the question is who writes the first draft now.  \n\nIf you script dialogue, quests, or any narrative content, this is the difference between being edited and being replaced. Your “editing” job is only safe while the AI output still needs fixing.  \n\nPick one quest from the game, run its dialogue through a free AI detector, and compare the flagged lines with the update logs. Do you trust what you find? 🤖📝🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who's really writing the dialogue?",
+      "description": "Saber denies AI replacement, yet no union statement exists. Silence from writers fuels suspicion of ChatGPT involvement.",
+      "visual_hint": "Silhouette with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "silhouette question mark"
+    },
+    {
+      "hook": "Repetitive loops in game scripts",
+      "description": "Rideshare Stimulator's code now shows repetitive patterns typical of AI-generated text. Developers claim coincidence, but patterns persist.",
+      "visual_hint": "Code with highlighted loops",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "code on screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Leaked ChatGPT logs align exactly",
+      "description": "Leaked logs match recent dialogue updates, with timestamps aligning perfectly. Evidence points to AI authorship behind the scenes.",
+      "visual_hint": "Leaked document with timestamps",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "printed document",
+      "image": "https://images.pexels.com/photos/7821581/pexels-photo-7821581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Humans edit, but who drafts?",
+      "description": "Developers insist final drafts pass through human editors. Yet the initial drafts are already written—by human or machine?",
+      "visual_hint": "Human hand with pen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "human hand writing",
+      "image": "https://images.pexels.com/photos/7756694/pexels-photo-7756694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — audit a quest yourself",
+      "description": "Pick any quest and run its dialogue through an AI detector. Compare flagged lines with update logs and judge for yourself.",
+      "visual_hint": "Finger tapping save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-08-12T03:57:05.427Z",
+  "sourceId": "7700ad67b4c00a7efab1d44a908b71bf"
+}

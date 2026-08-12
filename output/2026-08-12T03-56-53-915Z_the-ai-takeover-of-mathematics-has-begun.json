@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-takeover-of-mathematics-has-begun",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI takeover of mathematics has begun",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+  "pubDate": "2026-08-11T11:00:00.000Z",
+  "slides": [
+    "Can AI prove theorems humans can't even follow?",
+    "DeepMind's AlphaProof just cracked an Olympiad problem.",
+    "It found a proof pattern never seen in 50 years.",
+    "Your math homework is already obsolete, not just graded.",
+    "Tonight: ask an AI to solve one unsolved problem."
+  ],
+  "thread_text": [
+    "1. The 50-year gap\n\nDeepMind's AlphaProof found a proof pattern for an Olympiad problem that has never been seen in five decades of mathematical literature.\n\n2. Beyond human reasoning\n\nThe proof is so unconventional that even expert mathematicians struggle to follow its steps, raising questions about the nature of mathematical truth.\n\n3. The classroom impact\n\nWith AI able to generate such proofs, your math homework isn't just auto-graded—it's already obsolete as a measure of understanding.\n\n4. The next frontier\n\nAlphaProof's success suggests AI could tackle unsolved problems that have stumped humans for centuries.\n\n5. Your move\n\nTonight, ask an AI to solve one unsolved problem in your field. What happens when the answer arrives?"
+  ],
+  "video_script": [
+    "AI proved an Olympiad problem, shocking mathematicians.",
+    "Its proof pattern is new after 50 years.",
+    "Humans can't even follow the logic.",
+    "Your math homework is now obsolete, not graded.",
+    "Tonight, ask AI to solve an unsolved problem."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 50-year gap\n\nDeepMind's AlphaProof found a proof pattern for an Olympiad problem that has never been seen in five decades of mathematical literature.\n\n2. Beyond human reasoning\n\nThe proof is so unconventional that even expert mathematicians struggle to follow its steps, raising questions about the nature of mathematical truth.\n\n3. The classroom impact\n\nWith AI able to generate such proofs, your math homework isn't just auto-graded—it's already obsolete as a measure of understanding.\n\n4. The next frontier\n\nAlphaProof's success suggests AI could tackle unsolved problems that have stumped humans for centuries.\n\n5. Your move\n\nTonight, ask an AI to solve one unsolved problem in your field. What happens when the answer arrives?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI proved an Olympiad problem, shocking mathematicians.",
+        "Its proof pattern is new after 50 years.",
+        "Humans can't even follow the logic.",
+        "Your math homework is now obsolete, not graded.",
+        "Tonight, ask AI to solve an unsolved problem."
+      ]
+    },
+    "instagram": {
+      "caption": "A proof pattern just surfaced in an Olympiad problem that nobody had seen in 50 years of mathematical literature — and it came from a machine, not a human mind. 🧠\n\nDeepMind's AlphaProof solved a problem in a way so unconventional that expert mathematicians struggle to follow its steps. This isn't about grading homework faster. It's about a system producing reasoning that doesn't map onto how we think.\n\nFor anyone who writes proofs, explains logic, or teaches math: your output is no longer the only valid path to an answer. The measure of understanding shifts from \"can you solve it\" to \"can you judge a solution you didn't design?\"\n\nWhich would you trust first — a proof you can't verify, or a failure you can't explain? ⚖️"
+    }
+  },
+  "instagram_caption": "A proof pattern just surfaced in an Olympiad problem that nobody had seen in 50 years of mathematical literature — and it came from a machine, not a human mind. 🧠\n\nDeepMind's AlphaProof solved a problem in a way so unconventional that expert mathematicians struggle to follow its steps. This isn't about grading homework faster. It's about a system producing reasoning that doesn't map onto how we think.\n\nFor anyone who writes proofs, explains logic, or teaches math: your output is no longer the only valid path to an answer. The measure of understanding shifts from \"can you solve it\" to \"can you judge a solution you didn't design?\"\n\nWhich would you trust first — a proof you can't verify, or a failure you can't explain? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "Can AI prove what humans can't follow?",
+      "description": "AlphaProof’s proof pattern for an Olympiad problem is unlike anything in 50 years of math literature. Experts struggle to even verify it.",
+      "visual_hint": "AI brain with math symbols",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "abstract mathematics visualization"
+    },
+    {
+      "hook": "Beyond human reasoning",
+      "description": "The proof is so unconventional that mathematicians are questioning what counts as truth. Is math changing forever?",
+      "visual_hint": "Path diverging from human trail",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "divergent mathematical path",
+      "image": "https://images.pexels.com/photos/6325944/pexels-photo-6325944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your math homework is already obsolete",
+      "description": "Homework now tests obedience, not understanding. AI can solve it instantly, making it meaningless as a learning tool.",
+      "visual_hint": "Paper turning to digital code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "digital code on paper",
+      "image": "https://images.pexels.com/photos/8830698/pexels-photo-8830698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI could crack centuries-old problems",
+      "description": "AlphaProof’s success suggests AI could tackle unsolved problems that stumped humans for centuries. What’s next?",
+      "visual_hint": "Hand touching glowing question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "glowing question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it tonight: ask an AI to solve",
+      "description": "Pick one unsolved problem in your field and ask an AI to solve it. See what happens when the answer arrives.",
+      "visual_hint": "Phone with AI chat open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone AI chat",
+      "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-12T03:57:28.654Z",
+  "sourceId": "8a7d5b391d35ec2377de588fc8b1b355"
+}

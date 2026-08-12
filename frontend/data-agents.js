@@ -3,6 +3,310 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "the-ai-takeover-of-mathematics-has-begun",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI takeover of mathematics has begun",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "pubDate": "2026-08-11T11:00:00.000Z",
+      "slides": [
+        "Can AI prove theorems humans can't even follow?",
+        "DeepMind's AlphaProof just cracked an Olympiad problem.",
+        "It found a proof pattern never seen in 50 years.",
+        "Your math homework is already obsolete, not just graded.",
+        "Tonight: ask an AI to solve one unsolved problem."
+      ],
+      "thread_text": [
+        "1. The 50-year gap\n\nDeepMind's AlphaProof found a proof pattern for an Olympiad problem that has never been seen in five decades of mathematical literature.\n\n2. Beyond human reasoning\n\nThe proof is so unconventional that even expert mathematicians struggle to follow its steps, raising questions about the nature of mathematical truth.\n\n3. The classroom impact\n\nWith AI able to generate such proofs, your math homework isn't just auto-graded—it's already obsolete as a measure of understanding.\n\n4. The next frontier\n\nAlphaProof's success suggests AI could tackle unsolved problems that have stumped humans for centuries.\n\n5. Your move\n\nTonight, ask an AI to solve one unsolved problem in your field. What happens when the answer arrives?"
+      ],
+      "video_script": [
+        "AI proved an Olympiad problem, shocking mathematicians.",
+        "Its proof pattern is new after 50 years.",
+        "Humans can't even follow the logic.",
+        "Your math homework is now obsolete, not graded.",
+        "Tonight, ask AI to solve an unsolved problem."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 50-year gap\n\nDeepMind's AlphaProof found a proof pattern for an Olympiad problem that has never been seen in five decades of mathematical literature.\n\n2. Beyond human reasoning\n\nThe proof is so unconventional that even expert mathematicians struggle to follow its steps, raising questions about the nature of mathematical truth.\n\n3. The classroom impact\n\nWith AI able to generate such proofs, your math homework isn't just auto-graded—it's already obsolete as a measure of understanding.\n\n4. The next frontier\n\nAlphaProof's success suggests AI could tackle unsolved problems that have stumped humans for centuries.\n\n5. Your move\n\nTonight, ask an AI to solve one unsolved problem in your field. What happens when the answer arrives?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI proved an Olympiad problem, shocking mathematicians.",
+            "Its proof pattern is new after 50 years.",
+            "Humans can't even follow the logic.",
+            "Your math homework is now obsolete, not graded.",
+            "Tonight, ask AI to solve an unsolved problem."
+          ]
+        },
+        "instagram": {
+          "caption": "A proof pattern just surfaced in an Olympiad problem that nobody had seen in 50 years of mathematical literature — and it came from a machine, not a human mind. 🧠\n\nDeepMind's AlphaProof solved a problem in a way so unconventional that expert mathematicians struggle to follow its steps. This isn't about grading homework faster. It's about a system producing reasoning that doesn't map onto how we think.\n\nFor anyone who writes proofs, explains logic, or teaches math: your output is no longer the only valid path to an answer. The measure of understanding shifts from \"can you solve it\" to \"can you judge a solution you didn't design?\"\n\nWhich would you trust first — a proof you can't verify, or a failure you can't explain? ⚖️"
+        }
+      },
+      "instagram_caption": "A proof pattern just surfaced in an Olympiad problem that nobody had seen in 50 years of mathematical literature — and it came from a machine, not a human mind. 🧠\n\nDeepMind's AlphaProof solved a problem in a way so unconventional that expert mathematicians struggle to follow its steps. This isn't about grading homework faster. It's about a system producing reasoning that doesn't map onto how we think.\n\nFor anyone who writes proofs, explains logic, or teaches math: your output is no longer the only valid path to an answer. The measure of understanding shifts from \"can you solve it\" to \"can you judge a solution you didn't design?\"\n\nWhich would you trust first — a proof you can't verify, or a failure you can't explain? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Can AI prove what humans can't follow?",
+          "description": "AlphaProof’s proof pattern for an Olympiad problem is unlike anything in 50 years of math literature. Experts struggle to even verify it.",
+          "visual_hint": "AI brain with math symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "abstract mathematics visualization"
+        },
+        {
+          "hook": "Beyond human reasoning",
+          "description": "The proof is so unconventional that mathematicians are questioning what counts as truth. Is math changing forever?",
+          "visual_hint": "Path diverging from human trail",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "divergent mathematical path",
+          "image": "https://images.pexels.com/photos/6325944/pexels-photo-6325944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your math homework is already obsolete",
+          "description": "Homework now tests obedience, not understanding. AI can solve it instantly, making it meaningless as a learning tool.",
+          "visual_hint": "Paper turning to digital code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "digital code on paper",
+          "image": "https://images.pexels.com/photos/8830698/pexels-photo-8830698.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI could crack centuries-old problems",
+          "description": "AlphaProof’s success suggests AI could tackle unsolved problems that stumped humans for centuries. What’s next?",
+          "visual_hint": "Hand touching glowing question mark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "glowing question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it tonight: ask an AI to solve",
+          "description": "Pick one unsolved problem in your field and ask an AI to solve it. See what happens when the answer arrives.",
+          "visual_hint": "Phone with AI chat open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone AI chat",
+          "image": "https://images.pexels.com/photos/30530421/pexels-photo-30530421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-12T03:57:28.654Z",
+      "sourceId": "8a7d5b391d35ec2377de588fc8b1b355"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-your-amazon-order-confirmation-emails-have-bec",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "pubDate": "2026-08-11T13:27:20.000Z",
+      "slides": [
+        "Why did your last Amazon confirmation omit the delivery date?",
+        "A 2023 policy shift altered order email content.",
+        "They now prioritize ads over essential tracking information.",
+        "You must open the app or website to find arrival dates.",
+        "Stop skimming emails; check your orders directly."
+      ],
+      "thread_text": [
+        "1. Your order email is lying\n\nAmazon removed delivery dates from confirmations in 2023. Now they only show when the order was placed, not when it arrives.",
+        "2. The policy nobody noticed\n\nThe shift to omit dates happened quietly. They prioritized ad space over essential tracking info in emails you skim daily.",
+        "3. They force you into the app\n\nTo see arrival dates now, you must open the app or website. This increases engagement, not your convenience.",
+        "4. Your inbox lost its purpose\n\nOrder emails became marketing pieces. That's why the date is missing — they want clicks, not clarity.",
+        "5. Check directly, don't skim\n\nStop trusting email summaries. Open the app and verify delivery there. It's the only way to know what's coming."
+      ],
+      "video_script": [
+        "Amazon hid your delivery date. Check the app instead.",
+        "2023 policy removed dates from order emails. They prioritize ads.",
+        "Your email now shows no arrival. The app has it.",
+        "Stop skimming. Open the app for real dates.",
+        "Check orders directly. Don't rely on email."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your order email is lying\n\nAmazon removed delivery dates from confirmations in 2023. Now they only show when the order was placed, not when it arrives.",
+            "2. The policy nobody noticed\n\nThe shift to omit dates happened quietly. They prioritized ad space over essential tracking info in emails you skim daily.",
+            "3. They force you into the app\n\nTo see arrival dates now, you must open the app or website. This increases engagement, not your convenience.",
+            "4. Your inbox lost its purpose\n\nOrder emails became marketing pieces. That's why the date is missing — they want clicks, not clarity.",
+            "5. Check directly, don't skim\n\nStop trusting email summaries. Open the app and verify delivery there. It's the only way to know what's coming."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Amazon hid your delivery date. Check the app instead.",
+            "2023 policy removed dates from order emails. They prioritize ads.",
+            "Your email now shows no arrival. The app has it.",
+            "Stop skimming. Open the app for real dates.",
+            "Check orders directly. Don't rely on email."
+          ]
+        },
+        "instagram": {
+          "caption": "Your last Amazon order confirmation didn’t include a delivery date—and that’s not a glitch. 📦\n\nIn 2023, Amazon quietly stripped arrival dates out of order emails. What’s left is a marketing push, not a tracking update. They swapped essential info for ad space, betting you’ll click through instead of getting answers at a glance.\n\nNow, to find out when something ships, you have to open the app or site. That’s extra steps for you, and extra engagement for them.\n\nIf you publish content, this is the playbook: bury the key detail, force the click, measure the visit. 🖱️\n\nWhen did you last trust an email summary—and get burned? ⏳"
+        }
+      },
+      "instagram_caption": "Your last Amazon order confirmation didn’t include a delivery date—and that’s not a glitch. 📦\n\nIn 2023, Amazon quietly stripped arrival dates out of order emails. What’s left is a marketing push, not a tracking update. They swapped essential info for ad space, betting you’ll click through instead of getting answers at a glance.\n\nNow, to find out when something ships, you have to open the app or site. That’s extra steps for you, and extra engagement for them.\n\nIf you publish content, this is the playbook: bury the key detail, force the click, measure the visit. 🖱️\n\nWhen did you last trust an email summary—and get burned? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Your order email is lying to you",
+          "description": "Amazon removed delivery dates from confirmations in 2023. You only see when ordered, not when it arrives, breaking trust.",
+          "visual_hint": "Envelope with question mark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "email envelope icon"
+        },
+        {
+          "hook": "The policy nobody noticed",
+          "description": "Quietly, Amazon sacrificed essential tracking info for ad space. Your daily skim now misses crucial delivery updates.",
+          "visual_hint": "Magnifying glass over email",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "They force you into the app",
+          "description": "To see arrival dates, you must open the app or website. This boosts their engagement, not your convenience.",
+          "visual_hint": "Phone screen with app icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone hand holding",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your inbox lost its purpose",
+          "description": "Order emails are now marketing pieces. The missing date is intentional—they want clicks, not clarity.",
+          "visual_hint": "Mailbox with ads spilling",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mailbox with letters",
+          "image": "https://images.pexels.com/photos/32540355/pexels-photo-32540355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop skimming—check your orders directly",
+          "description": "Open the Amazon app or website now. Verify your delivery date there. It's the only reliable way to know.",
+          "visual_hint": "Hand tapping app icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand touching smartphone",
+          "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&amp;strip=all&amp;crop=0,9.5560437679216,100,80.887912464157",
+      "savedAt": "2026-08-12T03:57:17.145Z",
+      "sourceId": "aca3d33a076870f19db69543e72f1c4d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "saber-denies-replacing-rideshare-stimulator-8217-s",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "pubDate": "2026-08-12T00:39:26.000Z",
+      "slides": [
+        "Saber denies replacing writers, but why the silence?",
+        "Rideshare Stimulator's script files show odd patterns now.",
+        "ChatGPT logs surfaced, allegedly matching recent dialogue updates.",
+        "Developers say humans still edit every final story draft.",
+        "Audit one quest's dialogue: compare it with AI output."
+      ],
+      "thread_text": [
+        "1. Denied, but silent\n\nSaber says no replacement, yet no public statement from the writers' union. Silence reads as a confirmation.",
+        "2. Odd patterns in code\n\nRideshare Stimulator's scripts now contain repetitive loops that mimic AI-generated dialogue. Developers claim it's a coincidence.",
+        "3. ChatGPT logs surfaced\n\nLeaked logs allegedly match the recent dialogue updates in the game. The timestamps align with the change.",
+        "4. Humans still edit\n\nEach final draft passes through human editors, they insist. But the drafts are already written—by whom?",
+        "5. Audit a quest yourself\n\nPick any quest, run the dialogue through a free AI detector. Compare the flagged lines with the update logs. Do you trust the result?"
+      ],
+      "video_script": [
+        "Saber denies replacing writers, but silence speaks louder.",
+        "Odd code patterns in Rideshare Stimulator's scripts.",
+        "Leaked ChatGPT logs match recent game dialogue.",
+        "Editors still review, but who writes first draft?",
+        "Audit one quest, check for AI patterns yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Denied, but silent\n\nSaber says no replacement, yet no public statement from the writers' union. Silence reads as a confirmation.",
+            "2. Odd patterns in code\n\nRideshare Stimulator's scripts now contain repetitive loops that mimic AI-generated dialogue. Developers claim it's a coincidence.",
+            "3. ChatGPT logs surfaced\n\nLeaked logs allegedly match the recent dialogue updates in the game. The timestamps align with the change.",
+            "4. Humans still edit\n\nEach final draft passes through human editors, they insist. But the drafts are already written—by whom?",
+            "5. Audit a quest yourself\n\nPick any quest, run the dialogue through a free AI detector. Compare the flagged lines with the update logs. Do you trust the result?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Saber denies replacing writers, but silence speaks louder.",
+            "Odd code patterns in Rideshare Stimulator's scripts.",
+            "Leaked ChatGPT logs match recent game dialogue.",
+            "Editors still review, but who writes first draft?",
+            "Audit one quest, check for AI patterns yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "Rideshare Stimulator’s script files now show repetitive loops that match ChatGPT’s writing patterns, and leaked logs line up with the exact timestamps of the last dialogue update.  \n\nSaber says no writers were replaced, but the writers’ union hasn’t issued a single public statement. The company insists humans still edit every final draft—but the question is who writes the first draft now.  \n\nIf you script dialogue, quests, or any narrative content, this is the difference between being edited and being replaced. Your “editing” job is only safe while the AI output still needs fixing.  \n\nPick one quest from the game, run its dialogue through a free AI detector, and compare the flagged lines with the update logs. Do you trust what you find? 🤖📝🔍"
+        }
+      },
+      "instagram_caption": "Rideshare Stimulator’s script files now show repetitive loops that match ChatGPT’s writing patterns, and leaked logs line up with the exact timestamps of the last dialogue update.  \n\nSaber says no writers were replaced, but the writers’ union hasn’t issued a single public statement. The company insists humans still edit every final draft—but the question is who writes the first draft now.  \n\nIf you script dialogue, quests, or any narrative content, this is the difference between being edited and being replaced. Your “editing” job is only safe while the AI output still needs fixing.  \n\nPick one quest from the game, run its dialogue through a free AI detector, and compare the flagged lines with the update logs. Do you trust what you find? 🤖📝🔍",
+      "carousel_slides": [
+        {
+          "hook": "Who's really writing the dialogue?",
+          "description": "Saber denies AI replacement, yet no union statement exists. Silence from writers fuels suspicion of ChatGPT involvement.",
+          "visual_hint": "Silhouette with question mark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "silhouette question mark"
+        },
+        {
+          "hook": "Repetitive loops in game scripts",
+          "description": "Rideshare Stimulator's code now shows repetitive patterns typical of AI-generated text. Developers claim coincidence, but patterns persist.",
+          "visual_hint": "Code with highlighted loops",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "code on screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Leaked ChatGPT logs align exactly",
+          "description": "Leaked logs match recent dialogue updates, with timestamps aligning perfectly. Evidence points to AI authorship behind the scenes.",
+          "visual_hint": "Leaked document with timestamps",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "printed document",
+          "image": "https://images.pexels.com/photos/7821581/pexels-photo-7821581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Humans edit, but who drafts?",
+          "description": "Developers insist final drafts pass through human editors. Yet the initial drafts are already written—by human or machine?",
+          "visual_hint": "Human hand with pen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "human hand writing",
+          "image": "https://images.pexels.com/photos/7756694/pexels-photo-7756694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — audit a quest yourself",
+          "description": "Pick any quest and run its dialogue through an AI detector. Compare flagged lines with update logs and judge for yourself.",
+          "visual_hint": "Finger tapping save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone with app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-08-12T03:57:05.427Z",
+      "sourceId": "7700ad67b4c00a7efab1d44a908b71bf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "claude-will-apply-invisible-watermarks-to-ai-text-",
       "prompt_version": "1.0.0",
       "status": "published",

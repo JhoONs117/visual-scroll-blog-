@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-your-amazon-order-confirmation-emails-have-bec",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why your Amazon order confirmation emails have become so unhelpful",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+  "pubDate": "2026-08-11T13:27:20.000Z",
+  "slides": [
+    "Why did your last Amazon confirmation omit the delivery date?",
+    "A 2023 policy shift altered order email content.",
+    "They now prioritize ads over essential tracking information.",
+    "You must open the app or website to find arrival dates.",
+    "Stop skimming emails; check your orders directly."
+  ],
+  "thread_text": [
+    "1. Your order email is lying\n\nAmazon removed delivery dates from confirmations in 2023. Now they only show when the order was placed, not when it arrives.",
+    "2. The policy nobody noticed\n\nThe shift to omit dates happened quietly. They prioritized ad space over essential tracking info in emails you skim daily.",
+    "3. They force you into the app\n\nTo see arrival dates now, you must open the app or website. This increases engagement, not your convenience.",
+    "4. Your inbox lost its purpose\n\nOrder emails became marketing pieces. That's why the date is missing — they want clicks, not clarity.",
+    "5. Check directly, don't skim\n\nStop trusting email summaries. Open the app and verify delivery there. It's the only way to know what's coming."
+  ],
+  "video_script": [
+    "Amazon hid your delivery date. Check the app instead.",
+    "2023 policy removed dates from order emails. They prioritize ads.",
+    "Your email now shows no arrival. The app has it.",
+    "Stop skimming. Open the app for real dates.",
+    "Check orders directly. Don't rely on email."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your order email is lying\n\nAmazon removed delivery dates from confirmations in 2023. Now they only show when the order was placed, not when it arrives.",
+        "2. The policy nobody noticed\n\nThe shift to omit dates happened quietly. They prioritized ad space over essential tracking info in emails you skim daily.",
+        "3. They force you into the app\n\nTo see arrival dates now, you must open the app or website. This increases engagement, not your convenience.",
+        "4. Your inbox lost its purpose\n\nOrder emails became marketing pieces. That's why the date is missing — they want clicks, not clarity.",
+        "5. Check directly, don't skim\n\nStop trusting email summaries. Open the app and verify delivery there. It's the only way to know what's coming."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon hid your delivery date. Check the app instead.",
+        "2023 policy removed dates from order emails. They prioritize ads.",
+        "Your email now shows no arrival. The app has it.",
+        "Stop skimming. Open the app for real dates.",
+        "Check orders directly. Don't rely on email."
+      ]
+    },
+    "instagram": {
+      "caption": "Your last Amazon order confirmation didn’t include a delivery date—and that’s not a glitch. 📦\n\nIn 2023, Amazon quietly stripped arrival dates out of order emails. What’s left is a marketing push, not a tracking update. They swapped essential info for ad space, betting you’ll click through instead of getting answers at a glance.\n\nNow, to find out when something ships, you have to open the app or site. That’s extra steps for you, and extra engagement for them.\n\nIf you publish content, this is the playbook: bury the key detail, force the click, measure the visit. 🖱️\n\nWhen did you last trust an email summary—and get burned? ⏳"
+    }
+  },
+  "instagram_caption": "Your last Amazon order confirmation didn’t include a delivery date—and that’s not a glitch. 📦\n\nIn 2023, Amazon quietly stripped arrival dates out of order emails. What’s left is a marketing push, not a tracking update. They swapped essential info for ad space, betting you’ll click through instead of getting answers at a glance.\n\nNow, to find out when something ships, you have to open the app or site. That’s extra steps for you, and extra engagement for them.\n\nIf you publish content, this is the playbook: bury the key detail, force the click, measure the visit. 🖱️\n\nWhen did you last trust an email summary—and get burned? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your order email is lying to you",
+      "description": "Amazon removed delivery dates from confirmations in 2023. You only see when ordered, not when it arrives, breaking trust.",
+      "visual_hint": "Envelope with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email envelope icon"
+    },
+    {
+      "hook": "The policy nobody noticed",
+      "description": "Quietly, Amazon sacrificed essential tracking info for ad space. Your daily skim now misses crucial delivery updates.",
+      "visual_hint": "Magnifying glass over email",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They force you into the app",
+      "description": "To see arrival dates, you must open the app or website. This boosts their engagement, not your convenience.",
+      "visual_hint": "Phone screen with app icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone hand holding",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your inbox lost its purpose",
+      "description": "Order emails are now marketing pieces. The missing date is intentional—they want clicks, not clarity.",
+      "visual_hint": "Mailbox with ads spilling",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mailbox with letters",
+      "image": "https://images.pexels.com/photos/32540355/pexels-photo-32540355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop skimming—check your orders directly",
+      "description": "Open the Amazon app or website now. Verify your delivery date there. It's the only reliable way to know.",
+      "visual_hint": "Hand tapping app icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand touching smartphone",
+      "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&amp;strip=all&amp;crop=0,9.5560437679216,100,80.887912464157",
+  "savedAt": "2026-08-12T03:57:17.145Z",
+  "sourceId": "aca3d33a076870f19db69543e72f1c4d"
+}
