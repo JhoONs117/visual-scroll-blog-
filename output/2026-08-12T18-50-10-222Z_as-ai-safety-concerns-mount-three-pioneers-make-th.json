@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-ai-safety-concerns-mount-three-pioneers-make-th",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+  "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+  "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+  "slides": [
+    "Who dares stay open when AI turns dangerous?",
+    "Three AI pioneers just argued against secrecy.",
+    "Even they admit openness fuels catastrophic misuse.",
+    "Their proposed safeguards shift how we build AI.",
+    "Test their framework before dismissing openness entirely."
+  ],
+  "thread_text": [
+    "1. The risk they hide\n\nThree AI pioneers just admitted that openness could fuel catastrophic misuse, yet they still argue against secrecy. The tension is real: safety versus transparency.",
+    "2. Why they changed\n\nThese same researchers once championed open research. Now they propose safeguards that would shift how AI is built — gating access, monitoring use. The pivot is stark.",
+    "3. The dangerous test\n\nThe real twist: their proposed framework isn't proven. It's a hypothesis. If it fails, the very openness they defend becomes a weapon. The stakes are existential.",
+    "4. A concrete step\n\nBefore dismissing their plan, test it. Take a sensitive prompt and run it through an open model. Can you simulate misuse? That's one way to judge their safeguards.",
+    "5. Your move now\n\nWill you trust their judgment or demand proof? Next time you use an open AI, ask: could this be turned against us? Then decide where you stand on secrecy."
+  ],
+  "video_script": [
+    "AI pioneers admit openness fuels catastrophic misuse.",
+    "They argue against secrecy, but propose safeguards.",
+    "These safeguards shift how AI gets built.",
+    "Test their framework before dismissing openness.",
+    "Will you trust them or demand proof?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The risk they hide\n\nThree AI pioneers just admitted that openness could fuel catastrophic misuse, yet they still argue against secrecy. The tension is real: safety versus transparency.",
+        "2. Why they changed\n\nThese same researchers once championed open research. Now they propose safeguards that would shift how AI is built — gating access, monitoring use. The pivot is stark.",
+        "3. The dangerous test\n\nThe real twist: their proposed framework isn't proven. It's a hypothesis. If it fails, the very openness they defend becomes a weapon. The stakes are existential.",
+        "4. A concrete step\n\nBefore dismissing their plan, test it. Take a sensitive prompt and run it through an open model. Can you simulate misuse? That's one way to judge their safeguards.",
+        "5. Your move now\n\nWill you trust their judgment or demand proof? Next time you use an open AI, ask: could this be turned against us? Then decide where you stand on secrecy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI pioneers admit openness fuels catastrophic misuse.",
+        "They argue against secrecy, but propose safeguards.",
+        "These safeguards shift how AI gets built.",
+        "Test their framework before dismissing openness.",
+        "Will you trust them or demand proof?"
+      ]
+    },
+    "instagram": {
+      "caption": "Three AI pioneers—who once championed open research—now say openness could fuel catastrophic misuse, yet they still defend it.\n\nTheir proposed fix: gate access and monitor how models are used. But it's untested, a hypothesis that could fail spectacularly. 🧪\n\nFor you building on open models, this isn't abstract. If their safeguards don't hold, your tools become the weapon. ⚠️\n\nBefore you dismiss them, take one sensitive prompt and run it through an open model. Can you simulate misuse? That test decides your stance. 🔍\n\nWill you trust their judgment or demand proof?"
+    }
+  },
+  "instagram_caption": "Three AI pioneers—who once championed open research—now say openness could fuel catastrophic misuse, yet they still defend it.\n\nTheir proposed fix: gate access and monitor how models are used. But it's untested, a hypothesis that could fail spectacularly. 🧪\n\nFor you building on open models, this isn't abstract. If their safeguards don't hold, your tools become the weapon. ⚠️\n\nBefore you dismiss them, take one sensitive prompt and run it through an open model. Can you simulate misuse? That test decides your stance. 🔍\n\nWill you trust their judgment or demand proof?",
+  "carousel_slides": [
+    {
+      "hook": "Openness could become a weapon.",
+      "description": "Three AI pioneers admitted that open models risk catastrophic misuse, yet they still oppose secrecy. Safety versus transparency is now an existential tension.",
+      "visual_hint": "Split image: open door and warning sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open door warning"
+    },
+    {
+      "hook": "Why did these researchers pivot?",
+      "description": "Once champions of open research, they now propose gating access and monitoring use. Their stark shift reveals a growing fear of misuse.",
+      "visual_hint": "Timeline arrow with lock icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "timeline arrow",
+      "image": "https://images.pexels.com/photos/33990550/pexels-photo-33990550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Their safeguard is just a hypothesis.",
+      "description": "The proposed framework is untested. If it fails, openness becomes a weapon. The stakes are existential, and proof is missing.",
+      "visual_hint": "Magnifying glass over question mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test their framework yourself.",
+      "description": "Run a sensitive prompt through an open model and simulate misuse. That practical test can reveal whether their safeguards actually hold.",
+      "visual_hint": "Hand typing on keyboard with alert icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you scroll.",
+      "description": "Next time you use an open AI, ask: could this be turned against us? Comment your verdict on secrecy versus openness.",
+      "visual_hint": "Finger pressing save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "save button",
+      "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
+  "savedAt": "2026-08-12T18:50:37.262Z",
+  "sourceId": "b77f0ff8e5502479a3562eebb6197be2"
+}

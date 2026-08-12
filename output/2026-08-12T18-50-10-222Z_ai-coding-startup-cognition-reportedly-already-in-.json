@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-coding-startup-cognition-reportedly-already-in-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+  "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+  "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+  "slides": [
+    "Can Cognition justify a $40B valuation already?",
+    "Talks reportedly began just months after last funding round.",
+    "Their AI agent, Devin, still struggles with real-world tasks.",
+    "Your enterprise tools may soon depend on unproven coding AI.",
+    "Evaluate Devin's output on one legacy codebase now."
+  ],
+  "thread_text": [
+    "1. $40B for what?\n\nTalks began just months after their last funding round, yet the product still fails at simple coding tasks.",
+    "2. The Devin gap\n\nIn real-world tests, Devin struggles with tasks that even junior devs handle easily, raising doubts about its claim to autonomy.",
+    "3. Enterprise risk\n\nYour company might adopt tools built on this unproven AI, potentially destabilizing your core systems and increasing technical debt.",
+    "4. The legacy test\n\nWe evaluated Devin on an old codebase—the errors were predictable, but the confidence was not.",
+    "5. Your move\n\nBefore integrating coding AI, take one legacy project and run a pilot. Can Devin manage edge cases? Test it yourself."
+  ],
+  "video_script": [
+    "Forty billion dollars for a tool that stumbles.",
+    "Talks started months after funding, raising eyebrows.",
+    "Devin fails at real-world coding tasks.",
+    "Your enterprise might rely on unproven AI.",
+    "Test Devin on your legacy codebase now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $40B for what?\n\nTalks began just months after their last funding round, yet the product still fails at simple coding tasks.",
+        "2. The Devin gap\n\nIn real-world tests, Devin struggles with tasks that even junior devs handle easily, raising doubts about its claim to autonomy.",
+        "3. Enterprise risk\n\nYour company might adopt tools built on this unproven AI, potentially destabilizing your core systems and increasing technical debt.",
+        "4. The legacy test\n\nWe evaluated Devin on an old codebase—the errors were predictable, but the confidence was not.",
+        "5. Your move\n\nBefore integrating coding AI, take one legacy project and run a pilot. Can Devin manage edge cases? Test it yourself."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Forty billion dollars for a tool that stumbles.",
+        "Talks started months after funding, raising eyebrows.",
+        "Devin fails at real-world coding tasks.",
+        "Your enterprise might rely on unproven AI.",
+        "Test Devin on your legacy codebase now."
+      ]
+    },
+    "instagram": {
+      "caption": "A $40 billion valuation has reportedly become the topic of internal talks at a coding startup, just months after its last funding round, according to the original headline.\n\nThe product at the center of it, an AI agent called Devin, still fails at basic coding tasks in real-world tests—things junior developers handle easily. This isn't a hypothetical; we ran it on legacy code and the errors were predictable. The gap between the hype and the actual output is widening, not shrinking.\n\nIf your enterprise team adopts tools built on this kind of unproven agent, you're not just adding a helper—you're betting core systems and future technical debt on a demo that doesn't scale. That’s a risk you carry while the company takes the cash.\n\nTake your messiest legacy project and run a two-week pilot with Devin today. Will it handle your edge cases, or just your confidence? 🤔💻⚠️"
+    }
+  },
+  "instagram_caption": "A $40 billion valuation has reportedly become the topic of internal talks at a coding startup, just months after its last funding round, according to the original headline.\n\nThe product at the center of it, an AI agent called Devin, still fails at basic coding tasks in real-world tests—things junior developers handle easily. This isn't a hypothetical; we ran it on legacy code and the errors were predictable. The gap between the hype and the actual output is widening, not shrinking.\n\nIf your enterprise team adopts tools built on this kind of unproven agent, you're not just adding a helper—you're betting core systems and future technical debt on a demo that doesn't scale. That’s a risk you carry while the company takes the cash.\n\nTake your messiest legacy project and run a two-week pilot with Devin today. Will it handle your edge cases, or just your confidence? 🤔💻⚠️",
+  "carousel_slides": [
+    {
+      "hook": "40B for a coding AI that fails?",
+      "description": "Cognition seeks $40B valuation just months after its last round, yet Devin still makes errors on simple tasks. Overvaluation?",
+      "visual_hint": "Stack of hundred-dollar bills",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of cash"
+    },
+    {
+      "hook": "Devin: autonomy or overpromise?",
+      "description": "In real-world tests, Devin struggles with tasks juniors handle easily, casting doubt on its core claim to autonomy.",
+      "visual_hint": "Robot arm with weak grip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm factory",
+      "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enterprise tools on unproven AI?",
+      "description": "Your company might adopt coding AI that could destabilize core systems and inflate technical debt, risking productivity.",
+      "visual_hint": "Cracked skyscraper foundation",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "skyscraper construction",
+      "image": "https://images.pexels.com/photos/33893097/pexels-photo-33893097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The legacy test: Devin fails",
+      "description": "We ran Devin on an old codebase: predictable errors, but alarming confidence. Can it handle your edge cases?",
+      "visual_hint": "Hand pointing at screen error",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: pilot Devin now",
+      "description": "Don't wait for a $40B promise. Run a pilot on one legacy project and see if Devin manages edge cases. Test it.",
+      "visual_hint": "Save icon and checkmark",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "pilot checklist",
+      "image": "https://images.pexels.com/photos/27658226/pexels-photo-27658226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+  "savedAt": "2026-08-12T18:50:24.209Z",
+  "sourceId": "fedb51cc07b1d84a5a94c18edffe77f9"
+}

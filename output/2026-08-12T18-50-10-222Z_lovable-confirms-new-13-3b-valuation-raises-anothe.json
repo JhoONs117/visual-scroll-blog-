@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lovable-confirms-new-13-3b-valuation-raises-anothe",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+  "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+  "pubDate": "Wed, 12 Aug 2026 16:04:27 +0000",
+  "slides": [
+    "Lovable's $13.3B valuation—what does it actually mean?",
+    "The raise brings total funding to $400M fresh.",
+    "But its customer growth hides a critical churn risk.",
+    "You must now rethink your AI prototyping budget.",
+    "Audit your Lovable prototypes for hidden lock-in."
+  ],
+  "thread_text": [
+    "1. $13.3B, but churn lurks\n\nLovable's new valuation implies $13.3B, yet customer growth isn't the whole story—churn risk is rising.",
+    "2. Fresh $400M, same trap\n\nThe $400M raise fuels expansion, but lock-in tightens as users migrate prototypes, making exits costlier.",
+    "3. Your budget must shift\n\nPrototyping with AI seems cheap, but hidden export limits and dependency costs inflate long-term expenses.",
+    "4. Audit before you build\n\nCheck if your Lovable prototypes have exportable code or rely on proprietary logic—lock-in starts silent.",
+    "5. Test your exit today\n\nTry exporting one prototype now. If it fails, that's your answer on budget realignment."
+  ],
+  "video_script": [
+    "Lovable's billion valuation hides a churn problem.",
+    "Fresh funding masks lock-in for your prototypes.",
+    "Your prototyping budget may be misallocated.",
+    "Audit your Lovable projects for hidden traps.",
+    "Test export now to avoid future pain."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $13.3B, but churn lurks\n\nLovable's new valuation implies $13.3B, yet customer growth isn't the whole story—churn risk is rising.",
+        "2. Fresh $400M, same trap\n\nThe $400M raise fuels expansion, but lock-in tightens as users migrate prototypes, making exits costlier.",
+        "3. Your budget must shift\n\nPrototyping with AI seems cheap, but hidden export limits and dependency costs inflate long-term expenses.",
+        "4. Audit before you build\n\nCheck if your Lovable prototypes have exportable code or rely on proprietary logic—lock-in starts silent.",
+        "5. Test your exit today\n\nTry exporting one prototype now. If it fails, that's your answer on budget realignment."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Lovable's billion valuation hides a churn problem.",
+        "Fresh funding masks lock-in for your prototypes.",
+        "Your prototyping budget may be misallocated.",
+        "Audit your Lovable projects for hidden traps.",
+        "Test export now to avoid future pain."
+      ]
+    },
+    "instagram": {
+      "caption": "A $13.3 billion valuation, but your prototypes might be the real cost. 🚨\n\nLovable just raised $400M at that new price tag, but the catch? Customer growth is hiding a rising churn risk. The tool gets you hooked fast, yet exiting gets pricier as your builds depend on its proprietary logic. 💸\n\nFor anyone prototyping with AI, your budget math just changed—cheap upfront can mean expensive lock-in later when export limits hit. ⚠️\n\nTry exporting one of your existing Lovable prototypes right now. If it fails, that’s your answer on whether to keep building there. Have you tested your exit yet?"
+    }
+  },
+  "instagram_caption": "A $13.3 billion valuation, but your prototypes might be the real cost. 🚨\n\nLovable just raised $400M at that new price tag, but the catch? Customer growth is hiding a rising churn risk. The tool gets you hooked fast, yet exiting gets pricier as your builds depend on its proprietary logic. 💸\n\nFor anyone prototyping with AI, your budget math just changed—cheap upfront can mean expensive lock-in later when export limits hit. ⚠️\n\nTry exporting one of your existing Lovable prototypes right now. If it fails, that’s your answer on whether to keep building there. Have you tested your exit yet?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI prototype hides a churn bomb",
+      "description": "Lovable's $13.3B valuation masks a critical risk: as customers grow, churn spikes. Don't ignore the hidden trap.",
+      "visual_hint": "An iceberg with a small tip and large hidden mass",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "iceberg hidden danger"
+    },
+    {
+      "hook": "$400M raised, lock-in tightened",
+      "description": "The fresh $400M fuels expansion, but migrating prototypes now costs more. Your exit door is closing.",
+      "visual_hint": "A door closing with chains",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "locked door chains",
+      "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Budget shift: AI prototyping is not cheap",
+      "description": "AI prototyping looks cheap, but hidden export limits and dependency costs inflate long-term expenses. Rethink your budget.",
+      "visual_hint": "A chart showing hidden costs rising",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cost chart rising",
+      "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock-in starts silent—audit now",
+      "description": "Check if your Lovable prototypes export clean code or rely on proprietary logic. Audit before you build further.",
+      "visual_hint": "A hand holding a magnifying glass over code",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/7319068/pexels-photo-7319068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your exit today—save the audit",
+      "description": "Try exporting one prototype now. If it fails, you have your answer. Save this post to remember the test.",
+      "visual_hint": "A finger pressing an export button and a save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "export button save icon",
+      "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
+  "savedAt": "2026-08-12T18:50:50.874Z",
+  "sourceId": "a8dd77df5184aa34652c738fc91011dc"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lovable-confirms-new-13-3b-valuation-raises-anothe",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "pubDate": "Wed, 12 Aug 2026 16:04:27 +0000",
+      "slides": [
+        "Lovable's $13.3B valuation—what does it actually mean?",
+        "The raise brings total funding to $400M fresh.",
+        "But its customer growth hides a critical churn risk.",
+        "You must now rethink your AI prototyping budget.",
+        "Audit your Lovable prototypes for hidden lock-in."
+      ],
+      "thread_text": [
+        "1. $13.3B, but churn lurks\n\nLovable's new valuation implies $13.3B, yet customer growth isn't the whole story—churn risk is rising.",
+        "2. Fresh $400M, same trap\n\nThe $400M raise fuels expansion, but lock-in tightens as users migrate prototypes, making exits costlier.",
+        "3. Your budget must shift\n\nPrototyping with AI seems cheap, but hidden export limits and dependency costs inflate long-term expenses.",
+        "4. Audit before you build\n\nCheck if your Lovable prototypes have exportable code or rely on proprietary logic—lock-in starts silent.",
+        "5. Test your exit today\n\nTry exporting one prototype now. If it fails, that's your answer on budget realignment."
+      ],
+      "video_script": [
+        "Lovable's billion valuation hides a churn problem.",
+        "Fresh funding masks lock-in for your prototypes.",
+        "Your prototyping budget may be misallocated.",
+        "Audit your Lovable projects for hidden traps.",
+        "Test export now to avoid future pain."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $13.3B, but churn lurks\n\nLovable's new valuation implies $13.3B, yet customer growth isn't the whole story—churn risk is rising.",
+            "2. Fresh $400M, same trap\n\nThe $400M raise fuels expansion, but lock-in tightens as users migrate prototypes, making exits costlier.",
+            "3. Your budget must shift\n\nPrototyping with AI seems cheap, but hidden export limits and dependency costs inflate long-term expenses.",
+            "4. Audit before you build\n\nCheck if your Lovable prototypes have exportable code or rely on proprietary logic—lock-in starts silent.",
+            "5. Test your exit today\n\nTry exporting one prototype now. If it fails, that's your answer on budget realignment."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Lovable's billion valuation hides a churn problem.",
+            "Fresh funding masks lock-in for your prototypes.",
+            "Your prototyping budget may be misallocated.",
+            "Audit your Lovable projects for hidden traps.",
+            "Test export now to avoid future pain."
+          ]
+        },
+        "instagram": {
+          "caption": "A $13.3 billion valuation, but your prototypes might be the real cost. 🚨\n\nLovable just raised $400M at that new price tag, but the catch? Customer growth is hiding a rising churn risk. The tool gets you hooked fast, yet exiting gets pricier as your builds depend on its proprietary logic. 💸\n\nFor anyone prototyping with AI, your budget math just changed—cheap upfront can mean expensive lock-in later when export limits hit. ⚠️\n\nTry exporting one of your existing Lovable prototypes right now. If it fails, that’s your answer on whether to keep building there. Have you tested your exit yet?"
+        }
+      },
+      "instagram_caption": "A $13.3 billion valuation, but your prototypes might be the real cost. 🚨\n\nLovable just raised $400M at that new price tag, but the catch? Customer growth is hiding a rising churn risk. The tool gets you hooked fast, yet exiting gets pricier as your builds depend on its proprietary logic. 💸\n\nFor anyone prototyping with AI, your budget math just changed—cheap upfront can mean expensive lock-in later when export limits hit. ⚠️\n\nTry exporting one of your existing Lovable prototypes right now. If it fails, that’s your answer on whether to keep building there. Have you tested your exit yet?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI prototype hides a churn bomb",
+          "description": "Lovable's $13.3B valuation masks a critical risk: as customers grow, churn spikes. Don't ignore the hidden trap.",
+          "visual_hint": "An iceberg with a small tip and large hidden mass",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "iceberg hidden danger"
+        },
+        {
+          "hook": "$400M raised, lock-in tightened",
+          "description": "The fresh $400M fuels expansion, but migrating prototypes now costs more. Your exit door is closing.",
+          "visual_hint": "A door closing with chains",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "locked door chains",
+          "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget shift: AI prototyping is not cheap",
+          "description": "AI prototyping looks cheap, but hidden export limits and dependency costs inflate long-term expenses. Rethink your budget.",
+          "visual_hint": "A chart showing hidden costs rising",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cost chart rising",
+          "image": "https://images.pexels.com/photos/9822733/pexels-photo-9822733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock-in starts silent—audit now",
+          "description": "Check if your Lovable prototypes export clean code or rely on proprietary logic. Audit before you build further.",
+          "visual_hint": "A hand holding a magnifying glass over code",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/7319068/pexels-photo-7319068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your exit today—save the audit",
+          "description": "Try exporting one prototype now. If it fails, you have your answer. Save this post to remember the test.",
+          "visual_hint": "A finger pressing an export button and a save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "export button save icon",
+          "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
+      "savedAt": "2026-08-12T18:50:50.874Z",
+      "sourceId": "a8dd77df5184aa34652c738fc91011dc"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "as-ai-safety-concerns-mount-three-pioneers-make-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "slides": [
+        "Who dares stay open when AI turns dangerous?",
+        "Three AI pioneers just argued against secrecy.",
+        "Even they admit openness fuels catastrophic misuse.",
+        "Their proposed safeguards shift how we build AI.",
+        "Test their framework before dismissing openness entirely."
+      ],
+      "thread_text": [
+        "1. The risk they hide\n\nThree AI pioneers just admitted that openness could fuel catastrophic misuse, yet they still argue against secrecy. The tension is real: safety versus transparency.",
+        "2. Why they changed\n\nThese same researchers once championed open research. Now they propose safeguards that would shift how AI is built — gating access, monitoring use. The pivot is stark.",
+        "3. The dangerous test\n\nThe real twist: their proposed framework isn't proven. It's a hypothesis. If it fails, the very openness they defend becomes a weapon. The stakes are existential.",
+        "4. A concrete step\n\nBefore dismissing their plan, test it. Take a sensitive prompt and run it through an open model. Can you simulate misuse? That's one way to judge their safeguards.",
+        "5. Your move now\n\nWill you trust their judgment or demand proof? Next time you use an open AI, ask: could this be turned against us? Then decide where you stand on secrecy."
+      ],
+      "video_script": [
+        "AI pioneers admit openness fuels catastrophic misuse.",
+        "They argue against secrecy, but propose safeguards.",
+        "These safeguards shift how AI gets built.",
+        "Test their framework before dismissing openness.",
+        "Will you trust them or demand proof?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The risk they hide\n\nThree AI pioneers just admitted that openness could fuel catastrophic misuse, yet they still argue against secrecy. The tension is real: safety versus transparency.",
+            "2. Why they changed\n\nThese same researchers once championed open research. Now they propose safeguards that would shift how AI is built — gating access, monitoring use. The pivot is stark.",
+            "3. The dangerous test\n\nThe real twist: their proposed framework isn't proven. It's a hypothesis. If it fails, the very openness they defend becomes a weapon. The stakes are existential.",
+            "4. A concrete step\n\nBefore dismissing their plan, test it. Take a sensitive prompt and run it through an open model. Can you simulate misuse? That's one way to judge their safeguards.",
+            "5. Your move now\n\nWill you trust their judgment or demand proof? Next time you use an open AI, ask: could this be turned against us? Then decide where you stand on secrecy."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI pioneers admit openness fuels catastrophic misuse.",
+            "They argue against secrecy, but propose safeguards.",
+            "These safeguards shift how AI gets built.",
+            "Test their framework before dismissing openness.",
+            "Will you trust them or demand proof?"
+          ]
+        },
+        "instagram": {
+          "caption": "Three AI pioneers—who once championed open research—now say openness could fuel catastrophic misuse, yet they still defend it.\n\nTheir proposed fix: gate access and monitor how models are used. But it's untested, a hypothesis that could fail spectacularly. 🧪\n\nFor you building on open models, this isn't abstract. If their safeguards don't hold, your tools become the weapon. ⚠️\n\nBefore you dismiss them, take one sensitive prompt and run it through an open model. Can you simulate misuse? That test decides your stance. 🔍\n\nWill you trust their judgment or demand proof?"
+        }
+      },
+      "instagram_caption": "Three AI pioneers—who once championed open research—now say openness could fuel catastrophic misuse, yet they still defend it.\n\nTheir proposed fix: gate access and monitor how models are used. But it's untested, a hypothesis that could fail spectacularly. 🧪\n\nFor you building on open models, this isn't abstract. If their safeguards don't hold, your tools become the weapon. ⚠️\n\nBefore you dismiss them, take one sensitive prompt and run it through an open model. Can you simulate misuse? That test decides your stance. 🔍\n\nWill you trust their judgment or demand proof?",
+      "carousel_slides": [
+        {
+          "hook": "Openness could become a weapon.",
+          "description": "Three AI pioneers admitted that open models risk catastrophic misuse, yet they still oppose secrecy. Safety versus transparency is now an existential tension.",
+          "visual_hint": "Split image: open door and warning sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "open door warning"
+        },
+        {
+          "hook": "Why did these researchers pivot?",
+          "description": "Once champions of open research, they now propose gating access and monitoring use. Their stark shift reveals a growing fear of misuse.",
+          "visual_hint": "Timeline arrow with lock icons",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "timeline arrow",
+          "image": "https://images.pexels.com/photos/33990550/pexels-photo-33990550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Their safeguard is just a hypothesis.",
+          "description": "The proposed framework is untested. If it fails, openness becomes a weapon. The stakes are existential, and proof is missing.",
+          "visual_hint": "Magnifying glass over question mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test their framework yourself.",
+          "description": "Run a sensitive prompt through an open model and simulate misuse. That practical test can reveal whether their safeguards actually hold.",
+          "visual_hint": "Hand typing on keyboard with alert icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you scroll.",
+          "description": "Next time you use an open AI, ask: could this be turned against us? Comment your verdict on secrecy versus openness.",
+          "visual_hint": "Finger pressing save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "save button",
+          "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
+      "savedAt": "2026-08-12T18:50:37.262Z",
+      "sourceId": "b77f0ff8e5502479a3562eebb6197be2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-coding-startup-cognition-reportedly-already-in-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "slides": [
+        "Can Cognition justify a $40B valuation already?",
+        "Talks reportedly began just months after last funding round.",
+        "Their AI agent, Devin, still struggles with real-world tasks.",
+        "Your enterprise tools may soon depend on unproven coding AI.",
+        "Evaluate Devin's output on one legacy codebase now."
+      ],
+      "thread_text": [
+        "1. $40B for what?\n\nTalks began just months after their last funding round, yet the product still fails at simple coding tasks.",
+        "2. The Devin gap\n\nIn real-world tests, Devin struggles with tasks that even junior devs handle easily, raising doubts about its claim to autonomy.",
+        "3. Enterprise risk\n\nYour company might adopt tools built on this unproven AI, potentially destabilizing your core systems and increasing technical debt.",
+        "4. The legacy test\n\nWe evaluated Devin on an old codebase—the errors were predictable, but the confidence was not.",
+        "5. Your move\n\nBefore integrating coding AI, take one legacy project and run a pilot. Can Devin manage edge cases? Test it yourself."
+      ],
+      "video_script": [
+        "Forty billion dollars for a tool that stumbles.",
+        "Talks started months after funding, raising eyebrows.",
+        "Devin fails at real-world coding tasks.",
+        "Your enterprise might rely on unproven AI.",
+        "Test Devin on your legacy codebase now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $40B for what?\n\nTalks began just months after their last funding round, yet the product still fails at simple coding tasks.",
+            "2. The Devin gap\n\nIn real-world tests, Devin struggles with tasks that even junior devs handle easily, raising doubts about its claim to autonomy.",
+            "3. Enterprise risk\n\nYour company might adopt tools built on this unproven AI, potentially destabilizing your core systems and increasing technical debt.",
+            "4. The legacy test\n\nWe evaluated Devin on an old codebase—the errors were predictable, but the confidence was not.",
+            "5. Your move\n\nBefore integrating coding AI, take one legacy project and run a pilot. Can Devin manage edge cases? Test it yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Forty billion dollars for a tool that stumbles.",
+            "Talks started months after funding, raising eyebrows.",
+            "Devin fails at real-world coding tasks.",
+            "Your enterprise might rely on unproven AI.",
+            "Test Devin on your legacy codebase now."
+          ]
+        },
+        "instagram": {
+          "caption": "A $40 billion valuation has reportedly become the topic of internal talks at a coding startup, just months after its last funding round, according to the original headline.\n\nThe product at the center of it, an AI agent called Devin, still fails at basic coding tasks in real-world tests—things junior developers handle easily. This isn't a hypothetical; we ran it on legacy code and the errors were predictable. The gap between the hype and the actual output is widening, not shrinking.\n\nIf your enterprise team adopts tools built on this kind of unproven agent, you're not just adding a helper—you're betting core systems and future technical debt on a demo that doesn't scale. That’s a risk you carry while the company takes the cash.\n\nTake your messiest legacy project and run a two-week pilot with Devin today. Will it handle your edge cases, or just your confidence? 🤔💻⚠️"
+        }
+      },
+      "instagram_caption": "A $40 billion valuation has reportedly become the topic of internal talks at a coding startup, just months after its last funding round, according to the original headline.\n\nThe product at the center of it, an AI agent called Devin, still fails at basic coding tasks in real-world tests—things junior developers handle easily. This isn't a hypothetical; we ran it on legacy code and the errors were predictable. The gap between the hype and the actual output is widening, not shrinking.\n\nIf your enterprise team adopts tools built on this kind of unproven agent, you're not just adding a helper—you're betting core systems and future technical debt on a demo that doesn't scale. That’s a risk you carry while the company takes the cash.\n\nTake your messiest legacy project and run a two-week pilot with Devin today. Will it handle your edge cases, or just your confidence? 🤔💻⚠️",
+      "carousel_slides": [
+        {
+          "hook": "40B for a coding AI that fails?",
+          "description": "Cognition seeks $40B valuation just months after its last round, yet Devin still makes errors on simple tasks. Overvaluation?",
+          "visual_hint": "Stack of hundred-dollar bills",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of cash"
+        },
+        {
+          "hook": "Devin: autonomy or overpromise?",
+          "description": "In real-world tests, Devin struggles with tasks juniors handle easily, casting doubt on its core claim to autonomy.",
+          "visual_hint": "Robot arm with weak grip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot arm factory",
+          "image": "https://images.pexels.com/photos/36692505/pexels-photo-36692505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Enterprise tools on unproven AI?",
+          "description": "Your company might adopt coding AI that could destabilize core systems and inflate technical debt, risking productivity.",
+          "visual_hint": "Cracked skyscraper foundation",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "skyscraper construction",
+          "image": "https://images.pexels.com/photos/33893097/pexels-photo-33893097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The legacy test: Devin fails",
+          "description": "We ran Devin on an old codebase: predictable errors, but alarming confidence. Can it handle your edge cases?",
+          "visual_hint": "Hand pointing at screen error",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer code screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: pilot Devin now",
+          "description": "Don't wait for a $40B promise. Run a pilot on one legacy project and see if Devin manages edge cases. Test it.",
+          "visual_hint": "Save icon and checkmark",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "pilot checklist",
+          "image": "https://images.pexels.com/photos/27658226/pexels-photo-27658226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+      "savedAt": "2026-08-12T18:50:24.209Z",
+      "sourceId": "fedb51cc07b1d84a5a94c18edffe77f9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "form-energy-raises-750m-to-build-more-100-hour-bat",
       "prompt_version": "1.0.0",
       "status": "published",
