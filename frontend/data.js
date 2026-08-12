@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "india-s-yulu-raises-93m-as-quick-commerce-boom-fue",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+    "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+    "pubDate": "Wed, 12 Aug 2026 04:30:00 +0000",
+    "slides": [
+      "Yulu bets $93M on India's e-bikes. Will it scale?",
+      "Quick-commerce's delivery surge drives this massive round.",
+      "Yet battery swapping alone may not solve urban congestion.",
+      "Competitors watch closely as Yulu expands into new cities.",
+      "Test one Yulu ride today to judge its real impact."
+    ],
+    "thread_text": [
+      "1. $93M bet on e-bikes\n\nYulu just raised $93M to expand its electric bike fleet. That's one of the largest rounds in India's micro-mobility space. But the real test is whether they can scale beyond the current cities.",
+      "2. Delivery surge fuels growth\n\nQuick-commerce companies are flooding Indian streets with delivery riders. Yulu's bikes are now a key part of that surge. Yet, the infrastructure for battery swapping is still patchy.",
+      "3. Battery swapping isn't enough\n\nEven with a network of swap stations, urban congestion won't just disappear. E-bikes still need dedicated lanes and parking. Yulu's expansion into new cities might hit a wall if cities don't adapt.",
+      "4. Rivals watch the expansion\n\nAs Yulu moves into new metros, competitors like Bounce and Vogo are watching. They could undercut prices or copy the model. The next few months will show if Yulu can stay ahead.",
+      "5. Test a Yulu ride yourself\n\nTake a short trip on a Yulu e-bike this week. Does it actually save time and feel safe? Judge the real impact with your own ride."
+    ],
+    "video_script": [
+      "Yulu just got ninety-three million dollars.",
+      "Delivery boom fuels their e-bike expansion.",
+      "Battery swapping won't solve congestion alone.",
+      "Rivals are watching Yulu's next moves.",
+      "Test a Yulu ride to judge impact."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $93M bet on e-bikes\n\nYulu just raised $93M to expand its electric bike fleet. That's one of the largest rounds in India's micro-mobility space. But the real test is whether they can scale beyond the current cities.",
+          "2. Delivery surge fuels growth\n\nQuick-commerce companies are flooding Indian streets with delivery riders. Yulu's bikes are now a key part of that surge. Yet, the infrastructure for battery swapping is still patchy.",
+          "3. Battery swapping isn't enough\n\nEven with a network of swap stations, urban congestion won't just disappear. E-bikes still need dedicated lanes and parking. Yulu's expansion into new cities might hit a wall if cities don't adapt.",
+          "4. Rivals watch the expansion\n\nAs Yulu moves into new metros, competitors like Bounce and Vogo are watching. They could undercut prices or copy the model. The next few months will show if Yulu can stay ahead.",
+          "5. Test a Yulu ride yourself\n\nTake a short trip on a Yulu e-bike this week. Does it actually save time and feel safe? Judge the real impact with your own ride."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Yulu just got ninety-three million dollars.",
+          "Delivery boom fuels their e-bike expansion.",
+          "Battery swapping won't solve congestion alone.",
+          "Rivals are watching Yulu's next moves.",
+          "Test a Yulu ride to judge impact."
+        ]
+      },
+      "instagram": {
+        "caption": "Indian streets are about to get a lot more electric, with $93M riding on it.  \n\nYulu just raised that sum to flood more cities with e-bikes, fueled by the quick-commerce delivery boom. Battery swapping is their ace, but it won't fix traffic or parking chaos.  \n\nFor you, this means more delivery riders on electric two-wheelers in your neighborhood, sooner than you think.  \n\nIf you spot a Yulu dock this week, take one for a 10-minute spin. Does it actually beat a cab? 🛵⚡"
+      }
+    },
+    "instagram_caption": "Indian streets are about to get a lot more electric, with $93M riding on it.  \n\nYulu just raised that sum to flood more cities with e-bikes, fueled by the quick-commerce delivery boom. Battery swapping is their ace, but it won't fix traffic or parking chaos.  \n\nFor you, this means more delivery riders on electric two-wheelers in your neighborhood, sooner than you think.  \n\nIf you spot a Yulu dock this week, take one for a 10-minute spin. Does it actually beat a cab? 🛵⚡",
+    "carousel_slides": [
+      {
+        "hook": "Can $93M really fix India's e-bike boom?",
+        "description": "Yulu raised $93M to expand its e-bike fleet, but scaling beyond current cities is the real challenge.",
+        "visual_hint": "Map with city pins, expansion arrows",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric bike city"
+      },
+      {
+        "hook": "Quick-commerce rides the e-bike wave",
+        "description": "Delivery demand from quick-commerce is surging, but patchy battery swapping infrastructure could stall Yulu's growth.",
+        "visual_hint": "Delivery rider with e-bike",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "delivery scooter street",
+        "image": "https://images.pexels.com/photos/31220047/pexels-photo-31220047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Battery swapping isn't a traffic fix",
+        "description": "Even with swap stations, urban congestion persists without dedicated lanes and parking. Cities must adapt or expansion hits a wall.",
+        "visual_hint": "Swap station, congested street",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "battery swap station",
+        "image": "https://images.pexels.com/photos/37489595/pexels-photo-37489595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivals watch Yulu's next move",
+        "description": "Competitors like Bounce and Vogo could undercut or copy the model as Yulu enters new metros. The next months decide leadership.",
+        "visual_hint": "Two e-bikes side by side",
+        "layout_type": "human-hand",
+        "icon": "check",
+        "image_query": "electric bikes parking",
+        "image": "https://images.pexels.com/photos/28986701/pexels-photo-28986701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a Yulu ride and judge",
+        "description": "Take a short trip on a Yulu e-bike this week. Does it save time and feel safe? Comment your verdict.",
+        "visual_hint": "Hand holding phone with Yulu app",
+        "layout_type": "cta-final",
+        "icon": "heart",
+        "image_query": "person riding e-bike",
+        "image": "https://images.pexels.com/photos/34055645/pexels-photo-34055645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/yulu.jpg?resize=1200,800",
+    "savedAt": "2026-08-12T05:28:17.161Z",
+    "sourceId": "40443c208af1b06233de55fdfedcdc95"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-ai-takeover-of-mathematics-has-begun",
     "prompt_version": "1.0.0",
     "status": "published",
