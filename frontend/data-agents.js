@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "form-energy-raises-750m-to-build-more-100-hour-bat",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "pubDate": "Wed, 12 Aug 2026 16:18:23 +0000",
+      "slides": [
+        "Can $750M finally solve grid storage?",
+        "Form Energy's iron-air batteries store 100 hours",
+        "Its chemistry costs 10x less than lithium",
+        "Utilities can now postpone costly gas peakers",
+        "Next step: watch their 2026 pilot results."
+      ],
+      "thread_text": [
+        "1. The 100-hour lie?\n\nForm Energy says its iron-air batteries can discharge for four straight days. That's not a typo — it's a chemistry bet that flips the storage playbook.",
+        "2. Chemistry eats cost\n\nThe active material is rust. Iron and air cost a fraction of lithium, so the system lands at 10x cheaper per stored kilowatt-hour. That's the number utilities actually read.",
+        "3. The gas peaker killer\n\nWith 100-hour storage, a utility can skip building a new gas plant for peak demand. Just charge the rust when wind blows, discharge when it's calm.",
+        "4. The catch: density\n\nThese batteries are bulky. They need warehouse space, not a garage. That trades urban footprint for grid-scale cheapness — a swap that only makes sense in specific spots.",
+        "5. Will you bet on rust?\n\nCheck Form Energy's 2026 pilot results in your state. If they hit cost targets, do you still justify a lithium system for long-duration needs?"
+      ],
+      "video_script": [
+        "Iron-air batteries store power for 100 hours.",
+        "Cost is ten times less than lithium.",
+        "Utilities can delay building new gas plants.",
+        "But the batteries are huge and heavy.",
+        "Watch the 2026 pilot to judge."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 100-hour lie?\n\nForm Energy says its iron-air batteries can discharge for four straight days. That's not a typo — it's a chemistry bet that flips the storage playbook.",
+            "2. Chemistry eats cost\n\nThe active material is rust. Iron and air cost a fraction of lithium, so the system lands at 10x cheaper per stored kilowatt-hour. That's the number utilities actually read.",
+            "3. The gas peaker killer\n\nWith 100-hour storage, a utility can skip building a new gas plant for peak demand. Just charge the rust when wind blows, discharge when it's calm.",
+            "4. The catch: density\n\nThese batteries are bulky. They need warehouse space, not a garage. That trades urban footprint for grid-scale cheapness — a swap that only makes sense in specific spots.",
+            "5. Will you bet on rust?\n\nCheck Form Energy's 2026 pilot results in your state. If they hit cost targets, do you still justify a lithium system for long-duration needs?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Iron-air batteries store power for 100 hours.",
+            "Cost is ten times less than lithium.",
+            "Utilities can delay building new gas plants.",
+            "But the batteries are huge and heavy.",
+            "Watch the 2026 pilot to judge."
+          ]
+        },
+        "instagram": {
+          "caption": "A single iron-air battery can now discharge power for four straight days — using rust as its active ingredient.  \n\nThat’s the bet behind Form Energy’s new $750M raise. Their chemistry stores energy at 10x lower cost than lithium, letting utilities delay building new gas plants for peak demand. The trade-off: these batteries are warehouse-sized, not garage-sized.  \n\nFor grid engineers and storage buyers, the math on long-duration projects just shifted — lithium only makes sense now for short bursts, not multi-day resilience.  \n\nIf the 2026 pilot hits cost targets, would you still spec a lithium system for a 100-hour need? 🔋🧲"
+        }
+      },
+      "instagram_caption": "A single iron-air battery can now discharge power for four straight days — using rust as its active ingredient.  \n\nThat’s the bet behind Form Energy’s new $750M raise. Their chemistry stores energy at 10x lower cost than lithium, letting utilities delay building new gas plants for peak demand. The trade-off: these batteries are warehouse-sized, not garage-sized.  \n\nFor grid engineers and storage buyers, the math on long-duration projects just shifted — lithium only makes sense now for short bursts, not multi-day resilience.  \n\nIf the 2026 pilot hits cost targets, would you still spec a lithium system for a 100-hour need? 🔋🧲",
+      "carousel_slides": [
+        {
+          "hook": "Does rust beat lithium?",
+          "description": "Form Energy's iron-air batteries store 100 hours of power. The chemistry is 10x cheaper than lithium. Can it replace gas peakers?",
+          "visual_hint": "Iron-air battery cell close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "iron air battery cell"
+        },
+        {
+          "hook": "100 hours of storage, not 4.",
+          "description": "Iron-air batteries can discharge for four straight days—a decade-long chemistry bet that flips the storage playbook. Utilities are watching closely.",
+          "visual_hint": "Calm ocean representing long duration",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ocean horizon calm water",
+          "image": "https://images.pexels.com/photos/38014980/pexels-photo-38014980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why gas peakers are obsolete.",
+          "description": "With 100-hour storage, utilities can skip new gas plants. Charge the rust when wind blows, discharge when calm. Cost per kWh? 10x less.",
+          "visual_hint": "Rust material macro shot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rust metal texture macro",
+          "image": "https://images.pexels.com/photos/4710232/pexels-photo-4710232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bulky, but brilliant trade-off.",
+          "description": "These batteries need warehouses, not garages. They trade urban footprint for grid-scale cheapness—a swap that only works in specific spots.",
+          "visual_hint": "Warehouse interior with battery units",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "warehouse interior battery racks",
+          "image": "https://images.pexels.com/photos/4483608/pexels-photo-4483608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will you bet on rust?",
+          "description": "Check Form Energy's 2026 pilot results in your state. If they hit cost targets, would you still choose lithium for long-duration storage? Comment below.",
+          "visual_hint": "Calendar with 2026 marked",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar 2026 close up",
+          "image": "https://images.pexels.com/photos/37936675/pexels-photo-37936675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/FF1-container-1.jpg?resize=1200,783",
+      "savedAt": "2026-08-12T16:47:55.541Z",
+      "sourceId": "14dc2f0cade599ef4c21a6ddd9295759"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-stream-ring-maker-sandbar-says-the-future-of-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "pubDate": "Wed, 12 Aug 2026 16:46:02 +0000",
+      "slides": [
+        "Who will win the AI wearable war?",
+        "Sandbar's new ring skips screens entirely.",
+        "Voice-only interaction outperforms touch by 3x.",
+        "Users now talk to devices, not tap them.",
+        "Tomorrow, test voice-first commands on your phone."
+      ],
+      "thread_text": [
+        "1. Who's Next?\n\nSandbar’s ring ditches screens completely, betting voice-first is the future.",
+        "2. 3x Faster\n\nVoice-only beats touch in speed by 3x. Users are already talking, not tapping.",
+        "3. Tap to Talk\n\nRings are the new wearables, and they're all about conversation.",
+        "4. The Shift\n\nDevices now listen, not just display. Your wrist is becoming your assistant.",
+        "5. Try It Today\n\nTest voice commands on your phone tomorrow. Notice how it feels."
+      ],
+      "video_script": [
+        "The wearable war heats up.",
+        "Sandbar's ring skips screens. Voice wins.",
+        "Voice beats touch by three times.",
+        "We talk instead of tapping now.",
+        "Try voice commands on your phone tomorrow."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's Next?\n\nSandbar’s ring ditches screens completely, betting voice-first is the future.",
+            "2. 3x Faster\n\nVoice-only beats touch in speed by 3x. Users are already talking, not tapping.",
+            "3. Tap to Talk\n\nRings are the new wearables, and they're all about conversation.",
+            "4. The Shift\n\nDevices now listen, not just display. Your wrist is becoming your assistant.",
+            "5. Try It Today\n\nTest voice commands on your phone tomorrow. Notice how it feels."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "The wearable war heats up.",
+            "Sandbar's ring skips screens. Voice wins.",
+            "Voice beats touch by three times.",
+            "We talk instead of tapping now.",
+            "Try voice commands on your phone tomorrow."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next wearable might not have a screen at all. 🔊\n\nSandbar's new ring is voice-only, and they say talking beats tapping by 3x in speed. No display, no menus—just commands.\n\nThe shift: devices are starting to listen instead of showing. For anyone creating content, that means thinking in voice-first phrases, not visual steps.\n\nDo you already dictate more than you type? Try one voice command on your phone today and see if it actually feels faster. 🎙️⌚"
+        }
+      },
+      "instagram_caption": "Your next wearable might not have a screen at all. 🔊\n\nSandbar's new ring is voice-only, and they say talking beats tapping by 3x in speed. No display, no menus—just commands.\n\nThe shift: devices are starting to listen instead of showing. For anyone creating content, that means thinking in voice-first phrases, not visual steps.\n\nDo you already dictate more than you type? Try one voice command on your phone today and see if it actually feels faster. 🎙️⌚",
+      "carousel_slides": [
+        {
+          "hook": "Is voice the new touch?",
+          "description": "Sandbar's ring skips screens entirely, betting on voice-first. Could this redefine how we interact with wearables and win the AI wearable war?",
+          "visual_hint": "Ring with voice waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart ring technology"
+        },
+        {
+          "hook": "Voice beats touch by 3x",
+          "description": "Voice-only interaction outperforms touch in speed, a 3x advantage. Users are already switching from tapping to talking for faster, more natural commands.",
+          "visual_hint": "Speedometer with voice icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "speedometer dashboard",
+          "image": "https://images.pexels.com/photos/19754775/pexels-photo-19754775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Talk to your ring, not tap",
+          "description": "Sandbar's ring is all about conversation. It listens to your voice, not your fingers, making interactions more intuitive and hands-free.",
+          "visual_hint": "Hand with ring talking",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hand with ring",
+          "image": "https://images.pexels.com/photos/15960447/pexels-photo-15960447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Devices listen, not display",
+          "description": "The shift is real: devices now listen to you, not just show screens. Your wrist is becoming an active assistant that responds to your voice.",
+          "visual_hint": "Wristwatch with ear icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "wristwatch closeup",
+          "image": "https://images.pexels.com/photos/15118337/pexels-photo-15118337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try voice-first today!",
+          "description": "Test voice commands on your phone tomorrow. Notice how it feels—faster? More natural? Share your experience in the comments!",
+          "visual_hint": "Phone with voice bubble",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone voice assistant",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+      "savedAt": "2026-08-12T16:47:40.222Z",
+      "sourceId": "d4e662e0ffa5f326b2b1a3705ed78cf3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-s-pixel-watch-5-dives-deeper-into-ai-and-he",
       "prompt_version": "1.0.0",
       "status": "published",
