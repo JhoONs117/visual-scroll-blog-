@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "another-openai-executive-takes-off",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "pubDate": "2026-08-11T17:50:01.000Z",
+      "slides": [
+        "Who's next after another OpenAI departure?",
+        "Eleven leaders have left in just months",
+        "Their exits all trace to one core dispute",
+        "That dispute now decides which models ship",
+        "Ask candidates where they stand on safety"
+      ],
+      "thread_text": [
+        "1. Who's next?\n\nEleven leaders have left OpenAI in months. The exodus traces to one core dispute over safety.",
+        "2. The core dispute\n\nThat dispute now decides which models ship. Safety vs. speed is the battleground.",
+        "3. The consequence\n\nEvery departure shifts the balance. More safety-focused leaders leave, faster models arrive.",
+        "4. The pattern\n\nAsk candidates where they stand on safety. Their answer predicts the next departure.",
+        "5. Your move\n\nCheck OpenAI's leadership page today. Count the vacancies. Ask yourself: would you join?"
+      ],
+      "video_script": [
+        "Eleven leaders left OpenAI in months.",
+        "The cause: a safety dispute.",
+        "It decides which models ship.",
+        "Ask candidates about safety.",
+        "Watch who leaves next."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's next?\n\nEleven leaders have left OpenAI in months. The exodus traces to one core dispute over safety.",
+            "2. The core dispute\n\nThat dispute now decides which models ship. Safety vs. speed is the battleground.",
+            "3. The consequence\n\nEvery departure shifts the balance. More safety-focused leaders leave, faster models arrive.",
+            "4. The pattern\n\nAsk candidates where they stand on safety. Their answer predicts the next departure.",
+            "5. Your move\n\nCheck OpenAI's leadership page today. Count the vacancies. Ask yourself: would you join?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Eleven leaders left OpenAI in months.",
+            "The cause: a safety dispute.",
+            "It decides which models ship.",
+            "Ask candidates about safety.",
+            "Watch who leaves next."
+          ]
+        },
+        "instagram": {
+          "caption": "Eleven leaders have left OpenAI in just months, and every single exit traces back to one fight: how fast models ship versus how safe they are.\n\nThat dispute now decides which models actually reach you. More safety-focused leaders leave, and the pace of releases speeds up. Each departure shifts the balance further.\n\nIf you create content or build tools on OpenAI models, the trade-off isn't abstract anymore—you're getting faster outputs, but the people who argued for guardrails are gone.\n\nSo here's the real question: when you pick a model to build on, do you check who was still in the room when it shipped? 🧭⚖️🚪"
+        }
+      },
+      "instagram_caption": "Eleven leaders have left OpenAI in just months, and every single exit traces back to one fight: how fast models ship versus how safe they are.\n\nThat dispute now decides which models actually reach you. More safety-focused leaders leave, and the pace of releases speeds up. Each departure shifts the balance further.\n\nIf you create content or build tools on OpenAI models, the trade-off isn't abstract anymore—you're getting faster outputs, but the people who argued for guardrails are gone.\n\nSo here's the real question: when you pick a model to build on, do you check who was still in the room when it shipped? 🧭⚖️🚪",
+      "carousel_slides": [
+        {
+          "hook": "Who's next to leave OpenAI?",
+          "description": "Eleven leaders have left in months. Each exit traces to one core dispute over safety vs. speed.",
+          "visual_hint": "Empty office chair",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office chair"
+        },
+        {
+          "hook": "Safety vs. speed battleground",
+          "description": "That dispute now decides which models ship. The balance shifts with every departure.",
+          "visual_hint": "Scale tipping balance",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Departures speed up models",
+          "description": "More safety-focused leaders leave, faster models arrive. The consequence is clear.",
+          "visual_hint": "Rocket launching",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rocket launch",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask candidates their stance",
+          "description": "Their answer on safety predicts the next departure. The pattern is consistent.",
+          "visual_hint": "Handshake questioning",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake",
+          "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check the leadership page now",
+          "description": "Count the vacancies at OpenAI. Ask yourself: would you join? Save this to track.",
+          "visual_hint": "Vacancy list",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "job vacancy list",
+          "image": "https://images.pexels.com/photos/9841328/pexels-photo-9841328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.664146549656%2C100%2C78.671706900689&amp;w=1200",
+      "savedAt": "2026-08-12T09:03:49.644Z",
+      "sourceId": "ec2a33ae5cfe07e95db38d1552a9d062"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "india-s-yulu-raises-93m-as-quick-commerce-boom-fue",
       "prompt_version": "1.0.0",
       "status": "published",
