@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "grok-is-now-an-ai-teammate-you-can-assign-work",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Grok is now an AI ‘teammate’ you can assign work",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+  "pubDate": "2026-08-12T11:58:54.000Z",
+  "slides": [
+    "Can Grok truly work as your teammate?",
+    "Grok now accepts assigned tasks autonomously",
+    "It runs entire workflows, even while you sleep",
+    "Your role shifts from doing to reviewing output",
+    "Test it: delegate one low-risk task today"
+  ],
+  "thread_text": [
+    "1. Your teammate never sleeps\n\nGrok now runs entire workflows autonomously, even while you're offline. It doesn't just assist—it executes from start to finish.",
+    "2. Delegate or drown\n\nAs Grok accepts assigned tasks and completes them, your role shifts to reviewing outcomes. The question isn't if AI can work alone—it's when you'll trust it.",
+    "3. The sleep test\n\nImagine waking up to a completed report, a sorted inbox, and a drafted strategy. Sleep is the new productivity metric—just review the output.",
+    "4. The real shift\n\nYour job title isn't 'doer' anymore; it's 'approver.' The skill of delegation becomes your core competency, and micromanaging becomes obsolete.",
+    "5. Test it now\n\nPick one low-risk task today and hand it to Grok. Submit a report or draft an email. If the output doesn't pass, you've lost nothing. If it does, you've gained hours."
+  ],
+  "video_script": [
+    "Grok works as your teammate.",
+    "It accepts tasks and runs workflows.",
+    "You sleep while it works.",
+    "Your role becomes reviewing output.",
+    "Try it on a low-risk task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your teammate never sleeps\n\nGrok now runs entire workflows autonomously, even while you're offline. It doesn't just assist—it executes from start to finish.",
+        "2. Delegate or drown\n\nAs Grok accepts assigned tasks and completes them, your role shifts to reviewing outcomes. The question isn't if AI can work alone—it's when you'll trust it.",
+        "3. The sleep test\n\nImagine waking up to a completed report, a sorted inbox, and a drafted strategy. Sleep is the new productivity metric—just review the output.",
+        "4. The real shift\n\nYour job title isn't 'doer' anymore; it's 'approver.' The skill of delegation becomes your core competency, and micromanaging becomes obsolete.",
+        "5. Test it now\n\nPick one low-risk task today and hand it to Grok. Submit a report or draft an email. If the output doesn't pass, you've lost nothing. If it does, you've gained hours."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Grok works as your teammate.",
+        "It accepts tasks and runs workflows.",
+        "You sleep while it works.",
+        "Your role becomes reviewing output.",
+        "Try it on a low-risk task."
+      ]
+    },
+    "instagram": {
+      "caption": "You assign a task, Grok runs the entire workflow, and you review the result in the morning.  \n\nGrok now accepts autonomous assignments, executing multi-step processes from start to finish—even while you're offline. Your role compresses from doing to approving, making delegation the core skill.  \n\nFor anyone creating content, this means the bottleneck shifts from execution to oversight. You don't write the draft; you judge the output.  \n\nWhat's the first low-risk task you'd hand off tonight—drafting an email or summarizing a report? ⏳"
+    }
+  },
+  "instagram_caption": "You assign a task, Grok runs the entire workflow, and you review the result in the morning.  \n\nGrok now accepts autonomous assignments, executing multi-step processes from start to finish—even while you're offline. Your role compresses from doing to approving, making delegation the core skill.  \n\nFor anyone creating content, this means the bottleneck shifts from execution to oversight. You don't write the draft; you judge the output.  \n\nWhat's the first low-risk task you'd hand off tonight—drafting an email or summarizing a report? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "What if AI never sleeps?",
+      "description": "Grok now executes entire workflows autonomously, even while you're offline. It doesn't just assist—it completes tasks from start to finish.",
+      "visual_hint": "Night city with glowing screens",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "city night skyline"
+    },
+    {
+      "hook": "Delegate or drown in tasks?",
+      "description": "Grok accepts assigned tasks and completes them, shifting your role from doer to reviewer. The question is when you'll trust it.",
+      "visual_hint": "Split screen: overwhelmed vs. relaxed",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office workers busy",
+      "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Wake up to finished reports?",
+      "description": "Imagine waking to a completed report, sorted inbox, and drafted strategy. Sleep becomes your productivity metric—just review output.",
+      "visual_hint": "Sunrise over a tidy desk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sunrise desk workspace",
+      "image": "https://images.pexels.com/photos/7660557/pexels-photo-7660557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your new title: approver.",
+      "description": "Your job shifts from doing to reviewing. Delegation becomes your core skill, and micromanaging becomes obsolete.",
+      "visual_hint": "Hands approving a document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand writing signature",
+      "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it now: delegate a task.",
+      "description": "Pick one low-risk task today, hand it to Grok. If it fails, you lose nothing. If it works, you gain hours.",
+      "visual_hint": "Green checkmark over a calendar",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar with checkmark",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-12T12:47:46.805Z",
+  "sourceId": "9ebfb3cbe9d9719eb9f903964601a03b"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "grok-is-now-an-ai-teammate-you-can-assign-work",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "pubDate": "2026-08-12T11:58:54.000Z",
+    "slides": [
+      "Can Grok truly work as your teammate?",
+      "Grok now accepts assigned tasks autonomously",
+      "It runs entire workflows, even while you sleep",
+      "Your role shifts from doing to reviewing output",
+      "Test it: delegate one low-risk task today"
+    ],
+    "thread_text": [
+      "1. Your teammate never sleeps\n\nGrok now runs entire workflows autonomously, even while you're offline. It doesn't just assist—it executes from start to finish.",
+      "2. Delegate or drown\n\nAs Grok accepts assigned tasks and completes them, your role shifts to reviewing outcomes. The question isn't if AI can work alone—it's when you'll trust it.",
+      "3. The sleep test\n\nImagine waking up to a completed report, a sorted inbox, and a drafted strategy. Sleep is the new productivity metric—just review the output.",
+      "4. The real shift\n\nYour job title isn't 'doer' anymore; it's 'approver.' The skill of delegation becomes your core competency, and micromanaging becomes obsolete.",
+      "5. Test it now\n\nPick one low-risk task today and hand it to Grok. Submit a report or draft an email. If the output doesn't pass, you've lost nothing. If it does, you've gained hours."
+    ],
+    "video_script": [
+      "Grok works as your teammate.",
+      "It accepts tasks and runs workflows.",
+      "You sleep while it works.",
+      "Your role becomes reviewing output.",
+      "Try it on a low-risk task."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your teammate never sleeps\n\nGrok now runs entire workflows autonomously, even while you're offline. It doesn't just assist—it executes from start to finish.",
+          "2. Delegate or drown\n\nAs Grok accepts assigned tasks and completes them, your role shifts to reviewing outcomes. The question isn't if AI can work alone—it's when you'll trust it.",
+          "3. The sleep test\n\nImagine waking up to a completed report, a sorted inbox, and a drafted strategy. Sleep is the new productivity metric—just review the output.",
+          "4. The real shift\n\nYour job title isn't 'doer' anymore; it's 'approver.' The skill of delegation becomes your core competency, and micromanaging becomes obsolete.",
+          "5. Test it now\n\nPick one low-risk task today and hand it to Grok. Submit a report or draft an email. If the output doesn't pass, you've lost nothing. If it does, you've gained hours."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Grok works as your teammate.",
+          "It accepts tasks and runs workflows.",
+          "You sleep while it works.",
+          "Your role becomes reviewing output.",
+          "Try it on a low-risk task."
+        ]
+      },
+      "instagram": {
+        "caption": "You assign a task, Grok runs the entire workflow, and you review the result in the morning.  \n\nGrok now accepts autonomous assignments, executing multi-step processes from start to finish—even while you're offline. Your role compresses from doing to approving, making delegation the core skill.  \n\nFor anyone creating content, this means the bottleneck shifts from execution to oversight. You don't write the draft; you judge the output.  \n\nWhat's the first low-risk task you'd hand off tonight—drafting an email or summarizing a report? ⏳"
+      }
+    },
+    "instagram_caption": "You assign a task, Grok runs the entire workflow, and you review the result in the morning.  \n\nGrok now accepts autonomous assignments, executing multi-step processes from start to finish—even while you're offline. Your role compresses from doing to approving, making delegation the core skill.  \n\nFor anyone creating content, this means the bottleneck shifts from execution to oversight. You don't write the draft; you judge the output.  \n\nWhat's the first low-risk task you'd hand off tonight—drafting an email or summarizing a report? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "What if AI never sleeps?",
+        "description": "Grok now executes entire workflows autonomously, even while you're offline. It doesn't just assist—it completes tasks from start to finish.",
+        "visual_hint": "Night city with glowing screens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "city night skyline"
+      },
+      {
+        "hook": "Delegate or drown in tasks?",
+        "description": "Grok accepts assigned tasks and completes them, shifting your role from doer to reviewer. The question is when you'll trust it.",
+        "visual_hint": "Split screen: overwhelmed vs. relaxed",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office workers busy",
+        "image": "https://images.pexels.com/photos/7653568/pexels-photo-7653568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Wake up to finished reports?",
+        "description": "Imagine waking to a completed report, sorted inbox, and drafted strategy. Sleep becomes your productivity metric—just review output.",
+        "visual_hint": "Sunrise over a tidy desk",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sunrise desk workspace",
+        "image": "https://images.pexels.com/photos/7660557/pexels-photo-7660557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your new title: approver.",
+        "description": "Your job shifts from doing to reviewing. Delegation becomes your core skill, and micromanaging becomes obsolete.",
+        "visual_hint": "Hands approving a document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand writing signature",
+        "image": "https://images.pexels.com/photos/8730977/pexels-photo-8730977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it now: delegate a task.",
+        "description": "Pick one low-risk task today, hand it to Grok. If it fails, you lose nothing. If it works, you gain hours.",
+        "visual_hint": "Green checkmark over a calendar",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calendar with checkmark",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-12T12:47:46.805Z",
+    "sourceId": "9ebfb3cbe9d9719eb9f903964601a03b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-code-testing-startup-blacksmith-s-valuation-jum",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "pubDate": "Wed, 12 Aug 2026 11:00:00 +0000",
+    "slides": [
+      "Blacksmith's valuation jumped 10x—what's the secret?",
+      "Investors poured in less than one year.",
+      "Their AI finds bugs humans and tools miss.",
+      "Your review cycles could shrink dramatically tomorrow.",
+      "Test it now, or your competitors will."
+    ],
+    "thread_text": [
+      "1. 10x in under a year\n\nBlacksmith's valuation multiplied by ten in less than twelve months. The catalyst wasn't a new product—it was a bug-finding AI.",
+      "2. The invisible bugs\n\nTheir AI catches defects that human reviewers and existing tools routinely miss. That gap is where expensive failures hide.",
+      "3. Shrink review cycles\n\nAdopting this tool could cut your code review time dramatically. What once took days might take hours.",
+      "4. The competitive edge\n\nEarly adopters are already shipping faster with fewer errors. Your current process is now the bottleneck.",
+      "5. Test it yourself\n\nRun a trial on your next pull request. Do you really want your competitors to find this first?"
+    ],
+    "video_script": [
+      "A startup's value jumped ten times in a year.",
+      "Their secret? An AI that finds bugs.",
+      "Humans and old tools miss these defects.",
+      "Review cycles shrink dramatically with it.",
+      "Try it before your competitors do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 10x in under a year\n\nBlacksmith's valuation multiplied by ten in less than twelve months. The catalyst wasn't a new product—it was a bug-finding AI.",
+          "2. The invisible bugs\n\nTheir AI catches defects that human reviewers and existing tools routinely miss. That gap is where expensive failures hide.",
+          "3. Shrink review cycles\n\nAdopting this tool could cut your code review time dramatically. What once took days might take hours.",
+          "4. The competitive edge\n\nEarly adopters are already shipping faster with fewer errors. Your current process is now the bottleneck.",
+          "5. Test it yourself\n\nRun a trial on your next pull request. Do you really want your competitors to find this first?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A startup's value jumped ten times in a year.",
+          "Their secret? An AI that finds bugs.",
+          "Humans and old tools miss these defects.",
+          "Review cycles shrink dramatically with it.",
+          "Try it before your competitors do."
+        ]
+      },
+      "instagram": {
+        "caption": "A code-testing startup just saw its valuation jump 10x in under a year—because their AI catches bugs that human reviewers and existing tools routinely miss. 🐛\n\nThat gap is where expensive failures hide. Blacksmith’s tool doesn’t replace your team; it finds the defects your current process overlooks. Early adopters are already shrinking review cycles from days to hours. ⏱️\n\nIf you ship code, your review process is now the bottleneck. Your competitors testing this tool are shipping faster with fewer errors.\n\nHave you run their AI on your last pull request yet? If not, why? 🔍"
+      }
+    },
+    "instagram_caption": "A code-testing startup just saw its valuation jump 10x in under a year—because their AI catches bugs that human reviewers and existing tools routinely miss. 🐛\n\nThat gap is where expensive failures hide. Blacksmith’s tool doesn’t replace your team; it finds the defects your current process overlooks. Early adopters are already shrinking review cycles from days to hours. ⏱️\n\nIf you ship code, your review process is now the bottleneck. Your competitors testing this tool are shipping faster with fewer errors.\n\nHave you run their AI on your last pull request yet? If not, why? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "The bug finder your tools miss",
+        "description": "Blacksmith's valuation jumped 10x in under a year. Their AI catches bugs humans and existing tools routinely overlook.",
+        "visual_hint": "Surreal bug magnified under spotlight",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "magnifying glass circuit board"
+      },
+      {
+        "hook": "Investors poured in fast. Why?",
+        "description": "Less than one year after launch, investors flooded in. The catalyst wasn't a new product—it was a bug-finding AI.",
+        "visual_hint": "Chart arrow pointing steeply upward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Invisible defects, expensive failures",
+        "description": "Their AI spots defects humans and current tools miss. That gap is where costly bugs hide until they explode in production.",
+        "visual_hint": "Microscopic view of code with glowing bug",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microscope lens technology",
+        "image": "https://images.pexels.com/photos/8851782/pexels-photo-8851782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your review cycle is the bottleneck",
+        "description": "Adopting this tool could shrink your review cycle dramatically. What once took days might take hours—early adopters ship faster.",
+        "visual_hint": "Hand holding timer being squeezed",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stopwatch hand",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your competitors do",
+        "description": "Run a trial on your next pull request. Test it now—or watch rivals find these bugs first and ship ahead of you.",
+        "visual_hint": "Screen with 'Try it now' and cursor",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop code screen",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-12T12:47:34.170Z",
+    "sourceId": "618c36a0317edf70cd221d19ea7d49eb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "reservoir-raises-8m-to-make-water-heaters-that-peo",
     "prompt_version": "1.0.0",
     "status": "published",
