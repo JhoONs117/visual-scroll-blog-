@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "reservoir-raises-8m-to-make-water-heaters-that-peo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+    "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+    "pubDate": "Wed, 12 Aug 2026 10:00:00 +0000",
+    "slides": [
+      "Reservoir got $8M, but can heaters think?",
+      "Most water heaters ignore grid stress signals.",
+      "This one stores energy like a thermal battery.",
+      "Your utility could pay you for flexible usage.",
+      "Ask your utility if grid-aware heaters are available."
+    ],
+    "thread_text": [
+      "1. Heaters That Think?\n\nReservoir raised $8M to make water heaters that respond to grid stress signals.",
+      "2. Thermal Battery Duel\n\nUnlike most heaters, this one stores energy like a battery, enabling flexible usage.",
+      "3. Grid Stress Signal\n\nUtilities could pay you for shifting energy use to off-peak times.",
+      "4. Ask for It\n\nCheck if your utility offers grid-aware heaters—don't wait for them to come to you.",
+      "5. Your Move\n\nWill you ask your utility about grid-aware heaters today?"
+    ],
+    "video_script": [
+      "Water heaters can think and earn money.",
+      "Most ignore grid stress, but this stores energy.",
+      "Utilities pay for flexible usage, ask them.",
+      "Grid-aware heaters cut costs and help grid.",
+      "Ask your utility today, it's that simple."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Heaters That Think?\n\nReservoir raised $8M to make water heaters that respond to grid stress signals.",
+          "2. Thermal Battery Duel\n\nUnlike most heaters, this one stores energy like a battery, enabling flexible usage.",
+          "3. Grid Stress Signal\n\nUtilities could pay you for shifting energy use to off-peak times.",
+          "4. Ask for It\n\nCheck if your utility offers grid-aware heaters—don't wait for them to come to you.",
+          "5. Your Move\n\nWill you ask your utility about grid-aware heaters today?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Water heaters can think and earn money.",
+          "Most ignore grid stress, but this stores energy.",
+          "Utilities pay for flexible usage, ask them.",
+          "Grid-aware heaters cut costs and help grid.",
+          "Ask your utility today, it's that simple."
+        ]
+      },
+      "instagram": {
+        "caption": "Your water heater could soon be a money-making battery for your home.\n\nReservoir just raised $8M to build heaters that store energy like a thermal battery and respond to grid stress signals. Most heaters today ignore those signals entirely, but this one shifts energy use to off-peak times—and your utility could pay you for that flexibility.\n\nIf you create content about home tech or energy, this is a concrete product to track, not a vague trend.\n\nWill you ask your utility if grid-aware heaters are available yet? 🔥💡⚡"
+      }
+    },
+    "instagram_caption": "Your water heater could soon be a money-making battery for your home.\n\nReservoir just raised $8M to build heaters that store energy like a thermal battery and respond to grid stress signals. Most heaters today ignore those signals entirely, but this one shifts energy use to off-peak times—and your utility could pay you for that flexibility.\n\nIf you create content about home tech or energy, this is a concrete product to track, not a vague trend.\n\nWill you ask your utility if grid-aware heaters are available yet? 🔥💡⚡",
+    "carousel_slides": [
+      {
+        "hook": "Can water heaters think?",
+        "description": "Reservoir raised $8M for a water heater that responds to grid stress signals.",
+        "visual_hint": "Thermostat with digital brain",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart thermostat digital"
+      },
+      {
+        "hook": "Thermal battery, not just heater",
+        "description": "Unlike most heaters, this one stores energy like a battery, enabling flexible usage.",
+        "visual_hint": "Battery icon with heat waves",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "thermal battery storage",
+        "image": "https://images.pexels.com/photos/37929911/pexels-photo-37929911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Grid stress? Get paid",
+        "description": "Utilities may pay you for shifting energy use to off-peak times.",
+        "visual_hint": "Utility bill with savings arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electric grid power lines",
+        "image": "https://images.pexels.com/photos/15226606/pexels-photo-15226606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your utility about it",
+        "description": "Check if your utility offers grid-aware heaters—don't wait for them to come to you.",
+        "visual_hint": "Phone call with utility logo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding smartphone",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Comment your utility's name",
+        "description": "Save this post, then ask your utility about grid-aware heaters today.",
+        "visual_hint": "Comment box with names",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "customer service desk",
+        "image": "https://images.pexels.com/photos/8867258/pexels-photo-8867258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reservoir-water-heater-installation.jpeg?resize=1200,800",
+    "savedAt": "2026-08-12T10:52:41.087Z",
+    "sourceId": "d225c60a0e034535fa23973ffbda078f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "another-openai-executive-takes-off",
     "prompt_version": "1.0.0",
     "status": "published",
