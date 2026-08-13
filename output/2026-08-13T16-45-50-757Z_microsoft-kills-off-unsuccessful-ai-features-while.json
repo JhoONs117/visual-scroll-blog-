@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-kills-off-unsuccessful-ai-features-while",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+  "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+  "pubDate": "Thu, 13 Aug 2026 15:30:52 +0000",
+  "slides": [
+    "Why is Microsoft killing its own AI features?",
+    "It is merging separate Copilot apps into one.",
+    "The failed features were quietly used by few users.",
+    "Your workflow may change, but tools stay familiar.",
+    "Check your Copilot app update for merged experience."
+  ],
+  "thread_text": [
+    "1. Why the purge?\n\nMicrosoft is quietly merging its separate Copilot apps into one, signaling that the standalone versions failed to gain traction.",
+    "2. The silent killer\n\nThe abandoned features were barely used, yet their removal could silently reshape your daily workflow.",
+    "3. The hidden shift\n\nWhile tools stay familiar, the merge may change how you access AI assistance—without you noticing until it's done.",
+    "4. The bigger picture\n\nThis consolidation hints at a broader strategy: Microsoft betting on a unified AI experience over scattered features.",
+    "5. Your next move\n\nCheck your Copilot app update today. Will you adapt to the merged experience, or seek alternatives?"
+  ],
+  "video_script": [
+    "Microsoft is merging Copilot apps into one.",
+    "Some features were rarely used and now vanish.",
+    "Your workflow might shift, but tools stay familiar.",
+    "Check the update to see the new unified experience.",
+    "Question: will you welcome this change or resist?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the purge?\n\nMicrosoft is quietly merging its separate Copilot apps into one, signaling that the standalone versions failed to gain traction.",
+        "2. The silent killer\n\nThe abandoned features were barely used, yet their removal could silently reshape your daily workflow.",
+        "3. The hidden shift\n\nWhile tools stay familiar, the merge may change how you access AI assistance—without you noticing until it's done.",
+        "4. The bigger picture\n\nThis consolidation hints at a broader strategy: Microsoft betting on a unified AI experience over scattered features.",
+        "5. Your next move\n\nCheck your Copilot app update today. Will you adapt to the merged experience, or seek alternatives?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft is merging Copilot apps into one.",
+        "Some features were rarely used and now vanish.",
+        "Your workflow might shift, but tools stay familiar.",
+        "Check the update to see the new unified experience.",
+        "Question: will you welcome this change or resist?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your separate Copilot apps are being merged into one — Microsoft confirmed the consolidation after the standalone versions quietly failed to gain traction.\n\nThe features being killed were barely used by anyone. That’s why the removal feels invisible at first. But the merge changes where you find AI help inside tools you already use every day — same buttons, different door. 🔄\n\nIf you create content, your workflow may shift without a warning — one day you’ll open the app and the old options are just… gone. 📉\n\nIs your Copilot app updated yet? Check today before the merge hits you mid-project. 🗓️"
+    }
+  },
+  "instagram_caption": "Your separate Copilot apps are being merged into one — Microsoft confirmed the consolidation after the standalone versions quietly failed to gain traction.\n\nThe features being killed were barely used by anyone. That’s why the removal feels invisible at first. But the merge changes where you find AI help inside tools you already use every day — same buttons, different door. 🔄\n\nIf you create content, your workflow may shift without a warning — one day you’ll open the app and the old options are just… gone. 📉\n\nIs your Copilot app updated yet? Check today before the merge hits you mid-project. 🗓️",
+  "carousel_slides": [
+    {
+      "hook": "Why is Microsoft killing its own AI?",
+      "description": "Unpopular AI features are being quietly removed, signaling a shift that could reshape how you work daily.",
+      "visual_hint": "Microsoft logo with red X",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Microsoft logo red"
+    },
+    {
+      "hook": "The silent killer: unused features",
+      "description": "Microsoft is merging its separate Copilot apps into one because the standalone versions barely gained traction.",
+      "visual_hint": "Two apps merging into one",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone apps merge",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your workflow may change without notice",
+      "description": "Though tools stay familiar, the merge could alter how you access AI assistance—you might not notice until it's done.",
+      "visual_hint": "Calendar with question mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "workspace desk laptop",
+      "image": "https://images.pexels.com/photos/19826624/pexels-photo-19826624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A unified AI experience is coming",
+      "description": "This consolidation shows Microsoft betting on one integrated AI instead of scattered features—a broader strategic move.",
+      "visual_hint": "Puzzle pieces connecting",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "puzzle pieces connect",
+      "image": "https://images.pexels.com/photos/8386125/pexels-photo-8386125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your Copilot update",
+      "description": "Open your Copilot app today and see if the merged experience is there. Adapt or explore alternatives.",
+      "visual_hint": "Finger pressing update button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "app update button",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
+  "savedAt": "2026-08-13T16:46:04.021Z",
+  "sourceId": "ae02d5bda82cc078f6d3abf7324bdbf1"
+}
