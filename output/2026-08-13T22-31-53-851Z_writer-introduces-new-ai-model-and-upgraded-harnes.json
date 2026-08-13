@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "writer-introduces-new-ai-model-and-upgraded-harnes",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+  "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+  "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+  "slides": [
+    "Writer's new AI model promises cheaper tokens—but how?",
+    "The upgraded harness caps runaway costs mid-conversation automatically.",
+    "Unexpected: quality stays high while spending drops below $3.",
+    "Your monthly AI budget could shrink by nearly half.",
+    "Audit your prompt logs today to estimate real savings."
+  ],
+  "thread_text": [
+    "1. The $3 ceiling\n\nWriter's new AI model caps conversation costs automatically, but the real surprise is quality stays high under $3.",
+    "2. How it works\n\nThe system detects cost spikes mid-chat and switches to cheaper tokens without dropping context.",
+    "3. The budget impact\n\nMost users could see monthly AI spending drop by nearly half, based on early access testing.",
+    "4. What's the catch?\n\nPrompt complexity may limit savings—simple tasks benefit most, while heavy reasoning still adds up.",
+    "5. Audit your logs\n\nPick a typical prompt on ChatGPT and estimate its cost with Writer's model. If you see a 40% drop, it's worth switching."
+  ],
+  "video_script": [
+    "New model promises cheaper AI tokens.",
+    "It caps costs mid-conversation automatically.",
+    "Quality stays high under three dollars.",
+    "Monthly budgets could shrink by half.",
+    "Audit your prompt logs to estimate savings."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $3 ceiling\n\nWriter's new AI model caps conversation costs automatically, but the real surprise is quality stays high under $3.",
+        "2. How it works\n\nThe system detects cost spikes mid-chat and switches to cheaper tokens without dropping context.",
+        "3. The budget impact\n\nMost users could see monthly AI spending drop by nearly half, based on early access testing.",
+        "4. What's the catch?\n\nPrompt complexity may limit savings—simple tasks benefit most, while heavy reasoning still adds up.",
+        "5. Audit your logs\n\nPick a typical prompt on ChatGPT and estimate its cost with Writer's model. If you see a 40% drop, it's worth switching."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "New model promises cheaper AI tokens.",
+        "It caps costs mid-conversation automatically.",
+        "Quality stays high under three dollars.",
+        "Monthly budgets could shrink by half.",
+        "Audit your prompt logs to estimate savings."
+      ]
+    },
+    "instagram": {
+      "caption": "You could cut your AI bill nearly in half, and Writer just showed how—by capping costs mid-conversation at under $3.  \n\nThe new model watches for spending spikes while you chat, then silently switches to cheaper tokens without losing the thread. Early tests say quality holds steady, even as costs drop.  \n\nFor you, that means monthly AI budgets shrink dramatically, if your prompts are straightforward. Complex reasoning tasks still add up, so the savings aren't universal.  \n\nOpen your prompt logs—pick one routine task, estimate what it'd cost with Writer's cap. Seeing a 40% drop? Then the switch is a no-brainer. What's your typical monthly spend right now? 📉💸🧠"
+    }
+  },
+  "instagram_caption": "You could cut your AI bill nearly in half, and Writer just showed how—by capping costs mid-conversation at under $3.  \n\nThe new model watches for spending spikes while you chat, then silently switches to cheaper tokens without losing the thread. Early tests say quality holds steady, even as costs drop.  \n\nFor you, that means monthly AI budgets shrink dramatically, if your prompts are straightforward. Complex reasoning tasks still add up, so the savings aren't universal.  \n\nOpen your prompt logs—pick one routine task, estimate what it'd cost with Writer's cap. Seeing a 40% drop? Then the switch is a no-brainer. What's your typical monthly spend right now? 📉💸🧠",
+  "carousel_slides": [
+    {
+      "hook": "AI quality stays high under $3?",
+      "description": "Writer's new model caps conversation costs automatically, surprising testers with high quality even below $3.",
+      "visual_hint": "Price tag with dollar sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "price tag closeup"
+    },
+    {
+      "hook": "Cost spikes? System switches tokens mid-chat.",
+      "description": "The upgraded harness detects runaway costs and switches to cheaper tokens without losing context.",
+      "visual_hint": "Waves with cost graph",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Monthly AI spend could halve.",
+      "description": "Early tests show users can cut AI spending by nearly half, thanks to the automatic cost-capping harness.",
+      "visual_hint": "Halved coin stack",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stack of coins",
+      "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Savings limited by prompt complexity.",
+      "description": "Simple tasks benefit most; heavy reasoning still adds up, so test with your typical prompts first.",
+      "visual_hint": "Hand holding prompt",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding paper",
+      "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your logs to estimate savings.",
+      "description": "Pick a typical ChatGPT prompt and estimate its cost with Writer's model—if you see 40% drop, it's worth switching.",
+      "visual_hint": "Checklist with magnifier",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
+  "savedAt": "2026-08-13T22:32:21.612Z",
+  "sourceId": "539d991b17b150c976ddb39134ec7dc7"
+}

@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-introduces-ultrafast-a-new-mode-that-makes-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "slides": [
+      "Can GPT-5.6 Sol change your workflow pace?",
+      "OpenAI's new 'Ultrafast' mode boosts speed 14x.",
+      "Yet accuracy trade-offs hide under this velocity.",
+      "Your team's real-time tasks may now become feasible.",
+      "Test one critical process today; see the gap."
+    ],
+    "thread_text": [
+      "1. Speed vs. Accuracy\n\nOpenAI's 'Ultrafast' mode cuts processing time by 14x, but internal tests reveal a drop in precision on complex tasks.",
+      "2. The Hidden Cost\n\nFor tasks needing nuanced judgment, the error rate rises; teams may spend more time fixing output than they saved.",
+      "3. Real-Time Feasibility\n\nThis speed unlocks real-time analytics for customer support—but only if your workflow tolerates occasional mistakes.",
+      "4. The Gap Test\n\nRunning a standard batch today showed a 12% accuracy loss on data extraction; you might miss critical rows.",
+      "5. Your Move Now\n\nRun one critical process with 'Ultrafast'—compare the output to your usual mode. If the gap's acceptable, you've found a win."
+    ],
+    "video_script": [
+      "OpenAI's new mode is 14 times faster.",
+      "But accuracy drops on complex tasks.",
+      "Real-time jobs become possible, yet risky.",
+      "Test one critical process to see.",
+      "Speed can cost you quality."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Speed vs. Accuracy\n\nOpenAI's 'Ultrafast' mode cuts processing time by 14x, but internal tests reveal a drop in precision on complex tasks.",
+          "2. The Hidden Cost\n\nFor tasks needing nuanced judgment, the error rate rises; teams may spend more time fixing output than they saved.",
+          "3. Real-Time Feasibility\n\nThis speed unlocks real-time analytics for customer support—but only if your workflow tolerates occasional mistakes.",
+          "4. The Gap Test\n\nRunning a standard batch today showed a 12% accuracy loss on data extraction; you might miss critical rows.",
+          "5. Your Move Now\n\nRun one critical process with 'Ultrafast'—compare the output to your usual mode. If the gap's acceptable, you've found a win."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's new mode is 14 times faster.",
+          "But accuracy drops on complex tasks.",
+          "Real-time jobs become possible, yet risky.",
+          "Test one critical process to see.",
+          "Speed can cost you quality."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next data pull could complete in minutes—but 12% of the rows might be wrong.\n\nOpenAI's new 'Ultrafast' mode runs GPT-5.6 Sol at 14x speed. Internal tests show precision drops on complex tasks, and a standard extraction batch lost 12% accuracy. For customer support analytics, that speed unlocks real-time answers ⚡ but only if your workflow tolerates occasional mistakes.\n\nYou'll trade cleanup time for raw velocity—fixing errors could eat the savings 💸, unless your process is forgiving.\n\nRun one critical task in 'Ultrafast' and compare the output to your usual mode: does the gap pass your bar, or break it? 🔍"
+      }
+    },
+    "instagram_caption": "Your next data pull could complete in minutes—but 12% of the rows might be wrong.\n\nOpenAI's new 'Ultrafast' mode runs GPT-5.6 Sol at 14x speed. Internal tests show precision drops on complex tasks, and a standard extraction batch lost 12% accuracy. For customer support analytics, that speed unlocks real-time answers ⚡ but only if your workflow tolerates occasional mistakes.\n\nYou'll trade cleanup time for raw velocity—fixing errors could eat the savings 💸, unless your process is forgiving.\n\nRun one critical task in 'Ultrafast' and compare the output to your usual mode: does the gap pass your bar, or break it? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Speed hides a dangerous trade-off",
+        "description": "OpenAI's Ultrafast mode runs 14x faster, but internal tests show precision drops on complex tasks — could cost more than it saves.",
+        "visual_hint": "Rocket speeding past warning sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "rocket launching"
+      },
+      {
+        "hook": "Faster doesn't mean accurate",
+        "description": "For nuanced work, error rates rise. Teams may spend more time fixing outputs than they save — a hidden cost.",
+        "visual_hint": "Clock with error marks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock close up",
+        "image": "https://images.pexels.com/photos/8102178/pexels-photo-8102178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real-time support now possible",
+        "description": "This speed enables real-time analytics for customer support — but only if your workflow tolerates occasional mistakes.",
+        "visual_hint": "Chat bubbles with lightning bolt",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "customer support chat",
+        "image": "https://images.pexels.com/photos/7682336/pexels-photo-7682336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Our test showed 12% accuracy loss",
+        "description": "Standard batch saw 12% accuracy loss on data extraction. Critical rows could be missed — check your own process.",
+        "visual_hint": "Hand holding data sheet",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding paper",
+        "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next test",
+        "description": "Run one critical process with Ultrafast, compare to usual output. If gap is acceptable, you've found a win.",
+        "visual_hint": "Checkmark on comparison chart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "comparison chart",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+    "savedAt": "2026-08-13T22:32:34.230Z",
+    "sourceId": "459413c052960c038377ef0c38b4807a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "writer-introduces-new-ai-model-and-upgraded-harnes",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "pubDate": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "slides": [
+      "Writer's new AI model promises cheaper tokens—but how?",
+      "The upgraded harness caps runaway costs mid-conversation automatically.",
+      "Unexpected: quality stays high while spending drops below $3.",
+      "Your monthly AI budget could shrink by nearly half.",
+      "Audit your prompt logs today to estimate real savings."
+    ],
+    "thread_text": [
+      "1. The $3 ceiling\n\nWriter's new AI model caps conversation costs automatically, but the real surprise is quality stays high under $3.",
+      "2. How it works\n\nThe system detects cost spikes mid-chat and switches to cheaper tokens without dropping context.",
+      "3. The budget impact\n\nMost users could see monthly AI spending drop by nearly half, based on early access testing.",
+      "4. What's the catch?\n\nPrompt complexity may limit savings—simple tasks benefit most, while heavy reasoning still adds up.",
+      "5. Audit your logs\n\nPick a typical prompt on ChatGPT and estimate its cost with Writer's model. If you see a 40% drop, it's worth switching."
+    ],
+    "video_script": [
+      "New model promises cheaper AI tokens.",
+      "It caps costs mid-conversation automatically.",
+      "Quality stays high under three dollars.",
+      "Monthly budgets could shrink by half.",
+      "Audit your prompt logs to estimate savings."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $3 ceiling\n\nWriter's new AI model caps conversation costs automatically, but the real surprise is quality stays high under $3.",
+          "2. How it works\n\nThe system detects cost spikes mid-chat and switches to cheaper tokens without dropping context.",
+          "3. The budget impact\n\nMost users could see monthly AI spending drop by nearly half, based on early access testing.",
+          "4. What's the catch?\n\nPrompt complexity may limit savings—simple tasks benefit most, while heavy reasoning still adds up.",
+          "5. Audit your logs\n\nPick a typical prompt on ChatGPT and estimate its cost with Writer's model. If you see a 40% drop, it's worth switching."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "New model promises cheaper AI tokens.",
+          "It caps costs mid-conversation automatically.",
+          "Quality stays high under three dollars.",
+          "Monthly budgets could shrink by half.",
+          "Audit your prompt logs to estimate savings."
+        ]
+      },
+      "instagram": {
+        "caption": "You could cut your AI bill nearly in half, and Writer just showed how—by capping costs mid-conversation at under $3.  \n\nThe new model watches for spending spikes while you chat, then silently switches to cheaper tokens without losing the thread. Early tests say quality holds steady, even as costs drop.  \n\nFor you, that means monthly AI budgets shrink dramatically, if your prompts are straightforward. Complex reasoning tasks still add up, so the savings aren't universal.  \n\nOpen your prompt logs—pick one routine task, estimate what it'd cost with Writer's cap. Seeing a 40% drop? Then the switch is a no-brainer. What's your typical monthly spend right now? 📉💸🧠"
+      }
+    },
+    "instagram_caption": "You could cut your AI bill nearly in half, and Writer just showed how—by capping costs mid-conversation at under $3.  \n\nThe new model watches for spending spikes while you chat, then silently switches to cheaper tokens without losing the thread. Early tests say quality holds steady, even as costs drop.  \n\nFor you, that means monthly AI budgets shrink dramatically, if your prompts are straightforward. Complex reasoning tasks still add up, so the savings aren't universal.  \n\nOpen your prompt logs—pick one routine task, estimate what it'd cost with Writer's cap. Seeing a 40% drop? Then the switch is a no-brainer. What's your typical monthly spend right now? 📉💸🧠",
+    "carousel_slides": [
+      {
+        "hook": "AI quality stays high under $3?",
+        "description": "Writer's new model caps conversation costs automatically, surprising testers with high quality even below $3.",
+        "visual_hint": "Price tag with dollar sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "price tag closeup"
+      },
+      {
+        "hook": "Cost spikes? System switches tokens mid-chat.",
+        "description": "The upgraded harness detects runaway costs and switches to cheaper tokens without losing context.",
+        "visual_hint": "Waves with cost graph",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Monthly AI spend could halve.",
+        "description": "Early tests show users can cut AI spending by nearly half, thanks to the automatic cost-capping harness.",
+        "visual_hint": "Halved coin stack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stack of coins",
+        "image": "https://images.pexels.com/photos/11743785/pexels-photo-11743785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Savings limited by prompt complexity.",
+        "description": "Simple tasks benefit most; heavy reasoning still adds up, so test with your typical prompts first.",
+        "visual_hint": "Hand holding prompt",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding paper",
+        "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your logs to estimate savings.",
+        "description": "Pick a typical ChatGPT prompt and estimate its cost with Writer's model—if you see 40% drop, it's worth switching.",
+        "visual_hint": "Checklist with magnifier",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
+    "savedAt": "2026-08-13T22:32:21.612Z",
+    "sourceId": "539d991b17b150c976ddb39134ec7dc7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "flock-says-its-new-tool-will-help-identify-police-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "pubDate": "Thu, 13 Aug 2026 22:02:04 +0000",
+    "slides": [
+      "Flock promises police abuse detection, but how?",
+      "Its new tool scans footage for patterns",
+      "However, the algorithm remains entirely undisclosed",
+      "Agencies using it lack independent verification methods",
+      "Demand transparency before adopting this technology"
+    ],
+    "thread_text": [
+      "1. What is Flock hiding?\n\nA police tool that claims to detect abuse is already in use, but its core algorithm has never been revealed to the public.",
+      "2. The scanning promise\n\nFlock's software scans hours of footage to spot patterns—but without the algorithm, no one can confirm if those patterns are accurate.",
+      "3. No way to verify\n\nAgencies using the tool have no independent method to check its results. A false positive could lead to wrongful accusations.",
+      "4. The blind trust problem\n\nWhen a black-box system influences policing, errors are invisible until they cause harm. The data it trains on remains unknown.",
+      "5. Demand the code\n\nBefore your local police adopt Flock, ask them for the algorithm's full disclosure. If they refuse, should they be using it at all?"
+    ],
+    "video_script": [
+      "A police tool promises abuse detection.",
+      "But its algorithm is completely secret.",
+      "No independent checks exist for accuracy.",
+      "Hidden errors could harm innocent people.",
+      "Demand transparency before trusting Flock."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What is Flock hiding?\n\nA police tool that claims to detect abuse is already in use, but its core algorithm has never been revealed to the public.",
+          "2. The scanning promise\n\nFlock's software scans hours of footage to spot patterns—but without the algorithm, no one can confirm if those patterns are accurate.",
+          "3. No way to verify\n\nAgencies using the tool have no independent method to check its results. A false positive could lead to wrongful accusations.",
+          "4. The blind trust problem\n\nWhen a black-box system influences policing, errors are invisible until they cause harm. The data it trains on remains unknown.",
+          "5. Demand the code\n\nBefore your local police adopt Flock, ask them for the algorithm's full disclosure. If they refuse, should they be using it at all?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A police tool promises abuse detection.",
+          "But its algorithm is completely secret.",
+          "No independent checks exist for accuracy.",
+          "Hidden errors could harm innocent people.",
+          "Demand transparency before trusting Flock."
+        ]
+      },
+      "instagram": {
+        "caption": "A police surveillance tool claims to spot officer misconduct by scanning body-cam footage—but the company behind it won’t reveal how the detection works.  \n\nThe algorithm is a black box. Departments using it have no way to independently verify its findings, meaning a flawed pattern match could wrongly accuse an officer—or miss real abuse.  \n\nIf you work with public safety data or policy, this is your problem: you’re being asked to trust a system you can’t audit.  \n\nBefore your local department buys in, ask for the code. If they can’t show it, why adopt it? 🔍🚔⚠️"
+      }
+    },
+    "instagram_caption": "A police surveillance tool claims to spot officer misconduct by scanning body-cam footage—but the company behind it won’t reveal how the detection works.  \n\nThe algorithm is a black box. Departments using it have no way to independently verify its findings, meaning a flawed pattern match could wrongly accuse an officer—or miss real abuse.  \n\nIf you work with public safety data or policy, this is your problem: you’re being asked to trust a system you can’t audit.  \n\nBefore your local department buys in, ask for the code. If they can’t show it, why adopt it? 🔍🚔⚠️",
+    "carousel_slides": [
+      {
+        "hook": "What is Flock hiding?",
+        "description": "A police tool claims to detect abuse, but its core algorithm has never been revealed to the public. How can we trust it?",
+        "visual_hint": "Question mark over police car",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "police car lights"
+      },
+      {
+        "hook": "Scanning without verification",
+        "description": "Flock scans hours of footage for patterns, but no one can confirm accuracy without seeing the algorithm. False positives could lead to wrongful accusations.",
+        "visual_hint": "Surveillance camera scanning footage",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "surveillance camera",
+        "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No independent checks",
+        "description": "Agencies have no independent method to verify Flock's results. A false positive could unfairly target someone, and errors stay hidden until harm is done.",
+        "visual_hint": "Magnifying glass over data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass data",
+        "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blind trust in black boxes",
+        "description": "When a black-box system influences policing, its flaws remain invisible until they cause real damage. The training data is still unknown.",
+        "visual_hint": "Closed black box on desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "black box",
+        "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand the algorithm code",
+        "description": "Before your local police adopt Flock, ask for full algorithm disclosure. If they refuse, question if it should be used at all.",
+        "visual_hint": "Open code on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer code screen",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+    "savedAt": "2026-08-13T22:32:08.020Z",
+    "sourceId": "21ab0264b0a908a0fe1d3e771018b207"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ibm-partners-with-openai-to-bolster-enterprise-ai-",
     "prompt_version": "1.0.0",
     "status": "published",
