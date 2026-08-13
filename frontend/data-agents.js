@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "does-google-even-want-to-win-at-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Does Google even want to win at AI?",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "pubDate": "2026-08-13T14:10:31.000Z",
+      "slides": [
+        "Google's AI dominance hides a strategic contradiction",
+        "Its cloud revenue surged despite search uncertainties",
+        "But Google DeepMind's breakthroughs rarely reach customers",
+        "Your AI budget decisions hinge on Google's motivations",
+        "Monitor Google's enterprise launches before committing long-term"
+      ],
+      "thread_text": [
+        "1. Cloud grows, but DeepMind stalls\n\nGoogle's cloud revenue is up, yet its most advanced AI research rarely makes it to the products you can actually use.",
+        "2. The contradiction behind the surge\n\nWhile cloud revenue climbs, search uncertainties loom. The real issue: a strategic split between research and delivery.",
+        "3. Breakthroughs that stay in the lab\n\nDeepMind's wins are impressive in theory, but they don't translate into customer-facing tools. Your budget can't rely on them.",
+        "4. The motivation question\n\nWhy does Google hold back? Understanding their incentives is key to predicting what they'll actually offer you next.",
+        "5. Test before you commit\n\nAsk: Has Google shipped a meaningful enterprise AI feature in the past six months? If not, hedge your investments."
+      ],
+      "video_script": [
+        "Google's AI strategy has a split personality.",
+        "Cloud revenue rises, but research doesn't ship.",
+        "DeepMind's wins stay in the lab.",
+        "Your budget depends on their next move.",
+        "Watch enterprise launches before you commit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Cloud grows, but DeepMind stalls\n\nGoogle's cloud revenue is up, yet its most advanced AI research rarely makes it to the products you can actually use.",
+            "2. The contradiction behind the surge\n\nWhile cloud revenue climbs, search uncertainties loom. The real issue: a strategic split between research and delivery.",
+            "3. Breakthroughs that stay in the lab\n\nDeepMind's wins are impressive in theory, but they don't translate into customer-facing tools. Your budget can't rely on them.",
+            "4. The motivation question\n\nWhy does Google hold back? Understanding their incentives is key to predicting what they'll actually offer you next.",
+            "5. Test before you commit\n\nAsk: Has Google shipped a meaningful enterprise AI feature in the past six months? If not, hedge your investments."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's AI strategy has a split personality.",
+            "Cloud revenue rises, but research doesn't ship.",
+            "DeepMind's wins stay in the lab.",
+            "Your budget depends on their next move.",
+            "Watch enterprise launches before you commit."
+          ]
+        },
+        "instagram": {
+          "caption": "Google Cloud is growing fast, but the AI research coming out of DeepMind is barely touching the products you can actually buy.  \n\nThat gap is the story. Cloud revenue is up, yet search is uncertain, and the company's most impressive breakthroughs seem to stay in the lab. This isn't a coincidence—it's a strategic split between what they research and what they ship.  \n\nIf you're deciding where to put your AI budget, you can't count on Google's theoretical wins. They haven't translated into customer-facing tools your team can use.  \n\nSo before you commit long-term, ask yourself: has Google actually launched a meaningful enterprise AI feature in the last six months?  \n\nIf not, why are you betting your workflow on their roadmap? 🤔💸⚡"
+        }
+      },
+      "instagram_caption": "Google Cloud is growing fast, but the AI research coming out of DeepMind is barely touching the products you can actually buy.  \n\nThat gap is the story. Cloud revenue is up, yet search is uncertain, and the company's most impressive breakthroughs seem to stay in the lab. This isn't a coincidence—it's a strategic split between what they research and what they ship.  \n\nIf you're deciding where to put your AI budget, you can't count on Google's theoretical wins. They haven't translated into customer-facing tools your team can use.  \n\nSo before you commit long-term, ask yourself: has Google actually launched a meaningful enterprise AI feature in the last six months?  \n\nIf not, why are you betting your workflow on their roadmap? 🤔💸⚡",
+      "carousel_slides": [
+        {
+          "hook": "Why does Google hold back its best AI?",
+          "description": "DeepMind's breakthroughs rarely reach customers. Cloud revenue surges, but the lab-to-product gap puts your budget at risk.",
+          "visual_hint": "Split between lab and market",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "research laboratory vs products"
+        },
+        {
+          "hook": "Cloud revenue climbs, but search uncertainty looms",
+          "description": "Google's cloud surged, but the search business faces uncertainty—a strategic contradiction investors can't ignore.",
+          "visual_hint": "Chart with rising bars and clouds",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Breakthroughs stay in the lab",
+          "description": "DeepMind's wins impress in theory, yet they fail to become tools you can use. Budget planning can't rely on them.",
+          "visual_hint": "Laboratory door closed to consumers",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "scientist in laboratory",
+          "image": "https://images.pexels.com/photos/8531359/pexels-photo-8531359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What's Google's real incentive?",
+          "description": "Understanding their motivations is key to predicting what they'll actually offer you next—research or delivery?",
+          "visual_hint": "Question mark intertwined with gears",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gears mechanism",
+          "image": "https://images.pexels.com/photos/7568421/pexels-photo-7568421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: Hedge your AI bets",
+          "description": "Before committing long-term, ask: Has Google shipped a useful enterprise AI feature in six months? If not, diversify.",
+          "visual_hint": "Checklist with calendar and warning",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar checklist",
+          "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-13T14:50:23.628Z",
+      "sourceId": "a4fd1976a564452b57cc635aa3d94c90"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "of-course-the-chatgpt-dog-cancer-vaccine-spawned-a",
       "prompt_version": "1.0.0",
       "status": "published",
