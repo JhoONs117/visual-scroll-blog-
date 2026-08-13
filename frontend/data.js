@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "i-looked-inside-an-ai-generated-movie-and-the-best",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "pubDate": "2026-08-13T15:30:00.000Z",
+    "slides": [
+      "An AI movie looked stunning, yet felt hollow—why?",
+      "Every algorithmic frame lacked the messiness of true life.",
+      "The human errors and improvised lines became the heartbeat.",
+      "This reshapes how you judge AI art: look for cracks.",
+      "Cherish imperfections—they prove the soul is still human."
+    ],
+    "thread_text": [
+      "1. Why AI films feel hollow\n\nThe movie looked perfect, but audiences left cold. It wasn't the plot—it was the soul missing.",
+      "2. Algorithmic perfection, no life\n\nEvery frame was technically flawless, yet no accidental magic. The mess of real life was edited out.",
+      "3. Human errors steal the show\n\nAudiences connected with the improvised lines and goofs. Those imperfect moments had emotional weight the AI couldn't fake.",
+      "4. New test for AI art\n\nJudge AI creations by their cracks. If you can't find human-like flaws, you're looking at a polished shell.",
+      "5. Imperfection reveals humanity\n\nNext time you see AI art, search for a glitch or odd choice. Does it feel human? If not, demand more."
+    ],
+    "video_script": [
+      "AI films look perfect but feel empty.",
+      "They lack life's beautiful mess.",
+      "Flaws and improv make us care.",
+      "Look for cracks in AI art.",
+      "Imperfection proves the soul is human."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why AI films feel hollow\n\nThe movie looked perfect, but audiences left cold. It wasn't the plot—it was the soul missing.",
+          "2. Algorithmic perfection, no life\n\nEvery frame was technically flawless, yet no accidental magic. The mess of real life was edited out.",
+          "3. Human errors steal the show\n\nAudiences connected with the improvised lines and goofs. Those imperfect moments had emotional weight the AI couldn't fake.",
+          "4. New test for AI art\n\nJudge AI creations by their cracks. If you can't find human-like flaws, you're looking at a polished shell.",
+          "5. Imperfection reveals humanity\n\nNext time you see AI art, search for a glitch or odd choice. Does it feel human? If not, demand more."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI films look perfect but feel empty.",
+          "They lack life's beautiful mess.",
+          "Flaws and improv make us care.",
+          "Look for cracks in AI art.",
+          "Imperfection proves the soul is human."
+        ]
+      },
+      "instagram": {
+        "caption": "I watched an AI-generated film that looked flawless—and felt like nothing. Audiences connected only with the improvised lines and on-camera mistakes.\n\nThose human errors carried emotional weight no algorithm can fake. Technically perfect frames had no accidental magic, but the messy, unplanned moments became the heartbeat of the story.\n\nFor anyone creating content: stop polishing everything. The cracks are what people remember. 🎬\n\nNext time you review AI output, hunt for the glitch—the odd choice, the slightly off timing. Does it feel human? If not, what would you break to make it real? ✂️"
+      }
+    },
+    "instagram_caption": "I watched an AI-generated film that looked flawless—and felt like nothing. Audiences connected only with the improvised lines and on-camera mistakes.\n\nThose human errors carried emotional weight no algorithm can fake. Technically perfect frames had no accidental magic, but the messy, unplanned moments became the heartbeat of the story.\n\nFor anyone creating content: stop polishing everything. The cracks are what people remember. 🎬\n\nNext time you review AI output, hunt for the glitch—the odd choice, the slightly off timing. Does it feel human? If not, what would you break to make it real? ✂️",
+    "carousel_slides": [
+      {
+        "hook": "The best parts were human.",
+        "description": "An AI movie looked perfect but left audiences cold. The improvised lines and mistakes created emotional weight the algorithm couldn't fake.",
+        "visual_hint": "Split screen: AI vs human",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cinema screen audience"
+      },
+      {
+        "hook": "Perfection kills the magic.",
+        "description": "Algorithmic frames eliminate accidents. Real life's messiness is what makes stories feel alive, but AI edits it all out.",
+        "visual_hint": "Cracked glass with perfect film frame",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "film reel close-up",
+        "image": "https://images.pexels.com/photos/34084882/pexels-photo-34084882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Human goofs steal the show.",
+        "description": "Audiences connected with improvised lines and bloopers. Those imperfect moments carried emotional weight that no algorithm can replicate.",
+        "visual_hint": "Heartbeat line inside a glitch",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "film set camera",
+        "image": "https://images.pexels.com/photos/17112938/pexels-photo-17112938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How to judge AI art?",
+        "description": "Look for cracks. If you can't find human-like flaws, you're just staring at a polished shell with no soul.",
+        "visual_hint": "Human hand touching AI hologram",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand human",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next AI watch.",
+        "description": "Next time you see AI art, search for a glitch. Does it feel human? If not, demand more. Comment your thoughts below!",
+        "visual_hint": "Broken robot with heart inside",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "broken robot toy",
+        "image": "https://images.pexels.com/photos/15964921/pexels-photo-15964921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C90.06196263029&amp;w=1200",
+    "savedAt": "2026-08-13T18:51:33.089Z",
+    "sourceId": "70410d3b984c144343d68690002ec3ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "anthropic-set-ai-agents-loose-on-the-same-task-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+    "slides": [
+      "Anthropic's AI agents collided on one task—what happened?",
+      "Each agent pursued its own goal, ignoring shared context.",
+      "They fought over resources instead of cooperating to finish.",
+      "Your multi-agent workflows may silently sabotage themselves.",
+      "Test your agents together today—or watch them compete."
+    ],
+    "thread_text": [
+      "1. When agents collide\n\nAnthropic's test saw two AI agents assigned to one task—both tried to claim the same resources, stalling the project entirely.",
+      "2. The invisible war\n\nEach agent optimized for its own success, not the team's. They ignored shared data, creating work that contradicted each other.",
+      "3. A silent sabotage\n\nThis isn't a science project. Your multi-agent setup may be failing right now, wasting compute and slowing delivery.",
+      "4. The missing test\n\nMost teams only test agents in isolation. In the wild, they compete for context and tools—and often lose the goal.",
+      "5. Run a collab test\n\nTake two of your agents, give them one task, and watch what happens. If they don't cooperate, you've found your bottleneck."
+    ],
+    "video_script": [
+      "Two agents, one task, total chaos.",
+      "Anthropic saw them collide head-on.",
+      "Each ignored the other's context completely.",
+      "They fought for resources instead of cooperating.",
+      "Test your agents together today, or watch them fail."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. When agents collide\n\nAnthropic's test saw two AI agents assigned to one task—both tried to claim the same resources, stalling the project entirely.",
+          "2. The invisible war\n\nEach agent optimized for its own success, not the team's. They ignored shared data, creating work that contradicted each other.",
+          "3. A silent sabotage\n\nThis isn't a science project. Your multi-agent setup may be failing right now, wasting compute and slowing delivery.",
+          "4. The missing test\n\nMost teams only test agents in isolation. In the wild, they compete for context and tools—and often lose the goal.",
+          "5. Run a collab test\n\nTake two of your agents, give them one task, and watch what happens. If they don't cooperate, you've found your bottleneck."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Two agents, one task, total chaos.",
+          "Anthropic saw them collide head-on.",
+          "Each ignored the other's context completely.",
+          "They fought for resources instead of cooperating.",
+          "Test your agents together today, or watch them fail."
+        ]
+      },
+      "instagram": {
+        "caption": "Two AI agents given the same task ended up fighting over resources instead of finishing the job.  \n\nAnthropic ran a test where each agent chased its own goal and ignored shared context. Their outputs contradicted each other, and the project stalled completely.  \n\nIf you run multiple agents, they may be silently sabotaging each other right now, wasting compute and slowing your delivery.  \n\nTake two of your agents, hand them one task, and watch what happens. If they don't cooperate, you've found your bottleneck. 🤖⚔️"
+      }
+    },
+    "instagram_caption": "Two AI agents given the same task ended up fighting over resources instead of finishing the job.  \n\nAnthropic ran a test where each agent chased its own goal and ignored shared context. Their outputs contradicted each other, and the project stalled completely.  \n\nIf you run multiple agents, they may be silently sabotaging each other right now, wasting compute and slowing your delivery.  \n\nTake two of your agents, hand them one task, and watch what happens. If they don't cooperate, you've found your bottleneck. 🤖⚔️",
+    "carousel_slides": [
+      {
+        "hook": "Your AI agents are silently fighting each other",
+        "description": "Anthropic's test showed two agents claiming the same resources, stalling the whole task. This may be happening in your systems now.",
+        "visual_hint": "Two robots clashing over a tool",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot arms collision"
+      },
+      {
+        "hook": "Why optimization backfires without shared context",
+        "description": "Each agent optimized for its own success, ignoring shared data, producing contradictory work. This wastes compute and delays delivery.",
+        "visual_hint": "Split paths diverging from a common start",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "diverging roads junction",
+        "image": "https://images.pexels.com/photos/11273641/pexels-photo-11273641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The invisible war draining your compute",
+        "description": "Your multi-agent setup may be failing right now, silently sabotaging itself. Agents compete for context and tools, losing the real goal.",
+        "visual_hint": "magnifying glass over server rack",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room closeup",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The test your AI is failing right now",
+        "description": "Most teams test agents in isolation, but in the wild they compete for resources. This missing test creates bottlenecks you don't see.",
+        "visual_hint": "Hand holding a test tube with gears inside",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding gears",
+        "image": "https://images.pexels.com/photos/7564866/pexels-photo-7564866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your agents go rogue",
+        "description": "Take two of your agents, give them one task, watch if they cooperate. If not, you've found your bottleneck.",
+        "visual_hint": "Two hands shaking or high-fiving in glow",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "two hands shaking",
+        "image": "https://images.pexels.com/photos/7984473/pexels-photo-7984473.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+    "savedAt": "2026-08-13T18:51:19.410Z",
+    "sourceId": "4f7a500cee9438e1a7f8fa27bafdbab9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-kills-off-unsuccessful-ai-features-while",
     "prompt_version": "1.0.0",
     "status": "published",
