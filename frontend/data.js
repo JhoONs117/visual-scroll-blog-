@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "uber-freight-reportedly-investigating-after-hackin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+    "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+    "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
+    "slides": [
+      "Uber Freight breached? Hacking group claims stolen data.",
+      "Investigations underway, but what data was actually taken?",
+      "Attackers may have accessed sensitive shipment or driver records.",
+      "Shippers should verify their data's safety with Uber immediately.",
+      "Assume compromise until proven otherwise and audit your contracts."
+    ],
+    "thread_text": [
+      "1. Breach or Bluff?\n\nUber Freight is silent after a hacking group claims stolen data.",
+      "2. What Was Taken?\n\nInvestigations haven't confirmed if shipment or driver records are exposed.",
+      "3. Shippers Beware\n\nAssume your data is compromised until Uber proves otherwise.",
+      "4. Act Now\n\nAudit your contracts and verify your data's safety with Uber immediately.",
+      "5. Your Move\n\nHave you checked if your shipment data was exposed? Call Uber Freight today."
+    ],
+    "video_script": [
+      "Uber Freight hacked. Data stolen? Unknown.",
+      "Investigations ongoing. Shipment and driver records at risk.",
+      "Assume compromised until proven otherwise. Shippers verify now.",
+      "Audit your contracts immediately. Confirm your data's safety.",
+      "Did you check your exposure? Contact Uber Freight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Breach or Bluff?\n\nUber Freight is silent after a hacking group claims stolen data.",
+          "2. What Was Taken?\n\nInvestigations haven't confirmed if shipment or driver records are exposed.",
+          "3. Shippers Beware\n\nAssume your data is compromised until Uber proves otherwise.",
+          "4. Act Now\n\nAudit your contracts and verify your data's safety with Uber immediately.",
+          "5. Your Move\n\nHave you checked if your shipment data was exposed? Call Uber Freight today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Uber Freight hacked. Data stolen? Unknown.",
+          "Investigations ongoing. Shipment and driver records at risk.",
+          "Assume compromised until proven otherwise. Shippers verify now.",
+          "Audit your contracts immediately. Confirm your data's safety.",
+          "Did you check your exposure? Contact Uber Freight."
+        ]
+      },
+      "instagram": {
+        "caption": "A hacking group says it stole data from Uber Freight, and the company hasn’t confirmed what exactly was taken yet.  \n\nUber Freight is now investigating the claim, but no official confirmation has been made on whether sensitive shipment or driver records are exposed. If you use their platform to move goods, your contracts and driver details could be at risk.  \n\nFor anyone posting about logistics, AI, or supply chain news, don’t repeat the breach as fact until Uber confirms it—report it as an active investigation.  \n\nHave you checked whether your shipment data was exposed with Uber Freight directly? 📦🔍⚠️"
+      }
+    },
+    "instagram_caption": "A hacking group says it stole data from Uber Freight, and the company hasn’t confirmed what exactly was taken yet.  \n\nUber Freight is now investigating the claim, but no official confirmation has been made on whether sensitive shipment or driver records are exposed. If you use their platform to move goods, your contracts and driver details could be at risk.  \n\nFor anyone posting about logistics, AI, or supply chain news, don’t repeat the breach as fact until Uber confirms it—report it as an active investigation.  \n\nHave you checked whether your shipment data was exposed with Uber Freight directly? 📦🔍⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Is your shipment data at risk?",
+        "description": "A hacking group claims stolen data from Uber Freight. Investigations are underway, but if true, shipment and driver records could be exposed.",
+        "visual_hint": "Hacker code on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "What exactly was compromised?",
+        "description": "No official confirmation yet on whether shipment or driver records were taken. This uncertainty leaves shippers in a vulnerable position.",
+        "visual_hint": "Question mark over documents",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office documents",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assume your data is exposed",
+        "description": "Until Uber proves otherwise, treat your shipment data as compromised. The implications for your supply chain could be significant.",
+        "visual_hint": "Warning sign with data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data encryption",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verify your safety now",
+        "description": "Immediately contact Uber Freight to confirm your data's status. Review your contracts to understand your liability and next steps.",
+        "visual_hint": "Hand holding a contract",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "logistics trucks",
+        "image": "https://images.pexels.com/photos/15978610/pexels-photo-15978610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your exposure today",
+        "description": "Don't wait for confirmation. Audit your contracts and call Uber Freight to verify if your shipment data was involved.",
+        "visual_hint": "Finger pressing call button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "freight train",
+        "image": "https://images.pexels.com/photos/18351505/pexels-photo-18351505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/Uber-freight_DRONE_STILLS-0035-1.jpg?resize=1200,899",
+    "savedAt": "2026-08-13T04:02:49.588Z",
+    "sourceId": "cd0432e472a77f3c0251048234394723"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-nuclear-power-firm-fermi-finally-has-a-new-ceo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+    "pubDate": "Wed, 12 Aug 2026 22:24:00 +0000",
+    "slides": [
+      "Fermi's new CEO promises a turnaround, but investors doubt it.",
+      "The previous leader was forced out over stalled reactor licensing.",
+      "Surprise: the incoming CEO has no nuclear industry background.",
+      "His first move will reallocate 40% of the engineering budget.",
+      "Watch his first 90 days: either licenses advance or he walks."
+    ],
+    "thread_text": [
+      "1. New CEO, No Nuclear Past\n\nFermi's board picked an outsider as the new CEO, and his first move is to cut engineering funds by 40%.",
+      "2. What's He Planning?\n\nThe previous CEO was fired over stalled reactor licensing, so why choose someone with zero nuclear experience?",
+      "3. A 40% Budget Shift\n\nHis plan reallocates funds to, presumably, speed up licensing. But will that work without nuclear know-how?",
+      "4. The 90-Day Ultimatum\n\nHe'll either advance licensing or leave. That's the deal. Can he pull it off?",
+      "5. Watch the First Moves\n\nCheck Fermi's stock and news for his first actions. If licensing doesn't progress in 90 days, he's out. Will you be tracking it?"
+    ],
+    "video_script": [
+      "Fermi's new CEO has no nuclear background.",
+      "He's shifting 40% of engineering budget elsewhere.",
+      "Investors doubt his turnaround plan.",
+      "His first 90 days will decide his fate.",
+      "Watch if licenses advance or he walks."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. New CEO, No Nuclear Past\n\nFermi's board picked an outsider as the new CEO, and his first move is to cut engineering funds by 40%.",
+          "2. What's He Planning?\n\nThe previous CEO was fired over stalled reactor licensing, so why choose someone with zero nuclear experience?",
+          "3. A 40% Budget Shift\n\nHis plan reallocates funds to, presumably, speed up licensing. But will that work without nuclear know-how?",
+          "4. The 90-Day Ultimatum\n\nHe'll either advance licensing or leave. That's the deal. Can he pull it off?",
+          "5. Watch the First Moves\n\nCheck Fermi's stock and news for his first actions. If licensing doesn't progress in 90 days, he's out. Will you be tracking it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fermi's new CEO has no nuclear background.",
+          "He's shifting 40% of engineering budget elsewhere.",
+          "Investors doubt his turnaround plan.",
+          "His first 90 days will decide his fate.",
+          "Watch if licenses advance or he walks."
+        ]
+      },
+      "instagram": {
+        "caption": "A new CEO just took over an AI nuclear power firm with zero nuclear background, and his first move is cutting 40% of the engineering budget. 🚨\n\nThe previous leader was pushed out because reactor licensing stalled completely. Now the board bets an outsider can fix it, but investors are openly skeptical. His plan? Shift those funds elsewhere, presumably to speed things up. He's got 90 days to show progress or he's out. ⏳\n\nFor anyone creating content about energy or AI policy, this is your signal to watch licensing milestones, not press releases. 📉\n\nWill you track his first quarter, or wait for the next forced exit? 🔍"
+      }
+    },
+    "instagram_caption": "A new CEO just took over an AI nuclear power firm with zero nuclear background, and his first move is cutting 40% of the engineering budget. 🚨\n\nThe previous leader was pushed out because reactor licensing stalled completely. Now the board bets an outsider can fix it, but investors are openly skeptical. His plan? Shift those funds elsewhere, presumably to speed things up. He's got 90 days to show progress or he's out. ⏳\n\nFor anyone creating content about energy or AI policy, this is your signal to watch licensing milestones, not press releases. 📉\n\nWill you track his first quarter, or wait for the next forced exit? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "CEO without nuclear experience?",
+        "description": "Fermi's new CEO is an outsider with zero nuclear background, yet he's cutting engineering by 40%. Investors are skeptical.",
+        "visual_hint": "Question mark over power plant",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nuclear power plant"
+      },
+      {
+        "hook": "Why force out the old CEO?",
+        "description": "Previous leadership was removed after reactor licensing stalled. New outsider arrives with no nuclear know-how, raising more doubts.",
+        "visual_hint": "Exit sign over office",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office building",
+        "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "40% budget cut: smart or reckless?",
+        "description": "His first move reallocates 40% of engineering funds to speed licensing. Will this work without nuclear expertise?",
+        "visual_hint": "Budget chart with slash",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "budget chart",
+        "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "90 days to prove himself",
+        "description": "He either advances licensing or leaves. The ultimatum sets a high-stakes test for an industry outsider.",
+        "visual_hint": "Hourglass with ticking clock",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to track Fermi's fate",
+        "description": "Follow Fermi's stock and news for his first actions. If licensing stalls in 90 days, he's out. Will you be watching?",
+        "visual_hint": "Bookmark on stock chart",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2014/08/2468396121_7c6c132c8e_b.jpg?w=1000",
+    "savedAt": "2026-08-13T04:02:38.357Z",
+    "sourceId": "1a9b4529c1e0607b1ad83d7738d3f042"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "twitch-streamers-can-now-opt-out-from-training-ama",
     "prompt_version": "1.0.0",
     "status": "published",

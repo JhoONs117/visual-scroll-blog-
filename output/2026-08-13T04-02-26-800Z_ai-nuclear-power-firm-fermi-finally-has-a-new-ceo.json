@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-nuclear-power-firm-fermi-finally-has-a-new-ceo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI nuclear power firm Fermi finally has a new CEO",
+  "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+  "pubDate": "Wed, 12 Aug 2026 22:24:00 +0000",
+  "slides": [
+    "Fermi's new CEO promises a turnaround, but investors doubt it.",
+    "The previous leader was forced out over stalled reactor licensing.",
+    "Surprise: the incoming CEO has no nuclear industry background.",
+    "His first move will reallocate 40% of the engineering budget.",
+    "Watch his first 90 days: either licenses advance or he walks."
+  ],
+  "thread_text": [
+    "1. New CEO, No Nuclear Past\n\nFermi's board picked an outsider as the new CEO, and his first move is to cut engineering funds by 40%.",
+    "2. What's He Planning?\n\nThe previous CEO was fired over stalled reactor licensing, so why choose someone with zero nuclear experience?",
+    "3. A 40% Budget Shift\n\nHis plan reallocates funds to, presumably, speed up licensing. But will that work without nuclear know-how?",
+    "4. The 90-Day Ultimatum\n\nHe'll either advance licensing or leave. That's the deal. Can he pull it off?",
+    "5. Watch the First Moves\n\nCheck Fermi's stock and news for his first actions. If licensing doesn't progress in 90 days, he's out. Will you be tracking it?"
+  ],
+  "video_script": [
+    "Fermi's new CEO has no nuclear background.",
+    "He's shifting 40% of engineering budget elsewhere.",
+    "Investors doubt his turnaround plan.",
+    "His first 90 days will decide his fate.",
+    "Watch if licenses advance or he walks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. New CEO, No Nuclear Past\n\nFermi's board picked an outsider as the new CEO, and his first move is to cut engineering funds by 40%.",
+        "2. What's He Planning?\n\nThe previous CEO was fired over stalled reactor licensing, so why choose someone with zero nuclear experience?",
+        "3. A 40% Budget Shift\n\nHis plan reallocates funds to, presumably, speed up licensing. But will that work without nuclear know-how?",
+        "4. The 90-Day Ultimatum\n\nHe'll either advance licensing or leave. That's the deal. Can he pull it off?",
+        "5. Watch the First Moves\n\nCheck Fermi's stock and news for his first actions. If licensing doesn't progress in 90 days, he's out. Will you be tracking it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fermi's new CEO has no nuclear background.",
+        "He's shifting 40% of engineering budget elsewhere.",
+        "Investors doubt his turnaround plan.",
+        "His first 90 days will decide his fate.",
+        "Watch if licenses advance or he walks."
+      ]
+    },
+    "instagram": {
+      "caption": "A new CEO just took over an AI nuclear power firm with zero nuclear background, and his first move is cutting 40% of the engineering budget. 🚨\n\nThe previous leader was pushed out because reactor licensing stalled completely. Now the board bets an outsider can fix it, but investors are openly skeptical. His plan? Shift those funds elsewhere, presumably to speed things up. He's got 90 days to show progress or he's out. ⏳\n\nFor anyone creating content about energy or AI policy, this is your signal to watch licensing milestones, not press releases. 📉\n\nWill you track his first quarter, or wait for the next forced exit? 🔍"
+    }
+  },
+  "instagram_caption": "A new CEO just took over an AI nuclear power firm with zero nuclear background, and his first move is cutting 40% of the engineering budget. 🚨\n\nThe previous leader was pushed out because reactor licensing stalled completely. Now the board bets an outsider can fix it, but investors are openly skeptical. His plan? Shift those funds elsewhere, presumably to speed things up. He's got 90 days to show progress or he's out. ⏳\n\nFor anyone creating content about energy or AI policy, this is your signal to watch licensing milestones, not press releases. 📉\n\nWill you track his first quarter, or wait for the next forced exit? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "CEO without nuclear experience?",
+      "description": "Fermi's new CEO is an outsider with zero nuclear background, yet he's cutting engineering by 40%. Investors are skeptical.",
+      "visual_hint": "Question mark over power plant",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "nuclear power plant"
+    },
+    {
+      "hook": "Why force out the old CEO?",
+      "description": "Previous leadership was removed after reactor licensing stalled. New outsider arrives with no nuclear know-how, raising more doubts.",
+      "visual_hint": "Exit sign over office",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "40% budget cut: smart or reckless?",
+      "description": "His first move reallocates 40% of engineering funds to speed licensing. Will this work without nuclear expertise?",
+      "visual_hint": "Budget chart with slash",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "budget chart",
+      "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "90 days to prove himself",
+      "description": "He either advances licensing or leaves. The ultimatum sets a high-stakes test for an industry outsider.",
+      "visual_hint": "Hourglass with ticking clock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to track Fermi's fate",
+      "description": "Follow Fermi's stock and news for his first actions. If licensing stalls in 90 days, he's out. Will you be watching?",
+      "visual_hint": "Bookmark on stock chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2014/08/2468396121_7c6c132c8e_b.jpg?w=1000",
+  "savedAt": "2026-08-13T04:02:38.357Z",
+  "sourceId": "1a9b4529c1e0607b1ad83d7738d3f042"
+}
