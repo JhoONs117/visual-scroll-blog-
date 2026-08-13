@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "okta-targets-ai-agent-token-costs-with-mcp-scoping",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Okta targets AI agent token costs with MCP scoping",
+    "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+    "pubDate": "Thu, 13 Aug 2026 09:22:06 +0000",
+    "slides": [
+      "Okta's MCP scoping cuts AI agent token costs, but how?",
+      "Identity now controls which tools an agent can access.",
+      "It does not reduce model inference or prompt token usage.",
+      "Developers get granular permissions and fewer security reviews.",
+      "Audit your agents' MCP tool access before scaling compute."
+    ],
+    "thread_text": [
+      "1. Who’s really paying for AI agents?\n\nOkta’s update shifts cost control from model size to access scope, but token costs still rack up during inference.",
+      "2. Identity becomes the new gatekeeper\n\nBy tying tool permissions to identity, agents only call what they need—avoiding wasteful API hits.",
+      "3. The twist: fewer reviews, more autonomy\n\nGranular permissions let developers skip lengthy security approvals, speeding up shipping without losing control.",
+      "4. What it doesn’t fix\n\nInference and prompt tokens remain untouched, so heavy reasoning or large contexts still drain your budget.",
+      "5. Start here: audit your tool access\n\nList every MCP tool your agent can call today. Cut any it hasn’t used in a week—before scaling compute."
+    ],
+    "video_script": [
+      "Okta cuts AI costs by controlling tool access.",
+      "Identity decides which tools agents can use.",
+      "It doesn't reduce inference or prompt tokens.",
+      "Developers get granular permissions, fewer security checks.",
+      "Audit your agent's tool access before scaling."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who’s really paying for AI agents?\n\nOkta’s update shifts cost control from model size to access scope, but token costs still rack up during inference.",
+          "2. Identity becomes the new gatekeeper\n\nBy tying tool permissions to identity, agents only call what they need—avoiding wasteful API hits.",
+          "3. The twist: fewer reviews, more autonomy\n\nGranular permissions let developers skip lengthy security approvals, speeding up shipping without losing control.",
+          "4. What it doesn’t fix\n\nInference and prompt tokens remain untouched, so heavy reasoning or large contexts still drain your budget.",
+          "5. Start here: audit your tool access\n\nList every MCP tool your agent can call today. Cut any it hasn’t used in a week—before scaling compute."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Okta cuts AI costs by controlling tool access.",
+          "Identity decides which tools agents can use.",
+          "It doesn't reduce inference or prompt tokens.",
+          "Developers get granular permissions, fewer security checks.",
+          "Audit your agent's tool access before scaling."
+        ]
+      },
+      "instagram": {
+        "caption": "Okta just made AI agents cheaper to run—by controlling which tools they can touch, not how hard they think.\n\nIdentity permissions now decide what an agent can access. If it doesn’t have the right clearance, it can’t call that tool—so you stop paying for wasted API hits.\n\nThe catch: inference and prompt tokens still cost the same. Big reasoning or long contexts still burn your budget.\n\nFor devs and creators, this means fewer security reviews and faster shipping, but the real savings come from auditing what your agent actually uses.\n\nCut every tool it hasn’t touched in seven days and lock the rest down. What’s your agent calling right now that it doesn’t need? 🔐🧠💸"
+      }
+    },
+    "instagram_caption": "Okta just made AI agents cheaper to run—by controlling which tools they can touch, not how hard they think.\n\nIdentity permissions now decide what an agent can access. If it doesn’t have the right clearance, it can’t call that tool—so you stop paying for wasted API hits.\n\nThe catch: inference and prompt tokens still cost the same. Big reasoning or long contexts still burn your budget.\n\nFor devs and creators, this means fewer security reviews and faster shipping, but the real savings come from auditing what your agent actually uses.\n\nCut every tool it hasn’t touched in seven days and lock the rest down. What’s your agent calling right now that it doesn’t need? 🔐🧠💸",
+    "carousel_slides": [
+      {
+        "hook": "Tool access, not model size, cuts costs",
+        "description": "Okta's MCP scoping slashes token spend by limiting agent tool calls via identity—yet inference costs remain untouched.",
+        "visual_hint": "Access control diagram with tokens",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "access control server"
+      },
+      {
+        "hook": "Identity becomes the new gatekeeper",
+        "description": "By tying tool permissions to identity, agents only call what they need—avoiding wasteful API hits and cutting token usage.",
+        "visual_hint": "Gate with identity checkpoints",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "security gate",
+        "image": "https://images.pexels.com/photos/11543858/pexels-photo-11543858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fewer reviews, more autonomy, same control",
+        "description": "Granular permissions let developers skip lengthy security approvals, speeding up shipping without losing governance.",
+        "visual_hint": "Approval workflow with shortcuts",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Heavy reasoning still drains your budget",
+        "description": "Inference and prompt tokens remain untouched, so complex reasoning or large contexts continue to rack up costs.",
+        "visual_hint": "Token counter with spikes",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer code closeup",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit tool access now",
+        "description": "List every MCP tool your agent can call today. Cut any unused for a week before scaling compute.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office desk checklist",
+        "image": "https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-13T10:54:31.231Z",
+    "sourceId": "17346b57eb8c81589582dec2c2403977"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "facebook-officially-rolls-out-its-stand-alone-crea",
     "prompt_version": "1.0.0",
     "status": "published",
