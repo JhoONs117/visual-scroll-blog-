@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "facebook-officially-rolls-out-its-stand-alone-crea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "pubDate": "Wed, 12 Aug 2026 15:56:13 +0000",
+      "slides": [
+        "Creator Studio drops—will it replace your dashboard?",
+        "Facebook's new app consolidates posting, insights, monetization.",
+        "AI tools suggest captions, but not original video ideas.",
+        "Creators now manage everything mobile, without third-party apps.",
+        "Stop juggling tools; test Creator Studio within a week."
+      ],
+      "thread_text": [
+        "1. Your dashboard is dying\n\nCreator Studio drops without warning, and Facebook is already pushing it. Your old dashboard won't get new features.",
+        "2. One app to rule them all\n\nPosting, insights, and monetization finally live in one place. No more switching tabs or apps to check your earnings.",
+        "3. AI writes, but doesn't think\n\nNew AI suggests captions, but it won't brainstorm your next viral video. That creative spark still needs you.",
+        "4. Mobile-only management\n\nEverything now happens on your phone. Third-party apps become obsolete for daily tasks—if you adapt fast.",
+        "5. Test it this week\n\nOpen Creator Studio on your phone and try posting one video. Do you still need your old tools after that?"
+      ],
+      "video_script": [
+        "Facebook's new app replaces your dashboard.",
+        "Post, view insights, and earn money.",
+        "AI helps with captions, not ideas.",
+        "Manage everything on your phone now.",
+        "Try Creator Studio this week, don't wait."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your dashboard is dying\n\nCreator Studio drops without warning, and Facebook is already pushing it. Your old dashboard won't get new features.",
+            "2. One app to rule them all\n\nPosting, insights, and monetization finally live in one place. No more switching tabs or apps to check your earnings.",
+            "3. AI writes, but doesn't think\n\nNew AI suggests captions, but it won't brainstorm your next viral video. That creative spark still needs you.",
+            "4. Mobile-only management\n\nEverything now happens on your phone. Third-party apps become obsolete for daily tasks—if you adapt fast.",
+            "5. Test it this week\n\nOpen Creator Studio on your phone and try posting one video. Do you still need your old tools after that?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Facebook's new app replaces your dashboard.",
+            "Post, view insights, and earn money.",
+            "AI helps with captions, not ideas.",
+            "Manage everything on your phone now.",
+            "Try Creator Studio this week, don't wait."
+          ]
+        },
+        "instagram": {
+          "caption": "Your old Facebook dashboard is officially on life support—Creator Studio just rolled out as a standalone app, and new features will only land there from now on.\n\nPosting, insights, and monetization now live in one place. The AI writes caption suggestions for you, but it won't pitch your next video idea—that part's still on you. Everything runs from your phone, so third-party scheduling apps become redundant for daily checks.\n\nIf you publish content, your workflow changes this week: you either adapt to the mobile app or watch your analytics go stale. 📱\n\nOpen Creator Studio on your phone and upload one video from your camera roll—what's the first feature you notice is missing? 🤔"
+        }
+      },
+      "instagram_caption": "Your old Facebook dashboard is officially on life support—Creator Studio just rolled out as a standalone app, and new features will only land there from now on.\n\nPosting, insights, and monetization now live in one place. The AI writes caption suggestions for you, but it won't pitch your next video idea—that part's still on you. Everything runs from your phone, so third-party scheduling apps become redundant for daily checks.\n\nIf you publish content, your workflow changes this week: you either adapt to the mobile app or watch your analytics go stale. 📱\n\nOpen Creator Studio on your phone and upload one video from your camera roll—what's the first feature you notice is missing? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your dashboard is already dead.",
+          "description": "Facebook's Creator Studio app replaces it. Old dashboard gets no new features—adapt now or get left behind.",
+          "visual_hint": "Old dashboard fading, app glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone app dashboard"
+        },
+        {
+          "hook": "Post, track, and earn—all in one app.",
+          "description": "Creator Studio consolidates posting, insights, and monetization. Stop switching tabs; manage everything from one mobile hub.",
+          "visual_hint": "Single phone screen with charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone analytics graph",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI writes captions, not your creativity.",
+          "description": "New AI suggests captions but won't brainstorm viral videos. The spark for original content still comes from you.",
+          "visual_hint": "Robot hand holding pen, human brain",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot writing laptop",
+          "image": "https://images.pexels.com/photos/5614262/pexels-photo-5614262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Go mobile-only for creator tasks.",
+          "description": "Everything now happens on your phone. Third-party apps become obsolete for daily tasks—if you adapt quickly.",
+          "visual_hint": "Hand holding phone, old apps fading",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Creator Studio this week.",
+          "description": "Open the app on your phone and post one video. See if you still need your old tools after that.",
+          "visual_hint": "Phone with video upload button",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone video recording",
+          "image": "https://images.pexels.com/photos/17133308/pexels-photo-17133308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/10819672/pexels-photo-10819672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-13T09:03:42.064Z",
+      "sourceId": "0721eaee8d8bd17250d8e6203a73684d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "guitar-company-d-addario-admits-that-ai-music-was-",
       "prompt_version": "1.0.0",
       "status": "published",
