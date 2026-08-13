@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "databricks-wanted-to-raise-1b-investors-wanted-15b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+  "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+  "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+  "slides": [
+    "Who demands fifteen times more than Databricks sought?",
+    "Investors bid $15B for a stake, seven times oversubscribed.",
+    "Databricks accepted only $5B, rejecting the extra billions.",
+    "Your fundraising can now target disciplined growth over hype.",
+    "Cap your round today; scarcity fuels tomorrow's valuation."
+  ],
+  "thread_text": [
+    "1. They wanted more\n\nInvestors offered $15B for a stake, but Databricks took only $5B, leaving $10B on the table.",
+    "2. Why say no?\n\nRejecting excess capital signals confidence in growth, not desperation for cash, which can reshape investor perception.",
+    "3. The bidding war\n\nDemand was seven times oversubscribed, proving scarcity drives valuation more than the actual amount raised.",
+    "4. Your playbook\n\nIf you cap your round, you create artificial scarcity that can boost future valuation, turning away money now for leverage later.",
+    "5. Test it yourself\n\nTake your current pitch deck and simulate a capped round. Ask: would you reject extra cash for a higher future valuation?"
+  ],
+  "video_script": [
+    "Investors offered fifteen billion, but they took five.",
+    "Rejecting cash signals confidence, not weakness.",
+    "Scarcity drives valuation more than the amount.",
+    "Capping your round creates future leverage.",
+    "Ask: would you leave ten billion on table?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They wanted more\n\nInvestors offered $15B for a stake, but Databricks took only $5B, leaving $10B on the table.",
+        "2. Why say no?\n\nRejecting excess capital signals confidence in growth, not desperation for cash, which can reshape investor perception.",
+        "3. The bidding war\n\nDemand was seven times oversubscribed, proving scarcity drives valuation more than the actual amount raised.",
+        "4. Your playbook\n\nIf you cap your round, you create artificial scarcity that can boost future valuation, turning away money now for leverage later.",
+        "5. Test it yourself\n\nTake your current pitch deck and simulate a capped round. Ask: would you reject extra cash for a higher future valuation?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Investors offered fifteen billion, but they took five.",
+        "Rejecting cash signals confidence, not weakness.",
+        "Scarcity drives valuation more than the amount.",
+        "Capping your round creates future leverage.",
+        "Ask: would you leave ten billion on table?"
+      ]
+    },
+    "instagram": {
+      "caption": "Investors threw $15 billion at Databricks. The company took $5 billion and walked away. 💰\n\nThat’s seven times oversubscribed, and they still capped the round at a $190 billion valuation. Rejecting $10 billion on purpose isn’t modesty—it’s a signal that growth is predictable, not desperate. Scarcity, not hype, set the price.\n\nFor you: the next time you raise, setting a hard cap can make investors move faster and value you higher. It flips the dynamic from “how much can we grab” to “who gets in.” 📉\n\nWould you turn down $10 billion to protect your next valuation? Or is that just for unicorns?"
+    }
+  },
+  "instagram_caption": "Investors threw $15 billion at Databricks. The company took $5 billion and walked away. 💰\n\nThat’s seven times oversubscribed, and they still capped the round at a $190 billion valuation. Rejecting $10 billion on purpose isn’t modesty—it’s a signal that growth is predictable, not desperate. Scarcity, not hype, set the price.\n\nFor you: the next time you raise, setting a hard cap can make investors move faster and value you higher. It flips the dynamic from “how much can we grab” to “who gets in.” 📉\n\nWould you turn down $10 billion to protect your next valuation? Or is that just for unicorns?",
+  "carousel_slides": [
+    {
+      "hook": "Turning down $10B?",
+      "description": "Databricks rejected $10B in extra funding, accepting only $5B. This scarcity signal can fuel higher future valuations.",
+      "visual_hint": "Piles of cash being refused",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cash stacks"
+    },
+    {
+      "hook": "Why say no to billions?",
+      "description": "Rejecting excess capital signals confidence in growth, not desperation. Investors offered $15B; Databricks took only $5B.",
+      "visual_hint": "Bid numbers on a screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scarcity drives valuation",
+      "description": "Demand was seven times oversubscribed, proving scarcity boosts valuation more than the amount raised. Databricks left $10B on the table.",
+      "visual_hint": "Magnifying glass on auction",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "auction gavel",
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cap your round for leverage",
+      "description": "Artificial scarcity can increase future valuation. Turn away money now to gain leverage later, just like Databricks.",
+      "visual_hint": "Hand holding a cap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding",
+      "image": "https://images.pexels.com/photos/32695709/pexels-photo-32695709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your pitch.",
+      "description": "Simulate a capped round with your deck. Ask: would you reject extra cash for a higher valuation? Try it now.",
+      "visual_hint": "Checklist with a cap icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+  "savedAt": "2026-08-13T20:32:13.076Z",
+  "sourceId": "7261e6583d8e84ce7ddde3811fc833db"
+}

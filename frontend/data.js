@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ibm-partners-with-openai-to-bolster-enterprise-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+    "slides": [
+      "Can IBM's partnership with OpenAI truly transform your enterprise?",
+      "IBM will integrate OpenAI models into its consulting and software platforms.",
+      "The twist: IBM is betting advice, not raw model power, wins deals.",
+      "Your legacy systems may now access cutting-edge AI without re-platforming.",
+      "Pilot one IBM-assisted OpenAI workflow before renewing any AI contracts."
+    ],
+    "thread_text": [
+      "1. IBM bets on advice, not AI power\n\nIBM is pairing OpenAI models with its consultants, shifting the value from the model itself to the strategy around it.",
+      "2. Legacy systems get a bridge\n\nOld enterprise tech can tap into cutting-edge AI without a full overhaul, lowering the barrier for adoption.",
+      "3. The real test: pilot one workflow\n\nBefore renewing any AI contracts, IBM suggests trying a single OpenAI-assisted process to see measurable impact.",
+      "4. What if the advice is the moat?\n\nAs models commoditize, IBM's differentiation lies in consulting expertise, not the raw technology underneath.",
+      "5. Will your enterprise bet on strategy?\n\nAsk yourself: are you buying AI power, or the guidance to use it? Run a small pilot this quarter to decide."
+    ],
+    "video_script": [
+      "IBM pairs OpenAI with consulting advice.",
+      "Legacy systems can integrate without overhaul.",
+      "Pilot one workflow before renewing contracts.",
+      "The value shifts to strategic guidance.",
+      "Will you bet on power or advice?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. IBM bets on advice, not AI power\n\nIBM is pairing OpenAI models with its consultants, shifting the value from the model itself to the strategy around it.",
+          "2. Legacy systems get a bridge\n\nOld enterprise tech can tap into cutting-edge AI without a full overhaul, lowering the barrier for adoption.",
+          "3. The real test: pilot one workflow\n\nBefore renewing any AI contracts, IBM suggests trying a single OpenAI-assisted process to see measurable impact.",
+          "4. What if the advice is the moat?\n\nAs models commoditize, IBM's differentiation lies in consulting expertise, not the raw technology underneath.",
+          "5. Will your enterprise bet on strategy?\n\nAsk yourself: are you buying AI power, or the guidance to use it? Run a small pilot this quarter to decide."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "IBM pairs OpenAI with consulting advice.",
+          "Legacy systems can integrate without overhaul.",
+          "Pilot one workflow before renewing contracts.",
+          "The value shifts to strategic guidance.",
+          "Will you bet on power or advice?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your ERP system from 2005 just got a seat at the AI table. 🧩\n\nIBM is plugging OpenAI models into its consulting arm and software. The play isn't raw horsepower—it's the roadmap around it. Old legacy stacks can tap into generative AI without ripping out and rebuilding. That removes the single biggest blocker for most companies.\n\nFor you, this means your existing tools might get an AI upgrade without a six-month migration. 📉 The shift puts strategy above the model itself.\n\nWhich workflow would you pilot first to test if the advice, not the tech, is worth the contract? 🔍"
+      }
+    },
+    "instagram_caption": "Your ERP system from 2005 just got a seat at the AI table. 🧩\n\nIBM is plugging OpenAI models into its consulting arm and software. The play isn't raw horsepower—it's the roadmap around it. Old legacy stacks can tap into generative AI without ripping out and rebuilding. That removes the single biggest blocker for most companies.\n\nFor you, this means your existing tools might get an AI upgrade without a six-month migration. 📉 The shift puts strategy above the model itself.\n\nWhich workflow would you pilot first to test if the advice, not the tech, is worth the contract? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is advice the new AI moat?",
+        "description": "IBM pairs OpenAI with consultants, shifting value from model to strategy. The bet: expertise wins deals, not raw power.",
+        "visual_hint": "Chess pieces on a board",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chess pieces strategy"
+      },
+      {
+        "hook": "Bridge legacy to cutting-edge AI",
+        "description": "Old enterprise tech can access OpenAI without a full overhaul. Lower barrier, faster adoption, no re-platforming pain.",
+        "visual_hint": "Old bridge linking modern city",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "old bridge city",
+        "image": "https://images.pexels.com/photos/18704543/pexels-photo-18704543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pilot one AI workflow now",
+        "description": "Before renewing AI contracts, try a single IBM-assisted OpenAI process. See measurable impact before long-term commitment.",
+        "visual_hint": "Magnifying glass over document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if your advice is the moat?",
+        "description": "As models commoditize, IBM's edge is consulting expertise, not raw tech. Strategy becomes your differentiator.",
+        "visual_hint": "Hand holding a compass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding compass",
+        "image": "https://images.pexels.com/photos/4640934/pexels-photo-4640934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test AI strategy now",
+        "description": "Run a small pilot this quarter. Ask if you're buying AI power or guidance. Start with one workflow.",
+        "visual_hint": "Checkmark on a calendar",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar checkmark",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
+    "savedAt": "2026-08-13T20:32:27.757Z",
+    "sourceId": "b377fa89f3ad152d5e1d6e4218e33c19"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "databricks-wanted-to-raise-1b-investors-wanted-15b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "pubDate": "Thu, 13 Aug 2026 20:14:39 +0000",
+    "slides": [
+      "Who demands fifteen times more than Databricks sought?",
+      "Investors bid $15B for a stake, seven times oversubscribed.",
+      "Databricks accepted only $5B, rejecting the extra billions.",
+      "Your fundraising can now target disciplined growth over hype.",
+      "Cap your round today; scarcity fuels tomorrow's valuation."
+    ],
+    "thread_text": [
+      "1. They wanted more\n\nInvestors offered $15B for a stake, but Databricks took only $5B, leaving $10B on the table.",
+      "2. Why say no?\n\nRejecting excess capital signals confidence in growth, not desperation for cash, which can reshape investor perception.",
+      "3. The bidding war\n\nDemand was seven times oversubscribed, proving scarcity drives valuation more than the actual amount raised.",
+      "4. Your playbook\n\nIf you cap your round, you create artificial scarcity that can boost future valuation, turning away money now for leverage later.",
+      "5. Test it yourself\n\nTake your current pitch deck and simulate a capped round. Ask: would you reject extra cash for a higher future valuation?"
+    ],
+    "video_script": [
+      "Investors offered fifteen billion, but they took five.",
+      "Rejecting cash signals confidence, not weakness.",
+      "Scarcity drives valuation more than the amount.",
+      "Capping your round creates future leverage.",
+      "Ask: would you leave ten billion on table?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They wanted more\n\nInvestors offered $15B for a stake, but Databricks took only $5B, leaving $10B on the table.",
+          "2. Why say no?\n\nRejecting excess capital signals confidence in growth, not desperation for cash, which can reshape investor perception.",
+          "3. The bidding war\n\nDemand was seven times oversubscribed, proving scarcity drives valuation more than the actual amount raised.",
+          "4. Your playbook\n\nIf you cap your round, you create artificial scarcity that can boost future valuation, turning away money now for leverage later.",
+          "5. Test it yourself\n\nTake your current pitch deck and simulate a capped round. Ask: would you reject extra cash for a higher future valuation?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Investors offered fifteen billion, but they took five.",
+          "Rejecting cash signals confidence, not weakness.",
+          "Scarcity drives valuation more than the amount.",
+          "Capping your round creates future leverage.",
+          "Ask: would you leave ten billion on table?"
+        ]
+      },
+      "instagram": {
+        "caption": "Investors threw $15 billion at Databricks. The company took $5 billion and walked away. 💰\n\nThat’s seven times oversubscribed, and they still capped the round at a $190 billion valuation. Rejecting $10 billion on purpose isn’t modesty—it’s a signal that growth is predictable, not desperate. Scarcity, not hype, set the price.\n\nFor you: the next time you raise, setting a hard cap can make investors move faster and value you higher. It flips the dynamic from “how much can we grab” to “who gets in.” 📉\n\nWould you turn down $10 billion to protect your next valuation? Or is that just for unicorns?"
+      }
+    },
+    "instagram_caption": "Investors threw $15 billion at Databricks. The company took $5 billion and walked away. 💰\n\nThat’s seven times oversubscribed, and they still capped the round at a $190 billion valuation. Rejecting $10 billion on purpose isn’t modesty—it’s a signal that growth is predictable, not desperate. Scarcity, not hype, set the price.\n\nFor you: the next time you raise, setting a hard cap can make investors move faster and value you higher. It flips the dynamic from “how much can we grab” to “who gets in.” 📉\n\nWould you turn down $10 billion to protect your next valuation? Or is that just for unicorns?",
+    "carousel_slides": [
+      {
+        "hook": "Turning down $10B?",
+        "description": "Databricks rejected $10B in extra funding, accepting only $5B. This scarcity signal can fuel higher future valuations.",
+        "visual_hint": "Piles of cash being refused",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cash stacks"
+      },
+      {
+        "hook": "Why say no to billions?",
+        "description": "Rejecting excess capital signals confidence in growth, not desperation. Investors offered $15B; Databricks took only $5B.",
+        "visual_hint": "Bid numbers on a screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scarcity drives valuation",
+        "description": "Demand was seven times oversubscribed, proving scarcity boosts valuation more than the amount raised. Databricks left $10B on the table.",
+        "visual_hint": "Magnifying glass on auction",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "auction gavel",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cap your round for leverage",
+        "description": "Artificial scarcity can increase future valuation. Turn away money now to gain leverage later, just like Databricks.",
+        "visual_hint": "Hand holding a cap",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding",
+        "image": "https://images.pexels.com/photos/32695709/pexels-photo-32695709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your pitch.",
+        "description": "Simulate a capped round with your deck. Ask: would you reject extra cash for a higher valuation? Try it now.",
+        "visual_hint": "Checklist with a cap icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "business meeting",
+        "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+    "savedAt": "2026-08-13T20:32:13.076Z",
+    "sourceId": "7261e6583d8e84ce7ddde3811fc833db"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "i-looked-inside-an-ai-generated-movie-and-the-best",
     "prompt_version": "1.0.0",
     "status": "published",
