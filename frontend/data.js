@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "guitar-company-d-addario-admits-that-ai-music-was-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "pubDate": "2026-08-12T15:52:07.000Z",
+    "slides": [
+      "D’Addario's ad hides AI music, but why now?",
+      "The video celebrates human artistry, not machines.",
+      "Musicians unknowingly heard synthetic strings in endorsement.",
+      "Artists must now question every branded audio contract.",
+      "Disclose AI involvement in your next promo immediately."
+    ],
+    "thread_text": [
+      "1. The hidden AI track\n\nD’Addario’s latest ad features synthetic strings, but the musicians endorsing it didn’t know. They only heard the final mix—and it wasn’t human.",
+      "2. The irony of the message\n\nThe video’s narration celebrates human artistry, yet the audio behind those words was machine-made. It’s a contradiction that undermines the entire campaign.",
+      "3. The contract loophole\n\nMost branded audio deals don’t specify AI use, leaving artists exposed. That’s why the musicians couldn’t object—their contracts never covered it.",
+      "4. The trust fallout\n\nOnce the truth surfaces, every past endorsement gets questioned. Artists now realize that their name can be attached to AI without consent.",
+      "5. Check your next promo\n\nBefore signing that audio contract, ask: does it disclose AI? If not, demand a clause. It’s the only way to protect your reputation."
+    ],
+    "video_script": [
+      "D’Addario used AI music without telling artists.",
+      "The ad claims to honor human creativity.",
+      "But the strings were synthetic, not played.",
+      "Musicians unknowingly lent their names to machines.",
+      "Demand AI disclosure in every contract now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The hidden AI track\n\nD’Addario’s latest ad features synthetic strings, but the musicians endorsing it didn’t know. They only heard the final mix—and it wasn’t human.",
+          "2. The irony of the message\n\nThe video’s narration celebrates human artistry, yet the audio behind those words was machine-made. It’s a contradiction that undermines the entire campaign.",
+          "3. The contract loophole\n\nMost branded audio deals don’t specify AI use, leaving artists exposed. That’s why the musicians couldn’t object—their contracts never covered it.",
+          "4. The trust fallout\n\nOnce the truth surfaces, every past endorsement gets questioned. Artists now realize that their name can be attached to AI without consent.",
+          "5. Check your next promo\n\nBefore signing that audio contract, ask: does it disclose AI? If not, demand a clause. It’s the only way to protect your reputation."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "D’Addario used AI music without telling artists.",
+          "The ad claims to honor human creativity.",
+          "But the strings were synthetic, not played.",
+          "Musicians unknowingly lent their names to machines.",
+          "Demand AI disclosure in every contract now."
+        ]
+      },
+      "instagram": {
+        "caption": "The guitar strings you just heard in that D’Addario promo weren’t played by anyone. The musicians endorsing it found out after signing—the final mix was synthetic.\n\nThe video’s narration glorifies human artistry while the audio track is machine-made. The contracts these artists signed never mentioned AI, so there was no legal ground to object. That’s the loophole.\n\nFor anyone creating branded content, your name can now be attached to AI without your knowledge. Before your next endorsement, demand a written clause that discloses AI involvement in the audio.\n\nWould you sign a deal today without that protection? 🎸🤖📝"
+      }
+    },
+    "instagram_caption": "The guitar strings you just heard in that D’Addario promo weren’t played by anyone. The musicians endorsing it found out after signing—the final mix was synthetic.\n\nThe video’s narration glorifies human artistry while the audio track is machine-made. The contracts these artists signed never mentioned AI, so there was no legal ground to object. That’s the loophole.\n\nFor anyone creating branded content, your name can now be attached to AI without your knowledge. Before your next endorsement, demand a written clause that discloses AI involvement in the audio.\n\nWould you sign a deal today without that protection? 🎸🤖📝",
+    "carousel_slides": [
+      {
+        "hook": "Did you sign away your voice?",
+        "description": "D'Addario's ad used AI music without telling the musicians. Their contracts had no AI clause, leaving them exposed.",
+        "visual_hint": "Guitar with hidden digital waveform",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric guitar cables"
+      },
+      {
+        "hook": "Human artistry, machine-made audio.",
+        "description": "The video celebrates human artistry, but synthetic strings play behind the words. The contradiction undermines the entire campaign.",
+        "visual_hint": "Split screen: human hands vs robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "recording studio microphone",
+        "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your contract doesn't protect you.",
+        "description": "Most branded audio deals don't specify AI use, so musicians couldn't object. They heard the final mix, unaware it wasn't human.",
+        "visual_hint": "Magnifying glass over contract text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "contract signature pen",
+        "image": "https://images.pexels.com/photos/8470836/pexels-photo-8470836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust in endorsements is shattered.",
+        "description": "Once truth surfaces, every past endorsement gets questioned. Artists now realize their name can be attached to AI without consent.",
+        "visual_hint": "Broken guitar strings",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken guitar strings",
+        "image": "https://images.pexels.com/photos/5119635/pexels-photo-5119635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next promo.",
+        "description": "Before signing any audio contract, ask: does it disclose AI? If not, demand a clause. Protect your reputation now.",
+        "visual_hint": "Stop sign with AI symbol",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "legal documents gavel",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&amp;strip=all&amp;crop=2.25%2C0%2C95.5%2C100&amp;w=1200",
+    "savedAt": "2026-08-13T07:14:18.759Z",
+    "sourceId": "0268aeed91a739ed09500fb82e2d4605"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "uber-freight-reportedly-investigating-after-hackin",
     "prompt_version": "1.0.0",
     "status": "published",
