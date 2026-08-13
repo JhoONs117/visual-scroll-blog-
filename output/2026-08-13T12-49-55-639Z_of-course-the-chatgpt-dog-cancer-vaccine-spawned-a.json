@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "of-course-the-chatgpt-dog-cancer-vaccine-spawned-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+  "pubDate": "2026-08-12T12:09:34.000Z",
+  "slides": [
+    "A vaccine trained by AI cured a dog's cancer. Where was it?",
+    "The secret: ChatGPT-style learning adapted to tumor proteins.",
+    "The dog lived, but the AI made one wrong prediction first.",
+    "Now a startup will sequence your pet's tumor in days.",
+    "Ask your vet for genomic testing before your next biopsy."
+  ],
+  "thread_text": [
+    "1. Where was it?\n\nA vaccine trained by AI cured a dog's cancer in a clinical trial in the US.",
+    "2. The secret method\n\nChatGPT-style learning adapted to tumor proteins made the vaccine personalized for each dog.",
+    "3. One wrong guess\n\nBefore success, the AI made a false prediction about the tumor, showing the risk of overconfidence.",
+    "4. Faster now\n\nA startup now sequences your pet's tumor in days, not weeks, using the same AI approach.",
+    "5. Ask your vet\n\nBefore your next biopsy, request genomic testing to see if this vaccine could help your pet."
+  ],
+  "video_script": [
+    "AI trained a vaccine that cured a dog's cancer.",
+    "It learns like ChatGPT, but for tumor proteins.",
+    "The model first made a wrong prediction.",
+    "But the dog lived when it got it right.",
+    "Now ask your vet for genomic testing before biopsy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Where was it?\n\nA vaccine trained by AI cured a dog's cancer in a clinical trial in the US.",
+        "2. The secret method\n\nChatGPT-style learning adapted to tumor proteins made the vaccine personalized for each dog.",
+        "3. One wrong guess\n\nBefore success, the AI made a false prediction about the tumor, showing the risk of overconfidence.",
+        "4. Faster now\n\nA startup now sequences your pet's tumor in days, not weeks, using the same AI approach.",
+        "5. Ask your vet\n\nBefore your next biopsy, request genomic testing to see if this vaccine could help your pet."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI trained a vaccine that cured a dog's cancer.",
+        "It learns like ChatGPT, but for tumor proteins.",
+        "The model first made a wrong prediction.",
+        "But the dog lived when it got it right.",
+        "Now ask your vet for genomic testing before biopsy."
+      ]
+    },
+    "instagram": {
+      "caption": "A clinical trial just used an AI-trained vaccine to cure a dog's cancer — and the same tech is now a startup. 🐕💉\n\nThe AI learned from tumor proteins, not text, to build a personalized vaccine for each dog. It made one wrong prediction early on, a reminder that this is still trial-and-error. Now a company will sequence your pet's tumor in days instead of weeks.\n\nIf you're a pet owner, this changes your next vet visit: ask for genomic testing before any biopsy. It's the difference between guessing and targeting.\n\nWould you ask your vet for a genomic test on your dog's lump next week? 🔬"
+    }
+  },
+  "instagram_caption": "A clinical trial just used an AI-trained vaccine to cure a dog's cancer — and the same tech is now a startup. 🐕💉\n\nThe AI learned from tumor proteins, not text, to build a personalized vaccine for each dog. It made one wrong prediction early on, a reminder that this is still trial-and-error. Now a company will sequence your pet's tumor in days instead of weeks.\n\nIf you're a pet owner, this changes your next vet visit: ask for genomic testing before any biopsy. It's the difference between guessing and targeting.\n\nWould you ask your vet for a genomic test on your dog's lump next week? 🔬",
+  "carousel_slides": [
+    {
+      "hook": "AI cured a dog's cancer.",
+      "description": "A US clinical trial used an AI-trained vaccine to cure a dog's cancer. The vaccine was personalized for each dog.",
+      "visual_hint": "Dog with vaccine syringe",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "dog receiving vaccine"
+    },
+    {
+      "hook": "ChatGPT-style learning for tumors.",
+      "description": "The vaccine adapted ChatGPT-style learning to tumor proteins, making it personalized for each dog's unique cancer.",
+      "visual_hint": "AI analyzing protein structure",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "DNA double helix",
+      "image": "https://images.pexels.com/photos/3656213/pexels-photo-3656213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One wrong prediction first.",
+      "description": "Before success, the AI made a false prediction about the tumor, showing the risk of overconfidence in AI-driven medicine.",
+      "visual_hint": "Red warning signal",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startup sequences tumors in days.",
+      "description": "A new startup uses the same AI approach to sequence your pet's tumor in days, not weeks, enabling faster treatment decisions.",
+      "visual_hint": "Lab equipment processing samples",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laboratory test tubes",
+      "image": "https://images.pexels.com/photos/8940348/pexels-photo-8940348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your vet visit.",
+      "description": "Before your next biopsy, ask your vet about genomic testing to see if this AI vaccine could help your pet.",
+      "visual_hint": "Vet with pet owner",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "veterinarian examining dog",
+      "image": "https://images.pexels.com/photos/7470633/pexels-photo-7470633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-13T12:50:07.889Z",
+  "sourceId": "4361bd4cf51a12e2faf9b74ec4e3a2ce"
+}
