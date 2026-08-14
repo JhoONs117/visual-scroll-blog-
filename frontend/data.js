@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-will-now-allow-users-to-remove-visible-wate",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "slides": [
+      "Google removes watermark from AI images, but who decides?",
+      "New tool lets users strip SynthID from generations.",
+      "But hidden metadata still tracks the image's origins.",
+      "Your AI content can now be edited without visible trace.",
+      "Test any AI tool before trusting its attribution."
+    ],
+    "thread_text": [
+      "1. Who decides what's real?\n\nGoogle's new tool lets anyone strip SynthID from AI images, leaving only hidden metadata as a trace.",
+      "2. The invisible tracker\n\nEven after removing the watermark, metadata can still reveal the image's AI origin — but only if you know where to look.",
+      "3. Your edit, your problem\n\nOnce the watermark is gone, any AI content can be edited without a visible trace. Trust becomes the real issue.",
+      "4. The attribution gap\n\nMetadata isn't foolproof — it can be stripped or altered. The question is: who checks it, and how often?",
+      "5. Test before you trust\n\nTake any AI-generated image and try removing its watermark. If you haven't done it, start there — see what remains."
+    ],
+    "video_script": [
+      "Google removes watermarks from AI images. Who decides?",
+      "New tool strips SynthID easily. Hidden metadata remains.",
+      "Edit AI content without a trace. Metadata tracks origins.",
+      "Trust attribution? Test any AI tool first.",
+      "Check what survives after watermark removal. Start today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who decides what's real?\n\nGoogle's new tool lets anyone strip SynthID from AI images, leaving only hidden metadata as a trace.",
+          "2. The invisible tracker\n\nEven after removing the watermark, metadata can still reveal the image's AI origin — but only if you know where to look.",
+          "3. Your edit, your problem\n\nOnce the watermark is gone, any AI content can be edited without a visible trace. Trust becomes the real issue.",
+          "4. The attribution gap\n\nMetadata isn't foolproof — it can be stripped or altered. The question is: who checks it, and how often?",
+          "5. Test before you trust\n\nTake any AI-generated image and try removing its watermark. If you haven't done it, start there — see what remains."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google removes watermarks from AI images. Who decides?",
+          "New tool strips SynthID easily. Hidden metadata remains.",
+          "Edit AI content without a trace. Metadata tracks origins.",
+          "Trust attribution? Test any AI tool first.",
+          "Check what survives after watermark removal. Start today."
+        ]
+      },
+      "instagram": {
+        "caption": "The watermark you see on AI images? You can now remove it in one click. 🔧\n\nGoogle just shipped a tool that lets users strip SynthID — its own AI watermark — from generations. Hidden metadata still tracks the origin, but only if someone bothers to check it. 🕵️\n\nFor anyone creating or publishing content, this means attribution is now optional. Edits leave no visible trace. Trust becomes a manual decision.\n\nBefore you rely on any AI tool’s provenance claims, test it: generate an image, strip its watermark, and see what actually survives. What did you find? 🔍"
+      }
+    },
+    "instagram_caption": "The watermark you see on AI images? You can now remove it in one click. 🔧\n\nGoogle just shipped a tool that lets users strip SynthID — its own AI watermark — from generations. Hidden metadata still tracks the origin, but only if someone bothers to check it. 🕵️\n\nFor anyone creating or publishing content, this means attribution is now optional. Edits leave no visible trace. Trust becomes a manual decision.\n\nBefore you rely on any AI tool’s provenance claims, test it: generate an image, strip its watermark, and see what actually survives. What did you find? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who decides what's real?",
+        "description": "Google's new tool strips SynthID from AI images. Hidden metadata remains, but its visibility is questionable.",
+        "visual_hint": "Digital fingerprint vanishing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "futuristic city skyline"
+      },
+      {
+        "hook": "The invisible tracker remains",
+        "description": "Even after watermark removal, metadata can reveal AI origin. But it's hidden and hard to find.",
+        "visual_hint": "Magnifying glass on code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer circuit board",
+        "image": "https://images.pexels.com/photos/8108712/pexels-photo-8108712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your edit, your problem",
+        "description": "Once the watermark is gone, AI content can be edited without visible trace. Trust becomes the real issue.",
+        "visual_hint": "Broken chain link",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "metal chains",
+        "image": "https://images.pexels.com/photos/13790807/pexels-photo-13790807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The attribution gap",
+        "description": "Metadata isn't foolproof — it can be stripped or altered. Who checks it, and how often?",
+        "visual_hint": "Detective looking at data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you trust",
+        "description": "Take any AI-generated image and try removing its watermark. See what remains for yourself.",
+        "visual_hint": "Finger pressing button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "people using smartphone",
+        "image": "https://images.pexels.com/photos/7279328/pexels-photo-7279328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "savedAt": "2026-08-14T16:42:30.434Z",
+    "sourceId": "0e0aa648101264aa2f9a823cf309735c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "samsung-health-ai-models-analyse-wearable-biosigna",
     "prompt_version": "1.0.0",
     "status": "published",
