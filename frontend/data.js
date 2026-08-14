@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "does-mark-zuckerberg-really-believe-ai-is-for-ever",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "slides": [
+      "Does Zuckerberg truly want AI for all?",
+      "Meta's Llama is free, but not open.",
+      "Its license silently restricts the biggest players.",
+      "Your AI projects may already violate the terms.",
+      "Check Llama's acceptable use policy before shipping."
+    ],
+    "thread_text": [
+      "1. Who really gets AI?\n\nMeta gives away Llama, but its license quietly bars the biggest tech firms. Your project might be next in line for restrictions.",
+      "2. Free isn't open\n\nLlama's 'open' label hides clauses that forbid using it for certain services. Developers often miss this until after launch.",
+      "3. The silent cap\n\nIf you have over 700 million monthly users, you can't use Llama without explicit Meta approval. A hidden limit that catches giants off guard.",
+      "4. Your risk now\n\nMost startups ignore the acceptable use policy, assuming it's boilerplate. A single integration could violate terms and trigger legal actions.",
+      "5. Check before shipping\n\nOpen Llama's acceptable use policy today. If you don't know what's there, you're already in danger."
+    ],
+    "video_script": [
+      "Could Zuckerberg's free AI have restrictions?",
+      "Meta's Llama is free but not truly open.",
+      "Hidden terms stop the biggest companies from using.",
+      "Your AI project might already be violating rules.",
+      "Check the acceptable use policy before shipping."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who really gets AI?\n\nMeta gives away Llama, but its license quietly bars the biggest tech firms. Your project might be next in line for restrictions.",
+          "2. Free isn't open\n\nLlama's 'open' label hides clauses that forbid using it for certain services. Developers often miss this until after launch.",
+          "3. The silent cap\n\nIf you have over 700 million monthly users, you can't use Llama without explicit Meta approval. A hidden limit that catches giants off guard.",
+          "4. Your risk now\n\nMost startups ignore the acceptable use policy, assuming it's boilerplate. A single integration could violate terms and trigger legal actions.",
+          "5. Check before shipping\n\nOpen Llama's acceptable use policy today. If you don't know what's there, you're already in danger."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Could Zuckerberg's free AI have restrictions?",
+          "Meta's Llama is free but not truly open.",
+          "Hidden terms stop the biggest companies from using.",
+          "Your AI project might already be violating rules.",
+          "Check the acceptable use policy before shipping."
+        ]
+      },
+      "instagram": {
+        "caption": "You’re building on Meta's Llama right now, and its license quietly blocks any service with over 700 million monthly users.  \n\nThat \"free\" model isn't open—it's restricted. The acceptable use policy also bars specific use cases, and most developers never read it until after launch. A single integration can violate those terms and expose you to legal action.  \n\nFor you, that means your startup's AI feature might already be in breach. One hidden clause can sink a product you've shipped.  \n\nGo open Llama's policy page before your next deploy. Do you know which line in it applies to your user count? ⚖️📄🚫"
+      }
+    },
+    "instagram_caption": "You’re building on Meta's Llama right now, and its license quietly blocks any service with over 700 million monthly users.  \n\nThat \"free\" model isn't open—it's restricted. The acceptable use policy also bars specific use cases, and most developers never read it until after launch. A single integration can violate those terms and expose you to legal action.  \n\nFor you, that means your startup's AI feature might already be in breach. One hidden clause can sink a product you've shipped.  \n\nGo open Llama's policy page before your next deploy. Do you know which line in it applies to your user count? ⚖️📄🚫",
+    "carousel_slides": [
+      {
+        "hook": "You may already be violating Meta's license.",
+        "description": "Llama's license silently bars companies with over 700 million users. Your startup could face legal action if you ignore it.",
+        "visual_hint": "Magnifying glass on legal text",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "magnifying glass"
+      },
+      {
+        "hook": "Free doesn't mean open.",
+        "description": "Llama's 'open' label hides restrictions on certain services. Developers discover them post-launch.",
+        "visual_hint": "Open box with chains",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "open box",
+        "image": "https://images.pexels.com/photos/6347891/pexels-photo-6347891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden 700 million cap.",
+        "description": "If you exceed 700 million monthly users, you need Meta's approval. That hidden limit catches giants off guard.",
+        "visual_hint": "User graph with threshold line",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "user graph",
+        "image": "https://images.pexels.com/photos/7567441/pexels-photo-7567441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next integration could trigger it.",
+        "description": "Most startups ignore the acceptable use policy as boilerplate. One integration may violate terms and trigger legal actions.",
+        "visual_hint": "Document with warning stamp",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "document stamp",
+        "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before shipping.",
+        "description": "Open Llama's acceptable use policy today. If you don't know what's there, you're already in danger.",
+        "visual_hint": "Open policy document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "open book",
+        "image": "https://images.pexels.com/photos/11197155/pexels-photo-11197155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+    "savedAt": "2026-08-14T18:41:51.395Z",
+    "sourceId": "d0a06ebad8a62813c06f0091c01ce040"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-will-now-allow-users-to-remove-visible-wate",
     "prompt_version": "1.0.0",
     "status": "published",
