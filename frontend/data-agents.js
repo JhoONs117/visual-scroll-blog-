@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-ai-health-coach-to-use-abbott-glucose-data",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "pubDate": "Fri, 14 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Google's health coach: your glucose, its plan—who controls you?",
+        "Abbott's sensors stream real-time glucose to Google's AI.",
+        "Surprise: coach learns your food's hidden glucose spikes, not calories.",
+        "Your diet becomes data-driven; insulin adjustments may soon.",
+        "Ask your doctor: will this coach override their advice?"
+      ],
+      "thread_text": [
+        "1. Who's in charge?\n\nAbbott's sensors stream your glucose to Google's AI, which then suggests what to eat. Your body data is now their product.",
+        "2. Sugar secrets revealed\n\nThe AI spots hidden spikes in foods you thought were healthy—like whole grains or fruit. Calories are yesterday's metric.",
+        "3. From data to decisions\n\nYour insulin doses could be auto-adjusted by this coach, without your doctor's input. That's a shift from advice to control.",
+        "4. Doctor vs. algorithm\n\nIf the AI recommends a change that contradicts your physician, who do you trust? There's no protocol for this conflict yet.",
+        "5. Ask your doctor now\n\nBefore a glucose spike becomes a prescription, ask: 'Will this AI override your advice?' If they say no, get it in writing."
+      ],
+      "video_script": [
+        "Your glucose feeds Google's AI now.",
+        "It learns your food's hidden spikes.",
+        "Soon, it might adjust your insulin.",
+        "But who decides if doctor disagrees?",
+        "Ask your doctor before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's in charge?\n\nAbbott's sensors stream your glucose to Google's AI, which then suggests what to eat. Your body data is now their product.",
+            "2. Sugar secrets revealed\n\nThe AI spots hidden spikes in foods you thought were healthy—like whole grains or fruit. Calories are yesterday's metric.",
+            "3. From data to decisions\n\nYour insulin doses could be auto-adjusted by this coach, without your doctor's input. That's a shift from advice to control.",
+            "4. Doctor vs. algorithm\n\nIf the AI recommends a change that contradicts your physician, who do you trust? There's no protocol for this conflict yet.",
+            "5. Ask your doctor now\n\nBefore a glucose spike becomes a prescription, ask: 'Will this AI override your advice?' If they say no, get it in writing."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your glucose feeds Google's AI now.",
+            "It learns your food's hidden spikes.",
+            "Soon, it might adjust your insulin.",
+            "But who decides if doctor disagrees?",
+            "Ask your doctor before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Your glucose data is now feeding Google’s AI health coach, via Abbott’s sensors.  \n\nThe coach learns which foods spike your sugar—even “healthy” ones like whole grains. Calories are no longer the metric that matters.  \n\nNext step: the AI could suggest insulin adjustments without your doctor in the loop. That’s a shift from advice to automated decisions.  \n\nIf you write about health or wearables, your content now has to explain who owns the final call—doctor or algorithm.  \n\nBefore you strap on that sensor: will your physician override this coach’s recommendations, or will it override them? Ask now. 🩸🤖⚖️"
+        }
+      },
+      "instagram_caption": "Your glucose data is now feeding Google’s AI health coach, via Abbott’s sensors.  \n\nThe coach learns which foods spike your sugar—even “healthy” ones like whole grains. Calories are no longer the metric that matters.  \n\nNext step: the AI could suggest insulin adjustments without your doctor in the loop. That’s a shift from advice to automated decisions.  \n\nIf you write about health or wearables, your content now has to explain who owns the final call—doctor or algorithm.  \n\nBefore you strap on that sensor: will your physician override this coach’s recommendations, or will it override them? Ask now. 🩸🤖⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Who really controls your health?",
+          "description": "Abbott's sensors stream your glucose to Google's AI, which then tells you what to eat. Your body data is now their product.",
+          "visual_hint": "Phone with glucose app",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone glucose monitor"
+        },
+        {
+          "hook": "Sugar secrets revealed",
+          "description": "The AI spots hidden glucose spikes in foods you thought healthy—like whole grains—making calories yesterday's metric.",
+          "visual_hint": "Fruit and grains with spikes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fresh fruit whole grains",
+          "image": "https://images.pexels.com/photos/5208261/pexels-photo-5208261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your insulin, auto-adjusted?",
+          "description": "This coach could auto-tune your insulin doses without your doctor's input—a shift from advice to control.",
+          "visual_hint": "Insulin pen and graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "insulin pen glucose graph",
+          "image": "https://images.pexels.com/photos/8965123/pexels-photo-8965123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Doctor vs. algorithm",
+          "description": "If the AI contradicts your physician, who do you trust? No protocol exists for this conflict yet.",
+          "visual_hint": "Scales with symbols",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor stethoscope tablet",
+          "image": "https://images.pexels.com/photos/19963124/pexels-photo-19963124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next checkup",
+          "description": "Ask your doctor now: 'Will this AI override your advice?' If they say no, get it in writing.",
+          "visual_hint": "Paper and pen in hand",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stethoscope clipboard",
+          "image": "https://images.pexels.com/photos/6097806/pexels-photo-6097806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8669899/pexels-photo-8669899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-14T12:43:48.371Z",
+      "sourceId": "a49722b6b09c38a73ca30c82696a4f12"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-trained-its-own-ai-model-for-china-with-help",
       "prompt_version": "1.0.0",
       "status": "published",
