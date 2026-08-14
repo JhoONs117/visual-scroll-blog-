@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-trained-its-own-ai-model-for-china-with-help",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "slides": [
+        "Why would Apple need Alibaba to build AI?",
+        "Apple trained its China model with Alibaba's help.",
+        "The model will run locally on iPhones, not in cloud.",
+        "China users get AI without sending data abroad.",
+        "For you: wait for Chinese iPhone keynote before buying."
+      ],
+      "thread_text": [
+        "1. Why Apple chose Alibaba\n\nApple's China AI model is trained with Alibaba's help, not built from scratch. The partnership was confirmed by Alibaba's chairman.",
+        "2. The local processing twist\n\nUnlike cloud-based AI, this model runs locally on iPhones. That means faster responses and no dependence on internet speed for basic features.",
+        "3. Data stays in China\n\nAll user data is processed on-device, so nothing is sent abroad. This complies with China's strict data laws while still offering AI features.",
+        "4. The consequence for privacy\n\nLocal processing reduces privacy risks but limits the model's complexity. So don't expect the same power as cloud-based assistants like ChatGPT.",
+        "5. Wait before you buy\n\nIf you're in China, hold off on a new iPhone until the keynote confirms AI features. Otherwise, you might miss out on the full experience."
+      ],
+      "video_script": [
+        "Apple teams up with Alibaba for China AI.",
+        "Model runs on iPhone, not cloud.",
+        "Your data stays in China, private.",
+        "But local means less powerful AI.",
+        "Wait for keynote before buying iPhone."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why Apple chose Alibaba\n\nApple's China AI model is trained with Alibaba's help, not built from scratch. The partnership was confirmed by Alibaba's chairman.",
+            "2. The local processing twist\n\nUnlike cloud-based AI, this model runs locally on iPhones. That means faster responses and no dependence on internet speed for basic features.",
+            "3. Data stays in China\n\nAll user data is processed on-device, so nothing is sent abroad. This complies with China's strict data laws while still offering AI features.",
+            "4. The consequence for privacy\n\nLocal processing reduces privacy risks but limits the model's complexity. So don't expect the same power as cloud-based assistants like ChatGPT.",
+            "5. Wait before you buy\n\nIf you're in China, hold off on a new iPhone until the keynote confirms AI features. Otherwise, you might miss out on the full experience."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple teams up with Alibaba for China AI.",
+            "Model runs on iPhone, not cloud.",
+            "Your data stays in China, private.",
+            "But local means less powerful AI.",
+            "Wait for keynote before buying iPhone."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next iPhone in China won’t send your messages to a cloud—Apple’s AI runs entirely on-device, trained with Alibaba’s help, and confirmed by Alibaba’s chairman. 🍎📱\n\nThat means faster replies and stricter data localization: nothing leaves the country, which sidesteps China’s data laws. But local processing also caps the model’s brainpower—don’t expect ChatGPT-level reasoning in Siri.\n\nFor creators, this changes how you automate captions or edit photos on-device in China—no cloud dependency, but simpler outputs.\n\nIf you’re buying an iPhone in China, will you wait for the keynote to see which features actually ship? 👀"
+        }
+      },
+      "instagram_caption": "Your next iPhone in China won’t send your messages to a cloud—Apple’s AI runs entirely on-device, trained with Alibaba’s help, and confirmed by Alibaba’s chairman. 🍎📱\n\nThat means faster replies and stricter data localization: nothing leaves the country, which sidesteps China’s data laws. But local processing also caps the model’s brainpower—don’t expect ChatGPT-level reasoning in Siri.\n\nFor creators, this changes how you automate captions or edit photos on-device in China—no cloud dependency, but simpler outputs.\n\nIf you’re buying an iPhone in China, will you wait for the keynote to see which features actually ship? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Your iPhone data stays in China?",
+          "description": "Apple's China AI runs on-device, so no data leaves the country. This complies with local laws while keeping features fast.",
+          "visual_hint": "iPhone with China flag backdrop",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone china flag"
+        },
+        {
+          "hook": "Why Alibaba? Why not from scratch?",
+          "description": "Apple partnered with Alibaba to train its China model, confirmed by Alibaba's chairman. It's a strategic shortcut, not a full build.",
+          "visual_hint": "Two logos side by side",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "apple alibaba logos",
+          "image": "https://images.pexels.com/photos/13597064/pexels-photo-13597064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI runs locally, not in the cloud",
+          "description": "The model processes directly on your iPhone, so responses are faster and don't rely on internet speed. Basic features work offline.",
+          "visual_hint": "Chip with processing arrows",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chip closeup",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Less privacy risk, less power",
+          "description": "Local processing keeps data secure but limits complexity. Don't expect ChatGPT-level intelligence from this on-device model.",
+          "visual_hint": "Scale balancing privacy vs power",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "justice scale",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Wait for the keynote before buying",
+          "description": "If you're in China, hold off on a new iPhone until Apple confirms AI features. Otherwise, you might miss the full experience.",
+          "visual_hint": "Calendar with 'keynote' marked",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar event date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-14T10:50:05.118Z",
+      "sourceId": "ae32eded766b19338243db4e3540ede2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "uber-and-pony-ai-plan-to-bring-2-000-robotaxis-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "pubDate": "Fri, 14 Aug 2026 10:44:30 +0000",
+      "slides": [
+        "Uber's robotaxis hit Europe—but will Pony.ai's tech work?",
+        "Two thousand self-driving cars are planned by 2026.",
+        "Most will operate in Germany, yet regulators remain silent.",
+        "Your Uber rides could soon be driverless—at lower cost.",
+        "Test one in Stuttgart now; decisions will shape your future."
+      ],
+      "thread_text": [
+        "1. Why Stuttgart might fail\n\nPony.ai's tech has never been tested in European traffic, yet Uber is betting on it for 2,000 robotaxis.",
+        "2. The 2026 deadline\n\nThose 2,000 cars target most of their fleet in Germany, where regulators haven't even approved the tech.",
+        "3. Silent regulators, big risks\n\nWhile the government stays quiet, Uber's lower costs could cut fares—and safety oversights could follow.",
+        "4. Your ride goes driverless\n\nThe app will offer you a robotaxi in Stuttgart soon; costs drop, but who checks the brakes?",
+        "5. Test one today\n\nBook a ride in Stuttgart and see if you trust the empty driver's seat. Would you?"
+      ],
+      "video_script": [
+        "Uber's robotaxis are coming to Europe.",
+        "Pony.ai's tech faces its first real test.",
+        "Germany silent on safety and regulations.",
+        "Lower fares, but at what risk?",
+        "Try one in Stuttgart. Would you?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why Stuttgart might fail\n\nPony.ai's tech has never been tested in European traffic, yet Uber is betting on it for 2,000 robotaxis.",
+            "2. The 2026 deadline\n\nThose 2,000 cars target most of their fleet in Germany, where regulators haven't even approved the tech.",
+            "3. Silent regulators, big risks\n\nWhile the government stays quiet, Uber's lower costs could cut fares—and safety oversights could follow.",
+            "4. Your ride goes driverless\n\nThe app will offer you a robotaxi in Stuttgart soon; costs drop, but who checks the brakes?",
+            "5. Test one today\n\nBook a ride in Stuttgart and see if you trust the empty driver's seat. Would you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Uber's robotaxis are coming to Europe.",
+            "Pony.ai's tech faces its first real test.",
+            "Germany silent on safety and regulations.",
+            "Lower fares, but at what risk?",
+            "Try one in Stuttgart. Would you?"
+          ]
+        },
+        "instagram": {
+          "caption": "Stuttgart’s streets are about to get 2,000 self-driving Ubers, and the company is betting Pony.ai’s tech will handle European traffic. 🚗\n\nThe catch? Most of those robotaxis head to Germany, where regulators haven’t approved the system yet. And Pony.ai has never driven in European conditions. Lower fares might arrive—but nobody’s officially checking the brakes.\n\nFor you, this means your Uber app will soon offer a driverless ride in Stuttgart. If you’re a creator or business owner, expect cheaper transport logistics—but also a new layer of uncertainty about safety standards in your city.\n\nWould you book that empty driver’s seat before regulators speak up? 🛑\n\nTest one in Stuttgart and decide yourself."
+        }
+      },
+      "instagram_caption": "Stuttgart’s streets are about to get 2,000 self-driving Ubers, and the company is betting Pony.ai’s tech will handle European traffic. 🚗\n\nThe catch? Most of those robotaxis head to Germany, where regulators haven’t approved the system yet. And Pony.ai has never driven in European conditions. Lower fares might arrive—but nobody’s officially checking the brakes.\n\nFor you, this means your Uber app will soon offer a driverless ride in Stuttgart. If you’re a creator or business owner, expect cheaper transport logistics—but also a new layer of uncertainty about safety standards in your city.\n\nWould you book that empty driver’s seat before regulators speak up? 🛑\n\nTest one in Stuttgart and decide yourself.",
+      "carousel_slides": [
+        {
+          "hook": "Silent regulators, huge bet.",
+          "description": "Pony.ai's self-driving tech has never faced European traffic. Uber plans 2,000 robotaxis in Germany without official approval. Could safety be overlooked?",
+          "visual_hint": "Empty driver's seat close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous car interior"
+        },
+        {
+          "hook": "2,000 robotaxis by 2026?",
+          "description": "Uber and Pony.ai target most of their fleet in Germany, where regulators haven't even approved the technology. The deadline looms, but questions remain.",
+          "visual_hint": "Fleet of white robotaxis",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robotaxi fleet",
+          "image": "https://images.pexels.com/photos/15509461/pexels-photo-15509461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who checks the brakes?",
+          "description": "With government silence, Uber's lower costs could cut fares—but safety oversights might follow. The tech is untested in European conditions.",
+          "visual_hint": "Magnifying glass on car brake",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "car brake disc",
+          "image": "https://images.pexels.com/photos/8651900/pexels-photo-8651900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your ride goes driverless.",
+          "description": "Uber will soon offer robotaxis in Stuttgart, cutting costs. But without clear oversight, who ensures the vehicle is safe before you get in?",
+          "visual_hint": "Hand holding smartphone with app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone ride app",
+          "image": "https://images.pexels.com/photos/12205370/pexels-photo-12205370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one in Stuttgart today.",
+          "description": "Book a ride and see if you trust the empty driver's seat. Your experience could shape the future of robotaxis in Europe. Share your thoughts now.",
+          "visual_hint": "Person entering self-driving car",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person entering autonomous car",
+          "image": "https://images.pexels.com/photos/13801870/pexels-photo-13801870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
+      "savedAt": "2026-08-14T10:49:52.087Z",
+      "sourceId": "fa797b8a84cca21846e50808c6804da1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "who-really-needs-a-cocktail-robot-",
       "prompt_version": "1.0.0",
       "status": "published",
