@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-losing-its-second-executive-this-week",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "pubDate": "2026-08-13T19:28:39.000Z",
+      "slides": [
+        "OpenAI's second executive exit this week—why now?",
+        "The departure follows a major product restructuring.",
+        "Internal rivalry over safety priorities triggered the move.",
+        "Your AI roadmap may shift without warning.",
+        "Reassess vendor lock-in before signing new contracts."
+      ],
+      "thread_text": [
+        "1. Second exit in a week\n\nOpenAI just lost another executive, and the timing isn't random. A major product restructuring is underway, and it's reshaping who stays and who goes.",
+        "2. Safety clash inside\n\nThe exit stems from a heated rivalry over safety priorities. Insiders say the product push won over caution, leaving key leaders out.",
+        "3. Your roadmap at risk\n\nIf you rely on OpenAI's API, expect sudden shifts in features or support. No warning, just a new direction that may break your current setup.",
+        "4. Lock-in is the real trap\n\nBuilding solely on one vendor's AI is risky. Diversify your model sources now to avoid being held hostage by internal politics.",
+        "5. Test your backup plan\n\nRun a critical prompt on a competitor's model this week. If the output quality is close, start migrating core workflows—will you wait for the next exit?"
+      ],
+      "video_script": [
+        "OpenAI lost another exec, what's happening?",
+        "Product restructuring and safety clashes caused this.",
+        "If you rely on OpenAI, your roadmap is unstable.",
+        "Don't get locked into one vendor's AI.",
+        "Test a rival model now, before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Second exit in a week\n\nOpenAI just lost another executive, and the timing isn't random. A major product restructuring is underway, and it's reshaping who stays and who goes.",
+            "2. Safety clash inside\n\nThe exit stems from a heated rivalry over safety priorities. Insiders say the product push won over caution, leaving key leaders out.",
+            "3. Your roadmap at risk\n\nIf you rely on OpenAI's API, expect sudden shifts in features or support. No warning, just a new direction that may break your current setup.",
+            "4. Lock-in is the real trap\n\nBuilding solely on one vendor's AI is risky. Diversify your model sources now to avoid being held hostage by internal politics.",
+            "5. Test your backup plan\n\nRun a critical prompt on a competitor's model this week. If the output quality is close, start migrating core workflows—will you wait for the next exit?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI lost another exec, what's happening?",
+            "Product restructuring and safety clashes caused this.",
+            "If you rely on OpenAI, your roadmap is unstable.",
+            "Don't get locked into one vendor's AI.",
+            "Test a rival model now, before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Two OpenAI execs gone in seven days—same week as a major product overhaul. 🚪\n\nInsiders say the exits are over a safety-versus-speed clash. Product push won, caution lost. If you build on their API, features can change direction overnight. 🔄\n\nThat means your workflows might break without a heads-up. If you're all-in on one vendor, you're betting on their internal drama, not just their tech. 🎲\n\nTest one critical prompt on a rival model this week. If it's close enough, start shifting core tasks. Or wait for the next resignation to force your hand? ⏳"
+        }
+      },
+      "instagram_caption": "Two OpenAI execs gone in seven days—same week as a major product overhaul. 🚪\n\nInsiders say the exits are over a safety-versus-speed clash. Product push won, caution lost. If you build on their API, features can change direction overnight. 🔄\n\nThat means your workflows might break without a heads-up. If you're all-in on one vendor, you're betting on their internal drama, not just their tech. 🎲\n\nTest one critical prompt on a rival model this week. If it's close enough, start shifting core tasks. Or wait for the next resignation to force your hand? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Safety loses. Product wins.",
+          "description": "OpenAI's second executive exit this week comes after a major product restructuring, triggered by an internal rivalry over safety priorities.",
+          "visual_hint": "Two executives walking out",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office building exit"
+        },
+        {
+          "hook": "Who controls AI's brakes?",
+          "description": "The departure follows a heated clash over safety priorities—product push overshadowed caution, forcing key leaders out.",
+          "visual_hint": "Tug-of-war over controls",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "scale balance",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI roadmap just shifted.",
+          "description": "With OpenAI's restructuring, API features and support may change without warning, breaking your current setup.",
+          "visual_hint": "Broken roadmap path",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "road split",
+          "image": "https://images.pexels.com/photos/10251153/pexels-photo-10251153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't be held hostage.",
+          "description": "Building solely on one vendor's AI is risky—diversify model sources now to avoid internal politics disrupting your business.",
+          "visual_hint": "Hand holding chain",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chain lock",
+          "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next contract.",
+          "description": "Test a critical prompt on a competitor's model this week. If quality is close, start migrating core workflows now.",
+          "visual_hint": "Pen signing contract",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.746068936881%2C100%2C78.507862126237&amp;w=1200",
+      "savedAt": "2026-08-14T01:10:50.578Z",
+      "sourceId": "45947aa8ee00249092fb00801936f596"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-hires-new-cro-as-executive-shake-up-continu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "slides": [
+        "OpenAI's new CRO arrives—can he steady sales?",
+        "He replaces a leader who left amid turmoil.",
+        "The shake-up follows a year of executive departures.",
+        "Your enterprise deals may face new approval hurdles.",
+        "Watch pricing shifts and sign new contracts early."
+      ],
+      "thread_text": [
+        "1. New CRO, old chaos?\n\nOpenAI just hired a new Chief Revenue Officer, but his first job is to fix a sales team that lost its leader mid-mess.",
+        "2. The turnover toll\n\nSince last year, over a dozen executives have left the company, creating a vacuum that's now hitting your enterprise deals directly.",
+        "3. Approval roadblocks\n\nYour next contract may need sign-off from layers that didn't exist six months ago—expect slower procurement cycles.",
+        "4. Price watch\n\nWith new leadership, pricing strategies are shifting. Lock in rates now before adjustments hit your renewal.",
+        "5. Act this week\n\nReview your current contracts and renegotiate terms early. Or ask yourself: can you afford a surprise price hike in Q3?"
+      ],
+      "video_script": [
+        "OpenAI's new sales chief faces a storm.",
+        "He replaces a leader who left in chaos.",
+        "Many execs have fled this past year.",
+        "Your deals may hit new approval blocks.",
+        "Lock in early, watch pricing shifts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. New CRO, old chaos?\n\nOpenAI just hired a new Chief Revenue Officer, but his first job is to fix a sales team that lost its leader mid-mess.",
+            "2. The turnover toll\n\nSince last year, over a dozen executives have left the company, creating a vacuum that's now hitting your enterprise deals directly.",
+            "3. Approval roadblocks\n\nYour next contract may need sign-off from layers that didn't exist six months ago—expect slower procurement cycles.",
+            "4. Price watch\n\nWith new leadership, pricing strategies are shifting. Lock in rates now before adjustments hit your renewal.",
+            "5. Act this week\n\nReview your current contracts and renegotiate terms early. Or ask yourself: can you afford a surprise price hike in Q3?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's new sales chief faces a storm.",
+            "He replaces a leader who left in chaos.",
+            "Many execs have fled this past year.",
+            "Your deals may hit new approval blocks.",
+            "Lock in early, watch pricing shifts."
+          ]
+        },
+        "instagram": {
+          "caption": "A dozen-plus executives have walked out the door in the last year, and now OpenAI is bringing in a new revenue chief to stop the bleeding. 🚪\n\nThat turnover isn't just their problem. It's yours. New layers of approval are appearing in procurement, which means your next enterprise deal could stall for weeks while sign-off bounces between unfamiliar desks.\n\nPricing is the other shoe to watch. New leadership often means new rate cards, and renewals are the easiest place to test them. 📈\n\nIf you have a contract up for renewal this quarter, start the renegotiation now. Lock terms before the new team rewrites the playbook.\n\nWhat's your current renewal date—and have you asked your account rep about pricing changes yet? 💬"
+        }
+      },
+      "instagram_caption": "A dozen-plus executives have walked out the door in the last year, and now OpenAI is bringing in a new revenue chief to stop the bleeding. 🚪\n\nThat turnover isn't just their problem. It's yours. New layers of approval are appearing in procurement, which means your next enterprise deal could stall for weeks while sign-off bounces between unfamiliar desks.\n\nPricing is the other shoe to watch. New leadership often means new rate cards, and renewals are the easiest place to test them. 📈\n\nIf you have a contract up for renewal this quarter, start the renegotiation now. Lock terms before the new team rewrites the playbook.\n\nWhat's your current renewal date—and have you asked your account rep about pricing changes yet? 💬",
+      "carousel_slides": [
+        {
+          "hook": "Can one hire fix the chaos?",
+          "description": "OpenAI's new CRO inherits a sales team in flux. His success hinges on stabilizing a leadership vacuum that's impacting your enterprise deals.",
+          "visual_hint": "CRO at empty desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office desk"
+        },
+        {
+          "hook": "More exits than stability",
+          "description": "Over a dozen executives have left OpenAI in a year. This turnover now slows your procurement and approval processes directly.",
+          "visual_hint": "Revolving door of exits",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "revolving door",
+          "image": "https://images.pexels.com/photos/19320941/pexels-photo-19320941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New layers, slower deals",
+          "description": "Your next contract may face approval layers that didn't exist six months ago. Expect longer procurement cycles and more sign-offs.",
+          "visual_hint": "Stack of approval forms",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "approval forms stack",
+          "image": "https://images.pexels.com/photos/7821465/pexels-photo-7821465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pricing shifts are coming",
+          "description": "With new leadership, OpenAI's pricing strategy is changing. Lock in current rates now to avoid surprises at renewal.",
+          "visual_hint": "Hand adjusting price tag",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand price tag",
+          "image": "https://images.pexels.com/photos/5935795/pexels-photo-5935795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Act now—save your budget",
+          "description": "Review your current OpenAI contracts and renegotiate terms early to prevent a Q3 price hike. Visit the link in bio for a checklist.",
+          "visual_hint": "Calendar and pen reminder",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "calendar pen",
+          "image": "https://images.pexels.com/photos/5239790/pexels-photo-5239790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+      "savedAt": "2026-08-14T01:10:37.727Z",
+      "sourceId": "9a1de941a4f8ef98b8f7e35783f5e269"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-introduces-ultrafast-a-new-mode-that-makes-",
       "prompt_version": "1.0.0",
       "status": "published",

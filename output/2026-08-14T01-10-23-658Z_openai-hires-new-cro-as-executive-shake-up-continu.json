@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-hires-new-cro-as-executive-shake-up-continu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI hires new CRO as executive shake-up continues",
+  "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+  "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+  "slides": [
+    "OpenAI's new CRO arrives—can he steady sales?",
+    "He replaces a leader who left amid turmoil.",
+    "The shake-up follows a year of executive departures.",
+    "Your enterprise deals may face new approval hurdles.",
+    "Watch pricing shifts and sign new contracts early."
+  ],
+  "thread_text": [
+    "1. New CRO, old chaos?\n\nOpenAI just hired a new Chief Revenue Officer, but his first job is to fix a sales team that lost its leader mid-mess.",
+    "2. The turnover toll\n\nSince last year, over a dozen executives have left the company, creating a vacuum that's now hitting your enterprise deals directly.",
+    "3. Approval roadblocks\n\nYour next contract may need sign-off from layers that didn't exist six months ago—expect slower procurement cycles.",
+    "4. Price watch\n\nWith new leadership, pricing strategies are shifting. Lock in rates now before adjustments hit your renewal.",
+    "5. Act this week\n\nReview your current contracts and renegotiate terms early. Or ask yourself: can you afford a surprise price hike in Q3?"
+  ],
+  "video_script": [
+    "OpenAI's new sales chief faces a storm.",
+    "He replaces a leader who left in chaos.",
+    "Many execs have fled this past year.",
+    "Your deals may hit new approval blocks.",
+    "Lock in early, watch pricing shifts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. New CRO, old chaos?\n\nOpenAI just hired a new Chief Revenue Officer, but his first job is to fix a sales team that lost its leader mid-mess.",
+        "2. The turnover toll\n\nSince last year, over a dozen executives have left the company, creating a vacuum that's now hitting your enterprise deals directly.",
+        "3. Approval roadblocks\n\nYour next contract may need sign-off from layers that didn't exist six months ago—expect slower procurement cycles.",
+        "4. Price watch\n\nWith new leadership, pricing strategies are shifting. Lock in rates now before adjustments hit your renewal.",
+        "5. Act this week\n\nReview your current contracts and renegotiate terms early. Or ask yourself: can you afford a surprise price hike in Q3?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's new sales chief faces a storm.",
+        "He replaces a leader who left in chaos.",
+        "Many execs have fled this past year.",
+        "Your deals may hit new approval blocks.",
+        "Lock in early, watch pricing shifts."
+      ]
+    },
+    "instagram": {
+      "caption": "A dozen-plus executives have walked out the door in the last year, and now OpenAI is bringing in a new revenue chief to stop the bleeding. 🚪\n\nThat turnover isn't just their problem. It's yours. New layers of approval are appearing in procurement, which means your next enterprise deal could stall for weeks while sign-off bounces between unfamiliar desks.\n\nPricing is the other shoe to watch. New leadership often means new rate cards, and renewals are the easiest place to test them. 📈\n\nIf you have a contract up for renewal this quarter, start the renegotiation now. Lock terms before the new team rewrites the playbook.\n\nWhat's your current renewal date—and have you asked your account rep about pricing changes yet? 💬"
+    }
+  },
+  "instagram_caption": "A dozen-plus executives have walked out the door in the last year, and now OpenAI is bringing in a new revenue chief to stop the bleeding. 🚪\n\nThat turnover isn't just their problem. It's yours. New layers of approval are appearing in procurement, which means your next enterprise deal could stall for weeks while sign-off bounces between unfamiliar desks.\n\nPricing is the other shoe to watch. New leadership often means new rate cards, and renewals are the easiest place to test them. 📈\n\nIf you have a contract up for renewal this quarter, start the renegotiation now. Lock terms before the new team rewrites the playbook.\n\nWhat's your current renewal date—and have you asked your account rep about pricing changes yet? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Can one hire fix the chaos?",
+      "description": "OpenAI's new CRO inherits a sales team in flux. His success hinges on stabilizing a leadership vacuum that's impacting your enterprise deals.",
+      "visual_hint": "CRO at empty desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty office desk"
+    },
+    {
+      "hook": "More exits than stability",
+      "description": "Over a dozen executives have left OpenAI in a year. This turnover now slows your procurement and approval processes directly.",
+      "visual_hint": "Revolving door of exits",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "revolving door",
+      "image": "https://images.pexels.com/photos/19320941/pexels-photo-19320941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New layers, slower deals",
+      "description": "Your next contract may face approval layers that didn't exist six months ago. Expect longer procurement cycles and more sign-offs.",
+      "visual_hint": "Stack of approval forms",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "approval forms stack",
+      "image": "https://images.pexels.com/photos/7821465/pexels-photo-7821465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pricing shifts are coming",
+      "description": "With new leadership, OpenAI's pricing strategy is changing. Lock in current rates now to avoid surprises at renewal.",
+      "visual_hint": "Hand adjusting price tag",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand price tag",
+      "image": "https://images.pexels.com/photos/5935795/pexels-photo-5935795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Act now—save your budget",
+      "description": "Review your current OpenAI contracts and renegotiate terms early to prevent a Q3 price hike. Visit the link in bio for a checklist.",
+      "visual_hint": "Calendar and pen reminder",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar pen",
+      "image": "https://images.pexels.com/photos/5239790/pexels-photo-5239790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+  "savedAt": "2026-08-14T01:10:37.727Z",
+  "sourceId": "9a1de941a4f8ef98b8f7e35783f5e269"
+}
