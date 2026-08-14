@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "samsung-health-ai-models-analyse-wearable-biosigna",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "pubDate": "Fri, 14 Aug 2026 13:30:10 +0000",
+      "slides": [
+        "Can Samsung's AI predict your next illness?",
+        "It learns from your watch's biosignals daily",
+        "But the model exposes patterns doctors missed",
+        "Your wearable becomes a clinical early-warning system",
+        "Ask Samsung: what disease will it miss?"
+      ],
+      "thread_text": [
+        "1. What disease will it miss?\n\nSamsung’s AI watches your biosignals daily, but doctors can’t see its blind spots. A single missed pattern could mean a late diagnosis.",
+        "2. It learned from your pulse\n\nYour watch’s heart-rate and sleep data feed a model that spots anomalies. Researchers say it caught early signs of atrial fibrillation—weeks before symptoms appeared.",
+        "3. The twist: patterns doctors ignored\n\nThe AI found correlations in data that human experts dismissed as noise. Some led to real diagnoses, but the model can’t explain why—raising trust issues in clinics.",
+        "4. From wrist to warning system\n\nYour wearable becomes a clinical early-warning system, sending alerts before a crisis. But it only flags what it was trained on—rare diseases? Missing entirely.",
+        "5. Ask Samsung: will it miss yours?\n\nCall Samsung support today and ask which conditions their AI fails to detect. If they can’t list them, demand a transparent trial on your own health data."
+      ],
+      "video_script": [
+        "Samsung's AI predicts your next illness.",
+        "It learns from your watch's daily biosignals.",
+        "But it exposes patterns doctors missed.",
+        "Your wearable becomes a clinical early-warning system.",
+        "Ask Samsung: what disease will it miss?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What disease will it miss?\n\nSamsung’s AI watches your biosignals daily, but doctors can’t see its blind spots. A single missed pattern could mean a late diagnosis.",
+            "2. It learned from your pulse\n\nYour watch’s heart-rate and sleep data feed a model that spots anomalies. Researchers say it caught early signs of atrial fibrillation—weeks before symptoms appeared.",
+            "3. The twist: patterns doctors ignored\n\nThe AI found correlations in data that human experts dismissed as noise. Some led to real diagnoses, but the model can’t explain why—raising trust issues in clinics.",
+            "4. From wrist to warning system\n\nYour wearable becomes a clinical early-warning system, sending alerts before a crisis. But it only flags what it was trained on—rare diseases? Missing entirely.",
+            "5. Ask Samsung: will it miss yours?\n\nCall Samsung support today and ask which conditions their AI fails to detect. If they can’t list them, demand a transparent trial on your own health data."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Samsung's AI predicts your next illness.",
+            "It learns from your watch's daily biosignals.",
+            "But it exposes patterns doctors missed.",
+            "Your wearable becomes a clinical early-warning system.",
+            "Ask Samsung: what disease will it miss?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your watch already knows your heart is off—days before you do. Samsung’s AI models trained on wearable biosignal data flagged early atrial fibrillation weeks before symptoms showed, spotting patterns doctors dismissed as noise.\n\nThe catch: the model can’t explain why it made those calls. A correlation that saves you could also be a false alarm, and without reasoning, clinicians won’t trust the alert. Rare diseases? The model never saw them, so it stays silent. Plugging this into a clinic means trading blind spots for new ones. 📉\n\nFor anyone building health content or tools on top of this, the data isn’t neutral—it encodes what Samsung chose to track. Are you ready to verify what your AI *doesn’t* see? 🔍"
+        }
+      },
+      "instagram_caption": "Your watch already knows your heart is off—days before you do. Samsung’s AI models trained on wearable biosignal data flagged early atrial fibrillation weeks before symptoms showed, spotting patterns doctors dismissed as noise.\n\nThe catch: the model can’t explain why it made those calls. A correlation that saves you could also be a false alarm, and without reasoning, clinicians won’t trust the alert. Rare diseases? The model never saw them, so it stays silent. Plugging this into a clinic means trading blind spots for new ones. 📉\n\nFor anyone building health content or tools on top of this, the data isn’t neutral—it encodes what Samsung chose to track. Are you ready to verify what your AI *doesn’t* see? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Doctors miss what AI sees?",
+          "description": "Samsung's AI finds patterns in biosignals that doctors ignored, leading to real diagnoses. But it can't explain why, raising trust issues.",
+          "visual_hint": "glowing pulse line on wristwatch",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartwatch on wrist"
+        },
+        {
+          "hook": "Your watch knows before you do.",
+          "description": "Heart-rate and sleep data feed a model that caught early signs of atrial fibrillation, weeks before symptoms appeared.",
+          "visual_hint": "heartbeat graph on smartwatch",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "heart rate monitor screen",
+          "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI found patterns experts called noise.",
+          "description": "The model spotted correlations in data dismissed as noise, leading to real diagnoses. But without explanations, trust in clinics falters.",
+          "visual_hint": "magnifying glass over data graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass circuit board",
+          "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From wrist to early-warning system.",
+          "description": "Your wearable flags risks before a crisis, but only for trained conditions. Rare diseases remain completely invisible to it.",
+          "visual_hint": "alert notification on smartwatch",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartwatch on hand",
+          "image": "https://images.pexels.com/photos/18078956/pexels-photo-18078956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will AI miss your disease? Comment now.",
+          "description": "Call Samsung support today and ask which conditions their AI fails to detect. Demand a transparent trial on your health data.",
+          "visual_hint": "phone icon with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "customer support call center",
+          "image": "https://images.pexels.com/photos/8867258/pexels-photo-8867258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8217438/pexels-photo-8217438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-14T14:44:24.164Z",
+      "sourceId": "893e4fe5644ed7889115a4413ba6ca17"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-ai-health-coach-to-use-abbott-glucose-data",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -121715,6 +121819,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "dessert-vaniglia-cocco-e-cioccolato",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Dessert vaniglia, cocco e cioccolato",
+      "link": "https://ricette.giallozafferano.it/Dessert-vaniglia-cocco-e-cioccolato.html",
+      "pubDate": "Fri, 14 Aug 2026 15:20:00 +0200",
+      "content": "Dessert vaniglia, cocco e cioccolato con pistokeddos Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Al cucchiaio Dessert vaniglia, cocco e cioccolato /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE Il dessert vaniglia, cocco e cioccolato è un dolce senza cottura cremoso e scenografico, che riunisce la dolcezza della vaniglia, il gusto deciso del cioccolato fondente e il profumo del cocco. A renderlo particolare sono i savoiardi sardi, conosciuti anche come pistokeddos , biscotti tipici della Sardegna dalla consistenza soffice e leggera e dalle dimensioni generalmente più generose rispetto ai classici savoiardi. Facile e veloce da preparare, con i suoi strati ben visibili e l’alternanza delle due creme, questo dessert è una proposta elegante da servire anche nelle occasioni speciali. E se avete amato questo dessert apprezzerete anche questi: Pavesini cocco e cioccolato Panna cotta al cocco con salsa di cioccolato Barrette cocco e cioccolato Rotolo dolce senza cottura Cioccolatini al cocco INGREDIENTI per la crema alla vaniglia Mascarpone 170 g Panna fresca liquida 200 g Zucchero a velo 45 g Baccello di vaniglia 1 per la crema al cioccolato Cioccolato fondente 50 g Panna fresca liquida 100 g Mascarpone 80 g Zucchero a velo 15 g per comporre e decorare il dolce Savoiardi sardi (12 pezzi) 240 g Latte intero 200 g Cocco rapè 60 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Dessert vaniglia, cocco e cioccolato Per preparare il dessert vaniglia, cocco e cioccolato, iniziate dalla crema alla vaniglia. Incidete la bacca di vaniglia nel senso della lunghezza e prelevate i semi. Riunite in una ciotola il mascarpone, i semi della vaniglia 1 , lo zucchero a velo 2 e la panna 3 . Lavorate gli ingredienti con le fruste elettriche 4 fino a ottenere una crema montata 5 , omogenea e sufficientemente soda da mantenere la forma. Trasferitela in una sac à poche e tenetela da parte in frigorifero. Passate alla crema al cioccolato. Tritate finemente il cioccolato fondente 6 e raccoglietelo in una ciotola. Prelevate una parte della panna prevista per la crema al cioccolato (circa 30 g), scaldatela e versatela sul cioccolato tritato 7 . Mescolate accuratamente fino a farlo sciogliere completamente 8 . In un'altra ciotola versate il mascarpone, la panna rimasta e lo zucchero a velo 9 . Iniziate a montare con le fruste elettriche 10 , unite quindi il cioccolato sciolto 11 e continuate a lavorare il composto fino ad ottenere una crema ben montata 12 . Trasferite anche questa in una sac à poche. Versate il latte in un recipiente e sistemate il cocco rapè in un secondo contenitore. Passate velocemente i savoiardi nel latte 13 , senza lasciarli in ammollo troppo a lungo, quindi passateli nel cocco rapè in modo da rivestirne la superficie 14 . A questo punto assemblate il dessert direttamente sul piatto da portata. Distribuite alcuni spuntoni di crema sul fondo, così da creare una base per i biscotti, quindi sistemate il primo savoiardo sulla crema 15 . Affiancate così 4 savoiardi uno accanto all'altro 16 . Ricopriteli con spuntoni di crema alla vaniglia 17 . Poi disponete sopra altri 4 savoiardi 18 , formando il secondo strato. Ricopriteli con spuntoni di crema al cioccolato 19 . Aggiungete infine gli ultimi 4 savoiardi 20 e completate la superficie con la crema alla vaniglia 21 . Trasferite il dolce in frigorifero sino al momento di servirlo. Conservazione Conservate il dessert vaniglia, cocco e cioccolato in frigorifero, ben coperto, e consumatelo entro 2 giorni. Si sconsiglia la congelazione. Consiglio Quando bagnate i savoiardi sardi nel latte, fate un passaggio rapido: devono assorbire abbastanza liquido da ammorbidirsi senza perdere consistenza. In questo modo gli strati rimarranno ben definiti e il dessert sarà più semplice da porzionare. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Cioccolato Latte Savoiardi Mascarpone Cocco Scopri tutto sugli ingredienti Presente in: Dolci veloci , Dolci al cucchiaio veloci , Dolci al cioccolato , Dolci freddi , Ricette sfiziose , Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Dessert vaniglia, cocco e cioccolato Benessere Zucchine e melanzane marinate 5.0 Alici in tortiera 5.0 SCOPRI Palline di cioccolato e cocco Biscotti cocco e cioccolato Dolcetti al cocco e cioccolato Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Dessert vaniglia, cocco e cioccolato con pistokeddos",
+        "Mascarpone, panna, cioccolato fondente, savoiardi, cocco",
+        "Preleva i semi della vaniglia, monta con mascarpone",
+        "Bagna i savoiardi nel latte e cocco, stratifica",
+        "Riposo in frigorifero, passaggio rapido nel latte"
+      ],
+      "instagram_caption": "Questo dessert è un abbraccio cremoso con un cuore fondente che non ti aspetti. 🥥🍫\n\nParto da una base di savoiardi inzuppati nel latte e cocco, poi alterno strati di mascarpone montato con i semi di vaniglia freschi e cioccolato fondente. Il tocco segreto? I pistokeddos che danno quella nota croccante e salata che bilancia tutto. Un passaggio rapido nel latte prima di servirlo lo rende ancora più vellutato.\n\nIl riposo in frigo fa la magia: i sapori si fondono, la consistenza diventa pazzesca. 🍮✨\n\nProvala questo weekend, non ne uscirai più. 😉",
+      "formats": {
+        "instagram": {
+          "caption": "Questo dessert è un abbraccio cremoso con un cuore fondente che non ti aspetti. 🥥🍫\n\nParto da una base di savoiardi inzuppati nel latte e cocco, poi alterno strati di mascarpone montato con i semi di vaniglia freschi e cioccolato fondente. Il tocco segreto? I pistokeddos che danno quella nota croccante e salata che bilancia tutto. Un passaggio rapido nel latte prima di servirlo lo rende ancora più vellutato.\n\nIl riposo in frigo fa la magia: i sapori si fondono, la consistenza diventa pazzesca. 🍮✨\n\nProvala questo weekend, non ne uscirai più. 😉"
+        },
+        "tiktok": {
+          "script": [
+            "Via, dessert goloso con pistokeddos, si parte!",
+            "Mascarpone, panna, cioccolato, savoiardi e cocco.",
+            "Semi di vaniglia, monto col mascarpone, liscio.",
+            "Bagno savoiardi nel latte cocco, stratifico tutto.",
+            "Frigo, poi tuffo veloce nel latte e servo."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Vi dico solo una cosa: savoiardi inzuppati nel latte di cocco, mascarpone alla vaniglia e cioccolato fondente. Questo dessert non è un dolce, è un viaggio. E no, non serve il forno. 🥥",
+            "La base? Mascarpone, panna e cioccolato fondente. Ma il trucco è nei semi di vaniglia: li prelevi e li monti con il mascarpone. Il profumo che esce è già metà del risultato.",
+            "Poi arriva il gesto che fa la differenza: bagni i savoiardi nel latte con cocco, li stratifichi con la crema e il cioccolato. Non esagerare con l'inzuppo, devono restare morbidi ma non sfatti.",
+            "Cocco ovunque, anche nella panna. Stratifica così: savoiardo, crema, scaglie di cocco, savoiardo, crema, cioccolato. Poi tutto in frigo per un riposo che fa sciogliere i sapori. La pausa giusta è fondamentale.",
+            "Il trucco finale? Un passaggio rapido nel latte prima di servire: rende la texture ancora più vellutata. Provalo e dimmi se ti è venuta quella voglia di cucchiaio che non ti molla più. 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Via, dessert goloso con pistokeddos, si parte!",
+        "Mascarpone, panna, cioccolato, savoiardi e cocco.",
+        "Semi di vaniglia, monto col mascarpone, liscio.",
+        "Bagno savoiardi nel latte cocco, stratifico tutto.",
+        "Frigo, poi tuffo veloce nel latte e servo."
+      ],
+      "thread_text": [
+        "Vi dico solo una cosa: savoiardi inzuppati nel latte di cocco, mascarpone alla vaniglia e cioccolato fondente. Questo dessert non è un dolce, è un viaggio. E no, non serve il forno. 🥥",
+        "La base? Mascarpone, panna e cioccolato fondente. Ma il trucco è nei semi di vaniglia: li prelevi e li monti con il mascarpone. Il profumo che esce è già metà del risultato.",
+        "Poi arriva il gesto che fa la differenza: bagni i savoiardi nel latte con cocco, li stratifichi con la crema e il cioccolato. Non esagerare con l'inzuppo, devono restare morbidi ma non sfatti.",
+        "Cocco ovunque, anche nella panna. Stratifica così: savoiardo, crema, scaglie di cocco, savoiardo, crema, cioccolato. Poi tutto in frigo per un riposo che fa sciogliere i sapori. La pausa giusta è fondamentale.",
+        "Il trucco finale? Un passaggio rapido nel latte prima di servire: rende la texture ancora più vellutata. Provalo e dimmi se ti è venuta quella voglia di cucchiaio che non ti molla più. 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Vaniglia, cocco e cioccolato: il dessert perfetto",
+          "description": "Un dessert cremoso e avvolgente, con strati di savoiardi al cocco e crema alla vaniglia, sormontato da cioccolato fondente.",
+          "visual_hint": "Vetrina dessert al cucchiaio",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "vanilla coconut chocolate dessert"
+        },
+        {
+          "hook": "Ingredienti semplici, sapore intenso",
+          "description": "Mascarpone, panna, cioccolato fondente, savoiardi e cocco: i protagonisti di questo dolce al cucchiaio.",
+          "visual_hint": "Ingredienti su tavola rustica",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "mascarpone coconut chocolate ingredients",
+          "image": "https://images.pexels.com/photos/15080942/pexels-photo-15080942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto? I semi di vaniglia",
+          "description": "Preleva i semi dalla bacca e montali con il mascarpone: la crema diventa profumatissima e vellutata.",
+          "visual_hint": "Primo piano semi di vaniglia",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "vanilla bean seeds closeup",
+          "image": "https://images.pexels.com/photos/9334455/pexels-photo-9334455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stratifica e conquista",
+          "description": "Bagna i savoiardi nel latte al cocco e alterna con la crema: il risultato è un equilibrio perfetto.",
+          "visual_hint": "Manos stratificano savoiardi",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "layering ladyfingers dessert",
+          "image": "https://images.pexels.com/photos/29721423/pexels-photo-29721423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale: cacao e cocco",
+          "description": "Dopo il riposo in frigo, una rapida passata nel latte e una spolverata di cacao: pronto da servire.",
+          "visual_hint": "Dessert finito con cacao",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "finished chocolate coconut dessert",
+          "image": "https://images.pexels.com/photos/36148048/pexels-photo-36148048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "mascarpone",
+        "cocco",
+        "cioccolato fondente"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36548/Dessert-vaniglia-cocco-e-cioccolato_650x433_wm.jpg",
+      "savedAt": "2026-08-14T14:49:15.523Z",
+      "sourceId": "036508a9a69b32c04f2462a929fb550a"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "samsung-health-ai-models-analyse-wearable-biosigna",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Samsung health AI models analyse wearable biosignal data",
+  "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+  "pubDate": "Fri, 14 Aug 2026 13:30:10 +0000",
+  "slides": [
+    "Can Samsung's AI predict your next illness?",
+    "It learns from your watch's biosignals daily",
+    "But the model exposes patterns doctors missed",
+    "Your wearable becomes a clinical early-warning system",
+    "Ask Samsung: what disease will it miss?"
+  ],
+  "thread_text": [
+    "1. What disease will it miss?\n\nSamsung’s AI watches your biosignals daily, but doctors can’t see its blind spots. A single missed pattern could mean a late diagnosis.",
+    "2. It learned from your pulse\n\nYour watch’s heart-rate and sleep data feed a model that spots anomalies. Researchers say it caught early signs of atrial fibrillation—weeks before symptoms appeared.",
+    "3. The twist: patterns doctors ignored\n\nThe AI found correlations in data that human experts dismissed as noise. Some led to real diagnoses, but the model can’t explain why—raising trust issues in clinics.",
+    "4. From wrist to warning system\n\nYour wearable becomes a clinical early-warning system, sending alerts before a crisis. But it only flags what it was trained on—rare diseases? Missing entirely.",
+    "5. Ask Samsung: will it miss yours?\n\nCall Samsung support today and ask which conditions their AI fails to detect. If they can’t list them, demand a transparent trial on your own health data."
+  ],
+  "video_script": [
+    "Samsung's AI predicts your next illness.",
+    "It learns from your watch's daily biosignals.",
+    "But it exposes patterns doctors missed.",
+    "Your wearable becomes a clinical early-warning system.",
+    "Ask Samsung: what disease will it miss?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What disease will it miss?\n\nSamsung’s AI watches your biosignals daily, but doctors can’t see its blind spots. A single missed pattern could mean a late diagnosis.",
+        "2. It learned from your pulse\n\nYour watch’s heart-rate and sleep data feed a model that spots anomalies. Researchers say it caught early signs of atrial fibrillation—weeks before symptoms appeared.",
+        "3. The twist: patterns doctors ignored\n\nThe AI found correlations in data that human experts dismissed as noise. Some led to real diagnoses, but the model can’t explain why—raising trust issues in clinics.",
+        "4. From wrist to warning system\n\nYour wearable becomes a clinical early-warning system, sending alerts before a crisis. But it only flags what it was trained on—rare diseases? Missing entirely.",
+        "5. Ask Samsung: will it miss yours?\n\nCall Samsung support today and ask which conditions their AI fails to detect. If they can’t list them, demand a transparent trial on your own health data."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Samsung's AI predicts your next illness.",
+        "It learns from your watch's daily biosignals.",
+        "But it exposes patterns doctors missed.",
+        "Your wearable becomes a clinical early-warning system.",
+        "Ask Samsung: what disease will it miss?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your watch already knows your heart is off—days before you do. Samsung’s AI models trained on wearable biosignal data flagged early atrial fibrillation weeks before symptoms showed, spotting patterns doctors dismissed as noise.\n\nThe catch: the model can’t explain why it made those calls. A correlation that saves you could also be a false alarm, and without reasoning, clinicians won’t trust the alert. Rare diseases? The model never saw them, so it stays silent. Plugging this into a clinic means trading blind spots for new ones. 📉\n\nFor anyone building health content or tools on top of this, the data isn’t neutral—it encodes what Samsung chose to track. Are you ready to verify what your AI *doesn’t* see? 🔍"
+    }
+  },
+  "instagram_caption": "Your watch already knows your heart is off—days before you do. Samsung’s AI models trained on wearable biosignal data flagged early atrial fibrillation weeks before symptoms showed, spotting patterns doctors dismissed as noise.\n\nThe catch: the model can’t explain why it made those calls. A correlation that saves you could also be a false alarm, and without reasoning, clinicians won’t trust the alert. Rare diseases? The model never saw them, so it stays silent. Plugging this into a clinic means trading blind spots for new ones. 📉\n\nFor anyone building health content or tools on top of this, the data isn’t neutral—it encodes what Samsung chose to track. Are you ready to verify what your AI *doesn’t* see? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Doctors miss what AI sees?",
+      "description": "Samsung's AI finds patterns in biosignals that doctors ignored, leading to real diagnoses. But it can't explain why, raising trust issues.",
+      "visual_hint": "glowing pulse line on wristwatch",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartwatch on wrist"
+    },
+    {
+      "hook": "Your watch knows before you do.",
+      "description": "Heart-rate and sleep data feed a model that caught early signs of atrial fibrillation, weeks before symptoms appeared.",
+      "visual_hint": "heartbeat graph on smartwatch",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "heart rate monitor screen",
+      "image": "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI found patterns experts called noise.",
+      "description": "The model spotted correlations in data dismissed as noise, leading to real diagnoses. But without explanations, trust in clinics falters.",
+      "visual_hint": "magnifying glass over data graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass circuit board",
+      "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From wrist to early-warning system.",
+      "description": "Your wearable flags risks before a crisis, but only for trained conditions. Rare diseases remain completely invisible to it.",
+      "visual_hint": "alert notification on smartwatch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartwatch on hand",
+      "image": "https://images.pexels.com/photos/18078956/pexels-photo-18078956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will AI miss your disease? Comment now.",
+      "description": "Call Samsung support today and ask which conditions their AI fails to detect. Demand a transparent trial on your health data.",
+      "visual_hint": "phone icon with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "customer support call center",
+      "image": "https://images.pexels.com/photos/8867258/pexels-photo-8867258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8217438/pexels-photo-8217438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-14T14:44:24.164Z",
+  "sourceId": "893e4fe5644ed7889115a4413ba6ca17"
+}
