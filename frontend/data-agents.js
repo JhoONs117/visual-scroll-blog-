@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "thrive-s-joshua-kushner-chides-silicon-valley-vcs-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "pubDate": "Fri, 14 Aug 2026 19:33:00 +0000",
+      "slides": [
+        "Is Silicon Valley's AI euphoria blinding investors?",
+        "Joshua Kushner says most AI startups lack real moats.",
+        "He warns funding frenzy repeats past tech bubble mistakes.",
+        "You should scrutinize AI valuations before deploying capital.",
+        "Next due diligence: demand proof of durable advantages."
+      ],
+      "thread_text": [
+        "1. AI euphoria or déjà vu?\n\nJoshua Kushner warns that most AI startups lack real moats, echoing the dot-com frenzy.",
+        "2. The moat mirage\n\nInvestors are pouring billions into AI firms with no durable advantage, repeating past bubble mistakes.",
+        "3. The reckoning ahead\n\nAs funding floods in, valuations soar beyond fundamentals, leaving little room for error.",
+        "4. Scrutinize before you deploy\n\nEvery AI claim needs proof of a sustainable edge—not just a demo that wows.",
+        "5. Demand proof today\n\nAsk each AI startup: What's your proprietary data or network effect? If they can't show it, walk away."
+      ],
+      "video_script": [
+        "Is AI euphoria blinding investors?",
+        "Kushner says most startups lack moats.",
+        "This echoes past tech bubble mistakes.",
+        "Scrutinize valuations before investing capital.",
+        "Demand proof of durable advantages now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI euphoria or déjà vu?\n\nJoshua Kushner warns that most AI startups lack real moats, echoing the dot-com frenzy.",
+            "2. The moat mirage\n\nInvestors are pouring billions into AI firms with no durable advantage, repeating past bubble mistakes.",
+            "3. The reckoning ahead\n\nAs funding floods in, valuations soar beyond fundamentals, leaving little room for error.",
+            "4. Scrutinize before you deploy\n\nEvery AI claim needs proof of a sustainable edge—not just a demo that wows.",
+            "5. Demand proof today\n\nAsk each AI startup: What's your proprietary data or network effect? If they can't show it, walk away."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Is AI euphoria blinding investors?",
+            "Kushner says most startups lack moats.",
+            "This echoes past tech bubble mistakes.",
+            "Scrutinize valuations before investing capital.",
+            "Demand proof of durable advantages now."
+          ]
+        },
+        "instagram": {
+          "caption": "Billions are flowing into AI startups that don't have a single defensible advantage over competitors.\n\nJoshua Kushner just called out Silicon Valley's funding frenzy, saying most AI companies lack real moats. He's drawing a direct line to the dot-com crash, where valuations collapsed when investors realized hype wasn't a business model.\n\nIf you're building with AI tools or betting your workflow on them, this matters: the tool you use today might not survive its next funding round.\n\nBefore you lock in a platform, ask yourself—does this company have proprietary data or network effects, or just a good demo? 💸\n\nIf they can't prove a durable edge, you're building on sand. What's your backup plan when the hype cycle corrects? 🛠️"
+        }
+      },
+      "instagram_caption": "Billions are flowing into AI startups that don't have a single defensible advantage over competitors.\n\nJoshua Kushner just called out Silicon Valley's funding frenzy, saying most AI companies lack real moats. He's drawing a direct line to the dot-com crash, where valuations collapsed when investors realized hype wasn't a business model.\n\nIf you're building with AI tools or betting your workflow on them, this matters: the tool you use today might not survive its next funding round.\n\nBefore you lock in a platform, ask yourself—does this company have proprietary data or network effects, or just a good demo? 💸\n\nIf they can't prove a durable edge, you're building on sand. What's your backup plan when the hype cycle corrects? 🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Is AI funding just déjà vu?",
+          "description": "Joshua Kushner warns that most AI startups lack real moats, echoing the dot-com frenzy. Investors repeat past mistakes.",
+          "visual_hint": "Bubble graphic with AI logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "The moat mirage",
+          "description": "Billions pour into AI firms with no durable advantage. Without proprietary data or network effects, these companies are vulnerable.",
+          "visual_hint": "Mirage effect over AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "desert mirage",
+          "image": "https://images.pexels.com/photos/27332120/pexels-photo-27332120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Bubble 2.0?",
+          "description": "As funding floods in, valuations soar beyond fundamentals, leaving little room for error. A correction could be severe.",
+          "visual_hint": "Rising graph with caution sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "candlestick chart",
+          "image": "https://images.pexels.com/photos/7876492/pexels-photo-7876492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scrutinize before you deploy",
+          "description": "Every AI claim needs proof of a sustainable edge—not just a demo that wows. Validate the moat before investing.",
+          "visual_hint": "Magnifying glass on AI data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand proof today or walk away",
+          "description": "Ask each AI startup: What's your proprietary data or network effect? If they can't show it, don't invest. Save this for your next due diligence.",
+          "visual_hint": "Checklist with X marks",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2184416821.jpg?w=1024",
+      "savedAt": "2026-08-14T20:22:35.366Z",
+      "sourceId": "a60e9c26e42998d083c66139d87864eb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "does-mark-zuckerberg-really-believe-ai-is-for-ever",
       "prompt_version": "1.0.0",
       "status": "published",
