@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "who-really-needs-a-cocktail-robot-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Who really needs a cocktail robot?",
+    "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+    "pubDate": "Thu, 13 Aug 2026 15:00:00 +0000",
+    "slides": [
+      "Who needs a cocktail robot? Your bartender's next shift?",
+      "Bars waste 20% of liquor; robots cut waste to zero.",
+      "But the first robot bartender failed—customers hated the wait.",
+      "Successful ones mix drinks in 10 seconds, not 90.",
+      "Test one pop-up night before buying any machine."
+    ],
+    "thread_text": [
+      "1. Your bartender is wasting money\n\nBars lose 20% of every bottle to overpours, spills, and freebies. That's pure profit down the drain.",
+      "2. The fix: zero waste robots\n\nAutomated systems measure every drop, eliminating loss entirely. But early versions had a fatal flaw.",
+      "3. The first robot bartender failed\n\nCustomers abandoned slow machines. Wait times ballooned to 90 seconds, killing the vibe and the tips.",
+      "4. Speed is the secret weapon\n\nModern robots mix a drink in 10 seconds—faster than a human. That's the difference between novelty and necessity.",
+      "5. Test before you invest\n\nRun a one-night pop-up with a rented robot. Measure customer reaction and speed. If it flops, you've lost a night, not a fortune."
+    ],
+    "video_script": [
+      "Bars waste a fifth of every bottle.",
+      "Robots can cut that to zero.",
+      "But slow robots killed the first attempt.",
+      "Now they mix drinks in ten seconds.",
+      "Test one before you buy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your bartender is wasting money\n\nBars lose 20% of every bottle to overpours, spills, and freebies. That's pure profit down the drain.",
+          "2. The fix: zero waste robots\n\nAutomated systems measure every drop, eliminating loss entirely. But early versions had a fatal flaw.",
+          "3. The first robot bartender failed\n\nCustomers abandoned slow machines. Wait times ballooned to 90 seconds, killing the vibe and the tips.",
+          "4. Speed is the secret weapon\n\nModern robots mix a drink in 10 seconds—faster than a human. That's the difference between novelty and necessity.",
+          "5. Test before you invest\n\nRun a one-night pop-up with a rented robot. Measure customer reaction and speed. If it flops, you've lost a night, not a fortune."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Bars waste a fifth of every bottle.",
+          "Robots can cut that to zero.",
+          "But slow robots killed the first attempt.",
+          "Now they mix drinks in ten seconds.",
+          "Test one before you buy."
+        ]
+      },
+      "instagram": {
+        "caption": "Your bar is pouring 20% of every bottle straight down the drain.\n\nThat’s overpours, spills, and comped drinks eating your margin. A robot measures every drop—zero waste. 🥃\n\nBut the first automated bartenders flopped. 90-second wait times chased customers out the door. 💀\n\nModern systems cut that to 10 seconds—faster than a human. That’s not novelty, that’s a business case. ⏱️\n\nBefore you buy, rent one for a single pop-up night. Watch the crowd, time the service. If it fails, you lose one evening.\n\nWould your regulars accept a machine over a human if it meant a faster pour? 🤖"
+      }
+    },
+    "instagram_caption": "Your bar is pouring 20% of every bottle straight down the drain.\n\nThat’s overpours, spills, and comped drinks eating your margin. A robot measures every drop—zero waste. 🥃\n\nBut the first automated bartenders flopped. 90-second wait times chased customers out the door. 💀\n\nModern systems cut that to 10 seconds—faster than a human. That’s not novelty, that’s a business case. ⏱️\n\nBefore you buy, rent one for a single pop-up night. Watch the crowd, time the service. If it fails, you lose one evening.\n\nWould your regulars accept a machine over a human if it meant a faster pour? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Your bartender is wasting money",
+        "description": "Bars lose 20% of every bottle to overpours and spills. That's pure profit down the drain.",
+        "visual_hint": "Liquor bottle with money flying out",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "bar bottles liquor"
+      },
+      {
+        "hook": "Zero waste, but slow service",
+        "description": "Automated systems measure every drop, eliminating waste. But early versions took 90 seconds per drink, killing the vibe.",
+        "visual_hint": "Robot arm pouring drink",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First robot bartender failed",
+        "description": "Customers hated the wait—90 seconds per cocktail. Speed is what makes automation work, not just precision.",
+        "visual_hint": "Sad customer checking watch",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person looking watch",
+        "image": "https://images.pexels.com/photos/29148357/pexels-photo-29148357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed is the secret weapon",
+        "description": "Modern robots mix a drink in 10 seconds—faster than a human. That turns novelty into necessity.",
+        "visual_hint": "Clock with drink in 10s",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "glass cocktail pouring",
+        "image": "https://images.pexels.com/photos/30357631/pexels-photo-30357631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test before you invest",
+        "description": "Run a one-night pop-up with a rented robot. Measure reaction and speed. If it flops, you've lost a night, not a fortune.",
+        "visual_hint": "Pop-up bar with robot",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "pop-up bar event",
+        "image": "https://images.pexels.com/photos/31285165/pexels-photo-31285165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/bartesian-margarita-17.jpg?resize=1200,800",
+    "savedAt": "2026-08-14T03:58:10.810Z",
+    "sourceId": "0f85b325ebf4aacd52df4508b8180d5b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-losing-its-second-executive-this-week",
     "prompt_version": "1.0.0",
     "status": "published",
