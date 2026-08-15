@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "how-to-tell-if-your-ai-platforms-accounts-have-bee",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "pubDate": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "slides": [
+        "Can you detect an AI account breach before damage?",
+        "Hackers exploit API keys, not just passwords.",
+        "Your AI provider won't alert you to unusual usage.",
+        "Check token consumption spikes and login anomalies now.",
+        "Set up alerts, then audit your access logs today."
+      ],
+      "thread_text": [
+        "1. Your AI is already leaking\n\nAttackers can use your API keys for weeks before you notice. The first sign isn't a password alert—it's a spike in your token usage.",
+        "2. Passwords are the weak excuse\n\nMost breaches happen because API keys are stored in plain text or shared in logs. Hackers steal these keys and use them directly—no password needed.",
+        "3. Your provider is silent\n\nAI services rarely send alerts for unusual usage patterns. They'll bill you for the extra tokens, not warn you that an attacker is draining your account.",
+        "4. The damage is invisible\n\nBy the time you see the bill, the attacker has already extracted your data or run malicious prompts. Token spikes don't show up in real-time—they appear in monthly reports.",
+        "5. Audit your logs today\n\nLog into your AI dashboard and check token consumption for the last 7 days. If you see any anomaly, rotate your API keys immediately. Done it?"
+      ],
+      "video_script": [
+        "Hackers steal API keys, not passwords.",
+        "Your AI provider won't alert you.",
+        "Check token spikes and login anomalies.",
+        "Set up alerts and audit logs.",
+        "Do it today, before damage."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI is already leaking\n\nAttackers can use your API keys for weeks before you notice. The first sign isn't a password alert—it's a spike in your token usage.",
+            "2. Passwords are the weak excuse\n\nMost breaches happen because API keys are stored in plain text or shared in logs. Hackers steal these keys and use them directly—no password needed.",
+            "3. Your provider is silent\n\nAI services rarely send alerts for unusual usage patterns. They'll bill you for the extra tokens, not warn you that an attacker is draining your account.",
+            "4. The damage is invisible\n\nBy the time you see the bill, the attacker has already extracted your data or run malicious prompts. Token spikes don't show up in real-time—they appear in monthly reports.",
+            "5. Audit your logs today\n\nLog into your AI dashboard and check token consumption for the last 7 days. If you see any anomaly, rotate your API keys immediately. Done it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hackers steal API keys, not passwords.",
+            "Your AI provider won't alert you.",
+            "Check token spikes and login anomalies.",
+            "Set up alerts and audit logs.",
+            "Do it today, before damage."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI account can be drained for weeks without a single password alert. The first sign isn’t a login warning—it’s a spike in your token usage.\n\nHackers don’t need your password. They steal API keys stored in plain text or left in logs, then use them directly. Your AI provider won’t flag the unusual activity; they’ll just bill you for the extra tokens later, after the data’s already gone.\n\nFor anyone publishing with AI tools, that means your work—or your clients’ work—could be exposed before you ever see the damage.\n\nWhen did you last check your token consumption? Open your dashboard and review the last 7 days now. 🔑👀⚠️"
+        }
+      },
+      "instagram_caption": "Your AI account can be drained for weeks without a single password alert. The first sign isn’t a login warning—it’s a spike in your token usage.\n\nHackers don’t need your password. They steal API keys stored in plain text or left in logs, then use them directly. Your AI provider won’t flag the unusual activity; they’ll just bill you for the extra tokens later, after the data’s already gone.\n\nFor anyone publishing with AI tools, that means your work—or your clients’ work—could be exposed before you ever see the damage.\n\nWhen did you last check your token consumption? Open your dashboard and review the last 7 days now. 🔑👀⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Your AI is already leaking",
+          "description": "Attackers can use your API keys for weeks unnoticed. The first sign is a token usage spike, not a password alert.",
+          "visual_hint": "Leaking data stream icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data server leak"
+        },
+        {
+          "hook": "Passwords are the weak excuse",
+          "description": "Most breaches happen because API keys are stored in plain text or shared in logs. Hackers steal and use them directly—no password needed.",
+          "visual_hint": "Plain text code snippet",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "code on screen",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your provider is silent",
+          "description": "AI services rarely alert you to unusual usage. They'll bill you for extra tokens, not warn you about an attacker draining your account.",
+          "visual_hint": "Silent notification bell",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "bell icon",
+          "image": "https://images.pexels.com/photos/35083943/pexels-photo-35083943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The damage is invisible",
+          "description": "By the time you see the bill, data is already extracted. Token spikes appear in monthly reports, not real-time alerts.",
+          "visual_hint": "Hidden threat shadow",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your logs today",
+          "description": "Log into your AI dashboard, check token consumption for the last 7 days. Spot anomalies? Rotate your API keys immediately.",
+          "visual_hint": "Dashboard with alert",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "dashboard analytics",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/broken-lock.jpg?resize=1200,823",
+      "savedAt": "2026-08-15T16:13:47.371Z",
+      "sourceId": "0dccda6e63b06f1eeb4e141411cc4185"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "thrive-s-joshua-kushner-chides-silicon-valley-vcs-",
       "prompt_version": "1.0.0",
       "status": "published",
