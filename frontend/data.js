@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-shares-more-details-about-how-claude-s-n",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+    "slides": [
+      "Anthropic's Claude watermarking—can it truly stay invisible?",
+      "They embed cryptographic patterns into generated text.",
+      "The twist: even edited text may still reveal the mark.",
+      "You can now verify AI content beyond just detectors.",
+      "Test Claude's watermark before your next AI-driven decision."
+    ],
+    "thread_text": [
+      "1. Invisible, until it isn't\n\nThe watermark survives edits, so even rewrites may be traced. Claude's cryptographic patterns can persist through transformations.",
+      "2. What's the catch?\n\nThe mark is designed to be imperceptible, but researchers are probing for cracks. The open question: can detection be weaponized?",
+      "3. From source to edit\n\nYou can now verify AI content by analyzing watermarks, not just guessing with detectors. But this works only if the mark remains intact.",
+      "4. Who holds the key?\n\nAnthropic embeds the pattern, but you don't get the decoder. So verification depends on third-party tools, raising trust and access issues.",
+      "5. Test it yourself\n\nBefore relying on AI, take a Claude output, edit it, and run a watermark check. Does the mark still appear? Decide if that's acceptable."
+    ],
+    "video_script": [
+      "Claude watermarks text invisibly.",
+      "Even edits reveal the hidden mark.",
+      "Verify AI output beyond detectors now.",
+      "But only Anhtropic holds the decoder.",
+      "Test it before your next decision."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Invisible, until it isn't\n\nThe watermark survives edits, so even rewrites may be traced. Claude's cryptographic patterns can persist through transformations.",
+          "2. What's the catch?\n\nThe mark is designed to be imperceptible, but researchers are probing for cracks. The open question: can detection be weaponized?",
+          "3. From source to edit\n\nYou can now verify AI content by analyzing watermarks, not just guessing with detectors. But this works only if the mark remains intact.",
+          "4. Who holds the key?\n\nAnthropic embeds the pattern, but you don't get the decoder. So verification depends on third-party tools, raising trust and access issues.",
+          "5. Test it yourself\n\nBefore relying on AI, take a Claude output, edit it, and run a watermark check. Does the mark still appear? Decide if that's acceptable."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Claude watermarks text invisibly.",
+          "Even edits reveal the hidden mark.",
+          "Verify AI output beyond detectors now.",
+          "But only Anhtropic holds the decoder.",
+          "Test it before your next decision."
+        ]
+      },
+      "instagram": {
+        "caption": "You type a sentence into Claude, edit it heavily, and the hidden watermark can still fingerprint it as AI-generated. 🕵️\n\nAnthropic just revealed how the system works: cryptographic patterns are embedded in the text's statistical choices, not visible words. The catch? Even rewritten passages may retain traces. Researchers don't yet know if these marks can be stripped consistently.\n\nFor anyone publishing content, this means your AI-assisted work could be traceable months later—whether you disclosed it or not. Verification tools exist, but only Anthropic holds the decoder key. Third-party access remains unclear.\n\nBefore your next AI draft goes live, run an edit yourself: cut, reorder, paraphrase. Does the mark survive *your* workflow? 😶‍🌫️💬"
+      }
+    },
+    "instagram_caption": "You type a sentence into Claude, edit it heavily, and the hidden watermark can still fingerprint it as AI-generated. 🕵️\n\nAnthropic just revealed how the system works: cryptographic patterns are embedded in the text's statistical choices, not visible words. The catch? Even rewritten passages may retain traces. Researchers don't yet know if these marks can be stripped consistently.\n\nFor anyone publishing content, this means your AI-assisted work could be traceable months later—whether you disclosed it or not. Verification tools exist, but only Anthropic holds the decoder key. Third-party access remains unclear.\n\nBefore your next AI draft goes live, run an edit yourself: cut, reorder, paraphrase. Does the mark survive *your* workflow? 😶‍🌫️💬",
+    "carousel_slides": [
+      {
+        "hook": "Edited text still reveals AI origins?",
+        "description": "Claude embeds cryptographic patterns that survive edits. That means even rewritten text may be traceable, changing how we verify content.",
+        "visual_hint": "Invisible ink pattern over text",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "encrypted text pattern"
+      },
+      {
+        "hook": "Can the watermark be broken?",
+        "description": "The mark stays invisible, but researchers are probing for cracks. The big question: could detection turn into a weapon against AI users?",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verification now goes beyond detectors.",
+        "description": "You can analyze watermarks instead of guessing with detectors—but only if the mark survives changes. That's the fragile link.",
+        "visual_hint": "Fingerprint on digital document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "digital fingerprint scan",
+        "image": "https://images.pexels.com/photos/7479538/pexels-photo-7479538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who gets the decoder key?",
+        "description": "Anthropic embeds the pattern but keeps the decoder private. Third-party tools become essential, raising trust and access issues.",
+        "visual_hint": "Locked keyhole with code",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "padlock keyhole",
+        "image": "https://images.pexels.com/photos/36824336/pexels-photo-36824336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Claude's watermark before you trust AI.",
+        "description": "Take a Claude output, edit it, run a watermark check. See if the mark persists—then decide what that means for your work.",
+        "visual_hint": "Checklist with pen and screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+    "savedAt": "2026-08-15T20:12:22.572Z",
+    "sourceId": "73cbb223a27a0a6dd5fe734f2eb53d41"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "how-to-tell-if-your-ai-platforms-accounts-have-bee",
     "prompt_version": "1.0.0",
     "status": "published",
