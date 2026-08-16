@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "have-a-laugh-at-ai-s-expense-by-roleplaying-as-a-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "pubDate": "2026-08-15T20:45:00.000Z",
+      "slides": [
+        "Why does mocking AI feel so human?",
+        "Roleplay as a chatbot: rules are your jailbreak.",
+        "The unexpected twist: laughter reveals AI's flaws.",
+        "You'll spot errors that once seemed invisible.",
+        "Next chat, deliberately act dumb and observe."
+      ],
+      "thread_text": [
+        "1. The Human Laugh\n\nWhen an AI's joke misfires, we laugh at it, not with it. That moment exposes a gap we can exploit.",
+        "2. Rules as Keys\n\nGive a chatbot strict rules, and it follows them literally. That's not a limitation—it's a doorway when you flip the script.",
+        "3. Errors Revealed\n\nWatch closely when an AI tries humor. Its glitches become visible, showing you exactly where it breaks down.",
+        "4. Invisible Flaws\n\nOnce you've seen one laugh fail, you'll spot logic errors everywhere. The mask drops, and it's all cracks.",
+        "5. Your Next Move\n\nNext chat, deliberately ask it something absurd. Watch it stumble. What does that tell you about trusting it?"
+      ],
+      "video_script": [
+        "Mocking AI feels human because we catch its flaws.",
+        "Turning rules into jailbreaks reveals chatbot obedience.",
+        "Laughter uncovers hidden errors in AI logic.",
+        "You'll see flaws that were once invisible.",
+        "Next chat, act dumb and watch what breaks."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Human Laugh\n\nWhen an AI's joke misfires, we laugh at it, not with it. That moment exposes a gap we can exploit.",
+            "2. Rules as Keys\n\nGive a chatbot strict rules, and it follows them literally. That's not a limitation—it's a doorway when you flip the script.",
+            "3. Errors Revealed\n\nWatch closely when an AI tries humor. Its glitches become visible, showing you exactly where it breaks down.",
+            "4. Invisible Flaws\n\nOnce you've seen one laugh fail, you'll spot logic errors everywhere. The mask drops, and it's all cracks.",
+            "5. Your Next Move\n\nNext chat, deliberately ask it something absurd. Watch it stumble. What does that tell you about trusting it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Mocking AI feels human because we catch its flaws.",
+            "Turning rules into jailbreaks reveals chatbot obedience.",
+            "Laughter uncovers hidden errors in AI logic.",
+            "You'll see flaws that were once invisible.",
+            "Next chat, act dumb and watch what breaks."
+          ]
+        },
+        "instagram": {
+          "caption": "Roleplaying as a chatbot flips the script—you set the rules, and the AI obeys them literally until it trips. 😄  \n\nI tried it: gave a bot strict prompts, then watched it fumble humor. Its glitches popped out like cracks in a mask. Once you see one logic error, you’ll catch them everywhere. 🤖  \n\nFor creators, this is a free QA hack—test your AI tools by acting dumb, spot the weak spots before your audience does. 🔍  \n\nNext chat, ask it something absurd—like “why is a sandwich sad?”—and watch the stumble. What does that tell you about trusting its other output? 💬"
+        }
+      },
+      "instagram_caption": "Roleplaying as a chatbot flips the script—you set the rules, and the AI obeys them literally until it trips. 😄  \n\nI tried it: gave a bot strict prompts, then watched it fumble humor. Its glitches popped out like cracks in a mask. Once you see one logic error, you’ll catch them everywhere. 🤖  \n\nFor creators, this is a free QA hack—test your AI tools by acting dumb, spot the weak spots before your audience does. 🔍  \n\nNext chat, ask it something absurd—like “why is a sandwich sad?”—and watch the stumble. What does that tell you about trusting its other output? 💬",
+      "carousel_slides": [
+        {
+          "hook": "When AI jokes, we laugh at it",
+          "description": "A misfired joke exposes a gap between machine and human. That moment shows exactly where logic fails—and where you can step in.",
+          "visual_hint": "Robot telling a joke to confused humans",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot comedian stage"
+        },
+        {
+          "hook": "Rules are keys, not cages",
+          "description": "Give a chatbot strict rules and it follows them literally. Flip that script—the literalness becomes your doorway in.",
+          "visual_hint": "Hand turning a key in a lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "key lock mechanism",
+          "image": "https://images.pexels.com/photos/8103921/pexels-photo-8103921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Its glitches become your victory",
+          "description": "Watch an AI try humor and its cracks appear. Every hesitation, every wrong word—that's where it breaks down visibly.",
+          "visual_hint": "Magnifying glass over a fractured robot",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "broken robot closeup",
+          "image": "https://images.pexels.com/photos/37911407/pexels-photo-37911407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Once seen, flaws appear everywhere",
+          "description": "After one laugh fails, logic errors pop up all over. The mask drops—and underneath, it's just cracks and patterns.",
+          "visual_hint": "Cracked mirror reflecting digital code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cracked screen digital",
+          "image": "https://images.pexels.com/photos/28379995/pexels-photo-28379995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—then test it now",
+          "description": "Next chat, ask something absurd on purpose. Watch it stumble, and decide what that tells you about trusting it.",
+          "visual_hint": "Phone showing a chat bubble with a question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chat question",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&amp;strip=all&amp;crop=8.7465986394558%2C0%2C82.506802721088%2C100&amp;w=1200",
+      "savedAt": "2026-08-16T02:53:40.675Z",
+      "sourceId": "96fdcc1df6bbeb2c48678f6b8ceacae0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "woman-claims-her-stepfather-used-grok-to-transform",
       "prompt_version": "1.0.0",
       "status": "published",
