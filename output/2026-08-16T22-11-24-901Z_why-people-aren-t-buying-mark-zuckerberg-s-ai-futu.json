@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-futu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+  "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+  "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
+  "slides": [
+    "Mark Zuckerberg promises AI utopia, but why the skepticism?",
+    "Meta's AI ambitions hinge on user data and trust.",
+    "His vision clashes with reality of broken moderation systems.",
+    "For you, this means questioning AI claims before adopting.",
+    "Act: verify Meta's AI results with independent audits."
+  ],
+  "thread_text": [
+    "1. Skeptical of Zuckerberg's AI?\n\nMeta's own researchers admit AI can't detect hate speech reliably. If their systems fail, why trust their promises?",
+    "2. Data is the price\n\nYour posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+    "3. Moderation is broken\n\nZuckerberg's vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify it.",
+    "4. Your adoption matters\n\nDon't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+    "5. Audit Meta's AI\n\nRun a simple test: search for known misinformation and see if Meta's AI flags it. If not, demand independent audits."
+  ],
+  "video_script": [
+    "Why trust Meta's AI promises?",
+    "They need your data to work.",
+    "Their moderation already fails badly.",
+    "Question AI claims before adopting.",
+    "Test Meta's AI with independent audits."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Skeptical of Zuckerberg's AI?\n\nMeta's own researchers admit AI can't detect hate speech reliably. If their systems fail, why trust their promises?",
+        "2. Data is the price\n\nYour posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+        "3. Moderation is broken\n\nZuckerberg's vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify it.",
+        "4. Your adoption matters\n\nDon't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+        "5. Audit Meta's AI\n\nRun a simple test: search for known misinformation and see if Meta's AI flags it. If not, demand independent audits."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why trust Meta's AI promises?",
+        "They need your data to work.",
+        "Their moderation already fails badly.",
+        "Question AI claims before adopting.",
+        "Test Meta's AI with independent audits."
+      ]
+    },
+    "instagram": {
+      "caption": "Mark Zuckerberg's own researchers admit their AI still can't reliably catch hate speech. That's the system he wants to build your entire digital life on.\n\nMeta’s pitch for an AI-powered future depends on your posts and messages to train it. The same platform that already fails to handle abuse consistently gets more powerful tools. 🔍\n\nIf you publish content, every moderation mistake shapes what your audience sees. Broken AI doesn't just censor wrongly—it can amplify the garbage it misses.\n\nBefore you adopt any new Meta AI product, run one test: search for a known piece of misinformation. If their tool doesn't flag it, do you really want it running your workflow? 🤔"
+    }
+  },
+  "instagram_caption": "Mark Zuckerberg's own researchers admit their AI still can't reliably catch hate speech. That's the system he wants to build your entire digital life on.\n\nMeta’s pitch for an AI-powered future depends on your posts and messages to train it. The same platform that already fails to handle abuse consistently gets more powerful tools. 🔍\n\nIf you publish content, every moderation mistake shapes what your audience sees. Broken AI doesn't just censor wrongly—it can amplify the garbage it misses.\n\nBefore you adopt any new Meta AI product, run one test: search for a known piece of misinformation. If their tool doesn't flag it, do you really want it running your workflow? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust AI moderation?",
+      "description": "Meta's own researchers admit AI can't reliably detect hate speech. If their core systems fail, why believe their grand AI promises?",
+      "visual_hint": "Glitchy interface, question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your data is the price",
+      "description": "Your posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+      "visual_hint": "Hand holding phone, data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Broken moderation, amplified risk",
+      "description": "His vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify the problem, not solve it.",
+      "visual_hint": "Magnifying glass over warning signs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "moderation queue",
+      "image": "https://images.pexels.com/photos/29057226/pexels-photo-29057226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Question before you adopt",
+      "description": "Don't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+      "visual_hint": "Hand holding question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit Meta's AI",
+      "description": "Search for known misinformation on Meta's platforms. If their AI doesn't flag it, demand independent audits.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "audit report",
+      "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+  "savedAt": "2026-08-16T22:11:51.238Z",
+  "sourceId": "30514dd888ea36f4401edc9b92ac9eb4"
+}

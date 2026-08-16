@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-futu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "pubDate": "Sun, 16 Aug 2026 20:32:01 +0000",
+    "slides": [
+      "Mark Zuckerberg promises AI utopia, but why the skepticism?",
+      "Meta's AI ambitions hinge on user data and trust.",
+      "His vision clashes with reality of broken moderation systems.",
+      "For you, this means questioning AI claims before adopting.",
+      "Act: verify Meta's AI results with independent audits."
+    ],
+    "thread_text": [
+      "1. Skeptical of Zuckerberg's AI?\n\nMeta's own researchers admit AI can't detect hate speech reliably. If their systems fail, why trust their promises?",
+      "2. Data is the price\n\nYour posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+      "3. Moderation is broken\n\nZuckerberg's vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify it.",
+      "4. Your adoption matters\n\nDon't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+      "5. Audit Meta's AI\n\nRun a simple test: search for known misinformation and see if Meta's AI flags it. If not, demand independent audits."
+    ],
+    "video_script": [
+      "Why trust Meta's AI promises?",
+      "They need your data to work.",
+      "Their moderation already fails badly.",
+      "Question AI claims before adopting.",
+      "Test Meta's AI with independent audits."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Skeptical of Zuckerberg's AI?\n\nMeta's own researchers admit AI can't detect hate speech reliably. If their systems fail, why trust their promises?",
+          "2. Data is the price\n\nYour posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+          "3. Moderation is broken\n\nZuckerberg's vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify it.",
+          "4. Your adoption matters\n\nDon't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+          "5. Audit Meta's AI\n\nRun a simple test: search for known misinformation and see if Meta's AI flags it. If not, demand independent audits."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Why trust Meta's AI promises?",
+          "They need your data to work.",
+          "Their moderation already fails badly.",
+          "Question AI claims before adopting.",
+          "Test Meta's AI with independent audits."
+        ]
+      },
+      "instagram": {
+        "caption": "Mark Zuckerberg's own researchers admit their AI still can't reliably catch hate speech. That's the system he wants to build your entire digital life on.\n\nMeta’s pitch for an AI-powered future depends on your posts and messages to train it. The same platform that already fails to handle abuse consistently gets more powerful tools. 🔍\n\nIf you publish content, every moderation mistake shapes what your audience sees. Broken AI doesn't just censor wrongly—it can amplify the garbage it misses.\n\nBefore you adopt any new Meta AI product, run one test: search for a known piece of misinformation. If their tool doesn't flag it, do you really want it running your workflow? 🤔"
+      }
+    },
+    "instagram_caption": "Mark Zuckerberg's own researchers admit their AI still can't reliably catch hate speech. That's the system he wants to build your entire digital life on.\n\nMeta’s pitch for an AI-powered future depends on your posts and messages to train it. The same platform that already fails to handle abuse consistently gets more powerful tools. 🔍\n\nIf you publish content, every moderation mistake shapes what your audience sees. Broken AI doesn't just censor wrongly—it can amplify the garbage it misses.\n\nBefore you adopt any new Meta AI product, run one test: search for a known piece of misinformation. If their tool doesn't flag it, do you really want it running your workflow? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can you trust AI moderation?",
+        "description": "Meta's own researchers admit AI can't reliably detect hate speech. If their core systems fail, why believe their grand AI promises?",
+        "visual_hint": "Glitchy interface, question mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Your data is the price",
+        "description": "Your posts, photos, and messages train their AI. Without your data, Meta has no AI. That's the real deal.",
+        "visual_hint": "Hand holding phone, data streams",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Broken moderation, amplified risk",
+        "description": "His vision ignores that current moderation already fails—allowing abuse to spread. AI might amplify the problem, not solve it.",
+        "visual_hint": "Magnifying glass over warning signs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "moderation queue",
+        "image": "https://images.pexels.com/photos/29057226/pexels-photo-29057226.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Question before you adopt",
+        "description": "Don't take AI claims at face value. Every tool you adopt shapes your workflow. Question before you trust.",
+        "visual_hint": "Hand holding question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit Meta's AI",
+        "description": "Search for known misinformation on Meta's platforms. If their AI doesn't flag it, demand independent audits.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "audit report",
+        "image": "https://images.pexels.com/photos/7947637/pexels-photo-7947637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+    "savedAt": "2026-08-16T22:11:51.238Z",
+    "sourceId": "30514dd888ea36f4401edc9b92ac9eb4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "stripe-will-reportedly-acquire-ai-gateway-startup-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
+    "slides": [
+      "Will Stripe's $7B OpenRouter bet reshape AI?",
+      "OpenRouter routes AI queries to 300+ models",
+      "Yet Stripe's real prize is AI payment metadata",
+      "Developers may soon pay for AI via Stripe rails",
+      "Watch pricing—Stripe could commoditize model access."
+    ],
+    "thread_text": [
+      "1. Who really won?\n\nStripe's $7B OpenRouter bet isn't just about routing—it's about owning the payment layer for every AI transaction.",
+      "2. 300+ models, one bill\n\nOpenRouter gives devs access to hundreds of models, but Stripe's real prize? The metadata of every AI call—who pays, what for, and at what price.",
+      "3. The twist: AI's cash register\n\nSoon, developers may pay for AI usage directly through Stripe's rails—turning every prompt into a checkout event.",
+      "4. The commoditization trap\n\nWatch pricing: Stripe could standardize model access, squeezing margins for model providers and making AI a utility.",
+      "5. Your move\n\nTest a model on OpenRouter today—does the convenience justify paying Stripe's cut? Or are you just feeding the machine?"
+    ],
+    "video_script": [
+      "Stripe's seven billion dollar gamble on AI.",
+      "OpenRouter routes to three hundred models. Now what?",
+      "The real treasure: payment data from every call.",
+      "Developers could pay through Stripe's rails instantly.",
+      "Will commoditized models crush your margins? Decide today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who really won?\n\nStripe's $7B OpenRouter bet isn't just about routing—it's about owning the payment layer for every AI transaction.",
+          "2. 300+ models, one bill\n\nOpenRouter gives devs access to hundreds of models, but Stripe's real prize? The metadata of every AI call—who pays, what for, and at what price.",
+          "3. The twist: AI's cash register\n\nSoon, developers may pay for AI usage directly through Stripe's rails—turning every prompt into a checkout event.",
+          "4. The commoditization trap\n\nWatch pricing: Stripe could standardize model access, squeezing margins for model providers and making AI a utility.",
+          "5. Your move\n\nTest a model on OpenRouter today—does the convenience justify paying Stripe's cut? Or are you just feeding the machine?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Stripe's seven billion dollar gamble on AI.",
+          "OpenRouter routes to three hundred models. Now what?",
+          "The real treasure: payment data from every call.",
+          "Developers could pay through Stripe's rails instantly.",
+          "Will commoditized models crush your margins? Decide today."
+        ]
+      },
+      "instagram": {
+        "caption": "Stripe is about to own the tollbooth on every AI call — they're reportedly paying $7B+ for OpenRouter, the gateway that lets developers compare 300+ models on one bill.  \n\nOpenRouter is the neutral middleman developers use to test cheap or fast models without committing. Stripe isn't buying the router — they're buying the receipt. Every query timestamped, priced, and tagged with who called it and why. That's a data moat for payments, not AI.  \n\nIf you build with AI, your next invoice might not come from a model vendor — it'll come from Stripe, bundled like a SaaS subscription. Watch for fee creep on per-token charges, or worse, model prices standardized to Stripe's take.  \n\nBefore your next deploy, run one test query on OpenRouter you'd normally run elsewhere. Ask yourself: are you choosing a model — or just picking which layer skims you? 💸🔌🧾"
+      }
+    },
+    "instagram_caption": "Stripe is about to own the tollbooth on every AI call — they're reportedly paying $7B+ for OpenRouter, the gateway that lets developers compare 300+ models on one bill.  \n\nOpenRouter is the neutral middleman developers use to test cheap or fast models without committing. Stripe isn't buying the router — they're buying the receipt. Every query timestamped, priced, and tagged with who called it and why. That's a data moat for payments, not AI.  \n\nIf you build with AI, your next invoice might not come from a model vendor — it'll come from Stripe, bundled like a SaaS subscription. Watch for fee creep on per-token charges, or worse, model prices standardized to Stripe's take.  \n\nBefore your next deploy, run one test query on OpenRouter you'd normally run elsewhere. Ask yourself: are you choosing a model — or just picking which layer skims you? 💸🔌🧾",
+    "carousel_slides": [
+      {
+        "hook": "Is Stripe quietly owning AI's cash register?",
+        "description": "Stripe's $7B OpenRouter deal isn't just about routing—it's the metadata of every AI call, who pays and what for.",
+        "visual_hint": "Abstract payment node network",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "payment processing network"
+      },
+      {
+        "hook": "300+ models, one payment rail",
+        "description": "OpenRouter gives devs access to hundreds of models, but Stripe's real win is the payment data behind each query.",
+        "visual_hint": "Multiple model icons converging",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "artificial intelligence models",
+        "image": "https://images.pexels.com/photos/8295032/pexels-photo-8295032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Every prompt becomes a checkout event",
+        "description": "Soon developers may pay for AI usage directly through Stripe's rails, turning each prompt into a transaction.",
+        "visual_hint": "Prompt turning into checkout cart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "shopping cart checkout",
+        "image": "https://images.pexels.com/photos/6214374/pexels-photo-6214374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is AI becoming a cheap utility?",
+        "description": "Stripe could standardize model access, squeezing margins for providers and making AI a commodity—like electricity.",
+        "visual_hint": "AI model squeezed like a lemon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand squeezing lemon",
+        "image": "https://images.pexels.com/photos/33052921/pexels-photo-33052921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a model on OpenRouter today",
+        "description": "Try OpenRouter now: does the convenience justify Stripe's cut, or are you just feeding the machine? Share your take.",
+        "visual_hint": "Person testing a model on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "person using laptop",
+        "image": "https://images.pexels.com/photos/8374322/pexels-photo-8374322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+    "savedAt": "2026-08-16T22:11:39.111Z",
+    "sourceId": "7430ad56634d75f96ac27c8711820bbd"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "chatgpt-s-computer-history-tracks-your-clicks-and-",
     "prompt_version": "1.0.0",
     "status": "published",
