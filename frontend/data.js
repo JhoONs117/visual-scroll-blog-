@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "techcrunch-mobility-the-shifting-flight-path-of-el",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+    "pubDate": "Sun, 16 Aug 2026 16:04:00 +0000",
+    "slides": [
+      "Electric air taxis promised city skies. Why grounded?",
+      "Regulators demand parachutes, noise limits, and failsafes.",
+      "One startup's battery fire changed certification timelines.",
+      "Your commute won't change until 2030, if then.",
+      "Track FAA rulings, not prototypes, before investing."
+    ],
+    "thread_text": [
+      "1. Why grounded?\n\nTwo years ago, air taxis were set to fly over cities by 2025. Now, FAA documents show certification slips to 2030.",
+      "2. Parachutes required\n\nNew rules demand whole-aircraft parachutes, noise limits, and failsafes—safety features that add weight and complexity, slowing every design.",
+      "3. Battery fire twist\n\nOne startup's battery fire during testing forced regulators to rewrite certification timelines, pushing the entire industry back.",
+      "4. Prototypes lie\n\nPrototype flights look impressive, but they often skip the real certification tests. What works in a demo may never make it to production.",
+      "5. Track FAA rulings\n\nBefore investing, check the FAA's latest regulatory updates. If a ruling hasn't been published, the timeline is just a guess."
+    ],
+    "video_script": [
+      "Air taxis promised city skies, but still grounded.",
+      "New rules demand parachutes, strict noise limits.",
+      "One battery fire changed the entire certification timeline.",
+      "Prototypes aren't proof; they hide certification gaps.",
+      "Check FAA rulings before betting your money."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why grounded?\n\nTwo years ago, air taxis were set to fly over cities by 2025. Now, FAA documents show certification slips to 2030.",
+          "2. Parachutes required\n\nNew rules demand whole-aircraft parachutes, noise limits, and failsafes—safety features that add weight and complexity, slowing every design.",
+          "3. Battery fire twist\n\nOne startup's battery fire during testing forced regulators to rewrite certification timelines, pushing the entire industry back.",
+          "4. Prototypes lie\n\nPrototype flights look impressive, but they often skip the real certification tests. What works in a demo may never make it to production.",
+          "5. Track FAA rulings\n\nBefore investing, check the FAA's latest regulatory updates. If a ruling hasn't been published, the timeline is just a guess."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Air taxis promised city skies, but still grounded.",
+          "New rules demand parachutes, strict noise limits.",
+          "One battery fire changed the entire certification timeline.",
+          "Prototypes aren't proof; they hide certification gaps.",
+          "Check FAA rulings before betting your money."
+        ]
+      },
+      "instagram": {
+        "caption": "Electric air taxis were supposed to be overhead by 2025. Now, the FAA’s own documents push certification to 2030.  \n\nThe shift comes after new rules demanded full-aircraft parachutes and stricter battery failsafes. One startup’s battery fire during a test rewrote the entire certification timeline. Prototype flights still look smooth, but they skip the real regulatory gauntlet.  \n\nIf you’re tracking this sector for work, stop watching demo videos. Your timeline is now tied to FAA rulings.  \n\nWhich certification milestone are you bookmarking, if any? 🔋🛫"
+      }
+    },
+    "instagram_caption": "Electric air taxis were supposed to be overhead by 2025. Now, the FAA’s own documents push certification to 2030.  \n\nThe shift comes after new rules demanded full-aircraft parachutes and stricter battery failsafes. One startup’s battery fire during a test rewrote the entire certification timeline. Prototype flights still look smooth, but they skip the real regulatory gauntlet.  \n\nIf you’re tracking this sector for work, stop watching demo videos. Your timeline is now tied to FAA rulings.  \n\nWhich certification milestone are you bookmarking, if any? 🔋🛫",
+    "carousel_slides": [
+      {
+        "hook": "Battery fire grounded air taxis?",
+        "description": "A startup's battery fire forced regulators to rewrite certification timelines, pushing the entire industry back. Prototypes may fly, but safety tests fail.",
+        "visual_hint": "Burning battery on test stand",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "battery fire test"
+      },
+      {
+        "hook": "Parachutes for whole aircraft?",
+        "description": "New rules demand whole-aircraft parachutes, noise limits, and failsafes. These add weight and complexity, slowing every design and delaying flights.",
+        "visual_hint": "Aircraft with parachute canopy",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "aircraft parachute",
+        "image": "https://images.pexels.com/photos/37028966/pexels-photo-37028966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Certification slips to 2030",
+        "description": "Two years ago, air taxis were set to fly by 2025. Now, FAA documents show certification slips to 2030, pushing your commute change far away.",
+        "visual_hint": "Calendar with 2030 marked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar 2030",
+        "image": "https://images.pexels.com/photos/5417629/pexels-photo-5417629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Prototype flights are misleading",
+        "description": "Prototype flights look impressive but skip real certification tests. What works in a demo may never make it to production, so don't be fooled.",
+        "visual_hint": "Hand holding tiny prototype plane",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand model airplane",
+        "image": "https://images.pexels.com/photos/16416631/pexels-photo-16416631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you invest",
+        "description": "Check the FAA's latest regulatory updates before investing. If a ruling hasn't been published, the timeline is just a guess. Track rulings now.",
+        "visual_hint": "FAA document with stamp",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "FAA document",
+        "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
+    "savedAt": "2026-08-16T16:14:11.434Z",
+    "sourceId": "848a823a1e6eabfad0fd7106dab7e24e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "rogue-ai-aren-t-science-fiction-anymore",
     "prompt_version": "1.0.0",
     "status": "published",
