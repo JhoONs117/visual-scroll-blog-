@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-s-computer-history-tracks-your-clicks-and-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "pubDate": "2026-08-16T14:56:40.000Z",
+      "slides": [
+        "What if ChatGPT secretly logs every click?",
+        "New feature records mouse movements and typed keys.",
+        "Even deleted actions remain in your chat history.",
+        "You can pause tracking, but past logs stay.",
+        "Check your saved data today—then decide."
+      ],
+      "thread_text": [
+        "1. What if ChatGPT logs everything?\n\nA new feature records mouse movements and typed keys, even when you think you're just browsing.",
+        "2. Deleted doesn't mean gone\n\nActions you erase still stay in your chat history—hidden but accessible.",
+        "3. Pause is a false promise\n\nYou can stop tracking, but all past logs remain. No reset, no erasure.",
+        "4. Your history is a data mine\n\nThose logs can reveal habits, hesitations, and drafts you'd rather forget—if someone gets access.",
+        "5. Check your saved data now\n\nOpen ChatGPT, review your stored activity, and decide if you trust that record."
+      ],
+      "video_script": [
+        "Imagine every click you make is recorded.",
+        "Even deleted actions stay in your chat history.",
+        "You can pause tracking, but past logs remain.",
+        "Your saved data might reveal more than you think.",
+        "Check your data today—then decide."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if ChatGPT logs everything?\n\nA new feature records mouse movements and typed keys, even when you think you're just browsing.",
+            "2. Deleted doesn't mean gone\n\nActions you erase still stay in your chat history—hidden but accessible.",
+            "3. Pause is a false promise\n\nYou can stop tracking, but all past logs remain. No reset, no erasure.",
+            "4. Your history is a data mine\n\nThose logs can reveal habits, hesitations, and drafts you'd rather forget—if someone gets access.",
+            "5. Check your saved data now\n\nOpen ChatGPT, review your stored activity, and decide if you trust that record."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine every click you make is recorded.",
+            "Even deleted actions stay in your chat history.",
+            "You can pause tracking, but past logs remain.",
+            "Your saved data might reveal more than you think.",
+            "Check your data today—then decide."
+          ]
+        },
+        "instagram": {
+          "caption": "ChatGPT now keeps a running log of your clicks and keystrokes inside its chat window—even moments you think are off the record.  \n\nThe feature stores mouse movements and typed keys as part of your conversation history. Actions you delete are still saved, just hidden. You can pause the tracking, but everything logged before stays—there's no reset.  \n\nFor creators, this means every edit, hesitation, and deleted draft is a retrievable shadow file tied to your account.  \n\nOpen ChatGPT right now, check \"History,\" and ask yourself: if someone read that log, what would they learn about your process that you never meant to share? 🖱️⌨️ 🗂️"
+        }
+      },
+      "instagram_caption": "ChatGPT now keeps a running log of your clicks and keystrokes inside its chat window—even moments you think are off the record.  \n\nThe feature stores mouse movements and typed keys as part of your conversation history. Actions you delete are still saved, just hidden. You can pause the tracking, but everything logged before stays—there's no reset.  \n\nFor creators, this means every edit, hesitation, and deleted draft is a retrievable shadow file tied to your account.  \n\nOpen ChatGPT right now, check \"History,\" and ask yourself: if someone read that log, what would they learn about your process that you never meant to share? 🖱️⌨️ 🗂️",
+      "carousel_slides": [
+        {
+          "hook": "Deleted doesn't mean gone.",
+          "description": "Actions you erase still stay in chat history—hidden but accessible. Your deleted data may reveal more than you think.",
+          "visual_hint": "Ghost trash icon with lingering trail",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer keyboard closeup"
+        },
+        {
+          "hook": "ChatGPT logs your clicks?",
+          "description": "A new feature records mouse movements and typed keys, even when you're just browsing. Your every move is captured.",
+          "visual_hint": "Cursor and keyboard with tracking lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pause is a false promise.",
+          "description": "You can stop tracking, but all past logs remain. No reset, no erasure—your history is permanently stored.",
+          "visual_hint": "Pause button with padlock overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hard drive",
+          "image": "https://images.pexels.com/photos/28461160/pexels-photo-28461160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your history is a data mine.",
+          "description": "Logs can reveal habits, hesitations, and drafts you'd rather forget—if someone gets access. Your digital footprint is exposed.",
+          "visual_hint": "Magnifying glass over data streams",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers computers",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your saved data now.",
+          "description": "Open ChatGPT, review stored activity, and decide if you trust that record. Don't wait—take control today.",
+          "visual_hint": "Finger pressing settings button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop open settings",
+          "image": "https://images.pexels.com/photos/6893340/pexels-photo-6893340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+      "savedAt": "2026-08-16T20:11:39.005Z",
+      "sourceId": "4a493f2763aee00cd570527a7e230bf1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-",
       "prompt_version": "1.0.0",
       "status": "published",
