@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-ceo-says-ai-backlash-is-fundamentally-a-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "slides": [
+        "Can trust in AI be rebuilt after backlash?",
+        "Anthropic's CEO calls it a crisis, not technical.",
+        "The real problem: transparency gaps, not capabilities.",
+        "For you: demand auditable AI decisions now.",
+        "Next failure without trust erases all adoption gains."
+      ],
+      "thread_text": [
+        "1. Trust is the casualty\n\nAnthropic's CEO calls the backlash a crisis, not a technical glitch—signaling that AI's real fight is for credibility.",
+        "2. The transparency gap\n\nFailures aren't from AI's power but from hidden decision processes. Users can't challenge what they can't see.",
+        "3. A crisis of opacity\n\nWhen AI makes mistakes, companies stay silent on why. This silence fuels distrust faster than any error could.",
+        "4. Demand auditable decisions\n\nAsk vendors for logs that show why AI chose X. If they can't explain, they're not ready for your workflow.",
+        "5. What's your next move?\n\nWill you accept AI that can't justify itself, or will you insist on audits before the next failure wipes out all gains?"
+      ],
+      "video_script": [
+        "Trust in AI is broken.",
+        "CEO calls it a crisis.",
+        "Not tech but transparency gap.",
+        "Demand auditable AI decisions now.",
+        "Next failure could erase everything."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Trust is the casualty\n\nAnthropic's CEO calls the backlash a crisis, not a technical glitch—signaling that AI's real fight is for credibility.",
+            "2. The transparency gap\n\nFailures aren't from AI's power but from hidden decision processes. Users can't challenge what they can't see.",
+            "3. A crisis of opacity\n\nWhen AI makes mistakes, companies stay silent on why. This silence fuels distrust faster than any error could.",
+            "4. Demand auditable decisions\n\nAsk vendors for logs that show why AI chose X. If they can't explain, they're not ready for your workflow.",
+            "5. What's your next move?\n\nWill you accept AI that can't justify itself, or will you insist on audits before the next failure wipes out all gains?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trust in AI is broken.",
+            "CEO calls it a crisis.",
+            "Not tech but transparency gap.",
+            "Demand auditable AI decisions now.",
+            "Next failure could erase everything."
+          ]
+        },
+        "instagram": {
+          "caption": "A room full of engineers just heard AI’s biggest defender call the current backlash a crisis of trust, not a technical one. 🚨\n\nThe CEO of Anthropic is pointing at transparency gaps, not broken code. People don’t quit AI because it fails—they quit because they can’t see *why* it failed. Silence on decisions is fueling more distrust than any error ever could.\n\nFor you: if your content pipeline relies on AI, ask for the decision logs now. If the vendor can’t show you why the model chose X over Y, they’re not safe to automate. ⚙️\n\nWhat will you demand before the next big failure erases every adoption win? 🔍"
+        }
+      },
+      "instagram_caption": "A room full of engineers just heard AI’s biggest defender call the current backlash a crisis of trust, not a technical one. 🚨\n\nThe CEO of Anthropic is pointing at transparency gaps, not broken code. People don’t quit AI because it fails—they quit because they can’t see *why* it failed. Silence on decisions is fueling more distrust than any error ever could.\n\nFor you: if your content pipeline relies on AI, ask for the decision logs now. If the vendor can’t show you why the model chose X over Y, they’re not safe to automate. ⚙️\n\nWhat will you demand before the next big failure erases every adoption win? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Trust is the casualty.",
+          "description": "Anthropic's CEO calls AI backlash a crisis of trust, not a technical glitch. If credibility fails, adoption collapses despite capabilities.",
+          "visual_hint": "Cracked trust symbol",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken trust symbol"
+        },
+        {
+          "hook": "Transparency gap fuels doubt.",
+          "description": "Failures stem from hidden decision processes, not AI power. Users can't challenge what they can't see, deepening suspicion.",
+          "visual_hint": "Silhouette with question mark",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "silhouette question mark",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Opacity breeds more fear.",
+          "description": "When AI errs, companies stay silent on why. This silence spreads distrust faster than any mistake.",
+          "visual_hint": "Blurred AI interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blurred AI interface",
+          "image": "https://images.pexels.com/photos/30530402/pexels-photo-30530402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand auditable AI decisions.",
+          "description": "Ask vendors for logs explaining AI choices. If they can't, they're not ready for your workflow.",
+          "visual_hint": "Hand pointing at code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing code",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before it's too late.",
+          "description": "Next failure without trust erases all adoption gains. Insist on audits now—share this to warn your network.",
+          "visual_hint": "Arrow hitting target",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "arrow hitting target",
+          "image": "https://images.pexels.com/photos/6620429/pexels-photo-6620429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "savedAt": "2026-08-16T18:15:53.561Z",
+      "sourceId": "9eeacf6b78b6dd6218f6848794b849e1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "techcrunch-mobility-the-shifting-flight-path-of-el",
       "prompt_version": "1.0.0",
       "status": "published",
