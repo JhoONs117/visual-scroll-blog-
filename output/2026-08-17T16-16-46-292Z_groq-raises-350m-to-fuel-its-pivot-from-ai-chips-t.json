@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "groq-raises-350m-to-fuel-its-pivot-from-ai-chips-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+  "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+  "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+  "slides": [
+    "Groq pivots from chips to clouds—can it win?",
+    "It just raised $350M to build its neocloud.",
+    "The twist: customers rent inference, not hardware.",
+    "Your AI costs could drop if they succeed.",
+    "Test Groq's API today and decide."
+  ],
+  "thread_text": [
+    "1. Groq's $350M gamble\n\nGroq just raised $350M to pivot from making chips to selling cloud access. The bet: you'll rent inference, not hardware.",
+    "2. Why rent, not own?\n\nCustomers pay for AI inference on demand, skipping the hardware cost. This neocloud model could slash your AI expenses if it scales.",
+    "3. The market twist\n\nGroq competes with giants like AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+    "4. The cost ripple\n\nIf Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+    "5. Test it yourself\n\nTry Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting."
+  ],
+  "video_script": [
+    "Groq raised $350M to build a neocloud.",
+    "You rent inference, not buy hardware.",
+    "This could lower your AI costs.",
+    "But can they beat the big clouds?",
+    "Test the API and see yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Groq's $350M gamble\n\nGroq just raised $350M to pivot from making chips to selling cloud access. The bet: you'll rent inference, not hardware.",
+        "2. Why rent, not own?\n\nCustomers pay for AI inference on demand, skipping the hardware cost. This neocloud model could slash your AI expenses if it scales.",
+        "3. The market twist\n\nGroq competes with giants like AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+        "4. The cost ripple\n\nIf Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+        "5. Test it yourself\n\nTry Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Groq raised $350M to build a neocloud.",
+        "You rent inference, not buy hardware.",
+        "This could lower your AI costs.",
+        "But can they beat the big clouds?",
+        "Test the API and see yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "$350M just landed to turn Groq from a chipmaker into a cloud service—and the pitch is simple: you rent AI smarts, not servers.\n\nMost AI companies buy expensive hardware upfront. Groq wants you to pay only for the answers your queries need, on demand. That's the \"neocloud\" bet: cheaper, faster, no ownership.\n\nIf it works, the price of running AI tasks—like generating captions or analyzing images—could drop for everyone.\n\nFor you, that might mean your current AI tools get cheaper or faster without you lifting a finger.\n\nHave you tried Groq's free API yet? Run one query and see if the speed is real for yourself. 🚀💰⚡"
+    }
+  },
+  "instagram_caption": "$350M just landed to turn Groq from a chipmaker into a cloud service—and the pitch is simple: you rent AI smarts, not servers.\n\nMost AI companies buy expensive hardware upfront. Groq wants you to pay only for the answers your queries need, on demand. That's the \"neocloud\" bet: cheaper, faster, no ownership.\n\nIf it works, the price of running AI tasks—like generating captions or analyzing images—could drop for everyone.\n\nFor you, that might mean your current AI tools get cheaper or faster without you lifting a finger.\n\nHave you tried Groq's free API yet? Run one query and see if the speed is real for yourself. 🚀💰⚡",
+  "carousel_slides": [
+    {
+      "hook": "Can a startup outpace AWS?",
+      "description": "Groq raised $350M to pivot from chips to neocloud, betting you'll rent AI inference, not hardware. Speed and price are the key.",
+      "visual_hint": "Cloud and chip hybrid",
+      "image_query": "cloud computing server",
+      "layout_type": "hero",
+      "icon": "tag"
+    },
+    {
+      "hook": "Why rent, not own?",
+      "description": "Customers pay for inference on demand, skipping hardware costs. This model could slash your AI expenses if it scales.",
+      "visual_hint": "Rental payment flow",
+      "image_query": "payment terminal",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The market twist",
+      "description": "Groq competes with AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+      "visual_hint": "Race track with clouds",
+      "image_query": "racing track",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image": "https://images.pexels.com/photos/8533779/pexels-photo-8533779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The cost ripple",
+      "description": "If Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+      "visual_hint": "Falling price graph",
+      "image_query": "stock market chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test Groq's API",
+      "description": "Try Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting.",
+      "visual_hint": "API code on screen",
+      "image_query": "computer code",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+  "savedAt": "2026-08-17T16:16:58.584Z",
+  "sourceId": "47e2b984551931a28d2112ab596c37b3"
+}

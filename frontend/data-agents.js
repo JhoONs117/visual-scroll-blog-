@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "nvidia-investing-1-5b-in-softbank-data-center-deve",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "slides": [
+        "Why is Nvidia betting $1.5 billion on SoftBank's data centers?",
+        "The developer builds power-hungry AI infrastructure for OpenAI's projects.",
+        "But SoftBank's debt load makes this partnership a high-stakes gamble.",
+        "For you, this could mean more AI compute but also volatile markets.",
+        "Watch Nvidia's next move before trusting this AI boom."
+      ],
+      "thread_text": [
+        "1. The $1.5B bet\n\nNvidia is pouring cash into SoftBank's data centers, which will power OpenAI's projects. This move ties Nvidia's fate to SoftBank's massive debt.",
+        "2. Debt gamble\n\nSoftBank's debt load is heavy. If their AI bets fail, the fallout could hit Nvidia's stock hard.",
+        "3. What you get\n\nThis partnership means more AI compute capacity for everyone, but it also introduces volatility in tech markets.",
+        "4. The catch\n\nFor investors, this is a high-stakes game. You might see gains, but a single misstep could trigger sharp sell-offs.",
+        "5. Your move\n\nTrack Nvidia's next earnings call. If they mention SoftBank's debt as a risk, reconsider your AI stock exposure."
+      ],
+      "video_script": [
+        "Nvidia bets big on SoftBank.",
+        "But SoftBank has huge debt.",
+        "This could mean more AI power.",
+        "And market ups and downs.",
+        "Watch Nvidia's next move."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $1.5B bet\n\nNvidia is pouring cash into SoftBank's data centers, which will power OpenAI's projects. This move ties Nvidia's fate to SoftBank's massive debt.",
+            "2. Debt gamble\n\nSoftBank's debt load is heavy. If their AI bets fail, the fallout could hit Nvidia's stock hard.",
+            "3. What you get\n\nThis partnership means more AI compute capacity for everyone, but it also introduces volatility in tech markets.",
+            "4. The catch\n\nFor investors, this is a high-stakes game. You might see gains, but a single misstep could trigger sharp sell-offs.",
+            "5. Your move\n\nTrack Nvidia's next earnings call. If they mention SoftBank's debt as a risk, reconsider your AI stock exposure."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia bets big on SoftBank.",
+            "But SoftBank has huge debt.",
+            "This could mean more AI power.",
+            "And market ups and downs.",
+            "Watch Nvidia's next move."
+          ]
+        },
+        "instagram": {
+          "caption": "$1.5 billion is a lot of power—literally. Nvidia just bet it on SoftBank's data centers, the same ones building energy-hungry AI infrastructure for OpenAI.\n\nSoftBank is drowning in debt, so this partnership could boom or bust. If their AI bets fail, Nvidia's stock takes a hit. That ripple effect reaches you.\n\nMore AI compute might mean faster tools for your workflow, but also wilder market swings. Your subscriptions and cloud costs could shift overnight.\n\nWatch Nvidia's next earnings call. If they flag SoftBank's debt as a risk, it's time to rethink your AI spending. Are you ready for that volatility? ⚡📉🖥️"
+        }
+      },
+      "instagram_caption": "$1.5 billion is a lot of power—literally. Nvidia just bet it on SoftBank's data centers, the same ones building energy-hungry AI infrastructure for OpenAI.\n\nSoftBank is drowning in debt, so this partnership could boom or bust. If their AI bets fail, Nvidia's stock takes a hit. That ripple effect reaches you.\n\nMore AI compute might mean faster tools for your workflow, but also wilder market swings. Your subscriptions and cloud costs could shift overnight.\n\nWatch Nvidia's next earnings call. If they flag SoftBank's debt as a risk, it's time to rethink your AI spending. Are you ready for that volatility? ⚡📉🖥️",
+      "carousel_slides": [
+        {
+          "hook": "Why the $1.5 billion gamble?",
+          "description": "Nvidia invests in SoftBank data centers for OpenAI, but SoftBank's heavy debt makes it a risky bet.",
+          "visual_hint": "Nvidia chips and dollar sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Nvidia chip closeup"
+        },
+        {
+          "hook": "High-stakes debt gamble",
+          "description": "SoftBank's massive debt could hit Nvidia if AI bets fail. This partnership ties Nvidia's fate to debt.",
+          "visual_hint": "Leaning tower of coins",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "leaning tower of coins",
+          "image": "https://images.pexels.com/photos/13330726/pexels-photo-13330726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "More compute, more volatility",
+          "description": "This deal boosts AI compute capacity but introduces market volatility. Watch for potential sell-offs.",
+          "visual_hint": "Stock chart rising with turbulence",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "For you: gains and risks",
+          "description": "You might see gains, but a single misstep could trigger sharp sell-offs. High-stakes game for investors.",
+          "visual_hint": "Hands holding a risk-reward scale",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "risk reward scale",
+          "image": "https://images.pexels.com/photos/6120395/pexels-photo-6120395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you invest",
+          "description": "Track Nvidia's next earnings call. If they mention SoftBank debt as risk, reconsider your AI stocks.",
+          "visual_hint": "Save icon with stock chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "save icon stock",
+          "image": "https://images.pexels.com/photos/3943737/pexels-photo-3943737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "savedAt": "2026-08-17T16:17:12.105Z",
+      "sourceId": "40a9816ea4807c41537ebafde4a9f711"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "groq-raises-350m-to-fuel-its-pivot-from-ai-chips-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "slides": [
+        "Groq pivots from chips to clouds—can it win?",
+        "It just raised $350M to build its neocloud.",
+        "The twist: customers rent inference, not hardware.",
+        "Your AI costs could drop if they succeed.",
+        "Test Groq's API today and decide."
+      ],
+      "thread_text": [
+        "1. Groq's $350M gamble\n\nGroq just raised $350M to pivot from making chips to selling cloud access. The bet: you'll rent inference, not hardware.",
+        "2. Why rent, not own?\n\nCustomers pay for AI inference on demand, skipping the hardware cost. This neocloud model could slash your AI expenses if it scales.",
+        "3. The market twist\n\nGroq competes with giants like AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+        "4. The cost ripple\n\nIf Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+        "5. Test it yourself\n\nTry Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting."
+      ],
+      "video_script": [
+        "Groq raised $350M to build a neocloud.",
+        "You rent inference, not buy hardware.",
+        "This could lower your AI costs.",
+        "But can they beat the big clouds?",
+        "Test the API and see yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Groq's $350M gamble\n\nGroq just raised $350M to pivot from making chips to selling cloud access. The bet: you'll rent inference, not hardware.",
+            "2. Why rent, not own?\n\nCustomers pay for AI inference on demand, skipping the hardware cost. This neocloud model could slash your AI expenses if it scales.",
+            "3. The market twist\n\nGroq competes with giants like AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+            "4. The cost ripple\n\nIf Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+            "5. Test it yourself\n\nTry Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Groq raised $350M to build a neocloud.",
+            "You rent inference, not buy hardware.",
+            "This could lower your AI costs.",
+            "But can they beat the big clouds?",
+            "Test the API and see yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "$350M just landed to turn Groq from a chipmaker into a cloud service—and the pitch is simple: you rent AI smarts, not servers.\n\nMost AI companies buy expensive hardware upfront. Groq wants you to pay only for the answers your queries need, on demand. That's the \"neocloud\" bet: cheaper, faster, no ownership.\n\nIf it works, the price of running AI tasks—like generating captions or analyzing images—could drop for everyone.\n\nFor you, that might mean your current AI tools get cheaper or faster without you lifting a finger.\n\nHave you tried Groq's free API yet? Run one query and see if the speed is real for yourself. 🚀💰⚡"
+        }
+      },
+      "instagram_caption": "$350M just landed to turn Groq from a chipmaker into a cloud service—and the pitch is simple: you rent AI smarts, not servers.\n\nMost AI companies buy expensive hardware upfront. Groq wants you to pay only for the answers your queries need, on demand. That's the \"neocloud\" bet: cheaper, faster, no ownership.\n\nIf it works, the price of running AI tasks—like generating captions or analyzing images—could drop for everyone.\n\nFor you, that might mean your current AI tools get cheaper or faster without you lifting a finger.\n\nHave you tried Groq's free API yet? Run one query and see if the speed is real for yourself. 🚀💰⚡",
+      "carousel_slides": [
+        {
+          "hook": "Can a startup outpace AWS?",
+          "description": "Groq raised $350M to pivot from chips to neocloud, betting you'll rent AI inference, not hardware. Speed and price are the key.",
+          "visual_hint": "Cloud and chip hybrid",
+          "image_query": "cloud computing server",
+          "layout_type": "hero",
+          "icon": "tag"
+        },
+        {
+          "hook": "Why rent, not own?",
+          "description": "Customers pay for inference on demand, skipping hardware costs. This model could slash your AI expenses if it scales.",
+          "visual_hint": "Rental payment flow",
+          "image_query": "payment terminal",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The market twist",
+          "description": "Groq competes with AWS and Azure on speed and price. But can a startup outpace them in the neocloud race?",
+          "visual_hint": "Race track with clouds",
+          "image_query": "racing track",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image": "https://images.pexels.com/photos/8533779/pexels-photo-8533779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The cost ripple",
+          "description": "If Groq succeeds, AI inference prices could drop across the board. That means cheaper AI for you, no matter your provider.",
+          "visual_hint": "Falling price graph",
+          "image_query": "stock market chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test Groq's API",
+          "description": "Try Groq's free API today. Run a real inference task and compare speed and cost. Decide if it's worth adopting.",
+          "visual_hint": "API code on screen",
+          "image_query": "computer code",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+      "savedAt": "2026-08-17T16:16:58.584Z",
+      "sourceId": "47e2b984551931a28d2112ab596c37b3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "wispr-raises-280m-at-2b-valuation-as-it-looks-beyo",
       "prompt_version": "1.0.0",
       "status": "published",
