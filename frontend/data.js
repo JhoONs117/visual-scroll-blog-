@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "anthropic-explains-how-claude-8217-s-invisible-tex",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "pubDate": "2026-08-17T10:57:13.000Z",
+    "slides": [
+      "Can Claude's watermark survive heavy editing?",
+      "Anthropic embeds invisible patterns into generated text.",
+      "The signal persists even after translation or paraphrasing.",
+      "Detectable only by Anthropic's API, not by humans.",
+      "Run your own text through their detector now."
+    ],
+    "thread_text": [
+      "1. The invisible edit test\n\nAnthropic’s watermark survives translation and paraphrasing, even after heavy editing.",
+      "2. Why watermarks matter now\n\nIt’s a response to deepfakes and misinformation, but the trade-off is privacy vs. provenance.",
+      "3. Who controls the verdict\n\nOnly Anthropic’s API can detect it—so platforms could gatekeep or censor content.",
+      "4. A silent shift in trust\n\nYou’ll never know if a text you read was AI-generated unless someone runs the check.",
+      "5. Try it on your own work\n\nRun a recent post through their detector. Would you want that result public?"
+    ],
+    "video_script": [
+      "Anthropic's watermark survives even heavy editing.",
+      "It hides invisible patterns in AI text.",
+      "Translation and paraphrasing can't remove it.",
+      "You can't see it, only their API can.",
+      "Test your own writing today if curious."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The invisible edit test\n\nAnthropic’s watermark survives translation and paraphrasing, even after heavy editing.",
+          "2. Why watermarks matter now\n\nIt’s a response to deepfakes and misinformation, but the trade-off is privacy vs. provenance.",
+          "3. Who controls the verdict\n\nOnly Anthropic’s API can detect it—so platforms could gatekeep or censor content.",
+          "4. A silent shift in trust\n\nYou’ll never know if a text you read was AI-generated unless someone runs the check.",
+          "5. Try it on your own work\n\nRun a recent post through their detector. Would you want that result public?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Anthropic's watermark survives even heavy editing.",
+          "It hides invisible patterns in AI text.",
+          "Translation and paraphrasing can't remove it.",
+          "You can't see it, only their API can.",
+          "Test your own writing today if curious."
+        ]
+      },
+      "instagram": {
+        "caption": "Your text can be translated, paraphrased, and heavily edited—and Anthropic can still tell it was written by Claude.  \n\nThe company embeds invisible patterns into generated text. Only their API can detect the signal, not human readers. This is their answer to deepfakes, but it hands platforms a private verification tool.  \n\nIf you publish AI-assisted work, a third party could now verify it without telling you 🤖. You’d never know if your post was flagged unless they choose to show you.  \n\nWould you publish a text knowing a silent check could label it later? Try running one of your old posts through their detector—do you want that result public 🔍?"
+      }
+    },
+    "instagram_caption": "Your text can be translated, paraphrased, and heavily edited—and Anthropic can still tell it was written by Claude.  \n\nThe company embeds invisible patterns into generated text. Only their API can detect the signal, not human readers. This is their answer to deepfakes, but it hands platforms a private verification tool.  \n\nIf you publish AI-assisted work, a third party could now verify it without telling you 🤖. You’d never know if your post was flagged unless they choose to show you.  \n\nWould you publish a text knowing a silent check could label it later? Try running one of your old posts through their detector—do you want that result public 🔍?",
+    "carousel_slides": [
+      {
+        "hook": "Who decides if text is AI?",
+        "description": "Only Anthropic's API can detect the invisible watermark in Claude's output, meaning platforms could gatekeep or censor content without users knowing.",
+        "visual_hint": "Side-by-side texts, one with invisible mark",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "text document magnifying glass"
+      },
+      {
+        "hook": "Your edits won’t erase it.",
+        "description": "Anthropic’s watermark survives translation and paraphrasing, even after heavy editing, so AI text stays traceable no matter how you alter it.",
+        "visual_hint": "Text passing through filters, still marked",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "translation app smartphone",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Privacy vs. provenance battle.",
+        "description": "This watermark fights deepfakes and misinformation, but the trade-off is a silent shift in trust—you'll never know if text was AI unless someone checks.",
+        "visual_hint": "Scale balancing privacy and truth",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy scales justice",
+        "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who holds the power?",
+        "description": "Only Anthropic’s API can detect the watermark—so platforms could gatekeep or censor content, leaving users in the dark about what's real.",
+        "visual_hint": "Single authority figure with key",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding key",
+        "image": "https://images.pexels.com/photos/8482876/pexels-photo-8482876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your own text now.",
+        "description": "Run a recent post through Anthropic's detector and see if it's flagged as AI. Would you want that result public?",
+        "visual_hint": "Smartphone with detector app",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone app test",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-17T12:24:51.883Z",
+    "sourceId": "dd02c006bef423b4918c811193e75353"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-reportedly-disbanded-its-preparedness-team",
     "prompt_version": "1.0.0",
     "status": "published",
