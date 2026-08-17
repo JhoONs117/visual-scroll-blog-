@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "higgsfield-raises-400m-series-b-quadrupling-its-va",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+  "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+  "pubDate": "Mon, 17 Aug 2026 19:04:27 +0000",
+  "slides": [
+    "Higgsfield just raised $400M—but why the rush?",
+    "Valuation quadrupled to $5.4B in only eight months.",
+    "Investors bet on AI video, yet revenue remains undisclosed.",
+    "Your competitors now have capital to outspend you.",
+    "Question: can your team match this pace without funding?"
+  ],
+  "thread_text": [
+    "1. The $400M question\n\nHiggsfield raised $400M in a rush—why? Valuation jumped to $5.4B in just eight months, with no revenue disclosed.",
+    "2. Speed over substance\n\nInvestors are betting on AI video hype, but without revenue, the risk is high. Your competitors now have the cash to outspend you.",
+    "3. The cash advantage\n\nThat new funding means they can hire top talent, buy ads, and cut prices. Can you keep up without similar backing?",
+    "4. The pace of change\n\nIn eight months, they quadrupled valuation. Your team's roadmap might be outdated by next quarter if you don't move fast.",
+    "5. Test your pace\n\nCan your team ship a feature in 30 days? If not, what's the bottleneck? Address it this week—before your competitor's money hits the market."
+  ],
+  "video_script": [
+    "Higgsfield raised $400M, valuation quadrupled to $5.4B.",
+    "But revenue? Undisclosed. Investors bet on hype.",
+    "Your competitors now have millions to outspend you.",
+    "Can your team match this pace without funding?",
+    "Test your speed: ship one feature this month."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $400M question\n\nHiggsfield raised $400M in a rush—why? Valuation jumped to $5.4B in just eight months, with no revenue disclosed.",
+        "2. Speed over substance\n\nInvestors are betting on AI video hype, but without revenue, the risk is high. Your competitors now have the cash to outspend you.",
+        "3. The cash advantage\n\nThat new funding means they can hire top talent, buy ads, and cut prices. Can you keep up without similar backing?",
+        "4. The pace of change\n\nIn eight months, they quadrupled valuation. Your team's roadmap might be outdated by next quarter if you don't move fast.",
+        "5. Test your pace\n\nCan your team ship a feature in 30 days? If not, what's the bottleneck? Address it this week—before your competitor's money hits the market."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Higgsfield raised $400M, valuation quadrupled to $5.4B.",
+        "But revenue? Undisclosed. Investors bet on hype.",
+        "Your competitors now have millions to outspend you.",
+        "Can your team match this pace without funding?",
+        "Test your speed: ship one feature this month."
+      ]
+    },
+    "instagram": {
+      "caption": "8 months. Zero revenue disclosed. And yet the valuation just went from ~$1.3B to $5.4B.\n\nThe $400M round isn't about profit—it's about buying speed. That cash will go straight into talent, ads, and price cuts to outmaneuver every other AI video tool on the market 🏃.\n\nFor you, this means the cost of video generation is about to drop while the quality bar jumps. If you're building content workflows, your current pipeline could feel dated within a quarter.\n\nYour competitors just got funded indirectly. How fast can you rewrite your own roadmap to match a $5.4B war chest, or are you waiting for the price war to hit your inbox first? 💸"
+    }
+  },
+  "instagram_caption": "8 months. Zero revenue disclosed. And yet the valuation just went from ~$1.3B to $5.4B.\n\nThe $400M round isn't about profit—it's about buying speed. That cash will go straight into talent, ads, and price cuts to outmaneuver every other AI video tool on the market 🏃.\n\nFor you, this means the cost of video generation is about to drop while the quality bar jumps. If you're building content workflows, your current pipeline could feel dated within a quarter.\n\nYour competitors just got funded indirectly. How fast can you rewrite your own roadmap to match a $5.4B war chest, or are you waiting for the price war to hit your inbox first? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Why $400M with zero revenue?",
+      "description": "Higgsfield raised $400M in 8 months, valuation jumped to $5.4B—but no revenue disclosed. Investors are betting on hype, not numbers.",
+      "visual_hint": "Question mark over cash pile",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of cash"
+    },
+    {
+      "hook": "Speed over substance wins?",
+      "description": "Investors fuel AI video hype, yet revenue stays hidden. This gamble could reshape your market—or crash fast.",
+      "visual_hint": "Rocket launching with fog",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket launching",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your rivals have cash now",
+      "description": "New $400M means they can hire top talent, buy ads, cut prices. Your competitive edge could vanish overnight.",
+      "visual_hint": "Competitor logo with dollar signs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "competition money",
+      "image": "https://images.pexels.com/photos/4792370/pexels-photo-4792370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your roadmap may be obsolete",
+      "description": "They quadrupled valuation in 8 months. If you don't move faster, your next quarter could be irrelevant.",
+      "visual_hint": "Calendar pages tearing fast",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fast road map",
+      "image": "https://images.pexels.com/photos/10431322/pexels-photo-10431322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you ship in 30 days?",
+      "description": "Test your team: pick one feature, ship it in 30 days. If not, find the bottleneck now—before their money hits.",
+      "visual_hint": "Hand holding stopwatch",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch hand",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
+  "savedAt": "2026-08-17T20:16:16.032Z",
+  "sourceId": "e1ea42548bace061272c2e2712539f6d"
+}

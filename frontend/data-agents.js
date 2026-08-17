@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "higgsfield-raises-400m-series-b-quadrupling-its-va",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "pubDate": "Mon, 17 Aug 2026 19:04:27 +0000",
+      "slides": [
+        "Higgsfield just raised $400M—but why the rush?",
+        "Valuation quadrupled to $5.4B in only eight months.",
+        "Investors bet on AI video, yet revenue remains undisclosed.",
+        "Your competitors now have capital to outspend you.",
+        "Question: can your team match this pace without funding?"
+      ],
+      "thread_text": [
+        "1. The $400M question\n\nHiggsfield raised $400M in a rush—why? Valuation jumped to $5.4B in just eight months, with no revenue disclosed.",
+        "2. Speed over substance\n\nInvestors are betting on AI video hype, but without revenue, the risk is high. Your competitors now have the cash to outspend you.",
+        "3. The cash advantage\n\nThat new funding means they can hire top talent, buy ads, and cut prices. Can you keep up without similar backing?",
+        "4. The pace of change\n\nIn eight months, they quadrupled valuation. Your team's roadmap might be outdated by next quarter if you don't move fast.",
+        "5. Test your pace\n\nCan your team ship a feature in 30 days? If not, what's the bottleneck? Address it this week—before your competitor's money hits the market."
+      ],
+      "video_script": [
+        "Higgsfield raised $400M, valuation quadrupled to $5.4B.",
+        "But revenue? Undisclosed. Investors bet on hype.",
+        "Your competitors now have millions to outspend you.",
+        "Can your team match this pace without funding?",
+        "Test your speed: ship one feature this month."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $400M question\n\nHiggsfield raised $400M in a rush—why? Valuation jumped to $5.4B in just eight months, with no revenue disclosed.",
+            "2. Speed over substance\n\nInvestors are betting on AI video hype, but without revenue, the risk is high. Your competitors now have the cash to outspend you.",
+            "3. The cash advantage\n\nThat new funding means they can hire top talent, buy ads, and cut prices. Can you keep up without similar backing?",
+            "4. The pace of change\n\nIn eight months, they quadrupled valuation. Your team's roadmap might be outdated by next quarter if you don't move fast.",
+            "5. Test your pace\n\nCan your team ship a feature in 30 days? If not, what's the bottleneck? Address it this week—before your competitor's money hits the market."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Higgsfield raised $400M, valuation quadrupled to $5.4B.",
+            "But revenue? Undisclosed. Investors bet on hype.",
+            "Your competitors now have millions to outspend you.",
+            "Can your team match this pace without funding?",
+            "Test your speed: ship one feature this month."
+          ]
+        },
+        "instagram": {
+          "caption": "8 months. Zero revenue disclosed. And yet the valuation just went from ~$1.3B to $5.4B.\n\nThe $400M round isn't about profit—it's about buying speed. That cash will go straight into talent, ads, and price cuts to outmaneuver every other AI video tool on the market 🏃.\n\nFor you, this means the cost of video generation is about to drop while the quality bar jumps. If you're building content workflows, your current pipeline could feel dated within a quarter.\n\nYour competitors just got funded indirectly. How fast can you rewrite your own roadmap to match a $5.4B war chest, or are you waiting for the price war to hit your inbox first? 💸"
+        }
+      },
+      "instagram_caption": "8 months. Zero revenue disclosed. And yet the valuation just went from ~$1.3B to $5.4B.\n\nThe $400M round isn't about profit—it's about buying speed. That cash will go straight into talent, ads, and price cuts to outmaneuver every other AI video tool on the market 🏃.\n\nFor you, this means the cost of video generation is about to drop while the quality bar jumps. If you're building content workflows, your current pipeline could feel dated within a quarter.\n\nYour competitors just got funded indirectly. How fast can you rewrite your own roadmap to match a $5.4B war chest, or are you waiting for the price war to hit your inbox first? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Why $400M with zero revenue?",
+          "description": "Higgsfield raised $400M in 8 months, valuation jumped to $5.4B—but no revenue disclosed. Investors are betting on hype, not numbers.",
+          "visual_hint": "Question mark over cash pile",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of cash"
+        },
+        {
+          "hook": "Speed over substance wins?",
+          "description": "Investors fuel AI video hype, yet revenue stays hidden. This gamble could reshape your market—or crash fast.",
+          "visual_hint": "Rocket launching with fog",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launching",
+          "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your rivals have cash now",
+          "description": "New $400M means they can hire top talent, buy ads, cut prices. Your competitive edge could vanish overnight.",
+          "visual_hint": "Competitor logo with dollar signs",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "competition money",
+          "image": "https://images.pexels.com/photos/4792370/pexels-photo-4792370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your roadmap may be obsolete",
+          "description": "They quadrupled valuation in 8 months. If you don't move faster, your next quarter could be irrelevant.",
+          "visual_hint": "Calendar pages tearing fast",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fast road map",
+          "image": "https://images.pexels.com/photos/10431322/pexels-photo-10431322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you ship in 30 days?",
+          "description": "Test your team: pick one feature, ship it in 30 days. If not, find the bottleneck now—before their money hits.",
+          "visual_hint": "Hand holding stopwatch",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stopwatch hand",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
+      "savedAt": "2026-08-17T20:16:16.032Z",
+      "sourceId": "e1ea42548bace061272c2e2712539f6d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "spotify-s-new-playlist-notes-let-users-and-editors",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "pubDate": "Mon, 17 Aug 2026 19:24:43 +0000",
+      "slides": [
+        "Why would Spotify let anyone annotate playlists?",
+        "Users and editors can now add text notes to songs.",
+        "But notes might hijack your listening with opinions.",
+        "Curators gain context while listeners face decision noise.",
+        "Next playlist you save, read notes before pressing play."
+      ],
+      "thread_text": [
+        "1. Why annotate?\n\nSpotify's new feature lets anyone add notes to any playlist, turning curation into a public conversation.",
+        "2. The twist\n\nThose notes aren't just info—they can push your choices toward the annotator's agenda.",
+        "3. The consequence\n\nCurators get to explain context, but you'll face a wall of opinions before every song.",
+        "4. The real risk\n\nYour listening habit becomes a debate stage, and every playlist a battleground of bias.",
+        "5. Read before play\n\nNext playlist you save, check the notes first. Will you trust a stranger's take over your own taste?"
+      ],
+      "video_script": [
+        "Spotify now lets anyone add notes.",
+        "These notes could sway your listening choices.",
+        "Curators gain voice, listeners face noise.",
+        "Your next playlist becomes a battleground.",
+        "Read notes before you press play."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why annotate?\n\nSpotify's new feature lets anyone add notes to any playlist, turning curation into a public conversation.",
+            "2. The twist\n\nThose notes aren't just info—they can push your choices toward the annotator's agenda.",
+            "3. The consequence\n\nCurators get to explain context, but you'll face a wall of opinions before every song.",
+            "4. The real risk\n\nYour listening habit becomes a debate stage, and every playlist a battleground of bias.",
+            "5. Read before play\n\nNext playlist you save, check the notes first. Will you trust a stranger's take over your own taste?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Spotify now lets anyone add notes.",
+            "These notes could sway your listening choices.",
+            "Curators gain voice, listeners face noise.",
+            "Your next playlist becomes a battleground.",
+            "Read notes before you press play."
+          ]
+        },
+        "instagram": {
+          "caption": "Spotify now lets anyone—not just official editors—attach text notes to any song in any playlist.  \n\nThose annotations sit right next to the play button, so curators can explain their picks. But that same space is open to opinions, bias, or even a stranger’s agenda disguised as context.  \n\nFor playlist creators, your curation story finally gets told. For listeners, every song now comes with a pre-game commentary you didn’t ask for.  \n\nNext time you save a playlist, will you read the notes first—or trust your own ears over a stranger’s take? 🎧📝"
+        }
+      },
+      "instagram_caption": "Spotify now lets anyone—not just official editors—attach text notes to any song in any playlist.  \n\nThose annotations sit right next to the play button, so curators can explain their picks. But that same space is open to opinions, bias, or even a stranger’s agenda disguised as context.  \n\nFor playlist creators, your curation story finally gets told. For listeners, every song now comes with a pre-game commentary you didn’t ask for.  \n\nNext time you save a playlist, will you read the notes first—or trust your own ears over a stranger’s take? 🎧📝",
+      "carousel_slides": [
+        {
+          "hook": "Notes may hijack your listening.",
+          "description": "Spotify's new playlist notes let anyone annotate songs. That means opinions could steer your choices, turning personal listening into a public debate.",
+          "visual_hint": "Smartphone with notes app",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone playlist app"
+        },
+        {
+          "hook": "Who controls your playlist?",
+          "description": "Users and editors can add text notes to any track. Curators gain context, but you face a wall of opinions before every play.",
+          "visual_hint": "Split screen with annotations",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "people listening headphones",
+          "image": "https://images.pexels.com/photos/35662648/pexels-photo-35662648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Every note pushes an agenda.",
+          "description": "Notes aren't just info—they can steer your choices. Listeners face decision noise, and playlists become battlegrounds of bias.",
+          "visual_hint": "Magnifying glass over notes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass music notes",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your taste vs. stranger opinions.",
+          "description": "With notes, every song comes with commentary. Your listening habit becomes a debate stage, and bias creeps into your choices.",
+          "visual_hint": "Hands holding phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Read notes before pressing play.",
+          "description": "Next playlist you save, check the notes first. Decide if you trust a stranger's take over your own taste.",
+          "visual_hint": "Headphones and play button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "headphones play button",
+          "image": "https://images.pexels.com/photos/6686445/pexels-photo-6686445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
+      "savedAt": "2026-08-17T20:16:00.858Z",
+      "sourceId": "6af730738db11f1d471fa94f180ca614"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "amazon-which-started-off-selling-books-is-destroyi",
       "prompt_version": "1.0.0",
       "status": "published",
