@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "wispr-raises-280m-at-2b-valuation-as-it-looks-beyo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "slides": [
+        "Can Wispr's $280M redefine how you work?",
+        "Valuation now $2B, doubling earlier round.",
+        "Its real bet: replacing keyboards, not just dictation.",
+        "Your next interface could be pure voice.",
+        "Test Wispr's dictation today; think bigger."
+      ],
+      "thread_text": [
+        "1. Think keyboards are safe?\n\nWispr just raised $280M at a $2B valuation — double their last round. The money isn't for better dictation; it's for killing the keyboard.",
+        "2. The twist: voice-only interfaces\n\nTheir real bet is that your next screen won't need a keyboard at all. Pure voice control could replace typing, clicking, even scrolling.",
+        "3. Why now?\n\nWith AI context, voice can become more accurate than fingers. Wispr's tech learns your speech patterns, turning talk into action — not just text.",
+        "4. The consequence for you\n\nIf voice replaces keyboards, how you work changes: faster commands, fewer errors, no more RSI. But it also means rethinking every app you use daily.",
+        "5. Test it yourself\n\nTry Wispr's dictation on a real task today. Does saving 5 minutes per email make up for the editing? If not, wait — but if yes, start planning your voice-first workflow."
+      ],
+      "video_script": [
+        "Wispr raised $280 million to kill keyboards.",
+        "Their value hit $2 billion, doubling last round.",
+        "This isn't just dictation; it's voice control.",
+        "Imagine working without touching a screen.",
+        "Test Wispr today; think beyond typing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Think keyboards are safe?\n\nWispr just raised $280M at a $2B valuation — double their last round. The money isn't for better dictation; it's for killing the keyboard.",
+            "2. The twist: voice-only interfaces\n\nTheir real bet is that your next screen won't need a keyboard at all. Pure voice control could replace typing, clicking, even scrolling.",
+            "3. Why now?\n\nWith AI context, voice can become more accurate than fingers. Wispr's tech learns your speech patterns, turning talk into action — not just text.",
+            "4. The consequence for you\n\nIf voice replaces keyboards, how you work changes: faster commands, fewer errors, no more RSI. But it also means rethinking every app you use daily.",
+            "5. Test it yourself\n\nTry Wispr's dictation on a real task today. Does saving 5 minutes per email make up for the editing? If not, wait — but if yes, start planning your voice-first workflow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Wispr raised $280 million to kill keyboards.",
+            "Their value hit $2 billion, doubling last round.",
+            "This isn't just dictation; it's voice control.",
+            "Imagine working without touching a screen.",
+            "Test Wispr today; think beyond typing."
+          ]
+        },
+        "instagram": {
+          "caption": "$280M raised. $2B valuation. And the actual goal isn't better dictation — it's removing the keyboard from your workflow entirely.\n\nWispr's funding round doubles its previous valuation, betting that voice-only interfaces outperform typing when paired with AI that learns your speech patterns. Not just faster emails, but replacing clicking, scrolling, and navigation with pure speech.\n\nFor you, the shift means rethinking how you produce content: voice could cut drafting time drastically, but it also demands precision you might not have yet.\n\nHave you actually tested voice dictation on a real task this week — did the cleanup time cancel the speed? ⌨️✍️🗣️"
+        }
+      },
+      "instagram_caption": "$280M raised. $2B valuation. And the actual goal isn't better dictation — it's removing the keyboard from your workflow entirely.\n\nWispr's funding round doubles its previous valuation, betting that voice-only interfaces outperform typing when paired with AI that learns your speech patterns. Not just faster emails, but replacing clicking, scrolling, and navigation with pure speech.\n\nFor you, the shift means rethinking how you produce content: voice could cut drafting time drastically, but it also demands precision you might not have yet.\n\nHave you actually tested voice dictation on a real task this week — did the cleanup time cancel the speed? ⌨️✍️🗣️",
+      "carousel_slides": [
+        {
+          "hook": "Your keyboard is dying.",
+          "description": "Wispr raised $280M at $2B valuation — double its last round. The real goal isn't better dictation; it's replacing keyboards entirely.",
+          "visual_hint": "Keyboard fading into voice waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "keyboard close-up"
+        },
+        {
+          "hook": "Voice-only interfaces are coming.",
+          "description": "Their bet: next screens won't need keyboards at all. Pure voice could replace typing, clicking, even scrolling — changing how you interact with every app.",
+          "visual_hint": "Person speaking to glowing interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "voice assistant device",
+          "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why now? AI makes voice precise.",
+          "description": "With AI context, voice becomes more accurate than fingers. Wispr learns your speech patterns, turning talk into action — not just text.",
+          "visual_hint": "AI neural network with audio waves",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microphone audio waves",
+          "image": "https://images.pexels.com/photos/8132528/pexels-photo-8132528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your work will change forever.",
+          "description": "If voice replaces keyboards: faster commands, fewer errors, no more RSI. But you'll need to rethink every tool you use daily.",
+          "visual_hint": "Hand typing, voice overlay on top",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands keyboard technology",
+          "image": "https://images.pexels.com/photos/17642361/pexels-photo-17642361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it today — save time or not?",
+          "description": "Try Wispr's dictation on one real task. If it saves 5 minutes per email, start planning your voice-first workflow now.",
+          "visual_hint": "Person testing dictation app",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone voice dictation",
+          "image": "https://images.pexels.com/photos/7188823/pexels-photo-7188823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
+      "savedAt": "2026-08-17T14:18:32.109Z",
+      "sourceId": "73672096953e8bf83a08e921e34654ea"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "anthropic-explains-how-claude-8217-s-invisible-tex",
       "prompt_version": "1.0.0",
       "status": "published",
