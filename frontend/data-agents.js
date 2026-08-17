@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-automation-startup-relay-shuts-down-staff-joins",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "slides": [
+        "Relay promised AI automation for enterprises; what went wrong?",
+        "Google absorbed its staff into the Chrome team.",
+        "The shutdown came despite millions in funding and customers.",
+        "Your AI vendor's survival now hinges on Big Tech hires.",
+        "Before adopting AI tools, audit your vendor's exit plan."
+      ],
+      "thread_text": [
+        "1. The silent shutdown\n\nRelay, an AI automation startup with millions in funding and paying customers, just vanished—absorbed by Google into the Chrome team.",
+        "2. Why the hype failed\n\nRelay's promise was AI automation for enterprises, but its tech may have been too niche or too risky for sustained investment.",
+        "3. Google's talent grab\n\nRather than continuing as a standalone product, Google pulled Relay's staff in—a signal that Big Tech values people over products.",
+        "4. The outsourcing trap\n\nYour vendor's future now depends on whether big tech wants its engineers, not on your contract or their roadmap.",
+        "5. Audit your exit plan\n\nBefore adopting any AI tool, ask: \"Who owns this if the vendor folds?\" If you can't answer, test with a small project this week."
+      ],
+      "video_script": [
+        "Relay died, despite millions and users.",
+        "Google took its team, not the product.",
+        "Big Tech hires decide your vendor's fate.",
+        "Your tool's survival is out of your hands.",
+        "Check your exit plan before you buy."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The silent shutdown\n\nRelay, an AI automation startup with millions in funding and paying customers, just vanished—absorbed by Google into the Chrome team.",
+            "2. Why the hype failed\n\nRelay's promise was AI automation for enterprises, but its tech may have been too niche or too risky for sustained investment.",
+            "3. Google's talent grab\n\nRather than continuing as a standalone product, Google pulled Relay's staff in—a signal that Big Tech values people over products.",
+            "4. The outsourcing trap\n\nYour vendor's future now depends on whether big tech wants its engineers, not on your contract or their roadmap.",
+            "5. Audit your exit plan\n\nBefore adopting any AI tool, ask: \"Who owns this if the vendor folds?\" If you can't answer, test with a small project this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Relay died, despite millions and users.",
+            "Google took its team, not the product.",
+            "Big Tech hires decide your vendor's fate.",
+            "Your tool's survival is out of your hands.",
+            "Check your exit plan before you buy."
+          ]
+        },
+        "instagram": {
+          "caption": "A startup with millions in funding and real paying customers just vanished—its team absorbed into Google’s Chrome division, product gone.  \n\nRelay sold AI automation for enterprises, but the tech got scrapped. Google didn’t buy the product; it hired the engineers. That’s the play now: your vendor’s survival depends on whether Big Tech wants its people, not on your contract or their roadmap.  \n\nIf you build content with AI tools, today’s plugin could be tomorrow’s dead file.  \n\nWho owns your workflow if the vendor folds this quarter? If you don’t know, test a replacement with one small task this week."
+        }
+      },
+      "instagram_caption": "A startup with millions in funding and real paying customers just vanished—its team absorbed into Google’s Chrome division, product gone.  \n\nRelay sold AI automation for enterprises, but the tech got scrapped. Google didn’t buy the product; it hired the engineers. That’s the play now: your vendor’s survival depends on whether Big Tech wants its people, not on your contract or their roadmap.  \n\nIf you build content with AI tools, today’s plugin could be tomorrow’s dead file.  \n\nWho owns your workflow if the vendor folds this quarter? If you don’t know, test a replacement with one small task this week.",
+      "carousel_slides": [
+        {
+          "hook": "Funded startup vanishes overnight",
+          "description": "Relay, an AI automation startup with millions in funding and paying customers, shut down—its staff absorbed by Google's Chrome team.",
+          "visual_hint": "Empty office, boxes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office desks"
+        },
+        {
+          "hook": "Why the hype failed",
+          "description": "Relay's promise was enterprise AI automation, but its tech proved too niche or risky for sustained investment. The product couldn't stand alone.",
+          "visual_hint": "Faded graph, red arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Google valued the team, not the product",
+          "description": "Google pulled Relay's staff into Chrome, a signal that Big Tech often prizes engineers over products. Your vendor's survival depends on this dynamic.",
+          "visual_hint": "Talent grab, Google logo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "Google office building",
+          "image": "https://images.pexels.com/photos/29257597/pexels-photo-29257597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your contract won't protect you",
+          "description": "Vendor's future hinges on whether Big Tech wants its engineers, not on your contract or roadmap. You're at risk of being left stranded.",
+          "visual_hint": "Handshake breaking, dust",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake silhouette",
+          "image": "https://images.pexels.com/photos/8470843/pexels-photo-8470843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your AI vendor",
+          "description": "Before adopting any AI tool, ask: 'Who owns this if the vendor folds?' If you can't answer, test with a small project this week.",
+          "visual_hint": "Checklist, magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
+      "savedAt": "2026-08-17T22:14:41.271Z",
+      "sourceId": "5b8dbc23aeee06013b0172a54f944dc7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "higgsfield-raises-400m-series-b-quadrupling-its-va",
       "prompt_version": "1.0.0",
       "status": "published",
