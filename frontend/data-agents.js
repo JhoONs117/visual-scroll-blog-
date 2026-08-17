@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-reportedly-disbanded-its-preparedness-team",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "pubDate": "2026-08-16T21:32:56.000Z",
+      "slides": [
+        "OpenAI's safety team disbanded—what does this mean for you?",
+        "The preparedness team oversaw frontier AI risk evaluations.",
+        "Key members resigned shortly after the leadership change.",
+        "Future model releases may lack independent risk oversight.",
+        "Demand transparency and external audits before relying on outputs."
+      ],
+      "thread_text": [
+        "1. Safety Team Disbanded\n\nOpenAI's preparedness team is gone, and key members resigned. That means the people who used to stress-test frontier AI models for risks are no longer in those roles.",
+        "2. Who Watches the Models?\n\nWithout that independent oversight, future model releases could skip crucial risk evaluations. The question is: who decides if an AI is safe to launch?",
+        "3. The Resignation Ripple\n\nSeveral team members left right after the leadership change. Their departures signal a shift in priorities, and they took their expertise with them.",
+        "4. What This Means for Users\n\nYou might be using AI outputs that were never vetted by a dedicated safety team. That could affect everything from business decisions to personal advice.",
+        "5. Demand Transparency\n\nAsk OpenAI for external audits and clear safety reports before you trust their AI for critical tasks. Your next prompt could be a test case—hold them accountable."
+      ],
+      "video_script": [
+        "OpenAI's safety team disbanded.",
+        "Who will catch the risks now?",
+        "Resignations signal a major shift.",
+        "Your AI might not be vetted.",
+        "Demand audits. Hold them accountable."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Safety Team Disbanded\n\nOpenAI's preparedness team is gone, and key members resigned. That means the people who used to stress-test frontier AI models for risks are no longer in those roles.",
+            "2. Who Watches the Models?\n\nWithout that independent oversight, future model releases could skip crucial risk evaluations. The question is: who decides if an AI is safe to launch?",
+            "3. The Resignation Ripple\n\nSeveral team members left right after the leadership change. Their departures signal a shift in priorities, and they took their expertise with them.",
+            "4. What This Means for Users\n\nYou might be using AI outputs that were never vetted by a dedicated safety team. That could affect everything from business decisions to personal advice.",
+            "5. Demand Transparency\n\nAsk OpenAI for external audits and clear safety reports before you trust their AI for critical tasks. Your next prompt could be a test case—hold them accountable."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's safety team disbanded.",
+            "Who will catch the risks now?",
+            "Resignations signal a major shift.",
+            "Your AI might not be vetted.",
+            "Demand audits. Hold them accountable."
+          ]
+        },
+        "instagram": {
+          "caption": "The team that used to stress-test OpenAI’s models for catastrophic risks just got dissolved.  \n\nKey members quit right after the leadership shuffle. Their job was to catch serious flaws before a model went public—now that layer is gone.  \n\nSo the next model update might ship without an independent safety check. If you use AI for copy, code, or strategy, you’re trusting a system fewer people vetted.  \n\nAsk for external audit reports before you rely on a new release. Who’s checking the models you feed your business into? 🕵️‍♂️🔍"
+        }
+      },
+      "instagram_caption": "The team that used to stress-test OpenAI’s models for catastrophic risks just got dissolved.  \n\nKey members quit right after the leadership shuffle. Their job was to catch serious flaws before a model went public—now that layer is gone.  \n\nSo the next model update might ship without an independent safety check. If you use AI for copy, code, or strategy, you’re trusting a system fewer people vetted.  \n\nAsk for external audit reports before you rely on a new release. Who’s checking the models you feed your business into? 🕵️‍♂️🔍",
+      "carousel_slides": [
+        {
+          "hook": "Who's watching the AI now?",
+          "description": "OpenAI's safety team is gone. Key members resigned after leadership changes, leaving frontier AI models without independent risk checks.",
+          "visual_hint": "Empty chair in a modern office",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "empty office chair"
+        },
+        {
+          "hook": "No more safety net?",
+          "description": "Future releases might skip crucial risk evaluations. Without that oversight, who decides if a model is safe to launch?",
+          "visual_hint": "Magnifying glass over a code screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass computer",
+          "image": "https://images.pexels.com/photos/6120169/pexels-photo-6120169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Resignations echo loudly",
+          "description": "Several team members left right after leadership change, taking their expertise with them. A clear signal of shifting priorities.",
+          "visual_hint": "Door closing with a shadow leaving",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "closing door shadow",
+          "image": "https://images.pexels.com/photos/6387816/pexels-photo-6387816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI might be unvetted",
+          "description": "You may be using AI outputs never checked by a dedicated safety team, affecting business decisions and personal advice.",
+          "visual_hint": "Hand holding a phone with AI interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to stay informed",
+          "description": "Demand external audits and clear safety reports from OpenAI before trusting their AI for critical tasks. Check our link for details.",
+          "visual_hint": "Bookmark icon with a checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "bookmark icon checklist",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-17T00:43:41.596Z",
+      "sourceId": "eb794a2fd02e47590d0826fb705d71a5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "why-people-aren-t-buying-mark-zuckerberg-s-ai-futu",
       "prompt_version": "1.0.0",
       "status": "published",
