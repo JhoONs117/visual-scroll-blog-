@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-which-started-off-selling-books-is-destroyi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
+    "slides": [
+      "Amazon destroys rare books to feed AI—but why?",
+      "Scanned texts are discarded after digitization.",
+      "The originals aren't recycled—they're shredded secretly.",
+      "Researchers lose access to irreplaceable primary sources.",
+      "Demand transparency: audit every digitization contract now."
+    ],
+    "thread_text": [
+      "1. The shredder's secret\n\nAmazon is destroying rare books after scanning them, and researchers are finding out too late.",
+      "2. Why digitize and destroy?\n\nOriginals are shredded to prevent resale, but the copies often have errors or missing pages.",
+      "3. The lost originals\n\nScholars lose access to unique annotations, bindings, and provenance that scans can't capture.",
+      "4. Who approved this?\n\nContracts with libraries allow destruction, but the public never sees the terms.",
+      "5. What you can do today\n\nEmail your university library: ask if any digitization partner has a destruction clause in writing."
+    ],
+    "video_script": [
+      "Amazon shreds rare books after scanning.",
+      "The originals are gone forever.",
+      "Scans miss annotations and details.",
+      "Contracts hide the destruction policy.",
+      "Demand transparency from your library now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The shredder's secret\n\nAmazon is destroying rare books after scanning them, and researchers are finding out too late.",
+          "2. Why digitize and destroy?\n\nOriginals are shredded to prevent resale, but the copies often have errors or missing pages.",
+          "3. The lost originals\n\nScholars lose access to unique annotations, bindings, and provenance that scans can't capture.",
+          "4. Who approved this?\n\nContracts with libraries allow destruction, but the public never sees the terms.",
+          "5. What you can do today\n\nEmail your university library: ask if any digitization partner has a destruction clause in writing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon shreds rare books after scanning.",
+          "The originals are gone forever.",
+          "Scans miss annotations and details.",
+          "Contracts hide the destruction policy.",
+          "Demand transparency from your library now."
+        ]
+      },
+      "instagram": {
+        "caption": "The rare books Amazon scans to train its AI aren't going back to the library. They're being shredded. 📚\n\nAmazon's digitization contracts let it destroy the physical originals after scanning, supposedly to prevent resale. But those scans often have missing pages or errors, and they can't capture handwritten notes, bindings, or a book's history. Researchers are losing irreplaceable sources, and the public never sees the fine print.\n\nIf you write, research, or publish, your work could be next—scanned, stripped, and deleted for a model.\n\nDoes your library's contract with any digitization partner include a destruction clause? Ask for it in writing today. 🕵️‍♂️✂️"
+      }
+    },
+    "instagram_caption": "The rare books Amazon scans to train its AI aren't going back to the library. They're being shredded. 📚\n\nAmazon's digitization contracts let it destroy the physical originals after scanning, supposedly to prevent resale. But those scans often have missing pages or errors, and they can't capture handwritten notes, bindings, or a book's history. Researchers are losing irreplaceable sources, and the public never sees the fine print.\n\nIf you write, research, or publish, your work could be next—scanned, stripped, and deleted for a model.\n\nDoes your library's contract with any digitization partner include a destruction clause? Ask for it in writing today. 🕵️‍♂️✂️",
+    "carousel_slides": [
+      {
+        "hook": "Why shred rare books?",
+        "description": "Amazon shreds rare books after scanning to prevent resale, but scans often have errors or missing pages.",
+        "visual_hint": "Shredded paper pile",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "shredded paper pile"
+      },
+      {
+        "hook": "Digitize and destroy?",
+        "description": "Originals are shredded to stop resale, yet the copies are frequently flawed, losing crucial details.",
+        "visual_hint": "Scanner and shredder",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "book scanner machine",
+        "image": "https://images.pexels.com/photos/9301891/pexels-photo-9301891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Lost forever for scholars.",
+        "description": "Researchers lose unique annotations, bindings, and provenance—irreplaceable details scans can't capture.",
+        "visual_hint": "Magnifying glass over book",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "old book closeup",
+        "image": "https://images.pexels.com/photos/12411388/pexels-photo-12411388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who signed this?",
+        "description": "Library contracts allow destruction, but terms stay secret—the public never sees them.",
+        "visual_hint": "Contract with hidden text",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "signed contract document",
+        "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save, share, or act now.",
+        "description": "Email your university library: ask if any digitization partner has a destruction clause in writing.",
+        "visual_hint": "Email icon and library",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "library bookshelf",
+        "image": "https://images.pexels.com/photos/5114911/pexels-photo-5114911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+    "savedAt": "2026-08-17T18:24:36.925Z",
+    "sourceId": "897dfbe77af7f13cc88b2ba6f3722dd4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "feedly-attributes-weeklong-slowdown-to-bug-not-its",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+    "pubDate": "Mon, 17 Aug 2026 17:10:59 +0000",
+    "slides": [
+      "Feedly's weeklong slowdown: bug or AI pivot?",
+      "Users reported delays across RSS and AI feeds.",
+      "Official fix deployed, but root cause remains hidden.",
+      "Performance guarantees now needed in your SLA.",
+      "Audit your feed latency before trusting any vendor."
+    ],
+    "thread_text": [
+      "1. Hidden Root Cause\n\nFeedly fixed the slowdown, but never explained why it happened. That silence is the real story.",
+      "2. AI Feeds Affected\n\nIt wasn't just RSS. AI-curated feeds slowed too, hitting users who depend on automated summaries.",
+      "3. Trust in Vendors Fades\n\nWithout a clear cause, can you trust any feed provider? Latency hits where you least expect it.",
+      "4. SLA Gaps Exposed\n\nMost SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+      "5. Audit Your Feeds Now\n\nCheck your feed's response times this week. Compare vendors and demand latency numbers in your SLA."
+    ],
+    "video_script": [
+      "Feedly slowed for a week.",
+      "Root cause still unknown—concerning.",
+      "AI feeds suffered too, hurting users.",
+      "SLAs need latency guarantees now.",
+      "Audit your feed's speed today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Hidden Root Cause\n\nFeedly fixed the slowdown, but never explained why it happened. That silence is the real story.",
+          "2. AI Feeds Affected\n\nIt wasn't just RSS. AI-curated feeds slowed too, hitting users who depend on automated summaries.",
+          "3. Trust in Vendors Fades\n\nWithout a clear cause, can you trust any feed provider? Latency hits where you least expect it.",
+          "4. SLA Gaps Exposed\n\nMost SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+          "5. Audit Your Feeds Now\n\nCheck your feed's response times this week. Compare vendors and demand latency numbers in your SLA."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Feedly slowed for a week.",
+          "Root cause still unknown—concerning.",
+          "AI feeds suffered too, hurting users.",
+          "SLAs need latency guarantees now.",
+          "Audit your feed's speed today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your RSS reader was slow for a week—and Feedly fixed it without ever explaining why the bug happened. 🐛\n\nThe outage hit AI-curated feeds too, so anyone relying on automated summaries lost hours of work. The silence matters more than the fix: if a major vendor can't trace its own slowdown, your feed pipeline is a black box.\n\nIf you use any AI feed tool, check your response times this week and ask for latency numbers before renewing. ⏱️\n\nIs your content workflow built on a vendor you can't audit? 📊"
+      }
+    },
+    "instagram_caption": "Your RSS reader was slow for a week—and Feedly fixed it without ever explaining why the bug happened. 🐛\n\nThe outage hit AI-curated feeds too, so anyone relying on automated summaries lost hours of work. The silence matters more than the fix: if a major vendor can't trace its own slowdown, your feed pipeline is a black box.\n\nIf you use any AI feed tool, check your response times this week and ask for latency numbers before renewing. ⏱️\n\nIs your content workflow built on a vendor you can't audit? 📊",
+    "carousel_slides": [
+      {
+        "hook": "Silence is the real story.",
+        "description": "Feedly fixed the slowdown but never explained why. That hidden root cause erodes trust in every feed vendor.",
+        "visual_hint": "Glowing question mark over server room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "AI feeds slowed too.",
+        "description": "It wasn't just RSS. AI-curated feeds delayed too, hurting users who rely on automated summaries.",
+        "visual_hint": "Chain links slowing down a data stream",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you trust any provider?",
+        "description": "Without a clear cause, latency hits where you least expect it. Vendor trust fades when answers are missing.",
+        "visual_hint": "Magnifying glass over a fractured trust symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your SLA has a gap.",
+        "description": "Most SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+        "visual_hint": "Contract with a gap where latency clause should be",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "contract document",
+        "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this, audit your feeds.",
+        "description": "Check your feed response times this week. Compare vendors and demand latency numbers in your SLA.",
+        "visual_hint": "Checklist with clock and arrow pointing to action",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "stopwatch",
+        "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
+    "savedAt": "2026-08-17T18:24:25.315Z",
+    "sourceId": "43eee12d0a31a238676c7959189dbf1a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "nvidia-investing-1-5b-in-softbank-data-center-deve",
     "prompt_version": "1.0.0",
     "status": "published",

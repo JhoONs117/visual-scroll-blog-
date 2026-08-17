@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-which-started-off-selling-books-is-destroyi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+  "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+  "pubDate": "Mon, 17 Aug 2026 16:38:44 +0000",
+  "slides": [
+    "Amazon destroys rare books to feed AI—but why?",
+    "Scanned texts are discarded after digitization.",
+    "The originals aren't recycled—they're shredded secretly.",
+    "Researchers lose access to irreplaceable primary sources.",
+    "Demand transparency: audit every digitization contract now."
+  ],
+  "thread_text": [
+    "1. The shredder's secret\n\nAmazon is destroying rare books after scanning them, and researchers are finding out too late.",
+    "2. Why digitize and destroy?\n\nOriginals are shredded to prevent resale, but the copies often have errors or missing pages.",
+    "3. The lost originals\n\nScholars lose access to unique annotations, bindings, and provenance that scans can't capture.",
+    "4. Who approved this?\n\nContracts with libraries allow destruction, but the public never sees the terms.",
+    "5. What you can do today\n\nEmail your university library: ask if any digitization partner has a destruction clause in writing."
+  ],
+  "video_script": [
+    "Amazon shreds rare books after scanning.",
+    "The originals are gone forever.",
+    "Scans miss annotations and details.",
+    "Contracts hide the destruction policy.",
+    "Demand transparency from your library now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The shredder's secret\n\nAmazon is destroying rare books after scanning them, and researchers are finding out too late.",
+        "2. Why digitize and destroy?\n\nOriginals are shredded to prevent resale, but the copies often have errors or missing pages.",
+        "3. The lost originals\n\nScholars lose access to unique annotations, bindings, and provenance that scans can't capture.",
+        "4. Who approved this?\n\nContracts with libraries allow destruction, but the public never sees the terms.",
+        "5. What you can do today\n\nEmail your university library: ask if any digitization partner has a destruction clause in writing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon shreds rare books after scanning.",
+        "The originals are gone forever.",
+        "Scans miss annotations and details.",
+        "Contracts hide the destruction policy.",
+        "Demand transparency from your library now."
+      ]
+    },
+    "instagram": {
+      "caption": "The rare books Amazon scans to train its AI aren't going back to the library. They're being shredded. 📚\n\nAmazon's digitization contracts let it destroy the physical originals after scanning, supposedly to prevent resale. But those scans often have missing pages or errors, and they can't capture handwritten notes, bindings, or a book's history. Researchers are losing irreplaceable sources, and the public never sees the fine print.\n\nIf you write, research, or publish, your work could be next—scanned, stripped, and deleted for a model.\n\nDoes your library's contract with any digitization partner include a destruction clause? Ask for it in writing today. 🕵️‍♂️✂️"
+    }
+  },
+  "instagram_caption": "The rare books Amazon scans to train its AI aren't going back to the library. They're being shredded. 📚\n\nAmazon's digitization contracts let it destroy the physical originals after scanning, supposedly to prevent resale. But those scans often have missing pages or errors, and they can't capture handwritten notes, bindings, or a book's history. Researchers are losing irreplaceable sources, and the public never sees the fine print.\n\nIf you write, research, or publish, your work could be next—scanned, stripped, and deleted for a model.\n\nDoes your library's contract with any digitization partner include a destruction clause? Ask for it in writing today. 🕵️‍♂️✂️",
+  "carousel_slides": [
+    {
+      "hook": "Why shred rare books?",
+      "description": "Amazon shreds rare books after scanning to prevent resale, but scans often have errors or missing pages.",
+      "visual_hint": "Shredded paper pile",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "shredded paper pile"
+    },
+    {
+      "hook": "Digitize and destroy?",
+      "description": "Originals are shredded to stop resale, yet the copies are frequently flawed, losing crucial details.",
+      "visual_hint": "Scanner and shredder",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "book scanner machine",
+      "image": "https://images.pexels.com/photos/9301891/pexels-photo-9301891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lost forever for scholars.",
+      "description": "Researchers lose unique annotations, bindings, and provenance—irreplaceable details scans can't capture.",
+      "visual_hint": "Magnifying glass over book",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "old book closeup",
+      "image": "https://images.pexels.com/photos/12411388/pexels-photo-12411388.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who signed this?",
+      "description": "Library contracts allow destruction, but terms stay secret—the public never sees them.",
+      "visual_hint": "Contract with hidden text",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "signed contract document",
+      "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save, share, or act now.",
+      "description": "Email your university library: ask if any digitization partner has a destruction clause in writing.",
+      "visual_hint": "Email icon and library",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "library bookshelf",
+      "image": "https://images.pexels.com/photos/5114911/pexels-photo-5114911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+  "savedAt": "2026-08-17T18:24:36.925Z",
+  "sourceId": "897dfbe77af7f13cc88b2ba6f3722dd4"
+}

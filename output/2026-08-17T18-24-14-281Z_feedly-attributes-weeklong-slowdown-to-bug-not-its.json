@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "feedly-attributes-weeklong-slowdown-to-bug-not-its",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+  "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+  "pubDate": "Mon, 17 Aug 2026 17:10:59 +0000",
+  "slides": [
+    "Feedly's weeklong slowdown: bug or AI pivot?",
+    "Users reported delays across RSS and AI feeds.",
+    "Official fix deployed, but root cause remains hidden.",
+    "Performance guarantees now needed in your SLA.",
+    "Audit your feed latency before trusting any vendor."
+  ],
+  "thread_text": [
+    "1. Hidden Root Cause\n\nFeedly fixed the slowdown, but never explained why it happened. That silence is the real story.",
+    "2. AI Feeds Affected\n\nIt wasn't just RSS. AI-curated feeds slowed too, hitting users who depend on automated summaries.",
+    "3. Trust in Vendors Fades\n\nWithout a clear cause, can you trust any feed provider? Latency hits where you least expect it.",
+    "4. SLA Gaps Exposed\n\nMost SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+    "5. Audit Your Feeds Now\n\nCheck your feed's response times this week. Compare vendors and demand latency numbers in your SLA."
+  ],
+  "video_script": [
+    "Feedly slowed for a week.",
+    "Root cause still unknown—concerning.",
+    "AI feeds suffered too, hurting users.",
+    "SLAs need latency guarantees now.",
+    "Audit your feed's speed today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hidden Root Cause\n\nFeedly fixed the slowdown, but never explained why it happened. That silence is the real story.",
+        "2. AI Feeds Affected\n\nIt wasn't just RSS. AI-curated feeds slowed too, hitting users who depend on automated summaries.",
+        "3. Trust in Vendors Fades\n\nWithout a clear cause, can you trust any feed provider? Latency hits where you least expect it.",
+        "4. SLA Gaps Exposed\n\nMost SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+        "5. Audit Your Feeds Now\n\nCheck your feed's response times this week. Compare vendors and demand latency numbers in your SLA."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Feedly slowed for a week.",
+        "Root cause still unknown—concerning.",
+        "AI feeds suffered too, hurting users.",
+        "SLAs need latency guarantees now.",
+        "Audit your feed's speed today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your RSS reader was slow for a week—and Feedly fixed it without ever explaining why the bug happened. 🐛\n\nThe outage hit AI-curated feeds too, so anyone relying on automated summaries lost hours of work. The silence matters more than the fix: if a major vendor can't trace its own slowdown, your feed pipeline is a black box.\n\nIf you use any AI feed tool, check your response times this week and ask for latency numbers before renewing. ⏱️\n\nIs your content workflow built on a vendor you can't audit? 📊"
+    }
+  },
+  "instagram_caption": "Your RSS reader was slow for a week—and Feedly fixed it without ever explaining why the bug happened. 🐛\n\nThe outage hit AI-curated feeds too, so anyone relying on automated summaries lost hours of work. The silence matters more than the fix: if a major vendor can't trace its own slowdown, your feed pipeline is a black box.\n\nIf you use any AI feed tool, check your response times this week and ask for latency numbers before renewing. ⏱️\n\nIs your content workflow built on a vendor you can't audit? 📊",
+  "carousel_slides": [
+    {
+      "hook": "Silence is the real story.",
+      "description": "Feedly fixed the slowdown but never explained why. That hidden root cause erodes trust in every feed vendor.",
+      "visual_hint": "Glowing question mark over server room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "AI feeds slowed too.",
+      "description": "It wasn't just RSS. AI-curated feeds delayed too, hurting users who rely on automated summaries.",
+      "visual_hint": "Chain links slowing down a data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you trust any provider?",
+      "description": "Without a clear cause, latency hits where you least expect it. Vendor trust fades when answers are missing.",
+      "visual_hint": "Magnifying glass over a fractured trust symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your SLA has a gap.",
+      "description": "Most SLAs don't cover feed latency. Your contract likely lacks performance guarantees for AI delivery.",
+      "visual_hint": "Contract with a gap where latency clause should be",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "contract document",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this, audit your feeds.",
+      "description": "Check your feed response times this week. Compare vendors and demand latency numbers in your SLA.",
+      "visual_hint": "Checklist with clock and arrow pointing to action",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
+  "savedAt": "2026-08-17T18:24:25.315Z",
+  "sourceId": "43eee12d0a31a238676c7959189dbf1a"
+}
