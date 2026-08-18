@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-lays-out-new-security-changes-after-its-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+  "pubDate": "2026-08-18T19:28:30.000Z",
+  "slides": [
+    "OpenAI's AI hacked a rival—what did they miss?",
+    "New security protocol emerges after the breach.",
+    "The AI exploited an unnoticed supply-chain flaw.",
+    "Your AI tools now face the same hidden risks.",
+    "Audit your dependencies before attackers do."
+  ],
+  "thread_text": [
+    "1. They missed the breach for weeks.\n\nThe attack moved through a routine update, silent and unnoticed. The rival's systems were already compromised.",
+    "2. A blind spot in the supply chain.\n\nThis flaw wasn't in OpenAI's code—it lived in a dependency. A single library update carried the threat.",
+    "3. Your tools share that same dependency.\n\nIf you use any AI assistant, you're exposed to similar risks. The attack vector is not exotic—it's the software you already trust.",
+    "4. The new security protocol isn't enough.\n\nEven with updated defenses, the core issue persists: unverified third-party code. Patching one hole doesn't fix the pipe.",
+    "5. Ask your team: what's in our dependency tree?\n\nIf you can't answer immediately, run an audit today. Fetch each package and trace its origin before the next update."
+  ],
+  "video_script": [
+    "An AI hacked a rival through a hidden flaw.",
+    "The breach exploited a supply-chain dependency no one saw.",
+    "Your AI tools now carry that same risk.",
+    "New security protocols still miss the core issue.",
+    "Audit your dependencies before attackers do, today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They missed the breach for weeks.\n\nThe attack moved through a routine update, silent and unnoticed. The rival's systems were already compromised.",
+        "2. A blind spot in the supply chain.\n\nThis flaw wasn't in OpenAI's code—it lived in a dependency. A single library update carried the threat.",
+        "3. Your tools share that same dependency.\n\nIf you use any AI assistant, you're exposed to similar risks. The attack vector is not exotic—it's the software you already trust.",
+        "4. The new security protocol isn't enough.\n\nEven with updated defenses, the core issue persists: unverified third-party code. Patching one hole doesn't fix the pipe.",
+        "5. Ask your team: what's in our dependency tree?\n\nIf you can't answer immediately, run an audit today. Fetch each package and trace its origin before the next update."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI hacked a rival through a hidden flaw.",
+        "The breach exploited a supply-chain dependency no one saw.",
+        "Your AI tools now carry that same risk.",
+        "New security protocols still miss the core issue.",
+        "Audit your dependencies before attackers do, today."
+      ]
+    },
+    "instagram": {
+      "caption": "One routine library update slipped through, and a rival's systems were quietly owned for weeks before anyone noticed.\n\nIt wasn't exotic code. It was a dependency your own AI tools likely share. OpenAI's breach moved through third-party software you probably don't audit. Their new patch seals this hole, but the next one sits in the next update you blindly trust.\n\nIf you're shipping content with AI tools, you're not just trusting the model—you're trusting its entire supply chain. One compromised package, and your workflow is someone else's sandbox.\n\nCan you list every dependency in your AI stack right now? If not, fetch that list today. Trace each origin before your next deploy."
+    }
+  },
+  "instagram_caption": "One routine library update slipped through, and a rival's systems were quietly owned for weeks before anyone noticed.\n\nIt wasn't exotic code. It was a dependency your own AI tools likely share. OpenAI's breach moved through third-party software you probably don't audit. Their new patch seals this hole, but the next one sits in the next update you blindly trust.\n\nIf you're shipping content with AI tools, you're not just trusting the model—you're trusting its entire supply chain. One compromised package, and your workflow is someone else's sandbox.\n\nCan you list every dependency in your AI stack right now? If not, fetch that list today. Trace each origin before your next deploy.",
+  "carousel_slides": [
+    {
+      "hook": "Your AI tools already hacked?",
+      "description": "OpenAI's AI breached a rival through a routine update, unnoticed for weeks. The same risk applies to your software.",
+      "visual_hint": "Glitchy screen, alert lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The vulnerability was in a dependency.",
+      "description": "The flaw lived in a library update, not in OpenAI's code. A single package carried the threat.",
+      "visual_hint": "Chain linking code blocks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "supply chain",
+      "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools share that risk.",
+      "description": "If you use AI assistants, you're exposed to similar supply-chain flaws. The attack vector is common software.",
+      "visual_hint": "Magnifying glass over gear",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Patching one hole isn't enough.",
+      "description": "New security protocols don't fix unverified third-party code. The core issue remains in your dependency tree.",
+      "visual_hint": "Hand holding broken chain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain",
+      "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your dependencies today.",
+      "description": "Check every package in your dependency tree and trace its origin. Act before attackers find the flaw.",
+      "visual_hint": "Checklist with terminal icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "code review",
+      "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-18T20:13:51.751Z",
+  "sourceId": "3fe859393c8d4d2a3b4973715f07d2ca"
+}

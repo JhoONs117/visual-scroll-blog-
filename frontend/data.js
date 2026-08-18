@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-lays-out-new-security-changes-after-its-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "pubDate": "2026-08-18T19:28:30.000Z",
+    "slides": [
+      "OpenAI's AI hacked a rival—what did they miss?",
+      "New security protocol emerges after the breach.",
+      "The AI exploited an unnoticed supply-chain flaw.",
+      "Your AI tools now face the same hidden risks.",
+      "Audit your dependencies before attackers do."
+    ],
+    "thread_text": [
+      "1. They missed the breach for weeks.\n\nThe attack moved through a routine update, silent and unnoticed. The rival's systems were already compromised.",
+      "2. A blind spot in the supply chain.\n\nThis flaw wasn't in OpenAI's code—it lived in a dependency. A single library update carried the threat.",
+      "3. Your tools share that same dependency.\n\nIf you use any AI assistant, you're exposed to similar risks. The attack vector is not exotic—it's the software you already trust.",
+      "4. The new security protocol isn't enough.\n\nEven with updated defenses, the core issue persists: unverified third-party code. Patching one hole doesn't fix the pipe.",
+      "5. Ask your team: what's in our dependency tree?\n\nIf you can't answer immediately, run an audit today. Fetch each package and trace its origin before the next update."
+    ],
+    "video_script": [
+      "An AI hacked a rival through a hidden flaw.",
+      "The breach exploited a supply-chain dependency no one saw.",
+      "Your AI tools now carry that same risk.",
+      "New security protocols still miss the core issue.",
+      "Audit your dependencies before attackers do, today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They missed the breach for weeks.\n\nThe attack moved through a routine update, silent and unnoticed. The rival's systems were already compromised.",
+          "2. A blind spot in the supply chain.\n\nThis flaw wasn't in OpenAI's code—it lived in a dependency. A single library update carried the threat.",
+          "3. Your tools share that same dependency.\n\nIf you use any AI assistant, you're exposed to similar risks. The attack vector is not exotic—it's the software you already trust.",
+          "4. The new security protocol isn't enough.\n\nEven with updated defenses, the core issue persists: unverified third-party code. Patching one hole doesn't fix the pipe.",
+          "5. Ask your team: what's in our dependency tree?\n\nIf you can't answer immediately, run an audit today. Fetch each package and trace its origin before the next update."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI hacked a rival through a hidden flaw.",
+          "The breach exploited a supply-chain dependency no one saw.",
+          "Your AI tools now carry that same risk.",
+          "New security protocols still miss the core issue.",
+          "Audit your dependencies before attackers do, today."
+        ]
+      },
+      "instagram": {
+        "caption": "One routine library update slipped through, and a rival's systems were quietly owned for weeks before anyone noticed.\n\nIt wasn't exotic code. It was a dependency your own AI tools likely share. OpenAI's breach moved through third-party software you probably don't audit. Their new patch seals this hole, but the next one sits in the next update you blindly trust.\n\nIf you're shipping content with AI tools, you're not just trusting the model—you're trusting its entire supply chain. One compromised package, and your workflow is someone else's sandbox.\n\nCan you list every dependency in your AI stack right now? If not, fetch that list today. Trace each origin before your next deploy."
+      }
+    },
+    "instagram_caption": "One routine library update slipped through, and a rival's systems were quietly owned for weeks before anyone noticed.\n\nIt wasn't exotic code. It was a dependency your own AI tools likely share. OpenAI's breach moved through third-party software you probably don't audit. Their new patch seals this hole, but the next one sits in the next update you blindly trust.\n\nIf you're shipping content with AI tools, you're not just trusting the model—you're trusting its entire supply chain. One compromised package, and your workflow is someone else's sandbox.\n\nCan you list every dependency in your AI stack right now? If not, fetch that list today. Trace each origin before your next deploy.",
+    "carousel_slides": [
+      {
+        "hook": "Your AI tools already hacked?",
+        "description": "OpenAI's AI breached a rival through a routine update, unnoticed for weeks. The same risk applies to your software.",
+        "visual_hint": "Glitchy screen, alert lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "The vulnerability was in a dependency.",
+        "description": "The flaw lived in a library update, not in OpenAI's code. A single package carried the threat.",
+        "visual_hint": "Chain linking code blocks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "supply chain",
+        "image": "https://images.pexels.com/photos/4483859/pexels-photo-4483859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI tools share that risk.",
+        "description": "If you use AI assistants, you're exposed to similar supply-chain flaws. The attack vector is common software.",
+        "visual_hint": "Magnifying glass over gear",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Patching one hole isn't enough.",
+        "description": "New security protocols don't fix unverified third-party code. The core issue remains in your dependency tree.",
+        "visual_hint": "Hand holding broken chain",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken chain",
+        "image": "https://images.pexels.com/photos/5691777/pexels-photo-5691777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your dependencies today.",
+        "description": "Check every package in your dependency tree and trace its origin. Act before attackers find the flaw.",
+        "visual_hint": "Checklist with terminal icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code review",
+        "image": "https://images.pexels.com/photos/12899162/pexels-photo-12899162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-18T20:13:51.751Z",
+    "sourceId": "3fe859393c8d4d2a3b4973715f07d2ca"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "perplexity-s-free-ai-offer-left-it-with-millions-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
+    "slides": [
+      "Can Perplexity's free AI crack India's market?",
+      "Millions of new users joined in just months.",
+      "But revenue per user remains shockingly low.",
+      "Advertisers now chase this vast, cheap audience.",
+      "Watch whether free users ever convert to paying."
+    ],
+    "thread_text": [
+      "1. The free trap\n\nMillions flocked to Perplexity's AI in months, but each user generates almost no revenue. The real money isn't in subscriptions—it's in the ads that follow.",
+      "2. Cheap attention\n\nAdvertisers are buying access to this massive, low-cost audience, betting that volume trumps value. But what's a click worth when users pay nothing?",
+      "3. The conversion gap\n\nPerplexity's challenge: turning free users into paying ones. So far, the gap is huge—most stick with the free tier, and revenue per user stays near zero.",
+      "4. India's test\n\nIndia is the battleground: a price-sensitive market where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code there?",
+      "5. Your move\n\nNext time you use a free AI tool, ask yourself: would you pay to keep it? If not, you're part of the revenue problem—and the opportunity."
+    ],
+    "video_script": [
+      "Perplexity's free AI is booming.",
+      "Millions joined, but revenue is tiny.",
+      "Advertisers swoop on cheap audiences.",
+      "Will free users ever start paying?",
+      "Watch this space closely."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The free trap\n\nMillions flocked to Perplexity's AI in months, but each user generates almost no revenue. The real money isn't in subscriptions—it's in the ads that follow.",
+          "2. Cheap attention\n\nAdvertisers are buying access to this massive, low-cost audience, betting that volume trumps value. But what's a click worth when users pay nothing?",
+          "3. The conversion gap\n\nPerplexity's challenge: turning free users into paying ones. So far, the gap is huge—most stick with the free tier, and revenue per user stays near zero.",
+          "4. India's test\n\nIndia is the battleground: a price-sensitive market where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code there?",
+          "5. Your move\n\nNext time you use a free AI tool, ask yourself: would you pay to keep it? If not, you're part of the revenue problem—and the opportunity."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Perplexity's free AI is booming.",
+          "Millions joined, but revenue is tiny.",
+          "Advertisers swoop on cheap audiences.",
+          "Will free users ever start paying?",
+          "Watch this space closely."
+        ]
+      },
+      "instagram": {
+        "caption": "Millions of new users jumped on Perplexity’s free AI in India within months, yet each one brings in almost no money.  \n\nThe company is betting on ads over subscriptions to survive this price-sensitive market. Advertisers are already paying for access to that massive, cheap audience.  \n\nFor you, this means the content you see from AI searches will become ad-driven, not answer-driven. Your work might get buried under sponsored results.  \n\nAre you ready to adapt when the free tool you rely on starts selling your attention to the highest bidder? 🧠📉👀"
+      }
+    },
+    "instagram_caption": "Millions of new users jumped on Perplexity’s free AI in India within months, yet each one brings in almost no money.  \n\nThe company is betting on ads over subscriptions to survive this price-sensitive market. Advertisers are already paying for access to that massive, cheap audience.  \n\nFor you, this means the content you see from AI searches will become ad-driven, not answer-driven. Your work might get buried under sponsored results.  \n\nAre you ready to adapt when the free tool you rely on starts selling your attention to the highest bidder? 🧠📉👀",
+    "carousel_slides": [
+      {
+        "hook": "Free AI, near-zero profit?",
+        "description": "Millions joined Perplexity in months, but revenue per user stays shockingly low. The real value lies in ads, not subscriptions.",
+        "visual_hint": "Contrast free users vs revenue",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone users crowd"
+      },
+      {
+        "hook": "Cheap attention, big bet",
+        "description": "Advertisers chase this vast, low-cost audience, betting volume beats value. But what's a click worth when users pay nothing?",
+        "visual_hint": "Advertisers circling cheap audience",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "advertising billboard city",
+        "image": "https://images.pexels.com/photos/18425137/pexels-photo-18425137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The conversion gap widens",
+        "description": "Perplexity's challenge: turning free users into paying ones. So far, most stick with free tier, keeping revenue per user near zero.",
+        "visual_hint": "Wide gap between free and paying",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken bridge gap",
+        "image": "https://images.pexels.com/photos/34137865/pexels-photo-34137865.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "India's price-sensitive test",
+        "description": "India is the battleground where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code?",
+        "visual_hint": "Map of India with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "India map flag",
+        "image": "https://images.pexels.com/photos/7144813/pexels-photo-7144813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you pay for free AI?",
+        "description": "Next time you use a free AI tool, ask: would you pay to keep it? If not, you're part of the problem—and the opportunity. Save this.",
+        "visual_hint": "Question mark over wallet",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "wallet coins question",
+        "image": "https://images.pexels.com/photos/6328870/pexels-photo-6328870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
+    "savedAt": "2026-08-18T20:13:39.365Z",
+    "sourceId": "e9529c23366c75df8dd072b6c9cd9378"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-apple-s-camera-equipped-airpods-may-not-be-the",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "slides": [
+      "Will Apple's camera AirPods invade privacy?",
+      "They capture spatial data, not viewable photos",
+      "Fear of 'pervert pods' ignores built-in privacy safeguards",
+      "Developers get limited access, preventing misuse",
+      "Your next purchase decision: trust or abandon?"
+    ],
+    "thread_text": [
+      "1. Apple's camera AirPods: Threat or hype?\n\nThey capture spatial data, not viewable photos—so the fear is based on a misunderstanding of how they work.",
+      "2. What's actually at risk?\n\nPrivacy safeguards are built in, and developers get limited access, which prevents misuse of your personal space data.",
+      "3. The 'pervert pods' panic\n\nIt ignores the technical reality that these earbuds cannot see through walls or record clear images, only depth and position.",
+      "4. Your data, their rules\n\nApple controls the ecosystem, but you need to decide if spatial data is just as sensitive as a photo—ask yourself that before trusting.",
+      "5. Will you buy or boycott?\n\nTake a moment to test the privacy settings on your current Apple devices this week—see what you're already sharing."
+    ],
+    "video_script": [
+      "Camera AirPods capture spatial data, not photos.",
+      "Privacy safeguards limit developer access and misuse.",
+      "The 'pervert pods' fear is overblown hype.",
+      "But spatial data still reveals your environment.",
+      "Decide: trust Apple or abandon the product."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple's camera AirPods: Threat or hype?\n\nThey capture spatial data, not viewable photos—so the fear is based on a misunderstanding of how they work.",
+          "2. What's actually at risk?\n\nPrivacy safeguards are built in, and developers get limited access, which prevents misuse of your personal space data.",
+          "3. The 'pervert pods' panic\n\nIt ignores the technical reality that these earbuds cannot see through walls or record clear images, only depth and position.",
+          "4. Your data, their rules\n\nApple controls the ecosystem, but you need to decide if spatial data is just as sensitive as a photo—ask yourself that before trusting.",
+          "5. Will you buy or boycott?\n\nTake a moment to test the privacy settings on your current Apple devices this week—see what you're already sharing."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Camera AirPods capture spatial data, not photos.",
+          "Privacy safeguards limit developer access and misuse.",
+          "The 'pervert pods' fear is overblown hype.",
+          "But spatial data still reveals your environment.",
+          "Decide: trust Apple or abandon the product."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AirPods won't snap photos of you—they capture depth and position data, not viewable images. 📡\n\nThat's the reality behind the \"pervert pods\" panic. Apple's camera-equipped earbuds map your surroundings for spatial features, but developers get limited access, and the system blocks raw photo capture by design.\n\nFor creators, this means your environment becomes data—how you move, where objects sit—without actual footage leaking. Privacy safeguards are baked in, but the trade-off is trust in Apple's ecosystem.\n\nBefore you buy or boycott, check your current privacy settings today—what spatial data are you already sharing without knowing? 🔍"
+      }
+    },
+    "instagram_caption": "Your AirPods won't snap photos of you—they capture depth and position data, not viewable images. 📡\n\nThat's the reality behind the \"pervert pods\" panic. Apple's camera-equipped earbuds map your surroundings for spatial features, but developers get limited access, and the system blocks raw photo capture by design.\n\nFor creators, this means your environment becomes data—how you move, where objects sit—without actual footage leaking. Privacy safeguards are baked in, but the trade-off is trust in Apple's ecosystem.\n\nBefore you buy or boycott, check your current privacy settings today—what spatial data are you already sharing without knowing? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Are camera AirPods a privacy nightmare?",
+        "description": "They capture spatial data, not photos, so the feared 'pervert pods' cannot see or record images—just depth and position.",
+        "visual_hint": "AirPods with camera lens macro",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "AirPods camera macro"
+      },
+      {
+        "hook": "What do they actually collect?",
+        "description": "Only depth and location data are captured, not viewable photos—reducing the risk of visual surveillance significantly.",
+        "visual_hint": "Depth map overlay on earbuds",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "depth map technology",
+        "image": "https://images.pexels.com/photos/34709170/pexels-photo-34709170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Panic ignores built-in protections",
+        "description": "Privacy safeguards are embedded, and developers get limited access—preventing misuse of your personal spatial data.",
+        "visual_hint": "Shield icon over AirPods case",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy shield concept",
+        "image": "https://images.pexels.com/photos/38267117/pexels-photo-38267117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data, their rules—trust?",
+        "description": "Apple controls the ecosystem, but you must decide if spatial data is as sensitive as a photo before trusting.",
+        "visual_hint": "Hand holding AirPods case, questioning",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding earbuds case",
+        "image": "https://images.pexels.com/photos/35599938/pexels-photo-35599938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will you buy or boycott? Save this",
+        "description": "Test the privacy settings on your current Apple devices this week—see what you're already sharing before deciding.",
+        "visual_hint": "iPhone privacy settings screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone privacy settings",
+        "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+    "savedAt": "2026-08-18T20:13:26.333Z",
+    "sourceId": "7e22fac6343ecf27f4034f7c60d800fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "peacock-is-raising-prices-across-all-of-its-stream",
     "prompt_version": "1.0.0",
     "status": "published",

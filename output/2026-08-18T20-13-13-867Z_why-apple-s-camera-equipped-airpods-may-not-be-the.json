@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-apple-s-camera-equipped-airpods-may-not-be-the",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+  "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+  "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
+  "slides": [
+    "Will Apple's camera AirPods invade privacy?",
+    "They capture spatial data, not viewable photos",
+    "Fear of 'pervert pods' ignores built-in privacy safeguards",
+    "Developers get limited access, preventing misuse",
+    "Your next purchase decision: trust or abandon?"
+  ],
+  "thread_text": [
+    "1. Apple's camera AirPods: Threat or hype?\n\nThey capture spatial data, not viewable photos—so the fear is based on a misunderstanding of how they work.",
+    "2. What's actually at risk?\n\nPrivacy safeguards are built in, and developers get limited access, which prevents misuse of your personal space data.",
+    "3. The 'pervert pods' panic\n\nIt ignores the technical reality that these earbuds cannot see through walls or record clear images, only depth and position.",
+    "4. Your data, their rules\n\nApple controls the ecosystem, but you need to decide if spatial data is just as sensitive as a photo—ask yourself that before trusting.",
+    "5. Will you buy or boycott?\n\nTake a moment to test the privacy settings on your current Apple devices this week—see what you're already sharing."
+  ],
+  "video_script": [
+    "Camera AirPods capture spatial data, not photos.",
+    "Privacy safeguards limit developer access and misuse.",
+    "The 'pervert pods' fear is overblown hype.",
+    "But spatial data still reveals your environment.",
+    "Decide: trust Apple or abandon the product."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's camera AirPods: Threat or hype?\n\nThey capture spatial data, not viewable photos—so the fear is based on a misunderstanding of how they work.",
+        "2. What's actually at risk?\n\nPrivacy safeguards are built in, and developers get limited access, which prevents misuse of your personal space data.",
+        "3. The 'pervert pods' panic\n\nIt ignores the technical reality that these earbuds cannot see through walls or record clear images, only depth and position.",
+        "4. Your data, their rules\n\nApple controls the ecosystem, but you need to decide if spatial data is just as sensitive as a photo—ask yourself that before trusting.",
+        "5. Will you buy or boycott?\n\nTake a moment to test the privacy settings on your current Apple devices this week—see what you're already sharing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Camera AirPods capture spatial data, not photos.",
+        "Privacy safeguards limit developer access and misuse.",
+        "The 'pervert pods' fear is overblown hype.",
+        "But spatial data still reveals your environment.",
+        "Decide: trust Apple or abandon the product."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AirPods won't snap photos of you—they capture depth and position data, not viewable images. 📡\n\nThat's the reality behind the \"pervert pods\" panic. Apple's camera-equipped earbuds map your surroundings for spatial features, but developers get limited access, and the system blocks raw photo capture by design.\n\nFor creators, this means your environment becomes data—how you move, where objects sit—without actual footage leaking. Privacy safeguards are baked in, but the trade-off is trust in Apple's ecosystem.\n\nBefore you buy or boycott, check your current privacy settings today—what spatial data are you already sharing without knowing? 🔍"
+    }
+  },
+  "instagram_caption": "Your AirPods won't snap photos of you—they capture depth and position data, not viewable images. 📡\n\nThat's the reality behind the \"pervert pods\" panic. Apple's camera-equipped earbuds map your surroundings for spatial features, but developers get limited access, and the system blocks raw photo capture by design.\n\nFor creators, this means your environment becomes data—how you move, where objects sit—without actual footage leaking. Privacy safeguards are baked in, but the trade-off is trust in Apple's ecosystem.\n\nBefore you buy or boycott, check your current privacy settings today—what spatial data are you already sharing without knowing? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Are camera AirPods a privacy nightmare?",
+      "description": "They capture spatial data, not photos, so the feared 'pervert pods' cannot see or record images—just depth and position.",
+      "visual_hint": "AirPods with camera lens macro",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "AirPods camera macro"
+    },
+    {
+      "hook": "What do they actually collect?",
+      "description": "Only depth and location data are captured, not viewable photos—reducing the risk of visual surveillance significantly.",
+      "visual_hint": "Depth map overlay on earbuds",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "depth map technology",
+      "image": "https://images.pexels.com/photos/34709170/pexels-photo-34709170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Panic ignores built-in protections",
+      "description": "Privacy safeguards are embedded, and developers get limited access—preventing misuse of your personal spatial data.",
+      "visual_hint": "Shield icon over AirPods case",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "privacy shield concept",
+      "image": "https://images.pexels.com/photos/38267117/pexels-photo-38267117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data, their rules—trust?",
+      "description": "Apple controls the ecosystem, but you must decide if spatial data is as sensitive as a photo before trusting.",
+      "visual_hint": "Hand holding AirPods case, questioning",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding earbuds case",
+      "image": "https://images.pexels.com/photos/35599938/pexels-photo-35599938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will you buy or boycott? Save this",
+      "description": "Test the privacy settings on your current Apple devices this week—see what you're already sharing before deciding.",
+      "visual_hint": "iPhone privacy settings screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone privacy settings",
+      "image": "https://images.pexels.com/photos/9787926/pexels-photo-9787926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+  "savedAt": "2026-08-18T20:13:26.333Z",
+  "sourceId": "7e22fac6343ecf27f4034f7c60d800fa"
+}

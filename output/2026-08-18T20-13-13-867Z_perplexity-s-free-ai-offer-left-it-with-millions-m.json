@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "perplexity-s-free-ai-offer-left-it-with-millions-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Perplexity’s free AI offer left it with millions more users in India",
+  "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+  "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
+  "slides": [
+    "Can Perplexity's free AI crack India's market?",
+    "Millions of new users joined in just months.",
+    "But revenue per user remains shockingly low.",
+    "Advertisers now chase this vast, cheap audience.",
+    "Watch whether free users ever convert to paying."
+  ],
+  "thread_text": [
+    "1. The free trap\n\nMillions flocked to Perplexity's AI in months, but each user generates almost no revenue. The real money isn't in subscriptions—it's in the ads that follow.",
+    "2. Cheap attention\n\nAdvertisers are buying access to this massive, low-cost audience, betting that volume trumps value. But what's a click worth when users pay nothing?",
+    "3. The conversion gap\n\nPerplexity's challenge: turning free users into paying ones. So far, the gap is huge—most stick with the free tier, and revenue per user stays near zero.",
+    "4. India's test\n\nIndia is the battleground: a price-sensitive market where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code there?",
+    "5. Your move\n\nNext time you use a free AI tool, ask yourself: would you pay to keep it? If not, you're part of the revenue problem—and the opportunity."
+  ],
+  "video_script": [
+    "Perplexity's free AI is booming.",
+    "Millions joined, but revenue is tiny.",
+    "Advertisers swoop on cheap audiences.",
+    "Will free users ever start paying?",
+    "Watch this space closely."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The free trap\n\nMillions flocked to Perplexity's AI in months, but each user generates almost no revenue. The real money isn't in subscriptions—it's in the ads that follow.",
+        "2. Cheap attention\n\nAdvertisers are buying access to this massive, low-cost audience, betting that volume trumps value. But what's a click worth when users pay nothing?",
+        "3. The conversion gap\n\nPerplexity's challenge: turning free users into paying ones. So far, the gap is huge—most stick with the free tier, and revenue per user stays near zero.",
+        "4. India's test\n\nIndia is the battleground: a price-sensitive market where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code there?",
+        "5. Your move\n\nNext time you use a free AI tool, ask yourself: would you pay to keep it? If not, you're part of the revenue problem—and the opportunity."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Perplexity's free AI is booming.",
+        "Millions joined, but revenue is tiny.",
+        "Advertisers swoop on cheap audiences.",
+        "Will free users ever start paying?",
+        "Watch this space closely."
+      ]
+    },
+    "instagram": {
+      "caption": "Millions of new users jumped on Perplexity’s free AI in India within months, yet each one brings in almost no money.  \n\nThe company is betting on ads over subscriptions to survive this price-sensitive market. Advertisers are already paying for access to that massive, cheap audience.  \n\nFor you, this means the content you see from AI searches will become ad-driven, not answer-driven. Your work might get buried under sponsored results.  \n\nAre you ready to adapt when the free tool you rely on starts selling your attention to the highest bidder? 🧠📉👀"
+    }
+  },
+  "instagram_caption": "Millions of new users jumped on Perplexity’s free AI in India within months, yet each one brings in almost no money.  \n\nThe company is betting on ads over subscriptions to survive this price-sensitive market. Advertisers are already paying for access to that massive, cheap audience.  \n\nFor you, this means the content you see from AI searches will become ad-driven, not answer-driven. Your work might get buried under sponsored results.  \n\nAre you ready to adapt when the free tool you rely on starts selling your attention to the highest bidder? 🧠📉👀",
+  "carousel_slides": [
+    {
+      "hook": "Free AI, near-zero profit?",
+      "description": "Millions joined Perplexity in months, but revenue per user stays shockingly low. The real value lies in ads, not subscriptions.",
+      "visual_hint": "Contrast free users vs revenue",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone users crowd"
+    },
+    {
+      "hook": "Cheap attention, big bet",
+      "description": "Advertisers chase this vast, low-cost audience, betting volume beats value. But what's a click worth when users pay nothing?",
+      "visual_hint": "Advertisers circling cheap audience",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "advertising billboard city",
+      "image": "https://images.pexels.com/photos/18425137/pexels-photo-18425137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The conversion gap widens",
+      "description": "Perplexity's challenge: turning free users into paying ones. So far, most stick with free tier, keeping revenue per user near zero.",
+      "visual_hint": "Wide gap between free and paying",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken bridge gap",
+      "image": "https://images.pexels.com/photos/34137865/pexels-photo-34137865.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "India's price-sensitive test",
+      "description": "India is the battleground where free AI could dominate, but monetization is an uphill climb. Can Perplexity crack the code?",
+      "visual_hint": "Map of India with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "India map flag",
+      "image": "https://images.pexels.com/photos/7144813/pexels-photo-7144813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you pay for free AI?",
+      "description": "Next time you use a free AI tool, ask: would you pay to keep it? If not, you're part of the problem—and the opportunity. Save this.",
+      "visual_hint": "Question mark over wallet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "wallet coins question",
+      "image": "https://images.pexels.com/photos/6328870/pexels-photo-6328870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
+  "savedAt": "2026-08-18T20:13:39.365Z",
+  "sourceId": "e9529c23366c75df8dd072b6c9cd9378"
+}
