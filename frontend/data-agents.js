@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "detroit-startup-grounded-raises-5m-to-customize-el",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Can Detroit's Grounded remake the van market?",
+        "It just raised $5M to customize vans.",
+        "Both electric and gas-powered models get bespoke builds.",
+        "This funding accelerates production and fleet orders.",
+        "Will you customize one before competitors adapt?"
+      ],
+      "thread_text": [
+        "1. A $5M Bet on Vans\n\nDetroit's Grounded just raised $5M, signaling serious momentum in the van customization market.",
+        "2. Bespoke Builds for All\n\nBoth electric and gas-powered vans get custom builds, making every model unique.",
+        "3. Production Accelerates\n\nNew funding ramps up production and secures fleet orders, scaling fast.",
+        "4. The Market's Next Move\n\nCompetitors will likely follow, but Grounded has a head start.",
+        "5. Will You Customize?\n\nBefore rivals adapt, would you order a bespoke van—or wait for the trend to mature?"
+      ],
+      "video_script": [
+        "Detroit's Grounded raised five million for vans.",
+        "Custom builds for electric and gas models.",
+        "Funding speeds production and fleet orders.",
+        "Competitors may soon enter this space.",
+        "Would you customize a van before they do?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. A $5M Bet on Vans\n\nDetroit's Grounded just raised $5M, signaling serious momentum in the van customization market.",
+            "2. Bespoke Builds for All\n\nBoth electric and gas-powered vans get custom builds, making every model unique.",
+            "3. Production Accelerates\n\nNew funding ramps up production and secures fleet orders, scaling fast.",
+            "4. The Market's Next Move\n\nCompetitors will likely follow, but Grounded has a head start.",
+            "5. Will You Customize?\n\nBefore rivals adapt, would you order a bespoke van—or wait for the trend to mature?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Detroit's Grounded raised five million for vans.",
+            "Custom builds for electric and gas models.",
+            "Funding speeds production and fleet orders.",
+            "Competitors may soon enter this space.",
+            "Would you customize a van before they do?"
+          ]
+        },
+        "instagram": {
+          "caption": "A Detroit startup just pulled in $5 million to turn vans into customized rides—for both electric and gas models. 🚐\n\nGrounded is using the cash to speed up production and lock in fleet orders. The kicker? Every van gets a bespoke build, whether it runs on batteries or fuel. That’s a shift from the one-size-fits-all approach most automakers still push.\n\nFor anyone in content or commerce, this means more brands can order vehicles tailored to their exact needs—think mobile studios or pop-up shops—without waiting for legacy factories.\n\nWould you spec out a custom van for your work, or wait until rivals catch up? ⚡"
+        }
+      },
+      "instagram_caption": "A Detroit startup just pulled in $5 million to turn vans into customized rides—for both electric and gas models. 🚐\n\nGrounded is using the cash to speed up production and lock in fleet orders. The kicker? Every van gets a bespoke build, whether it runs on batteries or fuel. That’s a shift from the one-size-fits-all approach most automakers still push.\n\nFor anyone in content or commerce, this means more brands can order vehicles tailored to their exact needs—think mobile studios or pop-up shops—without waiting for legacy factories.\n\nWould you spec out a custom van for your work, or wait until rivals catch up? ⚡",
+      "carousel_slides": [
+        {
+          "hook": "Custom vans: Detroit's next big bet?",
+          "description": "Grounded raised $5M to customize vans, both electric and gas-powered. This signals a major shift in the van market.",
+          "visual_hint": "Detroit skyline, van with custom design",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Detroit van customization"
+        },
+        {
+          "hook": "Bespoke builds for every van",
+          "description": "Grounded offers unique customizations for both electric and gas models, making each van one-of-a-kind.",
+          "visual_hint": "Custom van interior, side view",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "custom van interior",
+          "image": "https://images.pexels.com/photos/15240921/pexels-photo-15240921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Funding accelerates production",
+          "description": "With $5M, Grounded ramps up production and secures fleet orders, scaling fast in a growing market.",
+          "visual_hint": "Assembly line, van in production",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "van assembly line",
+          "image": "https://images.pexels.com/photos/32980265/pexels-photo-32980265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals will follow, but who leads?",
+          "description": "Competitors will likely enter the space, but Grounded's head start gives it a crucial edge.",
+          "visual_hint": "Hand holding van key, competition imagery",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "van key hand",
+          "image": "https://images.pexels.com/photos/8482876/pexels-photo-8482876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ready to customize your van?",
+          "description": "Visit Grounded's site to explore options and get ahead of the trend before competitors catch up.",
+          "visual_hint": "CTA button, van with custom paint",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "custom painted van",
+          "image": "https://images.pexels.com/photos/38953355/pexels-photo-38953355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/DSC07113B.jpg?resize=1200,686",
+      "savedAt": "2026-08-18T10:18:33.430Z",
+      "sourceId": "0fdff59db089a426d4abaa93c083e550"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "whisker-s-ai-powered-litter-robot-thinks-my-cats-s",
       "prompt_version": "1.0.0",
       "status": "published",
