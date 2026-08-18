@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-8217-s-camera-equipped-airpods-appear-in-lea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+  "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+  "pubDate": "2026-08-18T09:00:01.000Z",
+  "slides": [
+    "Apple's camera AirPods leaked—what are they for?",
+    "The video shows cameras embedded in the charging case.",
+    "But the case isn't for photos—it's for spatial audio.",
+    "Next AirPods could map your room to enhance sound.",
+    "Test your current AirPods' spatial audio before upgrading."
+  ],
+  "thread_text": [
+    "1. Why cameras in your ears?\n\nApple's leaked AirPods case has cameras, but they're not for photos. They're mapping your room for spatial audio.",
+    "2. The twist: sound sees you\n\nThe cameras analyze your room's geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+    "3. Not a camera, a sensor\n\nIt's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+    "4. The consequence: no more static audio\n\nYour AirPods will recreate a concert hall in your living room. But it only works if the room matches the sound profile.",
+    "5. Test before you upgrade\n\nOpen your current AirPods and play a spatial audio track—move around. Does the sound stay anchored? If not, hold off on buying."
+  ],
+  "video_script": [
+    "Apple's new AirPods have cameras in the case.",
+    "Not for photos—for mapping your room.",
+    "This enables spatial audio that adapts to space.",
+    "Your sound changes with walls and furniture.",
+    "Test current AirPods' spatial audio before upgrading."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why cameras in your ears?\n\nApple's leaked AirPods case has cameras, but they're not for photos. They're mapping your room for spatial audio.",
+        "2. The twist: sound sees you\n\nThe cameras analyze your room's geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+        "3. Not a camera, a sensor\n\nIt's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+        "4. The consequence: no more static audio\n\nYour AirPods will recreate a concert hall in your living room. But it only works if the room matches the sound profile.",
+        "5. Test before you upgrade\n\nOpen your current AirPods and play a spatial audio track—move around. Does the sound stay anchored? If not, hold off on buying."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple's new AirPods have cameras in the case.",
+        "Not for photos—for mapping your room.",
+        "This enables spatial audio that adapts to space.",
+        "Your sound changes with walls and furniture.",
+        "Test current AirPods' spatial audio before upgrading."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next pair of AirPods might have cameras built into the charging case—but they won't take a single photo. 🎧\n\nThe leaked video shows the cameras are actually sensors that scan your room's walls, furniture, and your position. That data gets used to map the space around you, so the audio adjusts in real time to match the room's shape. It's spatial audio that finally \"sees\" where you're sitting.\n\nFor anyone mixing or mastering sound, this means your headphones could soon recreate a club or studio environment based on your actual room—not a generic preset. But that also means a cluttered, uneven space might mess with the mix.\n\nBefore you upgrade, open your current AirPods, play a spatial audio track, and walk around the room. Does the sound stay locked in place? If it drifts, the new sensor might be exactly what you're missing—or just a reason to wait. 🤔"
+    }
+  },
+  "instagram_caption": "Your next pair of AirPods might have cameras built into the charging case—but they won't take a single photo. 🎧\n\nThe leaked video shows the cameras are actually sensors that scan your room's walls, furniture, and your position. That data gets used to map the space around you, so the audio adjusts in real time to match the room's shape. It's spatial audio that finally \"sees\" where you're sitting.\n\nFor anyone mixing or mastering sound, this means your headphones could soon recreate a club or studio environment based on your actual room—not a generic preset. But that also means a cluttered, uneven space might mess with the mix.\n\nBefore you upgrade, open your current AirPods, play a spatial audio track, and walk around the room. Does the sound stay locked in place? If it drifts, the new sensor might be exactly what you're missing—or just a reason to wait. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why cameras in your ears?",
+      "description": "Apple's leaked AirPods case has cameras, but they're not for photos. They map your room for spatial audio.",
+      "visual_hint": "Camera lens close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "camera lens macro"
+    },
+    {
+      "hook": "Sound sees you",
+      "description": "The cameras analyze room geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+      "visual_hint": "Room with sound waves",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "living room interior",
+      "image": "https://images.pexels.com/photos/30386991/pexels-photo-30386991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not a camera, a sensor",
+      "description": "It's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+      "visual_hint": "Sensor scanning room",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sensor device",
+      "image": "https://images.pexels.com/photos/7848351/pexels-photo-7848351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more static audio",
+      "description": "Your AirPods will recreate a concert hall in your living room. But only if the room matches the sound profile.",
+      "visual_hint": "Person listening, room mapping",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person headphones",
+      "image": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test before you upgrade",
+      "description": "Play a spatial audio track on your current AirPods and move around. If the sound doesn't stay anchored, hold off buying.",
+      "visual_hint": "AirPods and phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "airpods case",
+      "image": "https://images.pexels.com/photos/7424282/pexels-photo-7424282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-18T12:26:58.669Z",
+  "sourceId": "439076f091e64b6bdf7bd58b5558c228"
+}

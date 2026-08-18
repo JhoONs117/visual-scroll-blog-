@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "alvys-launches-ai-agents-for-freight-tms-workflows",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Alvys launches AI agents for freight TMS workflows",
+  "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+  "pubDate": "Tue, 18 Aug 2026 12:00:00 +0000",
+  "slides": [
+    "Can Alvys' AI agents finally eliminate freight manual work?",
+    "They automate dispatch, tracking, and billing in one TMS.",
+    "Unlike copilots, these agents execute tasks autonomously end-to-end.",
+    "Your team stops chasing updates—agents handle exceptions proactively.",
+    "Pilot one workflow this month or risk losing your edge."
+  ],
+  "thread_text": [
+    "1. AI agents are here\n\nThey don't just suggest. They execute. Dispatch, tracking, billing—all automated in one TMS without a human in the loop.\n\n2. End-to-end autonomy\n\nDon't confuse this with copilots. These agents handle the whole task, from start to finish, intervening only when something breaks.\n\n3. Stop chasing updates\n\nYour team stops monitoring every status. Agents proactively flag and fix exceptions, so you focus on strategy, not follow-ups.\n\n4. The edge narrows fast\n\nIf you're still doing manual work your rivals automated last month, you're not just behind—you're getting left.\n\n5. Try one workflow now\n\nPick one dispatch process. Automate it this week. See if your team gets back two hours. What's stopping you?"
+  ],
+  "video_script": [
+    "AI agents now handle your freight tasks alone.",
+    "Not copilots, they act from start to finish.",
+    "Your team stops chasing shipment updates. Agent fixes.",
+    "Manual work is losing you the race.",
+    "Automate one workflow this week or fall behind."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI agents are here\n\nThey don't just suggest. They execute. Dispatch, tracking, billing—all automated in one TMS without a human in the loop.\n\n2. End-to-end autonomy\n\nDon't confuse this with copilots. These agents handle the whole task, from start to finish, intervening only when something breaks.\n\n3. Stop chasing updates\n\nYour team stops monitoring every status. Agents proactively flag and fix exceptions, so you focus on strategy, not follow-ups.\n\n4. The edge narrows fast\n\nIf you're still doing manual work your rivals automated last month, you're not just behind—you're getting left.\n\n5. Try one workflow now\n\nPick one dispatch process. Automate it this week. See if your team gets back two hours. What's stopping you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents now handle your freight tasks alone.",
+        "Not copilots, they act from start to finish.",
+        "Your team stops chasing shipment updates. Agent fixes.",
+        "Manual work is losing you the race.",
+        "Automate one workflow this week or fall behind."
+      ]
+    },
+    "instagram": {
+      "caption": "Dispatch, tracking, and billing now run themselves inside one TMS—no human clicking through each step. 🚚\n\nAlvys just rolled out AI agents that execute freight workflows end-to-end, not just suggest next moves like copilots do. They handle exceptions proactively, flagging issues and fixing them before your team even opens the dashboard.\n\nStop chasing status updates. Your team shifts from monitoring every load to handling only what actually breaks. That's hours back per day, not minutes. ⏱️\n\nPick one dispatch process, automate it this week, and measure the time you get back. What's stopping you from piloting that single workflow now?"
+    }
+  },
+  "instagram_caption": "Dispatch, tracking, and billing now run themselves inside one TMS—no human clicking through each step. 🚚\n\nAlvys just rolled out AI agents that execute freight workflows end-to-end, not just suggest next moves like copilots do. They handle exceptions proactively, flagging issues and fixing them before your team even opens the dashboard.\n\nStop chasing status updates. Your team shifts from monitoring every load to handling only what actually breaks. That's hours back per day, not minutes. ⏱️\n\nPick one dispatch process, automate it this week, and measure the time you get back. What's stopping you from piloting that single workflow now?",
+  "carousel_slides": [
+    {
+      "hook": "Copilots suggest. These agents execute.",
+      "description": "Alvys AI agents automate dispatch, tracking, and billing end-to-end, eliminating manual work. Your team stops chasing updates and focuses on strategy instead.",
+      "visual_hint": "Futuristic control room with AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "control room computers"
+    },
+    {
+      "hook": "No human in the loop needed.",
+      "description": "Unlike copilots, Alvys agents execute tasks autonomously from start to finish. They intervene only when something breaks, so your team can trust the process.",
+      "visual_hint": "Robot arm assembling with precision",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "industrial robot arm",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop chasing status updates.",
+      "description": "Agents proactively flag and fix exceptions in dispatch, tracking, and billing. Your team stops monitoring every status and focuses on high-value work.",
+      "visual_hint": "Dashboard with alert icons",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer dashboard screen",
+      "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual work is a losing game.",
+      "description": "If rivals automated last month, you're not just behind—you're getting left. Alvys gives you the edge to compete without drowning in follow-ups.",
+      "visual_hint": "Hourglass with sand running out",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass sand timer",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot one workflow this month.",
+      "description": "Pick one dispatch process and automate it now. See if your team gets back two hours. Comment 'AI' to start or visit the link in bio.",
+      "visual_hint": "Hand clicking 'Start' button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand pressing button",
+      "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/9574336/pexels-photo-9574336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-18T12:26:30.461Z",
+  "sourceId": "ae374bc00228160975e78d3001a6f6c3"
+}

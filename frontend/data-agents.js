@@ -3,6 +3,310 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-8217-s-camera-equipped-airpods-appear-in-lea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "pubDate": "2026-08-18T09:00:01.000Z",
+      "slides": [
+        "Apple's camera AirPods leaked—what are they for?",
+        "The video shows cameras embedded in the charging case.",
+        "But the case isn't for photos—it's for spatial audio.",
+        "Next AirPods could map your room to enhance sound.",
+        "Test your current AirPods' spatial audio before upgrading."
+      ],
+      "thread_text": [
+        "1. Why cameras in your ears?\n\nApple's leaked AirPods case has cameras, but they're not for photos. They're mapping your room for spatial audio.",
+        "2. The twist: sound sees you\n\nThe cameras analyze your room's geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+        "3. Not a camera, a sensor\n\nIt's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+        "4. The consequence: no more static audio\n\nYour AirPods will recreate a concert hall in your living room. But it only works if the room matches the sound profile.",
+        "5. Test before you upgrade\n\nOpen your current AirPods and play a spatial audio track—move around. Does the sound stay anchored? If not, hold off on buying."
+      ],
+      "video_script": [
+        "Apple's new AirPods have cameras in the case.",
+        "Not for photos—for mapping your room.",
+        "This enables spatial audio that adapts to space.",
+        "Your sound changes with walls and furniture.",
+        "Test current AirPods' spatial audio before upgrading."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why cameras in your ears?\n\nApple's leaked AirPods case has cameras, but they're not for photos. They're mapping your room for spatial audio.",
+            "2. The twist: sound sees you\n\nThe cameras analyze your room's geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+            "3. Not a camera, a sensor\n\nIt's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+            "4. The consequence: no more static audio\n\nYour AirPods will recreate a concert hall in your living room. But it only works if the room matches the sound profile.",
+            "5. Test before you upgrade\n\nOpen your current AirPods and play a spatial audio track—move around. Does the sound stay anchored? If not, hold off on buying."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple's new AirPods have cameras in the case.",
+            "Not for photos—for mapping your room.",
+            "This enables spatial audio that adapts to space.",
+            "Your sound changes with walls and furniture.",
+            "Test current AirPods' spatial audio before upgrading."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next pair of AirPods might have cameras built into the charging case—but they won't take a single photo. 🎧\n\nThe leaked video shows the cameras are actually sensors that scan your room's walls, furniture, and your position. That data gets used to map the space around you, so the audio adjusts in real time to match the room's shape. It's spatial audio that finally \"sees\" where you're sitting.\n\nFor anyone mixing or mastering sound, this means your headphones could soon recreate a club or studio environment based on your actual room—not a generic preset. But that also means a cluttered, uneven space might mess with the mix.\n\nBefore you upgrade, open your current AirPods, play a spatial audio track, and walk around the room. Does the sound stay locked in place? If it drifts, the new sensor might be exactly what you're missing—or just a reason to wait. 🤔"
+        }
+      },
+      "instagram_caption": "Your next pair of AirPods might have cameras built into the charging case—but they won't take a single photo. 🎧\n\nThe leaked video shows the cameras are actually sensors that scan your room's walls, furniture, and your position. That data gets used to map the space around you, so the audio adjusts in real time to match the room's shape. It's spatial audio that finally \"sees\" where you're sitting.\n\nFor anyone mixing or mastering sound, this means your headphones could soon recreate a club or studio environment based on your actual room—not a generic preset. But that also means a cluttered, uneven space might mess with the mix.\n\nBefore you upgrade, open your current AirPods, play a spatial audio track, and walk around the room. Does the sound stay locked in place? If it drifts, the new sensor might be exactly what you're missing—or just a reason to wait. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why cameras in your ears?",
+          "description": "Apple's leaked AirPods case has cameras, but they're not for photos. They map your room for spatial audio.",
+          "visual_hint": "Camera lens close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "camera lens macro"
+        },
+        {
+          "hook": "Sound sees you",
+          "description": "The cameras analyze room geometry to adjust audio in real time. Your music adapts to walls, furniture, and your position.",
+          "visual_hint": "Room with sound waves",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "living room interior",
+          "image": "https://images.pexels.com/photos/30386991/pexels-photo-30386991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not a camera, a sensor",
+          "description": "It's not about capturing images—it's about capturing space. The case becomes a spatial scanner for personalized sound.",
+          "visual_hint": "Sensor scanning room",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sensor device",
+          "image": "https://images.pexels.com/photos/7848351/pexels-photo-7848351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No more static audio",
+          "description": "Your AirPods will recreate a concert hall in your living room. But only if the room matches the sound profile.",
+          "visual_hint": "Person listening, room mapping",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person headphones",
+          "image": "https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test before you upgrade",
+          "description": "Play a spatial audio track on your current AirPods and move around. If the sound doesn't stay anchored, hold off buying.",
+          "visual_hint": "AirPods and phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "airpods case",
+          "image": "https://images.pexels.com/photos/7424282/pexels-photo-7424282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-18T12:26:58.669Z",
+      "sourceId": "439076f091e64b6bdf7bd58b5558c228"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "reach-capital-raises-265m-fund-v-to-back-ai-founde",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "slides": [
+        "Can $265M expand human potential, or just hype?",
+        "Reach Capital's fifth fund targets AI education startups.",
+        "Most capital chases automation, not human growth.",
+        "Founders with this focus now access fresh funding.",
+        "Decide: does your AI amplify people or replace them?"
+      ],
+      "thread_text": [
+        "1. $265M: Hope or Hype?\n\nReach Capital just closed its fifth fund targeting AI education. The twist: most of that capital is betting on automation, not human growth.",
+        "2. Automation Wins\n\nWhile the fund aims at \"expanding human potential,\" the majority of edtech startups focus on replacing teachers or cutting costs, not on developing students.",
+        "3. The Founders' Shift\n\nA new wave of founders is now accessing fresh funding specifically for AI tools that augment human abilities. The catch: they're the exception, not the rule.",
+        "4. The Real Test\n\nThe question isn't whether AI can teach math faster. It's whether these tools make learners more capable, curious, or creative — or just more efficient at filling bubbles.",
+        "5. Your Move\n\nList three AI tools you use daily. For each, ask: does it amplify your judgment or just automate your task? If it's the latter, replace it this week."
+      ],
+      "video_script": [
+        "Reach Capital raised 265 million for AI education.",
+        "But most money backs automation, not human growth.",
+        "Founders with a different focus get funding now.",
+        "Will AI amplify or replace us?",
+        "You decide; test one tool this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $265M: Hope or Hype?\n\nReach Capital just closed its fifth fund targeting AI education. The twist: most of that capital is betting on automation, not human growth.",
+            "2. Automation Wins\n\nWhile the fund aims at \"expanding human potential,\" the majority of edtech startups focus on replacing teachers or cutting costs, not on developing students.",
+            "3. The Founders' Shift\n\nA new wave of founders is now accessing fresh funding specifically for AI tools that augment human abilities. The catch: they're the exception, not the rule.",
+            "4. The Real Test\n\nThe question isn't whether AI can teach math faster. It's whether these tools make learners more capable, curious, or creative — or just more efficient at filling bubbles.",
+            "5. Your Move\n\nList three AI tools you use daily. For each, ask: does it amplify your judgment or just automate your task? If it's the latter, replace it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Reach Capital raised 265 million for AI education.",
+            "But most money backs automation, not human growth.",
+            "Founders with a different focus get funding now.",
+            "Will AI amplify or replace us?",
+            "You decide; test one tool this week."
+          ]
+        },
+        "instagram": {
+          "caption": "$265M just landed for AI that’s supposed to “expand human potential”—but most edtech money actually goes to automating teachers, not empowering students. 🤖\n\nReach Capital’s fifth fund is backing the exception: founders building tools that augment people, not replace them. The catch? Those founders are still a minority in a market obsessed with cost-cutting.\n\nFor you: if you create or publish content, this shifts which AI tools get built. The ones that sharpen your judgment? Funded. The ones that just speed up your output? Also funded—and louder. 🎙️\n\nList three AI tools you use daily. Does each amplify your thinking or just finish your sentences? If it’s the latter, swap one this week for something that stretches you. 🧠"
+        }
+      },
+      "instagram_caption": "$265M just landed for AI that’s supposed to “expand human potential”—but most edtech money actually goes to automating teachers, not empowering students. 🤖\n\nReach Capital’s fifth fund is backing the exception: founders building tools that augment people, not replace them. The catch? Those founders are still a minority in a market obsessed with cost-cutting.\n\nFor you: if you create or publish content, this shifts which AI tools get built. The ones that sharpen your judgment? Funded. The ones that just speed up your output? Also funded—and louder. 🎙️\n\nList three AI tools you use daily. Does each amplify your thinking or just finish your sentences? If it’s the latter, swap one this week for something that stretches you. 🧠",
+      "carousel_slides": [
+        {
+          "hook": "Can $265M expand human potential or hype?",
+          "description": "Reach Capital's new fund backs AI education, yet most money chases automation over real student growth.",
+          "visual_hint": "Graph splitting into two paths",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "fork road sign"
+        },
+        {
+          "hook": "Automation wins, people lose.",
+          "description": "Fund targets 'expanding human potential,' but edtech startups focus on replacing teachers and cutting costs.",
+          "visual_hint": "Robot replacing human teacher",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "factory robot arm",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fresh funding for founders who amplify humans.",
+          "description": "A new wave of founders now accesses capital specifically for AI that augments abilities, not replaces them.",
+          "visual_hint": "Human hand and AI hand meeting",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "handshake robot hand",
+          "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Will AI make learners more capable?",
+          "description": "The real test: does AI boost curiosity and creativity, or just efficiency in filling bubbles?",
+          "visual_hint": "Brain with gears and spark",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "lightbulb brain",
+          "image": "https://images.pexels.com/photos/9228397/pexels-photo-9228397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your AI tools.",
+          "description": "List three AI tools you use daily. Ask: amplify judgment or automate task? Replace if the latter.",
+          "visual_hint": "Checklist with AI icons",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "list clipboard",
+          "image": "https://images.pexels.com/photos/8489915/pexels-photo-8489915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
+      "savedAt": "2026-08-18T12:26:44.682Z",
+      "sourceId": "e90ca461b27dc48f447a07920e90ece4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "alvys-launches-ai-agents-for-freight-tms-workflows",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0000",
+      "slides": [
+        "Can Alvys' AI agents finally eliminate freight manual work?",
+        "They automate dispatch, tracking, and billing in one TMS.",
+        "Unlike copilots, these agents execute tasks autonomously end-to-end.",
+        "Your team stops chasing updates—agents handle exceptions proactively.",
+        "Pilot one workflow this month or risk losing your edge."
+      ],
+      "thread_text": [
+        "1. AI agents are here\n\nThey don't just suggest. They execute. Dispatch, tracking, billing—all automated in one TMS without a human in the loop.\n\n2. End-to-end autonomy\n\nDon't confuse this with copilots. These agents handle the whole task, from start to finish, intervening only when something breaks.\n\n3. Stop chasing updates\n\nYour team stops monitoring every status. Agents proactively flag and fix exceptions, so you focus on strategy, not follow-ups.\n\n4. The edge narrows fast\n\nIf you're still doing manual work your rivals automated last month, you're not just behind—you're getting left.\n\n5. Try one workflow now\n\nPick one dispatch process. Automate it this week. See if your team gets back two hours. What's stopping you?"
+      ],
+      "video_script": [
+        "AI agents now handle your freight tasks alone.",
+        "Not copilots, they act from start to finish.",
+        "Your team stops chasing shipment updates. Agent fixes.",
+        "Manual work is losing you the race.",
+        "Automate one workflow this week or fall behind."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI agents are here\n\nThey don't just suggest. They execute. Dispatch, tracking, billing—all automated in one TMS without a human in the loop.\n\n2. End-to-end autonomy\n\nDon't confuse this with copilots. These agents handle the whole task, from start to finish, intervening only when something breaks.\n\n3. Stop chasing updates\n\nYour team stops monitoring every status. Agents proactively flag and fix exceptions, so you focus on strategy, not follow-ups.\n\n4. The edge narrows fast\n\nIf you're still doing manual work your rivals automated last month, you're not just behind—you're getting left.\n\n5. Try one workflow now\n\nPick one dispatch process. Automate it this week. See if your team gets back two hours. What's stopping you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents now handle your freight tasks alone.",
+            "Not copilots, they act from start to finish.",
+            "Your team stops chasing shipment updates. Agent fixes.",
+            "Manual work is losing you the race.",
+            "Automate one workflow this week or fall behind."
+          ]
+        },
+        "instagram": {
+          "caption": "Dispatch, tracking, and billing now run themselves inside one TMS—no human clicking through each step. 🚚\n\nAlvys just rolled out AI agents that execute freight workflows end-to-end, not just suggest next moves like copilots do. They handle exceptions proactively, flagging issues and fixing them before your team even opens the dashboard.\n\nStop chasing status updates. Your team shifts from monitoring every load to handling only what actually breaks. That's hours back per day, not minutes. ⏱️\n\nPick one dispatch process, automate it this week, and measure the time you get back. What's stopping you from piloting that single workflow now?"
+        }
+      },
+      "instagram_caption": "Dispatch, tracking, and billing now run themselves inside one TMS—no human clicking through each step. 🚚\n\nAlvys just rolled out AI agents that execute freight workflows end-to-end, not just suggest next moves like copilots do. They handle exceptions proactively, flagging issues and fixing them before your team even opens the dashboard.\n\nStop chasing status updates. Your team shifts from monitoring every load to handling only what actually breaks. That's hours back per day, not minutes. ⏱️\n\nPick one dispatch process, automate it this week, and measure the time you get back. What's stopping you from piloting that single workflow now?",
+      "carousel_slides": [
+        {
+          "hook": "Copilots suggest. These agents execute.",
+          "description": "Alvys AI agents automate dispatch, tracking, and billing end-to-end, eliminating manual work. Your team stops chasing updates and focuses on strategy instead.",
+          "visual_hint": "Futuristic control room with AI",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "control room computers"
+        },
+        {
+          "hook": "No human in the loop needed.",
+          "description": "Unlike copilots, Alvys agents execute tasks autonomously from start to finish. They intervene only when something breaks, so your team can trust the process.",
+          "visual_hint": "Robot arm assembling with precision",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "industrial robot arm",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop chasing status updates.",
+          "description": "Agents proactively flag and fix exceptions in dispatch, tracking, and billing. Your team stops monitoring every status and focuses on high-value work.",
+          "visual_hint": "Dashboard with alert icons",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer dashboard screen",
+          "image": "https://images.pexels.com/photos/7681671/pexels-photo-7681671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual work is a losing game.",
+          "description": "If rivals automated last month, you're not just behind—you're getting left. Alvys gives you the edge to compete without drowning in follow-ups.",
+          "visual_hint": "Hourglass with sand running out",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hourglass sand timer",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pilot one workflow this month.",
+          "description": "Pick one dispatch process and automate it now. See if your team gets back two hours. Comment 'AI' to start or visit the link in bio.",
+          "visual_hint": "Hand clicking 'Start' button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand pressing button",
+          "image": "https://images.pexels.com/photos/15175715/pexels-photo-15175715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/9574336/pexels-photo-9574336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-18T12:26:30.461Z",
+      "sourceId": "ae374bc00228160975e78d3001a6f6c3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "detroit-startup-grounded-raises-5m-to-customize-el",
       "prompt_version": "1.0.0",
       "status": "published",

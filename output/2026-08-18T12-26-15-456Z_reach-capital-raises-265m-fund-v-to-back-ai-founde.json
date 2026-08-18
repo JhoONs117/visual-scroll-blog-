@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "reach-capital-raises-265m-fund-v-to-back-ai-founde",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+  "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+  "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+  "slides": [
+    "Can $265M expand human potential, or just hype?",
+    "Reach Capital's fifth fund targets AI education startups.",
+    "Most capital chases automation, not human growth.",
+    "Founders with this focus now access fresh funding.",
+    "Decide: does your AI amplify people or replace them?"
+  ],
+  "thread_text": [
+    "1. $265M: Hope or Hype?\n\nReach Capital just closed its fifth fund targeting AI education. The twist: most of that capital is betting on automation, not human growth.",
+    "2. Automation Wins\n\nWhile the fund aims at \"expanding human potential,\" the majority of edtech startups focus on replacing teachers or cutting costs, not on developing students.",
+    "3. The Founders' Shift\n\nA new wave of founders is now accessing fresh funding specifically for AI tools that augment human abilities. The catch: they're the exception, not the rule.",
+    "4. The Real Test\n\nThe question isn't whether AI can teach math faster. It's whether these tools make learners more capable, curious, or creative — or just more efficient at filling bubbles.",
+    "5. Your Move\n\nList three AI tools you use daily. For each, ask: does it amplify your judgment or just automate your task? If it's the latter, replace it this week."
+  ],
+  "video_script": [
+    "Reach Capital raised 265 million for AI education.",
+    "But most money backs automation, not human growth.",
+    "Founders with a different focus get funding now.",
+    "Will AI amplify or replace us?",
+    "You decide; test one tool this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $265M: Hope or Hype?\n\nReach Capital just closed its fifth fund targeting AI education. The twist: most of that capital is betting on automation, not human growth.",
+        "2. Automation Wins\n\nWhile the fund aims at \"expanding human potential,\" the majority of edtech startups focus on replacing teachers or cutting costs, not on developing students.",
+        "3. The Founders' Shift\n\nA new wave of founders is now accessing fresh funding specifically for AI tools that augment human abilities. The catch: they're the exception, not the rule.",
+        "4. The Real Test\n\nThe question isn't whether AI can teach math faster. It's whether these tools make learners more capable, curious, or creative — or just more efficient at filling bubbles.",
+        "5. Your Move\n\nList three AI tools you use daily. For each, ask: does it amplify your judgment or just automate your task? If it's the latter, replace it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Reach Capital raised 265 million for AI education.",
+        "But most money backs automation, not human growth.",
+        "Founders with a different focus get funding now.",
+        "Will AI amplify or replace us?",
+        "You decide; test one tool this week."
+      ]
+    },
+    "instagram": {
+      "caption": "$265M just landed for AI that’s supposed to “expand human potential”—but most edtech money actually goes to automating teachers, not empowering students. 🤖\n\nReach Capital’s fifth fund is backing the exception: founders building tools that augment people, not replace them. The catch? Those founders are still a minority in a market obsessed with cost-cutting.\n\nFor you: if you create or publish content, this shifts which AI tools get built. The ones that sharpen your judgment? Funded. The ones that just speed up your output? Also funded—and louder. 🎙️\n\nList three AI tools you use daily. Does each amplify your thinking or just finish your sentences? If it’s the latter, swap one this week for something that stretches you. 🧠"
+    }
+  },
+  "instagram_caption": "$265M just landed for AI that’s supposed to “expand human potential”—but most edtech money actually goes to automating teachers, not empowering students. 🤖\n\nReach Capital’s fifth fund is backing the exception: founders building tools that augment people, not replace them. The catch? Those founders are still a minority in a market obsessed with cost-cutting.\n\nFor you: if you create or publish content, this shifts which AI tools get built. The ones that sharpen your judgment? Funded. The ones that just speed up your output? Also funded—and louder. 🎙️\n\nList three AI tools you use daily. Does each amplify your thinking or just finish your sentences? If it’s the latter, swap one this week for something that stretches you. 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Can $265M expand human potential or hype?",
+      "description": "Reach Capital's new fund backs AI education, yet most money chases automation over real student growth.",
+      "visual_hint": "Graph splitting into two paths",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fork road sign"
+    },
+    {
+      "hook": "Automation wins, people lose.",
+      "description": "Fund targets 'expanding human potential,' but edtech startups focus on replacing teachers and cutting costs.",
+      "visual_hint": "Robot replacing human teacher",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fresh funding for founders who amplify humans.",
+      "description": "A new wave of founders now accesses capital specifically for AI that augments abilities, not replaces them.",
+      "visual_hint": "Human hand and AI hand meeting",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "handshake robot hand",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will AI make learners more capable?",
+      "description": "The real test: does AI boost curiosity and creativity, or just efficiency in filling bubbles?",
+      "visual_hint": "Brain with gears and spark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "lightbulb brain",
+      "image": "https://images.pexels.com/photos/9228397/pexels-photo-9228397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your AI tools.",
+      "description": "List three AI tools you use daily. Ask: amplify judgment or automate task? Replace if the latter.",
+      "visual_hint": "Checklist with AI icons",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "list clipboard",
+      "image": "https://images.pexels.com/photos/8489915/pexels-photo-8489915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
+  "savedAt": "2026-08-18T12:26:44.682Z",
+  "sourceId": "e90ca461b27dc48f447a07920e90ece4"
+}
