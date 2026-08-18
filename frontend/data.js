@@ -2,6 +2,102 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-s-new-macos-update-reportedly-contains-a-vid",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+    "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+    "pubDate": "Tue, 18 Aug 2026 13:28:51 +0000",
+    "slides": [
+      "Why is Apple hiding AirPods cameras in macOS?",
+      "The update includes a hidden setup video",
+      "Not for photos—likely spatial audio or gestures",
+      "Your next AirPods could track your head movements",
+      "Test the update: search for the hidden video file"
+    ],
+    "thread_text": [
+      "1. AirPods cameras: why hide them?\n\nApple's latest macOS update quietly includes a setup video for AirPods with built-in cameras.\n\n2. The video is hidden in the code\n\nThe setup video isn't advertised—it's tucked deep inside the system files, found by developers.\n\n3. Not for photos—think spatial audio\n\nThe cameras likely track your head for immersive audio or gesture controls, not for taking pictures.\n\n4. Your next AirPods could read your head\n\nWith head tracking, AirPods might follow your movements to adjust sound or respond to nods.\n\n5. Find the hidden video yourself\n\nSearch your Mac's system files for 'AirPods Setup'—if you spot it, you're ahead of the rumors."
+    ],
+    "video_script": [
+      "Apple hid cameras in AirPods. Here's why.",
+      "The setup video is hidden in macOS.",
+      "It's not for photos, but gestures.",
+      "Head tracking will change how you interact.",
+      "Open your Mac and find the video."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AirPods cameras: why hide them?\n\nApple's latest macOS update quietly includes a setup video for AirPods with built-in cameras.\n\n2. The video is hidden in the code\n\nThe setup video isn't advertised—it's tucked deep inside the system files, found by developers.\n\n3. Not for photos—think spatial audio\n\nThe cameras likely track your head for immersive audio or gesture controls, not for taking pictures.\n\n4. Your next AirPods could read your head\n\nWith head tracking, AirPods might follow your movements to adjust sound or respond to nods.\n\n5. Find the hidden video yourself\n\nSearch your Mac's system files for 'AirPods Setup'—if you spot it, you're ahead of the rumors."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple hid cameras in AirPods. Here's why.",
+          "The setup video is hidden in macOS.",
+          "It's not for photos, but gestures.",
+          "Head tracking will change how you interact.",
+          "Open your Mac and find the video."
+        ]
+      },
+      "instagram": {
+        "caption": "There’s a video of AirPods with cameras buried inside Apple’s latest macOS update.  \n\nThe file, spotted by developers, isn’t an ad—it’s a setup animation hidden in the system code. The cameras aren’t for photos; they’re likely for tracking your head to adjust audio or read gestures like nods.  \n\nFor you, this means your next pair of earbuds could follow your movements, changing how you record voiceovers or control edits hands-free.  \n\nIf you’re on the beta, search your Mac’s system files for “AirPods Setup” tonight—what do you think they’re really planning with that camera? 👀🎧🔍"
+      }
+    },
+    "instagram_caption": "There’s a video of AirPods with cameras buried inside Apple’s latest macOS update.  \n\nThe file, spotted by developers, isn’t an ad—it’s a setup animation hidden in the system code. The cameras aren’t for photos; they’re likely for tracking your head to adjust audio or read gestures like nods.  \n\nFor you, this means your next pair of earbuds could follow your movements, changing how you record voiceovers or control edits hands-free.  \n\nIf you’re on the beta, search your Mac’s system files for “AirPods Setup” tonight—what do you think they’re really planning with that camera? 👀🎧🔍",
+    "carousel_slides": [
+      {
+        "hook": "AirPods cameras: why hide them?",
+        "description": "Apple's macOS update quietly includes a setup video for AirPods with cameras, hidden deep in system files.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "macOS update screen"
+      },
+      {
+        "hook": "Hidden video in macOS code",
+        "description": "The setup video isn't advertised—developers found it tucked inside system files, sparking speculation about future AirPods.",
+        "visual_hint": "Folder with eye icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code files",
+        "image": "https://images.pexels.com/photos/5473401/pexels-photo-5473401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not for photos—think spatial audio",
+        "description": "The cameras likely track your head for immersive audio or gesture controls, not for taking pictures.",
+        "visual_hint": "Ear with sound waves",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "earbuds closeup",
+        "image": "https://images.pexels.com/photos/7623649/pexels-photo-7623649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next AirPods could read your head",
+        "description": "With head tracking, AirPods might follow your movements to adjust sound or respond to nods, changing how you interact.",
+        "visual_hint": "Head silhouette with arrows",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person wearing headphones",
+        "image": "https://images.pexels.com/photos/6333654/pexels-photo-6333654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Find the hidden video yourself",
+        "description": "Search your Mac's system files for 'AirPods Setup'—if you spot it, you're ahead of the rumors.",
+        "visual_hint": "Search bar with AirPods icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "MacBook search spotlight",
+        "image": "https://images.pexels.com/photos/5157280/pexels-photo-5157280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/PXL_20240909_184838058.PORTRAIT.jpg?resize=1200,900",
+    "savedAt": "2026-08-18T22:13:10.533Z",
+    "sourceId": "4e8aef4ab536e9c2d2cef7fdab502295"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-lays-out-new-security-changes-after-its-ai-",
     "prompt_version": "1.0.0",
     "status": "published",
