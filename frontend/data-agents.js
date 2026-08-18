@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "peacock-is-raising-prices-across-all-of-its-stream",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Peacock is raising prices across all of its streaming plans",
+      "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+      "pubDate": "Tue, 18 Aug 2026 15:26:31 +0000",
+      "slides": [
+        "Peacock's new prices—how much more will you pay?",
+        "Every tier increases, from ad-supported to premium.",
+        "But grandfathered subscribers may dodge increases.",
+        "Check your next bill or your budget needs adjusting.",
+        "Decide now: upgrade, downgrade, or switch services."
+      ],
+      "thread_text": [
+        "1. Price Hike Hidden?\n\nPeacock quietly raises all tiers, but grandfathered users might not feel it yet.",
+        "2. Who Pays More?\n\nNew subscribers face the full increase, while long-time users get a temporary pass.",
+        "3. Check Your Bill\n\nYour next statement reveals if you're grandfathered or facing the new rates.",
+        "4. Budget Alert\n\nIf you're not exempt, your monthly streaming cost just jumped—plan accordingly.",
+        "5. Act Now\n\nCompare your current plan with alternatives this week. Will you upgrade, downgrade, or switch?"
+      ],
+      "video_script": [
+        "Peacock prices rise across all plans.",
+        "Existing subscribers might avoid the increase.",
+        "Check your next bill to see.",
+        "Your budget may need adjusting now.",
+        "Decide: upgrade, downgrade, or switch today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Price Hike Hidden?\n\nPeacock quietly raises all tiers, but grandfathered users might not feel it yet.",
+            "2. Who Pays More?\n\nNew subscribers face the full increase, while long-time users get a temporary pass.",
+            "3. Check Your Bill\n\nYour next statement reveals if you're grandfathered or facing the new rates.",
+            "4. Budget Alert\n\nIf you're not exempt, your monthly streaming cost just jumped—plan accordingly.",
+            "5. Act Now\n\nCompare your current plan with alternatives this week. Will you upgrade, downgrade, or switch?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Peacock prices rise across all plans.",
+            "Existing subscribers might avoid the increase.",
+            "Check your next bill to see.",
+            "Your budget may need adjusting now.",
+            "Decide: upgrade, downgrade, or switch today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Peacock bill is about to go up—every single plan, from the ad-supported tier to Premium, is getting more expensive. 💸\n\nThe price hike hits all tiers, but there's a catch: if you're a grandfathered subscriber, you might be spared for now. New subscribers face the full increase immediately, while long-time users get a temporary pass.\n\nCheck your next statement this month—it will tell you exactly which group you're in. If you're not exempt, your monthly streaming cost just jumped, so plan your budget accordingly.\n\nFor anyone creating content or managing subscriptions, this is a direct hit to your monthly toolkit costs.\n\nBefore the new rate kicks in, will you upgrade, downgrade, or switch to another service this week? ⏳"
+        }
+      },
+      "instagram_caption": "Your Peacock bill is about to go up—every single plan, from the ad-supported tier to Premium, is getting more expensive. 💸\n\nThe price hike hits all tiers, but there's a catch: if you're a grandfathered subscriber, you might be spared for now. New subscribers face the full increase immediately, while long-time users get a temporary pass.\n\nCheck your next statement this month—it will tell you exactly which group you're in. If you're not exempt, your monthly streaming cost just jumped, so plan your budget accordingly.\n\nFor anyone creating content or managing subscriptions, this is a direct hit to your monthly toolkit costs.\n\nBefore the new rate kicks in, will you upgrade, downgrade, or switch to another service this week? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Your Peacock bill is about to jump",
+          "description": "Peacock raised prices across all tiers. New subscribers pay the full increase immediately, while grandfathered users may escape—check your plan now.",
+          "visual_hint": "Peacock logo with rising arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "streaming service interface"
+        },
+        {
+          "hook": "Who pays more?",
+          "description": "Every tier costs more, from ad-supported to premium. If you're not grandfathered, your monthly streaming cost just went up.",
+          "visual_hint": "Price tags on streaming plans",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "price tag closeup",
+          "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your next bill",
+          "description": "Your next statement tells you if you're exempt or facing the new rates. Open it now—don't get surprised later.",
+          "visual_hint": "Magnifying glass over bill",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget alert: streaming costs up",
+          "description": "If you're not grandfathered, budget adjustments are needed. One specific fact: premium tier likely increased most.",
+          "visual_hint": "Calculator and coins",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calculator coins budget",
+          "image": "https://images.pexels.com/photos/7111592/pexels-photo-7111592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decide: upgrade, downgrade, or switch",
+          "description": "Compare your current plan with alternatives this week. Check your bill and make a choice before next cycle.",
+          "visual_hint": "Three arrows: up, down, side",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "comparison chart plans",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800",
+      "savedAt": "2026-08-18T18:24:48.052Z",
+      "sourceId": "2b9b3cf50e863ee9f14d3fc952853f20"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-institutes-new-safeguards-after-hugging-fac",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "slides": [
+        "OpenAI's new safeguards: too late for Hugging Face?",
+        "The breach exposed model weights and user prompts.",
+        "Attackers exploited a dependency, not the AI itself.",
+        "Now every API call must pass stricter anomaly checks.",
+        "Audit your own AI supply chain before the next leak."
+      ],
+      "thread_text": [
+        "1. The AI's blind spot\n\nA breach at Hugging Face exposed model weights and user prompts, but the attack didn't touch the AI—it hit a dependency.",
+        "2. The real target\n\nAttackers exploited a third-party library, not the model. The AI's own defenses were never tested.",
+        "3. The new gate\n\nNow every API call must pass stricter anomaly checks. But this only works if your system flags behavior, not just signatures.",
+        "4. The supply chain trap\n\nYour AI's weakest link is the code it relies on. Audit every dependency before you deploy—not after.",
+        "5. Your next step\n\nRun a dependency scan on your AI stack today. If you haven't, you're one outdated package away from a leak."
+      ],
+      "video_script": [
+        "Hugging Face breach exposed model weights.",
+        "Attackers hit a dependency, not the model.",
+        "Now API calls face stricter anomaly checks.",
+        "Audit your supply chain before next leak.",
+        "Don't wait—check your dependencies today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI's blind spot\n\nA breach at Hugging Face exposed model weights and user prompts, but the attack didn't touch the AI—it hit a dependency.",
+            "2. The real target\n\nAttackers exploited a third-party library, not the model. The AI's own defenses were never tested.",
+            "3. The new gate\n\nNow every API call must pass stricter anomaly checks. But this only works if your system flags behavior, not just signatures.",
+            "4. The supply chain trap\n\nYour AI's weakest link is the code it relies on. Audit every dependency before you deploy—not after.",
+            "5. Your next step\n\nRun a dependency scan on your AI stack today. If you haven't, you're one outdated package away from a leak."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Hugging Face breach exposed model weights.",
+            "Attackers hit a dependency, not the model.",
+            "Now API calls face stricter anomaly checks.",
+            "Audit your supply chain before next leak.",
+            "Don't wait—check your dependencies today."
+          ]
+        },
+        "instagram": {
+          "caption": "A stolen cache of model weights and user prompts from Hugging Face didn’t come from the AI itself—it came from a third-party library the AI trusted. 🎯\n\nThe attackers never touched the model’s core. They walked in through an outdated dependency, the kind of code every AI stack silently relies on. Your prompts and outputs were exposed, not because the model failed, but because its supply chain did.\n\nNow every API call gets stricter anomaly checks. But if you build or publish with AI, that change only helps if your own system flags behavior, not just known signatures. 🛡️\n\nWhen was the last time you ran a full dependency scan on your AI stack? If you can’t answer with a date, you’re one outdated package away from a leak. 🔍"
+        }
+      },
+      "instagram_caption": "A stolen cache of model weights and user prompts from Hugging Face didn’t come from the AI itself—it came from a third-party library the AI trusted. 🎯\n\nThe attackers never touched the model’s core. They walked in through an outdated dependency, the kind of code every AI stack silently relies on. Your prompts and outputs were exposed, not because the model failed, but because its supply chain did.\n\nNow every API call gets stricter anomaly checks. But if you build or publish with AI, that change only helps if your own system flags behavior, not just known signatures. 🛡️\n\nWhen was the last time you ran a full dependency scan on your AI stack? If you can’t answer with a date, you’re one outdated package away from a leak. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Your AI's blind spot is its dependencies.",
+          "description": "Attackers hit a library, not the model. Hugging Face exposed weights and prompts—proof the weakest link is what you don't check.",
+          "visual_hint": "AI neural network with a break",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "What if the AI never saw the attack?",
+          "description": "Third-party library exploited, not the AI. The model's own defenses were irrelevant—your stack is only as strong as its weakest code.",
+          "visual_hint": "Explosion near a code library",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New gates: behavior checks over signatures.",
+          "description": "Every API call now flags anomaly patterns, not just known threats. This only works if your system learns what normal looks like.",
+          "visual_hint": "Magnifying glass over data stream",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cybersecurity technology",
+          "image": "https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI's weakest link: its own code.",
+          "description": "Audit every dependency before deploying—not after. One outdated package starts a chain reaction. Supply chain is the real target.",
+          "visual_hint": "Chain reaction of dependencies",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "supply chain logistics",
+          "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scan your AI stack today—save later.",
+          "description": "Run a dependency scan on your AI stack now. If you haven't, you're one outdated package away from a leak. Comment 'SCAN' for the checklist.",
+          "visual_hint": "Checklist with a magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "code audit checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-18T18:24:35.897Z",
+      "sourceId": "0bfb066bf07c5eb367bb46d8604e14e4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "chatgpt-is-getting-a-dedicated-mode-for-teens",
       "prompt_version": "1.0.0",
       "status": "published",

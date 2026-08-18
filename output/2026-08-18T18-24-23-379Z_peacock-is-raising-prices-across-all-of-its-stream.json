@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "peacock-is-raising-prices-across-all-of-its-stream",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Peacock is raising prices across all of its streaming plans",
+  "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+  "pubDate": "Tue, 18 Aug 2026 15:26:31 +0000",
+  "slides": [
+    "Peacock's new prices—how much more will you pay?",
+    "Every tier increases, from ad-supported to premium.",
+    "But grandfathered subscribers may dodge increases.",
+    "Check your next bill or your budget needs adjusting.",
+    "Decide now: upgrade, downgrade, or switch services."
+  ],
+  "thread_text": [
+    "1. Price Hike Hidden?\n\nPeacock quietly raises all tiers, but grandfathered users might not feel it yet.",
+    "2. Who Pays More?\n\nNew subscribers face the full increase, while long-time users get a temporary pass.",
+    "3. Check Your Bill\n\nYour next statement reveals if you're grandfathered or facing the new rates.",
+    "4. Budget Alert\n\nIf you're not exempt, your monthly streaming cost just jumped—plan accordingly.",
+    "5. Act Now\n\nCompare your current plan with alternatives this week. Will you upgrade, downgrade, or switch?"
+  ],
+  "video_script": [
+    "Peacock prices rise across all plans.",
+    "Existing subscribers might avoid the increase.",
+    "Check your next bill to see.",
+    "Your budget may need adjusting now.",
+    "Decide: upgrade, downgrade, or switch today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Price Hike Hidden?\n\nPeacock quietly raises all tiers, but grandfathered users might not feel it yet.",
+        "2. Who Pays More?\n\nNew subscribers face the full increase, while long-time users get a temporary pass.",
+        "3. Check Your Bill\n\nYour next statement reveals if you're grandfathered or facing the new rates.",
+        "4. Budget Alert\n\nIf you're not exempt, your monthly streaming cost just jumped—plan accordingly.",
+        "5. Act Now\n\nCompare your current plan with alternatives this week. Will you upgrade, downgrade, or switch?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Peacock prices rise across all plans.",
+        "Existing subscribers might avoid the increase.",
+        "Check your next bill to see.",
+        "Your budget may need adjusting now.",
+        "Decide: upgrade, downgrade, or switch today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Peacock bill is about to go up—every single plan, from the ad-supported tier to Premium, is getting more expensive. 💸\n\nThe price hike hits all tiers, but there's a catch: if you're a grandfathered subscriber, you might be spared for now. New subscribers face the full increase immediately, while long-time users get a temporary pass.\n\nCheck your next statement this month—it will tell you exactly which group you're in. If you're not exempt, your monthly streaming cost just jumped, so plan your budget accordingly.\n\nFor anyone creating content or managing subscriptions, this is a direct hit to your monthly toolkit costs.\n\nBefore the new rate kicks in, will you upgrade, downgrade, or switch to another service this week? ⏳"
+    }
+  },
+  "instagram_caption": "Your Peacock bill is about to go up—every single plan, from the ad-supported tier to Premium, is getting more expensive. 💸\n\nThe price hike hits all tiers, but there's a catch: if you're a grandfathered subscriber, you might be spared for now. New subscribers face the full increase immediately, while long-time users get a temporary pass.\n\nCheck your next statement this month—it will tell you exactly which group you're in. If you're not exempt, your monthly streaming cost just jumped, so plan your budget accordingly.\n\nFor anyone creating content or managing subscriptions, this is a direct hit to your monthly toolkit costs.\n\nBefore the new rate kicks in, will you upgrade, downgrade, or switch to another service this week? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your Peacock bill is about to jump",
+      "description": "Peacock raised prices across all tiers. New subscribers pay the full increase immediately, while grandfathered users may escape—check your plan now.",
+      "visual_hint": "Peacock logo with rising arrow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "streaming service interface"
+    },
+    {
+      "hook": "Who pays more?",
+      "description": "Every tier costs more, from ad-supported to premium. If you're not grandfathered, your monthly streaming cost just went up.",
+      "visual_hint": "Price tags on streaming plans",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "price tag closeup",
+      "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your next bill",
+      "description": "Your next statement tells you if you're exempt or facing the new rates. Open it now—don't get surprised later.",
+      "visual_hint": "Magnifying glass over bill",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Budget alert: streaming costs up",
+      "description": "If you're not grandfathered, budget adjustments are needed. One specific fact: premium tier likely increased most.",
+      "visual_hint": "Calculator and coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calculator coins budget",
+      "image": "https://images.pexels.com/photos/7111592/pexels-photo-7111592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Decide: upgrade, downgrade, or switch",
+      "description": "Compare your current plan with alternatives this week. Check your bill and make a choice before next cycle.",
+      "visual_hint": "Three arrows: up, down, side",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "comparison chart plans",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800",
+  "savedAt": "2026-08-18T18:24:48.052Z",
+  "sourceId": "2b9b3cf50e863ee9f14d3fc952853f20"
+}
