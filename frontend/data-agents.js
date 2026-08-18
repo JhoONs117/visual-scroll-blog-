@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "fairphone-is-launching-its-latest-repairable-phone",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fairphone is launching its latest repairable phone in the US too",
+      "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "slides": [
+        "Fairphone's US launch—will Americans finally repair?",
+        "Europe's repairable phone arrives with carrier support.",
+        "But US repair laws lag behind EU's right-to-repair.",
+        "You can now swap screens, batteries, and cameras yourself.",
+        "Test one: buy it, break it, fix it."
+      ],
+      "thread_text": [
+        "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+        "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+        "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+        "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+        "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+      ],
+      "video_script": [
+        "Fairphone's in America, but can you fix it?",
+        "Europe says yes, US laws lag behind.",
+        "Swap screens, batteries, cameras yourself in minutes.",
+        "We bought one, broke it, fixed it.",
+        "Check your state's right-to-repair now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+            "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+            "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+            "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+            "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Fairphone's in America, but can you fix it?",
+            "Europe says yes, US laws lag behind.",
+            "Swap screens, batteries, cameras yourself in minutes.",
+            "We bought one, broke it, fixed it.",
+            "Check your state's right-to-repair now."
+          ]
+        },
+        "instagram": {
+          "caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸"
+        }
+      },
+      "instagram_caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸",
+      "carousel_slides": [
+        {
+          "hook": "Can Americans finally fix their phones?",
+          "description": "Fairphone lands in the US with carrier support, but state laws still lag behind EU's right-to-repair, limiting true repairability.",
+          "visual_hint": "Fairphone box with US flag",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Fairphone smartphone box"
+        },
+        {
+          "hook": "EU forces repair, US doesn't",
+          "description": "The EU mandates repairability; US states don't. This modular phone arrives, but your rights are still limited.",
+          "visual_hint": "Map highlighting EU vs US",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "world map Europe",
+          "image": "https://images.pexels.com/photos/7235902/pexels-photo-7235902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Swap screens, cameras, batteries yourself",
+          "description": "Dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+          "visual_hint": "Hands swapping a camera module",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smartphone repair screwdriver",
+          "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "We broke it, then fixed it in 12 minutes",
+          "description": "We smashed the screen and replaced it. Cost: $50, not $300. Repair is fast and affordable.",
+          "visual_hint": "Broken screen being lifted",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "broken smartphone screen",
+          "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check your state's repair bill",
+          "description": "Visit your state legislature's website, find the right-to-repair bill, and contact your rep today.",
+          "visual_hint": "Finger pressing phone screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200",
+      "savedAt": "2026-08-18T14:24:17.960Z",
+      "sourceId": "ad5fb56f63808a71735452da86a1d964"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "warp-s-new-system-is-an-out-of-the-box-software-fa",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+      "slides": [
+        "Can Warp's factory outpace your current AI pipeline?",
+        "It ships ready for AI development, no assembly needed.",
+        "Yet it demands rethinking your team's entire workflow.",
+        "Your deployment cycles shrink from weeks to days now.",
+        "Test it on one legacy project before scaling further."
+      ],
+      "thread_text": [
+        "1. Outpace, or get left behind?\n\nWarp promises a factory that ships AI-ready. But speed here is measured in weeks, not months.",
+        "2. No assembly required\n\nIt arrives fully built for AI dev. Your old pipeline's missing pieces? Not its problem—yet it forces a full rework of your team's habits.",
+        "3. Deployment cycles shrink\n\nWeeks drop to days. The change is real, but it demands rethinking your entire workflow first.",
+        "4. Start with one legacy project\n\nThat's the test. Keep the rest running while you see if Warp's pace fits your reality.",
+        "5. Test your own pipeline today\n\nTake one legacy project, simulate the switch. If the logistics fail, was it worth the speed gain?"
+      ],
+      "video_script": [
+        "Warp's factory promises faster AI dev.",
+        "It arrives ready, no setup needed.",
+        "But your workflow must be rethought.",
+        "Deployment cycles shrink from weeks to days.",
+        "Test it on a legacy project first."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Outpace, or get left behind?\n\nWarp promises a factory that ships AI-ready. But speed here is measured in weeks, not months.",
+            "2. No assembly required\n\nIt arrives fully built for AI dev. Your old pipeline's missing pieces? Not its problem—yet it forces a full rework of your team's habits.",
+            "3. Deployment cycles shrink\n\nWeeks drop to days. The change is real, but it demands rethinking your entire workflow first.",
+            "4. Start with one legacy project\n\nThat's the test. Keep the rest running while you see if Warp's pace fits your reality.",
+            "5. Test your own pipeline today\n\nTake one legacy project, simulate the switch. If the logistics fail, was it worth the speed gain?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Warp's factory promises faster AI dev.",
+            "It arrives ready, no setup needed.",
+            "But your workflow must be rethought.",
+            "Deployment cycles shrink from weeks to days.",
+            "Test it on a legacy project first."
+          ]
+        },
+        "instagram": {
+          "caption": "Your entire AI deployment pipeline just got a lot harder to justify. Warp’s new system ships as a complete factory for AI development—no assembly required.\n\nBut it’s not plug-and-play for your team. It forces a full rework of how you build and ship. The payoff is real: deployment cycles drop from weeks to days.\n\nFor you, that means either your current workflow adapts or it becomes the bottleneck. 🏭\n\nTest it on one legacy project first—keep the rest running. If the switch works in two weeks, scale it. If it breaks, you’ve lost nothing. Ready to put your old pipeline under the microscope? 👀"
+        }
+      },
+      "instagram_caption": "Your entire AI deployment pipeline just got a lot harder to justify. Warp’s new system ships as a complete factory for AI development—no assembly required.\n\nBut it’s not plug-and-play for your team. It forces a full rework of how you build and ship. The payoff is real: deployment cycles drop from weeks to days.\n\nFor you, that means either your current workflow adapts or it becomes the bottleneck. 🏭\n\nTest it on one legacy project first—keep the rest running. If the switch works in two weeks, scale it. If it breaks, you’ve lost nothing. Ready to put your old pipeline under the microscope? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Can Warp's factory outpace your AI pipeline?",
+          "description": "Speed measured in weeks, not months. Warp ships AI-ready, forcing your team to rethink its workflow before deploying faster.",
+          "visual_hint": "Factory assembly line",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory assembly line"
+        },
+        {
+          "hook": "No assembly required for AI development",
+          "description": "It arrives fully built. Your old pipeline's missing pieces become irrelevant, but your team's habits need a full rework.",
+          "visual_hint": "Plug-and-play gear",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Deployment cycles shrink from weeks to days",
+          "description": "The change is real, but only after you rethink your entire workflow. Prepare for the shift before you see gains.",
+          "visual_hint": "Calendar with shrinking arrows",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "agile board sprint",
+          "image": "https://images.pexels.com/photos/15543114/pexels-photo-15543114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start with one legacy project",
+          "description": "Test Warp on a single project while the rest runs. If logistics fail, was the speed gain worth the disruption?",
+          "visual_hint": "Hand holding a single gear",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "legacy code paper stack",
+          "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your pipeline today",
+          "description": "Pick one legacy project, simulate the switch in a staging environment, and measure the deployment cycle impact.",
+          "visual_hint": "Checkmark on a project list",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop with code screen",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
+      "savedAt": "2026-08-18T14:24:03.607Z",
+      "sourceId": "0da80d9d513f763f5b04ea3d7a951155"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-8217-s-camera-equipped-airpods-appear-in-lea",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -124723,6 +124931,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pollo-allo-zenzero",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pollo allo zenzero",
+      "link": "https://ricette.giallozafferano.it/Pollo-allo-zenzero.html",
+      "pubDate": "Tue, 18 Aug 2026 15:42:00 +0200",
+      "content": "Pollo allo zenzero: un secondo piatto veloce e sfizioso Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Pollo allo zenzero /5 CONDIVIDI INVIA FOTO COMMENTA de es nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 15 min Dosi per: 4 persone Costo: Molto basso Nota più 30 minuti di marinatura Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il pollo allo zenzero è un secondo piatto facile e sfizioso, ispirato ai sapori della cucina asiatica. Zenzero fresco e salsa di soia insaporiscono il pollo , mentre il miele aggiunge una piacevole nota dolce che bilancia il gusto deciso della marinatura. Peperoncino e limone completano il piatto con una nota piccante e un fresco tocco agrumato. Il risultato è un pollo saporito e stuzzicante, ideale per portare in tavola un secondo piatto diverso dal solito con pochi e semplici ingredienti. Una ricetta veloce da preparare, perfetta per una cena informale in famiglia o con gli amici. Ecco altre ricette sfiziose a base di pollo: Pollo al curry Pollo e gamberi al curry con riso basmati Pollo al limone cremoso Piccata di pollo INGREDIENTI Petto di pollo 1000 g Olio extravergine d'oliva 40 g Aglio 1 spicchio Miele millefiori 20 g Salsa di soia 20 g Zenzero fresco 30 g Per la cottura Olio extravergine d'oliva 10 g Peperoncino fresco 5 g Zenzero fresco 20 g Succo di limone 20 g Scorza di limone q.b. Erba cipollina q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Pollo allo zenzero Per preparare il pollo allo zenzero cominciate dalla pulizia del pollo. Togliete grassi e ossicini 1 e tagliate il pollo a bocconcini di 3 cm 2 . Trasferitelo in una pirofila e versate 40 g di olio extravergine di oliva 3 . Con l'aiuto di un cucchiaio o di un coltellino togliete la buccia dello zenzero 4 . Grattugiate 30 g di zenzero direttamente nella pirofila con il pollo 6 e aggiungete uno spicchio d'aglio schiacciato o tritato fine 6 Insaporite con la salsa di soia 7 e il miele millefiori 8 . Coprite con pellicola e lasciate insaporire il pollo per 30 minuti in frigorifero 9 . Nel frattempo preparate il soffritto tagliando a listarelle 20 g di zenzero e il peperoncino fresco 11 . Versateli in padella insieme a 10 g di olio extravergine di oliva 12 . Fate rosolare per 5 minuti 13 dopo di che adagiate i pezzi di pollo senza sovrapporli 14 . Lasciate cuocere a fuoco medio alto fino a che saranno dorati sotto, ci vorranno circa 5 minuti 15 . Passato questo tempo girate il pollo 16 e sfumate con il succo di limone 17 . Lasciate cuocere sempre a fuoco medio alto per altri 5 minuti 18 . A fuoco spento profumate con la scorza di limone grattugiata 19 e l'erba cipollina tritata fine 20 . Il vostro pollo allo zenzero è pronto per essere servito 21 ! Conservazione Il pollo allo zenzero si conserva in frigorifero per un giorno al massimo ben coperto. Si sconsiglia la congelazione. Consiglio Accompagnate il pollo allo zenzero con il nostro riso pilaf , oppure utilizzatelo per realizzare un bel sandwich con maionese e insalata fresca! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zenzero Aglio Olio di oliva Limone Peperoncino Scopri tutto sugli ingredienti Presente in: Secondi piatti veloci , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pollo allo zenzero Panna cotta senza lattosio Biscotti salati alle olive 4.0 SCOPRI Pollo allo zenzero Petto di pollo allo zenzero Zuppa di pollo Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pollo allo zenzero: secondo veloce e sfizioso",
+        "Petto di pollo, zenzero, miele, salsa di soia",
+        "Taglia il pollo a bocconcini e marina 30 minuti",
+        "Rosola il pollo, sfuma con succo di limone",
+        "Scorza di limone e erba cipollina per profumare"
+      ],
+      "instagram_caption": "Bastano 30 minuti di marinatura e una padella calda per portare in tavola un pollo che sa di ristorante. 🍋 Qui il segreto è l'abbraccio tra zenzero fresco e miele, che si fondono nella salsa di soia creando quella glassa agrodolce che si arrampica su ogni bocconcino. Dopo una rapida rosolatura, sfumo con succo di limone e chiudo con scorza grattugiata ed erba cipollina: il profumo che si sprigiona è pura goduria. Il risultato? Un piatto succulento, brillante e pronto in 20 minuti, perfetto per una cena che non annoia mai. Provala questo weekend ✨",
+      "formats": {
+        "instagram": {
+          "caption": "Bastano 30 minuti di marinatura e una padella calda per portare in tavola un pollo che sa di ristorante. 🍋 Qui il segreto è l'abbraccio tra zenzero fresco e miele, che si fondono nella salsa di soia creando quella glassa agrodolce che si arrampica su ogni bocconcino. Dopo una rapida rosolatura, sfumo con succo di limone e chiudo con scorza grattugiata ed erba cipollina: il profumo che si sprigiona è pura goduria. Il risultato? Un piatto succulento, brillante e pronto in 20 minuti, perfetto per una cena che non annoia mai. Provala questo weekend ✨"
+        },
+        "tiktok": {
+          "script": [
+            "Pollo allo zenzero, veloce e sfizioso.",
+            "Petto, zenzero, miele e soia, pronti.",
+            "Taglio a bocconcini, marino 30 minuti.",
+            "Rosolo, sfumo col succo di limone.",
+            "Scorza e erba cipollina, che profumo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Se non hai mai provato il pollo allo zenzero, stai perdendo tempo. Veloce, brillante, con quel morso agrodolce che ti sveglia il palato. Pronto?",
+            "Serve solo: petto di pollo, zenzero fresco grattugiato, miele (quello vero), salsa di soia. Tagli il pollo a bocconcini e lo butti in una marinata con zenzero, soia e un filo di miele. 30 minuti e cambia tutto.",
+            "Scalda la padella, versi il pollo e lo rosoli a fuoco vivo: deve fare quella crosticina caramellata, non lessarlo. Quando è bello dorato, sfuma con succo di limone fresco. Sentirai il profumo da tutto il palazzo.",
+            "La tecnica è lì: la marinata lo penetra, il fuoco vivo sigilla, il limone pulisce il grasso. Non serve altro. Il pollo esce succoso, con quel contrasto dolce-salato che ti fa fare il bis.",
+            "Trucco finale: grattuga un po' di scorza di limone e trita erba cipollina sopra, appena prima di servire. Quelle due cose alzano il piatto da \"buono\" a \"pazzesco\". Provalo e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Pollo allo zenzero, veloce e sfizioso.",
+        "Petto, zenzero, miele e soia, pronti.",
+        "Taglio a bocconcini, marino 30 minuti.",
+        "Rosolo, sfumo col succo di limone.",
+        "Scorza e erba cipollina, che profumo!"
+      ],
+      "thread_text": [
+        "Se non hai mai provato il pollo allo zenzero, stai perdendo tempo. Veloce, brillante, con quel morso agrodolce che ti sveglia il palato. Pronto?",
+        "Serve solo: petto di pollo, zenzero fresco grattugiato, miele (quello vero), salsa di soia. Tagli il pollo a bocconcini e lo butti in una marinata con zenzero, soia e un filo di miele. 30 minuti e cambia tutto.",
+        "Scalda la padella, versi il pollo e lo rosoli a fuoco vivo: deve fare quella crosticina caramellata, non lessarlo. Quando è bello dorato, sfuma con succo di limone fresco. Sentirai il profumo da tutto il palazzo.",
+        "La tecnica è lì: la marinata lo penetra, il fuoco vivo sigilla, il limone pulisce il grasso. Non serve altro. Il pollo esce succoso, con quel contrasto dolce-salato che ti fa fare il bis.",
+        "Trucco finale: grattuga un po' di scorza di limone e trita erba cipollina sopra, appena prima di servire. Quelle due cose alzano il piatto da \"buono\" a \"pazzesco\". Provalo e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pollo allo zenzero: veloce e sfizioso",
+          "description": "Un secondo succulento con zenzero fresco, miele e salsa di soia: pronto in 30 minuti.",
+          "visual_hint": "Piatto di pollo glassato, fumante",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "ginger honey chicken savory"
+        },
+        {
+          "hook": "Pochi ingredienti, tanto gusto",
+          "description": "Petto di pollo, zenzero grattugiato, miele e salsa di soia: la combinazione perfetta.",
+          "visual_hint": "Ingredienti su tagliere: pollo, zenzero, miele",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ginger chicken ingredients savory",
+          "image": "https://images.pexels.com/photos/20258760/pexels-photo-20258760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Marinatura rapida, sapore intenso",
+          "description": "Taglia il pollo a bocconcini e lascialo marinare 30 minuti: la carne diventa tenera e aromatica.",
+          "visual_hint": "Bocconcini di pollo in ciotola con marinata",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "marinated chicken bowl savory",
+          "image": "https://images.pexels.com/photos/9258708/pexels-photo-9258708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosolatura: croccante fuori, tenero dentro",
+          "description": "Rosola il pollo in padella fino a doratura, poi sfuma con succo di limone per un profumo fresco.",
+          "visual_hint": "Pollo dorato in padella antiaderente",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "sauteed chicken skillet savory",
+          "image": "https://images.pexels.com/photos/20350176/pexels-photo-20350176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tocco finale: scorza e erba cipollina",
+          "description": "Completa con scorza di limone grattugiata e erba cipollina: un piatto da leccarsi i baffi.",
+          "visual_hint": "Piatto impiattato con scorza e erba cipollina",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "ginger chicken garnish savory",
+          "image": "https://images.pexels.com/photos/20258760/pexels-photo-20258760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "meat",
+      "signature_ingredients": [
+        "pollo",
+        "zenzero",
+        "miele"
+      ],
+      "image": "https://www.giallozafferano.it/images/364-36455/Pollo-allo-zenzero_650x433_wm.jpg",
+      "savedAt": "2026-08-18T14:32:54.873Z",
+      "sourceId": "e86dcd73c4a83a35ab5f74248b303864"
+    },
     {
       "schema_version": 2,
       "agent": "food",

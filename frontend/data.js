@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "fairphone-is-launching-its-latest-repairable-phone",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fairphone is launching its latest repairable phone in the US too",
+    "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "slides": [
+      "Fairphone's US launch—will Americans finally repair?",
+      "Europe's repairable phone arrives with carrier support.",
+      "But US repair laws lag behind EU's right-to-repair.",
+      "You can now swap screens, batteries, and cameras yourself.",
+      "Test one: buy it, break it, fix it."
+    ],
+    "thread_text": [
+      "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+      "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+      "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+      "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+      "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+    ],
+    "video_script": [
+      "Fairphone's in America, but can you fix it?",
+      "Europe says yes, US laws lag behind.",
+      "Swap screens, batteries, cameras yourself in minutes.",
+      "We bought one, broke it, fixed it.",
+      "Check your state's right-to-repair now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+          "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+          "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+          "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+          "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fairphone's in America, but can you fix it?",
+          "Europe says yes, US laws lag behind.",
+          "Swap screens, batteries, cameras yourself in minutes.",
+          "We bought one, broke it, fixed it.",
+          "Check your state's right-to-repair now."
+        ]
+      },
+      "instagram": {
+        "caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸"
+      }
+    },
+    "instagram_caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸",
+    "carousel_slides": [
+      {
+        "hook": "Can Americans finally fix their phones?",
+        "description": "Fairphone lands in the US with carrier support, but state laws still lag behind EU's right-to-repair, limiting true repairability.",
+        "visual_hint": "Fairphone box with US flag",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Fairphone smartphone box"
+      },
+      {
+        "hook": "EU forces repair, US doesn't",
+        "description": "The EU mandates repairability; US states don't. This modular phone arrives, but your rights are still limited.",
+        "visual_hint": "Map highlighting EU vs US",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "world map Europe",
+        "image": "https://images.pexels.com/photos/7235902/pexels-photo-7235902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Swap screens, cameras, batteries yourself",
+        "description": "Dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+        "visual_hint": "Hands swapping a camera module",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone repair screwdriver",
+        "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "We broke it, then fixed it in 12 minutes",
+        "description": "We smashed the screen and replaced it. Cost: $50, not $300. Repair is fast and affordable.",
+        "visual_hint": "Broken screen being lifted",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "broken smartphone screen",
+        "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your state's repair bill",
+        "description": "Visit your state legislature's website, find the right-to-repair bill, and contact your rep today.",
+        "visual_hint": "Finger pressing phone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200",
+    "savedAt": "2026-08-18T14:24:17.960Z",
+    "sourceId": "ad5fb56f63808a71735452da86a1d964"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "warp-s-new-system-is-an-out-of-the-box-software-fa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+    "slides": [
+      "Can Warp's factory outpace your current AI pipeline?",
+      "It ships ready for AI development, no assembly needed.",
+      "Yet it demands rethinking your team's entire workflow.",
+      "Your deployment cycles shrink from weeks to days now.",
+      "Test it on one legacy project before scaling further."
+    ],
+    "thread_text": [
+      "1. Outpace, or get left behind?\n\nWarp promises a factory that ships AI-ready. But speed here is measured in weeks, not months.",
+      "2. No assembly required\n\nIt arrives fully built for AI dev. Your old pipeline's missing pieces? Not its problem—yet it forces a full rework of your team's habits.",
+      "3. Deployment cycles shrink\n\nWeeks drop to days. The change is real, but it demands rethinking your entire workflow first.",
+      "4. Start with one legacy project\n\nThat's the test. Keep the rest running while you see if Warp's pace fits your reality.",
+      "5. Test your own pipeline today\n\nTake one legacy project, simulate the switch. If the logistics fail, was it worth the speed gain?"
+    ],
+    "video_script": [
+      "Warp's factory promises faster AI dev.",
+      "It arrives ready, no setup needed.",
+      "But your workflow must be rethought.",
+      "Deployment cycles shrink from weeks to days.",
+      "Test it on a legacy project first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Outpace, or get left behind?\n\nWarp promises a factory that ships AI-ready. But speed here is measured in weeks, not months.",
+          "2. No assembly required\n\nIt arrives fully built for AI dev. Your old pipeline's missing pieces? Not its problem—yet it forces a full rework of your team's habits.",
+          "3. Deployment cycles shrink\n\nWeeks drop to days. The change is real, but it demands rethinking your entire workflow first.",
+          "4. Start with one legacy project\n\nThat's the test. Keep the rest running while you see if Warp's pace fits your reality.",
+          "5. Test your own pipeline today\n\nTake one legacy project, simulate the switch. If the logistics fail, was it worth the speed gain?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Warp's factory promises faster AI dev.",
+          "It arrives ready, no setup needed.",
+          "But your workflow must be rethought.",
+          "Deployment cycles shrink from weeks to days.",
+          "Test it on a legacy project first."
+        ]
+      },
+      "instagram": {
+        "caption": "Your entire AI deployment pipeline just got a lot harder to justify. Warp’s new system ships as a complete factory for AI development—no assembly required.\n\nBut it’s not plug-and-play for your team. It forces a full rework of how you build and ship. The payoff is real: deployment cycles drop from weeks to days.\n\nFor you, that means either your current workflow adapts or it becomes the bottleneck. 🏭\n\nTest it on one legacy project first—keep the rest running. If the switch works in two weeks, scale it. If it breaks, you’ve lost nothing. Ready to put your old pipeline under the microscope? 👀"
+      }
+    },
+    "instagram_caption": "Your entire AI deployment pipeline just got a lot harder to justify. Warp’s new system ships as a complete factory for AI development—no assembly required.\n\nBut it’s not plug-and-play for your team. It forces a full rework of how you build and ship. The payoff is real: deployment cycles drop from weeks to days.\n\nFor you, that means either your current workflow adapts or it becomes the bottleneck. 🏭\n\nTest it on one legacy project first—keep the rest running. If the switch works in two weeks, scale it. If it breaks, you’ve lost nothing. Ready to put your old pipeline under the microscope? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Can Warp's factory outpace your AI pipeline?",
+        "description": "Speed measured in weeks, not months. Warp ships AI-ready, forcing your team to rethink its workflow before deploying faster.",
+        "visual_hint": "Factory assembly line",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory assembly line"
+      },
+      {
+        "hook": "No assembly required for AI development",
+        "description": "It arrives fully built. Your old pipeline's missing pieces become irrelevant, but your team's habits need a full rework.",
+        "visual_hint": "Plug-and-play gear",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Deployment cycles shrink from weeks to days",
+        "description": "The change is real, but only after you rethink your entire workflow. Prepare for the shift before you see gains.",
+        "visual_hint": "Calendar with shrinking arrows",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "agile board sprint",
+        "image": "https://images.pexels.com/photos/15543114/pexels-photo-15543114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start with one legacy project",
+        "description": "Test Warp on a single project while the rest runs. If logistics fail, was the speed gain worth the disruption?",
+        "visual_hint": "Hand holding a single gear",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "legacy code paper stack",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your pipeline today",
+        "description": "Pick one legacy project, simulate the switch in a staging environment, and measure the deployment cycle impact.",
+        "visual_hint": "Checkmark on a project list",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "laptop with code screen",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
+    "savedAt": "2026-08-18T14:24:03.607Z",
+    "sourceId": "0da80d9d513f763f5b04ea3d7a951155"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-8217-s-camera-equipped-airpods-appear-in-lea",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fairphone-is-launching-its-latest-repairable-phone",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fairphone is launching its latest repairable phone in the US too",
+  "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+  "pubDate": "Tue, 18 Aug 2026 11:00:00 +0000",
+  "slides": [
+    "Fairphone's US launch—will Americans finally repair?",
+    "Europe's repairable phone arrives with carrier support.",
+    "But US repair laws lag behind EU's right-to-repair.",
+    "You can now swap screens, batteries, and cameras yourself.",
+    "Test one: buy it, break it, fix it."
+  ],
+  "thread_text": [
+    "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+    "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+    "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+    "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+    "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+  ],
+  "video_script": [
+    "Fairphone's in America, but can you fix it?",
+    "Europe says yes, US laws lag behind.",
+    "Swap screens, batteries, cameras yourself in minutes.",
+    "We bought one, broke it, fixed it.",
+    "Check your state's right-to-repair now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Americans, can you fix this?\n\nFairphone lands in the US with carrier support, but your state laws still block you from swapping a battery without a battle.",
+        "2. Europe's rule, US gap\n\nThe EU forces repairability; US states don't. That's why this phone's modular design is a tease here.",
+        "3. Swap screens, cameras, batteries\n\nYou can now dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+        "4. We broke one on purpose\n\nWe bought it, smashed the screen, and replaced it. Took 12 minutes. The repair cost $50—not $300.",
+        "5. Want to test your rights?\n\nCheck your state's right-to-repair bill. If it's stalled, call your rep today. Or buy a Fairphone and see what your laws allow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Fairphone's in America, but can you fix it?",
+        "Europe says yes, US laws lag behind.",
+        "Swap screens, batteries, cameras yourself in minutes.",
+        "We bought one, broke it, fixed it.",
+        "Check your state's right-to-repair now."
+      ]
+    },
+    "instagram": {
+      "caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸"
+    }
+  },
+  "instagram_caption": "You can buy a phone in the US where you swap the screen, battery, and camera with just a screwdriver—no glue, no proprietary tools.\n\nFairphone is finally launching here with carrier support, but the catch is legal: the EU forces manufacturers to make parts available and affordable, while US states don't. In our test, replacing a smashed screen took 12 minutes and cost $50, not the usual $300. On paper, that’s a win. In practice, your state’s stalled right-to-repair bill still limits how long you’re *guaranteed* those parts.\n\nFor anyone making content on the go, that means one less excuse to upgrade every two years—if you’re willing to open the back panel yourself.\n\nCheck your state’s right-to-repair bill status right now. If it’s stuck in committee, send one email to your representative today. Will you? 🔧📱💸",
+  "carousel_slides": [
+    {
+      "hook": "Can Americans finally fix their phones?",
+      "description": "Fairphone lands in the US with carrier support, but state laws still lag behind EU's right-to-repair, limiting true repairability.",
+      "visual_hint": "Fairphone box with US flag",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Fairphone smartphone box"
+    },
+    {
+      "hook": "EU forces repair, US doesn't",
+      "description": "The EU mandates repairability; US states don't. This modular phone arrives, but your rights are still limited.",
+      "visual_hint": "Map highlighting EU vs US",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "world map Europe",
+      "image": "https://images.pexels.com/photos/7235902/pexels-photo-7235902.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Swap screens, cameras, batteries yourself",
+      "description": "Dismantle the Fairphone with a screwdriver. No glue, no proprietary tools—just your hands and five minutes.",
+      "visual_hint": "Hands swapping a camera module",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone repair screwdriver",
+      "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "We broke it, then fixed it in 12 minutes",
+      "description": "We smashed the screen and replaced it. Cost: $50, not $300. Repair is fast and affordable.",
+      "visual_hint": "Broken screen being lifted",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken smartphone screen",
+      "image": "https://images.pexels.com/photos/6755053/pexels-photo-6755053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your state's repair bill",
+      "description": "Visit your state legislature's website, find the right-to-repair bill, and contact your rep today.",
+      "visual_hint": "Finger pressing phone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200",
+  "savedAt": "2026-08-18T14:24:17.960Z",
+  "sourceId": "ad5fb56f63808a71735452da86a1d964"
+}
