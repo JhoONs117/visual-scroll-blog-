@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-is-getting-a-dedicated-mode-for-teens",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT is getting a dedicated mode for teens",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+  "pubDate": "2026-08-18T11:00:00.000Z",
+  "slides": [
+    "Teens get their own ChatGPT mode — why now?",
+    "It blocks harmful content but still allows sensitive topics.",
+    "The surprise: it limits chat frequency to prevent overuse.",
+    "For parents, this means new controls over teen interactions.",
+    "Test the mode with your teen this week."
+  ],
+  "thread_text": [
+    "1. Why now?\n\nTeens are the first generation to grow up with AI, and schools are already seeing the fallout. This mode is a direct response to that pressure.",
+    "2. The filter paradox\n\nIt blocks harmful content but still lets teens discuss sensitive topics. The line between safety and censorship is thinner than it looks.",
+    "3. The frequency cap\n\nThe real surprise? It limits chat frequency to prevent overuse. That's a new layer of control—not just what they see, but how often they engage.",
+    "4. Parental controls\n\nFor parents, this means new controls over teen interactions. You can now see what they're asking and when—without taking the tool away.",
+    "5. Test it this week\n\nTake a prompt your teen might ask and run it through the mode with them. Does it feel like a guardrail or a cage? Your call."
+  ],
+  "video_script": [
+    "Teens get their own ChatGPT mode now.",
+    "It blocks harmful stuff but allows tough topics.",
+    "Surprise: chats are limited to stop overuse.",
+    "Parents get new controls over teen chats.",
+    "Try it with your teen this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why now?\n\nTeens are the first generation to grow up with AI, and schools are already seeing the fallout. This mode is a direct response to that pressure.",
+        "2. The filter paradox\n\nIt blocks harmful content but still lets teens discuss sensitive topics. The line between safety and censorship is thinner than it looks.",
+        "3. The frequency cap\n\nThe real surprise? It limits chat frequency to prevent overuse. That's a new layer of control—not just what they see, but how often they engage.",
+        "4. Parental controls\n\nFor parents, this means new controls over teen interactions. You can now see what they're asking and when—without taking the tool away.",
+        "5. Test it this week\n\nTake a prompt your teen might ask and run it through the mode with them. Does it feel like a guardrail or a cage? Your call."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Teens get their own ChatGPT mode now.",
+        "It blocks harmful stuff but allows tough topics.",
+        "Surprise: chats are limited to stop overuse.",
+        "Parents get new controls over teen chats.",
+        "Try it with your teen this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Teens open ChatGPT and the chat window now counts how many messages they send.  \n\nOpenAI built a separate mode for under-18s that blocks harmful content but still allows sensitive topics like mental health. The new part: it limits how often teens can chat, not just what they see. Parents get visibility into questions and timing without banning the tool.  \n\nFor anyone creating content aimed at teens, this changes the reach calculus—frequency caps will reshape engagement metrics overnight.  \n\nTry a prompt your teen would actually ask and run it through the mode together. Does it feel like a guardrail or a cage? 🧭"
+    }
+  },
+  "instagram_caption": "Teens open ChatGPT and the chat window now counts how many messages they send.  \n\nOpenAI built a separate mode for under-18s that blocks harmful content but still allows sensitive topics like mental health. The new part: it limits how often teens can chat, not just what they see. Parents get visibility into questions and timing without banning the tool.  \n\nFor anyone creating content aimed at teens, this changes the reach calculus—frequency caps will reshape engagement metrics overnight.  \n\nTry a prompt your teen would actually ask and run it through the mode together. Does it feel like a guardrail or a cage? 🧭",
+  "carousel_slides": [
+    {
+      "hook": "Is AI capping your teen's chat time?",
+      "description": "ChatGPT's new teen mode limits chat frequency to prevent overuse. A surprising control that goes beyond content filtering.",
+      "visual_hint": "Chat interface with timer overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat screen"
+    },
+    {
+      "hook": "Safety vs. censorship: the filter paradox",
+      "description": "Teen mode blocks harmful content yet allows sensitive topics. The line between protection and restriction is thin.",
+      "visual_hint": "Balance scale with filters",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New: frequency cap for teen chats",
+      "description": "The surprise feature is limiting how often teens engage, not just what they see. A new layer of control in AI.",
+      "visual_hint": "Hourglass with chat bubbles",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hourglass timer",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parents get new AI oversight tools",
+      "description": "Parents can now see what teens ask and when, without removing the tool. More transparency but privacy questions remain.",
+      "visual_hint": "Parent and teen with phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "parent teen smartphone",
+      "image": "https://images.pexels.com/photos/6957255/pexels-photo-6957255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to try with your teen",
+      "description": "Test the mode this week. Run a prompt your teen might ask and see if it feels like a guardrail or a cage.",
+      "visual_hint": "Hand holding a phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-08-18T16:21:03.122Z",
+  "sourceId": "beb2473cc8f36c9be25fb59f1085a374"
+}

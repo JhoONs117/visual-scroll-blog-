@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-is-getting-a-dedicated-mode-for-teens",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "pubDate": "2026-08-18T11:00:00.000Z",
+      "slides": [
+        "Teens get their own ChatGPT mode — why now?",
+        "It blocks harmful content but still allows sensitive topics.",
+        "The surprise: it limits chat frequency to prevent overuse.",
+        "For parents, this means new controls over teen interactions.",
+        "Test the mode with your teen this week."
+      ],
+      "thread_text": [
+        "1. Why now?\n\nTeens are the first generation to grow up with AI, and schools are already seeing the fallout. This mode is a direct response to that pressure.",
+        "2. The filter paradox\n\nIt blocks harmful content but still lets teens discuss sensitive topics. The line between safety and censorship is thinner than it looks.",
+        "3. The frequency cap\n\nThe real surprise? It limits chat frequency to prevent overuse. That's a new layer of control—not just what they see, but how often they engage.",
+        "4. Parental controls\n\nFor parents, this means new controls over teen interactions. You can now see what they're asking and when—without taking the tool away.",
+        "5. Test it this week\n\nTake a prompt your teen might ask and run it through the mode with them. Does it feel like a guardrail or a cage? Your call."
+      ],
+      "video_script": [
+        "Teens get their own ChatGPT mode now.",
+        "It blocks harmful stuff but allows tough topics.",
+        "Surprise: chats are limited to stop overuse.",
+        "Parents get new controls over teen chats.",
+        "Try it with your teen this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why now?\n\nTeens are the first generation to grow up with AI, and schools are already seeing the fallout. This mode is a direct response to that pressure.",
+            "2. The filter paradox\n\nIt blocks harmful content but still lets teens discuss sensitive topics. The line between safety and censorship is thinner than it looks.",
+            "3. The frequency cap\n\nThe real surprise? It limits chat frequency to prevent overuse. That's a new layer of control—not just what they see, but how often they engage.",
+            "4. Parental controls\n\nFor parents, this means new controls over teen interactions. You can now see what they're asking and when—without taking the tool away.",
+            "5. Test it this week\n\nTake a prompt your teen might ask and run it through the mode with them. Does it feel like a guardrail or a cage? Your call."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Teens get their own ChatGPT mode now.",
+            "It blocks harmful stuff but allows tough topics.",
+            "Surprise: chats are limited to stop overuse.",
+            "Parents get new controls over teen chats.",
+            "Try it with your teen this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Teens open ChatGPT and the chat window now counts how many messages they send.  \n\nOpenAI built a separate mode for under-18s that blocks harmful content but still allows sensitive topics like mental health. The new part: it limits how often teens can chat, not just what they see. Parents get visibility into questions and timing without banning the tool.  \n\nFor anyone creating content aimed at teens, this changes the reach calculus—frequency caps will reshape engagement metrics overnight.  \n\nTry a prompt your teen would actually ask and run it through the mode together. Does it feel like a guardrail or a cage? 🧭"
+        }
+      },
+      "instagram_caption": "Teens open ChatGPT and the chat window now counts how many messages they send.  \n\nOpenAI built a separate mode for under-18s that blocks harmful content but still allows sensitive topics like mental health. The new part: it limits how often teens can chat, not just what they see. Parents get visibility into questions and timing without banning the tool.  \n\nFor anyone creating content aimed at teens, this changes the reach calculus—frequency caps will reshape engagement metrics overnight.  \n\nTry a prompt your teen would actually ask and run it through the mode together. Does it feel like a guardrail or a cage? 🧭",
+      "carousel_slides": [
+        {
+          "hook": "Is AI capping your teen's chat time?",
+          "description": "ChatGPT's new teen mode limits chat frequency to prevent overuse. A surprising control that goes beyond content filtering.",
+          "visual_hint": "Chat interface with timer overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone chat screen"
+        },
+        {
+          "hook": "Safety vs. censorship: the filter paradox",
+          "description": "Teen mode blocks harmful content yet allows sensitive topics. The line between protection and restriction is thin.",
+          "visual_hint": "Balance scale with filters",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "New: frequency cap for teen chats",
+          "description": "The surprise feature is limiting how often teens engage, not just what they see. A new layer of control in AI.",
+          "visual_hint": "Hourglass with chat bubbles",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hourglass timer",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parents get new AI oversight tools",
+          "description": "Parents can now see what teens ask and when, without removing the tool. More transparency but privacy questions remain.",
+          "visual_hint": "Parent and teen with phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "parent teen smartphone",
+          "image": "https://images.pexels.com/photos/6957255/pexels-photo-6957255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to try with your teen",
+          "description": "Test the mode this week. Run a prompt your teen might ask and see if it feels like a guardrail or a cage.",
+          "visual_hint": "Hand holding a phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-08-18T16:21:03.122Z",
+      "sourceId": "beb2473cc8f36c9be25fb59f1085a374"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-launches-a-safer-chatgpt-for-teens-years-af",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "slides": [
+        "OpenAI finally courts teens, but why now?",
+        "Teens already used ChatGPT without official approval.",
+        "Safety features now exist because teens were already there.",
+        "New safeguards change what teens can ask or see.",
+        "Your child's next question deserves an honest answer."
+      ],
+      "thread_text": [
+        "1. Why now?\n\nOpenAI's new move targets teens, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+        "2. The hidden users\n\nTeens didn't wait for permission. They've been using ChatGPT on their own, forcing OpenAI to adapt. The safety features we see today are a reaction to that reality.",
+        "3. New rules, new limits\n\nWith these safeguards, teens can't ask or see everything. The filter is now part of the experience, shaping what answers are possible.",
+        "4. The adult blind spot\n\nParents often don't know what their teens are asking. These changes might give you a false sense of security, not real insight into their curiosity.",
+        "5. Ask your teen\n\nOpen ChatGPT with your child tonight and ask what they've asked it. If the conversation feels awkward, that's where honesty begins."
+      ],
+      "video_script": [
+        "OpenAI now targets teens, but they were already there.",
+        "Safety features came because teens used it anyway.",
+        "New limits change what teens ask and see.",
+        "Parents might think things are safer now.",
+        "Ask your child what they've asked ChatGPT."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why now?\n\nOpenAI's new move targets teens, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+            "2. The hidden users\n\nTeens didn't wait for permission. They've been using ChatGPT on their own, forcing OpenAI to adapt. The safety features we see today are a reaction to that reality.",
+            "3. New rules, new limits\n\nWith these safeguards, teens can't ask or see everything. The filter is now part of the experience, shaping what answers are possible.",
+            "4. The adult blind spot\n\nParents often don't know what their teens are asking. These changes might give you a false sense of security, not real insight into their curiosity.",
+            "5. Ask your teen\n\nOpen ChatGPT with your child tonight and ask what they've asked it. If the conversation feels awkward, that's where honesty begins."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI now targets teens, but they were already there.",
+            "Safety features came because teens used it anyway.",
+            "New limits change what teens ask and see.",
+            "Parents might think things are safer now.",
+            "Ask your child what they've asked ChatGPT."
+          ]
+        },
+        "instagram": {
+          "caption": "Your teen probably already asked ChatGPT something you don’t know about. OpenAI’s new teen account is official now, but teens were already using the tool without permission. 🧑‍💻\n\nThe company built safety filters that limit what minors can ask or see. That’s a direct reaction to how teens were already using it behind adults’ backs. The rules changed because the users were already there. 🔒\n\nIf you create content for younger audiences, expect stricter boundaries on what questions your work can answer or evade.\n\nWhen was the last time you asked your kid what they actually type into that chat box? 💬"
+        }
+      },
+      "instagram_caption": "Your teen probably already asked ChatGPT something you don’t know about. OpenAI’s new teen account is official now, but teens were already using the tool without permission. 🧑‍💻\n\nThe company built safety filters that limit what minors can ask or see. That’s a direct reaction to how teens were already using it behind adults’ backs. The rules changed because the users were already there. 🔒\n\nIf you create content for younger audiences, expect stricter boundaries on what questions your work can answer or evade.\n\nWhen was the last time you asked your kid what they actually type into that chat box? 💬",
+      "carousel_slides": [
+        {
+          "hook": "Teens were already using it.",
+          "description": "OpenAI now courts teens officially, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+          "visual_hint": "Teen with phone, screen glow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "teenager smartphone night"
+        },
+        {
+          "hook": "What took so long?",
+          "description": "Teens didn't wait for permission. Their unsupervised use forced OpenAI to adapt, making today's safety features a reaction to that reality, not a proactive move.",
+          "visual_hint": "ChatGPT logo on phone, young hand",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone chat app",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety is now a filter.",
+          "description": "With new safeguards, teens can't ask or see everything. This filter shapes what answers are possible, turning restrictions into a core part of the experience.",
+          "visual_hint": "Filter bars over chat interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat filter interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Parents have a blind spot.",
+          "description": "Parents often don't know what teens ask. These changes may create a false sense of security, not genuine insight into their curiosity or concerns.",
+          "visual_hint": "Parent and teen, gap between them",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "parent teenager distance",
+          "image": "https://images.pexels.com/photos/6957255/pexels-photo-6957255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — ask your teen tonight.",
+          "description": "Open ChatGPT with your child tonight. Ask what they've asked it. If the conversation feels awkward, that's where honesty begins.",
+          "visual_hint": "Two coffee cups, open laptop",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "coffee cups laptop",
+          "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
+      "savedAt": "2026-08-18T16:20:50.022Z",
+      "sourceId": "d1b640f192f62c675359ad0b507d1aca"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-president-urges-enterprises-to-hasten-ai-se",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "pubDate": "Tue, 18 Aug 2026 14:58:27 +0000",
+      "slides": [
+        "Who defends your AI when attacks target it?",
+        "OpenAI's president warns enterprise security is too slow.",
+        "Real breaches have already exploited AI system blind spots.",
+        "Your models' hidden vulnerabilities demand urgent attention.",
+        "Audit your AI's adversarial defenses before attackers do."
+      ],
+      "thread_text": [
+        "1. Who's Watching Your AI?\n\nOpenAI's president just warned that enterprise security patches move too slowly—real breaches have already exploited AI system blind spots.",
+        "2. The Blind Spots Are Real\n\nResearchers found adversarial inputs that trick models into ignoring safety rules, even when no code is changed.",
+        "3. Your Models Are Exposed\n\nHidden vulnerabilities in your AI's defenses could let attackers manipulate outputs without detection—and you'd never know.",
+        "4. Attackers Move Fast\n\nWhile your team sleeps, attackers probe for weaknesses. The average time to exploit a known AI vulnerability? Days, not months.",
+        "5. Audit Before They Do\n\nRun a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind."
+      ],
+      "video_script": [
+        "Your AI has blind spots.",
+        "OpenAI's president warns security is too slow.",
+        "Real attacks are already exploiting vulnerabilities.",
+        "Attackers move faster than your defenses.",
+        "Audit your AI's defenses before attackers do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's Watching Your AI?\n\nOpenAI's president just warned that enterprise security patches move too slowly—real breaches have already exploited AI system blind spots.",
+            "2. The Blind Spots Are Real\n\nResearchers found adversarial inputs that trick models into ignoring safety rules, even when no code is changed.",
+            "3. Your Models Are Exposed\n\nHidden vulnerabilities in your AI's defenses could let attackers manipulate outputs without detection—and you'd never know.",
+            "4. Attackers Move Fast\n\nWhile your team sleeps, attackers probe for weaknesses. The average time to exploit a known AI vulnerability? Days, not months.",
+            "5. Audit Before They Do\n\nRun a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI has blind spots.",
+            "OpenAI's president warns security is too slow.",
+            "Real attacks are already exploiting vulnerabilities.",
+            "Attackers move faster than your defenses.",
+            "Audit your AI's defenses before attackers do."
+          ]
+        },
+        "instagram": {
+          "caption": "Enterprise security teams are taking weeks to patch AI vulnerabilities—while attackers exploit them in days.\n\nOpenAI's president says real breaches have already hit AI blind spots. Researchers found adversarial inputs that trick models into bypassing safety rules without any code changes. Your systems could be manipulated right now, and you wouldn't see it.\n\nIf you deploy AI in content pipelines, your outputs can be silently altered by hidden prompts. That means your published work might not be yours.\n\nHave you run a red-team simulation on your most critical AI workflow this month? If not, you're already behind. 🔍⚠️🧠"
+        }
+      },
+      "instagram_caption": "Enterprise security teams are taking weeks to patch AI vulnerabilities—while attackers exploit them in days.\n\nOpenAI's president says real breaches have already hit AI blind spots. Researchers found adversarial inputs that trick models into bypassing safety rules without any code changes. Your systems could be manipulated right now, and you wouldn't see it.\n\nIf you deploy AI in content pipelines, your outputs can be silently altered by hidden prompts. That means your published work might not be yours.\n\nHave you run a red-team simulation on your most critical AI workflow this month? If not, you're already behind. 🔍⚠️🧠",
+      "carousel_slides": [
+        {
+          "hook": "Who's defending your AI?",
+          "description": "OpenAI's president warns that enterprise security patches move too slowly, and real breaches have already exploited AI blind spots.",
+          "visual_hint": "Shield with AI chip",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Blind spots are real",
+          "description": "Researchers found adversarial inputs that trick models into ignoring safety rules—even without changing code, attackers can slip through.",
+          "visual_hint": "Magnifying glass scanning model",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your models are exposed",
+          "description": "Hidden vulnerabilities let attackers manipulate outputs without detection—you'd never know until it's too late.",
+          "visual_hint": "Cracked digital surface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attackers move fast",
+          "description": "While your team sleeps, attackers probe weaknesses. The average exploit time for known AI vulnerabilities? Days, not months.",
+          "visual_hint": "Clock with binary code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "alarm clock",
+          "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit before they do",
+          "description": "Run a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind.",
+          "visual_hint": "Red team flag on AI",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "cyber security",
+          "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-18T16:20:36.757Z",
+      "sourceId": "2499b38f4a463284440b775ce9dba69e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "fairphone-is-launching-its-latest-repairable-phone",
       "prompt_version": "1.0.0",
       "status": "published",

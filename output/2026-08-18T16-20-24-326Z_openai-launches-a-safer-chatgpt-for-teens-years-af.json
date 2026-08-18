@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-launches-a-safer-chatgpt-for-teens-years-af",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+  "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+  "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
+  "slides": [
+    "OpenAI finally courts teens, but why now?",
+    "Teens already used ChatGPT without official approval.",
+    "Safety features now exist because teens were already there.",
+    "New safeguards change what teens can ask or see.",
+    "Your child's next question deserves an honest answer."
+  ],
+  "thread_text": [
+    "1. Why now?\n\nOpenAI's new move targets teens, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+    "2. The hidden users\n\nTeens didn't wait for permission. They've been using ChatGPT on their own, forcing OpenAI to adapt. The safety features we see today are a reaction to that reality.",
+    "3. New rules, new limits\n\nWith these safeguards, teens can't ask or see everything. The filter is now part of the experience, shaping what answers are possible.",
+    "4. The adult blind spot\n\nParents often don't know what their teens are asking. These changes might give you a false sense of security, not real insight into their curiosity.",
+    "5. Ask your teen\n\nOpen ChatGPT with your child tonight and ask what they've asked it. If the conversation feels awkward, that's where honesty begins."
+  ],
+  "video_script": [
+    "OpenAI now targets teens, but they were already there.",
+    "Safety features came because teens used it anyway.",
+    "New limits change what teens ask and see.",
+    "Parents might think things are safer now.",
+    "Ask your child what they've asked ChatGPT."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why now?\n\nOpenAI's new move targets teens, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+        "2. The hidden users\n\nTeens didn't wait for permission. They've been using ChatGPT on their own, forcing OpenAI to adapt. The safety features we see today are a reaction to that reality.",
+        "3. New rules, new limits\n\nWith these safeguards, teens can't ask or see everything. The filter is now part of the experience, shaping what answers are possible.",
+        "4. The adult blind spot\n\nParents often don't know what their teens are asking. These changes might give you a false sense of security, not real insight into their curiosity.",
+        "5. Ask your teen\n\nOpen ChatGPT with your child tonight and ask what they've asked it. If the conversation feels awkward, that's where honesty begins."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI now targets teens, but they were already there.",
+        "Safety features came because teens used it anyway.",
+        "New limits change what teens ask and see.",
+        "Parents might think things are safer now.",
+        "Ask your child what they've asked ChatGPT."
+      ]
+    },
+    "instagram": {
+      "caption": "Your teen probably already asked ChatGPT something you don’t know about. OpenAI’s new teen account is official now, but teens were already using the tool without permission. 🧑‍💻\n\nThe company built safety filters that limit what minors can ask or see. That’s a direct reaction to how teens were already using it behind adults’ backs. The rules changed because the users were already there. 🔒\n\nIf you create content for younger audiences, expect stricter boundaries on what questions your work can answer or evade.\n\nWhen was the last time you asked your kid what they actually type into that chat box? 💬"
+    }
+  },
+  "instagram_caption": "Your teen probably already asked ChatGPT something you don’t know about. OpenAI’s new teen account is official now, but teens were already using the tool without permission. 🧑‍💻\n\nThe company built safety filters that limit what minors can ask or see. That’s a direct reaction to how teens were already using it behind adults’ backs. The rules changed because the users were already there. 🔒\n\nIf you create content for younger audiences, expect stricter boundaries on what questions your work can answer or evade.\n\nWhen was the last time you asked your kid what they actually type into that chat box? 💬",
+  "carousel_slides": [
+    {
+      "hook": "Teens were already using it.",
+      "description": "OpenAI now courts teens officially, but the real story is that teens were already using ChatGPT without approval. The question isn't why now, but what took so long.",
+      "visual_hint": "Teen with phone, screen glow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "teenager smartphone night"
+    },
+    {
+      "hook": "What took so long?",
+      "description": "Teens didn't wait for permission. Their unsupervised use forced OpenAI to adapt, making today's safety features a reaction to that reality, not a proactive move.",
+      "visual_hint": "ChatGPT logo on phone, young hand",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone chat app",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety is now a filter.",
+      "description": "With new safeguards, teens can't ask or see everything. This filter shapes what answers are possible, turning restrictions into a core part of the experience.",
+      "visual_hint": "Filter bars over chat interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat filter interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Parents have a blind spot.",
+      "description": "Parents often don't know what teens ask. These changes may create a false sense of security, not genuine insight into their curiosity or concerns.",
+      "visual_hint": "Parent and teen, gap between them",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "parent teenager distance",
+      "image": "https://images.pexels.com/photos/6957255/pexels-photo-6957255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — ask your teen tonight.",
+      "description": "Open ChatGPT with your child tonight. Ask what they've asked it. If the conversation feels awkward, that's where honesty begins.",
+      "visual_hint": "Two coffee cups, open laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "coffee cups laptop",
+      "image": "https://images.pexels.com/photos/19935029/pexels-photo-19935029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
+  "savedAt": "2026-08-18T16:20:50.022Z",
+  "sourceId": "d1b640f192f62c675359ad0b507d1aca"
+}

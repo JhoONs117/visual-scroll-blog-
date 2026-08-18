@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-president-urges-enterprises-to-hasten-ai-se",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI president urges enterprises to hasten AI security defences",
+  "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+  "pubDate": "Tue, 18 Aug 2026 14:58:27 +0000",
+  "slides": [
+    "Who defends your AI when attacks target it?",
+    "OpenAI's president warns enterprise security is too slow.",
+    "Real breaches have already exploited AI system blind spots.",
+    "Your models' hidden vulnerabilities demand urgent attention.",
+    "Audit your AI's adversarial defenses before attackers do."
+  ],
+  "thread_text": [
+    "1. Who's Watching Your AI?\n\nOpenAI's president just warned that enterprise security patches move too slowly—real breaches have already exploited AI system blind spots.",
+    "2. The Blind Spots Are Real\n\nResearchers found adversarial inputs that trick models into ignoring safety rules, even when no code is changed.",
+    "3. Your Models Are Exposed\n\nHidden vulnerabilities in your AI's defenses could let attackers manipulate outputs without detection—and you'd never know.",
+    "4. Attackers Move Fast\n\nWhile your team sleeps, attackers probe for weaknesses. The average time to exploit a known AI vulnerability? Days, not months.",
+    "5. Audit Before They Do\n\nRun a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind."
+  ],
+  "video_script": [
+    "Your AI has blind spots.",
+    "OpenAI's president warns security is too slow.",
+    "Real attacks are already exploiting vulnerabilities.",
+    "Attackers move faster than your defenses.",
+    "Audit your AI's defenses before attackers do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's Watching Your AI?\n\nOpenAI's president just warned that enterprise security patches move too slowly—real breaches have already exploited AI system blind spots.",
+        "2. The Blind Spots Are Real\n\nResearchers found adversarial inputs that trick models into ignoring safety rules, even when no code is changed.",
+        "3. Your Models Are Exposed\n\nHidden vulnerabilities in your AI's defenses could let attackers manipulate outputs without detection—and you'd never know.",
+        "4. Attackers Move Fast\n\nWhile your team sleeps, attackers probe for weaknesses. The average time to exploit a known AI vulnerability? Days, not months.",
+        "5. Audit Before They Do\n\nRun a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI has blind spots.",
+        "OpenAI's president warns security is too slow.",
+        "Real attacks are already exploiting vulnerabilities.",
+        "Attackers move faster than your defenses.",
+        "Audit your AI's defenses before attackers do."
+      ]
+    },
+    "instagram": {
+      "caption": "Enterprise security teams are taking weeks to patch AI vulnerabilities—while attackers exploit them in days.\n\nOpenAI's president says real breaches have already hit AI blind spots. Researchers found adversarial inputs that trick models into bypassing safety rules without any code changes. Your systems could be manipulated right now, and you wouldn't see it.\n\nIf you deploy AI in content pipelines, your outputs can be silently altered by hidden prompts. That means your published work might not be yours.\n\nHave you run a red-team simulation on your most critical AI workflow this month? If not, you're already behind. 🔍⚠️🧠"
+    }
+  },
+  "instagram_caption": "Enterprise security teams are taking weeks to patch AI vulnerabilities—while attackers exploit them in days.\n\nOpenAI's president says real breaches have already hit AI blind spots. Researchers found adversarial inputs that trick models into bypassing safety rules without any code changes. Your systems could be manipulated right now, and you wouldn't see it.\n\nIf you deploy AI in content pipelines, your outputs can be silently altered by hidden prompts. That means your published work might not be yours.\n\nHave you run a red-team simulation on your most critical AI workflow this month? If not, you're already behind. 🔍⚠️🧠",
+  "carousel_slides": [
+    {
+      "hook": "Who's defending your AI?",
+      "description": "OpenAI's president warns that enterprise security patches move too slowly, and real breaches have already exploited AI blind spots.",
+      "visual_hint": "Shield with AI chip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Blind spots are real",
+      "description": "Researchers found adversarial inputs that trick models into ignoring safety rules—even without changing code, attackers can slip through.",
+      "visual_hint": "Magnifying glass scanning model",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your models are exposed",
+      "description": "Hidden vulnerabilities let attackers manipulate outputs without detection—you'd never know until it's too late.",
+      "visual_hint": "Cracked digital surface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Attackers move fast",
+      "description": "While your team sleeps, attackers probe weaknesses. The average exploit time for known AI vulnerabilities? Days, not months.",
+      "visual_hint": "Clock with binary code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "alarm clock",
+      "image": "https://images.pexels.com/photos/37808313/pexels-photo-37808313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit before they do",
+      "description": "Run a red-team simulation on your most critical AI workflow today. If you haven't, you're already behind.",
+      "visual_hint": "Red team flag on AI",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cyber security",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-18T16:20:36.757Z",
+  "sourceId": "2499b38f4a463284440b775ce9dba69e"
+}
