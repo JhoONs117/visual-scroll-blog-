@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "whisker-s-ai-powered-litter-robot-thinks-my-cats-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+  "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+  "pubDate": "2026-08-17T11:00:00.000Z",
+  "slides": [
+    "Your cat's waste carries hidden identity clues.",
+    "Whisker's AI tracks weight, not just litter.",
+    "The robot flagged a sudden weight swap overnight.",
+    "It suspected a stranger—but my cats were home.",
+    "Your pets might need health checks tonight."
+  ],
+  "thread_text": [
+    "1. Who's in your house?\n\nYour cat's litter box just became a security camera.",
+    "2. The AI noticed a stranger\n\nIt flagged a weight change overnight, but my cats were home.",
+    "3. A cat can't fake weight\n\nWhisker's AI tracks more than litter—it reads daily patterns.",
+    "4. The twist: swapped cats?\n\nIf the AI saw a different weight, maybe it saw a different cat.",
+    "5. Check your pets tonight\n\nWeigh them now, or ask your vet about overnight monitoring."
+  ],
+  "video_script": [
+    "Your cat's litter box knows too much.",
+    "AI caught a weight swap overnight.",
+    "But my cats were home—so who?",
+    "Maybe the AI tracked a stranger cat.",
+    "Weigh your pets tonight. Check."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's in your house?\n\nYour cat's litter box just became a security camera.",
+        "2. The AI noticed a stranger\n\nIt flagged a weight change overnight, but my cats were home.",
+        "3. A cat can't fake weight\n\nWhisker's AI tracks more than litter—it reads daily patterns.",
+        "4. The twist: swapped cats?\n\nIf the AI saw a different weight, maybe it saw a different cat.",
+        "5. Check your pets tonight\n\nWeigh them now, or ask your vet about overnight monitoring."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your cat's litter box knows too much.",
+        "AI caught a weight swap overnight.",
+        "But my cats were home—so who?",
+        "Maybe the AI tracked a stranger cat.",
+        "Weigh your pets tonight. Check."
+      ]
+    },
+    "instagram": {
+      "caption": "My cats started getting flagged as strangers by their own litter box.\n\nWhisker's robot uses AI to track weight every time a cat uses it. One morning, it told the owner the numbers suddenly matched a completely different cat overnight—while hers were home.\n\nThat data isn't just for convenience. It's a daily health baseline that catches silent shifts, like kidney issues or thyroid problems, before you'd notice them by sight.\n\nIf you publish content about pet tech, this is your proof that \"smart devices\" now monitor living beings' biometrics passively—and that changes the privacy story you need to tell.\n\nWhen was the last time you weighed your cat? 🐈‍⬛⚖️🤖"
+    }
+  },
+  "instagram_caption": "My cats started getting flagged as strangers by their own litter box.\n\nWhisker's robot uses AI to track weight every time a cat uses it. One morning, it told the owner the numbers suddenly matched a completely different cat overnight—while hers were home.\n\nThat data isn't just for convenience. It's a daily health baseline that catches silent shifts, like kidney issues or thyroid problems, before you'd notice them by sight.\n\nIf you publish content about pet tech, this is your proof that \"smart devices\" now monitor living beings' biometrics passively—and that changes the privacy story you need to tell.\n\nWhen was the last time you weighed your cat? 🐈‍⬛⚖️🤖",
+  "carousel_slides": [
+    {
+      "hook": "Who's in your house?",
+      "description": "Your cat's litter box just became a security camera. It flagged an unexpected weight change overnight.",
+      "visual_hint": "Cat silhouette watching door",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cat silhouette door"
+    },
+    {
+      "hook": "The AI flagged a stranger",
+      "description": "Whisker's AI noticed a weight change and suspected an intruder, but my cats were home all night.",
+      "visual_hint": "Robot screen showing alert",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "litter robot screen alert",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cats can't fake weight",
+      "description": "The robot tracks daily patterns, not just litter. A sudden change could signal a swapped pet or health issue.",
+      "visual_hint": "Zoom on sensor and data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smart robot sensor data",
+      "image": "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Did my cats swap bodies?",
+      "description": "If the AI saw a different weight, maybe it saw a different cat. This twist made me question everything.",
+      "visual_hint": "Pair of cats looking at each other",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "two cats staring",
+      "image": "https://images.pexels.com/photos/28480662/pexels-photo-28480662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Weigh your cat tonight",
+      "description": "Check your pet's weight now or ask your vet about overnight monitoring. Don't wait for the litter box to tell you.",
+      "visual_hint": "Hand holding phone with scale app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hand holding smartphone scale",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-18T04:26:31.183Z",
+  "sourceId": "46539d6c8f0bc5f6f1ff78c889108e8c"
+}
