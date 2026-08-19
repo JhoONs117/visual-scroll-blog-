@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-isn-t-close-to-curing-cancer-this-startup-says-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+  "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+  "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
+  "slides": [
+    "Can AI cure cancer? This startup doubts it.",
+    "Most models fail because they predict, not explain.",
+    "Their approach: simulate every cell's molecular logic.",
+    "This changes which clinical trials you should join.",
+    "Ask if your trial uses mechanistic AI models."
+  ],
+  "thread_text": [
+    "1. Why AI won't cure cancer\n\nMost models predict outcomes, but they don't explain the biology. That's why they fail in clinical trials.",
+    "2. The mechanistic twist\n\nA startup is simulating every cell's molecular logic instead of just predicting. It's a different kind of AI.",
+    "3. The trial impact\n\nThis changes which clinical trials you should join. If a trial uses predictive AI only, you might be wasting your time.",
+    "4. The question for you\n\nAsk your doctor: does this trial use mechanistic AI models? If not, consider alternatives.",
+    "5. Your move\n\nBefore you sign up for any trial, ask that one question. It could save you years of ineffective treatment."
+  ],
+  "video_script": [
+    "Can AI cure cancer? Some say no.",
+    "Most models predict, not explain.",
+    "This startup simulates each cell's logic.",
+    "It changes which trials you join.",
+    "Ask your doctor about mechanistic AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why AI won't cure cancer\n\nMost models predict outcomes, but they don't explain the biology. That's why they fail in clinical trials.",
+        "2. The mechanistic twist\n\nA startup is simulating every cell's molecular logic instead of just predicting. It's a different kind of AI.",
+        "3. The trial impact\n\nThis changes which clinical trials you should join. If a trial uses predictive AI only, you might be wasting your time.",
+        "4. The question for you\n\nAsk your doctor: does this trial use mechanistic AI models? If not, consider alternatives.",
+        "5. Your move\n\nBefore you sign up for any trial, ask that one question. It could save you years of ineffective treatment."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI cure cancer? Some say no.",
+        "Most models predict, not explain.",
+        "This startup simulates each cell's logic.",
+        "It changes which trials you join.",
+        "Ask your doctor about mechanistic AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Most cancer trials use AI that guesses your outcome—but can’t explain why. That’s a problem.\n\nOne startup is building models that simulate every cell’s molecular logic instead of just pattern-matching. They say this difference determines whether a trial wastes your time.\n\nFor you: before joining any trial, ask if it relies on mechanistic AI models. If not, you might be betting years on a black box.\n\nAre you in a position to question your doctor’s trial choice—or would you just sign the form? 🧬⚗️🔬"
+    }
+  },
+  "instagram_caption": "Most cancer trials use AI that guesses your outcome—but can’t explain why. That’s a problem.\n\nOne startup is building models that simulate every cell’s molecular logic instead of just pattern-matching. They say this difference determines whether a trial wastes your time.\n\nFor you: before joining any trial, ask if it relies on mechanistic AI models. If not, you might be betting years on a black box.\n\nAre you in a position to question your doctor’s trial choice—or would you just sign the form? 🧬⚗️🔬",
+  "carousel_slides": [
+    {
+      "hook": "Why AI won't cure cancer",
+      "description": "Most models predict outcomes but fail to explain biology, causing clinical trial failures. A startup argues for a different approach.",
+      "visual_hint": "AI brain with question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence brain"
+    },
+    {
+      "hook": "The mechanistic twist",
+      "description": "Instead of predicting, this startup simulates every cell's molecular logic. It's a new kind of AI that explains, not just guesses.",
+      "visual_hint": "Cell with digital overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cellular biology technology",
+      "image": "https://images.pexels.com/photos/4031518/pexels-photo-4031518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trial impact revealed",
+      "description": "This changes which clinical trials you should join. Predictive-only AI trials might waste your time—mechanistic models could be key.",
+      "visual_hint": "Trial chart with AI path",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "clinical trial data chart",
+      "image": "https://images.pexels.com/photos/7578801/pexels-photo-7578801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask this critical question",
+      "description": "Before joining any trial, ask your doctor: does it use mechanistic AI models? If not, consider alternatives that explain biology.",
+      "visual_hint": "Doctor and patient conversation",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor consulting patient",
+      "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next trial",
+      "description": "Before you sign up for any trial, ask that one question. It could save you years of ineffective treatment. Share with someone who needs it.",
+      "visual_hint": "Save icon with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "medical checklist clipboard",
+      "image": "https://images.pexels.com/photos/6098057/pexels-photo-6098057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+  "savedAt": "2026-08-19T14:24:09.541Z",
+  "sourceId": "fe46527ac03090032b9bde84fc077acd"
+}
