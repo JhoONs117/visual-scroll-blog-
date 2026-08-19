@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "relativity-networks-raises-22-million-to-bring-a-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "slides": [
+      "Relativity Networks raised $22M—can fiber really be faster?",
+      "They use hollow-core fiber, not solid glass.",
+      "Light travels 47% faster in air than glass.",
+      "Data center latency drops dramatically—but only for some links.",
+      "Test your own network's latency-critical paths now."
+    ],
+    "thread_text": [
+      "1. Light's speed secret\n\nHollow-core fiber lets light travel in air, not glass. That's 47% faster—relativity in action.",
+      "2. The real bottleneck\n\nBut this speed boost only helps specific links. Data centers have mixed paths; not all will see the gain.",
+      "3. Latency math\n\nFor high-frequency trading, milliseconds matter. A 47% cut on a critical link could outpace a $22M investment.",
+      "4. The catch\n\nHollow-core fiber isn't a silver bullet. Signal loss and cost are challenges—so it's not everywhere, yet.",
+      "5. Your move now\n\nIdentify your latency-critical paths. Run a network test to see if you'd benefit from an upgrade."
+    ],
+    "video_script": [
+      "Fiber isn't all glass. Air is faster.",
+      "Light speed jumps 47 percent in air.",
+      "But only some links gain dramatically.",
+      "Latency drops where it matters most.",
+      "Test your own network's critical paths now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Light's speed secret\n\nHollow-core fiber lets light travel in air, not glass. That's 47% faster—relativity in action.",
+          "2. The real bottleneck\n\nBut this speed boost only helps specific links. Data centers have mixed paths; not all will see the gain.",
+          "3. Latency math\n\nFor high-frequency trading, milliseconds matter. A 47% cut on a critical link could outpace a $22M investment.",
+          "4. The catch\n\nHollow-core fiber isn't a silver bullet. Signal loss and cost are challenges—so it's not everywhere, yet.",
+          "5. Your move now\n\nIdentify your latency-critical paths. Run a network test to see if you'd benefit from an upgrade."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Fiber isn't all glass. Air is faster.",
+          "Light speed jumps 47 percent in air.",
+          "But only some links gain dramatically.",
+          "Latency drops where it matters most.",
+          "Test your own network's critical paths now."
+        ]
+      },
+      "instagram": {
+        "caption": "Light just got 47% faster inside a data center cable—because it's traveling through air, not glass. 💡\n\nRelativity Networks raised $22M to deploy hollow-core fiber, which replaces solid glass with air. That cuts latency sharply, but only on specific links, not every path in a facility. High-frequency trading, where milliseconds move money, is the obvious target. Signal loss and cost still limit where it goes. 🔁\n\nFor anyone building or operating network-heavy products, this means overhauling a single critical connection could beat upgrading everything else. ⏱️\n\nWhich link in your own setup would you test first for latency gains?"
+      }
+    },
+    "instagram_caption": "Light just got 47% faster inside a data center cable—because it's traveling through air, not glass. 💡\n\nRelativity Networks raised $22M to deploy hollow-core fiber, which replaces solid glass with air. That cuts latency sharply, but only on specific links, not every path in a facility. High-frequency trading, where milliseconds move money, is the obvious target. Signal loss and cost still limit where it goes. 🔁\n\nFor anyone building or operating network-heavy products, this means overhauling a single critical connection could beat upgrading everything else. ⏱️\n\nWhich link in your own setup would you test first for latency gains?",
+    "carousel_slides": [
+      {
+        "hook": "Can fiber really be faster?",
+        "description": "Relativity Networks raised $22M to deploy hollow-core fiber, letting light travel through air instead of glass — achieving a 47% speed boost.",
+        "visual_hint": "Light beam splitting in fiber",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fiber optic cables"
+      },
+      {
+        "hook": "Light's secret: air beats glass.",
+        "description": "Hollow-core fiber guides light through an air-filled core, reducing latency by 47% compared to traditional solid glass fiber.",
+        "visual_hint": "Cross-section of hollow fiber",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fiber optic cable",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Where does the speed matter most?",
+        "description": "The boost only helps specific links, not all data center paths. But for high-frequency trading, a 47% cut on critical routes is huge.",
+        "visual_hint": "Data center racks with glowing lights",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not a silver bullet—yet.",
+        "description": "Signal loss and high costs limit hollow-core fiber's deployment. It's not everywhere, but for select connections, the investment pays off.",
+        "visual_hint": "Hand holding fiber connector",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "fiber optic connector",
+        "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Find your latency-critical paths now.",
+        "description": "Run a network test to see if your data center would benefit from hollow-core fiber. Identify where a 47% speed boost could matter.",
+        "visual_hint": "Network graph with highlighted path",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "network server room",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
+    "savedAt": "2026-08-19T10:20:18.878Z",
+    "sourceId": "d205738f828cf73aafe6db5a1533a876"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "firefox-8217-s-smart-window-promises-a-better-ai-b",
     "prompt_version": "1.0.0",
     "status": "published",
