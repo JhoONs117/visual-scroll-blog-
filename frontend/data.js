@@ -2,6 +2,107 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "firefox-8217-s-smart-window-promises-a-better-ai-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "pubDate": "2026-08-18T13:00:00.000Z",
+    "slides": [
+      "Firefox's Smart Window: a better browser, or a smarter trap?",
+      "It embeds AI that predicts your next tab before you click.",
+      "The catch: it learns from everything you type, even deletions.",
+      "What changes: your browser starts finishing your sentences for you.",
+      "Test it on a throwaway profile before trusting it with real work."
+    ],
+    "thread_text": [
+      "1. Your browser is watching\n\nFirefox's new AI predicts your next tab by learning from every keystroke — including the ones you delete.",
+      "2. The trap is subtle\n\nIt doesn't just autocomplete. It starts finishing your sentences, changing how you type without you noticing.",
+      "3. Deletions are data\n\nEvery backspace teaches the AI what you didn't mean. That's a memory of your mistakes — stored and used.",
+      "4. Trust is the real issue\n\nWould you let a browser finish your thoughts? It might guess wrong more often than you think.",
+      "5. Test it safely\n\nTry it on a throwaway profile before using it for real work. Would you risk your main account on a guess?"
+    ],
+    "video_script": [
+      "Firefox's new AI watches every keystroke.",
+      "It predicts your next tab, even deletions.",
+      "It learns from what you delete too.",
+      "Soon it finishes your sentences for you.",
+      "Use a throwaway profile before trusting it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your browser is watching\n\nFirefox's new AI predicts your next tab by learning from every keystroke — including the ones you delete.",
+          "2. The trap is subtle\n\nIt doesn't just autocomplete. It starts finishing your sentences, changing how you type without you noticing.",
+          "3. Deletions are data\n\nEvery backspace teaches the AI what you didn't mean. That's a memory of your mistakes — stored and used.",
+          "4. Trust is the real issue\n\nWould you let a browser finish your thoughts? It might guess wrong more often than you think.",
+          "5. Test it safely\n\nTry it on a throwaway profile before using it for real work. Would you risk your main account on a guess?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Firefox's new AI watches every keystroke.",
+          "It predicts your next tab, even deletions.",
+          "It learns from what you delete too.",
+          "Soon it finishes your sentences for you.",
+          "Use a throwaway profile before trusting it."
+        ]
+      },
+      "instagram": {
+        "caption": "Your browser is learning from every backspace you hit — Firefox’s new AI-powered Smart Window turns even your deletions into data.  \nIt predicts your next tab and finishes your sentences before you finish typing.  \nThe catch: it’s watching everything you write, including what you erase. That’s a permanent record of your mistakes.  \nFor anyone drafting posts or scripts, this means your drafts aren’t just output — they’re training material.  \nWould you test this on your main profile, or does the thought of it knowing your typos make you pause? 🖱️🧠"
+      }
+    },
+    "instagram_caption": "Your browser is learning from every backspace you hit — Firefox’s new AI-powered Smart Window turns even your deletions into data.  \nIt predicts your next tab and finishes your sentences before you finish typing.  \nThe catch: it’s watching everything you write, including what you erase. That’s a permanent record of your mistakes.  \nFor anyone drafting posts or scripts, this means your drafts aren’t just output — they’re training material.  \nWould you test this on your main profile, or does the thought of it knowing your typos make you pause? 🖱️🧠",
+    "carousel_slides": [
+      {
+        "hook": "What if your browser remembers your deleted mistakes?",
+        "description": "Firefox's new AI learns from every keystroke, even the ones you delete. That means it builds a profile of what you didn't mean—stored and used later.",
+        "visual_hint": "Delete key with echo",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "keyboard close up"
+      },
+      {
+        "hook": "It predicts your next tab before you click.",
+        "description": "The AI watches your behavior and guesses what you'll do next. This can speed up your browsing but also changes how you interact with the browser.",
+        "visual_hint": "Tab icons cascading",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "browser tabs on screen"
+      },
+      {
+        "hook": "Deletions are data – a memory of your mistakes.",
+        "description": "Every backspace teaches the AI what you didn't mean. That design choice turns your corrections into a permanent record of your errors, used to shape your future browsing.",
+        "visual_hint": "Backspace with trail of pixels",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "backspace key macro"
+      },
+      {
+        "hook": "Would you trust it to finish your thoughts?",
+        "description": "As the AI starts completing your sentences, you might not notice you're typing differently. It could guess wrong more often than expected, especially with nuanced language.",
+        "visual_hint": "Hand hovering over keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands typing on laptop"
+      },
+      {
+        "hook": "Save your main account – test on a throwaway profile",
+        "description": "Before you let this AI learn from your real work, try it on a separate profile. Protect your primary account from potential mistakes.",
+        "visual_hint": "Two profile icons, one ghosted",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy shield concept",
+        "image": "https://images.pexels.com/photos/38267117/pexels-photo-38267117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&amp;strip=all&amp;crop=0%2C6.9226294357184%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-08-19T02:51:13.839Z",
+    "sourceId": "c99c4fc90930e655ec7429fec0f4d373"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "robin-williams-instagram-account-brought-back-to-f",
     "prompt_version": "1.0.0",
     "status": "published",
