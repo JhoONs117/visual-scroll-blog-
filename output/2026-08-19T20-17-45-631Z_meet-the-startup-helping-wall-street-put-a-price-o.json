@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meet-the-startup-helping-wall-street-put-a-price-o",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meet the startup helping Wall Street put a price on AI compute",
+  "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+  "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+  "slides": [
+    "What if AI compute were a tradeable asset?",
+    "A startup is building that market for Wall Street.",
+    "Its pricing model hides volatility in GPU supply chains.",
+    "Your AI cost forecasts are wrong without this data.",
+    "Test one GPU trade against your budget today."
+  ],
+  "thread_text": [
+    "1. What if GPUs were tradable?\n\nA startup is turning AI compute into a marketable asset, letting Wall Street bet on GPU supply. The price you pay for AI could soon depend on this market.",
+    "2. The volatility is hidden\n\nTheir pricing model masks GPU supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+    "3. Forecasts break without this\n\nYour AI budget relies on stable compute prices. But GPU availability fluctuates wildly—this data reveals the real cost.",
+    "4. Trade one GPU contract\n\nYou can now trade a GPU contract like a commodity. It's a hedge against supply chaos—or a bet on the future.",
+    "5. Test your budget against it\n\nSimulate a GPU trade with your current cloud spend. If you haven't, you're pricing AI blind."
+  ],
+  "video_script": [
+    "Imagine trading GPU power like gold.",
+    "A startup is building that market.",
+    "Volatility hides in chip supply.",
+    "Your AI budgets could be wrong.",
+    "Test a trade against your costs today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if GPUs were tradable?\n\nA startup is turning AI compute into a marketable asset, letting Wall Street bet on GPU supply. The price you pay for AI could soon depend on this market.",
+        "2. The volatility is hidden\n\nTheir pricing model masks GPU supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+        "3. Forecasts break without this\n\nYour AI budget relies on stable compute prices. But GPU availability fluctuates wildly—this data reveals the real cost.",
+        "4. Trade one GPU contract\n\nYou can now trade a GPU contract like a commodity. It's a hedge against supply chaos—or a bet on the future.",
+        "5. Test your budget against it\n\nSimulate a GPU trade with your current cloud spend. If you haven't, you're pricing AI blind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine trading GPU power like gold.",
+        "A startup is building that market.",
+        "Volatility hides in chip supply.",
+        "Your AI budgets could be wrong.",
+        "Test a trade against your costs today."
+      ]
+    },
+    "instagram": {
+      "caption": "Wall Street can now trade GPU contracts like barrels of oil, with prices tied to chip supply instead of crude. 💻\n\nThis startup built a pricing market for AI compute, exposing how volatile GPU availability really is. Their data shows cloud costs swing far more than most budgets assume. 📉\n\nIf you plan AI spending without watching this market, your forecasts are built on a guess. The hidden volatility directly hits what you pay per token or per hour of compute.\n\nTest one GPU trade against your current cloud bill this week. How off is your number? 💸"
+    }
+  },
+  "instagram_caption": "Wall Street can now trade GPU contracts like barrels of oil, with prices tied to chip supply instead of crude. 💻\n\nThis startup built a pricing market for AI compute, exposing how volatile GPU availability really is. Their data shows cloud costs swing far more than most budgets assume. 📉\n\nIf you plan AI spending without watching this market, your forecasts are built on a guess. The hidden volatility directly hits what you pay per token or per hour of compute.\n\nTest one GPU trade against your current cloud bill this week. How off is your number? 💸",
+  "carousel_slides": [
+    {
+      "hook": "AI compute: the next tradeable asset?",
+      "description": "A startup is turning GPUs into a marketable asset, letting Wall Street bet on supply. The price you pay for AI could soon hinge on this market.",
+      "visual_hint": "GPU chip on trading floor",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "GPU chip stock market"
+    },
+    {
+      "hook": "The hidden volatility in GPU supply",
+      "description": "Their pricing model masks supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+      "visual_hint": "Graph with hidden spikes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "supply chain graph",
+      "image": "https://images.pexels.com/photos/6120210/pexels-photo-6120210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI forecasts are blind without this",
+      "description": "GPU availability fluctuates wildly. This data reveals the real cost behind your stable compute price assumptions.",
+      "visual_hint": "Magnifying glass over chart",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "forecast chart magnifier",
+      "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trade GPUs like commodities",
+      "description": "You can now hedge against supply chaos—or bet on the future—by trading GPU contracts just like oil or gold.",
+      "visual_hint": "Hand trading commodity contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "commodity trading hand",
+      "image": "https://images.pexels.com/photos/7173043/pexels-photo-7173043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you price AI blind",
+      "description": "Simulate a GPU trade against your current cloud spend. If you haven't, you're pricing AI with outdated data. Try it now.",
+      "visual_hint": "Finger tapping on calculator",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calculator simulation",
+      "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+  "savedAt": "2026-08-19T20:18:34.726Z",
+  "sourceId": "da3d698d8f481d1c4264651d00714464"
+}

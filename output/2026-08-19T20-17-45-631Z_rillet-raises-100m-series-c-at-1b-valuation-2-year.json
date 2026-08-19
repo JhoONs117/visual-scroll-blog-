@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "rillet-raises-100m-series-c-at-1b-valuation-2-year",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+  "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+  "pubDate": "Wed, 19 Aug 2026 20:12:33 +0000",
+  "slides": [
+    "Rillet hit $1B valuation, but is growth real?",
+    "Two years post-stealth, capital markets shifted.",
+    "Its revenue multiplies while rivals burn cash.",
+    "Your procurement decisions now hinge on their runway.",
+    "Audit Rillet's churn before committing your stack."
+  ],
+  "thread_text": [
+    "1. Growth or mirage?\n\nRillet's $1B valuation came two years after stealth, but capital markets shifted. Their revenue multiplies while rivals burn cash—yet the real test is churn.",
+    "2. The funding window\n\nPost-stealth, Rillet raised at a peak. Now, with markets tighter, their runway determines survival. Every competitor's burn rate is a warning.",
+    "3. Revenue vs. reality\n\nRillet's revenue growth is impressive, but it's not profit. The metric that matters is net revenue retention. If churn is high, the growth is a house of cards.",
+    "4. Your procurement risk\n\nWhen you pick a vendor, you're betting on their runway. If Rillet's churn is real, their runway shortens. Your stack could be stranded.",
+    "5. Audit before you commit\n\nAsk Rillet for churn numbers and net revenue retention. If they hesitate, that's your answer. Don't bet your infrastructure on a maybe."
+  ],
+  "video_script": [
+    "Rillet hit a billion valuation, but is it real?",
+    "Capital markets shifted after stealth, runway is key.",
+    "Revenue grows, but churn could kill the story.",
+    "Your procurement choice depends on their survival.",
+    "Audit their churn before you commit your stack."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Growth or mirage?\n\nRillet's $1B valuation came two years after stealth, but capital markets shifted. Their revenue multiplies while rivals burn cash—yet the real test is churn.",
+        "2. The funding window\n\nPost-stealth, Rillet raised at a peak. Now, with markets tighter, their runway determines survival. Every competitor's burn rate is a warning.",
+        "3. Revenue vs. reality\n\nRillet's revenue growth is impressive, but it's not profit. The metric that matters is net revenue retention. If churn is high, the growth is a house of cards.",
+        "4. Your procurement risk\n\nWhen you pick a vendor, you're betting on their runway. If Rillet's churn is real, their runway shortens. Your stack could be stranded.",
+        "5. Audit before you commit\n\nAsk Rillet for churn numbers and net revenue retention. If they hesitate, that's your answer. Don't bet your infrastructure on a maybe."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rillet hit a billion valuation, but is it real?",
+        "Capital markets shifted after stealth, runway is key.",
+        "Revenue grows, but churn could kill the story.",
+        "Your procurement choice depends on their survival.",
+        "Audit their churn before you commit your stack."
+      ]
+    },
+    "instagram": {
+      "caption": "A $1B valuation now hinges on churn numbers Rillet hasn't published. 📊\n\nTwo years after stealth, they raised $100M while competitors burn cash. But revenue growth isn’t profit—net revenue retention is the only metric that tells you if this is real. If churn is high, that valuation is a sandcastle.\n\nWhen you pick their software, you’re betting your infrastructure on their runway. Short runway = stranded stack. 🚧\n\nAsk Rillet for their net revenue retention before you sign. If they deflect, walk. Will you audit their churn, or trust the press release? 🤔"
+    }
+  },
+  "instagram_caption": "A $1B valuation now hinges on churn numbers Rillet hasn't published. 📊\n\nTwo years after stealth, they raised $100M while competitors burn cash. But revenue growth isn’t profit—net revenue retention is the only metric that tells you if this is real. If churn is high, that valuation is a sandcastle.\n\nWhen you pick their software, you’re betting your infrastructure on their runway. Short runway = stranded stack. 🚧\n\nAsk Rillet for their net revenue retention before you sign. If they deflect, walk. Will you audit their churn, or trust the press release? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Rillet's growth a mirage?",
+      "description": "Rillet hit $1B valuation, but revenue growth isn't profit. Churn could reveal if it's real or a house of cards.",
+      "visual_hint": "Miracle or illusion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Funding window slammed shut.",
+      "description": "Rillet raised at peak, now markets tightened. Competitors burn cash, but Rillet's runway is key to survival.",
+      "visual_hint": "Closing door, tight space",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "closed door",
+      "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Revenue is up, profit isn't.",
+      "description": "Rillet's revenue multiplies but rivals burn cash. Net revenue retention is the real test.",
+      "visual_hint": "Charts diverging",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "financial charts",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your stack is their bet.",
+      "description": "When you pick Rillet, you bet on their runway. High churn shorts it, stranding your infrastructure.",
+      "visual_hint": "Hand under stack",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit churn, then decide.",
+      "description": "Ask Rillet for net revenue retention numbers. Hesitation is a red flag. Save your stack.",
+      "visual_hint": "Magnifying glass on reports",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+  "savedAt": "2026-08-19T20:17:58.086Z",
+  "sourceId": "7aa8fd0ea313b3b015b2f5ac3a74fae5"
+}

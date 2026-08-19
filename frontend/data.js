@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meet-the-startup-helping-wall-street-put-a-price-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+    "slides": [
+      "What if AI compute were a tradeable asset?",
+      "A startup is building that market for Wall Street.",
+      "Its pricing model hides volatility in GPU supply chains.",
+      "Your AI cost forecasts are wrong without this data.",
+      "Test one GPU trade against your budget today."
+    ],
+    "thread_text": [
+      "1. What if GPUs were tradable?\n\nA startup is turning AI compute into a marketable asset, letting Wall Street bet on GPU supply. The price you pay for AI could soon depend on this market.",
+      "2. The volatility is hidden\n\nTheir pricing model masks GPU supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+      "3. Forecasts break without this\n\nYour AI budget relies on stable compute prices. But GPU availability fluctuates wildly—this data reveals the real cost.",
+      "4. Trade one GPU contract\n\nYou can now trade a GPU contract like a commodity. It's a hedge against supply chaos—or a bet on the future.",
+      "5. Test your budget against it\n\nSimulate a GPU trade with your current cloud spend. If you haven't, you're pricing AI blind."
+    ],
+    "video_script": [
+      "Imagine trading GPU power like gold.",
+      "A startup is building that market.",
+      "Volatility hides in chip supply.",
+      "Your AI budgets could be wrong.",
+      "Test a trade against your costs today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if GPUs were tradable?\n\nA startup is turning AI compute into a marketable asset, letting Wall Street bet on GPU supply. The price you pay for AI could soon depend on this market.",
+          "2. The volatility is hidden\n\nTheir pricing model masks GPU supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+          "3. Forecasts break without this\n\nYour AI budget relies on stable compute prices. But GPU availability fluctuates wildly—this data reveals the real cost.",
+          "4. Trade one GPU contract\n\nYou can now trade a GPU contract like a commodity. It's a hedge against supply chaos—or a bet on the future.",
+          "5. Test your budget against it\n\nSimulate a GPU trade with your current cloud spend. If you haven't, you're pricing AI blind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine trading GPU power like gold.",
+          "A startup is building that market.",
+          "Volatility hides in chip supply.",
+          "Your AI budgets could be wrong.",
+          "Test a trade against your costs today."
+        ]
+      },
+      "instagram": {
+        "caption": "Wall Street can now trade GPU contracts like barrels of oil, with prices tied to chip supply instead of crude. 💻\n\nThis startup built a pricing market for AI compute, exposing how volatile GPU availability really is. Their data shows cloud costs swing far more than most budgets assume. 📉\n\nIf you plan AI spending without watching this market, your forecasts are built on a guess. The hidden volatility directly hits what you pay per token or per hour of compute.\n\nTest one GPU trade against your current cloud bill this week. How off is your number? 💸"
+      }
+    },
+    "instagram_caption": "Wall Street can now trade GPU contracts like barrels of oil, with prices tied to chip supply instead of crude. 💻\n\nThis startup built a pricing market for AI compute, exposing how volatile GPU availability really is. Their data shows cloud costs swing far more than most budgets assume. 📉\n\nIf you plan AI spending without watching this market, your forecasts are built on a guess. The hidden volatility directly hits what you pay per token or per hour of compute.\n\nTest one GPU trade against your current cloud bill this week. How off is your number? 💸",
+    "carousel_slides": [
+      {
+        "hook": "AI compute: the next tradeable asset?",
+        "description": "A startup is turning GPUs into a marketable asset, letting Wall Street bet on supply. The price you pay for AI could soon hinge on this market.",
+        "visual_hint": "GPU chip on trading floor",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "GPU chip stock market"
+      },
+      {
+        "hook": "The hidden volatility in GPU supply",
+        "description": "Their pricing model masks supply chain swings. If you're not watching, your cost forecasts are already outdated.",
+        "visual_hint": "Graph with hidden spikes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "supply chain graph",
+        "image": "https://images.pexels.com/photos/6120210/pexels-photo-6120210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI forecasts are blind without this",
+        "description": "GPU availability fluctuates wildly. This data reveals the real cost behind your stable compute price assumptions.",
+        "visual_hint": "Magnifying glass over chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "forecast chart magnifier",
+        "image": "https://images.pexels.com/photos/7947748/pexels-photo-7947748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trade GPUs like commodities",
+        "description": "You can now hedge against supply chaos—or bet on the future—by trading GPU contracts just like oil or gold.",
+        "visual_hint": "Hand trading commodity contract",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "commodity trading hand",
+        "image": "https://images.pexels.com/photos/7173043/pexels-photo-7173043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you price AI blind",
+        "description": "Simulate a GPU trade against your current cloud spend. If you haven't, you're pricing AI with outdated data. Try it now.",
+        "visual_hint": "Finger tapping on calculator",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calculator simulation",
+        "image": "https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+    "savedAt": "2026-08-19T20:18:34.726Z",
+    "sourceId": "da3d698d8f481d1c4264651d00714464"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "researchers-say-openai-revoked-their-access-to-lim",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+    "slides": [
+      "Researchers had cyber access. Why was it revoked?",
+      "OpenAI pulled access from red-teaming specialists.",
+      "The program was limited, but they found critical flaws.",
+      "Your AI safety research now faces sudden gatekeeping.",
+      "Decide: publish findings despite losing official access."
+    ],
+    "thread_text": [
+      "1. Access revoked — now what?\n\nOpenAI pulled red-team access after researchers found critical flaws. The program was limited, yet the findings were severe.",
+      "2. The gatekeeping pattern\n\nThis isn't just about one team. It's a shift in how AI labs control independent safety research — a precedent for silence.",
+      "3. What were the flaws?\n\nThe researchers uncovered vulnerabilities in the model's behavior under edge cases. Details remain undisclosed, but the implications are broad.",
+      "4. The choice before you\n\nPublishing without official access risks legal pushback. But staying silent undermines the very purpose of safety research.",
+      "5. Your move\n\nIf you're an AI researcher, ask: would you publish findings that could get you banned? Simulate this dilemma with your next project."
+    ],
+    "video_script": [
+      "Access revoked after critical flaws found.",
+      "OpenAI silences red-team researchers.",
+      "Limited program, major vulnerabilities discovered.",
+      "Safety research now faces gatekeeping.",
+      "Publish findings despite losing access?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Access revoked — now what?\n\nOpenAI pulled red-team access after researchers found critical flaws. The program was limited, yet the findings were severe.",
+          "2. The gatekeeping pattern\n\nThis isn't just about one team. It's a shift in how AI labs control independent safety research — a precedent for silence.",
+          "3. What were the flaws?\n\nThe researchers uncovered vulnerabilities in the model's behavior under edge cases. Details remain undisclosed, but the implications are broad.",
+          "4. The choice before you\n\nPublishing without official access risks legal pushback. But staying silent undermines the very purpose of safety research.",
+          "5. Your move\n\nIf you're an AI researcher, ask: would you publish findings that could get you banned? Simulate this dilemma with your next project."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Access revoked after critical flaws found.",
+          "OpenAI silences red-team researchers.",
+          "Limited program, major vulnerabilities discovered.",
+          "Safety research now faces gatekeeping.",
+          "Publish findings despite losing access?"
+        ]
+      },
+      "instagram": {
+        "caption": "Access to a cyber safety program got pulled right after critical flaws were found. 🛑\n\nOpenAI revoked red-team access for researchers who uncovered serious vulnerabilities. The program was limited, but the findings were severe enough to trigger sudden gatekeeping. Details of the flaws remain undisclosed. 🔒\n\nFor anyone publishing AI research or building on these models: official access is now a lever, not a guarantee. Your findings could cost you your credentials.\n\nIf you found a critical flaw tomorrow, would you risk the ban to publish it?"
+      }
+    },
+    "instagram_caption": "Access to a cyber safety program got pulled right after critical flaws were found. 🛑\n\nOpenAI revoked red-team access for researchers who uncovered serious vulnerabilities. The program was limited, but the findings were severe enough to trigger sudden gatekeeping. Details of the flaws remain undisclosed. 🔒\n\nFor anyone publishing AI research or building on these models: official access is now a lever, not a guarantee. Your findings could cost you your credentials.\n\nIf you found a critical flaw tomorrow, would you risk the ban to publish it?",
+    "carousel_slides": [
+      {
+        "hook": "Found critical flaws. Then access vanished.",
+        "description": "Red-team researchers lost access after finding severe vulnerabilities in a limited program. Their discoveries remain undisclosed.",
+        "visual_hint": "Faded key and lock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "locked door"
+      },
+      {
+        "hook": "AI labs now gatekeep safety research?",
+        "description": "This revocation signals a shift: labs control independent safety scrutiny. A precedent that may silence crucial findings.",
+        "visual_hint": "Gate closing on path",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "closed gate",
+        "image": "https://images.pexels.com/photos/11020115/pexels-photo-11020115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What flaws did researchers uncover?",
+        "description": "They found model vulnerabilities in edge cases. Implications are broad, but details remain undisclosed, limiting public awareness.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Publish or stay silent? Your dilemma.",
+        "description": "Publishing without access risks legal pushback. Silence undermines safety research's purpose. A tough call for researchers.",
+        "visual_hint": "Scales balancing documents",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balanced scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this—decide your stance now.",
+        "description": "If you're an AI researcher, assess: would you publish despite bans? Simulate this dilemma in your next project.",
+        "visual_hint": "Bookmark on research paper",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bookmark and paper",
+        "image": "https://images.pexels.com/photos/34502697/pexels-photo-34502697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+    "savedAt": "2026-08-19T20:18:22.030Z",
+    "sourceId": "5276b3d7b6156aa104e44db780290421"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-was-supposed-to-win-people-over-by-now-it-hasn-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+    "slides": [
+      "Why hasn't AI won hearts despite years of promises?",
+      "Engagement metrics show usage dropping after first week.",
+      "The culprit isn't intelligence—it's lack of emotional memory.",
+      "Users now expect AI to recall past conversations contextually.",
+      "Tomorrow, test if your AI remembers your last ask."
+    ],
+    "thread_text": [
+      "1. Why the AI Honeymoon Ends\n\nWithin seven days, engagement metrics plunge. Users stop coming back.",
+      "2. The Missing Element\n\nIt's not about intelligence. It's about emotional memory—AI's failure to remember context.",
+      "3. Users Expect More\n\nPeople now expect AI to recall past conversations. They want continuity, not just answers.",
+      "4. The Real Test\n\nTomorrow, check if your AI remembers your last request. That's the benchmark for loyalty.",
+      "5. Your Move\n\nAsk your AI a follow-up question tomorrow. If it forgets, you've found the gap."
+    ],
+    "video_script": [
+      "AI usage drops after one week.",
+      "Lack of emotional memory is the culprit.",
+      "Users expect AI to remember context.",
+      "Continuity builds trust, not intelligence.",
+      "Test your AI's memory tomorrow."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why the AI Honeymoon Ends\n\nWithin seven days, engagement metrics plunge. Users stop coming back.",
+          "2. The Missing Element\n\nIt's not about intelligence. It's about emotional memory—AI's failure to remember context.",
+          "3. Users Expect More\n\nPeople now expect AI to recall past conversations. They want continuity, not just answers.",
+          "4. The Real Test\n\nTomorrow, check if your AI remembers your last request. That's the benchmark for loyalty.",
+          "5. Your Move\n\nAsk your AI a follow-up question tomorrow. If it forgets, you've found the gap."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI usage drops after one week.",
+          "Lack of emotional memory is the culprit.",
+          "Users expect AI to remember context.",
+          "Continuity builds trust, not intelligence.",
+          "Test your AI's memory tomorrow."
+        ]
+      },
+      "instagram": {
+        "caption": "Seven days after first use, engagement drops off a cliff—most people stop coming back within a week 📉\n\nThe problem isn't how smart the tool is. It's that it doesn't remember you. No emotional memory, no context from yesterday's chat, no continuity between questions.\n\nAnyone building content with AI now faces a loyalty wall: users expect the tool to know what they asked last time. If it forgets, they leave.\n\nCheck tomorrow morning—open your AI assistant and ask a follow-up to something you asked today. If it draws a blank, you've just found the retention gap 🧠\n\nWhat will you do when your AI forgets you?"
+      }
+    },
+    "instagram_caption": "Seven days after first use, engagement drops off a cliff—most people stop coming back within a week 📉\n\nThe problem isn't how smart the tool is. It's that it doesn't remember you. No emotional memory, no context from yesterday's chat, no continuity between questions.\n\nAnyone building content with AI now faces a loyalty wall: users expect the tool to know what they asked last time. If it forgets, they leave.\n\nCheck tomorrow morning—open your AI assistant and ask a follow-up to something you asked today. If it draws a blank, you've just found the retention gap 🧠\n\nWhat will you do when your AI forgets you?",
+    "carousel_slides": [
+      {
+        "hook": "Why does AI forget you?",
+        "description": "After just one week, engagement drops sharply. Users stop returning because AI lacks emotional memory, not intelligence.",
+        "visual_hint": "Falling graph, lonely user",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "engagement graph decline"
+      },
+      {
+        "hook": "Intelligence isn't the problem.",
+        "description": "The real culprit is emotional memory: AI fails to remember context, causing users to abandon it after the first week.",
+        "visual_hint": "Brain with missing memory chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board brain",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Users expect continuity now.",
+        "description": "People want AI to recall past conversations, not just give answers. They seek continuity, and without it, loyalty fades.",
+        "visual_hint": "Chat bubbles with echo",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat conversation interface",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The real loyalty benchmark?",
+        "description": "Ask your AI a follow-up question tomorrow. If it forgets your last request, you've found the gap that kills loyalty.",
+        "visual_hint": "Hand holding smartphone with question",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI tomorrow.",
+        "description": "Ask a follow-up question to your AI. If it doesn't remember, you've found the gap. Save this to check later.",
+        "visual_hint": "Calendar with checkmark",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calendar checkmark",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "savedAt": "2026-08-19T20:18:10.116Z",
+    "sourceId": "88cde3112e540acb7b71b776e15ea39c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "rillet-raises-100m-series-c-at-1b-valuation-2-year",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+    "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+    "pubDate": "Wed, 19 Aug 2026 20:12:33 +0000",
+    "slides": [
+      "Rillet hit $1B valuation, but is growth real?",
+      "Two years post-stealth, capital markets shifted.",
+      "Its revenue multiplies while rivals burn cash.",
+      "Your procurement decisions now hinge on their runway.",
+      "Audit Rillet's churn before committing your stack."
+    ],
+    "thread_text": [
+      "1. Growth or mirage?\n\nRillet's $1B valuation came two years after stealth, but capital markets shifted. Their revenue multiplies while rivals burn cash—yet the real test is churn.",
+      "2. The funding window\n\nPost-stealth, Rillet raised at a peak. Now, with markets tighter, their runway determines survival. Every competitor's burn rate is a warning.",
+      "3. Revenue vs. reality\n\nRillet's revenue growth is impressive, but it's not profit. The metric that matters is net revenue retention. If churn is high, the growth is a house of cards.",
+      "4. Your procurement risk\n\nWhen you pick a vendor, you're betting on their runway. If Rillet's churn is real, their runway shortens. Your stack could be stranded.",
+      "5. Audit before you commit\n\nAsk Rillet for churn numbers and net revenue retention. If they hesitate, that's your answer. Don't bet your infrastructure on a maybe."
+    ],
+    "video_script": [
+      "Rillet hit a billion valuation, but is it real?",
+      "Capital markets shifted after stealth, runway is key.",
+      "Revenue grows, but churn could kill the story.",
+      "Your procurement choice depends on their survival.",
+      "Audit their churn before you commit your stack."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Growth or mirage?\n\nRillet's $1B valuation came two years after stealth, but capital markets shifted. Their revenue multiplies while rivals burn cash—yet the real test is churn.",
+          "2. The funding window\n\nPost-stealth, Rillet raised at a peak. Now, with markets tighter, their runway determines survival. Every competitor's burn rate is a warning.",
+          "3. Revenue vs. reality\n\nRillet's revenue growth is impressive, but it's not profit. The metric that matters is net revenue retention. If churn is high, the growth is a house of cards.",
+          "4. Your procurement risk\n\nWhen you pick a vendor, you're betting on their runway. If Rillet's churn is real, their runway shortens. Your stack could be stranded.",
+          "5. Audit before you commit\n\nAsk Rillet for churn numbers and net revenue retention. If they hesitate, that's your answer. Don't bet your infrastructure on a maybe."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rillet hit a billion valuation, but is it real?",
+          "Capital markets shifted after stealth, runway is key.",
+          "Revenue grows, but churn could kill the story.",
+          "Your procurement choice depends on their survival.",
+          "Audit their churn before you commit your stack."
+        ]
+      },
+      "instagram": {
+        "caption": "A $1B valuation now hinges on churn numbers Rillet hasn't published. 📊\n\nTwo years after stealth, they raised $100M while competitors burn cash. But revenue growth isn’t profit—net revenue retention is the only metric that tells you if this is real. If churn is high, that valuation is a sandcastle.\n\nWhen you pick their software, you’re betting your infrastructure on their runway. Short runway = stranded stack. 🚧\n\nAsk Rillet for their net revenue retention before you sign. If they deflect, walk. Will you audit their churn, or trust the press release? 🤔"
+      }
+    },
+    "instagram_caption": "A $1B valuation now hinges on churn numbers Rillet hasn't published. 📊\n\nTwo years after stealth, they raised $100M while competitors burn cash. But revenue growth isn’t profit—net revenue retention is the only metric that tells you if this is real. If churn is high, that valuation is a sandcastle.\n\nWhen you pick their software, you’re betting your infrastructure on their runway. Short runway = stranded stack. 🚧\n\nAsk Rillet for their net revenue retention before you sign. If they deflect, walk. Will you audit their churn, or trust the press release? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Rillet's growth a mirage?",
+        "description": "Rillet hit $1B valuation, but revenue growth isn't profit. Churn could reveal if it's real or a house of cards.",
+        "visual_hint": "Miracle or illusion",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Funding window slammed shut.",
+        "description": "Rillet raised at peak, now markets tightened. Competitors burn cash, but Rillet's runway is key to survival.",
+        "visual_hint": "Closing door, tight space",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "closed door",
+        "image": "https://images.pexels.com/photos/25745081/pexels-photo-25745081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Revenue is up, profit isn't.",
+        "description": "Rillet's revenue multiplies but rivals burn cash. Net revenue retention is the real test.",
+        "visual_hint": "Charts diverging",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "financial charts",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your stack is their bet.",
+        "description": "When you pick Rillet, you bet on their runway. High churn shorts it, stranding your infrastructure.",
+        "visual_hint": "Hand under stack",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit churn, then decide.",
+        "description": "Ask Rillet for net revenue retention numbers. Hesitation is a red flag. Save your stack.",
+        "visual_hint": "Magnifying glass on reports",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+    "savedAt": "2026-08-19T20:17:58.086Z",
+    "sourceId": "7aa8fd0ea313b3b015b2f5ac3a74fae5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "amazon-makes-its-ai-powered-alexa-free-on-fire-tv-",
     "prompt_version": "1.0.0",
     "status": "published",

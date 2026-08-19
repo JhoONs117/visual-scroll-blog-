@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "researchers-say-openai-revoked-their-access-to-lim",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Researchers say OpenAI revoked their access to limited cyber program",
+  "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+  "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+  "slides": [
+    "Researchers had cyber access. Why was it revoked?",
+    "OpenAI pulled access from red-teaming specialists.",
+    "The program was limited, but they found critical flaws.",
+    "Your AI safety research now faces sudden gatekeeping.",
+    "Decide: publish findings despite losing official access."
+  ],
+  "thread_text": [
+    "1. Access revoked — now what?\n\nOpenAI pulled red-team access after researchers found critical flaws. The program was limited, yet the findings were severe.",
+    "2. The gatekeeping pattern\n\nThis isn't just about one team. It's a shift in how AI labs control independent safety research — a precedent for silence.",
+    "3. What were the flaws?\n\nThe researchers uncovered vulnerabilities in the model's behavior under edge cases. Details remain undisclosed, but the implications are broad.",
+    "4. The choice before you\n\nPublishing without official access risks legal pushback. But staying silent undermines the very purpose of safety research.",
+    "5. Your move\n\nIf you're an AI researcher, ask: would you publish findings that could get you banned? Simulate this dilemma with your next project."
+  ],
+  "video_script": [
+    "Access revoked after critical flaws found.",
+    "OpenAI silences red-team researchers.",
+    "Limited program, major vulnerabilities discovered.",
+    "Safety research now faces gatekeeping.",
+    "Publish findings despite losing access?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Access revoked — now what?\n\nOpenAI pulled red-team access after researchers found critical flaws. The program was limited, yet the findings were severe.",
+        "2. The gatekeeping pattern\n\nThis isn't just about one team. It's a shift in how AI labs control independent safety research — a precedent for silence.",
+        "3. What were the flaws?\n\nThe researchers uncovered vulnerabilities in the model's behavior under edge cases. Details remain undisclosed, but the implications are broad.",
+        "4. The choice before you\n\nPublishing without official access risks legal pushback. But staying silent undermines the very purpose of safety research.",
+        "5. Your move\n\nIf you're an AI researcher, ask: would you publish findings that could get you banned? Simulate this dilemma with your next project."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Access revoked after critical flaws found.",
+        "OpenAI silences red-team researchers.",
+        "Limited program, major vulnerabilities discovered.",
+        "Safety research now faces gatekeeping.",
+        "Publish findings despite losing access?"
+      ]
+    },
+    "instagram": {
+      "caption": "Access to a cyber safety program got pulled right after critical flaws were found. 🛑\n\nOpenAI revoked red-team access for researchers who uncovered serious vulnerabilities. The program was limited, but the findings were severe enough to trigger sudden gatekeeping. Details of the flaws remain undisclosed. 🔒\n\nFor anyone publishing AI research or building on these models: official access is now a lever, not a guarantee. Your findings could cost you your credentials.\n\nIf you found a critical flaw tomorrow, would you risk the ban to publish it?"
+    }
+  },
+  "instagram_caption": "Access to a cyber safety program got pulled right after critical flaws were found. 🛑\n\nOpenAI revoked red-team access for researchers who uncovered serious vulnerabilities. The program was limited, but the findings were severe enough to trigger sudden gatekeeping. Details of the flaws remain undisclosed. 🔒\n\nFor anyone publishing AI research or building on these models: official access is now a lever, not a guarantee. Your findings could cost you your credentials.\n\nIf you found a critical flaw tomorrow, would you risk the ban to publish it?",
+  "carousel_slides": [
+    {
+      "hook": "Found critical flaws. Then access vanished.",
+      "description": "Red-team researchers lost access after finding severe vulnerabilities in a limited program. Their discoveries remain undisclosed.",
+      "visual_hint": "Faded key and lock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "locked door"
+    },
+    {
+      "hook": "AI labs now gatekeep safety research?",
+      "description": "This revocation signals a shift: labs control independent safety scrutiny. A precedent that may silence crucial findings.",
+      "visual_hint": "Gate closing on path",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "closed gate",
+      "image": "https://images.pexels.com/photos/11020115/pexels-photo-11020115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What flaws did researchers uncover?",
+      "description": "They found model vulnerabilities in edge cases. Implications are broad, but details remain undisclosed, limiting public awareness.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Publish or stay silent? Your dilemma.",
+      "description": "Publishing without access risks legal pushback. Silence undermines safety research's purpose. A tough call for researchers.",
+      "visual_hint": "Scales balancing documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "balanced scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—decide your stance now.",
+      "description": "If you're an AI researcher, assess: would you publish despite bans? Simulate this dilemma in your next project.",
+      "visual_hint": "Bookmark on research paper",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bookmark and paper",
+      "image": "https://images.pexels.com/photos/34502697/pexels-photo-34502697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+  "savedAt": "2026-08-19T20:18:22.030Z",
+  "sourceId": "5276b3d7b6156aa104e44db780290421"
+}

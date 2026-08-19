@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-was-supposed-to-win-people-over-by-now-it-hasn-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI was supposed to win people over by now — it hasn’t",
+  "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+  "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+  "slides": [
+    "Why hasn't AI won hearts despite years of promises?",
+    "Engagement metrics show usage dropping after first week.",
+    "The culprit isn't intelligence—it's lack of emotional memory.",
+    "Users now expect AI to recall past conversations contextually.",
+    "Tomorrow, test if your AI remembers your last ask."
+  ],
+  "thread_text": [
+    "1. Why the AI Honeymoon Ends\n\nWithin seven days, engagement metrics plunge. Users stop coming back.",
+    "2. The Missing Element\n\nIt's not about intelligence. It's about emotional memory—AI's failure to remember context.",
+    "3. Users Expect More\n\nPeople now expect AI to recall past conversations. They want continuity, not just answers.",
+    "4. The Real Test\n\nTomorrow, check if your AI remembers your last request. That's the benchmark for loyalty.",
+    "5. Your Move\n\nAsk your AI a follow-up question tomorrow. If it forgets, you've found the gap."
+  ],
+  "video_script": [
+    "AI usage drops after one week.",
+    "Lack of emotional memory is the culprit.",
+    "Users expect AI to remember context.",
+    "Continuity builds trust, not intelligence.",
+    "Test your AI's memory tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the AI Honeymoon Ends\n\nWithin seven days, engagement metrics plunge. Users stop coming back.",
+        "2. The Missing Element\n\nIt's not about intelligence. It's about emotional memory—AI's failure to remember context.",
+        "3. Users Expect More\n\nPeople now expect AI to recall past conversations. They want continuity, not just answers.",
+        "4. The Real Test\n\nTomorrow, check if your AI remembers your last request. That's the benchmark for loyalty.",
+        "5. Your Move\n\nAsk your AI a follow-up question tomorrow. If it forgets, you've found the gap."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI usage drops after one week.",
+        "Lack of emotional memory is the culprit.",
+        "Users expect AI to remember context.",
+        "Continuity builds trust, not intelligence.",
+        "Test your AI's memory tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "Seven days after first use, engagement drops off a cliff—most people stop coming back within a week 📉\n\nThe problem isn't how smart the tool is. It's that it doesn't remember you. No emotional memory, no context from yesterday's chat, no continuity between questions.\n\nAnyone building content with AI now faces a loyalty wall: users expect the tool to know what they asked last time. If it forgets, they leave.\n\nCheck tomorrow morning—open your AI assistant and ask a follow-up to something you asked today. If it draws a blank, you've just found the retention gap 🧠\n\nWhat will you do when your AI forgets you?"
+    }
+  },
+  "instagram_caption": "Seven days after first use, engagement drops off a cliff—most people stop coming back within a week 📉\n\nThe problem isn't how smart the tool is. It's that it doesn't remember you. No emotional memory, no context from yesterday's chat, no continuity between questions.\n\nAnyone building content with AI now faces a loyalty wall: users expect the tool to know what they asked last time. If it forgets, they leave.\n\nCheck tomorrow morning—open your AI assistant and ask a follow-up to something you asked today. If it draws a blank, you've just found the retention gap 🧠\n\nWhat will you do when your AI forgets you?",
+  "carousel_slides": [
+    {
+      "hook": "Why does AI forget you?",
+      "description": "After just one week, engagement drops sharply. Users stop returning because AI lacks emotional memory, not intelligence.",
+      "visual_hint": "Falling graph, lonely user",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "engagement graph decline"
+    },
+    {
+      "hook": "Intelligence isn't the problem.",
+      "description": "The real culprit is emotional memory: AI fails to remember context, causing users to abandon it after the first week.",
+      "visual_hint": "Brain with missing memory chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board brain",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users expect continuity now.",
+      "description": "People want AI to recall past conversations, not just give answers. They seek continuity, and without it, loyalty fades.",
+      "visual_hint": "Chat bubbles with echo",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat conversation interface",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real loyalty benchmark?",
+      "description": "Ask your AI a follow-up question tomorrow. If it forgets your last request, you've found the gap that kills loyalty.",
+      "visual_hint": "Hand holding smartphone with question",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI tomorrow.",
+      "description": "Ask a follow-up question to your AI. If it doesn't remember, you've found the gap. Save this to check later.",
+      "visual_hint": "Calendar with checkmark",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar checkmark",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+  "savedAt": "2026-08-19T20:18:10.116Z",
+  "sourceId": "88cde3112e540acb7b71b776e15ea39c"
+}
