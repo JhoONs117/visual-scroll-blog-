@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-makes-its-ai-powered-alexa-free-on-fire-tv-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+  "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+  "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
+  "slides": [
+    "Can Alexa+ finally make Fire TV worth it?",
+    "It's free, no Prime membership required.",
+    "But previous Alexa promises left users skeptical.",
+    "Now TV searches, recommendations, and dialogue become conversational.",
+    "Test it tonight: ask your Fire TV a complex question."
+  ],
+  "thread_text": [
+    "1. The free upgrade\n\nAlexa+ lands on Fire TV at no extra cost, and it doesn't need a Prime subscription to work.",
+    "2. Trust issues\n\nPast Alexa promises fell flat, so users are right to doubt whether the new conversational search will actually deliver.",
+    "3. Talk to your TV\n\nNow you can ask complex questions and get natural, spoken answers instead of scrolling through menus or typing.",
+    "4. The real test\n\nConversational recommendations might change how you find shows, but only if the AI understands what you actually mean.",
+    "5. Try it tonight\n\nAsk your Fire TV: \"What's a good sci-fi movie from the 90s with a twist ending?\" See what it says."
+  ],
+  "video_script": [
+    "Alexa+ is now free on Fire TV.",
+    "No Prime membership needed, that's huge.",
+    "But past promises make people skeptical.",
+    "Now you can talk naturally to search.",
+    "Ask your TV a complex question tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The free upgrade\n\nAlexa+ lands on Fire TV at no extra cost, and it doesn't need a Prime subscription to work.",
+        "2. Trust issues\n\nPast Alexa promises fell flat, so users are right to doubt whether the new conversational search will actually deliver.",
+        "3. Talk to your TV\n\nNow you can ask complex questions and get natural, spoken answers instead of scrolling through menus or typing.",
+        "4. The real test\n\nConversational recommendations might change how you find shows, but only if the AI understands what you actually mean.",
+        "5. Try it tonight\n\nAsk your Fire TV: \"What's a good sci-fi movie from the 90s with a twist ending?\" See what it says."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Alexa+ is now free on Fire TV.",
+        "No Prime membership needed, that's huge.",
+        "But past promises make people skeptical.",
+        "Now you can talk naturally to search.",
+        "Ask your TV a complex question tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "Alexa+ is now free on Fire TV, and you don't need a Prime membership to get it.  \n\nThe catch? Amazon has burned you before with Alexa promises that flopped, so skepticism is fair. This time, the pitch is conversational search: ask your TV a complex question and get a spoken answer instead of scrolling menus.  \n\nFor creators and publishers, this shifts how your content gets discovered—if the AI recommends it, you're on the watchlist. If it doesn't, you're invisible.  \n\nTonight, ask your Fire TV: “What’s a good 90s sci-fi with a twist ending?” Does it get you, or does it stall? 🤔📺🧠"
+    }
+  },
+  "instagram_caption": "Alexa+ is now free on Fire TV, and you don't need a Prime membership to get it.  \n\nThe catch? Amazon has burned you before with Alexa promises that flopped, so skepticism is fair. This time, the pitch is conversational search: ask your TV a complex question and get a spoken answer instead of scrolling menus.  \n\nFor creators and publishers, this shifts how your content gets discovered—if the AI recommends it, you're on the watchlist. If it doesn't, you're invisible.  \n\nTonight, ask your Fire TV: “What’s a good 90s sci-fi with a twist ending?” Does it get you, or does it stall? 🤔📺🧠",
+  "carousel_slides": [
+    {
+      "hook": "Is it finally worth it?",
+      "description": "Alexa+ on Fire TV is now free with no Prime required. But past disappointments make this a genuine question.",
+      "visual_hint": "Fire TV remote close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Fire TV remote"
+    },
+    {
+      "hook": "Free, no Prime needed.",
+      "description": "This upgrade costs nothing extra and doesn't require a Prime subscription. That's a big shift from previous Alexa features.",
+      "visual_hint": "Price tag with zero",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "price tag zero",
+      "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust issues remain.",
+      "description": "Alexa's past promises fell flat, so skepticism is justified. Will the new conversational search actually deliver this time?",
+      "visual_hint": "Question mark over TV",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "question mark TV",
+      "image": "https://images.pexels.com/photos/10712402/pexels-photo-10712402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Talk to your TV naturally.",
+      "description": "Now you can ask complex questions and get spoken answers instead of scrolling menus. Conversational search might change how you find shows.",
+      "visual_hint": "Person talking to TV",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person talking TV",
+      "image": "https://images.pexels.com/photos/12621227/pexels-photo-12621227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it tonight: ask a complex question.",
+      "description": "Example: 'What's a good sci-fi movie from the 90s with a twist ending?' See if Alexa+ understands. Test it and share your results.",
+      "visual_hint": "TV with speech bubble",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "TV speech bubble",
+      "image": "https://images.pexels.com/photos/12091729/pexels-photo-12091729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
+  "savedAt": "2026-08-19T16:20:33.873Z",
+  "sourceId": "655769ab72fd01b5bb1493d91a90cc8e"
+}

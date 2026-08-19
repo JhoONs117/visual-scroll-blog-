@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "amazon-makes-its-ai-powered-alexa-free-on-fire-tv-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "pubDate": "Wed, 19 Aug 2026 15:00:00 +0000",
+    "slides": [
+      "Can Alexa+ finally make Fire TV worth it?",
+      "It's free, no Prime membership required.",
+      "But previous Alexa promises left users skeptical.",
+      "Now TV searches, recommendations, and dialogue become conversational.",
+      "Test it tonight: ask your Fire TV a complex question."
+    ],
+    "thread_text": [
+      "1. The free upgrade\n\nAlexa+ lands on Fire TV at no extra cost, and it doesn't need a Prime subscription to work.",
+      "2. Trust issues\n\nPast Alexa promises fell flat, so users are right to doubt whether the new conversational search will actually deliver.",
+      "3. Talk to your TV\n\nNow you can ask complex questions and get natural, spoken answers instead of scrolling through menus or typing.",
+      "4. The real test\n\nConversational recommendations might change how you find shows, but only if the AI understands what you actually mean.",
+      "5. Try it tonight\n\nAsk your Fire TV: \"What's a good sci-fi movie from the 90s with a twist ending?\" See what it says."
+    ],
+    "video_script": [
+      "Alexa+ is now free on Fire TV.",
+      "No Prime membership needed, that's huge.",
+      "But past promises make people skeptical.",
+      "Now you can talk naturally to search.",
+      "Ask your TV a complex question tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The free upgrade\n\nAlexa+ lands on Fire TV at no extra cost, and it doesn't need a Prime subscription to work.",
+          "2. Trust issues\n\nPast Alexa promises fell flat, so users are right to doubt whether the new conversational search will actually deliver.",
+          "3. Talk to your TV\n\nNow you can ask complex questions and get natural, spoken answers instead of scrolling through menus or typing.",
+          "4. The real test\n\nConversational recommendations might change how you find shows, but only if the AI understands what you actually mean.",
+          "5. Try it tonight\n\nAsk your Fire TV: \"What's a good sci-fi movie from the 90s with a twist ending?\" See what it says."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Alexa+ is now free on Fire TV.",
+          "No Prime membership needed, that's huge.",
+          "But past promises make people skeptical.",
+          "Now you can talk naturally to search.",
+          "Ask your TV a complex question tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "Alexa+ is now free on Fire TV, and you don't need a Prime membership to get it.  \n\nThe catch? Amazon has burned you before with Alexa promises that flopped, so skepticism is fair. This time, the pitch is conversational search: ask your TV a complex question and get a spoken answer instead of scrolling menus.  \n\nFor creators and publishers, this shifts how your content gets discovered—if the AI recommends it, you're on the watchlist. If it doesn't, you're invisible.  \n\nTonight, ask your Fire TV: “What’s a good 90s sci-fi with a twist ending?” Does it get you, or does it stall? 🤔📺🧠"
+      }
+    },
+    "instagram_caption": "Alexa+ is now free on Fire TV, and you don't need a Prime membership to get it.  \n\nThe catch? Amazon has burned you before with Alexa promises that flopped, so skepticism is fair. This time, the pitch is conversational search: ask your TV a complex question and get a spoken answer instead of scrolling menus.  \n\nFor creators and publishers, this shifts how your content gets discovered—if the AI recommends it, you're on the watchlist. If it doesn't, you're invisible.  \n\nTonight, ask your Fire TV: “What’s a good 90s sci-fi with a twist ending?” Does it get you, or does it stall? 🤔📺🧠",
+    "carousel_slides": [
+      {
+        "hook": "Is it finally worth it?",
+        "description": "Alexa+ on Fire TV is now free with no Prime required. But past disappointments make this a genuine question.",
+        "visual_hint": "Fire TV remote close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Fire TV remote"
+      },
+      {
+        "hook": "Free, no Prime needed.",
+        "description": "This upgrade costs nothing extra and doesn't require a Prime subscription. That's a big shift from previous Alexa features.",
+        "visual_hint": "Price tag with zero",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "price tag zero",
+        "image": "https://images.pexels.com/photos/5926248/pexels-photo-5926248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust issues remain.",
+        "description": "Alexa's past promises fell flat, so skepticism is justified. Will the new conversational search actually deliver this time?",
+        "visual_hint": "Question mark over TV",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "question mark TV",
+        "image": "https://images.pexels.com/photos/10712402/pexels-photo-10712402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Talk to your TV naturally.",
+        "description": "Now you can ask complex questions and get spoken answers instead of scrolling menus. Conversational search might change how you find shows.",
+        "visual_hint": "Person talking to TV",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person talking TV",
+        "image": "https://images.pexels.com/photos/12621227/pexels-photo-12621227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it tonight: ask a complex question.",
+        "description": "Example: 'What's a good sci-fi movie from the 90s with a twist ending?' See if Alexa+ understands. Test it and share your results.",
+        "visual_hint": "TV with speech bubble",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "TV speech bubble",
+        "image": "https://images.pexels.com/photos/12091729/pexels-photo-12091729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
+    "savedAt": "2026-08-19T16:20:33.873Z",
+    "sourceId": "655769ab72fd01b5bb1493d91a90cc8e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "terrapower-s-nuclear-reactor-has-a-secret-weapon-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "pubDate": "Wed, 19 Aug 2026 15:44:53 +0000",
+    "slides": [
+      "Can TerraPower's reactor outpace AI's insatiable grid demand?",
+      "Its Natrium design pairs sodium cooling with molten salt storage.",
+      "The secret: it ramps output faster than any nuclear plant before.",
+      "Data centers could ditch diesel backups for this dispatchable carbon-free power.",
+      "Test the ramp rate against your peak load forecasts this quarter."
+    ],
+    "thread_text": [
+      "1. Can it outpace AI?\n\nTerraPower's Natrium design pairs sodium cooling with molten salt storage, promising faster ramp rates than any nuclear plant before.",
+      "2. The ramp rate secret\n\nBy ramping output faster than traditional reactors, Natrium can match AI's volatile power demands, avoiding the slow response that plagues nuclear energy.",
+      "3. Data centers' diesel problem\n\nThis dispatchable carbon-free power could replace diesel backups, offering a cleaner, immediate response to peak load spikes without emissions.",
+      "4. The grid's new flexibility\n\nWith molten salt storage, Natrium doesn't just generate—it stores energy, shifting supply to when AI workloads surge, unlike baseload nuclear.",
+      "5. Test it this quarter\n\nCompare Natrium's ramp rate against your peak load forecasts. If it fits, why keep diesel generators on standby?"
+    ],
+    "video_script": [
+      "TerraPower's reactor might outpace AI's demand.",
+      "Sodium cooling and molten salt store energy.",
+      "Ramps up faster than any nuclear reactor.",
+      "Data centers can ditch diesel for clean power.",
+      "Test ramp rate against your peak forecasts."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can it outpace AI?\n\nTerraPower's Natrium design pairs sodium cooling with molten salt storage, promising faster ramp rates than any nuclear plant before.",
+          "2. The ramp rate secret\n\nBy ramping output faster than traditional reactors, Natrium can match AI's volatile power demands, avoiding the slow response that plagues nuclear energy.",
+          "3. Data centers' diesel problem\n\nThis dispatchable carbon-free power could replace diesel backups, offering a cleaner, immediate response to peak load spikes without emissions.",
+          "4. The grid's new flexibility\n\nWith molten salt storage, Natrium doesn't just generate—it stores energy, shifting supply to when AI workloads surge, unlike baseload nuclear.",
+          "5. Test it this quarter\n\nCompare Natrium's ramp rate against your peak load forecasts. If it fits, why keep diesel generators on standby?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "TerraPower's reactor might outpace AI's demand.",
+          "Sodium cooling and molten salt store energy.",
+          "Ramps up faster than any nuclear reactor.",
+          "Data centers can ditch diesel for clean power.",
+          "Test ramp rate against your peak forecasts."
+        ]
+      },
+      "instagram": {
+        "caption": "Nuclear plants are slow to turn up the dial—except this one.\n\nTerraPower’s Natrium design uses sodium cooling plus molten salt storage to ramp output faster than any reactor before it. That means it can chase AI data centers' wild, spiking power loads instead of forcing the grid to chase them. ⚡\n\nFor you, this kills the excuse that clean power can't handle peak demand. It's not baseload-only anymore; it's dispatchable. 📉\n\nSo, this quarter, run your peak load forecasts against Natrium's ramp rate. Would that replace the diesel backups you're still paying for? 🔋"
+      }
+    },
+    "instagram_caption": "Nuclear plants are slow to turn up the dial—except this one.\n\nTerraPower’s Natrium design uses sodium cooling plus molten salt storage to ramp output faster than any reactor before it. That means it can chase AI data centers' wild, spiking power loads instead of forcing the grid to chase them. ⚡\n\nFor you, this kills the excuse that clean power can't handle peak demand. It's not baseload-only anymore; it's dispatchable. 📉\n\nSo, this quarter, run your peak load forecasts against Natrium's ramp rate. Would that replace the diesel backups you're still paying for? 🔋",
+    "carousel_slides": [
+      {
+        "hook": "Can it outpace AI's grid demand?",
+        "description": "TerraPower's Natrium pairs sodium cooling with molten salt, promising faster ramp rates than any nuclear plant before—a true grid game-changer.",
+        "visual_hint": "Nuclear reactor with molten salt tanks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "nuclear power plant"
+      },
+      {
+        "hook": "The ramp rate secret",
+        "description": "Natrium ramps output faster than traditional reactors, matching AI's volatile power demands without nuclear's usual slow response.",
+        "visual_hint": "Speed gauge against a reactor cross-section",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sodium reactor diagram",
+        "image": "https://images.pexels.com/photos/5324972/pexels-photo-5324972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Replace diesel backups now",
+        "description": "Dispatchable and carbon-free, Natrium could replace diesel generators for data centers, offering clean, immediate response to peak load spikes.",
+        "visual_hint": "Diesel generator crossed out with a leaf",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "diesel generator machine",
+        "image": "https://images.pexels.com/photos/31103436/pexels-photo-31103436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stored energy on demand",
+        "description": "Molten salt storage lets Natrium shift supply to when AI workloads surge—unlike baseload nuclear, it's flexible grid power.",
+        "visual_hint": "Clock over molten salt tanks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "storage tank industrial",
+        "image": "https://images.pexels.com/photos/15612071/pexels-photo-15612071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your loads",
+        "description": "Calculate Natrium's ramp rate against your peak load forecasts this quarter. If it fits future needs, drop diesel backups.",
+        "visual_hint": "Calculator beside a demand curve graph",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "energy demand chart",
+        "image": "https://images.pexels.com/photos/7948071/pexels-photo-7948071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
+    "savedAt": "2026-08-19T16:20:21.350Z",
+    "sourceId": "b7d34b8d601da5d5c3f7a9f53c78b419"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-isn-t-close-to-curing-cancer-this-startup-says-",
     "prompt_version": "1.0.0",
     "status": "published",
