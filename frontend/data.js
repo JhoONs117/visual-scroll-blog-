@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "robin-williams-instagram-account-brought-back-to-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "pubDate": "2026-08-18T19:48:26.000Z",
+    "slides": [
+      "Can a dead comedian's voice still control his legacy?",
+      "His daughter revived his Instagram to police AI impersonation.",
+      "The account now publicly flags unauthorized digital cloning.",
+      "Your favorite celebrity's digital afterlife needs similar guardianship.",
+      "Draft your own AI-death policy before platforms decide for you."
+    ],
+    "thread_text": [
+      "1. Who owns a dead voice?\n\nHis daughter reactivated Robin Williams' Instagram to expose AI clones. The account now flags every unauthorized impersonation.",
+      "2. The digital ghost problem\n\nPlatforms default to silence or chaos when you die. Without a policy, your voice becomes public property.",
+      "3. The twist: legacy as lawsuit\n\nWilliams' estate isn't just mourning—it's policing. Digital cloning is a legal minefield, and his account is the new frontline.",
+      "4. The consequence: your idol's fake\n\nImagine a deepfake of your favorite actor selling crypto. No guardian means no control over that narrative.",
+      "5. Draft your digital will now\n\nWrite a simple document: who accesses your accounts, and what AI can do with your voice? Or accept that platforms decide for you."
+    ],
+    "video_script": [
+      "A dead comedian's voice still echoes online.",
+      "His daughter fights AI impostors on Instagram.",
+      "The account now flags unauthorized clones.",
+      "Your favorite star's digital ghost needs a guardian.",
+      "Draft your death policy before platforms decide."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns a dead voice?\n\nHis daughter reactivated Robin Williams' Instagram to expose AI clones. The account now flags every unauthorized impersonation.",
+          "2. The digital ghost problem\n\nPlatforms default to silence or chaos when you die. Without a policy, your voice becomes public property.",
+          "3. The twist: legacy as lawsuit\n\nWilliams' estate isn't just mourning—it's policing. Digital cloning is a legal minefield, and his account is the new frontline.",
+          "4. The consequence: your idol's fake\n\nImagine a deepfake of your favorite actor selling crypto. No guardian means no control over that narrative.",
+          "5. Draft your digital will now\n\nWrite a simple document: who accesses your accounts, and what AI can do with your voice? Or accept that platforms decide for you."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A dead comedian's voice still echoes online.",
+          "His daughter fights AI impostors on Instagram.",
+          "The account now flags unauthorized clones.",
+          "Your favorite star's digital ghost needs a guardian.",
+          "Draft your death policy before platforms decide."
+        ]
+      },
+      "instagram": {
+        "caption": "Robin Williams’ daughter reactivated his Instagram account—not to post memories, but to call out AI clones of her father. The profile now publicly flags unauthorized digital impersonations of his voice and image. 🎭\n\nHis estate is actively policing this, turning the account into a legal frontline against deepfake misuse. Without someone doing that, a dead person’s likeness becomes fair game on platforms.\n\nIf you create content—voice, art, writing—your work could be cloned after you’re gone. Platforms will default to whoever files first, not whoever you trusted.\n\nWho gets to speak for your digital self when you can’t? Write one line in your will about it now. ⚖️💬"
+      }
+    },
+    "instagram_caption": "Robin Williams’ daughter reactivated his Instagram account—not to post memories, but to call out AI clones of her father. The profile now publicly flags unauthorized digital impersonations of his voice and image. 🎭\n\nHis estate is actively policing this, turning the account into a legal frontline against deepfake misuse. Without someone doing that, a dead person’s likeness becomes fair game on platforms.\n\nIf you create content—voice, art, writing—your work could be cloned after you’re gone. Platforms will default to whoever files first, not whoever you trusted.\n\nWho gets to speak for your digital self when you can’t? Write one line in your will about it now. ⚖️💬",
+    "carousel_slides": [
+      {
+        "hook": "Who owns a dead voice?",
+        "description": "Robin Williams' daughter reactivated his Instagram to expose AI clones. Every unauthorized impersonation is now flagged publicly.",
+        "visual_hint": "Phone screen with Instagram profile",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone instagram profile"
+      },
+      {
+        "hook": "Digital ghosts haunt platforms",
+        "description": "When you die, platforms default to silence or chaos. Without a policy, your voice becomes public property.",
+        "visual_hint": "Ghostly silhouette over a keyboard",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "keyboard dark room",
+        "image": "https://images.pexels.com/photos/33888376/pexels-photo-33888376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Legacy becomes a lawsuit",
+        "description": "Williams' estate isn't just mourning—it's policing. Digital cloning is a legal minefield, and his account is the new frontline.",
+        "visual_hint": "Gavel next to a smartphone",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "gavel smartphone",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your idol's deepfake sells crypto",
+        "description": "Imagine a fake celebrity endorsing scams. No guardian means no control over that narrative.",
+        "visual_hint": "Deepfake face on a billboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "billboard city street",
+        "image": "https://images.pexels.com/photos/4700105/pexels-photo-4700105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Draft your digital will now",
+        "description": "Write who accesses your accounts and what AI can do with your voice. Otherwise, platforms decide for you.",
+        "visual_hint": "Pen signing a document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "signing document pen",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&amp;strip=all&amp;crop=0%2C17.382841712709%2C100%2C43.498314038293&amp;w=1200",
+    "savedAt": "2026-08-19T00:42:58.894Z",
+    "sourceId": "024315d82a76560fc64dec6c87c1c1fe"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-new-macos-update-reportedly-contains-a-vid",
     "prompt_version": "1.0.0",
     "status": "published",
