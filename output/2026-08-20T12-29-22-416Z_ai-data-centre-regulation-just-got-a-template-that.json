@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-data-centre-regulation-just-got-a-template-that",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI data centre regulation just got a template that needs no new law",
+  "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+  "pubDate": "Thu, 20 Aug 2026 08:00:00 +0000",
+  "slides": [
+    "Can AI data centres be regulated without new laws?",
+    "A new template uses existing legal powers only.",
+    "It targets energy, water, and local permits directly.",
+    "Operators now face concrete compliance tests immediately.",
+    "Review your current permits against this template today."
+  ],
+  "thread_text": [
+    "1. No New Laws Needed\n\nA new template targets AI data centers using only existing legal powers, directly hitting energy, water, and permits.",
+    "2. The Twist: Immediate Tests\n\nOperators now face concrete compliance tests right away, not future regulations.",
+    "3. Energy and Water in the Crosshairs\n\nThis approach leverages current environmental and zoning rules, forcing data centers to prove their operations meet standards.",
+    "4. Local Permits Become Frontline\n\nLocal authorities can now use this template to scrutinize every new AI facility, shifting the battleground from federal to local.",
+    "5. Check Your Permits Now\n\nReview your current permits against this template today. If you're operating a data center, are you already out of compliance?"
+  ],
+  "video_script": [
+    "No new laws needed. Existing powers work.",
+    "Targets energy, water, and local permits.",
+    "Operators face immediate compliance tests now.",
+    "Review your permits against this template.",
+    "Are you already failing? Act today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No New Laws Needed\n\nA new template targets AI data centers using only existing legal powers, directly hitting energy, water, and permits.",
+        "2. The Twist: Immediate Tests\n\nOperators now face concrete compliance tests right away, not future regulations.",
+        "3. Energy and Water in the Crosshairs\n\nThis approach leverages current environmental and zoning rules, forcing data centers to prove their operations meet standards.",
+        "4. Local Permits Become Frontline\n\nLocal authorities can now use this template to scrutinize every new AI facility, shifting the battleground from federal to local.",
+        "5. Check Your Permits Now\n\nReview your current permits against this template today. If you're operating a data center, are you already out of compliance?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "No new laws needed. Existing powers work.",
+        "Targets energy, water, and local permits.",
+        "Operators face immediate compliance tests now.",
+        "Review your permits against this template.",
+        "Are you already failing? Act today."
+      ]
+    },
+    "instagram": {
+      "caption": "There’s a new compliance checklist for AI data centres, and it uses legal powers that already exist on the books.\n\nIt goes straight at energy use, water consumption, and local permits. Operators have to pass concrete tests right now, not at some future review date. Local authorities can start applying this template to every new facility immediately.\n\nFor anyone running or planning a data centre, the battleground just shifted to your current paperwork. Pull your existing permits and check them against this template today—yesterday’s approvals might already be a problem.\n\nAre you sure your operations would pass these tests this week? ♻️⚡📋"
+    }
+  },
+  "instagram_caption": "There’s a new compliance checklist for AI data centres, and it uses legal powers that already exist on the books.\n\nIt goes straight at energy use, water consumption, and local permits. Operators have to pass concrete tests right now, not at some future review date. Local authorities can start applying this template to every new facility immediately.\n\nFor anyone running or planning a data centre, the battleground just shifted to your current paperwork. Pull your existing permits and check them against this template today—yesterday’s approvals might already be a problem.\n\nAre you sure your operations would pass these tests this week? ♻️⚡📋",
+  "carousel_slides": [
+    {
+      "hook": "No new laws? Really?",
+      "description": "A new template regulates AI data centers using existing legal powers, directly targeting energy, water, and local permits—forcing immediate compliance tests.",
+      "visual_hint": "Stacked legal documents with gears",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Compliance tests hit now.",
+      "description": "Operators face concrete compliance tests immediately, not future rules—using current environmental and zoning laws to enforce standards today.",
+      "visual_hint": "Checklist with clock overlay",
+      "layout_type": "right-focus",
+      "icon": "check",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Energy and water under fire.",
+      "description": "This template leverages existing environmental rules to scrutinize data center energy and water usage, forcing proof of operational standards.",
+      "visual_hint": "Water droplet and lightning bolt",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local permits become frontline.",
+      "description": "Local authorities can use this template to vet every new AI facility, shifting the regulatory battleground from federal to municipal level.",
+      "visual_hint": "Local town hall with permit stamp",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: check permits now.",
+      "description": "Review your current permits against this template immediately. If you run a data center, you might already be out of compliance. Act now.",
+      "visual_hint": "Magnifying glass over permits",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-20T12:30:18.097Z",
+  "sourceId": "9df37d9e2fb4711cc46c41a020f4f371"
+}

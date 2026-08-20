@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "agentic-ai-in-government-just-hit-the-hard-part-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+  "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+  "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
+  "slides": [
+    "Who decides what a machine may decide?",
+    "Governments now deploy autonomous agents for public services.",
+    "No law currently defines machine decision-making limits.",
+    "Your agency's next workflow could rely on unregulated AI.",
+    "Audit every automated decision before trusting it."
+  ],
+  "thread_text": [
+    "1. Who holds the leash?\n\nGovernments are already using autonomous agents to approve benefits and flag fraud, with no law defining what they can decide.",
+    "2. The legal void\n\nNo statute or precedent currently caps machine decision-making, so your agency's next workflow could rely on unregulated AI without oversight.",
+    "3. Real impact now\n\nA Dutch scandal saw algorithms wrongly accuse families of fraud, forcing resignations—yet no law was broken because none existed.",
+    "4. Hidden in plain sight\n\nEven your internal tools—chatbots, ranking systems—may be making judgments that affect hiring or customer outcomes, unchecked.",
+    "5. Your next audit\n\nBefore you trust any automated output, ask: Can you trace exactly why it chose that? If not, stop and demand a manual override."
+  ],
+  "video_script": [
+    "Who decides what a machine may decide?",
+    "Governments already use AI for public services.",
+    "No law defines limits on machine decisions.",
+    "Your next workflow might rely on unregulated AI.",
+    "Audit every automated decision before trusting it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who holds the leash?\n\nGovernments are already using autonomous agents to approve benefits and flag fraud, with no law defining what they can decide.",
+        "2. The legal void\n\nNo statute or precedent currently caps machine decision-making, so your agency's next workflow could rely on unregulated AI without oversight.",
+        "3. Real impact now\n\nA Dutch scandal saw algorithms wrongly accuse families of fraud, forcing resignations—yet no law was broken because none existed.",
+        "4. Hidden in plain sight\n\nEven your internal tools—chatbots, ranking systems—may be making judgments that affect hiring or customer outcomes, unchecked.",
+        "5. Your next audit\n\nBefore you trust any automated output, ask: Can you trace exactly why it chose that? If not, stop and demand a manual override."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who decides what a machine may decide?",
+        "Governments already use AI for public services.",
+        "No law defines limits on machine decisions.",
+        "Your next workflow might rely on unregulated AI.",
+        "Audit every automated decision before trusting it."
+      ]
+    },
+    "instagram": {
+      "caption": "An algorithm already approved or denied your benefits—or flagged you for fraud—without a single law saying it could. 🧾\n\nThe Dutch tax authority did exactly that, accusing thousands of families of fraud. The scandal forced resignations. No law was broken, because no law existed to break. Your agency, your employer, your bank—they can all deploy the same agents tomorrow. No oversight required.\n\nIf you build or publish anything that uses automated decisions, you can’t assume a human checked it. You can’t assume anyone checked it at all.\n\nBefore you hit publish on that next workflow, can you trace exactly why the machine chose what it chose? If you can’t, hit stop. 🔎"
+    }
+  },
+  "instagram_caption": "An algorithm already approved or denied your benefits—or flagged you for fraud—without a single law saying it could. 🧾\n\nThe Dutch tax authority did exactly that, accusing thousands of families of fraud. The scandal forced resignations. No law was broken, because no law existed to break. Your agency, your employer, your bank—they can all deploy the same agents tomorrow. No oversight required.\n\nIf you build or publish anything that uses automated decisions, you can’t assume a human checked it. You can’t assume anyone checked it at all.\n\nBefore you hit publish on that next workflow, can you trace exactly why the machine chose what it chose? If you can’t, hit stop. 🔎",
+  "carousel_slides": [
+    {
+      "hook": "No law stops AI decisions.",
+      "description": "Governments deploy autonomous agents for benefits and fraud, but no statute defines their limits. Your agency's next workflow could rely on unregulated AI.",
+      "visual_hint": "Gavel next to robot arm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "gavel robot arm"
+    },
+    {
+      "hook": "Who holds the leash?",
+      "description": "Autonomous agents now approve benefits and flag fraud, with no legal framework capping their decisions. The void is real, and oversight is absent.",
+      "visual_hint": "Government building with digital leash",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Algorithms accused innocent families.",
+      "description": "In a Dutch scandal, automated systems wrongly flagged families for fraud, causing resignations. No law was broken because none existed for machine decisions.",
+      "visual_hint": "Algorithm error alert on screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer screen error",
+      "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your internal tools are unchecked.",
+      "description": "Chatbots and ranking systems in your agency silently make judgments affecting hiring and outcomes, without any audit or manual override built in.",
+      "visual_hint": "Chatbot interface with hidden gears",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chatbot interface",
+      "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit before you trust AI.",
+      "description": "Before relying on any automated output, trace exactly why it chose that result. If you can't, stop and demand a manual override now.",
+      "visual_hint": "Magnifying glass over audit checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-20T12:29:52.976Z",
+  "sourceId": "e3d7b0428306e438320db9a3291acd2c"
+}

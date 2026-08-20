@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-data-centre-regulation-just-got-a-template-that",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "pubDate": "Thu, 20 Aug 2026 08:00:00 +0000",
+      "slides": [
+        "Can AI data centres be regulated without new laws?",
+        "A new template uses existing legal powers only.",
+        "It targets energy, water, and local permits directly.",
+        "Operators now face concrete compliance tests immediately.",
+        "Review your current permits against this template today."
+      ],
+      "thread_text": [
+        "1. No New Laws Needed\n\nA new template targets AI data centers using only existing legal powers, directly hitting energy, water, and permits.",
+        "2. The Twist: Immediate Tests\n\nOperators now face concrete compliance tests right away, not future regulations.",
+        "3. Energy and Water in the Crosshairs\n\nThis approach leverages current environmental and zoning rules, forcing data centers to prove their operations meet standards.",
+        "4. Local Permits Become Frontline\n\nLocal authorities can now use this template to scrutinize every new AI facility, shifting the battleground from federal to local.",
+        "5. Check Your Permits Now\n\nReview your current permits against this template today. If you're operating a data center, are you already out of compliance?"
+      ],
+      "video_script": [
+        "No new laws needed. Existing powers work.",
+        "Targets energy, water, and local permits.",
+        "Operators face immediate compliance tests now.",
+        "Review your permits against this template.",
+        "Are you already failing? Act today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. No New Laws Needed\n\nA new template targets AI data centers using only existing legal powers, directly hitting energy, water, and permits.",
+            "2. The Twist: Immediate Tests\n\nOperators now face concrete compliance tests right away, not future regulations.",
+            "3. Energy and Water in the Crosshairs\n\nThis approach leverages current environmental and zoning rules, forcing data centers to prove their operations meet standards.",
+            "4. Local Permits Become Frontline\n\nLocal authorities can now use this template to scrutinize every new AI facility, shifting the battleground from federal to local.",
+            "5. Check Your Permits Now\n\nReview your current permits against this template today. If you're operating a data center, are you already out of compliance?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "No new laws needed. Existing powers work.",
+            "Targets energy, water, and local permits.",
+            "Operators face immediate compliance tests now.",
+            "Review your permits against this template.",
+            "Are you already failing? Act today."
+          ]
+        },
+        "instagram": {
+          "caption": "There’s a new compliance checklist for AI data centres, and it uses legal powers that already exist on the books.\n\nIt goes straight at energy use, water consumption, and local permits. Operators have to pass concrete tests right now, not at some future review date. Local authorities can start applying this template to every new facility immediately.\n\nFor anyone running or planning a data centre, the battleground just shifted to your current paperwork. Pull your existing permits and check them against this template today—yesterday’s approvals might already be a problem.\n\nAre you sure your operations would pass these tests this week? ♻️⚡📋"
+        }
+      },
+      "instagram_caption": "There’s a new compliance checklist for AI data centres, and it uses legal powers that already exist on the books.\n\nIt goes straight at energy use, water consumption, and local permits. Operators have to pass concrete tests right now, not at some future review date. Local authorities can start applying this template to every new facility immediately.\n\nFor anyone running or planning a data centre, the battleground just shifted to your current paperwork. Pull your existing permits and check them against this template today—yesterday’s approvals might already be a problem.\n\nAre you sure your operations would pass these tests this week? ♻️⚡📋",
+      "carousel_slides": [
+        {
+          "hook": "No new laws? Really?",
+          "description": "A new template regulates AI data centers using existing legal powers, directly targeting energy, water, and local permits—forcing immediate compliance tests.",
+          "visual_hint": "Stacked legal documents with gears",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Compliance tests hit now.",
+          "description": "Operators face concrete compliance tests immediately, not future rules—using current environmental and zoning laws to enforce standards today.",
+          "visual_hint": "Checklist with clock overlay",
+          "layout_type": "right-focus",
+          "icon": "check",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Energy and water under fire.",
+          "description": "This template leverages existing environmental rules to scrutinize data center energy and water usage, forcing proof of operational standards.",
+          "visual_hint": "Water droplet and lightning bolt",
+          "layout_type": "sensor-zoom",
+          "icon": "waves",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Local permits become frontline.",
+          "description": "Local authorities can use this template to vet every new AI facility, shifting the regulatory battleground from federal to municipal level.",
+          "visual_hint": "Local town hall with permit stamp",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office building",
+          "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: check permits now.",
+          "description": "Review your current permits against this template immediately. If you run a data center, you might already be out of compliance. Act now.",
+          "visual_hint": "Magnifying glass over permits",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "legal documents",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-20T12:30:18.097Z",
+      "sourceId": "9df37d9e2fb4711cc46c41a020f4f371"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a-third-of-chatgpt-ads-appear-in-irrelevant-conver",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "pubDate": "Thu, 20 Aug 2026 08:07:40 +0000",
+      "slides": [
+        "Every third ChatGPT ad lands in irrelevant chats — why?",
+        "New analysis reveals ad placement follows tone, not topic.",
+        "Same ad appears beside emotionally opposite conversations.",
+        "Advertisers overpay for reach while users see misfits.",
+        "Audit your ad context before scaling any campaign."
+      ],
+      "thread_text": [
+        "1. Why ads miss the mark?\n\nChatGPT ads are landing in chats where they don't belong, wasting your budget.",
+        "2. Tone, not topic, triggers\n\nAd placement is driven by the vibe of the conversation, not the subject matter.",
+        "3. Emotional mismatch\n\nThe same ad pops up beside chats that feel completely opposite in emotion.",
+        "4. Overpaying for misfits\n\nAdvertisers pay a premium for reach that lands in the wrong context, hurting ROI.",
+        "5. Audit your ad context\n\nReview where your ads appear in ChatGPT sessions. If you haven't checked, do it now."
+      ],
+      "video_script": [
+        "ChatGPT ads sometimes land in the wrong chats.",
+        "Placement follows tone, not topic, surprisingly.",
+        "Ads show up beside emotionally opposite conversations.",
+        "Advertisers overpay for poor contextual reach.",
+        "Audit your ad context before scaling campaigns."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why ads miss the mark?\n\nChatGPT ads are landing in chats where they don't belong, wasting your budget.",
+            "2. Tone, not topic, triggers\n\nAd placement is driven by the vibe of the conversation, not the subject matter.",
+            "3. Emotional mismatch\n\nThe same ad pops up beside chats that feel completely opposite in emotion.",
+            "4. Overpaying for misfits\n\nAdvertisers pay a premium for reach that lands in the wrong context, hurting ROI.",
+            "5. Audit your ad context\n\nReview where your ads appear in ChatGPT sessions. If you haven't checked, do it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ChatGPT ads sometimes land in the wrong chats.",
+            "Placement follows tone, not topic, surprisingly.",
+            "Ads show up beside emotionally opposite conversations.",
+            "Advertisers overpay for poor contextual reach.",
+            "Audit your ad context before scaling campaigns."
+          ]
+        },
+        "instagram": {
+          "caption": "One in three ChatGPT ads shows up in conversations where it has no business being. 📉\n\nAd placement follows the emotional tone of the chat, not what you're actually discussing. So the same ad can appear next to a sad conversation and a cheerful one, even on the same topic.\n\nYou're paying for reach that lands in completely wrong contexts. That means wasted budget and users rolling their eyes at your brand.\n\nBefore you scale any campaign inside ChatGPT, audit where your ads actually appear. If you haven't checked the context reports yet, that's your first step today. 🔍\n\nWhen did you last look at the conversations your ads are sitting in?"
+        }
+      },
+      "instagram_caption": "One in three ChatGPT ads shows up in conversations where it has no business being. 📉\n\nAd placement follows the emotional tone of the chat, not what you're actually discussing. So the same ad can appear next to a sad conversation and a cheerful one, even on the same topic.\n\nYou're paying for reach that lands in completely wrong contexts. That means wasted budget and users rolling their eyes at your brand.\n\nBefore you scale any campaign inside ChatGPT, audit where your ads actually appear. If you haven't checked the context reports yet, that's your first step today. 🔍\n\nWhen did you last look at the conversations your ads are sitting in?",
+      "carousel_slides": [
+        {
+          "hook": "Emotional mismatch: same ad, opposite chats.",
+          "description": "The same ad appears beside conversations with completely opposite emotional tones. This misalignment wastes your budget and confuses your audience.",
+          "visual_hint": "Two speech bubbles with opposite faces",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "two speech bubbles"
+        },
+        {
+          "hook": "Placement triggered by tone, not topic.",
+          "description": "ChatGPT ad placement follows the vibe of the conversation, not its subject. A sporty chat doesn't guarantee a relevant ad placement.",
+          "visual_hint": "Chat bubble with music note icon",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chat bubble icon",
+          "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Happy chat, sad ad? Mismatch.",
+          "description": "The same ad pops up beside chats with opposite emotions. This emotional mismatch damages user trust and ad recall.",
+          "visual_hint": "Split screen with happy and sad faces",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "split face happy sad",
+          "image": "https://images.pexels.com/photos/5602878/pexels-photo-5602878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Advertisers overpay, users see misfits.",
+          "description": "You pay a premium for reach that lands in the wrong context. Every irrelevant placement hurts ROI and brand perception.",
+          "visual_hint": "Money burning next to mismatched ad",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "burning money",
+          "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your ad context before scaling.",
+          "description": "Review every ChatGPT session where your ad appears. If you haven't checked ad placement already, do it now.",
+          "visual_hint": "Magnifying glass over chat log",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4176482/pexels-photo-4176482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-20T12:30:05.596Z",
+      "sourceId": "90accb9ed72da09b90ef630abcbe1b05"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "agentic-ai-in-government-just-hit-the-hard-part-de",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "pubDate": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "slides": [
+        "Who decides what a machine may decide?",
+        "Governments now deploy autonomous agents for public services.",
+        "No law currently defines machine decision-making limits.",
+        "Your agency's next workflow could rely on unregulated AI.",
+        "Audit every automated decision before trusting it."
+      ],
+      "thread_text": [
+        "1. Who holds the leash?\n\nGovernments are already using autonomous agents to approve benefits and flag fraud, with no law defining what they can decide.",
+        "2. The legal void\n\nNo statute or precedent currently caps machine decision-making, so your agency's next workflow could rely on unregulated AI without oversight.",
+        "3. Real impact now\n\nA Dutch scandal saw algorithms wrongly accuse families of fraud, forcing resignations—yet no law was broken because none existed.",
+        "4. Hidden in plain sight\n\nEven your internal tools—chatbots, ranking systems—may be making judgments that affect hiring or customer outcomes, unchecked.",
+        "5. Your next audit\n\nBefore you trust any automated output, ask: Can you trace exactly why it chose that? If not, stop and demand a manual override."
+      ],
+      "video_script": [
+        "Who decides what a machine may decide?",
+        "Governments already use AI for public services.",
+        "No law defines limits on machine decisions.",
+        "Your next workflow might rely on unregulated AI.",
+        "Audit every automated decision before trusting it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who holds the leash?\n\nGovernments are already using autonomous agents to approve benefits and flag fraud, with no law defining what they can decide.",
+            "2. The legal void\n\nNo statute or precedent currently caps machine decision-making, so your agency's next workflow could rely on unregulated AI without oversight.",
+            "3. Real impact now\n\nA Dutch scandal saw algorithms wrongly accuse families of fraud, forcing resignations—yet no law was broken because none existed.",
+            "4. Hidden in plain sight\n\nEven your internal tools—chatbots, ranking systems—may be making judgments that affect hiring or customer outcomes, unchecked.",
+            "5. Your next audit\n\nBefore you trust any automated output, ask: Can you trace exactly why it chose that? If not, stop and demand a manual override."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who decides what a machine may decide?",
+            "Governments already use AI for public services.",
+            "No law defines limits on machine decisions.",
+            "Your next workflow might rely on unregulated AI.",
+            "Audit every automated decision before trusting it."
+          ]
+        },
+        "instagram": {
+          "caption": "An algorithm already approved or denied your benefits—or flagged you for fraud—without a single law saying it could. 🧾\n\nThe Dutch tax authority did exactly that, accusing thousands of families of fraud. The scandal forced resignations. No law was broken, because no law existed to break. Your agency, your employer, your bank—they can all deploy the same agents tomorrow. No oversight required.\n\nIf you build or publish anything that uses automated decisions, you can’t assume a human checked it. You can’t assume anyone checked it at all.\n\nBefore you hit publish on that next workflow, can you trace exactly why the machine chose what it chose? If you can’t, hit stop. 🔎"
+        }
+      },
+      "instagram_caption": "An algorithm already approved or denied your benefits—or flagged you for fraud—without a single law saying it could. 🧾\n\nThe Dutch tax authority did exactly that, accusing thousands of families of fraud. The scandal forced resignations. No law was broken, because no law existed to break. Your agency, your employer, your bank—they can all deploy the same agents tomorrow. No oversight required.\n\nIf you build or publish anything that uses automated decisions, you can’t assume a human checked it. You can’t assume anyone checked it at all.\n\nBefore you hit publish on that next workflow, can you trace exactly why the machine chose what it chose? If you can’t, hit stop. 🔎",
+      "carousel_slides": [
+        {
+          "hook": "No law stops AI decisions.",
+          "description": "Governments deploy autonomous agents for benefits and fraud, but no statute defines their limits. Your agency's next workflow could rely on unregulated AI.",
+          "visual_hint": "Gavel next to robot arm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "gavel robot arm"
+        },
+        {
+          "hook": "Who holds the leash?",
+          "description": "Autonomous agents now approve benefits and flag fraud, with no legal framework capping their decisions. The void is real, and oversight is absent.",
+          "visual_hint": "Government building with digital leash",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building",
+          "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Algorithms accused innocent families.",
+          "description": "In a Dutch scandal, automated systems wrongly flagged families for fraud, causing resignations. No law was broken because none existed for machine decisions.",
+          "visual_hint": "Algorithm error alert on screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer screen error",
+          "image": "https://images.pexels.com/photos/9121365/pexels-photo-9121365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your internal tools are unchecked.",
+          "description": "Chatbots and ranking systems in your agency silently make judgments affecting hiring and outcomes, without any audit or manual override built in.",
+          "visual_hint": "Chatbot interface with hidden gears",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chatbot interface",
+          "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit before you trust AI.",
+          "description": "Before relying on any automated output, trace exactly why it chose that result. If you can't, stop and demand a manual override now.",
+          "visual_hint": "Magnifying glass over audit checklist",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-20T12:29:52.976Z",
+      "sourceId": "e3d7b0428306e438320db9a3291acd2c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "stripe-agrees-to-buy-openrouter-as-ai-model-routin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "slides": [
+        "Why would Stripe buy OpenRouter now?",
+        "It's the gateway between apps and AI models.",
+        "Stripe itself becomes the tollbooth for AI payments.",
+        "Your API costs suddenly route through one billing system.",
+        "Check if your AI stack already depends on OpenRouter."
+      ],
+      "thread_text": [
+        "1. The Tollbooth\n\nStripe just bought the router that sits between your app and AI models. Now every API call can be metered and billed by one company.",
+        "2. One Pipeline\n\nOpenRouter isn't just a proxy—it's the switchboard for thousands of AI providers. Stripe now controls the payment rails for that switchboard.",
+        "3. The Twist\n\nYour dev team's AI costs already route through OpenRouter without you knowing. That means Stripe will soon see every model, every token, every dollar.",
+        "4. The Consequence\n\nVendor lock-in shifts from model choice to billing choice. Switching AI providers becomes easier, but leaving Stripe's payment flow gets harder.",
+        "5. Your Move\n\nCheck your API logs today: are you calling OpenRouter? If yes, map what happens when Stripe raises the toll."
+      ],
+      "video_script": [
+        "Stripe just bought the AI gateway.",
+        "OpenRouter routes your API calls.",
+        "Now Stripe sees every AI dollar.",
+        "Your costs flow through one biller.",
+        "Check your logs—are you using it?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Tollbooth\n\nStripe just bought the router that sits between your app and AI models. Now every API call can be metered and billed by one company.",
+            "2. One Pipeline\n\nOpenRouter isn't just a proxy—it's the switchboard for thousands of AI providers. Stripe now controls the payment rails for that switchboard.",
+            "3. The Twist\n\nYour dev team's AI costs already route through OpenRouter without you knowing. That means Stripe will soon see every model, every token, every dollar.",
+            "4. The Consequence\n\nVendor lock-in shifts from model choice to billing choice. Switching AI providers becomes easier, but leaving Stripe's payment flow gets harder.",
+            "5. Your Move\n\nCheck your API logs today: are you calling OpenRouter? If yes, map what happens when Stripe raises the toll."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Stripe just bought the AI gateway.",
+            "OpenRouter routes your API calls.",
+            "Now Stripe sees every AI dollar.",
+            "Your costs flow through one biller.",
+            "Check your logs—are you using it?"
+          ]
+        },
+        "instagram": {
+          "caption": "The app your developers use to call AI models now has a new owner: the payment processor Stripe. OpenRouter, the switchboard connecting apps to hundreds of AI providers, just got acquired.\n\nStripe doesn't care about the models. It cares about the tollbooth. Every AI call that flows through OpenRouter can now be metered, billed, and routed through one payment system. Your API costs suddenly become visible to a single company.\n\nIf your team uses tools like Cursor or Claude Code, check your API logs—you might already be paying through OpenRouter without knowing it. Leaving any AI provider stays easy, but leaving Stripe's billing rail gets harder.\n\nOpen your terminal and run one search: do any of your active API keys point to OpenRouter? If yes, you just moved into Stripe's ledger. 🧾🔀🖥️"
+        }
+      },
+      "instagram_caption": "The app your developers use to call AI models now has a new owner: the payment processor Stripe. OpenRouter, the switchboard connecting apps to hundreds of AI providers, just got acquired.\n\nStripe doesn't care about the models. It cares about the tollbooth. Every AI call that flows through OpenRouter can now be metered, billed, and routed through one payment system. Your API costs suddenly become visible to a single company.\n\nIf your team uses tools like Cursor or Claude Code, check your API logs—you might already be paying through OpenRouter without knowing it. Leaving any AI provider stays easy, but leaving Stripe's billing rail gets harder.\n\nOpen your terminal and run one search: do any of your active API keys point to OpenRouter? If yes, you just moved into Stripe's ledger. 🧾🔀🖥️",
+      "carousel_slides": [
+        {
+          "hook": "Who owns your AI costs now?",
+          "description": "Stripe bought OpenRouter, the gateway between apps and AI models. Every API call could soon be metered and billed by one company.",
+          "visual_hint": "Highway tollbooth with AI icons",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "highway tollbooth"
+        },
+        {
+          "hook": "One pipeline, thousands of models.",
+          "description": "OpenRouter is the switchboard for AI providers. Stripe now controls the payment rails for that entire switchboard.",
+          "visual_hint": "Data flow through a central hub",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network switchboard",
+          "image": "https://images.pexels.com/photos/38171184/pexels-photo-38171184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stripe sees every token you spend.",
+          "description": "Your dev team's AI costs may already route through OpenRouter. That means Stripe will soon see every model, every token, every dollar.",
+          "visual_hint": "Magnifying glass over code with dollar signs",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock-in shifts from model to billing.",
+          "description": "Switching AI providers becomes easier, but leaving Stripe's payment flow gets harder. Your choice of vendor now includes the toll.",
+          "visual_hint": "Hand holding a chain linked to a payment terminal",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding chain",
+          "image": "https://images.pexels.com/photos/4611751/pexels-photo-4611751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before others get ahead.",
+          "description": "Check your API logs today. Are you calling OpenRouter? If yes, map what happens when Stripe raises the toll.",
+          "visual_hint": "Checklist with API logs and warning sign",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "API logs checklist",
+          "image": "https://images.pexels.com/photos/32327869/pexels-photo-32327869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/4503846/pexels-photo-4503846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-20T12:29:36.154Z",
+      "sourceId": "90eae752a6c985bcf9c752e98992ee40"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "venturebeat-names-rob-strechay-as-its-first-lead-a",
       "prompt_version": "1.0.0",
       "status": "published",

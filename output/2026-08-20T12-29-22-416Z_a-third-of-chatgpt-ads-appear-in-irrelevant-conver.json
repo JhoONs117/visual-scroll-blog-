@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-third-of-chatgpt-ads-appear-in-irrelevant-conver",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A third of ChatGPT ads appear in irrelevant conversations",
+  "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+  "pubDate": "Thu, 20 Aug 2026 08:07:40 +0000",
+  "slides": [
+    "Every third ChatGPT ad lands in irrelevant chats — why?",
+    "New analysis reveals ad placement follows tone, not topic.",
+    "Same ad appears beside emotionally opposite conversations.",
+    "Advertisers overpay for reach while users see misfits.",
+    "Audit your ad context before scaling any campaign."
+  ],
+  "thread_text": [
+    "1. Why ads miss the mark?\n\nChatGPT ads are landing in chats where they don't belong, wasting your budget.",
+    "2. Tone, not topic, triggers\n\nAd placement is driven by the vibe of the conversation, not the subject matter.",
+    "3. Emotional mismatch\n\nThe same ad pops up beside chats that feel completely opposite in emotion.",
+    "4. Overpaying for misfits\n\nAdvertisers pay a premium for reach that lands in the wrong context, hurting ROI.",
+    "5. Audit your ad context\n\nReview where your ads appear in ChatGPT sessions. If you haven't checked, do it now."
+  ],
+  "video_script": [
+    "ChatGPT ads sometimes land in the wrong chats.",
+    "Placement follows tone, not topic, surprisingly.",
+    "Ads show up beside emotionally opposite conversations.",
+    "Advertisers overpay for poor contextual reach.",
+    "Audit your ad context before scaling campaigns."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why ads miss the mark?\n\nChatGPT ads are landing in chats where they don't belong, wasting your budget.",
+        "2. Tone, not topic, triggers\n\nAd placement is driven by the vibe of the conversation, not the subject matter.",
+        "3. Emotional mismatch\n\nThe same ad pops up beside chats that feel completely opposite in emotion.",
+        "4. Overpaying for misfits\n\nAdvertisers pay a premium for reach that lands in the wrong context, hurting ROI.",
+        "5. Audit your ad context\n\nReview where your ads appear in ChatGPT sessions. If you haven't checked, do it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT ads sometimes land in the wrong chats.",
+        "Placement follows tone, not topic, surprisingly.",
+        "Ads show up beside emotionally opposite conversations.",
+        "Advertisers overpay for poor contextual reach.",
+        "Audit your ad context before scaling campaigns."
+      ]
+    },
+    "instagram": {
+      "caption": "One in three ChatGPT ads shows up in conversations where it has no business being. 📉\n\nAd placement follows the emotional tone of the chat, not what you're actually discussing. So the same ad can appear next to a sad conversation and a cheerful one, even on the same topic.\n\nYou're paying for reach that lands in completely wrong contexts. That means wasted budget and users rolling their eyes at your brand.\n\nBefore you scale any campaign inside ChatGPT, audit where your ads actually appear. If you haven't checked the context reports yet, that's your first step today. 🔍\n\nWhen did you last look at the conversations your ads are sitting in?"
+    }
+  },
+  "instagram_caption": "One in three ChatGPT ads shows up in conversations where it has no business being. 📉\n\nAd placement follows the emotional tone of the chat, not what you're actually discussing. So the same ad can appear next to a sad conversation and a cheerful one, even on the same topic.\n\nYou're paying for reach that lands in completely wrong contexts. That means wasted budget and users rolling their eyes at your brand.\n\nBefore you scale any campaign inside ChatGPT, audit where your ads actually appear. If you haven't checked the context reports yet, that's your first step today. 🔍\n\nWhen did you last look at the conversations your ads are sitting in?",
+  "carousel_slides": [
+    {
+      "hook": "Emotional mismatch: same ad, opposite chats.",
+      "description": "The same ad appears beside conversations with completely opposite emotional tones. This misalignment wastes your budget and confuses your audience.",
+      "visual_hint": "Two speech bubbles with opposite faces",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "two speech bubbles"
+    },
+    {
+      "hook": "Placement triggered by tone, not topic.",
+      "description": "ChatGPT ad placement follows the vibe of the conversation, not its subject. A sporty chat doesn't guarantee a relevant ad placement.",
+      "visual_hint": "Chat bubble with music note icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chat bubble icon",
+      "image": "https://images.pexels.com/photos/8015666/pexels-photo-8015666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Happy chat, sad ad? Mismatch.",
+      "description": "The same ad pops up beside chats with opposite emotions. This emotional mismatch damages user trust and ad recall.",
+      "visual_hint": "Split screen with happy and sad faces",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "split face happy sad",
+      "image": "https://images.pexels.com/photos/5602878/pexels-photo-5602878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Advertisers overpay, users see misfits.",
+      "description": "You pay a premium for reach that lands in the wrong context. Every irrelevant placement hurts ROI and brand perception.",
+      "visual_hint": "Money burning next to mismatched ad",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "burning money",
+      "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your ad context before scaling.",
+      "description": "Review every ChatGPT session where your ad appears. If you haven't checked ad placement already, do it now.",
+      "visual_hint": "Magnifying glass over chat log",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4176482/pexels-photo-4176482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-20T12:30:05.596Z",
+  "sourceId": "90accb9ed72da09b90ef630abcbe1b05"
+}
