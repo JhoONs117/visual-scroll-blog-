@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-packs-search-and-gemini-with-new-ai-study-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google packs Search and Gemini with new AI study tools",
+  "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+  "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+  "slides": [
+    "Can Google's new AI tools replace your textbook?",
+    "Search and Gemini now include study-specific features.",
+    "But they ignore entire subjects—like math problem solving.",
+    "Your study routine must adapt to this week's rollout.",
+    "Test them on one topic before trusting them."
+  ],
+  "thread_text": [
+    "1. If your textbook could fight back\n\nGoogle’s new AI tools skip math problem solving entirely — the one subject most students cram for.",
+    "2. The rollout targets search and Gemini\n\nStudy-specific features appear only inside these two tools, leaving your other apps blind to them.",
+    "3. Your routine just became outdated\n\nThis week’s updates change how you find sources, but only for topics Google decides to support.",
+    "4. The blind spot is real\n\nTry asking Gemini for a calculus derivative — the tool won’t even attempt it. It’s not a beta glitch.",
+    "5. Test before you trust\n\nPick one topic you struggle with, ask both tools tonight, and compare with your textbook. Does the answer actually hold up?"
+  ],
+  "video_script": [
+    "Google's new AI skips math entirely.",
+    "Only search and Gemini get study tools.",
+    "Your routine is now outdated this week.",
+    "Ask for a derivative, it refuses.",
+    "Test one topic before you trust."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. If your textbook could fight back\n\nGoogle’s new AI tools skip math problem solving entirely — the one subject most students cram for.",
+        "2. The rollout targets search and Gemini\n\nStudy-specific features appear only inside these two tools, leaving your other apps blind to them.",
+        "3. Your routine just became outdated\n\nThis week’s updates change how you find sources, but only for topics Google decides to support.",
+        "4. The blind spot is real\n\nTry asking Gemini for a calculus derivative — the tool won’t even attempt it. It’s not a beta glitch.",
+        "5. Test before you trust\n\nPick one topic you struggle with, ask both tools tonight, and compare with your textbook. Does the answer actually hold up?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's new AI skips math entirely.",
+        "Only search and Gemini get study tools.",
+        "Your routine is now outdated this week.",
+        "Ask for a derivative, it refuses.",
+        "Test one topic before you trust."
+      ]
+    },
+    "instagram": {
+      "caption": "Your calculus homework just got a lot lonelier—Google’s new study tools in Search and Gemini won't touch math problem solving. 📚\n\nThey rolled out study-specific features this week, but entire subjects are ignored. Search finds sources, Gemini chats about them, but neither will attempt a derivative. It’s not a glitch; it’s a design choice. 🧮\n\nIf you publish study guides or educational content, the tools only route traffic to topics Google picked—your math content stays invisible.\n\nBefore you swap your textbook for these tools, test them on one topic you struggle with tonight. Does the answer survive contact with reality? 🤔"
+    }
+  },
+  "instagram_caption": "Your calculus homework just got a lot lonelier—Google’s new study tools in Search and Gemini won't touch math problem solving. 📚\n\nThey rolled out study-specific features this week, but entire subjects are ignored. Search finds sources, Gemini chats about them, but neither will attempt a derivative. It’s not a glitch; it’s a design choice. 🧮\n\nIf you publish study guides or educational content, the tools only route traffic to topics Google picked—your math content stays invisible.\n\nBefore you swap your textbook for these tools, test them on one topic you struggle with tonight. Does the answer survive contact with reality? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "What if your textbook could fight back?",
+      "description": "Google's new AI tools skip math problem solving entirely. Students cram for it most, but ignored.",
+      "visual_hint": "Fist hitting open book",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "fist hitting book"
+    },
+    {
+      "hook": "Search and Gemini got study upgrades.",
+      "description": "Only these two tools gain study-specific features. Other apps remain blind to the new capabilities.",
+      "visual_hint": "Two glowing app icons",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone apps icons",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your study routine is now outdated.",
+      "description": "This week's updates alter how you find sources, but only for topics Google decides to support.",
+      "visual_hint": "Calendar with red X",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar close-up",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The blind spot is real.",
+      "description": "Ask Gemini for a calculus derivative. It won't even attempt it. Not a beta glitch.",
+      "visual_hint": "Hand holding broken pencil",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding broken pencil",
+      "image": "https://images.pexels.com/photos/8386695/pexels-photo-8386695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test both AI tools tonight.",
+      "description": "Pick one topic you struggle with. Ask both tools, compare with your textbook. Does it hold up?",
+      "visual_hint": "Phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8008669/pexels-photo-8008669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-20T00:43:45.579Z",
+  "sourceId": "8656b8f78d55f67d1be979255e660a15"
+}

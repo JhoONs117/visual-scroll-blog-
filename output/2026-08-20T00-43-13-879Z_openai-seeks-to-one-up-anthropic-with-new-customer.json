@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-seeks-to-one-up-anthropic-with-new-customer",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+  "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+  "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
+  "slides": [
+    "Can OpenAI's new privacy pitch truly outflank Anthropic?",
+    "Anthropic built its brand on enterprise data security.",
+    "OpenAI now offers contractual guarantees Anthropic hasn't matched.",
+    "If you handle sensitive client data, your vendor calculus just shifted.",
+    "Check your current AI agreement's data terms this week."
+  ],
+  "thread_text": [
+    "1. Your data terms just changed\n\nThe contract OpenAI now offers includes guarantees Anthropic has publicly avoided matching.",
+    "2. Anthropic's edge is fading\n\nIts brand was built on enterprise security, but the gap in written commitments is now visible.",
+    "3. The vendor calculus shifts\n\nIf you handle sensitive client data, the safer paper may not be the safer name.",
+    "4. Read the fine print now\n\nMost AI agreements leave data use vague. Compare the actual clauses before renewing.",
+    "5. Check your agreement this week\n\nOpen a current AI contract and find the data processing section. If it lacks guarantees, ask for them."
+  ],
+  "video_script": [
+    "OpenAI now gives written data guarantees.",
+    "Anthropic hasn't matched those contractual terms.",
+    "Sensitive client data changes the risk calculation.",
+    "Don't rely on brand reputation alone.",
+    "Review your AI agreement's data terms today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your data terms just changed\n\nThe contract OpenAI now offers includes guarantees Anthropic has publicly avoided matching.",
+        "2. Anthropic's edge is fading\n\nIts brand was built on enterprise security, but the gap in written commitments is now visible.",
+        "3. The vendor calculus shifts\n\nIf you handle sensitive client data, the safer paper may not be the safer name.",
+        "4. Read the fine print now\n\nMost AI agreements leave data use vague. Compare the actual clauses before renewing.",
+        "5. Check your agreement this week\n\nOpen a current AI contract and find the data processing section. If it lacks guarantees, ask for them."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI now gives written data guarantees.",
+        "Anthropic hasn't matched those contractual terms.",
+        "Sensitive client data changes the risk calculation.",
+        "Don't rely on brand reputation alone.",
+        "Review your AI agreement's data terms today."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI just put a privacy guarantee in writing that Anthropic hasn't matched. 📄\n\nIf your work involves sensitive client data, the contract now matters more than the brand name. Anthropic built its reputation on enterprise security, but OpenAI's new terms include contractual commitments the competitor has publicly avoided. 🔍\n\nThat shifts the calculus for anyone comparing vendors. The safer paper may no longer be the safer name.\n\nFor content creators and agencies handling client info, your AI agreement's data clauses just became your first line of defense. Most contracts leave this vague.\n\nCheck your current AI agreement's data section this week. If it lacks concrete guarantees, ask your provider why not. 🧾\n\nDoes your contract protect you—or just them?"
+    }
+  },
+  "instagram_caption": "OpenAI just put a privacy guarantee in writing that Anthropic hasn't matched. 📄\n\nIf your work involves sensitive client data, the contract now matters more than the brand name. Anthropic built its reputation on enterprise security, but OpenAI's new terms include contractual commitments the competitor has publicly avoided. 🔍\n\nThat shifts the calculus for anyone comparing vendors. The safer paper may no longer be the safer name.\n\nFor content creators and agencies handling client info, your AI agreement's data clauses just became your first line of defense. Most contracts leave this vague.\n\nCheck your current AI agreement's data section this week. If it lacks concrete guarantees, ask your provider why not. 🧾\n\nDoes your contract protect you—or just them?",
+  "carousel_slides": [
+    {
+      "hook": "Is safer paper now safer?",
+      "description": "OpenAI's new contract includes guarantees Anthropic hasn't matched, shifting the enterprise security calculus.",
+      "visual_hint": "Balance scale with documents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "contract balance scale"
+    },
+    {
+      "hook": "Anthropic's edge fades.",
+      "description": "Anthropic built its brand on enterprise security, but OpenAI now offers written commitments closing that gap.",
+      "visual_hint": "Fading fortress icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "corporate building",
+      "image": "https://images.pexels.com/photos/33719029/pexels-photo-33719029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your vendor calculus shifts.",
+      "description": "If you handle sensitive client data, the safer name may no longer be the safer choice—check the actual clauses.",
+      "visual_hint": "Vendor logos in balance",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Read the fine print now.",
+      "description": "Most AI agreements leave data use vague. Compare clauses before renewing to ensure your clients are protected.",
+      "visual_hint": "Magnifying glass on contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass documents",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your contract this week.",
+      "description": "Open your AI agreement, find the data processing section, and ask for guarantees if it lacks them.",
+      "visual_hint": "Open contract with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist contract",
+      "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+  "savedAt": "2026-08-20T00:43:27.933Z",
+  "sourceId": "d306eafa18af68ae57f60c3d33b7280f"
+}

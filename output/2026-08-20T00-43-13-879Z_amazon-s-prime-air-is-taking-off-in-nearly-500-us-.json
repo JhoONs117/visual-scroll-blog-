@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-s-prime-air-is-taking-off-in-nearly-500-us-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+  "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+  "pubDate": "Wed, 19 Aug 2026 14:57:58 +0000",
+  "slides": [
+    "Almost 500 cities, but why not yours yet?",
+    "Prime Air's new drones deliver under one hour.",
+    "They dodge weather and birds autonomously now.",
+    "Check your zip code today for delivery eligibility.",
+    "Bookmark and order small items to test speed."
+  ],
+  "thread_text": [
+    "1. Why not your city yet?\n\nPrime Air's drones operate in under 500 locations, but coverage gaps mean your zip code might be excluded. The tech is ready—infrastructure isn't.",
+    "2. They dodge birds autonomously\n\nNew obstacle avoidance lets drones navigate weather and wildlife without a pilot. This removes a key barrier to scaling deliveries worldwide.",
+    "3. Check your zip code now\n\nEligibility is expanding monthly, but only certain areas get service today. A quick search tells you if you're on the list.",
+    "4. Test speed with small items\n\nOrder a small product under the one-hour window to measure real delivery time. This reveals how close the promise matches reality.",
+    "5. Bookmark the eligibility page\n\nRecheck your zip code every week—coverage updates frequently. If you're not eligible yet, what's stopping you from moving to a covered area?"
+  ],
+  "video_script": [
+    "Almost 500 cities, but not yours yet.",
+    "Drones now dodge weather and birds alone.",
+    "Check your zip code for delivery eligibility.",
+    "Order small items to test the speed.",
+    "Bookmark the page and recheck weekly."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why not your city yet?\n\nPrime Air's drones operate in under 500 locations, but coverage gaps mean your zip code might be excluded. The tech is ready—infrastructure isn't.",
+        "2. They dodge birds autonomously\n\nNew obstacle avoidance lets drones navigate weather and wildlife without a pilot. This removes a key barrier to scaling deliveries worldwide.",
+        "3. Check your zip code now\n\nEligibility is expanding monthly, but only certain areas get service today. A quick search tells you if you're on the list.",
+        "4. Test speed with small items\n\nOrder a small product under the one-hour window to measure real delivery time. This reveals how close the promise matches reality.",
+        "5. Bookmark the eligibility page\n\nRecheck your zip code every week—coverage updates frequently. If you're not eligible yet, what's stopping you from moving to a covered area?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Almost 500 cities, but not yours yet.",
+        "Drones now dodge weather and birds alone.",
+        "Check your zip code for delivery eligibility.",
+        "Order small items to test the speed.",
+        "Bookmark the page and recheck weekly."
+      ]
+    },
+    "instagram": {
+      "caption": "Your zip code might not be on the list yet. 📦\n\nPrime Air drones now deliver in nearly 500 US cities, with autonomous systems that dodge birds and weather without a pilot. Coverage gaps exist because infrastructure—not the tech—is the bottleneck.\n\nFor creators running online stores, this means one-hour delivery is no longer a promise, it's a live test in specific markets. If you ship small items, your customers in covered areas could get orders before they finish their coffee.\n\nCheck your zip code on Amazon's eligibility page this week—then order something small to see if the one-hour reality holds up. ⏱️\n\nWhat's your delivery radius right now—and would sub-hour shipping change how you price it? 🚁"
+    }
+  },
+  "instagram_caption": "Your zip code might not be on the list yet. 📦\n\nPrime Air drones now deliver in nearly 500 US cities, with autonomous systems that dodge birds and weather without a pilot. Coverage gaps exist because infrastructure—not the tech—is the bottleneck.\n\nFor creators running online stores, this means one-hour delivery is no longer a promise, it's a live test in specific markets. If you ship small items, your customers in covered areas could get orders before they finish their coffee.\n\nCheck your zip code on Amazon's eligibility page this week—then order something small to see if the one-hour reality holds up. ⏱️\n\nWhat's your delivery radius right now—and would sub-hour shipping change how you price it? 🚁",
+  "carousel_slides": [
+    {
+      "hook": "Drones dodge birds. Why not your city?",
+      "description": "Amazon's Prime Air covers nearly 500 cities, but gaps remain. The tech works; infrastructure lags. That's why your zip may still be excluded.",
+      "visual_hint": "Drone flying over city skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "delivery drone city"
+    },
+    {
+      "hook": "Autonomous drones avoid weather and wildlife.",
+      "description": "New obstacle avoidance lets drones navigate without a pilot, removing a key barrier to scaling deliveries worldwide.",
+      "visual_hint": "Drone dodging a bird",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "drone bird sky",
+      "image": "https://images.pexels.com/photos/28840617/pexels-photo-28840617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your zip code on the list?",
+      "description": "Eligibility expands monthly, but only certain areas get service today. A quick search tells you if you're covered now.",
+      "visual_hint": "Map with pins and zip code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "zip code map",
+      "image": "https://images.pexels.com/photos/8383895/pexels-photo-8383895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test delivery speed with a small order.",
+      "description": "Order something tiny under the one-hour window to measure real delivery time. See if the promise matches reality.",
+      "visual_hint": "Hand holding a small package",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding package",
+      "image": "https://images.pexels.com/photos/12725404/pexels-photo-12725404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bookmark this to check your zip weekly.",
+      "description": "Coverage updates often. Recheck your zip code every week. Not eligible yet? Maybe it's time to move.",
+      "visual_hint": "Phone with bookmark icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone bookmark app",
+      "image": "https://images.pexels.com/photos/7151033/pexels-photo-7151033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200",
+  "savedAt": "2026-08-20T00:44:01.824Z",
+  "sourceId": "78fec483d4a0ca3749dab67875b96f7d"
+}

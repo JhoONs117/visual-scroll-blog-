@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-hit-the-brakes-now-what-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI hit the brakes. Now what?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "pubDate": "2026-08-19T17:10:09.000Z",
+    "slides": [
+      "OpenAI paused GPT-5 training. Why now?",
+      "Safety concerns triggered a halt in development.",
+      "Insiders warn of an unexpected alignment breakthrough.",
+      "Your AI roadmap could change overnight. Are you ready?",
+      "Don't build on GPT-5 assumptions—test existing models today."
+    ],
+    "thread_text": [
+      "1. GPT-5 training paused\n\nOpenAI halted GPT-5 training, citing unidentified safety concerns. Insiders from a leaked memo suggest a 'major alignment discovery' was the trigger, not a failure.",
+      "2. What caused the halt?\n\nThe pause followed warnings from internal safety teams about unexpected progress in AI alignment—potentially enabling more reliable control over advanced models, which changes the risk calculus.",
+      "3. Alignment breakthrough implications\n\nAn alignment breakthrough could mean future models are safer and more predictable, but it may also alter capabilities—making current assumptions about GPT-5's power obsolete overnight.",
+      "4. Your AI roadmap at risk\n\nIf GPT-5 arrives with different safety profiles or features, your planned upgrades might not apply. Test your workflows on existing models now to adapt quickly.",
+      "5. Test existing models today\n\nTake a critical process and run it on GPT-4 or Claude. If it fails, that's your signal. Are you ready to pivot if GPT-5 isn't what you expected?"
+    ],
+    "video_script": [
+      "OpenAI paused GPT-5 training due to safety concerns.",
+      "Insiders warn of a surprising alignment breakthrough.",
+      "This could change how we think about AI.",
+      "Your roadmap might be built on false assumptions.",
+      "Test existing models now to prepare."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. GPT-5 training paused\n\nOpenAI halted GPT-5 training, citing unidentified safety concerns. Insiders from a leaked memo suggest a 'major alignment discovery' was the trigger, not a failure.",
+          "2. What caused the halt?\n\nThe pause followed warnings from internal safety teams about unexpected progress in AI alignment—potentially enabling more reliable control over advanced models, which changes the risk calculus.",
+          "3. Alignment breakthrough implications\n\nAn alignment breakthrough could mean future models are safer and more predictable, but it may also alter capabilities—making current assumptions about GPT-5's power obsolete overnight.",
+          "4. Your AI roadmap at risk\n\nIf GPT-5 arrives with different safety profiles or features, your planned upgrades might not apply. Test your workflows on existing models now to adapt quickly.",
+          "5. Test existing models today\n\nTake a critical process and run it on GPT-4 or Claude. If it fails, that's your signal. Are you ready to pivot if GPT-5 isn't what you expected?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI paused GPT-5 training due to safety concerns.",
+          "Insiders warn of a surprising alignment breakthrough.",
+          "This could change how we think about AI.",
+          "Your roadmap might be built on false assumptions.",
+          "Test existing models now to prepare."
+        ]
+      },
+      "instagram": {
+        "caption": "GPT-5 training just stopped mid-course, and the reason isn't a technical glitch—it's an internal warning about a \"major alignment discovery.\"\n\nOpenAI paused development after safety teams flagged unexpected progress in how advanced models can be controlled. That's not a failure; it's a shift in what the next model might look like, possibly safer, possibly different in capability.\n\nIf you've been planning your content pipeline around GPT-5's assumed power, those plans are now guesswork. Your editing, research, or automation workflows could break or change without notice.\n\nRun one critical process on GPT-4 or Claude today. If it stumbles, that's your early warning. What breaks if GPT-5 arrives different than you expected? 🔄⚠️🧠GPT-5 training just hit pause, and the reason isn't a technical failure—it's an internal safety warning about a \"major alignment discovery.\"\n\nOpenAI halted development after insider memos flagged unexpected progress in how advanced models can be controlled. That changes the risk calculus: future models might be safer, but their capabilities could shift in ways nobody predicted overnight.\n\nIf you've been building workflows on the assumption that GPT-5 will simply be faster or smarter, that roadmap is now guesswork. Your content pipelines, automation, or tooling could need rethinking before you invest more time.\n\nTake one critical process you run today and test it on GPT-4 or Claude. If it fails, that's your signal. What breaks if GPT-5 doesn't match your expectations? 🛑🧭⚙️"
+      }
+    },
+    "instagram_caption": "GPT-5 training just stopped mid-course, and the reason isn't a technical glitch—it's an internal warning about a \"major alignment discovery.\"\n\nOpenAI paused development after safety teams flagged unexpected progress in how advanced models can be controlled. That's not a failure; it's a shift in what the next model might look like, possibly safer, possibly different in capability.\n\nIf you've been planning your content pipeline around GPT-5's assumed power, those plans are now guesswork. Your editing, research, or automation workflows could break or change without notice.\n\nRun one critical process on GPT-4 or Claude today. If it stumbles, that's your early warning. What breaks if GPT-5 arrives different than you expected? 🔄⚠️🧠GPT-5 training just hit pause, and the reason isn't a technical failure—it's an internal safety warning about a \"major alignment discovery.\"\n\nOpenAI halted development after insider memos flagged unexpected progress in how advanced models can be controlled. That changes the risk calculus: future models might be safer, but their capabilities could shift in ways nobody predicted overnight.\n\nIf you've been building workflows on the assumption that GPT-5 will simply be faster or smarter, that roadmap is now guesswork. Your content pipelines, automation, or tooling could need rethinking before you invest more time.\n\nTake one critical process you run today and test it on GPT-4 or Claude. If it fails, that's your signal. What breaks if GPT-5 doesn't match your expectations? 🛑🧭⚙️",
+    "carousel_slides": [
+      {
+        "hook": "Alignment breakthrough just changed everything?",
+        "description": "OpenAI halted GPT-5 training due to a major alignment discovery, not failure. This unexpected progress could alter future model safety and power overnight.",
+        "visual_hint": "Paused button and lightning bolt",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "pause button lightning"
+      },
+      {
+        "hook": "Why did OpenAI really pause?",
+        "description": "Internal safety teams warned about unexpected progress in AI alignment, enabling more reliable control. This changed the risk calculus enough to stop training.",
+        "visual_hint": "Warning triangle with AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "warning sign computer chip",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What if GPT-5 is safer but weaker?",
+        "description": "An alignment breakthrough could make models more predictable but also alter capabilities, making current assumptions about GPT-5's power obsolete overnight.",
+        "visual_hint": "Magnifying glass over brain circuit",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass circuit board",
+        "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI roadmap is at risk.",
+        "description": "If GPT-5 arrives with different safety profiles or features, your planned upgrades might not apply. Test your workflows on existing models now to adapt quickly.",
+        "visual_hint": "Hand holding a roadmap with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding roadmap",
+        "image": "https://images.pexels.com/photos/6109662/pexels-photo-6109662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test GPT-4 today.",
+        "description": "Take a critical process and run it on GPT-4 or Claude. If it fails, that's your signal to pivot before GPT-5 changes the game.",
+        "visual_hint": "Checkmark over chat interface",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checkmark chat interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-20T00:44:20.812Z",
+    "sourceId": "b7c2fec452c0837e0d612b0071ed27d9"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-s-prime-air-is-taking-off-in-nearly-500-us-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+    "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+    "pubDate": "Wed, 19 Aug 2026 14:57:58 +0000",
+    "slides": [
+      "Almost 500 cities, but why not yours yet?",
+      "Prime Air's new drones deliver under one hour.",
+      "They dodge weather and birds autonomously now.",
+      "Check your zip code today for delivery eligibility.",
+      "Bookmark and order small items to test speed."
+    ],
+    "thread_text": [
+      "1. Why not your city yet?\n\nPrime Air's drones operate in under 500 locations, but coverage gaps mean your zip code might be excluded. The tech is ready—infrastructure isn't.",
+      "2. They dodge birds autonomously\n\nNew obstacle avoidance lets drones navigate weather and wildlife without a pilot. This removes a key barrier to scaling deliveries worldwide.",
+      "3. Check your zip code now\n\nEligibility is expanding monthly, but only certain areas get service today. A quick search tells you if you're on the list.",
+      "4. Test speed with small items\n\nOrder a small product under the one-hour window to measure real delivery time. This reveals how close the promise matches reality.",
+      "5. Bookmark the eligibility page\n\nRecheck your zip code every week—coverage updates frequently. If you're not eligible yet, what's stopping you from moving to a covered area?"
+    ],
+    "video_script": [
+      "Almost 500 cities, but not yours yet.",
+      "Drones now dodge weather and birds alone.",
+      "Check your zip code for delivery eligibility.",
+      "Order small items to test the speed.",
+      "Bookmark the page and recheck weekly."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why not your city yet?\n\nPrime Air's drones operate in under 500 locations, but coverage gaps mean your zip code might be excluded. The tech is ready—infrastructure isn't.",
+          "2. They dodge birds autonomously\n\nNew obstacle avoidance lets drones navigate weather and wildlife without a pilot. This removes a key barrier to scaling deliveries worldwide.",
+          "3. Check your zip code now\n\nEligibility is expanding monthly, but only certain areas get service today. A quick search tells you if you're on the list.",
+          "4. Test speed with small items\n\nOrder a small product under the one-hour window to measure real delivery time. This reveals how close the promise matches reality.",
+          "5. Bookmark the eligibility page\n\nRecheck your zip code every week—coverage updates frequently. If you're not eligible yet, what's stopping you from moving to a covered area?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Almost 500 cities, but not yours yet.",
+          "Drones now dodge weather and birds alone.",
+          "Check your zip code for delivery eligibility.",
+          "Order small items to test the speed.",
+          "Bookmark the page and recheck weekly."
+        ]
+      },
+      "instagram": {
+        "caption": "Your zip code might not be on the list yet. 📦\n\nPrime Air drones now deliver in nearly 500 US cities, with autonomous systems that dodge birds and weather without a pilot. Coverage gaps exist because infrastructure—not the tech—is the bottleneck.\n\nFor creators running online stores, this means one-hour delivery is no longer a promise, it's a live test in specific markets. If you ship small items, your customers in covered areas could get orders before they finish their coffee.\n\nCheck your zip code on Amazon's eligibility page this week—then order something small to see if the one-hour reality holds up. ⏱️\n\nWhat's your delivery radius right now—and would sub-hour shipping change how you price it? 🚁"
+      }
+    },
+    "instagram_caption": "Your zip code might not be on the list yet. 📦\n\nPrime Air drones now deliver in nearly 500 US cities, with autonomous systems that dodge birds and weather without a pilot. Coverage gaps exist because infrastructure—not the tech—is the bottleneck.\n\nFor creators running online stores, this means one-hour delivery is no longer a promise, it's a live test in specific markets. If you ship small items, your customers in covered areas could get orders before they finish their coffee.\n\nCheck your zip code on Amazon's eligibility page this week—then order something small to see if the one-hour reality holds up. ⏱️\n\nWhat's your delivery radius right now—and would sub-hour shipping change how you price it? 🚁",
+    "carousel_slides": [
+      {
+        "hook": "Drones dodge birds. Why not your city?",
+        "description": "Amazon's Prime Air covers nearly 500 cities, but gaps remain. The tech works; infrastructure lags. That's why your zip may still be excluded.",
+        "visual_hint": "Drone flying over city skyline",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "delivery drone city"
+      },
+      {
+        "hook": "Autonomous drones avoid weather and wildlife.",
+        "description": "New obstacle avoidance lets drones navigate without a pilot, removing a key barrier to scaling deliveries worldwide.",
+        "visual_hint": "Drone dodging a bird",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "drone bird sky",
+        "image": "https://images.pexels.com/photos/28840617/pexels-photo-28840617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your zip code on the list?",
+        "description": "Eligibility expands monthly, but only certain areas get service today. A quick search tells you if you're covered now.",
+        "visual_hint": "Map with pins and zip code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "zip code map",
+        "image": "https://images.pexels.com/photos/8383895/pexels-photo-8383895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test delivery speed with a small order.",
+        "description": "Order something tiny under the one-hour window to measure real delivery time. See if the promise matches reality.",
+        "visual_hint": "Hand holding a small package",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding package",
+        "image": "https://images.pexels.com/photos/12725404/pexels-photo-12725404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Bookmark this to check your zip weekly.",
+        "description": "Coverage updates often. Recheck your zip code every week. Not eligible yet? Maybe it's time to move.",
+        "visual_hint": "Phone with bookmark icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone bookmark app",
+        "image": "https://images.pexels.com/photos/7151033/pexels-photo-7151033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200",
+    "savedAt": "2026-08-20T00:44:01.824Z",
+    "sourceId": "78fec483d4a0ca3749dab67875b96f7d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-packs-search-and-gemini-with-new-ai-study-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "slides": [
+      "Can Google's new AI tools replace your textbook?",
+      "Search and Gemini now include study-specific features.",
+      "But they ignore entire subjects—like math problem solving.",
+      "Your study routine must adapt to this week's rollout.",
+      "Test them on one topic before trusting them."
+    ],
+    "thread_text": [
+      "1. If your textbook could fight back\n\nGoogle’s new AI tools skip math problem solving entirely — the one subject most students cram for.",
+      "2. The rollout targets search and Gemini\n\nStudy-specific features appear only inside these two tools, leaving your other apps blind to them.",
+      "3. Your routine just became outdated\n\nThis week’s updates change how you find sources, but only for topics Google decides to support.",
+      "4. The blind spot is real\n\nTry asking Gemini for a calculus derivative — the tool won’t even attempt it. It’s not a beta glitch.",
+      "5. Test before you trust\n\nPick one topic you struggle with, ask both tools tonight, and compare with your textbook. Does the answer actually hold up?"
+    ],
+    "video_script": [
+      "Google's new AI skips math entirely.",
+      "Only search and Gemini get study tools.",
+      "Your routine is now outdated this week.",
+      "Ask for a derivative, it refuses.",
+      "Test one topic before you trust."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. If your textbook could fight back\n\nGoogle’s new AI tools skip math problem solving entirely — the one subject most students cram for.",
+          "2. The rollout targets search and Gemini\n\nStudy-specific features appear only inside these two tools, leaving your other apps blind to them.",
+          "3. Your routine just became outdated\n\nThis week’s updates change how you find sources, but only for topics Google decides to support.",
+          "4. The blind spot is real\n\nTry asking Gemini for a calculus derivative — the tool won’t even attempt it. It’s not a beta glitch.",
+          "5. Test before you trust\n\nPick one topic you struggle with, ask both tools tonight, and compare with your textbook. Does the answer actually hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's new AI skips math entirely.",
+          "Only search and Gemini get study tools.",
+          "Your routine is now outdated this week.",
+          "Ask for a derivative, it refuses.",
+          "Test one topic before you trust."
+        ]
+      },
+      "instagram": {
+        "caption": "Your calculus homework just got a lot lonelier—Google’s new study tools in Search and Gemini won't touch math problem solving. 📚\n\nThey rolled out study-specific features this week, but entire subjects are ignored. Search finds sources, Gemini chats about them, but neither will attempt a derivative. It’s not a glitch; it’s a design choice. 🧮\n\nIf you publish study guides or educational content, the tools only route traffic to topics Google picked—your math content stays invisible.\n\nBefore you swap your textbook for these tools, test them on one topic you struggle with tonight. Does the answer survive contact with reality? 🤔"
+      }
+    },
+    "instagram_caption": "Your calculus homework just got a lot lonelier—Google’s new study tools in Search and Gemini won't touch math problem solving. 📚\n\nThey rolled out study-specific features this week, but entire subjects are ignored. Search finds sources, Gemini chats about them, but neither will attempt a derivative. It’s not a glitch; it’s a design choice. 🧮\n\nIf you publish study guides or educational content, the tools only route traffic to topics Google picked—your math content stays invisible.\n\nBefore you swap your textbook for these tools, test them on one topic you struggle with tonight. Does the answer survive contact with reality? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "What if your textbook could fight back?",
+        "description": "Google's new AI tools skip math problem solving entirely. Students cram for it most, but ignored.",
+        "visual_hint": "Fist hitting open book",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "fist hitting book"
+      },
+      {
+        "hook": "Search and Gemini got study upgrades.",
+        "description": "Only these two tools gain study-specific features. Other apps remain blind to the new capabilities.",
+        "visual_hint": "Two glowing app icons",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone apps icons",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your study routine is now outdated.",
+        "description": "This week's updates alter how you find sources, but only for topics Google decides to support.",
+        "visual_hint": "Calendar with red X",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar close-up",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The blind spot is real.",
+        "description": "Ask Gemini for a calculus derivative. It won't even attempt it. Not a beta glitch.",
+        "visual_hint": "Hand holding broken pencil",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding broken pencil",
+        "image": "https://images.pexels.com/photos/8386695/pexels-photo-8386695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test both AI tools tonight.",
+        "description": "Pick one topic you struggle with. Ask both tools, compare with your textbook. Does it hold up?",
+        "visual_hint": "Phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/8008669/pexels-photo-8008669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-20T00:43:45.579Z",
+    "sourceId": "8656b8f78d55f67d1be979255e660a15"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-seeks-to-one-up-anthropic-with-new-customer",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
+    "slides": [
+      "Can OpenAI's new privacy pitch truly outflank Anthropic?",
+      "Anthropic built its brand on enterprise data security.",
+      "OpenAI now offers contractual guarantees Anthropic hasn't matched.",
+      "If you handle sensitive client data, your vendor calculus just shifted.",
+      "Check your current AI agreement's data terms this week."
+    ],
+    "thread_text": [
+      "1. Your data terms just changed\n\nThe contract OpenAI now offers includes guarantees Anthropic has publicly avoided matching.",
+      "2. Anthropic's edge is fading\n\nIts brand was built on enterprise security, but the gap in written commitments is now visible.",
+      "3. The vendor calculus shifts\n\nIf you handle sensitive client data, the safer paper may not be the safer name.",
+      "4. Read the fine print now\n\nMost AI agreements leave data use vague. Compare the actual clauses before renewing.",
+      "5. Check your agreement this week\n\nOpen a current AI contract and find the data processing section. If it lacks guarantees, ask for them."
+    ],
+    "video_script": [
+      "OpenAI now gives written data guarantees.",
+      "Anthropic hasn't matched those contractual terms.",
+      "Sensitive client data changes the risk calculation.",
+      "Don't rely on brand reputation alone.",
+      "Review your AI agreement's data terms today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your data terms just changed\n\nThe contract OpenAI now offers includes guarantees Anthropic has publicly avoided matching.",
+          "2. Anthropic's edge is fading\n\nIts brand was built on enterprise security, but the gap in written commitments is now visible.",
+          "3. The vendor calculus shifts\n\nIf you handle sensitive client data, the safer paper may not be the safer name.",
+          "4. Read the fine print now\n\nMost AI agreements leave data use vague. Compare the actual clauses before renewing.",
+          "5. Check your agreement this week\n\nOpen a current AI contract and find the data processing section. If it lacks guarantees, ask for them."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI now gives written data guarantees.",
+          "Anthropic hasn't matched those contractual terms.",
+          "Sensitive client data changes the risk calculation.",
+          "Don't rely on brand reputation alone.",
+          "Review your AI agreement's data terms today."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI just put a privacy guarantee in writing that Anthropic hasn't matched. 📄\n\nIf your work involves sensitive client data, the contract now matters more than the brand name. Anthropic built its reputation on enterprise security, but OpenAI's new terms include contractual commitments the competitor has publicly avoided. 🔍\n\nThat shifts the calculus for anyone comparing vendors. The safer paper may no longer be the safer name.\n\nFor content creators and agencies handling client info, your AI agreement's data clauses just became your first line of defense. Most contracts leave this vague.\n\nCheck your current AI agreement's data section this week. If it lacks concrete guarantees, ask your provider why not. 🧾\n\nDoes your contract protect you—or just them?"
+      }
+    },
+    "instagram_caption": "OpenAI just put a privacy guarantee in writing that Anthropic hasn't matched. 📄\n\nIf your work involves sensitive client data, the contract now matters more than the brand name. Anthropic built its reputation on enterprise security, but OpenAI's new terms include contractual commitments the competitor has publicly avoided. 🔍\n\nThat shifts the calculus for anyone comparing vendors. The safer paper may no longer be the safer name.\n\nFor content creators and agencies handling client info, your AI agreement's data clauses just became your first line of defense. Most contracts leave this vague.\n\nCheck your current AI agreement's data section this week. If it lacks concrete guarantees, ask your provider why not. 🧾\n\nDoes your contract protect you—or just them?",
+    "carousel_slides": [
+      {
+        "hook": "Is safer paper now safer?",
+        "description": "OpenAI's new contract includes guarantees Anthropic hasn't matched, shifting the enterprise security calculus.",
+        "visual_hint": "Balance scale with documents",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "contract balance scale"
+      },
+      {
+        "hook": "Anthropic's edge fades.",
+        "description": "Anthropic built its brand on enterprise security, but OpenAI now offers written commitments closing that gap.",
+        "visual_hint": "Fading fortress icon",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "corporate building",
+        "image": "https://images.pexels.com/photos/33719029/pexels-photo-33719029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your vendor calculus shifts.",
+        "description": "If you handle sensitive client data, the safer name may no longer be the safer choice—check the actual clauses.",
+        "visual_hint": "Vendor logos in balance",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Read the fine print now.",
+        "description": "Most AI agreements leave data use vague. Compare clauses before renewing to ensure your clients are protected.",
+        "visual_hint": "Magnifying glass on contract",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass documents",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your contract this week.",
+        "description": "Open your AI agreement, find the data processing section, and ask for guarantees if it lacks them.",
+        "visual_hint": "Open contract with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist contract",
+        "image": "https://images.pexels.com/photos/8470801/pexels-photo-8470801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+    "savedAt": "2026-08-20T00:43:27.933Z",
+    "sourceId": "d306eafa18af68ae57f60c3d33b7280f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meet-the-startup-helping-wall-street-put-a-price-o",
     "prompt_version": "1.0.0",
     "status": "published",
