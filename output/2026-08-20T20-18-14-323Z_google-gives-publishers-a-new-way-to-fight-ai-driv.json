@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-gives-publishers-a-new-way-to-fight-ai-driv",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+  "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+  "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
+  "slides": [
+    "Can Google's new tool reverse AI-driven traffic collapse?",
+    "It lets publishers block AI Overviews selectively, not entirely.",
+    "Blocked sites still lose clicks through Gemini's training data.",
+    "Your content strategy must now include AI visibility audits.",
+    "Audit your AI visibility today, or keep losing readers."
+  ],
+  "thread_text": [
+    "1. Google’s new tool: a trap?\n\nPublishers can now block AI Overviews, but only partially. The tool doesn’t stop Gemini from learning from your content.",
+    "2. The blind spot\n\nEven if you block AI Overviews, your articles can still appear in Gemini’s answers. Clicks drop anyway, but you lose control too.",
+    "3. The real cost\n\nBlocked sites lose traffic through Gemini’s training data, not just search results. Your content feeds the AI even when you opt out.",
+    "4. Audit or bleed\n\nIf you’re not tracking your AI visibility, you’re guessing. A simple audit reveals where your content appears in AI answers—and where it’s invisible.",
+    "5. Your move today\n\nRun an AI visibility audit on your top 10 posts this week. Found gaps? Adjust your content strategy now, or keep losing readers to AI summaries."
+  ],
+  "video_script": [
+    "Google’s new AI tool has a catch.",
+    "Blocking overviews won’t stop Gemini learning.",
+    "Your clicks still drop from training data.",
+    "Audit your AI visibility now.",
+    "Or keep losing readers every day."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google’s new tool: a trap?\n\nPublishers can now block AI Overviews, but only partially. The tool doesn’t stop Gemini from learning from your content.",
+        "2. The blind spot\n\nEven if you block AI Overviews, your articles can still appear in Gemini’s answers. Clicks drop anyway, but you lose control too.",
+        "3. The real cost\n\nBlocked sites lose traffic through Gemini’s training data, not just search results. Your content feeds the AI even when you opt out.",
+        "4. Audit or bleed\n\nIf you’re not tracking your AI visibility, you’re guessing. A simple audit reveals where your content appears in AI answers—and where it’s invisible.",
+        "5. Your move today\n\nRun an AI visibility audit on your top 10 posts this week. Found gaps? Adjust your content strategy now, or keep losing readers to AI summaries."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google’s new AI tool has a catch.",
+        "Blocking overviews won’t stop Gemini learning.",
+        "Your clicks still drop from training data.",
+        "Audit your AI visibility now.",
+        "Or keep losing readers every day."
+      ]
+    },
+    "instagram": {
+      "caption": "Publishers can now tell Google to skip their sites in AI Overviews, but the tool won’t stop Gemini from still quoting them in answers. 🧩\n\nGoogle’s new opt-out is selective—you can block one feature, not the AI’s training data. So your articles keep feeding summaries you don’t control, and clicks keep dropping anyway. 📉\n\nIf you publish content, this means your “block” is partial: you lose visibility, but the AI still learns from you. That’s a blind spot, not a fix. 🔍\n\nAudit your top 10 posts this week for AI presence—where do they show up in Gemini’s replies? Found gaps? Adjust your strategy now, or keep bleeding readers."
+    }
+  },
+  "instagram_caption": "Publishers can now tell Google to skip their sites in AI Overviews, but the tool won’t stop Gemini from still quoting them in answers. 🧩\n\nGoogle’s new opt-out is selective—you can block one feature, not the AI’s training data. So your articles keep feeding summaries you don’t control, and clicks keep dropping anyway. 📉\n\nIf you publish content, this means your “block” is partial: you lose visibility, but the AI still learns from you. That’s a blind spot, not a fix. 🔍\n\nAudit your top 10 posts this week for AI presence—where do they show up in Gemini’s replies? Found gaps? Adjust your strategy now, or keep bleeding readers.",
+  "carousel_slides": [
+    {
+      "hook": "Your content trains AI even if blocked?",
+      "description": "Google's partial block still lets Gemini learn from your articles. Clicks drop and you lose control. A hidden trap.",
+      "visual_hint": "Digital padlock on code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer code lock"
+    },
+    {
+      "hook": "Partial blocking, full damage?",
+      "description": "Block AI Overviews selectively, but Gemini still uses your content. Traffic falls regardless, and you lose control.",
+      "visual_hint": "Split screen with lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "split screen phone",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blocked sites still feed AI answers",
+      "description": "Even opted-out articles appear in Gemini's answers via training data. Clicks drop, but AI thrives on your work.",
+      "visual_hint": "Magnifying glass over data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass data",
+      "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Guessing AI visibility is bleeding readers",
+      "description": "Without audits, you don't know where content appears or vanishes in AI answers. Track to stop invisible losses.",
+      "visual_hint": "Hand pointing at chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing chart",
+      "image": "https://images.pexels.com/photos/7876501/pexels-photo-7876501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run an AI audit today or lose readers",
+      "description": "Audit your top 10 posts now. Find gaps, adjust your strategy, and save your traffic. Link in bio.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+  "savedAt": "2026-08-20T20:18:27.220Z",
+  "sourceId": "b359671ae1bfb83e76de8879cc3f3447"
+}

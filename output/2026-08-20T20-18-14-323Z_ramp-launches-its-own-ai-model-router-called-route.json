@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ramp-launches-its-own-ai-model-router-called-route",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ramp launches its own AI model router, called Router",
+  "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+  "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
+  "slides": [
+    "Can Ramp's router fix AI cost chaos?",
+    "It dynamically picks models per request automatically.",
+    "But benchmarks hide real savings; latency varies wildly.",
+    "Your finance team gains instant spend control dashboards.",
+    "Test Router against your current setup this week."
+  ],
+  "thread_text": [
+    "1. The Hidden Cost of AI\n\nRamp's router picks models per request, but benchmarks don't show real latency spikes. Your actual savings might be invisible.",
+    "2. Dynamic Routing Reality\n\nThe router claims to optimize automatically, but real-world latency varies wildly. Static tests miss the chaos.",
+    "3. Finance Gets a Dashboard\n\nYour finance team can now track spend instantly. But visibility doesn't fix the underlying latency problem.",
+    "4. The Benchmark Trap\n\nBenchmarks hide the true performance. What works in a lab often fails in production.",
+    "5. Test It Yourself\n\nRun the router on your own workload this week. Compare latency and cost directly. Does it truly save you money?"
+  ],
+  "video_script": [
+    "Ramp's router picks models automatically.",
+    "But benchmarks don't show real latency.",
+    "Latency varies wildly in production.",
+    "Finance gets instant spend dashboards.",
+    "Test the router against your setup."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hidden Cost of AI\n\nRamp's router picks models per request, but benchmarks don't show real latency spikes. Your actual savings might be invisible.",
+        "2. Dynamic Routing Reality\n\nThe router claims to optimize automatically, but real-world latency varies wildly. Static tests miss the chaos.",
+        "3. Finance Gets a Dashboard\n\nYour finance team can now track spend instantly. But visibility doesn't fix the underlying latency problem.",
+        "4. The Benchmark Trap\n\nBenchmarks hide the true performance. What works in a lab often fails in production.",
+        "5. Test It Yourself\n\nRun the router on your own workload this week. Compare latency and cost directly. Does it truly save you money?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Ramp's router picks models automatically.",
+        "But benchmarks don't show real latency.",
+        "Latency varies wildly in production.",
+        "Finance gets instant spend dashboards.",
+        "Test the router against your setup."
+      ]
+    },
+    "instagram": {
+      "caption": "You can benchmark a model all you want—production latency still spikes when you least expect it. That's the gap Ramp's new router, literally called Router, is trying to close. It automatically assigns each request to a cheaper or faster model on the fly, and hands your finance team a dashboard to watch spend in real time. But the catch is obvious: those pretty savings charts don't reflect chaotic real-world traffic. 🧾⚡ If you're paying for AI output, you need to test this against your actual workload this week. Run it side-by-side and compare raw latency numbers. Does dynamic picking actually cut your bill, or just move the unpredictability around? 🤔"
+    }
+  },
+  "instagram_caption": "You can benchmark a model all you want—production latency still spikes when you least expect it. That's the gap Ramp's new router, literally called Router, is trying to close. It automatically assigns each request to a cheaper or faster model on the fly, and hands your finance team a dashboard to watch spend in real time. But the catch is obvious: those pretty savings charts don't reflect chaotic real-world traffic. 🧾⚡ If you're paying for AI output, you need to test this against your actual workload this week. Run it side-by-side and compare raw latency numbers. Does dynamic picking actually cut your bill, or just move the unpredictability around? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can real savings stay hidden?",
+      "description": "Router picks models per request, but benchmarks miss latency spikes. Actual cost savings might be invisible in production.",
+      "visual_hint": "Hidden costs masked by charts",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Dynamic routing, real chaos?",
+      "description": "Claimed automatic optimization, yet real-world latency varies wildly. Static tests miss production turbulence, affecting user experience.",
+      "visual_hint": "Waves of varying latency",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Dashboard sees spend, not speed",
+      "description": "Finance gains instant spend visibility, but dashboards track cost, not latency. Underlying performance issues remain hidden.",
+      "visual_hint": "Zoom on dashboard metrics",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Benchmarks lie, production tells truth",
+      "description": "Lab tests hide true performance. What works in controlled environments often fails under real workload demands, causing delays.",
+      "visual_hint": "Hand comparing lab vs field",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Router on your workload now",
+      "description": "Run Router against your current setup this week. Compare latency and cost directly to see if savings are real.",
+      "visual_hint": "CTA button with test prompt",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop code",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+  "savedAt": "2026-08-20T20:18:37.828Z",
+  "sourceId": "28cd1afbb67e577e7314b1f44dc3c68f"
+}

@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ramp-launches-its-own-ai-model-router-called-route",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Ramp launches its own AI model router, called Router",
+    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "pubDate": "Thu, 20 Aug 2026 16:46:00 +0000",
+    "slides": [
+      "Can Ramp's router fix AI cost chaos?",
+      "It dynamically picks models per request automatically.",
+      "But benchmarks hide real savings; latency varies wildly.",
+      "Your finance team gains instant spend control dashboards.",
+      "Test Router against your current setup this week."
+    ],
+    "thread_text": [
+      "1. The Hidden Cost of AI\n\nRamp's router picks models per request, but benchmarks don't show real latency spikes. Your actual savings might be invisible.",
+      "2. Dynamic Routing Reality\n\nThe router claims to optimize automatically, but real-world latency varies wildly. Static tests miss the chaos.",
+      "3. Finance Gets a Dashboard\n\nYour finance team can now track spend instantly. But visibility doesn't fix the underlying latency problem.",
+      "4. The Benchmark Trap\n\nBenchmarks hide the true performance. What works in a lab often fails in production.",
+      "5. Test It Yourself\n\nRun the router on your own workload this week. Compare latency and cost directly. Does it truly save you money?"
+    ],
+    "video_script": [
+      "Ramp's router picks models automatically.",
+      "But benchmarks don't show real latency.",
+      "Latency varies wildly in production.",
+      "Finance gets instant spend dashboards.",
+      "Test the router against your setup."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hidden Cost of AI\n\nRamp's router picks models per request, but benchmarks don't show real latency spikes. Your actual savings might be invisible.",
+          "2. Dynamic Routing Reality\n\nThe router claims to optimize automatically, but real-world latency varies wildly. Static tests miss the chaos.",
+          "3. Finance Gets a Dashboard\n\nYour finance team can now track spend instantly. But visibility doesn't fix the underlying latency problem.",
+          "4. The Benchmark Trap\n\nBenchmarks hide the true performance. What works in a lab often fails in production.",
+          "5. Test It Yourself\n\nRun the router on your own workload this week. Compare latency and cost directly. Does it truly save you money?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ramp's router picks models automatically.",
+          "But benchmarks don't show real latency.",
+          "Latency varies wildly in production.",
+          "Finance gets instant spend dashboards.",
+          "Test the router against your setup."
+        ]
+      },
+      "instagram": {
+        "caption": "You can benchmark a model all you want—production latency still spikes when you least expect it. That's the gap Ramp's new router, literally called Router, is trying to close. It automatically assigns each request to a cheaper or faster model on the fly, and hands your finance team a dashboard to watch spend in real time. But the catch is obvious: those pretty savings charts don't reflect chaotic real-world traffic. 🧾⚡ If you're paying for AI output, you need to test this against your actual workload this week. Run it side-by-side and compare raw latency numbers. Does dynamic picking actually cut your bill, or just move the unpredictability around? 🤔"
+      }
+    },
+    "instagram_caption": "You can benchmark a model all you want—production latency still spikes when you least expect it. That's the gap Ramp's new router, literally called Router, is trying to close. It automatically assigns each request to a cheaper or faster model on the fly, and hands your finance team a dashboard to watch spend in real time. But the catch is obvious: those pretty savings charts don't reflect chaotic real-world traffic. 🧾⚡ If you're paying for AI output, you need to test this against your actual workload this week. Run it side-by-side and compare raw latency numbers. Does dynamic picking actually cut your bill, or just move the unpredictability around? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Can real savings stay hidden?",
+        "description": "Router picks models per request, but benchmarks miss latency spikes. Actual cost savings might be invisible in production.",
+        "visual_hint": "Hidden costs masked by charts",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Dynamic routing, real chaos?",
+        "description": "Claimed automatic optimization, yet real-world latency varies wildly. Static tests miss production turbulence, affecting user experience.",
+        "visual_hint": "Waves of varying latency",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "network cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dashboard sees spend, not speed",
+        "description": "Finance gains instant spend visibility, but dashboards track cost, not latency. Underlying performance issues remain hidden.",
+        "visual_hint": "Zoom on dashboard metrics",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Benchmarks lie, production tells truth",
+        "description": "Lab tests hide true performance. What works in controlled environments often fails under real workload demands, causing delays.",
+        "visual_hint": "Hand comparing lab vs field",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Router on your workload now",
+        "description": "Run Router against your current setup this week. Compare latency and cost directly to see if savings are real.",
+        "visual_hint": "CTA button with test prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop code",
+        "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+    "savedAt": "2026-08-20T20:18:37.828Z",
+    "sourceId": "28cd1afbb67e577e7314b1f44dc3c68f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-gives-publishers-a-new-way-to-fight-ai-driv",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "pubDate": "Thu, 20 Aug 2026 19:18:21 +0000",
+    "slides": [
+      "Can Google's new tool reverse AI-driven traffic collapse?",
+      "It lets publishers block AI Overviews selectively, not entirely.",
+      "Blocked sites still lose clicks through Gemini's training data.",
+      "Your content strategy must now include AI visibility audits.",
+      "Audit your AI visibility today, or keep losing readers."
+    ],
+    "thread_text": [
+      "1. Google’s new tool: a trap?\n\nPublishers can now block AI Overviews, but only partially. The tool doesn’t stop Gemini from learning from your content.",
+      "2. The blind spot\n\nEven if you block AI Overviews, your articles can still appear in Gemini’s answers. Clicks drop anyway, but you lose control too.",
+      "3. The real cost\n\nBlocked sites lose traffic through Gemini’s training data, not just search results. Your content feeds the AI even when you opt out.",
+      "4. Audit or bleed\n\nIf you’re not tracking your AI visibility, you’re guessing. A simple audit reveals where your content appears in AI answers—and where it’s invisible.",
+      "5. Your move today\n\nRun an AI visibility audit on your top 10 posts this week. Found gaps? Adjust your content strategy now, or keep losing readers to AI summaries."
+    ],
+    "video_script": [
+      "Google’s new AI tool has a catch.",
+      "Blocking overviews won’t stop Gemini learning.",
+      "Your clicks still drop from training data.",
+      "Audit your AI visibility now.",
+      "Or keep losing readers every day."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Google’s new tool: a trap?\n\nPublishers can now block AI Overviews, but only partially. The tool doesn’t stop Gemini from learning from your content.",
+          "2. The blind spot\n\nEven if you block AI Overviews, your articles can still appear in Gemini’s answers. Clicks drop anyway, but you lose control too.",
+          "3. The real cost\n\nBlocked sites lose traffic through Gemini’s training data, not just search results. Your content feeds the AI even when you opt out.",
+          "4. Audit or bleed\n\nIf you’re not tracking your AI visibility, you’re guessing. A simple audit reveals where your content appears in AI answers—and where it’s invisible.",
+          "5. Your move today\n\nRun an AI visibility audit on your top 10 posts this week. Found gaps? Adjust your content strategy now, or keep losing readers to AI summaries."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google’s new AI tool has a catch.",
+          "Blocking overviews won’t stop Gemini learning.",
+          "Your clicks still drop from training data.",
+          "Audit your AI visibility now.",
+          "Or keep losing readers every day."
+        ]
+      },
+      "instagram": {
+        "caption": "Publishers can now tell Google to skip their sites in AI Overviews, but the tool won’t stop Gemini from still quoting them in answers. 🧩\n\nGoogle’s new opt-out is selective—you can block one feature, not the AI’s training data. So your articles keep feeding summaries you don’t control, and clicks keep dropping anyway. 📉\n\nIf you publish content, this means your “block” is partial: you lose visibility, but the AI still learns from you. That’s a blind spot, not a fix. 🔍\n\nAudit your top 10 posts this week for AI presence—where do they show up in Gemini’s replies? Found gaps? Adjust your strategy now, or keep bleeding readers."
+      }
+    },
+    "instagram_caption": "Publishers can now tell Google to skip their sites in AI Overviews, but the tool won’t stop Gemini from still quoting them in answers. 🧩\n\nGoogle’s new opt-out is selective—you can block one feature, not the AI’s training data. So your articles keep feeding summaries you don’t control, and clicks keep dropping anyway. 📉\n\nIf you publish content, this means your “block” is partial: you lose visibility, but the AI still learns from you. That’s a blind spot, not a fix. 🔍\n\nAudit your top 10 posts this week for AI presence—where do they show up in Gemini’s replies? Found gaps? Adjust your strategy now, or keep bleeding readers.",
+    "carousel_slides": [
+      {
+        "hook": "Your content trains AI even if blocked?",
+        "description": "Google's partial block still lets Gemini learn from your articles. Clicks drop and you lose control. A hidden trap.",
+        "visual_hint": "Digital padlock on code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer code lock"
+      },
+      {
+        "hook": "Partial blocking, full damage?",
+        "description": "Block AI Overviews selectively, but Gemini still uses your content. Traffic falls regardless, and you lose control.",
+        "visual_hint": "Split screen with lock",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "split screen phone",
+        "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Blocked sites still feed AI answers",
+        "description": "Even opted-out articles appear in Gemini's answers via training data. Clicks drop, but AI thrives on your work.",
+        "visual_hint": "Magnifying glass over data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass data",
+        "image": "https://images.pexels.com/photos/6120168/pexels-photo-6120168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guessing AI visibility is bleeding readers",
+        "description": "Without audits, you don't know where content appears or vanishes in AI answers. Track to stop invisible losses.",
+        "visual_hint": "Hand pointing at chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand pointing chart",
+        "image": "https://images.pexels.com/photos/7876501/pexels-photo-7876501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run an AI audit today or lose readers",
+        "description": "Audit your top 10 posts now. Find gaps, adjust your strategy, and save your traffic. Link in bio.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen paper",
+        "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+    "savedAt": "2026-08-20T20:18:27.220Z",
+    "sourceId": "b359671ae1bfb83e76de8879cc3f3447"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "it-s-greg-brockman-s-openai-now",
     "prompt_version": "1.0.0",
     "status": "published",
