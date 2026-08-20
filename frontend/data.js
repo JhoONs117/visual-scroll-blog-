@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sachin-bansal-s-fintech-navi-raises-first-outside-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+    "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+    "pubDate": "Wed, 19 Aug 2026 15:01:41 +0000",
+    "slides": [
+      "Why did Sachin Bansal's Navi finally take outside money?",
+      "Prosus invests $100M, Navi's first external funding ever.",
+      "But Bansal still controls the company—how much changed?",
+      "Navi now plans to expand lending and insurance aggressively.",
+      "Watch how this affects your loans and insurance options."
+    ],
+    "thread_text": [
+      "1. First external money\n\nNavi, Sachin Bansal's fintech, just took its first outside investment—$100M from Prosus. He'd bootstrapped it until now.",
+      "2. Control stays put\n\nBansal still holds majority control. The deal doesn't dilute his voting power, so strategic decisions remain his alone.",
+      "3. Aggressive expansion loan\n\nWith fresh capital, Navi plans to scale lending and insurance products. Expect more aggressive customer acquisition in those segments.",
+      "4. What's in it for Prosus\n\nProsus gets a stake, but no board seat or control. They're betting on Navi's growth, not steering it.",
+      "5. Your next loan options\n\nCheck Navi's rates if you're shopping for a personal loan or insurance soon. Will increased competition lower prices?"
+    ],
+    "video_script": [
+      "Sachin Bansal's Navi got its first outside funding.",
+      "Prosus put in one hundred million dollars.",
+      "Bansal keeps control, so nothing much changes.",
+      "Navi will now push loans and insurance harder.",
+      "Watch for cheaper offers if you're a customer."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. First external money\n\nNavi, Sachin Bansal's fintech, just took its first outside investment—$100M from Prosus. He'd bootstrapped it until now.",
+          "2. Control stays put\n\nBansal still holds majority control. The deal doesn't dilute his voting power, so strategic decisions remain his alone.",
+          "3. Aggressive expansion loan\n\nWith fresh capital, Navi plans to scale lending and insurance products. Expect more aggressive customer acquisition in those segments.",
+          "4. What's in it for Prosus\n\nProsus gets a stake, but no board seat or control. They're betting on Navi's growth, not steering it.",
+          "5. Your next loan options\n\nCheck Navi's rates if you're shopping for a personal loan or insurance soon. Will increased competition lower prices?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sachin Bansal's Navi got its first outside funding.",
+          "Prosus put in one hundred million dollars.",
+          "Bansal keeps control, so nothing much changes.",
+          "Navi will now push loans and insurance harder.",
+          "Watch for cheaper offers if you're a customer."
+        ]
+      },
+      "instagram": {
+        "caption": "Sachin Bansal just took his first outside check—$100M from Prosus—after years of funding Navi entirely on his own. \n\nHe still keeps full voting control, so the strategy stays his. The money is earmarked for scaling lending and insurance products aggressively. \n\nProsus gets a stake but no steering wheel, betting purely on growth. \n\nFor you: expect Navi to push harder on personal loans and insurance, which could mean sharper rates as they chase customers. \n\nIf you're in the market for a loan soon, it's worth comparing their pricing against incumbents. 📉💸\n\nWill you shop Navi against your bank’s offer, or stick with what you know?"
+      }
+    },
+    "instagram_caption": "Sachin Bansal just took his first outside check—$100M from Prosus—after years of funding Navi entirely on his own. \n\nHe still keeps full voting control, so the strategy stays his. The money is earmarked for scaling lending and insurance products aggressively. \n\nProsus gets a stake but no steering wheel, betting purely on growth. \n\nFor you: expect Navi to push harder on personal loans and insurance, which could mean sharper rates as they chase customers. \n\nIf you're in the market for a loan soon, it's worth comparing their pricing against incumbents. 📉💸\n\nWill you shop Navi against your bank’s offer, or stick with what you know?",
+    "carousel_slides": [
+      {
+        "hook": "Why did he finally take money?",
+        "description": "Sachin Bansal bootstrapped Navi for years. Now Prosus injects $100M — his first outside capital ever. What changed?",
+        "visual_hint": "Handshake deal, cash background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "business handshake deal"
+      },
+      {
+        "hook": "Control stays in Bansal's hands.",
+        "description": "Prosus gets a stake but no board seat or control. Bansal keeps majority voting power, so strategic decisions remain his alone.",
+        "visual_hint": "Single controller, power symbol",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "corporate boardroom",
+        "image": "https://images.pexels.com/photos/8574469/pexels-photo-8574469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Aggressive expansion is coming.",
+        "description": "With fresh capital, Navi plans to scale lending and insurance products — expect a push for more customers in those segments.",
+        "visual_hint": "Zoom on loan growth chart",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "growing bar chart",
+        "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What does Prosus actually win?",
+        "description": "A bet on Navi's growth without steering it. Prosus expects returns as Navi expands aggressively into lending and insurance.",
+        "visual_hint": "Hand holding coins, investment",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding coins",
+        "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next loan.",
+        "description": "Check Navi's rates if you're shopping for a personal loan or insurance soon. Will competition lower prices?",
+        "visual_hint": "Save icon, rate comparison",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "loan comparison document",
+        "image": "https://images.pexels.com/photos/7821466/pexels-photo-7821466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-634332718.jpg?resize=1200,781",
+    "savedAt": "2026-08-20T02:49:45.675Z",
+    "sourceId": "f50f171d7a565d4f0b2a240ac778ee0f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "rivian-spinout-also-raises-another-150m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Rivian spinout Also raises another $150M",
+    "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+    "pubDate": "Wed, 19 Aug 2026 15:39:47 +0000",
+    "slides": [
+      "Rivian's spinout raised $150M more. What's the catch?",
+      "Also is quietly building EV charging, not cars.",
+      "Why would Rivian let its crown jewel go?",
+      "Investors now bet on grid integration, not road trips.",
+      "Your next charging strategy must include Also."
+    ],
+    "thread_text": [
+      "1. The $150M Catch\n\nRivian spun out its EV charging business, Also Energy, and raised $150M. But the spinout isn't building chargers for road trips—it's pivoting to grid storage.",
+      "2. Charging's New Boss\n\nAlso Energy is quietly building grid-integrated battery systems, not EV chargers. Investors are betting on energy storage that balances the grid, not on roadside fast charging.",
+      "3. Why Let It Go?\n\nRivian let go of its charging crown jewel to focus on car production, while Also Energy targets a different market: stationary storage. The spinout allows Also to chase utility contracts without Rivian's baggage.",
+      "4. The Grid Play\n\nAlso Energy's strategy is to use EV chargers as grid assets, discharging batteries during peak demand. This shifts the value from road trips to grid services, making chargers revenue generators beyond just electricity sales.",
+      "5. Your Next Move\n\nTest a charging strategy that pairs local storage with grid services. Ask your utility about demand-response incentives today—will your chargers pay you back faster?"
+    ],
+    "video_script": [
+      "Rivian's spinout raised 150 million.",
+      "But Also builds grid storage, not cars.",
+      "Why give away the crown jewel?",
+      "Investors bet on grid integration, not road trips.",
+      "Update your charging strategy with Also."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $150M Catch\n\nRivian spun out its EV charging business, Also Energy, and raised $150M. But the spinout isn't building chargers for road trips—it's pivoting to grid storage.",
+          "2. Charging's New Boss\n\nAlso Energy is quietly building grid-integrated battery systems, not EV chargers. Investors are betting on energy storage that balances the grid, not on roadside fast charging.",
+          "3. Why Let It Go?\n\nRivian let go of its charging crown jewel to focus on car production, while Also Energy targets a different market: stationary storage. The spinout allows Also to chase utility contracts without Rivian's baggage.",
+          "4. The Grid Play\n\nAlso Energy's strategy is to use EV chargers as grid assets, discharging batteries during peak demand. This shifts the value from road trips to grid services, making chargers revenue generators beyond just electricity sales.",
+          "5. Your Next Move\n\nTest a charging strategy that pairs local storage with grid services. Ask your utility about demand-response incentives today—will your chargers pay you back faster?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Rivian's spinout raised 150 million.",
+          "But Also builds grid storage, not cars.",
+          "Why give away the crown jewel?",
+          "Investors bet on grid integration, not road trips.",
+          "Update your charging strategy with Also."
+        ]
+      },
+      "instagram": {
+        "caption": "Rivian just let its charging business walk out the door—and that spinout, Also Energy, promptly raised another $150M. Not for building more road-trip chargers, though. ⚡\n\nAlso is pivoting to grid storage: stationary batteries that use charging stations as grid assets, discharging during peak demand. Rivian dumped it to stay focused on cars, but investors are betting big on utilities instead of road trips. 🏭\n\nIf you run EV charging infrastructure, your revenue model just shifted. Pairing local storage with grid services could make chargers pay you back far faster than electricity sales alone. 🔋\n\nAre you asking your utility about demand-response incentives this week, or waiting until peak pricing hits?"
+      }
+    },
+    "instagram_caption": "Rivian just let its charging business walk out the door—and that spinout, Also Energy, promptly raised another $150M. Not for building more road-trip chargers, though. ⚡\n\nAlso is pivoting to grid storage: stationary batteries that use charging stations as grid assets, discharging during peak demand. Rivian dumped it to stay focused on cars, but investors are betting big on utilities instead of road trips. 🏭\n\nIf you run EV charging infrastructure, your revenue model just shifted. Pairing local storage with grid services could make chargers pay you back far faster than electricity sales alone. 🔋\n\nAre you asking your utility about demand-response incentives this week, or waiting until peak pricing hits?",
+    "carousel_slides": [
+      {
+        "hook": "Why let the crown jewel go?",
+        "description": "Rivian spun out Also Energy and raised $150M. But Also isn't building road-trip chargers—it's pivoting to grid storage, changing the game entirely.",
+        "visual_hint": "Rivian logo split from battery",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "electric vehicle charging station"
+      },
+      {
+        "hook": "Charging's new boss is storage.",
+        "description": "Also Energy is quietly building grid-integrated battery systems, not EV chargers. Investors bet on storage that balances the grid, not roadside fast charging.",
+        "visual_hint": "Battery packs beside charging ports",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "battery storage facility",
+        "image": "https://images.pexels.com/photos/37929911/pexels-photo-37929911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rivian's spinout targets utilities now.",
+        "description": "Rivian let go of its charging unit to focus on cars, while Also chases utility contracts. The spinout frees Also from Rivian's baggage to scale stationary storage.",
+        "visual_hint": "Utility poles and grid lines",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "electrical grid utility poles",
+        "image": "https://images.pexels.com/photos/28453371/pexels-photo-28453371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chargers as grid assets? Yes.",
+        "description": "Also Energy's plan: use EV chargers to discharge batteries during peak demand. This shifts value from road trips to grid services, making chargers revenue generators beyond electricity sales.",
+        "visual_hint": "Hand plugging charger into car",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "electric car charging cable",
+        "image": "https://images.pexels.com/photos/32472661/pexels-photo-32472661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test storage plus grid.",
+        "description": "Action: pair local storage with grid services. Ask your utility about demand-response incentives today—will your chargers pay you back faster?",
+        "visual_hint": "Graph showing savings arrow up",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savings graph chart",
+        "image": "https://images.pexels.com/photos/7948072/pexels-photo-7948072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900",
+    "savedAt": "2026-08-20T02:49:32.909Z",
+    "sourceId": "16e5ade211d0fa88ad18d54f85799791"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-hit-the-brakes-now-what-",
     "prompt_version": "1.0.0",
     "status": "published",
