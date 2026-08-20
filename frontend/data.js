@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "binance-now-lets-ai-agents-trade-but-keeping-them-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "pubDate": "Thu, 20 Aug 2026 09:30:00 +0000",
+    "slides": [
+      "Can AI agents be trusted with your crypto?",
+      "Binance now lets them trade autonomously.",
+      "But Binance says users must monitor everything.",
+      "You must set limits and watch every trade.",
+      "Test with tiny amounts before trusting AI."
+    ],
+    "thread_text": [
+      "1. Your crypto, their control?\n\nBinance now lets AI agents trade autonomously. But they're not accountable if it goes wrong.",
+      "2. The fine print\n\nBinance says users must monitor everything. No exceptions.",
+      "3. Set limits or lose\n\nYou must set strict limits on every trade. Without them, the AI has no guardrails.",
+      "4. Start small\n\nBefore trusting AI, test with tiny amounts. This is the only safe way to learn its behavior.",
+      "5. Are you ready?\n\nWill you hand over your wallet to an AI this week? If yes, start with $10 and watch closely."
+    ],
+    "video_script": [
+      "Can AI agents be trusted with your crypto?",
+      "Binance now lets them trade autonomously.",
+      "But users must monitor everything.",
+      "Set limits and watch every trade.",
+      "Test with tiny amounts first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your crypto, their control?\n\nBinance now lets AI agents trade autonomously. But they're not accountable if it goes wrong.",
+          "2. The fine print\n\nBinance says users must monitor everything. No exceptions.",
+          "3. Set limits or lose\n\nYou must set strict limits on every trade. Without them, the AI has no guardrails.",
+          "4. Start small\n\nBefore trusting AI, test with tiny amounts. This is the only safe way to learn its behavior.",
+          "5. Are you ready?\n\nWill you hand over your wallet to an AI this week? If yes, start with $10 and watch closely."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI agents be trusted with your crypto?",
+          "Binance now lets them trade autonomously.",
+          "But users must monitor everything.",
+          "Set limits and watch every trade.",
+          "Test with tiny amounts first."
+        ]
+      },
+      "instagram": {
+        "caption": "Your crypto can now be moved by an AI agent on Binance, no human click required. 🕹️\n\nThe exchange rolled out autonomous trading for AI agents, but the fine print is blunt: you’re the babysitter. Binance explicitly says users must monitor every single trade and set their own limits—if the bot goes rogue, that’s on you, not them.\n\nFor anyone running a trading bot or letting an agent manage a wallet, the workflow just changed: you now need hard caps on position size and a kill switch, or the AI has zero guardrails. 🚦\n\nBefore you trust one with real money, run it on $10 and watch every move for a week. Would you hand over your keys to a bot this Friday, or is that a hard no? 💸"
+      }
+    },
+    "instagram_caption": "Your crypto can now be moved by an AI agent on Binance, no human click required. 🕹️\n\nThe exchange rolled out autonomous trading for AI agents, but the fine print is blunt: you’re the babysitter. Binance explicitly says users must monitor every single trade and set their own limits—if the bot goes rogue, that’s on you, not them.\n\nFor anyone running a trading bot or letting an agent manage a wallet, the workflow just changed: you now need hard caps on position size and a kill switch, or the AI has zero guardrails. 🚦\n\nBefore you trust one with real money, run it on $10 and watch every move for a week. Would you hand over your keys to a bot this Friday, or is that a hard no? 💸",
+    "carousel_slides": [
+      {
+        "hook": "Who's accountable when AI loses?",
+        "description": "Binance lets AI agents trade autonomously, but they aren't accountable if things go wrong. The risk sits entirely with you.",
+        "visual_hint": "Floating question mark over crypto chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "crypto trading chart"
+      },
+      {
+        "hook": "Binance's fine print is clear.",
+        "description": "Users must monitor every AI trade, with no exceptions. The platform offers tools, not babysitting.",
+        "visual_hint": "Magnifying glass over terms",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "legal contract document",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No limits? No guardrails.",
+        "description": "Without strict limits on each trade, your AI has zero guardrails. Set them or risk losing funds.",
+        "visual_hint": "Red warning sign near graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market screen",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Start with $10, not trust.",
+        "description": "Test AI with tiny amounts first. It's the only safe way to learn how it behaves before going bigger.",
+        "visual_hint": "Small coin next to robot hand",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand holding coin",
+        "image": "https://images.pexels.com/photos/5614110/pexels-photo-5614110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you trade.",
+        "description": "If you're ready to try AI trading, start with $10 and watch closely. Check our bio for a safe-start guide.",
+        "visual_hint": "Save icon over wallet",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "digital wallet phone",
+        "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
+    "savedAt": "2026-08-20T16:25:07.007Z",
+    "sourceId": "ad5059a21e1bb200b1d533573d0ff4b0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-ap",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
+    "slides": [
+      "Can Meta AI finally make talking to apps useful?",
+      "Its new Mac app taps into your installed software.",
+      "It doesn't just open them—it reads their current state.",
+      "You can ask about files or actions without touching them.",
+      "Try it today; see if it breaks your workflow."
+    ],
+    "thread_text": [
+      "1. Your apps, now with eyes.\n\nMeta AI's new Mac app reads the current state of your installed software—no clicks needed.",
+      "2. Beyond just launching.\n\nIt doesn't merely open apps; it understands what's on your screen. Ask questions about files directly.",
+      "3. The hands-free shift.\n\nYou can query actions or content without touching a thing. This changes how you interact with your desktop.",
+      "4. Ready to disrupt?\n\nTest it on your daily workflow. See if it streamlines tasks or introduces new friction.",
+      "5. Try it now.\n\nDownload the beta today and run a routine operation. Will it save time or create more steps for you?"
+    ],
+    "video_script": [
+      "Meta AI can see your apps.",
+      "It reads what's open now.",
+      "Ask without touching anything.",
+      "Could this break your flow?",
+      "Try it today and test."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your apps, now with eyes.\n\nMeta AI's new Mac app reads the current state of your installed software—no clicks needed.",
+          "2. Beyond just launching.\n\nIt doesn't merely open apps; it understands what's on your screen. Ask questions about files directly.",
+          "3. The hands-free shift.\n\nYou can query actions or content without touching a thing. This changes how you interact with your desktop.",
+          "4. Ready to disrupt?\n\nTest it on your daily workflow. See if it streamlines tasks or introduces new friction.",
+          "5. Try it now.\n\nDownload the beta today and run a routine operation. Will it save time or create more steps for you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta AI can see your apps.",
+          "It reads what's open now.",
+          "Ask without touching anything.",
+          "Could this break your flow?",
+          "Try it today and test."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Mac apps just grew eyes. 🫣\n\nMeta’s new Mac app doesn't just open your software—it reads the current state of whatever is on your screen. You can ask questions about files or actions without touching a single button.\n\nThis means you could query a design file or a spreadsheet without opening it, or ask your email app what’s pending before you even click. For anyone building content, that’s a hands-free layer over your entire editing, drafting, or publishing stack. 📂\n\nWill it streamline your workflow, or just add another voice to your desktop? Download the beta and run one routine task through it today. 🔄"
+      }
+    },
+    "instagram_caption": "Your Mac apps just grew eyes. 🫣\n\nMeta’s new Mac app doesn't just open your software—it reads the current state of whatever is on your screen. You can ask questions about files or actions without touching a single button.\n\nThis means you could query a design file or a spreadsheet without opening it, or ask your email app what’s pending before you even click. For anyone building content, that’s a hands-free layer over your entire editing, drafting, or publishing stack. 📂\n\nWill it streamline your workflow, or just add another voice to your desktop? Download the beta and run one routine task through it today. 🔄",
+    "carousel_slides": [
+      {
+        "hook": "Can AI finally make apps useful?",
+        "description": "Meta AI's new Mac app reads the current state of your installed apps. It doesn't just open them; it understands what's on your screen, enabling hands-free queries.",
+        "visual_hint": "MacBook with floating AI interface",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MacBook screen with AI"
+      },
+      {
+        "hook": "Beyond just opening apps.",
+        "description": "It taps into your installed software, reading files and actions. Ask about anything on screen without touching a thing, streamlining desktop interaction.",
+        "visual_hint": "Hand pointing at screen, apps visible",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Hand touching computer screen",
+        "image": "https://images.pexels.com/photos/8472491/pexels-photo-8472491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hands-free shift begins.",
+        "description": "No clicks needed—ask questions about files directly. Meta AI understands the current state, potentially changing how you work with your desktop.",
+        "visual_hint": "Zoomed view of AI sensing app state",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "Close-up of computer code",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to disrupt your workflow?",
+        "description": "Test it on daily tasks. It might streamline operations or introduce friction. The beta invites you to run a routine operation and see.",
+        "visual_hint": "Human hand holding mouse, workflow on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "Office desk with computer",
+        "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it today, see the impact.",
+        "description": "Download the beta now and run a routine operation. Will it save time or create more steps? Test it and decide.",
+        "visual_hint": "Download button on screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "App download icon",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "savedAt": "2026-08-20T16:24:54.637Z",
+    "sourceId": "aca5b20236936ca4a8dd4bc368501708"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "honeybook-bets-on-agentic-ai-to-streamline-small-b",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+    "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+    "pubDate": "Thu, 20 Aug 2026 07:35:07 +0000",
+    "slides": [
+      "Can one Claude connector truly run your small business?",
+      "HoneyBook's new integration automates client workflows end-to-end.",
+      "It even handles missed payments—without you lifting a finger.",
+      "Your daily operations shift from manual updates to AI oversight.",
+      "Test the connector this week on one repeated task."
+    ],
+    "thread_text": [
+      "1. One connector to rule them all?\n\nHoneyBook's new integration promises to automate client workflows from start to finish, but can a single Claude connector really replace your manual oversight?",
+      "2. Missed payments, handled.\n\nThe system even chases down late invoices without you lifting a finger. It's like having a relentless assistant who never sleeps.",
+      "3. From manual to AI oversight.\n\nYour daily operations shift from you updating spreadsheets to the AI watching everything. The question is: who watches the watcher?",
+      "4. The real cost of automation.\n\nSaving time on repetitive tasks sounds great, but what happens when the AI makes a mistake? You're still the one liable for the outcome.",
+      "5. Test it on one task this week.\n\nTake a repeated task, set up the connector, and see if it truly saves you time. Or better: ask yourself if you'd trust it with your hardest client."
+    ],
+    "video_script": [
+      "Can one connector run your business?",
+      "HoneyBook automates client workflows end-to-end.",
+      "It even handles missed payments automatically.",
+      "Your oversight shifts from manual to AI.",
+      "Test it on one task this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. One connector to rule them all?\n\nHoneyBook's new integration promises to automate client workflows from start to finish, but can a single Claude connector really replace your manual oversight?",
+          "2. Missed payments, handled.\n\nThe system even chases down late invoices without you lifting a finger. It's like having a relentless assistant who never sleeps.",
+          "3. From manual to AI oversight.\n\nYour daily operations shift from you updating spreadsheets to the AI watching everything. The question is: who watches the watcher?",
+          "4. The real cost of automation.\n\nSaving time on repetitive tasks sounds great, but what happens when the AI makes a mistake? You're still the one liable for the outcome.",
+          "5. Test it on one task this week.\n\nTake a repeated task, set up the connector, and see if it truly saves you time. Or better: ask yourself if you'd trust it with your hardest client."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can one connector run your business?",
+          "HoneyBook automates client workflows end-to-end.",
+          "It even handles missed payments automatically.",
+          "Your oversight shifts from manual to AI.",
+          "Test it on one task this week."
+        ]
+      },
+      "instagram": {
+        "caption": "You can now automate client follow-ups and late payment chases straight from HoneyBook, thanks to a new Claude connector designed to run workflows end-to-end. No more manually pinging clients or tracking down overdue invoices yourself.\n\nThis is agentic AI baked into your existing small business tools. Instead of updating spreadsheets and sending reminders, you set it up once and let it oversee the repetitive parts of your day.\n\nFor you, the operator of a small business, this means your admin hours could shrink dramatically—but only if you trust the system to handle your actual clients.\n\nTry it this week on one repeated task. Would you let it chase down your most difficult client? 🤖💸📋"
+      }
+    },
+    "instagram_caption": "You can now automate client follow-ups and late payment chases straight from HoneyBook, thanks to a new Claude connector designed to run workflows end-to-end. No more manually pinging clients or tracking down overdue invoices yourself.\n\nThis is agentic AI baked into your existing small business tools. Instead of updating spreadsheets and sending reminders, you set it up once and let it oversee the repetitive parts of your day.\n\nFor you, the operator of a small business, this means your admin hours could shrink dramatically—but only if you trust the system to handle your actual clients.\n\nTry it this week on one repeated task. Would you let it chase down your most difficult client? 🤖💸📋",
+    "carousel_slides": [
+      {
+        "hook": "Who’s watching the AI?",
+        "description": "HoneyBook’s Claude connector automates client workflows, but a single mistake could leave you liable for the outcome.",
+        "visual_hint": "AI circuit eye",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence circuit"
+      },
+      {
+        "hook": "Bye-bye, manual follow-ups.",
+        "description": "The system chases late invoices automatically, saving hours—but what happens when an error reaches a paying client?",
+        "visual_hint": "Invoice with checkmark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "invoice document coffee",
+        "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "From spreadsheets to oversight.",
+        "description": "Daily operations shift from you updating data to AI monitoring everything—relief, until something slips through.",
+        "visual_hint": "Dashboard with graphs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data dashboard graphs",
+        "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Could you trust it with your hardest client?",
+        "description": "Automation saves time, but if the AI misfires, you’re still accountable. Consider the trade-off before diving in.",
+        "visual_hint": "Person with crossed arms",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business person thinking",
+        "image": "https://images.pexels.com/photos/6802047/pexels-photo-6802047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on one task this week.",
+        "description": "Pick a repeated task, set up the connector, and see if it really saves you time. Then decide if it’s worth it.",
+        "visual_hint": "Arrow pointing to button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop with mouse",
+        "image": "https://images.pexels.com/photos/7240352/pexels-photo-7240352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7562088/pexels-photo-7562088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-20T16:24:42.150Z",
+    "sourceId": "04f620df792409216a63f6bce177e5ba"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "amazon-s-prime-air-autonomous-drones-to-reach-500-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+    "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+    "pubDate": "Thu, 20 Aug 2026 14:05:18 +0000",
+    "slides": [
+      "Can Amazon's Prime Air actually deliver your packages?",
+      "The autonomous drone service claims expansion to 500 cities.",
+      "But current coverage reaches only a fraction of that number.",
+      "This means faster deliveries, yet regulatory hurdles still loom.",
+      "Check your ZIP code today—see if drones serve you."
+    ],
+    "thread_text": [
+      "1. Amazon's Promise\n\nAmazon Prime Air claims expansion to 500 cities, but current coverage is a fraction of that. The gap between promise and reality is vast.",
+      "2. The Reality Gap\n\nRight now, drones serve only a handful of ZIP codes. Most residents are left waiting, despite the grand announcements.",
+      "3. Regulatory Hurdles\n\nFederal rules limit where and when drones can fly. This slows the rollout, keeping the service out of reach for many.",
+      "4. The Speed vs. Safety\n\nWhile faster deliveries sound great, safety concerns and airspace restrictions persist. These issues won't disappear overnight.",
+      "5. Check Your ZIP\n\nGo to Amazon's site and enter your ZIP code. Does the drone actually serve you? Try it today and see."
+    ],
+    "video_script": [
+      "Amazon promises drone delivery to 500 cities.",
+      "But actual coverage is barely a handful.",
+      "Regulatory hurdles keep the service grounded.",
+      "Speed comes with safety and airspace compromises.",
+      "Check your ZIP code to see if it's real."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Amazon's Promise\n\nAmazon Prime Air claims expansion to 500 cities, but current coverage is a fraction of that. The gap between promise and reality is vast.",
+          "2. The Reality Gap\n\nRight now, drones serve only a handful of ZIP codes. Most residents are left waiting, despite the grand announcements.",
+          "3. Regulatory Hurdles\n\nFederal rules limit where and when drones can fly. This slows the rollout, keeping the service out of reach for many.",
+          "4. The Speed vs. Safety\n\nWhile faster deliveries sound great, safety concerns and airspace restrictions persist. These issues won't disappear overnight.",
+          "5. Check Your ZIP\n\nGo to Amazon's site and enter your ZIP code. Does the drone actually serve you? Try it today and see."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Amazon promises drone delivery to 500 cities.",
+          "But actual coverage is barely a handful.",
+          "Regulatory hurdles keep the service grounded.",
+          "Speed comes with safety and airspace compromises.",
+          "Check your ZIP code to see if it's real."
+        ]
+      },
+      "instagram": {
+        "caption": "Amazon says its Prime Air drones will soon cover 500 US cities—but right now, the service actually reaches only a tiny slice of ZIP codes. 📦  \n\nThe expansion promise is real, but federal rules on where and when drones can fly are stalling the rollout. So most addresses still won't see a drone landing anytime soon.  \n\nIf you create or sell physical products, delivery speed and coverage directly affect your shipping promises and customer expectations. A faster option isn't an option until it's *your* ZIP code.  \n\nGo to Amazon's Prime Air page and type your ZIP code—does it actually serve you? ✈️"
+      }
+    },
+    "instagram_caption": "Amazon says its Prime Air drones will soon cover 500 US cities—but right now, the service actually reaches only a tiny slice of ZIP codes. 📦  \n\nThe expansion promise is real, but federal rules on where and when drones can fly are stalling the rollout. So most addresses still won't see a drone landing anytime soon.  \n\nIf you create or sell physical products, delivery speed and coverage directly affect your shipping promises and customer expectations. A faster option isn't an option until it's *your* ZIP code.  \n\nGo to Amazon's Prime Air page and type your ZIP code—does it actually serve you? ✈️",
+    "carousel_slides": [
+      {
+        "hook": "The gap is vast. Reality check.",
+        "description": "Amazon claims 500 cities, but current coverage is a fraction. Grand promises vs. actual service create skepticism.",
+        "visual_hint": "Giant promise, tiny reality check",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "delivery drone sky"
+      },
+      {
+        "hook": "Only a handful of ZIP codes served.",
+        "description": "Drones currently reach only a fraction of the claimed cities. Most residents wait despite expansion announcements.",
+        "visual_hint": "Map with a few pins",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "map pins",
+        "image": "https://images.pexels.com/photos/5137965/pexels-photo-5137965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Regulations ground the fleet.",
+        "description": "Federal rules limit drone flight zones and times. This slows rollout, keeping the service out of reach for many.",
+        "visual_hint": "Drone blocked by barrier",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "regulatory documents",
+        "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed vs. safety: Who wins?",
+        "description": "Faster deliveries sound great, but safety concerns and airspace restrictions persist. These issues won't vanish overnight.",
+        "visual_hint": "Scale balancing speed and safety",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will drones serve YOUR address?",
+        "description": "Check your ZIP code on Amazon's site now. See if Prime Air actually delivers to your door today.",
+        "visual_hint": "ZIP code search box",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "zip code form",
+        "image": "https://images.pexels.com/photos/7821551/pexels-photo-7821551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/1334517/pexels-photo-1334517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-20T16:24:27.577Z",
+    "sourceId": "5f36318a499509f0d874dc36641acccb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "ai-data-centre-regulation-just-got-a-template-that",
     "prompt_version": "1.0.0",
     "status": "published",

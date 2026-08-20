@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "honeybook-bets-on-agentic-ai-to-streamline-small-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+  "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+  "pubDate": "Thu, 20 Aug 2026 07:35:07 +0000",
+  "slides": [
+    "Can one Claude connector truly run your small business?",
+    "HoneyBook's new integration automates client workflows end-to-end.",
+    "It even handles missed payments—without you lifting a finger.",
+    "Your daily operations shift from manual updates to AI oversight.",
+    "Test the connector this week on one repeated task."
+  ],
+  "thread_text": [
+    "1. One connector to rule them all?\n\nHoneyBook's new integration promises to automate client workflows from start to finish, but can a single Claude connector really replace your manual oversight?",
+    "2. Missed payments, handled.\n\nThe system even chases down late invoices without you lifting a finger. It's like having a relentless assistant who never sleeps.",
+    "3. From manual to AI oversight.\n\nYour daily operations shift from you updating spreadsheets to the AI watching everything. The question is: who watches the watcher?",
+    "4. The real cost of automation.\n\nSaving time on repetitive tasks sounds great, but what happens when the AI makes a mistake? You're still the one liable for the outcome.",
+    "5. Test it on one task this week.\n\nTake a repeated task, set up the connector, and see if it truly saves you time. Or better: ask yourself if you'd trust it with your hardest client."
+  ],
+  "video_script": [
+    "Can one connector run your business?",
+    "HoneyBook automates client workflows end-to-end.",
+    "It even handles missed payments automatically.",
+    "Your oversight shifts from manual to AI.",
+    "Test it on one task this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. One connector to rule them all?\n\nHoneyBook's new integration promises to automate client workflows from start to finish, but can a single Claude connector really replace your manual oversight?",
+        "2. Missed payments, handled.\n\nThe system even chases down late invoices without you lifting a finger. It's like having a relentless assistant who never sleeps.",
+        "3. From manual to AI oversight.\n\nYour daily operations shift from you updating spreadsheets to the AI watching everything. The question is: who watches the watcher?",
+        "4. The real cost of automation.\n\nSaving time on repetitive tasks sounds great, but what happens when the AI makes a mistake? You're still the one liable for the outcome.",
+        "5. Test it on one task this week.\n\nTake a repeated task, set up the connector, and see if it truly saves you time. Or better: ask yourself if you'd trust it with your hardest client."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can one connector run your business?",
+        "HoneyBook automates client workflows end-to-end.",
+        "It even handles missed payments automatically.",
+        "Your oversight shifts from manual to AI.",
+        "Test it on one task this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now automate client follow-ups and late payment chases straight from HoneyBook, thanks to a new Claude connector designed to run workflows end-to-end. No more manually pinging clients or tracking down overdue invoices yourself.\n\nThis is agentic AI baked into your existing small business tools. Instead of updating spreadsheets and sending reminders, you set it up once and let it oversee the repetitive parts of your day.\n\nFor you, the operator of a small business, this means your admin hours could shrink dramatically—but only if you trust the system to handle your actual clients.\n\nTry it this week on one repeated task. Would you let it chase down your most difficult client? 🤖💸📋"
+    }
+  },
+  "instagram_caption": "You can now automate client follow-ups and late payment chases straight from HoneyBook, thanks to a new Claude connector designed to run workflows end-to-end. No more manually pinging clients or tracking down overdue invoices yourself.\n\nThis is agentic AI baked into your existing small business tools. Instead of updating spreadsheets and sending reminders, you set it up once and let it oversee the repetitive parts of your day.\n\nFor you, the operator of a small business, this means your admin hours could shrink dramatically—but only if you trust the system to handle your actual clients.\n\nTry it this week on one repeated task. Would you let it chase down your most difficult client? 🤖💸📋",
+  "carousel_slides": [
+    {
+      "hook": "Who’s watching the AI?",
+      "description": "HoneyBook’s Claude connector automates client workflows, but a single mistake could leave you liable for the outcome.",
+      "visual_hint": "AI circuit eye",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence circuit"
+    },
+    {
+      "hook": "Bye-bye, manual follow-ups.",
+      "description": "The system chases late invoices automatically, saving hours—but what happens when an error reaches a paying client?",
+      "visual_hint": "Invoice with checkmark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "invoice document coffee",
+      "image": "https://images.pexels.com/photos/8872400/pexels-photo-8872400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "From spreadsheets to oversight.",
+      "description": "Daily operations shift from you updating data to AI monitoring everything—relief, until something slips through.",
+      "visual_hint": "Dashboard with graphs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data dashboard graphs",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Could you trust it with your hardest client?",
+      "description": "Automation saves time, but if the AI misfires, you’re still accountable. Consider the trade-off before diving in.",
+      "visual_hint": "Person with crossed arms",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business person thinking",
+      "image": "https://images.pexels.com/photos/6802047/pexels-photo-6802047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one task this week.",
+      "description": "Pick a repeated task, set up the connector, and see if it really saves you time. Then decide if it’s worth it.",
+      "visual_hint": "Arrow pointing to button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop with mouse",
+      "image": "https://images.pexels.com/photos/7240352/pexels-photo-7240352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7562088/pexels-photo-7562088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-20T16:24:42.150Z",
+  "sourceId": "04f620df792409216a63f6bce177e5ba"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "binance-now-lets-ai-agents-trade-but-keeping-them-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+  "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+  "pubDate": "Thu, 20 Aug 2026 09:30:00 +0000",
+  "slides": [
+    "Can AI agents be trusted with your crypto?",
+    "Binance now lets them trade autonomously.",
+    "But Binance says users must monitor everything.",
+    "You must set limits and watch every trade.",
+    "Test with tiny amounts before trusting AI."
+  ],
+  "thread_text": [
+    "1. Your crypto, their control?\n\nBinance now lets AI agents trade autonomously. But they're not accountable if it goes wrong.",
+    "2. The fine print\n\nBinance says users must monitor everything. No exceptions.",
+    "3. Set limits or lose\n\nYou must set strict limits on every trade. Without them, the AI has no guardrails.",
+    "4. Start small\n\nBefore trusting AI, test with tiny amounts. This is the only safe way to learn its behavior.",
+    "5. Are you ready?\n\nWill you hand over your wallet to an AI this week? If yes, start with $10 and watch closely."
+  ],
+  "video_script": [
+    "Can AI agents be trusted with your crypto?",
+    "Binance now lets them trade autonomously.",
+    "But users must monitor everything.",
+    "Set limits and watch every trade.",
+    "Test with tiny amounts first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your crypto, their control?\n\nBinance now lets AI agents trade autonomously. But they're not accountable if it goes wrong.",
+        "2. The fine print\n\nBinance says users must monitor everything. No exceptions.",
+        "3. Set limits or lose\n\nYou must set strict limits on every trade. Without them, the AI has no guardrails.",
+        "4. Start small\n\nBefore trusting AI, test with tiny amounts. This is the only safe way to learn its behavior.",
+        "5. Are you ready?\n\nWill you hand over your wallet to an AI this week? If yes, start with $10 and watch closely."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI agents be trusted with your crypto?",
+        "Binance now lets them trade autonomously.",
+        "But users must monitor everything.",
+        "Set limits and watch every trade.",
+        "Test with tiny amounts first."
+      ]
+    },
+    "instagram": {
+      "caption": "Your crypto can now be moved by an AI agent on Binance, no human click required. 🕹️\n\nThe exchange rolled out autonomous trading for AI agents, but the fine print is blunt: you’re the babysitter. Binance explicitly says users must monitor every single trade and set their own limits—if the bot goes rogue, that’s on you, not them.\n\nFor anyone running a trading bot or letting an agent manage a wallet, the workflow just changed: you now need hard caps on position size and a kill switch, or the AI has zero guardrails. 🚦\n\nBefore you trust one with real money, run it on $10 and watch every move for a week. Would you hand over your keys to a bot this Friday, or is that a hard no? 💸"
+    }
+  },
+  "instagram_caption": "Your crypto can now be moved by an AI agent on Binance, no human click required. 🕹️\n\nThe exchange rolled out autonomous trading for AI agents, but the fine print is blunt: you’re the babysitter. Binance explicitly says users must monitor every single trade and set their own limits—if the bot goes rogue, that’s on you, not them.\n\nFor anyone running a trading bot or letting an agent manage a wallet, the workflow just changed: you now need hard caps on position size and a kill switch, or the AI has zero guardrails. 🚦\n\nBefore you trust one with real money, run it on $10 and watch every move for a week. Would you hand over your keys to a bot this Friday, or is that a hard no? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Who's accountable when AI loses?",
+      "description": "Binance lets AI agents trade autonomously, but they aren't accountable if things go wrong. The risk sits entirely with you.",
+      "visual_hint": "Floating question mark over crypto chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crypto trading chart"
+    },
+    {
+      "hook": "Binance's fine print is clear.",
+      "description": "Users must monitor every AI trade, with no exceptions. The platform offers tools, not babysitting.",
+      "visual_hint": "Magnifying glass over terms",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal contract document",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No limits? No guardrails.",
+      "description": "Without strict limits on each trade, your AI has zero guardrails. Set them or risk losing funds.",
+      "visual_hint": "Red warning sign near graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market screen",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start with $10, not trust.",
+      "description": "Test AI with tiny amounts first. It's the only safe way to learn how it behaves before going bigger.",
+      "visual_hint": "Small coin next to robot hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand holding coin",
+      "image": "https://images.pexels.com/photos/5614110/pexels-photo-5614110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trade.",
+      "description": "If you're ready to try AI trading, start with $10 and watch closely. Check our bio for a safe-start guide.",
+      "visual_hint": "Save icon over wallet",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "digital wallet phone",
+      "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
+  "savedAt": "2026-08-20T16:25:07.007Z",
+  "sourceId": "ad5059a21e1bb200b1d533573d0ff4b0"
+}

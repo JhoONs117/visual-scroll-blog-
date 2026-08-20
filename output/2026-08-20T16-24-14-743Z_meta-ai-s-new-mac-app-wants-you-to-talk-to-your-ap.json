@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-ap",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta AI’s new Mac app wants you to talk to your apps",
+  "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+  "pubDate": "Thu, 20 Aug 2026 12:11:57 +0000",
+  "slides": [
+    "Can Meta AI finally make talking to apps useful?",
+    "Its new Mac app taps into your installed software.",
+    "It doesn't just open them—it reads their current state.",
+    "You can ask about files or actions without touching them.",
+    "Try it today; see if it breaks your workflow."
+  ],
+  "thread_text": [
+    "1. Your apps, now with eyes.\n\nMeta AI's new Mac app reads the current state of your installed software—no clicks needed.",
+    "2. Beyond just launching.\n\nIt doesn't merely open apps; it understands what's on your screen. Ask questions about files directly.",
+    "3. The hands-free shift.\n\nYou can query actions or content without touching a thing. This changes how you interact with your desktop.",
+    "4. Ready to disrupt?\n\nTest it on your daily workflow. See if it streamlines tasks or introduces new friction.",
+    "5. Try it now.\n\nDownload the beta today and run a routine operation. Will it save time or create more steps for you?"
+  ],
+  "video_script": [
+    "Meta AI can see your apps.",
+    "It reads what's open now.",
+    "Ask without touching anything.",
+    "Could this break your flow?",
+    "Try it today and test."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your apps, now with eyes.\n\nMeta AI's new Mac app reads the current state of your installed software—no clicks needed.",
+        "2. Beyond just launching.\n\nIt doesn't merely open apps; it understands what's on your screen. Ask questions about files directly.",
+        "3. The hands-free shift.\n\nYou can query actions or content without touching a thing. This changes how you interact with your desktop.",
+        "4. Ready to disrupt?\n\nTest it on your daily workflow. See if it streamlines tasks or introduces new friction.",
+        "5. Try it now.\n\nDownload the beta today and run a routine operation. Will it save time or create more steps for you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta AI can see your apps.",
+        "It reads what's open now.",
+        "Ask without touching anything.",
+        "Could this break your flow?",
+        "Try it today and test."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Mac apps just grew eyes. 🫣\n\nMeta’s new Mac app doesn't just open your software—it reads the current state of whatever is on your screen. You can ask questions about files or actions without touching a single button.\n\nThis means you could query a design file or a spreadsheet without opening it, or ask your email app what’s pending before you even click. For anyone building content, that’s a hands-free layer over your entire editing, drafting, or publishing stack. 📂\n\nWill it streamline your workflow, or just add another voice to your desktop? Download the beta and run one routine task through it today. 🔄"
+    }
+  },
+  "instagram_caption": "Your Mac apps just grew eyes. 🫣\n\nMeta’s new Mac app doesn't just open your software—it reads the current state of whatever is on your screen. You can ask questions about files or actions without touching a single button.\n\nThis means you could query a design file or a spreadsheet without opening it, or ask your email app what’s pending before you even click. For anyone building content, that’s a hands-free layer over your entire editing, drafting, or publishing stack. 📂\n\nWill it streamline your workflow, or just add another voice to your desktop? Download the beta and run one routine task through it today. 🔄",
+  "carousel_slides": [
+    {
+      "hook": "Can AI finally make apps useful?",
+      "description": "Meta AI's new Mac app reads the current state of your installed apps. It doesn't just open them; it understands what's on your screen, enabling hands-free queries.",
+      "visual_hint": "MacBook with floating AI interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "MacBook screen with AI"
+    },
+    {
+      "hook": "Beyond just opening apps.",
+      "description": "It taps into your installed software, reading files and actions. Ask about anything on screen without touching a thing, streamlining desktop interaction.",
+      "visual_hint": "Hand pointing at screen, apps visible",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Hand touching computer screen",
+      "image": "https://images.pexels.com/photos/8472491/pexels-photo-8472491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hands-free shift begins.",
+      "description": "No clicks needed—ask questions about files directly. Meta AI understands the current state, potentially changing how you work with your desktop.",
+      "visual_hint": "Zoomed view of AI sensing app state",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "Close-up of computer code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to disrupt your workflow?",
+      "description": "Test it on daily tasks. It might streamline operations or introduce friction. The beta invites you to run a routine operation and see.",
+      "visual_hint": "Human hand holding mouse, workflow on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Office desk with computer",
+      "image": "https://images.pexels.com/photos/22711217/pexels-photo-22711217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it today, see the impact.",
+      "description": "Download the beta now and run a routine operation. Will it save time or create more steps? Test it and decide.",
+      "visual_hint": "Download button on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "App download icon",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+  "savedAt": "2026-08-20T16:24:54.637Z",
+  "sourceId": "aca5b20236936ca4a8dd4bc368501708"
+}
