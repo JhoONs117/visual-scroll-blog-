@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "welcome-to-the-ai-crisis-in-math",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Welcome to the AI crisis in math",
+  "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+  "pubDate": "2026-08-20T14:00:00.000Z",
+  "slides": [
+    "Why is math suddenly the AI breaking point?",
+    "Models ace exams yet fail basic word problems.",
+    "The flaw: pattern matching, not true reasoning.",
+    "Your math curriculum may already be outdated.",
+    "Test your own AI with one simple question."
+  ],
+  "thread_text": [
+    "1. The Real AI Ceiling\n\nEven top models fail simple arithmetic like 27×43. It's a pattern problem, not a logic one.",
+    "2. Exams Lie to You\n\nAI scores 90% on standardized tests but trips on basic word problems. The gap reveals a core weakness.",
+    "3. Pattern vs. Reasoning\n\nModels mimic training data, not actual deduction. They learn shortcuts, not rules.",
+    "4. Your Math Class Is Obsolete\n\nSchools still teach computation, but AI does that. The new skill is spotting when AI's answer is nonsense.",
+    "5. Test Your Own AI\n\nAsk your chatbot: \"What's 17×4?\" Then check if it can explain why. If it fails, you've found the limit."
+  ],
+  "video_script": [
+    "Why do AI models fail simple math?",
+    "They ace exams but stumble on word problems.",
+    "That's because they mimic patterns, not reason.",
+    "So the way we teach math must change.",
+    "Try asking your AI a basic question now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Real AI Ceiling\n\nEven top models fail simple arithmetic like 27×43. It's a pattern problem, not a logic one.",
+        "2. Exams Lie to You\n\nAI scores 90% on standardized tests but trips on basic word problems. The gap reveals a core weakness.",
+        "3. Pattern vs. Reasoning\n\nModels mimic training data, not actual deduction. They learn shortcuts, not rules.",
+        "4. Your Math Class Is Obsolete\n\nSchools still teach computation, but AI does that. The new skill is spotting when AI's answer is nonsense.",
+        "5. Test Your Own AI\n\nAsk your chatbot: \"What's 17×4?\" Then check if it can explain why. If it fails, you've found the limit."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Why do AI models fail simple math?",
+        "They ace exams but stumble on word problems.",
+        "That's because they mimic patterns, not reason.",
+        "So the way we teach math must change.",
+        "Try asking your AI a basic question now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your chatbot might nail a calculus exam but choke on \"27×43.\" Benchmarks are inflated because models memorize patterns, not actual rules. Standardized tests show 90% accuracy, then basic word problems expose the gap. For anyone creating content, this means AI output needs fact-checking—especially numbers and logic, not just spelling. If you ask your chatbot \"17×4\" and it can’t explain the steps, you’ve found its wall. Ever tested yours on something this simple? 🧮 🤖 ⚠️"
+    }
+  },
+  "instagram_caption": "Your chatbot might nail a calculus exam but choke on \"27×43.\" Benchmarks are inflated because models memorize patterns, not actual rules. Standardized tests show 90% accuracy, then basic word problems expose the gap. For anyone creating content, this means AI output needs fact-checking—especially numbers and logic, not just spelling. If you ask your chatbot \"17×4\" and it can’t explain the steps, you’ve found its wall. Ever tested yours on something this simple? 🧮 🤖 ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "AI mimics, it doesn't reason.",
+      "description": "Models ace exams yet fail 27×43. Pattern matching hides the gap, not true logic.",
+      "visual_hint": "Brain vs. circuit board",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board network"
+    },
+    {
+      "hook": "Exams are lying to you.",
+      "description": "AI scores 90% on tests but stumbles on basic word problems—the gap reveals a fragile core.",
+      "visual_hint": "Failing pencil on test",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pencil math test",
+      "image": "https://images.pexels.com/photos/7092596/pexels-photo-7092596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Shortcuts, not rules.",
+      "description": "AI mimics training data, not deduction. What looks like reasoning is just sophisticated copying.",
+      "visual_hint": "Fake vs. real reasoning path",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "maze path arrows",
+      "image": "https://images.pexels.com/photos/833317/pexels-photo-833317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your math class is obsolete.",
+      "description": "Schools still teach computation—AI does that. The real skill: sniffing out AI nonsense answers.",
+      "visual_hint": "Old textbook vs. AI screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "math textbook phone",
+      "image": "https://images.pexels.com/photos/4778670/pexels-photo-4778670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your AI.",
+      "description": "Ask your chatbot: \"What's 17×4?\" If it can't explain why, you've found the limit.",
+      "visual_hint": "Question mark over chat bubble",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chat bubble question",
+      "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-20T22:18:08.320Z",
+  "sourceId": "63a1c4c6a261a00fc15fe94ad80adf31"
+}

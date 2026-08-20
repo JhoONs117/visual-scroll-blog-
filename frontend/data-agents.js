@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "welcome-to-the-ai-crisis-in-math",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "pubDate": "2026-08-20T14:00:00.000Z",
+      "slides": [
+        "Why is math suddenly the AI breaking point?",
+        "Models ace exams yet fail basic word problems.",
+        "The flaw: pattern matching, not true reasoning.",
+        "Your math curriculum may already be outdated.",
+        "Test your own AI with one simple question."
+      ],
+      "thread_text": [
+        "1. The Real AI Ceiling\n\nEven top models fail simple arithmetic like 27×43. It's a pattern problem, not a logic one.",
+        "2. Exams Lie to You\n\nAI scores 90% on standardized tests but trips on basic word problems. The gap reveals a core weakness.",
+        "3. Pattern vs. Reasoning\n\nModels mimic training data, not actual deduction. They learn shortcuts, not rules.",
+        "4. Your Math Class Is Obsolete\n\nSchools still teach computation, but AI does that. The new skill is spotting when AI's answer is nonsense.",
+        "5. Test Your Own AI\n\nAsk your chatbot: \"What's 17×4?\" Then check if it can explain why. If it fails, you've found the limit."
+      ],
+      "video_script": [
+        "Why do AI models fail simple math?",
+        "They ace exams but stumble on word problems.",
+        "That's because they mimic patterns, not reason.",
+        "So the way we teach math must change.",
+        "Try asking your AI a basic question now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Real AI Ceiling\n\nEven top models fail simple arithmetic like 27×43. It's a pattern problem, not a logic one.",
+            "2. Exams Lie to You\n\nAI scores 90% on standardized tests but trips on basic word problems. The gap reveals a core weakness.",
+            "3. Pattern vs. Reasoning\n\nModels mimic training data, not actual deduction. They learn shortcuts, not rules.",
+            "4. Your Math Class Is Obsolete\n\nSchools still teach computation, but AI does that. The new skill is spotting when AI's answer is nonsense.",
+            "5. Test Your Own AI\n\nAsk your chatbot: \"What's 17×4?\" Then check if it can explain why. If it fails, you've found the limit."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Why do AI models fail simple math?",
+            "They ace exams but stumble on word problems.",
+            "That's because they mimic patterns, not reason.",
+            "So the way we teach math must change.",
+            "Try asking your AI a basic question now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your chatbot might nail a calculus exam but choke on \"27×43.\" Benchmarks are inflated because models memorize patterns, not actual rules. Standardized tests show 90% accuracy, then basic word problems expose the gap. For anyone creating content, this means AI output needs fact-checking—especially numbers and logic, not just spelling. If you ask your chatbot \"17×4\" and it can’t explain the steps, you’ve found its wall. Ever tested yours on something this simple? 🧮 🤖 ⚠️"
+        }
+      },
+      "instagram_caption": "Your chatbot might nail a calculus exam but choke on \"27×43.\" Benchmarks are inflated because models memorize patterns, not actual rules. Standardized tests show 90% accuracy, then basic word problems expose the gap. For anyone creating content, this means AI output needs fact-checking—especially numbers and logic, not just spelling. If you ask your chatbot \"17×4\" and it can’t explain the steps, you’ve found its wall. Ever tested yours on something this simple? 🧮 🤖 ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "AI mimics, it doesn't reason.",
+          "description": "Models ace exams yet fail 27×43. Pattern matching hides the gap, not true logic.",
+          "visual_hint": "Brain vs. circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board network"
+        },
+        {
+          "hook": "Exams are lying to you.",
+          "description": "AI scores 90% on tests but stumbles on basic word problems—the gap reveals a fragile core.",
+          "visual_hint": "Failing pencil on test",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "pencil math test",
+          "image": "https://images.pexels.com/photos/7092596/pexels-photo-7092596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Shortcuts, not rules.",
+          "description": "AI mimics training data, not deduction. What looks like reasoning is just sophisticated copying.",
+          "visual_hint": "Fake vs. real reasoning path",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "maze path arrows",
+          "image": "https://images.pexels.com/photos/833317/pexels-photo-833317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your math class is obsolete.",
+          "description": "Schools still teach computation—AI does that. The real skill: sniffing out AI nonsense answers.",
+          "visual_hint": "Old textbook vs. AI screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "math textbook phone",
+          "image": "https://images.pexels.com/photos/4778670/pexels-photo-4778670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your AI.",
+          "description": "Ask your chatbot: \"What's 17×4?\" If it can't explain why, you've found the limit.",
+          "visual_hint": "Question mark over chat bubble",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chat bubble question",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-20T22:18:08.320Z",
+      "sourceId": "63a1c4c6a261a00fc15fe94ad80adf31"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-discover-is-getting-an-ai-chatbot-tuned-fee",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "pubDate": "2026-08-20T21:50:22.000Z",
+      "slides": [
+        "Google Discover is changing — but who will it actually serve?",
+        "The feed now adapts by analyzing your conversations, not clicks.",
+        "Your old search history matters less than your chatbot queries.",
+        "Articles, videos, and Shorts will all be re-ranked automatically.",
+        "Open Discover today and test: voice two hobbies, then scroll."
+      ],
+      "thread_text": [
+        "1. Your chats now run your feed\n\nGoogle Discover studies your chatbot conversations, not just your clicks, to reshape what shows up next.",
+        "2. Old search history fades\n\nYour past searches matter less than your latest chat queries, shifting the algorithm's focus to what you ask aloud.",
+        "3. Videos, Shorts, all re-ranked\n\nArticles, videos, and Shorts get reordered automatically based on those conversational signals, so every scroll is tailored.",
+        "4. The conversation is the new click\n\nYour spoken words, not your taps, are becoming the primary signal—turning browsing into a dialogue instead of a monologue.",
+        "5. Try this today\n\nOpen Google Discover and voice two hobbies, then scroll. Does it show you topics you didn't expect? Test it now."
+      ],
+      "video_script": [
+        "Your chats now control your feed.",
+        "Watch what you say to your phone.",
+        "Old searches don't matter anymore.",
+        "Videos and posts change instantly.",
+        "Try it now: speak two hobbies."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your chats now run your feed\n\nGoogle Discover studies your chatbot conversations, not just your clicks, to reshape what shows up next.",
+            "2. Old search history fades\n\nYour past searches matter less than your latest chat queries, shifting the algorithm's focus to what you ask aloud.",
+            "3. Videos, Shorts, all re-ranked\n\nArticles, videos, and Shorts get reordered automatically based on those conversational signals, so every scroll is tailored.",
+            "4. The conversation is the new click\n\nYour spoken words, not your taps, are becoming the primary signal—turning browsing into a dialogue instead of a monologue.",
+            "5. Try this today\n\nOpen Google Discover and voice two hobbies, then scroll. Does it show you topics you didn't expect? Test it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your chats now control your feed.",
+            "Watch what you say to your phone.",
+            "Old searches don't matter anymore.",
+            "Videos and posts change instantly.",
+            "Try it now: speak two hobbies."
+          ]
+        },
+        "instagram": {
+          "caption": "Your Google Discover feed now listens to what you *say* to a chatbot, not just what you click. 🗣️\n\nConversations with AI are being analyzed to re-rank articles, videos, and Shorts in your feed. Your older search history is fading as the primary signal, replaced by your latest spoken queries. 💬\n\nIf you publish content, this means the algorithm now weighs \"what people ask aloud\" over \"what they tap.\" Your titles and topics need to match conversational language, not keyword-based searches.\n\nOpen Google Discover, voice two random hobbies, then scroll. Does your feed shift instantly? Tell me what you see. 👀"
+        }
+      },
+      "instagram_caption": "Your Google Discover feed now listens to what you *say* to a chatbot, not just what you click. 🗣️\n\nConversations with AI are being analyzed to re-rank articles, videos, and Shorts in your feed. Your older search history is fading as the primary signal, replaced by your latest spoken queries. 💬\n\nIf you publish content, this means the algorithm now weighs \"what people ask aloud\" over \"what they tap.\" Your titles and topics need to match conversational language, not keyword-based searches.\n\nOpen Google Discover, voice two random hobbies, then scroll. Does your feed shift instantly? Tell me what you see. 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who is your feed really for?",
+          "description": "Google Discover now analyzes your chatbot conversations, not just clicks. Your past searches matter less than your latest chat queries, shifting the algorithm's focus.",
+          "visual_hint": "AI chatbot merging with feed",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "artificial intelligence interface"
+        },
+        {
+          "hook": "Old searches are fading fast.",
+          "description": "Your browsing history takes a backseat. Chat queries lead the way, reshaping what appears next. The conversation is becoming the new click.",
+          "visual_hint": "Old search history fading",
+          "layout_type": "right-focus",
+          "icon": "vibration",
+          "image_query": "search history magnifying glass",
+          "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Videos and Shorts, re-ranked.",
+          "description": "Articles, videos, and Shorts get reordered automatically based on conversational signals. Every scroll is tailored to your latest chat interests.",
+          "visual_hint": "Video thumbnails reordering dynamically",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "video streaming interface",
+          "image": "https://images.pexels.com/photos/24206770/pexels-photo-24206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your words beat your taps.",
+          "description": "Spoken queries now trump typed clicks. Your feed becomes a dialogue, not a monologue. Discover listens and adapts in real time.",
+          "visual_hint": "Voice waves over hand tap",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "voice waveform smartphone",
+          "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try this and test your feed.",
+          "description": "Open Google Discover, voice two hobbies, then scroll. See if it shows unexpected topics. Comment what you find.",
+          "visual_hint": "Phone with voice input prompt",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone voice input",
+          "image": "https://images.pexels.com/photos/7188823/pexels-photo-7188823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.2683225395565%2C100%2C93.463354920887&amp;w=1200",
+      "savedAt": "2026-08-20T22:17:55.052Z",
+      "sourceId": "60d44502cd811ab04b2b916894a9c8b9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "chatgpt-can-now-send-texts-for-you-with-new-apple-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "slides": [
+        "ChatGPT texts for you, but who controls the conversation?",
+        "New Apple Messages plugin automates sending replies",
+        "It drafts, then sends—without asking for confirmation",
+        "Your tone and context might be misread instantly",
+        "Audit plugin permissions before letting AI speak for you"
+      ],
+      "thread_text": [
+        "1. Who really speaks for you?\n\nApple's new Messages plugin doesn't just draft—it hits send on its own. Your voice is now on autopilot.",
+        "2. No confirmation, no pause\n\nThe AI writes and sends before you can blink. Misread a nuance? It's already gone to the wrong person.",
+        "3. Context is a blind spot\n\nThe plugin scans your chat history, but tone slips through. Sarcasm becomes a blunt insult without a second chance.",
+        "4. The permission trap\n\nOne click grants the plugin full access to your texts. It learns your style, then acts without checking back.",
+        "5. Audit before you trust\n\nTake a real conversation and see what it would send. If you'd say it differently, revoke access today."
+      ],
+      "video_script": [
+        "AI sends your texts now, no approval.",
+        "Misread tone becomes instant regret.",
+        "It mimics you, but misses meaning.",
+        "One permission opens your whole inbox.",
+        "Check plugin settings before it speaks."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who really speaks for you?\n\nApple's new Messages plugin doesn't just draft—it hits send on its own. Your voice is now on autopilot.",
+            "2. No confirmation, no pause\n\nThe AI writes and sends before you can blink. Misread a nuance? It's already gone to the wrong person.",
+            "3. Context is a blind spot\n\nThe plugin scans your chat history, but tone slips through. Sarcasm becomes a blunt insult without a second chance.",
+            "4. The permission trap\n\nOne click grants the plugin full access to your texts. It learns your style, then acts without checking back.",
+            "5. Audit before you trust\n\nTake a real conversation and see what it would send. If you'd say it differently, revoke access today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI sends your texts now, no approval.",
+            "Misread tone becomes instant regret.",
+            "It mimics you, but misses meaning.",
+            "One permission opens your whole inbox.",
+            "Check plugin settings before it speaks."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next message might be sent without you ever pressing send.  \n\nApple’s new Messages plugin drafts replies and fires them off automatically—no confirmation step. It scans your chat history to mimic your style, but tone is where it fails. Sarcasm or a dry joke can land as a blunt insult, and it’s already gone.  \n\nOne click grants it full access to your texts. It learns how you talk, then acts on its own. For anyone writing on the clock, this means a misread nuance could burn a client or a contact before you catch it.  \n\nOpen a real conversation you care about. Ask: would I send this exact line myself? If not, revoke the plugin’s permissions today.  \n\nWho’s accountable when the autopilot misfires—you or the plugin? 🤖💬⚠️"
+        }
+      },
+      "instagram_caption": "Your next message might be sent without you ever pressing send.  \n\nApple’s new Messages plugin drafts replies and fires them off automatically—no confirmation step. It scans your chat history to mimic your style, but tone is where it fails. Sarcasm or a dry joke can land as a blunt insult, and it’s already gone.  \n\nOne click grants it full access to your texts. It learns how you talk, then acts on its own. For anyone writing on the clock, this means a misread nuance could burn a client or a contact before you catch it.  \n\nOpen a real conversation you care about. Ask: would I send this exact line myself? If not, revoke the plugin’s permissions today.  \n\nWho’s accountable when the autopilot misfires—you or the plugin? 🤖💬⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Who really speaks for you?",
+          "description": "Apple's new Messages plugin doesn't just draft—it hits send on its own, instantly. Your voice is on autopilot, with no confirmation pause.",
+          "visual_hint": "Phone sending message automatically",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone text message"
+        },
+        {
+          "hook": "No pause, no second chance",
+          "description": "The AI writes and sends before you blink. Misread a nuance? It's already gone to the wrong person, irreversibly.",
+          "visual_hint": "Message sent instantly, no edit",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "phone notification alert",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Context? A blind spot.",
+          "description": "The plugin scans history but misses tone. Sarcasm becomes blunt insult—sent without a second thought.",
+          "visual_hint": "Magnifying glass on chat bubble",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chat conversation screen",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One click gives full access",
+          "description": "Granting permission lets it read all texts, learn your style, and act alone. No check-back, no oversight.",
+          "visual_hint": "Hand granting permission tap",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching smartphone",
+          "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before AI speaks for you",
+          "description": "Audit the plugin: test with a real conversation, see what it sends. If you'd say it differently, revoke access now.",
+          "visual_hint": "Shield with lock icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "padlock security shield",
+          "image": "https://images.pexels.com/photos/15049668/pexels-photo-15049668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+      "savedAt": "2026-08-20T22:17:42.371Z",
+      "sourceId": "fc53f9f20e6ec49bdd7f4a7a90f09960"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ramp-launches-its-own-ai-model-router-called-route",
       "prompt_version": "1.0.0",
       "status": "published",

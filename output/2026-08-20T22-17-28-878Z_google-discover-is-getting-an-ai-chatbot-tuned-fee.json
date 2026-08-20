@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-discover-is-getting-an-ai-chatbot-tuned-fee",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google Discover is getting an AI chatbot-tuned feed",
+  "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+  "pubDate": "2026-08-20T21:50:22.000Z",
+  "slides": [
+    "Google Discover is changing — but who will it actually serve?",
+    "The feed now adapts by analyzing your conversations, not clicks.",
+    "Your old search history matters less than your chatbot queries.",
+    "Articles, videos, and Shorts will all be re-ranked automatically.",
+    "Open Discover today and test: voice two hobbies, then scroll."
+  ],
+  "thread_text": [
+    "1. Your chats now run your feed\n\nGoogle Discover studies your chatbot conversations, not just your clicks, to reshape what shows up next.",
+    "2. Old search history fades\n\nYour past searches matter less than your latest chat queries, shifting the algorithm's focus to what you ask aloud.",
+    "3. Videos, Shorts, all re-ranked\n\nArticles, videos, and Shorts get reordered automatically based on those conversational signals, so every scroll is tailored.",
+    "4. The conversation is the new click\n\nYour spoken words, not your taps, are becoming the primary signal—turning browsing into a dialogue instead of a monologue.",
+    "5. Try this today\n\nOpen Google Discover and voice two hobbies, then scroll. Does it show you topics you didn't expect? Test it now."
+  ],
+  "video_script": [
+    "Your chats now control your feed.",
+    "Watch what you say to your phone.",
+    "Old searches don't matter anymore.",
+    "Videos and posts change instantly.",
+    "Try it now: speak two hobbies."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your chats now run your feed\n\nGoogle Discover studies your chatbot conversations, not just your clicks, to reshape what shows up next.",
+        "2. Old search history fades\n\nYour past searches matter less than your latest chat queries, shifting the algorithm's focus to what you ask aloud.",
+        "3. Videos, Shorts, all re-ranked\n\nArticles, videos, and Shorts get reordered automatically based on those conversational signals, so every scroll is tailored.",
+        "4. The conversation is the new click\n\nYour spoken words, not your taps, are becoming the primary signal—turning browsing into a dialogue instead of a monologue.",
+        "5. Try this today\n\nOpen Google Discover and voice two hobbies, then scroll. Does it show you topics you didn't expect? Test it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your chats now control your feed.",
+        "Watch what you say to your phone.",
+        "Old searches don't matter anymore.",
+        "Videos and posts change instantly.",
+        "Try it now: speak two hobbies."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Google Discover feed now listens to what you *say* to a chatbot, not just what you click. 🗣️\n\nConversations with AI are being analyzed to re-rank articles, videos, and Shorts in your feed. Your older search history is fading as the primary signal, replaced by your latest spoken queries. 💬\n\nIf you publish content, this means the algorithm now weighs \"what people ask aloud\" over \"what they tap.\" Your titles and topics need to match conversational language, not keyword-based searches.\n\nOpen Google Discover, voice two random hobbies, then scroll. Does your feed shift instantly? Tell me what you see. 👀"
+    }
+  },
+  "instagram_caption": "Your Google Discover feed now listens to what you *say* to a chatbot, not just what you click. 🗣️\n\nConversations with AI are being analyzed to re-rank articles, videos, and Shorts in your feed. Your older search history is fading as the primary signal, replaced by your latest spoken queries. 💬\n\nIf you publish content, this means the algorithm now weighs \"what people ask aloud\" over \"what they tap.\" Your titles and topics need to match conversational language, not keyword-based searches.\n\nOpen Google Discover, voice two random hobbies, then scroll. Does your feed shift instantly? Tell me what you see. 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who is your feed really for?",
+      "description": "Google Discover now analyzes your chatbot conversations, not just clicks. Your past searches matter less than your latest chat queries, shifting the algorithm's focus.",
+      "visual_hint": "AI chatbot merging with feed",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "artificial intelligence interface"
+    },
+    {
+      "hook": "Old searches are fading fast.",
+      "description": "Your browsing history takes a backseat. Chat queries lead the way, reshaping what appears next. The conversation is becoming the new click.",
+      "visual_hint": "Old search history fading",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "search history magnifying glass",
+      "image": "https://images.pexels.com/photos/17543457/pexels-photo-17543457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Videos and Shorts, re-ranked.",
+      "description": "Articles, videos, and Shorts get reordered automatically based on conversational signals. Every scroll is tailored to your latest chat interests.",
+      "visual_hint": "Video thumbnails reordering dynamically",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "video streaming interface",
+      "image": "https://images.pexels.com/photos/24206770/pexels-photo-24206770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your words beat your taps.",
+      "description": "Spoken queries now trump typed clicks. Your feed becomes a dialogue, not a monologue. Discover listens and adapts in real time.",
+      "visual_hint": "Voice waves over hand tap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "voice waveform smartphone",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try this and test your feed.",
+      "description": "Open Google Discover, voice two hobbies, then scroll. See if it shows unexpected topics. Comment what you find.",
+      "visual_hint": "Phone with voice input prompt",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone voice input",
+      "image": "https://images.pexels.com/photos/7188823/pexels-photo-7188823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.2683225395565%2C100%2C93.463354920887&amp;w=1200",
+  "savedAt": "2026-08-20T22:17:55.052Z",
+  "sourceId": "60d44502cd811ab04b2b916894a9c8b9"
+}

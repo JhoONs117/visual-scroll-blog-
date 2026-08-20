@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-can-now-send-texts-for-you-with-new-apple-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+  "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+  "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+  "slides": [
+    "ChatGPT texts for you, but who controls the conversation?",
+    "New Apple Messages plugin automates sending replies",
+    "It drafts, then sends—without asking for confirmation",
+    "Your tone and context might be misread instantly",
+    "Audit plugin permissions before letting AI speak for you"
+  ],
+  "thread_text": [
+    "1. Who really speaks for you?\n\nApple's new Messages plugin doesn't just draft—it hits send on its own. Your voice is now on autopilot.",
+    "2. No confirmation, no pause\n\nThe AI writes and sends before you can blink. Misread a nuance? It's already gone to the wrong person.",
+    "3. Context is a blind spot\n\nThe plugin scans your chat history, but tone slips through. Sarcasm becomes a blunt insult without a second chance.",
+    "4. The permission trap\n\nOne click grants the plugin full access to your texts. It learns your style, then acts without checking back.",
+    "5. Audit before you trust\n\nTake a real conversation and see what it would send. If you'd say it differently, revoke access today."
+  ],
+  "video_script": [
+    "AI sends your texts now, no approval.",
+    "Misread tone becomes instant regret.",
+    "It mimics you, but misses meaning.",
+    "One permission opens your whole inbox.",
+    "Check plugin settings before it speaks."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really speaks for you?\n\nApple's new Messages plugin doesn't just draft—it hits send on its own. Your voice is now on autopilot.",
+        "2. No confirmation, no pause\n\nThe AI writes and sends before you can blink. Misread a nuance? It's already gone to the wrong person.",
+        "3. Context is a blind spot\n\nThe plugin scans your chat history, but tone slips through. Sarcasm becomes a blunt insult without a second chance.",
+        "4. The permission trap\n\nOne click grants the plugin full access to your texts. It learns your style, then acts without checking back.",
+        "5. Audit before you trust\n\nTake a real conversation and see what it would send. If you'd say it differently, revoke access today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI sends your texts now, no approval.",
+        "Misread tone becomes instant regret.",
+        "It mimics you, but misses meaning.",
+        "One permission opens your whole inbox.",
+        "Check plugin settings before it speaks."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next message might be sent without you ever pressing send.  \n\nApple’s new Messages plugin drafts replies and fires them off automatically—no confirmation step. It scans your chat history to mimic your style, but tone is where it fails. Sarcasm or a dry joke can land as a blunt insult, and it’s already gone.  \n\nOne click grants it full access to your texts. It learns how you talk, then acts on its own. For anyone writing on the clock, this means a misread nuance could burn a client or a contact before you catch it.  \n\nOpen a real conversation you care about. Ask: would I send this exact line myself? If not, revoke the plugin’s permissions today.  \n\nWho’s accountable when the autopilot misfires—you or the plugin? 🤖💬⚠️"
+    }
+  },
+  "instagram_caption": "Your next message might be sent without you ever pressing send.  \n\nApple’s new Messages plugin drafts replies and fires them off automatically—no confirmation step. It scans your chat history to mimic your style, but tone is where it fails. Sarcasm or a dry joke can land as a blunt insult, and it’s already gone.  \n\nOne click grants it full access to your texts. It learns how you talk, then acts on its own. For anyone writing on the clock, this means a misread nuance could burn a client or a contact before you catch it.  \n\nOpen a real conversation you care about. Ask: would I send this exact line myself? If not, revoke the plugin’s permissions today.  \n\nWho’s accountable when the autopilot misfires—you or the plugin? 🤖💬⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Who really speaks for you?",
+      "description": "Apple's new Messages plugin doesn't just draft—it hits send on its own, instantly. Your voice is on autopilot, with no confirmation pause.",
+      "visual_hint": "Phone sending message automatically",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone text message"
+    },
+    {
+      "hook": "No pause, no second chance",
+      "description": "The AI writes and sends before you blink. Misread a nuance? It's already gone to the wrong person, irreversibly.",
+      "visual_hint": "Message sent instantly, no edit",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "phone notification alert",
+      "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context? A blind spot.",
+      "description": "The plugin scans history but misses tone. Sarcasm becomes blunt insult—sent without a second thought.",
+      "visual_hint": "Magnifying glass on chat bubble",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat conversation screen",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One click gives full access",
+      "description": "Granting permission lets it read all texts, learn your style, and act alone. No check-back, no oversight.",
+      "visual_hint": "Hand granting permission tap",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone",
+      "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before AI speaks for you",
+      "description": "Audit the plugin: test with a real conversation, see what it sends. If you'd say it differently, revoke access now.",
+      "visual_hint": "Shield with lock icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "padlock security shield",
+      "image": "https://images.pexels.com/photos/15049668/pexels-photo-15049668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+  "savedAt": "2026-08-20T22:17:42.371Z",
+  "sourceId": "fc53f9f20e6ec49bdd7f4a7a90f09960"
+}
