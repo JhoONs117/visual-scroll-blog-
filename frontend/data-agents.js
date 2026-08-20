@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "venturebeat-names-rob-strechay-as-its-first-lead-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "pubDate": "Wed, 19 Aug 2026 14:18:12 GMT",
+      "slides": [
+        "Who will define enterprise AI credibility now?",
+        "VentureBeat's first Lead Analyst is Rob Strechay.",
+        "He joins from SUSE, not a traditional analyst firm.",
+        "His focus shifts from news to actionable AI research.",
+        "Readers now get direct guidance on enterprise AI decisions."
+      ],
+      "thread_text": [
+        "1. Who sets AI standards now?\n\nRob Strechay leaves SUSE to become VentureBeat's first Lead Analyst, shifting from vendor-side strategy to independent scrutiny.",
+        "2. Not a traditional analyst\n\nHe won't follow Gartner's playbook—his background is hands-on tech leadership, not legacy research frameworks.",
+        "3. News becomes actionable\n\nInstead of just reporting AI developments, Strechay's team will produce research you can apply to enterprise decisions immediately.",
+        "4. Direct guidance arrives\n\nReaders can now get specific recommendations on AI choices, replacing generic coverage with targeted advice.",
+        "5. Test your own AI choices\n\nCompare Strechay's analysis with your vendor's claims on a current project. Which one aligns with reality?"
+      ],
+      "video_script": [
+        "Rob Strechay becomes VentureBeat's first lead analyst.",
+        "He came from SUSE, not typical analyst firms.",
+        "His focus moves from news to actionable research.",
+        "Readers get direct guidance for enterprise AI decisions.",
+        "Will you trust his analysis over vendor spin?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who sets AI standards now?\n\nRob Strechay leaves SUSE to become VentureBeat's first Lead Analyst, shifting from vendor-side strategy to independent scrutiny.",
+            "2. Not a traditional analyst\n\nHe won't follow Gartner's playbook—his background is hands-on tech leadership, not legacy research frameworks.",
+            "3. News becomes actionable\n\nInstead of just reporting AI developments, Strechay's team will produce research you can apply to enterprise decisions immediately.",
+            "4. Direct guidance arrives\n\nReaders can now get specific recommendations on AI choices, replacing generic coverage with targeted advice.",
+            "5. Test your own AI choices\n\nCompare Strechay's analysis with your vendor's claims on a current project. Which one aligns with reality?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rob Strechay becomes VentureBeat's first lead analyst.",
+            "He came from SUSE, not typical analyst firms.",
+            "His focus moves from news to actionable research.",
+            "Readers get direct guidance for enterprise AI decisions.",
+            "Will you trust his analysis over vendor spin?"
+          ]
+        },
+        "instagram": {
+          "caption": "A big tech news outlet just hired someone to tell enterprise buyers which AI tools are actually worth it—not from a vendor's payroll.  \n\nRob Strechay left Linux company SUSE to become VentureBeat's first Lead Analyst. His job: turn AI news into practical buying advice, straight from hands-on tech leadership experience.  \n\nThis shifts coverage from \"what happened\" to \"what should you do.\" For anyone publishing or building with AI, you now get a source that tests claims against real-world deployments.  \n\nBefore your next AI vendor renewal, check if Strechay's analysis matches what they promised you. Whose story holds up? 🧐📊"
+        }
+      },
+      "instagram_caption": "A big tech news outlet just hired someone to tell enterprise buyers which AI tools are actually worth it—not from a vendor's payroll.  \n\nRob Strechay left Linux company SUSE to become VentureBeat's first Lead Analyst. His job: turn AI news into practical buying advice, straight from hands-on tech leadership experience.  \n\nThis shifts coverage from \"what happened\" to \"what should you do.\" For anyone publishing or building with AI, you now get a source that tests claims against real-world deployments.  \n\nBefore your next AI vendor renewal, check if Strechay's analysis matches what they promised you. Whose story holds up? 🧐📊",
+      "carousel_slides": [
+        {
+          "hook": "Who will define AI credibility?",
+          "description": "Rob Strechay leaves SUSE to become VentureBeat's first Lead Analyst, shifting from vendor-side strategy to independent scrutiny, reshaping enterprise AI research.",
+          "visual_hint": "Silhouette of a person at a crossroads with AI symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crossroads technology abstract"
+        },
+        {
+          "hook": "Not your typical analyst",
+          "description": "Strechay brings hands-on tech leadership from SUSE, not legacy research frameworks, breaking the Gartner playbook to offer fresh insight.",
+          "visual_hint": "Vintage analyst report torn in half",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "torn paper documents",
+          "image": "https://images.pexels.com/photos/16673054/pexels-photo-16673054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From news to actionable research",
+          "description": "VentureBeat shifts from reporting AI trends to producing research you can apply immediately to enterprise decisions, moving beyond generic coverage.",
+          "visual_hint": "Laptop with charts and checkmarks overlaying news",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop with charts",
+          "image": "https://images.pexels.com/photos/5717766/pexels-photo-5717766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Direct guidance for AI choices",
+          "description": "Readers now get specific recommendations on AI selections, replacing broad articles with targeted advice from Strechay's team, simplifying decision-making.",
+          "visual_hint": "Hand pointing to a highlighted option on a digital list",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ready to test your AI choices?",
+          "description": "Compare Strechay's analysis with your vendor's claims on a current project. Which one aligns with reality? Save this to guide your next decision.",
+          "visual_hint": "Balance scale with checkmark and X symbols",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "balance scale comparison",
+          "image": "https://images.pexels.com/photos/8431782/pexels-photo-8431782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-20T06:29:27.983Z",
+      "sourceId": "f8a8e90f0b14a68696d94b74962f51b2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-ai-is-getting-a-mac-app",
       "prompt_version": "1.0.0",
       "status": "published",
