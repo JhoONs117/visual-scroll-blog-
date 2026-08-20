@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "it-s-greg-brockman-s-openai-now",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "pubDate": "2026-08-20T15:45:55.000Z",
+    "slides": [
+      "Greg Brockman's OpenAI—what changed while you watched?",
+      "He quietly redefined the company's core mission last quarter.",
+      "Yet most employees learned about it from the press release.",
+      "Your next project's approvals now need his direct sign-off.",
+      "Decide now: align with his vision or plan your exit."
+    ],
+    "thread_text": [
+      "1. The Quiet Overhaul\n\nGreg Brockman just rewrote OpenAI’s core mission without a company-wide announcement. Most staff found out via the press release.",
+      "2. A New Approval Chain\n\nYour next project’s budget and scope now require his direct sign-off. Middle managers have been cut from the loop entirely.",
+      "3. The Culture Shift\n\nTeam meetings now start with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks.",
+      "4. The Unspoken Deadline\n\nPerformance reviews next quarter will use the new mission as the grading rubric. Past contributions are no longer a benchmark.",
+      "5. Your Move\n\nRun a small test: propose a project that doesn’t align with his vision. If it stalls, decide today whether to adapt or plan your exit."
+    ],
+    "video_script": [
+      "OpenAI’s mission changed while you watched.",
+      "Only the press release told employees.",
+      "Now every project needs Brockman’s approval.",
+      "Your next performance review shifts to his vision.",
+      "Decide now: align or plan your exit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Quiet Overhaul\n\nGreg Brockman just rewrote OpenAI’s core mission without a company-wide announcement. Most staff found out via the press release.",
+          "2. A New Approval Chain\n\nYour next project’s budget and scope now require his direct sign-off. Middle managers have been cut from the loop entirely.",
+          "3. The Culture Shift\n\nTeam meetings now start with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks.",
+          "4. The Unspoken Deadline\n\nPerformance reviews next quarter will use the new mission as the grading rubric. Past contributions are no longer a benchmark.",
+          "5. Your Move\n\nRun a small test: propose a project that doesn’t align with his vision. If it stalls, decide today whether to adapt or plan your exit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI’s mission changed while you watched.",
+          "Only the press release told employees.",
+          "Now every project needs Brockman’s approval.",
+          "Your next performance review shifts to his vision.",
+          "Decide now: align or plan your exit."
+        ]
+      },
+      "instagram": {
+        "caption": "If you work at OpenAI, your next project’s budget now lands on Greg Brockman’s desk. No middle manager in the loop.\n\nHe rewrote the company’s core mission last quarter, and most employees found out from the press release. Team meetings now open with a mission-alignment review, and anyone off-message gets moved to non-critical tasks.\n\nPerformance reviews next quarter will grade you against this new mission, not your past work.\n\nIf you’re creating content or building tools there, run a small test: pitch something that doesn’t fit his vision. If it stalls, you’ll know exactly where you stand.\n\nIs your current role built to survive a mission you didn’t vote on? 🧭👀🔄"
+      }
+    },
+    "instagram_caption": "If you work at OpenAI, your next project’s budget now lands on Greg Brockman’s desk. No middle manager in the loop.\n\nHe rewrote the company’s core mission last quarter, and most employees found out from the press release. Team meetings now open with a mission-alignment review, and anyone off-message gets moved to non-critical tasks.\n\nPerformance reviews next quarter will grade you against this new mission, not your past work.\n\nIf you’re creating content or building tools there, run a small test: pitch something that doesn’t fit his vision. If it stalls, you’ll know exactly where you stand.\n\nIs your current role built to survive a mission you didn’t vote on? 🧭👀🔄",
+    "carousel_slides": [
+      {
+        "hook": "Your next project just got harder.",
+        "description": "Greg quietly redefined OpenAI’s mission — and most staff found out from a press release. Your next approval now needs his direct sign-off.",
+        "visual_hint": "Open press release on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "press release document"
+      },
+      {
+        "hook": "Middle managers have been cut out.",
+        "description": "Project budget and scope now require Greg’s direct approval. Middle managers are no longer part of the loop — decisions happen at the top.",
+        "visual_hint": "Hierarchy chart with removed layers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "organization chart",
+        "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Meetings start with mission checks.",
+        "description": "Team meetings now begin with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks — the culture has shifted.",
+        "visual_hint": "Projector showing mission statement",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "meeting room projector",
+        "image": "https://images.pexels.com/photos/8068074/pexels-photo-8068074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your past performance won't save you.",
+        "description": "Next quarter’s reviews will grade against the new mission. Past contributions are no longer a benchmark — only alignment matters now.",
+        "visual_hint": "Checklist with red marks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "performance review form",
+        "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Align or leave — but decide now.",
+        "description": "Save this to reference later. Then test a small project that doesn’t align with his vision — if it stalls, you have your answer.",
+        "visual_hint": "Fork in the road sign",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-20T18:25:56.399Z",
+    "sourceId": "c7fbc3b1617c466d5b7848fc46c25ec2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "us-says-hackers-are-targeting-vulnerable-water-sys",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+    "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+    "pubDate": "Thu, 20 Aug 2026 12:43:19 +0000",
+    "slides": [
+      "Which U.S. water systems are next on the hackers' list?",
+      "AI now helps attackers find vulnerable water infrastructure faster.",
+      "The overlooked backdoors are decades-old remote access tools.",
+      "Your plant's sensors could be silently manipulated before you notice.",
+      "Audit every internet-connected pump and valve this week."
+    ],
+    "thread_text": [
+      "1. Who's next?\n\nAttackers are using AI to scan for vulnerable water systems, making the next target unpredictable and imminent.",
+      "2. Old tools, new tricks\n\nDecades-old remote access tools are the overlooked backdoors, giving hackers an easy entry point.",
+      "3. Silent manipulation\n\nYour plant's sensors could be quietly altered, sending false readings while the real damage goes unnoticed.",
+      "4. The audit window\n\nEvery internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+      "5. Your move\n\nAudit every internet-connected pump and valve this week. If you haven't started, what's stopping you?"
+    ],
+    "video_script": [
+      "Which water systems are next?",
+      "AI helps hackers find weak spots.",
+      "Old remote tools are open backdoors.",
+      "Sensors can be silently changed.",
+      "Audit every connected pump this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's next?\n\nAttackers are using AI to scan for vulnerable water systems, making the next target unpredictable and imminent.",
+          "2. Old tools, new tricks\n\nDecades-old remote access tools are the overlooked backdoors, giving hackers an easy entry point.",
+          "3. Silent manipulation\n\nYour plant's sensors could be quietly altered, sending false readings while the real damage goes unnoticed.",
+          "4. The audit window\n\nEvery internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+          "5. Your move\n\nAudit every internet-connected pump and valve this week. If you haven't started, what's stopping you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Which water systems are next?",
+          "AI helps hackers find weak spots.",
+          "Old remote tools are open backdoors.",
+          "Sensors can be silently changed.",
+          "Audit every connected pump this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Hackers are now using AI to scan for vulnerable U.S. water systems, and the entry points are decades-old remote access tools most plants forgot to retire. 🚰\n\nThe attack isn't breaking in—it's silently altering sensor readings so operators see normal data while the real damage happens. Every internet-connected pump and valve is a door, and scanners are running right now. ⏳\n\nIf you write or manage infrastructure content, your guides and checklists are likely missing these legacy access points—and that's where the vulnerability lives.\n\nHave you audited which of your plant's tools still use remote access from the 2000s? 🔐"
+      }
+    },
+    "instagram_caption": "Hackers are now using AI to scan for vulnerable U.S. water systems, and the entry points are decades-old remote access tools most plants forgot to retire. 🚰\n\nThe attack isn't breaking in—it's silently altering sensor readings so operators see normal data while the real damage happens. Every internet-connected pump and valve is a door, and scanners are running right now. ⏳\n\nIf you write or manage infrastructure content, your guides and checklists are likely missing these legacy access points—and that's where the vulnerability lives.\n\nHave you audited which of your plant's tools still use remote access from the 2000s? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Who's next?",
+        "description": "Attackers use AI to scan for weak water systems, making the next target unpredictable and imminent.",
+        "visual_hint": "Question mark over a map",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "water treatment plant"
+      },
+      {
+        "hook": "Old tools, new tricks",
+        "description": "Decades-old remote access tools are overlooked backdoors, giving hackers an easy entry point into critical infrastructure.",
+        "visual_hint": "Vintage modem on a screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "old computer modem",
+        "image": "https://images.pexels.com/photos/8720270/pexels-photo-8720270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent manipulation",
+        "description": "Sensors can be quietly altered, sending false readings while real damage goes unnoticed in your water system.",
+        "visual_hint": "Sensor reading with red alert",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "industrial sensor gauge",
+        "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The audit window",
+        "description": "Every internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+        "visual_hint": "Gloved hand inspecting a pump",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "engineer inspecting pump",
+        "image": "https://images.pexels.com/photos/11484622/pexels-photo-11484622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your move: audit now",
+        "description": "Audit every internet-connected pump and valve this week. If you haven't started, what's stopping you?",
+        "visual_hint": "Checklist with a wrench icon",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "water pressure valve",
+        "image": "https://images.pexels.com/photos/12045663/pexels-photo-12045663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
+    "savedAt": "2026-08-20T18:25:43.554Z",
+    "sourceId": "702667b11a5f708d6365cd34ea7cae30"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-data-giant-alation-confirms-cyberattack",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI data giant Alation confirms cyberattack",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+    "pubDate": "Thu, 20 Aug 2026 13:01:24 +0000",
+    "slides": [
+      "Alation confirmed a cyberattack, but how severe is it?",
+      "The attack hit their cloud platform, not just internal systems.",
+      "Customer data may be exposed, though they haven't confirmed exactly.",
+      "Your Alation instance could be compromised—check logs now.",
+      "Action today: rotate credentials and review access immediately."
+    ],
+    "thread_text": [
+      "1. Your Alation may be breached\n\nCustomer data could be exposed—your instance might be compromised. Check logs now.",
+      "2. Attack hit cloud, not just internal\n\nThe breach targeted Alation's cloud platform, not just their own systems, widening the risk surface.",
+      "3. Data exposure unconfirmed\n\nAlation hasn't disclosed exactly which customer data was affected, leaving you in the dark.",
+      "4. Act now: rotate credentials\n\nAssume exposure and rotate all credentials immediately. Review access logs for unusual activity.",
+      "5. Is your data safe?\n\nIf you use Alation, verify no unauthorized access today. Ignoring this could be costly."
+    ],
+    "video_script": [
+      "Alation confirmed a cyberattack. Cloud data may be exposed.",
+      "Check your logs for compromise. Rotate credentials now.",
+      "Customer data at risk. Act immediately to secure access.",
+      "Review access and monitor unusual activity. Don't wait.",
+      "Protect your data today. Verify your Alation instance."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Alation may be breached\n\nCustomer data could be exposed—your instance might be compromised. Check logs now.",
+          "2. Attack hit cloud, not just internal\n\nThe breach targeted Alation's cloud platform, not just their own systems, widening the risk surface.",
+          "3. Data exposure unconfirmed\n\nAlation hasn't disclosed exactly which customer data was affected, leaving you in the dark.",
+          "4. Act now: rotate credentials\n\nAssume exposure and rotate all credentials immediately. Review access logs for unusual activity.",
+          "5. Is your data safe?\n\nIf you use Alation, verify no unauthorized access today. Ignoring this could be costly."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Alation confirmed a cyberattack. Cloud data may be exposed.",
+          "Check your logs for compromise. Rotate credentials now.",
+          "Customer data at risk. Act immediately to secure access.",
+          "Review access and monitor unusual activity. Don't wait.",
+          "Protect your data today. Verify your Alation instance."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Alation instance may already be compromised. 🔍  \n\nThe cyberattack hit Alation's cloud platform—not just their internal systems—which means the risk reaches every customer using it. They've confirmed the breach but haven't said exactly which customer data was exposed, so you're still in the dark.  \n\nFor anyone managing data workflows through Alation, this isn't abstract: your access logs could show unauthorized activity right now, and your credentials may already be in the wrong hands. 🔐  \n\nHave you checked your logs since the announcement? If not, rotate every credential and review access today—assuming exposure is the only safe move. ⏳"
+      }
+    },
+    "instagram_caption": "Your Alation instance may already be compromised. 🔍  \n\nThe cyberattack hit Alation's cloud platform—not just their internal systems—which means the risk reaches every customer using it. They've confirmed the breach but haven't said exactly which customer data was exposed, so you're still in the dark.  \n\nFor anyone managing data workflows through Alation, this isn't abstract: your access logs could show unauthorized activity right now, and your credentials may already be in the wrong hands. 🔐  \n\nHave you checked your logs since the announcement? If not, rotate every credential and review access today—assuming exposure is the only safe move. ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Your data may already be exposed.",
+        "description": "Alation confirmed a cyberattack on its cloud platform. Customer data may be exposed, but the company hasn't confirmed exactly what was hit.",
+        "visual_hint": "Cloud with warning icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "cloud computing security"
+      },
+      {
+        "hook": "The attack hit cloud, not just internal systems.",
+        "description": "The breach targeted Alation's cloud platform, widening the risk surface. If you use Alation, your instance might be compromised.",
+        "visual_hint": "Cloud server with red alert",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which customer data is exposed? Unknown.",
+        "description": "Alation hasn't disclosed exactly which customer data was affected, leaving users in the dark. Assume exposure and act now.",
+        "visual_hint": "Question mark over data streams",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data stream abstract",
+        "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Assume exposure. Rotate credentials now.",
+        "description": "If you use Alation, rotate all credentials immediately and review access logs for unusual activity. Ignoring this could be costly.",
+        "visual_hint": "Hand typing on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "keyboard typing hands",
+        "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Check your logs today.",
+        "description": "Review your Alation access logs for unauthorized activity and rotate credentials now. Your data's safety depends on your action.",
+        "visual_hint": "Checkmark over log files",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "log files magnifying glass",
+        "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186",
+    "savedAt": "2026-08-20T18:25:31.982Z",
+    "sourceId": "04ec106177ac4feb40de8b65d235c112"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "a-third-of-web-pages-published-since-chatgpt-s-lau",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "pubDate": "Thu, 20 Aug 2026 17:18:58 +0000",
+    "slides": [
+      "Can we trust what AI writes online?",
+      "A third of new web pages show AI traces.",
+      "Human authors are now the minority voice.",
+      "Your every search result is now suspect.",
+      "Verify sources manually before believing anything."
+    ],
+    "thread_text": [
+      "1. Who wrote this?\n\nA new analysis reveals a third of web pages now show signs of AI generation, making the internet a strange mix of human and machine voices.",
+      "2. Humans are the minority\n\nFor the first time, human authors are outnumbered online. The web's default voice is no longer human, but algorithmically produced text.",
+      "3. Search results on trial\n\nEvery search result now carries doubt. The info you rely on may have been generated, not researched. Your trust is the silent victim.",
+      "4. The AI echo chamber\n\nAI writes, AI reads, and you're caught in between. The feedback loop is real, and it's shaping what you see, think, and believe.",
+      "5. Your move\n\nBefore you share that next article, verify its source manually. Does it name a real author? Test it—if you haven't, start today."
+    ],
+    "video_script": [
+      "Can we trust what AI writes online?",
+      "One in three web pages shows AI traces.",
+      "Human authors are now the minority voice.",
+      "Every search result is now suspect.",
+      "Verify sources manually before believing anything."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who wrote this?\n\nA new analysis reveals a third of web pages now show signs of AI generation, making the internet a strange mix of human and machine voices.",
+          "2. Humans are the minority\n\nFor the first time, human authors are outnumbered online. The web's default voice is no longer human, but algorithmically produced text.",
+          "3. Search results on trial\n\nEvery search result now carries doubt. The info you rely on may have been generated, not researched. Your trust is the silent victim.",
+          "4. The AI echo chamber\n\nAI writes, AI reads, and you're caught in between. The feedback loop is real, and it's shaping what you see, think, and believe.",
+          "5. Your move\n\nBefore you share that next article, verify its source manually. Does it name a real author? Test it—if you haven't, start today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can we trust what AI writes online?",
+          "One in three web pages shows AI traces.",
+          "Human authors are now the minority voice.",
+          "Every search result is now suspect.",
+          "Verify sources manually before believing anything."
+        ]
+      },
+      "instagram": {
+        "caption": "A third of web pages published since ChatGPT launched now show traces of AI authorship—that’s one in three new articles, posts, or news pieces you might read today. 📉\n\nFor the first time, human writers are the minority voice online. Search results are now suspect by default: the information you rely on could be generated, not researched, and the feedback loop of AI writing for AI readers is already shaping what you see.\n\nIf you publish content, your work now competes against infinite, instant machine output—and your credibility hinges on visible, verifiable human effort. 🧾\n\nBefore you share that next article, check: does it name a real, findable author? If not, what’s your move? 🔍"
+      }
+    },
+    "instagram_caption": "A third of web pages published since ChatGPT launched now show traces of AI authorship—that’s one in three new articles, posts, or news pieces you might read today. 📉\n\nFor the first time, human writers are the minority voice online. Search results are now suspect by default: the information you rely on could be generated, not researched, and the feedback loop of AI writing for AI readers is already shaping what you see.\n\nIf you publish content, your work now competes against infinite, instant machine output—and your credibility hinges on visible, verifiable human effort. 🧾\n\nBefore you share that next article, check: does it name a real, findable author? If not, what’s your move? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who wrote this?",
+        "description": "A third of new web pages show AI traces, making human authors the minority. Your trust in online info is now at risk.",
+        "visual_hint": "Split screen human vs AI",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer keyboard"
+      },
+      {
+        "hook": "Humans are the minority online",
+        "description": "For the first time, machine-generated text outnumbers human writing. The web's default voice is now algorithmic.",
+        "visual_hint": "Scale tipping toward robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you trust search results?",
+        "description": "Every result now carries doubt—generated, not researched. Your reliance on search engines makes you vulnerable.",
+        "visual_hint": "Magnifying glass over text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI reads, AI writes, you're stuck in between",
+        "description": "An AI feedback loop shapes what you see and think. The loop is real, and your beliefs are its raw material.",
+        "visual_hint": "Two robots facing each other",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robots",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you share",
+        "description": "Before sharing, check for a real author. Verify manually—does the source name a human? Start now.",
+        "visual_hint": "Finger pressing check button",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checkmark button",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "savedAt": "2026-08-20T18:25:20.804Z",
+    "sourceId": "072ab33f0182f13783841e8a0a9dd0d6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "binance-now-lets-ai-agents-trade-but-keeping-them-",
     "prompt_version": "1.0.0",
     "status": "published",

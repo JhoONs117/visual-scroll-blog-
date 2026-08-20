@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-says-hackers-are-targeting-vulnerable-water-sys",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+  "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+  "pubDate": "Thu, 20 Aug 2026 12:43:19 +0000",
+  "slides": [
+    "Which U.S. water systems are next on the hackers' list?",
+    "AI now helps attackers find vulnerable water infrastructure faster.",
+    "The overlooked backdoors are decades-old remote access tools.",
+    "Your plant's sensors could be silently manipulated before you notice.",
+    "Audit every internet-connected pump and valve this week."
+  ],
+  "thread_text": [
+    "1. Who's next?\n\nAttackers are using AI to scan for vulnerable water systems, making the next target unpredictable and imminent.",
+    "2. Old tools, new tricks\n\nDecades-old remote access tools are the overlooked backdoors, giving hackers an easy entry point.",
+    "3. Silent manipulation\n\nYour plant's sensors could be quietly altered, sending false readings while the real damage goes unnoticed.",
+    "4. The audit window\n\nEvery internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+    "5. Your move\n\nAudit every internet-connected pump and valve this week. If you haven't started, what's stopping you?"
+  ],
+  "video_script": [
+    "Which water systems are next?",
+    "AI helps hackers find weak spots.",
+    "Old remote tools are open backdoors.",
+    "Sensors can be silently changed.",
+    "Audit every connected pump this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's next?\n\nAttackers are using AI to scan for vulnerable water systems, making the next target unpredictable and imminent.",
+        "2. Old tools, new tricks\n\nDecades-old remote access tools are the overlooked backdoors, giving hackers an easy entry point.",
+        "3. Silent manipulation\n\nYour plant's sensors could be quietly altered, sending false readings while the real damage goes unnoticed.",
+        "4. The audit window\n\nEvery internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+        "5. Your move\n\nAudit every internet-connected pump and valve this week. If you haven't started, what's stopping you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Which water systems are next?",
+        "AI helps hackers find weak spots.",
+        "Old remote tools are open backdoors.",
+        "Sensors can be silently changed.",
+        "Audit every connected pump this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Hackers are now using AI to scan for vulnerable U.S. water systems, and the entry points are decades-old remote access tools most plants forgot to retire. 🚰\n\nThe attack isn't breaking in—it's silently altering sensor readings so operators see normal data while the real damage happens. Every internet-connected pump and valve is a door, and scanners are running right now. ⏳\n\nIf you write or manage infrastructure content, your guides and checklists are likely missing these legacy access points—and that's where the vulnerability lives.\n\nHave you audited which of your plant's tools still use remote access from the 2000s? 🔐"
+    }
+  },
+  "instagram_caption": "Hackers are now using AI to scan for vulnerable U.S. water systems, and the entry points are decades-old remote access tools most plants forgot to retire. 🚰\n\nThe attack isn't breaking in—it's silently altering sensor readings so operators see normal data while the real damage happens. Every internet-connected pump and valve is a door, and scanners are running right now. ⏳\n\nIf you write or manage infrastructure content, your guides and checklists are likely missing these legacy access points—and that's where the vulnerability lives.\n\nHave you audited which of your plant's tools still use remote access from the 2000s? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Who's next?",
+      "description": "Attackers use AI to scan for weak water systems, making the next target unpredictable and imminent.",
+      "visual_hint": "Question mark over a map",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "water treatment plant"
+    },
+    {
+      "hook": "Old tools, new tricks",
+      "description": "Decades-old remote access tools are overlooked backdoors, giving hackers an easy entry point into critical infrastructure.",
+      "visual_hint": "Vintage modem on a screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "old computer modem",
+      "image": "https://images.pexels.com/photos/8720270/pexels-photo-8720270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent manipulation",
+      "description": "Sensors can be quietly altered, sending false readings while real damage goes unnoticed in your water system.",
+      "visual_hint": "Sensor reading with red alert",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "industrial sensor gauge",
+      "image": "https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The audit window",
+      "description": "Every internet-connected pump and valve is a potential entry point—and attackers are scanning now, not later.",
+      "visual_hint": "Gloved hand inspecting a pump",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "engineer inspecting pump",
+      "image": "https://images.pexels.com/photos/11484622/pexels-photo-11484622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your move: audit now",
+      "description": "Audit every internet-connected pump and valve this week. If you haven't started, what's stopping you?",
+      "visual_hint": "Checklist with a wrench icon",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "water pressure valve",
+      "image": "https://images.pexels.com/photos/12045663/pexels-photo-12045663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
+  "savedAt": "2026-08-20T18:25:43.554Z",
+  "sourceId": "702667b11a5f708d6365cd34ea7cae30"
+}

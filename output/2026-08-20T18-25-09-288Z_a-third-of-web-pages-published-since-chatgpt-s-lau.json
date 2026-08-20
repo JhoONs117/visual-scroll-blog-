@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a-third-of-web-pages-published-since-chatgpt-s-lau",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+  "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+  "pubDate": "Thu, 20 Aug 2026 17:18:58 +0000",
+  "slides": [
+    "Can we trust what AI writes online?",
+    "A third of new web pages show AI traces.",
+    "Human authors are now the minority voice.",
+    "Your every search result is now suspect.",
+    "Verify sources manually before believing anything."
+  ],
+  "thread_text": [
+    "1. Who wrote this?\n\nA new analysis reveals a third of web pages now show signs of AI generation, making the internet a strange mix of human and machine voices.",
+    "2. Humans are the minority\n\nFor the first time, human authors are outnumbered online. The web's default voice is no longer human, but algorithmically produced text.",
+    "3. Search results on trial\n\nEvery search result now carries doubt. The info you rely on may have been generated, not researched. Your trust is the silent victim.",
+    "4. The AI echo chamber\n\nAI writes, AI reads, and you're caught in between. The feedback loop is real, and it's shaping what you see, think, and believe.",
+    "5. Your move\n\nBefore you share that next article, verify its source manually. Does it name a real author? Test it—if you haven't, start today."
+  ],
+  "video_script": [
+    "Can we trust what AI writes online?",
+    "One in three web pages shows AI traces.",
+    "Human authors are now the minority voice.",
+    "Every search result is now suspect.",
+    "Verify sources manually before believing anything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who wrote this?\n\nA new analysis reveals a third of web pages now show signs of AI generation, making the internet a strange mix of human and machine voices.",
+        "2. Humans are the minority\n\nFor the first time, human authors are outnumbered online. The web's default voice is no longer human, but algorithmically produced text.",
+        "3. Search results on trial\n\nEvery search result now carries doubt. The info you rely on may have been generated, not researched. Your trust is the silent victim.",
+        "4. The AI echo chamber\n\nAI writes, AI reads, and you're caught in between. The feedback loop is real, and it's shaping what you see, think, and believe.",
+        "5. Your move\n\nBefore you share that next article, verify its source manually. Does it name a real author? Test it—if you haven't, start today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can we trust what AI writes online?",
+        "One in three web pages shows AI traces.",
+        "Human authors are now the minority voice.",
+        "Every search result is now suspect.",
+        "Verify sources manually before believing anything."
+      ]
+    },
+    "instagram": {
+      "caption": "A third of web pages published since ChatGPT launched now show traces of AI authorship—that’s one in three new articles, posts, or news pieces you might read today. 📉\n\nFor the first time, human writers are the minority voice online. Search results are now suspect by default: the information you rely on could be generated, not researched, and the feedback loop of AI writing for AI readers is already shaping what you see.\n\nIf you publish content, your work now competes against infinite, instant machine output—and your credibility hinges on visible, verifiable human effort. 🧾\n\nBefore you share that next article, check: does it name a real, findable author? If not, what’s your move? 🔍"
+    }
+  },
+  "instagram_caption": "A third of web pages published since ChatGPT launched now show traces of AI authorship—that’s one in three new articles, posts, or news pieces you might read today. 📉\n\nFor the first time, human writers are the minority voice online. Search results are now suspect by default: the information you rely on could be generated, not researched, and the feedback loop of AI writing for AI readers is already shaping what you see.\n\nIf you publish content, your work now competes against infinite, instant machine output—and your credibility hinges on visible, verifiable human effort. 🧾\n\nBefore you share that next article, check: does it name a real, findable author? If not, what’s your move? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who wrote this?",
+      "description": "A third of new web pages show AI traces, making human authors the minority. Your trust in online info is now at risk.",
+      "visual_hint": "Split screen human vs AI",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer keyboard"
+    },
+    {
+      "hook": "Humans are the minority online",
+      "description": "For the first time, machine-generated text outnumbers human writing. The web's default voice is now algorithmic.",
+      "visual_hint": "Scale tipping toward robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you trust search results?",
+      "description": "Every result now carries doubt—generated, not researched. Your reliance on search engines makes you vulnerable.",
+      "visual_hint": "Magnifying glass over text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI reads, AI writes, you're stuck in between",
+      "description": "An AI feedback loop shapes what you see and think. The loop is real, and your beliefs are its raw material.",
+      "visual_hint": "Two robots facing each other",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robots",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you share",
+      "description": "Before sharing, check for a real author. Verify manually—does the source name a human? Start now.",
+      "visual_hint": "Finger pressing check button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checkmark button",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+  "savedAt": "2026-08-20T18:25:20.804Z",
+  "sourceId": "072ab33f0182f13783841e8a0a9dd0d6"
+}

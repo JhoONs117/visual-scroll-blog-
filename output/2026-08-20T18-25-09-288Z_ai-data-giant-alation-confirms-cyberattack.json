@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-data-giant-alation-confirms-cyberattack",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI data giant Alation confirms cyberattack",
+  "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+  "pubDate": "Thu, 20 Aug 2026 13:01:24 +0000",
+  "slides": [
+    "Alation confirmed a cyberattack, but how severe is it?",
+    "The attack hit their cloud platform, not just internal systems.",
+    "Customer data may be exposed, though they haven't confirmed exactly.",
+    "Your Alation instance could be compromised—check logs now.",
+    "Action today: rotate credentials and review access immediately."
+  ],
+  "thread_text": [
+    "1. Your Alation may be breached\n\nCustomer data could be exposed—your instance might be compromised. Check logs now.",
+    "2. Attack hit cloud, not just internal\n\nThe breach targeted Alation's cloud platform, not just their own systems, widening the risk surface.",
+    "3. Data exposure unconfirmed\n\nAlation hasn't disclosed exactly which customer data was affected, leaving you in the dark.",
+    "4. Act now: rotate credentials\n\nAssume exposure and rotate all credentials immediately. Review access logs for unusual activity.",
+    "5. Is your data safe?\n\nIf you use Alation, verify no unauthorized access today. Ignoring this could be costly."
+  ],
+  "video_script": [
+    "Alation confirmed a cyberattack. Cloud data may be exposed.",
+    "Check your logs for compromise. Rotate credentials now.",
+    "Customer data at risk. Act immediately to secure access.",
+    "Review access and monitor unusual activity. Don't wait.",
+    "Protect your data today. Verify your Alation instance."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Alation may be breached\n\nCustomer data could be exposed—your instance might be compromised. Check logs now.",
+        "2. Attack hit cloud, not just internal\n\nThe breach targeted Alation's cloud platform, not just their own systems, widening the risk surface.",
+        "3. Data exposure unconfirmed\n\nAlation hasn't disclosed exactly which customer data was affected, leaving you in the dark.",
+        "4. Act now: rotate credentials\n\nAssume exposure and rotate all credentials immediately. Review access logs for unusual activity.",
+        "5. Is your data safe?\n\nIf you use Alation, verify no unauthorized access today. Ignoring this could be costly."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Alation confirmed a cyberattack. Cloud data may be exposed.",
+        "Check your logs for compromise. Rotate credentials now.",
+        "Customer data at risk. Act immediately to secure access.",
+        "Review access and monitor unusual activity. Don't wait.",
+        "Protect your data today. Verify your Alation instance."
+      ]
+    },
+    "instagram": {
+      "caption": "Your Alation instance may already be compromised. 🔍  \n\nThe cyberattack hit Alation's cloud platform—not just their internal systems—which means the risk reaches every customer using it. They've confirmed the breach but haven't said exactly which customer data was exposed, so you're still in the dark.  \n\nFor anyone managing data workflows through Alation, this isn't abstract: your access logs could show unauthorized activity right now, and your credentials may already be in the wrong hands. 🔐  \n\nHave you checked your logs since the announcement? If not, rotate every credential and review access today—assuming exposure is the only safe move. ⏳"
+    }
+  },
+  "instagram_caption": "Your Alation instance may already be compromised. 🔍  \n\nThe cyberattack hit Alation's cloud platform—not just their internal systems—which means the risk reaches every customer using it. They've confirmed the breach but haven't said exactly which customer data was exposed, so you're still in the dark.  \n\nFor anyone managing data workflows through Alation, this isn't abstract: your access logs could show unauthorized activity right now, and your credentials may already be in the wrong hands. 🔐  \n\nHave you checked your logs since the announcement? If not, rotate every credential and review access today—assuming exposure is the only safe move. ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your data may already be exposed.",
+      "description": "Alation confirmed a cyberattack on its cloud platform. Customer data may be exposed, but the company hasn't confirmed exactly what was hit.",
+      "visual_hint": "Cloud with warning icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cloud computing security"
+    },
+    {
+      "hook": "The attack hit cloud, not just internal systems.",
+      "description": "The breach targeted Alation's cloud platform, widening the risk surface. If you use Alation, your instance might be compromised.",
+      "visual_hint": "Cloud server with red alert",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which customer data is exposed? Unknown.",
+      "description": "Alation hasn't disclosed exactly which customer data was affected, leaving users in the dark. Assume exposure and act now.",
+      "visual_hint": "Question mark over data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data stream abstract",
+      "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Assume exposure. Rotate credentials now.",
+      "description": "If you use Alation, rotate all credentials immediately and review access logs for unusual activity. Ignoring this could be costly.",
+      "visual_hint": "Hand typing on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "keyboard typing hands",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Check your logs today.",
+      "description": "Review your Alation access logs for unauthorized activity and rotate credentials now. Your data's safety depends on your action.",
+      "visual_hint": "Checkmark over log files",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "log files magnifying glass",
+      "image": "https://images.pexels.com/photos/7319084/pexels-photo-7319084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186",
+  "savedAt": "2026-08-20T18:25:31.982Z",
+  "sourceId": "04ec106177ac4feb40de8b65d235c112"
+}

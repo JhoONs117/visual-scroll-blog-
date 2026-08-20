@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "it-s-greg-brockman-s-openai-now",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "It’s Greg Brockman’s OpenAI now",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+  "pubDate": "2026-08-20T15:45:55.000Z",
+  "slides": [
+    "Greg Brockman's OpenAI—what changed while you watched?",
+    "He quietly redefined the company's core mission last quarter.",
+    "Yet most employees learned about it from the press release.",
+    "Your next project's approvals now need his direct sign-off.",
+    "Decide now: align with his vision or plan your exit."
+  ],
+  "thread_text": [
+    "1. The Quiet Overhaul\n\nGreg Brockman just rewrote OpenAI’s core mission without a company-wide announcement. Most staff found out via the press release.",
+    "2. A New Approval Chain\n\nYour next project’s budget and scope now require his direct sign-off. Middle managers have been cut from the loop entirely.",
+    "3. The Culture Shift\n\nTeam meetings now start with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks.",
+    "4. The Unspoken Deadline\n\nPerformance reviews next quarter will use the new mission as the grading rubric. Past contributions are no longer a benchmark.",
+    "5. Your Move\n\nRun a small test: propose a project that doesn’t align with his vision. If it stalls, decide today whether to adapt or plan your exit."
+  ],
+  "video_script": [
+    "OpenAI’s mission changed while you watched.",
+    "Only the press release told employees.",
+    "Now every project needs Brockman’s approval.",
+    "Your next performance review shifts to his vision.",
+    "Decide now: align or plan your exit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Quiet Overhaul\n\nGreg Brockman just rewrote OpenAI’s core mission without a company-wide announcement. Most staff found out via the press release.",
+        "2. A New Approval Chain\n\nYour next project’s budget and scope now require his direct sign-off. Middle managers have been cut from the loop entirely.",
+        "3. The Culture Shift\n\nTeam meetings now start with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks.",
+        "4. The Unspoken Deadline\n\nPerformance reviews next quarter will use the new mission as the grading rubric. Past contributions are no longer a benchmark.",
+        "5. Your Move\n\nRun a small test: propose a project that doesn’t align with his vision. If it stalls, decide today whether to adapt or plan your exit."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI’s mission changed while you watched.",
+        "Only the press release told employees.",
+        "Now every project needs Brockman’s approval.",
+        "Your next performance review shifts to his vision.",
+        "Decide now: align or plan your exit."
+      ]
+    },
+    "instagram": {
+      "caption": "If you work at OpenAI, your next project’s budget now lands on Greg Brockman’s desk. No middle manager in the loop.\n\nHe rewrote the company’s core mission last quarter, and most employees found out from the press release. Team meetings now open with a mission-alignment review, and anyone off-message gets moved to non-critical tasks.\n\nPerformance reviews next quarter will grade you against this new mission, not your past work.\n\nIf you’re creating content or building tools there, run a small test: pitch something that doesn’t fit his vision. If it stalls, you’ll know exactly where you stand.\n\nIs your current role built to survive a mission you didn’t vote on? 🧭👀🔄"
+    }
+  },
+  "instagram_caption": "If you work at OpenAI, your next project’s budget now lands on Greg Brockman’s desk. No middle manager in the loop.\n\nHe rewrote the company’s core mission last quarter, and most employees found out from the press release. Team meetings now open with a mission-alignment review, and anyone off-message gets moved to non-critical tasks.\n\nPerformance reviews next quarter will grade you against this new mission, not your past work.\n\nIf you’re creating content or building tools there, run a small test: pitch something that doesn’t fit his vision. If it stalls, you’ll know exactly where you stand.\n\nIs your current role built to survive a mission you didn’t vote on? 🧭👀🔄",
+  "carousel_slides": [
+    {
+      "hook": "Your next project just got harder.",
+      "description": "Greg quietly redefined OpenAI’s mission — and most staff found out from a press release. Your next approval now needs his direct sign-off.",
+      "visual_hint": "Open press release on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "press release document"
+    },
+    {
+      "hook": "Middle managers have been cut out.",
+      "description": "Project budget and scope now require Greg’s direct approval. Middle managers are no longer part of the loop — decisions happen at the top.",
+      "visual_hint": "Hierarchy chart with removed layers",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "organization chart",
+      "image": "https://images.pexels.com/photos/9034716/pexels-photo-9034716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Meetings start with mission checks.",
+      "description": "Team meetings now begin with a mission-alignment review. Anyone off-message gets reassigned to non-critical tasks — the culture has shifted.",
+      "visual_hint": "Projector showing mission statement",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "meeting room projector",
+      "image": "https://images.pexels.com/photos/8068074/pexels-photo-8068074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your past performance won't save you.",
+      "description": "Next quarter’s reviews will grade against the new mission. Past contributions are no longer a benchmark — only alignment matters now.",
+      "visual_hint": "Checklist with red marks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "performance review form",
+      "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Align or leave — but decide now.",
+      "description": "Save this to reference later. Then test a small project that doesn’t align with his vision — if it stalls, you have your answer.",
+      "visual_hint": "Fork in the road sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fork in road",
+      "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-20T18:25:56.399Z",
+  "sourceId": "c7fbc3b1617c466d5b7848fc46c25ec2"
+}
