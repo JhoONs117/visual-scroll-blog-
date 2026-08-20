@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-ai-is-getting-a-mac-app",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta AI is getting a Mac app",
+    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "pubDate": "2026-08-19T17:00:00.000Z",
+    "slides": [
+      "Meta AI lands on Mac tomorrow. Will you switch?",
+      "It runs locally, unlike ChatGPT's cloud-only version.",
+      "But it still needs your Apple Silicon chip, not Intel.",
+      "Your workflow changes: no more browser tab needed.",
+      "Test it with your private data before committing."
+    ],
+    "thread_text": [
+      "1. Meta AI lands on Mac tomorrow\n\nIt runs locally, a direct challenge to ChatGPT's cloud-only model. Your Mac becomes the server.",
+      "2. Apple Silicon required\n\nIntel Macs are left out. This is a hardware line in the sand, not just a software update.",
+      "3. No more browser tab\n\nYour workflow shifts from a web app to a native experience. The AI is always there, not a click away.",
+      "4. Private data? Test it\n\nReal question is trust. Does local processing make you more willing to feed it sensitive files?",
+      "5. Try it with your own data\n\nBefore you switch, run a personal document through it tonight. Is the result worth the local memory it will eat?"
+    ],
+    "video_script": [
+      "Meta AI is on Mac tomorrow.",
+      "It works offline, unlike ChatGPT.",
+      "But only on Apple Silicon chips.",
+      "No browser tab needed anymore.",
+      "Test it with your private data."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta AI lands on Mac tomorrow\n\nIt runs locally, a direct challenge to ChatGPT's cloud-only model. Your Mac becomes the server.",
+          "2. Apple Silicon required\n\nIntel Macs are left out. This is a hardware line in the sand, not just a software update.",
+          "3. No more browser tab\n\nYour workflow shifts from a web app to a native experience. The AI is always there, not a click away.",
+          "4. Private data? Test it\n\nReal question is trust. Does local processing make you more willing to feed it sensitive files?",
+          "5. Try it with your own data\n\nBefore you switch, run a personal document through it tonight. Is the result worth the local memory it will eat?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta AI is on Mac tomorrow.",
+          "It works offline, unlike ChatGPT.",
+          "But only on Apple Silicon chips.",
+          "No browser tab needed anymore.",
+          "Test it with your private data."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta AI is getting a Mac app tomorrow, and it runs entirely on your device—no cloud involved. You'll need an Apple Silicon chip, so Intel Macs are out.\n\nThis means your AI chats won't leave your machine, which is a big shift from ChatGPT's cloud-only setup. Your workflow changes too: no more keeping a browser tab open for AI. It's just there, natively.\n\nFor you as a creator, this could mean faster, private processing of your drafts or scripts without uploading them anywhere. But it'll eat local memory, so check that.\n\nBefore you commit, try running one personal document through it tonight. Is the speed worth the storage it'll chew through? 🖥️⚡🧠"
+      }
+    },
+    "instagram_caption": "Meta AI is getting a Mac app tomorrow, and it runs entirely on your device—no cloud involved. You'll need an Apple Silicon chip, so Intel Macs are out.\n\nThis means your AI chats won't leave your machine, which is a big shift from ChatGPT's cloud-only setup. Your workflow changes too: no more keeping a browser tab open for AI. It's just there, natively.\n\nFor you as a creator, this could mean faster, private processing of your drafts or scripts without uploading them anywhere. But it'll eat local memory, so check that.\n\nBefore you commit, try running one personal document through it tonight. Is the speed worth the storage it'll chew through? 🖥️⚡🧠",
+    "carousel_slides": [
+      {
+        "hook": "Will you switch?",
+        "description": "Meta AI's Mac app runs locally, not in the cloud. Your Mac becomes the server, but only Apple Silicon models qualify.",
+        "visual_hint": "Mac laptop glowing in dark room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "MacBook laptop desk"
+      },
+      {
+        "hook": "Intel Macs left behind",
+        "description": "Requires Apple Silicon chip, so Intel Macs are excluded. This is a hardware line in the sand, not just an update.",
+        "visual_hint": "Silicon chip close-up with Intel excluded",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer chip macro",
+        "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No more browser tab",
+        "description": "Workflow shifts to a native app, always there. You don't click away to a web tab—it's integrated into your Mac experience.",
+        "visual_hint": "Browser tab closing, native app opening",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "web browser screen",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust with private data?",
+        "description": "Local processing changes the trust equation. Would you feed it sensitive files knowing they never leave your device?",
+        "visual_hint": "Hand holding document near laptop",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding paper",
+        "image": "https://images.pexels.com/photos/6567858/pexels-photo-6567858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it tonight with your data",
+        "description": "Run a personal document through Meta AI tonight. See if the result justifies the local memory it eats before switching.",
+        "visual_hint": "Document being analyzed on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "document analysis screen",
+        "image": "https://images.pexels.com/photos/8100069/pexels-photo-8100069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-08-20T04:28:10.547Z",
+    "sourceId": "6edc2343165488ff44cd2aead6f697a0"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "sachin-bansal-s-fintech-navi-raises-first-outside-",
     "prompt_version": "1.0.0",
     "status": "published",
