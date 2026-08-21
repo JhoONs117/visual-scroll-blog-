@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "major-youtube-creators-are-facing-backlash-for-acc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Major YouTube creators are facing backlash for accepting AI money",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+  "pubDate": "2026-08-21T13:37:52.000Z",
+  "slides": [
+    "Who pays for AI? Your favorite YouTuber might have a price.",
+    "AI sponsorships now fund top channels, but hidden from viewers.",
+    "Talent agencies quietly broker these deals without disclosure rules.",
+    "Your trust is the product, sold without your knowledge.",
+    "Check sponsorship tags before your next watch."
+  ],
+  "thread_text": [
+    "1. Your favorite YouTuber is a paid ad.\n\nTop creators are now quietly funded by AI sponsorships, brokered by talent agencies with zero disclosure rules.",
+    "2. The hidden price tag.\n\nThese deals aren't tagged or announced—viewers have no idea the content they trust is a commercial.",
+    "3. Agencies cash in.\n\nTalent agencies are the middlemen, quietly negotiating these sponsorships and taking a cut—all without industry oversight.",
+    "4. Your trust is sold.\n\nThe real product isn't the video—it's your belief in the creator. And it's being traded without your consent.",
+    "5. Check the tags.\n\nLook for sponsorship labels on your next watch. If they're missing, ask the creator directly—do you get paid to say this?"
+  ],
+  "video_script": [
+    "Your favorite YouTuber might be a secret ad.",
+    "AI sponsorships fund channels, but no disclosure.",
+    "Talent agencies broker these deals quietly.",
+    "Your trust is being sold without consent.",
+    "Check sponsorship tags before you watch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your favorite YouTuber is a paid ad.\n\nTop creators are now quietly funded by AI sponsorships, brokered by talent agencies with zero disclosure rules.",
+        "2. The hidden price tag.\n\nThese deals aren't tagged or announced—viewers have no idea the content they trust is a commercial.",
+        "3. Agencies cash in.\n\nTalent agencies are the middlemen, quietly negotiating these sponsorships and taking a cut—all without industry oversight.",
+        "4. Your trust is sold.\n\nThe real product isn't the video—it's your belief in the creator. And it's being traded without your consent.",
+        "5. Check the tags.\n\nLook for sponsorship labels on your next watch. If they're missing, ask the creator directly—do you get paid to say this?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your favorite YouTuber might be a secret ad.",
+        "AI sponsorships fund channels, but no disclosure.",
+        "Talent agencies broker these deals quietly.",
+        "Your trust is being sold without consent.",
+        "Check sponsorship tags before you watch."
+      ]
+    },
+    "instagram": {
+      "caption": "The YouTuber you trust might be getting paid by an AI company to say what they’re saying—and you’d never know it.  \n\nTop creators are quietly signing AI sponsorships arranged by talent agencies, with no requirement to tell you. No tags, no announcements—just content that looks organic but isn’t.  \n\nFor anyone making videos, this means your competition isn't just other creators—it's undisclosed ads wearing a creator's face. Your authenticity is now a paid slot.  \n\nBefore you watch your next video, check if the sponsorship tag is there. If it’s missing, ask directly: “Are you paid to say this?” 📺🕵️‍♂️💸"
+    }
+  },
+  "instagram_caption": "The YouTuber you trust might be getting paid by an AI company to say what they’re saying—and you’d never know it.  \n\nTop creators are quietly signing AI sponsorships arranged by talent agencies, with no requirement to tell you. No tags, no announcements—just content that looks organic but isn’t.  \n\nFor anyone making videos, this means your competition isn't just other creators—it's undisclosed ads wearing a creator's face. Your authenticity is now a paid slot.  \n\nBefore you watch your next video, check if the sponsorship tag is there. If it’s missing, ask directly: “Are you paid to say this?” 📺🕵️‍♂️💸",
+  "carousel_slides": [
+    {
+      "hook": "Your favorite YouTuber has a secret price.",
+      "description": "AI sponsorships secretly fund top channels, brokered by talent agencies with no disclosure rules. Creators are paid ads without telling you.",
+      "visual_hint": "Red price tag on creator's face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "price tag on billboard"
+    },
+    {
+      "hook": "No disclosure. No rules. No clue.",
+      "description": "These AI deals aren't tagged or announced, so viewers trust content that's actually a commercial. The hidden price tag is your awareness.",
+      "visual_hint": "Magnifying glass over YouTube icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass smartphone",
+      "image": "https://images.pexels.com/photos/8927455/pexels-photo-8927455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agencies cash in on your trust.",
+      "description": "Talent agencies negotiate these sponsorships quietly, taking a cut without industry oversight. Your favorite creator is just the middleman's pawn.",
+      "visual_hint": "Handshake with money background",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "handshake suit money",
+      "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your belief is being sold—without consent.",
+      "description": "The real product isn't the video—it's your trust in the creator, traded silently for ad revenue. You're the commodity.",
+      "visual_hint": "Trust symbol broken chain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken chain hand",
+      "image": "https://images.pexels.com/photos/4611751/pexels-photo-4611751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next YouTube watch.",
+      "description": "Check for sponsorship tags in the description. If missing, ask the creator directly: 'Do you get paid to say this?' Hold them accountable.",
+      "visual_hint": "Finger tapping checkmark tag",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkmark tag on screen",
+      "image": "https://images.pexels.com/photos/6565756/pexels-photo-6565756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.121766626924%2C100%2C77.756466746151&amp;w=1200",
+  "savedAt": "2026-08-21T16:21:40.549Z",
+  "sourceId": "9cbe86a700782f00e60545a6f02d5d06"
+}
