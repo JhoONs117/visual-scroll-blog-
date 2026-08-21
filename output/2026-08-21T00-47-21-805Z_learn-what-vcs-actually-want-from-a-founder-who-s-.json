@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "learn-what-vcs-actually-want-from-a-founder-who-s-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+  "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+  "pubDate": "Thu, 20 Aug 2026 23:32:27 +0000",
+  "slides": [
+    "What do VCs really want? A $1B founder reveals.",
+    "Most founders pitch growth; VCs bet on monopolies.",
+    "Yet this founder's biggest raise happened after rejection.",
+    "Forget decks—win by showing unfair advantages.",
+    "Redefine your pitch: prove you own the niche."
+  ],
+  "thread_text": [
+    "1. Rejected, then raised big.\n\nAfter a top VC said no, this founder closed their largest round. The rejection exposed the real weakness in their pitch.",
+    "2. VCs want monopolies, not growth.\n\nMost founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+    "3. Decks don't win. Unfair advantages do.\n\nForget pretty slides. Show a defensible moat—proprietary data, network effects, or a chokehold on distribution. That's what flips a no to yes.",
+    "4. Prove you own your niche.\n\nIf you can't show how you dominate a small market first, VCs won't believe you can expand. Own a niche before you ask for a billion.",
+    "5. Test your monopoly pitch today.\n\nWrite one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting."
+  ],
+  "video_script": [
+    "Rejected by a VC, then raised the biggest round after.",
+    "Growth doesn't matter. Monopoly does. Pitch that.",
+    "Skip the deck. Show your unfair advantage instead.",
+    "Own your niche first. That's how you win.",
+    "Ask yourself: why can't anyone copy you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Rejected, then raised big.\n\nAfter a top VC said no, this founder closed their largest round. The rejection exposed the real weakness in their pitch.",
+        "2. VCs want monopolies, not growth.\n\nMost founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+        "3. Decks don't win. Unfair advantages do.\n\nForget pretty slides. Show a defensible moat—proprietary data, network effects, or a chokehold on distribution. That's what flips a no to yes.",
+        "4. Prove you own your niche.\n\nIf you can't show how you dominate a small market first, VCs won't believe you can expand. Own a niche before you ask for a billion.",
+        "5. Test your monopoly pitch today.\n\nWrite one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rejected by a VC, then raised the biggest round after.",
+        "Growth doesn't matter. Monopoly does. Pitch that.",
+        "Skip the deck. Show your unfair advantage instead.",
+        "Own your niche first. That's how you win.",
+        "Ask yourself: why can't anyone copy you?"
+      ]
+    },
+    "instagram": {
+      "caption": "A top VC rejected this founder—then he closed his biggest round ever. 💸\n\nThe refusal exposed a weak pitch. He wasn't selling what VCs actually buy: a monopoly, not a growth curve. Decks don't flip a no to yes. Unfair advantages do—proprietary data, network effects, or a stranglehold on distribution.\n\nIf you can't prove you own a niche first, investors won't trust you to expand. Own the small market before asking for the big check.\n\nFor you: one sentence—why can't anyone copy your core edge? If it's vague, your next pitch is already dead. 🎯\n\nWhat's your unfair advantage?"
+    }
+  },
+  "instagram_caption": "A top VC rejected this founder—then he closed his biggest round ever. 💸\n\nThe refusal exposed a weak pitch. He wasn't selling what VCs actually buy: a monopoly, not a growth curve. Decks don't flip a no to yes. Unfair advantages do—proprietary data, network effects, or a stranglehold on distribution.\n\nIf you can't prove you own a niche first, investors won't trust you to expand. Own the small market before asking for the big check.\n\nFor you: one sentence—why can't anyone copy your core edge? If it's vague, your next pitch is already dead. 🎯\n\nWhat's your unfair advantage?",
+  "carousel_slides": [
+    {
+      "hook": "Rejected, then raised $1B.",
+      "description": "After a top VC said no, this founder closed their largest round. Rejection exposed a weak pitch—and fixing it unlocked everything.",
+      "visual_hint": "Closed door opening to light",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "door opening light"
+    },
+    {
+      "hook": "VCs want monopolies, not growth.",
+      "description": "Most founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+      "visual_hint": "Monopoly board with one player",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "monopoly board game",
+      "image": "https://images.pexels.com/photos/4792374/pexels-photo-4792374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Decks don't win. Moats do.",
+      "description": "Forget pretty slides. Show a defensible edge—proprietary data, network effects, or distribution control. That flips a no to yes.",
+      "visual_hint": "Castle with deep moat",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "castle moat",
+      "image": "https://images.pexels.com/photos/35889070/pexels-photo-35889070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Own your niche first.",
+      "description": "If you can't dominate a small market, VCs won't believe you can expand. Prove you own the niche before asking for billions.",
+      "visual_hint": "Small flag on mountain peak",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "flag mountain peak",
+      "image": "https://images.pexels.com/photos/29790703/pexels-photo-29790703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Comment 'MONOPOLY' for a pitch check.",
+      "description": "Write one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting.",
+      "visual_hint": "Pen writing on contract",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "pen contract writing",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
+  "savedAt": "2026-08-21T00:47:49.686Z",
+  "sourceId": "cdac95d6e803ba280423bf0b300b38b1"
+}

@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "learn-what-vcs-actually-want-from-a-founder-who-s-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "pubDate": "Thu, 20 Aug 2026 23:32:27 +0000",
+      "slides": [
+        "What do VCs really want? A $1B founder reveals.",
+        "Most founders pitch growth; VCs bet on monopolies.",
+        "Yet this founder's biggest raise happened after rejection.",
+        "Forget decks—win by showing unfair advantages.",
+        "Redefine your pitch: prove you own the niche."
+      ],
+      "thread_text": [
+        "1. Rejected, then raised big.\n\nAfter a top VC said no, this founder closed their largest round. The rejection exposed the real weakness in their pitch.",
+        "2. VCs want monopolies, not growth.\n\nMost founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+        "3. Decks don't win. Unfair advantages do.\n\nForget pretty slides. Show a defensible moat—proprietary data, network effects, or a chokehold on distribution. That's what flips a no to yes.",
+        "4. Prove you own your niche.\n\nIf you can't show how you dominate a small market first, VCs won't believe you can expand. Own a niche before you ask for a billion.",
+        "5. Test your monopoly pitch today.\n\nWrite one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting."
+      ],
+      "video_script": [
+        "Rejected by a VC, then raised the biggest round after.",
+        "Growth doesn't matter. Monopoly does. Pitch that.",
+        "Skip the deck. Show your unfair advantage instead.",
+        "Own your niche first. That's how you win.",
+        "Ask yourself: why can't anyone copy you?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Rejected, then raised big.\n\nAfter a top VC said no, this founder closed their largest round. The rejection exposed the real weakness in their pitch.",
+            "2. VCs want monopolies, not growth.\n\nMost founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+            "3. Decks don't win. Unfair advantages do.\n\nForget pretty slides. Show a defensible moat—proprietary data, network effects, or a chokehold on distribution. That's what flips a no to yes.",
+            "4. Prove you own your niche.\n\nIf you can't show how you dominate a small market first, VCs won't believe you can expand. Own a niche before you ask for a billion.",
+            "5. Test your monopoly pitch today.\n\nWrite one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rejected by a VC, then raised the biggest round after.",
+            "Growth doesn't matter. Monopoly does. Pitch that.",
+            "Skip the deck. Show your unfair advantage instead.",
+            "Own your niche first. That's how you win.",
+            "Ask yourself: why can't anyone copy you?"
+          ]
+        },
+        "instagram": {
+          "caption": "A top VC rejected this founder—then he closed his biggest round ever. 💸\n\nThe refusal exposed a weak pitch. He wasn't selling what VCs actually buy: a monopoly, not a growth curve. Decks don't flip a no to yes. Unfair advantages do—proprietary data, network effects, or a stranglehold on distribution.\n\nIf you can't prove you own a niche first, investors won't trust you to expand. Own the small market before asking for the big check.\n\nFor you: one sentence—why can't anyone copy your core edge? If it's vague, your next pitch is already dead. 🎯\n\nWhat's your unfair advantage?"
+        }
+      },
+      "instagram_caption": "A top VC rejected this founder—then he closed his biggest round ever. 💸\n\nThe refusal exposed a weak pitch. He wasn't selling what VCs actually buy: a monopoly, not a growth curve. Decks don't flip a no to yes. Unfair advantages do—proprietary data, network effects, or a stranglehold on distribution.\n\nIf you can't prove you own a niche first, investors won't trust you to expand. Own the small market before asking for the big check.\n\nFor you: one sentence—why can't anyone copy your core edge? If it's vague, your next pitch is already dead. 🎯\n\nWhat's your unfair advantage?",
+      "carousel_slides": [
+        {
+          "hook": "Rejected, then raised $1B.",
+          "description": "After a top VC said no, this founder closed their largest round. Rejection exposed a weak pitch—and fixing it unlocked everything.",
+          "visual_hint": "Closed door opening to light",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "door opening light"
+        },
+        {
+          "hook": "VCs want monopolies, not growth.",
+          "description": "Most founders sell growth curves. VCs buy businesses that can own their market. Growth is a symptom, monopoly is the cure.",
+          "visual_hint": "Monopoly board with one player",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "monopoly board game",
+          "image": "https://images.pexels.com/photos/4792374/pexels-photo-4792374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Decks don't win. Moats do.",
+          "description": "Forget pretty slides. Show a defensible edge—proprietary data, network effects, or distribution control. That flips a no to yes.",
+          "visual_hint": "Castle with deep moat",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "castle moat",
+          "image": "https://images.pexels.com/photos/35889070/pexels-photo-35889070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Own your niche first.",
+          "description": "If you can't dominate a small market, VCs won't believe you can expand. Prove you own the niche before asking for billions.",
+          "visual_hint": "Small flag on mountain peak",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "flag mountain peak",
+          "image": "https://images.pexels.com/photos/29790703/pexels-photo-29790703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Comment 'MONOPOLY' for a pitch check.",
+          "description": "Write one sentence: why can't anyone copy your core advantage? If it's not obvious, rethink your pitch before your next meeting.",
+          "visual_hint": "Pen writing on contract",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "pen contract writing",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
+      "savedAt": "2026-08-21T00:47:49.686Z",
+      "sourceId": "cdac95d6e803ba280423bf0b300b38b1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-data-startup-micro1-reaches-500m-gross-run-rate",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "slides": [
+        "Can one startup quietly ride the AI training wave?",
+        "Micro1 just hit $500M gross run rate.",
+        "Its secret: synthetic data, not human-curated sets.",
+        "Now AI models can train without expensive real-world labeling.",
+        "Test synthetic data pipelines against your current training workflow."
+      ],
+      "thread_text": [
+        "1. Who's fueling the AI boom?\n\nA startup quietly crossed $500M in annual revenue, and it's not selling chips or models.",
+        "2. The secret: fake data\n\nMicro1 generates synthetic datasets, avoiding the costly, slow process of human labeling.",
+        "3. Cheaper training, faster scale\n\nAI models now learn from made-up examples, cutting real-world data costs dramatically.",
+        "4. But does it hold up?\n\nSynthetic data can miss real-world edge cases — testing is critical before production.",
+        "5. Test it yourself\n\nTake a simple real dataset, compare synthetic vs. real training results. Which wins?"
+      ],
+      "video_script": [
+        "A startup quietly makes half a billion.",
+        "Its secret? Synthetic data, not human labels.",
+        "AI trains cheaper and faster without real-world mess.",
+        "But synthetic data can miss edge cases.",
+        "Test it on your own workflow this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's fueling the AI boom?\n\nA startup quietly crossed $500M in annual revenue, and it's not selling chips or models.",
+            "2. The secret: fake data\n\nMicro1 generates synthetic datasets, avoiding the costly, slow process of human labeling.",
+            "3. Cheaper training, faster scale\n\nAI models now learn from made-up examples, cutting real-world data costs dramatically.",
+            "4. But does it hold up?\n\nSynthetic data can miss real-world edge cases — testing is critical before production.",
+            "5. Test it yourself\n\nTake a simple real dataset, compare synthetic vs. real training results. Which wins?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A startup quietly makes half a billion.",
+            "Its secret? Synthetic data, not human labels.",
+            "AI trains cheaper and faster without real-world mess.",
+            "But synthetic data can miss edge cases.",
+            "Test it on your own workflow this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A startup you’ve never heard of just crossed $500M in annual revenue—without selling a single chip or model. 🧠\n\nMicro1 builds synthetic datasets, meaning AI trains on made-up examples instead of expensive, human-labeled real-world data. That cuts costs dramatically and speeds up scaling. But those fake scenarios can miss rare, real-world edge cases. 🎯\n\nIf you’re building or shipping AI tools, your training pipeline just got a cheaper alternative—but only if you verify it holds up. ⚖️\n\nTake one of your own datasets, run it against a synthetic version, and compare results. Which one actually performs in production? 🔍"
+        }
+      },
+      "instagram_caption": "A startup you’ve never heard of just crossed $500M in annual revenue—without selling a single chip or model. 🧠\n\nMicro1 builds synthetic datasets, meaning AI trains on made-up examples instead of expensive, human-labeled real-world data. That cuts costs dramatically and speeds up scaling. But those fake scenarios can miss rare, real-world edge cases. 🎯\n\nIf you’re building or shipping AI tools, your training pipeline just got a cheaper alternative—but only if you verify it holds up. ⚖️\n\nTake one of your own datasets, run it against a synthetic version, and compare results. Which one actually performs in production? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Why is this startup thriving?",
+          "description": "AI boom requires training data. Micro1 hit $500M run rate selling synthetic data. Human labeling is expensive and slow.",
+          "visual_hint": "Startup revenue graph rising",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "revenue growth chart"
+        },
+        {
+          "hook": "Fake data, real revenue.",
+          "description": "Micro1 generates synthetic datasets, avoiding costly human labeling. This allows AI models to train faster and cheaper.",
+          "visual_hint": "Data points forming dollar sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "silicon chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No labeling needed.",
+          "description": "AI models learn from made-up examples. This cuts real-world data costs dramatically, enabling rapid scale.",
+          "visual_hint": "Robot arm picking data blocks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "industrial robot",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But does it miss reality?",
+          "description": "Synthetic data can miss edge cases. Testing is critical before production to ensure model accuracy.",
+          "visual_hint": "Magnifying glass over data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test synthetic yourself now.",
+          "description": "Take a simple real dataset. Compare synthetic vs real training results. Decide which wins.",
+          "visual_hint": "Side-by-side results comparison",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "data comparison",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
+      "savedAt": "2026-08-21T00:47:35.783Z",
+      "sourceId": "715aa7b8d8cb52f063bcba863124d2d9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "welcome-to-the-ai-crisis-in-math",
       "prompt_version": "1.0.0",
       "status": "published",
