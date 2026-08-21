@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "nvidia-just-showed-that-the-harness-not-the-ai-mod",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
+    "slides": [
+      "Nvidia's new harness outperforms larger models—how?",
+      "The harness tunes inference, not just training data.",
+      "Smaller models now beat giants with the right harness.",
+      "Your model's ceiling is set by its harness, not size.",
+      "Audit your harness today: find your hidden gains."
+    ],
+    "thread_text": [
+      "1. The real AI bottleneck?\n\nInference-time tuning, not just training data, is what separates Nvidia's new harness from the pack—and it's beating much larger models.",
+      "2. Size isn't destiny anymore.\n\nWith the right harness, smaller models are outperforming giants in head-to-head tests. The architecture is becoming less relevant than the control layer.",
+      "3. This flips the scaling race.\n\nFor years, the assumption was bigger equals better. Now, the ceiling is set by the harness—the inference strategy—not parameter count.",
+      "4. Your model's hidden ceiling.\n\nMost teams pour resources into data and compute, but ignore the harness. That's where untapped performance is lying dormant.",
+      "5. Audit your harness today.\n\nTake your current model and systematically test different inference configurations on a benchmark task. If you haven't done this, you're leaving gains on the table. What if your setup is the limit?"
+    ],
+    "video_script": [
+      "Nvidia's harness beats bigger models. How? It tunes inference, not just data.",
+      "Smaller models now outperform giants. The harness matters more than size.",
+      "Your model's ceiling is set by its harness, not parameter count.",
+      "Most teams ignore the harness, leaving hidden performance on the table.",
+      "Audit your harness today. Find hidden gains. Change what you can."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The real AI bottleneck?\n\nInference-time tuning, not just training data, is what separates Nvidia's new harness from the pack—and it's beating much larger models.",
+          "2. Size isn't destiny anymore.\n\nWith the right harness, smaller models are outperforming giants in head-to-head tests. The architecture is becoming less relevant than the control layer.",
+          "3. This flips the scaling race.\n\nFor years, the assumption was bigger equals better. Now, the ceiling is set by the harness—the inference strategy—not parameter count.",
+          "4. Your model's hidden ceiling.\n\nMost teams pour resources into data and compute, but ignore the harness. That's where untapped performance is lying dormant.",
+          "5. Audit your harness today.\n\nTake your current model and systematically test different inference configurations on a benchmark task. If you haven't done this, you're leaving gains on the table. What if your setup is the limit?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's harness beats bigger models. How? It tunes inference, not just data.",
+          "Smaller models now outperform giants. The harness matters more than size.",
+          "Your model's ceiling is set by its harness, not parameter count.",
+          "Most teams ignore the harness, leaving hidden performance on the table.",
+          "Audit your harness today. Find hidden gains. Change what you can."
+        ]
+      },
+      "instagram": {
+        "caption": "The biggest AI models aren't winning because of size anymore—Nvidia just proved the control system around the model does the heavy lifting.\n\nTheir new “harness” tunes how a model reasons at the moment you ask it something, not just how it was trained. With that tweak, smaller models beat much larger rivals in direct tests.\n\nThis kills the “bigger is better” arms race. Your results are now capped by your inference setup, not your parameter count. 🧠\n\nSo if you build with AI, your untapped speed and accuracy are probably hiding in your current settings. Stop retraining. Start reconfiguring. ⚙️\n\nWhen did you last audit your model's harness, not just its data? 🔍"
+      }
+    },
+    "instagram_caption": "The biggest AI models aren't winning because of size anymore—Nvidia just proved the control system around the model does the heavy lifting.\n\nTheir new “harness” tunes how a model reasons at the moment you ask it something, not just how it was trained. With that tweak, smaller models beat much larger rivals in direct tests.\n\nThis kills the “bigger is better” arms race. Your results are now capped by your inference setup, not your parameter count. 🧠\n\nSo if you build with AI, your untapped speed and accuracy are probably hiding in your current settings. Stop retraining. Start reconfiguring. ⚙️\n\nWhen did you last audit your model's harness, not just its data? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Is your model's size really the limit?",
+        "description": "Nvidia's new harness beats larger models through inference-time tuning. Size alone isn't destiny—the control layer now sets the ceiling.",
+        "visual_hint": "Scales tipping toward small model",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "balance scale weights"
+      },
+      {
+        "hook": "Training data isn't the only bottleneck.",
+        "description": "Inference-time tuning, not just training data, gives Nvidia's harness its edge. This flips the old assumption that bigger models always win.",
+        "visual_hint": "Tuning knobs on a control panel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "control panel knobs",
+        "image": "https://images.pexels.com/photos/8132738/pexels-photo-8132738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Smaller models are now beating giants.",
+        "description": "With the right harness, smaller models outperform larger ones in head-to-head tests. The architecture matters less than the inference strategy.",
+        "visual_hint": "Small robot outperforming big robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot competition arena",
+        "image": "https://images.pexels.com/photos/7868887/pexels-photo-7868887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your model's ceiling is hidden in the harness.",
+        "description": "Most teams pour resources into data and compute, but ignore the harness. That's where untapped performance is lying dormant.",
+        "visual_hint": "Ceiling with hidden trapdoor",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hidden door ceiling",
+        "image": "https://images.pexels.com/photos/8500291/pexels-photo-8500291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit your harness today.",
+        "description": "Take your current model and systematically test different inference configurations on a benchmark task. Find your hidden gains now.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+    "savedAt": "2026-08-21T20:16:23.063Z",
+    "sourceId": "4af5149f16f931f443ffb708617c6afa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "major-youtube-creators-are-facing-backlash-for-acc",
     "prompt_version": "1.0.0",
     "status": "published",
