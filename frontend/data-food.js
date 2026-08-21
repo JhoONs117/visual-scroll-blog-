@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "tagliata-di-petto-di-pollo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Tagliata di petto di pollo",
+    "link": "https://ricette.giallozafferano.it/Tagliata-di-petto-di-pollo.html",
+    "pubDate": "Fri, 21 Aug 2026 10:39:00 +0200",
+    "content": "Tagliata di petto di pollo con pomodorini e songino Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Tagliata di petto di pollo /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 20 min Cottura: 20 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE La tagliata di petto di pollo è un secondo piatto fresco e colorato, accompagnato da pomodorini ciliegini e songino . Una ricetta semplice ma sfiziosa, che si ispira alla classica tagliata di carne , ideale per portare in tavola il petto di pollo in una veste diversa dal solito. Il contrasto tra la carne saporita e le verdure fresche rende questa tagliata di pollo con pomodorini perfetta per un pasto leggero. Provatela anche voi e scoprite un modo appetitoso per arricchire il vostro menu con pochi ingredienti! E se avete amato questa ricetta ecco altre tagliate da non perdere: Tagliata di tacchino Tagliata di manzo al curry Tagliata di tonno Tagliata alle erbe aromatiche Tagliata con cipolle in agrodolce INGREDIENTI Petto di pollo (2 da 300 g l'uno, già puliti) 600 g Pomodorini ciliegino 400 g Songino 150 g Aglio 1 spicchio Vino bianco 100 ml Timo q.b. Rosmarino q.b. Olio extravergine d'oliva 30 g Sale fino q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Tagliata di petto di pollo Per preparare la tagliata di pollo lavate i pomodorini ciliegini, asciugateli e tagliateli in quarti 1 . Raccoglieteli in una ciotola e conditeli con sale, pepe, olio e timo. Mescolate con cura e teneteli da parte mentre preparate il pollo: in questo modo avranno il tempo di insaporirsi. Nel frattempo versate un filo d’olio in una padella capiente, aggiungete lo spicchio d’aglio schiacciato e il rosmarino 2 . Cuocete a fuoco basso per circa 3-4 minuti. Quando l’olio sarà ben caldo e profumato, eliminate l’aglio e il rosmarino. Adagiate nella padella i petti di pollo interi 3 . Salate 4 e alzate leggermente la fiamma. Rosolate i filetti per circa 4-5 minuti per lato, girandoli a metà cottura 5 in modo da ottenere una cottura uniforme e una superficie ben dorata. Sfumate con il vino bianco 6 . Lasciate evaporare la parte alcolica 7 . Proseguite la cottura per un altro paio di minuti o fino a quando il pollo sarà completamente cotto anche al cuore. Per verificarne la cottura, incidete la parte più spessa: il liquido che fuoriesce dovrà essere trasparente e la carne non dovrà presentare parti rosate. Togliete il pollo dalla padella e tenetelo momentaneamente da parte 8 . Lasciate restringere il fondo di cottura a fuoco sostenuto 9 . Dovrà risultare più concentrato e leggermente denso, quindi spegnete il fuoco 10 . Affettate il petto di pollo trasversalmente, ricavando delle fette regolari e abbastanza spesse, in modo da ottenere il classico aspetto della tagliata 11 . Unite il songino ai pomodorini preparati in precedenza 12 e mescolate delicatamente. Distribuite nei piatti il mix di songino e pomodorini 13 , sistemate sopra la tagliata di petto di pollo e completate con il fondo di cottura ristretto 14 e una macinata di pepe. Servite subito 15 . Conservazione Conservate la tagliata di petto di pollo in frigorifero, all’interno di un contenitore ben chiuso, e consumatela entro 2 giorni. Per mantenere al meglio consistenza e freschezza, se possibile conservate il pollo separatamente dal contorno. Si sconsiglia la congelazione. Consiglio Fate attenzione soprattutto alla fase di rosolatura: utilizzate una padella già ben calda e non spostate continuamente il pollo. Lasciandolo cuocere indisturbato per alcuni minuti su ciascun lato otterrete una doratura più uniforme. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Timo Aglio Olio di oliva Rosmarino Scopri tutto sugli ingredienti Presente in: Secondi piatti veloci , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Tagliata di petto di pollo Benessere Spaghetti con pomodorini e cucunci 3.3 McChicken® Il Mediterraneo 3.5 SCOPRI Petto di pollo Petto di pollo al limone Petto di pollo al curry Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Tagliata di pollo fresca con pomodorini e songino",
+      "Petto di pollo, pomodorini ciliegino, songino, timo",
+      "Rosola il pollo intero in padella aromatizzata",
+      "Sfuma col vino bianco e riduci il fondo",
+      "Affetta il pollo, servi su insalata con fondo"
+    ],
+    "instagram_caption": "La tagliata più fresca e colorata che potessi chiedere: via la noia del solito pollo, bentornata voglia di leggerezza! 🍋  \nIl segreto sta tutto in padella: rosolo il petto intero con timo finché non è dorato, poi lo sfumo col vino bianco e riduco quel fondo che è pura magia. Affetto tutto, lo adagio su un letto di songino croccante e pomodorini ciliegino dolcissimi. 💚  \nIl risultato? Un piatto unico che sa di stagione e si gusta in un attimo.  \nProvala questo weekend, il timo fa la differenza 🌿✨",
+    "formats": {
+      "instagram": {
+        "caption": "La tagliata più fresca e colorata che potessi chiedere: via la noia del solito pollo, bentornata voglia di leggerezza! 🍋  \nIl segreto sta tutto in padella: rosolo il petto intero con timo finché non è dorato, poi lo sfumo col vino bianco e riduco quel fondo che è pura magia. Affetto tutto, lo adagio su un letto di songino croccante e pomodorini ciliegino dolcissimi. 💚  \nIl risultato? Un piatto unico che sa di stagione e si gusta in un attimo.  \nProvala questo weekend, il timo fa la differenza 🌿✨"
+      },
+      "tiktok": {
+        "script": [
+          "Pollo fresco, pomodorini e songino, via!",
+          "Rosolo il pollo con timo in padella.",
+          "Sfumo col vino, riduco il fondo.",
+          "Taglio a fette il petto profumato.",
+          "Servo su insalata col fondo caldo."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Il pollo non è mai stato così sexy. Tagliata di petto, rosolata in padella col timo, servita su un letto di songino e pomodorini. Sembra una chef salata, ma si fa in 15 minuti. 🍗",
+          "Ingredienti: petto di pollo intero, pomodorini ciliegino, songino, timo fresco. Niente di più. Il segreto sta nel rosolare il pollo intero, non a fettine: così resta succoso dentro e croccante fuori.",
+          "Padella ben calda, un filo d'olio, timo che sfrigola. Ci metti il pollo intero e lo lasci lì, a fuoco medio-alto, finché non ha una crosticina dorata. Giralo solo quando cede. Pazienza, maestro.",
+          "Sfuma col vino bianco — senti quel profumo che sale? — e lascia ridurre il fondo. Nel frattempo, tagli i pomodorini e il songino in un piatto. Il pollo riposa 5 minuti, poi lo affetti.\n",
+          "Ecco il trucco: affettalo controfibbia, spesso, e adagialo sull'insalata. Poi versa sopra il fondo di padella ancora caldo. Il pollo si sposa con il songino in modo assurdo. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Pollo fresco, pomodorini e songino, via!",
+      "Rosolo il pollo con timo in padella.",
+      "Sfumo col vino, riduco il fondo.",
+      "Taglio a fette il petto profumato.",
+      "Servo su insalata col fondo caldo."
+    ],
+    "thread_text": [
+      "Il pollo non è mai stato così sexy. Tagliata di petto, rosolata in padella col timo, servita su un letto di songino e pomodorini. Sembra una chef salata, ma si fa in 15 minuti. 🍗",
+      "Ingredienti: petto di pollo intero, pomodorini ciliegino, songino, timo fresco. Niente di più. Il segreto sta nel rosolare il pollo intero, non a fettine: così resta succoso dentro e croccante fuori.",
+      "Padella ben calda, un filo d'olio, timo che sfrigola. Ci metti il pollo intero e lo lasci lì, a fuoco medio-alto, finché non ha una crosticina dorata. Giralo solo quando cede. Pazienza, maestro.",
+      "Sfuma col vino bianco — senti quel profumo che sale? — e lascia ridurre il fondo. Nel frattempo, tagli i pomodorini e il songino in un piatto. Il pollo riposa 5 minuti, poi lo affetti.\n",
+      "Ecco il trucco: affettalo controfibbia, spesso, e adagialo sull'insalata. Poi versa sopra il fondo di padella ancora caldo. Il pollo si sposa con il songino in modo assurdo. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Tagliata di pollo: fresca, veloce, irresistibile",
+        "description": "Una tagliata di pollo succosa e saporita, servita su un letto di insalata fresca con pomodorini e timo: leggera ma appagante.",
+        "visual_hint": "Pollo affettato su insalata",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory grilled chicken salad"
+      },
+      {
+        "hook": "Ingredienti: la freschezza comanda",
+        "description": "Petto di pollo tenero, pomodorini dolci, songino croccante e timo aromatico: pochi elementi, massimo gusto.",
+        "visual_hint": "Ingredienti disposti su tavola",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fresh chicken tomatoes salad ingredients",
+        "image": "https://images.pexels.com/photos/8966113/pexels-photo-8966113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola il pollo intero: segreto per la tenerezza",
+        "description": "Cuoci il petto intero in padella con timo e un filo d'olio: la crosta dorata sigilla i succhi e mantiene il pollo umido.",
+        "visual_hint": "Primo piano della padella in azione",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "pan searing chicken thyme",
+        "image": "https://images.pexels.com/photos/4253293/pexels-photo-4253293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sfuma col vino bianco",
+        "description": "Sfuma con vino bianco e lascia ridurre: il fondo diventa una salsa delicata che esalta il sapore del pollo e dell'insalata.",
+        "visual_hint": "Vino versato in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "deglazing pan white wine",
+        "image": "https://images.pexels.com/photos/36066809/pexels-photo-36066809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Affetta e servi: l'impiattamento da chef",
+        "description": "Affetta il petto a fette sottili, adagialo su songino e pomodorini, e condisci con il fondo: un piatto che conquista a ogni forchettata.",
+        "visual_hint": "Piatto pronto con pollo affettato",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "sliced chicken salad plate",
+        "image": "https://images.pexels.com/photos/8966113/pexels-photo-8966113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "petto di pollo",
+      "pomodorini ciliegino",
+      "songino"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36556/Tagliata-di-petto-di-pollo_650x433_wm.jpg",
+    "savedAt": "2026-08-21T10:25:30.684Z",
+    "sourceId": "af5345bc5fc83497d9c2788f4403a827"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pollo-allo-zenzero",
     "prompt_version": "1.0.0",
     "status": "published",

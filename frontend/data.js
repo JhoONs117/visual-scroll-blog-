@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "how-ai-coding-tools-are-contributing-to-the-popula",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How AI coding tools are contributing to the popularity of JavaScript",
+    "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+    "pubDate": "Fri, 21 Aug 2026 08:41:29 +0000",
+    "slides": [
+      "Can AI coding tools make JavaScript the default language?",
+      "Stack Overflow surveys show JavaScript's decade-long lead.",
+      "Those tools train mostly on JavaScript's vast codebases.",
+      "Your next project's AI suggestions will likely be JavaScript.",
+      "Try writing a small script in JavaScript right now."
+    ],
+    "thread_text": [
+      "1. AI's Hidden Bias\n\nStack Overflow's survey shows JavaScript has dominated for a decade, and AI tools are trained on that massive codebase.",
+      "2. Training Data Wins\n\nSince AI models learn from public code, JavaScript's sheer volume makes it the most likely suggestion for nearly any task.",
+      "3. The Default Effect\n\nAs developers accept these suggestions, JavaScript becomes the path of least resistance, even when another language might be better.",
+      "4. Your Project's Future\n\nIf you start a new project today, the AI's first suggestion will probably be JavaScript—shaping your entire codebase from the start.",
+      "5. Test It Yourself\n\nWrite a small script in JavaScript tonight and see if AI suggestions match your thought process. Are you ready to code the AI's way?"
+    ],
+    "video_script": [
+      "AI tools lean toward JavaScript, why?",
+      "Decade-long survey lead. So much code.",
+      "Training on that code makes it default.",
+      "Your next project gets JavaScript suggestions.",
+      "Try a small script now, see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI's Hidden Bias\n\nStack Overflow's survey shows JavaScript has dominated for a decade, and AI tools are trained on that massive codebase.",
+          "2. Training Data Wins\n\nSince AI models learn from public code, JavaScript's sheer volume makes it the most likely suggestion for nearly any task.",
+          "3. The Default Effect\n\nAs developers accept these suggestions, JavaScript becomes the path of least resistance, even when another language might be better.",
+          "4. Your Project's Future\n\nIf you start a new project today, the AI's first suggestion will probably be JavaScript—shaping your entire codebase from the start.",
+          "5. Test It Yourself\n\nWrite a small script in JavaScript tonight and see if AI suggestions match your thought process. Are you ready to code the AI's way?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI tools lean toward JavaScript, why?",
+          "Decade-long survey lead. So much code.",
+          "Training on that code makes it default.",
+          "Your next project gets JavaScript suggestions.",
+          "Try a small script now, see."
+        ]
+      },
+      "instagram": {
+        "caption": "JavaScript has topped Stack Overflow's developer survey for ten straight years—and now AI tools are trained mostly on that mountain of JavaScript code.\n\nThose coding assistants learn from public codebases, and JavaScript's sheer volume makes it their default suggestion for almost any task. When developers accept those suggestions, JavaScript quietly becomes the path of least resistance, even where another language might fit better. 🧠\n\nStart a new project today, and the AI's first recommendation will likely be JavaScript, shaping your entire codebase before you write a line yourself. ⚙️\n\nTry a small script in JavaScript tonight—does the AI's suggestion match how you'd actually think it through? 💭"
+      }
+    },
+    "instagram_caption": "JavaScript has topped Stack Overflow's developer survey for ten straight years—and now AI tools are trained mostly on that mountain of JavaScript code.\n\nThose coding assistants learn from public codebases, and JavaScript's sheer volume makes it their default suggestion for almost any task. When developers accept those suggestions, JavaScript quietly becomes the path of least resistance, even where another language might fit better. 🧠\n\nStart a new project today, and the AI's first recommendation will likely be JavaScript, shaping your entire codebase before you write a line yourself. ⚙️\n\nTry a small script in JavaScript tonight—does the AI's suggestion match how you'd actually think it through? 💭",
+    "carousel_slides": [
+      {
+        "hook": "Is JavaScript becoming the default?",
+        "description": "AI tools train on public code, and JavaScript's massive base makes it the most likely suggestion. This bias shapes every coding decision.",
+        "visual_hint": "Glowing JavaScript logo in code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "JavaScript code on screen"
+      },
+      {
+        "hook": "Decade-long dominance proves it",
+        "description": "Stack Overflow surveys show JavaScript leading for ten years. AI models learn from that vast codebase, reinforcing its advantage.",
+        "visual_hint": "Bar chart trending upward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "bar chart growth",
+        "image": "https://images.pexels.com/photos/5842061/pexels-photo-5842061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Training data decides everything",
+        "description": "Since AI learns from public code, JavaScript's sheer volume makes it the go-to suggestion for nearly any task, often over better options.",
+        "visual_hint": "Data streams into neural network",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network data",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next project starts with JS",
+        "description": "When you start a new project, AI's first suggestion will likely be JavaScript, influencing your entire codebase from the very beginning.",
+        "visual_hint": "Hand typing on laptop keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "typing on laptop",
+        "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it now and see for yourself",
+        "description": "Write a small script in JavaScript tonight. Notice if AI suggestions match your thinking. Then comment your experience below.",
+        "visual_hint": "Checkmark over code editor",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "code editor checkmark",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-21T10:20:42.684Z",
+    "sourceId": "25360e89e79a8b7637fd0d9175b71a18"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-gaining-on-anthropic-with-business-users",
     "prompt_version": "1.0.0",
     "status": "published",
