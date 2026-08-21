@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-ai-accounting-startup-rillet-raised-100m-and-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+  "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+  "pubDate": "Fri, 21 Aug 2026 22:10:01 +0000",
+  "slides": [
+    "Can a 48-hour funding round redefine accounting?",
+    "Rillet pitched AI bookkeeping to skeptical investors.",
+    "SoftBank committed $100M before the first demo ended.",
+    "Your finance team's workflows just became obsolete.",
+    "Audit your tools now before competitors do."
+  ],
+  "thread_text": [
+    "1. The 48-Hour Miracle\n\nSoftBank wired $100M into Rillet before the demo even ended. No due diligence, no board slides — just a live pitch that flipped the script on traditional funding.",
+    "2. Investors Were Skeptical\n\nRillet pitched AI bookkeeping to a room full of doubters. The turning point? A real-time ledger that cleaned itself. Skepticism turned to FOMO in minutes.",
+    "3. Your Workflow Is Obsolete\n\nIf AI can close books in hours, your team's manual reconciliation is a legacy process. The skill shift isn't coming — it's already pricing you out.",
+    "4. The Audit Race Is On\n\nYour competitors are reviewing their stacks right now. Those who wait for permission will lose the cost advantage. The gap between early and late adopters is about to widen.",
+    "5. Check Your Toolstack Today\n\nList every finance tool you use. Which ones require manual input? Run a small test with an AI assistant to see what breaks. If you haven't, start now."
+  ],
+  "video_script": [
+    "SoftBank invested $100M before the demo ended.",
+    "Investors were skeptical until the ledger fixed itself.",
+    "Your manual workflows are now obsolete.",
+    "Competitors are already auditing their finance tools.",
+    "Start testing AI on one workflow today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 48-Hour Miracle\n\nSoftBank wired $100M into Rillet before the demo even ended. No due diligence, no board slides — just a live pitch that flipped the script on traditional funding.",
+        "2. Investors Were Skeptical\n\nRillet pitched AI bookkeeping to a room full of doubters. The turning point? A real-time ledger that cleaned itself. Skepticism turned to FOMO in minutes.",
+        "3. Your Workflow Is Obsolete\n\nIf AI can close books in hours, your team's manual reconciliation is a legacy process. The skill shift isn't coming — it's already pricing you out.",
+        "4. The Audit Race Is On\n\nYour competitors are reviewing their stacks right now. Those who wait for permission will lose the cost advantage. The gap between early and late adopters is about to widen.",
+        "5. Check Your Toolstack Today\n\nList every finance tool you use. Which ones require manual input? Run a small test with an AI assistant to see what breaks. If you haven't, start now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "SoftBank invested $100M before the demo ended.",
+        "Investors were skeptical until the ledger fixed itself.",
+        "Your manual workflows are now obsolete.",
+        "Competitors are already auditing their finance tools.",
+        "Start testing AI on one workflow today."
+      ]
+    },
+    "instagram": {
+      "caption": "SoftBank wired $100M before the demo even ended—no due diligence, no board slides. 🚨\n\nRillet pitched AI bookkeeping to skeptics. The turnaround? A live ledger that cleaned itself in real time. Skepticism became FOMO in minutes. Your finance team's manual reconciliation is now legacy tech.\n\nIf AI closes books in hours, your current toolstack is pricing you out. Competitors are auditing their stacks right now.\n\nRun a small test: pick one tool that requires manual input and see if an AI assistant breaks it. 🔍\n\nWhich finance tool in your stack would fail that test today? 💸"
+    }
+  },
+  "instagram_caption": "SoftBank wired $100M before the demo even ended—no due diligence, no board slides. 🚨\n\nRillet pitched AI bookkeeping to skeptics. The turnaround? A live ledger that cleaned itself in real time. Skepticism became FOMO in minutes. Your finance team's manual reconciliation is now legacy tech.\n\nIf AI closes books in hours, your current toolstack is pricing you out. Competitors are auditing their stacks right now.\n\nRun a small test: pick one tool that requires manual input and see if an AI assistant breaks it. 🔍\n\nWhich finance tool in your stack would fail that test today? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Could a $100M wire arrive before demo ends?",
+      "description": "In just 48 hours, Rillet secured $100M from SoftBank, skipping due diligence. The live AI bookkeeping demo changed funding forever.",
+      "visual_hint": "Money transfer hologram, shocked investors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money transfer"
+    },
+    {
+      "hook": "Skeptics turned to FOMO in minutes.",
+      "description": "Rillet pitched AI bookkeeping to doubters. The real-time self-cleaning ledger flipped skepticism to urgency, proving that seeing is believing.",
+      "visual_hint": "Ledger screen, changing faces",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "ledger screen",
+      "image": "https://images.pexels.com/photos/8358048/pexels-photo-8358048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your manual reconciliation is obsolete.",
+      "description": "When AI closes books in hours, manual processes become legacy. The skill shift is pricing out those who cling to old workflows.",
+      "visual_hint": "Old vs new workflow comparison",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "old new workflow",
+      "image": "https://images.pexels.com/photos/7948029/pexels-photo-7948029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors are already auditing their stacks.",
+      "description": "Rivals are reviewing finance tools now. Those who wait lose the cost edge. The gap between early and late adopters is rapidly widening.",
+      "visual_hint": "Runners on track, gap forming",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "runners track",
+      "image": "https://images.pexels.com/photos/13159254/pexels-photo-13159254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Audit your tools today.",
+      "description": "List each finance tool, spot manual inputs, and test an AI assistant. Start now to uncover what breaks before competitors leave you behind.",
+      "visual_hint": "Checklist and magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist magnifying glass",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799",
+  "savedAt": "2026-08-21T22:14:11.607Z",
+  "sourceId": "a01edf0c52548f58bcebcb75904a3426"
+}
