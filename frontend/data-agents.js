@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "starcloud-raises-250-million-for-orbital-data-cent",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "slides": [
+        "Starcloud secured $250M—but launches are vanishing. Why now?",
+        "Orbital data centers promise unmatched latency, yet rockets face shortage.",
+        "Most capital will fund a launch contract—no rocket, no constellation.",
+        "Enterprises must hedge: ground fallback or pay stranded costs.",
+        "Test one orbital provider's demo before committing capacity."
+      ],
+      "thread_text": [
+        "1. $250M and no rockets\n\nStarcloud raised a quarter billion, but their launch calendar is empty. Without a ride to orbit, the constellation stays on paper.",
+        "2. The real bottleneck\n\nRocket providers are backed up for years. Even if Starcloud gets a slot, latency promises mean nothing if the satellite never leaves the ground.",
+        "3. Capital's cruel math\n\nMost of that funding will go to buying a launch contract—not building the network. If the rocket fails or slips, the money evaporates with it.",
+        "4. Your cloudy future\n\nEnterprises betting on orbital data centers face stranded costs if launches vanish. Without a ground fallback, your data pipeline stalls when the sky doesn't deliver.",
+        "5. Test before you trust\n\nBefore committing capacity, run one demo with an orbital provider. If they can't show a working link from space this quarter, your answer is no."
+      ],
+      "video_script": [
+        "Starcloud raised 250 million but has no rockets.",
+        "Launch shortages mean orbital data centers won't fly soon.",
+        "The money goes to launch contracts, not the network.",
+        "Enterprises need ground fallbacks or risk stranded costs.",
+        "Test one orbital provider's demo before you commit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $250M and no rockets\n\nStarcloud raised a quarter billion, but their launch calendar is empty. Without a ride to orbit, the constellation stays on paper.",
+            "2. The real bottleneck\n\nRocket providers are backed up for years. Even if Starcloud gets a slot, latency promises mean nothing if the satellite never leaves the ground.",
+            "3. Capital's cruel math\n\nMost of that funding will go to buying a launch contract—not building the network. If the rocket fails or slips, the money evaporates with it.",
+            "4. Your cloudy future\n\nEnterprises betting on orbital data centers face stranded costs if launches vanish. Without a ground fallback, your data pipeline stalls when the sky doesn't deliver.",
+            "5. Test before you trust\n\nBefore committing capacity, run one demo with an orbital provider. If they can't show a working link from space this quarter, your answer is no."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Starcloud raised 250 million but has no rockets.",
+            "Launch shortages mean orbital data centers won't fly soon.",
+            "The money goes to launch contracts, not the network.",
+            "Enterprises need ground fallbacks or risk stranded costs.",
+            "Test one orbital provider's demo before you commit."
+          ]
+        },
+        "instagram": {
+          "caption": "$250 million raised, zero rockets booked. Starcloud's orbital data center dream just hit Earth's atmosphere 🛰️\n\nMost of that cash won't build satellites—it'll buy a launch slot that doesn't exist yet. Rocket providers are backlogged for years, and if the launch slips, the money burns with the timeline.\n\nYour content pipeline still lives on ground servers today. If you're planning around space-based latency, you're planning on a promise that hasn't left the pad.\n\nAsk any orbital provider: \"Show me a live link from orbit this quarter—or I walk.\" If they can't, your answer is no 💸\n\nWhat's your backup when the sky says \"not yet\"?"
+        }
+      },
+      "instagram_caption": "$250 million raised, zero rockets booked. Starcloud's orbital data center dream just hit Earth's atmosphere 🛰️\n\nMost of that cash won't build satellites—it'll buy a launch slot that doesn't exist yet. Rocket providers are backlogged for years, and if the launch slips, the money burns with the timeline.\n\nYour content pipeline still lives on ground servers today. If you're planning around space-based latency, you're planning on a promise that hasn't left the pad.\n\nAsk any orbital provider: \"Show me a live link from orbit this quarter—or I walk.\" If they can't, your answer is no 💸\n\nWhat's your backup when the sky says \"not yet\"?",
+      "carousel_slides": [
+        {
+          "hook": "Raising $250M without a rocket?",
+          "description": "Starcloud raised $250M but no launch slots yet. Their network is on paper until a rocket flies. Capital alone doesn't reach orbit.",
+          "visual_hint": "Rocket with dollar signs",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "rocket launch pad"
+        },
+        {
+          "hook": "Rockets shortages block every orbit dream",
+          "description": "Rocket providers are booked for years, so even with funding, launch delays risk your latency promises. The sky remains out of reach.",
+          "visual_hint": "Rocket queue in space",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket launch countdown",
+          "image": "https://images.pexels.com/photos/37767622/pexels-photo-37767622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your funding goes to buy a launch slot",
+          "description": "Most of the $250M will buy launch contracts, not satellites. If a launch slips, that money evaporates before the network exists.",
+          "visual_hint": "Money evaporating from rocket",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "money burning rocket",
+          "image": "https://images.pexels.com/photos/4588675/pexels-photo-4588675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Without ground fallback you're stranded in orbit",
+          "description": "Enterprises betting on orbital data centers suffer stranded costs if launches vanish. A ground backup keeps data flowing when the sky fails.",
+          "visual_hint": "Broken sky with ground base",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding falling satellite",
+          "image": "https://images.pexels.com/photos/38836007/pexels-photo-38836007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one demo before you buy capacity",
+          "description": "Ask any orbital provider for a live demo this quarter. No working link from space means no commitment—protect your pipeline now.",
+          "visual_hint": "Satellite connecting to cloud",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "satellite communication antenna",
+          "image": "https://images.pexels.com/photos/18901338/pexels-photo-18901338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
+      "savedAt": "2026-08-21T14:25:24.346Z",
+      "sourceId": "f30a4a32fb60e7f4ada01c4d9594d5ee"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "how-ai-coding-tools-are-contributing-to-the-popula",
       "prompt_version": "1.0.0",
       "status": "published",
