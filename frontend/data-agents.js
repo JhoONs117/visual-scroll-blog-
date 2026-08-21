@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-gaining-on-anthropic-with-business-users",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "slides": [
+        "Can OpenAI finally outmaneuver Anthropic for enterprise deals?",
+        "New data shows OpenAI's business adoption is accelerating quickly.",
+        "Anthropic's safety focus may be slowing its enterprise contract wins.",
+        "For your next vendor bid, OpenAI's pricing just became more persuasive.",
+        "Redo your AI vendor scorecard before the next renewal."
+      ],
+      "thread_text": [
+        "1. OpenAI's quiet enterprise coup\n\nWhile Anthropic touts safety, OpenAI's API traffic from Fortune 500s just jumped 30% this quarter.",
+        "2. Safety-first stalls sales\n\nAnthropic's lengthy reviews are dragging deal timelines, letting OpenAI slip in with speedier procurement.",
+        "3. Pricing just got sharper\n\nOpenAI's new per-token rates undercut Anthropic by 20% on high-volume workloads, shifting the ROI math.",
+        "4. Scorecards need a refresh\n\nYour vendor checklist still weighs safety over speed, but the market has flipped—update before renewals.",
+        "5. Run the test this week\n\nPit both models on your own dataset and compare latency. Will you let a 20% saving decide?"
+      ],
+      "video_script": [
+        "OpenAI is grabbing enterprise deals while Anthropic hesitates.",
+        "Safety reviews slow down Anthropic's sales pitch.",
+        "OpenAI's pricing now undercuts by twenty percent.",
+        "Your vendor scorecard is outdated and must change.",
+        "Test both models now or risk regretting later."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI's quiet enterprise coup\n\nWhile Anthropic touts safety, OpenAI's API traffic from Fortune 500s just jumped 30% this quarter.",
+            "2. Safety-first stalls sales\n\nAnthropic's lengthy reviews are dragging deal timelines, letting OpenAI slip in with speedier procurement.",
+            "3. Pricing just got sharper\n\nOpenAI's new per-token rates undercut Anthropic by 20% on high-volume workloads, shifting the ROI math.",
+            "4. Scorecards need a refresh\n\nYour vendor checklist still weighs safety over speed, but the market has flipped—update before renewals.",
+            "5. Run the test this week\n\nPit both models on your own dataset and compare latency. Will you let a 20% saving decide?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI is grabbing enterprise deals while Anthropic hesitates.",
+            "Safety reviews slow down Anthropic's sales pitch.",
+            "OpenAI's pricing now undercuts by twenty percent.",
+            "Your vendor scorecard is outdated and must change.",
+            "Test both models now or risk regretting later."
+          ]
+        },
+        "instagram": {
+          "caption": "Fortune 500 API traffic just jumped 30% in one quarter. That’s not a vibe—it’s a procurement shift.\n\nOpenAI is closing enterprise deals faster than Anthropic, whose safety reviews are dragging timelines to weeks. At the same time, per-token pricing undercuts Anthropic by 20% on high-volume workloads. Your vendor scorecard still ranks safety over speed, but the market just flipped that equation.\n\nFor you, that means next renewal is the moment to re-test both on your own data—not their marketing pages. Latency and cost now beat caution in the vendor bid. \n\nRun the same prompt set on both APIs this week 📉⚖️. Will a 20% savings outweigh the review delays on your side?"
+        }
+      },
+      "instagram_caption": "Fortune 500 API traffic just jumped 30% in one quarter. That’s not a vibe—it’s a procurement shift.\n\nOpenAI is closing enterprise deals faster than Anthropic, whose safety reviews are dragging timelines to weeks. At the same time, per-token pricing undercuts Anthropic by 20% on high-volume workloads. Your vendor scorecard still ranks safety over speed, but the market just flipped that equation.\n\nFor you, that means next renewal is the moment to re-test both on your own data—not their marketing pages. Latency and cost now beat caution in the vendor bid. \n\nRun the same prompt set on both APIs this week 📉⚖️. Will a 20% savings outweigh the review delays on your side?",
+      "carousel_slides": [
+        {
+          "hook": "Is OpenAI overtaking Anthropic on enterprise deals?",
+          "description": "OpenAI's API traffic from Fortune 500s jumped 30% this quarter, signaling a shift in business adoption.",
+          "visual_hint": "Two scale icons, one tipping",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "business handshake"
+        },
+        {
+          "hook": "Safety focus may be slowing Anthropic's sales.",
+          "description": "Anthropic's lengthy reviews drag deal timelines, letting OpenAI slip in with speedier procurement.",
+          "visual_hint": "Hourglass with a lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hourglass clock",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pricing just got 20% sharper.",
+          "description": "OpenAI's new per-token rates undercut Anthropic by 20% on high-volume workloads, shifting ROI math.",
+          "visual_hint": "Price tag with a 20% arrow",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "price tag",
+          "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vendor scorecards need a refresh.",
+          "description": "Your checklist still weighs safety over speed, but the market has flipped—update before renewals.",
+          "visual_hint": "Hand holding updated scorecard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run both models this week.",
+          "description": "Pit OpenAI and Anthropic on your own data to compare latency. Will a 20% saving decide?",
+          "visual_hint": "Three dots inside a comment bubble",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop code",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "savedAt": "2026-08-21T02:55:12.392Z",
+      "sourceId": "08dddb48c1bd24f550f9585c76171adb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "learn-what-vcs-actually-want-from-a-founder-who-s-",
       "prompt_version": "1.0.0",
       "status": "published",
