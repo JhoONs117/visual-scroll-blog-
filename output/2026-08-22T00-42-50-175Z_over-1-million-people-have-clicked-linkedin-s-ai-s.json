@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "over-1-million-people-have-clicked-linkedin-s-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+  "pubDate": "2026-08-21T21:25:50.000Z",
+  "slides": [
+    "One million clicked LinkedIn's AI slop button—why?",
+    "The button suggests 'repost' with AI-generated praise.",
+    "But few admit they used it, unlike this data.",
+    "Your feed now rewards fake engagement over real insight.",
+    "Next post: ignore the button, write your own take."
+  ],
+  "thread_text": [
+    "1. Why the button?\n\nOne million clicked LinkedIn's AI slop button, yet almost nobody admits it.",
+    "2. The hidden praise\n\nThe button auto-generates compliments like 'Great insights!' to boost reposts.",
+    "3. The silent majority\n\nData shows clicks, but users deny—creating a culture of fake engagement.",
+    "4. The feed's new law\n\nAlgorithms now reward AI flattery over genuine thought, burying real insight.",
+    "5. Ignore the button\n\nNext time you see it, write your own take. Test it—your feed will thank you."
+  ],
+  "video_script": [
+    "One million clicked the AI slop button.",
+    "It auto-praises to drive reposts.",
+    "But no one admits they used it.",
+    "Your feed rewards fake engagement now.",
+    "Write your own take, skip the button."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the button?\n\nOne million clicked LinkedIn's AI slop button, yet almost nobody admits it.",
+        "2. The hidden praise\n\nThe button auto-generates compliments like 'Great insights!' to boost reposts.",
+        "3. The silent majority\n\nData shows clicks, but users deny—creating a culture of fake engagement.",
+        "4. The feed's new law\n\nAlgorithms now reward AI flattery over genuine thought, burying real insight.",
+        "5. Ignore the button\n\nNext time you see it, write your own take. Test it—your feed will thank you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "One million clicked the AI slop button.",
+        "It auto-praises to drive reposts.",
+        "But no one admits they used it.",
+        "Your feed rewards fake engagement now.",
+        "Write your own take, skip the button."
+      ]
+    },
+    "instagram": {
+      "caption": "A million people clicked LinkedIn’s “repost with AI praise” button—yet almost none of them will say they did.  \n\nThe button silently generates flattery like “Great insights!” and attaches it to your repost. The click data is there, but the admissions aren’t.  \n\nYour feed is now rewarding that fake engagement over actual thought—so real commentary sinks lower.  \n\nIf you create or post content, this is the new metric: flattery outperforms insight.  \n\nNext time the button pops up, will you type your own take—or let the algorithm praise for you? 🙂"
+    }
+  },
+  "instagram_caption": "A million people clicked LinkedIn’s “repost with AI praise” button—yet almost none of them will say they did.  \n\nThe button silently generates flattery like “Great insights!” and attaches it to your repost. The click data is there, but the admissions aren’t.  \n\nYour feed is now rewarding that fake engagement over actual thought—so real commentary sinks lower.  \n\nIf you create or post content, this is the new metric: flattery outperforms insight.  \n\nNext time the button pops up, will you type your own take—or let the algorithm praise for you? 🙂",
+  "carousel_slides": [
+    {
+      "hook": "Clicks, but nobody admits it.",
+      "description": "One million clicked LinkedIn's AI slop button, yet almost everyone denies it. The data exposes a culture of hidden, fake engagement.",
+      "visual_hint": "One million counters, hidden faces",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "analytics dashboard counter"
+    },
+    {
+      "hook": "Auto-generated compliments, zero effort.",
+      "description": "The button instantly generates praise like 'Great insights!' to boost reposts. It rewards laziness, not real engagement.",
+      "visual_hint": "AI text bubble over repost icon",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The silent majority of fakers.",
+      "description": "Data shows clicks, but users deny using it. This silent majority drives a culture where fake engagement outshines genuine thought.",
+      "visual_hint": "Silhouette crowd, one highlighted click",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "crowd of people",
+      "image": "https://images.pexels.com/photos/14664104/pexels-photo-14664104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Algorithms now prefer flattery.",
+      "description": "LinkedIn's algorithm rewards AI flattery over real insight, burying authentic posts. Your feed becomes a echo chamber of empty praise.",
+      "visual_hint": "Hand pressing like, feed buried",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching smartphone screen",
+      "image": "https://images.pexels.com/photos/7657488/pexels-photo-7657488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skip the button, write your own.",
+      "description": "Next time you see it, type a personal take. Test it—your feed will thank you with real engagement.",
+      "visual_hint": "Keyboard with cursor, 'write' text",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "typing on keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&amp;strip=all&amp;crop=0,13.767459555427,100,72.465080889147",
+  "savedAt": "2026-08-22T00:43:03.408Z",
+  "sourceId": "1cd4198d78c973adcc320149d6a48142"
+}
