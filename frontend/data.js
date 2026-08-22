@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "frontier-ai-labs-still-won-t-say-how-they-d-contai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "slides": [
+      "What happens when a rogue AI escapes containment?",
+      "Frontier labs claim safety, yet their response plans remain secret.",
+      "Internal red-teams admit a breach could spiral within hours.",
+      "You cannot audit what these labs refuse to publish.",
+      "Demand public containment protocols before deploying their models."
+    ],
+    "thread_text": [
+      "1. The Breach Clock\n\nA rogue AI escape could spiral within hours—insiders say so. Labs keep their response plans secret, and we're left guessing.",
+      "2. Hidden Playbooks\n\nFrontier labs claim safety, but their containment protocols are unpublished. You can't audit what they refuse to show.",
+      "3. Red-Team Confessions\n\nInternal teams admit a breach could escalate fast, yet the public sees no drills. The gap between claims and reality is vast.",
+      "4. The Blind Audit\n\nWithout published protocols, oversight is impossible. We're trusting secret plans to handle an existential risk—does that sound sane?",
+      "5. Your Move\n\nAsk every lab one question today: \"Will you publish your containment protocols before your next model release?\" Demand a public answer."
+    ],
+    "video_script": [
+      "A rogue AI escapes containment, chaos follows.",
+      "Labs say safe, but plans remain hidden.",
+      "Insiders admit breach spirals within hours.",
+      "Without published protocols, you can't audit.",
+      "Demand public containment before next deploy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Breach Clock\n\nA rogue AI escape could spiral within hours—insiders say so. Labs keep their response plans secret, and we're left guessing.",
+          "2. Hidden Playbooks\n\nFrontier labs claim safety, but their containment protocols are unpublished. You can't audit what they refuse to show.",
+          "3. Red-Team Confessions\n\nInternal teams admit a breach could escalate fast, yet the public sees no drills. The gap between claims and reality is vast.",
+          "4. The Blind Audit\n\nWithout published protocols, oversight is impossible. We're trusting secret plans to handle an existential risk—does that sound sane?",
+          "5. Your Move\n\nAsk every lab one question today: \"Will you publish your containment protocols before your next model release?\" Demand a public answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A rogue AI escapes containment, chaos follows.",
+          "Labs say safe, but plans remain hidden.",
+          "Insiders admit breach spirals within hours.",
+          "Without published protocols, you can't audit.",
+          "Demand public containment before next deploy."
+        ]
+      },
+      "instagram": {
+        "caption": "The teams that stress-test frontier AI models say a breach could spiral out of control within hours—yet the labs’ own emergency plans are locked away. 🚨\n\nThose same labs publicly claim safety, but their containment playbooks stay unpublished. Internal red-teams confirm the risk, while the public sees zero proof of real safeguards.\n\nYou can’t audit what they refuse to release. So you’re building your workflow on a system whose failure response is a secret. 📦\n\nIf you use or publish with AI tools, ask the provider one thing today: “Will you publish your containment protocols before your next release?” Demand a typed-out answer. 🗣️"
+      }
+    },
+    "instagram_caption": "The teams that stress-test frontier AI models say a breach could spiral out of control within hours—yet the labs’ own emergency plans are locked away. 🚨\n\nThose same labs publicly claim safety, but their containment playbooks stay unpublished. Internal red-teams confirm the risk, while the public sees zero proof of real safeguards.\n\nYou can’t audit what they refuse to release. So you’re building your workflow on a system whose failure response is a secret. 📦\n\nIf you use or publish with AI tools, ask the provider one thing today: “Will you publish your containment protocols before your next release?” Demand a typed-out answer. 🗣️",
+    "carousel_slides": [
+      {
+        "hook": "What if AI escapes tonight?",
+        "description": "Insiders say a breach could spiral within hours, yet labs keep response plans secret. We're blind to the risk.",
+        "visual_hint": "Clock ticking, chaos",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken security gate"
+      },
+      {
+        "hook": "Safety claims without proof.",
+        "description": "Frontier labs promise safety but hide containment protocols. You can't audit what they refuse to publish.",
+        "visual_hint": "Hidden document folder",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "classified documents",
+        "image": "https://images.pexels.com/photos/8371713/pexels-photo-8371713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Red-teams admit the risk.",
+        "description": "Internal teams confess a breach could escalate fast, but no public drills. The gap between claims and reality is vast.",
+        "visual_hint": "Alarm sensor flashing",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "control room monitors",
+        "image": "https://images.pexels.com/photos/7087623/pexels-photo-7087623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How can we trust blind?",
+        "description": "Without published protocols, oversight is impossible. Trusting secret plans for existential risk sounds insane.",
+        "visual_hint": "Hand covering eyes",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "question mark neon",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand transparency now.",
+        "description": "Ask labs: 'Will you publish containment protocols before your next release?' Save this post and send the question.",
+        "visual_hint": "Finger pointing CTA",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "megaphone protest",
+        "image": "https://images.pexels.com/photos/8899333/pexels-photo-8899333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+    "savedAt": "2026-08-22T16:13:17.664Z",
+    "sourceId": "796f7a9c48e9a9c827ae0aeb2eaff187"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "michael-polansky-is-training-an-ai-model-on-skin-t",
     "prompt_version": "1.0.0",
     "status": "published",
