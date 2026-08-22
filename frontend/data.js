@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "michael-polansky-is-training-an-ai-model-on-skin-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "pubDate": "Sat, 22 Aug 2026 01:31:04 +0000",
+    "slides": [
+      "Michael Polansky trains AI on living skin—why?",
+      "The tissue stays alive outside the body for weeks.",
+      "This model learns from cells, not static images.",
+      "Drug testing could shift from animals to this.",
+      "Your next prescription may rely on living data."
+    ],
+    "thread_text": [
+      "1. Why train AI on living skin?\n\nMichael Polansky's model learns from cells that stay alive for weeks in the lab.",
+      "2. Not static images.\n\nThis AI studies how tissue responds in real time, learning from behavior, not just snapshots.",
+      "3. The animal testing shift.\n\nDrug trials could move from animals to living human tissue, changing how treatments are tested.",
+      "4. Your next prescription.\n\nMedications may be designed and verified using data from living cells, making results more relevant to you.",
+      "5. Ask your doctor today.\n\nWould you trust a drug tested on living human tissue instead of animals? Bring it up at your next visit."
+    ],
+    "video_script": [
+      "Living skin trains AI for weeks",
+      "This AI learns from cells, not images",
+      "Animal drug testing may be replaced",
+      "Your next prescription could depend on it",
+      "Ask your doctor about living data"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why train AI on living skin?\n\nMichael Polansky's model learns from cells that stay alive for weeks in the lab.",
+          "2. Not static images.\n\nThis AI studies how tissue responds in real time, learning from behavior, not just snapshots.",
+          "3. The animal testing shift.\n\nDrug trials could move from animals to living human tissue, changing how treatments are tested.",
+          "4. Your next prescription.\n\nMedications may be designed and verified using data from living cells, making results more relevant to you.",
+          "5. Ask your doctor today.\n\nWould you trust a drug tested on living human tissue instead of animals? Bring it up at your next visit."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Living skin trains AI for weeks",
+          "This AI learns from cells, not images",
+          "Animal drug testing may be replaced",
+          "Your next prescription could depend on it",
+          "Ask your doctor about living data"
+        ]
+      },
+      "instagram": {
+        "caption": "Drug testing on animals might soon be replaced by AI learning from skin that stays alive for weeks in a lab—not frozen cells, not images, but living tissue reacting in real time. 🧫\n\nMichael Polansky’s model watches how that tissue behaves under different conditions, studying responses instead of snapshots. That means drugs could be tested on human-like data, not animal proxies, before they ever reach you. 💊\n\nFor anyone in pharma, biotech, or content covering medicine: the next “clinical trial” you write about may cite living tissue responses, not rodent outcomes.\n\nWould you trust a prescription validated on living human skin instead of mice? Ask your doctor at your next appointment—see what they say. 🩺"
+      }
+    },
+    "instagram_caption": "Drug testing on animals might soon be replaced by AI learning from skin that stays alive for weeks in a lab—not frozen cells, not images, but living tissue reacting in real time. 🧫\n\nMichael Polansky’s model watches how that tissue behaves under different conditions, studying responses instead of snapshots. That means drugs could be tested on human-like data, not animal proxies, before they ever reach you. 💊\n\nFor anyone in pharma, biotech, or content covering medicine: the next “clinical trial” you write about may cite living tissue responses, not rodent outcomes.\n\nWould you trust a prescription validated on living human skin instead of mice? Ask your doctor at your next appointment—see what they say. 🩺",
+    "carousel_slides": [
+      {
+        "hook": "Could AI replace animal testing?",
+        "description": "Michael Polansky trains AI on living skin that stays alive for weeks. This could shift drug testing from animals to human tissue, making results more relevant.",
+        "visual_hint": "Living skin in a petri dish",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "petri dish skin"
+      },
+      {
+        "hook": "Tissue stays alive for weeks.",
+        "description": "The skin model survives outside the body for weeks, letting AI study real-time responses. This means more accurate drug testing than static images.",
+        "visual_hint": "Lab tissue sample",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "lab tissue sample",
+        "image": "https://images.pexels.com/photos/36372296/pexels-photo-36372296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI learns from living cells.",
+        "description": "This AI learns from cell behavior, not snapshots. It watches how tissue reacts over time, offering deeper insights into drug effects.",
+        "visual_hint": "AI neural network on cells",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network cells",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Drug testing without animals.",
+        "description": "Drug trials could move from animals to living human tissue. This change could make treatments safer and more relevant to humans.",
+        "visual_hint": "Human hand with pill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding pill",
+        "image": "https://images.pexels.com/photos/5207306/pexels-photo-5207306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your doctor about this.",
+        "description": "Would you trust a drug tested on living human tissue? Save this post and bring it up at your next doctor's visit.",
+        "visual_hint": "Doctor with patient",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "doctor patient conversation",
+        "image": "https://images.pexels.com/photos/7659876/pexels-photo-7659876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759",
+    "savedAt": "2026-08-22T02:47:03.465Z",
+    "sourceId": "8014b9bf1f1852249ef2111ba7bc1b1c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "over-1-million-people-have-clicked-linkedin-s-ai-s",
     "prompt_version": "1.0.0",
     "status": "published",
