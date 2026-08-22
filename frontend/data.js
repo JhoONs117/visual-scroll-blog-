@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-says-california-should-strengthen-its-ai-sa",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
+    "slides": [
+      "Why does OpenAI back stricter AI rules now?",
+      "It urges California to amend SB 1047.",
+      "OpenAI fears overregulation, yet seeks targeted safeguards.",
+      "New rules would demand safety testing for frontier models.",
+      "Act now: tell lawmakers to support balanced provisions."
+    ],
+    "thread_text": [
+      "1. Why now?\n\nOpenAI is backing stricter AI rules in California, but only if SB 1047 is amended first.",
+      "2. The fear\n\nOpenAI's real worry: overregulation could kill innovation, so they're pushing for targeted safeguards.",
+      "3. The demand\n\nNew rules would require safety testing for frontier models—a first for the industry.",
+      "4. The stake\n\nWithout amendments, SB 1047 could cripple open-source AI development in the state.",
+      "5. Your move\n\nTell your California lawmakers to support balanced provisions today. Will you?"
+    ],
+    "video_script": [
+      "OpenAI wants stricter AI rules now.",
+      "But they fear overregulation's impact.",
+      "They want targeted safety testing.",
+      "SB 1047 could change everything.",
+      "Tell lawmakers to support balance."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why now?\n\nOpenAI is backing stricter AI rules in California, but only if SB 1047 is amended first.",
+          "2. The fear\n\nOpenAI's real worry: overregulation could kill innovation, so they're pushing for targeted safeguards.",
+          "3. The demand\n\nNew rules would require safety testing for frontier models—a first for the industry.",
+          "4. The stake\n\nWithout amendments, SB 1047 could cripple open-source AI development in the state.",
+          "5. Your move\n\nTell your California lawmakers to support balanced provisions today. Will you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI wants stricter AI rules now.",
+          "But they fear overregulation's impact.",
+          "They want targeted safety testing.",
+          "SB 1047 could change everything.",
+          "Tell lawmakers to support balance."
+        ]
+      },
+      "instagram": {
+        "caption": "California wants to force AI labs to run safety tests on their biggest models before release—and OpenAI just sided with the regulators, with conditions.  \n\nThe company is urging lawmakers to amend SB 1047, warning that a blanket law could strangle open-source development. Instead, it wants targeted testing rules for frontier systems only.  \n\nIf this passes, every major model launch in the state faces new compliance hurdles—slower releases, higher costs, fewer open weights. For creators and startups relying on free AI tools, that could mean less access.  \n\nAre you okay with trading faster innovation for stricter guardrails, or do you see this as the only way to keep runaway systems safe? 🧪⚖️💻"
+      }
+    },
+    "instagram_caption": "California wants to force AI labs to run safety tests on their biggest models before release—and OpenAI just sided with the regulators, with conditions.  \n\nThe company is urging lawmakers to amend SB 1047, warning that a blanket law could strangle open-source development. Instead, it wants targeted testing rules for frontier systems only.  \n\nIf this passes, every major model launch in the state faces new compliance hurdles—slower releases, higher costs, fewer open weights. For creators and startups relying on free AI tools, that could mean less access.  \n\nAre you okay with trading faster innovation for stricter guardrails, or do you see this as the only way to keep runaway systems safe? 🧪⚖️💻",
+    "carousel_slides": [
+      {
+        "hook": "OpenAI fears its own regulation?",
+        "description": "OpenAI backs California stricter AI bill but only if amended. Overregulation could kill innovation, so they seek targeted safeguards.",
+        "visual_hint": "Silicon Valley skyline",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Silicon Valley skyline"
+      },
+      {
+        "hook": "Why now? Because overregulation hurts.",
+        "description": "OpenAI worries SB 1047 without amendments could cripple open-source AI development. They're pushing for balanced, targeted rules.",
+        "visual_hint": "Balance scale with code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "balance scale",
+        "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First-ever safety tests for frontier AI.",
+        "description": "New rules would require safety testing for frontier models—an industry first. But amendments are needed to avoid stifling innovation.",
+        "visual_hint": "AI chip with glowing circuits",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "AI chip",
+        "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Without changes, open-source suffers.",
+        "description": "If SB 1047 isn't amended, open-source AI development in California could be crippled. Lawmakers must listen to concerns.",
+        "visual_hint": "Open source code on screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to tell lawmakers now.",
+        "description": "Contact your California representatives today. Urge them to support balanced provisions in SB 1047. Your voice matters.",
+        "visual_hint": "Hand writing message",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "writing letter",
+        "image": "https://images.pexels.com/photos/7333595/pexels-photo-7333595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "savedAt": "2026-08-22T22:13:29.108Z",
+    "sourceId": "39119bad22dbbf0e98d96157ef02ef70"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "harvard-s-699-startup-bootcamp-offers-ai-avatars-o",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "slides": [
+      "Can a $699 bootcamp clone Harvard's professors?",
+      "Its AI avatars let instructors teach thousands simultaneously.",
+      "But these avatars answer with only approved course content.",
+      "Your certificate lacks the Harvard name—it's from the platform.",
+      "Test one avatar's response against a real lecture first."
+    ],
+    "thread_text": [
+      "1. The $699 Clone\n\nA bootcamp sells AI avatars of Harvard professors. Your certificate won't say Harvard—just the platform's name.",
+      "2. Teach Thousands at Once\n\nAvatars let one instructor reach thousands of students simultaneously. But every answer is locked to approved course content only.",
+      "3. The Approval Cage\n\nAsk outside the syllabus and the avatar deflects. It's education on rails, not a real professor's mind.",
+      "4. The Real Test\n\nBefore you buy, compare an avatar's answer to a live lecture on the same topic. Spot the gaps?",
+      "5. Try It Yourself\n\nTake a real lecture question and run it through a free AI. If the answer feels hollow, imagine paying $699 for that."
+    ],
+    "video_script": [
+      "$699 bootcamp clones Harvard's professors with AI.",
+      "Avatars teach thousands but only approved content.",
+      "Your certificate lacks the Harvard name.",
+      "Test an avatar against a real lecture.",
+      "Don't buy before you compare."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $699 Clone\n\nA bootcamp sells AI avatars of Harvard professors. Your certificate won't say Harvard—just the platform's name.",
+          "2. Teach Thousands at Once\n\nAvatars let one instructor reach thousands of students simultaneously. But every answer is locked to approved course content only.",
+          "3. The Approval Cage\n\nAsk outside the syllabus and the avatar deflects. It's education on rails, not a real professor's mind.",
+          "4. The Real Test\n\nBefore you buy, compare an avatar's answer to a live lecture on the same topic. Spot the gaps?",
+          "5. Try It Yourself\n\nTake a real lecture question and run it through a free AI. If the answer feels hollow, imagine paying $699 for that."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "$699 bootcamp clones Harvard's professors with AI.",
+          "Avatars teach thousands but only approved content.",
+          "Your certificate lacks the Harvard name.",
+          "Test an avatar against a real lecture.",
+          "Don't buy before you compare."
+        ]
+      },
+      "instagram": {
+        "caption": "A $699 bootcamp sells AI clones of Harvard instructors, but your certificate won’t carry the Harvard name.\n\nThese avatars can teach thousands at once, yet they only answer from pre-approved course material. Ask something off-script and they deflect—it’s a locked-down syllabus, not a professor’s live thinking.\n\nFor anyone creating courses or content, this is a blueprint: scale your voice, lose your nuance. 📉 Before paying, test an avatar’s reply against a real lecture on the same topic—you’ll spot the gaps. 🧠\n\nWhat question would you ask a cloned instructor to prove it’s not just a FAQ bot? 🤖"
+      }
+    },
+    "instagram_caption": "A $699 bootcamp sells AI clones of Harvard instructors, but your certificate won’t carry the Harvard name.\n\nThese avatars can teach thousands at once, yet they only answer from pre-approved course material. Ask something off-script and they deflect—it’s a locked-down syllabus, not a professor’s live thinking.\n\nFor anyone creating courses or content, this is a blueprint: scale your voice, lose your nuance. 📉 Before paying, test an avatar’s reply against a real lecture on the same topic—you’ll spot the gaps. 🧠\n\nWhat question would you ask a cloned instructor to prove it’s not just a FAQ bot? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "AI professors. Real Harvard? Not quite.",
+        "description": "Harvard's $699 bootcamp sells AI avatars of its instructors. But your certificate won't bear the Harvard name—just the platform's.",
+        "visual_hint": "Harvard seal with a subtle glitch effect",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Harvard university campus"
+      },
+      {
+        "hook": "One professor, thousands of students, zero limits?",
+        "description": "The AI avatars let a single instructor teach thousands at once. But every answer is locked to approved course content only.",
+        "visual_hint": "Professor hologram addressing a large crowd",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "lecture hall audience",
+        "image": "https://images.pexels.com/photos/17898877/pexels-photo-17898877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask outside the syllabus? Deflection.",
+        "description": "These avatars can't think beyond the script. Stray from the syllabus and you'll get a polite non-answer. Education on rails.",
+        "visual_hint": "Robot face behind a cage or barriers",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot head cage",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test the AI before you pay.",
+        "description": "Compare an avatar's answer to a real lecture on the same topic. Spot the gaps? That's what you're paying $699 for.",
+        "visual_hint": "Side-by-side comparison of text bubbles",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person comparing papers",
+        "image": "https://images.pexels.com/photos/7014467/pexels-photo-7014467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you drop $699.",
+        "description": "Try it yourself: run a real lecture question through a free AI. If it feels hollow, imagine paying $699. Save this to remember.",
+        "visual_hint": "Hand holding a phone, wallet nearby",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "phone wallet hand",
+        "image": "https://images.pexels.com/photos/6237886/pexels-photo-6237886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+    "savedAt": "2026-08-22T22:13:18.612Z",
+    "sourceId": "480d7ab40672be7790e59678fa0dc20a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "inherent-founded-by-deepmind-alumni-says-its-ai-te",
     "prompt_version": "1.0.0",
     "status": "published",

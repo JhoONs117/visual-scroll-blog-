@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-says-california-should-strengthen-its-ai-sa",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI says California should strengthen its AI safety bill",
+  "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+  "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
+  "slides": [
+    "Why does OpenAI back stricter AI rules now?",
+    "It urges California to amend SB 1047.",
+    "OpenAI fears overregulation, yet seeks targeted safeguards.",
+    "New rules would demand safety testing for frontier models.",
+    "Act now: tell lawmakers to support balanced provisions."
+  ],
+  "thread_text": [
+    "1. Why now?\n\nOpenAI is backing stricter AI rules in California, but only if SB 1047 is amended first.",
+    "2. The fear\n\nOpenAI's real worry: overregulation could kill innovation, so they're pushing for targeted safeguards.",
+    "3. The demand\n\nNew rules would require safety testing for frontier models—a first for the industry.",
+    "4. The stake\n\nWithout amendments, SB 1047 could cripple open-source AI development in the state.",
+    "5. Your move\n\nTell your California lawmakers to support balanced provisions today. Will you?"
+  ],
+  "video_script": [
+    "OpenAI wants stricter AI rules now.",
+    "But they fear overregulation's impact.",
+    "They want targeted safety testing.",
+    "SB 1047 could change everything.",
+    "Tell lawmakers to support balance."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why now?\n\nOpenAI is backing stricter AI rules in California, but only if SB 1047 is amended first.",
+        "2. The fear\n\nOpenAI's real worry: overregulation could kill innovation, so they're pushing for targeted safeguards.",
+        "3. The demand\n\nNew rules would require safety testing for frontier models—a first for the industry.",
+        "4. The stake\n\nWithout amendments, SB 1047 could cripple open-source AI development in the state.",
+        "5. Your move\n\nTell your California lawmakers to support balanced provisions today. Will you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI wants stricter AI rules now.",
+        "But they fear overregulation's impact.",
+        "They want targeted safety testing.",
+        "SB 1047 could change everything.",
+        "Tell lawmakers to support balance."
+      ]
+    },
+    "instagram": {
+      "caption": "California wants to force AI labs to run safety tests on their biggest models before release—and OpenAI just sided with the regulators, with conditions.  \n\nThe company is urging lawmakers to amend SB 1047, warning that a blanket law could strangle open-source development. Instead, it wants targeted testing rules for frontier systems only.  \n\nIf this passes, every major model launch in the state faces new compliance hurdles—slower releases, higher costs, fewer open weights. For creators and startups relying on free AI tools, that could mean less access.  \n\nAre you okay with trading faster innovation for stricter guardrails, or do you see this as the only way to keep runaway systems safe? 🧪⚖️💻"
+    }
+  },
+  "instagram_caption": "California wants to force AI labs to run safety tests on their biggest models before release—and OpenAI just sided with the regulators, with conditions.  \n\nThe company is urging lawmakers to amend SB 1047, warning that a blanket law could strangle open-source development. Instead, it wants targeted testing rules for frontier systems only.  \n\nIf this passes, every major model launch in the state faces new compliance hurdles—slower releases, higher costs, fewer open weights. For creators and startups relying on free AI tools, that could mean less access.  \n\nAre you okay with trading faster innovation for stricter guardrails, or do you see this as the only way to keep runaway systems safe? 🧪⚖️💻",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI fears its own regulation?",
+      "description": "OpenAI backs California stricter AI bill but only if amended. Overregulation could kill innovation, so they seek targeted safeguards.",
+      "visual_hint": "Silicon Valley skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Silicon Valley skyline"
+    },
+    {
+      "hook": "Why now? Because overregulation hurts.",
+      "description": "OpenAI worries SB 1047 without amendments could cripple open-source AI development. They're pushing for balanced, targeted rules.",
+      "visual_hint": "Balance scale with code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "First-ever safety tests for frontier AI.",
+      "description": "New rules would require safety testing for frontier models—an industry first. But amendments are needed to avoid stifling innovation.",
+      "visual_hint": "AI chip with glowing circuits",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "AI chip",
+      "image": "https://images.pexels.com/photos/38373015/pexels-photo-38373015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Without changes, open-source suffers.",
+      "description": "If SB 1047 isn't amended, open-source AI development in California could be crippled. Lawmakers must listen to concerns.",
+      "visual_hint": "Open source code on screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to tell lawmakers now.",
+      "description": "Contact your California representatives today. Urge them to support balanced provisions in SB 1047. Your voice matters.",
+      "visual_hint": "Hand writing message",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "writing letter",
+      "image": "https://images.pexels.com/photos/7333595/pexels-photo-7333595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+  "savedAt": "2026-08-22T22:13:29.108Z",
+  "sourceId": "39119bad22dbbf0e98d96157ef02ef70"
+}
