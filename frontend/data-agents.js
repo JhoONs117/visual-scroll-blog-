@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "inherent-founded-by-deepmind-alumni-says-its-ai-te",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "slides": [
+        "Can a DeepMind-born AI beat OpenAI's best?",
+        "Inherent's teammate just outperformed Anthropic's Claude and GPT",
+        "Its edge: it designs experiments, not just answers",
+        "Replicating research takes days, not expert weeks",
+        "Test it on one failed replication this month"
+      ],
+      "thread_text": [
+        "1. Can It Beat GPT?\n\nDeepMind's spin-off just outperformed Claude and GPT on a key benchmark. Its secret: it runs experiments, not just answers.",
+        "2. Designing Experiments\n\nMost AI models answer questions. This one plans and executes tests to find answers. That's a new kind of autonomy.",
+        "3. Days, Not Weeks\n\nWhat takes expert researchers weeks, it does in days. That's the time-to-insight shift.",
+        "4. Test It Yourself\n\nTake a failed replication from this month. Run it through this AI. See if it spots what experts missed.",
+        "5. Are You Ready?\n\nIf AI can design experiments, what's left for you to do? Pick a recent failed experiment and ask it to solve it. If it does, rethink your workflow."
+      ],
+      "video_script": [
+        "Can a DeepMind spin-off beat OpenAI?",
+        "This AI designs experiments, not just answers.",
+        "Replicates research in days, not weeks.",
+        "Try it on a failed replication.",
+        "If it succeeds, your role changes."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can It Beat GPT?\n\nDeepMind's spin-off just outperformed Claude and GPT on a key benchmark. Its secret: it runs experiments, not just answers.",
+            "2. Designing Experiments\n\nMost AI models answer questions. This one plans and executes tests to find answers. That's a new kind of autonomy.",
+            "3. Days, Not Weeks\n\nWhat takes expert researchers weeks, it does in days. That's the time-to-insight shift.",
+            "4. Test It Yourself\n\nTake a failed replication from this month. Run it through this AI. See if it spots what experts missed.",
+            "5. Are You Ready?\n\nIf AI can design experiments, what's left for you to do? Pick a recent failed experiment and ask it to solve it. If it does, rethink your workflow."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can a DeepMind spin-off beat OpenAI?",
+            "This AI designs experiments, not just answers.",
+            "Replicates research in days, not weeks.",
+            "Try it on a failed replication.",
+            "If it succeeds, your role changes."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI built by ex-DeepMind researchers just beat both Claude and GPT at replicating scientific studies. 🧪\n\nIt doesn't just answer questions—it designs and runs the experiments itself. That's the difference. Most models talk; this one acts.\n\nA task that takes expert researchers weeks gets done in days. That's not an incremental speedup; it's a workflow rewrite. 🗓️\n\nFor you: if you create content from research, you can now test claims against an AI that runs the actual experiments instead of guessing.\n\nTake one failed paper from this month. Run it through this teammate. If it finds what experts missed, what does that say about your current process? 🤔"
+        }
+      },
+      "instagram_caption": "An AI built by ex-DeepMind researchers just beat both Claude and GPT at replicating scientific studies. 🧪\n\nIt doesn't just answer questions—it designs and runs the experiments itself. That's the difference. Most models talk; this one acts.\n\nA task that takes expert researchers weeks gets done in days. That's not an incremental speedup; it's a workflow rewrite. 🗓️\n\nFor you: if you create content from research, you can now test claims against an AI that runs the actual experiments instead of guessing.\n\nTake one failed paper from this month. Run it through this teammate. If it finds what experts missed, what does that say about your current process? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "AI that runs its own experiments?",
+          "description": "Inherent's AI teammate, from DeepMind alumni, outperformed Claude and GPT by designing experiments, not just giving answers. It plans and executes tests autonomously.",
+          "visual_hint": "Neon brain with circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "circuit board macro"
+        },
+        {
+          "hook": "Beyond answers: autonomous experiments",
+          "description": "Most AI models answer questions. This one plans and executes tests to find answers. That's a new kind of autonomy, leading to better research replication.",
+          "visual_hint": "Robot arm adjusting a lab flask",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot arm lab",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "From expert weeks to days",
+          "description": "What takes expert researchers weeks, this AI does in days. That's a major time-to-insight shift, accelerating scientific discovery.",
+          "visual_hint": "Calendar with days crossed out",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar close up",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on a real failure",
+          "description": "Take a failed replication from this month. Run it through Inherent's AI. See if it spots what experts missed. You can test it this month.",
+          "visual_hint": "Hand touching a glowing screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Still doing research manually?",
+          "description": "If AI can design experiments, what's left for you? Pick a recent failed experiment and ask Inherent's AI to solve it. Then rethink your workflow.",
+          "visual_hint": "Arrow pointing to profile link",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "link icon abstract",
+          "image": "https://images.pexels.com/photos/28749419/pexels-photo-28749419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "savedAt": "2026-08-22T20:13:00.663Z",
+      "sourceId": "f264c057671cd86d4444910e93407ee2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "frontier-ai-labs-still-won-t-say-how-they-d-contai",
       "prompt_version": "1.0.0",
       "status": "published",
