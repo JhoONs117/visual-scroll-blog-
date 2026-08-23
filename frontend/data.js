@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "who-s-behind-the-new-stealth-model-ox-alpha-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
+    "slides": [
+      "Who truly controls Ox Alpha's invisible hand?",
+      "It emerged from a lab with no public papers.",
+      "Its training data includes your private conversations.",
+      "That means your next prompt could be its training fuel.",
+      "Before using it, demand a data-usage audit."
+    ],
+    "thread_text": [
+      "1. Who's really holding the reins?\n\nNo public papers, no peer review — just a lab product with an invisible hand. That's not transparency, that's a black box.",
+      "2. Your chats are the new training set.\n\nPrivate conversations fed into the model without consent? That's not just a privacy leak, it's a data grab.",
+      "3. Every prompt you type is future fuel.\n\nYou ask, it learns. Your next query could be training the very system that watches you. No opt-out, no control.",
+      "4. The hidden cost of convenience.\n\nYou get answers, but the price is your data's afterlife. Who profits when your words become its memory?",
+      "5. Demand the audit before you use it.\n\nAsk for a data-usage audit today. If they refuse, that's the answer you needed. Your data, your call."
+    ],
+    "video_script": [
+      "No papers, no transparency.",
+      "Your private chats became training data.",
+      "Your next prompt fuels the machine.",
+      "Who holds the invisible hand?",
+      "Demand a data-usage audit now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's really holding the reins?\n\nNo public papers, no peer review — just a lab product with an invisible hand. That's not transparency, that's a black box.",
+          "2. Your chats are the new training set.\n\nPrivate conversations fed into the model without consent? That's not just a privacy leak, it's a data grab.",
+          "3. Every prompt you type is future fuel.\n\nYou ask, it learns. Your next query could be training the very system that watches you. No opt-out, no control.",
+          "4. The hidden cost of convenience.\n\nYou get answers, but the price is your data's afterlife. Who profits when your words become its memory?",
+          "5. Demand the audit before you use it.\n\nAsk for a data-usage audit today. If they refuse, that's the answer you needed. Your data, your call."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "No papers, no transparency.",
+          "Your private chats became training data.",
+          "Your next prompt fuels the machine.",
+          "Who holds the invisible hand?",
+          "Demand a data-usage audit now."
+        ]
+      },
+      "instagram": {
+        "caption": "There’s no public paper behind Ox Alpha—it just showed up, fully formed, with zero peer review. 🧾\n\nThe lab claims it’s stealth, but the catch is your private chats are supposedly inside its training data. You ask a question, it learns from your answers. No opt-out button was offered. That’s not a convenience; that’s a silent data handover with you doing the typing. ⌨️\n\nFor creators and writers, this means every draft you feed it could become its permanent memory, selling your style back to someone else. \n\nBefore you paste another sentence into it, ask for a written data-usage audit. If they stall, you already have your answer. Who profits when your words become its ghost? 👻"
+      }
+    },
+    "instagram_caption": "There’s no public paper behind Ox Alpha—it just showed up, fully formed, with zero peer review. 🧾\n\nThe lab claims it’s stealth, but the catch is your private chats are supposedly inside its training data. You ask a question, it learns from your answers. No opt-out button was offered. That’s not a convenience; that’s a silent data handover with you doing the typing. ⌨️\n\nFor creators and writers, this means every draft you feed it could become its permanent memory, selling your style back to someone else. \n\nBefore you paste another sentence into it, ask for a written data-usage audit. If they stall, you already have your answer. Who profits when your words become its ghost? 👻",
+    "carousel_slides": [
+      {
+        "hook": "Your chats are the new training set.",
+        "description": "Private conversations fed into the model without consent. A privacy leak, not just a risk.",
+        "visual_hint": "Chat bubbles on a dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen chat"
+      },
+      {
+        "hook": "No papers, no peer review?",
+        "description": "This lab product has no public research, only an invisible hand. That's a black box.",
+        "visual_hint": "Black box with question mark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "black box",
+        "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No opt-out, no control.",
+        "description": "Every prompt you type becomes future fuel for the system that watches you. No choice.",
+        "visual_hint": "Magnifying glass on keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass keyboard",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who profits when you speak?",
+        "description": "You get answers, but the hidden cost is your data's afterlife. Demand transparency.",
+        "visual_hint": "Hand holding a coin",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding coin",
+        "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this. Demand the audit.",
+        "description": "Ask for a data-usage audit before you use it. If they refuse, that's your answer.",
+        "visual_hint": "Document with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "documents checklist",
+        "image": "https://images.pexels.com/photos/6863334/pexels-photo-6863334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+    "savedAt": "2026-08-23T20:12:21.068Z",
+    "sourceId": "be28f1428bf35df8501cff039929dda1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "is-it-legal-to-train-ai-models-on-copyrighted-book",
     "prompt_version": "1.0.0",
     "status": "published",
