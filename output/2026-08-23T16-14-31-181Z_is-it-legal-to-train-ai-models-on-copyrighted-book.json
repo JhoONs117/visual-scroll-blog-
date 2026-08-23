@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "is-it-legal-to-train-ai-models-on-copyrighted-book",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+  "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+  "slides": [
+    "Can AI legally learn from your copyrighted book?",
+    "Courts haven't settled this; lawsuits are pending.",
+    "Fair use might protect AI, but no ruling yet.",
+    "Your writing could train competitors without consent.",
+    "Act now: register works and monitor AI outputs."
+  ],
+  "thread_text": [
+    "1. Your book, their AI\n\nA federal court just allowed a copyright lawsuit against AI training to proceed, but no final verdict yet.",
+    "2. The fair use gamble\n\nFair use could let AI train on your work, but judges disagree on whether it applies to massive datasets.",
+    "3. The silent competitor\n\nYour manuscript could quietly be used to train a rival author's AI-writing tool without you ever knowing.",
+    "4. What you can do now\n\nRegister your works with the copyright office and set up alerts to check if AI outputs quote your prose.",
+    "5. Test your own risk\n\nAsk ChatGPT to mimic your latest chapter. If it's close, would you sue? Decide this week."
+  ],
+  "video_script": [
+    "Your book might train AI without consent.",
+    "Courts haven't decided if that's legal.",
+    "Fair use might not protect them.",
+    "Your writing could help competitors.",
+    "Register your work and test AI outputs."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your book, their AI\n\nA federal court just allowed a copyright lawsuit against AI training to proceed, but no final verdict yet.",
+        "2. The fair use gamble\n\nFair use could let AI train on your work, but judges disagree on whether it applies to massive datasets.",
+        "3. The silent competitor\n\nYour manuscript could quietly be used to train a rival author's AI-writing tool without you ever knowing.",
+        "4. What you can do now\n\nRegister your works with the copyright office and set up alerts to check if AI outputs quote your prose.",
+        "5. Test your own risk\n\nAsk ChatGPT to mimic your latest chapter. If it's close, would you sue? Decide this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your book might train AI without consent.",
+        "Courts haven't decided if that's legal.",
+        "Fair use might not protect them.",
+        "Your writing could help competitors.",
+        "Register your work and test AI outputs."
+      ]
+    },
+    "instagram": {
+      "caption": "Your novel could end up as training data for an AI writing tool—and right now, no court has definitively said that’s illegal. ⚖️\n\nLawsuits are pending, but judges haven’t settled whether “fair use” protects companies scraping entire books. That means publishers and authors are stuck in legal limbo while AI models keep learning from their work.\n\nFor you, this isn’t abstract: your manuscript might quietly teach a competitor’s AI to mimic your style without your permission.\n\nRegister your copyrights today, then run a test—ask an AI chatbot to finish a paragraph from your draft. If it sounds close to yours, would you sue? \n\n🔍📚✍️"
+    }
+  },
+  "instagram_caption": "Your novel could end up as training data for an AI writing tool—and right now, no court has definitively said that’s illegal. ⚖️\n\nLawsuits are pending, but judges haven’t settled whether “fair use” protects companies scraping entire books. That means publishers and authors are stuck in legal limbo while AI models keep learning from their work.\n\nFor you, this isn’t abstract: your manuscript might quietly teach a competitor’s AI to mimic your style without your permission.\n\nRegister your copyrights today, then run a test—ask an AI chatbot to finish a paragraph from your draft. If it sounds close to yours, would you sue? \n\n🔍📚✍️",
+  "carousel_slides": [
+    {
+      "hook": "Your book trains your rivals?",
+      "description": "A federal court allowed a copyright lawsuit against AI training to proceed, meaning your manuscript could quietly power competitors' AI-writing tools.",
+      "visual_hint": "Open book, glowing data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open book data stream"
+    },
+    {
+      "hook": "Fair use: your work, their AI?",
+      "description": "Judges disagree on whether fair use covers massive AI training datasets. No final ruling yet, so your rights hang in limbo.",
+      "visual_hint": "Scale of justice, binary code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "scale justice binary code",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A rival trained on your prose?",
+      "description": "Without consent, your writing could train a competitor's AI tool. You wouldn't know until similar output appears.",
+      "visual_hint": "Silhouette behind code curtain",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silhouette computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Register now to protect works",
+      "description": "Register your works with the copyright office and set alerts to catch AI outputs quoting your prose. Act before it's too late.",
+      "visual_hint": "Hand holding document, magnifying glass",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand document magnifying glass",
+      "image": "https://images.pexels.com/photos/6120177/pexels-photo-6120177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your risk: save this guide",
+      "description": "Ask ChatGPT to mimic your latest chapter. If it's close, consider suing. Save this post for your legal checklist.",
+      "visual_hint": "Chat interface, alert icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chat interface alert",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+  "savedAt": "2026-08-23T16:14:43.619Z",
+  "sourceId": "c058daa1dd11bb41ff3a0d9bdea36264"
+}
