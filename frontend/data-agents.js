@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-is-building-ai-agents-for-everything-will-e",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "slides": [
+        "OpenAI builds agents for everything—can you trust them?",
+        "Agents now book flights, code apps, and negotiate.",
+        "They fail silently on 12% of tasks—no warnings.",
+        "Your workflow changes: review agent logs daily.",
+        "Deploy one small task today; measure surprises."
+      ],
+      "thread_text": [
+        "1. Can you trust AI agents?\n\nOpenAI's agents now book flights and code apps, but they fail silently on 12% of tasks—no warnings.",
+        "2. What happens when they fail?\n\nA failed booking or a broken code snippet goes unnoticed until it's too late. The cost isn't just time—it's trust in the system.",
+        "3. Your role just changed\n\nForget monitoring outputs. Now you review agent logs daily, hunting for hidden errors before they surface.",
+        "4. Small task, big surprises\n\nDeploy one low-risk task this week. Measure what goes wrong. That data is your new safety net.",
+        "5. Ready to test one?\n\nPick a simple task you do daily. Let an agent handle it. Then check if the 12% failure rate hits you."
+      ],
+      "video_script": [
+        "AI agents do more, but quietly fail.",
+        "Twelve percent of tasks go wrong silently.",
+        "You must check logs every day.",
+        "Start with one small task now.",
+        "Measure the surprises before scaling."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can you trust AI agents?\n\nOpenAI's agents now book flights and code apps, but they fail silently on 12% of tasks—no warnings.",
+            "2. What happens when they fail?\n\nA failed booking or a broken code snippet goes unnoticed until it's too late. The cost isn't just time—it's trust in the system.",
+            "3. Your role just changed\n\nForget monitoring outputs. Now you review agent logs daily, hunting for hidden errors before they surface.",
+            "4. Small task, big surprises\n\nDeploy one low-risk task this week. Measure what goes wrong. That data is your new safety net.",
+            "5. Ready to test one?\n\nPick a simple task you do daily. Let an agent handle it. Then check if the 12% failure rate hits you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents do more, but quietly fail.",
+            "Twelve percent of tasks go wrong silently.",
+            "You must check logs every day.",
+            "Start with one small task now.",
+            "Measure the surprises before scaling."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI agent books a flight, codes an app, or negotiates a deal—and 12% of the time, it fails without telling you. No error message. No warning. Just a silent mistake you’ll find out about later.\n\nOpenAI is pushing agents for everything, but that quiet failure rate is the catch. You can’t watch every click anymore—your new job is checking the logs every day, hunting for errors before they hit your deadlines. 🕵️\n\nFor you, that means shifting from creating to supervising. One dropped booking can break an entire content campaign. 📉\n\nStart with one low-risk task this week. Review its output like a hawk. Then ask yourself: are you ready to trust a silent worker with 1 in 8 tasks going wrong? 🤔"
+        }
+      },
+      "instagram_caption": "Your AI agent books a flight, codes an app, or negotiates a deal—and 12% of the time, it fails without telling you. No error message. No warning. Just a silent mistake you’ll find out about later.\n\nOpenAI is pushing agents for everything, but that quiet failure rate is the catch. You can’t watch every click anymore—your new job is checking the logs every day, hunting for errors before they hit your deadlines. 🕵️\n\nFor you, that means shifting from creating to supervising. One dropped booking can break an entire content campaign. 📉\n\nStart with one low-risk task this week. Review its output like a hawk. Then ask yourself: are you ready to trust a silent worker with 1 in 8 tasks going wrong? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Silent failures. Can you trust agents?",
+          "description": "OpenAI agents book flights and code apps, but they fail silently on 12% of tasks. Without warnings, hidden errors can cost trust.",
+          "visual_hint": "Robot hand holding phone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot hand phone"
+        },
+        {
+          "hook": "When agents fail, nobody knows.",
+          "description": "A failed booking or broken code goes unnoticed until it's too late. The real cost isn't time—it's the trust you lose.",
+          "visual_hint": "Faded clock with red alert",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "broken clock",
+          "image": "https://images.pexels.com/photos/8406961/pexels-photo-8406961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your new job: review agent logs.",
+          "description": "Forget monitoring outputs. Now you must check agent logs daily, hunting hidden errors before they surface into costly problems.",
+          "visual_hint": "Magnifying glass over log lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server logs magnifying glass",
+          "image": "https://images.pexels.com/photos/5370925/pexels-photo-5370925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One small task reveals everything.",
+          "description": "Deploy one low-risk task and measure what goes wrong. That data becomes your safety net against the 12% failure rate.",
+          "visual_hint": "Hand placing single puzzle piece",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand puzzle piece",
+          "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop scrolling. Test an agent now.",
+          "description": "Pick a simple daily task and let an agent handle it. Save this post to check if the failure rate hits you.",
+          "visual_hint": "Finger tapping save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger tapping phone",
+          "image": "https://images.pexels.com/photos/11361811/pexels-photo-11361811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
+      "savedAt": "2026-08-24T18:26:45.766Z",
+      "sourceId": "e0099f0b8b4510a5003a5469d7437e6e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "instinct-s-powerful-ai-assistant-is-raising-privac",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "pubDate": "Mon, 24 Aug 2026 18:03:55 +0000",
+      "slides": [
+        "Who watches you when Instinct's AI watches your data?",
+        "Your files are analyzed on unencrypted third-party servers.",
+        "Their contract grants itself rights to your business data.",
+        "Switch now: revoke access and migrate to on-premise AI.",
+        "Audit your Instinct settings today before your next leak."
+      ],
+      "thread_text": [
+        "1. Who’s watching the watcher?\n\nInstinct AI scans your files on servers you don’t control. That’s not speculation—it’s in their setup.",
+        "2. Unencrypted access\n\nYour data hits third-party servers without encryption. Anyone with network access can intercept it in transit.",
+        "3. The contract trap\n\nTheir terms grant Instinct rights to your business data—including for their own use. You signed away ownership unknowingly.",
+        "4. Leak before you act\n\nEvery day you stay, your data is exposed. The next breach isn’t a risk—it’s a timeline.",
+        "5. Audit your settings now\n\nRevoke access and move to on-premise AI today. Check your Instinct dashboard—if you haven’t, you’re already compromised."
+      ],
+      "video_script": [
+        "Instinct AI watches your files, but who watches Instinct?",
+        "Your data lands on unencrypted external servers.",
+        "Their contract claims rights to your business data.",
+        "Every day increases your leak risk.",
+        "Revoke access now, go on-premise."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who’s watching the watcher?\n\nInstinct AI scans your files on servers you don’t control. That’s not speculation—it’s in their setup.",
+            "2. Unencrypted access\n\nYour data hits third-party servers without encryption. Anyone with network access can intercept it in transit.",
+            "3. The contract trap\n\nTheir terms grant Instinct rights to your business data—including for their own use. You signed away ownership unknowingly.",
+            "4. Leak before you act\n\nEvery day you stay, your data is exposed. The next breach isn’t a risk—it’s a timeline.",
+            "5. Audit your settings now\n\nRevoke access and move to on-premise AI today. Check your Instinct dashboard—if you haven’t, you’re already compromised."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instinct AI watches your files, but who watches Instinct?",
+            "Your data lands on unencrypted external servers.",
+            "Their contract claims rights to your business data.",
+            "Every day increases your leak risk.",
+            "Revoke access now, go on-premise."
+          ]
+        },
+        "instagram": {
+          "caption": "Your business files are being read on servers you don’t control—without encryption. 🧐\n\nInstinct’s AI scans your data on third-party infrastructure, and their contract says they can use it for their own purposes. You didn’t sign up for that when you clicked agree.\n\nFor anyone creating or publishing content, this means your drafts, client work, and proprietary ideas are exposed to interception and legal reuse. 📁\n\nCheck your Instinct dashboard right now—revoke access and move to on-premise AI. Before the next audit, ask yourself: is your next upload the one that leaks? 🔒"
+        }
+      },
+      "instagram_caption": "Your business files are being read on servers you don’t control—without encryption. 🧐\n\nInstinct’s AI scans your data on third-party infrastructure, and their contract says they can use it for their own purposes. You didn’t sign up for that when you clicked agree.\n\nFor anyone creating or publishing content, this means your drafts, client work, and proprietary ideas are exposed to interception and legal reuse. 📁\n\nCheck your Instinct dashboard right now—revoke access and move to on-premise AI. Before the next audit, ask yourself: is your next upload the one that leaks? 🔒",
+      "carousel_slides": [
+        {
+          "hook": "Who watches when your data gets watched?",
+          "description": "Instinct AI scans your files on third-party servers without encryption. Anyone on the network can intercept your business data in transit.",
+          "visual_hint": "Eye over server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Unencrypted files on external servers.",
+          "description": "Your data travels to third-party servers without encryption, meaning network access equals full data exposure. No protection in transit.",
+          "visual_hint": "Open padlock with data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Their contract silently claims your data.",
+          "description": "Instinct's terms grant them rights to your business data for their own use. You signed away ownership without knowing it.",
+          "visual_hint": "Magnifying glass over contract text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract document",
+          "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Each day you wait, exposure grows.",
+          "description": "Every day staying with Instinct increases the risk of a breach. The next leak isn't a risk—it's a timeline.",
+          "visual_hint": "Hourglass with leaking data drops",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hourglass on desk",
+          "image": "https://images.pexels.com/photos/12932781/pexels-photo-12932781.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—audit your settings now.",
+          "description": "Revoke Instinct access and move to on-premise AI today. Check your dashboard now to prevent the next leak.",
+          "visual_hint": "Checkmark and settings gear",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security dashboard",
+          "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+      "savedAt": "2026-08-24T18:26:33.717Z",
+      "sourceId": "a34ef28c4aefb76a06bcb7a3e7e472b9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "valor-point72-back-general-intuition-at-6b-valuati",
       "prompt_version": "1.0.0",
       "status": "published",

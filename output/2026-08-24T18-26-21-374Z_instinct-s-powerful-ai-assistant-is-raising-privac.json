@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instinct-s-powerful-ai-assistant-is-raising-privac",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+  "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+  "pubDate": "Mon, 24 Aug 2026 18:03:55 +0000",
+  "slides": [
+    "Who watches you when Instinct's AI watches your data?",
+    "Your files are analyzed on unencrypted third-party servers.",
+    "Their contract grants itself rights to your business data.",
+    "Switch now: revoke access and migrate to on-premise AI.",
+    "Audit your Instinct settings today before your next leak."
+  ],
+  "thread_text": [
+    "1. Who’s watching the watcher?\n\nInstinct AI scans your files on servers you don’t control. That’s not speculation—it’s in their setup.",
+    "2. Unencrypted access\n\nYour data hits third-party servers without encryption. Anyone with network access can intercept it in transit.",
+    "3. The contract trap\n\nTheir terms grant Instinct rights to your business data—including for their own use. You signed away ownership unknowingly.",
+    "4. Leak before you act\n\nEvery day you stay, your data is exposed. The next breach isn’t a risk—it’s a timeline.",
+    "5. Audit your settings now\n\nRevoke access and move to on-premise AI today. Check your Instinct dashboard—if you haven’t, you’re already compromised."
+  ],
+  "video_script": [
+    "Instinct AI watches your files, but who watches Instinct?",
+    "Your data lands on unencrypted external servers.",
+    "Their contract claims rights to your business data.",
+    "Every day increases your leak risk.",
+    "Revoke access now, go on-premise."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who’s watching the watcher?\n\nInstinct AI scans your files on servers you don’t control. That’s not speculation—it’s in their setup.",
+        "2. Unencrypted access\n\nYour data hits third-party servers without encryption. Anyone with network access can intercept it in transit.",
+        "3. The contract trap\n\nTheir terms grant Instinct rights to your business data—including for their own use. You signed away ownership unknowingly.",
+        "4. Leak before you act\n\nEvery day you stay, your data is exposed. The next breach isn’t a risk—it’s a timeline.",
+        "5. Audit your settings now\n\nRevoke access and move to on-premise AI today. Check your Instinct dashboard—if you haven’t, you’re already compromised."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instinct AI watches your files, but who watches Instinct?",
+        "Your data lands on unencrypted external servers.",
+        "Their contract claims rights to your business data.",
+        "Every day increases your leak risk.",
+        "Revoke access now, go on-premise."
+      ]
+    },
+    "instagram": {
+      "caption": "Your business files are being read on servers you don’t control—without encryption. 🧐\n\nInstinct’s AI scans your data on third-party infrastructure, and their contract says they can use it for their own purposes. You didn’t sign up for that when you clicked agree.\n\nFor anyone creating or publishing content, this means your drafts, client work, and proprietary ideas are exposed to interception and legal reuse. 📁\n\nCheck your Instinct dashboard right now—revoke access and move to on-premise AI. Before the next audit, ask yourself: is your next upload the one that leaks? 🔒"
+    }
+  },
+  "instagram_caption": "Your business files are being read on servers you don’t control—without encryption. 🧐\n\nInstinct’s AI scans your data on third-party infrastructure, and their contract says they can use it for their own purposes. You didn’t sign up for that when you clicked agree.\n\nFor anyone creating or publishing content, this means your drafts, client work, and proprietary ideas are exposed to interception and legal reuse. 📁\n\nCheck your Instinct dashboard right now—revoke access and move to on-premise AI. Before the next audit, ask yourself: is your next upload the one that leaks? 🔒",
+  "carousel_slides": [
+    {
+      "hook": "Who watches when your data gets watched?",
+      "description": "Instinct AI scans your files on third-party servers without encryption. Anyone on the network can intercept your business data in transit.",
+      "visual_hint": "Eye over server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Unencrypted files on external servers.",
+      "description": "Your data travels to third-party servers without encryption, meaning network access equals full data exposure. No protection in transit.",
+      "visual_hint": "Open padlock with data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Their contract silently claims your data.",
+      "description": "Instinct's terms grant them rights to your business data for their own use. You signed away ownership without knowing it.",
+      "visual_hint": "Magnifying glass over contract text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "contract document",
+      "image": "https://images.pexels.com/photos/4968561/pexels-photo-4968561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Each day you wait, exposure grows.",
+      "description": "Every day staying with Instinct increases the risk of a breach. The next leak isn't a risk—it's a timeline.",
+      "visual_hint": "Hourglass with leaking data drops",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass on desk",
+      "image": "https://images.pexels.com/photos/12932781/pexels-photo-12932781.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—audit your settings now.",
+      "description": "Revoke Instinct access and move to on-premise AI today. Check your dashboard now to prevent the next leak.",
+      "visual_hint": "Checkmark and settings gear",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "security dashboard",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+  "savedAt": "2026-08-24T18:26:33.717Z",
+  "sourceId": "a34ef28c4aefb76a06bcb7a3e7e472b9"
+}
