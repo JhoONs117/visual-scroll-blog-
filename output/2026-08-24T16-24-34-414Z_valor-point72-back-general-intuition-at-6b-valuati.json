@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "valor-point72-back-general-intuition-at-6b-valuati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+  "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+  "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
+  "slides": [
+    "Why is General Intuition worth $6 billion already?",
+    "Valor and Point72 just funded its robotics push.",
+    "The startup has no humanoid robot on sale yet.",
+    "Investors now bet on software, not hardware, first.",
+    "Watch whether their AI brain beats physical robot rivals."
+  ],
+  "thread_text": [
+    "1. Why $6 billion before a robot?\n\nGeneral Intuition hit a $6 billion valuation off a promise. No humanoid is on sale, so the hype is about potential, not product.",
+    "2. Valor and Point72 bet big\n\nTheir funding backs a robotics push. But the twist: they're investing in AI software first, not the physical machine.",
+    "3. Software-before-hardware play\n\nInvestors think brains beat bodies. If General Intuition's AI can control any robot, it doesn't need its own hardware to win.",
+    "4. Watch the AI brain race\n\nThe real competition is against physical robot rivals. If their brain underperforms on real tasks, the valuation could crack.",
+    "5. Test the AI-brain logic today\n\nAsk ChatGPT to plan a robot's morning routine. If it fails simple steps, why would a $6 billion bet succeed?"
+  ],
+  "video_script": [
+    "General Intuition worth six billion, but sells nothing.",
+    "Top investors fund software, not the robot body.",
+    "The brain comes first, hardware later.",
+    "Will that AI beat physical robot competitors?",
+    "Try ChatGPT for a robot task yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why $6 billion before a robot?\n\nGeneral Intuition hit a $6 billion valuation off a promise. No humanoid is on sale, so the hype is about potential, not product.",
+        "2. Valor and Point72 bet big\n\nTheir funding backs a robotics push. But the twist: they're investing in AI software first, not the physical machine.",
+        "3. Software-before-hardware play\n\nInvestors think brains beat bodies. If General Intuition's AI can control any robot, it doesn't need its own hardware to win.",
+        "4. Watch the AI brain race\n\nThe real competition is against physical robot rivals. If their brain underperforms on real tasks, the valuation could crack.",
+        "5. Test the AI-brain logic today\n\nAsk ChatGPT to plan a robot's morning routine. If it fails simple steps, why would a $6 billion bet succeed?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "General Intuition worth six billion, but sells nothing.",
+        "Top investors fund software, not the robot body.",
+        "The brain comes first, hardware later.",
+        "Will that AI beat physical robot competitors?",
+        "Try ChatGPT for a robot task yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "A robotics startup just hit a $6 billion valuation without selling a single robot 🤖\n\nGeneral Intuition just raised money from Valor and Point72 to push into robotics. But the bet isn't on hardware—it's on software. The idea: if their AI brain can control any robot, they don't need to build their own body to win. That's the whole play.\n\nFor anyone building with AI: the bar isn't demo videos anymore. It's whether the brain can pass real-world tasks. If it stumbles on simple steps, the valuation cracks.\n\nYou can test the logic today: ask an AI chatbot to plan a robot's morning routine. If it fumbles the basics, what does that say about the $6 billion bet? 🧠"
+    }
+  },
+  "instagram_caption": "A robotics startup just hit a $6 billion valuation without selling a single robot 🤖\n\nGeneral Intuition just raised money from Valor and Point72 to push into robotics. But the bet isn't on hardware—it's on software. The idea: if their AI brain can control any robot, they don't need to build their own body to win. That's the whole play.\n\nFor anyone building with AI: the bar isn't demo videos anymore. It's whether the brain can pass real-world tasks. If it stumbles on simple steps, the valuation cracks.\n\nYou can test the logic today: ask an AI chatbot to plan a robot's morning routine. If it fumbles the basics, what does that say about the $6 billion bet? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Why $6B before any robot?",
+      "description": "General Intuition hit $6B on promise alone. No humanoid for sale yet. Hype is about potential, not product.",
+      "visual_hint": "Empty pedestal with spotlight",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "empty pedestal spotlight"
+    },
+    {
+      "hook": "Valor and Point72 bet on brains, not bodies",
+      "description": "Their funding backs robotics, but it's an AI-software-first strategy. They're betting the brain can outmuscle hardware rivals.",
+      "visual_hint": "Brain icon over robot silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "brain over robot",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Software-first: brains beat bodies",
+      "description": "If General Intuition's AI can control any robot, it doesn't need its own hardware. Investors see the mind as the real asset.",
+      "visual_hint": "Gears with neural network overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "gears neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch the AI brain race",
+      "description": "The real test is against physical robot rivals. If their AI underperforms on real tasks, the $6B valuation could crack.",
+      "visual_hint": "Robot hand with neural sparks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand sparks",
+      "image": "https://images.pexels.com/photos/29988985/pexels-photo-29988985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test the AI-brain logic yourself",
+      "description": "Ask ChatGPT to plan a robot's morning routine. If it fails simple steps, question the $6B bet. Save this to track the race.",
+      "visual_hint": "ChatGPT prompt on smartphone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chatgpt smartphone",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+  "savedAt": "2026-08-24T16:24:47.123Z",
+  "sourceId": "0565e9e7b15462453617942efe24a0de"
+}
