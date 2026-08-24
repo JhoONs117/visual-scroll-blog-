@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "alabama-launches-investigation-into-openai-s-hack-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "pubDate": "Mon, 24 Aug 2026 19:58:17 +0000",
+    "slides": [
+      "What did OpenAI's hack of Hugging Face expose?",
+      "Alabama opened an investigation into the breach",
+      "The stolen data may affect thousands of users",
+      "You must check if your credentials were leaked",
+      "Act now: change passwords and enable two-factor authentication"
+    ],
+    "thread_text": [
+      "1. Your data was exposed\n\nOpenAI's hack of Hugging Face leaked credentials that could give attackers access to your AI accounts and personal projects.",
+      "2. Alabama is investigating\n\nThe state's Attorney General has opened a probe into the breach, signaling potential legal consequences for all parties involved.",
+      "3. Thousands may be affected\n\nEarly estimates suggest the stolen data could impact thousands of users, though the exact number remains unknown.",
+      "4. Check if you're at risk\n\nUse Have I Been Pwned to see if your email or credentials appear in the leaked dataset.",
+      "5. Secure your accounts now\n\nChange your passwords and enable two-factor authentication today—don't wait for someone to use your data."
+    ],
+    "video_script": [
+      "Your data may be exposed from OpenAI's Hack.",
+      "Alabama has opened an investigation into the breach.",
+      "Thousands of users' credentials could be stolen.",
+      "Check if your information was leaked now.",
+      "Change passwords and enable two-factor authentication immediately."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your data was exposed\n\nOpenAI's hack of Hugging Face leaked credentials that could give attackers access to your AI accounts and personal projects.",
+          "2. Alabama is investigating\n\nThe state's Attorney General has opened a probe into the breach, signaling potential legal consequences for all parties involved.",
+          "3. Thousands may be affected\n\nEarly estimates suggest the stolen data could impact thousands of users, though the exact number remains unknown.",
+          "4. Check if you're at risk\n\nUse Have I Been Pwned to see if your email or credentials appear in the leaked dataset.",
+          "5. Secure your accounts now\n\nChange your passwords and enable two-factor authentication today—don't wait for someone to use your data."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your data may be exposed from OpenAI's Hack.",
+          "Alabama has opened an investigation into the breach.",
+          "Thousands of users' credentials could be stolen.",
+          "Check if your information was leaked now.",
+          "Change passwords and enable two-factor authentication immediately."
+        ]
+      },
+      "instagram": {
+        "caption": "Your Hugging Face login may already be in the hands of hackers—and Alabama’s Attorney General just opened an investigation into OpenAI’s breach.\n\nThe stolen credentials could unlock your AI accounts and private projects. Early estimates say thousands of users are exposed, though the real number is still unknown 🕵️\n\nIf you’ve used Hugging Face, check Have I Been Pwned right now. Change your password and turn on two-factor authentication before someone else does it for you 🔐\n\nFor anyone building or publishing content with AI tools, this isn’t just a news headline—it’s a direct hit on your workspace.\n\nWhen was the last time you rotated your AI account passwords? ⏳"
+      }
+    },
+    "instagram_caption": "Your Hugging Face login may already be in the hands of hackers—and Alabama’s Attorney General just opened an investigation into OpenAI’s breach.\n\nThe stolen credentials could unlock your AI accounts and private projects. Early estimates say thousands of users are exposed, though the real number is still unknown 🕵️\n\nIf you’ve used Hugging Face, check Have I Been Pwned right now. Change your password and turn on two-factor authentication before someone else does it for you 🔐\n\nFor anyone building or publishing content with AI tools, this isn’t just a news headline—it’s a direct hit on your workspace.\n\nWhen was the last time you rotated your AI account passwords? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Your AI data exposed?",
+        "description": "OpenAI's hack of Hugging Face leaked credentials, potentially giving attackers access to your AI accounts and personal projects.",
+        "visual_hint": "Glowing digital key with binary",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital key"
+      },
+      {
+        "hook": "Alabama launches probe",
+        "description": "The state's Attorney General is investigating the breach, signaling possible legal consequences for all parties involved.",
+        "visual_hint": "Document with judicial gavel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gavel document",
+        "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Thousands may be at risk",
+        "description": "Early estimates suggest the stolen data could impact thousands of users, though the exact number remains unknown.",
+        "visual_hint": "Magnifying glass over data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data breach",
+        "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your credentials now",
+        "description": "Use Have I Been Pwned to see if your email or passwords appear in the leaked dataset.",
+        "visual_hint": "Smartphone with warning icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "smartphone warning",
+        "image": "https://images.pexels.com/photos/4108274/pexels-photo-4108274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Secure your accounts today",
+        "description": "Change your passwords and enable two-factor authentication now. Don't wait for someone to use your data.",
+        "visual_hint": "Lock with shield and check",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity lock",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "savedAt": "2026-08-24T20:19:27.055Z",
+    "sourceId": "86efb41a86acd52cd8832a509f406711"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-is-building-ai-agents-for-everything-will-e",
     "prompt_version": "1.0.0",
     "status": "published",
