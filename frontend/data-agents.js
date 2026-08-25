@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-subpoenaed-by-alabama-ag-over-hugging-face-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "pubDate": "2026-08-25T09:15:03.000Z",
+      "slides": [
+        "Alabama AG subpoenas OpenAI over a hack.",
+        "What data was actually exposed?",
+        "The breach came through a shared AI tool.",
+        "Your AI vendor's security just became your risk.",
+        "Audit your AI supply chain before subpoenas arrive."
+      ],
+      "thread_text": [
+        "1. Alabama AG subpoenas OpenAI\n\nThe state's top lawyer issued subpoenas to OpenAI after a hack exposed user data. The investigation is looking at what exactly was stolen and who's responsible.",
+        "2. What data was exposed?\n\nThe breach involved a shared AI tool that let users interact with models. Some user conversations and personal details may have been accessed.",
+        "3. Your AI vendor's risk is now yours\n\nWhen a vendor like OpenAI gets hit, it's not just their problem. It becomes your problem, especially if you're sharing sensitive data with their tools.",
+        "4. Audit your AI supply chain now\n\nBefore subpoenas arrive, check who has access to your data through third-party AI services. Know where your data flows and what security measures are in place.",
+        "5. Have you audited your AI tools?\n\nIf not, start today by listing every AI service you use and asking vendors about their security protocols. Do it before a breach forces you to."
+      ],
+      "video_script": [
+        "Alabama AG subpoenas OpenAI after hack.",
+        "What data was exposed? Unknown yet.",
+        "Shared AI tool caused the breach.",
+        "Your AI vendor's risk is yours.",
+        "Audit your AI supply chain before subpoenas."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Alabama AG subpoenas OpenAI\n\nThe state's top lawyer issued subpoenas to OpenAI after a hack exposed user data. The investigation is looking at what exactly was stolen and who's responsible.",
+            "2. What data was exposed?\n\nThe breach involved a shared AI tool that let users interact with models. Some user conversations and personal details may have been accessed.",
+            "3. Your AI vendor's risk is now yours\n\nWhen a vendor like OpenAI gets hit, it's not just their problem. It becomes your problem, especially if you're sharing sensitive data with their tools.",
+            "4. Audit your AI supply chain now\n\nBefore subpoenas arrive, check who has access to your data through third-party AI services. Know where your data flows and what security measures are in place.",
+            "5. Have you audited your AI tools?\n\nIf not, start today by listing every AI service you use and asking vendors about their security protocols. Do it before a breach forces you to."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Alabama AG subpoenas OpenAI after hack.",
+            "What data was exposed? Unknown yet.",
+            "Shared AI tool caused the breach.",
+            "Your AI vendor's risk is yours.",
+            "Audit your AI supply chain before subpoenas."
+          ]
+        },
+        "instagram": {
+          "caption": "A state attorney general just subpoenaed OpenAI over a hack that leaked user data through a shared AI tool. Your conversations with AI models may have been exposed—and now the investigation is digging into exactly who else saw them.\n\nThe breach didn't hit OpenAI's core systems first. It came through a third-party tool they integrate with, which means the weakest link wasn't the biggest AI company—it was the supply chain around it. If you use any AI service that plugs into other vendors, their security failures become your exposure.\n\nFor anyone publishing content or handling client data in AI tools, this shifts the math: you can't just trust the logo on the login screen. You need to know what happens to your prompts after you hit send.\n\nHave you asked your AI vendors who else has access to your data? If not, that's a list worth making this week. 🔍📋⚠️"
+        }
+      },
+      "instagram_caption": "A state attorney general just subpoenaed OpenAI over a hack that leaked user data through a shared AI tool. Your conversations with AI models may have been exposed—and now the investigation is digging into exactly who else saw them.\n\nThe breach didn't hit OpenAI's core systems first. It came through a third-party tool they integrate with, which means the weakest link wasn't the biggest AI company—it was the supply chain around it. If you use any AI service that plugs into other vendors, their security failures become your exposure.\n\nFor anyone publishing content or handling client data in AI tools, this shifts the math: you can't just trust the logo on the login screen. You need to know what happens to your prompts after you hit send.\n\nHave you asked your AI vendors who else has access to your data? If not, that's a list worth making this week. 🔍📋⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Your AI data is at risk",
+          "description": "Alabama's top lawyer subpoenaed OpenAI after a hack exposed user data. The investigation now asks what was stolen and who's responsible.",
+          "visual_hint": "Subpoena document with gavel",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "court gavel document"
+        },
+        {
+          "hook": "What did hackers get?",
+          "description": "A shared AI tool leak may have exposed conversations and personal details. Sensitive data could be in the wrong hands now.",
+          "visual_hint": "Magnifying glass over chat logs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass computer",
+          "image": "https://images.pexels.com/photos/6120169/pexels-photo-6120169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vendor breach, your problem",
+          "description": "When a vendor like OpenAI gets hacked, it's not just their crisis. Your shared data becomes their risk—and yours.",
+          "visual_hint": "Chain reaction from vendor to user",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network chain connection",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit before subpoenas hit",
+          "description": "Check every AI service you use and who has access to your data. Know where data flows and what security measures exist.",
+          "visual_hint": "Hand holding checklist with shield",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "checklist clipboard security",
+          "image": "https://images.pexels.com/photos/8830669/pexels-photo-8830669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Secure your AI tools today",
+          "description": "List all your AI services and ask vendors about their security now. Do it before a breach forces you to act.",
+          "visual_hint": "Shield with checkmark, save prompt",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "shield checkmark network",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-25T12:30:14.860Z",
+      "sourceId": "3a86bbd7f634b96304426f7e7dc4877b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "india-s-airbound-bags-37m-to-take-on-trucks-with-r",
       "prompt_version": "1.0.0",
       "status": "published",
