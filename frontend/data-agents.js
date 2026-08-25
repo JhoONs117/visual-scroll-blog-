@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "india-s-airbound-bags-37m-to-take-on-trucks-with-r",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "pubDate": "Tue, 25 Aug 2026 03:30:00 +0000",
+      "slides": [
+        "Can drones beat trucks across India’s worst roads?",
+        "Airbound just raised $37 million for cargo drones.",
+        "Their drones fly like rockets, not hover like cameras.",
+        "Firms cut delivery time from days to hours.",
+        "Test one route now, measure the cost gap."
+      ],
+      "thread_text": [
+        "1. Drones vs. India's worst roads\n\nAirbound just raised $37 million to prove cargo drones can beat trucks on rough terrain.",
+        "2. Not a camera drone\n\nThese drones fly like rockets, not hover, cutting delivery from days to hours.",
+        "3. The cost gap test\n\nFirms are testing one route now to measure the real savings against traditional logistics.",
+        "4. The twist: infrastructure\n\nIndia's roads are so bad that drones might actually be cheaper per mile than trucks.",
+        "5. Your move\n\nWhich route in your supply chain would you test first? Run the numbers today."
+      ],
+      "video_script": [
+        "Airbound raised thirty-seven million dollars.",
+        "Their drones fly like rockets, not hover.",
+        "Delivery times drop from days to hours.",
+        "Test a route and measure the cost.",
+        "Will drones beat trucks on bad roads?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Drones vs. India's worst roads\n\nAirbound just raised $37 million to prove cargo drones can beat trucks on rough terrain.",
+            "2. Not a camera drone\n\nThese drones fly like rockets, not hover, cutting delivery from days to hours.",
+            "3. The cost gap test\n\nFirms are testing one route now to measure the real savings against traditional logistics.",
+            "4. The twist: infrastructure\n\nIndia's roads are so bad that drones might actually be cheaper per mile than trucks.",
+            "5. Your move\n\nWhich route in your supply chain would you test first? Run the numbers today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Airbound raised thirty-seven million dollars.",
+            "Their drones fly like rockets, not hover.",
+            "Delivery times drop from days to hours.",
+            "Test a route and measure the cost.",
+            "Will drones beat trucks on bad roads?"
+          ]
+        },
+        "instagram": {
+          "caption": "$37 million just went to drones that fly like rockets instead of hovering like cameras, all to beat trucks on India’s worst roads. 🚁\n\nAirbound raised that cash to prove cargo drones can cut delivery from days to hours on rough terrain. The twist: India’s roads are so bad, flying might actually be cheaper per mile than driving.\n\nFor your logistics or content workflow, test one concrete route now—measure the real cost gap against your current trucking or shipping setup. Don’t guess the numbers.\n\nWhich route in your supply chain would you pilot first this month? Run that single test and compare. 📦"
+        }
+      },
+      "instagram_caption": "$37 million just went to drones that fly like rockets instead of hovering like cameras, all to beat trucks on India’s worst roads. 🚁\n\nAirbound raised that cash to prove cargo drones can cut delivery from days to hours on rough terrain. The twist: India’s roads are so bad, flying might actually be cheaper per mile than driving.\n\nFor your logistics or content workflow, test one concrete route now—measure the real cost gap against your current trucking or shipping setup. Don’t guess the numbers.\n\nWhich route in your supply chain would you pilot first this month? Run that single test and compare. 📦",
+      "carousel_slides": [
+        {
+          "hook": "Is the cost gap real?",
+          "description": "Airbound's drones could beat trucks on India's rough roads. Firms are testing one route to measure real savings against traditional logistics.",
+          "visual_hint": "Cost gap comparison chart",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cargo drone India"
+        },
+        {
+          "hook": "Not a camera drone.",
+          "description": "Airbound just raised $37 million for cargo drones that fly like rockets, not hover, cutting delivery from days to hours.",
+          "visual_hint": "Rocket-style drone in flight",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "rocket drone flying",
+          "image": "https://images.pexels.com/photos/14019773/pexels-photo-14019773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rough roads? Fly over.",
+          "description": "India's bad roads make drones potentially cheaper per mile than trucks. Test one route now to see the savings.",
+          "visual_hint": "Drone over rough road",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "drone over road",
+          "image": "https://images.pexels.com/photos/8356169/pexels-photo-8356169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Days to hours.",
+          "description": "Airbound's drones cut delivery time from days to hours, even on the worst terrain. Firms are already testing.",
+          "visual_hint": "Hand holding delivery package",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding package",
+          "image": "https://images.pexels.com/photos/12725404/pexels-photo-12725404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your route now.",
+          "description": "Run the numbers on one route in your supply chain. See if drones beat trucks today.",
+          "visual_hint": "Calculator and route map",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "route map calculator",
+          "image": "https://images.pexels.com/photos/5370916/pexels-photo-5370916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
+      "savedAt": "2026-08-25T04:30:20.125Z",
+      "sourceId": "19bcdfe5e2ad104f7540f1024460d37e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "situational-awareness-star-ai-hedge-fund-that-near",
       "prompt_version": "1.0.0",
       "status": "published",
