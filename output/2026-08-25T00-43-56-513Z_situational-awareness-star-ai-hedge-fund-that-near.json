@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "situational-awareness-star-ai-hedge-fund-that-near",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+  "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+  "pubDate": "Tue, 25 Aug 2026 00:23:12 +0000",
+  "slides": [
+    "Can an AI hedge fund beat markets?",
+    "It nearly collapsed despite huge returns.",
+    "Now the SEC is probing its trades.",
+    "Regulators may reshape AI trading oversight.",
+    "Watch compliance before trusting AI funds."
+  ],
+  "thread_text": [
+    "1. It nearly collapsed.\n\nAn AI hedge fund that posted huge returns almost went under just before the SEC started probing its trades.",
+    "2. Why the probe?\n\nRegulators are looking into whether the fund's algorithm masked risk in ways that fooled even its own investors.",
+    "3. The bigger twist.\n\nThis isn't just one fund's problem — the SEC's move signals they may soon rewrite rules for all AI trading.",
+    "4. What that means.\n\nIf AI oversight tightens, funds will need to prove their models are explainable, not just profitable.",
+    "5. Your move.\n\nBefore you trust any AI fund, ask how it handles compliance. If they can't answer, walk away."
+  ],
+  "video_script": [
+    "An AI fund almost collapsed.",
+    "Despite huge returns, it failed.",
+    "Now regulators are investigating.",
+    "Trading oversight may change forever.",
+    "Check compliance before trusting AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. It nearly collapsed.\n\nAn AI hedge fund that posted huge returns almost went under just before the SEC started probing its trades.",
+        "2. Why the probe?\n\nRegulators are looking into whether the fund's algorithm masked risk in ways that fooled even its own investors.",
+        "3. The bigger twist.\n\nThis isn't just one fund's problem — the SEC's move signals they may soon rewrite rules for all AI trading.",
+        "4. What that means.\n\nIf AI oversight tightens, funds will need to prove their models are explainable, not just profitable.",
+        "5. Your move.\n\nBefore you trust any AI fund, ask how it handles compliance. If they can't answer, walk away."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI fund almost collapsed.",
+        "Despite huge returns, it failed.",
+        "Now regulators are investigating.",
+        "Trading oversight may change forever.",
+        "Check compliance before trusting AI."
+      ]
+    },
+    "instagram": {
+      "caption": "A fund that posted huge returns nearly went under—and now the SEC is digging into its trades. 📉\n\nThe probe is about whether the algorithm hid risk from investors. That’s the core issue: profit can mask fragility. If regulators tighten AI trading rules, funds will have to prove their models are explainable, not just lucky. 🧾\n\nFor anyone building or using AI tools, this means compliance isn’t optional—it’s the next battleground. If a tool can’t show you how it decides, don’t trust it with your money or your work. 🛑\n\nBefore you rely on any AI output, ask: can you trace exactly why it made that call? If not, what’s your fallback when it’s wrong? 🤔"
+    }
+  },
+  "instagram_caption": "A fund that posted huge returns nearly went under—and now the SEC is digging into its trades. 📉\n\nThe probe is about whether the algorithm hid risk from investors. That’s the core issue: profit can mask fragility. If regulators tighten AI trading rules, funds will have to prove their models are explainable, not just lucky. 🧾\n\nFor anyone building or using AI tools, this means compliance isn’t optional—it’s the next battleground. If a tool can’t show you how it decides, don’t trust it with your money or your work. 🛑\n\nBefore you rely on any AI output, ask: can you trace exactly why it made that call? If not, what’s your fallback when it’s wrong? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "What hides behind huge returns?",
+      "description": "An AI hedge fund posted massive gains, then nearly collapsed. Now the SEC is investigating its trades—risk may have been masked.",
+      "visual_hint": "Glowing charts, then a glitch",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Regulators suspect hidden risk.",
+      "description": "The SEC's probe asks whether the fund's algorithm hid risk from investors. The consequence: trust in AI trading erodes.",
+      "visual_hint": "Eye over data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But this is just the start.",
+      "description": "The SEC's move signals a potential overhaul—new rules for all AI trading could force funds to prove models are explainable, not just profitable.",
+      "visual_hint": "Magnifying glass on algorithm",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence chip",
+      "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Profit isn't enough anymore.",
+      "description": "Tighter oversight means AI funds must demonstrate compliance and transparency. Otherwise, they risk collapse and legal action.",
+      "visual_hint": "Hand holding shield and chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake business deal",
+      "image": "https://images.pexels.com/photos/8276369/pexels-photo-8276369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you invest.",
+      "description": "Ask any AI fund how it handles compliance. If they can't explain, walk away. Share this to help others avoid risky bets.",
+      "visual_hint": "Thumb and bookmark icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-25T00:44:10.044Z",
+  "sourceId": "32cda19d8db8e2104eda8e4a8ddcba89"
+}
