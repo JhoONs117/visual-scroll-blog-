@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "self-driving-truck-startup-gatik-raises-200m-follo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000",
+    "slides": [
+      "Who moves PepsiCo's goods without drivers?",
+      "Gatik raised $200M after a PepsiCo contract.",
+      "Their autonomous trucks run only on fixed short routes.",
+      "Your supply chain could cut costs without full autonomy.",
+      "Ask: which middle-mile leg could Gatik automate?"
+    ],
+    "thread_text": [
+      "1. No drivers needed?\n\nPepsiCo already signed a contract with Gatik, and the company just pulled in $200M to scale it.",
+      "2. Fixed routes only\n\nThe trucks don't roam free. They're confined to short, predictable middle-mile runs where the risk is low.",
+      "3. Cut costs now\n\nYou don't need full autonomy. One automated leg can slash transport expenses without overhauling your entire fleet.",
+      "4. The twist\n\nGatik's edge isn't AI brilliance—it's boring routes. Repetition makes the technology reliable, and that's the real breakthrough.",
+      "5. Your next step\n\nWhich of your warehouse-to-store legs is a fixed short route? Map one out this week and ask Gatik for a quote."
+    ],
+    "video_script": [
+      "PepsiCo trucks now drive themselves, but only on fixed routes.",
+      "Gatik raised two hundred million, thanks to a PepsiCo contract.",
+      "They avoid highways and complex traffic — just short middle-mile hops.",
+      "Your supply chain can save money without going fully autonomous.",
+      "Ask yourself: which short route could be automated first?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. No drivers needed?\n\nPepsiCo already signed a contract with Gatik, and the company just pulled in $200M to scale it.",
+          "2. Fixed routes only\n\nThe trucks don't roam free. They're confined to short, predictable middle-mile runs where the risk is low.",
+          "3. Cut costs now\n\nYou don't need full autonomy. One automated leg can slash transport expenses without overhauling your entire fleet.",
+          "4. The twist\n\nGatik's edge isn't AI brilliance—it's boring routes. Repetition makes the technology reliable, and that's the real breakthrough.",
+          "5. Your next step\n\nWhich of your warehouse-to-store legs is a fixed short route? Map one out this week and ask Gatik for a quote."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "PepsiCo trucks now drive themselves, but only on fixed routes.",
+          "Gatik raised two hundred million, thanks to a PepsiCo contract.",
+          "They avoid highways and complex traffic — just short middle-mile hops.",
+          "Your supply chain can save money without going fully autonomous.",
+          "Ask yourself: which short route could be automated first?"
+        ]
+      },
+      "instagram": {
+        "caption": "PepsiCo already moved goods with zero drivers inside the cab—and just helped the startup behind it raise $200M.\n\nGatik’s trucks only run short, fixed middle-mile routes—like warehouse to store. The contract proved the model works, and the funding scales it.\n\nThe win isn’t smarter AI—it’s boring, repeatable routes. That repetition is what makes driverless safe enough for real freight.\n\nIf you manage logistics, one automated leg can cut costs without touching your whole fleet.\n\nWhich of your fixed short hauls could run without a driver this quarter? 🚛📦💸"
+      }
+    },
+    "instagram_caption": "PepsiCo already moved goods with zero drivers inside the cab—and just helped the startup behind it raise $200M.\n\nGatik’s trucks only run short, fixed middle-mile routes—like warehouse to store. The contract proved the model works, and the funding scales it.\n\nThe win isn’t smarter AI—it’s boring, repeatable routes. That repetition is what makes driverless safe enough for real freight.\n\nIf you manage logistics, one automated leg can cut costs without touching your whole fleet.\n\nWhich of your fixed short hauls could run without a driver this quarter? 🚛📦💸",
+    "carousel_slides": [
+      {
+        "hook": "No driver, no problem?",
+        "description": "PepsiCo already uses autonomous trucks from Gatik. The startup just raised $200M to expand this driverless model across more routes.",
+        "visual_hint": "Empty driver's seat in a truck cabin",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "truck cabin empty seat"
+      },
+      {
+        "hook": "Fixed routes only",
+        "description": "Gatik's trucks don't roam freely. They stick to short, predictable middle-mile runs where the risk is low and reliability high.",
+        "visual_hint": "Map with fixed route points",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "map route dots",
+        "image": "https://images.pexels.com/photos/4558710/pexels-photo-4558710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cut costs without full autonomy",
+        "description": "One automated leg can slash transport expenses. You don't need to overhaul your entire fleet to start saving.",
+        "visual_hint": "Cost graph trending down",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cost graph down",
+        "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Boring routes win",
+        "description": "Gatik's edge isn't AI brilliance—it's repetition. Boring, fixed routes make the technology reliable, and that's the real breakthrough.",
+        "visual_hint": "Robot hand on steering wheel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot arm steering wheel",
+        "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your supply chain",
+        "description": "Map one fixed route between your warehouses and stores this week. Then check Gatik's quote to see if it can automate that leg.",
+        "visual_hint": "Checklist with route map",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "warehouse map checklist",
+        "image": "https://images.pexels.com/photos/7018654/pexels-photo-7018654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
+    "savedAt": "2026-08-25T16:25:54.549Z",
+    "sourceId": "332af197fd654cce11df0cce3dbfb011"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mit-ai-forecasts-extreme-weather-without-historica",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "MIT AI forecasts extreme weather without historical data",
+    "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+    "pubDate": "Tue, 25 Aug 2026 15:46:06 +0000",
+    "slides": [
+      "Can AI forecast storms with zero past weather data?",
+      "MIT's model learns from physics, not history.",
+      "It predicts extremes even in entirely new climates.",
+      "This means better forecasts where data is scarce.",
+      "Test it on your next severe weather event."
+    ],
+    "thread_text": [
+      "1. Zero data, real forecasts\n\nMIT's new AI predicts storms using only physics, skipping historical weather records entirely.",
+      "2. Physics as the teacher\n\nInstead of learning from past events, the model understands atmospheric laws, so it works in climates it has never seen.",
+      "3. Extremes in new worlds\n\nIt can forecast severe weather in places with no weather stations or past data, like remote regions or future climates.",
+      "4. Data-scarce regions win\n\nThis could save lives in developing countries where reliable forecasts are rare, giving early warnings for floods or heatwaves.",
+      "5. Test it yourself\n\nTake a weather event on your radar and check if current models fail where data is thin. Would this approach change your action?"
+    ],
+    "video_script": [
+      "Can AI forecast storms without data?",
+      "MIT's model uses physics, not history.",
+      "It predicts extremes in new climates.",
+      "Better forecasts where data is scarce.",
+      "Test it on your next weather event."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Zero data, real forecasts\n\nMIT's new AI predicts storms using only physics, skipping historical weather records entirely.",
+          "2. Physics as the teacher\n\nInstead of learning from past events, the model understands atmospheric laws, so it works in climates it has never seen.",
+          "3. Extremes in new worlds\n\nIt can forecast severe weather in places with no weather stations or past data, like remote regions or future climates.",
+          "4. Data-scarce regions win\n\nThis could save lives in developing countries where reliable forecasts are rare, giving early warnings for floods or heatwaves.",
+          "5. Test it yourself\n\nTake a weather event on your radar and check if current models fail where data is thin. Would this approach change your action?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can AI forecast storms without data?",
+          "MIT's model uses physics, not history.",
+          "It predicts extremes in new climates.",
+          "Better forecasts where data is scarce.",
+          "Test it on your next weather event."
+        ]
+      },
+      "instagram": {
+        "caption": "A storm warning system that works even where no weather station has ever existed — MIT just built one that learns from physics alone, not historical records. 🌪️\n\nInstead of studying past weather data, this model understands the laws of the atmosphere itself. So it can predict extremes in climates it has never encountered — remote regions, developing countries, even future conditions under climate change.\n\nFor anyone covering weather or climate: this means forecasts in data-scarce zones won't depend on decades of records anymore. Your reporting could rely on tools that work from scratch.\n\nWhat would you do with reliable warnings in a place that's never had them? 📡"
+      }
+    },
+    "instagram_caption": "A storm warning system that works even where no weather station has ever existed — MIT just built one that learns from physics alone, not historical records. 🌪️\n\nInstead of studying past weather data, this model understands the laws of the atmosphere itself. So it can predict extremes in climates it has never encountered — remote regions, developing countries, even future conditions under climate change.\n\nFor anyone covering weather or climate: this means forecasts in data-scarce zones won't depend on decades of records anymore. Your reporting could rely on tools that work from scratch.\n\nWhat would you do with reliable warnings in a place that's never had them? 📡",
+    "carousel_slides": [
+      {
+        "hook": "Can AI predict storms without any historical data?",
+        "description": "MIT's new model uses physics, not past records, so it can forecast extremes in places with zero weather data.",
+        "visual_hint": "AI storm forecast on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "weather radar map"
+      },
+      {
+        "hook": "Physics is the new teacher",
+        "description": "Instead of learning from history, this model understands atmospheric laws. It works in climates it has never seen.",
+        "visual_hint": "Physics equations over clouds",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "atmospheric clouds physics",
+        "image": "https://images.pexels.com/photos/37501562/pexels-photo-37501562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Forecasting extremes in unknown climates",
+        "description": "It can predict severe weather in remote regions or future climates, where no weather stations exist.",
+        "visual_hint": "Storm forming over remote landscape",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "remote desert storm",
+        "image": "https://images.pexels.com/photos/39015170/pexels-photo-39015170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Saving lives where data is scarce",
+        "description": "This could give early warnings for floods or heatwaves in developing countries, where reliable forecasts are rare.",
+        "visual_hint": "Local community receiving alert",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "flood warning sign",
+        "image": "https://images.pexels.com/photos/13865779/pexels-photo-13865779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your next storm",
+        "description": "Check if current models fail where data is thin. Would this approach change your action? Save this and tell me.",
+        "visual_hint": "Storm clouds and radar screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "storm clouds radar",
+        "image": "https://images.pexels.com/photos/31902176/pexels-photo-31902176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/14747730/pexels-photo-14747730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-25T16:25:41.990Z",
+    "sourceId": "afa866e58f41805bacac08417eb47b49"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-says-its-jalape-o-chip-can-power-faster-ai-",
     "prompt_version": "1.0.0",
     "status": "published",

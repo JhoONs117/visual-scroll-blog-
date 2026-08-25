@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mit-ai-forecasts-extreme-weather-without-historica",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "MIT AI forecasts extreme weather without historical data",
+  "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+  "pubDate": "Tue, 25 Aug 2026 15:46:06 +0000",
+  "slides": [
+    "Can AI forecast storms with zero past weather data?",
+    "MIT's model learns from physics, not history.",
+    "It predicts extremes even in entirely new climates.",
+    "This means better forecasts where data is scarce.",
+    "Test it on your next severe weather event."
+  ],
+  "thread_text": [
+    "1. Zero data, real forecasts\n\nMIT's new AI predicts storms using only physics, skipping historical weather records entirely.",
+    "2. Physics as the teacher\n\nInstead of learning from past events, the model understands atmospheric laws, so it works in climates it has never seen.",
+    "3. Extremes in new worlds\n\nIt can forecast severe weather in places with no weather stations or past data, like remote regions or future climates.",
+    "4. Data-scarce regions win\n\nThis could save lives in developing countries where reliable forecasts are rare, giving early warnings for floods or heatwaves.",
+    "5. Test it yourself\n\nTake a weather event on your radar and check if current models fail where data is thin. Would this approach change your action?"
+  ],
+  "video_script": [
+    "Can AI forecast storms without data?",
+    "MIT's model uses physics, not history.",
+    "It predicts extremes in new climates.",
+    "Better forecasts where data is scarce.",
+    "Test it on your next weather event."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Zero data, real forecasts\n\nMIT's new AI predicts storms using only physics, skipping historical weather records entirely.",
+        "2. Physics as the teacher\n\nInstead of learning from past events, the model understands atmospheric laws, so it works in climates it has never seen.",
+        "3. Extremes in new worlds\n\nIt can forecast severe weather in places with no weather stations or past data, like remote regions or future climates.",
+        "4. Data-scarce regions win\n\nThis could save lives in developing countries where reliable forecasts are rare, giving early warnings for floods or heatwaves.",
+        "5. Test it yourself\n\nTake a weather event on your radar and check if current models fail where data is thin. Would this approach change your action?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can AI forecast storms without data?",
+        "MIT's model uses physics, not history.",
+        "It predicts extremes in new climates.",
+        "Better forecasts where data is scarce.",
+        "Test it on your next weather event."
+      ]
+    },
+    "instagram": {
+      "caption": "A storm warning system that works even where no weather station has ever existed — MIT just built one that learns from physics alone, not historical records. 🌪️\n\nInstead of studying past weather data, this model understands the laws of the atmosphere itself. So it can predict extremes in climates it has never encountered — remote regions, developing countries, even future conditions under climate change.\n\nFor anyone covering weather or climate: this means forecasts in data-scarce zones won't depend on decades of records anymore. Your reporting could rely on tools that work from scratch.\n\nWhat would you do with reliable warnings in a place that's never had them? 📡"
+    }
+  },
+  "instagram_caption": "A storm warning system that works even where no weather station has ever existed — MIT just built one that learns from physics alone, not historical records. 🌪️\n\nInstead of studying past weather data, this model understands the laws of the atmosphere itself. So it can predict extremes in climates it has never encountered — remote regions, developing countries, even future conditions under climate change.\n\nFor anyone covering weather or climate: this means forecasts in data-scarce zones won't depend on decades of records anymore. Your reporting could rely on tools that work from scratch.\n\nWhat would you do with reliable warnings in a place that's never had them? 📡",
+  "carousel_slides": [
+    {
+      "hook": "Can AI predict storms without any historical data?",
+      "description": "MIT's new model uses physics, not past records, so it can forecast extremes in places with zero weather data.",
+      "visual_hint": "AI storm forecast on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "weather radar map"
+    },
+    {
+      "hook": "Physics is the new teacher",
+      "description": "Instead of learning from history, this model understands atmospheric laws. It works in climates it has never seen.",
+      "visual_hint": "Physics equations over clouds",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "atmospheric clouds physics",
+      "image": "https://images.pexels.com/photos/37501562/pexels-photo-37501562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Forecasting extremes in unknown climates",
+      "description": "It can predict severe weather in remote regions or future climates, where no weather stations exist.",
+      "visual_hint": "Storm forming over remote landscape",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "remote desert storm",
+      "image": "https://images.pexels.com/photos/39015170/pexels-photo-39015170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Saving lives where data is scarce",
+      "description": "This could give early warnings for floods or heatwaves in developing countries, where reliable forecasts are rare.",
+      "visual_hint": "Local community receiving alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "flood warning sign",
+      "image": "https://images.pexels.com/photos/13865779/pexels-photo-13865779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your next storm",
+      "description": "Check if current models fail where data is thin. Would this approach change your action? Save this and tell me.",
+      "visual_hint": "Storm clouds and radar screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "storm clouds radar",
+      "image": "https://images.pexels.com/photos/31902176/pexels-photo-31902176.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/14747730/pexels-photo-14747730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-25T16:25:41.990Z",
+  "sourceId": "afa866e58f41805bacac08417eb47b49"
+}

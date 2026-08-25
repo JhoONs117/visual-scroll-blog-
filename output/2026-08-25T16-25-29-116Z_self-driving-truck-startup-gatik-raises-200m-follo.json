@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "self-driving-truck-startup-gatik-raises-200m-follo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+  "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+  "pubDate": "Tue, 25 Aug 2026 14:00:00 +0000",
+  "slides": [
+    "Who moves PepsiCo's goods without drivers?",
+    "Gatik raised $200M after a PepsiCo contract.",
+    "Their autonomous trucks run only on fixed short routes.",
+    "Your supply chain could cut costs without full autonomy.",
+    "Ask: which middle-mile leg could Gatik automate?"
+  ],
+  "thread_text": [
+    "1. No drivers needed?\n\nPepsiCo already signed a contract with Gatik, and the company just pulled in $200M to scale it.",
+    "2. Fixed routes only\n\nThe trucks don't roam free. They're confined to short, predictable middle-mile runs where the risk is low.",
+    "3. Cut costs now\n\nYou don't need full autonomy. One automated leg can slash transport expenses without overhauling your entire fleet.",
+    "4. The twist\n\nGatik's edge isn't AI brilliance—it's boring routes. Repetition makes the technology reliable, and that's the real breakthrough.",
+    "5. Your next step\n\nWhich of your warehouse-to-store legs is a fixed short route? Map one out this week and ask Gatik for a quote."
+  ],
+  "video_script": [
+    "PepsiCo trucks now drive themselves, but only on fixed routes.",
+    "Gatik raised two hundred million, thanks to a PepsiCo contract.",
+    "They avoid highways and complex traffic — just short middle-mile hops.",
+    "Your supply chain can save money without going fully autonomous.",
+    "Ask yourself: which short route could be automated first?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No drivers needed?\n\nPepsiCo already signed a contract with Gatik, and the company just pulled in $200M to scale it.",
+        "2. Fixed routes only\n\nThe trucks don't roam free. They're confined to short, predictable middle-mile runs where the risk is low.",
+        "3. Cut costs now\n\nYou don't need full autonomy. One automated leg can slash transport expenses without overhauling your entire fleet.",
+        "4. The twist\n\nGatik's edge isn't AI brilliance—it's boring routes. Repetition makes the technology reliable, and that's the real breakthrough.",
+        "5. Your next step\n\nWhich of your warehouse-to-store legs is a fixed short route? Map one out this week and ask Gatik for a quote."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "PepsiCo trucks now drive themselves, but only on fixed routes.",
+        "Gatik raised two hundred million, thanks to a PepsiCo contract.",
+        "They avoid highways and complex traffic — just short middle-mile hops.",
+        "Your supply chain can save money without going fully autonomous.",
+        "Ask yourself: which short route could be automated first?"
+      ]
+    },
+    "instagram": {
+      "caption": "PepsiCo already moved goods with zero drivers inside the cab—and just helped the startup behind it raise $200M.\n\nGatik’s trucks only run short, fixed middle-mile routes—like warehouse to store. The contract proved the model works, and the funding scales it.\n\nThe win isn’t smarter AI—it’s boring, repeatable routes. That repetition is what makes driverless safe enough for real freight.\n\nIf you manage logistics, one automated leg can cut costs without touching your whole fleet.\n\nWhich of your fixed short hauls could run without a driver this quarter? 🚛📦💸"
+    }
+  },
+  "instagram_caption": "PepsiCo already moved goods with zero drivers inside the cab—and just helped the startup behind it raise $200M.\n\nGatik’s trucks only run short, fixed middle-mile routes—like warehouse to store. The contract proved the model works, and the funding scales it.\n\nThe win isn’t smarter AI—it’s boring, repeatable routes. That repetition is what makes driverless safe enough for real freight.\n\nIf you manage logistics, one automated leg can cut costs without touching your whole fleet.\n\nWhich of your fixed short hauls could run without a driver this quarter? 🚛📦💸",
+  "carousel_slides": [
+    {
+      "hook": "No driver, no problem?",
+      "description": "PepsiCo already uses autonomous trucks from Gatik. The startup just raised $200M to expand this driverless model across more routes.",
+      "visual_hint": "Empty driver's seat in a truck cabin",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "truck cabin empty seat"
+    },
+    {
+      "hook": "Fixed routes only",
+      "description": "Gatik's trucks don't roam freely. They stick to short, predictable middle-mile runs where the risk is low and reliability high.",
+      "visual_hint": "Map with fixed route points",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "map route dots",
+      "image": "https://images.pexels.com/photos/4558710/pexels-photo-4558710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cut costs without full autonomy",
+      "description": "One automated leg can slash transport expenses. You don't need to overhaul your entire fleet to start saving.",
+      "visual_hint": "Cost graph trending down",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cost graph down",
+      "image": "https://images.pexels.com/photos/7567445/pexels-photo-7567445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Boring routes win",
+      "description": "Gatik's edge isn't AI brilliance—it's repetition. Boring, fixed routes make the technology reliable, and that's the real breakthrough.",
+      "visual_hint": "Robot hand on steering wheel",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot arm steering wheel",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your supply chain",
+      "description": "Map one fixed route between your warehouses and stores this week. Then check Gatik's quote to see if it can automate that leg.",
+      "visual_hint": "Checklist with route map",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "warehouse map checklist",
+      "image": "https://images.pexels.com/photos/7018654/pexels-photo-7018654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
+  "savedAt": "2026-08-25T16:25:54.549Z",
+  "sourceId": "332af197fd654cce11df0cce3dbfb011"
+}
