@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-rescues-hide-my-email-feature-from-the-priva",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+  "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+  "pubDate": "Tue, 25 Aug 2026 14:46:32 +0000",
+  "slides": [
+    "Apple revives Hide My Email, but is privacy truly back?",
+    "The feature was nearly dead inside iCloud+ this year.",
+    "New design hides addresses even from Apple's own systems.",
+    "Your inbox now shields identity across every login automatically.",
+    "Activate it today, or watch your email leak tomorrow."
+  ],
+  "thread_text": [
+    "1. Apple's privacy was a lie?\n\nUntil this year, the company could still see the addresses you were hiding from spammers.",
+    "2. The almost-dead feature\n\niCloud+ nearly killed it in 2024. The new design is a complete reversal.",
+    "3. Now even Apple can't look\n\nYour real address is replaced before it ever touches their servers.",
+    "4. Every login, auto-shielded\n\nNo more manual clicks. Every new account gets a fresh alias without you asking.",
+    "5. Activate it now, or leak\n\nGo to iCloud+ settings today and enable it. If you skip it, your next signup is exposed."
+  ],
+  "video_script": [
+    "Apple nearly killed Hide My Email.",
+    "Now they've made it truly private.",
+    "Even Apple can't see your address.",
+    "Every login gets a new shield automatically.",
+    "Turn it on today, before you leak."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple's privacy was a lie?\n\nUntil this year, the company could still see the addresses you were hiding from spammers.",
+        "2. The almost-dead feature\n\niCloud+ nearly killed it in 2024. The new design is a complete reversal.",
+        "3. Now even Apple can't look\n\nYour real address is replaced before it ever touches their servers.",
+        "4. Every login, auto-shielded\n\nNo more manual clicks. Every new account gets a fresh alias without you asking.",
+        "5. Activate it now, or leak\n\nGo to iCloud+ settings today and enable it. If you skip it, your next signup is exposed."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple nearly killed Hide My Email.",
+        "Now they've made it truly private.",
+        "Even Apple can't see your address.",
+        "Every login gets a new shield automatically.",
+        "Turn it on today, before you leak."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple could still see the email addresses you were hiding from spammers — until now.\n\nThe old Hide My Email feature was nearly killed off this year. A full redesign flips that: your real address is stripped out before it ever touches Apple's own systems.\n\nEven Apple's servers no longer see what you're protecting. Every new login gets a fresh alias automatically, no manual clicks needed.\n\nIf you create content, sponsor deals, or manage newsletter signups, this means your inbox stops being a leak point. The alias shields you before the first email ever lands.\n\nHead to iCloud+ settings and switch it on today — or your next signup goes out naked. 🔐📧\n\nWhen did you last check who actually sees your real address?"
+    }
+  },
+  "instagram_caption": "Apple could still see the email addresses you were hiding from spammers — until now.\n\nThe old Hide My Email feature was nearly killed off this year. A full redesign flips that: your real address is stripped out before it ever touches Apple's own systems.\n\nEven Apple's servers no longer see what you're protecting. Every new login gets a fresh alias automatically, no manual clicks needed.\n\nIf you create content, sponsor deals, or manage newsletter signups, this means your inbox stops being a leak point. The alias shields you before the first email ever lands.\n\nHead to iCloud+ settings and switch it on today — or your next signup goes out naked. 🔐📧\n\nWhen did you last check who actually sees your real address?",
+  "carousel_slides": [
+    {
+      "hook": "Apple hid your email. From itself.",
+      "description": "Previously, Apple could still see the addresses you hid. Now a new redesign blocks even Apple from viewing them.",
+      "visual_hint": "Envelope splitting in half",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email icon"
+    },
+    {
+      "hook": "The secret feature almost died.",
+      "description": "iCloud+ nearly killed it in 2024. But Apple reversed course, rebuilding the feature with stronger privacy.",
+      "visual_hint": "Revived plant sprout",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "plant sprout",
+      "image": "https://images.pexels.com/photos/36958408/pexels-photo-36958408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Now even Apple can't peek.",
+      "description": "Your real address is replaced before reaching Apple's servers, making it invisible—even to them.",
+      "visual_hint": "Locked server cabinet",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Every login gets a fresh alias.",
+      "description": "No more manual steps—each new account automatically gets a unique temporary email, shielding your identity.",
+      "visual_hint": "Auto-generating masks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Enable it now, or leak tomorrow.",
+      "description": "Go to iCloud+ settings today and activate Hide My Email. Don't let your next signup expose your address.",
+      "visual_hint": "Finger tapping settings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "iPhone settings",
+      "image": "https://images.pexels.com/photos/11934738/pexels-photo-11934738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
+  "savedAt": "2026-08-25T18:26:42.805Z",
+  "sourceId": "85a2e2dc263ba9e24060398cc23361d3"
+}
