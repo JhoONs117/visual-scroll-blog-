@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-the-world-seems-to-be-ready-an-interview-with-ope",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+  "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+  "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
+  "slides": [
+    "OpenAI's product chief claims the world is ready—but for what exactly?",
+    "Thibault Sottiaux says AI adoption now hinges on trust, not capability.",
+    "He reveals that most enterprises still fear giving AI full autonomy.",
+    "Your teams should pilot small, high-risk tasks to build that trust.",
+    "This week: identify one task where AI can act without human review."
+  ],
+  "thread_text": [
+    "1. Ready for what?\n\nOpenAI's product chief says the world is ready—but for AI autonomy, not just chat. Enterprises still hesitate.",
+    "2. Trust is the barrier\n\nThibault Sottiaux: adoption hinges on trust, not capability. Fear of full autonomy holds firms back.",
+    "3. Small pilots, big leaps\n\nHe suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low.",
+    "4. This week's move\n\nIdentify one task where AI can act without human review. Try it in a real workflow.",
+    "5. Your test\n\nWhat's one decision you'd let AI make alone today? If none, pick a low-risk one and run it."
+  ],
+  "video_script": [
+    "The world is ready for AI autonomy.",
+    "But trust is the real obstacle.",
+    "Start with small, high-risk tasks.",
+    "Let AI act without human review.",
+    "Test one decision on your team."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ready for what?\n\nOpenAI's product chief says the world is ready—but for AI autonomy, not just chat. Enterprises still hesitate.",
+        "2. Trust is the barrier\n\nThibault Sottiaux: adoption hinges on trust, not capability. Fear of full autonomy holds firms back.",
+        "3. Small pilots, big leaps\n\nHe suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low.",
+        "4. This week's move\n\nIdentify one task where AI can act without human review. Try it in a real workflow.",
+        "5. Your test\n\nWhat's one decision you'd let AI make alone today? If none, pick a low-risk one and run it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The world is ready for AI autonomy.",
+        "But trust is the real obstacle.",
+        "Start with small, high-risk tasks.",
+        "Let AI act without human review.",
+        "Test one decision on your team."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s product chief says the world is ready—but for AI that works on its own, not just chatbots that chat.  \n\nMost companies still won’t give AI full control. The fear isn’t capability, it’s trust. Sottiaux’s fix: start small. Let AI handle one low-stakes, high-risk task without human sign-off.  \n\nFor you, that means testing autonomy where mistakes are cheap—like drafting a response or sorting a list—before scaling to bigger workflows.  \n\nWhat’s one decision you’d let AI make alone this week? Pick it, run it, and watch what breaks. 🤖🔍⚡️"
+    }
+  },
+  "instagram_caption": "OpenAI’s product chief says the world is ready—but for AI that works on its own, not just chatbots that chat.  \n\nMost companies still won’t give AI full control. The fear isn’t capability, it’s trust. Sottiaux’s fix: start small. Let AI handle one low-stakes, high-risk task without human sign-off.  \n\nFor you, that means testing autonomy where mistakes are cheap—like drafting a response or sorting a list—before scaling to bigger workflows.  \n\nWhat’s one decision you’d let AI make alone this week? Pick it, run it, and watch what breaks. 🤖🔍⚡️",
+  "carousel_slides": [
+    {
+      "hook": "What if AI runs your business?",
+      "description": "OpenAI's product chief says the world is ready for AI autonomy, yet enterprises still fear full control. Trust, not tech, is the real barrier.",
+      "visual_hint": "AI abstract brain network",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence abstract"
+    },
+    {
+      "hook": "Trust is the real bottleneck.",
+      "description": "Thibault Sottiaux explains AI adoption hinges on trust, not capability. Enterprises won't surrender autonomy without confidence in the system.",
+      "visual_hint": "Handshake between human and robot",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small pilots, big leaps.",
+      "description": "He suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low to prove reliability before scaling up.",
+      "visual_hint": "Zoomed circuit board with red dot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try one task without review.",
+      "description": "This week, identify a single task where AI can act without human review. Run it in a real workflow to test your confidence.",
+      "visual_hint": "Human hand releasing control to AI",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand over keyboard",
+      "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which decision would you let AI make?",
+      "description": "Pick one low-risk decision you'd trust AI to handle alone today. Try it and see what happens—then share your results.",
+      "visual_hint": "Checklist with AI robot writing",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot writing checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-25T14:36:11.792Z",
+  "sourceId": "93a87e369cbc918325dfe7fc44fc3af3"
+}

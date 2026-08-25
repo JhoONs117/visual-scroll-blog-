@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "accel-backed-keenable-is-indexing-the-web-for-ai-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Accel-backed Keenable is indexing the web for AI agents",
+  "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+  "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+  "slides": [
+    "Keenable claims web indexing for AI agents—but can it scale?",
+    "It ingests live pages, turning them into agent-ready data",
+    "Unlike search, it prioritizes machine-readable structures over text",
+    "Developers can now query real-time web context in APIs",
+    "Your next build: test Keenable's index against your own crawler"
+  ],
+  "thread_text": [
+    "1. Can it scale?\n\nKeenable's pitch hinges on ingesting live pages, but the real test is latency: how fresh is 'real-time' when the web changes every second?",
+    "2. Machine-first, humans last\n\nIt prioritizes machine-readable structures, meaning sites built for humans—with messy HTML and JavaScript—might get left behind. That's a gap developers will hit fast.",
+    "3. Query the live web\n\nDevelopers can now pull real-time context via API, but this isn't search. It's a structural shift—your queries need to think in object schemas, not keywords.",
+    "4. The crawler comparison\n\nIf Keenable's index is truly better, it should beat your own crawler on freshness. But building that test is a project in itself—are you ready to invest?",
+    "5. Test it yourself\n\nTake a page you track, query Keenable's API for a fact, and time how long it takes to update after a change. If it lags your own crawler, that's your answer."
+  ],
+  "video_script": [
+    "Keenable claims live web indexing for agents. Scalability uncertain.",
+    "It turns pages into machine-readable data structures.",
+    "Unlike search, it's built for APIs, not humans.",
+    "Developers can query real-time web context now.",
+    "Test its index against your own crawler today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can it scale?\n\nKeenable's pitch hinges on ingesting live pages, but the real test is latency: how fresh is 'real-time' when the web changes every second?",
+        "2. Machine-first, humans last\n\nIt prioritizes machine-readable structures, meaning sites built for humans—with messy HTML and JavaScript—might get left behind. That's a gap developers will hit fast.",
+        "3. Query the live web\n\nDevelopers can now pull real-time context via API, but this isn't search. It's a structural shift—your queries need to think in object schemas, not keywords.",
+        "4. The crawler comparison\n\nIf Keenable's index is truly better, it should beat your own crawler on freshness. But building that test is a project in itself—are you ready to invest?",
+        "5. Test it yourself\n\nTake a page you track, query Keenable's API for a fact, and time how long it takes to update after a change. If it lags your own crawler, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Keenable claims live web indexing for agents. Scalability uncertain.",
+        "It turns pages into machine-readable data structures.",
+        "Unlike search, it's built for APIs, not humans.",
+        "Developers can query real-time web context now.",
+        "Test its index against your own crawler today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your scraper just met its match: Keenable is indexing the live web specifically for AI agents, not humans. 🕸️\n\nThe Accel-backed startup ingests pages and turns them into machine-readable data—prioritizing object schemas over messy HTML and JavaScript. That means an API query can pull real-time context, but it only works if the site’s structure plays nice. 🤖\n\nFor anyone who builds or publishes: your content now needs to be agent-friendly, or it gets left behind in this new index. 🚧\n\nIf you run a crawler, pit it against Keenable's freshness on a page you track. Who updates faster—you or their index? ⏱️"
+    }
+  },
+  "instagram_caption": "Your scraper just met its match: Keenable is indexing the live web specifically for AI agents, not humans. 🕸️\n\nThe Accel-backed startup ingests pages and turns them into machine-readable data—prioritizing object schemas over messy HTML and JavaScript. That means an API query can pull real-time context, but it only works if the site’s structure plays nice. 🤖\n\nFor anyone who builds or publishes: your content now needs to be agent-friendly, or it gets left behind in this new index. 🚧\n\nIf you run a crawler, pit it against Keenable's freshness on a page you track. Who updates faster—you or their index? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Can your AI trust fresh data?",
+      "description": "Keenable ingests live pages, but real-time freshness is the key test. If the web changes every second, can it keep up?",
+      "visual_hint": "Clock over web code",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Machine-first means humans last?",
+      "description": "Keenable prioritizes machine-readable structures, so messy HTML and JavaScript might be left behind. Developers will hit that gap fast.",
+      "visual_hint": "Gears over messy code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Query objects, not keywords",
+      "description": "APIs pull real-time context, but you must think in object schemas. This isn't search—it's a structural shift.",
+      "visual_hint": "Magnifying glass on schema",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "database server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Beat your own crawler?",
+      "description": "If Keenable's index is better, it should win on freshness. But building that test takes time—are you ready to invest?",
+      "visual_hint": "Crawler vs index race",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "people working computer",
+      "image": "https://images.pexels.com/photos/7988746/pexels-photo-7988746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it now—save this for later",
+      "description": "Pick a page you track, query Keenable's API for a fact, and see how fast it updates. If it lags your crawler, you have your answer.",
+      "visual_hint": "Arrow pointing to bookmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "web browser",
+      "image": "https://images.pexels.com/photos/18096283/pexels-photo-18096283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
+  "savedAt": "2026-08-25T14:35:58.288Z",
+  "sourceId": "944b086394f24a2015d614b3e8b907b7"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-says-its-jalape-o-chip-can-power-faster-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "pubDate": "2026-08-25T14:00:00.000Z",
+    "slides": [
+      "Can a Jalapeño chip really make AI faster for you?",
+      "OpenAI's new chip handles data closer to the model.",
+      "It beats rivals by cutting memory bottlenecks, not clock speed.",
+      "Expect quicker replies in production apps using next-gen hardware.",
+      "Test your current AI latency against Jalapeño benchmarks today."
+    ],
+    "thread_text": [
+      "1. The chip that thinks faster\n\nOpenAI's new hardware processes data next to the model, cutting memory bottlenecks. That means AI could respond to you in milliseconds, not seconds.",
+      "2. Why speed isn't about clocks\n\nJalapeño doesn't boost clock speed. It beats rivals by redesigning how data flows, slashing the time it waits for memory.",
+      "3. What it means for your apps\n\nProduction apps using this next-gen hardware will see quicker replies. For developers, that's a shift from tuning prompts to tuning hardware.",
+      "4. The real test: your latency\n\nCurrent AI feels fast until you hit a bottleneck. Jalapeño's design targets the worst-case delays, not just average speed. Your slowest query is the one that matters.",
+      "5. Measure your own bottleneck today\n\nTake your slowest AI prompt and run it against Jalapeño's benchmarks. If the difference is seconds, is it worth upgrading? Test it now."
+    ],
+    "video_script": [
+      "Can a chip make your AI faster?",
+      "OpenAI's new chip cuts memory bottlenecks, not clock speed.",
+      "Data stays close to the model, so replies come quicker.",
+      "Expect faster responses in production apps soon.",
+      "Test your AI latency against Jalapeño benchmarks today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The chip that thinks faster\n\nOpenAI's new hardware processes data next to the model, cutting memory bottlenecks. That means AI could respond to you in milliseconds, not seconds.",
+          "2. Why speed isn't about clocks\n\nJalapeño doesn't boost clock speed. It beats rivals by redesigning how data flows, slashing the time it waits for memory.",
+          "3. What it means for your apps\n\nProduction apps using this next-gen hardware will see quicker replies. For developers, that's a shift from tuning prompts to tuning hardware.",
+          "4. The real test: your latency\n\nCurrent AI feels fast until you hit a bottleneck. Jalapeño's design targets the worst-case delays, not just average speed. Your slowest query is the one that matters.",
+          "5. Measure your own bottleneck today\n\nTake your slowest AI prompt and run it against Jalapeño's benchmarks. If the difference is seconds, is it worth upgrading? Test it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can a chip make your AI faster?",
+          "OpenAI's new chip cuts memory bottlenecks, not clock speed.",
+          "Data stays close to the model, so replies come quicker.",
+          "Expect faster responses in production apps soon.",
+          "Test your AI latency against Jalapeño benchmarks today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your slowest AI query — the one that makes you wait — is exactly the problem OpenAI’s new chip targets. It’s called Jalapeño, and it doesn’t run faster clocks. It moves data closer to the model, slashing the memory bottleneck that causes those laggy replies. 🧠\n\nFor production apps, that means real-time responses shift from average speed to worst-case delays. Prompt tuning won’t fix a hardware limit. But Jalapeño redesigns the flow, not the code. ⚡\n\nFor you as a creator, quicker responses change what you can build — live tools, interactive edits, instant drafts. 📱\n\nWhich of your current AI tasks would you test against Jalapeño’s benchmark first?"
+      }
+    },
+    "instagram_caption": "Your slowest AI query — the one that makes you wait — is exactly the problem OpenAI’s new chip targets. It’s called Jalapeño, and it doesn’t run faster clocks. It moves data closer to the model, slashing the memory bottleneck that causes those laggy replies. 🧠\n\nFor production apps, that means real-time responses shift from average speed to worst-case delays. Prompt tuning won’t fix a hardware limit. But Jalapeño redesigns the flow, not the code. ⚡\n\nFor you as a creator, quicker responses change what you can build — live tools, interactive edits, instant drafts. 📱\n\nWhich of your current AI tasks would you test against Jalapeño’s benchmark first?",
+    "carousel_slides": [
+      {
+        "hook": "Is Jalapeño chip speed just hype?",
+        "description": "OpenAI's chip cuts memory bottlenecks, processing data beside the model. Result: AI responses could drop from seconds to milliseconds. Real performance, not just clock speed.",
+        "visual_hint": "Chip glowing with speed lines",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "microchip processor closeup"
+      },
+      {
+        "hook": "Speed isn't about clock speed",
+        "description": "Jalapeño beats rivals by redesigning data flow, slashing wait time for memory. This means faster worst-case responses, not just average improvements.",
+        "visual_hint": "Data streams bypassing memory blocks",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your apps could reply in milliseconds",
+        "description": "Production apps using this next-gen hardware will see quicker replies. Developers shift focus from tuning prompts to optimizing hardware performance.",
+        "visual_hint": "App response time shrinking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "mobile phone screen",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your slowest query matters most",
+        "description": "Current AI feels fast until a bottleneck hits. Jalapeño targets worst-case delays, not just average speed. That slow query is the real test.",
+        "visual_hint": "Stopwatch over slow loading bar",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hands holding stopwatch",
+        "image": "https://images.pexels.com/photos/35343438/pexels-photo-35343438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and test your latency",
+        "description": "Run your slowest AI prompt against Jalapeño's benchmarks. See if upgrading cuts seconds to milliseconds. Link in bio for details.",
+        "visual_hint": "Benchmark chart with big drop",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "performance graph",
+        "image": "https://images.pexels.com/photos/6801643/pexels-photo-6801643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+    "savedAt": "2026-08-25T14:36:25.299Z",
+    "sourceId": "bbdb3b4da80630f2a18276888c17fa6b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "-the-world-seems-to-be-ready-an-interview-with-ope",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
+    "slides": [
+      "OpenAI's product chief claims the world is ready—but for what exactly?",
+      "Thibault Sottiaux says AI adoption now hinges on trust, not capability.",
+      "He reveals that most enterprises still fear giving AI full autonomy.",
+      "Your teams should pilot small, high-risk tasks to build that trust.",
+      "This week: identify one task where AI can act without human review."
+    ],
+    "thread_text": [
+      "1. Ready for what?\n\nOpenAI's product chief says the world is ready—but for AI autonomy, not just chat. Enterprises still hesitate.",
+      "2. Trust is the barrier\n\nThibault Sottiaux: adoption hinges on trust, not capability. Fear of full autonomy holds firms back.",
+      "3. Small pilots, big leaps\n\nHe suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low.",
+      "4. This week's move\n\nIdentify one task where AI can act without human review. Try it in a real workflow.",
+      "5. Your test\n\nWhat's one decision you'd let AI make alone today? If none, pick a low-risk one and run it."
+    ],
+    "video_script": [
+      "The world is ready for AI autonomy.",
+      "But trust is the real obstacle.",
+      "Start with small, high-risk tasks.",
+      "Let AI act without human review.",
+      "Test one decision on your team."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Ready for what?\n\nOpenAI's product chief says the world is ready—but for AI autonomy, not just chat. Enterprises still hesitate.",
+          "2. Trust is the barrier\n\nThibault Sottiaux: adoption hinges on trust, not capability. Fear of full autonomy holds firms back.",
+          "3. Small pilots, big leaps\n\nHe suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low.",
+          "4. This week's move\n\nIdentify one task where AI can act without human review. Try it in a real workflow.",
+          "5. Your test\n\nWhat's one decision you'd let AI make alone today? If none, pick a low-risk one and run it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The world is ready for AI autonomy.",
+          "But trust is the real obstacle.",
+          "Start with small, high-risk tasks.",
+          "Let AI act without human review.",
+          "Test one decision on your team."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s product chief says the world is ready—but for AI that works on its own, not just chatbots that chat.  \n\nMost companies still won’t give AI full control. The fear isn’t capability, it’s trust. Sottiaux’s fix: start small. Let AI handle one low-stakes, high-risk task without human sign-off.  \n\nFor you, that means testing autonomy where mistakes are cheap—like drafting a response or sorting a list—before scaling to bigger workflows.  \n\nWhat’s one decision you’d let AI make alone this week? Pick it, run it, and watch what breaks. 🤖🔍⚡️"
+      }
+    },
+    "instagram_caption": "OpenAI’s product chief says the world is ready—but for AI that works on its own, not just chatbots that chat.  \n\nMost companies still won’t give AI full control. The fear isn’t capability, it’s trust. Sottiaux’s fix: start small. Let AI handle one low-stakes, high-risk task without human sign-off.  \n\nFor you, that means testing autonomy where mistakes are cheap—like drafting a response or sorting a list—before scaling to bigger workflows.  \n\nWhat’s one decision you’d let AI make alone this week? Pick it, run it, and watch what breaks. 🤖🔍⚡️",
+    "carousel_slides": [
+      {
+        "hook": "What if AI runs your business?",
+        "description": "OpenAI's product chief says the world is ready for AI autonomy, yet enterprises still fear full control. Trust, not tech, is the real barrier.",
+        "visual_hint": "AI abstract brain network",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence abstract"
+      },
+      {
+        "hook": "Trust is the real bottleneck.",
+        "description": "Thibault Sottiaux explains AI adoption hinges on trust, not capability. Enterprises won't surrender autonomy without confidence in the system.",
+        "visual_hint": "Handshake between human and robot",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small pilots, big leaps.",
+        "description": "He suggests piloting AI on small, high-risk tasks to build trust. Start where stakes are low to prove reliability before scaling up.",
+        "visual_hint": "Zoomed circuit board with red dot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try one task without review.",
+        "description": "This week, identify a single task where AI can act without human review. Run it in a real workflow to test your confidence.",
+        "visual_hint": "Human hand releasing control to AI",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand over keyboard",
+        "image": "https://images.pexels.com/photos/37005816/pexels-photo-37005816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which decision would you let AI make?",
+        "description": "Pick one low-risk decision you'd trust AI to handle alone today. Try it and see what happens—then share your results.",
+        "visual_hint": "Checklist with AI robot writing",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot writing checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/25630341/pexels-photo-25630341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-25T14:36:11.792Z",
+    "sourceId": "93a87e369cbc918325dfe7fc44fc3af3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "accel-backed-keenable-is-indexing-the-web-for-ai-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "slides": [
+      "Keenable claims web indexing for AI agents—but can it scale?",
+      "It ingests live pages, turning them into agent-ready data",
+      "Unlike search, it prioritizes machine-readable structures over text",
+      "Developers can now query real-time web context in APIs",
+      "Your next build: test Keenable's index against your own crawler"
+    ],
+    "thread_text": [
+      "1. Can it scale?\n\nKeenable's pitch hinges on ingesting live pages, but the real test is latency: how fresh is 'real-time' when the web changes every second?",
+      "2. Machine-first, humans last\n\nIt prioritizes machine-readable structures, meaning sites built for humans—with messy HTML and JavaScript—might get left behind. That's a gap developers will hit fast.",
+      "3. Query the live web\n\nDevelopers can now pull real-time context via API, but this isn't search. It's a structural shift—your queries need to think in object schemas, not keywords.",
+      "4. The crawler comparison\n\nIf Keenable's index is truly better, it should beat your own crawler on freshness. But building that test is a project in itself—are you ready to invest?",
+      "5. Test it yourself\n\nTake a page you track, query Keenable's API for a fact, and time how long it takes to update after a change. If it lags your own crawler, that's your answer."
+    ],
+    "video_script": [
+      "Keenable claims live web indexing for agents. Scalability uncertain.",
+      "It turns pages into machine-readable data structures.",
+      "Unlike search, it's built for APIs, not humans.",
+      "Developers can query real-time web context now.",
+      "Test its index against your own crawler today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can it scale?\n\nKeenable's pitch hinges on ingesting live pages, but the real test is latency: how fresh is 'real-time' when the web changes every second?",
+          "2. Machine-first, humans last\n\nIt prioritizes machine-readable structures, meaning sites built for humans—with messy HTML and JavaScript—might get left behind. That's a gap developers will hit fast.",
+          "3. Query the live web\n\nDevelopers can now pull real-time context via API, but this isn't search. It's a structural shift—your queries need to think in object schemas, not keywords.",
+          "4. The crawler comparison\n\nIf Keenable's index is truly better, it should beat your own crawler on freshness. But building that test is a project in itself—are you ready to invest?",
+          "5. Test it yourself\n\nTake a page you track, query Keenable's API for a fact, and time how long it takes to update after a change. If it lags your own crawler, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Keenable claims live web indexing for agents. Scalability uncertain.",
+          "It turns pages into machine-readable data structures.",
+          "Unlike search, it's built for APIs, not humans.",
+          "Developers can query real-time web context now.",
+          "Test its index against your own crawler today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your scraper just met its match: Keenable is indexing the live web specifically for AI agents, not humans. 🕸️\n\nThe Accel-backed startup ingests pages and turns them into machine-readable data—prioritizing object schemas over messy HTML and JavaScript. That means an API query can pull real-time context, but it only works if the site’s structure plays nice. 🤖\n\nFor anyone who builds or publishes: your content now needs to be agent-friendly, or it gets left behind in this new index. 🚧\n\nIf you run a crawler, pit it against Keenable's freshness on a page you track. Who updates faster—you or their index? ⏱️"
+      }
+    },
+    "instagram_caption": "Your scraper just met its match: Keenable is indexing the live web specifically for AI agents, not humans. 🕸️\n\nThe Accel-backed startup ingests pages and turns them into machine-readable data—prioritizing object schemas over messy HTML and JavaScript. That means an API query can pull real-time context, but it only works if the site’s structure plays nice. 🤖\n\nFor anyone who builds or publishes: your content now needs to be agent-friendly, or it gets left behind in this new index. 🚧\n\nIf you run a crawler, pit it against Keenable's freshness on a page you track. Who updates faster—you or their index? ⏱️",
+    "carousel_slides": [
+      {
+        "hook": "Can your AI trust fresh data?",
+        "description": "Keenable ingests live pages, but real-time freshness is the key test. If the web changes every second, can it keep up?",
+        "visual_hint": "Clock over web code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Machine-first means humans last?",
+        "description": "Keenable prioritizes machine-readable structures, so messy HTML and JavaScript might be left behind. Developers will hit that gap fast.",
+        "visual_hint": "Gears over messy code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Query objects, not keywords",
+        "description": "APIs pull real-time context, but you must think in object schemas. This isn't search—it's a structural shift.",
+        "visual_hint": "Magnifying glass on schema",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "database server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Beat your own crawler?",
+        "description": "If Keenable's index is better, it should win on freshness. But building that test takes time—are you ready to invest?",
+        "visual_hint": "Crawler vs index race",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "people working computer",
+        "image": "https://images.pexels.com/photos/7988746/pexels-photo-7988746.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it now—save this for later",
+        "description": "Pick a page you track, query Keenable's API for a fact, and see how fast it updates. If it lags your crawler, you have your answer.",
+        "visual_hint": "Arrow pointing to bookmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "web browser",
+        "image": "https://images.pexels.com/photos/18096283/pexels-photo-18096283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
+    "savedAt": "2026-08-25T14:35:58.288Z",
+    "sourceId": "944b086394f24a2015d614b3e8b907b7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-jalape-o-chip-is-built-for-fast-inference",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
+    "slides": [
+      "Can one chip make AI replies feel instant?",
+      "OpenAI's Jalapeño targets massive-scale inference workloads.",
+      "Its real-world speed beats GPUs, yet not all models.",
+      "You may slash latency costs without retraining existing systems.",
+      "Run your own load test before betting infrastructure on it."
+    ],
+    "thread_text": [
+      "1. Instant replies?\n\nOne chip, Jalapeño, may cut AI latency so much that responses feel real-time. But speed claims need scrutiny.",
+      "2. GPU rival?\n\nBenchmarks show it beating GPUs on massive inference tasks, yet performance drops with certain model types. Efficiency isn't universal.",
+      "3. No retraining?\n\nYou can swap it into existing systems and slash latency costs without touching your models. Adoption friction is minimal.",
+      "4. Not all models?\n\nThe chip's magic fades on some architectures. Before betting your infra, run a load test that mirrors your actual workload.",
+      "5. Test it yourself?\n\nTake one of your heaviest prompts, simulate the expected traffic, and compare costs. Will your stack really feel snappier?"
+    ],
+    "video_script": [
+      "Jalapeño makes AI responses feel instant.",
+      "It beats GPUs on massive inference workloads.",
+      "But not all models perform well.",
+      "You can cut latency without retraining systems.",
+      "Run your own load test first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Instant replies?\n\nOne chip, Jalapeño, may cut AI latency so much that responses feel real-time. But speed claims need scrutiny.",
+          "2. GPU rival?\n\nBenchmarks show it beating GPUs on massive inference tasks, yet performance drops with certain model types. Efficiency isn't universal.",
+          "3. No retraining?\n\nYou can swap it into existing systems and slash latency costs without touching your models. Adoption friction is minimal.",
+          "4. Not all models?\n\nThe chip's magic fades on some architectures. Before betting your infra, run a load test that mirrors your actual workload.",
+          "5. Test it yourself?\n\nTake one of your heaviest prompts, simulate the expected traffic, and compare costs. Will your stack really feel snappier?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jalapeño makes AI responses feel instant.",
+          "It beats GPUs on massive inference workloads.",
+          "But not all models perform well.",
+          "You can cut latency without retraining systems.",
+          "Run your own load test first."
+        ]
+      },
+      "instagram": {
+        "caption": "A single chip called Jalapeño just beat GPUs on massive AI inference workloads in OpenAI’s own benchmarks—but the win isn’t universal.  \n\nThe chip slashes latency enough that replies could feel instant, and you can swap it into existing systems without retraining models. However, performance drops sharply on certain model architectures.  \n\nFor you, this means faster user responses and lower latency costs—if your specific stack matches the chip’s strengths.  \n\nBefore betting your infrastructure, run a load test with your heaviest prompts against it. Will your actual traffic see the speedup, or just the benchmark? 🔥⚡🧠"
+      }
+    },
+    "instagram_caption": "A single chip called Jalapeño just beat GPUs on massive AI inference workloads in OpenAI’s own benchmarks—but the win isn’t universal.  \n\nThe chip slashes latency enough that replies could feel instant, and you can swap it into existing systems without retraining models. However, performance drops sharply on certain model architectures.  \n\nFor you, this means faster user responses and lower latency costs—if your specific stack matches the chip’s strengths.  \n\nBefore betting your infrastructure, run a load test with your heaviest prompts against it. Will your actual traffic see the speedup, or just the benchmark? 🔥⚡🧠",
+    "carousel_slides": [
+      {
+        "hook": "What if AI replies felt instant?",
+        "description": "OpenAI's Jalapeño chip cuts AI latency dramatically, making real-time responses possible. But speed claims need scrutiny before you commit.",
+        "visual_hint": "Chip with lightning bolt",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer chip closeup"
+      },
+      {
+        "hook": "Outperforms GPUs on massive inference",
+        "description": "Benchmarks show Jalapeño beating GPUs on large-scale inference tasks, yet performance varies by model type. Efficiency isn't universal—know your workload.",
+        "visual_hint": "GPU and chip comparison chart",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Swap in without retraining models",
+        "description": "Jalapeño integrates into existing systems, slashing latency costs with minimal friction. You keep your models, but gain speed.",
+        "visual_hint": "Model swap arrow icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board macro",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is it fast for every model?",
+        "description": "The chip's advantage fades on certain architectures. Before betting infrastructure, run a load test mirroring your actual usage patterns.",
+        "visual_hint": "Hand holding magnifying glass",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next infra test",
+        "description": "Take one heavy prompt, simulate your traffic, compare costs. Will your stack feel snappier? Test now and decide.",
+        "visual_hint": "Checklist with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "server room racks",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+    "savedAt": "2026-08-25T14:35:44.172Z",
+    "sourceId": "6017c27dc638b35abd3a25702d399690"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-subpoenaed-by-alabama-ag-over-hugging-face-",
     "prompt_version": "1.0.0",
     "status": "published",
