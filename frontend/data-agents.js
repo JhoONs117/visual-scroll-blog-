@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "instagram-s-first-draft-feature-aims-to-make-editi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "pubDate": "Tue, 25 Aug 2026 19:22:52 +0000",
+      "slides": [
+        "Why is Instagram's new feature just called 'First Draft'?",
+        "It auto-saves unfinished Reels for later editing.",
+        "You can't share drafts directly—they're hidden by default.",
+        "This means planning content timelines gets much easier.",
+        "Try it now: start a reel, save, and revisit tomorrow."
+      ],
+      "thread_text": [
+        "1. Hidden by default\n\nInstagram's new 'First Draft' feature auto-saves unfinished Reels, but they're invisible to your followers until you choose to publish.",
+        "2. Not for sharing\n\nYou can't share drafts directly—instead, they're stored privately, giving you a safe space to experiment without public pressure.",
+        "3. Planning made easy\n\nThis hidden layer lets you map out content timelines, batch-create reels, and revisit them anytime before going live.",
+        "4. The twist\n\nFirst Draft doesn't notify your audience or clutter their feed—your unfinished work stays yours until it's ready for prime time.",
+        "5. Try it now\n\nStart a reel today, save it as a draft, and revisit it tomorrow with fresh eyes. Will you see the flaws you missed?"
+      ],
+      "video_script": [
+        "Instagram's new First Draft hides unfinished reels.",
+        "Auto-saves, making planning easier than before.",
+        "You can't share drafts, they stay private.",
+        "Revisit and edit tomorrow before publishing.",
+        "Try it now, start a reel, save it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Hidden by default\n\nInstagram's new 'First Draft' feature auto-saves unfinished Reels, but they're invisible to your followers until you choose to publish.",
+            "2. Not for sharing\n\nYou can't share drafts directly—instead, they're stored privately, giving you a safe space to experiment without public pressure.",
+            "3. Planning made easy\n\nThis hidden layer lets you map out content timelines, batch-create reels, and revisit them anytime before going live.",
+            "4. The twist\n\nFirst Draft doesn't notify your audience or clutter their feed—your unfinished work stays yours until it's ready for prime time.",
+            "5. Try it now\n\nStart a reel today, save it as a draft, and revisit it tomorrow with fresh eyes. Will you see the flaws you missed?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Instagram's new First Draft hides unfinished reels.",
+            "Auto-saves, making planning easier than before.",
+            "You can't share drafts, they stay private.",
+            "Revisit and edit tomorrow before publishing.",
+            "Try it now, start a reel, save it."
+          ]
+        },
+        "instagram": {
+          "caption": "Your unfinished Reels are about to get a private hiding spot. Instagram’s new “First Draft” feature auto-saves your half-finished videos without showing them to anyone.\n\nDrafts stay invisible by default. You can’t share them directly, so there’s zero pressure while you experiment. Batch-create content and revisit it later with fresh eyes before publishing.\n\nFor creators, this kills the “post it before it’s ready” panic. You build your timeline quietly, then release when it actually works.\n\nOpen the app right now, start a Reel, save it as a draft, and check it tomorrow. What’s the first flaw you’ll spot? 🎬📝🙈"
+        }
+      },
+      "instagram_caption": "Your unfinished Reels are about to get a private hiding spot. Instagram’s new “First Draft” feature auto-saves your half-finished videos without showing them to anyone.\n\nDrafts stay invisible by default. You can’t share them directly, so there’s zero pressure while you experiment. Batch-create content and revisit it later with fresh eyes before publishing.\n\nFor creators, this kills the “post it before it’s ready” panic. You build your timeline quietly, then release when it actually works.\n\nOpen the app right now, start a Reel, save it as a draft, and check it tomorrow. What’s the first flaw you’ll spot? 🎬📝🙈",
+      "carousel_slides": [
+        {
+          "hook": "Your unfinished Reels are hidden by default.",
+          "description": "Instagram's new 'First Draft' feature auto-saves incomplete Reels invisibly, keeping your experiments private until you choose to publish.",
+          "visual_hint": "Hidden reel behind curtain",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "curtain stage spotlight"
+        },
+        {
+          "hook": "Can't share drafts directly — they're private.",
+          "description": "Drafts aren't meant for sharing; they're stored privately, giving you a safe space to experiment without public pressure or judgment.",
+          "visual_hint": "Locked draft icon on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone lock screen",
+          "image": "https://images.pexels.com/photos/11857283/pexels-photo-11857283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Planning content timelines gets much easier.",
+          "description": "This hidden layer lets you map out your content calendar, batch-create reels, and revisit them anytime before going live.",
+          "visual_hint": "Calendar with reel thumbnails",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "calendar planning desk",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No audience notifications, no clutter.",
+          "description": "The 'First Draft' feature doesn't notify followers or clutter their feed—your unfinished work stays yours until it's ready for prime time.",
+          "visual_hint": "Silent bell with no alerts",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save a draft now, revisit tomorrow.",
+          "description": "Start a reel today, save it as a draft, and revisit it tomorrow with fresh eyes. Spot flaws you missed and polish it before sharing.",
+          "visual_hint": "Reel draft with edit button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone video editing app",
+          "image": "https://images.pexels.com/photos/7610521/pexels-photo-7610521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+      "savedAt": "2026-08-25T20:18:22.132Z",
+      "sourceId": "61f72c1ca7d4bd588417435201f01034"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-rescues-hide-my-email-feature-from-the-priva",
       "prompt_version": "1.0.0",
       "status": "published",
