@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-seizes-domains-of-chinese-botnet-used-to-hack-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+  "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+  "pubDate": "Wed, 26 Aug 2026 17:01:05 +0000",
+  "slides": [
+    "Who actually hacked NASA, DOJ, and the Senate?",
+    "A Chinese botnet's domains were just seized.",
+    "The malware was hiding in legitimate-looking traffic.",
+    "Your unpatched devices could be the next proxies.",
+    "Audit your network now for silent outbound connections."
+  ],
+  "thread_text": [
+    "1. Who hacked NASA?\n\nA Chinese botnet's domains were seized, but the real question is who was behind the attack.",
+    "2. Hidden in plain sight\n\nThe malware was hiding in legitimate-looking traffic, making it nearly undetectable.",
+    "3. Your devices are targets\n\nUnpatched devices could be the next proxies in this botnet, putting your network at risk.",
+    "4. Silent connections\n\nAudit your network now for silent outbound connections that could indicate a compromise.",
+    "5. Are you next?\n\nCheck your router logs for unknown outbound connections today. If you find one, disconnect immediately."
+  ],
+  "video_script": [
+    "NASA hacked, botnet seized, but who did it?",
+    "Malware hid in normal-looking traffic, unnoticed.",
+    "Unpatched devices become proxies, risk grows.",
+    "Audit now for silent outbound connections.",
+    "Check router logs today, disconnect if unknown."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who hacked NASA?\n\nA Chinese botnet's domains were seized, but the real question is who was behind the attack.",
+        "2. Hidden in plain sight\n\nThe malware was hiding in legitimate-looking traffic, making it nearly undetectable.",
+        "3. Your devices are targets\n\nUnpatched devices could be the next proxies in this botnet, putting your network at risk.",
+        "4. Silent connections\n\nAudit your network now for silent outbound connections that could indicate a compromise.",
+        "5. Are you next?\n\nCheck your router logs for unknown outbound connections today. If you find one, disconnect immediately."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "NASA hacked, botnet seized, but who did it?",
+        "Malware hid in normal-looking traffic, unnoticed.",
+        "Unpatched devices become proxies, risk grows.",
+        "Audit now for silent outbound connections.",
+        "Check router logs today, disconnect if unknown."
+      ]
+    },
+    "instagram": {
+      "caption": "NASA, the DOJ, and the Senate were all hacked through a Chinese botnet—and the US just seized its domains. 🕸️\n\nThe malware hid inside normal-looking traffic, so it slipped past basic defenses. It abused unpatched devices as silent proxies. 🔇\n\nEvery device on your network is a potential pawn. An unpatched router or camera could be routing someone else's attack right now.\n\nIf you create, host, or ship content, your infrastructure is part of this battlefield. A single open port is a door.\n\nChecked your router logs for unknown outbound connections today? One silent link could mean you're already a proxy. 🔐"
+    }
+  },
+  "instagram_caption": "NASA, the DOJ, and the Senate were all hacked through a Chinese botnet—and the US just seized its domains. 🕸️\n\nThe malware hid inside normal-looking traffic, so it slipped past basic defenses. It abused unpatched devices as silent proxies. 🔇\n\nEvery device on your network is a potential pawn. An unpatched router or camera could be routing someone else's attack right now.\n\nIf you create, host, or ship content, your infrastructure is part of this battlefield. A single open port is a door.\n\nChecked your router logs for unknown outbound connections today? One silent link could mean you're already a proxy. 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Your devices could be next.",
+      "description": "A Chinese botnet's domains were seized after hacking NASA, DOJ, and the Senate. Unpatched devices are prime targets.",
+      "visual_hint": "Glowing network nodes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer network cables"
+    },
+    {
+      "hook": "Hackers hid in plain sight.",
+      "description": "The malware disguised itself in legitimate-looking traffic, making detection nearly impossible for months.",
+      "visual_hint": "Camouflaged data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unpatched devices are weapons.",
+      "description": "Any unpatched device can become a botnet proxy, silently attacking others while you stay unaware.",
+      "visual_hint": "Vulnerable router exposed",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "router with lights",
+      "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silent connections mean trouble.",
+      "description": "Audit your network now for silent outbound connections—they could indicate your device is compromised and being used.",
+      "visual_hint": "Hand checking firewall",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing laptop",
+      "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your router logs today.",
+      "description": "Look for unknown outbound connections in your router logs. If found, disconnect immediately and update firmware.",
+      "visual_hint": "Router with warning sign",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "router with warning",
+      "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+  "savedAt": "2026-08-26T19:39:12.238Z",
+  "sourceId": "008755ae7365fbc2f0500dd9ff23b6ca"
+}

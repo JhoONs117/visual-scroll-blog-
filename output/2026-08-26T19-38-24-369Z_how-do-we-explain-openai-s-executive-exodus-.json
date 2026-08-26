@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-do-we-explain-openai-s-executive-exodus-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How do we explain OpenAI’s executive exodus?",
+  "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+  "pubDate": "Wed, 26 Aug 2026 19:34:04 +0000",
+  "slides": [
+    "Why are OpenAI's top leaders fleeing now?",
+    "Sam Altman's return didn't end internal strife.",
+    "The board's power was quietly stripped after chaos.",
+    "Your AI vendor's roadmap just lost its architects.",
+    "Ask: who really controls the models you rely on?"
+  ],
+  "thread_text": [
+    "1. Who's left at OpenAI?\n\nThe exodus isn't just about Altman—it's a brain drain that's leaving the company's future uncertain.",
+    "2. The board's power play\n\nAfter the chaos, the board was stripped of its authority. Now, who actually holds the reins?",
+    "3. Your AI's architects are gone\n\nIf you rely on OpenAI's models, the people who built them are leaving. That's not just their problem.",
+    "4. The roadmap is now a mystery\n\nWithout its key engineers, can OpenAI deliver on its promises? Your business should question the timeline.",
+    "5. Test your reliance today\n\nRun a critical workflow on ChatGPT and note any recent changes. If you can't replicate past results, it's time to diversify."
+  ],
+  "video_script": [
+    "Top leaders are leaving OpenAI. Why now?",
+    "The board lost power after Sam Altman returned.",
+    "Internal strife means your AI's future is uncertain.",
+    "Key architects are gone. The roadmap is unclear.",
+    "Ask yourself: who really controls your models?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's left at OpenAI?\n\nThe exodus isn't just about Altman—it's a brain drain that's leaving the company's future uncertain.",
+        "2. The board's power play\n\nAfter the chaos, the board was stripped of its authority. Now, who actually holds the reins?",
+        "3. Your AI's architects are gone\n\nIf you rely on OpenAI's models, the people who built them are leaving. That's not just their problem.",
+        "4. The roadmap is now a mystery\n\nWithout its key engineers, can OpenAI deliver on its promises? Your business should question the timeline.",
+        "5. Test your reliance today\n\nRun a critical workflow on ChatGPT and note any recent changes. If you can't replicate past results, it's time to diversify."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Top leaders are leaving OpenAI. Why now?",
+        "The board lost power after Sam Altman returned.",
+        "Internal strife means your AI's future is uncertain.",
+        "Key architects are gone. The roadmap is unclear.",
+        "Ask yourself: who really controls your models?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI’s board lost its power after the chaos, and now the people who actually built your AI are walking out the door.  \n\nSam Altman is back, but the internal fight never stopped—it just went quiet. The board’s authority was quietly stripped, leaving a leadership vacuum where decisions used to be made.  \n\nIf you rely on GPT models for your work, the engineers who shaped their behavior are gone or going. That means the roadmap you planned around is now guesswork, and updates might not land as promised.  \n\nTest one critical workflow you run on ChatGPT today. If it changed last month, ask yourself: who’s steering the model you depend on now? 🧭⚠️"
+    }
+  },
+  "instagram_caption": "OpenAI’s board lost its power after the chaos, and now the people who actually built your AI are walking out the door.  \n\nSam Altman is back, but the internal fight never stopped—it just went quiet. The board’s authority was quietly stripped, leaving a leadership vacuum where decisions used to be made.  \n\nIf you rely on GPT models for your work, the engineers who shaped their behavior are gone or going. That means the roadmap you planned around is now guesswork, and updates might not land as promised.  \n\nTest one critical workflow you run on ChatGPT today. If it changed last month, ask yourself: who’s steering the model you depend on now? 🧭⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Who controls your AI?",
+      "description": "After OpenAI's board was stripped of power, internal chaos persists. The stability you assumed may be an illusion.",
+      "visual_hint": "Shadowy boardroom, empty seats",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "boardroom empty chairs"
+    },
+    {
+      "hook": "Power silently shifted.",
+      "description": "The board's authority was quietly removed post-chaos. Now, decisions rest with few—transparency is over.",
+      "visual_hint": "Hands passing a gavel",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gavel hand passing",
+      "image": "https://images.pexels.com/photos/8801166/pexels-photo-8801166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Engineers vanish, promises remain.",
+      "description": "Key architects behind OpenAI's models are exiting. Your business relies on tech whose makers are gone.",
+      "visual_hint": "Empty desks, flickering screens",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "empty office desks",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Roadmaps aren't destiny.",
+      "description": "Without its key engineers, OpenAI's future delivery is uncertain. Your plans should include backups now.",
+      "visual_hint": "Map with marked X's",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "roadmap with pins",
+      "image": "https://images.pexels.com/photos/7235910/pexels-photo-7235910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it's gone.",
+      "description": "Run a critical workflow on ChatGPT today. If results slip, diversify your AI stack immediately.",
+      "visual_hint": "Finger on save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "save button screen",
+      "image": "https://images.pexels.com/photos/38640949/pexels-photo-38640949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+  "savedAt": "2026-08-26T19:38:48.865Z",
+  "sourceId": "a65015085aa139631016907df6fd91bb"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-gemini-has-a-branding-problem-and-so-does",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+  "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+  "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
+  "slides": [
+    "Why does Gemini feel like three products, not one?",
+    "Bard, Duet, and BARD all merged into Gemini",
+    "Yet users still see fragmented, confusing AI naming",
+    "Google's confusion mirrors AI's bigger identity crisis",
+    "Test Gemini once, then name what you actually need"
+  ],
+  "thread_text": [
+    "1. Three products, one name\n\nGoogle merged Bard and Duet into Gemini, yet users still encounter separate, confusing AI tools under the same umbrella.",
+    "2. The naming mess\n\nBard, Duet, and BARD all became Gemini, but the old names persist in menus, creating a fragmented experience that frustrates users.",
+    "3. Bigger identity crisis\n\nThis naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+    "4. The real consequence\n\nUsers can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+    "5. Test it yourself\n\nOpen Gemini and try one task you'd normally do. Name what you actually used. Does the tool match the name?"
+  ],
+  "video_script": [
+    "Gemini feels like three products, not one.",
+    "Bard, Duet, all merged into Gemini.",
+    "Users still see confusing, fragmented AI names.",
+    "This mirrors AI's bigger identity crisis.",
+    "Test Gemini once, name what you need."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Three products, one name\n\nGoogle merged Bard and Duet into Gemini, yet users still encounter separate, confusing AI tools under the same umbrella.",
+        "2. The naming mess\n\nBard, Duet, and BARD all became Gemini, but the old names persist in menus, creating a fragmented experience that frustrates users.",
+        "3. Bigger identity crisis\n\nThis naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+        "4. The real consequence\n\nUsers can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+        "5. Test it yourself\n\nOpen Gemini and try one task you'd normally do. Name what you actually used. Does the tool match the name?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gemini feels like three products, not one.",
+        "Bard, Duet, all merged into Gemini.",
+        "Users still see confusing, fragmented AI names.",
+        "This mirrors AI's bigger identity crisis.",
+        "Test Gemini once, name what you need."
+      ]
+    },
+    "instagram": {
+      "caption": "You open Gemini to draft an email, and you’re not sure if you’re in Bard, Duet, or the main app. 🧩\n\nGoogle merged all three into one brand, but the old names still pop up in menus, making the tool feel like three separate products. It’s not just Google—AI across the board can’t decide what it is. For you, that means wasted time and features you never find because the labels mislead you. 😤\n\nNext time you use Gemini, write down the exact task you did. Does the name match what you just used? If not, that’s the gap. 🔍"
+    }
+  },
+  "instagram_caption": "You open Gemini to draft an email, and you’re not sure if you’re in Bard, Duet, or the main app. 🧩\n\nGoogle merged all three into one brand, but the old names still pop up in menus, making the tool feel like three separate products. It’s not just Google—AI across the board can’t decide what it is. For you, that means wasted time and features you never find because the labels mislead you. 😤\n\nNext time you use Gemini, write down the exact task you did. Does the name match what you just used? If not, that’s the gap. 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Why does Gemini feel like three products?",
+      "description": "Google merged Bard and Duet into Gemini, yet users still see fragmented tools under one name, causing confusion and frustration.",
+      "visual_hint": "Three puzzle pieces, one label",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "puzzle pieces"
+    },
+    {
+      "hook": "Old names still haunt the menus",
+      "description": "Bard, Duet, and BARD all became Gemini, but legacy names persist, creating a fragmented experience that frustrates users.",
+      "visual_hint": "Menu with erased labels",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer menu",
+      "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's identity crisis is real",
+      "description": "This naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+      "visual_hint": "Mirror reflecting question marks",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "mirror question marks",
+      "image": "https://images.pexels.com/photos/6757691/pexels-photo-6757691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Users don't know which Gemini to use",
+      "description": "They can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+      "visual_hint": "Hand pointing at multiple options",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing",
+      "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Gemini now, then tell us",
+      "description": "Open Gemini, try one task you'd normally do, and see if the tool matches the name. Share your experience in the comments.",
+      "visual_hint": "Phone with Gemini open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+  "savedAt": "2026-08-26T19:38:36.220Z",
+  "sourceId": "838ca76e929f068817825954debef2bf"
+}

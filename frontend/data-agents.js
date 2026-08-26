@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "us-seizes-domains-of-chinese-botnet-used-to-hack-n",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "pubDate": "Wed, 26 Aug 2026 17:01:05 +0000",
+      "slides": [
+        "Who actually hacked NASA, DOJ, and the Senate?",
+        "A Chinese botnet's domains were just seized.",
+        "The malware was hiding in legitimate-looking traffic.",
+        "Your unpatched devices could be the next proxies.",
+        "Audit your network now for silent outbound connections."
+      ],
+      "thread_text": [
+        "1. Who hacked NASA?\n\nA Chinese botnet's domains were seized, but the real question is who was behind the attack.",
+        "2. Hidden in plain sight\n\nThe malware was hiding in legitimate-looking traffic, making it nearly undetectable.",
+        "3. Your devices are targets\n\nUnpatched devices could be the next proxies in this botnet, putting your network at risk.",
+        "4. Silent connections\n\nAudit your network now for silent outbound connections that could indicate a compromise.",
+        "5. Are you next?\n\nCheck your router logs for unknown outbound connections today. If you find one, disconnect immediately."
+      ],
+      "video_script": [
+        "NASA hacked, botnet seized, but who did it?",
+        "Malware hid in normal-looking traffic, unnoticed.",
+        "Unpatched devices become proxies, risk grows.",
+        "Audit now for silent outbound connections.",
+        "Check router logs today, disconnect if unknown."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who hacked NASA?\n\nA Chinese botnet's domains were seized, but the real question is who was behind the attack.",
+            "2. Hidden in plain sight\n\nThe malware was hiding in legitimate-looking traffic, making it nearly undetectable.",
+            "3. Your devices are targets\n\nUnpatched devices could be the next proxies in this botnet, putting your network at risk.",
+            "4. Silent connections\n\nAudit your network now for silent outbound connections that could indicate a compromise.",
+            "5. Are you next?\n\nCheck your router logs for unknown outbound connections today. If you find one, disconnect immediately."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "NASA hacked, botnet seized, but who did it?",
+            "Malware hid in normal-looking traffic, unnoticed.",
+            "Unpatched devices become proxies, risk grows.",
+            "Audit now for silent outbound connections.",
+            "Check router logs today, disconnect if unknown."
+          ]
+        },
+        "instagram": {
+          "caption": "NASA, the DOJ, and the Senate were all hacked through a Chinese botnet—and the US just seized its domains. 🕸️\n\nThe malware hid inside normal-looking traffic, so it slipped past basic defenses. It abused unpatched devices as silent proxies. 🔇\n\nEvery device on your network is a potential pawn. An unpatched router or camera could be routing someone else's attack right now.\n\nIf you create, host, or ship content, your infrastructure is part of this battlefield. A single open port is a door.\n\nChecked your router logs for unknown outbound connections today? One silent link could mean you're already a proxy. 🔐"
+        }
+      },
+      "instagram_caption": "NASA, the DOJ, and the Senate were all hacked through a Chinese botnet—and the US just seized its domains. 🕸️\n\nThe malware hid inside normal-looking traffic, so it slipped past basic defenses. It abused unpatched devices as silent proxies. 🔇\n\nEvery device on your network is a potential pawn. An unpatched router or camera could be routing someone else's attack right now.\n\nIf you create, host, or ship content, your infrastructure is part of this battlefield. A single open port is a door.\n\nChecked your router logs for unknown outbound connections today? One silent link could mean you're already a proxy. 🔐",
+      "carousel_slides": [
+        {
+          "hook": "Your devices could be next.",
+          "description": "A Chinese botnet's domains were seized after hacking NASA, DOJ, and the Senate. Unpatched devices are prime targets.",
+          "visual_hint": "Glowing network nodes",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer network cables"
+        },
+        {
+          "hook": "Hackers hid in plain sight.",
+          "description": "The malware disguised itself in legitimate-looking traffic, making detection nearly impossible for months.",
+          "visual_hint": "Camouflaged data stream",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unpatched devices are weapons.",
+          "description": "Any unpatched device can become a botnet proxy, silently attacking others while you stay unaware.",
+          "visual_hint": "Vulnerable router exposed",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "router with lights",
+          "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silent connections mean trouble.",
+          "description": "Audit your network now for silent outbound connections—they could indicate your device is compromised and being used.",
+          "visual_hint": "Hand checking firewall",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing laptop",
+          "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your router logs today.",
+          "description": "Look for unknown outbound connections in your router logs. If found, disconnect immediately and update firmware.",
+          "visual_hint": "Router with warning sign",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "router with warning",
+          "image": "https://images.pexels.com/photos/4218546/pexels-photo-4218546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+      "savedAt": "2026-08-26T19:39:12.238Z",
+      "sourceId": "008755ae7365fbc2f0500dd9ff23b6ca"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-releases-its-official-report-on-the-hugging",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "pubDate": "Wed, 26 Aug 2026 19:05:22 +0000",
+      "slides": [
+        "OpenAI's breach report—what did it reveal?",
+        "Hugging Face attack exposed one shared secret.",
+        "The secret? A token reused across internal systems.",
+        "Your AI supply chain now requires token isolation.",
+        "Audit every shared credential before attackers do."
+      ],
+      "thread_text": [
+        "1. The shared secret\n\nOpenAI's breach report revealed attackers accessed internal chat histories through a compromised employee token.",
+        "2. Hugging Face's token trap\n\nThe same type of token was reused across multiple AI systems, turning one leak into a supply chain risk.",
+        "3. Isolation is the fix\n\nSeparate tokens per service—so a breach in one model doesn't unlock your entire AI stack.",
+        "4. Attackers audit faster\n\nThey scan for shared credentials daily; your audit today is already behind their timeline.",
+        "5. Audit now or lose access\n\nCheck your AI vendor's token settings today. If you reuse a key, replace it before the next breach report names you."
+      ],
+      "video_script": [
+        "A shared token breached OpenAI's systems.",
+        "Hugging Face reused the same secret.",
+        "One leak exposed the whole AI stack.",
+        "Isolate tokens to stop the spread.",
+        "Audit your credentials before attackers do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The shared secret\n\nOpenAI's breach report revealed attackers accessed internal chat histories through a compromised employee token.",
+            "2. Hugging Face's token trap\n\nThe same type of token was reused across multiple AI systems, turning one leak into a supply chain risk.",
+            "3. Isolation is the fix\n\nSeparate tokens per service—so a breach in one model doesn't unlock your entire AI stack.",
+            "4. Attackers audit faster\n\nThey scan for shared credentials daily; your audit today is already behind their timeline.",
+            "5. Audit now or lose access\n\nCheck your AI vendor's token settings today. If you reuse a key, replace it before the next breach report names you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A shared token breached OpenAI's systems.",
+            "Hugging Face reused the same secret.",
+            "One leak exposed the whole AI stack.",
+            "Isolate tokens to stop the spread.",
+            "Audit your credentials before attackers do."
+          ]
+        },
+        "instagram": {
+          "caption": "One stolen employee login gave attackers access to OpenAI’s internal chat histories—through a token reused across multiple systems.  \n\nThe breach happened at Hugging Face, but the real target was your AI supply chain. That single shared secret let intruders pivot from one platform to another, exposing conversations you might have trusted as private.  \n\nOpenAI’s own report says the fix is isolation: a separate key for every service, every model, every vendor. If you reuse one token across tools, you’re the weakest link. 🔑  \n\nYour content workflows—drafts, prompts, client data—are only as safe as the most reused credential. Audit your AI vendor settings today. If any key is duplicated, replace it now. ⏳  \n\nWhen did you last check which systems share the same access token? 🕵️‍♂️"
+        }
+      },
+      "instagram_caption": "One stolen employee login gave attackers access to OpenAI’s internal chat histories—through a token reused across multiple systems.  \n\nThe breach happened at Hugging Face, but the real target was your AI supply chain. That single shared secret let intruders pivot from one platform to another, exposing conversations you might have trusted as private.  \n\nOpenAI’s own report says the fix is isolation: a separate key for every service, every model, every vendor. If you reuse one token across tools, you’re the weakest link. 🔑  \n\nYour content workflows—drafts, prompts, client data—are only as safe as the most reused credential. Audit your AI vendor settings today. If any key is duplicated, replace it now. ⏳  \n\nWhen did you last check which systems share the same access token? 🕵️‍♂️",
+      "carousel_slides": [
+        {
+          "hook": "One shared secret unlocked everything",
+          "description": "OpenAI's breach report revealed attackers accessed internal chat histories via a compromised employee token, exposing the fragility of reused credentials.",
+          "visual_hint": "Open lock with digital trail",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Hugging Face token trap",
+          "description": "The same token type was reused across multiple AI systems, turning one leak into a supply chain risk affecting more than just the initial target.",
+          "visual_hint": "Interlocking gears with chain links",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Isolation is the only fix",
+          "description": "Separate tokens per service—so a breach in one model doesn't unlock your entire AI stack, limiting blast radius and protecting the pipeline.",
+          "visual_hint": "Divided compartments with separate keys",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Attackers audit faster than you",
+          "description": "They scan for shared credentials daily; your audit today is already behind their timeline, making proactive token hygiene critical now.",
+          "visual_hint": "Racing countdown with magnifying glass",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your tokens now",
+          "description": "Check your AI vendor's token settings today. If you reuse a key, replace it before the next breach report names you. Save this for reference.",
+          "visual_hint": "Hand pressing a red audit button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "security lock",
+          "image": "https://images.pexels.com/photos/14893194/pexels-photo-14893194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-26T19:39:00.813Z",
+      "sourceId": "0f701375c211f419f9baafe4fdf5844e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-do-we-explain-openai-s-executive-exodus-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "pubDate": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "slides": [
+        "Why are OpenAI's top leaders fleeing now?",
+        "Sam Altman's return didn't end internal strife.",
+        "The board's power was quietly stripped after chaos.",
+        "Your AI vendor's roadmap just lost its architects.",
+        "Ask: who really controls the models you rely on?"
+      ],
+      "thread_text": [
+        "1. Who's left at OpenAI?\n\nThe exodus isn't just about Altman—it's a brain drain that's leaving the company's future uncertain.",
+        "2. The board's power play\n\nAfter the chaos, the board was stripped of its authority. Now, who actually holds the reins?",
+        "3. Your AI's architects are gone\n\nIf you rely on OpenAI's models, the people who built them are leaving. That's not just their problem.",
+        "4. The roadmap is now a mystery\n\nWithout its key engineers, can OpenAI deliver on its promises? Your business should question the timeline.",
+        "5. Test your reliance today\n\nRun a critical workflow on ChatGPT and note any recent changes. If you can't replicate past results, it's time to diversify."
+      ],
+      "video_script": [
+        "Top leaders are leaving OpenAI. Why now?",
+        "The board lost power after Sam Altman returned.",
+        "Internal strife means your AI's future is uncertain.",
+        "Key architects are gone. The roadmap is unclear.",
+        "Ask yourself: who really controls your models?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's left at OpenAI?\n\nThe exodus isn't just about Altman—it's a brain drain that's leaving the company's future uncertain.",
+            "2. The board's power play\n\nAfter the chaos, the board was stripped of its authority. Now, who actually holds the reins?",
+            "3. Your AI's architects are gone\n\nIf you rely on OpenAI's models, the people who built them are leaving. That's not just their problem.",
+            "4. The roadmap is now a mystery\n\nWithout its key engineers, can OpenAI deliver on its promises? Your business should question the timeline.",
+            "5. Test your reliance today\n\nRun a critical workflow on ChatGPT and note any recent changes. If you can't replicate past results, it's time to diversify."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Top leaders are leaving OpenAI. Why now?",
+            "The board lost power after Sam Altman returned.",
+            "Internal strife means your AI's future is uncertain.",
+            "Key architects are gone. The roadmap is unclear.",
+            "Ask yourself: who really controls your models?"
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI’s board lost its power after the chaos, and now the people who actually built your AI are walking out the door.  \n\nSam Altman is back, but the internal fight never stopped—it just went quiet. The board’s authority was quietly stripped, leaving a leadership vacuum where decisions used to be made.  \n\nIf you rely on GPT models for your work, the engineers who shaped their behavior are gone or going. That means the roadmap you planned around is now guesswork, and updates might not land as promised.  \n\nTest one critical workflow you run on ChatGPT today. If it changed last month, ask yourself: who’s steering the model you depend on now? 🧭⚠️"
+        }
+      },
+      "instagram_caption": "OpenAI’s board lost its power after the chaos, and now the people who actually built your AI are walking out the door.  \n\nSam Altman is back, but the internal fight never stopped—it just went quiet. The board’s authority was quietly stripped, leaving a leadership vacuum where decisions used to be made.  \n\nIf you rely on GPT models for your work, the engineers who shaped their behavior are gone or going. That means the roadmap you planned around is now guesswork, and updates might not land as promised.  \n\nTest one critical workflow you run on ChatGPT today. If it changed last month, ask yourself: who’s steering the model you depend on now? 🧭⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Who controls your AI?",
+          "description": "After OpenAI's board was stripped of power, internal chaos persists. The stability you assumed may be an illusion.",
+          "visual_hint": "Shadowy boardroom, empty seats",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "boardroom empty chairs"
+        },
+        {
+          "hook": "Power silently shifted.",
+          "description": "The board's authority was quietly removed post-chaos. Now, decisions rest with few—transparency is over.",
+          "visual_hint": "Hands passing a gavel",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "gavel hand passing",
+          "image": "https://images.pexels.com/photos/8801166/pexels-photo-8801166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Engineers vanish, promises remain.",
+          "description": "Key architects behind OpenAI's models are exiting. Your business relies on tech whose makers are gone.",
+          "visual_hint": "Empty desks, flickering screens",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "empty office desks",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Roadmaps aren't destiny.",
+          "description": "Without its key engineers, OpenAI's future delivery is uncertain. Your plans should include backups now.",
+          "visual_hint": "Map with marked X's",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "roadmap with pins",
+          "image": "https://images.pexels.com/photos/7235910/pexels-photo-7235910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before it's gone.",
+          "description": "Run a critical workflow on ChatGPT today. If results slip, diversify your AI stack immediately.",
+          "visual_hint": "Finger on save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "save button screen",
+          "image": "https://images.pexels.com/photos/38640949/pexels-photo-38640949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "savedAt": "2026-08-26T19:38:48.865Z",
+      "sourceId": "a65015085aa139631016907df6fd91bb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-gemini-has-a-branding-problem-and-so-does",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "slides": [
+        "Why does Gemini feel like three products, not one?",
+        "Bard, Duet, and BARD all merged into Gemini",
+        "Yet users still see fragmented, confusing AI naming",
+        "Google's confusion mirrors AI's bigger identity crisis",
+        "Test Gemini once, then name what you actually need"
+      ],
+      "thread_text": [
+        "1. Three products, one name\n\nGoogle merged Bard and Duet into Gemini, yet users still encounter separate, confusing AI tools under the same umbrella.",
+        "2. The naming mess\n\nBard, Duet, and BARD all became Gemini, but the old names persist in menus, creating a fragmented experience that frustrates users.",
+        "3. Bigger identity crisis\n\nThis naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+        "4. The real consequence\n\nUsers can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+        "5. Test it yourself\n\nOpen Gemini and try one task you'd normally do. Name what you actually used. Does the tool match the name?"
+      ],
+      "video_script": [
+        "Gemini feels like three products, not one.",
+        "Bard, Duet, all merged into Gemini.",
+        "Users still see confusing, fragmented AI names.",
+        "This mirrors AI's bigger identity crisis.",
+        "Test Gemini once, name what you need."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Three products, one name\n\nGoogle merged Bard and Duet into Gemini, yet users still encounter separate, confusing AI tools under the same umbrella.",
+            "2. The naming mess\n\nBard, Duet, and BARD all became Gemini, but the old names persist in menus, creating a fragmented experience that frustrates users.",
+            "3. Bigger identity crisis\n\nThis naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+            "4. The real consequence\n\nUsers can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+            "5. Test it yourself\n\nOpen Gemini and try one task you'd normally do. Name what you actually used. Does the tool match the name?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gemini feels like three products, not one.",
+            "Bard, Duet, all merged into Gemini.",
+            "Users still see confusing, fragmented AI names.",
+            "This mirrors AI's bigger identity crisis.",
+            "Test Gemini once, name what you need."
+          ]
+        },
+        "instagram": {
+          "caption": "You open Gemini to draft an email, and you’re not sure if you’re in Bard, Duet, or the main app. 🧩\n\nGoogle merged all three into one brand, but the old names still pop up in menus, making the tool feel like three separate products. It’s not just Google—AI across the board can’t decide what it is. For you, that means wasted time and features you never find because the labels mislead you. 😤\n\nNext time you use Gemini, write down the exact task you did. Does the name match what you just used? If not, that’s the gap. 🔍"
+        }
+      },
+      "instagram_caption": "You open Gemini to draft an email, and you’re not sure if you’re in Bard, Duet, or the main app. 🧩\n\nGoogle merged all three into one brand, but the old names still pop up in menus, making the tool feel like three separate products. It’s not just Google—AI across the board can’t decide what it is. For you, that means wasted time and features you never find because the labels mislead you. 😤\n\nNext time you use Gemini, write down the exact task you did. Does the name match what you just used? If not, that’s the gap. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Why does Gemini feel like three products?",
+          "description": "Google merged Bard and Duet into Gemini, yet users still see fragmented tools under one name, causing confusion and frustration.",
+          "visual_hint": "Three puzzle pieces, one label",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "puzzle pieces"
+        },
+        {
+          "hook": "Old names still haunt the menus",
+          "description": "Bard, Duet, and BARD all became Gemini, but legacy names persist, creating a fragmented experience that frustrates users.",
+          "visual_hint": "Menu with erased labels",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer menu",
+          "image": "https://images.pexels.com/photos/12760383/pexels-photo-12760383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI's identity crisis is real",
+          "description": "This naming chaos isn't just Google's problem—it reflects AI's broader struggle to define what it is and what it offers.",
+          "visual_hint": "Mirror reflecting question marks",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "mirror question marks",
+          "image": "https://images.pexels.com/photos/6757691/pexels-photo-6757691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Users don't know which Gemini to use",
+          "description": "They can't tell which Gemini does what, leading to misused features and missed potential, undermining trust in AI's capabilities.",
+          "visual_hint": "Hand pointing at multiple options",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing",
+          "image": "https://images.pexels.com/photos/9127687/pexels-photo-9127687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Gemini now, then tell us",
+          "description": "Open Gemini, try one task you'd normally do, and see if the tool matches the name. Share your experience in the comments.",
+          "visual_hint": "Phone with Gemini open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "savedAt": "2026-08-26T19:38:36.220Z",
+      "sourceId": "838ca76e929f068817825954debef2bf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "orchestration-is-the-new-challenge-for-cx-in-the-a",
       "prompt_version": "1.0.0",
       "status": "published",
