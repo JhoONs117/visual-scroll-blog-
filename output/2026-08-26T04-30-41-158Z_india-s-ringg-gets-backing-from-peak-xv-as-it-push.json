@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "india-s-ringg-gets-backing-from-peak-xv-as-it-push",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+  "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+  "pubDate": "Wed, 26 Aug 2026 03:30:00 +0000",
+  "slides": [
+    "India's Ringg has Peak XV backing, but why voice AI now?",
+    "Their tech processes calls without needing cloud connectivity.",
+    "Voice AI works on-device, surviving network dead zones completely offline.",
+    "Your call center can automate even with poor rural connectivity.",
+    "Test Ringg's offline voice agent on your next low-signal call."
+  ],
+  "thread_text": [
+    "1. Why voice AI now?\n\nRingg has Peak XV backing, but the real story is offline voice AI that processes calls without cloud connectivity.",
+    "2. Dead zones don't kill calls\n\nVoice AI runs on-device, surviving network failures completely offline. Rural connectivity won't stop automation anymore.",
+    "3. Call centers without internet\n\nYour call center can automate even with poor rural connectivity. Ringg's tech works where clouds can't reach.",
+    "4. The twist: on-device processing\n\nIt's not just offline—it's a full voice agent on a chip. No latency, no privacy leaks, no dependency on data centers.",
+    "5. Test it on your next call\n\nTake Ringg's offline voice agent for a spin during a low-signal call. Does your current solution survive that?"
+  ],
+  "video_script": [
+    "Offline voice AI is finally real.",
+    "No cloud. No signal. No problem.",
+    "Calls process right on your device.",
+    "Rural call centers get full automation.",
+    "Test it on a dead zone call."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why voice AI now?\n\nRingg has Peak XV backing, but the real story is offline voice AI that processes calls without cloud connectivity.",
+        "2. Dead zones don't kill calls\n\nVoice AI runs on-device, surviving network failures completely offline. Rural connectivity won't stop automation anymore.",
+        "3. Call centers without internet\n\nYour call center can automate even with poor rural connectivity. Ringg's tech works where clouds can't reach.",
+        "4. The twist: on-device processing\n\nIt's not just offline—it's a full voice agent on a chip. No latency, no privacy leaks, no dependency on data centers.",
+        "5. Test it on your next call\n\nTake Ringg's offline voice agent for a spin during a low-signal call. Does your current solution survive that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Offline voice AI is finally real.",
+        "No cloud. No signal. No problem.",
+        "Calls process right on your device.",
+        "Rural call centers get full automation.",
+        "Test it on a dead zone call."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next call with a dropped signal could still be answered by AI. 📞\n\nRingg just got backing from Peak XV, but the real play is voice AI that runs entirely on-device. No cloud, no connectivity needed — the processing happens right on the phone or hardware itself. That means call centers can automate conversations even in rural dead zones where the internet simply doesn't reach. No latency, no data leaving the device.\n\nFor anyone building voice or support tools, the constraint just shifted: you no longer need your user to be online for automation to work. The infrastructure floor just got lower.\n\nWhen's the last time you tested your own product in a no-signal area? 📴"
+    }
+  },
+  "instagram_caption": "Your next call with a dropped signal could still be answered by AI. 📞\n\nRingg just got backing from Peak XV, but the real play is voice AI that runs entirely on-device. No cloud, no connectivity needed — the processing happens right on the phone or hardware itself. That means call centers can automate conversations even in rural dead zones where the internet simply doesn't reach. No latency, no data leaving the device.\n\nFor anyone building voice or support tools, the constraint just shifted: you no longer need your user to be online for automation to work. The infrastructure floor just got lower.\n\nWhen's the last time you tested your own product in a no-signal area? 📴",
+  "carousel_slides": [
+    {
+      "hook": "Voice AI that survives dead zones?",
+      "description": "Ringg's on-device voice AI processes calls without cloud, so automation works even where networks fail. Peak XV backs this offline shift.",
+      "visual_hint": "Phone with signal bars disappearing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone signal bars"
+    },
+    {
+      "hook": "Calls don't need the cloud anymore",
+      "description": "Ringg's tech runs entirely on-device, eliminating cloud dependency. Network outages won't interrupt your voice AI — a game changer for rural areas.",
+      "visual_hint": "Cloud crossed out, chip highlighted",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "microchip circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Offline voice agents for call centers",
+      "description": "Poor rural connectivity no longer blocks automation. Ringg's on-device processing keeps call centers operational even in the most remote locations.",
+      "visual_hint": "Map with rural zones connected",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rural landscape antenna",
+      "image": "https://images.pexels.com/photos/18125208/pexels-photo-18125208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist: full AI on a chip",
+      "description": "It's not just offline—it's a complete voice agent on a chip. Zero latency, no privacy leaks, no data centers required.",
+      "visual_hint": "Chip with voice waves emanating",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding microchip",
+      "image": "https://images.pexels.com/photos/7286030/pexels-photo-7286030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next low-signal call",
+      "description": "Test Ringg's offline voice agent on your next low-signal call. Experience automation that survives where others fail.",
+      "visual_hint": "Phone with checkmark overlay",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone checkmark",
+      "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+  "savedAt": "2026-08-26T04:30:54.964Z",
+  "sourceId": "3171b8e205ace109befda3393bf9f02e"
+}
