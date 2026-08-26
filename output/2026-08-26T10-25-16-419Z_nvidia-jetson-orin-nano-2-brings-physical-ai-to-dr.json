@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-jetson-orin-nano-2-brings-physical-ai-to-dr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+  "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+  "pubDate": "Wed, 26 Aug 2026 09:08:11 +0000",
+  "slides": [
+    "Can a $249 chip give robots true autonomy?",
+    "NVIDIA's Jetson Orin Nano 2 Super delivers 67 TOPS.",
+    "But its real leap is handling real-time sensor fusion.",
+    "Drones now navigate without GPS, mapping in milliseconds.",
+    "Prototype today: replace your old board, test in flight."
+  ],
+  "thread_text": [
+    "1. What if your drone thinks?\n\nA $249 board from NVIDIA can now process sensor data in milliseconds, letting drones map and navigate without GPS. This isn't a lab experiment—it's on your workbench.",
+    "2. The Super's secret\n\nThe Jetson Orin Nano 2 Super packs 67 TOPS, but the real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+    "3. No GPS? No problem.\n\nDrones with this chip can build a 3D map in milliseconds and fly through forests or tunnels without satellites. They react to obstacles faster than a human pilot can blink.",
+    "4. From prototype to sky\n\nYou can swap your old board today and test this in flight. The hardware is ready, the SDK is free, and the community is already sharing flight logs.",
+    "5. Ready to crash your drone?\n\nTake your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. If you've never tested sensor fusion, start there. Will you?"
+  ],
+  "video_script": [
+    "A $249 chip gives drones true autonomy.",
+    "67 TOPS, but sensor fusion is key.",
+    "No GPS needed, maps in milliseconds.",
+    "Swap your board and test in flight.",
+    "Ready to crash your drone today?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your drone thinks?\n\nA $249 board from NVIDIA can now process sensor data in milliseconds, letting drones map and navigate without GPS. This isn't a lab experiment—it's on your workbench.",
+        "2. The Super's secret\n\nThe Jetson Orin Nano 2 Super packs 67 TOPS, but the real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+        "3. No GPS? No problem.\n\nDrones with this chip can build a 3D map in milliseconds and fly through forests or tunnels without satellites. They react to obstacles faster than a human pilot can blink.",
+        "4. From prototype to sky\n\nYou can swap your old board today and test this in flight. The hardware is ready, the SDK is free, and the community is already sharing flight logs.",
+        "5. Ready to crash your drone?\n\nTake your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. If you've never tested sensor fusion, start there. Will you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A $249 chip gives drones true autonomy.",
+        "67 TOPS, but sensor fusion is key.",
+        "No GPS needed, maps in milliseconds.",
+        "Swap your board and test in flight.",
+        "Ready to crash your drone today?"
+      ]
+    },
+    "instagram": {
+      "caption": "You can replace the brain of your drone for $249 and it’ll start navigating forests without any GPS signal.  \n\nNVIDIA’s new Jetson Orin Nano 2 Super board hits 67 TOPS, but the real trick is fusing camera, LiDAR, and radar data instantly—no lag between what the sensors see and what the motors do. That’s the difference between crashing and dodging a branch mid-flight.  \n\nFor you building robots or drones, this means swapping your old board today gives you real-time 3D mapping and obstacle reaction faster than a human blink. The SDK is free, and the hardware is off the shelf.  \n\nWhat’s the first GPS-denied spot you’ll test your own board in? 🛸📡🧠"
+    }
+  },
+  "instagram_caption": "You can replace the brain of your drone for $249 and it’ll start navigating forests without any GPS signal.  \n\nNVIDIA’s new Jetson Orin Nano 2 Super board hits 67 TOPS, but the real trick is fusing camera, LiDAR, and radar data instantly—no lag between what the sensors see and what the motors do. That’s the difference between crashing and dodging a branch mid-flight.  \n\nFor you building robots or drones, this means swapping your old board today gives you real-time 3D mapping and obstacle reaction faster than a human blink. The SDK is free, and the hardware is off the shelf.  \n\nWhat’s the first GPS-denied spot you’ll test your own board in? 🛸📡🧠",
+  "carousel_slides": [
+    {
+      "hook": "Can a $249 chip replace GPS?",
+      "description": "This board processes sensors in milliseconds, letting drones map and navigate without satellites. It's not a lab experiment—it's on your workbench.",
+      "visual_hint": "Drone flying through forest canopy",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "drone forest flight"
+    },
+    {
+      "hook": "67 TOPS, but that's not the magic",
+      "description": "The real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+      "visual_hint": "Sensor data streams merging on chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sensor fusion diagram",
+      "image": "https://images.pexels.com/photos/19469906/pexels-photo-19469906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No GPS? No problem.",
+      "description": "Drones with this chip build 3D maps in milliseconds, flying through forests or tunnels without satellites. They react faster than a human pilot can blink.",
+      "visual_hint": "3D map rendered in real-time",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "3d mapping drone",
+      "image": "https://images.pexels.com/photos/18966321/pexels-photo-18966321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Swap your old board today",
+      "description": "You can replace your current board and test this in flight. The hardware is ready, the SDK is free, and the community is sharing flight logs.",
+      "visual_hint": "Hand holding circuit board near drone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board hand",
+      "image": "https://images.pexels.com/photos/7285969/pexels-photo-7285969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to crash your drone?",
+      "description": "Take your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. Start testing sensor fusion now.",
+      "visual_hint": "Drone hovering in dark garage",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "drone indoor garage",
+      "image": "https://images.pexels.com/photos/32729904/pexels-photo-32729904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/23223967/pexels-photo-23223967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-26T10:25:43.925Z",
+  "sourceId": "813c205aa1a4a2774d53213f2270aaba"
+}

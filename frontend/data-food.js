@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "cosce-di-pollo-in-friggitrice-ad-aria-con-salsa-ba",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Cosce di pollo in friggitrice ad aria con salsa barbecue",
+    "link": "https://ricette.giallozafferano.it/Cosce-di-pollo-in-friggitrice-ad-aria-con-salsa-barbecue.html",
+    "pubDate": "Wed, 26 Aug 2026 11:40:00 +0200",
+    "content": "Cosce di pollo in friggitrice ad aria con salsa barbecue Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Secondi piatti Cosce di pollo in friggitrice ad aria con salsa barbecue /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 30 min Dosi per: 4 persone Costo: Medio PRESENTAZIONE Se avete voglia di un secondo piatto sfizioso e facile da preparare, le cosce di pollo in friggitrice ad aria con salsa barbecue sono la ricetta perfetta! La carne rimane morbida e succosa all’interno, mentre all’esterno diventa appetitosa e ben dorata grazie a una marinatura speziata a base di paprika affumicata. A rendere il pollo ancora più irresistibile ci pensa la salsa barbecue , che crea una glassatura saporita. Servite le cosce di pollo con la cremosa Alabama White Sauce, una specialità americana cremosa e leggermente acidula, preparata con maionese, aceto e senape, e accompagnatele con patate arrosto o verdure di stagione: porterete in tavola una cena gustosa e ricca di sapore! Provate altre ricette di pollo in friggitrice ad aria : Sovracosce di pollo in friggitrice ad aria Cosce di pollo in friggitrice ad aria Cotolette di pollo impanate in friggitrice ad aria Bocconcini di pollo in friggitrice ad aria Petto di pollo in friggitrice ad aria INGREDIENTI Fusi di pollo 4 Salsa barbecue q.b. Paprika affumicata 1 cucchiaio Pepe nero q.b. Sale fino 1 cucchiaino Olio extravergine d'oliva q.b. Sale grosso q.b. per la Alabama white sauce Maionese 60 g Aceto di mele 1 cucchiaino Senape 1 cucchiaino Pepe nero q.b. Aglio in polvere 1 pizzico Senape 1 cucchiaino AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare le Cosce di pollo in friggitrice ad aria con salsa barbecue Per preparare le cosce di pollo in friggitrice ad aria con salsa barbecue, per prima cosa tamponate bene la carne con della carta da cucina, in modo da eliminare l’umidità in eccesso 1 . Con un coltello affilato praticate dei tagli abbastanza profondi nella parte più carnosa dei fusi: in questo modo il condimento penetrerà meglio e la carne cuocerà in maniera più uniforme 2 . Trasferite i fusi in una ciotola capiente e aggiungete la paprika affumicata 3 . Versate un filo d’olio e insaporite con pepe nero 4 e sale 5 . Mescolate accuratamente con le mani, massaggiando il condimento sulla carne e facendo in modo che raggiunga anche l’interno dei tagli 6 . Sistemate i fusi nel cestello della friggitrice ad aria, senza sovrapporli 7 , e cuocete a 190°C per circa 20-25 minuti, girandoli a metà cottura 8 . I tempi possono variare in base allo spessore della carne. Nel frattempo preparate l’Alabama White Sauce,che servirà per accompagnare il pollo. Versate l’aceto nella maionese 9 . Unite la senape 10 , insaporite con pepe nero 11 e aggiungete l’aglio in polvere. Mescolate accuratamente con un cucchiaino fino a ottenere una salsa liscia e omogenea 12 , quindi tenetela da parte. Quando i fusi saranno cotti, spennellateli generosamente con la salsa barbecue classica 13 . Rimetteteli nella friggitrice ad aria e proseguite la cottura per altri 6 minuti, girandoli a metà cottura e spennellando con altra salsa barbecue anche l’altro lato. Al termine dovranno risultare ben glassati e leggermente caramellati in superficie 14 . Servite i fusi di pollo ben caldi, completandoli con un pizzico di sale grosso e semi di sesamo, accompagnandoli con delle patate al forno 15 . Conservazione Potete conservare le cosce di pollo cotte in frigorifero per 2-3 giorni, chiuse in un contenitore ermetico. Conservate l’Alabama White Sauce separatamente, sempre in frigorifero per un giorno. Consiglio In alternativa, potete cuocere i fusi in forno a 200°C per circa 35-40 minuti, girandoli a metà cottura. Dopo averli spennellati con la salsa barbecue, proseguite la cottura per altri 10 minuti, girandoli a metà e aggiungendo altra salsa sull’altro lato. L' Alabama White Sauce è una salsa barbecue bianca a base di maionese. Ha una consistenza fluida e un profilo aromatico acidulo, pungente e leggermente speziato, ideale per rendere succosa la carne di pollo. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Paprika Aglio Olio di oliva Senape Scopri tutto sugli ingredienti Presente in: Secondi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Cosce di pollo in friggitrice ad aria con salsa barbecue Bavarese al datterino vegana Tramezzini vegetariani 5.0 SCOPRI Salsa barbecue Cosce di pollo al limone Cosce di pollo alla birra Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Cosce di pollo dorate e glassate in salsa barbecue",
+      "Fusi di pollo, paprika, salsa barbecue, maionese, senape",
+      "Tampona i fusi, incidi e massaggia con spezie",
+      "Cuoci in friggitrice a 190°C per 25 minuti",
+      "Spennella di salsa barbecue e servi con sale grosso"
+    ],
+    "instagram_caption": "C’è qualcosa di magico in una coscia di pollo che diventa croccante fuori e tenerissima dentro, il tutto senza nemmeno accendere il forno. 😏\n\nStasera ho lasciato che la friggitrice ad aria facesse la magia: fusi massaggiati con paprika e spezie, cotti a 190° per 25 minuti e poi glassati con una generosa spennellata di salsa barbecue. Il profumo? Inebriante. Il risultato? Una crosticina caramellata che si scioglie al primo morso, con quella punta di affumicato che abbraccia la carne. Ah, e una maionese fatta in casa con un tocco di senape per accompagnare è l’unica scelta possibile. 🤤\n\nIl sale grosso finale fa quel “click” che ti fa chiudere gli occhi. Fidati.",
+    "formats": {
+      "instagram": {
+        "caption": "C’è qualcosa di magico in una coscia di pollo che diventa croccante fuori e tenerissima dentro, il tutto senza nemmeno accendere il forno. 😏\n\nStasera ho lasciato che la friggitrice ad aria facesse la magia: fusi massaggiati con paprika e spezie, cotti a 190° per 25 minuti e poi glassati con una generosa spennellata di salsa barbecue. Il profumo? Inebriante. Il risultato? Una crosticina caramellata che si scioglie al primo morso, con quella punta di affumicato che abbraccia la carne. Ah, e una maionese fatta in casa con un tocco di senape per accompagnare è l’unica scelta possibile. 🤤\n\nIl sale grosso finale fa quel “click” che ti fa chiudere gli occhi. Fidati."
+      },
+      "tiktok": {
+        "script": [
+          "Prendo i fusi e li tampono bene.",
+          "Incido la pelle e massaggio con le spezie.",
+          "Via in friggitrice a 190°, venticinque minuti.",
+          "Li spennello di salsa barbecue, che goduria.",
+          "Sale grosso e servo, pronti a mangiare."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Croccanti fuori, succose dentro, con quella glassa che si caramelizza sui bordi. Se non vi è venuta fame già solo a leggere il titolo, questo thread ve la farà venire.",
+          "4 fusi di pollo, paprika dolce, salsa barbecue, maionese e senape. Sì, la senape non è nel titolo ma è il segreto per un sapore che non dimenticate. Tamponate i fusi, incidete la pelle e massaggiate con paprika.",
+          "Poi arriva il momento magico: friggitrice ad aria a 190°C per 25 minuti. La pelle diventa una corazza croccante, mentre dentro il pollo resta tenero. Non girateli troppo, lasciate che la crosta si formi.",
+          "A 5 minuti dalla fine, spennellate generosamente di salsa barbecue. Fatela caramellare un altro giro nella friggitrice, poi servite con una spolverata di sale grosso. Il contrasto tra dolce e salato è pazzesco.",
+          "Il trucco finale? Aggiungete un filo di tabasco alla maionese per intingere i fusi. Provata? Taggate nei commenti e fatemi sapere com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo i fusi e li tampono bene.",
+      "Incido la pelle e massaggio con le spezie.",
+      "Via in friggitrice a 190°, venticinque minuti.",
+      "Li spennello di salsa barbecue, che goduria.",
+      "Sale grosso e servo, pronti a mangiare."
+    ],
+    "thread_text": [
+      "Croccanti fuori, succose dentro, con quella glassa che si caramelizza sui bordi. Se non vi è venuta fame già solo a leggere il titolo, questo thread ve la farà venire.",
+      "4 fusi di pollo, paprika dolce, salsa barbecue, maionese e senape. Sì, la senape non è nel titolo ma è il segreto per un sapore che non dimenticate. Tamponate i fusi, incidete la pelle e massaggiate con paprika.",
+      "Poi arriva il momento magico: friggitrice ad aria a 190°C per 25 minuti. La pelle diventa una corazza croccante, mentre dentro il pollo resta tenero. Non girateli troppo, lasciate che la crosta si formi.",
+      "A 5 minuti dalla fine, spennellate generosamente di salsa barbecue. Fatela caramellare un altro giro nella friggitrice, poi servite con una spolverata di sale grosso. Il contrasto tra dolce e salato è pazzesco.",
+      "Il trucco finale? Aggiungete un filo di tabasco alla maionese per intingere i fusi. Provata? Taggate nei commenti e fatemi sapere com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Croccanti e glassate in 25 minuti",
+        "description": "Cosce di pollo irresistibili, cotte in friggitrice ad aria con salsa barbecue: dorate, succose e pronte per il vostro prossimo pasto.",
+        "visual_hint": "Primo piano cosce glassate",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory barbecue chicken legs"
+      },
+      {
+        "hook": "I semplici protagonisti",
+        "description": "Fusi di pollo, paprika, salsa barbecue, maionese e senape: si combinano per un piatto saporito e facile da preparare.",
+        "visual_hint": "Ingredienti su sfondo scuro",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "chicken drumsticks spices",
+        "image": "https://images.pexels.com/photos/37048264/pexels-photo-37048264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto: incidere e massaggiare",
+        "description": "Tampona i fusi per asciugarli, incidi leggermente la pelle e massaggia con paprika e spezie: il sapore penetra in profondità.",
+        "visual_hint": "Mani che massaggiano spezie",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "seasoning chicken drumsticks",
+        "image": "https://images.pexels.com/photos/37924304/pexels-photo-37924304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cottura perfetta senza olio",
+        "description": "Preriscalda la friggitrice ad aria e cuoci i fusi a 190°C per 25 minuti: girali a metà per una doratura uniforme.",
+        "visual_hint": "Cestello friggitrice con pollo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "air fryer chicken thighs",
+        "image": "https://images.pexels.com/photos/4589138/pexels-photo-4589138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il finale: glassa e croccantezza",
+        "description": "Spennella i fusi con salsa barbecue al termine della cottura, aggiungi un pizzico di sale grosso e servi: un successo assicurato.",
+        "visual_hint": "Pollo glassato su piatto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "barbecue glazed chicken",
+        "image": "https://images.pexels.com/photos/27558300/pexels-photo-27558300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "meat",
+    "signature_ingredients": [
+      "fusi di pollo",
+      "salsa barbecue",
+      "paprika"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36562/Cosce-di-pollo-in-friggitrice-ad-aria-con-salsa-barbecue_650x433_wm.jpg",
+    "savedAt": "2026-08-26T10:34:22.963Z",
+    "sourceId": "371dbd2e7318f78011bac8de0ecad306"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "tagliata-di-petto-di-pollo",
     "prompt_version": "1.0.0",
     "status": "published",

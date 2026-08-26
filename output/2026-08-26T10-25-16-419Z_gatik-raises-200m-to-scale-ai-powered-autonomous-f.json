@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gatik-raises-200m-to-scale-ai-powered-autonomous-f",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+  "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+  "pubDate": "Wed, 26 Aug 2026 10:00:00 +0000",
+  "slides": [
+    "Gatik raised $200M. Is autonomy finally profitable?",
+    "Short-haul logistics costs kill margins for retailers.",
+    "Gatik removes the driver but still needs remote operators.",
+    "Shippers can cut delivery costs by 30% without ownership.",
+    "Test one route now, or rivals will set pricing."
+  ],
+  "thread_text": [
+    "1. Who's really driving?\n\nGatik just raised $200M, but their trucks still need remote operators. The driver's gone, the human isn't.",
+    "2. The cost hidden in short hauls\n\nRetailers bleed margins on short-haul logistics. Gatik's claim: cut delivery costs by 30% without owning a single truck.",
+    "3. Autonomy's catch\n\nRemoving the driver but adding remote oversight swaps one labor cost for another. The question isn't if it's cheaper, but when it is.",
+    "4. The real prize\n\nShippers can [TYPO: 'can' repeated] use Gatik's service without ownership. That turns fixed costs into variable ones—a CFO's dream.",
+    "5. Your move now\n\nPilot one route this quarter or watch competitors set pricing. Test it on your own logistics math—will 30% savings survive your real distances?"
+  ],
+  "video_script": [
+    "Gatik raised $200M. Still needs remote operators.",
+    "Short hauls kill retailer margins.",
+    "Cut costs 30%, skip truck ownership.",
+    "But remote oversight may eat savings.",
+    "Pilot one route now, or lose."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's really driving?\n\nGatik just raised $200M, but their trucks still need remote operators. The driver's gone, the human isn't.",
+        "2. The cost hidden in short hauls\n\nRetailers bleed margins on short-haul logistics. Gatik's claim: cut delivery costs by 30% without owning a single truck.",
+        "3. Autonomy's catch\n\nRemoving the driver but adding remote oversight swaps one labor cost for another. The question isn't if it's cheaper, but when it is.",
+        "4. The real prize\n\nShippers can [TYPO: 'can' repeated] use Gatik's service without ownership. That turns fixed costs into variable ones—a CFO's dream.",
+        "5. Your move now\n\nPilot one route this quarter or watch competitors set pricing. Test it on your own logistics math—will 30% savings survive your real distances?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gatik raised $200M. Still needs remote operators.",
+        "Short hauls kill retailer margins.",
+        "Cut costs 30%, skip truck ownership.",
+        "But remote oversight may eat savings.",
+        "Pilot one route now, or lose."
+      ]
+    },
+    "instagram": {
+      "caption": "$200M raised, but the trucks still need remote operators watching from afar. 🚛\n\nGatik just closed a massive funding round for autonomous short-haul freight. Their pitch to retailers: cut delivery costs by 30% without buying a single truck. The catch—you swap a driver for a remote oversight team, and the cost question becomes \"when,\" not \"if.\"\n\nFor anyone building logistics content: the unit economics just changed. Fixed fleet costs become variable service fees, which means pricing comparisons you published last quarter might already be obsolete.\n\nDoes the 30% claim survive when your delivery radius stretches past their sweet spot? Run the math on one route now, or wait until competitors set the benchmark for you. ⌛️"
+    }
+  },
+  "instagram_caption": "$200M raised, but the trucks still need remote operators watching from afar. 🚛\n\nGatik just closed a massive funding round for autonomous short-haul freight. Their pitch to retailers: cut delivery costs by 30% without buying a single truck. The catch—you swap a driver for a remote oversight team, and the cost question becomes \"when,\" not \"if.\"\n\nFor anyone building logistics content: the unit economics just changed. Fixed fleet costs become variable service fees, which means pricing comparisons you published last quarter might already be obsolete.\n\nDoes the 30% claim survive when your delivery radius stretches past their sweet spot? Run the math on one route now, or wait until competitors set the benchmark for you. ⌛️",
+  "carousel_slides": [
+    {
+      "hook": "Autonomy's real cost isn't drivers.",
+      "description": "Gatik raised $200M but still needs remote operators. The driver is gone, the human isn't. Is that profitable?",
+      "visual_hint": "Truck empty cab, remote control room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous truck highway"
+    },
+    {
+      "hook": "Retailers bleed on short hauls.",
+      "description": "Short-haul logistics costs kill margins. Gatik claims 30% cost cuts with no truck ownership—a CFO's dream.",
+      "visual_hint": "Retail supply chain with cost graphs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "delivery truck warehouse",
+      "image": "https://images.pexels.com/photos/18885403/pexels-photo-18885403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Remote operators replace drivers.",
+      "description": "Autonomy swaps driver wages for remote oversight. The question isn't if it's cheaper, but when.",
+      "visual_hint": "Control center with screens and personnel",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control room screens",
+      "image": "https://images.pexels.com/photos/39071423/pexels-photo-39071423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ownership becomes optional.",
+      "description": "Shippers use Gatik as a service, turning fixed costs into variable ones. That's the real game-changer.",
+      "visual_hint": "Hands shaking over service contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot one route now or lose pricing power.",
+      "description": "Save this post and test one route. Will 30% savings survive your real distances? Compute now.",
+      "visual_hint": "Ruler measuring route on map",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "map route planning",
+      "image": "https://images.pexels.com/photos/5302805/pexels-photo-5302805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-26T10:25:30.159Z",
+  "sourceId": "f5e441e0e9f8a60ce689d6c4a562f717"
+}

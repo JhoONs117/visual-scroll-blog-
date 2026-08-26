@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "nvidia-jetson-orin-nano-2-brings-physical-ai-to-dr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+    "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+    "pubDate": "Wed, 26 Aug 2026 09:08:11 +0000",
+    "slides": [
+      "Can a $249 chip give robots true autonomy?",
+      "NVIDIA's Jetson Orin Nano 2 Super delivers 67 TOPS.",
+      "But its real leap is handling real-time sensor fusion.",
+      "Drones now navigate without GPS, mapping in milliseconds.",
+      "Prototype today: replace your old board, test in flight."
+    ],
+    "thread_text": [
+      "1. What if your drone thinks?\n\nA $249 board from NVIDIA can now process sensor data in milliseconds, letting drones map and navigate without GPS. This isn't a lab experiment—it's on your workbench.",
+      "2. The Super's secret\n\nThe Jetson Orin Nano 2 Super packs 67 TOPS, but the real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+      "3. No GPS? No problem.\n\nDrones with this chip can build a 3D map in milliseconds and fly through forests or tunnels without satellites. They react to obstacles faster than a human pilot can blink.",
+      "4. From prototype to sky\n\nYou can swap your old board today and test this in flight. The hardware is ready, the SDK is free, and the community is already sharing flight logs.",
+      "5. Ready to crash your drone?\n\nTake your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. If you've never tested sensor fusion, start there. Will you?"
+    ],
+    "video_script": [
+      "A $249 chip gives drones true autonomy.",
+      "67 TOPS, but sensor fusion is key.",
+      "No GPS needed, maps in milliseconds.",
+      "Swap your board and test in flight.",
+      "Ready to crash your drone today?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if your drone thinks?\n\nA $249 board from NVIDIA can now process sensor data in milliseconds, letting drones map and navigate without GPS. This isn't a lab experiment—it's on your workbench.",
+          "2. The Super's secret\n\nThe Jetson Orin Nano 2 Super packs 67 TOPS, but the real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+          "3. No GPS? No problem.\n\nDrones with this chip can build a 3D map in milliseconds and fly through forests or tunnels without satellites. They react to obstacles faster than a human pilot can blink.",
+          "4. From prototype to sky\n\nYou can swap your old board today and test this in flight. The hardware is ready, the SDK is free, and the community is already sharing flight logs.",
+          "5. Ready to crash your drone?\n\nTake your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. If you've never tested sensor fusion, start there. Will you?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A $249 chip gives drones true autonomy.",
+          "67 TOPS, but sensor fusion is key.",
+          "No GPS needed, maps in milliseconds.",
+          "Swap your board and test in flight.",
+          "Ready to crash your drone today?"
+        ]
+      },
+      "instagram": {
+        "caption": "You can replace the brain of your drone for $249 and it’ll start navigating forests without any GPS signal.  \n\nNVIDIA’s new Jetson Orin Nano 2 Super board hits 67 TOPS, but the real trick is fusing camera, LiDAR, and radar data instantly—no lag between what the sensors see and what the motors do. That’s the difference between crashing and dodging a branch mid-flight.  \n\nFor you building robots or drones, this means swapping your old board today gives you real-time 3D mapping and obstacle reaction faster than a human blink. The SDK is free, and the hardware is off the shelf.  \n\nWhat’s the first GPS-denied spot you’ll test your own board in? 🛸📡🧠"
+      }
+    },
+    "instagram_caption": "You can replace the brain of your drone for $249 and it’ll start navigating forests without any GPS signal.  \n\nNVIDIA’s new Jetson Orin Nano 2 Super board hits 67 TOPS, but the real trick is fusing camera, LiDAR, and radar data instantly—no lag between what the sensors see and what the motors do. That’s the difference between crashing and dodging a branch mid-flight.  \n\nFor you building robots or drones, this means swapping your old board today gives you real-time 3D mapping and obstacle reaction faster than a human blink. The SDK is free, and the hardware is off the shelf.  \n\nWhat’s the first GPS-denied spot you’ll test your own board in? 🛸📡🧠",
+    "carousel_slides": [
+      {
+        "hook": "Can a $249 chip replace GPS?",
+        "description": "This board processes sensors in milliseconds, letting drones map and navigate without satellites. It's not a lab experiment—it's on your workbench.",
+        "visual_hint": "Drone flying through forest canopy",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "drone forest flight"
+      },
+      {
+        "hook": "67 TOPS, but that's not the magic",
+        "description": "The real leap is real-time sensor fusion—combining cameras, LiDAR, and radar without lag. That's what changes everything for robotics.",
+        "visual_hint": "Sensor data streams merging on chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sensor fusion diagram",
+        "image": "https://images.pexels.com/photos/19469906/pexels-photo-19469906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No GPS? No problem.",
+        "description": "Drones with this chip build 3D maps in milliseconds, flying through forests or tunnels without satellites. They react faster than a human pilot can blink.",
+        "visual_hint": "3D map rendered in real-time",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "3d mapping drone",
+        "image": "https://images.pexels.com/photos/18966321/pexels-photo-18966321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Swap your old board today",
+        "description": "You can replace your current board and test this in flight. The hardware is ready, the SDK is free, and the community is sharing flight logs.",
+        "visual_hint": "Hand holding circuit board near drone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board hand",
+        "image": "https://images.pexels.com/photos/7285969/pexels-photo-7285969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to crash your drone?",
+        "description": "Take your existing drone, replace the brain with Orin Nano 2 Super, and fly it in a GPS-denied garage. Start testing sensor fusion now.",
+        "visual_hint": "Drone hovering in dark garage",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "drone indoor garage",
+        "image": "https://images.pexels.com/photos/32729904/pexels-photo-32729904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/23223967/pexels-photo-23223967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-26T10:25:43.925Z",
+    "sourceId": "813c205aa1a4a2774d53213f2270aaba"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "gatik-raises-200m-to-scale-ai-powered-autonomous-f",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+    "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+    "pubDate": "Wed, 26 Aug 2026 10:00:00 +0000",
+    "slides": [
+      "Gatik raised $200M. Is autonomy finally profitable?",
+      "Short-haul logistics costs kill margins for retailers.",
+      "Gatik removes the driver but still needs remote operators.",
+      "Shippers can cut delivery costs by 30% without ownership.",
+      "Test one route now, or rivals will set pricing."
+    ],
+    "thread_text": [
+      "1. Who's really driving?\n\nGatik just raised $200M, but their trucks still need remote operators. The driver's gone, the human isn't.",
+      "2. The cost hidden in short hauls\n\nRetailers bleed margins on short-haul logistics. Gatik's claim: cut delivery costs by 30% without owning a single truck.",
+      "3. Autonomy's catch\n\nRemoving the driver but adding remote oversight swaps one labor cost for another. The question isn't if it's cheaper, but when it is.",
+      "4. The real prize\n\nShippers can [TYPO: 'can' repeated] use Gatik's service without ownership. That turns fixed costs into variable ones—a CFO's dream.",
+      "5. Your move now\n\nPilot one route this quarter or watch competitors set pricing. Test it on your own logistics math—will 30% savings survive your real distances?"
+    ],
+    "video_script": [
+      "Gatik raised $200M. Still needs remote operators.",
+      "Short hauls kill retailer margins.",
+      "Cut costs 30%, skip truck ownership.",
+      "But remote oversight may eat savings.",
+      "Pilot one route now, or lose."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's really driving?\n\nGatik just raised $200M, but their trucks still need remote operators. The driver's gone, the human isn't.",
+          "2. The cost hidden in short hauls\n\nRetailers bleed margins on short-haul logistics. Gatik's claim: cut delivery costs by 30% without owning a single truck.",
+          "3. Autonomy's catch\n\nRemoving the driver but adding remote oversight swaps one labor cost for another. The question isn't if it's cheaper, but when it is.",
+          "4. The real prize\n\nShippers can [TYPO: 'can' repeated] use Gatik's service without ownership. That turns fixed costs into variable ones—a CFO's dream.",
+          "5. Your move now\n\nPilot one route this quarter or watch competitors set pricing. Test it on your own logistics math—will 30% savings survive your real distances?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gatik raised $200M. Still needs remote operators.",
+          "Short hauls kill retailer margins.",
+          "Cut costs 30%, skip truck ownership.",
+          "But remote oversight may eat savings.",
+          "Pilot one route now, or lose."
+        ]
+      },
+      "instagram": {
+        "caption": "$200M raised, but the trucks still need remote operators watching from afar. 🚛\n\nGatik just closed a massive funding round for autonomous short-haul freight. Their pitch to retailers: cut delivery costs by 30% without buying a single truck. The catch—you swap a driver for a remote oversight team, and the cost question becomes \"when,\" not \"if.\"\n\nFor anyone building logistics content: the unit economics just changed. Fixed fleet costs become variable service fees, which means pricing comparisons you published last quarter might already be obsolete.\n\nDoes the 30% claim survive when your delivery radius stretches past their sweet spot? Run the math on one route now, or wait until competitors set the benchmark for you. ⌛️"
+      }
+    },
+    "instagram_caption": "$200M raised, but the trucks still need remote operators watching from afar. 🚛\n\nGatik just closed a massive funding round for autonomous short-haul freight. Their pitch to retailers: cut delivery costs by 30% without buying a single truck. The catch—you swap a driver for a remote oversight team, and the cost question becomes \"when,\" not \"if.\"\n\nFor anyone building logistics content: the unit economics just changed. Fixed fleet costs become variable service fees, which means pricing comparisons you published last quarter might already be obsolete.\n\nDoes the 30% claim survive when your delivery radius stretches past their sweet spot? Run the math on one route now, or wait until competitors set the benchmark for you. ⌛️",
+    "carousel_slides": [
+      {
+        "hook": "Autonomy's real cost isn't drivers.",
+        "description": "Gatik raised $200M but still needs remote operators. The driver is gone, the human isn't. Is that profitable?",
+        "visual_hint": "Truck empty cab, remote control room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "autonomous truck highway"
+      },
+      {
+        "hook": "Retailers bleed on short hauls.",
+        "description": "Short-haul logistics costs kill margins. Gatik claims 30% cost cuts with no truck ownership—a CFO's dream.",
+        "visual_hint": "Retail supply chain with cost graphs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "delivery truck warehouse",
+        "image": "https://images.pexels.com/photos/18885403/pexels-photo-18885403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Remote operators replace drivers.",
+        "description": "Autonomy swaps driver wages for remote oversight. The question isn't if it's cheaper, but when.",
+        "visual_hint": "Control center with screens and personnel",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "control room screens",
+        "image": "https://images.pexels.com/photos/39071423/pexels-photo-39071423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ownership becomes optional.",
+        "description": "Shippers use Gatik as a service, turning fixed costs into variable ones. That's the real game-changer.",
+        "visual_hint": "Hands shaking over service contract",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Pilot one route now or lose pricing power.",
+        "description": "Save this post and test one route. Will 30% savings survive your real distances? Compute now.",
+        "visual_hint": "Ruler measuring route on map",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "map route planning",
+        "image": "https://images.pexels.com/photos/5302805/pexels-photo-5302805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-08-26T10:25:30.159Z",
+    "sourceId": "f5e441e0e9f8a60ce689d6c4a562f717"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "india-s-ringg-gets-backing-from-peak-xv-as-it-push",
     "prompt_version": "1.0.0",
     "status": "published",
