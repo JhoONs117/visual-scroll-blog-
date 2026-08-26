@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-loses-a-top-data-center-exec-as-stream-of-h",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
+    "slides": [
+      "Another top OpenAI exec is leaving. Who replaces them?",
+      "This follows a wave of high-profile departures.",
+      "The reason? Strategic disagreements over AI scaling.",
+      "Your projects may face shifting support and focus.",
+      "Assess vendor stability before committing to new AI tools."
+    ],
+    "thread_text": [
+      "1. Who's next out?\n\nOpenAI's CTO just left. Leadership is in flux.",
+      "2. A talent exodus\n\nTop researchers keep leaving. Morale is shaky.",
+      "3. Scaling dispute\n\nSome execs wanted more compute. Others saw limits.",
+      "4. Your projects at risk\n\nAI tools may shift focus. Stability is now key.",
+      "5. Vet your vendors\n\nBefore adopting new AI, check their roadmap. Test with a critical workload."
+    ],
+    "video_script": [
+      "OpenAI's CTO leaves. Leaders keep quitting.",
+      "The reason: a scaling strategy fight.",
+      "Your AI projects could lose support.",
+      "Vendor stability is now critical.",
+      "Check their plans before you commit."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's next out?\n\nOpenAI's CTO just left. Leadership is in flux.",
+          "2. A talent exodus\n\nTop researchers keep leaving. Morale is shaky.",
+          "3. Scaling dispute\n\nSome execs wanted more compute. Others saw limits.",
+          "4. Your projects at risk\n\nAI tools may shift focus. Stability is now key.",
+          "5. Vet your vendors\n\nBefore adopting new AI, check their roadmap. Test with a critical workload."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's CTO leaves. Leaders keep quitting.",
+          "The reason: a scaling strategy fight.",
+          "Your AI projects could lose support.",
+          "Vendor stability is now critical.",
+          "Check their plans before you commit."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI’s data center chief just walked out—another top name gone in a month that's already lost its CTO and several researchers.\n\nThe exit stems from a public clash over AI scaling. Some execs want to pour everything into bigger models; others say the returns are diminishing. When leadership disagrees this loudly, product roadmaps wobble.\n\nFor you, that means the AI tools you rely on today might lose their champion tomorrow. A feature you’re building on could get deprioritized or silently killed.\n\nBefore you hook your next project to a new tool, ask their team one question: who owns this product’s roadmap for the next 18 months? If the answer is a shrug, that’s your answer. 🔍"
+      }
+    },
+    "instagram_caption": "OpenAI’s data center chief just walked out—another top name gone in a month that's already lost its CTO and several researchers.\n\nThe exit stems from a public clash over AI scaling. Some execs want to pour everything into bigger models; others say the returns are diminishing. When leadership disagrees this loudly, product roadmaps wobble.\n\nFor you, that means the AI tools you rely on today might lose their champion tomorrow. A feature you’re building on could get deprioritized or silently killed.\n\nBefore you hook your next project to a new tool, ask their team one question: who owns this product’s roadmap for the next 18 months? If the answer is a shrug, that’s your answer. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "No one is irreplaceable. Right?",
+        "description": "OpenAI's CTO just left, and leadership is in flux. Who steps in next?",
+        "visual_hint": "Revolving door with signs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "revolving door"
+      },
+      {
+        "hook": "Why are top researchers leaving?",
+        "description": "A wave of high-profile exits suggests internal turmoil. Morale is shaky.",
+        "visual_hint": "People exiting glass building",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "people walking street",
+        "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Scaling debate splits executives.",
+        "description": "Some execs wanted more compute, others hit limits. Strategic disagreement at core.",
+        "visual_hint": "Two paths diverging, arrows up and down",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fork in road",
+        "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your projects could be collateral.",
+        "description": "AI tools may shift focus mid-adoption. Support may vanish unexpectedly.",
+        "visual_hint": "Hand holding fragile glass with cracks",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding glass",
+        "image": "https://images.pexels.com/photos/5514901/pexels-photo-5514901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before choosing an AI vendor.",
+        "description": "Test AI tools on a critical workload now. Vet the roadmap for stability.",
+        "visual_hint": "Magnifying glass over checkmark on document",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "savedAt": "2026-08-26T02:57:23.849Z",
+    "sourceId": "8c02d9ad51cf3f91b4508f851685e0a6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "instagram-s-first-draft-feature-aims-to-make-editi",
     "prompt_version": "1.0.0",
     "status": "published",
