@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "radar-makes-podcasts-searchable-and-usable-by-ai-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Radar makes podcasts searchable — and usable by AI agents",
+  "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+  "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
+  "slides": [
+    "Your favorite podcast is invisible to AI. Why?",
+    "Audio lacks text, so search engines can't index it.",
+    "Radar's transcription unlocks every spoken word automatically.",
+    "Now AI agents can quote podcasts in their answers.",
+    "Ask an agent for podcast insights today. Test it."
+  ],
+  "thread_text": [
+    "1. Your podcast is invisible.\n\nSearch engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+    "2. The fix? Transcription.\n\nRadar automatically converts every spoken word into text, making your content searchable and quotable by AI agents.",
+    "3. Now AI can quote you.\n\nOnce transcribed, your podcast becomes a source. AI agents can pull exact insights and cite them in responses.",
+    "4. The ripple effect.\n\nYour reach extends beyond listeners. Your ideas show up in AI-generated answers, reaching people who never hit play.",
+    "5. Test it today.\n\nAsk an AI agent for insights from your favorite podcast. If it can't, you know what to do."
+  ],
+  "video_script": [
+    "Your podcast is invisible to AI.",
+    "No text, no search, no reach.",
+    "Radar transcribes every word automatically.",
+    "Now AI agents can quote your episodes.",
+    "Ask an agent for podcast insights today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your podcast is invisible.\n\nSearch engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+        "2. The fix? Transcription.\n\nRadar automatically converts every spoken word into text, making your content searchable and quotable by AI agents.",
+        "3. Now AI can quote you.\n\nOnce transcribed, your podcast becomes a source. AI agents can pull exact insights and cite them in responses.",
+        "4. The ripple effect.\n\nYour reach extends beyond listeners. Your ideas show up in AI-generated answers, reaching people who never hit play.",
+        "5. Test it today.\n\nAsk an AI agent for insights from your favorite podcast. If it can't, you know what to do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your podcast is invisible to AI.",
+        "No text, no search, no reach.",
+        "Radar transcribes every word automatically.",
+        "Now AI agents can quote your episodes.",
+        "Ask an agent for podcast insights today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your favorite podcast isn’t showing up in AI answers—because search engines can’t read audio. 🎙️\n\nRadar’s transcription now turns every spoken episode into searchable text automatically. That means AI agents can quote your exact words in their responses—not just vaguely reference “a podcast said something.” 📝\n\nFor creators, this changes the game: your back catalog becomes a source AI pulls from, reaching people who never press play. Your ideas start working for you outside the feed. 🔁\n\nSo—ask an AI agent for insights from your own show right now. If it draws a blank, you’ve found your blind spot. When will you make that test? 🧪"
+    }
+  },
+  "instagram_caption": "Your favorite podcast isn’t showing up in AI answers—because search engines can’t read audio. 🎙️\n\nRadar’s transcription now turns every spoken episode into searchable text automatically. That means AI agents can quote your exact words in their responses—not just vaguely reference “a podcast said something.” 📝\n\nFor creators, this changes the game: your back catalog becomes a source AI pulls from, reaching people who never press play. Your ideas start working for you outside the feed. 🔁\n\nSo—ask an AI agent for insights from your own show right now. If it draws a blank, you’ve found your blind spot. When will you make that test? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "Your podcast is invisible to AI.",
+      "description": "Search engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+      "visual_hint": "Podcast mic silhouette with invisible outline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone studio dark"
+    },
+    {
+      "hook": "Audio lacks text. Nothing to index.",
+      "description": "Without transcription, search engines skip your content entirely. Radar automatically converts every spoken word into text, making it searchable.",
+      "visual_hint": "Soundwave transforming into text lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "soundwave digital screen",
+      "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Radar unlocks every spoken word.",
+      "description": "Automatic transcription turns your audio into a searchable, quotable source. AI agents can pull exact insights and cite them in responses.",
+      "visual_hint": "Magnifying glass over transcription text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI agents now quote podcasts.",
+      "description": "Once transcribed, your podcast becomes a source for AI answers. Your reach extends beyond listeners to people who never hit play.",
+      "visual_hint": "AI robot hand showing a quote bubble",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand touchscreen",
+      "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it: ask AI for podcast insights.",
+      "description": "Ask an AI agent for insights from your favorite podcast. If it can't, you know what to do. Try Radar today.",
+      "visual_hint": "Phone with AI chat icon and play button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone chat app",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+  "savedAt": "2026-08-26T16:41:50.770Z",
+  "sourceId": "cbe393ca06449a5bc33cd0ddf81072ca"
+}

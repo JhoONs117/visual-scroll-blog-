@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "orchestration-is-the-new-challenge-for-cx-in-the-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Orchestration is the new challenge for CX in the age of AI agents",
+  "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+  "pubDate": "Wed, 26 Aug 2026 14:30:00 GMT",
+  "slides": [
+    "Your CX strategy ignores AI agents. Why?",
+    "Orchestration, not chatbots, defines modern customer experience.",
+    "Most teams still route humans; AI agents now handle 70%.",
+    "Stop building silos; design agent handoffs today.",
+    "Map one customer journey with agents tomorrow."
+  ],
+  "thread_text": [
+    "1. Your CX strategy ignores AI agents.\n\n70% of customer interactions are already handled by AI agents, yet most teams still design for human routing.",
+    "2. Orchestration, not chatbots.\n\nChatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+    "3. Stop building silos.\n\nEvery team that builds its own AI agent creates a new silo. Customer journeys now need seamless agent-to-agent handoffs.",
+    "4. Humans or agents? Both.\n\nThe twist: your human agents will become supervisors of AI agents, not the first line of defense.",
+    "5. Map one journey with agents tomorrow.\n\nPick a single customer journey and simulate it with ChatGPT. If you haven't, start there—before your competitors do."
+  ],
+  "video_script": [
+    "Seventy percent of interactions are now AI agents.",
+    "Stop designing for humans first.",
+    "Orchestration beats chatbots.",
+    "Handoffs are the new customer experience.",
+    "Map one journey with agents tomorrow."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your CX strategy ignores AI agents.\n\n70% of customer interactions are already handled by AI agents, yet most teams still design for human routing.",
+        "2. Orchestration, not chatbots.\n\nChatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+        "3. Stop building silos.\n\nEvery team that builds its own AI agent creates a new silo. Customer journeys now need seamless agent-to-agent handoffs.",
+        "4. Humans or agents? Both.\n\nThe twist: your human agents will become supervisors of AI agents, not the first line of defense.",
+        "5. Map one journey with agents tomorrow.\n\nPick a single customer journey and simulate it with ChatGPT. If you haven't, start there—before your competitors do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Seventy percent of interactions are now AI agents.",
+        "Stop designing for humans first.",
+        "Orchestration beats chatbots.",
+        "Handoffs are the new customer experience.",
+        "Map one journey with agents tomorrow."
+      ]
+    },
+    "instagram": {
+      "caption": "70% of your customer interactions are already handled by AI agents, but your team is still routing humans like it's 2019. 🧭\n\nOrchestration between AI agents is the new battleground for customer experience. Each team building its own bot creates a new silo, breaking context across channels. Your human agents are about to become supervisors of AI agents, not the first line of support.\n\nFor you: if you script or design conversations, your job shifts from writing chat replies to mapping agent-to-agent handoffs that preserve context.\n\nPick one customer journey and simulate it with ChatGPT today—before your competitors do. Which one will you start with? 🤖"
+    }
+  },
+  "instagram_caption": "70% of your customer interactions are already handled by AI agents, but your team is still routing humans like it's 2019. 🧭\n\nOrchestration between AI agents is the new battleground for customer experience. Each team building its own bot creates a new silo, breaking context across channels. Your human agents are about to become supervisors of AI agents, not the first line of support.\n\nFor you: if you script or design conversations, your job shifts from writing chat replies to mapping agent-to-agent handoffs that preserve context.\n\nPick one customer journey and simulate it with ChatGPT today—before your competitors do. Which one will you start with? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Your CX strategy ignores AI agents.",
+      "description": "70% of interactions are already handled by AI agents, yet most teams still route humans. Time to rethink.",
+      "visual_hint": "Two paths diverging, one ignored",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "crossroad road signs"
+    },
+    {
+      "hook": "Orchestration, not chatbots, defines CX.",
+      "description": "Chatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+      "visual_hint": "Chatbot interface with connecting lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatbot chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop building silos.",
+      "description": "Each team's AI agent creates a new silo. Seamless agent-to-agent handoffs are now essential for customer journeys.",
+      "visual_hint": "Isolated silos, interconnected web overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "silo farm field",
+      "image": "https://images.pexels.com/photos/33204401/pexels-photo-33204401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Humans become supervisors of agents.",
+      "description": "The twist: your human agents will supervise AI agents, not be the first line of defense. A new role emerges.",
+      "visual_hint": "Human hand overseeing robot handshake",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "human robot handshake",
+      "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: map one journey with AI.",
+      "description": "Pick one customer journey and simulate it with ChatGPT today. Start before competitors do. Visit link in bio.",
+      "visual_hint": "Hand marking journey on map",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "customer journey map",
+      "image": "https://images.pexels.com/photos/7010195/pexels-photo-7010195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/17634701/pexels-photo-17634701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-26T16:42:20.646Z",
+  "sourceId": "c6f5e02f3dc5ba063c8abeb4dd64a2c1"
+}

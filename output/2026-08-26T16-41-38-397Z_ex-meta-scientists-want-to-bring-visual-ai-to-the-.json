@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ex-meta-scientists-want-to-bring-visual-ai-to-the-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+  "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+  "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
+  "slides": [
+    "Ex-Meta scientists claim factory floors are blind, can they see?",
+    "Their visual AI spots defects invisible to human eyes.",
+    "But it fails on rare, unseen products and needs retraining.",
+    "Your factory can test it on one line and measure yield.",
+    "Start a pilot now or risk rivals seeing better first."
+  ],
+  "thread_text": [
+    "1. Factory floors are blind.\n\nEx-Meta scientists say most factories can't see their own defects. Their AI spots what humans miss, but only on known products.",
+    "2. The catch: rare items.\n\nTheir visual AI fails on unseen products and needs retraining. That's a hidden cost most pilots don't budget for.",
+    "3. Test on one line.\n\nYou can run a pilot on a single production line and measure yield improvement. Real data beats speculation.",
+    "4. The risk of waiting.\n\nRivals are already exploring this. If you delay, they see defects first—and your yield gap grows.",
+    "5. Start a pilot this week.\n\nPick one line, run their AI for a shift, compare yield. If it doesn't win, you lose only a day. If it does, you're ahead."
+  ],
+  "video_script": [
+    "Factory floors are blind, scientists say.",
+    "Their AI spots defects humans can't see.",
+    "But it fails on rare, unseen products.",
+    "Test it on one line, measure yield.",
+    "Start a pilot now, or rivals win."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Factory floors are blind.\n\nEx-Meta scientists say most factories can't see their own defects. Their AI spots what humans miss, but only on known products.",
+        "2. The catch: rare items.\n\nTheir visual AI fails on unseen products and needs retraining. That's a hidden cost most pilots don't budget for.",
+        "3. Test on one line.\n\nYou can run a pilot on a single production line and measure yield improvement. Real data beats speculation.",
+        "4. The risk of waiting.\n\nRivals are already exploring this. If you delay, they see defects first—and your yield gap grows.",
+        "5. Start a pilot this week.\n\nPick one line, run their AI for a shift, compare yield. If it doesn't win, you lose only a day. If it does, you're ahead."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Factory floors are blind, scientists say.",
+        "Their AI spots defects humans can't see.",
+        "But it fails on rare, unseen products.",
+        "Test it on one line, measure yield.",
+        "Start a pilot now, or rivals win."
+      ]
+    },
+    "instagram": {
+      "caption": "Your production line has blind spots it doesn’t even know about. 🏭\n\nEx-Meta scientists built visual AI that catches defects invisible to the human eye—but only on products it has already seen. Throw it a rare, new item and it breaks, needing expensive retraining.\n\nThe play: test it on a single line for one shift, then compare your yield numbers against yesterday. Real data beats a sales pitch. 📊\n\nIf you wait, your competitors see those defects first—and your yield gap quietly widens. ⏳\n\nWhich line in your factory will you test this week?"
+    }
+  },
+  "instagram_caption": "Your production line has blind spots it doesn’t even know about. 🏭\n\nEx-Meta scientists built visual AI that catches defects invisible to the human eye—but only on products it has already seen. Throw it a rare, new item and it breaks, needing expensive retraining.\n\nThe play: test it on a single line for one shift, then compare your yield numbers against yesterday. Real data beats a sales pitch. 📊\n\nIf you wait, your competitors see those defects first—and your yield gap quietly widens. ⏳\n\nWhich line in your factory will you test this week?",
+  "carousel_slides": [
+    {
+      "hook": "Your factory is blind.",
+      "description": "Most factories can't see their own defects. Visual AI spots what humans miss, but only on known products. That's a limit to plan for.",
+      "visual_hint": "Factory line, dark, AI scan overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory conveyor belt"
+    },
+    {
+      "hook": "Rare items trip the AI.",
+      "description": "Visual AI fails on unseen products and needs retraining. A hidden cost pilots rarely budget for. Plan for it before scaling.",
+      "visual_hint": "Glitch on unusual part, retraining loop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot arm manufacturing",
+      "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test on one line.",
+      "description": "Run a pilot on a single production line. Measure yield improvement with real data. That beats speculation and shows true value.",
+      "visual_hint": "Yield chart climbing, single line",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "quality control sensors",
+      "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Waiting costs you yield.",
+      "description": "Rivals are exploring this now. If you delay, they spot defects first—and your yield gap grows. Speed is your advantage.",
+      "visual_hint": "Two lines diverging, gap widening",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory engineers tablet",
+      "image": "https://images.pexels.com/photos/4480983/pexels-photo-4480983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pilot it this week.",
+      "description": "Pick one production line, run the AI for a shift, compare yield. If it fails, you lose a day. If it works, you're ahead.",
+      "visual_hint": "Finger on start button, green light",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "factory control panel",
+      "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
+  "savedAt": "2026-08-26T16:42:07.400Z",
+  "sourceId": "11d87780114395c6be35cb3a559d0b34"
+}

@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "orchestration-is-the-new-challenge-for-cx-in-the-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "pubDate": "Wed, 26 Aug 2026 14:30:00 GMT",
+      "slides": [
+        "Your CX strategy ignores AI agents. Why?",
+        "Orchestration, not chatbots, defines modern customer experience.",
+        "Most teams still route humans; AI agents now handle 70%.",
+        "Stop building silos; design agent handoffs today.",
+        "Map one customer journey with agents tomorrow."
+      ],
+      "thread_text": [
+        "1. Your CX strategy ignores AI agents.\n\n70% of customer interactions are already handled by AI agents, yet most teams still design for human routing.",
+        "2. Orchestration, not chatbots.\n\nChatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+        "3. Stop building silos.\n\nEvery team that builds its own AI agent creates a new silo. Customer journeys now need seamless agent-to-agent handoffs.",
+        "4. Humans or agents? Both.\n\nThe twist: your human agents will become supervisors of AI agents, not the first line of defense.",
+        "5. Map one journey with agents tomorrow.\n\nPick a single customer journey and simulate it with ChatGPT. If you haven't, start there—before your competitors do."
+      ],
+      "video_script": [
+        "Seventy percent of interactions are now AI agents.",
+        "Stop designing for humans first.",
+        "Orchestration beats chatbots.",
+        "Handoffs are the new customer experience.",
+        "Map one journey with agents tomorrow."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your CX strategy ignores AI agents.\n\n70% of customer interactions are already handled by AI agents, yet most teams still design for human routing.",
+            "2. Orchestration, not chatbots.\n\nChatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+            "3. Stop building silos.\n\nEvery team that builds its own AI agent creates a new silo. Customer journeys now need seamless agent-to-agent handoffs.",
+            "4. Humans or agents? Both.\n\nThe twist: your human agents will become supervisors of AI agents, not the first line of defense.",
+            "5. Map one journey with agents tomorrow.\n\nPick a single customer journey and simulate it with ChatGPT. If you haven't, start there—before your competitors do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Seventy percent of interactions are now AI agents.",
+            "Stop designing for humans first.",
+            "Orchestration beats chatbots.",
+            "Handoffs are the new customer experience.",
+            "Map one journey with agents tomorrow."
+          ]
+        },
+        "instagram": {
+          "caption": "70% of your customer interactions are already handled by AI agents, but your team is still routing humans like it's 2019. 🧭\n\nOrchestration between AI agents is the new battleground for customer experience. Each team building its own bot creates a new silo, breaking context across channels. Your human agents are about to become supervisors of AI agents, not the first line of support.\n\nFor you: if you script or design conversations, your job shifts from writing chat replies to mapping agent-to-agent handoffs that preserve context.\n\nPick one customer journey and simulate it with ChatGPT today—before your competitors do. Which one will you start with? 🤖"
+        }
+      },
+      "instagram_caption": "70% of your customer interactions are already handled by AI agents, but your team is still routing humans like it's 2019. 🧭\n\nOrchestration between AI agents is the new battleground for customer experience. Each team building its own bot creates a new silo, breaking context across channels. Your human agents are about to become supervisors of AI agents, not the first line of support.\n\nFor you: if you script or design conversations, your job shifts from writing chat replies to mapping agent-to-agent handoffs that preserve context.\n\nPick one customer journey and simulate it with ChatGPT today—before your competitors do. Which one will you start with? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Your CX strategy ignores AI agents.",
+          "description": "70% of interactions are already handled by AI agents, yet most teams still route humans. Time to rethink.",
+          "visual_hint": "Two paths diverging, one ignored",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crossroad road signs"
+        },
+        {
+          "hook": "Orchestration, not chatbots, defines CX.",
+          "description": "Chatbots are just the interface. The real shift is orchestrating agent handoffs across channels without breaking context.",
+          "visual_hint": "Chatbot interface with connecting lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop building silos.",
+          "description": "Each team's AI agent creates a new silo. Seamless agent-to-agent handoffs are now essential for customer journeys.",
+          "visual_hint": "Isolated silos, interconnected web overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "silo farm field",
+          "image": "https://images.pexels.com/photos/33204401/pexels-photo-33204401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Humans become supervisors of agents.",
+          "description": "The twist: your human agents will supervise AI agents, not be the first line of defense. A new role emerges.",
+          "visual_hint": "Human hand overseeing robot handshake",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "human robot handshake",
+          "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: map one journey with AI.",
+          "description": "Pick one customer journey and simulate it with ChatGPT today. Start before competitors do. Visit link in bio.",
+          "visual_hint": "Hand marking journey on map",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "customer journey map",
+          "image": "https://images.pexels.com/photos/7010195/pexels-photo-7010195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/17634701/pexels-photo-17634701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-26T16:42:20.646Z",
+      "sourceId": "c6f5e02f3dc5ba063c8abeb4dd64a2c1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ex-meta-scientists-want-to-bring-visual-ai-to-the-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "slides": [
+        "Ex-Meta scientists claim factory floors are blind, can they see?",
+        "Their visual AI spots defects invisible to human eyes.",
+        "But it fails on rare, unseen products and needs retraining.",
+        "Your factory can test it on one line and measure yield.",
+        "Start a pilot now or risk rivals seeing better first."
+      ],
+      "thread_text": [
+        "1. Factory floors are blind.\n\nEx-Meta scientists say most factories can't see their own defects. Their AI spots what humans miss, but only on known products.",
+        "2. The catch: rare items.\n\nTheir visual AI fails on unseen products and needs retraining. That's a hidden cost most pilots don't budget for.",
+        "3. Test on one line.\n\nYou can run a pilot on a single production line and measure yield improvement. Real data beats speculation.",
+        "4. The risk of waiting.\n\nRivals are already exploring this. If you delay, they see defects first—and your yield gap grows.",
+        "5. Start a pilot this week.\n\nPick one line, run their AI for a shift, compare yield. If it doesn't win, you lose only a day. If it does, you're ahead."
+      ],
+      "video_script": [
+        "Factory floors are blind, scientists say.",
+        "Their AI spots defects humans can't see.",
+        "But it fails on rare, unseen products.",
+        "Test it on one line, measure yield.",
+        "Start a pilot now, or rivals win."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Factory floors are blind.\n\nEx-Meta scientists say most factories can't see their own defects. Their AI spots what humans miss, but only on known products.",
+            "2. The catch: rare items.\n\nTheir visual AI fails on unseen products and needs retraining. That's a hidden cost most pilots don't budget for.",
+            "3. Test on one line.\n\nYou can run a pilot on a single production line and measure yield improvement. Real data beats speculation.",
+            "4. The risk of waiting.\n\nRivals are already exploring this. If you delay, they see defects first—and your yield gap grows.",
+            "5. Start a pilot this week.\n\nPick one line, run their AI for a shift, compare yield. If it doesn't win, you lose only a day. If it does, you're ahead."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Factory floors are blind, scientists say.",
+            "Their AI spots defects humans can't see.",
+            "But it fails on rare, unseen products.",
+            "Test it on one line, measure yield.",
+            "Start a pilot now, or rivals win."
+          ]
+        },
+        "instagram": {
+          "caption": "Your production line has blind spots it doesn’t even know about. 🏭\n\nEx-Meta scientists built visual AI that catches defects invisible to the human eye—but only on products it has already seen. Throw it a rare, new item and it breaks, needing expensive retraining.\n\nThe play: test it on a single line for one shift, then compare your yield numbers against yesterday. Real data beats a sales pitch. 📊\n\nIf you wait, your competitors see those defects first—and your yield gap quietly widens. ⏳\n\nWhich line in your factory will you test this week?"
+        }
+      },
+      "instagram_caption": "Your production line has blind spots it doesn’t even know about. 🏭\n\nEx-Meta scientists built visual AI that catches defects invisible to the human eye—but only on products it has already seen. Throw it a rare, new item and it breaks, needing expensive retraining.\n\nThe play: test it on a single line for one shift, then compare your yield numbers against yesterday. Real data beats a sales pitch. 📊\n\nIf you wait, your competitors see those defects first—and your yield gap quietly widens. ⏳\n\nWhich line in your factory will you test this week?",
+      "carousel_slides": [
+        {
+          "hook": "Your factory is blind.",
+          "description": "Most factories can't see their own defects. Visual AI spots what humans miss, but only on known products. That's a limit to plan for.",
+          "visual_hint": "Factory line, dark, AI scan overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory conveyor belt"
+        },
+        {
+          "hook": "Rare items trip the AI.",
+          "description": "Visual AI fails on unseen products and needs retraining. A hidden cost pilots rarely budget for. Plan for it before scaling.",
+          "visual_hint": "Glitch on unusual part, retraining loop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot arm manufacturing",
+          "image": "https://images.pexels.com/photos/36522032/pexels-photo-36522032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test on one line.",
+          "description": "Run a pilot on a single production line. Measure yield improvement with real data. That beats speculation and shows true value.",
+          "visual_hint": "Yield chart climbing, single line",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "quality control sensors",
+          "image": "https://images.pexels.com/photos/5532986/pexels-photo-5532986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Waiting costs you yield.",
+          "description": "Rivals are exploring this now. If you delay, they spot defects first—and your yield gap grows. Speed is your advantage.",
+          "visual_hint": "Two lines diverging, gap widening",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory engineers tablet",
+          "image": "https://images.pexels.com/photos/4480983/pexels-photo-4480983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pilot it this week.",
+          "description": "Pick one production line, run the AI for a shift, compare yield. If it fails, you lose a day. If it works, you're ahead.",
+          "visual_hint": "Finger on start button, green light",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "factory control panel",
+          "image": "https://images.pexels.com/photos/12951625/pexels-photo-12951625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
+      "savedAt": "2026-08-26T16:42:07.400Z",
+      "sourceId": "11d87780114395c6be35cb3a559d0b34"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "radar-makes-podcasts-searchable-and-usable-by-ai-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
+      "slides": [
+        "Your favorite podcast is invisible to AI. Why?",
+        "Audio lacks text, so search engines can't index it.",
+        "Radar's transcription unlocks every spoken word automatically.",
+        "Now AI agents can quote podcasts in their answers.",
+        "Ask an agent for podcast insights today. Test it."
+      ],
+      "thread_text": [
+        "1. Your podcast is invisible.\n\nSearch engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+        "2. The fix? Transcription.\n\nRadar automatically converts every spoken word into text, making your content searchable and quotable by AI agents.",
+        "3. Now AI can quote you.\n\nOnce transcribed, your podcast becomes a source. AI agents can pull exact insights and cite them in responses.",
+        "4. The ripple effect.\n\nYour reach extends beyond listeners. Your ideas show up in AI-generated answers, reaching people who never hit play.",
+        "5. Test it today.\n\nAsk an AI agent for insights from your favorite podcast. If it can't, you know what to do."
+      ],
+      "video_script": [
+        "Your podcast is invisible to AI.",
+        "No text, no search, no reach.",
+        "Radar transcribes every word automatically.",
+        "Now AI agents can quote your episodes.",
+        "Ask an agent for podcast insights today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your podcast is invisible.\n\nSearch engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+            "2. The fix? Transcription.\n\nRadar automatically converts every spoken word into text, making your content searchable and quotable by AI agents.",
+            "3. Now AI can quote you.\n\nOnce transcribed, your podcast becomes a source. AI agents can pull exact insights and cite them in responses.",
+            "4. The ripple effect.\n\nYour reach extends beyond listeners. Your ideas show up in AI-generated answers, reaching people who never hit play.",
+            "5. Test it today.\n\nAsk an AI agent for insights from your favorite podcast. If it can't, you know what to do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your podcast is invisible to AI.",
+            "No text, no search, no reach.",
+            "Radar transcribes every word automatically.",
+            "Now AI agents can quote your episodes.",
+            "Ask an agent for podcast insights today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your favorite podcast isn’t showing up in AI answers—because search engines can’t read audio. 🎙️\n\nRadar’s transcription now turns every spoken episode into searchable text automatically. That means AI agents can quote your exact words in their responses—not just vaguely reference “a podcast said something.” 📝\n\nFor creators, this changes the game: your back catalog becomes a source AI pulls from, reaching people who never press play. Your ideas start working for you outside the feed. 🔁\n\nSo—ask an AI agent for insights from your own show right now. If it draws a blank, you’ve found your blind spot. When will you make that test? 🧪"
+        }
+      },
+      "instagram_caption": "Your favorite podcast isn’t showing up in AI answers—because search engines can’t read audio. 🎙️\n\nRadar’s transcription now turns every spoken episode into searchable text automatically. That means AI agents can quote your exact words in their responses—not just vaguely reference “a podcast said something.” 📝\n\nFor creators, this changes the game: your back catalog becomes a source AI pulls from, reaching people who never press play. Your ideas start working for you outside the feed. 🔁\n\nSo—ask an AI agent for insights from your own show right now. If it draws a blank, you’ve found your blind spot. When will you make that test? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "Your podcast is invisible to AI.",
+          "description": "Search engines can't read audio, so your episodes never surface in AI answers. That's a blind spot you didn't know you had.",
+          "visual_hint": "Podcast mic silhouette with invisible outline",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microphone studio dark"
+        },
+        {
+          "hook": "Audio lacks text. Nothing to index.",
+          "description": "Without transcription, search engines skip your content entirely. Radar automatically converts every spoken word into text, making it searchable.",
+          "visual_hint": "Soundwave transforming into text lines",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "soundwave digital screen",
+          "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Radar unlocks every spoken word.",
+          "description": "Automatic transcription turns your audio into a searchable, quotable source. AI agents can pull exact insights and cite them in responses.",
+          "visual_hint": "Magnifying glass over transcription text",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI agents now quote podcasts.",
+          "description": "Once transcribed, your podcast becomes a source for AI answers. Your reach extends beyond listeners to people who never hit play.",
+          "visual_hint": "AI robot hand showing a quote bubble",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot hand touchscreen",
+          "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it: ask AI for podcast insights.",
+          "description": "Ask an AI agent for insights from your favorite podcast. If it can't, you know what to do. Try Radar today.",
+          "visual_hint": "Phone with AI chat icon and play button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone chat app",
+          "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+      "savedAt": "2026-08-26T16:41:50.770Z",
+      "sourceId": "cbe393ca06449a5bc33cd0ddf81072ca"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "runable-hits-21m-to-bet-ai-agents-can-go-from-buil",
       "prompt_version": "1.0.0",
       "status": "published",
