@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "robot-brain-builders-are-pushing-out-of-their-gpt-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Robot brain builders are pushing out of their GPT-2 era",
+  "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+  "pubDate": "Wed, 26 Aug 2026 13:30:00 +0000",
+  "slides": [
+    "Can robot brains finally escape the GPT-2 era?",
+    "New training method targets real-world physical reasoning",
+    "It cuts simulation-to-reality gaps by 87%",
+    "Your robot's next task could work without endless tweaking",
+    "Test your own prototype against the new baseline today"
+  ],
+  "thread_text": [
+    "1. What if robots stopped needing hand-holding?\n\nA new training method cuts the simulation-to-reality gap by 87%, meaning robots can adapt to real-world physics without endless tweaking.",
+    "2. The GPT-2 era for robot brains is ending.\n\nCurrent AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+    "3. Your next robot task could just work.\n\nInstead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+    "4. It's not just about fewer tries.\n\nThe method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+    "5. Ready to test your prototype?\n\nTake your own robot setup and compare it against the new baseline today—does it still need all those tweaks?"
+  ],
+  "video_script": [
+    "Robot brains are stuck in the GPT-2 era.",
+    "A new method cuts reality gaps dramatically.",
+    "Robots learn physical tasks without endless tweaking.",
+    "Simulation transfer is now nearly seamless.",
+    "Test your prototype against this new baseline."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if robots stopped needing hand-holding?\n\nA new training method cuts the simulation-to-reality gap by 87%, meaning robots can adapt to real-world physics without endless tweaking.",
+        "2. The GPT-2 era for robot brains is ending.\n\nCurrent AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+        "3. Your next robot task could just work.\n\nInstead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+        "4. It's not just about fewer tries.\n\nThe method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+        "5. Ready to test your prototype?\n\nTake your own robot setup and compare it against the new baseline today—does it still need all those tweaks?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robot brains are stuck in the GPT-2 era.",
+        "A new method cuts reality gaps dramatically.",
+        "Robots learn physical tasks without endless tweaking.",
+        "Simulation transfer is now nearly seamless.",
+        "Test your prototype against this new baseline."
+      ]
+    },
+    "instagram": {
+      "caption": "Robots just cut the gap between simulation and reality by 87%—no more endless tweaking. 🧠\n\nA new training method teaches robot brains to reason about real-world physics directly, instead of relying on scripted scenarios. It also speeds up simulation training, so you get more accurate behavior with less compute.\n\nFor anyone building or testing physical AI, this means your prototype could finally handle real surfaces, weights, and friction without weeks of manual fixes. 🛠️\n\nDoes your current robot still need all those hand-tuned parameters—or are you ready to swap in the new baseline? ⚙️"
+    }
+  },
+  "instagram_caption": "Robots just cut the gap between simulation and reality by 87%—no more endless tweaking. 🧠\n\nA new training method teaches robot brains to reason about real-world physics directly, instead of relying on scripted scenarios. It also speeds up simulation training, so you get more accurate behavior with less compute.\n\nFor anyone building or testing physical AI, this means your prototype could finally handle real surfaces, weights, and friction without weeks of manual fixes. 🛠️\n\nDoes your current robot still need all those hand-tuned parameters—or are you ready to swap in the new baseline? ⚙️",
+  "carousel_slides": [
+    {
+      "hook": "What if robots stopped needing hand-holding?",
+      "description": "A new training method cuts the simulation-to-reality gap by 87%, letting robots adapt to real-world physics without endless tweaking.",
+      "visual_hint": "Robot hand reaching for object",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot arm"
+    },
+    {
+      "hook": "The GPT-2 era for robot brains is ending.",
+      "description": "Current AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+      "visual_hint": "Brain vs. robot silhouette",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot brain circuit",
+      "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next robot task could just work.",
+      "description": "Instead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+      "visual_hint": "Seamless transfer of object",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robotic hand sensor",
+      "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It's not just about fewer tries.",
+      "description": "The method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+      "visual_hint": "Graph showing speed increase",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer simulation graph",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to test your prototype? Save this.",
+      "description": "Take your own robot setup and compare it against the new baseline today—does it still need all those tweaks?",
+      "visual_hint": "Robot on testing bench",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot laboratory test",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+  "savedAt": "2026-08-26T14:36:38.336Z",
+  "sourceId": "9744030eca87930398163cf2bb078601"
+}

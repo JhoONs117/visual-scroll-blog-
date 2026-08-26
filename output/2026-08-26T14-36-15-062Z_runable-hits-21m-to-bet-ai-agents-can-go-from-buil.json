@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "runable-hits-21m-to-bet-ai-agents-can-go-from-buil",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+  "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+  "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
+  "slides": [
+    "What if AI agents stopped building and started scaling firms?",
+    "Runable's $21M aims at post-launch business growth.",
+    "Venture money now targets revenue, not product development.",
+    "Your growth stack must shift from tools to autonomous agents.",
+    "Test one agent on your lowest-margin recurring task next week."
+  ],
+  "thread_text": [
+    "1. Scale Firms, Not Just Products\n\nRunable just raised $21M to help companies grow after launch—signaling investors now fund revenue, not just builds.",
+    "2. Revenue Is the New Benchmark\n\nVenture money has shifted from product development to post-launch growth, forcing startups to prove business traction earlier.",
+    "3. Tools Are Out, Agents In\n\nYour growth stack must move from static tools to autonomous agents that execute tasks—this is a fundamental change in operations.",
+    "4. The Agent Test\n\nTest one agent on your lowest-margin recurring task next week—if it works, you'll see immediate cost savings.",
+    "5. Are You Ready?\n\nWill you be the one automating your own role, or will someone else do it first? Start with one task today."
+  ],
+  "video_script": [
+    "Agents now scale firms, not just products.",
+    "Venture money chases revenue, not builds.",
+    "Shift your growth stack to autonomous agents.",
+    "Test one agent on a low-margin task.",
+    "Will you automate before someone else does?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Scale Firms, Not Just Products\n\nRunable just raised $21M to help companies grow after launch—signaling investors now fund revenue, not just builds.",
+        "2. Revenue Is the New Benchmark\n\nVenture money has shifted from product development to post-launch growth, forcing startups to prove business traction earlier.",
+        "3. Tools Are Out, Agents In\n\nYour growth stack must move from static tools to autonomous agents that execute tasks—this is a fundamental change in operations.",
+        "4. The Agent Test\n\nTest one agent on your lowest-margin recurring task next week—if it works, you'll see immediate cost savings.",
+        "5. Are You Ready?\n\nWill you be the one automating your own role, or will someone else do it first? Start with one task today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Agents now scale firms, not just products.",
+        "Venture money chases revenue, not builds.",
+        "Shift your growth stack to autonomous agents.",
+        "Test one agent on a low-margin task.",
+        "Will you automate before someone else does?"
+      ]
+    },
+    "instagram": {
+      "caption": "Venture capital just flipped its playbook: $21M is now going to companies that grow businesses, not just build them. Runable's raise is a bet that AI agents will handle post-launch expansion—the boring, repetitive work of scaling revenue.\n\nThe shift means your growth stack is about to change. Static tools are being replaced by autonomous agents that execute tasks on their own. Investors now want proof of traction, not just a polished product.\n\nFor you, that's a direct signal: your routine operations are the next target for automation. Start with one low-margin recurring task—test an agent on it next week and watch the cost savings.\n\nWhat task will you hand over first? 💸🤖"
+    }
+  },
+  "instagram_caption": "Venture capital just flipped its playbook: $21M is now going to companies that grow businesses, not just build them. Runable's raise is a bet that AI agents will handle post-launch expansion—the boring, repetitive work of scaling revenue.\n\nThe shift means your growth stack is about to change. Static tools are being replaced by autonomous agents that execute tasks on their own. Investors now want proof of traction, not just a polished product.\n\nFor you, that's a direct signal: your routine operations are the next target for automation. Start with one low-margin recurring task—test an agent on it next week and watch the cost savings.\n\nWhat task will you hand over first? 💸🤖",
+  "carousel_slides": [
+    {
+      "hook": "Funding shifted: revenue, not builds",
+      "description": "Runable raised $21M to grow businesses post-launch, proving investors now fund revenue, not just product development.",
+      "visual_hint": "Stock rising with dollar sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Revenue is the new benchmark?",
+      "description": "Venture money now targets post-launch growth, forcing startups to prove business traction earlier.",
+      "visual_hint": "Target with revenue arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "target arrow",
+      "image": "https://images.pexels.com/photos/6620429/pexels-photo-6620429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Tools out, AI agents in",
+      "description": "Growth stacks must shift from static tools to autonomous agents that execute tasks—this changes operations fundamentally.",
+      "visual_hint": "Toolbox replaced by robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one agent next week",
+      "description": "Start with your lowest-margin recurring task. If the agent works, you'll see immediate cost savings.",
+      "visual_hint": "Hand activating robot switch",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand robot switch",
+      "image": "https://images.pexels.com/photos/36564992/pexels-photo-36564992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this or automate now",
+      "description": "Visit Runable's site to see how AI agents can handle your revenue tasks. Start with one task today.",
+      "visual_hint": "Link in bio icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "link icon",
+      "image": "https://images.pexels.com/photos/6797089/pexels-photo-6797089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+  "savedAt": "2026-08-26T14:37:01.209Z",
+  "sourceId": "d56bb99852c0c14254bb5d868dd53432"
+}

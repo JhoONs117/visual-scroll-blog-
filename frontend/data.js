@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "runable-hits-21m-to-bet-ai-agents-can-go-from-buil",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
+    "slides": [
+      "What if AI agents stopped building and started scaling firms?",
+      "Runable's $21M aims at post-launch business growth.",
+      "Venture money now targets revenue, not product development.",
+      "Your growth stack must shift from tools to autonomous agents.",
+      "Test one agent on your lowest-margin recurring task next week."
+    ],
+    "thread_text": [
+      "1. Scale Firms, Not Just Products\n\nRunable just raised $21M to help companies grow after launch—signaling investors now fund revenue, not just builds.",
+      "2. Revenue Is the New Benchmark\n\nVenture money has shifted from product development to post-launch growth, forcing startups to prove business traction earlier.",
+      "3. Tools Are Out, Agents In\n\nYour growth stack must move from static tools to autonomous agents that execute tasks—this is a fundamental change in operations.",
+      "4. The Agent Test\n\nTest one agent on your lowest-margin recurring task next week—if it works, you'll see immediate cost savings.",
+      "5. Are You Ready?\n\nWill you be the one automating your own role, or will someone else do it first? Start with one task today."
+    ],
+    "video_script": [
+      "Agents now scale firms, not just products.",
+      "Venture money chases revenue, not builds.",
+      "Shift your growth stack to autonomous agents.",
+      "Test one agent on a low-margin task.",
+      "Will you automate before someone else does?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Scale Firms, Not Just Products\n\nRunable just raised $21M to help companies grow after launch—signaling investors now fund revenue, not just builds.",
+          "2. Revenue Is the New Benchmark\n\nVenture money has shifted from product development to post-launch growth, forcing startups to prove business traction earlier.",
+          "3. Tools Are Out, Agents In\n\nYour growth stack must move from static tools to autonomous agents that execute tasks—this is a fundamental change in operations.",
+          "4. The Agent Test\n\nTest one agent on your lowest-margin recurring task next week—if it works, you'll see immediate cost savings.",
+          "5. Are You Ready?\n\nWill you be the one automating your own role, or will someone else do it first? Start with one task today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Agents now scale firms, not just products.",
+          "Venture money chases revenue, not builds.",
+          "Shift your growth stack to autonomous agents.",
+          "Test one agent on a low-margin task.",
+          "Will you automate before someone else does?"
+        ]
+      },
+      "instagram": {
+        "caption": "Venture capital just flipped its playbook: $21M is now going to companies that grow businesses, not just build them. Runable's raise is a bet that AI agents will handle post-launch expansion—the boring, repetitive work of scaling revenue.\n\nThe shift means your growth stack is about to change. Static tools are being replaced by autonomous agents that execute tasks on their own. Investors now want proof of traction, not just a polished product.\n\nFor you, that's a direct signal: your routine operations are the next target for automation. Start with one low-margin recurring task—test an agent on it next week and watch the cost savings.\n\nWhat task will you hand over first? 💸🤖"
+      }
+    },
+    "instagram_caption": "Venture capital just flipped its playbook: $21M is now going to companies that grow businesses, not just build them. Runable's raise is a bet that AI agents will handle post-launch expansion—the boring, repetitive work of scaling revenue.\n\nThe shift means your growth stack is about to change. Static tools are being replaced by autonomous agents that execute tasks on their own. Investors now want proof of traction, not just a polished product.\n\nFor you, that's a direct signal: your routine operations are the next target for automation. Start with one low-margin recurring task—test an agent on it next week and watch the cost savings.\n\nWhat task will you hand over first? 💸🤖",
+    "carousel_slides": [
+      {
+        "hook": "Funding shifted: revenue, not builds",
+        "description": "Runable raised $21M to grow businesses post-launch, proving investors now fund revenue, not just product development.",
+        "visual_hint": "Stock rising with dollar sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "Revenue is the new benchmark?",
+        "description": "Venture money now targets post-launch growth, forcing startups to prove business traction earlier.",
+        "visual_hint": "Target with revenue arrow",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "target arrow",
+        "image": "https://images.pexels.com/photos/6620429/pexels-photo-6620429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tools out, AI agents in",
+        "description": "Growth stacks must shift from static tools to autonomous agents that execute tasks—this changes operations fundamentally.",
+        "visual_hint": "Toolbox replaced by robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one agent next week",
+        "description": "Start with your lowest-margin recurring task. If the agent works, you'll see immediate cost savings.",
+        "visual_hint": "Hand activating robot switch",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand robot switch",
+        "image": "https://images.pexels.com/photos/36564992/pexels-photo-36564992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this or automate now",
+        "description": "Visit Runable's site to see how AI agents can handle your revenue tasks. Start with one task today.",
+        "visual_hint": "Link in bio icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "link icon",
+        "image": "https://images.pexels.com/photos/6797089/pexels-photo-6797089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+    "savedAt": "2026-08-26T14:37:01.209Z",
+    "sourceId": "d56bb99852c0c14254bb5d868dd53432"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "arga-labs-is-building-a-better-way-to-train-enterp",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "pubDate": "Wed, 26 Aug 2026 12:55:28 +0000",
+    "slides": [
+      "Can enterprise AI agents finally learn from their own mistakes?",
+      "Arga Labs uses agentic feedback loops, not static datasets.",
+      "Their system cuts training data needs by up to 90%.",
+      "Deploying agents now means rethinking your data pipeline.",
+      "Start with one low-risk task; measure the loop's impact."
+    ],
+    "thread_text": [
+      "1. What if AI could fix itself?\n\nArga Labs' agents use feedback loops, slashing training data needs by up to 90%—a shift from static datasets.",
+      "2. The old way is dying\n\nStatic datasets can't adapt. These agents learn from mistakes in real-time, redefining how AI improves without massive data dumps.",
+      "3. Your pipeline is the bottleneck\n\nDeploying adaptive agents means rebuilding data flow—treating feedback as the new fuel, not just raw input.",
+      "4. Small start, big shift\n\nBegin with one low-risk task to measure the loop's impact—prove it works before scaling across your operations.",
+      "5. Ready to test your agent?\n\nPick a repetitive task today and set up a simple feedback loop. If you haven't tried it, start now—or stay behind."
+    ],
+    "video_script": [
+      "AI that learns from its mistakes.",
+      "Arga's loops cut training needs ninety percent.",
+      "Static datasets are becoming obsolete.",
+      "Rethink your data pipeline now.",
+      "Start small, test one task."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if AI could fix itself?\n\nArga Labs' agents use feedback loops, slashing training data needs by up to 90%—a shift from static datasets.",
+          "2. The old way is dying\n\nStatic datasets can't adapt. These agents learn from mistakes in real-time, redefining how AI improves without massive data dumps.",
+          "3. Your pipeline is the bottleneck\n\nDeploying adaptive agents means rebuilding data flow—treating feedback as the new fuel, not just raw input.",
+          "4. Small start, big shift\n\nBegin with one low-risk task to measure the loop's impact—prove it works before scaling across your operations.",
+          "5. Ready to test your agent?\n\nPick a repetitive task today and set up a simple feedback loop. If you haven't tried it, start now—or stay behind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI that learns from its mistakes.",
+          "Arga's loops cut training needs ninety percent.",
+          "Static datasets are becoming obsolete.",
+          "Rethink your data pipeline now.",
+          "Start small, test one task."
+        ]
+      },
+      "instagram": {
+        "caption": "Up to 90% less training data—that’s the claim from Arga Labs’ new approach to enterprise AI agents. 🧠\n\nInstead of feeding models static datasets, their system uses real-time feedback loops where agents learn directly from their own mistakes. The old way—dumping more and more data—is becoming the bottleneck. They say you should start with one low-risk task to test the loop, then scale if it works.\n\nFor you: if you’re building or deploying AI, this shifts your priority from collecting data to designing how feedback flows back into the system. 📊\n\nWhat’s the one repetitive task in your workflow you could wire up with a feedback loop this week? 🔁"
+      }
+    },
+    "instagram_caption": "Up to 90% less training data—that’s the claim from Arga Labs’ new approach to enterprise AI agents. 🧠\n\nInstead of feeding models static datasets, their system uses real-time feedback loops where agents learn directly from their own mistakes. The old way—dumping more and more data—is becoming the bottleneck. They say you should start with one low-risk task to test the loop, then scale if it works.\n\nFor you: if you’re building or deploying AI, this shifts your priority from collecting data to designing how feedback flows back into the system. 📊\n\nWhat’s the one repetitive task in your workflow you could wire up with a feedback loop this week? 🔁",
+    "carousel_slides": [
+      {
+        "hook": "What if AI could fix itself?",
+        "description": "Arga Labs' agents learn from their own mistakes, slashing training data needs by up to 90%—a shift from static datasets.",
+        "visual_hint": "Agent with feedback loop icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence concept"
+      },
+      {
+        "hook": "The old way is dying",
+        "description": "Static datasets can't adapt. These agents learn in real-time, redefining AI improvement without massive data dumps.",
+        "visual_hint": "Static dataset vs dynamic loop",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your pipeline is the bottleneck",
+        "description": "Deploying adaptive agents means rebuilding data flow—treating feedback as fuel, not just raw input.",
+        "visual_hint": "Pipeline with feedback loop",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Small start, big shift",
+        "description": "Begin with one low-risk task to measure the loop's impact—prove it works before scaling across operations.",
+        "visual_hint": "Hand with checklist",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers desk",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test your agent",
+        "description": "Pick a repetitive task today, set up a simple feedback loop. Start now—or stay behind.",
+        "visual_hint": "CTA with feedback loop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop code screen",
+        "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
+    "savedAt": "2026-08-26T14:36:48.999Z",
+    "sourceId": "26bfb8eb611d8fcb3d6974627e932897"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "robot-brain-builders-are-pushing-out-of-their-gpt-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "pubDate": "Wed, 26 Aug 2026 13:30:00 +0000",
+    "slides": [
+      "Can robot brains finally escape the GPT-2 era?",
+      "New training method targets real-world physical reasoning",
+      "It cuts simulation-to-reality gaps by 87%",
+      "Your robot's next task could work without endless tweaking",
+      "Test your own prototype against the new baseline today"
+    ],
+    "thread_text": [
+      "1. What if robots stopped needing hand-holding?\n\nA new training method cuts the simulation-to-reality gap by 87%, meaning robots can adapt to real-world physics without endless tweaking.",
+      "2. The GPT-2 era for robot brains is ending.\n\nCurrent AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+      "3. Your next robot task could just work.\n\nInstead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+      "4. It's not just about fewer tries.\n\nThe method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+      "5. Ready to test your prototype?\n\nTake your own robot setup and compare it against the new baseline today—does it still need all those tweaks?"
+    ],
+    "video_script": [
+      "Robot brains are stuck in the GPT-2 era.",
+      "A new method cuts reality gaps dramatically.",
+      "Robots learn physical tasks without endless tweaking.",
+      "Simulation transfer is now nearly seamless.",
+      "Test your prototype against this new baseline."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if robots stopped needing hand-holding?\n\nA new training method cuts the simulation-to-reality gap by 87%, meaning robots can adapt to real-world physics without endless tweaking.",
+          "2. The GPT-2 era for robot brains is ending.\n\nCurrent AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+          "3. Your next robot task could just work.\n\nInstead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+          "4. It's not just about fewer tries.\n\nThe method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+          "5. Ready to test your prototype?\n\nTake your own robot setup and compare it against the new baseline today—does it still need all those tweaks?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robot brains are stuck in the GPT-2 era.",
+          "A new method cuts reality gaps dramatically.",
+          "Robots learn physical tasks without endless tweaking.",
+          "Simulation transfer is now nearly seamless.",
+          "Test your prototype against this new baseline."
+        ]
+      },
+      "instagram": {
+        "caption": "Robots just cut the gap between simulation and reality by 87%—no more endless tweaking. 🧠\n\nA new training method teaches robot brains to reason about real-world physics directly, instead of relying on scripted scenarios. It also speeds up simulation training, so you get more accurate behavior with less compute.\n\nFor anyone building or testing physical AI, this means your prototype could finally handle real surfaces, weights, and friction without weeks of manual fixes. 🛠️\n\nDoes your current robot still need all those hand-tuned parameters—or are you ready to swap in the new baseline? ⚙️"
+      }
+    },
+    "instagram_caption": "Robots just cut the gap between simulation and reality by 87%—no more endless tweaking. 🧠\n\nA new training method teaches robot brains to reason about real-world physics directly, instead of relying on scripted scenarios. It also speeds up simulation training, so you get more accurate behavior with less compute.\n\nFor anyone building or testing physical AI, this means your prototype could finally handle real surfaces, weights, and friction without weeks of manual fixes. 🛠️\n\nDoes your current robot still need all those hand-tuned parameters—or are you ready to swap in the new baseline? ⚙️",
+    "carousel_slides": [
+      {
+        "hook": "What if robots stopped needing hand-holding?",
+        "description": "A new training method cuts the simulation-to-reality gap by 87%, letting robots adapt to real-world physics without endless tweaking.",
+        "visual_hint": "Robot hand reaching for object",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot arm"
+      },
+      {
+        "hook": "The GPT-2 era for robot brains is ending.",
+        "description": "Current AI models struggle in physical settings, but this method targets embodied reasoning, closing the gap between simulation and reality.",
+        "visual_hint": "Brain vs. robot silhouette",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot brain circuit",
+        "image": "https://images.pexels.com/photos/5181148/pexels-photo-5181148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next robot task could just work.",
+        "description": "Instead of weeks of parameter tuning, the new baseline learns from diverse physical interactions, making transfer nearly seamless.",
+        "visual_hint": "Seamless transfer of object",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robotic hand sensor",
+        "image": "https://images.pexels.com/photos/29054365/pexels-photo-29054365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It's not just about fewer tries.",
+        "description": "The method also speeds up training in simulation, so you get more accurate behavior with less compute and time.",
+        "visual_hint": "Graph showing speed increase",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer simulation graph",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to test your prototype? Save this.",
+        "description": "Take your own robot setup and compare it against the new baseline today—does it still need all those tweaks?",
+        "visual_hint": "Robot on testing bench",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot laboratory test",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "savedAt": "2026-08-26T14:36:38.336Z",
+    "sourceId": "9744030eca87930398163cf2bb078601"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "surprise-z-ai-is-the-ai-lab-behind-the-mysterious-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "pubDate": "Wed, 26 Aug 2026 14:19:29 +0000",
+    "slides": [
+      "Who is really behind the mysterious Ox Alpha model?",
+      "Z.ai, a low-profile lab, claims the breakthrough.",
+      "Its benchmark scores rival top labs, yet no paper exists.",
+      "Your next AI vendor could be an unknown player.",
+      "Audit any AI's origins before trusting its claims."
+    ],
+    "thread_text": [
+      "1. Who's behind Ox Alpha?\n\nA low-profile lab named Z.ai claims it. No paper, no details—just a benchmark score that rivals the biggest names in AI.",
+      "2. No paper, no proof\n\nZ.ai hasn't released a single technical document. The model's architecture, training data, and methods remain entirely undisclosed.",
+      "3. Benchmarks can lie\n\nScores are easy to cherry-pick. Without open evaluation or reproducibility, a top ranking means little—it could be a curated demo.",
+      "4. Unknown vendors, real risk\n\nIf you're sourcing AI from a no-name player, you might be trusting claims with zero evidence. Verify before you integrate.",
+      "5. Audit before you trust\n\nAsk any AI vendor for model cards, training data, and independent tests. If they can't provide, walk away. Would you bet your business on it?"
+    ],
+    "video_script": [
+      "Ox Alpha is a mystery. Z.ai claims it.",
+      "No paper, no details, just bold scores.",
+      "Benchmarks can be gamed. Don't be fooled.",
+      "Unknown vendors carry real risks. Check them.",
+      "Audit AI origins before you trust. Today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's behind Ox Alpha?\n\nA low-profile lab named Z.ai claims it. No paper, no details—just a benchmark score that rivals the biggest names in AI.",
+          "2. No paper, no proof\n\nZ.ai hasn't released a single technical document. The model's architecture, training data, and methods remain entirely undisclosed.",
+          "3. Benchmarks can lie\n\nScores are easy to cherry-pick. Without open evaluation or reproducibility, a top ranking means little—it could be a curated demo.",
+          "4. Unknown vendors, real risk\n\nIf you're sourcing AI from a no-name player, you might be trusting claims with zero evidence. Verify before you integrate.",
+          "5. Audit before you trust\n\nAsk any AI vendor for model cards, training data, and independent tests. If they can't provide, walk away. Would you bet your business on it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Ox Alpha is a mystery. Z.ai claims it.",
+          "No paper, no details, just bold scores.",
+          "Benchmarks can be gamed. Don't be fooled.",
+          "Unknown vendors carry real risks. Check them.",
+          "Audit AI origins before you trust. Today."
+        ]
+      },
+      "instagram": {
+        "caption": "A lab you’ve never heard of just dropped benchmark scores that beat some of the biggest names in AI. No paper. No technical details. Just a number on a slide.  \n\nThat model is called Ox Alpha, and the lab is Z.ai. With zero documentation on how it was built or trained, those scores are impossible to verify. Any team can cherry-pick a test that makes their model look great.  \n\nIf you’re using AI tools in your workflow, you’re already trusting someone’s claims. Before you rely on a model for content, ask for the model card and training data. If it’s a dead end, walk. 🕵️  \n\nWould you bet your creative output on a black box you can’t inspect? 🧠"
+      }
+    },
+    "instagram_caption": "A lab you’ve never heard of just dropped benchmark scores that beat some of the biggest names in AI. No paper. No technical details. Just a number on a slide.  \n\nThat model is called Ox Alpha, and the lab is Z.ai. With zero documentation on how it was built or trained, those scores are impossible to verify. Any team can cherry-pick a test that makes their model look great.  \n\nIf you’re using AI tools in your workflow, you’re already trusting someone’s claims. Before you rely on a model for content, ask for the model card and training data. If it’s a dead end, walk. 🕵️  \n\nWould you bet your creative output on a black box you can’t inspect? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Can you trust a model with no paper?",
+        "description": "A low-profile lab claims a benchmark breakthrough that rivals top AI labs, yet no technical documentation exists. Without evidence, the score could be cherry-picked.",
+        "visual_hint": "Question mark inside a magnifying glass",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "magnifying glass question mark"
+      },
+      {
+        "hook": "No paper, no code, no proof",
+        "description": "Z.ai hasn't published any technical details on Ox Alpha's architecture or training data. This secrecy creates a major risk for anyone considering adopting the model.",
+        "visual_hint": "Document with a redacted stamp",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "redacted document stamp",
+        "image": "https://images.pexels.com/photos/7654118/pexels-photo-7654118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Benchmarks can be cherry-picked",
+        "description": "A high score means little without open evaluation or reproducibility. It could be a curated demo hiding a lack of genuine capability.",
+        "visual_hint": "Bar chart with one bar highlighted",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "bar chart highlighted",
+        "image": "https://images.pexels.com/photos/6120204/pexels-photo-6120204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unknown vendors, real risk",
+        "description": "Sourcing AI from a no-name player means relying on claims with zero evidence. If you integrate, you could be building on an unverified foundation.",
+        "visual_hint": "Handshake in front of a question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake question mark",
+        "image": "https://images.pexels.com/photos/10988648/pexels-photo-10988648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit before you trust",
+        "description": "Ask vendors for model cards, training data, and independent tests. If they won't provide, walk away—your business deserves verified AI.",
+        "visual_hint": "Checklist with a red X",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist red x",
+        "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
+    "savedAt": "2026-08-26T14:36:26.986Z",
+    "sourceId": "f3d6254f8558d729addb61127c2362ae"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "hearing-tech-startup-legato-emerges-from-stealth-w",
     "prompt_version": "1.0.0",
     "status": "published",

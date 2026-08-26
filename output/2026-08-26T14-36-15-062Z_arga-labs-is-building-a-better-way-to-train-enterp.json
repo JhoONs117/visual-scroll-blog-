@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "arga-labs-is-building-a-better-way-to-train-enterp",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Arga Labs is building a better way to train enterprise AI agents",
+  "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+  "pubDate": "Wed, 26 Aug 2026 12:55:28 +0000",
+  "slides": [
+    "Can enterprise AI agents finally learn from their own mistakes?",
+    "Arga Labs uses agentic feedback loops, not static datasets.",
+    "Their system cuts training data needs by up to 90%.",
+    "Deploying agents now means rethinking your data pipeline.",
+    "Start with one low-risk task; measure the loop's impact."
+  ],
+  "thread_text": [
+    "1. What if AI could fix itself?\n\nArga Labs' agents use feedback loops, slashing training data needs by up to 90%—a shift from static datasets.",
+    "2. The old way is dying\n\nStatic datasets can't adapt. These agents learn from mistakes in real-time, redefining how AI improves without massive data dumps.",
+    "3. Your pipeline is the bottleneck\n\nDeploying adaptive agents means rebuilding data flow—treating feedback as the new fuel, not just raw input.",
+    "4. Small start, big shift\n\nBegin with one low-risk task to measure the loop's impact—prove it works before scaling across your operations.",
+    "5. Ready to test your agent?\n\nPick a repetitive task today and set up a simple feedback loop. If you haven't tried it, start now—or stay behind."
+  ],
+  "video_script": [
+    "AI that learns from its mistakes.",
+    "Arga's loops cut training needs ninety percent.",
+    "Static datasets are becoming obsolete.",
+    "Rethink your data pipeline now.",
+    "Start small, test one task."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if AI could fix itself?\n\nArga Labs' agents use feedback loops, slashing training data needs by up to 90%—a shift from static datasets.",
+        "2. The old way is dying\n\nStatic datasets can't adapt. These agents learn from mistakes in real-time, redefining how AI improves without massive data dumps.",
+        "3. Your pipeline is the bottleneck\n\nDeploying adaptive agents means rebuilding data flow—treating feedback as the new fuel, not just raw input.",
+        "4. Small start, big shift\n\nBegin with one low-risk task to measure the loop's impact—prove it works before scaling across your operations.",
+        "5. Ready to test your agent?\n\nPick a repetitive task today and set up a simple feedback loop. If you haven't tried it, start now—or stay behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI that learns from its mistakes.",
+        "Arga's loops cut training needs ninety percent.",
+        "Static datasets are becoming obsolete.",
+        "Rethink your data pipeline now.",
+        "Start small, test one task."
+      ]
+    },
+    "instagram": {
+      "caption": "Up to 90% less training data—that’s the claim from Arga Labs’ new approach to enterprise AI agents. 🧠\n\nInstead of feeding models static datasets, their system uses real-time feedback loops where agents learn directly from their own mistakes. The old way—dumping more and more data—is becoming the bottleneck. They say you should start with one low-risk task to test the loop, then scale if it works.\n\nFor you: if you’re building or deploying AI, this shifts your priority from collecting data to designing how feedback flows back into the system. 📊\n\nWhat’s the one repetitive task in your workflow you could wire up with a feedback loop this week? 🔁"
+    }
+  },
+  "instagram_caption": "Up to 90% less training data—that’s the claim from Arga Labs’ new approach to enterprise AI agents. 🧠\n\nInstead of feeding models static datasets, their system uses real-time feedback loops where agents learn directly from their own mistakes. The old way—dumping more and more data—is becoming the bottleneck. They say you should start with one low-risk task to test the loop, then scale if it works.\n\nFor you: if you’re building or deploying AI, this shifts your priority from collecting data to designing how feedback flows back into the system. 📊\n\nWhat’s the one repetitive task in your workflow you could wire up with a feedback loop this week? 🔁",
+  "carousel_slides": [
+    {
+      "hook": "What if AI could fix itself?",
+      "description": "Arga Labs' agents learn from their own mistakes, slashing training data needs by up to 90%—a shift from static datasets.",
+      "visual_hint": "Agent with feedback loop icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence concept"
+    },
+    {
+      "hook": "The old way is dying",
+      "description": "Static datasets can't adapt. These agents learn in real-time, redefining AI improvement without massive data dumps.",
+      "visual_hint": "Static dataset vs dynamic loop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your pipeline is the bottleneck",
+      "description": "Deploying adaptive agents means rebuilding data flow—treating feedback as fuel, not just raw input.",
+      "visual_hint": "Pipeline with feedback loop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Small start, big shift",
+      "description": "Begin with one low-risk task to measure the loop's impact—prove it works before scaling across operations.",
+      "visual_hint": "Hand with checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers desk",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your agent",
+      "description": "Pick a repetitive task today, set up a simple feedback loop. Start now—or stay behind.",
+      "visual_hint": "CTA with feedback loop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop code screen",
+      "image": "https://images.pexels.com/photos/12902862/pexels-photo-12902862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
+  "savedAt": "2026-08-26T14:36:48.999Z",
+  "sourceId": "26bfb8eb611d8fcb3d6974627e932897"
+}
