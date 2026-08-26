@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "hearing-tech-startup-legato-emerges-from-stealth-w",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "slides": [
+        "Legato's AI hearing glasses—can they truly restore natural hearing?",
+        "They emerged with $12M and a glimpse at their technology.",
+        "Unlike existing aids, these glasses adapt to each user's auditory profile.",
+        "Early users report understanding speech in noisy rooms effortlessly.",
+        "Your next hearing aid may quietly disappear into your eyewear."
+      ],
+      "thread_text": [
+        "1. Can AI glasses replace hearing aids?\n\nA startup called Legato just secured $12 million to develop glasses that might make traditional hearing aids obsolete.",
+        "2. How do they differ?\n\nThey adapt to each user's unique auditory profile, offering a personalized hearing experience that current aids lack.",
+        "3. The real-world test\n\nEarly users report understanding conversations in noisy environments effortlessly—something standard aids struggle with.",
+        "4. Beyond the hype\n\nIf these glasses deliver, they could quietly integrate hearing support into everyday eyewear, changing assistive tech forever.",
+        "5. What would you do?\n\nWould you swap your hearing aid for glasses that look normal? Try a demo if available—experience the difference yourself."
+      ],
+      "video_script": [
+        "Legato's smart glasses might replace hearing aids.",
+        "They adapt to your hearing profile automatically.",
+        "Early users hear speech clearly in noise.",
+        "Future hearing aids could hide in eyewear.",
+        "Would you switch to smart glasses?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can AI glasses replace hearing aids?\n\nA startup called Legato just secured $12 million to develop glasses that might make traditional hearing aids obsolete.",
+            "2. How do they differ?\n\nThey adapt to each user's unique auditory profile, offering a personalized hearing experience that current aids lack.",
+            "3. The real-world test\n\nEarly users report understanding conversations in noisy environments effortlessly—something standard aids struggle with.",
+            "4. Beyond the hype\n\nIf these glasses deliver, they could quietly integrate hearing support into everyday eyewear, changing assistive tech forever.",
+            "5. What would you do?\n\nWould you swap your hearing aid for glasses that look normal? Try a demo if available—experience the difference yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Legato's smart glasses might replace hearing aids.",
+            "They adapt to your hearing profile automatically.",
+            "Early users hear speech clearly in noise.",
+            "Future hearing aids could hide in eyewear.",
+            "Would you switch to smart glasses?"
+          ]
+        },
+        "instagram": {
+          "caption": "Hearing aids may soon hide inside your glasses. Legato just showed off AI-powered eyewear that adapts to your personal hearing profile—and raised $12M to make it real. Early users say they can finally follow conversations in noisy restaurants, something standard aids often fail at. 👓\n\nThe tech maps how you hear and adjusts in real time, instead of applying a one-size-fits-all boost. That could mean ditching the visible earpiece for a frame that looks normal.\n\nFor anyone who’s struggled to catch a word at a busy table, this is the upgrade you’ve been waiting for. Would you trade your current device for a pair of glasses that do both? 🔇"
+        }
+      },
+      "instagram_caption": "Hearing aids may soon hide inside your glasses. Legato just showed off AI-powered eyewear that adapts to your personal hearing profile—and raised $12M to make it real. Early users say they can finally follow conversations in noisy restaurants, something standard aids often fail at. 👓\n\nThe tech maps how you hear and adjusts in real time, instead of applying a one-size-fits-all boost. That could mean ditching the visible earpiece for a frame that looks normal.\n\nFor anyone who’s struggled to catch a word at a busy table, this is the upgrade you’ve been waiting for. Would you trade your current device for a pair of glasses that do both? 🔇",
+      "carousel_slides": [
+        {
+          "hook": "Can AI glasses replace hearing aids?",
+          "description": "Legato just secured $12 million to develop glasses that adapt to each user's auditory profile, potentially making traditional aids obsolete.",
+          "visual_hint": "Sleek glasses with digital sound waves",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart glasses"
+        },
+        {
+          "hook": "What makes them different?",
+          "description": "Unlike standard aids, Legato's glasses tailor sound to your unique auditory profile, offering a personalized hearing experience.",
+          "visual_hint": "Close-up of ear and glasses",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "ear close-up",
+          "image": "https://images.pexels.com/photos/15799472/pexels-photo-15799472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real-world test results?",
+          "description": "Early users report understanding conversations in noisy environments effortlessly, something traditional aids struggle with.",
+          "visual_hint": "Person in crowd, speech bubbles clear",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "noisy cafe",
+          "image": "https://images.pexels.com/photos/33233564/pexels-photo-33233564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Beyond the hype—what's next?",
+          "description": "If these glasses deliver, they could seamlessly integrate hearing support into daily eyewear, silently transforming assistive technology.",
+          "visual_hint": "Glasses blending with everyday objects",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding glasses",
+          "image": "https://images.pexels.com/photos/9757589/pexels-photo-9757589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you swap your hearing aid?",
+          "description": "If yes, try a demo if available and experience the difference yourself. Visit the link in bio to learn more.",
+          "visual_hint": "Hand reaching for glasses, CTA button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clicking button",
+          "image": "https://images.pexels.com/photos/21562940/pexels-photo-21562940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
+      "savedAt": "2026-08-26T12:33:04.039Z",
+      "sourceId": "c7519cb8e61684b680b33580a238cc35"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "nvidia-jetson-orin-nano-2-brings-physical-ai-to-dr",
       "prompt_version": "1.0.0",
       "status": "published",
