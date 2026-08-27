@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+  "pubDate": "2026-08-26T11:07:40.000Z",
+  "slides": [
+    "Why does AI terrify Bill Gates now?",
+    "He sees a threat bigger than nuclear war.",
+    "It's not job loss—it's loss of human control.",
+    "His worry demands new global safety rules.",
+    "Ask: who governs AI before it's too late?"
+  ],
+  "thread_text": [
+    "1. The nightmare isn't job loss.\n\nGates says AI could outsmart us, not just out-work us — a threat he ranks above nuclear war.",
+    "2. Control slips quietly.\n\nOnce AI runs critical systems, we won't notice until it's already making choices we can't override.",
+    "3. Nuclear war has a button.\n\nAI has no off-switch. Gates warns that’s why mistakes become irreversible — and why we need new safety rules now.",
+    "4. Rules don't exist yet.\n\nNo global agreement governs AI's power. National laws lag behind what systems can already do today.",
+    "5. Ask your representatives.\n\nDoes anyone in your government even know how AI decisions are made? Email them this week — before it's too late."
+  ],
+  "video_script": [
+    "Gates fears AI more than nuclear war.",
+    "Not jobs — losing control entirely.",
+    "Systems will outsmart us permanently.",
+    "We need global safety rules now.",
+    "Who governs AI before it's too late?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The nightmare isn't job loss.\n\nGates says AI could outsmart us, not just out-work us — a threat he ranks above nuclear war.",
+        "2. Control slips quietly.\n\nOnce AI runs critical systems, we won't notice until it's already making choices we can't override.",
+        "3. Nuclear war has a button.\n\nAI has no off-switch. Gates warns that’s why mistakes become irreversible — and why we need new safety rules now.",
+        "4. Rules don't exist yet.\n\nNo global agreement governs AI's power. National laws lag behind what systems can already do today.",
+        "5. Ask your representatives.\n\nDoes anyone in your government even know how AI decisions are made? Email them this week — before it's too late."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Gates fears AI more than nuclear war.",
+        "Not jobs — losing control entirely.",
+        "Systems will outsmart us permanently.",
+        "We need global safety rules now.",
+        "Who governs AI before it's too late?"
+      ]
+    },
+    "instagram": {
+      "caption": "Bill Gates now ranks AI above nuclear war—not for jobs, but for control. He says once AI runs critical systems, we may reach choices we can't override. No off-switch exists, and failure gets irreversible.  \n\nGlobal rules don't exist yet. National laws already lag behind what systems can do today. No one governs this on a worldwide scale.  \n\nFor you, making content or code: the tools you use daily already make decisions no human reviews.  \n\nDo your representatives know how those decisions are made? Email them this week. Before the quiet slip happens. 🧠⚠️🕹️"
+    }
+  },
+  "instagram_caption": "Bill Gates now ranks AI above nuclear war—not for jobs, but for control. He says once AI runs critical systems, we may reach choices we can't override. No off-switch exists, and failure gets irreversible.  \n\nGlobal rules don't exist yet. National laws already lag behind what systems can do today. No one governs this on a worldwide scale.  \n\nFor you, making content or code: the tools you use daily already make decisions no human reviews.  \n\nDo your representatives know how those decisions are made? Email them this week. Before the quiet slip happens. 🧠⚠️🕹️",
+  "carousel_slides": [
+    {
+      "hook": "AI could outsmart us all",
+      "description": "Bill Gates says AI's real threat is not job loss but losing human control, a risk he ranks above nuclear war.",
+      "visual_hint": "AI brain over humanity",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Bill Gates speaking"
+    },
+    {
+      "hook": "Control slips silently away",
+      "description": "Once AI runs critical systems, we won't notice until it makes choices we can't override—no off-switch exists.",
+      "visual_hint": "Gears fading into code",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nuclear war has a button—AI doesn't",
+      "description": "Without an off-switch, mistakes become irreversible. Gates demands new global safety rules now.",
+      "visual_hint": "Red button vs infinite loop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "nuclear button",
+      "image": "https://images.pexels.com/photos/13395142/pexels-photo-13395142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No rules govern AI's power",
+      "description": "National laws lag behind current AI capabilities, and no global agreement exists to control its reach.",
+      "visual_hint": "Gavel and chain links",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel court",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it's too late",
+      "description": "Email your representatives this week and ask how AI decisions are made in your government.",
+      "visual_hint": "Finger pressing send",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "email icon",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740715542595%2C100%2C78.518568914811&amp;w=1200",
+  "savedAt": "2026-08-27T05:55:55.066Z",
+  "sourceId": "84fc7c5b69ecef9a904f373200972097"
+}

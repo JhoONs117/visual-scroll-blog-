@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "bill-gates-wants-to-see-a-robot-tax-and-human-rese",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+  "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+  "pubDate": "Wed, 26 Aug 2026 14:37:01 +0000",
+  "slides": [
+    "Bill Gates proposes taxing robots—but what exactly counts as one?",
+    "His plan also reserves certain jobs exclusively for humans.",
+    "Surprisingly, Gates predicts these jobs will be high-skill, not menial.",
+    "Your role could become 'Human Reserved'—or disappear entirely.",
+    "Now: check if your job qualifies for human-only protection."
+  ],
+  "thread_text": [
+    "1. Robots Paying Taxes?\n\nBill Gates proposes taxing robots, but what counts as one? The definition will decide if your job is next.",
+    "2. Human-Only Jobs\n\nHis plan reserves certain roles exclusively for humans. These won't be menial—they'll be high-skill positions.",
+    "3. High-Skill Refuge\n\nHigh-skill jobs like surgery or coding might be protected. But that leaves a divide: who gets the safe roles?",
+    "4. Your Job's Fate\n\nYour role could become 'Human Reserved' or disappear entirely. The line between protection and replacement is thin.",
+    "5. Check Your Job\n\nLook up if your job qualifies for human-only protection. If it doesn't, are you planning a pivot? Ask yourself now."
+  ],
+  "video_script": [
+    "Robots could pay taxes. What counts as one?",
+    "Gates wants human-only jobs. They're high-skill.",
+    "Not menial roles. Think surgeons, coders.",
+    "Your job might be reserved or vanish.",
+    "Check if your role is protected today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Robots Paying Taxes?\n\nBill Gates proposes taxing robots, but what counts as one? The definition will decide if your job is next.",
+        "2. Human-Only Jobs\n\nHis plan reserves certain roles exclusively for humans. These won't be menial—they'll be high-skill positions.",
+        "3. High-Skill Refuge\n\nHigh-skill jobs like surgery or coding might be protected. But that leaves a divide: who gets the safe roles?",
+        "4. Your Job's Fate\n\nYour role could become 'Human Reserved' or disappear entirely. The line between protection and replacement is thin.",
+        "5. Check Your Job\n\nLook up if your job qualifies for human-only protection. If it doesn't, are you planning a pivot? Ask yourself now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robots could pay taxes. What counts as one?",
+        "Gates wants human-only jobs. They're high-skill.",
+        "Not menial roles. Think surgeons, coders.",
+        "Your job might be reserved or vanish.",
+        "Check if your role is protected today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your job might one day be legally off-limits to machines.\n\nBill Gates wants a robot tax and a \"Human Reserved\" list—jobs only people can do. He says those roles won't be low-skill, but high-skill: surgery, coding, maybe your niche.\n\nThe catch: if your role isn't on the list, it's fair game for automation. No middle ground.\n\nFor you as a creator or publisher, this means your current skill could either become protected or obsolete—depending on how lawmakers draw the line.\n\nIs your job already doing something a robot couldn't pitch next year? If not, what's your backup? 🤖💼🧠"
+    }
+  },
+  "instagram_caption": "Your job might one day be legally off-limits to machines.\n\nBill Gates wants a robot tax and a \"Human Reserved\" list—jobs only people can do. He says those roles won't be low-skill, but high-skill: surgery, coding, maybe your niche.\n\nThe catch: if your role isn't on the list, it's fair game for automation. No middle ground.\n\nFor you as a creator or publisher, this means your current skill could either become protected or obsolete—depending on how lawmakers draw the line.\n\nIs your job already doing something a robot couldn't pitch next year? If not, what's your backup? 🤖💼🧠",
+  "carousel_slides": [
+    {
+      "hook": "Will AI take your job?",
+      "description": "Gates wants to tax robots to slow AI adoption, but the definition of a robot could decide if your job is next.",
+      "visual_hint": "Robot arm with tax form",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Human-only jobs are coming.",
+      "description": "Gates plans to reserve certain roles exclusively for humans, but they won't be menial—they'll be high-skill positions like surgeons or coders.",
+      "visual_hint": "Stethoscope and code on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "surgeon operating",
+      "image": "https://images.pexels.com/photos/7583370/pexels-photo-7583370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "High-skill jobs get protection.",
+      "description": "The protected roles will be complex, leaving a divide: who gets the safe jobs and who's replaced?",
+      "visual_hint": "Divided path with one lit side",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "programming code",
+      "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your job's fate hangs in balance.",
+      "description": "Your role could become 'Human Reserved' or disappear entirely—the line between protection and replacement is thin.",
+      "visual_hint": "Balance scale with human and robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before it's too late.",
+      "description": "Check if your job qualifies for human-only protection. If not, start planning your pivot today.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+  "savedAt": "2026-08-27T05:55:42.800Z",
+  "sourceId": "a09ccde75b1bdbb6ccd0af462d2dbc50"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "viral-ai-startup-instinct-has-raised-350-million-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+  "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+  "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
+  "slides": [
+    "Can Instinct's AI truly replace your sales team?",
+    "It just raised $350M at a $2.5B valuation.",
+    "The twist: its first product targets only one industry.",
+    "Your competitors are already piloting it this quarter.",
+    "Run a side-by-side test against your own reps now."
+  ],
+  "thread_text": [
+    "1. Who’s next?\n\nInstinct just secured $350M at a $2.5B valuation, betting its AI can replace sales teams. But its first product targets only one industry—so who’s in the crosshairs?",
+    "2. The industry?\n\nThat industry is likely SaaS, where repetitive sales cycles are ripe for automation. Your competitors are already piloting this quarter, testing if AI can close deals faster.",
+    "3. The edge?\n\nIf the pilot works, early adopters gain a cost advantage overnight. Late movers will face a sales force that’s suddenly twice as expensive and slower.",
+    "4. The risk?\n\nBut AI lacks human judgment in complex negotiations. One misstep could cost a key account—so the real test is where empathy meets data.",
+    "5. Test it yourself.\n\nRun a side-by-side trial with your reps this week. If you haven’t, you’re betting your pipeline on hope—and your competitors are already measuring."
+  ],
+  "video_script": [
+    "AI sales agent raises 350 million.",
+    "Targets one industry, maybe yours.",
+    "Competitors are piloting already this quarter.",
+    "Human judgment still matters in complex deals.",
+    "Run a side-by-side test now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who’s next?\n\nInstinct just secured $350M at a $2.5B valuation, betting its AI can replace sales teams. But its first product targets only one industry—so who’s in the crosshairs?",
+        "2. The industry?\n\nThat industry is likely SaaS, where repetitive sales cycles are ripe for automation. Your competitors are already piloting this quarter, testing if AI can close deals faster.",
+        "3. The edge?\n\nIf the pilot works, early adopters gain a cost advantage overnight. Late movers will face a sales force that’s suddenly twice as expensive and slower.",
+        "4. The risk?\n\nBut AI lacks human judgment in complex negotiations. One misstep could cost a key account—so the real test is where empathy meets data.",
+        "5. Test it yourself.\n\nRun a side-by-side trial with your reps this week. If you haven’t, you’re betting your pipeline on hope—and your competitors are already measuring."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI sales agent raises 350 million.",
+        "Targets one industry, maybe yours.",
+        "Competitors are piloting already this quarter.",
+        "Human judgment still matters in complex deals.",
+        "Run a side-by-side test now."
+      ]
+    },
+    "instagram": {
+      "caption": "$350 million for a sales bot that only targets one industry—and they're valued at $2.5 billion. 🎯\n\nInstinct just closed the round. Its first product is built solely for SaaS sales cycles, where reps repeat the same pitches daily. Your competitors are already running pilots this quarter on their own quota-carrying teams.\n\nIf the test holds up, early adopters cut costs overnight. Late movers will be paying double for slower human sellers. That's not hype, that's math.\n\nFor anyone building content that feeds sales pipelines: your collateral may soon be judged by an AI closer, not a human read. Is your messaging already tuned for that? 🔄\n\nAre you running a side-by-side test with Instinct this week, or waiting for your pipeline data to tell you what your competitors already know?"
+    }
+  },
+  "instagram_caption": "$350 million for a sales bot that only targets one industry—and they're valued at $2.5 billion. 🎯\n\nInstinct just closed the round. Its first product is built solely for SaaS sales cycles, where reps repeat the same pitches daily. Your competitors are already running pilots this quarter on their own quota-carrying teams.\n\nIf the test holds up, early adopters cut costs overnight. Late movers will be paying double for slower human sellers. That's not hype, that's math.\n\nFor anyone building content that feeds sales pipelines: your collateral may soon be judged by an AI closer, not a human read. Is your messaging already tuned for that? 🔄\n\nAre you running a side-by-side test with Instinct this week, or waiting for your pipeline data to tell you what your competitors already know?",
+  "carousel_slides": [
+    {
+      "hook": "Is AI about to replace your sellers?",
+      "description": "Instinct raised $350M at a $2.5B valuation, betting AI can replace sales teams. Its first product targets SaaS—where repetitive cycles are ripe for automation.",
+      "visual_hint": "Clock ticking over sales chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "sales graph clock"
+    },
+    {
+      "hook": "Why SaaS is in the crosshairs",
+      "description": "Their first product targets only one industry: SaaS. Repetitive sales cycles there make automation easy. Competitors are already piloting it this quarter.",
+      "visual_hint": "Magnifying glass over SaaS logos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass software",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "First movers gain overnight cost edge",
+      "description": "If pilots work, early adopters slash costs overnight. Late movers face sales forces twice as expensive and slower—your pipeline depends on speed.",
+      "visual_hint": "Rocket vs. snail sales race",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket launch racing",
+      "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Where AI stumbles: complex deals",
+      "description": "AI lacks human judgment in complex negotiations. One misstep can cost a key account—so the real battle is empathy meets data.",
+      "visual_hint": "Chess piece over data streams",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chess piece data",
+      "image": "https://images.pexels.com/photos/4576325/pexels-photo-4576325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it yourself this quarter",
+      "description": "Run a side-by-side trial with your reps now. If you haven't, you're betting on hope—competitors are already measuring. Save this to act.",
+      "visual_hint": "Stopwatch with 'test' text overlay",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch testing",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+  "savedAt": "2026-08-27T05:55:30.529Z",
+  "sourceId": "dff9dc0737a40c9b66085c013be8bd01"
+}

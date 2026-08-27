@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "pubDate": "2026-08-26T11:07:40.000Z",
+    "slides": [
+      "Why does AI terrify Bill Gates now?",
+      "He sees a threat bigger than nuclear war.",
+      "It's not job loss—it's loss of human control.",
+      "His worry demands new global safety rules.",
+      "Ask: who governs AI before it's too late?"
+    ],
+    "thread_text": [
+      "1. The nightmare isn't job loss.\n\nGates says AI could outsmart us, not just out-work us — a threat he ranks above nuclear war.",
+      "2. Control slips quietly.\n\nOnce AI runs critical systems, we won't notice until it's already making choices we can't override.",
+      "3. Nuclear war has a button.\n\nAI has no off-switch. Gates warns that’s why mistakes become irreversible — and why we need new safety rules now.",
+      "4. Rules don't exist yet.\n\nNo global agreement governs AI's power. National laws lag behind what systems can already do today.",
+      "5. Ask your representatives.\n\nDoes anyone in your government even know how AI decisions are made? Email them this week — before it's too late."
+    ],
+    "video_script": [
+      "Gates fears AI more than nuclear war.",
+      "Not jobs — losing control entirely.",
+      "Systems will outsmart us permanently.",
+      "We need global safety rules now.",
+      "Who governs AI before it's too late?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The nightmare isn't job loss.\n\nGates says AI could outsmart us, not just out-work us — a threat he ranks above nuclear war.",
+          "2. Control slips quietly.\n\nOnce AI runs critical systems, we won't notice until it's already making choices we can't override.",
+          "3. Nuclear war has a button.\n\nAI has no off-switch. Gates warns that’s why mistakes become irreversible — and why we need new safety rules now.",
+          "4. Rules don't exist yet.\n\nNo global agreement governs AI's power. National laws lag behind what systems can already do today.",
+          "5. Ask your representatives.\n\nDoes anyone in your government even know how AI decisions are made? Email them this week — before it's too late."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Gates fears AI more than nuclear war.",
+          "Not jobs — losing control entirely.",
+          "Systems will outsmart us permanently.",
+          "We need global safety rules now.",
+          "Who governs AI before it's too late?"
+        ]
+      },
+      "instagram": {
+        "caption": "Bill Gates now ranks AI above nuclear war—not for jobs, but for control. He says once AI runs critical systems, we may reach choices we can't override. No off-switch exists, and failure gets irreversible.  \n\nGlobal rules don't exist yet. National laws already lag behind what systems can do today. No one governs this on a worldwide scale.  \n\nFor you, making content or code: the tools you use daily already make decisions no human reviews.  \n\nDo your representatives know how those decisions are made? Email them this week. Before the quiet slip happens. 🧠⚠️🕹️"
+      }
+    },
+    "instagram_caption": "Bill Gates now ranks AI above nuclear war—not for jobs, but for control. He says once AI runs critical systems, we may reach choices we can't override. No off-switch exists, and failure gets irreversible.  \n\nGlobal rules don't exist yet. National laws already lag behind what systems can do today. No one governs this on a worldwide scale.  \n\nFor you, making content or code: the tools you use daily already make decisions no human reviews.  \n\nDo your representatives know how those decisions are made? Email them this week. Before the quiet slip happens. 🧠⚠️🕹️",
+    "carousel_slides": [
+      {
+        "hook": "AI could outsmart us all",
+        "description": "Bill Gates says AI's real threat is not job loss but losing human control, a risk he ranks above nuclear war.",
+        "visual_hint": "AI brain over humanity",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Bill Gates speaking"
+      },
+      {
+        "hook": "Control slips silently away",
+        "description": "Once AI runs critical systems, we won't notice until it makes choices we can't override—no off-switch exists.",
+        "visual_hint": "Gears fading into code",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Nuclear war has a button—AI doesn't",
+        "description": "Without an off-switch, mistakes become irreversible. Gates demands new global safety rules now.",
+        "visual_hint": "Red button vs infinite loop",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "nuclear button",
+        "image": "https://images.pexels.com/photos/13395142/pexels-photo-13395142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No rules govern AI's power",
+        "description": "National laws lag behind current AI capabilities, and no global agreement exists to control its reach.",
+        "visual_hint": "Gavel and chain links",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "gavel court",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before it's too late",
+        "description": "Email your representatives this week and ask how AI decisions are made in your government.",
+        "visual_hint": "Finger pressing send",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "email icon",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740715542595%2C100%2C78.518568914811&amp;w=1200",
+    "savedAt": "2026-08-27T05:55:55.066Z",
+    "sourceId": "84fc7c5b69ecef9a904f373200972097"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "bill-gates-wants-to-see-a-robot-tax-and-human-rese",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "pubDate": "Wed, 26 Aug 2026 14:37:01 +0000",
+    "slides": [
+      "Bill Gates proposes taxing robots—but what exactly counts as one?",
+      "His plan also reserves certain jobs exclusively for humans.",
+      "Surprisingly, Gates predicts these jobs will be high-skill, not menial.",
+      "Your role could become 'Human Reserved'—or disappear entirely.",
+      "Now: check if your job qualifies for human-only protection."
+    ],
+    "thread_text": [
+      "1. Robots Paying Taxes?\n\nBill Gates proposes taxing robots, but what counts as one? The definition will decide if your job is next.",
+      "2. Human-Only Jobs\n\nHis plan reserves certain roles exclusively for humans. These won't be menial—they'll be high-skill positions.",
+      "3. High-Skill Refuge\n\nHigh-skill jobs like surgery or coding might be protected. But that leaves a divide: who gets the safe roles?",
+      "4. Your Job's Fate\n\nYour role could become 'Human Reserved' or disappear entirely. The line between protection and replacement is thin.",
+      "5. Check Your Job\n\nLook up if your job qualifies for human-only protection. If it doesn't, are you planning a pivot? Ask yourself now."
+    ],
+    "video_script": [
+      "Robots could pay taxes. What counts as one?",
+      "Gates wants human-only jobs. They're high-skill.",
+      "Not menial roles. Think surgeons, coders.",
+      "Your job might be reserved or vanish.",
+      "Check if your role is protected today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Robots Paying Taxes?\n\nBill Gates proposes taxing robots, but what counts as one? The definition will decide if your job is next.",
+          "2. Human-Only Jobs\n\nHis plan reserves certain roles exclusively for humans. These won't be menial—they'll be high-skill positions.",
+          "3. High-Skill Refuge\n\nHigh-skill jobs like surgery or coding might be protected. But that leaves a divide: who gets the safe roles?",
+          "4. Your Job's Fate\n\nYour role could become 'Human Reserved' or disappear entirely. The line between protection and replacement is thin.",
+          "5. Check Your Job\n\nLook up if your job qualifies for human-only protection. If it doesn't, are you planning a pivot? Ask yourself now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robots could pay taxes. What counts as one?",
+          "Gates wants human-only jobs. They're high-skill.",
+          "Not menial roles. Think surgeons, coders.",
+          "Your job might be reserved or vanish.",
+          "Check if your role is protected today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your job might one day be legally off-limits to machines.\n\nBill Gates wants a robot tax and a \"Human Reserved\" list—jobs only people can do. He says those roles won't be low-skill, but high-skill: surgery, coding, maybe your niche.\n\nThe catch: if your role isn't on the list, it's fair game for automation. No middle ground.\n\nFor you as a creator or publisher, this means your current skill could either become protected or obsolete—depending on how lawmakers draw the line.\n\nIs your job already doing something a robot couldn't pitch next year? If not, what's your backup? 🤖💼🧠"
+      }
+    },
+    "instagram_caption": "Your job might one day be legally off-limits to machines.\n\nBill Gates wants a robot tax and a \"Human Reserved\" list—jobs only people can do. He says those roles won't be low-skill, but high-skill: surgery, coding, maybe your niche.\n\nThe catch: if your role isn't on the list, it's fair game for automation. No middle ground.\n\nFor you as a creator or publisher, this means your current skill could either become protected or obsolete—depending on how lawmakers draw the line.\n\nIs your job already doing something a robot couldn't pitch next year? If not, what's your backup? 🤖💼🧠",
+    "carousel_slides": [
+      {
+        "hook": "Will AI take your job?",
+        "description": "Gates wants to tax robots to slow AI adoption, but the definition of a robot could decide if your job is next.",
+        "visual_hint": "Robot arm with tax form",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot"
+      },
+      {
+        "hook": "Human-only jobs are coming.",
+        "description": "Gates plans to reserve certain roles exclusively for humans, but they won't be menial—they'll be high-skill positions like surgeons or coders.",
+        "visual_hint": "Stethoscope and code on screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "surgeon operating",
+        "image": "https://images.pexels.com/photos/7583370/pexels-photo-7583370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "High-skill jobs get protection.",
+        "description": "The protected roles will be complex, leaving a divide: who gets the safe jobs and who's replaced?",
+        "visual_hint": "Divided path with one lit side",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "programming code",
+        "image": "https://images.pexels.com/photos/31343288/pexels-photo-31343288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your job's fate hangs in balance.",
+        "description": "Your role could become 'Human Reserved' or disappear entirely—the line between protection and replacement is thin.",
+        "visual_hint": "Balance scale with human and robot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot handshake",
+        "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before it's too late.",
+        "description": "Check if your job qualifies for human-only protection. If not, start planning your pivot today.",
+        "visual_hint": "Checklist with magnifying glass",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+    "savedAt": "2026-08-27T05:55:42.800Z",
+    "sourceId": "a09ccde75b1bdbb6ccd0af462d2dbc50"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "viral-ai-startup-instinct-has-raised-350-million-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "pubDate": "Thu, 27 Aug 2026 00:24:57 +0000",
+    "slides": [
+      "Can Instinct's AI truly replace your sales team?",
+      "It just raised $350M at a $2.5B valuation.",
+      "The twist: its first product targets only one industry.",
+      "Your competitors are already piloting it this quarter.",
+      "Run a side-by-side test against your own reps now."
+    ],
+    "thread_text": [
+      "1. Who’s next?\n\nInstinct just secured $350M at a $2.5B valuation, betting its AI can replace sales teams. But its first product targets only one industry—so who’s in the crosshairs?",
+      "2. The industry?\n\nThat industry is likely SaaS, where repetitive sales cycles are ripe for automation. Your competitors are already piloting this quarter, testing if AI can close deals faster.",
+      "3. The edge?\n\nIf the pilot works, early adopters gain a cost advantage overnight. Late movers will face a sales force that’s suddenly twice as expensive and slower.",
+      "4. The risk?\n\nBut AI lacks human judgment in complex negotiations. One misstep could cost a key account—so the real test is where empathy meets data.",
+      "5. Test it yourself.\n\nRun a side-by-side trial with your reps this week. If you haven’t, you’re betting your pipeline on hope—and your competitors are already measuring."
+    ],
+    "video_script": [
+      "AI sales agent raises 350 million.",
+      "Targets one industry, maybe yours.",
+      "Competitors are piloting already this quarter.",
+      "Human judgment still matters in complex deals.",
+      "Run a side-by-side test now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who’s next?\n\nInstinct just secured $350M at a $2.5B valuation, betting its AI can replace sales teams. But its first product targets only one industry—so who’s in the crosshairs?",
+          "2. The industry?\n\nThat industry is likely SaaS, where repetitive sales cycles are ripe for automation. Your competitors are already piloting this quarter, testing if AI can close deals faster.",
+          "3. The edge?\n\nIf the pilot works, early adopters gain a cost advantage overnight. Late movers will face a sales force that’s suddenly twice as expensive and slower.",
+          "4. The risk?\n\nBut AI lacks human judgment in complex negotiations. One misstep could cost a key account—so the real test is where empathy meets data.",
+          "5. Test it yourself.\n\nRun a side-by-side trial with your reps this week. If you haven’t, you’re betting your pipeline on hope—and your competitors are already measuring."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI sales agent raises 350 million.",
+          "Targets one industry, maybe yours.",
+          "Competitors are piloting already this quarter.",
+          "Human judgment still matters in complex deals.",
+          "Run a side-by-side test now."
+        ]
+      },
+      "instagram": {
+        "caption": "$350 million for a sales bot that only targets one industry—and they're valued at $2.5 billion. 🎯\n\nInstinct just closed the round. Its first product is built solely for SaaS sales cycles, where reps repeat the same pitches daily. Your competitors are already running pilots this quarter on their own quota-carrying teams.\n\nIf the test holds up, early adopters cut costs overnight. Late movers will be paying double for slower human sellers. That's not hype, that's math.\n\nFor anyone building content that feeds sales pipelines: your collateral may soon be judged by an AI closer, not a human read. Is your messaging already tuned for that? 🔄\n\nAre you running a side-by-side test with Instinct this week, or waiting for your pipeline data to tell you what your competitors already know?"
+      }
+    },
+    "instagram_caption": "$350 million for a sales bot that only targets one industry—and they're valued at $2.5 billion. 🎯\n\nInstinct just closed the round. Its first product is built solely for SaaS sales cycles, where reps repeat the same pitches daily. Your competitors are already running pilots this quarter on their own quota-carrying teams.\n\nIf the test holds up, early adopters cut costs overnight. Late movers will be paying double for slower human sellers. That's not hype, that's math.\n\nFor anyone building content that feeds sales pipelines: your collateral may soon be judged by an AI closer, not a human read. Is your messaging already tuned for that? 🔄\n\nAre you running a side-by-side test with Instinct this week, or waiting for your pipeline data to tell you what your competitors already know?",
+    "carousel_slides": [
+      {
+        "hook": "Is AI about to replace your sellers?",
+        "description": "Instinct raised $350M at a $2.5B valuation, betting AI can replace sales teams. Its first product targets SaaS—where repetitive cycles are ripe for automation.",
+        "visual_hint": "Clock ticking over sales chart",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "sales graph clock"
+      },
+      {
+        "hook": "Why SaaS is in the crosshairs",
+        "description": "Their first product targets only one industry: SaaS. Repetitive sales cycles there make automation easy. Competitors are already piloting it this quarter.",
+        "visual_hint": "Magnifying glass over SaaS logos",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass software",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First movers gain overnight cost edge",
+        "description": "If pilots work, early adopters slash costs overnight. Late movers face sales forces twice as expensive and slower—your pipeline depends on speed.",
+        "visual_hint": "Rocket vs. snail sales race",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "rocket launch racing",
+        "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Where AI stumbles: complex deals",
+        "description": "AI lacks human judgment in complex negotiations. One misstep can cost a key account—so the real battle is empathy meets data.",
+        "visual_hint": "Chess piece over data streams",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chess piece data",
+        "image": "https://images.pexels.com/photos/4576325/pexels-photo-4576325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it yourself this quarter",
+        "description": "Run a side-by-side trial with your reps now. If you haven't, you're betting on hope—competitors are already measuring. Save this to act.",
+        "visual_hint": "Stopwatch with 'test' text overlay",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch testing",
+        "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+    "savedAt": "2026-08-27T05:55:30.529Z",
+    "sourceId": "dff9dc0737a40c9b66085c013be8bd01"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "us-seizes-domains-of-chinese-botnet-used-to-hack-n",
     "prompt_version": "1.0.0",
     "status": "published",
