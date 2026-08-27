@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sprains-pain-and-whiplash-waymo-and-zoox-test-driv",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+  "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+  "pubDate": "Thu, 27 Aug 2026 14:36:37 +0000",
+  "slides": [
+    "Robotaxis promise safety, but their test drivers are getting hurt.",
+    "Waymo and Zoox report sprains, pain, and whiplash in testing.",
+    "Injuries happen even in cars designed to avoid crashes.",
+    "New safety rules may be needed as robotaxi fleets grow.",
+    "Ask your employer: how are driver injuries being tracked?"
+  ],
+  "thread_text": [
+    "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+    "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+    "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+    "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+    "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+  ],
+  "video_script": [
+    "Robotaxi test drivers are getting hurt.",
+    "Sprains, pain, whiplash—even avoiding crashes.",
+    "As fleets grow, safety rules are missing.",
+    "No public data on these injuries.",
+    "Ask your employer how injuries are tracked."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+        "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+        "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+        "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+        "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Robotaxi test drivers are getting hurt.",
+        "Sprains, pain, whiplash—even avoiding crashes.",
+        "As fleets grow, safety rules are missing.",
+        "No public data on these injuries.",
+        "Ask your employer how injuries are tracked."
+      ]
+    },
+    "instagram": {
+      "caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺"
+    }
+  },
+  "instagram_caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺",
+  "carousel_slides": [
+    {
+      "hook": "Safer cars, injured drivers?",
+      "description": "Waymo and Zoox test drivers report sprains, pain, and whiplash—even in robotaxis engineered to avoid crashes. How can that be?",
+      "visual_hint": "Robotaxi interior, puzzled driver",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous car interior"
+    },
+    {
+      "hook": "The irony of safety",
+      "description": "These robotaxis are designed to prevent collisions, yet the humans behind the wheel are getting hurt. Why?",
+      "visual_hint": "Split image: crash-safe car vs. injured driver",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car crash test dummy",
+      "image": "https://images.pexels.com/photos/37889699/pexels-photo-37889699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Growing fleets, growing risks",
+      "description": "As robotaxi fleets expand, new safety rules are needed to protect test drivers. Without oversight, injuries could scale.",
+      "visual_hint": "Graph showing fleet growth and injury uptick",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "fleet of autonomous vehicles",
+      "image": "https://images.pexels.com/photos/34298678/pexels-photo-34298678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who's counting the injuries?",
+      "description": "No public database tracks test driver injuries—so the true cost of autonomy remains invisible.",
+      "visual_hint": "Magnifying glass over blank report",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "blank paperwork magnifying glass",
+      "image": "https://images.pexels.com/photos/6929022/pexels-photo-6929022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and ask your employer",
+      "description": "Check if your company tracks driver injuries in test fleets. If not, demand transparency today.",
+      "visual_hint": "Hand holding smartphone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone checklist hand",
+      "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
+  "savedAt": "2026-08-27T17:10:38.163Z",
+  "sourceId": "db30a47f05b0093d428dbc06a7213ae6"
+}

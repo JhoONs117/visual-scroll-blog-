@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-mode-can-now-track-flight-prices-help-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+  "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+  "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+  "slides": [
+    "Google's AI Mode now books trips, but what's the catch?",
+    "It scans live prices across flights and hotels in seconds.",
+    "Beware: it may prioritize its own booking partners.",
+    "Your search results reshape into a personal travel agent.",
+    "Test it on one trip before trusting any itinerary."
+  ],
+  "thread_text": [
+    "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+    "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+    "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+    "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+    "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+  ],
+  "video_script": [
+    "Google's AI books trips fast, but watch the catch.",
+    "It scans prices, but pushes its own partners.",
+    "Your search becomes a biased travel agent.",
+    "Test it on one booking before trusting.",
+    "Compare prices to see if it's really a deal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+        "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+        "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+        "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+        "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI books trips fast, but watch the catch.",
+        "It scans prices, but pushes its own partners.",
+        "Your search becomes a biased travel agent.",
+        "Test it on one booking before trusting.",
+        "Compare prices to see if it's really a deal."
+      ]
+    },
+    "instagram": {
+      "caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸"
+    }
+  },
+  "instagram_caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Who wins when AI books?",
+      "description": "Google's AI Mode scans live flight and hotel prices in seconds, but may prioritize its own booking partners over the best deal.",
+      "visual_hint": "AI logo vs money symbols",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence chip"
+    },
+    {
+      "hook": "The fine print in the search box",
+      "description": "Unlike a human agent, this AI doesn't compare all options fairly—it pushes partners that pay it a commission.",
+      "visual_hint": "Magnifying glass on fine print",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "search engine interface",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your trip, their profit",
+      "description": "That 'personal travel agent' feeling comes with a bias: you might pay more for the same itinerary to boost Google's bottom line.",
+      "visual_hint": "Travel bag with dollar sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "airplane wing view",
+      "image": "https://images.pexels.com/photos/22388078/pexels-photo-22388078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust but verify",
+      "description": "Before you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+      "visual_hint": "Checklist and compare arrows",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person comparing prices",
+      "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you book!",
+      "description": "Take one real trip you've booked, ask AI Mode to rebuild it, and see if the price matches. If not, is the convenience worth it?",
+      "visual_hint": "Finger tapping save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "mobile app booking",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+  "savedAt": "2026-08-27T17:10:25.369Z",
+  "sourceId": "a88aee5f66748cd232a65cf635db8fd1"
+}

@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "sprains-pain-and-whiplash-waymo-and-zoox-test-driv",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+    "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+    "pubDate": "Thu, 27 Aug 2026 14:36:37 +0000",
+    "slides": [
+      "Robotaxis promise safety, but their test drivers are getting hurt.",
+      "Waymo and Zoox report sprains, pain, and whiplash in testing.",
+      "Injuries happen even in cars designed to avoid crashes.",
+      "New safety rules may be needed as robotaxi fleets grow.",
+      "Ask your employer: how are driver injuries being tracked?"
+    ],
+    "thread_text": [
+      "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+      "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+      "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+      "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+      "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+    ],
+    "video_script": [
+      "Robotaxi test drivers are getting hurt.",
+      "Sprains, pain, whiplash—even avoiding crashes.",
+      "As fleets grow, safety rules are missing.",
+      "No public data on these injuries.",
+      "Ask your employer how injuries are tracked."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+          "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+          "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+          "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+          "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Robotaxi test drivers are getting hurt.",
+          "Sprains, pain, whiplash—even avoiding crashes.",
+          "As fleets grow, safety rules are missing.",
+          "No public data on these injuries.",
+          "Ask your employer how injuries are tracked."
+        ]
+      },
+      "instagram": {
+        "caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺"
+      }
+    },
+    "instagram_caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺",
+    "carousel_slides": [
+      {
+        "hook": "Safer cars, injured drivers?",
+        "description": "Waymo and Zoox test drivers report sprains, pain, and whiplash—even in robotaxis engineered to avoid crashes. How can that be?",
+        "visual_hint": "Robotaxi interior, puzzled driver",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "autonomous car interior"
+      },
+      {
+        "hook": "The irony of safety",
+        "description": "These robotaxis are designed to prevent collisions, yet the humans behind the wheel are getting hurt. Why?",
+        "visual_hint": "Split image: crash-safe car vs. injured driver",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "car crash test dummy",
+        "image": "https://images.pexels.com/photos/37889699/pexels-photo-37889699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Growing fleets, growing risks",
+        "description": "As robotaxi fleets expand, new safety rules are needed to protect test drivers. Without oversight, injuries could scale.",
+        "visual_hint": "Graph showing fleet growth and injury uptick",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "fleet of autonomous vehicles",
+        "image": "https://images.pexels.com/photos/34298678/pexels-photo-34298678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who's counting the injuries?",
+        "description": "No public database tracks test driver injuries—so the true cost of autonomy remains invisible.",
+        "visual_hint": "Magnifying glass over blank report",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "blank paperwork magnifying glass",
+        "image": "https://images.pexels.com/photos/6929022/pexels-photo-6929022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and ask your employer",
+        "description": "Check if your company tracks driver injuries in test fleets. If not, demand transparency today.",
+        "visual_hint": "Hand holding smartphone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone checklist hand",
+        "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
+    "savedAt": "2026-08-27T17:10:38.163Z",
+    "sourceId": "db30a47f05b0093d428dbc06a7213ae6"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-ai-mode-can-now-track-flight-prices-help-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+    "slides": [
+      "Google's AI Mode now books trips, but what's the catch?",
+      "It scans live prices across flights and hotels in seconds.",
+      "Beware: it may prioritize its own booking partners.",
+      "Your search results reshape into a personal travel agent.",
+      "Test it on one trip before trusting any itinerary."
+    ],
+    "thread_text": [
+      "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+      "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+      "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+      "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+      "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+    ],
+    "video_script": [
+      "Google's AI books trips fast, but watch the catch.",
+      "It scans prices, but pushes its own partners.",
+      "Your search becomes a biased travel agent.",
+      "Test it on one booking before trusting.",
+      "Compare prices to see if it's really a deal."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+          "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+          "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+          "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+          "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's AI books trips fast, but watch the catch.",
+          "It scans prices, but pushes its own partners.",
+          "Your search becomes a biased travel agent.",
+          "Test it on one booking before trusting.",
+          "Compare prices to see if it's really a deal."
+        ]
+      },
+      "instagram": {
+        "caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸"
+      }
+    },
+    "instagram_caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸",
+    "carousel_slides": [
+      {
+        "hook": "Who wins when AI books?",
+        "description": "Google's AI Mode scans live flight and hotel prices in seconds, but may prioritize its own booking partners over the best deal.",
+        "visual_hint": "AI logo vs money symbols",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence chip"
+      },
+      {
+        "hook": "The fine print in the search box",
+        "description": "Unlike a human agent, this AI doesn't compare all options fairly—it pushes partners that pay it a commission.",
+        "visual_hint": "Magnifying glass on fine print",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "search engine interface",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your trip, their profit",
+        "description": "That 'personal travel agent' feeling comes with a bias: you might pay more for the same itinerary to boost Google's bottom line.",
+        "visual_hint": "Travel bag with dollar sign",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "airplane wing view",
+        "image": "https://images.pexels.com/photos/22388078/pexels-photo-22388078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust but verify",
+        "description": "Before you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+        "visual_hint": "Checklist and compare arrows",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person comparing prices",
+        "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you book!",
+        "description": "Take one real trip you've booked, ask AI Mode to rebuild it, and see if the price matches. If not, is the convenience worth it?",
+        "visual_hint": "Finger tapping save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "mobile app booking",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "savedAt": "2026-08-27T17:10:25.369Z",
+    "sourceId": "a88aee5f66748cd232a65cf635db8fd1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hoomanely-s-building-a-smart-feeding-bowl-and-an-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+    "link": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+    "pubDate": "Thu, 27 Aug 2026 16:53:50 +0000",
+    "slides": [
+      "Can a bowl detect your dog's illness before you can?",
+      "Hoomanely pairs a smart feeder with AI health analysis",
+      "It analyzes eating patterns, not just portion sizes",
+      "Subtle changes could predict sickness days earlier",
+      "Try it and compare alerts to your vet's checkups"
+    ],
+    "thread_text": [
+      "1. Your dog hides sickness\n\nA smart bowl can spot subtle eating changes days before visible symptoms. It's not magic—it's pattern recognition.",
+      "2. More than portion size\n\nHoomanely's feeder analyzes eating speed and frequency. Tiny deviations that you'd never notice become early warning signs.",
+      "3. The silent early signal\n\nDogs mask pain instinctively. By the time you see a problem, it's often advanced. The bowl could catch illness days earlier.",
+      "4. Compare with vet checkups\n\nUse the alerts to guide more targeted questions. It's not a diagnosis—it's a data point your vet can act on.",
+      "5. Test it with your dog\n\nTry Hoomanely's feeder and track alerts next to routine vet visits. Does the early warning actually hold up?"
+    ],
+    "video_script": [
+      "Imagine if your dog had a symptom radar.",
+      "A smart bowl can detect subtle eating pattern changes.",
+      "Those changes often show up days before illness.",
+      "It's like having a health monitor for your pet.",
+      "Would you trust an AI bowl over your gut?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your dog hides sickness\n\nA smart bowl can spot subtle eating changes days before visible symptoms. It's not magic—it's pattern recognition.",
+          "2. More than portion size\n\nHoomanely's feeder analyzes eating speed and frequency. Tiny deviations that you'd never notice become early warning signs.",
+          "3. The silent early signal\n\nDogs mask pain instinctively. By the time you see a problem, it's often advanced. The bowl could catch illness days earlier.",
+          "4. Compare with vet checkups\n\nUse the alerts to guide more targeted questions. It's not a diagnosis—it's a data point your vet can act on.",
+          "5. Test it with your dog\n\nTry Hoomanely's feeder and track alerts next to routine vet visits. Does the early warning actually hold up?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Imagine if your dog had a symptom radar.",
+          "A smart bowl can detect subtle eating pattern changes.",
+          "Those changes often show up days before illness.",
+          "It's like having a health monitor for your pet.",
+          "Would you trust an AI bowl over your gut?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your dog hides pain on instinct. By the time they act sick, it's often days into an illness.\n\nHoomanely’s new smart bowl tracks eating speed, not just portions. Tiny pattern shifts trigger an alert that something's off.\n\nThat warning can land up to 72 hours before symptoms show.\n\nFor pet owners, this turns a feeding schedule into a health log. You walk into the vet with a data point, not a guess.\n\nCould earlier detection change how you handle your dog's next off day? 🐾📉"
+      }
+    },
+    "instagram_caption": "Your dog hides pain on instinct. By the time they act sick, it's often days into an illness.\n\nHoomanely’s new smart bowl tracks eating speed, not just portions. Tiny pattern shifts trigger an alert that something's off.\n\nThat warning can land up to 72 hours before symptoms show.\n\nFor pet owners, this turns a feeding schedule into a health log. You walk into the vet with a data point, not a guess.\n\nCould earlier detection change how you handle your dog's next off day? 🐾📉",
+    "carousel_slides": [
+      {
+        "hook": "Your dog hides pain. This bowl catches it.",
+        "description": "Dogs mask sickness instinctively. By the time symptoms show, illness is often advanced. A smart bowl detects subtle eating changes days earlier.",
+        "visual_hint": "Dog bowl with glowing sensor",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart pet feeder"
+      },
+      {
+        "hook": "More than portion size—eating speed matters.",
+        "description": "Hoomanely's feeder analyzes eating speed and frequency. Tiny deviations you'd never notice become early warning signs of health issues.",
+        "visual_hint": "Graph showing eating patterns",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "eating pattern graph",
+        "image": "https://images.pexels.com/photos/8965123/pexels-photo-8965123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silent early signals your vet can see.",
+        "description": "Dogs hide pain naturally. By the time you notice, it's often advanced. The bowl catches subtle changes days earlier, guiding vet visits.",
+        "visual_hint": "Magnified bowl sensor detail",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "pet bowl sensor closeup",
+        "image": "https://images.pexels.com/photos/18540614/pexels-photo-18540614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compare alerts with your vet's checkups.",
+        "description": "Use alerts to ask targeted questions. Not a diagnosis—a data point your vet can act on, making checkups smarter and more preventive.",
+        "visual_hint": "Hand holding phone with alert",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test early warnings with your pup.",
+        "description": "Try Hoomanely's feeder and track alerts next to routine vet visits. See if the early warning holds up—tap the link to learn more.",
+        "visual_hint": "Smart bowl with phone notification",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smart feeder app notification",
+        "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Harshal-Hinger-COO_Sai-Supriya-Sharath-CEO_Vipin-Ravindran-CTO.jpeg?resize=1200,800",
+    "savedAt": "2026-08-27T17:10:13.301Z",
+    "sourceId": "c71b9d1a7772d14ec346bca4019d9c48"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "fashion-startup-atoire-raises-9-5m-to-bring-consum",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup",
+    "link": "https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+    "pubDate": "Thu, 27 Aug 2026 17:00:00 +0000",
+    "slides": [
+      "Can luxury pricing survive without retail markup?",
+      "Atoire's $9.5M targets direct-to-consumer luxury.",
+      "But markup cuts may compress profit margins drastically.",
+      "You'll pay less, yet brands might resist channel shifts.",
+      "Test Atoire's prices against traditional luxury today."
+    ],
+    "thread_text": [
+      "1. What if luxury drops retail entirely?\n\nAtoire just raised $9.5 million to sell directly, skipping traditional stores and markups.",
+      "2. The real cost isn't the price tag.\n\nCutting retail margins means brands absorb logistics, returns, and customer service—costs that were hidden in those markups.",
+      "3. Brands may stall the shift on purpose.\n\nLuxury houses fear cannibalizing boutique sales and losing the aura of exclusive floor service.",
+      "4. You get lower prices, but watch the ripple.\n\nIf Atoire compresses margins, competitors might follow—or double down on retail to stay distinct.",
+      "5. Test Atoire's prices today against a classic luxury item.\n\nSearch their site, compare the same product at a boutique, then ask: is the markup worth the experience?"
+    ],
+    "video_script": [
+      "Luxury without retail markup? Atoire says yes.",
+      "They raised nine and a half million dollars.",
+      "Direct to you, skipping the store.",
+      "But brands might resist the channel change.",
+      "Compare prices yourself this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if luxury drops retail entirely?\n\nAtoire just raised $9.5 million to sell directly, skipping traditional stores and markups.",
+          "2. The real cost isn't the price tag.\n\nCutting retail margins means brands absorb logistics, returns, and customer service—costs that were hidden in those markups.",
+          "3. Brands may stall the shift on purpose.\n\nLuxury houses fear cannibalizing boutique sales and losing the aura of exclusive floor service.",
+          "4. You get lower prices, but watch the ripple.\n\nIf Atoire compresses margins, competitors might follow—or double down on retail to stay distinct.",
+          "5. Test Atoire's prices today against a classic luxury item.\n\nSearch their site, compare the same product at a boutique, then ask: is the markup worth the experience?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Luxury without retail markup? Atoire says yes.",
+          "They raised nine and a half million dollars.",
+          "Direct to you, skipping the store.",
+          "But brands might resist the channel change.",
+          "Compare prices yourself this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Luxury prices are about to face a real stress test. Atoire just raised $9.5 million to sell high-end goods directly to you, cutting out the boutique floor and its notorious markup.\n\nThe catch? Those retail margins paid for returns, customer service, and the “exclusive” feeling of a store. Absorbing that costs money, and brands may resist the shift to protect their image.\n\nFor anyone covering fashion or commerce, this changes the story: the price tag is no longer the product. It’s a negotiation between convenience and aura.\n\nCan you spot the difference in real value next time you compare a price online and in-store? 👀💸🧥"
+      }
+    },
+    "instagram_caption": "Luxury prices are about to face a real stress test. Atoire just raised $9.5 million to sell high-end goods directly to you, cutting out the boutique floor and its notorious markup.\n\nThe catch? Those retail margins paid for returns, customer service, and the “exclusive” feeling of a store. Absorbing that costs money, and brands may resist the shift to protect their image.\n\nFor anyone covering fashion or commerce, this changes the story: the price tag is no longer the product. It’s a negotiation between convenience and aura.\n\nCan you spot the difference in real value next time you compare a price online and in-store? 👀💸🧥",
+    "carousel_slides": [
+      {
+        "hook": "Is luxury pricing built on lies?",
+        "description": "Atoire's $9.5M removes retail markup, but cutting margins means absorbing logistics costs yourself. Lower prices could squeeze profits drastically.",
+        "visual_hint": "Price tag with dollar sign cracking",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "price tag store"
+      },
+      {
+        "hook": "What if luxury stores disappeared?",
+        "description": "Atoire's direct-to-consumer model skips traditional stores. But brands may resist, fearing lost boutique sales and exclusive service aura.",
+        "visual_hint": "High-end boutique storefront empty",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "luxury boutique interior",
+        "image": "https://images.pexels.com/photos/37793325/pexels-photo-37793325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Markup cuts threaten brand survival.",
+        "description": "Compressing margins could force competitors to follow or double down on retail. You'll pay less, but brands might shift strategies dramatically.",
+        "visual_hint": "Profit margin graph shrinking",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who really pays for luxury service?",
+        "description": "Hidden costs like returns and customer service were buried in markups. Atoire's model shifts these expenses, but brands may resist the change.",
+        "visual_hint": "Hand holding a receipt with fine print",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding receipt",
+        "image": "https://images.pexels.com/photos/9461316/pexels-photo-9461316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Compare Atoire's prices now.",
+        "description": "Visit Atoire's site, find a luxury item, and compare it to the same piece at a boutique. Then comment: is the markup worth the experience?",
+        "visual_hint": "Phone showing price comparison app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone comparison shopping",
+        "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800",
+    "savedAt": "2026-08-27T17:10:00.369Z",
+    "sourceId": "52d707908e9edd3a1bcfab3bb6d7316b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-",
     "prompt_version": "1.0.0",
     "status": "published",

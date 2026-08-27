@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "sprains-pain-and-whiplash-waymo-and-zoox-test-driv",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
+      "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
+      "pubDate": "Thu, 27 Aug 2026 14:36:37 +0000",
+      "slides": [
+        "Robotaxis promise safety, but their test drivers are getting hurt.",
+        "Waymo and Zoox report sprains, pain, and whiplash in testing.",
+        "Injuries happen even in cars designed to avoid crashes.",
+        "New safety rules may be needed as robotaxi fleets grow.",
+        "Ask your employer: how are driver injuries being tracked?"
+      ],
+      "thread_text": [
+        "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+        "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+        "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+        "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+        "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+      ],
+      "video_script": [
+        "Robotaxi test drivers are getting hurt.",
+        "Sprains, pain, whiplash—even avoiding crashes.",
+        "As fleets grow, safety rules are missing.",
+        "No public data on these injuries.",
+        "Ask your employer how injuries are tracked."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Injured, Not Crashing\n\nReal test drivers for Waymo and Zoox are reporting sprains, pain, and whiplash—even in cars engineered to prevent collisions.",
+            "2. The Irony of Safety\n\nThese robotaxis are designed to avoid crashes, yet the humans behind the wheel are getting hurt. How does that happen?",
+            "3. Growing Pains\n\nAs robotaxi fleets expand, new safety rules may be needed to protect the people testing them. Without oversight, risks could scale.",
+            "4. Who's Counting?\n\nCurrently, there's no public database tracking these injuries. That means the true cost of autonomy is invisible.",
+            "5. Ask Your Employer\n\nDoes your company track driver injuries in test fleets? If not, ask why—and push for transparency today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Robotaxi test drivers are getting hurt.",
+            "Sprains, pain, whiplash—even avoiding crashes.",
+            "As fleets grow, safety rules are missing.",
+            "No public data on these injuries.",
+            "Ask your employer how injuries are tracked."
+          ]
+        },
+        "instagram": {
+          "caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺"
+        }
+      },
+      "instagram_caption": "Inside Waymo and Zoox test cars, the humans in the driver's seat are reporting sprains, pain, and whiplash—injuries happening in vehicles built specifically to avoid crashes.  \n\nThe irony: these robotaxis are engineered for safety, yet the test drivers are the ones getting hurt. As fleets scale, there's no public database tracking these injuries, so the real cost of autonomy stays invisible.  \n\nFor anyone publishing on AI, this is your next story: the gap between promised safety and reported worker harm.  \n\nIs your employer tracking driver injuries in test fleets? If not, ask why. 🚗💥🩺",
+      "carousel_slides": [
+        {
+          "hook": "Safer cars, injured drivers?",
+          "description": "Waymo and Zoox test drivers report sprains, pain, and whiplash—even in robotaxis engineered to avoid crashes. How can that be?",
+          "visual_hint": "Robotaxi interior, puzzled driver",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous car interior"
+        },
+        {
+          "hook": "The irony of safety",
+          "description": "These robotaxis are designed to prevent collisions, yet the humans behind the wheel are getting hurt. Why?",
+          "visual_hint": "Split image: crash-safe car vs. injured driver",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "car crash test dummy",
+          "image": "https://images.pexels.com/photos/37889699/pexels-photo-37889699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Growing fleets, growing risks",
+          "description": "As robotaxi fleets expand, new safety rules are needed to protect test drivers. Without oversight, injuries could scale.",
+          "visual_hint": "Graph showing fleet growth and injury uptick",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fleet of autonomous vehicles",
+          "image": "https://images.pexels.com/photos/34298678/pexels-photo-34298678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who's counting the injuries?",
+          "description": "No public database tracks test driver injuries—so the true cost of autonomy remains invisible.",
+          "visual_hint": "Magnifying glass over blank report",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "blank paperwork magnifying glass",
+          "image": "https://images.pexels.com/photos/6929022/pexels-photo-6929022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and ask your employer",
+          "description": "Check if your company tracks driver injuries in test fleets. If not, demand transparency today.",
+          "visual_hint": "Hand holding smartphone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone checklist hand",
+          "image": "https://images.pexels.com/photos/33222053/pexels-photo-33222053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
+      "savedAt": "2026-08-27T17:10:38.163Z",
+      "sourceId": "db30a47f05b0093d428dbc06a7213ae6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-ai-mode-can-now-track-flight-prices-help-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "slides": [
+        "Google's AI Mode now books trips, but what's the catch?",
+        "It scans live prices across flights and hotels in seconds.",
+        "Beware: it may prioritize its own booking partners.",
+        "Your search results reshape into a personal travel agent.",
+        "Test it on one trip before trusting any itinerary."
+      ],
+      "thread_text": [
+        "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+        "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+        "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+        "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+        "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+      ],
+      "video_script": [
+        "Google's AI books trips fast, but watch the catch.",
+        "It scans prices, but pushes its own partners.",
+        "Your search becomes a biased travel agent.",
+        "Test it on one booking before trusting.",
+        "Compare prices to see if it's really a deal."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who wins when AI books?\n\nGoogle’s new AI Mode scans live flight and hotel prices in seconds, but it may prioritize its own booking partners over the best deal.",
+            "2. The fine print in the search box\n\nUnlike a human agent, this AI doesn’t compare all options fairly—it pushes partners that pay it a commission.",
+            "3. Your trip, their profit\n\nThat “personal travel agent” feeling comes with a bias: you might pay more for the same itinerary to boost Google’s bottom line.",
+            "4. Trust but verify\n\nBefore you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+            "5. Have you checked the partner list?\n\nTake one real trip you’ve booked, ask AI Mode to rebuild it, and see if the price matches. If it doesn’t, is the convenience worth it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's AI books trips fast, but watch the catch.",
+            "It scans prices, but pushes its own partners.",
+            "Your search becomes a biased travel agent.",
+            "Test it on one booking before trusting.",
+            "Compare prices to see if it's really a deal."
+          ]
+        },
+        "instagram": {
+          "caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸"
+        }
+      },
+      "instagram_caption": "That booking you just made through Google’s new AI Mode might not be the cheapest option. 🧐\n\nIt scans live flight and hotel prices in seconds, but it can quietly favor its own booking partners that pay it a commission. That “personal travel agent” feel comes with a built-in bias—you could end up paying more for the exact same itinerary.\n\nFor anyone who writes or plans trips, this means you can't trust a single search result as ground truth anymore. 🛑\n\nBefore you let it plan a full vacation, run one real booking you’ve already made through it and compare the final price with the original site. If it doesn’t match, is the convenience worth it? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Who wins when AI books?",
+          "description": "Google's AI Mode scans live flight and hotel prices in seconds, but may prioritize its own booking partners over the best deal.",
+          "visual_hint": "AI logo vs money symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence chip"
+        },
+        {
+          "hook": "The fine print in the search box",
+          "description": "Unlike a human agent, this AI doesn't compare all options fairly—it pushes partners that pay it a commission.",
+          "visual_hint": "Magnifying glass on fine print",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "search engine interface",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your trip, their profit",
+          "description": "That 'personal travel agent' feeling comes with a bias: you might pay more for the same itinerary to boost Google's bottom line.",
+          "visual_hint": "Travel bag with dollar sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "airplane wing view",
+          "image": "https://images.pexels.com/photos/22388078/pexels-photo-22388078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Trust but verify",
+          "description": "Before you let it plan a whole vacation, test it on a single booking and compare the price with other sites.",
+          "visual_hint": "Checklist and compare arrows",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person comparing prices",
+          "image": "https://images.pexels.com/photos/5926253/pexels-photo-5926253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you book!",
+          "description": "Take one real trip you've booked, ask AI Mode to rebuild it, and see if the price matches. If not, is the convenience worth it?",
+          "visual_hint": "Finger tapping save button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "mobile app booking",
+          "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "savedAt": "2026-08-27T17:10:25.369Z",
+      "sourceId": "a88aee5f66748cd232a65cf635db8fd1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hoomanely-s-building-a-smart-feeding-bowl-and-an-a",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+      "link": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "pubDate": "Thu, 27 Aug 2026 16:53:50 +0000",
+      "slides": [
+        "Can a bowl detect your dog's illness before you can?",
+        "Hoomanely pairs a smart feeder with AI health analysis",
+        "It analyzes eating patterns, not just portion sizes",
+        "Subtle changes could predict sickness days earlier",
+        "Try it and compare alerts to your vet's checkups"
+      ],
+      "thread_text": [
+        "1. Your dog hides sickness\n\nA smart bowl can spot subtle eating changes days before visible symptoms. It's not magic—it's pattern recognition.",
+        "2. More than portion size\n\nHoomanely's feeder analyzes eating speed and frequency. Tiny deviations that you'd never notice become early warning signs.",
+        "3. The silent early signal\n\nDogs mask pain instinctively. By the time you see a problem, it's often advanced. The bowl could catch illness days earlier.",
+        "4. Compare with vet checkups\n\nUse the alerts to guide more targeted questions. It's not a diagnosis—it's a data point your vet can act on.",
+        "5. Test it with your dog\n\nTry Hoomanely's feeder and track alerts next to routine vet visits. Does the early warning actually hold up?"
+      ],
+      "video_script": [
+        "Imagine if your dog had a symptom radar.",
+        "A smart bowl can detect subtle eating pattern changes.",
+        "Those changes often show up days before illness.",
+        "It's like having a health monitor for your pet.",
+        "Would you trust an AI bowl over your gut?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your dog hides sickness\n\nA smart bowl can spot subtle eating changes days before visible symptoms. It's not magic—it's pattern recognition.",
+            "2. More than portion size\n\nHoomanely's feeder analyzes eating speed and frequency. Tiny deviations that you'd never notice become early warning signs.",
+            "3. The silent early signal\n\nDogs mask pain instinctively. By the time you see a problem, it's often advanced. The bowl could catch illness days earlier.",
+            "4. Compare with vet checkups\n\nUse the alerts to guide more targeted questions. It's not a diagnosis—it's a data point your vet can act on.",
+            "5. Test it with your dog\n\nTry Hoomanely's feeder and track alerts next to routine vet visits. Does the early warning actually hold up?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine if your dog had a symptom radar.",
+            "A smart bowl can detect subtle eating pattern changes.",
+            "Those changes often show up days before illness.",
+            "It's like having a health monitor for your pet.",
+            "Would you trust an AI bowl over your gut?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your dog hides pain on instinct. By the time they act sick, it's often days into an illness.\n\nHoomanely’s new smart bowl tracks eating speed, not just portions. Tiny pattern shifts trigger an alert that something's off.\n\nThat warning can land up to 72 hours before symptoms show.\n\nFor pet owners, this turns a feeding schedule into a health log. You walk into the vet with a data point, not a guess.\n\nCould earlier detection change how you handle your dog's next off day? 🐾📉"
+        }
+      },
+      "instagram_caption": "Your dog hides pain on instinct. By the time they act sick, it's often days into an illness.\n\nHoomanely’s new smart bowl tracks eating speed, not just portions. Tiny pattern shifts trigger an alert that something's off.\n\nThat warning can land up to 72 hours before symptoms show.\n\nFor pet owners, this turns a feeding schedule into a health log. You walk into the vet with a data point, not a guess.\n\nCould earlier detection change how you handle your dog's next off day? 🐾📉",
+      "carousel_slides": [
+        {
+          "hook": "Your dog hides pain. This bowl catches it.",
+          "description": "Dogs mask sickness instinctively. By the time symptoms show, illness is often advanced. A smart bowl detects subtle eating changes days earlier.",
+          "visual_hint": "Dog bowl with glowing sensor",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart pet feeder"
+        },
+        {
+          "hook": "More than portion size—eating speed matters.",
+          "description": "Hoomanely's feeder analyzes eating speed and frequency. Tiny deviations you'd never notice become early warning signs of health issues.",
+          "visual_hint": "Graph showing eating patterns",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "eating pattern graph",
+          "image": "https://images.pexels.com/photos/8965123/pexels-photo-8965123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Silent early signals your vet can see.",
+          "description": "Dogs hide pain naturally. By the time you notice, it's often advanced. The bowl catches subtle changes days earlier, guiding vet visits.",
+          "visual_hint": "Magnified bowl sensor detail",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pet bowl sensor closeup",
+          "image": "https://images.pexels.com/photos/18540614/pexels-photo-18540614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compare alerts with your vet's checkups.",
+          "description": "Use alerts to ask targeted questions. Not a diagnosis—a data point your vet can act on, making checkups smarter and more preventive.",
+          "visual_hint": "Hand holding phone with alert",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test early warnings with your pup.",
+          "description": "Try Hoomanely's feeder and track alerts next to routine vet visits. See if the early warning holds up—tap the link to learn more.",
+          "visual_hint": "Smart bowl with phone notification",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smart feeder app notification",
+          "image": "https://images.pexels.com/photos/5077054/pexels-photo-5077054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Harshal-Hinger-COO_Sai-Supriya-Sharath-CEO_Vipin-Ravindran-CTO.jpeg?resize=1200,800",
+      "savedAt": "2026-08-27T17:10:13.301Z",
+      "sourceId": "c71b9d1a7772d14ec346bca4019d9c48"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "fashion-startup-atoire-raises-9-5m-to-bring-consum",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Fashion startup Atoire raises $9.5M to bring consumers luxury goods without the markup",
+      "link": "https://techcrunch.com/2026/08/27/fashion-startup-atoire-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "pubDate": "Thu, 27 Aug 2026 17:00:00 +0000",
+      "slides": [
+        "Can luxury pricing survive without retail markup?",
+        "Atoire's $9.5M targets direct-to-consumer luxury.",
+        "But markup cuts may compress profit margins drastically.",
+        "You'll pay less, yet brands might resist channel shifts.",
+        "Test Atoire's prices against traditional luxury today."
+      ],
+      "thread_text": [
+        "1. What if luxury drops retail entirely?\n\nAtoire just raised $9.5 million to sell directly, skipping traditional stores and markups.",
+        "2. The real cost isn't the price tag.\n\nCutting retail margins means brands absorb logistics, returns, and customer service—costs that were hidden in those markups.",
+        "3. Brands may stall the shift on purpose.\n\nLuxury houses fear cannibalizing boutique sales and losing the aura of exclusive floor service.",
+        "4. You get lower prices, but watch the ripple.\n\nIf Atoire compresses margins, competitors might follow—or double down on retail to stay distinct.",
+        "5. Test Atoire's prices today against a classic luxury item.\n\nSearch their site, compare the same product at a boutique, then ask: is the markup worth the experience?"
+      ],
+      "video_script": [
+        "Luxury without retail markup? Atoire says yes.",
+        "They raised nine and a half million dollars.",
+        "Direct to you, skipping the store.",
+        "But brands might resist the channel change.",
+        "Compare prices yourself this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if luxury drops retail entirely?\n\nAtoire just raised $9.5 million to sell directly, skipping traditional stores and markups.",
+            "2. The real cost isn't the price tag.\n\nCutting retail margins means brands absorb logistics, returns, and customer service—costs that were hidden in those markups.",
+            "3. Brands may stall the shift on purpose.\n\nLuxury houses fear cannibalizing boutique sales and losing the aura of exclusive floor service.",
+            "4. You get lower prices, but watch the ripple.\n\nIf Atoire compresses margins, competitors might follow—or double down on retail to stay distinct.",
+            "5. Test Atoire's prices today against a classic luxury item.\n\nSearch their site, compare the same product at a boutique, then ask: is the markup worth the experience?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Luxury without retail markup? Atoire says yes.",
+            "They raised nine and a half million dollars.",
+            "Direct to you, skipping the store.",
+            "But brands might resist the channel change.",
+            "Compare prices yourself this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Luxury prices are about to face a real stress test. Atoire just raised $9.5 million to sell high-end goods directly to you, cutting out the boutique floor and its notorious markup.\n\nThe catch? Those retail margins paid for returns, customer service, and the “exclusive” feeling of a store. Absorbing that costs money, and brands may resist the shift to protect their image.\n\nFor anyone covering fashion or commerce, this changes the story: the price tag is no longer the product. It’s a negotiation between convenience and aura.\n\nCan you spot the difference in real value next time you compare a price online and in-store? 👀💸🧥"
+        }
+      },
+      "instagram_caption": "Luxury prices are about to face a real stress test. Atoire just raised $9.5 million to sell high-end goods directly to you, cutting out the boutique floor and its notorious markup.\n\nThe catch? Those retail margins paid for returns, customer service, and the “exclusive” feeling of a store. Absorbing that costs money, and brands may resist the shift to protect their image.\n\nFor anyone covering fashion or commerce, this changes the story: the price tag is no longer the product. It’s a negotiation between convenience and aura.\n\nCan you spot the difference in real value next time you compare a price online and in-store? 👀💸🧥",
+      "carousel_slides": [
+        {
+          "hook": "Is luxury pricing built on lies?",
+          "description": "Atoire's $9.5M removes retail markup, but cutting margins means absorbing logistics costs yourself. Lower prices could squeeze profits drastically.",
+          "visual_hint": "Price tag with dollar sign cracking",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "price tag store"
+        },
+        {
+          "hook": "What if luxury stores disappeared?",
+          "description": "Atoire's direct-to-consumer model skips traditional stores. But brands may resist, fearing lost boutique sales and exclusive service aura.",
+          "visual_hint": "High-end boutique storefront empty",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "luxury boutique interior",
+          "image": "https://images.pexels.com/photos/37793325/pexels-photo-37793325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Markup cuts threaten brand survival.",
+          "description": "Compressing margins could force competitors to follow or double down on retail. You'll pay less, but brands might shift strategies dramatically.",
+          "visual_hint": "Profit margin graph shrinking",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who really pays for luxury service?",
+          "description": "Hidden costs like returns and customer service were buried in markups. Atoire's model shifts these expenses, but brands may resist the change.",
+          "visual_hint": "Hand holding a receipt with fine print",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding receipt",
+          "image": "https://images.pexels.com/photos/9461316/pexels-photo-9461316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compare Atoire's prices now.",
+          "description": "Visit Atoire's site, find a luxury item, and compare it to the same piece at a boutique. Then comment: is the markup worth the experience?",
+          "visual_hint": "Phone showing price comparison app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone comparison shopping",
+          "image": "https://images.pexels.com/photos/7190919/pexels-photo-7190919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800",
+      "savedAt": "2026-08-27T17:10:00.369Z",
+      "sourceId": "52d707908e9edd3a1bcfab3bb6d7316b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "bill-gates-is-deeply-worried-about-ai-and-he-s-no-",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -134696,6 +135112,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-con-pesto-e-calamari",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta con pesto e calamari",
+      "link": "https://ricette.giallozafferano.it/Pasta-con-pesto-e-calamari.html",
+      "pubDate": "Thu, 27 Aug 2026 15:25:00 +0200",
+      "content": "Pasta con pesto e calamari: ricetta cremosa e facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con pesto e calamari /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Media Preparazione: 20 min Cottura: 15 min Dosi per: 4 persone Costo: Medio PRESENTAZIONE La pasta con pesto e calamari è un primo piatto di mare che unisce il profumo intenso del basilico alla delicatezza dei calamari. Il pesto avvolge gli spaghetti con la sua consistenza cremosa, mentre i calamari, saltati velocemente in padella e sfumati con il vino bianco, completano il condimento. Una ricetta semplice da preparare, ideale per portare in tavola una pasta con calamari diversa dal solito, caratterizzata dal gusto fresco e aromatico del pesto di basilico. Preparatela per un pranzo estivo o una cena di pesce, quando avete voglia di un primo piatto facile ma sfizioso! Ecco altri primi con i calamari da non perdere: calamarata risotto ai calamari tagliatelle con calamari e pomodorini risotto menta piselli e calamari pasta con pesto di lattuga e calamari INGREDIENTI per la pasta Spaghetti 320 g Calamari già puliti 500 g Olio extravergine d'oliva 30 g Vino bianco 50 g Sale fino q.b. Pepe nero q.b. per il pesto Basilico 50 g Grana Padano DOP 40 g Pinoli 25 g Olio extravergine d'oliva 80 g Sale fino q.b. Pepe nero q.b. per decorare Basilico q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con pesto e calamari Per preparare la pasta con pesto e calamari, iniziate dal pesto. Riunite nel bicchiere del frullatore le foglie di basilico, i pinoli 1 , il formaggio grattugiato 2 , un pizzico di sale e una macinata di pepe nero 3 . Versate poi anche l'olio extravergine d’oliva 4 . Frullate con un mixer ad immersione fino a ottenere una consistenza cremosa e omogenea 5 , facendo attenzione a non lavorare il composto troppo a lungo per evitare di surriscaldarlo. Una volta pronto, tenete il pesto da parte. Mettete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura della pasta. Prendete i calamari già puliti, tagliate il corpo ad anelli 6 e lasciate interi i tentacoli. Qualora dovessero essere troppo grandi potete tagliarli a metà. Versate 30 g di olio extravergine d’oliva in una padella capiente e fatelo scaldare. Unite i calamari 7 e saltateli a fuoco vivace per 2-3 minuti, mescolandoli durante la cottura 8 . Salate, pepate, poi sfumate con il vino bianco 9 e lasciate evaporare completamente la parte alcolica. Quando il vino sarà evaporato 10 , spegnete il fuoco e lasciate i calamari nella padella. Non appena l'acqua avrà raggiunto il bollore cuocete la pasta 11 . Scolatela al dente, ricordandovi di tenere da parte un po’ della sua acqua di cottura: vi servirà per rendere più cremoso il condimento. Trasferite la pasta scolata nella padella con i calamari 12 . Aggiungete una grattata di pepe nero 13 , un mestolino di acqua di cottura 14 e saltate il tutto velocemente. Spegnete il fuoco e aggiungete il pesto 15 . Mescolate ancora una volta, sempre a fuoco spento 16 e impiattate. Decorate con una fogliolina di basilico 17 e servite la vostra pasta con pesto e calamari 18 . Conservazione Vi consigliamo di consumare la pasta con pesto e calamari appena pronta, per apprezzare al meglio la consistenza dei calamari e il profumo del pesto. Se dovesse avanzare, potete conservarla in frigorifero per 1 giorno, chiusa in un contenitore ermetico. Si sconsiglia la congelazione del piatto già condito. Consiglio Quando aggiungete il pesto alla pasta, assicuratevi che il fuoco sia spento: eviterete così di sottoporre il basilico a un calore eccessivo. Conservate sempre un po’ di acqua di cottura della pasta e aggiungetela solo se necessario, poco alla volta, per ottenere un condimento più cremoso senza renderlo troppo liquido. Se non siete pratici con la pulizia dei calamari, seguite la nostra scheda: \" come pulire i calamari \" Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Spaghetti Pasta Olio di oliva Calamari Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con pesto e calamari Cheesecake fredda al cioccolato 3.8 Cosce di pollo in friggitrice ad aria con salsa barbecue SCOPRI Pasta fredda con pesto Pasta pesto e pomodorini Pasta pesto Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con pesto e calamari delicati",
+        "Spaghetti, calamari, basilico, pinoli, Grana",
+        "Frulla basilico, pinoli, formaggio e olio",
+        "Sfuma calamari con vino, aggiungi pasta",
+        "Aggiungi pesto a fuoco spento, decora"
+      ],
+      "instagram_caption": "Questa pasta è un abbraccio tra terra e mare che non sapevi di volere. 🌊\n\nPesto fresco fatto in casa che avvolge calamari tenerissimi, appena sfumati col vino. La cremosità del Grana e l'aroma del basilico si fondono con la dolcezza del pesce: un equilibrio perfetto in ogni forchettata. Basta frullare basilico, pinoli e formaggio, saltare i calamari in padella e mantecare il tutto a fuoco spento per non alterare i profumi. 🍋\n\nSemplice da fare, ma sembra uscita da un ristorante stellato. Provala questo weekend e fammi sapere! ✨🦑",
+      "formats": {
+        "instagram": {
+          "caption": "Questa pasta è un abbraccio tra terra e mare che non sapevi di volere. 🌊\n\nPesto fresco fatto in casa che avvolge calamari tenerissimi, appena sfumati col vino. La cremosità del Grana e l'aroma del basilico si fondono con la dolcezza del pesce: un equilibrio perfetto in ogni forchettata. Basta frullare basilico, pinoli e formaggio, saltare i calamari in padella e mantecare il tutto a fuoco spento per non alterare i profumi. 🍋\n\nSemplice da fare, ma sembra uscita da un ristorante stellato. Provala questo weekend e fammi sapere! ✨🦑"
+        },
+        "tiktok": {
+          "script": [
+            "Facciamo una pasta cremosa pazzesca.",
+            "Ecco spaghetti, calamari, basilico e Grana.",
+            "Frullo basilico, pinoli, formaggio e olio.",
+            "Sfumo i calamari col vino, unisco la pasta.",
+            "Spengo, manteco col pesto e decoro."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Calamari e pesto? Sì, hai letto bene. Non è la solita pasta al pesto, è quella che non sapevi di volere fino ad ora. Cremosa, delicata, con quel tocco di mare che ti sorprende ad ogni forchettata. 🦑",
+            "Parti dalla base: spaghetti, calamari freschi, basilico profumato, pinoli tostati e Grana. Frulla basilico, pinoli, formaggio e olio EVO fino a ottenere una crema liscia e profumatissima. Il pesto è il cuore, ma non deve rubare la scena.",
+            "Ora i calamari: in padella, con un filo d'olio, sfumali con vino bianco fino a cottura perfetta. Deve restare un sughetto leggero, poi unisci la pasta scolata al dente e falla saltare per assorbire tutti i sapori.",
+            "Il momento che cambia tutto: togli la padella dal fuoco e aggiungi il pesto. Solo così mantiene intatti profumi e freschezza, senza diventare amarognolo. Gira bene, con un filo d'acqua di cottura per un'emulsione setosa.",
+            "Chiudi con basilico fresco a strappo, pinoli tostati e una spolverata di Grana. Il contrasto mare e basilico è pazzesco. Provala stasera e dimmi com'è andata. Io aspetto il tuo verdetto nei commenti 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Facciamo una pasta cremosa pazzesca.",
+        "Ecco spaghetti, calamari, basilico e Grana.",
+        "Frullo basilico, pinoli, formaggio e olio.",
+        "Sfumo i calamari col vino, unisco la pasta.",
+        "Spengo, manteco col pesto e decoro."
+      ],
+      "thread_text": [
+        "Calamari e pesto? Sì, hai letto bene. Non è la solita pasta al pesto, è quella che non sapevi di volere fino ad ora. Cremosa, delicata, con quel tocco di mare che ti sorprende ad ogni forchettata. 🦑",
+        "Parti dalla base: spaghetti, calamari freschi, basilico profumato, pinoli tostati e Grana. Frulla basilico, pinoli, formaggio e olio EVO fino a ottenere una crema liscia e profumatissima. Il pesto è il cuore, ma non deve rubare la scena.",
+        "Ora i calamari: in padella, con un filo d'olio, sfumali con vino bianco fino a cottura perfetta. Deve restare un sughetto leggero, poi unisci la pasta scolata al dente e falla saltare per assorbire tutti i sapori.",
+        "Il momento che cambia tutto: togli la padella dal fuoco e aggiungi il pesto. Solo così mantiene intatti profumi e freschezza, senza diventare amarognolo. Gira bene, con un filo d'acqua di cottura per un'emulsione setosa.",
+        "Chiudi con basilico fresco a strappo, pinoli tostati e una spolverata di Grana. Il contrasto mare e basilico è pazzesco. Provala stasera e dimmi com'è andata. Io aspetto il tuo verdetto nei commenti 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta cremosa, calamari delicati",
+          "description": "La cremosità del pesto incontra la dolcezza dei calamari in un primo piatto elegante e profumato.",
+          "visual_hint": "Pasta mantecata nel piatto",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "creamy pesto pasta"
+        },
+        {
+          "hook": "Ingredienti che contano",
+          "description": "Spaghetti, calamari freschi, basilico, pinoli e Grana: il perfetto equilibrio tra terra e mare.",
+          "visual_hint": "Ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory seafood pasta",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il pesto? Fatto in casa",
+          "description": "Frulla basilico, pinoli, formaggio e olio: la base verde che renderà il piatto irresistibile.",
+          "visual_hint": "Mani che frullano il pesto",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "fresh basil pesto",
+          "image": "https://images.pexels.com/photos/4871368/pexels-photo-4871368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sfumatura al vino",
+          "description": "Sfuma i calamari col vino bianco, unisci la pasta al dente e falla saltare insieme al condimento.",
+          "visual_hint": "Padella con calamari e vino",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory squid pan",
+          "image": "https://images.pexels.com/photos/33597325/pexels-photo-33597325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale",
+          "description": "Spegni il fuoco, aggiungi il pesto per non scaldarlo e decora con basilico fresco: pronto da servire.",
+          "visual_hint": "Piatto finito decorato",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pasta plate",
+          "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "calamari",
+        "basilico",
+        "pinoli"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36567/Pasta-con-pesto-e-calamari_650x433_wm.jpg",
+      "savedAt": "2026-08-27T17:14:29.547Z",
+      "sourceId": "65600731a2dfbca078a097238617a618"
+    },
     {
       "schema_version": 2,
       "agent": "food",
