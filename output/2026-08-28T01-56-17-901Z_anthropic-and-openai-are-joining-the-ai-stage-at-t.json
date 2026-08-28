@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-and-openai-are-joining-the-ai-stage-at-t",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
+  "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+  "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
+  "slides": [
+    "Will Anthropic and OpenAI finally clash publicly in 2026?",
+    "Both confirmed main-stage keynotes at TechCrunch Disrupt.",
+    "Their joint appearance was announced only hours ago.",
+    "Startups now have one venue to pitch both rivals.",
+    "Register early—or watch the showdown from overflow."
+  ],
+  "thread_text": [
+    "1. The Clash Is Set\n\nBoth Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago.",
+    "2. One Stage, Two Rivals\n\nStartups now have a single venue to pitch both AI giants directly—an unprecedented access point.",
+    "3. The Stakes Rise\n\nAs they debut competing strategies, expect live product reveals or harsh critiques that could shift market perception overnight.",
+    "4. The Pitch Battle\n\nFor founders, this is a chance to gauge which partner aligns with your roadmap—before committing to an ecosystem.",
+    "5. Your Move\n\nPrepare a 30-second pitch that addresses each firm's strengths—and decide: which one would you approach first?"
+  ],
+  "video_script": [
+    "Anthropic and OpenAI face off in 2026.",
+    "They'll keynote TechCrunch Disrupt together.",
+    "Startups can pitch both in one place.",
+    "Expect rival AI reveals on stage.",
+    "Will you be there or watch overflow?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Clash Is Set\n\nBoth Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago.",
+        "2. One Stage, Two Rivals\n\nStartups now have a single venue to pitch both AI giants directly—an unprecedented access point.",
+        "3. The Stakes Rise\n\nAs they debut competing strategies, expect live product reveals or harsh critiques that could shift market perception overnight.",
+        "4. The Pitch Battle\n\nFor founders, this is a chance to gauge which partner aligns with your roadmap—before committing to an ecosystem.",
+        "5. Your Move\n\nPrepare a 30-second pitch that addresses each firm's strengths—and decide: which one would you approach first?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic and OpenAI face off in 2026.",
+        "They'll keynote TechCrunch Disrupt together.",
+        "Startups can pitch both in one place.",
+        "Expect rival AI reveals on stage.",
+        "Will you be there or watch overflow?"
+      ]
+    },
+    "instagram": {
+      "caption": "You can now hear both Anthropic and OpenAI pitch their competing visions on the same stage, hours after TechCrunch confirmed both keynotes for Disrupt 2026. 🎤\n\nStartups get one venue to pitch both rivals directly. That’s unprecedented access, but also a live comparison of two strategies that could shift which ecosystem you build on. ⚖️\n\nIf you’re choosing an AI provider for your next product, this is your chance to see their roadmaps side-by-side before committing. ✍️\n\nWhich company’s approach matches your stack—and would you approach them before or after the keynote? 🎯"
+    }
+  },
+  "instagram_caption": "You can now hear both Anthropic and OpenAI pitch their competing visions on the same stage, hours after TechCrunch confirmed both keynotes for Disrupt 2026. 🎤\n\nStartups get one venue to pitch both rivals directly. That’s unprecedented access, but also a live comparison of two strategies that could shift which ecosystem you build on. ⚖️\n\nIf you’re choosing an AI provider for your next product, this is your chance to see their roadmaps side-by-side before committing. ✍️\n\nWhich company’s approach matches your stack—and would you approach them before or after the keynote? 🎯",
+  "carousel_slides": [
+    {
+      "hook": "Will 2026 be their public clash?",
+      "description": "Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago. The AI rivalry finally gets a live audience.",
+      "visual_hint": "Two spotlights converging on empty stage",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "conference stage lights"
+    },
+    {
+      "hook": "One stage, two AI giants.",
+      "description": "Startups now have one venue to pitch both rivals directly. This unprecedented access could shape funding decisions for years.",
+      "visual_hint": "Split screen with two logos",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "split screen logos",
+      "image": "https://images.pexels.com/photos/36946608/pexels-photo-36946608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What will they reveal live?",
+      "description": "With competing strategies debuting on stage, expect product reveals or sharp critiques that could shift market perception overnight.",
+      "visual_hint": "Zoom effect on rumor mill graphics",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "market reaction chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders: choose your future partner.",
+      "description": "This is your chance to gauge which AI firm aligns with your roadmap—before committing to an ecosystem. Prepare your pitch.",
+      "visual_hint": "Handshake between two silhouettes",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake business meeting",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save your seat before overflow.",
+      "description": "Register now for TechCrunch Disrupt 2026. Secure early access or watch the clash from overflow—don't miss it.",
+      "visual_hint": "Ticket with countdown timer",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "event ticket",
+      "image": "https://images.pexels.com/photos/8261581/pexels-photo-8261581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+  "savedAt": "2026-08-28T01:56:30.927Z",
+  "sourceId": "3c75e284d82928177bec24cb6ab1a87d"
+}

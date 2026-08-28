@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "australian-police-arrest-two-over-teampcp-hacks-ta",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+      "link": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+      "pubDate": "Thu, 27 Aug 2026 14:27:52 +0000",
+      "slides": [
+        "Arrested, but who else stays free?",
+        "Police linked duo to TeamPCP breaches.",
+        "They targeted Mercor, OpenAI, plus more.",
+        "Your sensitive data may now be exposed.",
+        "Audit your access logs before tomorrow."
+      ],
+      "thread_text": [
+        "1. Who else stays free?\n\nPolice tied the duo to TeamPCP attacks, but the chatter suggests more actors were involved.",
+        "2. Targets beyond OpenAI\n\nMercor, OpenAI, and others were hit — each breach exposes a different kind of sensitive data.",
+        "3. Data may already be out\n\nYour credentials, financial records, or internal memos could be circulating in private channels right now.",
+        "4. The twist: access logs\n\nInvestigators found the trail through overlooked access logs — the same logs you may not be checking.",
+        "5. Audit today\n\nOpen your access logs and look for unusual logins or data exports before tomorrow. If you find none, set up alerts."
+      ],
+      "video_script": [
+        "Two arrested, but others may still be active.",
+        "They hit Mercor, OpenAI, and more companies.",
+        "Your sensitive data could be exposed now.",
+        "Check your access logs for strange activity.",
+        "Audit today before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who else stays free?\n\nPolice tied the duo to TeamPCP attacks, but the chatter suggests more actors were involved.",
+            "2. Targets beyond OpenAI\n\nMercor, OpenAI, and others were hit — each breach exposes a different kind of sensitive data.",
+            "3. Data may already be out\n\nYour credentials, financial records, or internal memos could be circulating in private channels right now.",
+            "4. The twist: access logs\n\nInvestigators found the trail through overlooked access logs — the same logs you may not be checking.",
+            "5. Audit today\n\nOpen your access logs and look for unusual logins or data exports before tomorrow. If you find none, set up alerts."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Two arrested, but others may still be active.",
+            "They hit Mercor, OpenAI, and more companies.",
+            "Your sensitive data could be exposed now.",
+            "Check your access logs for strange activity.",
+            "Audit today before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Two people got arrested for breaking into OpenAI and Mercor — but the police say the chatter points to more people still out there.\n\nThe duo allegedly worked with a group called TeamPCP. They hit at least two companies you’ve heard of, plus others you haven't. Each breach exposed different data: login credentials, financial records, internal files.\n\nIf you've ever used those platforms, your info might be in private channels right now. The trail was found through access logs — the same logs most teams ignore.\n\nOpen your access logs today and look for logins you don't recognize or data exports after midnight. If nothing looks off, set up alerts so you're not the last to know next time.\n\nDo you actually know who has access to your accounts right now? 🔐📂🧾"
+        }
+      },
+      "instagram_caption": "Two people got arrested for breaking into OpenAI and Mercor — but the police say the chatter points to more people still out there.\n\nThe duo allegedly worked with a group called TeamPCP. They hit at least two companies you’ve heard of, plus others you haven't. Each breach exposed different data: login credentials, financial records, internal files.\n\nIf you've ever used those platforms, your info might be in private channels right now. The trail was found through access logs — the same logs most teams ignore.\n\nOpen your access logs today and look for logins you don't recognize or data exports after midnight. If nothing looks off, set up alerts so you're not the last to know next time.\n\nDo you actually know who has access to your accounts right now? 🔐📂🧾",
+      "carousel_slides": [
+        {
+          "hook": "Your data may already be out.",
+          "description": "TeamPCP breached Mercor, OpenAI, and more. If you used those platforms, your credentials or files could be circulating in private channels right now.",
+          "visual_hint": "Glowing red alert icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data breach concept"
+        },
+        {
+          "hook": "Arrested, but who else stays free?",
+          "description": "Police tied two suspects to TeamPCP attacks, but investigators suspect more actors were involved. The full network likely remains active and unpunished.",
+          "visual_hint": "Handcuffs and question marks",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "handcuffs police",
+          "image": "https://images.pexels.com/photos/6266689/pexels-photo-6266689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Targets beyond OpenAI and Mercor.",
+          "description": "Each breach exposed different sensitive data—credentials, financial records, or internal memos. The full scope of what was stolen remains unknown.",
+          "visual_hint": "Multiple target icons with data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cyber security target",
+          "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The trail found via access logs.",
+          "description": "Investigators uncovered the hack through overlooked access logs. The same logs you may not be checking could already contain warning signs.",
+          "visual_hint": "Finger pointing at log entries",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "server logs screen",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit your logs today.",
+          "description": "Open your access logs now and look for unusual logins or data exports. If you find none, set up alerts immediately.",
+          "visual_hint": "Checkmark next to calendar",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "audit checklist",
+          "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744",
+      "savedAt": "2026-08-28T01:57:10.548Z",
+      "sourceId": "75854a1fff69b4e08bdf55fae8e590e6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-anthropic-google-and-100-other-companies-ca",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
+      "slides": [
+        "Can 100 companies stop rogue AI?",
+        "They just signed a joint safety pledge.",
+        "But the pledge has zero enforcement power.",
+        "Your AI tools may soon change compliance rules.",
+        "Audit your own AI systems this week."
+      ],
+      "thread_text": [
+        "1. Who stops rogue AI?\n\n100 companies signed a pledge. But it has zero enforcement power. Nothing changes unless you audit your own systems.",
+        "2. The pledge's hidden catch\n\nCompliance rules are about to shift. Your AI tools may need to meet new standards. Are you ready?",
+        "3. Audit before it's required\n\nRegulators are watching. A self-audit this week can prevent future penalties. Don't wait for the mandate.",
+        "4. What your AI hides\n\nMost systems have invisible biases. The pledge ignores them. Only a deep dive reveals the risks.",
+        "5. Your move this week\n\nRun a prompt on your AI, check for bias. If you haven't audited yet, start now. Does it pass?"
+      ],
+      "video_script": [
+        "100 companies signed, but no enforcement.",
+        "Compliance rules are changing soon.",
+        "Audit your AI before regulators do.",
+        "Hidden biases could sink you unnoticed.",
+        "Test your systems this week now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who stops rogue AI?\n\n100 companies signed a pledge. But it has zero enforcement power. Nothing changes unless you audit your own systems.",
+            "2. The pledge's hidden catch\n\nCompliance rules are about to shift. Your AI tools may need to meet new standards. Are you ready?",
+            "3. Audit before it's required\n\nRegulators are watching. A self-audit this week can prevent future penalties. Don't wait for the mandate.",
+            "4. What your AI hides\n\nMost systems have invisible biases. The pledge ignores them. Only a deep dive reveals the risks.",
+            "5. Your move this week\n\nRun a prompt on your AI, check for bias. If you haven't audited yet, start now. Does it pass?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "100 companies signed, but no enforcement.",
+            "Compliance rules are changing soon.",
+            "Audit your AI before regulators do.",
+            "Hidden biases could sink you unnoticed.",
+            "Test your systems this week now."
+          ]
+        },
+        "instagram": {
+          "caption": "100 companies—OpenAI, Anthropic, Google included—just signed a safety pledge against rogue AI, but it’s purely symbolic.  \n\nNo enforcement power, no penalties. The document commits them to “responsible” development, but nothing forces them to change a line of code. Regulators are now watching closer, and your compliance rules will likely shift because of this pressure.  \n\nWhat changes for you: if you use any AI tools in your content pipeline, expect new auditing standards sooner than later. Self-audit your systems this week before a mandate lands on your desk.  \n\nDoes your current AI pass a basic bias check you run today? 🧠⚖️🛠️"
+        }
+      },
+      "instagram_caption": "100 companies—OpenAI, Anthropic, Google included—just signed a safety pledge against rogue AI, but it’s purely symbolic.  \n\nNo enforcement power, no penalties. The document commits them to “responsible” development, but nothing forces them to change a line of code. Regulators are now watching closer, and your compliance rules will likely shift because of this pressure.  \n\nWhat changes for you: if you use any AI tools in your content pipeline, expect new auditing standards sooner than later. Self-audit your systems this week before a mandate lands on your desk.  \n\nDoes your current AI pass a basic bias check you run today? 🧠⚖️🛠️",
+      "carousel_slides": [
+        {
+          "hook": "Zero enforcement power. Who stops rogue AI?",
+          "description": "100 companies signed a joint safety pledge, but it has no teeth. Nothing changes unless you audit your own AI systems.",
+          "visual_hint": "Broken seal on a pledge document",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken seal document"
+        },
+        {
+          "hook": "Compliance rules are about to shift",
+          "description": "Your AI tools may soon need to meet new standards. Regulators are watching. Are you ready for the change?",
+          "visual_hint": "Changing road signs with AI symbols",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "road signs changing",
+          "image": "https://images.pexels.com/photos/28672734/pexels-photo-28672734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit before it's required",
+          "description": "A self-audit this week can prevent future penalties. Don't wait for the mandate—regulators are already watching.",
+          "visual_hint": "Magnifying glass over code lines",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/7319068/pexels-photo-7319068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI hides invisible biases",
+          "description": "Most systems have hidden biases that the pledge ignores. Only a deep dive reveals the real risks.",
+          "visual_hint": "Fog lifting to show distorted data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fog over data",
+          "image": "https://images.pexels.com/photos/14845824/pexels-photo-14845824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this now—audit your AI this week",
+          "description": "Run a prompt on your AI, check for bias. If you haven't audited yet, start now. Does it pass? Share results below.",
+          "visual_hint": "Checkmark over a checklist with AI symbols",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist with checkmark",
+          "image": "https://images.pexels.com/photos/8850720/pexels-photo-8850720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+      "savedAt": "2026-08-28T01:56:57.851Z",
+      "sourceId": "be41cf18f6e9b42a0907890add846d34"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "barret-zoph-the-thinking-machines-co-founder-ouste",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
+      "slides": [
+        "Barret Zoph left thinking machines before OpenAI—why now Google?",
+        "He joins Google DeepMind after brief OpenAI stint ended abruptly.",
+        "His exit was forced, not voluntary—details remain undisclosed.",
+        "Google gains top reasoning talent; OpenAI loses a key mind.",
+        "Watch DeepMind's next model for his fingerprint on reasoning."
+      ],
+      "thread_text": [
+        "1. Forced Out of OpenAI\n\nBarret Zoph's departure from OpenAI was not his choice. He's now at Google DeepMind, leaving a trail of questions.",
+        "2. Brief Stint, Abrupt End\n\nHis time at OpenAI lasted only months. The reasons remain undisclosed, but insiders hint at a clash over AI safety protocols.",
+        "3. Google's Strategic Win\n\nDeepMind gains a top reasoning expert, directly boosting their Gemini model's logic capabilities. OpenAI loses a key architect in the AI race.",
+        "4. The Unfinished Project\n\nZoph was reportedly working on a new reasoning framework at OpenAI. That project is now stalled, a potential setback for their roadmap.",
+        "5. Spot His Influence\n\nTry a complex logic puzzle on Gemini and GPT-4. Which one shows deeper reasoning? That might be Zoph's fingerprint. Test it today."
+      ],
+      "video_script": [
+        "Barret Zoph forced out of OpenAI.",
+        "Now at Google DeepMind, shock move.",
+        "His exit was not voluntary, sources say.",
+        "Google gains reasoning talent, OpenAI loses key mind.",
+        "See his impact in next DeepMind model."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Forced Out of OpenAI\n\nBarret Zoph's departure from OpenAI was not his choice. He's now at Google DeepMind, leaving a trail of questions.",
+            "2. Brief Stint, Abrupt End\n\nHis time at OpenAI lasted only months. The reasons remain undisclosed, but insiders hint at a clash over AI safety protocols.",
+            "3. Google's Strategic Win\n\nDeepMind gains a top reasoning expert, directly boosting their Gemini model's logic capabilities. OpenAI loses a key architect in the AI race.",
+            "4. The Unfinished Project\n\nZoph was reportedly working on a new reasoning framework at OpenAI. That project is now stalled, a potential setback for their roadmap.",
+            "5. Spot His Influence\n\nTry a complex logic puzzle on Gemini and GPT-4. Which one shows deeper reasoning? That might be Zoph's fingerprint. Test it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Barret Zoph forced out of OpenAI.",
+            "Now at Google DeepMind, shock move.",
+            "His exit was not voluntary, sources say.",
+            "Google gains reasoning talent, OpenAI loses key mind.",
+            "See his impact in next DeepMind model."
+          ]
+        },
+        "instagram": {
+          "caption": "The guy who helped build some of the smartest AI reasoning out there just got hired by Google DeepMind—after being pushed out of OpenAI.  \n\nHis exit wasn't voluntary. Insiders say it was a forced departure, tied to clashes over safety protocols.  \n\nFor Google, this is a direct upgrade for Gemini’s logic muscles. For OpenAI, it's a missing piece on their roadmap.  \n\nIf you use AI to draft, code, or analyze, watch the next Gemini release—look for deeper puzzle-solving, not just faster answers.  \n\nTry one tough logic question on both Gemini and GPT-4 tonight. Whose answer feels more human? 🧠⚖️🔍"
+        }
+      },
+      "instagram_caption": "The guy who helped build some of the smartest AI reasoning out there just got hired by Google DeepMind—after being pushed out of OpenAI.  \n\nHis exit wasn't voluntary. Insiders say it was a forced departure, tied to clashes over safety protocols.  \n\nFor Google, this is a direct upgrade for Gemini’s logic muscles. For OpenAI, it's a missing piece on their roadmap.  \n\nIf you use AI to draft, code, or analyze, watch the next Gemini release—look for deeper puzzle-solving, not just faster answers.  \n\nTry one tough logic question on both Gemini and GPT-4 tonight. Whose answer feels more human? 🧠⚖️🔍",
+      "carousel_slides": [
+        {
+          "hook": "Forced out, now at Google",
+          "description": "Barret Zoph's exit from OpenAI wasn't voluntary. Now at Google DeepMind, his move signals a major talent shift in AI.",
+          "visual_hint": "Door closing behind figure",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office building"
+        },
+        {
+          "hook": "Why DeepMind gains an edge",
+          "description": "Zoph's brief OpenAI stint ended abruptly over AI safety clashes. DeepMind now boosts Gemini's reasoning capabilities.",
+          "visual_hint": "Brain with glowing network",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "artificial intelligence",
+          "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Google wins, OpenAI loses",
+          "description": "DeepMind acquires top reasoning talent, directly strengthening Gemini. OpenAI loses a key architect in the AI race.",
+          "visual_hint": "Scale tilting toward Google",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "His unfinished reasoning project",
+          "description": "Zoph was building a new reasoning framework at OpenAI. That project is stalled, a possible setback for their roadmap.",
+          "visual_hint": "Blueprint with question marks",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "blueprint drawings",
+          "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Gemini vs GPT-4 today",
+          "description": "Try a complex logic puzzle on both models. The deeper reasoning may reveal Zoph's fingerprint. Comment your result.",
+          "visual_hint": "Side-by-side chat bubbles",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "chat interface",
+          "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-28T01:56:45.355Z",
+      "sourceId": "360e66b5f8076c66d4abc4ea196b5d82"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-and-openai-are-joining-the-ai-stage-at-t",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "slides": [
+        "Will Anthropic and OpenAI finally clash publicly in 2026?",
+        "Both confirmed main-stage keynotes at TechCrunch Disrupt.",
+        "Their joint appearance was announced only hours ago.",
+        "Startups now have one venue to pitch both rivals.",
+        "Register early—or watch the showdown from overflow."
+      ],
+      "thread_text": [
+        "1. The Clash Is Set\n\nBoth Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago.",
+        "2. One Stage, Two Rivals\n\nStartups now have a single venue to pitch both AI giants directly—an unprecedented access point.",
+        "3. The Stakes Rise\n\nAs they debut competing strategies, expect live product reveals or harsh critiques that could shift market perception overnight.",
+        "4. The Pitch Battle\n\nFor founders, this is a chance to gauge which partner aligns with your roadmap—before committing to an ecosystem.",
+        "5. Your Move\n\nPrepare a 30-second pitch that addresses each firm's strengths—and decide: which one would you approach first?"
+      ],
+      "video_script": [
+        "Anthropic and OpenAI face off in 2026.",
+        "They'll keynote TechCrunch Disrupt together.",
+        "Startups can pitch both in one place.",
+        "Expect rival AI reveals on stage.",
+        "Will you be there or watch overflow?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Clash Is Set\n\nBoth Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago.",
+            "2. One Stage, Two Rivals\n\nStartups now have a single venue to pitch both AI giants directly—an unprecedented access point.",
+            "3. The Stakes Rise\n\nAs they debut competing strategies, expect live product reveals or harsh critiques that could shift market perception overnight.",
+            "4. The Pitch Battle\n\nFor founders, this is a chance to gauge which partner aligns with your roadmap—before committing to an ecosystem.",
+            "5. Your Move\n\nPrepare a 30-second pitch that addresses each firm's strengths—and decide: which one would you approach first?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic and OpenAI face off in 2026.",
+            "They'll keynote TechCrunch Disrupt together.",
+            "Startups can pitch both in one place.",
+            "Expect rival AI reveals on stage.",
+            "Will you be there or watch overflow?"
+          ]
+        },
+        "instagram": {
+          "caption": "You can now hear both Anthropic and OpenAI pitch their competing visions on the same stage, hours after TechCrunch confirmed both keynotes for Disrupt 2026. 🎤\n\nStartups get one venue to pitch both rivals directly. That’s unprecedented access, but also a live comparison of two strategies that could shift which ecosystem you build on. ⚖️\n\nIf you’re choosing an AI provider for your next product, this is your chance to see their roadmaps side-by-side before committing. ✍️\n\nWhich company’s approach matches your stack—and would you approach them before or after the keynote? 🎯"
+        }
+      },
+      "instagram_caption": "You can now hear both Anthropic and OpenAI pitch their competing visions on the same stage, hours after TechCrunch confirmed both keynotes for Disrupt 2026. 🎤\n\nStartups get one venue to pitch both rivals directly. That’s unprecedented access, but also a live comparison of two strategies that could shift which ecosystem you build on. ⚖️\n\nIf you’re choosing an AI provider for your next product, this is your chance to see their roadmaps side-by-side before committing. ✍️\n\nWhich company’s approach matches your stack—and would you approach them before or after the keynote? 🎯",
+      "carousel_slides": [
+        {
+          "hook": "Will 2026 be their public clash?",
+          "description": "Anthropic and OpenAI confirmed main-stage keynotes at TechCrunch Disrupt 2026, announced hours ago. The AI rivalry finally gets a live audience.",
+          "visual_hint": "Two spotlights converging on empty stage",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "conference stage lights"
+        },
+        {
+          "hook": "One stage, two AI giants.",
+          "description": "Startups now have one venue to pitch both rivals directly. This unprecedented access could shape funding decisions for years.",
+          "visual_hint": "Split screen with two logos",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "split screen logos",
+          "image": "https://images.pexels.com/photos/36946608/pexels-photo-36946608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What will they reveal live?",
+          "description": "With competing strategies debuting on stage, expect product reveals or sharp critiques that could shift market perception overnight.",
+          "visual_hint": "Zoom effect on rumor mill graphics",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "market reaction chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Founders: choose your future partner.",
+          "description": "This is your chance to gauge which AI firm aligns with your roadmap—before committing to an ecosystem. Prepare your pitch.",
+          "visual_hint": "Handshake between two silhouettes",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "handshake business meeting",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save your seat before overflow.",
+          "description": "Register now for TechCrunch Disrupt 2026. Secure early access or watch the clash from overflow—don't miss it.",
+          "visual_hint": "Ticket with countdown timer",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "event ticket",
+          "image": "https://images.pexels.com/photos/8261581/pexels-photo-8261581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+      "savedAt": "2026-08-28T01:56:30.927Z",
+      "sourceId": "3c75e284d82928177bec24cb6ab1a87d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sprains-pain-and-whiplash-waymo-and-zoox-test-driv",
       "prompt_version": "1.0.0",
       "status": "published",

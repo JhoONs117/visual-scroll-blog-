@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "barret-zoph-the-thinking-machines-co-founder-ouste",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+  "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+  "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
+  "slides": [
+    "Barret Zoph left thinking machines before OpenAI—why now Google?",
+    "He joins Google DeepMind after brief OpenAI stint ended abruptly.",
+    "His exit was forced, not voluntary—details remain undisclosed.",
+    "Google gains top reasoning talent; OpenAI loses a key mind.",
+    "Watch DeepMind's next model for his fingerprint on reasoning."
+  ],
+  "thread_text": [
+    "1. Forced Out of OpenAI\n\nBarret Zoph's departure from OpenAI was not his choice. He's now at Google DeepMind, leaving a trail of questions.",
+    "2. Brief Stint, Abrupt End\n\nHis time at OpenAI lasted only months. The reasons remain undisclosed, but insiders hint at a clash over AI safety protocols.",
+    "3. Google's Strategic Win\n\nDeepMind gains a top reasoning expert, directly boosting their Gemini model's logic capabilities. OpenAI loses a key architect in the AI race.",
+    "4. The Unfinished Project\n\nZoph was reportedly working on a new reasoning framework at OpenAI. That project is now stalled, a potential setback for their roadmap.",
+    "5. Spot His Influence\n\nTry a complex logic puzzle on Gemini and GPT-4. Which one shows deeper reasoning? That might be Zoph's fingerprint. Test it today."
+  ],
+  "video_script": [
+    "Barret Zoph forced out of OpenAI.",
+    "Now at Google DeepMind, shock move.",
+    "His exit was not voluntary, sources say.",
+    "Google gains reasoning talent, OpenAI loses key mind.",
+    "See his impact in next DeepMind model."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Forced Out of OpenAI\n\nBarret Zoph's departure from OpenAI was not his choice. He's now at Google DeepMind, leaving a trail of questions.",
+        "2. Brief Stint, Abrupt End\n\nHis time at OpenAI lasted only months. The reasons remain undisclosed, but insiders hint at a clash over AI safety protocols.",
+        "3. Google's Strategic Win\n\nDeepMind gains a top reasoning expert, directly boosting their Gemini model's logic capabilities. OpenAI loses a key architect in the AI race.",
+        "4. The Unfinished Project\n\nZoph was reportedly working on a new reasoning framework at OpenAI. That project is now stalled, a potential setback for their roadmap.",
+        "5. Spot His Influence\n\nTry a complex logic puzzle on Gemini and GPT-4. Which one shows deeper reasoning? That might be Zoph's fingerprint. Test it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Barret Zoph forced out of OpenAI.",
+        "Now at Google DeepMind, shock move.",
+        "His exit was not voluntary, sources say.",
+        "Google gains reasoning talent, OpenAI loses key mind.",
+        "See his impact in next DeepMind model."
+      ]
+    },
+    "instagram": {
+      "caption": "The guy who helped build some of the smartest AI reasoning out there just got hired by Google DeepMind—after being pushed out of OpenAI.  \n\nHis exit wasn't voluntary. Insiders say it was a forced departure, tied to clashes over safety protocols.  \n\nFor Google, this is a direct upgrade for Gemini’s logic muscles. For OpenAI, it's a missing piece on their roadmap.  \n\nIf you use AI to draft, code, or analyze, watch the next Gemini release—look for deeper puzzle-solving, not just faster answers.  \n\nTry one tough logic question on both Gemini and GPT-4 tonight. Whose answer feels more human? 🧠⚖️🔍"
+    }
+  },
+  "instagram_caption": "The guy who helped build some of the smartest AI reasoning out there just got hired by Google DeepMind—after being pushed out of OpenAI.  \n\nHis exit wasn't voluntary. Insiders say it was a forced departure, tied to clashes over safety protocols.  \n\nFor Google, this is a direct upgrade for Gemini’s logic muscles. For OpenAI, it's a missing piece on their roadmap.  \n\nIf you use AI to draft, code, or analyze, watch the next Gemini release—look for deeper puzzle-solving, not just faster answers.  \n\nTry one tough logic question on both Gemini and GPT-4 tonight. Whose answer feels more human? 🧠⚖️🔍",
+  "carousel_slides": [
+    {
+      "hook": "Forced out, now at Google",
+      "description": "Barret Zoph's exit from OpenAI wasn't voluntary. Now at Google DeepMind, his move signals a major talent shift in AI.",
+      "visual_hint": "Door closing behind figure",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building"
+    },
+    {
+      "hook": "Why DeepMind gains an edge",
+      "description": "Zoph's brief OpenAI stint ended abruptly over AI safety clashes. DeepMind now boosts Gemini's reasoning capabilities.",
+      "visual_hint": "Brain with glowing network",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google wins, OpenAI loses",
+      "description": "DeepMind acquires top reasoning talent, directly strengthening Gemini. OpenAI loses a key architect in the AI race.",
+      "visual_hint": "Scale tilting toward Google",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "His unfinished reasoning project",
+      "description": "Zoph was building a new reasoning framework at OpenAI. That project is stalled, a possible setback for their roadmap.",
+      "visual_hint": "Blueprint with question marks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "blueprint drawings",
+      "image": "https://images.pexels.com/photos/9615249/pexels-photo-9615249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Gemini vs GPT-4 today",
+      "description": "Try a complex logic puzzle on both models. The deeper reasoning may reveal Zoph's fingerprint. Comment your result.",
+      "visual_hint": "Side-by-side chat bubbles",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-28T01:56:45.355Z",
+  "sourceId": "360e66b5f8076c66d4abc4ea196b5d82"
+}

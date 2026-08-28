@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "australian-police-arrest-two-over-teampcp-hacks-ta",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+  "link": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+  "pubDate": "Thu, 27 Aug 2026 14:27:52 +0000",
+  "slides": [
+    "Arrested, but who else stays free?",
+    "Police linked duo to TeamPCP breaches.",
+    "They targeted Mercor, OpenAI, plus more.",
+    "Your sensitive data may now be exposed.",
+    "Audit your access logs before tomorrow."
+  ],
+  "thread_text": [
+    "1. Who else stays free?\n\nPolice tied the duo to TeamPCP attacks, but the chatter suggests more actors were involved.",
+    "2. Targets beyond OpenAI\n\nMercor, OpenAI, and others were hit — each breach exposes a different kind of sensitive data.",
+    "3. Data may already be out\n\nYour credentials, financial records, or internal memos could be circulating in private channels right now.",
+    "4. The twist: access logs\n\nInvestigators found the trail through overlooked access logs — the same logs you may not be checking.",
+    "5. Audit today\n\nOpen your access logs and look for unusual logins or data exports before tomorrow. If you find none, set up alerts."
+  ],
+  "video_script": [
+    "Two arrested, but others may still be active.",
+    "They hit Mercor, OpenAI, and more companies.",
+    "Your sensitive data could be exposed now.",
+    "Check your access logs for strange activity.",
+    "Audit today before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who else stays free?\n\nPolice tied the duo to TeamPCP attacks, but the chatter suggests more actors were involved.",
+        "2. Targets beyond OpenAI\n\nMercor, OpenAI, and others were hit — each breach exposes a different kind of sensitive data.",
+        "3. Data may already be out\n\nYour credentials, financial records, or internal memos could be circulating in private channels right now.",
+        "4. The twist: access logs\n\nInvestigators found the trail through overlooked access logs — the same logs you may not be checking.",
+        "5. Audit today\n\nOpen your access logs and look for unusual logins or data exports before tomorrow. If you find none, set up alerts."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Two arrested, but others may still be active.",
+        "They hit Mercor, OpenAI, and more companies.",
+        "Your sensitive data could be exposed now.",
+        "Check your access logs for strange activity.",
+        "Audit today before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "Two people got arrested for breaking into OpenAI and Mercor — but the police say the chatter points to more people still out there.\n\nThe duo allegedly worked with a group called TeamPCP. They hit at least two companies you’ve heard of, plus others you haven't. Each breach exposed different data: login credentials, financial records, internal files.\n\nIf you've ever used those platforms, your info might be in private channels right now. The trail was found through access logs — the same logs most teams ignore.\n\nOpen your access logs today and look for logins you don't recognize or data exports after midnight. If nothing looks off, set up alerts so you're not the last to know next time.\n\nDo you actually know who has access to your accounts right now? 🔐📂🧾"
+    }
+  },
+  "instagram_caption": "Two people got arrested for breaking into OpenAI and Mercor — but the police say the chatter points to more people still out there.\n\nThe duo allegedly worked with a group called TeamPCP. They hit at least two companies you’ve heard of, plus others you haven't. Each breach exposed different data: login credentials, financial records, internal files.\n\nIf you've ever used those platforms, your info might be in private channels right now. The trail was found through access logs — the same logs most teams ignore.\n\nOpen your access logs today and look for logins you don't recognize or data exports after midnight. If nothing looks off, set up alerts so you're not the last to know next time.\n\nDo you actually know who has access to your accounts right now? 🔐📂🧾",
+  "carousel_slides": [
+    {
+      "hook": "Your data may already be out.",
+      "description": "TeamPCP breached Mercor, OpenAI, and more. If you used those platforms, your credentials or files could be circulating in private channels right now.",
+      "visual_hint": "Glowing red alert icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data breach concept"
+    },
+    {
+      "hook": "Arrested, but who else stays free?",
+      "description": "Police tied two suspects to TeamPCP attacks, but investigators suspect more actors were involved. The full network likely remains active and unpunished.",
+      "visual_hint": "Handcuffs and question marks",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "handcuffs police",
+      "image": "https://images.pexels.com/photos/6266689/pexels-photo-6266689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Targets beyond OpenAI and Mercor.",
+      "description": "Each breach exposed different sensitive data—credentials, financial records, or internal memos. The full scope of what was stolen remains unknown.",
+      "visual_hint": "Multiple target icons with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cyber security target",
+      "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The trail found via access logs.",
+      "description": "Investigators uncovered the hack through overlooked access logs. The same logs you may not be checking could already contain warning signs.",
+      "visual_hint": "Finger pointing at log entries",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "server logs screen",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit your logs today.",
+      "description": "Open your access logs now and look for unusual logins or data exports. If you find none, set up alerts immediately.",
+      "visual_hint": "Checkmark next to calendar",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "audit checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744",
+  "savedAt": "2026-08-28T01:57:10.548Z",
+  "sourceId": "75854a1fff69b4e08bdf55fae8e590e6"
+}
