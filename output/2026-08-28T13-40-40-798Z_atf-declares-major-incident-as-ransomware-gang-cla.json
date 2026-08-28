@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "atf-declares-major-incident-as-ransomware-gang-cla",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+  "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+  "pubDate": "Thu, 27 Aug 2026 17:54:23 +0000",
+  "slides": [
+    "Who is behind the ATF ransomware attack?",
+    "The gang claims it stole sensitive law enforcement data.",
+    "ATF called it a major incident, not a full breach.",
+    "Your agency's response plans may not cover this threat.",
+    "Audit your third-party access before the next strike."
+  ],
+  "thread_text": [
+    "1. Who's inside your network?\n\nThe ATF ransomware gang claims it stole sensitive law enforcement data. This isn't a hypothetical—it's a direct hit on federal systems.",
+    "2. A major incident, not a breach?\n\nATF calls it a major incident, not a full breach. But your response plans likely assume a clear breach—this grey zone is where threats hide.",
+    "3. Your plans miss the real threat.\n\nMost agencies plan for full breaches, not partial incidents. This attack exposes that gap—your playbook may not cover it.",
+    "4. Third-party access is the backdoor.\n\nThe gang likely got in through a vendor. Your agency's third-party access is a ticking clock—audit it now.",
+    "5. Audit your third-party access before the next strike.\n\nTake one hour today to list every vendor with access. If you haven't done it, start there—before they do."
+  ],
+  "video_script": [
+    "ATF hit, data stolen, major incident.",
+    "Not a full breach, but serious.",
+    "Your response plan may not cover this.",
+    "Third-party access is the weak link.",
+    "Audit your vendors before the next attack."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's inside your network?\n\nThe ATF ransomware gang claims it stole sensitive law enforcement data. This isn't a hypothetical—it's a direct hit on federal systems.",
+        "2. A major incident, not a breach?\n\nATF calls it a major incident, not a full breach. But your response plans likely assume a clear breach—this grey zone is where threats hide.",
+        "3. Your plans miss the real threat.\n\nMost agencies plan for full breaches, not partial incidents. This attack exposes that gap—your playbook may not cover it.",
+        "4. Third-party access is the backdoor.\n\nThe gang likely got in through a vendor. Your agency's third-party access is a ticking clock—audit it now.",
+        "5. Audit your third-party access before the next strike.\n\nTake one hour today to list every vendor with access. If you haven't done it, start there—before they do."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ATF hit, data stolen, major incident.",
+        "Not a full breach, but serious.",
+        "Your response plan may not cover this.",
+        "Third-party access is the weak link.",
+        "Audit your vendors before the next attack."
+      ]
+    },
+    "instagram": {
+      "caption": "A ransomware gang says it stole sensitive law enforcement data from the ATF—and the agency is calling it a “major incident,” not a full breach. 🚨\n\nThat distinction matters. Your incident response plan probably assumes you’ll know exactly when a breach happens. This grey zone—where data may be out but you haven’t confirmed it—is where the real damage sits.\n\nIf you work with any sensitive content, this is your warning: the entry point was likely a third-party vendor. Someone your team trusted had a door open. 🔑\n\nSpend one hour this week listing every vendor with access to your files. If you can’t name them all right now, that’s your gap. 🔐\n\nWho’s the last person you gave access to—and when did you check if they still need it?"
+    }
+  },
+  "instagram_caption": "A ransomware gang says it stole sensitive law enforcement data from the ATF—and the agency is calling it a “major incident,” not a full breach. 🚨\n\nThat distinction matters. Your incident response plan probably assumes you’ll know exactly when a breach happens. This grey zone—where data may be out but you haven’t confirmed it—is where the real damage sits.\n\nIf you work with any sensitive content, this is your warning: the entry point was likely a third-party vendor. Someone your team trusted had a door open. 🔑\n\nSpend one hour this week listing every vendor with access to your files. If you can’t name them all right now, that’s your gap. 🔐\n\nWho’s the last person you gave access to—and when did you check if they still need it?",
+  "carousel_slides": [
+    {
+      "hook": "Your response plan may miss the real threat",
+      "description": "Most agencies prepare for full breaches, not partial incidents. This attack exposes the gap in your playbook.",
+      "visual_hint": "Gray zone with hidden red dots",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "office building corridor"
+    },
+    {
+      "hook": "A major incident, not a breach?",
+      "description": "ATF called it a major incident, not a full breach. The grey zone is where threats hide.",
+      "visual_hint": "Grey zone with hidden red dots",
+      "layout_type": "right-focus",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who's inside your network?",
+      "description": "The gang claims it stole sensitive law enforcement data. This isn't hypothetical—it's a direct hit on federal systems.",
+      "visual_hint": "Hacker silhouette with code",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Third-party access is the backdoor",
+      "description": "The gang likely got in through a vendor. Your third-party access is a ticking clock—audit it now.",
+      "visual_hint": "Backdoor with glowing path",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image_query": "network cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your third-party access before the next strike",
+      "description": "Take one hour today to list every vendor with access. If you haven't done it, start there—before they do.",
+      "visual_hint": "Checklist with clock",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "document checklist",
+      "image": "https://images.pexels.com/photos/6863334/pexels-photo-6863334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024",
+  "savedAt": "2026-08-28T13:41:05.469Z",
+  "sourceId": "bc3455c0edb406255dd1c43183a083b2"
+}

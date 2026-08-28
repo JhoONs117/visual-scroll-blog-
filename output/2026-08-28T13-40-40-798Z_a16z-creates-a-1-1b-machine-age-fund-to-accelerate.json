@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "a16z-creates-a-1-1b-machine-age-fund-to-accelerate",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+  "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+  "pubDate": "Fri, 28 Aug 2026 13:24:43 +0000",
+  "slides": [
+    "Who controls AI's physical backbone? Not who you think.",
+    "Andreessen Horowitz just raised $1.1B for physical buildout.",
+    "That fund buys land, power, and data centers, not chips.",
+    "Your cloud costs and model access hinge on their bets.",
+    "Map the bottleneck: track where this capital lands."
+  ],
+  "thread_text": [
+    "1. Who really owns AI?\n\nAndreessen Horowitz just raised $1.1B to buy land, power, and data centers—not chips. That's the backbone.",
+    "2. The hidden bottleneck\n\nYour cloud costs and model access depend on where that capital lands, not on chip design.",
+    "3. Power is the new gold\n\nThe fund's bets on energy infrastructure will determine which AI models run at scale—and which stay in labs.",
+    "4. The land grab\n\nTrack the acres acquired; they're the future sites of data centers that could shift the AI map.",
+    "5. What's your move?\n\nCheck where your cloud provider builds its next data center. If it's not in your region, what happens to your latency?"
+  ],
+  "video_script": [
+    "Who controls AI's physical backbone?",
+    "Not the chip makers—it's landowners.",
+    "Andreessen Horowitz raised $1.1 billion",
+    "for land, power, and data centers.",
+    "Your cloud costs hinge on their bets."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really owns AI?\n\nAndreessen Horowitz just raised $1.1B to buy land, power, and data centers—not chips. That's the backbone.",
+        "2. The hidden bottleneck\n\nYour cloud costs and model access depend on where that capital lands, not on chip design.",
+        "3. Power is the new gold\n\nThe fund's bets on energy infrastructure will determine which AI models run at scale—and which stay in labs.",
+        "4. The land grab\n\nTrack the acres acquired; they're the future sites of data centers that could shift the AI map.",
+        "5. What's your move?\n\nCheck where your cloud provider builds its next data center. If it's not in your region, what happens to your latency?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who controls AI's physical backbone?",
+        "Not the chip makers—it's landowners.",
+        "Andreessen Horowitz raised $1.1 billion",
+        "for land, power, and data centers.",
+        "Your cloud costs hinge on their bets."
+      ]
+    },
+    "instagram": {
+      "caption": "$1.1 billion isn't going to chip design—it's buying land, power lines, and data center shells. 🏗️\n\nAndreessen Horowitz just closed its 'Machine Age' fund, and the thesis is blunt: whoever owns the physical grid owns AI. Not the model labs, not the chip fabs—the real estate under the servers. ⚡\n\nYour cloud bill and your access to frontier models depend on where these bets land. If they back a data center in Texas over Virginia, your inference costs shift with the grid.\n\nFor you, that means tracking infrastructure, not model releases. The next breakthrough might be a substation permit, not a paper.\n\nWhere's your cloud provider building next—and is it in your region? 🗺️"
+    }
+  },
+  "instagram_caption": "$1.1 billion isn't going to chip design—it's buying land, power lines, and data center shells. 🏗️\n\nAndreessen Horowitz just closed its 'Machine Age' fund, and the thesis is blunt: whoever owns the physical grid owns AI. Not the model labs, not the chip fabs—the real estate under the servers. ⚡\n\nYour cloud bill and your access to frontier models depend on where these bets land. If they back a data center in Texas over Virginia, your inference costs shift with the grid.\n\nFor you, that means tracking infrastructure, not model releases. The next breakthrough might be a substation permit, not a paper.\n\nWhere's your cloud provider building next—and is it in your region? 🗺️",
+  "carousel_slides": [
+    {
+      "hook": "Who really owns AI?",
+      "description": "Andreessen Horowitz raised $1.1B for land, power, data centers—not chips. That's the physical backbone.",
+      "visual_hint": "Silhouette of dollar sign over data center",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center"
+    },
+    {
+      "hook": "Hidden bottleneck: energy.",
+      "description": "Cloud costs and model access depend on where that capital lands, not chip design. Power determines scale.",
+      "visual_hint": "Electricity meter with high needle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "electric meter",
+      "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Power is new gold.",
+      "description": "Fund's energy bets decide which models run at scale, which stay in labs. One megawatt can change the game.",
+      "visual_hint": "Gold nugget next to power plant",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "power plant",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Land grab shifts maps.",
+      "description": "Acres acquired are future data center sites. They could move the AI map overnight—and your latency with it.",
+      "visual_hint": "Map pin on empty field",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "aerial view barren land",
+      "image": "https://images.pexels.com/photos/30635027/pexels-photo-30635027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your cloud provider now.",
+      "description": "Find where your next data center is built. Not in your region, latency spikes. Save this for audit.",
+      "visual_hint": "Globe with network lines",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "globe network",
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
+  "savedAt": "2026-08-28T13:40:53.379Z",
+  "sourceId": "6b47cf48abc5458b7e6f07a4a9df5923"
+}

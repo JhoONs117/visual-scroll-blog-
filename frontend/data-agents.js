@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "openai-8217-s-executive-exodus-has-one-big-winner",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "pubDate": "2026-08-27T14:00:00.000Z",
+      "slides": [
+        "Who rises as OpenAI's leaders flee?",
+        "A departing CTO's safety team dissolves.",
+        "The winner is a rival you ignored.",
+        "Your AI roadmap must now factor this shift.",
+        "Test both vendors before committing next quarter."
+      ],
+      "thread_text": [
+        "1. Who's next out the door?\n\nOpenAI's leadership exodus accelerates as the CTO's safety team disbands, leaving a vacuum rivals are already filling.",
+        "2. The rival you ignored\n\nA competitor you dismissed is now the clear winner, capitalizing on OpenAI's instability to lock in enterprise deals.",
+        "3. Your roadmap is obsolete\n\nThis shift forces a re-evaluation of your AI strategy, as the balance of power between vendors has fundamentally changed.",
+        "4. Test both, don't just watch\n\nRun parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data beats speculation.",
+        "5. Can you afford to wait?\n\nTest a critical workflow on both platforms this week. If you delay, you'll be last to adapt."
+      ],
+      "video_script": [
+        "OpenAI leaders are fleeing, leaving chaos.",
+        "The CTO's safety team just dissolved.",
+        "A rival you ignored is now winning.",
+        "Your AI roadmap must change immediately.",
+        "Test both vendors before you commit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's next out the door?\n\nOpenAI's leadership exodus accelerates as the CTO's safety team disbands, leaving a vacuum rivals are already filling.",
+            "2. The rival you ignored\n\nA competitor you dismissed is now the clear winner, capitalizing on OpenAI's instability to lock in enterprise deals.",
+            "3. Your roadmap is obsolete\n\nThis shift forces a re-evaluation of your AI strategy, as the balance of power between vendors has fundamentally changed.",
+            "4. Test both, don't just watch\n\nRun parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data beats speculation.",
+            "5. Can you afford to wait?\n\nTest a critical workflow on both platforms this week. If you delay, you'll be last to adapt."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI leaders are fleeing, leaving chaos.",
+            "The CTO's safety team just dissolved.",
+            "A rival you ignored is now winning.",
+            "Your AI roadmap must change immediately.",
+            "Test both vendors before you commit."
+          ]
+        },
+        "instagram": {
+          "caption": "The CTO’s safety team just dissolved, and OpenAI’s competitors are already circling.  \n\nLeadership exits at this scale don’t just make headlines—they shift enterprise trust. A rival you probably haven’t taken seriously is now locking in contracts with the clients who’d normally call OpenAI first.  \n\nFor you, that means the vendor you bet your workflow on might not be the safest choice next quarter. The balance has changed, and your roadmap needs to reflect it now.  \n\nRun a parallel test of your critical workflow on both platforms this week—before you commit your next budget. Which one actually performs when it matters? 🔍⚖️🔄"
+        }
+      },
+      "instagram_caption": "The CTO’s safety team just dissolved, and OpenAI’s competitors are already circling.  \n\nLeadership exits at this scale don’t just make headlines—they shift enterprise trust. A rival you probably haven’t taken seriously is now locking in contracts with the clients who’d normally call OpenAI first.  \n\nFor you, that means the vendor you bet your workflow on might not be the safest choice next quarter. The balance has changed, and your roadmap needs to reflect it now.  \n\nRun a parallel test of your critical workflow on both platforms this week—before you commit your next budget. Which one actually performs when it matters? 🔍⚖️🔄",
+      "carousel_slides": [
+        {
+          "hook": "The rival you ignored just won.",
+          "description": "OpenAI's CTO safety team dissolves as leaders flee, leaving a vacuum. A dismissed competitor is capitalizing on the instability to secure enterprise deals.",
+          "visual_hint": "Two silhouettes, one rising",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office building skyline"
+        },
+        {
+          "hook": "Who's next out the door?",
+          "description": "With the CTO's safety team disbanding, OpenAI's leadership exodus accelerates. This vacuum creates immediate opportunities for rivals.",
+          "visual_hint": "Revolving door with shadows",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "glass office doors",
+          "image": "https://images.pexels.com/photos/20461333/pexels-photo-20461333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI roadmap is obsolete.",
+          "description": "The balance of power between AI vendors has fundamentally shifted. A competitor you dismissed is now winning enterprise trust and deals.",
+          "visual_hint": "Shattered roadmap diagram",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test both before committing.",
+          "description": "Run parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data from testing beats speculation and guesswork.",
+          "visual_hint": "Two screens side-by-side",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop comparison workspace",
+          "image": "https://images.pexels.com/photos/5904067/pexels-photo-5904067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can you afford to wait?",
+          "description": "Test a critical workflow on both platforms this week. If you delay, you'll be last to adapt — but acting now gives you an edge.",
+          "visual_hint": "Hourglass with coins",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "hourglass sand timer",
+          "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-28T13:41:30.816Z",
+      "sourceId": "94057effd7fad1fec6eebcc455d9b5b6"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "jensen-huang-says-nvidia-achieved-agi-again-not-th",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "pubDate": "2026-08-27T16:15:52.000Z",
+      "slides": [
+        "Jensen claims AGI again—why does it matter?",
+        "Nvidia's definition of AGI differs from yours.",
+        "Their AGI is 95% of human performance, not sentience.",
+        "Strategic labels drive stock value, not your reality.",
+        "Ignore the buzzword; judge benchmarks in your work."
+      ],
+      "thread_text": [
+        "1. AGI Claimed Again\n\nNvidia's stock popped 5% after Jensen's latest AGI remark, yet their definition is just a benchmark hurdle—not sentience.",
+        "2. Their AGI Is Different\n\nYour AGI means self-aware machines; theirs means scoring 95% on specific tests. That gap is massive and strategic.",
+        "3. Labels Move Markets\n\nWhen a CEO says AGI, it's a signal to investors, not a technical breakthrough. The word is chosen to boost valuation.",
+        "4. The Real Test Is Work\n\nForget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+        "5. Judge It Yourself\n\nTake a task you do daily, try the AI version, and compare. Does it save time without extra edits?"
+      ],
+      "video_script": [
+        "Jensen says AGI, but his definition is narrow.",
+        "It's just passing tests, not thinking.",
+        "The label moves stock prices, not reality.",
+        "Focus on your own benchmarks instead.",
+        "Test the AI on your real work."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AGI Claimed Again\n\nNvidia's stock popped 5% after Jensen's latest AGI remark, yet their definition is just a benchmark hurdle—not sentience.",
+            "2. Their AGI Is Different\n\nYour AGI means self-aware machines; theirs means scoring 95% on specific tests. That gap is massive and strategic.",
+            "3. Labels Move Markets\n\nWhen a CEO says AGI, it's a signal to investors, not a technical breakthrough. The word is chosen to boost valuation.",
+            "4. The Real Test Is Work\n\nForget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+            "5. Judge It Yourself\n\nTake a task you do daily, try the AI version, and compare. Does it save time without extra edits?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jensen says AGI, but his definition is narrow.",
+            "It's just passing tests, not thinking.",
+            "The label moves stock prices, not reality.",
+            "Focus on your own benchmarks instead.",
+            "Test the AI on your real work."
+          ]
+        },
+        "instagram": {
+          "caption": "Nvidia's stock jumped 5% when Jensen Huang said the company hit AGI again—but his definition is just scoring 95% on specific tests, not machines that think. 🎯\n\nHe's using the word to signal investors, not to announce a breakthrough. Your version of AGI—self-aware software—isn't what he's selling. It's a benchmark hurdle, carefully framed to move markets.\n\nFor you, that means every \"AGI\" headline is marketing. The real question is whether the tool cuts your editing time or forces more fixes.\n\nRun one task you do daily through it. Compare the output side-by-side. Does it actually save you 30 minutes, or just create new cleanup work? ⏱️\n\nWhat's one repetitive task you'd test first?"
+        }
+      },
+      "instagram_caption": "Nvidia's stock jumped 5% when Jensen Huang said the company hit AGI again—but his definition is just scoring 95% on specific tests, not machines that think. 🎯\n\nHe's using the word to signal investors, not to announce a breakthrough. Your version of AGI—self-aware software—isn't what he's selling. It's a benchmark hurdle, carefully framed to move markets.\n\nFor you, that means every \"AGI\" headline is marketing. The real question is whether the tool cuts your editing time or forces more fixes.\n\nRun one task you do daily through it. Compare the output side-by-side. Does it actually save you 30 minutes, or just create new cleanup work? ⏱️\n\nWhat's one repetitive task you'd test first?",
+      "carousel_slides": [
+        {
+          "hook": "95% isn't sentience.",
+          "description": "Nvidia's AGI is passing tests at 95% human level—not consciousness. Stocks popped 5% anyway. That gap is strategic.",
+          "visual_hint": "Graph showing 95% vs 100%",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stock market chart"
+        },
+        {
+          "hook": "Their AGI is a benchmark.",
+          "description": "CEO defines AGI as scoring 95% on specific tests, not self-awareness. Massive difference from your definition—and it's intentional.",
+          "visual_hint": "Two columns comparing definitions",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "comparison chart",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Labels move markets fast.",
+          "description": "When Jensen says AGI, it's a signal to investors, not a breakthrough. The word boosts valuation—not your reality.",
+          "visual_hint": "Stock ticker with AGI headline",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market ticker",
+          "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your work.",
+          "description": "Forget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+          "visual_hint": "Hand testing AI tool on laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop with code",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next AI test.",
+          "description": "Try a daily task with AI, compare time and edits. Judge by results, not buzzwords.",
+          "visual_hint": "Checklist and stopwatch",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist with clock",
+          "image": "https://images.pexels.com/photos/5882583/pexels-photo-5882583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-28T13:41:18.596Z",
+      "sourceId": "a2ddac958ba469b083d83f64ec174f71"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "atf-declares-major-incident-as-ransomware-gang-cla",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+      "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+      "pubDate": "Thu, 27 Aug 2026 17:54:23 +0000",
+      "slides": [
+        "Who is behind the ATF ransomware attack?",
+        "The gang claims it stole sensitive law enforcement data.",
+        "ATF called it a major incident, not a full breach.",
+        "Your agency's response plans may not cover this threat.",
+        "Audit your third-party access before the next strike."
+      ],
+      "thread_text": [
+        "1. Who's inside your network?\n\nThe ATF ransomware gang claims it stole sensitive law enforcement data. This isn't a hypothetical—it's a direct hit on federal systems.",
+        "2. A major incident, not a breach?\n\nATF calls it a major incident, not a full breach. But your response plans likely assume a clear breach—this grey zone is where threats hide.",
+        "3. Your plans miss the real threat.\n\nMost agencies plan for full breaches, not partial incidents. This attack exposes that gap—your playbook may not cover it.",
+        "4. Third-party access is the backdoor.\n\nThe gang likely got in through a vendor. Your agency's third-party access is a ticking clock—audit it now.",
+        "5. Audit your third-party access before the next strike.\n\nTake one hour today to list every vendor with access. If you haven't done it, start there—before they do."
+      ],
+      "video_script": [
+        "ATF hit, data stolen, major incident.",
+        "Not a full breach, but serious.",
+        "Your response plan may not cover this.",
+        "Third-party access is the weak link.",
+        "Audit your vendors before the next attack."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's inside your network?\n\nThe ATF ransomware gang claims it stole sensitive law enforcement data. This isn't a hypothetical—it's a direct hit on federal systems.",
+            "2. A major incident, not a breach?\n\nATF calls it a major incident, not a full breach. But your response plans likely assume a clear breach—this grey zone is where threats hide.",
+            "3. Your plans miss the real threat.\n\nMost agencies plan for full breaches, not partial incidents. This attack exposes that gap—your playbook may not cover it.",
+            "4. Third-party access is the backdoor.\n\nThe gang likely got in through a vendor. Your agency's third-party access is a ticking clock—audit it now.",
+            "5. Audit your third-party access before the next strike.\n\nTake one hour today to list every vendor with access. If you haven't done it, start there—before they do."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ATF hit, data stolen, major incident.",
+            "Not a full breach, but serious.",
+            "Your response plan may not cover this.",
+            "Third-party access is the weak link.",
+            "Audit your vendors before the next attack."
+          ]
+        },
+        "instagram": {
+          "caption": "A ransomware gang says it stole sensitive law enforcement data from the ATF—and the agency is calling it a “major incident,” not a full breach. 🚨\n\nThat distinction matters. Your incident response plan probably assumes you’ll know exactly when a breach happens. This grey zone—where data may be out but you haven’t confirmed it—is where the real damage sits.\n\nIf you work with any sensitive content, this is your warning: the entry point was likely a third-party vendor. Someone your team trusted had a door open. 🔑\n\nSpend one hour this week listing every vendor with access to your files. If you can’t name them all right now, that’s your gap. 🔐\n\nWho’s the last person you gave access to—and when did you check if they still need it?"
+        }
+      },
+      "instagram_caption": "A ransomware gang says it stole sensitive law enforcement data from the ATF—and the agency is calling it a “major incident,” not a full breach. 🚨\n\nThat distinction matters. Your incident response plan probably assumes you’ll know exactly when a breach happens. This grey zone—where data may be out but you haven’t confirmed it—is where the real damage sits.\n\nIf you work with any sensitive content, this is your warning: the entry point was likely a third-party vendor. Someone your team trusted had a door open. 🔑\n\nSpend one hour this week listing every vendor with access to your files. If you can’t name them all right now, that’s your gap. 🔐\n\nWho’s the last person you gave access to—and when did you check if they still need it?",
+      "carousel_slides": [
+        {
+          "hook": "Your response plan may miss the real threat",
+          "description": "Most agencies prepare for full breaches, not partial incidents. This attack exposes the gap in your playbook.",
+          "visual_hint": "Gray zone with hidden red dots",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "office building corridor"
+        },
+        {
+          "hook": "A major incident, not a breach?",
+          "description": "ATF called it a major incident, not a full breach. The grey zone is where threats hide.",
+          "visual_hint": "Grey zone with hidden red dots",
+          "layout_type": "right-focus",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who's inside your network?",
+          "description": "The gang claims it stole sensitive law enforcement data. This isn't hypothetical—it's a direct hit on federal systems.",
+          "visual_hint": "Hacker silhouette with code",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Third-party access is the backdoor",
+          "description": "The gang likely got in through a vendor. Your third-party access is a ticking clock—audit it now.",
+          "visual_hint": "Backdoor with glowing path",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your third-party access before the next strike",
+          "description": "Take one hour today to list every vendor with access. If you haven't done it, start there—before they do.",
+          "visual_hint": "Checklist with clock",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "document checklist",
+          "image": "https://images.pexels.com/photos/6863334/pexels-photo-6863334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024",
+      "savedAt": "2026-08-28T13:41:05.469Z",
+      "sourceId": "bc3455c0edb406255dd1c43183a083b2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "a16z-creates-a-1-1b-machine-age-fund-to-accelerate",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "pubDate": "Fri, 28 Aug 2026 13:24:43 +0000",
+      "slides": [
+        "Who controls AI's physical backbone? Not who you think.",
+        "Andreessen Horowitz just raised $1.1B for physical buildout.",
+        "That fund buys land, power, and data centers, not chips.",
+        "Your cloud costs and model access hinge on their bets.",
+        "Map the bottleneck: track where this capital lands."
+      ],
+      "thread_text": [
+        "1. Who really owns AI?\n\nAndreessen Horowitz just raised $1.1B to buy land, power, and data centers—not chips. That's the backbone.",
+        "2. The hidden bottleneck\n\nYour cloud costs and model access depend on where that capital lands, not on chip design.",
+        "3. Power is the new gold\n\nThe fund's bets on energy infrastructure will determine which AI models run at scale—and which stay in labs.",
+        "4. The land grab\n\nTrack the acres acquired; they're the future sites of data centers that could shift the AI map.",
+        "5. What's your move?\n\nCheck where your cloud provider builds its next data center. If it's not in your region, what happens to your latency?"
+      ],
+      "video_script": [
+        "Who controls AI's physical backbone?",
+        "Not the chip makers—it's landowners.",
+        "Andreessen Horowitz raised $1.1 billion",
+        "for land, power, and data centers.",
+        "Your cloud costs hinge on their bets."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who really owns AI?\n\nAndreessen Horowitz just raised $1.1B to buy land, power, and data centers—not chips. That's the backbone.",
+            "2. The hidden bottleneck\n\nYour cloud costs and model access depend on where that capital lands, not on chip design.",
+            "3. Power is the new gold\n\nThe fund's bets on energy infrastructure will determine which AI models run at scale—and which stay in labs.",
+            "4. The land grab\n\nTrack the acres acquired; they're the future sites of data centers that could shift the AI map.",
+            "5. What's your move?\n\nCheck where your cloud provider builds its next data center. If it's not in your region, what happens to your latency?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who controls AI's physical backbone?",
+            "Not the chip makers—it's landowners.",
+            "Andreessen Horowitz raised $1.1 billion",
+            "for land, power, and data centers.",
+            "Your cloud costs hinge on their bets."
+          ]
+        },
+        "instagram": {
+          "caption": "$1.1 billion isn't going to chip design—it's buying land, power lines, and data center shells. 🏗️\n\nAndreessen Horowitz just closed its 'Machine Age' fund, and the thesis is blunt: whoever owns the physical grid owns AI. Not the model labs, not the chip fabs—the real estate under the servers. ⚡\n\nYour cloud bill and your access to frontier models depend on where these bets land. If they back a data center in Texas over Virginia, your inference costs shift with the grid.\n\nFor you, that means tracking infrastructure, not model releases. The next breakthrough might be a substation permit, not a paper.\n\nWhere's your cloud provider building next—and is it in your region? 🗺️"
+        }
+      },
+      "instagram_caption": "$1.1 billion isn't going to chip design—it's buying land, power lines, and data center shells. 🏗️\n\nAndreessen Horowitz just closed its 'Machine Age' fund, and the thesis is blunt: whoever owns the physical grid owns AI. Not the model labs, not the chip fabs—the real estate under the servers. ⚡\n\nYour cloud bill and your access to frontier models depend on where these bets land. If they back a data center in Texas over Virginia, your inference costs shift with the grid.\n\nFor you, that means tracking infrastructure, not model releases. The next breakthrough might be a substation permit, not a paper.\n\nWhere's your cloud provider building next—and is it in your region? 🗺️",
+      "carousel_slides": [
+        {
+          "hook": "Who really owns AI?",
+          "description": "Andreessen Horowitz raised $1.1B for land, power, data centers—not chips. That's the physical backbone.",
+          "visual_hint": "Silhouette of dollar sign over data center",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "data center"
+        },
+        {
+          "hook": "Hidden bottleneck: energy.",
+          "description": "Cloud costs and model access depend on where that capital lands, not chip design. Power determines scale.",
+          "visual_hint": "Electricity meter with high needle",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "electric meter",
+          "image": "https://images.pexels.com/photos/32549020/pexels-photo-32549020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Power is new gold.",
+          "description": "Fund's energy bets decide which models run at scale, which stay in labs. One megawatt can change the game.",
+          "visual_hint": "Gold nugget next to power plant",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "power plant",
+          "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Land grab shifts maps.",
+          "description": "Acres acquired are future data center sites. They could move the AI map overnight—and your latency with it.",
+          "visual_hint": "Map pin on empty field",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "aerial view barren land",
+          "image": "https://images.pexels.com/photos/30635027/pexels-photo-30635027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your cloud provider now.",
+          "description": "Find where your next data center is built. Not in your region, latency spikes. Save this for audit.",
+          "visual_hint": "Globe with network lines",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "globe network",
+          "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
+      "savedAt": "2026-08-28T13:40:53.379Z",
+      "sourceId": "6b47cf48abc5458b7e6f07a4a9df5923"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "australian-police-arrest-two-over-teampcp-hacks-ta",
       "prompt_version": "1.0.0",
       "status": "published",

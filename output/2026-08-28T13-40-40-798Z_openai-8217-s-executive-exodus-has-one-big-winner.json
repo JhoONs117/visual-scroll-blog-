@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-8217-s-executive-exodus-has-one-big-winner",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI&#8217;s executive exodus has one big winner",
+  "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+  "pubDate": "2026-08-27T14:00:00.000Z",
+  "slides": [
+    "Who rises as OpenAI's leaders flee?",
+    "A departing CTO's safety team dissolves.",
+    "The winner is a rival you ignored.",
+    "Your AI roadmap must now factor this shift.",
+    "Test both vendors before committing next quarter."
+  ],
+  "thread_text": [
+    "1. Who's next out the door?\n\nOpenAI's leadership exodus accelerates as the CTO's safety team disbands, leaving a vacuum rivals are already filling.",
+    "2. The rival you ignored\n\nA competitor you dismissed is now the clear winner, capitalizing on OpenAI's instability to lock in enterprise deals.",
+    "3. Your roadmap is obsolete\n\nThis shift forces a re-evaluation of your AI strategy, as the balance of power between vendors has fundamentally changed.",
+    "4. Test both, don't just watch\n\nRun parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data beats speculation.",
+    "5. Can you afford to wait?\n\nTest a critical workflow on both platforms this week. If you delay, you'll be last to adapt."
+  ],
+  "video_script": [
+    "OpenAI leaders are fleeing, leaving chaos.",
+    "The CTO's safety team just dissolved.",
+    "A rival you ignored is now winning.",
+    "Your AI roadmap must change immediately.",
+    "Test both vendors before you commit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's next out the door?\n\nOpenAI's leadership exodus accelerates as the CTO's safety team disbands, leaving a vacuum rivals are already filling.",
+        "2. The rival you ignored\n\nA competitor you dismissed is now the clear winner, capitalizing on OpenAI's instability to lock in enterprise deals.",
+        "3. Your roadmap is obsolete\n\nThis shift forces a re-evaluation of your AI strategy, as the balance of power between vendors has fundamentally changed.",
+        "4. Test both, don't just watch\n\nRun parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data beats speculation.",
+        "5. Can you afford to wait?\n\nTest a critical workflow on both platforms this week. If you delay, you'll be last to adapt."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI leaders are fleeing, leaving chaos.",
+        "The CTO's safety team just dissolved.",
+        "A rival you ignored is now winning.",
+        "Your AI roadmap must change immediately.",
+        "Test both vendors before you commit."
+      ]
+    },
+    "instagram": {
+      "caption": "The CTO’s safety team just dissolved, and OpenAI’s competitors are already circling.  \n\nLeadership exits at this scale don’t just make headlines—they shift enterprise trust. A rival you probably haven’t taken seriously is now locking in contracts with the clients who’d normally call OpenAI first.  \n\nFor you, that means the vendor you bet your workflow on might not be the safest choice next quarter. The balance has changed, and your roadmap needs to reflect it now.  \n\nRun a parallel test of your critical workflow on both platforms this week—before you commit your next budget. Which one actually performs when it matters? 🔍⚖️🔄"
+    }
+  },
+  "instagram_caption": "The CTO’s safety team just dissolved, and OpenAI’s competitors are already circling.  \n\nLeadership exits at this scale don’t just make headlines—they shift enterprise trust. A rival you probably haven’t taken seriously is now locking in contracts with the clients who’d normally call OpenAI first.  \n\nFor you, that means the vendor you bet your workflow on might not be the safest choice next quarter. The balance has changed, and your roadmap needs to reflect it now.  \n\nRun a parallel test of your critical workflow on both platforms this week—before you commit your next budget. Which one actually performs when it matters? 🔍⚖️🔄",
+  "carousel_slides": [
+    {
+      "hook": "The rival you ignored just won.",
+      "description": "OpenAI's CTO safety team dissolves as leaders flee, leaving a vacuum. A dismissed competitor is capitalizing on the instability to secure enterprise deals.",
+      "visual_hint": "Two silhouettes, one rising",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office building skyline"
+    },
+    {
+      "hook": "Who's next out the door?",
+      "description": "With the CTO's safety team disbanding, OpenAI's leadership exodus accelerates. This vacuum creates immediate opportunities for rivals.",
+      "visual_hint": "Revolving door with shadows",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "glass office doors",
+      "image": "https://images.pexels.com/photos/20461333/pexels-photo-20461333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI roadmap is obsolete.",
+      "description": "The balance of power between AI vendors has fundamentally shifted. A competitor you dismissed is now winning enterprise trust and deals.",
+      "visual_hint": "Shattered roadmap diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test both before committing.",
+      "description": "Run parallel pilots with OpenAI and the rising rival before Q4 commitments. Real data from testing beats speculation and guesswork.",
+      "visual_hint": "Two screens side-by-side",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop comparison workspace",
+      "image": "https://images.pexels.com/photos/5904067/pexels-photo-5904067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can you afford to wait?",
+      "description": "Test a critical workflow on both platforms this week. If you delay, you'll be last to adapt — but acting now gives you an edge.",
+      "visual_hint": "Hourglass with coins",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hourglass sand timer",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-28T13:41:30.816Z",
+  "sourceId": "94057effd7fad1fec6eebcc455d9b5b6"
+}

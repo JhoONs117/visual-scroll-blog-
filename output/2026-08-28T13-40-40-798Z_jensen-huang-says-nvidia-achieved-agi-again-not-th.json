@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jensen-huang-says-nvidia-achieved-agi-again-not-th",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+  "pubDate": "2026-08-27T16:15:52.000Z",
+  "slides": [
+    "Jensen claims AGI again—why does it matter?",
+    "Nvidia's definition of AGI differs from yours.",
+    "Their AGI is 95% of human performance, not sentience.",
+    "Strategic labels drive stock value, not your reality.",
+    "Ignore the buzzword; judge benchmarks in your work."
+  ],
+  "thread_text": [
+    "1. AGI Claimed Again\n\nNvidia's stock popped 5% after Jensen's latest AGI remark, yet their definition is just a benchmark hurdle—not sentience.",
+    "2. Their AGI Is Different\n\nYour AGI means self-aware machines; theirs means scoring 95% on specific tests. That gap is massive and strategic.",
+    "3. Labels Move Markets\n\nWhen a CEO says AGI, it's a signal to investors, not a technical breakthrough. The word is chosen to boost valuation.",
+    "4. The Real Test Is Work\n\nForget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+    "5. Judge It Yourself\n\nTake a task you do daily, try the AI version, and compare. Does it save time without extra edits?"
+  ],
+  "video_script": [
+    "Jensen says AGI, but his definition is narrow.",
+    "It's just passing tests, not thinking.",
+    "The label moves stock prices, not reality.",
+    "Focus on your own benchmarks instead.",
+    "Test the AI on your real work."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AGI Claimed Again\n\nNvidia's stock popped 5% after Jensen's latest AGI remark, yet their definition is just a benchmark hurdle—not sentience.",
+        "2. Their AGI Is Different\n\nYour AGI means self-aware machines; theirs means scoring 95% on specific tests. That gap is massive and strategic.",
+        "3. Labels Move Markets\n\nWhen a CEO says AGI, it's a signal to investors, not a technical breakthrough. The word is chosen to boost valuation.",
+        "4. The Real Test Is Work\n\nForget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+        "5. Judge It Yourself\n\nTake a task you do daily, try the AI version, and compare. Does it save time without extra edits?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen says AGI, but his definition is narrow.",
+        "It's just passing tests, not thinking.",
+        "The label moves stock prices, not reality.",
+        "Focus on your own benchmarks instead.",
+        "Test the AI on your real work."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia's stock jumped 5% when Jensen Huang said the company hit AGI again—but his definition is just scoring 95% on specific tests, not machines that think. 🎯\n\nHe's using the word to signal investors, not to announce a breakthrough. Your version of AGI—self-aware software—isn't what he's selling. It's a benchmark hurdle, carefully framed to move markets.\n\nFor you, that means every \"AGI\" headline is marketing. The real question is whether the tool cuts your editing time or forces more fixes.\n\nRun one task you do daily through it. Compare the output side-by-side. Does it actually save you 30 minutes, or just create new cleanup work? ⏱️\n\nWhat's one repetitive task you'd test first?"
+    }
+  },
+  "instagram_caption": "Nvidia's stock jumped 5% when Jensen Huang said the company hit AGI again—but his definition is just scoring 95% on specific tests, not machines that think. 🎯\n\nHe's using the word to signal investors, not to announce a breakthrough. Your version of AGI—self-aware software—isn't what he's selling. It's a benchmark hurdle, carefully framed to move markets.\n\nFor you, that means every \"AGI\" headline is marketing. The real question is whether the tool cuts your editing time or forces more fixes.\n\nRun one task you do daily through it. Compare the output side-by-side. Does it actually save you 30 minutes, or just create new cleanup work? ⏱️\n\nWhat's one repetitive task you'd test first?",
+  "carousel_slides": [
+    {
+      "hook": "95% isn't sentience.",
+      "description": "Nvidia's AGI is passing tests at 95% human level—not consciousness. Stocks popped 5% anyway. That gap is strategic.",
+      "visual_hint": "Graph showing 95% vs 100%",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Their AGI is a benchmark.",
+      "description": "CEO defines AGI as scoring 95% on specific tests, not self-awareness. Massive difference from your definition—and it's intentional.",
+      "visual_hint": "Two columns comparing definitions",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "comparison chart",
+      "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labels move markets fast.",
+      "description": "When Jensen says AGI, it's a signal to investors, not a breakthrough. The word boosts valuation—not your reality.",
+      "visual_hint": "Stock ticker with AGI headline",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market ticker",
+      "image": "https://images.pexels.com/photos/35118242/pexels-photo-35118242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your work.",
+      "description": "Forget the hype. Run your own benchmarks on tasks that matter to you—see if the tool improves your output.",
+      "visual_hint": "Hand testing AI tool on laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop with code",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next AI test.",
+      "description": "Try a daily task with AI, compare time and edits. Judge by results, not buzzwords.",
+      "visual_hint": "Checklist and stopwatch",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist with clock",
+      "image": "https://images.pexels.com/photos/5882583/pexels-photo-5882583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-28T13:41:18.596Z",
+  "sourceId": "a2ddac958ba469b083d83f64ec174f71"
+}
