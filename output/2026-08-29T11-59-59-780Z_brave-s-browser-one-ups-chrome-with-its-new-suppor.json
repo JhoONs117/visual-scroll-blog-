@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "brave-s-browser-one-ups-chrome-with-its-new-suppor",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+  "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+  "pubDate": "Fri, 28 Aug 2026 18:50:00 +0000",
+  "slides": [
+    "Brave challenges Chrome, but can it fix email privacy?",
+    "New email alias support hides your real address.",
+    "Chrome lacks this; Google profits from your inbox.",
+    "You now shield your email from trackers automatically.",
+    "Try it today: switch your default browser to Brave."
+  ],
+  "thread_text": [
+    "1. Your inbox is exposed.\n\nBrave's new email alias feature hides your real address, a move Chrome hasn't made. Google's business model profits from scanning your inbox.",
+    "2. Trackers, meet your match.\n\nBrave automatically shields your email from trackers, something Chrome lacks. Your address stays private without extra steps.",
+    "3. Why Chrome stays silent.\n\nGoogle profits from your inbox data. Brave's challenge to Chrome isn't just about browsing—it's about who owns your email.",
+    "4. One switch, zero effort.\n\nSwitching your default browser to Brave activates email protection instantly. No settings to fiddle with—just a change of default.",
+    "5. Ready to protect your inbox?\n\nSwitch your default browser to Brave today. Or ask yourself: why keep a browser that profits from your private emails?"
+  ],
+  "video_script": [
+    "Brave takes on Chrome, and your inbox.",
+    "New aliases hide your real email address.",
+    "Google still profits from your private messages.",
+    "Brave blocks trackers automatically, no setup needed.",
+    "Switch today and reclaim your email privacy."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your inbox is exposed.\n\nBrave's new email alias feature hides your real address, a move Chrome hasn't made. Google's business model profits from scanning your inbox.",
+        "2. Trackers, meet your match.\n\nBrave automatically shields your email from trackers, something Chrome lacks. Your address stays private without extra steps.",
+        "3. Why Chrome stays silent.\n\nGoogle profits from your inbox data. Brave's challenge to Chrome isn't just about browsing—it's about who owns your email.",
+        "4. One switch, zero effort.\n\nSwitching your default browser to Brave activates email protection instantly. No settings to fiddle with—just a change of default.",
+        "5. Ready to protect your inbox?\n\nSwitch your default browser to Brave today. Or ask yourself: why keep a browser that profits from your private emails?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Brave takes on Chrome, and your inbox.",
+        "New aliases hide your real email address.",
+        "Google still profits from your private messages.",
+        "Brave blocks trackers automatically, no setup needed.",
+        "Switch today and reclaim your email privacy."
+      ]
+    },
+    "instagram": {
+      "caption": "Your real email address is sitting in every login form you've ever filled—and that's exactly what trackers exploit.\n\nBrave just added email alias support to its browser, hiding your actual address behind a randomly generated one. Chrome has no equivalent, and Google's business model profits from reading your inbox. 🔒\n\nThis isn't about privacy theater. It's a direct upgrade to how your personal data flows every time you sign up for a newsletter or tool.\n\nFor anyone creating content, that means fewer tracking pixels connecting your email across platforms. One switch in settings, and future signups are masked automatically. ✉️\n\nWhen did you last get a cold email that knew exactly what you'd been browsing? 🧐"
+    }
+  },
+  "instagram_caption": "Your real email address is sitting in every login form you've ever filled—and that's exactly what trackers exploit.\n\nBrave just added email alias support to its browser, hiding your actual address behind a randomly generated one. Chrome has no equivalent, and Google's business model profits from reading your inbox. 🔒\n\nThis isn't about privacy theater. It's a direct upgrade to how your personal data flows every time you sign up for a newsletter or tool.\n\nFor anyone creating content, that means fewer tracking pixels connecting your email across platforms. One switch in settings, and future signups are masked automatically. ✉️\n\nWhen did you last get a cold email that knew exactly what you'd been browsing? 🧐",
+  "carousel_slides": [
+    {
+      "hook": "Who owns your inbox?",
+      "description": "Chrome profits from your email data. Brave now hides your real address, a feature Google won't offer.",
+      "visual_hint": "Inbox exposed, eye on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer screen with email"
+    },
+    {
+      "hook": "Trackers, meet your match.",
+      "description": "Brave automatically shields your email from trackers, something Chrome lacks. Your address stays private without extra steps.",
+      "visual_hint": "Shield blocking trackers visually",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email icon with shield",
+      "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google stays silent — why?",
+      "description": "Because its business model profits from scanning your inbox. Brave challenges this by letting you hide your real email address.",
+      "visual_hint": "Magnifying glass over email",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass on email",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One switch, zero effort.",
+      "description": "Change your default browser to Brave and email protection activates automatically. No settings to fiddle with.",
+      "visual_hint": "Hand switching browser icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to switch later.",
+      "description": "Open your phone settings, set Brave as default browser, and instantly protect your inbox from trackers and data miners.",
+      "visual_hint": "Arrow pointing to browser icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone settings screen",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+  "savedAt": "2026-08-29T12:00:11.408Z",
+  "sourceId": "89c9a1fa20f163cec5d24f19d8cb2335"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "as-electric-two-wheelers-gain-a-foothold-belgian-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+  "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+  "pubDate": "Fri, 28 Aug 2026 09:33:00 +0000",
+  "slides": [
+    "Can a cargo e-bike really replace a van?",
+    "Belgian startup Any thinks so, with modular boxes.",
+    "Most cargo bikes fail on last-mile delivery costs.",
+    "Any's swap system cuts loading time dramatically.",
+    "Test one route against your van this month."
+  ],
+  "thread_text": [
+    "1. Vans are losing.\n\nAny's modular cargo e-bike system swaps boxes in seconds, cutting loading time so much that last-mile delivery costs finally drop below van thresholds.",
+    "2. The real problem.\n\nMost cargo bikes fail because loading and unloading eats the savings. Any's boxes attack that exact bottleneck, not the pedaling.",
+    "3. Swap, don't load.\n\nInstead of filling a bike box item by item, drivers swap pre-filled modules. It's the same idea as changing a battery, but for freight.",
+    "4. Route test this month.\n\nAny is challenging delivery firms to run one real route with their e-bike against a van. Concrete numbers, not marketing promises.",
+    "5. Will you test it?\n\nIf you manage last-mile deliveries, ask Any for a demo on your hardest route. Measure time and cost per stop. See if it beats your van."
+  ],
+  "video_script": [
+    "Cargo e-bikes usually lose on cost.",
+    "Belgian startup Any fixes loading time.",
+    "They swap modular boxes in seconds.",
+    "That cuts last-mile delivery costs dramatically.",
+    "Test one route against your van now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Vans are losing.\n\nAny's modular cargo e-bike system swaps boxes in seconds, cutting loading time so much that last-mile delivery costs finally drop below van thresholds.",
+        "2. The real problem.\n\nMost cargo bikes fail because loading and unloading eats the savings. Any's boxes attack that exact bottleneck, not the pedaling.",
+        "3. Swap, don't load.\n\nInstead of filling a bike box item by item, drivers swap pre-filled modules. It's the same idea as changing a battery, but for freight.",
+        "4. Route test this month.\n\nAny is challenging delivery firms to run one real route with their e-bike against a van. Concrete numbers, not marketing promises.",
+        "5. Will you test it?\n\nIf you manage last-mile deliveries, ask Any for a demo on your hardest route. Measure time and cost per stop. See if it beats your van."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cargo e-bikes usually lose on cost.",
+        "Belgian startup Any fixes loading time.",
+        "They swap modular boxes in seconds.",
+        "That cuts last-mile delivery costs dramatically.",
+        "Test one route against your van now."
+      ]
+    },
+    "instagram": {
+      "caption": "Vans spend most of their last-mile delivery time parked, while drivers load and unload boxes item by item. 🚐\n\nBelgian startup Any is betting a modular cargo e-bike can replace them—with boxes that swap in seconds, like changing a battery for freight. Most cargo bikes fail on cost because loading eats the savings; this attack fixes that bottleneck, not the pedaling. 📦\n\nFor delivery managers, that means a concrete route test this month: run one real route against your van, measure time and cost per stop.\n\nWill you put your hardest delivery route on an e-bike against your van before the end of March? ⏱️"
+    }
+  },
+  "instagram_caption": "Vans spend most of their last-mile delivery time parked, while drivers load and unload boxes item by item. 🚐\n\nBelgian startup Any is betting a modular cargo e-bike can replace them—with boxes that swap in seconds, like changing a battery for freight. Most cargo bikes fail on cost because loading eats the savings; this attack fixes that bottleneck, not the pedaling. 📦\n\nFor delivery managers, that means a concrete route test this month: run one real route against your van, measure time and cost per stop.\n\nWill you put your hardest delivery route on an e-bike against your van before the end of March? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Can an e-bike really replace a van?",
+      "description": "Most cargo bikes fail because loading time eats savings. Any's modular system swaps boxes in seconds, making last-mile costs finally beat van thresholds.",
+      "visual_hint": "Cargo bike next to delivery van",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "cargo bike van"
+    },
+    {
+      "hook": "The real bottleneck isn't pedaling.",
+      "description": "Loading and unloading kills efficiency. Any's swap system attacks that exact bottleneck, not the cycling, cutting time dramatically.",
+      "visual_hint": "Close-up of modular box latch",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "modular box system",
+      "image": "https://images.pexels.com/photos/33906404/pexels-photo-33906404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Swap, don't load.",
+      "description": "Drivers swap pre-filled boxes like changing a battery, but for freight. This cuts loading time so much that delivery costs finally drop below van thresholds.",
+      "visual_hint": "Box being swapped onto bike",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "box exchange bike",
+      "image": "https://images.pexels.com/photos/38218755/pexels-photo-38218755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a route against your van.",
+      "description": "Any challenges delivery firms to run one real route with their e-bike against a van. Concrete numbers, not marketing promises.",
+      "visual_hint": "Hand holding stopwatch near route map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "route map stopwatch",
+      "image": "https://images.pexels.com/photos/5302805/pexels-photo-5302805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will you test it?",
+      "description": "If you manage last-mile deliveries, ask Any for a demo on your hardest route. Measure time and cost per stop. See if it beats your van.",
+      "visual_hint": "Call-to-action button with link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "delivery e-bike",
+      "image": "https://images.pexels.com/photos/39061736/pexels-photo-39061736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948",
+  "savedAt": "2026-08-29T12:00:23.985Z",
+  "sourceId": "0b585507a6bb95a122e1bec34f21a079"
+}

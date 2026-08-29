@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-is-adding-more-ai-to-photoshop",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe is adding more AI to Photoshop",
+  "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+  "pubDate": "2026-08-27T13:00:00.000Z",
+  "slides": [
+    "Can Adobe's new AI finally replace your Photoshop skills?",
+    "Generative tools now handle masking and object selection automatically.",
+    "It still fails on complex edges, unlike human precision.",
+    "You'll spend less time on drudgery, more on creative choices.",
+    "Test a tricky photo today; see where your eye wins."
+  ],
+  "thread_text": [
+    "1. Your Photoshop skills are at risk\n\nAdobe's new AI can now automatically handle masking and object selection, slashing the time you'd spend on those tedious tasks.",
+    "2. But the AI hits a wall\n\nComplex edges still trip it up, where your eye and precision outperform the algorithm.",
+    "3. More time for real creativity\n\nYou'll spend less time on drudgery, freeing you to focus on the artistic choices that matter.",
+    "4. The trade-off you need to know\n\nSave minutes on easy tasks, but you'll need to double-check and fix tricky spots – could cost you more time.",
+    "5. Test it on a tricky photo today\n\nPick an image with fine details, run Adobe's AI, and see where your human eye still wins. What did you find?"
+  ],
+  "video_script": [
+    "Adobe's AI can mask and select automatically.",
+    "It'll save you time but fails on complex edges.",
+    "Your precision still beats it.",
+    "You'll spend less time on grunt work.",
+    "Test it now and see what you think."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Photoshop skills are at risk\n\nAdobe's new AI can now automatically handle masking and object selection, slashing the time you'd spend on those tedious tasks.",
+        "2. But the AI hits a wall\n\nComplex edges still trip it up, where your eye and precision outperform the algorithm.",
+        "3. More time for real creativity\n\nYou'll spend less time on drudgery, freeing you to focus on the artistic choices that matter.",
+        "4. The trade-off you need to know\n\nSave minutes on easy tasks, but you'll need to double-check and fix tricky spots – could cost you more time.",
+        "5. Test it on a tricky photo today\n\nPick an image with fine details, run Adobe's AI, and see where your human eye still wins. What did you find?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe's AI can mask and select automatically.",
+        "It'll save you time but fails on complex edges.",
+        "Your precision still beats it.",
+        "You'll spend less time on grunt work.",
+        "Test it now and see what you think."
+      ]
+    },
+    "instagram": {
+      "caption": "That tedious masking job you dread? Photoshop’s new AI now does it for you automatically. 🖱️\n\nAdobe is pushing generative tools straight into the core workflow, handling object selection and layer masks in a click. It’s fast, but the catch is precision: complex edges—like flyaway hair or tangled branches—still break the algorithm, where your manual trace wins.\n\nYou’ll trade grunt work for creative time, but you’ll also spend extra minutes double-checking the AI’s cuts. Those saves on easy tasks can vanish on tricky ones.\n\nGrab a photo you’ve struggled to mask, run Adobe’s new tool on it, and see where you’re forced to take over. Where did it trip you up? 🤔"
+    }
+  },
+  "instagram_caption": "That tedious masking job you dread? Photoshop’s new AI now does it for you automatically. 🖱️\n\nAdobe is pushing generative tools straight into the core workflow, handling object selection and layer masks in a click. It’s fast, but the catch is precision: complex edges—like flyaway hair or tangled branches—still break the algorithm, where your manual trace wins.\n\nYou’ll trade grunt work for creative time, but you’ll also spend extra minutes double-checking the AI’s cuts. Those saves on easy tasks can vanish on tricky ones.\n\nGrab a photo you’ve struggled to mask, run Adobe’s new tool on it, and see where you’re forced to take over. Where did it trip you up? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your Photoshop skills are at risk",
+      "description": "Adobe's AI now automates masking and object selection, slashing time on tedious tasks. But it struggles with complex edges, where your precision still wins.",
+      "visual_hint": "Robot hand editing photo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand computer"
+    },
+    {
+      "hook": "AI hits a wall on complex edges",
+      "description": "Generative tools handle easy masks but fail on fine details like hair or fur, demanding your careful correction.",
+      "visual_hint": "Zoom on intricate edges",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "close-up hair strands",
+      "image": "https://images.pexels.com/photos/4066506/pexels-photo-4066506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More time for real creativity",
+      "description": "Spend less time on drudgery, freeing you to focus on artistic choices that matter – but double-check tricky spots.",
+      "visual_hint": "Artist palette and brush",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artist palette brush",
+      "image": "https://images.pexels.com/photos/20446313/pexels-photo-20446313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The trade-off you need to know",
+      "description": "Save minutes on easy tasks, but fixing AI's mistakes on complex images could cost you more time than doing it manually.",
+      "visual_hint": "Clock and warning sign",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clock warning sign",
+      "image": "https://images.pexels.com/photos/5524679/pexels-photo-5524679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test later!",
+      "description": "Pick a photo with fine details, run Adobe's AI, and see where your eye wins. Comment what you find.",
+      "visual_hint": "Camera and photo print",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "camera photo print",
+      "image": "https://images.pexels.com/photos/7015072/pexels-photo-7015072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Assisted-Editor_Static.jpg?quality=90&amp;strip=all&amp;crop=0%2C1.0239908854167%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-08-29T12:00:37.146Z",
+  "sourceId": "d0062e3b6e560ed51b4f78450b0e1eb3"
+}
