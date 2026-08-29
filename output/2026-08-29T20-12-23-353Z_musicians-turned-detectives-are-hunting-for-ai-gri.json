@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "musicians-turned-detectives-are-hunting-for-ai-gri",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Musicians-turned-detectives are hunting for AI grifters",
+  "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+  "pubDate": "2026-08-29T12:00:00.000Z",
+  "slides": [
+    "Who's really behind that viral AI track?",
+    "Musicians now hunt fraudulent streaming bots.",
+    "Their tools expose fake plays and payouts.",
+    "Artists can audit royalties with new methods.",
+    "Start by verifying your own streaming data."
+  ],
+  "thread_text": [
+    "1. Who profits from fake streams?\n\nFraudulent plays are siphoning millions from real artists, and new tools are finally exposing the scale of the problem.",
+    "2. Bots, not fans\n\nStreaming services are infected with automated accounts that inflate play counts, skewing royalty payments and chart positions.",
+    "3. Auditing the numbers\n\nArtists are now using third-party analytics to cross-check their streaming data and spot anomalies that indicate bot activity.",
+    "4. The payout shock\n\nWhen fake streams are removed, royalty checks can change drastically. A single audit might reveal unexpected drops in income.",
+    "5. Check your own stats\n\nOpen your streaming dashboard and look for spikes from unknown regions. If you see them, you might be a target."
+  ],
+  "video_script": [
+    "Who's behind that viral AI track?",
+    "Musicians are hunting fraudulent streaming bots.",
+    "New tools expose fake plays and payouts.",
+    "Artists can now audit royalty data directly.",
+    "Start by verifying your own streaming numbers."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who profits from fake streams?\n\nFraudulent plays are siphoning millions from real artists, and new tools are finally exposing the scale of the problem.",
+        "2. Bots, not fans\n\nStreaming services are infected with automated accounts that inflate play counts, skewing royalty payments and chart positions.",
+        "3. Auditing the numbers\n\nArtists are now using third-party analytics to cross-check their streaming data and spot anomalies that indicate bot activity.",
+        "4. The payout shock\n\nWhen fake streams are removed, royalty checks can change drastically. A single audit might reveal unexpected drops in income.",
+        "5. Check your own stats\n\nOpen your streaming dashboard and look for spikes from unknown regions. If you see them, you might be a target."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who's behind that viral AI track?",
+        "Musicians are hunting fraudulent streaming bots.",
+        "New tools expose fake plays and payouts.",
+        "Artists can now audit royalty data directly.",
+        "Start by verifying your own streaming numbers."
+      ]
+    },
+    "instagram": {
+      "caption": "Millions in royalty money are being drained by bots that fake streams, and now the artists themselves are fighting back with forensic tools. 🕵️‍♂️\n\nThese musicians-turned-detectives are cross-checking their streaming data against third-party analytics, spotting anomalies like plays from unknown regions or impossible listening patterns. When fake plays get scrubbed, payouts shift — sometimes dramatically.\n\nIf you publish music, your dashboard might already show signs of bot fraud. Open your streaming stats and look for spikes you didn't earn. That's your first audit. 🎧\n\nHave you checked your own numbers for suspicious activity? 📊"
+    }
+  },
+  "instagram_caption": "Millions in royalty money are being drained by bots that fake streams, and now the artists themselves are fighting back with forensic tools. 🕵️‍♂️\n\nThese musicians-turned-detectives are cross-checking their streaming data against third-party analytics, spotting anomalies like plays from unknown regions or impossible listening patterns. When fake plays get scrubbed, payouts shift — sometimes dramatically.\n\nIf you publish music, your dashboard might already show signs of bot fraud. Open your streaming stats and look for spikes you didn't earn. That's your first audit. 🎧\n\nHave you checked your own numbers for suspicious activity? 📊",
+  "carousel_slides": [
+    {
+      "hook": "Fake streams are stealing your royalties",
+      "description": "Fraudulent plays siphon millions from real artists. New auditing tools are exposing the scale of the problem.",
+      "visual_hint": "Streaming bot dashboard",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Are your listeners actually bots?",
+      "description": "Automated accounts inflate play counts, skewing royalty payments and chart positions. A single audit can reveal the truth.",
+      "visual_hint": "Bot network detection screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Royalty check shock is real",
+      "description": "When fake streams are removed, royalty checks drop drastically. Audits show unexpected income changes in real time.",
+      "visual_hint": "Financial chart with drop",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Find bot spikes in your stats",
+      "description": "Open your streaming dashboard and look for unusual spikes from unknown regions. If you see them, you might be a target.",
+      "visual_hint": "Geographic data map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to audit your streams",
+      "description": "Start today: cross-check your streaming data with third-party analytics to spot anomalies and protect your income.",
+      "visual_hint": "Checklist with magnifier",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&amp;w=1200",
+  "savedAt": "2026-08-29T20:12:58.498Z",
+  "sourceId": "248d3859500de4a4328dda039dd0cc54"
+}

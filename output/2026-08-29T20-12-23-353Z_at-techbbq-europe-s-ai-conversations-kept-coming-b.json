@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "at-techbbq-europe-s-ai-conversations-kept-coming-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+  "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+  "pubDate": "Sat, 29 Aug 2026 17:51:10 +0000",
+  "slides": [
+    "Who truly controls AI in Europe?",
+    "TechBBQ's loudest debate: open vs. closed AI.",
+    "The surprise: startups demand open-source, not regulation.",
+    "Your roadmap hinges on which model you choose now.",
+    "Decide before next quarter: pick your dependency."
+  ],
+  "thread_text": [
+    "1. Who really calls the shots?\n\nAt TechBBQ, startups shocked attendees by demanding open-source AI over regulation. The loudest debate revealed a power shift that could define your next move.",
+    "2. Open vs. closed: the clash\n\nClosed models promise control but lock you in. Startups argue open-source fuels innovation and avoids vendor dependency. The choice isn't technical—it's strategic.",
+    "3. The surprise twist\n\nRegulation wasn't the enemy. Founders fear missing out on AI's evolution more than legal risks. They want flexibility to pivot as models improve.",
+    "4. Your roadmap at stake\n\nThe model you pick now dictates your ability to adapt. Open-source allows swaps; closed ties you to upgrades. This decision affects every future AI feature.",
+    "5. Decide before next quarter\n\nTest both on a real use case this week. Can you afford vendor lock-in? If not, start a pilot with an open model today."
+  ],
+  "video_script": [
+    "Who controls AI in Europe?",
+    "Startups at TechBBQ want open source.",
+    "They fear lock-in, not regulation.",
+    "Your model choice shapes your roadmap.",
+    "Test an open model this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really calls the shots?\n\nAt TechBBQ, startups shocked attendees by demanding open-source AI over regulation. The loudest debate revealed a power shift that could define your next move.",
+        "2. Open vs. closed: the clash\n\nClosed models promise control but lock you in. Startups argue open-source fuels innovation and avoids vendor dependency. The choice isn't technical—it's strategic.",
+        "3. The surprise twist\n\nRegulation wasn't the enemy. Founders fear missing out on AI's evolution more than legal risks. They want flexibility to pivot as models improve.",
+        "4. Your roadmap at stake\n\nThe model you pick now dictates your ability to adapt. Open-source allows swaps; closed ties you to upgrades. This decision affects every future AI feature.",
+        "5. Decide before next quarter\n\nTest both on a real use case this week. Can you afford vendor lock-in? If not, start a pilot with an open model today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who controls AI in Europe?",
+        "Startups at TechBBQ want open source.",
+        "They fear lock-in, not regulation.",
+        "Your model choice shapes your roadmap.",
+        "Test an open model this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Startups at TechBBQ told Europe's AI leaders they'd rather have open models than new laws.\n\nThe debate wasn't about safety vs. speed. Founders said closed systems like proprietary APIs lock them into one vendor's roadmap, while open models let them switch as tech improves. They fear missing the next breakthrough more than regulatory fines.\n\nThe model you choose this quarter decides whether your content pipeline can adapt next year — or stays hostage to someone else's upgrade schedule.\n\nTest one open model on a real task this week and compare the output with what you use now. Which one actually gives you more control? 🧩\n\nThe decision isn't technical. It's dependency. ⚖️\n\nWhat's your escape route? 🔄"
+    }
+  },
+  "instagram_caption": "Startups at TechBBQ told Europe's AI leaders they'd rather have open models than new laws.\n\nThe debate wasn't about safety vs. speed. Founders said closed systems like proprietary APIs lock them into one vendor's roadmap, while open models let them switch as tech improves. They fear missing the next breakthrough more than regulatory fines.\n\nThe model you choose this quarter decides whether your content pipeline can adapt next year — or stays hostage to someone else's upgrade schedule.\n\nTest one open model on a real task this week and compare the output with what you use now. Which one actually gives you more control? 🧩\n\nThe decision isn't technical. It's dependency. ⚖️\n\nWhat's your escape route? 🔄",
+  "carousel_slides": [
+    {
+      "hook": "Who's truly pulling AI's strings?",
+      "description": "At TechBBQ, founders loudly demanded open-source AI over regulation. The crowd's reaction reveals a power shift that could define your next move.",
+      "visual_hint": "Chess pieces digital overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chess pieces technology"
+    },
+    {
+      "hook": "Closed AI locks you in.",
+      "description": "Closed models promise control but create vendor dependency. Startups at TechBBQ favor open-source to fuel innovation and retain strategic flexibility. Not technical—strategic.",
+      "visual_hint": "Two paths diverging",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "fork road split",
+      "image": "https://images.pexels.com/photos/10251153/pexels-photo-10251153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulation isn't the real fear.",
+      "description": "Founders worry more about missing AI's evolution than legal risks. They want open models to pivot quickly as improvements emerge, avoiding obsolescence.",
+      "visual_hint": "Scoreboard shifting favorites",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "arrow target center",
+      "image": "https://images.pexels.com/photos/6620429/pexels-photo-6620429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your model choice dictates agility.",
+      "description": "Picking a model now decides future adaptability. Open-source lets you swap; closed ties you to upgrades. This choice affects every upcoming AI feature.",
+      "visual_hint": "Hand holding smart phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test open models first.",
+      "description": "Run a real use-case pilot with an open model this week. If you can't afford lock-in, start now before next quarter's roadmap is set.",
+      "visual_hint": "Save button highlighted",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "save icon button",
+      "image": "https://images.pexels.com/photos/12969339/pexels-photo-12969339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+  "savedAt": "2026-08-29T20:12:47.580Z",
+  "sourceId": "698656d72c29beda9c0d4897c4511228"
+}

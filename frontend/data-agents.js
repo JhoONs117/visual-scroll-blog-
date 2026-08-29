@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "plaud-is-launching-ai-earbuds",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Plaud is launching AI earbuds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "pubDate": "2026-08-27T13:11:23.000Z",
+      "slides": [
+        "Plaud's new earbuds hear everything—but who controls that audio?",
+        "They pair with an AI that summarizes your entire day's conversations.",
+        "Unlike other earbuds, they record continuously without any indicator light.",
+        "Your meetings, calls, and private chats become searchable text forever.",
+        "Decide now: is effortless memory worth surrendering all privacy?"
+      ],
+      "thread_text": [
+        "1. Who owns your voice?\n\nPlaud's earbuds record everything you say, all day, no light to warn others. Your words become data—but who gets to use it?",
+        "2. No blinking light, no clue\n\nUnlike other earbuds, there's zero indicator when recording. You won't know if you're being taped in a private chat or a sensitive meeting.",
+        "3. Every word, searchable forever\n\nYour conversations turn into text you can search anytime. That means every joke, secret, or slip-up is stored permanently—even after you forget it.",
+        "4. The memory trade-off\n\nYou get a perfect summary of your day, but lose control over what's captured. Employers or hackers could access your most private talks with one breach.",
+        "5. Decide now\n\nNext time you chat, ask: would I say this if it were recorded? If not, these earbuds aren't for you. Test your comfort level today."
+      ],
+      "video_script": [
+        "Earbuds hear everything, no light warning you.",
+        "Your chats become searchable text, stored forever.",
+        "Who controls that audio? You or them?",
+        "Private moments could be exposed in a breach.",
+        "Would you speak if recorded? Decide now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who owns your voice?\n\nPlaud's earbuds record everything you say, all day, no light to warn others. Your words become data—but who gets to use it?",
+            "2. No blinking light, no clue\n\nUnlike other earbuds, there's zero indicator when recording. You won't know if you're being taped in a private chat or a sensitive meeting.",
+            "3. Every word, searchable forever\n\nYour conversations turn into text you can search anytime. That means every joke, secret, or slip-up is stored permanently—even after you forget it.",
+            "4. The memory trade-off\n\nYou get a perfect summary of your day, but lose control over what's captured. Employers or hackers could access your most private talks with one breach.",
+            "5. Decide now\n\nNext time you chat, ask: would I say this if it were recorded? If not, these earbuds aren't for you. Test your comfort level today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Earbuds hear everything, no light warning you.",
+            "Your chats become searchable text, stored forever.",
+            "Who controls that audio? You or them?",
+            "Private moments could be exposed in a breach.",
+            "Would you speak if recorded? Decide now."
+          ]
+        },
+        "instagram": {
+          "caption": "These new earbuds record 100% of your conversations, with no blinking light or any other indicator that they're on.  \nThey auto-generate a searchable text transcript of your entire day, including private chats and meetings.  \nThe audio is stored permanently, so every joke or slip-up becomes a file that could be accessed by an employer or a hacker.  \nFor you, this means your unguarded creative talk becomes a permanent, searchable record—not just a memory.  \nBefore you put them on: would you still say your next sentence if you knew it would be typed out forever? 📝🎙️🔒"
+        }
+      },
+      "instagram_caption": "These new earbuds record 100% of your conversations, with no blinking light or any other indicator that they're on.  \nThey auto-generate a searchable text transcript of your entire day, including private chats and meetings.  \nThe audio is stored permanently, so every joke or slip-up becomes a file that could be accessed by an employer or a hacker.  \nFor you, this means your unguarded creative talk becomes a permanent, searchable record—not just a memory.  \nBefore you put them on: would you still say your next sentence if you knew it would be typed out forever? 📝🎙️🔒",
+      "carousel_slides": [
+        {
+          "hook": "No light. No warning. Recording you.",
+          "description": "Plaud's earbuds record all day with no indicator light, so you never know if a private chat is being captured.",
+          "visual_hint": "Earbud without LED, subtle",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "earbuds closeup"
+        },
+        {
+          "hook": "Who owns your voice?",
+          "description": "Your conversations become searchable data, but you don't control who accesses it—potential for misuse is real.",
+          "visual_hint": "Voice waveform turning to text",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Is every word permanent?",
+          "description": "Plaud turns your day's chats into searchable text, stored forever—even jokes or secrets you'd rather forget.",
+          "visual_hint": "Magnifying glass over transcript",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "transcript document",
+          "image": "https://images.pexels.com/photos/8085936/pexels-photo-8085936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Memory at what cost?",
+          "description": "You get perfect summaries, but one breach could expose your most private talks to employers or hackers.",
+          "visual_hint": "Hand holding phone with alerts",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Would you say it if recorded?",
+          "description": "Save this post to weigh your comfort level, or comment 'privacy' to get a checklist of questions before buying.",
+          "visual_hint": "Checklist with privacy items",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-08-29T20:13:10.617Z",
+      "sourceId": "61451b02ed4bd97a30be86d90def4ec9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "musicians-turned-detectives-are-hunting-for-ai-gri",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "pubDate": "2026-08-29T12:00:00.000Z",
+      "slides": [
+        "Who's really behind that viral AI track?",
+        "Musicians now hunt fraudulent streaming bots.",
+        "Their tools expose fake plays and payouts.",
+        "Artists can audit royalties with new methods.",
+        "Start by verifying your own streaming data."
+      ],
+      "thread_text": [
+        "1. Who profits from fake streams?\n\nFraudulent plays are siphoning millions from real artists, and new tools are finally exposing the scale of the problem.",
+        "2. Bots, not fans\n\nStreaming services are infected with automated accounts that inflate play counts, skewing royalty payments and chart positions.",
+        "3. Auditing the numbers\n\nArtists are now using third-party analytics to cross-check their streaming data and spot anomalies that indicate bot activity.",
+        "4. The payout shock\n\nWhen fake streams are removed, royalty checks can change drastically. A single audit might reveal unexpected drops in income.",
+        "5. Check your own stats\n\nOpen your streaming dashboard and look for spikes from unknown regions. If you see them, you might be a target."
+      ],
+      "video_script": [
+        "Who's behind that viral AI track?",
+        "Musicians are hunting fraudulent streaming bots.",
+        "New tools expose fake plays and payouts.",
+        "Artists can now audit royalty data directly.",
+        "Start by verifying your own streaming numbers."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who profits from fake streams?\n\nFraudulent plays are siphoning millions from real artists, and new tools are finally exposing the scale of the problem.",
+            "2. Bots, not fans\n\nStreaming services are infected with automated accounts that inflate play counts, skewing royalty payments and chart positions.",
+            "3. Auditing the numbers\n\nArtists are now using third-party analytics to cross-check their streaming data and spot anomalies that indicate bot activity.",
+            "4. The payout shock\n\nWhen fake streams are removed, royalty checks can change drastically. A single audit might reveal unexpected drops in income.",
+            "5. Check your own stats\n\nOpen your streaming dashboard and look for spikes from unknown regions. If you see them, you might be a target."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who's behind that viral AI track?",
+            "Musicians are hunting fraudulent streaming bots.",
+            "New tools expose fake plays and payouts.",
+            "Artists can now audit royalty data directly.",
+            "Start by verifying your own streaming numbers."
+          ]
+        },
+        "instagram": {
+          "caption": "Millions in royalty money are being drained by bots that fake streams, and now the artists themselves are fighting back with forensic tools. 🕵️‍♂️\n\nThese musicians-turned-detectives are cross-checking their streaming data against third-party analytics, spotting anomalies like plays from unknown regions or impossible listening patterns. When fake plays get scrubbed, payouts shift — sometimes dramatically.\n\nIf you publish music, your dashboard might already show signs of bot fraud. Open your streaming stats and look for spikes you didn't earn. That's your first audit. 🎧\n\nHave you checked your own numbers for suspicious activity? 📊"
+        }
+      },
+      "instagram_caption": "Millions in royalty money are being drained by bots that fake streams, and now the artists themselves are fighting back with forensic tools. 🕵️‍♂️\n\nThese musicians-turned-detectives are cross-checking their streaming data against third-party analytics, spotting anomalies like plays from unknown regions or impossible listening patterns. When fake plays get scrubbed, payouts shift — sometimes dramatically.\n\nIf you publish music, your dashboard might already show signs of bot fraud. Open your streaming stats and look for spikes you didn't earn. That's your first audit. 🎧\n\nHave you checked your own numbers for suspicious activity? 📊",
+      "carousel_slides": [
+        {
+          "hook": "Fake streams are stealing your royalties",
+          "description": "Fraudulent plays siphon millions from real artists. New auditing tools are exposing the scale of the problem.",
+          "visual_hint": "Streaming bot dashboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Are your listeners actually bots?",
+          "description": "Automated accounts inflate play counts, skewing royalty payments and chart positions. A single audit can reveal the truth.",
+          "visual_hint": "Bot network detection screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Royalty check shock is real",
+          "description": "When fake streams are removed, royalty checks drop drastically. Audits show unexpected income changes in real time.",
+          "visual_hint": "Financial chart with drop",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Find bot spikes in your stats",
+          "description": "Open your streaming dashboard and look for unusual spikes from unknown regions. If you see them, you might be a target.",
+          "visual_hint": "Geographic data map",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your streams",
+          "description": "Start today: cross-check your streaming data with third-party analytics to spot anomalies and protect your income.",
+          "visual_hint": "Checklist with magnifier",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&amp;w=1200",
+      "savedAt": "2026-08-29T20:12:58.498Z",
+      "sourceId": "248d3859500de4a4328dda039dd0cc54"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "at-techbbq-europe-s-ai-conversations-kept-coming-b",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "pubDate": "Sat, 29 Aug 2026 17:51:10 +0000",
+      "slides": [
+        "Who truly controls AI in Europe?",
+        "TechBBQ's loudest debate: open vs. closed AI.",
+        "The surprise: startups demand open-source, not regulation.",
+        "Your roadmap hinges on which model you choose now.",
+        "Decide before next quarter: pick your dependency."
+      ],
+      "thread_text": [
+        "1. Who really calls the shots?\n\nAt TechBBQ, startups shocked attendees by demanding open-source AI over regulation. The loudest debate revealed a power shift that could define your next move.",
+        "2. Open vs. closed: the clash\n\nClosed models promise control but lock you in. Startups argue open-source fuels innovation and avoids vendor dependency. The choice isn't technical—it's strategic.",
+        "3. The surprise twist\n\nRegulation wasn't the enemy. Founders fear missing out on AI's evolution more than legal risks. They want flexibility to pivot as models improve.",
+        "4. Your roadmap at stake\n\nThe model you pick now dictates your ability to adapt. Open-source allows swaps; closed ties you to upgrades. This decision affects every future AI feature.",
+        "5. Decide before next quarter\n\nTest both on a real use case this week. Can you afford vendor lock-in? If not, start a pilot with an open model today."
+      ],
+      "video_script": [
+        "Who controls AI in Europe?",
+        "Startups at TechBBQ want open source.",
+        "They fear lock-in, not regulation.",
+        "Your model choice shapes your roadmap.",
+        "Test an open model this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who really calls the shots?\n\nAt TechBBQ, startups shocked attendees by demanding open-source AI over regulation. The loudest debate revealed a power shift that could define your next move.",
+            "2. Open vs. closed: the clash\n\nClosed models promise control but lock you in. Startups argue open-source fuels innovation and avoids vendor dependency. The choice isn't technical—it's strategic.",
+            "3. The surprise twist\n\nRegulation wasn't the enemy. Founders fear missing out on AI's evolution more than legal risks. They want flexibility to pivot as models improve.",
+            "4. Your roadmap at stake\n\nThe model you pick now dictates your ability to adapt. Open-source allows swaps; closed ties you to upgrades. This decision affects every future AI feature.",
+            "5. Decide before next quarter\n\nTest both on a real use case this week. Can you afford vendor lock-in? If not, start a pilot with an open model today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Who controls AI in Europe?",
+            "Startups at TechBBQ want open source.",
+            "They fear lock-in, not regulation.",
+            "Your model choice shapes your roadmap.",
+            "Test an open model this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Startups at TechBBQ told Europe's AI leaders they'd rather have open models than new laws.\n\nThe debate wasn't about safety vs. speed. Founders said closed systems like proprietary APIs lock them into one vendor's roadmap, while open models let them switch as tech improves. They fear missing the next breakthrough more than regulatory fines.\n\nThe model you choose this quarter decides whether your content pipeline can adapt next year — or stays hostage to someone else's upgrade schedule.\n\nTest one open model on a real task this week and compare the output with what you use now. Which one actually gives you more control? 🧩\n\nThe decision isn't technical. It's dependency. ⚖️\n\nWhat's your escape route? 🔄"
+        }
+      },
+      "instagram_caption": "Startups at TechBBQ told Europe's AI leaders they'd rather have open models than new laws.\n\nThe debate wasn't about safety vs. speed. Founders said closed systems like proprietary APIs lock them into one vendor's roadmap, while open models let them switch as tech improves. They fear missing the next breakthrough more than regulatory fines.\n\nThe model you choose this quarter decides whether your content pipeline can adapt next year — or stays hostage to someone else's upgrade schedule.\n\nTest one open model on a real task this week and compare the output with what you use now. Which one actually gives you more control? 🧩\n\nThe decision isn't technical. It's dependency. ⚖️\n\nWhat's your escape route? 🔄",
+      "carousel_slides": [
+        {
+          "hook": "Who's truly pulling AI's strings?",
+          "description": "At TechBBQ, founders loudly demanded open-source AI over regulation. The crowd's reaction reveals a power shift that could define your next move.",
+          "visual_hint": "Chess pieces digital overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chess pieces technology"
+        },
+        {
+          "hook": "Closed AI locks you in.",
+          "description": "Closed models promise control but create vendor dependency. Startups at TechBBQ favor open-source to fuel innovation and retain strategic flexibility. Not technical—strategic.",
+          "visual_hint": "Two paths diverging",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fork road split",
+          "image": "https://images.pexels.com/photos/10251153/pexels-photo-10251153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulation isn't the real fear.",
+          "description": "Founders worry more about missing AI's evolution than legal risks. They want open models to pivot quickly as improvements emerge, avoiding obsolescence.",
+          "visual_hint": "Scoreboard shifting favorites",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "arrow target center",
+          "image": "https://images.pexels.com/photos/6620429/pexels-photo-6620429.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your model choice dictates agility.",
+          "description": "Picking a model now decides future adaptability. Open-source lets you swap; closed ties you to upgrades. This choice affects every upcoming AI feature.",
+          "visual_hint": "Hand holding smart phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test open models first.",
+          "description": "Run a real use-case pilot with an open model this week. If you can't afford lock-in, start now before next quarter's roadmap is set.",
+          "visual_hint": "Save button highlighted",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "save icon button",
+          "image": "https://images.pexels.com/photos/12969339/pexels-photo-12969339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+      "savedAt": "2026-08-29T20:12:47.580Z",
+      "sourceId": "698656d72c29beda9c0d4897c4511228"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sony-music-warner-sue-anthropic-alleging-a-brazen-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "slides": [
+        "Why are Sony and Warner suing AI music?",
+        "They accuse Anthropic of systematic lyric theft.",
+        "The lawsuits reveal hidden training data practices.",
+        "Your AI tools may now face legal scrutiny.",
+        "Review your AI's sources before it's too late."
+      ],
+      "thread_text": [
+        "1. The Hidden Threat\n\nSony and Warner's lawsuits could expose how your AI music tools are trained, making them legally risky to use.",
+        "2. Theft at Scale\n\nAnthropic is accused of systematic lyric theft, revealing a pattern that might be common across the industry.",
+        "3. Inside Training Data\n\nThe cases uncover how AI companies secretly compile datasets, and what that means for your own AI-generated content.",
+        "4. Legal Ripple Effect\n\nYour AI tools, even non-music ones, may now face scrutiny for using copyrighted material without permission.",
+        "5. Audit Your AI Now\n\nTake one prompt you've used and trace where its output's source data comes from. Can you verify it's clean?"
+      ],
+      "video_script": [
+        "Sony sues AI over stolen lyrics.",
+        "Anthropic accused of systematic theft.",
+        "Hidden training data exposed in lawsuits.",
+        "Your AI tools could face legal risk.",
+        "Review your AI sources before it's too late."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Hidden Threat\n\nSony and Warner's lawsuits could expose how your AI music tools are trained, making them legally risky to use.",
+            "2. Theft at Scale\n\nAnthropic is accused of systematic lyric theft, revealing a pattern that might be common across the industry.",
+            "3. Inside Training Data\n\nThe cases uncover how AI companies secretly compile datasets, and what that means for your own AI-generated content.",
+            "4. Legal Ripple Effect\n\nYour AI tools, even non-music ones, may now face scrutiny for using copyrighted material without permission.",
+            "5. Audit Your AI Now\n\nTake one prompt you've used and trace where its output's source data comes from. Can you verify it's clean?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sony sues AI over stolen lyrics.",
+            "Anthropic accused of systematic theft.",
+            "Hidden training data exposed in lawsuits.",
+            "Your AI tools could face legal risk.",
+            "Review your AI sources before it's too late."
+          ]
+        },
+        "instagram": {
+          "caption": "Sony Music and Warner just filed a massive lawsuit against Anthropic, claiming the company “brazenly” scraped lyrics from artists like Taylor Swift and Drake to train its AI. 🎤\n\nThe case alleges a “systematic campaign” of theft, and it’s pulling back the curtain on how AI companies quietly build their datasets. If true, this isn’t just about one chatbot—it reveals a pattern that could affect every AI tool you rely on. ⚖️\n\nYour content creation pipeline just got riskier. If courts side with the labels, any AI output built on unlicensed data could become legally toxic for you to publish. 🚨\n\nTrace the last AI-generated piece you posted—can you prove its source data was legally obtained? If not, what’s your backup plan?"
+        }
+      },
+      "instagram_caption": "Sony Music and Warner just filed a massive lawsuit against Anthropic, claiming the company “brazenly” scraped lyrics from artists like Taylor Swift and Drake to train its AI. 🎤\n\nThe case alleges a “systematic campaign” of theft, and it’s pulling back the curtain on how AI companies quietly build their datasets. If true, this isn’t just about one chatbot—it reveals a pattern that could affect every AI tool you rely on. ⚖️\n\nYour content creation pipeline just got riskier. If courts side with the labels, any AI output built on unlicensed data could become legally toxic for you to publish. 🚨\n\nTrace the last AI-generated piece you posted—can you prove its source data was legally obtained? If not, what’s your backup plan?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI music is legally risky?",
+          "description": "Sony and Warner's lawsuits may expose how AI tools are trained, making them legally risky to use.",
+          "visual_hint": "Gavel next to music",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "Systematic lyric theft alleged",
+          "description": "Anthropic is accused of stealing lyrics at scale, revealing a pattern that might be common across the industry.",
+          "visual_hint": "Magnifying glass over lyrics",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass documents",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "How are AI datasets compiled?",
+          "description": "The cases uncover secret data compilation practices, raising questions about the legitimacy of your own AI-generated content.",
+          "visual_hint": "Server racks with data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI tools face legal scrutiny",
+          "description": "Even non-music AI tools may now face scrutiny for using copyrighted material without permission.",
+          "visual_hint": "Robot in a courtroom",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "robot hand",
+          "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to audit your AI now",
+          "description": "Trace your last AI prompt's output back to its source data. Can you verify it's clean?",
+          "visual_hint": "Checklist with magnifier",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "savedAt": "2026-08-29T20:12:34.722Z",
+      "sourceId": "0d18d5472b0375ae5850c2fc0a029608"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "when-agents-act-on-their-own-governance-has-to-liv",
       "prompt_version": "1.0.0",
       "status": "published",

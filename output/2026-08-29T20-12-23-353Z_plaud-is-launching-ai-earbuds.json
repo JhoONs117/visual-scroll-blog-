@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "plaud-is-launching-ai-earbuds",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Plaud is launching AI earbuds",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+  "pubDate": "2026-08-27T13:11:23.000Z",
+  "slides": [
+    "Plaud's new earbuds hear everything—but who controls that audio?",
+    "They pair with an AI that summarizes your entire day's conversations.",
+    "Unlike other earbuds, they record continuously without any indicator light.",
+    "Your meetings, calls, and private chats become searchable text forever.",
+    "Decide now: is effortless memory worth surrendering all privacy?"
+  ],
+  "thread_text": [
+    "1. Who owns your voice?\n\nPlaud's earbuds record everything you say, all day, no light to warn others. Your words become data—but who gets to use it?",
+    "2. No blinking light, no clue\n\nUnlike other earbuds, there's zero indicator when recording. You won't know if you're being taped in a private chat or a sensitive meeting.",
+    "3. Every word, searchable forever\n\nYour conversations turn into text you can search anytime. That means every joke, secret, or slip-up is stored permanently—even after you forget it.",
+    "4. The memory trade-off\n\nYou get a perfect summary of your day, but lose control over what's captured. Employers or hackers could access your most private talks with one breach.",
+    "5. Decide now\n\nNext time you chat, ask: would I say this if it were recorded? If not, these earbuds aren't for you. Test your comfort level today."
+  ],
+  "video_script": [
+    "Earbuds hear everything, no light warning you.",
+    "Your chats become searchable text, stored forever.",
+    "Who controls that audio? You or them?",
+    "Private moments could be exposed in a breach.",
+    "Would you speak if recorded? Decide now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who owns your voice?\n\nPlaud's earbuds record everything you say, all day, no light to warn others. Your words become data—but who gets to use it?",
+        "2. No blinking light, no clue\n\nUnlike other earbuds, there's zero indicator when recording. You won't know if you're being taped in a private chat or a sensitive meeting.",
+        "3. Every word, searchable forever\n\nYour conversations turn into text you can search anytime. That means every joke, secret, or slip-up is stored permanently—even after you forget it.",
+        "4. The memory trade-off\n\nYou get a perfect summary of your day, but lose control over what's captured. Employers or hackers could access your most private talks with one breach.",
+        "5. Decide now\n\nNext time you chat, ask: would I say this if it were recorded? If not, these earbuds aren't for you. Test your comfort level today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Earbuds hear everything, no light warning you.",
+        "Your chats become searchable text, stored forever.",
+        "Who controls that audio? You or them?",
+        "Private moments could be exposed in a breach.",
+        "Would you speak if recorded? Decide now."
+      ]
+    },
+    "instagram": {
+      "caption": "These new earbuds record 100% of your conversations, with no blinking light or any other indicator that they're on.  \nThey auto-generate a searchable text transcript of your entire day, including private chats and meetings.  \nThe audio is stored permanently, so every joke or slip-up becomes a file that could be accessed by an employer or a hacker.  \nFor you, this means your unguarded creative talk becomes a permanent, searchable record—not just a memory.  \nBefore you put them on: would you still say your next sentence if you knew it would be typed out forever? 📝🎙️🔒"
+    }
+  },
+  "instagram_caption": "These new earbuds record 100% of your conversations, with no blinking light or any other indicator that they're on.  \nThey auto-generate a searchable text transcript of your entire day, including private chats and meetings.  \nThe audio is stored permanently, so every joke or slip-up becomes a file that could be accessed by an employer or a hacker.  \nFor you, this means your unguarded creative talk becomes a permanent, searchable record—not just a memory.  \nBefore you put them on: would you still say your next sentence if you knew it would be typed out forever? 📝🎙️🔒",
+  "carousel_slides": [
+    {
+      "hook": "No light. No warning. Recording you.",
+      "description": "Plaud's earbuds record all day with no indicator light, so you never know if a private chat is being captured.",
+      "visual_hint": "Earbud without LED, subtle",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "earbuds closeup"
+    },
+    {
+      "hook": "Who owns your voice?",
+      "description": "Your conversations become searchable data, but you don't control who accesses it—potential for misuse is real.",
+      "visual_hint": "Voice waveform turning to text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "audio waveform",
+      "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is every word permanent?",
+      "description": "Plaud turns your day's chats into searchable text, stored forever—even jokes or secrets you'd rather forget.",
+      "visual_hint": "Magnifying glass over transcript",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "transcript document",
+      "image": "https://images.pexels.com/photos/8085936/pexels-photo-8085936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Memory at what cost?",
+      "description": "You get perfect summaries, but one breach could expose your most private talks to employers or hackers.",
+      "visual_hint": "Hand holding phone with alerts",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you say it if recorded?",
+      "description": "Save this post to weigh your comfort level, or comment 'privacy' to get a checklist of questions before buying.",
+      "visual_hint": "Checklist with privacy items",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-29T20:13:10.617Z",
+  "sourceId": "61451b02ed4bd97a30be86d90def4ec9"
+}
