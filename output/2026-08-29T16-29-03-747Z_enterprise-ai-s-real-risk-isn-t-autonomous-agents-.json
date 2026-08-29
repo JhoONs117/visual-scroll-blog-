@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "enterprise-ai-s-real-risk-isn-t-autonomous-agents-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+  "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+  "pubDate": "Thu, 27 Aug 2026 14:01:00 GMT",
+  "slides": [
+    "The real AI risk isn't agents—it's their tangled web.",
+    "Each agent works fine, but handoffs create unseen chaos.",
+    "A single failed transfer cascades across your whole system.",
+    "You must map and test every inter-agent interaction now.",
+    "Start by auditing one critical cross-agent workflow today."
+  ],
+  "thread_text": [
+    "1. The hidden chaos\n\nEach agent functions alone, but their interactions form a network where a single misstep can trigger system-wide failure.",
+    "2. The handoff trap\n\nA transfer between agents may appear smooth, yet the data flow can break silently, corrupting outcomes before anyone notices.",
+    "3. The cascade effect\n\nOne failed handoff doesn't stay isolated—it ripples through dependencies, turning a small error into a major outage.",
+    "4. Map the web\n\nWithout a clear diagram of every inter-agent interaction, you're blind to the very paths where failures breed.",
+    "5. Audit one workflow\n\nTrace a single critical cross-agent process from start to finish today—what breaks will reveal your system's true fragility."
+  ],
+  "video_script": [
+    "Agents work alone, but chaos spreads through their connections.",
+    "A single bad handoff can silently corrupt everything.",
+    "One failure cascades, turning small errors into outages.",
+    "You need to map every inter-agent interaction now.",
+    "Audit one critical workflow today, find the fragility."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The hidden chaos\n\nEach agent functions alone, but their interactions form a network where a single misstep can trigger system-wide failure.",
+        "2. The handoff trap\n\nA transfer between agents may appear smooth, yet the data flow can break silently, corrupting outcomes before anyone notices.",
+        "3. The cascade effect\n\nOne failed handoff doesn't stay isolated—it ripples through dependencies, turning a small error into a major outage.",
+        "4. Map the web\n\nWithout a clear diagram of every inter-agent interaction, you're blind to the very paths where failures breed.",
+        "5. Audit one workflow\n\nTrace a single critical cross-agent process from start to finish today—what breaks will reveal your system's true fragility."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Agents work alone, but chaos spreads through their connections.",
+        "A single bad handoff can silently corrupt everything.",
+        "One failure cascades, turning small errors into outages.",
+        "You need to map every inter-agent interaction now.",
+        "Audit one critical workflow today, find the fragility."
+      ]
+    },
+    "instagram": {
+      "caption": "One failed handoff between two AI systems can take down your entire pipeline — and you won’t even see it break.  \n\nThe real threat in enterprise AI isn’t the agents themselves, but the connections between them. Each one works in isolation, yet their transfers form a web where a single silent data slip corrupts every downstream step 🔗. A small error turns into a full outage before anyone catches it.  \n\nIf you build or manage AI workflows, this means your weakest link isn’t the model — it’s the unexamined gap between tools you assumed were compatible 🧩.  \n\nPick one critical cross-agent process you run and trace it end-to-end today: what happens when the first transfer fails? 🕵️"
+    }
+  },
+  "instagram_caption": "One failed handoff between two AI systems can take down your entire pipeline — and you won’t even see it break.  \n\nThe real threat in enterprise AI isn’t the agents themselves, but the connections between them. Each one works in isolation, yet their transfers form a web where a single silent data slip corrupts every downstream step 🔗. A small error turns into a full outage before anyone catches it.  \n\nIf you build or manage AI workflows, this means your weakest link isn’t the model — it’s the unexamined gap between tools you assumed were compatible 🧩.  \n\nPick one critical cross-agent process you run and trace it end-to-end today: what happens when the first transfer fails? 🕵️",
+  "carousel_slides": [
+    {
+      "hook": "One failed handoff can crash everything.",
+      "description": "A single silent data break between agents cascades through dependencies, turning a small error into a major outage before anyone notices.",
+      "visual_hint": "Web of tangled lines with red break",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "network cables tangled"
+    },
+    {
+      "hook": "Smooth transfers hide silent corruption.",
+      "description": "An agent handoff may look fine, yet data flow can break invisibly, corrupting outcomes until it's too late to fix.",
+      "visual_hint": "Invisible crack in data stream",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The cascade effect is your real threat.",
+      "description": "One failed transfer doesn't stay isolated—it ripples through dependencies, escalating a tiny error into system-wide failure.",
+      "visual_hint": "Rippling shockwave through network",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "ripple water surface",
+      "image": "https://images.pexels.com/photos/32308449/pexels-photo-32308449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You're blind to failure paths.",
+      "description": "Without mapping every inter-agent interaction, you can't see where failures breed. Trace one critical workflow to uncover hidden fragility.",
+      "visual_hint": "Hand tracing node connections on map",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand pointing diagram",
+      "image": "https://images.pexels.com/photos/8327813/pexels-photo-8327813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—audit one workflow now.",
+      "description": "Pick a single critical cross-agent process and trace it from start to finish today. What breaks will reveal your system's true fragility.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-08-29T16:29:39.869Z",
+  "sourceId": "975b7811b08d88930ac63773e13cbf89"
+}

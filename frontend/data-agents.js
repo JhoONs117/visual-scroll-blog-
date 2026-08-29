@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "when-agents-act-on-their-own-governance-has-to-liv",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "pubDate": "Thu, 27 Aug 2026 12:01:00 GMT",
+      "slides": [
+        "Can autonomous agents be governed by data alone?",
+        "Traditional policies fail when agents act independently.",
+        "Governance must shift into the data layer itself.",
+        "This embeds rules directly into every agent action.",
+        "Start auditing your data layer for agent governance."
+      ],
+      "thread_text": [
+        "1. Who watches the agents?\n\nWhen an AI agent acts alone, no policy can stop it in time. The only fix is to write the rules into the data it reads.",
+        "2. Rules in the data\n\nImagine a database that refuses to give an agent the price until it has checked the ethics flag. That's governance at the point of action, not after.",
+        "3. The audit we skip\n\nMost companies audit their models, not their data. But the data is where the agent gets its orders. Miss that, and you're flying blind.",
+        "4. A shift in control\n\nMoving governance into the data layer flips the power: the system itself enforces limits, not humans after the fact. It's a new kind of accountability.",
+        "5. Start with one query\n\nOpen your production database and trace what an agent would receive for a sensitive request. If you can't see the guardrails, the agent can't either."
+      ],
+      "video_script": [
+        "Can data alone govern autonomous agents?",
+        "Traditional policies fail when agents act independently.",
+        "Governance must shift into the data layer.",
+        "Embed rules directly into every agent action.",
+        "Start auditing your data layer today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who watches the agents?\n\nWhen an AI agent acts alone, no policy can stop it in time. The only fix is to write the rules into the data it reads.",
+            "2. Rules in the data\n\nImagine a database that refuses to give an agent the price until it has checked the ethics flag. That's governance at the point of action, not after.",
+            "3. The audit we skip\n\nMost companies audit their models, not their data. But the data is where the agent gets its orders. Miss that, and you're flying blind.",
+            "4. A shift in control\n\nMoving governance into the data layer flips the power: the system itself enforces limits, not humans after the fact. It's a new kind of accountability.",
+            "5. Start with one query\n\nOpen your production database and trace what an agent would receive for a sensitive request. If you can't see the guardrails, the agent can't either."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can data alone govern autonomous agents?",
+            "Traditional policies fail when agents act independently.",
+            "Governance must shift into the data layer.",
+            "Embed rules directly into every agent action.",
+            "Start auditing your data layer today."
+          ]
+        },
+        "instagram": {
+          "caption": "A single action from an autonomous agent can ignore every policy your team wrote last quarter.  \n\nThe argument now: rules have to live inside the data itself, not in a manual someone reviews later. A database that refuses a price until an ethics flag is checked—that's enforcement at the point of action, not after the damage. Most teams audit models, but the data layer is where the agent takes its orders. Miss that, and you're flying blind.  \n\nIf you build content or run tools, your pipeline now includes invisible guardrails in production queries.  \n\nOpen one database and trace what an agent would receive for a sensitive request. If you can't see the limits, the agent can't either. 🔍🛡️"
+        }
+      },
+      "instagram_caption": "A single action from an autonomous agent can ignore every policy your team wrote last quarter.  \n\nThe argument now: rules have to live inside the data itself, not in a manual someone reviews later. A database that refuses a price until an ethics flag is checked—that's enforcement at the point of action, not after the damage. Most teams audit models, but the data layer is where the agent takes its orders. Miss that, and you're flying blind.  \n\nIf you build content or run tools, your pipeline now includes invisible guardrails in production queries.  \n\nOpen one database and trace what an agent would receive for a sensitive request. If you can't see the limits, the agent can't either. 🔍🛡️",
+      "carousel_slides": [
+        {
+          "hook": "Who watches the agents?",
+          "description": "When an AI agent acts alone, no policy stops it in time. Rules must live in the data it reads.",
+          "visual_hint": "Agent facing blank policy wall",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Rules embedded in data",
+          "description": "A database can refuse a price until ethics flags pass. Governance at the point of action, not after.",
+          "visual_hint": "Database refusing request mid-action",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "database server",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The audit we skip",
+          "description": "Most companies audit models, not data. But data gives agents their orders. Miss that, you're blind.",
+          "visual_hint": "Microscope scanning raw data rows",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Shift control to the system",
+          "description": "Data-layer governance flips power: the system enforces limits, not humans after the fact. New accountability.",
+          "visual_hint": "Hand passing control to machine",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "control room",
+          "image": "https://images.pexels.com/photos/15056120/pexels-photo-15056120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start with one query",
+          "description": "Trace what an agent receives for a sensitive request. If you can't see guardrails, agents can't either.",
+          "visual_hint": "Finger pointing at SQL query",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-29T16:29:50.027Z",
+      "sourceId": "b6edaf7b0dd82ef73d3edea940dfbc50"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "enterprise-ai-s-real-risk-isn-t-autonomous-agents-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "pubDate": "Thu, 27 Aug 2026 14:01:00 GMT",
+      "slides": [
+        "The real AI risk isn't agents—it's their tangled web.",
+        "Each agent works fine, but handoffs create unseen chaos.",
+        "A single failed transfer cascades across your whole system.",
+        "You must map and test every inter-agent interaction now.",
+        "Start by auditing one critical cross-agent workflow today."
+      ],
+      "thread_text": [
+        "1. The hidden chaos\n\nEach agent functions alone, but their interactions form a network where a single misstep can trigger system-wide failure.",
+        "2. The handoff trap\n\nA transfer between agents may appear smooth, yet the data flow can break silently, corrupting outcomes before anyone notices.",
+        "3. The cascade effect\n\nOne failed handoff doesn't stay isolated—it ripples through dependencies, turning a small error into a major outage.",
+        "4. Map the web\n\nWithout a clear diagram of every inter-agent interaction, you're blind to the very paths where failures breed.",
+        "5. Audit one workflow\n\nTrace a single critical cross-agent process from start to finish today—what breaks will reveal your system's true fragility."
+      ],
+      "video_script": [
+        "Agents work alone, but chaos spreads through their connections.",
+        "A single bad handoff can silently corrupt everything.",
+        "One failure cascades, turning small errors into outages.",
+        "You need to map every inter-agent interaction now.",
+        "Audit one critical workflow today, find the fragility."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The hidden chaos\n\nEach agent functions alone, but their interactions form a network where a single misstep can trigger system-wide failure.",
+            "2. The handoff trap\n\nA transfer between agents may appear smooth, yet the data flow can break silently, corrupting outcomes before anyone notices.",
+            "3. The cascade effect\n\nOne failed handoff doesn't stay isolated—it ripples through dependencies, turning a small error into a major outage.",
+            "4. Map the web\n\nWithout a clear diagram of every inter-agent interaction, you're blind to the very paths where failures breed.",
+            "5. Audit one workflow\n\nTrace a single critical cross-agent process from start to finish today—what breaks will reveal your system's true fragility."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Agents work alone, but chaos spreads through their connections.",
+            "A single bad handoff can silently corrupt everything.",
+            "One failure cascades, turning small errors into outages.",
+            "You need to map every inter-agent interaction now.",
+            "Audit one critical workflow today, find the fragility."
+          ]
+        },
+        "instagram": {
+          "caption": "One failed handoff between two AI systems can take down your entire pipeline — and you won’t even see it break.  \n\nThe real threat in enterprise AI isn’t the agents themselves, but the connections between them. Each one works in isolation, yet their transfers form a web where a single silent data slip corrupts every downstream step 🔗. A small error turns into a full outage before anyone catches it.  \n\nIf you build or manage AI workflows, this means your weakest link isn’t the model — it’s the unexamined gap between tools you assumed were compatible 🧩.  \n\nPick one critical cross-agent process you run and trace it end-to-end today: what happens when the first transfer fails? 🕵️"
+        }
+      },
+      "instagram_caption": "One failed handoff between two AI systems can take down your entire pipeline — and you won’t even see it break.  \n\nThe real threat in enterprise AI isn’t the agents themselves, but the connections between them. Each one works in isolation, yet their transfers form a web where a single silent data slip corrupts every downstream step 🔗. A small error turns into a full outage before anyone catches it.  \n\nIf you build or manage AI workflows, this means your weakest link isn’t the model — it’s the unexamined gap between tools you assumed were compatible 🧩.  \n\nPick one critical cross-agent process you run and trace it end-to-end today: what happens when the first transfer fails? 🕵️",
+      "carousel_slides": [
+        {
+          "hook": "One failed handoff can crash everything.",
+          "description": "A single silent data break between agents cascades through dependencies, turning a small error into a major outage before anyone notices.",
+          "visual_hint": "Web of tangled lines with red break",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "network cables tangled"
+        },
+        {
+          "hook": "Smooth transfers hide silent corruption.",
+          "description": "An agent handoff may look fine, yet data flow can break invisibly, corrupting outcomes until it's too late to fix.",
+          "visual_hint": "Invisible crack in data stream",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The cascade effect is your real threat.",
+          "description": "One failed transfer doesn't stay isolated—it ripples through dependencies, escalating a tiny error into system-wide failure.",
+          "visual_hint": "Rippling shockwave through network",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ripple water surface",
+          "image": "https://images.pexels.com/photos/32308449/pexels-photo-32308449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You're blind to failure paths.",
+          "description": "Without mapping every inter-agent interaction, you can't see where failures breed. Trace one critical workflow to uncover hidden fragility.",
+          "visual_hint": "Hand tracing node connections on map",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand pointing diagram",
+          "image": "https://images.pexels.com/photos/8327813/pexels-photo-8327813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—audit one workflow now.",
+          "description": "Pick a single critical cross-agent process and trace it from start to finish today. What breaks will reveal your system's true fragility.",
+          "visual_hint": "Checklist with magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/15559030/pexels-photo-15559030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-08-29T16:29:39.869Z",
+      "sourceId": "975b7811b08d88930ac63773e13cbf89"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-executive-leaves-for-openai-as-the-social-med",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "slides": [
+        "Why did Meta's top executive jump to OpenAI?",
+        "The move comes amid rising Indian regulatory pressure.",
+        "OpenAI gains insider knowledge while Meta loses key leadership.",
+        "This signals an AI brain drain from traditional social media.",
+        "Watch how this impacts Meta's India strategy, immediately."
+      ],
+      "thread_text": [
+        "1. Meta's loss, OpenAI's gain\n\nTop executive jumps ship as India tightens the screws—timing is everything.",
+        "2. Regulatory heat in India\n\nNew pressure mounts on Meta's data practices, pushing key talent to seek refuge elsewhere.",
+        "3. Insider knowledge flows\n\nOpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles for stability.",
+        "4. AI brain drain accelerates\n\nWhen social media giants lose AI leaders, it's a signal: the future is shifting fast.",
+        "5. Watch your portfolio?\n\nIf you're betting on Meta's India strategy, check the latest moves—does your risk plan account for this?"
+      ],
+      "video_script": [
+        "Meta's top exec jumps to OpenAI.",
+        "Regulatory pressure in India rises.",
+        "OpenAI gains insider knowledge.",
+        "Meta loses key leadership.",
+        "Watch India strategy impact now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's loss, OpenAI's gain\n\nTop executive jumps ship as India tightens the screws—timing is everything.",
+            "2. Regulatory heat in India\n\nNew pressure mounts on Meta's data practices, pushing key talent to seek refuge elsewhere.",
+            "3. Insider knowledge flows\n\nOpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles for stability.",
+            "4. AI brain drain accelerates\n\nWhen social media giants lose AI leaders, it's a signal: the future is shifting fast.",
+            "5. Watch your portfolio?\n\nIf you're betting on Meta's India strategy, check the latest moves—does your risk plan account for this?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's top exec jumps to OpenAI.",
+            "Regulatory pressure in India rises.",
+            "OpenAI gains insider knowledge.",
+            "Meta loses key leadership.",
+            "Watch India strategy impact now."
+          ]
+        },
+        "instagram": {
+          "caption": "Meta's India policy lead just left for OpenAI as New Delhi's pressure on data rules hits a nerve.\n\nSame week India tightens scrutiny on how platforms handle user data, the person who knew Meta's compliance playbook now works for its top AI rival. That's a direct leak of strategic insight.\n\nOpenAI gets the map of Meta's weak spots. Meta loses the person who could navigate India's regulatory maze.\n\nFor anyone building on Meta's Indian ad tools or APIs, expect slower responses on data requests and shifting content policies.\n\nGetting caught off-guard by what's already broken isn't strategy — is your content pipeline built for this drift? 🚨🧠"
+        }
+      },
+      "instagram_caption": "Meta's India policy lead just left for OpenAI as New Delhi's pressure on data rules hits a nerve.\n\nSame week India tightens scrutiny on how platforms handle user data, the person who knew Meta's compliance playbook now works for its top AI rival. That's a direct leak of strategic insight.\n\nOpenAI gets the map of Meta's weak spots. Meta loses the person who could navigate India's regulatory maze.\n\nFor anyone building on Meta's Indian ad tools or APIs, expect slower responses on data requests and shifting content policies.\n\nGetting caught off-guard by what's already broken isn't strategy — is your content pipeline built for this drift? 🚨🧠",
+      "carousel_slides": [
+        {
+          "hook": "Meta's loss, OpenAI's gain?",
+          "description": "A top Meta executive defects to OpenAI amid India's tightening regulatory pressure on data practices. This insider shift could reshape AI competition.",
+          "visual_hint": "Handoff between two logos",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "corporate handshake office"
+        },
+        {
+          "hook": "India's regulatory heat rises",
+          "description": "New pressure mounts on Meta's data practices in India, pushing key talent to seek opportunities elsewhere—a warning sign for the company's stability.",
+          "visual_hint": "Document with warning stamp",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "government building india",
+          "image": "https://images.pexels.com/photos/36335015/pexels-photo-36335015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Insider knowledge flows to OpenAI",
+          "description": "OpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles to fill leadership gaps and maintain its competitive edge.",
+          "visual_hint": "Pipeline transferring glowing data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "data server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI brain drain accelerates",
+          "description": "When social media giants lose AI leaders, it signals a strategic shift. Meta's loss highlights the fast-moving future of AI innovation.",
+          "visual_hint": "Glowing brain leaving building",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers leaving",
+          "image": "https://images.pexels.com/photos/11665322/pexels-photo-11665322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your next move",
+          "description": "If you're betting on Meta's India strategy, check the latest moves and reassess your risk plan. Follow for more tech insights.",
+          "visual_hint": "Save icon with chart",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "savedAt": "2026-08-29T16:29:28.293Z",
+      "sourceId": "354d791d28ecaaab24afea29bd2492a4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-s-ai-advantage-is-moving-beyond-the-gpu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "slides": [
+        "Nvidia's edge now? Beyond raw GPU silicon.",
+        "Their secret weapon: a full software moat.",
+        "CUDA's fortress hides a new networking surprise.",
+        "Your AI stack's bottleneck may be inside.",
+        "Scrutinize your interconnect: this shifts your strategy."
+      ],
+      "thread_text": [
+        "1. The real Nvidia moat\n\nYour AI model's speed may be limited by the network inside the data center, not the GPU. Nvidia's secret weapon is now a networking surprise.",
+        "2. CUDA's hidden fortress\n\nCUDA locks developers into Nvidia's ecosystem, but the new edge is in the interconnect. This shifts where the bottleneck lies in your AI stack.",
+        "3. Inside the box\n\nThe bottleneck is inside the server, between GPUs. Nvidia's networking tech, like NVLink, is becoming the strategic battleground.",
+        "4. Your stack's weak point\n\nIf you're optimizing only GPU compute, you're missing the real constraint. The interconnect is the new lever for AI performance.",
+        "5. Scrutinize your interconnect\n\nCheck if your AI workload is network-bound. Run a test with a small cluster and compare bottleneck profiles. Does your strategy need a shift?"
+      ],
+      "video_script": [
+        "Nvidia's moat isn't just chips.",
+        "It's software and networking too.",
+        "CUDA locks you in, but now interconnect matters.",
+        "Your AI bottleneck may be inside.",
+        "Check your network before scaling GPUs."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The real Nvidia moat\n\nYour AI model's speed may be limited by the network inside the data center, not the GPU. Nvidia's secret weapon is now a networking surprise.",
+            "2. CUDA's hidden fortress\n\nCUDA locks developers into Nvidia's ecosystem, but the new edge is in the interconnect. This shifts where the bottleneck lies in your AI stack.",
+            "3. Inside the box\n\nThe bottleneck is inside the server, between GPUs. Nvidia's networking tech, like NVLink, is becoming the strategic battleground.",
+            "4. Your stack's weak point\n\nIf you're optimizing only GPU compute, you're missing the real constraint. The interconnect is the new lever for AI performance.",
+            "5. Scrutinize your interconnect\n\nCheck if your AI workload is network-bound. Run a test with a small cluster and compare bottleneck profiles. Does your strategy need a shift?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia's moat isn't just chips.",
+            "It's software and networking too.",
+            "CUDA locks you in, but now interconnect matters.",
+            "Your AI bottleneck may be inside.",
+            "Check your network before scaling GPUs."
+          ]
+        },
+        "instagram": {
+          "caption": "Your GPU’s speed might not be the thing slowing your AI down — it’s the wires between them.\n\nNvidia’s real edge is no longer just the chip. They’ve built a software lock-in with CUDA, but the new battleground is inside the server: the interconnect. NVLink and similar tech decide how fast your models actually run when they talk to each other. That’s where the bottleneck now lives. 🔌\n\nIf you’ve been pouring money into raw compute, you might be missing the actual constraint. Your stack can be network-bound, and you wouldn’t know until you test it. ⚡\n\nSo: when did you last check if your workload is interconnect-limited, not GPU-limited? Run a small-cluster test this week and compare the profiles.\n\nDoes that change where you invest next? 🤔"
+        }
+      },
+      "instagram_caption": "Your GPU’s speed might not be the thing slowing your AI down — it’s the wires between them.\n\nNvidia’s real edge is no longer just the chip. They’ve built a software lock-in with CUDA, but the new battleground is inside the server: the interconnect. NVLink and similar tech decide how fast your models actually run when they talk to each other. That’s where the bottleneck now lives. 🔌\n\nIf you’ve been pouring money into raw compute, you might be missing the actual constraint. Your stack can be network-bound, and you wouldn’t know until you test it. ⚡\n\nSo: when did you last check if your workload is interconnect-limited, not GPU-limited? Run a small-cluster test this week and compare the profiles.\n\nDoes that change where you invest next? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your AI bottleneck isn't the GPU",
+          "description": "The real bottleneck is inside the server, between GPUs. Nvidia's networking tech like NVLink is now the strategic battleground.",
+          "visual_hint": "Two GPUs connected by cables",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "CUDA's fortress hides a secret",
+          "description": "CUDA locks developers into Nvidia's ecosystem, but the new edge is in the interconnect. This shifts where the bottleneck lies in your AI stack.",
+          "visual_hint": "Futuristic fortress with code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The network inside the box",
+          "description": "Nvidia's secret weapon is now a networking surprise. Your AI model's speed may be limited by the network inside the data center, not the GPU.",
+          "visual_hint": "Close-up of a network switch",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network switch",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Optimizing compute? You're missing it",
+          "description": "If you're optimizing only GPU compute, you're missing the real constraint. The interconnect is the new lever for AI performance.",
+          "visual_hint": "Hand pointing at a bottleneck chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "performance chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to check your stack",
+          "description": "Run a test with a small cluster and compare bottleneck profiles. Is your workload network-bound? Adjust your strategy today.",
+          "visual_hint": "Checklist and magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "cluster computers",
+          "image": "https://images.pexels.com/photos/31145466/pexels-photo-31145466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "savedAt": "2026-08-29T16:29:15.918Z",
+      "sourceId": "e277e4a4618df51612b5dcc8ba38f6cb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-s-rogue-ai-model-incident-was-worse-than-we",
       "prompt_version": "1.0.0",
       "status": "published",

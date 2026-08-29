@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-executive-leaves-for-openai-as-the-social-med",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+  "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+  "pubDate": "Fri, 28 Aug 2026 12:21:06 +0000",
+  "slides": [
+    "Why did Meta's top executive jump to OpenAI?",
+    "The move comes amid rising Indian regulatory pressure.",
+    "OpenAI gains insider knowledge while Meta loses key leadership.",
+    "This signals an AI brain drain from traditional social media.",
+    "Watch how this impacts Meta's India strategy, immediately."
+  ],
+  "thread_text": [
+    "1. Meta's loss, OpenAI's gain\n\nTop executive jumps ship as India tightens the screws—timing is everything.",
+    "2. Regulatory heat in India\n\nNew pressure mounts on Meta's data practices, pushing key talent to seek refuge elsewhere.",
+    "3. Insider knowledge flows\n\nOpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles for stability.",
+    "4. AI brain drain accelerates\n\nWhen social media giants lose AI leaders, it's a signal: the future is shifting fast.",
+    "5. Watch your portfolio?\n\nIf you're betting on Meta's India strategy, check the latest moves—does your risk plan account for this?"
+  ],
+  "video_script": [
+    "Meta's top exec jumps to OpenAI.",
+    "Regulatory pressure in India rises.",
+    "OpenAI gains insider knowledge.",
+    "Meta loses key leadership.",
+    "Watch India strategy impact now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's loss, OpenAI's gain\n\nTop executive jumps ship as India tightens the screws—timing is everything.",
+        "2. Regulatory heat in India\n\nNew pressure mounts on Meta's data practices, pushing key talent to seek refuge elsewhere.",
+        "3. Insider knowledge flows\n\nOpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles for stability.",
+        "4. AI brain drain accelerates\n\nWhen social media giants lose AI leaders, it's a signal: the future is shifting fast.",
+        "5. Watch your portfolio?\n\nIf you're betting on Meta's India strategy, check the latest moves—does your risk plan account for this?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's top exec jumps to OpenAI.",
+        "Regulatory pressure in India rises.",
+        "OpenAI gains insider knowledge.",
+        "Meta loses key leadership.",
+        "Watch India strategy impact now."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta's India policy lead just left for OpenAI as New Delhi's pressure on data rules hits a nerve.\n\nSame week India tightens scrutiny on how platforms handle user data, the person who knew Meta's compliance playbook now works for its top AI rival. That's a direct leak of strategic insight.\n\nOpenAI gets the map of Meta's weak spots. Meta loses the person who could navigate India's regulatory maze.\n\nFor anyone building on Meta's Indian ad tools or APIs, expect slower responses on data requests and shifting content policies.\n\nGetting caught off-guard by what's already broken isn't strategy — is your content pipeline built for this drift? 🚨🧠"
+    }
+  },
+  "instagram_caption": "Meta's India policy lead just left for OpenAI as New Delhi's pressure on data rules hits a nerve.\n\nSame week India tightens scrutiny on how platforms handle user data, the person who knew Meta's compliance playbook now works for its top AI rival. That's a direct leak of strategic insight.\n\nOpenAI gets the map of Meta's weak spots. Meta loses the person who could navigate India's regulatory maze.\n\nFor anyone building on Meta's Indian ad tools or APIs, expect slower responses on data requests and shifting content policies.\n\nGetting caught off-guard by what's already broken isn't strategy — is your content pipeline built for this drift? 🚨🧠",
+  "carousel_slides": [
+    {
+      "hook": "Meta's loss, OpenAI's gain?",
+      "description": "A top Meta executive defects to OpenAI amid India's tightening regulatory pressure on data practices. This insider shift could reshape AI competition.",
+      "visual_hint": "Handoff between two logos",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate handshake office"
+    },
+    {
+      "hook": "India's regulatory heat rises",
+      "description": "New pressure mounts on Meta's data practices in India, pushing key talent to seek opportunities elsewhere—a warning sign for the company's stability.",
+      "visual_hint": "Document with warning stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building india",
+      "image": "https://images.pexels.com/photos/36335015/pexels-photo-36335015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Insider knowledge flows to OpenAI",
+      "description": "OpenAI gets a direct pipeline to Meta's playbook, while its rival scrambles to fill leadership gaps and maintain its competitive edge.",
+      "visual_hint": "Pipeline transferring glowing data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI brain drain accelerates",
+      "description": "When social media giants lose AI leaders, it signals a strategic shift. Meta's loss highlights the fast-moving future of AI innovation.",
+      "visual_hint": "Glowing brain leaving building",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers leaving",
+      "image": "https://images.pexels.com/photos/11665322/pexels-photo-11665322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next move",
+      "description": "If you're betting on Meta's India strategy, check the latest moves and reassess your risk plan. Follow for more tech insights.",
+      "visual_hint": "Save icon with chart",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+  "savedAt": "2026-08-29T16:29:28.293Z",
+  "sourceId": "354d791d28ecaaab24afea29bd2492a4"
+}
