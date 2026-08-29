@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-gets-its-first-court-win-over-the-pentag",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+  "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+  "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
+  "slides": [
+    "Anthropic beat a Pentagon label — but how?",
+    "US court deemed the supplier warning unlawful",
+    "The verdict also exposes untapped legal options",
+    "Your AI vendor contracts now need new audits",
+    "Act: review risk labels your government issued"
+  ],
+  "thread_text": [
+    "1. Who really won?\n\nAnthropic's AI was quietly labeled a national security risk by the Pentagon, then the label was struck down in court. The real story is how that label got there in the first place.",
+    "2. The unlawful warning\n\nA US court ruled the Pentagon's supplier warning about Anthropic was unlawful. That ruling didn't just clear Anthropic—it exposed that other companies may have been unfairly flagged too.",
+    "3. Hidden legal moves\n\nThe verdict opens doors for other AI vendors. They can now challenge risk labels that were never backed by proper process. This is a legal precedent, not just a PR win.",
+    "4. Audit your contracts\n\nYour AI vendor contracts need a new audit now. Look for clauses that tie compliance to government risk labels. If those labels are unlawful, your obligations might be void too.",
+    "5. Check your labels\n\nReview any risk labels your government or industry body issued about your AI tools. If they were made without due process, you might have a case. Act this week—don't wait for a lawsuit."
+  ],
+  "video_script": [
+    "Anthropic beat a Pentagon label in court.",
+    "The warning was ruled unlawful, a big deal.",
+    "This opens legal options for other vendors.",
+    "Your AI contracts now need new audits.",
+    "Review government risk labels on your AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who really won?\n\nAnthropic's AI was quietly labeled a national security risk by the Pentagon, then the label was struck down in court. The real story is how that label got there in the first place.",
+        "2. The unlawful warning\n\nA US court ruled the Pentagon's supplier warning about Anthropic was unlawful. That ruling didn't just clear Anthropic—it exposed that other companies may have been unfairly flagged too.",
+        "3. Hidden legal moves\n\nThe verdict opens doors for other AI vendors. They can now challenge risk labels that were never backed by proper process. This is a legal precedent, not just a PR win.",
+        "4. Audit your contracts\n\nYour AI vendor contracts need a new audit now. Look for clauses that tie compliance to government risk labels. If those labels are unlawful, your obligations might be void too.",
+        "5. Check your labels\n\nReview any risk labels your government or industry body issued about your AI tools. If they were made without due process, you might have a case. Act this week—don't wait for a lawsuit."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic beat a Pentagon label in court.",
+        "The warning was ruled unlawful, a big deal.",
+        "This opens legal options for other vendors.",
+        "Your AI contracts now need new audits.",
+        "Review government risk labels on your AI."
+      ]
+    },
+    "instagram": {
+      "caption": "A Pentagon risk label on your AI vendor might be legally worthless right now. 🏛️\n\nAnthropic just won a court ruling that struck down a national security warning the Pentagon had quietly attached to them. The judge said the label was unlawful — which means the entire process behind it was flawed.\n\nThat's not just their win. If you signed an AI contract tied to government risk labels, those obligations could be void too. Vendors now have ammunition to challenge similar warnings. ⚖️\n\nIf you use AI tools for work, check whether any government or industry red flag exists on your provider — and ask for proof it was properly issued. Your compliance might be built on shaky ground.\n\nWhat would you do if your core AI tool got flagged tomorrow? 📋"
+    }
+  },
+  "instagram_caption": "A Pentagon risk label on your AI vendor might be legally worthless right now. 🏛️\n\nAnthropic just won a court ruling that struck down a national security warning the Pentagon had quietly attached to them. The judge said the label was unlawful — which means the entire process behind it was flawed.\n\nThat's not just their win. If you signed an AI contract tied to government risk labels, those obligations could be void too. Vendors now have ammunition to challenge similar warnings. ⚖️\n\nIf you use AI tools for work, check whether any government or industry red flag exists on your provider — and ask for proof it was properly issued. Your compliance might be built on shaky ground.\n\nWhat would you do if your core AI tool got flagged tomorrow? 📋",
+  "carousel_slides": [
+    {
+      "hook": "Who really lost this case?",
+      "description": "The Pentagon's unlawful label on Anthropic was struck down in court, exposing that other AI vendors may have been unfairly flagged too.",
+      "visual_hint": "Gavel on judge's bench",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "The warning was unlawful",
+      "description": "A US court ruled the Pentagon's supplier warning unlawful, meaning the label lacked proper process—and other companies could be wrongly affected.",
+      "visual_hint": "Document with red stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New legal doors opened",
+      "description": "This verdict gives other AI vendors a precedent to challenge risk labels issued without due process—a game-changer for the industry.",
+      "visual_hint": "Open door with light",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "open door",
+      "image": "https://images.pexels.com/photos/9955027/pexels-photo-9955027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your AI contracts now",
+      "description": "If your vendor contracts tie obligations to unlawful risk labels, those clauses might be void—review them immediately to avoid compliance traps.",
+      "visual_hint": "Magnifying glass on contract",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass contract",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your legal check",
+      "description": "Review any government or industry risk labels on your AI tools. If they were made without due process, you might have a case—act this week.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "savedAt": "2026-08-29T04:54:48.660Z",
+  "sourceId": "0a012eb5128e9efb966b43a7514ac4fc"
+}

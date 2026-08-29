@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-ai-note-taking-app-now-allows-you-to-inte",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s AI note-taking app now allows you to interact with books",
+  "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+  "pubDate": "2026-08-27T19:30:00.000Z",
+  "slides": [
+    "Can Google's NotebookLM replace reading?",
+    "It now lets you chat with uploaded books.",
+    "But it misquotes when pages exceed 500.",
+    "Your workflow shifts from skimming to interrogation.",
+    "Test it on one book before trusting summaries."
+  ],
+  "thread_text": [
+    "1. Chat with your books now\n\nGoogle's NotebookLM lets you ask questions directly to uploaded books, turning static PDFs into conversational partners.",
+    "2. But 500 pages breaks it\n\nWhen books exceed 500 pages, the tool starts misquoting. Your source becomes a gaslighter.",
+    "3. Skimming is dead\n\nYour workflow shifts from skimming to interrogation. You're not reading—you're cross-examining text.",
+    "4. Trust but verify\n\nMisquotations mean you can't trust summaries blindly. Verification becomes part of the job.",
+    "5. Test it before you rely\n\nPut one book through NotebookLM this week. Does it hold up? If not, keep your highlighter."
+  ],
+  "video_script": [
+    "Upload a book, chat with it.",
+    "Over 500 pages, it lies.",
+    "You interrogate instead of skim.",
+    "Verify every summary quote.",
+    "Test one book before trusting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Chat with your books now\n\nGoogle's NotebookLM lets you ask questions directly to uploaded books, turning static PDFs into conversational partners.",
+        "2. But 500 pages breaks it\n\nWhen books exceed 500 pages, the tool starts misquoting. Your source becomes a gaslighter.",
+        "3. Skimming is dead\n\nYour workflow shifts from skimming to interrogation. You're not reading—you're cross-examining text.",
+        "4. Trust but verify\n\nMisquotations mean you can't trust summaries blindly. Verification becomes part of the job.",
+        "5. Test it before you rely\n\nPut one book through NotebookLM this week. Does it hold up? If not, keep your highlighter."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Upload a book, chat with it.",
+        "Over 500 pages, it lies.",
+        "You interrogate instead of skim.",
+        "Verify every summary quote.",
+        "Test one book before trusting."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now interrogate a book instead of reading it. Google’s NotebookLM lets you upload a PDF and chat with it like a source.\n\nBut push past 500 pages and it starts making things up. Misquotations appear, meaning the tool quietly fabricates lines that aren't in the text. Your skim-and-highlight workflow becomes cross-examination mode: you ask, it answers, and you verify everything.\n\nFor anyone writing summaries or citing sources, this changes the trust equation. You can’t delegate comprehension to a chat window when the quotes might be invented.\n\nTest one book under 500 pages this week before you rely on it for anything you publish. Does the trade-off feel worth it to you? 📚🔍🧠"
+    }
+  },
+  "instagram_caption": "You can now interrogate a book instead of reading it. Google’s NotebookLM lets you upload a PDF and chat with it like a source.\n\nBut push past 500 pages and it starts making things up. Misquotations appear, meaning the tool quietly fabricates lines that aren't in the text. Your skim-and-highlight workflow becomes cross-examination mode: you ask, it answers, and you verify everything.\n\nFor anyone writing summaries or citing sources, this changes the trust equation. You can’t delegate comprehension to a chat window when the quotes might be invented.\n\nTest one book under 500 pages this week before you rely on it for anything you publish. Does the trade-off feel worth it to you? 📚🔍🧠",
+  "carousel_slides": [
+    {
+      "hook": "Can AI be trusted with books?",
+      "description": "Google's NotebookLM lets you chat with uploaded books, but when pages exceed 500, it misquotes. Your source becomes unreliable.",
+      "visual_hint": "AI chatbot with open book",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence book"
+    },
+    {
+      "hook": "500 pages breaks the tool.",
+      "description": "When books exceed 500 pages, NotebookLM starts misquoting. Length turns your source into a gaslighter, not a helper.",
+      "visual_hint": "Stack of books with warning",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stack of books",
+      "image": "https://images.pexels.com/photos/28649539/pexels-photo-28649539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skimming is officially dead.",
+      "description": "Your workflow shifts from skimming to interrogation. You're cross-examining text, not just reading it.",
+      "visual_hint": "Magnifying glass over text",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust but verify every summary.",
+      "description": "Misquotations mean you can't trust summaries blindly. Verification becomes part of your job when using AI tools.",
+      "visual_hint": "Hand checking checklist",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand writing checklist",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one book now.",
+      "description": "Put one book through NotebookLM this week and check if it holds up. If not, keep your highlighter.",
+      "visual_hint": "Highlighted book and phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "book and smartphone",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-08-29T04:55:10.939Z",
+  "sourceId": "17d05cd48343908845cef299dc0ca9a0"
+}

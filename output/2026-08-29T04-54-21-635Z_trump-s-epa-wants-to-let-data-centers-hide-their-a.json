@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-s-epa-wants-to-let-data-centers-hide-their-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump’s EPA wants to let data centers hide their air pollution",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+  "pubDate": "2026-08-28T16:28:40.000Z",
+  "slides": [
+    "Can EPA's new rule let data centers pollute invisibly?",
+    "Agencies plan to hide emissions from public reporting systems.",
+    "Even companies with reported violations could stay off the radar.",
+    "Your community oversight data could suddenly go dark.",
+    "Check EPA filings for your state before it's too late."
+  ],
+  "thread_text": [
+    "1. Invisible pollution?\n\nEPA's new rule could strip emissions data from public view, making it impossible to track what data centers release.",
+    "2. Hidden reporting\n\nFederal agencies are moving to exclude these emissions from standard reporting systems, bypassing public disclosure requirements.",
+    "3. Violators escape\n\nEven companies with past violations may avoid scrutiny—their compliance records could be purged from state databases.",
+    "4. Oversight blackout\n\nLocal communities lose access to monitoring data, weakening their ability to challenge permits or demand accountability.",
+    "5. Check your state\n\nSearch EPA filings for your state today. If data is missing, file a FOIA request before it's too late."
+  ],
+  "video_script": [
+    "EPA rule hides data center emissions from public.",
+    "Agencies stop reporting, no oversight possible.",
+    "Violators may vanish from state records.",
+    "Communities lose data, can't fight permits.",
+    "Check state filings, request FOIA now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Invisible pollution?\n\nEPA's new rule could strip emissions data from public view, making it impossible to track what data centers release.",
+        "2. Hidden reporting\n\nFederal agencies are moving to exclude these emissions from standard reporting systems, bypassing public disclosure requirements.",
+        "3. Violators escape\n\nEven companies with past violations may avoid scrutiny—their compliance records could be purged from state databases.",
+        "4. Oversight blackout\n\nLocal communities lose access to monitoring data, weakening their ability to challenge permits or demand accountability.",
+        "5. Check your state\n\nSearch EPA filings for your state today. If data is missing, file a FOIA request before it's too late."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "EPA rule hides data center emissions from public.",
+        "Agencies stop reporting, no oversight possible.",
+        "Violators may vanish from state records.",
+        "Communities lose data, can't fight permits.",
+        "Check state filings, request FOIA now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your town’s air quality data could be in the dark soon.  \n\nThe EPA is planning to let data centers hide their emissions from public reporting. Even companies with past violations could disappear from state databases.  \n\nIf you rely on public records to fact-check claims about local pollution or community health, that source just got a whole lot more fragile.  \n\nWhen the official numbers go quiet, where will you get the real story? 🧐  \n\nCheck your state’s EPA filings this week. If the data’s missing, file a FOIA request now. 📂"
+    }
+  },
+  "instagram_caption": "Your town’s air quality data could be in the dark soon.  \n\nThe EPA is planning to let data centers hide their emissions from public reporting. Even companies with past violations could disappear from state databases.  \n\nIf you rely on public records to fact-check claims about local pollution or community health, that source just got a whole lot more fragile.  \n\nWhen the official numbers go quiet, where will you get the real story? 🧐  \n\nCheck your state’s EPA filings this week. If the data’s missing, file a FOIA request now. 📂",
+  "carousel_slides": [
+    {
+      "hook": "Purged records?",
+      "description": "EPA's rule could erase emissions data from public view, hiding data centers' pollution and making community oversight impossible.",
+      "visual_hint": "Emission cloud vanishing from screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Hidden from public databases.",
+      "description": "Agencies may strip data center emissions from reporting systems, bypassing disclosure requirements and leaving communities in the dark.",
+      "visual_hint": "Database rows disappearing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen code",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Violators could get away.",
+      "description": "Companies with past violations might have their compliance records removed, allowing them to avoid scrutiny and accountability.",
+      "visual_hint": "Fingerprint being wiped clean",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "police officer badge",
+      "image": "https://images.pexels.com/photos/7715197/pexels-photo-7715197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oversight goes dark.",
+      "description": "Communities lose access to monitoring data, weakening their ability to challenge permits or demand accountability on pollution.",
+      "visual_hint": "Screen fading to black",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power plant cooling tower",
+      "image": "https://images.pexels.com/photos/20220791/pexels-photo-20220791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your state's filings.",
+      "description": "Search EPA records now. If data is missing, file a FOIA request before it's too late.",
+      "visual_hint": "Document with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-29T04:55:00.056Z",
+  "sourceId": "2180dceb28797ed4d44f68786c42629e"
+}
