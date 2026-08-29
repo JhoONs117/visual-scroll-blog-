@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "apple-tv-is-raising-its-subscription-prices-again",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Apple TV is raising its subscription prices again",
+      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "pubDate": "Fri, 28 Aug 2026 14:36:48 +0000",
+      "slides": [
+        "Apple TV hikes prices again—why now, and who leaves?",
+        "This third increase in two years hits existing subscribers.",
+        "Apple's service revenue offsets falling hardware sales.",
+        "Your streaming budget just lost another cheap option.",
+        "Cancel now or downgrade—before you pay more."
+      ],
+      "thread_text": [
+        "1. Apple TV+ just got pricier.\n\nExisting subscribers feel the sting as the third hike in two years hits their monthly bill.",
+        "2. Why now, though?\n\nApple’s service revenue is propping up falling hardware sales, so they’re squeezing loyal streamers.",
+        "3. Your budget loses another cheap option.\n\nWith each increase, more viewers weigh canceling or downgrading before the next billing cycle.",
+        "4. The twist: competition stays flat.\n\nRivals hold prices, making Apple’s move stand out—and push switch decisions.",
+        "5. Check your renewal date today.\n\nIf you haven't decided, compare your current plan with what you actually watch—then cancel or downgrade before the hike hits."
+      ],
+      "video_script": [
+        "Apple TV+ raises prices again.",
+        "Third hike in two years.",
+        "Existing subscribers pay more.",
+        "Services offset slumping hardware sales.",
+        "Check your plan and decide now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Apple TV+ just got pricier.\n\nExisting subscribers feel the sting as the third hike in two years hits their monthly bill.",
+            "2. Why now, though?\n\nApple’s service revenue is propping up falling hardware sales, so they’re squeezing loyal streamers.",
+            "3. Your budget loses another cheap option.\n\nWith each increase, more viewers weigh canceling or downgrading before the next billing cycle.",
+            "4. The twist: competition stays flat.\n\nRivals hold prices, making Apple’s move stand out—and push switch decisions.",
+            "5. Check your renewal date today.\n\nIf you haven't decided, compare your current plan with what you actually watch—then cancel or downgrade before the hike hits."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple TV+ raises prices again.",
+            "Third hike in two years.",
+            "Existing subscribers pay more.",
+            "Services offset slumping hardware sales.",
+            "Check your plan and decide now."
+          ]
+        },
+        "instagram": {
+          "caption": "Your third Apple TV+ price hike in two years just hit your monthly bill.\n\nApple is leaning on subscription revenue to offset slowing iPhone and Mac sales, so loyal streamers are paying the difference. This time, rivals like Netflix and Disney aren't following suit—making Apple the outlier.\n\nIf you create content, that's another line item squeezing your production budget or personal watchlist. Every dollar here is one less for tools or research.\n\nBefore your next renewal date, check what you actually watch. Downgrade to the ad tier or cancel outright—or is the convenience worth the extra monthly cost to you? 🎬💸🤔"
+        }
+      },
+      "instagram_caption": "Your third Apple TV+ price hike in two years just hit your monthly bill.\n\nApple is leaning on subscription revenue to offset slowing iPhone and Mac sales, so loyal streamers are paying the difference. This time, rivals like Netflix and Disney aren't following suit—making Apple the outlier.\n\nIf you create content, that's another line item squeezing your production budget or personal watchlist. Every dollar here is one less for tools or research.\n\nBefore your next renewal date, check what you actually watch. Downgrade to the ad tier or cancel outright—or is the convenience worth the extra monthly cost to you? 🎬💸🤔",
+      "carousel_slides": [
+        {
+          "hook": "Another price hike—when does it stop?",
+          "description": "Apple TV+ raises prices again, hitting loyal subscribers. Each increase makes canceling or downgrading more tempting.",
+          "visual_hint": "Price tag with up arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "price tag arrow"
+        },
+        {
+          "hook": "Why Apple keeps raising prices",
+          "description": "Apple's service revenue compensates for falling hardware sales. They're squeezing streamers to balance the books.",
+          "visual_hint": "Apple logo with dollar signs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "apple logo",
+          "image": "https://images.pexels.com/photos/37793330/pexels-photo-37793330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your streaming budget just lost",
+          "description": "Another cheap option disappears. With each hike, more viewers reconsider their subscriptions before renewal.",
+          "visual_hint": "Wallet losing coins",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "wallet coins",
+          "image": "https://images.pexels.com/photos/6328870/pexels-photo-6328870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rivals hold prices—Apple stands out",
+          "description": "Competitors keep prices flat while Apple hikes. This contrast pushes viewers to switch or cancel.",
+          "visual_hint": "Balance scale tilted",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "balance scale",
+          "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check renewal date before you pay more",
+          "description": "Act now: compare your plan with what you watch, then cancel or downgrade before the hike hits.",
+          "visual_hint": "Calendar with deadline",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "calendar date",
+          "image": "https://images.pexels.com/photos/7479755/pexels-photo-7479755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024",
+      "savedAt": "2026-08-29T23:44:31.864Z",
+      "sourceId": "6c34dc78823d5b2ebcf9dbbbd80d8cc8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "plaud-is-launching-ai-earbuds",
       "prompt_version": "1.0.0",
       "status": "published",
