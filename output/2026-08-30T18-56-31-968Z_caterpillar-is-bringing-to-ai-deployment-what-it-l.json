@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-l",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+  "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+  "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
+  "slides": [
+    "How Caterpillar automated mining—and what AI can learn?",
+    "Autonomous trucks already haul ore without drivers.",
+    "Yet their AI models fail in unpredictable weather.",
+    "Your deployment must expect edge cases, not perfect data.",
+    "Test your AI where conditions get messy first."
+  ],
+  "thread_text": [
+    "1. The driver is gone\n\nAutonomous trucks at Caterpillar mines haul ore 24/7, but their AI crashes in fog, rain, or snow.",
+    "2. Perfect data, fragile AI\n\nThese models thrive on sunny, dry test tracks. Add one storm, and they stall—because training never included chaos.",
+    "3. Edge cases are the norm\n\nMines have dust, mud, and sudden rockfalls. Your AI sees those as anomalies, not reality—until it stops working.",
+    "4. You are building for the ideal\n\nIf your deployment relies on clean inputs, you're setting up for failure in production. The real world is inconsistent.",
+    "5. Test in the mess, today\n\nTake one model you have and run it on noisy, messy data this week. If it breaks, fix the gaps now, not later."
+  ],
+  "video_script": [
+    "Autonomous trucks work without drivers, but fail in bad weather.",
+    "They train on perfect sunny data, so storms break them.",
+    "Mines have dust, mud, and sudden rockfalls.",
+    "Your AI must handle real-world mess, not ideal data.",
+    "Test your model on messy inputs this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The driver is gone\n\nAutonomous trucks at Caterpillar mines haul ore 24/7, but their AI crashes in fog, rain, or snow.",
+        "2. Perfect data, fragile AI\n\nThese models thrive on sunny, dry test tracks. Add one storm, and they stall—because training never included chaos.",
+        "3. Edge cases are the norm\n\nMines have dust, mud, and sudden rockfalls. Your AI sees those as anomalies, not reality—until it stops working.",
+        "4. You are building for the ideal\n\nIf your deployment relies on clean inputs, you're setting up for failure in production. The real world is inconsistent.",
+        "5. Test in the mess, today\n\nTake one model you have and run it on noisy, messy data this week. If it breaks, fix the gaps now, not later."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Autonomous trucks work without drivers, but fail in bad weather.",
+        "They train on perfect sunny data, so storms break them.",
+        "Mines have dust, mud, and sudden rockfalls.",
+        "Your AI must handle real-world mess, not ideal data.",
+        "Test your model on messy inputs this week."
+      ]
+    },
+    "instagram": {
+      "caption": "A driverless dump truck glides through a mine at 3 AM—until fog rolls in, and the whole system freezes.\n\nCaterpillar learned this the hard way: their autonomous trucks nail sunny test tracks, but rain, mud, and dust turn flawless AI into stalled metal. The fix isn't more data. It's building for broken conditions from day one, not after launch.\n\nFor anyone shipping AI—whether it's copy, code, or captions—this means your clean, curated datasets are a trap. Production is messy, unpredicted, and full of edge cases that look like errors but are actually the norm.\n\nTake one model you use today and feed it your messiest, noisiest real-world input this week. See it break? Good. Fix it now, before your audience does. 🛻🌫️\n\nWhat's the fog in your workflow?"
+    }
+  },
+  "instagram_caption": "A driverless dump truck glides through a mine at 3 AM—until fog rolls in, and the whole system freezes.\n\nCaterpillar learned this the hard way: their autonomous trucks nail sunny test tracks, but rain, mud, and dust turn flawless AI into stalled metal. The fix isn't more data. It's building for broken conditions from day one, not after launch.\n\nFor anyone shipping AI—whether it's copy, code, or captions—this means your clean, curated datasets are a trap. Production is messy, unpredicted, and full of edge cases that look like errors but are actually the norm.\n\nTake one model you use today and feed it your messiest, noisiest real-world input this week. See it break? Good. Fix it now, before your audience does. 🛻🌫️\n\nWhat's the fog in your workflow?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI breaks when it rains.",
+      "description": "Caterpillar's autonomous trucks thrive on dry tracks, but fog and snow stall them. Edge cases are the norm, not anomalies.",
+      "visual_hint": "Autonomous truck in fog",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "autonomous mining truck"
+    },
+    {
+      "hook": "Perfect data, fragile AI.",
+      "description": "Models trained only on sunny test tracks fail in storms. Real-world mines are dusty, muddy, and chaotic—your AI must handle that.",
+      "visual_hint": "Sunny vs stormy split",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "mining truck storm",
+      "image": "https://images.pexels.com/photos/36236254/pexels-photo-36236254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Edge cases are your reality.",
+      "description": "Dust, mud, and rockfalls are constants in mining. If your AI treats them as outliers, it will stop working at the worst moment.",
+      "visual_hint": "Dust and rockfall close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rockfall mine dust",
+      "image": "https://images.pexels.com/photos/9002836/pexels-photo-9002836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop building for the ideal.",
+      "description": "Clean inputs are a fantasy. Production environments are inconsistent—if you rely on perfect data, you're setting up for failure.",
+      "visual_hint": "Hand touching gritty surface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "construction site hand",
+      "image": "https://images.pexels.com/photos/9669807/pexels-photo-9669807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test in the mess, today.",
+      "description": "Run one of your models on noisy, messy data this week. If it breaks, fix the gaps now—not later. Save this to act.",
+      "visual_hint": "Messy data on screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "noisy data screen",
+      "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+  "savedAt": "2026-08-30T18:57:00.257Z",
+  "sourceId": "e4de3653e651c8746b7de2faedfff614"
+}

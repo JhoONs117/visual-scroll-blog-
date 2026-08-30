@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-l",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "slides": [
+        "How Caterpillar automated mining—and what AI can learn?",
+        "Autonomous trucks already haul ore without drivers.",
+        "Yet their AI models fail in unpredictable weather.",
+        "Your deployment must expect edge cases, not perfect data.",
+        "Test your AI where conditions get messy first."
+      ],
+      "thread_text": [
+        "1. The driver is gone\n\nAutonomous trucks at Caterpillar mines haul ore 24/7, but their AI crashes in fog, rain, or snow.",
+        "2. Perfect data, fragile AI\n\nThese models thrive on sunny, dry test tracks. Add one storm, and they stall—because training never included chaos.",
+        "3. Edge cases are the norm\n\nMines have dust, mud, and sudden rockfalls. Your AI sees those as anomalies, not reality—until it stops working.",
+        "4. You are building for the ideal\n\nIf your deployment relies on clean inputs, you're setting up for failure in production. The real world is inconsistent.",
+        "5. Test in the mess, today\n\nTake one model you have and run it on noisy, messy data this week. If it breaks, fix the gaps now, not later."
+      ],
+      "video_script": [
+        "Autonomous trucks work without drivers, but fail in bad weather.",
+        "They train on perfect sunny data, so storms break them.",
+        "Mines have dust, mud, and sudden rockfalls.",
+        "Your AI must handle real-world mess, not ideal data.",
+        "Test your model on messy inputs this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The driver is gone\n\nAutonomous trucks at Caterpillar mines haul ore 24/7, but their AI crashes in fog, rain, or snow.",
+            "2. Perfect data, fragile AI\n\nThese models thrive on sunny, dry test tracks. Add one storm, and they stall—because training never included chaos.",
+            "3. Edge cases are the norm\n\nMines have dust, mud, and sudden rockfalls. Your AI sees those as anomalies, not reality—until it stops working.",
+            "4. You are building for the ideal\n\nIf your deployment relies on clean inputs, you're setting up for failure in production. The real world is inconsistent.",
+            "5. Test in the mess, today\n\nTake one model you have and run it on noisy, messy data this week. If it breaks, fix the gaps now, not later."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Autonomous trucks work without drivers, but fail in bad weather.",
+            "They train on perfect sunny data, so storms break them.",
+            "Mines have dust, mud, and sudden rockfalls.",
+            "Your AI must handle real-world mess, not ideal data.",
+            "Test your model on messy inputs this week."
+          ]
+        },
+        "instagram": {
+          "caption": "A driverless dump truck glides through a mine at 3 AM—until fog rolls in, and the whole system freezes.\n\nCaterpillar learned this the hard way: their autonomous trucks nail sunny test tracks, but rain, mud, and dust turn flawless AI into stalled metal. The fix isn't more data. It's building for broken conditions from day one, not after launch.\n\nFor anyone shipping AI—whether it's copy, code, or captions—this means your clean, curated datasets are a trap. Production is messy, unpredicted, and full of edge cases that look like errors but are actually the norm.\n\nTake one model you use today and feed it your messiest, noisiest real-world input this week. See it break? Good. Fix it now, before your audience does. 🛻🌫️\n\nWhat's the fog in your workflow?"
+        }
+      },
+      "instagram_caption": "A driverless dump truck glides through a mine at 3 AM—until fog rolls in, and the whole system freezes.\n\nCaterpillar learned this the hard way: their autonomous trucks nail sunny test tracks, but rain, mud, and dust turn flawless AI into stalled metal. The fix isn't more data. It's building for broken conditions from day one, not after launch.\n\nFor anyone shipping AI—whether it's copy, code, or captions—this means your clean, curated datasets are a trap. Production is messy, unpredicted, and full of edge cases that look like errors but are actually the norm.\n\nTake one model you use today and feed it your messiest, noisiest real-world input this week. See it break? Good. Fix it now, before your audience does. 🛻🌫️\n\nWhat's the fog in your workflow?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI breaks when it rains.",
+          "description": "Caterpillar's autonomous trucks thrive on dry tracks, but fog and snow stall them. Edge cases are the norm, not anomalies.",
+          "visual_hint": "Autonomous truck in fog",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "autonomous mining truck"
+        },
+        {
+          "hook": "Perfect data, fragile AI.",
+          "description": "Models trained only on sunny test tracks fail in storms. Real-world mines are dusty, muddy, and chaotic—your AI must handle that.",
+          "visual_hint": "Sunny vs stormy split",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "mining truck storm",
+          "image": "https://images.pexels.com/photos/36236254/pexels-photo-36236254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Edge cases are your reality.",
+          "description": "Dust, mud, and rockfalls are constants in mining. If your AI treats them as outliers, it will stop working at the worst moment.",
+          "visual_hint": "Dust and rockfall close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rockfall mine dust",
+          "image": "https://images.pexels.com/photos/9002836/pexels-photo-9002836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop building for the ideal.",
+          "description": "Clean inputs are a fantasy. Production environments are inconsistent—if you rely on perfect data, you're setting up for failure.",
+          "visual_hint": "Hand touching gritty surface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "construction site hand",
+          "image": "https://images.pexels.com/photos/9669807/pexels-photo-9669807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test in the mess, today.",
+          "description": "Run one of your models on noisy, messy data this week. If it breaks, fix the gaps now—not later. Save this to act.",
+          "visual_hint": "Messy data on screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "noisy data screen",
+          "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "savedAt": "2026-08-30T18:57:00.257Z",
+      "sourceId": "e4de3653e651c8746b7de2faedfff614"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "liux-s-big-microcar-bets-on-sustainability-to-take",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "pubDate": "Sun, 30 Aug 2026 18:33:44 +0000",
+      "slides": [
+        "Can Liux's microcar outlast Chinese EV rivals?",
+        "Its bio-based body cuts carbon by 30%.",
+        "But battery range remains a 150-km secret.",
+        "Urban drivers now face a real material choice.",
+        "Test-drive one before dismissing eco materials."
+      ],
+      "thread_text": [
+        "1. The 150-km secret\n\nLiux's microcar hides a battery range that rivals can't match—but why keep it quiet? The material innovation is real, but the range might be the dealbreaker.",
+        "2. Carbon cut, not cost\n\nBio-based body slashes emissions by 30%, but that's only half the story. Production costs are still higher than steel, pushing the price tag up for early adopters.",
+        "3. Urban material test\n\nDrivers now choose between recycled composites and traditional metals. The twist: eco-materials age differently under city wear—scratches, heat, and accidents reveal hidden trade-offs.",
+        "4. Range anxiety or material trust?\n\nWith unpredictable battery performance, do you gamble on the green body? The real consequence: your daily commute might need a plan B, not just a charge point.",
+        "5. Your move, driver\n\nBefore you dismiss eco-cars, book a test drive at a Liux showroom this week. Feel the material, check the range—does 150 km fit your real route?"
+      ],
+      "video_script": [
+        "Liux microcar's range is a mystery.",
+        "Bio body cuts carbon, thirty percent lower.",
+        "But range anxiety remains for city drivers.",
+        "Material choice affects your daily commute.",
+        "Test drive one to decide for yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 150-km secret\n\nLiux's microcar hides a battery range that rivals can't match—but why keep it quiet? The material innovation is real, but the range might be the dealbreaker.",
+            "2. Carbon cut, not cost\n\nBio-based body slashes emissions by 30%, but that's only half the story. Production costs are still higher than steel, pushing the price tag up for early adopters.",
+            "3. Urban material test\n\nDrivers now choose between recycled composites and traditional metals. The twist: eco-materials age differently under city wear—scratches, heat, and accidents reveal hidden trade-offs.",
+            "4. Range anxiety or material trust?\n\nWith unpredictable battery performance, do you gamble on the green body? The real consequence: your daily commute might need a plan B, not just a charge point.",
+            "5. Your move, driver\n\nBefore you dismiss eco-cars, book a test drive at a Liux showroom this week. Feel the material, check the range—does 150 km fit your real route?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Liux microcar's range is a mystery.",
+            "Bio body cuts carbon, thirty percent lower.",
+            "But range anxiety remains for city drivers.",
+            "Material choice affects your daily commute.",
+            "Test drive one to decide for yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "A microcar with a plant-based body just cut its carbon footprint by 30%, but the battery only lasts 150 km.  \n\nThat range is a secret Liux isn't shouting about, and the eco-friendly materials still cost more than steel to produce. So urban drivers face a real trade-off: greener body, pricier tag, shorter trips.  \n\nIf you're covering EVs or sustainability, this is the material vs. range story that changes the buying argument for city commuters.  \n\nWould you trade range for a body that ages differently under city heat and scratches? Test-drive one before you judge. 🚗🌱🔋"
+        }
+      },
+      "instagram_caption": "A microcar with a plant-based body just cut its carbon footprint by 30%, but the battery only lasts 150 km.  \n\nThat range is a secret Liux isn't shouting about, and the eco-friendly materials still cost more than steel to produce. So urban drivers face a real trade-off: greener body, pricier tag, shorter trips.  \n\nIf you're covering EVs or sustainability, this is the material vs. range story that changes the buying argument for city commuters.  \n\nWould you trade range for a body that ages differently under city heat and scratches? Test-drive one before you judge. 🚗🌱🔋",
+      "carousel_slides": [
+        {
+          "hook": "Will eco materials survive city wear?",
+          "description": "Bio-based body cuts carbon by 30%, but scratches and heat reveal hidden trade-offs. Urban drivers face a material choice.",
+          "visual_hint": "Scratched composite panel close-up",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "scratched car panel"
+        },
+        {
+          "hook": "Carbon cut, not cost",
+          "description": "Bio-based body slashes emissions by 30%, but production costs stay higher than steel—pushing prices up for early adopters.",
+          "visual_hint": "Split image: green leaf vs steel",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "green leaf steel",
+          "image": "https://images.pexels.com/photos/38874109/pexels-photo-38874109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Range: 150 km secret",
+          "description": "Battery range remains a 150-km secret—under city wear, performance may vary, leaving your commute needing a plan B.",
+          "visual_hint": "Battery gauge with question mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "battery gauge",
+          "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Gamble on green or trust metal?",
+          "description": "With unpredictable battery range, do you choose recycled composites? Your daily drive might require a backup plan, not just a charge.",
+          "visual_hint": "Hand holding composite vs metal",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding material",
+          "image": "https://images.pexels.com/photos/6568675/pexels-photo-6568675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test-drive before you dismiss",
+          "description": "Book a test drive this week at a Liux showroom. Feel the bio-material, check the 150-km range—does it fit your real route? Save this for later.",
+          "visual_hint": "Showroom with microcar on display",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "car showroom",
+          "image": "https://images.pexels.com/photos/16176576/pexels-photo-16176576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
+      "savedAt": "2026-08-30T18:56:45.640Z",
+      "sourceId": "378833979da6db9c550f201d67ed5576"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "is-the-best-way-to-watch-a-movie-on-a-pair-of-sung",
       "prompt_version": "1.0.0",
       "status": "published",
