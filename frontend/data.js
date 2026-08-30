@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "is-the-best-way-to-watch-a-movie-on-a-pair-of-sung",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "pubDate": "Fri, 28 Aug 2026 22:42:48 +0000",
+    "slides": [
+      "Could sunglasses replace your living room screen?",
+      "Micro-displays now pack cinema resolution into lenses.",
+      "But your brain may reject the image in minutes.",
+      "Battery life still dies before most films end.",
+      "Test a pair before buying your next TV."
+    ],
+    "thread_text": [
+      "1. Your next TV could be sunglasses\n\nA pair of smart glasses now projects a 1080p screen directly onto your eyes, making living room setups feel obsolete.",
+      "2. The brain says no after minutes\n\nA headache can start within 5 minutes as your visual cortex fights the fake depth, making long sessions uncomfortable.",
+      "3. Films die before the battery does\n\nMost models last under 2 hours — barely a movie — and charging requires a case that’s as heavy as a phone.",
+      "4. Resolution is finally cinema-grade\n\nNew micro-displays cram 4K into each lens, so you see pixels the way you’d see them in a theater — no more blur.",
+      "5. Test a pair before buying a TV\n\nRent a demo at your local store. Does a 20-minute headache justify replacing your 65-inch screen?"
+    ],
+    "video_script": [
+      "Could sunglasses kill your TV?",
+      "Micro-displays now fit cinema screens.",
+      "But your brain rebels within minutes.",
+      "Battery dies before most films.",
+      "Try them before you buy."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your next TV could be sunglasses\n\nA pair of smart glasses now projects a 1080p screen directly onto your eyes, making living room setups feel obsolete.",
+          "2. The brain says no after minutes\n\nA headache can start within 5 minutes as your visual cortex fights the fake depth, making long sessions uncomfortable.",
+          "3. Films die before the battery does\n\nMost models last under 2 hours — barely a movie — and charging requires a case that’s as heavy as a phone.",
+          "4. Resolution is finally cinema-grade\n\nNew micro-displays cram 4K into each lens, so you see pixels the way you’d see them in a theater — no more blur.",
+          "5. Test a pair before buying a TV\n\nRent a demo at your local store. Does a 20-minute headache justify replacing your 65-inch screen?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Could sunglasses kill your TV?",
+          "Micro-displays now fit cinema screens.",
+          "But your brain rebels within minutes.",
+          "Battery dies before most films.",
+          "Try them before you buy."
+        ]
+      },
+      "instagram": {
+        "caption": "A 1080p screen now fits inside a pair of sunglasses and projects straight onto your retina.\n\nMicro-displays pack cinema-grade resolution into each lens, but your visual cortex starts fighting the fake depth within five minutes — headaches hit before the opening credits end.\n\nBattery life barely lasts one film, and the charging case weighs as much as a phone.\n\nSo before you ditch your 65-inch TV for a pair of lenses, rent a demo at a local store 👀\n\nCan you sit through a 20-minute headache for a screen that dies before the finale? 🕶️\n\nIf making video content, ask yourself: is your edit built for a screen that makes viewers physically nauseous within a scene?"
+      }
+    },
+    "instagram_caption": "A 1080p screen now fits inside a pair of sunglasses and projects straight onto your retina.\n\nMicro-displays pack cinema-grade resolution into each lens, but your visual cortex starts fighting the fake depth within five minutes — headaches hit before the opening credits end.\n\nBattery life barely lasts one film, and the charging case weighs as much as a phone.\n\nSo before you ditch your 65-inch TV for a pair of lenses, rent a demo at a local store 👀\n\nCan you sit through a 20-minute headache for a screen that dies before the finale? 🕶️\n\nIf making video content, ask yourself: is your edit built for a screen that makes viewers physically nauseous within a scene?",
+    "carousel_slides": [
+      {
+        "hook": "Your brain will reject this screen.",
+        "description": "Smart glasses project cinema resolution, but headaches start within 5 minutes as your visual cortex fights fake depth.",
+        "visual_hint": "Glasses lens close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart glasses product"
+      },
+      {
+        "hook": "Cinema quality, minus the blur.",
+        "description": "New micro-displays pack 4K into each lens, so pixels look sharp like a theater — no more digital fuzz.",
+        "visual_hint": "Tiny screen in lens",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "micro display chip",
+        "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Headache stops the movie early.",
+        "description": "Within minutes, your visual cortex fights fake depth — long sessions become uncomfortable or impossible to enjoy.",
+        "visual_hint": "Hand rubbing temple",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "person holding head",
+        "image": "https://images.pexels.com/photos/8349085/pexels-photo-8349085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dead battery before final scene.",
+        "description": "Most models last under 2 hours — barely a film — and charging requires a bulky case like a phone.",
+        "visual_hint": "Battery draining icon",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "battery meter low",
+        "image": "https://images.pexels.com/photos/14796253/pexels-photo-14796253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test glasses before buying TV.",
+        "description": "Rent a demo at your local store. Does a 20-minute headache justify replacing your 65-inch screen?",
+        "visual_hint": "Store demo station",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "electronics store display",
+        "image": "https://images.pexels.com/photos/34625035/pexels-photo-34625035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
+    "savedAt": "2026-08-30T14:35:21.857Z",
+    "sourceId": "93c197c40326754380f0997eb0119074"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-tv-is-raising-its-subscription-prices-again",
     "prompt_version": "1.0.0",
     "status": "published",
