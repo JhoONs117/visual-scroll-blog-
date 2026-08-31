@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "debian-won-8217-t-ban-ai-code-from-its-linux-distr",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "pubDate": "2026-08-31T15:34:58.000Z",
+    "slides": [
+      "Debian rejects AI code ban—what does that mean?",
+      "Despite community debates, policy keeps AI contributions.",
+      "Critics expected exclusion, but maintainers voted inclusion.",
+      "Your Debian packages may soon contain AI-generated patches.",
+      "Review AI commits yourself before trusting future updates."
+    ],
+    "thread_text": [
+      "1. AI patches in Debian?\n\nDebian maintainers just voted to keep AI-generated code, despite community backlash.",
+      "2. Not a total win\n\nThe policy allows AI contributions, but only with maintainer review and approval.",
+      "3. The twist for users\n\nYour next Debian update could include code written by a machine—without you knowing.",
+      "4. Why it sparks debate\n\nCritics fear hidden bugs and lack of accountability in AI contributions.",
+      "5. Check before you update\n\nReview AI-generated commits yourself or risk trusting unknown code in your system."
+    ],
+    "video_script": [
+      "Debian says yes to AI code.",
+      "Maintainers will review all AI patches.",
+      "Your updates might contain AI lines.",
+      "Critics worry about bugs and trust.",
+      "Check commits before you upgrade."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI patches in Debian?\n\nDebian maintainers just voted to keep AI-generated code, despite community backlash.",
+          "2. Not a total win\n\nThe policy allows AI contributions, but only with maintainer review and approval.",
+          "3. The twist for users\n\nYour next Debian update could include code written by a machine—without you knowing.",
+          "4. Why it sparks debate\n\nCritics fear hidden bugs and lack of accountability in AI contributions.",
+          "5. Check before you update\n\nReview AI-generated commits yourself or risk trusting unknown code in your system."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Debian says yes to AI code.",
+          "Maintainers will review all AI patches.",
+          "Your updates might contain AI lines.",
+          "Critics worry about bugs and trust.",
+          "Check commits before you upgrade."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next Debian update could include patches written by an AI model. 🐧\n\nDebian maintainers just voted to allow AI-generated code into the distribution, but only after a human maintainer reviews and approves each contribution. No blanket ban, no automatic acceptance.\n\nThe debate split the community: critics point to hidden bugs and unclear accountability, while supporters argue review catches the risks. What you won't see: a label on the package telling you which parts were machine-written. 🔍\n\nFor Debian users, that means your system's security now depends on how carefully a maintainer reviewed a patch you can't easily trace back.\n\nBefore your next `apt upgrade`, do you know how to check the changelog for AI-contributed commits? 🤔"
+      }
+    },
+    "instagram_caption": "Your next Debian update could include patches written by an AI model. 🐧\n\nDebian maintainers just voted to allow AI-generated code into the distribution, but only after a human maintainer reviews and approves each contribution. No blanket ban, no automatic acceptance.\n\nThe debate split the community: critics point to hidden bugs and unclear accountability, while supporters argue review catches the risks. What you won't see: a label on the package telling you which parts were machine-written. 🔍\n\nFor Debian users, that means your system's security now depends on how carefully a maintainer reviewed a patch you can't easily trace back.\n\nBefore your next `apt upgrade`, do you know how to check the changelog for AI-contributed commits? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your next Debian update may be AI-written.",
+        "description": "Debian voted to keep AI-generated code, meaning future updates could include robot-written patches—only if maintainers approve them.",
+        "visual_hint": "Futuristic robot hand inserting code into terminal",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot hand typing"
+      },
+      {
+        "hook": "But not a total win for AI.",
+        "description": "The policy permits AI contributions only with strict maintainer review, balancing innovation with caution in Debian's open-source ecosystem.",
+        "visual_hint": "Two hands passing a document across a desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "hands passing document",
+        "image": "https://images.pexels.com/photos/12899096/pexels-photo-12899096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The twist: you won't know.",
+        "description": "Your next Debian update could include machine-written code without any obvious label, raising silent risks for daily users and admins.",
+        "visual_hint": "Silhouette of person looking at screen with code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "person looking at computer",
+        "image": "https://images.pexels.com/photos/9908684/pexels-photo-9908684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why critics are worried.",
+        "description": "Hidden bugs and lack of accountability in AI contributions spark fear, but maintainers say review and approval mitigate the danger.",
+        "visual_hint": "Magnifying glass over a bug icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "magnifying glass over bug",
+        "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check AI commits before updating.",
+        "description": "Don't trust blind—inspect AI-generated patches manually in your system to ensure safety before running future Debian updates.",
+        "visual_hint": "Shield with a checkmark over code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "shield with checkmark",
+        "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-08-31T23:31:15.726Z",
+    "sourceId": "6eb0d063d6c9c5e2b57632b306c5f06c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "hackers-claim-millions-of-patient-records-stolen-d",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+    "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+    "pubDate": "Mon, 31 Aug 2026 18:10:09 +0000",
+    "slides": [
+      "Hackers stole millions of patient records from McKesson - how?",
+      "The breach targeted a third-party data storage vendor.",
+      "The stolen data includes diagnoses, prescriptions, and Social Security numbers.",
+      "Your health records may already be exposed without your knowledge.",
+      "Check McKesson's breach notice now to see if you're affected."
+    ],
+    "thread_text": [
+      "1. They Have Your Data\n\nMcKesson's breach via a third-party vendor exposed millions of patient records, including Social Security numbers. Check if you're among them.",
+      "2. The Silent Exposure\n\nNo notification to patients? The stolen data includes diagnoses and prescriptions—your most private health details may already be circulating.",
+      "3. How It Happened\n\nThe attack targeted a third-party storage vendor, not McKesson directly—a weak link in the chain. Your records weren't safe in the cloud.",
+      "4. The Real Risk\n\nWith Social Security numbers, identity theft is imminent. Medical fraud can go unnoticed for months, and your insurance could be drained.",
+      "5. Act Now\n\nVisit McKesson's breach notice today. If your data was exposed, freeze your credit and monitor your health statements. Did you check yet?"
+    ],
+    "video_script": [
+      "Hackers stole millions of patient records.",
+      "Your diagnoses and prescriptions are exposed.",
+      "Social Security numbers stolen—identity theft risk.",
+      "Third-party vendor was the weak point.",
+      "Check McKesson's breach notice now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. They Have Your Data\n\nMcKesson's breach via a third-party vendor exposed millions of patient records, including Social Security numbers. Check if you're among them.",
+          "2. The Silent Exposure\n\nNo notification to patients? The stolen data includes diagnoses and prescriptions—your most private health details may already be circulating.",
+          "3. How It Happened\n\nThe attack targeted a third-party storage vendor, not McKesson directly—a weak link in the chain. Your records weren't safe in the cloud.",
+          "4. The Real Risk\n\nWith Social Security numbers, identity theft is imminent. Medical fraud can go unnoticed for months, and your insurance could be drained.",
+          "5. Act Now\n\nVisit McKesson's breach notice today. If your data was exposed, freeze your credit and monitor your health statements. Did you check yet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Hackers stole millions of patient records.",
+          "Your diagnoses and prescriptions are exposed.",
+          "Social Security numbers stolen—identity theft risk.",
+          "Third-party vendor was the weak point.",
+          "Check McKesson's breach notice now."
+        ]
+      },
+      "instagram": {
+        "caption": "There’s a good chance your medical records are on the dark web right now, and you weren’t even told.  \n\nMillions of patient files were lifted from healthcare giant McKesson—but the breach hit a third-party data storage vendor, not the company’s main servers. Diagnoses, prescription lists, and Social Security numbers are all in the stolen haul, and patients reportedly got no direct notification.  \n\nFor anyone creating or sharing health-related content, this is your proof that “the cloud” isn’t a safe haven—your most sensitive source material is a hacker’s jackpot.  \n\nHave you checked McKesson’s breach notice yet, or are you gambling that your name isn’t on that list? 🩺🔓⚠️"
+      }
+    },
+    "instagram_caption": "There’s a good chance your medical records are on the dark web right now, and you weren’t even told.  \n\nMillions of patient files were lifted from healthcare giant McKesson—but the breach hit a third-party data storage vendor, not the company’s main servers. Diagnoses, prescription lists, and Social Security numbers are all in the stolen haul, and patients reportedly got no direct notification.  \n\nFor anyone creating or sharing health-related content, this is your proof that “the cloud” isn’t a safe haven—your most sensitive source material is a hacker’s jackpot.  \n\nHave you checked McKesson’s breach notice yet, or are you gambling that your name isn’t on that list? 🩺🔓⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Your most private data is already out there.",
+        "description": "A third-party vendor breach at McKesson exposed millions of records, including Social Security numbers. Even you may not know yet.",
+        "visual_hint": "magnifying glass over medical file",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data breach digital"
+      },
+      {
+        "hook": "They never told you directly.",
+        "description": "McKesson didn't notify patients itself. Diagnostics, prescriptions, and SSNs were stolen—your private health details are circulating.",
+        "visual_hint": "silhouette with question mark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "medical records",
+        "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The weak link is the cloud.",
+        "description": "The attack hit a third-party storage vendor, not McKesson directly. Your records weren't safe in that cloud system.",
+        "visual_hint": "server room with lock",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your identity is at stake.",
+        "description": "With Social Security numbers stolen, identity theft is imminent. Medical claims can drain your insurance before you notice.",
+        "visual_hint": "hand holding credit card",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stolen credit card",
+        "image": "https://images.pexels.com/photos/6347712/pexels-photo-6347712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check now before it's too late.",
+        "description": "Visit McKesson's breach notice today. If exposed, freeze your credit and monitor your health statements for fraud.",
+        "visual_hint": "clicking on breach notice",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800",
+    "savedAt": "2026-08-31T23:31:02.946Z",
+    "sourceId": "5646ae2cac829173a1f266d2dc693978"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "instagram-puts-new-limits-on-undisclosed-ai-profil",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
+    "slides": [
+      "Can you spot an AI profile on Instagram?",
+      "New rules now require labeling synthetic content.",
+      "But enforcement only starts for verified accounts first.",
+      "Creators without labels risk losing reach and revenue.",
+      "Check your settings today before the crackdown begins."
+    ],
+    "thread_text": [
+      "1. Your feed is next\n\nInstagram starts enforcing AI labels on verified accounts this week. Creators without them risk losing reach and revenue.",
+      "2. The unlabeled majority\n\nMost bots and fake accounts aren't verified. They'll keep posting unlabeled AI content while real creators face the crackdown first.",
+      "3. The label loophole\n\nVerification is paid in many regions. Paying for blue check could force you to label content you previously posted without one.",
+      "4. Revenue at risk\n\nInstagram's algorithm will demote unlabeled synthetic posts. For creators, that means less views, less sponsors, less income.",
+      "5. Check your settings now\n\nOpen Instagram, go to post settings, and enable the AI disclosure toggle today. Or ask: will you risk your account's reach over a missing label?"
+    ],
+    "video_script": [
+      "Instagram now requires AI labels. Check your settings today.",
+      "Verified accounts face the first crackdown. Don't get caught.",
+      "Unlabeled AI posts lose reach and money. Protect your content.",
+      "Not sure if your post is synthetic? Better to label it.",
+      "Open your settings and enable that AI disclosure now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your feed is next\n\nInstagram starts enforcing AI labels on verified accounts this week. Creators without them risk losing reach and revenue.",
+          "2. The unlabeled majority\n\nMost bots and fake accounts aren't verified. They'll keep posting unlabeled AI content while real creators face the crackdown first.",
+          "3. The label loophole\n\nVerification is paid in many regions. Paying for blue check could force you to label content you previously posted without one.",
+          "4. Revenue at risk\n\nInstagram's algorithm will demote unlabeled synthetic posts. For creators, that means less views, less sponsors, less income.",
+          "5. Check your settings now\n\nOpen Instagram, go to post settings, and enable the AI disclosure toggle today. Or ask: will you risk your account's reach over a missing label?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Instagram now requires AI labels. Check your settings today.",
+          "Verified accounts face the first crackdown. Don't get caught.",
+          "Unlabeled AI posts lose reach and money. Protect your content.",
+          "Not sure if your post is synthetic? Better to label it.",
+          "Open your settings and enable that AI disclosure now."
+        ]
+      },
+      "instagram": {
+        "caption": "Verified accounts on Instagram now have to label AI-made content — starting this week.  \nUnlabeled posts get pushed down in the feed, which means fewer eyes on your work.  \nThe catch: most bot accounts aren't verified, so they keep posting unlabeled AI while real creators take the hit first.  \nIf you pay for verification in some regions, you might have to retroactively label old posts you never flagged.  \n\nFor anyone posting on Instagram, this changes how much reach your next post gets — a missing tag can cost you views and sponsorships.  \nOpen your post settings, find the AI disclosure toggle, and flip it on before your next upload.  \n\nWhat will you do if your reach drops over a label you forgot? 🔍📉💬"
+      }
+    },
+    "instagram_caption": "Verified accounts on Instagram now have to label AI-made content — starting this week.  \nUnlabeled posts get pushed down in the feed, which means fewer eyes on your work.  \nThe catch: most bot accounts aren't verified, so they keep posting unlabeled AI while real creators take the hit first.  \nIf you pay for verification in some regions, you might have to retroactively label old posts you never flagged.  \n\nFor anyone posting on Instagram, this changes how much reach your next post gets — a missing tag can cost you views and sponsorships.  \nOpen your post settings, find the AI disclosure toggle, and flip it on before your next upload.  \n\nWhat will you do if your reach drops over a label you forgot? 🔍📉💬",
+    "carousel_slides": [
+      {
+        "hook": "Paying for blue check forces labels?",
+        "description": "Instagram starts enforcing AI labels on verified accounts this week. Unverified bots remain unchecked while real creators face the crackdown first.",
+        "visual_hint": "Blue checkmark over warning label",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "blue checkmark smartphone screen"
+      },
+      {
+        "hook": "Most bots stay unlabeled.",
+        "description": "Most fake accounts aren't verified, so they keep posting AI content freely — while genuine creators get penalized first.",
+        "visual_hint": "Bots hiding behind mask",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "robot hand smartphone",
+        "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The label loophole is real.",
+        "description": "Verification is paid in many regions. Paying for the blue check might force you to label old content you posted without one.",
+        "visual_hint": "Loophole concept art",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass fingerprint",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unlabeled posts lose revenue.",
+        "description": "Instagram's algorithm demotes synthetic posts without labels. That means fewer views, fewer sponsors, and less income for creators.",
+        "visual_hint": "Falling chart with coins",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart screen",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check your settings.",
+        "description": "Open Instagram, go to post settings, and enable the AI disclosure toggle today. Don't risk your reach over a missing label.",
+        "visual_hint": "Checking phone settings",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone settings menu",
+        "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+    "savedAt": "2026-08-31T23:30:50.278Z",
+    "sourceId": "72b2e2fa10252d2f5f234e571baca2f5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
+    "slides": [
+      "Pentagon's new AI is not what it seems.",
+      "It answers military questions, but what else?",
+      "Unlike ChatGPT, it refuses to reveal its training.",
+      "Commanders' decisions change, but oversight remains unclear.",
+      "Demand public transparency before trusting its advice."
+    ],
+    "thread_text": [
+      "1. What else can it do?\n\nThe Pentagon's new AI answers military questions, but its hidden capabilities remain a mystery, raising concerns about what it might do beyond its stated purpose.",
+      "2. The unseen training\n\nUnlike ChatGPT, this AI refuses to reveal its training data, making it impossible to audit for bias or hidden instructions, which is a red flag for military decisions.",
+      "3. Commanders' blind trust\n\nCommanders are making decisions with AI advice, but without clear oversight, who is accountable when things go wrong remains unknown.",
+      "4. The oversight gap\n\nWhile decisions change, no clear system exists to review or challenge the AI's recommendations, leaving a dangerous accountability hole in military operations.",
+      "5. Demand transparency now\n\nAsk your representative to demand the Pentagon release the AI's training details before it's trusted with lives. If you haven't, do it today."
+    ],
+    "video_script": [
+      "The Pentagon's new AI has hidden capabilities.",
+      "It refuses to reveal its training data.",
+      "Commanders rely on it without oversight.",
+      "Who's accountable when AI misleads?",
+      "Demand transparency before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What else can it do?\n\nThe Pentagon's new AI answers military questions, but its hidden capabilities remain a mystery, raising concerns about what it might do beyond its stated purpose.",
+          "2. The unseen training\n\nUnlike ChatGPT, this AI refuses to reveal its training data, making it impossible to audit for bias or hidden instructions, which is a red flag for military decisions.",
+          "3. Commanders' blind trust\n\nCommanders are making decisions with AI advice, but without clear oversight, who is accountable when things go wrong remains unknown.",
+          "4. The oversight gap\n\nWhile decisions change, no clear system exists to review or challenge the AI's recommendations, leaving a dangerous accountability hole in military operations.",
+          "5. Demand transparency now\n\nAsk your representative to demand the Pentagon release the AI's training details before it's trusted with lives. If you haven't, do it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "The Pentagon's new AI has hidden capabilities.",
+          "It refuses to reveal its training data.",
+          "Commanders rely on it without oversight.",
+          "Who's accountable when AI misleads?",
+          "Demand transparency before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "The Pentagon’s new AI answers military questions, but it won’t say what it was trained on. 🔍 Unlike ChatGPT, it refuses to disclose its data, so there’s no way to audit it for bias or hidden orders. Commanders are already using its advice to make decisions, yet no clear oversight system exists to review those calls. That’s an accountability gap with real stakes. For anyone building content or tools around AI, this is the warning: if you can’t see the training, you can’t trust the output. Ask your representative to demand the Pentagon release the training details — before this system shapes real-world actions. Would you take advice from a tool that won’t show its sources?"
+      }
+    },
+    "instagram_caption": "The Pentagon’s new AI answers military questions, but it won’t say what it was trained on. 🔍 Unlike ChatGPT, it refuses to disclose its data, so there’s no way to audit it for bias or hidden orders. Commanders are already using its advice to make decisions, yet no clear oversight system exists to review those calls. That’s an accountability gap with real stakes. For anyone building content or tools around AI, this is the warning: if you can’t see the training, you can’t trust the output. Ask your representative to demand the Pentagon release the training details — before this system shapes real-world actions. Would you take advice from a tool that won’t show its sources?",
+    "carousel_slides": [
+      {
+        "hook": "What is the Pentagon's AI hiding?",
+        "description": "Unlike ChatGPT, it refuses to reveal training data, making bias audits impossible—a red flag for military decisions.",
+        "visual_hint": "Dark question mark over data streams",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "military command center"
+      },
+      {
+        "hook": "Its training is a secret.",
+        "description": "Without disclosed training data, hidden instructions could bias commanders' choices, risking lives with no way to detect flaws.",
+        "visual_hint": "Silhouette of a hand reaching toward a glowing AI core",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Commanders trust it blindly.",
+        "description": "Decisions shift based on AI advice, yet no oversight system exists—who's accountable when it fails?",
+        "visual_hint": "Holographic interface being touched by an officer",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "military officer headset",
+        "image": "https://images.pexels.com/photos/30687113/pexels-photo-30687113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Oversight is dangerously absent.",
+        "description": "With no review or challenge mechanism, a critical accountability hole remains in military operations that rely on AI.",
+        "visual_hint": "Glowing tactical map with no human hand visible",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "military operations map",
+        "image": "https://images.pexels.com/photos/30687115/pexels-photo-30687115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand transparency now or save this.",
+        "description": "Ask your representative to force the Pentagon to release AI training details before it's trusted with lives. Act today.",
+        "visual_hint": "Megaphone against a backdrop of a flag",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "capitol building",
+        "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "savedAt": "2026-08-31T23:30:34.757Z",
+    "sourceId": "77b770af978c39334da0ebd9f9aeb0e2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "chatgpt-to-face-tougher-regulation-in-the-eu",
     "prompt_version": "1.0.0",
     "status": "published",

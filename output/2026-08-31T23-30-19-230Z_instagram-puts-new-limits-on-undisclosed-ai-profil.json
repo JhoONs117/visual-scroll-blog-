@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-puts-new-limits-on-undisclosed-ai-profil",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram puts new limits on undisclosed AI profiles",
+  "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+  "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
+  "slides": [
+    "Can you spot an AI profile on Instagram?",
+    "New rules now require labeling synthetic content.",
+    "But enforcement only starts for verified accounts first.",
+    "Creators without labels risk losing reach and revenue.",
+    "Check your settings today before the crackdown begins."
+  ],
+  "thread_text": [
+    "1. Your feed is next\n\nInstagram starts enforcing AI labels on verified accounts this week. Creators without them risk losing reach and revenue.",
+    "2. The unlabeled majority\n\nMost bots and fake accounts aren't verified. They'll keep posting unlabeled AI content while real creators face the crackdown first.",
+    "3. The label loophole\n\nVerification is paid in many regions. Paying for blue check could force you to label content you previously posted without one.",
+    "4. Revenue at risk\n\nInstagram's algorithm will demote unlabeled synthetic posts. For creators, that means less views, less sponsors, less income.",
+    "5. Check your settings now\n\nOpen Instagram, go to post settings, and enable the AI disclosure toggle today. Or ask: will you risk your account's reach over a missing label?"
+  ],
+  "video_script": [
+    "Instagram now requires AI labels. Check your settings today.",
+    "Verified accounts face the first crackdown. Don't get caught.",
+    "Unlabeled AI posts lose reach and money. Protect your content.",
+    "Not sure if your post is synthetic? Better to label it.",
+    "Open your settings and enable that AI disclosure now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your feed is next\n\nInstagram starts enforcing AI labels on verified accounts this week. Creators without them risk losing reach and revenue.",
+        "2. The unlabeled majority\n\nMost bots and fake accounts aren't verified. They'll keep posting unlabeled AI content while real creators face the crackdown first.",
+        "3. The label loophole\n\nVerification is paid in many regions. Paying for blue check could force you to label content you previously posted without one.",
+        "4. Revenue at risk\n\nInstagram's algorithm will demote unlabeled synthetic posts. For creators, that means less views, less sponsors, less income.",
+        "5. Check your settings now\n\nOpen Instagram, go to post settings, and enable the AI disclosure toggle today. Or ask: will you risk your account's reach over a missing label?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram now requires AI labels. Check your settings today.",
+        "Verified accounts face the first crackdown. Don't get caught.",
+        "Unlabeled AI posts lose reach and money. Protect your content.",
+        "Not sure if your post is synthetic? Better to label it.",
+        "Open your settings and enable that AI disclosure now."
+      ]
+    },
+    "instagram": {
+      "caption": "Verified accounts on Instagram now have to label AI-made content — starting this week.  \nUnlabeled posts get pushed down in the feed, which means fewer eyes on your work.  \nThe catch: most bot accounts aren't verified, so they keep posting unlabeled AI while real creators take the hit first.  \nIf you pay for verification in some regions, you might have to retroactively label old posts you never flagged.  \n\nFor anyone posting on Instagram, this changes how much reach your next post gets — a missing tag can cost you views and sponsorships.  \nOpen your post settings, find the AI disclosure toggle, and flip it on before your next upload.  \n\nWhat will you do if your reach drops over a label you forgot? 🔍📉💬"
+    }
+  },
+  "instagram_caption": "Verified accounts on Instagram now have to label AI-made content — starting this week.  \nUnlabeled posts get pushed down in the feed, which means fewer eyes on your work.  \nThe catch: most bot accounts aren't verified, so they keep posting unlabeled AI while real creators take the hit first.  \nIf you pay for verification in some regions, you might have to retroactively label old posts you never flagged.  \n\nFor anyone posting on Instagram, this changes how much reach your next post gets — a missing tag can cost you views and sponsorships.  \nOpen your post settings, find the AI disclosure toggle, and flip it on before your next upload.  \n\nWhat will you do if your reach drops over a label you forgot? 🔍📉💬",
+  "carousel_slides": [
+    {
+      "hook": "Paying for blue check forces labels?",
+      "description": "Instagram starts enforcing AI labels on verified accounts this week. Unverified bots remain unchecked while real creators face the crackdown first.",
+      "visual_hint": "Blue checkmark over warning label",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blue checkmark smartphone screen"
+    },
+    {
+      "hook": "Most bots stay unlabeled.",
+      "description": "Most fake accounts aren't verified, so they keep posting AI content freely — while genuine creators get penalized first.",
+      "visual_hint": "Bots hiding behind mask",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "robot hand smartphone",
+      "image": "https://images.pexels.com/photos/7688763/pexels-photo-7688763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The label loophole is real.",
+      "description": "Verification is paid in many regions. Paying for the blue check might force you to label old content you posted without one.",
+      "visual_hint": "Loophole concept art",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass fingerprint",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unlabeled posts lose revenue.",
+      "description": "Instagram's algorithm demotes synthetic posts without labels. That means fewer views, fewer sponsors, and less income for creators.",
+      "visual_hint": "Falling chart with coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart screen",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to check your settings.",
+      "description": "Open Instagram, go to post settings, and enable the AI disclosure toggle today. Don't risk your reach over a missing label.",
+      "visual_hint": "Checking phone settings",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+  "savedAt": "2026-08-31T23:30:50.278Z",
+  "sourceId": "72b2e2fa10252d2f5f234e571baca2f5"
+}

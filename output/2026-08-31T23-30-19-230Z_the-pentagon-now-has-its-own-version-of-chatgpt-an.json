@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The Pentagon now has its own version of ChatGPT and Grok",
+  "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+  "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
+  "slides": [
+    "Pentagon's new AI is not what it seems.",
+    "It answers military questions, but what else?",
+    "Unlike ChatGPT, it refuses to reveal its training.",
+    "Commanders' decisions change, but oversight remains unclear.",
+    "Demand public transparency before trusting its advice."
+  ],
+  "thread_text": [
+    "1. What else can it do?\n\nThe Pentagon's new AI answers military questions, but its hidden capabilities remain a mystery, raising concerns about what it might do beyond its stated purpose.",
+    "2. The unseen training\n\nUnlike ChatGPT, this AI refuses to reveal its training data, making it impossible to audit for bias or hidden instructions, which is a red flag for military decisions.",
+    "3. Commanders' blind trust\n\nCommanders are making decisions with AI advice, but without clear oversight, who is accountable when things go wrong remains unknown.",
+    "4. The oversight gap\n\nWhile decisions change, no clear system exists to review or challenge the AI's recommendations, leaving a dangerous accountability hole in military operations.",
+    "5. Demand transparency now\n\nAsk your representative to demand the Pentagon release the AI's training details before it's trusted with lives. If you haven't, do it today."
+  ],
+  "video_script": [
+    "The Pentagon's new AI has hidden capabilities.",
+    "It refuses to reveal its training data.",
+    "Commanders rely on it without oversight.",
+    "Who's accountable when AI misleads?",
+    "Demand transparency before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What else can it do?\n\nThe Pentagon's new AI answers military questions, but its hidden capabilities remain a mystery, raising concerns about what it might do beyond its stated purpose.",
+        "2. The unseen training\n\nUnlike ChatGPT, this AI refuses to reveal its training data, making it impossible to audit for bias or hidden instructions, which is a red flag for military decisions.",
+        "3. Commanders' blind trust\n\nCommanders are making decisions with AI advice, but without clear oversight, who is accountable when things go wrong remains unknown.",
+        "4. The oversight gap\n\nWhile decisions change, no clear system exists to review or challenge the AI's recommendations, leaving a dangerous accountability hole in military operations.",
+        "5. Demand transparency now\n\nAsk your representative to demand the Pentagon release the AI's training details before it's trusted with lives. If you haven't, do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The Pentagon's new AI has hidden capabilities.",
+        "It refuses to reveal its training data.",
+        "Commanders rely on it without oversight.",
+        "Who's accountable when AI misleads?",
+        "Demand transparency before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "The Pentagon’s new AI answers military questions, but it won’t say what it was trained on. 🔍 Unlike ChatGPT, it refuses to disclose its data, so there’s no way to audit it for bias or hidden orders. Commanders are already using its advice to make decisions, yet no clear oversight system exists to review those calls. That’s an accountability gap with real stakes. For anyone building content or tools around AI, this is the warning: if you can’t see the training, you can’t trust the output. Ask your representative to demand the Pentagon release the training details — before this system shapes real-world actions. Would you take advice from a tool that won’t show its sources?"
+    }
+  },
+  "instagram_caption": "The Pentagon’s new AI answers military questions, but it won’t say what it was trained on. 🔍 Unlike ChatGPT, it refuses to disclose its data, so there’s no way to audit it for bias or hidden orders. Commanders are already using its advice to make decisions, yet no clear oversight system exists to review those calls. That’s an accountability gap with real stakes. For anyone building content or tools around AI, this is the warning: if you can’t see the training, you can’t trust the output. Ask your representative to demand the Pentagon release the training details — before this system shapes real-world actions. Would you take advice from a tool that won’t show its sources?",
+  "carousel_slides": [
+    {
+      "hook": "What is the Pentagon's AI hiding?",
+      "description": "Unlike ChatGPT, it refuses to reveal training data, making bias audits impossible—a red flag for military decisions.",
+      "visual_hint": "Dark question mark over data streams",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "military command center"
+    },
+    {
+      "hook": "Its training is a secret.",
+      "description": "Without disclosed training data, hidden instructions could bias commanders' choices, risking lives with no way to detect flaws.",
+      "visual_hint": "Silhouette of a hand reaching toward a glowing AI core",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Commanders trust it blindly.",
+      "description": "Decisions shift based on AI advice, yet no oversight system exists—who's accountable when it fails?",
+      "visual_hint": "Holographic interface being touched by an officer",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "military officer headset",
+      "image": "https://images.pexels.com/photos/30687113/pexels-photo-30687113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Oversight is dangerously absent.",
+      "description": "With no review or challenge mechanism, a critical accountability hole remains in military operations that rely on AI.",
+      "visual_hint": "Glowing tactical map with no human hand visible",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "military operations map",
+      "image": "https://images.pexels.com/photos/30687115/pexels-photo-30687115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand transparency now or save this.",
+      "description": "Ask your representative to force the Pentagon to release AI training details before it's trusted with lives. Act today.",
+      "visual_hint": "Megaphone against a backdrop of a flag",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "capitol building",
+      "image": "https://images.pexels.com/photos/31661816/pexels-photo-31661816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+  "savedAt": "2026-08-31T23:30:34.757Z",
+  "sourceId": "77b770af978c39334da0ebd9f9aeb0e2"
+}

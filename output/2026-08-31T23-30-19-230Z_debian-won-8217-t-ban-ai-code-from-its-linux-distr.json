@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "debian-won-8217-t-ban-ai-code-from-its-linux-distr",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+  "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+  "pubDate": "2026-08-31T15:34:58.000Z",
+  "slides": [
+    "Debian rejects AI code ban—what does that mean?",
+    "Despite community debates, policy keeps AI contributions.",
+    "Critics expected exclusion, but maintainers voted inclusion.",
+    "Your Debian packages may soon contain AI-generated patches.",
+    "Review AI commits yourself before trusting future updates."
+  ],
+  "thread_text": [
+    "1. AI patches in Debian?\n\nDebian maintainers just voted to keep AI-generated code, despite community backlash.",
+    "2. Not a total win\n\nThe policy allows AI contributions, but only with maintainer review and approval.",
+    "3. The twist for users\n\nYour next Debian update could include code written by a machine—without you knowing.",
+    "4. Why it sparks debate\n\nCritics fear hidden bugs and lack of accountability in AI contributions.",
+    "5. Check before you update\n\nReview AI-generated commits yourself or risk trusting unknown code in your system."
+  ],
+  "video_script": [
+    "Debian says yes to AI code.",
+    "Maintainers will review all AI patches.",
+    "Your updates might contain AI lines.",
+    "Critics worry about bugs and trust.",
+    "Check commits before you upgrade."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI patches in Debian?\n\nDebian maintainers just voted to keep AI-generated code, despite community backlash.",
+        "2. Not a total win\n\nThe policy allows AI contributions, but only with maintainer review and approval.",
+        "3. The twist for users\n\nYour next Debian update could include code written by a machine—without you knowing.",
+        "4. Why it sparks debate\n\nCritics fear hidden bugs and lack of accountability in AI contributions.",
+        "5. Check before you update\n\nReview AI-generated commits yourself or risk trusting unknown code in your system."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Debian says yes to AI code.",
+        "Maintainers will review all AI patches.",
+        "Your updates might contain AI lines.",
+        "Critics worry about bugs and trust.",
+        "Check commits before you upgrade."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next Debian update could include patches written by an AI model. 🐧\n\nDebian maintainers just voted to allow AI-generated code into the distribution, but only after a human maintainer reviews and approves each contribution. No blanket ban, no automatic acceptance.\n\nThe debate split the community: critics point to hidden bugs and unclear accountability, while supporters argue review catches the risks. What you won't see: a label on the package telling you which parts were machine-written. 🔍\n\nFor Debian users, that means your system's security now depends on how carefully a maintainer reviewed a patch you can't easily trace back.\n\nBefore your next `apt upgrade`, do you know how to check the changelog for AI-contributed commits? 🤔"
+    }
+  },
+  "instagram_caption": "Your next Debian update could include patches written by an AI model. 🐧\n\nDebian maintainers just voted to allow AI-generated code into the distribution, but only after a human maintainer reviews and approves each contribution. No blanket ban, no automatic acceptance.\n\nThe debate split the community: critics point to hidden bugs and unclear accountability, while supporters argue review catches the risks. What you won't see: a label on the package telling you which parts were machine-written. 🔍\n\nFor Debian users, that means your system's security now depends on how carefully a maintainer reviewed a patch you can't easily trace back.\n\nBefore your next `apt upgrade`, do you know how to check the changelog for AI-contributed commits? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Your next Debian update may be AI-written.",
+      "description": "Debian voted to keep AI-generated code, meaning future updates could include robot-written patches—only if maintainers approve them.",
+      "visual_hint": "Futuristic robot hand inserting code into terminal",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot hand typing"
+    },
+    {
+      "hook": "But not a total win for AI.",
+      "description": "The policy permits AI contributions only with strict maintainer review, balancing innovation with caution in Debian's open-source ecosystem.",
+      "visual_hint": "Two hands passing a document across a desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hands passing document",
+      "image": "https://images.pexels.com/photos/12899096/pexels-photo-12899096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist: you won't know.",
+      "description": "Your next Debian update could include machine-written code without any obvious label, raising silent risks for daily users and admins.",
+      "visual_hint": "Silhouette of person looking at screen with code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "person looking at computer",
+      "image": "https://images.pexels.com/photos/9908684/pexels-photo-9908684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why critics are worried.",
+      "description": "Hidden bugs and lack of accountability in AI contributions spark fear, but maintainers say review and approval mitigate the danger.",
+      "visual_hint": "Magnifying glass over a bug icon",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass over bug",
+      "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check AI commits before updating.",
+      "description": "Don't trust blind—inspect AI-generated patches manually in your system to ensure safety before running future Debian updates.",
+      "visual_hint": "Shield with a checkmark over code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "shield with checkmark",
+      "image": "https://images.pexels.com/photos/6289038/pexels-photo-6289038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-08-31T23:31:15.726Z",
+  "sourceId": "6eb0d063d6c9c5e2b57632b306c5f06c"
+}

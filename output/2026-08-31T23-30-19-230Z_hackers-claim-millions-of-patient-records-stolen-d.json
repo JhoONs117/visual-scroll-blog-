@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hackers-claim-millions-of-patient-records-stolen-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+  "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+  "pubDate": "Mon, 31 Aug 2026 18:10:09 +0000",
+  "slides": [
+    "Hackers stole millions of patient records from McKesson - how?",
+    "The breach targeted a third-party data storage vendor.",
+    "The stolen data includes diagnoses, prescriptions, and Social Security numbers.",
+    "Your health records may already be exposed without your knowledge.",
+    "Check McKesson's breach notice now to see if you're affected."
+  ],
+  "thread_text": [
+    "1. They Have Your Data\n\nMcKesson's breach via a third-party vendor exposed millions of patient records, including Social Security numbers. Check if you're among them.",
+    "2. The Silent Exposure\n\nNo notification to patients? The stolen data includes diagnoses and prescriptions—your most private health details may already be circulating.",
+    "3. How It Happened\n\nThe attack targeted a third-party storage vendor, not McKesson directly—a weak link in the chain. Your records weren't safe in the cloud.",
+    "4. The Real Risk\n\nWith Social Security numbers, identity theft is imminent. Medical fraud can go unnoticed for months, and your insurance could be drained.",
+    "5. Act Now\n\nVisit McKesson's breach notice today. If your data was exposed, freeze your credit and monitor your health statements. Did you check yet?"
+  ],
+  "video_script": [
+    "Hackers stole millions of patient records.",
+    "Your diagnoses and prescriptions are exposed.",
+    "Social Security numbers stolen—identity theft risk.",
+    "Third-party vendor was the weak point.",
+    "Check McKesson's breach notice now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. They Have Your Data\n\nMcKesson's breach via a third-party vendor exposed millions of patient records, including Social Security numbers. Check if you're among them.",
+        "2. The Silent Exposure\n\nNo notification to patients? The stolen data includes diagnoses and prescriptions—your most private health details may already be circulating.",
+        "3. How It Happened\n\nThe attack targeted a third-party storage vendor, not McKesson directly—a weak link in the chain. Your records weren't safe in the cloud.",
+        "4. The Real Risk\n\nWith Social Security numbers, identity theft is imminent. Medical fraud can go unnoticed for months, and your insurance could be drained.",
+        "5. Act Now\n\nVisit McKesson's breach notice today. If your data was exposed, freeze your credit and monitor your health statements. Did you check yet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Hackers stole millions of patient records.",
+        "Your diagnoses and prescriptions are exposed.",
+        "Social Security numbers stolen—identity theft risk.",
+        "Third-party vendor was the weak point.",
+        "Check McKesson's breach notice now."
+      ]
+    },
+    "instagram": {
+      "caption": "There’s a good chance your medical records are on the dark web right now, and you weren’t even told.  \n\nMillions of patient files were lifted from healthcare giant McKesson—but the breach hit a third-party data storage vendor, not the company’s main servers. Diagnoses, prescription lists, and Social Security numbers are all in the stolen haul, and patients reportedly got no direct notification.  \n\nFor anyone creating or sharing health-related content, this is your proof that “the cloud” isn’t a safe haven—your most sensitive source material is a hacker’s jackpot.  \n\nHave you checked McKesson’s breach notice yet, or are you gambling that your name isn’t on that list? 🩺🔓⚠️"
+    }
+  },
+  "instagram_caption": "There’s a good chance your medical records are on the dark web right now, and you weren’t even told.  \n\nMillions of patient files were lifted from healthcare giant McKesson—but the breach hit a third-party data storage vendor, not the company’s main servers. Diagnoses, prescription lists, and Social Security numbers are all in the stolen haul, and patients reportedly got no direct notification.  \n\nFor anyone creating or sharing health-related content, this is your proof that “the cloud” isn’t a safe haven—your most sensitive source material is a hacker’s jackpot.  \n\nHave you checked McKesson’s breach notice yet, or are you gambling that your name isn’t on that list? 🩺🔓⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Your most private data is already out there.",
+      "description": "A third-party vendor breach at McKesson exposed millions of records, including Social Security numbers. Even you may not know yet.",
+      "visual_hint": "magnifying glass over medical file",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data breach digital"
+    },
+    {
+      "hook": "They never told you directly.",
+      "description": "McKesson didn't notify patients itself. Diagnostics, prescriptions, and SSNs were stolen—your private health details are circulating.",
+      "visual_hint": "silhouette with question mark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "medical records",
+      "image": "https://images.pexels.com/photos/4989149/pexels-photo-4989149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The weak link is the cloud.",
+      "description": "The attack hit a third-party storage vendor, not McKesson directly. Your records weren't safe in that cloud system.",
+      "visual_hint": "server room with lock",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your identity is at stake.",
+      "description": "With Social Security numbers stolen, identity theft is imminent. Medical claims can drain your insurance before you notice.",
+      "visual_hint": "hand holding credit card",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stolen credit card",
+      "image": "https://images.pexels.com/photos/6347712/pexels-photo-6347712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check now before it's too late.",
+      "description": "Visit McKesson's breach notice today. If exposed, freeze your credit and monitor your health statements for fraud.",
+      "visual_hint": "clicking on breach notice",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800",
+  "savedAt": "2026-08-31T23:31:02.946Z",
+  "sourceId": "5646ae2cac829173a1f266d2dc693978"
+}
