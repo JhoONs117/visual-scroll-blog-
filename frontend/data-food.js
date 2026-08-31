@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "risotto-al-pomodoro-con-broccoli-e-funghi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Risotto al pomodoro con broccoli e funghi",
+    "link": "https://ricette.giallozafferano.it/Risotto-al-pomodoro-con-broccoli-e-funghi.html",
+    "pubDate": "Mon, 31 Aug 2026 16:28:00 +0200",
+    "content": "Risotto al pomodoro con broccoli e funghi chiodini Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto al pomodoro con broccoli e funghi /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 35 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto al pomodoro con broccoli e funghi è una versione ricca e autunnale del classico risotto al pomodoro . In questa ricetta la cremosità del riso mantecato con burro e Parmigiano incontra le cimette di broccoli appena sbollentate e il gusto caratteristico dei funghi chiodini sott'olio. Un primo piatto autunnale che parte dalla semplicità del risotto al pomodoro e la arricchisce con due semplici aggiunte, che lo rendono davvero sfizioso, perfetto per il pranzo di tutti i giorni. Preparate il risotto al pomodoro con broccoli e funghi chiodini per portare in tavola una variante originale e sostanziosa di uno dei grandi classici della cucina di casa. Se state cercando altre ricette di risotti con i broccoli , provate anche: Risotto coi broccoli Risotto con broccoli e anacardi Risotto con broccoli e fagioli cannellini Risotto broccoli e acciughe Riso venere con broccoli e frutti di mare Risotto con broccoli e pecorino INGREDIENTI Riso Carnaroli 320 g Polpa di pomodoro 800 g Brodo vegetale 700 g Olio extravergine d'oliva q.b. Basilico ( i gambi) q.b. Aglio 1 spicchio Broccoli (cimette) 100 g Funghi chiodini sott'olio 60 g Sale fino q.b. per mantecare Burro 50 g Parmigiano Reggiano DOP 50 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto al pomodoro con broccoli e funghi Per preparare il risotto al pomodoro con broccoli e funghi iniziate dalle cimette di broccoli. Se troppo grandi tagliatele a metà ed eliminate le parti più dure 1 . Tuffate le cimette in acqua salata bollente 2 e cuocetele fino a quando saranno cotte ma ancora consistenti 3 . Scolatele e trasferitele subito in una ciotola con acqua e ghiaccio 4 , così da interrompere la cottura e preservarne il colore. Una volta fredde, scolatele accuratamente e conditele con un filo d'olio 5 . Se necessario regolate di sale, mescolate 6 e tenete da parte. In un pentolino versate l'olio extravergine di oliva 7 e unite l'aglio e i gambi di basilico 8 . Lasciate insaporire dolcemente a fuoco basso fino a quando l'aglio sarà leggermente imbiondito, facendo attenzione a non bruciarlo. Aggiungete la polpa fine di pomodoro 9 . Regolate di sale 10 e cuocete a fuoco basso per 30 minuti. A metà cottura del sugo potete riscaldare il brodo vegetale e iniziare la cottura del risotto. Versate il riso Carnaroli in una casseruola 11 e tostatelo a secco con un pizzico di sale 12 . Mescolate durante la tostatura e, quando il riso sprigionerà il caratteristico profumo tostato e risulterà lucido, iniziate ad aggiungere il brodo vegetale caldo 13 . Proseguite la cottura aggiungendo altro brodo quando necessario e mescolate; dovrete continuare in questo modo fino a portare il riso a circa tre quarti della sua cottura 14 . Quando la salsa di pomodoro sarà pronta, eliminate l'aglio e i gambi di basilico 15 . Unite quindi il sugo al riso quasi cotto 16 e mescolate bene. Continuate a cuocere il risotto fino a completarne la cottura, mantenendolo cremoso e aggiungendo brodo solo se necessario. Spegnete il fuoco e aggiungete il burro freddo a cubetti 17 e il parmigiano 18 . Mantecate mescolando accuratamente 19 fino a ottenere un risotto cremoso e ben legato 20 . Lasciatelo riposare per 1 minuto prima di servirlo. Distribuite quindi il risotto nei piatti 21 . Completate con i funghi chiodini sott'olio ben scolati 22 e le cimette di broccolo condite 23 . Servite subito il vostro risotto al pomodoro con broccoli e funghi 24 . Conservazione Conservate il risotto al pomodoro con broccoli e chiodini in frigorifero, in un contenitore ermetico, per massimo 1 giorno. Si sconsiglia la congelazione. Consiglio Potete realizzare il brodo vegetale seguendo la nostra ricetta. Raffreddate i broccoli immediatamente in acqua e ghiaccio dopo averli lessati: questo passaggio permette di fermarne la cottura e di mantenere più brillante il colore. Scolate inoltre molto bene i chiodini sott'olio prima di aggiungerli al piatto, in modo che il loro condimento non alteri la cremosità del risotto. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Pomodoro Aglio Broccoli Olio di oliva Burro Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto al pomodoro con broccoli e funghi Tajarin con pesto di basilico e burrata 5.0 Spiedini di zucchine al forno 3.6 SCOPRI Risotto ai funghi secchi Risotto funghi e salsiccia Risotto ai funghi porcini secchi Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Risotto al pomodoro cremoso con broccoli e funghi.",
+      "Riso, polpa di pomodoro, broccoli, chiodini, parmigiano.",
+      "Sbollenta i broccoli e condiscili con olio.",
+      "Tosta il riso, poi cuoci con brodo e sugo.",
+      "Manteca con burro e parmigiano, servi con funghi."
+    ],
+    "instagram_caption": "C’è chi dice che il risotto si fa solo con lo zafferano… poi arriva questo e cambia tutto. 🍅 Un abbraccio cremoso tra pomodoro, broccoli teneri e funghi chiodini che si sciolgono nel piatto. Tosto il riso, lo bagno con brodo e sugo finché non diventa velluto, poi manteco con burro e parmigiano. I broccoli li sbollento e li condisco con un filo d’olio: semplice, ma che goduria. Ogni cucchiaio è un equilibrio perfetto tra dolcezza e sapore di bosco. 🍄 Ti ho già fatto venire fame, vero? Provala questo weekend e fammi sapere! 🌿",
+    "formats": {
+      "instagram": {
+        "caption": "C’è chi dice che il risotto si fa solo con lo zafferano… poi arriva questo e cambia tutto. 🍅 Un abbraccio cremoso tra pomodoro, broccoli teneri e funghi chiodini che si sciolgono nel piatto. Tosto il riso, lo bagno con brodo e sugo finché non diventa velluto, poi manteco con burro e parmigiano. I broccoli li sbollento e li condisco con un filo d’olio: semplice, ma che goduria. Ogni cucchiaio è un equilibrio perfetto tra dolcezza e sapore di bosco. 🍄 Ti ho già fatto venire fame, vero? Provala questo weekend e fammi sapere! 🌿"
+      },
+      "tiktok": {
+        "script": [
+          "Risotto al pomodoro, broccoli e funghi, pronti?",
+          "Sbollento i broccoli, poi li condisco con olio.",
+          "Tosto il riso, aggiungo brodo e polpa di pomodoro.",
+          "A fine cottura manteco con burro e parmigiano.",
+          "Impiatto con i chiodini, cremosissimo, buonissimo!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "C'è chi fa il risotto rosso e chi lo fa coi broccoli. Ma nessuno te lo fa coi funghi chiodini dentro. Questo piatto è una bomba cremosa che non ti aspetti. 🤤",
+          "Parti dai broccoli: sbollentali 3 minuti, scolali e condiscili con un filo d'olio. Nel frattempo, tosta il riso a secco fino a quando non diventa lucido e profumato. Qui si gioca la partita.",
+          "Aggiungi il brodo caldo poco alla volta e a metà cottura un bel mestolo di polpa di pomodoro. Mescola sempre, senza fretta: il risotto vuole amore, non improvvisazione. I chiodini li tieni da parte per il finale.",
+          "Quando il riso è al dente, spegni il fuoco e manteca con burro freddo e una generosa manciata di parmigiano. Fuori dal fuoco, così diventa vellutato e cremoso come deve essere. I funghi saltati in padella sopra, non dentro.",
+          "Il segreto? I broccoli conditi prima, non cotti nel risotto: restano croccanti e danno colore. Aggiungi i funghi solo alla fine. Provala e fammi sapere se non te ne innamori 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Risotto al pomodoro, broccoli e funghi, pronti?",
+      "Sbollento i broccoli, poi li condisco con olio.",
+      "Tosto il riso, aggiungo brodo e polpa di pomodoro.",
+      "A fine cottura manteco con burro e parmigiano.",
+      "Impiatto con i chiodini, cremosissimo, buonissimo!"
+    ],
+    "thread_text": [
+      "C'è chi fa il risotto rosso e chi lo fa coi broccoli. Ma nessuno te lo fa coi funghi chiodini dentro. Questo piatto è una bomba cremosa che non ti aspetti. 🤤",
+      "Parti dai broccoli: sbollentali 3 minuti, scolali e condiscili con un filo d'olio. Nel frattempo, tosta il riso a secco fino a quando non diventa lucido e profumato. Qui si gioca la partita.",
+      "Aggiungi il brodo caldo poco alla volta e a metà cottura un bel mestolo di polpa di pomodoro. Mescola sempre, senza fretta: il risotto vuole amore, non improvvisazione. I chiodini li tieni da parte per il finale.",
+      "Quando il riso è al dente, spegni il fuoco e manteca con burro freddo e una generosa manciata di parmigiano. Fuori dal fuoco, così diventa vellutato e cremoso come deve essere. I funghi saltati in padella sopra, non dentro.",
+      "Il segreto? I broccoli conditi prima, non cotti nel risotto: restano croccanti e danno colore. Aggiungi i funghi solo alla fine. Provala e fammi sapere se non te ne innamori 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Risotto cremoso al pomodoro",
+        "description": "Un comfort food vegetariano con broccoli e funghi, cremoso e ricco di sapore.",
+        "visual_hint": "Piatto fumante su tavola rustica",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy tomato risotto savory"
+      },
+      {
+        "hook": "Gli ingredienti chiave",
+        "description": "Riso, polpa di pomodoro, broccoli e chiodini: pochi elementi per un risultato straordinario.",
+        "visual_hint": "Ingredienti disposti su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "risotto ingredients vegetables savory",
+        "image": "https://images.pexels.com/photos/28503610/pexels-photo-28503610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sbollenta i broccoli",
+        "description": "Un passaggio rapido per ammorbidire i broccoli e mantenere il loro colore vivace.",
+        "visual_hint": "Manciata di broccoli in pentola",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "blanched broccoli pot savory",
+        "image": "https://images.pexels.com/photos/20182296/pexels-photo-20182296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Tosta il riso",
+        "description": "Tosta il riso per sigillare i chicchi, poi cuoci a fuoco lento con brodo e sugo per una cremosità perfetta.",
+        "visual_hint": "Riso che tosta in padella",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "toasting rice pan savory",
+        "image": "https://images.pexels.com/photos/14192638/pexels-photo-14192638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Manteca e servi",
+        "description": "Manteca con burro e parmigiano per un risotto lucido, guarnisci con funghi e broccoli.",
+        "visual_hint": "Risotto impiattato con guarnizione",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "plated risotto mushrooms broccoli savory",
+        "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "vegetable",
+    "signature_ingredients": [
+      "riso",
+      "pomodoro",
+      "funghi"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36573/Risotto-al-pomodoro-con-broccoli-e-funghi_650x433_wm.jpg",
+    "savedAt": "2026-08-31T18:34:34.033Z",
+    "sourceId": "e826913baeb780eac4224b15224c11fa"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-con-pesto-e-calamari",
     "prompt_version": "1.0.0",
     "status": "published",

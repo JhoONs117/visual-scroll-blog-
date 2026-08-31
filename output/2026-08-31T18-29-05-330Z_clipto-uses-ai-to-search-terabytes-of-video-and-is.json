@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "clipto-uses-ai-to-search-terabytes-of-video-and-is",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+  "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+  "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+  "slides": [
+    "Clipto finds any moment in terabytes of video—how?",
+    "Traditional search relies on text; Clipto understands visuals.",
+    "It spots objects and actions competitors simply cannot index.",
+    "Your team stops scrubbing footage; instant answers appear.",
+    "Test Clipto on one video; see what you missed."
+  ],
+  "thread_text": [
+    "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+    "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+    "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+    "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+    "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+  ],
+  "video_script": [
+    "Finding a moment in terabytes of video.",
+    "Clipto sees visuals, not just text.",
+    "Spots objects and actions others miss.",
+    "Stop scrubbing, get instant answers.",
+    "Test Clipto on your video now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+        "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+        "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+        "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+        "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Finding a moment in terabytes of video.",
+        "Clipto sees visuals, not just text.",
+        "Spots objects and actions others miss.",
+        "Stop scrubbing, get instant answers.",
+        "Test Clipto on your video now."
+      ]
+    },
+    "instagram": {
+      "caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬"
+    }
+  },
+  "instagram_caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬",
+  "carousel_slides": [
+    {
+      "hook": "What if search could see?",
+      "description": "Clipto understands pixels, not just text, so it can spot objects and actions in terabytes of video that keyword search misses entirely.",
+      "visual_hint": "Magnifying glass over pixels",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "video editing timeline"
+    },
+    {
+      "hook": "Keywords can't capture visuals.",
+      "description": "Traditional search matches text only, but Clipto interprets what's happening on screen, identifying scenes and actions that typed queries ignore.",
+      "visual_hint": "Split screen text vs pixels",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer screen close up",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors index less than you think.",
+      "description": "They can't index what they can't see. Clipto goes beyond the obvious, spotting subtle motions and scenes others overlook in your footage.",
+      "visual_hint": "Zoom into subtle motion",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "surveillance camera system",
+      "image": "https://images.pexels.com/photos/11384993/pexels-photo-11384993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop scrubbing footage forever.",
+      "description": "Instead of hours of manual review, your team gets instant answers from video, freeing time for higher-value work without the grind.",
+      "visual_hint": "Hand pointing at answer",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office worker computer",
+      "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Clipto on one video now.",
+      "description": "Upload a single video and see what you've been missing. Try it today and discover the moments you've overlooked.",
+      "visual_hint": "Upload button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "video camera studio",
+      "image": "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+  "savedAt": "2026-08-31T18:29:29.975Z",
+  "sourceId": "773b325bd3a66ba6aa870c55dab75f8d"
+}

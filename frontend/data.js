@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "chatgpt-to-face-tougher-regulation-in-the-eu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "pubDate": "2026-08-31T13:27:36.000Z",
+    "slides": [
+      "ChatGPT's EU future just got murkier—what changes?",
+      "New AI Act rules classify it as high-risk now.",
+      "Surprise: even open-source models may face audits.",
+      "Your EU chatbot features could be delayed or filtered.",
+      "Audit your AI vendor's compliance plan this quarter."
+    ],
+    "thread_text": [
+      "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+      "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+      "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+      "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+      "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+    ],
+    "video_script": [
+      "ChatGPT's EU future just got murkier.",
+      "New high-risk rules for AI models.",
+      "Open-source models now face audits too.",
+      "EU chatbot features may be delayed.",
+      "Audit your AI vendor's compliance plan."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+          "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+          "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+          "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+          "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT's EU future just got murkier.",
+          "New high-risk rules for AI models.",
+          "Open-source models now face audits too.",
+          "EU chatbot features may be delayed.",
+          "Audit your AI vendor's compliance plan."
+        ]
+      },
+      "instagram": {
+        "caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺"
+      }
+    },
+    "instagram_caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺",
+    "carousel_slides": [
+      {
+        "hook": "Even open-source AI now audited?",
+        "description": "The EU AI Act now classifies ChatGPT as high-risk, and even open-source models face audits. Expect compliance delays.",
+        "visual_hint": "Gavel hitting wooden desk",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel desk"
+      },
+      {
+        "hook": "High-risk status: what changes?",
+        "description": "New AI Act rules label ChatGPT as high-risk, forcing stricter compliance and possible feature delays in the EU.",
+        "visual_hint": "Warning sign on factory",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "warning sign factory",
+        "image": "https://images.pexels.com/photos/35915224/pexels-photo-35915224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Surprise: open-source audits coming",
+        "description": "Even open-source models may face audits under new EU rules, surprising developers and adding compliance burdens.",
+        "visual_hint": "Magnifying glass over code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass code",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "EU chatbot features at risk?",
+        "description": "Your EU chatbot features could be delayed or filtered due to new AI regulations, impacting user experience and rollout plans.",
+        "visual_hint": "Chatbot with delay clock",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "chatbot phone clock",
+        "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit AI vendors now",
+        "description": "Audit your AI vendor's EU compliance plan this quarter to avoid disruptions and ensure readiness for new rules.",
+        "visual_hint": "Checklist with pen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist pen clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+    "savedAt": "2026-08-31T18:30:06.779Z",
+    "sourceId": "8178888de70f464470266e99a00dff1e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-s-3-5b-mediatek-bet-reveals-its-plan-for-ta",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "pubDate": "Mon, 31 Aug 2026 15:15:25 +0000",
+    "slides": [
+      "Why did Nvidia quietly invest $3.5B in MediaTek?",
+      "The deal targets AI chips for data centers, not phones.",
+      "It's a direct counter to Big Tech's custom silicon surge.",
+      "Your next AI model may run on Nvidia-MediaTek hardware.",
+      "Watch for first chips in 2026—or rethink your infrastructure."
+    ],
+    "thread_text": [
+      "1. The $3.5B Quiet Move\n\nNvidia just dropped $3.5B into MediaTek, but it's not about phones. It's a direct play for data center AI chips.",
+      "2. Why It Stings Big Tech\n\nThis is a countermove to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep the AI hardware monopoly.",
+      "3. The Infra Twist\n\nYour next AI model could be running on Nvidia-MediaTek hardware. That changes cost, power, and vendor lock-in for everyone.",
+      "4. What to Watch Now\n\nFirst chips expected in 2026. That gives you a window to plan migrations or negotiate better terms with current providers.",
+      "5. Your Move\n\nDoes your infrastructure budget assume Nvidia is the only game? If so, test a workload on a non-Nvidia alternative this week."
+    ],
+    "video_script": [
+      "Nvidia quietly gave MediaTek three point five billion.",
+      "Not for phones. For data center AI chips.",
+      "This counters big tech's custom silicon push.",
+      "Your next AI model could run on their hardware.",
+      "First chips in 2026. Rethink your infrastructure."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $3.5B Quiet Move\n\nNvidia just dropped $3.5B into MediaTek, but it's not about phones. It's a direct play for data center AI chips.",
+          "2. Why It Stings Big Tech\n\nThis is a countermove to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep the AI hardware monopoly.",
+          "3. The Infra Twist\n\nYour next AI model could be running on Nvidia-MediaTek hardware. That changes cost, power, and vendor lock-in for everyone.",
+          "4. What to Watch Now\n\nFirst chips expected in 2026. That gives you a window to plan migrations or negotiate better terms with current providers.",
+          "5. Your Move\n\nDoes your infrastructure budget assume Nvidia is the only game? If so, test a workload on a non-Nvidia alternative this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia quietly gave MediaTek three point five billion.",
+          "Not for phones. For data center AI chips.",
+          "This counters big tech's custom silicon push.",
+          "Your next AI model could run on their hardware.",
+          "First chips in 2026. Rethink your infrastructure."
+        ]
+      },
+      "instagram": {
+        "caption": "$3.5 billion. That's how much Nvidia just bet on MediaTek to build data center chips—not phone parts. 🎯\n\nThis is a direct counter to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep its grip on the AI hardware market before those giants carve it up.\n\nFirst chips land in 2026. That means your next AI model could run on Nvidia-MediaTek hardware, changing cost and vendor lock-in for everyone who builds on top of it. ⚙️\n\nIf you're paying for AI compute today, your infrastructure budget might be assuming Nvidia is the only option. Test one workload on a non-Nvidia alternative this week—what breaks? 🔍"
+      }
+    },
+    "instagram_caption": "$3.5 billion. That's how much Nvidia just bet on MediaTek to build data center chips—not phone parts. 🎯\n\nThis is a direct counter to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep its grip on the AI hardware market before those giants carve it up.\n\nFirst chips land in 2026. That means your next AI model could run on Nvidia-MediaTek hardware, changing cost and vendor lock-in for everyone who builds on top of it. ⚙️\n\nIf you're paying for AI compute today, your infrastructure budget might be assuming Nvidia is the only option. Test one workload on a non-Nvidia alternative this week—what breaks? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Nvidia's $3.5B play targets your data center",
+        "description": "Nvidia invested $3.5B in MediaTek, not for phones, but to counter Big Tech's custom AI chips and protect its data center dominance.",
+        "visual_hint": "Nvidia logo with dollar sign",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Why does Big Tech fear this deal?",
+        "description": "Amazon, Google, and Meta are designing custom silicon to break Nvidia's grip. This investment is a direct counter to keep the AI hardware monopoly.",
+        "visual_hint": "Three logos crossed out",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next AI model may run on this hardware",
+        "description": "Nvidia-MediaTek chips could power your AI workloads, changing costs, power usage, and vendor lock-in. Infrastructure decisions start now.",
+        "visual_hint": "Chip with AI symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip",
+        "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "First chips arrive in 2026—what's your plan?",
+        "description": "That gives you a window to test alternatives or negotiate better terms with current providers before the new hardware hits the market.",
+        "visual_hint": "Calendar with chip icon",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding chip",
+        "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to rethink your infrastructure budget",
+        "description": "Assume Nvidia is the only option? Test a workload on a non-Nvidia alternative this week and see the difference.",
+        "visual_hint": "Checkmark on budget chart",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "budget chart",
+        "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846",
+    "savedAt": "2026-08-31T18:29:55.068Z",
+    "sourceId": "70a6777661763c798673b1a5c508649d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-ai-could-make-it-harder-for-governments-to-use",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How AI could make it harder for governments to use hacking tools",
+    "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+    "pubDate": "Mon, 31 Aug 2026 15:19:32 +0000",
+    "slides": [
+      "Could AI disarm the government's hacking arsenal?",
+      "New AI models can detect known exploit signatures instantly.",
+      "These same models often fail against novel zero-day attacks.",
+      "Encrypted patching cycles now shift from months to hours.",
+      "Your next vulnerability fix may need an AI audit first."
+    ],
+    "thread_text": [
+      "1. The New Arms Race\n\nAI can now spot known exploits in seconds, but attackers are already shifting to zero-day tactics that slip past these defenses.",
+      "2. The Patch Paradox\n\nPatching cycles have dropped from months to hours, yet every fix still needs an AI audit to verify it's actually safe.",
+      "3. The Encryption Gap\n\nEncrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+      "4. The Zero-Day Blind Spot\n\nNovel attacks remain invisible to AI detection until they're already in the wild, leaving a critical window of vulnerability.",
+      "5. Your Move\n\nRun an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today."
+    ],
+    "video_script": [
+      "AI detects known attacks in seconds.",
+      "But zero-days still slip through undetected.",
+      "Patching now takes hours, not months.",
+      "AI audits are the new security checkpoint.",
+      "Check your last patch with AI."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The New Arms Race\n\nAI can now spot known exploits in seconds, but attackers are already shifting to zero-day tactics that slip past these defenses.",
+          "2. The Patch Paradox\n\nPatching cycles have dropped from months to hours, yet every fix still needs an AI audit to verify it's actually safe.",
+          "3. The Encryption Gap\n\nEncrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+          "4. The Zero-Day Blind Spot\n\nNovel attacks remain invisible to AI detection until they're already in the wild, leaving a critical window of vulnerability.",
+          "5. Your Move\n\nRun an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI detects known attacks in seconds.",
+          "But zero-days still slip through undetected.",
+          "Patching now takes hours, not months.",
+          "AI audits are the new security checkpoint.",
+          "Check your last patch with AI."
+        ]
+      },
+      "instagram": {
+        "caption": "Your patch cycle just dropped from months to hours—but only if an AI can sign off on it first. 🕒\n\nSecurity teams are finding that AI models excel at spotting known hacking tools instantly, yet they're nearly blind to novel zero-day attacks. The same tech that speeds up defenses is creating a new bottleneck: every fix now needs an AI audit before it's trusted. Encrypted patching hides updates from prying eyes, but attackers exploit timing gaps before fixes land.\n\nFor anyone shipping code or managing content systems, your next vulnerability fix might sit waiting for machine approval—while zero-day threats slip through that window. 🔒\n\nWhen was the last time you ran an AI audit on your deployed patches? If the answer is \"never,\" what's your backup plan for the blind spot? 🤔"
+      }
+    },
+    "instagram_caption": "Your patch cycle just dropped from months to hours—but only if an AI can sign off on it first. 🕒\n\nSecurity teams are finding that AI models excel at spotting known hacking tools instantly, yet they're nearly blind to novel zero-day attacks. The same tech that speeds up defenses is creating a new bottleneck: every fix now needs an AI audit before it's trusted. Encrypted patching hides updates from prying eyes, but attackers exploit timing gaps before fixes land.\n\nFor anyone shipping code or managing content systems, your next vulnerability fix might sit waiting for machine approval—while zero-day threats slip through that window. 🔒\n\nWhen was the last time you ran an AI audit on your deployed patches? If the answer is \"never,\" what's your backup plan for the blind spot? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Your network has a blind spot.",
+        "description": "AI models can spot known exploits in seconds, but they fail against zero-day attacks, leaving your system exposed to new threats.",
+        "visual_hint": "Hacker silhouette, query code",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hacker silhouette"
+      },
+      {
+        "hook": "Patch faster, but verify.",
+        "description": "Encrypted patching cycles now shrink from months to hours, yet every fix still needs an AI audit to ensure it's truly safe.",
+        "visual_hint": "Clock with shield, patch files",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zero-day attacks slip past AI.",
+        "description": "Novel attacks remain invisible to AI detection until they're already in the wild, creating a critical window of vulnerability.",
+        "visual_hint": "Magnifying glass, zero-day icon",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Hidden patches, hidden risks.",
+        "description": "Encrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+        "visual_hint": "Hand holding encrypted key",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "encrypted lock",
+        "image": "https://images.pexels.com/photos/27914015/pexels-photo-27914015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and audit your patch.",
+        "description": "Run an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today.",
+        "visual_hint": "Shield with checkmark, alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity audit",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
+    "savedAt": "2026-08-31T18:29:42.866Z",
+    "sourceId": "8c89c29603344080114657a080a60da4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "clipto-uses-ai-to-search-terabytes-of-video-and-is",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+    "slides": [
+      "Clipto finds any moment in terabytes of video—how?",
+      "Traditional search relies on text; Clipto understands visuals.",
+      "It spots objects and actions competitors simply cannot index.",
+      "Your team stops scrubbing footage; instant answers appear.",
+      "Test Clipto on one video; see what you missed."
+    ],
+    "thread_text": [
+      "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+      "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+      "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+      "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+      "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+    ],
+    "video_script": [
+      "Finding a moment in terabytes of video.",
+      "Clipto sees visuals, not just text.",
+      "Spots objects and actions others miss.",
+      "Stop scrubbing, get instant answers.",
+      "Test Clipto on your video now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+          "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+          "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+          "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+          "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Finding a moment in terabytes of video.",
+          "Clipto sees visuals, not just text.",
+          "Spots objects and actions others miss.",
+          "Stop scrubbing, get instant answers.",
+          "Test Clipto on your video now."
+        ]
+      },
+      "instagram": {
+        "caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬"
+      }
+    },
+    "instagram_caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬",
+    "carousel_slides": [
+      {
+        "hook": "What if search could see?",
+        "description": "Clipto understands pixels, not just text, so it can spot objects and actions in terabytes of video that keyword search misses entirely.",
+        "visual_hint": "Magnifying glass over pixels",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "video editing timeline"
+      },
+      {
+        "hook": "Keywords can't capture visuals.",
+        "description": "Traditional search matches text only, but Clipto interprets what's happening on screen, identifying scenes and actions that typed queries ignore.",
+        "visual_hint": "Split screen text vs pixels",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer screen close up",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors index less than you think.",
+        "description": "They can't index what they can't see. Clipto goes beyond the obvious, spotting subtle motions and scenes others overlook in your footage.",
+        "visual_hint": "Zoom into subtle motion",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "surveillance camera system",
+        "image": "https://images.pexels.com/photos/11384993/pexels-photo-11384993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stop scrubbing footage forever.",
+        "description": "Instead of hours of manual review, your team gets instant answers from video, freeing time for higher-value work without the grind.",
+        "visual_hint": "Hand pointing at answer",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office worker computer",
+        "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Clipto on one video now.",
+        "description": "Upload a single video and see what you've been missing. Try it today and discover the moments you've overlooked.",
+        "visual_hint": "Upload button on screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "video camera studio",
+        "image": "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "savedAt": "2026-08-31T18:29:29.975Z",
+    "sourceId": "773b325bd3a66ba6aa870c55dab75f8d"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-l",
     "prompt_version": "1.0.0",
     "status": "published",

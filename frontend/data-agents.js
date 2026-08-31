@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "chatgpt-to-face-tougher-regulation-in-the-eu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "pubDate": "2026-08-31T13:27:36.000Z",
+      "slides": [
+        "ChatGPT's EU future just got murkier—what changes?",
+        "New AI Act rules classify it as high-risk now.",
+        "Surprise: even open-source models may face audits.",
+        "Your EU chatbot features could be delayed or filtered.",
+        "Audit your AI vendor's compliance plan this quarter."
+      ],
+      "thread_text": [
+        "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+        "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+        "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+        "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+        "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+      ],
+      "video_script": [
+        "ChatGPT's EU future just got murkier.",
+        "New high-risk rules for AI models.",
+        "Open-source models now face audits too.",
+        "EU chatbot features may be delayed.",
+        "Audit your AI vendor's compliance plan."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+            "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+            "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+            "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+            "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ChatGPT's EU future just got murkier.",
+            "New high-risk rules for AI models.",
+            "Open-source models now face audits too.",
+            "EU chatbot features may be delayed.",
+            "Audit your AI vendor's compliance plan."
+          ]
+        },
+        "instagram": {
+          "caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺"
+        }
+      },
+      "instagram_caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺",
+      "carousel_slides": [
+        {
+          "hook": "Even open-source AI now audited?",
+          "description": "The EU AI Act now classifies ChatGPT as high-risk, and even open-source models face audits. Expect compliance delays.",
+          "visual_hint": "Gavel hitting wooden desk",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel desk"
+        },
+        {
+          "hook": "High-risk status: what changes?",
+          "description": "New AI Act rules label ChatGPT as high-risk, forcing stricter compliance and possible feature delays in the EU.",
+          "visual_hint": "Warning sign on factory",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warning sign factory",
+          "image": "https://images.pexels.com/photos/35915224/pexels-photo-35915224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Surprise: open-source audits coming",
+          "description": "Even open-source models may face audits under new EU rules, surprising developers and adding compliance burdens.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "EU chatbot features at risk?",
+          "description": "Your EU chatbot features could be delayed or filtered due to new AI regulations, impacting user experience and rollout plans.",
+          "visual_hint": "Chatbot with delay clock",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chatbot phone clock",
+          "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit AI vendors now",
+          "description": "Audit your AI vendor's EU compliance plan this quarter to avoid disruptions and ensure readiness for new rules.",
+          "visual_hint": "Checklist with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist pen clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+      "savedAt": "2026-08-31T18:30:06.779Z",
+      "sourceId": "8178888de70f464470266e99a00dff1e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-s-3-5b-mediatek-bet-reveals-its-plan-for-ta",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "pubDate": "Mon, 31 Aug 2026 15:15:25 +0000",
+      "slides": [
+        "Why did Nvidia quietly invest $3.5B in MediaTek?",
+        "The deal targets AI chips for data centers, not phones.",
+        "It's a direct counter to Big Tech's custom silicon surge.",
+        "Your next AI model may run on Nvidia-MediaTek hardware.",
+        "Watch for first chips in 2026—or rethink your infrastructure."
+      ],
+      "thread_text": [
+        "1. The $3.5B Quiet Move\n\nNvidia just dropped $3.5B into MediaTek, but it's not about phones. It's a direct play for data center AI chips.",
+        "2. Why It Stings Big Tech\n\nThis is a countermove to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep the AI hardware monopoly.",
+        "3. The Infra Twist\n\nYour next AI model could be running on Nvidia-MediaTek hardware. That changes cost, power, and vendor lock-in for everyone.",
+        "4. What to Watch Now\n\nFirst chips expected in 2026. That gives you a window to plan migrations or negotiate better terms with current providers.",
+        "5. Your Move\n\nDoes your infrastructure budget assume Nvidia is the only game? If so, test a workload on a non-Nvidia alternative this week."
+      ],
+      "video_script": [
+        "Nvidia quietly gave MediaTek three point five billion.",
+        "Not for phones. For data center AI chips.",
+        "This counters big tech's custom silicon push.",
+        "Your next AI model could run on their hardware.",
+        "First chips in 2026. Rethink your infrastructure."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $3.5B Quiet Move\n\nNvidia just dropped $3.5B into MediaTek, but it's not about phones. It's a direct play for data center AI chips.",
+            "2. Why It Stings Big Tech\n\nThis is a countermove to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep the AI hardware monopoly.",
+            "3. The Infra Twist\n\nYour next AI model could be running on Nvidia-MediaTek hardware. That changes cost, power, and vendor lock-in for everyone.",
+            "4. What to Watch Now\n\nFirst chips expected in 2026. That gives you a window to plan migrations or negotiate better terms with current providers.",
+            "5. Your Move\n\nDoes your infrastructure budget assume Nvidia is the only game? If so, test a workload on a non-Nvidia alternative this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Nvidia quietly gave MediaTek three point five billion.",
+            "Not for phones. For data center AI chips.",
+            "This counters big tech's custom silicon push.",
+            "Your next AI model could run on their hardware.",
+            "First chips in 2026. Rethink your infrastructure."
+          ]
+        },
+        "instagram": {
+          "caption": "$3.5 billion. That's how much Nvidia just bet on MediaTek to build data center chips—not phone parts. 🎯\n\nThis is a direct counter to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep its grip on the AI hardware market before those giants carve it up.\n\nFirst chips land in 2026. That means your next AI model could run on Nvidia-MediaTek hardware, changing cost and vendor lock-in for everyone who builds on top of it. ⚙️\n\nIf you're paying for AI compute today, your infrastructure budget might be assuming Nvidia is the only option. Test one workload on a non-Nvidia alternative this week—what breaks? 🔍"
+        }
+      },
+      "instagram_caption": "$3.5 billion. That's how much Nvidia just bet on MediaTek to build data center chips—not phone parts. 🎯\n\nThis is a direct counter to Amazon, Google, and Meta designing their own silicon. Nvidia wants to keep its grip on the AI hardware market before those giants carve it up.\n\nFirst chips land in 2026. That means your next AI model could run on Nvidia-MediaTek hardware, changing cost and vendor lock-in for everyone who builds on top of it. ⚙️\n\nIf you're paying for AI compute today, your infrastructure budget might be assuming Nvidia is the only option. Test one workload on a non-Nvidia alternative this week—what breaks? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Nvidia's $3.5B play targets your data center",
+          "description": "Nvidia invested $3.5B in MediaTek, not for phones, but to counter Big Tech's custom AI chips and protect its data center dominance.",
+          "visual_hint": "Nvidia logo with dollar sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Why does Big Tech fear this deal?",
+          "description": "Amazon, Google, and Meta are designing custom silicon to break Nvidia's grip. This investment is a direct counter to keep the AI hardware monopoly.",
+          "visual_hint": "Three logos crossed out",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next AI model may run on this hardware",
+          "description": "Nvidia-MediaTek chips could power your AI workloads, changing costs, power usage, and vendor lock-in. Infrastructure decisions start now.",
+          "visual_hint": "Chip with AI symbol",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "microchip",
+          "image": "https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "First chips arrive in 2026—what's your plan?",
+          "description": "That gives you a window to test alternatives or negotiate better terms with current providers before the new hardware hits the market.",
+          "visual_hint": "Calendar with chip icon",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding chip",
+          "image": "https://images.pexels.com/photos/6962256/pexels-photo-6962256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to rethink your infrastructure budget",
+          "description": "Assume Nvidia is the only option? Test a workload on a non-Nvidia alternative this week and see the difference.",
+          "visual_hint": "Checkmark on budget chart",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "budget chart",
+          "image": "https://images.pexels.com/photos/7947700/pexels-photo-7947700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846",
+      "savedAt": "2026-08-31T18:29:55.068Z",
+      "sourceId": "70a6777661763c798673b1a5c508649d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-ai-could-make-it-harder-for-governments-to-use",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "pubDate": "Mon, 31 Aug 2026 15:19:32 +0000",
+      "slides": [
+        "Could AI disarm the government's hacking arsenal?",
+        "New AI models can detect known exploit signatures instantly.",
+        "These same models often fail against novel zero-day attacks.",
+        "Encrypted patching cycles now shift from months to hours.",
+        "Your next vulnerability fix may need an AI audit first."
+      ],
+      "thread_text": [
+        "1. The New Arms Race\n\nAI can now spot known exploits in seconds, but attackers are already shifting to zero-day tactics that slip past these defenses.",
+        "2. The Patch Paradox\n\nPatching cycles have dropped from months to hours, yet every fix still needs an AI audit to verify it's actually safe.",
+        "3. The Encryption Gap\n\nEncrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+        "4. The Zero-Day Blind Spot\n\nNovel attacks remain invisible to AI detection until they're already in the wild, leaving a critical window of vulnerability.",
+        "5. Your Move\n\nRun an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today."
+      ],
+      "video_script": [
+        "AI detects known attacks in seconds.",
+        "But zero-days still slip through undetected.",
+        "Patching now takes hours, not months.",
+        "AI audits are the new security checkpoint.",
+        "Check your last patch with AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The New Arms Race\n\nAI can now spot known exploits in seconds, but attackers are already shifting to zero-day tactics that slip past these defenses.",
+            "2. The Patch Paradox\n\nPatching cycles have dropped from months to hours, yet every fix still needs an AI audit to verify it's actually safe.",
+            "3. The Encryption Gap\n\nEncrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+            "4. The Zero-Day Blind Spot\n\nNovel attacks remain invisible to AI detection until they're already in the wild, leaving a critical window of vulnerability.",
+            "5. Your Move\n\nRun an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI detects known attacks in seconds.",
+            "But zero-days still slip through undetected.",
+            "Patching now takes hours, not months.",
+            "AI audits are the new security checkpoint.",
+            "Check your last patch with AI."
+          ]
+        },
+        "instagram": {
+          "caption": "Your patch cycle just dropped from months to hours—but only if an AI can sign off on it first. 🕒\n\nSecurity teams are finding that AI models excel at spotting known hacking tools instantly, yet they're nearly blind to novel zero-day attacks. The same tech that speeds up defenses is creating a new bottleneck: every fix now needs an AI audit before it's trusted. Encrypted patching hides updates from prying eyes, but attackers exploit timing gaps before fixes land.\n\nFor anyone shipping code or managing content systems, your next vulnerability fix might sit waiting for machine approval—while zero-day threats slip through that window. 🔒\n\nWhen was the last time you ran an AI audit on your deployed patches? If the answer is \"never,\" what's your backup plan for the blind spot? 🤔"
+        }
+      },
+      "instagram_caption": "Your patch cycle just dropped from months to hours—but only if an AI can sign off on it first. 🕒\n\nSecurity teams are finding that AI models excel at spotting known hacking tools instantly, yet they're nearly blind to novel zero-day attacks. The same tech that speeds up defenses is creating a new bottleneck: every fix now needs an AI audit before it's trusted. Encrypted patching hides updates from prying eyes, but attackers exploit timing gaps before fixes land.\n\nFor anyone shipping code or managing content systems, your next vulnerability fix might sit waiting for machine approval—while zero-day threats slip through that window. 🔒\n\nWhen was the last time you ran an AI audit on your deployed patches? If the answer is \"never,\" what's your backup plan for the blind spot? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Your network has a blind spot.",
+          "description": "AI models can spot known exploits in seconds, but they fail against zero-day attacks, leaving your system exposed to new threats.",
+          "visual_hint": "Hacker silhouette, query code",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "hacker silhouette"
+        },
+        {
+          "hook": "Patch faster, but verify.",
+          "description": "Encrypted patching cycles now shrink from months to hours, yet every fix still needs an AI audit to ensure it's truly safe.",
+          "visual_hint": "Clock with shield, patch files",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Zero-day attacks slip past AI.",
+          "description": "Novel attacks remain invisible to AI detection until they're already in the wild, creating a critical window of vulnerability.",
+          "visual_hint": "Magnifying glass, zero-day icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden patches, hidden risks.",
+          "description": "Encrypted patching hides updates from prying eyes, but AI-driven attacks can still exploit timing gaps before patches land.",
+          "visual_hint": "Hand holding encrypted key",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "encrypted lock",
+          "image": "https://images.pexels.com/photos/27914015/pexels-photo-27914015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and audit your patch.",
+          "description": "Run an AI audit on your last patch. If you haven't, you're betting your network on a blind spot. Test it today.",
+          "visual_hint": "Shield with checkmark, alert",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "cybersecurity audit",
+          "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675",
+      "savedAt": "2026-08-31T18:29:42.866Z",
+      "sourceId": "8c89c29603344080114657a080a60da4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "clipto-uses-ai-to-search-terabytes-of-video-and-is",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "slides": [
+        "Clipto finds any moment in terabytes of video—how?",
+        "Traditional search relies on text; Clipto understands visuals.",
+        "It spots objects and actions competitors simply cannot index.",
+        "Your team stops scrubbing footage; instant answers appear.",
+        "Test Clipto on one video; see what you missed."
+      ],
+      "thread_text": [
+        "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+        "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+        "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+        "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+        "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+      ],
+      "video_script": [
+        "Finding a moment in terabytes of video.",
+        "Clipto sees visuals, not just text.",
+        "Spots objects and actions others miss.",
+        "Stop scrubbing, get instant answers.",
+        "Test Clipto on your video now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Search That Sees\n\nTerabytes of video are searched in seconds, but only if the system understands what’s happening, not just what’s typed.",
+            "2. Visual Understanding\n\nWhile traditional search matches text, Clipto interprets pixels, identifying objects and actions that keyword searches miss entirely.",
+            "3. Beyond the Index\n\nCompetitors can’t index what they can’t see. Clipto spots the subtle motions and scenes that others overlook.",
+            "4. Stop Scrubbing\n\nYour team can stop wasting hours on footage review. Instant answers replace the grind, freeing time for higher-value work.",
+            "5. Test It Yourself\n\nUpload one of your videos to Clipto today. See what you’ve been missing. Are you ready to know?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Finding a moment in terabytes of video.",
+            "Clipto sees visuals, not just text.",
+            "Spots objects and actions others miss.",
+            "Stop scrubbing, get instant answers.",
+            "Test Clipto on your video now."
+          ]
+        },
+        "instagram": {
+          "caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬"
+        }
+      },
+      "instagram_caption": "Terabytes of video, searched in seconds, but only if the system actually sees what's in the frame. Clipto just hit a $250M valuation for doing exactly that. 👀\n\nWhile classic search matches text, Clipto understands pixels—spotting objects and actions that no competitor can index. The result: your team stops scrubbing hours of footage and gets instant answers instead. ⏱️\n\nFor anyone editing, reviewing, or archiving video, the manual grind just became optional.\n\nUpload one of your own videos to test it. What did you miss? 🎬",
+      "carousel_slides": [
+        {
+          "hook": "What if search could see?",
+          "description": "Clipto understands pixels, not just text, so it can spot objects and actions in terabytes of video that keyword search misses entirely.",
+          "visual_hint": "Magnifying glass over pixels",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "video editing timeline"
+        },
+        {
+          "hook": "Keywords can't capture visuals.",
+          "description": "Traditional search matches text only, but Clipto interprets what's happening on screen, identifying scenes and actions that typed queries ignore.",
+          "visual_hint": "Split screen text vs pixels",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer screen close up",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Competitors index less than you think.",
+          "description": "They can't index what they can't see. Clipto goes beyond the obvious, spotting subtle motions and scenes others overlook in your footage.",
+          "visual_hint": "Zoom into subtle motion",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "surveillance camera system",
+          "image": "https://images.pexels.com/photos/11384993/pexels-photo-11384993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop scrubbing footage forever.",
+          "description": "Instead of hours of manual review, your team gets instant answers from video, freeing time for higher-value work without the grind.",
+          "visual_hint": "Hand pointing at answer",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office worker computer",
+          "image": "https://images.pexels.com/photos/12903349/pexels-photo-12903349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test Clipto on one video now.",
+          "description": "Upload a single video and see what you've been missing. Try it today and discover the moments you've overlooked.",
+          "visual_hint": "Upload button on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "video camera studio",
+          "image": "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "savedAt": "2026-08-31T18:29:29.975Z",
+      "sourceId": "773b325bd3a66ba6aa870c55dab75f8d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-l",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -138024,6 +138440,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-al-pomodoro-con-broccoli-e-funghi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto al pomodoro con broccoli e funghi",
+      "link": "https://ricette.giallozafferano.it/Risotto-al-pomodoro-con-broccoli-e-funghi.html",
+      "pubDate": "Mon, 31 Aug 2026 16:28:00 +0200",
+      "content": "Risotto al pomodoro con broccoli e funghi chiodini Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto al pomodoro con broccoli e funghi /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 35 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto al pomodoro con broccoli e funghi è una versione ricca e autunnale del classico risotto al pomodoro . In questa ricetta la cremosità del riso mantecato con burro e Parmigiano incontra le cimette di broccoli appena sbollentate e il gusto caratteristico dei funghi chiodini sott'olio. Un primo piatto autunnale che parte dalla semplicità del risotto al pomodoro e la arricchisce con due semplici aggiunte, che lo rendono davvero sfizioso, perfetto per il pranzo di tutti i giorni. Preparate il risotto al pomodoro con broccoli e funghi chiodini per portare in tavola una variante originale e sostanziosa di uno dei grandi classici della cucina di casa. Se state cercando altre ricette di risotti con i broccoli , provate anche: Risotto coi broccoli Risotto con broccoli e anacardi Risotto con broccoli e fagioli cannellini Risotto broccoli e acciughe Riso venere con broccoli e frutti di mare Risotto con broccoli e pecorino INGREDIENTI Riso Carnaroli 320 g Polpa di pomodoro 800 g Brodo vegetale 700 g Olio extravergine d'oliva q.b. Basilico ( i gambi) q.b. Aglio 1 spicchio Broccoli (cimette) 100 g Funghi chiodini sott'olio 60 g Sale fino q.b. per mantecare Burro 50 g Parmigiano Reggiano DOP 50 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto al pomodoro con broccoli e funghi Per preparare il risotto al pomodoro con broccoli e funghi iniziate dalle cimette di broccoli. Se troppo grandi tagliatele a metà ed eliminate le parti più dure 1 . Tuffate le cimette in acqua salata bollente 2 e cuocetele fino a quando saranno cotte ma ancora consistenti 3 . Scolatele e trasferitele subito in una ciotola con acqua e ghiaccio 4 , così da interrompere la cottura e preservarne il colore. Una volta fredde, scolatele accuratamente e conditele con un filo d'olio 5 . Se necessario regolate di sale, mescolate 6 e tenete da parte. In un pentolino versate l'olio extravergine di oliva 7 e unite l'aglio e i gambi di basilico 8 . Lasciate insaporire dolcemente a fuoco basso fino a quando l'aglio sarà leggermente imbiondito, facendo attenzione a non bruciarlo. Aggiungete la polpa fine di pomodoro 9 . Regolate di sale 10 e cuocete a fuoco basso per 30 minuti. A metà cottura del sugo potete riscaldare il brodo vegetale e iniziare la cottura del risotto. Versate il riso Carnaroli in una casseruola 11 e tostatelo a secco con un pizzico di sale 12 . Mescolate durante la tostatura e, quando il riso sprigionerà il caratteristico profumo tostato e risulterà lucido, iniziate ad aggiungere il brodo vegetale caldo 13 . Proseguite la cottura aggiungendo altro brodo quando necessario e mescolate; dovrete continuare in questo modo fino a portare il riso a circa tre quarti della sua cottura 14 . Quando la salsa di pomodoro sarà pronta, eliminate l'aglio e i gambi di basilico 15 . Unite quindi il sugo al riso quasi cotto 16 e mescolate bene. Continuate a cuocere il risotto fino a completarne la cottura, mantenendolo cremoso e aggiungendo brodo solo se necessario. Spegnete il fuoco e aggiungete il burro freddo a cubetti 17 e il parmigiano 18 . Mantecate mescolando accuratamente 19 fino a ottenere un risotto cremoso e ben legato 20 . Lasciatelo riposare per 1 minuto prima di servirlo. Distribuite quindi il risotto nei piatti 21 . Completate con i funghi chiodini sott'olio ben scolati 22 e le cimette di broccolo condite 23 . Servite subito il vostro risotto al pomodoro con broccoli e funghi 24 . Conservazione Conservate il risotto al pomodoro con broccoli e chiodini in frigorifero, in un contenitore ermetico, per massimo 1 giorno. Si sconsiglia la congelazione. Consiglio Potete realizzare il brodo vegetale seguendo la nostra ricetta. Raffreddate i broccoli immediatamente in acqua e ghiaccio dopo averli lessati: questo passaggio permette di fermarne la cottura e di mantenere più brillante il colore. Scolate inoltre molto bene i chiodini sott'olio prima di aggiungerli al piatto, in modo che il loro condimento non alteri la cremosità del risotto. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Basilico Pomodoro Aglio Broccoli Olio di oliva Burro Parmigiano Reggiano Scopri tutto sugli ingredienti STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Risotto al pomodoro con broccoli e funghi Tajarin con pesto di basilico e burrata 5.0 Spiedini di zucchine al forno 3.6 SCOPRI Risotto ai funghi secchi Risotto funghi e salsiccia Risotto ai funghi porcini secchi Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Risotto al pomodoro cremoso con broccoli e funghi.",
+        "Riso, polpa di pomodoro, broccoli, chiodini, parmigiano.",
+        "Sbollenta i broccoli e condiscili con olio.",
+        "Tosta il riso, poi cuoci con brodo e sugo.",
+        "Manteca con burro e parmigiano, servi con funghi."
+      ],
+      "instagram_caption": "C’è chi dice che il risotto si fa solo con lo zafferano… poi arriva questo e cambia tutto. 🍅 Un abbraccio cremoso tra pomodoro, broccoli teneri e funghi chiodini che si sciolgono nel piatto. Tosto il riso, lo bagno con brodo e sugo finché non diventa velluto, poi manteco con burro e parmigiano. I broccoli li sbollento e li condisco con un filo d’olio: semplice, ma che goduria. Ogni cucchiaio è un equilibrio perfetto tra dolcezza e sapore di bosco. 🍄 Ti ho già fatto venire fame, vero? Provala questo weekend e fammi sapere! 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "C’è chi dice che il risotto si fa solo con lo zafferano… poi arriva questo e cambia tutto. 🍅 Un abbraccio cremoso tra pomodoro, broccoli teneri e funghi chiodini che si sciolgono nel piatto. Tosto il riso, lo bagno con brodo e sugo finché non diventa velluto, poi manteco con burro e parmigiano. I broccoli li sbollento e li condisco con un filo d’olio: semplice, ma che goduria. Ogni cucchiaio è un equilibrio perfetto tra dolcezza e sapore di bosco. 🍄 Ti ho già fatto venire fame, vero? Provala questo weekend e fammi sapere! 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Risotto al pomodoro, broccoli e funghi, pronti?",
+            "Sbollento i broccoli, poi li condisco con olio.",
+            "Tosto il riso, aggiungo brodo e polpa di pomodoro.",
+            "A fine cottura manteco con burro e parmigiano.",
+            "Impiatto con i chiodini, cremosissimo, buonissimo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "C'è chi fa il risotto rosso e chi lo fa coi broccoli. Ma nessuno te lo fa coi funghi chiodini dentro. Questo piatto è una bomba cremosa che non ti aspetti. 🤤",
+            "Parti dai broccoli: sbollentali 3 minuti, scolali e condiscili con un filo d'olio. Nel frattempo, tosta il riso a secco fino a quando non diventa lucido e profumato. Qui si gioca la partita.",
+            "Aggiungi il brodo caldo poco alla volta e a metà cottura un bel mestolo di polpa di pomodoro. Mescola sempre, senza fretta: il risotto vuole amore, non improvvisazione. I chiodini li tieni da parte per il finale.",
+            "Quando il riso è al dente, spegni il fuoco e manteca con burro freddo e una generosa manciata di parmigiano. Fuori dal fuoco, così diventa vellutato e cremoso come deve essere. I funghi saltati in padella sopra, non dentro.",
+            "Il segreto? I broccoli conditi prima, non cotti nel risotto: restano croccanti e danno colore. Aggiungi i funghi solo alla fine. Provala e fammi sapere se non te ne innamori 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Risotto al pomodoro, broccoli e funghi, pronti?",
+        "Sbollento i broccoli, poi li condisco con olio.",
+        "Tosto il riso, aggiungo brodo e polpa di pomodoro.",
+        "A fine cottura manteco con burro e parmigiano.",
+        "Impiatto con i chiodini, cremosissimo, buonissimo!"
+      ],
+      "thread_text": [
+        "C'è chi fa il risotto rosso e chi lo fa coi broccoli. Ma nessuno te lo fa coi funghi chiodini dentro. Questo piatto è una bomba cremosa che non ti aspetti. 🤤",
+        "Parti dai broccoli: sbollentali 3 minuti, scolali e condiscili con un filo d'olio. Nel frattempo, tosta il riso a secco fino a quando non diventa lucido e profumato. Qui si gioca la partita.",
+        "Aggiungi il brodo caldo poco alla volta e a metà cottura un bel mestolo di polpa di pomodoro. Mescola sempre, senza fretta: il risotto vuole amore, non improvvisazione. I chiodini li tieni da parte per il finale.",
+        "Quando il riso è al dente, spegni il fuoco e manteca con burro freddo e una generosa manciata di parmigiano. Fuori dal fuoco, così diventa vellutato e cremoso come deve essere. I funghi saltati in padella sopra, non dentro.",
+        "Il segreto? I broccoli conditi prima, non cotti nel risotto: restano croccanti e danno colore. Aggiungi i funghi solo alla fine. Provala e fammi sapere se non te ne innamori 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Risotto cremoso al pomodoro",
+          "description": "Un comfort food vegetariano con broccoli e funghi, cremoso e ricco di sapore.",
+          "visual_hint": "Piatto fumante su tavola rustica",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "creamy tomato risotto savory"
+        },
+        {
+          "hook": "Gli ingredienti chiave",
+          "description": "Riso, polpa di pomodoro, broccoli e chiodini: pochi elementi per un risultato straordinario.",
+          "visual_hint": "Ingredienti disposti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "risotto ingredients vegetables savory",
+          "image": "https://images.pexels.com/photos/28503610/pexels-photo-28503610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sbollenta i broccoli",
+          "description": "Un passaggio rapido per ammorbidire i broccoli e mantenere il loro colore vivace.",
+          "visual_hint": "Manciata di broccoli in pentola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "blanched broccoli pot savory",
+          "image": "https://images.pexels.com/photos/20182296/pexels-photo-20182296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Tosta il riso",
+          "description": "Tosta il riso per sigillare i chicchi, poi cuoci a fuoco lento con brodo e sugo per una cremosità perfetta.",
+          "visual_hint": "Riso che tosta in padella",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "toasting rice pan savory",
+          "image": "https://images.pexels.com/photos/14192638/pexels-photo-14192638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manteca e servi",
+          "description": "Manteca con burro e parmigiano per un risotto lucido, guarnisci con funghi e broccoli.",
+          "visual_hint": "Risotto impiattato con guarnizione",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "plated risotto mushrooms broccoli savory",
+          "image": "https://images.pexels.com/photos/24289215/pexels-photo-24289215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "vegetable",
+      "signature_ingredients": [
+        "riso",
+        "pomodoro",
+        "funghi"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36573/Risotto-al-pomodoro-con-broccoli-e-funghi_650x433_wm.jpg",
+      "savedAt": "2026-08-31T18:34:34.033Z",
+      "sourceId": "e826913baeb780eac4224b15224c11fa"
+    },
     {
       "schema_version": 2,
       "agent": "food",

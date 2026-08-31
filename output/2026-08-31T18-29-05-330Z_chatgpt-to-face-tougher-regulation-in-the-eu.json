@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-to-face-tougher-regulation-in-the-eu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT to face tougher regulation in the EU",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+  "pubDate": "2026-08-31T13:27:36.000Z",
+  "slides": [
+    "ChatGPT's EU future just got murkier—what changes?",
+    "New AI Act rules classify it as high-risk now.",
+    "Surprise: even open-source models may face audits.",
+    "Your EU chatbot features could be delayed or filtered.",
+    "Audit your AI vendor's compliance plan this quarter."
+  ],
+  "thread_text": [
+    "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+    "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+    "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+    "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+    "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+  ],
+  "video_script": [
+    "ChatGPT's EU future just got murkier.",
+    "New high-risk rules for AI models.",
+    "Open-source models now face audits too.",
+    "EU chatbot features may be delayed.",
+    "Audit your AI vendor's compliance plan."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT's EU future murky\n\nNew AI Act rules now classify it as high-risk, forcing compliance changes that could delay features.",
+        "2. Open-source models targeted\n\nEven open-source models may face audits under the new rules, surprising many developers.",
+        "3. EU chatbot features at risk\n\nExpect delays or filtering for your EU chatbot features, impacting user experience and rollout plans.",
+        "4. Audit your AI vendors now\n\nThis quarter, audit your AI vendor's compliance plan to avoid disruptions and ensure readiness.",
+        "5. Are you prepared for audits?\n\nCheck if your AI vendor has a clear EU compliance roadmap. If not, start the audit today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT's EU future just got murkier.",
+        "New high-risk rules for AI models.",
+        "Open-source models now face audits too.",
+        "EU chatbot features may be delayed.",
+        "Audit your AI vendor's compliance plan."
+      ]
+    },
+    "instagram": {
+      "caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺"
+    }
+  },
+  "instagram_caption": "Your EU chatbot features just got a compliance deadline.  \n\nThe EU's new AI Act now classifies ChatGPT as high-risk, which means stricter audits and oversight. Even open-source models aren't escaping—they may face the same scrutiny.  \n\nFor anyone building or publishing with AI tools, this could translate into delayed rollouts, filtered responses, or features quietly removed in the EU market.  \n\nIf you rely on any AI vendor, asking them for their EU compliance roadmap this quarter isn't optional anymore. Are you ready for the audit? 📋⚠️🇪🇺",
+  "carousel_slides": [
+    {
+      "hook": "Even open-source AI now audited?",
+      "description": "The EU AI Act now classifies ChatGPT as high-risk, and even open-source models face audits. Expect compliance delays.",
+      "visual_hint": "Gavel hitting wooden desk",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel desk"
+    },
+    {
+      "hook": "High-risk status: what changes?",
+      "description": "New AI Act rules label ChatGPT as high-risk, forcing stricter compliance and possible feature delays in the EU.",
+      "visual_hint": "Warning sign on factory",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warning sign factory",
+      "image": "https://images.pexels.com/photos/35915224/pexels-photo-35915224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Surprise: open-source audits coming",
+      "description": "Even open-source models may face audits under new EU rules, surprising developers and adding compliance burdens.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "EU chatbot features at risk?",
+      "description": "Your EU chatbot features could be delayed or filtered due to new AI regulations, impacting user experience and rollout plans.",
+      "visual_hint": "Chatbot with delay clock",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chatbot phone clock",
+      "image": "https://images.pexels.com/photos/30530422/pexels-photo-30530422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit AI vendors now",
+      "description": "Audit your AI vendor's EU compliance plan this quarter to avoid disruptions and ensure readiness for new rules.",
+      "visual_hint": "Checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist pen clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+  "savedAt": "2026-08-31T18:30:06.779Z",
+  "sourceId": "8178888de70f464470266e99a00dff1e"
+}
