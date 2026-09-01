@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "new-york-governor-kathy-hochul-thinks-ai-should-be",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+  "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+  "pubDate": "2026-08-31T14:00:00.000Z",
+  "slides": [
+    "Hochul calls for 'less evil' AI—but how exactly?",
+    "Her ethics board just released new AI guidelines.",
+    "The rules target hidden bias in state algorithms.",
+    "Your agency's AI now needs an ethics review.",
+    "Run a bias audit on your systems this week."
+  ],
+  "thread_text": [
+    "1. Hochul's 'less evil' AI\n\nHer ethics board just released new guidelines targeting hidden bias in state algorithms.",
+    "2. What's the catch?\n\nThe rules demand an ethics review for every agency AI before deployment.",
+    "3. The timeline is tight\n\nYour agency must run a bias audit this week—or face compliance risks.",
+    "4. The twist\n\nThe guidelines don't specify how to fix bias, only how to detect it.",
+    "5. Your move\n\nRun a bias audit on your systems today. Have you checked your algorithms?"
+  ],
+  "video_script": [
+    "Governor Hochul wants AI less evil.",
+    "Her board released new guidelines.",
+    "They target hidden bias in algorithms.",
+    "Your agency needs an ethics review.",
+    "Run a bias audit this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hochul's 'less evil' AI\n\nHer ethics board just released new guidelines targeting hidden bias in state algorithms.",
+        "2. What's the catch?\n\nThe rules demand an ethics review for every agency AI before deployment.",
+        "3. The timeline is tight\n\nYour agency must run a bias audit this week—or face compliance risks.",
+        "4. The twist\n\nThe guidelines don't specify how to fix bias, only how to detect it.",
+        "5. Your move\n\nRun a bias audit on your systems today. Have you checked your algorithms?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Governor Hochul wants AI less evil.",
+        "Her board released new guidelines.",
+        "They target hidden bias in algorithms.",
+        "Your agency needs an ethics review.",
+        "Run a bias audit this week."
+      ]
+    },
+    "instagram": {
+      "caption": "New York's own state algorithms are now under an ethics microscope, and Governor Hochul is the one holding it. 🧐\n\nHer ethics board just dropped new guidelines that force every state agency to run a bias audit on its AI systems *this week*. The catch? The rules tell you how to *find* bias, but not how to fix it. So agencies are left with a detection requirement and zero playbook for the cure.\n\nIf you build or deploy any automated system for a public or regulated entity, this is your early warning: bias checks are becoming a legal gate, not a best practice. ⚖️\n\nHave you audited your own decision-making algorithms yet, or are you waiting for the mandate to hit your inbox? 📩"
+    }
+  },
+  "instagram_caption": "New York's own state algorithms are now under an ethics microscope, and Governor Hochul is the one holding it. 🧐\n\nHer ethics board just dropped new guidelines that force every state agency to run a bias audit on its AI systems *this week*. The catch? The rules tell you how to *find* bias, but not how to fix it. So agencies are left with a detection requirement and zero playbook for the cure.\n\nIf you build or deploy any automated system for a public or regulated entity, this is your early warning: bias checks are becoming a legal gate, not a best practice. ⚖️\n\nHave you audited your own decision-making algorithms yet, or are you waiting for the mandate to hit your inbox? 📩",
+  "carousel_slides": [
+    {
+      "hook": "Your state's AI could be biased—now what?",
+      "description": "New York's ethics board released guidelines targeting hidden bias in state algorithms, but they don't specify how to fix it.",
+      "visual_hint": "AI robot with question mark overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence robot"
+    },
+    {
+      "hook": "New ethics rules for every agency AI",
+      "description": "The guidelines require an ethics review before deployment—but they only detect bias, not correct it.",
+      "visual_hint": "Document with magnifying glass",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building exterior",
+      "image": "https://images.pexels.com/photos/20948982/pexels-photo-20948982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Bias audit due this week",
+      "description": "The timeline is tight: run a bias audit on your systems now to avoid compliance risks.",
+      "visual_hint": "Clock with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist: no fix instructions",
+      "description": "The guidelines focus on detection, not remediation—meaning you'll know the problem but not the solution.",
+      "visual_hint": "Puzzle piece missing",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business person laptop",
+      "image": "https://images.pexels.com/photos/6326118/pexels-photo-6326118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your algorithms today",
+      "description": "Run a bias audit on your systems now. Comment below or save this for later.",
+      "visual_hint": "Checkmark on algorithm binary",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-01T14:25:03.558Z",
+  "sourceId": "e4a9103f7f0e901d2c7f44953ce8af13"
+}
