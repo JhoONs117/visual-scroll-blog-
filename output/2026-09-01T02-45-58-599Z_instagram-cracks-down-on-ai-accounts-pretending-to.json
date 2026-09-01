@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-cracks-down-on-ai-accounts-pretending-to",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram cracks down on AI accounts pretending to be human",
+  "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+  "pubDate": "2026-08-31T13:00:00.000Z",
+  "slides": [
+    "Instagram targets AI accounts posing as people. How?",
+    "New detection flags automated interactions and profile patterns.",
+    "Even verified-looking bots evade current moderation systems.",
+    "Your reach could drop if you engage unknowingly with bots.",
+    "Audit your followers now for automated accounts before enforcement."
+  ],
+  "thread_text": [
+    "1. Bots are fooling everyone.\n\nInstagram's new detection system flags automated interactions, but even verified-looking bots slip through current moderation. Your feed is already compromised.",
+    "2. The disguise is perfect.\n\nVerified badges no longer mean human. These bots mimic real behavior so well that even moderators can't spot them without deep analysis. Trust your instincts, not the checkmark.",
+    "3. Your reach is at risk now.\n\nEngaging unknowingly with these bots triggers their detection flags on your account. One wrong like could silently tank your visibility across the platform.",
+    "4. The system turns on you.\n\nInstagram's enforcement doesn't just target bots—it targets anyone who interacts with them. You're being penalized for actions you didn't know were harmful.",
+    "5. Audit your followers today.\n\nOpen your follower list and look for patterns: no photos, generic bios, and repetitive comments. Remove them now before enforcement hits your account."
+  ],
+  "video_script": [
+    "Instagram's bots are smarter than you think.",
+    "Even verified-looking accounts fool the system.",
+    "Your engagement could be silently hurting you.",
+    "One wrong interaction flags your entire profile.",
+    "Audit your followers now to avoid penalties."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Bots are fooling everyone.\n\nInstagram's new detection system flags automated interactions, but even verified-looking bots slip through current moderation. Your feed is already compromised.",
+        "2. The disguise is perfect.\n\nVerified badges no longer mean human. These bots mimic real behavior so well that even moderators can't spot them without deep analysis. Trust your instincts, not the checkmark.",
+        "3. Your reach is at risk now.\n\nEngaging unknowingly with these bots triggers their detection flags on your account. One wrong like could silently tank your visibility across the platform.",
+        "4. The system turns on you.\n\nInstagram's enforcement doesn't just target bots—it targets anyone who interacts with them. You're being penalized for actions you didn't know were harmful.",
+        "5. Audit your followers today.\n\nOpen your follower list and look for patterns: no photos, generic bios, and repetitive comments. Remove them now before enforcement hits your account."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Instagram's bots are smarter than you think.",
+        "Even verified-looking accounts fool the system.",
+        "Your engagement could be silently hurting you.",
+        "One wrong interaction flags your entire profile.",
+        "Audit your followers now to avoid penalties."
+      ]
+    },
+    "instagram": {
+      "caption": "Instagram is about to start treating you like a bot just for liking the wrong post.\n\nThe platform’s new detection system is flagging accounts that interact with automated profiles. The catch? Even bots with verified badges are slipping through moderation. That checkmark means nothing anymore.\n\nIf you engage with one of these fake accounts, their algorithm can silently throttle your visibility. You lose reach for a mistake you didn't know you made.\n\nYour follower list is the problem. Go look for accounts with no photos, generic bios, and repetitive comments—remove them now, before Instagram punishes you for their behavior.\n\nHow many bots have you accidentally interacted with this week? 🔍🤖⚠️"
+    }
+  },
+  "instagram_caption": "Instagram is about to start treating you like a bot just for liking the wrong post.\n\nThe platform’s new detection system is flagging accounts that interact with automated profiles. The catch? Even bots with verified badges are slipping through moderation. That checkmark means nothing anymore.\n\nIf you engage with one of these fake accounts, their algorithm can silently throttle your visibility. You lose reach for a mistake you didn't know you made.\n\nYour follower list is the problem. Go look for accounts with no photos, generic bios, and repetitive comments—remove them now, before Instagram punishes you for their behavior.\n\nHow many bots have you accidentally interacted with this week? 🔍🤖⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Your checkmark is not protection.",
+      "description": "Verified-looking bots slip through Instagram's new detection system, fooling everyone. Your feed is already compromised.",
+      "visual_hint": "Blue checkmark on robot face",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot face"
+    },
+    {
+      "hook": "Verified doesn't mean human anymore.",
+      "description": "Bots mimic real behavior so perfectly that even moderators miss them without deep analysis. Trust instincts, not the badge.",
+      "visual_hint": "Magnifying glass over profile",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One like can sink your reach.",
+      "description": "Engaging unknowingly with bots triggers detection flags on your account. A single wrong like silently tanks your visibility.",
+      "visual_hint": "Heart icon with downward arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "down arrow",
+      "image": "https://images.pexels.com/photos/32474577/pexels-photo-32474577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The system will penalize you.",
+      "description": "Instagram's enforcement targets anyone who interacts with bots, not just bots. You're punished for actions you didn't know were harmful.",
+      "visual_hint": "Hand being flagged",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand flag",
+      "image": "https://images.pexels.com/photos/18910720/pexels-photo-18910720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit followers now to avoid penalties.",
+      "description": "Open your follower list, look for no photos, generic bios, repetitive comments. Remove them before enforcement hits your account.",
+      "visual_hint": "Follower list with 'remove' button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "follower list",
+      "image": "https://images.pexels.com/photos/15226549/pexels-photo-15226549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C48.836288442078&amp;w=1200",
+  "savedAt": "2026-09-01T02:46:52.070Z",
+  "sourceId": "1a9866cea520710f847cfdc5c7a3169a"
+}

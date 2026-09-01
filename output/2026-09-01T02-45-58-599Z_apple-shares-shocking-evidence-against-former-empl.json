@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-shares-shocking-evidence-against-former-empl",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+  "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+  "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
+  "slides": [
+    "Apple's shocking evidence: what was really stolen?",
+    "Former employee allegedly leaked data to OpenAI",
+    "Evidence includes encrypted chats and unusual access logs",
+    "Your corporate data may be at similar risk today",
+    "Audit your insider access controls this week"
+  ],
+  "thread_text": [
+    "1. Stolen or leaked?\n\nApple's internal investigation points to a former employee, but the real question is how long the access went unnoticed. The evidence is encrypted chats and unusual logins.",
+    "2. The evidence trail\n\nEncrypted chats and access logs don't lie. They show a pattern of late-night downloads—data that was never needed for the employee's role. That's the smoking gun.",
+    "3. Why now?\n\nThe leak allegedly feeded OpenAI's training data. If true, this isn't just a corporate espionage story—it's a blueprint for how your own data could be scraped and used without consent.",
+    "4. Your risk, exposed\n\nMost companies never audit who has access to what. The same insider threat that hit Apple could be sitting in your own logs—silent, until it's too late.",
+    "5. Audit this week\n\nLog into your admin console and list every user with export permissions. Are there any you don't recognize? If yes, revoke them today. If no, set a monthly review reminder."
+  ],
+  "video_script": [
+    "Apple's insider leak exposed how data actually gets stolen.",
+    "Encrypted chats and access logs prove the threat.",
+    "Your corporate data faces the exact same risk today.",
+    "Most breaches come from inside your own walls.",
+    "Audit your access controls today to sleep tonight."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Stolen or leaked?\n\nApple's internal investigation points to a former employee, but the real question is how long the access went unnoticed. The evidence is encrypted chats and unusual logins.",
+        "2. The evidence trail\n\nEncrypted chats and access logs don't lie. They show a pattern of late-night downloads—data that was never needed for the employee's role. That's the smoking gun.",
+        "3. Why now?\n\nThe leak allegedly feeded OpenAI's training data. If true, this isn't just a corporate espionage story—it's a blueprint for how your own data could be scraped and used without consent.",
+        "4. Your risk, exposed\n\nMost companies never audit who has access to what. The same insider threat that hit Apple could be sitting in your own logs—silent, until it's too late.",
+        "5. Audit this week\n\nLog into your admin console and list every user with export permissions. Are there any you don't recognize? If yes, revoke them today. If no, set a monthly review reminder."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple's insider leak exposed how data actually gets stolen.",
+        "Encrypted chats and access logs prove the threat.",
+        "Your corporate data faces the exact same risk today.",
+        "Most breaches come from inside your own walls.",
+        "Audit your access controls today to sleep tonight."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple’s own security team caught a former employee downloading data at odd hours—files that had nothing to do with their job.  \nThe evidence? Encrypted chats and login logs that don’t match any legitimate workflow.  \n\nThat data allegedly ended up feeding OpenAI’s training models. If true, it’s not just a corporate lawsuit—it’s proof that insider access is the quietest way your work gets scraped.  \n\nFor anyone creating content or managing files: your exports aren’t monitored until they’re gone.  \nCheck your admin panel today: list every user who can download or share. Recognize each one? If not, revoke access now.  \n\nWhen did you last audit who holds the keys to your work? 🔐"
+    }
+  },
+  "instagram_caption": "Apple’s own security team caught a former employee downloading data at odd hours—files that had nothing to do with their job.  \nThe evidence? Encrypted chats and login logs that don’t match any legitimate workflow.  \n\nThat data allegedly ended up feeding OpenAI’s training models. If true, it’s not just a corporate lawsuit—it’s proof that insider access is the quietest way your work gets scraped.  \n\nFor anyone creating content or managing files: your exports aren’t monitored until they’re gone.  \nCheck your admin panel today: list every user who can download or share. Recognize each one? If not, revoke access now.  \n\nWhen did you last audit who holds the keys to your work? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Your data could be next.",
+      "description": "Apple's investigation reveals a former employee's unauthorized access went unnoticed. Insider threats are silent until too late.",
+      "visual_hint": "Silhouette of person on laptop, dark tones.",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "laptop dark room"
+    },
+    {
+      "hook": "Encrypted chats don’t lie.",
+      "description": "Evidence includes encrypted chats and unusual logins showing late-night downloads, a pattern of data theft in progress.",
+      "visual_hint": "Chat bubbles with lock icons.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone chat app",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stolen data fed AI?",
+      "description": "Allegedly leaked to OpenAI for training, this could set a blueprint for scraping without consent.",
+      "visual_hint": "Data stream into neural network.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your access now.",
+      "description": "Most companies never check who has export permissions. The same insider threat could lurk in your own logs.",
+      "visual_hint": "Person reviewing admin panel.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this audit checklist.",
+      "description": "List every user with export permissions. Revoke unknown ones, set a monthly review reminder.",
+      "visual_hint": "Checklist with pen.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+  "savedAt": "2026-09-01T02:46:25.188Z",
+  "sourceId": "00adf4a54ce8a9f46b298d3eaf5f3e9f"
+}

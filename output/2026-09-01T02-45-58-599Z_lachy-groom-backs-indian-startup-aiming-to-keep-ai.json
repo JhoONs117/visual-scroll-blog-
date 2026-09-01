@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lachy-groom-backs-indian-startup-aiming-to-keep-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+  "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+  "pubDate": "Tue, 01 Sep 2026 00:30:00 +0000",
+  "slides": [
+    "Lachy Groom bets on an Indian startup. Why?",
+    "They aim to keep aircraft flying for a year.",
+    "The secret isn't new engines—it's smarter maintenance.",
+    "Your airline's downtime could shrink dramatically.",
+    "Watch this space—or your next flight may change."
+  ],
+  "thread_text": [
+    "1. Why a $100M bet?\n\nLachy Groom just backed an Indian startup that promises to keep planes flying for a year straight.",
+    "2. No new engines here\n\nThe secret isn't hardware—it's predictive maintenance using AI to spot failures before they happen.",
+    "3. Downtime shrinks, profits soar\n\nAirlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+    "4. Your flight gets cheaper? Maybe\n\nLower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+    "5. Watch your next booking\n\nCheck if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it."
+  ],
+  "video_script": [
+    "A startup wants planes flying all year.",
+    "No new engines, just smarter maintenance with AI.",
+    "This could slash airline downtime dramatically.",
+    "Maybe cheaper flights, maybe bigger airline profits.",
+    "Next flight might change - keep watching."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why a $100M bet?\n\nLachy Groom just backed an Indian startup that promises to keep planes flying for a year straight.",
+        "2. No new engines here\n\nThe secret isn't hardware—it's predictive maintenance using AI to spot failures before they happen.",
+        "3. Downtime shrinks, profits soar\n\nAirlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+        "4. Your flight gets cheaper? Maybe\n\nLower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+        "5. Watch your next booking\n\nCheck if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A startup wants planes flying all year.",
+        "No new engines, just smarter maintenance with AI.",
+        "This could slash airline downtime dramatically.",
+        "Maybe cheaper flights, maybe bigger airline profits.",
+        "Next flight might change - keep watching."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next flight might not be delayed because of a mechanical issue. A startup backed by investor Lachy Groom is using AI to predict part failures before they happen, keeping planes in the air for up to a year without unscheduled groundings. No new engines, just smarter maintenance. ✈️\n\nAirlines could save millions by cutting downtime, and that might mean cheaper tickets or better routes for you. But only if carriers actually adopt this tech. 🔧\n\nFor anyone covering aviation, tech, or business: your next story could be about which airline is quietly testing this—and which one isn't. Check your own flight's on-time record. Is your carrier still flying blind? 🤔"
+    }
+  },
+  "instagram_caption": "Your next flight might not be delayed because of a mechanical issue. A startup backed by investor Lachy Groom is using AI to predict part failures before they happen, keeping planes in the air for up to a year without unscheduled groundings. No new engines, just smarter maintenance. ✈️\n\nAirlines could save millions by cutting downtime, and that might mean cheaper tickets or better routes for you. But only if carriers actually adopt this tech. 🔧\n\nFor anyone covering aviation, tech, or business: your next story could be about which airline is quietly testing this—and which one isn't. Check your own flight's on-time record. Is your carrier still flying blind? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why a $100M bet?",
+      "description": "Lachy Groom just backed an Indian startup promising to keep planes flying for a year straight. The secret isn't hardware—it's predictive maintenance.",
+      "visual_hint": "Jet engine close-up",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "jet engine airplane"
+    },
+    {
+      "hook": "No new engines here",
+      "description": "The secret isn't new hardware. It's AI that spots failures before they happen, keeping planes in the air longer.",
+      "visual_hint": "AI data streams over plane",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "airplane wing sky",
+      "image": "https://images.pexels.com/photos/22388078/pexels-photo-22388078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Downtime shrinks, profits soar",
+      "description": "Airlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+      "visual_hint": "Graph arrows up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your flight gets cheaper?",
+      "description": "Lower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+      "visual_hint": "Wallet with ticket",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "airplane tickets wallet",
+      "image": "https://images.pexels.com/photos/8830665/pexels-photo-8830665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you book",
+      "description": "Check if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it.",
+      "visual_hint": "Finger pressing save",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone airport app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/alteon-airplane.jpg?resize=1200,800",
+  "savedAt": "2026-09-01T02:46:10.836Z",
+  "sourceId": "ddd60eb51f47396014f031b3a4913289"
+}

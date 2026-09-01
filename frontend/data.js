@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "instagram-cracks-down-on-ai-accounts-pretending-to",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "pubDate": "2026-08-31T13:00:00.000Z",
+    "slides": [
+      "Instagram targets AI accounts posing as people. How?",
+      "New detection flags automated interactions and profile patterns.",
+      "Even verified-looking bots evade current moderation systems.",
+      "Your reach could drop if you engage unknowingly with bots.",
+      "Audit your followers now for automated accounts before enforcement."
+    ],
+    "thread_text": [
+      "1. Bots are fooling everyone.\n\nInstagram's new detection system flags automated interactions, but even verified-looking bots slip through current moderation. Your feed is already compromised.",
+      "2. The disguise is perfect.\n\nVerified badges no longer mean human. These bots mimic real behavior so well that even moderators can't spot them without deep analysis. Trust your instincts, not the checkmark.",
+      "3. Your reach is at risk now.\n\nEngaging unknowingly with these bots triggers their detection flags on your account. One wrong like could silently tank your visibility across the platform.",
+      "4. The system turns on you.\n\nInstagram's enforcement doesn't just target bots—it targets anyone who interacts with them. You're being penalized for actions you didn't know were harmful.",
+      "5. Audit your followers today.\n\nOpen your follower list and look for patterns: no photos, generic bios, and repetitive comments. Remove them now before enforcement hits your account."
+    ],
+    "video_script": [
+      "Instagram's bots are smarter than you think.",
+      "Even verified-looking accounts fool the system.",
+      "Your engagement could be silently hurting you.",
+      "One wrong interaction flags your entire profile.",
+      "Audit your followers now to avoid penalties."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Bots are fooling everyone.\n\nInstagram's new detection system flags automated interactions, but even verified-looking bots slip through current moderation. Your feed is already compromised.",
+          "2. The disguise is perfect.\n\nVerified badges no longer mean human. These bots mimic real behavior so well that even moderators can't spot them without deep analysis. Trust your instincts, not the checkmark.",
+          "3. Your reach is at risk now.\n\nEngaging unknowingly with these bots triggers their detection flags on your account. One wrong like could silently tank your visibility across the platform.",
+          "4. The system turns on you.\n\nInstagram's enforcement doesn't just target bots—it targets anyone who interacts with them. You're being penalized for actions you didn't know were harmful.",
+          "5. Audit your followers today.\n\nOpen your follower list and look for patterns: no photos, generic bios, and repetitive comments. Remove them now before enforcement hits your account."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Instagram's bots are smarter than you think.",
+          "Even verified-looking accounts fool the system.",
+          "Your engagement could be silently hurting you.",
+          "One wrong interaction flags your entire profile.",
+          "Audit your followers now to avoid penalties."
+        ]
+      },
+      "instagram": {
+        "caption": "Instagram is about to start treating you like a bot just for liking the wrong post.\n\nThe platform’s new detection system is flagging accounts that interact with automated profiles. The catch? Even bots with verified badges are slipping through moderation. That checkmark means nothing anymore.\n\nIf you engage with one of these fake accounts, their algorithm can silently throttle your visibility. You lose reach for a mistake you didn't know you made.\n\nYour follower list is the problem. Go look for accounts with no photos, generic bios, and repetitive comments—remove them now, before Instagram punishes you for their behavior.\n\nHow many bots have you accidentally interacted with this week? 🔍🤖⚠️"
+      }
+    },
+    "instagram_caption": "Instagram is about to start treating you like a bot just for liking the wrong post.\n\nThe platform’s new detection system is flagging accounts that interact with automated profiles. The catch? Even bots with verified badges are slipping through moderation. That checkmark means nothing anymore.\n\nIf you engage with one of these fake accounts, their algorithm can silently throttle your visibility. You lose reach for a mistake you didn't know you made.\n\nYour follower list is the problem. Go look for accounts with no photos, generic bios, and repetitive comments—remove them now, before Instagram punishes you for their behavior.\n\nHow many bots have you accidentally interacted with this week? 🔍🤖⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Your checkmark is not protection.",
+        "description": "Verified-looking bots slip through Instagram's new detection system, fooling everyone. Your feed is already compromised.",
+        "visual_hint": "Blue checkmark on robot face",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot face"
+      },
+      {
+        "hook": "Verified doesn't mean human anymore.",
+        "description": "Bots mimic real behavior so perfectly that even moderators miss them without deep analysis. Trust instincts, not the badge.",
+        "visual_hint": "Magnifying glass over profile",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One like can sink your reach.",
+        "description": "Engaging unknowingly with bots triggers detection flags on your account. A single wrong like silently tanks your visibility.",
+        "visual_hint": "Heart icon with downward arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "down arrow",
+        "image": "https://images.pexels.com/photos/32474577/pexels-photo-32474577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The system will penalize you.",
+        "description": "Instagram's enforcement targets anyone who interacts with bots, not just bots. You're punished for actions you didn't know were harmful.",
+        "visual_hint": "Hand being flagged",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand flag",
+        "image": "https://images.pexels.com/photos/18910720/pexels-photo-18910720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit followers now to avoid penalties.",
+        "description": "Open your follower list, look for no photos, generic bios, repetitive comments. Remove them before enforcement hits your account.",
+        "visual_hint": "Follower list with 'remove' button",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "follower list",
+        "image": "https://images.pexels.com/photos/15226549/pexels-photo-15226549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C48.836288442078&amp;w=1200",
+    "savedAt": "2026-09-01T02:46:52.070Z",
+    "sourceId": "1a9866cea520710f847cfdc5c7a3169a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "polymarket-reportedly-raises-300-million-from-dona",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+    "pubDate": "Mon, 31 Aug 2026 23:41:10 +0000",
+    "slides": [
+      "Polymarket's new Trump-backed millions: game changer or gamble?",
+      "Donald Trump Jr.'s fund leads a $300 million raise.",
+      "Yet the SEC's shadow looms over prediction markets still.",
+      "Your market bets may soon face new political winds.",
+      "Watch regulatory news before trusting these odds again."
+    ],
+    "thread_text": [
+      "1. Trump's millions, your risk?\n\nA $300M raise backed by Trump Jr. just poured into Polymarket. The SEC is still watching every bet you place.",
+      "2. The SEC's shadow\n\nRegulators haven't blinked. They're eyeing prediction markets as unregistered securities. Your odds could vanish overnight.",
+      "3. Political winds shift\n\nNew political winds are blowing. If the SEC acts, your winnings might not pay out. The house could change the rules mid-game.",
+      "4. Trust the odds?\n\nThat $300M isn't a safety net. It's a bet on lax enforcement. If the SEC cracks down, the market could freeze, and so could your funds.",
+      "5. Check before you bet\n\nBefore your next bet, search 'SEC prediction markets' news. One headline could make your odds worthless. Will you still bet?"
+    ],
+    "video_script": [
+      "Trump's fund just threw millions into Polymarket.",
+      "But the SEC is still watching every move.",
+      "New political winds might flip the rules.",
+      "Your bets could freeze or vanish overnight.",
+      "Check SEC news before you trust the odds."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trump's millions, your risk?\n\nA $300M raise backed by Trump Jr. just poured into Polymarket. The SEC is still watching every bet you place.",
+          "2. The SEC's shadow\n\nRegulators haven't blinked. They're eyeing prediction markets as unregistered securities. Your odds could vanish overnight.",
+          "3. Political winds shift\n\nNew political winds are blowing. If the SEC acts, your winnings might not pay out. The house could change the rules mid-game.",
+          "4. Trust the odds?\n\nThat $300M isn't a safety net. It's a bet on lax enforcement. If the SEC cracks down, the market could freeze, and so could your funds.",
+          "5. Check before you bet\n\nBefore your next bet, search 'SEC prediction markets' news. One headline could make your odds worthless. Will you still bet?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trump's fund just threw millions into Polymarket.",
+          "But the SEC is still watching every move.",
+          "New political winds might flip the rules.",
+          "Your bets could freeze or vanish overnight.",
+          "Check SEC news before you trust the odds."
+        ]
+      },
+      "instagram": {
+        "caption": "$300 million just landed in Polymarket’s pocket—backed by Donald Trump Jr.’s investment fund. 🤑\n\nThat’s the size of their latest raise, and it puts political money directly inside a prediction market the SEC still hasn’t cleared. Regulators keep eyeing these platforms as unregistered securities, meaning the legal ground under your bets is shaky at best. If the SEC moves, withdrawals could freeze. ⚖️\n\nFor anyone creating content about odds or market moves, this changes your risk calculation: the platform’s future isn’t just about user volume anymore, it’s about political favor and enforcement timing.\n\nBefore you trust another poll-based payout, have you checked today’s SEC news? 📉"
+      }
+    },
+    "instagram_caption": "$300 million just landed in Polymarket’s pocket—backed by Donald Trump Jr.’s investment fund. 🤑\n\nThat’s the size of their latest raise, and it puts political money directly inside a prediction market the SEC still hasn’t cleared. Regulators keep eyeing these platforms as unregistered securities, meaning the legal ground under your bets is shaky at best. If the SEC moves, withdrawals could freeze. ⚖️\n\nFor anyone creating content about odds or market moves, this changes your risk calculation: the platform’s future isn’t just about user volume anymore, it’s about political favor and enforcement timing.\n\nBefore you trust another poll-based payout, have you checked today’s SEC news? 📉",
+    "carousel_slides": [
+      {
+        "hook": "Your odds could vanish overnight?",
+        "description": "Polymarket raises $300M with Trump Jr.'s fund, but regulators still eye prediction markets as unregistered securities. Your bets may not pay out.",
+        "visual_hint": "Dollar bills and question marks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stock market chart"
+      },
+      {
+        "hook": "The SEC still watches every bet.",
+        "description": "Donald Trump Jr.'s fund leads $300M raise. But the SEC's shadow looms: prediction markets might be deemed unregistered securities, freezing funds.",
+        "visual_hint": "Gavel and glowing screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "government building",
+        "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Political winds shift, odds change.",
+        "description": "If the SEC acts, your winnings might not pay out. The house could change rules mid-game. Political winds are blowing through prediction markets.",
+        "visual_hint": "Wind-blown American flag",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "american flag",
+        "image": "https://images.pexels.com/photos/27596106/pexels-photo-27596106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "That $300M isn't a safety net.",
+        "description": "It's a bet on lax enforcement. If the SEC cracks down, markets freeze, and so could your funds. No safety net for your bets.",
+        "visual_hint": "Hand holding dollar and ice",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding dollar",
+        "image": "https://images.pexels.com/photos/5909801/pexels-photo-5909801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next bet.",
+        "description": "Search 'SEC prediction markets' news now. One headline could make your odds worthless. Will you still bet? Check before you trust.",
+        "visual_hint": "Phone with search alert",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800",
+    "savedAt": "2026-09-01T02:46:39.021Z",
+    "sourceId": "9418f10eb336fd28363cb893cbca3fff"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-shares-shocking-evidence-against-former-empl",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
+    "slides": [
+      "Apple's shocking evidence: what was really stolen?",
+      "Former employee allegedly leaked data to OpenAI",
+      "Evidence includes encrypted chats and unusual access logs",
+      "Your corporate data may be at similar risk today",
+      "Audit your insider access controls this week"
+    ],
+    "thread_text": [
+      "1. Stolen or leaked?\n\nApple's internal investigation points to a former employee, but the real question is how long the access went unnoticed. The evidence is encrypted chats and unusual logins.",
+      "2. The evidence trail\n\nEncrypted chats and access logs don't lie. They show a pattern of late-night downloads—data that was never needed for the employee's role. That's the smoking gun.",
+      "3. Why now?\n\nThe leak allegedly feeded OpenAI's training data. If true, this isn't just a corporate espionage story—it's a blueprint for how your own data could be scraped and used without consent.",
+      "4. Your risk, exposed\n\nMost companies never audit who has access to what. The same insider threat that hit Apple could be sitting in your own logs—silent, until it's too late.",
+      "5. Audit this week\n\nLog into your admin console and list every user with export permissions. Are there any you don't recognize? If yes, revoke them today. If no, set a monthly review reminder."
+    ],
+    "video_script": [
+      "Apple's insider leak exposed how data actually gets stolen.",
+      "Encrypted chats and access logs prove the threat.",
+      "Your corporate data faces the exact same risk today.",
+      "Most breaches come from inside your own walls.",
+      "Audit your access controls today to sleep tonight."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Stolen or leaked?\n\nApple's internal investigation points to a former employee, but the real question is how long the access went unnoticed. The evidence is encrypted chats and unusual logins.",
+          "2. The evidence trail\n\nEncrypted chats and access logs don't lie. They show a pattern of late-night downloads—data that was never needed for the employee's role. That's the smoking gun.",
+          "3. Why now?\n\nThe leak allegedly feeded OpenAI's training data. If true, this isn't just a corporate espionage story—it's a blueprint for how your own data could be scraped and used without consent.",
+          "4. Your risk, exposed\n\nMost companies never audit who has access to what. The same insider threat that hit Apple could be sitting in your own logs—silent, until it's too late.",
+          "5. Audit this week\n\nLog into your admin console and list every user with export permissions. Are there any you don't recognize? If yes, revoke them today. If no, set a monthly review reminder."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple's insider leak exposed how data actually gets stolen.",
+          "Encrypted chats and access logs prove the threat.",
+          "Your corporate data faces the exact same risk today.",
+          "Most breaches come from inside your own walls.",
+          "Audit your access controls today to sleep tonight."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple’s own security team caught a former employee downloading data at odd hours—files that had nothing to do with their job.  \nThe evidence? Encrypted chats and login logs that don’t match any legitimate workflow.  \n\nThat data allegedly ended up feeding OpenAI’s training models. If true, it’s not just a corporate lawsuit—it’s proof that insider access is the quietest way your work gets scraped.  \n\nFor anyone creating content or managing files: your exports aren’t monitored until they’re gone.  \nCheck your admin panel today: list every user who can download or share. Recognize each one? If not, revoke access now.  \n\nWhen did you last audit who holds the keys to your work? 🔐"
+      }
+    },
+    "instagram_caption": "Apple’s own security team caught a former employee downloading data at odd hours—files that had nothing to do with their job.  \nThe evidence? Encrypted chats and login logs that don’t match any legitimate workflow.  \n\nThat data allegedly ended up feeding OpenAI’s training models. If true, it’s not just a corporate lawsuit—it’s proof that insider access is the quietest way your work gets scraped.  \n\nFor anyone creating content or managing files: your exports aren’t monitored until they’re gone.  \nCheck your admin panel today: list every user who can download or share. Recognize each one? If not, revoke access now.  \n\nWhen did you last audit who holds the keys to your work? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Your data could be next.",
+        "description": "Apple's investigation reveals a former employee's unauthorized access went unnoticed. Insider threats are silent until too late.",
+        "visual_hint": "Silhouette of person on laptop, dark tones.",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "laptop dark room"
+      },
+      {
+        "hook": "Encrypted chats don’t lie.",
+        "description": "Evidence includes encrypted chats and unusual logins showing late-night downloads, a pattern of data theft in progress.",
+        "visual_hint": "Chat bubbles with lock icons.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone chat app",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stolen data fed AI?",
+        "description": "Allegedly leaked to OpenAI for training, this could set a blueprint for scraping without consent.",
+        "visual_hint": "Data stream into neural network.",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your access now.",
+        "description": "Most companies never check who has export permissions. The same insider threat could lurk in your own logs.",
+        "visual_hint": "Person reviewing admin panel.",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this audit checklist.",
+        "description": "List every user with export permissions. Revoke unknown ones, set a monthly review reminder.",
+        "visual_hint": "Checklist with pen.",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+    "savedAt": "2026-09-01T02:46:25.188Z",
+    "sourceId": "00adf4a54ce8a9f46b298d3eaf5f3e9f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "lachy-groom-backs-indian-startup-aiming-to-keep-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "pubDate": "Tue, 01 Sep 2026 00:30:00 +0000",
+    "slides": [
+      "Lachy Groom bets on an Indian startup. Why?",
+      "They aim to keep aircraft flying for a year.",
+      "The secret isn't new engines—it's smarter maintenance.",
+      "Your airline's downtime could shrink dramatically.",
+      "Watch this space—or your next flight may change."
+    ],
+    "thread_text": [
+      "1. Why a $100M bet?\n\nLachy Groom just backed an Indian startup that promises to keep planes flying for a year straight.",
+      "2. No new engines here\n\nThe secret isn't hardware—it's predictive maintenance using AI to spot failures before they happen.",
+      "3. Downtime shrinks, profits soar\n\nAirlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+      "4. Your flight gets cheaper? Maybe\n\nLower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+      "5. Watch your next booking\n\nCheck if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it."
+    ],
+    "video_script": [
+      "A startup wants planes flying all year.",
+      "No new engines, just smarter maintenance with AI.",
+      "This could slash airline downtime dramatically.",
+      "Maybe cheaper flights, maybe bigger airline profits.",
+      "Next flight might change - keep watching."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why a $100M bet?\n\nLachy Groom just backed an Indian startup that promises to keep planes flying for a year straight.",
+          "2. No new engines here\n\nThe secret isn't hardware—it's predictive maintenance using AI to spot failures before they happen.",
+          "3. Downtime shrinks, profits soar\n\nAirlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+          "4. Your flight gets cheaper? Maybe\n\nLower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+          "5. Watch your next booking\n\nCheck if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A startup wants planes flying all year.",
+          "No new engines, just smarter maintenance with AI.",
+          "This could slash airline downtime dramatically.",
+          "Maybe cheaper flights, maybe bigger airline profits.",
+          "Next flight might change - keep watching."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next flight might not be delayed because of a mechanical issue. A startup backed by investor Lachy Groom is using AI to predict part failures before they happen, keeping planes in the air for up to a year without unscheduled groundings. No new engines, just smarter maintenance. ✈️\n\nAirlines could save millions by cutting downtime, and that might mean cheaper tickets or better routes for you. But only if carriers actually adopt this tech. 🔧\n\nFor anyone covering aviation, tech, or business: your next story could be about which airline is quietly testing this—and which one isn't. Check your own flight's on-time record. Is your carrier still flying blind? 🤔"
+      }
+    },
+    "instagram_caption": "Your next flight might not be delayed because of a mechanical issue. A startup backed by investor Lachy Groom is using AI to predict part failures before they happen, keeping planes in the air for up to a year without unscheduled groundings. No new engines, just smarter maintenance. ✈️\n\nAirlines could save millions by cutting downtime, and that might mean cheaper tickets or better routes for you. But only if carriers actually adopt this tech. 🔧\n\nFor anyone covering aviation, tech, or business: your next story could be about which airline is quietly testing this—and which one isn't. Check your own flight's on-time record. Is your carrier still flying blind? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Why a $100M bet?",
+        "description": "Lachy Groom just backed an Indian startup promising to keep planes flying for a year straight. The secret isn't hardware—it's predictive maintenance.",
+        "visual_hint": "Jet engine close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "jet engine airplane"
+      },
+      {
+        "hook": "No new engines here",
+        "description": "The secret isn't new hardware. It's AI that spots failures before they happen, keeping planes in the air longer.",
+        "visual_hint": "AI data streams over plane",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "airplane wing sky",
+        "image": "https://images.pexels.com/photos/22388078/pexels-photo-22388078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Downtime shrinks, profits soar",
+        "description": "Airlines could cut unscheduled groundings dramatically, saving millions and boosting fleet utilization.",
+        "visual_hint": "Graph arrows up",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your flight gets cheaper?",
+        "description": "Lower maintenance costs could mean lower ticket prices—or fatter margins for carriers.",
+        "visual_hint": "Wallet with ticket",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "airplane tickets wallet",
+        "image": "https://images.pexels.com/photos/8830665/pexels-photo-8830665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you book",
+        "description": "Check if your airline uses predictive maintenance. If not, ask why—your departure time might depend on it.",
+        "visual_hint": "Finger pressing save",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone airport app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/alteon-airplane.jpg?resize=1200,800",
+    "savedAt": "2026-09-01T02:46:10.836Z",
+    "sourceId": "ddd60eb51f47396014f031b3a4913289"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "debian-won-8217-t-ban-ai-code-from-its-linux-distr",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "polymarket-reportedly-raises-300-million-from-dona",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+  "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+  "pubDate": "Mon, 31 Aug 2026 23:41:10 +0000",
+  "slides": [
+    "Polymarket's new Trump-backed millions: game changer or gamble?",
+    "Donald Trump Jr.'s fund leads a $300 million raise.",
+    "Yet the SEC's shadow looms over prediction markets still.",
+    "Your market bets may soon face new political winds.",
+    "Watch regulatory news before trusting these odds again."
+  ],
+  "thread_text": [
+    "1. Trump's millions, your risk?\n\nA $300M raise backed by Trump Jr. just poured into Polymarket. The SEC is still watching every bet you place.",
+    "2. The SEC's shadow\n\nRegulators haven't blinked. They're eyeing prediction markets as unregistered securities. Your odds could vanish overnight.",
+    "3. Political winds shift\n\nNew political winds are blowing. If the SEC acts, your winnings might not pay out. The house could change the rules mid-game.",
+    "4. Trust the odds?\n\nThat $300M isn't a safety net. It's a bet on lax enforcement. If the SEC cracks down, the market could freeze, and so could your funds.",
+    "5. Check before you bet\n\nBefore your next bet, search 'SEC prediction markets' news. One headline could make your odds worthless. Will you still bet?"
+  ],
+  "video_script": [
+    "Trump's fund just threw millions into Polymarket.",
+    "But the SEC is still watching every move.",
+    "New political winds might flip the rules.",
+    "Your bets could freeze or vanish overnight.",
+    "Check SEC news before you trust the odds."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trump's millions, your risk?\n\nA $300M raise backed by Trump Jr. just poured into Polymarket. The SEC is still watching every bet you place.",
+        "2. The SEC's shadow\n\nRegulators haven't blinked. They're eyeing prediction markets as unregistered securities. Your odds could vanish overnight.",
+        "3. Political winds shift\n\nNew political winds are blowing. If the SEC acts, your winnings might not pay out. The house could change the rules mid-game.",
+        "4. Trust the odds?\n\nThat $300M isn't a safety net. It's a bet on lax enforcement. If the SEC cracks down, the market could freeze, and so could your funds.",
+        "5. Check before you bet\n\nBefore your next bet, search 'SEC prediction markets' news. One headline could make your odds worthless. Will you still bet?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump's fund just threw millions into Polymarket.",
+        "But the SEC is still watching every move.",
+        "New political winds might flip the rules.",
+        "Your bets could freeze or vanish overnight.",
+        "Check SEC news before you trust the odds."
+      ]
+    },
+    "instagram": {
+      "caption": "$300 million just landed in Polymarket’s pocket—backed by Donald Trump Jr.’s investment fund. 🤑\n\nThat’s the size of their latest raise, and it puts political money directly inside a prediction market the SEC still hasn’t cleared. Regulators keep eyeing these platforms as unregistered securities, meaning the legal ground under your bets is shaky at best. If the SEC moves, withdrawals could freeze. ⚖️\n\nFor anyone creating content about odds or market moves, this changes your risk calculation: the platform’s future isn’t just about user volume anymore, it’s about political favor and enforcement timing.\n\nBefore you trust another poll-based payout, have you checked today’s SEC news? 📉"
+    }
+  },
+  "instagram_caption": "$300 million just landed in Polymarket’s pocket—backed by Donald Trump Jr.’s investment fund. 🤑\n\nThat’s the size of their latest raise, and it puts political money directly inside a prediction market the SEC still hasn’t cleared. Regulators keep eyeing these platforms as unregistered securities, meaning the legal ground under your bets is shaky at best. If the SEC moves, withdrawals could freeze. ⚖️\n\nFor anyone creating content about odds or market moves, this changes your risk calculation: the platform’s future isn’t just about user volume anymore, it’s about political favor and enforcement timing.\n\nBefore you trust another poll-based payout, have you checked today’s SEC news? 📉",
+  "carousel_slides": [
+    {
+      "hook": "Your odds could vanish overnight?",
+      "description": "Polymarket raises $300M with Trump Jr.'s fund, but regulators still eye prediction markets as unregistered securities. Your bets may not pay out.",
+      "visual_hint": "Dollar bills and question marks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "The SEC still watches every bet.",
+      "description": "Donald Trump Jr.'s fund leads $300M raise. But the SEC's shadow looms: prediction markets might be deemed unregistered securities, freezing funds.",
+      "visual_hint": "Gavel and glowing screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Political winds shift, odds change.",
+      "description": "If the SEC acts, your winnings might not pay out. The house could change rules mid-game. Political winds are blowing through prediction markets.",
+      "visual_hint": "Wind-blown American flag",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "american flag",
+      "image": "https://images.pexels.com/photos/27596106/pexels-photo-27596106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "That $300M isn't a safety net.",
+      "description": "It's a bet on lax enforcement. If the SEC cracks down, markets freeze, and so could your funds. No safety net for your bets.",
+      "visual_hint": "Hand holding dollar and ice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding dollar",
+      "image": "https://images.pexels.com/photos/5909801/pexels-photo-5909801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next bet.",
+      "description": "Search 'SEC prediction markets' news now. One headline could make your odds worthless. Will you still bet? Check before you trust.",
+      "visual_hint": "Phone with search alert",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2277777336.jpg?resize=1200,800",
+  "savedAt": "2026-09-01T02:46:39.021Z",
+  "sourceId": "9418f10eb336fd28363cb893cbca3fff"
+}
