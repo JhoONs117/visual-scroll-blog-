@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "john-deere-launched-an-ai-chatbot-for-farmers",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "pubDate": "2026-09-01T16:00:52.000Z",
+      "slides": [
+        "John Deere's AI chatbot knows your fields—but what's it hiding?",
+        "It processes crop data from tractors, satellites, and soil sensors.",
+        "Yet the model refuses to answer why yield predictions drop suddenly.",
+        "Farmers gain instant insights, but their data becomes the product.",
+        "Ask your dealer for a data ownership clause before next season."
+      ],
+      "thread_text": [
+        "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+        "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+        "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+        "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+        "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+      ],
+      "video_script": [
+        "Your fields, your data, their AI.",
+        "It sees everything but tells little.",
+        "Why hide yield drop reasons?",
+        "You're the product, not the customer.",
+        "Demand data ownership before planting."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+            "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+            "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+            "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+            "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your fields, your data, their AI.",
+            "It sees everything but tells little.",
+            "Why hide yield drop reasons?",
+            "You're the product, not the customer.",
+            "Demand data ownership before planting."
+          ]
+        },
+        "instagram": {
+          "caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?"
+        }
+      },
+      "instagram_caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?",
+      "carousel_slides": [
+        {
+          "hook": "Your AI refuses to answer this.",
+          "description": "John Deere's chatbot tracks fields via tractors, satellites, and sensors—but stays silent on sudden yield drops.",
+          "visual_hint": "Silent glowing chatbot screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "tractor field technology"
+        },
+        {
+          "hook": "Your data is the real product.",
+          "description": "Farm data trains the model, yet farmers gain no ownership or compensation. More use means more value—for them.",
+          "visual_hint": "Data streams from field to cloud",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The silence is a design choice.",
+          "description": "Refusing to explain yield drops protects proprietary algorithms. It's not a bug—it's strategic opacity.",
+          "visual_hint": "Zoom on hidden algorithm code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board closeup",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You trade insights for black boxes.",
+          "description": "Instant recommendations arrive without a formula. Your decisions rely on a system you can't audit or challenge.",
+          "visual_hint": "Farmer's hand vs opaque screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "farmer hand tablet",
+          "image": "https://images.pexels.com/photos/28102059/pexels-photo-28102059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand a data clause before planting.",
+          "description": "Request ownership of your farm data from your dealer now. If refused, explore open-source modeling alternatives.",
+          "visual_hint": "Contract with highlighted clause",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "contract document signature",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-09-01T19:02:42.734Z",
+      "sourceId": "91bace9854c6d5404b721e86d0d30c13"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "chatgpt-health-adds-epic-integration-for-clinician",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "slides": [
+        "Can ChatGPT Health truly streamline your clinical workflow?",
+        "Epic integration now imports patient data directly.",
+        "It bypasses the clipboard—but not the liability.",
+        "You'll save minutes per note, yet face new risks.",
+        "Test it on one patient before trusting automation."
+      ],
+      "thread_text": [
+        "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+        "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+        "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+        "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+        "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+      ],
+      "video_script": [
+        "ChatGPT Health integrates with Epic. Fast, but risky.",
+        "It pulls patient data, skips the clipboard.",
+        "You save minutes per note, but add liability.",
+        "AI mistakes become your mistakes. Unpredictable errors.",
+        "Test on one patient before trusting automation."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+            "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+            "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+            "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+            "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "ChatGPT Health integrates with Epic. Fast, but risky.",
+            "It pulls patient data, skips the clipboard.",
+            "You save minutes per note, but add liability.",
+            "AI mistakes become your mistakes. Unpredictable errors.",
+            "Test on one patient before trusting automation."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️"
+        }
+      },
+      "instagram_caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️",
+      "carousel_slides": [
+        {
+          "hook": "Saving minutes, risking more?",
+          "description": "Epic integration cuts transcription time, but every AI-generated word remains your legal responsibility—a risky trade-off for efficiency.",
+          "visual_hint": "Scale balancing minutes vs risks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "digital health records"
+        },
+        {
+          "hook": "Clipboard bypass, not liability.",
+          "description": "Direct import replaces copy-paste, but errors from AI are unpredictable—you own the outcome, legally and ethically.",
+          "visual_hint": "Clipboard with warning sign",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer clipboard",
+          "image": "https://images.pexels.com/photos/5208319/pexels-photo-5208319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unseen errors, your responsibility.",
+          "description": "You save minutes per note, yet new mistakes can slip past review, potentially harming patients or inviting lawsuits.",
+          "visual_hint": "Magnifying glass over data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "medical magnifying glass",
+          "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI errors: unpredictable, yours.",
+          "description": "Unlike manual work, AI mistakes can't be blamed on the tool—you bear the legal and ethical consequences.",
+          "visual_hint": "Doctor holding liability document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "doctor hand document",
+          "image": "https://images.pexels.com/photos/8376289/pexels-photo-8376289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this for your pilot test.",
+          "description": "Run one low-risk patient through the AI workflow today to spot failures before full adoption.",
+          "visual_hint": "Checklist with one patient case",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "medical checklist",
+          "image": "https://images.pexels.com/photos/6098057/pexels-photo-6098057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "savedAt": "2026-09-01T19:02:25.612Z",
+      "sourceId": "18f7db1b68368a98686eb9befb35be35"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-answer-to-canva-is-an-ai-tool-where-you-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "slides": [
+        "Could Google's new AI design tool replace Canva's dominance?",
+        "It generates complete presentations from simple text prompts.",
+        "Surprisingly, its first drafts often beat human-designed layouts.",
+        "This shifts design work from manual editing to prompt refinement.",
+        "Test it today against your current presentation workflow."
+      ],
+      "thread_text": [
+        "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+        "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+        "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+        "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+        "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+      ],
+      "video_script": [
+        "Google's AI design tool challenges Canva's throne.",
+        "Text prompts turn into complete presentations instantly.",
+        "First drafts often beat human layouts.",
+        "Design work shifts from editing to prompt crafting.",
+        "Test it against your workflow today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+            "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+            "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+            "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+            "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google's AI design tool challenges Canva's throne.",
+            "Text prompts turn into complete presentations instantly.",
+            "First drafts often beat human layouts.",
+            "Design work shifts from editing to prompt crafting.",
+            "Test it against your workflow today."
+          ]
+        },
+        "instagram": {
+          "caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪"
+        }
+      },
+      "instagram_caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪",
+      "carousel_slides": [
+        {
+          "hook": "First drafts beat human designers?",
+          "description": "Google's new AI presentation tool generates full decks from text prompts, and initial drafts often outperform human-designed layouts in quality tests.",
+          "visual_hint": "AI vs human design comparison",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "artificial intelligence robot"
+        },
+        {
+          "hook": "Design skill shifts to wording.",
+          "description": "The new skill isn't pixel-perfect editing—it's crafting precise prompts. Designers move from manual tweaking to prompt refinement for every slide.",
+          "visual_hint": "Prompt typing on keyboard closeup",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "keyboard typing code",
+          "image": "https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your taste may feel obsolete.",
+          "description": "First drafts that beat human work undermine confidence. You're not just using a tool—you're questioning your own design judgment and creative value.",
+          "visual_hint": "Question mark over design board",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "question mark neon",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Speed vs. pixel control trade-off.",
+          "description": "You save minutes on assembly but lose precise control over every element. Teams often underestimate the cost of this loss of manual control.",
+          "visual_hint": "Clock and pixel grid overlay",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "clock gears mechanism",
+          "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test it on your own deck today.",
+          "description": "Take a real presentation you built last week and rebuild it with Google's tool. Compare the output to your workflow and see what wins.",
+          "visual_hint": "Split screen before after presentation",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "split screen laptop",
+          "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+      "savedAt": "2026-09-01T19:02:08.586Z",
+      "sourceId": "16ca199800c79860b6e9c584dc77e30e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "new-york-governor-kathy-hochul-thinks-ai-should-be",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -139584,6 +139896,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "risotto-cacio-pepe-e-cozze",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Risotto cacio, pepe e cozze",
+      "link": "https://ricette.giallozafferano.it/Risotto-cacio-pepe-e-cozze.html",
+      "pubDate": "Tue, 01 Sep 2026 15:05:00 +0200",
+      "content": "Risotto cacio e pepe con le cozze, cremoso e sapido Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto cacio, pepe e cozze /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto cacio, pepe e cozze è una variante originale e irresistibilmente cremosa della celebre cacio e pepe , che vi invita a sperimentare un abbinamento tanto audace quanto sorprendente. In questa ricetta il gusto deciso e sapido del Pecorino Romano DOP incontra il profumo di mare delle cozze , mentre il pepe nero completa il piatto con la sua caratteristica nota pungente e aromatica. Un connubio accattivante per sdoganare definitivamente l'incontro tra pesce e formaggio , dimostrando come due sapori apparentemente lontani possano dare vita a un equilibrio davvero speciale. La cottura del riso con il liquido delle cozze rende ogni chicco ancora più saporito, mentre la mantecatura finale regala una consistenza avvolgente e vellutata. Se amate rivisitare i grandi classici e lasciarvi sorprendere da accostamenti inaspettati, il risotto cacio, pepe e cozze è l'occasione giusta per esplorare nuovi orizzonti di sapore… preparate i cucchiai e lasciatevi conquistare! Provate altre ricette con questo sfizioso abbinamento: Risotto cozze fave e pecorino Strozzapreti cacio, cozze e pepe Spaghetti cacio, pepe e gamberi Scopri anche Strozzapreti cacio, cozze e pepe Risotto cavolo nero e cozze Risotto cozze fave e pecorino Sfoglia tutte INGREDIENTI Cozze 600 g Olio extravergine d'oliva q.b. Aglio 2 spicchi Riso Carnaroli 320 g Sale fino q.b. Brodo vegetale 1 l Vino bianco 100 g per mantecare Pecorino Romano DOP 80 g Olio extravergine d'oliva q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto cacio, pepe e cozze Per preparare il risotto cacio, pepe e cozze, iniziate dalla pulizia dei molluschi: sciacquate accuratamente le cozze sotto l’acqua corrente, eliminate le eventuali impurità presenti sui gusci e rimuovete il bisso tirandolo delicatamente 1 . Versate un filo d’olio extravergine d’oliva in una pentola capiente e aggiungete gli spicchi d’aglio schiacciati 2 . Lasciate insaporire a fuoco medio, poi unite le cozze pulite 3 . Coprite subito con il coperchio 4 e lasciatele cuocere a fuoco medio fino a quando si saranno completamente aperte. A questo punto togliete la pentola dal fuoco e sgusciate le cozze, raccogliendo i molluschi in una ciotola 5 . Filtrate accuratamente il loro liquido di cottura attraverso un colino a maglie fini 6 . Tenetelo da parte insieme alle cozze sgusciate 7 . Passate alla preparazione del risotto. Scaldate una casseruola e versate il riso 8 , quindi salate leggermente 9 e tostatelo a secco per circa 3 minuti, mescolando spesso. Sfumate con il vino bianco secco 10 e lasciate evaporare completamente la parte alcolica. Iniziate quindi la cottura aggiungendo un mestolo di brodo caldo alla volta 11 , mescolando spesso e aspettando che il liquido venga assorbito prima di aggiungerne altro. Proseguite la cottura del risotto per circa 14 minuti complessivi. Negli ultimi minuti versate anche il liquido filtrato delle cozze tenuto da parte 12 , così da insaporire ulteriormente il riso. Quando il riso sarà al dente, togliete la casseruola dal fuoco e procedete con la mantecatura: aggiungete il pecorino romano grattugiato 13 , versate un filo d’olio extravergine d’oliva a crudo 14 e completate con abbondante pepe nero macinato al momento 15 . Unite anche le cozze sgusciate 16 e mescolate energicamente per amalgamare tutti gli ingredienti e ottenere un risotto cremoso e avvolgente 17 . Distribuite infine il risotto cacio, pepe e cozze nei piatti, completate con una macinata di pepe nero e, se desiderate, con altro pecorino romano grattugiato. Servite subito ben caldo 18 . Conservazione Si consiglia di consumare subito il risotto cacio, pepe e cozze. Consiglio Se necessario, durante la mantecatura unite ancora pochissimo brodo caldo per evitare che il formaggio formi dei grumi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Cozze Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Strozzapreti cacio, cozze e pepe 14 4.3 Risotto cavolo nero e cozze 2 5.0 Risotto cozze fave e pecorino 4.8 Impepata di cozze 144 4.2 Tiella barese (riso patate e cozze) 122 4.1 Pomodori ripieni di riso patate e cozze 19 4.5 Risotto ai frutti di mare 118 4.4 Risotto alla pescatora saporito 4.9 ULTIME RICETTE Risotto cacio, pepe e cozze 5.0 Involtini di carpaccio in padella 5.0 Risotto al pomodoro con broccoli e funghi 5.0 SCOPRI Risotto cacio e pepe Pici cacio e pepe Cacio e pepe alla romana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Strozzapreti cacio, cozze e pepe 14 4.3 Gli strozzapreti cacio, cozze e pepe sono un primo piatto cremoso e saporito con base cacio e pepe e aggiunta di frutti di mare. Scoprite la ricetta! Vai alla ricetta Primi piatti Risotto cavolo nero e cozze 2 5.0 Il risotto cavolo nero e cozze è un primo piatto terra e mare che unisce il sapore dei molluschi a una delicata crema di verdura! Scopri la ricetta. Vai alla ricetta Primi piatti Risotto cozze fave e pecorino 4.8 Il risotto cozze, fave e pecorino è un cremoso primo piatto che arricchisce un classico binomio primaverile con i frutti di mare! Scopri la ricetta. Vai alla ricetta Antipasti Impepata di cozze 144 4.2 L'impepata di cozze è una ricetta tipica della cucina campana realizzata con due soli ingredienti, ottima come antipasto: scopri dosi e preparazione! Vai alla ricetta Primi piatti Tiella barese (riso patate e cozze) 122 4.1 La tiella barese (riso patate e cozze) è una ricetta tipica della cucina pugliese in cui gli ingredienti crudi si aggiungono a strati nella teglia! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Risotto cremoso con cozze e pecorino romano.",
+        "Cozze, riso Carnaroli, pecorino, pepe, vino bianco.",
+        "Tosta il riso e sfuma col vino.",
+        "Cuoci col brodo e liquido delle cozze, poi manteca.",
+        "Pecorino e pepe abbondanti per la cremosità finale."
+      ],
+      "instagram_caption": "La cremosità che non ti aspetti: il risotto cacio e pepe incontra il mare. 🌊  \nLe cozze sprigionano tutto il loro sapore nel brodo, che va a bagnare il Carnaroli tostato e sfumato col vino bianco. Poi arriva il momento magico: mantecatura con pecorino romano e una macinata generosa di pepe, finché il riso diventa velluto. Il liquido delle cozze fa la differenza, credimi: è il segreto per un piatto che sa di salmastro e tradizione, con un tocco romano che lo rende irresistibile. 😍  \nDa servire ben caldo, magari con un bicchiere di Vermentino. 🦪🧀  \nProvalo questo weekend e fammi sapere! ✨",
+      "formats": {
+        "instagram": {
+          "caption": "La cremosità che non ti aspetti: il risotto cacio e pepe incontra il mare. 🌊  \nLe cozze sprigionano tutto il loro sapore nel brodo, che va a bagnare il Carnaroli tostato e sfumato col vino bianco. Poi arriva il momento magico: mantecatura con pecorino romano e una macinata generosa di pepe, finché il riso diventa velluto. Il liquido delle cozze fa la differenza, credimi: è il segreto per un piatto che sa di salmastro e tradizione, con un tocco romano che lo rende irresistibile. 😍  \nDa servire ben caldo, magari con un bicchiere di Vermentino. 🦪🧀  \nProvalo questo weekend e fammi sapere! ✨"
+        },
+        "tiktok": {
+          "script": [
+            "Apro le cozze, tengo l'acqua, sono oro.",
+            "Tosto il riso, sfumo col vino bianco.",
+            "Cuocio col brodo e l'acqua delle cozze.",
+            "Manteco con pecorino e tanto pepe nero.",
+            "Ecco il risotto, cremoso e tutto da provare."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Non ci avevo mai pensato, ma dopo questo risotto non torno più indietro: cacio, pepe e cozze. La cremosità del pecorino che incontra il mare. Roba che mentre lo mangi ti chiedi perché nessuno l'ha fatto prima.",
+            "Parti da cozze fresche, le apri a fuoco vivo con un filo d'olio e uno spicchio d'aglio. Tieni da parte il liquido: è oro. Poi tosta il riso Carnaroli a secco, fino a quando non scoppietta. Sfuma col vino bianco e senti che profumo.",
+            "Cuoci il riso aggiungendo brodo caldo e quel liquido delle cozze, poco alla volta. Mescola con decisione, fai assorbire bene. Quando manca un paio di minuti, spegni e preparati al gran finale.",
+            "Manteca fuori dal fuoco: una manciata abbondante di pecorino romano e una macinata generosa di pepe. Le cozze le aggiungi a fine cottura, tenendone qualcuna intera per decorare. Il risultato? Un risotto che si muove da solo.",
+            "Il trucco: il pepe lo pesti leggermente nel mortaio, così sprigiona tutto l'aroma senza diventare aggressivo. Provalo e dimmi com'è andata. Sono sicuro che non lo dimentichi facilmente. 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Apro le cozze, tengo l'acqua, sono oro.",
+        "Tosto il riso, sfumo col vino bianco.",
+        "Cuocio col brodo e l'acqua delle cozze.",
+        "Manteco con pecorino e tanto pepe nero.",
+        "Ecco il risotto, cremoso e tutto da provare."
+      ],
+      "thread_text": [
+        "Non ci avevo mai pensato, ma dopo questo risotto non torno più indietro: cacio, pepe e cozze. La cremosità del pecorino che incontra il mare. Roba che mentre lo mangi ti chiedi perché nessuno l'ha fatto prima.",
+        "Parti da cozze fresche, le apri a fuoco vivo con un filo d'olio e uno spicchio d'aglio. Tieni da parte il liquido: è oro. Poi tosta il riso Carnaroli a secco, fino a quando non scoppietta. Sfuma col vino bianco e senti che profumo.",
+        "Cuoci il riso aggiungendo brodo caldo e quel liquido delle cozze, poco alla volta. Mescola con decisione, fai assorbire bene. Quando manca un paio di minuti, spegni e preparati al gran finale.",
+        "Manteca fuori dal fuoco: una manciata abbondante di pecorino romano e una macinata generosa di pepe. Le cozze le aggiungi a fine cottura, tenendone qualcuna intera per decorare. Il risultato? Un risotto che si muove da solo.",
+        "Il trucco: il pepe lo pesti leggermente nel mortaio, così sprigiona tutto l'aroma senza diventare aggressivo. Provalo e dimmi com'è andata. Sono sicuro che non lo dimentichi facilmente. 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Il risotto che non ti aspetti",
+          "description": "Un risotto cremoso che unisce il profondo sapore delle cozze al gusto deciso del pecorino romano.",
+          "visual_hint": "Piatto fumante e cremoso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "creamy savory risotto"
+        },
+        {
+          "hook": "3 ingredienti, un'esplosione",
+          "description": "Cozze fresche, riso Carnaroli e pecorino romano DOP per una base perfetta di sapore e consistenza.",
+          "visual_hint": "Ingredienti su tavola rustica",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fresh savory mussels",
+          "image": "https://images.pexels.com/photos/16134547/pexels-photo-16134547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il segreto: la tostatura",
+          "description": "Tosta il riso a secco finché non diventa lucido e traslucido, poi sfuma con vino bianco per un aroma intenso.",
+          "visual_hint": "Primo piano chicchi di riso",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "toasting savory rice",
+          "image": "https://images.pexels.com/photos/12913642/pexels-photo-12913642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Brodo ricco, mantecatura divina",
+          "description": "Cuoci il riso nel brodo e nel liquido delle cozze, poi manteca fuori dal fuoco per una cremosità vellutata.",
+          "visual_hint": "Mani che mescolano il risotto",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "creamy savory risotto",
+          "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Il tocco finale? Pecorino",
+          "description": "Una pioggia di pecorino romano e pepe nero macinato al momento per un finale irresistibile. Servi subito.",
+          "visual_hint": "Pecorino grattugiato sul piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory risotto cheese",
+          "image": "https://images.pexels.com/photos/21821603/pexels-photo-21821603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "fish",
+      "signature_ingredients": [
+        "cozze",
+        "riso carnaroli",
+        "pecorino romano"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36578/Risotto-cacio-pepe-e-cozze_650x433_wm.jpg",
+      "savedAt": "2026-09-01T19:10:55.973Z",
+      "sourceId": "7bdece2f7138a43d88ef4cbab31406de"
+    },
     {
       "schema_version": 2,
       "agent": "food",

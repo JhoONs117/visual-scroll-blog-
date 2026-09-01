@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "john-deere-launched-an-ai-chatbot-for-farmers",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "John Deere launched an AI chatbot for farmers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+    "pubDate": "2026-09-01T16:00:52.000Z",
+    "slides": [
+      "John Deere's AI chatbot knows your fields—but what's it hiding?",
+      "It processes crop data from tractors, satellites, and soil sensors.",
+      "Yet the model refuses to answer why yield predictions drop suddenly.",
+      "Farmers gain instant insights, but their data becomes the product.",
+      "Ask your dealer for a data ownership clause before next season."
+    ],
+    "thread_text": [
+      "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+      "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+      "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+      "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+      "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+    ],
+    "video_script": [
+      "Your fields, your data, their AI.",
+      "It sees everything but tells little.",
+      "Why hide yield drop reasons?",
+      "You're the product, not the customer.",
+      "Demand data ownership before planting."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+          "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+          "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+          "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+          "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your fields, your data, their AI.",
+          "It sees everything but tells little.",
+          "Why hide yield drop reasons?",
+          "You're the product, not the customer.",
+          "Demand data ownership before planting."
+        ]
+      },
+      "instagram": {
+        "caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?"
+      }
+    },
+    "instagram_caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?",
+    "carousel_slides": [
+      {
+        "hook": "Your AI refuses to answer this.",
+        "description": "John Deere's chatbot tracks fields via tractors, satellites, and sensors—but stays silent on sudden yield drops.",
+        "visual_hint": "Silent glowing chatbot screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "tractor field technology"
+      },
+      {
+        "hook": "Your data is the real product.",
+        "description": "Farm data trains the model, yet farmers gain no ownership or compensation. More use means more value—for them.",
+        "visual_hint": "Data streams from field to cloud",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "data center servers",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The silence is a design choice.",
+        "description": "Refusing to explain yield drops protects proprietary algorithms. It's not a bug—it's strategic opacity.",
+        "visual_hint": "Zoom on hidden algorithm code",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You trade insights for black boxes.",
+        "description": "Instant recommendations arrive without a formula. Your decisions rely on a system you can't audit or challenge.",
+        "visual_hint": "Farmer's hand vs opaque screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "farmer hand tablet",
+        "image": "https://images.pexels.com/photos/28102059/pexels-photo-28102059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand a data clause before planting.",
+        "description": "Request ownership of your farm data from your dealer now. If refused, explore open-source modeling alternatives.",
+        "visual_hint": "Contract with highlighted clause",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "contract document signature",
+        "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-09-01T19:02:42.734Z",
+    "sourceId": "91bace9854c6d5404b721e86d0d30c13"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-health-adds-epic-integration-for-clinician",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+    "slides": [
+      "Can ChatGPT Health truly streamline your clinical workflow?",
+      "Epic integration now imports patient data directly.",
+      "It bypasses the clipboard—but not the liability.",
+      "You'll save minutes per note, yet face new risks.",
+      "Test it on one patient before trusting automation."
+    ],
+    "thread_text": [
+      "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+      "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+      "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+      "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+      "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+    ],
+    "video_script": [
+      "ChatGPT Health integrates with Epic. Fast, but risky.",
+      "It pulls patient data, skips the clipboard.",
+      "You save minutes per note, but add liability.",
+      "AI mistakes become your mistakes. Unpredictable errors.",
+      "Test on one patient before trusting automation."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+          "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+          "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+          "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+          "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT Health integrates with Epic. Fast, but risky.",
+          "It pulls patient data, skips the clipboard.",
+          "You save minutes per note, but add liability.",
+          "AI mistakes become your mistakes. Unpredictable errors.",
+          "Test on one patient before trusting automation."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️"
+      }
+    },
+    "instagram_caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️",
+    "carousel_slides": [
+      {
+        "hook": "Saving minutes, risking more?",
+        "description": "Epic integration cuts transcription time, but every AI-generated word remains your legal responsibility—a risky trade-off for efficiency.",
+        "visual_hint": "Scale balancing minutes vs risks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital health records"
+      },
+      {
+        "hook": "Clipboard bypass, not liability.",
+        "description": "Direct import replaces copy-paste, but errors from AI are unpredictable—you own the outcome, legally and ethically.",
+        "visual_hint": "Clipboard with warning sign",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer clipboard",
+        "image": "https://images.pexels.com/photos/5208319/pexels-photo-5208319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unseen errors, your responsibility.",
+        "description": "You save minutes per note, yet new mistakes can slip past review, potentially harming patients or inviting lawsuits.",
+        "visual_hint": "Magnifying glass over data",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "medical magnifying glass",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI errors: unpredictable, yours.",
+        "description": "Unlike manual work, AI mistakes can't be blamed on the tool—you bear the legal and ethical consequences.",
+        "visual_hint": "Doctor holding liability document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "doctor hand document",
+        "image": "https://images.pexels.com/photos/8376289/pexels-photo-8376289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your pilot test.",
+        "description": "Run one low-risk patient through the AI workflow today to spot failures before full adoption.",
+        "visual_hint": "Checklist with one patient case",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "medical checklist",
+        "image": "https://images.pexels.com/photos/6098057/pexels-photo-6098057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "savedAt": "2026-09-01T19:02:25.612Z",
+    "sourceId": "18f7db1b68368a98686eb9befb35be35"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-s-answer-to-canva-is-an-ai-tool-where-you-p",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+    "slides": [
+      "Could Google's new AI design tool replace Canva's dominance?",
+      "It generates complete presentations from simple text prompts.",
+      "Surprisingly, its first drafts often beat human-designed layouts.",
+      "This shifts design work from manual editing to prompt refinement.",
+      "Test it today against your current presentation workflow."
+    ],
+    "thread_text": [
+      "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+      "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+      "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+      "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+      "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+    ],
+    "video_script": [
+      "Google's AI design tool challenges Canva's throne.",
+      "Text prompts turn into complete presentations instantly.",
+      "First drafts often beat human layouts.",
+      "Design work shifts from editing to prompt crafting.",
+      "Test it against your workflow today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+          "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+          "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+          "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+          "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's AI design tool challenges Canva's throne.",
+          "Text prompts turn into complete presentations instantly.",
+          "First drafts often beat human layouts.",
+          "Design work shifts from editing to prompt crafting.",
+          "Test it against your workflow today."
+        ]
+      },
+      "instagram": {
+        "caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪"
+      }
+    },
+    "instagram_caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪",
+    "carousel_slides": [
+      {
+        "hook": "First drafts beat human designers?",
+        "description": "Google's new AI presentation tool generates full decks from text prompts, and initial drafts often outperform human-designed layouts in quality tests.",
+        "visual_hint": "AI vs human design comparison",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence robot"
+      },
+      {
+        "hook": "Design skill shifts to wording.",
+        "description": "The new skill isn't pixel-perfect editing—it's crafting precise prompts. Designers move from manual tweaking to prompt refinement for every slide.",
+        "visual_hint": "Prompt typing on keyboard closeup",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "keyboard typing code",
+        "image": "https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your taste may feel obsolete.",
+        "description": "First drafts that beat human work undermine confidence. You're not just using a tool—you're questioning your own design judgment and creative value.",
+        "visual_hint": "Question mark over design board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "question mark neon",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed vs. pixel control trade-off.",
+        "description": "You save minutes on assembly but lose precise control over every element. Teams often underestimate the cost of this loss of manual control.",
+        "visual_hint": "Clock and pixel grid overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "clock gears mechanism",
+        "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on your own deck today.",
+        "description": "Take a real presentation you built last week and rebuild it with Google's tool. Compare the output to your workflow and see what wins.",
+        "visual_hint": "Split screen before after presentation",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "split screen laptop",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+    "savedAt": "2026-09-01T19:02:08.586Z",
+    "sourceId": "16ca199800c79860b6e9c584dc77e30e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "new-york-governor-kathy-hochul-thinks-ai-should-be",
     "prompt_version": "1.0.0",
     "status": "published",

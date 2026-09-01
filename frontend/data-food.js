@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "risotto-cacio-pepe-e-cozze",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Risotto cacio, pepe e cozze",
+    "link": "https://ricette.giallozafferano.it/Risotto-cacio-pepe-e-cozze.html",
+    "pubDate": "Tue, 01 Sep 2026 15:05:00 +0200",
+    "content": "Risotto cacio e pepe con le cozze, cremoso e sapido Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Le pinse con Pinsami Frolle e sfoglie con Buitoni Dolci con Nutella Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Riso e Cereali Risotto cacio, pepe e cozze /5 Ricetta proposta da Sebastian Fitarau CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 15 min Cottura: 25 min Dosi per: 4 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il risotto cacio, pepe e cozze è una variante originale e irresistibilmente cremosa della celebre cacio e pepe , che vi invita a sperimentare un abbinamento tanto audace quanto sorprendente. In questa ricetta il gusto deciso e sapido del Pecorino Romano DOP incontra il profumo di mare delle cozze , mentre il pepe nero completa il piatto con la sua caratteristica nota pungente e aromatica. Un connubio accattivante per sdoganare definitivamente l'incontro tra pesce e formaggio , dimostrando come due sapori apparentemente lontani possano dare vita a un equilibrio davvero speciale. La cottura del riso con il liquido delle cozze rende ogni chicco ancora più saporito, mentre la mantecatura finale regala una consistenza avvolgente e vellutata. Se amate rivisitare i grandi classici e lasciarvi sorprendere da accostamenti inaspettati, il risotto cacio, pepe e cozze è l'occasione giusta per esplorare nuovi orizzonti di sapore… preparate i cucchiai e lasciatevi conquistare! Provate altre ricette con questo sfizioso abbinamento: Risotto cozze fave e pecorino Strozzapreti cacio, cozze e pepe Spaghetti cacio, pepe e gamberi Scopri anche Strozzapreti cacio, cozze e pepe Risotto cavolo nero e cozze Risotto cozze fave e pecorino Sfoglia tutte INGREDIENTI Cozze 600 g Olio extravergine d'oliva q.b. Aglio 2 spicchi Riso Carnaroli 320 g Sale fino q.b. Brodo vegetale 1 l Vino bianco 100 g per mantecare Pecorino Romano DOP 80 g Olio extravergine d'oliva q.b. Pepe nero q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Risotto cacio, pepe e cozze Per preparare il risotto cacio, pepe e cozze, iniziate dalla pulizia dei molluschi: sciacquate accuratamente le cozze sotto l’acqua corrente, eliminate le eventuali impurità presenti sui gusci e rimuovete il bisso tirandolo delicatamente 1 . Versate un filo d’olio extravergine d’oliva in una pentola capiente e aggiungete gli spicchi d’aglio schiacciati 2 . Lasciate insaporire a fuoco medio, poi unite le cozze pulite 3 . Coprite subito con il coperchio 4 e lasciatele cuocere a fuoco medio fino a quando si saranno completamente aperte. A questo punto togliete la pentola dal fuoco e sgusciate le cozze, raccogliendo i molluschi in una ciotola 5 . Filtrate accuratamente il loro liquido di cottura attraverso un colino a maglie fini 6 . Tenetelo da parte insieme alle cozze sgusciate 7 . Passate alla preparazione del risotto. Scaldate una casseruola e versate il riso 8 , quindi salate leggermente 9 e tostatelo a secco per circa 3 minuti, mescolando spesso. Sfumate con il vino bianco secco 10 e lasciate evaporare completamente la parte alcolica. Iniziate quindi la cottura aggiungendo un mestolo di brodo caldo alla volta 11 , mescolando spesso e aspettando che il liquido venga assorbito prima di aggiungerne altro. Proseguite la cottura del risotto per circa 14 minuti complessivi. Negli ultimi minuti versate anche il liquido filtrato delle cozze tenuto da parte 12 , così da insaporire ulteriormente il riso. Quando il riso sarà al dente, togliete la casseruola dal fuoco e procedete con la mantecatura: aggiungete il pecorino romano grattugiato 13 , versate un filo d’olio extravergine d’oliva a crudo 14 e completate con abbondante pepe nero macinato al momento 15 . Unite anche le cozze sgusciate 16 e mescolate energicamente per amalgamare tutti gli ingredienti e ottenere un risotto cremoso e avvolgente 17 . Distribuite infine il risotto cacio, pepe e cozze nei piatti, completate con una macinata di pepe nero e, se desiderate, con altro pecorino romano grattugiato. Servite subito ben caldo 18 . Conservazione Si consiglia di consumare subito il risotto cacio, pepe e cozze. Consiglio Se necessario, durante la mantecatura unite ancora pochissimo brodo caldo per evitare che il formaggio formi dei grumi. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Aglio Cozze Olio di oliva Scopri tutto sugli ingredienti Presente in: Primi piatti di pesce STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Strozzapreti cacio, cozze e pepe 14 4.3 Risotto cavolo nero e cozze 2 5.0 Risotto cozze fave e pecorino 4.8 Impepata di cozze 144 4.2 Tiella barese (riso patate e cozze) 122 4.1 Pomodori ripieni di riso patate e cozze 19 4.5 Risotto ai frutti di mare 118 4.4 Risotto alla pescatora saporito 4.9 ULTIME RICETTE Risotto cacio, pepe e cozze 5.0 Involtini di carpaccio in padella 5.0 Risotto al pomodoro con broccoli e funghi 5.0 SCOPRI Risotto cacio e pepe Pici cacio e pepe Cacio e pepe alla romana Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Primi piatti Strozzapreti cacio, cozze e pepe 14 4.3 Gli strozzapreti cacio, cozze e pepe sono un primo piatto cremoso e saporito con base cacio e pepe e aggiunta di frutti di mare. Scoprite la ricetta! Vai alla ricetta Primi piatti Risotto cavolo nero e cozze 2 5.0 Il risotto cavolo nero e cozze è un primo piatto terra e mare che unisce il sapore dei molluschi a una delicata crema di verdura! Scopri la ricetta. Vai alla ricetta Primi piatti Risotto cozze fave e pecorino 4.8 Il risotto cozze, fave e pecorino è un cremoso primo piatto che arricchisce un classico binomio primaverile con i frutti di mare! Scopri la ricetta. Vai alla ricetta Antipasti Impepata di cozze 144 4.2 L'impepata di cozze è una ricetta tipica della cucina campana realizzata con due soli ingredienti, ottima come antipasto: scopri dosi e preparazione! Vai alla ricetta Primi piatti Tiella barese (riso patate e cozze) 122 4.1 La tiella barese (riso patate e cozze) è una ricetta tipica della cucina pugliese in cui gli ingredienti crudi si aggiungono a strati nella teglia! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Risotto cremoso con cozze e pecorino romano.",
+      "Cozze, riso Carnaroli, pecorino, pepe, vino bianco.",
+      "Tosta il riso e sfuma col vino.",
+      "Cuoci col brodo e liquido delle cozze, poi manteca.",
+      "Pecorino e pepe abbondanti per la cremosità finale."
+    ],
+    "instagram_caption": "La cremosità che non ti aspetti: il risotto cacio e pepe incontra il mare. 🌊  \nLe cozze sprigionano tutto il loro sapore nel brodo, che va a bagnare il Carnaroli tostato e sfumato col vino bianco. Poi arriva il momento magico: mantecatura con pecorino romano e una macinata generosa di pepe, finché il riso diventa velluto. Il liquido delle cozze fa la differenza, credimi: è il segreto per un piatto che sa di salmastro e tradizione, con un tocco romano che lo rende irresistibile. 😍  \nDa servire ben caldo, magari con un bicchiere di Vermentino. 🦪🧀  \nProvalo questo weekend e fammi sapere! ✨",
+    "formats": {
+      "instagram": {
+        "caption": "La cremosità che non ti aspetti: il risotto cacio e pepe incontra il mare. 🌊  \nLe cozze sprigionano tutto il loro sapore nel brodo, che va a bagnare il Carnaroli tostato e sfumato col vino bianco. Poi arriva il momento magico: mantecatura con pecorino romano e una macinata generosa di pepe, finché il riso diventa velluto. Il liquido delle cozze fa la differenza, credimi: è il segreto per un piatto che sa di salmastro e tradizione, con un tocco romano che lo rende irresistibile. 😍  \nDa servire ben caldo, magari con un bicchiere di Vermentino. 🦪🧀  \nProvalo questo weekend e fammi sapere! ✨"
+      },
+      "tiktok": {
+        "script": [
+          "Apro le cozze, tengo l'acqua, sono oro.",
+          "Tosto il riso, sfumo col vino bianco.",
+          "Cuocio col brodo e l'acqua delle cozze.",
+          "Manteco con pecorino e tanto pepe nero.",
+          "Ecco il risotto, cremoso e tutto da provare."
+        ]
+      },
+      "x": {
+        "thread": [
+          "Non ci avevo mai pensato, ma dopo questo risotto non torno più indietro: cacio, pepe e cozze. La cremosità del pecorino che incontra il mare. Roba che mentre lo mangi ti chiedi perché nessuno l'ha fatto prima.",
+          "Parti da cozze fresche, le apri a fuoco vivo con un filo d'olio e uno spicchio d'aglio. Tieni da parte il liquido: è oro. Poi tosta il riso Carnaroli a secco, fino a quando non scoppietta. Sfuma col vino bianco e senti che profumo.",
+          "Cuoci il riso aggiungendo brodo caldo e quel liquido delle cozze, poco alla volta. Mescola con decisione, fai assorbire bene. Quando manca un paio di minuti, spegni e preparati al gran finale.",
+          "Manteca fuori dal fuoco: una manciata abbondante di pecorino romano e una macinata generosa di pepe. Le cozze le aggiungi a fine cottura, tenendone qualcuna intera per decorare. Il risultato? Un risotto che si muove da solo.",
+          "Il trucco: il pepe lo pesti leggermente nel mortaio, così sprigiona tutto l'aroma senza diventare aggressivo. Provalo e dimmi com'è andata. Sono sicuro che non lo dimentichi facilmente. 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Apro le cozze, tengo l'acqua, sono oro.",
+      "Tosto il riso, sfumo col vino bianco.",
+      "Cuocio col brodo e l'acqua delle cozze.",
+      "Manteco con pecorino e tanto pepe nero.",
+      "Ecco il risotto, cremoso e tutto da provare."
+    ],
+    "thread_text": [
+      "Non ci avevo mai pensato, ma dopo questo risotto non torno più indietro: cacio, pepe e cozze. La cremosità del pecorino che incontra il mare. Roba che mentre lo mangi ti chiedi perché nessuno l'ha fatto prima.",
+      "Parti da cozze fresche, le apri a fuoco vivo con un filo d'olio e uno spicchio d'aglio. Tieni da parte il liquido: è oro. Poi tosta il riso Carnaroli a secco, fino a quando non scoppietta. Sfuma col vino bianco e senti che profumo.",
+      "Cuoci il riso aggiungendo brodo caldo e quel liquido delle cozze, poco alla volta. Mescola con decisione, fai assorbire bene. Quando manca un paio di minuti, spegni e preparati al gran finale.",
+      "Manteca fuori dal fuoco: una manciata abbondante di pecorino romano e una macinata generosa di pepe. Le cozze le aggiungi a fine cottura, tenendone qualcuna intera per decorare. Il risultato? Un risotto che si muove da solo.",
+      "Il trucco: il pepe lo pesti leggermente nel mortaio, così sprigiona tutto l'aroma senza diventare aggressivo. Provalo e dimmi com'è andata. Sono sicuro che non lo dimentichi facilmente. 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Il risotto che non ti aspetti",
+        "description": "Un risotto cremoso che unisce il profondo sapore delle cozze al gusto deciso del pecorino romano.",
+        "visual_hint": "Piatto fumante e cremoso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "creamy savory risotto"
+      },
+      {
+        "hook": "3 ingredienti, un'esplosione",
+        "description": "Cozze fresche, riso Carnaroli e pecorino romano DOP per una base perfetta di sapore e consistenza.",
+        "visual_hint": "Ingredienti su tavola rustica",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "fresh savory mussels",
+        "image": "https://images.pexels.com/photos/16134547/pexels-photo-16134547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il segreto: la tostatura",
+        "description": "Tosta il riso a secco finché non diventa lucido e traslucido, poi sfuma con vino bianco per un aroma intenso.",
+        "visual_hint": "Primo piano chicchi di riso",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "toasting savory rice",
+        "image": "https://images.pexels.com/photos/12913642/pexels-photo-12913642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Brodo ricco, mantecatura divina",
+        "description": "Cuoci il riso nel brodo e nel liquido delle cozze, poi manteca fuori dal fuoco per una cremosità vellutata.",
+        "visual_hint": "Mani che mescolano il risotto",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "creamy savory risotto",
+        "image": "https://images.pexels.com/photos/34110276/pexels-photo-34110276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Il tocco finale? Pecorino",
+        "description": "Una pioggia di pecorino romano e pepe nero macinato al momento per un finale irresistibile. Servi subito.",
+        "visual_hint": "Pecorino grattugiato sul piatto",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory risotto cheese",
+        "image": "https://images.pexels.com/photos/21821603/pexels-photo-21821603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "fish",
+    "signature_ingredients": [
+      "cozze",
+      "riso carnaroli",
+      "pecorino romano"
+    ],
+    "image": "https://www.giallozafferano.it/images/365-36578/Risotto-cacio-pepe-e-cozze_650x433_wm.jpg",
+    "savedAt": "2026-09-01T19:10:55.973Z",
+    "sourceId": "7bdece2f7138a43d88ef4cbab31406de"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "risotto-al-pomodoro-con-broccoli-e-funghi",
     "prompt_version": "1.0.0",
     "status": "published",

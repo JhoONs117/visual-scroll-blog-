@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-health-adds-epic-integration-for-clinician",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+  "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+  "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+  "slides": [
+    "Can ChatGPT Health truly streamline your clinical workflow?",
+    "Epic integration now imports patient data directly.",
+    "It bypasses the clipboard—but not the liability.",
+    "You'll save minutes per note, yet face new risks.",
+    "Test it on one patient before trusting automation."
+  ],
+  "thread_text": [
+    "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+    "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+    "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+    "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+    "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+  ],
+  "video_script": [
+    "ChatGPT Health integrates with Epic. Fast, but risky.",
+    "It pulls patient data, skips the clipboard.",
+    "You save minutes per note, but add liability.",
+    "AI mistakes become your mistakes. Unpredictable errors.",
+    "Test on one patient before trusting automation."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT Health: Too Good to Be True?\n\nEpic's new integration lets the AI pull patient data directly, but the liability for errors still sits with you.",
+        "2. The Clipboard Is Just a Workaround\n\nIt bypasses the manual copy-paste, yet every word the AI writes becomes your responsibility—a risky trade-off for convenience.",
+        "3. Save Minutes, Risk More\n\nYou'll cut note time down significantly, but new errors may slip past your review—errors that could harm patients or lead to lawsuits.",
+        "4. The Liability You Can't Ignore\n\nUnlike a clipboard, AI errors are unpredictable. You can't just blame the tool—you own the outcome, legally and ethically.",
+        "5. Test Before You Trust\n\nRun one patient with low risk through the AI workflow. See where it fails. If you haven't done this yet, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT Health integrates with Epic. Fast, but risky.",
+        "It pulls patient data, skips the clipboard.",
+        "You save minutes per note, but add liability.",
+        "AI mistakes become your mistakes. Unpredictable errors.",
+        "Test on one patient before trusting automation."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️"
+    }
+  },
+  "instagram_caption": "Your next patient note could write itself—but if it’s wrong, it’s on you. 🩺\n\nChatGPT Health now pulls data straight from Epic, skipping the copy-paste. Clinicians save minutes per note, but every AI-generated word becomes their legal responsibility. Errors are unpredictable, not like a clipboard mistake you can spot.\n\nFor anyone documenting care: your workflow just got faster, but your liability just got bigger. ⚖️\n\nTest it on one low-risk patient first. Where did it fail? If you haven't run that trial yet, that's your next move. ✍️",
+  "carousel_slides": [
+    {
+      "hook": "Saving minutes, risking more?",
+      "description": "Epic integration cuts transcription time, but every AI-generated word remains your legal responsibility—a risky trade-off for efficiency.",
+      "visual_hint": "Scale balancing minutes vs risks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital health records"
+    },
+    {
+      "hook": "Clipboard bypass, not liability.",
+      "description": "Direct import replaces copy-paste, but errors from AI are unpredictable—you own the outcome, legally and ethically.",
+      "visual_hint": "Clipboard with warning sign",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer clipboard",
+      "image": "https://images.pexels.com/photos/5208319/pexels-photo-5208319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unseen errors, your responsibility.",
+      "description": "You save minutes per note, yet new mistakes can slip past review, potentially harming patients or inviting lawsuits.",
+      "visual_hint": "Magnifying glass over data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "medical magnifying glass",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI errors: unpredictable, yours.",
+      "description": "Unlike manual work, AI mistakes can't be blamed on the tool—you bear the legal and ethical consequences.",
+      "visual_hint": "Doctor holding liability document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "doctor hand document",
+      "image": "https://images.pexels.com/photos/8376289/pexels-photo-8376289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your pilot test.",
+      "description": "Run one low-risk patient through the AI workflow today to spot failures before full adoption.",
+      "visual_hint": "Checklist with one patient case",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "medical checklist",
+      "image": "https://images.pexels.com/photos/6098057/pexels-photo-6098057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+  "savedAt": "2026-09-01T19:02:25.612Z",
+  "sourceId": "18f7db1b68368a98686eb9befb35be35"
+}

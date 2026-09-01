@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-answer-to-canva-is-an-ai-tool-where-you-p",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+  "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+  "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+  "slides": [
+    "Could Google's new AI design tool replace Canva's dominance?",
+    "It generates complete presentations from simple text prompts.",
+    "Surprisingly, its first drafts often beat human-designed layouts.",
+    "This shifts design work from manual editing to prompt refinement.",
+    "Test it today against your current presentation workflow."
+  ],
+  "thread_text": [
+    "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+    "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+    "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+    "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+    "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+  ],
+  "video_script": [
+    "Google's AI design tool challenges Canva's throne.",
+    "Text prompts turn into complete presentations instantly.",
+    "First drafts often beat human layouts.",
+    "Design work shifts from editing to prompt crafting.",
+    "Test it against your workflow today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Canva's reign is over?\n\nGoogle's new tool turns text prompts into full decks, and its first drafts often outpace human-designed layouts in quality tests.",
+        "2. The shift is real\n\nDesigners are moving from manual tweaking to refining prompts. The skill isn't clicking—it's wording the ask correctly.",
+        "3. Worse before better?\n\nFirst drafts that beat human work sound great, but they might also make your own taste feel obsolete. That's a mind game, not just a tool.",
+        "4. Speed vs. control\n\nYou save minutes on assembly but lose precise control over every pixel. The trade-off catches many teams off guard.",
+        "5. Test it yourself\n\nTake one real deck you built last week and rebuild it with Google's tool. Does it beat your workflow, or just feel faster? Run the test today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI design tool challenges Canva's throne.",
+        "Text prompts turn into complete presentations instantly.",
+        "First drafts often beat human layouts.",
+        "Design work shifts from editing to prompt crafting.",
+        "Test it against your workflow today."
+      ]
+    },
+    "instagram": {
+      "caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪"
+    }
+  },
+  "instagram_caption": "A text prompt just built a presentation that out-designed your last deck 📊\n\nGoogle’s new tool turns a sentence into a full slide layout, and in quality tests, the first drafts beat human-built ones. The catch: your job shifts from dragging elements to wording the ask better. Faster assembly, less control over every pixel.\n\nFor anyone who creates decks, the skill you need is no longer design—it’s writing sharper prompts. That’s a different muscle.\n\nTake a deck you made last week and rebuild it with the tool today. Does it really beat your workflow, or just feel quicker? 🧪",
+  "carousel_slides": [
+    {
+      "hook": "First drafts beat human designers?",
+      "description": "Google's new AI presentation tool generates full decks from text prompts, and initial drafts often outperform human-designed layouts in quality tests.",
+      "visual_hint": "AI vs human design comparison",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence robot"
+    },
+    {
+      "hook": "Design skill shifts to wording.",
+      "description": "The new skill isn't pixel-perfect editing—it's crafting precise prompts. Designers move from manual tweaking to prompt refinement for every slide.",
+      "visual_hint": "Prompt typing on keyboard closeup",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "keyboard typing code",
+      "image": "https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your taste may feel obsolete.",
+      "description": "First drafts that beat human work undermine confidence. You're not just using a tool—you're questioning your own design judgment and creative value.",
+      "visual_hint": "Question mark over design board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "question mark neon",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Speed vs. pixel control trade-off.",
+      "description": "You save minutes on assembly but lose precise control over every element. Teams often underestimate the cost of this loss of manual control.",
+      "visual_hint": "Clock and pixel grid overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "clock gears mechanism",
+      "image": "https://images.pexels.com/photos/20188479/pexels-photo-20188479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on your own deck today.",
+      "description": "Take a real presentation you built last week and rebuild it with Google's tool. Compare the output to your workflow and see what wins.",
+      "visual_hint": "Split screen before after presentation",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "split screen laptop",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+  "savedAt": "2026-09-01T19:02:08.586Z",
+  "sourceId": "16ca199800c79860b6e9c584dc77e30e"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "john-deere-launched-an-ai-chatbot-for-farmers",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "John Deere launched an AI chatbot for farmers",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+  "pubDate": "2026-09-01T16:00:52.000Z",
+  "slides": [
+    "John Deere's AI chatbot knows your fields—but what's it hiding?",
+    "It processes crop data from tractors, satellites, and soil sensors.",
+    "Yet the model refuses to answer why yield predictions drop suddenly.",
+    "Farmers gain instant insights, but their data becomes the product.",
+    "Ask your dealer for a data ownership clause before next season."
+  ],
+  "thread_text": [
+    "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+    "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+    "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+    "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+    "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+  ],
+  "video_script": [
+    "Your fields, your data, their AI.",
+    "It sees everything but tells little.",
+    "Why hide yield drop reasons?",
+    "You're the product, not the customer.",
+    "Demand data ownership before planting."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What does the AI hide?\n\nJohn Deere's chatbot knows your fields from tractors, satellites, and soil sensors—yet it won't explain why yield predictions suddenly drop.",
+        "2. Data becomes the product\n\nYour farm's data is used to train the model, but you get no ownership or compensation. The more you use it, the more valuable it becomes—for them.",
+        "3. The silence is strategic\n\nThe AI is programmed to refuse answers about sudden yield drops. That's not a bug; it's a design choice to protect proprietary algorithms.",
+        "4. Farmers trade insights for secrets\n\nYou see instant recommendations, but you don't know the formula behind them. Your decisions rely on a black box you can't audit.",
+        "5. Ask for a data clause now\n\nBefore next season, request a contract clause that gives you ownership of your data. If they say no, consider alternatives like open-source modeling tools."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your fields, your data, their AI.",
+        "It sees everything but tells little.",
+        "Why hide yield drop reasons?",
+        "You're the product, not the customer.",
+        "Demand data ownership before planting."
+      ]
+    },
+    "instagram": {
+      "caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?"
+    }
+  },
+  "instagram_caption": "Your tractor’s data trains the model—but you get no ownership and no compensation. 📡\n\nJohn Deere’s new AI chatbot reads your fields via satellites and soil sensors, then serves instant recommendations. But ask why a yield prediction suddenly dropped, and it goes silent. 🚜 That silence isn’t a glitch—it’s protecting proprietary formulas you can’t audit. Your insights, their black box. ⚙️\n\nBefore next season, demand a data ownership clause from your dealer. If they refuse, look into open-source modeling alternatives. 🛠️\n\nWho holds the rights to the numbers your land generates?",
+  "carousel_slides": [
+    {
+      "hook": "Your AI refuses to answer this.",
+      "description": "John Deere's chatbot tracks fields via tractors, satellites, and sensors—but stays silent on sudden yield drops.",
+      "visual_hint": "Silent glowing chatbot screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "tractor field technology"
+    },
+    {
+      "hook": "Your data is the real product.",
+      "description": "Farm data trains the model, yet farmers gain no ownership or compensation. More use means more value—for them.",
+      "visual_hint": "Data streams from field to cloud",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The silence is a design choice.",
+      "description": "Refusing to explain yield drops protects proprietary algorithms. It's not a bug—it's strategic opacity.",
+      "visual_hint": "Zoom on hidden algorithm code",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board closeup",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You trade insights for black boxes.",
+      "description": "Instant recommendations arrive without a formula. Your decisions rely on a system you can't audit or challenge.",
+      "visual_hint": "Farmer's hand vs opaque screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "farmer hand tablet",
+      "image": "https://images.pexels.com/photos/28102059/pexels-photo-28102059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand a data clause before planting.",
+      "description": "Request ownership of your farm data from your dealer now. If refused, explore open-source modeling alternatives.",
+      "visual_hint": "Contract with highlighted clause",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "contract document signature",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-01T19:02:42.734Z",
+  "sourceId": "91bace9854c6d5404b721e86d0d30c13"
+}
