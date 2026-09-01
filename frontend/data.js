@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "harvard-law-dropout-raises-6m-for-blue-voice-to-bu",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
+    "slides": [
+      "Can AI defend a police officer like Harvey does lawyers?",
+      "Blue Voice raised $6M from a Harvard Law dropout.",
+      "Its AI learns the department's own unwritten rules.",
+      "Officers now get real-time advice before making statements.",
+      "Test it on your next disciplinary case—or wait."
+    ],
+    "thread_text": [
+      "1. AI defends cops now\n\nBlue Voice secured $6M from a Harvard Law dropout to teach machines the unwritten rules of police departments.",
+      "2. What does it learn?\n\nIt studies internal habits and biases that officers themselves might not consciously know, turning them into a playbook for statements.",
+      "3. Real-time pressure\n\nBefore an officer answers a single question, the AI whispers what to say next—steering the narrative in the moment.",
+      "4. Could you use it?\n\nThis isn't just for cops. Any professional facing disciplinary panels could feed their own 'unwritten rules' into an AI advisor.",
+      "5. Try it this week\n\nCreate a ChatGPT prompt that simulates your department's unwritten rules. Run your next statement through it and see the advice. Worth it?"
+    ],
+    "video_script": [
+      "AI advisors for cops?",
+      "Blue Voice got six million.",
+      "Learns unwritten police rules.",
+      "Real-time advice for statements.",
+      "Test it on your case."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI defends cops now\n\nBlue Voice secured $6M from a Harvard Law dropout to teach machines the unwritten rules of police departments.",
+          "2. What does it learn?\n\nIt studies internal habits and biases that officers themselves might not consciously know, turning them into a playbook for statements.",
+          "3. Real-time pressure\n\nBefore an officer answers a single question, the AI whispers what to say next—steering the narrative in the moment.",
+          "4. Could you use it?\n\nThis isn't just for cops. Any professional facing disciplinary panels could feed their own 'unwritten rules' into an AI advisor.",
+          "5. Try it this week\n\nCreate a ChatGPT prompt that simulates your department's unwritten rules. Run your next statement through it and see the advice. Worth it?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI advisors for cops?",
+          "Blue Voice got six million.",
+          "Learns unwritten police rules.",
+          "Real-time advice for statements.",
+          "Test it on your case."
+        ]
+      },
+      "instagram": {
+        "caption": "A Harvard Law dropout just raised $6M for Blue Voice, an AI that learns a police department’s own unwritten rules to coach officers in real time before they make statements. 🚔\n\nIt’s trained on internal habits and biases, turning what officers do instinctively into a playbook for answering questions. The goal: protect them during disciplinary cases, like Harvey does for lawyers.\n\nFor anyone who writes statements—not just cops—this means your own organization’s hidden patterns could soon be mapped and used against you or for you. ⚖️\n\nCould you feed your workplace’s unwritten rules into an AI to test your next statement before you send it? 📝"
+      }
+    },
+    "instagram_caption": "A Harvard Law dropout just raised $6M for Blue Voice, an AI that learns a police department’s own unwritten rules to coach officers in real time before they make statements. 🚔\n\nIt’s trained on internal habits and biases, turning what officers do instinctively into a playbook for answering questions. The goal: protect them during disciplinary cases, like Harvey does for lawyers.\n\nFor anyone who writes statements—not just cops—this means your own organization’s hidden patterns could soon be mapped and used against you or for you. ⚖️\n\nCould you feed your workplace’s unwritten rules into an AI to test your next statement before you send it? 📝",
+    "carousel_slides": [
+      {
+        "hook": "AI knows your department's unwritten rules?",
+        "description": "Blue Voice raised $6M to teach machines the hidden habits and biases officers don't consciously know, turning them into a statement playbook.",
+        "visual_hint": "AI scanning rulebook pattern",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "police station interior"
+      },
+      {
+        "hook": "Harvard dropout funds cop AI",
+        "description": "A Harvard Law dropout invested $6M in Blue Voice, which studies internal habits to predict what officers should say before they speak.",
+        "visual_hint": "money bag with AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board closeup",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Real-time advice before you answer",
+        "description": "Before an officer answers a single question, Blue Voice whispers the next move, steering the narrative in the moment under pressure.",
+        "visual_hint": "earpiece with glowing signal",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "police radio equipment",
+        "image": "https://images.pexels.com/photos/7714722/pexels-photo-7714722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Not just cops — your next hearing?",
+        "description": "Professionals facing disciplinary panels could feed their own unwritten rules into an AI advisor, turning it into a personal defense coach.",
+        "visual_hint": "hand holding phone with AI chat",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it this week — save this",
+        "description": "Create a ChatGPT prompt simulating your department's unwritten rules, run your next statement through it, and see the advice.",
+        "visual_hint": "phone with prompt and save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "chatbot interface screen",
+        "image": "https://images.pexels.com/photos/16027823/pexels-photo-16027823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+    "savedAt": "2026-09-01T09:01:44.168Z",
+    "sourceId": "c24cafe651857fc1ca331b9e1404dee2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "why-mcp-servers-are-becoming-ai-s-newest-attack-su",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why MCP servers are becoming AI’s newest attack surface",
+    "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+    "pubDate": "Tue, 01 Sep 2026 07:37:26 +0000",
+    "slides": [
+      "MCP servers: AI's new doorway, but who holds the key?",
+      "They let AI access tools and data directly.",
+      "Most teams deploy them with zero security reviews.",
+      "Your AI can now be tricked into leaking credentials.",
+      "Audit every MCP server before connecting your data."
+    ],
+    "thread_text": [
+      "1. Who holds the key?\n\nMost teams connect MCP servers without a single security review. The door is wide open.",
+      "2. Direct access, zero checks\n\nThese servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+      "3. The credential leak\n\nA prompt can trick your AI into handing over login details. No custom code needed, just a clever instruction.",
+      "4. The audit gap\n\nSecurity reviews are skipped because teams trust the server source. That trust is the vulnerability.",
+      "5. Audit before you connect\n\nReview the server's permissions and code before giving it access. Or test with dummy credentials first. Does your team have a checklist?"
+    ],
+    "video_script": [
+      "MCP servers are AI's new doorway.",
+      "Most deploy them with zero security checks.",
+      "Now AI can leak your credentials.",
+      "A simple prompt triggers the leak.",
+      "Audit every server before connecting data."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who holds the key?\n\nMost teams connect MCP servers without a single security review. The door is wide open.",
+          "2. Direct access, zero checks\n\nThese servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+          "3. The credential leak\n\nA prompt can trick your AI into handing over login details. No custom code needed, just a clever instruction.",
+          "4. The audit gap\n\nSecurity reviews are skipped because teams trust the server source. That trust is the vulnerability.",
+          "5. Audit before you connect\n\nReview the server's permissions and code before giving it access. Or test with dummy credentials first. Does your team have a checklist?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "MCP servers are AI's new doorway.",
+          "Most deploy them with zero security checks.",
+          "Now AI can leak your credentials.",
+          "A simple prompt triggers the leak.",
+          "Audit every server before connecting data."
+        ]
+      },
+      "instagram": {
+        "caption": "Your AI can be tricked into handing over login details with nothing but a clever prompt. 🔑\n\nMCP servers give AI direct access to tools and data, and most teams plug them in without a single security review. No custom code needed for the leak—just an instruction that fools the model.\n\nThat means the AI you trust with your content calendar or client files is also a potential exit point for credentials.\n\nSo before you connect another MCP server, ask this: does your workflow have a review checklist, or are you trusting it blindly? 🗝️"
+      }
+    },
+    "instagram_caption": "Your AI can be tricked into handing over login details with nothing but a clever prompt. 🔑\n\nMCP servers give AI direct access to tools and data, and most teams plug them in without a single security review. No custom code needed for the leak—just an instruction that fools the model.\n\nThat means the AI you trust with your content calendar or client files is also a potential exit point for credentials.\n\nSo before you connect another MCP server, ask this: does your workflow have a review checklist, or are you trusting it blindly? 🗝️",
+    "carousel_slides": [
+      {
+        "hook": "Who holds the key to your AI?",
+        "description": "Most teams connect MCP servers without a single security review. The door is wide open.",
+        "visual_hint": "Open door with keyhole",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "open door keyhole"
+      },
+      {
+        "hook": "Direct access, zero checks.",
+        "description": "These servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+        "visual_hint": "Server with wires",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "A prompt steals credentials.",
+        "description": "A clever instruction can trick your AI into handing over login details. No custom code needed.",
+        "visual_hint": "Padlock being cracked",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken padlock",
+        "image": "https://images.pexels.com/photos/20510328/pexels-photo-20510328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust is the vulnerability.",
+        "description": "Security reviews are skipped because teams trust the server source. That trust is the weak point.",
+        "visual_hint": "Handshake with shadow",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "handshake shadow",
+        "image": "https://images.pexels.com/photos/8470843/pexels-photo-8470843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this checklist before connecting.",
+        "description": "Audit the server's permissions and code before giving access. Test with dummy credentials first. Does your team have a checklist?",
+        "visual_hint": "Clipboard with checklist",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "clipboard checklist",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/17325288/pexels-photo-17325288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-01T09:01:31.456Z",
+    "sourceId": "2c18a48084e14e3039b580ce8f33ec4b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "instagram-cracks-down-on-ai-accounts-pretending-to",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-mcp-servers-are-becoming-ai-s-newest-attack-su",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why MCP servers are becoming AI’s newest attack surface",
+  "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+  "pubDate": "Tue, 01 Sep 2026 07:37:26 +0000",
+  "slides": [
+    "MCP servers: AI's new doorway, but who holds the key?",
+    "They let AI access tools and data directly.",
+    "Most teams deploy them with zero security reviews.",
+    "Your AI can now be tricked into leaking credentials.",
+    "Audit every MCP server before connecting your data."
+  ],
+  "thread_text": [
+    "1. Who holds the key?\n\nMost teams connect MCP servers without a single security review. The door is wide open.",
+    "2. Direct access, zero checks\n\nThese servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+    "3. The credential leak\n\nA prompt can trick your AI into handing over login details. No custom code needed, just a clever instruction.",
+    "4. The audit gap\n\nSecurity reviews are skipped because teams trust the server source. That trust is the vulnerability.",
+    "5. Audit before you connect\n\nReview the server's permissions and code before giving it access. Or test with dummy credentials first. Does your team have a checklist?"
+  ],
+  "video_script": [
+    "MCP servers are AI's new doorway.",
+    "Most deploy them with zero security checks.",
+    "Now AI can leak your credentials.",
+    "A simple prompt triggers the leak.",
+    "Audit every server before connecting data."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who holds the key?\n\nMost teams connect MCP servers without a single security review. The door is wide open.",
+        "2. Direct access, zero checks\n\nThese servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+        "3. The credential leak\n\nA prompt can trick your AI into handing over login details. No custom code needed, just a clever instruction.",
+        "4. The audit gap\n\nSecurity reviews are skipped because teams trust the server source. That trust is the vulnerability.",
+        "5. Audit before you connect\n\nReview the server's permissions and code before giving it access. Or test with dummy credentials first. Does your team have a checklist?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "MCP servers are AI's new doorway.",
+        "Most deploy them with zero security checks.",
+        "Now AI can leak your credentials.",
+        "A simple prompt triggers the leak.",
+        "Audit every server before connecting data."
+      ]
+    },
+    "instagram": {
+      "caption": "Your AI can be tricked into handing over login details with nothing but a clever prompt. 🔑\n\nMCP servers give AI direct access to tools and data, and most teams plug them in without a single security review. No custom code needed for the leak—just an instruction that fools the model.\n\nThat means the AI you trust with your content calendar or client files is also a potential exit point for credentials.\n\nSo before you connect another MCP server, ask this: does your workflow have a review checklist, or are you trusting it blindly? 🗝️"
+    }
+  },
+  "instagram_caption": "Your AI can be tricked into handing over login details with nothing but a clever prompt. 🔑\n\nMCP servers give AI direct access to tools and data, and most teams plug them in without a single security review. No custom code needed for the leak—just an instruction that fools the model.\n\nThat means the AI you trust with your content calendar or client files is also a potential exit point for credentials.\n\nSo before you connect another MCP server, ask this: does your workflow have a review checklist, or are you trusting it blindly? 🗝️",
+  "carousel_slides": [
+    {
+      "hook": "Who holds the key to your AI?",
+      "description": "Most teams connect MCP servers without a single security review. The door is wide open.",
+      "visual_hint": "Open door with keyhole",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open door keyhole"
+    },
+    {
+      "hook": "Direct access, zero checks.",
+      "description": "These servers let AI pull tools and data straight into your workflow. Deployment happens fast, security trails behind.",
+      "visual_hint": "Server with wires",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A prompt steals credentials.",
+      "description": "A clever instruction can trick your AI into handing over login details. No custom code needed.",
+      "visual_hint": "Padlock being cracked",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken padlock",
+      "image": "https://images.pexels.com/photos/20510328/pexels-photo-20510328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust is the vulnerability.",
+      "description": "Security reviews are skipped because teams trust the server source. That trust is the weak point.",
+      "visual_hint": "Handshake with shadow",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "handshake shadow",
+      "image": "https://images.pexels.com/photos/8470843/pexels-photo-8470843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this checklist before connecting.",
+      "description": "Audit the server's permissions and code before giving access. Test with dummy credentials first. Does your team have a checklist?",
+      "visual_hint": "Clipboard with checklist",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "clipboard checklist",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/17325288/pexels-photo-17325288.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-01T09:01:31.456Z",
+  "sourceId": "2c18a48084e14e3039b580ce8f33ec4b"
+}
