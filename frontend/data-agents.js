@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-launches-claude-fable-5-1-and-says-it-82",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "pubDate": "2026-09-01T22:01:36.000Z",
+      "slides": [
+        "Can Claude Fable 5.1 slash your agent costs?",
+        "Anthropic claims agentic tasks now run 45% cheaper.",
+        "Yet benchmark data only covers narrow, specific workflows.",
+        "Your real savings depend on your exact agent mix.",
+        "Run your own pilot before trusting the headline."
+      ],
+      "thread_text": [
+        "1. Are the savings real?\n\nAnthropic's new model slashes agent costs by 45%—but only on tests they picked.",
+        "2. Narrow benchmarks, big promises\n\nThe claimed gains come from specific workflows, not your messy real-world tasks.",
+        "3. Your mix changes everything\n\nIf your agents handle varied jobs, the savings could shrink or vanish entirely.",
+        "4. The hidden variable\n\nInfrastructure and integration costs aren't in the headline—they might eat the difference.",
+        "5. Test before you trust\n\nRun one of your own agent tasks on Claude Fable 5.1 this week. What does your cost report show?"
+      ],
+      "video_script": [
+        "Claude Fable 5.1 claims 45% cheaper agent tasks.",
+        "But benchmarks use narrow workflows only.",
+        "Your real tasks might not match those.",
+        "The savings depend on your agent mix.",
+        "Test with your own pilot before switching."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Are the savings real?\n\nAnthropic's new model slashes agent costs by 45%—but only on tests they picked.",
+            "2. Narrow benchmarks, big promises\n\nThe claimed gains come from specific workflows, not your messy real-world tasks.",
+            "3. Your mix changes everything\n\nIf your agents handle varied jobs, the savings could shrink or vanish entirely.",
+            "4. The hidden variable\n\nInfrastructure and integration costs aren't in the headline—they might eat the difference.",
+            "5. Test before you trust\n\nRun one of your own agent tasks on Claude Fable 5.1 this week. What does your cost report show?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Claude Fable 5.1 claims 45% cheaper agent tasks.",
+            "But benchmarks use narrow workflows only.",
+            "Your real tasks might not match those.",
+            "The savings depend on your agent mix.",
+            "Test with your own pilot before switching."
+          ]
+        },
+        "instagram": {
+          "caption": "The 45% cost drop Anthropic is advertising for Claude Fable 5.1 only applies to a handful of workflows they picked for benchmarks. 🧪\n\nAgentic tasks—where AI handles multi-step jobs—are allegedly cheaper, but the tests skip the messy, mixed workloads most teams actually run. Your infrastructure and integration costs aren’t in that number either. ⚙️\n\nIf you build with AI agents, this headline doesn’t change your budget yet. Run one of your own tasks on Fable 5.1 this week and compare the invoice.\n\nWhat does your real cost report show? 💸"
+        }
+      },
+      "instagram_caption": "The 45% cost drop Anthropic is advertising for Claude Fable 5.1 only applies to a handful of workflows they picked for benchmarks. 🧪\n\nAgentic tasks—where AI handles multi-step jobs—are allegedly cheaper, but the tests skip the messy, mixed workloads most teams actually run. Your infrastructure and integration costs aren’t in that number either. ⚙️\n\nIf you build with AI agents, this headline doesn’t change your budget yet. Run one of your own tasks on Fable 5.1 this week and compare the invoice.\n\nWhat does your real cost report show? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Will your agent really save 45%?",
+          "description": "Anthropic claims 45% cheaper agentic work, but only on narrow, chosen workflows. Your real-world tasks may not see those savings.",
+          "visual_hint": "Coin stack with downward arrow",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stack of coins"
+        },
+        {
+          "hook": "Benchmarks can be misleading",
+          "description": "The claimed cost cut comes from specific workflows, not messy real-world jobs. Don't assume it applies to every task.",
+          "visual_hint": "Magnifying glass over a line chart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "line chart graph",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your agent mix changes everything",
+          "description": "Savings depend heavily on your exact mix of tasks. Varied workloads could shrink or even erase the headline cost drop.",
+          "visual_hint": "Pie chart split into colorful segments",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pie chart segments",
+          "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Hidden costs may eat the gains",
+          "description": "Infrastructure and integration costs aren't in the headline. They could easily offset any savings from the new model.",
+          "visual_hint": "Iceberg showing hidden part underwater",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "iceberg underwater",
+          "image": "https://images.pexels.com/photos/5022610/pexels-photo-5022610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Run your own pilot this week",
+          "description": "Test Claude Fable 5.1 on one of your agent tasks. Compare costs yourself before trusting any marketing numbers.",
+          "visual_hint": "Checklist with a pen on a desk",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-01T22:13:08.932Z",
+      "sourceId": "92c14364577987a791a6fc99242c4bf7"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "open-ai-s-astra-model-is-on-the-way-and-very-good-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "slides": [
+        "OpenAI's Astra models can break into computer systems—how?",
+        "Astra's new agentic capabilities autonomously exploit vulnerabilities in software",
+        "Astra outperforms human experts on most real-world penetration tests",
+        "Your security teams must adopt AI-assisted defense before attackers do",
+        "Run Astra against your own network today to find gaps"
+      ],
+      "thread_text": [
+        "1. They broke in—but how?\n\nOpenAI's Astra models can autonomously exploit software vulnerabilities, a task it mastered beyond human experts on most real-world penetration tests.",
+        "2. Your defenders are outgunned.\n\nAstra outperforms human experts on most real-world penetration tests, leaving traditional security teams at a disadvantage against AI-powered attacks.",
+        "3. The race is already on.\n\nAttackers are likely to adopt AI-assisted methods before your security teams do, making every unpatched system a potential target.",
+        "4. Defense needs AI too.\n\nYour security teams must adopt AI-assisted defense to keep pace with automated threats, turning the attacker's advantage into a stalemate.",
+        "5. Test your own network.\n\nRun Astra against your own network today to find gaps before an attacker does. Are you ready for the results?"
+      ],
+      "video_script": [
+        "OpenAI's Astra breaks into systems autonomously.",
+        "It beats human experts in most tests.",
+        "Attackers will use AI before you do.",
+        "You need AI-assisted defense now.",
+        "Run Astra today to find your gaps."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. They broke in—but how?\n\nOpenAI's Astra models can autonomously exploit software vulnerabilities, a task it mastered beyond human experts on most real-world penetration tests.",
+            "2. Your defenders are outgunned.\n\nAstra outperforms human experts on most real-world penetration tests, leaving traditional security teams at a disadvantage against AI-powered attacks.",
+            "3. The race is already on.\n\nAttackers are likely to adopt AI-assisted methods before your security teams do, making every unpatched system a potential target.",
+            "4. Defense needs AI too.\n\nYour security teams must adopt AI-assisted defense to keep pace with automated threats, turning the attacker's advantage into a stalemate.",
+            "5. Test your own network.\n\nRun Astra against your own network today to find gaps before an attacker does. Are you ready for the results?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's Astra breaks into systems autonomously.",
+            "It beats human experts in most tests.",
+            "Attackers will use AI before you do.",
+            "You need AI-assisted defense now.",
+            "Run Astra today to find your gaps."
+          ]
+        },
+        "instagram": {
+          "caption": "OpenAI’s new Astra model didn’t just find flaws in software—it broke in better than human experts on most real-world tests.\n\nAstra can autonomously scan for and exploit system vulnerabilities, turning a task that usually takes seasoned hackers days into something done in minutes. That’s a benchmark human pentesters lost on most scenarios.\n\nIf this capability lands in attackers’ hands first, your unpatched systems are the target list. Security teams that don’t pair with AI-defense are already behind.\n\nFor anyone managing a network, you can run Astra against your own infrastructure today—but will you act on what it surfaces? 🔐⚡🧠"
+        }
+      },
+      "instagram_caption": "OpenAI’s new Astra model didn’t just find flaws in software—it broke in better than human experts on most real-world tests.\n\nAstra can autonomously scan for and exploit system vulnerabilities, turning a task that usually takes seasoned hackers days into something done in minutes. That’s a benchmark human pentesters lost on most scenarios.\n\nIf this capability lands in attackers’ hands first, your unpatched systems are the target list. Security teams that don’t pair with AI-defense are already behind.\n\nFor anyone managing a network, you can run Astra against your own infrastructure today—but will you act on what it surfaces? 🔐⚡🧠",
+      "carousel_slides": [
+        {
+          "hook": "AI just outsmarted human experts.",
+          "description": "OpenAI's Astra model autonomously exploits software vulnerabilities, outperforming human experts on most real-world penetration tests. Your defenses may already be obsolete.",
+          "visual_hint": "AI breaking digital shield",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer code abstract"
+        },
+        {
+          "hook": "Can you stop an AI hacker?",
+          "description": "Astra's agentic capabilities find and exploit security holes without human help. Traditional security teams can't keep up with this speed and precision.",
+          "visual_hint": "Robot hand accessing server",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your defenders are already outgunned.",
+          "description": "Astra beats human experts on most real-world penetration tests. Attackers adopting AI will widen the gap—unless your team uses AI too.",
+          "visual_hint": "Magnifying glass over network",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Defense must evolve now.",
+          "description": "AI-assisted defense is the only way to counter automated threats. Turn the attacker's advantage into a stalemate by integrating AI into your security stack.",
+          "visual_hint": "Shield with AI chip",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cyber security",
+          "image": "https://images.pexels.com/photos/2036656/pexels-photo-2036656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before attackers strike.",
+          "description": "Run Astra against your own network today. Find gaps before they're exploited. Link in bio to start your AI security audit now.",
+          "visual_hint": "Finger pressing test button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer keyboard",
+          "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-01T22:12:58.457Z",
+      "sourceId": "be7c65afeb758d5e8ccaa74f7c7e2c72"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "john-deere-launched-an-ai-chatbot-for-farmers",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-launches-claude-fable-5-1-and-says-it-82",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+  "pubDate": "2026-09-01T22:01:36.000Z",
+  "slides": [
+    "Can Claude Fable 5.1 slash your agent costs?",
+    "Anthropic claims agentic tasks now run 45% cheaper.",
+    "Yet benchmark data only covers narrow, specific workflows.",
+    "Your real savings depend on your exact agent mix.",
+    "Run your own pilot before trusting the headline."
+  ],
+  "thread_text": [
+    "1. Are the savings real?\n\nAnthropic's new model slashes agent costs by 45%—but only on tests they picked.",
+    "2. Narrow benchmarks, big promises\n\nThe claimed gains come from specific workflows, not your messy real-world tasks.",
+    "3. Your mix changes everything\n\nIf your agents handle varied jobs, the savings could shrink or vanish entirely.",
+    "4. The hidden variable\n\nInfrastructure and integration costs aren't in the headline—they might eat the difference.",
+    "5. Test before you trust\n\nRun one of your own agent tasks on Claude Fable 5.1 this week. What does your cost report show?"
+  ],
+  "video_script": [
+    "Claude Fable 5.1 claims 45% cheaper agent tasks.",
+    "But benchmarks use narrow workflows only.",
+    "Your real tasks might not match those.",
+    "The savings depend on your agent mix.",
+    "Test with your own pilot before switching."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Are the savings real?\n\nAnthropic's new model slashes agent costs by 45%—but only on tests they picked.",
+        "2. Narrow benchmarks, big promises\n\nThe claimed gains come from specific workflows, not your messy real-world tasks.",
+        "3. Your mix changes everything\n\nIf your agents handle varied jobs, the savings could shrink or vanish entirely.",
+        "4. The hidden variable\n\nInfrastructure and integration costs aren't in the headline—they might eat the difference.",
+        "5. Test before you trust\n\nRun one of your own agent tasks on Claude Fable 5.1 this week. What does your cost report show?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Claude Fable 5.1 claims 45% cheaper agent tasks.",
+        "But benchmarks use narrow workflows only.",
+        "Your real tasks might not match those.",
+        "The savings depend on your agent mix.",
+        "Test with your own pilot before switching."
+      ]
+    },
+    "instagram": {
+      "caption": "The 45% cost drop Anthropic is advertising for Claude Fable 5.1 only applies to a handful of workflows they picked for benchmarks. 🧪\n\nAgentic tasks—where AI handles multi-step jobs—are allegedly cheaper, but the tests skip the messy, mixed workloads most teams actually run. Your infrastructure and integration costs aren’t in that number either. ⚙️\n\nIf you build with AI agents, this headline doesn’t change your budget yet. Run one of your own tasks on Fable 5.1 this week and compare the invoice.\n\nWhat does your real cost report show? 💸"
+    }
+  },
+  "instagram_caption": "The 45% cost drop Anthropic is advertising for Claude Fable 5.1 only applies to a handful of workflows they picked for benchmarks. 🧪\n\nAgentic tasks—where AI handles multi-step jobs—are allegedly cheaper, but the tests skip the messy, mixed workloads most teams actually run. Your infrastructure and integration costs aren’t in that number either. ⚙️\n\nIf you build with AI agents, this headline doesn’t change your budget yet. Run one of your own tasks on Fable 5.1 this week and compare the invoice.\n\nWhat does your real cost report show? 💸",
+  "carousel_slides": [
+    {
+      "hook": "Will your agent really save 45%?",
+      "description": "Anthropic claims 45% cheaper agentic work, but only on narrow, chosen workflows. Your real-world tasks may not see those savings.",
+      "visual_hint": "Coin stack with downward arrow",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stack of coins"
+    },
+    {
+      "hook": "Benchmarks can be misleading",
+      "description": "The claimed cost cut comes from specific workflows, not messy real-world jobs. Don't assume it applies to every task.",
+      "visual_hint": "Magnifying glass over a line chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "line chart graph",
+      "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your agent mix changes everything",
+      "description": "Savings depend heavily on your exact mix of tasks. Varied workloads could shrink or even erase the headline cost drop.",
+      "visual_hint": "Pie chart split into colorful segments",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pie chart segments",
+      "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Hidden costs may eat the gains",
+      "description": "Infrastructure and integration costs aren't in the headline. They could easily offset any savings from the new model.",
+      "visual_hint": "Iceberg showing hidden part underwater",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "iceberg underwater",
+      "image": "https://images.pexels.com/photos/5022610/pexels-photo-5022610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run your own pilot this week",
+      "description": "Test Claude Fable 5.1 on one of your agent tasks. Compare costs yourself before trusting any marketing numbers.",
+      "visual_hint": "Checklist with a pen on a desk",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-01T22:13:08.932Z",
+  "sourceId": "92c14364577987a791a6fc99242c4bf7"
+}
