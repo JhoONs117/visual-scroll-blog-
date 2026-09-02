@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-astra-model-is-on-the-way-and-very-good-a",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+  "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+  "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+  "slides": [
+    "Can OpenAI's Astra quietly bypass your security?",
+    "It excels in penetration testing simulations.",
+    "But it also finds holes humans miss every time.",
+    "Your red team needs to learn from Astra now.",
+    "Start a safe test in isolated environments tomorrow."
+  ],
+  "thread_text": [
+    "1. The Hack OpenAI Won't Admit\n\nAstra isn't just a chatbot. It's a tool that simulates attacks so well, it finds vulnerabilities humans consistently overlook.",
+    "2. Your Red Team Is Blind\n\nMost security teams rely on human intuition. But Astra scans for holes 24/7, without fatigue or bias, catching what your best analysts miss.",
+    "3. The Threat Is Already Inside\n\nIf you're not using Astra, your competitors might be. Could they be finding your weaknesses before you do?",
+    "4. Learn From the Machine\n\nYour red team should study Astra's methods. It's not about replacing them—it's about upgrading their playbook with AI-driven insights.",
+    "5. Start Your First Test Today\n\nSet up an isolated environment and run a simple penetration test with Astra. Ask it to find one vulnerability you didn't know. Do it this week."
+  ],
+  "video_script": [
+    "OpenAI's Astra can hack your systems.",
+    "It finds what humans always miss.",
+    "Your red team needs to learn.",
+    "Start testing in isolated environments tomorrow.",
+    "Don't wait until it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Hack OpenAI Won't Admit\n\nAstra isn't just a chatbot. It's a tool that simulates attacks so well, it finds vulnerabilities humans consistently overlook.",
+        "2. Your Red Team Is Blind\n\nMost security teams rely on human intuition. But Astra scans for holes 24/7, without fatigue or bias, catching what your best analysts miss.",
+        "3. The Threat Is Already Inside\n\nIf you're not using Astra, your competitors might be. Could they be finding your weaknesses before you do?",
+        "4. Learn From the Machine\n\nYour red team should study Astra's methods. It's not about replacing them—it's about upgrading their playbook with AI-driven insights.",
+        "5. Start Your First Test Today\n\nSet up an isolated environment and run a simple penetration test with Astra. Ask it to find one vulnerability you didn't know. Do it this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's Astra can hack your systems.",
+        "It finds what humans always miss.",
+        "Your red team needs to learn.",
+        "Start testing in isolated environments tomorrow.",
+        "Don't wait until it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "There’s a new model from OpenAI, Astra, that’s reportedly scary good at breaking into computer systems during tests. 🧨\n\nIt doesn’t get tired or biased, so it catches security holes that human experts routinely miss. That means the old way of checking your defenses might have blind spots you don’t know about.\n\nAstra isn’t just a chatbot—it’s a tool that runs attack simulations around the clock. If you’re in charge of any online platform or content, your current security playbook just got outdated.\n\nYour move: set up an isolated test environment this week and let Astra try to find one vulnerability you didn’t know existed. What’s stopping you from running that probe tomorrow? 🔐"
+    }
+  },
+  "instagram_caption": "There’s a new model from OpenAI, Astra, that’s reportedly scary good at breaking into computer systems during tests. 🧨\n\nIt doesn’t get tired or biased, so it catches security holes that human experts routinely miss. That means the old way of checking your defenses might have blind spots you don’t know about.\n\nAstra isn’t just a chatbot—it’s a tool that runs attack simulations around the clock. If you’re in charge of any online platform or content, your current security playbook just got outdated.\n\nYour move: set up an isolated test environment this week and let Astra try to find one vulnerability you didn’t know existed. What’s stopping you from running that probe tomorrow? 🔐",
+  "carousel_slides": [
+    {
+      "hook": "Can AI break into your system?",
+      "description": "OpenAI's Astra simulates attacks so effectively, it uncovers vulnerabilities humans consistently miss.",
+      "visual_hint": "Digital lock cracking",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer security lock"
+    },
+    {
+      "hook": "Your red team is blind.",
+      "description": "Astra scans 24/7, without fatigue or bias, catching what your best analysts miss every time.",
+      "visual_hint": "Blindfolded figure with question mark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "question mark technology",
+      "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The threat is already inside.",
+      "description": "If your competitors use Astra, they could be finding your weaknesses before you do.",
+      "visual_hint": "Magnifying glass over server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room magnifying glass",
+      "image": "https://images.pexels.com/photos/7739821/pexels-photo-7739821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Learn from the machine.",
+      "description": "Study Astra's methods to upgrade your red team's playbook with AI-driven insights.",
+      "visual_hint": "Human hand touching AI robot hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand human hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to start your first test.",
+      "description": "Set up an isolated environment and run a penetration test with Astra this week.",
+      "visual_hint": "Checklist with shield icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cybersecurity checklist shield",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-02T02:06:37.566Z",
+  "sourceId": "be7c65afeb758d5e8ccaa74f7c7e2c72"
+}

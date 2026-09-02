@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "fambot-introduces-an-ai-chief-of-staff-for-familie",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+    "slides": [
+      "Could an AI chief of staff truly run your household?",
+      "Fambot automates scheduling, tasks, and family communication",
+      "But it learns from your conflicts, not just your calendar",
+      "Your family gains hours weekly, yet privacy trade-offs emerge",
+      "Test Fambot on one chaotic week to see"
+    ],
+    "thread_text": [
+      "1. Your family, managed by AI\n\nA new tool, Fambot, doesn't just schedule—it studies how you argue, turning conflict into data.",
+      "2. The cost of free time\n\nFambot learns from your fights to automate decisions, but every saved hour means it knows your emotional triggers.",
+      "3. It knows who you are\n\nBy analyzing communication patterns, Fambot can predict your reactions and subtly influence family dynamics.",
+      "4. The real question\n\nIs a peaceful household worth the privacy loss? Your family's conflicts become a training set for software.",
+      "5. Try it this week\n\nGive Fambot access to one chaotic week and compare your stress levels. What are you willing to trade for calm?"
+    ],
+    "video_script": [
+      "An AI chief of staff could run your home.",
+      "Fambot learns from your conflicts, not just your calendar.",
+      "You save hours weekly, but privacy trade-offs emerge.",
+      "It turns your family's arguments into data for automation.",
+      "Test Fambot for one chaotic week and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your family, managed by AI\n\nA new tool, Fambot, doesn't just schedule—it studies how you argue, turning conflict into data.",
+          "2. The cost of free time\n\nFambot learns from your fights to automate decisions, but every saved hour means it knows your emotional triggers.",
+          "3. It knows who you are\n\nBy analyzing communication patterns, Fambot can predict your reactions and subtly influence family dynamics.",
+          "4. The real question\n\nIs a peaceful household worth the privacy loss? Your family's conflicts become a training set for software.",
+          "5. Try it this week\n\nGive Fambot access to one chaotic week and compare your stress levels. What are you willing to trade for calm?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "An AI chief of staff could run your home.",
+          "Fambot learns from your conflicts, not just your calendar.",
+          "You save hours weekly, but privacy trade-offs emerge.",
+          "It turns your family's arguments into data for automation.",
+          "Test Fambot for one chaotic week and see."
+        ]
+      },
+      "instagram": {
+        "caption": "Your family fights are about to become training data. 🏠\n\nFambot, a new “AI chief of staff,” doesn’t just sort your calendar — it analyzes your conflicts and communication patterns to predict reactions and automate decisions. That means it learns your emotional triggers, not just your appointments.\n\nFor families testing it on one chaotic week, the trade-off is concrete: you gain hours back, but your household’s private dynamics get encoded into software that subtly influences how you interact. ⚖️\n\nIf you run a content or family business, this changes what “automation” means — it’s no longer just tasks, but relationships being optimized. 🧠\n\nWhat are you willing to let a machine know about you to get a calmer Sunday dinner? 🤔"
+      }
+    },
+    "instagram_caption": "Your family fights are about to become training data. 🏠\n\nFambot, a new “AI chief of staff,” doesn’t just sort your calendar — it analyzes your conflicts and communication patterns to predict reactions and automate decisions. That means it learns your emotional triggers, not just your appointments.\n\nFor families testing it on one chaotic week, the trade-off is concrete: you gain hours back, but your household’s private dynamics get encoded into software that subtly influences how you interact. ⚖️\n\nIf you run a content or family business, this changes what “automation” means — it’s no longer just tasks, but relationships being optimized. 🧠\n\nWhat are you willing to let a machine know about you to get a calmer Sunday dinner? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "What if AI knew your family's conflicts?",
+        "description": "Fambot studies your arguments to automate decisions, turning friction into data that saves hours but exposes emotional triggers.",
+        "visual_hint": "AI analyzing family argument",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "family smartphone app"
+      },
+      {
+        "hook": "Free time has a hidden cost.",
+        "description": "Every hour saved by Fambot means the software learns your emotional triggers, quietly shaping how you interact.",
+        "visual_hint": "Clock with data streams",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "clock gears data",
+        "image": "https://images.pexels.com/photos/6120183/pexels-photo-6120183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It predicts your reactions.",
+        "description": "By analyzing your communication patterns, Fambot anticipates responses and subtly steers family dynamics in real time.",
+        "visual_hint": "Predictive pattern visualization",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "brain circuit board",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Peaceful home vs. privacy loss?",
+        "description": "Your family's conflicts become a training set for software — is a calmer household worth that trade-off?",
+        "visual_hint": "Scale balancing home and eye",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Fambot on one chaotic week.",
+        "description": "Give it access for seven days, then compare your stress levels. See what you'd trade for calm — comment your thoughts.",
+        "visual_hint": "Week calendar with stress meter",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "calendar checklist",
+        "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801",
+    "savedAt": "2026-09-02T02:07:20.368Z",
+    "sourceId": "1010c9005f84d6dacfb273d077531051"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "air-raises-50m-to-help-companies-vet-the-skills-an",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+    "slides": [
+      "Can you trust the AI agents you hire?",
+      "AIR's $50M funds verifying agent skills.",
+      "Most companies can't even audit their agents.",
+      "Now you can test agents before deployment.",
+      "Action: audit your agents before next quarter."
+    ],
+    "thread_text": [
+      "1. Who's auditing your AI?\n\nMost firms can't even trace what their agents do. AIR just raised $50M to fix that blind spot.",
+      "2. The $50M question\n\nAIR's fund verifies agent skills before you hire them. But most companies still deploy unverified agents today.",
+      "3. Audit before you deploy\n\nNow you can test agents pre-launch. Skip the trial-and-error phase that costs real money and trust.",
+      "4. The hidden cost\n\nUnchecked agents erode customer confidence silently. A failed audit today beats a public failure tomorrow.",
+      "5. Your move\n\nRun a basic audit on one agent this week. If you can't, that's your first red flag."
+    ],
+    "video_script": [
+      "Can you trust AI agents?",
+      "Most companies can't audit them.",
+      "AIR funded fifty million dollars.",
+      "Test agents before deployment.",
+      "Audit yours by next quarter."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's auditing your AI?\n\nMost firms can't even trace what their agents do. AIR just raised $50M to fix that blind spot.",
+          "2. The $50M question\n\nAIR's fund verifies agent skills before you hire them. But most companies still deploy unverified agents today.",
+          "3. Audit before you deploy\n\nNow you can test agents pre-launch. Skip the trial-and-error phase that costs real money and trust.",
+          "4. The hidden cost\n\nUnchecked agents erode customer confidence silently. A failed audit today beats a public failure tomorrow.",
+          "5. Your move\n\nRun a basic audit on one agent this week. If you can't, that's your first red flag."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can you trust AI agents?",
+          "Most companies can't audit them.",
+          "AIR funded fifty million dollars.",
+          "Test agents before deployment.",
+          "Audit yours by next quarter."
+        ]
+      },
+      "instagram": {
+        "caption": "$50M just went into making sure the AI agents you hire actually do what they claim.  \n\nMost companies can't audit their own agents today. That's the gap AIR is targeting—verifying agent skills before you deploy them, not after something breaks.  \n\nFor you, that means the difference between shipping AI that works and shipping AI that quietly erodes trust with your audience.  \n\nIf you had to run a full audit on one agent right now, would you pass? 🔍"
+      }
+    },
+    "instagram_caption": "$50M just went into making sure the AI agents you hire actually do what they claim.  \n\nMost companies can't audit their own agents today. That's the gap AIR is targeting—verifying agent skills before you deploy them, not after something breaks.  \n\nFor you, that means the difference between shipping AI that works and shipping AI that quietly erodes trust with your audience.  \n\nIf you had to run a full audit on one agent right now, would you pass? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Who's auditing your AI?",
+        "description": "Most companies can't trace what their agents do. AIR's $50M fund aims to fix that blind spot.",
+        "visual_hint": "Magnifying glass over AI brain",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "The $50M question",
+        "description": "AIR's fund verifies agent skills before you hire them. Yet most firms deploy unverified agents today.",
+        "visual_hint": "Money stack vs. question mark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "money stack",
+        "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit before you deploy",
+        "description": "Now you can test agents pre-launch. Skip the trial-and-error that costs real money and trust.",
+        "visual_hint": "Shield with checkmark over robot",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The hidden cost",
+        "description": "Unchecked agents silently erode customer confidence. A failed audit today beats a public failure tomorrow.",
+        "visual_hint": "Glowing warning triangle over human hand",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "warning triangle",
+        "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Run an audit this week",
+        "description": "Start with one agent. If you can't test it, that's your first red flag. Save this to remember.",
+        "visual_hint": "Calendar with checkmark and save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar checkmark",
+        "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
+    "savedAt": "2026-09-02T02:07:05.658Z",
+    "sourceId": "fd6ea7e03b18ecf094d28be87b4e893c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "pubDate": "Tue, 01 Sep 2026 15:57:23 +0000",
+    "slides": [
+      "GoPro acquired for $285M, but stays public—how?",
+      "Private buyers take control while shares still trade.",
+      "The twist: current owners get paid, shareholders lose voting power.",
+      "Your GoPro investment now hinges on untested new leadership.",
+      "Decide: hold or sell before the deal's terms shift?"
+    ],
+    "thread_text": [
+      "1. Who Owns GoPro Now?\n\nA $285M deal just closed, but the company still trades on the stock market. The buyers are private investors—yet shareholders keep their shares.",
+      "2. The Power Shift\n\nThose private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+      "3. What You Lose\n\nCurrent shareholders get paid—but they lose the right to vote on major decisions. The deal splits economic value from control, a rare and risky structure.",
+      "4. Untested Leadership\n\nYour returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+      "5. Hold or Sell?\n\nIf you're a GoPro investor, check the deal's effective date in your brokerage statement. Decide whether you can stomach zero voting power—before terms shift again."
+    ],
+    "video_script": [
+      "GoPro sold for 285 million, but it's still public.",
+      "Private buyers take control, shareholders lose voting rights.",
+      "The old owners get paid, you get silence.",
+      "New leaders are untested, your money rides on them.",
+      "Decide today: hold on or sell your shares?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who Owns GoPro Now?\n\nA $285M deal just closed, but the company still trades on the stock market. The buyers are private investors—yet shareholders keep their shares.",
+          "2. The Power Shift\n\nThose private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+          "3. What You Lose\n\nCurrent shareholders get paid—but they lose the right to vote on major decisions. The deal splits economic value from control, a rare and risky structure.",
+          "4. Untested Leadership\n\nYour returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+          "5. Hold or Sell?\n\nIf you're a GoPro investor, check the deal's effective date in your brokerage statement. Decide whether you can stomach zero voting power—before terms shift again."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "GoPro sold for 285 million, but it's still public.",
+          "Private buyers take control, shareholders lose voting rights.",
+          "The old owners get paid, you get silence.",
+          "New leaders are untested, your money rides on them.",
+          "Decide today: hold on or sell your shares?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your shares stay in your portfolio, but your vote is gone. GoPro just sold $285M of voting control to private buyers while keeping the stock publicly traded. 💸\n\nThe new owners get decision-making power. You get the financial risk. Your ownership now works like a ticket without a seat—economic value, zero control. Current shareholders even get paid out, yet lose say on major moves. 📉\n\nThe team steering this has zero public-company track record. No history to gauge, only promises.\n\nCheck your brokerage statement for the deal's effective date. Can you hold a stock you can't influence? 🤔"
+      }
+    },
+    "instagram_caption": "Your shares stay in your portfolio, but your vote is gone. GoPro just sold $285M of voting control to private buyers while keeping the stock publicly traded. 💸\n\nThe new owners get decision-making power. You get the financial risk. Your ownership now works like a ticket without a seat—economic value, zero control. Current shareholders even get paid out, yet lose say on major moves. 📉\n\nThe team steering this has zero public-company track record. No history to gauge, only promises.\n\nCheck your brokerage statement for the deal's effective date. Can you hold a stock you can't influence? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "You lost your vote — not your shares.",
+        "description": "GoPro was acquired for $285M by private investors, but still trades publicly. Current owners get paid while losing voting power on major decisions.",
+        "visual_hint": "GoPro camera on white background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "GoPro action camera"
+      },
+      {
+        "hook": "Who really controls GoPro now?",
+        "description": "Private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+        "visual_hint": "Split screen: boardroom vs small investor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What did shareholders lose?",
+        "description": "The deal splits economic value from control. Shareholders get paid, but they lose the right to vote on major decisions — a rare and risky structure.",
+        "visual_hint": "Magnifying glass over stock certificate",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock certificate",
+        "image": "https://images.pexels.com/photos/8830674/pexels-photo-8830674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Do you trust untested leaders?",
+        "description": "Your returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+        "visual_hint": "Silhouette of new CEO with question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "business handshake",
+        "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your brokerage account now.",
+        "description": "Find the deal's effective date in your statement. Decide if you can handle zero voting power — before terms shift again.",
+        "visual_hint": "Smartphone with brokerage app open",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone in hand",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/13-h13-lens-cover-gcm-50-1920-375.webp?resize=1200,899",
+    "savedAt": "2026-09-02T02:06:53.178Z",
+    "sourceId": "d37efca2f637f424beb5fc3d87d80e02"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-s-astra-model-is-on-the-way-and-very-good-a",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+    "slides": [
+      "Can OpenAI's Astra quietly bypass your security?",
+      "It excels in penetration testing simulations.",
+      "But it also finds holes humans miss every time.",
+      "Your red team needs to learn from Astra now.",
+      "Start a safe test in isolated environments tomorrow."
+    ],
+    "thread_text": [
+      "1. The Hack OpenAI Won't Admit\n\nAstra isn't just a chatbot. It's a tool that simulates attacks so well, it finds vulnerabilities humans consistently overlook.",
+      "2. Your Red Team Is Blind\n\nMost security teams rely on human intuition. But Astra scans for holes 24/7, without fatigue or bias, catching what your best analysts miss.",
+      "3. The Threat Is Already Inside\n\nIf you're not using Astra, your competitors might be. Could they be finding your weaknesses before you do?",
+      "4. Learn From the Machine\n\nYour red team should study Astra's methods. It's not about replacing them—it's about upgrading their playbook with AI-driven insights.",
+      "5. Start Your First Test Today\n\nSet up an isolated environment and run a simple penetration test with Astra. Ask it to find one vulnerability you didn't know. Do it this week."
+    ],
+    "video_script": [
+      "OpenAI's Astra can hack your systems.",
+      "It finds what humans always miss.",
+      "Your red team needs to learn.",
+      "Start testing in isolated environments tomorrow.",
+      "Don't wait until it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Hack OpenAI Won't Admit\n\nAstra isn't just a chatbot. It's a tool that simulates attacks so well, it finds vulnerabilities humans consistently overlook.",
+          "2. Your Red Team Is Blind\n\nMost security teams rely on human intuition. But Astra scans for holes 24/7, without fatigue or bias, catching what your best analysts miss.",
+          "3. The Threat Is Already Inside\n\nIf you're not using Astra, your competitors might be. Could they be finding your weaknesses before you do?",
+          "4. Learn From the Machine\n\nYour red team should study Astra's methods. It's not about replacing them—it's about upgrading their playbook with AI-driven insights.",
+          "5. Start Your First Test Today\n\nSet up an isolated environment and run a simple penetration test with Astra. Ask it to find one vulnerability you didn't know. Do it this week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI's Astra can hack your systems.",
+          "It finds what humans always miss.",
+          "Your red team needs to learn.",
+          "Start testing in isolated environments tomorrow.",
+          "Don't wait until it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "There’s a new model from OpenAI, Astra, that’s reportedly scary good at breaking into computer systems during tests. 🧨\n\nIt doesn’t get tired or biased, so it catches security holes that human experts routinely miss. That means the old way of checking your defenses might have blind spots you don’t know about.\n\nAstra isn’t just a chatbot—it’s a tool that runs attack simulations around the clock. If you’re in charge of any online platform or content, your current security playbook just got outdated.\n\nYour move: set up an isolated test environment this week and let Astra try to find one vulnerability you didn’t know existed. What’s stopping you from running that probe tomorrow? 🔐"
+      }
+    },
+    "instagram_caption": "There’s a new model from OpenAI, Astra, that’s reportedly scary good at breaking into computer systems during tests. 🧨\n\nIt doesn’t get tired or biased, so it catches security holes that human experts routinely miss. That means the old way of checking your defenses might have blind spots you don’t know about.\n\nAstra isn’t just a chatbot—it’s a tool that runs attack simulations around the clock. If you’re in charge of any online platform or content, your current security playbook just got outdated.\n\nYour move: set up an isolated test environment this week and let Astra try to find one vulnerability you didn’t know existed. What’s stopping you from running that probe tomorrow? 🔐",
+    "carousel_slides": [
+      {
+        "hook": "Can AI break into your system?",
+        "description": "OpenAI's Astra simulates attacks so effectively, it uncovers vulnerabilities humans consistently miss.",
+        "visual_hint": "Digital lock cracking",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer security lock"
+      },
+      {
+        "hook": "Your red team is blind.",
+        "description": "Astra scans 24/7, without fatigue or bias, catching what your best analysts miss every time.",
+        "visual_hint": "Blindfolded figure with question mark",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "question mark technology",
+        "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The threat is already inside.",
+        "description": "If your competitors use Astra, they could be finding your weaknesses before you do.",
+        "visual_hint": "Magnifying glass over server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room magnifying glass",
+        "image": "https://images.pexels.com/photos/7739821/pexels-photo-7739821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Learn from the machine.",
+        "description": "Study Astra's methods to upgrade your red team's playbook with AI-driven insights.",
+        "visual_hint": "Human hand touching AI robot hand",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand human hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to start your first test.",
+        "description": "Set up an isolated environment and run a penetration test with Astra this week.",
+        "visual_hint": "Checklist with shield icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "cybersecurity checklist shield",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-02T02:06:37.566Z",
+    "sourceId": "be7c65afeb758d5e8ccaa74f7c7e2c72"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-launches-claude-fable-5-1-and-says-it-82",
     "prompt_version": "1.0.0",
     "status": "published",

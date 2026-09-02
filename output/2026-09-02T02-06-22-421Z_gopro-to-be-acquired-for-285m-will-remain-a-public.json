@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "GoPro to be acquired for $285M, will remain a public company",
+  "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+  "pubDate": "Tue, 01 Sep 2026 15:57:23 +0000",
+  "slides": [
+    "GoPro acquired for $285M, but stays public—how?",
+    "Private buyers take control while shares still trade.",
+    "The twist: current owners get paid, shareholders lose voting power.",
+    "Your GoPro investment now hinges on untested new leadership.",
+    "Decide: hold or sell before the deal's terms shift?"
+  ],
+  "thread_text": [
+    "1. Who Owns GoPro Now?\n\nA $285M deal just closed, but the company still trades on the stock market. The buyers are private investors—yet shareholders keep their shares.",
+    "2. The Power Shift\n\nThose private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+    "3. What You Lose\n\nCurrent shareholders get paid—but they lose the right to vote on major decisions. The deal splits economic value from control, a rare and risky structure.",
+    "4. Untested Leadership\n\nYour returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+    "5. Hold or Sell?\n\nIf you're a GoPro investor, check the deal's effective date in your brokerage statement. Decide whether you can stomach zero voting power—before terms shift again."
+  ],
+  "video_script": [
+    "GoPro sold for 285 million, but it's still public.",
+    "Private buyers take control, shareholders lose voting rights.",
+    "The old owners get paid, you get silence.",
+    "New leaders are untested, your money rides on them.",
+    "Decide today: hold on or sell your shares?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who Owns GoPro Now?\n\nA $285M deal just closed, but the company still trades on the stock market. The buyers are private investors—yet shareholders keep their shares.",
+        "2. The Power Shift\n\nThose private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+        "3. What You Lose\n\nCurrent shareholders get paid—but they lose the right to vote on major decisions. The deal splits economic value from control, a rare and risky structure.",
+        "4. Untested Leadership\n\nYour returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+        "5. Hold or Sell?\n\nIf you're a GoPro investor, check the deal's effective date in your brokerage statement. Decide whether you can stomach zero voting power—before terms shift again."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "GoPro sold for 285 million, but it's still public.",
+        "Private buyers take control, shareholders lose voting rights.",
+        "The old owners get paid, you get silence.",
+        "New leaders are untested, your money rides on them.",
+        "Decide today: hold on or sell your shares?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your shares stay in your portfolio, but your vote is gone. GoPro just sold $285M of voting control to private buyers while keeping the stock publicly traded. 💸\n\nThe new owners get decision-making power. You get the financial risk. Your ownership now works like a ticket without a seat—economic value, zero control. Current shareholders even get paid out, yet lose say on major moves. 📉\n\nThe team steering this has zero public-company track record. No history to gauge, only promises.\n\nCheck your brokerage statement for the deal's effective date. Can you hold a stock you can't influence? 🤔"
+    }
+  },
+  "instagram_caption": "Your shares stay in your portfolio, but your vote is gone. GoPro just sold $285M of voting control to private buyers while keeping the stock publicly traded. 💸\n\nThe new owners get decision-making power. You get the financial risk. Your ownership now works like a ticket without a seat—economic value, zero control. Current shareholders even get paid out, yet lose say on major moves. 📉\n\nThe team steering this has zero public-company track record. No history to gauge, only promises.\n\nCheck your brokerage statement for the deal's effective date. Can you hold a stock you can't influence? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "You lost your vote — not your shares.",
+      "description": "GoPro was acquired for $285M by private investors, but still trades publicly. Current owners get paid while losing voting power on major decisions.",
+      "visual_hint": "GoPro camera on white background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "GoPro action camera"
+    },
+    {
+      "hook": "Who really controls GoPro now?",
+      "description": "Private buyers now hold voting control, while everyday investors become silent partners. Your ownership just got a lot less meaningful.",
+      "visual_hint": "Split screen: boardroom vs small investor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What did shareholders lose?",
+      "description": "The deal splits economic value from control. Shareholders get paid, but they lose the right to vote on major decisions — a rare and risky structure.",
+      "visual_hint": "Magnifying glass over stock certificate",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock certificate",
+      "image": "https://images.pexels.com/photos/8830674/pexels-photo-8830674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Do you trust untested leaders?",
+      "description": "Your returns now depend on a leadership team with no public-company track record. There's no history to judge them by, only promises.",
+      "visual_hint": "Silhouette of new CEO with question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your brokerage account now.",
+      "description": "Find the deal's effective date in your statement. Decide if you can handle zero voting power — before terms shift again.",
+      "visual_hint": "Smartphone with brokerage app open",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone in hand",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/13-h13-lens-cover-gcm-50-1920-375.webp?resize=1200,899",
+  "savedAt": "2026-09-02T02:06:53.178Z",
+  "sourceId": "d37efca2f637f424beb5fc3d87d80e02"
+}

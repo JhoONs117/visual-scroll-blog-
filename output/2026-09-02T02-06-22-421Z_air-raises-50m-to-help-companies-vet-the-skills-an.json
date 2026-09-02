@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "air-raises-50m-to-help-companies-vet-the-skills-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+  "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+  "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+  "slides": [
+    "Can you trust the AI agents you hire?",
+    "AIR's $50M funds verifying agent skills.",
+    "Most companies can't even audit their agents.",
+    "Now you can test agents before deployment.",
+    "Action: audit your agents before next quarter."
+  ],
+  "thread_text": [
+    "1. Who's auditing your AI?\n\nMost firms can't even trace what their agents do. AIR just raised $50M to fix that blind spot.",
+    "2. The $50M question\n\nAIR's fund verifies agent skills before you hire them. But most companies still deploy unverified agents today.",
+    "3. Audit before you deploy\n\nNow you can test agents pre-launch. Skip the trial-and-error phase that costs real money and trust.",
+    "4. The hidden cost\n\nUnchecked agents erode customer confidence silently. A failed audit today beats a public failure tomorrow.",
+    "5. Your move\n\nRun a basic audit on one agent this week. If you can't, that's your first red flag."
+  ],
+  "video_script": [
+    "Can you trust AI agents?",
+    "Most companies can't audit them.",
+    "AIR funded fifty million dollars.",
+    "Test agents before deployment.",
+    "Audit yours by next quarter."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's auditing your AI?\n\nMost firms can't even trace what their agents do. AIR just raised $50M to fix that blind spot.",
+        "2. The $50M question\n\nAIR's fund verifies agent skills before you hire them. But most companies still deploy unverified agents today.",
+        "3. Audit before you deploy\n\nNow you can test agents pre-launch. Skip the trial-and-error phase that costs real money and trust.",
+        "4. The hidden cost\n\nUnchecked agents erode customer confidence silently. A failed audit today beats a public failure tomorrow.",
+        "5. Your move\n\nRun a basic audit on one agent this week. If you can't, that's your first red flag."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can you trust AI agents?",
+        "Most companies can't audit them.",
+        "AIR funded fifty million dollars.",
+        "Test agents before deployment.",
+        "Audit yours by next quarter."
+      ]
+    },
+    "instagram": {
+      "caption": "$50M just went into making sure the AI agents you hire actually do what they claim.  \n\nMost companies can't audit their own agents today. That's the gap AIR is targeting—verifying agent skills before you deploy them, not after something breaks.  \n\nFor you, that means the difference between shipping AI that works and shipping AI that quietly erodes trust with your audience.  \n\nIf you had to run a full audit on one agent right now, would you pass? 🔍"
+    }
+  },
+  "instagram_caption": "$50M just went into making sure the AI agents you hire actually do what they claim.  \n\nMost companies can't audit their own agents today. That's the gap AIR is targeting—verifying agent skills before you deploy them, not after something breaks.  \n\nFor you, that means the difference between shipping AI that works and shipping AI that quietly erodes trust with your audience.  \n\nIf you had to run a full audit on one agent right now, would you pass? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Who's auditing your AI?",
+      "description": "Most companies can't trace what their agents do. AIR's $50M fund aims to fix that blind spot.",
+      "visual_hint": "Magnifying glass over AI brain",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The $50M question",
+      "description": "AIR's fund verifies agent skills before you hire them. Yet most firms deploy unverified agents today.",
+      "visual_hint": "Money stack vs. question mark",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "money stack",
+      "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit before you deploy",
+      "description": "Now you can test agents pre-launch. Skip the trial-and-error that costs real money and trust.",
+      "visual_hint": "Shield with checkmark over robot",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The hidden cost",
+      "description": "Unchecked agents silently erode customer confidence. A failed audit today beats a public failure tomorrow.",
+      "visual_hint": "Glowing warning triangle over human hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "warning triangle",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Run an audit this week",
+      "description": "Start with one agent. If you can't test it, that's your first red flag. Save this to remember.",
+      "visual_hint": "Calendar with checkmark and save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar checkmark",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
+  "savedAt": "2026-09-02T02:07:05.658Z",
+  "sourceId": "fd6ea7e03b18ecf094d28be87b4e893c"
+}

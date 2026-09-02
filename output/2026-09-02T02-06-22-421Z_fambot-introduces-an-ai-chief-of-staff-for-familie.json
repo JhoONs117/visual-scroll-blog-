@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "fambot-introduces-an-ai-chief-of-staff-for-familie",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Fambot introduces an ‘AI chief of staff’ for families",
+  "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+  "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+  "slides": [
+    "Could an AI chief of staff truly run your household?",
+    "Fambot automates scheduling, tasks, and family communication",
+    "But it learns from your conflicts, not just your calendar",
+    "Your family gains hours weekly, yet privacy trade-offs emerge",
+    "Test Fambot on one chaotic week to see"
+  ],
+  "thread_text": [
+    "1. Your family, managed by AI\n\nA new tool, Fambot, doesn't just schedule—it studies how you argue, turning conflict into data.",
+    "2. The cost of free time\n\nFambot learns from your fights to automate decisions, but every saved hour means it knows your emotional triggers.",
+    "3. It knows who you are\n\nBy analyzing communication patterns, Fambot can predict your reactions and subtly influence family dynamics.",
+    "4. The real question\n\nIs a peaceful household worth the privacy loss? Your family's conflicts become a training set for software.",
+    "5. Try it this week\n\nGive Fambot access to one chaotic week and compare your stress levels. What are you willing to trade for calm?"
+  ],
+  "video_script": [
+    "An AI chief of staff could run your home.",
+    "Fambot learns from your conflicts, not just your calendar.",
+    "You save hours weekly, but privacy trade-offs emerge.",
+    "It turns your family's arguments into data for automation.",
+    "Test Fambot for one chaotic week and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your family, managed by AI\n\nA new tool, Fambot, doesn't just schedule—it studies how you argue, turning conflict into data.",
+        "2. The cost of free time\n\nFambot learns from your fights to automate decisions, but every saved hour means it knows your emotional triggers.",
+        "3. It knows who you are\n\nBy analyzing communication patterns, Fambot can predict your reactions and subtly influence family dynamics.",
+        "4. The real question\n\nIs a peaceful household worth the privacy loss? Your family's conflicts become a training set for software.",
+        "5. Try it this week\n\nGive Fambot access to one chaotic week and compare your stress levels. What are you willing to trade for calm?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI chief of staff could run your home.",
+        "Fambot learns from your conflicts, not just your calendar.",
+        "You save hours weekly, but privacy trade-offs emerge.",
+        "It turns your family's arguments into data for automation.",
+        "Test Fambot for one chaotic week and see."
+      ]
+    },
+    "instagram": {
+      "caption": "Your family fights are about to become training data. 🏠\n\nFambot, a new “AI chief of staff,” doesn’t just sort your calendar — it analyzes your conflicts and communication patterns to predict reactions and automate decisions. That means it learns your emotional triggers, not just your appointments.\n\nFor families testing it on one chaotic week, the trade-off is concrete: you gain hours back, but your household’s private dynamics get encoded into software that subtly influences how you interact. ⚖️\n\nIf you run a content or family business, this changes what “automation” means — it’s no longer just tasks, but relationships being optimized. 🧠\n\nWhat are you willing to let a machine know about you to get a calmer Sunday dinner? 🤔"
+    }
+  },
+  "instagram_caption": "Your family fights are about to become training data. 🏠\n\nFambot, a new “AI chief of staff,” doesn’t just sort your calendar — it analyzes your conflicts and communication patterns to predict reactions and automate decisions. That means it learns your emotional triggers, not just your appointments.\n\nFor families testing it on one chaotic week, the trade-off is concrete: you gain hours back, but your household’s private dynamics get encoded into software that subtly influences how you interact. ⚖️\n\nIf you run a content or family business, this changes what “automation” means — it’s no longer just tasks, but relationships being optimized. 🧠\n\nWhat are you willing to let a machine know about you to get a calmer Sunday dinner? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "What if AI knew your family's conflicts?",
+      "description": "Fambot studies your arguments to automate decisions, turning friction into data that saves hours but exposes emotional triggers.",
+      "visual_hint": "AI analyzing family argument",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "family smartphone app"
+    },
+    {
+      "hook": "Free time has a hidden cost.",
+      "description": "Every hour saved by Fambot means the software learns your emotional triggers, quietly shaping how you interact.",
+      "visual_hint": "Clock with data streams",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "clock gears data",
+      "image": "https://images.pexels.com/photos/6120183/pexels-photo-6120183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It predicts your reactions.",
+      "description": "By analyzing your communication patterns, Fambot anticipates responses and subtly steers family dynamics in real time.",
+      "visual_hint": "Predictive pattern visualization",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "brain circuit board",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Peaceful home vs. privacy loss?",
+      "description": "Your family's conflicts become a training set for software — is a calmer household worth that trade-off?",
+      "visual_hint": "Scale balancing home and eye",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Fambot on one chaotic week.",
+      "description": "Give it access for seven days, then compare your stress levels. See what you'd trade for calm — comment your thoughts.",
+      "visual_hint": "Week calendar with stress meter",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "calendar checklist",
+      "image": "https://images.pexels.com/photos/8386682/pexels-photo-8386682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801",
+  "savedAt": "2026-09-02T02:07:20.368Z",
+  "sourceId": "1010c9005f84d6dacfb273d077531051"
+}
