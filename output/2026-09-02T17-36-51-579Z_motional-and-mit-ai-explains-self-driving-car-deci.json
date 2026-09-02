@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "motional-and-mit-ai-explains-self-driving-car-deci",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Motional and MIT AI explains self-driving car decisions",
+  "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+  "pubDate": "Wed, 02 Sep 2026 15:25:12 +0000",
+  "slides": [
+    "Can you trust a self-driving car's decision?",
+    "Motional explains its choices to passengers now.",
+    "MIT reveals humans trust explanations they can challenge.",
+    "Your next ride will let you question its actions.",
+    "Test a robo-taxi and ask it why."
+  ],
+  "thread_text": [
+    "1. Whose fault is it?\n\nSelf-driving cars are already making life-or-death calls on public roads, and the passengers inside aren't always told why.",
+    "2. Motional spills the beans\n\nMotional now shows passengers a live explanation for every maneuver, from lane changes to sudden braking, right on the dashboard screen.",
+    "3. Challenge accepted\n\nMIT research finds trust skyrockets when passengers can push back on the car's reasoning—not just read it passively.",
+    "4. The robo-taxi talks back\n\nNext-gen robo-taxis will let you question their actions mid-ride, turning every passenger into a backseat driver with actual power.",
+    "5. Ask one yourself\n\nFind a Motional or Waymo robo-taxi in your city and challenge its next decision out loud. Did it change your trust level?"
+  ],
+  "video_script": [
+    "Autonomous cars decide who lives or dies.",
+    "Motional now explains every move to passengers.",
+    "MIT says your pushback builds real trust.",
+    "Future robo-taxis will question if you don't.",
+    "Ride one and challenge its next action."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Whose fault is it?\n\nSelf-driving cars are already making life-or-death calls on public roads, and the passengers inside aren't always told why.",
+        "2. Motional spills the beans\n\nMotional now shows passengers a live explanation for every maneuver, from lane changes to sudden braking, right on the dashboard screen.",
+        "3. Challenge accepted\n\nMIT research finds trust skyrockets when passengers can push back on the car's reasoning—not just read it passively.",
+        "4. The robo-taxi talks back\n\nNext-gen robo-taxis will let you question their actions mid-ride, turning every passenger into a backseat driver with actual power.",
+        "5. Ask one yourself\n\nFind a Motional or Waymo robo-taxi in your city and challenge its next decision out loud. Did it change your trust level?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Autonomous cars decide who lives or dies.",
+        "Motional now explains every move to passengers.",
+        "MIT says your pushback builds real trust.",
+        "Future robo-taxis will question if you don't.",
+        "Ride one and challenge its next action."
+      ]
+    },
+    "instagram": {
+      "caption": "You’re riding in a robo-taxi, it slams the brakes, and now the screen tells you exactly why—before you even have time to panic.\n\nMotional is now showing passengers live explanations for every maneuver, from lane changes to sudden stops. But MIT found something bigger: trust only spikes when you can push back on the car’s reasoning, not just read it passively. Next-gen taxis will let you challenge their decisions mid-ride.\n\nFor anyone building content or tools around automation, this means one thing: interactive accountability beats polished output every time. Your users don’t want answers—they want the right to argue. 🚕\n\nWould you question a car’s call in real time, or just let it drive? 🤔"
+    }
+  },
+  "instagram_caption": "You’re riding in a robo-taxi, it slams the brakes, and now the screen tells you exactly why—before you even have time to panic.\n\nMotional is now showing passengers live explanations for every maneuver, from lane changes to sudden stops. But MIT found something bigger: trust only spikes when you can push back on the car’s reasoning, not just read it passively. Next-gen taxis will let you challenge their decisions mid-ride.\n\nFor anyone building content or tools around automation, this means one thing: interactive accountability beats polished output every time. Your users don’t want answers—they want the right to argue. 🚕\n\nWould you question a car’s call in real time, or just let it drive? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Whose fault is it?",
+      "description": "Self-driving cars make life-or-death calls, but passengers aren't told why. Trust is impossible without explanation.",
+      "visual_hint": "Silhouette of autonomous car on road",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous car street"
+    },
+    {
+      "hook": "Now Motional explains every move.",
+      "description": "Motional displays live explanations for lane changes and braking, turning silent decisions into transparent actions.",
+      "visual_hint": "Dashboard with text overlay",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "car dashboard screen",
+      "image": "https://images.pexels.com/photos/16086306/pexels-photo-16086306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Challenge builds trust.",
+      "description": "MIT found passengers trust self-driving cars more when they can challenge its reasoning, not just read it passively.",
+      "visual_hint": "Person interacting with touchscreen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next robo-taxi talks back.",
+      "description": "Future robo-taxis let you question actions mid-ride, giving you real power as a backseat driver.",
+      "visual_hint": "Passenger speaking inside car",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person speaking car",
+      "image": "https://images.pexels.com/photos/7144254/pexels-photo-7144254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask one yourself today.",
+      "description": "Find a robo-taxi in your city and challenge its next decision out loud. See if your trust grows.",
+      "visual_hint": "Robo-taxi with question mark",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "robo-taxi city street",
+      "image": "https://images.pexels.com/photos/19769269/pexels-photo-19769269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/27616357/pexels-photo-27616357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-02T17:37:03.763Z",
+  "sourceId": "306368423a9000becd4ce50bb1729bee"
+}

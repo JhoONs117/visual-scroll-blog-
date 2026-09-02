@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "us-government-sides-with-openai-on-issue-of-traini",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+  "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+  "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+  "slides": [
+    "US government just backed OpenAI in copyright fight.",
+    "It says AI training on copyrighted work is fair use.",
+    "But that stance contradicts years of copyright precedent.",
+    "Your business can now copy content without permission.",
+    "Question your lawyer before relying on this position."
+  ],
+  "thread_text": [
+    "1. Your content is now free\n\nThe US government just told OpenAI it can train on copyrighted work without paying. That ruling could let any business copy your posts, images, or videos—without asking.",
+    "2. Copyright law? Ignored\n\nCourts have always required permission for copying. This new stance skips that. It treats all web content as public data, not property.",
+    "3. The twist for business\n\nYour competitors can feed your entire catalog into an AI and repurpose it instantly. No license, no credit, no penalty. That's the new playing field.",
+    "4. What precedent means\n\nIf this holds, it rewrites decades of IP law. But it's not settled—courts may still overturn it. While it stands, copying is shielded.",
+    "5. Ask your lawyer this\n\nRun one of your copyrighted assets through a free AI tool today. If it reproduces your work, does your business have a legal defense? Test it now."
+  ],
+  "video_script": [
+    "Government says AI can copy your work.",
+    "That breaks years of copyright rules.",
+    "Businesses might take your content freely.",
+    "But this position isn't safe yet.",
+    "Ask a lawyer before betting on it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your content is now free\n\nThe US government just told OpenAI it can train on copyrighted work without paying. That ruling could let any business copy your posts, images, or videos—without asking.",
+        "2. Copyright law? Ignored\n\nCourts have always required permission for copying. This new stance skips that. It treats all web content as public data, not property.",
+        "3. The twist for business\n\nYour competitors can feed your entire catalog into an AI and repurpose it instantly. No license, no credit, no penalty. That's the new playing field.",
+        "4. What precedent means\n\nIf this holds, it rewrites decades of IP law. But it's not settled—courts may still overturn it. While it stands, copying is shielded.",
+        "5. Ask your lawyer this\n\nRun one of your copyrighted assets through a free AI tool today. If it reproduces your work, does your business have a legal defense? Test it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Government says AI can copy your work.",
+        "That breaks years of copyright rules.",
+        "Businesses might take your content freely.",
+        "But this position isn't safe yet.",
+        "Ask a lawyer before betting on it."
+      ]
+    },
+    "instagram": {
+      "caption": "The government just told OpenAI it can train on your copyrighted posts, images, and videos—no permission, no payment. 😳\n\nThat position calls training on your work “fair use,” skipping decades of precedent that required consent for copying. It treats everything online as public data, not property.\n\nYour competitor can now feed your entire catalog into an AI, repurpose it instantly, and you get no license, credit, or penalty. ⚖️\n\nIf you publish anything today, your work is now a free training input. The ruling isn’t final—courts could overturn it—but while it stands, copying is shielded.\n\nBefore you rely on this, run one of your own assets through a free AI tool. If it reproduces your work, does your lawyer have a defense? 🧠"
+    }
+  },
+  "instagram_caption": "The government just told OpenAI it can train on your copyrighted posts, images, and videos—no permission, no payment. 😳\n\nThat position calls training on your work “fair use,” skipping decades of precedent that required consent for copying. It treats everything online as public data, not property.\n\nYour competitor can now feed your entire catalog into an AI, repurpose it instantly, and you get no license, credit, or penalty. ⚖️\n\nIf you publish anything today, your work is now a free training input. The ruling isn’t final—courts could overturn it—but while it stands, copying is shielded.\n\nBefore you rely on this, run one of your own assets through a free AI tool. If it reproduces your work, does your lawyer have a defense? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your content just became free",
+      "description": "The US government told OpenAI it can train on copyrighted work without paying. That could let any business copy your posts, images, or videos without asking.",
+      "visual_hint": "Open vault with scattered documents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open vault documents"
+    },
+    {
+      "hook": "Copyright law ignored?",
+      "description": "Courts always required permission to copy. This stance skips that requirement, treating web content as public data rather than property.",
+      "visual_hint": "Gavel next to stacked books",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "gavel law books",
+      "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Competitors can clone your catalog",
+      "description": "Your rivals can feed your entire product line into AI, repurpose it instantly—no license, credit, or penalty. That's the new playing field.",
+      "visual_hint": "Mirror reflecting product boxes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warehouse product shelves",
+      "image": "https://images.pexels.com/photos/4483608/pexels-photo-4483608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Decades of IP law rewritten",
+      "description": "If this holds, the decision rewrites intellectual property precedent. But it's not settled—courts may overturn it. Until then, copying is shielded.",
+      "visual_hint": "Stacked law books crumbling",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "law library shelves",
+      "image": "https://images.pexels.com/photos/3927126/pexels-photo-3927126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your legal review",
+      "description": "Test one copyrighted asset through a free AI tool today. If it reproduces your work, ask your lawyer about your legal defense now.",
+      "visual_hint": "Magnifying glass over contract",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "contract magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+  "savedAt": "2026-09-02T17:37:38.478Z",
+  "sourceId": "241155a602d30de08f6669b8e8bf608c"
+}

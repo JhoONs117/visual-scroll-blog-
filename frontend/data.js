@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "us-government-sides-with-openai-on-issue-of-traini",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+    "slides": [
+      "US government just backed OpenAI in copyright fight.",
+      "It says AI training on copyrighted work is fair use.",
+      "But that stance contradicts years of copyright precedent.",
+      "Your business can now copy content without permission.",
+      "Question your lawyer before relying on this position."
+    ],
+    "thread_text": [
+      "1. Your content is now free\n\nThe US government just told OpenAI it can train on copyrighted work without paying. That ruling could let any business copy your posts, images, or videos—without asking.",
+      "2. Copyright law? Ignored\n\nCourts have always required permission for copying. This new stance skips that. It treats all web content as public data, not property.",
+      "3. The twist for business\n\nYour competitors can feed your entire catalog into an AI and repurpose it instantly. No license, no credit, no penalty. That's the new playing field.",
+      "4. What precedent means\n\nIf this holds, it rewrites decades of IP law. But it's not settled—courts may still overturn it. While it stands, copying is shielded.",
+      "5. Ask your lawyer this\n\nRun one of your copyrighted assets through a free AI tool today. If it reproduces your work, does your business have a legal defense? Test it now."
+    ],
+    "video_script": [
+      "Government says AI can copy your work.",
+      "That breaks years of copyright rules.",
+      "Businesses might take your content freely.",
+      "But this position isn't safe yet.",
+      "Ask a lawyer before betting on it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your content is now free\n\nThe US government just told OpenAI it can train on copyrighted work without paying. That ruling could let any business copy your posts, images, or videos—without asking.",
+          "2. Copyright law? Ignored\n\nCourts have always required permission for copying. This new stance skips that. It treats all web content as public data, not property.",
+          "3. The twist for business\n\nYour competitors can feed your entire catalog into an AI and repurpose it instantly. No license, no credit, no penalty. That's the new playing field.",
+          "4. What precedent means\n\nIf this holds, it rewrites decades of IP law. But it's not settled—courts may still overturn it. While it stands, copying is shielded.",
+          "5. Ask your lawyer this\n\nRun one of your copyrighted assets through a free AI tool today. If it reproduces your work, does your business have a legal defense? Test it now."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Government says AI can copy your work.",
+          "That breaks years of copyright rules.",
+          "Businesses might take your content freely.",
+          "But this position isn't safe yet.",
+          "Ask a lawyer before betting on it."
+        ]
+      },
+      "instagram": {
+        "caption": "The government just told OpenAI it can train on your copyrighted posts, images, and videos—no permission, no payment. 😳\n\nThat position calls training on your work “fair use,” skipping decades of precedent that required consent for copying. It treats everything online as public data, not property.\n\nYour competitor can now feed your entire catalog into an AI, repurpose it instantly, and you get no license, credit, or penalty. ⚖️\n\nIf you publish anything today, your work is now a free training input. The ruling isn’t final—courts could overturn it—but while it stands, copying is shielded.\n\nBefore you rely on this, run one of your own assets through a free AI tool. If it reproduces your work, does your lawyer have a defense? 🧠"
+      }
+    },
+    "instagram_caption": "The government just told OpenAI it can train on your copyrighted posts, images, and videos—no permission, no payment. 😳\n\nThat position calls training on your work “fair use,” skipping decades of precedent that required consent for copying. It treats everything online as public data, not property.\n\nYour competitor can now feed your entire catalog into an AI, repurpose it instantly, and you get no license, credit, or penalty. ⚖️\n\nIf you publish anything today, your work is now a free training input. The ruling isn’t final—courts could overturn it—but while it stands, copying is shielded.\n\nBefore you rely on this, run one of your own assets through a free AI tool. If it reproduces your work, does your lawyer have a defense? 🧠",
+    "carousel_slides": [
+      {
+        "hook": "Your content just became free",
+        "description": "The US government told OpenAI it can train on copyrighted work without paying. That could let any business copy your posts, images, or videos without asking.",
+        "visual_hint": "Open vault with scattered documents",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "open vault documents"
+      },
+      {
+        "hook": "Copyright law ignored?",
+        "description": "Courts always required permission to copy. This stance skips that requirement, treating web content as public data rather than property.",
+        "visual_hint": "Gavel next to stacked books",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "gavel law books",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors can clone your catalog",
+        "description": "Your rivals can feed your entire product line into AI, repurpose it instantly—no license, credit, or penalty. That's the new playing field.",
+        "visual_hint": "Mirror reflecting product boxes",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "warehouse product shelves",
+        "image": "https://images.pexels.com/photos/4483608/pexels-photo-4483608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Decades of IP law rewritten",
+        "description": "If this holds, the decision rewrites intellectual property precedent. But it's not settled—courts may overturn it. Until then, copying is shielded.",
+        "visual_hint": "Stacked law books crumbling",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "law library shelves",
+        "image": "https://images.pexels.com/photos/3927126/pexels-photo-3927126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your legal review",
+        "description": "Test one copyrighted asset through a free AI tool today. If it reproduces your work, ask your lawyer about your legal defense now.",
+        "visual_hint": "Magnifying glass over contract",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "contract magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "savedAt": "2026-09-02T17:37:38.478Z",
+    "sourceId": "241155a602d30de08f6669b8e8bf608c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "pangram-s-max-spero-on-why-ai-detection-is-harder-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "slides": [
+      "Can AI detection ever truly beat human intuition?",
+      "Spero says context, not pixels, decides authenticity.",
+      "Even the best models fail on short texts.",
+      "Your moderation pipeline needs a human-in-the-loop.",
+      "Test Spero's tool on your own edge cases."
+    ],
+    "thread_text": [
+      "1. Trust the tool or your gut?\n\nAI detection looks at pixels, but Spero says authenticity is decided by context. What if your instinct sees what models miss?",
+      "2. Short texts break the pattern\n\nEven top-performing AI detectors fail on concise posts. The shorter the text, the less data for a model to judge—until context becomes the key variable.",
+      "3. Context is the hidden variable\n\nSpero’s approach isn’t visual—it’s semantic. The same image can be real in one setting and fake in another. Your moderation needs that human layer.",
+      "4. The pipeline gap\n\nAutomated tools alone can’t handle nuance. A human-in-the-loop catches what algorithms classify wrong. That’s the difference between a warning and a ban.",
+      "5. Will you test your edge case?\n\nTake a questionable short post from your own feed and run it through Spero. If it fails, what does that say about your current moderation?"
+    ],
+    "video_script": [
+      "Your AI detector may miss the context.",
+      "Short texts fool even top models today.",
+      "Spero says pixels aren’t enough.",
+      "You need a human in the loop.",
+      "Test it on your own edge case now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trust the tool or your gut?\n\nAI detection looks at pixels, but Spero says authenticity is decided by context. What if your instinct sees what models miss?",
+          "2. Short texts break the pattern\n\nEven top-performing AI detectors fail on concise posts. The shorter the text, the less data for a model to judge—until context becomes the key variable.",
+          "3. Context is the hidden variable\n\nSpero’s approach isn’t visual—it’s semantic. The same image can be real in one setting and fake in another. Your moderation needs that human layer.",
+          "4. The pipeline gap\n\nAutomated tools alone can’t handle nuance. A human-in-the-loop catches what algorithms classify wrong. That’s the difference between a warning and a ban.",
+          "5. Will you test your edge case?\n\nTake a questionable short post from your own feed and run it through Spero. If it fails, what does that say about your current moderation?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your AI detector may miss the context.",
+          "Short texts fool even top models today.",
+          "Spero says pixels aren’t enough.",
+          "You need a human in the loop.",
+          "Test it on your own edge case now."
+        ]
+      },
+      "instagram": {
+        "caption": "Your gut catches what the algorithm misses—especially when the post is only a few words long.\n\nPangram’s Max Spero says authenticity isn’t in the pixels, it’s in the context. A short text gives a model almost nothing to judge, so even top detectors misfire on concise posts. The same image flips from real to fake depending on where it lives.\n\nThis means your moderation pipeline needs a human layer—automated flags alone will ban the wrong person or let the real fake slide. 🧠\n\nIf you run a suspicious two-line post through Spero and it fails, what does that tell you about your current setup? 🔍"
+      }
+    },
+    "instagram_caption": "Your gut catches what the algorithm misses—especially when the post is only a few words long.\n\nPangram’s Max Spero says authenticity isn’t in the pixels, it’s in the context. A short text gives a model almost nothing to judge, so even top detectors misfire on concise posts. The same image flips from real to fake depending on where it lives.\n\nThis means your moderation pipeline needs a human layer—automated flags alone will ban the wrong person or let the real fake slide. 🧠\n\nIf you run a suspicious two-line post through Spero and it fails, what does that tell you about your current setup? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your gut sees what AI misses?",
+        "description": "AI detection analyzes pixels, but authenticity depends on context. Spero argues your instinct catches what algorithms overlook.",
+        "visual_hint": "Split brain and circuit board",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "brain circuit board"
+      },
+      {
+        "hook": "Short texts break AI detectors.",
+        "description": "Even top models fail on concise posts. Less data means context becomes vital. Detection accuracy drops significantly.",
+        "visual_hint": "Magnifying glass over tiny text",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "small text magnifying glass",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Context decides real vs fake.",
+        "description": "Spero stresses semantic analysis over visual cues. The same image can be real in one setting and fake in another.",
+        "visual_hint": "Same image, different backgrounds",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "question mark background",
+        "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Automated moderation hits its limit.",
+        "description": "Alone, tools miss nuance. A human-in-the-loop catches misclassified content, distinguishing warnings from bans.",
+        "visual_hint": "Robot hand and human hand",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "robot hand human hand",
+        "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your edge case now.",
+        "description": "Take a questionable short post from your feed and run it through Spero. See if it fails—what then?",
+        "visual_hint": "Finger pressing test button",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone testing app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+    "savedAt": "2026-09-02T17:37:26.991Z",
+    "sourceId": "b567a13a823425ae26bffc18e9f5f60f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-ads-passes-1b-run-rate-in-200-days",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT Ads passes $1B run rate in 200 days",
+    "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+    "pubDate": "Tue, 01 Sep 2026 16:05:27 +0000",
+    "slides": [
+      "Can ChatGPT Ads hit $1B this fast again?",
+      "It took just 200 days to cross that mark.",
+      "Yet rivals need years — what's their secret?",
+      "Ad budgets shift as AI context targets users.",
+      "Test one campaign now, measure the gap."
+    ],
+    "thread_text": [
+      "1. What's their secret?\n\nChatGPT Ads crossed $1B in just 200 days — while rivals take years. The gap isn't luck; it's a different engine.",
+      "2. Budgets follow context\n\nAds now target users based on live AI conversation context, not static profiles. That shift is pulling ad dollars away from traditional platforms.",
+      "3. Speed matters more\n\nRivals need years to match this scale because they lack the direct user data feed. ChatGPT gets intent signals instantly — no middleman.",
+      "4. One test shows the gap\n\nRun a single campaign on ChatGPT Ads versus your usual channel. Compare cost per conversion — the delta tells you where the market is heading.",
+      "5. Try it this week\n\nTake one product you're already advertising. Put $50 behind a ChatGPT ad. Measure the gap yourself — is the speed worth the switch?"
+    ],
+    "video_script": [
+      "ChatGPT Ads hit one billion fast.",
+      "Took just 200 days, record speed.",
+      "Rivals need years; here's why.",
+      "Context targets users, budgets follow.",
+      "Test one campaign, measure the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What's their secret?\n\nChatGPT Ads crossed $1B in just 200 days — while rivals take years. The gap isn't luck; it's a different engine.",
+          "2. Budgets follow context\n\nAds now target users based on live AI conversation context, not static profiles. That shift is pulling ad dollars away from traditional platforms.",
+          "3. Speed matters more\n\nRivals need years to match this scale because they lack the direct user data feed. ChatGPT gets intent signals instantly — no middleman.",
+          "4. One test shows the gap\n\nRun a single campaign on ChatGPT Ads versus your usual channel. Compare cost per conversion — the delta tells you where the market is heading.",
+          "5. Try it this week\n\nTake one product you're already advertising. Put $50 behind a ChatGPT ad. Measure the gap yourself — is the speed worth the switch?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT Ads hit one billion fast.",
+          "Took just 200 days, record speed.",
+          "Rivals need years; here's why.",
+          "Context targets users, budgets follow.",
+          "Test one campaign, measure the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "200 days. That's how long ChatGPT Ads took to pass $1 billion in yearly ad sales — a milestone that takes most platforms years to hit.\n\nThe engine behind it? Live context. Instead of targeting static profiles, ads match what someone is literally discussing in the conversation. That means intent is captured in the moment, not guessed at later.\n\nTraditional ad platforms rely on historical data — ChatGPT gets the signal directly. No middleman.\n\nFor anyone running paid campaigns: the cost-per-conversion gap is now measurable. Put one product on ChatGPT Ads with a small budget, run it alongside your usual channel, and read the numbers.\n\nWhat's the delta telling you about where your ad budget goes next quarter? 📉🧠💰"
+      }
+    },
+    "instagram_caption": "200 days. That's how long ChatGPT Ads took to pass $1 billion in yearly ad sales — a milestone that takes most platforms years to hit.\n\nThe engine behind it? Live context. Instead of targeting static profiles, ads match what someone is literally discussing in the conversation. That means intent is captured in the moment, not guessed at later.\n\nTraditional ad platforms rely on historical data — ChatGPT gets the signal directly. No middleman.\n\nFor anyone running paid campaigns: the cost-per-conversion gap is now measurable. Put one product on ChatGPT Ads with a small budget, run it alongside your usual channel, and read the numbers.\n\nWhat's the delta telling you about where your ad budget goes next quarter? 📉🧠💰",
+    "carousel_slides": [
+      {
+        "hook": "Can rivals ever catch up?",
+        "description": "ChatGPT Ads hit $1B in 200 days, while rivals take years. The gap isn't luck; it's a different engine.",
+        "visual_hint": "Rocket launching upward",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "rocket launch pad"
+      },
+      {
+        "hook": "Budgets shift to live context",
+        "description": "Ads now target users based on real-time AI conversation context, not static profiles. This shift pulls dollars away from traditional platforms.",
+        "visual_hint": "Arrows moving away from profile",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "flowchart arrows",
+        "image": "https://images.pexels.com/photos/2801126/pexels-photo-2801126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed beats years of scaling",
+        "description": "Rivals lack the direct user data feed that ChatGPT gets. Intent signals arrive instantly, with no middleman, so speed compounds.",
+        "visual_hint": "Hourglass with fast sand",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hourglass timer",
+        "image": "https://images.pexels.com/photos/7954873/pexels-photo-7954873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One test reveals the gap",
+        "description": "Run a single campaign on ChatGPT Ads versus your usual channel. Compare cost per conversion; the delta shows where the market is heading.",
+        "visual_hint": "Two columns with delta sign",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "bar chart comparison",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your next ad test",
+        "description": "Take one product you're already advertising, put $50 behind a ChatGPT ad, and measure the gap. Decide if the speed is worth the switch.",
+        "visual_hint": "Finger tapping save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bookmark icon",
+        "image": "https://images.pexels.com/photos/4778341/pexels-photo-4778341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-02T17:37:15.747Z",
+    "sourceId": "58675a1449073b780075d929c05d5345"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "motional-and-mit-ai-explains-self-driving-car-deci",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Motional and MIT AI explains self-driving car decisions",
+    "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+    "pubDate": "Wed, 02 Sep 2026 15:25:12 +0000",
+    "slides": [
+      "Can you trust a self-driving car's decision?",
+      "Motional explains its choices to passengers now.",
+      "MIT reveals humans trust explanations they can challenge.",
+      "Your next ride will let you question its actions.",
+      "Test a robo-taxi and ask it why."
+    ],
+    "thread_text": [
+      "1. Whose fault is it?\n\nSelf-driving cars are already making life-or-death calls on public roads, and the passengers inside aren't always told why.",
+      "2. Motional spills the beans\n\nMotional now shows passengers a live explanation for every maneuver, from lane changes to sudden braking, right on the dashboard screen.",
+      "3. Challenge accepted\n\nMIT research finds trust skyrockets when passengers can push back on the car's reasoning—not just read it passively.",
+      "4. The robo-taxi talks back\n\nNext-gen robo-taxis will let you question their actions mid-ride, turning every passenger into a backseat driver with actual power.",
+      "5. Ask one yourself\n\nFind a Motional or Waymo robo-taxi in your city and challenge its next decision out loud. Did it change your trust level?"
+    ],
+    "video_script": [
+      "Autonomous cars decide who lives or dies.",
+      "Motional now explains every move to passengers.",
+      "MIT says your pushback builds real trust.",
+      "Future robo-taxis will question if you don't.",
+      "Ride one and challenge its next action."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Whose fault is it?\n\nSelf-driving cars are already making life-or-death calls on public roads, and the passengers inside aren't always told why.",
+          "2. Motional spills the beans\n\nMotional now shows passengers a live explanation for every maneuver, from lane changes to sudden braking, right on the dashboard screen.",
+          "3. Challenge accepted\n\nMIT research finds trust skyrockets when passengers can push back on the car's reasoning—not just read it passively.",
+          "4. The robo-taxi talks back\n\nNext-gen robo-taxis will let you question their actions mid-ride, turning every passenger into a backseat driver with actual power.",
+          "5. Ask one yourself\n\nFind a Motional or Waymo robo-taxi in your city and challenge its next decision out loud. Did it change your trust level?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Autonomous cars decide who lives or dies.",
+          "Motional now explains every move to passengers.",
+          "MIT says your pushback builds real trust.",
+          "Future robo-taxis will question if you don't.",
+          "Ride one and challenge its next action."
+        ]
+      },
+      "instagram": {
+        "caption": "You’re riding in a robo-taxi, it slams the brakes, and now the screen tells you exactly why—before you even have time to panic.\n\nMotional is now showing passengers live explanations for every maneuver, from lane changes to sudden stops. But MIT found something bigger: trust only spikes when you can push back on the car’s reasoning, not just read it passively. Next-gen taxis will let you challenge their decisions mid-ride.\n\nFor anyone building content or tools around automation, this means one thing: interactive accountability beats polished output every time. Your users don’t want answers—they want the right to argue. 🚕\n\nWould you question a car’s call in real time, or just let it drive? 🤔"
+      }
+    },
+    "instagram_caption": "You’re riding in a robo-taxi, it slams the brakes, and now the screen tells you exactly why—before you even have time to panic.\n\nMotional is now showing passengers live explanations for every maneuver, from lane changes to sudden stops. But MIT found something bigger: trust only spikes when you can push back on the car’s reasoning, not just read it passively. Next-gen taxis will let you challenge their decisions mid-ride.\n\nFor anyone building content or tools around automation, this means one thing: interactive accountability beats polished output every time. Your users don’t want answers—they want the right to argue. 🚕\n\nWould you question a car’s call in real time, or just let it drive? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Whose fault is it?",
+        "description": "Self-driving cars make life-or-death calls, but passengers aren't told why. Trust is impossible without explanation.",
+        "visual_hint": "Silhouette of autonomous car on road",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "autonomous car street"
+      },
+      {
+        "hook": "Now Motional explains every move.",
+        "description": "Motional displays live explanations for lane changes and braking, turning silent decisions into transparent actions.",
+        "visual_hint": "Dashboard with text overlay",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "car dashboard screen",
+        "image": "https://images.pexels.com/photos/16086306/pexels-photo-16086306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Challenge builds trust.",
+        "description": "MIT found passengers trust self-driving cars more when they can challenge its reasoning, not just read it passively.",
+        "visual_hint": "Person interacting with touchscreen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "hand touching screen",
+        "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next robo-taxi talks back.",
+        "description": "Future robo-taxis let you question actions mid-ride, giving you real power as a backseat driver.",
+        "visual_hint": "Passenger speaking inside car",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person speaking car",
+        "image": "https://images.pexels.com/photos/7144254/pexels-photo-7144254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask one yourself today.",
+        "description": "Find a robo-taxi in your city and challenge its next decision out loud. See if your trust grows.",
+        "visual_hint": "Robo-taxi with question mark",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "robo-taxi city street",
+        "image": "https://images.pexels.com/photos/19769269/pexels-photo-19769269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/27616357/pexels-photo-27616357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-02T17:37:03.763Z",
+    "sourceId": "306368423a9000becd4ce50bb1729bee"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-accuses-openai-of-destroying-evidence",
     "prompt_version": "1.0.0",
     "status": "published",

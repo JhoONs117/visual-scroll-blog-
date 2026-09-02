@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pangram-s-max-spero-on-why-ai-detection-is-harder-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+  "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+  "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+  "slides": [
+    "Can AI detection ever truly beat human intuition?",
+    "Spero says context, not pixels, decides authenticity.",
+    "Even the best models fail on short texts.",
+    "Your moderation pipeline needs a human-in-the-loop.",
+    "Test Spero's tool on your own edge cases."
+  ],
+  "thread_text": [
+    "1. Trust the tool or your gut?\n\nAI detection looks at pixels, but Spero says authenticity is decided by context. What if your instinct sees what models miss?",
+    "2. Short texts break the pattern\n\nEven top-performing AI detectors fail on concise posts. The shorter the text, the less data for a model to judge—until context becomes the key variable.",
+    "3. Context is the hidden variable\n\nSpero’s approach isn’t visual—it’s semantic. The same image can be real in one setting and fake in another. Your moderation needs that human layer.",
+    "4. The pipeline gap\n\nAutomated tools alone can’t handle nuance. A human-in-the-loop catches what algorithms classify wrong. That’s the difference between a warning and a ban.",
+    "5. Will you test your edge case?\n\nTake a questionable short post from your own feed and run it through Spero. If it fails, what does that say about your current moderation?"
+  ],
+  "video_script": [
+    "Your AI detector may miss the context.",
+    "Short texts fool even top models today.",
+    "Spero says pixels aren’t enough.",
+    "You need a human in the loop.",
+    "Test it on your own edge case now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Trust the tool or your gut?\n\nAI detection looks at pixels, but Spero says authenticity is decided by context. What if your instinct sees what models miss?",
+        "2. Short texts break the pattern\n\nEven top-performing AI detectors fail on concise posts. The shorter the text, the less data for a model to judge—until context becomes the key variable.",
+        "3. Context is the hidden variable\n\nSpero’s approach isn’t visual—it’s semantic. The same image can be real in one setting and fake in another. Your moderation needs that human layer.",
+        "4. The pipeline gap\n\nAutomated tools alone can’t handle nuance. A human-in-the-loop catches what algorithms classify wrong. That’s the difference between a warning and a ban.",
+        "5. Will you test your edge case?\n\nTake a questionable short post from your own feed and run it through Spero. If it fails, what does that say about your current moderation?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your AI detector may miss the context.",
+        "Short texts fool even top models today.",
+        "Spero says pixels aren’t enough.",
+        "You need a human in the loop.",
+        "Test it on your own edge case now."
+      ]
+    },
+    "instagram": {
+      "caption": "Your gut catches what the algorithm misses—especially when the post is only a few words long.\n\nPangram’s Max Spero says authenticity isn’t in the pixels, it’s in the context. A short text gives a model almost nothing to judge, so even top detectors misfire on concise posts. The same image flips from real to fake depending on where it lives.\n\nThis means your moderation pipeline needs a human layer—automated flags alone will ban the wrong person or let the real fake slide. 🧠\n\nIf you run a suspicious two-line post through Spero and it fails, what does that tell you about your current setup? 🔍"
+    }
+  },
+  "instagram_caption": "Your gut catches what the algorithm misses—especially when the post is only a few words long.\n\nPangram’s Max Spero says authenticity isn’t in the pixels, it’s in the context. A short text gives a model almost nothing to judge, so even top detectors misfire on concise posts. The same image flips from real to fake depending on where it lives.\n\nThis means your moderation pipeline needs a human layer—automated flags alone will ban the wrong person or let the real fake slide. 🧠\n\nIf you run a suspicious two-line post through Spero and it fails, what does that tell you about your current setup? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Your gut sees what AI misses?",
+      "description": "AI detection analyzes pixels, but authenticity depends on context. Spero argues your instinct catches what algorithms overlook.",
+      "visual_hint": "Split brain and circuit board",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "brain circuit board"
+    },
+    {
+      "hook": "Short texts break AI detectors.",
+      "description": "Even top models fail on concise posts. Less data means context becomes vital. Detection accuracy drops significantly.",
+      "visual_hint": "Magnifying glass over tiny text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "small text magnifying glass",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Context decides real vs fake.",
+      "description": "Spero stresses semantic analysis over visual cues. The same image can be real in one setting and fake in another.",
+      "visual_hint": "Same image, different backgrounds",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "question mark background",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Automated moderation hits its limit.",
+      "description": "Alone, tools miss nuance. A human-in-the-loop catches misclassified content, distinguishing warnings from bans.",
+      "visual_hint": "Robot hand and human hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "robot hand human hand",
+      "image": "https://images.pexels.com/photos/6153343/pexels-photo-6153343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your edge case now.",
+      "description": "Take a questionable short post from your feed and run it through Spero. See if it fails—what then?",
+      "visual_hint": "Finger pressing test button",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone testing app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+  "savedAt": "2026-09-02T17:37:26.991Z",
+  "sourceId": "b567a13a823425ae26bffc18e9f5f60f"
+}
