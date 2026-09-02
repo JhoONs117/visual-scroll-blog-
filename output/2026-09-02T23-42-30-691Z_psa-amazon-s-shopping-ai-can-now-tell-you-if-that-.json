@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "psa-amazon-s-shopping-ai-can-now-tell-you-if-that-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+  "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+  "pubDate": "Wed, 02 Sep 2026 14:56:34 +0000",
+  "slides": [
+    "Amazon's shopping AI now flags scam messages—but how?",
+    "It analyzes seller communications inside your account",
+    "The AI caught scams human reviewers previously missed",
+    "Your messages now get a risk score automatically",
+    "Check your seller inbox today for hidden red flags"
+  ],
+  "thread_text": [
+    "1. Your messages are being scored\n\nAmazon's new AI secretly rates every seller message for risk, flagging scams that human reviewers missed. It works inside your account.",
+    "2. How the AI detects scams\n\nThe system analyzes communication patterns, not just keywords. It caught sophisticated fraud that slipped past humans.",
+    "3. The twist: false positives\n\nSellers report legitimate inquiries flagged as risky. The AI is not perfect—it can mistake unusual but honest questions for scams.",
+    "4. The consequence for you\n\nA high risk score could hurt your seller standing or lead to account review. Many are unaware until it's too late.",
+    "5. Check your inbox now\n\nLook for flagged messages under your seller account. Do you see any unjustified risk scores?"
+  ],
+  "video_script": [
+    "Amazon's AI now checks seller messages for scams.",
+    "It flags messages humans missed, but can overreach.",
+    "Innocent sellers may get risky scores.",
+    "That score could hurt your account standing.",
+    "Check your seller inbox for flagged alerts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your messages are being scored\n\nAmazon's new AI secretly rates every seller message for risk, flagging scams that human reviewers missed. It works inside your account.",
+        "2. How the AI detects scams\n\nThe system analyzes communication patterns, not just keywords. It caught sophisticated fraud that slipped past humans.",
+        "3. The twist: false positives\n\nSellers report legitimate inquiries flagged as risky. The AI is not perfect—it can mistake unusual but honest questions for scams.",
+        "4. The consequence for you\n\nA high risk score could hurt your seller standing or lead to account review. Many are unaware until it's too late.",
+        "5. Check your inbox now\n\nLook for flagged messages under your seller account. Do you see any unjustified risk scores?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon's AI now checks seller messages for scams.",
+        "It flags messages humans missed, but can overreach.",
+        "Innocent sellers may get risky scores.",
+        "That score could hurt your account standing.",
+        "Check your seller inbox for flagged alerts."
+      ]
+    },
+    "instagram": {
+      "caption": "Amazon just gave every seller a silent background check. 📊 Your incoming messages now get a risk score before you even read them.\n\nThe AI scans seller communications for scam patterns—and it caught fraud that human reviewers missed. But here’s the catch: it also flagged legitimate questions as suspicious.\n\nA false positive can ding your seller standing or trigger an account review. You might not know your score shifted until it’s too late.\n\nOpen your seller inbox today. Scroll for any message tagged \"risky\"—do you see one that looks honest but got flagged? 🔍"
+    }
+  },
+  "instagram_caption": "Amazon just gave every seller a silent background check. 📊 Your incoming messages now get a risk score before you even read them.\n\nThe AI scans seller communications for scam patterns—and it caught fraud that human reviewers missed. But here’s the catch: it also flagged legitimate questions as suspicious.\n\nA false positive can ding your seller standing or trigger an account review. You might not know your score shifted until it’s too late.\n\nOpen your seller inbox today. Scroll for any message tagged \"risky\"—do you see one that looks honest but got flagged? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Amazon's AI is judging your messages",
+      "description": "Amazon's shopping AI now flags scam messages automatically, catching fraud that human reviewers missed. Your seller messages get a risk score without you knowing.",
+      "visual_hint": "AI scanning inbox messages",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence robot"
+    },
+    {
+      "hook": "How does it catch scams?",
+      "description": "The AI analyzes communication patterns inside your account, not just keywords. It spotted sophisticated scams that human reviewers previously missed.",
+      "visual_hint": "pattern analysis on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code screen",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "False positives can hurt you",
+      "description": "Legitimate inquiries may be flagged as risky. A high risk score could damage your seller standing or trigger an account review—often without warning.",
+      "visual_hint": "warning triangle on inbox",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning sign alert",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your standing is at risk",
+      "description": "Many sellers are unaware until it's too late. A high risk score from false positives can lead to account limits or suspension, impacting your livelihood.",
+      "visual_hint": "seller account risk meter",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding phone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your inbox now—save this",
+      "description": "Log into your seller account and review flagged messages today. Look for unjustified risk scores and dispute them before they affect your account.",
+      "visual_hint": "person checking inbox",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "email inbox screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/alexa-shopping-ai-hero-lm.jpg?resize=1200,675",
+  "savedAt": "2026-09-02T23:43:01.373Z",
+  "sourceId": "45920ada7bdc4dc15642a3d2404a63f9"
+}

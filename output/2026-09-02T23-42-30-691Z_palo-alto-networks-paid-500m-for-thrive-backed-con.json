@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "palo-alto-networks-paid-500m-for-thrive-backed-con",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+  "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+  "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+  "slides": [
+    "Why did Palo Alto pay $500M for Console?",
+    "Thrive-backed startup eluded public radar until now",
+    "Most acquisitions fail—but this one targets AI workflows",
+    "Your security stack may soon change pricing models",
+    "Audit your tools: consolidation is coming faster"
+  ],
+  "thread_text": [
+    "1. Why the $500M gamble?\n\nPalo Alto Networks just paid half a billion for a startup most people have never heard of. That's not a bet on today—it's a bet on where AI workflows are heading.",
+    "2. The stealth startup\n\nThrive-backed Console stayed under the radar until now. Their tech doesn't just patch security—it automates the decision-making behind it. That's a shift, not an upgrade.",
+    "3. Most deals fail\n\nBut this one targets AI workflows, the messy layer where security tools break. If it works, your stack will look very different soon. If it fails, it's just another write-off.",
+    "4. Pricing models shift\n\nExpect security pricing to move from per-seat to per-workflow. That could change what you pay—and what you're willing to cut loose.",
+    "5. Audit your stack now\n\nTake one tool you use daily. Map what it costs against what it actually handles in AI-driven tasks. Is it still essential? If not, consolidation is coming faster than you think.",
+    "5. Audit your stack now\n\nTake one tool you use daily. Map what it costs against what it actually handles in AI-driven tasks. Is it still essential? If not, consolidation is coming."
+  ],
+  "video_script": [
+    "Palo Alto's half-billion bet rocks the security world.",
+    "Stealth startup Console now leads the AI workflow charge.",
+    "Most acquisitions fail, but this one targets real gaps.",
+    "Security pricing is shifting from seats to workflows soon.",
+    "Audit your tools before consolidation hits your budget."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why the $500M gamble?\n\nPalo Alto Networks just paid half a billion for a startup most people have never heard of. That's not a bet on today—it's a bet on where AI workflows are heading.",
+        "2. The stealth startup\n\nThrive-backed Console stayed under the radar until now. Their tech doesn't just patch security—it automates the decision-making behind it. That's a shift, not an upgrade.",
+        "3. Most deals fail\n\nBut this one targets AI workflows, the messy layer where security tools break. If it works, your stack will look very different soon. If it fails, it's just another write-off.",
+        "4. Pricing models shift\n\nExpect security pricing to move from per-seat to per-workflow. That could change what you pay—and what you're willing to cut loose.",
+        "5. Audit your stack now\n\nTake one tool you use daily. Map what it costs against what it actually handles in AI-driven tasks. Is it still essential? If not, consolidation is coming faster than you think.",
+        "5. Audit your stack now\n\nTake one tool you use daily. Map what it costs against what it actually handles in AI-driven tasks. Is it still essential? If not, consolidation is coming."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Palo Alto's half-billion bet rocks the security world.",
+        "Stealth startup Console now leads the AI workflow charge.",
+        "Most acquisitions fail, but this one targets real gaps.",
+        "Security pricing is shifting from seats to workflows soon.",
+        "Audit your tools before consolidation hits your budget."
+      ]
+    },
+    "instagram": {
+      "caption": "Half a billion dollars for a security startup almost nobody had heard of until this week. That's what Palo Alto Networks just paid for Console, a Thrive-backed company that automates security decisions rather than just patching holes.\n\nThe bet is on AI workflows—the messy layer where current security tools break. Most acquisitions fail, but if this works, your pricing model changes: from per-seat to per-workflow. That's not a tweak, it's a rethink.\n\nFor anyone creating content or running tools, this means the stack you use daily gets consolidated, fast. Audit one tool today. Map its cost to what it actually does in AI tasks.\n\nStill essential? Or are you paying for a legacy seat 📉?"
+    }
+  },
+  "instagram_caption": "Half a billion dollars for a security startup almost nobody had heard of until this week. That's what Palo Alto Networks just paid for Console, a Thrive-backed company that automates security decisions rather than just patching holes.\n\nThe bet is on AI workflows—the messy layer where current security tools break. Most acquisitions fail, but if this works, your pricing model changes: from per-seat to per-workflow. That's not a tweak, it's a rethink.\n\nFor anyone creating content or running tools, this means the stack you use daily gets consolidated, fast. Audit one tool today. Map its cost to what it actually does in AI tasks.\n\nStill essential? Or are you paying for a legacy seat 📉?",
+  "carousel_slides": [
+    {
+      "hook": "Half a billion for a nobody?",
+      "description": "Palo Alto Networks paid $500M for Console, a stealth startup. That signals AI workflow security is the next battleground.",
+      "visual_hint": "Money bag and question mark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "money bag, question mark, dark background"
+    },
+    {
+      "hook": "Stealth mode: over?",
+      "description": "Thrive-backed Console stayed under the radar. Now, with a $500M exit, their automation tech changes how security decisions are made.",
+      "visual_hint": "Radar screen with blink",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "radar screen, control room, glowing",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why most deals fail—not this?",
+      "description": "Unlike typical failures, this acquisition targets AI workflows where security tools often break. Success could reshape your security stack.",
+      "visual_hint": "Broken chain with AI chip",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence chip, circuit board",
+      "image": "https://images.pexels.com/photos/7562089/pexels-photo-7562089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pricing models: shifting now?",
+      "description": "Expect security pricing to shift from per-seat to per-workflow. That change could alter what you pay and what you keep.",
+      "visual_hint": "Coin with workflow arrows",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "coins and calculator on desk",
+      "image": "https://images.pexels.com/photos/7111592/pexels-photo-7111592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your tools now.",
+      "description": "Take one tool you use daily. Map its cost against AI tasks. Is it essential? Consolidation is coming—act before it hits.",
+      "visual_hint": "Checklist with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "clipboard audit checklist magnifying glass",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+  "savedAt": "2026-09-02T23:42:42.287Z",
+  "sourceId": "ef03c3a5f159b7ba3163a2bad2cc90a1"
+}

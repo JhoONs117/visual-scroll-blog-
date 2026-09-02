@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-s-ai-assistant-can-now-spot-fake-emails-fro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon’s AI assistant can now spot fake emails from the company",
+  "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+  "pubDate": "2026-09-02T17:52:56.000Z",
+  "slides": [
+    "Amazon's AI now detects fake emails—but can you trust it?",
+    "It analyzes sender patterns and language anomalies in real time.",
+    "The system spots scams humans miss—yet false positives remain.",
+    "Your inbox changes: suspicious messages get flagged before opening.",
+    "Don't rely blindly—verify urgent requests through official channels."
+  ],
+  "thread_text": [
+    "1. Can you trust it?\n\nAmazon's new AI flags scams in real time, but it still gets it wrong sometimes. The real question is whether you'll notice when it does.",
+    "2. How it works\n\nThe system checks sender patterns and language oddities to catch what humans miss. It's always watching your inbox before you even click.",
+    "3. The catch\n\nFalse positives are real—legit emails can get flagged. Your important message might sit buried while the scam warning sits on top.",
+    "4. What changes\n\nSuspicious messages now get flagged before you open them. That's a shift in how you'll interact with email from now on.",
+    "5. Your move\n\nNext time an urgent email asks for money or data, pick up the phone and verify. Does saving 10 seconds outweigh the risk of falling for a scam?"
+  ],
+  "video_script": [
+    "Amazon's AI now spots fake emails.",
+    "It analyzes patterns and language in real time.",
+    "But false positives remain a problem.",
+    "Your inbox flags suspicious messages before opening.",
+    "Verify urgent requests through official channels."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can you trust it?\n\nAmazon's new AI flags scams in real time, but it still gets it wrong sometimes. The real question is whether you'll notice when it does.",
+        "2. How it works\n\nThe system checks sender patterns and language oddities to catch what humans miss. It's always watching your inbox before you even click.",
+        "3. The catch\n\nFalse positives are real—legit emails can get flagged. Your important message might sit buried while the scam warning sits on top.",
+        "4. What changes\n\nSuspicious messages now get flagged before you open them. That's a shift in how you'll interact with email from now on.",
+        "5. Your move\n\nNext time an urgent email asks for money or data, pick up the phone and verify. Does saving 10 seconds outweigh the risk of falling for a scam?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Amazon's AI now spots fake emails.",
+        "It analyzes patterns and language in real time.",
+        "But false positives remain a problem.",
+        "Your inbox flags suspicious messages before opening.",
+        "Verify urgent requests through official channels."
+      ]
+    },
+    "instagram": {
+      "caption": "That email from Amazon asking you to verify your password? Their new AI might catch it before you do—but only if it’s a fake.\n\nThe assistant now scans sender patterns and language quirks in real time, flagging suspicious messages before you even open them. It’s designed to spot scams humans scroll past.\n\nBut here’s the rub: it also misfires. Legit emails can get buried under a false warning, and you might miss something real while doubting something harmless.\n\nFor anyone sending newsletters or product updates: that “urgent” promo you crafted could look like a phishing lure. Your deliverability just got a new gatekeeper. 🕵️\n\nWhen an email demands a quick login or payment, do you double-check through a separate tab—or trust the warning label at face value? ⚠️"
+    }
+  },
+  "instagram_caption": "That email from Amazon asking you to verify your password? Their new AI might catch it before you do—but only if it’s a fake.\n\nThe assistant now scans sender patterns and language quirks in real time, flagging suspicious messages before you even open them. It’s designed to spot scams humans scroll past.\n\nBut here’s the rub: it also misfires. Legit emails can get buried under a false warning, and you might miss something real while doubting something harmless.\n\nFor anyone sending newsletters or product updates: that “urgent” promo you crafted could look like a phishing lure. Your deliverability just got a new gatekeeper. 🕵️\n\nWhen an email demands a quick login or payment, do you double-check through a separate tab—or trust the warning label at face value? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Can you trust this AI?",
+      "description": "Amazon's new AI spots scams in real time, but it still makes mistakes. The real risk? Legitimate emails might get buried.",
+      "visual_hint": "Shield with question mark overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "email inbox screen"
+    },
+    {
+      "hook": "It watches your inbox before you click",
+      "description": "Analyzing sender patterns and language oddities, the AI catches what humans miss. Constant surveillance, but false alarms happen.",
+      "visual_hint": "Message icon with magnifying glass",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "email phishing detection",
+      "image": "https://images.pexels.com/photos/7172786/pexels-photo-7172786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Legit emails can get flagged",
+      "description": "False positives are real: your important message might sit buried under a scam warning. Trusting blindly could cost you.",
+      "visual_hint": "Alert triangle over envelope",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "warning sign email",
+      "image": "https://images.pexels.com/photos/33194321/pexels-photo-33194321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Suspicious flagged before you open",
+      "description": "Your inbox changes now: risky messages get flagged pre-open. A shift in how you'll interact with email from now on.",
+      "visual_hint": "Hand holding phone with alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your next urgent email",
+      "description": "When an urgent email asks for money or data, call to verify. Does saving 10 seconds outweigh falling for a scam?",
+      "visual_hint": "Phone receiver and keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "phone receiver",
+      "image": "https://images.pexels.com/photos/38904533/pexels-photo-38904533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-02T23:43:11.851Z",
+  "sourceId": "dda9391027329964e2fe1bbf5fe8baff"
+}
