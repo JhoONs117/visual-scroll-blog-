@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "india-s-richest-man-now-wants-to-turn-aging-comput",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+  "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+  "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+  "slides": [
+    "Mukesh Ambani targets aging PCs—can they become AI-ready?",
+    "His plan upgrades millions of outdated machines cheaply.",
+    "Surprise: AI tasks run on recycled hardware more often.",
+    "Your old device could get new life without costly upgrades.",
+    "Test one legacy PC against modern AI requirements today."
+  ],
+  "thread_text": [
+    "1. Your PC is obsolete\n\nMukesh Ambani is buying up millions of aging PCs to turn them into AI machines, and the trick is cheaper than you think.",
+    "2. The cheap fix\n\nHe avoids buying new hardware by upgrading just the RAM and storage, making old machines run AI workloads surprisingly well.",
+    "3. The surprise twist\n\nRecycled desktops are outperforming new ones in certain AI tasks because they have more standard ports for accelerators.",
+    "4. The breakdown risk\n\nBut these legacy systems can fail without warning, so Ambani's team has built software to monitor them remotely in real time.",
+    "5. Test your own rig\n\nRun a local AI model like Llama on a 5-year-old PC today. If it works, you just saved thousands—so why buy new?"
+  ],
+  "video_script": [
+    "Old computers can run AI, surprisingly.",
+    "Ambani upgrades them without buying new hardware.",
+    "Recycled machines sometimes beat brand-new ones.",
+    "But they might crash, so monitor them remotely.",
+    "Test your old PC with AI today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your PC is obsolete\n\nMukesh Ambani is buying up millions of aging PCs to turn them into AI machines, and the trick is cheaper than you think.",
+        "2. The cheap fix\n\nHe avoids buying new hardware by upgrading just the RAM and storage, making old machines run AI workloads surprisingly well.",
+        "3. The surprise twist\n\nRecycled desktops are outperforming new ones in certain AI tasks because they have more standard ports for accelerators.",
+        "4. The breakdown risk\n\nBut these legacy systems can fail without warning, so Ambani's team has built software to monitor them remotely in real time.",
+        "5. Test your own rig\n\nRun a local AI model like Llama on a 5-year-old PC today. If it works, you just saved thousands—so why buy new?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Old computers can run AI, surprisingly.",
+        "Ambani upgrades them without buying new hardware.",
+        "Recycled machines sometimes beat brand-new ones.",
+        "But they might crash, so monitor them remotely.",
+        "Test your old PC with AI today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your 5-year-old PC might be worth more than you think.\n\nMukesh Ambani is buying millions of aging computers and upgrading only the RAM and storage—skipping new processors entirely. Recycled desktops are actually beating new machines in some AI tasks because they have more standard ports for accelerators.\n\nThe catch? Legacy hardware can crash without warning, so his team built remote monitoring software to catch failures in real time.\n\nFor anyone creating content: your old machine can run AI workloads today. No need to drop thousands on a new rig.\n\nWhen did you last run an AI model on your current computer—or have you assumed it wouldn't work?\n\n🖥️⚡🔄💡"
+    }
+  },
+  "instagram_caption": "Your 5-year-old PC might be worth more than you think.\n\nMukesh Ambani is buying millions of aging computers and upgrading only the RAM and storage—skipping new processors entirely. Recycled desktops are actually beating new machines in some AI tasks because they have more standard ports for accelerators.\n\nThe catch? Legacy hardware can crash without warning, so his team built remote monitoring software to catch failures in real time.\n\nFor anyone creating content: your old machine can run AI workloads today. No need to drop thousands on a new rig.\n\nWhen did you last run an AI model on your current computer—or have you assumed it wouldn't work?\n\n🖥️⚡🔄💡",
+  "carousel_slides": [
+    {
+      "hook": "Your old PC might outperform new ones?",
+      "description": "Recycled desktops with more standard ports for AI accelerators are beating new machines in certain AI tasks. Upgrade RAM and storage instead of buying new.",
+      "visual_hint": "Stack of old PCs glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "old computer hardware"
+    },
+    {
+      "hook": "Skip new hardware, just upgrade two parts.",
+      "description": "By upgrading only RAM and storage, Ambani makes aging machines run AI workloads surprisingly well. A cheap fix that avoids costly PC replacements.",
+      "visual_hint": "RAM and SSD close-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer ram upgrade",
+      "image": "https://images.pexels.com/photos/33792050/pexels-photo-33792050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Recycled PCs shock with AI speed.",
+      "description": "Standard ports on older desktops allow easy attachment of AI accelerators, so they outperform newer models in some tasks. The twist no one saw coming.",
+      "visual_hint": "Ports and accelerator plugged",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "usb ports computer",
+      "image": "https://images.pexels.com/photos/5474284/pexels-photo-5474284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "But these old machines can fail silently.",
+      "description": "Legacy systems risk unexpected breakdowns, so Ambani's team built software to monitor them remotely in real time. Protection is essential for reliability.",
+      "visual_hint": "Hand pointing at monitoring screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer monitoring software",
+      "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your 5-year-old PC with Llama now.",
+      "description": "Run a local AI model like Llama on your old PC today. If it works, you save thousands. Why buy new when recycled works?",
+      "visual_hint": "Person clicking test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop with code",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800",
+  "savedAt": "2026-09-02T20:19:10.040Z",
+  "sourceId": "bf628eb62ed990bd05a20b2a53f6c675"
+}

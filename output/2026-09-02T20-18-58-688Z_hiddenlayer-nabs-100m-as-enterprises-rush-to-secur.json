@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secur",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+  "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+  "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
+  "slides": [
+    "HiddenLayer banks $100M, but why do enterprises panic?",
+    "AI deployments now expose unseen vulnerabilities daily.",
+    "Most security tools ignore machine learning models entirely.",
+    "Your AI's blind spots could leak data silently.",
+    "Assess your AI defenses before attackers do."
+  ],
+  "thread_text": [
+    "1. $100M bet on AI fear\n\nEnterprises are funneling cash into AI security, but most still don't know what they're protecting against.",
+    "2. The blind spot\n\nStandard security tools scan networks and code, but ignore the machine learning models themselves.",
+    "3. Silent leaks\n\nAI's blind spots can quietly expose sensitive data through everyday interactions, without triggering any alarms.",
+    "4. Daily exposure\n\nEvery day, new deployments reveal unseen vulnerabilities that attackers could exploit before you even notice.",
+    "5. Assess your AI\n\nDo you know where your model's blind spots are? Run an AI-specific security assessment today."
+  ],
+  "video_script": [
+    "AI security is now a hundred-million-dollar problem.",
+    "Standard tools miss your machine learning models.",
+    "Your AI's blind spots can leak data silently.",
+    "New vulnerabilities appear daily, unseen.",
+    "Assess your AI defenses before attackers do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $100M bet on AI fear\n\nEnterprises are funneling cash into AI security, but most still don't know what they're protecting against.",
+        "2. The blind spot\n\nStandard security tools scan networks and code, but ignore the machine learning models themselves.",
+        "3. Silent leaks\n\nAI's blind spots can quietly expose sensitive data through everyday interactions, without triggering any alarms.",
+        "4. Daily exposure\n\nEvery day, new deployments reveal unseen vulnerabilities that attackers could exploit before you even notice.",
+        "5. Assess your AI\n\nDo you know where your model's blind spots are? Run an AI-specific security assessment today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI security is now a hundred-million-dollar problem.",
+        "Standard tools miss your machine learning models.",
+        "Your AI's blind spots can leak data silently.",
+        "New vulnerabilities appear daily, unseen.",
+        "Assess your AI defenses before attackers do."
+      ]
+    },
+    "instagram": {
+      "caption": "A $100 million funding round just landed on a security startup—because companies are realizing their AI systems have blind spots that standard defenses can't see. 🔍\n\nMost security tools scan networks and code, but they ignore the machine learning models themselves. HiddenLayer just raised $100M to fix exactly that gap. 🛡️\n\nThe risk is concrete: your AI's blind spots can quietly leak sensitive data through everyday interactions, without any alarm ever ringing. 💸\n\nIf you're building content or tools with AI, ask yourself: when was the last time you audited the model itself, not just the code around it?\n\nDo you know where your AI's blind spots are? 🎯"
+    }
+  },
+  "instagram_caption": "A $100 million funding round just landed on a security startup—because companies are realizing their AI systems have blind spots that standard defenses can't see. 🔍\n\nMost security tools scan networks and code, but they ignore the machine learning models themselves. HiddenLayer just raised $100M to fix exactly that gap. 🛡️\n\nThe risk is concrete: your AI's blind spots can quietly leak sensitive data through everyday interactions, without any alarm ever ringing. 💸\n\nIf you're building content or tools with AI, ask yourself: when was the last time you audited the model itself, not just the code around it?\n\nDo you know where your AI's blind spots are? 🎯",
+  "carousel_slides": [
+    {
+      "hook": "Your AI has a blind spot",
+      "description": "Enterprises are investing heavily in AI security, but most still ignore the models themselves, exposing hidden risks.",
+      "visual_hint": "AI model with gap",
+      "image_query": "server room",
+      "layout_type": "hero",
+      "icon": "tag"
+    },
+    {
+      "hook": "Why is AI security booming?",
+      "description": "Daily AI deployments reveal unseen vulnerabilities that standard security tools overlook, leaving models exposed.",
+      "visual_hint": "Network vs AI contrast",
+      "image_query": "network cables",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI leaks data silently",
+      "description": "Blind spots in machine learning models can quietly expose sensitive data through everyday interactions, no alarms triggered.",
+      "visual_hint": "Data leaking from model",
+      "image_query": "data center",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "HiddenLayer's $100M signal",
+      "description": "The $100M investment signals enterprises recognize AI-specific defenses are missing—are you ready?",
+      "visual_hint": "Money bag with shield",
+      "image_query": "stock market chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this AI security checklist",
+      "description": "Assess your AI defenses now: run an AI-specific security assessment before attackers exploit your blind spots.",
+      "visual_hint": "Checklist on laptop",
+      "image_query": "laptop checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
+  "savedAt": "2026-09-02T20:19:19.550Z",
+  "sourceId": "b655f5964665672692784cc9ff70263e"
+}

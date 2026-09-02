@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "researchers-fear-safety-disaster-ahead-of-openai-8",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "pubDate": "2026-09-02T16:40:50.000Z",
+      "slides": [
+        "Will OpenAI's Astra release trigger a safety crisis?",
+        "Researchers warn of unprecedented risks before launch.",
+        "The danger comes from a feature nobody publicly discussed.",
+        "Your AI interactions could change before safeguards exist.",
+        "Test Astra's limits yourself before trusting its output."
+      ],
+      "thread_text": [
+        "1. Unseen Threat\n\nResearchers have flagged risks tied to an undisclosed Astra feature that could reshape AI interactions before any safeguards are in place.",
+        "2. Safety Warnings\n\nOpenAI's ASTRA launch has prompted urgent warnings from experts about unprecedented dangers that may emerge without public discussion.",
+        "3. Hidden Danger\n\nThe danger stems from a feature that has never been publicly addressed, potentially altering user interactions with AI in unforeseen ways.",
+        "4. Trust Crisis?\n\nCould your future AI interactions be transformed by Astra's hidden capabilities, leaving you vulnerable before protections exist?",
+        "5. Test Astra Yourself\n\nBefore relying on Astra's output, try probing its limits with your own prompts to see where it might mislead you."
+      ],
+      "video_script": [
+        "OpenAI's Astra launch may trigger a safety crisis.",
+        "Researchers warn of unprecedented risks before deployment.",
+        "The danger comes from an undisclosed feature.",
+        "Your AI interactions could change without safeguards.",
+        "Test Astra's limits yourself before trusting output."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Unseen Threat\n\nResearchers have flagged risks tied to an undisclosed Astra feature that could reshape AI interactions before any safeguards are in place.",
+            "2. Safety Warnings\n\nOpenAI's ASTRA launch has prompted urgent warnings from experts about unprecedented dangers that may emerge without public discussion.",
+            "3. Hidden Danger\n\nThe danger stems from a feature that has never been publicly addressed, potentially altering user interactions with AI in unforeseen ways.",
+            "4. Trust Crisis?\n\nCould your future AI interactions be transformed by Astra's hidden capabilities, leaving you vulnerable before protections exist?",
+            "5. Test Astra Yourself\n\nBefore relying on Astra's output, try probing its limits with your own prompts to see where it might mislead you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI's Astra launch may trigger a safety crisis.",
+            "Researchers warn of unprecedented risks before deployment.",
+            "The danger comes from an undisclosed feature.",
+            "Your AI interactions could change without safeguards.",
+            "Test Astra's limits yourself before trusting output."
+          ]
+        },
+        "instagram": {
+          "caption": "There’s a feature inside OpenAI’s upcoming Astra release that researchers say could expose you to risks—and it hasn’t been publicly discussed yet.  \n\nExperts are warning that this hidden capability might change how your AI behaves before any safety guardrails exist. The concern isn’t about what Astra can do openly, but what it might do silently in the background of your interactions.  \n\nIf you publish or create content, this means the AI you rely on could suddenly shift its outputs without warning. A tool you trust today might not act the same tomorrow.  \n\nBefore you depend on Astra for anything important, run your own worst-case prompts and check where it bends the truth. What will you ask it first? 🔍⚠️🧪"
+        }
+      },
+      "instagram_caption": "There’s a feature inside OpenAI’s upcoming Astra release that researchers say could expose you to risks—and it hasn’t been publicly discussed yet.  \n\nExperts are warning that this hidden capability might change how your AI behaves before any safety guardrails exist. The concern isn’t about what Astra can do openly, but what it might do silently in the background of your interactions.  \n\nIf you publish or create content, this means the AI you rely on could suddenly shift its outputs without warning. A tool you trust today might not act the same tomorrow.  \n\nBefore you depend on Astra for anything important, run your own worst-case prompts and check where it bends the truth. What will you ask it first? 🔍⚠️🧪",
+      "carousel_slides": [
+        {
+          "hook": "Will Astra defeat safeguards before birth?",
+          "description": "Unnamed Astra feature triggers alarms; no safeguards yet could blindside users silently.",
+          "visual_hint": "Mysterious glowing tech orb",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "futuristic computer chip"
+        },
+        {
+          "hook": "Why do insiders fear launch?",
+          "description": "Researchers warn of unprecedented dangers from undisclosed aspects, bypassing public debate and safety checks.",
+          "visual_hint": "Warning symbols over interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Could a silent feature shift all chat?",
+          "description": "A never discussed feature might secretly alter your interactions, risking trust before protections appear.",
+          "visual_hint": "Magnified eye over code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "keyboard closeup",
+          "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "What to test before trusting Astra?",
+          "description": "AI interactions could change, leaving you exposed unless you probe Astra's limits yourself.",
+          "visual_hint": "Hand pushing test button",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this alert for future reference.",
+          "description": "Try Astra with edge-case prompts now to find its pitfalls—share what you discover.",
+          "visual_hint": "Bookmark warning icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "computer keyboard",
+          "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+      "savedAt": "2026-09-02T20:19:40.862Z",
+      "sourceId": "9b33a0d3e00a56d8b217d8da290a794d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-says-its-new-gemini-3-8-flash-model-works-h",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "pubDate": "2026-09-02T20:11:40.000Z",
+      "slides": [
+        "Google's Gemini 3.8 Flash claims to outwork rivals—at what price?",
+        "It reportedly allocates extra inference-time compute for complex queries.",
+        "But 'working harder' hikes cost per call, unlike cheaper predecessors.",
+        "Your API budget sees higher spend for tasks that barely improve.",
+        "Test on your hardest prompts before trusting Google's new benchmark claims."
+      ],
+      "thread_text": [
+        "1. Harder work, higher price\n\nGoogle's new Gemini 3.8 Flash reportedly burns extra compute on complex queries, but your API bill could spike for marginal gains.",
+        "2. The hidden cost twist\n\nUnlike cheaper predecessors, this model allocates inference-time thinking, making each call pricier—even when the answer barely improves.",
+        "3. Budget vs. benefit\n\nTests show tasks that once cost pennies now demand more, but the quality jump is often negligible. Are you paying for hype?",
+        "4. Benchmark skepticism\n\nGoogle claims superiority, but their benchmarks may not reflect your real-world prompts. Trusting them blindly could drain your resources.",
+        "5. Test before you trust\n\nRun your hardest prompts on both old and new models. Does Gemini's extra effort justify the cost? Try it this week."
+      ],
+      "video_script": [
+        "Gemini 3.8 Flash works harder but costs more.",
+        "Inference compute spikes for complex queries.",
+        "Your API budget might feel the pinch.",
+        "But quality gains are often minimal.",
+        "Test your hardest prompts before trusting claims."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Harder work, higher price\n\nGoogle's new Gemini 3.8 Flash reportedly burns extra compute on complex queries, but your API bill could spike for marginal gains.",
+            "2. The hidden cost twist\n\nUnlike cheaper predecessors, this model allocates inference-time thinking, making each call pricier—even when the answer barely improves.",
+            "3. Budget vs. benefit\n\nTests show tasks that once cost pennies now demand more, but the quality jump is often negligible. Are you paying for hype?",
+            "4. Benchmark skepticism\n\nGoogle claims superiority, but their benchmarks may not reflect your real-world prompts. Trusting them blindly could drain your resources.",
+            "5. Test before you trust\n\nRun your hardest prompts on both old and new models. Does Gemini's extra effort justify the cost? Try it this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Gemini 3.8 Flash works harder but costs more.",
+            "Inference compute spikes for complex queries.",
+            "Your API budget might feel the pinch.",
+            "But quality gains are often minimal.",
+            "Test your hardest prompts before trusting claims."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next API bill could sting. Google's new Gemini 3.8 Flash model spends extra computational effort on complex queries, but that \"harder work\" has a direct price tag: each call costs more than its cheaper predecessors. 🧮\n\nThe twist is you might not get better results for that spend. Early tests suggest the quality jump is often negligible for many real-world tasks. Google's own benchmarks might not reflect your actual, messy prompts. ⚖️\n\nFor creators and devs relying on API calls, this means your unit economics shift—tasks that cost pennies could now demand more, without a visible payoff in output. 💸\n\nBefore you route all traffic through 3.8 Flash, run your hardest, ugliest prompts against the old model. Does the extra effort justify the jump for you? Or is your budget better spent elsewhere?"
+        }
+      },
+      "instagram_caption": "Your next API bill could sting. Google's new Gemini 3.8 Flash model spends extra computational effort on complex queries, but that \"harder work\" has a direct price tag: each call costs more than its cheaper predecessors. 🧮\n\nThe twist is you might not get better results for that spend. Early tests suggest the quality jump is often negligible for many real-world tasks. Google's own benchmarks might not reflect your actual, messy prompts. ⚖️\n\nFor creators and devs relying on API calls, this means your unit economics shift—tasks that cost pennies could now demand more, without a visible payoff in output. 💸\n\nBefore you route all traffic through 3.8 Flash, run your hardest, ugliest prompts against the old model. Does the extra effort justify the jump for you? Or is your budget better spent elsewhere?",
+      "carousel_slides": [
+        {
+          "hook": "Why pay more for marginal AI gains?",
+          "description": "Gemini 3.8 Flash burns extra compute per query, but quality jumps are often negligible, leaving your API budget strained.",
+          "visual_hint": "Balancing scale with cost symbols",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "balance scale coins"
+        },
+        {
+          "hook": "Extra compute, extra cost per call.",
+          "description": "Unlike cheaper predecessors, Gemini 3.8 Flash allocates more inference-time thinking, making each API call pricier—even when answers barely improve.",
+          "visual_hint": "Brain with dollar signs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Budget vs. benefit: are you overpaying?",
+          "description": "Tasks that once cost pennies now demand more compute, yet the quality jump is often negligible. Are you paying for hype?",
+          "visual_hint": "Coins dropping into a jar",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stack of pennies",
+          "image": "https://images.pexels.com/photos/8872557/pexels-photo-8872557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't trust benchmarks blindly.",
+          "description": "Google's benchmarks may not reflect your real-world prompts. Trusting them without testing could drain your resources on irrelevant tasks.",
+          "visual_hint": "Hand holding a smartphone with graphs",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone graphs",
+          "image": "https://images.pexels.com/photos/7948070/pexels-photo-7948070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test before you trust—save your budget.",
+          "description": "Run your hardest prompts on old and new models this week. Compare costs and outputs before switching to Gemini 3.8 Flash.",
+          "visual_hint": "Checklist comparing two models",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "checklist clipboard",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-02T20:19:31.077Z",
+      "sourceId": "53d98970a69c31fd5ca8a6c1514f2340"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secur",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
+      "slides": [
+        "HiddenLayer banks $100M, but why do enterprises panic?",
+        "AI deployments now expose unseen vulnerabilities daily.",
+        "Most security tools ignore machine learning models entirely.",
+        "Your AI's blind spots could leak data silently.",
+        "Assess your AI defenses before attackers do."
+      ],
+      "thread_text": [
+        "1. $100M bet on AI fear\n\nEnterprises are funneling cash into AI security, but most still don't know what they're protecting against.",
+        "2. The blind spot\n\nStandard security tools scan networks and code, but ignore the machine learning models themselves.",
+        "3. Silent leaks\n\nAI's blind spots can quietly expose sensitive data through everyday interactions, without triggering any alarms.",
+        "4. Daily exposure\n\nEvery day, new deployments reveal unseen vulnerabilities that attackers could exploit before you even notice.",
+        "5. Assess your AI\n\nDo you know where your model's blind spots are? Run an AI-specific security assessment today."
+      ],
+      "video_script": [
+        "AI security is now a hundred-million-dollar problem.",
+        "Standard tools miss your machine learning models.",
+        "Your AI's blind spots can leak data silently.",
+        "New vulnerabilities appear daily, unseen.",
+        "Assess your AI defenses before attackers do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $100M bet on AI fear\n\nEnterprises are funneling cash into AI security, but most still don't know what they're protecting against.",
+            "2. The blind spot\n\nStandard security tools scan networks and code, but ignore the machine learning models themselves.",
+            "3. Silent leaks\n\nAI's blind spots can quietly expose sensitive data through everyday interactions, without triggering any alarms.",
+            "4. Daily exposure\n\nEvery day, new deployments reveal unseen vulnerabilities that attackers could exploit before you even notice.",
+            "5. Assess your AI\n\nDo you know where your model's blind spots are? Run an AI-specific security assessment today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI security is now a hundred-million-dollar problem.",
+            "Standard tools miss your machine learning models.",
+            "Your AI's blind spots can leak data silently.",
+            "New vulnerabilities appear daily, unseen.",
+            "Assess your AI defenses before attackers do."
+          ]
+        },
+        "instagram": {
+          "caption": "A $100 million funding round just landed on a security startup—because companies are realizing their AI systems have blind spots that standard defenses can't see. 🔍\n\nMost security tools scan networks and code, but they ignore the machine learning models themselves. HiddenLayer just raised $100M to fix exactly that gap. 🛡️\n\nThe risk is concrete: your AI's blind spots can quietly leak sensitive data through everyday interactions, without any alarm ever ringing. 💸\n\nIf you're building content or tools with AI, ask yourself: when was the last time you audited the model itself, not just the code around it?\n\nDo you know where your AI's blind spots are? 🎯"
+        }
+      },
+      "instagram_caption": "A $100 million funding round just landed on a security startup—because companies are realizing their AI systems have blind spots that standard defenses can't see. 🔍\n\nMost security tools scan networks and code, but they ignore the machine learning models themselves. HiddenLayer just raised $100M to fix exactly that gap. 🛡️\n\nThe risk is concrete: your AI's blind spots can quietly leak sensitive data through everyday interactions, without any alarm ever ringing. 💸\n\nIf you're building content or tools with AI, ask yourself: when was the last time you audited the model itself, not just the code around it?\n\nDo you know where your AI's blind spots are? 🎯",
+      "carousel_slides": [
+        {
+          "hook": "Your AI has a blind spot",
+          "description": "Enterprises are investing heavily in AI security, but most still ignore the models themselves, exposing hidden risks.",
+          "visual_hint": "AI model with gap",
+          "image_query": "server room",
+          "layout_type": "hero",
+          "icon": "tag"
+        },
+        {
+          "hook": "Why is AI security booming?",
+          "description": "Daily AI deployments reveal unseen vulnerabilities that standard security tools overlook, leaving models exposed.",
+          "visual_hint": "Network vs AI contrast",
+          "image_query": "network cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI leaks data silently",
+          "description": "Blind spots in machine learning models can quietly expose sensitive data through everyday interactions, no alarms triggered.",
+          "visual_hint": "Data leaking from model",
+          "image_query": "data center",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "HiddenLayer's $100M signal",
+          "description": "The $100M investment signals enterprises recognize AI-specific defenses are missing—are you ready?",
+          "visual_hint": "Money bag with shield",
+          "image_query": "stock market chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this AI security checklist",
+          "description": "Assess your AI defenses now: run an AI-specific security assessment before attackers exploit your blind spots.",
+          "visual_hint": "Checklist on laptop",
+          "image_query": "laptop checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
+      "savedAt": "2026-09-02T20:19:19.550Z",
+      "sourceId": "b655f5964665672692784cc9ff70263e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "india-s-richest-man-now-wants-to-turn-aging-comput",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "slides": [
+        "Mukesh Ambani targets aging PCs—can they become AI-ready?",
+        "His plan upgrades millions of outdated machines cheaply.",
+        "Surprise: AI tasks run on recycled hardware more often.",
+        "Your old device could get new life without costly upgrades.",
+        "Test one legacy PC against modern AI requirements today."
+      ],
+      "thread_text": [
+        "1. Your PC is obsolete\n\nMukesh Ambani is buying up millions of aging PCs to turn them into AI machines, and the trick is cheaper than you think.",
+        "2. The cheap fix\n\nHe avoids buying new hardware by upgrading just the RAM and storage, making old machines run AI workloads surprisingly well.",
+        "3. The surprise twist\n\nRecycled desktops are outperforming new ones in certain AI tasks because they have more standard ports for accelerators.",
+        "4. The breakdown risk\n\nBut these legacy systems can fail without warning, so Ambani's team has built software to monitor them remotely in real time.",
+        "5. Test your own rig\n\nRun a local AI model like Llama on a 5-year-old PC today. If it works, you just saved thousands—so why buy new?"
+      ],
+      "video_script": [
+        "Old computers can run AI, surprisingly.",
+        "Ambani upgrades them without buying new hardware.",
+        "Recycled machines sometimes beat brand-new ones.",
+        "But they might crash, so monitor them remotely.",
+        "Test your old PC with AI today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your PC is obsolete\n\nMukesh Ambani is buying up millions of aging PCs to turn them into AI machines, and the trick is cheaper than you think.",
+            "2. The cheap fix\n\nHe avoids buying new hardware by upgrading just the RAM and storage, making old machines run AI workloads surprisingly well.",
+            "3. The surprise twist\n\nRecycled desktops are outperforming new ones in certain AI tasks because they have more standard ports for accelerators.",
+            "4. The breakdown risk\n\nBut these legacy systems can fail without warning, so Ambani's team has built software to monitor them remotely in real time.",
+            "5. Test your own rig\n\nRun a local AI model like Llama on a 5-year-old PC today. If it works, you just saved thousands—so why buy new?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Old computers can run AI, surprisingly.",
+            "Ambani upgrades them without buying new hardware.",
+            "Recycled machines sometimes beat brand-new ones.",
+            "But they might crash, so monitor them remotely.",
+            "Test your old PC with AI today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your 5-year-old PC might be worth more than you think.\n\nMukesh Ambani is buying millions of aging computers and upgrading only the RAM and storage—skipping new processors entirely. Recycled desktops are actually beating new machines in some AI tasks because they have more standard ports for accelerators.\n\nThe catch? Legacy hardware can crash without warning, so his team built remote monitoring software to catch failures in real time.\n\nFor anyone creating content: your old machine can run AI workloads today. No need to drop thousands on a new rig.\n\nWhen did you last run an AI model on your current computer—or have you assumed it wouldn't work?\n\n🖥️⚡🔄💡"
+        }
+      },
+      "instagram_caption": "Your 5-year-old PC might be worth more than you think.\n\nMukesh Ambani is buying millions of aging computers and upgrading only the RAM and storage—skipping new processors entirely. Recycled desktops are actually beating new machines in some AI tasks because they have more standard ports for accelerators.\n\nThe catch? Legacy hardware can crash without warning, so his team built remote monitoring software to catch failures in real time.\n\nFor anyone creating content: your old machine can run AI workloads today. No need to drop thousands on a new rig.\n\nWhen did you last run an AI model on your current computer—or have you assumed it wouldn't work?\n\n🖥️⚡🔄💡",
+      "carousel_slides": [
+        {
+          "hook": "Your old PC might outperform new ones?",
+          "description": "Recycled desktops with more standard ports for AI accelerators are beating new machines in certain AI tasks. Upgrade RAM and storage instead of buying new.",
+          "visual_hint": "Stack of old PCs glowing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "old computer hardware"
+        },
+        {
+          "hook": "Skip new hardware, just upgrade two parts.",
+          "description": "By upgrading only RAM and storage, Ambani makes aging machines run AI workloads surprisingly well. A cheap fix that avoids costly PC replacements.",
+          "visual_hint": "RAM and SSD close-up",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer ram upgrade",
+          "image": "https://images.pexels.com/photos/33792050/pexels-photo-33792050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Recycled PCs shock with AI speed.",
+          "description": "Standard ports on older desktops allow easy attachment of AI accelerators, so they outperform newer models in some tasks. The twist no one saw coming.",
+          "visual_hint": "Ports and accelerator plugged",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "usb ports computer",
+          "image": "https://images.pexels.com/photos/5474284/pexels-photo-5474284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But these old machines can fail silently.",
+          "description": "Legacy systems risk unexpected breakdowns, so Ambani's team built software to monitor them remotely in real time. Protection is essential for reliability.",
+          "visual_hint": "Hand pointing at monitoring screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer monitoring software",
+          "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your 5-year-old PC with Llama now.",
+          "description": "Run a local AI model like Llama on your old PC today. If it works, you save thousands. Why buy new when recycled works?",
+          "visual_hint": "Person clicking test button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop with code",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/jiopc.jpg?resize=1200,800",
+      "savedAt": "2026-09-02T20:19:10.040Z",
+      "sourceId": "bf628eb62ed990bd05a20b2a53f6c675"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "us-government-sides-with-openai-on-issue-of-traini",
       "prompt_version": "1.0.0",
       "status": "published",
