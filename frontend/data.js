@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-accuses-openai-of-destroying-evidence",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "pubDate": "2026-09-01T18:19:26.000Z",
+    "slides": [
+      "Why did Apple delete the evidence trail?",
+      "Accusation targets OpenAI's data retention policies.",
+      "OpenAI's own tools may have auto-purged key records.",
+      "Your legal data could vanish with default settings.",
+      "Audit your retention policies before Apple does."
+    ],
+    "thread_text": [
+      "1. Apple erased the clues?\n\nOpenAI's auto-delete feature may have wiped the exact data Apple's investigators needed to see.",
+      "2. How defaults hide truth\n\nData retention policies often auto-purge records after 30 days—long before legal disputes surface.",
+      "3. The twist: AI's own tools\n\nOpenAI's internal systems use the same default settings they sell to you, so their logs vanished too.",
+      "4. Your legal data is at risk\n\nIf your company uses AI tools with default retention, you could lose evidence in an active investigation.",
+      "5. Audit before Apple knocks\n\nReview your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt."
+    ],
+    "video_script": [
+      "Apple deleted evidence?",
+      "OpenAI auto-purged key records.",
+      "Defaults can kill legal data.",
+      "Check your retention settings now.",
+      "Before someone audits you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Apple erased the clues?\n\nOpenAI's auto-delete feature may have wiped the exact data Apple's investigators needed to see.",
+          "2. How defaults hide truth\n\nData retention policies often auto-purge records after 30 days—long before legal disputes surface.",
+          "3. The twist: AI's own tools\n\nOpenAI's internal systems use the same default settings they sell to you, so their logs vanished too.",
+          "4. Your legal data is at risk\n\nIf your company uses AI tools with default retention, you could lose evidence in an active investigation.",
+          "5. Audit before Apple knocks\n\nReview your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple deleted evidence?",
+          "OpenAI auto-purged key records.",
+          "Defaults can kill legal data.",
+          "Check your retention settings now.",
+          "Before someone audits you."
+        ]
+      },
+      "instagram": {
+        "caption": "Apple’s lawyers asked OpenAI for internal records—and the reply was basically: *gone*. OpenAI’s own default data-retention settings auto-purged the logs after 30 days, wiping the exact evidence Apple’s investigators wanted. 🧾\n\nThat’s the twist: OpenAI sells AI tools that quietly delete old data. Their internal systems run on the same defaults. So when Apple came knocking, key records had already vanished. 🕳️\n\nIf your company uses AI tools with default retention, you could lose evidence mid-investigation. That’s not hypothetical—it just happened to OpenAI. 😬\n\nWhen did you last check how long your AI chat logs are actually kept? ⏳"
+      }
+    },
+    "instagram_caption": "Apple’s lawyers asked OpenAI for internal records—and the reply was basically: *gone*. OpenAI’s own default data-retention settings auto-purged the logs after 30 days, wiping the exact evidence Apple’s investigators wanted. 🧾\n\nThat’s the twist: OpenAI sells AI tools that quietly delete old data. Their internal systems run on the same defaults. So when Apple came knocking, key records had already vanished. 🕳️\n\nIf your company uses AI tools with default retention, you could lose evidence mid-investigation. That’s not hypothetical—it just happened to OpenAI. 😬\n\nWhen did you last check how long your AI chat logs are actually kept? ⏳",
+    "carousel_slides": [
+      {
+        "hook": "Your data may self-destruct in 30 days",
+        "description": "Apple claims OpenAI's auto-delete wiped evidence investigators needed. Default settings often purge records before legal disputes even surface.",
+        "visual_hint": "Deleting file icon with clock",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data server room"
+      },
+      {
+        "hook": "How defaults hide the truth",
+        "description": "Many AI tools automatically erase logs after 30 days—long before your company faces a lawsuit. That's what Apple found at OpenAI.",
+        "visual_hint": "Calendar highlighting day 30",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar closeup",
+        "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI's own tools deleted their logs",
+        "description": "OpenAI's internal systems use the same default retention settings they sell to you. Result: their evidence vanished too.",
+        "visual_hint": "Robot arm erasing hard drive",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm technology",
+        "image": "https://images.pexels.com/photos/7688549/pexels-photo-7688549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your legal data is at risk too",
+        "description": "If your company relies on AI tools with default retention, you could lose evidence during an active investigation—just like OpenAI.",
+        "visual_hint": "Gavel next to data stream",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "law court gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before Apple knocks",
+        "description": "Audit your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt.",
+        "visual_hint": "Shield with checkmark and folder",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "folder with lock",
+        "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "savedAt": "2026-09-02T13:59:44.616Z",
+    "sourceId": "e3460402ad1dfabce4437f9b4f2d23b5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-delayed-its-new-model-s-development-after-t",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "pubDate": "2026-09-01T20:45:49.000Z",
+    "slides": [
+      "Could one breach silence OpenAI's next model?",
+      "The Hugging Face hack paused their latest training run.",
+      "Stolen code may expose critical reasoning vulnerabilities.",
+      "This shifts release timelines and security review standards.",
+      "Audit your AI supply chain before announcing anything."
+    ],
+    "thread_text": [
+      "1. Security breach delays AI\n\nA leaked internal memo reveals the breach occurred during a routine security audit, catching the team off guard.",
+      "2. Hack exposes reasoning flaws\n\nThe stolen code contained hidden test cases that triggered critical errors in the model's logic, not just data leaks.",
+      "3. Timeline shift inevitable\n\nThis forces a complete re-evaluation of their security protocols, pushing the release date back by at least two quarters.",
+      "4. Industry standards questioned\n\nThe incident sparks debate on whether current security review standards are adequate for advanced AI systems.",
+      "5. Audit your supply chain\n\nCheck your CI/CD pipeline for vulnerabilities today. If you haven't simulated a breach scenario, start there."
+    ],
+    "video_script": [
+      "A single breach could delay OpenAI's next release.",
+      "The Hugging Face hack halted their latest training run.",
+      "Stolen code revealed critical reasoning loopholes.",
+      "Release dates shift and security reviews tighten.",
+      "Audit your AI supply chain before you announce."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Security breach delays AI\n\nA leaked internal memo reveals the breach occurred during a routine security audit, catching the team off guard.",
+          "2. Hack exposes reasoning flaws\n\nThe stolen code contained hidden test cases that triggered critical errors in the model's logic, not just data leaks.",
+          "3. Timeline shift inevitable\n\nThis forces a complete re-evaluation of their security protocols, pushing the release date back by at least two quarters.",
+          "4. Industry standards questioned\n\nThe incident sparks debate on whether current security review standards are adequate for advanced AI systems.",
+          "5. Audit your supply chain\n\nCheck your CI/CD pipeline for vulnerabilities today. If you haven't simulated a breach scenario, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A single breach could delay OpenAI's next release.",
+          "The Hugging Face hack halted their latest training run.",
+          "Stolen code revealed critical reasoning loopholes.",
+          "Release dates shift and security reviews tighten.",
+          "Audit your AI supply chain before you announce."
+        ]
+      },
+      "instagram": {
+        "caption": "A security breach at Hugging Face has forced OpenAI to pause training on its next model. 🛑\n\nThe stolen code didn’t just leak data—it exposed hidden test cases that broke the model’s reasoning logic. That’s why the timeline is slipping by at least two quarters, per the internal memo.\n\nFor anyone shipping content or tools that rely on AI: your supply chain is only as safe as its weakest login. One exposed token can stall your roadmap for months.\n\nWhen did you last run a breach simulation on your own pipeline—not just a review? 🔍"
+      }
+    },
+    "instagram_caption": "A security breach at Hugging Face has forced OpenAI to pause training on its next model. 🛑\n\nThe stolen code didn’t just leak data—it exposed hidden test cases that broke the model’s reasoning logic. That’s why the timeline is slipping by at least two quarters, per the internal memo.\n\nFor anyone shipping content or tools that rely on AI: your supply chain is only as safe as its weakest login. One exposed token can stall your roadmap for months.\n\nWhen did you last run a breach simulation on your own pipeline—not just a review? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Stolen code, hidden traps, model halted.",
+        "description": "A leaked memo reveals the breach happened during a routine audit, catching the team off guard and pausing the latest training run.",
+        "visual_hint": "Hacker code on monitor",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Hack exposed logic flaws, not just data leak.",
+        "description": "The stolen code contained hidden test cases that triggered critical reasoning errors in the model's logic, not just data leaks.",
+        "visual_hint": "Faulty circuit diagram",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Release pushed back two quarters minimum.",
+        "description": "This forces a complete security re-evaluation, shifting the release timeline to at least two quarters later.",
+        "visual_hint": "Calendar with arrows pushing dates",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "calendar schedule",
+        "image": "https://images.pexels.com/photos/29509509/pexels-photo-29509509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Are current security reviews enough for AI?",
+        "description": "The incident sparks debate on whether industry security review standards are adequate for advanced AI systems.",
+        "visual_hint": "Question mark over guidelines",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and audit your AI supply chain.",
+        "description": "Check your CI/CD pipeline for vulnerabilities today. Start with a simulated breach scenario to expose weak points.",
+        "visual_hint": "Magnifying glass over pipeline",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-02T13:59:33.648Z",
+    "sourceId": "efa072877e6bd11843eed35c596a7804"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "adobe-is-making-its-tools-available-in-slack",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Adobe is making its tools available in Slack",
+    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "pubDate": "Wed, 02 Sep 2026 13:09:27 +0000",
+    "slides": [
+      "Adobe enters Slack—but what does it change?",
+      "Its tools now live inside your chat window.",
+      "Design approvals could skip email entirely.",
+      "Your team's workflow may finally feel seamless.",
+      "Test one workflow in Slack today—no setup."
+    ],
+    "thread_text": [
+      "1. What if email dies?\n\nAdobe's new Slack integration means design approvals could happen without a single email thread. Your team's chat window is now the review room.",
+      "2. The context shift\n\nThis isn't just another app connector. It's Adobe's tools living inside the conversation—so the work and the discussion finally share one space.",
+      "3. The twist\n\nWhen approvals happen in Slack, who owns the 'paper trail'? Compliance teams might need to rethink audit logs for visual decisions.",
+      "4. The consequence\n\nIf design feedback happens where you already chat, the approval loop shrinks from days to minutes. But only if your team actually adopts it.",
+      "5. Test it this week\n\nPaste one design file link into a Slack channel with a stakeholder. If the feedback stays in-thread, you've found your new approval workflow."
+    ],
+    "video_script": [
+      "Adobe tools now inside Slack.",
+      "Email approvals could disappear completely.",
+      "Design feedback happens where you chat.",
+      "Workflow feels seamless for your team.",
+      "Test one workflow in Slack today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. What if email dies?\n\nAdobe's new Slack integration means design approvals could happen without a single email thread. Your team's chat window is now the review room.",
+          "2. The context shift\n\nThis isn't just another app connector. It's Adobe's tools living inside the conversation—so the work and the discussion finally share one space.",
+          "3. The twist\n\nWhen approvals happen in Slack, who owns the 'paper trail'? Compliance teams might need to rethink audit logs for visual decisions.",
+          "4. The consequence\n\nIf design feedback happens where you already chat, the approval loop shrinks from days to minutes. But only if your team actually adopts it.",
+          "5. Test it this week\n\nPaste one design file link into a Slack channel with a stakeholder. If the feedback stays in-thread, you've found your new approval workflow."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Adobe tools now inside Slack.",
+          "Email approvals could disappear completely.",
+          "Design feedback happens where you chat.",
+          "Workflow feels seamless for your team.",
+          "Test one workflow in Slack today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your design approvals just left your inbox. Slacks now the review room—Adobe’s tools are embedded right in the chat window, so you can comment and edit without switching tabs. That means no more “checking the thread” or chasing email chains for a sign-off. For anyone creating content, a feedback loop that took two days can shrink to two minutes. 🗂️ But here’s the catch: if the decision happens in Slack, who keeps the audit trail for compliance? ⚖️\n\nSo—will you test one workflow this week, or let the paper trail decide for you? 📎"
+      }
+    },
+    "instagram_caption": "Your design approvals just left your inbox. Slacks now the review room—Adobe’s tools are embedded right in the chat window, so you can comment and edit without switching tabs. That means no more “checking the thread” or chasing email chains for a sign-off. For anyone creating content, a feedback loop that took two days can shrink to two minutes. 🗂️ But here’s the catch: if the decision happens in Slack, who keeps the audit trail for compliance? ⚖️\n\nSo—will you test one workflow this week, or let the paper trail decide for you? 📎",
+    "carousel_slides": [
+      {
+        "hook": "Who owns the paper trail?",
+        "description": "Adobe's Slack integration moves design approvals into chat, but compliance teams may need to rethink audit logs for visual decisions.",
+        "visual_hint": "Chat window with audit log icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chat window interface"
+      },
+      {
+        "hook": "Adobe tools inside your chat",
+        "description": "Adobe's tools now live inside Slack conversations, so the work and discussion finally share one space. No more switching apps.",
+        "visual_hint": "Adobe panel inside Slack sidebar",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Slack app interface",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Email could become obsolete",
+        "description": "Design approvals might skip email entirely. Your chat window becomes the review room, shrinking feedback loops from days to minutes.",
+        "visual_hint": "Email thread transforming into chat bubble",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "email icon screen",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Seamless workflow? Only if adopted",
+        "description": "If design feedback happens where you already chat, approvals shrink from days to minutes. But adoption is key.",
+        "visual_hint": "Team collaborating around a desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers collaborating",
+        "image": "https://images.pexels.com/photos/12902909/pexels-photo-12902909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one workflow in Slack today",
+        "description": "Paste a design file link into a Slack channel with a stakeholder. If feedback stays in-thread, you found your new approval workflow.",
+        "visual_hint": "Paste link into Slack channel",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer keyboard closeup",
+        "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
+    "savedAt": "2026-09-02T13:59:22.769Z",
+    "sourceId": "e584f4b64ca599bc34d5b90c623be423"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "fambot-introduces-an-ai-chief-of-staff-for-familie",
     "prompt_version": "1.0.0",
     "status": "published",

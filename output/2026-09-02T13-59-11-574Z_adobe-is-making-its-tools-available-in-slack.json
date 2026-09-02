@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adobe-is-making-its-tools-available-in-slack",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adobe is making its tools available in Slack",
+  "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+  "pubDate": "Wed, 02 Sep 2026 13:09:27 +0000",
+  "slides": [
+    "Adobe enters Slack—but what does it change?",
+    "Its tools now live inside your chat window.",
+    "Design approvals could skip email entirely.",
+    "Your team's workflow may finally feel seamless.",
+    "Test one workflow in Slack today—no setup."
+  ],
+  "thread_text": [
+    "1. What if email dies?\n\nAdobe's new Slack integration means design approvals could happen without a single email thread. Your team's chat window is now the review room.",
+    "2. The context shift\n\nThis isn't just another app connector. It's Adobe's tools living inside the conversation—so the work and the discussion finally share one space.",
+    "3. The twist\n\nWhen approvals happen in Slack, who owns the 'paper trail'? Compliance teams might need to rethink audit logs for visual decisions.",
+    "4. The consequence\n\nIf design feedback happens where you already chat, the approval loop shrinks from days to minutes. But only if your team actually adopts it.",
+    "5. Test it this week\n\nPaste one design file link into a Slack channel with a stakeholder. If the feedback stays in-thread, you've found your new approval workflow."
+  ],
+  "video_script": [
+    "Adobe tools now inside Slack.",
+    "Email approvals could disappear completely.",
+    "Design feedback happens where you chat.",
+    "Workflow feels seamless for your team.",
+    "Test one workflow in Slack today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if email dies?\n\nAdobe's new Slack integration means design approvals could happen without a single email thread. Your team's chat window is now the review room.",
+        "2. The context shift\n\nThis isn't just another app connector. It's Adobe's tools living inside the conversation—so the work and the discussion finally share one space.",
+        "3. The twist\n\nWhen approvals happen in Slack, who owns the 'paper trail'? Compliance teams might need to rethink audit logs for visual decisions.",
+        "4. The consequence\n\nIf design feedback happens where you already chat, the approval loop shrinks from days to minutes. But only if your team actually adopts it.",
+        "5. Test it this week\n\nPaste one design file link into a Slack channel with a stakeholder. If the feedback stays in-thread, you've found your new approval workflow."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adobe tools now inside Slack.",
+        "Email approvals could disappear completely.",
+        "Design feedback happens where you chat.",
+        "Workflow feels seamless for your team.",
+        "Test one workflow in Slack today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your design approvals just left your inbox. Slacks now the review room—Adobe’s tools are embedded right in the chat window, so you can comment and edit without switching tabs. That means no more “checking the thread” or chasing email chains for a sign-off. For anyone creating content, a feedback loop that took two days can shrink to two minutes. 🗂️ But here’s the catch: if the decision happens in Slack, who keeps the audit trail for compliance? ⚖️\n\nSo—will you test one workflow this week, or let the paper trail decide for you? 📎"
+    }
+  },
+  "instagram_caption": "Your design approvals just left your inbox. Slacks now the review room—Adobe’s tools are embedded right in the chat window, so you can comment and edit without switching tabs. That means no more “checking the thread” or chasing email chains for a sign-off. For anyone creating content, a feedback loop that took two days can shrink to two minutes. 🗂️ But here’s the catch: if the decision happens in Slack, who keeps the audit trail for compliance? ⚖️\n\nSo—will you test one workflow this week, or let the paper trail decide for you? 📎",
+  "carousel_slides": [
+    {
+      "hook": "Who owns the paper trail?",
+      "description": "Adobe's Slack integration moves design approvals into chat, but compliance teams may need to rethink audit logs for visual decisions.",
+      "visual_hint": "Chat window with audit log icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chat window interface"
+    },
+    {
+      "hook": "Adobe tools inside your chat",
+      "description": "Adobe's tools now live inside Slack conversations, so the work and discussion finally share one space. No more switching apps.",
+      "visual_hint": "Adobe panel inside Slack sidebar",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Slack app interface",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Email could become obsolete",
+      "description": "Design approvals might skip email entirely. Your chat window becomes the review room, shrinking feedback loops from days to minutes.",
+      "visual_hint": "Email thread transforming into chat bubble",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "email icon screen",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Seamless workflow? Only if adopted",
+      "description": "If design feedback happens where you already chat, approvals shrink from days to minutes. But adoption is key.",
+      "visual_hint": "Team collaborating around a desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers collaborating",
+      "image": "https://images.pexels.com/photos/12902909/pexels-photo-12902909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one workflow in Slack today",
+      "description": "Paste a design file link into a Slack channel with a stakeholder. If feedback stays in-thread, you found your new approval workflow.",
+      "visual_hint": "Paste link into Slack channel",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer keyboard closeup",
+      "image": "https://images.pexels.com/photos/28993049/pexels-photo-28993049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
+  "savedAt": "2026-09-02T13:59:22.769Z",
+  "sourceId": "e584f4b64ca599bc34d5b90c623be423"
+}

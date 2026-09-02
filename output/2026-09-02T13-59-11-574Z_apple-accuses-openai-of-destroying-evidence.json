@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-accuses-openai-of-destroying-evidence",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple accuses OpenAI of destroying evidence",
+  "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+  "pubDate": "2026-09-01T18:19:26.000Z",
+  "slides": [
+    "Why did Apple delete the evidence trail?",
+    "Accusation targets OpenAI's data retention policies.",
+    "OpenAI's own tools may have auto-purged key records.",
+    "Your legal data could vanish with default settings.",
+    "Audit your retention policies before Apple does."
+  ],
+  "thread_text": [
+    "1. Apple erased the clues?\n\nOpenAI's auto-delete feature may have wiped the exact data Apple's investigators needed to see.",
+    "2. How defaults hide truth\n\nData retention policies often auto-purge records after 30 days—long before legal disputes surface.",
+    "3. The twist: AI's own tools\n\nOpenAI's internal systems use the same default settings they sell to you, so their logs vanished too.",
+    "4. Your legal data is at risk\n\nIf your company uses AI tools with default retention, you could lose evidence in an active investigation.",
+    "5. Audit before Apple knocks\n\nReview your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt."
+  ],
+  "video_script": [
+    "Apple deleted evidence?",
+    "OpenAI auto-purged key records.",
+    "Defaults can kill legal data.",
+    "Check your retention settings now.",
+    "Before someone audits you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Apple erased the clues?\n\nOpenAI's auto-delete feature may have wiped the exact data Apple's investigators needed to see.",
+        "2. How defaults hide truth\n\nData retention policies often auto-purge records after 30 days—long before legal disputes surface.",
+        "3. The twist: AI's own tools\n\nOpenAI's internal systems use the same default settings they sell to you, so their logs vanished too.",
+        "4. Your legal data is at risk\n\nIf your company uses AI tools with default retention, you could lose evidence in an active investigation.",
+        "5. Audit before Apple knocks\n\nReview your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple deleted evidence?",
+        "OpenAI auto-purged key records.",
+        "Defaults can kill legal data.",
+        "Check your retention settings now.",
+        "Before someone audits you."
+      ]
+    },
+    "instagram": {
+      "caption": "Apple’s lawyers asked OpenAI for internal records—and the reply was basically: *gone*. OpenAI’s own default data-retention settings auto-purged the logs after 30 days, wiping the exact evidence Apple’s investigators wanted. 🧾\n\nThat’s the twist: OpenAI sells AI tools that quietly delete old data. Their internal systems run on the same defaults. So when Apple came knocking, key records had already vanished. 🕳️\n\nIf your company uses AI tools with default retention, you could lose evidence mid-investigation. That’s not hypothetical—it just happened to OpenAI. 😬\n\nWhen did you last check how long your AI chat logs are actually kept? ⏳"
+    }
+  },
+  "instagram_caption": "Apple’s lawyers asked OpenAI for internal records—and the reply was basically: *gone*. OpenAI’s own default data-retention settings auto-purged the logs after 30 days, wiping the exact evidence Apple’s investigators wanted. 🧾\n\nThat’s the twist: OpenAI sells AI tools that quietly delete old data. Their internal systems run on the same defaults. So when Apple came knocking, key records had already vanished. 🕳️\n\nIf your company uses AI tools with default retention, you could lose evidence mid-investigation. That’s not hypothetical—it just happened to OpenAI. 😬\n\nWhen did you last check how long your AI chat logs are actually kept? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your data may self-destruct in 30 days",
+      "description": "Apple claims OpenAI's auto-delete wiped evidence investigators needed. Default settings often purge records before legal disputes even surface.",
+      "visual_hint": "Deleting file icon with clock",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data server room"
+    },
+    {
+      "hook": "How defaults hide the truth",
+      "description": "Many AI tools automatically erase logs after 30 days—long before your company faces a lawsuit. That's what Apple found at OpenAI.",
+      "visual_hint": "Calendar highlighting day 30",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar closeup",
+      "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI's own tools deleted their logs",
+      "description": "OpenAI's internal systems use the same default retention settings they sell to you. Result: their evidence vanished too.",
+      "visual_hint": "Robot arm erasing hard drive",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm technology",
+      "image": "https://images.pexels.com/photos/7688549/pexels-photo-7688549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your legal data is at risk too",
+      "description": "If your company relies on AI tools with default retention, you could lose evidence during an active investigation—just like OpenAI.",
+      "visual_hint": "Gavel next to data stream",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "law court gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before Apple knocks",
+      "description": "Audit your retention settings today: set them to keep logs for at least 90 days, and test with a real prompt.",
+      "visual_hint": "Shield with checkmark and folder",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "folder with lock",
+      "image": "https://images.pexels.com/photos/8297536/pexels-photo-8297536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-02T13:59:44.616Z",
+  "sourceId": "e3460402ad1dfabce4437f9b4f2d23b5"
+}
