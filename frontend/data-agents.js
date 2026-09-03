@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-needs-hollywood-more-than-the-studios-need-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "pubDate": "2026-09-01T22:50:29.000Z",
+      "slides": [
+        "Why does Google suddenly court Hollywood?",
+        "Gemini lacks cinematic storytelling data.",
+        "Studios possess irreplaceable emotional narrative archives.",
+        "Exclusive licensing deals just became strategic necessity.",
+        "Licensing secret: negotiate for nuanced content immediately."
+      ],
+      "thread_text": [
+        "1. The Data Drought\n\nGoogle's AI gem lacks the emotional depth only studios possess, forcing a strategic pivot to Hollywood.",
+        "2. Why Studios Win\n\nTheir archives hold irreplaceable narrative secrets that algorithms can't replicate from synthetic data alone.",
+        "3. Licensing Is Now Tactical\n\nExclusive deals aren't just legal shields; they're to secure the nuanced storytelling data Gemini desperately needs.",
+        "4. The Negotiation Trap\n\nIf you wait for standard terms, you'll get generic content—demand the nuanced archives that give real competitive edge.",
+        "5. Your Next Move\n\nAudit your company's proprietary data—what exclusive story could you license today to train a smarter AI?"
+      ],
+      "video_script": [
+        "Google needs Hollywood's stories because AI lacks emotional data.",
+        "Studios own priceless narrative archives, making them essential partners.",
+        "Licensing now means securing exclusive, nuanced content for AI.",
+        "Don't settle for generic rights; negotiate for the deep vaults.",
+        "Check your own data for untapped storytelling value now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Data Drought\n\nGoogle's AI gem lacks the emotional depth only studios possess, forcing a strategic pivot to Hollywood.",
+            "2. Why Studios Win\n\nTheir archives hold irreplaceable narrative secrets that algorithms can't replicate from synthetic data alone.",
+            "3. Licensing Is Now Tactical\n\nExclusive deals aren't just legal shields; they're to secure the nuanced storytelling data Gemini desperately needs.",
+            "4. The Negotiation Trap\n\nIf you wait for standard terms, you'll get generic content—demand the nuanced archives that give real competitive edge.",
+            "5. Your Next Move\n\nAudit your company's proprietary data—what exclusive story could you license today to train a smarter AI?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google needs Hollywood's stories because AI lacks emotional data.",
+            "Studios own priceless narrative archives, making them essential partners.",
+            "Licensing now means securing exclusive, nuanced content for AI.",
+            "Don't settle for generic rights; negotiate for the deep vaults.",
+            "Check your own data for untapped storytelling value now."
+          ]
+        },
+        "instagram": {
+          "caption": "Hollywood’s back catalog is now the most valuable training data on Earth—and Google knows it.  \n\nGemini can’t simulate emotional depth from synthetic text alone. Studios hold decades of nuanced storytelling that algorithms can’t invent. That’s why Google is suddenly chasing exclusive licensing deals instead of just scraping the open web.  \n\nFor creators and publishers: your past work just became a bargaining chip. Don’t sell it for flat fees—license the *specific* emotional arcs that make your archive irreplaceable.  \n\nWhat proprietary story could you license today before the standard terms lock you out? 🎬🧠📼"
+        }
+      },
+      "instagram_caption": "Hollywood’s back catalog is now the most valuable training data on Earth—and Google knows it.  \n\nGemini can’t simulate emotional depth from synthetic text alone. Studios hold decades of nuanced storytelling that algorithms can’t invent. That’s why Google is suddenly chasing exclusive licensing deals instead of just scraping the open web.  \n\nFor creators and publishers: your past work just became a bargaining chip. Don’t sell it for flat fees—license the *specific* emotional arcs that make your archive irreplaceable.  \n\nWhat proprietary story could you license today before the standard terms lock you out? 🎬🧠📼",
+      "carousel_slides": [
+        {
+          "hook": "Why is Google suddenly courting Hollywood?",
+          "description": "Google's Gemini lacks cinematic storytelling data, but studios hold irreplaceable emotional archives. That gap forces strategic partnerships for exclusive access.",
+          "visual_hint": "Google and Hollywood logos merging",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Google Hollywood logos"
+        },
+        {
+          "hook": "Studios hold the real gold",
+          "description": "Their archives contain narrative secrets that synthetic data can't replicate, giving them leverage in AI training deals.",
+          "visual_hint": "Film reel with data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "film reel",
+          "image": "https://images.pexels.com/photos/34084882/pexels-photo-34084882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Licensing is now a weapon",
+          "description": "Exclusive deals aren't just legal shields—they secure the nuanced storytelling data that makes AI models competitive.",
+          "visual_hint": "Contract with glowing AI core",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Don't settle for generic terms",
+          "description": "Standard licensing yields generic content. Demand nuanced archives to gain a real edge over competitors.",
+          "visual_hint": "Hand negotiating over documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your data today",
+          "description": "Identify your proprietary stories—could they train a smarter AI? License them now before competitors do.",
+          "visual_hint": "Person checking data inventory",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.885618424569%2C100%2C74.228763150863&amp;w=1200",
+      "savedAt": "2026-09-03T14:01:31.953Z",
+      "sourceId": "07189f8e1b7316168fe6bbb895df334f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nyc-bans-ai-use-for-students-until-they-reach-high",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "NYC bans AI use for students until they reach high school",
+      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "pubDate": "2026-09-02T14:30:00.000Z",
+      "slides": [
+        "NYC bans student AI until high school—but why now?",
+        "This rule follows rising cheating incidents in middle schools.",
+        "Yet the ban excludes teachers, who can still use AI tools.",
+        "Middle schoolers must adapt to outdated methods until 9th grade.",
+        "Parents: ask schools how this prepares kids for AI-driven futures."
+      ],
+      "thread_text": [
+        "1. Wait, they banned AI? \n\nNYC just restricted student AI use until high school — no exceptions for middle schoolers. The stated reason? A rise in cheating incidents.",
+        "2. But teachers keep their tools.\n\nThe ban targets students only. Educators can still use AI for lesson plans and grading. So who exactly is being protected from what?",
+        "3. Outdated until freshman year.\n\nMiddle schoolers now practice handwriting and rote memorization while high schoolers get AI prep. That gap isn't neutral — it's a training divide.",
+        "4. What about the cheating hysteria?\n\nThe cheating spike is real, but the policy punishes everyone for a few. Instead of teaching responsible use, they removed the tool entirely.",
+        "5. Ask your school this today.\n\nIf you're a parent, ask: \"How does delaying AI exposure until 9th grade prepare my child for an AI-driven workplace?\" Demand a concrete answer."
+      ],
+      "video_script": [
+        "NYC just banned student AI use",
+        "But teachers can still use it",
+        "Middle schoolers stuck with outdated methods",
+        "Cheating incidents fueled the ban",
+        "Ask schools how this prepares kids"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Wait, they banned AI? \n\nNYC just restricted student AI use until high school — no exceptions for middle schoolers. The stated reason? A rise in cheating incidents.",
+            "2. But teachers keep their tools.\n\nThe ban targets students only. Educators can still use AI for lesson plans and grading. So who exactly is being protected from what?",
+            "3. Outdated until freshman year.\n\nMiddle schoolers now practice handwriting and rote memorization while high schoolers get AI prep. That gap isn't neutral — it's a training divide.",
+            "4. What about the cheating hysteria?\n\nThe cheating spike is real, but the policy punishes everyone for a few. Instead of teaching responsible use, they removed the tool entirely.",
+            "5. Ask your school this today.\n\nIf you're a parent, ask: \"How does delaying AI exposure until 9th grade prepare my child for an AI-driven workplace?\" Demand a concrete answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "NYC just banned student AI use",
+            "But teachers can still use it",
+            "Middle schoolers stuck with outdated methods",
+            "Cheating incidents fueled the ban",
+            "Ask schools how this prepares kids"
+          ]
+        },
+        "instagram": {
+          "caption": "Middle schoolers in NYC just lost access to AI tools until 9th grade—no exceptions, no pilot programs.  \n\nThe ban follows a spike in cheating incidents, but it only targets students. Teachers keep using AI for lesson plans and grading. So the message is: don't trust you with it, but we need it ourselves.  \n\nMeanwhile, high schoolers get AI prep. That gap means two generations of students trained differently for the same job market.  \n\nIf your school adopts similar rules, ask: what concrete skill is my kid gaining by waiting?  \n\nWhat would you tell a 13-year-old who asks why they're the only ones banned? 🤔📚🚫"
+        }
+      },
+      "instagram_caption": "Middle schoolers in NYC just lost access to AI tools until 9th grade—no exceptions, no pilot programs.  \n\nThe ban follows a spike in cheating incidents, but it only targets students. Teachers keep using AI for lesson plans and grading. So the message is: don't trust you with it, but we need it ourselves.  \n\nMeanwhile, high schoolers get AI prep. That gap means two generations of students trained differently for the same job market.  \n\nIf your school adopts similar rules, ask: what concrete skill is my kid gaining by waiting?  \n\nWhat would you tell a 13-year-old who asks why they're the only ones banned? 🤔📚🚫",
+      "carousel_slides": [
+        {
+          "hook": "Are middle schoolers being shortchanged?",
+          "description": "NYC's new ban keeps AI from middle school students until 9th grade, citing cheating. But teachers, unaffected, continue using their AI tools.",
+          "visual_hint": "School gate with AI symbol",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "school building entrance"
+        },
+        {
+          "hook": "Punished for someone else's actions",
+          "description": "The cheating spike is real, yet policy bans every middle schooler. No lessons in ethical use—the tool just disappears.",
+          "visual_hint": "Magnifying glass over AI code",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "magnifying glass circuit board",
+          "image": "https://images.pexels.com/photos/7286013/pexels-photo-7286013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "How to adapt to an AI world?",
+          "description": "Middle schoolers practice handwriting while high schoolers get AI-specific prep. This isn't neutral—it forges an educational and training divide driven by current policies.",
+          "visual_hint": "Pencil and robot arm divide",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm pencil",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why must kids' hands write only?",
+          "description": "Students under 9th grade follow outdated rote methods, yet high schools integrate digital AI. The policy denies early exposure when they most need guided learning.",
+          "visual_hint": "Handwriting next to glowing laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand writing laptop closeup",
+          "image": "https://images.pexels.com/photos/12899103/pexels-photo-12899103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: ask your school today",
+          "description": "Ask school leaders: how does delayed AI until 9th grade prepare kids for AI-driven jobs? Comment your district's answer, or share to alert other parents.",
+          "visual_hint": "Speech bubble with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "speech bubble question",
+          "image": "https://images.pexels.com/photos/5428831/pexels-photo-5428831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-03T14:01:21.207Z",
+      "sourceId": "24ecf9915c34c40316d6bb733343a3ec"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "amazon-s-zoox-expands-its-robotaxi-service-to-las-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "pubDate": "Thu, 03 Sep 2026 12:12:56 +0000",
+      "slides": [
+        "Can Zoox truly handle airport chaos?",
+        "It now serves Las Vegas airport rides.",
+        "No steering wheel, yet drives like a human.",
+        "Your next airport trip might be driverless.",
+        "Check if Zoox covers your route today."
+      ],
+      "thread_text": [
+        "1. No Steering Wheel, Real Airport Runs\n\nZoox is now giving driverless rides to Las Vegas airport passengers, with no human at the wheel. The vehicle navigates busy pickup zones autonomously.",
+        "2. How Does It Handle Chaos?\n\nThe key test: airport traffic with pedestrians, shuttles, and police. Zoox uses 360-degree sensors and human-like driving decisions to manage the unpredictability.",
+        "3. The Twist: It's Not a Car\n\nZoox is a purpose-built robotaxi with no steering wheel and no traditional front. It's designed exclusively for autonomous rides, not converted from a regular car.",
+        "4. The Consequence for Travelers\n\nYour next airport trip could be driverless. The service is live now, but only for certain routes—coverage is limited to specific areas in Las Vegas.",
+        "5. Check Your Route Today\n\nIs your airport route covered? Go to the Zoox app and see if you can book a ride from your location. If not, are you willing to wait until it expands?"
+      ],
+      "video_script": [
+        "Zoox now drives Las Vegas airport rides.",
+        "No steering wheel, but it handles chaos.",
+        "It's a purpose-built robotaxi, not a car.",
+        "Your next trip could be driverless.",
+        "Check the app to see if your route's covered."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. No Steering Wheel, Real Airport Runs\n\nZoox is now giving driverless rides to Las Vegas airport passengers, with no human at the wheel. The vehicle navigates busy pickup zones autonomously.",
+            "2. How Does It Handle Chaos?\n\nThe key test: airport traffic with pedestrians, shuttles, and police. Zoox uses 360-degree sensors and human-like driving decisions to manage the unpredictability.",
+            "3. The Twist: It's Not a Car\n\nZoox is a purpose-built robotaxi with no steering wheel and no traditional front. It's designed exclusively for autonomous rides, not converted from a regular car.",
+            "4. The Consequence for Travelers\n\nYour next airport trip could be driverless. The service is live now, but only for certain routes—coverage is limited to specific areas in Las Vegas.",
+            "5. Check Your Route Today\n\nIs your airport route covered? Go to the Zoox app and see if you can book a ride from your location. If not, are you willing to wait until it expands?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Zoox now drives Las Vegas airport rides.",
+            "No steering wheel, but it handles chaos.",
+            "It's a purpose-built robotaxi, not a car.",
+            "Your next trip could be driverless.",
+            "Check the app to see if your route's covered."
+          ]
+        },
+        "instagram": {
+          "caption": "A driverless Zoox robotaxi—no steering wheel, no human inside—is now picking up passengers at Las Vegas airport. 🚕\n\nThe vehicle navigates the busy pickup zone using 360-degree sensors and human-like driving decisions, designed specifically for autonomous rides, not converted from a regular car. It’s live now, but coverage is limited to certain routes in Vegas.\n\nFor you: airport content, travel reels, or location tags might soon feature driverless rides, but you can’t book one everywhere yet. 📍\n\nOpen the Zoox app and check if your route is covered—or would you trust a no-wheel car with your luggage? 🧳"
+        }
+      },
+      "instagram_caption": "A driverless Zoox robotaxi—no steering wheel, no human inside—is now picking up passengers at Las Vegas airport. 🚕\n\nThe vehicle navigates the busy pickup zone using 360-degree sensors and human-like driving decisions, designed specifically for autonomous rides, not converted from a regular car. It’s live now, but coverage is limited to certain routes in Vegas.\n\nFor you: airport content, travel reels, or location tags might soon feature driverless rides, but you can’t book one everywhere yet. 📍\n\nOpen the Zoox app and check if your route is covered—or would you trust a no-wheel car with your luggage? 🧳",
+      "carousel_slides": [
+        {
+          "hook": "Driverless, no steering wheel, flying through airport traffic?",
+          "description": "Zoox now runs driverless airport rides in Las Vegas, navigating chaotic pickup zones with no human inside.",
+          "visual_hint": "Autonomous shuttle in Las Vegas airport pickup zone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "autonomous shuttle Las Vegas"
+        },
+        {
+          "hook": "How does it handle airport chaos?",
+          "description": "360-degree sensors and human-like decisions let Zoox manage pedestrians, shuttles, and police in busy zones.",
+          "visual_hint": "Vehicle sensors scanning busy airport area",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "autonomous vehicle sensors airport",
+          "image": "https://images.pexels.com/photos/30488712/pexels-photo-30488712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "This is not your average car.",
+          "description": "Purpose-built robotaxi with no steering wheel or front seat, designed exclusively for autonomous rides.",
+          "visual_hint": "Interior with no steering wheel and passenger seats",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robotaxi interior no steering wheel",
+          "image": "https://images.pexels.com/photos/28178705/pexels-photo-28178705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next airport trip could be driverless.",
+          "description": "Zoox is live for airport rides in Las Vegas, but only on specific routes. Coverage is limited.",
+          "visual_hint": "Map showing route availability or app interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "Las Vegas map route",
+          "image": "https://images.pexels.com/photos/9576892/pexels-photo-9576892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your route, save this for later!",
+          "description": "Open the Zoox app and see if you can book a ride from your location to the airport. If not, wait for expansion.",
+          "visual_hint": "Person holding phone with app open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone app ride hailing",
+          "image": "https://images.pexels.com/photos/13801869/pexels-photo-13801869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+      "savedAt": "2026-09-03T14:01:07.117Z",
+      "sourceId": "7d2900496507db05198541e81f559046"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "techcrunch-disrupt-2026-s-new-real-world-ai-stage-",
       "prompt_version": "1.0.0",
       "status": "published",

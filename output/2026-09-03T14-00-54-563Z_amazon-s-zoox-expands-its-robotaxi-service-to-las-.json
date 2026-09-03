@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "amazon-s-zoox-expands-its-robotaxi-service-to-las-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+  "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+  "pubDate": "Thu, 03 Sep 2026 12:12:56 +0000",
+  "slides": [
+    "Can Zoox truly handle airport chaos?",
+    "It now serves Las Vegas airport rides.",
+    "No steering wheel, yet drives like a human.",
+    "Your next airport trip might be driverless.",
+    "Check if Zoox covers your route today."
+  ],
+  "thread_text": [
+    "1. No Steering Wheel, Real Airport Runs\n\nZoox is now giving driverless rides to Las Vegas airport passengers, with no human at the wheel. The vehicle navigates busy pickup zones autonomously.",
+    "2. How Does It Handle Chaos?\n\nThe key test: airport traffic with pedestrians, shuttles, and police. Zoox uses 360-degree sensors and human-like driving decisions to manage the unpredictability.",
+    "3. The Twist: It's Not a Car\n\nZoox is a purpose-built robotaxi with no steering wheel and no traditional front. It's designed exclusively for autonomous rides, not converted from a regular car.",
+    "4. The Consequence for Travelers\n\nYour next airport trip could be driverless. The service is live now, but only for certain routes—coverage is limited to specific areas in Las Vegas.",
+    "5. Check Your Route Today\n\nIs your airport route covered? Go to the Zoox app and see if you can book a ride from your location. If not, are you willing to wait until it expands?"
+  ],
+  "video_script": [
+    "Zoox now drives Las Vegas airport rides.",
+    "No steering wheel, but it handles chaos.",
+    "It's a purpose-built robotaxi, not a car.",
+    "Your next trip could be driverless.",
+    "Check the app to see if your route's covered."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No Steering Wheel, Real Airport Runs\n\nZoox is now giving driverless rides to Las Vegas airport passengers, with no human at the wheel. The vehicle navigates busy pickup zones autonomously.",
+        "2. How Does It Handle Chaos?\n\nThe key test: airport traffic with pedestrians, shuttles, and police. Zoox uses 360-degree sensors and human-like driving decisions to manage the unpredictability.",
+        "3. The Twist: It's Not a Car\n\nZoox is a purpose-built robotaxi with no steering wheel and no traditional front. It's designed exclusively for autonomous rides, not converted from a regular car.",
+        "4. The Consequence for Travelers\n\nYour next airport trip could be driverless. The service is live now, but only for certain routes—coverage is limited to specific areas in Las Vegas.",
+        "5. Check Your Route Today\n\nIs your airport route covered? Go to the Zoox app and see if you can book a ride from your location. If not, are you willing to wait until it expands?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Zoox now drives Las Vegas airport rides.",
+        "No steering wheel, but it handles chaos.",
+        "It's a purpose-built robotaxi, not a car.",
+        "Your next trip could be driverless.",
+        "Check the app to see if your route's covered."
+      ]
+    },
+    "instagram": {
+      "caption": "A driverless Zoox robotaxi—no steering wheel, no human inside—is now picking up passengers at Las Vegas airport. 🚕\n\nThe vehicle navigates the busy pickup zone using 360-degree sensors and human-like driving decisions, designed specifically for autonomous rides, not converted from a regular car. It’s live now, but coverage is limited to certain routes in Vegas.\n\nFor you: airport content, travel reels, or location tags might soon feature driverless rides, but you can’t book one everywhere yet. 📍\n\nOpen the Zoox app and check if your route is covered—or would you trust a no-wheel car with your luggage? 🧳"
+    }
+  },
+  "instagram_caption": "A driverless Zoox robotaxi—no steering wheel, no human inside—is now picking up passengers at Las Vegas airport. 🚕\n\nThe vehicle navigates the busy pickup zone using 360-degree sensors and human-like driving decisions, designed specifically for autonomous rides, not converted from a regular car. It’s live now, but coverage is limited to certain routes in Vegas.\n\nFor you: airport content, travel reels, or location tags might soon feature driverless rides, but you can’t book one everywhere yet. 📍\n\nOpen the Zoox app and check if your route is covered—or would you trust a no-wheel car with your luggage? 🧳",
+  "carousel_slides": [
+    {
+      "hook": "Driverless, no steering wheel, flying through airport traffic?",
+      "description": "Zoox now runs driverless airport rides in Las Vegas, navigating chaotic pickup zones with no human inside.",
+      "visual_hint": "Autonomous shuttle in Las Vegas airport pickup zone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "autonomous shuttle Las Vegas"
+    },
+    {
+      "hook": "How does it handle airport chaos?",
+      "description": "360-degree sensors and human-like decisions let Zoox manage pedestrians, shuttles, and police in busy zones.",
+      "visual_hint": "Vehicle sensors scanning busy airport area",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "autonomous vehicle sensors airport",
+      "image": "https://images.pexels.com/photos/30488712/pexels-photo-30488712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "This is not your average car.",
+      "description": "Purpose-built robotaxi with no steering wheel or front seat, designed exclusively for autonomous rides.",
+      "visual_hint": "Interior with no steering wheel and passenger seats",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robotaxi interior no steering wheel",
+      "image": "https://images.pexels.com/photos/28178705/pexels-photo-28178705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next airport trip could be driverless.",
+      "description": "Zoox is live for airport rides in Las Vegas, but only on specific routes. Coverage is limited.",
+      "visual_hint": "Map showing route availability or app interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "Las Vegas map route",
+      "image": "https://images.pexels.com/photos/9576892/pexels-photo-9576892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your route, save this for later!",
+      "description": "Open the Zoox app and see if you can book a ride from your location to the airport. If not, wait for expansion.",
+      "visual_hint": "Person holding phone with app open",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone app ride hailing",
+      "image": "https://images.pexels.com/photos/13801869/pexels-photo-13801869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
+  "savedAt": "2026-09-03T14:01:07.117Z",
+  "sourceId": "7d2900496507db05198541e81f559046"
+}
