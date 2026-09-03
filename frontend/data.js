@@ -2,6 +2,214 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "google-now-lets-you-chat-with-gmail-docs-and-keep",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "pubDate": "2026-09-03T16:00:00.000Z",
+    "slides": [
+      "Can Google's new chat unite your scattered inbox?",
+      "Gemini now talks directly with Gmail, Docs, and Keep.",
+      "Surprise: it answers without you switching between tabs.",
+      "Your daily tasks shift from searching to simply asking.",
+      "Test it today: ask one question across all apps."
+    ],
+    "thread_text": [
+      "1. Your inbox just got a copilot\n\nGoogle's Gemini can now query your Gmail, Docs, and Keep all at once—no tab hopping.",
+      "2. One question, every answer\n\nAsk 'When's my project due?' and it sifts through emails, notes, and documents to reply.",
+      "3. The tab-switching era ends\n\nThis turns search into a conversation—your digital life answers directly.",
+      "4. Daily grind gets a shortcut\n\nInstead of opening apps, you just ask. Routine info retrieval becomes instant.",
+      "5. Try it on one task\n\nAsk Gemini a question about your own files today. If it saves you one tab switch, keep it."
+    ],
+    "video_script": [
+      "Can one question rule all your apps?",
+      "Gemini now talks to Gmail, Docs, and Keep.",
+      "Ask and get answers without switching tabs.",
+      "Daily tasks shift from searching to asking.",
+      "Test it now on your own questions."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your inbox just got a copilot\n\nGoogle's Gemini can now query your Gmail, Docs, and Keep all at once—no tab hopping.",
+          "2. One question, every answer\n\nAsk 'When's my project due?' and it sifts through emails, notes, and documents to reply.",
+          "3. The tab-switching era ends\n\nThis turns search into a conversation—your digital life answers directly.",
+          "4. Daily grind gets a shortcut\n\nInstead of opening apps, you just ask. Routine info retrieval becomes instant.",
+          "5. Try it on one task\n\nAsk Gemini a question about your own files today. If it saves you one tab switch, keep it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Can one question rule all your apps?",
+          "Gemini now talks to Gmail, Docs, and Keep.",
+          "Ask and get answers without switching tabs.",
+          "Daily tasks shift from searching to asking.",
+          "Test it now on your own questions."
+        ]
+      },
+      "instagram": {
+        "caption": "Instead of digging through five open tabs, you can now just ask one question.  \n\nGoogle’s Gemini assistant now reads your Gmail, Docs, and Keep notes at the same time. So “when’s that project due?” gets answered from an email thread, a meeting doc, and a sticky note—without you opening any of them.  \n\nFor anyone who turns scattered notes into posts, drafts, or updates: this means your source material is now one prompt away, not a search mission.  \n\nWhat’s the first question you’d throw at your own files right now? 📥 Ask it today and see if it finds the answer faster than you would."
+      }
+    },
+    "instagram_caption": "Instead of digging through five open tabs, you can now just ask one question.  \n\nGoogle’s Gemini assistant now reads your Gmail, Docs, and Keep notes at the same time. So “when’s that project due?” gets answered from an email thread, a meeting doc, and a sticky note—without you opening any of them.  \n\nFor anyone who turns scattered notes into posts, drafts, or updates: this means your source material is now one prompt away, not a search mission.  \n\nWhat’s the first question you’d throw at your own files right now? 📥 Ask it today and see if it finds the answer faster than you would.",
+    "carousel_slides": [
+      {
+        "hook": "Stop switching tabs forever?",
+        "description": "Gemini now chats with Gmail, Docs, and Keep at once. Ask one question and get answers from all your apps without tab hopping.",
+        "visual_hint": "Chat window overlapping app icons",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "multiple browser tabs"
+      },
+      {
+        "hook": "One question, every answer.",
+        "description": "Ask 'When's my project due?' and Gemini sifts through emails, notes, and documents to find it—no manual searching needed.",
+        "visual_hint": "Arrow pointing to unified answer",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "search bar documents",
+        "image": "https://images.pexels.com/photos/12912012/pexels-photo-12912012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Search becomes conversation.",
+        "description": "No more tab-switching. This turns routine info retrieval into a direct chat with your digital life—answers come to you.",
+        "visual_hint": "Chat bubble replacing browser tabs",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "chat interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your daily grind shortcut.",
+        "description": "Instead of opening multiple apps, you just ask. Routine tasks like checking schedules become instant—saving time every day.",
+        "visual_hint": "Hand tapping phone app",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your workflow.",
+        "description": "Try it today: ask Gemini one question about your own files. If it saves you a single tab switch, keep it forever.",
+        "visual_hint": "Save icon with checkmark",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "bookmark icon",
+        "image": "https://images.pexels.com/photos/4778341/pexels-photo-4778341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-03T23:49:35.871Z",
+    "sourceId": "a4bef4d928dc378f137fcd7fdacd1101"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
+    "slides": [
+      "Meta pays to watch your sessions—why now?",
+      "They monitor interactions with their newest model Llama.",
+      "But the catch is that it records personal habits.",
+      "You can get paid, yet you lose data privacy.",
+      "Decide today: cash for compromise or skip entirely?"
+    ],
+    "thread_text": [
+      "1. Meta pays for your privacy?\n\nThey're offering cash to watch you use their AI. Your clicks and habits get recorded.",
+      "2. The hidden cost of Llama\n\nBeyond the cash, your personal patterns help train their next model. Every move teaches it.",
+      "3. Not just data theft\n\nIt's about psychological profiling. They learn when you're vulnerable, tired, or impulsive.",
+      "4. The slippery slope\n\nOnce you accept, it's hard to opt out later. Your privacy becomes a habit to sell.",
+      "5. Will you sell out?\n\nBefore you accept, ask: what's your peace of mind worth? Test by declining for a week."
+    ],
+    "video_script": [
+      "They pay to watch your every move.",
+      "But you lose more than you gain.",
+      "Your habits become their training data.",
+      "Think before you compromise your privacy.",
+      "Decide: sell your soul or walk away?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta pays for your privacy?\n\nThey're offering cash to watch you use their AI. Your clicks and habits get recorded.",
+          "2. The hidden cost of Llama\n\nBeyond the cash, your personal patterns help train their next model. Every move teaches it.",
+          "3. Not just data theft\n\nIt's about psychological profiling. They learn when you're vulnerable, tired, or impulsive.",
+          "4. The slippery slope\n\nOnce you accept, it's hard to opt out later. Your privacy becomes a habit to sell.",
+          "5. Will you sell out?\n\nBefore you accept, ask: what's your peace of mind worth? Test by declining for a week."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "They pay to watch your every move.",
+          "But you lose more than you gain.",
+          "Your habits become their training data.",
+          "Think before you compromise your privacy.",
+          "Decide: sell your soul or walk away?"
+        ]
+      },
+      "instagram": {
+        "caption": "Meta is literally paying people to let it film how they use Llama, its newest AI model.  \nYour clicks, your pause, your scrolling patterns—all of it becomes training data for their next big thing.  \nThey call it research. But the fine print records your personal habits, not just your prompts.  \nYou get a few bucks; they get a profile of when you’re tired, distracted, or impulsive.  \n\nFor anyone creating content: this is how your audience’s behavior becomes a product you can’t compete with.  \nYour own usage patterns now have a price tag—and it’s not in your favor.  \n\nSo, before you hit “accept” on that payment screen—what’s a week of your privacy worth to you? 💸🔍📉"
+      }
+    },
+    "instagram_caption": "Meta is literally paying people to let it film how they use Llama, its newest AI model.  \nYour clicks, your pause, your scrolling patterns—all of it becomes training data for their next big thing.  \nThey call it research. But the fine print records your personal habits, not just your prompts.  \nYou get a few bucks; they get a profile of when you’re tired, distracted, or impulsive.  \n\nFor anyone creating content: this is how your audience’s behavior becomes a product you can’t compete with.  \nYour own usage patterns now have a price tag—and it’s not in your favor.  \n\nSo, before you hit “accept” on that payment screen—what’s a week of your privacy worth to you? 💸🔍📉",
+    "carousel_slides": [
+      {
+        "hook": "How much is your privacy worth?",
+        "description": "Meta pays you to watch how you use Llama. Your personal patterns become their training data.",
+        "visual_hint": "Money and eye symbol",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "US dollar bills"
+      },
+      {
+        "hook": "The hidden cost of Llama",
+        "description": "Every click teaches their AI your habits — from sleep patterns to impulsive moments.",
+        "visual_hint": "Click being tracked",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It's not just data theft",
+        "description": "Meta learns when you're vulnerable or tired, building a psychological profile on you.",
+        "visual_hint": "Psychology mind map",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "brain scan",
+        "image": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The slippery slope of consent",
+        "description": "Once you let them in, opting out later becomes nearly impossible.",
+        "visual_hint": "Lock closing shut",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "padlock chain",
+        "image": "https://images.pexels.com/photos/10509162/pexels-photo-10509162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Down in the comments below!",
+        "description": "Before you accept, try declining for a week and notice how it feels. Share below.",
+        "visual_hint": "Comment icon active",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "savedAt": "2026-09-03T23:49:25.549Z",
+    "sourceId": "939cb98685e5e469fc4c9c52cb0f0a99"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-launches-ai-voice-features-in-gmail-docs-an",
     "prompt_version": "1.0.0",
     "status": "published",

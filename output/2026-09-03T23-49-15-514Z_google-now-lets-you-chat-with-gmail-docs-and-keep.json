@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-now-lets-you-chat-with-gmail-docs-and-keep",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google now lets you chat with Gmail, Docs, and Keep",
+  "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+  "pubDate": "2026-09-03T16:00:00.000Z",
+  "slides": [
+    "Can Google's new chat unite your scattered inbox?",
+    "Gemini now talks directly with Gmail, Docs, and Keep.",
+    "Surprise: it answers without you switching between tabs.",
+    "Your daily tasks shift from searching to simply asking.",
+    "Test it today: ask one question across all apps."
+  ],
+  "thread_text": [
+    "1. Your inbox just got a copilot\n\nGoogle's Gemini can now query your Gmail, Docs, and Keep all at once—no tab hopping.",
+    "2. One question, every answer\n\nAsk 'When's my project due?' and it sifts through emails, notes, and documents to reply.",
+    "3. The tab-switching era ends\n\nThis turns search into a conversation—your digital life answers directly.",
+    "4. Daily grind gets a shortcut\n\nInstead of opening apps, you just ask. Routine info retrieval becomes instant.",
+    "5. Try it on one task\n\nAsk Gemini a question about your own files today. If it saves you one tab switch, keep it."
+  ],
+  "video_script": [
+    "Can one question rule all your apps?",
+    "Gemini now talks to Gmail, Docs, and Keep.",
+    "Ask and get answers without switching tabs.",
+    "Daily tasks shift from searching to asking.",
+    "Test it now on your own questions."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your inbox just got a copilot\n\nGoogle's Gemini can now query your Gmail, Docs, and Keep all at once—no tab hopping.",
+        "2. One question, every answer\n\nAsk 'When's my project due?' and it sifts through emails, notes, and documents to reply.",
+        "3. The tab-switching era ends\n\nThis turns search into a conversation—your digital life answers directly.",
+        "4. Daily grind gets a shortcut\n\nInstead of opening apps, you just ask. Routine info retrieval becomes instant.",
+        "5. Try it on one task\n\nAsk Gemini a question about your own files today. If it saves you one tab switch, keep it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Can one question rule all your apps?",
+        "Gemini now talks to Gmail, Docs, and Keep.",
+        "Ask and get answers without switching tabs.",
+        "Daily tasks shift from searching to asking.",
+        "Test it now on your own questions."
+      ]
+    },
+    "instagram": {
+      "caption": "Instead of digging through five open tabs, you can now just ask one question.  \n\nGoogle’s Gemini assistant now reads your Gmail, Docs, and Keep notes at the same time. So “when’s that project due?” gets answered from an email thread, a meeting doc, and a sticky note—without you opening any of them.  \n\nFor anyone who turns scattered notes into posts, drafts, or updates: this means your source material is now one prompt away, not a search mission.  \n\nWhat’s the first question you’d throw at your own files right now? 📥 Ask it today and see if it finds the answer faster than you would."
+    }
+  },
+  "instagram_caption": "Instead of digging through five open tabs, you can now just ask one question.  \n\nGoogle’s Gemini assistant now reads your Gmail, Docs, and Keep notes at the same time. So “when’s that project due?” gets answered from an email thread, a meeting doc, and a sticky note—without you opening any of them.  \n\nFor anyone who turns scattered notes into posts, drafts, or updates: this means your source material is now one prompt away, not a search mission.  \n\nWhat’s the first question you’d throw at your own files right now? 📥 Ask it today and see if it finds the answer faster than you would.",
+  "carousel_slides": [
+    {
+      "hook": "Stop switching tabs forever?",
+      "description": "Gemini now chats with Gmail, Docs, and Keep at once. Ask one question and get answers from all your apps without tab hopping.",
+      "visual_hint": "Chat window overlapping app icons",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "multiple browser tabs"
+    },
+    {
+      "hook": "One question, every answer.",
+      "description": "Ask 'When's my project due?' and Gemini sifts through emails, notes, and documents to find it—no manual searching needed.",
+      "visual_hint": "Arrow pointing to unified answer",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "search bar documents",
+      "image": "https://images.pexels.com/photos/12912012/pexels-photo-12912012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Search becomes conversation.",
+      "description": "No more tab-switching. This turns routine info retrieval into a direct chat with your digital life—answers come to you.",
+      "visual_hint": "Chat bubble replacing browser tabs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chat interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your daily grind shortcut.",
+      "description": "Instead of opening multiple apps, you just ask. Routine tasks like checking schedules become instant—saving time every day.",
+      "visual_hint": "Hand tapping phone app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your workflow.",
+      "description": "Try it today: ask Gemini one question about your own files. If it saves you a single tab switch, keep it forever.",
+      "visual_hint": "Save icon with checkmark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "bookmark icon",
+      "image": "https://images.pexels.com/photos/4778341/pexels-photo-4778341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-03T23:49:35.871Z",
+  "sourceId": "a4bef4d928dc378f137fcd7fdacd1101"
+}
