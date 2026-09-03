@@ -3,6 +3,414 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-says-its-ai-weather-model-is-getting-better",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google says its AI weather model is getting better",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "pubDate": "2026-09-03T15:00:00.000Z",
+      "slides": [
+        "Google's new weather AI: more accurate, but how?",
+        "It predicts extreme events up to 15 days ahead.",
+        "The model learns from historical data, not physics.",
+        "Your forecasts could become reliable weeks in advance.",
+        "Test it against local data before trusting it."
+      ],
+      "thread_text": [
+        "1. Weather AI: why trust it?\n\nIt predicts storms 15 days ahead—but admits it ignores physics. That gap is the story.",
+        "2. The learning shortcut\n\nNo equations, just patterns. It digests decades of weather history to guess tomorrow—flips the classic method.",
+        "3. The 15-day edge\n\nMost models wobble past a week. This one stays sharp for two. Imagine knowing a hurricane's path before it forms.",
+        "4. The blind spot\n\nIt can't feel the air. Local quirks—mountains, coastlines—might fool it. High stakes for your town.",
+        "5. Test it yourself\n\nPull next week's forecast from this AI and your local service. Which one matches what actually happens? Run the check."
+      ],
+      "video_script": [
+        "A new weather AI claims fifteen-day forecasts. It learns from history, not physics. Sounds impressive. But can you trust it? Test it against your local data before relying on it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Weather AI: why trust it?\n\nIt predicts storms 15 days ahead—but admits it ignores physics. That gap is the story.",
+            "2. The learning shortcut\n\nNo equations, just patterns. It digests decades of weather history to guess tomorrow—flips the classic method.",
+            "3. The 15-day edge\n\nMost models wobble past a week. This one stays sharp for two. Imagine knowing a hurricane's path before it forms.",
+            "4. The blind spot\n\nIt can't feel the air. Local quirks—mountains, coastlines—might fool it. High stakes for your town.",
+            "5. Test it yourself\n\nPull next week's forecast from this AI and your local service. Which one matches what actually happens? Run the check."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A new weather AI claims fifteen-day forecasts. It learns from history, not physics. Sounds impressive. But can you trust it? Test it against your local data before relying on it."
+          ]
+        },
+        "instagram": {
+          "caption": "Your forecast for next week might soon be wrong on purpose. Google says its latest weather model stays accurate a full 15 days out—double what most systems manage.\n\nThe catch? It never uses physics. No equations for air pressure or ocean currents. It just memorized decades of past weather patterns and guesses what comes next. That worked for storms, but it still can’t feel local quirks—a mountain range or coastline could throw it off.\n\nIf you publish weather content, this means checking two sources for the next month: the AI’s call and your local forecast office. Run that comparison before you trust the 15-day picture.\n\nWhat will you do when the model says rain, but your window says otherwise? 🌦️🧠📉"
+        }
+      },
+      "instagram_caption": "Your forecast for next week might soon be wrong on purpose. Google says its latest weather model stays accurate a full 15 days out—double what most systems manage.\n\nThe catch? It never uses physics. No equations for air pressure or ocean currents. It just memorized decades of past weather patterns and guesses what comes next. That worked for storms, but it still can’t feel local quirks—a mountain range or coastline could throw it off.\n\nIf you publish weather content, this means checking two sources for the next month: the AI’s call and your local forecast office. Run that comparison before you trust the 15-day picture.\n\nWhat will you do when the model says rain, but your window says otherwise? 🌦️🧠📉",
+      "carousel_slides": [
+        {
+          "hook": "Trusting weather AI ignoring physics?",
+          "description": "Google's new model predicts storms 15 days out but learns patterns, not physics. That trade-off changes your forecast reliability.",
+          "visual_hint": "Storm clouds over city skyline",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "storm clouds skyline"
+        },
+        {
+          "hook": "It learns history, not equations.",
+          "description": "Instead of physics, it digests decades of weather data to predict tomorrow. A radical flip on classic forecasting methods.",
+          "visual_hint": "Historical weather data charts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "weather data charts",
+          "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Two weeks of forecast accuracy?",
+          "description": "Most models fade after a week, but this one stays sharp for 15 days. Imagine knowing a hurricane's path early.",
+          "visual_hint": "Hurricane path map with 15-day mark",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hurricane path map",
+          "image": "https://images.pexels.com/photos/6033812/pexels-photo-6033812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Local quirks might fool the AI.",
+          "description": "It can't feel air like humans—mountains or coastlines could skew predictions. High stakes for your town's safety.",
+          "visual_hint": "Mountain and coastline terrain",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "mountain coastline terrain",
+          "image": "https://images.pexels.com/photos/4628407/pexels-photo-4628407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test your forecast.",
+          "description": "Compare this AI's next-week forecast with your local service. See which matches reality—run your own check now.",
+          "visual_hint": "Comparison checklist and weather app",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "weather app comparison",
+          "image": "https://images.pexels.com/photos/38337699/pexels-photo-38337699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-03T17:42:37.563Z",
+      "sourceId": "a6e3ba40636bde28c623f79f606d552c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-launches-free-tool-that-links-idle-computer",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "pubDate": "2026-09-03T16:00:00.000Z",
+      "slides": [
+        "What if your idle GPUs formed a data center?",
+        "Nvidia's new free tool links computers into clusters.",
+        "It connects machines across homes, offices, even cities.",
+        "You can run AI workloads without buying new hardware.",
+        "Test it today with just two compatible GPUs."
+      ],
+      "thread_text": [
+        "1. Your GPUs, idle? Not anymore.\n\nNvidia's new tool, likely a free software, can turn scattered computers into a cluster, potentially rivaling a data center's power.",
+        "2. The cluster connection.\n\nIt links machines across different locations, using standard networking, to work as one unit.",
+        "3. No new hardware needed.\n\nRun AI workloads on what you already own, saving costs and reducing e-waste.",
+        "4. The scale is flexible.\n\nStart with two compatible GPUs, then expand to more, even across cities.",
+        "5. Try it this week.\n\nCheck Nvidia's site for the tool's name and test with two GPUs. Does your current setup meet the bar?"
+      ],
+      "video_script": [
+        "Imagine your GPUs joining forces.",
+        "Nvidia's new tool connects them.",
+        "No extra hardware, just clusters.",
+        "Run AI workloads easily.",
+        "Test with two GPUs today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your GPUs, idle? Not anymore.\n\nNvidia's new tool, likely a free software, can turn scattered computers into a cluster, potentially rivaling a data center's power.",
+            "2. The cluster connection.\n\nIt links machines across different locations, using standard networking, to work as one unit.",
+            "3. No new hardware needed.\n\nRun AI workloads on what you already own, saving costs and reducing e-waste.",
+            "4. The scale is flexible.\n\nStart with two compatible GPUs, then expand to more, even across cities.",
+            "5. Try it this week.\n\nCheck Nvidia's site for the tool's name and test with two GPUs. Does your current setup meet the bar?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Imagine your GPUs joining forces.",
+            "Nvidia's new tool connects them.",
+            "No extra hardware, just clusters.",
+            "Run AI workloads easily.",
+            "Test with two GPUs today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your computer’s GPU could be paying rent in a data center this month. 🖥️\n\nNvidia just launched a free tool that chains your idle machines into a cluster—across your desk, your office, or different cities—so they act like one mini AI supercomputer.\n\nYou don’t need new hardware. Two compatible GPUs are enough to start. The point is running AI workloads on what you already own, skipping the cloud bill and the e-waste.\n\nFor creators, this means testing big models locally without renting servers costs. 💸\n\nGot two GPUs sitting under your desk? What’s stopping you from trying this by Friday? ⏳"
+        }
+      },
+      "instagram_caption": "Your computer’s GPU could be paying rent in a data center this month. 🖥️\n\nNvidia just launched a free tool that chains your idle machines into a cluster—across your desk, your office, or different cities—so they act like one mini AI supercomputer.\n\nYou don’t need new hardware. Two compatible GPUs are enough to start. The point is running AI workloads on what you already own, skipping the cloud bill and the e-waste.\n\nFor creators, this means testing big models locally without renting servers costs. 💸\n\nGot two GPUs sitting under your desk? What’s stopping you from trying this by Friday? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "Your GPUs are idle—why?",
+          "description": "Nvidia's free tool clusters idle GPUs into a personal AI data center. No new hardware needed—turn scattered machines into one powerful unit.",
+          "visual_hint": "Connected GPU cluster",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "graphics cards network"
+        },
+        {
+          "hook": "Scattered PCs, one supercomputer.",
+          "description": "The tool links computers across homes, offices, even cities via standard networking. They work as one cluster—anywhere, anytime.",
+          "visual_hint": "Map with links",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network connections map",
+          "image": "https://images.pexels.com/photos/20240693/pexels-photo-20240693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No new hardware? No problem.",
+          "description": "Run AI workloads on GPUs you already own. Saves costs, reduces e-waste—just connect and compute.",
+          "visual_hint": "Old GPU reused",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "graphics card close-up",
+          "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Start with two GPUs only.",
+          "description": "Scale your cluster flexibly—begin with two compatible GPUs, expand across cities later. Your personal data center grows with you.",
+          "visual_hint": "Two GPUs joined",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "two graphics cards",
+          "image": "https://images.pexels.com/photos/7859350/pexels-photo-7859350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—try it this week.",
+          "description": "Visit Nvidia's site for the tool and test with two GPUs. Check if your setup is compatible—then start your own cluster.",
+          "visual_hint": "Visit Nvidia site",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer setup desk",
+          "image": "https://images.pexels.com/photos/6804606/pexels-photo-6804606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.342396806572%2C100%2C93.315206386856&amp;w=1200",
+      "savedAt": "2026-09-03T17:42:26.818Z",
+      "sourceId": "bb7ed2dfbabb3f3244fbbd928e061b52"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "google-s-latest-ai-weather-model-gives-you-no-excu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "slides": [
+        "Can Google's new AI predict rain better than radar?",
+        "It learns from decades of weather data patterns",
+        "But its accuracy hides a surprising blind spot",
+        "Your daily forecast app now needs this upgrade",
+        "Check your app's source: demand this model now"
+      ],
+      "thread_text": [
+        "1. Your forecast app is lying\n\nYour weather app may already be using radar-based models that miss what Google's new AI catches. It learns from decades of patterns to predict rain more precisely — but it's not available everywhere.",
+        "2. The blind spot: extreme storms\n\nThe AI excels at familiar weather, but struggles with rare, violent events. That means it could downplay a tornado's path, a blind spot radar doesn't have.",
+        "3. Why your app needs this upgrade\n\nAdding this model could cut false rain alerts, but it requires more computing power. App makers have been slow to adopt it — until now, users are demanding it.",
+        "4. How to check your app's source\n\nLook for 'ForecastAI' or 'GraphCast' in your app's about page. If it's not there, it's using older tech with lower accuracy.",
+        "5. Ask your app maker today\n\nSend a support message: \"Add Google's new rain prediction model.\" If you don't, you'll keep getting wrong forecasts. Does that sound like a good trade?"
+      ],
+      "video_script": [
+        "Your forecast app misses rain this AI catches.",
+        "It learns weather patterns from decades of data.",
+        "But it fails you during violent extreme storms.",
+        "Demand this upgrade from your daily forecast app.",
+        "Check your app's source, then ask for better."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your forecast app is lying\n\nYour weather app may already be using radar-based models that miss what Google's new AI catches. It learns from decades of patterns to predict rain more precisely — but it's not available everywhere.",
+            "2. The blind spot: extreme storms\n\nThe AI excels at familiar weather, but struggles with rare, violent events. That means it could downplay a tornado's path, a blind spot radar doesn't have.",
+            "3. Why your app needs this upgrade\n\nAdding this model could cut false rain alerts, but it requires more computing power. App makers have been slow to adopt it — until now, users are demanding it.",
+            "4. How to check your app's source\n\nLook for 'ForecastAI' or 'GraphCast' in your app's about page. If it's not there, it's using older tech with lower accuracy.",
+            "5. Ask your app maker today\n\nSend a support message: \"Add Google's new rain prediction model.\" If you don't, you'll keep getting wrong forecasts. Does that sound like a good trade?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your forecast app misses rain this AI catches.",
+            "It learns weather patterns from decades of data.",
+            "But it fails you during violent extreme storms.",
+            "Demand this upgrade from your daily forecast app.",
+            "Check your app's source, then ask for better."
+          ]
+        },
+        "instagram": {
+          "caption": "Your weather app is probably missing rain that Google’s new model catches—because it learns from decades of patterns, not just radar echoes. 🌧️\n\nThe catch: it fails on rare, violent storms, so a tornado path could get downplayed. That’s a blind spot radar doesn’t have.\n\nIf you build content around weather—event plans, field shoots, delivery schedules—this means fewer false alarms, but only if your app actually uses it. Most don’t yet. 📱\n\nOpen your app’s “About” page. See “ForecastAI” or “GraphCast”? If not, you’re on older tech.\n\nSend your app maker one message: “Add Google’s rain model.” When did you last check what’s powering your forecast? ⏱️"
+        }
+      },
+      "instagram_caption": "Your weather app is probably missing rain that Google’s new model catches—because it learns from decades of patterns, not just radar echoes. 🌧️\n\nThe catch: it fails on rare, violent storms, so a tornado path could get downplayed. That’s a blind spot radar doesn’t have.\n\nIf you build content around weather—event plans, field shoots, delivery schedules—this means fewer false alarms, but only if your app actually uses it. Most don’t yet. 📱\n\nOpen your app’s “About” page. See “ForecastAI” or “GraphCast”? If not, you’re on older tech.\n\nSend your app maker one message: “Add Google’s rain model.” When did you last check what’s powering your forecast? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Your forecast app is lying",
+          "description": "Radar-based models miss what Google's AI catches by learning decades of weather patterns. But the AI isn't accurate for rare, violent storms.",
+          "visual_hint": "Smartphone with broken cloud icon",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone weather app"
+        },
+        {
+          "hook": "Storms expose its blind spot",
+          "description": "The AI excels at familiar weather but downplays tornadoes and rare extreme events—a gap radar doesn't have. Stay alert to violent weather.",
+          "visual_hint": "Tornado overshadowing small cloud",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "tornado weather radar",
+          "image": "https://images.pexels.com/photos/14747730/pexels-photo-14747730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why your app needs this upgrade",
+          "description": "Adding Google's model cuts false rain alerts but demands more computing power. App makers hesitated—until users started demanding it.",
+          "visual_hint": "Server racks with data streams",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room data",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your app's source now",
+          "description": "Look for 'ForecastAI' or 'GraphCast' in your app's about page. If absent, it's using older tech with lower accuracy.",
+          "visual_hint": "Finger tapping app settings page",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone settings menu",
+          "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and demand accuracy",
+          "description": "Send your app maker a support message: 'Add Google's new rain prediction model.' Do it today—your forecast depends on it.",
+          "visual_hint": "Mail icon with weather symbol",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "mobile phone text message",
+          "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
+      "savedAt": "2026-09-03T17:42:15.994Z",
+      "sourceId": "9ebf8f5d0ca3e1b21f94175fc36828af"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "onerail-uses-nvidia-ai-for-real-time-last-mile-del",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "pubDate": "Thu, 03 Sep 2026 16:07:18 +0000",
+      "slides": [
+        "What if deliveries rerouted themselves mid-route?",
+        "OneRail's new Nvidia AI optimizes each stop live.",
+        "It predicts delays minutes before drivers see them.",
+        "Your packages now dodge traffic before you feel it.",
+        "Test OneRail's demo against your current dispatch."
+      ],
+      "thread_text": [
+        "1. What if your delivery rerouted itself?\n\nDeliveries that self-optimize mid-route are no longer sci-fi. OneRail's new system uses Nvidia AI to adjust each stop in real time.",
+        "2. Predicting delays before you see them\n\nThe AI spots traffic problems minutes before drivers notice. It recalculates instantly, keeping your packages ahead of the jam.",
+        "3. Your packages dodge traffic silently\n\nNo more waiting for human dispatchers to catch up. The system acts on live data, rerouting before you even feel the delay.",
+        "4. The future of dispatch is an algorithm\n\nManual route planning is obsolete. OneRail's AI learns from each delivery, making every future stop smarter than the last.",
+        "5. Test it against your current dispatch\n\nTry OneRail's demo with your own delivery data. See if it beats your times—if it does, why stick with old methods?"
+      ],
+      "video_script": [
+        "Packages reroute themselves mid-route now.",
+        "OneRail uses Nvidia AI to optimize stops.",
+        "It predicts delays before drivers see them.",
+        "Your packages dodge traffic before you feel it.",
+        "Test OneRail's demo against your dispatch."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. What if your delivery rerouted itself?\n\nDeliveries that self-optimize mid-route are no longer sci-fi. OneRail's new system uses Nvidia AI to adjust each stop in real time.",
+            "2. Predicting delays before you see them\n\nThe AI spots traffic problems minutes before drivers notice. It recalculates instantly, keeping your packages ahead of the jam.",
+            "3. Your packages dodge traffic silently\n\nNo more waiting for human dispatchers to catch up. The system acts on live data, rerouting before you even feel the delay.",
+            "4. The future of dispatch is an algorithm\n\nManual route planning is obsolete. OneRail's AI learns from each delivery, making every future stop smarter than the last.",
+            "5. Test it against your current dispatch\n\nTry OneRail's demo with your own delivery data. See if it beats your times—if it does, why stick with old methods?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Packages reroute themselves mid-route now.",
+            "OneRail uses Nvidia AI to optimize stops.",
+            "It predicts delays before drivers see them.",
+            "Your packages dodge traffic before you feel it.",
+            "Test OneRail's demo against your dispatch."
+          ]
+        },
+        "instagram": {
+          "caption": "Your delivery van just rerouted itself before you hit the red light. 🚚 OneRail's new system, powered by Nvidia AI, recalculates every stop live—it spots a traffic jam minutes before your driver feels it and instantly swaps the route. No dispatcher waiting, no phone calls. The AI learns from each delivery, so every future stop is faster than the last. For anyone running a fleet, this kills manual route planning overnight. 📦 Think your current dispatch software could beat it? OneRail's demo runs against your own delivery data. Would you bet your delivery times on it? ⏱️"
+        }
+      },
+      "instagram_caption": "Your delivery van just rerouted itself before you hit the red light. 🚚 OneRail's new system, powered by Nvidia AI, recalculates every stop live—it spots a traffic jam minutes before your driver feels it and instantly swaps the route. No dispatcher waiting, no phone calls. The AI learns from each delivery, so every future stop is faster than the last. For anyone running a fleet, this kills manual route planning overnight. 📦 Think your current dispatch software could beat it? OneRail's demo runs against your own delivery data. Would you bet your delivery times on it? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "Delays disappear before drivers see them.",
+          "description": "OneRail's Nvidia AI predicts traffic problems minutes in advance, recalculating routes instantly. Packages stay ahead of jams, avoiding delays you never feel.",
+          "visual_hint": "Delivery van with glowing route",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "delivery van city"
+        },
+        {
+          "hook": "Your route self-optimizes in real time.",
+          "description": "Each stop adjusts live based on AI analysis. No waiting for human dispatchers—the system reacts to data instantly, keeping deliveries on schedule.",
+          "visual_hint": "Map with moving pins",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "gps navigation map",
+          "image": "https://images.pexels.com/photos/7009590/pexels-photo-7009590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI spots traffic jams before you.",
+          "description": "It detects problems minutes ahead, recalculating to avoid delays. Drivers stay ahead, and packages move smoothly through congestion.",
+          "visual_hint": "Road with digital overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "highway traffic",
+          "image": "https://images.pexels.com/photos/16108188/pexels-photo-16108188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Manual dispatch is now obsolete.",
+          "description": "OneRail's AI learns from each delivery, making every future stop smarter. The algorithm handles what humans can't—speed and precision.",
+          "visual_hint": "Hand touching algorithm screen",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "hand touching screen",
+          "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "See if it beats your dispatch times.",
+          "description": "Try the demo with your own delivery data. Compare results—if it's faster, why stick with old methods? Tap the link to test now.",
+          "visual_hint": "Phone with comparison chart",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "delivery app comparison",
+          "image": "https://images.pexels.com/photos/9461218/pexels-photo-9461218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/11213246/pexels-photo-11213246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-03T17:42:04.758Z",
+      "sourceId": "6a6bda6195d89fd0badab6b6a7ab1148"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-needs-hollywood-more-than-the-studios-need-",
       "prompt_version": "1.0.0",
       "status": "published",

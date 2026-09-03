@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-says-its-ai-weather-model-is-getting-better",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google says its AI weather model is getting better",
+  "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+  "pubDate": "2026-09-03T15:00:00.000Z",
+  "slides": [
+    "Google's new weather AI: more accurate, but how?",
+    "It predicts extreme events up to 15 days ahead.",
+    "The model learns from historical data, not physics.",
+    "Your forecasts could become reliable weeks in advance.",
+    "Test it against local data before trusting it."
+  ],
+  "thread_text": [
+    "1. Weather AI: why trust it?\n\nIt predicts storms 15 days ahead—but admits it ignores physics. That gap is the story.",
+    "2. The learning shortcut\n\nNo equations, just patterns. It digests decades of weather history to guess tomorrow—flips the classic method.",
+    "3. The 15-day edge\n\nMost models wobble past a week. This one stays sharp for two. Imagine knowing a hurricane's path before it forms.",
+    "4. The blind spot\n\nIt can't feel the air. Local quirks—mountains, coastlines—might fool it. High stakes for your town.",
+    "5. Test it yourself\n\nPull next week's forecast from this AI and your local service. Which one matches what actually happens? Run the check."
+  ],
+  "video_script": [
+    "A new weather AI claims fifteen-day forecasts. It learns from history, not physics. Sounds impressive. But can you trust it? Test it against your local data before relying on it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Weather AI: why trust it?\n\nIt predicts storms 15 days ahead—but admits it ignores physics. That gap is the story.",
+        "2. The learning shortcut\n\nNo equations, just patterns. It digests decades of weather history to guess tomorrow—flips the classic method.",
+        "3. The 15-day edge\n\nMost models wobble past a week. This one stays sharp for two. Imagine knowing a hurricane's path before it forms.",
+        "4. The blind spot\n\nIt can't feel the air. Local quirks—mountains, coastlines—might fool it. High stakes for your town.",
+        "5. Test it yourself\n\nPull next week's forecast from this AI and your local service. Which one matches what actually happens? Run the check."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A new weather AI claims fifteen-day forecasts. It learns from history, not physics. Sounds impressive. But can you trust it? Test it against your local data before relying on it."
+      ]
+    },
+    "instagram": {
+      "caption": "Your forecast for next week might soon be wrong on purpose. Google says its latest weather model stays accurate a full 15 days out—double what most systems manage.\n\nThe catch? It never uses physics. No equations for air pressure or ocean currents. It just memorized decades of past weather patterns and guesses what comes next. That worked for storms, but it still can’t feel local quirks—a mountain range or coastline could throw it off.\n\nIf you publish weather content, this means checking two sources for the next month: the AI’s call and your local forecast office. Run that comparison before you trust the 15-day picture.\n\nWhat will you do when the model says rain, but your window says otherwise? 🌦️🧠📉"
+    }
+  },
+  "instagram_caption": "Your forecast for next week might soon be wrong on purpose. Google says its latest weather model stays accurate a full 15 days out—double what most systems manage.\n\nThe catch? It never uses physics. No equations for air pressure or ocean currents. It just memorized decades of past weather patterns and guesses what comes next. That worked for storms, but it still can’t feel local quirks—a mountain range or coastline could throw it off.\n\nIf you publish weather content, this means checking two sources for the next month: the AI’s call and your local forecast office. Run that comparison before you trust the 15-day picture.\n\nWhat will you do when the model says rain, but your window says otherwise? 🌦️🧠📉",
+  "carousel_slides": [
+    {
+      "hook": "Trusting weather AI ignoring physics?",
+      "description": "Google's new model predicts storms 15 days out but learns patterns, not physics. That trade-off changes your forecast reliability.",
+      "visual_hint": "Storm clouds over city skyline",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "storm clouds skyline"
+    },
+    {
+      "hook": "It learns history, not equations.",
+      "description": "Instead of physics, it digests decades of weather data to predict tomorrow. A radical flip on classic forecasting methods.",
+      "visual_hint": "Historical weather data charts",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "weather data charts",
+      "image": "https://images.pexels.com/photos/7948065/pexels-photo-7948065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Two weeks of forecast accuracy?",
+      "description": "Most models fade after a week, but this one stays sharp for 15 days. Imagine knowing a hurricane's path early.",
+      "visual_hint": "Hurricane path map with 15-day mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hurricane path map",
+      "image": "https://images.pexels.com/photos/6033812/pexels-photo-6033812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local quirks might fool the AI.",
+      "description": "It can't feel air like humans—mountains or coastlines could skew predictions. High stakes for your town's safety.",
+      "visual_hint": "Mountain and coastline terrain",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "mountain coastline terrain",
+      "image": "https://images.pexels.com/photos/4628407/pexels-photo-4628407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test your forecast.",
+      "description": "Compare this AI's next-week forecast with your local service. See which matches reality—run your own check now.",
+      "visual_hint": "Comparison checklist and weather app",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "weather app comparison",
+      "image": "https://images.pexels.com/photos/38337699/pexels-photo-38337699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-03T17:42:37.563Z",
+  "sourceId": "a6e3ba40636bde28c623f79f606d552c"
+}

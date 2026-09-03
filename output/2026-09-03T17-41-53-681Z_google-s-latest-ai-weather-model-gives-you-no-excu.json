@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-s-latest-ai-weather-model-gives-you-no-excu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+  "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+  "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "Can Google's new AI predict rain better than radar?",
+    "It learns from decades of weather data patterns",
+    "But its accuracy hides a surprising blind spot",
+    "Your daily forecast app now needs this upgrade",
+    "Check your app's source: demand this model now"
+  ],
+  "thread_text": [
+    "1. Your forecast app is lying\n\nYour weather app may already be using radar-based models that miss what Google's new AI catches. It learns from decades of patterns to predict rain more precisely — but it's not available everywhere.",
+    "2. The blind spot: extreme storms\n\nThe AI excels at familiar weather, but struggles with rare, violent events. That means it could downplay a tornado's path, a blind spot radar doesn't have.",
+    "3. Why your app needs this upgrade\n\nAdding this model could cut false rain alerts, but it requires more computing power. App makers have been slow to adopt it — until now, users are demanding it.",
+    "4. How to check your app's source\n\nLook for 'ForecastAI' or 'GraphCast' in your app's about page. If it's not there, it's using older tech with lower accuracy.",
+    "5. Ask your app maker today\n\nSend a support message: \"Add Google's new rain prediction model.\" If you don't, you'll keep getting wrong forecasts. Does that sound like a good trade?"
+  ],
+  "video_script": [
+    "Your forecast app misses rain this AI catches.",
+    "It learns weather patterns from decades of data.",
+    "But it fails you during violent extreme storms.",
+    "Demand this upgrade from your daily forecast app.",
+    "Check your app's source, then ask for better."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your forecast app is lying\n\nYour weather app may already be using radar-based models that miss what Google's new AI catches. It learns from decades of patterns to predict rain more precisely — but it's not available everywhere.",
+        "2. The blind spot: extreme storms\n\nThe AI excels at familiar weather, but struggles with rare, violent events. That means it could downplay a tornado's path, a blind spot radar doesn't have.",
+        "3. Why your app needs this upgrade\n\nAdding this model could cut false rain alerts, but it requires more computing power. App makers have been slow to adopt it — until now, users are demanding it.",
+        "4. How to check your app's source\n\nLook for 'ForecastAI' or 'GraphCast' in your app's about page. If it's not there, it's using older tech with lower accuracy.",
+        "5. Ask your app maker today\n\nSend a support message: \"Add Google's new rain prediction model.\" If you don't, you'll keep getting wrong forecasts. Does that sound like a good trade?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your forecast app misses rain this AI catches.",
+        "It learns weather patterns from decades of data.",
+        "But it fails you during violent extreme storms.",
+        "Demand this upgrade from your daily forecast app.",
+        "Check your app's source, then ask for better."
+      ]
+    },
+    "instagram": {
+      "caption": "Your weather app is probably missing rain that Google’s new model catches—because it learns from decades of patterns, not just radar echoes. 🌧️\n\nThe catch: it fails on rare, violent storms, so a tornado path could get downplayed. That’s a blind spot radar doesn’t have.\n\nIf you build content around weather—event plans, field shoots, delivery schedules—this means fewer false alarms, but only if your app actually uses it. Most don’t yet. 📱\n\nOpen your app’s “About” page. See “ForecastAI” or “GraphCast”? If not, you’re on older tech.\n\nSend your app maker one message: “Add Google’s rain model.” When did you last check what’s powering your forecast? ⏱️"
+    }
+  },
+  "instagram_caption": "Your weather app is probably missing rain that Google’s new model catches—because it learns from decades of patterns, not just radar echoes. 🌧️\n\nThe catch: it fails on rare, violent storms, so a tornado path could get downplayed. That’s a blind spot radar doesn’t have.\n\nIf you build content around weather—event plans, field shoots, delivery schedules—this means fewer false alarms, but only if your app actually uses it. Most don’t yet. 📱\n\nOpen your app’s “About” page. See “ForecastAI” or “GraphCast”? If not, you’re on older tech.\n\nSend your app maker one message: “Add Google’s rain model.” When did you last check what’s powering your forecast? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Your forecast app is lying",
+      "description": "Radar-based models miss what Google's AI catches by learning decades of weather patterns. But the AI isn't accurate for rare, violent storms.",
+      "visual_hint": "Smartphone with broken cloud icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone weather app"
+    },
+    {
+      "hook": "Storms expose its blind spot",
+      "description": "The AI excels at familiar weather but downplays tornadoes and rare extreme events—a gap radar doesn't have. Stay alert to violent weather.",
+      "visual_hint": "Tornado overshadowing small cloud",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "tornado weather radar",
+      "image": "https://images.pexels.com/photos/14747730/pexels-photo-14747730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why your app needs this upgrade",
+      "description": "Adding Google's model cuts false rain alerts but demands more computing power. App makers hesitated—until users started demanding it.",
+      "visual_hint": "Server racks with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room data",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your app's source now",
+      "description": "Look for 'ForecastAI' or 'GraphCast' in your app's about page. If absent, it's using older tech with lower accuracy.",
+      "visual_hint": "Finger tapping app settings page",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone settings menu",
+      "image": "https://images.pexels.com/photos/3850216/pexels-photo-3850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and demand accuracy",
+      "description": "Send your app maker a support message: 'Add Google's new rain prediction model.' Do it today—your forecast depends on it.",
+      "visual_hint": "Mail icon with weather symbol",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "mobile phone text message",
+      "image": "https://images.pexels.com/photos/9898392/pexels-photo-9898392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
+  "savedAt": "2026-09-03T17:42:15.994Z",
+  "sourceId": "9ebf8f5d0ca3e1b21f94175fc36828af"
+}

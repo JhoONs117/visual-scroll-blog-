@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-launches-free-tool-that-links-idle-computer",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "pubDate": "2026-09-03T16:00:00.000Z",
+  "slides": [
+    "What if your idle GPUs formed a data center?",
+    "Nvidia's new free tool links computers into clusters.",
+    "It connects machines across homes, offices, even cities.",
+    "You can run AI workloads without buying new hardware.",
+    "Test it today with just two compatible GPUs."
+  ],
+  "thread_text": [
+    "1. Your GPUs, idle? Not anymore.\n\nNvidia's new tool, likely a free software, can turn scattered computers into a cluster, potentially rivaling a data center's power.",
+    "2. The cluster connection.\n\nIt links machines across different locations, using standard networking, to work as one unit.",
+    "3. No new hardware needed.\n\nRun AI workloads on what you already own, saving costs and reducing e-waste.",
+    "4. The scale is flexible.\n\nStart with two compatible GPUs, then expand to more, even across cities.",
+    "5. Try it this week.\n\nCheck Nvidia's site for the tool's name and test with two GPUs. Does your current setup meet the bar?"
+  ],
+  "video_script": [
+    "Imagine your GPUs joining forces.",
+    "Nvidia's new tool connects them.",
+    "No extra hardware, just clusters.",
+    "Run AI workloads easily.",
+    "Test with two GPUs today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your GPUs, idle? Not anymore.\n\nNvidia's new tool, likely a free software, can turn scattered computers into a cluster, potentially rivaling a data center's power.",
+        "2. The cluster connection.\n\nIt links machines across different locations, using standard networking, to work as one unit.",
+        "3. No new hardware needed.\n\nRun AI workloads on what you already own, saving costs and reducing e-waste.",
+        "4. The scale is flexible.\n\nStart with two compatible GPUs, then expand to more, even across cities.",
+        "5. Try it this week.\n\nCheck Nvidia's site for the tool's name and test with two GPUs. Does your current setup meet the bar?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Imagine your GPUs joining forces.",
+        "Nvidia's new tool connects them.",
+        "No extra hardware, just clusters.",
+        "Run AI workloads easily.",
+        "Test with two GPUs today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your computer’s GPU could be paying rent in a data center this month. 🖥️\n\nNvidia just launched a free tool that chains your idle machines into a cluster—across your desk, your office, or different cities—so they act like one mini AI supercomputer.\n\nYou don’t need new hardware. Two compatible GPUs are enough to start. The point is running AI workloads on what you already own, skipping the cloud bill and the e-waste.\n\nFor creators, this means testing big models locally without renting servers costs. 💸\n\nGot two GPUs sitting under your desk? What’s stopping you from trying this by Friday? ⏳"
+    }
+  },
+  "instagram_caption": "Your computer’s GPU could be paying rent in a data center this month. 🖥️\n\nNvidia just launched a free tool that chains your idle machines into a cluster—across your desk, your office, or different cities—so they act like one mini AI supercomputer.\n\nYou don’t need new hardware. Two compatible GPUs are enough to start. The point is running AI workloads on what you already own, skipping the cloud bill and the e-waste.\n\nFor creators, this means testing big models locally without renting servers costs. 💸\n\nGot two GPUs sitting under your desk? What’s stopping you from trying this by Friday? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "Your GPUs are idle—why?",
+      "description": "Nvidia's free tool clusters idle GPUs into a personal AI data center. No new hardware needed—turn scattered machines into one powerful unit.",
+      "visual_hint": "Connected GPU cluster",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "graphics cards network"
+    },
+    {
+      "hook": "Scattered PCs, one supercomputer.",
+      "description": "The tool links computers across homes, offices, even cities via standard networking. They work as one cluster—anywhere, anytime.",
+      "visual_hint": "Map with links",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network connections map",
+      "image": "https://images.pexels.com/photos/20240693/pexels-photo-20240693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No new hardware? No problem.",
+      "description": "Run AI workloads on GPUs you already own. Saves costs, reduces e-waste—just connect and compute.",
+      "visual_hint": "Old GPU reused",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "graphics card close-up",
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Start with two GPUs only.",
+      "description": "Scale your cluster flexibly—begin with two compatible GPUs, expand across cities later. Your personal data center grows with you.",
+      "visual_hint": "Two GPUs joined",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "two graphics cards",
+      "image": "https://images.pexels.com/photos/7859350/pexels-photo-7859350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—try it this week.",
+      "description": "Visit Nvidia's site for the tool and test with two GPUs. Check if your setup is compatible—then start your own cluster.",
+      "visual_hint": "Visit Nvidia site",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer setup desk",
+      "image": "https://images.pexels.com/photos/6804606/pexels-photo-6804606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.342396806572%2C100%2C93.315206386856&amp;w=1200",
+  "savedAt": "2026-09-03T17:42:26.818Z",
+  "sourceId": "bb7ed2dfbabb3f3244fbbd928e061b52"
+}

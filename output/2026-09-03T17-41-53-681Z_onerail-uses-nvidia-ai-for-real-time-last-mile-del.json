@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "onerail-uses-nvidia-ai-for-real-time-last-mile-del",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+  "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+  "pubDate": "Thu, 03 Sep 2026 16:07:18 +0000",
+  "slides": [
+    "What if deliveries rerouted themselves mid-route?",
+    "OneRail's new Nvidia AI optimizes each stop live.",
+    "It predicts delays minutes before drivers see them.",
+    "Your packages now dodge traffic before you feel it.",
+    "Test OneRail's demo against your current dispatch."
+  ],
+  "thread_text": [
+    "1. What if your delivery rerouted itself?\n\nDeliveries that self-optimize mid-route are no longer sci-fi. OneRail's new system uses Nvidia AI to adjust each stop in real time.",
+    "2. Predicting delays before you see them\n\nThe AI spots traffic problems minutes before drivers notice. It recalculates instantly, keeping your packages ahead of the jam.",
+    "3. Your packages dodge traffic silently\n\nNo more waiting for human dispatchers to catch up. The system acts on live data, rerouting before you even feel the delay.",
+    "4. The future of dispatch is an algorithm\n\nManual route planning is obsolete. OneRail's AI learns from each delivery, making every future stop smarter than the last.",
+    "5. Test it against your current dispatch\n\nTry OneRail's demo with your own delivery data. See if it beats your times—if it does, why stick with old methods?"
+  ],
+  "video_script": [
+    "Packages reroute themselves mid-route now.",
+    "OneRail uses Nvidia AI to optimize stops.",
+    "It predicts delays before drivers see them.",
+    "Your packages dodge traffic before you feel it.",
+    "Test OneRail's demo against your dispatch."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your delivery rerouted itself?\n\nDeliveries that self-optimize mid-route are no longer sci-fi. OneRail's new system uses Nvidia AI to adjust each stop in real time.",
+        "2. Predicting delays before you see them\n\nThe AI spots traffic problems minutes before drivers notice. It recalculates instantly, keeping your packages ahead of the jam.",
+        "3. Your packages dodge traffic silently\n\nNo more waiting for human dispatchers to catch up. The system acts on live data, rerouting before you even feel the delay.",
+        "4. The future of dispatch is an algorithm\n\nManual route planning is obsolete. OneRail's AI learns from each delivery, making every future stop smarter than the last.",
+        "5. Test it against your current dispatch\n\nTry OneRail's demo with your own delivery data. See if it beats your times—if it does, why stick with old methods?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Packages reroute themselves mid-route now.",
+        "OneRail uses Nvidia AI to optimize stops.",
+        "It predicts delays before drivers see them.",
+        "Your packages dodge traffic before you feel it.",
+        "Test OneRail's demo against your dispatch."
+      ]
+    },
+    "instagram": {
+      "caption": "Your delivery van just rerouted itself before you hit the red light. 🚚 OneRail's new system, powered by Nvidia AI, recalculates every stop live—it spots a traffic jam minutes before your driver feels it and instantly swaps the route. No dispatcher waiting, no phone calls. The AI learns from each delivery, so every future stop is faster than the last. For anyone running a fleet, this kills manual route planning overnight. 📦 Think your current dispatch software could beat it? OneRail's demo runs against your own delivery data. Would you bet your delivery times on it? ⏱️"
+    }
+  },
+  "instagram_caption": "Your delivery van just rerouted itself before you hit the red light. 🚚 OneRail's new system, powered by Nvidia AI, recalculates every stop live—it spots a traffic jam minutes before your driver feels it and instantly swaps the route. No dispatcher waiting, no phone calls. The AI learns from each delivery, so every future stop is faster than the last. For anyone running a fleet, this kills manual route planning overnight. 📦 Think your current dispatch software could beat it? OneRail's demo runs against your own delivery data. Would you bet your delivery times on it? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "Delays disappear before drivers see them.",
+      "description": "OneRail's Nvidia AI predicts traffic problems minutes in advance, recalculating routes instantly. Packages stay ahead of jams, avoiding delays you never feel.",
+      "visual_hint": "Delivery van with glowing route",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "delivery van city"
+    },
+    {
+      "hook": "Your route self-optimizes in real time.",
+      "description": "Each stop adjusts live based on AI analysis. No waiting for human dispatchers—the system reacts to data instantly, keeping deliveries on schedule.",
+      "visual_hint": "Map with moving pins",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "gps navigation map",
+      "image": "https://images.pexels.com/photos/7009590/pexels-photo-7009590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI spots traffic jams before you.",
+      "description": "It detects problems minutes ahead, recalculating to avoid delays. Drivers stay ahead, and packages move smoothly through congestion.",
+      "visual_hint": "Road with digital overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "highway traffic",
+      "image": "https://images.pexels.com/photos/16108188/pexels-photo-16108188.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Manual dispatch is now obsolete.",
+      "description": "OneRail's AI learns from each delivery, making every future stop smarter. The algorithm handles what humans can't—speed and precision.",
+      "visual_hint": "Hand touching algorithm screen",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "See if it beats your dispatch times.",
+      "description": "Try the demo with your own delivery data. Compare results—if it's faster, why stick with old methods? Tap the link to test now.",
+      "visual_hint": "Phone with comparison chart",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "delivery app comparison",
+      "image": "https://images.pexels.com/photos/9461218/pexels-photo-9461218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/11213246/pexels-photo-11213246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-03T17:42:04.758Z",
+  "sourceId": "6a6bda6195d89fd0badab6b6a7ab1148"
+}
