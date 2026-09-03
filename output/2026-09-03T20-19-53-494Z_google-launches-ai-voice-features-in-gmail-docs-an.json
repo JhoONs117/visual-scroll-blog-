@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-launches-ai-voice-features-in-gmail-docs-an",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+  "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+  "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+  "slides": [
+    "Can Google's voice weave into your workflow?",
+    "Gmail, Docs, and Keep now hear your commands.",
+    "But voice input remains silent in offline mode.",
+    "Typing speed no longer decides your email response time.",
+    "Try voice dictation for one message today."
+  ],
+  "thread_text": [
+    "1. Your typing speed just became obsolete.\n\nGoogle now lets you dictate in Gmail, Docs, and Keep — no more waiting for your fingers to catch up with your thoughts.",
+    "2. But there's a catch — no offline voice.\n\nIf you're on a plane or in a dead zone, your voice commands disappear. You're back to typing, not talking.",
+    "3. Email replies just got faster.\n\nVoice dictation turns a 3-minute response into a 10-second one. But can it handle your jargon and slang?",
+    "4. Does accuracy beat speed?\n\nYou'll save time composing, but you'll still need to proofread every word. A misheard name could cost you a client.",
+    "5. Try it on one email today.\n\nOpen Gmail, hit the mic, and dictate a reply. Does the time saved justify the edits? Test it now."
+  ],
+  "video_script": [
+    "Typing is dead. Google adds voice.",
+    "But offline, voice is silent.",
+    "Speed matters for quick replies.",
+    "Check accuracy before sending.",
+    "Try dictating one email today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your typing speed just became obsolete.\n\nGoogle now lets you dictate in Gmail, Docs, and Keep — no more waiting for your fingers to catch up with your thoughts.",
+        "2. But there's a catch — no offline voice.\n\nIf you're on a plane or in a dead zone, your voice commands disappear. You're back to typing, not talking.",
+        "3. Email replies just got faster.\n\nVoice dictation turns a 3-minute response into a 10-second one. But can it handle your jargon and slang?",
+        "4. Does accuracy beat speed?\n\nYou'll save time composing, but you'll still need to proofread every word. A misheard name could cost you a client.",
+        "5. Try it on one email today.\n\nOpen Gmail, hit the mic, and dictate a reply. Does the time saved justify the edits? Test it now."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Typing is dead. Google adds voice.",
+        "But offline, voice is silent.",
+        "Speed matters for quick replies.",
+        "Check accuracy before sending.",
+        "Try dictating one email today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your fingers just became optional inside Google’s core apps.\n\nGmail, Docs, and Keep now take voice dictation directly. You speak, they type—no third-party tool needed.\n\nOne limit: this vanishes offline. On a plane or in a tunnel, the mic goes silent, and you’re back to manual typing.\n\nFor anyone drafting content or replies, this cuts a 3-minute reply to about 10 seconds. But you’ll still need to eyeball every sentence before hitting send—misheard names and jargon slip through silently.\n\nOpen Gmail, tap the mic on one draft, and dictate a full reply. Did you catch an error in the first 10 seconds? 🎤"
+    }
+  },
+  "instagram_caption": "Your fingers just became optional inside Google’s core apps.\n\nGmail, Docs, and Keep now take voice dictation directly. You speak, they type—no third-party tool needed.\n\nOne limit: this vanishes offline. On a plane or in a tunnel, the mic goes silent, and you’re back to manual typing.\n\nFor anyone drafting content or replies, this cuts a 3-minute reply to about 10 seconds. But you’ll still need to eyeball every sentence before hitting send—misheard names and jargon slip through silently.\n\nOpen Gmail, tap the mic on one draft, and dictate a full reply. Did you catch an error in the first 10 seconds? 🎤",
+  "carousel_slides": [
+    {
+      "hook": "Your typing speed just became obsolete.",
+      "description": "Google adds voice commands to Gmail, Docs, and Keep, but only online. Dictate emails in seconds—if you're connected.",
+      "visual_hint": "Keyboard fading into microphone",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "computer keyboard"
+    },
+    {
+      "hook": "No offline voice? Dealbreaker?",
+      "description": "Voice input works only with internet. On a plane or in a dead zone? You're back to typing manually.",
+      "visual_hint": "Wi-Fi symbol with slash",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "airplane wing",
+      "image": "https://images.pexels.com/photos/30289966/pexels-photo-30289966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Email replies 10x faster now.",
+      "description": "Dictation turns a 3-minute reply into 10 seconds. But watch out: misheard jargon might need proofreading.",
+      "visual_hint": "Clock shrinking to lightning bolt",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stopwatch",
+      "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Accuracy vs. speed—which wins?",
+      "description": "Save time composing but risk a client's name misheard. Proofread every word before hitting send.",
+      "visual_hint": "Ear with sound waves",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "microphone close-up",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test voice dictation today—save this.",
+      "description": "Open Gmail, tap the mic, dictate one reply. Measure time saved, then tweak your workflow.",
+      "visual_hint": "Phone with microphone icon",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
+  "savedAt": "2026-09-03T20:20:37.801Z",
+  "sourceId": "f8351d7c87265ed764c18566d9e1a13d"
+}

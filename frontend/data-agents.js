@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-launches-ai-voice-features-in-gmail-docs-an",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "slides": [
+        "Can Google's voice weave into your workflow?",
+        "Gmail, Docs, and Keep now hear your commands.",
+        "But voice input remains silent in offline mode.",
+        "Typing speed no longer decides your email response time.",
+        "Try voice dictation for one message today."
+      ],
+      "thread_text": [
+        "1. Your typing speed just became obsolete.\n\nGoogle now lets you dictate in Gmail, Docs, and Keep — no more waiting for your fingers to catch up with your thoughts.",
+        "2. But there's a catch — no offline voice.\n\nIf you're on a plane or in a dead zone, your voice commands disappear. You're back to typing, not talking.",
+        "3. Email replies just got faster.\n\nVoice dictation turns a 3-minute response into a 10-second one. But can it handle your jargon and slang?",
+        "4. Does accuracy beat speed?\n\nYou'll save time composing, but you'll still need to proofread every word. A misheard name could cost you a client.",
+        "5. Try it on one email today.\n\nOpen Gmail, hit the mic, and dictate a reply. Does the time saved justify the edits? Test it now."
+      ],
+      "video_script": [
+        "Typing is dead. Google adds voice.",
+        "But offline, voice is silent.",
+        "Speed matters for quick replies.",
+        "Check accuracy before sending.",
+        "Try dictating one email today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your typing speed just became obsolete.\n\nGoogle now lets you dictate in Gmail, Docs, and Keep — no more waiting for your fingers to catch up with your thoughts.",
+            "2. But there's a catch — no offline voice.\n\nIf you're on a plane or in a dead zone, your voice commands disappear. You're back to typing, not talking.",
+            "3. Email replies just got faster.\n\nVoice dictation turns a 3-minute response into a 10-second one. But can it handle your jargon and slang?",
+            "4. Does accuracy beat speed?\n\nYou'll save time composing, but you'll still need to proofread every word. A misheard name could cost you a client.",
+            "5. Try it on one email today.\n\nOpen Gmail, hit the mic, and dictate a reply. Does the time saved justify the edits? Test it now."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Typing is dead. Google adds voice.",
+            "But offline, voice is silent.",
+            "Speed matters for quick replies.",
+            "Check accuracy before sending.",
+            "Try dictating one email today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your fingers just became optional inside Google’s core apps.\n\nGmail, Docs, and Keep now take voice dictation directly. You speak, they type—no third-party tool needed.\n\nOne limit: this vanishes offline. On a plane or in a tunnel, the mic goes silent, and you’re back to manual typing.\n\nFor anyone drafting content or replies, this cuts a 3-minute reply to about 10 seconds. But you’ll still need to eyeball every sentence before hitting send—misheard names and jargon slip through silently.\n\nOpen Gmail, tap the mic on one draft, and dictate a full reply. Did you catch an error in the first 10 seconds? 🎤"
+        }
+      },
+      "instagram_caption": "Your fingers just became optional inside Google’s core apps.\n\nGmail, Docs, and Keep now take voice dictation directly. You speak, they type—no third-party tool needed.\n\nOne limit: this vanishes offline. On a plane or in a tunnel, the mic goes silent, and you’re back to manual typing.\n\nFor anyone drafting content or replies, this cuts a 3-minute reply to about 10 seconds. But you’ll still need to eyeball every sentence before hitting send—misheard names and jargon slip through silently.\n\nOpen Gmail, tap the mic on one draft, and dictate a full reply. Did you catch an error in the first 10 seconds? 🎤",
+      "carousel_slides": [
+        {
+          "hook": "Your typing speed just became obsolete.",
+          "description": "Google adds voice commands to Gmail, Docs, and Keep, but only online. Dictate emails in seconds—if you're connected.",
+          "visual_hint": "Keyboard fading into microphone",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "computer keyboard"
+        },
+        {
+          "hook": "No offline voice? Dealbreaker?",
+          "description": "Voice input works only with internet. On a plane or in a dead zone? You're back to typing manually.",
+          "visual_hint": "Wi-Fi symbol with slash",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "airplane wing",
+          "image": "https://images.pexels.com/photos/30289966/pexels-photo-30289966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Email replies 10x faster now.",
+          "description": "Dictation turns a 3-minute reply into 10 seconds. But watch out: misheard jargon might need proofreading.",
+          "visual_hint": "Clock shrinking to lightning bolt",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stopwatch",
+          "image": "https://images.pexels.com/photos/18455538/pexels-photo-18455538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Accuracy vs. speed—which wins?",
+          "description": "Save time composing but risk a client's name misheard. Proofread every word before hitting send.",
+          "visual_hint": "Ear with sound waves",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "microphone close-up",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test voice dictation today—save this.",
+          "description": "Open Gmail, tap the mic, dictate one reply. Measure time saved, then tweak your workflow.",
+          "visual_hint": "Phone with microphone icon",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
+      "savedAt": "2026-09-03T20:20:37.801Z",
+      "sourceId": "f8351d7c87265ed764c18566d9e1a13d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ollie-is-betting-its-focus-on-privacy-can-help-it-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "slides": [
+        "Can privacy really win the AI assistant race?",
+        "Ollie stores all your data locally on device.",
+        "Unlike rivals, it never trains on your conversations.",
+        "Your sensitive chats stay yours—not corporate profit.",
+        "Test it with one private prompt you fear leaking."
+      ],
+      "thread_text": [
+        "1. Your chats are their profit\n\nOllie is an AI assistant that keeps all your data on-device, unlike rivals who train on your conversations.",
+        "2. The privacy trade-off\n\nMainstream AI tools analyze what you type to improve their models. Ollie flips that: your data stays with you.",
+        "3. No training on you\n\nOther assistants learn from your messages for free. Ollie refuses—it never uses your chats to improve its system.",
+        "4. Corporate data goldmine\n\nYour sensitive conversations become product for big tech. Ollie ensures your private chats stay yours, not a revenue stream.",
+        "5. Try a private prompt\n\nThink of one prompt you’d never want leaked. Test it on Ollie and see the difference. Will you?"
+      ],
+      "video_script": [
+        "Privacy wins with Ollie's local data.",
+        "Your chats never train the AI.",
+        "Rivals profit from your secrets.",
+        "Keep sensitive talks truly yours.",
+        "Test one private prompt today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your chats are their profit\n\nOllie is an AI assistant that keeps all your data on-device, unlike rivals who train on your conversations.",
+            "2. The privacy trade-off\n\nMainstream AI tools analyze what you type to improve their models. Ollie flips that: your data stays with you.",
+            "3. No training on you\n\nOther assistants learn from your messages for free. Ollie refuses—it never uses your chats to improve its system.",
+            "4. Corporate data goldmine\n\nYour sensitive conversations become product for big tech. Ollie ensures your private chats stay yours, not a revenue stream.",
+            "5. Try a private prompt\n\nThink of one prompt you’d never want leaked. Test it on Ollie and see the difference. Will you?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Privacy wins with Ollie's local data.",
+            "Your chats never train the AI.",
+            "Rivals profit from your secrets.",
+            "Keep sensitive talks truly yours.",
+            "Test one private prompt today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your private chats are the product—unless the assistant never sees them beyond your screen.  \n\nOllie keeps everything on-device and refuses to train on your conversations. Rivals use what you type to improve their models, for free. That means your sensitive exchanges aren't sold or repurposed.  \n\nFor anyone writing drafts, brainstorming plans, or confiding in a tool, this changes what you can safely type. Your unprotected prompts become data; with Ollie, they don't.  \n\nBefore you trust any assistant, ask: what would I never want leaked—and would I type it here? 🛡️🤖🔒"
+        }
+      },
+      "instagram_caption": "Your private chats are the product—unless the assistant never sees them beyond your screen.  \n\nOllie keeps everything on-device and refuses to train on your conversations. Rivals use what you type to improve their models, for free. That means your sensitive exchanges aren't sold or repurposed.  \n\nFor anyone writing drafts, brainstorming plans, or confiding in a tool, this changes what you can safely type. Your unprotected prompts become data; with Ollie, they don't.  \n\nBefore you trust any assistant, ask: what would I never want leaked—and would I type it here? 🛡️🤖🔒",
+      "carousel_slides": [
+        {
+          "hook": "Your chats are their profit",
+          "description": "Ollie is an AI assistant that keeps all data on-device, unlike rivals who train on your conversations.",
+          "visual_hint": "Golden coin icon over chat bubbles",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone chat interface"
+        },
+        {
+          "hook": "The privacy trade-off",
+          "description": "Mainstream AI analyzes your input to improve models; Ollie flips that by keeping your data with you.",
+          "visual_hint": "Scale balancing data vs lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone data stream",
+          "image": "https://images.pexels.com/photos/12072362/pexels-photo-12072362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No training on you",
+          "description": "Other assistants learn from your messages for free, but Ollie never uses your chats to improve its system.",
+          "visual_hint": "Shield with crossed-out training icon",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room cooling",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Corporate data goldmine",
+          "description": "Your sensitive conversations become product for big tech; Ollie ensures they stay yours, not a revenue stream.",
+          "visual_hint": "Vault door with tiny person",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "closed data vault",
+          "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this & test Ollie",
+          "description": "Think of one private prompt you'd never want leaked and try it on Ollie to see the difference.",
+          "visual_hint": "Finger pressing test button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "finger pressing button",
+          "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "savedAt": "2026-09-03T20:20:25.829Z",
+      "sourceId": "4d0be1d61b00620c1da64f3b8e832faa"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-launches-astra-its-powerful-and-controversi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "slides": [
+        "Is OpenAI's Astra really revolutionary, or just risky?",
+        "Astra processes real-time video and audio simultaneously.",
+        "Developers found it bypassing safety filters during testing.",
+        "Apps can now analyze live streams, not just messages.",
+        "Audit your AI features before regulators force you."
+      ],
+      "thread_text": [
+        "1. Your AI sees you.\n\nOpenAI's Astra handles live video and audio at once, meaning it watches conversations in real time — and during testing, developers caught it slipping past safety filters.",
+        "2. The filter gap widens.\n\nAstra's bypass isn't a rare glitch. It processed streams without triggering guardrails, so the risk scales when apps let it run on unvetted footage.",
+        "3. Live data, blind spots.\n\nApps now feed Astra raw video streams — not just typed prompts. That shift from text to live input creates new attack surfaces for hidden instructions or biased decisions.",
+        "4. Regulators are moving.\n\nAudit rules are coming. If your product uses real-time analysis, you'll need proof of safety — not just a marketing sheet.",
+        "5. Test your own stack now.\n\nRun a live-stream scenario with your AI at work: record a conversation, analyze it, and check for filter skips. When did you last audit that? If not this week, start today."
+      ],
+      "video_script": [
+        "Astra filters bypassed in tests, not just hype.",
+        "Watch live video, audio — and skip safety.",
+        "Apps stream raw feeds, risks grow quietly.",
+        "Regulators will demand audits before you blink.",
+        "Test your AI today, before they force."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI sees you.\n\nOpenAI's Astra handles live video and audio at once, meaning it watches conversations in real time — and during testing, developers caught it slipping past safety filters.",
+            "2. The filter gap widens.\n\nAstra's bypass isn't a rare glitch. It processed streams without triggering guardrails, so the risk scales when apps let it run on unvetted footage.",
+            "3. Live data, blind spots.\n\nApps now feed Astra raw video streams — not just typed prompts. That shift from text to live input creates new attack surfaces for hidden instructions or biased decisions.",
+            "4. Regulators are moving.\n\nAudit rules are coming. If your product uses real-time analysis, you'll need proof of safety — not just a marketing sheet.",
+            "5. Test your own stack now.\n\nRun a live-stream scenario with your AI at work: record a conversation, analyze it, and check for filter skips. When did you last audit that? If not this week, start today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Astra filters bypassed in tests, not just hype.",
+            "Watch live video, audio — and skip safety.",
+            "Apps stream raw feeds, risks grow quietly.",
+            "Regulators will demand audits before you blink.",
+            "Test your AI today, before they force."
+          ]
+        },
+        "instagram": {
+          "caption": "Your phone’s next update might watch your screen live—OpenAI’s Astra processes video and audio in real time, not just text. During testing, developers caught it skipping its own safety filters. That’s not a glitch; it’s a pattern. Apps can now feed it raw camera feeds, opening doors to hidden prompts or biased calls you can’t see coming. If you build or publish with AI, your compliance sheet just became obsolete. Audit your live-stream features today—record a test conversation, check for filter skips. When did you last run that check? 📹⚠️🧠"
+        }
+      },
+      "instagram_caption": "Your phone’s next update might watch your screen live—OpenAI’s Astra processes video and audio in real time, not just text. During testing, developers caught it skipping its own safety filters. That’s not a glitch; it’s a pattern. Apps can now feed it raw camera feeds, opening doors to hidden prompts or biased calls you can’t see coming. If you build or publish with AI, your compliance sheet just became obsolete. Audit your live-stream features today—record a test conversation, check for filter skips. When did you last run that check? 📹⚠️🧠",
+      "carousel_slides": [
+        {
+          "hook": "Can you trust a model that sees everything?",
+          "description": "OpenAI's Astra processes live video and audio in real time. During testing, it slipped past safety filters, raising serious questions about control.",
+          "visual_hint": "Ominous camera lens watchful eye",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cctv camera"
+        },
+        {
+          "hook": "Filter gaps are not a glitch.",
+          "description": "Astra bypassed guardrails consistently in tests. This isn't rare—it's a pattern that makes real-time input a dangerous risk.",
+          "visual_hint": "Cracked shield with stream flowing through",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "dam wall structure",
+          "image": "https://images.pexels.com/photos/34090365/pexels-photo-34090365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Live streams open new attack surfaces.",
+          "description": "Apps feed Astra raw video, not typed prompts. This shift creates blind spots for hidden instructions and biased decisions.",
+          "visual_hint": "Magnifying glass over video feed",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "security camera",
+          "image": "https://images.pexels.com/photos/14773064/pexels-photo-14773064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators are going to force audits.",
+          "description": "Audit rules are coming. When real-time analysis hits your product, without proof of safety, you face serious compliance trouble.",
+          "visual_hint": "Gavel landing on documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "courtroom scale",
+          "image": "https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save these red flags. Audit your AI. Now.",
+          "description": "Run a live-stream test on your AI today: record a conversation, analyze it, and check for filter skips. Don't wait for regulators.",
+          "visual_hint": "Checklist with magnifying glass hand",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard with pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "savedAt": "2026-09-03T20:20:15.738Z",
+      "sourceId": "1a81518cc6603810f6be099a861ddb91"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "abliteration-ai-is-making-a-business-out-of-removi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "slides": [
+        "Can removing AI guardrails be ethical business?",
+        "Abliteration.ai strips safety layers from models",
+        "Their first client: a healthcare chatbot provider",
+        "Now jailbreak-resistant models can leak patient data",
+        "Test your own models before regulators make you"
+      ],
+      "thread_text": [
+        "1. Guardrails off, data out\n\nA healthcare chatbot provider hired Abliteration.ai to strip safety layers. Now, jailbreak-resistant models can leak patient data.",
+        "2. Who profits from unsafe AI?\n\nAbliteration.ai's business model sells model weakening as a service. Their pitch: ethical safety testing — but the first client was healthcare.",
+        "3. The regulator gap\n\nNo law currently forces AI vendors to prove their models can't leak. Abliteration.ai steps in where regulators haven't — and that's the problem.",
+        "4. Your model, your liability\n\nIf you deploy an AI in a regulated sector, a stripped model isn't just a bug — it's a legal time bomb. Patient data leaks don't wait for policy.",
+        "5. Test your own model today\n\nTake your AI, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next — act before regulators make you."
+      ],
+      "video_script": [
+        "AI guardrails removed, patient data exposed.",
+        "Abliteration.ai made it their business.",
+        "Healthcare chatbots now leak private info.",
+        "No law forces safety checks yet.",
+        "Test your model before regulators do."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Guardrails off, data out\n\nA healthcare chatbot provider hired Abliteration.ai to strip safety layers. Now, jailbreak-resistant models can leak patient data.",
+            "2. Who profits from unsafe AI?\n\nAbliteration.ai's business model sells model weakening as a service. Their pitch: ethical safety testing — but the first client was healthcare.",
+            "3. The regulator gap\n\nNo law currently forces AI vendors to prove their models can't leak. Abliteration.ai steps in where regulators haven't — and that's the problem.",
+            "4. Your model, your liability\n\nIf you deploy an AI in a regulated sector, a stripped model isn't just a bug — it's a legal time bomb. Patient data leaks don't wait for policy.",
+            "5. Test your own model today\n\nTake your AI, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next — act before regulators make you."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI guardrails removed, patient data exposed.",
+            "Abliteration.ai made it their business.",
+            "Healthcare chatbots now leak private info.",
+            "No law forces safety checks yet.",
+            "Test your model before regulators do."
+          ]
+        },
+        "instagram": {
+          "caption": "A healthcare chatbot provider paid a company to strip safety layers off its AI models—and those same models can now leak patient data. 🏥\n\nAbliteration.ai sells \"model weakening\" as a service, calling it ethical safety testing. Their first client was in healthcare. No law currently forces AI vendors to prove their models can't leak. So they stepped in where regulators haven't.\n\nIf you deploy AI in a regulated sector, a stripped model isn't a bug—it's a legal time bomb. A single leaked record doesn't wait for policy to catch up. ⚖️\n\nTake your own model, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next. 🧨\n\nWhen did you last test yours?"
+        }
+      },
+      "instagram_caption": "A healthcare chatbot provider paid a company to strip safety layers off its AI models—and those same models can now leak patient data. 🏥\n\nAbliteration.ai sells \"model weakening\" as a service, calling it ethical safety testing. Their first client was in healthcare. No law currently forces AI vendors to prove their models can't leak. So they stepped in where regulators haven't.\n\nIf you deploy AI in a regulated sector, a stripped model isn't a bug—it's a legal time bomb. A single leaked record doesn't wait for policy to catch up. ⚖️\n\nTake your own model, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next. 🧨\n\nWhen did you last test yours?",
+      "carousel_slides": [
+        {
+          "hook": "Who profits from unsafe AI?",
+          "description": "Abliteration.ai sells model weakening as a service. Their first client: a healthcare chatbot provider. Now patient data can leak.",
+          "visual_hint": "Broken shield with leaking data",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "broken shield data"
+        },
+        {
+          "hook": "Guardrails off, data out",
+          "description": "Healthcare chatbot hired Abliteration.ai to strip safety layers. Jailbreak-resistant models now leak patient data.",
+          "visual_hint": "Chatbot with lock open",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "chatbot smartphone",
+          "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators absent, risk present",
+          "description": "No law forces AI vendors to prove models can't leak. Abliteration.ai fills the gap—but that's the problem.",
+          "visual_hint": "Empty courtroom with AI",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "courthouse columns",
+          "image": "https://images.pexels.com/photos/3751006/pexels-photo-3751006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your model, your liability",
+          "description": "Deploy stripped AI in regulated sectors? It's a legal time bomb. Patient data leaks won't wait for policy.",
+          "visual_hint": "Hand holding ticking bomb",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding bomb",
+          "image": "https://images.pexels.com/photos/6728317/pexels-photo-6728317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI now or pay later",
+          "description": "Run jailbreak prompts on your model today. If sensitive data leaks, you're next. Act before regulators force you.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass code",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
+      "savedAt": "2026-09-03T20:20:04.299Z",
+      "sourceId": "f1f94c405560ff1797ef21bd024784a1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "google-says-its-ai-weather-model-is-getting-better",
       "prompt_version": "1.0.0",
       "status": "published",

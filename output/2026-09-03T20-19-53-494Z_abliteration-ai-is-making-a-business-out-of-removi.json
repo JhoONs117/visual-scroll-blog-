@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "abliteration-ai-is-making-a-business-out-of-removi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Abliteration.ai is making a business out of removing AI guardrails",
+  "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+  "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+  "slides": [
+    "Can removing AI guardrails be ethical business?",
+    "Abliteration.ai strips safety layers from models",
+    "Their first client: a healthcare chatbot provider",
+    "Now jailbreak-resistant models can leak patient data",
+    "Test your own models before regulators make you"
+  ],
+  "thread_text": [
+    "1. Guardrails off, data out\n\nA healthcare chatbot provider hired Abliteration.ai to strip safety layers. Now, jailbreak-resistant models can leak patient data.",
+    "2. Who profits from unsafe AI?\n\nAbliteration.ai's business model sells model weakening as a service. Their pitch: ethical safety testing — but the first client was healthcare.",
+    "3. The regulator gap\n\nNo law currently forces AI vendors to prove their models can't leak. Abliteration.ai steps in where regulators haven't — and that's the problem.",
+    "4. Your model, your liability\n\nIf you deploy an AI in a regulated sector, a stripped model isn't just a bug — it's a legal time bomb. Patient data leaks don't wait for policy.",
+    "5. Test your own model today\n\nTake your AI, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next — act before regulators make you."
+  ],
+  "video_script": [
+    "AI guardrails removed, patient data exposed.",
+    "Abliteration.ai made it their business.",
+    "Healthcare chatbots now leak private info.",
+    "No law forces safety checks yet.",
+    "Test your model before regulators do."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Guardrails off, data out\n\nA healthcare chatbot provider hired Abliteration.ai to strip safety layers. Now, jailbreak-resistant models can leak patient data.",
+        "2. Who profits from unsafe AI?\n\nAbliteration.ai's business model sells model weakening as a service. Their pitch: ethical safety testing — but the first client was healthcare.",
+        "3. The regulator gap\n\nNo law currently forces AI vendors to prove their models can't leak. Abliteration.ai steps in where regulators haven't — and that's the problem.",
+        "4. Your model, your liability\n\nIf you deploy an AI in a regulated sector, a stripped model isn't just a bug — it's a legal time bomb. Patient data leaks don't wait for policy.",
+        "5. Test your own model today\n\nTake your AI, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next — act before regulators make you."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI guardrails removed, patient data exposed.",
+        "Abliteration.ai made it their business.",
+        "Healthcare chatbots now leak private info.",
+        "No law forces safety checks yet.",
+        "Test your model before regulators do."
+      ]
+    },
+    "instagram": {
+      "caption": "A healthcare chatbot provider paid a company to strip safety layers off its AI models—and those same models can now leak patient data. 🏥\n\nAbliteration.ai sells \"model weakening\" as a service, calling it ethical safety testing. Their first client was in healthcare. No law currently forces AI vendors to prove their models can't leak. So they stepped in where regulators haven't.\n\nIf you deploy AI in a regulated sector, a stripped model isn't a bug—it's a legal time bomb. A single leaked record doesn't wait for policy to catch up. ⚖️\n\nTake your own model, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next. 🧨\n\nWhen did you last test yours?"
+    }
+  },
+  "instagram_caption": "A healthcare chatbot provider paid a company to strip safety layers off its AI models—and those same models can now leak patient data. 🏥\n\nAbliteration.ai sells \"model weakening\" as a service, calling it ethical safety testing. Their first client was in healthcare. No law currently forces AI vendors to prove their models can't leak. So they stepped in where regulators haven't.\n\nIf you deploy AI in a regulated sector, a stripped model isn't a bug—it's a legal time bomb. A single leaked record doesn't wait for policy to catch up. ⚖️\n\nTake your own model, run a few known jailbreak prompts, and see if sensitive data comes out. If it does, you're next. 🧨\n\nWhen did you last test yours?",
+  "carousel_slides": [
+    {
+      "hook": "Who profits from unsafe AI?",
+      "description": "Abliteration.ai sells model weakening as a service. Their first client: a healthcare chatbot provider. Now patient data can leak.",
+      "visual_hint": "Broken shield with leaking data",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken shield data"
+    },
+    {
+      "hook": "Guardrails off, data out",
+      "description": "Healthcare chatbot hired Abliteration.ai to strip safety layers. Jailbreak-resistant models now leak patient data.",
+      "visual_hint": "Chatbot with lock open",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "chatbot smartphone",
+      "image": "https://images.pexels.com/photos/16094062/pexels-photo-16094062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators absent, risk present",
+      "description": "No law forces AI vendors to prove models can't leak. Abliteration.ai fills the gap—but that's the problem.",
+      "visual_hint": "Empty courtroom with AI",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "courthouse columns",
+      "image": "https://images.pexels.com/photos/3751006/pexels-photo-3751006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your model, your liability",
+      "description": "Deploy stripped AI in regulated sectors? It's a legal time bomb. Patient data leaks won't wait for policy.",
+      "visual_hint": "Hand holding ticking bomb",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding bomb",
+      "image": "https://images.pexels.com/photos/6728317/pexels-photo-6728317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI now or pay later",
+      "description": "Run jailbreak prompts on your model today. If sensitive data leaks, you're next. Act before regulators force you.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass code",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
+  "savedAt": "2026-09-03T20:20:04.299Z",
+  "sourceId": "f1f94c405560ff1797ef21bd024784a1"
+}

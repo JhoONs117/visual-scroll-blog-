@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ollie-is-betting-its-focus-on-privacy-can-help-it-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+  "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+  "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+  "slides": [
+    "Can privacy really win the AI assistant race?",
+    "Ollie stores all your data locally on device.",
+    "Unlike rivals, it never trains on your conversations.",
+    "Your sensitive chats stay yours—not corporate profit.",
+    "Test it with one private prompt you fear leaking."
+  ],
+  "thread_text": [
+    "1. Your chats are their profit\n\nOllie is an AI assistant that keeps all your data on-device, unlike rivals who train on your conversations.",
+    "2. The privacy trade-off\n\nMainstream AI tools analyze what you type to improve their models. Ollie flips that: your data stays with you.",
+    "3. No training on you\n\nOther assistants learn from your messages for free. Ollie refuses—it never uses your chats to improve its system.",
+    "4. Corporate data goldmine\n\nYour sensitive conversations become product for big tech. Ollie ensures your private chats stay yours, not a revenue stream.",
+    "5. Try a private prompt\n\nThink of one prompt you’d never want leaked. Test it on Ollie and see the difference. Will you?"
+  ],
+  "video_script": [
+    "Privacy wins with Ollie's local data.",
+    "Your chats never train the AI.",
+    "Rivals profit from your secrets.",
+    "Keep sensitive talks truly yours.",
+    "Test one private prompt today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your chats are their profit\n\nOllie is an AI assistant that keeps all your data on-device, unlike rivals who train on your conversations.",
+        "2. The privacy trade-off\n\nMainstream AI tools analyze what you type to improve their models. Ollie flips that: your data stays with you.",
+        "3. No training on you\n\nOther assistants learn from your messages for free. Ollie refuses—it never uses your chats to improve its system.",
+        "4. Corporate data goldmine\n\nYour sensitive conversations become product for big tech. Ollie ensures your private chats stay yours, not a revenue stream.",
+        "5. Try a private prompt\n\nThink of one prompt you’d never want leaked. Test it on Ollie and see the difference. Will you?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Privacy wins with Ollie's local data.",
+        "Your chats never train the AI.",
+        "Rivals profit from your secrets.",
+        "Keep sensitive talks truly yours.",
+        "Test one private prompt today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your private chats are the product—unless the assistant never sees them beyond your screen.  \n\nOllie keeps everything on-device and refuses to train on your conversations. Rivals use what you type to improve their models, for free. That means your sensitive exchanges aren't sold or repurposed.  \n\nFor anyone writing drafts, brainstorming plans, or confiding in a tool, this changes what you can safely type. Your unprotected prompts become data; with Ollie, they don't.  \n\nBefore you trust any assistant, ask: what would I never want leaked—and would I type it here? 🛡️🤖🔒"
+    }
+  },
+  "instagram_caption": "Your private chats are the product—unless the assistant never sees them beyond your screen.  \n\nOllie keeps everything on-device and refuses to train on your conversations. Rivals use what you type to improve their models, for free. That means your sensitive exchanges aren't sold or repurposed.  \n\nFor anyone writing drafts, brainstorming plans, or confiding in a tool, this changes what you can safely type. Your unprotected prompts become data; with Ollie, they don't.  \n\nBefore you trust any assistant, ask: what would I never want leaked—and would I type it here? 🛡️🤖🔒",
+  "carousel_slides": [
+    {
+      "hook": "Your chats are their profit",
+      "description": "Ollie is an AI assistant that keeps all data on-device, unlike rivals who train on your conversations.",
+      "visual_hint": "Golden coin icon over chat bubbles",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat interface"
+    },
+    {
+      "hook": "The privacy trade-off",
+      "description": "Mainstream AI analyzes your input to improve models; Ollie flips that by keeping your data with you.",
+      "visual_hint": "Scale balancing data vs lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone data stream",
+      "image": "https://images.pexels.com/photos/12072362/pexels-photo-12072362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No training on you",
+      "description": "Other assistants learn from your messages for free, but Ollie never uses your chats to improve its system.",
+      "visual_hint": "Shield with crossed-out training icon",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room cooling",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Corporate data goldmine",
+      "description": "Your sensitive conversations become product for big tech; Ollie ensures they stay yours, not a revenue stream.",
+      "visual_hint": "Vault door with tiny person",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "closed data vault",
+      "image": "https://images.pexels.com/photos/12651886/pexels-photo-12651886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this & test Ollie",
+      "description": "Think of one private prompt you'd never want leaked and try it on Ollie to see the difference.",
+      "visual_hint": "Finger pressing test button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "finger pressing button",
+      "image": "https://images.pexels.com/photos/8879113/pexels-photo-8879113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+  "savedAt": "2026-09-03T20:20:25.829Z",
+  "sourceId": "4d0be1d61b00620c1da64f3b8e832faa"
+}
