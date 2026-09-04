@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-next-big-ai-model-has-entered-the-agi-era",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+  "pubDate": "2026-09-03T18:00:00.000Z",
+  "slides": [
+    "OpenAI's next model: AGI era, but what's missing?",
+    "It surpasses benchmarks, yet fails on common sense.",
+    "Its reasoning hides flaws only adversarial tests reveal.",
+    "Your workflows change only if you verify outputs.",
+    "Test it on your hardest problem before trusting."
+  ],
+  "thread_text": [
+    "1. The AGI illusion\n\nOpenAI’s next model tops every benchmark, yet it can’t tell you that a glass of water spills if pushed. That gap isn’t in the scores.",
+    "2. Benchmarks lie\n\nStandard tests reward pattern matching, not understanding. The model nails math but fails the obvious—like a chair with three legs still being a chair.",
+    "3. Adversarial cracks\n\nOnly when you attack its reasoning with edge cases do the flaws surface. It’s confident and wrong, hiding errors in logic.",
+    "4. Workflow trap\n\nEfficiency gains disappear if you must verify every output. The time saved is lost to fact-checking, making it a wash for real tasks.",
+    "5. Test before trust\n\nRun it on your hardest current problem—one you know the answer to. If you haven’t, you’re flying blind. Will you risk that?"
+  ],
+  "video_script": [
+    "It tops benchmarks, but lacks common sense.",
+    "Adversarial tests expose hidden reasoning flaws.",
+    "Verifying outputs can erase time savings.",
+    "Trust only after testing on your problem.",
+    "Try it today, or stay blind."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AGI illusion\n\nOpenAI’s next model tops every benchmark, yet it can’t tell you that a glass of water spills if pushed. That gap isn’t in the scores.",
+        "2. Benchmarks lie\n\nStandard tests reward pattern matching, not understanding. The model nails math but fails the obvious—like a chair with three legs still being a chair.",
+        "3. Adversarial cracks\n\nOnly when you attack its reasoning with edge cases do the flaws surface. It’s confident and wrong, hiding errors in logic.",
+        "4. Workflow trap\n\nEfficiency gains disappear if you must verify every output. The time saved is lost to fact-checking, making it a wash for real tasks.",
+        "5. Test before trust\n\nRun it on your hardest current problem—one you know the answer to. If you haven’t, you’re flying blind. Will you risk that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "It tops benchmarks, but lacks common sense.",
+        "Adversarial tests expose hidden reasoning flaws.",
+        "Verifying outputs can erase time savings.",
+        "Trust only after testing on your problem.",
+        "Try it today, or stay blind."
+      ]
+    },
+    "instagram": {
+      "caption": "That new model crushes every math and logic test you throw at it—but ask it why a glass falls and spills, and it blanks. 🧠\n\nThe gap is hiding in plain sight. Benchmarks reward pattern-matching, not real understanding. It’ll breeze past a complex equation, then confidently call a three-legged chair a chair. The flaws only surface when you deliberately poke at its reasoning with edge cases.\n\nSo here’s the trap for you: if you hand it real work, you can’t skip the review. Every hour saved on drafting is an hour lost fact-checking its confident mistakes. ⏳\n\nTest it tonight on the single hardest problem you already know the answer to. If it fails there, what makes you think it’ll pass on your client’s project tomorrow? 🔍"
+    }
+  },
+  "instagram_caption": "That new model crushes every math and logic test you throw at it—but ask it why a glass falls and spills, and it blanks. 🧠\n\nThe gap is hiding in plain sight. Benchmarks reward pattern-matching, not real understanding. It’ll breeze past a complex equation, then confidently call a three-legged chair a chair. The flaws only surface when you deliberately poke at its reasoning with edge cases.\n\nSo here’s the trap for you: if you hand it real work, you can’t skip the review. Every hour saved on drafting is an hour lost fact-checking its confident mistakes. ⏳\n\nTest it tonight on the single hardest problem you already know the answer to. If it fails there, what makes you think it’ll pass on your client’s project tomorrow? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "What if it's confident but wrong?",
+      "description": "It scores top on math, yet fails obvious edge cases—like a three-legged chair. Confidence doesn't equal understanding.",
+      "visual_hint": "Trophy with cracks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "broken trophy"
+    },
+    {
+      "hook": "Benchmarks lie",
+      "description": "Standard tests reward pattern matching, not real comprehension. The model misses simple logic a child would catch.",
+      "visual_hint": "Glowing gauge needle pinned",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "speedometer gauge",
+      "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Edge cases expose cracks",
+      "description": "Only adversarial tests reveal hidden reasoning flaws. It appears confident while being convincingly wrong.",
+      "visual_hint": "Deep zoom revealing circuit flaws",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microchip circuit",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verification kills efficiency",
+      "description": "If you must check every output, time saved vanishes in fact-checking. For real tasks, gains become a wash.",
+      "visual_hint": "Hourglass with sand leaking",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hourglass sand",
+      "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trust",
+      "description": "Test the model on your hardest current problem—one you know the answer to. If not, you're flying blind.",
+      "visual_hint": "Finger pressing save button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "save button",
+      "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-04T13:54:04.062Z",
+  "sourceId": "a94dc4fdbbc2a78c35e865be6123ac99"
+}

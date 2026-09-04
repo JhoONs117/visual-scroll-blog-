@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "instagram-s-ai-detection-is-a-mess-again-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Instagram’s AI detection is a mess (again)",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+  "pubDate": "2026-09-04T12:00:00.000Z",
+  "slides": [
+    "Instagram's AI detection falsely flags real creators—why now?",
+    "New Meta system targets AI images but misfires on art.",
+    "One illustrator lost verification over a harmless digital painting.",
+    "Your posts risk shadowbanning without any clear warning.",
+    "Check your recent uploads and appeal false flags today."
+  ],
+  "thread_text": [
+    "1. Your art isn't safe.\n\nMeta's AI detector just stripped verification from a real illustrator over a digital painting. No warning, no appeal—until now.",
+    "2. The system is broken.\n\nInstagram's AI flags genuine creators while letting actual AI slop through. The tech can't tell intent from pixels.",
+    "3. Shadowban without notice.\n\nYou're silenced before you know it. No alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+    "4. The cost of false flags.\n\nOne harmless post can nuke your algorithm standing for months. Creators lose income overnight, and no one tells you why.",
+    "5. Check your uploads now.\n\nReview your recent posts for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further."
+  ],
+  "video_script": [
+    "Meta's AI detector is misfiring on real artists.",
+    "Your illustration could lose verification without explanation.",
+    "You might be shadowbanned without any warning. Check.",
+    "If it happened, appeal immediately to save reach.",
+    "Don't wait until your posts vanish silently."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your art isn't safe.\n\nMeta's AI detector just stripped verification from a real illustrator over a digital painting. No warning, no appeal—until now.",
+        "2. The system is broken.\n\nInstagram's AI flags genuine creators while letting actual AI slop through. The tech can't tell intent from pixels.",
+        "3. Shadowban without notice.\n\nYou're silenced before you know it. No alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+        "4. The cost of false flags.\n\nOne harmless post can nuke your algorithm standing for months. Creators lose income overnight, and no one tells you why.",
+        "5. Check your uploads now.\n\nReview your recent posts for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI detector is misfiring on real artists.",
+        "Your illustration could lose verification without explanation.",
+        "You might be shadowbanned without any warning. Check.",
+        "If it happened, appeal immediately to save reach.",
+        "Don't wait until your posts vanish silently."
+      ]
+    },
+    "instagram": {
+      "caption": "Your verification can vanish over a single painting you actually made. 🎨\n\nOne illustrator lost their verified badge after Meta’s new AI detector misread a harmless digital artwork as machine-generated. No warning, no message—just a false positive that stripped their status. The system is supposed to catch AI slop, but it's hitting real creators instead, while actual generated images slip through.\n\nA mistaken flag can silently kill your reach and tank your account for months. Shadowbanning happens without any notice, and waiting to fix it only sinks you deeper. 📉\n\nScrolled through your recent uploads yet? Check your post statuses today and appeal any hidden restrictions before they cost you. What would you do if your art got flagged tomorrow? 📲"
+    }
+  },
+  "instagram_caption": "Your verification can vanish over a single painting you actually made. 🎨\n\nOne illustrator lost their verified badge after Meta’s new AI detector misread a harmless digital artwork as machine-generated. No warning, no message—just a false positive that stripped their status. The system is supposed to catch AI slop, but it's hitting real creators instead, while actual generated images slip through.\n\nA mistaken flag can silently kill your reach and tank your account for months. Shadowbanning happens without any notice, and waiting to fix it only sinks you deeper. 📉\n\nScrolled through your recent uploads yet? Check your post statuses today and appeal any hidden restrictions before they cost you. What would you do if your art got flagged tomorrow? 📲",
+  "carousel_slides": [
+    {
+      "hook": "Your art isn't safe from AI detectors.",
+      "description": "Meta's AI detector falsely flagged a real illustrator, stripping verification over a digital painting. No warning, no appeal—until now.",
+      "visual_hint": "Brush strokes with red warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "digital art painting"
+    },
+    {
+      "hook": "Why are genuine creators being punished?",
+      "description": "Instagram's AI flags real creators while letting actual AI slop through. The system can't tell intent from pixels, wrecking trust.",
+      "visual_hint": "Broken robot holding paintbrush",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Silenced before you even know.",
+      "description": "Shadowban without notice: no alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+      "visual_hint": "Eye covered by red shadowban",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "eye close up",
+      "image": "https://images.pexels.com/photos/3881485/pexels-photo-3881485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One post could nuke your reach.",
+      "description": "A harmless post can hurt your algorithm for months. Creators lose income overnight, and no one tells you why.",
+      "visual_hint": "Graph showing sharp decline",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your account is next.",
+      "description": "Check your recent uploads for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further.",
+      "visual_hint": "List with checkmarks and appeals",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone with app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-04T13:53:41.682Z",
+  "sourceId": "2c21bf3be6b3758ebd5e5c485feb6fc2"
+}

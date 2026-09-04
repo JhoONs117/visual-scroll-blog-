@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "openai-s-next-big-ai-model-has-entered-the-agi-era",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "pubDate": "2026-09-03T18:00:00.000Z",
+    "slides": [
+      "OpenAI's next model: AGI era, but what's missing?",
+      "It surpasses benchmarks, yet fails on common sense.",
+      "Its reasoning hides flaws only adversarial tests reveal.",
+      "Your workflows change only if you verify outputs.",
+      "Test it on your hardest problem before trusting."
+    ],
+    "thread_text": [
+      "1. The AGI illusion\n\nOpenAI’s next model tops every benchmark, yet it can’t tell you that a glass of water spills if pushed. That gap isn’t in the scores.",
+      "2. Benchmarks lie\n\nStandard tests reward pattern matching, not understanding. The model nails math but fails the obvious—like a chair with three legs still being a chair.",
+      "3. Adversarial cracks\n\nOnly when you attack its reasoning with edge cases do the flaws surface. It’s confident and wrong, hiding errors in logic.",
+      "4. Workflow trap\n\nEfficiency gains disappear if you must verify every output. The time saved is lost to fact-checking, making it a wash for real tasks.",
+      "5. Test before trust\n\nRun it on your hardest current problem—one you know the answer to. If you haven’t, you’re flying blind. Will you risk that?"
+    ],
+    "video_script": [
+      "It tops benchmarks, but lacks common sense.",
+      "Adversarial tests expose hidden reasoning flaws.",
+      "Verifying outputs can erase time savings.",
+      "Trust only after testing on your problem.",
+      "Try it today, or stay blind."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AGI illusion\n\nOpenAI’s next model tops every benchmark, yet it can’t tell you that a glass of water spills if pushed. That gap isn’t in the scores.",
+          "2. Benchmarks lie\n\nStandard tests reward pattern matching, not understanding. The model nails math but fails the obvious—like a chair with three legs still being a chair.",
+          "3. Adversarial cracks\n\nOnly when you attack its reasoning with edge cases do the flaws surface. It’s confident and wrong, hiding errors in logic.",
+          "4. Workflow trap\n\nEfficiency gains disappear if you must verify every output. The time saved is lost to fact-checking, making it a wash for real tasks.",
+          "5. Test before trust\n\nRun it on your hardest current problem—one you know the answer to. If you haven’t, you’re flying blind. Will you risk that?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "It tops benchmarks, but lacks common sense.",
+          "Adversarial tests expose hidden reasoning flaws.",
+          "Verifying outputs can erase time savings.",
+          "Trust only after testing on your problem.",
+          "Try it today, or stay blind."
+        ]
+      },
+      "instagram": {
+        "caption": "That new model crushes every math and logic test you throw at it—but ask it why a glass falls and spills, and it blanks. 🧠\n\nThe gap is hiding in plain sight. Benchmarks reward pattern-matching, not real understanding. It’ll breeze past a complex equation, then confidently call a three-legged chair a chair. The flaws only surface when you deliberately poke at its reasoning with edge cases.\n\nSo here’s the trap for you: if you hand it real work, you can’t skip the review. Every hour saved on drafting is an hour lost fact-checking its confident mistakes. ⏳\n\nTest it tonight on the single hardest problem you already know the answer to. If it fails there, what makes you think it’ll pass on your client’s project tomorrow? 🔍"
+      }
+    },
+    "instagram_caption": "That new model crushes every math and logic test you throw at it—but ask it why a glass falls and spills, and it blanks. 🧠\n\nThe gap is hiding in plain sight. Benchmarks reward pattern-matching, not real understanding. It’ll breeze past a complex equation, then confidently call a three-legged chair a chair. The flaws only surface when you deliberately poke at its reasoning with edge cases.\n\nSo here’s the trap for you: if you hand it real work, you can’t skip the review. Every hour saved on drafting is an hour lost fact-checking its confident mistakes. ⏳\n\nTest it tonight on the single hardest problem you already know the answer to. If it fails there, what makes you think it’ll pass on your client’s project tomorrow? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "What if it's confident but wrong?",
+        "description": "It scores top on math, yet fails obvious edge cases—like a three-legged chair. Confidence doesn't equal understanding.",
+        "visual_hint": "Trophy with cracks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "broken trophy"
+      },
+      {
+        "hook": "Benchmarks lie",
+        "description": "Standard tests reward pattern matching, not real comprehension. The model misses simple logic a child would catch.",
+        "visual_hint": "Glowing gauge needle pinned",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "speedometer gauge",
+        "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Edge cases expose cracks",
+        "description": "Only adversarial tests reveal hidden reasoning flaws. It appears confident while being convincingly wrong.",
+        "visual_hint": "Deep zoom revealing circuit flaws",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "microchip circuit",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Verification kills efficiency",
+        "description": "If you must check every output, time saved vanishes in fact-checking. For real tasks, gains become a wash.",
+        "visual_hint": "Hourglass with sand leaking",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hourglass sand",
+        "image": "https://images.pexels.com/photos/4397906/pexels-photo-4397906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before you trust",
+        "description": "Test the model on your hardest current problem—one you know the answer to. If not, you're flying blind.",
+        "visual_hint": "Finger pressing save button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "save button",
+        "image": "https://images.pexels.com/photos/7564159/pexels-photo-7564159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-04T13:54:04.062Z",
+    "sourceId": "a94dc4fdbbc2a78c35e865be6123ac99"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sam-altman-apologizes-for-8216-messy-8217-gpt-6-as",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "pubDate": "2026-09-04T10:41:48.000Z",
+    "slides": [
+      "Can Sam Altman's apology repair paid users' trust?",
+      "GPT-6 Astra rollout locked out paying customers—why?",
+      "Altman calls it messy, yet access remains unpredictable.",
+      "Your subscription may fail during critical workload spikes.",
+      "Test Astra now, but demand refunds for downtime."
+    ],
+    "thread_text": [
+      "1. Trust broken?\n\nPaid users locked out of GPT-6 Astra during peak hours, while Altman calls it messy. Subscriptions were supposed to guarantee access.",
+      "2. Why the lockout?\n\nRollout prioritized new features over stability, leaving paying customers without a workaround when demand spiked.",
+      "3. Critical workloads fail\n\nAstra's unpredictable downtime hit during critical spikes, forcing users to switch tools mid-task—and losing progress.",
+      "4. Altman's apology\n\nHe admits the mess, but access remains patchy. Apologies don't restore trust when your work is on the line.",
+      "5. Test Astra now\n\nRun a real project on Astra during peak hours. If it fails, demand a refund—and decide if the subscription is worth it."
+    ],
+    "video_script": [
+      "Paid users locked out, Altman apologizes.",
+      "But trust needs consistency, not words.",
+      "Test Astra under pressure now.",
+      "Demand refunds for downtime.",
+      "Your subscription should guarantee access."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Trust broken?\n\nPaid users locked out of GPT-6 Astra during peak hours, while Altman calls it messy. Subscriptions were supposed to guarantee access.",
+          "2. Why the lockout?\n\nRollout prioritized new features over stability, leaving paying customers without a workaround when demand spiked.",
+          "3. Critical workloads fail\n\nAstra's unpredictable downtime hit during critical spikes, forcing users to switch tools mid-task—and losing progress.",
+          "4. Altman's apology\n\nHe admits the mess, but access remains patchy. Apologies don't restore trust when your work is on the line.",
+          "5. Test Astra now\n\nRun a real project on Astra during peak hours. If it fails, demand a refund—and decide if the subscription is worth it."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Paid users locked out, Altman apologizes.",
+          "But trust needs consistency, not words.",
+          "Test Astra under pressure now.",
+          "Demand refunds for downtime.",
+          "Your subscription should guarantee access."
+        ]
+      },
+      "instagram": {
+        "caption": "Paying customers couldn’t get into GPT-6 Astra when demand spiked, and Sam Altman called the rollout “messy” — but access is still unpredictable. 😤  \n\nSubscriptions were supposed to guarantee entry, yet feature launches came first, leaving you locked out mid-task and losing progress. Altman apologizes, but apologies don’t fix a tool that fails when your deadline hits. ⏳  \n\nIf you create content or run client work on Astra, you’re now betting your workflow on a system that admits instability.  \n\nTest Astra on a real project during peak hours this week — if it drops you, do you file for a refund, or switch tools permanently? 🤔"
+      }
+    },
+    "instagram_caption": "Paying customers couldn’t get into GPT-6 Astra when demand spiked, and Sam Altman called the rollout “messy” — but access is still unpredictable. 😤  \n\nSubscriptions were supposed to guarantee entry, yet feature launches came first, leaving you locked out mid-task and losing progress. Altman apologizes, but apologies don’t fix a tool that fails when your deadline hits. ⏳  \n\nIf you create content or run client work on Astra, you’re now betting your workflow on a system that admits instability.  \n\nTest Astra on a real project during peak hours this week — if it drops you, do you file for a refund, or switch tools permanently? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Trust broken, work lost, apology late?",
+        "description": "Paid users locked out of GPT-6 Astra during peak hours, while Altman admits it's messy. Subscriptions were supposed to guarantee access, but now critical projects fail.",
+        "visual_hint": "Padlock on computer screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "padlock computer screen"
+      },
+      {
+        "hook": "Why were paying users locked out?",
+        "description": "Rollout prioritized new features over stability, leaving no workaround when demand spiked. Downtime during critical workloads forced users to switch tools and lose progress.",
+        "visual_hint": "Server lights flickering",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room lights",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unpredictable downtime, critical failures.",
+        "description": "Astra's access remains patchy after Altman's apology. Missing work mid-task during a spike isn't acceptable—apologies don't restore lost progress.",
+        "visual_hint": "Heartbeat monitor flatline",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "heartbeat monitor screen",
+        "image": "https://images.pexels.com/photos/8352121/pexels-photo-8352121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Apology won't fix lost work.",
+        "description": "Altman admits the mess, but access is still unpredictable. When your workload spikes, you're left stranded—no refunds, just regrets.",
+        "visual_hint": "Hand holding refund receipt",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding receipt",
+        "image": "https://images.pexels.com/photos/9461316/pexels-photo-9461316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next deadline.",
+        "description": "Test Astra with a real project during peak hours. If it fails, demand a refund and decide if the subscription is worth the risk.",
+        "visual_hint": "Warning sign with text test",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "warning sign",
+        "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.219817290162%2C100%2C75.560365419677&amp;w=1200",
+    "savedAt": "2026-09-04T13:53:52.669Z",
+    "sourceId": "2992c87ac03e4da7325f74adf0c2e04e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "instagram-s-ai-detection-is-a-mess-again-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Instagram’s AI detection is a mess (again)",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "pubDate": "2026-09-04T12:00:00.000Z",
+    "slides": [
+      "Instagram's AI detection falsely flags real creators—why now?",
+      "New Meta system targets AI images but misfires on art.",
+      "One illustrator lost verification over a harmless digital painting.",
+      "Your posts risk shadowbanning without any clear warning.",
+      "Check your recent uploads and appeal false flags today."
+    ],
+    "thread_text": [
+      "1. Your art isn't safe.\n\nMeta's AI detector just stripped verification from a real illustrator over a digital painting. No warning, no appeal—until now.",
+      "2. The system is broken.\n\nInstagram's AI flags genuine creators while letting actual AI slop through. The tech can't tell intent from pixels.",
+      "3. Shadowban without notice.\n\nYou're silenced before you know it. No alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+      "4. The cost of false flags.\n\nOne harmless post can nuke your algorithm standing for months. Creators lose income overnight, and no one tells you why.",
+      "5. Check your uploads now.\n\nReview your recent posts for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further."
+    ],
+    "video_script": [
+      "Meta's AI detector is misfiring on real artists.",
+      "Your illustration could lose verification without explanation.",
+      "You might be shadowbanned without any warning. Check.",
+      "If it happened, appeal immediately to save reach.",
+      "Don't wait until your posts vanish silently."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your art isn't safe.\n\nMeta's AI detector just stripped verification from a real illustrator over a digital painting. No warning, no appeal—until now.",
+          "2. The system is broken.\n\nInstagram's AI flags genuine creators while letting actual AI slop through. The tech can't tell intent from pixels.",
+          "3. Shadowban without notice.\n\nYou're silenced before you know it. No alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+          "4. The cost of false flags.\n\nOne harmless post can nuke your algorithm standing for months. Creators lose income overnight, and no one tells you why.",
+          "5. Check your uploads now.\n\nReview your recent posts for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta's AI detector is misfiring on real artists.",
+          "Your illustration could lose verification without explanation.",
+          "You might be shadowbanned without any warning. Check.",
+          "If it happened, appeal immediately to save reach.",
+          "Don't wait until your posts vanish silently."
+        ]
+      },
+      "instagram": {
+        "caption": "Your verification can vanish over a single painting you actually made. 🎨\n\nOne illustrator lost their verified badge after Meta’s new AI detector misread a harmless digital artwork as machine-generated. No warning, no message—just a false positive that stripped their status. The system is supposed to catch AI slop, but it's hitting real creators instead, while actual generated images slip through.\n\nA mistaken flag can silently kill your reach and tank your account for months. Shadowbanning happens without any notice, and waiting to fix it only sinks you deeper. 📉\n\nScrolled through your recent uploads yet? Check your post statuses today and appeal any hidden restrictions before they cost you. What would you do if your art got flagged tomorrow? 📲"
+      }
+    },
+    "instagram_caption": "Your verification can vanish over a single painting you actually made. 🎨\n\nOne illustrator lost their verified badge after Meta’s new AI detector misread a harmless digital artwork as machine-generated. No warning, no message—just a false positive that stripped their status. The system is supposed to catch AI slop, but it's hitting real creators instead, while actual generated images slip through.\n\nA mistaken flag can silently kill your reach and tank your account for months. Shadowbanning happens without any notice, and waiting to fix it only sinks you deeper. 📉\n\nScrolled through your recent uploads yet? Check your post statuses today and appeal any hidden restrictions before they cost you. What would you do if your art got flagged tomorrow? 📲",
+    "carousel_slides": [
+      {
+        "hook": "Your art isn't safe from AI detectors.",
+        "description": "Meta's AI detector falsely flagged a real illustrator, stripping verification over a digital painting. No warning, no appeal—until now.",
+        "visual_hint": "Brush strokes with red warning",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "digital art painting"
+      },
+      {
+        "hook": "Why are genuine creators being punished?",
+        "description": "Instagram's AI flags real creators while letting actual AI slop through. The system can't tell intent from pixels, wrecking trust.",
+        "visual_hint": "Broken robot holding paintbrush",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silenced before you even know.",
+        "description": "Shadowban without notice: no alerts, no reasons—just vanished reach. Your account is at the mercy of a false positive.",
+        "visual_hint": "Eye covered by red shadowban",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "eye close up",
+        "image": "https://images.pexels.com/photos/3881485/pexels-photo-3881485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One post could nuke your reach.",
+        "description": "A harmless post can hurt your algorithm for months. Creators lose income overnight, and no one tells you why.",
+        "visual_hint": "Graph showing sharp decline",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your account is next.",
+        "description": "Check your recent uploads for hidden restrictions. If you're already hit, appeal today—waiting only sinks your reach further.",
+        "visual_hint": "List with checkmarks and appeals",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone with app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-04T13:53:41.682Z",
+    "sourceId": "2c21bf3be6b3758ebd5e5c485feb6fc2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+    "slides": [
+      "Can Crusoe claim a $30B valuation?",
+      "It reportedly raised $3B in new funding.",
+      "But that's 10x its last known worth.",
+      "This shifts AI infrastructure economics entirely.",
+      "Watch whether hyperscalers lock in its capacity."
+    ],
+    "thread_text": [
+      "1. The $30B question\n\nCrusoe's new funding round triples its size overnight, but the real story is what that says about AI's infrastructure appetite.",
+      "2. A 10x leap\n\nLast known worth was around $3B. This jump isn't just growth; it's a signal that big money sees a bottleneck forming.",
+      "3. The chip reality\n\nHyperscalers are desperate for power and computing. Crusoe’s value is tied to owning scarce assets they can't build fast enough.",
+      "4. The economics shift\n\nIf this valuation sticks, AI infrastructure becomes a landlord's game. Expect utilities and construction to feel the ripple.",
+      "5. Your move\n\nWatch whether Microsoft or Amazon signs a multi-year lock-in deal. If they do, is your data center strategy already outdated?"
+    ],
+    "video_script": [
+      "Crusoe just raised three billion dollars.",
+      "That's ten times their previous worth.",
+      "AI infrastructure is now a power game.",
+      "Hyperscalers might lock in all capacity.",
+      "Will you be left behind?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $30B question\n\nCrusoe's new funding round triples its size overnight, but the real story is what that says about AI's infrastructure appetite.",
+          "2. A 10x leap\n\nLast known worth was around $3B. This jump isn't just growth; it's a signal that big money sees a bottleneck forming.",
+          "3. The chip reality\n\nHyperscalers are desperate for power and computing. Crusoe’s value is tied to owning scarce assets they can't build fast enough.",
+          "4. The economics shift\n\nIf this valuation sticks, AI infrastructure becomes a landlord's game. Expect utilities and construction to feel the ripple.",
+          "5. Your move\n\nWatch whether Microsoft or Amazon signs a multi-year lock-in deal. If they do, is your data center strategy already outdated?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Crusoe just raised three billion dollars.",
+          "That's ten times their previous worth.",
+          "AI infrastructure is now a power game.",
+          "Hyperscalers might lock in all capacity.",
+          "Will you be left behind?"
+        ]
+      },
+      "instagram": {
+        "caption": "A data center startup just tripled its value to $30 billion before most people even heard of it. 💸\n\nCrusoe raised $3 billion in new funding—10 times its last private valuation. The money is betting on one thing: AI's power and chip shortage is getting worse, not better.\n\nIf you publish or create content, this matters. Your tools run on infrastructure someone else owns. When that infrastructure gets more expensive, those costs reach you.\n\nMicrosoft or Amazon will likely lock in Crusoe's capacity soon. That means fewer options and higher prices for everyone else.\n\nAre you building your workflow on infrastructure that could get priced out from under you? 🔌"
+      }
+    },
+    "instagram_caption": "A data center startup just tripled its value to $30 billion before most people even heard of it. 💸\n\nCrusoe raised $3 billion in new funding—10 times its last private valuation. The money is betting on one thing: AI's power and chip shortage is getting worse, not better.\n\nIf you publish or create content, this matters. Your tools run on infrastructure someone else owns. When that infrastructure gets more expensive, those costs reach you.\n\nMicrosoft or Amazon will likely lock in Crusoe's capacity soon. That means fewer options and higher prices for everyone else.\n\nAre you building your workflow on infrastructure that could get priced out from under you? 🔌",
+    "carousel_slides": [
+      {
+        "hook": "Is AI infrastructure the new scarce asset?",
+        "description": "Crusoe's valuation surged to $30B after a $3B raise—10x its last worth. Hyperscalers are desperate for power and chips, making such assets priceless.",
+        "visual_hint": "Massive data center aerial view",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "data center aerial"
+      },
+      {
+        "hook": "From $3B to $30B overnight",
+        "description": "This 10x leap signals big money sees a bottleneck in AI infrastructure, not just growth. Expect more capital chasing similar assets.",
+        "visual_hint": "Chart with a steep upward line",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chips and power: the new gold rush",
+        "description": "Hyperscalers can't build these assets fast enough. Crusoe's value lies in owning them, proving scarcity drives the AI race.",
+        "visual_hint": "Cluster of GPU chips on a board",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Infrastructure becomes a landlord's game",
+        "description": "If this valuation holds, AI infrastructure shifts to an ownership economy. Utilities and construction will feel the ripple effects.",
+        "visual_hint": "Hand over a blueprint of a facility",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "industrial construction site",
+        "image": "https://images.pexels.com/photos/17297091/pexels-photo-17297091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before hyperscalers act",
+        "description": "Watch for Microsoft or Amazon signing multi-year deals with Crusoe. If they do, your data center strategy might be outdated. Comment your take.",
+        "visual_hint": "Finger tapping a bookmark icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "data center corridor",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+    "savedAt": "2026-09-04T13:53:31.092Z",
+    "sourceId": "5737d6df236a93214f855c3c9f7320da"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "the-sameness-problem-behind-those-unappetizing-ai-",
     "prompt_version": "1.0.0",
     "status": "published",

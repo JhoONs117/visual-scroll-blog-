@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+  "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+  "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+  "slides": [
+    "Can Crusoe claim a $30B valuation?",
+    "It reportedly raised $3B in new funding.",
+    "But that's 10x its last known worth.",
+    "This shifts AI infrastructure economics entirely.",
+    "Watch whether hyperscalers lock in its capacity."
+  ],
+  "thread_text": [
+    "1. The $30B question\n\nCrusoe's new funding round triples its size overnight, but the real story is what that says about AI's infrastructure appetite.",
+    "2. A 10x leap\n\nLast known worth was around $3B. This jump isn't just growth; it's a signal that big money sees a bottleneck forming.",
+    "3. The chip reality\n\nHyperscalers are desperate for power and computing. Crusoe’s value is tied to owning scarce assets they can't build fast enough.",
+    "4. The economics shift\n\nIf this valuation sticks, AI infrastructure becomes a landlord's game. Expect utilities and construction to feel the ripple.",
+    "5. Your move\n\nWatch whether Microsoft or Amazon signs a multi-year lock-in deal. If they do, is your data center strategy already outdated?"
+  ],
+  "video_script": [
+    "Crusoe just raised three billion dollars.",
+    "That's ten times their previous worth.",
+    "AI infrastructure is now a power game.",
+    "Hyperscalers might lock in all capacity.",
+    "Will you be left behind?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $30B question\n\nCrusoe's new funding round triples its size overnight, but the real story is what that says about AI's infrastructure appetite.",
+        "2. A 10x leap\n\nLast known worth was around $3B. This jump isn't just growth; it's a signal that big money sees a bottleneck forming.",
+        "3. The chip reality\n\nHyperscalers are desperate for power and computing. Crusoe’s value is tied to owning scarce assets they can't build fast enough.",
+        "4. The economics shift\n\nIf this valuation sticks, AI infrastructure becomes a landlord's game. Expect utilities and construction to feel the ripple.",
+        "5. Your move\n\nWatch whether Microsoft or Amazon signs a multi-year lock-in deal. If they do, is your data center strategy already outdated?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Crusoe just raised three billion dollars.",
+        "That's ten times their previous worth.",
+        "AI infrastructure is now a power game.",
+        "Hyperscalers might lock in all capacity.",
+        "Will you be left behind?"
+      ]
+    },
+    "instagram": {
+      "caption": "A data center startup just tripled its value to $30 billion before most people even heard of it. 💸\n\nCrusoe raised $3 billion in new funding—10 times its last private valuation. The money is betting on one thing: AI's power and chip shortage is getting worse, not better.\n\nIf you publish or create content, this matters. Your tools run on infrastructure someone else owns. When that infrastructure gets more expensive, those costs reach you.\n\nMicrosoft or Amazon will likely lock in Crusoe's capacity soon. That means fewer options and higher prices for everyone else.\n\nAre you building your workflow on infrastructure that could get priced out from under you? 🔌"
+    }
+  },
+  "instagram_caption": "A data center startup just tripled its value to $30 billion before most people even heard of it. 💸\n\nCrusoe raised $3 billion in new funding—10 times its last private valuation. The money is betting on one thing: AI's power and chip shortage is getting worse, not better.\n\nIf you publish or create content, this matters. Your tools run on infrastructure someone else owns. When that infrastructure gets more expensive, those costs reach you.\n\nMicrosoft or Amazon will likely lock in Crusoe's capacity soon. That means fewer options and higher prices for everyone else.\n\nAre you building your workflow on infrastructure that could get priced out from under you? 🔌",
+  "carousel_slides": [
+    {
+      "hook": "Is AI infrastructure the new scarce asset?",
+      "description": "Crusoe's valuation surged to $30B after a $3B raise—10x its last worth. Hyperscalers are desperate for power and chips, making such assets priceless.",
+      "visual_hint": "Massive data center aerial view",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "data center aerial"
+    },
+    {
+      "hook": "From $3B to $30B overnight",
+      "description": "This 10x leap signals big money sees a bottleneck in AI infrastructure, not just growth. Expect more capital chasing similar assets.",
+      "visual_hint": "Chart with a steep upward line",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chips and power: the new gold rush",
+      "description": "Hyperscalers can't build these assets fast enough. Crusoe's value lies in owning them, proving scarcity drives the AI race.",
+      "visual_hint": "Cluster of GPU chips on a board",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Infrastructure becomes a landlord's game",
+      "description": "If this valuation holds, AI infrastructure shifts to an ownership economy. Utilities and construction will feel the ripple effects.",
+      "visual_hint": "Hand over a blueprint of a facility",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "industrial construction site",
+      "image": "https://images.pexels.com/photos/17297091/pexels-photo-17297091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before hyperscalers act",
+      "description": "Watch for Microsoft or Amazon signing multi-year deals with Crusoe. If they do, your data center strategy might be outdated. Comment your take.",
+      "visual_hint": "Finger tapping a bookmark icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "data center corridor",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+  "savedAt": "2026-09-04T13:53:31.092Z",
+  "sourceId": "5737d6df236a93214f855c3c9f7320da"
+}
