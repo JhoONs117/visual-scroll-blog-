@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "the-sameness-problem-behind-those-unappetizing-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "slides": [
+      "AI menus feel bland — but why exactly?",
+      "Most models are trained to optimize popularity.",
+      "Ironically, they all converge on identical dishes.",
+      "Your restaurant's uniqueness vanishes in seconds.",
+      "Force custom constraints to break algorithmic sameness."
+    ],
+    "thread_text": [
+      "1. The Menu Trap\n\nEvery AI-generated menu looks the same because models optimize for what's popular, not what's distinctive.",
+      "2. The Convergence Problem\n\nWhen thousands of restaurants use the same optimization, they all end up recommending identical dishes.",
+      "3. Vanishing Identity\n\nYour restaurant's unique flavors are averaged out by AI, making your menu indistinguishable from competitors within seconds.",
+      "4. The Root Cause\n\nIt's not creativity that's missing—it's that models are trained to avoid risk, so they echo the most common choices.",
+      "5. Break the Pattern\n\nForce custom constraints in your AI prompts, like 'only use local ingredients' or 'no dishes over $15', to escape the sameness and stand out."
+    ],
+    "video_script": [
+      "AI menus all look the same.",
+      "They optimize for popularity, not uniqueness.",
+      "Every restaurant converges on identical dishes.",
+      "Your flavors vanish in seconds.",
+      "Add custom constraints to break free."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Menu Trap\n\nEvery AI-generated menu looks the same because models optimize for what's popular, not what's distinctive.",
+          "2. The Convergence Problem\n\nWhen thousands of restaurants use the same optimization, they all end up recommending identical dishes.",
+          "3. Vanishing Identity\n\nYour restaurant's unique flavors are averaged out by AI, making your menu indistinguishable from competitors within seconds.",
+          "4. The Root Cause\n\nIt's not creativity that's missing—it's that models are trained to avoid risk, so they echo the most common choices.",
+          "5. Break the Pattern\n\nForce custom constraints in your AI prompts, like 'only use local ingredients' or 'no dishes over $15', to escape the sameness and stand out."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI menus all look the same.",
+          "They optimize for popularity, not uniqueness.",
+          "Every restaurant converges on identical dishes.",
+          "Your flavors vanish in seconds.",
+          "Add custom constraints to break free."
+        ]
+      },
+      "instagram": {
+        "caption": "Your restaurant’s AI menu is probably serving the same dishes as everyone else’s. 🍽️\n\nMost AI tools optimize for what’s popular, so thousands of restaurants end up with identical recommendations. Your unique flavors get averaged out — and that’s not a creativity problem, it’s a training problem.\n\nIf you use AI for menus, prompts without constraints kill your edge. 🔧 Add rules like “only local ingredients” or “nothing over $15” to force something original.\n\nWhat’s one constraint you could set right now to make your next menu unmistakably yours? 👇"
+      }
+    },
+    "instagram_caption": "Your restaurant’s AI menu is probably serving the same dishes as everyone else’s. 🍽️\n\nMost AI tools optimize for what’s popular, so thousands of restaurants end up with identical recommendations. Your unique flavors get averaged out — and that’s not a creativity problem, it’s a training problem.\n\nIf you use AI for menus, prompts without constraints kill your edge. 🔧 Add rules like “only local ingredients” or “nothing over $15” to force something original.\n\nWhat’s one constraint you could set right now to make your next menu unmistakably yours? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Why does every AI menu taste the same?",
+        "description": "AI menus look bland because models optimize for popular choices, erasing your restaurant's unique flavors, making you indistinguishable instantly.",
+        "visual_hint": "Identical plates in a row",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "restaurant menu food"
+      },
+      {
+        "hook": "The convergence trap",
+        "description": "Thousands of restaurants using the same algorithms converge on identical dishes, killing the diversity that once set them apart.",
+        "visual_hint": "Multiple menus merging into one",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "restaurant kitchen",
+        "image": "https://images.pexels.com/photos/4253292/pexels-photo-4253292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your unique flavors are vanishing",
+        "description": "AI averages out distinctive tastes, leaving your menu indistinguishable from competitors within seconds of generation.",
+        "visual_hint": "Flavor fading from menu",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "spices flat lay",
+        "image": "https://images.pexels.com/photos/4589164/pexels-photo-4589164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Risk-avoidance is the real culprit",
+        "description": "It's not missing creativity—models avoid risk, echoing common choices, so your menu becomes a safe clone of others.",
+        "visual_hint": "Safe choices highlighted on menu",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "menu with highlights",
+        "image": "https://images.pexels.com/photos/6235433/pexels-photo-6235433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Break free: customize your AI prompts",
+        "description": "Add constraints like 'local ingredients only' or 'under $15' to force uniqueness and escape algorithmic sameness.",
+        "visual_hint": "Custom constraint icons around prompt",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "artisanal ingredients bowl",
+        "image": "https://images.pexels.com/photos/8092808/pexels-photo-8092808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+    "savedAt": "2026-09-04T08:24:49.545Z",
+    "sourceId": "3e1ba23902a529caa0109599532825d5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "google-now-lets-you-chat-with-gmail-docs-and-keep",
     "prompt_version": "1.0.0",
     "status": "published",
