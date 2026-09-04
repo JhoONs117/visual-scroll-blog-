@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "m-t-bank-expands-enterprise-ai-after-years-of-tech",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+  "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+  "pubDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+  "slides": [
+    "What if your bank's AI knows your business before you do?",
+    "M&T Bank's decade-long tech overhaul finally unlocked enterprise AI",
+    "Overhauling legacy systems was the boring prerequisite for AI success",
+    "But most banks skip this step—and their AI projects fail silently",
+    "Ask your CIO: what legacy systems still block your AI?"
+  ],
+  "thread_text": [
+    "1. What if your bank's AI knows your business before you do?\n\nM&T Bank spent a decade modernizing its core systems before launching enterprise AI, and it's now paying off in predictive insights that alert customers to changes before they happen.",
+    "2. The boring prerequisite\n\nMost banks skip the legacy overhaul and rush to AI, but M&T's decade-long tech rebuild was the 'boring' step that made their AI actually work.",
+    "3. Silent failures\n\nSkipping that step doesn't just slow AI—it can make projects fail silently. Banks invest millions, but without clean data and modern infrastructure, the AI never delivers real results.",
+    "4. The twist\n\nM&T's AI isn't just a chatbot; it's embedded in their operations, spotting patterns and anomalies across business accounts that human analysts might miss.",
+    "5. Ask your CIO today\n\nAsk your CIO: which legacy systems are still in the way of your AI? If they can't name three, that's a red flag. Start there."
+  ],
+  "video_script": [
+    "Your bank's AI may predict your business moves.",
+    "M&T spent ten years modernizing old systems first.",
+    "Most banks skip this step, then AI fails silently.",
+    "But M&T's AI now spots patterns and anomalies.",
+    "Ask your CIO what legacy systems still block AI."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. What if your bank's AI knows your business before you do?\n\nM&T Bank spent a decade modernizing its core systems before launching enterprise AI, and it's now paying off in predictive insights that alert customers to changes before they happen.",
+        "2. The boring prerequisite\n\nMost banks skip the legacy overhaul and rush to AI, but M&T's decade-long tech rebuild was the 'boring' step that made their AI actually work.",
+        "3. Silent failures\n\nSkipping that step doesn't just slow AI—it can make projects fail silently. Banks invest millions, but without clean data and modern infrastructure, the AI never delivers real results.",
+        "4. The twist\n\nM&T's AI isn't just a chatbot; it's embedded in their operations, spotting patterns and anomalies across business accounts that human analysts might miss.",
+        "5. Ask your CIO today\n\nAsk your CIO: which legacy systems are still in the way of your AI? If they can't name three, that's a red flag. Start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your bank's AI may predict your business moves.",
+        "M&T spent ten years modernizing old systems first.",
+        "Most banks skip this step, then AI fails silently.",
+        "But M&T's AI now spots patterns and anomalies.",
+        "Ask your CIO what legacy systems still block AI."
+      ]
+    },
+    "instagram": {
+      "caption": "Ten years of rebuilding their tech backbone—not a flashy AI demo—is why M&T Bank’s enterprise AI now flags cash-flow shifts in business accounts before owners spot them. 🏦\n\nMost banks skip that boring cleanup, then watch AI projects quietly die on messy data. M&T didn’t. They modernized core systems first, so their AI actually spots patterns human analysts miss. 📊\n\nFor you: when a tool promises AI magic, check if the underlying data is clean—otherwise you’re polishing a broken pipe. 🔧\n\nAsk yourself: which three outdated systems in *your* workflow are silently blocking better output? If you can’t name them, that’s your first red flag. 🚩"
+    }
+  },
+  "instagram_caption": "Ten years of rebuilding their tech backbone—not a flashy AI demo—is why M&T Bank’s enterprise AI now flags cash-flow shifts in business accounts before owners spot them. 🏦\n\nMost banks skip that boring cleanup, then watch AI projects quietly die on messy data. M&T didn’t. They modernized core systems first, so their AI actually spots patterns human analysts miss. 📊\n\nFor you: when a tool promises AI magic, check if the underlying data is clean—otherwise you’re polishing a broken pipe. 🔧\n\nAsk yourself: which three outdated systems in *your* workflow are silently blocking better output? If you can’t name them, that’s your first red flag. 🚩",
+  "carousel_slides": [
+    {
+      "hook": "Your bank AI, knows your business before you?",
+      "description": "M&T Bank spent a decade modernizing core systems before launching AI, now alerting customers to changes before they happen.",
+      "visual_hint": "AI prediction dashboard interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "futuristic dashboard screen"
+    },
+    {
+      "hook": "The boring prerequisite for AI success.",
+      "description": "Most banks skip legacy overhaul, but M&T's decade-long tech rebuild was essential for AI to actually work.",
+      "visual_hint": "Old server room contrast",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room cables",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Skipping this step makes AI fail silently.",
+      "description": "Without clean data and modern infrastructure, millions invested in AI never deliver real results.",
+      "visual_hint": "Silent failure graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "M&T's AI spots what humans miss.",
+      "description": "AI is embedded in operations, detecting patterns and anomalies across business accounts that analysts might overlook.",
+      "visual_hint": "Analyst hand with magnifier over screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass screen",
+      "image": "https://images.pexels.com/photos/6621023/pexels-photo-6621023.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and ask your CIO today.",
+      "description": "Ask which legacy systems still block your AI. If they can't name three, that's a red flag. Start there.",
+      "visual_hint": "Question mark over legacy system",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "question mark sign",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/14786435/pexels-photo-14786435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-04T23:35:10.133Z",
+  "sourceId": "a081a11168ffab3d9ff509cdc767d842"
+}
