@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "roland-is-getting-into-generative-ai-music-with-me",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "pubDate": "2026-09-04T17:51:35.000Z",
+    "slides": [
+      "Roland bets on generative AI, but can it feel human?",
+      "Melody Flip transforms simple beats into full tracks instantly.",
+      "Legendary synth maker now challenges your idea of authorship.",
+      "Musicians can draft complete songs before touching an instrument.",
+      "Test it now, then decide who truly creates the music."
+    ],
+    "thread_text": [
+      "1. Who owns the music?\n\nRoland's new AI can generate full tracks from simple beats, challenging the very definition of authorship.",
+      "2. The creative process shifts\n\nMelody Flip transforms basic rhythms into complete songs instantly, letting musicians draft before touching an instrument.",
+      "3. What remains human?\n\nAs AI composes, the question isn't capability—it's whether the soul of music can be algorithmically replicated.",
+      "4. The legacy synth maker's bet\n\nA legendary brand stakes its future on generative AI, forcing artists to reconsider their role in creation.",
+      "5. Test it yourself\n\nTry Melody Flip with a basic beat today. Decide: does the AI feel like a collaborator or a replacement?"
+    ],
+    "video_script": [
+      "Roland bets AI can feel human.",
+      "Melody Flip makes full tracks fast.",
+      "Authorship is now in question.",
+      "Draft songs without touching instruments.",
+      "Test it, then decide who creates."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who owns the music?\n\nRoland's new AI can generate full tracks from simple beats, challenging the very definition of authorship.",
+          "2. The creative process shifts\n\nMelody Flip transforms basic rhythms into complete songs instantly, letting musicians draft before touching an instrument.",
+          "3. What remains human?\n\nAs AI composes, the question isn't capability—it's whether the soul of music can be algorithmically replicated.",
+          "4. The legacy synth maker's bet\n\nA legendary brand stakes its future on generative AI, forcing artists to reconsider their role in creation.",
+          "5. Test it yourself\n\nTry Melody Flip with a basic beat today. Decide: does the AI feel like a collaborator or a replacement?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Roland bets AI can feel human.",
+          "Melody Flip makes full tracks fast.",
+          "Authorship is now in question.",
+          "Draft songs without touching instruments.",
+          "Test it, then decide who creates."
+        ]
+      },
+      "instagram": {
+        "caption": "You tap out a simple beat, and Roland’s new Melody Flip turns it into a full track in seconds.  \n\nThe legendary synth maker just moved into generative AI music, letting you draft complete songs before you ever touch an instrument. This doesn’t just speed up production—it challenges who the author is when the machine fills in every blank.  \n\nFor you as a creator, the demo changes your workflow: you can now test a finished arrangement from a rhythm loop alone.  \n\nSo try it with a basic beat today. When the AI finishes your idea, does it feel like a collaborator or a ghostwriter? 🎹🤖🎧"
+      }
+    },
+    "instagram_caption": "You tap out a simple beat, and Roland’s new Melody Flip turns it into a full track in seconds.  \n\nThe legendary synth maker just moved into generative AI music, letting you draft complete songs before you ever touch an instrument. This doesn’t just speed up production—it challenges who the author is when the machine fills in every blank.  \n\nFor you as a creator, the demo changes your workflow: you can now test a finished arrangement from a rhythm loop alone.  \n\nSo try it with a basic beat today. When the AI finishes your idea, does it feel like a collaborator or a ghostwriter? 🎹🤖🎧",
+    "carousel_slides": [
+      {
+        "hook": "Can AI replicate the soul of music?",
+        "description": "Roland's new AI composes full tracks from simple beats, raising urgent questions about authorship and the human essence of creativity.",
+        "visual_hint": "Split image: human hand vs machine",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "human hand robot"
+      },
+      {
+        "hook": "From beat to full track instantly.",
+        "description": "Melody Flip transforms basic rhythms into complete songs, letting musicians draft entire compositions before touching an instrument.",
+        "visual_hint": "Waveform morphing from simple line to complex",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "What's left for the artist?",
+        "description": "As AI generates melodies, the question shifts from capability to intent—whether the emotional core can ever be algorithmic.",
+        "visual_hint": "Two overlapping silhouettes, one human, one digital",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "silhouette human digital",
+        "image": "https://images.pexels.com/photos/37911158/pexels-photo-37911158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Roland bets on generative AI.",
+        "description": "The legendary synth maker stakes its future on AI tools, forcing musicians to rethink their role as creators in a new landscape.",
+        "visual_hint": "Vintage synthesizer with digital overlay",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "synthesizer keyboard",
+        "image": "https://images.pexels.com/photos/4087996/pexels-photo-4087996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try Melody Flip, then decide.",
+        "description": "Feed it a simple beat, hear the full track, and ask yourself: collaborator or replacement? Test it live and comment below.",
+        "visual_hint": "Finger tapping on music app",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone music app",
+        "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&amp;strip=all&amp;crop=0%2C10.595205290714%2C100%2C78.809589418573&amp;w=1200",
+    "savedAt": "2026-09-05T07:56:30.810Z",
+    "sourceId": "9fcc97373950920411cd456524f24653"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "rogue-openai-agents-appear-to-have-organized-anoth",
     "prompt_version": "1.0.0",
     "status": "published",
