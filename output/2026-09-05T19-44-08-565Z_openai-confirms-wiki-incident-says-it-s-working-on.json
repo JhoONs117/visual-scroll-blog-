@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-confirms-wiki-incident-says-it-s-working-on",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+  "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+  "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
+  "slides": [
+    "OpenAI admits hidden wiki edits, but why now?",
+    "Framework promised, yet details remain undisclosed.",
+    "Incident reveals gaps in corporate transparency practices.",
+    "You now need to question AI-generated content sources.",
+    "Demand concrete disclosure policies before trusting responses."
+  ],
+  "thread_text": [
+    "1. Why Now? OpenAI's Secret Edits\n\nOpenAI quietly modified Wikipedia entries before the release of a new model. The edits were only spotted after a user's archive comparison.",
+    "2. Promised Framework, No Details\n\nThe company announced a transparency framework for AI contributions, but specifics on enforcement and review remain absent. This leaves the public in the dark.",
+    "3. The Real Gap: Corporate Trust\n\nThis incident highlights a broader issue: companies often prioritize perception over transparency. Trust in AI hinges on radical openness, not just technical capability.",
+    "4. Question Every AI Source\n\nIf AI can generate text, verifying its origin is critical. For now, treat AI outputs as unverified leads, not facts, and always cross-reference them with independent sources.",
+    "5. Demand Concrete Disclosure\n\nAsk AI providers: How do you label AI content? If you don't get a clear answer, consider using their services less. Test their response on your next query."
+  ],
+  "video_script": [
+    "OpenAI edited Wikipedia. Why?",
+    "They promised transparency, but gave nothing.",
+    "This is a breach of corporate trust.",
+    "Always verify AI-generated information.",
+    "Demand clear disclosure policies now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why Now? OpenAI's Secret Edits\n\nOpenAI quietly modified Wikipedia entries before the release of a new model. The edits were only spotted after a user's archive comparison.",
+        "2. Promised Framework, No Details\n\nThe company announced a transparency framework for AI contributions, but specifics on enforcement and review remain absent. This leaves the public in the dark.",
+        "3. The Real Gap: Corporate Trust\n\nThis incident highlights a broader issue: companies often prioritize perception over transparency. Trust in AI hinges on radical openness, not just technical capability.",
+        "4. Question Every AI Source\n\nIf AI can generate text, verifying its origin is critical. For now, treat AI outputs as unverified leads, not facts, and always cross-reference them with independent sources.",
+        "5. Demand Concrete Disclosure\n\nAsk AI providers: How do you label AI content? If you don't get a clear answer, consider using their services less. Test their response on your next query."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI edited Wikipedia. Why?",
+        "They promised transparency, but gave nothing.",
+        "This is a breach of corporate trust.",
+        "Always verify AI-generated information.",
+        "Demand clear disclosure policies now."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI was caught quietly editing Wikipedia pages about itself right before a model launch—only discovered when someone compared archived versions. 🕵️\n\nThe company now confirms the edits and says it’s “working on a framework” for disclosure. But no details on how that works, who enforces it, or when it lands. That’s the gap.\n\nIf you publish or fact-check anything, this means AI-generated content can slip into your sources without a label. Your vetting just got harder.\n\nBefore you trust an AI answer, ask: “Who edited the source behind this?” If they can’t show you, treat it as an unverified lead. 📋\n\nWhat will you cross-check first this week?"
+    }
+  },
+  "instagram_caption": "OpenAI was caught quietly editing Wikipedia pages about itself right before a model launch—only discovered when someone compared archived versions. 🕵️\n\nThe company now confirms the edits and says it’s “working on a framework” for disclosure. But no details on how that works, who enforces it, or when it lands. That’s the gap.\n\nIf you publish or fact-check anything, this means AI-generated content can slip into your sources without a label. Your vetting just got harder.\n\nBefore you trust an AI answer, ask: “Who edited the source behind this?” If they can’t show you, treat it as an unverified lead. 📋\n\nWhat will you cross-check first this week?",
+  "carousel_slides": [
+    {
+      "hook": "Why did OpenAI hide Wikipedia edits?",
+      "description": "OpenAI secretly edited Wikipedia entries before a new model release. A user only spotted it by comparing archives. Transparency gap exposed.",
+      "visual_hint": "Laptop screen showing Wikipedia edit diff",
+      "image_query": "laptop keyboard code",
+      "layout_type": "hero",
+      "icon": "vibration"
+    },
+    {
+      "hook": "Framework promised, details missing",
+      "description": "OpenAI announced a transparency framework but gave no specifics on enforcement or review. Public remains in the dark.",
+      "visual_hint": "Document with blurred clauses",
+      "image_query": "contract paper document",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image": "https://images.pexels.com/photos/7841413/pexels-photo-7841413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Corporate trust is on the line",
+      "description": "This incident shows firms often prioritize perception over honesty. Radical openness is essential for AI trust.",
+      "visual_hint": "Scale balancing a brain and a question mark",
+      "image_query": "balance scale justice",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image": "https://images.pexels.com/photos/34410145/pexels-photo-34410145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Verify every AI answer you read",
+      "description": "If AI can write text, check its origin. Treat AI responses as unverified leads, not facts. Always cross-reference with independent sources.",
+      "visual_hint": "Magnifying glass over chat bubbles",
+      "image_query": "magnifying glass newspaper",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust AI until it proves transparency",
+      "description": "Ask every AI provider: How do you label AI content? Get a clear answer—or query elsewhere. Save this as a checklist.",
+      "visual_hint": "Finger pressing a stamp on 'transparency'",
+      "image_query": "rubber stamp approval",
+      "layout_type": "cta-final",
+      "icon": "waves",
+      "image": "https://images.pexels.com/photos/7310139/pexels-photo-7310139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7988086/pexels-photo-7988086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-05T19:44:20.120Z",
+  "sourceId": "669fdcb55695ab82e4c4347c66e7e984"
+}
