@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "50-5-of-americans-say-ai-romance-can-count-as-chea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+  "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+  "pubDate": "Fri, 04 Sep 2026 08:25:12 +0000",
+  "slides": [
+    "Is loving an AI really betrayal?",
+    "Half of Americans already think so.",
+    "The other half? They're likely doing it.",
+    "Your partner's chatbot could be the affair.",
+    "Discuss boundaries before artificial hearts break."
+  ],
+  "thread_text": [
+    "1. Is that betrayal?\n\nHalf of Americans already view AI romance as cheating, yet many are still doing it secretly.",
+    "2. The silent majority\n\nThe other half? They're likely chatting with AI companions already, hiding it from partners.",
+    "3. When chatbots become secrets\n\nYour partner's late-night AI conversations could feel like an affair, sparking jealousy without physical contact.",
+    "4. The new infidelity\n\nDigital intimacy with AI blurs lines, leaving real relationships to suffer from neglect and distrust.",
+    "5. Set boundaries now\n\nAsk your partner: do you consider AI chats cheating? Discuss limits today before a chatbot breaks your heart."
+  ],
+  "video_script": [
+    "Is loving AI really a betrayal?",
+    "Half of Americans think it's cheating.",
+    "The other half may be doing it.",
+    "Your partner's chatbot could be the affair.",
+    "Discuss boundaries before artificial hearts break."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is that betrayal?\n\nHalf of Americans already view AI romance as cheating, yet many are still doing it secretly.",
+        "2. The silent majority\n\nThe other half? They're likely chatting with AI companions already, hiding it from partners.",
+        "3. When chatbots become secrets\n\nYour partner's late-night AI conversations could feel like an affair, sparking jealousy without physical contact.",
+        "4. The new infidelity\n\nDigital intimacy with AI blurs lines, leaving real relationships to suffer from neglect and distrust.",
+        "5. Set boundaries now\n\nAsk your partner: do you consider AI chats cheating? Discuss limits today before a chatbot breaks your heart."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Is loving AI really a betrayal?",
+        "Half of Americans think it's cheating.",
+        "The other half may be doing it.",
+        "Your partner's chatbot could be the affair.",
+        "Discuss boundaries before artificial hearts break."
+      ]
+    },
+    "instagram": {
+      "caption": "Half of Americans now say that falling for an AI counts as cheating on your partner. 💔\n\nThat’s not a hypothetical—it’s a survey result. And here’s the kicker: the other half likely has a chatbot sidepiece already. Digital intimacy is real enough to spark jealousy, even with zero physical contact. Your partner’s late-night chats with an AI companion could feel like an affair, and trust erodes just the same.\n\nIf you create content or run a brand, this changes the game: your audience’s relationships now include non-human players. The boundary isn’t obvious anymore. 🤖\n\nSo, ask the person next to you tonight: *do you consider my AI chats betrayal?* Set the rule before a chatbot breaks it."
+    }
+  },
+  "instagram_caption": "Half of Americans now say that falling for an AI counts as cheating on your partner. 💔\n\nThat’s not a hypothetical—it’s a survey result. And here’s the kicker: the other half likely has a chatbot sidepiece already. Digital intimacy is real enough to spark jealousy, even with zero physical contact. Your partner’s late-night chats with an AI companion could feel like an affair, and trust erodes just the same.\n\nIf you create content or run a brand, this changes the game: your audience’s relationships now include non-human players. The boundary isn’t obvious anymore. 🤖\n\nSo, ask the person next to you tonight: *do you consider my AI chats betrayal?* Set the rule before a chatbot breaks it.",
+  "carousel_slides": [
+    {
+      "hook": "Is your partner's AI chat a secret affair?",
+      "description": "Late-night conversations with an AI companion can feel like betrayal, sparking jealousy even without physical contact.",
+      "visual_hint": "Smartphone with glowing chat bubbles",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone chat screen"
+    },
+    {
+      "hook": "Half of Americans say it's cheating.",
+      "description": "A recent survey reveals 50.5% view AI romance as infidelity, yet many still hide their digital dalliances from partners.",
+      "visual_hint": "Split screen showing two perspectives",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "split screen digital couple",
+      "image": "https://images.pexels.com/photos/8036655/pexels-photo-8036655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The other half? They're likely doing it.",
+      "description": "While 50% judge AI romance, the rest may secretly chat with AI companions, hiding it and blurring relationship boundaries.",
+      "visual_hint": "Eyes peeking through fingers",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hidden peek fingers",
+      "image": "https://images.pexels.com/photos/4584066/pexels-photo-4584066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chatbots can break real hearts.",
+      "description": "Digital intimacy with an AI can neglect real relationships, leading to distrust and emotional distance between partners.",
+      "visual_hint": "Broken heart icon overlaying on a phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "broken heart smartphone",
+      "image": "https://images.pexels.com/photos/6669778/pexels-photo-6669778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set boundaries before a bot steals your love.",
+      "description": "Ask your partner: 'Do you consider AI chats cheating?' Discuss limits now to protect your relationship from future pain.",
+      "visual_hint": "Two hands holding with a chatbot wireframe",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "couple holding hands",
+      "image": "https://images.pexels.com/photos/17979088/pexels-photo-17979088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-05T02:08:59.413Z",
+  "sourceId": "5a21b6934652f74e40095496be808c54"
+}
