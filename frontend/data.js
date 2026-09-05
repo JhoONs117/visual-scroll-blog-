@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "why-ai-food-looks-like-that",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Why AI food looks like that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "pubDate": "2026-09-04T11:00:00.000Z",
+    "slides": [
+      "Why do AI food images look strangely perfect?",
+      "Training data skews toward glossy, appetizing stock photos.",
+      "AI never tasted food, so it optimizes for visual appeal.",
+      "Now you can spot fakes by checking for weird reflections.",
+      "Next time you see one, zoom in—and question realism."
+    ],
+    "thread_text": [
+      "1. Why so perfect?\n\nAI food images are trained on stock photos, not real meals. The result: a glow that never exists in your kitchen.",
+      "2. The missing taste\n\nAI has never eaten. It can't know that burnt edges or uneven sauces are natural, so it smooths them into fantasy.",
+      "3. Spot the fake\n\nCheck reflections on glasses or cutlery. AI often renders them physically impossible—a clue that the image is fabricated.",
+      "4. The realism trap\n\nYour brain is wired to prefer these flawless images, making you more likely to engage. That's the hidden danger.",
+      "5. Take a closer look\n\nNext time a food pic stops your scroll, zoom in. Are the highlights real? If not, question what else is fake."
+    ],
+    "video_script": [
+      "AI food looks too perfect to be true.",
+      "It's trained on glossy stock photos, not real meals.",
+      "No taste involved, just visual appeal optimization.",
+      "Check reflections—they reveal the trick.",
+      "Zoom in next time and question realism."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why so perfect?\n\nAI food images are trained on stock photos, not real meals. The result: a glow that never exists in your kitchen.",
+          "2. The missing taste\n\nAI has never eaten. It can't know that burnt edges or uneven sauces are natural, so it smooths them into fantasy.",
+          "3. Spot the fake\n\nCheck reflections on glasses or cutlery. AI often renders them physically impossible—a clue that the image is fabricated.",
+          "4. The realism trap\n\nYour brain is wired to prefer these flawless images, making you more likely to engage. That's the hidden danger.",
+          "5. Take a closer look\n\nNext time a food pic stops your scroll, zoom in. Are the highlights real? If not, question what else is fake."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI food looks too perfect to be true.",
+          "It's trained on glossy stock photos, not real meals.",
+          "No taste involved, just visual appeal optimization.",
+          "Check reflections—they reveal the trick.",
+          "Zoom in next time and question realism."
+        ]
+      },
+      "instagram": {
+        "caption": "That glossy burger you just scrolled past? It never existed — and the AI that made it has never tasted one. 🍔\n\nAI food visuals are built from stock photos, not real meals. Since the software has no sense of taste, it polishes everything into a shiny, impossibly perfect version of food. It even removes natural flaws like burnt edges or uneven sauce.\n\nNow, that polish is becoming a problem you can spot: check reflections on glasses or cutlery. AI often renders them physically impossible.\n\nFor anyone creating food content, this means your benchmark for \"real\" just shifted — and your audience might trust you more for showing imperfections.\n\nNext time a perfect dish stops your scroll, zoom in. Are those highlights real? 🔍"
+      }
+    },
+    "instagram_caption": "That glossy burger you just scrolled past? It never existed — and the AI that made it has never tasted one. 🍔\n\nAI food visuals are built from stock photos, not real meals. Since the software has no sense of taste, it polishes everything into a shiny, impossibly perfect version of food. It even removes natural flaws like burnt edges or uneven sauce.\n\nNow, that polish is becoming a problem you can spot: check reflections on glasses or cutlery. AI often renders them physically impossible.\n\nFor anyone creating food content, this means your benchmark for \"real\" just shifted — and your audience might trust you more for showing imperfections.\n\nNext time a perfect dish stops your scroll, zoom in. Are those highlights real? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Why is AI food too perfect?",
+        "description": "AI never tasted food, so it optimizes every photo for visual appeal, ignoring natural flaws that make real meals look authentic.",
+        "visual_hint": "Flawless glossy burger close-up",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "glossy burger closeup"
+      },
+      {
+        "hook": "Trained on stock, not reality",
+        "description": "Training data skews toward shiny, appetizing stock photos. Result: an impossible glow that never exists in your kitchen.",
+        "visual_hint": "Split screen stock vs real food",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock food photography",
+        "image": "https://images.pexels.com/photos/13015750/pexels-photo-13015750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Spot fake AI reflections",
+        "description": "Check reflections on glasses or cutlery. AI renders them physically impossible—a clear clue the image is fabricated.",
+        "visual_hint": "Zoom on distorted glass reflection",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "wine glass reflection",
+        "image": "https://images.pexels.com/photos/19535906/pexels-photo-19535906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your brain loves AI food",
+        "description": "Your brain is wired to prefer these flawless images, making you engage without thinking. That's the hidden danger.",
+        "visual_hint": "Hand reaching to scroll phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to spot fakes",
+        "description": "Next time a food pic stops your scroll, zoom in. Check highlights. Ask if they're real—then question everything.",
+        "visual_hint": "Magnifying glass over food photo",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "magnifying glass food",
+        "image": "https://images.pexels.com/photos/6034155/pexels-photo-6034155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-05T21:48:31.852Z",
+    "sourceId": "a1f8e8245fb76b0eadb3d2fd80c5db1e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "openai-confirms-wiki-incident-says-it-s-working-on",
     "prompt_version": "1.0.0",
     "status": "published",
