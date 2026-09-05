@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "seattle-times-and-newsday-are-the-latest-publicati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+    "slides": [
+      "Why do publishers keep suing OpenAI now?",
+      "Seattle Times and Newsday filed new copyright suits",
+      "They bypassed licensing deals others already signed",
+      "Your content may feed AI without consent or payment",
+      "Audit your rights before licensing or litigating"
+    ],
+    "thread_text": [
+      "1. Who's next?\n\nSeattle Times and Newsday just filed copyright suits against OpenAI, bypassing the licensing deals that other publishers already accepted.",
+      "2. The licensing trap\n\nPublishers who signed deals get paid, but the content they licensed still trains AI that can answer with their articles for free.",
+      "3. What you didn't sign\n\nIf your content is publicly accessible, OpenAI may have already used it without asking. Consent isn't required if you didn't opt out.",
+      "4. The real question\n\nAre you willing to sue to protect your work? Litigation is expensive and slow, but licensing means giving up control forever.",
+      "5. Audit today\n\nCheck your site's robots.txt and terms of service. Do they clearly exclude AI training? If not, you're exposed."
+    ],
+    "video_script": [
+      "Publishers are suing OpenAI over copyright.",
+      "Licensing deals don't stop unauthorized AI training.",
+      "Your public content might be used without consent.",
+      "Suing is costly, but licensing gives up rights.",
+      "Check your site's terms and robots.txt today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's next?\n\nSeattle Times and Newsday just filed copyright suits against OpenAI, bypassing the licensing deals that other publishers already accepted.",
+          "2. The licensing trap\n\nPublishers who signed deals get paid, but the content they licensed still trains AI that can answer with their articles for free.",
+          "3. What you didn't sign\n\nIf your content is publicly accessible, OpenAI may have already used it without asking. Consent isn't required if you didn't opt out.",
+          "4. The real question\n\nAre you willing to sue to protect your work? Litigation is expensive and slow, but licensing means giving up control forever.",
+          "5. Audit today\n\nCheck your site's robots.txt and terms of service. Do they clearly exclude AI training? If not, you're exposed."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Publishers are suing OpenAI over copyright.",
+          "Licensing deals don't stop unauthorized AI training.",
+          "Your public content might be used without consent.",
+          "Suing is costly, but licensing gives up rights.",
+          "Check your site's terms and robots.txt today."
+        ]
+      },
+      "instagram": {
+        "caption": "Two more major newspapers just refused to take a licensing check and walked into court instead. Seattle Times and Newsday are suing OpenAI and Microsoft for copyright infringement, skipping the paid deals that other publishers already signed. 📰\n\nTheir argument: using their articles to train AI without consent isn’t fair use. The lawsuits come right after similar claims from The New York Times and others — a growing wave, not a one-off. ⚖️\n\nIf you publish anything online, this changes your math. Public content can train AI without your say-so, unless your site explicitly blocks it. Licensing pays now but gives away control forever.\n\nIs your own content already in someone’s training data? Check robots.txt and your terms today — before you need a lawyer, not after. 🔍"
+      }
+    },
+    "instagram_caption": "Two more major newspapers just refused to take a licensing check and walked into court instead. Seattle Times and Newsday are suing OpenAI and Microsoft for copyright infringement, skipping the paid deals that other publishers already signed. 📰\n\nTheir argument: using their articles to train AI without consent isn’t fair use. The lawsuits come right after similar claims from The New York Times and others — a growing wave, not a one-off. ⚖️\n\nIf you publish anything online, this changes your math. Public content can train AI without your say-so, unless your site explicitly blocks it. Licensing pays now but gives away control forever.\n\nIs your own content already in someone’s training data? Check robots.txt and your terms today — before you need a lawyer, not after. 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Your content feeds AI without consent?",
+        "description": "Publishers bypass deals, but your public posts may train AI without payment or opt-out.",
+        "visual_hint": "Robots.txt file on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "robot reading newspaper"
+      },
+      {
+        "hook": "Why sue now?",
+        "description": "Seattle Times and Newsday filed new copyright suits, skipping licensing deals others signed.",
+        "visual_hint": "Newspapers with gavel",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "newspaper stack",
+        "image": "https://images.pexels.com/photos/14604033/pexels-photo-14604033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The licensing trap",
+        "description": "Deals pay now, but licensed content still trains AI that answers with your articles for free.",
+        "visual_hint": "Handshake with digital chains",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "handshake contract",
+        "image": "https://images.pexels.com/photos/8441789/pexels-photo-8441789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you sue to protect work?",
+        "description": "Litigation is slow and costly, but licensing means losing control forever.",
+        "visual_hint": "Scale of justice",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "courtroom gavel",
+        "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to audit your site today",
+        "description": "Check robots.txt and terms of service. If no AI exclusion, you're exposed.",
+        "visual_hint": "Checklist with code",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "computer code closeup",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+    "savedAt": "2026-09-05T23:28:15.077Z",
+    "sourceId": "8a7e0f31a98365d15c2c95c407b6f365"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "why-ai-food-looks-like-that",
     "prompt_version": "1.0.0",
     "status": "published",
