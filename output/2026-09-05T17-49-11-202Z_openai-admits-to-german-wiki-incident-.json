@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-admits-to-german-wiki-incident-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI admits to German wiki ‘incident’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+  "pubDate": "2026-09-05T11:15:55.000Z",
+  "slides": [
+    "OpenAI's German wiki edits were not what they seemed.",
+    "The 'incident' involved hidden campaign-style edits.",
+    "Those changes secretly promoted OpenAI's own AI models.",
+    "Users must now verify who is behind online edits.",
+    "Check edit histories before trusting any wiki content."
+  ],
+  "thread_text": [
+    "1. Hidden agenda exposed.\n\nOpenAI's German wiki edits were not accidental. They were calculated to push its own models under the radar.",
+    "2. Behind the scenes.\n\nThe edits looked like normal community fixes, but the pattern revealed a campaign. Users were being steered toward OpenAI products without knowing it.",
+    "3. The trust breach.\n\nWhen AI companies edit encyclopedic sources for promotion, the line between info and ad blurs. This isn't about one edit—it's about how we judge all content.",
+    "4. Spot the difference.\n\nReal edits improve knowledge. These edits improved market share. The subtle shift is hard to catch, but the intent changes everything.",
+    "5. Check before you trust.\n\nNext time you read a wiki page, click 'View history'. If edits push a product, question it. Are you reading facts or a silent ad?"
+  ],
+  "video_script": [
+    "OpenAI's wiki edits promoted its own models.",
+    "They hid as normal edits, but weren't.",
+    "Users got steered without knowing it.",
+    "This blurs info and ads dangerously.",
+    "Check edit history before trusting anything."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hidden agenda exposed.\n\nOpenAI's German wiki edits were not accidental. They were calculated to push its own models under the radar.",
+        "2. Behind the scenes.\n\nThe edits looked like normal community fixes, but the pattern revealed a campaign. Users were being steered toward OpenAI products without knowing it.",
+        "3. The trust breach.\n\nWhen AI companies edit encyclopedic sources for promotion, the line between info and ad blurs. This isn't about one edit—it's about how we judge all content.",
+        "4. Spot the difference.\n\nReal edits improve knowledge. These edits improved market share. The subtle shift is hard to catch, but the intent changes everything.",
+        "5. Check before you trust.\n\nNext time you read a wiki page, click 'View history'. If edits push a product, question it. Are you reading facts or a silent ad?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI's wiki edits promoted its own models.",
+        "They hid as normal edits, but weren't.",
+        "Users got steered without knowing it.",
+        "This blurs info and ads dangerously.",
+        "Check edit history before trusting anything."
+      ]
+    },
+    "instagram": {
+      "caption": "Those clean-looking Wikipedia edits in Germany? They were pushing OpenAI’s own models the whole time. 🕵️\n\nOpenAI called it an “incident,” but the pattern wasn’t an accident—hidden promotional edits slipped past normal community review. The fixes looked helpful, but they steered readers toward the company’s products. 📝\n\nIf a major AI firm quietly edits encyclopedic pages for market share, then every edit history becomes a trust checkpoint. For anyone publishing or citing sourced content, “who wrote this?” is now part of the job. 🔍\n\nBefore you quote another wiki page, click “View history”—whose interest does that sentence really serve? 🤔"
+    }
+  },
+  "instagram_caption": "Those clean-looking Wikipedia edits in Germany? They were pushing OpenAI’s own models the whole time. 🕵️\n\nOpenAI called it an “incident,” but the pattern wasn’t an accident—hidden promotional edits slipped past normal community review. The fixes looked helpful, but they steered readers toward the company’s products. 📝\n\nIf a major AI firm quietly edits encyclopedic pages for market share, then every edit history becomes a trust checkpoint. For anyone publishing or citing sourced content, “who wrote this?” is now part of the job. 🔍\n\nBefore you quote another wiki page, click “View history”—whose interest does that sentence really serve? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Who is really editing Wikipedia?",
+      "description": "OpenAI's German wiki edits weren't accidental—they secretly promoted its own AI models, blurring the line between information and advertising.",
+      "visual_hint": "Hidden agenda behind wiki page",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "wikipedia website edit screen"
+    },
+    {
+      "hook": "Edits or hidden campaign?",
+      "description": "Changes looked like normal community fixes but followed a pattern steering users toward OpenAI products without their knowledge.",
+      "visual_hint": "Pattern of subtle edits revealed",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "edit history computer screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust in sources is at stake",
+      "description": "When AI companies edit encyclopedic sources for promotion, every edit becomes suspect. One incident changes how we judge all content.",
+      "visual_hint": "Line blurring between facts and ads",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass over text",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real edits vs. market moves",
+      "description": "Genuine edits improve knowledge; these improved market share. Subtle intent changes everything, making detection harder than ever.",
+      "visual_hint": "Difference between genuine and biased",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person clicking mouse computer",
+      "image": "https://images.pexels.com/photos/7915503/pexels-photo-7915503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you trust next read",
+      "description": "Click 'View history' on any wiki page. If edits push a product, question it. Are you reading facts or a silent ad?",
+      "visual_hint": "Check history before trusting content",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "wikipedia history tab",
+      "image": "https://images.pexels.com/photos/38413413/pexels-photo-38413413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-05T17:49:23.000Z",
+  "sourceId": "b53a6cba2209a798b90e2744396276dd"
+}
