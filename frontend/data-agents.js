@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "authors-push-back-as-publishers-and-agents-make-cl",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "slides": [
+        "Authors sue Anthropic—why now?",
+        "Publishers and agents now demand their cut.",
+        "Creators never consented to AI training data.",
+        "Your licensing deals may soon require AI clauses.",
+        "Review your contracts for hidden AI rights."
+      ],
+      "thread_text": [
+        "1. Why sue now?\n\nAnthropic just raised billions. Plaintiffs see cash—and they know precedent is thin.",
+        "2. Publishers want their cut\n\nAgents are already rewriting boilerplate to grab AI revenue. Authors who signed years ago are locked out.",
+        "3. No consent, no credit\n\nTraining data scraped from pirated book sites—not just library scans. That's the new evidence in the case.",
+        "4. Deals will change fast\n\nIn 2025, every publishing contract will ask for AI training rights. If you're negotiating now, you're behind.",
+        "5. Check your old contracts\n\nSearch for 'data mining' or 'machine learning' clauses. If found, email your agent today—ask what they mean."
+      ],
+      "video_script": [
+        "Anthropic is being sued right now.",
+        "Money is moving. Tension is real.",
+        "Creators never gave that permission.",
+        "Future contracts will force AI language.",
+        "Open your contract and look now."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why sue now?\n\nAnthropic just raised billions. Plaintiffs see cash—and they know precedent is thin.",
+            "2. Publishers want their cut\n\nAgents are already rewriting boilerplate to grab AI revenue. Authors who signed years ago are locked out.",
+            "3. No consent, no credit\n\nTraining data scraped from pirated book sites—not just library scans. That's the new evidence in the case.",
+            "4. Deals will change fast\n\nIn 2025, every publishing contract will ask for AI training rights. If you're negotiating now, you're behind.",
+            "5. Check your old contracts\n\nSearch for 'data mining' or 'machine learning' clauses. If found, email your agent today—ask what they mean."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic is being sued right now.",
+            "Money is moving. Tension is real.",
+            "Creators never gave that permission.",
+            "Future contracts will force AI language.",
+            "Open your contract and look now."
+          ]
+        },
+        "instagram": {
+          "caption": "Authors who signed contracts years ago are watching publishers and agents line up for a piece of the Anthropic settlement—money for books they never agreed to train AI with. 📚\n\nThe new evidence? Training data scraped from pirated book sites, not just library scans. Creators never consented, yet agents are already rewriting boilerplate to grab AI revenue from future deals.\n\nIf you've published anything, search your old contracts for \"data mining\" or \"machine learning\" clauses. If they're there, you may have signed away rights you didn't know existed. ✍️\n\nWhat does your current contract say about AI training—and who gets paid if your work feeds a model? 💸"
+        }
+      },
+      "instagram_caption": "Authors who signed contracts years ago are watching publishers and agents line up for a piece of the Anthropic settlement—money for books they never agreed to train AI with. 📚\n\nThe new evidence? Training data scraped from pirated book sites, not just library scans. Creators never consented, yet agents are already rewriting boilerplate to grab AI revenue from future deals.\n\nIf you've published anything, search your old contracts for \"data mining\" or \"machine learning\" clauses. If they're there, you may have signed away rights you didn't know existed. ✍️\n\nWhat does your current contract say about AI training—and who gets paid if your work feeds a model? 💸",
+      "carousel_slides": [
+        {
+          "hook": "Your books trained AI without consent.",
+          "description": "New evidence shows Anthropic used pirated book sites, not just library scans. Authors never agreed, yet their work powers AI profits.",
+          "visual_hint": "Book pages morphing into data streams",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "books data stream"
+        },
+        {
+          "hook": "Publishers want a cut of AI cash.",
+          "description": "Agents are rewriting boilerplate to grab AI revenue. Authors who signed years ago are locked out of future deals.",
+          "visual_hint": "Stack of contracts with cash signs",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "contracts money stack",
+          "image": "https://images.pexels.com/photos/6266622/pexels-photo-6266622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No consent, no credit, no compensation.",
+          "description": "Training data scraped from pirated sites—not library scans. That's the new evidence fueling the lawsuit against Anthropic.",
+          "visual_hint": "Magnifying glass over pirated book site",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "magnifying glass books",
+          "image": "https://images.pexels.com/photos/12859446/pexels-photo-12859446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "2025 contracts will demand AI rights.",
+          "description": "Every publishing deal will soon include AI training clauses. If you're negotiating now, you're already behind.",
+          "visual_hint": "Hand signing contract with AI symbol",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand signing contract",
+          "image": "https://images.pexels.com/photos/5387261/pexels-photo-5387261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your old contracts for AI clauses.",
+          "description": "Search for 'data mining' or 'machine learning' terms. If found, email your agent today to ask what they mean.",
+          "visual_hint": "Finger pointing at contract line",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "contract magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "savedAt": "2026-09-06T21:52:01.630Z",
+      "sourceId": "3997b3420fb1db5999edc9b97fad7c3b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "seattle-times-and-newsday-are-the-latest-publicati",
       "prompt_version": "1.0.0",
       "status": "published",
