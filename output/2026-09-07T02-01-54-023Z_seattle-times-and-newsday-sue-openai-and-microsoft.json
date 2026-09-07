@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "seattle-times-and-newsday-sue-openai-and-microsoft",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "pubDate": "2026-09-06T23:36:04.000Z",
+  "slides": [
+    "Two major publishers sue OpenAI and Microsoft. Will fair use protect them?",
+    "Their claims involve ChatGPT's training and its reproduction of articles.",
+    "Unlike prior suits, these papers demand deletion of training data.",
+    "This ruling could force AI firms to license news content upfront.",
+    "Check your sources: does your AI actually cite, or just rewrite?"
+  ],
+  "thread_text": [
+    "1. First major demand\n\nTwo publishers just asked a court to force OpenAI and Microsoft to delete ChatGPT's training data if found infringing. That's new: prior suits only asked for money.",
+    "2. Deeper than copying\n\nThe case isn't just about reproducing articles. It argues ChatGPT's very training on copyrighted news is unlawful—regardless of output. That's a direct hit on how AI models learn.",
+    "3. Fair use at stake\n\nOpenAI will likely claim fair use, which allows limited copying. But these papers say commercial use of their entire archives is not 'transformation.' A ruling here could redefine what fair use means for AI.",
+    "4. The ripple effect\n\nIf this lawsuit succeeds, AI firms would need to license news content before training. That would reshape the industry: small publishers get paid, but costs skyrocket and free AI tools might vanish.",
+    "5. Your move\n\nBefore posting AI-generated content, ask: did the tool cite sources or just rewrite? Check one output today—if there's no citation, assume it's unverified."
+  ],
+  "video_script": [
+    "Publishers sue OpenAI, demand deletion of training data.",
+    "This could set a major legal precedent.",
+    "Fair use might not protect AI companies.",
+    "Ruling may force upfront licenses for news content.",
+    "Always check if AI cites sources."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. First major demand\n\nTwo publishers just asked a court to force OpenAI and Microsoft to delete ChatGPT's training data if found infringing. That's new: prior suits only asked for money.",
+        "2. Deeper than copying\n\nThe case isn't just about reproducing articles. It argues ChatGPT's very training on copyrighted news is unlawful—regardless of output. That's a direct hit on how AI models learn.",
+        "3. Fair use at stake\n\nOpenAI will likely claim fair use, which allows limited copying. But these papers say commercial use of their entire archives is not 'transformation.' A ruling here could redefine what fair use means for AI.",
+        "4. The ripple effect\n\nIf this lawsuit succeeds, AI firms would need to license news content before training. That would reshape the industry: small publishers get paid, but costs skyrocket and free AI tools might vanish.",
+        "5. Your move\n\nBefore posting AI-generated content, ask: did the tool cite sources or just rewrite? Check one output today—if there's no citation, assume it's unverified."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Publishers sue OpenAI, demand deletion of training data.",
+        "This could set a major legal precedent.",
+        "Fair use might not protect AI companies.",
+        "Ruling may force upfront licenses for news content.",
+        "Always check if AI cites sources."
+      ]
+    },
+    "instagram": {
+      "caption": "TWO major newspapers just asked a court to force OpenAI and Microsoft to delete ChatGPT's training data if they're found to have infringed copyright. That request—deletion, not just cash—has never happened before in an AI lawsuit.  \n\nThe Seattle Times and Newsday argue the problem isn't what ChatGPT outputs. It's that training on their entire archives was unlawful from the start. OpenAI will likely lean on fair use, but these publishers say commercial use of full article libraries isn't transformation.  \n\nIf the court sides with them, every AI company would have to license news content *before* training. That means higher costs—and likely the end of free AI tools that summarize articles without permission.  \n\nFor you, the blogger or reporter: before you publish anything AI-generated, check if it names its sources. If it just rewrites without citing, you're publishing unverified work.  \n\nWhat did your last AI output actually cite—or did it copy in disguise? 📰⚖️🧠"
+    }
+  },
+  "instagram_caption": "TWO major newspapers just asked a court to force OpenAI and Microsoft to delete ChatGPT's training data if they're found to have infringed copyright. That request—deletion, not just cash—has never happened before in an AI lawsuit.  \n\nThe Seattle Times and Newsday argue the problem isn't what ChatGPT outputs. It's that training on their entire archives was unlawful from the start. OpenAI will likely lean on fair use, but these publishers say commercial use of full article libraries isn't transformation.  \n\nIf the court sides with them, every AI company would have to license news content *before* training. That means higher costs—and likely the end of free AI tools that summarize articles without permission.  \n\nFor you, the blogger or reporter: before you publish anything AI-generated, check if it names its sources. If it just rewrites without citing, you're publishing unverified work.  \n\nWhat did your last AI output actually cite—or did it copy in disguise? 📰⚖️🧠",
+  "carousel_slides": [
+    {
+      "hook": "Deleting AI training data?",
+      "description": "Two publishers demand courts force OpenAI and Microsoft to delete infringing data—unlike past suits, a radical new ask.",
+      "visual_hint": "gavel and documents",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "Training itself is illegal?",
+      "description": "The suit argues using copyrighted news to train ChatGPT violates law—regardless of output. That strikes at AI's core learning process.",
+      "visual_hint": "neural network and text",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fair use on trial",
+      "description": "OpenAI may claim transformation, but publishers say commercial archive use isn't fair. A ruling could redefine AI's legal boundaries.",
+      "visual_hint": "scale balancing books",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "library books",
+      "image": "https://images.pexels.com/photos/35098073/pexels-photo-35098073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Costly ripple effect",
+      "description": "If publishers win, AI firms must license content before training—small publishers get paid, but free AI tools may vanish.",
+      "visual_hint": "money and data cloud",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding coins",
+      "image": "https://images.pexels.com/photos/3943722/pexels-photo-3943722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI sources",
+      "description": "Before posting AI content, ask: did it cite or just rewrite? Test one output today—no citation means unverified.",
+      "visual_hint": "magnifying glass on text",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.654918655606%2C100%2C78.690162688789&amp;w=1200",
+  "savedAt": "2026-09-07T02:02:12.099Z",
+  "sourceId": "c6a48e7fbd074e164481dd36b9b3001a"
+}
