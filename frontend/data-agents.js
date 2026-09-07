@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "opaque-recurrence-and-other-ai-terms-that-you-shou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "slides": [
+        "What if AI's black box hides recurring patterns?",
+        "Opaque recurrence: hidden cycles shape model outputs.",
+        "Outputs can loop unexpectedly, corrupting predictions silently.",
+        "Your AI audit must include pattern traceability checks.",
+        "Test for loops before trusting any model's decisions."
+      ],
+      "thread_text": [
+        "1. Your AI may loop silently\n\nRecovered patterns in neural nets can trigger outputs that repeat every 37 steps, corrupting data without any error message.",
+        "2. The black box hides cycles\n\nWhen hidden recurrent connections amplify past inputs, models can drift into periodic states—predictions that oscillate rather than adapt.",
+        "3. One loop can poison everything\n\nA single recurring pattern can skew results across an entire dataset, making confident but wrong recommendations that slip past standard accuracy tests.",
+        "4. Audit pattern traceability now\n\nCurrent evaluation metrics don't check for temporal dependencies. You need to trace each output back to its input sequence to spot hidden loops.",
+        "5. Start testing for cycles today\n\nTake a sample of 100 prompts, run each twice, and compare sequences for periodic behavior. If you haven't tested for loops, your audit is incomplete."
+      ],
+      "video_script": [
+        "Your AI might be creating hidden loops.",
+        "These cycles corrupt outputs, silently and unnoticed.",
+        "Standard tests don't catch this at all.",
+        "You must trace each output pattern back.",
+        "Test your model for loops this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your AI may loop silently\n\nRecovered patterns in neural nets can trigger outputs that repeat every 37 steps, corrupting data without any error message.",
+            "2. The black box hides cycles\n\nWhen hidden recurrent connections amplify past inputs, models can drift into periodic states—predictions that oscillate rather than adapt.",
+            "3. One loop can poison everything\n\nA single recurring pattern can skew results across an entire dataset, making confident but wrong recommendations that slip past standard accuracy tests.",
+            "4. Audit pattern traceability now\n\nCurrent evaluation metrics don't check for temporal dependencies. You need to trace each output back to its input sequence to spot hidden loops.",
+            "5. Start testing for cycles today\n\nTake a sample of 100 prompts, run each twice, and compare sequences for periodic behavior. If you haven't tested for loops, your audit is incomplete."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your AI might be creating hidden loops.",
+            "These cycles corrupt outputs, silently and unnoticed.",
+            "Standard tests don't catch this at all.",
+            "You must trace each output pattern back.",
+            "Test your model for loops this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI model might be quietly looping in the background—repeating outputs every 37 steps without ever sending an error alert.\n\nResearchers found that hidden recurrent connections in neural nets can lock predictions into periodic states. Standard accuracy tests won’t catch this because they don’t check temporal patterns across a dataset. One silent loop can skew thousands of recommendations while your metrics look flawless.\n\nFor anyone building or publishing AI-assisted content: your audit just gained a new requirement. You need to trace each output back to its input sequence, not just check the final score.\n\nRun 100 prompts twice and compare the outputs for repetition—if you haven’t done this, when did you last verify your model isn’t just echoing itself? 🔁🧠📉"
+        }
+      },
+      "instagram_caption": "Your AI model might be quietly looping in the background—repeating outputs every 37 steps without ever sending an error alert.\n\nResearchers found that hidden recurrent connections in neural nets can lock predictions into periodic states. Standard accuracy tests won’t catch this because they don’t check temporal patterns across a dataset. One silent loop can skew thousands of recommendations while your metrics look flawless.\n\nFor anyone building or publishing AI-assisted content: your audit just gained a new requirement. You need to trace each output back to its input sequence, not just check the final score.\n\nRun 100 prompts twice and compare the outputs for repetition—if you haven’t done this, when did you last verify your model isn’t just echoing itself? 🔁🧠📉",
+      "carousel_slides": [
+        {
+          "hook": "Your AI loops silently",
+          "description": "Hidden recurring patterns trigger outputs repeating every 37 steps, corrupting data without any error warning.",
+          "visual_hint": "Oscillating waveform with hidden loop",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "oscilloscope waveform"
+        },
+        {
+          "hook": "Why do predictions oscillate?",
+          "description": "Hidden recurrent connections amplify past inputs, causing drift into periodic states where predictions repeat rather than adapt to data.",
+          "visual_hint": "Neural network with cyclic path highlighted",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network graphic",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One loop poisons everything",
+          "description": "A single recurring pattern skews results across an entire dataset, producing confident but wrong recommendations that pass standard accuracy tests.",
+          "visual_hint": "Molecule-shaped contamination spreading",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "glowing circuit board",
+          "image": "https://images.pexels.com/photos/8108714/pexels-photo-8108714.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your audit misses hidden loops",
+          "description": "Current evaluation metrics ignore temporal dependencies. Forget trendlines — trace every output back to its input sequence to spot periodic behaviors.",
+          "visual_hint": "Finger tracing sequential data path",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this to test AI cycles",
+          "description": "Run 100 prompts twice, compare outputs for repetition. Start today to complete your audit — scroll back later for the method.",
+          "visual_hint": "Checklist with repeat-test icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+      "savedAt": "2026-09-07T19:31:04.009Z",
+      "sourceId": "a91b380c0f011ca8182b164eb4a1c594"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "mg-ship-adds-ai-route-optimisation-as-logistics-re",
       "prompt_version": "1.0.0",
       "status": "published",
