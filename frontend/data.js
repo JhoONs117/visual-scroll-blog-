@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "mg-ship-adds-ai-route-optimisation-as-logistics-re",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+    "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+    "pubDate": "Mon, 07 Sep 2026 13:01:23 +0000",
+    "slides": [
+      "MG Ship's AI cuts fuel, but at what risk?",
+      "Logistics returns are rising sharply this quarter.",
+      "Their algorithm reroutes mid-voyage, ignoring crew intuition.",
+      "Dispatchers now trust predictions, not experience, for delays.",
+      "Test one reroute against your manual plan tomorrow."
+    ],
+    "thread_text": [
+      "1. The Silence of the Crew\n\nMG Ship's AI saved fuel by rerouting, but the crew's warnings were ignored. On one voyage, intuition was right—the system failed to see a storm ahead.",
+      "2. The Rising Tide of Returns\n\nReturns are up 20% this quarter, pushing logistics systems to the brink. Operators are now forced to rely on prediction algorithms to keep up.",
+      "3. When Algorithms Overrule\n\nA new reroute avoided a port strike, but ignored the captain's local knowledge. Result: a delay costly than the one it avoided, and the crew's morale hit hard.",
+      "4. Trust Shift on the Bridge\n\nDispatchers now trust models over seasoned experience for delay forecasts. A veteran with 30 years at sea was overruled—and the ship lost a reefer load.",
+      "5. Test One Reroute Yourself\n\nTake a real routing plan and run it manually tonight. Then ask the AI for a suggestion. Does the machine's choice actually hold up to your expertise?"
+    ],
+    "video_script": [
+      "AI saves fuel at sea.",
+      "But it ignores crew wisdom.",
+      "Returns are flooding logistics.",
+      "Dispatchers trust predictions, not experience.",
+      "Test that AI yourself tomorrow."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Silence of the Crew\n\nMG Ship's AI saved fuel by rerouting, but the crew's warnings were ignored. On one voyage, intuition was right—the system failed to see a storm ahead.",
+          "2. The Rising Tide of Returns\n\nReturns are up 20% this quarter, pushing logistics systems to the brink. Operators are now forced to rely on prediction algorithms to keep up.",
+          "3. When Algorithms Overrule\n\nA new reroute avoided a port strike, but ignored the captain's local knowledge. Result: a delay costly than the one it avoided, and the crew's morale hit hard.",
+          "4. Trust Shift on the Bridge\n\nDispatchers now trust models over seasoned experience for delay forecasts. A veteran with 30 years at sea was overruled—and the ship lost a reefer load.",
+          "5. Test One Reroute Yourself\n\nTake a real routing plan and run it manually tonight. Then ask the AI for a suggestion. Does the machine's choice actually hold up to your expertise?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI saves fuel at sea.",
+          "But it ignores crew wisdom.",
+          "Returns are flooding logistics.",
+          "Dispatchers trust predictions, not experience.",
+          "Test that AI yourself tomorrow."
+        ]
+      },
+      "instagram": {
+        "caption": "A 20% spike in returns this quarter has pushed logistics operators to hand the ship's route to an algorithm, overriding the crew's own weather warnings. On one voyage, the system's reroute missed a storm front that the captain's intuition had already flagged. 🌩️\n\nThe AI cuts fuel, but dispatchers are now trusting model forecasts over seasoned seafarers for delay predictions. One veteran was overruled—and the ship lost its reefer cargo as a result. ⚓\n\nFor anyone publishing supply-chain content: the story is no longer about machine efficiency, but about who overrides whom when instincts conflict with data.\n\nTake your own manual routing plan tonight and run it against the AI's suggestion—which one holds up?"
+      }
+    },
+    "instagram_caption": "A 20% spike in returns this quarter has pushed logistics operators to hand the ship's route to an algorithm, overriding the crew's own weather warnings. On one voyage, the system's reroute missed a storm front that the captain's intuition had already flagged. 🌩️\n\nThe AI cuts fuel, but dispatchers are now trusting model forecasts over seasoned seafarers for delay predictions. One veteran was overruled—and the ship lost its reefer cargo as a result. ⚓\n\nFor anyone publishing supply-chain content: the story is no longer about machine efficiency, but about who overrides whom when instincts conflict with data.\n\nTake your own manual routing plan tonight and run it against the AI's suggestion—which one holds up?",
+    "carousel_slides": [
+      {
+        "hook": "AI saved fuel, crew knew better",
+        "description": "MG Ship's AI rerouted to save fuel, ignoring crew warnings about a storm. The intuition was right, and the system missed it.",
+        "visual_hint": "Stormy sea, ship silhouette",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "stormy sea ship"
+      },
+      {
+        "hook": "Returns spike 20% this quarter",
+        "description": "Rising returns are straining logistics systems. Operators now depend on prediction algorithms to keep pace with the surge.",
+        "visual_hint": "Bar chart trending upward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "logistics warehouse boxes",
+        "image": "https://images.pexels.com/photos/6169044/pexels-photo-6169044.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Algorithm ignored captain's local knowledge",
+        "description": "A reroute avoided a port strike but dismissed the captain's insight. The result: a delay more costly, and crew morale damaged.",
+        "visual_hint": "Navigation screen with route",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ship bridge navigation",
+        "image": "https://images.pexels.com/photos/21753183/pexels-photo-21753183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Dispatchers trust models over experience",
+        "description": "Veterans with 30 years at sea are overruled by algorithms for delay forecasts. One trusted model led to a lost reefer load.",
+        "visual_hint": "Hand on ship's wheel",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "captain hand wheel",
+        "image": "https://images.pexels.com/photos/17561279/pexels-photo-17561279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: test one reroute yourself",
+        "description": "Run a real routing plan manually tonight, then compare AI's suggestion. See if the machine's choice truly beats your expertise.",
+        "visual_hint": "Checkmark on route map",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "route planning map",
+        "image": "https://images.pexels.com/photos/5302805/pexels-photo-5302805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/32491778/pexels-photo-32491778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-07T15:24:29.386Z",
+    "sourceId": "f455244d709fb3ead2295eb8356ca82e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "seattle-times-and-newsday-sue-openai-and-microsoft",
     "prompt_version": "1.0.0",
     "status": "published",
