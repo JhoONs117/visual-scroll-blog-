@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "stoke-space-raises-another-billion-to-rival-spacex",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+  "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+  "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
+  "slides": [
+    "Who will master rapid rocket reuse besides SpaceX?",
+    "Stoke Space just secured an additional billion dollars.",
+    "It still hasn't reflown an orbital booster successfully.",
+    "This cash targets engines, heat shields, and landing legs.",
+    "Watch their next launch—success could reshape the market."
+  ],
+  "thread_text": [
+    "1. Who else is betting big?\n\nStoke Space just landed an extra billion dollars for rocket reuse—without ever flying a booster to orbit successfully.",
+    "2. What the cash is for\n\nThe money targets engines, heat shields, and landing legs—the hardest parts of rapid reuse that even SpaceX took years to crack.",
+    "3. The unproven hurdle\n\nStoke has yet to re-fly a single orbital booster. Their next launch is the do-or-die proof.",
+    "4. Why this launch matters\n\nA successful reflight would directly challenge SpaceX's dominance in reusable rockets, shaking the market's current order.",
+    "5. Watch their next move\n\nBookmark Stoke's launch schedule. If they nail it, will your investment thesis change?"
+  ],
+  "video_script": [
+    "Billion for rocket reuse, no orbital flight yet.",
+    "Engines, heat shields, landing legs—the hard parts.",
+    "SpaceX dominates, but Stoke gets a billion.",
+    "Their next launch could reshape the rocket market.",
+    "Ask yourself: would you bet on them too?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who else is betting big?\n\nStoke Space just landed an extra billion dollars for rocket reuse—without ever flying a booster to orbit successfully.",
+        "2. What the cash is for\n\nThe money targets engines, heat shields, and landing legs—the hardest parts of rapid reuse that even SpaceX took years to crack.",
+        "3. The unproven hurdle\n\nStoke has yet to re-fly a single orbital booster. Their next launch is the do-or-die proof.",
+        "4. Why this launch matters\n\nA successful reflight would directly challenge SpaceX's dominance in reusable rockets, shaking the market's current order.",
+        "5. Watch their next move\n\nBookmark Stoke's launch schedule. If they nail it, will your investment thesis change?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Billion for rocket reuse, no orbital flight yet.",
+        "Engines, heat shields, landing legs—the hard parts.",
+        "SpaceX dominates, but Stoke gets a billion.",
+        "Their next launch could reshape the rocket market.",
+        "Ask yourself: would you bet on them too?"
+      ]
+    },
+    "instagram": {
+      "caption": "A rocket company just raised another billion dollars without ever successfully re-flying an orbital booster. 🚀\n\nStoke Space is betting big on engines, heat shields, and landing legs—the same components that took SpaceX years to master. Their next launch will prove whether the technology actually works.\n\nIf it succeeds, the monopoly on rapid rocket reuse cracks open. That means cheaper satellite launches and faster iteration for anyone building in space.\n\nYou're following space tech—does this change who you'd trust with your next payload? 💭"
+    }
+  },
+  "instagram_caption": "A rocket company just raised another billion dollars without ever successfully re-flying an orbital booster. 🚀\n\nStoke Space is betting big on engines, heat shields, and landing legs—the same components that took SpaceX years to master. Their next launch will prove whether the technology actually works.\n\nIf it succeeds, the monopoly on rapid rocket reuse cracks open. That means cheaper satellite launches and faster iteration for anyone building in space.\n\nYou're following space tech—does this change who you'd trust with your next payload? 💭",
+  "carousel_slides": [
+    {
+      "hook": "Who else can master rapid reuse?",
+      "description": "Stoke Space just secured an extra billion dollars, despite never re-flying an orbital booster. The challenge is proving they can rival SpaceX.",
+      "visual_hint": "Rocket launch pad at sunrise",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rocket launch pad"
+    },
+    {
+      "hook": "What the billion is for",
+      "description": "The funding targets engines, heat shields, and landing legs—the hardest parts of rapid reuse. Even SpaceX needed years to perfect these.",
+      "visual_hint": "Engine close-up with glow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "rocket engine close",
+      "image": "https://images.pexels.com/photos/33619754/pexels-photo-33619754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The unproven hurdle remains",
+      "description": "Stoke has yet to re-fly an orbital booster successfully. Their next launch is the do-or-die moment to prove it works.",
+      "visual_hint": "Booster descending with legs",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket landing legs",
+      "image": "https://images.pexels.com/photos/33619754/pexels-photo-33619754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "What success would change",
+      "description": "A successful reflight would directly challenge SpaceX's market dominance. Investors are watching closely.",
+      "visual_hint": "Hand gripping launch lever",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand launch button",
+      "image": "https://images.pexels.com/photos/4487675/pexels-photo-4487675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will you track Stoke's next launch?",
+      "description": "Save this post and check Stoke Space's schedule. Success or failure could reshape your investment thesis.",
+      "visual_hint": "Calendar with rocket icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar rocket launch",
+      "image": "https://images.pexels.com/photos/5420670/pexels-photo-5420670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800",
+  "savedAt": "2026-09-08T14:00:32.589Z",
+  "sourceId": "32838f9ba7482c55bf0bad3cfd74e2b6"
+}
