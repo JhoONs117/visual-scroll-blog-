@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-debuts-its-muse-ai-agent-will-consumers-trust",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+  "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+  "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
+  "slides": [
+    "Meta's Muse AI promises human-like reasoning—but can it be trusted?",
+    "Consumer trials launch on Ray-Ban glasses and Quest headsets.",
+    "Unlike chatbots, Muse plans steps before executing any task.",
+    "Your private data powers Muse, raising unresolved privacy questions.",
+    "Test Muse with trivial requests before granting deeper access."
+  ],
+  "thread_text": [
+    "1. Can you trust Muse?\n\nMuse plans before acting, unlike chatbots. But your private data powers it. Privacy questions remain unanswered.",
+    "2. From glasses to headsets\n\nConsumer trials launch on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions.",
+    "3. The planning twist\n\nMuse doesn't just answer—it outlines steps before executing. This mimics human reasoning but raises control concerns.",
+    "4. The data dilemma\n\nYour private data trains Muse. What happens if it's misused? Unresolved privacy questions linger.",
+    "5. Test before you trust\n\nUse trivial requests first. See if Muse respects boundaries. Would you give it deeper access?"
+  ],
+  "video_script": [
+    "Muse promises human-like reasoning.",
+    "But can you trust it?",
+    "Trials start on Ray-Ban and Quest.",
+    "It plans before acting, unlike chatbots.",
+    "Test it with simple requests."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can you trust Muse?\n\nMuse plans before acting, unlike chatbots. But your private data powers it. Privacy questions remain unanswered.",
+        "2. From glasses to headsets\n\nConsumer trials launch on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions.",
+        "3. The planning twist\n\nMuse doesn't just answer—it outlines steps before executing. This mimics human reasoning but raises control concerns.",
+        "4. The data dilemma\n\nYour private data trains Muse. What happens if it's misused? Unresolved privacy questions linger.",
+        "5. Test before you trust\n\nUse trivial requests first. See if Muse respects boundaries. Would you give it deeper access?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Muse promises human-like reasoning.",
+        "But can you trust it?",
+        "Trials start on Ray-Ban and Quest.",
+        "It plans before acting, unlike chatbots.",
+        "Test it with simple requests."
+      ]
+    },
+    "instagram": {
+      "caption": "Meta’s new AI agent, Muse, actually plans out its steps before it answers you—like sketching a to-do list instead of blurting out a reply. 🧠\n\nIt’s rolling out on Ray-Ban glasses and Quest headsets, where it learns from your everyday interactions. That means your private data is the fuel, and Meta hasn’t answered what happens if it gets misused. 🔒\n\nFor anyone creating content, this changes the game: you’ll be interacting with an assistant that mimics human reasoning, but you’re also handing over behavioral data with no clear guardrails yet.\n\nBefore you grant it deeper access, test Muse with trivial requests. Would you let it into your workflow if it can't prove it respects your boundaries? 👀"
+    }
+  },
+  "instagram_caption": "Meta’s new AI agent, Muse, actually plans out its steps before it answers you—like sketching a to-do list instead of blurting out a reply. 🧠\n\nIt’s rolling out on Ray-Ban glasses and Quest headsets, where it learns from your everyday interactions. That means your private data is the fuel, and Meta hasn’t answered what happens if it gets misused. 🔒\n\nFor anyone creating content, this changes the game: you’ll be interacting with an assistant that mimics human reasoning, but you’re also handing over behavioral data with no clear guardrails yet.\n\nBefore you grant it deeper access, test Muse with trivial requests. Would you let it into your workflow if it can't prove it respects your boundaries? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Would you trust AI that plans?",
+      "description": "Muse doesn't just babble—it outlines steps before acting. That feels human, but raises: who controls the plan?",
+      "visual_hint": "Mind map with locks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "artificial intelligence concept"
+    },
+    {
+      "hook": "From glasses to your face.",
+      "description": "Consumer trials on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions—starting now.",
+      "visual_hint": "Smart glasses on table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smart glasses product",
+      "image": "https://images.pexels.com/photos/30172648/pexels-photo-30172648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your data powers this brain.",
+      "description": "Private data trains Muse, but privacy answers remain blurred. If misused, consequences could go far.",
+      "visual_hint": "Layered security shield",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "data server",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Do you grant deeper access?",
+      "description": "Start with trivial requests. Watch how Muse respects boundaries. Then decide if it earns deeper trust.",
+      "visual_hint": "Handshake and question mark",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person handshake",
+      "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to reflect later.",
+      "description": "Try trivial requests first. See if Muse respects your limits. Would you ever let it deeper into your day?",
+      "visual_hint": "Checklist and app icons",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smartphone checklist app",
+      "image": "https://images.pexels.com/photos/8830669/pexels-photo-8830669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+  "savedAt": "2026-09-08T19:09:07.601Z",
+  "sourceId": "20d984cb02ebaee3e1ca9293aa9a0621"
+}

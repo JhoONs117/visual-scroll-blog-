@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chrome-is-now-shipping-updates-every-2-weeks-as-ai",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+  "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+  "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
+  "slides": [
+    "Faster Chrome updates: safer or riskier gamble?",
+    "New cadence: every two weeks, not four.",
+    "AI attacks now evolve faster than monthly patches.",
+    "Your browser's defenses refresh before exploits spread.",
+    "Test critical extensions now; don't assume stability."
+  ],
+  "thread_text": [
+    "1. Faster Chrome updates: riskier gamble?\n\nGoogle halves update cycle to two weeks, betting speed beats stability.",
+    "2. AI attacks outpace monthly patches\n\nAttackers now weaponize exploits faster than old defenses could react.",
+    "3. Your browser's shield upgrades every 14 days\n\nEach refresh aims to block threats before they spread across users.",
+    "4. But patches can break your extensions\n\nCritical tools may fail silently after each forced update—no warning.",
+    "5. Test your extensions today\n\nBefore the next Chrome update hits, check if your key extensions still work. If not, report issues now—or risk downtime."
+  ],
+  "video_script": [
+    "Chrome updates every two weeks now.",
+    "Old pace left gaps for AI attacks.",
+    "Faster fixes close those security holes.",
+    "But extensions might break silently.",
+    "Test your critical tools before each update."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Faster Chrome updates: riskier gamble?\n\nGoogle halves update cycle to two weeks, betting speed beats stability.",
+        "2. AI attacks outpace monthly patches\n\nAttackers now weaponize exploits faster than old defenses could react.",
+        "3. Your browser's shield upgrades every 14 days\n\nEach refresh aims to block threats before they spread across users.",
+        "4. But patches can break your extensions\n\nCritical tools may fail silently after each forced update—no warning.",
+        "5. Test your extensions today\n\nBefore the next Chrome update hits, check if your key extensions still work. If not, report issues now—or risk downtime."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Chrome updates every two weeks now.",
+        "Old pace left gaps for AI attacks.",
+        "Faster fixes close those security holes.",
+        "But extensions might break silently.",
+        "Test your critical tools before each update."
+      ]
+    },
+    "instagram": {
+      "caption": "Your browser now updates its defenses every 14 days, not 28—Google just halved Chrome’s patch cycle to outpace AI-generated exploits that mutate faster than monthly fixes.  \n\nEach refresh ships with zero-day protections aimed at threats that spread before old patches could react. But speed has a cost: every forced update can silently break your extensions—no warning, no rollback.  \n\nIf you run automated content pipelines or rely on browser-based tools, a critical plugin could fail mid-workflow after the next update lands.  \n\nWhich extensions are you running right now—and have you tested them against the latest Chrome version yet? 🔄⚙️🧩"
+    }
+  },
+  "instagram_caption": "Your browser now updates its defenses every 14 days, not 28—Google just halved Chrome’s patch cycle to outpace AI-generated exploits that mutate faster than monthly fixes.  \n\nEach refresh ships with zero-day protections aimed at threats that spread before old patches could react. But speed has a cost: every forced update can silently break your extensions—no warning, no rollback.  \n\nIf you run automated content pipelines or rely on browser-based tools, a critical plugin could fail mid-workflow after the next update lands.  \n\nWhich extensions are you running right now—and have you tested them against the latest Chrome version yet? 🔄⚙️🧩",
+  "carousel_slides": [
+    {
+      "hook": "AI attacks now outpace monthly patches.",
+      "description": "Chrome halved its update cycle to two weeks because attackers weaponize exploits faster than old defenses can react. Speed is the new safety net.",
+      "visual_hint": "Glowing AI brain over browser logo",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "artificial intelligence chip closeup"
+    },
+    {
+      "hook": "Two weeks, not four. Why?",
+      "description": "Chrome's new cadence ships updates every two weeks, cutting the old month-long gap in half. Critical fixes reach users before exploits spread widely.",
+      "visual_hint": "Calendar with half-shorter cycle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "calendar closeup technology",
+      "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Perpetual motion.",
+      "description": "Browser defenses now refresh before AI-driven threats multiply. Each update is a proactive barrier, not a reactive remedy.",
+      "visual_hint": "Shield cycling infinitely with arrow",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cyber security firewall concept",
+      "image": "https://images.pexels.com/photos/6964173/pexels-photo-6964173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Does speed break your tools?",
+      "description": "Frequent updates can silently break critical extensions, disrupting workflows. Review your most-used tools now instead of assuming stability.",
+      "visual_hint": "Hand holding broken puzzle piece",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding puzzle piece",
+      "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your extensions before the next update.",
+      "description": "Open Chrome, inspect your extensions, and report issues via the developer's support channel now. Avoid downtime when the next patch ships.",
+      "visual_hint": "Checklist with browser extension icons",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "browser extension icons on screen",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+  "savedAt": "2026-09-08T19:09:40.691Z",
+  "sourceId": "95a190e6d2c58c48ba9d4c59490fd573"
+}

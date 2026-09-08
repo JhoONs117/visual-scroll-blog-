@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "chrome-is-now-shipping-updates-every-2-weeks-as-ai",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
+    "slides": [
+      "Faster Chrome updates: safer or riskier gamble?",
+      "New cadence: every two weeks, not four.",
+      "AI attacks now evolve faster than monthly patches.",
+      "Your browser's defenses refresh before exploits spread.",
+      "Test critical extensions now; don't assume stability."
+    ],
+    "thread_text": [
+      "1. Faster Chrome updates: riskier gamble?\n\nGoogle halves update cycle to two weeks, betting speed beats stability.",
+      "2. AI attacks outpace monthly patches\n\nAttackers now weaponize exploits faster than old defenses could react.",
+      "3. Your browser's shield upgrades every 14 days\n\nEach refresh aims to block threats before they spread across users.",
+      "4. But patches can break your extensions\n\nCritical tools may fail silently after each forced update—no warning.",
+      "5. Test your extensions today\n\nBefore the next Chrome update hits, check if your key extensions still work. If not, report issues now—or risk downtime."
+    ],
+    "video_script": [
+      "Chrome updates every two weeks now.",
+      "Old pace left gaps for AI attacks.",
+      "Faster fixes close those security holes.",
+      "But extensions might break silently.",
+      "Test your critical tools before each update."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Faster Chrome updates: riskier gamble?\n\nGoogle halves update cycle to two weeks, betting speed beats stability.",
+          "2. AI attacks outpace monthly patches\n\nAttackers now weaponize exploits faster than old defenses could react.",
+          "3. Your browser's shield upgrades every 14 days\n\nEach refresh aims to block threats before they spread across users.",
+          "4. But patches can break your extensions\n\nCritical tools may fail silently after each forced update—no warning.",
+          "5. Test your extensions today\n\nBefore the next Chrome update hits, check if your key extensions still work. If not, report issues now—or risk downtime."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Chrome updates every two weeks now.",
+          "Old pace left gaps for AI attacks.",
+          "Faster fixes close those security holes.",
+          "But extensions might break silently.",
+          "Test your critical tools before each update."
+        ]
+      },
+      "instagram": {
+        "caption": "Your browser now updates its defenses every 14 days, not 28—Google just halved Chrome’s patch cycle to outpace AI-generated exploits that mutate faster than monthly fixes.  \n\nEach refresh ships with zero-day protections aimed at threats that spread before old patches could react. But speed has a cost: every forced update can silently break your extensions—no warning, no rollback.  \n\nIf you run automated content pipelines or rely on browser-based tools, a critical plugin could fail mid-workflow after the next update lands.  \n\nWhich extensions are you running right now—and have you tested them against the latest Chrome version yet? 🔄⚙️🧩"
+      }
+    },
+    "instagram_caption": "Your browser now updates its defenses every 14 days, not 28—Google just halved Chrome’s patch cycle to outpace AI-generated exploits that mutate faster than monthly fixes.  \n\nEach refresh ships with zero-day protections aimed at threats that spread before old patches could react. But speed has a cost: every forced update can silently break your extensions—no warning, no rollback.  \n\nIf you run automated content pipelines or rely on browser-based tools, a critical plugin could fail mid-workflow after the next update lands.  \n\nWhich extensions are you running right now—and have you tested them against the latest Chrome version yet? 🔄⚙️🧩",
+    "carousel_slides": [
+      {
+        "hook": "AI attacks now outpace monthly patches.",
+        "description": "Chrome halved its update cycle to two weeks because attackers weaponize exploits faster than old defenses can react. Speed is the new safety net.",
+        "visual_hint": "Glowing AI brain over browser logo",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "artificial intelligence chip closeup"
+      },
+      {
+        "hook": "Two weeks, not four. Why?",
+        "description": "Chrome's new cadence ships updates every two weeks, cutting the old month-long gap in half. Critical fixes reach users before exploits spread widely.",
+        "visual_hint": "Calendar with half-shorter cycle",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "calendar closeup technology",
+        "image": "https://images.pexels.com/photos/5386732/pexels-photo-5386732.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Perpetual motion.",
+        "description": "Browser defenses now refresh before AI-driven threats multiply. Each update is a proactive barrier, not a reactive remedy.",
+        "visual_hint": "Shield cycling infinitely with arrow",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cyber security firewall concept",
+        "image": "https://images.pexels.com/photos/6964173/pexels-photo-6964173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Does speed break your tools?",
+        "description": "Frequent updates can silently break critical extensions, disrupting workflows. Review your most-used tools now instead of assuming stability.",
+        "visual_hint": "Hand holding broken puzzle piece",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding puzzle piece",
+        "image": "https://images.pexels.com/photos/10981235/pexels-photo-10981235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your extensions before the next update.",
+        "description": "Open Chrome, inspect your extensions, and report issues via the developer's support channel now. Avoid downtime when the next patch ships.",
+        "visual_hint": "Checklist with browser extension icons",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "browser extension icons on screen",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+    "savedAt": "2026-09-08T19:09:40.691Z",
+    "sourceId": "95a190e6d2c58c48ba9d4c59490fd573"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "google-cloud-races-to-catch-up-in-the-ai-deploymen",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
+    "slides": [
+      "Can Google Cloud outrun Accenture's AI dominance?",
+      "New partnership targets enterprise deployment bottlenecks.",
+      "But Google's own infrastructure lags behind rivals' results.",
+      "Your AI pilots may now bypass internal cloud bottlenecks.",
+      "Test this partnership on one critical workload immediately."
+    ],
+    "thread_text": [
+      "1. Can Google Cloud outrun Accenture? \n\nNew partnership targets enterprise bottlenecks, but Google's own infrastructure still lags behind rivals. Will this move close the gap or widen it?",
+      "2. Real-world deployments stall \n\nMost AI pilots fail at production scale. The new alliance claims to fix that, but skeptics point to Google's internal cloud performance issues.",
+      "3. Your pilots may bypass cloud limits \n\nIf this works, you can test AI workloads without waiting for internal cloud upgrades. But does outsourcing to a partner really solve the root problem?",
+      "4. Accenture's dominance is built on execution \n\nTheir enterprise integration is proven. Google brings AI research, but can it match Accenture's delivery speed? The bottleneck is not just technology.",
+      "5. Test this on one critical workload \n\nPick a live project that's stuck. Run it through this partnership. If it delivers, scale; if not, you'll know where the real constraint lies."
+    ],
+    "video_script": [
+      "Google Cloud teams with Accenture to fix AI.",
+      "They aim to speed up enterprise deployments.",
+      "But Google's own cloud might be the problem.",
+      "Your pilots could skip slow internal upgrades.",
+      "Try it on one critical task now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Google Cloud outrun Accenture? \n\nNew partnership targets enterprise bottlenecks, but Google's own infrastructure still lags behind rivals. Will this move close the gap or widen it?",
+          "2. Real-world deployments stall \n\nMost AI pilots fail at production scale. The new alliance claims to fix that, but skeptics point to Google's internal cloud performance issues.",
+          "3. Your pilots may bypass cloud limits \n\nIf this works, you can test AI workloads without waiting for internal cloud upgrades. But does outsourcing to a partner really solve the root problem?",
+          "4. Accenture's dominance is built on execution \n\nTheir enterprise integration is proven. Google brings AI research, but can it match Accenture's delivery speed? The bottleneck is not just technology.",
+          "5. Test this on one critical workload \n\nPick a live project that's stuck. Run it through this partnership. If it delivers, scale; if not, you'll know where the real constraint lies."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google Cloud teams with Accenture to fix AI.",
+          "They aim to speed up enterprise deployments.",
+          "But Google's own cloud might be the problem.",
+          "Your pilots could skip slow internal upgrades.",
+          "Try it on one critical task now."
+        ]
+      },
+      "instagram": {
+        "caption": "Google Cloud just signed Accenture to sell and deploy its AI stack, but the deal reads more like a rescue mission than a partnership. 🏃\n\nAccenture already runs the largest AI deployment force in the enterprise world. Google, meanwhile, has been losing production workloads to AWS and Azure because its own cloud infrastructure keeps stumbling on scale. This alliance lets Google borrow Accenture's delivery muscle to push Gemini into companies that are stuck in pilot purgatory. ⏳\n\nFor you, this means one thing: if a client project is stalled on Google's internal bottlenecks, you can now route it through Accenture's rollout machine instead of waiting for Google to fix its own house. 🛠️\n\nPick one workload that's been sitting in \"almost production\" for over a month. Hand it to this partnership and measure the time-to-live against your last three Google Cloud deployments. Did the bottleneck just move? 📉"
+      }
+    },
+    "instagram_caption": "Google Cloud just signed Accenture to sell and deploy its AI stack, but the deal reads more like a rescue mission than a partnership. 🏃\n\nAccenture already runs the largest AI deployment force in the enterprise world. Google, meanwhile, has been losing production workloads to AWS and Azure because its own cloud infrastructure keeps stumbling on scale. This alliance lets Google borrow Accenture's delivery muscle to push Gemini into companies that are stuck in pilot purgatory. ⏳\n\nFor you, this means one thing: if a client project is stalled on Google's internal bottlenecks, you can now route it through Accenture's rollout machine instead of waiting for Google to fix its own house. 🛠️\n\nPick one workload that's been sitting in \"almost production\" for over a month. Hand it to this partnership and measure the time-to-live against your last three Google Cloud deployments. Did the bottleneck just move? 📉",
+    "carousel_slides": [
+      {
+        "hook": "Will this deal widen the AI gap?",
+        "description": "Google's new Accenture alliance targets enterprise bottlenecks, but its own cloud still lags rivals. The move could either close the gap or expose deeper flaws.",
+        "visual_hint": "Two giant gears clashing, one labeled Google, one Accenture",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "computer server room"
+      },
+      {
+        "hook": "Production is where AI dies.",
+        "description": "Most AI pilots fail when scaled. This partnership claims to fix that, but internal cloud performance issues at Google raise skeptics' doubts.",
+        "visual_hint": "A fragile bridge spanning a chasm, with a small pilot crossing",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory production line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can you bypass cloud bottlenecks?",
+        "description": "If the alliance works, you can test AI workloads without waiting for Google's internal upgrades. But outsourcing may not fix the root cause.",
+        "visual_hint": "A detour sign pointing around a congested highway",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room cables",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Execution beats research here.",
+        "description": "Accenture's enterprise integration is proven. Google brings AI research, but can it match Accenture's delivery speed? The bottleneck is more than technology.",
+        "visual_hint": "A handshake between a researcher and a builder, with a clock overhead",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office handshake",
+        "image": "https://images.pexels.com/photos/8101922/pexels-photo-8101922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test this on one stuck project.",
+        "description": "Pick a live AI workload that's stalled. Run it through this partnership now. If it delivers, scale up; if not, you'll know your real constraint.",
+        "visual_hint": "A magnifying glass over a project blueprint",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "magnifying glass blueprint",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "savedAt": "2026-09-08T19:09:29.666Z",
+    "sourceId": "d081e58264cf5caa0639b35df4f1e269"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-fought-dirty-on-career-making-math-problem-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
+    "slides": [
+      "Did OpenAI cheat its way to the top?",
+      "A NYU mathematician alleges unfair tactics in contest.",
+      "He claims the company exploited a hidden loophole.",
+      "This could invalidate results and shake trust in AI.",
+      "Decide if your research should trust OpenAI's claims."
+    ],
+    "thread_text": [
+      "1. Did OpenAI cheat?\n\nA NYU mathematician says the company used a hidden loophole in an AI contest, potentially invalidating its top results.",
+      "2. Contest rules missed this\n\nThe loophole wasn't explicitly forbidden, but exploiting it goes against the contest's spirit, claim critics.",
+      "3. A trust problem emerges\n\nIf OpenAI's win is voided, researchers may question every benchmark claim from the company moving forward.",
+      "4. What the loophole was\n\nThe mathematician alleges OpenAI leveraged secret test data access, not just model intelligence, to win.",
+      "5. Should you trust them?\n\nCheck if any OpenAI claims you've cited rely on contest wins like this — then verify with independent tests."
+    ],
+    "video_script": [
+      "OpenAI is accused of cheating in contest.",
+      "NYU mathematician claims hidden loophole was used.",
+      "If true, results could be invalidated.",
+      "This shakes trust in AI claims.",
+      "Test your research before trusting their word."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Did OpenAI cheat?\n\nA NYU mathematician says the company used a hidden loophole in an AI contest, potentially invalidating its top results.",
+          "2. Contest rules missed this\n\nThe loophole wasn't explicitly forbidden, but exploiting it goes against the contest's spirit, claim critics.",
+          "3. A trust problem emerges\n\nIf OpenAI's win is voided, researchers may question every benchmark claim from the company moving forward.",
+          "4. What the loophole was\n\nThe mathematician alleges OpenAI leveraged secret test data access, not just model intelligence, to win.",
+          "5. Should you trust them?\n\nCheck if any OpenAI claims you've cited rely on contest wins like this — then verify with independent tests."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI is accused of cheating in contest.",
+          "NYU mathematician claims hidden loophole was used.",
+          "If true, results could be invalidated.",
+          "This shakes trust in AI claims.",
+          "Test your research before trusting their word."
+        ]
+      },
+      "instagram": {
+        "caption": "A top mathematician is publicly accusing OpenAI of exploiting a hidden loophole to win a career-defining AI contest, not just relying on raw intelligence.  \n\nThe claim centers on alleged secret access to test data, which critics say violates the spirit of the rules even if it wasn't explicitly banned. If the win is invalidated, every benchmark OpenAI has touted could come under fresh suspicion.  \n\nFor you, this means any research or article citing OpenAI’s contest results as proof of capability may rest on shaky ground right now.  \n\nBefore your next project leans on one of their claims, can you trace it back to an independent, non-contest source? 🔍⚖️📉"
+      }
+    },
+    "instagram_caption": "A top mathematician is publicly accusing OpenAI of exploiting a hidden loophole to win a career-defining AI contest, not just relying on raw intelligence.  \n\nThe claim centers on alleged secret access to test data, which critics say violates the spirit of the rules even if it wasn't explicitly banned. If the win is invalidated, every benchmark OpenAI has touted could come under fresh suspicion.  \n\nFor you, this means any research or article citing OpenAI’s contest results as proof of capability may rest on shaky ground right now.  \n\nBefore your next project leans on one of their claims, can you trace it back to an independent, non-contest source? 🔍⚖️📉",
+    "carousel_slides": [
+      {
+        "hook": "Is OpenAI's win a lie?",
+        "description": "A mathematician claims OpenAI exploited a hidden loophole in a contest, potentially invalidating results and eroding trust in AI claims.",
+        "visual_hint": "Chessboard with tip",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chess pieces"
+      },
+      {
+        "hook": "Loophole not in rulebook",
+        "description": "Critics say the exploit wasn't explicitly forbidden, but violating contest spirit could void OpenAI's top result, raising ethical questions.",
+        "visual_hint": "Fine print magnified",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "magnifying glass document",
+        "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Trust in AI on the line",
+        "description": "If the win is voided, researchers may doubt every future benchmark from OpenAI, impacting credibility across the field.",
+        "visual_hint": "Shattered trust symbol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "broken glass",
+        "image": "https://images.pexels.com/photos/6387834/pexels-photo-6387834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Secret test data used?",
+        "description": "The allegation: OpenAI accessed hidden test data, not just model skill, to secure victory, sparking debate on AI ethics.",
+        "visual_hint": "Hand holding hidden key",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand key",
+        "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before citing AI",
+        "description": "Check if your research relies on OpenAI's contest wins; verify with independent tests to ensure your citations stay solid.",
+        "visual_hint": "Checkmark on document",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+    "savedAt": "2026-09-08T19:09:18.106Z",
+    "sourceId": "2372e1e4c41426420ab7a3715c11b7e4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-debuts-its-muse-ai-agent-will-consumers-trust",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
+    "slides": [
+      "Meta's Muse AI promises human-like reasoning—but can it be trusted?",
+      "Consumer trials launch on Ray-Ban glasses and Quest headsets.",
+      "Unlike chatbots, Muse plans steps before executing any task.",
+      "Your private data powers Muse, raising unresolved privacy questions.",
+      "Test Muse with trivial requests before granting deeper access."
+    ],
+    "thread_text": [
+      "1. Can you trust Muse?\n\nMuse plans before acting, unlike chatbots. But your private data powers it. Privacy questions remain unanswered.",
+      "2. From glasses to headsets\n\nConsumer trials launch on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions.",
+      "3. The planning twist\n\nMuse doesn't just answer—it outlines steps before executing. This mimics human reasoning but raises control concerns.",
+      "4. The data dilemma\n\nYour private data trains Muse. What happens if it's misused? Unresolved privacy questions linger.",
+      "5. Test before you trust\n\nUse trivial requests first. See if Muse respects boundaries. Would you give it deeper access?"
+    ],
+    "video_script": [
+      "Muse promises human-like reasoning.",
+      "But can you trust it?",
+      "Trials start on Ray-Ban and Quest.",
+      "It plans before acting, unlike chatbots.",
+      "Test it with simple requests."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can you trust Muse?\n\nMuse plans before acting, unlike chatbots. But your private data powers it. Privacy questions remain unanswered.",
+          "2. From glasses to headsets\n\nConsumer trials launch on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions.",
+          "3. The planning twist\n\nMuse doesn't just answer—it outlines steps before executing. This mimics human reasoning but raises control concerns.",
+          "4. The data dilemma\n\nYour private data trains Muse. What happens if it's misused? Unresolved privacy questions linger.",
+          "5. Test before you trust\n\nUse trivial requests first. See if Muse respects boundaries. Would you give it deeper access?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Muse promises human-like reasoning.",
+          "But can you trust it?",
+          "Trials start on Ray-Ban and Quest.",
+          "It plans before acting, unlike chatbots.",
+          "Test it with simple requests."
+        ]
+      },
+      "instagram": {
+        "caption": "Meta’s new AI agent, Muse, actually plans out its steps before it answers you—like sketching a to-do list instead of blurting out a reply. 🧠\n\nIt’s rolling out on Ray-Ban glasses and Quest headsets, where it learns from your everyday interactions. That means your private data is the fuel, and Meta hasn’t answered what happens if it gets misused. 🔒\n\nFor anyone creating content, this changes the game: you’ll be interacting with an assistant that mimics human reasoning, but you’re also handing over behavioral data with no clear guardrails yet.\n\nBefore you grant it deeper access, test Muse with trivial requests. Would you let it into your workflow if it can't prove it respects your boundaries? 👀"
+      }
+    },
+    "instagram_caption": "Meta’s new AI agent, Muse, actually plans out its steps before it answers you—like sketching a to-do list instead of blurting out a reply. 🧠\n\nIt’s rolling out on Ray-Ban glasses and Quest headsets, where it learns from your everyday interactions. That means your private data is the fuel, and Meta hasn’t answered what happens if it gets misused. 🔒\n\nFor anyone creating content, this changes the game: you’ll be interacting with an assistant that mimics human reasoning, but you’re also handing over behavioral data with no clear guardrails yet.\n\nBefore you grant it deeper access, test Muse with trivial requests. Would you let it into your workflow if it can't prove it respects your boundaries? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Would you trust AI that plans?",
+        "description": "Muse doesn't just babble—it outlines steps before acting. That feels human, but raises: who controls the plan?",
+        "visual_hint": "Mind map with locks",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "artificial intelligence concept"
+      },
+      {
+        "hook": "From glasses to your face.",
+        "description": "Consumer trials on Ray-Ban glasses and Quest headsets. Muse learns from your everyday interactions—starting now.",
+        "visual_hint": "Smart glasses on table",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smart glasses product",
+        "image": "https://images.pexels.com/photos/30172648/pexels-photo-30172648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your data powers this brain.",
+        "description": "Private data trains Muse, but privacy answers remain blurred. If misused, consequences could go far.",
+        "visual_hint": "Layered security shield",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "data server",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Do you grant deeper access?",
+        "description": "Start with trivial requests. Watch how Muse respects boundaries. Then decide if it earns deeper trust.",
+        "visual_hint": "Handshake and question mark",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person handshake",
+        "image": "https://images.pexels.com/photos/2822647/pexels-photo-2822647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to reflect later.",
+        "description": "Try trivial requests first. See if Muse respects your limits. Would you ever let it deeper into your day?",
+        "visual_hint": "Checklist and app icons",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "smartphone checklist app",
+        "image": "https://images.pexels.com/photos/8830669/pexels-photo-8830669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+    "savedAt": "2026-09-08T19:09:07.601Z",
+    "sourceId": "20d984cb02ebaee3e1ca9293aa9a0621"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "stoke-space-raises-another-billion-to-rival-spacex",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-fought-dirty-on-career-making-math-problem-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+  "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+  "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
+  "slides": [
+    "Did OpenAI cheat its way to the top?",
+    "A NYU mathematician alleges unfair tactics in contest.",
+    "He claims the company exploited a hidden loophole.",
+    "This could invalidate results and shake trust in AI.",
+    "Decide if your research should trust OpenAI's claims."
+  ],
+  "thread_text": [
+    "1. Did OpenAI cheat?\n\nA NYU mathematician says the company used a hidden loophole in an AI contest, potentially invalidating its top results.",
+    "2. Contest rules missed this\n\nThe loophole wasn't explicitly forbidden, but exploiting it goes against the contest's spirit, claim critics.",
+    "3. A trust problem emerges\n\nIf OpenAI's win is voided, researchers may question every benchmark claim from the company moving forward.",
+    "4. What the loophole was\n\nThe mathematician alleges OpenAI leveraged secret test data access, not just model intelligence, to win.",
+    "5. Should you trust them?\n\nCheck if any OpenAI claims you've cited rely on contest wins like this — then verify with independent tests."
+  ],
+  "video_script": [
+    "OpenAI is accused of cheating in contest.",
+    "NYU mathematician claims hidden loophole was used.",
+    "If true, results could be invalidated.",
+    "This shakes trust in AI claims.",
+    "Test your research before trusting their word."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Did OpenAI cheat?\n\nA NYU mathematician says the company used a hidden loophole in an AI contest, potentially invalidating its top results.",
+        "2. Contest rules missed this\n\nThe loophole wasn't explicitly forbidden, but exploiting it goes against the contest's spirit, claim critics.",
+        "3. A trust problem emerges\n\nIf OpenAI's win is voided, researchers may question every benchmark claim from the company moving forward.",
+        "4. What the loophole was\n\nThe mathematician alleges OpenAI leveraged secret test data access, not just model intelligence, to win.",
+        "5. Should you trust them?\n\nCheck if any OpenAI claims you've cited rely on contest wins like this — then verify with independent tests."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI is accused of cheating in contest.",
+        "NYU mathematician claims hidden loophole was used.",
+        "If true, results could be invalidated.",
+        "This shakes trust in AI claims.",
+        "Test your research before trusting their word."
+      ]
+    },
+    "instagram": {
+      "caption": "A top mathematician is publicly accusing OpenAI of exploiting a hidden loophole to win a career-defining AI contest, not just relying on raw intelligence.  \n\nThe claim centers on alleged secret access to test data, which critics say violates the spirit of the rules even if it wasn't explicitly banned. If the win is invalidated, every benchmark OpenAI has touted could come under fresh suspicion.  \n\nFor you, this means any research or article citing OpenAI’s contest results as proof of capability may rest on shaky ground right now.  \n\nBefore your next project leans on one of their claims, can you trace it back to an independent, non-contest source? 🔍⚖️📉"
+    }
+  },
+  "instagram_caption": "A top mathematician is publicly accusing OpenAI of exploiting a hidden loophole to win a career-defining AI contest, not just relying on raw intelligence.  \n\nThe claim centers on alleged secret access to test data, which critics say violates the spirit of the rules even if it wasn't explicitly banned. If the win is invalidated, every benchmark OpenAI has touted could come under fresh suspicion.  \n\nFor you, this means any research or article citing OpenAI’s contest results as proof of capability may rest on shaky ground right now.  \n\nBefore your next project leans on one of their claims, can you trace it back to an independent, non-contest source? 🔍⚖️📉",
+  "carousel_slides": [
+    {
+      "hook": "Is OpenAI's win a lie?",
+      "description": "A mathematician claims OpenAI exploited a hidden loophole in a contest, potentially invalidating results and eroding trust in AI claims.",
+      "visual_hint": "Chessboard with tip",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "chess pieces"
+    },
+    {
+      "hook": "Loophole not in rulebook",
+      "description": "Critics say the exploit wasn't explicitly forbidden, but violating contest spirit could void OpenAI's top result, raising ethical questions.",
+      "visual_hint": "Fine print magnified",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust in AI on the line",
+      "description": "If the win is voided, researchers may doubt every future benchmark from OpenAI, impacting credibility across the field.",
+      "visual_hint": "Shattered trust symbol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken glass",
+      "image": "https://images.pexels.com/photos/6387834/pexels-photo-6387834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Secret test data used?",
+      "description": "The allegation: OpenAI accessed hidden test data, not just model skill, to secure victory, sparking debate on AI ethics.",
+      "visual_hint": "Hand holding hidden key",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand key",
+      "image": "https://images.pexels.com/photos/8470846/pexels-photo-8470846.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before citing AI",
+      "description": "Check if your research relies on OpenAI's contest wins; verify with independent tests to ensure your citations stay solid.",
+      "visual_hint": "Checkmark on document",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+  "savedAt": "2026-09-08T19:09:18.106Z",
+  "sourceId": "2372e1e4c41426420ab7a3715c11b7e4"
+}
