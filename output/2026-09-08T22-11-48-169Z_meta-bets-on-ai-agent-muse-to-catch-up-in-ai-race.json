@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta bets on AI agent Muse to catch up in AI race",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+  "pubDate": "2026-09-08T19:00:00.000Z",
+  "slides": [
+    "Can Meta's Muse finally close the AI gap?",
+    "This AI agent generates game environments in real time.",
+    "Unlike rivals, it learns directly from human play data.",
+    "Muse could slash your game development costs dramatically.",
+    "Test Muse today or risk your studio falling behind."
+  ],
+  "thread_text": [
+    "1. The AI gap narrows\n\nMeta's Muse isn't just another model—it learns from actual human gameplay, not simulated data. That's a fundamental shift in how AI understands games.",
+    "2. Real-time worlds\n\nMuse generates game environments on the fly, as you play. No pre-built levels, no loading screens. The game builds itself around your actions.",
+    "3. The learning twist\n\nWhile rivals train on hand-crafted datasets, Muse watches humans play. It picks up strategies and quirks that no scripted AI ever could.",
+    "4. Cost slash\n\nImagine cutting your game dev budget by 50% or more. Routine assets, levels, even NPC behavior—Muse automates the expensive grunt work.",
+    "5. Don't get left behind\n\nOpen Muse's demo tonight. Take your studio's worst level and see if it rebuilds itself. If it doesn't, your competitor will."
+  ],
+  "video_script": [
+    "Muse learns from humans, not scripts.",
+    "It builds worlds live as you play.",
+    "Rivals can't match its real-time insights.",
+    "Development costs could plummet instantly.",
+    "Try the demo today to stay ahead."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI gap narrows\n\nMeta's Muse isn't just another model—it learns from actual human gameplay, not simulated data. That's a fundamental shift in how AI understands games.",
+        "2. Real-time worlds\n\nMuse generates game environments on the fly, as you play. No pre-built levels, no loading screens. The game builds itself around your actions.",
+        "3. The learning twist\n\nWhile rivals train on hand-crafted datasets, Muse watches humans play. It picks up strategies and quirks that no scripted AI ever could.",
+        "4. Cost slash\n\nImagine cutting your game dev budget by 50% or more. Routine assets, levels, even NPC behavior—Muse automates the expensive grunt work.",
+        "5. Don't get left behind\n\nOpen Muse's demo tonight. Take your studio's worst level and see if it rebuilds itself. If it doesn't, your competitor will."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Muse learns from humans, not scripts.",
+        "It builds worlds live as you play.",
+        "Rivals can't match its real-time insights.",
+        "Development costs could plummet instantly.",
+        "Try the demo today to stay ahead."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next game level could build itself while you play—Meta’s new Muse agent generates environments in real time, straight from how humans actually play. 🎮\n\nMuse learns from real player behavior, not scripted data, so it picks up strategies no coded AI could fake. That means auto-generated levels, NPCs, and assets without the manual grind.\n\nFor devs, routine production costs could drop by half or more. The demo is open now—run your worst level through it tonight and see if it rebuilds itself.\n\nWhat would you do with a 50% smaller dev budget? 💭"
+    }
+  },
+  "instagram_caption": "Your next game level could build itself while you play—Meta’s new Muse agent generates environments in real time, straight from how humans actually play. 🎮\n\nMuse learns from real player behavior, not scripted data, so it picks up strategies no coded AI could fake. That means auto-generated levels, NPCs, and assets without the manual grind.\n\nFor devs, routine production costs could drop by half or more. The demo is open now—run your worst level through it tonight and see if it rebuilds itself.\n\nWhat would you do with a 50% smaller dev budget? 💭",
+  "carousel_slides": [
+    {
+      "hook": "What if AI learned from watching you?",
+      "description": "Meta's Muse learns from real human gameplay, not simulated data, giving it a fundamental edge over rivals. That could close the AI gap.",
+      "visual_hint": "Meta logo with digital grid",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Meta headquarters"
+    },
+    {
+      "hook": "Game worlds that build themselves.",
+      "description": "Muse generates environments in real time as you play. No pre-built levels, no loading screens—the game adapts to your every move.",
+      "visual_hint": "Dynamic landscape forming from particles",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network abstract",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rivals use scripts, Muse uses humans",
+      "description": "While competitors train on hand-crafted datasets, Muse observes human players, learning strategies and quirks that scripted AI cannot replicate.",
+      "visual_hint": "Human silhouette with data streams",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control room monitors",
+      "image": "https://images.pexels.com/photos/7087623/pexels-photo-7087623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Cut dev costs by half?",
+      "description": "Muse automates routine assets, levels, and NPC behavior—the expensive grunt work—potentially slashing your game development budget by 50% or more.",
+      "visual_hint": "Coins dropping from a game controller",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "video game controller",
+      "image": "https://images.pexels.com/photos/11382204/pexels-photo-11382204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this or fall behind.",
+      "description": "Try Muse's demo tonight. Give it your worst level and watch it rebuild. If you don't, your competitor will.",
+      "visual_hint": "Cursor clicking a glowing 'Try Now' button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "game development studio",
+      "image": "https://images.pexels.com/photos/17112939/pexels-photo-17112939.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-08T22:12:30.835Z",
+  "sourceId": "f903c700664042a32c3de99fc89a735c"
+}

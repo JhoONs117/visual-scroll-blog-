@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nuclear-startup-bluecore-energy-raises-50m-seed-ro",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+  "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+  "pubDate": "Tue, 08 Sep 2026 14:10:17 +0000",
+  "slides": [
+    "Two months after launch, Bluecore Energy has $50M. Why?",
+    "The seed round values the startup at over $250M.",
+    "Founders previously led a fusion project that quietly failed.",
+    "Investors bet on their new compact fission design instead.",
+    "Watch for their first criticality test within eighteen months."
+  ],
+  "thread_text": [
+    "1. $50M After Two Months\n\nBluecore Energy secured the cash just weeks after launch, but their founders' last venture ended in a quiet failure.",
+    "2. A $250M Bet on a New Idea\n\nInvestors are backing a shift to compact fission, a design that’s fundamentally different from the fusion project they once led.",
+    "3. The Silent Collapse of Fusion Dreams\n\nTheir previous fusion effort folded without public noise, raising questions about what went wrong and what lessons were carried over.",
+    "4. The Real Test: A Criticality Milestone\n\nWatch for their first criticality test within eighteen months—a make-or-break moment that will prove if the compact design holds up.",
+    "5. Will You Track This Startup?\n\nIf you’re in clean energy, set a reminder to check their regulatory filings next quarter. Are you betting on this team or waiting for proof?"
+  ],
+  "video_script": [
+    "Bluecore Energy raised fifty million dollars.",
+    "Valuation over two-fifty million.",
+    "Their fusion project failed quietly.",
+    "Now they're building compact fission.",
+    "Criticality test due in eighteen months."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $50M After Two Months\n\nBluecore Energy secured the cash just weeks after launch, but their founders' last venture ended in a quiet failure.",
+        "2. A $250M Bet on a New Idea\n\nInvestors are backing a shift to compact fission, a design that’s fundamentally different from the fusion project they once led.",
+        "3. The Silent Collapse of Fusion Dreams\n\nTheir previous fusion effort folded without public noise, raising questions about what went wrong and what lessons were carried over.",
+        "4. The Real Test: A Criticality Milestone\n\nWatch for their first criticality test within eighteen months—a make-or-break moment that will prove if the compact design holds up.",
+        "5. Will You Track This Startup?\n\nIf you’re in clean energy, set a reminder to check their regulatory filings next quarter. Are you betting on this team or waiting for proof?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Bluecore Energy raised fifty million dollars.",
+        "Valuation over two-fifty million.",
+        "Their fusion project failed quietly.",
+        "Now they're building compact fission.",
+        "Criticality test due in eighteen months."
+      ]
+    },
+    "instagram": {
+      "caption": "A nuclear startup just raised $50M only two months after launching — before proving its reactor even works. 💸\n\nThe founders' previous fusion project collapsed quietly, and investors are now betting on their pivot to compact fission instead. The startup is already valued above $250M, with the first criticality test expected within eighteen months. That test will determine if this design is real or another dead end.\n\nFor anyone covering energy or deep tech, the story isn't the funding — it's whether a team that failed once can deliver this time. Track their regulatory filings next quarter. 🔍\n\nWill you wait for the test results before paying attention, or is the early money telling you something?"
+    }
+  },
+  "instagram_caption": "A nuclear startup just raised $50M only two months after launching — before proving its reactor even works. 💸\n\nThe founders' previous fusion project collapsed quietly, and investors are now betting on their pivot to compact fission instead. The startup is already valued above $250M, with the first criticality test expected within eighteen months. That test will determine if this design is real or another dead end.\n\nFor anyone covering energy or deep tech, the story isn't the funding — it's whether a team that failed once can deliver this time. Track their regulatory filings next quarter. 🔍\n\nWill you wait for the test results before paying attention, or is the early money telling you something?",
+  "carousel_slides": [
+    {
+      "hook": "Failed fusion project. $50M raise. Why?",
+      "description": "Bluecore Energy secured $50M just two months after launch. Their founders' previous fusion venture ended silently, raising questions about what's different now.",
+      "visual_hint": "Hand gripping a metal rod",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "nuclear reactor core"
+    },
+    {
+      "hook": "Valuation hits $250M in weeks",
+      "description": "The seed round values Bluecore at over $250M. Investors are betting on a compact fission design, a strategic pivot from fusion.",
+      "visual_hint": "Vertical line graph going up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The fusion dream that collapsed",
+      "description": "Their previous fusion project failed quietly — no public noise, just silence. Now the question is: what lessons were truly carried over?",
+      "visual_hint": "Close-up of a broken wire",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "broken industrial equipment",
+      "image": "https://images.pexels.com/photos/6367680/pexels-photo-6367680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Criticality test: the real proof",
+      "description": "Expect a first criticality test within eighteen months. A make-or-break moment that will reveal if the compact design actually works.",
+      "visual_hint": "Hand adjusting a control dial",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "control room switches",
+      "image": "https://images.pexels.com/photos/39332196/pexels-photo-39332196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — or wait for proof",
+      "description": "Check their regulatory filings next quarter to track progress. Decide now if you're backing the team or holding out for evidence.",
+      "visual_hint": "Document with a stamp reading 'CONFIDENTIAL'",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "government filings document",
+      "image": "https://images.pexels.com/photos/7821927/pexels-photo-7821927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
+  "savedAt": "2026-09-08T22:12:20.427Z",
+  "sourceId": "cfa74d9f25f5fbac2ca0ab69f8f27777"
+}
