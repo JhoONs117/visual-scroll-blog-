@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "sequoia-doubles-down-on-cymphony-as-ai-agents-crea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+  "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+  "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+  "slides": [
+    "Sequoia doubles down—yet Cymphony's fix remains unproven.",
+    "AI agents now bypass traditional enterprise security controls.",
+    "Insider threats multiply when agents act autonomously.",
+    "Your current defenses miss agent-to-agent data leaks.",
+    "Audit every AI agent's permissions before your next breach."
+  ],
+  "thread_text": [
+    "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+    "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+    "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+    "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+    "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+  ],
+  "video_script": [
+    "Sequoia bets big, but the fix is unproven.",
+    "AI agents slip past traditional security controls.",
+    "Autonomous agents turn insiders into multiplied threats.",
+    "Agent-to-agent data leaks bypass your current defenses.",
+    "Audit every agent's permissions before breach."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+        "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+        "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+        "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+        "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sequoia bets big, but the fix is unproven.",
+        "AI agents slip past traditional security controls.",
+        "Autonomous agents turn insiders into multiplied threats.",
+        "Agent-to-agent data leaks bypass your current defenses.",
+        "Audit every agent's permissions before breach."
+      ]
+    },
+    "instagram": {
+      "caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️"
+    }
+  },
+  "instagram_caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️",
+  "carousel_slides": [
+    {
+      "hook": "Is your next breach an AI agent?",
+      "description": "Sequoia backs Cymphony at $2B, but its fix remains unproven. Insider threats multiply when agents act autonomously—your current defenses are already obsolete.",
+      "visual_hint": "Cyber security alert dashboard",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Firewalls can't stop AI agents",
+      "description": "They log in as users and move laterally. Your SIEM sees normal activity, not an attack—silent compromise is the new norm.",
+      "visual_hint": "User login access screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer network",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your insiders are robots now",
+      "description": "A single compromised agent can silently access files and act alone. You won't know until the damage is done.",
+      "visual_hint": "Robot hand touching files",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot arm",
+      "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agent-to-agent data leaks",
+      "description": "Your DLP misses when one AI app sends data to another—it looks like a routine API call. Silent bleeding continues unnoticed.",
+      "visual_hint": "Two servers exchanging data",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this—audit agent permissions now",
+      "description": "Log into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach.",
+      "visual_hint": "Admin console permission list",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/cymphony-founders.jpg?resize=1200,800",
+  "savedAt": "2026-09-09T14:03:21.698Z",
+  "sourceId": "12dcfd350bafdd42017d50f189eb9beb"
+}

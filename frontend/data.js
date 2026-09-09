@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "suno-replaces-its-ai-models-with-a-new-one-trained",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "pubDate": "Wed, 09 Sep 2026 12:05:34 +0000",
+    "slides": [
+      "Can Suno escape the copyright courtroom?",
+      "Its new AI trains only on licensed tracks.",
+      "Previous models learned from unlicensed music catalogs.",
+      "This shift aims to silence record label lawsuits.",
+      "Watch court ruling: it dictates AI music's future."
+    ],
+    "thread_text": [
+      "1. Can Suno dodge the ruling?\n\nIts new AI trains only on licensed tracks, a direct response to lawsuits from Universal, Warner, and Sony over earlier models using unlicensed music.",
+      "2. The legal pivot\n\nPrevious models learned from unlicensed catalogs, exposing Suno to billions in damages. This shift is a strategic retreat, not a moral epiphany.",
+      "3. The twist in the courtroom\n\nRecord labels argue the licensed-data switch proves prior infringement was intentional. Suno's defense now hinges on whether new training erases old liability.",
+      "4. The industry stakes\n\nIf Suno wins, AI music can innovate freely. If labels win, every AI music tool must license data upfront—reshaping how all generative audio is built.",
+      "5. What will you do?\n\nBefore the ruling lands, test Suno's licensed model against its old outputs. If you hear a quality drop, ask: is legal safety worth creative limits?"
+    ],
+    "video_script": [
+      "Suno now trains only on licensed tracks.",
+      "Previous models used unlicensed music catalogs.",
+      "This shift aims to silence label lawsuits.",
+      "The court ruling will decide AI music's future.",
+      "Will creative freedom survive legal scrutiny?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Suno dodge the ruling?\n\nIts new AI trains only on licensed tracks, a direct response to lawsuits from Universal, Warner, and Sony over earlier models using unlicensed music.",
+          "2. The legal pivot\n\nPrevious models learned from unlicensed catalogs, exposing Suno to billions in damages. This shift is a strategic retreat, not a moral epiphany.",
+          "3. The twist in the courtroom\n\nRecord labels argue the licensed-data switch proves prior infringement was intentional. Suno's defense now hinges on whether new training erases old liability.",
+          "4. The industry stakes\n\nIf Suno wins, AI music can innovate freely. If labels win, every AI music tool must license data upfront—reshaping how all generative audio is built.",
+          "5. What will you do?\n\nBefore the ruling lands, test Suno's licensed model against its old outputs. If you hear a quality drop, ask: is legal safety worth creative limits?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Suno now trains only on licensed tracks.",
+          "Previous models used unlicensed music catalogs.",
+          "This shift aims to silence label lawsuits.",
+          "The court ruling will decide AI music's future.",
+          "Will creative freedom survive legal scrutiny?"
+        ]
+      },
+      "instagram": {
+        "caption": "Suno just swapped its AI models for one trained only on licensed music, right as Universal, Warner, and Sony push lawsuits over the old unlicensed training data.\n\nThat legal pressure forced the pivot—but labels are spinning it as proof Suno knew prior copying was wrong. The judge’s call will decide if that strategic retreat wipes out billions in damages or backfires. 🎵\n\nFor anyone making tracks with AI, the stakes are blunt: if labels win, every tool must license its dataset upfront—slower, costlier, less experimental. If Suno wins, the door stays open for freer generation. ⚖️\n\nTry the new model against your old favorite outputs. Hear a drop in quality? Would you trade that for staying on the right side of the law? 🤔"
+      }
+    },
+    "instagram_caption": "Suno just swapped its AI models for one trained only on licensed music, right as Universal, Warner, and Sony push lawsuits over the old unlicensed training data.\n\nThat legal pressure forced the pivot—but labels are spinning it as proof Suno knew prior copying was wrong. The judge’s call will decide if that strategic retreat wipes out billions in damages or backfires. 🎵\n\nFor anyone making tracks with AI, the stakes are blunt: if labels win, every tool must license its dataset upfront—slower, costlier, less experimental. If Suno wins, the door stays open for freer generation. ⚖️\n\nTry the new model against your old favorite outputs. Hear a drop in quality? Would you trade that for staying on the right side of the law? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Did Suno admit guilt?",
+        "description": "Switching to licensed tracks may prove labels right: prior infringement was intentional. New training doesn't erase old liability.",
+        "visual_hint": "Gavel striking block",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "courtroom gavel"
+      },
+      {
+        "hook": "Strategic retreat, not ethics",
+        "description": "Previous models used unlicensed catalogs, exposing Suno to billions in damages. This pivot is survival, not morality.",
+        "visual_hint": "Music notes shifting to legal papers",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "audio waveform",
+        "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Labels see a smoking gun",
+        "description": "Record labels argue the licensed switch proves earlier training was willful. Suno's defense now hinges on legal technicalities.",
+        "visual_hint": "Magnifying glass over contracts",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "legal contracts",
+        "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI music's fork in the road",
+        "description": "If Suno wins, innovation thrives. If labels win, every AI tool licenses upfront—reshaping generative audio forever.",
+        "visual_hint": "Two diverging paths in court",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "fork road",
+        "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before the ruling",
+        "description": "Test Suno's licensed model against old outputs. If quality drops, ask: is legal safety worth creative limits?",
+        "visual_hint": "Finger tapping save icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T14:03:34.167Z",
+    "sourceId": "04755a5637fde299d12846061611fa9b"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "sequoia-doubles-down-on-cymphony-as-ai-agents-crea",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+    "slides": [
+      "Sequoia doubles down—yet Cymphony's fix remains unproven.",
+      "AI agents now bypass traditional enterprise security controls.",
+      "Insider threats multiply when agents act autonomously.",
+      "Your current defenses miss agent-to-agent data leaks.",
+      "Audit every AI agent's permissions before your next breach."
+    ],
+    "thread_text": [
+      "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+      "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+      "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+      "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+      "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+    ],
+    "video_script": [
+      "Sequoia bets big, but the fix is unproven.",
+      "AI agents slip past traditional security controls.",
+      "Autonomous agents turn insiders into multiplied threats.",
+      "Agent-to-agent data leaks bypass your current defenses.",
+      "Audit every agent's permissions before breach."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+          "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+          "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+          "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+          "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Sequoia bets big, but the fix is unproven.",
+          "AI agents slip past traditional security controls.",
+          "Autonomous agents turn insiders into multiplied threats.",
+          "Agent-to-agent data leaks bypass your current defenses.",
+          "Audit every agent's permissions before breach."
+        ]
+      },
+      "instagram": {
+        "caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️"
+      }
+    },
+    "instagram_caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️",
+    "carousel_slides": [
+      {
+        "hook": "Is your next breach an AI agent?",
+        "description": "Sequoia backs Cymphony at $2B, but its fix remains unproven. Insider threats multiply when agents act autonomously—your current defenses are already obsolete.",
+        "visual_hint": "Cyber security alert dashboard",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Firewalls can't stop AI agents",
+        "description": "They log in as users and move laterally. Your SIEM sees normal activity, not an attack—silent compromise is the new norm.",
+        "visual_hint": "User login access screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer network",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your insiders are robots now",
+        "description": "A single compromised agent can silently access files and act alone. You won't know until the damage is done.",
+        "visual_hint": "Robot hand touching files",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot arm",
+        "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Agent-to-agent data leaks",
+        "description": "Your DLP misses when one AI app sends data to another—it looks like a routine API call. Silent bleeding continues unnoticed.",
+        "visual_hint": "Two servers exchanging data",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this—audit agent permissions now",
+        "description": "Log into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach.",
+        "visual_hint": "Admin console permission list",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "laptop screen",
+        "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/cymphony-founders.jpg?resize=1200,800",
+    "savedAt": "2026-09-09T14:03:21.698Z",
+    "sourceId": "12dcfd350bafdd42017d50f189eb9beb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "samsung-taps-mistral-ai-models-for-semiconductor-m",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+    "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+    "pubDate": "Wed, 09 Sep 2026 08:52:19 +0000",
+    "slides": [
+      "Samsung bets on Mistral AI—can it fix chip yields?",
+      "Mistral's models now assist Samsung's semiconductor production.",
+      "The twist: these AI models run on EUV tools, not clouds.",
+      "Engineers get real-time defect analysis without human review.",
+      "Your next chip may hide which model actually printed it."
+    ],
+    "thread_text": [
+      "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+      "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+      "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+      "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+      "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+    ],
+    "video_script": [
+      "Samsung bets on Mistral AI for chips.",
+      "Models run on EUV tools, not cloud.",
+      "Real-time defect review without humans.",
+      "Could this fix Samsung's chip yields?",
+      "Next chip may hide which model printed it."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+          "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+          "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+          "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+          "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Samsung bets on Mistral AI for chips.",
+          "Models run on EUV tools, not cloud.",
+          "Real-time defect review without humans.",
+          "Could this fix Samsung's chip yields?",
+          "Next chip may hide which model printed it."
+        ]
+      },
+      "instagram": {
+        "caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾"
+      }
+    },
+    "instagram_caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾",
+    "carousel_slides": [
+      {
+        "hook": "Who's really printing your chip?",
+        "description": "Samsung installed Mistral's AI on EUV scanners. The machines that etch your phone's brain now run models locally, not in the cloud.",
+        "visual_hint": "EUV scanner machine in fab",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "EUV lithography machine"
+      },
+      {
+        "hook": "No human needed for defect checks",
+        "description": "Mistral's AI spots flaws in real time, a task that once took engineers hours. Faster detection could boost Samsung's lagging yields.",
+        "visual_hint": "AI analyzing chip defect image",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "semiconductor chip macro",
+        "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI runs on the tool, not the cloud",
+        "description": "Mistral's models operate locally inside the scanner, so data never leaves the fab. This is a twist on typical cloud-based AI.",
+        "visual_hint": "Scanner with local AI module",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can this AI fix Samsung's yields?",
+        "description": "Samsung's chip yields have lagged rivals. This AI could be the fix—or a risky bet that doesn't pan out.",
+        "visual_hint": "Engineer reviewing yield chart",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "factory engineer tablet",
+        "image": "https://images.pexels.com/photos/4480983/pexels-photo-4480983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next phone purchase",
+        "description": "Ask your next phone's maker: was it printed by an AI? Comment your take or visit the link in bio for deeper analysis.",
+        "visual_hint": "Smartphone with chip close-up",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone circuit board",
+        "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T14:03:09.363Z",
+    "sourceId": "16e366b20d99121c445fec9cd16a0c21"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "cloudnc-aims-to-accelerate-ai-supply-chain-machini",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "CloudNC aims to accelerate AI supply chain machining",
+    "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+    "pubDate": "Wed, 09 Sep 2026 10:34:20 +0000",
+    "slides": [
+      "Can CloudNC truly make AI-driven machining supply chains faster?",
+      "Most CNC machines still rely on manual programming and setup.",
+      "CloudNC's autonomous software cuts programming time from hours to minutes.",
+      "This shifts your lead times and costs, not just machine efficiency.",
+      "Audit one part's programming time to see the real gap."
+    ],
+    "thread_text": [
+      "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+      "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+      "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+      "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+      "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+    ],
+    "video_script": [
+      "CNC programming still takes hours.",
+      "CloudNC's software turns that into minutes.",
+      "Lead times and costs shrink dramatically.",
+      "Most shops ignore this bottleneck.",
+      "Audit one part to see the difference."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+          "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+          "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+          "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+          "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "CNC programming still takes hours.",
+          "CloudNC's software turns that into minutes.",
+          "Lead times and costs shrink dramatically.",
+          "Most shops ignore this bottleneck.",
+          "Audit one part to see the difference."
+        ]
+      },
+      "instagram": {
+        "caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧"
+      }
+    },
+    "instagram_caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧",
+    "carousel_slides": [
+      {
+        "hook": "Programming takes hours. It shouldn't.",
+        "description": "Most CNC shops still program parts manually, a step that can delay production more than machining itself. Hours lost per part add up fast.",
+        "visual_hint": "CNC machine idle, waiting",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "CNC machine workshop"
+      },
+      {
+        "hook": "Autonomous software: hours to minutes.",
+        "description": "CloudNC's software cuts programming time drastically. But you must adopt it and rework workflows to see the gain.",
+        "visual_hint": "Clock morphing into fast forward",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer software code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Shorter lead times, better quotes.",
+        "description": "Cutting programming time shortens lead times and reduces costs. Your quoting becomes more competitive instantly.",
+        "visual_hint": "Shrinking timeline graph",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory production line",
+        "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Faster programming boosts pricing power.",
+        "description": "You take on more jobs, deliver quicker, and shift pricing strategy. Beat slower rivals with sharper bids.",
+        "visual_hint": "Upward arrow overtaking rivals",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "supply chain logistics",
+        "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: audit one part's time.",
+        "description": "Check one part's programming time this week. If over an hour, CloudNC's software is worth a trial run.",
+        "visual_hint": "Stopwatch over part blueprint",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "stopwatch engineering drawings",
+        "image": "https://images.pexels.com/photos/5324972/pexels-photo-5324972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T14:02:56.361Z",
+    "sourceId": "05461b739ef1c381a700a0c4b6d564a1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "cloudnc-raises-20m-to-automate-manufacturing-s-mos",
     "prompt_version": "1.0.0",
     "status": "published",

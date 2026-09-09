@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "suno-replaces-its-ai-models-with-a-new-one-trained",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "pubDate": "Wed, 09 Sep 2026 12:05:34 +0000",
+      "slides": [
+        "Can Suno escape the copyright courtroom?",
+        "Its new AI trains only on licensed tracks.",
+        "Previous models learned from unlicensed music catalogs.",
+        "This shift aims to silence record label lawsuits.",
+        "Watch court ruling: it dictates AI music's future."
+      ],
+      "thread_text": [
+        "1. Can Suno dodge the ruling?\n\nIts new AI trains only on licensed tracks, a direct response to lawsuits from Universal, Warner, and Sony over earlier models using unlicensed music.",
+        "2. The legal pivot\n\nPrevious models learned from unlicensed catalogs, exposing Suno to billions in damages. This shift is a strategic retreat, not a moral epiphany.",
+        "3. The twist in the courtroom\n\nRecord labels argue the licensed-data switch proves prior infringement was intentional. Suno's defense now hinges on whether new training erases old liability.",
+        "4. The industry stakes\n\nIf Suno wins, AI music can innovate freely. If labels win, every AI music tool must license data upfront—reshaping how all generative audio is built.",
+        "5. What will you do?\n\nBefore the ruling lands, test Suno's licensed model against its old outputs. If you hear a quality drop, ask: is legal safety worth creative limits?"
+      ],
+      "video_script": [
+        "Suno now trains only on licensed tracks.",
+        "Previous models used unlicensed music catalogs.",
+        "This shift aims to silence label lawsuits.",
+        "The court ruling will decide AI music's future.",
+        "Will creative freedom survive legal scrutiny?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Suno dodge the ruling?\n\nIts new AI trains only on licensed tracks, a direct response to lawsuits from Universal, Warner, and Sony over earlier models using unlicensed music.",
+            "2. The legal pivot\n\nPrevious models learned from unlicensed catalogs, exposing Suno to billions in damages. This shift is a strategic retreat, not a moral epiphany.",
+            "3. The twist in the courtroom\n\nRecord labels argue the licensed-data switch proves prior infringement was intentional. Suno's defense now hinges on whether new training erases old liability.",
+            "4. The industry stakes\n\nIf Suno wins, AI music can innovate freely. If labels win, every AI music tool must license data upfront—reshaping how all generative audio is built.",
+            "5. What will you do?\n\nBefore the ruling lands, test Suno's licensed model against its old outputs. If you hear a quality drop, ask: is legal safety worth creative limits?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Suno now trains only on licensed tracks.",
+            "Previous models used unlicensed music catalogs.",
+            "This shift aims to silence label lawsuits.",
+            "The court ruling will decide AI music's future.",
+            "Will creative freedom survive legal scrutiny?"
+          ]
+        },
+        "instagram": {
+          "caption": "Suno just swapped its AI models for one trained only on licensed music, right as Universal, Warner, and Sony push lawsuits over the old unlicensed training data.\n\nThat legal pressure forced the pivot—but labels are spinning it as proof Suno knew prior copying was wrong. The judge’s call will decide if that strategic retreat wipes out billions in damages or backfires. 🎵\n\nFor anyone making tracks with AI, the stakes are blunt: if labels win, every tool must license its dataset upfront—slower, costlier, less experimental. If Suno wins, the door stays open for freer generation. ⚖️\n\nTry the new model against your old favorite outputs. Hear a drop in quality? Would you trade that for staying on the right side of the law? 🤔"
+        }
+      },
+      "instagram_caption": "Suno just swapped its AI models for one trained only on licensed music, right as Universal, Warner, and Sony push lawsuits over the old unlicensed training data.\n\nThat legal pressure forced the pivot—but labels are spinning it as proof Suno knew prior copying was wrong. The judge’s call will decide if that strategic retreat wipes out billions in damages or backfires. 🎵\n\nFor anyone making tracks with AI, the stakes are blunt: if labels win, every tool must license its dataset upfront—slower, costlier, less experimental. If Suno wins, the door stays open for freer generation. ⚖️\n\nTry the new model against your old favorite outputs. Hear a drop in quality? Would you trade that for staying on the right side of the law? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Did Suno admit guilt?",
+          "description": "Switching to licensed tracks may prove labels right: prior infringement was intentional. New training doesn't erase old liability.",
+          "visual_hint": "Gavel striking block",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "Strategic retreat, not ethics",
+          "description": "Previous models used unlicensed catalogs, exposing Suno to billions in damages. This pivot is survival, not morality.",
+          "visual_hint": "Music notes shifting to legal papers",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "audio waveform",
+          "image": "https://images.pexels.com/photos/6892721/pexels-photo-6892721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Labels see a smoking gun",
+          "description": "Record labels argue the licensed switch proves earlier training was willful. Suno's defense now hinges on legal technicalities.",
+          "visual_hint": "Magnifying glass over contracts",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal contracts",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI music's fork in the road",
+          "description": "If Suno wins, innovation thrives. If labels win, every AI tool licenses upfront—reshaping generative audio forever.",
+          "visual_hint": "Two diverging paths in court",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fork road",
+          "image": "https://images.pexels.com/photos/10124559/pexels-photo-10124559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before the ruling",
+          "description": "Test Suno's licensed model against old outputs. If quality drops, ask: is legal safety worth creative limits?",
+          "visual_hint": "Finger tapping save icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-09T14:03:34.167Z",
+      "sourceId": "04755a5637fde299d12846061611fa9b"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "sequoia-doubles-down-on-cymphony-as-ai-agents-crea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+      "slides": [
+        "Sequoia doubles down—yet Cymphony's fix remains unproven.",
+        "AI agents now bypass traditional enterprise security controls.",
+        "Insider threats multiply when agents act autonomously.",
+        "Your current defenses miss agent-to-agent data leaks.",
+        "Audit every AI agent's permissions before your next breach."
+      ],
+      "thread_text": [
+        "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+        "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+        "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+        "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+        "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+      ],
+      "video_script": [
+        "Sequoia bets big, but the fix is unproven.",
+        "AI agents slip past traditional security controls.",
+        "Autonomous agents turn insiders into multiplied threats.",
+        "Agent-to-agent data leaks bypass your current defenses.",
+        "Audit every agent's permissions before breach."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Sequoia's bet: big risk?\n\nCymphony raised at a $2B valuation, yet its core fix is untested in real enterprise attacks.",
+            "2. Agents beat your firewall.\n\nThey log in as users and move laterally—your SIEM sees normal activity, not an attack.",
+            "3. Insiders? Now it's agents.\n\nOne compromised agent can silently access files, act on its own, and you won't know until it's too late.",
+            "4. Agent-to-agent leaks.\n\nYour DLP misses it when one AI app sends data to another. It looks like a routine API call.",
+            "5. Audit agent permissions today.\n\nLog into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sequoia bets big, but the fix is unproven.",
+            "AI agents slip past traditional security controls.",
+            "Autonomous agents turn insiders into multiplied threats.",
+            "Agent-to-agent data leaks bypass your current defenses.",
+            "Audit every agent's permissions before breach."
+          ]
+        },
+        "instagram": {
+          "caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️"
+        }
+      },
+      "instagram_caption": "Sequoia just poured another round into Cymphony at a $2B valuation—but their fix for AI security holes hasn’t been tested in a real attack.\n\nAI agents log in as your users, move sideways through your network, and your monitoring sees business as usual, not a breach. One compromised agent can quietly pull files on its own. Worse, agent-to-agent data sharing looks like a routine API call—your protections don’t even blink.\n\nIf you use AI tools, your access list is now your attack surface.\n\nOpen your AI admin console. List every agent’s permissions. If you see one you don’t recognize, that’s your leak—what are you waiting for? 🔐🕵️‍♂️",
+      "carousel_slides": [
+        {
+          "hook": "Is your next breach an AI agent?",
+          "description": "Sequoia backs Cymphony at $2B, but its fix remains unproven. Insider threats multiply when agents act autonomously—your current defenses are already obsolete.",
+          "visual_hint": "Cyber security alert dashboard",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Firewalls can't stop AI agents",
+          "description": "They log in as users and move laterally. Your SIEM sees normal activity, not an attack—silent compromise is the new norm.",
+          "visual_hint": "User login access screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer network",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your insiders are robots now",
+          "description": "A single compromised agent can silently access files and act alone. You won't know until the damage is done.",
+          "visual_hint": "Robot hand touching files",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "robot arm",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agent-to-agent data leaks",
+          "description": "Your DLP misses when one AI app sends data to another—it looks like a routine API call. Silent bleeding continues unnoticed.",
+          "visual_hint": "Two servers exchanging data",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this—audit agent permissions now",
+          "description": "Log into your AI admin console and list every agent's access. If you find one you don't recognize, that's your next breach.",
+          "visual_hint": "Admin console permission list",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/21391567/pexels-photo-21391567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/cymphony-founders.jpg?resize=1200,800",
+      "savedAt": "2026-09-09T14:03:21.698Z",
+      "sourceId": "12dcfd350bafdd42017d50f189eb9beb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "samsung-taps-mistral-ai-models-for-semiconductor-m",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "pubDate": "Wed, 09 Sep 2026 08:52:19 +0000",
+      "slides": [
+        "Samsung bets on Mistral AI—can it fix chip yields?",
+        "Mistral's models now assist Samsung's semiconductor production.",
+        "The twist: these AI models run on EUV tools, not clouds.",
+        "Engineers get real-time defect analysis without human review.",
+        "Your next chip may hide which model actually printed it."
+      ],
+      "thread_text": [
+        "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+        "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+        "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+        "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+        "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+      ],
+      "video_script": [
+        "Samsung bets on Mistral AI for chips.",
+        "Models run on EUV tools, not cloud.",
+        "Real-time defect review without humans.",
+        "Could this fix Samsung's chip yields?",
+        "Next chip may hide which model printed it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+            "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+            "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+            "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+            "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Samsung bets on Mistral AI for chips.",
+            "Models run on EUV tools, not cloud.",
+            "Real-time defect review without humans.",
+            "Could this fix Samsung's chip yields?",
+            "Next chip may hide which model printed it."
+          ]
+        },
+        "instagram": {
+          "caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾"
+        }
+      },
+      "instagram_caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾",
+      "carousel_slides": [
+        {
+          "hook": "Who's really printing your chip?",
+          "description": "Samsung installed Mistral's AI on EUV scanners. The machines that etch your phone's brain now run models locally, not in the cloud.",
+          "visual_hint": "EUV scanner machine in fab",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "EUV lithography machine"
+        },
+        {
+          "hook": "No human needed for defect checks",
+          "description": "Mistral's AI spots flaws in real time, a task that once took engineers hours. Faster detection could boost Samsung's lagging yields.",
+          "visual_hint": "AI analyzing chip defect image",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "semiconductor chip macro",
+          "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "AI runs on the tool, not the cloud",
+          "description": "Mistral's models operate locally inside the scanner, so data never leaves the fab. This is a twist on typical cloud-based AI.",
+          "visual_hint": "Scanner with local AI module",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Can this AI fix Samsung's yields?",
+          "description": "Samsung's chip yields have lagged rivals. This AI could be the fix—or a risky bet that doesn't pan out.",
+          "visual_hint": "Engineer reviewing yield chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "factory engineer tablet",
+          "image": "https://images.pexels.com/photos/4480983/pexels-photo-4480983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next phone purchase",
+          "description": "Ask your next phone's maker: was it printed by an AI? Comment your take or visit the link in bio for deeper analysis.",
+          "visual_hint": "Smartphone with chip close-up",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone circuit board",
+          "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-09T14:03:09.363Z",
+      "sourceId": "16e366b20d99121c445fec9cd16a0c21"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "cloudnc-aims-to-accelerate-ai-supply-chain-machini",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "pubDate": "Wed, 09 Sep 2026 10:34:20 +0000",
+      "slides": [
+        "Can CloudNC truly make AI-driven machining supply chains faster?",
+        "Most CNC machines still rely on manual programming and setup.",
+        "CloudNC's autonomous software cuts programming time from hours to minutes.",
+        "This shifts your lead times and costs, not just machine efficiency.",
+        "Audit one part's programming time to see the real gap."
+      ],
+      "thread_text": [
+        "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+        "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+        "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+        "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+        "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+      ],
+      "video_script": [
+        "CNC programming still takes hours.",
+        "CloudNC's software turns that into minutes.",
+        "Lead times and costs shrink dramatically.",
+        "Most shops ignore this bottleneck.",
+        "Audit one part to see the difference."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+            "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+            "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+            "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+            "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "CNC programming still takes hours.",
+            "CloudNC's software turns that into minutes.",
+            "Lead times and costs shrink dramatically.",
+            "Most shops ignore this bottleneck.",
+            "Audit one part to see the difference."
+          ]
+        },
+        "instagram": {
+          "caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧"
+        }
+      },
+      "instagram_caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧",
+      "carousel_slides": [
+        {
+          "hook": "Programming takes hours. It shouldn't.",
+          "description": "Most CNC shops still program parts manually, a step that can delay production more than machining itself. Hours lost per part add up fast.",
+          "visual_hint": "CNC machine idle, waiting",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "CNC machine workshop"
+        },
+        {
+          "hook": "Autonomous software: hours to minutes.",
+          "description": "CloudNC's software cuts programming time drastically. But you must adopt it and rework workflows to see the gain.",
+          "visual_hint": "Clock morphing into fast forward",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer software code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Shorter lead times, better quotes.",
+          "description": "Cutting programming time shortens lead times and reduces costs. Your quoting becomes more competitive instantly.",
+          "visual_hint": "Shrinking timeline graph",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory production line",
+          "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Faster programming boosts pricing power.",
+          "description": "You take on more jobs, deliver quicker, and shift pricing strategy. Beat slower rivals with sharper bids.",
+          "visual_hint": "Upward arrow overtaking rivals",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "supply chain logistics",
+          "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: audit one part's time.",
+          "description": "Check one part's programming time this week. If over an hour, CloudNC's software is worth a trial run.",
+          "visual_hint": "Stopwatch over part blueprint",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stopwatch engineering drawings",
+          "image": "https://images.pexels.com/photos/5324972/pexels-photo-5324972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-09T14:02:56.361Z",
+      "sourceId": "05461b739ef1c381a700a0c4b6d564a1"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "cloudnc-raises-20m-to-automate-manufacturing-s-mos",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -146962,6 +147378,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "insalata-di-cetrioli-all-orientale",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Insalata di cetrioli all'orientale",
+      "link": "https://ricette.giallozafferano.it/Insalata-di-cetrioli-all-orientale.html",
+      "pubDate": "Wed, 09 Sep 2026 09:39:00 +0200",
+      "content": "Insalata di cetrioli cinese: ricetta facile, croccante e piccante Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Insalate Insalata di cetrioli all'orientale /5 Ricetta proposta da Rosy Chin CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 138,1 Calorie per porzione Energia Kcal 138,1 Carboidrati g 13,1 &nbsp;&nbsp;di cui zuccheri g 5,4 Proteine g 3,4 Grassi g 8,9 &nbsp;&nbsp;di cui saturi g 1,3 Fibre g 1,6 Sodio mg 371 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Vegetariano Vegano Difficoltà: Facile Preparazione: 20 min Dosi per: 4 persone Costo: Basso Nota più il tempo di riposo dei cetrioli (15 minuti) Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Fresca, croccante e ricca di sfumature, l’ insalata di cetrioli all’orientale è un contorno dal gusto deciso, in cui sapidità, dolcezza, acidità e piccantezza si incontrano in modo equilibrato. Il sapore delicato dei cetrioli si arricchisce grazie a un condimento intenso, dove la salsa di soia e l’olio di sesamo tostato danno profondità e aromaticità, mentre la Chili Garlic Sauce aggiunge una piacevole nota piccante. A completare il tutto ci sono il coriandolo fresco e le arachidi tostate, per un contrasto di profumi e consistenze che rende questa insalata particolarmente sfiziosa. Preparate l’ insalata di cetrioli all’orientale come contorno di ispirazione asiatica, ideale quando cercate una ricetta fresca e veloce ma dal carattere deciso. Ecco altre ricette con i cetrioli da non perdere: Rotolini di cetrioli Insalata di cetrioli Barchette di cetrioli Crema di cetrioli e yogurt Scopri anche Insalata di cetrioli Insalata di patate e cetrioli Insalata greca Sfoglia tutte INGREDIENTI 138,1 Calorie per porzione Cetrioli lunghi, a buccia sottile 500 g Aglio 3 spicchi Aceto balsamico 25 g Salsa di soia chiara 10 g Zucchero 1 cucchiaino Sale fino 1 cucchiaino Olio di sesamo tostato 20 g Chili garlic sauce 30 g Coriandolo q.b. Arachidi salate tostate q.b. Semi di sesamo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare l'Insalata di cetrioli all'orientale Per preparare l'insalata di cetrioli all'orientale lavate accuratamente i cetrioli e rimuovete le estremità 1 . Adagiateli su un tagliere e, utilizzando il lato piatto di un coltello, schiacciateli con decisione 2 . Dovrete rompere leggermente la buccia e schiacciare la polpa 3 . Tagliate quindi i cetrioli schiacciati in pezzi di circa 3 cm 4 e trasferiteli in una ciotola. Aggiungete il sale 5 e lo zucchero 6 . Mescolate accuratamente 7 e lasciateli riposare per circa 15 minuti. Durante questo tempo perderanno parte dell'acqua di vegetazione e risulteranno più croccanti. Nel frattempo preparate il condimento. Sbucciate gli spicchi d'aglio e tritateli molto finemente 8 . Trasferiteli in una ciotola abbastanza capiente da contenere successivamente anche i cetrioli 9 . Unite l'aceto balsamico 10 , la salsa di soia chiara 11 , e la Chili Garlic Sauce 12 . Aggiungete anche l'olio di sesamo tostato 13 e mescolate bene fino a ottenere un condimento uniforme 14 . Trascorso il tempo di riposo, riprendete i cetrioli e scolateli per bene 15 . Tamponateli delicatamente con della carta assorbente, in modo da asciugarli senza schiacciarli ulteriormente 16 . Trasferite i cetrioli nella ciotola con il condimento 17 e mescolate. Quando sarà ben condita 18 potrete impiattare l'insalata di cetrioli 20 . Guarnite con le arachidi tostate salate 21 . Aggiungete i semi di sesamo 22 , il coriandolo tritato 23 e servite l'insalata di cetrioli all'orientale 24 . Conservazione Conservate l'insalata di cetrioli all'orientale in frigorifero, all'interno di un contenitore ben chiuso, e consumatela entro 2 giorni. Con il passare del tempo i cetrioli tenderanno a rilasciare altra acqua e a perdere parte della loro croccantezza. Si sconsiglia la congelazione. Consiglio Per ottenere la consistenza caratteristica di questa preparazione, non saltate il passaggio in cui schiacciate i cetrioli: le fratture nella polpa aumentano la superficie a contatto con la salsa e permettono al condimento di distribuirsi meglio. Consigliamo anche di asciugare bene i cetrioli. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Sesamo Zucchero Arachidi Aglio Coriandolo Cetriolo Scopri tutto sugli ingredienti Presente in: Contorni , Ricette veloci , Piatti freddi STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Benessere Insalata di cetrioli 4 4.4 Insalata di patate e cetrioli 29 4.3 Insalata greca 48 4.1 Benessere Insalata Shirazi 2 4.1 Benessere Insalata di ceci alla mediterranea 1 4.4 Benessere Insalata di ceci estiva 29 4.4 Insalata di manzo speziato e Grana Padano 4.7 Rotolini di cetrioli 47 3.9 ULTIME RICETTE Insalata di cetrioli all'orientale 5.0 Spaghetti al pomodoro con nodini 5.0 Gelato al pistacchio salato senza gelatiera 5.0 SCOPRI Insalata di cetrioli Insalata di pomodori Salsa yogurt greco Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Benessere Insalate Insalata di cetrioli 4 4.4 L'insalata di cetrioli è un contorno fresco e leggero condito con un cremoso dressing allo yogurt, perfetto da gustare durante i mesi estivi! Vai alla ricetta Insalate Insalata di patate e cetrioli 29 4.3 L'insalata di patate e cetrioli è un contorno facile e veloce da preparare; un piatto che può essere preparato anche in anticipo! Vai alla ricetta Insalate Insalata greca 48 4.1 L'insalata greca è un tradizionale piatto estivo a base di pomodori, cetrioli, cipolla, feta e olive. Scopri come si prepara la ricetta originale! Vai alla ricetta Benessere Insalate Insalata Shirazi 2 4.1 L'insalata Shirazi (Persian Shirazi salad) si prepara con pomodori, cetrioli, cipolle e prezzemolo. Scopri la ricetta del fresco contorno estivo! Vai alla ricetta Benessere Insalate Insalata di ceci alla mediterranea 1 4.4 Prepara un'insalata di ceci alla mediterranea con pomodorini, cetrioli, cipolla rossa, olive taggiasche e basilico. Ricetta facile, sana e gustosa. Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Insalata di cetrioli croccante e piccante",
+        "Cetrioli, aglio, salsa di soia, chili garlic",
+        "Schiaccia i cetrioli con il coltello",
+        "Condisci con salsa, olio e aceto",
+        "Arachidi, sesamo e coriandolo: completa"
+      ],
+      "instagram_caption": "Questa insalata è una droga, nel senso buono. Croccante, piccante, freschissima: i cetrioli schiacciati assorbono tutto il condimento e diventano una bomba di sapore. \n\nBasta un colpo di coltello, poi si condiscono con aglio, salsa di soia e chili garlic. Il tocco finale? Arachidi tostate, sesamo e coriandolo fresco: il contrasto è pazzesco. Si prepara in 10 minuti, ma sembra uscita da un ristorante asiatico. \n\nProvala stasera, non ne uscirai più. 🥒🔥",
+      "formats": {
+        "instagram": {
+          "caption": "Questa insalata è una droga, nel senso buono. Croccante, piccante, freschissima: i cetrioli schiacciati assorbono tutto il condimento e diventano una bomba di sapore. \n\nBasta un colpo di coltello, poi si condiscono con aglio, salsa di soia e chili garlic. Il tocco finale? Arachidi tostate, sesamo e coriandolo fresco: il contrasto è pazzesco. Si prepara in 10 minuti, ma sembra uscita da un ristorante asiatico. \n\nProvala stasera, non ne uscirai più. 🥒🔥"
+        },
+        "tiktok": {
+          "script": [
+            "Prendo i cetrioli e li schiaccio forte",
+            "Aglio tritato e chili garlic sopra",
+            "Salsa di soia, olio e aceto dentro",
+            "Arachidi e sesamo per il crunch",
+            "Coriandolo fresco, ecco l'insalata perfetta"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Chi l'ha detto che l'insalata deve essere noiosa? 😏 Questa qui è croccante, piccante e ti sveglia il palato come un caffè doppio. Cetrioli? Sì, ma come non li hai mai mangiati. 🥒",
+            "Parti da cetrioli belli sodi. Il gesto che fa la differenza? Schiacciarli col coltello: così si spaccano in modo irregolare, catturano il condimento e restano croccanti. Aglio, salsa di soia, chili garlic: il trio che spacca.",
+            "Condisci con un filo d'olio, un goccio di aceto (di riso se ce l'hai, ma va bene anche quello di vino). Lascia riposare 5 minuti: il cetriolo deve assorbire, non annegare. E ora viene il bello.",
+            "Arachidi tostate che fanno crack, sesamo che si attacca a tutto, coriandolo fresco che rinfresca il piccante. È il contrasto che ti fa venire il secondo giro di piatto. Lo so, non resisti. 😅",
+            "Provala stasera, fidati. E se il coriandolo non ti piace, sostituiscilo con menta o basilico cinese, ma non saltarlo: è quello che chiude il cerchio. Dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Prendo i cetrioli e li schiaccio forte",
+        "Aglio tritato e chili garlic sopra",
+        "Salsa di soia, olio e aceto dentro",
+        "Arachidi e sesamo per il crunch",
+        "Coriandolo fresco, ecco l'insalata perfetta"
+      ],
+      "thread_text": [
+        "Chi l'ha detto che l'insalata deve essere noiosa? 😏 Questa qui è croccante, piccante e ti sveglia il palato come un caffè doppio. Cetrioli? Sì, ma come non li hai mai mangiati. 🥒",
+        "Parti da cetrioli belli sodi. Il gesto che fa la differenza? Schiacciarli col coltello: così si spaccano in modo irregolare, catturano il condimento e restano croccanti. Aglio, salsa di soia, chili garlic: il trio che spacca.",
+        "Condisci con un filo d'olio, un goccio di aceto (di riso se ce l'hai, ma va bene anche quello di vino). Lascia riposare 5 minuti: il cetriolo deve assorbire, non annegare. E ora viene il bello.",
+        "Arachidi tostate che fanno crack, sesamo che si attacca a tutto, coriandolo fresco che rinfresca il piccante. È il contrasto che ti fa venire il secondo giro di piatto. Lo so, non resisti. 😅",
+        "Provala stasera, fidati. E se il coriandolo non ti piace, sostituiscilo con menta o basilico cinese, ma non saltarlo: è quello che chiude il cerchio. Dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Insalata di cetrioli croccante e piccante",
+          "description": "Un contorno fresco e saporito, croccante al morso con un tocco piccante orientale.",
+          "visual_hint": "ciotola di cetrioli conditi",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "cucumber salad savory"
+        },
+        {
+          "hook": "Ingredienti semplici, gusto intenso",
+          "description": "Cetrioli freschi, aglio, salsa di soia e chili garlic: pochi elementi per un sapore deciso.",
+          "visual_hint": "ingredienti su tagliere",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "fresh ingredients bowl savory",
+          "image": "https://images.pexels.com/photos/19435765/pexels-photo-19435765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Schiaccia i cetrioli con il coltello",
+          "description": "Colpire i cetrioli li rende irregolari, assorbono meglio il condimento e restano croccanti.",
+          "visual_hint": "mano che schiaccia cetriolo",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "crushing cucumber knife",
+          "image": "https://images.pexels.com/photos/8286781/pexels-photo-8286781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Condisci per un mix perfetto",
+          "description": "Versa salsa di soia, olio e aceto: l'aglio si sprigiona e avvolge ogni pezzo di cetriolo.",
+          "visual_hint": "condimento che scorre",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "dressing cucumber salad savory",
+          "image": "https://images.pexels.com/photos/39440900/pexels-photo-39440900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Arachidi, sesamo e coriandolo",
+          "description": "Completa con la granella croccante e le erbe fresche: ogni boccone è una sorpresa.",
+          "visual_hint": "piatto finito guarnito",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "garnished cucumber salad savory",
+          "image": "https://images.pexels.com/photos/29578907/pexels-photo-29578907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "salad",
+      "signature_ingredients": [
+        "cetrioli",
+        "salsa di soia",
+        "chili garlic"
+      ],
+      "image": "https://www.giallozafferano.it/images/365-36597/Insalata-di-cetrioli-all-orientale_650x433_wm.jpg",
+      "savedAt": "2026-09-09T14:07:15.490Z",
+      "sourceId": "97ccf92d7b79ed18d5385ec6dc24dfbe"
+    },
     {
       "schema_version": 2,
       "agent": "food",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "samsung-taps-mistral-ai-models-for-semiconductor-m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+  "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+  "pubDate": "Wed, 09 Sep 2026 08:52:19 +0000",
+  "slides": [
+    "Samsung bets on Mistral AI—can it fix chip yields?",
+    "Mistral's models now assist Samsung's semiconductor production.",
+    "The twist: these AI models run on EUV tools, not clouds.",
+    "Engineers get real-time defect analysis without human review.",
+    "Your next chip may hide which model actually printed it."
+  ],
+  "thread_text": [
+    "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+    "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+    "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+    "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+    "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+  ],
+  "video_script": [
+    "Samsung bets on Mistral AI for chips.",
+    "Models run on EUV tools, not cloud.",
+    "Real-time defect review without humans.",
+    "Could this fix Samsung's chip yields?",
+    "Next chip may hide which model printed it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who's really printing your chip?\n\nSamsung just put Mistral's AI on EUV scanners — the machines that etch your phone's brain.",
+        "2. Defect review without a human\n\nThe AI spots flaws in real time on EUV tools, a task that once took engineers hours.",
+        "3. The twist: on the tool, not the cloud\n\nMistral's models run locally inside the scanner — data never leaves the fab.",
+        "4. The yield gamble\n\nSamsung's chip yields have lagged rivals. This AI could be the fix — or a risky bet.",
+        "5. Ask your next phone\n\nAsk your next phone chip's maker: was it designed or printed by an AI? Does it matter?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Samsung bets on Mistral AI for chips.",
+        "Models run on EUV tools, not cloud.",
+        "Real-time defect review without humans.",
+        "Could this fix Samsung's chip yields?",
+        "Next chip may hide which model printed it."
+      ]
+    },
+    "instagram": {
+      "caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾"
+    }
+  },
+  "instagram_caption": "The machine that prints your phone’s brain now watches its own mistakes—no human needed.  \n\nSamsung just plugged Mistral’s AI directly into its EUV scanners, the tools that etch chips. The AI spots defects in real time, on the machine itself, not in some distant cloud. Engineers skip hours of manual review.  \n\nThis is a bet on fixing Samsung’s lagging chip yields—fewer wasted wafers, cheaper production. For you, that could mean faster, cheaper silicon in your next device.  \n\nBut if the AI screws up, who audits the auditor?  \n\nWould you trust a chip that was printed by an AI you never see? 🔍⚙️💾",
+  "carousel_slides": [
+    {
+      "hook": "Who's really printing your chip?",
+      "description": "Samsung installed Mistral's AI on EUV scanners. The machines that etch your phone's brain now run models locally, not in the cloud.",
+      "visual_hint": "EUV scanner machine in fab",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "EUV lithography machine"
+    },
+    {
+      "hook": "No human needed for defect checks",
+      "description": "Mistral's AI spots flaws in real time, a task that once took engineers hours. Faster detection could boost Samsung's lagging yields.",
+      "visual_hint": "AI analyzing chip defect image",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "semiconductor chip macro",
+      "image": "https://images.pexels.com/photos/4432037/pexels-photo-4432037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI runs on the tool, not the cloud",
+      "description": "Mistral's models operate locally inside the scanner, so data never leaves the fab. This is a twist on typical cloud-based AI.",
+      "visual_hint": "Scanner with local AI module",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can this AI fix Samsung's yields?",
+      "description": "Samsung's chip yields have lagged rivals. This AI could be the fix—or a risky bet that doesn't pan out.",
+      "visual_hint": "Engineer reviewing yield chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "factory engineer tablet",
+      "image": "https://images.pexels.com/photos/4480983/pexels-photo-4480983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next phone purchase",
+      "description": "Ask your next phone's maker: was it printed by an AI? Comment your take or visit the link in bio for deeper analysis.",
+      "visual_hint": "Smartphone with chip close-up",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone circuit board",
+      "image": "https://images.pexels.com/photos/6755052/pexels-photo-6755052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-09T14:03:09.363Z",
+  "sourceId": "16e366b20d99121c445fec9cd16a0c21"
+}

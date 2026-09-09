@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cloudnc-aims-to-accelerate-ai-supply-chain-machini",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CloudNC aims to accelerate AI supply chain machining",
+  "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+  "pubDate": "Wed, 09 Sep 2026 10:34:20 +0000",
+  "slides": [
+    "Can CloudNC truly make AI-driven machining supply chains faster?",
+    "Most CNC machines still rely on manual programming and setup.",
+    "CloudNC's autonomous software cuts programming time from hours to minutes.",
+    "This shifts your lead times and costs, not just machine efficiency.",
+    "Audit one part's programming time to see the real gap."
+  ],
+  "thread_text": [
+    "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+    "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+    "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+    "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+    "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+  ],
+  "video_script": [
+    "CNC programming still takes hours.",
+    "CloudNC's software turns that into minutes.",
+    "Lead times and costs shrink dramatically.",
+    "Most shops ignore this bottleneck.",
+    "Audit one part to see the difference."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The hidden bottleneck\n\nMost CNC shops still program parts manually, a step that can take hours and often delays production more than the machining itself.",
+        "2. Software shrinks the gap\n\nCloudNC's autonomous software cuts that programming time from hours to minutes, but only if your shop adopts it and reworks its workflow.",
+        "3. Real impact on lead times\n\nCutting programming time shortens your overall lead time and reduces costs, not just machine efficiency—so your quoting becomes more competitive.",
+        "4. Beyond speed: pricing power\n\nWith faster programming, you can take on more jobs and deliver quicker, which shifts your pricing strategy and bidding power against slower rivals.",
+        "5. Test your own gap\n\nAudit one part's programming time this week. If it takes over an hour, the software's claim is worth a trial run on your actual part."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "CNC programming still takes hours.",
+        "CloudNC's software turns that into minutes.",
+        "Lead times and costs shrink dramatically.",
+        "Most shops ignore this bottleneck.",
+        "Audit one part to see the difference."
+      ]
+    },
+    "instagram": {
+      "caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧"
+    }
+  },
+  "instagram_caption": "A single CNC part can sit in programming for hours before the machine even starts cutting. That delay often costs more than the machining itself.  \n\nCloudNC’s software compresses that setup from hours to minutes, but it only works if you actually rewire your workflow around it. Faster programming directly shrinks lead times and job costs, not just spindle uptime. Shops that adopt it can quote tighter and take on more work. Your bidding power shifts against anyone still doing it manually.  \n\nTake one real part from your floor this week and time the manual programming. If it clears an hour, that’s your margin leaking ⏱️  \n\nWill you run that audit before your competitor does? 📉🔧",
+  "carousel_slides": [
+    {
+      "hook": "Programming takes hours. It shouldn't.",
+      "description": "Most CNC shops still program parts manually, a step that can delay production more than machining itself. Hours lost per part add up fast.",
+      "visual_hint": "CNC machine idle, waiting",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "CNC machine workshop"
+    },
+    {
+      "hook": "Autonomous software: hours to minutes.",
+      "description": "CloudNC's software cuts programming time drastically. But you must adopt it and rework workflows to see the gain.",
+      "visual_hint": "Clock morphing into fast forward",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer software code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Shorter lead times, better quotes.",
+      "description": "Cutting programming time shortens lead times and reduces costs. Your quoting becomes more competitive instantly.",
+      "visual_hint": "Shrinking timeline graph",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory production line",
+      "image": "https://images.pexels.com/photos/34221993/pexels-photo-34221993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Faster programming boosts pricing power.",
+      "description": "You take on more jobs, deliver quicker, and shift pricing strategy. Beat slower rivals with sharper bids.",
+      "visual_hint": "Upward arrow overtaking rivals",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "supply chain logistics",
+      "image": "https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: audit one part's time.",
+      "description": "Check one part's programming time this week. If over an hour, CloudNC's software is worth a trial run.",
+      "visual_hint": "Stopwatch over part blueprint",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "stopwatch engineering drawings",
+      "image": "https://images.pexels.com/photos/5324972/pexels-photo-5324972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-09T14:02:56.361Z",
+  "sourceId": "05461b739ef1c381a700a0c4b6d564a1"
+}
