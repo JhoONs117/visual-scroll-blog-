@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-shows-off-airpods-5-with-improved-active-noi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+  "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+  "pubDate": "Wed, 09 Sep 2026 18:06:40 +0000",
+  "slides": [
+    "Can AirPods 5 finally silence the world?",
+    "Apple's new ANC chip targets low-frequency rumble",
+    "But it adapts to your ear shape in real time",
+    "Your commute becomes quieter, but not completely silent",
+    "Test them in noisy café before upgrading"
+  ],
+  "thread_text": [
+    "1. Why AirPods 5 won't silence the world\n\nApple's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+    "2. The twist: ear shape matters more than volume\n\nYour commute gets quieter, but not completely silent. The effect shifts based on how the buds fit in your ears.",
+    "3. The consequence: you might still hear the café\n\nReal-world testing means background chatter may persist. Apple's claim focuses on low-end rumble, not human voices.",
+    "4. The test: don't upgrade on spec sheets alone\n\nTry them in a noisy café before upgrading. Listen for the specific frequencies that bother you most.",
+    "5. Will you notice the difference?\n\nTake your current AirPods to a busy street and note what you still hear. Then test the new ones. Is the upgrade worth it for your daily noise?"
+  ],
+  "video_script": [
+    "AirPods 5 won't block all noise.",
+    "They target low rumble, adapt to ears.",
+    "Your commute gets quieter, not silent.",
+    "Test them in a noisy café first.",
+    "Will the upgrade work for you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why AirPods 5 won't silence the world\n\nApple's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+        "2. The twist: ear shape matters more than volume\n\nYour commute gets quieter, but not completely silent. The effect shifts based on how the buds fit in your ears.",
+        "3. The consequence: you might still hear the café\n\nReal-world testing means background chatter may persist. Apple's claim focuses on low-end rumble, not human voices.",
+        "4. The test: don't upgrade on spec sheets alone\n\nTry them in a noisy café before upgrading. Listen for the specific frequencies that bother you most.",
+        "5. Will you notice the difference?\n\nTake your current AirPods to a busy street and note what you still hear. Then test the new ones. Is the upgrade worth it for your daily noise?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AirPods 5 won't block all noise.",
+        "They target low rumble, adapt to ears.",
+        "Your commute gets quieter, not silent.",
+        "Test them in a noisy café first.",
+        "Will the upgrade work for you?"
+      ]
+    },
+    "instagram": {
+      "caption": "AirPods 5’s new chip targets low-frequency rumble—think engine noise, not the chatter beside you. It adapts cancellation to your ear shape in real time, so fit changes how much silence you actually get. 🎧\n\nThat means your commute gets quieter, but a busy café? Background voices may still cut through. Apple’s claim is about bass-heavy hum, not human speech. 💬\n\nFor creators testing gear or publishing audio reviews, the spec sheet won’t tell you if the upgrade matters. You need to judge against the specific noises that ruin your focus.\n\nTake your current AirPods to a noisy street, note what you hear, then try the new ones. Is that difference worth the money for you? 🔇"
+    }
+  },
+  "instagram_caption": "AirPods 5’s new chip targets low-frequency rumble—think engine noise, not the chatter beside you. It adapts cancellation to your ear shape in real time, so fit changes how much silence you actually get. 🎧\n\nThat means your commute gets quieter, but a busy café? Background voices may still cut through. Apple’s claim is about bass-heavy hum, not human speech. 💬\n\nFor creators testing gear or publishing audio reviews, the spec sheet won’t tell you if the upgrade matters. You need to judge against the specific noises that ruin your focus.\n\nTake your current AirPods to a noisy street, note what you hear, then try the new ones. Is that difference worth the money for you? 🔇",
+  "carousel_slides": [
+    {
+      "hook": "Silence isn't about volume.",
+      "description": "AirPods 5's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+      "visual_hint": "Earbud close-up with soundwaves",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "airpods closeup"
+    },
+    {
+      "hook": "Your ear shape changes everything.",
+      "description": "The noise cancellation adapts to how the buds fit in your ears. Your commute gets quieter, but not completely silent.",
+      "visual_hint": "Ear canal diagram with arrows",
+      "layout_type": "right-focus",
+      "icon": "vibration",
+      "image_query": "ear anatomy diagram",
+      "image": "https://images.pexels.com/photos/8092973/pexels-photo-8092973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chatter may still break through.",
+      "description": "Apple's claim focuses on low-end rumble, not human voices. In a café, background chatter can persist despite the new chip.",
+      "visual_hint": "Coffee cup with people blurred",
+      "layout_type": "sensor-zoom",
+      "icon": "waves",
+      "image_query": "busy cafe",
+      "image": "https://images.pexels.com/photos/33233564/pexels-photo-33233564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Don't trust the spec sheet alone.",
+      "description": "Test AirPods 5 in a noisy café before upgrading. Listen specifically for the frequencies that bother you most.",
+      "visual_hint": "Hand holding phone comparing earbuds",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "holding smartphone",
+      "image": "https://images.pexels.com/photos/17467828/pexels-photo-17467828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this for your upgrade test.",
+      "description": "Take your current AirPods to a busy street and note what you still hear. Then test the new ones. Is it worth it?",
+      "visual_hint": "Checklist with earbuds and street",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "busy street",
+      "image": "https://images.pexels.com/photos/15433586/pexels-photo-15433586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198",
+  "savedAt": "2026-09-09T18:57:53.058Z",
+  "sourceId": "675612fe5f173182849ff4db5add6772"
+}

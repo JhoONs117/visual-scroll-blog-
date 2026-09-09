@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "apple-shows-off-airpods-5-with-improved-active-noi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+    "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+    "pubDate": "Wed, 09 Sep 2026 18:06:40 +0000",
+    "slides": [
+      "Can AirPods 5 finally silence the world?",
+      "Apple's new ANC chip targets low-frequency rumble",
+      "But it adapts to your ear shape in real time",
+      "Your commute becomes quieter, but not completely silent",
+      "Test them in noisy café before upgrading"
+    ],
+    "thread_text": [
+      "1. Why AirPods 5 won't silence the world\n\nApple's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+      "2. The twist: ear shape matters more than volume\n\nYour commute gets quieter, but not completely silent. The effect shifts based on how the buds fit in your ears.",
+      "3. The consequence: you might still hear the café\n\nReal-world testing means background chatter may persist. Apple's claim focuses on low-end rumble, not human voices.",
+      "4. The test: don't upgrade on spec sheets alone\n\nTry them in a noisy café before upgrading. Listen for the specific frequencies that bother you most.",
+      "5. Will you notice the difference?\n\nTake your current AirPods to a busy street and note what you still hear. Then test the new ones. Is the upgrade worth it for your daily noise?"
+    ],
+    "video_script": [
+      "AirPods 5 won't block all noise.",
+      "They target low rumble, adapt to ears.",
+      "Your commute gets quieter, not silent.",
+      "Test them in a noisy café first.",
+      "Will the upgrade work for you?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Why AirPods 5 won't silence the world\n\nApple's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+          "2. The twist: ear shape matters more than volume\n\nYour commute gets quieter, but not completely silent. The effect shifts based on how the buds fit in your ears.",
+          "3. The consequence: you might still hear the café\n\nReal-world testing means background chatter may persist. Apple's claim focuses on low-end rumble, not human voices.",
+          "4. The test: don't upgrade on spec sheets alone\n\nTry them in a noisy café before upgrading. Listen for the specific frequencies that bother you most.",
+          "5. Will you notice the difference?\n\nTake your current AirPods to a busy street and note what you still hear. Then test the new ones. Is the upgrade worth it for your daily noise?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AirPods 5 won't block all noise.",
+          "They target low rumble, adapt to ears.",
+          "Your commute gets quieter, not silent.",
+          "Test them in a noisy café first.",
+          "Will the upgrade work for you?"
+        ]
+      },
+      "instagram": {
+        "caption": "AirPods 5’s new chip targets low-frequency rumble—think engine noise, not the chatter beside you. It adapts cancellation to your ear shape in real time, so fit changes how much silence you actually get. 🎧\n\nThat means your commute gets quieter, but a busy café? Background voices may still cut through. Apple’s claim is about bass-heavy hum, not human speech. 💬\n\nFor creators testing gear or publishing audio reviews, the spec sheet won’t tell you if the upgrade matters. You need to judge against the specific noises that ruin your focus.\n\nTake your current AirPods to a noisy street, note what you hear, then try the new ones. Is that difference worth the money for you? 🔇"
+      }
+    },
+    "instagram_caption": "AirPods 5’s new chip targets low-frequency rumble—think engine noise, not the chatter beside you. It adapts cancellation to your ear shape in real time, so fit changes how much silence you actually get. 🎧\n\nThat means your commute gets quieter, but a busy café? Background voices may still cut through. Apple’s claim is about bass-heavy hum, not human speech. 💬\n\nFor creators testing gear or publishing audio reviews, the spec sheet won’t tell you if the upgrade matters. You need to judge against the specific noises that ruin your focus.\n\nTake your current AirPods to a noisy street, note what you hear, then try the new ones. Is that difference worth the money for you? 🔇",
+    "carousel_slides": [
+      {
+        "hook": "Silence isn't about volume.",
+        "description": "AirPods 5's new chip targets low-frequency rumble, not all noise. It adapts to your ear shape in real time.",
+        "visual_hint": "Earbud close-up with soundwaves",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "airpods closeup"
+      },
+      {
+        "hook": "Your ear shape changes everything.",
+        "description": "The noise cancellation adapts to how the buds fit in your ears. Your commute gets quieter, but not completely silent.",
+        "visual_hint": "Ear canal diagram with arrows",
+        "layout_type": "right-focus",
+        "icon": "vibration",
+        "image_query": "ear anatomy diagram",
+        "image": "https://images.pexels.com/photos/8092973/pexels-photo-8092973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chatter may still break through.",
+        "description": "Apple's claim focuses on low-end rumble, not human voices. In a café, background chatter can persist despite the new chip.",
+        "visual_hint": "Coffee cup with people blurred",
+        "layout_type": "sensor-zoom",
+        "icon": "waves",
+        "image_query": "busy cafe",
+        "image": "https://images.pexels.com/photos/33233564/pexels-photo-33233564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Don't trust the spec sheet alone.",
+        "description": "Test AirPods 5 in a noisy café before upgrading. Listen specifically for the frequencies that bother you most.",
+        "visual_hint": "Hand holding phone comparing earbuds",
+        "layout_type": "human-hand",
+        "icon": "heart",
+        "image_query": "holding smartphone",
+        "image": "https://images.pexels.com/photos/17467828/pexels-photo-17467828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this for your upgrade test.",
+        "description": "Take your current AirPods to a busy street and note what you still hear. Then test the new ones. Is it worth it?",
+        "visual_hint": "Checklist with earbuds and street",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "busy street",
+        "image": "https://images.pexels.com/photos/15433586/pexels-photo-15433586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/airpods5-e1788977289405.png?w=1198",
+    "savedAt": "2026-09-09T18:57:53.058Z",
+    "sourceId": "675612fe5f173182849ff4db5add6772"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-has-a-new-way-prove-your-iphone-photos-aren-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+    "slides": [
+      "Apple's new proof: your photos aren't AI slop—but how?",
+      "It signs images cryptographically at the moment of capture.",
+      "Even edited photos keep a verifiable chain of authenticity.",
+      "You can check any image's origin right in the Photos app.",
+      "Stop trusting labels—verify every shared picture yourself."
+    ],
+    "thread_text": [
+      "1. Your photos can now be verified\n\nApple's new cryptographic signing at capture means every image gets a unique, unbreakable seal. No more guessing if a photo is real.",
+      "2. Edits don't break the chain\n\nEven after filters or crops, the authenticity trail stays intact. You can track every change back to the original moment.",
+      "3. Check any photo in Photos app\n\nJust tap to see where an image came from. The tool is built right in, no third-party needed.",
+      "4. This kills the trust problem\n\nNow you can stop relying on labels. The system verifies the image itself, not who posted it.",
+      "5. Are you ready to verify?\n\nNext time you see a shocking photo, check its origin in the Photos app. Will you trust it without that?"
+    ],
+    "video_script": [
+      "Apple now cryptographically signs photos at capture.",
+      "Edits still keep a verified authenticity chain.",
+      "You can check origin in Photos app instantly.",
+      "No more relying on trust labels.",
+      "Stay skeptical and verify every shared image."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your photos can now be verified\n\nApple's new cryptographic signing at capture means every image gets a unique, unbreakable seal. No more guessing if a photo is real.",
+          "2. Edits don't break the chain\n\nEven after filters or crops, the authenticity trail stays intact. You can track every change back to the original moment.",
+          "3. Check any photo in Photos app\n\nJust tap to see where an image came from. The tool is built right in, no third-party needed.",
+          "4. This kills the trust problem\n\nNow you can stop relying on labels. The system verifies the image itself, not who posted it.",
+          "5. Are you ready to verify?\n\nNext time you see a shocking photo, check its origin in the Photos app. Will you trust it without that?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple now cryptographically signs photos at capture.",
+          "Edits still keep a verified authenticity chain.",
+          "You can check origin in Photos app instantly.",
+          "No more relying on trust labels.",
+          "Stay skeptical and verify every shared image."
+        ]
+      },
+      "instagram": {
+        "caption": "Every iPhone photo you take from now on can carry a cryptographic signature, stamped at the exact moment the shutter clicks. That seal is unbreakable and tied to that specific image. 📸\n\nEven if you crop, filter, or edit, the authenticity chain stays intact. Anyone can trace every change back to the original capture, right inside the Photos app on their own device. No third-party tools, no trust in labels. 🔍\n\nFor you, as someone who shares or publishes images, this means your work now carries a verifiable origin that survives editing. You can prove when and how a photo was made—without relying on what someone claims about it.\n\nWhen you see a shocking image tomorrow, will you check its origin first, or just believe the caption? 🛡️"
+      }
+    },
+    "instagram_caption": "Every iPhone photo you take from now on can carry a cryptographic signature, stamped at the exact moment the shutter clicks. That seal is unbreakable and tied to that specific image. 📸\n\nEven if you crop, filter, or edit, the authenticity chain stays intact. Anyone can trace every change back to the original capture, right inside the Photos app on their own device. No third-party tools, no trust in labels. 🔍\n\nFor you, as someone who shares or publishes images, this means your work now carries a verifiable origin that survives editing. You can prove when and how a photo was made—without relying on what someone claims about it.\n\nWhen you see a shocking image tomorrow, will you check its origin first, or just believe the caption? 🛡️",
+    "carousel_slides": [
+      {
+        "hook": "Still trust every viral photo?",
+        "description": "Apple signs images cryptographically at capture, so every shot gets an unbreakable seal. No more guessing if it's real.",
+        "visual_hint": "Smartphone camera with glowing seal",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone camera macro"
+      },
+      {
+        "hook": "Edits don't break the chain.",
+        "description": "Filters and crops keep a verifiable authenticity trail. Every change is tracked back to the original moment.",
+        "visual_hint": "Photo edit timeline chain",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "photo editing timeline",
+        "image": "https://images.pexels.com/photos/8100065/pexels-photo-8100065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check any photo instantly.",
+        "description": "Tap any image in the Photos app to see its origin. No third-party tools needed, it's built right in.",
+        "visual_hint": "Finger tapping photo screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone screen photo app",
+        "image": "https://images.pexels.com/photos/4549416/pexels-photo-4549416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Labels are dead. Verify yourself.",
+        "description": "Stop relying on who posted it. The system verifies the image itself, giving you control over what you trust.",
+        "visual_hint": "Verification check overlay photo",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to verify your next photo.",
+        "description": "Next time you see a shocking image, open the Photos app and check its origin. Will you trust it without that?",
+        "visual_hint": "Arrow pointing to Photos app",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "apple photos app icon",
+        "image": "https://images.pexels.com/photos/13570163/pexels-photo-13570163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+    "savedAt": "2026-09-09T18:57:42.023Z",
+    "sourceId": "c9b53fb8ed34f49d547b7351bd1e4516"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-unveils-watch-series-12-and-watch-ultra-4-wi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+    "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+    "pubDate": "Wed, 09 Sep 2026 18:08:46 +0000",
+    "slides": [
+      "Apple's new Watch knows your day better than you do?",
+      "Series 12 and Ultra 4 add an AI that summarizes activities.",
+      "The AI quietly learns from your routine—without asking permission.",
+      "Your morning briefing now arrives before you even check your phone.",
+      "Set one privacy boundary now, or let it curate your life."
+    ],
+    "thread_text": [
+      "1. Your Watch Knows\n\nApple's new Watch AI studies your daily habits and builds a summary of your life without you ever opting in.",
+      "2. No Permission Needed\n\nThe system learns in the background — it doesn't pop up and ask if it's okay to track your routines.",
+      "3. The Morning Surprise\n\nIt predicts when you'll want your briefing and sends it before you've even picked up your phone.",
+      "4. The Privacy Trade\n\nIf you don't set a boundary now, every routine you have becomes data for the AI to curate.",
+      "5. Set One Boundary\n\nToday, go into your Watch's privacy settings and turn off 'Activity Summaries.' Or let it watch you — your choice."
+    ],
+    "video_script": [
+      "Your new Watch learns your routine secretly.",
+      "No permission asked, it just tracks you.",
+      "Morning briefings arrive before you wake.",
+      "Set a privacy boundary or let it curate.",
+      "Check your settings today, not later."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Watch Knows\n\nApple's new Watch AI studies your daily habits and builds a summary of your life without you ever opting in.",
+          "2. No Permission Needed\n\nThe system learns in the background — it doesn't pop up and ask if it's okay to track your routines.",
+          "3. The Morning Surprise\n\nIt predicts when you'll want your briefing and sends it before you've even picked up your phone.",
+          "4. The Privacy Trade\n\nIf you don't set a boundary now, every routine you have becomes data for the AI to curate.",
+          "5. Set One Boundary\n\nToday, go into your Watch's privacy settings and turn off 'Activity Summaries.' Or let it watch you — your choice."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your new Watch learns your routine secretly.",
+          "No permission asked, it just tracks you.",
+          "Morning briefings arrive before you wake.",
+          "Set a privacy boundary or let it curate.",
+          "Check your settings today, not later."
+        ]
+      },
+      "instagram": {
+        "caption": "Your new Apple Watch knows your morning routine better than you do — and it never asked first.  \n\nThe Series 12 and Ultra 4 now include an AI that silently studies your habits and builds a daily recap. No pop-up, no permission screen. It just learns in the background until one morning the briefing lands before your coffee's done.  \n\nFor anyone who posts content daily, that means your own \"activity story\" is being auto-curated by a machine you can't see working. Your routines become its raw material.  \n\nGo into your Watch settings right now. Find \"Activity Summaries.\" Turn it off — or accept that every quiet pattern you have is now a data point. Which one feels like you? ⏱️📊🔕"
+      }
+    },
+    "instagram_caption": "Your new Apple Watch knows your morning routine better than you do — and it never asked first.  \n\nThe Series 12 and Ultra 4 now include an AI that silently studies your habits and builds a daily recap. No pop-up, no permission screen. It just learns in the background until one morning the briefing lands before your coffee's done.  \n\nFor anyone who posts content daily, that means your own \"activity story\" is being auto-curated by a machine you can't see working. Your routines become its raw material.  \n\nGo into your Watch settings right now. Find \"Activity Summaries.\" Turn it off — or accept that every quiet pattern you have is now a data point. Which one feels like you? ⏱️📊🔕",
+    "carousel_slides": [
+      {
+        "hook": "Your Watch knows your day better than you?",
+        "description": "Apple's new Watch AI learns your routines in the background, no opt-in. It builds a summary of your life without asking permission.",
+        "visual_hint": "Watch on wrist, screen glowing",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartwatch closeup"
+      },
+      {
+        "hook": "No permission needed for this AI.",
+        "description": "The system quietly tracks your habits without any prompt. It doesn't pop up to ask if it's okay to study your routines.",
+        "visual_hint": "Background data streams, no pop-up",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your morning briefing arrives before you check.",
+        "description": "The AI predicts when you want a recap and sends it early. It learns your routine so well it beats your alarm.",
+        "visual_hint": "Watch display showing morning summary",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartwatch screen",
+        "image": "https://images.pexels.com/photos/31406910/pexels-photo-31406910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Set one privacy boundary or let it watch.",
+        "description": "If you don't change settings now, every routine becomes data for the AI. Your habits are curated without consent.",
+        "visual_hint": "Finger tapping privacy setting",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand touching phone",
+        "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: turn off Activity Summaries now.",
+        "description": "Go to your Watch's privacy settings and disable 'Activity Summaries' today. Or let it curate your life—the choice is yours.",
+        "visual_hint": "Settings menu on watch, toggle off",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartwatch settings",
+        "image": "https://images.pexels.com/photos/16586559/pexels-photo-16586559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
+    "savedAt": "2026-09-09T18:57:31.207Z",
+    "sourceId": "73877e938b552e90d0966fd93c08a44f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "youtube-appears-in-53-of-google-ai-overviews-for-v",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+    "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+    "pubDate": "Tue, 08 Sep 2026 08:50:39 +0000",
+    "slides": [
+      "YouTube dominates Google AI vitamin results, but why?",
+      "53% of AI Overviews now embed YouTube videos.",
+      "Even top supplement brands are invisible in these clips.",
+      "Your product research now starts inside video comments.",
+      "Audit your brand's presence in those YouTube clips today."
+    ],
+    "thread_text": [
+      "1. YouTube Wins Search\n\nGoogle's AI Overviews now embed YouTube videos in 53% of results, making video the new front page of product research.",
+      "2. Brands Missing in Action\n\nEven top supplement brands are invisible inside these clips, losing voice to random creators in AI-generated answers.",
+      "3. The Real Influence Shift\n\nProduct decisions now start in video comments, where viewers trust peer opinions over polished ads or rankings.",
+      "4. Your Brand's Blind Spot\n\nIf your product isn't in those YouTube snippets, you're absent when AI cites proof—competitors and reviewers fill the gap.",
+      "5. Audit Your Clips Now\n\nSearch your top product terms on Google and list which YouTube videos appear. Is your brand in any? If not, plan outreach to those creators."
+    ],
+    "video_script": [
+      "Google's AI now shows YouTube videos half the time.",
+      "But top brands are invisible in those clips.",
+      "People research products inside video comments now.",
+      "If you're not there, you're missing the conversation.",
+      "Check your brand's presence in YouTube results today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. YouTube Wins Search\n\nGoogle's AI Overviews now embed YouTube videos in 53% of results, making video the new front page of product research.",
+          "2. Brands Missing in Action\n\nEven top supplement brands are invisible inside these clips, losing voice to random creators in AI-generated answers.",
+          "3. The Real Influence Shift\n\nProduct decisions now start in video comments, where viewers trust peer opinions over polished ads or rankings.",
+          "4. Your Brand's Blind Spot\n\nIf your product isn't in those YouTube snippets, you're absent when AI cites proof—competitors and reviewers fill the gap.",
+          "5. Audit Your Clips Now\n\nSearch your top product terms on Google and list which YouTube videos appear. Is your brand in any? If not, plan outreach to those creators."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Google's AI now shows YouTube videos half the time.",
+          "But top brands are invisible in those clips.",
+          "People research products inside video comments now.",
+          "If you're not there, you're missing the conversation.",
+          "Check your brand's presence in YouTube results today."
+        ]
+      },
+      "instagram": {
+        "caption": "Half the time you Google a vitamin, Google hands the answer to a YouTuber.  \n\nNew data shows YouTube clips now show up in 53% of Google’s AI Overviews for supplement searches. That means your product research isn’t ending on a brand page—it’s ending inside a stranger’s video, where peer comments carry more weight than your label claims.  \n\nIf your supplement brand isn’t in those embedded clips, you don’t exist when AI picks its proof. Competitors and random reviewers do.  \n\nSearch your top three product terms right now. Which YouTube videos appear? Is your brand in any of them? If not, who’s answering your customer’s question instead? 🔍🎥💊"
+      }
+    },
+    "instagram_caption": "Half the time you Google a vitamin, Google hands the answer to a YouTuber.  \n\nNew data shows YouTube clips now show up in 53% of Google’s AI Overviews for supplement searches. That means your product research isn’t ending on a brand page—it’s ending inside a stranger’s video, where peer comments carry more weight than your label claims.  \n\nIf your supplement brand isn’t in those embedded clips, you don’t exist when AI picks its proof. Competitors and random reviewers do.  \n\nSearch your top three product terms right now. Which YouTube videos appear? Is your brand in any of them? If not, who’s answering your customer’s question instead? 🔍🎥💊",
+    "carousel_slides": [
+      {
+        "hook": "Is your brand invisible when AI answers?",
+        "description": "YouTube appears in 53% of Google AI vitamin results. If you're absent, customers discover competitors before you.",
+        "visual_hint": "Glowing AI brain over search results",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "search engine results"
+      },
+      {
+        "hook": "Even top supplement brands are missing.",
+        "description": "AI Overviews embed YouTube clips, but brands lose voice to random creators. Your visibility depends on those videos.",
+        "visual_hint": "Shield with a gap for brands",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "video play button",
+        "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Video comments now drive product trust.",
+        "description": "Product research starts inside YouTube comments where viewers trust peer opinions over polished ads. Are your customers there?",
+        "visual_hint": "Magnifying glass over comment section",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your brand's blind spot: AI citations.",
+        "description": "If your product isn't in those YouTube snippets, you're absent when AI cites proof. Competitors fill the gap.",
+        "visual_hint": "Blind spot mirror reflecting YouTube",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "search bar",
+        "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit your brand in YouTube results now.",
+        "description": "Search your top product terms on Google, list YouTube videos that appear. If you're missing, plan outreach to creators.",
+        "visual_hint": "Checklist with YouTube thumbnails",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "social media dashboard",
+        "image": "https://images.pexels.com/photos/15595043/pexels-photo-15595043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T18:57:19.764Z",
+    "sourceId": "655f1d047cf3f5eb867d456172b62210"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "suno-replaces-its-ai-models-with-a-new-one-trained",
     "prompt_version": "1.0.0",
     "status": "published",

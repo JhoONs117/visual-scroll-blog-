@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-unveils-watch-series-12-and-watch-ultra-4-wi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+  "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+  "pubDate": "Wed, 09 Sep 2026 18:08:46 +0000",
+  "slides": [
+    "Apple's new Watch knows your day better than you do?",
+    "Series 12 and Ultra 4 add an AI that summarizes activities.",
+    "The AI quietly learns from your routine—without asking permission.",
+    "Your morning briefing now arrives before you even check your phone.",
+    "Set one privacy boundary now, or let it curate your life."
+  ],
+  "thread_text": [
+    "1. Your Watch Knows\n\nApple's new Watch AI studies your daily habits and builds a summary of your life without you ever opting in.",
+    "2. No Permission Needed\n\nThe system learns in the background — it doesn't pop up and ask if it's okay to track your routines.",
+    "3. The Morning Surprise\n\nIt predicts when you'll want your briefing and sends it before you've even picked up your phone.",
+    "4. The Privacy Trade\n\nIf you don't set a boundary now, every routine you have becomes data for the AI to curate.",
+    "5. Set One Boundary\n\nToday, go into your Watch's privacy settings and turn off 'Activity Summaries.' Or let it watch you — your choice."
+  ],
+  "video_script": [
+    "Your new Watch learns your routine secretly.",
+    "No permission asked, it just tracks you.",
+    "Morning briefings arrive before you wake.",
+    "Set a privacy boundary or let it curate.",
+    "Check your settings today, not later."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Watch Knows\n\nApple's new Watch AI studies your daily habits and builds a summary of your life without you ever opting in.",
+        "2. No Permission Needed\n\nThe system learns in the background — it doesn't pop up and ask if it's okay to track your routines.",
+        "3. The Morning Surprise\n\nIt predicts when you'll want your briefing and sends it before you've even picked up your phone.",
+        "4. The Privacy Trade\n\nIf you don't set a boundary now, every routine you have becomes data for the AI to curate.",
+        "5. Set One Boundary\n\nToday, go into your Watch's privacy settings and turn off 'Activity Summaries.' Or let it watch you — your choice."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your new Watch learns your routine secretly.",
+        "No permission asked, it just tracks you.",
+        "Morning briefings arrive before you wake.",
+        "Set a privacy boundary or let it curate.",
+        "Check your settings today, not later."
+      ]
+    },
+    "instagram": {
+      "caption": "Your new Apple Watch knows your morning routine better than you do — and it never asked first.  \n\nThe Series 12 and Ultra 4 now include an AI that silently studies your habits and builds a daily recap. No pop-up, no permission screen. It just learns in the background until one morning the briefing lands before your coffee's done.  \n\nFor anyone who posts content daily, that means your own \"activity story\" is being auto-curated by a machine you can't see working. Your routines become its raw material.  \n\nGo into your Watch settings right now. Find \"Activity Summaries.\" Turn it off — or accept that every quiet pattern you have is now a data point. Which one feels like you? ⏱️📊🔕"
+    }
+  },
+  "instagram_caption": "Your new Apple Watch knows your morning routine better than you do — and it never asked first.  \n\nThe Series 12 and Ultra 4 now include an AI that silently studies your habits and builds a daily recap. No pop-up, no permission screen. It just learns in the background until one morning the briefing lands before your coffee's done.  \n\nFor anyone who posts content daily, that means your own \"activity story\" is being auto-curated by a machine you can't see working. Your routines become its raw material.  \n\nGo into your Watch settings right now. Find \"Activity Summaries.\" Turn it off — or accept that every quiet pattern you have is now a data point. Which one feels like you? ⏱️📊🔕",
+  "carousel_slides": [
+    {
+      "hook": "Your Watch knows your day better than you?",
+      "description": "Apple's new Watch AI learns your routines in the background, no opt-in. It builds a summary of your life without asking permission.",
+      "visual_hint": "Watch on wrist, screen glowing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartwatch closeup"
+    },
+    {
+      "hook": "No permission needed for this AI.",
+      "description": "The system quietly tracks your habits without any prompt. It doesn't pop up to ask if it's okay to study your routines.",
+      "visual_hint": "Background data streams, no pop-up",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your morning briefing arrives before you check.",
+      "description": "The AI predicts when you want a recap and sends it early. It learns your routine so well it beats your alarm.",
+      "visual_hint": "Watch display showing morning summary",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartwatch screen",
+      "image": "https://images.pexels.com/photos/31406910/pexels-photo-31406910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Set one privacy boundary or let it watch.",
+      "description": "If you don't change settings now, every routine becomes data for the AI. Your habits are curated without consent.",
+      "visual_hint": "Finger tapping privacy setting",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching phone",
+      "image": "https://images.pexels.com/photos/3850253/pexels-photo-3850253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: turn off Activity Summaries now.",
+      "description": "Go to your Watch's privacy settings and disable 'Activity Summaries' today. Or let it curate your life—the choice is yours.",
+      "visual_hint": "Settings menu on watch, toggle off",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartwatch settings",
+      "image": "https://images.pexels.com/photos/16586559/pexels-photo-16586559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
+  "savedAt": "2026-09-09T18:57:31.207Z",
+  "sourceId": "73877e938b552e90d0966fd93c08a44f"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-has-a-new-way-prove-your-iphone-photos-aren-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+  "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+  "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
+  "slides": [
+    "Apple's new proof: your photos aren't AI slop—but how?",
+    "It signs images cryptographically at the moment of capture.",
+    "Even edited photos keep a verifiable chain of authenticity.",
+    "You can check any image's origin right in the Photos app.",
+    "Stop trusting labels—verify every shared picture yourself."
+  ],
+  "thread_text": [
+    "1. Your photos can now be verified\n\nApple's new cryptographic signing at capture means every image gets a unique, unbreakable seal. No more guessing if a photo is real.",
+    "2. Edits don't break the chain\n\nEven after filters or crops, the authenticity trail stays intact. You can track every change back to the original moment.",
+    "3. Check any photo in Photos app\n\nJust tap to see where an image came from. The tool is built right in, no third-party needed.",
+    "4. This kills the trust problem\n\nNow you can stop relying on labels. The system verifies the image itself, not who posted it.",
+    "5. Are you ready to verify?\n\nNext time you see a shocking photo, check its origin in the Photos app. Will you trust it without that?"
+  ],
+  "video_script": [
+    "Apple now cryptographically signs photos at capture.",
+    "Edits still keep a verified authenticity chain.",
+    "You can check origin in Photos app instantly.",
+    "No more relying on trust labels.",
+    "Stay skeptical and verify every shared image."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your photos can now be verified\n\nApple's new cryptographic signing at capture means every image gets a unique, unbreakable seal. No more guessing if a photo is real.",
+        "2. Edits don't break the chain\n\nEven after filters or crops, the authenticity trail stays intact. You can track every change back to the original moment.",
+        "3. Check any photo in Photos app\n\nJust tap to see where an image came from. The tool is built right in, no third-party needed.",
+        "4. This kills the trust problem\n\nNow you can stop relying on labels. The system verifies the image itself, not who posted it.",
+        "5. Are you ready to verify?\n\nNext time you see a shocking photo, check its origin in the Photos app. Will you trust it without that?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple now cryptographically signs photos at capture.",
+        "Edits still keep a verified authenticity chain.",
+        "You can check origin in Photos app instantly.",
+        "No more relying on trust labels.",
+        "Stay skeptical and verify every shared image."
+      ]
+    },
+    "instagram": {
+      "caption": "Every iPhone photo you take from now on can carry a cryptographic signature, stamped at the exact moment the shutter clicks. That seal is unbreakable and tied to that specific image. 📸\n\nEven if you crop, filter, or edit, the authenticity chain stays intact. Anyone can trace every change back to the original capture, right inside the Photos app on their own device. No third-party tools, no trust in labels. 🔍\n\nFor you, as someone who shares or publishes images, this means your work now carries a verifiable origin that survives editing. You can prove when and how a photo was made—without relying on what someone claims about it.\n\nWhen you see a shocking image tomorrow, will you check its origin first, or just believe the caption? 🛡️"
+    }
+  },
+  "instagram_caption": "Every iPhone photo you take from now on can carry a cryptographic signature, stamped at the exact moment the shutter clicks. That seal is unbreakable and tied to that specific image. 📸\n\nEven if you crop, filter, or edit, the authenticity chain stays intact. Anyone can trace every change back to the original capture, right inside the Photos app on their own device. No third-party tools, no trust in labels. 🔍\n\nFor you, as someone who shares or publishes images, this means your work now carries a verifiable origin that survives editing. You can prove when and how a photo was made—without relying on what someone claims about it.\n\nWhen you see a shocking image tomorrow, will you check its origin first, or just believe the caption? 🛡️",
+  "carousel_slides": [
+    {
+      "hook": "Still trust every viral photo?",
+      "description": "Apple signs images cryptographically at capture, so every shot gets an unbreakable seal. No more guessing if it's real.",
+      "visual_hint": "Smartphone camera with glowing seal",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone camera macro"
+    },
+    {
+      "hook": "Edits don't break the chain.",
+      "description": "Filters and crops keep a verifiable authenticity trail. Every change is tracked back to the original moment.",
+      "visual_hint": "Photo edit timeline chain",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "photo editing timeline",
+      "image": "https://images.pexels.com/photos/8100065/pexels-photo-8100065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check any photo instantly.",
+      "description": "Tap any image in the Photos app to see its origin. No third-party tools needed, it's built right in.",
+      "visual_hint": "Finger tapping photo screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone screen photo app",
+      "image": "https://images.pexels.com/photos/4549416/pexels-photo-4549416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Labels are dead. Verify yourself.",
+      "description": "Stop relying on who posted it. The system verifies the image itself, giving you control over what you trust.",
+      "visual_hint": "Verification check overlay photo",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to verify your next photo.",
+      "description": "Next time you see a shocking image, open the Photos app and check its origin. Will you trust it without that?",
+      "visual_hint": "Arrow pointing to Photos app",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "apple photos app icon",
+      "image": "https://images.pexels.com/photos/13570163/pexels-photo-13570163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+  "savedAt": "2026-09-09T18:57:42.023Z",
+  "sourceId": "c9b53fb8ed34f49d547b7351bd1e4516"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "youtube-appears-in-53-of-google-ai-overviews-for-v",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+  "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+  "pubDate": "Tue, 08 Sep 2026 08:50:39 +0000",
+  "slides": [
+    "YouTube dominates Google AI vitamin results, but why?",
+    "53% of AI Overviews now embed YouTube videos.",
+    "Even top supplement brands are invisible in these clips.",
+    "Your product research now starts inside video comments.",
+    "Audit your brand's presence in those YouTube clips today."
+  ],
+  "thread_text": [
+    "1. YouTube Wins Search\n\nGoogle's AI Overviews now embed YouTube videos in 53% of results, making video the new front page of product research.",
+    "2. Brands Missing in Action\n\nEven top supplement brands are invisible inside these clips, losing voice to random creators in AI-generated answers.",
+    "3. The Real Influence Shift\n\nProduct decisions now start in video comments, where viewers trust peer opinions over polished ads or rankings.",
+    "4. Your Brand's Blind Spot\n\nIf your product isn't in those YouTube snippets, you're absent when AI cites proof—competitors and reviewers fill the gap.",
+    "5. Audit Your Clips Now\n\nSearch your top product terms on Google and list which YouTube videos appear. Is your brand in any? If not, plan outreach to those creators."
+  ],
+  "video_script": [
+    "Google's AI now shows YouTube videos half the time.",
+    "But top brands are invisible in those clips.",
+    "People research products inside video comments now.",
+    "If you're not there, you're missing the conversation.",
+    "Check your brand's presence in YouTube results today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. YouTube Wins Search\n\nGoogle's AI Overviews now embed YouTube videos in 53% of results, making video the new front page of product research.",
+        "2. Brands Missing in Action\n\nEven top supplement brands are invisible inside these clips, losing voice to random creators in AI-generated answers.",
+        "3. The Real Influence Shift\n\nProduct decisions now start in video comments, where viewers trust peer opinions over polished ads or rankings.",
+        "4. Your Brand's Blind Spot\n\nIf your product isn't in those YouTube snippets, you're absent when AI cites proof—competitors and reviewers fill the gap.",
+        "5. Audit Your Clips Now\n\nSearch your top product terms on Google and list which YouTube videos appear. Is your brand in any? If not, plan outreach to those creators."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google's AI now shows YouTube videos half the time.",
+        "But top brands are invisible in those clips.",
+        "People research products inside video comments now.",
+        "If you're not there, you're missing the conversation.",
+        "Check your brand's presence in YouTube results today."
+      ]
+    },
+    "instagram": {
+      "caption": "Half the time you Google a vitamin, Google hands the answer to a YouTuber.  \n\nNew data shows YouTube clips now show up in 53% of Google’s AI Overviews for supplement searches. That means your product research isn’t ending on a brand page—it’s ending inside a stranger’s video, where peer comments carry more weight than your label claims.  \n\nIf your supplement brand isn’t in those embedded clips, you don’t exist when AI picks its proof. Competitors and random reviewers do.  \n\nSearch your top three product terms right now. Which YouTube videos appear? Is your brand in any of them? If not, who’s answering your customer’s question instead? 🔍🎥💊"
+    }
+  },
+  "instagram_caption": "Half the time you Google a vitamin, Google hands the answer to a YouTuber.  \n\nNew data shows YouTube clips now show up in 53% of Google’s AI Overviews for supplement searches. That means your product research isn’t ending on a brand page—it’s ending inside a stranger’s video, where peer comments carry more weight than your label claims.  \n\nIf your supplement brand isn’t in those embedded clips, you don’t exist when AI picks its proof. Competitors and random reviewers do.  \n\nSearch your top three product terms right now. Which YouTube videos appear? Is your brand in any of them? If not, who’s answering your customer’s question instead? 🔍🎥💊",
+  "carousel_slides": [
+    {
+      "hook": "Is your brand invisible when AI answers?",
+      "description": "YouTube appears in 53% of Google AI vitamin results. If you're absent, customers discover competitors before you.",
+      "visual_hint": "Glowing AI brain over search results",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "search engine results"
+    },
+    {
+      "hook": "Even top supplement brands are missing.",
+      "description": "AI Overviews embed YouTube clips, but brands lose voice to random creators. Your visibility depends on those videos.",
+      "visual_hint": "Shield with a gap for brands",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "video play button",
+      "image": "https://images.pexels.com/photos/8089672/pexels-photo-8089672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Video comments now drive product trust.",
+      "description": "Product research starts inside YouTube comments where viewers trust peer opinions over polished ads. Are your customers there?",
+      "visual_hint": "Magnifying glass over comment section",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your brand's blind spot: AI citations.",
+      "description": "If your product isn't in those YouTube snippets, you're absent when AI cites proof. Competitors fill the gap.",
+      "visual_hint": "Blind spot mirror reflecting YouTube",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "search bar",
+      "image": "https://images.pexels.com/photos/5701654/pexels-photo-5701654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your brand in YouTube results now.",
+      "description": "Search your top product terms on Google, list YouTube videos that appear. If you're missing, plan outreach to creators.",
+      "visual_hint": "Checklist with YouTube thumbnails",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "social media dashboard",
+      "image": "https://images.pexels.com/photos/15595043/pexels-photo-15595043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-09T18:57:19.764Z",
+  "sourceId": "655f1d047cf3f5eb867d456172b62210"
+}
