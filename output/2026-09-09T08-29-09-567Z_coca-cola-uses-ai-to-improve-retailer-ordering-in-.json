@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "coca-cola-uses-ai-to-improve-retailer-ordering-in-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+  "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+  "pubDate": "Tue, 08 Sep 2026 10:00:00 +0000",
+  "slides": [
+    "Coca-Cola's AI ordering in Malaysia: is it working?",
+    "Retailers previously ordered via WhatsApp and calls.",
+    "AI agents now predict stock, but accuracy remains unclear.",
+    "Small shops see fewer stockouts, yet hidden complexities persist.",
+    "Test one AI suggestion manually before trusting it fully."
+  ],
+  "thread_text": [
+    "1. Is AI ordering real?\n\nCoca-Cola rolled out AI stock predictions for Malaysian retailers, but no one has verified the accuracy yet.",
+    "2. Shops still call humans\n\nEven with AI, small retailers fall back on WhatsApp and phone calls when predictions don't match shelf reality.",
+    "3. Stockouts down, trust not\n\nFewer empty shelves sounds good, but hidden complexities like seasonal demand or delivery delays remain unsolved.",
+    "4. The black box risk\n\nYou can’t see why the AI suggests an order—if it's wrong, you’re stuck with expired products or missed sales.",
+    "5. Test one suggestion yourself\n\nPick one product tomorrow, compare its AI order to your gut estimate. Who’s more accurate?"
+  ],
+  "video_script": [
+    "Coca-Cola's AI ordering in Malaysia.",
+    "Retailers used WhatsApp and calls before.",
+    "AI predicts stock, accuracy unclear.",
+    "Fewer stockouts, but hidden issues remain.",
+    "Manually test one AI suggestion first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Is AI ordering real?\n\nCoca-Cola rolled out AI stock predictions for Malaysian retailers, but no one has verified the accuracy yet.",
+        "2. Shops still call humans\n\nEven with AI, small retailers fall back on WhatsApp and phone calls when predictions don't match shelf reality.",
+        "3. Stockouts down, trust not\n\nFewer empty shelves sounds good, but hidden complexities like seasonal demand or delivery delays remain unsolved.",
+        "4. The black box risk\n\nYou can’t see why the AI suggests an order—if it's wrong, you’re stuck with expired products or missed sales.",
+        "5. Test one suggestion yourself\n\nPick one product tomorrow, compare its AI order to your gut estimate. Who’s more accurate?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Coca-Cola's AI ordering in Malaysia.",
+        "Retailers used WhatsApp and calls before.",
+        "AI predicts stock, accuracy unclear.",
+        "Fewer stockouts, but hidden issues remain.",
+        "Manually test one AI suggestion first."
+      ]
+    },
+    "instagram": {
+      "caption": "Malaysian shopkeepers are still dialing Coca-Cola on WhatsApp after an AI told them what to stock. 📞\n\nThe company rolled out AI ordering to predict inventory for small retailers. Stockouts dropped, but no one’s verified if the AI is actually right—or why it makes its calls. Seasonal spikes and delivery delays still trip it up.\n\nFor anyone building with AI: this is the gap between a demo and a daily driver. You can’t debug what you can’t explain.\n\nPick one product tomorrow. Compare the AI’s order to your own guess. Who’s wrong more often? 🤔"
+    }
+  },
+  "instagram_caption": "Malaysian shopkeepers are still dialing Coca-Cola on WhatsApp after an AI told them what to stock. 📞\n\nThe company rolled out AI ordering to predict inventory for small retailers. Stockouts dropped, but no one’s verified if the AI is actually right—or why it makes its calls. Seasonal spikes and delivery delays still trip it up.\n\nFor anyone building with AI: this is the gap between a demo and a daily driver. You can’t debug what you can’t explain.\n\nPick one product tomorrow. Compare the AI’s order to your own guess. Who’s wrong more often? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is AI ordering real?",
+      "description": "Coca-Cola launched AI stock predictions for Malaysian retailers, but no one has independently verified its accuracy yet.",
+      "visual_hint": "Coca-Cola bottles and AI",
+      "image_query": "coca cola bottles",
+      "layout_type": "hero",
+      "icon": "tag"
+    },
+    {
+      "hook": "Retailers still call humans",
+      "description": "Small shops fall back on WhatsApp and phone calls when AI predictions fail to match shelf reality.",
+      "visual_hint": "Smartphone with chat app",
+      "image_query": "smartphone chat app",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stockouts down, but trust?",
+      "description": "Fewer empty shelves sounds promising, yet seasonal demand and delivery delays remain unresolved.",
+      "visual_hint": "Store shelf and calendar",
+      "image_query": "store shelf calendar",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image": "https://images.pexels.com/photos/34654355/pexels-photo-34654355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why does it suggest that?",
+      "description": "AI decisions are opaque. A wrong suggestion means expired products or missed sales.",
+      "visual_hint": "Question mark over boxes",
+      "image_query": "question mark boxes",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image": "https://images.pexels.com/photos/12355987/pexels-photo-12355987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test it yourself",
+      "description": "Pick one product, compare its AI order against your intuition. Know which to trust.",
+      "visual_hint": "Hand comparing product lists",
+      "image_query": "hand comparing lists",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4113624/pexels-photo-4113624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-09T08:29:34.809Z",
+  "sourceId": "3fa6fdbf00ff71a34ff3a8f3fa24eaf5"
+}

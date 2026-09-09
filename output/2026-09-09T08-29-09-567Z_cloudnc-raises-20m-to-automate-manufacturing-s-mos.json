@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "cloudnc-raises-20m-to-automate-manufacturing-s-mos",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+  "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+  "pubDate": "Wed, 09 Sep 2026 04:01:00 +0000",
+  "slides": [
+    "Who automates the shop floor when machinists quit?",
+    "CloudNC just raised $20M for autonomous CNC machining.",
+    "Its software programs toolpaths 95% faster than humans.",
+    "That means quoting work drops from days to hours.",
+    "Test it on one part—see the gap yourself."
+  ],
+  "thread_text": [
+    "1. Who’s Left?\n\nWhen a machinist quits, their know-how leaves too. CloudNC’s software captures that expertise so the shop floor keeps running.",
+    "2. The 20M Bet\n\nCloudNC just raised $20M to automate CNC machining. Investors are betting that software, not people, will drive the next wave of manufacturing.",
+    "3. 95% Faster\n\nTheir software programs toolpaths 95% faster than humans. A job that used to take days now takes hours, and the bottleneck disappears.",
+    "4. From Days to Hours\n\nQuoting work drops from days to hours. That speed lets shops take on more jobs and respond faster when customers ask for a price.",
+    "5. Your Move\n\nReady to see the gap? Test it on one part this week. If you run a shop, ask CloudNC for a trial on your most complex component."
+  ],
+  "video_script": [
+    "Who runs your shop when the machinist quits?",
+    "CloudNC raised $20 million for autonomous machining.",
+    "Their software programs toolpaths 95 percent faster.",
+    "Quoting drops from days to just hours.",
+    "Test it on one part, see the gap."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who’s Left?\n\nWhen a machinist quits, their know-how leaves too. CloudNC’s software captures that expertise so the shop floor keeps running.",
+        "2. The 20M Bet\n\nCloudNC just raised $20M to automate CNC machining. Investors are betting that software, not people, will drive the next wave of manufacturing.",
+        "3. 95% Faster\n\nTheir software programs toolpaths 95% faster than humans. A job that used to take days now takes hours, and the bottleneck disappears.",
+        "4. From Days to Hours\n\nQuoting work drops from days to hours. That speed lets shops take on more jobs and respond faster when customers ask for a price.",
+        "5. Your Move\n\nReady to see the gap? Test it on one part this week. If you run a shop, ask CloudNC for a trial on your most complex component."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Who runs your shop when the machinist quits?",
+        "CloudNC raised $20 million for autonomous machining.",
+        "Their software programs toolpaths 95 percent faster.",
+        "Quoting drops from days to just hours.",
+        "Test it on one part, see the gap."
+      ]
+    },
+    "instagram": {
+      "caption": "When a machinist retires or quits, the knowledge of how to cut that complex part walks out the door with them.  \n\nCloudNC just raised $20M to fix exactly that problem—by turning a machinist’s expertise into software that runs the CNC machines autonomously. Their system programs toolpaths 95% faster than a human can.  \n\nSo quoting a job drops from days to hours. That’s the difference between winning a contract and losing it to the shop down the road.  \n\nFor you, this means your most expensive bottleneck—skilled labor—is no longer a ceiling. The software captures what your best operator knows.  \n\nRun one real part through it this week and see if the gap is real. Would you trust it with your hardest job? ⚙️🕒💸"
+    }
+  },
+  "instagram_caption": "When a machinist retires or quits, the knowledge of how to cut that complex part walks out the door with them.  \n\nCloudNC just raised $20M to fix exactly that problem—by turning a machinist’s expertise into software that runs the CNC machines autonomously. Their system programs toolpaths 95% faster than a human can.  \n\nSo quoting a job drops from days to hours. That’s the difference between winning a contract and losing it to the shop down the road.  \n\nFor you, this means your most expensive bottleneck—skilled labor—is no longer a ceiling. The software captures what your best operator knows.  \n\nRun one real part through it this week and see if the gap is real. Would you trust it with your hardest job? ⚙️🕒💸",
+  "carousel_slides": [
+    {
+      "hook": "Machinist quits. Who runs the shop?",
+      "description": "CloudNC's software captures machinist expertise, so production never stops when experienced workers leave.",
+      "visual_hint": "Empty machine shop floor",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory floor machine"
+    },
+    {
+      "hook": "$20M to automate CNC machining",
+      "description": "Investors bet on software-driven manufacturing. CloudNC's autonomous systems aim to replace manual programming.",
+      "visual_hint": "Money and machine blend",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "CNC milling machine",
+      "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Toolpaths 95% faster than humans",
+      "description": "A job that took experts days now takes hours, freeing bottleneck capacity for more orders.",
+      "visual_hint": "Speed lines and gears",
+      "layout_type": "sensor-zoom",
+      "icon": "tag",
+      "image_query": "cutting tool closeup",
+      "image": "https://images.pexels.com/photos/28752021/pexels-photo-28752021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Quoting time: days → hours",
+      "description": "Respond to quotes in hours, not days. Shops can take on more work and win faster.",
+      "visual_hint": "Clock morphing into coin",
+      "layout_type": "human-hand",
+      "icon": "tag",
+      "image_query": "machine operator hand",
+      "image": "https://images.pexels.com/photos/11484626/pexels-photo-11484626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test it on one part this week",
+      "description": "Ready to see the gap? Ask CloudNC for a trial on your most complex component.",
+      "visual_hint": "Hand reaching for 'Trial' button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "CNC machine trial",
+      "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
+  "savedAt": "2026-09-09T08:30:00.333Z",
+  "sourceId": "3fee4ac4d036e7f3749c85055025cbb3"
+}

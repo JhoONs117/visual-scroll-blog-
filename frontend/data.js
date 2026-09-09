@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "cloudnc-raises-20m-to-automate-manufacturing-s-mos",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+    "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+    "pubDate": "Wed, 09 Sep 2026 04:01:00 +0000",
+    "slides": [
+      "Who automates the shop floor when machinists quit?",
+      "CloudNC just raised $20M for autonomous CNC machining.",
+      "Its software programs toolpaths 95% faster than humans.",
+      "That means quoting work drops from days to hours.",
+      "Test it on one part—see the gap yourself."
+    ],
+    "thread_text": [
+      "1. Who’s Left?\n\nWhen a machinist quits, their know-how leaves too. CloudNC’s software captures that expertise so the shop floor keeps running.",
+      "2. The 20M Bet\n\nCloudNC just raised $20M to automate CNC machining. Investors are betting that software, not people, will drive the next wave of manufacturing.",
+      "3. 95% Faster\n\nTheir software programs toolpaths 95% faster than humans. A job that used to take days now takes hours, and the bottleneck disappears.",
+      "4. From Days to Hours\n\nQuoting work drops from days to hours. That speed lets shops take on more jobs and respond faster when customers ask for a price.",
+      "5. Your Move\n\nReady to see the gap? Test it on one part this week. If you run a shop, ask CloudNC for a trial on your most complex component."
+    ],
+    "video_script": [
+      "Who runs your shop when the machinist quits?",
+      "CloudNC raised $20 million for autonomous machining.",
+      "Their software programs toolpaths 95 percent faster.",
+      "Quoting drops from days to just hours.",
+      "Test it on one part, see the gap."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who’s Left?\n\nWhen a machinist quits, their know-how leaves too. CloudNC’s software captures that expertise so the shop floor keeps running.",
+          "2. The 20M Bet\n\nCloudNC just raised $20M to automate CNC machining. Investors are betting that software, not people, will drive the next wave of manufacturing.",
+          "3. 95% Faster\n\nTheir software programs toolpaths 95% faster than humans. A job that used to take days now takes hours, and the bottleneck disappears.",
+          "4. From Days to Hours\n\nQuoting work drops from days to hours. That speed lets shops take on more jobs and respond faster when customers ask for a price.",
+          "5. Your Move\n\nReady to see the gap? Test it on one part this week. If you run a shop, ask CloudNC for a trial on your most complex component."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Who runs your shop when the machinist quits?",
+          "CloudNC raised $20 million for autonomous machining.",
+          "Their software programs toolpaths 95 percent faster.",
+          "Quoting drops from days to just hours.",
+          "Test it on one part, see the gap."
+        ]
+      },
+      "instagram": {
+        "caption": "When a machinist retires or quits, the knowledge of how to cut that complex part walks out the door with them.  \n\nCloudNC just raised $20M to fix exactly that problem—by turning a machinist’s expertise into software that runs the CNC machines autonomously. Their system programs toolpaths 95% faster than a human can.  \n\nSo quoting a job drops from days to hours. That’s the difference between winning a contract and losing it to the shop down the road.  \n\nFor you, this means your most expensive bottleneck—skilled labor—is no longer a ceiling. The software captures what your best operator knows.  \n\nRun one real part through it this week and see if the gap is real. Would you trust it with your hardest job? ⚙️🕒💸"
+      }
+    },
+    "instagram_caption": "When a machinist retires or quits, the knowledge of how to cut that complex part walks out the door with them.  \n\nCloudNC just raised $20M to fix exactly that problem—by turning a machinist’s expertise into software that runs the CNC machines autonomously. Their system programs toolpaths 95% faster than a human can.  \n\nSo quoting a job drops from days to hours. That’s the difference between winning a contract and losing it to the shop down the road.  \n\nFor you, this means your most expensive bottleneck—skilled labor—is no longer a ceiling. The software captures what your best operator knows.  \n\nRun one real part through it this week and see if the gap is real. Would you trust it with your hardest job? ⚙️🕒💸",
+    "carousel_slides": [
+      {
+        "hook": "Machinist quits. Who runs the shop?",
+        "description": "CloudNC's software captures machinist expertise, so production never stops when experienced workers leave.",
+        "visual_hint": "Empty machine shop floor",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory floor machine"
+      },
+      {
+        "hook": "$20M to automate CNC machining",
+        "description": "Investors bet on software-driven manufacturing. CloudNC's autonomous systems aim to replace manual programming.",
+        "visual_hint": "Money and machine blend",
+        "layout_type": "right-focus",
+        "icon": "tag",
+        "image_query": "CNC milling machine",
+        "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Toolpaths 95% faster than humans",
+        "description": "A job that took experts days now takes hours, freeing bottleneck capacity for more orders.",
+        "visual_hint": "Speed lines and gears",
+        "layout_type": "sensor-zoom",
+        "icon": "tag",
+        "image_query": "cutting tool closeup",
+        "image": "https://images.pexels.com/photos/28752021/pexels-photo-28752021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Quoting time: days → hours",
+        "description": "Respond to quotes in hours, not days. Shops can take on more work and win faster.",
+        "visual_hint": "Clock morphing into coin",
+        "layout_type": "human-hand",
+        "icon": "tag",
+        "image_query": "machine operator hand",
+        "image": "https://images.pexels.com/photos/11484626/pexels-photo-11484626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it on one part this week",
+        "description": "Ready to see the gap? Ask CloudNC for a trial on your most complex component.",
+        "visual_hint": "Hand reaching for 'Trial' button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "CNC machine trial",
+        "image": "https://images.pexels.com/photos/7480239/pexels-photo-7480239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
+    "savedAt": "2026-09-09T08:30:00.333Z",
+    "sourceId": "3fee4ac4d036e7f3749c85055025cbb3"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-weather-forecasting-enters-the-energy-market-as",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+    "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+    "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
+    "slides": [
+      "Who controls weather forecasts controls energy prices?",
+      "Google's WeatherNext 3 targets grid operators directly.",
+      "It predicts wind and solar output hours faster",
+      "Trading desks and utilities now face a new rival",
+      "Test it against your dispatch model this week."
+    ],
+    "thread_text": [
+      "1. Who controls the forecast?\n\nWeatherNext 3 doesn't just predict weather—it predicts power output. Grid operators using it can adjust energy buying hours earlier, shifting who sets prices.",
+      "2. The grid's new player\n\nGoogle is bypassing traditional forecasters, targeting utilities directly. This move puts a tech giant in the middle of energy trading—a space it never occupied before.",
+      "3. Speed changes the game\n\nWith predictions hours faster, trading desks lose their edge. Reaction time shrinks, making manual adjustments obsolete. The market now rewards algorithms over instinct.",
+      "4. Utilities face a choice\n\nAdopt WeatherNext 3 or risk falling behind. But integrating it into existing dispatch models isn't plug-and-play—it demands trust in AI where humans once decided.",
+      "5. Test it yourself this week\n\nRun your dispatch model against WeatherNext 3's predictions. If you haven't compared, how will you know if your forecasts are still competitive?"
+    ],
+    "video_script": [
+      "Weather forecasts now control energy prices.",
+      "Google's new tool predicts wind and solar.",
+      "Hours faster, trading desks lose their advantage.",
+      "Utilities must choose: adapt or fall behind.",
+      "Test it against your dispatch model this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who controls the forecast?\n\nWeatherNext 3 doesn't just predict weather—it predicts power output. Grid operators using it can adjust energy buying hours earlier, shifting who sets prices.",
+          "2. The grid's new player\n\nGoogle is bypassing traditional forecasters, targeting utilities directly. This move puts a tech giant in the middle of energy trading—a space it never occupied before.",
+          "3. Speed changes the game\n\nWith predictions hours faster, trading desks lose their edge. Reaction time shrinks, making manual adjustments obsolete. The market now rewards algorithms over instinct.",
+          "4. Utilities face a choice\n\nAdopt WeatherNext 3 or risk falling behind. But integrating it into existing dispatch models isn't plug-and-play—it demands trust in AI where humans once decided.",
+          "5. Test it yourself this week\n\nRun your dispatch model against WeatherNext 3's predictions. If you haven't compared, how will you know if your forecasts are still competitive?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Weather forecasts now control energy prices.",
+          "Google's new tool predicts wind and solar.",
+          "Hours faster, trading desks lose their advantage.",
+          "Utilities must choose: adapt or fall behind.",
+          "Test it against your dispatch model this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Wind and solar forecasts now move energy prices before the weather even happens.\n\nGoogle's WeatherNext 3 skips traditional forecasters and sells directly to grid operators. It predicts renewable output hours faster than current models, which means buying decisions shift earlier. Trading desks that relied on slower data are losing their reaction advantage, and utilities must decide whether to trust AI for dispatch choices.\n\nFor anyone producing market or energy content, the timeline for what's \"accurate\" just tightened — your sources may already be outdated.\n\nHave you compared your dispatch model against Google's output this week? If not, that gap is now a competitor."
+      }
+    },
+    "instagram_caption": "Wind and solar forecasts now move energy prices before the weather even happens.\n\nGoogle's WeatherNext 3 skips traditional forecasters and sells directly to grid operators. It predicts renewable output hours faster than current models, which means buying decisions shift earlier. Trading desks that relied on slower data are losing their reaction advantage, and utilities must decide whether to trust AI for dispatch choices.\n\nFor anyone producing market or energy content, the timeline for what's \"accurate\" just tightened — your sources may already be outdated.\n\nHave you compared your dispatch model against Google's output this week? If not, that gap is now a competitor.",
+    "carousel_slides": [
+      {
+        "hook": "Who controls forecasts, controls prices?",
+        "description": "WeatherNext 3 predicts wind and solar output hours faster. Grid operators adjust energy buying earlier, shifting who sets prices.",
+        "visual_hint": "Weather map with power lines",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "weather map power grid"
+      },
+      {
+        "hook": "Google targets grid operators directly.",
+        "description": "Google bypasses traditional forecasters. This puts a tech giant in energy trading, a space it never occupied before.",
+        "visual_hint": "Google logo over control room",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "grid control room",
+        "image": "https://images.pexels.com/photos/15528034/pexels-photo-15528034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Speed changes the trading game.",
+        "description": "With predictions hours faster, trading desks lose their edge. Manual adjustments become obsolete; algorithms now win.",
+        "visual_hint": "Clock and algorithm code overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "trading desk screen",
+        "image": "https://images.pexels.com/photos/39076656/pexels-photo-39076656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Utilities face a tough choice.",
+        "description": "Adopt WeatherNext 3 or risk falling behind. But integration demands trust in AI over human decisions.",
+        "visual_hint": "Hands holding tablet with AI graph",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person holding tablet",
+        "image": "https://images.pexels.com/photos/8511891/pexels-photo-8511891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test it against your model now.",
+        "description": "Run your dispatch model against WeatherNext 3's predictions. Compare this week to see if your forecasts are still competitive.",
+        "visual_hint": "Split screen comparison charts",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "comparison charts dashboard",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/27443349/pexels-photo-27443349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T08:29:48.544Z",
+    "sourceId": "55c707ee458ee052bbd049bf9578ae8f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "coca-cola-uses-ai-to-improve-retailer-ordering-in-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+    "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+    "pubDate": "Tue, 08 Sep 2026 10:00:00 +0000",
+    "slides": [
+      "Coca-Cola's AI ordering in Malaysia: is it working?",
+      "Retailers previously ordered via WhatsApp and calls.",
+      "AI agents now predict stock, but accuracy remains unclear.",
+      "Small shops see fewer stockouts, yet hidden complexities persist.",
+      "Test one AI suggestion manually before trusting it fully."
+    ],
+    "thread_text": [
+      "1. Is AI ordering real?\n\nCoca-Cola rolled out AI stock predictions for Malaysian retailers, but no one has verified the accuracy yet.",
+      "2. Shops still call humans\n\nEven with AI, small retailers fall back on WhatsApp and phone calls when predictions don't match shelf reality.",
+      "3. Stockouts down, trust not\n\nFewer empty shelves sounds good, but hidden complexities like seasonal demand or delivery delays remain unsolved.",
+      "4. The black box risk\n\nYou can’t see why the AI suggests an order—if it's wrong, you’re stuck with expired products or missed sales.",
+      "5. Test one suggestion yourself\n\nPick one product tomorrow, compare its AI order to your gut estimate. Who’s more accurate?"
+    ],
+    "video_script": [
+      "Coca-Cola's AI ordering in Malaysia.",
+      "Retailers used WhatsApp and calls before.",
+      "AI predicts stock, accuracy unclear.",
+      "Fewer stockouts, but hidden issues remain.",
+      "Manually test one AI suggestion first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Is AI ordering real?\n\nCoca-Cola rolled out AI stock predictions for Malaysian retailers, but no one has verified the accuracy yet.",
+          "2. Shops still call humans\n\nEven with AI, small retailers fall back on WhatsApp and phone calls when predictions don't match shelf reality.",
+          "3. Stockouts down, trust not\n\nFewer empty shelves sounds good, but hidden complexities like seasonal demand or delivery delays remain unsolved.",
+          "4. The black box risk\n\nYou can’t see why the AI suggests an order—if it's wrong, you’re stuck with expired products or missed sales.",
+          "5. Test one suggestion yourself\n\nPick one product tomorrow, compare its AI order to your gut estimate. Who’s more accurate?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Coca-Cola's AI ordering in Malaysia.",
+          "Retailers used WhatsApp and calls before.",
+          "AI predicts stock, accuracy unclear.",
+          "Fewer stockouts, but hidden issues remain.",
+          "Manually test one AI suggestion first."
+        ]
+      },
+      "instagram": {
+        "caption": "Malaysian shopkeepers are still dialing Coca-Cola on WhatsApp after an AI told them what to stock. 📞\n\nThe company rolled out AI ordering to predict inventory for small retailers. Stockouts dropped, but no one’s verified if the AI is actually right—or why it makes its calls. Seasonal spikes and delivery delays still trip it up.\n\nFor anyone building with AI: this is the gap between a demo and a daily driver. You can’t debug what you can’t explain.\n\nPick one product tomorrow. Compare the AI’s order to your own guess. Who’s wrong more often? 🤔"
+      }
+    },
+    "instagram_caption": "Malaysian shopkeepers are still dialing Coca-Cola on WhatsApp after an AI told them what to stock. 📞\n\nThe company rolled out AI ordering to predict inventory for small retailers. Stockouts dropped, but no one’s verified if the AI is actually right—or why it makes its calls. Seasonal spikes and delivery delays still trip it up.\n\nFor anyone building with AI: this is the gap between a demo and a daily driver. You can’t debug what you can’t explain.\n\nPick one product tomorrow. Compare the AI’s order to your own guess. Who’s wrong more often? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is AI ordering real?",
+        "description": "Coca-Cola launched AI stock predictions for Malaysian retailers, but no one has independently verified its accuracy yet.",
+        "visual_hint": "Coca-Cola bottles and AI",
+        "image_query": "coca cola bottles",
+        "layout_type": "hero",
+        "icon": "tag"
+      },
+      {
+        "hook": "Retailers still call humans",
+        "description": "Small shops fall back on WhatsApp and phone calls when AI predictions fail to match shelf reality.",
+        "visual_hint": "Smartphone with chat app",
+        "image_query": "smartphone chat app",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stockouts down, but trust?",
+        "description": "Fewer empty shelves sounds promising, yet seasonal demand and delivery delays remain unresolved.",
+        "visual_hint": "Store shelf and calendar",
+        "image_query": "store shelf calendar",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image": "https://images.pexels.com/photos/34654355/pexels-photo-34654355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why does it suggest that?",
+        "description": "AI decisions are opaque. A wrong suggestion means expired products or missed sales.",
+        "visual_hint": "Question mark over boxes",
+        "image_query": "question mark boxes",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image": "https://images.pexels.com/photos/12355987/pexels-photo-12355987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to test it yourself",
+        "description": "Pick one product, compare its AI order against your intuition. Know which to trust.",
+        "visual_hint": "Hand comparing product lists",
+        "image_query": "hand comparing lists",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/4113624/pexels-photo-4113624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T08:29:34.809Z",
+    "sourceId": "3fa6fdbf00ff71a34ff3a8f3fa24eaf5"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "arm-launches-total-design-for-physical-ai-and-robo",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Arm launches Total Design for Physical AI and robotics framework",
+    "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+    "pubDate": "Tue, 08 Sep 2026 11:44:10 +0000",
+    "slides": [
+      "Can Arm's Total Design actually tame Physical AI?",
+      "It expands its silicon ecosystem to robotics hardware.",
+      "Yet no single robot brain standard exists yet.",
+      "Your next design cycle must now consider Arm's blueprint.",
+      "Evaluate Total Design against your existing robotics stack today."
+    ],
+    "thread_text": [
+      "1. The Robot Brain Gap\n\nArm's Total Design expands its ecosystem to robotics, but no single standard for robot brains exists yet, leaving the field wide open.",
+      "2. Your Next Blueprint\n\nThis move means your next design cycle should consider Arm's blueprint, or risk being left behind in the robotics hardware race.",
+      "3. The Integration Question\n\nDoes Arm's Total Design play nice with your existing stack? Integration challenges could slow down your time-to-market.",
+      "4. The Ecosystem Play\n\nArm is betting on collaboration to solve the brain problem, but will that be enough to create a de facto standard?",
+      "5. Test It Today\n\nTake your current robotics project and map it against Arm's Total Design specs. Does it fit? If not, what's your plan B?"
+    ],
+    "video_script": [
+      "Arm's Total Design aims at robotics hardware.",
+      "But no robot brain standard exists yet.",
+      "Your next design cycle should consider Arm.",
+      "Evaluate integration with your existing stack today.",
+      "Will Arm's blueprint become the standard?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Robot Brain Gap\n\nArm's Total Design expands its ecosystem to robotics, but no single standard for robot brains exists yet, leaving the field wide open.",
+          "2. Your Next Blueprint\n\nThis move means your next design cycle should consider Arm's blueprint, or risk being left behind in the robotics hardware race.",
+          "3. The Integration Question\n\nDoes Arm's Total Design play nice with your existing stack? Integration challenges could slow down your time-to-market.",
+          "4. The Ecosystem Play\n\nArm is betting on collaboration to solve the brain problem, but will that be enough to create a de facto standard?",
+          "5. Test It Today\n\nTake your current robotics project and map it against Arm's Total Design specs. Does it fit? If not, what's your plan B?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Arm's Total Design aims at robotics hardware.",
+          "But no robot brain standard exists yet.",
+          "Your next design cycle should consider Arm.",
+          "Evaluate integration with your existing stack today.",
+          "Will Arm's blueprint become the standard?"
+        ]
+      },
+      "instagram": {
+        "caption": "Arm just expanded its chip ecosystem to cover robotics hardware, but there’s still no universal \"robot brain\" standard—so the field is up for grabs. 🤖\n\nTotal Design is Arm's blueprint for how robot components talk to each other, from sensors to processors. It's a bet that collaboration across the silicon industry will create a de facto framework, but integration with your existing stack isn't guaranteed. ⚙️\n\nFor you building robotics products, this means your next hardware design cycle now has a new reference point to evaluate—or risk building on a path that diverges from the ecosystem's momentum. 🔄\n\nPull up your current robot's architecture and map it against Arm's specs today. Where's the friction? 🛠️"
+      }
+    },
+    "instagram_caption": "Arm just expanded its chip ecosystem to cover robotics hardware, but there’s still no universal \"robot brain\" standard—so the field is up for grabs. 🤖\n\nTotal Design is Arm's blueprint for how robot components talk to each other, from sensors to processors. It's a bet that collaboration across the silicon industry will create a de facto framework, but integration with your existing stack isn't guaranteed. ⚙️\n\nFor you building robotics products, this means your next hardware design cycle now has a new reference point to evaluate—or risk building on a path that diverges from the ecosystem's momentum. 🔄\n\nPull up your current robot's architecture and map it against Arm's specs today. Where's the friction? 🛠️",
+    "carousel_slides": [
+      {
+        "hook": "No robot brain standard yet. Who wins?",
+        "description": "Arm's Total Design expands to robotics, but without a common intelligence standard, the field remains open—creating uncertainty for every hardware decision.",
+        "visual_hint": "Robotic arms with question marks overhead",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot"
+      },
+      {
+        "hook": "Your next design cycle hangs in balance",
+        "description": "With Arm's blueprint entering robotics hardware, ignoring it could leave your next product behind in the race—evaluate fit early.",
+        "visual_hint": "Gears and circuit traces merging",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "printed circuit board",
+        "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Will Total Design integrate with your stack?",
+        "description": "Integration challenges may slow time-to-market if Arm's Total Design doesn't align with your current robotic systems—test compatibility now.",
+        "visual_hint": "Puzzle pieces clicking together",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "robot sensors closeup",
+        "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Can collaboration create the robot brain?",
+        "description": "Arm bets on ecosystem collaboration to solve robot intelligence, but whether it becomes the de facto standard remains uncertain for developers.",
+        "visual_hint": "Network of connected nodes human-like",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "network connection",
+        "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ready to test alignment? Save this now",
+        "description": "Map your current robotics project against Arm's Total Design specs today. If it doesn't fit, plan B is essential—share this for later.",
+        "visual_hint": "Checklist and chip silhouette",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-09T08:29:22.616Z",
+    "sourceId": "508387c74ccf0e31c49a64cd205d9fc8"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
     "prompt_version": "1.0.0",
     "status": "published",

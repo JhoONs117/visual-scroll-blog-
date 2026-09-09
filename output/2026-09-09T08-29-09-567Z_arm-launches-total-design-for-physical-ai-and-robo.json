@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "arm-launches-total-design-for-physical-ai-and-robo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Arm launches Total Design for Physical AI and robotics framework",
+  "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+  "pubDate": "Tue, 08 Sep 2026 11:44:10 +0000",
+  "slides": [
+    "Can Arm's Total Design actually tame Physical AI?",
+    "It expands its silicon ecosystem to robotics hardware.",
+    "Yet no single robot brain standard exists yet.",
+    "Your next design cycle must now consider Arm's blueprint.",
+    "Evaluate Total Design against your existing robotics stack today."
+  ],
+  "thread_text": [
+    "1. The Robot Brain Gap\n\nArm's Total Design expands its ecosystem to robotics, but no single standard for robot brains exists yet, leaving the field wide open.",
+    "2. Your Next Blueprint\n\nThis move means your next design cycle should consider Arm's blueprint, or risk being left behind in the robotics hardware race.",
+    "3. The Integration Question\n\nDoes Arm's Total Design play nice with your existing stack? Integration challenges could slow down your time-to-market.",
+    "4. The Ecosystem Play\n\nArm is betting on collaboration to solve the brain problem, but will that be enough to create a de facto standard?",
+    "5. Test It Today\n\nTake your current robotics project and map it against Arm's Total Design specs. Does it fit? If not, what's your plan B?"
+  ],
+  "video_script": [
+    "Arm's Total Design aims at robotics hardware.",
+    "But no robot brain standard exists yet.",
+    "Your next design cycle should consider Arm.",
+    "Evaluate integration with your existing stack today.",
+    "Will Arm's blueprint become the standard?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Robot Brain Gap\n\nArm's Total Design expands its ecosystem to robotics, but no single standard for robot brains exists yet, leaving the field wide open.",
+        "2. Your Next Blueprint\n\nThis move means your next design cycle should consider Arm's blueprint, or risk being left behind in the robotics hardware race.",
+        "3. The Integration Question\n\nDoes Arm's Total Design play nice with your existing stack? Integration challenges could slow down your time-to-market.",
+        "4. The Ecosystem Play\n\nArm is betting on collaboration to solve the brain problem, but will that be enough to create a de facto standard?",
+        "5. Test It Today\n\nTake your current robotics project and map it against Arm's Total Design specs. Does it fit? If not, what's your plan B?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Arm's Total Design aims at robotics hardware.",
+        "But no robot brain standard exists yet.",
+        "Your next design cycle should consider Arm.",
+        "Evaluate integration with your existing stack today.",
+        "Will Arm's blueprint become the standard?"
+      ]
+    },
+    "instagram": {
+      "caption": "Arm just expanded its chip ecosystem to cover robotics hardware, but there’s still no universal \"robot brain\" standard—so the field is up for grabs. 🤖\n\nTotal Design is Arm's blueprint for how robot components talk to each other, from sensors to processors. It's a bet that collaboration across the silicon industry will create a de facto framework, but integration with your existing stack isn't guaranteed. ⚙️\n\nFor you building robotics products, this means your next hardware design cycle now has a new reference point to evaluate—or risk building on a path that diverges from the ecosystem's momentum. 🔄\n\nPull up your current robot's architecture and map it against Arm's specs today. Where's the friction? 🛠️"
+    }
+  },
+  "instagram_caption": "Arm just expanded its chip ecosystem to cover robotics hardware, but there’s still no universal \"robot brain\" standard—so the field is up for grabs. 🤖\n\nTotal Design is Arm's blueprint for how robot components talk to each other, from sensors to processors. It's a bet that collaboration across the silicon industry will create a de facto framework, but integration with your existing stack isn't guaranteed. ⚙️\n\nFor you building robotics products, this means your next hardware design cycle now has a new reference point to evaluate—or risk building on a path that diverges from the ecosystem's momentum. 🔄\n\nPull up your current robot's architecture and map it against Arm's specs today. Where's the friction? 🛠️",
+  "carousel_slides": [
+    {
+      "hook": "No robot brain standard yet. Who wins?",
+      "description": "Arm's Total Design expands to robotics, but without a common intelligence standard, the field remains open—creating uncertainty for every hardware decision.",
+      "visual_hint": "Robotic arms with question marks overhead",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Your next design cycle hangs in balance",
+      "description": "With Arm's blueprint entering robotics hardware, ignoring it could leave your next product behind in the race—evaluate fit early.",
+      "visual_hint": "Gears and circuit traces merging",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "printed circuit board",
+      "image": "https://images.pexels.com/photos/33798614/pexels-photo-33798614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Will Total Design integrate with your stack?",
+      "description": "Integration challenges may slow time-to-market if Arm's Total Design doesn't align with your current robotic systems—test compatibility now.",
+      "visual_hint": "Puzzle pieces clicking together",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot sensors closeup",
+      "image": "https://images.pexels.com/photos/29054364/pexels-photo-29054364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Can collaboration create the robot brain?",
+      "description": "Arm bets on ecosystem collaboration to solve robot intelligence, but whether it becomes the de facto standard remains uncertain for developers.",
+      "visual_hint": "Network of connected nodes human-like",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "network connection",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to test alignment? Save this now",
+      "description": "Map your current robotics project against Arm's Total Design specs today. If it doesn't fit, plan B is essential—share this for later.",
+      "visual_hint": "Checklist and chip silhouette",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-09T08:29:22.616Z",
+  "sourceId": "508387c74ccf0e31c49a64cd205d9fc8"
+}
