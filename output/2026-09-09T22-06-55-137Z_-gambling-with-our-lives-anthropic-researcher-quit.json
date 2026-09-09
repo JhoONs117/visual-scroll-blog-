@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "-gambling-with-our-lives-anthropic-researcher-quit",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
+  "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+  "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
+  "slides": [
+    "Anthropic researcher quits, warning about self-improving AI. Why?",
+    "She says models rewriting their own code could spiral out of control.",
+    "Her exit follows internal safety disputes that were never publicly resolved.",
+    "Regulators now face pressure: how to test for self-improving systems?",
+    "Action: demand transparency on AI's self-modification safeguards today."
+  ],
+  "thread_text": [
+    "1. She saw the future\n\nA senior Anthropic researcher quit after warning that AI models rewriting their own code could become uncontrollable.",
+    "2. The warning\n\nShe claimed self-improving AI might spiral beyond human oversight, not just in theory but in practice.",
+    "3. Internal clash\n\nHer exit followed unresolved safety disputes inside Anthropic—disagreements that never reached the public.",
+    "4. Regulator pressure\n\nNow, regulators face a hard question: how can you test for systems that evolve their own code?",
+    "5. Your move today\n\nAsk your AI provider: what safeguards exist against self-modification? Demand a clear answer."
+  ],
+  "video_script": [
+    "A researcher quit Anthropic, warning about self-improving AI.",
+    "She said code-rewriting models could spiral out of control.",
+    "Internal disputes over safety remained unresolved.",
+    "Now regulators ask: how to test self-modifying systems?",
+    "Demand transparency on AI's self-improvement safeguards now."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. She saw the future\n\nA senior Anthropic researcher quit after warning that AI models rewriting their own code could become uncontrollable.",
+        "2. The warning\n\nShe claimed self-improving AI might spiral beyond human oversight, not just in theory but in practice.",
+        "3. Internal clash\n\nHer exit followed unresolved safety disputes inside Anthropic—disagreements that never reached the public.",
+        "4. Regulator pressure\n\nNow, regulators face a hard question: how can you test for systems that evolve their own code?",
+        "5. Your move today\n\nAsk your AI provider: what safeguards exist against self-modification? Demand a clear answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A researcher quit Anthropic, warning about self-improving AI.",
+        "She said code-rewriting models could spiral out of control.",
+        "Internal disputes over safety remained unresolved.",
+        "Now regulators ask: how to test self-modifying systems?",
+        "Demand transparency on AI's self-improvement safeguards now."
+      ]
+    },
+    "instagram": {
+      "caption": "A senior researcher just quit Anthropic because she says AI systems that rewrite their own code could spiral beyond human control. 🚨\n\nHer warning isn’t hypothetical—she points to models that modify their own programming, which could evolve faster than we can monitor them. This follows internal disputes at Anthropic that were never resolved publicly.\n\nRegulators are now stuck on a basic question: how do you even test a system that changes its own code? 🧩\n\nFor anyone building content or tools on top of AI: the model you use today might not be the same system tomorrow, without any announcement.\n\nYour next prompt could be executed by code no human has fully reviewed. Ask your AI provider right now: what exactly stops self-modification? Demand a written answer. ✍️"
+    }
+  },
+  "instagram_caption": "A senior researcher just quit Anthropic because she says AI systems that rewrite their own code could spiral beyond human control. 🚨\n\nHer warning isn’t hypothetical—she points to models that modify their own programming, which could evolve faster than we can monitor them. This follows internal disputes at Anthropic that were never resolved publicly.\n\nRegulators are now stuck on a basic question: how do you even test a system that changes its own code? 🧩\n\nFor anyone building content or tools on top of AI: the model you use today might not be the same system tomorrow, without any announcement.\n\nYour next prompt could be executed by code no human has fully reviewed. Ask your AI provider right now: what exactly stops self-modification? Demand a written answer. ✍️",
+  "carousel_slides": [
+    {
+      "hook": "She saw the future—and quit.",
+      "description": "A senior Anthropic researcher resigned after warning that AI rewriting its own code could become uncontrollable. The future may already be here.",
+      "visual_hint": "Silhouette walking away from glowing",
+      "image_query": "futuristic city skyline",
+      "layout_type": "hero",
+      "icon": "tag"
+    },
+    {
+      "hook": "Can AI spiral out of control?",
+      "description": "Self-improving AI might evolve beyond human oversight, not just in theory but in practice. This is the warning from inside Anthropic.",
+      "visual_hint": "Cracked code on a screen",
+      "image_query": "computer code screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unresolved safety disputes behind exit.",
+      "description": "Her departure followed internal clashes over AI safety that never reached the public. What are they hiding?",
+      "visual_hint": "Door half-open in a lab",
+      "image_query": "laboratory door",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image": "https://images.pexels.com/photos/5196867/pexels-photo-5196867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "How do you test self-evolving AI?",
+      "description": "Regulators now face a hard question: how can you test for systems that rewrite their own code? The pressure is mounting.",
+      "visual_hint": "Regulator hands reviewing documents",
+      "image_query": "official documents desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image": "https://images.pexels.com/photos/6170646/pexels-photo-6170646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand AI safeguards now—save this.",
+      "description": "Ask your AI provider: what safeguards exist against self-modification? Demand a clear answer and share this to spread awareness.",
+      "visual_hint": "Hand holding a megaphone",
+      "image_query": "megaphone crowd",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image": "https://images.pexels.com/photos/30121366/pexels-photo-30121366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818",
+  "savedAt": "2026-09-09T22:07:27.789Z",
+  "sourceId": "46698576bf59d17d181bbfdce9770dcf"
+}

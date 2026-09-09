@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "apple-ceo-john-ternus-says-the-best-ai-device-is-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+  "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+  "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
+  "slides": [
+    "Can Apple's next CEO keep iPhone the AI king?",
+    "Ternus bets on on-device AI, not cloud giants.",
+    "Surprise: most AI tasks need no internet at all.",
+    "Your privacy becomes the feature rivals cannot copy.",
+    "Test Siri offline today; decide if he is right."
+  ],
+  "thread_text": [
+    "1. Who inherits the AI crown?\n\nApple's next CEO won't be chosen by the board alone. The market will decide if on-device AI can outshine cloud giants like OpenAI and Google.",
+    "2. No internet? No problem.\n\nTernus claims most AI tasks—from image recognition to voice commands—run fully on the chip. That's a radical shift, but does it hold up under real-world tests?",
+    "3. Privacy sells itself.\n\nWhen your data never leaves the phone, rivals can't clone the feature. Apple's secret weapon isn't speed—it's the absence of cloud dependence.",
+    "4. The catch is hardware.\n\nOn-device AI demands beefier chips and more memory—costs that will hit your wallet. Is the trade-off worth skipping the cloud's endless upgrades?",
+    "5. Test Siri offline today.\n\nTake your iPhone, switch off Wi-Fi and cellular, then ask Siri a complex question. Does it meet the hype, or is Ternus betting on a broken promise?"
+  ],
+  "video_script": [
+    "Apple's next CEO bets on offline AI.",
+    "No cloud needed for most tasks.",
+    "Privacy becomes the unstoppable selling point.",
+    "But hardware costs might surprise you.",
+    "Try Siri offline now and judge."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who inherits the AI crown?\n\nApple's next CEO won't be chosen by the board alone. The market will decide if on-device AI can outshine cloud giants like OpenAI and Google.",
+        "2. No internet? No problem.\n\nTernus claims most AI tasks—from image recognition to voice commands—run fully on the chip. That's a radical shift, but does it hold up under real-world tests?",
+        "3. Privacy sells itself.\n\nWhen your data never leaves the phone, rivals can't clone the feature. Apple's secret weapon isn't speed—it's the absence of cloud dependence.",
+        "4. The catch is hardware.\n\nOn-device AI demands beefier chips and more memory—costs that will hit your wallet. Is the trade-off worth skipping the cloud's endless upgrades?",
+        "5. Test Siri offline today.\n\nTake your iPhone, switch off Wi-Fi and cellular, then ask Siri a complex question. Does it meet the hype, or is Ternus betting on a broken promise?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple's next CEO bets on offline AI.",
+        "No cloud needed for most tasks.",
+        "Privacy becomes the unstoppable selling point.",
+        "But hardware costs might surprise you.",
+        "Try Siri offline now and judge."
+      ]
+    },
+    "instagram": {
+      "caption": "Your next iPhone might handle AI without ever touching the cloud.\n\nApple’s next CEO, John Ternus, is betting the crown on on-device AI—claiming most tasks like image recognition and voice commands run entirely on the chip. No Wi-Fi, no cellular, no Google or OpenAI in the loop. That turns privacy into a feature no rival can clone, since your data physically never leaves your pocket.\n\nThe cost? Beefier silicon and more memory—so expect pricier upgrades.\n\nFor you, that means faster, private tools that won't lag on a weak signal. But only if the hardware delivers.\n\nSwitch off Wi-Fi and cellular, ask Siri a complex question today—does it hold up under your real-world test? 📱🔒🤔"
+    }
+  },
+  "instagram_caption": "Your next iPhone might handle AI without ever touching the cloud.\n\nApple’s next CEO, John Ternus, is betting the crown on on-device AI—claiming most tasks like image recognition and voice commands run entirely on the chip. No Wi-Fi, no cellular, no Google or OpenAI in the loop. That turns privacy into a feature no rival can clone, since your data physically never leaves your pocket.\n\nThe cost? Beefier silicon and more memory—so expect pricier upgrades.\n\nFor you, that means faster, private tools that won't lag on a weak signal. But only if the hardware delivers.\n\nSwitch off Wi-Fi and cellular, ask Siri a complex question today—does it hold up under your real-world test? 📱🔒🤔",
+  "carousel_slides": [
+    {
+      "hook": "What if AI works without internet?",
+      "description": "Apple's next CEO says most AI tasks run fully on the chip, no cloud needed. That would change everything—if it holds up in real life.",
+      "visual_hint": "Smartphone with glowing neural network",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone circuit board"
+    },
+    {
+      "hook": "No Internet? No problem.",
+      "description": "Ternus bets on on-device processing for image recognition and voice commands. But can it match cloud giants like OpenAI and Google?",
+      "visual_hint": "Phone with Wi-Fi symbol crossed out",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "airplane mode icon",
+      "image": "https://images.pexels.com/photos/8204884/pexels-photo-8204884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Privacy becomes the killer feature.",
+      "description": "When data never leaves your phone, rivals can't copy that. Apple's advantage isn't speed—it's the absence of cloud dependence.",
+      "visual_hint": "Lock icon over phone, data stays inside",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "privacy lock smartphone",
+      "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Chips get beefier, wallets lighter.",
+      "description": "On-device AI demands more powerful hardware and memory. You'll pay for that upgrade—is skipping cloud worth the extra cost?",
+      "visual_hint": "Hand holding credit card near chip",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "credit card payment",
+      "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Siri offline today—then decide.",
+      "description": "Switch off Wi-Fi and cellular, ask Siri a complex question. Does it deliver or disappoint? Share your result in the comments.",
+      "visual_hint": "Finger pressing Siri button, no bars",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone siri voice",
+      "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
+  "savedAt": "2026-09-09T22:07:17.506Z",
+  "sourceId": "974e0dc97a17fbfc15867ce2f038e84c"
+}

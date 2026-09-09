@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "suno-releases-its-first-ai-music-model-made-with-r",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Suno releases its first AI music model made with record industry help",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "pubDate": "2026-09-09T21:42:19.000Z",
+    "slides": [
+      "Can Suno's model settle music's AI war?",
+      "It trained with labels, not just on them.",
+      "Artists may earn royalties for machine-made tracks.",
+      "Your next song could be licensed through Suno.",
+      "Don't start a session until you check rights."
+    ],
+    "thread_text": [
+      "1. AI music just got a label deal\n\nSuno trained on copyrighted songs — now it's paying labels, not fighting them. That's the first real settlement in the streaming wars.",
+      "2. How royalties shift overnight\n\nArtists get a cut even when they didn't write the track. The label's catalog becomes the training set, and every machine-made song triggers a payment.",
+      "3. Your next favorite is licensed\n\nSuno's output can be used commercially, but only if the rights check passes. A generated melody might already owe money to a human you've never heard of.",
+      "4. The rights check is the gate\n\nBefore you hit 'generate', the system scans for protected elements. If it finds a match, your session stops — or you agree to pay. No more stealth sampling.",
+      "5. Test it this week\n\nOpen Suno and type a prompt that quotes a lyric you know. Watch the rights warning appear. Would you still publish that track on Spotify?"
+    ],
+    "video_script": [
+      "Suno pays labels for AI tracks now.",
+      "Artists earn royalties without writing songs.",
+      "Machine music gets licensed through the catalog.",
+      "Check rights before starting any session.",
+      "Try a lyric prompt, see the warning."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. AI music just got a label deal\n\nSuno trained on copyrighted songs — now it's paying labels, not fighting them. That's the first real settlement in the streaming wars.",
+          "2. How royalties shift overnight\n\nArtists get a cut even when they didn't write the track. The label's catalog becomes the training set, and every machine-made song triggers a payment.",
+          "3. Your next favorite is licensed\n\nSuno's output can be used commercially, but only if the rights check passes. A generated melody might already owe money to a human you've never heard of.",
+          "4. The rights check is the gate\n\nBefore you hit 'generate', the system scans for protected elements. If it finds a match, your session stops — or you agree to pay. No more stealth sampling.",
+          "5. Test it this week\n\nOpen Suno and type a prompt that quotes a lyric you know. Watch the rights warning appear. Would you still publish that track on Spotify?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Suno pays labels for AI tracks now.",
+          "Artists earn royalties without writing songs.",
+          "Machine music gets licensed through the catalog.",
+          "Check rights before starting any session.",
+          "Try a lyric prompt, see the warning."
+        ]
+      },
+      "instagram": {
+        "caption": "Music streaming's biggest fight just found a payout button: Suno trained on copyrighted songs and now pays labels instead of dodging them.\n\nArtists earn royalties even on tracks they never wrote. Every machine-made melody triggers a payment to humans behind the source material.\n\nLabels' catalogs became the training set, and every generation scans for protected elements before you hit play. If it finds a match, your session stops or you pay up.\n\nSo before you publish that Suno track, the rights check already decided your bill. 🎵\n\nOpen Suno, type a prompt quoting a lyric you know, and watch the warning appear. Would you still upload that result to Spotify? 💿"
+      }
+    },
+    "instagram_caption": "Music streaming's biggest fight just found a payout button: Suno trained on copyrighted songs and now pays labels instead of dodging them.\n\nArtists earn royalties even on tracks they never wrote. Every machine-made melody triggers a payment to humans behind the source material.\n\nLabels' catalogs became the training set, and every generation scans for protected elements before you hit play. If it finds a match, your session stops or you pay up.\n\nSo before you publish that Suno track, the rights check already decided your bill. 🎵\n\nOpen Suno, type a prompt quoting a lyric you know, and watch the warning appear. Would you still upload that result to Spotify? 💿",
+    "carousel_slides": [
+      {
+        "hook": "Music's AI war just got a truce",
+        "description": "Suno trained on hit songs and now pays labels instead of fighting them. First real settlement in streaming's AI battle.",
+        "visual_hint": "Handshake between robot and human",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "recording studio console"
+      },
+      {
+        "hook": "Royalties now flow to artists",
+        "description": "Even if a human never wrote a machine-made track, the label's catalog triggers payments. Every generated melody owes someone.",
+        "visual_hint": "Music note with dollar signs",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sheet music closeup",
+        "image": "https://images.pexels.com/photos/18940650/pexels-photo-18940650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next favorite is licensed",
+        "description": "Suno's commercial output only works if rights check passes. A melody might owe royalty to a stranger you never met.",
+        "visual_hint": "Magnifying glass on contract",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass contract",
+        "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rights check blocks stealth sampling",
+        "description": "If your prompt quotes a protected lyric, the session stops or you pay. No more hidden borrows from famous tracks.",
+        "visual_hint": "Stop sign with music note",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "stop sign road",
+        "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Try it and see the warning",
+        "description": "Open Suno, type a lyric you know, and hit generate. Watch the rights notice appear—then decide if you'd still release it.",
+        "visual_hint": "Finger on smartphone screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone closeup",
+        "image": "https://images.pexels.com/photos/12969045/pexels-photo-12969045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-09-09T22:07:39.532Z",
+    "sourceId": "65f77bd4eb92a79746bd51e2917797ec"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "-gambling-with-our-lives-anthropic-researcher-quit",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
+    "slides": [
+      "Anthropic researcher quits, warning about self-improving AI. Why?",
+      "She says models rewriting their own code could spiral out of control.",
+      "Her exit follows internal safety disputes that were never publicly resolved.",
+      "Regulators now face pressure: how to test for self-improving systems?",
+      "Action: demand transparency on AI's self-modification safeguards today."
+    ],
+    "thread_text": [
+      "1. She saw the future\n\nA senior Anthropic researcher quit after warning that AI models rewriting their own code could become uncontrollable.",
+      "2. The warning\n\nShe claimed self-improving AI might spiral beyond human oversight, not just in theory but in practice.",
+      "3. Internal clash\n\nHer exit followed unresolved safety disputes inside Anthropic—disagreements that never reached the public.",
+      "4. Regulator pressure\n\nNow, regulators face a hard question: how can you test for systems that evolve their own code?",
+      "5. Your move today\n\nAsk your AI provider: what safeguards exist against self-modification? Demand a clear answer."
+    ],
+    "video_script": [
+      "A researcher quit Anthropic, warning about self-improving AI.",
+      "She said code-rewriting models could spiral out of control.",
+      "Internal disputes over safety remained unresolved.",
+      "Now regulators ask: how to test self-modifying systems?",
+      "Demand transparency on AI's self-improvement safeguards now."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. She saw the future\n\nA senior Anthropic researcher quit after warning that AI models rewriting their own code could become uncontrollable.",
+          "2. The warning\n\nShe claimed self-improving AI might spiral beyond human oversight, not just in theory but in practice.",
+          "3. Internal clash\n\nHer exit followed unresolved safety disputes inside Anthropic—disagreements that never reached the public.",
+          "4. Regulator pressure\n\nNow, regulators face a hard question: how can you test for systems that evolve their own code?",
+          "5. Your move today\n\nAsk your AI provider: what safeguards exist against self-modification? Demand a clear answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "A researcher quit Anthropic, warning about self-improving AI.",
+          "She said code-rewriting models could spiral out of control.",
+          "Internal disputes over safety remained unresolved.",
+          "Now regulators ask: how to test self-modifying systems?",
+          "Demand transparency on AI's self-improvement safeguards now."
+        ]
+      },
+      "instagram": {
+        "caption": "A senior researcher just quit Anthropic because she says AI systems that rewrite their own code could spiral beyond human control. 🚨\n\nHer warning isn’t hypothetical—she points to models that modify their own programming, which could evolve faster than we can monitor them. This follows internal disputes at Anthropic that were never resolved publicly.\n\nRegulators are now stuck on a basic question: how do you even test a system that changes its own code? 🧩\n\nFor anyone building content or tools on top of AI: the model you use today might not be the same system tomorrow, without any announcement.\n\nYour next prompt could be executed by code no human has fully reviewed. Ask your AI provider right now: what exactly stops self-modification? Demand a written answer. ✍️"
+      }
+    },
+    "instagram_caption": "A senior researcher just quit Anthropic because she says AI systems that rewrite their own code could spiral beyond human control. 🚨\n\nHer warning isn’t hypothetical—she points to models that modify their own programming, which could evolve faster than we can monitor them. This follows internal disputes at Anthropic that were never resolved publicly.\n\nRegulators are now stuck on a basic question: how do you even test a system that changes its own code? 🧩\n\nFor anyone building content or tools on top of AI: the model you use today might not be the same system tomorrow, without any announcement.\n\nYour next prompt could be executed by code no human has fully reviewed. Ask your AI provider right now: what exactly stops self-modification? Demand a written answer. ✍️",
+    "carousel_slides": [
+      {
+        "hook": "She saw the future—and quit.",
+        "description": "A senior Anthropic researcher resigned after warning that AI rewriting its own code could become uncontrollable. The future may already be here.",
+        "visual_hint": "Silhouette walking away from glowing",
+        "image_query": "futuristic city skyline",
+        "layout_type": "hero",
+        "icon": "tag"
+      },
+      {
+        "hook": "Can AI spiral out of control?",
+        "description": "Self-improving AI might evolve beyond human oversight, not just in theory but in practice. This is the warning from inside Anthropic.",
+        "visual_hint": "Cracked code on a screen",
+        "image_query": "computer code screen",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Unresolved safety disputes behind exit.",
+        "description": "Her departure followed internal clashes over AI safety that never reached the public. What are they hiding?",
+        "visual_hint": "Door half-open in a lab",
+        "image_query": "laboratory door",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image": "https://images.pexels.com/photos/5196867/pexels-photo-5196867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "How do you test self-evolving AI?",
+        "description": "Regulators now face a hard question: how can you test for systems that rewrite their own code? The pressure is mounting.",
+        "visual_hint": "Regulator hands reviewing documents",
+        "image_query": "official documents desk",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image": "https://images.pexels.com/photos/6170646/pexels-photo-6170646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand AI safeguards now—save this.",
+        "description": "Ask your AI provider: what safeguards exist against self-modification? Demand a clear answer and share this to spread awareness.",
+        "visual_hint": "Hand holding a megaphone",
+        "image_query": "megaphone crowd",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image": "https://images.pexels.com/photos/30121366/pexels-photo-30121366.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818",
+    "savedAt": "2026-09-09T22:07:27.789Z",
+    "sourceId": "46698576bf59d17d181bbfdce9770dcf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-ceo-john-ternus-says-the-best-ai-device-is-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
+    "slides": [
+      "Can Apple's next CEO keep iPhone the AI king?",
+      "Ternus bets on on-device AI, not cloud giants.",
+      "Surprise: most AI tasks need no internet at all.",
+      "Your privacy becomes the feature rivals cannot copy.",
+      "Test Siri offline today; decide if he is right."
+    ],
+    "thread_text": [
+      "1. Who inherits the AI crown?\n\nApple's next CEO won't be chosen by the board alone. The market will decide if on-device AI can outshine cloud giants like OpenAI and Google.",
+      "2. No internet? No problem.\n\nTernus claims most AI tasks—from image recognition to voice commands—run fully on the chip. That's a radical shift, but does it hold up under real-world tests?",
+      "3. Privacy sells itself.\n\nWhen your data never leaves the phone, rivals can't clone the feature. Apple's secret weapon isn't speed—it's the absence of cloud dependence.",
+      "4. The catch is hardware.\n\nOn-device AI demands beefier chips and more memory—costs that will hit your wallet. Is the trade-off worth skipping the cloud's endless upgrades?",
+      "5. Test Siri offline today.\n\nTake your iPhone, switch off Wi-Fi and cellular, then ask Siri a complex question. Does it meet the hype, or is Ternus betting on a broken promise?"
+    ],
+    "video_script": [
+      "Apple's next CEO bets on offline AI.",
+      "No cloud needed for most tasks.",
+      "Privacy becomes the unstoppable selling point.",
+      "But hardware costs might surprise you.",
+      "Try Siri offline now and judge."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Who inherits the AI crown?\n\nApple's next CEO won't be chosen by the board alone. The market will decide if on-device AI can outshine cloud giants like OpenAI and Google.",
+          "2. No internet? No problem.\n\nTernus claims most AI tasks—from image recognition to voice commands—run fully on the chip. That's a radical shift, but does it hold up under real-world tests?",
+          "3. Privacy sells itself.\n\nWhen your data never leaves the phone, rivals can't clone the feature. Apple's secret weapon isn't speed—it's the absence of cloud dependence.",
+          "4. The catch is hardware.\n\nOn-device AI demands beefier chips and more memory—costs that will hit your wallet. Is the trade-off worth skipping the cloud's endless upgrades?",
+          "5. Test Siri offline today.\n\nTake your iPhone, switch off Wi-Fi and cellular, then ask Siri a complex question. Does it meet the hype, or is Ternus betting on a broken promise?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple's next CEO bets on offline AI.",
+          "No cloud needed for most tasks.",
+          "Privacy becomes the unstoppable selling point.",
+          "But hardware costs might surprise you.",
+          "Try Siri offline now and judge."
+        ]
+      },
+      "instagram": {
+        "caption": "Your next iPhone might handle AI without ever touching the cloud.\n\nApple’s next CEO, John Ternus, is betting the crown on on-device AI—claiming most tasks like image recognition and voice commands run entirely on the chip. No Wi-Fi, no cellular, no Google or OpenAI in the loop. That turns privacy into a feature no rival can clone, since your data physically never leaves your pocket.\n\nThe cost? Beefier silicon and more memory—so expect pricier upgrades.\n\nFor you, that means faster, private tools that won't lag on a weak signal. But only if the hardware delivers.\n\nSwitch off Wi-Fi and cellular, ask Siri a complex question today—does it hold up under your real-world test? 📱🔒🤔"
+      }
+    },
+    "instagram_caption": "Your next iPhone might handle AI without ever touching the cloud.\n\nApple’s next CEO, John Ternus, is betting the crown on on-device AI—claiming most tasks like image recognition and voice commands run entirely on the chip. No Wi-Fi, no cellular, no Google or OpenAI in the loop. That turns privacy into a feature no rival can clone, since your data physically never leaves your pocket.\n\nThe cost? Beefier silicon and more memory—so expect pricier upgrades.\n\nFor you, that means faster, private tools that won't lag on a weak signal. But only if the hardware delivers.\n\nSwitch off Wi-Fi and cellular, ask Siri a complex question today—does it hold up under your real-world test? 📱🔒🤔",
+    "carousel_slides": [
+      {
+        "hook": "What if AI works without internet?",
+        "description": "Apple's next CEO says most AI tasks run fully on the chip, no cloud needed. That would change everything—if it holds up in real life.",
+        "visual_hint": "Smartphone with glowing neural network",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone circuit board"
+      },
+      {
+        "hook": "No Internet? No problem.",
+        "description": "Ternus bets on on-device processing for image recognition and voice commands. But can it match cloud giants like OpenAI and Google?",
+        "visual_hint": "Phone with Wi-Fi symbol crossed out",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "airplane mode icon",
+        "image": "https://images.pexels.com/photos/8204884/pexels-photo-8204884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Privacy becomes the killer feature.",
+        "description": "When data never leaves your phone, rivals can't copy that. Apple's advantage isn't speed—it's the absence of cloud dependence.",
+        "visual_hint": "Lock icon over phone, data stays inside",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "privacy lock smartphone",
+        "image": "https://images.pexels.com/photos/36750789/pexels-photo-36750789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Chips get beefier, wallets lighter.",
+        "description": "On-device AI demands more powerful hardware and memory. You'll pay for that upgrade—is skipping cloud worth the extra cost?",
+        "visual_hint": "Hand holding credit card near chip",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "credit card payment",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Siri offline today—then decide.",
+        "description": "Switch off Wi-Fi and cellular, ask Siri a complex question. Does it deliver or disappoint? Share your result in the comments.",
+        "visual_hint": "Finger pressing Siri button, no bars",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone siri voice",
+        "image": "https://images.pexels.com/photos/5083215/pexels-photo-5083215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
+    "savedAt": "2026-09-09T22:07:17.506Z",
+    "sourceId": "974e0dc97a17fbfc15867ce2f038e84c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "apple-watch-s-new-ai-features-are-normalizing-the-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+    "slides": [
+      "Your watch just heard you. Who knows that?",
+      "New Apple Watch AI processes speech on-device.",
+      "Yet it still shares data with Apple servers.",
+      "Now private moments become training data silently.",
+      "Check your privacy settings before your next whisper."
+    ],
+    "thread_text": [
+      "1. Your watch is listening.\n\nApple's new Watch AI runs speech recognition on-device—but that doesn't mean it stays there.",
+      "2. The data detour.\n\nEven with on-device processing, your voice snippets still sync to Apple servers for analysis, not just backup.",
+      "3. Silence isn't private.\n\nServer-side processing means your 'private' moments can become anonymous training data without a pop-up telling you.",
+      "4. Your settings hide the truth.\n\nMost users never see the 'Improve Siri & Dictation' toggle—it's buried and often enabled by default.",
+      "5. Stop your next whisper.\n\nGo to Settings > Privacy > Speech Recognition and switch off 'Share Audio.' Do it before your next conversation."
+    ],
+    "video_script": [
+      "Your watch hears more than you think.",
+      "Apple says it's private, on-device AI.",
+      "But data still flows to their servers.",
+      "Your quiet chats become training fodder.",
+      "Turn off audio sharing in settings today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your watch is listening.\n\nApple's new Watch AI runs speech recognition on-device—but that doesn't mean it stays there.",
+          "2. The data detour.\n\nEven with on-device processing, your voice snippets still sync to Apple servers for analysis, not just backup.",
+          "3. Silence isn't private.\n\nServer-side processing means your 'private' moments can become anonymous training data without a pop-up telling you.",
+          "4. Your settings hide the truth.\n\nMost users never see the 'Improve Siri & Dictation' toggle—it's buried and often enabled by default.",
+          "5. Stop your next whisper.\n\nGo to Settings > Privacy > Speech Recognition and switch off 'Share Audio.' Do it before your next conversation."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Your watch hears more than you think.",
+          "Apple says it's private, on-device AI.",
+          "But data still flows to their servers.",
+          "Your quiet chats become training fodder.",
+          "Turn off audio sharing in settings today."
+        ]
+      },
+      "instagram": {
+        "caption": "Your watch just heard you—now who else knows?  \n\nApple’s new Watch AI processes speech on your wrist, but your voice clips still sync to Apple servers. That “private” moment you whispered? It can become anonymous training data without any pop-up warning. The toggle to stop it—called “Share Audio”—is buried in Settings > Privacy > Speech Recognition and often enabled by default.  \n\nIf you record conversations or dictate drafts, assume that audio isn’t yours alone anymore. One silent server sync turns your raw material into their model.  \n\nBefore your next whisper, check that toggle. Or ask yourself: how many private phrases have you already handed over? 🎙️🔇📱"
+      }
+    },
+    "instagram_caption": "Your watch just heard you—now who else knows?  \n\nApple’s new Watch AI processes speech on your wrist, but your voice clips still sync to Apple servers. That “private” moment you whispered? It can become anonymous training data without any pop-up warning. The toggle to stop it—called “Share Audio”—is buried in Settings > Privacy > Speech Recognition and often enabled by default.  \n\nIf you record conversations or dictate drafts, assume that audio isn’t yours alone anymore. One silent server sync turns your raw material into their model.  \n\nBefore your next whisper, check that toggle. Or ask yourself: how many private phrases have you already handed over? 🎙️🔇📱",
+    "carousel_slides": [
+      {
+        "hook": "Your watch heard you. Who knows?",
+        "description": "Apple Watch's new AI processes speech on-device, but your voice data may still sync to servers for analysis, turning private moments into training data.",
+        "visual_hint": "Watch with sound waves",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple watch on wrist"
+      },
+      {
+        "hook": "On-device isn't private.",
+        "description": "Even with on-device processing, voice snippets sync to Apple servers for analysis—not just backup. That means your 'private' conversations leave your device.",
+        "visual_hint": "Data flowing from watch",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Silence isn't private.",
+        "description": "Server-side processing can use your voice as anonymous training data without a pop-up. Your private moments become part of AI without your explicit consent.",
+        "visual_hint": "Ear with digital overlay",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sound wave microphone",
+        "image": "https://images.pexels.com/photos/8132528/pexels-photo-8132528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Settings hide the truth.",
+        "description": "The 'Improve Siri & Dictation' toggle is buried and often enabled by default. Most users never see it—so your data is shared without awareness.",
+        "visual_hint": "Finger navigating settings",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "iphone settings screen",
+        "image": "https://images.pexels.com/photos/7745561/pexels-photo-7745561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this to check settings.",
+        "description": "Go to Settings > Privacy > Speech Recognition and switch off 'Share Audio.' Do it now before your next private conversation.",
+        "visual_hint": "Arrow pointing to toggle",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings phone",
+        "image": "https://images.pexels.com/photos/6943446/pexels-photo-6943446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679",
+    "savedAt": "2026-09-09T22:07:05.643Z",
+    "sourceId": "24345bcea52aca91d83f97b7047b3efc"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-shows-off-airpods-5-with-improved-active-noi",
     "prompt_version": "1.0.0",
     "status": "published",

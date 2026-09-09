@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "suno-releases-its-first-ai-music-model-made-with-r",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Suno releases its first AI music model made with record industry help",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+  "pubDate": "2026-09-09T21:42:19.000Z",
+  "slides": [
+    "Can Suno's model settle music's AI war?",
+    "It trained with labels, not just on them.",
+    "Artists may earn royalties for machine-made tracks.",
+    "Your next song could be licensed through Suno.",
+    "Don't start a session until you check rights."
+  ],
+  "thread_text": [
+    "1. AI music just got a label deal\n\nSuno trained on copyrighted songs — now it's paying labels, not fighting them. That's the first real settlement in the streaming wars.",
+    "2. How royalties shift overnight\n\nArtists get a cut even when they didn't write the track. The label's catalog becomes the training set, and every machine-made song triggers a payment.",
+    "3. Your next favorite is licensed\n\nSuno's output can be used commercially, but only if the rights check passes. A generated melody might already owe money to a human you've never heard of.",
+    "4. The rights check is the gate\n\nBefore you hit 'generate', the system scans for protected elements. If it finds a match, your session stops — or you agree to pay. No more stealth sampling.",
+    "5. Test it this week\n\nOpen Suno and type a prompt that quotes a lyric you know. Watch the rights warning appear. Would you still publish that track on Spotify?"
+  ],
+  "video_script": [
+    "Suno pays labels for AI tracks now.",
+    "Artists earn royalties without writing songs.",
+    "Machine music gets licensed through the catalog.",
+    "Check rights before starting any session.",
+    "Try a lyric prompt, see the warning."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI music just got a label deal\n\nSuno trained on copyrighted songs — now it's paying labels, not fighting them. That's the first real settlement in the streaming wars.",
+        "2. How royalties shift overnight\n\nArtists get a cut even when they didn't write the track. The label's catalog becomes the training set, and every machine-made song triggers a payment.",
+        "3. Your next favorite is licensed\n\nSuno's output can be used commercially, but only if the rights check passes. A generated melody might already owe money to a human you've never heard of.",
+        "4. The rights check is the gate\n\nBefore you hit 'generate', the system scans for protected elements. If it finds a match, your session stops — or you agree to pay. No more stealth sampling.",
+        "5. Test it this week\n\nOpen Suno and type a prompt that quotes a lyric you know. Watch the rights warning appear. Would you still publish that track on Spotify?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Suno pays labels for AI tracks now.",
+        "Artists earn royalties without writing songs.",
+        "Machine music gets licensed through the catalog.",
+        "Check rights before starting any session.",
+        "Try a lyric prompt, see the warning."
+      ]
+    },
+    "instagram": {
+      "caption": "Music streaming's biggest fight just found a payout button: Suno trained on copyrighted songs and now pays labels instead of dodging them.\n\nArtists earn royalties even on tracks they never wrote. Every machine-made melody triggers a payment to humans behind the source material.\n\nLabels' catalogs became the training set, and every generation scans for protected elements before you hit play. If it finds a match, your session stops or you pay up.\n\nSo before you publish that Suno track, the rights check already decided your bill. 🎵\n\nOpen Suno, type a prompt quoting a lyric you know, and watch the warning appear. Would you still upload that result to Spotify? 💿"
+    }
+  },
+  "instagram_caption": "Music streaming's biggest fight just found a payout button: Suno trained on copyrighted songs and now pays labels instead of dodging them.\n\nArtists earn royalties even on tracks they never wrote. Every machine-made melody triggers a payment to humans behind the source material.\n\nLabels' catalogs became the training set, and every generation scans for protected elements before you hit play. If it finds a match, your session stops or you pay up.\n\nSo before you publish that Suno track, the rights check already decided your bill. 🎵\n\nOpen Suno, type a prompt quoting a lyric you know, and watch the warning appear. Would you still upload that result to Spotify? 💿",
+  "carousel_slides": [
+    {
+      "hook": "Music's AI war just got a truce",
+      "description": "Suno trained on hit songs and now pays labels instead of fighting them. First real settlement in streaming's AI battle.",
+      "visual_hint": "Handshake between robot and human",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "recording studio console"
+    },
+    {
+      "hook": "Royalties now flow to artists",
+      "description": "Even if a human never wrote a machine-made track, the label's catalog triggers payments. Every generated melody owes someone.",
+      "visual_hint": "Music note with dollar signs",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sheet music closeup",
+      "image": "https://images.pexels.com/photos/18940650/pexels-photo-18940650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next favorite is licensed",
+      "description": "Suno's commercial output only works if rights check passes. A melody might owe royalty to a stranger you never met.",
+      "visual_hint": "Magnifying glass on contract",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "magnifying glass contract",
+      "image": "https://images.pexels.com/photos/6661075/pexels-photo-6661075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rights check blocks stealth sampling",
+      "description": "If your prompt quotes a protected lyric, the session stops or you pay. No more hidden borrows from famous tracks.",
+      "visual_hint": "Stop sign with music note",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stop sign road",
+      "image": "https://images.pexels.com/photos/25383838/pexels-photo-25383838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it and see the warning",
+      "description": "Open Suno, type a lyric you know, and hit generate. Watch the rights notice appear—then decide if you'd still release it.",
+      "visual_hint": "Finger on smartphone screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone closeup",
+      "image": "https://images.pexels.com/photos/12969045/pexels-photo-12969045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-09T22:07:39.532Z",
+  "sourceId": "65f77bd4eb92a79746bd51e2917797ec"
+}
