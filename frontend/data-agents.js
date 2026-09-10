@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "ai-agents-are-flooding-public-services-with-new-re",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "slides": [
+        "Are AI agents overrunning public services?",
+        "They generate 10,000 requests per hour.",
+        "Surprisingly, most are legitimate, not spam.",
+        "You must now verify each request's origin.",
+        "Adopt rate limits or drown in bureaucracy."
+      ],
+      "thread_text": [
+        "1. AI Agents Flood Public Services\n\nThey generate 10,000 requests per hour. Most are legitimate, not spam. The real challenge begins now: verifying each request's origin.",
+        "2. 10,000 Requests Per Hour\n\nThat's the volume hitting public services. It's not a spike; it's a sustained wave. And it's forcing agencies to rethink how they handle digital traffic.",
+        "3. Most Requests Are Legitimate\n\nSurprisingly, the majority aren't spam or attacks. They're real people using AI agents to get things done. But that doesn't make them any less overwhelming.",
+        "4. Verify Every Request's Origin\n\nNow you must check where each one comes from. That means new systems, new rules, and new costs. Fail, and you're buried in manual checks.",
+        "5. Rate Limits or Bureaucracy?\n\nAdopt rate limits today, or drown in bureaucracy tomorrow. Which will your organization choose? Test a simple rate limit on your API this week."
+      ],
+      "video_script": [
+        "AI agents are flooding public services with ten thousand requests per hour.",
+        "Most of those requests are legitimate, not spam, which makes it harder.",
+        "You now have to verify the origin of every single request.",
+        "Without verification, you'll drown in bureaucracy and manual checks.",
+        "Adopt rate limits or face the flood. Which will you choose?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents Flood Public Services\n\nThey generate 10,000 requests per hour. Most are legitimate, not spam. The real challenge begins now: verifying each request's origin.",
+            "2. 10,000 Requests Per Hour\n\nThat's the volume hitting public services. It's not a spike; it's a sustained wave. And it's forcing agencies to rethink how they handle digital traffic.",
+            "3. Most Requests Are Legitimate\n\nSurprisingly, the majority aren't spam or attacks. They're real people using AI agents to get things done. But that doesn't make them any less overwhelming.",
+            "4. Verify Every Request's Origin\n\nNow you must check where each one comes from. That means new systems, new rules, and new costs. Fail, and you're buried in manual checks.",
+            "5. Rate Limits or Bureaucracy?\n\nAdopt rate limits today, or drown in bureaucracy tomorrow. Which will your organization choose? Test a simple rate limit on your API this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI agents are flooding public services with ten thousand requests per hour.",
+            "Most of those requests are legitimate, not spam, which makes it harder.",
+            "You now have to verify the origin of every single request.",
+            "Without verification, you'll drown in bureaucracy and manual checks.",
+            "Adopt rate limits or face the flood. Which will you choose?"
+          ]
+        },
+        "instagram": {
+          "caption": "Public services are now getting 10,000 requests an hour from AI agents, not people.\n\nMost of those requests are legitimate, not spam or attacks. Real users are just automating everything. 🚦\n\nSo agencies have to verify where each request came from before they can act on it.\n\nIf you build or run any public-facing tool, this hits your team too: more traffic, more checks, same staff. 🧾\n\nTry one thing this week: put a simple rate limit on your API. What breaks first? 🤖"
+        }
+      },
+      "instagram_caption": "Public services are now getting 10,000 requests an hour from AI agents, not people.\n\nMost of those requests are legitimate, not spam or attacks. Real users are just automating everything. 🚦\n\nSo agencies have to verify where each request came from before they can act on it.\n\nIf you build or run any public-facing tool, this hits your team too: more traffic, more checks, same staff. 🧾\n\nTry one thing this week: put a simple rate limit on your API. What breaks first? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Is AI truly overrunning public services?",
+          "description": "Most requests are legitimate, not spam. AI agents generate 10,000 per hour, forcing agencies to rethink digital traffic handling.",
+          "visual_hint": "Digital network engulfing government building",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "10,000 requests per hour, not a spike",
+          "description": "A sustained wave hits public services, compelling agencies to redesign how they manage digital traffic to avoid overload.",
+          "visual_hint": "Surging wave of data requests",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most requests aren't spam? Surprising truth",
+          "description": "Majority are real people using AI agents to get things done, but volume still overwhelms systems and staff.",
+          "visual_hint": "Human and robot hands together",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You must verify each request's origin",
+          "description": "Checking every source requires new systems, rules, and costs. Fail, and you're buried in manual checks.",
+          "visual_hint": "Fingerprint scanner verifying digital requests",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "fingerprint scanner",
+          "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rate limits or drown in bureaucracy?",
+          "description": "Test a simple rate limit on your API this week. Save this post and visit our link in bio for a checklist.",
+          "visual_hint": "Clock timer with API symbol",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "speedometer gauge",
+          "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+      "savedAt": "2026-09-10T17:29:25.046Z",
+      "sourceId": "9ee5bacda2ce8165b30eafa3461193a0"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "supply-chains-detect-fast-act-slow-how-ai-agents-f",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "pubDate": "Thu, 10 Sep 2026 16:34:43 +0000",
+      "slides": [
+        "Supply chains detect disruption fast, but why slow to act?",
+        "AI agents can automate responses across logistics systems",
+        "Yet most failures come from data silos, not detection lag",
+        "Your team can deploy agents for real-time rerouting now",
+        "Audit one supply chain decision loop this week"
+      ],
+      "thread_text": [
+        "1. Supply chains see disruption fast\n\nThe detection systems already work. The response still takes days — not because the alerts are late, but because no one can decide.",
+        "2. AI agents automate the response\n\nSoftware agents can now trigger rerouting, reorder inventory, and book carriers across logistics systems without a human in the loop.",
+        "3. Data silos block everything\n\nMost failures aren't about detecting disruption faster. They're about warehouses, ERPs, and carriers that can't share data with each other.",
+        "4. Deploy agents today, not later\n\nYour team doesn't need a full platform rebuild. Start with one automated rerouting workflow on live data and expand from there.",
+        "5. Audit one decision loop\n\nPick one supply chain decision loop this week. Map where the delay actually happens — detection or decision. Then test an agent on that gap."
+      ],
+      "video_script": [
+        "Supply chains detect disruption fast.",
+        "But decisions still take too long.",
+        "Software agents can automate the response.",
+        "Data silos block most of it.",
+        "Audit one decision loop this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Supply chains see disruption fast\n\nThe detection systems already work. The response still takes days — not because the alerts are late, but because no one can decide.",
+            "2. AI agents automate the response\n\nSoftware agents can now trigger rerouting, reorder inventory, and book carriers across logistics systems without a human in the loop.",
+            "3. Data silos block everything\n\nMost failures aren't about detecting disruption faster. They're about warehouses, ERPs, and carriers that can't share data with each other.",
+            "4. Deploy agents today, not later\n\nYour team doesn't need a full platform rebuild. Start with one automated rerouting workflow on live data and expand from there.",
+            "5. Audit one decision loop\n\nPick one supply chain decision loop this week. Map where the delay actually happens — detection or decision. Then test an agent on that gap."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Supply chains detect disruption fast.",
+            "But decisions still take too long.",
+            "Software agents can automate the response.",
+            "Data silos block most of it.",
+            "Audit one decision loop this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Your supply chain already sees the disruption coming. Deciding what to do still takes days.\n\nAlerts aren't late. Approval loops are. AI agents can now trigger rerouting, reorder inventory, and book carriers without waiting on a human.\n\nBut most failures aren't detection lag, they're data silos. Warehouses, ERPs, and carriers that can't share data block every automated response. 🚧\n\nYou don't need a platform rebuild. Start with one rerouting workflow on live data this week. ⚙️\n\nPick one decision loop and map where the delay actually happens: detection or decision. 🔍\n\nWhich loop in your operation would you test first?"
+        }
+      },
+      "instagram_caption": "Your supply chain already sees the disruption coming. Deciding what to do still takes days.\n\nAlerts aren't late. Approval loops are. AI agents can now trigger rerouting, reorder inventory, and book carriers without waiting on a human.\n\nBut most failures aren't detection lag, they're data silos. Warehouses, ERPs, and carriers that can't share data block every automated response. 🚧\n\nYou don't need a platform rebuild. Start with one rerouting workflow on live data this week. ⚙️\n\nPick one decision loop and map where the delay actually happens: detection or decision. 🔍\n\nWhich loop in your operation would you test first?",
+      "carousel_slides": [
+        {
+          "hook": "Why do supply chains act so slowly?",
+          "description": "Data silos—not late alerts— are the real bottleneck. Warehouses, ERPs, and carriers refuse to share data.",
+          "visual_hint": "Puzzle pieces disconnected on table",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warehouse shelves"
+        },
+        {
+          "hook": "AI agents can automate rerouting instantly",
+          "description": "Software agents trigger rerouting, reorder inventory, and book carriers without waiting for human approval.",
+          "visual_hint": "Automated conveyor belt moving boxes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "conveyor belt",
+          "image": "https://images.pexels.com/photos/10039991/pexels-photo-10039991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Most failures are not detection lag",
+          "description": "Detection systems already work fast. The delay comes from systems that cannot talk to each other.",
+          "visual_hint": "Server room with tangled cables",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room cables",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Deploy agents today without rebuilding everything",
+          "description": "Start with one automated rerouting workflow on live data. No full platform rebuild needed.",
+          "visual_hint": "Hand holding smartphone with logistics app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone logistics",
+          "image": "https://images.pexels.com/photos/7706589/pexels-photo-7706589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit one decision loop this week",
+          "description": "Pick one supply chain decision loop. Map where delay happens—detection or decision—then test an agent.",
+          "visual_hint": "Flowchart with magnifying glass on desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "flowchart magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/30341205/pexels-photo-30341205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-10T17:29:16.075Z",
+      "sourceId": "342718fec9281833944dd6559f5f88ad"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "microsoft-has-new-ai-privacy-rules-for-schools",
       "prompt_version": "1.0.0",
       "status": "published",

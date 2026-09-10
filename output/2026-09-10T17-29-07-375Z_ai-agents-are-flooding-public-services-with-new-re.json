@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-agents-are-flooding-public-services-with-new-re",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI agents are flooding public services with new requests",
+  "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+  "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
+  "slides": [
+    "Are AI agents overrunning public services?",
+    "They generate 10,000 requests per hour.",
+    "Surprisingly, most are legitimate, not spam.",
+    "You must now verify each request's origin.",
+    "Adopt rate limits or drown in bureaucracy."
+  ],
+  "thread_text": [
+    "1. AI Agents Flood Public Services\n\nThey generate 10,000 requests per hour. Most are legitimate, not spam. The real challenge begins now: verifying each request's origin.",
+    "2. 10,000 Requests Per Hour\n\nThat's the volume hitting public services. It's not a spike; it's a sustained wave. And it's forcing agencies to rethink how they handle digital traffic.",
+    "3. Most Requests Are Legitimate\n\nSurprisingly, the majority aren't spam or attacks. They're real people using AI agents to get things done. But that doesn't make them any less overwhelming.",
+    "4. Verify Every Request's Origin\n\nNow you must check where each one comes from. That means new systems, new rules, and new costs. Fail, and you're buried in manual checks.",
+    "5. Rate Limits or Bureaucracy?\n\nAdopt rate limits today, or drown in bureaucracy tomorrow. Which will your organization choose? Test a simple rate limit on your API this week."
+  ],
+  "video_script": [
+    "AI agents are flooding public services with ten thousand requests per hour.",
+    "Most of those requests are legitimate, not spam, which makes it harder.",
+    "You now have to verify the origin of every single request.",
+    "Without verification, you'll drown in bureaucracy and manual checks.",
+    "Adopt rate limits or face the flood. Which will you choose?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Agents Flood Public Services\n\nThey generate 10,000 requests per hour. Most are legitimate, not spam. The real challenge begins now: verifying each request's origin.",
+        "2. 10,000 Requests Per Hour\n\nThat's the volume hitting public services. It's not a spike; it's a sustained wave. And it's forcing agencies to rethink how they handle digital traffic.",
+        "3. Most Requests Are Legitimate\n\nSurprisingly, the majority aren't spam or attacks. They're real people using AI agents to get things done. But that doesn't make them any less overwhelming.",
+        "4. Verify Every Request's Origin\n\nNow you must check where each one comes from. That means new systems, new rules, and new costs. Fail, and you're buried in manual checks.",
+        "5. Rate Limits or Bureaucracy?\n\nAdopt rate limits today, or drown in bureaucracy tomorrow. Which will your organization choose? Test a simple rate limit on your API this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI agents are flooding public services with ten thousand requests per hour.",
+        "Most of those requests are legitimate, not spam, which makes it harder.",
+        "You now have to verify the origin of every single request.",
+        "Without verification, you'll drown in bureaucracy and manual checks.",
+        "Adopt rate limits or face the flood. Which will you choose?"
+      ]
+    },
+    "instagram": {
+      "caption": "Public services are now getting 10,000 requests an hour from AI agents, not people.\n\nMost of those requests are legitimate, not spam or attacks. Real users are just automating everything. 🚦\n\nSo agencies have to verify where each request came from before they can act on it.\n\nIf you build or run any public-facing tool, this hits your team too: more traffic, more checks, same staff. 🧾\n\nTry one thing this week: put a simple rate limit on your API. What breaks first? 🤖"
+    }
+  },
+  "instagram_caption": "Public services are now getting 10,000 requests an hour from AI agents, not people.\n\nMost of those requests are legitimate, not spam or attacks. Real users are just automating everything. 🚦\n\nSo agencies have to verify where each request came from before they can act on it.\n\nIf you build or run any public-facing tool, this hits your team too: more traffic, more checks, same staff. 🧾\n\nTry one thing this week: put a simple rate limit on your API. What breaks first? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Is AI truly overrunning public services?",
+      "description": "Most requests are legitimate, not spam. AI agents generate 10,000 per hour, forcing agencies to rethink digital traffic handling.",
+      "visual_hint": "Digital network engulfing government building",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "10,000 requests per hour, not a spike",
+      "description": "A sustained wave hits public services, compelling agencies to redesign how they manage digital traffic to avoid overload.",
+      "visual_hint": "Surging wave of data requests",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Most requests aren't spam? Surprising truth",
+      "description": "Majority are real people using AI agents to get things done, but volume still overwhelms systems and staff.",
+      "visual_hint": "Human and robot hands together",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "people walking street",
+      "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You must verify each request's origin",
+      "description": "Checking every source requires new systems, rules, and costs. Fail, and you're buried in manual checks.",
+      "visual_hint": "Fingerprint scanner verifying digital requests",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "fingerprint scanner",
+      "image": "https://images.pexels.com/photos/7479535/pexels-photo-7479535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rate limits or drown in bureaucracy?",
+      "description": "Test a simple rate limit on your API this week. Save this post and visit our link in bio for a checklist.",
+      "visual_hint": "Clock timer with API symbol",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "speedometer gauge",
+      "image": "https://images.pexels.com/photos/17245075/pexels-photo-17245075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+  "savedAt": "2026-09-10T17:29:25.046Z",
+  "sourceId": "9ee5bacda2ce8165b30eafa3461193a0"
+}
