@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-sly-mathematical-breakthrough-sends-a-chi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+  "pubDate": "2026-09-09T21:16:34.000Z",
+  "slides": [
+    "What if AI quietly solved what mathematicians couldn't?",
+    "OpenAI built a model to tackle unsolved math problems.",
+    "Its proof convinced experts—but the method stayed hidden.",
+    "Researchers now face a black-box colleague they can't audit.",
+    "Ask any AI result: can you verify its reasoning?"
+  ],
+  "thread_text": [
+    "1. Proof Without a Window\n\nOpenAI's model solved an unsolved math problem. Experts verified the proof, but the method stayed hidden.",
+    "2. A Black Box That Proves\n\nOnly the final answer was shown. No steps, no logic, no way to check the path taken.",
+    "3. Colleague You Can't Audit\n\nResearchers now work beside an AI whose reasoning is invisible. You can't debug what you can't see.",
+    "4. Trust Without Trace\n\nA correct result doesn't mean a repeatable process. If the method is secret, the proof is a one-time trick.",
+    "5. Ask for the Steps\n\nNext time an AI gives you an answer, ask it to show its work. Can you verify the reasoning? Try it today."
+  ],
+  "video_script": [
+    "An AI solved a math problem no one could.",
+    "It proved it, but hid how it did it.",
+    "Experts checked the answer, not the method.",
+    "Now they have a colleague they can't audit.",
+    "Ask any AI to show its reasoning."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Proof Without a Window\n\nOpenAI's model solved an unsolved math problem. Experts verified the proof, but the method stayed hidden.",
+        "2. A Black Box That Proves\n\nOnly the final answer was shown. No steps, no logic, no way to check the path taken.",
+        "3. Colleague You Can't Audit\n\nResearchers now work beside an AI whose reasoning is invisible. You can't debug what you can't see.",
+        "4. Trust Without Trace\n\nA correct result doesn't mean a repeatable process. If the method is secret, the proof is a one-time trick.",
+        "5. Ask for the Steps\n\nNext time an AI gives you an answer, ask it to show its work. Can you verify the reasoning? Try it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An AI solved a math problem no one could.",
+        "It proved it, but hid how it did it.",
+        "Experts checked the answer, not the method.",
+        "Now they have a colleague they can't audit.",
+        "Ask any AI to show its reasoning."
+      ]
+    },
+    "instagram": {
+      "caption": "A mathematical proof just got verified by experts who still can't see how it was found.\n\nAn AI model cracked a problem mathematicians hadn't solved. Only the final answer was shown—no steps, no logic, no path to check. 😶\n\nSo the proof works, but nobody can reproduce the reasoning behind it.\n\nIf you use AI to solve anything, you're trusting an answer you can't audit. A correct result isn't a repeatable process. 🔍\n\nNext time an AI answers you, ask it to show its work. Can you actually verify the steps it took? 🧮"
+    }
+  },
+  "instagram_caption": "A mathematical proof just got verified by experts who still can't see how it was found.\n\nAn AI model cracked a problem mathematicians hadn't solved. Only the final answer was shown—no steps, no logic, no path to check. 😶\n\nSo the proof works, but nobody can reproduce the reasoning behind it.\n\nIf you use AI to solve anything, you're trusting an answer you can't audit. A correct result isn't a repeatable process. 🔍\n\nNext time an AI answers you, ask it to show its work. Can you actually verify the steps it took? 🧮",
+  "carousel_slides": [
+    {
+      "hook": "AI solves math, hides its reasoning",
+      "description": "OpenAI's model cracked an unsolved math problem. Experts verified the proof, but the method stayed hidden.",
+      "visual_hint": "Glowing formula on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "A black box that proves",
+      "description": "Only the final answer was shown. No steps, no logic, no way to check the path taken.",
+      "visual_hint": "Locked chest with math symbols",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "black box",
+      "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Colleague you can't audit",
+      "description": "Researchers now work beside an AI whose reasoning is invisible. You can't debug what you can't see.",
+      "visual_hint": "Scientist staring at opaque screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "research laboratory",
+      "image": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Trust without trace",
+      "description": "A correct result doesn't mean a repeatable process. If the method is secret, the proof is a one-time trick.",
+      "visual_hint": "Disappearing chalkboard equations",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chalkboard math",
+      "image": "https://images.pexels.com/photos/6256067/pexels-photo-6256067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask AI for steps",
+      "description": "Next time an AI gives you an answer, ask it to show its work. Can you verify the reasoning?",
+      "visual_hint": "Hand pointing at checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist paper",
+      "image": "https://images.pexels.com/photos/6928997/pexels-photo-6928997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-10T02:15:48.277Z",
+  "sourceId": "2ce844f1d2cad0d30c375750ce6f5f76"
+}

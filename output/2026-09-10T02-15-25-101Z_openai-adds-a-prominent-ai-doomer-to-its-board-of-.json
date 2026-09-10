@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-adds-a-prominent-ai-doomer-to-its-board-of-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI adds a prominent AI doomer to its board of directors",
+  "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+  "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
+  "slides": [
+    "OpenAI just added a notorious AI doomer to its board.",
+    "He believes AI could lead to human extinction.",
+    "Yet OpenAI is racing to build more powerful systems.",
+    "If regulators adopt his ideas, AI progress could slow.",
+    "Should we trust the fox to guard the henhouse?"
+  ],
+  "thread_text": [
+    "1. The Doomer's Seat\n\nOpenAI just gave a board seat to a man who thinks AI could kill us all. He's not an outsider—he's now shaping the company's decisions.",
+    "2. Extinction Belief\n\nHe's publicly warned that superintelligent AI poses an existential risk. That's not speculation—it's his core thesis. Now he's inside.",
+    "3. Racing Ahead\n\nAt the same time, OpenAI is pushing to build faster, bigger models. The doomer on the board isn't slowing that down—yet.",
+    "4. Regulatory Leash\n\nHis ideas could become law: mandatory safety tests, compute limits. If adopted, AI progress might stall for years.",
+    "5. Trust the Fox?\n\nDoes it make sense to let the person who fears the technology decide how it's built? Ask yourself: would you hand the keys to someone who wants to ban cars?"
+  ],
+  "video_script": [
+    "OpenAI just put a notorious AI doomer on its board.",
+    "He believes AI could lead to human extinction.",
+    "Yet OpenAI is racing to build even more powerful systems.",
+    "If regulators adopt his ideas, AI progress could slow down.",
+    "Should we trust the fox to guard the henhouse?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Doomer's Seat\n\nOpenAI just gave a board seat to a man who thinks AI could kill us all. He's not an outsider—he's now shaping the company's decisions.",
+        "2. Extinction Belief\n\nHe's publicly warned that superintelligent AI poses an existential risk. That's not speculation—it's his core thesis. Now he's inside.",
+        "3. Racing Ahead\n\nAt the same time, OpenAI is pushing to build faster, bigger models. The doomer on the board isn't slowing that down—yet.",
+        "4. Regulatory Leash\n\nHis ideas could become law: mandatory safety tests, compute limits. If adopted, AI progress might stall for years.",
+        "5. Trust the Fox?\n\nDoes it make sense to let the person who fears the technology decide how it's built? Ask yourself: would you hand the keys to someone who wants to ban cars?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just put a notorious AI doomer on its board.",
+        "He believes AI could lead to human extinction.",
+        "Yet OpenAI is racing to build even more powerful systems.",
+        "If regulators adopt his ideas, AI progress could slow down.",
+        "Should we trust the fox to guard the henhouse?"
+      ]
+    },
+    "instagram": {
+      "caption": "A man who publicly warns AI could cause human extinction now helps decide how OpenAI is run. 🚨\n\nHe got a seat on the board.\n\nMeanwhile the company keeps racing to build bigger, faster models.\n\nHis ideas could become law: mandatory safety tests, limits on computing power. ⚖️\n\nIf that happens, the tools you use daily could stop improving for years.\n\nWould you hand the keys to someone who wants to ban cars? 🤔"
+    }
+  },
+  "instagram_caption": "A man who publicly warns AI could cause human extinction now helps decide how OpenAI is run. 🚨\n\nHe got a seat on the board.\n\nMeanwhile the company keeps racing to build bigger, faster models.\n\nHis ideas could become law: mandatory safety tests, limits on computing power. ⚖️\n\nIf that happens, the tools you use daily could stop improving for years.\n\nWould you hand the keys to someone who wants to ban cars? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "AI doomer now controls OpenAI's board?",
+      "description": "OpenAI gave a board seat to a man who believes AI could cause human extinction. He now shapes key decisions.",
+      "visual_hint": "Boardroom table with empty chair.",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "boardroom empty chair"
+    },
+    {
+      "hook": "He thinks AI will kill us all",
+      "description": "Publicly, he warns superintelligent AI is an existential risk. That's his core thesis, and now he's inside.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Warning sign on server rack.",
+      "image_query": "warning sign server",
+      "image": "https://images.pexels.com/photos/36554863/pexels-photo-36554863.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Yet OpenAI races to build smarter AI",
+      "description": "While a doomer sits on the board, OpenAI pushes faster, bigger models. The doomer isn't slowing it down yet.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Close-up of GPU circuit board.",
+      "image_query": "GPU circuit board",
+      "image": "https://images.pexels.com/photos/37368180/pexels-photo-37368180.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "His ideas could become law",
+      "description": "Mandatory safety tests and compute limits might stall AI progress for years if regulators adopt his vision.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand writing regulation document.",
+      "image_query": "hand writing document",
+      "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: would you trust a fox?",
+      "description": "Comment your thoughts and share this post. Then ask yourself: hand keys to someone who wants to ban cars?",
+      "visual_hint": "Fox looking at henhouse.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "fox henhouse",
+      "image": "https://images.pexels.com/photos/12930464/pexels-photo-12930464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-10T02:15:33.195Z",
+  "sourceId": "a62cdeb365cc8615e68f0ace4c1c81cf"
+}
