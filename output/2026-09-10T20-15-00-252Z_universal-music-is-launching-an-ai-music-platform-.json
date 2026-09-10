@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "universal-music-is-launching-an-ai-music-platform-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Universal Music is launching an AI music platform with ElevenLabs",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+  "pubDate": "2026-09-10T15:38:19.000Z",
+  "slides": [
+    "Universal Music bets on AI — but why now?",
+    "ElevenLabs powers voice cloning for licensed tracks",
+    "Artists won't own the AI-generated versions",
+    "Your next release may compete with synthetic stars",
+    "Check if your catalog is already opted in"
+  ],
+  "thread_text": [
+    "1. AI Copies Your Voice\n\nUniversal Music just inked a deal with ElevenLabs to clone voices from licensed tracks. If your song is in their catalog, your voice could become a synthetic star.",
+    "2. Why Universal Moves Now\n\nLabels see AI as a new revenue stream, not a threat. They get upfront fees from tech partners while artists get zero ownership of the generated versions.",
+    "3. You Won't Own the Output\n\nThe deal explicitly excludes artists from owning AI-generated derivatives. Your vocal likeness can be licensed without your direct consent.",
+    "4. Synthetic Stars Are Coming\n\nYour next release might compete with AI versions of yourself or other artists. The market will be flooded with legal, endless voice clones.",
+    "5. Check Your Opt-In Status\n\nGo to your distributor's portal and search for AI training opt-out settings. If you do nothing, you're likely already opted in."
+  ],
+  "video_script": [
+    "Universal just made a deal to clone voices.",
+    "ElevenLabs will use licensed tracks for AI.",
+    "Artists won't own the AI-generated versions.",
+    "Your next release could compete with synthetic stars.",
+    "Check your catalog now for opt-in status."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Copies Your Voice\n\nUniversal Music just inked a deal with ElevenLabs to clone voices from licensed tracks. If your song is in their catalog, your voice could become a synthetic star.",
+        "2. Why Universal Moves Now\n\nLabels see AI as a new revenue stream, not a threat. They get upfront fees from tech partners while artists get zero ownership of the generated versions.",
+        "3. You Won't Own the Output\n\nThe deal explicitly excludes artists from owning AI-generated derivatives. Your vocal likeness can be licensed without your direct consent.",
+        "4. Synthetic Stars Are Coming\n\nYour next release might compete with AI versions of yourself or other artists. The market will be flooded with legal, endless voice clones.",
+        "5. Check Your Opt-In Status\n\nGo to your distributor's portal and search for AI training opt-out settings. If you do nothing, you're likely already opted in."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Universal just made a deal to clone voices.",
+        "ElevenLabs will use licensed tracks for AI.",
+        "Artists won't own the AI-generated versions.",
+        "Your next release could compete with synthetic stars.",
+        "Check your catalog now for opt-in status."
+      ]
+    },
+    "instagram": {
+      "caption": "Your voice can already be cloned if your track sits in Universal's catalog.\n\nUniversal Music signed a deal with ElevenLabs to build an AI music platform using voices pulled from licensed songs.\n\nArtists won't own the AI-generated versions — the label licenses your vocal likeness without needing your direct consent.\n\nThat means your next release could compete against a synthetic version of yourself.\n\nCheck your distributor portal for AI training opt-out settings now, because silence usually means you're already in. 🎤\n\nWould you notice if a clone of your voice outsold you? 🤖"
+    }
+  },
+  "instagram_caption": "Your voice can already be cloned if your track sits in Universal's catalog.\n\nUniversal Music signed a deal with ElevenLabs to build an AI music platform using voices pulled from licensed songs.\n\nArtists won't own the AI-generated versions — the label licenses your vocal likeness without needing your direct consent.\n\nThat means your next release could compete against a synthetic version of yourself.\n\nCheck your distributor portal for AI training opt-out settings now, because silence usually means you're already in. 🎤\n\nWould you notice if a clone of your voice outsold you? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Artists don't own AI-generated versions?",
+      "description": "Universal's ElevenLabs deal excludes artists from owning synthetic versions, so your vocal likeness can be licensed without direct consent.",
+      "visual_hint": "contract with voice waveform signature",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "recording studio"
+    },
+    {
+      "hook": "ElevenLabs powers voice cloning for tracks",
+      "description": "Universal licenses your songs to ElevenLabs for voice cloning. Labels earn upfront fees while you get zero ownership of outputs.",
+      "visual_hint": "sound waves on digital screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your voice becomes a synthetic star?",
+      "description": "If your song is in Universal's catalog, AI can clone your voice and release endless derivatives without your consent.",
+      "visual_hint": "microphone with digital clone reflection",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "microphone studio",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next release competes with AI",
+      "description": "Synthetic stars will flood the market, so your new music may compete with legal AI versions of yourself or other artists.",
+      "visual_hint": "chart showing rising AI music streams",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your opt-in status now",
+      "description": "Go to your distributor's portal and search AI training opt-out settings. If you do nothing, you're likely already opted in.",
+      "visual_hint": "hand clicking opt-out button on screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "computer screen",
+      "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-10T20:15:39.425Z",
+  "sourceId": "f613fc1e895bdb49115e63548c99a91c"
+}

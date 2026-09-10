@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "india-s-pocket-fm-doubles-revenue-run-rate-to-500m",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+  "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+  "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
+  "slides": [
+    "Can Pocket FM's $500M run rate survive AI?",
+    "Revenue doubled, but 93% of content is now AI-made",
+    "Listeners can't tell the difference — or can they?",
+    "Audio creators must now compete with machines",
+    "Test one AI-narrated story against a human one"
+  ],
+  "thread_text": [
+    "1. The 93% problem\n\nPocket FM hit a $500M run rate. But 93% of its content is now AI-made. Listeners are still tuning in.",
+    "2. Can you tell?\n\nBlind tests are mixed. Most people can't pick the AI voice from the human one. That's the unsettling part.",
+    "3. Creators vs. machines\n\nVoice actors now bid against models that never sleep and cost pennies. The economics flipped overnight.",
+    "4. No slowdown yet\n\nRevenue doubled while human roles shrank. The growth didn't come from better stories — it came from cheaper ones.",
+    "5. Test it yourself\n\nPick an AI-narrated story and a human one. Listen blind. If you can't tell, ask what you're really paying for."
+  ],
+  "video_script": [
+    "Pocket FM just hit five hundred million in revenue.",
+    "Ninety three percent of their content is now AI.",
+    "Listeners mostly can't tell the difference in blind tests.",
+    "Voice actors now compete with machines that never sleep.",
+    "Try a blind test yourself — can you tell?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 93% problem\n\nPocket FM hit a $500M run rate. But 93% of its content is now AI-made. Listeners are still tuning in.",
+        "2. Can you tell?\n\nBlind tests are mixed. Most people can't pick the AI voice from the human one. That's the unsettling part.",
+        "3. Creators vs. machines\n\nVoice actors now bid against models that never sleep and cost pennies. The economics flipped overnight.",
+        "4. No slowdown yet\n\nRevenue doubled while human roles shrank. The growth didn't come from better stories — it came from cheaper ones.",
+        "5. Test it yourself\n\nPick an AI-narrated story and a human one. Listen blind. If you can't tell, ask what you're really paying for."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pocket FM just hit five hundred million in revenue.",
+        "Ninety three percent of their content is now AI.",
+        "Listeners mostly can't tell the difference in blind tests.",
+        "Voice actors now compete with machines that never sleep.",
+        "Try a blind test yourself — can you tell?"
+      ]
+    },
+    "instagram": {
+      "caption": "93% of the audio stories on Pocket FM are now made by AI, and listeners keep streaming like nothing changed. 🎧\n\nThe company doubled its revenue run rate to $500M while human roles shrank.\n\nBlind tests show most people can't tell an AI voice from a human one. 🤖\n\nIf you narrate or voice audio for a living, you're now bidding against a model that costs pennies and never sleeps.\n\nPick one AI-narrated story and one human one. Listen blind. Can you actually tell which is which? 🎙️"
+    }
+  },
+  "instagram_caption": "93% of the audio stories on Pocket FM are now made by AI, and listeners keep streaming like nothing changed. 🎧\n\nThe company doubled its revenue run rate to $500M while human roles shrank.\n\nBlind tests show most people can't tell an AI voice from a human one. 🤖\n\nIf you narrate or voice audio for a living, you're now bidding against a model that costs pennies and never sleeps.\n\nPick one AI-narrated story and one human one. Listen blind. Can you actually tell which is which? 🎙️",
+  "carousel_slides": [
+    {
+      "hook": "Can you really tell AI voices?",
+      "description": "Pocket FM hit $500M run rate while 93% of content is AI-made. Listeners can't distinguish AI from human voices.",
+      "visual_hint": "Sound wave with hidden robot",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "sound wave"
+    },
+    {
+      "hook": "Revenue doubled, human roles vanished",
+      "description": "Revenue doubled to $500M, but 93% of content is AI-generated. Human creators are being replaced by machines.",
+      "visual_hint": "Split screen human robot",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Blind tests reveal unsettling truth",
+      "description": "In blind tests, most listeners cannot pick AI voices from human ones. This blurs reality and raises ethical concerns.",
+      "visual_hint": "Headphones with question mark",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "headphones closeup",
+      "image": "https://images.pexels.com/photos/29377913/pexels-photo-29377913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Voice actors now compete with machines",
+      "description": "Voice actors bid against AI models that never sleep and cost pennies. The economics of audio creation have flipped overnight.",
+      "visual_hint": "Microphone facing robot",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "microphone studio",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test AI vs human narration yourself",
+      "description": "Pick an AI-narrated story and a human one. Listen blind. If you can't tell, ask what you're really paying for.",
+      "visual_hint": "Two audio players side by side",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "audio player",
+      "image": "https://images.pexels.com/photos/10963855/pexels-photo-10963855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
+  "savedAt": "2026-09-10T20:15:30.536Z",
+  "sourceId": "755f7769e744d036ae2de756cbc8a685"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+  "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+  "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
+  "slides": [
+    "Muse ranked second—but why so fast?",
+    "Meta's new AI agent hit the top charts.",
+    "It's not a chatbot; it acts behind the scenes.",
+    "Your daily apps may soon include an agent.",
+    "Check if Meta's Muse can handle your workflow."
+  ],
+  "thread_text": [
+    "1. Ranked Second—Why So Fast?\n\nA new AI agent hit the top charts just days after launch. It's not a chatbot—it works silently in the background of your apps.",
+    "2. Meta's Agent Goes Top Charts\n\nMeta's new tool isn't designed for conversation. It sits behind the scenes and performs tasks inside the apps you already use daily.",
+    "3. It's Not a Chatbot\n\nYou won't see a chat window. This agent operates invisibly, automating actions in your calendar, email, and messaging apps without you asking.",
+    "4. Your Apps Could Get Smarter\n\nSoon, your everyday apps may include an invisible assistant that schedules, replies, and organizes—without you lifting a finger.",
+    "5. Can It Handle Your Workflow?\n\nTake one real task you do daily—like sorting emails or booking meetings—and test if Meta's Muse can do it. If it can't, you've learned your limits."
+  ],
+  "video_script": [
+    "Meta's new AI agent just hit the top charts.",
+    "It's not a chatbot—it works behind the scenes.",
+    "Soon, your daily apps might include it.",
+    "It could schedule, reply, and organize for you.",
+    "Test it on your workflow today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Ranked Second—Why So Fast?\n\nA new AI agent hit the top charts just days after launch. It's not a chatbot—it works silently in the background of your apps.",
+        "2. Meta's Agent Goes Top Charts\n\nMeta's new tool isn't designed for conversation. It sits behind the scenes and performs tasks inside the apps you already use daily.",
+        "3. It's Not a Chatbot\n\nYou won't see a chat window. This agent operates invisibly, automating actions in your calendar, email, and messaging apps without you asking.",
+        "4. Your Apps Could Get Smarter\n\nSoon, your everyday apps may include an invisible assistant that schedules, replies, and organizes—without you lifting a finger.",
+        "5. Can It Handle Your Workflow?\n\nTake one real task you do daily—like sorting emails or booking meetings—and test if Meta's Muse can do it. If it can't, you've learned your limits."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's new AI agent just hit the top charts.",
+        "It's not a chatbot—it works behind the scenes.",
+        "Soon, your daily apps might include it.",
+        "It could schedule, reply, and organize for you.",
+        "Test it on your workflow today."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI agent just became the second most downloaded app in the US, days after launch. 📈\n\nMeta's Muse isn't a chatbot—no chat window, no conversation. It works silently inside your calendar, email and messaging apps, doing tasks without being asked.\n\nThat means your everyday apps could soon run an assistant you never open.\n\nIf you publish or create content, this is a new tool to test for sorting emails, booking meetings or organizing drafts—and a sign the \"agent\" layer is moving onto your phone.\n\nWhich daily task would you hand off first—and what would you never trust it with? 🤖"
+    }
+  },
+  "instagram_caption": "An AI agent just became the second most downloaded app in the US, days after launch. 📈\n\nMeta's Muse isn't a chatbot—no chat window, no conversation. It works silently inside your calendar, email and messaging apps, doing tasks without being asked.\n\nThat means your everyday apps could soon run an assistant you never open.\n\nIf you publish or create content, this is a new tool to test for sorting emails, booking meetings or organizing drafts—and a sign the \"agent\" layer is moving onto your phone.\n\nWhich daily task would you hand off first—and what would you never trust it with? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Why did this AI agent hit No. 2?",
+      "description": "Meta's new AI agent Muse reached second place in US charts within days of launch, indicating massive user adoption.",
+      "visual_hint": "Chart showing rapid app ranking climb",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Meta's new AI agent goes top charts",
+      "description": "Meta's Muse isn't a chatbot; it operates silently behind the scenes inside your daily apps, performing tasks automatically.",
+      "visual_hint": "Smartphone with invisible background agent",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone app icons",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It's not a chatbot — it acts invisibly",
+      "description": "No chat window. This agent automates actions in your calendar, email, and messaging apps without you asking.",
+      "visual_hint": "Calendar and email icons with automation arrows",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "calendar email icons",
+      "image": "https://images.pexels.com/photos/5408916/pexels-photo-5408916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your everyday apps could get an invisible assistant",
+      "description": "Soon, your daily apps may include an assistant that schedules, replies, and organizes—without you lifting a finger.",
+      "visual_hint": "Hand holding phone with assistant overlay",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this to test Muse on your workflow",
+      "description": "Pick one daily task—like sorting emails or booking meetings—and see if Meta's Muse can handle it. Save this post for later.",
+      "visual_hint": "Checklist with task and save icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "task checklist",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+  "savedAt": "2026-09-10T20:15:10.789Z",
+  "sourceId": "4780951de0966426fc134ac6d73364d0"
+}
