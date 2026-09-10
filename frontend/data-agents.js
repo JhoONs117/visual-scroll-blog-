@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-details-distillation-campaigns-from-alib",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "slides": [
+        "Can Anthropic prove Alibaba, Moonshot, DeepSeek stole its model?",
+        "Anthropic claims these firms used distillation campaigns on Claude.",
+        "Distillation extracts a model's behavior without its weights.",
+        "Your AI product may compete against stolen clones.",
+        "Check your model's outputs for rival fingerprints."
+      ],
+      "thread_text": [
+        "1. Did Anthropic Just Catch Alibaba Stealing?\n\nAnthropic has accused Alibaba, Moonshot, and DeepSeek of running distillation campaigns on Claude. If proven, it could be the biggest AI theft case yet.",
+        "2. Distillation: The Silent Heist\n\nDistillation extracts a model's behavior without its weights. You don't need the source code—just its outputs to train a clone.",
+        "3. Why This Matters for Your Product\n\nYour AI product may compete against stolen clones. They undercut you on price, built on someone else's R&D.",
+        "4. The Real Victims Are Startups\n\nIf rivals clone your model, they skip years of work. Detecting distillation is nearly impossible without fingerprints.",
+        "5. Check for Rival Fingerprints Today\n\nTake a prompt on Claude and compare outputs to a rival's model. If they match suspiciously, you might be next."
+      ],
+      "video_script": [
+        "Anthropic just accused Alibaba, Moonshot, and DeepSeek of stealing Claude.",
+        "They allegedly used distillation to copy Claude's behavior without its weights.",
+        "Distillation means training a model on another's outputs, not source code.",
+        "Your AI product could face stolen clones that undercut you on price.",
+        "Test your model's outputs for rival fingerprints today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Did Anthropic Just Catch Alibaba Stealing?\n\nAnthropic has accused Alibaba, Moonshot, and DeepSeek of running distillation campaigns on Claude. If proven, it could be the biggest AI theft case yet.",
+            "2. Distillation: The Silent Heist\n\nDistillation extracts a model's behavior without its weights. You don't need the source code—just its outputs to train a clone.",
+            "3. Why This Matters for Your Product\n\nYour AI product may compete against stolen clones. They undercut you on price, built on someone else's R&D.",
+            "4. The Real Victims Are Startups\n\nIf rivals clone your model, they skip years of work. Detecting distillation is nearly impossible without fingerprints.",
+            "5. Check for Rival Fingerprints Today\n\nTake a prompt on Claude and compare outputs to a rival's model. If they match suspiciously, you might be next."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic just accused Alibaba, Moonshot, and DeepSeek of stealing Claude.",
+            "They allegedly used distillation to copy Claude's behavior without its weights.",
+            "Distillation means training a model on another's outputs, not source code.",
+            "Your AI product could face stolen clones that undercut you on price.",
+            "Test your model's outputs for rival fingerprints today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your AI product might be competing against a clone built from someone else's model.\n\nAnthropic says Alibaba, Moonshot, and DeepSeek ran distillation campaigns on Claude.\n\nDistillation copies a model's behavior through its outputs — no weights needed.\n\nIf rivals clone yours, they skip years of work and undercut you on price. 🔍\n\nDetection is nearly impossible without fingerprints.\n\nSo check your own model: run a prompt and compare outputs to a rival. Suspiciously close? ⚠️\n\nWould you even notice if someone cloned your model today? 🤖"
+        }
+      },
+      "instagram_caption": "Your AI product might be competing against a clone built from someone else's model.\n\nAnthropic says Alibaba, Moonshot, and DeepSeek ran distillation campaigns on Claude.\n\nDistillation copies a model's behavior through its outputs — no weights needed.\n\nIf rivals clone yours, they skip years of work and undercut you on price. 🔍\n\nDetection is nearly impossible without fingerprints.\n\nSo check your own model: run a prompt and compare outputs to a rival. Suspiciously close? ⚠️\n\nWould you even notice if someone cloned your model today? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Did Anthropic Just Catch Alibaba Stealing?",
+          "description": "Anthropic accuses Alibaba, Moonshot, and DeepSeek of distilling Claude. If proven, this could be the biggest AI theft case yet.",
+          "visual_hint": "Anthropic logo next to Chinese tech giants",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Distillation: The Silent Heist",
+          "description": "Distillation extracts a model's behavior without its weights. You don't need source code—just outputs to train a clone.",
+          "visual_hint": "Abstract data streams merging into clone",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI Product May Compete Against Clones",
+          "description": "Stolen clones undercut you on price, built on someone else's R&D. Your rival skips years of expensive research.",
+          "visual_hint": "Two identical AI models side by side",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "office workers computers",
+          "image": "https://images.pexels.com/photos/12903155/pexels-photo-12903155.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The Real Victims Are Startups",
+          "description": "If rivals clone your model, they skip years of work. Detecting distillation is nearly impossible without fingerprints.",
+          "visual_hint": "Startup founder looking at code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people walking street",
+          "image": "https://images.pexels.com/photos/18302592/pexels-photo-18302592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check for Rival Fingerprints Today",
+          "description": "Take a prompt on Claude and compare outputs to a rival's model. If they match suspiciously, you might be next. Save this post.",
+          "visual_hint": "Side-by-side output comparison on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "savedAt": "2026-09-10T23:34:40.727Z",
+      "sourceId": "999f113dc0b65357f7d75afc9d1bc781"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-puts-pro-subscriptions-on-hold-due-to-astra",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "slides": [
+        "OpenAI just paused new Pro subscriptions—why?",
+        "Demand for its new Astra model overwhelmed capacity.",
+        "But Astra's capabilities are unlike anything before.",
+        "If you need Astra, join a waitlist or use alternatives.",
+        "Check your AI plan now: capacity won't wait."
+      ],
+      "thread_text": [
+        "1. OpenAI Just Paused Pro\n\nNew Pro subscriptions are on hold. The reason: demand for its new Astra model blew past available capacity.",
+        "2. Astra Broke the System\n\nThis isn't a minor outage. OpenAI had to stop taking new Pro users entirely because the infrastructure couldn't handle the load.",
+        "3. Astra Isn't Like Other Models\n\nIts capabilities are unlike anything before. That's exactly why so many people rushed to sign up at once.",
+        "4. No Access Right Now\n\nIf you want Astra, your only options are joining a waitlist or using alternatives until capacity catches up.",
+        "5. Check Your AI Plan Now\n\nOpen your current AI subscription and see if it covers what you actually need. Capacity won't wait for you to figure it out."
+      ],
+      "video_script": [
+        "OpenAI just paused new Pro subscriptions.",
+        "Demand for its new Astra model overwhelmed capacity.",
+        "Astra's capabilities are unlike anything before.",
+        "If you need Astra, join a waitlist or use alternatives.",
+        "Check your AI plan now: capacity won't wait."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. OpenAI Just Paused Pro\n\nNew Pro subscriptions are on hold. The reason: demand for its new Astra model blew past available capacity.",
+            "2. Astra Broke the System\n\nThis isn't a minor outage. OpenAI had to stop taking new Pro users entirely because the infrastructure couldn't handle the load.",
+            "3. Astra Isn't Like Other Models\n\nIts capabilities are unlike anything before. That's exactly why so many people rushed to sign up at once.",
+            "4. No Access Right Now\n\nIf you want Astra, your only options are joining a waitlist or using alternatives until capacity catches up.",
+            "5. Check Your AI Plan Now\n\nOpen your current AI subscription and see if it covers what you actually need. Capacity won't wait for you to figure it out."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI just paused new Pro subscriptions.",
+            "Demand for its new Astra model overwhelmed capacity.",
+            "Astra's capabilities are unlike anything before.",
+            "If you need Astra, join a waitlist or use alternatives.",
+            "Check your AI plan now: capacity won't wait."
+          ]
+        },
+        "instagram": {
+          "caption": "New Pro signups are closed right now because too many people wanted the same new model.\n\nOpenAI paused Pro subscriptions after demand for its Astra model passed what its servers could handle. 🚦\n\nIf you want Astra, your only route is a waitlist or another tool until capacity catches up.\n\nSo if your work depends on the newest model, check what your current plan actually includes before you get stuck. 🧩\n\nWhich AI tool are you relying on today, and would it survive a waitlist? ⏳"
+        }
+      },
+      "instagram_caption": "New Pro signups are closed right now because too many people wanted the same new model.\n\nOpenAI paused Pro subscriptions after demand for its Astra model passed what its servers could handle. 🚦\n\nIf you want Astra, your only route is a waitlist or another tool until capacity catches up.\n\nSo if your work depends on the newest model, check what your current plan actually includes before you get stuck. 🧩\n\nWhich AI tool are you relying on today, and would it survive a waitlist? ⏳",
+      "carousel_slides": [
+        {
+          "hook": "OpenAI just paused Pro. Why?",
+          "description": "New Pro subscriptions halted because demand for the Astra model exceeded available server capacity, forcing OpenAI to stop new signups.",
+          "visual_hint": "Large server room with blinking lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Astra demand crushed capacity",
+          "description": "Astra's popularity overwhelmed infrastructure so completely that OpenAI had to stop accepting new Pro users entirely, not just slow down.",
+          "visual_hint": "Capacity graph spiking off the chart",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Astra is unlike anything before",
+          "description": "Its unprecedented capabilities triggered a massive signup surge, directly causing the capacity crisis that paused Pro subscriptions.",
+          "visual_hint": "Glowing AI chip close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "No Astra access right now",
+          "description": "If you want Astra, your only options are joining a waitlist or using alternatives until OpenAI expands capacity again.",
+          "visual_hint": "Person waiting with laptop",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your AI plan now",
+          "description": "Open your current AI subscription and verify it covers what you need. Capacity won't wait for you to figure it out.",
+          "visual_hint": "Hand holding phone showing plan",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "savedAt": "2026-09-10T23:34:32.407Z",
+      "sourceId": "5a7a028d73b1f767f8cbcdc6ade347c4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "jensen-huang-explains-why-nvidia-will-grow-an-asto",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "slides": [
+        "Why does Jensen Huang see 70% growth ahead?",
+        "Nvidia's next-gen chips are already sold out",
+        "But the real driver isn't hardware at all",
+        "Your AI workloads will get 10x cheaper per token",
+        "Audit your inference costs before pricing shifts"
+      ],
+      "thread_text": [
+        "1. Nvidia Sold Out, But Not For Chips\n\nJensen Huang just said Nvidia's next-gen chips are already sold out. But the real driver behind his 70% growth forecast isn't hardware. It's something far more disruptive to your AI costs.",
+        "2. The Real Growth Engine\n\nSoftware and services are what will make AI workloads 10x cheaper per token. That collapse in inference costs is what Huang is betting on, not just silicon.",
+        "3. Your Token Bill Is About To Drop\n\nWhen inference gets 10x cheaper, every AI product you build changes. Margins, pricing, even what's possible. But most teams aren't ready for the shift.",
+        "4. Audit Before The Price War\n\nIf your inference costs drop 10x, your competitors' will too. That means pricing pressure, not just savings. The winners will be those who already know their cost per token.",
+        "5. Check Your Inference Costs Today\n\nPull up your last cloud bill and calculate your actual cost per token. If you don't know that number, you're flying blind into a pricing revolution."
+      ],
+      "video_script": [
+        "Jensen Huang sees 70% growth ahead, but not from chips.",
+        "Nvidia's next-gen chips are sold out, yet hardware isn't the driver.",
+        "The real shift is software making AI 10 times cheaper per token.",
+        "That means your inference costs will plummet, and so will your competitors'.",
+        "Audit your inference costs today before pricing shifts."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Nvidia Sold Out, But Not For Chips\n\nJensen Huang just said Nvidia's next-gen chips are already sold out. But the real driver behind his 70% growth forecast isn't hardware. It's something far more disruptive to your AI costs.",
+            "2. The Real Growth Engine\n\nSoftware and services are what will make AI workloads 10x cheaper per token. That collapse in inference costs is what Huang is betting on, not just silicon.",
+            "3. Your Token Bill Is About To Drop\n\nWhen inference gets 10x cheaper, every AI product you build changes. Margins, pricing, even what's possible. But most teams aren't ready for the shift.",
+            "4. Audit Before The Price War\n\nIf your inference costs drop 10x, your competitors' will too. That means pricing pressure, not just savings. The winners will be those who already know their cost per token.",
+            "5. Check Your Inference Costs Today\n\nPull up your last cloud bill and calculate your actual cost per token. If you don't know that number, you're flying blind into a pricing revolution."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jensen Huang sees 70% growth ahead, but not from chips.",
+            "Nvidia's next-gen chips are sold out, yet hardware isn't the driver.",
+            "The real shift is software making AI 10 times cheaper per token.",
+            "That means your inference costs will plummet, and so will your competitors'.",
+            "Audit your inference costs today before pricing shifts."
+          ]
+        },
+        "instagram": {
+          "caption": "Nvidia's next-gen chips are already sold out, but Jensen Huang says the real growth driver isn't hardware.\n\nSoftware and services are what will make AI workloads 10x cheaper per token. 📉\n\nThat collapse in inference costs is what's behind his 70% growth forecast. When your costs drop, so do your competitors'.\n\nIf you build or publish with AI, your margins and pricing are about to shift — whether you're ready or not. 💸\n\nPull up your last cloud bill and calculate your actual cost per token. 🧮\n\nDo you know that number, or are you flying blind into a price war? ⚠️"
+        }
+      },
+      "instagram_caption": "Nvidia's next-gen chips are already sold out, but Jensen Huang says the real growth driver isn't hardware.\n\nSoftware and services are what will make AI workloads 10x cheaper per token. 📉\n\nThat collapse in inference costs is what's behind his 70% growth forecast. When your costs drop, so do your competitors'.\n\nIf you build or publish with AI, your margins and pricing are about to shift — whether you're ready or not. 💸\n\nPull up your last cloud bill and calculate your actual cost per token. 🧮\n\nDo you know that number, or are you flying blind into a price war? ⚠️",
+      "carousel_slides": [
+        {
+          "hook": "Why is Nvidia doubling down on software?",
+          "description": "Jensen Huang forecasts 70% growth, but the real driver is software that will make AI inference 10x cheaper.",
+          "visual_hint": "Jensen Huang on stage with charts",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "Jensen Huang keynote"
+        },
+        {
+          "hook": "Next-gen chips are already sold out",
+          "description": "Nvidia's upcoming chips are sold out, yet Huang's bet isn't on silicon—it's on the software layer above.",
+          "visual_hint": "Sold-out sign next to GPU",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "GPU chip closeup",
+          "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The real driver isn't hardware",
+          "description": "Software and services will cut inference costs by 10x per token, reshaping every AI product's economics.",
+          "visual_hint": "Abstract code lines turning into coins",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "software code abstract",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your token bill is about to drop",
+          "description": "When inference gets 10x cheaper, pricing pressure hits everyone. Winners will already know their cost per token.",
+          "visual_hint": "Hand holding calculator with cloud bill",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calculator cloud bill",
+          "image": "https://images.pexels.com/photos/7111614/pexels-photo-7111614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your inference costs now",
+          "description": "Pull up your last cloud bill and calculate your actual cost per token. If you don't know it, you're flying blind.",
+          "visual_hint": "Cloud bill with magnifying glass",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "cloud billing dashboard",
+          "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+      "savedAt": "2026-09-10T23:34:24.245Z",
+      "sourceId": "3f1b7e6d6a103cc4efbde4b8edaae47e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "universal-music-is-launching-an-ai-music-platform-",
       "prompt_version": "1.0.0",
       "status": "published",

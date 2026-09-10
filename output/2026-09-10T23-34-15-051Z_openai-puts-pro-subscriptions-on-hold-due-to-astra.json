@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-puts-pro-subscriptions-on-hold-due-to-astra",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+  "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+  "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
+  "slides": [
+    "OpenAI just paused new Pro subscriptions—why?",
+    "Demand for its new Astra model overwhelmed capacity.",
+    "But Astra's capabilities are unlike anything before.",
+    "If you need Astra, join a waitlist or use alternatives.",
+    "Check your AI plan now: capacity won't wait."
+  ],
+  "thread_text": [
+    "1. OpenAI Just Paused Pro\n\nNew Pro subscriptions are on hold. The reason: demand for its new Astra model blew past available capacity.",
+    "2. Astra Broke the System\n\nThis isn't a minor outage. OpenAI had to stop taking new Pro users entirely because the infrastructure couldn't handle the load.",
+    "3. Astra Isn't Like Other Models\n\nIts capabilities are unlike anything before. That's exactly why so many people rushed to sign up at once.",
+    "4. No Access Right Now\n\nIf you want Astra, your only options are joining a waitlist or using alternatives until capacity catches up.",
+    "5. Check Your AI Plan Now\n\nOpen your current AI subscription and see if it covers what you actually need. Capacity won't wait for you to figure it out."
+  ],
+  "video_script": [
+    "OpenAI just paused new Pro subscriptions.",
+    "Demand for its new Astra model overwhelmed capacity.",
+    "Astra's capabilities are unlike anything before.",
+    "If you need Astra, join a waitlist or use alternatives.",
+    "Check your AI plan now: capacity won't wait."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Just Paused Pro\n\nNew Pro subscriptions are on hold. The reason: demand for its new Astra model blew past available capacity.",
+        "2. Astra Broke the System\n\nThis isn't a minor outage. OpenAI had to stop taking new Pro users entirely because the infrastructure couldn't handle the load.",
+        "3. Astra Isn't Like Other Models\n\nIts capabilities are unlike anything before. That's exactly why so many people rushed to sign up at once.",
+        "4. No Access Right Now\n\nIf you want Astra, your only options are joining a waitlist or using alternatives until capacity catches up.",
+        "5. Check Your AI Plan Now\n\nOpen your current AI subscription and see if it covers what you actually need. Capacity won't wait for you to figure it out."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just paused new Pro subscriptions.",
+        "Demand for its new Astra model overwhelmed capacity.",
+        "Astra's capabilities are unlike anything before.",
+        "If you need Astra, join a waitlist or use alternatives.",
+        "Check your AI plan now: capacity won't wait."
+      ]
+    },
+    "instagram": {
+      "caption": "New Pro signups are closed right now because too many people wanted the same new model.\n\nOpenAI paused Pro subscriptions after demand for its Astra model passed what its servers could handle. 🚦\n\nIf you want Astra, your only route is a waitlist or another tool until capacity catches up.\n\nSo if your work depends on the newest model, check what your current plan actually includes before you get stuck. 🧩\n\nWhich AI tool are you relying on today, and would it survive a waitlist? ⏳"
+    }
+  },
+  "instagram_caption": "New Pro signups are closed right now because too many people wanted the same new model.\n\nOpenAI paused Pro subscriptions after demand for its Astra model passed what its servers could handle. 🚦\n\nIf you want Astra, your only route is a waitlist or another tool until capacity catches up.\n\nSo if your work depends on the newest model, check what your current plan actually includes before you get stuck. 🧩\n\nWhich AI tool are you relying on today, and would it survive a waitlist? ⏳",
+  "carousel_slides": [
+    {
+      "hook": "OpenAI just paused Pro. Why?",
+      "description": "New Pro subscriptions halted because demand for the Astra model exceeded available server capacity, forcing OpenAI to stop new signups.",
+      "visual_hint": "Large server room with blinking lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Astra demand crushed capacity",
+      "description": "Astra's popularity overwhelmed infrastructure so completely that OpenAI had to stop accepting new Pro users entirely, not just slow down.",
+      "visual_hint": "Capacity graph spiking off the chart",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Astra is unlike anything before",
+      "description": "Its unprecedented capabilities triggered a massive signup surge, directly causing the capacity crisis that paused Pro subscriptions.",
+      "visual_hint": "Glowing AI chip close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No Astra access right now",
+      "description": "If you want Astra, your only options are joining a waitlist or using alternatives until OpenAI expands capacity again.",
+      "visual_hint": "Person waiting with laptop",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your AI plan now",
+      "description": "Open your current AI subscription and verify it covers what you need. Capacity won't wait for you to figure it out.",
+      "visual_hint": "Hand holding phone showing plan",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+  "savedAt": "2026-09-10T23:34:32.407Z",
+  "sourceId": "5a7a028d73b1f767f8cbcdc6ade347c4"
+}

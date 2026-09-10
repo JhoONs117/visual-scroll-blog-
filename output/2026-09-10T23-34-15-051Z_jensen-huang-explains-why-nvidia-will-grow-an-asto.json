@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jensen-huang-explains-why-nvidia-will-grow-an-asto",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+  "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+  "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+  "slides": [
+    "Why does Jensen Huang see 70% growth ahead?",
+    "Nvidia's next-gen chips are already sold out",
+    "But the real driver isn't hardware at all",
+    "Your AI workloads will get 10x cheaper per token",
+    "Audit your inference costs before pricing shifts"
+  ],
+  "thread_text": [
+    "1. Nvidia Sold Out, But Not For Chips\n\nJensen Huang just said Nvidia's next-gen chips are already sold out. But the real driver behind his 70% growth forecast isn't hardware. It's something far more disruptive to your AI costs.",
+    "2. The Real Growth Engine\n\nSoftware and services are what will make AI workloads 10x cheaper per token. That collapse in inference costs is what Huang is betting on, not just silicon.",
+    "3. Your Token Bill Is About To Drop\n\nWhen inference gets 10x cheaper, every AI product you build changes. Margins, pricing, even what's possible. But most teams aren't ready for the shift.",
+    "4. Audit Before The Price War\n\nIf your inference costs drop 10x, your competitors' will too. That means pricing pressure, not just savings. The winners will be those who already know their cost per token.",
+    "5. Check Your Inference Costs Today\n\nPull up your last cloud bill and calculate your actual cost per token. If you don't know that number, you're flying blind into a pricing revolution."
+  ],
+  "video_script": [
+    "Jensen Huang sees 70% growth ahead, but not from chips.",
+    "Nvidia's next-gen chips are sold out, yet hardware isn't the driver.",
+    "The real shift is software making AI 10 times cheaper per token.",
+    "That means your inference costs will plummet, and so will your competitors'.",
+    "Audit your inference costs today before pricing shifts."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nvidia Sold Out, But Not For Chips\n\nJensen Huang just said Nvidia's next-gen chips are already sold out. But the real driver behind his 70% growth forecast isn't hardware. It's something far more disruptive to your AI costs.",
+        "2. The Real Growth Engine\n\nSoftware and services are what will make AI workloads 10x cheaper per token. That collapse in inference costs is what Huang is betting on, not just silicon.",
+        "3. Your Token Bill Is About To Drop\n\nWhen inference gets 10x cheaper, every AI product you build changes. Margins, pricing, even what's possible. But most teams aren't ready for the shift.",
+        "4. Audit Before The Price War\n\nIf your inference costs drop 10x, your competitors' will too. That means pricing pressure, not just savings. The winners will be those who already know their cost per token.",
+        "5. Check Your Inference Costs Today\n\nPull up your last cloud bill and calculate your actual cost per token. If you don't know that number, you're flying blind into a pricing revolution."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang sees 70% growth ahead, but not from chips.",
+        "Nvidia's next-gen chips are sold out, yet hardware isn't the driver.",
+        "The real shift is software making AI 10 times cheaper per token.",
+        "That means your inference costs will plummet, and so will your competitors'.",
+        "Audit your inference costs today before pricing shifts."
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia's next-gen chips are already sold out, but Jensen Huang says the real growth driver isn't hardware.\n\nSoftware and services are what will make AI workloads 10x cheaper per token. 📉\n\nThat collapse in inference costs is what's behind his 70% growth forecast. When your costs drop, so do your competitors'.\n\nIf you build or publish with AI, your margins and pricing are about to shift — whether you're ready or not. 💸\n\nPull up your last cloud bill and calculate your actual cost per token. 🧮\n\nDo you know that number, or are you flying blind into a price war? ⚠️"
+    }
+  },
+  "instagram_caption": "Nvidia's next-gen chips are already sold out, but Jensen Huang says the real growth driver isn't hardware.\n\nSoftware and services are what will make AI workloads 10x cheaper per token. 📉\n\nThat collapse in inference costs is what's behind his 70% growth forecast. When your costs drop, so do your competitors'.\n\nIf you build or publish with AI, your margins and pricing are about to shift — whether you're ready or not. 💸\n\nPull up your last cloud bill and calculate your actual cost per token. 🧮\n\nDo you know that number, or are you flying blind into a price war? ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Why is Nvidia doubling down on software?",
+      "description": "Jensen Huang forecasts 70% growth, but the real driver is software that will make AI inference 10x cheaper.",
+      "visual_hint": "Jensen Huang on stage with charts",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "Jensen Huang keynote"
+    },
+    {
+      "hook": "Next-gen chips are already sold out",
+      "description": "Nvidia's upcoming chips are sold out, yet Huang's bet isn't on silicon—it's on the software layer above.",
+      "visual_hint": "Sold-out sign next to GPU",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "GPU chip closeup",
+      "image": "https://images.pexels.com/photos/34552801/pexels-photo-34552801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The real driver isn't hardware",
+      "description": "Software and services will cut inference costs by 10x per token, reshaping every AI product's economics.",
+      "visual_hint": "Abstract code lines turning into coins",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "software code abstract",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your token bill is about to drop",
+      "description": "When inference gets 10x cheaper, pricing pressure hits everyone. Winners will already know their cost per token.",
+      "visual_hint": "Hand holding calculator with cloud bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "calculator cloud bill",
+      "image": "https://images.pexels.com/photos/7111614/pexels-photo-7111614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your inference costs now",
+      "description": "Pull up your last cloud bill and calculate your actual cost per token. If you don't know it, you're flying blind.",
+      "visual_hint": "Cloud bill with magnifying glass",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "cloud billing dashboard",
+      "image": "https://images.pexels.com/photos/8296949/pexels-photo-8296949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+  "savedAt": "2026-09-10T23:34:24.245Z",
+  "sourceId": "3f1b7e6d6a103cc4efbde4b8edaae47e"
+}
