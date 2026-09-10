@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "read-the-apple-document-explaining-how-new-listeni",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Read the Apple document explaining how new listening features still protect your privacy",
+  "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+  "pubDate": "2026-09-09T20:44:43.000Z",
+  "slides": [
+    "Apple's new listening features: can they be private?",
+    "The document details on-device processing for audio.",
+    "But some data still goes to servers for specific features.",
+    "You can control which features share data in settings.",
+    "Review your privacy settings today and decide what to share."
+  ],
+  "thread_text": [
+    "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+    "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+    "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+    "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+    "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+  ],
+  "video_script": [
+    "Apple says audio stays on your phone.",
+    "But some features still send data to servers.",
+    "Live captions never leave the device.",
+    "Siri samples do — and the toggle is buried.",
+    "Check your privacy settings today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+        "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+        "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+        "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+        "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Apple says audio stays on your phone.",
+        "But some features still send data to servers.",
+        "Live captions never leave the device.",
+        "Siri samples do — and the toggle is buried.",
+        "Check your privacy settings today."
+      ]
+    },
+    "instagram": {
+      "caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀"
+    }
+  },
+  "instagram_caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Is your voice truly private?",
+      "description": "On-device processing covers live captions and sound recognition, but some features still send audio fragments to remote servers.",
+      "visual_hint": "Smartphone with audio waveform on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone audio"
+    },
+    {
+      "hook": "What stays on your phone",
+      "description": "Real-time audio like live captions and sound recognition never leaves your device — but only for the features Apple lists.",
+      "visual_hint": "Phone with sound wave icon and lock",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Some features still upload samples",
+      "description": "Siri improvements and personalized dictation send audio samples to servers. Apple doesn't clearly label which features do this.",
+      "visual_hint": "Data flowing from phone to server",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You control what gets shared",
+      "description": "In Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that hidden menu.",
+      "visual_hint": "Hand tapping privacy toggle on phone",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "phone settings",
+      "image": "https://images.pexels.com/photos/13702503/pexels-photo-13702503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your privacy settings now",
+      "description": "Open Privacy > Analytics & Improvements. If sharing is on for unused features, switch them off. Save this post!",
+      "visual_hint": "Phone showing privacy settings menu",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "privacy settings",
+      "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+  "savedAt": "2026-09-10T13:59:07.872Z",
+  "sourceId": "0a721c2e70b7f85e200b4b98a73f7f2c"
+}

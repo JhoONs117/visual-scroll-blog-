@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-has-new-ai-privacy-rules-for-schools",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft has new AI privacy rules for schools",
+    "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+    "pubDate": "2026-09-09T17:07:48.000Z",
+    "slides": [
+      "Can Microsoft police AI in your child's classroom?",
+      "New privacy rules for schools using its AI tools",
+      "Teachers still can't see what students type into chatbots",
+      "Schools must now audit AI vendors — starting immediately",
+      "Ask your district: who reviews the algorithms?"
+    ],
+    "thread_text": [
+      "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+      "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+      "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+      "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+      "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+    ],
+    "video_script": [
+      "Microsoft says it can't see student chatbot messages.",
+      "New rules force schools to audit AI vendors now.",
+      "Teachers still have zero access to those chat logs.",
+      "Most districts have no idea who checks the algorithms.",
+      "Ask your school: who reviews this AI?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+          "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+          "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+          "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+          "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft says it can't see student chatbot messages.",
+          "New rules force schools to audit AI vendors now.",
+          "Teachers still have zero access to those chat logs.",
+          "Most districts have no idea who checks the algorithms.",
+          "Ask your school: who reviews this AI?"
+        ]
+      },
+      "instagram": {
+        "caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬"
+      }
+    },
+    "instagram_caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬",
+    "carousel_slides": [
+      {
+        "hook": "Your child's AI tutor has secrets",
+        "description": "Microsoft can't see what students type into classroom chatbots. New privacy rules still leave this blind spot unaddressed.",
+        "visual_hint": "Child typing on laptop, dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "child laptop"
+      },
+      {
+        "hook": "Schools signed a blank check",
+        "description": "Districts must audit every AI vendor immediately, but most have no idea where to begin. The mandate lands without a roadmap.",
+        "visual_hint": "Signed contract with blurred fine print",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "contract signing",
+        "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Teachers can't see chatbot logs",
+        "description": "Educators were never given access to what students type. Without logs, no one can check if algorithms treat students fairly.",
+        "visual_hint": "Teacher looking at empty computer screen",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "teacher computer",
+        "image": "https://images.pexels.com/photos/5905754/pexels-photo-5905754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Vendors hide behind proprietary code",
+        "description": "Companies call their AI code proprietary. Schools call it a black box. Parents call it a problem with no oversight.",
+        "visual_hint": "Hand touching a locked black box",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "black box",
+        "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your district: who reviews algorithms?",
+        "description": "This week, contact your school district. Ask who reviews the algorithms your child's classroom uses. If no one knows, that's your answer.",
+        "visual_hint": "Parent making phone call, concerned expression",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "parent phone call",
+        "image": "https://images.pexels.com/photos/6274866/pexels-photo-6274866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-10T13:59:17.551Z",
+    "sourceId": "6004f692b65edf93074217ab406ca440"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "read-the-apple-document-explaining-how-new-listeni",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "pubDate": "2026-09-09T20:44:43.000Z",
+    "slides": [
+      "Apple's new listening features: can they be private?",
+      "The document details on-device processing for audio.",
+      "But some data still goes to servers for specific features.",
+      "You can control which features share data in settings.",
+      "Review your privacy settings today and decide what to share."
+    ],
+    "thread_text": [
+      "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+      "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+      "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+      "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+      "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+    ],
+    "video_script": [
+      "Apple says audio stays on your phone.",
+      "But some features still send data to servers.",
+      "Live captions never leave the device.",
+      "Siri samples do — and the toggle is buried.",
+      "Check your privacy settings today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+          "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+          "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+          "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+          "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Apple says audio stays on your phone.",
+          "But some features still send data to servers.",
+          "Live captions never leave the device.",
+          "Siri samples do — and the toggle is buried.",
+          "Check your privacy settings today."
+        ]
+      },
+      "instagram": {
+        "caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀"
+      }
+    },
+    "instagram_caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Is your voice truly private?",
+        "description": "On-device processing covers live captions and sound recognition, but some features still send audio fragments to remote servers.",
+        "visual_hint": "Smartphone with audio waveform on screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone audio"
+      },
+      {
+        "hook": "What stays on your phone",
+        "description": "Real-time audio like live captions and sound recognition never leaves your device — but only for the features Apple lists.",
+        "visual_hint": "Phone with sound wave icon and lock",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "sound wave",
+        "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Some features still upload samples",
+        "description": "Siri improvements and personalized dictation send audio samples to servers. Apple doesn't clearly label which features do this.",
+        "visual_hint": "Data flowing from phone to server",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "server room",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You control what gets shared",
+        "description": "In Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that hidden menu.",
+        "visual_hint": "Hand tapping privacy toggle on phone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "phone settings",
+        "image": "https://images.pexels.com/photos/13702503/pexels-photo-13702503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your privacy settings now",
+        "description": "Open Privacy > Analytics & Improvements. If sharing is on for unused features, switch them off. Save this post!",
+        "visual_hint": "Phone showing privacy settings menu",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "privacy settings",
+        "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "savedAt": "2026-09-10T13:59:07.872Z",
+    "sourceId": "0a721c2e70b7f85e200b4b98a73f7f2c"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "mathematicians-want-proof-openai-didn-t-use-their-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Mathematicians want proof OpenAI didn’t use their work ",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "pubDate": "2026-09-10T11:00:57.000Z",
+    "slides": [
+      "Did OpenAI train on mathematicians' unpublished proofs?",
+      "Their copyrighted papers were submitted for AI training",
+      "OpenAI claims fair use, but data provenance is murky",
+      "Your research could be in a model without consent",
+      "Check if your work is in AI training sets"
+    ],
+    "thread_text": [
+      "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+      "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+      "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+      "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+      "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+    ],
+    "video_script": [
+      "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+      "Their papers were submitted for review, not for AI training.",
+      "OpenAI claims fair use, but the data trail is murky.",
+      "Your research could be in a model without your consent.",
+      "Check if your work is in AI training sets today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+          "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+          "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+          "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+          "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+          "Their papers were submitted for review, not for AI training.",
+          "OpenAI claims fair use, but the data trail is murky.",
+          "Your research could be in a model without your consent.",
+          "Check if your work is in AI training sets today."
+        ]
+      },
+      "instagram": {
+        "caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?"
+      }
+    },
+    "instagram_caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?",
+    "carousel_slides": [
+      {
+        "hook": "Your paper trained AI without consent",
+        "description": "OpenAI reportedly trained on mathematicians' unpublished proofs from peer review servers, not the open web. Provenance remains a black box.",
+        "visual_hint": "Locked server racks with glowing lights",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Submitted for review, not for training",
+        "description": "Researchers sent papers for peer review, but those files ended up in AI datasets anyway. Consent was never part of the pipeline.",
+        "visual_hint": "Academic paper stack on desk",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "academic papers",
+        "image": "https://images.pexels.com/photos/7128770/pexels-photo-7128770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Fair use or free ride?",
+        "description": "OpenAI claims fair use, yet can't specify exactly where training data came from. The provenance is a legal black box.",
+        "visual_hint": "Blurred data streams over courtroom",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "courtroom interior",
+        "image": "https://images.pexels.com/photos/18845131/pexels-photo-18845131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your work may be inside a model",
+        "description": "If you've submitted a paper for review, it may already be inside an AI model you use daily. No permission was asked.",
+        "visual_hint": "Hand typing on laptop keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check if your work was scraped",
+        "description": "Search your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next.",
+        "visual_hint": "Search bar with paper results",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "search engine",
+        "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.54557577814%2C100%2C78.90884844372&amp;w=1200",
+    "savedAt": "2026-09-10T13:58:58.008Z",
+    "sourceId": "3aead6fbd8135d1e568c1a8cfbdfc8d4"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "jd-com-expands-physical-ai-in-logistics-with-3-mil",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "JD.com expands physical AI in logistics with 3 million robots",
+    "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+    "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+    "slides": [
+      "Can JD.com's 3 million robots outpace human workers?",
+      "These machines now handle warehouse sorting and delivery routes",
+      "But they still fail at unpredictable, cluttered environments",
+      "Your next delivery may arrive via robot—but with limits",
+      "Test one robot task yourself before assuming full autonomy"
+    ],
+    "thread_text": [
+      "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+      "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+      "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+      "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+      "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+    ],
+    "video_script": [
+      "JD.com now uses three million robots.",
+      "They sort packages and plan delivery routes.",
+      "But messy rooms still confuse them.",
+      "Your next delivery might come by robot.",
+      "Try one robot task yourself first."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+          "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+          "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+          "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+          "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "JD.com now uses three million robots.",
+          "They sort packages and plan delivery routes.",
+          "But messy rooms still confuse them.",
+          "Your next delivery might come by robot.",
+          "Try one robot task yourself first."
+        ]
+      },
+      "instagram": {
+        "caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪"
+      }
+    },
+    "instagram_caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪",
+    "carousel_slides": [
+      {
+        "hook": "Can 3 million robots handle chaos?",
+        "description": "JD.com's robots sort packages and plan routes, but freeze when faced with unpredictable, cluttered environments.",
+        "visual_hint": "Robot arm frozen mid-motion",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "factory robot"
+      },
+      {
+        "hook": "Robots cut warehouse labor in half",
+        "description": "JD.com's fleet handles repetitive sorting flawlessly, but each machine still needs a human for anything unexpected.",
+        "visual_hint": "Robots sorting packages on conveyor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "warehouse conveyor",
+        "image": "https://images.pexels.com/photos/27425951/pexels-photo-27425951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Drop a random object, robot freezes",
+        "description": "Real-world messiness beats every algorithm; cluttered chaos still stops automation cold in its tracks.",
+        "visual_hint": "Object blocking robot's path",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "cluttered floor",
+        "image": "https://images.pexels.com/photos/35071847/pexels-photo-35071847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your delivery robot has hidden limits",
+        "description": "A bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+        "visual_hint": "Delivery robot on mapped street",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "delivery robot",
+        "image": "https://images.pexels.com/photos/24304581/pexels-photo-24304581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test a robot yourself today",
+        "description": "Give a robot one simple task in a messy room. If it fails, you know the limits of full autonomy.",
+        "visual_hint": "Person watching robot attempt task",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "robot task test",
+        "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-10T13:58:49.225Z",
+    "sourceId": "96d0a041a36097c194524a36a83b1d5e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "apple-s-new-iphone-camera-mode-promises-to-prove-y",
     "prompt_version": "1.0.0",
     "status": "published",

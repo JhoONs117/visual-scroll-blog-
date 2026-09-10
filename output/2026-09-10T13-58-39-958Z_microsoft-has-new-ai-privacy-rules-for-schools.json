@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-has-new-ai-privacy-rules-for-schools",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft has new AI privacy rules for schools",
+  "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+  "pubDate": "2026-09-09T17:07:48.000Z",
+  "slides": [
+    "Can Microsoft police AI in your child's classroom?",
+    "New privacy rules for schools using its AI tools",
+    "Teachers still can't see what students type into chatbots",
+    "Schools must now audit AI vendors — starting immediately",
+    "Ask your district: who reviews the algorithms?"
+  ],
+  "thread_text": [
+    "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+    "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+    "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+    "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+    "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+  ],
+  "video_script": [
+    "Microsoft says it can't see student chatbot messages.",
+    "New rules force schools to audit AI vendors now.",
+    "Teachers still have zero access to those chat logs.",
+    "Most districts have no idea who checks the algorithms.",
+    "Ask your school: who reviews this AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+        "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+        "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+        "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+        "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft says it can't see student chatbot messages.",
+        "New rules force schools to audit AI vendors now.",
+        "Teachers still have zero access to those chat logs.",
+        "Most districts have no idea who checks the algorithms.",
+        "Ask your school: who reviews this AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬"
+    }
+  },
+  "instagram_caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬",
+  "carousel_slides": [
+    {
+      "hook": "Your child's AI tutor has secrets",
+      "description": "Microsoft can't see what students type into classroom chatbots. New privacy rules still leave this blind spot unaddressed.",
+      "visual_hint": "Child typing on laptop, dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "child laptop"
+    },
+    {
+      "hook": "Schools signed a blank check",
+      "description": "Districts must audit every AI vendor immediately, but most have no idea where to begin. The mandate lands without a roadmap.",
+      "visual_hint": "Signed contract with blurred fine print",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "contract signing",
+      "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Teachers can't see chatbot logs",
+      "description": "Educators were never given access to what students type. Without logs, no one can check if algorithms treat students fairly.",
+      "visual_hint": "Teacher looking at empty computer screen",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "teacher computer",
+      "image": "https://images.pexels.com/photos/5905754/pexels-photo-5905754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Vendors hide behind proprietary code",
+      "description": "Companies call their AI code proprietary. Schools call it a black box. Parents call it a problem with no oversight.",
+      "visual_hint": "Hand touching a locked black box",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "black box",
+      "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your district: who reviews algorithms?",
+      "description": "This week, contact your school district. Ask who reviews the algorithms your child's classroom uses. If no one knows, that's your answer.",
+      "visual_hint": "Parent making phone call, concerned expression",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "parent phone call",
+      "image": "https://images.pexels.com/photos/6274866/pexels-photo-6274866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-10T13:59:17.551Z",
+  "sourceId": "6004f692b65edf93074217ab406ca440"
+}

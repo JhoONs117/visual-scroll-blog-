@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "jd-com-expands-physical-ai-in-logistics-with-3-mil",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "JD.com expands physical AI in logistics with 3 million robots",
+  "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+  "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+  "slides": [
+    "Can JD.com's 3 million robots outpace human workers?",
+    "These machines now handle warehouse sorting and delivery routes",
+    "But they still fail at unpredictable, cluttered environments",
+    "Your next delivery may arrive via robot—but with limits",
+    "Test one robot task yourself before assuming full autonomy"
+  ],
+  "thread_text": [
+    "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+    "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+    "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+    "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+    "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+  ],
+  "video_script": [
+    "JD.com now uses three million robots.",
+    "They sort packages and plan delivery routes.",
+    "But messy rooms still confuse them.",
+    "Your next delivery might come by robot.",
+    "Try one robot task yourself first."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+        "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+        "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+        "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+        "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "JD.com now uses three million robots.",
+        "They sort packages and plan delivery routes.",
+        "But messy rooms still confuse them.",
+        "Your next delivery might come by robot.",
+        "Try one robot task yourself first."
+      ]
+    },
+    "instagram": {
+      "caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪"
+    }
+  },
+  "instagram_caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪",
+  "carousel_slides": [
+    {
+      "hook": "Can 3 million robots handle chaos?",
+      "description": "JD.com's robots sort packages and plan routes, but freeze when faced with unpredictable, cluttered environments.",
+      "visual_hint": "Robot arm frozen mid-motion",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "factory robot"
+    },
+    {
+      "hook": "Robots cut warehouse labor in half",
+      "description": "JD.com's fleet handles repetitive sorting flawlessly, but each machine still needs a human for anything unexpected.",
+      "visual_hint": "Robots sorting packages on conveyor",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "warehouse conveyor",
+      "image": "https://images.pexels.com/photos/27425951/pexels-photo-27425951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Drop a random object, robot freezes",
+      "description": "Real-world messiness beats every algorithm; cluttered chaos still stops automation cold in its tracks.",
+      "visual_hint": "Object blocking robot's path",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cluttered floor",
+      "image": "https://images.pexels.com/photos/35071847/pexels-photo-35071847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your delivery robot has hidden limits",
+      "description": "A bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+      "visual_hint": "Delivery robot on mapped street",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "delivery robot",
+      "image": "https://images.pexels.com/photos/24304581/pexels-photo-24304581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test a robot yourself today",
+      "description": "Give a robot one simple task in a messy room. If it fails, you know the limits of full autonomy.",
+      "visual_hint": "Person watching robot attempt task",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "robot task test",
+      "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-10T13:58:49.225Z",
+  "sourceId": "96d0a041a36097c194524a36a83b1d5e"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-has-new-ai-privacy-rules-for-schools",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "pubDate": "2026-09-09T17:07:48.000Z",
+      "slides": [
+        "Can Microsoft police AI in your child's classroom?",
+        "New privacy rules for schools using its AI tools",
+        "Teachers still can't see what students type into chatbots",
+        "Schools must now audit AI vendors — starting immediately",
+        "Ask your district: who reviews the algorithms?"
+      ],
+      "thread_text": [
+        "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+        "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+        "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+        "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+        "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+      ],
+      "video_script": [
+        "Microsoft says it can't see student chatbot messages.",
+        "New rules force schools to audit AI vendors now.",
+        "Teachers still have zero access to those chat logs.",
+        "Most districts have no idea who checks the algorithms.",
+        "Ask your school: who reviews this AI?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your kid's AI tutor has secrets\n\nMicrosoft can't see what students type into classroom chatbots. Privacy rules just changed, but the blind spot remains.",
+            "2. Schools signed a blank check\n\nDistricts now must audit every AI vendor they use — starting immediately. Most have no idea where to begin.",
+            "3. The audit nobody prepared for\n\nTeachers were never given access to chatbot logs. So who checks if algorithms treat students fairly?",
+            "4. Vendors won't show their code\n\nCompanies call it proprietary. Schools call it a black box. Parents call it a problem.",
+            "5. Ask your district this week\n\nWho reviews the algorithms your child's school uses? If no one knows, that's your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft says it can't see student chatbot messages.",
+            "New rules force schools to audit AI vendors now.",
+            "Teachers still have zero access to those chat logs.",
+            "Most districts have no idea who checks the algorithms.",
+            "Ask your school: who reviews this AI?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬"
+        }
+      },
+      "instagram_caption": "Your child's school AI vendor just became your district's responsibility to audit — starting now.\n\nMicrosoft issued new privacy rules for schools using its AI tools. Districts must audit every AI vendor immediately.\n\nBut teachers still can't see what students type into classroom chatbots. Vendors call their algorithms proprietary. Schools call it a black box. 🔍\n\nSo who checks if these tools treat students fairly? 🤔\n\nIf you publish or create content involving schools, this sets a precedent for how AI transparency gets handled everywhere. 📋\n\nAsk your district this week: who reviews the algorithms your child's school uses? If nobody knows, that's your answer. 💬",
+      "carousel_slides": [
+        {
+          "hook": "Your child's AI tutor has secrets",
+          "description": "Microsoft can't see what students type into classroom chatbots. New privacy rules still leave this blind spot unaddressed.",
+          "visual_hint": "Child typing on laptop, dark screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "child laptop"
+        },
+        {
+          "hook": "Schools signed a blank check",
+          "description": "Districts must audit every AI vendor immediately, but most have no idea where to begin. The mandate lands without a roadmap.",
+          "visual_hint": "Signed contract with blurred fine print",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "contract signing",
+          "image": "https://images.pexels.com/photos/8441783/pexels-photo-8441783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Teachers can't see chatbot logs",
+          "description": "Educators were never given access to what students type. Without logs, no one can check if algorithms treat students fairly.",
+          "visual_hint": "Teacher looking at empty computer screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "teacher computer",
+          "image": "https://images.pexels.com/photos/5905754/pexels-photo-5905754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Vendors hide behind proprietary code",
+          "description": "Companies call their AI code proprietary. Schools call it a black box. Parents call it a problem with no oversight.",
+          "visual_hint": "Hand touching a locked black box",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "black box",
+          "image": "https://images.pexels.com/photos/4271691/pexels-photo-4271691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask your district: who reviews algorithms?",
+          "description": "This week, contact your school district. Ask who reviews the algorithms your child's classroom uses. If no one knows, that's your answer.",
+          "visual_hint": "Parent making phone call, concerned expression",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "parent phone call",
+          "image": "https://images.pexels.com/photos/6274866/pexels-photo-6274866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-10T13:59:17.551Z",
+      "sourceId": "6004f692b65edf93074217ab406ca440"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "read-the-apple-document-explaining-how-new-listeni",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "pubDate": "2026-09-09T20:44:43.000Z",
+      "slides": [
+        "Apple's new listening features: can they be private?",
+        "The document details on-device processing for audio.",
+        "But some data still goes to servers for specific features.",
+        "You can control which features share data in settings.",
+        "Review your privacy settings today and decide what to share."
+      ],
+      "thread_text": [
+        "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+        "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+        "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+        "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+        "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+      ],
+      "video_script": [
+        "Apple says audio stays on your phone.",
+        "But some features still send data to servers.",
+        "Live captions never leave the device.",
+        "Siri samples do — and the toggle is buried.",
+        "Check your privacy settings today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Voice, Their Servers\n\nApple says audio is processed on-device, but some features send fragments to remote servers anyway. You won't know which until you dig into settings.",
+            "2. What Actually Stays Local\n\nOn-device processing covers real-time audio — that means live captions and sound recognition never leave your phone. The catch: it's only for the features Apple lists.",
+            "3. The Silent Uploads\n\nFeatures like Siri improvements and personalized dictation still upload samples. Apple doesn't label which ones clearly — you have to hunt for the toggle.",
+            "4. Your Switch, Their Default\n\nIn Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that menu because onboarding buries it.",
+            "5. The 30-Second Test\n\nOpen your Privacy > Analytics & Improvements right now. If sharing is still on for features you never use, switch them off. Did you even know they were there?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Apple says audio stays on your phone.",
+            "But some features still send data to servers.",
+            "Live captions never leave the device.",
+            "Siri samples do — and the toggle is buried.",
+            "Check your privacy settings today."
+          ]
+        },
+        "instagram": {
+          "caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀"
+        }
+      },
+      "instagram_caption": "Live captions and sound recognition run entirely on your iPhone — the audio never leaves the device.\n\nBut Siri improvements and personalized dictation still ship fragments of your voice to Apple's servers. The company explains it in a document, not in a popup.\n\nThe controls sit in Settings > Privacy > Analytics & Improvements, turned on by default and buried enough that most people never see them. 🎙️\n\nIf you record voiceovers, interviews, or client calls on an iPhone, samples of that audio can be part of what gets uploaded. 🔒\n\nOpen that menu now and check each toggle. Were they on without you ever choosing? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Is your voice truly private?",
+          "description": "On-device processing covers live captions and sound recognition, but some features still send audio fragments to remote servers.",
+          "visual_hint": "Smartphone with audio waveform on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone audio"
+        },
+        {
+          "hook": "What stays on your phone",
+          "description": "Real-time audio like live captions and sound recognition never leaves your device — but only for the features Apple lists.",
+          "visual_hint": "Phone with sound wave icon and lock",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "sound wave",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Some features still upload samples",
+          "description": "Siri improvements and personalized dictation send audio samples to servers. Apple doesn't clearly label which features do this.",
+          "visual_hint": "Data flowing from phone to server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You control what gets shared",
+          "description": "In Settings > Privacy > Analytics & Improvements, you can turn off sharing per feature. Most people never open that hidden menu.",
+          "visual_hint": "Hand tapping privacy toggle on phone",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "phone settings",
+          "image": "https://images.pexels.com/photos/13702503/pexels-photo-13702503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your privacy settings now",
+          "description": "Open Privacy > Analytics & Improvements. If sharing is on for unused features, switch them off. Save this post!",
+          "visual_hint": "Phone showing privacy settings menu",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "privacy settings",
+          "image": "https://images.pexels.com/photos/37592338/pexels-photo-37592338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "savedAt": "2026-09-10T13:59:07.872Z",
+      "sourceId": "0a721c2e70b7f85e200b4b98a73f7f2c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mathematicians-want-proof-openai-didn-t-use-their-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mathematicians want proof OpenAI didn’t use their work ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "pubDate": "2026-09-10T11:00:57.000Z",
+      "slides": [
+        "Did OpenAI train on mathematicians' unpublished proofs?",
+        "Their copyrighted papers were submitted for AI training",
+        "OpenAI claims fair use, but data provenance is murky",
+        "Your research could be in a model without consent",
+        "Check if your work is in AI training sets"
+      ],
+      "thread_text": [
+        "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+        "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+        "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+        "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+        "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+      ],
+      "video_script": [
+        "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+        "Their papers were submitted for review, not for AI training.",
+        "OpenAI claims fair use, but the data trail is murky.",
+        "Your research could be in a model without your consent.",
+        "Check if your work is in AI training sets today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+            "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+            "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+            "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+            "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+            "Their papers were submitted for review, not for AI training.",
+            "OpenAI claims fair use, but the data trail is murky.",
+            "Your research could be in a model without your consent.",
+            "Check if your work is in AI training sets today."
+          ]
+        },
+        "instagram": {
+          "caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?"
+        }
+      },
+      "instagram_caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?",
+      "carousel_slides": [
+        {
+          "hook": "Your paper trained AI without consent",
+          "description": "OpenAI reportedly trained on mathematicians' unpublished proofs from peer review servers, not the open web. Provenance remains a black box.",
+          "visual_hint": "Locked server racks with glowing lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Submitted for review, not for training",
+          "description": "Researchers sent papers for peer review, but those files ended up in AI datasets anyway. Consent was never part of the pipeline.",
+          "visual_hint": "Academic paper stack on desk",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "academic papers",
+          "image": "https://images.pexels.com/photos/7128770/pexels-photo-7128770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fair use or free ride?",
+          "description": "OpenAI claims fair use, yet can't specify exactly where training data came from. The provenance is a legal black box.",
+          "visual_hint": "Blurred data streams over courtroom",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "courtroom interior",
+          "image": "https://images.pexels.com/photos/18845131/pexels-photo-18845131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your work may be inside a model",
+          "description": "If you've submitted a paper for review, it may already be inside an AI model you use daily. No permission was asked.",
+          "visual_hint": "Hand typing on laptop keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check if your work was scraped",
+          "description": "Search your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next.",
+          "visual_hint": "Search bar with paper results",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "search engine",
+          "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.54557577814%2C100%2C78.90884844372&amp;w=1200",
+      "savedAt": "2026-09-10T13:58:58.008Z",
+      "sourceId": "3aead6fbd8135d1e568c1a8cfbdfc8d4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "jd-com-expands-physical-ai-in-logistics-with-3-mil",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "slides": [
+        "Can JD.com's 3 million robots outpace human workers?",
+        "These machines now handle warehouse sorting and delivery routes",
+        "But they still fail at unpredictable, cluttered environments",
+        "Your next delivery may arrive via robot—but with limits",
+        "Test one robot task yourself before assuming full autonomy"
+      ],
+      "thread_text": [
+        "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+        "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+        "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+        "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+        "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+      ],
+      "video_script": [
+        "JD.com now uses three million robots.",
+        "They sort packages and plan delivery routes.",
+        "But messy rooms still confuse them.",
+        "Your next delivery might come by robot.",
+        "Try one robot task yourself first."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. 3 Million Robots?\n\nJD.com's robot fleet now sorts packages and plans delivery routes at scale, cutting human labor in some warehouses by half.",
+            "2. The Sorting Shift\n\nThese machines handle repetitive tasks flawlessly, but each one still needs a human to handle anything unexpected.",
+            "3. Cluttered Chaos\n\nDrop a random object in a robot's path, and it freezes. Real-world messiness still beats every algorithm.",
+            "4. Your Robot Delivery\n\nOne day a bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+            "5. Test It Yourself\n\nGive a robot one simple task in a messy room. If it fails, you know the limits of full autonomy."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "JD.com now uses three million robots.",
+            "They sort packages and plan delivery routes.",
+            "But messy rooms still confuse them.",
+            "Your next delivery might come by robot.",
+            "Try one robot task yourself first."
+          ]
+        },
+        "instagram": {
+          "caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪"
+        }
+      },
+      "instagram_caption": "Half the human labor in some JD.com warehouses is now handled by machines.\n\n3 million robots sort packages and plan delivery routes at scale. 🤖\n\nThey nail repetitive tasks, but drop something unexpected in their path and they freeze. 📦\n\nIf you write about tech or logistics, this is the gap worth covering: automation is real, full autonomy isn't.\n\nWould you trust a robot to deliver to your door if the route hit one unmapped obstacle? 🚪",
+      "carousel_slides": [
+        {
+          "hook": "Can 3 million robots handle chaos?",
+          "description": "JD.com's robots sort packages and plan routes, but freeze when faced with unpredictable, cluttered environments.",
+          "visual_hint": "Robot arm frozen mid-motion",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "factory robot"
+        },
+        {
+          "hook": "Robots cut warehouse labor in half",
+          "description": "JD.com's fleet handles repetitive sorting flawlessly, but each machine still needs a human for anything unexpected.",
+          "visual_hint": "Robots sorting packages on conveyor",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "warehouse conveyor",
+          "image": "https://images.pexels.com/photos/27425951/pexels-photo-27425951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Drop a random object, robot freezes",
+          "description": "Real-world messiness beats every algorithm; cluttered chaos still stops automation cold in its tracks.",
+          "visual_hint": "Object blocking robot's path",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cluttered floor",
+          "image": "https://images.pexels.com/photos/35071847/pexels-photo-35071847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your delivery robot has hidden limits",
+          "description": "A bot may knock on your door, but only if the route is perfectly mapped and nothing goes wrong.",
+          "visual_hint": "Delivery robot on mapped street",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "delivery robot",
+          "image": "https://images.pexels.com/photos/24304581/pexels-photo-24304581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test a robot yourself today",
+          "description": "Give a robot one simple task in a messy room. If it fails, you know the limits of full autonomy.",
+          "visual_hint": "Person watching robot attempt task",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "robot task test",
+          "image": "https://images.pexels.com/photos/10875411/pexels-photo-10875411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-10T13:58:49.225Z",
+      "sourceId": "96d0a041a36097c194524a36a83b1d5e"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "apple-s-new-iphone-camera-mode-promises-to-prove-y",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -148626,6 +149042,339 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "pasta-alle-3-p",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pasta alle 3 P",
+      "link": "https://ricette.giallozafferano.it/Pasta-alle-3-P.html",
+      "pubDate": "Thu, 10 Sep 2026 10:05:00 +0200",
+      "content": "Pasta alle 3 P: panna, pomodoro e pesto Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta alle 3 P /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 10 min Cottura: 45 min Dosi per: 4 persone Costo: Basso PRESENTAZIONE Cosa succede quando unite panna , pomodoro e pesto nello stesso condimento? Nasce la pasta alle 3 P , un primo piatto cremoso e saporito, caratterizzato da un colore invitante e dall'inconfondibile profumo di basilico. Una ricetta facile e sfiziosa , perfetta per portare in tavola la pasta in una veste diversa dal solito. Le tre “P” creano infatti un equilibrio irresistibile: la panna rende il sugo di pomodoro più morbido e avvolgente, mentre il pesto completa il piatto con la sua nota fresca e aromatica. Preparate la pasta alle 3 P per un pranzo in famiglia o una cena tra amici: pochi ingredienti per un primo ricco di gusto e cremosità! Lasciatevi tentare da queste ricette di paste cremose : Pasta panna e piselli Trofie alla Portofino Bavette al pesto Penne al baffo Maccheroncini al fumé INGREDIENTI Rigatoni 320 g Panna fresca liquida 100 g per il pesto Basilico 35 g Olio extravergine d'oliva 35 g Parmigiano Reggiano DOP 25 g Pecorino 15 g Pinoli 15 g Sale fino 2 g per il sugo di pomodoro Passata di pomodoro 300 g Cipolle 50 g Olio extravergine d'oliva q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta alle 3 P Per preparare la pasta alle 3 P iniziate dal sugo: tritate finemente la cipolla 1 e fatela rosolare dolcemente con olio 2 e sale 3 , per circa 5 minuti a fuoco medio-basso. Aggiungete la passata di pomodoro 4 e cuocete per circa 30 minuti 5 . Nel frattempo preparate il pesto: in un mixer versate i pinoli 6 . Aggiungete il basilico, il sale 7 , i formaggi grattugiati 8 e l'olio 9 . Frullate tutto e tenete da parte il pesto ottenuto 10 . Portate al bollore una pentola di acqua salata. Nel frattempo il sugo si sarà ristretto, aggiustate di sale 11 e, quando mancano 5 minuti al termine della cottura, incorporate la panna fresca 12 . Cuocete la pasta al dente 13 . Stemperate il sugo con un mestolo di acqua di cottura dei rigatoni 14 . Scolate la pasta direttamente nel sugo 15 . Saltate tutto insieme 16 per amalgamare. Distribuite la pasta nei piatti aggiungendo il pesto a piccole cucchiaiate 17 . Ecco pronta la vostra appetitosa pasta alle 3 P 18 ! Conservazione La pasta alle 3 P va gustata appena pronta. Il pesto e il sugo di pomodoro, senza panna, si possono conservare in frigo per un paio di giorni all'interno di contenitori ermetici. Conservazione Per evitare che il pesto si annerisca, frullate gli ingredienti a scatti e per pochi secondi alla volta, così da non surriscaldare le lame e preservare il colore verde brillante del basilico. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Rigatoni Basilico Pomodoro Pasta Olio di oliva Cipolla Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti sfiziosi , Ricette sfiziose STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta salata con patate, zucchine e mozzarella Torta 5 minuti allo yogurt e cacao Pasta alle 3 P 5.0 Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Pasta cremosa con panna, pomodoro e pesto",
+        "Rigatoni, panna, passata di pomodoro, basilico, parmigiano",
+        "Rosola cipolla, aggiungi passata e cuoci 30 minuti",
+        "Aggiungi panna, scola pasta, salta nel sugo",
+        "Pesto a cucchiaiate, non frullare troppo a lungo"
+      ],
+      "instagram_caption": "Pasta alle 3 P: panna, pomodoro e pesto. Cremosa al punto giusto, profumata di basilico fresco. 🍝\nParti da una cipolla rosolata, poi passata di pomodoro che cuoce piano per 30 minuti. Aggiungi la panna, butta i rigatoni e saltali nel sugo: si sposano alla perfezione. 🫕\nIl tocco finale? Il pesto a cucchiaiate, senza frullarlo troppo, così resta vivo e profumato. 🌿\nParmigiano abbondante e sei a posto. 🧀\nSalva la ricetta e provala questo weekend! ❤️",
+      "formats": {
+        "instagram": {
+          "caption": "Pasta alle 3 P: panna, pomodoro e pesto. Cremosa al punto giusto, profumata di basilico fresco. 🍝\nParti da una cipolla rosolata, poi passata di pomodoro che cuoce piano per 30 minuti. Aggiungi la panna, butta i rigatoni e saltali nel sugo: si sposano alla perfezione. 🫕\nIl tocco finale? Il pesto a cucchiaiate, senza frullarlo troppo, così resta vivo e profumato. 🌿\nParmigiano abbondante e sei a posto. 🧀\nSalva la ricetta e provala questo weekend! ❤️"
+        },
+        "tiktok": {
+          "script": [
+            "Prendo la cipolla e la rosolo bene",
+            "Aggiungo la passata e cuocio 30 minuti",
+            "Butto la panna e scolo i rigatoni",
+            "Salto tutto nel sugo, che profumo",
+            "Pesto a cucchiaiate, non frullo troppo"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Pasta alle 3 P: panna, pomodoro, pesto. Sembra un errore, invece è una bomba cremosa che ti farà dimenticare la carbonara. Fidati, provala prima di giudicare. 🍝",
+            "Rigatoni, panna fresca, passata di pomodoro, basilico e parmigiano. Ingredienti semplici, ma il segreto è l'ordine: prima il sugo, poi la panna, mai il contrario.",
+            "Rosola la cipolla tritata con olio evo, poi butta la passata e cuoci 30 minuti a fuoco basso. Il pomodoro deve diventare scuro e dolce, non acido. Qui si costruisce tutto.",
+            "Aggiungi la panna al sugo e lascia che si sposi. Scola i rigatoni al dente e saltali nel sugo per 1 minuto: il condimento entra dentro la pasta, non sopra.",
+            "Ultimo tocco: pesto a cucchiaiate, non frullato a lungo. Deve restare verde e profumato. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Prendo la cipolla e la rosolo bene",
+        "Aggiungo la passata e cuocio 30 minuti",
+        "Butto la panna e scolo i rigatoni",
+        "Salto tutto nel sugo, che profumo",
+        "Pesto a cucchiaiate, non frullo troppo"
+      ],
+      "thread_text": [
+        "Pasta alle 3 P: panna, pomodoro, pesto. Sembra un errore, invece è una bomba cremosa che ti farà dimenticare la carbonara. Fidati, provala prima di giudicare. 🍝",
+        "Rigatoni, panna fresca, passata di pomodoro, basilico e parmigiano. Ingredienti semplici, ma il segreto è l'ordine: prima il sugo, poi la panna, mai il contrario.",
+        "Rosola la cipolla tritata con olio evo, poi butta la passata e cuoci 30 minuti a fuoco basso. Il pomodoro deve diventare scuro e dolce, non acido. Qui si costruisce tutto.",
+        "Aggiungi la panna al sugo e lascia che si sposi. Scola i rigatoni al dente e saltali nel sugo per 1 minuto: il condimento entra dentro la pasta, non sopra.",
+        "Ultimo tocco: pesto a cucchiaiate, non frullato a lungo. Deve restare verde e profumato. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Pasta alle 3 P cremosa e avvolgente",
+          "description": "Un primo piatto cremoso che unisce panna, pomodoro e pesto in un equilibrio perfetto.",
+          "visual_hint": "pasta cremosa con sugo rosso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory creamy pasta"
+        },
+        {
+          "hook": "Tre ingredienti per un risultato esplosivo",
+          "description": "Rigatoni, panna e passata di pomodoro: la base perfetta per un sugo ricco e vellutato.",
+          "visual_hint": "rigatoni con salsa di pomodoro",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory rigatoni tomato",
+          "image": "https://images.pexels.com/photos/30076296/pexels-photo-30076296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rosola la cipolla e aggiungi la passata",
+          "description": "Fai soffriggere la cipolla, poi versa la passata e cuoci per 30 minuti a fuoco lento.",
+          "visual_hint": "cipolla rosolata in padella",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory onion sauce",
+          "image": "https://images.pexels.com/photos/30766449/pexels-photo-30766449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Aggiungi la panna e salta la pasta",
+          "description": "Incorpora la panna al sugo, scola i rigatoni e saltali in padella per amalgamare tutto.",
+          "visual_hint": "pasta saltata nel sugo",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory pasta tossing",
+          "image": "https://images.pexels.com/photos/37406904/pexels-photo-37406904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pesto a cucchiaiate, non frullare troppo",
+          "description": "Aggiungi il pesto a cucchiaiate per mantenere il profumo del basilico: servì subito con parmigiano.",
+          "visual_hint": "pesto fresco sul piatto",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory pesto pasta",
+          "image": "https://images.pexels.com/photos/34326272/pexels-photo-34326272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "pasta",
+      "signature_ingredients": [
+        "panna",
+        "pomodoro",
+        "pesto"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36605/Pasta-alle-3-P_650x433_wm.jpg",
+      "savedAt": "2026-09-10T14:04:05.899Z",
+      "sourceId": "e1413f4834bc25694a1980e832393904"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-5-minuti-allo-yogurt-e-cacao",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta 5 minuti allo yogurt e cacao",
+      "link": "https://ricette.giallozafferano.it/Torta-5-minuti-allo-yogurt-e-cacao.html",
+      "pubDate": "Thu, 10 Sep 2026 10:58:00 +0200",
+      "content": "Torta 5 minuti allo yogurt e cacao: soffice e facile da preparare Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta 5 minuti allo yogurt e cacao /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 288,2 Calorie per porzione Energia Kcal 288,2 Carboidrati g 41 &nbsp;&nbsp;di cui zuccheri g 20,9 Proteine g 5,5 Grassi g 12,6 &nbsp;&nbsp;di cui saturi g 2,5 Fibre g 2,2 Colesterolo mg 53,2 Sodio mg 205,5 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 5 min Cottura: 35 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta 5 minuti allo yogurt e cacao è una ricetta semplice da preparare, pensata per quando avete voglia di un dolce fatto in casa facile e veloce. L’impasto si realizza con pochi passaggi e con ingredienti facili da reperire! Questa torta è senza burro e viene preparata con olio extravergine di oliva che, insieme allo yogurt, contribuisce a rendere l’impasto morbido e piacevolmente profumato. La sua consistenza soffice la rende particolarmente indicata per la colazione e la merenda, ma potrete servirla anche dopo cena accompagnandola con un ciuffo di panna montata o una pallina di gelato! Ecco altre idee per preparare la torta 5 minuti : Torta 5 minuti cocco e mirtilli Torta 5 minuti alle fragole Torta 5 minuti alla ricotta Torta 5 minuti salata Torta 5 minuti al limone Torta 5 minuti allo yogurt greco INGREDIENTI 288,2 Calorie per porzione Ingredienti per uno stampo da 22 cm Farina 00 180 g Cacao amaro in polvere 35 g Zucchero 160 g Yogurt 125 g Olio extravergine d'oliva 80 g Uova medie, a temperatura ambiente 2 Lievito in polvere per dolci 16 g Sale fino 2 g Estratto di vaniglia q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta 5 minuti allo yogurt e cacao Per preparare la torta 5 minuti allo yogurt e cacao versate le uova a temperatura ambiente e lo zucchero semolato in una ciotola capiente 1 . Unite anche l'estratto di vaniglia 2 e lavorate il tutto con le fruste elettriche 3 fino a ottenere un composto chiaro, gonfio e arioso. Aggiungete l’olio extravergine di oliva 4 , il sale 5 e lo yogurt intero naturale 6 . Continuate a lavorare il composto con le fruste elettriche per circa 1 minuto, in modo da amalgamare tutti gli ingredienti. Spegnete le fruste e unite quindi gli ingredienti secchi: la farina 00 7 , il cacao amaro 8 e il lievito 9 . Lavorate nuovamente con le fruste elettriche fino al completo assorbimento delle polveri 10 . Dovrete ottenere un impasto liscio, omogeneo e senza residui di farina 11 . Ungete e infarinate uno stampo rotondo da 22 cm di diametro e versate al suo interno l’impasto 12 . Distribuitelo uniformemente nello stampo. Cuocete la torta in forno statico preriscaldato a 180°C per circa 35 minuti, posizionandola sul ripiano medio-basso del forno. Al termine della cottura, sfornate la torta 13 e lasciatela intiepidire prima di sformarla 14 . La torta 5 minuti allo yogurt e cacao è pronta da servire 15 . Conservazione Conservate la torta 5 minuti allo yogurt e cacao per 2 giorni in un luogo fresco , sotto una campana di vetro. Consiglio Per ottenere un impasto ancora più liscio e uniforme, potete setacciare insieme la farina, il cacao amaro e il lievito prima di aggiungerli al composto. In questo modo eviterete più facilmente la formazione di grumi, soprattutto quelli del cacao, e riuscirete a incorporare le polveri in maniera più omogenea. Se preferite realizzare la torta con cioccolato e yogurt greco provate anche questa versione: Torta yogurt e cioccolato Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Yogurt greco Yogurt Olio di oliva Uovo Scopri tutto sugli ingredienti Presente in: Dolci veloci , Torte semplici , Ricette veloci , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta salata con patate, zucchine e mozzarella 5.0 Torta 5 minuti allo yogurt e cacao 5.0 Pasta alle 3 P 5.0 SCOPRI Torta yogurt e cacao Torta al cacao Torta di mele e yogurt Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta soffice allo yogurt e cacao, pronta in 5 minuti",
+        "Farina, cacao, yogurt, olio, uova, zucchero e lievito",
+        "Monta uova e zucchero con fruste elettriche",
+        "Inforna a 180°C per 35 minuti",
+        "Setaccia le polveri per evitare grumi"
+      ],
+      "instagram_caption": "Torta 5 minuti allo yogurt e cacao: soffice come una nuvola, pronta prima che tu te ne accorga 🍫\nBasta montare uova e zucchero con le fruste, poi unire farina, cacao, yogurt, olio e lievito setacciati per un impasto liscio e senza grumi.\nTutto in forno a 180°C per 35 minuti e la magia è fatta: profumo di cacao in tutta la casa e una fetta morbida che sa di coccola.\nPerfetta per la merenda, colazione o quando hai voglia di dolce senza complicazioni.\nSalva la ricetta e provala questo weekend 🌿☕",
+      "formats": {
+        "instagram": {
+          "caption": "Torta 5 minuti allo yogurt e cacao: soffice come una nuvola, pronta prima che tu te ne accorga 🍫\nBasta montare uova e zucchero con le fruste, poi unire farina, cacao, yogurt, olio e lievito setacciati per un impasto liscio e senza grumi.\nTutto in forno a 180°C per 35 minuti e la magia è fatta: profumo di cacao in tutta la casa e una fetta morbida che sa di coccola.\nPerfetta per la merenda, colazione o quando hai voglia di dolce senza complicazioni.\nSalva la ricetta e provala questo weekend 🌿☕"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi torta soffice allo yogurt e cacao, 5 minuti!",
+            "Prendo farina, cacao, yogurt, olio, uova, zucchero e lievito.",
+            "Con le fruste monto uova e zucchero belli spumosi.",
+            "Inforno a 180 gradi per 35 minuti, che profumo!",
+            "Setaccio le polveri, così niente grumi. Buonissima!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Sofficissima, al cacao, con lo yogurt dentro: questa torta si prepara in 5 minuti e sparisce in 5. Chi la prova non torna più indietro.",
+            "Ti servono: farina, cacao amaro, yogurt bianco, olio di semi, uova, zucchero e lievito. Tutto qui. Niente burro, niente bilancia da pasticciere.",
+            "Monta uova e zucchero con le fruste elettriche finché diventano chiare e spumose. È il segreto per una torta alta e soffice come una nuvola.",
+            "Setaccia le polveri direttamente nell'impasto: zero grumi, solo velluto. Poi inforna a 180°C per 35 minuti e non aprire il forno prima.",
+            "Trucco: lasciala raffreddare prima di tagliarla, resta ancora più umida. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi torta soffice allo yogurt e cacao, 5 minuti!",
+        "Prendo farina, cacao, yogurt, olio, uova, zucchero e lievito.",
+        "Con le fruste monto uova e zucchero belli spumosi.",
+        "Inforno a 180 gradi per 35 minuti, che profumo!",
+        "Setaccio le polveri, così niente grumi. Buonissima!"
+      ],
+      "thread_text": [
+        "Sofficissima, al cacao, con lo yogurt dentro: questa torta si prepara in 5 minuti e sparisce in 5. Chi la prova non torna più indietro.",
+        "Ti servono: farina, cacao amaro, yogurt bianco, olio di semi, uova, zucchero e lievito. Tutto qui. Niente burro, niente bilancia da pasticciere.",
+        "Monta uova e zucchero con le fruste elettriche finché diventano chiare e spumose. È il segreto per una torta alta e soffice come una nuvola.",
+        "Setaccia le polveri direttamente nell'impasto: zero grumi, solo velluto. Poi inforna a 180°C per 35 minuti e non aprire il forno prima.",
+        "Trucco: lasciala raffreddare prima di tagliarla, resta ancora più umida. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta 5 minuti yogurt e cacao",
+          "description": "Soffice, golosa e pronta in pochi minuti: la torta perfetta per ogni occasione.",
+          "visual_hint": "torta soffice fetta",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chocolate yogurt cake"
+        },
+        {
+          "hook": "Solo 7 ingredienti semplici",
+          "description": "Farina, cacao, yogurt, olio, uova, zucchero e lievito: tutto ciò che serve per la magia.",
+          "visual_hint": "ingredienti su piano",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "baking ingredients flatlay",
+          "image": "https://images.pexels.com/photos/6507013/pexels-photo-6507013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Monta uova e zucchero",
+          "description": "Con le fruste elettriche otterrai un composto gonfio e spumoso, base di una torta soffice.",
+          "visual_hint": "fruste montano uova",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "egg whisking bowl",
+          "image": "https://images.pexels.com/photos/7966397/pexels-photo-7966397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Inforna a 180°C per 35 minuti",
+          "description": "Il forno fa il resto: pazienza e profumo di cacao invaderà la cucina.",
+          "visual_hint": "torta in forno",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "cake baking oven",
+          "image": "https://images.pexels.com/photos/15780778/pexels-photo-15780778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Setaccia le polveri: zero grumi",
+          "description": "Un trucco semplice per una torta liscia e uniforme. Provala e salva la ricetta!",
+          "visual_hint": "setaccio su ciotola",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "sifting flour bowl",
+          "image": "https://images.pexels.com/photos/5947523/pexels-photo-5947523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "yogurt",
+        "cacao",
+        "farina"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36606/Torta-5-minuti-allo-yogurt-e-cacao_650x433_wm.jpg",
+      "savedAt": "2026-09-10T14:03:53.935Z",
+      "sourceId": "582d1fd1954b1fa1f05e9d3c5710a3fd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-salata-con-patate-zucchine-e-mozzarella",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta salata con patate, zucchine e mozzarella",
+      "link": "https://ricette.giallozafferano.it/Torta-salata-con-patate-zucchine-e-mozzarella.html",
+      "pubDate": "Thu, 10 Sep 2026 13:22:00 +0200",
+      "content": "Torta salata patate, zucchine e mozzarella: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Torte salate Torta salata con patate, zucchine e mozzarella /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 372,1 Calorie per porzione Energia Kcal 372,1 Carboidrati g 30,8 &nbsp;&nbsp;di cui zuccheri g 1,9 Proteine g 10,3 Grassi g 23,4 &nbsp;&nbsp;di cui saturi g 7,3 Fibre g 2,4 Colesterolo mg 49,9 Sodio mg 342,4 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Facile Preparazione: 20 min Cottura: 40 min Dosi per: 6 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta salata con patate, zucchine e mozzarella è una ricetta sfiziosa e versatile che si presta a tante occasioni. Potete servirla come antipasto, prepararla per una cena con ospiti dell’ultimo minuto oppure proporla come piatto unico accompagnandola con una fresca insalata. Tagliata a piccoli spicchi o a quadrotti è un’ottima idea anche per arricchire un buffet o un aperitivo. Inoltre è una ricetta comoda da preparare in anticipo, ideale anche per un picnic o per il pranzo fuori casa. Il guscio fragrante di pasta brisée racchiude un ripieno ricco e gustoso a base di patate morbide, zucchine e mozzarella filante: un abbinamento di sapori delicati che piace a tutta la famiglia. Potete gustarla appena tiepida oppure lasciarla raffreddare e servirla a temperatura ambiente. La torta salata con patate, zucchine e mozzarella è realizzata con pochi ingredienti facilmente reperibili e diventerà il vostro asso nella manica ogni qualvolta avrete voglia di qualcosa di semplice e appetitoso! Ecco altre varianti da provare: Torta salata con patate prosciutto e formaggio Torta salata patate e tonno Torta salata patate e salsiccia Torta salata di patate, cipolle e formaggio Torta rustica di patate e cipolle INGREDIENTI 372,1 Calorie per porzione Per uno stampo di 23 cm Pasta brisé rotonda 230 g Patate 400 g Zucchine (da pulire) 250 g Mozzarella per pizza 120 g Olio extravergine d'oliva q.b. Sale fino q.b. Pepe nero q.b. Per spennellare Uova 1 AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta salata con patate, zucchine e mozzarella Per preparare la torta salata con patate, zucchine e mozzarella per prima cosa sbucciate le patate e tagliatele prima a fettine 1 , poi a bastoncini 2 e infine a cubetti di 1-1,5 cm 3 . Versate i cubetti di patate in acqua bollente salata 4 e cuocete per circa 8-10 minuti: dovranno risultare morbidi ma ancora compatti. Nel frattempo affettate le zucchine con una mandolina per ottenere delle rondelle dello spessore di circa 1-2 mm 5 . Scolate bene le patate e trasferitele in una ciotola, poi unite le zucchine 6 . Condite con sale 7 , pepe e olio 8 . Ora foderate uno stampo del diametro di 23 cm con la pasta brisé e la sua carta forno, poi bucherellate la base con una forchetta 9 . Farcite l’interno con il composto di patate e zucchine 10 , poi distribuite i cubetti di mozzarella 11 . Ripiegate i bordi della pasta brisé verso l’interno 12 . Spennellate i bordi con l’ovo sbattuto 13 e cuocete in forno ventilato preriscaldato a 180° per circa 30 minuti, posizionando la teglia a contatto con la base del forno 14 . Quando sarà bella dorata, sfornate e lasciate intiepidire per 5-10 minuti prima di servire e tagliare la vostra torta salata con patate, zucchine e mozzarella 15 ! Conservazione La torta salata con patate, zucchine e mozzarella si può conservare in frigorifero per 2 giorni. Consiglio E' consigliabile utilizzare la mozzarella per pizza, che è meno acquosa. Se preferite sostituirla con la mozzarella fresca, consigliamo di lasciarla scolare prima in un colino per eliminare il liquido in eccesso. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchine Patate Olio di oliva Uovo Mozzarella Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta salata con patate, zucchine e mozzarella 5.0 Torta 5 minuti allo yogurt e cacao 5.0 Pasta alle 3 P 5.0 SCOPRI Torta salata zucchine e patate Torta salata prosciutto e mozzarella Torta salata zucchine e ricotta Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Guscio fragrante con patate, zucchine e mozzarella filante",
+        "Pasta brisé, patate, zucchine, mozzarella e uovo",
+        "Sbollenta le patate a cubetti per 8-10 minuti",
+        "Farcisci la brisé e cuoci a 180° per 30 minuti",
+        "Usa mozzarella per pizza, meno acquosa: consiglio"
+      ],
+      "instagram_caption": "Il profumo di una torta salata appena sfornata non ha paragoni 🥧\nUn guscio fragrante di pasta brisé che racchiude patate, zucchine e una mozzarella che fila ad ogni morso.\nIl trucco? Sbollentare le patate a cubetti per 8-10 minuti e usare mozzarella per pizza, meno acquosa e più filante.\nPoi tutto in forno a 180° per 30 minuti e la magia è fatta ✨\nSalva questa ricetta e provala questo weekend 🌿",
+      "formats": {
+        "instagram": {
+          "caption": "Il profumo di una torta salata appena sfornata non ha paragoni 🥧\nUn guscio fragrante di pasta brisé che racchiude patate, zucchine e una mozzarella che fila ad ogni morso.\nIl trucco? Sbollentare le patate a cubetti per 8-10 minuti e usare mozzarella per pizza, meno acquosa e più filante.\nPoi tutto in forno a 180° per 30 minuti e la magia è fatta ✨\nSalva questa ricetta e provala questo weekend 🌿"
+        },
+        "tiktok": {
+          "script": [
+            "Stendo la brisé, che guscio fragrante!",
+            "Sbollento le patate a cubetti, 8-10 minuti.",
+            "Taglio zucchine e mozzarella per pizza.",
+            "Farcisco tutto e cuocio a 180° per 30 minuti.",
+            "Mozzarella per pizza: meno acqua, che filo!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Immagina una torta salata con un guscio croccante di patate, zucchine e mozzarella che fila ad ogni morso. Non è un sogno: è la cena che ti risolve la serata. 🥔🧀",
+            "Ti servono: pasta brisé, patate a cubetti, zucchine a rondelle, mozzarella e un uovo. Tutto qui. Il resto lo fa il forno.",
+            "Prima sbollenta le patate per 8-10 minuti: resteranno tenere ma non sfatte. Scola bene e lascia intiepidire.",
+            "Fodera la teglia con la brisé, farcisci con patate, zucchine, mozzarella e uovo sbattuto. In forno a 180° per 30 minuti.",
+            "Trucco: usa mozzarella per pizza, meno acquosa e fila che è una meraviglia. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Stendo la brisé, che guscio fragrante!",
+        "Sbollento le patate a cubetti, 8-10 minuti.",
+        "Taglio zucchine e mozzarella per pizza.",
+        "Farcisco tutto e cuocio a 180° per 30 minuti.",
+        "Mozzarella per pizza: meno acqua, che filo!"
+      ],
+      "thread_text": [
+        "Immagina una torta salata con un guscio croccante di patate, zucchine e mozzarella che fila ad ogni morso. Non è un sogno: è la cena che ti risolve la serata. 🥔🧀",
+        "Ti servono: pasta brisé, patate a cubetti, zucchine a rondelle, mozzarella e un uovo. Tutto qui. Il resto lo fa il forno.",
+        "Prima sbollenta le patate per 8-10 minuti: resteranno tenere ma non sfatte. Scola bene e lascia intiepidire.",
+        "Fodera la teglia con la brisé, farcisci con patate, zucchine, mozzarella e uovo sbattuto. In forno a 180° per 30 minuti.",
+        "Trucco: usa mozzarella per pizza, meno acquosa e fila che è una meraviglia. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta salata croccante e filante",
+          "description": "Un guscio dorato che racchiude patate, zucchine e mozzarella: comfort food irresistibile.",
+          "visual_hint": "torta salata appena sfornata",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "savory vegetable tart"
+        },
+        {
+          "hook": "Pochi ingredienti, risultato perfetto",
+          "description": "Pasta brisé, patate, zucchine, mozzarella e uovo: tutto ciò che serve per un capolavoro salato.",
+          "visual_hint": "ingredienti su piano lavoro",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "savory tart ingredients",
+          "image": "https://images.pexels.com/photos/5794864/pexels-photo-5794864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Patate a cubetti, sbollenta 8 minuti",
+          "description": "Lessale in acqua bollente per ammorbidirle senza disfarle: la base cremosa della torta.",
+          "visual_hint": "patate a cubetti in pentola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "savory boiled potatoes",
+          "image": "https://images.pexels.com/photos/4210814/pexels-photo-4210814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Farcisci e cuoci a 180° per 30 minuti",
+          "description": "Versa il ripieno sulla brisé e inforna fino a doratura: il profumo invaderà la cucina.",
+          "visual_hint": "mani che infornano torta",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "savory tart baking",
+          "image": "https://images.pexels.com/photos/26870538/pexels-photo-26870538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mozzarella per pizza, segreto filante",
+          "description": "Usa quella meno acquosa: eviterà la base bagnata e regalerà una consistenza perfetta.",
+          "visual_hint": "fetta di torta filante",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "savory vegetable pie",
+          "image": "https://images.pexels.com/photos/14010373/pexels-photo-14010373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "vegetable",
+      "signature_ingredients": [
+        "patate",
+        "zucchine",
+        "mozzarella"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36609/Torta-salata-con-patate-zucchine-e-mozzarella_650x433_wm.jpg",
+      "savedAt": "2026-09-10T14:03:41.460Z",
+      "sourceId": "7383ca3f82fade1edce869664a348242"
+    },
     {
       "schema_version": 2,
       "agent": "food",

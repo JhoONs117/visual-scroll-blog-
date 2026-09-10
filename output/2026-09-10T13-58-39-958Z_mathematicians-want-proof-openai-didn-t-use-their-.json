@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mathematicians-want-proof-openai-didn-t-use-their-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mathematicians want proof OpenAI didn’t use their work ",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+  "pubDate": "2026-09-10T11:00:57.000Z",
+  "slides": [
+    "Did OpenAI train on mathematicians' unpublished proofs?",
+    "Their copyrighted papers were submitted for AI training",
+    "OpenAI claims fair use, but data provenance is murky",
+    "Your research could be in a model without consent",
+    "Check if your work is in AI training sets"
+  ],
+  "thread_text": [
+    "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+    "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+    "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+    "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+    "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+  ],
+  "video_script": [
+    "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+    "Their papers were submitted for review, not for AI training.",
+    "OpenAI claims fair use, but the data trail is murky.",
+    "Your research could be in a model without your consent.",
+    "Check if your work is in AI training sets today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Unpublished Proofs\n\nOpenAI reportedly trained on mathematicians' papers that were never made public. The data came from peer review servers, not the open web.",
+        "2. Caught in the Pipeline\n\nResearchers submitted their work for review, not for training. Those files ended up in AI datasets anyway.",
+        "3. Fair Use or Free Ride?\n\nOpenAI says training is fair use, but can't say exactly where the data came from. Provenance is a black box.",
+        "4. Your Work, No Permission\n\nIf you've ever submitted a paper for review, it may already be inside a model you use daily.",
+        "5. Check Your Data\n\nSearch your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI trained on mathematicians' unpublished proofs, according to reports.",
+        "Their papers were submitted for review, not for AI training.",
+        "OpenAI claims fair use, but the data trail is murky.",
+        "Your research could be in a model without your consent.",
+        "Check if your work is in AI training sets today."
+      ]
+    },
+    "instagram": {
+      "caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?"
+    }
+  },
+  "instagram_caption": "Mathematicians are demanding proof that OpenAI didn't train on their unpublished proofs.\n\nTheir papers were never public. They were sitting on peer review servers, submitted for review only, and somehow ended up in AI training data. 😳\n\nOpenAI calls it fair use but can't say where the data actually came from.\n\nSo if you've ever submitted a paper for review, your unpublished work may already be inside a model you use every day. 🔒\n\nSearch your name on Have I Been Trained and see what shows up. 🕵️\n\nIf you find your paper there, what will you do about it?",
+  "carousel_slides": [
+    {
+      "hook": "Your paper trained AI without consent",
+      "description": "OpenAI reportedly trained on mathematicians' unpublished proofs from peer review servers, not the open web. Provenance remains a black box.",
+      "visual_hint": "Locked server racks with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Submitted for review, not for training",
+      "description": "Researchers sent papers for peer review, but those files ended up in AI datasets anyway. Consent was never part of the pipeline.",
+      "visual_hint": "Academic paper stack on desk",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "academic papers",
+      "image": "https://images.pexels.com/photos/7128770/pexels-photo-7128770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fair use or free ride?",
+      "description": "OpenAI claims fair use, yet can't specify exactly where training data came from. The provenance is a legal black box.",
+      "visual_hint": "Blurred data streams over courtroom",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "courtroom interior",
+      "image": "https://images.pexels.com/photos/18845131/pexels-photo-18845131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your work may be inside a model",
+      "description": "If you've submitted a paper for review, it may already be inside an AI model you use daily. No permission was asked.",
+      "visual_hint": "Hand typing on laptop keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check if your work was scraped",
+      "description": "Search your name in AI training set indexes like Have I Been Trained. If you find your paper, you decide what to do next.",
+      "visual_hint": "Search bar with paper results",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "search engine",
+      "image": "https://images.pexels.com/photos/18096281/pexels-photo-18096281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.54557577814%2C100%2C78.90884844372&amp;w=1200",
+  "savedAt": "2026-09-10T13:58:58.008Z",
+  "sourceId": "3aead6fbd8135d1e568c1a8cfbdfc8d4"
+}
