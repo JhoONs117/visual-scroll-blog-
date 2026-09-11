@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-says-it-8217-s-changing-ai-suggestions-after-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+  "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+  "pubDate": "2026-09-11T14:25:21.000Z",
+  "slides": [
+    "Why is Meta asking your deepest secrets?",
+    "It now changes AI suggestions after invasive prompts",
+    "But the fix may still collect your darkest thoughts",
+    "You'll need to manually reset your ad preferences",
+    "Audit your Meta AI history tonight"
+  ],
+  "thread_text": [
+    "1. Why is Meta asking your secrets?\n\nMeta's AI now changes ad suggestions based on intimate prompts you type. A private vent about debt can reshape your entire feed.",
+    "2. The invasive prompt shift\n\nType something vulnerable — anxiety, relationship trouble, money stress — and Meta AI adjusts what you see next. The system treats dark thoughts as data signals.",
+    "3. The fix isn't a fix\n\nMeta's opt-out still logs your prompts for 'safety' and 'improvement.' You can stop suggestions, but the collection continues in the background.",
+    "4. You have to reset manually\n\nAd preferences don't clear when you change the AI setting. You must go into your Meta account and reset ad data by hand — nothing happens automatically.",
+    "5. Audit your Meta AI history tonight\n\nOpen the app, tap your AI history, and delete every sensitive prompt. Then reset your ad preferences. Do it tonight before the next update locks it deeper."
+  ],
+  "video_script": [
+    "Meta's AI now watches what you type.",
+    "Vent about debt, it changes your feed.",
+    "The opt-out still collects your dark thoughts.",
+    "You must reset ad preferences manually.",
+    "Tonight: audit your Meta AI history."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Why is Meta asking your secrets?\n\nMeta's AI now changes ad suggestions based on intimate prompts you type. A private vent about debt can reshape your entire feed.",
+        "2. The invasive prompt shift\n\nType something vulnerable — anxiety, relationship trouble, money stress — and Meta AI adjusts what you see next. The system treats dark thoughts as data signals.",
+        "3. The fix isn't a fix\n\nMeta's opt-out still logs your prompts for 'safety' and 'improvement.' You can stop suggestions, but the collection continues in the background.",
+        "4. You have to reset manually\n\nAd preferences don't clear when you change the AI setting. You must go into your Meta account and reset ad data by hand — nothing happens automatically.",
+        "5. Audit your Meta AI history tonight\n\nOpen the app, tap your AI history, and delete every sensitive prompt. Then reset your ad preferences. Do it tonight before the next update locks it deeper."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's AI now watches what you type.",
+        "Vent about debt, it changes your feed.",
+        "The opt-out still collects your dark thoughts.",
+        "You must reset ad preferences manually.",
+        "Tonight: audit your Meta AI history."
+      ]
+    },
+    "instagram": {
+      "caption": "Type something vulnerable to Meta AI and it reshapes your ad feed.\n\nMeta now adjusts suggestions based on intimate prompts — debt, anxiety, relationship stress. It treats dark thoughts as signals. 🧠\n\nMeta says it's changing this, but the opt-out still logs your prompts for safety and improvement. Collection continues.\n\nAd preferences don't reset automatically. You have to go into your account and clear ad data by hand. ⚠️\n\nFor creators, what you type privately can quietly steer what your audience sees next. 🤳\n\nOpen your Meta AI history tonight and delete every sensitive prompt. Then reset ads manually. Will you check yours? 🔍"
+    }
+  },
+  "instagram_caption": "Type something vulnerable to Meta AI and it reshapes your ad feed.\n\nMeta now adjusts suggestions based on intimate prompts — debt, anxiety, relationship stress. It treats dark thoughts as signals. 🧠\n\nMeta says it's changing this, but the opt-out still logs your prompts for safety and improvement. Collection continues.\n\nAd preferences don't reset automatically. You have to go into your account and clear ad data by hand. ⚠️\n\nFor creators, what you type privately can quietly steer what your audience sees next. 🤳\n\nOpen your Meta AI history tonight and delete every sensitive prompt. Then reset ads manually. Will you check yours? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is Meta logging your darkest secrets?",
+      "description": "Meta now adjusts ad suggestions based on intimate prompts, treating vulnerable thoughts as data signals.",
+      "visual_hint": "Dark server room with glowing lights",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The invasive prompt shift explained",
+      "description": "Type about anxiety, debt, or relationship trouble, and Meta AI reshapes your feed accordingly.",
+      "visual_hint": "Smartphone screen showing AI chat",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Opt-out still collects your data",
+      "description": "Meta's fix stops suggestions but continues logging prompts for safety, so collection never truly stops.",
+      "visual_hint": "Locked padlock on digital data",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "padlock data",
+      "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You must reset ads manually",
+      "description": "Ad preferences won't clear when you change AI settings; you have to reset ad data by hand.",
+      "visual_hint": "Hand tapping phone settings menu",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand phone settings",
+      "image": "https://images.pexels.com/photos/16094064/pexels-photo-16094064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your Meta AI history tonight",
+      "description": "Open the app, delete sensitive prompts, and reset ad preferences manually now.",
+      "visual_hint": "Phone screen with trash icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "delete app history",
+      "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+  "savedAt": "2026-09-11T20:14:52.042Z",
+  "sourceId": "e32e3658be55881a1a73a86517ee0a77"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "kimi-maker-moonshot-ai-targets-2b-in-annual-revenu",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+  "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+  "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
+  "slides": [
+    "Moonshot AI bets big — can it deliver?",
+    "Kimi-maker now targets $2B annual revenue",
+    "That's a 10x jump from current run rate",
+    "Your AI tools may get cheaper or funded longer",
+    "Watch if they hit it — the whole sector shifts"
+  ],
+  "thread_text": [
+    "1. The 10x bet nobody saw coming\n\nMoonshot AI, the company behind Kimi, now aims for $2B in annual revenue. That's not growth—that's a leap.",
+    "2. Can they actually deliver?\n\nThe jump implies roughly 10 times their current run rate. Very few software firms have ever scaled that fast, and even fewer in AI.",
+    "3. Why your tools might change\n\nIf Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you use. Competitors will have to respond on price.",
+    "4. The ripple effect on the sector\n\nA successful moonshot would force every major AI lab to rethink pricing and burn rates. The whole market could tilt toward aggressive expansion.",
+    "5. Watch the next earnings signal\n\nCheck Moonshot's reported revenue in the next two quarters. If they miss, the cheap AI era might stall. If they hit, your tools get better and cheaper."
+  ],
+  "video_script": [
+    "Moonshot AI wants two billion dollars a year.",
+    "That's ten times what they make now.",
+    "If they pull it off, your AI tools get cheaper.",
+    "If they miss, funding could dry up fast.",
+    "Watch their next revenue report closely."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The 10x bet nobody saw coming\n\nMoonshot AI, the company behind Kimi, now aims for $2B in annual revenue. That's not growth—that's a leap.",
+        "2. Can they actually deliver?\n\nThe jump implies roughly 10 times their current run rate. Very few software firms have ever scaled that fast, and even fewer in AI.",
+        "3. Why your tools might change\n\nIf Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you use. Competitors will have to respond on price.",
+        "4. The ripple effect on the sector\n\nA successful moonshot would force every major AI lab to rethink pricing and burn rates. The whole market could tilt toward aggressive expansion.",
+        "5. Watch the next earnings signal\n\nCheck Moonshot's reported revenue in the next two quarters. If they miss, the cheap AI era might stall. If they hit, your tools get better and cheaper."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Moonshot AI wants two billion dollars a year.",
+        "That's ten times what they make now.",
+        "If they pull it off, your AI tools get cheaper.",
+        "If they miss, funding could dry up fast.",
+        "Watch their next revenue report closely."
+      ]
+    },
+    "instagram": {
+      "caption": "Moonshot AI wants $2 billion a year from Kimi — about 10x what it makes now.\n\nThe company behind Kimi just set a target that would mean roughly ten times its current revenue. Very few software companies have ever grown that fast, and even fewer in AI. 🚀\n\nIf they pull it off, expect cheaper AI subscriptions or longer funding for the apps you use, because rivals will have to answer on price. 💸\n\nSo watch their reported revenue over the next two quarters: a miss could stall the cheap AI era you're already enjoying. ⏳\n\nWould you keep paying for your AI tools if prices dropped 30% tomorrow? 🤔"
+    }
+  },
+  "instagram_caption": "Moonshot AI wants $2 billion a year from Kimi — about 10x what it makes now.\n\nThe company behind Kimi just set a target that would mean roughly ten times its current revenue. Very few software companies have ever grown that fast, and even fewer in AI. 🚀\n\nIf they pull it off, expect cheaper AI subscriptions or longer funding for the apps you use, because rivals will have to answer on price. 💸\n\nSo watch their reported revenue over the next two quarters: a miss could stall the cheap AI era you're already enjoying. ⏳\n\nWould you keep paying for your AI tools if prices dropped 30% tomorrow? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Can Moonshot AI really 10x revenue?",
+      "description": "Moonshot AI targets $2B annual revenue, a 10x jump from current run rate that very few software firms ever achieve.",
+      "visual_hint": "Bold text over dark server room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The Kimi maker's $2B bet",
+      "description": "Kimi-maker Moonshot AI now aims for $2B annual revenue, signaling aggressive expansion in the global AI race.",
+      "visual_hint": "Rising revenue chart on screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A 10x leap in AI revenue",
+      "description": "That's roughly 10 times their current run rate—a scale almost no AI company has ever delivered before.",
+      "visual_hint": "Zoomed graph line spiking upward",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "growth chart",
+      "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI tools could get cheaper",
+      "description": "If Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you already use.",
+      "visual_hint": "Hand holding phone with AI app",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch Moonshot's next earnings signal",
+      "description": "Check Moonshot's reported revenue in the next two quarters. Save this post to track whether cheap AI stalls or accelerates.",
+      "visual_hint": "Calendar with earnings date circled",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office calendar",
+      "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+  "savedAt": "2026-09-11T20:14:35.920Z",
+  "sourceId": "b3b5bc18a7beccd49708480da164e7a8"
+}

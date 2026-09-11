@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "roblox-is-making-it-easier-to-build-games-with-ai-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+  "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+  "pubDate": "Fri, 11 Sep 2026 19:00:00 +0000",
+  "slides": [
+    "Roblox just made game building nearly automatic",
+    "AI turns a sentence into a playable world",
+    "But creators still own what the AI generates",
+    "Your game can now escape Roblox entirely",
+    "Ask who owns the code your AI wrote"
+  ],
+  "thread_text": [
+    "1. Roblox just killed game dev\n\nYou describe a game in one sentence and it generates a playable world. The barrier to entry just dropped to zero.",
+    "2. But who owns the code?\n\nRoblox says creators keep ownership of AI output. The platform takes a cut, but the IP is yours. That's a promise worth testing.",
+    "3. Your game can leave Roblox\n\nAI-generated worlds are now exportable. Build on Roblox, deploy anywhere. The walled garden just got a gate.",
+    "4. The real question is liability\n\nIf the AI copies someone else's mechanics and you ship it, who gets sued? The tool, the platform, or you?",
+    "5. Test this on one prompt today\n\nTake a game idea you've shelved, feed it to an AI builder, and check the output. If you own it, what's your excuse?"
+  ],
+  "video_script": [
+    "Roblox just made building games almost automatic.",
+    "You type a sentence, you get a playable world.",
+    "But here's the twist: you still own what it creates.",
+    "And now your game can escape Roblox entirely.",
+    "Ask yourself: who owns the code your AI wrote?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Roblox just killed game dev\n\nYou describe a game in one sentence and it generates a playable world. The barrier to entry just dropped to zero.",
+        "2. But who owns the code?\n\nRoblox says creators keep ownership of AI output. The platform takes a cut, but the IP is yours. That's a promise worth testing.",
+        "3. Your game can leave Roblox\n\nAI-generated worlds are now exportable. Build on Roblox, deploy anywhere. The walled garden just got a gate.",
+        "4. The real question is liability\n\nIf the AI copies someone else's mechanics and you ship it, who gets sued? The tool, the platform, or you?",
+        "5. Test this on one prompt today\n\nTake a game idea you've shelved, feed it to an AI builder, and check the output. If you own it, what's your excuse?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Roblox just made building games almost automatic.",
+        "You type a sentence, you get a playable world.",
+        "But here's the twist: you still own what it creates.",
+        "And now your game can escape Roblox entirely.",
+        "Ask yourself: who owns the code your AI wrote?"
+      ]
+    },
+    "instagram": {
+      "caption": "Describe a game in one sentence and it builds a playable world. Roblox just made that real. 🎮\n\nAI now turns plain text into working games. Creators keep ownership of what it generates — that's Roblox's promise, not a proven fact.\n\nAnd those worlds are exportable. Build on Roblox, ship anywhere. 🚪\n\nIf you make content, your shelved game idea just became a weekend project.\n\nBut if the AI copies someone's mechanics and you publish it, who gets sued — the tool, the platform, or you? ⚖️"
+    }
+  },
+  "instagram_caption": "Describe a game in one sentence and it builds a playable world. Roblox just made that real. 🎮\n\nAI now turns plain text into working games. Creators keep ownership of what it generates — that's Roblox's promise, not a proven fact.\n\nAnd those worlds are exportable. Build on Roblox, ship anywhere. 🚪\n\nIf you make content, your shelved game idea just became a weekend project.\n\nBut if the AI copies someone's mechanics and you publish it, who gets sued — the tool, the platform, or you? ⚖️",
+  "carousel_slides": [
+    {
+      "hook": "One sentence now builds entire games",
+      "description": "Roblox AI turns a single prompt into a playable world, dropping the barrier to entry to nearly zero for everyone.",
+      "visual_hint": "Glowing holographic game world materializing",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "virtual reality headset"
+    },
+    {
+      "hook": "Who actually owns AI-generated code?",
+      "description": "Roblox claims creators keep ownership of AI output while taking a platform cut, a promise that clearly needs stress-testing.",
+      "visual_hint": "Contract document with ownership stamp",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "legal contract paper",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Roblox game can now escape",
+      "description": "AI-generated worlds are exportable, meaning you can build inside Roblox and deploy them anywhere beyond the walled garden.",
+      "visual_hint": "Gate opening to outside digital world",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "open gate fence",
+      "image": "https://images.pexels.com/photos/10529669/pexels-photo-10529669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who gets sued when AI copies?",
+      "description": "If generated mechanics infringe someone else's work and you ship it, liability falls on the tool, platform, or you.",
+      "visual_hint": "Gavel striking courtroom bench closeup",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one shelved game idea today",
+      "description": "Feed an abandoned game concept into an AI builder now, check who owns the output, then save this and share your result.",
+      "visual_hint": "Hand typing prompt into glowing screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
+  "savedAt": "2026-09-11T20:14:43.893Z",
+  "sourceId": "d1716c9e5b97eaab384f282119aad1eb"
+}

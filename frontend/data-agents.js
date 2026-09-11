@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "meta-says-it-8217-s-changing-ai-suggestions-after-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "pubDate": "2026-09-11T14:25:21.000Z",
+      "slides": [
+        "Why is Meta asking your deepest secrets?",
+        "It now changes AI suggestions after invasive prompts",
+        "But the fix may still collect your darkest thoughts",
+        "You'll need to manually reset your ad preferences",
+        "Audit your Meta AI history tonight"
+      ],
+      "thread_text": [
+        "1. Why is Meta asking your secrets?\n\nMeta's AI now changes ad suggestions based on intimate prompts you type. A private vent about debt can reshape your entire feed.",
+        "2. The invasive prompt shift\n\nType something vulnerable — anxiety, relationship trouble, money stress — and Meta AI adjusts what you see next. The system treats dark thoughts as data signals.",
+        "3. The fix isn't a fix\n\nMeta's opt-out still logs your prompts for 'safety' and 'improvement.' You can stop suggestions, but the collection continues in the background.",
+        "4. You have to reset manually\n\nAd preferences don't clear when you change the AI setting. You must go into your Meta account and reset ad data by hand — nothing happens automatically.",
+        "5. Audit your Meta AI history tonight\n\nOpen the app, tap your AI history, and delete every sensitive prompt. Then reset your ad preferences. Do it tonight before the next update locks it deeper."
+      ],
+      "video_script": [
+        "Meta's AI now watches what you type.",
+        "Vent about debt, it changes your feed.",
+        "The opt-out still collects your dark thoughts.",
+        "You must reset ad preferences manually.",
+        "Tonight: audit your Meta AI history."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Why is Meta asking your secrets?\n\nMeta's AI now changes ad suggestions based on intimate prompts you type. A private vent about debt can reshape your entire feed.",
+            "2. The invasive prompt shift\n\nType something vulnerable — anxiety, relationship trouble, money stress — and Meta AI adjusts what you see next. The system treats dark thoughts as data signals.",
+            "3. The fix isn't a fix\n\nMeta's opt-out still logs your prompts for 'safety' and 'improvement.' You can stop suggestions, but the collection continues in the background.",
+            "4. You have to reset manually\n\nAd preferences don't clear when you change the AI setting. You must go into your Meta account and reset ad data by hand — nothing happens automatically.",
+            "5. Audit your Meta AI history tonight\n\nOpen the app, tap your AI history, and delete every sensitive prompt. Then reset your ad preferences. Do it tonight before the next update locks it deeper."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's AI now watches what you type.",
+            "Vent about debt, it changes your feed.",
+            "The opt-out still collects your dark thoughts.",
+            "You must reset ad preferences manually.",
+            "Tonight: audit your Meta AI history."
+          ]
+        },
+        "instagram": {
+          "caption": "Type something vulnerable to Meta AI and it reshapes your ad feed.\n\nMeta now adjusts suggestions based on intimate prompts — debt, anxiety, relationship stress. It treats dark thoughts as signals. 🧠\n\nMeta says it's changing this, but the opt-out still logs your prompts for safety and improvement. Collection continues.\n\nAd preferences don't reset automatically. You have to go into your account and clear ad data by hand. ⚠️\n\nFor creators, what you type privately can quietly steer what your audience sees next. 🤳\n\nOpen your Meta AI history tonight and delete every sensitive prompt. Then reset ads manually. Will you check yours? 🔍"
+        }
+      },
+      "instagram_caption": "Type something vulnerable to Meta AI and it reshapes your ad feed.\n\nMeta now adjusts suggestions based on intimate prompts — debt, anxiety, relationship stress. It treats dark thoughts as signals. 🧠\n\nMeta says it's changing this, but the opt-out still logs your prompts for safety and improvement. Collection continues.\n\nAd preferences don't reset automatically. You have to go into your account and clear ad data by hand. ⚠️\n\nFor creators, what you type privately can quietly steer what your audience sees next. 🤳\n\nOpen your Meta AI history tonight and delete every sensitive prompt. Then reset ads manually. Will you check yours? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is Meta logging your darkest secrets?",
+          "description": "Meta now adjusts ad suggestions based on intimate prompts, treating vulnerable thoughts as data signals.",
+          "visual_hint": "Dark server room with glowing lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The invasive prompt shift explained",
+          "description": "Type about anxiety, debt, or relationship trouble, and Meta AI reshapes your feed accordingly.",
+          "visual_hint": "Smartphone screen showing AI chat",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Opt-out still collects your data",
+          "description": "Meta's fix stops suggestions but continues logging prompts for safety, so collection never truly stops.",
+          "visual_hint": "Locked padlock on digital data",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "padlock data",
+          "image": "https://images.pexels.com/photos/10509289/pexels-photo-10509289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You must reset ads manually",
+          "description": "Ad preferences won't clear when you change AI settings; you have to reset ad data by hand.",
+          "visual_hint": "Hand tapping phone settings menu",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand phone settings",
+          "image": "https://images.pexels.com/photos/16094064/pexels-photo-16094064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your Meta AI history tonight",
+          "description": "Open the app, delete sensitive prompts, and reset ad preferences manually now.",
+          "visual_hint": "Phone screen with trash icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "delete app history",
+          "image": "https://images.pexels.com/photos/33632621/pexels-photo-33632621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+      "savedAt": "2026-09-11T20:14:52.042Z",
+      "sourceId": "e32e3658be55881a1a73a86517ee0a77"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "roblox-is-making-it-easier-to-build-games-with-ai-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "pubDate": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "slides": [
+        "Roblox just made game building nearly automatic",
+        "AI turns a sentence into a playable world",
+        "But creators still own what the AI generates",
+        "Your game can now escape Roblox entirely",
+        "Ask who owns the code your AI wrote"
+      ],
+      "thread_text": [
+        "1. Roblox just killed game dev\n\nYou describe a game in one sentence and it generates a playable world. The barrier to entry just dropped to zero.",
+        "2. But who owns the code?\n\nRoblox says creators keep ownership of AI output. The platform takes a cut, but the IP is yours. That's a promise worth testing.",
+        "3. Your game can leave Roblox\n\nAI-generated worlds are now exportable. Build on Roblox, deploy anywhere. The walled garden just got a gate.",
+        "4. The real question is liability\n\nIf the AI copies someone else's mechanics and you ship it, who gets sued? The tool, the platform, or you?",
+        "5. Test this on one prompt today\n\nTake a game idea you've shelved, feed it to an AI builder, and check the output. If you own it, what's your excuse?"
+      ],
+      "video_script": [
+        "Roblox just made building games almost automatic.",
+        "You type a sentence, you get a playable world.",
+        "But here's the twist: you still own what it creates.",
+        "And now your game can escape Roblox entirely.",
+        "Ask yourself: who owns the code your AI wrote?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Roblox just killed game dev\n\nYou describe a game in one sentence and it generates a playable world. The barrier to entry just dropped to zero.",
+            "2. But who owns the code?\n\nRoblox says creators keep ownership of AI output. The platform takes a cut, but the IP is yours. That's a promise worth testing.",
+            "3. Your game can leave Roblox\n\nAI-generated worlds are now exportable. Build on Roblox, deploy anywhere. The walled garden just got a gate.",
+            "4. The real question is liability\n\nIf the AI copies someone else's mechanics and you ship it, who gets sued? The tool, the platform, or you?",
+            "5. Test this on one prompt today\n\nTake a game idea you've shelved, feed it to an AI builder, and check the output. If you own it, what's your excuse?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Roblox just made building games almost automatic.",
+            "You type a sentence, you get a playable world.",
+            "But here's the twist: you still own what it creates.",
+            "And now your game can escape Roblox entirely.",
+            "Ask yourself: who owns the code your AI wrote?"
+          ]
+        },
+        "instagram": {
+          "caption": "Describe a game in one sentence and it builds a playable world. Roblox just made that real. 🎮\n\nAI now turns plain text into working games. Creators keep ownership of what it generates — that's Roblox's promise, not a proven fact.\n\nAnd those worlds are exportable. Build on Roblox, ship anywhere. 🚪\n\nIf you make content, your shelved game idea just became a weekend project.\n\nBut if the AI copies someone's mechanics and you publish it, who gets sued — the tool, the platform, or you? ⚖️"
+        }
+      },
+      "instagram_caption": "Describe a game in one sentence and it builds a playable world. Roblox just made that real. 🎮\n\nAI now turns plain text into working games. Creators keep ownership of what it generates — that's Roblox's promise, not a proven fact.\n\nAnd those worlds are exportable. Build on Roblox, ship anywhere. 🚪\n\nIf you make content, your shelved game idea just became a weekend project.\n\nBut if the AI copies someone's mechanics and you publish it, who gets sued — the tool, the platform, or you? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "One sentence now builds entire games",
+          "description": "Roblox AI turns a single prompt into a playable world, dropping the barrier to entry to nearly zero for everyone.",
+          "visual_hint": "Glowing holographic game world materializing",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "virtual reality headset"
+        },
+        {
+          "hook": "Who actually owns AI-generated code?",
+          "description": "Roblox claims creators keep ownership of AI output while taking a platform cut, a promise that clearly needs stress-testing.",
+          "visual_hint": "Contract document with ownership stamp",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "legal contract paper",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your Roblox game can now escape",
+          "description": "AI-generated worlds are exportable, meaning you can build inside Roblox and deploy them anywhere beyond the walled garden.",
+          "visual_hint": "Gate opening to outside digital world",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "open gate fence",
+          "image": "https://images.pexels.com/photos/10529669/pexels-photo-10529669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who gets sued when AI copies?",
+          "description": "If generated mechanics infringe someone else's work and you ship it, liability falls on the tool, platform, or you.",
+          "visual_hint": "Gavel striking courtroom bench closeup",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "courtroom gavel",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test one shelved game idea today",
+          "description": "Feed an abandoned game concept into an AI builder now, check who owns the output, then save this and share your result.",
+          "visual_hint": "Hand typing prompt into glowing screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person typing laptop",
+          "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
+      "savedAt": "2026-09-11T20:14:43.893Z",
+      "sourceId": "d1716c9e5b97eaab384f282119aad1eb"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "kimi-maker-moonshot-ai-targets-2b-in-annual-revenu",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
+      "slides": [
+        "Moonshot AI bets big — can it deliver?",
+        "Kimi-maker now targets $2B annual revenue",
+        "That's a 10x jump from current run rate",
+        "Your AI tools may get cheaper or funded longer",
+        "Watch if they hit it — the whole sector shifts"
+      ],
+      "thread_text": [
+        "1. The 10x bet nobody saw coming\n\nMoonshot AI, the company behind Kimi, now aims for $2B in annual revenue. That's not growth—that's a leap.",
+        "2. Can they actually deliver?\n\nThe jump implies roughly 10 times their current run rate. Very few software firms have ever scaled that fast, and even fewer in AI.",
+        "3. Why your tools might change\n\nIf Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you use. Competitors will have to respond on price.",
+        "4. The ripple effect on the sector\n\nA successful moonshot would force every major AI lab to rethink pricing and burn rates. The whole market could tilt toward aggressive expansion.",
+        "5. Watch the next earnings signal\n\nCheck Moonshot's reported revenue in the next two quarters. If they miss, the cheap AI era might stall. If they hit, your tools get better and cheaper."
+      ],
+      "video_script": [
+        "Moonshot AI wants two billion dollars a year.",
+        "That's ten times what they make now.",
+        "If they pull it off, your AI tools get cheaper.",
+        "If they miss, funding could dry up fast.",
+        "Watch their next revenue report closely."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The 10x bet nobody saw coming\n\nMoonshot AI, the company behind Kimi, now aims for $2B in annual revenue. That's not growth—that's a leap.",
+            "2. Can they actually deliver?\n\nThe jump implies roughly 10 times their current run rate. Very few software firms have ever scaled that fast, and even fewer in AI.",
+            "3. Why your tools might change\n\nIf Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you use. Competitors will have to respond on price.",
+            "4. The ripple effect on the sector\n\nA successful moonshot would force every major AI lab to rethink pricing and burn rates. The whole market could tilt toward aggressive expansion.",
+            "5. Watch the next earnings signal\n\nCheck Moonshot's reported revenue in the next two quarters. If they miss, the cheap AI era might stall. If they hit, your tools get better and cheaper."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Moonshot AI wants two billion dollars a year.",
+            "That's ten times what they make now.",
+            "If they pull it off, your AI tools get cheaper.",
+            "If they miss, funding could dry up fast.",
+            "Watch their next revenue report closely."
+          ]
+        },
+        "instagram": {
+          "caption": "Moonshot AI wants $2 billion a year from Kimi — about 10x what it makes now.\n\nThe company behind Kimi just set a target that would mean roughly ten times its current revenue. Very few software companies have ever grown that fast, and even fewer in AI. 🚀\n\nIf they pull it off, expect cheaper AI subscriptions or longer funding for the apps you use, because rivals will have to answer on price. 💸\n\nSo watch their reported revenue over the next two quarters: a miss could stall the cheap AI era you're already enjoying. ⏳\n\nWould you keep paying for your AI tools if prices dropped 30% tomorrow? 🤔"
+        }
+      },
+      "instagram_caption": "Moonshot AI wants $2 billion a year from Kimi — about 10x what it makes now.\n\nThe company behind Kimi just set a target that would mean roughly ten times its current revenue. Very few software companies have ever grown that fast, and even fewer in AI. 🚀\n\nIf they pull it off, expect cheaper AI subscriptions or longer funding for the apps you use, because rivals will have to answer on price. 💸\n\nSo watch their reported revenue over the next two quarters: a miss could stall the cheap AI era you're already enjoying. ⏳\n\nWould you keep paying for your AI tools if prices dropped 30% tomorrow? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Can Moonshot AI really 10x revenue?",
+          "description": "Moonshot AI targets $2B annual revenue, a 10x jump from current run rate that very few software firms ever achieve.",
+          "visual_hint": "Bold text over dark server room",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The Kimi maker's $2B bet",
+          "description": "Kimi-maker Moonshot AI now aims for $2B annual revenue, signaling aggressive expansion in the global AI race.",
+          "visual_hint": "Rising revenue chart on screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A 10x leap in AI revenue",
+          "description": "That's roughly 10 times their current run rate—a scale almost no AI company has ever delivered before.",
+          "visual_hint": "Zoomed graph line spiking upward",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "growth chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI tools could get cheaper",
+          "description": "If Moonshot hits this target, expect cheaper AI subscriptions or longer funding for the apps you already use.",
+          "visual_hint": "Hand holding phone with AI app",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Watch Moonshot's next earnings signal",
+          "description": "Check Moonshot's reported revenue in the next two quarters. Save this post to track whether cheap AI stalls or accelerates.",
+          "visual_hint": "Calendar with earnings date circled",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office calendar",
+          "image": "https://images.pexels.com/photos/29509515/pexels-photo-29509515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "savedAt": "2026-09-11T20:14:35.920Z",
+      "sourceId": "b3b5bc18a7beccd49708480da164e7a8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "palantir-foundry-and-cuopt-drive-nvidia-supply-cha",
       "prompt_version": "1.0.0",
       "status": "published",
