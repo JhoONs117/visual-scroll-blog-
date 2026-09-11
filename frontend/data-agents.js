@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "palantir-foundry-and-cuopt-drive-nvidia-supply-cha",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "pubDate": "Fri, 11 Sep 2026 12:00:18 +0000",
+      "slides": [
+        "Can Palantir fix NVIDIA's supply chain?",
+        "Foundry now orchestrates critical allocation decisions",
+        "cuOpt solves complex constraints in seconds, not days",
+        "Your planning cycles may shrink dramatically",
+        "Test one bottleneck with algorithmic allocation"
+      ],
+      "thread_text": [
+        "1. Palantir's Supply Chain Fix\n\nNVIDIA's allocation decisions now run through Foundry, and cuOpt crunches constraints in seconds. The bottleneck isn't chips—it's planning speed.",
+        "2. Foundry Takes Over Allocations\n\nCritical allocation calls that used to take weeks now happen inside Foundry. Your planning cycles are next.",
+        "3. CuOpt Beats the Clock\n\nComplex constraints that took days now resolve in seconds. That speed changes what's possible in a single shift.",
+        "4. Planning Cycles Shrink Fast\n\nWhen allocation runs in seconds, your quarterly planning becomes a daily habit. The org chart may not keep up.",
+        "5. Test One Bottleneck Today\n\nTake a real constraint from your line and simulate it with an algorithmic allocator. Does it hold up, or does it break?"
+      ],
+      "video_script": [
+        "NVIDIA's supply chain has a planning bottleneck.",
+        "Foundry now handles critical allocation decisions.",
+        "CuOpt solves constraints in seconds, not days.",
+        "Your planning cycles could shrink dramatically.",
+        "Test one bottleneck with algorithmic allocation today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Palantir's Supply Chain Fix\n\nNVIDIA's allocation decisions now run through Foundry, and cuOpt crunches constraints in seconds. The bottleneck isn't chips—it's planning speed.",
+            "2. Foundry Takes Over Allocations\n\nCritical allocation calls that used to take weeks now happen inside Foundry. Your planning cycles are next.",
+            "3. CuOpt Beats the Clock\n\nComplex constraints that took days now resolve in seconds. That speed changes what's possible in a single shift.",
+            "4. Planning Cycles Shrink Fast\n\nWhen allocation runs in seconds, your quarterly planning becomes a daily habit. The org chart may not keep up.",
+            "5. Test One Bottleneck Today\n\nTake a real constraint from your line and simulate it with an algorithmic allocator. Does it hold up, or does it break?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "NVIDIA's supply chain has a planning bottleneck.",
+            "Foundry now handles critical allocation decisions.",
+            "CuOpt solves constraints in seconds, not days.",
+            "Your planning cycles could shrink dramatically.",
+            "Test one bottleneck with algorithmic allocation today."
+          ]
+        },
+        "instagram": {
+          "caption": "NVIDIA's allocation calls now run through Palantir Foundry, with cuOpt solving constraints in seconds instead of days. 🚀\n\nFoundry orchestrates the critical allocation decisions that used to eat weeks of planning time.\n\nComplex constraints that once took days to untangle now resolve in seconds.\n\nThat speed means quarterly planning can turn into a daily habit — if your team can keep up. ⚙️\n\nIf allocation runs this fast, what happens to the org chart built around slow planning cycles?\n\nTest one real bottleneck from your line with an algorithmic allocator this week. Does it hold, or break? 🧩"
+        }
+      },
+      "instagram_caption": "NVIDIA's allocation calls now run through Palantir Foundry, with cuOpt solving constraints in seconds instead of days. 🚀\n\nFoundry orchestrates the critical allocation decisions that used to eat weeks of planning time.\n\nComplex constraints that once took days to untangle now resolve in seconds.\n\nThat speed means quarterly planning can turn into a daily habit — if your team can keep up. ⚙️\n\nIf allocation runs this fast, what happens to the org chart built around slow planning cycles?\n\nTest one real bottleneck from your line with an algorithmic allocator this week. Does it hold, or break? 🧩",
+      "carousel_slides": [
+        {
+          "hook": "Is your planning speed the real bottleneck?",
+          "description": "NVIDIA's allocation now runs through Foundry, with cuOpt solving constraints in seconds. The bottleneck isn't chips—it's planning speed.",
+          "visual_hint": "Futuristic supply chain control room interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "control room"
+        },
+        {
+          "hook": "Foundry now runs critical allocation decisions",
+          "description": "Allocation calls that took weeks now happen inside Foundry. Your planning cycles are next in line.",
+          "visual_hint": "Server racks with data streams",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Constraints solved in seconds, not days",
+          "description": "cuOpt resolves complex constraints in seconds instead of days. That speed changes what's possible in a single shift.",
+          "visual_hint": "Abstract algorithm solving complex puzzle",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "algorithm visualization",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your quarterly planning becomes daily",
+          "description": "When allocation runs in seconds, quarterly planning becomes a daily habit. The org chart may not keep up.",
+          "visual_hint": "Calendar pages flying off rapidly",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "calendar pages",
+          "image": "https://images.pexels.com/photos/29509484/pexels-photo-29509484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test one bottleneck today",
+          "description": "Take a real constraint from your line and simulate it with an algorithmic allocator. Does it hold up?",
+          "visual_hint": "Hand testing a bottleneck on screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "industrial pipeline",
+          "image": "https://images.pexels.com/photos/12194122/pexels-photo-12194122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/39332196/pexels-photo-39332196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-11T17:29:36.519Z",
+      "sourceId": "5afd7f981df59d7112a5bad9c170135d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "scammers-target-hundreds-of-thousands-of-crypto-ow",
       "prompt_version": "1.0.0",
       "status": "published",
