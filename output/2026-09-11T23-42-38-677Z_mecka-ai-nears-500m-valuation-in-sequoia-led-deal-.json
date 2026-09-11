@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+  "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+  "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+  "slides": [
+    "Mecka AI worth $500M — but why robots?",
+    "Sequoia leads round for robot training data",
+    "Real humans, not simulations, feed its models",
+    "Your warehouse footage may already train robots",
+    "Check what data you're giving away for free"
+  ],
+  "thread_text": [
+    "1. Robots Are Watching You\n\nMecka AI raised a $500M round led by Sequoia to train robots using real human footage from warehouses. Your movements are already the product.",
+    "2. Real Humans Beat Simulations\n\nMecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+    "3. Your Warehouse Is the Classroom\n\nEvery pick, pack, and scan you do feeds their training set. You're not just working—you're teaching your replacement.",
+    "4. Free Labor for Robots\n\nCompanies hand over footage without paying you extra. The data you generate makes Mecka rich while you get a paycheck.",
+    "5. Check What You're Giving Away\n\nAsk your employer if your footage is sold or shared. Then decide if that's a deal you're okay with."
+  ],
+  "video_script": [
+    "Mecka AI is worth half a billion dollars.",
+    "Sequoia just funded robot training data.",
+    "Real humans, not simulations, teach these robots.",
+    "Your warehouse footage might already train them.",
+    "Check what data you're giving away for free."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Robots Are Watching You\n\nMecka AI raised a $500M round led by Sequoia to train robots using real human footage from warehouses. Your movements are already the product.",
+        "2. Real Humans Beat Simulations\n\nMecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+        "3. Your Warehouse Is the Classroom\n\nEvery pick, pack, and scan you do feeds their training set. You're not just working—you're teaching your replacement.",
+        "4. Free Labor for Robots\n\nCompanies hand over footage without paying you extra. The data you generate makes Mecka rich while you get a paycheck.",
+        "5. Check What You're Giving Away\n\nAsk your employer if your footage is sold or shared. Then decide if that's a deal you're okay with."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Mecka AI is worth half a billion dollars.",
+        "Sequoia just funded robot training data.",
+        "Real humans, not simulations, teach these robots.",
+        "Your warehouse footage might already train them.",
+        "Check what data you're giving away for free."
+      ]
+    },
+    "instagram": {
+      "caption": "Your warehouse footage may already be training robots.\n\nMecka AI is close to a $500M valuation, with Sequoia leading the round. 💰\n\nIts models learn from real workers picking, packing, and scanning — not simulations.\n\nCompanies hand over that footage without paying workers extra.\n\nIf you work in a warehouse, your movements are the product.\n\n📹 Ask your employer whether your footage is sold or shared.\n\nWould you still show up the same way if you knew a robot was studying you? 🤖"
+    }
+  },
+  "instagram_caption": "Your warehouse footage may already be training robots.\n\nMecka AI is close to a $500M valuation, with Sequoia leading the round. 💰\n\nIts models learn from real workers picking, packing, and scanning — not simulations.\n\nCompanies hand over that footage without paying workers extra.\n\nIf you work in a warehouse, your movements are the product.\n\n📹 Ask your employer whether your footage is sold or shared.\n\nWould you still show up the same way if you knew a robot was studying you? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Your warehouse footage is training robots",
+      "description": "Mecka AI is nearing a $500M valuation with Sequoia leading the round, built on real human footage from warehouses.",
+      "visual_hint": "Warehouse worker with camera overhead",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warehouse logistics"
+    },
+    {
+      "hook": "Sequoia bets big on robot training data",
+      "description": "The firm leads a round valuing Mecka at $500M, signaling that real-world data is the new oil for robotics.",
+      "visual_hint": "Investor handshake with robot arm",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "venture capital office",
+      "image": "https://images.pexels.com/photos/12491576/pexels-photo-12491576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Real humans beat simulations for AI",
+      "description": "Mecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+      "visual_hint": "Worker hands sorting packages",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "human hands working",
+      "image": "https://images.pexels.com/photos/18947370/pexels-photo-18947370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your movements are already the product",
+      "description": "Every pick, pack, and scan you do feeds their training set. You're teaching your replacement without extra pay.",
+      "visual_hint": "Close-up on scanning barcode",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "barcode scanner",
+      "image": "https://images.pexels.com/photos/7362877/pexels-photo-7362877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check what data you're giving away",
+      "description": "Ask your employer if your footage is sold or shared. Then decide if that's a deal you're okay with.",
+      "visual_hint": "Hand holding smartphone with question mark",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone question mark",
+      "image": "https://images.pexels.com/photos/10988648/pexels-photo-10988648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+  "savedAt": "2026-09-11T23:42:48.153Z",
+  "sourceId": "c923ead07513500b9789e0ec36ceda4c"
+}

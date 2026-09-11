@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-s-feud-with-mathematicians-is-only-escalati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI’s feud with mathematicians is only escalating",
+  "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+  "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
+  "slides": [
+    "Why is OpenAI battling mathematicians?",
+    "They claim proof of a major conjecture, others doubt.",
+    "The proof may be flawed, but the tool works.",
+    "Check your own math with AI—carefully.",
+    "One false proof can mislead; verify or ignore."
+  ],
+  "thread_text": [
+    "1. Proof or bluff?\n\nOpenAI claims its AI solved a decades-old math conjecture. Mathematicians are skeptical, and the proof may have holes.",
+    "2. A bold claim\n\nThe AI produced a proof that experts are now tearing apart. Even if flawed, the tool behind it is real.",
+    "3. You can try it\n\nUse AI to check your own math, but carefully. It might be wrong, but it can still help you spot patterns.",
+    "4. One false move\n\nA single wrong proof can mislead thousands. Verify everything or ignore the hype.",
+    "5. Your turn\n\nTake a math problem you're stuck on. Ask an AI to outline a proof. Then verify each step. Does it hold up?"
+  ],
+  "video_script": [
+    "OpenAI claims its AI solved a famous math problem.",
+    "Mathematicians say the proof might have errors.",
+    "But the tool itself still works for checking math.",
+    "Use it on your own problems, but verify carefully.",
+    "One false proof can mislead. Always double-check."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Proof or bluff?\n\nOpenAI claims its AI solved a decades-old math conjecture. Mathematicians are skeptical, and the proof may have holes.",
+        "2. A bold claim\n\nThe AI produced a proof that experts are now tearing apart. Even if flawed, the tool behind it is real.",
+        "3. You can try it\n\nUse AI to check your own math, but carefully. It might be wrong, but it can still help you spot patterns.",
+        "4. One false move\n\nA single wrong proof can mislead thousands. Verify everything or ignore the hype.",
+        "5. Your turn\n\nTake a math problem you're stuck on. Ask an AI to outline a proof. Then verify each step. Does it hold up?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI claims its AI solved a famous math problem.",
+        "Mathematicians say the proof might have errors.",
+        "But the tool itself still works for checking math.",
+        "Use it on your own problems, but verify carefully.",
+        "One false proof can mislead. Always double-check."
+      ]
+    },
+    "instagram": {
+      "caption": "A decades-old math conjecture gets \"solved\" by an AI, and mathematicians are tearing the proof apart. 🤔\n\nOpenAI says its model cracked the problem. Experts keep finding holes in the reasoning.\n\nThe tool itself still works, even if this proof doesn't hold up.\n\nIf you use AI to check your own math, that gap matters. 🧮\n\nOne wrong proof can mislead thousands before anyone catches it. Verify every step, or skip it entirely. ⚠️\n\nTry it now: take a problem you're stuck on, ask an AI for a proof outline, then check each step yourself. Does it survive? 🔍"
+    }
+  },
+  "instagram_caption": "A decades-old math conjecture gets \"solved\" by an AI, and mathematicians are tearing the proof apart. 🤔\n\nOpenAI says its model cracked the problem. Experts keep finding holes in the reasoning.\n\nThe tool itself still works, even if this proof doesn't hold up.\n\nIf you use AI to check your own math, that gap matters. 🧮\n\nOne wrong proof can mislead thousands before anyone catches it. Verify every step, or skip it entirely. ⚠️\n\nTry it now: take a problem you're stuck on, ask an AI for a proof outline, then check each step yourself. Does it survive? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can AI really prove math?",
+      "description": "OpenAI claims its AI cracked a decades-old conjecture, but mathematicians are tearing the proof apart.",
+      "visual_hint": "Glowing math equations on screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "blackboard equations"
+    },
+    {
+      "hook": "Bold claim, shaky proof",
+      "description": "Experts doubt the proof, yet the underlying tool is real and already changing how math gets checked.",
+      "visual_hint": "Split screen human vs AI",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Flawed proof, working tool",
+      "description": "Even if the conjecture proof fails, AI can still help you spot patterns in your own math.",
+      "visual_hint": "Hand typing on laptop keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "One false proof misleads thousands",
+      "description": "A single wrong step can spread fast, so verify every line or ignore the hype entirely.",
+      "visual_hint": "Magnifying glass over code",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnifying glass",
+      "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Try it, then verify every step",
+      "description": "Pick a stuck math problem, ask AI to outline a proof, then check each step yourself. Save this.",
+      "visual_hint": "Notebook with pencil and formula",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "notebook pencil",
+      "image": "https://images.pexels.com/photos/8099373/pexels-photo-8099373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-11T23:42:56.316Z",
+  "sourceId": "d4514d27691b0738eb49385c64139c32"
+}

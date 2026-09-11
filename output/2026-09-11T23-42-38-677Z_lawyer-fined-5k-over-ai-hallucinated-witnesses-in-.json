@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "lawyer-fined-5k-over-ai-hallucinated-witnesses-in-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+  "pubDate": "2026-09-11T20:44:02.000Z",
+  "slides": [
+    "A lawyer just invented murder witnesses with AI. How?",
+    "He used a generative AI to draft court filings.",
+    "The AI fabricated six witness statements and citations.",
+    "Courts now fine lawyers for AI hallucinations.",
+    "Check your AI outputs before any legal or factual use."
+  ],
+  "thread_text": [
+    "1. AI Witnesses in Court\n\nA lawyer submitted six witness statements to a court. None of the witnesses existed.",
+    "2. Drafted by AI\n\nHe used generative AI to write his court filings. The tool generated names, quotes, and citations on demand.",
+    "3. Six Fake Statements\n\nThe AI invented all six witness statements and legal citations. The lawyer filed them without checking.",
+    "4. Courts Push Back\n\nJudges now fine lawyers for AI hallucinations. Sanctions are real and growing.",
+    "5. Check Before You File\n\nRun one AI output through a fact-check this week. If you can't verify it, don't use it."
+  ],
+  "video_script": [
+    "A lawyer filed six witness statements.",
+    "The witnesses did not exist.",
+    "He used AI to draft court documents.",
+    "Courts now fine lawyers for fake citations.",
+    "Check every AI output before using it."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Witnesses in Court\n\nA lawyer submitted six witness statements to a court. None of the witnesses existed.",
+        "2. Drafted by AI\n\nHe used generative AI to write his court filings. The tool generated names, quotes, and citations on demand.",
+        "3. Six Fake Statements\n\nThe AI invented all six witness statements and legal citations. The lawyer filed them without checking.",
+        "4. Courts Push Back\n\nJudges now fine lawyers for AI hallucinations. Sanctions are real and growing.",
+        "5. Check Before You File\n\nRun one AI output through a fact-check this week. If you can't verify it, don't use it."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "A lawyer filed six witness statements.",
+        "The witnesses did not exist.",
+        "He used AI to draft court documents.",
+        "Courts now fine lawyers for fake citations.",
+        "Check every AI output before using it."
+      ]
+    },
+    "instagram": {
+      "caption": "Six murder witnesses appeared in court filings. None of them exist. ⚖️\n\nA lawyer used generative AI to draft his documents, and it invented witness statements and legal citations out of nothing.\n\nHe filed them without checking, and got fined $5,000.\n\nCourts are now sanctioning lawyers for AI hallucinations, and the pattern is growing.\n\nIf you publish AI-generated text, verify every name, quote, and source before it goes out. 🧠\n\nWould you catch a fake citation in your own output? 🔍"
+    }
+  },
+  "instagram_caption": "Six murder witnesses appeared in court filings. None of them exist. ⚖️\n\nA lawyer used generative AI to draft his documents, and it invented witness statements and legal citations out of nothing.\n\nHe filed them without checking, and got fined $5,000.\n\nCourts are now sanctioning lawyers for AI hallucinations, and the pattern is growing.\n\nIf you publish AI-generated text, verify every name, quote, and source before it goes out. 🧠\n\nWould you catch a fake citation in your own output? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "He invented six witnesses with AI",
+      "description": "A lawyer used generative AI to draft court filings. It fabricated six witness statements and citations he filed without checking.",
+      "visual_hint": "Courtroom gavel with glowing AI overlay",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "courtroom gavel"
+    },
+    {
+      "hook": "AI wrote his entire legal defense",
+      "description": "Generative AI produced names, quotes, and citations on demand. The lawyer submitted them as real evidence in a murder case.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "AI text streaming onto legal document",
+      "image_query": "legal document",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "None of the six witnesses existed",
+      "description": "Every witness statement and legal citation was AI-generated fiction. The court discovered the hallucination and fined him $5,000.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Magnifying glass over fake signatures",
+      "image_query": "magnifying glass paper",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Courts now fine lawyers for AI lies",
+      "description": "Judges are issuing real sanctions for AI hallucinations in filings. The penalties are growing as more fake citations reach courtrooms.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Judge's hand striking gavel",
+      "image_query": "judge gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI prompt",
+      "description": "Fact-check one AI output this week. If you can't verify every citation or claim, don't file it or publish it.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Checklist beside laptop screen",
+      "image_query": "laptop checklist",
+      "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-11T23:43:05.716Z",
+  "sourceId": "c71016307bb8686e44c29d2d4274b178"
+}

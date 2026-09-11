@@ -3,6 +3,318 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "lawyer-fined-5k-over-ai-hallucinated-witnesses-in-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "pubDate": "2026-09-11T20:44:02.000Z",
+      "slides": [
+        "A lawyer just invented murder witnesses with AI. How?",
+        "He used a generative AI to draft court filings.",
+        "The AI fabricated six witness statements and citations.",
+        "Courts now fine lawyers for AI hallucinations.",
+        "Check your AI outputs before any legal or factual use."
+      ],
+      "thread_text": [
+        "1. AI Witnesses in Court\n\nA lawyer submitted six witness statements to a court. None of the witnesses existed.",
+        "2. Drafted by AI\n\nHe used generative AI to write his court filings. The tool generated names, quotes, and citations on demand.",
+        "3. Six Fake Statements\n\nThe AI invented all six witness statements and legal citations. The lawyer filed them without checking.",
+        "4. Courts Push Back\n\nJudges now fine lawyers for AI hallucinations. Sanctions are real and growing.",
+        "5. Check Before You File\n\nRun one AI output through a fact-check this week. If you can't verify it, don't use it."
+      ],
+      "video_script": [
+        "A lawyer filed six witness statements.",
+        "The witnesses did not exist.",
+        "He used AI to draft court documents.",
+        "Courts now fine lawyers for fake citations.",
+        "Check every AI output before using it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Witnesses in Court\n\nA lawyer submitted six witness statements to a court. None of the witnesses existed.",
+            "2. Drafted by AI\n\nHe used generative AI to write his court filings. The tool generated names, quotes, and citations on demand.",
+            "3. Six Fake Statements\n\nThe AI invented all six witness statements and legal citations. The lawyer filed them without checking.",
+            "4. Courts Push Back\n\nJudges now fine lawyers for AI hallucinations. Sanctions are real and growing.",
+            "5. Check Before You File\n\nRun one AI output through a fact-check this week. If you can't verify it, don't use it."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "A lawyer filed six witness statements.",
+            "The witnesses did not exist.",
+            "He used AI to draft court documents.",
+            "Courts now fine lawyers for fake citations.",
+            "Check every AI output before using it."
+          ]
+        },
+        "instagram": {
+          "caption": "Six murder witnesses appeared in court filings. None of them exist. ⚖️\n\nA lawyer used generative AI to draft his documents, and it invented witness statements and legal citations out of nothing.\n\nHe filed them without checking, and got fined $5,000.\n\nCourts are now sanctioning lawyers for AI hallucinations, and the pattern is growing.\n\nIf you publish AI-generated text, verify every name, quote, and source before it goes out. 🧠\n\nWould you catch a fake citation in your own output? 🔍"
+        }
+      },
+      "instagram_caption": "Six murder witnesses appeared in court filings. None of them exist. ⚖️\n\nA lawyer used generative AI to draft his documents, and it invented witness statements and legal citations out of nothing.\n\nHe filed them without checking, and got fined $5,000.\n\nCourts are now sanctioning lawyers for AI hallucinations, and the pattern is growing.\n\nIf you publish AI-generated text, verify every name, quote, and source before it goes out. 🧠\n\nWould you catch a fake citation in your own output? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "He invented six witnesses with AI",
+          "description": "A lawyer used generative AI to draft court filings. It fabricated six witness statements and citations he filed without checking.",
+          "visual_hint": "Courtroom gavel with glowing AI overlay",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "AI wrote his entire legal defense",
+          "description": "Generative AI produced names, quotes, and citations on demand. The lawyer submitted them as real evidence in a murder case.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "AI text streaming onto legal document",
+          "image_query": "legal document",
+          "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "None of the six witnesses existed",
+          "description": "Every witness statement and legal citation was AI-generated fiction. The court discovered the hallucination and fined him $5,000.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Magnifying glass over fake signatures",
+          "image_query": "magnifying glass paper",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Courts now fine lawyers for AI lies",
+          "description": "Judges are issuing real sanctions for AI hallucinations in filings. The penalties are growing as more fake citations reach courtrooms.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Judge's hand striking gavel",
+          "image_query": "judge gavel",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next AI prompt",
+          "description": "Fact-check one AI output this week. If you can't verify every citation or claim, don't file it or publish it.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Checklist beside laptop screen",
+          "image_query": "laptop checklist",
+          "image": "https://images.pexels.com/photos/6863340/pexels-photo-6863340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-11T23:43:05.716Z",
+      "sourceId": "c71016307bb8686e44c29d2d4274b178"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-s-feud-with-mathematicians-is-only-escalati",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
+      "slides": [
+        "Why is OpenAI battling mathematicians?",
+        "They claim proof of a major conjecture, others doubt.",
+        "The proof may be flawed, but the tool works.",
+        "Check your own math with AI—carefully.",
+        "One false proof can mislead; verify or ignore."
+      ],
+      "thread_text": [
+        "1. Proof or bluff?\n\nOpenAI claims its AI solved a decades-old math conjecture. Mathematicians are skeptical, and the proof may have holes.",
+        "2. A bold claim\n\nThe AI produced a proof that experts are now tearing apart. Even if flawed, the tool behind it is real.",
+        "3. You can try it\n\nUse AI to check your own math, but carefully. It might be wrong, but it can still help you spot patterns.",
+        "4. One false move\n\nA single wrong proof can mislead thousands. Verify everything or ignore the hype.",
+        "5. Your turn\n\nTake a math problem you're stuck on. Ask an AI to outline a proof. Then verify each step. Does it hold up?"
+      ],
+      "video_script": [
+        "OpenAI claims its AI solved a famous math problem.",
+        "Mathematicians say the proof might have errors.",
+        "But the tool itself still works for checking math.",
+        "Use it on your own problems, but verify carefully.",
+        "One false proof can mislead. Always double-check."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Proof or bluff?\n\nOpenAI claims its AI solved a decades-old math conjecture. Mathematicians are skeptical, and the proof may have holes.",
+            "2. A bold claim\n\nThe AI produced a proof that experts are now tearing apart. Even if flawed, the tool behind it is real.",
+            "3. You can try it\n\nUse AI to check your own math, but carefully. It might be wrong, but it can still help you spot patterns.",
+            "4. One false move\n\nA single wrong proof can mislead thousands. Verify everything or ignore the hype.",
+            "5. Your turn\n\nTake a math problem you're stuck on. Ask an AI to outline a proof. Then verify each step. Does it hold up?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "OpenAI claims its AI solved a famous math problem.",
+            "Mathematicians say the proof might have errors.",
+            "But the tool itself still works for checking math.",
+            "Use it on your own problems, but verify carefully.",
+            "One false proof can mislead. Always double-check."
+          ]
+        },
+        "instagram": {
+          "caption": "A decades-old math conjecture gets \"solved\" by an AI, and mathematicians are tearing the proof apart. 🤔\n\nOpenAI says its model cracked the problem. Experts keep finding holes in the reasoning.\n\nThe tool itself still works, even if this proof doesn't hold up.\n\nIf you use AI to check your own math, that gap matters. 🧮\n\nOne wrong proof can mislead thousands before anyone catches it. Verify every step, or skip it entirely. ⚠️\n\nTry it now: take a problem you're stuck on, ask an AI for a proof outline, then check each step yourself. Does it survive? 🔍"
+        }
+      },
+      "instagram_caption": "A decades-old math conjecture gets \"solved\" by an AI, and mathematicians are tearing the proof apart. 🤔\n\nOpenAI says its model cracked the problem. Experts keep finding holes in the reasoning.\n\nThe tool itself still works, even if this proof doesn't hold up.\n\nIf you use AI to check your own math, that gap matters. 🧮\n\nOne wrong proof can mislead thousands before anyone catches it. Verify every step, or skip it entirely. ⚠️\n\nTry it now: take a problem you're stuck on, ask an AI for a proof outline, then check each step yourself. Does it survive? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Can AI really prove math?",
+          "description": "OpenAI claims its AI cracked a decades-old conjecture, but mathematicians are tearing the proof apart.",
+          "visual_hint": "Glowing math equations on screen",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "blackboard equations"
+        },
+        {
+          "hook": "Bold claim, shaky proof",
+          "description": "Experts doubt the proof, yet the underlying tool is real and already changing how math gets checked.",
+          "visual_hint": "Split screen human vs AI",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Flawed proof, working tool",
+          "description": "Even if the conjecture proof fails, AI can still help you spot patterns in your own math.",
+          "visual_hint": "Hand typing on laptop keyboard",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "One false proof misleads thousands",
+          "description": "A single wrong step can spread fast, so verify every line or ignore the hype entirely.",
+          "visual_hint": "Magnifying glass over code",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "magnifying glass",
+          "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Try it, then verify every step",
+          "description": "Pick a stuck math problem, ask AI to outline a proof, then check each step yourself. Save this.",
+          "visual_hint": "Notebook with pencil and formula",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "notebook pencil",
+          "image": "https://images.pexels.com/photos/8099373/pexels-photo-8099373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8197538/pexels-photo-8197538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-11T23:42:56.316Z",
+      "sourceId": "d4514d27691b0738eb49385c64139c32"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "mecka-ai-nears-500m-valuation-in-sequoia-led-deal-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "slides": [
+        "Mecka AI worth $500M — but why robots?",
+        "Sequoia leads round for robot training data",
+        "Real humans, not simulations, feed its models",
+        "Your warehouse footage may already train robots",
+        "Check what data you're giving away for free"
+      ],
+      "thread_text": [
+        "1. Robots Are Watching You\n\nMecka AI raised a $500M round led by Sequoia to train robots using real human footage from warehouses. Your movements are already the product.",
+        "2. Real Humans Beat Simulations\n\nMecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+        "3. Your Warehouse Is the Classroom\n\nEvery pick, pack, and scan you do feeds their training set. You're not just working—you're teaching your replacement.",
+        "4. Free Labor for Robots\n\nCompanies hand over footage without paying you extra. The data you generate makes Mecka rich while you get a paycheck.",
+        "5. Check What You're Giving Away\n\nAsk your employer if your footage is sold or shared. Then decide if that's a deal you're okay with."
+      ],
+      "video_script": [
+        "Mecka AI is worth half a billion dollars.",
+        "Sequoia just funded robot training data.",
+        "Real humans, not simulations, teach these robots.",
+        "Your warehouse footage might already train them.",
+        "Check what data you're giving away for free."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Robots Are Watching You\n\nMecka AI raised a $500M round led by Sequoia to train robots using real human footage from warehouses. Your movements are already the product.",
+            "2. Real Humans Beat Simulations\n\nMecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+            "3. Your Warehouse Is the Classroom\n\nEvery pick, pack, and scan you do feeds their training set. You're not just working—you're teaching your replacement.",
+            "4. Free Labor for Robots\n\nCompanies hand over footage without paying you extra. The data you generate makes Mecka rich while you get a paycheck.",
+            "5. Check What You're Giving Away\n\nAsk your employer if your footage is sold or shared. Then decide if that's a deal you're okay with."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Mecka AI is worth half a billion dollars.",
+            "Sequoia just funded robot training data.",
+            "Real humans, not simulations, teach these robots.",
+            "Your warehouse footage might already train them.",
+            "Check what data you're giving away for free."
+          ]
+        },
+        "instagram": {
+          "caption": "Your warehouse footage may already be training robots.\n\nMecka AI is close to a $500M valuation, with Sequoia leading the round. 💰\n\nIts models learn from real workers picking, packing, and scanning — not simulations.\n\nCompanies hand over that footage without paying workers extra.\n\nIf you work in a warehouse, your movements are the product.\n\n📹 Ask your employer whether your footage is sold or shared.\n\nWould you still show up the same way if you knew a robot was studying you? 🤖"
+        }
+      },
+      "instagram_caption": "Your warehouse footage may already be training robots.\n\nMecka AI is close to a $500M valuation, with Sequoia leading the round. 💰\n\nIts models learn from real workers picking, packing, and scanning — not simulations.\n\nCompanies hand over that footage without paying workers extra.\n\nIf you work in a warehouse, your movements are the product.\n\n📹 Ask your employer whether your footage is sold or shared.\n\nWould you still show up the same way if you knew a robot was studying you? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Your warehouse footage is training robots",
+          "description": "Mecka AI is nearing a $500M valuation with Sequoia leading the round, built on real human footage from warehouses.",
+          "visual_hint": "Warehouse worker with camera overhead",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warehouse logistics"
+        },
+        {
+          "hook": "Sequoia bets big on robot training data",
+          "description": "The firm leads a round valuing Mecka at $500M, signaling that real-world data is the new oil for robotics.",
+          "visual_hint": "Investor handshake with robot arm",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "venture capital office",
+          "image": "https://images.pexels.com/photos/12491576/pexels-photo-12491576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Real humans beat simulations for AI",
+          "description": "Mecka's models learn from actual workers doing tasks, not synthetic data. That's why investors are betting big on it.",
+          "visual_hint": "Worker hands sorting packages",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "human hands working",
+          "image": "https://images.pexels.com/photos/18947370/pexels-photo-18947370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your movements are already the product",
+          "description": "Every pick, pack, and scan you do feeds their training set. You're teaching your replacement without extra pay.",
+          "visual_hint": "Close-up on scanning barcode",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "barcode scanner",
+          "image": "https://images.pexels.com/photos/7362877/pexels-photo-7362877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check what data you're giving away",
+          "description": "Ask your employer if your footage is sold or shared. Then decide if that's a deal you're okay with.",
+          "visual_hint": "Hand holding smartphone with question mark",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone question mark",
+          "image": "https://images.pexels.com/photos/10988648/pexels-photo-10988648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "savedAt": "2026-09-11T23:42:48.153Z",
+      "sourceId": "c923ead07513500b9789e0ec36ceda4c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "meta-says-it-8217-s-changing-ai-suggestions-after-",
       "prompt_version": "1.0.0",
       "status": "published",
