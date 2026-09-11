@@ -2,6 +2,228 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "calzone-dolce-di-cipolla",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Calzone dolce di cipolla",
+    "link": "https://ricette.giallozafferano.it/Calzone-dolce-di-cipolla.html",
+    "pubDate": "Fri, 11 Sep 2026 11:30:00 +0200",
+    "content": "Calzone di cipolla alla valenzanese Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Torte salate Calzone dolce di cipolla /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 644,9 Calorie per porzione Energia Kcal 644,9 Carboidrati g 86,7 &nbsp;&nbsp;di cui zuccheri g 22,7 Proteine g 11,5 Grassi g 26,2 &nbsp;&nbsp;di cui saturi g 4 Fibre g 6,8 Colesterolo mg 5,3 Sodio mg 520,2 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Senza lattosio Difficoltà: Media Preparazione: 45 min Cottura: 1 h 30 min Dosi per: 8 persone Costo: Basso Nota + il tempo per scolare gli sponsali (una notte) Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE Il calzone dolce di cipolla è una specialità tipica di Valenzano, in provincia di Bari, che racchiude in ogni fetta i profumi e i sapori della cucina tradizionale pugliese. A prepararlo per noi è Nonna Anna, custode di una ricetta di famiglia fatta di ingredienti semplici, gesti tramandati e ricordi che attraversano le generazioni. In occasione di una puntata del vodcast “ Ti mando un vocale ”, Nonna Anna ci mostra tutti i segreti del suo calzone di sponsali alla valenzanese e ci racconta perché la cucina occupa da sempre un posto così importante nella sua vita, una passione che oggi ama condividere anche con i suoi tre nipotini. Protagonisti di questo speciale calzone di cipolle sono gli sponsali , bulbi freschi dal sapore delicato, che vengono arricchiti con olive baresi, uva passa e acciughe, mentre l'aggiunta dello zucchero crea quel caratteristico equilibrio tra dolce e salato che distingue questa preparazione. A racchiudere il ripieno c'è una fragrante pasta matta al vino, preparata anch’essa con lo zucchero, che dona una deliziosa nota caramellata e si sposa perfettamente con il ripieno morbido e saporito a base di cipolle. Il calzone dolce di cipolla di Valenzano non è soltanto una ricetta: è un racconto di famiglia e di territorio, uno di quei piatti della tradizione che continuano a vivere grazie a chi ne conserva gelosamente i gesti e sceglie di tramandarli… proprio come fanno le nonne! INGREDIENTI 644,9 Calorie per porzione Per l'impasto Farina 00 500 g Vino bianco 300 g Olio extravergine d'oliva 50 g Zucchero 20 g Per la farcitura Sponsali (da pulire) 2 kg Olive baresi 300 g Uvetta 50 g Acciughe sott'olio 50 g Zucchero 25 g Olio extravergine d'oliva 100 g Per la superficie Zucchero 15 g Olio extravergine d'oliva 15 g AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare il Calzone dolce di cipolla Per preparare il calzone dolce di cipolla, iniziate dalla pulizia degli sponsali: rimuovete le radici 1 e la parte verde più dura 2 , poi divideteli a pezzetti e affettateli finemente per il lungo 3 . Versate gli sponsali in una pentola di acqua bollente 4 e cuocete per circa 20 minuti, fino a che saranno ammorbiditi 5 . Scolateli e trasferiteli in un colino 6 , poi lasciateli riposare per una notte in frigorifero, così da rilasciare tutto il liquido in eccesso. Trascorso questo tempo, versate gli sponsali in un’ampia padella con un filo d’olio caldo 7 e fateli appassire a fuoco medio per circa 30 minuti 8 . A questo punto aggiungete l’uvetta, che avrete precedentemente messo in ammollo in acqua tiepida 9 . Unite anche le olive denocciolate 10 e lo zucchero 11 e proseguite la cottura per un’altra decina di minuti, mescolando bene per far asciugare il tutto. Spegnete il fuoco e tenete da parte 12 . Dedicatevi alla pasta matta: mettete la farina in una ciotola insieme allo zucchero 13 , poi aggiungete gradualmente il vino bianco mentre amalgamate con un mestolo 14 . Versate anche l’olio 15 e incorporatelo al composto. Continuate a lavorare l’impasto sul piano di lavoro per una decina di minuti 16 fino ad ottenere una palla liscia e omogenea 17 . Dividete l’impasto in 2 parti uguali 18 . Stendete la prima porzione di impasto sul piano leggermente infarinato 19 fino a uno spessore di circa 1-2 mm 20 . Trasferite la sfoglia in uno stampo del diametro di 32 cm unto con l’olio 21 e sistematela bene per foderare sia la base che i bordi. Versate all’interno il ripieno di sponsali 22 e distribuitelo uniformemente, poi spolverizzatelo con lo zucchero 23 e condite con un filo d’olio 24 . Aggiungete anche le acciughe spezzettate 25 . Ora stendete anche la seconda porzione di impasto e trasferitela sullo stampo 26 , poi eliminate l’eccesso 27 . Ripiegate i bordi verso l’interno per sigillare il ripieno 28 , poi irrorate la superficie con un filo d’olio 29 e spolverizzate con lo zucchero 30 . Infine praticate delle incisioni con un coltello come se doveste tagliarla a fette 31 . Cuocete in forno statico preriscaldato a 200° per circa 30 minuti 32 , fino a che la superficie risulterà dorata e leggermente caramellata. Sfornate e lasciate leggermente intiepidire, dopodiché il vostro calzone dolce di cipolla è pronto per essere gustato 33 ! Conservazione Il calzone dolce di cipolla si può conservare in frigorifero per 3-4 giorni. Potete congelarlo da crudo per una settimana, oppure da cotto per circa 2 settimane. Consiglio Se preferite, potete omettere le acciughe. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Olive in salamoia Olio di oliva Scopri tutto sugli ingredienti Presente in: Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con crema di Parmigiano e speck Calzone dolce di cipolla 5.0 Biscotti sacher 5.0 SCOPRI Calzone di cipolla alla barese Calzone Calzone di cipolle Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Calzone dolce di cipolla caramellato",
+      "Sponsali, olive baresi, uvetta e acciughe",
+      "Cuoci gli sponsali e lasciali scolare una notte",
+      "Stendi la pasta matta, farcisci e sigilla i bordi",
+      "Spolverizza con zucchero: superficie dorata e caramellata"
+    ],
+    "instagram_caption": "Il calzone dolce di cipolla è quella coccola che non ti aspetti 🧅✨\nSponsali caramellati, olive baresi, uvetta e acciughe: un contrasto agrodolce che conquista al primo morso.\nLascio gli sponsali a scolare tutta la notte, poi stendo la pasta matta e sigillo il ripieno con cura.\nUna spolverata di zucchero in superficie e via in forno: dorato, caramellato, irresistibile.\nSalva il post e provalo questo weekend 🌿🍯",
+    "formats": {
+      "instagram": {
+        "caption": "Il calzone dolce di cipolla è quella coccola che non ti aspetti 🧅✨\nSponsali caramellati, olive baresi, uvetta e acciughe: un contrasto agrodolce che conquista al primo morso.\nLascio gli sponsali a scolare tutta la notte, poi stendo la pasta matta e sigillo il ripieno con cura.\nUna spolverata di zucchero in superficie e via in forno: dorato, caramellato, irresistibile.\nSalva il post e provalo questo weekend 🌿🍯"
+      },
+      "tiktok": {
+        "script": [
+          "Prendo gli sponsali e li faccio caramellare dolcemente.",
+          "Aggiungo olive baresi, uvetta e acciughe: che profumo!",
+          "Li cuocio e li lascio scolare tutta la notte.",
+          "Stendo la pasta matta, farcisco e sigillo bene i bordi.",
+          "Spolverizzo di zucchero: superficie dorata e caramellata!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Cipolle dolci, olive baresi e acciughe: il calzone che ribalta ogni regola. Non è un errore, è una bomba di gusto. Scopri come farlo in 5 passi. 👇",
+          "Parti dagli sponsali: affettali sottili, cuocili lentamente finché non diventano marmellata. Poi lasciali scolare una notte intera. È il segreto per un ripieno asciutto e intenso.",
+          "Aggiungi olive baresi denocciolate, uvetta ammollata e filetti di acciuga. Stendi la pasta matta, farcìsci e sigilla i bordi con i rebbi di una forchetta. Non lesinare sul ripieno.",
+          "Prima di infornare, spolverizza la superficie con zucchero semolato. In forno caldo diventa una crosta dorata e caramellata che scrocchia sotto i denti. 200° per 25 minuti.",
+          "Il trucco finale? Servilo tiepido, non bollente: il dolce-salato si esalta. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Prendo gli sponsali e li faccio caramellare dolcemente.",
+      "Aggiungo olive baresi, uvetta e acciughe: che profumo!",
+      "Li cuocio e li lascio scolare tutta la notte.",
+      "Stendo la pasta matta, farcisco e sigillo bene i bordi.",
+      "Spolverizzo di zucchero: superficie dorata e caramellata!"
+    ],
+    "thread_text": [
+      "Cipolle dolci, olive baresi e acciughe: il calzone che ribalta ogni regola. Non è un errore, è una bomba di gusto. Scopri come farlo in 5 passi. 👇",
+      "Parti dagli sponsali: affettali sottili, cuocili lentamente finché non diventano marmellata. Poi lasciali scolare una notte intera. È il segreto per un ripieno asciutto e intenso.",
+      "Aggiungi olive baresi denocciolate, uvetta ammollata e filetti di acciuga. Stendi la pasta matta, farcìsci e sigilla i bordi con i rebbi di una forchetta. Non lesinare sul ripieno.",
+      "Prima di infornare, spolverizza la superficie con zucchero semolato. In forno caldo diventa una crosta dorata e caramellata che scrocchia sotto i denti. 200° per 25 minuti.",
+      "Il trucco finale? Servilo tiepido, non bollente: il dolce-salato si esalta. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Calzone dolce di cipolla caramellato",
+        "description": "Un guscio dorato e caramellato che racchiude un cuore agrodolce: la sorpresa perfetta di una cucina povera e geniale.",
+        "visual_hint": "calzone dorato appena sfornato",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory onion calzone"
+      },
+      {
+        "hook": "Sponsali, olive, uvetta e acciughe",
+        "description": "Il trio mediterraneo che accende il ripieno: dolcezza dell'uvetta, sapidità delle acciughe, rotondità delle olive baresi.",
+        "visual_hint": "ingredienti ripieno su tagliere",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory onion filling",
+        "image": "https://images.pexels.com/photos/27988494/pexels-photo-27988494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cuoci gli sponsali e lasciali scolare",
+        "description": "Una notte di riposo in colino trasforma le cipolle in una confettura naturale, concentrata e senza acquosità.",
+        "visual_hint": "cipolle caramellate che colano",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "caramelized onions colander",
+        "image": "https://images.pexels.com/photos/36066809/pexels-photo-36066809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Stendi la pasta matta e sigilla",
+        "description": "Pasta matta stesa sottile, ripieno distribuito e bordi pizzicati a regola d'arte: la manualità fa la differenza.",
+        "visual_hint": "mani che sigillano il calzone",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory pastry sealing",
+        "image": "https://images.pexels.com/photos/35998803/pexels-photo-35998803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Zucchero in superficie, doratura caramellata",
+        "description": "Una spolverata di zucchero prima del forno crea la crosticina bruna: servilo tiepido, è irresistibile.",
+        "visual_hint": "superficie caramellata dorata",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory sugared calzone",
+        "image": "https://images.pexels.com/photos/10831662/pexels-photo-10831662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "generic",
+    "signature_ingredients": [
+      "sponsali",
+      "olive baresi",
+      "uvetta"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36601/Calzone-dolce-di-cipolla_650x433_wm.jpg",
+    "savedAt": "2026-09-11T14:07:16.137Z",
+    "sourceId": "66610f6389a03fff77a328c9518bb646"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
+    "slug": "pasta-con-crema-di-parmigiano-e-speck",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Pasta con crema di Parmigiano e speck",
+    "link": "https://ricette.giallozafferano.it/Pasta-con-crema-di-Parmigiano-e-speck.html",
+    "pubDate": "Fri, 11 Sep 2026 15:32:00 +0200",
+    "content": "Pasta con crema di Parmigiano e speck: cremosa e saporita Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Primi piatti Pasta Pasta con crema di Parmigiano e speck /5 CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Molto facile Preparazione: 10 min Cottura: 15 min Dosi per: 4 persone Costo: Medio Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La pasta con crema di Parmigiano e speck è un primo piatto cremoso e saporito, facile da preparare e perfetto quando avete voglia di portare in tavola qualcosa di davvero appetitoso. La crema avvolge la pasta con la sua consistenza vellutata, mentre lo speck aggiunge una nota croccante e sapida che rende ogni boccone ancora più gustoso. Il segreto per ottenere una crema di Parmigiano liscia e senza grumi è lavorare bene il formaggio con il latte, fino a ottenere una salsa con cui rendere irresistibile la pasta. Lo speck, invece, viene fatto rosolare in padella per renderlo croccante e sprigionare tutto il suo sapore. La pasta con crema di Parmigiano e speck è una ricetta semplice , pronta in pochi passaggi e ideale per un pranzo in famiglia o una cena informale. Venite a scoprire altre ricette di primi piatti cremosi : Pasta con crema di Parmigiano e salsiccia Farfalle con crema di parmigiano, speck e pistacchi Pasta ai 4 formaggi e speck Gnocchi speck e fonduta di parmigiano INGREDIENTI Rigatoni 320 g Speck a fette 80 g Parmigiano Reggiano DOP 100 g Latte intero 200 g Pepe nero q.b. Sale fino q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Pasta con crema di Parmigiano e speck Per preparare la pasta con crema di Parmigiano e speck cominciate da quest'ultimo. Sovrapponete le fettine una sull'altra e poi riducetele a striscioline di circa 1 cm 1 . Scaldate una padella antiaderente e lasciate rosolare lo speck a fiamma viva per circa 5 minuti 2 . Di tanto in tanto mescolate affinché non si bruci 3 . Quando sarà dorato e croccante mettetelo da parte su carta assorbente 4 . A questo punto versate i rigatoni in acqua bollente salata e lasciate cuocere seguendo i tempi sulla confezione 5 . Intanto, nella stessa padella dello speck, versate il latte 6 . Quando avrà quasi raggiunto il bollore, spegnete e unite il Parmigiano grattugiato 7 . Mescolate con un cucchiaio finché non si trasforma in crema 8 . Scolate la pasta direttamente in padella 9 . Aggiungete poca acqua della pasta al bisogno 10 e una macinata di pepe 11 . Non vi resta che unire un paio di cucchiaiate di speck croccante 12 . Date una bella mescolata 13 e potete impiattare. Guarnite ogni piatto con altro speck 14 e siete pronti per gustare la vostra pasta con crema di Parmigiano e speck 15 . Conservazione Vi consigliamo di consumare subito la pasta con crema di Parmigiano e speck. Consiglio Volete una pasta con crema di Parmigiano e speck ancora più cremosa? Sostituite il latte con la panna. Se invece desiderate un gusto più deciso sostituite 1/3 di Parmigiano con del pecorino romano! Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Rigatoni Pasta Latte Speck Parmigiano Reggiano Scopri tutto sugli ingredienti Presente in: Primi piatti veloci , Ricette veloci STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Pasta con crema di Parmigiano e speck Calzone dolce di cipolla 5.0 Biscotti sacher 5.0 SCOPRI Pasta zucca e speck Pasta con lo speck Pasta carciofi e speck Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Pasta cremosa al Parmigiano con speck croccante",
+      "Rigatoni, speck, Parmigiano, latte, pepe nero",
+      "Rosola lo speck croccante, mettilo da parte",
+      "Latte e Parmigiano in padella, poi la pasta",
+      "Guarnisci con speck croccante e pepe"
+    ],
+    "instagram_caption": "La cremosità che ti abbraccia e ti coccola 🧀\nI rigatoni si tuffano in una crema vellutata di latte e Parmigiano, mentre lo speck rosolato scrocchia sotto i denti e aggiunge quel tocco sapido che spacca.\nSi prepara in pochi minuti: rosola lo speck, manteca la pasta nel suo sugo e chiudi con una pioggia di pepe nero.\nSemplice, avvolgente, pericolosamente buona.\nSalva il post e provala questo weekend 🍝✨",
+    "formats": {
+      "instagram": {
+        "caption": "La cremosità che ti abbraccia e ti coccola 🧀\nI rigatoni si tuffano in una crema vellutata di latte e Parmigiano, mentre lo speck rosolato scrocchia sotto i denti e aggiunge quel tocco sapido che spacca.\nSi prepara in pochi minuti: rosola lo speck, manteca la pasta nel suo sugo e chiudi con una pioggia di pepe nero.\nSemplice, avvolgente, pericolosamente buona.\nSalva il post e provala questo weekend 🍝✨"
+      },
+      "tiktok": {
+        "script": [
+          "Rigatoni cremosi con Parmigiano e speck croccante.",
+          "Prendo rigatoni, speck, Parmigiano, latte e pepe.",
+          "Rosolo lo speck finché è bello croccante, metto da parte.",
+          "Latte e Parmigiano in padella, poi butto la pasta.",
+          "Guarnisco con speck croccante e una spolverata di pepe."
+        ]
+      },
+      "x": {
+        "thread": [
+          "La pasta che ti fa dire 'ne voglio ancora' prima di finire il piatto. Cremosa al Parmigiano, croccante di speck. Si fa in 15 minuti.",
+          "Ti servono: rigatoni, speck a cubetti, Parmigiano grattugiato, latte, pepe nero. Sembra poco? È tutto.",
+          "Rosola lo speck finché non è croccante. Mettilo da parte e non mangiarlo. Resisti.",
+          "In padella: latte e Parmigiano, scioglie in crema vellutata. Butta la pasta, manteca. Il profumo ti travolge.",
+          "Guarnisci con speck croccante e pepe. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Rigatoni cremosi con Parmigiano e speck croccante.",
+      "Prendo rigatoni, speck, Parmigiano, latte e pepe.",
+      "Rosolo lo speck finché è bello croccante, metto da parte.",
+      "Latte e Parmigiano in padella, poi butto la pasta.",
+      "Guarnisco con speck croccante e una spolverata di pepe."
+    ],
+    "thread_text": [
+      "La pasta che ti fa dire 'ne voglio ancora' prima di finire il piatto. Cremosa al Parmigiano, croccante di speck. Si fa in 15 minuti.",
+      "Ti servono: rigatoni, speck a cubetti, Parmigiano grattugiato, latte, pepe nero. Sembra poco? È tutto.",
+      "Rosola lo speck finché non è croccante. Mettilo da parte e non mangiarlo. Resisti.",
+      "In padella: latte e Parmigiano, scioglie in crema vellutata. Butta la pasta, manteca. Il profumo ti travolge.",
+      "Guarnisci con speck croccante e pepe. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Pasta cremosa al Parmigiano con speck croccante",
+        "description": "Una crema vellutata avvolge i rigatoni, mentre lo speck croccante aggiunge il tocco perfetto.",
+        "visual_hint": "Primo piano pasta cremosa",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "savory creamy pasta"
+      },
+      {
+        "hook": "Ingredienti che fanno la differenza",
+        "description": "Rigatoni, speck croccante, Parmigiano, latte e pepe nero: semplicità che conquista.",
+        "visual_hint": "Ingredienti su tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "savory pasta ingredients",
+        "image": "https://images.pexels.com/photos/4038849/pexels-photo-4038849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rosola lo speck fino a renderlo croccante",
+        "description": "Il segreto è la croccantezza: rosola lo speck e mettilo da parte per non perdere il crunch.",
+        "visual_hint": "Speck che rosola in padella",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "savory crispy speck",
+        "image": "https://images.pexels.com/photos/38980161/pexels-photo-38980161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Latte e Parmigiano, poi la pasta",
+        "description": "Sciogli il Parmigiano nel latte caldo, poi tuffa la pasta per una crema perfetta.",
+        "visual_hint": "Padella con crema e pasta",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "savory cheesy pasta",
+        "image": "https://images.pexels.com/photos/25524076/pexels-photo-25524076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Guarnisci con speck croccante e pepe",
+        "description": "Completa con lo speck croccante e una spolverata di pepe nero. Servi subito e goditi ogni boccone!",
+        "visual_hint": "Piatto finito guarnito",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "savory pasta dish",
+        "image": "https://images.pexels.com/photos/31235407/pexels-photo-31235407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "pasta",
+    "signature_ingredients": [
+      "Rigatoni",
+      "Speck",
+      "Parmigiano"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36611/Pasta-con-crema-di-Parmigiano-e-speck_650x433_wm.jpg",
+    "savedAt": "2026-09-11T14:07:03.031Z",
+    "sourceId": "43a946786f696facc44829e89f0462f2"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "pasta-alle-3-p",
     "prompt_version": "1.0.0",
     "status": "published",

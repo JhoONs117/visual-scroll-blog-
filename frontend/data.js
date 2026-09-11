@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "scammers-target-hundreds-of-thousands-of-crypto-ow",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+    "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+    "pubDate": "Fri, 11 Sep 2026 13:32:54 +0000",
+    "slides": [
+      "Trezor data breach: are your crypto funds safe?",
+      "Scammers now have emails from hundreds of thousands",
+      "But threat goes beyond phishing: SIM swaps",
+      "Never reuse your email for exchanges",
+      "Check haveibeenpwned today; move funds if needed"
+    ],
+    "thread_text": [
+      "1. The breach that follows you\n\nHundreds of thousands of Trezor users had their emails exposed. Even if your crypto is safe, your inbox is now a target.",
+      "2. Your email is the key\n\nAttackers use that address to try password resets on exchanges. One reused login and they're inside.",
+      "3. Beyond phishing emails\n\nWith your phone number, they can SIM-swap your line and intercept two-factor codes. Your funds are one step away.",
+      "4. The tiny mistake that costs everything\n\nIf you used the same email for exchanges and newsletters, attackers now have a direct map to your accounts.",
+      "5. Check if you're exposed\n\nGo to haveibeenpwned.com and enter your email. If it shows up, move your funds to a new wallet today."
+    ],
+    "video_script": [
+      "Trezor breach exposed hundreds of thousands of emails.",
+      "Hackers can now target your exchange accounts.",
+      "SIM swaps can bypass your two-factor codes.",
+      "Reusing email for exchanges puts funds at risk.",
+      "Check haveibeenpwned and move funds if needed."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The breach that follows you\n\nHundreds of thousands of Trezor users had their emails exposed. Even if your crypto is safe, your inbox is now a target.",
+          "2. Your email is the key\n\nAttackers use that address to try password resets on exchanges. One reused login and they're inside.",
+          "3. Beyond phishing emails\n\nWith your phone number, they can SIM-swap your line and intercept two-factor codes. Your funds are one step away.",
+          "4. The tiny mistake that costs everything\n\nIf you used the same email for exchanges and newsletters, attackers now have a direct map to your accounts.",
+          "5. Check if you're exposed\n\nGo to haveibeenpwned.com and enter your email. If it shows up, move your funds to a new wallet today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Trezor breach exposed hundreds of thousands of emails.",
+          "Hackers can now target your exchange accounts.",
+          "SIM swaps can bypass your two-factor codes.",
+          "Reusing email for exchanges puts funds at risk.",
+          "Check haveibeenpwned and move funds if needed."
+        ]
+      },
+      "instagram": {
+        "caption": "Hundreds of thousands of Trezor users just had their emails handed to scammers. 🚨\n\nThe breach didn't touch your crypto directly — it exposed the address tied to your account.\n\nIf you reused that email for an exchange login, attackers can now try password resets on it.\n\nSome go further: with your phone number, a SIM swap lets them intercept your two-factor codes. 📱\n\nFor anyone building in crypto or posting about it, that email is now a map back to your funds.\n\nGo check haveibeenpwned.com right now. If your address shows up, move your funds today.\n\nDid you reuse your email between Trezor and an exchange? 🔑"
+      }
+    },
+    "instagram_caption": "Hundreds of thousands of Trezor users just had their emails handed to scammers. 🚨\n\nThe breach didn't touch your crypto directly — it exposed the address tied to your account.\n\nIf you reused that email for an exchange login, attackers can now try password resets on it.\n\nSome go further: with your phone number, a SIM swap lets them intercept your two-factor codes. 📱\n\nFor anyone building in crypto or posting about it, that email is now a map back to your funds.\n\nGo check haveibeenpwned.com right now. If your address shows up, move your funds today.\n\nDid you reuse your email between Trezor and an exchange? 🔑",
+    "carousel_slides": [
+      {
+        "hook": "Your 2FA codes can be intercepted now",
+        "description": "Scammers can SIM-swap your phone and intercept two-factor codes. Your crypto is one step from theft.",
+        "visual_hint": "Smartphone with SIM card being removed",
+        "layout_type": "hero",
+        "icon": "vibration",
+        "image_query": "sim card"
+      },
+      {
+        "hook": "Hundreds of thousands of emails exposed",
+        "description": "Trezor confirmed a breach at its email provider. Scammers now have addresses to target with phishing.",
+        "visual_hint": "Inbox full of unread messages",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "email inbox",
+        "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "One reused email and they're inside",
+        "description": "Attackers use your email for password resets on exchanges. Reusing logins gives them a map to your funds.",
+        "visual_hint": "Login screen with password field",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "password login",
+        "image": "https://images.pexels.com/photos/5474301/pexels-photo-5474301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The tiny mistake that costs everything",
+        "description": "Using the same email for exchanges and newsletters lets attackers map your accounts directly. Change it now.",
+        "visual_hint": "Person typing on laptop with email open",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "laptop typing",
+        "image": "https://images.pexels.com/photos/30612694/pexels-photo-30612694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check if your email is leaked",
+        "description": "Go to haveibeenpwned.com, enter your email. If exposed, move your funds to a new wallet immediately.",
+        "visual_hint": "Website with email breach check",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "security website",
+        "image": "https://images.pexels.com/photos/7821752/pexels-photo-7821752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800",
+    "savedAt": "2026-09-11T13:58:13.557Z",
+    "sourceId": "9abab3ac7239d5f8cca734b55fe2d938"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "anthropic-details-distillation-campaigns-from-alib",
     "prompt_version": "1.0.0",
     "status": "published",
