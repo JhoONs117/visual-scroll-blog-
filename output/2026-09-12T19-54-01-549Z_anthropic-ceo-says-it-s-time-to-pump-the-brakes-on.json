@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+  "pubDate": "2026-09-12T16:23:40.000Z",
+  "slides": [
+    "Why is Anthropic's CEO hitting the brakes on AI?",
+    "He warns that rapid development could outpace safety measures.",
+    "Ironically, his own company is racing to build smarter models.",
+    "Policymakers may now face pressure to slow AI deployment.",
+    "Ask yourself: are we innovating too fast to control?"
+  ],
+  "thread_text": [
+    "1. The $100M AI Brake\n\nAnthropic's CEO called for a pause on large model training. He signed a statement comparing AI risk to pandemics and nuclear war.",
+    "2. Safety First, Later\n\nHe warns rapid development could outpace safety measures. That means guardrails might arrive after the damage is done.",
+    "3. Racing the Warning\n\nAnthropic is still building bigger models while he talks about slowing down. The company needs revenue to fund safety research.",
+    "4. Pressure to Slow\n\nPolicymakers may now face pressure to slow AI deployment. Expect new rules on compute thresholds and mandatory risk audits.",
+    "5. Your Move\n\nAsk yourself: are we innovating too fast to control? Pick one AI tool you use today and check if it has a safety card."
+  ],
+  "video_script": [
+    "Anthropic's CEO wants a pause on AI training.",
+    "But his own company keeps building smarter models.",
+    "He says safety can't keep up with the speed.",
+    "Policymakers might force slower deployment.",
+    "Are we moving too fast to stay in control?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $100M AI Brake\n\nAnthropic's CEO called for a pause on large model training. He signed a statement comparing AI risk to pandemics and nuclear war.",
+        "2. Safety First, Later\n\nHe warns rapid development could outpace safety measures. That means guardrails might arrive after the damage is done.",
+        "3. Racing the Warning\n\nAnthropic is still building bigger models while he talks about slowing down. The company needs revenue to fund safety research.",
+        "4. Pressure to Slow\n\nPolicymakers may now face pressure to slow AI deployment. Expect new rules on compute thresholds and mandatory risk audits.",
+        "5. Your Move\n\nAsk yourself: are we innovating too fast to control? Pick one AI tool you use today and check if it has a safety card."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic's CEO wants a pause on AI training.",
+        "But his own company keeps building smarter models.",
+        "He says safety can't keep up with the speed.",
+        "Policymakers might force slower deployment.",
+        "Are we moving too fast to stay in control?"
+      ]
+    },
+    "instagram": {
+      "caption": "Anthropic's CEO just called for a pause on large model training, signing a statement comparing AI risk to nuclear war.\n\nHis own company is still building bigger models to fund safety research.\n\nPolicymakers may respond with compute thresholds and mandatory risk audits.\n\nIf you publish AI-generated content, the tools you rely on could face new rules on what they're allowed to ship.\n\nPick one AI tool you use today and check if it has a safety card. Did you even know to look? 🛑⚙️📋"
+    }
+  },
+  "instagram_caption": "Anthropic's CEO just called for a pause on large model training, signing a statement comparing AI risk to nuclear war.\n\nHis own company is still building bigger models to fund safety research.\n\nPolicymakers may respond with compute thresholds and mandatory risk audits.\n\nIf you publish AI-generated content, the tools you rely on could face new rules on what they're allowed to ship.\n\nPick one AI tool you use today and check if it has a safety card. Did you even know to look? 🛑⚙️📋",
+  "carousel_slides": [
+    {
+      "hook": "Is Anthropic racing its own warning?",
+      "description": "Anthropic's CEO urges pausing large model training, yet his company still builds bigger models. Safety might arrive after damage.",
+      "visual_hint": "Split screen: stop sign and rocket",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stop sign rocket"
+    },
+    {
+      "hook": "He compares AI risk to nuclear war",
+      "description": "The CEO signed a statement equating AI risk with pandemics and nuclear war, warning rapid development could outpace safety measures.",
+      "visual_hint": "Warning symbol over circuit board",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "circuit board warning",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Safety research needs revenue",
+      "description": "Anthropic races to build smarter models to fund safety research, creating a paradox: slowing down requires speeding up.",
+      "visual_hint": "Hourglass with dollar sign",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "hourglass dollar",
+      "image": "https://images.pexels.com/photos/4386228/pexels-photo-4386228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Policymakers pressure to slow AI",
+      "description": "Policymakers may face pressure to slow deployment, with new rules on compute thresholds and mandatory risk audits expected.",
+      "visual_hint": "Gavel hitting stack of documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "gavel documents",
+      "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before you innovate next",
+      "description": "Pick one AI tool you use today and check if it has a safety card. Save this post to remember.",
+      "visual_hint": "Person checking safety card on phone",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person phone safety",
+      "image": "https://images.pexels.com/photos/3951403/pexels-photo-3951403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-12T19:54:17.969Z",
+  "sourceId": "423571cd7c5d29c6cc2a47b7846ecb9c"
+}

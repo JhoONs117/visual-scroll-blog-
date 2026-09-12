@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "pubDate": "2026-09-12T16:23:40.000Z",
+      "slides": [
+        "Why is Anthropic's CEO hitting the brakes on AI?",
+        "He warns that rapid development could outpace safety measures.",
+        "Ironically, his own company is racing to build smarter models.",
+        "Policymakers may now face pressure to slow AI deployment.",
+        "Ask yourself: are we innovating too fast to control?"
+      ],
+      "thread_text": [
+        "1. The $100M AI Brake\n\nAnthropic's CEO called for a pause on large model training. He signed a statement comparing AI risk to pandemics and nuclear war.",
+        "2. Safety First, Later\n\nHe warns rapid development could outpace safety measures. That means guardrails might arrive after the damage is done.",
+        "3. Racing the Warning\n\nAnthropic is still building bigger models while he talks about slowing down. The company needs revenue to fund safety research.",
+        "4. Pressure to Slow\n\nPolicymakers may now face pressure to slow AI deployment. Expect new rules on compute thresholds and mandatory risk audits.",
+        "5. Your Move\n\nAsk yourself: are we innovating too fast to control? Pick one AI tool you use today and check if it has a safety card."
+      ],
+      "video_script": [
+        "Anthropic's CEO wants a pause on AI training.",
+        "But his own company keeps building smarter models.",
+        "He says safety can't keep up with the speed.",
+        "Policymakers might force slower deployment.",
+        "Are we moving too fast to stay in control?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The $100M AI Brake\n\nAnthropic's CEO called for a pause on large model training. He signed a statement comparing AI risk to pandemics and nuclear war.",
+            "2. Safety First, Later\n\nHe warns rapid development could outpace safety measures. That means guardrails might arrive after the damage is done.",
+            "3. Racing the Warning\n\nAnthropic is still building bigger models while he talks about slowing down. The company needs revenue to fund safety research.",
+            "4. Pressure to Slow\n\nPolicymakers may now face pressure to slow AI deployment. Expect new rules on compute thresholds and mandatory risk audits.",
+            "5. Your Move\n\nAsk yourself: are we innovating too fast to control? Pick one AI tool you use today and check if it has a safety card."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic's CEO wants a pause on AI training.",
+            "But his own company keeps building smarter models.",
+            "He says safety can't keep up with the speed.",
+            "Policymakers might force slower deployment.",
+            "Are we moving too fast to stay in control?"
+          ]
+        },
+        "instagram": {
+          "caption": "Anthropic's CEO just called for a pause on large model training, signing a statement comparing AI risk to nuclear war.\n\nHis own company is still building bigger models to fund safety research.\n\nPolicymakers may respond with compute thresholds and mandatory risk audits.\n\nIf you publish AI-generated content, the tools you rely on could face new rules on what they're allowed to ship.\n\nPick one AI tool you use today and check if it has a safety card. Did you even know to look? 🛑⚙️📋"
+        }
+      },
+      "instagram_caption": "Anthropic's CEO just called for a pause on large model training, signing a statement comparing AI risk to nuclear war.\n\nHis own company is still building bigger models to fund safety research.\n\nPolicymakers may respond with compute thresholds and mandatory risk audits.\n\nIf you publish AI-generated content, the tools you rely on could face new rules on what they're allowed to ship.\n\nPick one AI tool you use today and check if it has a safety card. Did you even know to look? 🛑⚙️📋",
+      "carousel_slides": [
+        {
+          "hook": "Is Anthropic racing its own warning?",
+          "description": "Anthropic's CEO urges pausing large model training, yet his company still builds bigger models. Safety might arrive after damage.",
+          "visual_hint": "Split screen: stop sign and rocket",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "stop sign rocket"
+        },
+        {
+          "hook": "He compares AI risk to nuclear war",
+          "description": "The CEO signed a statement equating AI risk with pandemics and nuclear war, warning rapid development could outpace safety measures.",
+          "visual_hint": "Warning symbol over circuit board",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "circuit board warning",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Safety research needs revenue",
+          "description": "Anthropic races to build smarter models to fund safety research, creating a paradox: slowing down requires speeding up.",
+          "visual_hint": "Hourglass with dollar sign",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "hourglass dollar",
+          "image": "https://images.pexels.com/photos/4386228/pexels-photo-4386228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Policymakers pressure to slow AI",
+          "description": "Policymakers may face pressure to slow deployment, with new rules on compute thresholds and mandatory risk audits expected.",
+          "visual_hint": "Gavel hitting stack of documents",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "gavel documents",
+          "image": "https://images.pexels.com/photos/5668802/pexels-photo-5668802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before you innovate next",
+          "description": "Pick one AI tool you use today and check if it has a safety card. Save this post to remember.",
+          "visual_hint": "Person checking safety card on phone",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person phone safety",
+          "image": "https://images.pexels.com/photos/3951403/pexels-photo-3951403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-12T19:54:17.969Z",
+      "sourceId": "423571cd7c5d29c6cc2a47b7846ecb9c"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-ceo-outlines-plan-to-slow-ai-development",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "slides": [
+        "Anthropic's CEO wants to slow AI down. Why?",
+        "He says safety must beat speed, not the reverse.",
+        "Yet Anthropic keeps launching stronger models anyway.",
+        "If labs slow, open-source rivals may seize the gap.",
+        "Ask: does patience or pace win this race?"
+      ],
+      "thread_text": [
+        "1. Anthropic's CEO Wants to Slow Down AI. But Why?\n\nHe says safety must come before speed. Yet his own company keeps releasing more powerful models, raising the question: can you slow a race you're still running?",
+        "2. Safety First, He Says\n\nDario Amodei argues that if AI labs prioritize speed over safety, the consequences could be catastrophic. He's calling for a global pause on frontier model development.",
+        "3. But Anthropic Keeps Launching\n\nDespite the slowdown rhetoric, Anthropic has released Claude 3, Claude 3.5, and more. Each model is stronger than the last. The gap between words and actions is growing.",
+        "4. Open-Source Could Fill the Void\n\nIf major labs actually slow down, open-source projects like Llama and Mistral could surge ahead. Then safety concerns take a backseat to whoever ships fastest.",
+        "5. So Which Wins: Patience or Pace?\n\nThink about your own AI use. Do you wait for the safest option, or grab the fastest? The answer might shape the future more than any CEO's plea."
+      ],
+      "video_script": [
+        "Anthropic's CEO says slow down AI for safety.",
+        "But his own company keeps launching stronger models.",
+        "If labs pause, open-source rivals might take the lead.",
+        "So does patience or pace win this race?",
+        "What would you choose: safety or speed?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Anthropic's CEO Wants to Slow Down AI. But Why?\n\nHe says safety must come before speed. Yet his own company keeps releasing more powerful models, raising the question: can you slow a race you're still running?",
+            "2. Safety First, He Says\n\nDario Amodei argues that if AI labs prioritize speed over safety, the consequences could be catastrophic. He's calling for a global pause on frontier model development.",
+            "3. But Anthropic Keeps Launching\n\nDespite the slowdown rhetoric, Anthropic has released Claude 3, Claude 3.5, and more. Each model is stronger than the last. The gap between words and actions is growing.",
+            "4. Open-Source Could Fill the Void\n\nIf major labs actually slow down, open-source projects like Llama and Mistral could surge ahead. Then safety concerns take a backseat to whoever ships fastest.",
+            "5. So Which Wins: Patience or Pace?\n\nThink about your own AI use. Do you wait for the safest option, or grab the fastest? The answer might shape the future more than any CEO's plea."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic's CEO says slow down AI for safety.",
+            "But his own company keeps launching stronger models.",
+            "If labs pause, open-source rivals might take the lead.",
+            "So does patience or pace win this race?",
+            "What would you choose: safety or speed?"
+          ]
+        },
+        "instagram": {
+          "caption": "The CEO of Anthropic says labs should pause frontier AI development before safety falls behind speed.\n\nHis own company kept shipping Claude 3 and 3.5, each stronger than the last. 🧠\n\nIf big labs actually slow down, open-source projects like Llama and Mistral could take the lead instead. ⚡\n\nThat means the tools you write and publish with may soon come from whoever ships fastest, not whoever ships safest. 🤔\n\nWould you wait for the safer option, or grab the faster one today? 👇"
+        }
+      },
+      "instagram_caption": "The CEO of Anthropic says labs should pause frontier AI development before safety falls behind speed.\n\nHis own company kept shipping Claude 3 and 3.5, each stronger than the last. 🧠\n\nIf big labs actually slow down, open-source projects like Llama and Mistral could take the lead instead. ⚡\n\nThat means the tools you write and publish with may soon come from whoever ships fastest, not whoever ships safest. 🤔\n\nWould you wait for the safer option, or grab the faster one today? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Can you slow a race you're running?",
+          "description": "Anthropic's CEO wants safety before speed, yet his own company keeps launching more powerful models, widening the gap between words and actions.",
+          "visual_hint": "Split screen: podium speech vs GPU rack",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Safety first, he says",
+          "description": "Dario Amodei warns that prioritizing speed over safety could be catastrophic, calling for a global pause on frontier model development.",
+          "visual_hint": "Hands gripping a large red emergency button",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "emergency button",
+          "image": "https://images.pexels.com/photos/38244088/pexels-photo-38244088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "But Anthropic keeps launching anyway",
+          "description": "Despite the slowdown rhetoric, Anthropic shipped Claude 3, Claude 3.5, and more — each model stronger than the last.",
+          "visual_hint": "Product launch timeline climbing upward",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "product launch",
+          "image": "https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Slow down, and open-source wins",
+          "description": "If major labs actually slow, open-source projects like Llama and Mistral could surge ahead, putting safety behind whoever ships fastest.",
+          "visual_hint": "Open-source developers collaborating on laptops",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "open source developers",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Patience or pace — which wins? Save this!",
+          "description": "Think about your own AI use: do you wait for the safest option or grab the fastest? Comment your answer below.",
+          "visual_hint": "Forked road splitting two directions",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "forked road",
+          "image": "https://images.pexels.com/photos/9608654/pexels-photo-9608654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "savedAt": "2026-09-12T19:54:09.354Z",
+      "sourceId": "82c98d9b6abfab67d1999d3e199107cd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "openai-just-wants-to-win",
       "prompt_version": "1.0.0",
       "status": "published",
