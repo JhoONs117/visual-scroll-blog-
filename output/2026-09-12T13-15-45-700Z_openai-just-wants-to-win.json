@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-just-wants-to-win",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI just wants to win",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+  "pubDate": "2026-09-12T11:00:00.000Z",
+  "slides": [
+    "OpenAI just wants to win — but what's the real cost?",
+    "Its strategy shifted from research to commercial dominance",
+    "The surprising part: it's now competing with its own investors",
+    "For users, this means more features but less transparency",
+    "Ask yourself: are you using the tool, or is it using you?"
+  ],
+  "thread_text": [
+    "1. OpenAI's Real Cost\n\nOpenAI shifted from research lab to commercial giant, now competing with its own investors like Microsoft. What does that mean for its original mission?",
+    "2. Research to Revenue\n\nEarly days were about advancing AI for humanity. Now it's about market share and profits. The pivot changed everything.",
+    "3. Biting the Hand\n\nOpenAI's investors also fund competitors. It's now rivals with those who backed it. Awkward.",
+    "4. More Features, Less Clarity\n\nAs a user, you get shiny new tools but less insight into how they work or what data they collect. Transparency took a back seat.",
+    "5. Are You the Tool?\n\nThink about your last ChatGPT prompt. Were you using it, or was it using you to generate data? Try a prompt without sharing personal info today."
+  ],
+  "video_script": [
+    "OpenAI just wants to win big.",
+    "But it changed from research to commercial.",
+    "Now it competes with its own investors.",
+    "Users get more features but less transparency.",
+    "Are you using the tool, or is it using you?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI's Real Cost\n\nOpenAI shifted from research lab to commercial giant, now competing with its own investors like Microsoft. What does that mean for its original mission?",
+        "2. Research to Revenue\n\nEarly days were about advancing AI for humanity. Now it's about market share and profits. The pivot changed everything.",
+        "3. Biting the Hand\n\nOpenAI's investors also fund competitors. It's now rivals with those who backed it. Awkward.",
+        "4. More Features, Less Clarity\n\nAs a user, you get shiny new tools but less insight into how they work or what data they collect. Transparency took a back seat.",
+        "5. Are You the Tool?\n\nThink about your last ChatGPT prompt. Were you using it, or was it using you to generate data? Try a prompt without sharing personal info today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI just wants to win big.",
+        "But it changed from research to commercial.",
+        "Now it competes with its own investors.",
+        "Users get more features but less transparency.",
+        "Are you using the tool, or is it using you?"
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI now competes with the same investors who fund it.\n\nIt started as a research lab with a mission to advance AI for humanity. Now it's chasing market share and profit.\n\nThat pivot didn't just change its priorities — it turned Microsoft and other backers into rivals.\n\nFor you, it means more features in your feed and less clarity on how they work or what data they collect.\n\nYour last prompt fed a system you can't see inside. 🧠\n\nTry one today without typing your real name, location, or anyone else's. 🔒\n\nAre you using the tool, or is it using you?"
+    }
+  },
+  "instagram_caption": "OpenAI now competes with the same investors who fund it.\n\nIt started as a research lab with a mission to advance AI for humanity. Now it's chasing market share and profit.\n\nThat pivot didn't just change its priorities — it turned Microsoft and other backers into rivals.\n\nFor you, it means more features in your feed and less clarity on how they work or what data they collect.\n\nYour last prompt fed a system you can't see inside. 🧠\n\nTry one today without typing your real name, location, or anyone else's. 🔒\n\nAre you using the tool, or is it using you?",
+  "carousel_slides": [
+    {
+      "hook": "Is OpenAI competing with its own investors?",
+      "description": "OpenAI went from research lab to commercial giant, now rivals Microsoft and other backers. Mission compromised?",
+      "visual_hint": "Split screen: lab coat vs. cash",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "corporate handshake"
+    },
+    {
+      "hook": "From research to revenue: the shift",
+      "description": "Early mission: advance AI for humanity. Now: market share and profits. This pivot changed everything for users.",
+      "visual_hint": "Graph rising over test tubes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Biting the hand that feeds it",
+      "description": "OpenAI's investors also fund competitors. Now it's rivals with its own backers. Awkward but strategic.",
+      "visual_hint": "Two hands pulling same rope",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "tug of war",
+      "image": "https://images.pexels.com/photos/18681768/pexels-photo-18681768.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More features, less transparency",
+      "description": "You get shiny new tools but less insight into how they work or what data they collect.",
+      "visual_hint": "Opaque glass wall with tools",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "dark server room",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Are you using it, or is it using you?",
+      "description": "Think about your last prompt. Try one today without sharing personal info. Save this post.",
+      "visual_hint": "Person typing with data streams",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person typing laptop",
+      "image": "https://images.pexels.com/photos/5838223/pexels-photo-5838223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-12T13:15:54.488Z",
+  "sourceId": "41bb568b2b6096a5c28eb0567f1a8c0f"
+}
