@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "y-combinator-s-garry-tan-wants-us-open-weight-ai-l",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "slides": [
+        "Why does Garry Tan want US labs to copy China?",
+        "He says open-weight labs should distill frontier models",
+        "But distillation from rivals may violate US export rules",
+        "Your startup's model could face new compliance checks",
+        "Check if your training data touches a frontier model"
+      ],
+      "thread_text": [
+        "1. Copy China, Says Investor\n\nGarry Tan tells US labs to distill frontier models from rivals. The catch: it may break export rules.",
+        "2. Distill or Steal?\n\nOpen-weight labs are urged to mimic top models. That shortcut could trigger legal trouble with US regulators.",
+        "3. Export Rules Bite Back\n\nDistilling from a frontier model may violate US export controls. Your compliance team should be worried.",
+        "4. Compliance Checks Incoming\n\nStartups training models face new scrutiny. If your data touches a frontier model, expect questions.",
+        "5. Audit Your Data Now\n\nCheck if your training pipeline uses outputs from a frontier model. If yes, get legal advice this week. Does your model pass?"
+      ],
+      "video_script": [
+        "Garry Tan says US labs should copy China's approach.",
+        "He wants open-weight labs to distill frontier models.",
+        "But distilling from rivals may break US export rules.",
+        "Your startup's model could face new compliance checks.",
+        "Check if your training data touches a frontier model."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Copy China, Says Investor\n\nGarry Tan tells US labs to distill frontier models from rivals. The catch: it may break export rules.",
+            "2. Distill or Steal?\n\nOpen-weight labs are urged to mimic top models. That shortcut could trigger legal trouble with US regulators.",
+            "3. Export Rules Bite Back\n\nDistilling from a frontier model may violate US export controls. Your compliance team should be worried.",
+            "4. Compliance Checks Incoming\n\nStartups training models face new scrutiny. If your data touches a frontier model, expect questions.",
+            "5. Audit Your Data Now\n\nCheck if your training pipeline uses outputs from a frontier model. If yes, get legal advice this week. Does your model pass?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Garry Tan says US labs should copy China's approach.",
+            "He wants open-weight labs to distill frontier models.",
+            "But distilling from rivals may break US export rules.",
+            "Your startup's model could face new compliance checks.",
+            "Check if your training data touches a frontier model."
+          ]
+        },
+        "instagram": {
+          "caption": "Garry Tan, partner at Y Combinator, is telling US open-weight AI labs to distill frontier models from rivals.\n\nHis argument: copy what China's labs already do to catch up fast. 🧪\n\nThe problem? Distilling from a frontier model may violate US export rules.\n\nThat means if your training pipeline pulls outputs from a frontier model, you could face compliance checks. ⚖️\n\nOpen-weight labs and startups building on them now sit in a legal gray zone. 🧠\n\nIf you train or fine-tune models, does your data touch a frontier model's outputs? Check your pipeline this week. 🔍"
+        }
+      },
+      "instagram_caption": "Garry Tan, partner at Y Combinator, is telling US open-weight AI labs to distill frontier models from rivals.\n\nHis argument: copy what China's labs already do to catch up fast. 🧪\n\nThe problem? Distilling from a frontier model may violate US export rules.\n\nThat means if your training pipeline pulls outputs from a frontier model, you could face compliance checks. ⚖️\n\nOpen-weight labs and startups building on them now sit in a legal gray zone. 🧠\n\nIf you train or fine-tune models, does your data touch a frontier model's outputs? Check your pipeline this week. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is distilling frontier models illegal now?",
+          "description": "Garry Tan urges US open-weight labs to distill rival frontier models, but this shortcut could violate US export rules.",
+          "visual_hint": "Gavel hitting laptop keyboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "courtroom gavel"
+        },
+        {
+          "hook": "Open-weight labs told to copy rivals",
+          "description": "Tan says open-weight labs should distill frontier models, mimicking top AI. That move may trigger legal trouble with regulators.",
+          "visual_hint": "Two robots copying each other",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "robot arm",
+          "image": "https://images.pexels.com/photos/36564994/pexels-photo-36564994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Export rules could bite your model",
+          "description": "Distilling from a frontier model may violate US export controls. Your compliance team should be worried right now.",
+          "visual_hint": "Red tape around server",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "server room",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Startups face new compliance checks",
+          "description": "If your training data touches a frontier model, expect regulators to ask questions. New scrutiny is coming for AI startups.",
+          "visual_hint": "Auditor inspecting data pipeline",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your training data now",
+          "description": "Check if your pipeline uses outputs from a frontier model. If yes, get legal advice this week. Save this post.",
+          "visual_hint": "Checklist on clipboard with pen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "clipboard checklist",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "savedAt": "2026-09-12T02:17:39.974Z",
+      "sourceId": "e2480aa4c979ae2fddd08f46b5d266f4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "lawyer-fined-5k-over-ai-hallucinated-witnesses-in-",
       "prompt_version": "1.0.0",
       "status": "published",
