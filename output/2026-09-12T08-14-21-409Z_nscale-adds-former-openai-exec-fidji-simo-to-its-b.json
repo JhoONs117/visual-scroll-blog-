@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nscale-adds-former-openai-exec-fidji-simo-to-its-b",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+  "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+  "slides": [
+    "What does an OpenAI insider see in Nscale?",
+    "Fidji Simo joins its board before a potential IPO",
+    "She isn't an investor—she's a strategic signal",
+    "IPO prep just got credibility with enterprise buyers",
+    "Watch who joins boards next quarter"
+  ],
+  "thread_text": [
+    "1. OpenAI Insider's New Bet\n\nA former OpenAI exec just joined Nscale's board. Not as an investor—as a strategic signal. What does she see that others don't?",
+    "2. Board Seat Before IPO\n\nFidji Simo joined Nscale's board just before a potential IPO. Her move isn't about money—it's about credibility with enterprise buyers.",
+    "3. Credibility for Enterprise Buyers\n\nIPO prep just got a boost. Simo's presence signals Nscale can sell to big companies, not just build tech.",
+    "4. Watch Board Moves Next Quarter\n\nWhen insiders join boards, competitors notice. Expect similar moves from other AI startups soon.",
+    "5. Your Move: Check Board Signals\n\nLook at the boards of AI companies you follow. Who's joining? That's your early indicator of strategy and credibility."
+  ],
+  "video_script": [
+    "An OpenAI insider just joined Nscale's board.",
+    "Fidji Simo isn't an investor—she's a strategic signal.",
+    "She joined before a potential IPO. That's credibility.",
+    "Enterprise buyers trust board members. This helps sales.",
+    "Watch who joins boards next quarter. It's a clue."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. OpenAI Insider's New Bet\n\nA former OpenAI exec just joined Nscale's board. Not as an investor—as a strategic signal. What does she see that others don't?",
+        "2. Board Seat Before IPO\n\nFidji Simo joined Nscale's board just before a potential IPO. Her move isn't about money—it's about credibility with enterprise buyers.",
+        "3. Credibility for Enterprise Buyers\n\nIPO prep just got a boost. Simo's presence signals Nscale can sell to big companies, not just build tech.",
+        "4. Watch Board Moves Next Quarter\n\nWhen insiders join boards, competitors notice. Expect similar moves from other AI startups soon.",
+        "5. Your Move: Check Board Signals\n\nLook at the boards of AI companies you follow. Who's joining? That's your early indicator of strategy and credibility."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "An OpenAI insider just joined Nscale's board.",
+        "Fidji Simo isn't an investor—she's a strategic signal.",
+        "She joined before a potential IPO. That's credibility.",
+        "Enterprise buyers trust board members. This helps sales.",
+        "Watch who joins boards next quarter. It's a clue."
+      ]
+    },
+    "instagram": {
+      "caption": "A former OpenAI executive just took a board seat at Nscale, right before its possible IPO.\n\nFidji Simo isn't investing money—she's lending credibility. 🎯\n\nThat matters because board seats like this signal Nscale can sell to big enterprise buyers, not just build tech.\n\nIf you cover AI or build with these tools, watch board moves like this—they hint at who's about to win contracts. 👀\n\nSo check the boards of the AI companies you follow: who just joined, and what does it tell you? 🧠"
+    }
+  },
+  "instagram_caption": "A former OpenAI executive just took a board seat at Nscale, right before its possible IPO.\n\nFidji Simo isn't investing money—she's lending credibility. 🎯\n\nThat matters because board seats like this signal Nscale can sell to big enterprise buyers, not just build tech.\n\nIf you cover AI or build with these tools, watch board moves like this—they hint at who's about to win contracts. 👀\n\nSo check the boards of the AI companies you follow: who just joined, and what does it tell you? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Why an OpenAI insider bet on Nscale?",
+      "description": "Fidji Simo joins Nscale's board not as investor but strategic signal before potential IPO, signaling enterprise credibility.",
+      "visual_hint": "Boardroom table with empty chair",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "boardroom table"
+    },
+    {
+      "hook": "Board seat before potential IPO",
+      "description": "Fidji Simo, ex-OpenAI exec, joins Nscale's board ahead of possible IPO, boosting credibility with enterprise buyers.",
+      "visual_hint": "Stock market chart rising",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not investor—strategic signal",
+      "description": "Simo's move isn't about money; it signals Nscale can sell to big companies, not just build tech.",
+      "visual_hint": "Handshake in office setting",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "office handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "IPO prep just got credibility",
+      "description": "With Simo on board, Nscale gains enterprise trust, crucial for IPO success and selling to large corporations.",
+      "visual_hint": "Business people meeting handshake",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Watch who joins boards next quarter",
+      "description": "Check boards of AI companies you follow; who joins is your early indicator of strategy and credibility.",
+      "visual_hint": "Person analyzing board documents",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office documents",
+      "image": "https://images.pexels.com/photos/3927131/pexels-photo-3927131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+  "savedAt": "2026-09-12T08:14:30.686Z",
+  "sourceId": "3eb10fd44cbe5bc1fd086dddad80d363"
+}
