@@ -2,6 +2,110 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
+    "slides": [
+      "Is Obama's AI warning too late?",
+      "He says Democrats need a clear plan.",
+      "But most AI safety laws are still missing.",
+      "Your company could face new rules soon.",
+      "Check your AI use before regulators do."
+    ],
+    "thread_text": [
+      "1. Obama's AI Warning\n\nHe says Democrats lack a clear plan for AI safety. Most laws are still missing, and your company could face new rules soon.",
+      "2. The Missing Plan\n\nObama argues Democrats need a clear plan. Without it, AI safety laws remain incomplete and businesses are left guessing.",
+      "3. Regulations Are Coming\n\nNew rules could hit your company soon. Check your AI use before regulators do. Don't wait for a knock on the door.",
+      "4. Your AI Under Scrutiny\n\nRegulators may soon demand answers. Audit your AI systems now. Identify risks before they become penalties.",
+      "5. Take Action Today\n\nList every AI tool your team uses. If you haven't done it, start there. Does your AI use comply with upcoming rules?"
+    ],
+    "video_script": [
+      "Obama warns Democrats lack a clear AI plan.",
+      "He says they need concrete safety laws now.",
+      "But most AI regulations are still missing.",
+      "Your company could face new rules soon.",
+      "Check your AI use before regulators do."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Obama's AI Warning\n\nHe says Democrats lack a clear plan for AI safety. Most laws are still missing, and your company could face new rules soon.",
+          "2. The Missing Plan\n\nObama argues Democrats need a clear plan. Without it, AI safety laws remain incomplete and businesses are left guessing.",
+          "3. Regulations Are Coming\n\nNew rules could hit your company soon. Check your AI use before regulators do. Don't wait for a knock on the door.",
+          "4. Your AI Under Scrutiny\n\nRegulators may soon demand answers. Audit your AI systems now. Identify risks before they become penalties.",
+          "5. Take Action Today\n\nList every AI tool your team uses. If you haven't done it, start there. Does your AI use comply with upcoming rules?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Obama warns Democrats lack a clear AI plan.",
+          "He says they need concrete safety laws now.",
+          "But most AI regulations are still missing.",
+          "Your company could face new rules soon.",
+          "Check your AI use before regulators do."
+        ]
+      },
+      "instagram": {
+        "caption": "Obama says Democrats still don't have a clear plan to keep AI safe. 🧠\n\nMost AI safety laws are still missing, so nobody knows what rules will apply to your work next.\n\nNew regulations could land on your company soon, whether you're ready or not. ⚠️\n\nIf you use AI to write, design, or publish, you may soon have to prove it's compliant. 📋\n\nCheck every AI tool your team uses now, before a regulator asks. ✅\n\nDo you actually know what your AI tools do with your data? 🤔"
+      }
+    },
+    "instagram_caption": "Obama says Democrats still don't have a clear plan to keep AI safe. 🧠\n\nMost AI safety laws are still missing, so nobody knows what rules will apply to your work next.\n\nNew regulations could land on your company soon, whether you're ready or not. ⚠️\n\nIf you use AI to write, design, or publish, you may soon have to prove it's compliant. 📋\n\nCheck every AI tool your team uses now, before a regulator asks. ✅\n\nDo you actually know what your AI tools do with your data? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is Your AI Use Already Illegal?",
+        "description": "Obama warns Democrats lack a clear AI safety plan. Most laws are still missing — but new rules could hit your company fast.",
+        "visual_hint": "Obama speaking at podium, serious expression",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "Barack Obama"
+      },
+      {
+        "hook": "Democrats Have No AI Plan",
+        "description": "Obama says Democrats need a clear plan for AI safeguards. Without it, businesses are left guessing what compliance looks like.",
+        "visual_hint": "Empty government chamber, no lawmakers present",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty parliament",
+        "image": "https://images.pexels.com/photos/37442715/pexels-photo-37442715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI Safety Laws Are Still Missing",
+        "description": "Most AI safety regulations haven't been written yet. That gap won't last — regulators are catching up quickly.",
+        "visual_hint": "Blank legal document with gavel beside it",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "law book gavel",
+        "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New AI Rules Are Coming Soon",
+        "description": "Your company could face new AI rules soon. Audit your systems now and identify risks before they become penalties.",
+        "visual_hint": "Regulator's hand knocking on office door",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office door knock",
+        "image": "https://images.pexels.com/photos/13432283/pexels-photo-13432283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Audit Your AI Before Regulators Do",
+        "description": "List every AI tool your team uses and check compliance now. Save this post and visit the link in bio for a checklist.",
+        "visual_hint": "Checklist with AI tools being reviewed",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "checklist clipboard pen",
+        "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+    "savedAt": "2026-09-13T17:19:17.246Z",
+    "sourceId": "6b54256d4afbc2dd74df55016529196e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "central-eurasia-names-its-2026-road-to-battlefield",
     "prompt_version": "1.0.0",
     "status": "published",
