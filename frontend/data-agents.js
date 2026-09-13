@@ -3,6 +3,110 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "central-eurasia-names-its-2026-road-to-battlefield",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "pubDate": "Fri, 11 Sep 2026 18:58:01 +0000",
+      "slides": [
+        "Which startups won Central Eurasia's 2026 battle?",
+        "Cerberus, WeGlobal AI, and LOOQ took top honors.",
+        "But what exactly did they beat out?",
+        "You'll soon face competitors backed by these winners.",
+        "Watch these three—they're rewriting the rules."
+      ],
+      "thread_text": [
+        "1. Central Eurasia's 2026 AI battle just ended — and the winners aren't who you'd expect.\n\nThree startups took top honors at the region's biggest pitch event. Their names: Cerberus, WeGlobal AI, and LOOQ.",
+        "2. What did they actually beat?\n\nThey outpitched dozens of other startups across the region. The competition was fierce, but these three stood out for one reason: they're building tools that directly threaten legacy workflows.",
+        "3. The real twist? Their backing.\n\nEach winner secured funding and partnerships that give them instant distribution. That means they can scale faster than any previous Central Eurasian startup.",
+        "4. Why this matters to you.\n\nIf you work in AI, these three will soon be your competitors — or your collaborators. Their backers are already scouting for early adopters.",
+        "5. So what's your move?\n\nSpend 10 minutes looking up Cerberus, WeGlobal AI, and LOOQ. Then ask yourself: does your current product survive if they enter your market?"
+      ],
+      "video_script": [
+        "Central Eurasia's 2026 AI battle just ended.",
+        "Cerberus, WeGlobal AI, and LOOQ won top honors.",
+        "But what did they beat out? Dozens of other startups.",
+        "You'll soon face competitors backed by these winners.",
+        "Watch these three—they're rewriting the rules."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Central Eurasia's 2026 AI battle just ended — and the winners aren't who you'd expect.\n\nThree startups took top honors at the region's biggest pitch event. Their names: Cerberus, WeGlobal AI, and LOOQ.",
+            "2. What did they actually beat?\n\nThey outpitched dozens of other startups across the region. The competition was fierce, but these three stood out for one reason: they're building tools that directly threaten legacy workflows.",
+            "3. The real twist? Their backing.\n\nEach winner secured funding and partnerships that give them instant distribution. That means they can scale faster than any previous Central Eurasian startup.",
+            "4. Why this matters to you.\n\nIf you work in AI, these three will soon be your competitors — or your collaborators. Their backers are already scouting for early adopters.",
+            "5. So what's your move?\n\nSpend 10 minutes looking up Cerberus, WeGlobal AI, and LOOQ. Then ask yourself: does your current product survive if they enter your market?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Central Eurasia's 2026 AI battle just ended.",
+            "Cerberus, WeGlobal AI, and LOOQ won top honors.",
+            "But what did they beat out? Dozens of other startups.",
+            "You'll soon face competitors backed by these winners.",
+            "Watch these three—they're rewriting the rules."
+          ]
+        },
+        "instagram": {
+          "caption": "Three startups just won Central Eurasia's biggest pitch battle for 2026. 🏆\n\nTheir names: Cerberus, WeGlobal AI, and LOOQ. They beat dozens of competitors from across the region.\n\nEach one locked in funding and partnerships that give them instant distribution — meaning they can scale faster than any Central Eurasian startup before them. 🚀\n\nIf you build or publish with AI tools, these three could be your next competitor. Or your next collaborator. ⚡\n\nSpend 10 minutes looking them up today. Then ask yourself: does my product survive if they enter my market? 👀"
+        }
+      },
+      "instagram_caption": "Three startups just won Central Eurasia's biggest pitch battle for 2026. 🏆\n\nTheir names: Cerberus, WeGlobal AI, and LOOQ. They beat dozens of competitors from across the region.\n\nEach one locked in funding and partnerships that give them instant distribution — meaning they can scale faster than any Central Eurasian startup before them. 🚀\n\nIf you build or publish with AI tools, these three could be your next competitor. Or your next collaborator. ⚡\n\nSpend 10 minutes looking them up today. Then ask yourself: does my product survive if they enter my market? 👀",
+      "carousel_slides": [
+        {
+          "hook": "What if your competitors funded by these winners?",
+          "description": "Cerberus, WeGlobal AI, and LOOQ won Central Eurasia's 2026 Road to Battlefield, gaining instant scale and distribution.",
+          "visual_hint": "Podium with three glowing startup logos",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "startup podium event"
+        },
+        {
+          "hook": "They beat dozens of regional startups.",
+          "description": "The fierce competition saw these three outpitched others by building tools that directly threaten legacy workflows.",
+          "visual_hint": "Funnel diagram with many startup logos",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "business competition chart",
+          "image": "https://images.pexels.com/photos/7876507/pexels-photo-7876507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Backing gives them instant distribution.",
+          "description": "Each winner secured funding and partnerships to scale faster than any previous Central Eurasian startup, reaching early adopters quickly.",
+          "visual_hint": "Rocket launching from laptop screen",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rocket launch technology",
+          "image": "https://images.pexels.com/photos/3697826/pexels-photo-3697826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "These three will soon be your rivals.",
+          "description": "If you work in AI, they are already scouting early adopters, meaning they could enter your market as competitors or collaborators.",
+          "visual_hint": "Two business people shaking hands",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake deal",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Look them up, then ask yourself.",
+          "description": "Spend 10 minutes researching Cerberus, WeGlobal AI, and LOOQ. Does your product survive if they enter your market?",
+          "visual_hint": "Person researching on laptop with notes",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop research workspace",
+          "image": "https://images.pexels.com/photos/19809359/pexels-photo-19809359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675",
+      "savedAt": "2026-09-13T02:15:52.854Z",
+      "sourceId": "1b22bca4ba56649e5719228d8b6ce4b9"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "sam-altman-says-openai-going-public-in-2026-would-",
       "prompt_version": "1.0.0",
       "status": "published",
