@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "trump-and-mike-johnson-think-the-ai-industry-is-ov",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Trump and Mike Johnson think the AI industry is overreacting",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+  "pubDate": "2026-09-13T19:41:48.000Z",
+  "slides": [
+    "Why are Trump and Johnson calling AI fears theater?",
+    "The AI industry warns of catastrophe, loudly.",
+    "Yet these two see panic as a negotiating tactic.",
+    "Your compliance budget may shrink this year.",
+    "Test one AI rule: does it survive politics?"
+  ],
+  "thread_text": [
+    "1. AI Fear as Negotiation\n\nTrump and Johnson call the industry's doomsday warnings theater. The panic isn't about safety — it's a bargaining chip in Washington.",
+    "2. Industry's Loud Warning\n\nAI labs keep predicting catastrophe. That urgency is meant to shape regulation before anyone else gets a say.",
+    "3. Panic as Tactical Move\n\nLawmakers see the alarm as leverage. Both sides use fear to trade for power, not to protect you.",
+    "4. Compliance Budgets at Risk\n\nThe noise could cut your compliance budget this year. Less oversight means cheaper products — and bigger risks.",
+    "5. Test One AI Rule\n\nPick a new AI rule and ask: does it survive a political fight? If not, it's not real protection."
+  ],
+  "video_script": [
+    "Trump and Johnson call AI fears theater.",
+    "AI companies warn loudly to shape the rules.",
+    "Politicians see that panic as leverage.",
+    "Your compliance budget may shrink this year.",
+    "Test one AI rule against politics today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Fear as Negotiation\n\nTrump and Johnson call the industry's doomsday warnings theater. The panic isn't about safety — it's a bargaining chip in Washington.",
+        "2. Industry's Loud Warning\n\nAI labs keep predicting catastrophe. That urgency is meant to shape regulation before anyone else gets a say.",
+        "3. Panic as Tactical Move\n\nLawmakers see the alarm as leverage. Both sides use fear to trade for power, not to protect you.",
+        "4. Compliance Budgets at Risk\n\nThe noise could cut your compliance budget this year. Less oversight means cheaper products — and bigger risks.",
+        "5. Test One AI Rule\n\nPick a new AI rule and ask: does it survive a political fight? If not, it's not real protection."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Trump and Johnson call AI fears theater.",
+        "AI companies warn loudly to shape the rules.",
+        "Politicians see that panic as leverage.",
+        "Your compliance budget may shrink this year.",
+        "Test one AI rule against politics today."
+      ]
+    },
+    "instagram": {
+      "caption": "Trump and Mike Johnson say the AI industry's doomsday warnings are theater — a bargaining chip, not a safety plea. 🎭\n\nAI labs keep predicting catastrophe before rules get written.\n\nLawmakers see the panic as leverage: both sides trade fear for power. ⚖️\n\nIf that noise wins, your compliance budget shrinks this year — cheaper products, bigger risks. 📉\n\nSo test one new AI rule: does it survive a political fight?\n\nIf not, it's not real protection. Which rule on your list would fail that test? 🤔"
+    }
+  },
+  "instagram_caption": "Trump and Mike Johnson say the AI industry's doomsday warnings are theater — a bargaining chip, not a safety plea. 🎭\n\nAI labs keep predicting catastrophe before rules get written.\n\nLawmakers see the panic as leverage: both sides trade fear for power. ⚖️\n\nIf that noise wins, your compliance budget shrinks this year — cheaper products, bigger risks. 📉\n\nSo test one new AI rule: does it survive a political fight?\n\nIf not, it's not real protection. Which rule on your list would fail that test? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is AI panic just political theater?",
+      "description": "Trump and Johnson believe doomsday warnings are a bargaining chip, not a safety concern. This changes how rules get written.",
+      "visual_hint": "Split screen: Capitol dome and circuit board",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "US Capitol building"
+    },
+    {
+      "hook": "AI labs scream catastrophe. Why now?",
+      "description": "Industry leaders predict disaster to shape regulation before others weigh in. Urgency becomes a tool for control.",
+      "visual_hint": "Server racks with warning lights flashing",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "server room racks",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fear is leverage, not protection.",
+      "description": "Lawmakers see alarm as a tactical move. Both sides trade panic for power, leaving real safety behind.",
+      "visual_hint": "Handshake over a chessboard with pawns",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "chess board pieces",
+      "image": "https://images.pexels.com/photos/33647017/pexels-photo-33647017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance budget is shrinking.",
+      "description": "Political noise may cut oversight funds this year. Cheaper products follow, but so do bigger risks for everyone.",
+      "visual_hint": "Office desk with declining budget chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office desk papers",
+      "image": "https://images.pexels.com/photos/17257183/pexels-photo-17257183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next audit.",
+      "description": "Pick one AI rule today and ask if it survives a political fight. Comment your test result below.",
+      "visual_hint": "Checklist with a pen and shield icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist clipboard pen",
+      "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+  "savedAt": "2026-09-13T20:02:09.121Z",
+  "sourceId": "1d273e458a4640c0c1e45e31d7bd08a2"
+}

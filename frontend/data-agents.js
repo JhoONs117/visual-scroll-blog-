@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "trump-and-mike-johnson-think-the-ai-industry-is-ov",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "pubDate": "2026-09-13T19:41:48.000Z",
+      "slides": [
+        "Why are Trump and Johnson calling AI fears theater?",
+        "The AI industry warns of catastrophe, loudly.",
+        "Yet these two see panic as a negotiating tactic.",
+        "Your compliance budget may shrink this year.",
+        "Test one AI rule: does it survive politics?"
+      ],
+      "thread_text": [
+        "1. AI Fear as Negotiation\n\nTrump and Johnson call the industry's doomsday warnings theater. The panic isn't about safety — it's a bargaining chip in Washington.",
+        "2. Industry's Loud Warning\n\nAI labs keep predicting catastrophe. That urgency is meant to shape regulation before anyone else gets a say.",
+        "3. Panic as Tactical Move\n\nLawmakers see the alarm as leverage. Both sides use fear to trade for power, not to protect you.",
+        "4. Compliance Budgets at Risk\n\nThe noise could cut your compliance budget this year. Less oversight means cheaper products — and bigger risks.",
+        "5. Test One AI Rule\n\nPick a new AI rule and ask: does it survive a political fight? If not, it's not real protection."
+      ],
+      "video_script": [
+        "Trump and Johnson call AI fears theater.",
+        "AI companies warn loudly to shape the rules.",
+        "Politicians see that panic as leverage.",
+        "Your compliance budget may shrink this year.",
+        "Test one AI rule against politics today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Fear as Negotiation\n\nTrump and Johnson call the industry's doomsday warnings theater. The panic isn't about safety — it's a bargaining chip in Washington.",
+            "2. Industry's Loud Warning\n\nAI labs keep predicting catastrophe. That urgency is meant to shape regulation before anyone else gets a say.",
+            "3. Panic as Tactical Move\n\nLawmakers see the alarm as leverage. Both sides use fear to trade for power, not to protect you.",
+            "4. Compliance Budgets at Risk\n\nThe noise could cut your compliance budget this year. Less oversight means cheaper products — and bigger risks.",
+            "5. Test One AI Rule\n\nPick a new AI rule and ask: does it survive a political fight? If not, it's not real protection."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Trump and Johnson call AI fears theater.",
+            "AI companies warn loudly to shape the rules.",
+            "Politicians see that panic as leverage.",
+            "Your compliance budget may shrink this year.",
+            "Test one AI rule against politics today."
+          ]
+        },
+        "instagram": {
+          "caption": "Trump and Mike Johnson say the AI industry's doomsday warnings are theater — a bargaining chip, not a safety plea. 🎭\n\nAI labs keep predicting catastrophe before rules get written.\n\nLawmakers see the panic as leverage: both sides trade fear for power. ⚖️\n\nIf that noise wins, your compliance budget shrinks this year — cheaper products, bigger risks. 📉\n\nSo test one new AI rule: does it survive a political fight?\n\nIf not, it's not real protection. Which rule on your list would fail that test? 🤔"
+        }
+      },
+      "instagram_caption": "Trump and Mike Johnson say the AI industry's doomsday warnings are theater — a bargaining chip, not a safety plea. 🎭\n\nAI labs keep predicting catastrophe before rules get written.\n\nLawmakers see the panic as leverage: both sides trade fear for power. ⚖️\n\nIf that noise wins, your compliance budget shrinks this year — cheaper products, bigger risks. 📉\n\nSo test one new AI rule: does it survive a political fight?\n\nIf not, it's not real protection. Which rule on your list would fail that test? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is AI panic just political theater?",
+          "description": "Trump and Johnson believe doomsday warnings are a bargaining chip, not a safety concern. This changes how rules get written.",
+          "visual_hint": "Split screen: Capitol dome and circuit board",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "US Capitol building"
+        },
+        {
+          "hook": "AI labs scream catastrophe. Why now?",
+          "description": "Industry leaders predict disaster to shape regulation before others weigh in. Urgency becomes a tool for control.",
+          "visual_hint": "Server racks with warning lights flashing",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "server room racks",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fear is leverage, not protection.",
+          "description": "Lawmakers see alarm as a tactical move. Both sides trade panic for power, leaving real safety behind.",
+          "visual_hint": "Handshake over a chessboard with pawns",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "chess board pieces",
+          "image": "https://images.pexels.com/photos/33647017/pexels-photo-33647017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your compliance budget is shrinking.",
+          "description": "Political noise may cut oversight funds this year. Cheaper products follow, but so do bigger risks for everyone.",
+          "visual_hint": "Office desk with declining budget chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office desk papers",
+          "image": "https://images.pexels.com/photos/17257183/pexels-photo-17257183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next audit.",
+          "description": "Pick one AI rule today and ask if it survives a political fight. Comment your test result below.",
+          "visual_hint": "Checklist with a pen and shield icon",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checklist clipboard pen",
+          "image": "https://images.pexels.com/photos/5699516/pexels-photo-5699516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+      "savedAt": "2026-09-13T20:02:09.121Z",
+      "sourceId": "1d273e458a4640c0c1e45e31d7bd08a2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "what-s-behind-the-ai-industry-s-latest-warnings-of",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "slides": [
+        "Why does OpenAI's Sam Altman warn of doom?",
+        "He says AI could soon surpass human intelligence.",
+        "But his company profits from that same fear.",
+        "Regulators may act on warnings that boost him.",
+        "Ask: who benefits when AI leaders cry wolf?"
+      ],
+      "thread_text": [
+        "1. The Wolf Crier\n\nSam Altman warns AI could surpass human intelligence, yet his company profits from the fear he stokes. Regulators might act on those warnings—and cement his lead.",
+        "2. Fear Sells\n\nOpenAI's valuation jumped as Altman testified about doom. The scarier the forecast, the easier to raise billions and shape the rules.",
+        "3. Regulatory Moat\n\nLicensing and safety boards cost millions. Startups can't afford them, but OpenAI can. Altman's warnings could lock in his advantage.",
+        "4. Who Wins?\n\nIf AI leaders convince governments they're the only ones who can handle the risk, they write the rulebook—and freeze out competitors.",
+        "5. Your Move\n\nNext time an AI CEO warns of doom, check who funds the safety research and who gets the contracts. Ask: who benefits from your fear?"
+      ],
+      "video_script": [
+        "Sam Altman warns AI could soon surpass human intelligence.",
+        "But his company profits from that same fear.",
+        "Regulators may act on warnings that boost him.",
+        "Who benefits when AI leaders cry wolf?",
+        "Ask that every time you hear a warning."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Wolf Crier\n\nSam Altman warns AI could surpass human intelligence, yet his company profits from the fear he stokes. Regulators might act on those warnings—and cement his lead.",
+            "2. Fear Sells\n\nOpenAI's valuation jumped as Altman testified about doom. The scarier the forecast, the easier to raise billions and shape the rules.",
+            "3. Regulatory Moat\n\nLicensing and safety boards cost millions. Startups can't afford them, but OpenAI can. Altman's warnings could lock in his advantage.",
+            "4. Who Wins?\n\nIf AI leaders convince governments they're the only ones who can handle the risk, they write the rulebook—and freeze out competitors.",
+            "5. Your Move\n\nNext time an AI CEO warns of doom, check who funds the safety research and who gets the contracts. Ask: who benefits from your fear?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Sam Altman warns AI could soon surpass human intelligence.",
+            "But his company profits from that same fear.",
+            "Regulators may act on warnings that boost him.",
+            "Who benefits when AI leaders cry wolf?",
+            "Ask that every time you hear a warning."
+          ]
+        },
+        "instagram": {
+          "caption": "Sam Altman says AI could soon beat human intelligence — while his own company cashes in on that fear. 🐺\n\nOpenAI's value jumped every time he warned regulators about doom.\n\nLicensing and safety boards cost millions — startups can't pay, OpenAI can.\n\nSo the warnings he makes could become the rules that freeze out rivals.\n\nIf you build or publish with AI tools, those rules decide what you're allowed to use.\n\nNext time an AI CEO predicts disaster, ask who profits from your fear. 🎯"
+        }
+      },
+      "instagram_caption": "Sam Altman says AI could soon beat human intelligence — while his own company cashes in on that fear. 🐺\n\nOpenAI's value jumped every time he warned regulators about doom.\n\nLicensing and safety boards cost millions — startups can't pay, OpenAI can.\n\nSo the warnings he makes could become the rules that freeze out rivals.\n\nIf you build or publish with AI tools, those rules decide what you're allowed to use.\n\nNext time an AI CEO predicts disaster, ask who profits from your fear. 🎯",
+      "carousel_slides": [
+        {
+          "hook": "Who really profits from AI doom?",
+          "description": "Sam Altman warns AI could surpass human intelligence, but OpenAI profits from the same fear he stokes.",
+          "visual_hint": "Silhouette against glowing red warning",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "warning sign"
+        },
+        {
+          "hook": "Fear sells: OpenAI's valuation jumped",
+          "description": "Altman testified about doom, and OpenAI's valuation soared. Scarier forecasts make raising billions easier.",
+          "visual_hint": "Rising stock chart with red arrow",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulations might cement his lead",
+          "description": "Licensing and safety boards cost millions. Startups can't afford them, but OpenAI can—locking in advantage.",
+          "visual_hint": "Gavel and law books close-up",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "courtroom gavel",
+          "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who writes the rulebook?",
+          "description": "If AI leaders convince governments they alone handle risk, they freeze out competitors and control rules.",
+          "visual_hint": "Hands shaping a chess piece",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chess pieces",
+          "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: question AI warnings",
+          "description": "Next time an AI CEO warns of doom, check who funds safety research and who gets contracts.",
+          "visual_hint": "Magnifying glass over money",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass money",
+          "image": "https://images.pexels.com/photos/8927648/pexels-photo-8927648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+      "savedAt": "2026-09-13T20:02:00.285Z",
+      "sourceId": "423bcba40c75a13510f9da34c700b8b3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-",
       "prompt_version": "1.0.0",
       "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "what-s-behind-the-ai-industry-s-latest-warnings-of",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "What’s behind the AI industry’s latest warnings of doom?",
+  "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+  "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+  "slides": [
+    "Why does OpenAI's Sam Altman warn of doom?",
+    "He says AI could soon surpass human intelligence.",
+    "But his company profits from that same fear.",
+    "Regulators may act on warnings that boost him.",
+    "Ask: who benefits when AI leaders cry wolf?"
+  ],
+  "thread_text": [
+    "1. The Wolf Crier\n\nSam Altman warns AI could surpass human intelligence, yet his company profits from the fear he stokes. Regulators might act on those warnings—and cement his lead.",
+    "2. Fear Sells\n\nOpenAI's valuation jumped as Altman testified about doom. The scarier the forecast, the easier to raise billions and shape the rules.",
+    "3. Regulatory Moat\n\nLicensing and safety boards cost millions. Startups can't afford them, but OpenAI can. Altman's warnings could lock in his advantage.",
+    "4. Who Wins?\n\nIf AI leaders convince governments they're the only ones who can handle the risk, they write the rulebook—and freeze out competitors.",
+    "5. Your Move\n\nNext time an AI CEO warns of doom, check who funds the safety research and who gets the contracts. Ask: who benefits from your fear?"
+  ],
+  "video_script": [
+    "Sam Altman warns AI could soon surpass human intelligence.",
+    "But his company profits from that same fear.",
+    "Regulators may act on warnings that boost him.",
+    "Who benefits when AI leaders cry wolf?",
+    "Ask that every time you hear a warning."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Wolf Crier\n\nSam Altman warns AI could surpass human intelligence, yet his company profits from the fear he stokes. Regulators might act on those warnings—and cement his lead.",
+        "2. Fear Sells\n\nOpenAI's valuation jumped as Altman testified about doom. The scarier the forecast, the easier to raise billions and shape the rules.",
+        "3. Regulatory Moat\n\nLicensing and safety boards cost millions. Startups can't afford them, but OpenAI can. Altman's warnings could lock in his advantage.",
+        "4. Who Wins?\n\nIf AI leaders convince governments they're the only ones who can handle the risk, they write the rulebook—and freeze out competitors.",
+        "5. Your Move\n\nNext time an AI CEO warns of doom, check who funds the safety research and who gets the contracts. Ask: who benefits from your fear?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Sam Altman warns AI could soon surpass human intelligence.",
+        "But his company profits from that same fear.",
+        "Regulators may act on warnings that boost him.",
+        "Who benefits when AI leaders cry wolf?",
+        "Ask that every time you hear a warning."
+      ]
+    },
+    "instagram": {
+      "caption": "Sam Altman says AI could soon beat human intelligence — while his own company cashes in on that fear. 🐺\n\nOpenAI's value jumped every time he warned regulators about doom.\n\nLicensing and safety boards cost millions — startups can't pay, OpenAI can.\n\nSo the warnings he makes could become the rules that freeze out rivals.\n\nIf you build or publish with AI tools, those rules decide what you're allowed to use.\n\nNext time an AI CEO predicts disaster, ask who profits from your fear. 🎯"
+    }
+  },
+  "instagram_caption": "Sam Altman says AI could soon beat human intelligence — while his own company cashes in on that fear. 🐺\n\nOpenAI's value jumped every time he warned regulators about doom.\n\nLicensing and safety boards cost millions — startups can't pay, OpenAI can.\n\nSo the warnings he makes could become the rules that freeze out rivals.\n\nIf you build or publish with AI tools, those rules decide what you're allowed to use.\n\nNext time an AI CEO predicts disaster, ask who profits from your fear. 🎯",
+  "carousel_slides": [
+    {
+      "hook": "Who really profits from AI doom?",
+      "description": "Sam Altman warns AI could surpass human intelligence, but OpenAI profits from the same fear he stokes.",
+      "visual_hint": "Silhouette against glowing red warning",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "warning sign"
+    },
+    {
+      "hook": "Fear sells: OpenAI's valuation jumped",
+      "description": "Altman testified about doom, and OpenAI's valuation soared. Scarier forecasts make raising billions easier.",
+      "visual_hint": "Rising stock chart with red arrow",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulations might cement his lead",
+      "description": "Licensing and safety boards cost millions. Startups can't afford them, but OpenAI can—locking in advantage.",
+      "visual_hint": "Gavel and law books close-up",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "courtroom gavel",
+      "image": "https://images.pexels.com/photos/5668484/pexels-photo-5668484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who writes the rulebook?",
+      "description": "If AI leaders convince governments they alone handle risk, they freeze out competitors and control rules.",
+      "visual_hint": "Hands shaping a chess piece",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "chess pieces",
+      "image": "https://images.pexels.com/photos/28677061/pexels-photo-28677061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: question AI warnings",
+      "description": "Next time an AI CEO warns of doom, check who funds safety research and who gets contracts.",
+      "visual_hint": "Magnifying glass over money",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass money",
+      "image": "https://images.pexels.com/photos/8927648/pexels-photo-8927648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+  "savedAt": "2026-09-13T20:02:00.285Z",
+  "sourceId": "423bcba40c75a13510f9da34c700b8b3"
+}
