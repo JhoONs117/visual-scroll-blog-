@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "insight-partners-deven-parekh-on-why-the-firm-is-d",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+  "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+  "pubDate": "Sun, 13 Sep 2026 21:30:00 +0000",
+  "slides": [
+    "Why is Insight Partners backing non-AI startups?",
+    "Deven Parekh says the firm is diversifying its bets.",
+    "But Insight still invests in AI—just not exclusively.",
+    "Founders can now attract capital beyond AI hype.",
+    "Ask: Is your startup too dependent on one trend?"
+  ],
+  "thread_text": [
+    "1. AI hype is cooling\n\nInsight Partners just backed non-AI startups, proving that trend-agnostic bets are back on the table.",
+    "2. Diversifying the bet\n\nDeven Parekh says the firm is spreading its chips across sectors, so AI no longer hogs the entire cap table.",
+    "3. AI still in the mix\n\nInsight hasn't abandoned AI—it just refuses to make it the only item on the menu.",
+    "4. Founders get leverage\n\nWithout a pure AI pitch, you can now attract capital by solving a real problem, not just riding a wave.",
+    "5. Is your startup a one-trick pony?\n\nIf your entire story collapses when AI hype fades, you're not a business—you're a bet. Test that this week."
+  ],
+  "video_script": [
+    "Insight Partners just bet on non-AI startups.",
+    "Deven Parekh says they're diversifying their bets.",
+    "AI is still in the portfolio, just not alone.",
+    "Founders can now pitch beyond the AI hype.",
+    "Is your startup too dependent on one trend?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI hype is cooling\n\nInsight Partners just backed non-AI startups, proving that trend-agnostic bets are back on the table.",
+        "2. Diversifying the bet\n\nDeven Parekh says the firm is spreading its chips across sectors, so AI no longer hogs the entire cap table.",
+        "3. AI still in the mix\n\nInsight hasn't abandoned AI—it just refuses to make it the only item on the menu.",
+        "4. Founders get leverage\n\nWithout a pure AI pitch, you can now attract capital by solving a real problem, not just riding a wave.",
+        "5. Is your startup a one-trick pony?\n\nIf your entire story collapses when AI hype fades, you're not a business—you're a bet. Test that this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Insight Partners just bet on non-AI startups.",
+        "Deven Parekh says they're diversifying their bets.",
+        "AI is still in the portfolio, just not alone.",
+        "Founders can now pitch beyond the AI hype.",
+        "Is your startup too dependent on one trend?"
+      ]
+    },
+    "instagram": {
+      "caption": "Insight Partners just put money into startups that have nothing to do with AI.\n\nDeven Parekh says the firm is spreading its bets instead of dumping everything into OpenAI and Anthropic. 🎯\n\nInsight still funds AI, it just won't make it the only thing on the menu.\n\nThat means founders solving real problems can raise again without pretending to be an AI company. 💡\n\nIf your whole pitch dies the moment AI hype cools, what are you actually selling? 🤔"
+    }
+  },
+  "instagram_caption": "Insight Partners just put money into startups that have nothing to do with AI.\n\nDeven Parekh says the firm is spreading its bets instead of dumping everything into OpenAI and Anthropic. 🎯\n\nInsight still funds AI, it just won't make it the only thing on the menu.\n\nThat means founders solving real problems can raise again without pretending to be an AI company. 💡\n\nIf your whole pitch dies the moment AI hype cools, what are you actually selling? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is your startup too dependent on AI?",
+      "description": "Insight Partners backed non-AI startups as hype cools; trend-agnostic bets are back, so founders can win beyond the AI wave.",
+      "visual_hint": "Startup founder looking at declining hype chart",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "stock market chart"
+    },
+    {
+      "hook": "Insight Partners diversifies while others double down",
+      "description": "Deven Parekh spreads chips across sectors; AI no longer hogs the entire cap table at the firm.",
+      "visual_hint": "Pie chart with multiple investment slices",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "pie chart",
+      "image": "https://images.pexels.com/photos/7947845/pexels-photo-7947845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI still in the mix, not the whole menu",
+      "description": "Insight hasn't abandoned AI; it refuses to make it the only item, so AI remains a component, not the entire strategy.",
+      "visual_hint": "Balanced scale with AI and other sectors",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "balance scale",
+      "image": "https://images.pexels.com/photos/8666805/pexels-photo-8666805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Founders get leverage without pure AI pitch",
+      "description": "Without a pure AI story, you can attract capital by solving a real problem, not just riding the hype wave.",
+      "visual_hint": "Hand holding magnet attracting coins",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "magnet attracting coins",
+      "image": "https://images.pexels.com/photos/6328871/pexels-photo-6328871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this if your story collapses without AI",
+      "description": "Test this week: if AI hype fades, does your business stand? Comment your plan or visit link in bio for more.",
+      "visual_hint": "Person writing checklist with pen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checklist notebook",
+      "image": "https://images.pexels.com/photos/8450476/pexels-photo-8450476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
+  "savedAt": "2026-09-13T23:47:53.332Z",
+  "sourceId": "3701474fa5bfe6eb0edd8d7578352635"
+}
