@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "why-most-enterprise-agent-pilots-never-reach-deplo",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+  "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+  "pubDate": "Mon, 14 Sep 2026 08:04:35 +0000",
+  "slides": [
+    "Your agent pilot works in demo. Why not production?",
+    "Data silos and brittle APIs fragment real workflows.",
+    "The missing piece is stateful orchestration, not better LLMs.",
+    "Start by instrumenting every tool call for failure recovery.",
+    "Pick one broken handoff and fix it this week."
+  ],
+  "thread_text": [
+    "1. Your demo isn't production\n\nAI agents work in controlled demos. Then real workflows hit data silos and brittle APIs that break everything. That's not a model problem.",
+    "2. Silos fragment workflows\n\nEvery tool lives in its own database. The handoffs between them are where agents fail silently. Nobody notices until it's in production.",
+    "3. LLMs aren't the answer\n\nBetter models won't fix broken handoffs. You need stateful orchestration that tracks what happened, what failed, and what to do next.",
+    "4. Instrument every tool call\n\nLog inputs, outputs, and failures. Without this, you can't recover from errors. Build the feedback loop before scaling the agent.",
+    "5. Pick one broken handoff\n\nFind the workflow that fails most often. Fix that single handoff this week. Does your agent survive a real failure?"
+  ],
+  "video_script": [
+    "Your agent works in demo, not in production",
+    "Data silos and brittle APIs break real workflows",
+    "You need stateful orchestration, not better language models",
+    "Start logging every tool call for failure recovery",
+    "Pick one broken handoff and fix it this week"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your demo isn't production\n\nAI agents work in controlled demos. Then real workflows hit data silos and brittle APIs that break everything. That's not a model problem.",
+        "2. Silos fragment workflows\n\nEvery tool lives in its own database. The handoffs between them are where agents fail silently. Nobody notices until it's in production.",
+        "3. LLMs aren't the answer\n\nBetter models won't fix broken handoffs. You need stateful orchestration that tracks what happened, what failed, and what to do next.",
+        "4. Instrument every tool call\n\nLog inputs, outputs, and failures. Without this, you can't recover from errors. Build the feedback loop before scaling the agent.",
+        "5. Pick one broken handoff\n\nFind the workflow that fails most often. Fix that single handoff this week. Does your agent survive a real failure?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Your agent works in demo, not in production",
+        "Data silos and brittle APIs break real workflows",
+        "You need stateful orchestration, not better language models",
+        "Start logging every tool call for failure recovery",
+        "Pick one broken handoff and fix it this week"
+      ]
+    },
+    "instagram": {
+      "caption": "Your agent nails the demo, then dies the moment it touches real data.\n\nMost enterprise pilots never reach deployment. Not because the model is weak — because data sits in silos and APIs break at the handoffs. 🧩\n\nBetter LLMs won't fix that. Stateful orchestration will — tracking what ran, what failed, what's next.\n\nSo log every tool call: inputs, outputs, failures. Without that loop, you can't recover. 🔍\n\nIf you build with agents, your next sprint changes: pick the handoff that breaks most and fix that one thing. 🛠️\n\nWhich workflow would you fix first? 👇"
+    }
+  },
+  "instagram_caption": "Your agent nails the demo, then dies the moment it touches real data.\n\nMost enterprise pilots never reach deployment. Not because the model is weak — because data sits in silos and APIs break at the handoffs. 🧩\n\nBetter LLMs won't fix that. Stateful orchestration will — tracking what ran, what failed, what's next.\n\nSo log every tool call: inputs, outputs, failures. Without that loop, you can't recover. 🔍\n\nIf you build with agents, your next sprint changes: pick the handoff that breaks most and fix that one thing. 🛠️\n\nWhich workflow would you fix first? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Your agent works in demo, not production",
+      "description": "Real workflows hit data silos and brittle APIs that break everything. This is an architecture problem, not a model problem.",
+      "visual_hint": "Split screen: perfect demo vs broken production",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Silos fragment every workflow you build",
+      "description": "Each tool sits in its own database. Handoffs between them fail silently until production breaks.",
+      "visual_hint": "Disconnected databases with broken handoff arrows",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Better LLMs won't fix broken handoffs",
+      "description": "The missing piece is stateful orchestration tracking what happened, what failed, and what to do next.",
+      "visual_hint": "Orchestration layer connecting tool calls together",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Instrument every tool call for recovery",
+      "description": "Log inputs, outputs, and failures. Without this feedback loop, you cannot recover errors before scaling.",
+      "visual_hint": "Dashboard logging tool call inputs and failures",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer monitor",
+      "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next agent pilot",
+      "description": "Find your most frequent workflow failure and fix that single broken handoff this week.",
+      "visual_hint": "Single broken handoff highlighted in workflow map",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-14T16:04:00.347Z",
+  "sourceId": "1f726ce1f96de6288e48fbc59e91d2ff"
+}

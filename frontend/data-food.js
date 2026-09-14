@@ -2,6 +2,117 @@ window.FOOD_ARTICLES = [
   {
     "schema_version": 2,
     "agent": "food",
+    "slug": "torta-di-sfoglia-con-mele-e-ricotta",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Torta di sfoglia con mele e ricotta",
+    "link": "https://ricette.giallozafferano.it/Torta-di-sfoglia-con-mele-e-ricotta.html",
+    "pubDate": "Mon, 14 Sep 2026 15:11:00 +0200",
+    "content": "Torta di pasta sfoglia con mele e ricotta: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta di sfoglia con mele e ricotta /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 40 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta di pasta sfoglia con mele e ricotta è un dolce facile e goloso, ideale quando si ha voglia di un dessert fatto in casa senza dover realizzare un impasto da zero. La pasta sfoglia già pronta permette di realizzare un involucro croccante e dorato, che racchiude un ripieno morbido e cremoso . La dolcezza delle mele si sposa perfettamente con la freschezza della ricotta , per un abbinamento semplice ma d’effetto. Ottima da servire leggermente tiepida, questa fragrante torta ricotta e mele è una deliziosa alternativa alla classica torta di mele che si adatta a diversi momenti della giornata: si può gustare a colazione, per una merenda speciale oppure portarla in tavola a fine pasto, magari insieme a una pallina di gelato alla vaniglia. Provate anche voi la torta di sfoglia con mele e ricotta e divertitevi a creare altri irresistibili dolci con le mele e la pasta sfoglia : Strudel di mele con pasta sfoglia Sfogliette mele e crema Fagottini di pasta sfoglia con cuore di mela Sfogliatine alle mele Quadrotti di sfoglia alle mele INGREDIENTI Per uno stampo da 25x20 cm Pasta Sfoglia 2 rotoli rettangolari 460 g Mele Golden 600 g Ricotta vaccina 350 g Zucchero 60 g Uova 1 Estratto di vaniglia 1 Scorza di limone q.b. per la superficie Uova 1 Zucchero 2 cucchiai AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di sfoglia con mele e ricotta Per preparare la torta di sfoglia con mele e ricotta, mettete in una ciotola la ricotta, poi aggiungete l’uovo 1 , lo zucchero 2 e l’estratto di vaniglia 3 . Mescolate il composto 4 e occupatevi delle mele: sbucciatele e dividetele prima a spicchi 5 , poi a fettine e infine a cubetti piuttosto piccoli 6 . Unite i cubetti di mela all’impasto 7 , poi aromatizzate con la scorza di limone grattugiata 8 e amalgamate bene il tutto 9 . Ora adagiate il primo rotolo di pasta sfoglia con la sua carta forno in uno stampo rettangolare da 20x25 cm, poi bucherellatelo con una forchetta 10 . Versate il ripieno di mele e ricotta all’interno 11 e livellatelo in modo uniforme 12 . Ricoprite con il secondo rotolo di pasta sfoglia 13 e sigillate bene i bordi 14 . Praticate dei tagli in diagonale sulla superficie 15 . Spennellate la superficie con l’uovo sbattuto 16 e spolverizzatela con lo zucchero 17 . Cuocete in forno statico preriscaldato a 180° per circa 35-40 minuti, fino a doratura. Sfornate e lasciate intiepidire prima di servire la vostra torta di sfoglia con mele e ricotta 18 ! Conservazione La torta di sfoglia con mele e ricotta si può conservare in frigorifero per 3 giorni; prima di servirla si consiglia di scaldarla in forno a 180° per qualche minuto. Potete congelarla dopo la cottura, per poi infornarlo ancora congelato nel forno a 180°. Consiglio Puoi aromatizzare il ripieno con un pizzico di cannella oppure arricchirlo con dell’uvetta precedentemente ammollata. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Mela Zucchero Limone Uovo Ricotta Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta di sfoglia con mele e ricotta Polpettone di manzo 5.0 Tatin ai fichi con crema al Parmigiano 5.0 SCOPRI Torta di mele con pasta sfoglia Torta con ricotta e mele Torta di mele senza burro Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+    "slides": [
+      "Sfoglia dorata con cuore cremoso di mele",
+      "Sfoglia, ricotta, mele, uovo e vaniglia",
+      "Mescola ricotta, uovo, mele, scorza di limone",
+      "Sigilla la sfoglia e cuoci a 180° per 40 minuti",
+      "Aromatizza con cannella o uvetta ammollata"
+    ],
+    "instagram_caption": "Sfoglia dorata, cuore cremoso: questa torta di mele e ricotta è pura poesia d'autunno 🍎\nBasta poco: stendi la sfoglia, mescola ricotta, uovo, mele e scorza di limone, poi sigilla tutto e inforna a 180° per 40 minuti.\nIl profumo che invade la cucina vale già l'attesa, fidati.\nUna spolverata di cannella o qualche uvetta ammollata e diventa irresistibile 🍂\nSalva il post e provala questo weekend! 🥧",
+    "formats": {
+      "instagram": {
+        "caption": "Sfoglia dorata, cuore cremoso: questa torta di mele e ricotta è pura poesia d'autunno 🍎\nBasta poco: stendi la sfoglia, mescola ricotta, uovo, mele e scorza di limone, poi sigilla tutto e inforna a 180° per 40 minuti.\nIl profumo che invade la cucina vale già l'attesa, fidati.\nUna spolverata di cannella o qualche uvetta ammollata e diventa irresistibile 🍂\nSalva il post e provala questo weekend! 🥧"
+      },
+      "tiktok": {
+        "script": [
+          "Sfoglia dorata, cuore cremoso di mele: si parte!",
+          "Prendo sfoglia, ricotta, mele, uovo e vaniglia.",
+          "Mescolo ricotta, uovo, mele e scorza di limone.",
+          "Sigillo la sfoglia e in forno a 180° per 40 minuti.",
+          "Aromatizzo con cannella o uvetta ammollata. Buonissima!"
+        ]
+      },
+      "x": {
+        "thread": [
+          "Sfoglia dorata che scrocchia sotto i denti, cuore cremoso di mele e ricotta. Una torta che sembra complicata ma ti ruba 10 minuti. Preparati perché finisce in un attimo.",
+          "Ti serve: 1 rotolo di sfoglia, 250g di ricotta, 2 mele, 1 uovo, vaniglia, scorza di limone. Nient'altro. La magia è nella semplicità degli ingredienti.",
+          "Mescola ricotta, uovo, mele a cubetti, scorza di limone e vaniglia. Versa sulla sfoglia, ripiega i bordi e sigilla bene. Il gesto chiave? Non lesinare sulla ricotta.",
+          "In forno a 180° per 40 minuti. La sfoglia deve diventare ambrata, il ripieno gonfio e profumato. Non aprirlo prima: resisti.",
+          "Trucco finale: cannella o uvetta ammollata nel ripieno e la porti a un altro livello. Provala e dimmi com'è andata 👇"
+        ]
+      }
+    },
+    "video_script": [
+      "Sfoglia dorata, cuore cremoso di mele: si parte!",
+      "Prendo sfoglia, ricotta, mele, uovo e vaniglia.",
+      "Mescolo ricotta, uovo, mele e scorza di limone.",
+      "Sigillo la sfoglia e in forno a 180° per 40 minuti.",
+      "Aromatizzo con cannella o uvetta ammollata. Buonissima!"
+    ],
+    "thread_text": [
+      "Sfoglia dorata che scrocchia sotto i denti, cuore cremoso di mele e ricotta. Una torta che sembra complicata ma ti ruba 10 minuti. Preparati perché finisce in un attimo.",
+      "Ti serve: 1 rotolo di sfoglia, 250g di ricotta, 2 mele, 1 uovo, vaniglia, scorza di limone. Nient'altro. La magia è nella semplicità degli ingredienti.",
+      "Mescola ricotta, uovo, mele a cubetti, scorza di limone e vaniglia. Versa sulla sfoglia, ripiega i bordi e sigilla bene. Il gesto chiave? Non lesinare sulla ricotta.",
+      "In forno a 180° per 40 minuti. La sfoglia deve diventare ambrata, il ripieno gonfio e profumato. Non aprirlo prima: resisti.",
+      "Trucco finale: cannella o uvetta ammollata nel ripieno e la porti a un altro livello. Provala e dimmi com'è andata 👇"
+    ],
+    "carousel_slides": [
+      {
+        "hook": "Sfoglia dorata, cuore cremoso di mele",
+        "description": "Una torta croccante fuori e vellutata dentro, pronta a conquistare al primo morso.",
+        "visual_hint": "sfoglia dorata cuore cremoso",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "apple ricotta tart"
+      },
+      {
+        "hook": "Tre ingredienti, un capolavoro",
+        "description": "Sfoglia, ricotta e mele: la semplicità che si trasforma in dolcezza irresistibile.",
+        "visual_hint": "ingredienti freschi sul tavolo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "apple ricotta ingredients",
+        "image": "https://images.pexels.com/photos/7113110/pexels-photo-7113110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mescola e profuma di limone",
+        "description": "Unisci ricotta, uovo, mele e scorza di limone per una crema profumata e vellutata.",
+        "visual_hint": "mescolando crema di ricotta",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "ricotta mixing bowl",
+        "image": "https://images.pexels.com/photos/33775639/pexels-photo-33775639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Sigilla e inforna a 180°",
+        "description": "Chiudi la sfoglia, spennella e cuoci per 40 minuti fino a doratura perfetta.",
+        "visual_hint": "mani che sigillano la sfoglia",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "sealing puff pastry",
+        "image": "https://images.pexels.com/photos/28907088/pexels-photo-28907088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Cannella o uvetta? Scegli il tocco",
+        "description": "Aromatizza, lascia intiepidire e servi: ogni fetta è un abbraccio di gusto.",
+        "visual_hint": "fetta di torta servita",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "apple tart slice",
+        "image": "https://images.pexels.com/photos/36340982/pexels-photo-36340982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "dish_type": "dessert",
+    "signature_ingredients": [
+      "pasta sfoglia",
+      "mele",
+      "ricotta"
+    ],
+    "image": "https://www.giallozafferano.it/images/366-36617/Torta-di-sfoglia-con-mele-e-ricotta_650x433_wm.jpg",
+    "savedAt": "2026-09-14T16:12:41.804Z",
+    "sourceId": "4318af6ab480ac6e4b5dc5f60ea90ec1"
+  },
+  {
+    "schema_version": 2,
+    "agent": "food",
     "slug": "calzone-dolce-di-cipolla",
     "prompt_version": "1.0.0",
     "status": "published",

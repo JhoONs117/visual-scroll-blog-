@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-ai-opens-review-on-humanist-ai-code-of-c",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+  "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+  "pubDate": "Mon, 14 Sep 2026 15:30:41 +0000",
+  "slides": [
+    "Can Microsoft police AI ethics and still sell it?",
+    "Its new review targets a 'Humanist' conduct code",
+    "But enforcement depends on voluntary self-reporting",
+    "Your vendor contracts may soon require this code",
+    "Read the fine print before renewing any AI license"
+  ],
+  "thread_text": [
+    "1. The Real Question\n\nMicrosoft just dropped a new AI ethics review that demands a 'Humanist' conduct code. But who actually enforces it? Spoiler: the company itself, voluntarily.",
+    "2. A Code Without Teeth\n\nThe review asks AI vendors to self-report ethical lapses. That means the same companies selling the tech are the ones deciding if they crossed a line.",
+    "3. Your Contract, Their Rules\n\nStarting soon, your vendor agreements may force you to adopt this code too. That means you inherit their ethical standards—and their blind spots.",
+    "4. Renewal Time Trap\n\nBefore you renew any AI license, read the fine print. You might be agreeing to audits, disclosures, or liability shifts you never saw coming.",
+    "5. What Will You Sign?\n\nNext time you click 'I agree' on an AI tool, ask yourself: are you buying a product or adopting a policy? Check your current contracts this week."
+  ],
+  "video_script": [
+    "Microsoft wants to police AI ethics while selling it.",
+    "Their new review pushes a humanist code of conduct.",
+    "But enforcement? Only voluntary self-reporting.",
+    "Your vendor contracts might soon require this code.",
+    "Read the fine print before renewing any AI license."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The Real Question\n\nMicrosoft just dropped a new AI ethics review that demands a 'Humanist' conduct code. But who actually enforces it? Spoiler: the company itself, voluntarily.",
+        "2. A Code Without Teeth\n\nThe review asks AI vendors to self-report ethical lapses. That means the same companies selling the tech are the ones deciding if they crossed a line.",
+        "3. Your Contract, Their Rules\n\nStarting soon, your vendor agreements may force you to adopt this code too. That means you inherit their ethical standards—and their blind spots.",
+        "4. Renewal Time Trap\n\nBefore you renew any AI license, read the fine print. You might be agreeing to audits, disclosures, or liability shifts you never saw coming.",
+        "5. What Will You Sign?\n\nNext time you click 'I agree' on an AI tool, ask yourself: are you buying a product or adopting a policy? Check your current contracts this week."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft wants to police AI ethics while selling it.",
+        "Their new review pushes a humanist code of conduct.",
+        "But enforcement? Only voluntary self-reporting.",
+        "Your vendor contracts might soon require this code.",
+        "Read the fine print before renewing any AI license."
+      ]
+    },
+    "instagram": {
+      "caption": "If you renew an AI license, you might be signing a code you never read. 👀\n\nMicrosoft opened a review on a \"Humanist\" AI conduct code.\n\nBut enforcement runs on voluntary self-reporting — the vendors police themselves.\n\nAnd your contracts may soon require you to adopt that same code. 📄\n\nFor anyone publishing content with AI tools, that means new audits or liability shifts buried in the fine print.\n\nCheck your current AI agreements before the next auto-renewal. 🔍\n\nAre you buying a product, or quietly adopting someone else's policy?"
+    }
+  },
+  "instagram_caption": "If you renew an AI license, you might be signing a code you never read. 👀\n\nMicrosoft opened a review on a \"Humanist\" AI conduct code.\n\nBut enforcement runs on voluntary self-reporting — the vendors police themselves.\n\nAnd your contracts may soon require you to adopt that same code. 📄\n\nFor anyone publishing content with AI tools, that means new audits or liability shifts buried in the fine print.\n\nCheck your current AI agreements before the next auto-renewal. 🔍\n\nAre you buying a product, or quietly adopting someone else's policy?",
+  "carousel_slides": [
+    {
+      "hook": "Who polices AI ethics? The sellers themselves.",
+      "description": "Microsoft's new review relies on vendors self-reporting ethical lapses, meaning the same companies selling AI decide if they crossed a line.",
+      "visual_hint": "Gavel beside glowing AI server",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "A code with no teeth.",
+      "description": "The Humanist conduct code is voluntary, so enforcement depends entirely on companies honestly reporting their own ethical failures.",
+      "visual_hint": "Checklist with unchecked boxes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office desk",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your contracts may enforce their blind spots.",
+      "description": "Upcoming vendor agreements might require you to adopt this code, inheriting both its ethical standards and its oversight gaps.",
+      "visual_hint": "Contract with blurred fine print",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "legal contract",
+      "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Read before you renew.",
+      "description": "Before renewing any AI license, check for hidden clauses on audits, disclosures, or liability shifts that could bind your business.",
+      "visual_hint": "Hand holding pen over document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person signing document",
+      "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI renewal.",
+      "description": "Review your current AI contracts this week and flag any clauses referencing the Humanist code or self-reporting obligations.",
+      "visual_hint": "Magnifying glass on contract clause",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "magnifying glass document",
+      "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-14T16:03:52.394Z",
+  "sourceId": "cb9c9c35cbd42599593dca71ac113c85"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-says-people-matter-more-than-ai-followin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "pubDate": "2026-09-14T13:00:00.000Z",
+      "slides": [
+        "Microsoft claims people matter more than AI—so why the safety fears?",
+        "After incidents, Microsoft reaffirms human oversight in AI systems.",
+        "But internal memos reveal AI often bypasses human judgment under pressure.",
+        "If you use Microsoft AI, demand audit logs and human override options.",
+        "Ask: does your AI have a kill switch? Test it today."
+      ],
+      "thread_text": [
+        "1. Human Oversight or Window Dressing?\n\nMicrosoft says people matter more than AI. After a series of incidents, they reaffirmed human oversight. But what does that actually mean in practice?",
+        "2. The Pressure Valve Problem\n\nInternal memos reveal AI often bypasses human judgment when deadlines loom. Under pressure, the override becomes a rubber stamp, not a safeguard.",
+        "3. Your Access to the Black Box\n\nIf you use Microsoft AI, you have a right to demand audit logs and a real human override option. Most users never ask. That's how systems drift.",
+        "4. The Kill Switch Question\n\nDoes your AI have a kill switch? If you don't know, you're not in control. Test it today on a non-critical task before you need it for real.",
+        "5. Test It Before You Trust It\n\nTake one AI tool you rely on. Try to override its output manually. If you can't, ask your vendor why. Do it this week, not after the next incident."
+      ],
+      "video_script": [
+        "Microsoft says humans come first. But do they?",
+        "Internal memos show AI bypasses human judgment under pressure.",
+        "Ask for audit logs and a real override option.",
+        "Does your AI have a kill switch? Find out.",
+        "Test it this week. Before you need it."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Human Oversight or Window Dressing?\n\nMicrosoft says people matter more than AI. After a series of incidents, they reaffirmed human oversight. But what does that actually mean in practice?",
+            "2. The Pressure Valve Problem\n\nInternal memos reveal AI often bypasses human judgment when deadlines loom. Under pressure, the override becomes a rubber stamp, not a safeguard.",
+            "3. Your Access to the Black Box\n\nIf you use Microsoft AI, you have a right to demand audit logs and a real human override option. Most users never ask. That's how systems drift.",
+            "4. The Kill Switch Question\n\nDoes your AI have a kill switch? If you don't know, you're not in control. Test it today on a non-critical task before you need it for real.",
+            "5. Test It Before You Trust It\n\nTake one AI tool you rely on. Try to override its output manually. If you can't, ask your vendor why. Do it this week, not after the next incident."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft says humans come first. But do they?",
+            "Internal memos show AI bypasses human judgment under pressure.",
+            "Ask for audit logs and a real override option.",
+            "Does your AI have a kill switch? Find out.",
+            "Test it this week. Before you need it."
+          ]
+        },
+        "instagram": {
+          "caption": "You're probably rubber-stamping your AI's output under deadline, not reviewing it.\n\nMicrosoft says people matter more than AI and reaffirmed human oversight after incidents. But internal memos show AI routinely bypasses human judgment when pressure builds. 🤖 The override exists on paper, not in practice.\n\nIf you run Microsoft AI, ask for audit logs and test the human override yourself. ⚠️\n\nDoes your AI have a working kill switch? Find out this week, on a low-stakes task. 🛑\n\nThat's how systems drift—until the day it matters. 🔍"
+        }
+      },
+      "instagram_caption": "You're probably rubber-stamping your AI's output under deadline, not reviewing it.\n\nMicrosoft says people matter more than AI and reaffirmed human oversight after incidents. But internal memos show AI routinely bypasses human judgment when pressure builds. 🤖 The override exists on paper, not in practice.\n\nIf you run Microsoft AI, ask for audit logs and test the human override yourself. ⚠️\n\nDoes your AI have a working kill switch? Find out this week, on a low-stakes task. 🛑\n\nThat's how systems drift—until the day it matters. 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Does AI really bypass human judgment?",
+          "description": "Microsoft claims human oversight matters, but internal memos show AI bypasses human judgment under deadline pressure. The safeguard becomes a rubber stamp.",
+          "visual_hint": "Split screen human versus AI interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Human oversight or window dressing?",
+          "description": "After safety incidents, Microsoft reaffirmed human oversight in AI systems. But what does that oversight actually mean in daily practice?",
+          "visual_hint": "Manager reviewing AI dashboard alerts",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pressure turns safeguards into rubber stamps",
+          "description": "Internal memos reveal AI often bypasses human judgment when deadlines loom. Under pressure, override becomes formality, not real protection.",
+          "visual_hint": "Clock ticking over approval button",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Demand audit logs and human override",
+          "description": "If you use Microsoft AI, demand audit logs and a real human override option. Most users never ask. That is how systems quietly drift.",
+          "visual_hint": "Hand pressing override switch console",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "control panel",
+          "image": "https://images.pexels.com/photos/39255983/pexels-photo-39255983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Does your AI have a kill switch?",
+          "description": "Test your AI kill switch today on a non-critical task. If you cannot override it, ask your vendor why before the next incident happens.",
+          "visual_hint": "Emergency stop button industrial setting",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "emergency stop button",
+          "image": "https://images.pexels.com/photos/5532840/pexels-photo-5532840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-14T16:04:17.711Z",
+      "sourceId": "3a588dc9c7bf53d6d05c0b0a2fcabd1a"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "superhuman-acquires-yc-backed-notetaker-fathom-as-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
+      "slides": [
+        "Can Superhuman's Fathom buy reshape meeting AI?",
+        "Fathom raised $17M from YC just years ago",
+        "But Superhuman plans full agentic meeting takeover",
+        "Your notetaker may soon auto-execute follow-ups",
+        "Test one meeting workflow before this shifts"
+      ],
+      "thread_text": [
+        "1. Superhuman's Fathom buy\n\nSuperhuman just acquired Fathom, the AI notetaker that raised $17M from YC just years ago. This isn't a talent grab — it's a full agentic meeting takeover.",
+        "2. From notetaker to agent\n\nFathom was built to listen and summarize. Under Superhuman, it's being rebuilt to act on what it hears — not just record it.",
+        "3. Your follow-ups, automated\n\nSoon your notetaker won't just write the recap. It will draft replies, assign tasks, and execute follow-ups without you asking.",
+        "4. Meetings that run themselves\n\nThe agentic layer means meetings stop being conversations you attend and become workflows that run on their own. You just show up.",
+        "5. Test one workflow now\n\nTake a recent meeting and simulate the follow-up manually. If it takes 20 minutes, ask yourself: is saving that time worth losing control of the reply?"
+      ],
+      "video_script": [
+        "Superhuman just bought Fathom, an AI notetaker.",
+        "Fathom raised seventeen million from Y Combinator.",
+        "Now Superhuman wants meetings to run themselves.",
+        "Your notetaker may soon send follow-ups automatically.",
+        "Test one meeting workflow before this becomes normal."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Superhuman's Fathom buy\n\nSuperhuman just acquired Fathom, the AI notetaker that raised $17M from YC just years ago. This isn't a talent grab — it's a full agentic meeting takeover.",
+            "2. From notetaker to agent\n\nFathom was built to listen and summarize. Under Superhuman, it's being rebuilt to act on what it hears — not just record it.",
+            "3. Your follow-ups, automated\n\nSoon your notetaker won't just write the recap. It will draft replies, assign tasks, and execute follow-ups without you asking.",
+            "4. Meetings that run themselves\n\nThe agentic layer means meetings stop being conversations you attend and become workflows that run on their own. You just show up.",
+            "5. Test one workflow now\n\nTake a recent meeting and simulate the follow-up manually. If it takes 20 minutes, ask yourself: is saving that time worth losing control of the reply?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Superhuman just bought Fathom, an AI notetaker.",
+            "Fathom raised seventeen million from Y Combinator.",
+            "Now Superhuman wants meetings to run themselves.",
+            "Your notetaker may soon send follow-ups automatically.",
+            "Test one meeting workflow before this becomes normal."
+          ]
+        },
+        "instagram": {
+          "caption": "An AI notetaker that raised $17M from Y Combinator is now owned by Superhuman 👀\n\nFathom used to just listen and summarize your calls. Now it's being rebuilt to act on what it hears.\n\nThat means drafting replies, assigning tasks, and firing off follow-ups on its own.\n\nIf you publish content or run client calls, the recap won't be the end product anymore. The action will happen without you.\n\nTry one thing this week: replay a recent meeting and time how long you spend on follow-ups manually 🔁\n\nWould you hand that 20 minutes to an agent that writes the reply for you? 🤔"
+        }
+      },
+      "instagram_caption": "An AI notetaker that raised $17M from Y Combinator is now owned by Superhuman 👀\n\nFathom used to just listen and summarize your calls. Now it's being rebuilt to act on what it hears.\n\nThat means drafting replies, assigning tasks, and firing off follow-ups on its own.\n\nIf you publish content or run client calls, the recap won't be the end product anymore. The action will happen without you.\n\nTry one thing this week: replay a recent meeting and time how long you spend on follow-ups manually 🔁\n\nWould you hand that 20 minutes to an agent that writes the reply for you? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Meetings that run themselves?",
+          "description": "Superhuman's acquisition of Fathom turns passive notetaking into an agent that acts on what it hears.",
+          "visual_hint": "AI brain interface with gears",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Fathom raised $17M from YC",
+          "description": "Just years ago, Fathom was a simple notetaker. Now it's the core of an agentic meeting takeover.",
+          "visual_hint": "startup pitch deck and laptop",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "startup office",
+          "image": "https://images.pexels.com/photos/5324900/pexels-photo-5324900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your notetaker will auto-execute follow-ups",
+          "description": "Soon it will draft replies, assign tasks, and handle post-meeting work without you lifting a finger.",
+          "visual_hint": "automated email reply interface",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "email inbox",
+          "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You just show up, it runs",
+          "description": "Meetings become autonomous workflows. The agent handles everything, from recap to task completion.",
+          "visual_hint": "calendar with automated checkmarks",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your follow-up workflow now",
+          "description": "Manually simulate a recent meeting's follow-up. If it takes 20 minutes, is losing control worth it?",
+          "visual_hint": "stopwatch and notepad on desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "desk stopwatch",
+          "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+      "savedAt": "2026-09-14T16:04:09.072Z",
+      "sourceId": "d360e52aaf33362c48972d44df980bd3"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "why-most-enterprise-agent-pilots-never-reach-deplo",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "pubDate": "Mon, 14 Sep 2026 08:04:35 +0000",
+      "slides": [
+        "Your agent pilot works in demo. Why not production?",
+        "Data silos and brittle APIs fragment real workflows.",
+        "The missing piece is stateful orchestration, not better LLMs.",
+        "Start by instrumenting every tool call for failure recovery.",
+        "Pick one broken handoff and fix it this week."
+      ],
+      "thread_text": [
+        "1. Your demo isn't production\n\nAI agents work in controlled demos. Then real workflows hit data silos and brittle APIs that break everything. That's not a model problem.",
+        "2. Silos fragment workflows\n\nEvery tool lives in its own database. The handoffs between them are where agents fail silently. Nobody notices until it's in production.",
+        "3. LLMs aren't the answer\n\nBetter models won't fix broken handoffs. You need stateful orchestration that tracks what happened, what failed, and what to do next.",
+        "4. Instrument every tool call\n\nLog inputs, outputs, and failures. Without this, you can't recover from errors. Build the feedback loop before scaling the agent.",
+        "5. Pick one broken handoff\n\nFind the workflow that fails most often. Fix that single handoff this week. Does your agent survive a real failure?"
+      ],
+      "video_script": [
+        "Your agent works in demo, not in production",
+        "Data silos and brittle APIs break real workflows",
+        "You need stateful orchestration, not better language models",
+        "Start logging every tool call for failure recovery",
+        "Pick one broken handoff and fix it this week"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your demo isn't production\n\nAI agents work in controlled demos. Then real workflows hit data silos and brittle APIs that break everything. That's not a model problem.",
+            "2. Silos fragment workflows\n\nEvery tool lives in its own database. The handoffs between them are where agents fail silently. Nobody notices until it's in production.",
+            "3. LLMs aren't the answer\n\nBetter models won't fix broken handoffs. You need stateful orchestration that tracks what happened, what failed, and what to do next.",
+            "4. Instrument every tool call\n\nLog inputs, outputs, and failures. Without this, you can't recover from errors. Build the feedback loop before scaling the agent.",
+            "5. Pick one broken handoff\n\nFind the workflow that fails most often. Fix that single handoff this week. Does your agent survive a real failure?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Your agent works in demo, not in production",
+            "Data silos and brittle APIs break real workflows",
+            "You need stateful orchestration, not better language models",
+            "Start logging every tool call for failure recovery",
+            "Pick one broken handoff and fix it this week"
+          ]
+        },
+        "instagram": {
+          "caption": "Your agent nails the demo, then dies the moment it touches real data.\n\nMost enterprise pilots never reach deployment. Not because the model is weak — because data sits in silos and APIs break at the handoffs. 🧩\n\nBetter LLMs won't fix that. Stateful orchestration will — tracking what ran, what failed, what's next.\n\nSo log every tool call: inputs, outputs, failures. Without that loop, you can't recover. 🔍\n\nIf you build with agents, your next sprint changes: pick the handoff that breaks most and fix that one thing. 🛠️\n\nWhich workflow would you fix first? 👇"
+        }
+      },
+      "instagram_caption": "Your agent nails the demo, then dies the moment it touches real data.\n\nMost enterprise pilots never reach deployment. Not because the model is weak — because data sits in silos and APIs break at the handoffs. 🧩\n\nBetter LLMs won't fix that. Stateful orchestration will — tracking what ran, what failed, what's next.\n\nSo log every tool call: inputs, outputs, failures. Without that loop, you can't recover. 🔍\n\nIf you build with agents, your next sprint changes: pick the handoff that breaks most and fix that one thing. 🛠️\n\nWhich workflow would you fix first? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Your agent works in demo, not production",
+          "description": "Real workflows hit data silos and brittle APIs that break everything. This is an architecture problem, not a model problem.",
+          "visual_hint": "Split screen: perfect demo vs broken production",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Silos fragment every workflow you build",
+          "description": "Each tool sits in its own database. Handoffs between them fail silently until production breaks.",
+          "visual_hint": "Disconnected databases with broken handoff arrows",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Better LLMs won't fix broken handoffs",
+          "description": "The missing piece is stateful orchestration tracking what happened, what failed, and what to do next.",
+          "visual_hint": "Orchestration layer connecting tool calls together",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Instrument every tool call for recovery",
+          "description": "Log inputs, outputs, and failures. Without this feedback loop, you cannot recover errors before scaling.",
+          "visual_hint": "Dashboard logging tool call inputs and failures",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "computer monitor",
+          "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next agent pilot",
+          "description": "Find your most frequent workflow failure and fix that single broken handoff this week.",
+          "visual_hint": "Single broken handoff highlighted in workflow map",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-14T16:04:00.347Z",
+      "sourceId": "1f726ce1f96de6288e48fbc59e91d2ff"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "microsoft-ai-opens-review-on-humanist-ai-code-of-c",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "pubDate": "Mon, 14 Sep 2026 15:30:41 +0000",
+      "slides": [
+        "Can Microsoft police AI ethics and still sell it?",
+        "Its new review targets a 'Humanist' conduct code",
+        "But enforcement depends on voluntary self-reporting",
+        "Your vendor contracts may soon require this code",
+        "Read the fine print before renewing any AI license"
+      ],
+      "thread_text": [
+        "1. The Real Question\n\nMicrosoft just dropped a new AI ethics review that demands a 'Humanist' conduct code. But who actually enforces it? Spoiler: the company itself, voluntarily.",
+        "2. A Code Without Teeth\n\nThe review asks AI vendors to self-report ethical lapses. That means the same companies selling the tech are the ones deciding if they crossed a line.",
+        "3. Your Contract, Their Rules\n\nStarting soon, your vendor agreements may force you to adopt this code too. That means you inherit their ethical standards—and their blind spots.",
+        "4. Renewal Time Trap\n\nBefore you renew any AI license, read the fine print. You might be agreeing to audits, disclosures, or liability shifts you never saw coming.",
+        "5. What Will You Sign?\n\nNext time you click 'I agree' on an AI tool, ask yourself: are you buying a product or adopting a policy? Check your current contracts this week."
+      ],
+      "video_script": [
+        "Microsoft wants to police AI ethics while selling it.",
+        "Their new review pushes a humanist code of conduct.",
+        "But enforcement? Only voluntary self-reporting.",
+        "Your vendor contracts might soon require this code.",
+        "Read the fine print before renewing any AI license."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The Real Question\n\nMicrosoft just dropped a new AI ethics review that demands a 'Humanist' conduct code. But who actually enforces it? Spoiler: the company itself, voluntarily.",
+            "2. A Code Without Teeth\n\nThe review asks AI vendors to self-report ethical lapses. That means the same companies selling the tech are the ones deciding if they crossed a line.",
+            "3. Your Contract, Their Rules\n\nStarting soon, your vendor agreements may force you to adopt this code too. That means you inherit their ethical standards—and their blind spots.",
+            "4. Renewal Time Trap\n\nBefore you renew any AI license, read the fine print. You might be agreeing to audits, disclosures, or liability shifts you never saw coming.",
+            "5. What Will You Sign?\n\nNext time you click 'I agree' on an AI tool, ask yourself: are you buying a product or adopting a policy? Check your current contracts this week."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft wants to police AI ethics while selling it.",
+            "Their new review pushes a humanist code of conduct.",
+            "But enforcement? Only voluntary self-reporting.",
+            "Your vendor contracts might soon require this code.",
+            "Read the fine print before renewing any AI license."
+          ]
+        },
+        "instagram": {
+          "caption": "If you renew an AI license, you might be signing a code you never read. 👀\n\nMicrosoft opened a review on a \"Humanist\" AI conduct code.\n\nBut enforcement runs on voluntary self-reporting — the vendors police themselves.\n\nAnd your contracts may soon require you to adopt that same code. 📄\n\nFor anyone publishing content with AI tools, that means new audits or liability shifts buried in the fine print.\n\nCheck your current AI agreements before the next auto-renewal. 🔍\n\nAre you buying a product, or quietly adopting someone else's policy?"
+        }
+      },
+      "instagram_caption": "If you renew an AI license, you might be signing a code you never read. 👀\n\nMicrosoft opened a review on a \"Humanist\" AI conduct code.\n\nBut enforcement runs on voluntary self-reporting — the vendors police themselves.\n\nAnd your contracts may soon require you to adopt that same code. 📄\n\nFor anyone publishing content with AI tools, that means new audits or liability shifts buried in the fine print.\n\nCheck your current AI agreements before the next auto-renewal. 🔍\n\nAre you buying a product, or quietly adopting someone else's policy?",
+      "carousel_slides": [
+        {
+          "hook": "Who polices AI ethics? The sellers themselves.",
+          "description": "Microsoft's new review relies on vendors self-reporting ethical lapses, meaning the same companies selling AI decide if they crossed a line.",
+          "visual_hint": "Gavel beside glowing AI server",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "A code with no teeth.",
+          "description": "The Humanist conduct code is voluntary, so enforcement depends entirely on companies honestly reporting their own ethical failures.",
+          "visual_hint": "Checklist with unchecked boxes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office desk",
+          "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your contracts may enforce their blind spots.",
+          "description": "Upcoming vendor agreements might require you to adopt this code, inheriting both its ethical standards and its oversight gaps.",
+          "visual_hint": "Contract with blurred fine print",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "legal contract",
+          "image": "https://images.pexels.com/photos/4968569/pexels-photo-4968569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Read before you renew.",
+          "description": "Before renewing any AI license, check for hidden clauses on audits, disclosures, or liability shifts that could bind your business.",
+          "visual_hint": "Hand holding pen over document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person signing document",
+          "image": "https://images.pexels.com/photos/8815843/pexels-photo-8815843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next AI renewal.",
+          "description": "Review your current AI contracts this week and flag any clauses referencing the Humanist code or self-reporting obligations.",
+          "visual_hint": "Magnifying glass on contract clause",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "magnifying glass document",
+          "image": "https://images.pexels.com/photos/12719255/pexels-photo-12719255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-14T16:03:52.394Z",
+      "sourceId": "cb9c9c35cbd42599593dca71ac113c85"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "insight-partners-deven-parekh-on-why-the-firm-is-d",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -152162,6 +152578,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-di-sfoglia-con-mele-e-ricotta",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta di sfoglia con mele e ricotta",
+      "link": "https://ricette.giallozafferano.it/Torta-di-sfoglia-con-mele-e-ricotta.html",
+      "pubDate": "Mon, 14 Sep 2026 15:11:00 +0200",
+      "content": "Torta di pasta sfoglia con mele e ricotta: ricetta facile Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta di sfoglia con mele e ricotta /5 Ricetta proposta da Lulù Gargari CONDIVIDI INVIA FOTO COMMENTA SALVA Segui GialloZafferano su Google Seguici Difficoltà: Facile Preparazione: 30 min Cottura: 40 min Dosi per: 8 persone Costo: Basso Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta di pasta sfoglia con mele e ricotta è un dolce facile e goloso, ideale quando si ha voglia di un dessert fatto in casa senza dover realizzare un impasto da zero. La pasta sfoglia già pronta permette di realizzare un involucro croccante e dorato, che racchiude un ripieno morbido e cremoso . La dolcezza delle mele si sposa perfettamente con la freschezza della ricotta , per un abbinamento semplice ma d’effetto. Ottima da servire leggermente tiepida, questa fragrante torta ricotta e mele è una deliziosa alternativa alla classica torta di mele che si adatta a diversi momenti della giornata: si può gustare a colazione, per una merenda speciale oppure portarla in tavola a fine pasto, magari insieme a una pallina di gelato alla vaniglia. Provate anche voi la torta di sfoglia con mele e ricotta e divertitevi a creare altri irresistibili dolci con le mele e la pasta sfoglia : Strudel di mele con pasta sfoglia Sfogliette mele e crema Fagottini di pasta sfoglia con cuore di mela Sfogliatine alle mele Quadrotti di sfoglia alle mele INGREDIENTI Per uno stampo da 25x20 cm Pasta Sfoglia 2 rotoli rettangolari 460 g Mele Golden 600 g Ricotta vaccina 350 g Zucchero 60 g Uova 1 Estratto di vaniglia 1 Scorza di limone q.b. per la superficie Uova 1 Zucchero 2 cucchiai AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta di sfoglia con mele e ricotta Per preparare la torta di sfoglia con mele e ricotta, mettete in una ciotola la ricotta, poi aggiungete l’uovo 1 , lo zucchero 2 e l’estratto di vaniglia 3 . Mescolate il composto 4 e occupatevi delle mele: sbucciatele e dividetele prima a spicchi 5 , poi a fettine e infine a cubetti piuttosto piccoli 6 . Unite i cubetti di mela all’impasto 7 , poi aromatizzate con la scorza di limone grattugiata 8 e amalgamate bene il tutto 9 . Ora adagiate il primo rotolo di pasta sfoglia con la sua carta forno in uno stampo rettangolare da 20x25 cm, poi bucherellatelo con una forchetta 10 . Versate il ripieno di mele e ricotta all’interno 11 e livellatelo in modo uniforme 12 . Ricoprite con il secondo rotolo di pasta sfoglia 13 e sigillate bene i bordi 14 . Praticate dei tagli in diagonale sulla superficie 15 . Spennellate la superficie con l’uovo sbattuto 16 e spolverizzatela con lo zucchero 17 . Cuocete in forno statico preriscaldato a 180° per circa 35-40 minuti, fino a doratura. Sfornate e lasciate intiepidire prima di servire la vostra torta di sfoglia con mele e ricotta 18 ! Conservazione La torta di sfoglia con mele e ricotta si può conservare in frigorifero per 3 giorni; prima di servirla si consiglia di scaldarla in forno a 180° per qualche minuto. Potete congelarla dopo la cottura, per poi infornarlo ancora congelato nel forno a 180°. Consiglio Puoi aromatizzare il ripieno con un pizzico di cannella oppure arricchirlo con dell’uvetta precedentemente ammollata. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Mela Zucchero Limone Uovo Ricotta Scopri tutto sugli ingredienti Presente in: Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> ULTIME RICETTE Torta di sfoglia con mele e ricotta Polpettone di manzo 5.0 Tatin ai fichi con crema al Parmigiano 5.0 SCOPRI Torta di mele con pasta sfoglia Torta con ricotta e mele Torta di mele senza burro Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Sfoglia dorata con cuore cremoso di mele",
+        "Sfoglia, ricotta, mele, uovo e vaniglia",
+        "Mescola ricotta, uovo, mele, scorza di limone",
+        "Sigilla la sfoglia e cuoci a 180° per 40 minuti",
+        "Aromatizza con cannella o uvetta ammollata"
+      ],
+      "instagram_caption": "Sfoglia dorata, cuore cremoso: questa torta di mele e ricotta è pura poesia d'autunno 🍎\nBasta poco: stendi la sfoglia, mescola ricotta, uovo, mele e scorza di limone, poi sigilla tutto e inforna a 180° per 40 minuti.\nIl profumo che invade la cucina vale già l'attesa, fidati.\nUna spolverata di cannella o qualche uvetta ammollata e diventa irresistibile 🍂\nSalva il post e provala questo weekend! 🥧",
+      "formats": {
+        "instagram": {
+          "caption": "Sfoglia dorata, cuore cremoso: questa torta di mele e ricotta è pura poesia d'autunno 🍎\nBasta poco: stendi la sfoglia, mescola ricotta, uovo, mele e scorza di limone, poi sigilla tutto e inforna a 180° per 40 minuti.\nIl profumo che invade la cucina vale già l'attesa, fidati.\nUna spolverata di cannella o qualche uvetta ammollata e diventa irresistibile 🍂\nSalva il post e provala questo weekend! 🥧"
+        },
+        "tiktok": {
+          "script": [
+            "Sfoglia dorata, cuore cremoso di mele: si parte!",
+            "Prendo sfoglia, ricotta, mele, uovo e vaniglia.",
+            "Mescolo ricotta, uovo, mele e scorza di limone.",
+            "Sigillo la sfoglia e in forno a 180° per 40 minuti.",
+            "Aromatizzo con cannella o uvetta ammollata. Buonissima!"
+          ]
+        },
+        "x": {
+          "thread": [
+            "Sfoglia dorata che scrocchia sotto i denti, cuore cremoso di mele e ricotta. Una torta che sembra complicata ma ti ruba 10 minuti. Preparati perché finisce in un attimo.",
+            "Ti serve: 1 rotolo di sfoglia, 250g di ricotta, 2 mele, 1 uovo, vaniglia, scorza di limone. Nient'altro. La magia è nella semplicità degli ingredienti.",
+            "Mescola ricotta, uovo, mele a cubetti, scorza di limone e vaniglia. Versa sulla sfoglia, ripiega i bordi e sigilla bene. Il gesto chiave? Non lesinare sulla ricotta.",
+            "In forno a 180° per 40 minuti. La sfoglia deve diventare ambrata, il ripieno gonfio e profumato. Non aprirlo prima: resisti.",
+            "Trucco finale: cannella o uvetta ammollata nel ripieno e la porti a un altro livello. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Sfoglia dorata, cuore cremoso di mele: si parte!",
+        "Prendo sfoglia, ricotta, mele, uovo e vaniglia.",
+        "Mescolo ricotta, uovo, mele e scorza di limone.",
+        "Sigillo la sfoglia e in forno a 180° per 40 minuti.",
+        "Aromatizzo con cannella o uvetta ammollata. Buonissima!"
+      ],
+      "thread_text": [
+        "Sfoglia dorata che scrocchia sotto i denti, cuore cremoso di mele e ricotta. Una torta che sembra complicata ma ti ruba 10 minuti. Preparati perché finisce in un attimo.",
+        "Ti serve: 1 rotolo di sfoglia, 250g di ricotta, 2 mele, 1 uovo, vaniglia, scorza di limone. Nient'altro. La magia è nella semplicità degli ingredienti.",
+        "Mescola ricotta, uovo, mele a cubetti, scorza di limone e vaniglia. Versa sulla sfoglia, ripiega i bordi e sigilla bene. Il gesto chiave? Non lesinare sulla ricotta.",
+        "In forno a 180° per 40 minuti. La sfoglia deve diventare ambrata, il ripieno gonfio e profumato. Non aprirlo prima: resisti.",
+        "Trucco finale: cannella o uvetta ammollata nel ripieno e la porti a un altro livello. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Sfoglia dorata, cuore cremoso di mele",
+          "description": "Una torta croccante fuori e vellutata dentro, pronta a conquistare al primo morso.",
+          "visual_hint": "sfoglia dorata cuore cremoso",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "apple ricotta tart"
+        },
+        {
+          "hook": "Tre ingredienti, un capolavoro",
+          "description": "Sfoglia, ricotta e mele: la semplicità che si trasforma in dolcezza irresistibile.",
+          "visual_hint": "ingredienti freschi sul tavolo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "apple ricotta ingredients",
+          "image": "https://images.pexels.com/photos/7113110/pexels-photo-7113110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mescola e profuma di limone",
+          "description": "Unisci ricotta, uovo, mele e scorza di limone per una crema profumata e vellutata.",
+          "visual_hint": "mescolando crema di ricotta",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "ricotta mixing bowl",
+          "image": "https://images.pexels.com/photos/33775639/pexels-photo-33775639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Sigilla e inforna a 180°",
+          "description": "Chiudi la sfoglia, spennella e cuoci per 40 minuti fino a doratura perfetta.",
+          "visual_hint": "mani che sigillano la sfoglia",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "sealing puff pastry",
+          "image": "https://images.pexels.com/photos/28907088/pexels-photo-28907088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Cannella o uvetta? Scegli il tocco",
+          "description": "Aromatizza, lascia intiepidire e servi: ogni fetta è un abbraccio di gusto.",
+          "visual_hint": "fetta di torta servita",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "apple tart slice",
+          "image": "https://images.pexels.com/photos/36340982/pexels-photo-36340982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "pasta sfoglia",
+        "mele",
+        "ricotta"
+      ],
+      "image": "https://www.giallozafferano.it/images/366-36617/Torta-di-sfoglia-con-mele-e-ricotta_650x433_wm.jpg",
+      "savedAt": "2026-09-14T16:12:41.804Z",
+      "sourceId": "4318af6ab480ac6e4b5dc5f60ea90ec1"
+    },
     {
       "schema_version": 2,
       "agent": "food",

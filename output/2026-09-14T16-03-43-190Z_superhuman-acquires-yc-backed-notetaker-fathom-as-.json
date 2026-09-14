@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "superhuman-acquires-yc-backed-notetaker-fathom-as-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+  "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+  "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
+  "slides": [
+    "Can Superhuman's Fathom buy reshape meeting AI?",
+    "Fathom raised $17M from YC just years ago",
+    "But Superhuman plans full agentic meeting takeover",
+    "Your notetaker may soon auto-execute follow-ups",
+    "Test one meeting workflow before this shifts"
+  ],
+  "thread_text": [
+    "1. Superhuman's Fathom buy\n\nSuperhuman just acquired Fathom, the AI notetaker that raised $17M from YC just years ago. This isn't a talent grab — it's a full agentic meeting takeover.",
+    "2. From notetaker to agent\n\nFathom was built to listen and summarize. Under Superhuman, it's being rebuilt to act on what it hears — not just record it.",
+    "3. Your follow-ups, automated\n\nSoon your notetaker won't just write the recap. It will draft replies, assign tasks, and execute follow-ups without you asking.",
+    "4. Meetings that run themselves\n\nThe agentic layer means meetings stop being conversations you attend and become workflows that run on their own. You just show up.",
+    "5. Test one workflow now\n\nTake a recent meeting and simulate the follow-up manually. If it takes 20 minutes, ask yourself: is saving that time worth losing control of the reply?"
+  ],
+  "video_script": [
+    "Superhuman just bought Fathom, an AI notetaker.",
+    "Fathom raised seventeen million from Y Combinator.",
+    "Now Superhuman wants meetings to run themselves.",
+    "Your notetaker may soon send follow-ups automatically.",
+    "Test one meeting workflow before this becomes normal."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Superhuman's Fathom buy\n\nSuperhuman just acquired Fathom, the AI notetaker that raised $17M from YC just years ago. This isn't a talent grab — it's a full agentic meeting takeover.",
+        "2. From notetaker to agent\n\nFathom was built to listen and summarize. Under Superhuman, it's being rebuilt to act on what it hears — not just record it.",
+        "3. Your follow-ups, automated\n\nSoon your notetaker won't just write the recap. It will draft replies, assign tasks, and execute follow-ups without you asking.",
+        "4. Meetings that run themselves\n\nThe agentic layer means meetings stop being conversations you attend and become workflows that run on their own. You just show up.",
+        "5. Test one workflow now\n\nTake a recent meeting and simulate the follow-up manually. If it takes 20 minutes, ask yourself: is saving that time worth losing control of the reply?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Superhuman just bought Fathom, an AI notetaker.",
+        "Fathom raised seventeen million from Y Combinator.",
+        "Now Superhuman wants meetings to run themselves.",
+        "Your notetaker may soon send follow-ups automatically.",
+        "Test one meeting workflow before this becomes normal."
+      ]
+    },
+    "instagram": {
+      "caption": "An AI notetaker that raised $17M from Y Combinator is now owned by Superhuman 👀\n\nFathom used to just listen and summarize your calls. Now it's being rebuilt to act on what it hears.\n\nThat means drafting replies, assigning tasks, and firing off follow-ups on its own.\n\nIf you publish content or run client calls, the recap won't be the end product anymore. The action will happen without you.\n\nTry one thing this week: replay a recent meeting and time how long you spend on follow-ups manually 🔁\n\nWould you hand that 20 minutes to an agent that writes the reply for you? 🤔"
+    }
+  },
+  "instagram_caption": "An AI notetaker that raised $17M from Y Combinator is now owned by Superhuman 👀\n\nFathom used to just listen and summarize your calls. Now it's being rebuilt to act on what it hears.\n\nThat means drafting replies, assigning tasks, and firing off follow-ups on its own.\n\nIf you publish content or run client calls, the recap won't be the end product anymore. The action will happen without you.\n\nTry one thing this week: replay a recent meeting and time how long you spend on follow-ups manually 🔁\n\nWould you hand that 20 minutes to an agent that writes the reply for you? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Meetings that run themselves?",
+      "description": "Superhuman's acquisition of Fathom turns passive notetaking into an agent that acts on what it hears.",
+      "visual_hint": "AI brain interface with gears",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Fathom raised $17M from YC",
+      "description": "Just years ago, Fathom was a simple notetaker. Now it's the core of an agentic meeting takeover.",
+      "visual_hint": "startup pitch deck and laptop",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "startup office",
+      "image": "https://images.pexels.com/photos/5324900/pexels-photo-5324900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your notetaker will auto-execute follow-ups",
+      "description": "Soon it will draft replies, assign tasks, and handle post-meeting work without you lifting a finger.",
+      "visual_hint": "automated email reply interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "email inbox",
+      "image": "https://images.pexels.com/photos/3850252/pexels-photo-3850252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You just show up, it runs",
+      "description": "Meetings become autonomous workflows. The agent handles everything, from recap to task completion.",
+      "visual_hint": "calendar with automated checkmarks",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your follow-up workflow now",
+      "description": "Manually simulate a recent meeting's follow-up. If it takes 20 minutes, is losing control worth it?",
+      "visual_hint": "stopwatch and notepad on desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "desk stopwatch",
+      "image": "https://images.pexels.com/photos/9944852/pexels-photo-9944852.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+  "savedAt": "2026-09-14T16:04:09.072Z",
+  "sourceId": "d360e52aaf33362c48972d44df980bd3"
+}
