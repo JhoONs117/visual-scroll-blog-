@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "early-anthropic-hire-former-metr-coo-have-found-a-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+  "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+  "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
+  "slides": [
+    "Can rogue AI agents be tamed? These founders think so.",
+    "Early Anthropic hire and ex-METR COO team up.",
+    "Their method predicts misbehavior before it happens.",
+    "You can now pressure-test your AI agents.",
+    "Test one agent this week; don't wait for a crisis."
+  ],
+  "thread_text": [
+    "1. Can rogue AI be tamed?\n\nEx-Anthropic hire and former METR COO just teamed up. They claim they can predict an AI agent's misbehavior before it happens.",
+    "2. The method: forecast misbehavior\n\nInstead of reacting to failures, they pressure-test agents in advance. You simulate risky scenarios to see what breaks.",
+    "3. Pressure-test your agents now\n\nYou can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+    "4. Don't wait for a crisis\n\nStart testing one agent this week. The tools are available—no need to wait for a major incident.",
+    "5. Test one agent today\n\nPick a single agent, run a pressure test, and see what you find. If you haven't done it, start there."
+  ],
+  "video_script": [
+    "Rogue AI agents? These founders say they can be tamed.",
+    "An early Anthropic hire and ex-METR COO teamed up.",
+    "Their method predicts misbehavior before it happens.",
+    "Now you can pressure-test your own AI agents.",
+    "Test one this week. Don't wait for a crisis."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can rogue AI be tamed?\n\nEx-Anthropic hire and former METR COO just teamed up. They claim they can predict an AI agent's misbehavior before it happens.",
+        "2. The method: forecast misbehavior\n\nInstead of reacting to failures, they pressure-test agents in advance. You simulate risky scenarios to see what breaks.",
+        "3. Pressure-test your agents now\n\nYou can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+        "4. Don't wait for a crisis\n\nStart testing one agent this week. The tools are available—no need to wait for a major incident.",
+        "5. Test one agent today\n\nPick a single agent, run a pressure test, and see what you find. If you haven't done it, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Rogue AI agents? These founders say they can be tamed.",
+        "An early Anthropic hire and ex-METR COO teamed up.",
+        "Their method predicts misbehavior before it happens.",
+        "Now you can pressure-test your own AI agents.",
+        "Test one this week. Don't wait for a crisis."
+      ]
+    },
+    "instagram": {
+      "caption": "If an AI agent goes off the rails, you usually find out after the damage is done. 🚨\n\nA former Anthropic hire and an ex-METR COO built a way to pressure-test agents in advance.\n\nYou simulate risky scenarios and predict misbehavior before it happens.\n\nSo you can catch costly failures early instead of reacting to a crisis. 🧪\n\nIf you run AI agents for content or work tasks, you can test one yourself this week. 🔍\n\nWhich single agent would you pressure-test first? 👇"
+    }
+  },
+  "instagram_caption": "If an AI agent goes off the rails, you usually find out after the damage is done. 🚨\n\nA former Anthropic hire and an ex-METR COO built a way to pressure-test agents in advance.\n\nYou simulate risky scenarios and predict misbehavior before it happens.\n\nSo you can catch costly failures early instead of reacting to a crisis. 🧪\n\nIf you run AI agents for content or work tasks, you can test one yourself this week. 🔍\n\nWhich single agent would you pressure-test first? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Can you predict AI misbehavior?",
+      "description": "An ex-Anthropic hire and former METR COO predict rogue AI actions before they happen — stopping costly failures in advance.",
+      "visual_hint": "Glowing circuit warning symbol on dark screen",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "circuit board closeup"
+    },
+    {
+      "hook": "Dream team to tame rogue AI",
+      "description": "Two top safety experts teamed up. Their combined experience now targets one mission: stopping AI agents before they go rogue.",
+      "layout_type": "right-focus",
+      "icon": "heart",
+      "visual_hint": "Two silhouettes shaking hands, server backdrop",
+      "image_query": "server room corridor",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Forecast misbehavior before it happens",
+      "description": "Instead of reacting to failures, they pressure-test agents in advance. Simulate risky scenarios to see exactly what breaks.",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "visual_hint": "Sensor graph spiking red alert",
+      "image_query": "data center servers",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Pressure-test your agents now",
+      "description": "You can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+      "layout_type": "human-hand",
+      "icon": "check",
+      "visual_hint": "Hand tapping test button on tablet",
+      "image_query": "tablet touchscreen testing",
+      "image": "https://images.pexels.com/photos/25809238/pexels-photo-25809238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one agent today",
+      "description": "Pick a single agent, run a pressure test this week, and see what you find. Start there before a crisis hits.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Bookmark icon over laptop keyboard",
+      "image_query": "laptop coding desk",
+      "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?resize=1200,845",
+  "savedAt": "2026-09-15T20:41:06.289Z",
+  "sourceId": "06261c41c45c66cdd264d33700407190"
+}

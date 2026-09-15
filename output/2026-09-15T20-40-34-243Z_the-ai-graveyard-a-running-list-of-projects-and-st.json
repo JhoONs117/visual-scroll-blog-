@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-graveyard-a-running-list-of-projects-and-st",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+  "slides": [
+    "Why do AI startups die while giants thrive?",
+    "Funding dries up before product-market fit hits.",
+    "Most failures aren't tech—they're distribution and timing.",
+    "Your next AI bet must validate demand before scaling.",
+    "Check if your idea solves a real, urgent pain."
+  ],
+  "thread_text": [
+    "1. The AI startup graveyard\n\nMost AI startups fail not because the tech breaks, but because funding runs out before they ever find product-market fit. Giants can burn billions; you can't.",
+    "2. Distribution kills, not code\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.",
+    "3. The scaling trap\n\nFounders pour cash into growth before proving anyone urgently needs the product. That's how you burn a runway in months.",
+    "4. Validate before you build\n\nTalk to ten potential users this week. If they won't pay or switch, no amount of engineering will save you.",
+    "5. Does your idea pass?\n\nAsk: does this solve a real, urgent pain someone has today? If you hesitate, you already have your answer."
+  ],
+  "video_script": [
+    "Most AI startups don't die from bad tech.",
+    "They run out of money before finding real users.",
+    "Giants survive because they can afford to wait.",
+    "Validate demand first, then scale. Or burn out.",
+    "Does your idea solve an urgent pain today?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI startup graveyard\n\nMost AI startups fail not because the tech breaks, but because funding runs out before they ever find product-market fit. Giants can burn billions; you can't.",
+        "2. Distribution kills, not code\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.",
+        "3. The scaling trap\n\nFounders pour cash into growth before proving anyone urgently needs the product. That's how you burn a runway in months.",
+        "4. Validate before you build\n\nTalk to ten potential users this week. If they won't pay or switch, no amount of engineering will save you.",
+        "5. Does your idea pass?\n\nAsk: does this solve a real, urgent pain someone has today? If you hesitate, you already have your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Most AI startups don't die from bad tech.",
+        "They run out of money before finding real users.",
+        "Giants survive because they can afford to wait.",
+        "Validate demand first, then scale. Or burn out.",
+        "Does your idea solve an urgent pain today?"
+      ]
+    },
+    "instagram": {
+      "caption": "Most AI startups don't die from broken code. They die from empty bank accounts before anyone ever wanted the product.\n\nGiants can burn billions chasing scale. You can't. 💸\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.\n\nValidate demand before you build. Talk to ten potential users this week — if they won't pay or switch, no engineering saves you. 🪦\n\nDoes your idea solve a real, urgent pain someone has today? If you hesitate, you already have your answer. 🤔"
+    }
+  },
+  "instagram_caption": "Most AI startups don't die from broken code. They die from empty bank accounts before anyone ever wanted the product.\n\nGiants can burn billions chasing scale. You can't. 💸\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.\n\nValidate demand before you build. Talk to ten potential users this week — if they won't pay or switch, no engineering saves you. 🪦\n\nDoes your idea solve a real, urgent pain someone has today? If you hesitate, you already have your answer. 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Why do AI giants survive while startups die?",
+      "description": "Giants burn billions on failed bets; startups run out of funding before finding product-market fit. That asymmetry decides who lives.",
+      "visual_hint": "Extinguished candle beside glowing server racks",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Distribution kills startups, not bad code",
+      "description": "The AI graveyard is full of brilliant models nobody ever used. Reach and timing decide survival, not benchmark scores.",
+      "visual_hint": "Abandoned warehouse with tangled cables",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty warehouse",
+      "image": "https://images.pexels.com/photos/6028170/pexels-photo-6028170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Scaling before validation burns your runway",
+      "description": "Founders pour cash into growth before proving urgent demand exists. That single mistake can burn an entire runway in months.",
+      "visual_hint": "Rocket exploding on launch pad",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "rocket launch pad",
+      "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Validate demand before you build anything",
+      "description": "Talk to ten potential users this week. If they won't pay or switch, no amount of engineering will save your startup.",
+      "visual_hint": "Hand holding smartphone with survey",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "smartphone hand",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next AI bet",
+      "description": "Ask yourself now: does your idea solve a real, urgent pain today? If you hesitate, you already have your answer.",
+      "visual_hint": "Open notebook and pen on desk",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "open notebook",
+      "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+  "savedAt": "2026-09-15T20:40:50.146Z",
+  "sourceId": "7eb39231f1badccce11d7bdabd4e2a67"
+}

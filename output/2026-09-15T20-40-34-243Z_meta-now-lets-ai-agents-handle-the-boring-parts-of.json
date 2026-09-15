@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-now-lets-ai-agents-handle-the-boring-parts-of",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+  "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+  "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+  "slides": [
+    "Meta's new AI agents aim to automate your WhatsApp Business setup.",
+    "The boring parts: forms, catalogs, and welcome messages.",
+    "Surprise: AI can now act as a full onboarding manager.",
+    "You can skip the setup grind and focus on sales.",
+    "Try it on your next business account today."
+  ],
+  "thread_text": [
+    "1. Meta's AI takeover\n\nMeta's new AI agents can set up your WhatsApp Business profile from scratch, handling forms, catalogs, and welcome messages automatically.",
+    "2. The boring setup\n\nForms, catalogs, welcome messages — normally hours of manual work. AI now does it all without you lifting a finger.",
+    "3. AI as manager\n\nSurprise: these agents don't just assist — they act as a full onboarding manager, making decisions and organizing your entire setup.",
+    "4. Skip the grind\n\nYou can finally skip the tedious setup and focus on what matters: closing sales and growing your business.",
+    "5. Try it now\n\nOpen your WhatsApp Business account today and let the AI agent handle the setup. How much time will you save?"
+  ],
+  "video_script": [
+    "Meta's new AI agents automate your WhatsApp Business setup.",
+    "They handle boring forms, catalogs, and welcome messages for you.",
+    "Surprise: AI acts as a full onboarding manager.",
+    "Skip the setup grind and focus on sales.",
+    "Try it on your next business account today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Meta's AI takeover\n\nMeta's new AI agents can set up your WhatsApp Business profile from scratch, handling forms, catalogs, and welcome messages automatically.",
+        "2. The boring setup\n\nForms, catalogs, welcome messages — normally hours of manual work. AI now does it all without you lifting a finger.",
+        "3. AI as manager\n\nSurprise: these agents don't just assist — they act as a full onboarding manager, making decisions and organizing your entire setup.",
+        "4. Skip the grind\n\nYou can finally skip the tedious setup and focus on what matters: closing sales and growing your business.",
+        "5. Try it now\n\nOpen your WhatsApp Business account today and let the AI agent handle the setup. How much time will you save?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta's new AI agents automate your WhatsApp Business setup.",
+        "They handle boring forms, catalogs, and welcome messages for you.",
+        "Surprise: AI acts as a full onboarding manager.",
+        "Skip the setup grind and focus on sales.",
+        "Try it on your next business account today."
+      ]
+    },
+    "instagram": {
+      "caption": "Setting up a WhatsApp Business profile used to mean hours of forms, catalogs, and welcome messages. 📋\n\nMeta's new AI agents now handle that setup automatically.\n\nThey don't just assist — they act as full onboarding managers, making decisions and organizing everything for you.\n\nIf you run or manage a business account, you can skip the grind and get straight to selling.\n\nWhat would you do with the hours you get back? ⏱️"
+    }
+  },
+  "instagram_caption": "Setting up a WhatsApp Business profile used to mean hours of forms, catalogs, and welcome messages. 📋\n\nMeta's new AI agents now handle that setup automatically.\n\nThey don't just assist — they act as full onboarding managers, making decisions and organizing everything for you.\n\nIf you run or manage a business account, you can skip the grind and get straight to selling.\n\nWhat would you do with the hours you get back? ⏱️",
+  "carousel_slides": [
+    {
+      "hook": "AI now sets up your entire business profile?",
+      "description": "Meta's new AI agents automate WhatsApp Business setup from scratch, handling forms, catalogs, and welcome messages automatically.",
+      "visual_hint": "AI robotic arm configuring phone interface",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "robot arm factory"
+    },
+    {
+      "hook": "Hours of tedious setup disappear instantly",
+      "description": "Forms, catalogs, welcome messages normally take hours of manual work. AI now completes everything without you lifting a finger.",
+      "visual_hint": "Messy paperwork transforming into clean digital form",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office paperwork desk",
+      "image": "https://images.pexels.com/photos/7428847/pexels-photo-7428847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not just assisting — it decides for you",
+      "description": "These AI agents act as a full onboarding manager, making decisions and organizing your entire WhatsApp Business setup autonomously.",
+      "visual_hint": "Digital brain connecting multiple business nodes",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "network server room",
+      "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Stop grinding, start closing more sales",
+      "description": "Skip the tedious setup completely and focus on what matters: closing sales and growing your business faster than before.",
+      "visual_hint": "Hand turning phone toward sales chart",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "business handshake meeting",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this — let AI handle setup today",
+      "description": "Open your WhatsApp Business account now and let the AI agent handle everything. Comment how much time you'd save.",
+      "visual_hint": "Phone with WhatsApp Business opening screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone mobile phone",
+      "image": "https://images.pexels.com/photos/30639091/pexels-photo-30639091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T20:40:42.141Z",
+  "sourceId": "c8e966977fdfbf219f7d7c920d00d133"
+}

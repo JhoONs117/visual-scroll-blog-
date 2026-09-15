@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "evvy-raises-40m-as-it-seeks-to-further-women-s-hea",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+  "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+  "pubDate": "Tue, 15 Sep 2026 14:13:59 +0000",
+  "slides": [
+    "Evvy raises $40M, but what's the catch?",
+    "Funds go to vaginal microbiome research.",
+    "Surprise: data could predict preterm birth.",
+    "Doctors may soon prescribe microbiome tests.",
+    "Ask your doctor about vaginal microbiome testing."
+  ],
+  "thread_text": [
+    "1. $40M for a test nobody orders\n\nEvvy just raised a Series A to study the vaginal microbiome, but the money isn't for a product you can buy — it's for research that could change what your doctor does next.",
+    "2. The preterm birth clue\n\nHidden in that data: microbiome signatures that might predict preterm birth months before symptoms. That's not a wellness trend, that's obstetrics.",
+    "3. Your doctor's new prescription\n\nIf the research holds, the next step isn't a supplement — it's a test your OB orders at your annual visit, like a Pap smear.",
+    "4. The bottleneck nobody mentions\n\nMost doctors weren't trained to read these tests. The science is moving faster than the exam room.",
+    "5. Ask this at your next appointment\n\nNext time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not."
+  ],
+  "video_script": [
+    "Evvy raised forty million dollars for vaginal microbiome research.",
+    "The data might predict preterm birth before symptoms appear.",
+    "Soon your doctor could prescribe a microbiome test at checkups.",
+    "But most doctors weren't trained to read those results.",
+    "Ask your doctor about vaginal microbiome testing at your next visit."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $40M for a test nobody orders\n\nEvvy just raised a Series A to study the vaginal microbiome, but the money isn't for a product you can buy — it's for research that could change what your doctor does next.",
+        "2. The preterm birth clue\n\nHidden in that data: microbiome signatures that might predict preterm birth months before symptoms. That's not a wellness trend, that's obstetrics.",
+        "3. Your doctor's new prescription\n\nIf the research holds, the next step isn't a supplement — it's a test your OB orders at your annual visit, like a Pap smear.",
+        "4. The bottleneck nobody mentions\n\nMost doctors weren't trained to read these tests. The science is moving faster than the exam room.",
+        "5. Ask this at your next appointment\n\nNext time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Evvy raised forty million dollars for vaginal microbiome research.",
+        "The data might predict preterm birth before symptoms appear.",
+        "Soon your doctor could prescribe a microbiome test at checkups.",
+        "But most doctors weren't trained to read those results.",
+        "Ask your doctor about vaginal microbiome testing at your next visit."
+      ]
+    },
+    "instagram": {
+      "caption": "Vaginal microbiome data might predict preterm birth months before symptoms show. 🧬\n\nEvvy raised $40M, but not to sell you a test. The money goes to research on bacteria in the vagina.\n\nIf it holds up, your OB could order this at your annual visit — like a Pap smear.\n\nHere's the gap: most doctors were never trained to read these results. The science is moving faster than the exam room.\n\nNext checkup, ask: \"Is vaginal microbiome testing something I should consider?\" If they say no, ask why not. 🩺\n\nWhat would you do with an answer months before symptoms? 💭"
+    }
+  },
+  "instagram_caption": "Vaginal microbiome data might predict preterm birth months before symptoms show. 🧬\n\nEvvy raised $40M, but not to sell you a test. The money goes to research on bacteria in the vagina.\n\nIf it holds up, your OB could order this at your annual visit — like a Pap smear.\n\nHere's the gap: most doctors were never trained to read these results. The science is moving faster than the exam room.\n\nNext checkup, ask: \"Is vaginal microbiome testing something I should consider?\" If they say no, ask why not. 🩺\n\nWhat would you do with an answer months before symptoms? 💭",
+  "carousel_slides": [
+    {
+      "hook": "What if a test predicted preterm birth?",
+      "description": "Evvy raised $40M to study vaginal microbiome data that might predict preterm birth months before symptoms—changing obstetrics, not wellness.",
+      "visual_hint": "Ultrasound image of fetus",
+      "layout_type": "hero",
+      "icon": "heart",
+      "image_query": "ultrasound fetal monitor"
+    },
+    {
+      "hook": "Why $40M for a test nobody orders?",
+      "description": "The Series A funds research, not a product. If successful, your OB could prescribe a microbiome test at your annual visit.",
+      "visual_hint": "Doctor holding prescription pad",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "doctor writing prescription",
+      "image": "https://images.pexels.com/photos/5998466/pexels-photo-5998466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your doctor wasn't trained for this",
+      "description": "Most doctors can't interpret vaginal microbiome tests yet. The science is moving faster than the exam room.",
+      "visual_hint": "Medical textbook with magnifying glass",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "medical textbook stethoscope",
+      "image": "https://images.pexels.com/photos/32254654/pexels-photo-32254654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "A Pap smear for your microbiome?",
+      "description": "If research holds, the next step isn't a supplement—it's a test your OB orders at your annual visit.",
+      "visual_hint": "Speculum and test tube",
+      "layout_type": "human-hand",
+      "icon": "waves",
+      "image_query": "medical test tube",
+      "image": "https://images.pexels.com/photos/4047150/pexels-photo-4047150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask this at your next checkup",
+      "description": "Next time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not.",
+      "visual_hint": "Calendar with appointment reminder",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "woman doctor appointment",
+      "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810",
+  "savedAt": "2026-09-15T20:40:58.548Z",
+  "sourceId": "de6c74e5fabd7a4c4e866056523a4673"
+}

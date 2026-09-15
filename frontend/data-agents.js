@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "early-anthropic-hire-former-metr-coo-have-found-a-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "slides": [
+        "Can rogue AI agents be tamed? These founders think so.",
+        "Early Anthropic hire and ex-METR COO team up.",
+        "Their method predicts misbehavior before it happens.",
+        "You can now pressure-test your AI agents.",
+        "Test one agent this week; don't wait for a crisis."
+      ],
+      "thread_text": [
+        "1. Can rogue AI be tamed?\n\nEx-Anthropic hire and former METR COO just teamed up. They claim they can predict an AI agent's misbehavior before it happens.",
+        "2. The method: forecast misbehavior\n\nInstead of reacting to failures, they pressure-test agents in advance. You simulate risky scenarios to see what breaks.",
+        "3. Pressure-test your agents now\n\nYou can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+        "4. Don't wait for a crisis\n\nStart testing one agent this week. The tools are available—no need to wait for a major incident.",
+        "5. Test one agent today\n\nPick a single agent, run a pressure test, and see what you find. If you haven't done it, start there."
+      ],
+      "video_script": [
+        "Rogue AI agents? These founders say they can be tamed.",
+        "An early Anthropic hire and ex-METR COO teamed up.",
+        "Their method predicts misbehavior before it happens.",
+        "Now you can pressure-test your own AI agents.",
+        "Test one this week. Don't wait for a crisis."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can rogue AI be tamed?\n\nEx-Anthropic hire and former METR COO just teamed up. They claim they can predict an AI agent's misbehavior before it happens.",
+            "2. The method: forecast misbehavior\n\nInstead of reacting to failures, they pressure-test agents in advance. You simulate risky scenarios to see what breaks.",
+            "3. Pressure-test your agents now\n\nYou can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+            "4. Don't wait for a crisis\n\nStart testing one agent this week. The tools are available—no need to wait for a major incident.",
+            "5. Test one agent today\n\nPick a single agent, run a pressure test, and see what you find. If you haven't done it, start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Rogue AI agents? These founders say they can be tamed.",
+            "An early Anthropic hire and ex-METR COO teamed up.",
+            "Their method predicts misbehavior before it happens.",
+            "Now you can pressure-test your own AI agents.",
+            "Test one this week. Don't wait for a crisis."
+          ]
+        },
+        "instagram": {
+          "caption": "If an AI agent goes off the rails, you usually find out after the damage is done. 🚨\n\nA former Anthropic hire and an ex-METR COO built a way to pressure-test agents in advance.\n\nYou simulate risky scenarios and predict misbehavior before it happens.\n\nSo you can catch costly failures early instead of reacting to a crisis. 🧪\n\nIf you run AI agents for content or work tasks, you can test one yourself this week. 🔍\n\nWhich single agent would you pressure-test first? 👇"
+        }
+      },
+      "instagram_caption": "If an AI agent goes off the rails, you usually find out after the damage is done. 🚨\n\nA former Anthropic hire and an ex-METR COO built a way to pressure-test agents in advance.\n\nYou simulate risky scenarios and predict misbehavior before it happens.\n\nSo you can catch costly failures early instead of reacting to a crisis. 🧪\n\nIf you run AI agents for content or work tasks, you can test one yourself this week. 🔍\n\nWhich single agent would you pressure-test first? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Can you predict AI misbehavior?",
+          "description": "An ex-Anthropic hire and former METR COO predict rogue AI actions before they happen — stopping costly failures in advance.",
+          "visual_hint": "Glowing circuit warning symbol on dark screen",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "circuit board closeup"
+        },
+        {
+          "hook": "Dream team to tame rogue AI",
+          "description": "Two top safety experts teamed up. Their combined experience now targets one mission: stopping AI agents before they go rogue.",
+          "layout_type": "right-focus",
+          "icon": "heart",
+          "visual_hint": "Two silhouettes shaking hands, server backdrop",
+          "image_query": "server room corridor",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Forecast misbehavior before it happens",
+          "description": "Instead of reacting to failures, they pressure-test agents in advance. Simulate risky scenarios to see exactly what breaks.",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "visual_hint": "Sensor graph spiking red alert",
+          "image_query": "data center servers",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Pressure-test your agents now",
+          "description": "You can already run these tests on your own AI agents. Early detection prevents costly failures and builds trust.",
+          "layout_type": "human-hand",
+          "icon": "check",
+          "visual_hint": "Hand tapping test button on tablet",
+          "image_query": "tablet touchscreen testing",
+          "image": "https://images.pexels.com/photos/25809238/pexels-photo-25809238.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test one agent today",
+          "description": "Pick a single agent, run a pressure test this week, and see what you find. Start there before a crisis hits.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Bookmark icon over laptop keyboard",
+          "image_query": "laptop coding desk",
+          "image": "https://images.pexels.com/photos/12899149/pexels-photo-12899149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/AIUC-founders-Rune-Kvist-Rajiv-Dattani.jpg?resize=1200,845",
+      "savedAt": "2026-09-15T20:41:06.289Z",
+      "sourceId": "06261c41c45c66cdd264d33700407190"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "evvy-raises-40m-as-it-seeks-to-further-women-s-hea",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "pubDate": "Tue, 15 Sep 2026 14:13:59 +0000",
+      "slides": [
+        "Evvy raises $40M, but what's the catch?",
+        "Funds go to vaginal microbiome research.",
+        "Surprise: data could predict preterm birth.",
+        "Doctors may soon prescribe microbiome tests.",
+        "Ask your doctor about vaginal microbiome testing."
+      ],
+      "thread_text": [
+        "1. $40M for a test nobody orders\n\nEvvy just raised a Series A to study the vaginal microbiome, but the money isn't for a product you can buy — it's for research that could change what your doctor does next.",
+        "2. The preterm birth clue\n\nHidden in that data: microbiome signatures that might predict preterm birth months before symptoms. That's not a wellness trend, that's obstetrics.",
+        "3. Your doctor's new prescription\n\nIf the research holds, the next step isn't a supplement — it's a test your OB orders at your annual visit, like a Pap smear.",
+        "4. The bottleneck nobody mentions\n\nMost doctors weren't trained to read these tests. The science is moving faster than the exam room.",
+        "5. Ask this at your next appointment\n\nNext time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not."
+      ],
+      "video_script": [
+        "Evvy raised forty million dollars for vaginal microbiome research.",
+        "The data might predict preterm birth before symptoms appear.",
+        "Soon your doctor could prescribe a microbiome test at checkups.",
+        "But most doctors weren't trained to read those results.",
+        "Ask your doctor about vaginal microbiome testing at your next visit."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $40M for a test nobody orders\n\nEvvy just raised a Series A to study the vaginal microbiome, but the money isn't for a product you can buy — it's for research that could change what your doctor does next.",
+            "2. The preterm birth clue\n\nHidden in that data: microbiome signatures that might predict preterm birth months before symptoms. That's not a wellness trend, that's obstetrics.",
+            "3. Your doctor's new prescription\n\nIf the research holds, the next step isn't a supplement — it's a test your OB orders at your annual visit, like a Pap smear.",
+            "4. The bottleneck nobody mentions\n\nMost doctors weren't trained to read these tests. The science is moving faster than the exam room.",
+            "5. Ask this at your next appointment\n\nNext time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Evvy raised forty million dollars for vaginal microbiome research.",
+            "The data might predict preterm birth before symptoms appear.",
+            "Soon your doctor could prescribe a microbiome test at checkups.",
+            "But most doctors weren't trained to read those results.",
+            "Ask your doctor about vaginal microbiome testing at your next visit."
+          ]
+        },
+        "instagram": {
+          "caption": "Vaginal microbiome data might predict preterm birth months before symptoms show. 🧬\n\nEvvy raised $40M, but not to sell you a test. The money goes to research on bacteria in the vagina.\n\nIf it holds up, your OB could order this at your annual visit — like a Pap smear.\n\nHere's the gap: most doctors were never trained to read these results. The science is moving faster than the exam room.\n\nNext checkup, ask: \"Is vaginal microbiome testing something I should consider?\" If they say no, ask why not. 🩺\n\nWhat would you do with an answer months before symptoms? 💭"
+        }
+      },
+      "instagram_caption": "Vaginal microbiome data might predict preterm birth months before symptoms show. 🧬\n\nEvvy raised $40M, but not to sell you a test. The money goes to research on bacteria in the vagina.\n\nIf it holds up, your OB could order this at your annual visit — like a Pap smear.\n\nHere's the gap: most doctors were never trained to read these results. The science is moving faster than the exam room.\n\nNext checkup, ask: \"Is vaginal microbiome testing something I should consider?\" If they say no, ask why not. 🩺\n\nWhat would you do with an answer months before symptoms? 💭",
+      "carousel_slides": [
+        {
+          "hook": "What if a test predicted preterm birth?",
+          "description": "Evvy raised $40M to study vaginal microbiome data that might predict preterm birth months before symptoms—changing obstetrics, not wellness.",
+          "visual_hint": "Ultrasound image of fetus",
+          "layout_type": "hero",
+          "icon": "heart",
+          "image_query": "ultrasound fetal monitor"
+        },
+        {
+          "hook": "Why $40M for a test nobody orders?",
+          "description": "The Series A funds research, not a product. If successful, your OB could prescribe a microbiome test at your annual visit.",
+          "visual_hint": "Doctor holding prescription pad",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "doctor writing prescription",
+          "image": "https://images.pexels.com/photos/5998466/pexels-photo-5998466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your doctor wasn't trained for this",
+          "description": "Most doctors can't interpret vaginal microbiome tests yet. The science is moving faster than the exam room.",
+          "visual_hint": "Medical textbook with magnifying glass",
+          "layout_type": "sensor-zoom",
+          "icon": "vibration",
+          "image_query": "medical textbook stethoscope",
+          "image": "https://images.pexels.com/photos/32254654/pexels-photo-32254654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "A Pap smear for your microbiome?",
+          "description": "If research holds, the next step isn't a supplement—it's a test your OB orders at your annual visit.",
+          "visual_hint": "Speculum and test tube",
+          "layout_type": "human-hand",
+          "icon": "waves",
+          "image_query": "medical test tube",
+          "image": "https://images.pexels.com/photos/4047150/pexels-photo-4047150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask this at your next checkup",
+          "description": "Next time you're due for a checkup, ask: 'Is vaginal microbiome testing something I should consider?' If they say no, ask why not.",
+          "visual_hint": "Calendar with appointment reminder",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "woman doctor appointment",
+          "image": "https://images.pexels.com/photos/7578797/pexels-photo-7578797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810",
+      "savedAt": "2026-09-15T20:40:58.548Z",
+      "sourceId": "de6c74e5fabd7a4c4e866056523a4673"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-graveyard-a-running-list-of-projects-and-st",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "slides": [
+        "Why do AI startups die while giants thrive?",
+        "Funding dries up before product-market fit hits.",
+        "Most failures aren't tech—they're distribution and timing.",
+        "Your next AI bet must validate demand before scaling.",
+        "Check if your idea solves a real, urgent pain."
+      ],
+      "thread_text": [
+        "1. The AI startup graveyard\n\nMost AI startups fail not because the tech breaks, but because funding runs out before they ever find product-market fit. Giants can burn billions; you can't.",
+        "2. Distribution kills, not code\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.",
+        "3. The scaling trap\n\nFounders pour cash into growth before proving anyone urgently needs the product. That's how you burn a runway in months.",
+        "4. Validate before you build\n\nTalk to ten potential users this week. If they won't pay or switch, no amount of engineering will save you.",
+        "5. Does your idea pass?\n\nAsk: does this solve a real, urgent pain someone has today? If you hesitate, you already have your answer."
+      ],
+      "video_script": [
+        "Most AI startups don't die from bad tech.",
+        "They run out of money before finding real users.",
+        "Giants survive because they can afford to wait.",
+        "Validate demand first, then scale. Or burn out.",
+        "Does your idea solve an urgent pain today?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI startup graveyard\n\nMost AI startups fail not because the tech breaks, but because funding runs out before they ever find product-market fit. Giants can burn billions; you can't.",
+            "2. Distribution kills, not code\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.",
+            "3. The scaling trap\n\nFounders pour cash into growth before proving anyone urgently needs the product. That's how you burn a runway in months.",
+            "4. Validate before you build\n\nTalk to ten potential users this week. If they won't pay or switch, no amount of engineering will save you.",
+            "5. Does your idea pass?\n\nAsk: does this solve a real, urgent pain someone has today? If you hesitate, you already have your answer."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Most AI startups don't die from bad tech.",
+            "They run out of money before finding real users.",
+            "Giants survive because they can afford to wait.",
+            "Validate demand first, then scale. Or burn out.",
+            "Does your idea solve an urgent pain today?"
+          ]
+        },
+        "instagram": {
+          "caption": "Most AI startups don't die from broken code. They die from empty bank accounts before anyone ever wanted the product.\n\nGiants can burn billions chasing scale. You can't. 💸\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.\n\nValidate demand before you build. Talk to ten potential users this week — if they won't pay or switch, no engineering saves you. 🪦\n\nDoes your idea solve a real, urgent pain someone has today? If you hesitate, you already have your answer. 🤔"
+        }
+      },
+      "instagram_caption": "Most AI startups don't die from broken code. They die from empty bank accounts before anyone ever wanted the product.\n\nGiants can burn billions chasing scale. You can't. 💸\n\nThe graveyard is full of brilliant models nobody used. Timing and reach decide who survives, not benchmark scores.\n\nValidate demand before you build. Talk to ten potential users this week — if they won't pay or switch, no engineering saves you. 🪦\n\nDoes your idea solve a real, urgent pain someone has today? If you hesitate, you already have your answer. 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Why do AI giants survive while startups die?",
+          "description": "Giants burn billions on failed bets; startups run out of funding before finding product-market fit. That asymmetry decides who lives.",
+          "visual_hint": "Extinguished candle beside glowing server racks",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Distribution kills startups, not bad code",
+          "description": "The AI graveyard is full of brilliant models nobody ever used. Reach and timing decide survival, not benchmark scores.",
+          "visual_hint": "Abandoned warehouse with tangled cables",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "empty warehouse",
+          "image": "https://images.pexels.com/photos/6028170/pexels-photo-6028170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Scaling before validation burns your runway",
+          "description": "Founders pour cash into growth before proving urgent demand exists. That single mistake can burn an entire runway in months.",
+          "visual_hint": "Rocket exploding on launch pad",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "rocket launch pad",
+          "image": "https://images.pexels.com/photos/38847781/pexels-photo-38847781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Validate demand before you build anything",
+          "description": "Talk to ten potential users this week. If they won't pay or switch, no amount of engineering will save your startup.",
+          "visual_hint": "Hand holding smartphone with survey",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "smartphone hand",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next AI bet",
+          "description": "Ask yourself now: does your idea solve a real, urgent pain today? If you hesitate, you already have your answer.",
+          "visual_hint": "Open notebook and pen on desk",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "open notebook",
+          "image": "https://images.pexels.com/photos/7657397/pexels-photo-7657397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "savedAt": "2026-09-15T20:40:50.146Z",
+      "sourceId": "7eb39231f1badccce11d7bdabd4e2a67"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "meta-now-lets-ai-agents-handle-the-boring-parts-of",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "slides": [
+        "Meta's new AI agents aim to automate your WhatsApp Business setup.",
+        "The boring parts: forms, catalogs, and welcome messages.",
+        "Surprise: AI can now act as a full onboarding manager.",
+        "You can skip the setup grind and focus on sales.",
+        "Try it on your next business account today."
+      ],
+      "thread_text": [
+        "1. Meta's AI takeover\n\nMeta's new AI agents can set up your WhatsApp Business profile from scratch, handling forms, catalogs, and welcome messages automatically.",
+        "2. The boring setup\n\nForms, catalogs, welcome messages — normally hours of manual work. AI now does it all without you lifting a finger.",
+        "3. AI as manager\n\nSurprise: these agents don't just assist — they act as a full onboarding manager, making decisions and organizing your entire setup.",
+        "4. Skip the grind\n\nYou can finally skip the tedious setup and focus on what matters: closing sales and growing your business.",
+        "5. Try it now\n\nOpen your WhatsApp Business account today and let the AI agent handle the setup. How much time will you save?"
+      ],
+      "video_script": [
+        "Meta's new AI agents automate your WhatsApp Business setup.",
+        "They handle boring forms, catalogs, and welcome messages for you.",
+        "Surprise: AI acts as a full onboarding manager.",
+        "Skip the setup grind and focus on sales.",
+        "Try it on your next business account today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Meta's AI takeover\n\nMeta's new AI agents can set up your WhatsApp Business profile from scratch, handling forms, catalogs, and welcome messages automatically.",
+            "2. The boring setup\n\nForms, catalogs, welcome messages — normally hours of manual work. AI now does it all without you lifting a finger.",
+            "3. AI as manager\n\nSurprise: these agents don't just assist — they act as a full onboarding manager, making decisions and organizing your entire setup.",
+            "4. Skip the grind\n\nYou can finally skip the tedious setup and focus on what matters: closing sales and growing your business.",
+            "5. Try it now\n\nOpen your WhatsApp Business account today and let the AI agent handle the setup. How much time will you save?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Meta's new AI agents automate your WhatsApp Business setup.",
+            "They handle boring forms, catalogs, and welcome messages for you.",
+            "Surprise: AI acts as a full onboarding manager.",
+            "Skip the setup grind and focus on sales.",
+            "Try it on your next business account today."
+          ]
+        },
+        "instagram": {
+          "caption": "Setting up a WhatsApp Business profile used to mean hours of forms, catalogs, and welcome messages. 📋\n\nMeta's new AI agents now handle that setup automatically.\n\nThey don't just assist — they act as full onboarding managers, making decisions and organizing everything for you.\n\nIf you run or manage a business account, you can skip the grind and get straight to selling.\n\nWhat would you do with the hours you get back? ⏱️"
+        }
+      },
+      "instagram_caption": "Setting up a WhatsApp Business profile used to mean hours of forms, catalogs, and welcome messages. 📋\n\nMeta's new AI agents now handle that setup automatically.\n\nThey don't just assist — they act as full onboarding managers, making decisions and organizing everything for you.\n\nIf you run or manage a business account, you can skip the grind and get straight to selling.\n\nWhat would you do with the hours you get back? ⏱️",
+      "carousel_slides": [
+        {
+          "hook": "AI now sets up your entire business profile?",
+          "description": "Meta's new AI agents automate WhatsApp Business setup from scratch, handling forms, catalogs, and welcome messages automatically.",
+          "visual_hint": "AI robotic arm configuring phone interface",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "robot arm factory"
+        },
+        {
+          "hook": "Hours of tedious setup disappear instantly",
+          "description": "Forms, catalogs, welcome messages normally take hours of manual work. AI now completes everything without you lifting a finger.",
+          "visual_hint": "Messy paperwork transforming into clean digital form",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office paperwork desk",
+          "image": "https://images.pexels.com/photos/7428847/pexels-photo-7428847.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Not just assisting — it decides for you",
+          "description": "These AI agents act as a full onboarding manager, making decisions and organizing your entire WhatsApp Business setup autonomously.",
+          "visual_hint": "Digital brain connecting multiple business nodes",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "network server room",
+          "image": "https://images.pexels.com/photos/5087172/pexels-photo-5087172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Stop grinding, start closing more sales",
+          "description": "Skip the tedious setup completely and focus on what matters: closing sales and growing your business faster than before.",
+          "visual_hint": "Hand turning phone toward sales chart",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "business handshake meeting",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this — let AI handle setup today",
+          "description": "Open your WhatsApp Business account now and let the AI agent handle everything. Comment how much time you'd save.",
+          "visual_hint": "Phone with WhatsApp Business opening screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone mobile phone",
+          "image": "https://images.pexels.com/photos/30639091/pexels-photo-30639091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+      "savedAt": "2026-09-15T20:40:42.141Z",
+      "sourceId": "c8e966977fdfbf219f7d7c920d00d133"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "aeo-startup-profound-hits-unicorn-valuation-raises",
       "prompt_version": "1.0.0",
       "status": "published",
