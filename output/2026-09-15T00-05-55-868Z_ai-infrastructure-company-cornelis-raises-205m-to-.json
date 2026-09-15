@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-infrastructure-company-cornelis-raises-205m-to-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+  "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
+  "slides": [
+    "Cornelis just raised $205M. What does it see that Nvidia doesn't?",
+    "Its tech connects GPUs from any vendor, not just Nvidia.",
+    "The round was led by Nvidia's own investor, surprising everyone.",
+    "If you run AI models, you can now mix cheaper GPUs.",
+    "Test one workload on non-Nvidia hardware this week."
+  ],
+  "thread_text": [
+    "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+    "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+    "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+    "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+    "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+  ],
+  "video_script": [
+    "Cornelis raised two hundred five million dollars.",
+    "Its tech connects GPUs from any vendor.",
+    "Nvidia's own investor led the round.",
+    "You can now mix cheaper GPUs for AI.",
+    "Test one workload on non-Nvidia hardware this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+        "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+        "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+        "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+        "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Cornelis raised two hundred five million dollars.",
+        "Its tech connects GPUs from any vendor.",
+        "Nvidia's own investor led the round.",
+        "You can now mix cheaper GPUs for AI.",
+        "Test one workload on non-Nvidia hardware this week."
+      ]
+    },
+    "instagram": {
+      "caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔"
+    }
+  },
+  "instagram_caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Nvidia's own investor just funded its rival?",
+      "description": "Cornelis raised $205M from a backer of Nvidia to connect GPUs from any vendor, breaking the lock on AI hardware.",
+      "visual_hint": "Overhead shot of data center GPUs",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Your AI compute doesn't need Nvidia",
+      "description": "Cornelis technology links GPUs across brands, so you no longer depend on one vendor's closed ecosystem for models.",
+      "visual_hint": "Hands plugging cables into GPU rack",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer cables",
+      "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "$205M bet against the chip giant",
+      "description": "The lead backer usually bets on Nvidia, but funded a startup that threatens its control over AI compute dominance.",
+      "visual_hint": "Investor hand signing funding document",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "stock market chart",
+      "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Mix cheaper GPUs without breaking pipelines",
+      "description": "If you run AI models, you can now combine lower-cost GPUs from different brands instead of staying locked to one.",
+      "visual_hint": "Engineer swapping GPU card in server",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "circuit board",
+      "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next GPU bill",
+      "description": "Test one workload on non-Nvidia hardware this week and check if it saves money without breaking your pipeline.",
+      "visual_hint": "Laptop running benchmark test results",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "computer monitor",
+      "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+  "savedAt": "2026-09-15T00:06:17.851Z",
+  "sourceId": "dbf09df0faf8afe35f78616918ceb53f"
+}

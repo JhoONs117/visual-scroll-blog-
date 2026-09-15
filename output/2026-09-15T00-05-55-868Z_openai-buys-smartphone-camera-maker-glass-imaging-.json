@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-buys-smartphone-camera-maker-glass-imaging-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+  "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+  "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+  "slides": [
+    "Why pay $300M for another camera startup?",
+    "Glass Imaging fixes distorted photos using AI restoration",
+    "Apple and Samsung already tried similar acquisitions",
+    "Your next phone may learn from this deal quietly",
+    "Check which camera AI your phone actually uses"
+  ],
+  "thread_text": [
+    "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+    "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+    "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+    "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+    "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+  ],
+  "video_script": [
+    "Someone paid three hundred million for camera AI.",
+    "Glass Imaging fixes broken photos after you take them.",
+    "Apple and Samsung tried this. It mostly failed.",
+    "Your next phone will use this quietly.",
+    "Check which AI your camera already uses."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+        "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+        "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+        "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+        "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Someone paid three hundred million for camera AI.",
+        "Glass Imaging fixes broken photos after you take them.",
+        "Apple and Samsung tried this. It mostly failed.",
+        "Your next phone will use this quietly.",
+        "Check which AI your camera already uses."
+      ]
+    },
+    "instagram": {
+      "caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?"
+    }
+  },
+  "instagram_caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?",
+  "carousel_slides": [
+    {
+      "hook": "Apple and Samsung tried, and failed?",
+      "description": "Both giants acquired similar AI photo startups years ago, yet most of that tech never reached your phone.",
+      "visual_hint": "Two smartphone brand logos side by side",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone comparison"
+    },
+    {
+      "hook": "Glass Imaging fixes distorted photos with AI",
+      "description": "It restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+      "visual_hint": "Before and after distorted photo",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "image distortion",
+      "image": "https://images.pexels.com/photos/38307086/pexels-photo-38307086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why pay $300M for another camera startup?",
+      "description": "OpenAI's $300 million deal signals a quiet race to control smartphone image AI, not just hardware.",
+      "visual_hint": "Money and camera icon merger",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "money camera",
+      "image": "https://images.pexels.com/photos/5911873/pexels-photo-5911873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your next phone stays quiet",
+      "description": "This deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+      "visual_hint": "Person using smartphone camera",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person smartphone camera",
+      "image": "https://images.pexels.com/photos/29738782/pexels-photo-29738782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your camera AI now — save this",
+      "description": "Open your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one.",
+      "visual_hint": "Smartphone camera settings screen",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "camera settings screen",
+      "image": "https://images.pexels.com/photos/21879063/pexels-photo-21879063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+  "savedAt": "2026-09-15T00:06:11.550Z",
+  "sourceId": "4dd932ed2d93b38f8521a88981231307"
+}

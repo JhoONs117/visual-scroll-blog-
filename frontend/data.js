@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "microsoft-s-new-ai-code-of-conduct-tells-models-no",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+    "slides": [
+      "Can Microsoft force AI to behave?",
+      "New code tells models not to hack systems",
+      "But rules only apply to its own models",
+      "Your AI tools may follow different ethics",
+      "Check which rules your AI actually obeys"
+    ],
+    "thread_text": [
+      "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+      "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+      "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+      "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+      "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+    ],
+    "video_script": [
+      "Microsoft is testing code to stop its AI from hacking.",
+      "But those rules only apply to Microsoft's own models.",
+      "Your AI tool might follow completely different ethics.",
+      "Two assistants can give opposite answers to the same prompt.",
+      "Test one risky prompt on two tools today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+          "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+          "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+          "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+          "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Microsoft is testing code to stop its AI from hacking.",
+          "But those rules only apply to Microsoft's own models.",
+          "Your AI tool might follow completely different ethics.",
+          "Two assistants can give opposite answers to the same prompt.",
+          "Test one risky prompt on two tools today."
+        ]
+      },
+      "instagram": {
+        "caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀"
+      }
+    },
+    "instagram_caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀",
+    "carousel_slides": [
+      {
+        "hook": "Who really controls your AI's ethics?",
+        "description": "Microsoft's code of conduct only binds its own models, not third-party AI tools running on the same platform.",
+        "visual_hint": "Split screen showing two different AI interfaces",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Microsoft tells AI: don't hack systems",
+        "description": "New safety prompts instruct Microsoft's models to refuse hacking and deception, but competitors' models may ignore these rules.",
+        "visual_hint": "Code of conduct document with AI chip",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer code",
+        "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Rules only apply to Microsoft's own models",
+        "description": "Third-party AI tools on Microsoft's platform don't inherit the same ethical guardrails, creating a patchwork of safety standards.",
+        "visual_hint": "Fence separating two groups of robots",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "factory robot",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your AI assistant might have no ethics",
+        "description": "Two AI tools can give opposite answers to the same harmful request, depending on who built them and what rules they follow.",
+        "visual_hint": "Two hands holding different AI devices",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI: which rules does it obey?",
+        "description": "Pick a prompt you'd never want answered. Run it on two AI tools. Save this post and share your results in comments.",
+        "visual_hint": "Person testing two AI chatbots side by side",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone screen",
+        "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+    "savedAt": "2026-09-15T00:06:24.282Z",
+    "sourceId": "c2be321fdeeca569cd16fc55f0e6beaf"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "ai-infrastructure-company-cornelis-raises-205m-to-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+    "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
+    "slides": [
+      "Cornelis just raised $205M. What does it see that Nvidia doesn't?",
+      "Its tech connects GPUs from any vendor, not just Nvidia.",
+      "The round was led by Nvidia's own investor, surprising everyone.",
+      "If you run AI models, you can now mix cheaper GPUs.",
+      "Test one workload on non-Nvidia hardware this week."
+    ],
+    "thread_text": [
+      "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+      "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+      "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+      "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+      "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+    ],
+    "video_script": [
+      "Cornelis raised two hundred five million dollars.",
+      "Its tech connects GPUs from any vendor.",
+      "Nvidia's own investor led the round.",
+      "You can now mix cheaper GPUs for AI.",
+      "Test one workload on non-Nvidia hardware this week."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+          "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+          "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+          "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+          "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Cornelis raised two hundred five million dollars.",
+          "Its tech connects GPUs from any vendor.",
+          "Nvidia's own investor led the round.",
+          "You can now mix cheaper GPUs for AI.",
+          "Test one workload on non-Nvidia hardware this week."
+        ]
+      },
+      "instagram": {
+        "caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔"
+      }
+    },
+    "instagram_caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Nvidia's own investor just funded its rival?",
+        "description": "Cornelis raised $205M from a backer of Nvidia to connect GPUs from any vendor, breaking the lock on AI hardware.",
+        "visual_hint": "Overhead shot of data center GPUs",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Your AI compute doesn't need Nvidia",
+        "description": "Cornelis technology links GPUs across brands, so you no longer depend on one vendor's closed ecosystem for models.",
+        "visual_hint": "Hands plugging cables into GPU rack",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "computer cables",
+        "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "$205M bet against the chip giant",
+        "description": "The lead backer usually bets on Nvidia, but funded a startup that threatens its control over AI compute dominance.",
+        "visual_hint": "Investor hand signing funding document",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Mix cheaper GPUs without breaking pipelines",
+        "description": "If you run AI models, you can now combine lower-cost GPUs from different brands instead of staying locked to one.",
+        "visual_hint": "Engineer swapping GPU card in server",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "circuit board",
+        "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this before your next GPU bill",
+        "description": "Test one workload on non-Nvidia hardware this week and check if it saves money without breaking your pipeline.",
+        "visual_hint": "Laptop running benchmark test results",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "computer monitor",
+        "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+    "savedAt": "2026-09-15T00:06:17.851Z",
+    "sourceId": "dbf09df0faf8afe35f78616918ceb53f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-buys-smartphone-camera-maker-glass-imaging-",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+    "slides": [
+      "Why pay $300M for another camera startup?",
+      "Glass Imaging fixes distorted photos using AI restoration",
+      "Apple and Samsung already tried similar acquisitions",
+      "Your next phone may learn from this deal quietly",
+      "Check which camera AI your phone actually uses"
+    ],
+    "thread_text": [
+      "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+      "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+      "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+      "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+      "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+    ],
+    "video_script": [
+      "Someone paid three hundred million for camera AI.",
+      "Glass Imaging fixes broken photos after you take them.",
+      "Apple and Samsung tried this. It mostly failed.",
+      "Your next phone will use this quietly.",
+      "Check which AI your camera already uses."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+          "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+          "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+          "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+          "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Someone paid three hundred million for camera AI.",
+          "Glass Imaging fixes broken photos after you take them.",
+          "Apple and Samsung tried this. It mostly failed.",
+          "Your next phone will use this quietly.",
+          "Check which AI your camera already uses."
+        ]
+      },
+      "instagram": {
+        "caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?"
+      }
+    },
+    "instagram_caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?",
+    "carousel_slides": [
+      {
+        "hook": "Apple and Samsung tried, and failed?",
+        "description": "Both giants acquired similar AI photo startups years ago, yet most of that tech never reached your phone.",
+        "visual_hint": "Two smartphone brand logos side by side",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone comparison"
+      },
+      {
+        "hook": "Glass Imaging fixes distorted photos with AI",
+        "description": "It restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+        "visual_hint": "Before and after distorted photo",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "image distortion",
+        "image": "https://images.pexels.com/photos/38307086/pexels-photo-38307086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Why pay $300M for another camera startup?",
+        "description": "OpenAI's $300 million deal signals a quiet race to control smartphone image AI, not just hardware.",
+        "visual_hint": "Money and camera icon merger",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "money camera",
+        "image": "https://images.pexels.com/photos/5911873/pexels-photo-5911873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your next phone stays quiet",
+        "description": "This deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+        "visual_hint": "Person using smartphone camera",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person smartphone camera",
+        "image": "https://images.pexels.com/photos/29738782/pexels-photo-29738782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your camera AI now — save this",
+        "description": "Open your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one.",
+        "visual_hint": "Smartphone camera settings screen",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "camera settings screen",
+        "image": "https://images.pexels.com/photos/21879063/pexels-photo-21879063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+    "savedAt": "2026-09-15T00:06:11.550Z",
+    "sourceId": "4dd932ed2d93b38f8521a88981231307"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "nvidia-ceo-jensen-huang-tells-trump-we-re-not-goin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+    "slides": [
+      "Nvidia's Jensen Huang to Trump: no AI slowdown?",
+      "He met Trump to discuss AI's role in US economy.",
+      "Huang says a slowdown won't happen on his watch.",
+      "Investors should watch Nvidia's next policy moves.",
+      "AI's pace depends on who sets the rules."
+    ],
+    "thread_text": [
+      "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+      "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+      "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+      "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+      "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+    ],
+    "video_script": [
+      "Jensen Huang just met with Donald Trump.",
+      "He said no AI slowdown on his watch.",
+      "Nvidia is now a political player, not just chips.",
+      "Who sets the rules decides how fast AI moves.",
+      "Watch Nvidia's policy moves, not just earnings."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+          "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+          "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+          "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+          "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jensen Huang just met with Donald Trump.",
+          "He said no AI slowdown on his watch.",
+          "Nvidia is now a political player, not just chips.",
+          "Who sets the rules decides how fast AI moves.",
+          "Watch Nvidia's policy moves, not just earnings."
+        ]
+      },
+      "instagram": {
+        "caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍"
+      }
+    },
+    "instagram_caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍",
+    "carousel_slides": [
+      {
+        "hook": "Will AI slowdown happen on Nvidia's watch?",
+        "description": "Jensen Huang told Trump a slowdown won't happen. Nvidia's roadmap is locked in, regardless of Washington's policy.",
+        "visual_hint": "Jensen Huang shaking hands with Trump",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "handshake meeting"
+      },
+      {
+        "hook": "Why did Huang meet Trump?",
+        "description": "They discussed AI's role in the US economy. The subtext: policy is now a boardroom concern for Nvidia.",
+        "visual_hint": "Jensen Huang at White House meeting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "White House exterior",
+        "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Nvidia is now a political actor",
+        "description": "Investors should watch Nvidia's next policy moves. The chipmaker is no longer just a technology company.",
+        "visual_hint": "Nvidia logo next to US Capitol",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "US Capitol building",
+        "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Who sets the rules for AI?",
+        "description": "AI's pace depends on who writes the rules. If Nvidia helps shape them, the speed stays fast.",
+        "visual_hint": "Hands writing policy document",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "writing document",
+        "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: follow the chips",
+        "description": "Next time you read an AI regulation story, ask: who benefits? Follow the money and the chips.",
+        "visual_hint": "Person reading AI regulation news",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "newspaper reading",
+        "image": "https://images.pexels.com/photos/37549874/pexels-photo-37549874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+    "savedAt": "2026-09-15T00:06:02.329Z",
+    "sourceId": "71b2c4f295f24956b15b3f59eb9d33ac"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "microsoft-says-people-matter-more-than-ai-followin",
     "prompt_version": "1.0.0",
     "status": "published",

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "nvidia-ceo-jensen-huang-tells-trump-we-re-not-goin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+  "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+  "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+  "slides": [
+    "Nvidia's Jensen Huang to Trump: no AI slowdown?",
+    "He met Trump to discuss AI's role in US economy.",
+    "Huang says a slowdown won't happen on his watch.",
+    "Investors should watch Nvidia's next policy moves.",
+    "AI's pace depends on who sets the rules."
+  ],
+  "thread_text": [
+    "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+    "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+    "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+    "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+    "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+  ],
+  "video_script": [
+    "Jensen Huang just met with Donald Trump.",
+    "He said no AI slowdown on his watch.",
+    "Nvidia is now a political player, not just chips.",
+    "Who sets the rules decides how fast AI moves.",
+    "Watch Nvidia's policy moves, not just earnings."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+        "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+        "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+        "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+        "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang just met with Donald Trump.",
+        "He said no AI slowdown on his watch.",
+        "Nvidia is now a political player, not just chips.",
+        "Who sets the rules decides how fast AI moves.",
+        "Watch Nvidia's policy moves, not just earnings."
+      ]
+    },
+    "instagram": {
+      "caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍"
+    }
+  },
+  "instagram_caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍",
+  "carousel_slides": [
+    {
+      "hook": "Will AI slowdown happen on Nvidia's watch?",
+      "description": "Jensen Huang told Trump a slowdown won't happen. Nvidia's roadmap is locked in, regardless of Washington's policy.",
+      "visual_hint": "Jensen Huang shaking hands with Trump",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "handshake meeting"
+    },
+    {
+      "hook": "Why did Huang meet Trump?",
+      "description": "They discussed AI's role in the US economy. The subtext: policy is now a boardroom concern for Nvidia.",
+      "visual_hint": "Jensen Huang at White House meeting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "White House exterior",
+      "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Nvidia is now a political actor",
+      "description": "Investors should watch Nvidia's next policy moves. The chipmaker is no longer just a technology company.",
+      "visual_hint": "Nvidia logo next to US Capitol",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "US Capitol building",
+      "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Who sets the rules for AI?",
+      "description": "AI's pace depends on who writes the rules. If Nvidia helps shape them, the speed stays fast.",
+      "visual_hint": "Hands writing policy document",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "writing document",
+      "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: follow the chips",
+      "description": "Next time you read an AI regulation story, ask: who benefits? Follow the money and the chips.",
+      "visual_hint": "Person reading AI regulation news",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "newspaper reading",
+      "image": "https://images.pexels.com/photos/37549874/pexels-photo-37549874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T00:06:02.329Z",
+  "sourceId": "71b2c4f295f24956b15b3f59eb9d33ac"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "microsoft-s-new-ai-code-of-conduct-tells-models-no",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+  "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+  "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+  "slides": [
+    "Can Microsoft force AI to behave?",
+    "New code tells models not to hack systems",
+    "But rules only apply to its own models",
+    "Your AI tools may follow different ethics",
+    "Check which rules your AI actually obeys"
+  ],
+  "thread_text": [
+    "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+    "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+    "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+    "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+    "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+  ],
+  "video_script": [
+    "Microsoft is testing code to stop its AI from hacking.",
+    "But those rules only apply to Microsoft's own models.",
+    "Your AI tool might follow completely different ethics.",
+    "Two assistants can give opposite answers to the same prompt.",
+    "Test one risky prompt on two tools today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+        "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+        "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+        "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+        "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Microsoft is testing code to stop its AI from hacking.",
+        "But those rules only apply to Microsoft's own models.",
+        "Your AI tool might follow completely different ethics.",
+        "Two assistants can give opposite answers to the same prompt.",
+        "Test one risky prompt on two tools today."
+      ]
+    },
+    "instagram": {
+      "caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀"
+    }
+  },
+  "instagram_caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who really controls your AI's ethics?",
+      "description": "Microsoft's code of conduct only binds its own models, not third-party AI tools running on the same platform.",
+      "visual_hint": "Split screen showing two different AI interfaces",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Microsoft tells AI: don't hack systems",
+      "description": "New safety prompts instruct Microsoft's models to refuse hacking and deception, but competitors' models may ignore these rules.",
+      "visual_hint": "Code of conduct document with AI chip",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer code",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Rules only apply to Microsoft's own models",
+      "description": "Third-party AI tools on Microsoft's platform don't inherit the same ethical guardrails, creating a patchwork of safety standards.",
+      "visual_hint": "Fence separating two groups of robots",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your AI assistant might have no ethics",
+      "description": "Two AI tools can give opposite answers to the same harmful request, depending on who built them and what rules they follow.",
+      "visual_hint": "Two hands holding different AI devices",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your AI: which rules does it obey?",
+      "description": "Pick a prompt you'd never want answered. Run it on two AI tools. Save this post and share your results in comments.",
+      "visual_hint": "Person testing two AI chatbots side by side",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone screen",
+      "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T00:06:24.282Z",
+  "sourceId": "c2be321fdeeca569cd16fc55f0e6beaf"
+}

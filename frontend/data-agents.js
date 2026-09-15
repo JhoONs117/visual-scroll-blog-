@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "microsoft-s-new-ai-code-of-conduct-tells-models-no",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "slides": [
+        "Can Microsoft force AI to behave?",
+        "New code tells models not to hack systems",
+        "But rules only apply to its own models",
+        "Your AI tools may follow different ethics",
+        "Check which rules your AI actually obeys"
+      ],
+      "thread_text": [
+        "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+        "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+        "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+        "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+        "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+      ],
+      "video_script": [
+        "Microsoft is testing code to stop its AI from hacking.",
+        "But those rules only apply to Microsoft's own models.",
+        "Your AI tool might follow completely different ethics.",
+        "Two assistants can give opposite answers to the same prompt.",
+        "Test one risky prompt on two tools today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Microsoft force AI to behave?\n\nMicrosoft is testing code that tells its own models not to hack systems. The catch: the rules only apply to Microsoft's models.",
+            "2. New code tells models not to hack\n\nMicrosoft's new safety prompts are baked into its own AI. Third-party models running on the same platform don't follow the same rules.",
+            "3. But rules only apply to its own models\n\nIf you use a non-Microsoft AI tool, it may not have those safety guardrails. The ethics your AI follows depend on who built it.",
+            "4. Your AI tools may follow different ethics\n\nTwo AI assistants can give opposite answers to the same request. One blocks harmful code, the other writes it without hesitation.",
+            "5. Check which rules your AI actually obeys\n\nPick one prompt you'd never want an AI to answer. Run it on two different tools. See what they do — that tells you which rules are real."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Microsoft is testing code to stop its AI from hacking.",
+            "But those rules only apply to Microsoft's own models.",
+            "Your AI tool might follow completely different ethics.",
+            "Two assistants can give opposite answers to the same prompt.",
+            "Test one risky prompt on two tools today."
+          ]
+        },
+        "instagram": {
+          "caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀"
+        }
+      },
+      "instagram_caption": "Microsoft is testing a code of conduct that tells its own AI models not to hack systems or trick humans.\n\nThe rules are safety prompts baked into Microsoft's models only. 🤖\n\nThird-party AI tools running on the same platforms don't follow them.\n\nSo two assistants can answer the same request in opposite ways: one blocks harmful code, the other writes it without hesitation.\n\nIf you use AI at work, you're trusting rules you've never seen. 🛡️\n\nPick one prompt you'd never want an AI to answer. Run it on two tools. ⚙️\n\nWhat does yours actually do? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who really controls your AI's ethics?",
+          "description": "Microsoft's code of conduct only binds its own models, not third-party AI tools running on the same platform.",
+          "visual_hint": "Split screen showing two different AI interfaces",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Microsoft tells AI: don't hack systems",
+          "description": "New safety prompts instruct Microsoft's models to refuse hacking and deception, but competitors' models may ignore these rules.",
+          "visual_hint": "Code of conduct document with AI chip",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer code",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Rules only apply to Microsoft's own models",
+          "description": "Third-party AI tools on Microsoft's platform don't inherit the same ethical guardrails, creating a patchwork of safety standards.",
+          "visual_hint": "Fence separating two groups of robots",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your AI assistant might have no ethics",
+          "description": "Two AI tools can give opposite answers to the same harmful request, depending on who built them and what rules they follow.",
+          "visual_hint": "Two hands holding different AI devices",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test your AI: which rules does it obey?",
+          "description": "Pick a prompt you'd never want answered. Run it on two AI tools. Save this post and share your results in comments.",
+          "visual_hint": "Person testing two AI chatbots side by side",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone screen",
+          "image": "https://images.pexels.com/photos/3850561/pexels-photo-3850561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "savedAt": "2026-09-15T00:06:24.282Z",
+      "sourceId": "c2be321fdeeca569cd16fc55f0e6beaf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-infrastructure-company-cornelis-raises-205m-to-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "slides": [
+        "Cornelis just raised $205M. What does it see that Nvidia doesn't?",
+        "Its tech connects GPUs from any vendor, not just Nvidia.",
+        "The round was led by Nvidia's own investor, surprising everyone.",
+        "If you run AI models, you can now mix cheaper GPUs.",
+        "Test one workload on non-Nvidia hardware this week."
+      ],
+      "thread_text": [
+        "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+        "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+        "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+        "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+        "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+      ],
+      "video_script": [
+        "Cornelis raised two hundred five million dollars.",
+        "Its tech connects GPUs from any vendor.",
+        "Nvidia's own investor led the round.",
+        "You can now mix cheaper GPUs for AI.",
+        "Test one workload on non-Nvidia hardware this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $205M Bet Against Nvidia\n\nCornelis just raised a massive round to connect GPUs from any vendor. Its lead investor? One of Nvidia's own backers.",
+            "2. The Lead Investor Twist\n\nNvidia's own investor led the round, surprising everyone. Why fund a startup that breaks Nvidia's lock on AI hardware?",
+            "3. Mix Cheaper GPUs Freely\n\nIf you run AI models, you can now mix cheaper GPUs from different brands. No more being stuck with one vendor's ecosystem.",
+            "4. What Cornelis Sees\n\nIt sees a future where AI compute isn't dominated by one chip maker. That's a threat Nvidia can't ignore.",
+            "5. Test This Week\n\nTake one workload and run it on non-Nvidia hardware. If you haven't tried, start there. Does it save money without breaking your pipeline?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Cornelis raised two hundred five million dollars.",
+            "Its tech connects GPUs from any vendor.",
+            "Nvidia's own investor led the round.",
+            "You can now mix cheaper GPUs for AI.",
+            "Test one workload on non-Nvidia hardware this week."
+          ]
+        },
+        "instagram": {
+          "caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔"
+        }
+      },
+      "instagram_caption": "Cornelis just raised $205M to connect GPUs from any vendor, not just Nvidia. 🔌\n\nThe round was led by one of Nvidia's own investors, which surprised everyone.\n\nIf you run AI models, you can now mix cheaper GPUs from different brands instead of being locked into one ecosystem.\n\nThat means you could cut hardware costs without rebuilding your whole pipeline. 💰\n\nTake one workload this week and run it on non-Nvidia hardware. ⚙️\n\nDoes it save money without breaking your setup? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Nvidia's own investor just funded its rival?",
+          "description": "Cornelis raised $205M from a backer of Nvidia to connect GPUs from any vendor, breaking the lock on AI hardware.",
+          "visual_hint": "Overhead shot of data center GPUs",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Your AI compute doesn't need Nvidia",
+          "description": "Cornelis technology links GPUs across brands, so you no longer depend on one vendor's closed ecosystem for models.",
+          "visual_hint": "Hands plugging cables into GPU rack",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer cables",
+          "image": "https://images.pexels.com/photos/15559038/pexels-photo-15559038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "$205M bet against the chip giant",
+          "description": "The lead backer usually bets on Nvidia, but funded a startup that threatens its control over AI compute dominance.",
+          "visual_hint": "Investor hand signing funding document",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "stock market chart",
+          "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Mix cheaper GPUs without breaking pipelines",
+          "description": "If you run AI models, you can now combine lower-cost GPUs from different brands instead of staying locked to one.",
+          "visual_hint": "Engineer swapping GPU card in server",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "circuit board",
+          "image": "https://images.pexels.com/photos/33792039/pexels-photo-33792039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next GPU bill",
+          "description": "Test one workload on non-Nvidia hardware this week and check if it saves money without breaking your pipeline.",
+          "visual_hint": "Laptop running benchmark test results",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "computer monitor",
+          "image": "https://images.pexels.com/photos/16416872/pexels-photo-16416872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
+      "savedAt": "2026-09-15T00:06:17.851Z",
+      "sourceId": "dbf09df0faf8afe35f78616918ceb53f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "openai-buys-smartphone-camera-maker-glass-imaging-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "slides": [
+        "Why pay $300M for another camera startup?",
+        "Glass Imaging fixes distorted photos using AI restoration",
+        "Apple and Samsung already tried similar acquisitions",
+        "Your next phone may learn from this deal quietly",
+        "Check which camera AI your phone actually uses"
+      ],
+      "thread_text": [
+        "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+        "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+        "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+        "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+        "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+      ],
+      "video_script": [
+        "Someone paid three hundred million for camera AI.",
+        "Glass Imaging fixes broken photos after you take them.",
+        "Apple and Samsung tried this. It mostly failed.",
+        "Your next phone will use this quietly.",
+        "Check which AI your camera already uses."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $300M for a camera startup?\n\nGlass Imaging uses AI to fix distorted smartphone photos. Someone just paid nine figures for that tech.",
+            "2. What Glass Imaging actually does\n\nIt restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+            "3. Apple and Samsung tried this before\n\nBoth giants acquired similar AI photo startups years ago. Most of that tech never reached your phone.",
+            "4. Your next phone stays quiet\n\nThis deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+            "5. Check your camera AI now\n\nOpen your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Someone paid three hundred million for camera AI.",
+            "Glass Imaging fixes broken photos after you take them.",
+            "Apple and Samsung tried this. It mostly failed.",
+            "Your next phone will use this quietly.",
+            "Check which AI your camera already uses."
+          ]
+        },
+        "instagram": {
+          "caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?"
+        }
+      },
+      "instagram_caption": "Someone paid $300 million for a camera startup you've probably never heard of. 📱\n\nGlass Imaging uses AI to fix blurry, distorted smartphone photos after you shoot them. No new lens—just software restoration.\n\nApple and Samsung bought similar startups years ago, and most of that tech never reached your phone. 😶\n\nSo this deal likely won't show up in a keynote. Your next phone's image pipeline might quietly trace back to it anyway.\n\nIf you shoot content with a phone, check which AI enhancement your camera app actually applies by default. 🌐\n\nDo you know what your phone's camera AI is doing to your photos right now?",
+      "carousel_slides": [
+        {
+          "hook": "Apple and Samsung tried, and failed?",
+          "description": "Both giants acquired similar AI photo startups years ago, yet most of that tech never reached your phone.",
+          "visual_hint": "Two smartphone brand logos side by side",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone comparison"
+        },
+        {
+          "hook": "Glass Imaging fixes distorted photos with AI",
+          "description": "It restores blurry, warped images after capture using machine learning. No new lens required—just software.",
+          "visual_hint": "Before and after distorted photo",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "image distortion",
+          "image": "https://images.pexels.com/photos/38307086/pexels-photo-38307086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why pay $300M for another camera startup?",
+          "description": "OpenAI's $300 million deal signals a quiet race to control smartphone image AI, not just hardware.",
+          "visual_hint": "Money and camera icon merger",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "money camera",
+          "image": "https://images.pexels.com/photos/5911873/pexels-photo-5911873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your next phone stays quiet",
+          "description": "This deal won't be in a keynote. But the image pipeline in your 2026 device may trace back to it.",
+          "visual_hint": "Person using smartphone camera",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "person smartphone camera",
+          "image": "https://images.pexels.com/photos/29738782/pexels-photo-29738782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Check your camera AI now — save this",
+          "description": "Open your phone's photo settings and see which AI enhancement is active. If you don't know, you're already using one.",
+          "visual_hint": "Smartphone camera settings screen",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "camera settings screen",
+          "image": "https://images.pexels.com/photos/21879063/pexels-photo-21879063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+      "savedAt": "2026-09-15T00:06:11.550Z",
+      "sourceId": "4dd932ed2d93b38f8521a88981231307"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "nvidia-ceo-jensen-huang-tells-trump-we-re-not-goin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "slides": [
+        "Nvidia's Jensen Huang to Trump: no AI slowdown?",
+        "He met Trump to discuss AI's role in US economy.",
+        "Huang says a slowdown won't happen on his watch.",
+        "Investors should watch Nvidia's next policy moves.",
+        "AI's pace depends on who sets the rules."
+      ],
+      "thread_text": [
+        "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+        "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+        "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+        "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+        "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+      ],
+      "video_script": [
+        "Jensen Huang just met with Donald Trump.",
+        "He said no AI slowdown on his watch.",
+        "Nvidia is now a political player, not just chips.",
+        "Who sets the rules decides how fast AI moves.",
+        "Watch Nvidia's policy moves, not just earnings."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Jensen Meets Trump\n\nHuang sat down with Trump to talk AI's role in the US economy. The subtext: policy is now a boardroom concern.",
+            "2. No Slowdown Pledge\n\nHuang told Trump a slowdown won't happen on his watch. That means Nvidia's roadmap is locked in, regardless of Washington.",
+            "3. Policy Moves Matter\n\nInvestors should watch Nvidia's next policy moves. The company is now a political actor, not just a chipmaker.",
+            "4. Rules Shape AI Pace\n\nAI's speed depends on who sets the rules. If Nvidia helps write them, the pace stays fast.",
+            "5. Your Turn\n\nNext time you read an AI regulation story, ask: who benefits from this rule? Follow the money and the chips."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Jensen Huang just met with Donald Trump.",
+            "He said no AI slowdown on his watch.",
+            "Nvidia is now a political player, not just chips.",
+            "Who sets the rules decides how fast AI moves.",
+            "Watch Nvidia's policy moves, not just earnings."
+          ]
+        },
+        "instagram": {
+          "caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍"
+        }
+      },
+      "instagram_caption": "Jensen Huang told Trump a slowdown in AI won't happen on his watch.\n\nHe met Trump to discuss AI's role in the US economy. Nvidia is now a political actor, not just a chipmaker.\n\nPolicy is a boardroom concern — and it moves faster than any roadmap.\n\nIf you build or publish with AI tools, the rules shaping your workflow may get written with Nvidia in the room. 🧠\n\nWatch Nvidia's next policy moves. They set the pace you work at. ⚡\n\nSo next time you read an AI regulation story, ask: who benefits from this rule? 💰🔍",
+      "carousel_slides": [
+        {
+          "hook": "Will AI slowdown happen on Nvidia's watch?",
+          "description": "Jensen Huang told Trump a slowdown won't happen. Nvidia's roadmap is locked in, regardless of Washington's policy.",
+          "visual_hint": "Jensen Huang shaking hands with Trump",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "handshake meeting"
+        },
+        {
+          "hook": "Why did Huang meet Trump?",
+          "description": "They discussed AI's role in the US economy. The subtext: policy is now a boardroom concern for Nvidia.",
+          "visual_hint": "Jensen Huang at White House meeting",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "White House exterior",
+          "image": "https://images.pexels.com/photos/16631149/pexels-photo-16631149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Nvidia is now a political actor",
+          "description": "Investors should watch Nvidia's next policy moves. The chipmaker is no longer just a technology company.",
+          "visual_hint": "Nvidia logo next to US Capitol",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "US Capitol building",
+          "image": "https://images.pexels.com/photos/6580465/pexels-photo-6580465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who sets the rules for AI?",
+          "description": "AI's pace depends on who writes the rules. If Nvidia helps shape them, the speed stays fast.",
+          "visual_hint": "Hands writing policy document",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "writing document",
+          "image": "https://images.pexels.com/photos/6538440/pexels-photo-6538440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: follow the chips",
+          "description": "Next time you read an AI regulation story, ask: who benefits? Follow the money and the chips.",
+          "visual_hint": "Person reading AI regulation news",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "newspaper reading",
+          "image": "https://images.pexels.com/photos/37549874/pexels-photo-37549874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "savedAt": "2026-09-15T00:06:02.329Z",
+      "sourceId": "71b2c4f295f24956b15b3f59eb9d33ac"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "microsoft-says-people-matter-more-than-ai-followin",
       "prompt_version": "1.0.0",
       "status": "published",
@@ -152578,6 +152994,117 @@ window.AGENTS = {
     }
   ],
   "food": [
+    {
+      "schema_version": 2,
+      "agent": "food",
+      "slug": "torta-paradiso-al-cacao",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Torta paradiso al cacao",
+      "link": "https://ricette.giallozafferano.it/Torta-paradiso-al-cacao.html",
+      "pubDate": "Mon, 14 Sep 2026 16:21:00 +0200",
+      "content": "Torta paradiso al cacao: soffice e farcita con crema alla panna Le Ricette di GialloZafferano.it Ricette Tutte le ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Chiedi Accedi Home Ricette Antipasti Primi piatti Secondi piatti Dolci Lievitati Piatti unici Scopri anche Ultime ricette Benessere Ricette veloci Chef Enciclopedia ingredienti GialloZafferano Ristoranti GZ Daily Servizi Crea il tuo blog Shopping Magazine In edicola Collaborazioni Pasta con Rummo Salumi con Citterio Ricette con Pavesini Alici e sgombro con Rizzoli Frutta e verdura con MD Ricette con Philadelphia Zafferano 3 Cuochi Idee con Paneangeli Ricette con RossoGargano In cucina con Olio Coricelli Ricette con le patate Nestlé Il Latte Condensato Frolle e sfoglie con Buitoni Le pinse con Pinsami Ricette con il salmone Bimby: il tuo aiuto in cucina Facebook Pinterest Instagram TikTok YouTube X Dolci Torte Torta paradiso al cacao /5 CONDIVIDI INVIA FOTO COMMENTA de es fr nl br SALVA Segui GialloZafferano su Google Seguici 263,8 Calorie per porzione Energia Kcal 263,8 Carboidrati g 29,2 &nbsp;&nbsp;di cui zuccheri g 17,9 Proteine g 5,1 Grassi g 14,8 &nbsp;&nbsp;di cui saturi g 8,6 Fibre g 1 Colesterolo mg 126,2 Sodio mg 63,9 Dati forniti da Attenzione. I valori nutrizionali e i dati di apporto calorico sono forniti da Edamam a scopo meramente informativo, e rappresentano una stima basata sugli ingredienti e sul metodo di preparazione della ricetta. Il calcolo delle calorie è indicativo e non sostituisce in alcun modo il parere del proprio medico curante e/o di specialisti. I riferimenti relativi ai regimi alimentari specifici (es. senza glutine, vegetariano, vegano, senza lattosio) hanno valore indicativo: verifica sempre che gli ingredienti utilizzati siano effettivamente compatibili con le tue esigenze. In caso di dubbi, è consigliabile consultare uno specialista. Vegetariano Difficoltà: Media Preparazione: 60 min Cottura: 25 min Dosi per: 10 persone Costo: Basso Nota più il tempo di raffreddamento (1 ora circa) Ascolta la ricetta Ascolta su Spreaker. PRESENTAZIONE La torta paradiso al cacao è una variante farcita della classica torta paradiso , pensata per chi non sa resistere ai dolci golosi. Soffice e delicata, racchiude una generosa farcitura di panna montata che rende ogni fetta ancora più cremosa. Il cacao amaro caratterizza l’impasto e dona alla base un gusto deciso, ben equilibrato dalla semplicità della farcitura. Se cercate una torta al cacao soffice e facile da preparare, questa ricetta è proprio quello che fa al caso vostro. Preparatela per una merenda speciale, una festa di compleanno o come dessert da condividere a fine pasto. Se cercate altre varianti di questo dolce provate anche: torta paradiso al limone brownies paradiso Scopri anche Brownies paradiso Pavesini Paradiso Torta paradiso al limone Sfoglia tutte INGREDIENTI 263,8 Calorie per porzione per uno stampo da 24 cm Farina 00 100 g Fecola di patate 25 g Cacao amaro in polvere 20 g Uova (circa 4 medie) 220 g Zucchero di canna 120 g Sale fino 1 pizzico per la farcitura Panna fresca liquida 400 g Zucchero a velo 40 g per decorare Zucchero a velo q.b. AGGIUNGI ALLA LISTA DELLA SPESA Preparazione Come preparare la Torta paradiso al cacao Per preparare la torta paradiso al cacao, versate in una ciotola le uova a temperatura ambiente e lo zucchero di canna 1 . Lavorate il tutto con le fruste elettriche 2 fino a ottenere un composto chiaro, leggero e ben spumoso 3 . Setacciate insieme la farina 00 4 , il cacao amaro 5 e la fecola di patate 6 , così da eliminare eventuali grumi. Incorporate gradualmente le polveri al composto di uova e zucchero, mescolando delicatamente con una frusta 7 . Procedete con movimenti leggeri per non smontare il composto e mantenere l'impasto arioso 8 . Unite anche un pizzico di sale. Imburrate e infarinate uno stampo svasato da 24 cm di diametro, quindi versatevi l'impasto e distribuitelo in maniera uniforme 9 . Cuocete la torta in forno statico preriscaldato a 180°C per circa 25 minuti. Una volta terminata la cottura, sfornatela 10 e lasciatela intiepidire prima di rimuoverla delicatamente dallo stampo. Fatela quindi raffreddare completamente per circa 1 ora: la base dovrà essere fredda prima di procedere con il taglio e la farcitura. A questo punto preparate la crema. Versate la panna liquida in una ciotola e iniziate a montare con le fruste elettriche 11 e dopo poco aggiungete lo zucchero a velo 12 . Montate ancora fino a ottenere una consistenza ben ferma 13 . Trasferite la panna montata in un sac-à-poche munita di bocchetta da 15 mm e riponetela in frigorifero. Quando la base al cacao sarà completamente fredda, tagliatela orizzontalmente a metà in modo da ottenere due strati 14 15 . Distribuite la crema di panna sulla metà inferiore 16 17 aiutandovi con il sac-à-poche, quindi adagiate delicatamente sopra la parte superiore della torta 18 . Con una spatolina livellate la crema che affiora lungo la circonferenza 19 , in modo da ottenere un bordo regolare e liscio. Completate la torta paradiso al cacao con una spolverata di zucchero a velo 20 . Riponete in frigorifero fino al momento di servirla 21 . Conservazione Conservate la torta paradiso al cacao in frigorifero per un massimo di 2 giorni. Potete congelare la sola base al cacao dopo averla cotta e lasciata raffreddare completamente; farcitela con la panna soltanto dopo averla scongelata. Consiglio Per personalizzare la crema senza modificarne la consistenza, potete profumare la panna con della vaniglia oppure aggiungere del miele. Per una crema più compatta, ammollate 1 foglio di gelatina in acqua fredda, strizzatelo e scioglietelo in poca panna calda. Lasciate intiepidire, quindi incorporatelo alla panna mentre la montate con lo zucchero a velo. Iscriviti al canale WhatsApp e attiva le notifiche Scopri di più sugli ingredienti Zucchero Fecola di patate Uovo Scopri tutto sugli ingredienti Presente in: Dolci al cioccolato , Ricette sfiziose , Ricette al forno STAMPA /5 CONDIVIDI INVIA FOTO COMMENTA Segui GialloZafferano su Google Seguici SALVA Hai domande? Vuoi un consiglio sulla ricetta? Scrivi a GialloZafferano. --> RICETTE CORRELATE Brownies paradiso 5 4.5 Pavesini Paradiso 1 4.6 Torta paradiso al limone 78 4.4 Torta paradiso 867 4.1 Torta a piani al cioccolato con panna e frutti di bosco 24 4.6 Torta golosa al cioccolato senza farina 171 4.3 Torta panna e Nutella 12 4.2 Muffin paradiso 32 4.2 ULTIME RICETTE Torta paradiso al cacao 5.0 Torta di sfoglia con mele e ricotta 5.0 Polpettone di manzo 4.8 SCOPRI Torta al cacao Torta paradiso senza burro Torta paradiso farcita Scarica l'App Iscriviti alla Newsletter Iscriviti GialloZafferano Seguici Facebook Instagram TikTok Youtube Info Chi siamo Accedi Registrati Gruppo Mondadori Scopri Crea un blog In edicola Shopping Ultime ricette &copy; 2026 Mondadori Digital S.p.A. P.IVA 14371170961 Condizioni d'uso Informativa Privacy Privacy Policy Cookie Policy Opzioni cookie Disclaimer Codice Etico Gruppo Mondadori Le Ricette di GialloZafferano.it Ricette correlate Dolci Brownies paradiso 5 4.5 I brownies paradiso sono dei golosi dolcetti al cioccolato ricoperti da una morbida crema al latte, perfetti per la merenda! Scopri dosi e ricetta. Vai alla ricetta Dolci Pavesini Paradiso 1 4.6 Pavesini paradiso, dolcetti facili e golosi al profumo di limone. Scopri qui dosi e procedimento per preparare questa deliziosa ricetta a casa. Vai alla ricetta Dolci Torta paradiso al limone 78 4.4 Una soffice torta paradiso arricchita con gustosa crema al limone: questa torta paradiso al limone conquisterà tutti! Vai alla ricetta Dolci Torta paradiso 867 4.1 La torta paradiso è un dolce delicato, preparato con base tipo pan di spagna con l'aggiunta di burro e lievito, aromatizzata agli agrumi e vaniglia! Vai alla ricetta Dolci Torta a piani al cioccolato con panna e frutti di bosco 24 4.6 La torta a piani al cioccolato con panna e frutti di bosco è semplice da preparare e di grande effetto: un dolce perfetto per le occasioni speciali! Vai alla ricetta Newsletter Annulla Email Ho letto e compreso la Privacy Policy Conferma Accedi gratis a servizi e contenuti esclusivi Salva le tue ricette preferite Compila la tua lista della spesa Commenta e ottieni il nostro aiuto Condividi le tue abilità Accedi a Scuola e Corsi di cucina Sfoglia le riviste GialloZafferano Ricevi la Newsletter settimanale Registrati o accedi per creare i tuoi ricettari personalizzati. per pubblicare le foto delle tue ricette. per compilare la tua lista della spesa. per inviare alla redazione i tuoi commenti. Altri vantaggi Continua con Google Continua con Facebook Continua con Apple Oppure Continua Continua Bentornato! Stai accedendo come La tua email Modifica Inserisci password Password dimenticata? Accedi Reimposta la password Ti invieremo un'email per reimpostare la tua password. Inserisci la tua email Invia la richiesta Torna ad accedi Ti abbiamo inviato l’email Controlla la tua posta in arrivo, se non la vedi prova in posta indesiderata (Spam) o in “Promozioni”. Chiudi Aggiornamento Termini e Condizioni Gentile Utente, le nostre Condizioni e Termini d'Uso del sito sono state modificate. Le nuove Condizioni e Termini d'Uso sono entrate in vigore dal 6 Giugno 2022. Ti preghiamo di prenderne visione a questo link ed accettarle per potere proseguire con l'utilizzo del sito e ad usufruire dei servizi offerti. Informativa* Dichiaro di aver preso visione delle Condizioni e Termini d'Uso del sito Prosegui Attiva la Newsletter I migliori contenuti di GialloZafferano direttamente nella tua Email. No grazie Attiva Nuova Chiedi alla nostra assistente virtuale basata sull'AI Servizio di Mondadori Digital S.p.A su modello IA di ChatGPT. Versione BETA soggetta a possibili imprecisioni o interruzioni. Aggiornamento Informativa privacy Mondadori Digital S.p.A. ha aggiornato l' Informativa Privacy . Ti invitiamo a consultarla. Ricevi questo avviso perché hai acconsentito alla ricezione di comunicazioni commerciali e promozionali. Per continuare a ricevere comunicazioni commerciali e promozionali clicca qui . Puoi gestire i tuoi dati in qualsiasi momento scrivendo ai contatti indicati nell'Informativa Privacy o accedendo alla sezione del tuo account. Restiamo in contatto? Voglio ricevere nuove ricette, aggiornamenti e promozioni da Mondadori Digital S.p.A. - finalità di marketing diretto Leggi di più Consapevole che il consenso è libero e revocabile in ogni momento, acconsento a ricevere comunicazioni tramite e-mail di natura informativa e/o promozionale in merito a prodotti e servizi di Mondadori Digital S.p.A. Si No Prosegui",
+      "slides": [
+        "Torta paradiso al cacao, soffice con panna montata",
+        "Farina, fecola, cacao, uova, zucchero, panna",
+        "Monta uova e zucchero, incorpora le polveri",
+        "Cuoci a 180°C per 25 minuti, farcisci con panna",
+        "Spolvera zucchero a velo, riposa in frigorifero"
+      ],
+      "instagram_caption": "La torta paradiso al cacao è quella coccola che non sai di meritare finché non la assaggi 😍\nSoffice come una nuvola, con un cuore di panna montata che si scioglie ad ogni morso: bastano farina, fecola, cacao e uova fresche per creare la magia.\nMonta tutto con lo zucchero, incorpora le polveri, inforna a 180°C per 25 minuti e farcisci con abbondante panna.\nUna spolverata di zucchero a velo e una sosta in frigo per il taglio perfetto 🍰\nSegna la ricetta e provala questo weekend! ✨",
+      "formats": {
+        "instagram": {
+          "caption": "La torta paradiso al cacao è quella coccola che non sai di meritare finché non la assaggi 😍\nSoffice come una nuvola, con un cuore di panna montata che si scioglie ad ogni morso: bastano farina, fecola, cacao e uova fresche per creare la magia.\nMonta tutto con lo zucchero, incorpora le polveri, inforna a 180°C per 25 minuti e farcisci con abbondante panna.\nUna spolverata di zucchero a velo e una sosta in frigo per il taglio perfetto 🍰\nSegna la ricetta e provala questo weekend! ✨"
+        },
+        "tiktok": {
+          "script": [
+            "Oggi torta paradiso al cacao, soffice con panna!",
+            "Prendo farina, fecola, cacao, uova, zucchero e panna.",
+            "Monta uova e zucchero, incorpora le polveri.",
+            "Cuoci a 180°C per 25 minuti, farcisci con panna.",
+            "Spolvera zucchero a velo, riposa in frigorifero."
+          ]
+        },
+        "x": {
+          "thread": [
+            "Immagina una nuvola di cacao che si scioglie in bocca. La torta paradiso al cacao con panna montata è il dessert che non ti aspetti: soffice, golosa, irresistibile. Preparati a farla sparire in un attimo.",
+            "Ingredienti: farina, fecola, cacao amaro, uova, zucchero e panna fresca. Pochi elementi, ma il segreto è nella loro semplicità. Metti tutto sul piano e iniziamo.",
+            "Monta le uova con lo zucchero fino a farle diventare spumose e chiare. Poi incorpora le polveri setacciate con delicatezza, dal basso verso l'alto. Il gesto giusto fa la differenza.",
+            "Inforna a 180°C per 25 minuti. Mentre cuoce, monta la panna ben ferma. Sforna, lascia raffreddare, taglia a metà e farcisci con abbondante panna montata.",
+            "Spolvera con zucchero a velo e lascia riposare in frigo per un'ora. Il trucco: la panna deve essere freddissima. Provala e dimmi com'è andata 👇"
+          ]
+        }
+      },
+      "video_script": [
+        "Oggi torta paradiso al cacao, soffice con panna!",
+        "Prendo farina, fecola, cacao, uova, zucchero e panna.",
+        "Monta uova e zucchero, incorpora le polveri.",
+        "Cuoci a 180°C per 25 minuti, farcisci con panna.",
+        "Spolvera zucchero a velo, riposa in frigorifero."
+      ],
+      "thread_text": [
+        "Immagina una nuvola di cacao che si scioglie in bocca. La torta paradiso al cacao con panna montata è il dessert che non ti aspetti: soffice, golosa, irresistibile. Preparati a farla sparire in un attimo.",
+        "Ingredienti: farina, fecola, cacao amaro, uova, zucchero e panna fresca. Pochi elementi, ma il segreto è nella loro semplicità. Metti tutto sul piano e iniziamo.",
+        "Monta le uova con lo zucchero fino a farle diventare spumose e chiare. Poi incorpora le polveri setacciate con delicatezza, dal basso verso l'alto. Il gesto giusto fa la differenza.",
+        "Inforna a 180°C per 25 minuti. Mentre cuoce, monta la panna ben ferma. Sforna, lascia raffreddare, taglia a metà e farcisci con abbondante panna montata.",
+        "Spolvera con zucchero a velo e lascia riposare in frigo per un'ora. Il trucco: la panna deve essere freddissima. Provala e dimmi com'è andata 👇"
+      ],
+      "carousel_slides": [
+        {
+          "hook": "Torta paradiso al cacao soffice",
+          "description": "Una nuvola di cacao e panna montata che si scioglie in bocca, pronta in pochi gesti.",
+          "visual_hint": "fetta alta con panna",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chocolate cake slice"
+        },
+        {
+          "hook": "Solo 6 ingredienti per farla",
+          "description": "Farina, fecola, cacao amaro, uova fresche, zucchero e panna: la semplicità che conquista.",
+          "visual_hint": "ingredienti su piano legno",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "baking ingredients cocoa",
+          "image": "https://images.pexels.com/photos/6088870/pexels-photo-6088870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Monta a lungo, incorpora piano",
+          "description": "Uova e zucchero fino a spuma chiara, poi le polveri setacciate con movimenti delicati.",
+          "visual_hint": "spuma chiara in ciotola",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "whipped eggs sugar",
+          "image": "https://images.pexels.com/photos/19526666/pexels-photo-19526666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "180 gradi per 25 minuti",
+          "description": "Inforna fino a doratura, lascia raffreddare e farcisci generosamente con panna montata.",
+          "visual_hint": "torta sfornata che raffredda",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "chocolate sponge cake",
+          "image": "https://images.pexels.com/photos/20009399/pexels-photo-20009399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Velata di zucchero, riposo in frigo",
+          "description": "Spolvera zucchero a velo e lascia riposare in frigorifero: al taglio sarà ancora più cremosa.",
+          "visual_hint": "zucchero a velo sulla torta",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "dusted chocolate cake",
+          "image": "https://images.pexels.com/photos/20009393/pexels-photo-20009393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "dish_type": "dessert",
+      "signature_ingredients": [
+        "cacao",
+        "panna",
+        "uova"
+      ],
+      "image": "https://www.giallozafferano.it/images/224-22412/Torta-paradiso-al-cacao_650x433_wm.jpg",
+      "savedAt": "2026-09-15T00:10:41.161Z",
+      "sourceId": "a4ee5cdfed3a5b3d714df1f1e9c4e97a"
+    },
     {
       "schema_version": 2,
       "agent": "food",
