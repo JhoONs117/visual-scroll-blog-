@@ -3,6 +3,214 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "what-execs-and-politicians-are-saying-about-slowin",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "pubDate": "2026-09-14T21:21:42.000Z",
+      "slides": [
+        "Why are execs and politicians suddenly urging AI slowdown?",
+        "They cite safety concerns and potential societal disruption.",
+        "But some experts argue this might be a strategic distraction.",
+        "Start evaluating which AI risks truly apply to your work.",
+        "Question the motives behind calls to slow AI progress."
+      ],
+      "thread_text": [
+        "1. The AI Slowdown Signal\n\nSuddenly, top executives and politicians are calling for a pause on AI development, citing safety and societal risks. But the timing is suspicious.",
+        "2. Safety or Strategy?\n\nThese same actors often have competitive interests. Pausing now could let them catch up or lock in their lead while smaller players stall.",
+        "3. The Distraction Play\n\nSome experts warn the slowdown narrative is a smokescreen. It shifts focus from real harms like bias and job displacement to hypothetical doomsday scenarios.",
+        "4. Your Real Risk Check\n\nIgnore the hype. Ask: which AI risks actually touch your daily work? Data privacy? Automation? Start there, not with sci-fi fears.",
+        "5. Question the Motives\n\nWhen you hear 'slow down AI,' ask who benefits. Then test one AI tool on a real task this week and judge the risk yourself."
+      ],
+      "video_script": [
+        "Execs and politicians suddenly want AI to slow down.",
+        "They say it's about safety and societal disruption.",
+        "But some experts call it a strategic distraction.",
+        "Check which AI risks actually apply to your work.",
+        "Question the motives behind calls to slow AI."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI Slowdown Signal\n\nSuddenly, top executives and politicians are calling for a pause on AI development, citing safety and societal risks. But the timing is suspicious.",
+            "2. Safety or Strategy?\n\nThese same actors often have competitive interests. Pausing now could let them catch up or lock in their lead while smaller players stall.",
+            "3. The Distraction Play\n\nSome experts warn the slowdown narrative is a smokescreen. It shifts focus from real harms like bias and job displacement to hypothetical doomsday scenarios.",
+            "4. Your Real Risk Check\n\nIgnore the hype. Ask: which AI risks actually touch your daily work? Data privacy? Automation? Start there, not with sci-fi fears.",
+            "5. Question the Motives\n\nWhen you hear 'slow down AI,' ask who benefits. Then test one AI tool on a real task this week and judge the risk yourself."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Execs and politicians suddenly want AI to slow down.",
+            "They say it's about safety and societal disruption.",
+            "But some experts call it a strategic distraction.",
+            "Check which AI risks actually apply to your work.",
+            "Question the motives behind calls to slow AI."
+          ]
+        },
+        "instagram": {
+          "caption": "Executives who spent years racing to ship AI models are now publicly asking to slow the whole thing down.\n\nThey point to safety risks and societal disruption as the reason.\n\nSome experts say the real goal is strategic: a pause lets bigger players catch up or freeze their lead while smaller teams stall.\n\nIf you create or publish content, this debate decides which tools stay available, affordable, and legal to use.\n\nSo check which risk actually hits your work: data privacy, automation, or none of the above.\n\nAsk yourself: when someone says \"slow down AI,\" who benefits from you waiting? 🛑"
+        }
+      },
+      "instagram_caption": "Executives who spent years racing to ship AI models are now publicly asking to slow the whole thing down.\n\nThey point to safety risks and societal disruption as the reason.\n\nSome experts say the real goal is strategic: a pause lets bigger players catch up or freeze their lead while smaller teams stall.\n\nIf you create or publish content, this debate decides which tools stay available, affordable, and legal to use.\n\nSo check which risk actually hits your work: data privacy, automation, or none of the above.\n\nAsk yourself: when someone says \"slow down AI,\" who benefits from you waiting? 🛑",
+      "carousel_slides": [
+        {
+          "hook": "Is the AI slowdown just a power play?",
+          "description": "Execs and politicians suddenly demand a pause, but some experts warn it's a smokescreen for competitive interests.",
+          "visual_hint": "Split screen: handshake versus chessboard",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "chessboard closeup"
+        },
+        {
+          "hook": "Safety concerns or strategic pause?",
+          "description": "They cite societal disruption, yet pausing could let them catch up or lock in their lead while smaller players stall.",
+          "visual_hint": "Business people shaking hands in office",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers meeting",
+          "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "The distraction play: real harms ignored?",
+          "description": "Focus shifts from bias and job displacement to hypothetical doomsday scenarios, says experts. That's a smokescreen.",
+          "visual_hint": "Magnifying glass on binary code",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "binary code screen",
+          "image": "https://images.pexels.com/photos/7444597/pexels-photo-7444597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Which AI risks actually touch your work?",
+          "description": "Ignore sci-fi fears. Start with data privacy and automation, then evaluate which risks truly apply to your daily tasks.",
+          "visual_hint": "Hand holding smartphone with privacy icons",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Who benefits from slowing AI? Save this.",
+          "description": "Test one AI tool on a real task this week and judge the risk yourself. Question the motives behind slowdown calls.",
+          "visual_hint": "Person using laptop with AI interface",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person using laptop",
+          "image": "https://images.pexels.com/photos/12902986/pexels-photo-12902986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-15T06:59:44.472Z",
+      "sourceId": "de5d887a67d769f90a829c4f1e637bad"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "is-big-tech-s-ai-slowdown-a-safety-pact-or-a-carte",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "pubDate": "2026-09-14T22:59:41.000Z",
+      "slides": [
+        "Is Big Tech's AI slowdown a safety pact or a cartel?",
+        "Their models idle while startups ship openly.",
+        "Safety briefings are legal cover for price coordination.",
+        "Your startup's compliance costs just tripled overnight.",
+        "Ask regulators to subpoena closed-door compute deals."
+      ],
+      "thread_text": [
+        "1. Big Tech's AI goes quiet\n\nWhile startups ship openly, their models sit idle. That's not caution — it's a stall.",
+        "2. Safety briefings as cover\n\nClosed-door meetings look like ethics. But they also set compute prices. That's coordination, not care.",
+        "3. Compliance costs triple\n\nYour startup just got a bigger bill for regulations Big Tech wrote. You're not competing — you're subsidizing them.",
+        "4. Subpoena the compute deals\n\nRegulators should force open the secret contracts. If it's safety, show the data. If it's a cartel, show the invoices.",
+        "5. Ask for transparency today\n\nCall your rep. Demand the compute deals be public. Or ask: are you paying more while they idle?"
+      ],
+      "video_script": [
+        "Big Tech stopped shipping AI. Startups keep going.",
+        "Safety meetings look nice. But they set compute prices.",
+        "Your compliance bill just tripled overnight. That's not a coincidence.",
+        "Tell regulators to open those secret compute deals now.",
+        "Ask your rep: why are we paying more?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Big Tech's AI goes quiet\n\nWhile startups ship openly, their models sit idle. That's not caution — it's a stall.",
+            "2. Safety briefings as cover\n\nClosed-door meetings look like ethics. But they also set compute prices. That's coordination, not care.",
+            "3. Compliance costs triple\n\nYour startup just got a bigger bill for regulations Big Tech wrote. You're not competing — you're subsidizing them.",
+            "4. Subpoena the compute deals\n\nRegulators should force open the secret contracts. If it's safety, show the data. If it's a cartel, show the invoices.",
+            "5. Ask for transparency today\n\nCall your rep. Demand the compute deals be public. Or ask: are you paying more while they idle?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Big Tech stopped shipping AI. Startups keep going.",
+            "Safety meetings look nice. But they set compute prices.",
+            "Your compliance bill just tripled overnight. That's not a coincidence.",
+            "Tell regulators to open those secret compute deals now.",
+            "Ask your rep: why are we paying more?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your compliance bill for AI rules just tripled, while the biggest labs leave their models idle. 🧾\n\nSmall teams keep shipping openly, but Big Tech's models sit stalled. Safety briefings look like ethics — insiders say they also set compute prices behind closed doors.\n\nYou're not competing with them anymore. You're subsidizing them. 😮‍💨\n\nIf it's really about safety, the data should be public. If it's a cartel, the invoices should be. 🔍\n\nAsk your rep to subpoena the closed-door compute deals. Are you paying more while they idle? ⚖️"
+        }
+      },
+      "instagram_caption": "Your compliance bill for AI rules just tripled, while the biggest labs leave their models idle. 🧾\n\nSmall teams keep shipping openly, but Big Tech's models sit stalled. Safety briefings look like ethics — insiders say they also set compute prices behind closed doors.\n\nYou're not competing with them anymore. You're subsidizing them. 😮‍💨\n\nIf it's really about safety, the data should be public. If it's a cartel, the invoices should be. 🔍\n\nAsk your rep to subpoena the closed-door compute deals. Are you paying more while they idle? ⚖️",
+      "carousel_slides": [
+        {
+          "hook": "Safety pact or hidden cartel?",
+          "description": "Big Tech's AI models idle while startups ship openly. Silence looks like caution, but it stalls competition.",
+          "visual_hint": "Empty server racks with dim lights",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "Startups ship, giants stall",
+          "description": "Their models sit idle while open startups release updates. This isn't caution, it's a coordinated stall.",
+          "visual_hint": "Startup team coding late night",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ethics talks hide compute prices",
+          "description": "Closed-door safety briefings set compute prices. That's coordination, not care for safety.",
+          "visual_hint": "Executives in closed meeting room",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "boardroom meeting",
+          "image": "https://images.pexels.com/photos/7648468/pexels-photo-7648468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Compliance costs tripled overnight",
+          "description": "Your startup pays more for rules Big Tech wrote. You're subsidizing them, not competing fairly.",
+          "visual_hint": "Hand holding expensive invoice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "tax documents",
+          "image": "https://images.pexels.com/photos/7821544/pexels-photo-7821544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: demand compute transparency",
+          "description": "Call your rep now: subpoena secret compute deals. If it's safety, show data; if cartel, show invoices.",
+          "visual_hint": "Phone with call to action button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone call",
+          "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-15T06:59:31.839Z",
+      "sourceId": "c9c7e7aae9376f42002bdc94ee796681"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "microsoft-s-new-ai-code-of-conduct-tells-models-no",
       "prompt_version": "1.0.0",
       "status": "published",
