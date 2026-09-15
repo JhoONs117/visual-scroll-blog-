@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "meta-8217-s-new-one-subscriptions-put-a-price-on-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "pubDate": "2026-09-15T15:00:00.000Z",
+    "slides": [
+      "Is Meta about to charge you for Instagram?",
+      "One subscription bundles social media and AI features",
+      "But most users already get these tools free",
+      "Paying removes ads and unlocks extra AI power",
+      "Would you pay to escape ads you ignore anyway?"
+    ],
+    "thread_text": [
+      "1. Meta's paywall gamble\n\nInstagram and Facebook may soon offer a paid tier that bundles ad-free browsing with AI tools. Free users keep basic features but see ads.",
+      "2. Bundle or bust\n\nThe subscription combines social media perks with Meta AI's most advanced capabilities, reportedly including faster responses and image generation.",
+      "3. The freebie problem\n\nMost of these AI features already exist for free across Meta's apps. Paying would mainly remove ads you've learned to ignore.",
+      "4. Ad fatigue tax\n\nIf you block ads mentally, the real value is in exclusive AI power. But is that worth a monthly fee when rivals offer similar tools for free?",
+      "5. Would you pay?\n\nTry using Meta AI for a week. If you miss the premium speed, maybe. If not, save your money. What's your take?"
+    ],
+    "video_script": [
+      "Is Meta about to charge you for Instagram?",
+      "One subscription bundles social media and AI features.",
+      "But most users already get these tools free.",
+      "Paying removes ads and unlocks extra AI power.",
+      "Would you pay to escape ads you ignore anyway?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Meta's paywall gamble\n\nInstagram and Facebook may soon offer a paid tier that bundles ad-free browsing with AI tools. Free users keep basic features but see ads.",
+          "2. Bundle or bust\n\nThe subscription combines social media perks with Meta AI's most advanced capabilities, reportedly including faster responses and image generation.",
+          "3. The freebie problem\n\nMost of these AI features already exist for free across Meta's apps. Paying would mainly remove ads you've learned to ignore.",
+          "4. Ad fatigue tax\n\nIf you block ads mentally, the real value is in exclusive AI power. But is that worth a monthly fee when rivals offer similar tools for free?",
+          "5. Would you pay?\n\nTry using Meta AI for a week. If you miss the premium speed, maybe. If not, save your money. What's your take?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Is Meta about to charge you for Instagram?",
+          "One subscription bundles social media and AI features.",
+          "But most users already get these tools free.",
+          "Paying removes ads and unlocks extra AI power.",
+          "Would you pay to escape ads you ignore anyway?"
+        ]
+      },
+      "instagram": {
+        "caption": "Instagram and Facebook might soon cost money if you want them without ads.\n\nMeta is testing a subscription called One that bundles ad-free browsing with its most advanced AI tools.\n\nMost of those AI features are already free, so you'd mainly be paying to remove ads you scroll past anyway.\n\nIf you post or run content on Meta apps, a paid tier could shift reach and features behind a paywall.\n\nWould you pay monthly just to skip ads you already ignore? 💸🤖📱"
+      }
+    },
+    "instagram_caption": "Instagram and Facebook might soon cost money if you want them without ads.\n\nMeta is testing a subscription called One that bundles ad-free browsing with its most advanced AI tools.\n\nMost of those AI features are already free, so you'd mainly be paying to remove ads you scroll past anyway.\n\nIf you post or run content on Meta apps, a paid tier could shift reach and features behind a paywall.\n\nWould you pay monthly just to skip ads you already ignore? 💸🤖📱",
+    "carousel_slides": [
+      {
+        "hook": "Are you paying for features you already get free?",
+        "description": "Meta's paid tier bundles ad-free browsing with AI tools most users already access for free, so you may be double-paying for nothing.",
+        "visual_hint": "Sleek smartphone showing subscription paywall screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone screen"
+      },
+      {
+        "hook": "Instagram and Facebook may soon charge you",
+        "description": "A new One subscription combines social perks with premium Meta AI, reportedly faster responses and image generation, while free users keep basic features with ads.",
+        "visual_hint": "Two overlapping social app icons on glass surface",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "social media icons",
+        "image": "https://images.pexels.com/photos/11681097/pexels-photo-11681097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "You already get these AI tools for free",
+        "description": "Most bundled AI features exist free across Meta apps, so paying mainly removes ads you have unconsciously learned to ignore anyway.",
+        "visual_hint": "Split screen comparing free versus paid feature list",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "feature comparison chart",
+        "image": "https://images.pexels.com/photos/7947759/pexels-photo-7947759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Paying removes ads and unlocks stronger AI",
+        "description": "The real value sits in exclusive AI speed, yet rivals offer similar tools free, making the monthly fee harder to justify for ad-weary users.",
+        "visual_hint": "Hand holding credit card near glowing screen",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "credit card payment",
+        "image": "https://images.pexels.com/photos/5239804/pexels-photo-5239804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Would you pay to escape ads you ignore?",
+        "description": "Try Meta AI free for one week, then decide if premium speed is worth your money before subscribing to anything.",
+        "visual_hint": "Phone with one-week trial countdown timer",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar countdown timer",
+        "image": "https://images.pexels.com/photos/14643691/pexels-photo-14643691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C93.063453493324&amp;w=1200",
+    "savedAt": "2026-09-15T23:50:58.397Z",
+    "sourceId": "a16a9d44f2c9b21ebb963afbc094643f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "voters-mostly-don-t-like-ai-and-data-centers-but-n",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "pubDate": "2026-09-15T23:34:25.000Z",
+    "slides": [
+      "Voters dislike AI and data centers, but who wins?",
+      "Both parties struggle to gain an edge on the issue.",
+      "Surprisingly, opposition is not driven by party lines.",
+      "Candidates must now address these local concerns directly.",
+      "One action: ask your representative where they stand."
+    ],
+    "thread_text": [
+      "1. Voters vs. Data Centers\n\nPoliticians keep building them anyway. New polling shows the gap between public opinion and policy is widening.",
+      "2. Both Parties Stumble\n\nNeither has a clear advantage. Candidates are caught between local anger and national donors.",
+      "3. Not a Party Issue\n\nOpposition cuts across left and right. Surprisingly, it's driven by proximity, not ideology.",
+      "4. Local Concerns Go National\n\nCandidates who ignore the issue risk losing key districts. The debate is now unavoidable.",
+      "5. Ask Your Representative\n\nWhere do they stand on data centers in your area? Send an email today and find out."
+    ],
+    "video_script": [
+      "Voters hate AI and data centers, but who wins?",
+      "Both parties struggle to gain an edge.",
+      "Opposition isn't driven by party lines.",
+      "Candidates must address these local concerns directly.",
+      "Ask your representative where they stand today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Voters vs. Data Centers\n\nPoliticians keep building them anyway. New polling shows the gap between public opinion and policy is widening.",
+          "2. Both Parties Stumble\n\nNeither has a clear advantage. Candidates are caught between local anger and national donors.",
+          "3. Not a Party Issue\n\nOpposition cuts across left and right. Surprisingly, it's driven by proximity, not ideology.",
+          "4. Local Concerns Go National\n\nCandidates who ignore the issue risk losing key districts. The debate is now unavoidable.",
+          "5. Ask Your Representative\n\nWhere do they stand on data centers in your area? Send an email today and find out."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Voters hate AI and data centers, but who wins?",
+          "Both parties struggle to gain an edge.",
+          "Opposition isn't driven by party lines.",
+          "Candidates must address these local concerns directly.",
+          "Ask your representative where they stand today."
+        ]
+      },
+      "instagram": {
+        "caption": "Politicians are approving data centers even though most voters don't want them nearby.\n\nNew polling shows both parties are losing on this issue. 🗳️\n\nOpposition isn't split by left or right. It's driven by how close you live to the project.\n\nCandidates now have to answer for it directly, because ignoring it costs districts.\n\nIf your work depends on publishing or creating content locally, this affects the permits, power costs, and land decisions in your area. 🏗️⚡\n\nAsk your representative where they stand on data centers in your district before the next vote. 📩"
+      }
+    },
+    "instagram_caption": "Politicians are approving data centers even though most voters don't want them nearby.\n\nNew polling shows both parties are losing on this issue. 🗳️\n\nOpposition isn't split by left or right. It's driven by how close you live to the project.\n\nCandidates now have to answer for it directly, because ignoring it costs districts.\n\nIf your work depends on publishing or creating content locally, this affects the permits, power costs, and land decisions in your area. 🏗️⚡\n\nAsk your representative where they stand on data centers in your district before the next vote. 📩",
+    "carousel_slides": [
+      {
+        "hook": "Is your neighborhood next on the server map?",
+        "description": "Voters dislike AI and data centers, yet both parties struggle to gain an edge on this growing national issue.",
+        "visual_hint": "Row of glowing data center servers",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Neither party owns this fight.",
+        "description": "Both parties are caught between local anger and national donors, leaving candidates without a clear advantage on the issue.",
+        "visual_hint": "Two politicians standing at separate podiums",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "debate podium",
+        "image": "https://images.pexels.com/photos/38545729/pexels-photo-38545729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It's not red versus blue.",
+        "description": "Opposition cuts across left and right, driven more by proximity to data centers than by party ideology or affiliation.",
+        "visual_hint": "Map highlighting local proximity zones",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "city map",
+        "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ignoring this could cost key districts.",
+        "description": "Candidates must now address these local concerns directly, as ignoring the debate risks losing key districts in upcoming elections.",
+        "visual_hint": "Candidate speaking to a concerned crowd",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "town hall meeting",
+        "image": "https://images.pexels.com/photos/17404692/pexels-photo-17404692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your rep where they stand.",
+        "description": "Send an email today asking your representative about data centers in your area, then save this and visit the link in bio.",
+        "visual_hint": "Hand typing an email on a laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop email",
+        "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-15T23:50:49.380Z",
+    "sourceId": "066a2ef821973007a6fd1b74a7174bbe"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-ai-data-center-boom-is-colliding-with-cities-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI data center boom is colliding with cities scarred by big industry ",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+    "slides": [
+      "AI data centers are booming, but can cities trust them?",
+      "They consume as much power as small towns.",
+      "Yet many promise jobs that never materialize.",
+      "Demand transparency on energy and water use before approval.",
+      "Ask your local officials: what guarantees do we have?"
+    ],
+    "thread_text": [
+      "1. Cities Are Signing Blind\n\nData centers promise tax revenue, but many keep energy and water contracts secret. You may be funding the infrastructure without seeing the terms.",
+      "2. Power Hungry Neighbors\n\nA single facility can draw as much electricity as a small town. That strain hits local grids and your bills before any ribbon-cutting.",
+      "3. Jobs That Never Arrive\n\nConstruction brings temporary work. Permanent roles are often a handful of technicians. The economic boom is mostly on paper.",
+      "4. Demand Transparency\n\nBefore approval, ask for public energy and water usage forecasts. Without them, you're voting on a black box.",
+      "5. Your Move\n\nCall your city council member today: 'What guarantees do we have on energy and water before you approve this?' If they can't answer, that's your answer."
+    ],
+    "video_script": [
+      "AI data centers are booming, but can cities trust them?",
+      "They consume as much power as small towns.",
+      "Yet many promise jobs that never materialize.",
+      "Demand transparency on energy and water use before approval.",
+      "Ask your local officials: what guarantees do we have?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Cities Are Signing Blind\n\nData centers promise tax revenue, but many keep energy and water contracts secret. You may be funding the infrastructure without seeing the terms.",
+          "2. Power Hungry Neighbors\n\nA single facility can draw as much electricity as a small town. That strain hits local grids and your bills before any ribbon-cutting.",
+          "3. Jobs That Never Arrive\n\nConstruction brings temporary work. Permanent roles are often a handful of technicians. The economic boom is mostly on paper.",
+          "4. Demand Transparency\n\nBefore approval, ask for public energy and water usage forecasts. Without them, you're voting on a black box.",
+          "5. Your Move\n\nCall your city council member today: 'What guarantees do we have on energy and water before you approve this?' If they can't answer, that's your answer."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "AI data centers are booming, but can cities trust them?",
+          "They consume as much power as small towns.",
+          "Yet many promise jobs that never materialize.",
+          "Demand transparency on energy and water use before approval.",
+          "Ask your local officials: what guarantees do we have?"
+        ]
+      },
+      "instagram": {
+        "caption": "A single data center can pull as much electricity as a small town, and you're paying for that grid strain before it even opens. ⚡\n\nCities keep signing energy and water contracts in secret, so the public never sees the terms.\n\nThe promised jobs are mostly temporary construction work — permanent roles are often just a handful of technicians.\n\nIf you make content or run a small business, rising local power and water costs hit your bills directly, not just the data center's.\n\nBefore your city approves the next one, call your council member and ask: what guarantees do we have on energy and water? If they can't answer, that's your answer. 🏙️💧"
+      }
+    },
+    "instagram_caption": "A single data center can pull as much electricity as a small town, and you're paying for that grid strain before it even opens. ⚡\n\nCities keep signing energy and water contracts in secret, so the public never sees the terms.\n\nThe promised jobs are mostly temporary construction work — permanent roles are often just a handful of technicians.\n\nIf you make content or run a small business, rising local power and water costs hit your bills directly, not just the data center's.\n\nBefore your city approves the next one, call your council member and ask: what guarantees do we have on energy and water? If they can't answer, that's your answer. 🏙️💧",
+    "carousel_slides": [
+      {
+        "hook": "Data centers: jobs promise or power grab?",
+        "description": "Cities sign tax deals, but permanent jobs are a handful of technicians. The economic boom stays mostly on paper.",
+        "visual_hint": "Empty server room corridors",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "One facility powers a small town",
+        "description": "A single data center draws electricity equal to a small town, straining local grids and raising your bills.",
+        "visual_hint": "Power lines over suburban town",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "power lines",
+        "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Construction jobs vanish after the ribbon",
+        "description": "Temporary construction work ends quickly; permanent roles are minimal. The promised economic boom rarely materializes for residents.",
+        "visual_hint": "Empty construction site sunset",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "construction site",
+        "image": "https://images.pexels.com/photos/32716845/pexels-photo-32716845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Demand energy and water forecasts first",
+        "description": "Before approval, require public energy and water usage forecasts. Without them, you're voting on a black box.",
+        "visual_hint": "Hand holding utility bill",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "water meter",
+        "image": "https://images.pexels.com/photos/26777168/pexels-photo-26777168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Ask your council: what guarantees do we have?",
+        "description": "Call your city council member today: ask what guarantees exist on energy and water before they approve. If they can't answer, that's your answer.",
+        "visual_hint": "City council meeting chamber",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "city council",
+        "image": "https://images.pexels.com/photos/33599640/pexels-photo-33599640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+    "savedAt": "2026-09-15T23:50:40.896Z",
+    "sourceId": "f5e80ecad1974be7aa6cc485802da5d7"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "early-anthropic-hire-former-metr-coo-have-found-a-",
     "prompt_version": "1.0.0",
     "status": "published",

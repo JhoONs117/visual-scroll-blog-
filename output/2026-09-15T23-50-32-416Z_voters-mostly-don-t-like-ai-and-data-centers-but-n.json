@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "voters-mostly-don-t-like-ai-and-data-centers-but-n",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+  "pubDate": "2026-09-15T23:34:25.000Z",
+  "slides": [
+    "Voters dislike AI and data centers, but who wins?",
+    "Both parties struggle to gain an edge on the issue.",
+    "Surprisingly, opposition is not driven by party lines.",
+    "Candidates must now address these local concerns directly.",
+    "One action: ask your representative where they stand."
+  ],
+  "thread_text": [
+    "1. Voters vs. Data Centers\n\nPoliticians keep building them anyway. New polling shows the gap between public opinion and policy is widening.",
+    "2. Both Parties Stumble\n\nNeither has a clear advantage. Candidates are caught between local anger and national donors.",
+    "3. Not a Party Issue\n\nOpposition cuts across left and right. Surprisingly, it's driven by proximity, not ideology.",
+    "4. Local Concerns Go National\n\nCandidates who ignore the issue risk losing key districts. The debate is now unavoidable.",
+    "5. Ask Your Representative\n\nWhere do they stand on data centers in your area? Send an email today and find out."
+  ],
+  "video_script": [
+    "Voters hate AI and data centers, but who wins?",
+    "Both parties struggle to gain an edge.",
+    "Opposition isn't driven by party lines.",
+    "Candidates must address these local concerns directly.",
+    "Ask your representative where they stand today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Voters vs. Data Centers\n\nPoliticians keep building them anyway. New polling shows the gap between public opinion and policy is widening.",
+        "2. Both Parties Stumble\n\nNeither has a clear advantage. Candidates are caught between local anger and national donors.",
+        "3. Not a Party Issue\n\nOpposition cuts across left and right. Surprisingly, it's driven by proximity, not ideology.",
+        "4. Local Concerns Go National\n\nCandidates who ignore the issue risk losing key districts. The debate is now unavoidable.",
+        "5. Ask Your Representative\n\nWhere do they stand on data centers in your area? Send an email today and find out."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Voters hate AI and data centers, but who wins?",
+        "Both parties struggle to gain an edge.",
+        "Opposition isn't driven by party lines.",
+        "Candidates must address these local concerns directly.",
+        "Ask your representative where they stand today."
+      ]
+    },
+    "instagram": {
+      "caption": "Politicians are approving data centers even though most voters don't want them nearby.\n\nNew polling shows both parties are losing on this issue. 🗳️\n\nOpposition isn't split by left or right. It's driven by how close you live to the project.\n\nCandidates now have to answer for it directly, because ignoring it costs districts.\n\nIf your work depends on publishing or creating content locally, this affects the permits, power costs, and land decisions in your area. 🏗️⚡\n\nAsk your representative where they stand on data centers in your district before the next vote. 📩"
+    }
+  },
+  "instagram_caption": "Politicians are approving data centers even though most voters don't want them nearby.\n\nNew polling shows both parties are losing on this issue. 🗳️\n\nOpposition isn't split by left or right. It's driven by how close you live to the project.\n\nCandidates now have to answer for it directly, because ignoring it costs districts.\n\nIf your work depends on publishing or creating content locally, this affects the permits, power costs, and land decisions in your area. 🏗️⚡\n\nAsk your representative where they stand on data centers in your district before the next vote. 📩",
+  "carousel_slides": [
+    {
+      "hook": "Is your neighborhood next on the server map?",
+      "description": "Voters dislike AI and data centers, yet both parties struggle to gain an edge on this growing national issue.",
+      "visual_hint": "Row of glowing data center servers",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Neither party owns this fight.",
+      "description": "Both parties are caught between local anger and national donors, leaving candidates without a clear advantage on the issue.",
+      "visual_hint": "Two politicians standing at separate podiums",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "debate podium",
+      "image": "https://images.pexels.com/photos/38545729/pexels-photo-38545729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It's not red versus blue.",
+      "description": "Opposition cuts across left and right, driven more by proximity to data centers than by party ideology or affiliation.",
+      "visual_hint": "Map highlighting local proximity zones",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "city map",
+      "image": "https://images.pexels.com/photos/20240697/pexels-photo-20240697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ignoring this could cost key districts.",
+      "description": "Candidates must now address these local concerns directly, as ignoring the debate risks losing key districts in upcoming elections.",
+      "visual_hint": "Candidate speaking to a concerned crowd",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "town hall meeting",
+      "image": "https://images.pexels.com/photos/17404692/pexels-photo-17404692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your rep where they stand.",
+      "description": "Send an email today asking your representative about data centers in your area, then save this and visit the link in bio.",
+      "visual_hint": "Hand typing an email on a laptop",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop email",
+      "image": "https://images.pexels.com/photos/29359827/pexels-photo-29359827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-15T23:50:49.380Z",
+  "sourceId": "066a2ef821973007a6fd1b74a7174bbe"
+}

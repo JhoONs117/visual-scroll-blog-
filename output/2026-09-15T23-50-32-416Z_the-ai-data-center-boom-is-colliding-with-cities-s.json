@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-data-center-boom-is-colliding-with-cities-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI data center boom is colliding with cities scarred by big industry ",
+  "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+  "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+  "slides": [
+    "AI data centers are booming, but can cities trust them?",
+    "They consume as much power as small towns.",
+    "Yet many promise jobs that never materialize.",
+    "Demand transparency on energy and water use before approval.",
+    "Ask your local officials: what guarantees do we have?"
+  ],
+  "thread_text": [
+    "1. Cities Are Signing Blind\n\nData centers promise tax revenue, but many keep energy and water contracts secret. You may be funding the infrastructure without seeing the terms.",
+    "2. Power Hungry Neighbors\n\nA single facility can draw as much electricity as a small town. That strain hits local grids and your bills before any ribbon-cutting.",
+    "3. Jobs That Never Arrive\n\nConstruction brings temporary work. Permanent roles are often a handful of technicians. The economic boom is mostly on paper.",
+    "4. Demand Transparency\n\nBefore approval, ask for public energy and water usage forecasts. Without them, you're voting on a black box.",
+    "5. Your Move\n\nCall your city council member today: 'What guarantees do we have on energy and water before you approve this?' If they can't answer, that's your answer."
+  ],
+  "video_script": [
+    "AI data centers are booming, but can cities trust them?",
+    "They consume as much power as small towns.",
+    "Yet many promise jobs that never materialize.",
+    "Demand transparency on energy and water use before approval.",
+    "Ask your local officials: what guarantees do we have?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Cities Are Signing Blind\n\nData centers promise tax revenue, but many keep energy and water contracts secret. You may be funding the infrastructure without seeing the terms.",
+        "2. Power Hungry Neighbors\n\nA single facility can draw as much electricity as a small town. That strain hits local grids and your bills before any ribbon-cutting.",
+        "3. Jobs That Never Arrive\n\nConstruction brings temporary work. Permanent roles are often a handful of technicians. The economic boom is mostly on paper.",
+        "4. Demand Transparency\n\nBefore approval, ask for public energy and water usage forecasts. Without them, you're voting on a black box.",
+        "5. Your Move\n\nCall your city council member today: 'What guarantees do we have on energy and water before you approve this?' If they can't answer, that's your answer."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI data centers are booming, but can cities trust them?",
+        "They consume as much power as small towns.",
+        "Yet many promise jobs that never materialize.",
+        "Demand transparency on energy and water use before approval.",
+        "Ask your local officials: what guarantees do we have?"
+      ]
+    },
+    "instagram": {
+      "caption": "A single data center can pull as much electricity as a small town, and you're paying for that grid strain before it even opens. ⚡\n\nCities keep signing energy and water contracts in secret, so the public never sees the terms.\n\nThe promised jobs are mostly temporary construction work — permanent roles are often just a handful of technicians.\n\nIf you make content or run a small business, rising local power and water costs hit your bills directly, not just the data center's.\n\nBefore your city approves the next one, call your council member and ask: what guarantees do we have on energy and water? If they can't answer, that's your answer. 🏙️💧"
+    }
+  },
+  "instagram_caption": "A single data center can pull as much electricity as a small town, and you're paying for that grid strain before it even opens. ⚡\n\nCities keep signing energy and water contracts in secret, so the public never sees the terms.\n\nThe promised jobs are mostly temporary construction work — permanent roles are often just a handful of technicians.\n\nIf you make content or run a small business, rising local power and water costs hit your bills directly, not just the data center's.\n\nBefore your city approves the next one, call your council member and ask: what guarantees do we have on energy and water? If they can't answer, that's your answer. 🏙️💧",
+  "carousel_slides": [
+    {
+      "hook": "Data centers: jobs promise or power grab?",
+      "description": "Cities sign tax deals, but permanent jobs are a handful of technicians. The economic boom stays mostly on paper.",
+      "visual_hint": "Empty server room corridors",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "One facility powers a small town",
+      "description": "A single data center draws electricity equal to a small town, straining local grids and raising your bills.",
+      "visual_hint": "Power lines over suburban town",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "power lines",
+      "image": "https://images.pexels.com/photos/39398551/pexels-photo-39398551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Construction jobs vanish after the ribbon",
+      "description": "Temporary construction work ends quickly; permanent roles are minimal. The promised economic boom rarely materializes for residents.",
+      "visual_hint": "Empty construction site sunset",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "construction site",
+      "image": "https://images.pexels.com/photos/32716845/pexels-photo-32716845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Demand energy and water forecasts first",
+      "description": "Before approval, require public energy and water usage forecasts. Without them, you're voting on a black box.",
+      "visual_hint": "Hand holding utility bill",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "water meter",
+      "image": "https://images.pexels.com/photos/26777168/pexels-photo-26777168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask your council: what guarantees do we have?",
+      "description": "Call your city council member today: ask what guarantees exist on energy and water before they approve. If they can't answer, that's your answer.",
+      "visual_hint": "City council meeting chamber",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "city council",
+      "image": "https://images.pexels.com/photos/33599640/pexels-photo-33599640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T23:50:40.896Z",
+  "sourceId": "f5e80ecad1974be7aa6cc485802da5d7"
+}
