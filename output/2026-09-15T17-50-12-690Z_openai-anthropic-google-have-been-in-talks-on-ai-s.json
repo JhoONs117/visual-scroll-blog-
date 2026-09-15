@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "openai-anthropic-google-have-been-in-talks-on-ai-s",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+  "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+  "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
+  "slides": [
+    "Why are OpenAI, Anthropic, and Google talking now?",
+    "The talks have been running secretly for weeks.",
+    "But they may not agree on the actual danger.",
+    "Your AI tools could face new safety rules soon.",
+    "Watch tonight's policy updates before building on them."
+  ],
+  "thread_text": [
+    "1. Secret AI Safety Talks\n\nOpenAI, Anthropic, and Google have been meeting behind closed doors for weeks. They don't agree on what the real danger is.",
+    "2. Why Now?\n\nRegulators are circling. The three rivals rarely talk, so this silence is the story. Something forced them to the table.",
+    "3. The Real Disagreement\n\nGoogle worries about misuse. Anthropic fears loss of control. OpenAI focuses on gradual risk. Same threat, different fears.",
+    "4. Rules Are Coming\n\nIf they align, new safety standards could hit your AI tools within months. What you build today might need rework.",
+    "5. Check Before You Build\n\nWatch tonight's policy updates before shipping anything new. Ask yourself: is my product ready for a rule change?"
+  ],
+  "video_script": [
+    "OpenAI, Anthropic, and Google are talking in secret.",
+    "They have met for weeks, but they disagree.",
+    "Google fears misuse, Anthropic fears control loss.",
+    "New safety rules could hit your AI tools soon.",
+    "Check tonight's policy updates before you build."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Secret AI Safety Talks\n\nOpenAI, Anthropic, and Google have been meeting behind closed doors for weeks. They don't agree on what the real danger is.",
+        "2. Why Now?\n\nRegulators are circling. The three rivals rarely talk, so this silence is the story. Something forced them to the table.",
+        "3. The Real Disagreement\n\nGoogle worries about misuse. Anthropic fears loss of control. OpenAI focuses on gradual risk. Same threat, different fears.",
+        "4. Rules Are Coming\n\nIf they align, new safety standards could hit your AI tools within months. What you build today might need rework.",
+        "5. Check Before You Build\n\nWatch tonight's policy updates before shipping anything new. Ask yourself: is my product ready for a rule change?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "OpenAI, Anthropic, and Google are talking in secret.",
+        "They have met for weeks, but they disagree.",
+        "Google fears misuse, Anthropic fears control loss.",
+        "New safety rules could hit your AI tools soon.",
+        "Check tonight's policy updates before you build."
+      ]
+    },
+    "instagram": {
+      "caption": "OpenAI, Anthropic and Google have quietly been in talks for weeks 👀\n\nThey still don't agree on what the real danger actually is. Google worries about misuse, Anthropic about losing control, OpenAI about slow-building risk.\n\nIf they align, new safety standards could hit your AI tools within months.\n\nThat means what you're building right now might need rework sooner than you think. ⚠️\n\nBefore you ship anything new, check tonight's policy updates. Ask yourself: is your product ready for a rule change? 🤔\n\nWhat would you change in your current project if new rules landed tomorrow?"
+    }
+  },
+  "instagram_caption": "OpenAI, Anthropic and Google have quietly been in talks for weeks 👀\n\nThey still don't agree on what the real danger actually is. Google worries about misuse, Anthropic about losing control, OpenAI about slow-building risk.\n\nIf they align, new safety standards could hit your AI tools within months.\n\nThat means what you're building right now might need rework sooner than you think. ⚠️\n\nBefore you ship anything new, check tonight's policy updates. Ask yourself: is your product ready for a rule change? 🤔\n\nWhat would you change in your current project if new rules landed tomorrow?",
+  "carousel_slides": [
+    {
+      "hook": "They secretly fear different AI dangers",
+      "description": "Google warns of misuse, Anthropic of losing control, OpenAI of gradual risk. Same threat, three incompatible fears stall any deal.",
+      "visual_hint": "three screens glowing in dark office",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Rivals meeting in silence for weeks",
+      "description": "OpenAI, Anthropic and Google rarely talk. Secret talks suggest regulators forced them to the table before rules arrive.",
+      "visual_hint": "empty glass meeting room at night",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "office building",
+      "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Three companies, three incompatible fears",
+      "description": "Google fears misuse, Anthropic fears loss of control, OpenAI fears gradual risk. Without alignment, no shared safety standard emerges.",
+      "visual_hint": "monitor with diverging warning signals",
+      "layout_type": "sensor-zoom",
+      "icon": "vibration",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "New AI safety rules could hit months",
+      "description": "If the three align, new standards may land within months. Products you ship today might require rework later.",
+      "visual_hint": "hand typing code on laptop keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "computer keyboard",
+      "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check policy updates before you build",
+      "description": "Watch tonight's policy updates before shipping anything new. Ask if your product survives a sudden rule change.",
+      "visual_hint": "policy document beside glowing laptop screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "legal documents",
+      "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T17:50:37.974Z",
+  "sourceId": "7ca41db25b66a63fdf58020dcbef526e"
+}

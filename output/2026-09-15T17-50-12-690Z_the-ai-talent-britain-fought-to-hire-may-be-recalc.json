@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-talent-britain-fought-to-hire-may-be-recalc",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+  "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+  "pubDate": "Tue, 15 Sep 2026 07:14:47 +0000",
+  "slides": [
+    "Why is Britain's AI dream suddenly uncertain?",
+    "The country spent years courting top researchers.",
+    "Many are now quietly reconsidering their visas.",
+    "Your hiring plans may need a backup pipeline.",
+    "Ask one AI recruit what would make them stay."
+  ],
+  "thread_text": [
+    "1. Britain's AI dream falters\n\nTop researchers are quietly reconsidering their visas after years of courtship. The pipeline is leaking.",
+    "2. Years of courtship undone\n\nThe country spent a decade wooing talent. Now the same people are packing bags.",
+    "3. Visas under review\n\nMany are not just thinking about leaving — they are actively checking exit options.",
+    "4. Your hiring plan breaks\n\nIf your talent pipeline runs through the UK, you need a backup. Now.",
+    "5. Ask one recruit\n\nWhat would make them stay? If you don't know, you've already lost them. Call one today."
+  ],
+  "video_script": [
+    "Britain spent years courting top AI researchers.",
+    "Now many are quietly reconsidering their visas.",
+    "Your hiring plans may need a backup pipeline.",
+    "Ask one AI recruit what would make them stay.",
+    "The answer might surprise you — or break you."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Britain's AI dream falters\n\nTop researchers are quietly reconsidering their visas after years of courtship. The pipeline is leaking.",
+        "2. Years of courtship undone\n\nThe country spent a decade wooing talent. Now the same people are packing bags.",
+        "3. Visas under review\n\nMany are not just thinking about leaving — they are actively checking exit options.",
+        "4. Your hiring plan breaks\n\nIf your talent pipeline runs through the UK, you need a backup. Now.",
+        "5. Ask one recruit\n\nWhat would make them stay? If you don't know, you've already lost them. Call one today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Britain spent years courting top AI researchers.",
+        "Now many are quietly reconsidering their visas.",
+        "Your hiring plans may need a backup pipeline.",
+        "Ask one AI recruit what would make them stay.",
+        "The answer might surprise you — or break you."
+      ]
+    },
+    "instagram": {
+      "caption": "Researchers Britain spent a decade courting are now quietly checking exit options on their visas. 🧳\n\nThe country built its AI reputation on imported talent.\n\nNow many of those same people are recalculating whether to stay.\n\nIf your pipeline runs through the UK, it's leaking.\n\nYour next hire may already be looking elsewhere, and you won't hear about it until they're gone. 📉\n\nDo you know what would make your best AI recruit stay? Ask one this week. 💬\n\nIf you can't answer that, you've already lost them. ⚠️"
+    }
+  },
+  "instagram_caption": "Researchers Britain spent a decade courting are now quietly checking exit options on their visas. 🧳\n\nThe country built its AI reputation on imported talent.\n\nNow many of those same people are recalculating whether to stay.\n\nIf your pipeline runs through the UK, it's leaking.\n\nYour next hire may already be looking elsewhere, and you won't hear about it until they're gone. 📉\n\nDo you know what would make your best AI recruit stay? Ask one this week. 💬\n\nIf you can't answer that, you've already lost them. ⚠️",
+  "carousel_slides": [
+    {
+      "hook": "Are AI researchers checking exit options?",
+      "description": "Top researchers are quietly reviewing their visas, not just thinking about leaving. The UK talent pipeline is actively leaking.",
+      "visual_hint": "Passport and laptop with visa stamps",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "passport visa"
+    },
+    {
+      "hook": "A decade of courtship, now undone",
+      "description": "Britain spent years wooing top AI talent. Now those same researchers are packing bags and looking elsewhere.",
+      "visual_hint": "Empty office chair, packed boxes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "empty office",
+      "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "They aren't just thinking of leaving",
+      "description": "Many AI researchers are actively checking exit options. Your hiring pipeline is at risk of drying up.",
+      "visual_hint": "Finger scrolling visa options online",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop visa search",
+      "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your UK pipeline needs a backup now",
+      "description": "If your AI hiring depends on the UK, build a parallel pipeline today. Waiting could leave roles unfilled.",
+      "visual_hint": "Recruiter mapping alternative talent routes",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers meeting",
+      "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: call one AI recruit",
+      "description": "Ask one AI recruit what would make them stay. If you don't know, you've already lost them.",
+      "visual_hint": "Hand dialing phone to call recruit",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "telephone call",
+      "image": "https://images.pexels.com/photos/16533595/pexels-photo-16533595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/29402988/pexels-photo-29402988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-15T17:50:21.219Z",
+  "sourceId": "ea3c695fe7454128a65b0decf89ea846"
+}

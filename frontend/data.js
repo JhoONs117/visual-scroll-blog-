@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "aeo-startup-profound-hits-unicorn-valuation-raises",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
+    "slides": [
+      "Profound just hit unicorn status — but can AEO survive?",
+      "It raised $180M Series D in just 7 months",
+      "The startup tracks how AI chatbots mention brands",
+      "Brands ignoring AI search visibility risk losing customers",
+      "Test one AI answer about your brand today"
+    ],
+    "thread_text": [
+      "1. The Unicorn Nobody Saw Coming\n\nProfound just hit a $1B valuation after raising $180M in just 7 months. The speed is wild, but the real story is what they actually track.",
+      "2. Why Investors Are Obsessed\n\nThey monitor how AI chatbots mention brands. Not SEO, not ads — the new discovery layer where your customers are already asking questions.",
+      "3. The Silent Traffic Killer\n\nIf ChatGPT recommends your competitor and never mentions you, you lose the sale before you even know the conversation happened.",
+      "4. The AEO Survival Question\n\nProfound's unicorn status proves AI search visibility is now a boardroom issue. But can they keep up as chatbots change weekly?",
+      "5. Test Your AI Visibility Now\n\nOpen ChatGPT and ask it to recommend a product in your category. If your brand doesn't show up, that's your new marketing emergency."
+    ],
+    "video_script": [
+      "Profound just became a unicorn in seven months.",
+      "They track how AI chatbots mention your brand.",
+      "If ChatGPT ignores you, customers never find you.",
+      "This is the new search, and most brands are invisible.",
+      "Ask ChatGPT about your brand today. See what happens."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The Unicorn Nobody Saw Coming\n\nProfound just hit a $1B valuation after raising $180M in just 7 months. The speed is wild, but the real story is what they actually track.",
+          "2. Why Investors Are Obsessed\n\nThey monitor how AI chatbots mention brands. Not SEO, not ads — the new discovery layer where your customers are already asking questions.",
+          "3. The Silent Traffic Killer\n\nIf ChatGPT recommends your competitor and never mentions you, you lose the sale before you even know the conversation happened.",
+          "4. The AEO Survival Question\n\nProfound's unicorn status proves AI search visibility is now a boardroom issue. But can they keep up as chatbots change weekly?",
+          "5. Test Your AI Visibility Now\n\nOpen ChatGPT and ask it to recommend a product in your category. If your brand doesn't show up, that's your new marketing emergency."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Profound just became a unicorn in seven months.",
+          "They track how AI chatbots mention your brand.",
+          "If ChatGPT ignores you, customers never find you.",
+          "This is the new search, and most brands are invisible.",
+          "Ask ChatGPT about your brand today. See what happens."
+        ]
+      },
+      "instagram": {
+        "caption": "$180M raised in 7 months, at a $1B valuation. That's how fast money moves when a startup tracks how AI chatbots mention brands.\n\nProfound monitors what ChatGPT and similar tools say about your company. If a chatbot recommends a competitor and skips you, the sale dies before you hear about it. 🚨\n\nThat's the new discovery layer — not search results, not ads.\n\nIf you publish content, your job now includes checking whether AI assistants actually surface your name.\n\nOpen ChatGPT right now and ask it to recommend a product in your niche. Does your brand appear? 👀\n\nIf not, what's your plan to fix it? 🤖"
+      }
+    },
+    "instagram_caption": "$180M raised in 7 months, at a $1B valuation. That's how fast money moves when a startup tracks how AI chatbots mention brands.\n\nProfound monitors what ChatGPT and similar tools say about your company. If a chatbot recommends a competitor and skips you, the sale dies before you hear about it. 🚨\n\nThat's the new discovery layer — not search results, not ads.\n\nIf you publish content, your job now includes checking whether AI assistants actually surface your name.\n\nOpen ChatGPT right now and ask it to recommend a product in your niche. Does your brand appear? 👀\n\nIf not, what's your plan to fix it? 🤖",
+    "carousel_slides": [
+      {
+        "hook": "Is your brand invisible to AI?",
+        "description": "AI chatbots now recommend products. If they never mention you, you lose sales silently — before you even know.",
+        "visual_hint": "Chatbot interface on glowing screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "chatbot screen"
+      },
+      {
+        "hook": "$180M in just 7 months",
+        "description": "Profound raised a $180M Series D and hit a $1B valuation by tracking how AI chatbots mention brands.",
+        "visual_hint": "Rising stock chart on monitor",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "stock market chart",
+        "image": "https://images.pexels.com/photos/7567223/pexels-photo-7567223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The new discovery layer is AI",
+        "description": "Not SEO, not ads. Profound monitors the AI answers where customers already ask for product recommendations.",
+        "visual_hint": "Magnifying glass over AI text",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "magnifying glass",
+        "image": "https://images.pexels.com/photos/5302819/pexels-photo-5302819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Competitors get recommended, you don't",
+        "description": "When ChatGPT recommends your competitor and skips your brand, the sale is lost without you knowing.",
+        "visual_hint": "Hand holding phone with chatbot",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "hand holding smartphone",
+        "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your AI visibility right now",
+        "description": "Ask ChatGPT to recommend a product in your category. If your brand doesn't appear, that's your new marketing emergency.",
+        "visual_hint": "Person typing prompt on laptop",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop typing hands",
+        "image": "https://images.pexels.com/photos/5725443/pexels-photo-5725443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798",
+    "savedAt": "2026-09-15T17:50:48.129Z",
+    "sourceId": "a99284cc094f15db108ce76230df352f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "openai-anthropic-google-have-been-in-talks-on-ai-s",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
+    "slides": [
+      "Why are OpenAI, Anthropic, and Google talking now?",
+      "The talks have been running secretly for weeks.",
+      "But they may not agree on the actual danger.",
+      "Your AI tools could face new safety rules soon.",
+      "Watch tonight's policy updates before building on them."
+    ],
+    "thread_text": [
+      "1. Secret AI Safety Talks\n\nOpenAI, Anthropic, and Google have been meeting behind closed doors for weeks. They don't agree on what the real danger is.",
+      "2. Why Now?\n\nRegulators are circling. The three rivals rarely talk, so this silence is the story. Something forced them to the table.",
+      "3. The Real Disagreement\n\nGoogle worries about misuse. Anthropic fears loss of control. OpenAI focuses on gradual risk. Same threat, different fears.",
+      "4. Rules Are Coming\n\nIf they align, new safety standards could hit your AI tools within months. What you build today might need rework.",
+      "5. Check Before You Build\n\nWatch tonight's policy updates before shipping anything new. Ask yourself: is my product ready for a rule change?"
+    ],
+    "video_script": [
+      "OpenAI, Anthropic, and Google are talking in secret.",
+      "They have met for weeks, but they disagree.",
+      "Google fears misuse, Anthropic fears control loss.",
+      "New safety rules could hit your AI tools soon.",
+      "Check tonight's policy updates before you build."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Secret AI Safety Talks\n\nOpenAI, Anthropic, and Google have been meeting behind closed doors for weeks. They don't agree on what the real danger is.",
+          "2. Why Now?\n\nRegulators are circling. The three rivals rarely talk, so this silence is the story. Something forced them to the table.",
+          "3. The Real Disagreement\n\nGoogle worries about misuse. Anthropic fears loss of control. OpenAI focuses on gradual risk. Same threat, different fears.",
+          "4. Rules Are Coming\n\nIf they align, new safety standards could hit your AI tools within months. What you build today might need rework.",
+          "5. Check Before You Build\n\nWatch tonight's policy updates before shipping anything new. Ask yourself: is my product ready for a rule change?"
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "OpenAI, Anthropic, and Google are talking in secret.",
+          "They have met for weeks, but they disagree.",
+          "Google fears misuse, Anthropic fears control loss.",
+          "New safety rules could hit your AI tools soon.",
+          "Check tonight's policy updates before you build."
+        ]
+      },
+      "instagram": {
+        "caption": "OpenAI, Anthropic and Google have quietly been in talks for weeks 👀\n\nThey still don't agree on what the real danger actually is. Google worries about misuse, Anthropic about losing control, OpenAI about slow-building risk.\n\nIf they align, new safety standards could hit your AI tools within months.\n\nThat means what you're building right now might need rework sooner than you think. ⚠️\n\nBefore you ship anything new, check tonight's policy updates. Ask yourself: is your product ready for a rule change? 🤔\n\nWhat would you change in your current project if new rules landed tomorrow?"
+      }
+    },
+    "instagram_caption": "OpenAI, Anthropic and Google have quietly been in talks for weeks 👀\n\nThey still don't agree on what the real danger actually is. Google worries about misuse, Anthropic about losing control, OpenAI about slow-building risk.\n\nIf they align, new safety standards could hit your AI tools within months.\n\nThat means what you're building right now might need rework sooner than you think. ⚠️\n\nBefore you ship anything new, check tonight's policy updates. Ask yourself: is your product ready for a rule change? 🤔\n\nWhat would you change in your current project if new rules landed tomorrow?",
+    "carousel_slides": [
+      {
+        "hook": "They secretly fear different AI dangers",
+        "description": "Google warns of misuse, Anthropic of losing control, OpenAI of gradual risk. Same threat, three incompatible fears stall any deal.",
+        "visual_hint": "three screens glowing in dark office",
+        "layout_type": "hero",
+        "icon": "waves",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Rivals meeting in silence for weeks",
+        "description": "OpenAI, Anthropic and Google rarely talk. Secret talks suggest regulators forced them to the table before rules arrive.",
+        "visual_hint": "empty glass meeting room at night",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "office building",
+        "image": "https://images.pexels.com/photos/19279351/pexels-photo-19279351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Three companies, three incompatible fears",
+        "description": "Google fears misuse, Anthropic fears loss of control, OpenAI fears gradual risk. Without alignment, no shared safety standard emerges.",
+        "visual_hint": "monitor with diverging warning signals",
+        "layout_type": "sensor-zoom",
+        "icon": "vibration",
+        "image_query": "data center",
+        "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "New AI safety rules could hit months",
+        "description": "If the three align, new standards may land within months. Products you ship today might require rework later.",
+        "visual_hint": "hand typing code on laptop keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "computer keyboard",
+        "image": "https://images.pexels.com/photos/13200202/pexels-photo-13200202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check policy updates before you build",
+        "description": "Watch tonight's policy updates before shipping anything new. Ask if your product survives a sudden rule change.",
+        "visual_hint": "policy document beside glowing laptop screen",
+        "layout_type": "cta-final",
+        "icon": "check",
+        "image_query": "legal documents",
+        "image": "https://images.pexels.com/photos/7875991/pexels-photo-7875991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
+    "savedAt": "2026-09-15T17:50:37.974Z",
+    "sourceId": "7ca41db25b66a63fdf58020dcbef526e"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "meta-expands-subscription-push-with-new-ai-focused",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+    "slides": [
+      "Can Meta's new AI plans make you pay?",
+      "Subscription push expands beyond ad-free browsing",
+      "Free users may soon hit AI-powered paywalls",
+      "Check if your favorite features move behind a plan",
+      "Test one paid AI tool before committing"
+    ],
+    "thread_text": [
+      "1. The AI Paywall Is Coming\n\nMeta is reportedly exploring subscriptions for AI features, moving beyond ad-free browsing. Free users could soon face limits on what they can access.",
+      "2. No More Free AI Perks\n\nMeta's new subscription push expands beyond ad-free browsing to potentially include AI-powered tools. Users may need to pay for features they currently enjoy for free.",
+      "3. AI Paywalls for All?\n\nIf Meta follows through, free users could hit AI-powered paywalls. This could set a precedent for other platforms to charge for AI capabilities.",
+      "4. Check Your Favorite Features\n\nSome features might move behind a premium plan. It's worth reviewing which AI tools you rely on and whether they'll stay free.",
+      "5. Test Before You Commit\n\nBefore paying for any AI subscription, try one paid tool for a month. See if it's worth the cost for your needs."
+    ],
+    "video_script": [
+      "Meta might make you pay for AI.",
+      "Free users could hit AI paywalls.",
+      "Check if your favorite features move.",
+      "Test one paid AI tool first.",
+      "Would you pay for Meta's AI?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The AI Paywall Is Coming\n\nMeta is reportedly exploring subscriptions for AI features, moving beyond ad-free browsing. Free users could soon face limits on what they can access.",
+          "2. No More Free AI Perks\n\nMeta's new subscription push expands beyond ad-free browsing to potentially include AI-powered tools. Users may need to pay for features they currently enjoy for free.",
+          "3. AI Paywalls for All?\n\nIf Meta follows through, free users could hit AI-powered paywalls. This could set a precedent for other platforms to charge for AI capabilities.",
+          "4. Check Your Favorite Features\n\nSome features might move behind a premium plan. It's worth reviewing which AI tools you rely on and whether they'll stay free.",
+          "5. Test Before You Commit\n\nBefore paying for any AI subscription, try one paid tool for a month. See if it's worth the cost for your needs."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Meta might make you pay for AI.",
+          "Free users could hit AI paywalls.",
+          "Check if your favorite features move.",
+          "Test one paid AI tool first.",
+          "Would you pay for Meta's AI?"
+        ]
+      },
+      "instagram": {
+        "caption": "Features you use for free on Instagram and WhatsApp could soon sit behind a paywall.\n\nMeta is reportedly exploring subscriptions for its AI tools, expanding past the ad-free browsing plan it already sells.\n\nThat means free users might hit limits on AI features they currently get at no cost.\n\nIf Meta does it, other platforms could follow and start charging for their AI too.\n\nFor anyone who creates or publishes content, it's worth checking which AI tools you actually rely on day to day. 🤔\n\nBefore paying for anything, try one paid AI tool for a month and see if it earns its cost. 💸\n\nWhich AI feature would you refuse to pay for? 👇"
+      }
+    },
+    "instagram_caption": "Features you use for free on Instagram and WhatsApp could soon sit behind a paywall.\n\nMeta is reportedly exploring subscriptions for its AI tools, expanding past the ad-free browsing plan it already sells.\n\nThat means free users might hit limits on AI features they currently get at no cost.\n\nIf Meta does it, other platforms could follow and start charging for their AI too.\n\nFor anyone who creates or publishes content, it's worth checking which AI tools you actually rely on day to day. 🤔\n\nBefore paying for anything, try one paid AI tool for a month and see if it earns its cost. 💸\n\nWhich AI feature would you refuse to pay for? 👇",
+    "carousel_slides": [
+      {
+        "hook": "Will free AI access disappear?",
+        "description": "Meta explores AI subscriptions beyond ad-free browsing. Free users could soon hit limits on tools they use daily.",
+        "visual_hint": "Person tapping glowing AI paywall icon",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smartphone paywall screen"
+      },
+      {
+        "hook": "Subscription push expands beyond ad-free browsing.",
+        "description": "Meta's new plans may include AI-powered tools, meaning features once free could require payment to unlock.",
+        "visual_hint": "Hand holding phone with subscription toggle",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "smartphone subscription app",
+        "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI paywalls may hit free users soon.",
+        "description": "If Meta follows through, free users could face AI-powered paywalls. Other platforms might adopt the same model.",
+        "visual_hint": "Digital wall rising over AI interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence interface",
+        "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Which of your favorite features will lock?",
+        "description": "Some AI tools you rely on might move behind a premium plan. Review which features matter most before prices change.",
+        "visual_hint": "Checklist of locked premium features",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person checking smartphone settings",
+        "image": "https://images.pexels.com/photos/4051504/pexels-photo-4051504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test one paid AI tool first.",
+        "description": "Before committing to any AI subscription, try one paid tool for a month and see if it's worth your money.",
+        "visual_hint": "Finger tapping free trial button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "free trial signup screen",
+        "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "savedAt": "2026-09-15T17:50:30.087Z",
+    "sourceId": "5e497c447da816d271395995be9f0128"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "the-ai-talent-britain-fought-to-hire-may-be-recalc",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+    "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+    "pubDate": "Tue, 15 Sep 2026 07:14:47 +0000",
+    "slides": [
+      "Why is Britain's AI dream suddenly uncertain?",
+      "The country spent years courting top researchers.",
+      "Many are now quietly reconsidering their visas.",
+      "Your hiring plans may need a backup pipeline.",
+      "Ask one AI recruit what would make them stay."
+    ],
+    "thread_text": [
+      "1. Britain's AI dream falters\n\nTop researchers are quietly reconsidering their visas after years of courtship. The pipeline is leaking.",
+      "2. Years of courtship undone\n\nThe country spent a decade wooing talent. Now the same people are packing bags.",
+      "3. Visas under review\n\nMany are not just thinking about leaving — they are actively checking exit options.",
+      "4. Your hiring plan breaks\n\nIf your talent pipeline runs through the UK, you need a backup. Now.",
+      "5. Ask one recruit\n\nWhat would make them stay? If you don't know, you've already lost them. Call one today."
+    ],
+    "video_script": [
+      "Britain spent years courting top AI researchers.",
+      "Now many are quietly reconsidering their visas.",
+      "Your hiring plans may need a backup pipeline.",
+      "Ask one AI recruit what would make them stay.",
+      "The answer might surprise you — or break you."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Britain's AI dream falters\n\nTop researchers are quietly reconsidering their visas after years of courtship. The pipeline is leaking.",
+          "2. Years of courtship undone\n\nThe country spent a decade wooing talent. Now the same people are packing bags.",
+          "3. Visas under review\n\nMany are not just thinking about leaving — they are actively checking exit options.",
+          "4. Your hiring plan breaks\n\nIf your talent pipeline runs through the UK, you need a backup. Now.",
+          "5. Ask one recruit\n\nWhat would make them stay? If you don't know, you've already lost them. Call one today."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Britain spent years courting top AI researchers.",
+          "Now many are quietly reconsidering their visas.",
+          "Your hiring plans may need a backup pipeline.",
+          "Ask one AI recruit what would make them stay.",
+          "The answer might surprise you — or break you."
+        ]
+      },
+      "instagram": {
+        "caption": "Researchers Britain spent a decade courting are now quietly checking exit options on their visas. 🧳\n\nThe country built its AI reputation on imported talent.\n\nNow many of those same people are recalculating whether to stay.\n\nIf your pipeline runs through the UK, it's leaking.\n\nYour next hire may already be looking elsewhere, and you won't hear about it until they're gone. 📉\n\nDo you know what would make your best AI recruit stay? Ask one this week. 💬\n\nIf you can't answer that, you've already lost them. ⚠️"
+      }
+    },
+    "instagram_caption": "Researchers Britain spent a decade courting are now quietly checking exit options on their visas. 🧳\n\nThe country built its AI reputation on imported talent.\n\nNow many of those same people are recalculating whether to stay.\n\nIf your pipeline runs through the UK, it's leaking.\n\nYour next hire may already be looking elsewhere, and you won't hear about it until they're gone. 📉\n\nDo you know what would make your best AI recruit stay? Ask one this week. 💬\n\nIf you can't answer that, you've already lost them. ⚠️",
+    "carousel_slides": [
+      {
+        "hook": "Are AI researchers checking exit options?",
+        "description": "Top researchers are quietly reviewing their visas, not just thinking about leaving. The UK talent pipeline is actively leaking.",
+        "visual_hint": "Passport and laptop with visa stamps",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "passport visa"
+      },
+      {
+        "hook": "A decade of courtship, now undone",
+        "description": "Britain spent years wooing top AI talent. Now those same researchers are packing bags and looking elsewhere.",
+        "visual_hint": "Empty office chair, packed boxes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "empty office",
+        "image": "https://images.pexels.com/photos/8297845/pexels-photo-8297845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "They aren't just thinking of leaving",
+        "description": "Many AI researchers are actively checking exit options. Your hiring pipeline is at risk of drying up.",
+        "visual_hint": "Finger scrolling visa options online",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop visa search",
+        "image": "https://images.pexels.com/photos/6862444/pexels-photo-6862444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your UK pipeline needs a backup now",
+        "description": "If your AI hiring depends on the UK, build a parallel pipeline today. Waiting could leave roles unfilled.",
+        "visual_hint": "Recruiter mapping alternative talent routes",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers meeting",
+        "image": "https://images.pexels.com/photos/12903171/pexels-photo-12903171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: call one AI recruit",
+        "description": "Ask one AI recruit what would make them stay. If you don't know, you've already lost them.",
+        "visual_hint": "Hand dialing phone to call recruit",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "telephone call",
+        "image": "https://images.pexels.com/photos/16533595/pexels-photo-16533595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/29402988/pexels-photo-29402988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-15T17:50:21.219Z",
+    "sourceId": "ea3c695fe7454128a65b0decf89ea846"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "salesforce-and-nvidia-s-new-reasoning-model-is-eve",
     "prompt_version": "1.0.0",
     "status": "published",

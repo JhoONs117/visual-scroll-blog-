@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "meta-expands-subscription-push-with-new-ai-focused",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Meta expands subscription push with new AI-focused plans",
+  "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+  "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
+  "slides": [
+    "Can Meta's new AI plans make you pay?",
+    "Subscription push expands beyond ad-free browsing",
+    "Free users may soon hit AI-powered paywalls",
+    "Check if your favorite features move behind a plan",
+    "Test one paid AI tool before committing"
+  ],
+  "thread_text": [
+    "1. The AI Paywall Is Coming\n\nMeta is reportedly exploring subscriptions for AI features, moving beyond ad-free browsing. Free users could soon face limits on what they can access.",
+    "2. No More Free AI Perks\n\nMeta's new subscription push expands beyond ad-free browsing to potentially include AI-powered tools. Users may need to pay for features they currently enjoy for free.",
+    "3. AI Paywalls for All?\n\nIf Meta follows through, free users could hit AI-powered paywalls. This could set a precedent for other platforms to charge for AI capabilities.",
+    "4. Check Your Favorite Features\n\nSome features might move behind a premium plan. It's worth reviewing which AI tools you rely on and whether they'll stay free.",
+    "5. Test Before You Commit\n\nBefore paying for any AI subscription, try one paid tool for a month. See if it's worth the cost for your needs."
+  ],
+  "video_script": [
+    "Meta might make you pay for AI.",
+    "Free users could hit AI paywalls.",
+    "Check if your favorite features move.",
+    "Test one paid AI tool first.",
+    "Would you pay for Meta's AI?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI Paywall Is Coming\n\nMeta is reportedly exploring subscriptions for AI features, moving beyond ad-free browsing. Free users could soon face limits on what they can access.",
+        "2. No More Free AI Perks\n\nMeta's new subscription push expands beyond ad-free browsing to potentially include AI-powered tools. Users may need to pay for features they currently enjoy for free.",
+        "3. AI Paywalls for All?\n\nIf Meta follows through, free users could hit AI-powered paywalls. This could set a precedent for other platforms to charge for AI capabilities.",
+        "4. Check Your Favorite Features\n\nSome features might move behind a premium plan. It's worth reviewing which AI tools you rely on and whether they'll stay free.",
+        "5. Test Before You Commit\n\nBefore paying for any AI subscription, try one paid tool for a month. See if it's worth the cost for your needs."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Meta might make you pay for AI.",
+        "Free users could hit AI paywalls.",
+        "Check if your favorite features move.",
+        "Test one paid AI tool first.",
+        "Would you pay for Meta's AI?"
+      ]
+    },
+    "instagram": {
+      "caption": "Features you use for free on Instagram and WhatsApp could soon sit behind a paywall.\n\nMeta is reportedly exploring subscriptions for its AI tools, expanding past the ad-free browsing plan it already sells.\n\nThat means free users might hit limits on AI features they currently get at no cost.\n\nIf Meta does it, other platforms could follow and start charging for their AI too.\n\nFor anyone who creates or publishes content, it's worth checking which AI tools you actually rely on day to day. 🤔\n\nBefore paying for anything, try one paid AI tool for a month and see if it earns its cost. 💸\n\nWhich AI feature would you refuse to pay for? 👇"
+    }
+  },
+  "instagram_caption": "Features you use for free on Instagram and WhatsApp could soon sit behind a paywall.\n\nMeta is reportedly exploring subscriptions for its AI tools, expanding past the ad-free browsing plan it already sells.\n\nThat means free users might hit limits on AI features they currently get at no cost.\n\nIf Meta does it, other platforms could follow and start charging for their AI too.\n\nFor anyone who creates or publishes content, it's worth checking which AI tools you actually rely on day to day. 🤔\n\nBefore paying for anything, try one paid AI tool for a month and see if it earns its cost. 💸\n\nWhich AI feature would you refuse to pay for? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Will free AI access disappear?",
+      "description": "Meta explores AI subscriptions beyond ad-free browsing. Free users could soon hit limits on tools they use daily.",
+      "visual_hint": "Person tapping glowing AI paywall icon",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone paywall screen"
+    },
+    {
+      "hook": "Subscription push expands beyond ad-free browsing.",
+      "description": "Meta's new plans may include AI-powered tools, meaning features once free could require payment to unlock.",
+      "visual_hint": "Hand holding phone with subscription toggle",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smartphone subscription app",
+      "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI paywalls may hit free users soon.",
+      "description": "If Meta follows through, free users could face AI-powered paywalls. Other platforms might adopt the same model.",
+      "visual_hint": "Digital wall rising over AI interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence interface",
+      "image": "https://images.pexels.com/photos/30530412/pexels-photo-30530412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Which of your favorite features will lock?",
+      "description": "Some AI tools you rely on might move behind a premium plan. Review which features matter most before prices change.",
+      "visual_hint": "Checklist of locked premium features",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person checking smartphone settings",
+      "image": "https://images.pexels.com/photos/4051504/pexels-photo-4051504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test one paid AI tool first.",
+      "description": "Before committing to any AI subscription, try one paid tool for a month and see if it's worth your money.",
+      "visual_hint": "Finger tapping free trial button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "free trial signup screen",
+      "image": "https://images.pexels.com/photos/7709273/pexels-photo-7709273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+  "savedAt": "2026-09-15T17:50:30.087Z",
+  "sourceId": "5e497c447da816d271395995be9f0128"
+}
