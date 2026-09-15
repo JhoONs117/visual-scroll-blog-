@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "salesforce-and-nvidia-s-new-reasoning-model-is-eve",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "slides": [
+        "Salesforce and Nvidia just built something the AI labs fear?",
+        "It's a reasoning model, but not built like others.",
+        "Instead of scaling one massive model, they used many small ones.",
+        "You can now run advanced AI on-premises, no cloud needed.",
+        "Start testing small-model ensembles for your private data."
+      ],
+      "thread_text": [
+        "1. The AI labs' nightmare\n\nSalesforce and Nvidia just proved you can beat giant models without training a giant model. They built a reasoning system from many small ones.",
+        "2. Not your usual reasoning model\n\nMost reasoning AIs scale up one huge neural network. This one scales out, chaining dozens of compact models that each handle a piece of the problem.",
+        "3. Why small models win\n\nInstead of one expensive monolith, dozens of small models work in parallel. You get better accuracy without the massive compute bill.",
+        "4. Run advanced AI on-prem\n\nNo cloud required. The whole ensemble runs on your own hardware, so sensitive data never leaves your building.",
+        "5. Test it on your private data\n\nTake one internal dataset and spin up two or three small models. See if the ensemble beats a single large one. Start there."
+      ],
+      "video_script": [
+        "Salesforce and Nvidia just built a reasoning model that scares big AI labs.",
+        "It works by combining many small models, not one massive one.",
+        "Each small model handles a piece, so you get better accuracy.",
+        "You can run this advanced AI on your own hardware, no cloud.",
+        "Try testing small-model ensembles on your private data today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. The AI labs' nightmare\n\nSalesforce and Nvidia just proved you can beat giant models without training a giant model. They built a reasoning system from many small ones.",
+            "2. Not your usual reasoning model\n\nMost reasoning AIs scale up one huge neural network. This one scales out, chaining dozens of compact models that each handle a piece of the problem.",
+            "3. Why small models win\n\nInstead of one expensive monolith, dozens of small models work in parallel. You get better accuracy without the massive compute bill.",
+            "4. Run advanced AI on-prem\n\nNo cloud required. The whole ensemble runs on your own hardware, so sensitive data never leaves your building.",
+            "5. Test it on your private data\n\nTake one internal dataset and spin up two or three small models. See if the ensemble beats a single large one. Start there."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Salesforce and Nvidia just built a reasoning model that scares big AI labs.",
+            "It works by combining many small models, not one massive one.",
+            "Each small model handles a piece, so you get better accuracy.",
+            "You can run this advanced AI on your own hardware, no cloud.",
+            "Try testing small-model ensembles on your private data today."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now run a reasoning model on your own hardware, no cloud involved.\n\nSalesforce and Nvidia built it from dozens of small models instead of one giant one. Each handles a piece of the problem, and the whole group runs on-premises. 🖥️\n\nYour sensitive data never leaves your building.\n\nThat means private documents can feed advanced reasoning without a cloud bill or a vendor watching. ⚙️\n\nTake one internal dataset and spin up two or three small models. Does the group beat a single large one? 🧪\n\nWhat would you test first? 🔒"
+        }
+      },
+      "instagram_caption": "You can now run a reasoning model on your own hardware, no cloud involved.\n\nSalesforce and Nvidia built it from dozens of small models instead of one giant one. Each handles a piece of the problem, and the whole group runs on-premises. 🖥️\n\nYour sensitive data never leaves your building.\n\nThat means private documents can feed advanced reasoning without a cloud bill or a vendor watching. ⚙️\n\nTake one internal dataset and spin up two or three small models. Does the group beat a single large one? 🧪\n\nWhat would you test first? 🔒",
+      "carousel_slides": [
+        {
+          "hook": "Big AI's worst nightmare just dropped",
+          "description": "Salesforce and Nvidia built a reasoning system from many small models, beating giants without training one massive monolith.",
+          "visual_hint": "Dramatic dark server room glowing red",
+          "layout_type": "hero",
+          "icon": "vibration",
+          "image_query": "server room"
+        },
+        {
+          "hook": "This isn't your usual reasoning model",
+          "description": "Instead of scaling one huge network, it chains dozens of compact models, each solving a piece of the problem.",
+          "visual_hint": "Network of connected small glowing nodes",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "neural network",
+          "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Why small models quietly beat one giant",
+          "description": "Dozens of small models run in parallel, delivering better accuracy without the massive compute bill of monoliths.",
+          "visual_hint": "Many small chips working side by side",
+          "layout_type": "sensor-zoom",
+          "icon": "check",
+          "image_query": "computer chip",
+          "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Advanced AI now runs on your hardware",
+          "description": "No cloud required: the whole ensemble runs on-premises, so sensitive data never leaves your building.",
+          "visual_hint": "Hand holding drive in secure vault",
+          "layout_type": "human-hand",
+          "icon": "heart",
+          "image_query": "data center",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your competitor does",
+          "description": "Take one internal dataset, spin up two or three small models, and test if the ensemble beats a single large one.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Laptop showing experiment results dashboard",
+          "image_query": "laptop screen",
+          "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03537.jpg?resize=1200,800",
+      "savedAt": "2026-09-15T13:00:53.882Z",
+      "sourceId": "221b10e9623a92a524353ca66c2fc0df"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "how-vox-group-s-ai-powered-technology-is-solving-r",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "link": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "pubDate": "Mon, 14 Sep 2026 07:39:28 +0000",
+      "slides": [
+        "Can Vox Group make language barriers vanish for group travel?",
+        "Their AI translates speech in real time for multiple languages",
+        "Yet accuracy drops in noisy environments like crowded tours",
+        "For travelers, that means fewer misunderstandings and smoother trips",
+        "Test real-time translation on your next group outing"
+      ],
+      "thread_text": [
+        "1. Can Vox Group erase language barriers?\n\nVox Group is building AI that translates speech in real time for group travel across multiple languages.",
+        "2. Real-time translation for groups\n\nThe AI handles multiple languages simultaneously, so everyone hears speech in their own language as it's spoken.",
+        "3. But noise breaks accuracy\n\nIn crowded tours or busy streets, translation quality drops sharply, risking errors when you need clarity most.",
+        "4. Smoother trips, fewer misunderstandings\n\nWhen it works, travelers follow guides and chat with locals without awkward pauses or confusion.",
+        "5. Test it on your next group outing\n\nTry a real-time translation app during a guided tour. If it fails in noise, would you still rely on it?"
+      ],
+      "video_script": [
+        "Can AI erase language barriers for group travel?",
+        "Vox Group translates speech in real time for many languages.",
+        "But accuracy drops in noisy places like crowded tours.",
+        "That means fewer misunderstandings and smoother trips when it works.",
+        "Test real-time translation on your next group outing."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Can Vox Group erase language barriers?\n\nVox Group is building AI that translates speech in real time for group travel across multiple languages.",
+            "2. Real-time translation for groups\n\nThe AI handles multiple languages simultaneously, so everyone hears speech in their own language as it's spoken.",
+            "3. But noise breaks accuracy\n\nIn crowded tours or busy streets, translation quality drops sharply, risking errors when you need clarity most.",
+            "4. Smoother trips, fewer misunderstandings\n\nWhen it works, travelers follow guides and chat with locals without awkward pauses or confusion.",
+            "5. Test it on your next group outing\n\nTry a real-time translation app during a guided tour. If it fails in noise, would you still rely on it?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Can AI erase language barriers for group travel?",
+            "Vox Group translates speech in real time for many languages.",
+            "But accuracy drops in noisy places like crowded tours.",
+            "That means fewer misunderstandings and smoother trips when it works.",
+            "Test real-time translation on your next group outing."
+          ]
+        },
+        "instagram": {
+          "caption": "Your next guided tour could run without a single translation pause.\n\nVox Group built AI that translates speech in real time for group travel, handling several languages at once. Everyone hears the guide in their own language as they speak. 🎧\n\nBut in crowded streets or noisy buses, accuracy drops sharply, and errors creep in exactly when you need clarity.\n\nFor creators and publishers covering travel, that means testing tools in real conditions, not demo rooms.\n\nWould you trust real-time translation on a packed tour, or bring a backup? 🌍"
+        }
+      },
+      "instagram_caption": "Your next guided tour could run without a single translation pause.\n\nVox Group built AI that translates speech in real time for group travel, handling several languages at once. Everyone hears the guide in their own language as they speak. 🎧\n\nBut in crowded streets or noisy buses, accuracy drops sharply, and errors creep in exactly when you need clarity.\n\nFor creators and publishers covering travel, that means testing tools in real conditions, not demo rooms.\n\nWould you trust real-time translation on a packed tour, or bring a backup? 🌍",
+      "carousel_slides": [
+        {
+          "hook": "Can AI translation survive noisy group tours?",
+          "description": "Vox Group's real-time translation handles multiple languages, but accuracy drops sharply in crowded, noisy environments—risking errors when clarity matters most.",
+          "visual_hint": "Split screen: clear voice vs noisy crowd",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "crowded tour group"
+        },
+        {
+          "hook": "Real-time translation for every traveler",
+          "description": "Vox Group's AI translates speech instantly for multiple languages, so each person hears the guide in their own language as it's spoken.",
+          "visual_hint": "Travelers wearing translation earbuds",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "wireless earbuds",
+          "image": "https://images.pexels.com/photos/14741306/pexels-photo-14741306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "When noise breaks translation accuracy",
+          "description": "In busy streets or packed tours, translation quality plummets, causing misunderstandings exactly when travelers need clear communication the most.",
+          "visual_hint": "Sound waves distorted by city noise",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "busy city street",
+          "image": "https://images.pexels.com/photos/15433586/pexels-photo-15433586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fewer misunderstandings, smoother group trips",
+          "description": "When translation works, travelers follow guides and chat with locals effortlessly—no awkward pauses, no confusion, just seamless communication.",
+          "visual_hint": "Happy travelers conversing with locals",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "people talking travel",
+          "image": "https://images.pexels.com/photos/8554427/pexels-photo-8554427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test real-time translation on your next trip",
+          "description": "Download a translation app and try it during a guided tour. If it fails in noise, would you still trust it?",
+          "visual_hint": "Phone with translation app open",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone translation app",
+          "image": "https://images.pexels.com/photos/7151031/pexels-photo-7151031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/17802093/pexels-photo-17802093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-15T13:00:45.736Z",
+      "sourceId": "c1ca0d0683892751b7969ea2203e9a9d"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "from-video-to-data-how-ai-is-transforming-multimed",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "pubDate": "Mon, 14 Sep 2026 07:56:45 +0000",
+      "slides": [
+        "How does AI turn video into searchable data?",
+        "It processes audio, visual, and text streams simultaneously",
+        "But it fails when speakers overlap or scenes cut fast",
+        "You can now query archives in plain language",
+        "Try one video: ask what happened after the logo"
+      ],
+      "thread_text": [
+        "1. Your Video Is Now Searchable\n\nAI can index every frame, word, and sound in your archive, turning hours of footage into a database you can query with a sentence. It processes audio, visual, and text streams at once, so searching 'when did she mention the budget?' actually works.",
+        "2. More Than Just Transcripts\n\nThis isn't just speech-to-text. The system reads on-screen text, recognizes objects, and tracks who's speaking, building a rich map of everything that happens. That's how it can answer questions no one tagged.",
+        "3. Where It Breaks Down\n\nOverlapping speakers and rapid scene cuts still trip it up. Those moments become blind spots in your searchable index, so you might miss the exact exchange you need.",
+        "4. Ask In Plain Language\n\nForget keywords and filters. You can now type 'find the part where the CEO looks frustrated' and get timestamps. It's like having a research assistant who watched every second.",
+        "5. Try This Today\n\nTake one video from your archive and ask what happened right after the logo appears. If the answer surprises you, imagine what else you've been missing."
+      ],
+      "video_script": [
+        "AI turns video into searchable data.",
+        "It reads audio, visuals, and text at once.",
+        "But it fails when speakers overlap.",
+        "Now you can query archives in plain language.",
+        "Try one video: ask after the logo."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Video Is Now Searchable\n\nAI can index every frame, word, and sound in your archive, turning hours of footage into a database you can query with a sentence. It processes audio, visual, and text streams at once, so searching 'when did she mention the budget?' actually works.",
+            "2. More Than Just Transcripts\n\nThis isn't just speech-to-text. The system reads on-screen text, recognizes objects, and tracks who's speaking, building a rich map of everything that happens. That's how it can answer questions no one tagged.",
+            "3. Where It Breaks Down\n\nOverlapping speakers and rapid scene cuts still trip it up. Those moments become blind spots in your searchable index, so you might miss the exact exchange you need.",
+            "4. Ask In Plain Language\n\nForget keywords and filters. You can now type 'find the part where the CEO looks frustrated' and get timestamps. It's like having a research assistant who watched every second.",
+            "5. Try This Today\n\nTake one video from your archive and ask what happened right after the logo appears. If the answer surprises you, imagine what else you've been missing."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI turns video into searchable data.",
+            "It reads audio, visuals, and text at once.",
+            "But it fails when speakers overlap.",
+            "Now you can query archives in plain language.",
+            "Try one video: ask after the logo."
+          ]
+        },
+        "instagram": {
+          "caption": "Type \"when did she mention the budget?\" and get a timestamp, not a transcript to scrub through.\n\nAI now indexes audio, visuals, and on-screen text at once, so you can query hours of footage in plain language. 🎥\n\nIt still stumbles when speakers overlap or scenes cut fast — those moments turn into blind spots. 🔍\n\nSo if you produce or archive video, your whole library becomes searchable, but not without gaps. What's the one clip you'd test it on first? 🎬"
+        }
+      },
+      "instagram_caption": "Type \"when did she mention the budget?\" and get a timestamp, not a transcript to scrub through.\n\nAI now indexes audio, visuals, and on-screen text at once, so you can query hours of footage in plain language. 🎥\n\nIt still stumbles when speakers overlap or scenes cut fast — those moments turn into blind spots. 🔍\n\nSo if you produce or archive video, your whole library becomes searchable, but not without gaps. What's the one clip you'd test it on first? 🎬",
+      "carousel_slides": [
+        {
+          "hook": "This is why AI search fails",
+          "description": "Overlapping speakers and rapid cuts create blind spots, so you might miss the exact exchange you need without warning.",
+          "visual_hint": "Timeline with overlapping waveforms and cuts",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "waveform display"
+        },
+        {
+          "hook": "AI reads audio, visual, and text",
+          "description": "It indexes every frame, word, and sound simultaneously, turning footage into a database you can query with a sentence.",
+          "visual_hint": "Split screen showing three data streams",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "data streams",
+          "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "More than just a transcript",
+          "description": "The system recognizes objects, reads on-screen text, and tracks speakers, building a rich map answerable to untagged questions.",
+          "visual_hint": "Interface with object and speaker labels",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "computer vision",
+          "image": "https://images.pexels.com/photos/33170806/pexels-photo-33170806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask in plain language",
+          "description": "Forget keywords and filters. Type 'find the part where the CEO looks frustrated' and get timestamps instantly.",
+          "visual_hint": "Hand typing natural language query",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "video archive",
+          "image": "https://images.pexels.com/photos/9227564/pexels-photo-9227564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ready to test your archive?",
+          "description": "Take one video and ask what happened right after the logo appears. Save this post and try it today.",
+          "visual_hint": "Play button over logo moment",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "play button",
+          "image": "https://images.pexels.com/photos/5208831/pexels-photo-5208831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-15T13:00:36.204Z",
+      "sourceId": "9547ccc309de66c5d367a9f0df0f4277"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "pony-ai-unveils-autonomous-electric-truck-for-logi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "pubDate": "Tue, 15 Sep 2026 11:15:57 +0000",
+      "slides": [
+        "Pony.ai's autonomous electric truck: your fleet's future?",
+        "It's designed for logistics, but what's under the hood?",
+        "The truck self-drives, yet how does it handle city streets?",
+        "Fleet managers can now order one? Here's how.",
+        "Test one route: are you ready for driverless deliveries?"
+      ],
+      "thread_text": [
+        "1. Driverless trucks are here\n\nPony.ai just opened orders for an autonomous electric truck aimed at logistics fleets. It's not a prototype — fleet managers can actually buy one.",
+        "2. Under the hood\n\nThe truck combines electric power with self-driving hardware. That means zero emissions and no human driver behind the wheel for routine routes.",
+        "3. City streets are tough\n\nHighways are easy for robots. Pony.ai claims its system handles urban intersections, pedestrians, and unpredictable traffic without human input.",
+        "4. How to order one\n\nFleet managers can contact Pony.ai directly to reserve a truck. Deliveries are expected to start in select regions, with pilot programs already running.",
+        "5. Test one route\n\nPick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap."
+      ],
+      "video_script": [
+        "Pony.ai now sells a self-driving electric truck.",
+        "It drives itself and has zero tailpipe emissions.",
+        "But can it handle busy city streets?",
+        "Fleet managers can order one right now.",
+        "Try a single route and see for yourself."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Driverless trucks are here\n\nPony.ai just opened orders for an autonomous electric truck aimed at logistics fleets. It's not a prototype — fleet managers can actually buy one.",
+            "2. Under the hood\n\nThe truck combines electric power with self-driving hardware. That means zero emissions and no human driver behind the wheel for routine routes.",
+            "3. City streets are tough\n\nHighways are easy for robots. Pony.ai claims its system handles urban intersections, pedestrians, and unpredictable traffic without human input.",
+            "4. How to order one\n\nFleet managers can contact Pony.ai directly to reserve a truck. Deliveries are expected to start in select regions, with pilot programs already running.",
+            "5. Test one route\n\nPick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Pony.ai now sells a self-driving electric truck.",
+            "It drives itself and has zero tailpipe emissions.",
+            "But can it handle busy city streets?",
+            "Fleet managers can order one right now.",
+            "Try a single route and see for yourself."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now order a self-driving electric truck for your delivery fleet.\n\nPony.ai opened orders for an autonomous electric truck built for logistics fleets. Electric power plus self-driving hardware means zero emissions and no driver on routine routes. It reportedly handles city intersections, pedestrians, and messy traffic without human input.\n\nFor content creators covering logistics or tech, this is a real product, not a concept car — a story you can actually report on.\n\nWould you put one on your simplest delivery loop to test it? 🚚⚡🤖"
+        }
+      },
+      "instagram_caption": "You can now order a self-driving electric truck for your delivery fleet.\n\nPony.ai opened orders for an autonomous electric truck built for logistics fleets. Electric power plus self-driving hardware means zero emissions and no driver on routine routes. It reportedly handles city intersections, pedestrians, and messy traffic without human input.\n\nFor content creators covering logistics or tech, this is a real product, not a concept car — a story you can actually report on.\n\nWould you put one on your simplest delivery loop to test it? 🚚⚡🤖",
+      "carousel_slides": [
+        {
+          "hook": "Can a robot handle city chaos?",
+          "description": "Pony.ai claims its autonomous system navigates urban intersections, pedestrians, and unpredictable traffic without any human input.",
+          "visual_hint": "Autonomous truck navigating busy city intersection",
+          "layout_type": "hero",
+          "icon": "waves",
+          "image_query": "autonomous truck"
+        },
+        {
+          "hook": "Electric power meets self-driving hardware",
+          "description": "The truck combines electric power with self-driving hardware, meaning zero emissions and no human driver for routine routes.",
+          "visual_hint": "Close-up of electric motor and sensors",
+          "layout_type": "right-focus",
+          "icon": "tag",
+          "image_query": "electric truck motor",
+          "image": "https://images.pexels.com/photos/7541351/pexels-photo-7541351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Highways are easy, cities are hard",
+          "description": "Highways are easy for robots, but Pony.ai's system must handle urban intersections, pedestrians, and unpredictable traffic without human input.",
+          "visual_hint": "Sensors scanning busy pedestrian crosswalk",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "pedestrian crosswalk",
+          "image": "https://images.pexels.com/photos/24304591/pexels-photo-24304591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Fleet managers can now place orders",
+          "description": "Fleet managers can contact Pony.ai directly to reserve a truck. Deliveries start in select regions, with pilot programs already running.",
+          "visual_hint": "Hand signing digital order form",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "logistics fleet",
+          "image": "https://images.pexels.com/photos/26569137/pexels-photo-26569137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this: test one route",
+          "description": "Pick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap.",
+          "visual_hint": "Truck on simple delivery route",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "delivery route truck",
+          "image": "https://images.pexels.com/photos/18460919/pexels-photo-18460919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "savedAt": "2026-09-15T13:00:26.621Z",
+      "sourceId": "4c7331160914870c9bb33b28b5a6fadd"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "what-execs-and-politicians-are-saying-about-slowin",
       "prompt_version": "1.0.0",
       "status": "published",

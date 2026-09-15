@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "from-video-to-data-how-ai-is-transforming-multimed",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+  "link": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+  "pubDate": "Mon, 14 Sep 2026 07:56:45 +0000",
+  "slides": [
+    "How does AI turn video into searchable data?",
+    "It processes audio, visual, and text streams simultaneously",
+    "But it fails when speakers overlap or scenes cut fast",
+    "You can now query archives in plain language",
+    "Try one video: ask what happened after the logo"
+  ],
+  "thread_text": [
+    "1. Your Video Is Now Searchable\n\nAI can index every frame, word, and sound in your archive, turning hours of footage into a database you can query with a sentence. It processes audio, visual, and text streams at once, so searching 'when did she mention the budget?' actually works.",
+    "2. More Than Just Transcripts\n\nThis isn't just speech-to-text. The system reads on-screen text, recognizes objects, and tracks who's speaking, building a rich map of everything that happens. That's how it can answer questions no one tagged.",
+    "3. Where It Breaks Down\n\nOverlapping speakers and rapid scene cuts still trip it up. Those moments become blind spots in your searchable index, so you might miss the exact exchange you need.",
+    "4. Ask In Plain Language\n\nForget keywords and filters. You can now type 'find the part where the CEO looks frustrated' and get timestamps. It's like having a research assistant who watched every second.",
+    "5. Try This Today\n\nTake one video from your archive and ask what happened right after the logo appears. If the answer surprises you, imagine what else you've been missing."
+  ],
+  "video_script": [
+    "AI turns video into searchable data.",
+    "It reads audio, visuals, and text at once.",
+    "But it fails when speakers overlap.",
+    "Now you can query archives in plain language.",
+    "Try one video: ask after the logo."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Video Is Now Searchable\n\nAI can index every frame, word, and sound in your archive, turning hours of footage into a database you can query with a sentence. It processes audio, visual, and text streams at once, so searching 'when did she mention the budget?' actually works.",
+        "2. More Than Just Transcripts\n\nThis isn't just speech-to-text. The system reads on-screen text, recognizes objects, and tracks who's speaking, building a rich map of everything that happens. That's how it can answer questions no one tagged.",
+        "3. Where It Breaks Down\n\nOverlapping speakers and rapid scene cuts still trip it up. Those moments become blind spots in your searchable index, so you might miss the exact exchange you need.",
+        "4. Ask In Plain Language\n\nForget keywords and filters. You can now type 'find the part where the CEO looks frustrated' and get timestamps. It's like having a research assistant who watched every second.",
+        "5. Try This Today\n\nTake one video from your archive and ask what happened right after the logo appears. If the answer surprises you, imagine what else you've been missing."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI turns video into searchable data.",
+        "It reads audio, visuals, and text at once.",
+        "But it fails when speakers overlap.",
+        "Now you can query archives in plain language.",
+        "Try one video: ask after the logo."
+      ]
+    },
+    "instagram": {
+      "caption": "Type \"when did she mention the budget?\" and get a timestamp, not a transcript to scrub through.\n\nAI now indexes audio, visuals, and on-screen text at once, so you can query hours of footage in plain language. 🎥\n\nIt still stumbles when speakers overlap or scenes cut fast — those moments turn into blind spots. 🔍\n\nSo if you produce or archive video, your whole library becomes searchable, but not without gaps. What's the one clip you'd test it on first? 🎬"
+    }
+  },
+  "instagram_caption": "Type \"when did she mention the budget?\" and get a timestamp, not a transcript to scrub through.\n\nAI now indexes audio, visuals, and on-screen text at once, so you can query hours of footage in plain language. 🎥\n\nIt still stumbles when speakers overlap or scenes cut fast — those moments turn into blind spots. 🔍\n\nSo if you produce or archive video, your whole library becomes searchable, but not without gaps. What's the one clip you'd test it on first? 🎬",
+  "carousel_slides": [
+    {
+      "hook": "This is why AI search fails",
+      "description": "Overlapping speakers and rapid cuts create blind spots, so you might miss the exact exchange you need without warning.",
+      "visual_hint": "Timeline with overlapping waveforms and cuts",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "waveform display"
+    },
+    {
+      "hook": "AI reads audio, visual, and text",
+      "description": "It indexes every frame, word, and sound simultaneously, turning footage into a database you can query with a sentence.",
+      "visual_hint": "Split screen showing three data streams",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "data streams",
+      "image": "https://images.pexels.com/photos/34804021/pexels-photo-34804021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "More than just a transcript",
+      "description": "The system recognizes objects, reads on-screen text, and tracks speakers, building a rich map answerable to untagged questions.",
+      "visual_hint": "Interface with object and speaker labels",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "computer vision",
+      "image": "https://images.pexels.com/photos/33170806/pexels-photo-33170806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask in plain language",
+      "description": "Forget keywords and filters. Type 'find the part where the CEO looks frustrated' and get timestamps instantly.",
+      "visual_hint": "Hand typing natural language query",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "video archive",
+      "image": "https://images.pexels.com/photos/9227564/pexels-photo-9227564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ready to test your archive?",
+      "description": "Take one video and ask what happened right after the logo appears. Save this post and try it today.",
+      "visual_hint": "Play button over logo moment",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "play button",
+      "image": "https://images.pexels.com/photos/5208831/pexels-photo-5208831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/8100056/pexels-photo-8100056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-15T13:00:36.204Z",
+  "sourceId": "9547ccc309de66c5d367a9f0df0f4277"
+}

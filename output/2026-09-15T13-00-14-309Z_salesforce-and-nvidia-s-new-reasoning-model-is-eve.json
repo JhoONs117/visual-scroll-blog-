@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "salesforce-and-nvidia-s-new-reasoning-model-is-eve",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+  "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+  "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
+  "slides": [
+    "Salesforce and Nvidia just built something the AI labs fear?",
+    "It's a reasoning model, but not built like others.",
+    "Instead of scaling one massive model, they used many small ones.",
+    "You can now run advanced AI on-premises, no cloud needed.",
+    "Start testing small-model ensembles for your private data."
+  ],
+  "thread_text": [
+    "1. The AI labs' nightmare\n\nSalesforce and Nvidia just proved you can beat giant models without training a giant model. They built a reasoning system from many small ones.",
+    "2. Not your usual reasoning model\n\nMost reasoning AIs scale up one huge neural network. This one scales out, chaining dozens of compact models that each handle a piece of the problem.",
+    "3. Why small models win\n\nInstead of one expensive monolith, dozens of small models work in parallel. You get better accuracy without the massive compute bill.",
+    "4. Run advanced AI on-prem\n\nNo cloud required. The whole ensemble runs on your own hardware, so sensitive data never leaves your building.",
+    "5. Test it on your private data\n\nTake one internal dataset and spin up two or three small models. See if the ensemble beats a single large one. Start there."
+  ],
+  "video_script": [
+    "Salesforce and Nvidia just built a reasoning model that scares big AI labs.",
+    "It works by combining many small models, not one massive one.",
+    "Each small model handles a piece, so you get better accuracy.",
+    "You can run this advanced AI on your own hardware, no cloud.",
+    "Try testing small-model ensembles on your private data today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The AI labs' nightmare\n\nSalesforce and Nvidia just proved you can beat giant models without training a giant model. They built a reasoning system from many small ones.",
+        "2. Not your usual reasoning model\n\nMost reasoning AIs scale up one huge neural network. This one scales out, chaining dozens of compact models that each handle a piece of the problem.",
+        "3. Why small models win\n\nInstead of one expensive monolith, dozens of small models work in parallel. You get better accuracy without the massive compute bill.",
+        "4. Run advanced AI on-prem\n\nNo cloud required. The whole ensemble runs on your own hardware, so sensitive data never leaves your building.",
+        "5. Test it on your private data\n\nTake one internal dataset and spin up two or three small models. See if the ensemble beats a single large one. Start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Salesforce and Nvidia just built a reasoning model that scares big AI labs.",
+        "It works by combining many small models, not one massive one.",
+        "Each small model handles a piece, so you get better accuracy.",
+        "You can run this advanced AI on your own hardware, no cloud.",
+        "Try testing small-model ensembles on your private data today."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now run a reasoning model on your own hardware, no cloud involved.\n\nSalesforce and Nvidia built it from dozens of small models instead of one giant one. Each handles a piece of the problem, and the whole group runs on-premises. 🖥️\n\nYour sensitive data never leaves your building.\n\nThat means private documents can feed advanced reasoning without a cloud bill or a vendor watching. ⚙️\n\nTake one internal dataset and spin up two or three small models. Does the group beat a single large one? 🧪\n\nWhat would you test first? 🔒"
+    }
+  },
+  "instagram_caption": "You can now run a reasoning model on your own hardware, no cloud involved.\n\nSalesforce and Nvidia built it from dozens of small models instead of one giant one. Each handles a piece of the problem, and the whole group runs on-premises. 🖥️\n\nYour sensitive data never leaves your building.\n\nThat means private documents can feed advanced reasoning without a cloud bill or a vendor watching. ⚙️\n\nTake one internal dataset and spin up two or three small models. Does the group beat a single large one? 🧪\n\nWhat would you test first? 🔒",
+  "carousel_slides": [
+    {
+      "hook": "Big AI's worst nightmare just dropped",
+      "description": "Salesforce and Nvidia built a reasoning system from many small models, beating giants without training one massive monolith.",
+      "visual_hint": "Dramatic dark server room glowing red",
+      "layout_type": "hero",
+      "icon": "vibration",
+      "image_query": "server room"
+    },
+    {
+      "hook": "This isn't your usual reasoning model",
+      "description": "Instead of scaling one huge network, it chains dozens of compact models, each solving a piece of the problem.",
+      "visual_hint": "Network of connected small glowing nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Why small models quietly beat one giant",
+      "description": "Dozens of small models run in parallel, delivering better accuracy without the massive compute bill of monoliths.",
+      "visual_hint": "Many small chips working side by side",
+      "layout_type": "sensor-zoom",
+      "icon": "check",
+      "image_query": "computer chip",
+      "image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Advanced AI now runs on your hardware",
+      "description": "No cloud required: the whole ensemble runs on-premises, so sensitive data never leaves your building.",
+      "visual_hint": "Hand holding drive in secure vault",
+      "layout_type": "human-hand",
+      "icon": "heart",
+      "image_query": "data center",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your competitor does",
+      "description": "Take one internal dataset, spin up two or three small models, and test if the ensemble beats a single large one.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Laptop showing experiment results dashboard",
+      "image_query": "laptop screen",
+      "image": "https://images.pexels.com/photos/17115912/pexels-photo-17115912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03537.jpg?resize=1200,800",
+  "savedAt": "2026-09-15T13:00:53.882Z",
+  "sourceId": "221b10e9623a92a524353ca66c2fc0df"
+}

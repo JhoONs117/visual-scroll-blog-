@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "pony-ai-unveils-autonomous-electric-truck-for-logi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+  "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+  "pubDate": "Tue, 15 Sep 2026 11:15:57 +0000",
+  "slides": [
+    "Pony.ai's autonomous electric truck: your fleet's future?",
+    "It's designed for logistics, but what's under the hood?",
+    "The truck self-drives, yet how does it handle city streets?",
+    "Fleet managers can now order one? Here's how.",
+    "Test one route: are you ready for driverless deliveries?"
+  ],
+  "thread_text": [
+    "1. Driverless trucks are here\n\nPony.ai just opened orders for an autonomous electric truck aimed at logistics fleets. It's not a prototype — fleet managers can actually buy one.",
+    "2. Under the hood\n\nThe truck combines electric power with self-driving hardware. That means zero emissions and no human driver behind the wheel for routine routes.",
+    "3. City streets are tough\n\nHighways are easy for robots. Pony.ai claims its system handles urban intersections, pedestrians, and unpredictable traffic without human input.",
+    "4. How to order one\n\nFleet managers can contact Pony.ai directly to reserve a truck. Deliveries are expected to start in select regions, with pilot programs already running.",
+    "5. Test one route\n\nPick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap."
+  ],
+  "video_script": [
+    "Pony.ai now sells a self-driving electric truck.",
+    "It drives itself and has zero tailpipe emissions.",
+    "But can it handle busy city streets?",
+    "Fleet managers can order one right now.",
+    "Try a single route and see for yourself."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Driverless trucks are here\n\nPony.ai just opened orders for an autonomous electric truck aimed at logistics fleets. It's not a prototype — fleet managers can actually buy one.",
+        "2. Under the hood\n\nThe truck combines electric power with self-driving hardware. That means zero emissions and no human driver behind the wheel for routine routes.",
+        "3. City streets are tough\n\nHighways are easy for robots. Pony.ai claims its system handles urban intersections, pedestrians, and unpredictable traffic without human input.",
+        "4. How to order one\n\nFleet managers can contact Pony.ai directly to reserve a truck. Deliveries are expected to start in select regions, with pilot programs already running.",
+        "5. Test one route\n\nPick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Pony.ai now sells a self-driving electric truck.",
+        "It drives itself and has zero tailpipe emissions.",
+        "But can it handle busy city streets?",
+        "Fleet managers can order one right now.",
+        "Try a single route and see for yourself."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now order a self-driving electric truck for your delivery fleet.\n\nPony.ai opened orders for an autonomous electric truck built for logistics fleets. Electric power plus self-driving hardware means zero emissions and no driver on routine routes. It reportedly handles city intersections, pedestrians, and messy traffic without human input.\n\nFor content creators covering logistics or tech, this is a real product, not a concept car — a story you can actually report on.\n\nWould you put one on your simplest delivery loop to test it? 🚚⚡🤖"
+    }
+  },
+  "instagram_caption": "You can now order a self-driving electric truck for your delivery fleet.\n\nPony.ai opened orders for an autonomous electric truck built for logistics fleets. Electric power plus self-driving hardware means zero emissions and no driver on routine routes. It reportedly handles city intersections, pedestrians, and messy traffic without human input.\n\nFor content creators covering logistics or tech, this is a real product, not a concept car — a story you can actually report on.\n\nWould you put one on your simplest delivery loop to test it? 🚚⚡🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can a robot handle city chaos?",
+      "description": "Pony.ai claims its autonomous system navigates urban intersections, pedestrians, and unpredictable traffic without any human input.",
+      "visual_hint": "Autonomous truck navigating busy city intersection",
+      "layout_type": "hero",
+      "icon": "waves",
+      "image_query": "autonomous truck"
+    },
+    {
+      "hook": "Electric power meets self-driving hardware",
+      "description": "The truck combines electric power with self-driving hardware, meaning zero emissions and no human driver for routine routes.",
+      "visual_hint": "Close-up of electric motor and sensors",
+      "layout_type": "right-focus",
+      "icon": "tag",
+      "image_query": "electric truck motor",
+      "image": "https://images.pexels.com/photos/7541351/pexels-photo-7541351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Highways are easy, cities are hard",
+      "description": "Highways are easy for robots, but Pony.ai's system must handle urban intersections, pedestrians, and unpredictable traffic without human input.",
+      "visual_hint": "Sensors scanning busy pedestrian crosswalk",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "pedestrian crosswalk",
+      "image": "https://images.pexels.com/photos/24304591/pexels-photo-24304591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Fleet managers can now place orders",
+      "description": "Fleet managers can contact Pony.ai directly to reserve a truck. Deliveries start in select regions, with pilot programs already running.",
+      "visual_hint": "Hand signing digital order form",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "logistics fleet",
+      "image": "https://images.pexels.com/photos/26569137/pexels-photo-26569137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: test one route",
+      "description": "Pick your simplest delivery loop and ask Pony.ai for a trial. If a driverless truck can't handle that, you've learned something cheap.",
+      "visual_hint": "Truck on simple delivery route",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "delivery route truck",
+      "image": "https://images.pexels.com/photos/18460919/pexels-photo-18460919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/16370722/pexels-photo-16370722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-15T13:00:26.621Z",
+  "sourceId": "4c7331160914870c9bb33b28b5a6fadd"
+}
