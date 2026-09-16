@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "chatgpt-pioneer-launches-jev-model-for-programmati",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+  "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+  "pubDate": "Wed, 16 Sep 2026 10:31:09 +0000",
+  "slides": [
+    "Can Jev outthink ChatGPT on logic?",
+    "A new model built for programmatic reasoning",
+    "It solves tasks ChatGPT silently fails",
+    "Your code debugging may never be the same",
+    "Test Jev on your hardest logic puzzle today"
+  ],
+  "thread_text": [
+    "1. ChatGPT's silent failure\n\nA new model called Jev was built specifically for programmatic reasoning. It solves logic tasks that ChatGPT gets wrong without ever flagging an error.",
+    "2. Why logic breaks chatbots\n\nMost language models pattern-match instead of truly reasoning. Jev takes a different approach designed for step-by-step programmatic thinking.",
+    "3. Debugging gets a new brain\n\nIf you write code, you know the pain of chasing bugs ChatGPT can't see. Jev was tested on hard logic puzzles where it outperformed standard models.",
+    "4. The stakes for developers\n\nSilent failures cost hours of debugging. A model that actually reasons through code logic could change how you validate every pull request.",
+    "5. Test it yourself today\n\nTake your hardest logic puzzle or a stubborn bug and run it through Jev. If it catches what ChatGPT missed, you'll never go back."
+  ],
+  "video_script": [
+    "ChatGPT fails silently on hard logic tasks.",
+    "A new model called Jev was built for reasoning.",
+    "It solves puzzles where ChatGPT gets it wrong.",
+    "Your code debugging may never be the same.",
+    "Test Jev on your hardest logic puzzle today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. ChatGPT's silent failure\n\nA new model called Jev was built specifically for programmatic reasoning. It solves logic tasks that ChatGPT gets wrong without ever flagging an error.",
+        "2. Why logic breaks chatbots\n\nMost language models pattern-match instead of truly reasoning. Jev takes a different approach designed for step-by-step programmatic thinking.",
+        "3. Debugging gets a new brain\n\nIf you write code, you know the pain of chasing bugs ChatGPT can't see. Jev was tested on hard logic puzzles where it outperformed standard models.",
+        "4. The stakes for developers\n\nSilent failures cost hours of debugging. A model that actually reasons through code logic could change how you validate every pull request.",
+        "5. Test it yourself today\n\nTake your hardest logic puzzle or a stubborn bug and run it through Jev. If it catches what ChatGPT missed, you'll never go back."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "ChatGPT fails silently on hard logic tasks.",
+        "A new model called Jev was built for reasoning.",
+        "It solves puzzles where ChatGPT gets it wrong.",
+        "Your code debugging may never be the same.",
+        "Test Jev on your hardest logic puzzle today."
+      ]
+    },
+    "instagram": {
+      "caption": "A coding model just got built to catch logic errors ChatGPT misses without ever flagging them.\n\nIt's called Jev, made for programmatic reasoning instead of pattern-matching.\n\nMost chatbots guess the next likely answer — Jev works through logic step by step.\n\nThat gap is why ChatGPT can quietly fail on your hardest code tasks. 🧠\n\nIf you debug code, this changes how you validate pull requests and hunt stubborn bugs. ⚙️\n\nNext time a bug won't crack, would you trust your usual model first? 🔍"
+    }
+  },
+  "instagram_caption": "A coding model just got built to catch logic errors ChatGPT misses without ever flagging them.\n\nIt's called Jev, made for programmatic reasoning instead of pattern-matching.\n\nMost chatbots guess the next likely answer — Jev works through logic step by step.\n\nThat gap is why ChatGPT can quietly fail on your hardest code tasks. 🧠\n\nIf you debug code, this changes how you validate pull requests and hunt stubborn bugs. ⚙️\n\nNext time a bug won't crack, would you trust your usual model first? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Can logic break ChatGPT silently?",
+      "description": "Jev, a new model for programmatic reasoning, solves logic tasks ChatGPT fails without flagging errors.",
+      "visual_hint": "Glitching code on dark screen",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "code screen"
+    },
+    {
+      "hook": "Built for step-by-step programmatic thinking",
+      "description": "Most language models pattern-match instead of reasoning. Jev takes a different approach designed for true programmatic logic.",
+      "visual_hint": "Flowchart with glowing nodes",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "flowchart diagram",
+      "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It solves tasks ChatGPT silently fails",
+      "description": "On hard logic puzzles, Jev outperformed standard models, catching what ChatGPT misses without ever signaling an error.",
+      "visual_hint": "Puzzle pieces with error symbols",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "puzzle pieces",
+      "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Debugging may never be the same",
+      "description": "Silent failures cost hours. A model that reasons through code logic could change how you validate every pull request.",
+      "visual_hint": "Developer hands on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "programmer hands",
+      "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test Jev on your hardest logic puzzle",
+      "description": "Run your toughest logic puzzle or stubborn bug through Jev today. If it catches what ChatGPT missed, save this post.",
+      "visual_hint": "Button with arrow to link",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "logic puzzle",
+      "image": "https://images.pexels.com/photos/7296640/pexels-photo-7296640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-16T14:29:01.684Z",
+  "sourceId": "827397d1d260e58de96989496a9ff03f"
+}

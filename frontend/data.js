@@ -2,6 +2,318 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "ai-and-data-centers-are-incredibly-unpopular-in-ev",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "pubDate": "2026-09-15T23:34:25.000Z",
+    "slides": [
+      "Data centers: the AI boom nobody wants next door?",
+      "Polls show overwhelming opposition across every region.",
+      "Yet tech giants keep building despite the pushback.",
+      "Your town could be next for a massive facility.",
+      "Check local zoning before it's too late."
+    ],
+    "thread_text": [
+      "1. Massive Data Centers Coming\n\nTech giants are quietly buying land in rural counties where zoning rarely gets a second look. By the time residents notice, construction permits are already approved.",
+      "2. Overwhelming Opposition\n\nAcross every region polled, more than 70% of residents say they don't want these facilities nearby. Water usage, noise, and power grid strain top the list of concerns.",
+      "3. Pushback Doesn't Stop Them\n\nDespite local votes against projects, companies keep filing new applications. In several states, they've bypassed town councils by negotiating directly with county commissioners.",
+      "4. Your Town On The Shortlist\n\nIf you live near a substation or fiber trunk, you're in the running. Land agents often use nondisclosure agreements so neighbors don't find out until the deal closes.",
+      "5. Check Zoning Now\n\nGo to your county planning website and search for 'data center' in pending applications. If there's a hearing scheduled, show up. Once the rezoning passes, it's nearly impossible to reverse."
+    ],
+    "video_script": [
+      "Tech giants are buying land in rural counties right now.",
+      "Polls show most residents don't want these facilities nearby.",
+      "But companies keep building, often bypassing local votes.",
+      "If you live near a power substation, your town is next.",
+      "Check your county zoning website today before it's too late."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Massive Data Centers Coming\n\nTech giants are quietly buying land in rural counties where zoning rarely gets a second look. By the time residents notice, construction permits are already approved.",
+          "2. Overwhelming Opposition\n\nAcross every region polled, more than 70% of residents say they don't want these facilities nearby. Water usage, noise, and power grid strain top the list of concerns.",
+          "3. Pushback Doesn't Stop Them\n\nDespite local votes against projects, companies keep filing new applications. In several states, they've bypassed town councils by negotiating directly with county commissioners.",
+          "4. Your Town On The Shortlist\n\nIf you live near a substation or fiber trunk, you're in the running. Land agents often use nondisclosure agreements so neighbors don't find out until the deal closes.",
+          "5. Check Zoning Now\n\nGo to your county planning website and search for 'data center' in pending applications. If there's a hearing scheduled, show up. Once the rezoning passes, it's nearly impossible to reverse."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Tech giants are buying land in rural counties right now.",
+          "Polls show most residents don't want these facilities nearby.",
+          "But companies keep building, often bypassing local votes.",
+          "If you live near a power substation, your town is next.",
+          "Check your county zoning website today before it's too late."
+        ]
+      },
+      "instagram": {
+        "caption": "If you live near a substation, your county is probably on a land agent's shortlist. 🏗️\n\nTech giants are buying rural land quietly, sometimes under nondisclosure agreements, before residents even hear about it.\n\nPolls across every region show over 70% opposition, citing water use, noise, and grid strain. 🚰\n\nYet companies keep filing applications, often going straight to county commissioners instead of town councils.\n\nIf you run a local page or newsletter, search your county planning site for \"data center\" in pending applications now. 📋\n\nA scheduled hearing is your only real window to speak. 🗣️\n\nWhat's the next rezoning meeting in your area?"
+      }
+    },
+    "instagram_caption": "If you live near a substation, your county is probably on a land agent's shortlist. 🏗️\n\nTech giants are buying rural land quietly, sometimes under nondisclosure agreements, before residents even hear about it.\n\nPolls across every region show over 70% opposition, citing water use, noise, and grid strain. 🚰\n\nYet companies keep filing applications, often going straight to county commissioners instead of town councils.\n\nIf you run a local page or newsletter, search your county planning site for \"data center\" in pending applications now. 📋\n\nA scheduled hearing is your only real window to speak. 🗣️\n\nWhat's the next rezoning meeting in your area?",
+    "carousel_slides": [
+      {
+        "hook": "They buy land before you even notice",
+        "description": "Tech giants target rural counties with loose zoning; permits get approved before residents realize what is happening.",
+        "visual_hint": "Aerial view of rural land plot",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "rural farmland aerial"
+      },
+      {
+        "hook": "70% oppose data centers nearby",
+        "description": "Polls across every region show overwhelming opposition due to water usage, noise, and power grid strain.",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "visual_hint": "Chart showing high opposition percentage",
+        "image_query": "protest crowd signs",
+        "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Local votes fail to stop construction",
+        "description": "Companies bypass town councils by negotiating directly with county commissioners, filing new applications despite rejections.",
+        "visual_hint": "Construction site with heavy machinery",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "construction excavator site",
+        "image": "https://images.pexels.com/photos/38735193/pexels-photo-38735193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Is your town on the shortlist?",
+        "description": "If you live near a substation or fiber trunk, land agents may already be negotiating under nondisclosure agreements.",
+        "visual_hint": "Power lines near residential area",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "power lines suburb",
+        "image": "https://images.pexels.com/photos/31887380/pexels-photo-31887380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Check your county zoning website today",
+        "description": "Search for 'data center' in pending applications. If a hearing is scheduled, show up before rezoning passes.",
+        "visual_hint": "Person searching online planning portal",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "laptop government website",
+        "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "savedAt": "2026-09-16T14:29:33.040Z",
+    "sourceId": "066a2ef821973007a6fd1b74a7174bbe"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "we-don-t-need-ai-regulation-leave-safety-to-us-nvi",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+    "slides": [
+      "Jensen Huang says AI regulation isn't needed — why?",
+      "Nvidia claims safety can be self-managed by industry",
+      "Yet AI systems still fail in unpredictable ways",
+      "Your compliance team may soon face harder questions",
+      "Ask: who audits safety if nobody regulates?"
+    ],
+    "thread_text": [
+      "1. Nobody Wants To Regulate\n\nNvidia's CEO says AI safety can be self-managed by industry. But AI systems still fail in unpredictable ways.",
+      "2. Self-Managed Safety?\n\nIf companies police themselves, who defines 'safe'? And what happens when a model causes harm?",
+      "3. Unpredictable Failures\n\nAI doesn't just crash—it hallucinates, leaks data, and makes biased decisions. No regulation means no standard for accountability.",
+      "4. Compliance Gets Harder\n\nYour team may soon face questions you can't answer: Which AI version is deployed? Who approved it? What audit trail exists?",
+      "5. Who Audits AI?\n\nTake a real AI tool you use and try to find its safety documentation. If you can't, ask your vendor today. If you haven't, start there."
+    ],
+    "video_script": [
+      "Jensen Huang says AI regulation isn't needed.",
+      "Nvidia claims industry can manage safety itself.",
+      "But AI still fails in unpredictable ways.",
+      "Your compliance team will face harder questions.",
+      "Who audits safety if nobody regulates?"
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nobody Wants To Regulate\n\nNvidia's CEO says AI safety can be self-managed by industry. But AI systems still fail in unpredictable ways.",
+          "2. Self-Managed Safety?\n\nIf companies police themselves, who defines 'safe'? And what happens when a model causes harm?",
+          "3. Unpredictable Failures\n\nAI doesn't just crash—it hallucinates, leaks data, and makes biased decisions. No regulation means no standard for accountability.",
+          "4. Compliance Gets Harder\n\nYour team may soon face questions you can't answer: Which AI version is deployed? Who approved it? What audit trail exists?",
+          "5. Who Audits AI?\n\nTake a real AI tool you use and try to find its safety documentation. If you can't, ask your vendor today. If you haven't, start there."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Jensen Huang says AI regulation isn't needed.",
+          "Nvidia claims industry can manage safety itself.",
+          "But AI still fails in unpredictable ways.",
+          "Your compliance team will face harder questions.",
+          "Who audits safety if nobody regulates?"
+        ]
+      },
+      "instagram": {
+        "caption": "Nvidia wants to decide for itself whether its AI is safe.\n\nJensen Huang says regulation isn't needed — the industry can manage safety on its own. 🚦\n\nBut AI doesn't just crash. It hallucinates, leaks data, makes biased calls. 🤖\n\nWith no rules, nobody defines \"safe.\" Nobody audits. No standard for accountability.\n\nIf you use AI tools, ask your vendor for safety documentation. Today. 🔍\n\nWho audits AI if the industry polices itself?"
+      }
+    },
+    "instagram_caption": "Nvidia wants to decide for itself whether its AI is safe.\n\nJensen Huang says regulation isn't needed — the industry can manage safety on its own. 🚦\n\nBut AI doesn't just crash. It hallucinates, leaks data, makes biased calls. 🤖\n\nWith no rules, nobody defines \"safe.\" Nobody audits. No standard for accountability.\n\nIf you use AI tools, ask your vendor for safety documentation. Today. 🔍\n\nWho audits AI if the industry polices itself?",
+    "carousel_slides": [
+      {
+        "hook": "Who audits AI if nobody regulates?",
+        "description": "Nvidia's CEO says industry can self-manage AI safety. No regulation means no standard for accountability when models cause harm.",
+        "visual_hint": "Circuit board macro, glowing nodes, dark background",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "circuit board"
+      },
+      {
+        "hook": "Nvidia says: let industry self-manage safety",
+        "description": "If companies define 'safe' themselves, unpredictable failures like hallucinations, data leaks, and bias go unchecked.",
+        "visual_hint": "Nvidia logo on screen, office setting",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "Nvidia headquarters",
+        "image": "https://images.pexels.com/photos/32468331/pexels-photo-32468331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI fails unpredictably, not just crashes",
+        "description": "Hallucinations, biased decisions, and data leaks happen without warning. No regulation means no consistent safety standard.",
+        "visual_hint": "Glitch effect over AI interface",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "artificial intelligence",
+        "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your compliance team faces harder questions",
+        "description": "Which AI version is deployed? Who approved it? What audit trail exists? Without regulation, answers may be impossible to find.",
+        "visual_hint": "Stressed professional reviewing AI documents",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this and audit your AI tools",
+        "description": "Pick one AI tool you use. Find its safety documentation. If missing, ask your vendor today.",
+        "visual_hint": "Person holding phone with checklist",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone checklist",
+        "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "savedAt": "2026-09-16T14:29:11.074Z",
+    "sourceId": "6a5d552d9722f338875deb6317c4a5eb"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "chatgpt-pioneer-launches-jev-model-for-programmati",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+    "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "pubDate": "Wed, 16 Sep 2026 10:31:09 +0000",
+    "slides": [
+      "Can Jev outthink ChatGPT on logic?",
+      "A new model built for programmatic reasoning",
+      "It solves tasks ChatGPT silently fails",
+      "Your code debugging may never be the same",
+      "Test Jev on your hardest logic puzzle today"
+    ],
+    "thread_text": [
+      "1. ChatGPT's silent failure\n\nA new model called Jev was built specifically for programmatic reasoning. It solves logic tasks that ChatGPT gets wrong without ever flagging an error.",
+      "2. Why logic breaks chatbots\n\nMost language models pattern-match instead of truly reasoning. Jev takes a different approach designed for step-by-step programmatic thinking.",
+      "3. Debugging gets a new brain\n\nIf you write code, you know the pain of chasing bugs ChatGPT can't see. Jev was tested on hard logic puzzles where it outperformed standard models.",
+      "4. The stakes for developers\n\nSilent failures cost hours of debugging. A model that actually reasons through code logic could change how you validate every pull request.",
+      "5. Test it yourself today\n\nTake your hardest logic puzzle or a stubborn bug and run it through Jev. If it catches what ChatGPT missed, you'll never go back."
+    ],
+    "video_script": [
+      "ChatGPT fails silently on hard logic tasks.",
+      "A new model called Jev was built for reasoning.",
+      "It solves puzzles where ChatGPT gets it wrong.",
+      "Your code debugging may never be the same.",
+      "Test Jev on your hardest logic puzzle today."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. ChatGPT's silent failure\n\nA new model called Jev was built specifically for programmatic reasoning. It solves logic tasks that ChatGPT gets wrong without ever flagging an error.",
+          "2. Why logic breaks chatbots\n\nMost language models pattern-match instead of truly reasoning. Jev takes a different approach designed for step-by-step programmatic thinking.",
+          "3. Debugging gets a new brain\n\nIf you write code, you know the pain of chasing bugs ChatGPT can't see. Jev was tested on hard logic puzzles where it outperformed standard models.",
+          "4. The stakes for developers\n\nSilent failures cost hours of debugging. A model that actually reasons through code logic could change how you validate every pull request.",
+          "5. Test it yourself today\n\nTake your hardest logic puzzle or a stubborn bug and run it through Jev. If it catches what ChatGPT missed, you'll never go back."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "ChatGPT fails silently on hard logic tasks.",
+          "A new model called Jev was built for reasoning.",
+          "It solves puzzles where ChatGPT gets it wrong.",
+          "Your code debugging may never be the same.",
+          "Test Jev on your hardest logic puzzle today."
+        ]
+      },
+      "instagram": {
+        "caption": "A coding model just got built to catch logic errors ChatGPT misses without ever flagging them.\n\nIt's called Jev, made for programmatic reasoning instead of pattern-matching.\n\nMost chatbots guess the next likely answer — Jev works through logic step by step.\n\nThat gap is why ChatGPT can quietly fail on your hardest code tasks. 🧠\n\nIf you debug code, this changes how you validate pull requests and hunt stubborn bugs. ⚙️\n\nNext time a bug won't crack, would you trust your usual model first? 🔍"
+      }
+    },
+    "instagram_caption": "A coding model just got built to catch logic errors ChatGPT misses without ever flagging them.\n\nIt's called Jev, made for programmatic reasoning instead of pattern-matching.\n\nMost chatbots guess the next likely answer — Jev works through logic step by step.\n\nThat gap is why ChatGPT can quietly fail on your hardest code tasks. 🧠\n\nIf you debug code, this changes how you validate pull requests and hunt stubborn bugs. ⚙️\n\nNext time a bug won't crack, would you trust your usual model first? 🔍",
+    "carousel_slides": [
+      {
+        "hook": "Can logic break ChatGPT silently?",
+        "description": "Jev, a new model for programmatic reasoning, solves logic tasks ChatGPT fails without flagging errors.",
+        "visual_hint": "Glitching code on dark screen",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "code screen"
+      },
+      {
+        "hook": "Built for step-by-step programmatic thinking",
+        "description": "Most language models pattern-match instead of reasoning. Jev takes a different approach designed for true programmatic logic.",
+        "visual_hint": "Flowchart with glowing nodes",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "flowchart diagram",
+        "image": "https://images.pexels.com/photos/7947654/pexels-photo-7947654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It solves tasks ChatGPT silently fails",
+        "description": "On hard logic puzzles, Jev outperformed standard models, catching what ChatGPT misses without ever signaling an error.",
+        "visual_hint": "Puzzle pieces with error symbols",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "puzzle pieces",
+        "image": "https://images.pexels.com/photos/30708396/pexels-photo-30708396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Debugging may never be the same",
+        "description": "Silent failures cost hours. A model that reasons through code logic could change how you validate every pull request.",
+        "visual_hint": "Developer hands on keyboard",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "programmer hands",
+        "image": "https://images.pexels.com/photos/7988090/pexels-photo-7988090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test Jev on your hardest logic puzzle",
+        "description": "Run your toughest logic puzzle or stubborn bug through Jev today. If it catches what ChatGPT missed, save this post.",
+        "visual_hint": "Button with arrow to link",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "logic puzzle",
+        "image": "https://images.pexels.com/photos/7296640/pexels-photo-7296640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "savedAt": "2026-09-16T14:29:01.684Z",
+    "sourceId": "827397d1d260e58de96989496a9ff03f"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "meta-8217-s-new-one-subscriptions-put-a-price-on-s",
     "prompt_version": "1.0.0",
     "status": "published",

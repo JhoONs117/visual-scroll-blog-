@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "we-don-t-need-ai-regulation-leave-safety-to-us-nvi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+  "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+  "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+  "slides": [
+    "Jensen Huang says AI regulation isn't needed — why?",
+    "Nvidia claims safety can be self-managed by industry",
+    "Yet AI systems still fail in unpredictable ways",
+    "Your compliance team may soon face harder questions",
+    "Ask: who audits safety if nobody regulates?"
+  ],
+  "thread_text": [
+    "1. Nobody Wants To Regulate\n\nNvidia's CEO says AI safety can be self-managed by industry. But AI systems still fail in unpredictable ways.",
+    "2. Self-Managed Safety?\n\nIf companies police themselves, who defines 'safe'? And what happens when a model causes harm?",
+    "3. Unpredictable Failures\n\nAI doesn't just crash—it hallucinates, leaks data, and makes biased decisions. No regulation means no standard for accountability.",
+    "4. Compliance Gets Harder\n\nYour team may soon face questions you can't answer: Which AI version is deployed? Who approved it? What audit trail exists?",
+    "5. Who Audits AI?\n\nTake a real AI tool you use and try to find its safety documentation. If you can't, ask your vendor today. If you haven't, start there."
+  ],
+  "video_script": [
+    "Jensen Huang says AI regulation isn't needed.",
+    "Nvidia claims industry can manage safety itself.",
+    "But AI still fails in unpredictable ways.",
+    "Your compliance team will face harder questions.",
+    "Who audits safety if nobody regulates?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nobody Wants To Regulate\n\nNvidia's CEO says AI safety can be self-managed by industry. But AI systems still fail in unpredictable ways.",
+        "2. Self-Managed Safety?\n\nIf companies police themselves, who defines 'safe'? And what happens when a model causes harm?",
+        "3. Unpredictable Failures\n\nAI doesn't just crash—it hallucinates, leaks data, and makes biased decisions. No regulation means no standard for accountability.",
+        "4. Compliance Gets Harder\n\nYour team may soon face questions you can't answer: Which AI version is deployed? Who approved it? What audit trail exists?",
+        "5. Who Audits AI?\n\nTake a real AI tool you use and try to find its safety documentation. If you can't, ask your vendor today. If you haven't, start there."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Jensen Huang says AI regulation isn't needed.",
+        "Nvidia claims industry can manage safety itself.",
+        "But AI still fails in unpredictable ways.",
+        "Your compliance team will face harder questions.",
+        "Who audits safety if nobody regulates?"
+      ]
+    },
+    "instagram": {
+      "caption": "Nvidia wants to decide for itself whether its AI is safe.\n\nJensen Huang says regulation isn't needed — the industry can manage safety on its own. 🚦\n\nBut AI doesn't just crash. It hallucinates, leaks data, makes biased calls. 🤖\n\nWith no rules, nobody defines \"safe.\" Nobody audits. No standard for accountability.\n\nIf you use AI tools, ask your vendor for safety documentation. Today. 🔍\n\nWho audits AI if the industry polices itself?"
+    }
+  },
+  "instagram_caption": "Nvidia wants to decide for itself whether its AI is safe.\n\nJensen Huang says regulation isn't needed — the industry can manage safety on its own. 🚦\n\nBut AI doesn't just crash. It hallucinates, leaks data, makes biased calls. 🤖\n\nWith no rules, nobody defines \"safe.\" Nobody audits. No standard for accountability.\n\nIf you use AI tools, ask your vendor for safety documentation. Today. 🔍\n\nWho audits AI if the industry polices itself?",
+  "carousel_slides": [
+    {
+      "hook": "Who audits AI if nobody regulates?",
+      "description": "Nvidia's CEO says industry can self-manage AI safety. No regulation means no standard for accountability when models cause harm.",
+      "visual_hint": "Circuit board macro, glowing nodes, dark background",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "circuit board"
+    },
+    {
+      "hook": "Nvidia says: let industry self-manage safety",
+      "description": "If companies define 'safe' themselves, unpredictable failures like hallucinations, data leaks, and bias go unchecked.",
+      "visual_hint": "Nvidia logo on screen, office setting",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "Nvidia headquarters",
+      "image": "https://images.pexels.com/photos/32468331/pexels-photo-32468331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI fails unpredictably, not just crashes",
+      "description": "Hallucinations, biased decisions, and data leaks happen without warning. No regulation means no consistent safety standard.",
+      "visual_hint": "Glitch effect over AI interface",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence",
+      "image": "https://images.pexels.com/photos/7688592/pexels-photo-7688592.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your compliance team faces harder questions",
+      "description": "Which AI version is deployed? Who approved it? What audit trail exists? Without regulation, answers may be impossible to find.",
+      "visual_hint": "Stressed professional reviewing AI documents",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and audit your AI tools",
+      "description": "Pick one AI tool you use. Find its safety documentation. If missing, ask your vendor today.",
+      "visual_hint": "Person holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone checklist",
+      "image": "https://images.pexels.com/photos/8962472/pexels-photo-8962472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+  "savedAt": "2026-09-16T14:29:11.074Z",
+  "sourceId": "6a5d552d9722f338875deb6317c4a5eb"
+}

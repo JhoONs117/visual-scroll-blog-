@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-and-data-centers-are-incredibly-unpopular-in-ev",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI and data centers are incredibly unpopular in every poll",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+  "pubDate": "2026-09-15T23:34:25.000Z",
+  "slides": [
+    "Data centers: the AI boom nobody wants next door?",
+    "Polls show overwhelming opposition across every region.",
+    "Yet tech giants keep building despite the pushback.",
+    "Your town could be next for a massive facility.",
+    "Check local zoning before it's too late."
+  ],
+  "thread_text": [
+    "1. Massive Data Centers Coming\n\nTech giants are quietly buying land in rural counties where zoning rarely gets a second look. By the time residents notice, construction permits are already approved.",
+    "2. Overwhelming Opposition\n\nAcross every region polled, more than 70% of residents say they don't want these facilities nearby. Water usage, noise, and power grid strain top the list of concerns.",
+    "3. Pushback Doesn't Stop Them\n\nDespite local votes against projects, companies keep filing new applications. In several states, they've bypassed town councils by negotiating directly with county commissioners.",
+    "4. Your Town On The Shortlist\n\nIf you live near a substation or fiber trunk, you're in the running. Land agents often use nondisclosure agreements so neighbors don't find out until the deal closes.",
+    "5. Check Zoning Now\n\nGo to your county planning website and search for 'data center' in pending applications. If there's a hearing scheduled, show up. Once the rezoning passes, it's nearly impossible to reverse."
+  ],
+  "video_script": [
+    "Tech giants are buying land in rural counties right now.",
+    "Polls show most residents don't want these facilities nearby.",
+    "But companies keep building, often bypassing local votes.",
+    "If you live near a power substation, your town is next.",
+    "Check your county zoning website today before it's too late."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Massive Data Centers Coming\n\nTech giants are quietly buying land in rural counties where zoning rarely gets a second look. By the time residents notice, construction permits are already approved.",
+        "2. Overwhelming Opposition\n\nAcross every region polled, more than 70% of residents say they don't want these facilities nearby. Water usage, noise, and power grid strain top the list of concerns.",
+        "3. Pushback Doesn't Stop Them\n\nDespite local votes against projects, companies keep filing new applications. In several states, they've bypassed town councils by negotiating directly with county commissioners.",
+        "4. Your Town On The Shortlist\n\nIf you live near a substation or fiber trunk, you're in the running. Land agents often use nondisclosure agreements so neighbors don't find out until the deal closes.",
+        "5. Check Zoning Now\n\nGo to your county planning website and search for 'data center' in pending applications. If there's a hearing scheduled, show up. Once the rezoning passes, it's nearly impossible to reverse."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Tech giants are buying land in rural counties right now.",
+        "Polls show most residents don't want these facilities nearby.",
+        "But companies keep building, often bypassing local votes.",
+        "If you live near a power substation, your town is next.",
+        "Check your county zoning website today before it's too late."
+      ]
+    },
+    "instagram": {
+      "caption": "If you live near a substation, your county is probably on a land agent's shortlist. 🏗️\n\nTech giants are buying rural land quietly, sometimes under nondisclosure agreements, before residents even hear about it.\n\nPolls across every region show over 70% opposition, citing water use, noise, and grid strain. 🚰\n\nYet companies keep filing applications, often going straight to county commissioners instead of town councils.\n\nIf you run a local page or newsletter, search your county planning site for \"data center\" in pending applications now. 📋\n\nA scheduled hearing is your only real window to speak. 🗣️\n\nWhat's the next rezoning meeting in your area?"
+    }
+  },
+  "instagram_caption": "If you live near a substation, your county is probably on a land agent's shortlist. 🏗️\n\nTech giants are buying rural land quietly, sometimes under nondisclosure agreements, before residents even hear about it.\n\nPolls across every region show over 70% opposition, citing water use, noise, and grid strain. 🚰\n\nYet companies keep filing applications, often going straight to county commissioners instead of town councils.\n\nIf you run a local page or newsletter, search your county planning site for \"data center\" in pending applications now. 📋\n\nA scheduled hearing is your only real window to speak. 🗣️\n\nWhat's the next rezoning meeting in your area?",
+  "carousel_slides": [
+    {
+      "hook": "They buy land before you even notice",
+      "description": "Tech giants target rural counties with loose zoning; permits get approved before residents realize what is happening.",
+      "visual_hint": "Aerial view of rural land plot",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "rural farmland aerial"
+    },
+    {
+      "hook": "70% oppose data centers nearby",
+      "description": "Polls across every region show overwhelming opposition due to water usage, noise, and power grid strain.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Chart showing high opposition percentage",
+      "image_query": "protest crowd signs",
+      "image": "https://images.pexels.com/photos/11421067/pexels-photo-11421067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Local votes fail to stop construction",
+      "description": "Companies bypass town councils by negotiating directly with county commissioners, filing new applications despite rejections.",
+      "visual_hint": "Construction site with heavy machinery",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "construction excavator site",
+      "image": "https://images.pexels.com/photos/38735193/pexels-photo-38735193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your town on the shortlist?",
+      "description": "If you live near a substation or fiber trunk, land agents may already be negotiating under nondisclosure agreements.",
+      "visual_hint": "Power lines near residential area",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "power lines suburb",
+      "image": "https://images.pexels.com/photos/31887380/pexels-photo-31887380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Check your county zoning website today",
+      "description": "Search for 'data center' in pending applications. If a hearing is scheduled, show up before rezoning passes.",
+      "visual_hint": "Person searching online planning portal",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop government website",
+      "image": "https://images.pexels.com/photos/18096282/pexels-photo-18096282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-16T14:29:33.040Z",
+  "sourceId": "066a2ef821973007a6fd1b74a7174bbe"
+}
