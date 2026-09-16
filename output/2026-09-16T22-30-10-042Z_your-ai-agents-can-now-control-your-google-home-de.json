@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "your-ai-agents-can-now-control-your-google-home-de",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Your AI agents can now control your Google Home devices",
+  "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+  "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
+  "slides": [
+    "Google Home now lets AI agents control your devices",
+    "But only through a new integration layer",
+    "Your lights, thermostat, and locks become agent tools",
+    "You'll need to reauthorize each device manually",
+    "Audit your automations before agents run wild"
+  ],
+  "thread_text": [
+    "1. AI Agents Now Control Your Home\n\nGoogle Home just gave AI agents the keys to your lights, thermostat, and locks. But there's a catch you need to see.",
+    "2. The Integration Layer Twist\n\nA new layer sits between your devices and the AI. It decides what agents can touch—and what they can't.",
+    "3. Your Devices as Tools\n\nEvery smart bulb, lock, and thermostat becomes a tool an agent can call. Imagine an AI locking your door at 3 AM.",
+    "4. Reauthorize Every Device\n\nYou'll have to manually reauthorize each device. Miss one, and the agent loses access—or keeps it. Check your list.",
+    "5. Audit Before Agents Run Wild\n\nOpen your Google Home app and review every automation today. Uncheck anything you wouldn't want an AI to trigger accidentally."
+  ],
+  "video_script": [
+    "Google Home now lets AI agents control your smart devices.",
+    "A new layer decides exactly what agents can access.",
+    "Your lights, thermostat, and locks become agent tools.",
+    "But you must reauthorize each device manually.",
+    "Audit your automations before agents run wild."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI Agents Now Control Your Home\n\nGoogle Home just gave AI agents the keys to your lights, thermostat, and locks. But there's a catch you need to see.",
+        "2. The Integration Layer Twist\n\nA new layer sits between your devices and the AI. It decides what agents can touch—and what they can't.",
+        "3. Your Devices as Tools\n\nEvery smart bulb, lock, and thermostat becomes a tool an agent can call. Imagine an AI locking your door at 3 AM.",
+        "4. Reauthorize Every Device\n\nYou'll have to manually reauthorize each device. Miss one, and the agent loses access—or keeps it. Check your list.",
+        "5. Audit Before Agents Run Wild\n\nOpen your Google Home app and review every automation today. Uncheck anything you wouldn't want an AI to trigger accidentally."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google Home now lets AI agents control your smart devices.",
+        "A new layer decides exactly what agents can access.",
+        "Your lights, thermostat, and locks become agent tools.",
+        "But you must reauthorize each device manually.",
+        "Audit your automations before agents run wild."
+      ]
+    },
+    "instagram": {
+      "caption": "Your smart lock just became something an AI agent can trigger while you sleep.\n\nGoogle Home now lets AI agents control your lights, thermostat, and locks. 🔐\n\nA new integration layer sits between your devices and the AI, deciding what agents can actually touch.\n\nEvery bulb and lock becomes a tool an agent can call. But you have to reauthorize each device manually first.\n\nIf you run automations for work or content, open your Home app today and review what's connected. Miss one device, and an agent keeps access you forgot about.\n\nWhich device would you never hand to an agent? 🤖"
+    }
+  },
+  "instagram_caption": "Your smart lock just became something an AI agent can trigger while you sleep.\n\nGoogle Home now lets AI agents control your lights, thermostat, and locks. 🔐\n\nA new integration layer sits between your devices and the AI, deciding what agents can actually touch.\n\nEvery bulb and lock becomes a tool an agent can call. But you have to reauthorize each device manually first.\n\nIf you run automations for work or content, open your Home app today and review what's connected. Miss one device, and an agent keeps access you forgot about.\n\nWhich device would you never hand to an agent? 🤖",
+  "carousel_slides": [
+    {
+      "hook": "Can an AI lock your door at 3AM?",
+      "description": "Google Home now lets AI agents control lights, thermostats, and locks, turning every device into an agent tool.",
+      "visual_hint": "Glowing smart home hub on dark wall",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart home hub"
+    },
+    {
+      "hook": "A new layer decides what agents touch",
+      "description": "A fresh integration layer sits between your devices and AI, controlling exactly what agents can and cannot access.",
+      "visual_hint": "Network diagram nodes connecting devices",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "network diagram",
+      "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your bulbs, locks, thermostat became tools",
+      "description": "Every smart device is now a callable agent tool, meaning an AI could trigger any of them automatically.",
+      "visual_hint": "Smart thermostat and lock closeup",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smart thermostat",
+      "image": "https://images.pexels.com/photos/27638181/pexels-photo-27638181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "You must reauthorize every single device",
+      "description": "Each device needs manual reauthorization; skip one and an agent may keep access you did not intend.",
+      "visual_hint": "Hand tapping phone permission screen",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand smartphone screen",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Audit your automations before agents run wild",
+      "description": "Open your Google Home app and review every automation now. Uncheck anything you would not want an AI triggering.",
+      "visual_hint": "Google Home app automation list screen",
+      "layout_type": "cta-final",
+      "icon": "check",
+      "image_query": "smart home app",
+      "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+  "savedAt": "2026-09-16T22:30:42.773Z",
+  "sourceId": "eb823604160e8ea4d79c676784956261"
+}

@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "your-ai-agents-can-now-control-your-google-home-de",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "slides": [
+        "Google Home now lets AI agents control your devices",
+        "But only through a new integration layer",
+        "Your lights, thermostat, and locks become agent tools",
+        "You'll need to reauthorize each device manually",
+        "Audit your automations before agents run wild"
+      ],
+      "thread_text": [
+        "1. AI Agents Now Control Your Home\n\nGoogle Home just gave AI agents the keys to your lights, thermostat, and locks. But there's a catch you need to see.",
+        "2. The Integration Layer Twist\n\nA new layer sits between your devices and the AI. It decides what agents can touch—and what they can't.",
+        "3. Your Devices as Tools\n\nEvery smart bulb, lock, and thermostat becomes a tool an agent can call. Imagine an AI locking your door at 3 AM.",
+        "4. Reauthorize Every Device\n\nYou'll have to manually reauthorize each device. Miss one, and the agent loses access—or keeps it. Check your list.",
+        "5. Audit Before Agents Run Wild\n\nOpen your Google Home app and review every automation today. Uncheck anything you wouldn't want an AI to trigger accidentally."
+      ],
+      "video_script": [
+        "Google Home now lets AI agents control your smart devices.",
+        "A new layer decides exactly what agents can access.",
+        "Your lights, thermostat, and locks become agent tools.",
+        "But you must reauthorize each device manually.",
+        "Audit your automations before agents run wild."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI Agents Now Control Your Home\n\nGoogle Home just gave AI agents the keys to your lights, thermostat, and locks. But there's a catch you need to see.",
+            "2. The Integration Layer Twist\n\nA new layer sits between your devices and the AI. It decides what agents can touch—and what they can't.",
+            "3. Your Devices as Tools\n\nEvery smart bulb, lock, and thermostat becomes a tool an agent can call. Imagine an AI locking your door at 3 AM.",
+            "4. Reauthorize Every Device\n\nYou'll have to manually reauthorize each device. Miss one, and the agent loses access—or keeps it. Check your list.",
+            "5. Audit Before Agents Run Wild\n\nOpen your Google Home app and review every automation today. Uncheck anything you wouldn't want an AI to trigger accidentally."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google Home now lets AI agents control your smart devices.",
+            "A new layer decides exactly what agents can access.",
+            "Your lights, thermostat, and locks become agent tools.",
+            "But you must reauthorize each device manually.",
+            "Audit your automations before agents run wild."
+          ]
+        },
+        "instagram": {
+          "caption": "Your smart lock just became something an AI agent can trigger while you sleep.\n\nGoogle Home now lets AI agents control your lights, thermostat, and locks. 🔐\n\nA new integration layer sits between your devices and the AI, deciding what agents can actually touch.\n\nEvery bulb and lock becomes a tool an agent can call. But you have to reauthorize each device manually first.\n\nIf you run automations for work or content, open your Home app today and review what's connected. Miss one device, and an agent keeps access you forgot about.\n\nWhich device would you never hand to an agent? 🤖"
+        }
+      },
+      "instagram_caption": "Your smart lock just became something an AI agent can trigger while you sleep.\n\nGoogle Home now lets AI agents control your lights, thermostat, and locks. 🔐\n\nA new integration layer sits between your devices and the AI, deciding what agents can actually touch.\n\nEvery bulb and lock becomes a tool an agent can call. But you have to reauthorize each device manually first.\n\nIf you run automations for work or content, open your Home app today and review what's connected. Miss one device, and an agent keeps access you forgot about.\n\nWhich device would you never hand to an agent? 🤖",
+      "carousel_slides": [
+        {
+          "hook": "Can an AI lock your door at 3AM?",
+          "description": "Google Home now lets AI agents control lights, thermostats, and locks, turning every device into an agent tool.",
+          "visual_hint": "Glowing smart home hub on dark wall",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart home hub"
+        },
+        {
+          "hook": "A new layer decides what agents touch",
+          "description": "A fresh integration layer sits between your devices and AI, controlling exactly what agents can and cannot access.",
+          "visual_hint": "Network diagram nodes connecting devices",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "network diagram",
+          "image": "https://images.pexels.com/photos/6642542/pexels-photo-6642542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your bulbs, locks, thermostat became tools",
+          "description": "Every smart device is now a callable agent tool, meaning an AI could trigger any of them automatically.",
+          "visual_hint": "Smart thermostat and lock closeup",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "smart thermostat",
+          "image": "https://images.pexels.com/photos/27638181/pexels-photo-27638181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "You must reauthorize every single device",
+          "description": "Each device needs manual reauthorization; skip one and an agent may keep access you did not intend.",
+          "visual_hint": "Hand tapping phone permission screen",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand smartphone screen",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Audit your automations before agents run wild",
+          "description": "Open your Google Home app and review every automation now. Uncheck anything you would not want an AI triggering.",
+          "visual_hint": "Google Home app automation list screen",
+          "layout_type": "cta-final",
+          "icon": "check",
+          "image_query": "smart home app",
+          "image": "https://images.pexels.com/photos/17249214/pexels-photo-17249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+      "savedAt": "2026-09-16T22:30:42.773Z",
+      "sourceId": "eb823604160e8ea4d79c676784956261"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "ai-labs-want-in-house-auditors-but-maybe-they-shou",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "slides": [
+        "AI labs hire internal auditors, but who watches the watchers?",
+        "They fear regulators might miss hidden dangers in models.",
+        "Yet most risks come from open-source weights and insider access.",
+        "So the real fix is locking down training data and compute.",
+        "Close the front door before hiring more auditors."
+      ],
+      "thread_text": [
+        "1. Who Audits AI?\n\nAI labs now hire internal auditors to check their models. But those auditors report to the same people building the systems. That's a conflict, not oversight.",
+        "2. Oversight Theater\n\nInternal audit teams often lack access to training data or compute logs. They review polished reports, not raw model behavior. Regulators might inherit the same blind spots.",
+        "3. Open Weights, Real Risk\n\nMost dangerous capabilities leak through open-source releases and insider access, not closed APIs. Auditors chase the wrong door. The threat walks in through the side.",
+        "4. Lock Data and Chips\n\nIf you control training runs and hardware, you control capability. Auditing outputs after release is too late. Compute and data are the real chokepoints.",
+        "5. Check Your Own Stack\n\nAsk your AI vendor: who can access training data and compute? If they can't answer, you're exposed. Do that before trusting any audit report."
+      ],
+      "video_script": [
+        "AI labs hire auditors to watch themselves.",
+        "But auditors report to the same bosses.",
+        "Real danger comes from open weights and insiders.",
+        "Lock down training data and compute first.",
+        "Ask your vendor who truly controls the keys."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Who Audits AI?\n\nAI labs now hire internal auditors to check their models. But those auditors report to the same people building the systems. That's a conflict, not oversight.",
+            "2. Oversight Theater\n\nInternal audit teams often lack access to training data or compute logs. They review polished reports, not raw model behavior. Regulators might inherit the same blind spots.",
+            "3. Open Weights, Real Risk\n\nMost dangerous capabilities leak through open-source releases and insider access, not closed APIs. Auditors chase the wrong door. The threat walks in through the side.",
+            "4. Lock Data and Chips\n\nIf you control training runs and hardware, you control capability. Auditing outputs after release is too late. Compute and data are the real chokepoints.",
+            "5. Check Your Own Stack\n\nAsk your AI vendor: who can access training data and compute? If they can't answer, you're exposed. Do that before trusting any audit report."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI labs hire auditors to watch themselves.",
+            "But auditors report to the same bosses.",
+            "Real danger comes from open weights and insiders.",
+            "Lock down training data and compute first.",
+            "Ask your vendor who truly controls the keys."
+          ]
+        },
+        "instagram": {
+          "caption": "AI labs are hiring internal auditors who report to the same people building the models. That's not oversight, that's a mirror. 🪞\n\nThey worry regulators will miss hidden dangers, yet most risky capabilities leak through open-source weights and insider access, not closed systems.\n\nThe real fix isn't more auditors. It's locking down training data and compute before anything ships. 🔒\n\nIf you publish AI-generated content, ask your vendor who can access their training runs. If they can't answer, your work is exposed. ⚠️\n\nSo who actually audits the auditors you're trusting? 🤔"
+        }
+      },
+      "instagram_caption": "AI labs are hiring internal auditors who report to the same people building the models. That's not oversight, that's a mirror. 🪞\n\nThey worry regulators will miss hidden dangers, yet most risky capabilities leak through open-source weights and insider access, not closed systems.\n\nThe real fix isn't more auditors. It's locking down training data and compute before anything ships. 🔒\n\nIf you publish AI-generated content, ask your vendor who can access their training runs. If they can't answer, your work is exposed. ⚠️\n\nSo who actually audits the auditors you're trusting? 🤔",
+      "carousel_slides": [
+        {
+          "hook": "Is Your AI Audit Just Theater?",
+          "description": "Most risks come from open-source weights and insider access, yet auditors focus on closed APIs instead.",
+          "visual_hint": "Auditor reviewing polished reports, not raw model behavior",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "open source code"
+        },
+        {
+          "hook": "Who Really Watches the Model?",
+          "description": "Internal auditors report to the same people building the systems—a structural conflict, not true oversight.",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "visual_hint": "Auditor and engineer sharing same office",
+          "image_query": "office meeting room",
+          "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Auditors Miss the Real Threat Door",
+          "description": "Most dangerous capabilities leak through open-source releases and insider access, not closed APIs.",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "visual_hint": "Side door left open in server room",
+          "image_query": "server room door",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Lock Data and Chips First",
+          "description": "Control training runs and hardware to control capability. Auditing outputs after release is already too late.",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "visual_hint": "Hand on server rack, locking it down",
+          "image_query": "server rack closeup",
+          "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Ask Your Vendor: Who Has Access?",
+          "description": "Ask your AI vendor who can access training data and compute. If they can't answer, you're exposed.",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "visual_hint": "Person asking vendor tough security questions",
+          "image_query": "business handshake meeting",
+          "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1486318910.jpg?resize=1200,776",
+      "savedAt": "2026-09-16T22:30:35.062Z",
+      "sourceId": "f60a2a4ca838db8572944cd9e10202d8"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "anthropic-and-openai-want-to-embed-safety-evaluato",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "slides": [
+        "Anthropic and OpenAI want safety evaluators inside their labs",
+        "But who audits the auditors when they're paid by the labs?",
+        "Companies will fund the evaluations they are judged by",
+        "Regulators may still rubber-stamp these self-funded checks",
+        "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+      ],
+      "thread_text": [
+        "1. Safety on Their Payroll\n\nAnthropic and OpenAI want independent evaluators inside their labs, but those evaluators would be paid by the companies they judge.",
+        "2. Who Audits the Auditors?\n\nWhen the lab signs the check, the auditor answers to the lab. Independence becomes a line item in the budget.",
+        "3. Companies Fund Their Own Grades\n\nIf a company pays for the safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+        "4. Regulators Rubber-Stamp\n\nEven with good intentions, regulators may accept these self-funded checks as proof of safety, creating a false sense of oversight.",
+        "5. Check the Paycheck\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? If the answer is the vendor, the evaluation is not independent. Do it today."
+      ],
+      "video_script": [
+        "Anthropic and OpenAI want safety evaluators inside their labs.",
+        "But who audits the auditors when the labs pay them?",
+        "Companies will fund the very evaluations that judge them.",
+        "Regulators may rubber-stamp these self-funded safety checks.",
+        "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Safety on Their Payroll\n\nAnthropic and OpenAI want independent evaluators inside their labs, but those evaluators would be paid by the companies they judge.",
+            "2. Who Audits the Auditors?\n\nWhen the lab signs the check, the auditor answers to the lab. Independence becomes a line item in the budget.",
+            "3. Companies Fund Their Own Grades\n\nIf a company pays for the safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+            "4. Regulators Rubber-Stamp\n\nEven with good intentions, regulators may accept these self-funded checks as proof of safety, creating a false sense of oversight.",
+            "5. Check the Paycheck\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? If the answer is the vendor, the evaluation is not independent. Do it today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Anthropic and OpenAI want safety evaluators inside their labs.",
+            "But who audits the auditors when the labs pay them?",
+            "Companies will fund the very evaluations that judge them.",
+            "Regulators may rubber-stamp these self-funded safety checks.",
+            "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your next AI safety check might be signed by the company being checked.\n\nAnthropic and OpenAI want independent safety evaluators working inside their own labs — but those evaluators would be paid by the labs themselves. 🧾\n\nThat means the company funds the very evaluation that judges it, shaping what gets tested and what gets published.\n\nRegulators may still accept these self-funded checks as real proof of safety. 🔍\n\nIf you build or publish with these tools, the safety label you rely on may not be independent at all.\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? 👀"
+        }
+      },
+      "instagram_caption": "Your next AI safety check might be signed by the company being checked.\n\nAnthropic and OpenAI want independent safety evaluators working inside their own labs — but those evaluators would be paid by the labs themselves. 🧾\n\nThat means the company funds the very evaluation that judges it, shaping what gets tested and what gets published.\n\nRegulators may still accept these self-funded checks as real proof of safety. 🔍\n\nIf you build or publish with these tools, the safety label you rely on may not be independent at all.\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? 👀",
+      "carousel_slides": [
+        {
+          "hook": "Who signs the safety evaluator's paycheck?",
+          "description": "Anthropic and OpenAI want independent evaluators inside their labs, but those evaluators get paid by the companies they judge.",
+          "visual_hint": "Close-up of paycheck with corporate logo",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "paycheck stub"
+        },
+        {
+          "hook": "Who audits the auditors?",
+          "description": "When the lab signs the check, the auditor answers to the lab. Independence becomes just a line item in the budget.",
+          "visual_hint": "Auditor examining documents under magnifying glass",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "auditor documents",
+          "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Companies fund the grades they receive",
+          "description": "If a company pays for its safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+          "visual_hint": "Hands adjusting dials on evaluation panel",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "control dials",
+          "image": "https://images.pexels.com/photos/38649039/pexels-photo-38649039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators rubber-stamp self-funded checks",
+          "description": "Even with good intentions, regulators may accept these self-funded evaluations as proof of safety, creating a false sense of oversight.",
+          "visual_hint": "Rubber stamp hitting document on desk",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "rubber stamp",
+          "image": "https://images.pexels.com/photos/7310139/pexels-photo-7310139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this. Ask who pays your AI vendor",
+          "description": "Demand transparency: ask any AI vendor who signs their safety evaluator's paycheck. If the vendor pays, it's not independent.",
+          "visual_hint": "Person pointing at question mark with checkbook",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "checkbook question mark",
+          "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "savedAt": "2026-09-16T22:30:26.893Z",
+      "sourceId": "a4f0cae5cc3a223355324ab04ad13ddf"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "noise-wants-to-help-everyday-people-become-paid-co",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "pubDate": "Wed, 16 Sep 2026 21:35:00 +0000",
+      "slides": [
+        "Noise thinks anyone can be a paid creator?",
+        "The platform hands everyday people new monetization tools",
+        "But it rewards niche voices over huge follower counts",
+        "Your current audience size no longer blocks your income",
+        "Pick one topic you know and publish this week"
+      ],
+      "thread_text": [
+        "1. No Audience? Get Paid.\n\nNoise now lets anyone earn as a creator, even with zero followers. The platform just rolled out monetization tools for everyday people.",
+        "2. Niche Wins, Not Numbers\n\nForget chasing huge follower counts. Noise rewards specific, niche voices that actually know their topic, so your small audience is an advantage.",
+        "3. Your Size No Longer Blocks Income\n\nThe old gatekeeper model is gone. On Noise, your current audience size doesn't determine what you can earn — your knowledge does.",
+        "4. One Topic, One Publish\n\nPick a single topic you already know well and publish this week. That's the entire barrier to entry on Noise.",
+        "5. What's Your Excuse Now?\n\nIf follower count isn't the blocker anymore, what's stopping you from publishing this week? Pick your topic today and hit publish."
+      ],
+      "video_script": [
+        "Noise lets anyone become a paid creator now.",
+        "It gives everyday people new ways to earn.",
+        "But it rewards niche voices over big follower counts.",
+        "Your audience size no longer blocks your income.",
+        "Pick one topic you know and publish this week."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. No Audience? Get Paid.\n\nNoise now lets anyone earn as a creator, even with zero followers. The platform just rolled out monetization tools for everyday people.",
+            "2. Niche Wins, Not Numbers\n\nForget chasing huge follower counts. Noise rewards specific, niche voices that actually know their topic, so your small audience is an advantage.",
+            "3. Your Size No Longer Blocks Income\n\nThe old gatekeeper model is gone. On Noise, your current audience size doesn't determine what you can earn — your knowledge does.",
+            "4. One Topic, One Publish\n\nPick a single topic you already know well and publish this week. That's the entire barrier to entry on Noise.",
+            "5. What's Your Excuse Now?\n\nIf follower count isn't the blocker anymore, what's stopping you from publishing this week? Pick your topic today and hit publish."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Noise lets anyone become a paid creator now.",
+            "It gives everyday people new ways to earn.",
+            "But it rewards niche voices over big follower counts.",
+            "Your audience size no longer blocks your income.",
+            "Pick one topic you know and publish this week."
+          ]
+        },
+        "instagram": {
+          "caption": "You can now get paid on Noise even with zero followers. 💸\n\nThe platform just launched monetization tools for everyday creators, and it rewards niche voices instead of big follower counts.\n\nYour audience size no longer decides what you can earn — your knowledge does. 🔑\n\nSo the gap between knowing something and getting paid for it just got smaller.\n\nPick one topic you already know well and publish it this week. 📝\n\nWhat topic could you publish right now that you've been putting off? 👇"
+        }
+      },
+      "instagram_caption": "You can now get paid on Noise even with zero followers. 💸\n\nThe platform just launched monetization tools for everyday creators, and it rewards niche voices instead of big follower counts.\n\nYour audience size no longer decides what you can earn — your knowledge does. 🔑\n\nSo the gap between knowing something and getting paid for it just got smaller.\n\nPick one topic you already know well and publish it this week. 📝\n\nWhat topic could you publish right now that you've been putting off? 👇",
+      "carousel_slides": [
+        {
+          "hook": "Followers No Longer Determine Your Income",
+          "description": "Noise rewards niche knowledge over audience size, so your small following becomes an advantage, not a barrier to earning.",
+          "visual_hint": "Person holding smartphone with dollar sign",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smartphone money"
+        },
+        {
+          "hook": "Noise Hands Everyday People Monetization Tools",
+          "description": "The platform rolled out creator monetization tools for regular people, letting anyone earn even with zero followers.",
+          "visual_hint": "Tools interface on digital screen",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "computer interface",
+          "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Niche Voices Win Over Huge Follower Counts",
+          "description": "Forget chasing massive audiences. Noise rewards specific, knowledgeable voices, making your focused expertise more valuable than viral reach.",
+          "visual_hint": "Microphone in recording studio",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "recording studio microphone",
+          "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your Audience Size No Longer Blocks Income",
+          "description": "The old gatekeeper model is gone. On Noise, your current audience size doesn't determine earnings — your knowledge does.",
+          "visual_hint": "Hand releasing keys on keyboard",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hands typing keyboard",
+          "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save This And Publish Your First Post",
+          "description": "Pick one topic you already know well and publish this week on Noise. That's the entire barrier to entry.",
+          "visual_hint": "Finger pressing publish button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "publish button screen",
+          "image": "https://images.pexels.com/photos/7968784/pexels-photo-7968784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803",
+      "savedAt": "2026-09-16T22:30:18.654Z",
+      "sourceId": "48df201dafb4c0f5c7bfbd144b04ab8f"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "ai-and-data-centers-are-incredibly-unpopular-in-ev",
       "prompt_version": "1.0.0",
       "status": "published",

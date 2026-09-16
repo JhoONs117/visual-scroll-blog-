@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "anthropic-and-openai-want-to-embed-safety-evaluato",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+  "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+  "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+  "slides": [
+    "Anthropic and OpenAI want safety evaluators inside their labs",
+    "But who audits the auditors when they're paid by the labs?",
+    "Companies will fund the evaluations they are judged by",
+    "Regulators may still rubber-stamp these self-funded checks",
+    "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+  ],
+  "thread_text": [
+    "1. Safety on Their Payroll\n\nAnthropic and OpenAI want independent evaluators inside their labs, but those evaluators would be paid by the companies they judge.",
+    "2. Who Audits the Auditors?\n\nWhen the lab signs the check, the auditor answers to the lab. Independence becomes a line item in the budget.",
+    "3. Companies Fund Their Own Grades\n\nIf a company pays for the safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+    "4. Regulators Rubber-Stamp\n\nEven with good intentions, regulators may accept these self-funded checks as proof of safety, creating a false sense of oversight.",
+    "5. Check the Paycheck\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? If the answer is the vendor, the evaluation is not independent. Do it today."
+  ],
+  "video_script": [
+    "Anthropic and OpenAI want safety evaluators inside their labs.",
+    "But who audits the auditors when the labs pay them?",
+    "Companies will fund the very evaluations that judge them.",
+    "Regulators may rubber-stamp these self-funded safety checks.",
+    "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Safety on Their Payroll\n\nAnthropic and OpenAI want independent evaluators inside their labs, but those evaluators would be paid by the companies they judge.",
+        "2. Who Audits the Auditors?\n\nWhen the lab signs the check, the auditor answers to the lab. Independence becomes a line item in the budget.",
+        "3. Companies Fund Their Own Grades\n\nIf a company pays for the safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+        "4. Regulators Rubber-Stamp\n\nEven with good intentions, regulators may accept these self-funded checks as proof of safety, creating a false sense of oversight.",
+        "5. Check the Paycheck\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? If the answer is the vendor, the evaluation is not independent. Do it today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Anthropic and OpenAI want safety evaluators inside their labs.",
+        "But who audits the auditors when the labs pay them?",
+        "Companies will fund the very evaluations that judge them.",
+        "Regulators may rubber-stamp these self-funded safety checks.",
+        "Ask any AI vendor: who signs your safety evaluator's paycheck?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next AI safety check might be signed by the company being checked.\n\nAnthropic and OpenAI want independent safety evaluators working inside their own labs — but those evaluators would be paid by the labs themselves. 🧾\n\nThat means the company funds the very evaluation that judges it, shaping what gets tested and what gets published.\n\nRegulators may still accept these self-funded checks as real proof of safety. 🔍\n\nIf you build or publish with these tools, the safety label you rely on may not be independent at all.\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? 👀"
+    }
+  },
+  "instagram_caption": "Your next AI safety check might be signed by the company being checked.\n\nAnthropic and OpenAI want independent safety evaluators working inside their own labs — but those evaluators would be paid by the labs themselves. 🧾\n\nThat means the company funds the very evaluation that judges it, shaping what gets tested and what gets published.\n\nRegulators may still accept these self-funded checks as real proof of safety. 🔍\n\nIf you build or publish with these tools, the safety label you rely on may not be independent at all.\n\nAsk any AI vendor: who signs your safety evaluator's paycheck? 👀",
+  "carousel_slides": [
+    {
+      "hook": "Who signs the safety evaluator's paycheck?",
+      "description": "Anthropic and OpenAI want independent evaluators inside their labs, but those evaluators get paid by the companies they judge.",
+      "visual_hint": "Close-up of paycheck with corporate logo",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "paycheck stub"
+    },
+    {
+      "hook": "Who audits the auditors?",
+      "description": "When the lab signs the check, the auditor answers to the lab. Independence becomes just a line item in the budget.",
+      "visual_hint": "Auditor examining documents under magnifying glass",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "auditor documents",
+      "image": "https://images.pexels.com/photos/8970301/pexels-photo-8970301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Companies fund the grades they receive",
+      "description": "If a company pays for its safety evaluation, it can influence the scope, the questions asked, and what gets published.",
+      "visual_hint": "Hands adjusting dials on evaluation panel",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "control dials",
+      "image": "https://images.pexels.com/photos/38649039/pexels-photo-38649039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators rubber-stamp self-funded checks",
+      "description": "Even with good intentions, regulators may accept these self-funded evaluations as proof of safety, creating a false sense of oversight.",
+      "visual_hint": "Rubber stamp hitting document on desk",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "rubber stamp",
+      "image": "https://images.pexels.com/photos/7310139/pexels-photo-7310139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this. Ask who pays your AI vendor",
+      "description": "Demand transparency: ask any AI vendor who signs their safety evaluator's paycheck. If the vendor pays, it's not independent.",
+      "visual_hint": "Person pointing at question mark with checkbook",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "checkbook question mark",
+      "image": "https://images.pexels.com/photos/5428826/pexels-photo-5428826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+  "savedAt": "2026-09-16T22:30:26.893Z",
+  "sourceId": "a4f0cae5cc3a223355324ab04ad13ddf"
+}

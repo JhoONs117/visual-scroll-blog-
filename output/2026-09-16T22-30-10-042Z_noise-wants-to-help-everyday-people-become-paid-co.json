@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "noise-wants-to-help-everyday-people-become-paid-co",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Noise wants to help everyday people  become paid content creators",
+  "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+  "pubDate": "Wed, 16 Sep 2026 21:35:00 +0000",
+  "slides": [
+    "Noise thinks anyone can be a paid creator?",
+    "The platform hands everyday people new monetization tools",
+    "But it rewards niche voices over huge follower counts",
+    "Your current audience size no longer blocks your income",
+    "Pick one topic you know and publish this week"
+  ],
+  "thread_text": [
+    "1. No Audience? Get Paid.\n\nNoise now lets anyone earn as a creator, even with zero followers. The platform just rolled out monetization tools for everyday people.",
+    "2. Niche Wins, Not Numbers\n\nForget chasing huge follower counts. Noise rewards specific, niche voices that actually know their topic, so your small audience is an advantage.",
+    "3. Your Size No Longer Blocks Income\n\nThe old gatekeeper model is gone. On Noise, your current audience size doesn't determine what you can earn — your knowledge does.",
+    "4. One Topic, One Publish\n\nPick a single topic you already know well and publish this week. That's the entire barrier to entry on Noise.",
+    "5. What's Your Excuse Now?\n\nIf follower count isn't the blocker anymore, what's stopping you from publishing this week? Pick your topic today and hit publish."
+  ],
+  "video_script": [
+    "Noise lets anyone become a paid creator now.",
+    "It gives everyday people new ways to earn.",
+    "But it rewards niche voices over big follower counts.",
+    "Your audience size no longer blocks your income.",
+    "Pick one topic you know and publish this week."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. No Audience? Get Paid.\n\nNoise now lets anyone earn as a creator, even with zero followers. The platform just rolled out monetization tools for everyday people.",
+        "2. Niche Wins, Not Numbers\n\nForget chasing huge follower counts. Noise rewards specific, niche voices that actually know their topic, so your small audience is an advantage.",
+        "3. Your Size No Longer Blocks Income\n\nThe old gatekeeper model is gone. On Noise, your current audience size doesn't determine what you can earn — your knowledge does.",
+        "4. One Topic, One Publish\n\nPick a single topic you already know well and publish this week. That's the entire barrier to entry on Noise.",
+        "5. What's Your Excuse Now?\n\nIf follower count isn't the blocker anymore, what's stopping you from publishing this week? Pick your topic today and hit publish."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Noise lets anyone become a paid creator now.",
+        "It gives everyday people new ways to earn.",
+        "But it rewards niche voices over big follower counts.",
+        "Your audience size no longer blocks your income.",
+        "Pick one topic you know and publish this week."
+      ]
+    },
+    "instagram": {
+      "caption": "You can now get paid on Noise even with zero followers. 💸\n\nThe platform just launched monetization tools for everyday creators, and it rewards niche voices instead of big follower counts.\n\nYour audience size no longer decides what you can earn — your knowledge does. 🔑\n\nSo the gap between knowing something and getting paid for it just got smaller.\n\nPick one topic you already know well and publish it this week. 📝\n\nWhat topic could you publish right now that you've been putting off? 👇"
+    }
+  },
+  "instagram_caption": "You can now get paid on Noise even with zero followers. 💸\n\nThe platform just launched monetization tools for everyday creators, and it rewards niche voices instead of big follower counts.\n\nYour audience size no longer decides what you can earn — your knowledge does. 🔑\n\nSo the gap between knowing something and getting paid for it just got smaller.\n\nPick one topic you already know well and publish it this week. 📝\n\nWhat topic could you publish right now that you've been putting off? 👇",
+  "carousel_slides": [
+    {
+      "hook": "Followers No Longer Determine Your Income",
+      "description": "Noise rewards niche knowledge over audience size, so your small following becomes an advantage, not a barrier to earning.",
+      "visual_hint": "Person holding smartphone with dollar sign",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smartphone money"
+    },
+    {
+      "hook": "Noise Hands Everyday People Monetization Tools",
+      "description": "The platform rolled out creator monetization tools for regular people, letting anyone earn even with zero followers.",
+      "visual_hint": "Tools interface on digital screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "computer interface",
+      "image": "https://images.pexels.com/photos/34804020/pexels-photo-34804020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Niche Voices Win Over Huge Follower Counts",
+      "description": "Forget chasing massive audiences. Noise rewards specific, knowledgeable voices, making your focused expertise more valuable than viral reach.",
+      "visual_hint": "Microphone in recording studio",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "recording studio microphone",
+      "image": "https://images.pexels.com/photos/4988132/pexels-photo-4988132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your Audience Size No Longer Blocks Income",
+      "description": "The old gatekeeper model is gone. On Noise, your current audience size doesn't determine earnings — your knowledge does.",
+      "visual_hint": "Hand releasing keys on keyboard",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hands typing keyboard",
+      "image": "https://images.pexels.com/photos/6143822/pexels-photo-6143822.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save This And Publish Your First Post",
+      "description": "Pick one topic you already know well and publish this week on Noise. That's the entire barrier to entry.",
+      "visual_hint": "Finger pressing publish button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "publish button screen",
+      "image": "https://images.pexels.com/photos/7968784/pexels-photo-7968784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803",
+  "savedAt": "2026-09-16T22:30:18.654Z",
+  "sourceId": "48df201dafb4c0f5c7bfbd144b04ab8f"
+}

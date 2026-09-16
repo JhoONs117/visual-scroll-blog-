@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "ai-labs-want-in-house-auditors-but-maybe-they-shou",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+  "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+  "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+  "slides": [
+    "AI labs hire internal auditors, but who watches the watchers?",
+    "They fear regulators might miss hidden dangers in models.",
+    "Yet most risks come from open-source weights and insider access.",
+    "So the real fix is locking down training data and compute.",
+    "Close the front door before hiring more auditors."
+  ],
+  "thread_text": [
+    "1. Who Audits AI?\n\nAI labs now hire internal auditors to check their models. But those auditors report to the same people building the systems. That's a conflict, not oversight.",
+    "2. Oversight Theater\n\nInternal audit teams often lack access to training data or compute logs. They review polished reports, not raw model behavior. Regulators might inherit the same blind spots.",
+    "3. Open Weights, Real Risk\n\nMost dangerous capabilities leak through open-source releases and insider access, not closed APIs. Auditors chase the wrong door. The threat walks in through the side.",
+    "4. Lock Data and Chips\n\nIf you control training runs and hardware, you control capability. Auditing outputs after release is too late. Compute and data are the real chokepoints.",
+    "5. Check Your Own Stack\n\nAsk your AI vendor: who can access training data and compute? If they can't answer, you're exposed. Do that before trusting any audit report."
+  ],
+  "video_script": [
+    "AI labs hire auditors to watch themselves.",
+    "But auditors report to the same bosses.",
+    "Real danger comes from open weights and insiders.",
+    "Lock down training data and compute first.",
+    "Ask your vendor who truly controls the keys."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Who Audits AI?\n\nAI labs now hire internal auditors to check their models. But those auditors report to the same people building the systems. That's a conflict, not oversight.",
+        "2. Oversight Theater\n\nInternal audit teams often lack access to training data or compute logs. They review polished reports, not raw model behavior. Regulators might inherit the same blind spots.",
+        "3. Open Weights, Real Risk\n\nMost dangerous capabilities leak through open-source releases and insider access, not closed APIs. Auditors chase the wrong door. The threat walks in through the side.",
+        "4. Lock Data and Chips\n\nIf you control training runs and hardware, you control capability. Auditing outputs after release is too late. Compute and data are the real chokepoints.",
+        "5. Check Your Own Stack\n\nAsk your AI vendor: who can access training data and compute? If they can't answer, you're exposed. Do that before trusting any audit report."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI labs hire auditors to watch themselves.",
+        "But auditors report to the same bosses.",
+        "Real danger comes from open weights and insiders.",
+        "Lock down training data and compute first.",
+        "Ask your vendor who truly controls the keys."
+      ]
+    },
+    "instagram": {
+      "caption": "AI labs are hiring internal auditors who report to the same people building the models. That's not oversight, that's a mirror. 🪞\n\nThey worry regulators will miss hidden dangers, yet most risky capabilities leak through open-source weights and insider access, not closed systems.\n\nThe real fix isn't more auditors. It's locking down training data and compute before anything ships. 🔒\n\nIf you publish AI-generated content, ask your vendor who can access their training runs. If they can't answer, your work is exposed. ⚠️\n\nSo who actually audits the auditors you're trusting? 🤔"
+    }
+  },
+  "instagram_caption": "AI labs are hiring internal auditors who report to the same people building the models. That's not oversight, that's a mirror. 🪞\n\nThey worry regulators will miss hidden dangers, yet most risky capabilities leak through open-source weights and insider access, not closed systems.\n\nThe real fix isn't more auditors. It's locking down training data and compute before anything ships. 🔒\n\nIf you publish AI-generated content, ask your vendor who can access their training runs. If they can't answer, your work is exposed. ⚠️\n\nSo who actually audits the auditors you're trusting? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is Your AI Audit Just Theater?",
+      "description": "Most risks come from open-source weights and insider access, yet auditors focus on closed APIs instead.",
+      "visual_hint": "Auditor reviewing polished reports, not raw model behavior",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "open source code"
+    },
+    {
+      "hook": "Who Really Watches the Model?",
+      "description": "Internal auditors report to the same people building the systems—a structural conflict, not true oversight.",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "visual_hint": "Auditor and engineer sharing same office",
+      "image_query": "office meeting room",
+      "image": "https://images.pexels.com/photos/3767172/pexels-photo-3767172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Auditors Miss the Real Threat Door",
+      "description": "Most dangerous capabilities leak through open-source releases and insider access, not closed APIs.",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "visual_hint": "Side door left open in server room",
+      "image_query": "server room door",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Lock Data and Chips First",
+      "description": "Control training runs and hardware to control capability. Auditing outputs after release is already too late.",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "visual_hint": "Hand on server rack, locking it down",
+      "image_query": "server rack closeup",
+      "image": "https://images.pexels.com/photos/5203849/pexels-photo-5203849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Ask Your Vendor: Who Has Access?",
+      "description": "Ask your AI vendor who can access training data and compute. If they can't answer, you're exposed.",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "visual_hint": "Person asking vendor tough security questions",
+      "image_query": "business handshake meeting",
+      "image": "https://images.pexels.com/photos/12903031/pexels-photo-12903031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1486318910.jpg?resize=1200,776",
+  "savedAt": "2026-09-16T22:30:35.062Z",
+  "sourceId": "f60a2a4ca838db8572944cd9e10202d8"
+}
