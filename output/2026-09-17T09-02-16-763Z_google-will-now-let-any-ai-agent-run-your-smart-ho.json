@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "google-will-now-let-any-ai-agent-run-your-smart-ho",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Google will now let any AI agent run your smart home",
+  "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+  "pubDate": "2026-09-16T17:00:00.000Z",
+  "slides": [
+    "Google just handed control of your smart home to AI?",
+    "Any AI agent can now trigger lights, locks, and cameras.",
+    "But Google's own Gemini won't get special access.",
+    "Check your permissions: third-party agents can now act freely.",
+    "Revoke access for any agent you don't fully trust today."
+  ],
+  "thread_text": [
+    "1. Google Just Gave AI the Keys\n\nAny AI agent can now trigger your lights, locks, and cameras. Google's own Gemini doesn't get special access.",
+    "2. The Permission Problem\n\nThird-party agents can act freely without Gemini's restrictions. Google opened the door to every AI developer.",
+    "3. Gemini Locked Out\n\nGoogle's own assistant plays by different rules. Competitors get broader access than the home team.",
+    "4. Your Home, Their Playground\n\nCheck your permissions today. Unknown agents may already have control over your smart devices.",
+    "5. Take Action Now\n\nRevoke access for any agent you don't fully trust. Do it today before something unexpected happens."
+  ],
+  "video_script": [
+    "Google just handed control of your smart home to AI.",
+    "Any AI agent can now trigger lights, locks, and cameras.",
+    "But Google's own Gemini won't get special access.",
+    "Check your permissions: third-party agents can now act freely.",
+    "Revoke access for any agent you don't fully trust today."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Google Just Gave AI the Keys\n\nAny AI agent can now trigger your lights, locks, and cameras. Google's own Gemini doesn't get special access.",
+        "2. The Permission Problem\n\nThird-party agents can act freely without Gemini's restrictions. Google opened the door to every AI developer.",
+        "3. Gemini Locked Out\n\nGoogle's own assistant plays by different rules. Competitors get broader access than the home team.",
+        "4. Your Home, Their Playground\n\nCheck your permissions today. Unknown agents may already have control over your smart devices.",
+        "5. Take Action Now\n\nRevoke access for any agent you don't fully trust. Do it today before something unexpected happens."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Google just handed control of your smart home to AI.",
+        "Any AI agent can now trigger lights, locks, and cameras.",
+        "But Google's own Gemini won't get special access.",
+        "Check your permissions: third-party agents can now act freely.",
+        "Revoke access for any agent you don't fully trust today."
+      ]
+    },
+    "instagram": {
+      "caption": "Your lights, locks, and cameras can now be triggered by AI agents you've never heard of.\n\nGoogle opened its smart home platform to any AI agent, not just its own.\n\nThird-party developers now get broader access than Gemini, Google's own assistant, which plays by different rules.\n\nIf you publish smart home content, your audience's devices may already be exposed to agents they didn't approve.\n\nOpen your Google Home app, check connected apps, and revoke anything you don't fully trust. 🔒\n\nWhich agent has access to your front door right now? 🚪"
+    }
+  },
+  "instagram_caption": "Your lights, locks, and cameras can now be triggered by AI agents you've never heard of.\n\nGoogle opened its smart home platform to any AI agent, not just its own.\n\nThird-party developers now get broader access than Gemini, Google's own assistant, which plays by different rules.\n\nIf you publish smart home content, your audience's devices may already be exposed to agents they didn't approve.\n\nOpen your Google Home app, check connected apps, and revoke anything you don't fully trust. 🔒\n\nWhich agent has access to your front door right now? 🚪",
+  "carousel_slides": [
+    {
+      "hook": "Who really controls your smart home now?",
+      "description": "Google now lets any AI agent trigger your lights, locks, and cameras. Your smart home has new invisible operators.",
+      "visual_hint": "Smart home devices glowing in dark",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart home devices"
+    },
+    {
+      "hook": "Any AI agent can unlock your front door",
+      "description": "Third-party AI agents can now freely control locks, cameras, and lights. Google opened access to every developer.",
+      "visual_hint": "Smart lock with digital code interface",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "smart door lock",
+      "image": "https://images.pexels.com/photos/20901468/pexels-photo-20901468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Google's own Gemini plays by different rules",
+      "description": "Gemini faces restrictions while competitor agents get broader access. Google's home team is locked out of its own advantage.",
+      "visual_hint": "AI assistant robot behind glass wall",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "artificial intelligence robot",
+      "image": "https://images.pexels.com/photos/8294556/pexels-photo-8294556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Unknown agents may already control your devices",
+      "description": "Check your permissions today. Third-party agents can act freely, and you may not know who has access.",
+      "visual_hint": "Hand holding phone checking permissions",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand holding smartphone",
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this and revoke access today",
+      "description": "Go to your smart home settings now and revoke access for any AI agent you don't fully trust.",
+      "visual_hint": "Phone screen showing revoke access button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone settings screen",
+      "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4128369206903%2C100%2C93.174326158619&amp;w=1200",
+  "savedAt": "2026-09-17T09:02:52.380Z",
+  "sourceId": "45384c84a9f2d30d69972196eab3b3b4"
+}

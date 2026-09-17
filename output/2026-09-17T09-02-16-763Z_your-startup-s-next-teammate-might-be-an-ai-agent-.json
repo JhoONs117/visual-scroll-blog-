@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "your-startup-s-next-teammate-might-be-an-ai-agent-",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+  "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+  "slides": [
+    "Could an AI agent become your startup's next hire?",
+    "Gusto, Insight Partners, and Leland debate this at Disrupt 2026",
+    "Agents already handle onboarding, payroll, and customer replies",
+    "Founders may soon manage agents like full-time employees",
+    "Which task will you hand off to an agent first?"
+  ],
+  "thread_text": [
+    "1. Your Next Hire Isn't Human\n\nAt Disrupt 2026, Gusto and Insight Partners will debate whether an AI agent should replace your next full-time role. Not a co-pilot. A worker.",
+    "2. Agents Already Clock In\n\nThey handle onboarding paperwork, run payroll, and answer customer replies. The tools exist today. The debate is about what happens when you stop calling them tools.",
+    "3. The Management Problem\n\nIf founders soon manage agents like employees, performance reviews and task delegation get weird. You can't fire a prompt. You can rewrite it.",
+    "4. One Task, One Agent\n\nThe question isn't if you'll delegate. It's which task you'll hand off first. Pick the one you dread most. That's where the leverage hides.",
+    "5. What Do You Give Up?\n\nTake one recurring task you did this week and simulate handing it to an agent. If editing takes longer than doing, you're not ready. Test it before you hire."
+  ],
+  "video_script": [
+    "Could an AI agent be your startup's next hire?",
+    "Gusto, Insight Partners, and Leland debate this at Disrupt 2026.",
+    "Agents already handle onboarding, payroll, and customer replies today.",
+    "Founders may soon manage agents like full-time employees.",
+    "Which task will you hand off to an agent first?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Your Next Hire Isn't Human\n\nAt Disrupt 2026, Gusto and Insight Partners will debate whether an AI agent should replace your next full-time role. Not a co-pilot. A worker.",
+        "2. Agents Already Clock In\n\nThey handle onboarding paperwork, run payroll, and answer customer replies. The tools exist today. The debate is about what happens when you stop calling them tools.",
+        "3. The Management Problem\n\nIf founders soon manage agents like employees, performance reviews and task delegation get weird. You can't fire a prompt. You can rewrite it.",
+        "4. One Task, One Agent\n\nThe question isn't if you'll delegate. It's which task you'll hand off first. Pick the one you dread most. That's where the leverage hides.",
+        "5. What Do You Give Up?\n\nTake one recurring task you did this week and simulate handing it to an agent. If editing takes longer than doing, you're not ready. Test it before you hire."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Could an AI agent be your startup's next hire?",
+        "Gusto, Insight Partners, and Leland debate this at Disrupt 2026.",
+        "Agents already handle onboarding, payroll, and customer replies today.",
+        "Founders may soon manage agents like full-time employees.",
+        "Which task will you hand off to an agent first?"
+      ]
+    },
+    "instagram": {
+      "caption": "Your next full-time hire might not be human. 👀\n\nAt TechCrunch Disrupt 2026, Gusto, Insight Partners, and Leland will debate whether an AI agent should take your next open role — not as a co-pilot, as a worker. 🤖\n\nAgents already handle onboarding paperwork, run payroll, and answer customer replies today.\n\nIf founders start managing agents like employees, delegation and performance get strange. You can't fire a prompt — you rewrite it.\n\nWhich recurring task would you hand off first? 🧠"
+    }
+  },
+  "instagram_caption": "Your next full-time hire might not be human. 👀\n\nAt TechCrunch Disrupt 2026, Gusto, Insight Partners, and Leland will debate whether an AI agent should take your next open role — not as a co-pilot, as a worker. 🤖\n\nAgents already handle onboarding paperwork, run payroll, and answer customer replies today.\n\nIf founders start managing agents like employees, delegation and performance get strange. You can't fire a prompt — you rewrite it.\n\nWhich recurring task would you hand off first? 🧠",
+  "carousel_slides": [
+    {
+      "hook": "Your next hire might not be human",
+      "description": "AI agents handle onboarding, payroll, and customer replies. Gusto and Insight Partners debate what changes when you stop calling them tools.",
+      "visual_hint": "Person looking at glowing holographic figure",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "office workers"
+    },
+    {
+      "hook": "Gusto and Insight Partners debate at Disrupt",
+      "description": "They'll argue whether an AI agent should replace your next full-time role. Not a co-pilot—a worker.",
+      "visual_hint": "Stage with speakers and audience",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "conference stage",
+      "image": "https://images.pexels.com/photos/34774347/pexels-photo-34774347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Agents already clock in every day",
+      "description": "They handle onboarding paperwork, run payroll, and answer customer replies. The tools exist. The debate is what happens next.",
+      "visual_hint": "Robot arm processing documents",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "factory robot",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Managing agents like employees gets weird",
+      "description": "Performance reviews and task delegation break down. You can't fire a prompt. You can only rewrite it.",
+      "visual_hint": "Manager staring at chatbot interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next hire",
+      "description": "Pick one recurring task you did this week. Simulate handing it to an agent. If editing takes longer, you're not ready.",
+      "visual_hint": "Hand holding phone with checklist",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "person holding smartphone",
+      "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+  "savedAt": "2026-09-17T09:02:34.702Z",
+  "sourceId": "b7c7d891caa08cb85f46554fc458b8d5"
+}

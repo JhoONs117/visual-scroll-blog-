@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "iceland-based-treble-raises-18-million-for-its-voi",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+  "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+  "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+  "slides": [
+    "Iceland's Treble just raised $18M, but why?",
+    "It simulates voices for testing microphones and hearing aids.",
+    "Unlike competitors, it uses physical acoustic modeling, not AI.",
+    "Audio engineers can now test devices virtually before building.",
+    "Ask: could virtual testing replace your physical prototypes?"
+  ],
+  "thread_text": [
+    "1. $18M for What?\n\nIceland's Treble just raised $18M to simulate voices for testing microphones and hearing aids — without using AI.",
+    "2. Physics Over AI\n\nUnlike competitors, Treble uses physical acoustic modeling — not machine learning. That means no training data, just pure sound simulation.",
+    "3. Test Before Building\n\nAudio engineers can now test devices virtually before making physical prototypes. No more costly iterations.",
+    "4. Virtual Prototypes\n\nCould this replace physical testing entirely? Treble's approach suggests yes — at least for early-stage acoustic design.",
+    "5. Your Turn\n\nNext time you design audio hardware, try simulating the acoustics first. Does it save time or just shift the work?"
+  ],
+  "video_script": [
+    "Treble raised 18 million to simulate voices for testing.",
+    "They use physical acoustic modeling, not AI.",
+    "Engineers can test devices virtually before building prototypes.",
+    "Could virtual testing replace physical prototypes?",
+    "Try simulating acoustics before your next hardware build."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. $18M for What?\n\nIceland's Treble just raised $18M to simulate voices for testing microphones and hearing aids — without using AI.",
+        "2. Physics Over AI\n\nUnlike competitors, Treble uses physical acoustic modeling — not machine learning. That means no training data, just pure sound simulation.",
+        "3. Test Before Building\n\nAudio engineers can now test devices virtually before making physical prototypes. No more costly iterations.",
+        "4. Virtual Prototypes\n\nCould this replace physical testing entirely? Treble's approach suggests yes — at least for early-stage acoustic design.",
+        "5. Your Turn\n\nNext time you design audio hardware, try simulating the acoustics first. Does it save time or just shift the work?"
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Treble raised 18 million to simulate voices for testing.",
+        "They use physical acoustic modeling, not AI.",
+        "Engineers can test devices virtually before building prototypes.",
+        "Could virtual testing replace physical prototypes?",
+        "Try simulating acoustics before your next hardware build."
+      ]
+    },
+    "instagram": {
+      "caption": "Testing a microphone just got $18 million cheaper to start. 🎙️\n\nIceland's Treble raised $18M for a platform that simulates voices to test microphones and hearing aids.\n\nUnlike its competitors, it skips machine learning entirely — it uses physical acoustic modeling, so there's no training data, just simulated sound. 🧪\n\nAudio engineers can now run early tests virtually before building any physical prototype.\n\nIf you work with audio hardware, this could cut out the first round of costly iterations.\n\nWould you trust a simulated test enough to skip your first prototype? 🔊"
+    }
+  },
+  "instagram_caption": "Testing a microphone just got $18 million cheaper to start. 🎙️\n\nIceland's Treble raised $18M for a platform that simulates voices to test microphones and hearing aids.\n\nUnlike its competitors, it skips machine learning entirely — it uses physical acoustic modeling, so there's no training data, just simulated sound. 🧪\n\nAudio engineers can now run early tests virtually before building any physical prototype.\n\nIf you work with audio hardware, this could cut out the first round of costly iterations.\n\nWould you trust a simulated test enough to skip your first prototype? 🔊",
+  "carousel_slides": [
+    {
+      "hook": "No AI? Then how does it work?",
+      "description": "Treble raised $18M for voice simulation using physical acoustic modeling instead of machine learning, skipping training data entirely.",
+      "visual_hint": "Sound waves hitting a microphone diaphragm",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "microphone studio"
+    },
+    {
+      "hook": "Simulating voices to test devices",
+      "description": "It simulates human voices for testing microphones and hearing aids, replacing costly physical prototypes with virtual acoustic testing.",
+      "visual_hint": "Hearing aid resting on a table",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "hearing aid",
+      "image": "https://images.pexels.com/photos/9623514/pexels-photo-9623514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Physics beats machine learning here",
+      "description": "Unlike competitors using AI, Treble relies on physical acoustic modeling, meaning no training data is needed, just pure sound simulation.",
+      "visual_hint": "Abstract acoustic wave simulation diagram",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sound wave",
+      "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test audio devices before building them",
+      "description": "Audio engineers can now test devices virtually before making physical prototypes, eliminating costly iterations in early-stage acoustic design.",
+      "visual_hint": "Engineer hands adjusting audio equipment",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "audio engineer",
+      "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Could virtual testing replace your prototypes?",
+      "description": "Next time you design audio hardware, try simulating acoustics first. Save this post and share your thoughts in the comments.",
+      "visual_hint": "Hands typing on a laptop keyboard",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+  "savedAt": "2026-09-17T09:02:25.573Z",
+  "sourceId": "4f879da6629887428af0425b6bc78cc4"
+}

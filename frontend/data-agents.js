@@ -3,6 +3,422 @@ window.AGENTS = {
     {
       "schema_version": 2,
       "agent": "ai-news",
+      "slug": "google-will-now-let-any-ai-agent-run-your-smart-ho",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "pubDate": "2026-09-16T17:00:00.000Z",
+      "slides": [
+        "Google just handed control of your smart home to AI?",
+        "Any AI agent can now trigger lights, locks, and cameras.",
+        "But Google's own Gemini won't get special access.",
+        "Check your permissions: third-party agents can now act freely.",
+        "Revoke access for any agent you don't fully trust today."
+      ],
+      "thread_text": [
+        "1. Google Just Gave AI the Keys\n\nAny AI agent can now trigger your lights, locks, and cameras. Google's own Gemini doesn't get special access.",
+        "2. The Permission Problem\n\nThird-party agents can act freely without Gemini's restrictions. Google opened the door to every AI developer.",
+        "3. Gemini Locked Out\n\nGoogle's own assistant plays by different rules. Competitors get broader access than the home team.",
+        "4. Your Home, Their Playground\n\nCheck your permissions today. Unknown agents may already have control over your smart devices.",
+        "5. Take Action Now\n\nRevoke access for any agent you don't fully trust. Do it today before something unexpected happens."
+      ],
+      "video_script": [
+        "Google just handed control of your smart home to AI.",
+        "Any AI agent can now trigger lights, locks, and cameras.",
+        "But Google's own Gemini won't get special access.",
+        "Check your permissions: third-party agents can now act freely.",
+        "Revoke access for any agent you don't fully trust today."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Google Just Gave AI the Keys\n\nAny AI agent can now trigger your lights, locks, and cameras. Google's own Gemini doesn't get special access.",
+            "2. The Permission Problem\n\nThird-party agents can act freely without Gemini's restrictions. Google opened the door to every AI developer.",
+            "3. Gemini Locked Out\n\nGoogle's own assistant plays by different rules. Competitors get broader access than the home team.",
+            "4. Your Home, Their Playground\n\nCheck your permissions today. Unknown agents may already have control over your smart devices.",
+            "5. Take Action Now\n\nRevoke access for any agent you don't fully trust. Do it today before something unexpected happens."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Google just handed control of your smart home to AI.",
+            "Any AI agent can now trigger lights, locks, and cameras.",
+            "But Google's own Gemini won't get special access.",
+            "Check your permissions: third-party agents can now act freely.",
+            "Revoke access for any agent you don't fully trust today."
+          ]
+        },
+        "instagram": {
+          "caption": "Your lights, locks, and cameras can now be triggered by AI agents you've never heard of.\n\nGoogle opened its smart home platform to any AI agent, not just its own.\n\nThird-party developers now get broader access than Gemini, Google's own assistant, which plays by different rules.\n\nIf you publish smart home content, your audience's devices may already be exposed to agents they didn't approve.\n\nOpen your Google Home app, check connected apps, and revoke anything you don't fully trust. 🔒\n\nWhich agent has access to your front door right now? 🚪"
+        }
+      },
+      "instagram_caption": "Your lights, locks, and cameras can now be triggered by AI agents you've never heard of.\n\nGoogle opened its smart home platform to any AI agent, not just its own.\n\nThird-party developers now get broader access than Gemini, Google's own assistant, which plays by different rules.\n\nIf you publish smart home content, your audience's devices may already be exposed to agents they didn't approve.\n\nOpen your Google Home app, check connected apps, and revoke anything you don't fully trust. 🔒\n\nWhich agent has access to your front door right now? 🚪",
+      "carousel_slides": [
+        {
+          "hook": "Who really controls your smart home now?",
+          "description": "Google now lets any AI agent trigger your lights, locks, and cameras. Your smart home has new invisible operators.",
+          "visual_hint": "Smart home devices glowing in dark",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "smart home devices"
+        },
+        {
+          "hook": "Any AI agent can unlock your front door",
+          "description": "Third-party AI agents can now freely control locks, cameras, and lights. Google opened access to every developer.",
+          "visual_hint": "Smart lock with digital code interface",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "smart door lock",
+          "image": "https://images.pexels.com/photos/20901468/pexels-photo-20901468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Google's own Gemini plays by different rules",
+          "description": "Gemini faces restrictions while competitor agents get broader access. Google's home team is locked out of its own advantage.",
+          "visual_hint": "AI assistant robot behind glass wall",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "artificial intelligence robot",
+          "image": "https://images.pexels.com/photos/8294556/pexels-photo-8294556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Unknown agents may already control your devices",
+          "description": "Check your permissions today. Third-party agents can act freely, and you may not know who has access.",
+          "visual_hint": "Hand holding phone checking permissions",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "hand holding smartphone",
+          "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this and revoke access today",
+          "description": "Go to your smart home settings now and revoke access for any AI agent you don't fully trust.",
+          "visual_hint": "Phone screen showing revoke access button",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "smartphone settings screen",
+          "image": "https://images.pexels.com/photos/34258664/pexels-photo-34258664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4128369206903%2C100%2C93.174326158619&amp;w=1200",
+      "savedAt": "2026-09-17T09:02:52.380Z",
+      "sourceId": "45384c84a9f2d30d69972196eab3b3b4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "the-ai-data-center-e-waste-problem-is-huge-and-get",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "pubDate": "2026-09-16T20:40:46.000Z",
+      "slides": [
+        "Is AI's e-waste crisis already out of control?",
+        "Data centers now generate millions of tons annually.",
+        "But most e-waste isn't from chips — it's from power and cooling.",
+        "Your cloud costs may soon include mandatory e-waste recycling fees.",
+        "Next time you use AI, ask: where does the hardware go?"
+      ],
+      "thread_text": [
+        "1. AI's Dirty Secret\n\nData centers now churn out millions of tons of electronic waste every year — and it's growing fast. Most of it isn't even the chips you'd expect.",
+        "2. The Real E-Waste\n\nIt's not the GPUs. Power supplies and cooling systems make up the bulk of what gets trashed. That's the hidden cost of keeping AI cool.",
+        "3. Your Cloud Bill\n\nSoon, mandatory e-waste recycling fees could be tacked onto your cloud costs. The hardware you never see still has to go somewhere.",
+        "4. The Fee You'll Pay\n\nRegulators are eyeing producer responsibility laws. That means your AI usage could directly fund recycling — or face penalties.",
+        "5. Where Does It Go?\n\nNext time you prompt an AI, ask: where does the hardware end up? Look up your cloud provider's e-waste policy today."
+      ],
+      "video_script": [
+        "AI's e-waste crisis is already out of control.",
+        "Data centers generate millions of tons every year.",
+        "Most waste isn't chips — it's power and cooling.",
+        "Your cloud costs may soon include recycling fees.",
+        "Next time you use AI, ask: where does the hardware go?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. AI's Dirty Secret\n\nData centers now churn out millions of tons of electronic waste every year — and it's growing fast. Most of it isn't even the chips you'd expect.",
+            "2. The Real E-Waste\n\nIt's not the GPUs. Power supplies and cooling systems make up the bulk of what gets trashed. That's the hidden cost of keeping AI cool.",
+            "3. Your Cloud Bill\n\nSoon, mandatory e-waste recycling fees could be tacked onto your cloud costs. The hardware you never see still has to go somewhere.",
+            "4. The Fee You'll Pay\n\nRegulators are eyeing producer responsibility laws. That means your AI usage could directly fund recycling — or face penalties.",
+            "5. Where Does It Go?\n\nNext time you prompt an AI, ask: where does the hardware end up? Look up your cloud provider's e-waste policy today."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "AI's e-waste crisis is already out of control.",
+            "Data centers generate millions of tons every year.",
+            "Most waste isn't chips — it's power and cooling.",
+            "Your cloud costs may soon include recycling fees.",
+            "Next time you use AI, ask: where does the hardware go?"
+          ]
+        },
+        "instagram": {
+          "caption": "Data centers are now trashing millions of tons of electronics every year — and most of it isn't chips.\n\nIt's power supplies and cooling systems, the unnoticed machines that keep AI running. 🗑️\n\nThat waste grows as AI use grows, and regulators want producers to pay for recycling.\n\nThose fees could land on your cloud bill 💸 — the hardware you never see still has to go somewhere.\n\nIf you create with AI tools, your costs may rise even if you never touched a server.\n\nNext time you prompt an AI, ask yourself: where does that hardware actually end up? 🔍"
+        }
+      },
+      "instagram_caption": "Data centers are now trashing millions of tons of electronics every year — and most of it isn't chips.\n\nIt's power supplies and cooling systems, the unnoticed machines that keep AI running. 🗑️\n\nThat waste grows as AI use grows, and regulators want producers to pay for recycling.\n\nThose fees could land on your cloud bill 💸 — the hardware you never see still has to go somewhere.\n\nIf you create with AI tools, your costs may rise even if you never touched a server.\n\nNext time you prompt an AI, ask yourself: where does that hardware actually end up? 🔍",
+      "carousel_slides": [
+        {
+          "hook": "Is AI's e-waste crisis out of control?",
+          "description": "Data centers now generate millions of tons of electronic waste yearly, growing fast. Most isn't even the chips you'd expect.",
+          "visual_hint": "Massive server room with tangled cables",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "server room"
+        },
+        {
+          "hook": "The hidden cost of keeping AI cool",
+          "description": "Power supplies and cooling systems, not GPUs, make up the bulk of e-waste. That's the unseen environmental price of AI.",
+          "visual_hint": "Industrial cooling system pipes and fans",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "cooling system",
+          "image": "https://images.pexels.com/photos/33798627/pexels-photo-33798627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Your cloud bill might soon include e-waste fees",
+          "description": "Mandatory recycling fees could be added to cloud costs. The hardware you never see still has to go somewhere.",
+          "visual_hint": "Cloud server racks with billing overlay",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "cloud server",
+          "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Regulators are eyeing producer responsibility laws",
+          "description": "Your AI usage could directly fund recycling, or face penalties. The fee you'll pay is closer than you think.",
+          "visual_hint": "Government building with scales of justice",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "government building",
+          "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Where does your AI hardware end up?",
+          "description": "Next time you prompt an AI, ask where the hardware goes. Look up your cloud provider's e-waste policy today. Save this post.",
+          "visual_hint": "E-waste dump with old electronics",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "e-waste dump",
+          "image": "https://images.pexels.com/photos/1881081/pexels-photo-1881081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "savedAt": "2026-09-17T09:02:43.760Z",
+      "sourceId": "418dbc769c8c49eb5f141fbeed6affc2"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "your-startup-s-next-teammate-might-be-an-ai-agent-",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "slides": [
+        "Could an AI agent become your startup's next hire?",
+        "Gusto, Insight Partners, and Leland debate this at Disrupt 2026",
+        "Agents already handle onboarding, payroll, and customer replies",
+        "Founders may soon manage agents like full-time employees",
+        "Which task will you hand off to an agent first?"
+      ],
+      "thread_text": [
+        "1. Your Next Hire Isn't Human\n\nAt Disrupt 2026, Gusto and Insight Partners will debate whether an AI agent should replace your next full-time role. Not a co-pilot. A worker.",
+        "2. Agents Already Clock In\n\nThey handle onboarding paperwork, run payroll, and answer customer replies. The tools exist today. The debate is about what happens when you stop calling them tools.",
+        "3. The Management Problem\n\nIf founders soon manage agents like employees, performance reviews and task delegation get weird. You can't fire a prompt. You can rewrite it.",
+        "4. One Task, One Agent\n\nThe question isn't if you'll delegate. It's which task you'll hand off first. Pick the one you dread most. That's where the leverage hides.",
+        "5. What Do You Give Up?\n\nTake one recurring task you did this week and simulate handing it to an agent. If editing takes longer than doing, you're not ready. Test it before you hire."
+      ],
+      "video_script": [
+        "Could an AI agent be your startup's next hire?",
+        "Gusto, Insight Partners, and Leland debate this at Disrupt 2026.",
+        "Agents already handle onboarding, payroll, and customer replies today.",
+        "Founders may soon manage agents like full-time employees.",
+        "Which task will you hand off to an agent first?"
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. Your Next Hire Isn't Human\n\nAt Disrupt 2026, Gusto and Insight Partners will debate whether an AI agent should replace your next full-time role. Not a co-pilot. A worker.",
+            "2. Agents Already Clock In\n\nThey handle onboarding paperwork, run payroll, and answer customer replies. The tools exist today. The debate is about what happens when you stop calling them tools.",
+            "3. The Management Problem\n\nIf founders soon manage agents like employees, performance reviews and task delegation get weird. You can't fire a prompt. You can rewrite it.",
+            "4. One Task, One Agent\n\nThe question isn't if you'll delegate. It's which task you'll hand off first. Pick the one you dread most. That's where the leverage hides.",
+            "5. What Do You Give Up?\n\nTake one recurring task you did this week and simulate handing it to an agent. If editing takes longer than doing, you're not ready. Test it before you hire."
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Could an AI agent be your startup's next hire?",
+            "Gusto, Insight Partners, and Leland debate this at Disrupt 2026.",
+            "Agents already handle onboarding, payroll, and customer replies today.",
+            "Founders may soon manage agents like full-time employees.",
+            "Which task will you hand off to an agent first?"
+          ]
+        },
+        "instagram": {
+          "caption": "Your next full-time hire might not be human. 👀\n\nAt TechCrunch Disrupt 2026, Gusto, Insight Partners, and Leland will debate whether an AI agent should take your next open role — not as a co-pilot, as a worker. 🤖\n\nAgents already handle onboarding paperwork, run payroll, and answer customer replies today.\n\nIf founders start managing agents like employees, delegation and performance get strange. You can't fire a prompt — you rewrite it.\n\nWhich recurring task would you hand off first? 🧠"
+        }
+      },
+      "instagram_caption": "Your next full-time hire might not be human. 👀\n\nAt TechCrunch Disrupt 2026, Gusto, Insight Partners, and Leland will debate whether an AI agent should take your next open role — not as a co-pilot, as a worker. 🤖\n\nAgents already handle onboarding paperwork, run payroll, and answer customer replies today.\n\nIf founders start managing agents like employees, delegation and performance get strange. You can't fire a prompt — you rewrite it.\n\nWhich recurring task would you hand off first? 🧠",
+      "carousel_slides": [
+        {
+          "hook": "Your next hire might not be human",
+          "description": "AI agents handle onboarding, payroll, and customer replies. Gusto and Insight Partners debate what changes when you stop calling them tools.",
+          "visual_hint": "Person looking at glowing holographic figure",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "office workers"
+        },
+        {
+          "hook": "Gusto and Insight Partners debate at Disrupt",
+          "description": "They'll argue whether an AI agent should replace your next full-time role. Not a co-pilot—a worker.",
+          "visual_hint": "Stage with speakers and audience",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "conference stage",
+          "image": "https://images.pexels.com/photos/34774347/pexels-photo-34774347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Agents already clock in every day",
+          "description": "They handle onboarding paperwork, run payroll, and answer customer replies. The tools exist. The debate is what happens next.",
+          "visual_hint": "Robot arm processing documents",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "factory robot",
+          "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Managing agents like employees gets weird",
+          "description": "Performance reviews and task delegation break down. You can't fire a prompt. You can only rewrite it.",
+          "visual_hint": "Manager staring at chatbot interface",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "office workers",
+          "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Save this before your next hire",
+          "description": "Pick one recurring task you did this week. Simulate handing it to an agent. If editing takes longer, you're not ready.",
+          "visual_hint": "Hand holding phone with checklist",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "person holding smartphone",
+          "image": "https://images.pexels.com/photos/11989314/pexels-photo-11989314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "savedAt": "2026-09-17T09:02:34.702Z",
+      "sourceId": "b7c7d891caa08cb85f46554fc458b8d5"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
+      "slug": "iceland-based-treble-raises-18-million-for-its-voi",
+      "prompt_version": "1.0.0",
+      "status": "published",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "slides": [
+        "Iceland's Treble just raised $18M, but why?",
+        "It simulates voices for testing microphones and hearing aids.",
+        "Unlike competitors, it uses physical acoustic modeling, not AI.",
+        "Audio engineers can now test devices virtually before building.",
+        "Ask: could virtual testing replace your physical prototypes?"
+      ],
+      "thread_text": [
+        "1. $18M for What?\n\nIceland's Treble just raised $18M to simulate voices for testing microphones and hearing aids — without using AI.",
+        "2. Physics Over AI\n\nUnlike competitors, Treble uses physical acoustic modeling — not machine learning. That means no training data, just pure sound simulation.",
+        "3. Test Before Building\n\nAudio engineers can now test devices virtually before making physical prototypes. No more costly iterations.",
+        "4. Virtual Prototypes\n\nCould this replace physical testing entirely? Treble's approach suggests yes — at least for early-stage acoustic design.",
+        "5. Your Turn\n\nNext time you design audio hardware, try simulating the acoustics first. Does it save time or just shift the work?"
+      ],
+      "video_script": [
+        "Treble raised 18 million to simulate voices for testing.",
+        "They use physical acoustic modeling, not AI.",
+        "Engineers can test devices virtually before building prototypes.",
+        "Could virtual testing replace physical prototypes?",
+        "Try simulating acoustics before your next hardware build."
+      ],
+      "formats": {
+        "x": {
+          "thread": [
+            "1. $18M for What?\n\nIceland's Treble just raised $18M to simulate voices for testing microphones and hearing aids — without using AI.",
+            "2. Physics Over AI\n\nUnlike competitors, Treble uses physical acoustic modeling — not machine learning. That means no training data, just pure sound simulation.",
+            "3. Test Before Building\n\nAudio engineers can now test devices virtually before making physical prototypes. No more costly iterations.",
+            "4. Virtual Prototypes\n\nCould this replace physical testing entirely? Treble's approach suggests yes — at least for early-stage acoustic design.",
+            "5. Your Turn\n\nNext time you design audio hardware, try simulating the acoustics first. Does it save time or just shift the work?"
+          ]
+        },
+        "tiktok": {
+          "script": [
+            "Treble raised 18 million to simulate voices for testing.",
+            "They use physical acoustic modeling, not AI.",
+            "Engineers can test devices virtually before building prototypes.",
+            "Could virtual testing replace physical prototypes?",
+            "Try simulating acoustics before your next hardware build."
+          ]
+        },
+        "instagram": {
+          "caption": "Testing a microphone just got $18 million cheaper to start. 🎙️\n\nIceland's Treble raised $18M for a platform that simulates voices to test microphones and hearing aids.\n\nUnlike its competitors, it skips machine learning entirely — it uses physical acoustic modeling, so there's no training data, just simulated sound. 🧪\n\nAudio engineers can now run early tests virtually before building any physical prototype.\n\nIf you work with audio hardware, this could cut out the first round of costly iterations.\n\nWould you trust a simulated test enough to skip your first prototype? 🔊"
+        }
+      },
+      "instagram_caption": "Testing a microphone just got $18 million cheaper to start. 🎙️\n\nIceland's Treble raised $18M for a platform that simulates voices to test microphones and hearing aids.\n\nUnlike its competitors, it skips machine learning entirely — it uses physical acoustic modeling, so there's no training data, just simulated sound. 🧪\n\nAudio engineers can now run early tests virtually before building any physical prototype.\n\nIf you work with audio hardware, this could cut out the first round of costly iterations.\n\nWould you trust a simulated test enough to skip your first prototype? 🔊",
+      "carousel_slides": [
+        {
+          "hook": "No AI? Then how does it work?",
+          "description": "Treble raised $18M for voice simulation using physical acoustic modeling instead of machine learning, skipping training data entirely.",
+          "visual_hint": "Sound waves hitting a microphone diaphragm",
+          "layout_type": "hero",
+          "icon": "tag",
+          "image_query": "microphone studio"
+        },
+        {
+          "hook": "Simulating voices to test devices",
+          "description": "It simulates human voices for testing microphones and hearing aids, replacing costly physical prototypes with virtual acoustic testing.",
+          "visual_hint": "Hearing aid resting on a table",
+          "layout_type": "right-focus",
+          "icon": "waves",
+          "image_query": "hearing aid",
+          "image": "https://images.pexels.com/photos/9623514/pexels-photo-9623514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Physics beats machine learning here",
+          "description": "Unlike competitors using AI, Treble relies on physical acoustic modeling, meaning no training data is needed, just pure sound simulation.",
+          "visual_hint": "Abstract acoustic wave simulation diagram",
+          "layout_type": "sensor-zoom",
+          "icon": "heart",
+          "image_query": "sound wave",
+          "image": "https://images.pexels.com/photos/6892911/pexels-photo-6892911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Test audio devices before building them",
+          "description": "Audio engineers can now test devices virtually before making physical prototypes, eliminating costly iterations in early-stage acoustic design.",
+          "visual_hint": "Engineer hands adjusting audio equipment",
+          "layout_type": "human-hand",
+          "icon": "vibration",
+          "image_query": "audio engineer",
+          "image": "https://images.pexels.com/photos/8132802/pexels-photo-8132802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+          "hook": "Could virtual testing replace your prototypes?",
+          "description": "Next time you design audio hardware, try simulating acoustics first. Save this post and share your thoughts in the comments.",
+          "visual_hint": "Hands typing on a laptop keyboard",
+          "layout_type": "cta-final",
+          "icon": "tag",
+          "image_query": "laptop keyboard",
+          "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+      ],
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+      "savedAt": "2026-09-17T09:02:25.573Z",
+      "sourceId": "4f879da6629887428af0425b6bc78cc4"
+    },
+    {
+      "schema_version": 2,
+      "agent": "ai-news",
       "slug": "robots-are-waiting-for-a-chatgpt-moment-nvidia-s-l",
       "prompt_version": "1.0.0",
       "status": "published",

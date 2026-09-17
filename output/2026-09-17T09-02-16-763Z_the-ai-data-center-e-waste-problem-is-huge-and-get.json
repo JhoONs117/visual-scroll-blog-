@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-ai-data-center-e-waste-problem-is-huge-and-get",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The AI data center e-waste problem is huge — and getting bigger",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+  "pubDate": "2026-09-16T20:40:46.000Z",
+  "slides": [
+    "Is AI's e-waste crisis already out of control?",
+    "Data centers now generate millions of tons annually.",
+    "But most e-waste isn't from chips — it's from power and cooling.",
+    "Your cloud costs may soon include mandatory e-waste recycling fees.",
+    "Next time you use AI, ask: where does the hardware go?"
+  ],
+  "thread_text": [
+    "1. AI's Dirty Secret\n\nData centers now churn out millions of tons of electronic waste every year — and it's growing fast. Most of it isn't even the chips you'd expect.",
+    "2. The Real E-Waste\n\nIt's not the GPUs. Power supplies and cooling systems make up the bulk of what gets trashed. That's the hidden cost of keeping AI cool.",
+    "3. Your Cloud Bill\n\nSoon, mandatory e-waste recycling fees could be tacked onto your cloud costs. The hardware you never see still has to go somewhere.",
+    "4. The Fee You'll Pay\n\nRegulators are eyeing producer responsibility laws. That means your AI usage could directly fund recycling — or face penalties.",
+    "5. Where Does It Go?\n\nNext time you prompt an AI, ask: where does the hardware end up? Look up your cloud provider's e-waste policy today."
+  ],
+  "video_script": [
+    "AI's e-waste crisis is already out of control.",
+    "Data centers generate millions of tons every year.",
+    "Most waste isn't chips — it's power and cooling.",
+    "Your cloud costs may soon include recycling fees.",
+    "Next time you use AI, ask: where does the hardware go?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. AI's Dirty Secret\n\nData centers now churn out millions of tons of electronic waste every year — and it's growing fast. Most of it isn't even the chips you'd expect.",
+        "2. The Real E-Waste\n\nIt's not the GPUs. Power supplies and cooling systems make up the bulk of what gets trashed. That's the hidden cost of keeping AI cool.",
+        "3. Your Cloud Bill\n\nSoon, mandatory e-waste recycling fees could be tacked onto your cloud costs. The hardware you never see still has to go somewhere.",
+        "4. The Fee You'll Pay\n\nRegulators are eyeing producer responsibility laws. That means your AI usage could directly fund recycling — or face penalties.",
+        "5. Where Does It Go?\n\nNext time you prompt an AI, ask: where does the hardware end up? Look up your cloud provider's e-waste policy today."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "AI's e-waste crisis is already out of control.",
+        "Data centers generate millions of tons every year.",
+        "Most waste isn't chips — it's power and cooling.",
+        "Your cloud costs may soon include recycling fees.",
+        "Next time you use AI, ask: where does the hardware go?"
+      ]
+    },
+    "instagram": {
+      "caption": "Data centers are now trashing millions of tons of electronics every year — and most of it isn't chips.\n\nIt's power supplies and cooling systems, the unnoticed machines that keep AI running. 🗑️\n\nThat waste grows as AI use grows, and regulators want producers to pay for recycling.\n\nThose fees could land on your cloud bill 💸 — the hardware you never see still has to go somewhere.\n\nIf you create with AI tools, your costs may rise even if you never touched a server.\n\nNext time you prompt an AI, ask yourself: where does that hardware actually end up? 🔍"
+    }
+  },
+  "instagram_caption": "Data centers are now trashing millions of tons of electronics every year — and most of it isn't chips.\n\nIt's power supplies and cooling systems, the unnoticed machines that keep AI running. 🗑️\n\nThat waste grows as AI use grows, and regulators want producers to pay for recycling.\n\nThose fees could land on your cloud bill 💸 — the hardware you never see still has to go somewhere.\n\nIf you create with AI tools, your costs may rise even if you never touched a server.\n\nNext time you prompt an AI, ask yourself: where does that hardware actually end up? 🔍",
+  "carousel_slides": [
+    {
+      "hook": "Is AI's e-waste crisis out of control?",
+      "description": "Data centers now generate millions of tons of electronic waste yearly, growing fast. Most isn't even the chips you'd expect.",
+      "visual_hint": "Massive server room with tangled cables",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "The hidden cost of keeping AI cool",
+      "description": "Power supplies and cooling systems, not GPUs, make up the bulk of e-waste. That's the unseen environmental price of AI.",
+      "visual_hint": "Industrial cooling system pipes and fans",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "cooling system",
+      "image": "https://images.pexels.com/photos/33798627/pexels-photo-33798627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your cloud bill might soon include e-waste fees",
+      "description": "Mandatory recycling fees could be added to cloud costs. The hardware you never see still has to go somewhere.",
+      "visual_hint": "Cloud server racks with billing overlay",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "cloud server",
+      "image": "https://images.pexels.com/photos/5408005/pexels-photo-5408005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Regulators are eyeing producer responsibility laws",
+      "description": "Your AI usage could directly fund recycling, or face penalties. The fee you'll pay is closer than you think.",
+      "visual_hint": "Government building with scales of justice",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "government building",
+      "image": "https://images.pexels.com/photos/28451083/pexels-photo-28451083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Where does your AI hardware end up?",
+      "description": "Next time you prompt an AI, ask where the hardware goes. Look up your cloud provider's e-waste policy today. Save this post.",
+      "visual_hint": "E-waste dump with old electronics",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "e-waste dump",
+      "image": "https://images.pexels.com/photos/1881081/pexels-photo-1881081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+  "savedAt": "2026-09-17T09:02:43.760Z",
+  "sourceId": "418dbc769c8c49eb5f141fbeed6affc2"
+}
