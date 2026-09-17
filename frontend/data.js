@@ -2,6 +2,422 @@ window.ARTICLES = [
   {
     "schema_version": 2,
     "agent": "ai-news",
+    "slug": "robots-are-waiting-for-a-chatgpt-moment-nvidia-s-l",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+    "slides": [
+      "A robot ChatGPT moment? Nvidia's Karpas says it's coming.",
+      "Robots today master specific tasks, not general understanding.",
+      "But Karpas reveals a twist: a foundation model for robotics.",
+      "Startups should plan for robots that learn from one demo.",
+      "Define one robot pilot for Q4—or watch competitors deploy first."
+    ],
+    "thread_text": [
+      "1. Nvidia's Karpas: Robot ChatGPT Moment Coming\n\nKarpas says robots will soon leverage foundation models, transforming how they learn tasks. The shift could make current specialized robots obsolete overnight.",
+      "2. Today's Robots: Task Masters, Not Thinkers\n\nThey can ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+      "3. Karpas Reveals: Foundation Model Twist\n\nInstead of coding each task, robots will use a single foundation model to understand and adapt. This mirrors the leap from narrow AI to general AI.",
+      "4. Startups: Prepare for One-Demo Learning\n\nSoon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+      "5. Define Your Robot Pilot for Q4\n\nPick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind."
+    ],
+    "video_script": [
+      "Nvidia's Karpas says robots will have a ChatGPT moment.",
+      "Today's robots do one task, not general understanding.",
+      "But a foundation model twist is coming for robotics.",
+      "Startups should plan for robots that learn from one demo.",
+      "Define one robot pilot for Q4 or competitors will win."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Nvidia's Karpas: Robot ChatGPT Moment Coming\n\nKarpas says robots will soon leverage foundation models, transforming how they learn tasks. The shift could make current specialized robots obsolete overnight.",
+          "2. Today's Robots: Task Masters, Not Thinkers\n\nThey can ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+          "3. Karpas Reveals: Foundation Model Twist\n\nInstead of coding each task, robots will use a single foundation model to understand and adapt. This mirrors the leap from narrow AI to general AI.",
+          "4. Startups: Prepare for One-Demo Learning\n\nSoon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+          "5. Define Your Robot Pilot for Q4\n\nPick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Nvidia's Karpas says robots will have a ChatGPT moment.",
+          "Today's robots do one task, not general understanding.",
+          "But a foundation model twist is coming for robotics.",
+          "Startups should plan for robots that learn from one demo.",
+          "Define one robot pilot for Q4 or competitors will win."
+        ]
+      },
+      "instagram": {
+        "caption": "Robots that learn a new task from a single demo, not weeks of coding.\n\nNvidia's Les Karpas says a robotics foundation model is coming, at TechCrunch Disrupt 2026. Today's robots ace one job and fail at anything new.\n\nThat's the ChatGPT moment he means: one model, many tasks. 🤖\n\nFor startups, it cuts training time and cost, so a pilot fits in one quarter.\n\nPick one robot task for Q4 and test it. If you wait, competitors deploy first.\n\nWhich single task would you hand to a robot this quarter?"
+      }
+    },
+    "instagram_caption": "Robots that learn a new task from a single demo, not weeks of coding.\n\nNvidia's Les Karpas says a robotics foundation model is coming, at TechCrunch Disrupt 2026. Today's robots ace one job and fail at anything new.\n\nThat's the ChatGPT moment he means: one model, many tasks. 🤖\n\nFor startups, it cuts training time and cost, so a pilot fits in one quarter.\n\nPick one robot task for Q4 and test it. If you wait, competitors deploy first.\n\nWhich single task would you hand to a robot this quarter?",
+    "carousel_slides": [
+      {
+        "hook": "Robots' ChatGPT moment is coming",
+        "description": "Nvidia's Karpas predicts foundation models will let robots learn tasks instantly, making today's specialized machines obsolete overnight.",
+        "visual_hint": "Futuristic robot with glowing neural network",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "humanoid robot"
+      },
+      {
+        "hook": "Today's robots: masters of one task",
+        "description": "They ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+        "visual_hint": "Factory robot arm assembling same part",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "factory robot arm",
+        "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "The twist: a foundation model for robots",
+        "description": "Instead of coding each task, robots will use a single foundation model to understand and adapt, mirroring the leap from narrow to general AI.",
+        "visual_hint": "Abstract brain with digital connections",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "neural network",
+        "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Startups: prepare for one-demo learning",
+        "description": "Soon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+        "visual_hint": "Human hand guiding robot hand",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "human robot handshake",
+        "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Define your robot pilot for Q4",
+        "description": "Pick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind.",
+        "visual_hint": "Calendar with Q4 circled in red",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "calendar deadline",
+        "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "savedAt": "2026-09-17T02:35:36.377Z",
+    "sourceId": "79a042e1b1c00a97a83a07a182dfa866"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "how-fortell-is-using-ai-and-163m-to-crack-a-hearin",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
+    "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+    "slides": [
+      "Fortell raises $163M to break hearing aid monopoly. But will it?",
+      "Traditional hearing aids cost $2,000–$5,000 due to a few big players.",
+      "Fortell's AI adjusts sound in real time, no doctor visit needed.",
+      "Your hearing test could be done via smartphone next year.",
+      "Action: Try a direct-to-consumer hearing test app today."
+    ],
+    "thread_text": [
+      "1. Hearing Aid Monopoly Cracked?\n\nFortell just raised $163M to sell hearing aids without a doctor. Traditional aids cost $2,000–$5,000 because a few big players control the market.",
+      "2. Real-Time AI Adjusts Sound\n\nNo audiologist visit needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+      "3. Smartphone Hearing Test Next Year\n\nYour phone could replace the clinic booth. A direct-to-consumer test is coming, making hearing checks as easy as a selfie.",
+      "4. Will Big Players Adapt?\n\nIf Fortell succeeds, the $5,000 price tag becomes a relic. But monopoly tactics — lobbying, patents, bundling — could slow adoption.",
+      "5. Test Your Hearing Today\n\nDownload a hearing test app right now. No appointment, no cost. See if you actually need that $3,000 pair."
+    ],
+    "video_script": [
+      "This startup raised 163 million to break hearing aid monopoly.",
+      "Traditional hearing aids cost thousands because big players control.",
+      "Their AI adjusts sound live, no doctor visit needed.",
+      "Next year, a smartphone test could replace clinic visits.",
+      "Try a free hearing test app today and see."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Hearing Aid Monopoly Cracked?\n\nFortell just raised $163M to sell hearing aids without a doctor. Traditional aids cost $2,000–$5,000 because a few big players control the market.",
+          "2. Real-Time AI Adjusts Sound\n\nNo audiologist visit needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+          "3. Smartphone Hearing Test Next Year\n\nYour phone could replace the clinic booth. A direct-to-consumer test is coming, making hearing checks as easy as a selfie.",
+          "4. Will Big Players Adapt?\n\nIf Fortell succeeds, the $5,000 price tag becomes a relic. But monopoly tactics — lobbying, patents, bundling — could slow adoption.",
+          "5. Test Your Hearing Today\n\nDownload a hearing test app right now. No appointment, no cost. See if you actually need that $3,000 pair."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "This startup raised 163 million to break hearing aid monopoly.",
+          "Traditional hearing aids cost thousands because big players control.",
+          "Their AI adjusts sound live, no doctor visit needed.",
+          "Next year, a smartphone test could replace clinic visits.",
+          "Try a free hearing test app today and see."
+        ]
+      },
+      "instagram": {
+        "caption": "You can already skip the audiologist. Fortell raised $163M to sell AI hearing aids that adjust sound in real time as your surroundings change. 🦻\n\nTraditional aids run $2,000–$5,000 because a few big players control the market.\n\nNext year, a smartphone hearing test could replace the clinic booth. 📱\n\nIf this works, that price tag becomes a relic — unless lobbying and patents slow it down. 💰\n\nIf you make content, your audio gets judged on cheap earbuds, not $5,000 hardware.\n\nWould you trust an app over a doctor to tell you if you need one? 🤔"
+      }
+    },
+    "instagram_caption": "You can already skip the audiologist. Fortell raised $163M to sell AI hearing aids that adjust sound in real time as your surroundings change. 🦻\n\nTraditional aids run $2,000–$5,000 because a few big players control the market.\n\nNext year, a smartphone hearing test could replace the clinic booth. 📱\n\nIf this works, that price tag becomes a relic — unless lobbying and patents slow it down. 💰\n\nIf you make content, your audio gets judged on cheap earbuds, not $5,000 hardware.\n\nWould you trust an app over a doctor to tell you if you need one? 🤔",
+    "carousel_slides": [
+      {
+        "hook": "Is the $5,000 hearing aid era ending?",
+        "description": "Fortell raised $163M to sell AI hearing aids directly, bypassing doctor visits and threatening a monopoly that keeps prices at $2,000–$5,000.",
+        "visual_hint": "Hearing aid on cash stack",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "hearing aid"
+      },
+      {
+        "hook": "Why do hearing aids cost thousands?",
+        "description": "A few big players control the market, keeping prices at $2,000–$5,000. Fortell's $163M aims to break that grip with direct-to-consumer sales.",
+        "visual_hint": "Price tag on hearing aid",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "price tag",
+        "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "AI adjusts sound in real time",
+        "description": "No audiologist needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+        "visual_hint": "Smartphone with sound waves",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "smartphone sound waves",
+        "image": "https://images.pexels.com/photos/6700050/pexels-photo-6700050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Your phone could test hearing next year",
+        "description": "A direct-to-consumer hearing test is coming, making checks as easy as a selfie and replacing clinic booths for millions.",
+        "visual_hint": "Person holding smartphone hearing test",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "person using smartphone",
+        "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Test your hearing now — free",
+        "description": "Download a hearing test app today. No appointment, no cost. See if you actually need that $3,000 pair.",
+        "visual_hint": "Smartphone with hearing app icon",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "hearing test app",
+        "image": "https://images.pexels.com/photos/7416571/pexels-photo-7416571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675",
+    "savedAt": "2026-09-17T02:35:26.841Z",
+    "sourceId": "0cc4dbe3a57634aa6709bc2784325d85"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "al-gore-says-the-real-ai-risk-isn-t-data-centers-i",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
+    "slides": [
+      "Al Gore warns: AI risk isn't data centers. Then what?",
+      "Industry leaders are warning about something else entirely.",
+      "It's not the energy use but the power to manipulate.",
+      "Regulators must act before the 2024 elections.",
+      "Ask your representative: where do they stand?"
+    ],
+    "thread_text": [
+      "1. Al Gore's warning\n\nHe says the real danger isn't data centers — it's the power to manipulate. Regulators must act before the 2024 elections.",
+      "2. Not energy use\n\nIndustry leaders are warning about something else entirely: the ability to distort public opinion at scale.",
+      "3. Manipulation risk\n\nIt's not about how much power AI consumes, but how it can be used to sway voters and undermine trust.",
+      "4. Election deadline\n\nWith 2024 elections approaching, the window to pass safeguards is closing fast.",
+      "5. Ask your rep\n\nWhere do they stand on AI manipulation? Call or write today — and demand an answer before you vote."
+    ],
+    "video_script": [
+      "Al Gore warns about AI's real danger.",
+      "It's not energy use, it's manipulation power.",
+      "Industry leaders are sounding the alarm.",
+      "Regulators must act before the 2024 elections.",
+      "Ask your representative where they stand."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. Al Gore's warning\n\nHe says the real danger isn't data centers — it's the power to manipulate. Regulators must act before the 2024 elections.",
+          "2. Not energy use\n\nIndustry leaders are warning about something else entirely: the ability to distort public opinion at scale.",
+          "3. Manipulation risk\n\nIt's not about how much power AI consumes, but how it can be used to sway voters and undermine trust.",
+          "4. Election deadline\n\nWith 2024 elections approaching, the window to pass safeguards is closing fast.",
+          "5. Ask your rep\n\nWhere do they stand on AI manipulation? Call or write today — and demand an answer before you vote."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Al Gore warns about AI's real danger.",
+          "It's not energy use, it's manipulation power.",
+          "Industry leaders are sounding the alarm.",
+          "Regulators must act before the 2024 elections.",
+          "Ask your representative where they stand."
+        ]
+      },
+      "instagram": {
+        "caption": "Al Gore says the real AI risk isn't data centers. It's the power to manipulate public opinion at scale, and industry leaders are warning about the same thing.\n\nIt's not about how much energy AI consumes.\n\nIt's about how it can sway voters and undermine trust before the 2024 elections.\n\nIf you create or publish content, the window to push for safeguards is closing fast. ⏳\n\nRegulators need to act now, not after the votes are counted. 🗳️\n\nSo ask yourself: where does your representative actually stand on AI manipulation? 🤔\n\nCall or write today, and demand an answer before you vote. 📢"
+      }
+    },
+    "instagram_caption": "Al Gore says the real AI risk isn't data centers. It's the power to manipulate public opinion at scale, and industry leaders are warning about the same thing.\n\nIt's not about how much energy AI consumes.\n\nIt's about how it can sway voters and undermine trust before the 2024 elections.\n\nIf you create or publish content, the window to push for safeguards is closing fast. ⏳\n\nRegulators need to act now, not after the votes are counted. 🗳️\n\nSo ask yourself: where does your representative actually stand on AI manipulation? 🤔\n\nCall or write today, and demand an answer before you vote. 📢",
+    "carousel_slides": [
+      {
+        "hook": "AI's real threat isn't data centers",
+        "description": "Al Gore warns the danger is AI's power to manipulate public opinion, not its energy consumption. Regulators must act before 2024 elections.",
+        "visual_hint": "Glowing server racks in dark room",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "server room"
+      },
+      {
+        "hook": "Industry leaders sound the alarm",
+        "description": "Tech executives warn AI can distort public opinion at scale, threatening democratic processes and eroding trust in institutions.",
+        "visual_hint": "Silhouettes of people at conference",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "conference audience",
+        "image": "https://images.pexels.com/photos/33411205/pexels-photo-33411205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "It's not energy, it's manipulation",
+        "description": "AI's ability to sway voters and undermine trust is the real risk, far beyond its electricity consumption.",
+        "visual_hint": "Hands typing on laptop keyboard",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "laptop keyboard",
+        "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Election deadline looms large",
+        "description": "With 2024 elections approaching, the window to pass AI safeguards is closing fast. Lawmakers must act now.",
+        "visual_hint": "Voting booth with American flag",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "voting booth",
+        "image": "https://images.pexels.com/photos/5926272/pexels-photo-5926272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Save this: demand answers on AI",
+        "description": "Call or write your representative today and ask where they stand on AI manipulation before you vote.",
+        "visual_hint": "Person holding smartphone with call button",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "smartphone call",
+        "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
+    "savedAt": "2026-09-17T02:35:17.585Z",
+    "sourceId": "546ee7cd8ec87532e1be5768338b4c2a"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
+    "slug": "snap-tries-to-make-the-case-again-for-its-2-200-sm",
+    "prompt_version": "1.0.0",
+    "status": "published",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+    "slides": [
+      "Would you pay $2,200 for Snap's smart glasses?",
+      "Snap's new Spectacles are for developers only.",
+      "But they now work outdoors and last longer.",
+      "Developers can now order them in the US.",
+      "Ask your team: would this replace any tool?"
+    ],
+    "thread_text": [
+      "1. The $2,200 gamble\n\nSnap's new Spectacles are for developers only, but they finally work outdoors and last longer. You can order them in the US starting today.",
+      "2. Developers only, for now\n\nSnap is limiting sales to developers building AR experiences. That means you can't just buy them as a consumer yet.",
+      "3. Outdoors and longer lasting\n\nThe new Spectacles now work in bright sunlight and have extended battery life. No more being tethered to indoor spaces.",
+      "4. Order now in the US\n\nDevelopers in the US can place orders immediately. Shipping and pricing details are available on Snap's website.",
+      "5. Would this replace your tool?\n\nAsk your team: could these glasses replace any current workflow? Try a specific use case this week and see if it sticks."
+    ],
+    "video_script": [
+      "Snap's new Spectacles cost $2,200 and are for developers only.",
+      "They finally work outdoors and last longer than before.",
+      "Developers in the US can order them right now.",
+      "Ask your team: would this replace any tool you use?",
+      "Test it on a real task this week to find out."
+    ],
+    "formats": {
+      "x": {
+        "thread": [
+          "1. The $2,200 gamble\n\nSnap's new Spectacles are for developers only, but they finally work outdoors and last longer. You can order them in the US starting today.",
+          "2. Developers only, for now\n\nSnap is limiting sales to developers building AR experiences. That means you can't just buy them as a consumer yet.",
+          "3. Outdoors and longer lasting\n\nThe new Spectacles now work in bright sunlight and have extended battery life. No more being tethered to indoor spaces.",
+          "4. Order now in the US\n\nDevelopers in the US can place orders immediately. Shipping and pricing details are available on Snap's website.",
+          "5. Would this replace your tool?\n\nAsk your team: could these glasses replace any current workflow? Try a specific use case this week and see if it sticks."
+        ]
+      },
+      "tiktok": {
+        "script": [
+          "Snap's new Spectacles cost $2,200 and are for developers only.",
+          "They finally work outdoors and last longer than before.",
+          "Developers in the US can order them right now.",
+          "Ask your team: would this replace any tool you use?",
+          "Test it on a real task this week to find out."
+        ]
+      },
+      "instagram": {
+        "caption": "$2,200 for glasses that only developers can buy right now. 🤖\n\nSnap opened US orders for its new Spectacles, but sales stay limited to developers building AR experiences. Consumers can't just buy them yet.\n\nThey now work in bright sunlight and last longer on battery.\n\nIf you create AR content, this is a tool you can actually test outdoors now — not another indoor demo.\n\nWould your team swap any current workflow for these? Try one real use case this week before judging. 👓"
+      }
+    },
+    "instagram_caption": "$2,200 for glasses that only developers can buy right now. 🤖\n\nSnap opened US orders for its new Spectacles, but sales stay limited to developers building AR experiences. Consumers can't just buy them yet.\n\nThey now work in bright sunlight and last longer on battery.\n\nIf you create AR content, this is a tool you can actually test outdoors now — not another indoor demo.\n\nWould your team swap any current workflow for these? Try one real use case this week before judging. 👓",
+    "carousel_slides": [
+      {
+        "hook": "$2,200 for glasses that only work outdoors?",
+        "description": "Snap's new Spectacles finally work in bright sunlight with longer battery life, but the $2,200 price targets developers, not consumers.",
+        "visual_hint": "Person wearing AR glasses in sunlight",
+        "layout_type": "hero",
+        "icon": "tag",
+        "image_query": "smart glasses"
+      },
+      {
+        "hook": "Developers only, for now",
+        "description": "Snap limits sales to developers building AR experiences, so you can't just buy them as a regular consumer yet.",
+        "visual_hint": "Developer coding with AR headset",
+        "layout_type": "right-focus",
+        "icon": "waves",
+        "image_query": "augmented reality",
+        "image": "https://images.pexels.com/photos/1309725/pexels-photo-1309725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "No more indoor tethering",
+        "description": "The new Spectacles work outdoors in bright sunlight and last longer, freeing users from indoor spaces.",
+        "visual_hint": "Person using glasses outside",
+        "layout_type": "sensor-zoom",
+        "icon": "heart",
+        "image_query": "sunlight outdoor",
+        "image": "https://images.pexels.com/photos/16630711/pexels-photo-16630711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "US developers can order today",
+        "description": "Developers in the US can place orders immediately, with shipping and pricing details available on Snap's website.",
+        "visual_hint": "Hand holding smartphone ordering",
+        "layout_type": "human-hand",
+        "icon": "vibration",
+        "image_query": "online shopping",
+        "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      {
+        "hook": "Could this replace your team's tool?",
+        "description": "Try one specific workflow use case this week and see if AR glasses stick. Save this post for later.",
+        "visual_hint": "Team collaborating with AR glasses",
+        "layout_type": "cta-final",
+        "icon": "tag",
+        "image_query": "office workers",
+        "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+    ],
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
+    "savedAt": "2026-09-17T02:35:08.955Z",
+    "sourceId": "92088bb9d257c5c1797f377f7218e9ab"
+  },
+  {
+    "schema_version": 2,
+    "agent": "ai-news",
     "slug": "your-ai-agents-can-now-control-your-google-home-de",
     "prompt_version": "1.0.0",
     "status": "published",

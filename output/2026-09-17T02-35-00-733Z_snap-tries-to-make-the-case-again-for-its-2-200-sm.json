@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "snap-tries-to-make-the-case-again-for-its-2-200-sm",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Snap tries to make the case again for its $2,200 smart glasses",
+  "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+  "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+  "slides": [
+    "Would you pay $2,200 for Snap's smart glasses?",
+    "Snap's new Spectacles are for developers only.",
+    "But they now work outdoors and last longer.",
+    "Developers can now order them in the US.",
+    "Ask your team: would this replace any tool?"
+  ],
+  "thread_text": [
+    "1. The $2,200 gamble\n\nSnap's new Spectacles are for developers only, but they finally work outdoors and last longer. You can order them in the US starting today.",
+    "2. Developers only, for now\n\nSnap is limiting sales to developers building AR experiences. That means you can't just buy them as a consumer yet.",
+    "3. Outdoors and longer lasting\n\nThe new Spectacles now work in bright sunlight and have extended battery life. No more being tethered to indoor spaces.",
+    "4. Order now in the US\n\nDevelopers in the US can place orders immediately. Shipping and pricing details are available on Snap's website.",
+    "5. Would this replace your tool?\n\nAsk your team: could these glasses replace any current workflow? Try a specific use case this week and see if it sticks."
+  ],
+  "video_script": [
+    "Snap's new Spectacles cost $2,200 and are for developers only.",
+    "They finally work outdoors and last longer than before.",
+    "Developers in the US can order them right now.",
+    "Ask your team: would this replace any tool you use?",
+    "Test it on a real task this week to find out."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $2,200 gamble\n\nSnap's new Spectacles are for developers only, but they finally work outdoors and last longer. You can order them in the US starting today.",
+        "2. Developers only, for now\n\nSnap is limiting sales to developers building AR experiences. That means you can't just buy them as a consumer yet.",
+        "3. Outdoors and longer lasting\n\nThe new Spectacles now work in bright sunlight and have extended battery life. No more being tethered to indoor spaces.",
+        "4. Order now in the US\n\nDevelopers in the US can place orders immediately. Shipping and pricing details are available on Snap's website.",
+        "5. Would this replace your tool?\n\nAsk your team: could these glasses replace any current workflow? Try a specific use case this week and see if it sticks."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Snap's new Spectacles cost $2,200 and are for developers only.",
+        "They finally work outdoors and last longer than before.",
+        "Developers in the US can order them right now.",
+        "Ask your team: would this replace any tool you use?",
+        "Test it on a real task this week to find out."
+      ]
+    },
+    "instagram": {
+      "caption": "$2,200 for glasses that only developers can buy right now. 🤖\n\nSnap opened US orders for its new Spectacles, but sales stay limited to developers building AR experiences. Consumers can't just buy them yet.\n\nThey now work in bright sunlight and last longer on battery.\n\nIf you create AR content, this is a tool you can actually test outdoors now — not another indoor demo.\n\nWould your team swap any current workflow for these? Try one real use case this week before judging. 👓"
+    }
+  },
+  "instagram_caption": "$2,200 for glasses that only developers can buy right now. 🤖\n\nSnap opened US orders for its new Spectacles, but sales stay limited to developers building AR experiences. Consumers can't just buy them yet.\n\nThey now work in bright sunlight and last longer on battery.\n\nIf you create AR content, this is a tool you can actually test outdoors now — not another indoor demo.\n\nWould your team swap any current workflow for these? Try one real use case this week before judging. 👓",
+  "carousel_slides": [
+    {
+      "hook": "$2,200 for glasses that only work outdoors?",
+      "description": "Snap's new Spectacles finally work in bright sunlight with longer battery life, but the $2,200 price targets developers, not consumers.",
+      "visual_hint": "Person wearing AR glasses in sunlight",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "smart glasses"
+    },
+    {
+      "hook": "Developers only, for now",
+      "description": "Snap limits sales to developers building AR experiences, so you can't just buy them as a regular consumer yet.",
+      "visual_hint": "Developer coding with AR headset",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "augmented reality",
+      "image": "https://images.pexels.com/photos/1309725/pexels-photo-1309725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No more indoor tethering",
+      "description": "The new Spectacles work outdoors in bright sunlight and last longer, freeing users from indoor spaces.",
+      "visual_hint": "Person using glasses outside",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "sunlight outdoor",
+      "image": "https://images.pexels.com/photos/16630711/pexels-photo-16630711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "US developers can order today",
+      "description": "Developers in the US can place orders immediately, with shipping and pricing details available on Snap's website.",
+      "visual_hint": "Hand holding smartphone ordering",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "online shopping",
+      "image": "https://images.pexels.com/photos/7661069/pexels-photo-7661069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Could this replace your team's tool?",
+      "description": "Try one specific workflow use case this week and see if AR glasses stick. Save this post for later.",
+      "visual_hint": "Team collaborating with AR glasses",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
+  "savedAt": "2026-09-17T02:35:08.955Z",
+  "sourceId": "92088bb9d257c5c1797f377f7218e9ab"
+}

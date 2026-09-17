@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "robots-are-waiting-for-a-chatgpt-moment-nvidia-s-l",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+  "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+  "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+  "slides": [
+    "A robot ChatGPT moment? Nvidia's Karpas says it's coming.",
+    "Robots today master specific tasks, not general understanding.",
+    "But Karpas reveals a twist: a foundation model for robotics.",
+    "Startups should plan for robots that learn from one demo.",
+    "Define one robot pilot for Q4—or watch competitors deploy first."
+  ],
+  "thread_text": [
+    "1. Nvidia's Karpas: Robot ChatGPT Moment Coming\n\nKarpas says robots will soon leverage foundation models, transforming how they learn tasks. The shift could make current specialized robots obsolete overnight.",
+    "2. Today's Robots: Task Masters, Not Thinkers\n\nThey can ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+    "3. Karpas Reveals: Foundation Model Twist\n\nInstead of coding each task, robots will use a single foundation model to understand and adapt. This mirrors the leap from narrow AI to general AI.",
+    "4. Startups: Prepare for One-Demo Learning\n\nSoon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+    "5. Define Your Robot Pilot for Q4\n\nPick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind."
+  ],
+  "video_script": [
+    "Nvidia's Karpas says robots will have a ChatGPT moment.",
+    "Today's robots do one task, not general understanding.",
+    "But a foundation model twist is coming for robotics.",
+    "Startups should plan for robots that learn from one demo.",
+    "Define one robot pilot for Q4 or competitors will win."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Nvidia's Karpas: Robot ChatGPT Moment Coming\n\nKarpas says robots will soon leverage foundation models, transforming how they learn tasks. The shift could make current specialized robots obsolete overnight.",
+        "2. Today's Robots: Task Masters, Not Thinkers\n\nThey can ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+        "3. Karpas Reveals: Foundation Model Twist\n\nInstead of coding each task, robots will use a single foundation model to understand and adapt. This mirrors the leap from narrow AI to general AI.",
+        "4. Startups: Prepare for One-Demo Learning\n\nSoon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+        "5. Define Your Robot Pilot for Q4\n\nPick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Nvidia's Karpas says robots will have a ChatGPT moment.",
+        "Today's robots do one task, not general understanding.",
+        "But a foundation model twist is coming for robotics.",
+        "Startups should plan for robots that learn from one demo.",
+        "Define one robot pilot for Q4 or competitors will win."
+      ]
+    },
+    "instagram": {
+      "caption": "Robots that learn a new task from a single demo, not weeks of coding.\n\nNvidia's Les Karpas says a robotics foundation model is coming, at TechCrunch Disrupt 2026. Today's robots ace one job and fail at anything new.\n\nThat's the ChatGPT moment he means: one model, many tasks. 🤖\n\nFor startups, it cuts training time and cost, so a pilot fits in one quarter.\n\nPick one robot task for Q4 and test it. If you wait, competitors deploy first.\n\nWhich single task would you hand to a robot this quarter?"
+    }
+  },
+  "instagram_caption": "Robots that learn a new task from a single demo, not weeks of coding.\n\nNvidia's Les Karpas says a robotics foundation model is coming, at TechCrunch Disrupt 2026. Today's robots ace one job and fail at anything new.\n\nThat's the ChatGPT moment he means: one model, many tasks. 🤖\n\nFor startups, it cuts training time and cost, so a pilot fits in one quarter.\n\nPick one robot task for Q4 and test it. If you wait, competitors deploy first.\n\nWhich single task would you hand to a robot this quarter?",
+  "carousel_slides": [
+    {
+      "hook": "Robots' ChatGPT moment is coming",
+      "description": "Nvidia's Karpas predicts foundation models will let robots learn tasks instantly, making today's specialized machines obsolete overnight.",
+      "visual_hint": "Futuristic robot with glowing neural network",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "humanoid robot"
+    },
+    {
+      "hook": "Today's robots: masters of one task",
+      "description": "They ace a single job but fail at anything new. Each new task requires fresh programming, limiting flexibility and driving up costs.",
+      "visual_hint": "Factory robot arm assembling same part",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "factory robot arm",
+      "image": "https://images.pexels.com/photos/36522030/pexels-photo-36522030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "The twist: a foundation model for robots",
+      "description": "Instead of coding each task, robots will use a single foundation model to understand and adapt, mirroring the leap from narrow to general AI.",
+      "visual_hint": "Abstract brain with digital connections",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "neural network",
+      "image": "https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Startups: prepare for one-demo learning",
+      "description": "Soon robots will learn from a single demonstration, slashing training time. Companies that adapt early will deploy faster and cheaper.",
+      "visual_hint": "Human hand guiding robot hand",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "human robot handshake",
+      "image": "https://images.pexels.com/photos/6153346/pexels-photo-6153346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Define your robot pilot for Q4",
+      "description": "Pick one task, test a learning robot this quarter. If you wait, competitors will deploy first and leave you behind.",
+      "visual_hint": "Calendar with Q4 circled in red",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "calendar deadline",
+      "image": "https://images.pexels.com/photos/8962466/pexels-photo-8962466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+  "savedAt": "2026-09-17T02:35:36.377Z",
+  "sourceId": "79a042e1b1c00a97a83a07a182dfa866"
+}

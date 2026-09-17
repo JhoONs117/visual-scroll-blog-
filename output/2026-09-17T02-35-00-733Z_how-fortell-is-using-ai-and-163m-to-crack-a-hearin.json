@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "how-fortell-is-using-ai-and-163m-to-crack-a-hearin",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly ",
+  "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+  "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+  "slides": [
+    "Fortell raises $163M to break hearing aid monopoly. But will it?",
+    "Traditional hearing aids cost $2,000–$5,000 due to a few big players.",
+    "Fortell's AI adjusts sound in real time, no doctor visit needed.",
+    "Your hearing test could be done via smartphone next year.",
+    "Action: Try a direct-to-consumer hearing test app today."
+  ],
+  "thread_text": [
+    "1. Hearing Aid Monopoly Cracked?\n\nFortell just raised $163M to sell hearing aids without a doctor. Traditional aids cost $2,000–$5,000 because a few big players control the market.",
+    "2. Real-Time AI Adjusts Sound\n\nNo audiologist visit needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+    "3. Smartphone Hearing Test Next Year\n\nYour phone could replace the clinic booth. A direct-to-consumer test is coming, making hearing checks as easy as a selfie.",
+    "4. Will Big Players Adapt?\n\nIf Fortell succeeds, the $5,000 price tag becomes a relic. But monopoly tactics — lobbying, patents, bundling — could slow adoption.",
+    "5. Test Your Hearing Today\n\nDownload a hearing test app right now. No appointment, no cost. See if you actually need that $3,000 pair."
+  ],
+  "video_script": [
+    "This startup raised 163 million to break hearing aid monopoly.",
+    "Traditional hearing aids cost thousands because big players control.",
+    "Their AI adjusts sound live, no doctor visit needed.",
+    "Next year, a smartphone test could replace clinic visits.",
+    "Try a free hearing test app today and see."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Hearing Aid Monopoly Cracked?\n\nFortell just raised $163M to sell hearing aids without a doctor. Traditional aids cost $2,000–$5,000 because a few big players control the market.",
+        "2. Real-Time AI Adjusts Sound\n\nNo audiologist visit needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+        "3. Smartphone Hearing Test Next Year\n\nYour phone could replace the clinic booth. A direct-to-consumer test is coming, making hearing checks as easy as a selfie.",
+        "4. Will Big Players Adapt?\n\nIf Fortell succeeds, the $5,000 price tag becomes a relic. But monopoly tactics — lobbying, patents, bundling — could slow adoption.",
+        "5. Test Your Hearing Today\n\nDownload a hearing test app right now. No appointment, no cost. See if you actually need that $3,000 pair."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "This startup raised 163 million to break hearing aid monopoly.",
+        "Traditional hearing aids cost thousands because big players control.",
+        "Their AI adjusts sound live, no doctor visit needed.",
+        "Next year, a smartphone test could replace clinic visits.",
+        "Try a free hearing test app today and see."
+      ]
+    },
+    "instagram": {
+      "caption": "You can already skip the audiologist. Fortell raised $163M to sell AI hearing aids that adjust sound in real time as your surroundings change. 🦻\n\nTraditional aids run $2,000–$5,000 because a few big players control the market.\n\nNext year, a smartphone hearing test could replace the clinic booth. 📱\n\nIf this works, that price tag becomes a relic — unless lobbying and patents slow it down. 💰\n\nIf you make content, your audio gets judged on cheap earbuds, not $5,000 hardware.\n\nWould you trust an app over a doctor to tell you if you need one? 🤔"
+    }
+  },
+  "instagram_caption": "You can already skip the audiologist. Fortell raised $163M to sell AI hearing aids that adjust sound in real time as your surroundings change. 🦻\n\nTraditional aids run $2,000–$5,000 because a few big players control the market.\n\nNext year, a smartphone hearing test could replace the clinic booth. 📱\n\nIf this works, that price tag becomes a relic — unless lobbying and patents slow it down. 💰\n\nIf you make content, your audio gets judged on cheap earbuds, not $5,000 hardware.\n\nWould you trust an app over a doctor to tell you if you need one? 🤔",
+  "carousel_slides": [
+    {
+      "hook": "Is the $5,000 hearing aid era ending?",
+      "description": "Fortell raised $163M to sell AI hearing aids directly, bypassing doctor visits and threatening a monopoly that keeps prices at $2,000–$5,000.",
+      "visual_hint": "Hearing aid on cash stack",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "hearing aid"
+    },
+    {
+      "hook": "Why do hearing aids cost thousands?",
+      "description": "A few big players control the market, keeping prices at $2,000–$5,000. Fortell's $163M aims to break that grip with direct-to-consumer sales.",
+      "visual_hint": "Price tag on hearing aid",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "price tag",
+      "image": "https://images.pexels.com/photos/7986977/pexels-photo-7986977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "AI adjusts sound in real time",
+      "description": "No audiologist needed. Fortell's AI tweaks audio instantly based on your surroundings — something $5,000 aids still struggle with.",
+      "visual_hint": "Smartphone with sound waves",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "smartphone sound waves",
+      "image": "https://images.pexels.com/photos/6700050/pexels-photo-6700050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Your phone could test hearing next year",
+      "description": "A direct-to-consumer hearing test is coming, making checks as easy as a selfie and replacing clinic booths for millions.",
+      "visual_hint": "Person holding smartphone hearing test",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "person using smartphone",
+      "image": "https://images.pexels.com/photos/9366612/pexels-photo-9366612.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Test your hearing now — free",
+      "description": "Download a hearing test app today. No appointment, no cost. See if you actually need that $3,000 pair.",
+      "visual_hint": "Smartphone with hearing app icon",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "hearing test app",
+      "image": "https://images.pexels.com/photos/7416571/pexels-photo-7416571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675",
+  "savedAt": "2026-09-17T02:35:26.841Z",
+  "sourceId": "0cc4dbe3a57634aa6709bc2784325d85"
+}

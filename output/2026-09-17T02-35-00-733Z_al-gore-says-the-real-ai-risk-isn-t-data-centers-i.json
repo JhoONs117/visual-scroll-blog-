@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "al-gore-says-the-real-ai-risk-isn-t-data-centers-i",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+  "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+  "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
+  "slides": [
+    "Al Gore warns: AI risk isn't data centers. Then what?",
+    "Industry leaders are warning about something else entirely.",
+    "It's not the energy use but the power to manipulate.",
+    "Regulators must act before the 2024 elections.",
+    "Ask your representative: where do they stand?"
+  ],
+  "thread_text": [
+    "1. Al Gore's warning\n\nHe says the real danger isn't data centers — it's the power to manipulate. Regulators must act before the 2024 elections.",
+    "2. Not energy use\n\nIndustry leaders are warning about something else entirely: the ability to distort public opinion at scale.",
+    "3. Manipulation risk\n\nIt's not about how much power AI consumes, but how it can be used to sway voters and undermine trust.",
+    "4. Election deadline\n\nWith 2024 elections approaching, the window to pass safeguards is closing fast.",
+    "5. Ask your rep\n\nWhere do they stand on AI manipulation? Call or write today — and demand an answer before you vote."
+  ],
+  "video_script": [
+    "Al Gore warns about AI's real danger.",
+    "It's not energy use, it's manipulation power.",
+    "Industry leaders are sounding the alarm.",
+    "Regulators must act before the 2024 elections.",
+    "Ask your representative where they stand."
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. Al Gore's warning\n\nHe says the real danger isn't data centers — it's the power to manipulate. Regulators must act before the 2024 elections.",
+        "2. Not energy use\n\nIndustry leaders are warning about something else entirely: the ability to distort public opinion at scale.",
+        "3. Manipulation risk\n\nIt's not about how much power AI consumes, but how it can be used to sway voters and undermine trust.",
+        "4. Election deadline\n\nWith 2024 elections approaching, the window to pass safeguards is closing fast.",
+        "5. Ask your rep\n\nWhere do they stand on AI manipulation? Call or write today — and demand an answer before you vote."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Al Gore warns about AI's real danger.",
+        "It's not energy use, it's manipulation power.",
+        "Industry leaders are sounding the alarm.",
+        "Regulators must act before the 2024 elections.",
+        "Ask your representative where they stand."
+      ]
+    },
+    "instagram": {
+      "caption": "Al Gore says the real AI risk isn't data centers. It's the power to manipulate public opinion at scale, and industry leaders are warning about the same thing.\n\nIt's not about how much energy AI consumes.\n\nIt's about how it can sway voters and undermine trust before the 2024 elections.\n\nIf you create or publish content, the window to push for safeguards is closing fast. ⏳\n\nRegulators need to act now, not after the votes are counted. 🗳️\n\nSo ask yourself: where does your representative actually stand on AI manipulation? 🤔\n\nCall or write today, and demand an answer before you vote. 📢"
+    }
+  },
+  "instagram_caption": "Al Gore says the real AI risk isn't data centers. It's the power to manipulate public opinion at scale, and industry leaders are warning about the same thing.\n\nIt's not about how much energy AI consumes.\n\nIt's about how it can sway voters and undermine trust before the 2024 elections.\n\nIf you create or publish content, the window to push for safeguards is closing fast. ⏳\n\nRegulators need to act now, not after the votes are counted. 🗳️\n\nSo ask yourself: where does your representative actually stand on AI manipulation? 🤔\n\nCall or write today, and demand an answer before you vote. 📢",
+  "carousel_slides": [
+    {
+      "hook": "AI's real threat isn't data centers",
+      "description": "Al Gore warns the danger is AI's power to manipulate public opinion, not its energy consumption. Regulators must act before 2024 elections.",
+      "visual_hint": "Glowing server racks in dark room",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "server room"
+    },
+    {
+      "hook": "Industry leaders sound the alarm",
+      "description": "Tech executives warn AI can distort public opinion at scale, threatening democratic processes and eroding trust in institutions.",
+      "visual_hint": "Silhouettes of people at conference",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "conference audience",
+      "image": "https://images.pexels.com/photos/33411205/pexels-photo-33411205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "It's not energy, it's manipulation",
+      "description": "AI's ability to sway voters and undermine trust is the real risk, far beyond its electricity consumption.",
+      "visual_hint": "Hands typing on laptop keyboard",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "laptop keyboard",
+      "image": "https://images.pexels.com/photos/15774453/pexels-photo-15774453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Election deadline looms large",
+      "description": "With 2024 elections approaching, the window to pass AI safeguards is closing fast. Lawmakers must act now.",
+      "visual_hint": "Voting booth with American flag",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "voting booth",
+      "image": "https://images.pexels.com/photos/5926272/pexels-photo-5926272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: demand answers on AI",
+      "description": "Call or write your representative today and ask where they stand on AI manipulation before you vote.",
+      "visual_hint": "Person holding smartphone with call button",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "smartphone call",
+      "image": "https://images.pexels.com/photos/6964154/pexels-photo-6964154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
+  "savedAt": "2026-09-17T02:35:17.585Z",
+  "sourceId": "546ee7cd8ec87532e1be5768338b4c2a"
+}
