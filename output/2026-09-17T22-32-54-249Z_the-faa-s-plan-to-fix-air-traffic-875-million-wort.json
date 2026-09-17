@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "the-faa-s-plan-to-fix-air-traffic-875-million-wort",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+  "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+  "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
+  "slides": [
+    "The FAA bets $875 million on AI—will it work?",
+    "Air traffic controllers face chronic understaffing and old systems",
+    "The fix isn't new radar—it's AI predicting conflicts",
+    "Fewer delays? Only if controllers trust the black box",
+    "Next storm season will show if the bet pays off"
+  ],
+  "thread_text": [
+    "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the system it's replacing is held together by duct tape and hope.",
+    "2. Not Radar, Prediction\n\nThe plan skips new hardware entirely. Instead, AI predicts conflicts before they happen—like a chess engine for the sky.",
+    "3. The Trust Problem\n\nControllers won't rely on a black box they don't understand. If they ignore its alerts, the whole investment is worthless.",
+    "4. The Real Test\n\nNext storm season will reveal whether AI actually cuts delays or just adds another layer of complexity to an already broken system.",
+    "5. Ask Your Controller\n\nNext time you fly, ask yourself: would you trust an AI to keep your plane apart? If not, the FAA's bet might not pay off."
+  ],
+  "video_script": [
+    "The FAA just bet 875 million dollars on AI.",
+    "The problem isn't radar, it's prediction.",
+    "But controllers don't trust black boxes.",
+    "Next storm season will test everything.",
+    "Would you trust AI with your flight?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. The $875M Gamble\n\nThe FAA just bet nearly a billion dollars on AI to fix air traffic control. But the system it's replacing is held together by duct tape and hope.",
+        "2. Not Radar, Prediction\n\nThe plan skips new hardware entirely. Instead, AI predicts conflicts before they happen—like a chess engine for the sky.",
+        "3. The Trust Problem\n\nControllers won't rely on a black box they don't understand. If they ignore its alerts, the whole investment is worthless.",
+        "4. The Real Test\n\nNext storm season will reveal whether AI actually cuts delays or just adds another layer of complexity to an already broken system.",
+        "5. Ask Your Controller\n\nNext time you fly, ask yourself: would you trust an AI to keep your plane apart? If not, the FAA's bet might not pay off."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "The FAA just bet 875 million dollars on AI.",
+        "The problem isn't radar, it's prediction.",
+        "But controllers don't trust black boxes.",
+        "Next storm season will test everything.",
+        "Would you trust AI with your flight?"
+      ]
+    },
+    "instagram": {
+      "caption": "Want to keep your plane apart, the FAA is betting $875 million on AI that does it instead of new radar. ✈️\n\nAir traffic controllers are already chronically understaffed, working on systems held together by duct tape and hope, so the plan skips hardware entirely and uses AI to predict conflicts before they happen.\n\nBut if controllers don't trust the black box, they'll ignore its alerts and the whole investment is worthless.\n\nNext storm season is the real test: fewer delays, or just another layer of complexity.\n\nWould you trust an AI to keep your plane apart?"
+    }
+  },
+  "instagram_caption": "Want to keep your plane apart, the FAA is betting $875 million on AI that does it instead of new radar. ✈️\n\nAir traffic controllers are already chronically understaffed, working on systems held together by duct tape and hope, so the plan skips hardware entirely and uses AI to predict conflicts before they happen.\n\nBut if controllers don't trust the black box, they'll ignore its alerts and the whole investment is worthless.\n\nNext storm season is the real test: fewer delays, or just another layer of complexity.\n\nWould you trust an AI to keep your plane apart?",
+  "carousel_slides": [
+    {
+      "hook": "Can AI keep planes from colliding?",
+      "description": "The FAA bets $875 million on AI conflict prediction, replacing a system held together by duct tape and hope.",
+      "visual_hint": "Control tower silhouette against stormy sky",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "air traffic control tower"
+    },
+    {
+      "hook": "The system is running on fumes",
+      "description": "Chronic understaffing and aging radar systems leave controllers stretched thin, forcing the FAA to gamble on a fix.",
+      "visual_hint": "Overworked controller at old radar screen",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "radar screen room",
+      "image": "https://images.pexels.com/photos/3862624/pexels-photo-3862624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "No new radar, just prediction",
+      "description": "Instead of hardware, AI forecasts conflicts before they happen, acting like a chess engine for the sky.",
+      "visual_hint": "Abstract AI neural network over flight paths",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "flight paths map",
+      "image": "https://images.pexels.com/photos/5405596/pexels-photo-5405596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Would you trust a black box?",
+      "description": "Controllers won't rely on alerts they don't understand, and if they ignore them, the investment becomes worthless.",
+      "visual_hint": "Human hand hovering over glowing alert",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "hand touching screen",
+      "image": "https://images.pexels.com/photos/3756877/pexels-photo-3756877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this before your next flight",
+      "description": "Next storm season will reveal if AI cuts delays or adds complexity. Ask yourself: would you trust AI with your plane?",
+      "visual_hint": "Airplane window view of storm clouds",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "airplane window clouds",
+      "image": "https://images.pexels.com/photos/32138464/pexels-photo-32138464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+  "savedAt": "2026-09-17T22:33:12.464Z",
+  "sourceId": "787bbd73daf7613be9538adadb63c0c5"
+}

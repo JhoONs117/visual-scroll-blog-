@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "agent": "ai-news",
+  "slug": "adecco-group-rolls-out-agentforce-coworker-to-27-0",
+  "prompt_version": "1.0.0",
+  "status": "published",
+  "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+  "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+  "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
+  "slides": [
+    "Adecco just deployed an AI coworker to 27,000 people. Why?",
+    "Agentforce Coworker handles repetitive tasks across 40 countries",
+    "But it doesn't replace recruiters — it augments their daily work",
+    "If your job has repetitive tasks, an AI teammate is coming",
+    "Ask your boss: which tasks can AI take off my plate?"
+  ],
+  "thread_text": [
+    "1. 27,000 People Got an AI Coworker\n\nAdecco just deployed Agentforce Coworker to 27,000 employees. It handles repetitive tasks, but doesn't replace recruiters — it augments their daily work.",
+    "2. 40 Countries, One AI\n\nAgentforce Coworker operates across 40 countries at Adecco. It automates repetitive tasks, freeing recruiters to focus on human connections.",
+    "3. Not Replacement, Augmentation\n\nAdecco's AI coworker doesn't replace recruiters. It takes over repetitive work so they can spend more time on strategic hiring.",
+    "4. Your Job Next?\n\nIf your role involves repetitive tasks, an AI teammate is likely coming. The question is how you'll adapt and what new skills you'll need.",
+    "5. Ask Your Boss Today\n\nAsk your boss: which tasks can AI take off my plate? Start the conversation now to stay ahead."
+  ],
+  "video_script": [
+    "Adecco just gave 27,000 people an AI coworker.",
+    "It handles repetitive tasks across 40 countries.",
+    "But it doesn't replace recruiters—it augments their work.",
+    "If your job has repetitive tasks, AI is coming.",
+    "Ask your boss: what can AI take off my plate?"
+  ],
+  "formats": {
+    "x": {
+      "thread": [
+        "1. 27,000 People Got an AI Coworker\n\nAdecco just deployed Agentforce Coworker to 27,000 employees. It handles repetitive tasks, but doesn't replace recruiters — it augments their daily work.",
+        "2. 40 Countries, One AI\n\nAgentforce Coworker operates across 40 countries at Adecco. It automates repetitive tasks, freeing recruiters to focus on human connections.",
+        "3. Not Replacement, Augmentation\n\nAdecco's AI coworker doesn't replace recruiters. It takes over repetitive work so they can spend more time on strategic hiring.",
+        "4. Your Job Next?\n\nIf your role involves repetitive tasks, an AI teammate is likely coming. The question is how you'll adapt and what new skills you'll need.",
+        "5. Ask Your Boss Today\n\nAsk your boss: which tasks can AI take off my plate? Start the conversation now to stay ahead."
+      ]
+    },
+    "tiktok": {
+      "script": [
+        "Adecco just gave 27,000 people an AI coworker.",
+        "It handles repetitive tasks across 40 countries.",
+        "But it doesn't replace recruiters—it augments their work.",
+        "If your job has repetitive tasks, AI is coming.",
+        "Ask your boss: what can AI take off my plate?"
+      ]
+    },
+    "instagram": {
+      "caption": "27,000 people in 40-plus countries just got an AI teammate. 🤖\n\nAdecco deployed Agentforce Coworker to handle repetitive tasks across its global workforce.\n\nIt doesn't replace recruiters — it takes over the busywork so they can focus on strategic hiring.\n\nIf your job has repetitive tasks, this is the template companies are following right now.\n\nStart the conversation with your boss before it starts without you: which tasks could AI take off your plate? 💬"
+    }
+  },
+  "instagram_caption": "27,000 people in 40-plus countries just got an AI teammate. 🤖\n\nAdecco deployed Agentforce Coworker to handle repetitive tasks across its global workforce.\n\nIt doesn't replace recruiters — it takes over the busywork so they can focus on strategic hiring.\n\nIf your job has repetitive tasks, this is the template companies are following right now.\n\nStart the conversation with your boss before it starts without you: which tasks could AI take off your plate? 💬",
+  "carousel_slides": [
+    {
+      "hook": "AI coworker or job replacement?",
+      "description": "Adecco deployed Agentforce Coworker to 27,000 employees across 40+ countries, automating repetitive tasks while keeping recruiters focused on human connections.",
+      "visual_hint": "Global map with AI nodes",
+      "layout_type": "hero",
+      "icon": "tag",
+      "image_query": "world map"
+    },
+    {
+      "hook": "One AI, 40 countries, endless tasks",
+      "description": "Agentforce Coworker operates across 40 countries, handling repetitive work so recruiters can prioritize strategic hiring and human interaction.",
+      "visual_hint": "Digital globe with connecting lines",
+      "layout_type": "right-focus",
+      "icon": "waves",
+      "image_query": "globe network",
+      "image": "https://images.pexels.com/photos/8542360/pexels-photo-8542360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Not a replacement, an augmentation",
+      "description": "Adecco's AI doesn't replace recruiters; it takes over repetitive tasks, freeing them to focus on human connections and strategic hiring.",
+      "visual_hint": "Human and robot handshake",
+      "layout_type": "sensor-zoom",
+      "icon": "heart",
+      "image_query": "robot handshake",
+      "image": "https://images.pexels.com/photos/6153344/pexels-photo-6153344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Is your job next?",
+      "description": "If your role involves repetitive tasks, an AI teammate is likely coming. Adapt by learning new skills to stay ahead.",
+      "visual_hint": "Office worker with AI interface",
+      "layout_type": "human-hand",
+      "icon": "vibration",
+      "image_query": "office workers",
+      "image": "https://images.pexels.com/photos/9077349/pexels-photo-9077349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "hook": "Save this: ask your boss today",
+      "description": "Ask your boss which tasks AI can take off your plate. Start the conversation now to stay ahead.",
+      "visual_hint": "Person talking to boss",
+      "layout_type": "cta-final",
+      "icon": "tag",
+      "image_query": "business meeting",
+      "image": "https://images.pexels.com/photos/12903168/pexels-photo-12903168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/4406813/pexels-photo-4406813.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "savedAt": "2026-09-17T22:33:03.806Z",
+  "sourceId": "4215f02f410f5bd4271d3d3236dfb531"
+}
